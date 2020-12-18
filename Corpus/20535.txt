@@ -1,0 +1,1 @@
+ URL : "https://github.com/MicroSur/sur_myevic/issues/7" TITLE : coil reading issue BODY : box model: evic vtc dual coil setup: dual coil kanthal a1 28ga 0,50 the firmware in standby displays 0,71, when firing 0.50. this doesn't let set to higher wattage.

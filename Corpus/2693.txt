@@ -1,0 +1,1 @@
+ URL : "https://github.com/jehrhardt/lambdaapp/issues/2" TITLE : create an app BODY : an app has the following properties: name git repository url reference to github project when support for gitlab or bitbucket is added latter, there will still be a git repository, but the reference to the project will be different. thus the project reference should be open to this change.

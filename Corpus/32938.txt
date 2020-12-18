@@ -1,0 +1,1 @@
+ URL : "https://github.com/meh/smart-referer/issues/65" TITLE : 0.2.3 sends referrer BODY : firefox 56.0 / nightly 58.0a1 20171007100142 smart referer 0.2.3 new firefox profile enable smart referer: yes strict mode: on or off makes no difference exceptions: none whitelist source: blank rewrite mode: send nothing browser console shows the referrer is still being sent.

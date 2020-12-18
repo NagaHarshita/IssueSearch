@@ -1,0 +1,1 @@
+ URL : "https://github.com/junit-team/junit5/issues/1134" TITLE : callback extensions order BODY : i will be happy to have an order of callback executions. say a test have 2 extensions, i want to execute the callbacks in a certain order.

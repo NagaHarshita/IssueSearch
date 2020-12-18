@@ -1,0 +1,1 @@
+ URL : "https://github.com/tomhrr/dale/issues/183" TITLE : dale macro for clojure BODY : create a dale macro for clojure or a scheme so that dale can be embedded inside of another s-expr based language.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/WPTRT/theme-sniffer/issues/75" TITLE : check for theme prefix BODY : this should be coordinated with the leads from the theme review team, but if we specify the theme prefix prefixes in the style.css we could parse it, and then include in the checks using php php_codesniffer::setconfigdata 'prefixes', implode ',', $args 'theme_prefixes' , true ;

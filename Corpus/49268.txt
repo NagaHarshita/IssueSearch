@@ -1,0 +1,1 @@
+ URL : "https://github.com/dividiti/ck-caffe/issues/104" TITLE : test different models BODY : hi, when i first run ck run ... , i got a list of models to choose from. the next time i ran it, i don't see the list any more. how can i choose a different model?

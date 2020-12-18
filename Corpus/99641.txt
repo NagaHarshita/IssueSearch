@@ -1,0 +1,1 @@
+ URL : "https://github.com/bermudadigitalstudio/Titan/issues/45" TITLE : mutable response parameter BODY : make this possible: app.get /init { req, res -> requesttype, responsetype in res.body = hello world return req, res }

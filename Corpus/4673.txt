@@ -1,0 +1,1 @@
+ URL : "https://github.com/twitter/ios-twitter-logging-service/issues/8" TITLE : file log issue BODY : logging in file doesn't work. i try to use your solution for file logging but even in our example application for ios log files are empty after using. maybe i don't understand how to use our logging service.

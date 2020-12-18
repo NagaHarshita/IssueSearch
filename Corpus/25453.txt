@@ -1,0 +1,1 @@
+ URL : "https://github.com/DmitryUlyanov/texture_nets/issues/71" TITLE : -init image option? BODY : instead of initializing with random, is there a way to initialize with the content image? it seems from jcjohnson/neural-style many people have gotten better results with this.

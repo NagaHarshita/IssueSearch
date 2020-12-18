@@ -1,0 +1,1 @@
+ URL : "https://github.com/playcanvas/engine/issues/1046" TITLE : output error in console. BODY : play tanx https://tanx.io/ using firefox. output error in console. error: webgl warning: drawelements: this operation requires zeroing texture data. this is slow. playcanvas-stable.min.js:177:309 browser: firefox 57 playcanvas: 0.207.1 2d2e296

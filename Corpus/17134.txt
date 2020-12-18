@@ -1,0 +1,1 @@
+ URL : "https://github.com/opencart/opencart/issues/5986" TITLE : newsletter - spam BODY : with gmail mail smtp configuration on oc, the newsletter goes to spam folder. only the first email goes to inbox client folder, the rest goes to spam folder

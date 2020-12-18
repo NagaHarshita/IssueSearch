@@ -1,0 +1,1 @@
+ URL : "https://github.com/hyperoslo/ImagePicker/issues/354" TITLE : video get asset BODY : hello, i was wondering how to get my video as data after selecting it: swift func donebuttondidpress _ imagepicker: imagepickercontroller, images: uiimage { imagepicker.dismiss animated: true } thank you very much,

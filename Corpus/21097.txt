@@ -1,0 +1,1 @@
+ URL : "https://github.com/zabuto/calendar/issues/52" TITLE : duplicate id usage BODY : the drawcalendar function adds an duplicate id in line 60: var $containerhtml = $ '<div class= zabuto_calendar id= ' + $calendarelement.attr 'id' + ' ></div>' ; i'm not a zabuto calendar expert but this looks unnecessary and triggers an error in our testing tools.

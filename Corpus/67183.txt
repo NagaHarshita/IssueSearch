@@ -1,0 +1,1 @@
+ URL : "https://github.com/primefaces/primeng/issues/4307" TITLE : pagination in datatable BODY : on change of rows per page option ,the records is not loading based on the selected rows option

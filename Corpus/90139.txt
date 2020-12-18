@@ -1,0 +1,1 @@
+ URL : "https://github.com/mortenjust/trainer-mac/issues/10" TITLE : running in docker toolbox BODY : hi, great work with this trainer!. i have moved computation to an older mac which doesn't support docker but can use docker toolbox. how would i modify this to run in docker toolbox instead? many thanks, ben

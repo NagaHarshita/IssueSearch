@@ -1,0 +1,1 @@
+ URL : "https://github.com/JuliaDB/ODBC.jl/issues/160" TITLE : sql> repl mode BODY : - document - capture results in a variable

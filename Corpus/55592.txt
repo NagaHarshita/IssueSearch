@@ -1,0 +1,1 @@
+ URL : "https://github.com/pguso/bootstrap-data-table/issues/9" TITLE : jquery 3 compatibility BODY : when i run this plugin with the jquery3 migrate libraries, the search input is missing.

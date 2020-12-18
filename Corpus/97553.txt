@@ -1,0 +1,1 @@
+ URL : "https://github.com/Zero-Day-Project/frontend/issues/9" TITLE : headbar einführen desktop BODY : 1. logo klein rechts 2. headline des jeweiligen themas links, direkt neben dem corner menu 3. headline soll erst beim scrollen eingeblendet werden also noch nicht bei der einstiegsthemenseite headbar.pdf https://github.com/zero-day-project/frontend/files/783342/headbar.pdf

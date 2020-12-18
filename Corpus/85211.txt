@@ -1,0 +1,1 @@
+ URL : "https://github.com/cliffe/SecGen/issues/100" TITLE : error provisoning desktop BODY : i had error when provisioning desktop vm evaluation error: error while evaluating a function call, could not find class ::unix_update::unix in security audit scenario.

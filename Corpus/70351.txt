@@ -1,0 +1,1 @@
+ URL : "https://github.com/arq5x/lumpy-sv/issues/190" TITLE : vcf to bedpe conversion BODY : is there an easy way to convert the vcf from lumpyexpress into a bedpe file? i know the regular lumpy output has the bedpe option but we were trying not to rerun all our data. thanks for the help!

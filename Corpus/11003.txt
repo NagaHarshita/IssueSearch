@@ -1,0 +1,1 @@
+ URL : "https://github.com/learn-co-curriculum/ruby-inheritance-lab/issues/6" TITLE : error with tests BODY : you don't appear to be in a learn lesson's directory. please cd to an appropriate directory and try again. error message when user tries to run tests, even when user is in the lesson's directory. ide reset is ineffective.

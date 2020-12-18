@@ -1,0 +1,1 @@
+ URL : "https://github.com/tadziopazur/TizenRT/issues/4" TITLE : tizenrt init scripts BODY : setting up a device with tizenrt each time the device is run is really cumbersome. we need to support some sort of init scripts or config files to configure the platform on startup like wifi access

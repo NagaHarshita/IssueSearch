@@ -1,0 +1,1 @@
+ URL : "https://github.com/AlexKhotian/DiCh/issues/1" TITLE : backend chat messages BODY : server can handle incoming messages and forward them to specific endpoint.

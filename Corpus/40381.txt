@@ -1,0 +1,1 @@
+ URL : "https://github.com/audiojs/web-audio-write/issues/1" TITLE : two ending scenarios BODY : in first, we want to end it straight ahead, no matter that there is data left. in second, we want to plan ending, when existing data is all consumed.

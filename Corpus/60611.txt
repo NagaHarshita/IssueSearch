@@ -1,0 +1,1 @@
+ URL : "https://github.com/SirGFM/jjat_2/issues/10" TITLE : add a checkpoint system BODY : the checkpoint may be similar to jjat's: save on screen transition. however, the game must have difficulty settings that make it more lenient. for example, easy mode may always restart on checkpoints with the life fully healed, while normal/hard doesn't heal the players.

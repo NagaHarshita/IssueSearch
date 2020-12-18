@@ -1,0 +1,1 @@
+ URL : "https://github.com/opencontainers/runc/issues/1292" TITLE : go 1.6 travis jobs failing BODY : eg see this merge to master where the pr passed https://travis-ci.org/opencontainers/runc/builds/194568870 and recent prs https://travis-ci.org/opencontainers/runc/builds/194826933

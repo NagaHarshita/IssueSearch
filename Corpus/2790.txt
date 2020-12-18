@@ -1,0 +1,1 @@
+ URL : "https://github.com/ruudverheijden/node-p1-reader/issues/3" TITLE : emit raw data BODY : can you please add the possibility to get the raw data? constructor.emit 'raw', packet ;

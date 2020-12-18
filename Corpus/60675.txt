@@ -1,0 +1,1 @@
+ URL : "https://github.com/matt-attack/Jet/issues/9" TITLE : add basic doc generator BODY : should start out by generating basic html file that lists types and functions so that one does not have to scan all the code to find it. then have it load basic description from comment above the declaration.

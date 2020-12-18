@@ -1,0 +1,1 @@
+ URL : "https://github.com/SaviorXTanren/mixer-client-csharp/issues/13" TITLE : support .net standard 2.0 BODY : by supporting .net standard 2.0, mixer-client-csharp could be used in a asp.net core web application

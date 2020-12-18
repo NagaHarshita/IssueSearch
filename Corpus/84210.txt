@@ -1,0 +1,1 @@
+ URL : "https://github.com/johnboronkas/rockband-overdrive-tool/issues/2" TITLE : create config file format BODY : we need a config file to specify values ie, a note is worth 25 points, the max multiplyer is 4, and a full overdrive bar is worth 16 measures .

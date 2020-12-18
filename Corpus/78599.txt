@@ -1,0 +1,3 @@
+ URL : "https://github.com/rmotr-curriculum/introduction-to-python-programming-questions/issues/36" TITLE : question title blablabla BODY : question body blablabla
+blablabla
+blablabla assigment: http://localhost:8000/python/introduction-to-programming-with-python/getting-started/sum-of-two-numbers user code: python def sum_of_two_numbers a, b : pass

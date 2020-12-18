@@ -1,0 +1,1 @@
+ URL : "https://github.com/snatik/android-storage/issues/42" TITLE : unable to delete folder BODY : my folder path is /storage/emulated/0/com.example.demoapp but i am unable to delete it using storage.deletedirectory path ; can anyone plzz help me in this ???

@@ -1,0 +1,1 @@
+ URL : "https://github.com/zalando-incubator/pazuzu-registry/issues/152" TITLE : upgrade zalando libraries BODY : after spring-boot upgrade make sure we are also on the latest zalando libs.

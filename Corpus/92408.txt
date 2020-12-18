@@ -1,0 +1,1 @@
+ URL : "https://github.com/Toxicable/angular-gitter-replybot/issues/7" TITLE : wire up internal throttle BODY : incase we make a mistake or someone tries to exploit it make sure it only sends messages with a gap greater than 500ms of the last one send

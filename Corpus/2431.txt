@@ -1,0 +1,1 @@
+ URL : "https://github.com/hammy2899/ArchonCrates/issues/16" TITLE : add log files BODY : add a new directory with log files containing: - startup logs - java errors maybe - key & crate events giving, opening etc.

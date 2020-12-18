@@ -1,0 +1,1 @@
+ URL : "https://github.com/bgoldman930/mua/issues/2" TITLE : edit code without project BODY : @bgoldman930 to make a folder in top layer and put the code inside of that. adjust do files so that they can be run interactively without project when iterating by pulling in code from michael stepner's health inequality project.

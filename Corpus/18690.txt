@@ -1,0 +1,1 @@
+ URL : "https://github.com/mehcode/atom-minimap-plus/issues/9" TITLE : unable to install BODY : hi, i am trying to install the addon using command apm install minimap-plus . however, it is failing to install and giving error request for package information failed: not found . thank you.

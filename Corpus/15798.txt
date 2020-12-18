@@ -1,0 +1,1 @@
+ URL : "https://github.com/globocom/alchemetrics/issues/1" TITLE : fix timestamp bug BODY : event timestamp is created only when the event is reported.

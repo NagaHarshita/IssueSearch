@@ -1,0 +1,1 @@
+ URL : "https://github.com/AliasIO/Wappalyzer/issues/1529" TITLE : headers are not analyzed BODY : its because patters isnt array and doesnt have length propety https://github.com/aliasio/wappalyzer/blob/master/src/wappalyzer.js l519

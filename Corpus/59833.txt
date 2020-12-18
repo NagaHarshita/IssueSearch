@@ -1,0 +1,1 @@
+ URL : "https://github.com/coding-blocks/clix/issues/1" TITLE : user configurable keys BODY : currently clix gui opens on ctrl + space keys. add a command line argument which permits user to set keys explicitly.

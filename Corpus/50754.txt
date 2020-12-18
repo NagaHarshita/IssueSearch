@@ -1,0 +1,1 @@
+ URL : "https://github.com/opsdroid/opsdroid/issues/244" TITLE : add --load-config flag BODY : need a flag for installing local skill dependencies when running a dockerized app. should call the install new requirements.txt from skills loaded by path without running the bot

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jonatasemidio/diffsb/issues/3" TITLE : treat 404 and 500, etc BODY : improve the coverage treating the most commons http mistakes.

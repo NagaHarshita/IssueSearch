@@ -1,0 +1,1 @@
+ URL : "https://github.com/akvo/akvo-platform/issues/5" TITLE : akvo theme for keycloak BODY : we have a draft _login_ theme, but several interactions are broken register, forgot password . we need to fix those interactions with a proper time allocation for this task.

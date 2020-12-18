@@ -1,0 +1,1 @@
+ URL : "https://github.com/hicsail/anchor/issues/77" TITLE : event user coverage BODY : create a route for to get the users who have triggered this event / not triggered this event based on a certain time. show the percentage of how many users have encountered this event on ui. allow time input as well from ui

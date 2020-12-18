@@ -1,0 +1,5 @@
+ URL : "https://github.com/NSI-IT/AUG-DDMOBILE/issues/55" TITLE : view archive projects BODY : as a user i would like to view archive projects so that i may know which projects are no longer active. - verify that i should be able to see list of archived projects.
+- verify that i should be able to view details of the project but should not be able to do any activity on it.
+- verify that i can view the project in the last state/shape it was before it got archived. for e.g. i can view messages sent/received but couldn't create new one.
+- verify that i can restore a project. when done; it will be enabled to make any activity.
+- verify that by default only active projects will show up.

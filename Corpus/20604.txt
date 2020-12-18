@@ -1,0 +1,1 @@
+ URL : "https://github.com/Ardenian/Survival-Game/issues/6" TITLE : consume a resource BODY : a component which controls things like eat, drink, build or craft. it basically takes something and returns something new, whatever that might be.

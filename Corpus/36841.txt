@@ -1,0 +1,1 @@
+ URL : "https://github.com/alexcrichton/ssh2-rs/issues/75" TITLE : include license text BODY : since i can't reopen 55, submitting new one.. both apache-2.0 and mit require license text to be present along with source, so you really need to include license text.

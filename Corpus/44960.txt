@@ -1,0 +1,1 @@
+ URL : "https://github.com/GiselleSerate/suitelife/issues/3" TITLE : get rid of islistitem BODY : we don't need this variable, but currently it's really integrated in the code.

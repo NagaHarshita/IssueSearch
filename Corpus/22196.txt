@@ -1,0 +1,1 @@
+ URL : "https://github.com/chef/inspec/issues/1437" TITLE : inspec.io and ie11 BODY : hi, the new inspec.io site is having background and stylesheet issues when being viewed in ie11 at least on my mitre box. just thought i would let you know it is casing issues in not only the header but also in the mid-page code examples etc. aaron

@@ -1,0 +1,1 @@
+ URL : "https://github.com/teleport/react-dnd-treeview/issues/8" TITLE : fr: prevent node dragging BODY : hi, it would be great to implement isdraggable prop in the node to prevent unnecessary drags. the usual case is to let user select text in child inputs by mouse. thanks.

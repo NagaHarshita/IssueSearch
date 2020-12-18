@@ -1,0 +1,1 @@
+ URL : "https://github.com/algolia/algoliasearch-wordpress/issues/628" TITLE : use instantsearch v2 BODY : what did you expect to happen? the newest version of instantsearch is used what happened instead? the version 1.11.7 is required as a file. how can we fix this behavior? simply update when there's time for it 😄

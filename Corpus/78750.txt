@@ -1,0 +1,1 @@
+ URL : "https://github.com/JetJet13/mathbook/issues/39" TITLE : refactor gulp serve task BODY : the gulp serve task needs refactoring so that when a riot tag file changes or a pug file changes browser-sync can reload the page without disconnecting from the server because nodemon restarts.

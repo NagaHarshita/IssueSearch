@@ -1,0 +1,1 @@
+ URL : "https://github.com/ros/ros-overlay/issues/282" TITLE : grid_map and lunar BODY : any reason hat the grid_map package is not included in lunar but is in kinetic ? is it because of ethz_asl hasn't officially ported the package to lunar ?

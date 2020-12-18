@@ -1,0 +1,1 @@
+ URL : "https://github.com/redox-os/redox/issues/822" TITLE : improve pty security BODY : currently, any process can open any pty. this allows any process to spy on pty contents. this must be fixed, while still allowing less to reopen its controlling terminal when piping.

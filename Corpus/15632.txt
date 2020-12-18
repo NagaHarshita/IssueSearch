@@ -1,0 +1,1 @@
+ URL : "https://github.com/davidoevans/react-redux-dapp/issues/10" TITLE : failed to compile BODY : <img width= 1489 alt= screen shot 2017-04-15 at 2 35 20 pm src= https://cloud.githubusercontent.com/assets/5326519/25066056/5c171092-21e9-11e7-8344-f72b6c7a4822.png > i am using node v7.3.0 and have the latest truffle and testrpc installed. any ideas?

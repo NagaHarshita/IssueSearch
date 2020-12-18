@@ -1,0 +1,1 @@
+ URL : "https://github.com/CS2103AUG2017-T13-B2/main/issues/54" TITLE : fix edit command BODY : fix bug in edit command, so that it works with sort parameter.

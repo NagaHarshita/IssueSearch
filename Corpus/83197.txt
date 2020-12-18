@@ -1,0 +1,1 @@
+ URL : "https://github.com/oncecloud/cStack-utility/issues/2" TITLE : build-service.sh not work BODY : os: ubuntu 14.04 err image ： cloudunit/tomcat-8 cloudunit/java err msg: gzip: stdin: not in gzip format tar: child returned status 1 tar: error is not recoverable: exiting now 在下载完镜像的压缩包后

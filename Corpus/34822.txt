@@ -1,0 +1,1 @@
+ URL : "https://github.com/Ishadijcks/pokeclicker/issues/27" TITLE : create a chat system BODY : we want the chat system to support: must have: - chat roles - login something like passport-js - ignore list - pick username at sign-up should have: - emoticons - private messages - multiple rooms

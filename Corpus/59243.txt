@@ -1,0 +1,1 @@
+ URL : "https://github.com/33mhz/robinut/issues/12" TITLE : timestamps show as now BODY : there is a bug in the timestamp handling local time, and it renders everything as now .

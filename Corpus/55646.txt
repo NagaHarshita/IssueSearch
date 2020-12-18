@@ -1,0 +1,1 @@
+ URL : "https://github.com/apixu/apixu-php/issues/1" TITLE : kind of typo in readme BODY : $url = http://api.apixu.com/v1/current.json?key=$key&q=paris&= ; isn't it supposed to be: $url = http://api.apixu.com/v1/current.json?key=$key&q=$city ;

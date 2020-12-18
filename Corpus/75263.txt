@@ -1,0 +1,1 @@
+ URL : "https://github.com/sequelize/sequelize/issues/7347" TITLE : google's spanner support BODY : this is query to community devs and not an issue in sequelize google's spanner compatibility with sequelize - has any devs looked into it ?

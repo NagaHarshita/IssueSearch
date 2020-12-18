@@ -1,0 +1,1 @@
+ URL : "https://github.com/termux/play-audio/issues/6" TITLE : library not found BODY : i got an error when $ play-audio foo.mp3 cannot link executable dependencies: library libc++_shared.so not found

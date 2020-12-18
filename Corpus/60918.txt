@@ -1,0 +1,1 @@
+ URL : "https://github.com/bazelbuild/continuous-integration/issues/126" TITLE : add python3 to the path BODY : to support build for gerrit code review project on windows, python 3 is needed.

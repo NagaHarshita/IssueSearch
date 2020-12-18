@@ -1,0 +1,1 @@
+ URL : "https://github.com/kbrannan/ldcpackage/issues/7" TITLE : flow.est input for fdcplot BODY : i am unable to figure out where the dataframe that contains the value column is created for the use of the flow.est input in the fdcplot function.

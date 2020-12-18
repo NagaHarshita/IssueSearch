@@ -1,0 +1,1 @@
+ URL : "https://github.com/voxable-labs/hg/issues/5" TITLE : add initial generators BODY : before we have yeoman-style generators via 4, let's create some standard rails generators.

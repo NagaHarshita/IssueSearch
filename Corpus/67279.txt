@@ -1,0 +1,1 @@
+ URL : "https://github.com/rickypc/selenium-page-object-generator/issues/19" TITLE : perhaps feature request BODY : when the generator is running under chrome, it seems that if you perform any other action on the computer, clicking the mouse anywhere, the generator just closes. is there an option for it to continue to run in the background?

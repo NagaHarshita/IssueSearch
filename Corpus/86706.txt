@@ -1,0 +1,1 @@
+ URL : "https://github.com/zotero/web-library/issues/79" TITLE : implement jest test suite BODY : jest https://facebook.github.io/jest/ enables snapshot testing which will work well to help prevent regressions in our components.

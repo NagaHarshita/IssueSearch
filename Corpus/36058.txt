@@ -1,0 +1,2 @@
+ URL : "https://github.com/meyerhoferc/bike-share/issues/45" TITLE : format date from csv BODY : string formatting method needs to exist for the seed file.
+the date comes in as day/month/year and active record expects month/day/year

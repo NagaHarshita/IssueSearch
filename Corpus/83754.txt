@@ -1,0 +1,1 @@
+ URL : "https://github.com/airbnb/streamalert/issues/84" TITLE : cli pin terraform version BODY : pin the version of terraform required by the streamalert cli.

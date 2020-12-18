@@ -1,0 +1,1 @@
+ URL : "https://github.com/450-team-1/frontend-ui/issues/7" TITLE : setup travis.yml file BODY : need to configure travis.yml file for running our tests and make sure it works with our github integration

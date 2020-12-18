@@ -1,0 +1,1 @@
+ URL : "https://github.com/Heath-Mayocchi/Capstone-2017/issues/96" TITLE : user management - friends BODY : admin can add friends from the user management screen acceptance criteria: a list with checkboxes for current friends a button to remove user/s from the list a button to add a friend, this will open the add friend screen

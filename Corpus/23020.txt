@@ -1,0 +1,1 @@
+ URL : "https://github.com/kobotoolbox/kpi/issues/1176" TITLE : new ui integration BODY : general purpose issue for updates to ui, based on new screens: - update typography - update icons - header - drawer - form list ui changes - add new routes for category lists draft, deployed, archived - updates to new project modal

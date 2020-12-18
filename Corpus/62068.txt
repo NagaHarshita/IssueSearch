@@ -1,0 +1,1 @@
+ URL : "https://github.com/wvlia5/SublimeDebugger/issues/26" TITLE : can't switch to python2 BODY : that's what i get after trying to switch to python2. python2 not installed exception attributeerror: 'dbpython2' object has no attribute 'sp' in <bound method dbpython2.__del__ of <python debugger.backends.dbpython2.dbpython2 object at 0x10dd27550>> ignored

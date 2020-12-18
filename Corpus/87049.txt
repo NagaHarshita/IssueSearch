@@ -1,0 +1,1 @@
+ URL : "https://github.com/CaptainFact/captain-fact-extension/issues/1" TITLE : internationalization i18n BODY : to keep consistency with the frontend, we should use react-i18next https://github.com/i18next/react-i18next

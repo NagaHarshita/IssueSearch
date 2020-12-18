@@ -1,0 +1,1 @@
+ URL : "https://github.com/wulkano/aperture/issues/45" TITLE : ability to specify codec BODY : avfoundation allows specifying the codec used in a recording https://developer.apple.com/documentation/avfoundation/avvideocodectype . it would be very nice to support this in aperture so that it can be included in kap's settings.

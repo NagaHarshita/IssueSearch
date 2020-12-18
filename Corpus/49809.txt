@@ -1,0 +1,1 @@
+ URL : "https://github.com/jenil/bulmaswatch/issues/13" TITLE : update to bulma 0.5.1 BODY : bulma changelog https://github.com/jgthms/bulma/blob/master/changelog.md with 0.5.0, bulma did some major variable renaming and things don't compile well with the current 0.4.3 swatch scss.

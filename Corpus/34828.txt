@@ -1,0 +1,1 @@
+ URL : "https://github.com/webborn/myadmin/issues/2" TITLE : create a log module. BODY : every action taken on the system need to be write down on a log file. we can use the laravel file. see how debugbar https://github.com/barryvdh/laravel-debugbar made this.

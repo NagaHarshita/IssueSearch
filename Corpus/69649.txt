@@ -1,0 +1,1 @@
+ URL : "https://github.com/business-science/tibbletime/issues/12" TITLE : tmap_dfc function error BODY : mapped_df_means <- fang %>% tmap_dfc ~mean .x , period = yearly error in mutate_impl .data, dots : evaluation error: 'map_dfc' is not an exported object from 'namespace:purrr'.

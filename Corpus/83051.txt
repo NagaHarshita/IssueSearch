@@ -1,0 +1,1 @@
+ URL : "https://github.com/renesansz/discord-greeter-bot/issues/16" TITLE : bot shuts down after idle BODY : is there a way to keep the bot from shutting down on its own? for seemingly no reason and without error it goes offline and the script ends.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/rantav/reversim-summit-2017/issues/50" TITLE : consolidate start script BODY : right now, in order to start the website you need to do yarn start both on the root folder and on the client folder, in addition to having a local mongo server running. this should be in a single command

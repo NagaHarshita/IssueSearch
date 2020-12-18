@@ -1,0 +1,1 @@
+ URL : "https://github.com/jammerware/margiebot/issues/25" TITLE : .net 4.0 support BODY : hi, i just tried to install this package to my solution, but it says that margiebot2.0.5 does not containt any assembly references for my current .net version, which is .net 4.0. are there any plans to implement this? thanks esso

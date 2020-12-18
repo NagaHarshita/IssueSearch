@@ -1,0 +1,4 @@
+ URL : "https://github.com/webcompat/webcompat-tests/issues/1075" TITLE : c - see bug description BODY : <!-- @browser: firefox 56.0 -->
+<!-- @ua_header: mozilla/5.0 macintosh; intel mac os x 10.12; rv:56.0 gecko/20100101 firefox/56.0 -->
+<!-- @reported_with: web --> url : c browser / version : firefox 56.0 operating system : mac os x 10.12 tested another browser : unknown problem type : something else description : c steps to reproduce :
+1 eee 2 hhh _from webcompat.com https://webcompat.com/ with ❤️_

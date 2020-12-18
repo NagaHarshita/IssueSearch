@@ -1,0 +1,1 @@
+ URL : "https://github.com/scritchley/orc/issues/23" TITLE : more writer types BODY : - orc.date - orc.decimal - others? are you planning to promote the writer to a supported state?

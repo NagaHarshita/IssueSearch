@@ -1,0 +1,1 @@
+ URL : "https://github.com/PaulkaToast/quartet/issues/17" TITLE : add user sign out feature BODY : on the page containing the actual app, include a button that allows the user to sign out of their current session. this will remove the session token from their cookies.

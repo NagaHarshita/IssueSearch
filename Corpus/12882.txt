@@ -1,0 +1,1 @@
+ URL : "https://github.com/DevOps-Charlie/products/issues/59" TITLE : set up travis ci BODY : as a developer i need integration with travis ci so that all pull requests are tested automatically before merging acceptance criteria: automatic testing should take place whenever someone creates a pull request.

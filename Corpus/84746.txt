@@ -1,0 +1,1 @@
+ URL : "https://github.com/City-of-Helsinki/digihel/issues/121" TITLE : do not show draft content BODY : check published-status before displaying content on templates. at least in theme-index-page unpublished content is visible.

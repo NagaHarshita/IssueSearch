@@ -1,0 +1,1 @@
+ URL : "https://github.com/marschall/line-parser/issues/11" TITLE : throw on malformed input BODY : we should throw on malformed input

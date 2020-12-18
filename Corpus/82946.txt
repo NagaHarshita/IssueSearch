@@ -1,0 +1,1 @@
+ URL : "https://github.com/cloudfoundry/bosh-bootloader/issues/204" TITLE : bbl lite on gcp + credhub BODY : i would like to use bbl to generate a bosh-lite and credhub on gcp with the bosh-lite director wired up to the credhub as a config server.

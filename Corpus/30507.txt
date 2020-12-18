@@ -1,0 +1,1 @@
+ URL : "https://github.com/emanuelcasco/pipedmin/issues/5" TITLE : poor test coveralls BODY : we are not testing the full flow. for example: - we should test what happen with the movements of a deal when it is deleted. they should be marked as deleted to. - what happens when the endpoint deals.updated is hit whit a deal that not exist. and the same with all the other resources.

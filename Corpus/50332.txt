@@ -1,0 +1,1 @@
+ URL : "https://github.com/BosNaufal/vue2-scrollbar/issues/22" TITLE : wrong css import path BODY : docs mention an incorrect path, it should be: require 'vue2-scrollbar/dist/style/vue2-scrollbar.css' .

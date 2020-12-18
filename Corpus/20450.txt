@@ -1,0 +1,1 @@
+ URL : "https://github.com/ovilab/atomify-lammps/issues/289" TITLE : checkbox on lights BODY : lights could be a performance hit in the fragment shader, so since we have two lights, it should be possible to turn one off.

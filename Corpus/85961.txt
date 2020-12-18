@@ -1,0 +1,1 @@
+ URL : "https://github.com/csuscholarworks/migration_status/issues/31" TITLE : generate humboldt web app BODY : - x clone csu base code - set environment variables - deploy to ebs

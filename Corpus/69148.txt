@@ -1,0 +1,1 @@
+ URL : "https://github.com/d3/d3-selection/issues/118" TITLE : styles method not found BODY : apit reference : https://github.com/d3/d3-selection-multi/blob/master/readme.md selection_styles but i can't find styles method in selection instance.

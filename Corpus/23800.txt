@@ -1,0 +1,1 @@
+ URL : "https://github.com/synw/django-chartflo/issues/24" TITLE : remove empty files BODY : when a file is empty, it should likely be deleted. goal clean codebase by removing unused/empty files. task remove the following empty files: - /chartflow/admin.py - /chartflow/models.py - /chartflow/tests.py - that or write at least one test! :smile:

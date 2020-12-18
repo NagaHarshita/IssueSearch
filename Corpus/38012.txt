@@ -1,0 +1,1 @@
+ URL : "https://github.com/mgp25/Instagram-API/issues/875" TITLE : no cookie is created BODY : i would like to use cookies files in order to don't have to connect every time. username-cookies.dat & settings-username.dat but, there is no file in the folder src/data. do you know what can be the reasons ? i'm a mac user i don't know if it's relevant

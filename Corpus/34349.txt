@@ -1,0 +1,1 @@
+ URL : "https://github.com/openhab/openhab.windows/issues/65" TITLE : cannot use https url BODY : setting the https url leads to invalid url, check your settings .

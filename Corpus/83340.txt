@@ -1,0 +1,1 @@
+ URL : "https://github.com/PageUpPeopleOrg/SeriLog.LogSanitizingFormatter/issues/3" TITLE : can't easily assimilate ? BODY : hi guys, this is a .net core project, so can't really be used or added to a normal project unless i'm missing something basic here . won't install with nuget, and won't be able to import dll directly as well.

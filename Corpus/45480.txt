@@ -1,0 +1,1 @@
+ URL : "https://github.com/epam/pipeline-builder/issues/5" TITLE : if statements parsing BODY : hello, it looks like the if statements are not parsed correctly during the wdl --> graph action. the if statement box is drawn as a separate box with a single entry point not connected to anything. the contents of the of the if statement are not parsed at all. sincerely, alex.

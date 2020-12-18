@@ -1,0 +1,1 @@
+ URL : "https://github.com/jepusto/clubSandwich/issues/22" TITLE : cr1 formula BODY : shouldn't the adjustment factor for cr1 be m / m - p , where m is the number of clusters and p the rank of the model matrix instead of m / m - 1 ? this would be analogous to 'hc1'. see, for example, mackinnon and white 1985 .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/s-rah/onionscan/issues/136" TITLE : extract page title BODY : newer versions do not seem to have the <title> parsing from 2ff00f6 see https://github.com/s-rah/onionscan/blob/master/report/onionscanreport.go and search for the word title it is absent

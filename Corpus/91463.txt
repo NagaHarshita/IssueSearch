@@ -1,0 +1,1 @@
+ URL : "https://github.com/Borewit/strtok3/issues/4" TITLE : track offset of tokenizer BODY : expose and track the read offset current position counted in bytes since the beginning of the file . this value is the same is number of bytes processed.

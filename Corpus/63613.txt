@@ -1,0 +1,1 @@
+ URL : "https://github.com/debugpolitics/debugbot/issues/18" TITLE : enhancements to /skills BODY : - add skill specifier to /do - allow add and remove in addition to + and - when adding/removing skills - add synonyms table, 1:many with categories?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/michael-brade/LaTeX.js/issues/2" TITLE : <p> cannot be used anymore BODY : i'll have to change <p> to <div class p > because in latex you can have boxes with paragraphs inside a paragraph, like a minipage. sad moment... i loved the clean html syntax so far.

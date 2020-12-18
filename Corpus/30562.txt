@@ -1,0 +1,1 @@
+ URL : "https://github.com/UKHomeOffice/dq-aws-transition-peering/issues/3" TITLE : primary vpc routing BODY : determine traffic source-destination - gather specific routes - whitelist tagged traffic

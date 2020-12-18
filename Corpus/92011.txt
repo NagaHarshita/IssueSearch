@@ -1,0 +1,1 @@
+ URL : "https://github.com/tclemens/calcium-android/issues/4" TITLE : use vertex buffer objects BODY : vertex data is currently being copied into graphics memory every frame, this can be avoided using vertex buffer objects.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/JoshuaKGoldberg/TSLint.MSBuild/issues/61" TITLE : add an opt-in exec timeout BODY : in case the task hangs, there should be a timeout allowed on the exec task.

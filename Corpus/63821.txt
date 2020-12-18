@@ -1,0 +1,1 @@
+ URL : "https://github.com/ivanahepjuk/xmr_seed_generator/issues/2" TITLE : exception in some cases BODY : when first run there is 1 , the first number in hexal string is 0 - in this case its working. when there is different first number in hexal string, its throwing an exception.

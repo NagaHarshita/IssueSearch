@@ -1,0 +1,1 @@
+ URL : "https://github.com/linkerd/linkerd/issues/1077" TITLE : support for redis? BODY : there's a finagle-redis https://github.com/twitter/finagle/tree/develop/finagle-redis project. can this be used modified/extended to implement a redis router in linkerd?

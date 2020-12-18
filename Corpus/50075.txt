@@ -1,0 +1,1 @@
+ URL : "https://github.com/simeji/jid/issues/57" TITLE : version string is old BODY : to correct the version, i'm needing to do fix version inreplace cmd/jid/jid.go , version = \ 0.6.2\ , version = \ {version}\ is this something i should be passing via ldflags or should it bumped in the code each time it's tagged? thanks!

@@ -1,0 +1,10 @@
+ URL : "https://github.com/dionew1/black_thursday/issues/5" TITLE : item iteration 0 BODY : the item instance offers the following methods: id - returns the integer id of the item
+name - returns the name of the item
+description - returns the description of the item
+unit_price - returns the price of the item formatted as a bigdecimal
+created_at - returns a time instance for the date the item was first created
+updated_at - returns a time instance for the date the item was last modified
+merchant_id - returns the integer merchant id of the item
+it also offers the following method: unit_price_to_dollars - returns the price of the item in dollars formatted as a float
+we create an instance like this: i = item.new { :name => pencil , :description => you can use it to write things , :unit_price => bigdecimal.new 10.99,4 , :created_at => time.now, :updated_at => time.now,
+}

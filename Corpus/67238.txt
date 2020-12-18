@@ -1,0 +1,1 @@
+ URL : "https://github.com/UKCloud/openshift-heat/issues/25" TITLE : password is not checked BODY : password requested during deploy.sh is not checked. indeed - can it maybe take it from the os_password env var?

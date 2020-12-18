@@ -1,0 +1,1 @@
+ URL : "https://github.com/2graphic/sinap-types/issues/3" TITLE : are types serializable? BODY : 103 https://github.com/2graphic/sinap-core/issues/103 issuecomment-301348269 would likely need to serialize types without values to communicate with the loader.

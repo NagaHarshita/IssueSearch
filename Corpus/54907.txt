@@ -1,0 +1,1 @@
+ URL : "https://github.com/nicklockwood/SwiftFormat/issues/189" TITLE : howto indent with tab? BODY : want to use tab indent, but that was no example how to change it. tried this, without any luck. $ swiftformat --enable indent tab running swiftformat... error: file not found at /users/kukodajanos/library/mobile documents/com~apple~clouddocs/workspace cl/dating ios/tab

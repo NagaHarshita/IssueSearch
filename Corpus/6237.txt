@@ -1,0 +1,1 @@
+ URL : "https://github.com/Sensory/alexa-rpi/issues/5" TITLE : 400 bad request BODY : when going to the localhost page i get: we're sorry! an error occurred when we tried to process your request. 400 bad request unknown client_id i double checked but the client id is correct.

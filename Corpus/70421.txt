@@ -1,0 +1,1 @@
+ URL : "https://github.com/vle-forge/vle/issues/290" TITLE : vpz: bud in views.cpp ? BODY : in views::delobservable implementation, the list of views is cleared vle/vpz/views.cpp:83 . i think the will was to detach views form the observable, but here it seems that the view objects are removed. i think they should not be removed.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/BonnierNews/logstash_exporter/issues/3" TITLE : add queue metrics BODY : would be nice to have the queue metrics for persistent queues too.

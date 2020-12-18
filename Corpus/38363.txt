@@ -1,0 +1,1 @@
+ URL : "https://github.com/albertobaselga/redis-cluster/issues/5" TITLE : pcs commands failuer BODY : the tasks using pcs commands are being set on both servers, one should be considered master and that one should be the only one for setting pcs commands

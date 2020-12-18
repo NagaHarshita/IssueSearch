@@ -1,0 +1,1 @@
+ URL : "https://github.com/lampepfl/dotty/issues/2594" TITLE : incorrect dates in blog BODY : on the page http://dotty.epfl.ch/blog/index.html today's date is everywhere in place of the actual blog post dates.

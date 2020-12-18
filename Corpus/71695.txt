@@ -1,0 +1,1 @@
+ URL : "https://github.com/MagalixTechnologies/templates/issues/2" TITLE : add twitter-elk template BODY : add twitter-elk template files: dockerfiles and magalix yaml/json file also write walk-through how to recreate it from scratch. targeting end-users

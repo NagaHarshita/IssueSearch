@@ -1,0 +1,1 @@
+ URL : "https://github.com/Depado/goploader/issues/46" TITLE : proxy with apache BODY : proxy with apache allows me to upload fine . but on download, the link to the file goes to http://example.com:8008/filename , which isn't exposed because it is proxying .

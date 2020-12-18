@@ -1,0 +1,1 @@
+ URL : "https://github.com/pipermerriam/web3.py/issues/402" TITLE : add custom geth shh module BODY : version: 4 what was wrong? the geth whisper api has drifted from the globally defined json-rpc api. see 384 how can it be fixed? write a custom geth whisper module, noting the drift. it should not be added as a default web3 submodule.

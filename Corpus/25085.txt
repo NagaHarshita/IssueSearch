@@ -1,0 +1,1 @@
+ URL : "https://github.com/vuhrmeister/vscode-meteor/issues/2" TITLE : use global typings BODY : is there a way not to install typings inside .vscode dir but use global installation instead?

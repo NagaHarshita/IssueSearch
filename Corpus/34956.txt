@@ -1,0 +1,1 @@
+ URL : "https://github.com/Porucznik/nexia-repository-utils/issues/2" TITLE : create update script BODY : create simple update script. it should pull all repositories and output in with ones is a change.

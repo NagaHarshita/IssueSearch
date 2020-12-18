@@ -1,0 +1,1 @@
+ URL : "https://github.com/nsqio/nsq/issues/853" TITLE : move log package to glog BODY : currently, iiuc, nsq does not support log rotation. this is not scalable for it. how about we move log package to glog which is used by kubernetes organization and supports log rotation when log file size exceed 1.8gb by default. /cc @mreiferson @jehiah

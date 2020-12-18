@@ -1,0 +1,1 @@
+ URL : "https://github.com/Lycanite/LycanitesMobs/issues/263" TITLE : spawners biome bleed BODY : currently spawners filter mobs by biomes and then spawn them but they can end up spawned in the wrong biome if multiple biomes are within the spawn location range. i just need to find a performance friendly solution for this.

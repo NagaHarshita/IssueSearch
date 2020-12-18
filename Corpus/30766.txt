@@ -1,0 +1,1 @@
+ URL : "https://github.com/cloudera/hue/issues/630" TITLE : r sparklyr notebook BODY : next to sparkr the r community uses sparklyr very much. it is the one recommended by rstudio and now also by cloudera and its workbench. it would be awesome to just have both interfaces between r and spark. sparkr and sparklyr. are there any plans to do so?

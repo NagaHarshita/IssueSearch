@@ -1,0 +1,1 @@
+ URL : "https://github.com/jebberjeb/blog/issues/2" TITLE : talk about testing? BODY : using nvim --embed and the java process api, i was able to automate testing of the client library, and the same could be done for plugins. should i talk about this? it's a huge advantage over writing a plugin for vim, for example, because you can actually automate integration tests.

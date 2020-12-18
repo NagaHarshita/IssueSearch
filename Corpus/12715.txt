@@ -1,0 +1,1 @@
+ URL : "https://github.com/frappe/bench_manager/issues/31" TITLE : remove super bug BODY : - remove console_command from whitelisted methods - remove run_command from whitelisted methods - ask for admin password for execution of critical commands like drop-site etc

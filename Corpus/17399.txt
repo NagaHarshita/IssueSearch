@@ -1,0 +1,1 @@
+ URL : "https://github.com/joefraley/email-receipt-parser/issues/1" TITLE : parse html result BODY : return object is all html. strip it to text.

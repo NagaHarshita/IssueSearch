@@ -1,0 +1,1 @@
+ URL : "https://github.com/qwtel/hydejack/issues/48" TITLE : sidebar image on post BODY : hi, after upgrading to version 7.3.0 the side bar image does't work anymore my post are like this layout: post title: hello tags: personal categories: robot image: '/assets/img/robot.jpg'

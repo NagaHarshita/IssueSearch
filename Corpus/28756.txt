@@ -1,0 +1,1 @@
+ URL : "https://github.com/iwgang/CountdownView/issues/53" TITLE : how to use interval BODY : hi, thanks for your great library. i want show some time in my application and i want when lasted 5s show me toast. for example : i want how 17s counttimer, when this timer receive to 5s show me toast just 5s . how can i it? please help me

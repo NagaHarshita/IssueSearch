@@ -1,0 +1,1 @@
+ URL : "https://github.com/artf/grapesjs/issues/575" TITLE : border width properties BODY : is it possible to add border-top, border-right,border-left properties individually under the decoration heading in grapesjs. this would be similar to border radius. for now it only shows the border-width which gives all sided borders. i want only right or left sided borders.

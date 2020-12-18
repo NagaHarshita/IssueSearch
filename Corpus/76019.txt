@@ -1,0 +1,1 @@
+ URL : "https://github.com/WillKirkby/utf8info/issues/2" TITLE : improve table generation BODY : see about adding this as a submodule and adding a build step that parses it and generates the code from that, rather than abusing an undocumented api endpoint. https://github.com/unicode-table/unicode-table-data

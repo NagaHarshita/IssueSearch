@@ -1,0 +1,1 @@
+ URL : "https://github.com/bootstrap-vue/bootstrap-vue/issues/395" TITLE : adding more components BODY : bootstrap-vue lacks certain components such as a date picker which are essential for any application. is there an interest by the repo owners to add more components to the repo? would linking to other compatible components in the readme be better approach?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/er77/EssBase.ACT/issues/25" TITLE : kill other cm windows BODY : in start, process check other calculation manager launch process and kill them if no running process

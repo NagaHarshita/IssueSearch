@@ -1,0 +1,1 @@
+ URL : "https://github.com/Abhi2424shek/img_checker/issues/20" TITLE : snap ci tests failing BODY : $ gem install fastimage error: error installing fastimage: public_suffix requires ruby version >= 2.0. command gem install fastimage failed with status 1. though fastimage require ruby>= 1.9.2.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jenkoian/hacktoberfest-checker/issues/254" TITLE : the pr limit BODY : current behavior: <!-- describe how the bug manifests. --> if you have pr greater than 30 it just shows the latest 30/4 expected behavior: it should show all the pull requests.

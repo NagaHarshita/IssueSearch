@@ -1,0 +1,1 @@
+ URL : "https://github.com/mono/docker/issues/53" TITLE : moving to newer debian BODY : would you welcome a pr to move to a newer version of debian or is it intentionally locked to the current version? my reason for wanting to update is that i'd like to be able to install .net core for mixed workloads where i need both mono and dotnet but core only supports debian jessie

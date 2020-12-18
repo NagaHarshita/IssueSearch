@@ -1,0 +1,1 @@
+ URL : "https://github.com/up1/soa_group8/issues/16" TITLE : comment for present 2 BODY : requirement ยังไม่ชัดเจน ในแต่ละ service ต้องประกอบไปด้วย http method, request และ response format ของ response อ่านยาก service design blueprint ให้แยกตาม flow การใช้งานของระบบ font ใน slide ให้ใหญ่ ใช้ font ขนาด 50

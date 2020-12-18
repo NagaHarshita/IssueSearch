@@ -1,0 +1,1 @@
+ URL : "https://github.com/galaxyproject/galaxy/issues/3727" TITLE : tool 'filter' filters na BODY : how to use the embedded tool 'filter' to filter the data by one of its columns whose value is not na. how to write the rule here? ! image https://cloud.githubusercontent.com/assets/11710225/23717932/0eccad4a-0436-11e7-9a8f-6d1f2c26f544.png

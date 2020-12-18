@@ -1,0 +1,1 @@
+ URL : "https://github.com/tomkoos/SI507F17_finalproject/issues/2" TITLE : part 2: boxer class BODY : file: boxerclass.py - \_\_init\_\_ : setup all attributes - \_\_repr\_\_ - \_\_contains\_\_

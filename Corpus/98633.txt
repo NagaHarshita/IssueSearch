@@ -1,0 +1,1 @@
+ URL : "https://github.com/DXBrazil/CosmosDb-ChangeFeed/issues/5" TITLE : java: remove unused import BODY : for appconfiguration line 9-12 you can remove unused import import java.io.filenotfoundexception; import java.io.filereader; import java.io.ioexception; import java.util.properties; for apptablemodel line 12 you can remove unused import 12: import java.util.uuid;

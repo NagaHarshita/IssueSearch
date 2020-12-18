@@ -1,0 +1,1 @@
+ URL : "https://github.com/mautic/mautic/issues/4065" TITLE : custom error pages BODY : what type of report is this: | q | a | ---| --- | bug report? | | feature request? | x | enhancement? | description: you can specify the landing page for the root mautic domain url. having the same option for error pages would be great.

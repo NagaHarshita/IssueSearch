@@ -1,0 +1,1 @@
+ URL : "https://github.com/oney/react-native-webrtc/issues/195" TITLE : build errors for arm BODY : if i build using separate cpu architecture i got this error for arm: java.io.filenotfoundexception: ..\react-native-webrtc\android\build\intermediates\bundles\release\jni\lib\armeabi-v7a\libjingle_peerconnection_so.so the system cannot find the path specified is arm not supported?

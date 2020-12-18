@@ -1,0 +1,1 @@
+ URL : "https://github.com/systemjs/plugin-less/issues/12" TITLE : can't use less BODY : hi, i have created an angular2 project with some less files. i configured my systemjs.config file as mentionned in the doc, but the scripts seem not to be loaded. something is missing, but i can't figure out what. any suggestion?

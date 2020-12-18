@@ -1,0 +1,1 @@
+ URL : "https://github.com/RestComm/restcomm-android-sdk/issues/718" TITLE : fix notification box BODY : when main application is killed, we don't have application context for push notifications and currently we show notification box without buttons which can just open the main application

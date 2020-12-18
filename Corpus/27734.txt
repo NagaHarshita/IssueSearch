@@ -1,0 +1,1 @@
+ URL : "https://github.com/WatzekDigitalInitiatives/fitbit-ror/issues/57" TITLE : edit streak display BODY : shouldn't show today's result, since that's indicated by the other icon limit to last 5 days?

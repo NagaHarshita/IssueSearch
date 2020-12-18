@@ -1,0 +1,1 @@
+ URL : "https://github.com/lucy-marko/centrepoint/issues/166" TITLE : fix phone number handling BODY : yoti seems to store phone numbers inconsistently with and without a + - or they may have changed the format recently

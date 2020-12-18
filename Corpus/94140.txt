@@ -1,0 +1,1 @@
+ URL : "https://github.com/adobe/brackets/issues/13749" TITLE : brackets v1.11 not opening BODY : description after downloading & installing brackets v1.11, brackets refuses to enter... steps to reproduce 1. double-click on brackets shortcut expected behavior: brackets opens actual behavior: brackets does not open versions windows 10 brackets v1.11

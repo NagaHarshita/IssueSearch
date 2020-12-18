@@ -1,0 +1,1 @@
+ URL : "https://github.com/DanielCaspers/DigitalInspection/issues/57" TITLE : add login and logout pages BODY : login - bad username and password returns an error toast - successful authentication returns the home view we've seen to this point - login is now the default page logout - now actually removes the user's login cookie - redirects the user to the login page.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Terracotta-OSS/terracotta-core/issues/551" TITLE : rationalize cluster dump BODY : cluster dump needs to be analyzed for proper information in the proper format. study the current format. make sure important internal platform system information is presented as well as proper delegation to entities and services.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ngnjs/ngn-core/issues/15" TITLE : json/xml schema support BODY : add json schema/xsd support import and export . validation by schema, remote loading ideally , & index identification.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/bunq/sdk_csharp/issues/15" TITLE : add proxy support BODY : how to reproduce 1. look for proxy in the sdk codebase what should happen 1. proxy can be set in apicontext what happens 1. no proxy can be set in apicontext

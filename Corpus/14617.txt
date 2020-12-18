@@ -1,0 +1,1 @@
+ URL : "https://github.com/aceholecousins/acedroids/issues/26" TITLE : bezier coast line BODY : create rounded coastline curve and store it extra in inkscape, render terrain in the backest background and use coastline or heightmap to limit the water in the water shader, that way also the randomized shifting for the heightfield can be deleted, it basically solves everything!

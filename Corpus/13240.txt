@@ -1,0 +1,1 @@
+ URL : "https://github.com/Avocarrot/json2view/issues/40" TITLE : textsize in wiki BODY : hi, the page on available properties seems to have the type field of textsize incorrectly specified. i think it should be dimen instead of textsize.

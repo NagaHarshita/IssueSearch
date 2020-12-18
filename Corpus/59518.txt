@@ -1,0 +1,1 @@
+ URL : "https://github.com/astra-toolbox/astra-toolbox/issues/113" TITLE : unified memory in cuda BODY : in using astra for high-resolution micro-ct reconstructions i'm running out of gpu memory. would it be possible for you to implement unified memory in the cuda primitives so as to take advantage of the cpu memory?

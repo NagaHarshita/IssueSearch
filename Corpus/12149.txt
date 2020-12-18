@@ -1,0 +1,1 @@
+ URL : "https://github.com/Efferent-Health/fo-dicom/issues/1" TITLE : naming of output BODY : currently the codec libraries are called: - dicom.native.dll - dicom.native64.dll the output for linux shall be called: - dicom.native.linux.so - dicom.native.linux64.so

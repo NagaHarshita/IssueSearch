@@ -1,0 +1,1 @@
+ URL : "https://github.com/redis/hiredis/issues/501" TITLE : msvs build failed BODY : msvs\vs-solutions\vs2015\hiredis_win.sln and msvs\win32_example\vs2015\win32_example.sln can not build.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/cs340tabyu/cs340Fall2017/issues/230" TITLE : drawing train cards BODY : when drawing from the deck initially, you can also draw destination cards after, when it should only allowed you to select another train card.

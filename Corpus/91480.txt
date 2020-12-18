@@ -1,0 +1,1 @@
+ URL : "https://github.com/buckless-team/manager/issues/58" TITLE : transfer's amount altered BODY : when one tries to transfer a certain amount to someone, this amount may be altered in the process. this behavior has been reproduced three times with an amount of 8.20€, altered in 8.19€, although transferring 8.19€ or 0.01€ works fine.

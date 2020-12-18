@@ -1,0 +1,1 @@
+ URL : "https://github.com/adamweeks/gifbar/issues/61" TITLE : add powered by giphy logo BODY : to be compliant with the giphy api, we need to display the logo in the app. ! giphy http://media3.giphy.com/media/3o7bue8fe4osqqsy5g/giphy.gif

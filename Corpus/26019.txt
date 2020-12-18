@@ -1,0 +1,1 @@
+ URL : "https://github.com/BitLox/copay/issues/3" TITLE : add orbf capability BODY : add button to transaction details where you can bump the fee to unstick a transaction. will need to adjust the sequence integer in transaction construction. is this possibly a bws issue? sequence for at least one if not all inputs needs to be set to max_int-1

@@ -1,0 +1,1 @@
+ URL : "https://github.com/semperfiwebdesign/all-in-one-seo-pack/issues/1125" TITLE : add new strings from pro BODY : in the dev branch of pro, we're adding new google analytics related strings. https://github.com/semperfiwebdesign/aioseop-pro/pull/340/files these need to be added to commonstrings.php

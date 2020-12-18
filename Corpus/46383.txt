@@ -1,0 +1,1 @@
+ URL : "https://github.com/anchorchat/anchor-ui/issues/183" TITLE : make messages smaller BODY : current behaviour: messages take up a lot of space as they are wanted behaviour: messages should take up less space. suggestions: place timestamp in the message itself, make whitespace between messages smaller ?

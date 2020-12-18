@@ -1,0 +1,1 @@
+ URL : "https://github.com/linode/manager/issues/2693" TITLE : upgrade to webpack 3 BODY : performance updates via code hoisting and keeping current.

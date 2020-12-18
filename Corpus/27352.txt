@@ -1,0 +1,1 @@
+ URL : "https://github.com/webmd-health-services/Whiskey/issues/72" TITLE : create zipfile task BODY : create a zipfile task that zips up paths. it should behave almost exactly like the publishprogetuniversalpackage task except it doesn't include a upack.json file or put everything in a package directory.

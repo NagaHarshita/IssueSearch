@@ -1,0 +1,1 @@
+ URL : "https://github.com/wayou/vscode-todo-highlight/issues/57" TITLE : feature: add auto update BODY : at the moment, it seems that when you add or remove a todo: , the list doesn't automatically updates and the list hilighted annotations command to refresh the list. would be nice if there's an option to enable auto-update on file save.

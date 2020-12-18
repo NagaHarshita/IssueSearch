@@ -1,0 +1,1 @@
+ URL : "https://github.com/HELLLabs/drux/issues/1" TITLE : drux front end development BODY : @helllabs/frontend i have pushed the mockup files for the front end of drugs. start working on this keeping the following points in mind. - create dashboard first - push all the work on a separate branch - dev - send merge request to master before working on to next screens/views

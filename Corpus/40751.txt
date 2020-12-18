@@ -1,0 +1,1 @@
+ URL : "https://github.com/JD-666/wwsc/issues/43" TITLE : user deletes account BODY : some views get_object_or_404 on a user object. if the user deletes their account, make sure these views don't all start failing. perhaps have user deletion cascade to all associated objects? perhaps these views each individually gracefully handle the situation. i like this one

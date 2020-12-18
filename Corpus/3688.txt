@@ -1,0 +1,1 @@
+ URL : "https://github.com/benjimin/pywebcorp/issues/1" TITLE : test with pip BODY : need to test this resolution of pypa/pip 1182 i.e. making pip support ntlm, but in a manner which will utilise os-mediated authentication rather than requiring the user to enter credentials insecurely .

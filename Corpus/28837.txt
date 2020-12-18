@@ -1,0 +1,1 @@
+ URL : "https://github.com/nrc/rls-analysis/issues/59" TITLE : ice with fancy impl BODY : https://github.com/rust-lang/rust/issues/41478 reduced case: struct v<s> s ; trait an { type u; } trait f<a> { } impl<a: an> f<a> for v<<a as an>::u> { } full case is cgmath crate

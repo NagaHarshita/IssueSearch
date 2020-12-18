@@ -1,0 +1,1 @@
+ URL : "https://github.com/GovReady/GovReady-CMS-API/issues/68" TITLE : integrate with cron BODY : since we're not using rabbitmq. - add option to dashboard or within drupal somehow? - add hook_cron to plugin

@@ -1,0 +1,2 @@
+ URL : "https://github.com/mozilla/coss/issues/488" TITLE : fix pagespeed insights BODY : google pagespeed insights
+https://developers.google.com/speed/pagespeed/insights/?url=opensource.mozilla.community&tab=mobile issues reported optimize css delivery enable gzip compression leverage browser caching: setting an expiry date or a maximum age in the http headers for static resources minify html

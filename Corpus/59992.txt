@@ -1,0 +1,1 @@
+ URL : "https://github.com/Automattic/notifications-panel/issues/56" TITLE : visual glitch in stats BODY : it seems like some css leak is causing broken layout in stats visitors: <img alt= warnings src= https://cloud.githubusercontent.com/assets/1182160/25644095/580830fe-2f58-11e7-8ff0-5010a12ba358.png width= 300 > this is displayed fine in calypso master.

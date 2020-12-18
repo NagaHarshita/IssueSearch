@@ -1,0 +1,1 @@
+ URL : "https://github.com/theiviaxx/frog_ng/issues/30" TITLE : add a poll option BODY : this could be in preferences, but have it poll the same request and see if the last guids match, if not, signal that there are more things to get

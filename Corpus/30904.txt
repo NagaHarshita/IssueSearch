@@ -1,0 +1,1 @@
+ URL : "https://github.com/babluboy/bookworm/issues/5" TITLE : remember last state BODY : as per elementary human interface guidelines, you should make your app remember the state it was left on. this includes: - window size - window state fullscreen? - current book opened - remember the page you're on, per book you can make use of your database for this

@@ -1,0 +1,1 @@
+ URL : "https://github.com/opencb/jsorolla/issues/43" TITLE : add polymerutils class BODY : add a polymerutils class to improve web components code, this will also act as a extra layer that will allow us to easily change implementation in the future

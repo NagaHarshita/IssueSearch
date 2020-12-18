@@ -1,0 +1,1 @@
+ URL : "https://github.com/mikefarah/yaml/issues/12" TITLE : update element of array BODY : this is not an issue, but very important task for me: let.s assume i have following yaml: test: a: - name: name1 value: 1 - name: name2 value: 2 and i need to update only value where name == name1 is it possible with this tool?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/firehol/netdata/issues/2438" TITLE : packages installer failed BODY : the experimental packages installer failed. this is what it says: sorry! this script needs bash version 4+, but you have bash version 3.2.25 1 -release please paste your screen here

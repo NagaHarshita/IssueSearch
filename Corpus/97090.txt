@@ -1,0 +1,1 @@
+ URL : "https://github.com/mpiannucci/grippy/issues/1" TITLE : fix python 3 package paths BODY : init.py doesn't work on python3 ugh

@@ -1,0 +1,1 @@
+ URL : "https://github.com/primefaces/primefaces/issues/2841" TITLE : documentation p:autoupdate BODY : + remove autoupdate attributes on outputpanel, fragement, messages, growl

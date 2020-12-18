@@ -1,0 +1,1 @@
+ URL : "https://github.com/aspnet/JavaScriptServices/issues/801" TITLE : update to webpack 2.3.2 BODY : https://github.com/webpack/webpack/releases lots of bugfixes including the lower case path issue

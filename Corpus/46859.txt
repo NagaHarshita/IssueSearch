@@ -1,0 +1,1 @@
+ URL : "https://github.com/hres/cfg-task-service/issues/9" TITLE : naming of db insances BODY : raul had requested that cfnfadm have postgresql instances named cnfadm-qa & cnfadm-dev similarly the mongodb instances have the same convention

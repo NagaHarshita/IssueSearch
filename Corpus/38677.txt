@@ -1,0 +1,1 @@
+ URL : "https://github.com/RBMHTechnology/eventuate/issues/391" TITLE : publish .proto files BODY : we want to use eventuate types in our events currently vectortime . it would be great to re-use the protobuf definitions. therefore it would be nice to have them published via a seperate? artefact.

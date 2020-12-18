@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla-neutrino/react-router-starter/issues/4" TITLE : hot reload doesn't work BODY : i just simple test change text home to homepage. in console show source changed, re-compilling build completed but in browser doesn't see change affect do u have any idea ?

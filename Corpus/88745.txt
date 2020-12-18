@@ -1,0 +1,1 @@
+ URL : "https://github.com/TeamFleet/WhoCallsTheFleet-Yuubari/issues/12" TITLE : optimize critical process BODY : - split client - write all script tag in html template, using onerror handler - write critical file content into html template - remove isomorphic css styles from html template

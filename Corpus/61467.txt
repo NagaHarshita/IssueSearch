@@ -1,0 +1,1 @@
+ URL : "https://github.com/kabouzeid/Phonograph/issues/182" TITLE : auto: display album art BODY : this was discussed a bit in 159, but the currently commented out implementation is rather slow.

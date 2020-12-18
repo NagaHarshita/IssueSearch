@@ -1,0 +1,1 @@
+ URL : "https://github.com/forumone/web-starter/issues/268" TITLE : remove tasks dir BODY : afaict the default tasks should all come from gesso. the ones we have in here are out of date - we should remove them from web-starter, and copy from the theme dir as part of our project scaffolding.

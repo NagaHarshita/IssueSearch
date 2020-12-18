@@ -1,0 +1,1 @@
+ URL : "https://github.com/anholt/linux/issues/107" TITLE : vc5: chunk cl uabi BODY : make an amdgpu-style submit abi, so that we can extend execbuf in the future for sync objects, perf counters, etc.

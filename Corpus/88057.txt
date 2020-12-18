@@ -1,0 +1,1 @@
+ URL : "https://github.com/kakaroto/SWProxy/issues/182" TITLE : missing unicorn ids/names BODY : with the new monster addition unicorn , the monsters.py file needs to be updated. i fixed this already with pr 181. just creating an issue to go along with it.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/kee-org/browser-addon/issues/58" TITLE : basic auth support BODY : i think basic auth wsa supported in an earlier version of the web extensions version but now it's gone. any reason why?

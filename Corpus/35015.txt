@@ -1,0 +1,1 @@
+ URL : "https://github.com/skydiver/october-plugin-forms/issues/6" TITLE : custom email subject BODY : is there a way to overwrite the default subject? i can do this in the mail view of your plugin, but that off course will be over-written with future updates

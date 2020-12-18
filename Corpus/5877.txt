@@ -1,0 +1,1 @@
+ URL : "https://github.com/iamxy/bank-test/issues/2" TITLE : there is a bug BODY : https://github.com/iamxy/bank-test/blob/4c5ceb82e72430818d5faa2a79017f38656fd11f/bank.go l68 if the number of account is less than batch, there will be no job at all.

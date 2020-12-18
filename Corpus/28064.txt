@@ -1,0 +1,1 @@
+ URL : "https://github.com/ARQtty/Village-Alliance/issues/14" TITLE : extra piece of path BODY : when moving units, their path is indicated by a dotted line. the problem is that the path remains one cell beyond its owner

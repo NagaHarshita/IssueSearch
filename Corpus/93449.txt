@@ -1,0 +1,1 @@
+ URL : "https://github.com/Mirantis/kqueen/issues/49" TITLE : add test for manual engine BODY : - kubeconfig file is empty - kubeconfig file isn't valid json/yaml - load json kubeconfig - load yaml kubeconfig

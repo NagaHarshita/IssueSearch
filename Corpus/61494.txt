@@ -1,0 +1,1 @@
+ URL : "https://github.com/DomeDD/BetterNick/issues/19" TITLE : autonick and nick error BODY : when i do /autonick and /nick it comes up with an internal error occurred while attempting to perform this command i have set the permissions with the groups. i am using pex as my permissions manager, do i need to use vault for it?

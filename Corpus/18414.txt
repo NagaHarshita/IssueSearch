@@ -1,0 +1,1 @@
+ URL : "https://github.com/arachnys/cabot/issues/425" TITLE : tag docker images BODY : i see you're tagging releases with git, could you also create docker tags when you push the image to docker hub?

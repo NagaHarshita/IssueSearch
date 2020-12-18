@@ -1,0 +1,1 @@
+ URL : "https://github.com/att-comdev/drydock/issues/9" TITLE : what is a rack? BODY : in a clcp architecture, what is a rack? is it simply a segregation mechanism for nodes or do we need to track/utilize other attributes by rack. - should l2 or l3 networks by attached to a rack? - does a rack define a ceph boundary due to l2 broadcast? if so, does drydock care?

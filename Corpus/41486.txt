@@ -1,0 +1,1 @@
+ URL : "https://github.com/dry-dock/u14/issues/132" TITLE : 9685 update azure cli BODY : shippable/pm 9685 update the azure cli to the latest version and git to a version currently available.

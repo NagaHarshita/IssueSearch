@@ -1,0 +1,1 @@
+ URL : "https://github.com/libfuse/sshfs/issues/42" TITLE : path length limit? BODY : when the path to a file exceeds a limit, the path is truncated and results in a 'file not found' error on the remote host, failing to operate on the file. in my case, i tried to open a file and failed, turning on debug allowed me to discover this issue.

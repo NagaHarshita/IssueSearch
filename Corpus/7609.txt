@@ -1,0 +1,1 @@
+ URL : "https://github.com/MarkPieszak/aspnetcore-angular2-universal/issues/357" TITLE : hmr not working BODY : hello , i just pulled latest code and ran the web site. everything seems to work but hmr. any pointers ? no changes made, i verified the hosting environment and it is development .

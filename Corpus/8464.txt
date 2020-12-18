@@ -1,0 +1,1 @@
+ URL : "https://github.com/fisshy/react-scroll/issues/293" TITLE : online demo pls BODY : 1. cloned project 2. npm i; npm start 3. localhost:8080 doesn't seem to work can you please get your demo code on gh-pages or codesandbox so ppl can just see what your lib is?

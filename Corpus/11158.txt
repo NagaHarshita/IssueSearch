@@ -1,0 +1,1 @@
+ URL : "https://github.com/Aspect26/TrufflePascal/issues/71" TITLE : fix double token BODY : 1.02 is not parsed as a double the problem here is the zero after dot.

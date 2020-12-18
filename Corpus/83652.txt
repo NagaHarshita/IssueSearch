@@ -1,0 +1,1 @@
+ URL : "https://github.com/purcell/package-lint/issues/74" TITLE : check for font-lock-flush BODY : i'm not sure of the version they were added, but it looks like the functions font-lock-flush and font-lock-ensure aren't available in emacs 24.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/TolikPylypchuk/FlagsQuiz/issues/10" TITLE : settings activity ui BODY : settings activity must contain the following: - radio buttons for the number of questions - radio buttons for the number of choices - checkboxes for the regions - button for resetting the statistics

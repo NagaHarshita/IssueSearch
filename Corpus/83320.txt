@@ -1,0 +1,1 @@
+ URL : "https://github.com/Netflix/zuul/issues/352" TITLE : can't access it in tomcat BODY : my zuul been done with eclipse, but can't access it in tomcat. tomcat startup successed. ! image https://user-images.githubusercontent.com/24384202/29697203-50bf98d2-8980-11e7-807e-8726403c4879.png

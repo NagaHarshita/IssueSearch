@@ -1,0 +1,1 @@
+ URL : "https://github.com/ben-z/dotfiles/issues/1" TITLE : add syncthing config BODY : bash $ defaults write com.apple.screencapture location $home/sync/screenshots

@@ -1,0 +1,1 @@
+ URL : "https://github.com/getsentry/rigidsearch/issues/5" TITLE : clear index api BODY : we should add an api call to clear the entire search index in case it corrupts or requires updates.

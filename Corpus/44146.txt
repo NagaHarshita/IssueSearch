@@ -1,0 +1,1 @@
+ URL : "https://github.com/PaddlePaddle/cloud/issues/275" TITLE : email domain is error BODY : when we received an email from cloud.dlnel.org, email domain is not right: webmaster@localhost.localdomain

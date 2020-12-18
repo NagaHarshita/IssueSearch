@@ -1,0 +1,1 @@
+ URL : "https://github.com/ooware/repository.oo/issues/5" TITLE : error: can't delete BODY : add-on reports the error: delete failed: 400 bad input parameter 'unknown api function: fileops/delete .' need to upgrade delete to api v2

@@ -1,0 +1,1 @@
+ URL : "https://github.com/derFaizio/katana/issues/55" TITLE : changes to review basic BODY : remove up-vote and down-vote logic from review basic and take it to reviews basic. review basic will only get users action and emit that action and it will be received on reviews basic and corresponding function will be performed

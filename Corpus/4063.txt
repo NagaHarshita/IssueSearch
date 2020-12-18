@@ -1,0 +1,1 @@
+ URL : "https://github.com/nmpiazza/Hermes/issues/6" TITLE : add ldap check BODY : there needs to be a check for the ldap service. this should probably log in and verify that it has been correctly authenticated. then compare the hash.

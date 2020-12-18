@@ -1,0 +1,1 @@
+ URL : "https://github.com/log2timeline/plaso/issues/1589" TITLE : merge storage and output BODY : merge storage and output - think about re-implementing pstorage output module in a different way

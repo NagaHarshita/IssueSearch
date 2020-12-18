@@ -1,0 +1,1 @@
+ URL : "https://github.com/Bryce21/Email_Bot/issues/5" TITLE : detect first run BODY : if it's a computers first time running the program, user needs to be prompted to add a bunch of settings. kind of pointless, since no one would actually use this to send emails, but in an effort to be thorough i'm going to include it.

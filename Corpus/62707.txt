@@ -1,0 +1,1 @@
+ URL : "https://github.com/reem/rust-scoped-pool/issues/3" TITLE : crates.fyi cert expired BODY : it looks like the cert on crates.fyi is expired making it inaccessible via chrome.

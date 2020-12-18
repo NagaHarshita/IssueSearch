@@ -1,0 +1,5 @@
+ URL : "https://github.com/needle-and-thread/vocal/issues/169" TITLE : create an appdata file BODY : appcenter dashboard could not find a com.github.needle-and-thread.vocal.desktop file for your project. please create one to provide additional data to application managers. --- for more information, see:
+- the appstream quickstart guide https://www.freedesktop.org/software/appstream/docs/chap-quickstart.html - the appstream metadata specification https://www.freedesktop.org/software/appstream/docs/chap-metadata.html if you need help with this issue please stop by the gitter https://gitter.im/elementary/houston channel. affects : 2.0.15 release https://github.com/needle-and-thread/vocal/releases/tag/2.0.15 <!--
+pipe: desktop
+pipe time: tue may 16 2017 00:51:28 gmt+0000 utc houston version: 0.4.0 d3a6a50725bc543fb88abe98f6907a6554403b4a houston env: production
+-->

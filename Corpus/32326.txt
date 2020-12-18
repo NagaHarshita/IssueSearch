@@ -1,0 +1,1 @@
+ URL : "https://github.com/adafruit/circuitpython/issues/266" TITLE : update os for asf4. BODY : including true random number generator on m4.

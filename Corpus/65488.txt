@@ -1,0 +1,1 @@
+ URL : "https://github.com/assimp/assimp/issues/1372" TITLE : iostream seek prototype BODY : hi, in iostream.h seek is defined as this: virtual aireturn seek size_t poffset, aiorigin porigin = 0; poffset can't be negative in fseek it's a signed long int . can this cause issues with some file types ?

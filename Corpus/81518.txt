@@ -1,0 +1,1 @@
+ URL : "https://github.com/dotzero/amocrm-php/issues/15" TITLE : узнать id поля BODY : из вашего примера: $contact->addcustomfield 448, '+79261112233', 'work' , ; как вы узнаете id поля, в данном примере — 448

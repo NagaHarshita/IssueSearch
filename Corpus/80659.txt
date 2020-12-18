@@ -1,0 +1,1 @@
+ URL : "https://github.com/wosin7/prj-rev-bwfs-dasmoto/issues/2" TITLE : unneeded css font family BODY : body{ font-family: helvetica; } you already have this applied to the body, everything inside of the body element will inherit this. no need to repeat this again.

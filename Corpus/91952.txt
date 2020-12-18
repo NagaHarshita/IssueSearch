@@ -1,0 +1,1 @@
+ URL : "https://github.com/drmercer/gitlike-config/issues/3" TITLE : use a real testing system BODY : would be nice to use mocha or something to organize the testing code in test.js

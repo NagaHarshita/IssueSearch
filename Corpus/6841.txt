@@ -1,0 +1,1 @@
+ URL : "https://github.com/adaltas/node-nikita/issues/105" TITLE : catch sql error BODY : for exemple, a weak password generete the following error to stderr with an 0 exit code: error 1045 28000 : access denied for user 'hive'@'s07903v0.snm.snecma' using password: yes

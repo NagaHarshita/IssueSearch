@@ -1,0 +1,1 @@
+ URL : "https://github.com/likemusic/CKEditorTableCellsSelection/issues/8" TITLE : changes unselected cells BODY : if you select a couple of cells see attachment and edit alignment then it edits the alignment of some unselected cells also. ! image https://cloud.githubusercontent.com/assets/12409606/23661860/bb6ee014-0345-11e7-8ad5-dd52aa3a932e.png

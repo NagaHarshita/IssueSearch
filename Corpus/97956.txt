@@ -1,0 +1,1 @@
+ URL : "https://github.com/jakiestfu/Medium.js/issues/205" TITLE : image drop fails on chrome BODY : hi, just to report a drag n drop bug on chrome... i tried to add an image in your rich with widgets element... on firefox, it works fine, but on chrome, it simply opens the image file. ;

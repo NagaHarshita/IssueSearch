@@ -1,0 +1,1 @@
+ URL : "https://github.com/mobx-little-router/mobx-little-router/issues/7" TITLE : core events BODY : we should support event listeners on all transition events. starting point is here https://github.com/mobx-little-router/mobx-little-router/blob/master/packages/mobx-little-router/src/events.js , but we need to narrow down on payload definitions and semantics.

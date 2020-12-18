@@ -1,0 +1,2 @@
+ URL : "https://github.com/S-J-Brown/SupportDEV/issues/23" TITLE : fault record viewer BODY : port over the fault log viewer from the old db.
+have all the same features but omit using its own notes as they are to be stored in the task itself.

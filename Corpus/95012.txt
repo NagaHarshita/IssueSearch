@@ -1,0 +1,1 @@
+ URL : "https://github.com/StefH/WireMock.Net/issues/23" TITLE : consider port to .net core BODY : hi, are you consider to port and support only .net standard version of this project? i port it now to .net standard 1.5 sbebrys/wiremock.net https://github.com/sbebrys/wiremock.net but you need port xpath2 too.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Laravel-Backpack/Demo/issues/24" TITLE : when saving a new page BODY : badmethodcallexception in builder.php line 2450: call to undefined method illuminate\database\query\builder::getcastedattributes

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Torgan/sawo-fr/issues/296" TITLE : espace avant parenthèse BODY : un coup on a 3 1/rd et un coup 3 1/rd . il faudrait uniformiser avec un espace avant la parenthèse. attention, il y a des cas où on ne veut pas d'espace. ex : discrétion d8 +2 nature . je verrais une regexp comme ça : / ^d \d+ \ / --> $1

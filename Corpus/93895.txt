@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/vscode-sublime-keybindings/issues/46" TITLE : auto create .vscode folder BODY : when i open vscode by terminal in a empty folder code . it's auto create .vscode in it

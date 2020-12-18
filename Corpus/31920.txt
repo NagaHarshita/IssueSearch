@@ -1,0 +1,1 @@
+ URL : "https://github.com/OptimalDesignLab/PDESolver.jl/issues/121" TITLE : test agains openmpi BODY : we currently only test against mpich, and this can mask certain kinds of bugs, because some mpi implementations can choose to error or not on different kinds of non-standard complaint behavior.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/JaysGitLab/cs-5666-scatt-jacc-caj/issues/40" TITLE : handle corrupt json file BODY : if a json file is not parsable json, currently program crashes i think . instead we should put a note in the report.

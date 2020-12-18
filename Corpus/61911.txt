@@ -1,0 +1,1 @@
+ URL : "https://github.com/k15kristof/polo_robot/issues/7" TITLE : buyall varakozasi ideje BODY : a buyall -ba van egy olyan a nem teszt uzemmodba, hogy var amig nem teljesul az order. ha tul sokaig var akkor nem tudunk kiesni a szinkronból? pl. több ideig ragad itt be mint a fő ciklus, ezért nem ciklusido köz lesz a két adatpont között.

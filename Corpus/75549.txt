@@ -1,0 +1,1 @@
+ URL : "https://github.com/zloirock/core-js/issues/360" TITLE : how to bundle npm module BODY : hi, i'm writing a package in es6 using babel, what would be the best way to package up a module that will be used in a browser that requires dom iterables as functionality in the browser?

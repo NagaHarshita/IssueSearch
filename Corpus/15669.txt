@@ -1,0 +1,1 @@
+ URL : "https://github.com/spark/particle-dev/issues/221" TITLE : feature wish list BODY : code completion parameter completion highlighting of compiler error line s - even the arduino ide does this clang-tidy and clang format i realize some of these may be available as plug-ins but i feel particle dev should come with these plug-ins out of the box,

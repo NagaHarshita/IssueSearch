@@ -1,0 +1,1 @@
+ URL : "https://github.com/qiime2/docs/issues/232" TITLE : mathjax cdn has shut down BODY : details here: https://www.mathjax.org/cdn-shutting-down/ it does look like their redirect works for us, but we should probably migrate to another cdn.

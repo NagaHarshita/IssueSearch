@@ -1,0 +1,1 @@
+ URL : "https://github.com/CTFd/CTFd/issues/447" TITLE : countdown timer displayed BODY : might be a nice idea to display the amount of remaining time for the event up the top in the header depending on the end time set in the config against the current server time.

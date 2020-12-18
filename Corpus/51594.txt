@@ -1,0 +1,1 @@
+ URL : "https://github.com/sameersbn/docker-gitlab-ci-multi-runner/issues/35" TITLE : auto unregister option BODY : i have many runners on many different projects and i must unregister them manually. i'll add a runner_autounregister option to remove automatically the runner from its gitlab instance on container stop.

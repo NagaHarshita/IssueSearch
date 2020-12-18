@@ -1,0 +1,1 @@
+ URL : "https://github.com/codeforanchorage/Anchorage-Property-Tax-Data/issues/1" TITLE : request: data dictionary BODY : is there a data dictionary available for the tax data? i've started parsing the file - but there are no column headers in the .ascii file and some of them are not straightforward enough to figure out.

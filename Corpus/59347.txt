@@ -1,0 +1,1 @@
+ URL : "https://github.com/stunstunstun/papago-node/issues/1" TITLE : travis ci 연동하기 BODY : to do - .travis.yml 작성 - coverage 리포트 만들기 - github에서 pr시 자동으로 빌드 결과를 커멘트 달기

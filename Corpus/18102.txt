@@ -1,0 +1,1 @@
+ URL : "https://github.com/RVATech/honoring-choices-webapp/issues/11" TITLE : sign final wishes BODY : given a user has filled in their final wishes when they submit then they should be required to sign and the app should store that base64 image in dynamodb or the app should store the image itself in s3 with a naming convention and ia storage

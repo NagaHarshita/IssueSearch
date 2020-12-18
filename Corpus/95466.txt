@@ -1,0 +1,1 @@
+ URL : "https://github.com/ORNL-AMO/AMO-Tools-Suite/issues/46" TITLE : database materials cleanup BODY : there are duplicate strings in the database for different materials. each material needs to be uniquely named.

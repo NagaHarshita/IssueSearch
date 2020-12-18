@@ -1,0 +1,1 @@
+ URL : "https://github.com/stellar/stellar-core/issues/1311" TITLE : stellar-core not starting BODY : 2017-09-16t15:43:30.518 <startup> default fatal got an exception: no config file stellar-core.cfg found main.cpp:645 everytime samething happens. please provide solution.

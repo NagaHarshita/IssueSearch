@@ -1,0 +1,1 @@
+ URL : "https://github.com/IIBM/sphere-training/issues/19" TITLE : codecs de video BODY : ver cual conviene usar empíricamente actualmente: mpeg https://github.com/iibm/sphere-training/blob/2e4d73180362da3f3a039d08f70607098dca366e/modules/spherevideodetection.py l972-l975

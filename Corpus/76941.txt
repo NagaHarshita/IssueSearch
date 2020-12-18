@@ -1,0 +1,1 @@
+ URL : "https://github.com/ccoulson/import_test/issues/53" TITLE : membership request error BODY : <b>poo codeplex </b> <br />not able to add new users by membership request web part, getting unexpected error, nothing found in logs also. although by site settings-gtfba user management -gt new user, i am able to add users

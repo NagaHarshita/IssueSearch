@@ -1,0 +1,1 @@
+ URL : "https://github.com/tgoodlet/dotrc/issues/5" TITLE : deploy my env with salt BODY : much like @dtkerr's saltrice https://github.com/dtkerr/saltrice i want to be able to deploy my env on any nix distro and particularly deploy my arch setup on new machines with a button press. that might mean this repo get's re-branded.

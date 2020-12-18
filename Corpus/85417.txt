@@ -1,0 +1,1 @@
+ URL : "https://github.com/jb55/bcalc/issues/8" TITLE : extra arguments as tokens BODY : so you can do stuff like: bcalc --bits 100 mbtc

@@ -1,0 +1,1 @@
+ URL : "https://github.com/0xd4d/dnlib/issues/144" TITLE : question about stepinfos BODY : hi, i upgraded to the latest version, and the following does not build anymore: csharp var stepinfos = innermethod.body?.pdbmethod?.asyncmethod?.stepinfos; because there is no asyncmethod property anymore. so where are the stepinfos related to an async method? thanks.

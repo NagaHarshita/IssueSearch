@@ -1,0 +1,1 @@
+ URL : "https://github.com/jevtovich/tehprog/issues/1" TITLE : rewrite blade files BODY : need to make it prettier, to put functions in models instead of using if statements in blade files, if statements should be used only if it's really necessary.

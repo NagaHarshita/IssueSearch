@@ -1,0 +1,1 @@
+ URL : "https://github.com/hisener/bbm487s2017g1/issues/44" TITLE : deleting a customer BODY : when a customer is deleted: - currently owned books should be returned - fines can be neglected

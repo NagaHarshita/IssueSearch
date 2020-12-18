@@ -1,0 +1,1 @@
+ URL : "https://github.com/dotCMS/core/issues/12378" TITLE : clean up routing BODY : after the migration it start getting this error: <img width= 940 alt= s00bwu src= https://user-images.githubusercontent.com/751424/29520939-98acca72-8640-11e7-9ef8-40d1f30e6122.png > but also we need to see if there is a better way to do our routing

@@ -1,0 +1,1 @@
+ URL : "https://github.com/corcel/corcel/issues/373" TITLE : select post by meta BODY : select the post with the other meta condition 1 value. post::published ->hasmeta 'status', 'trailler' ->get ; with laravel we can use where but it looks like corcel has not provided that

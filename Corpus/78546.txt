@@ -1,0 +1,1 @@
+ URL : "https://github.com/praveendath92/fitbit-googlefit/issues/37" TITLE : python crashes upon sync BODY : no error is given. authentication is successful. however python crashes after entering python app.py . running windows 10 and python 3.5.4

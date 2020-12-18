@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpenPrograms/gamax92-Programs/issues/6" TITLE : crashes on any keypress BODY : because of a in nil-call in line 708 keys code :sub because keys code is non-string, maybe the event api got changed? my op version: 1.7.0

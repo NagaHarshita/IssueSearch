@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpenCubicChunks/CubicChunks/issues/211" TITLE : crash with forge 2314 BODY : it actually doesn't get as _far_ as a crash log here. forge 2309 still works so i'm reverting to that. minecraft log: https://pastebin.com/wxf5xqru fml-client-latest.log: https://pastebin.com/ftbi1dgc

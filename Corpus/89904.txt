@@ -1,0 +1,1 @@
+ URL : "https://github.com/rkhitin/pomidoro-timer/issues/1" TITLE : replace shortid to nanoid BODY : shortid was deprecated. nanoid smaller, faster and has better rng https://github.com/ai/nanoid

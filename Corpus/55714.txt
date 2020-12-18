@@ -1,0 +1,1 @@
+ URL : "https://github.com/datoszs/czech-lawyers/issues/80" TITLE : legenda pro statistiky BODY : statistiky právníků jsou tři různě barevná čísla -- potřebujeme nějakou legendu. otázkou je, jak přesně ji udělat -- jako tooltip pak by se tam musel dát nějaký otazníček, aby bylo jasné, že tam tooltip je ? nebo ji nechat plavat na stránce by default s tím, že půjde zavřít?

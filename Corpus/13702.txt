@@ -1,0 +1,1 @@
+ URL : "https://github.com/tools4developers/docker-web-ui/issues/8" TITLE : write more tests BODY : now one test is written for the sidebarservice service. it is necessary to cover more code with tests

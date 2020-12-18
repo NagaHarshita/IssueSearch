@@ -1,0 +1,15 @@
+ URL : "https://github.com/Zimmi48/bugzilla-test/issues/1271" TITLE : parser xml et commentaire BODY : note: the issue was created automatically with bugzilla2github tool bugzilla bug id: 1271
+date: 2006-11-07 09:46:37 +0100
+from: sidi ould biha &lt;<sidi.ould_biha@sophia.inria.fr>&gt;
+to: cc: @_pirbo last updated: 2014-09-08 18:48:12 +0200 bugzilla comment id: 49
+date: 2006-11-07 09:46:37 +0100
+from: sidi ould biha &lt;<sidi.ould_biha@sophia.inria.fr>&gt; bonjour,
+le parser xml, utilisé par la tactique external, n'arrive pas à ignorer les commentaires et prologues xml du genre : <!-- doc a -->
+<?xml version= 1.0 ?> j'aimerai savoir comment on peut remédier à ce problème ou si c'est déjà le cas? merci -- sidi ould biha
+phd candidate
+inria - sophia antipolis, marelle team
+2004 rte des lucioles b.p.93, 06902 sophia antipolis cedex france
+phone : +33 04 92 38 76 05
+fax : +33 04 92 38 50 29 bugzilla comment id: 7791
+date: 2014-09-08 18:48:12 +0200
+from: @_ppedrot the xml plugin was deprecated and removed.

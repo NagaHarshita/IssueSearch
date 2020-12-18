@@ -1,0 +1,1 @@
+ URL : "https://github.com/murilocosta/yacatecuhtli/issues/1" TITLE : create and manage account BODY : must be one of: bank account, internal account. if account type is bank, it must have the bank details. may have an initial value.

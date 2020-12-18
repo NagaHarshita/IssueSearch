@@ -1,0 +1,1 @@
+ URL : "https://github.com/TwP/inifile/issues/46" TITLE : for loop in .ini file BODY : hi everybody, is it possible to define a for loop in a .ini file? for example we have for loop in c or python,... can we define such loops in .ini file?

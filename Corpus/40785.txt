@@ -1,0 +1,1 @@
+ URL : "https://github.com/will3216/resque-better_unique/issues/2" TITLE : using with activejob BODY : we are using resque with activejob and this plugin doesn't seem to work with activejob ... is there some way to make it work?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Stumblinbear/BetterRecords/issues/21" TITLE : entire record is tinted. BODY : as of the temporary fix in f63397b to item coloring, the entire record is tinted with the color, and not just the center. this will be fixed in the upcoming refactor.

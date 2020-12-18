@@ -1,0 +1,1 @@
+ URL : "https://github.com/Jude95/EasyRecyclerView/issues/190" TITLE : adapter clear not working BODY : i'm calling adapter.clear just before refresh but nothing is happening to my old list. the new data is still being appended to the old data.

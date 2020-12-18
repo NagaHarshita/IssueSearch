@@ -1,0 +1,1 @@
+ URL : "https://github.com/AmosGarner/PyInventory/issues/1" TITLE : insert item broken BODY : insert item functionality broken. instead of appending to the collection the function is overwriting the collections items data. command: python main.py --action insert_item --user agarner --name books --type book --input the shining ~ stephen king

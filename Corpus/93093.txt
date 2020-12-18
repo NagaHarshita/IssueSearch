@@ -1,0 +1,1 @@
+ URL : "https://github.com/Citillara/CitiBot/issues/21" TITLE : add data caching on models BODY : new class that derives basemodel and has an overridable parameter of cache duration

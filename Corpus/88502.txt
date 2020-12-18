@@ -1,0 +1,1 @@
+ URL : "https://github.com/cuberite/cuberite/issues/3517" TITLE : no xp from smelting stuff BODY : client version: 1.8.9 server os: linux commit id: c8b1d8a37d6073786df34836ed1e2c88652ac629 expected behavior get experience by manually unloading the furnace. actual behavior you don't get experience by manually unloading the furnace. steps to reproduce the behavior smelt something

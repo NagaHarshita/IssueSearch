@@ -1,0 +1,1 @@
+ URL : "https://github.com/himiklab/yii2-recaptcha-widget/issues/41" TITLE : not work ajax BODY : sending ajax in the form of a request to php $form->field $comment, 'verifycode' ->widget \himiklab\yii2\recaptcha\recaptcha::classname , 'sitekey' => '1111' ?> the response contains not widget

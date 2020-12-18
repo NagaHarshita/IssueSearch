@@ -1,0 +1,1 @@
+ URL : "https://github.com/thinkshout/bene/issues/86" TITLE : local cloning of cta's BODY : overview currently the only global cta is the newsletter sign up. all others are page specific. future iterations of the site may have a more broad implementation. location cloning in the future could be cool. design/ux hrs dev hrs theme hrs this ticket is done when: - item - item

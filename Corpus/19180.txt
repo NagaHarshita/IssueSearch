@@ -1,0 +1,1 @@
+ URL : "https://github.com/adafruit/FreqShow/issues/17" TITLE : zoom on waterfall BODY : hello, i have picked up the if of my rig 68.330 mhz to make a panadapter. the only issue that i have with freqshow is the width of the rtl. the minimum value is 1 mhz but i need to see just 60 khz +30/-30 . it's possible to zoom on the waterfall? thank you, diego. iz1jft.

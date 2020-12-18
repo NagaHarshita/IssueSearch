@@ -1,0 +1,1 @@
+ URL : "https://github.com/tannerlinsley/react-form/issues/92" TITLE : typo in example BODY : there's a typo in this example: <select field='employed' options={ { label: 'employed', values: true }, { label: 'unemployed', value: false } } /> please change values to value , i was using your example but was not able to change the dropdown because of the s .

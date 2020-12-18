@@ -1,0 +1,1 @@
+ URL : "https://github.com/ethereum/ethereumj/issues/758" TITLE : eliminate mapdb usage BODY : need to refactor discovery for using leveldb source. mapdb causes a number of failures periodically

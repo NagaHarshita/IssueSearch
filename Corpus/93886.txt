@@ -1,0 +1,1 @@
+ URL : "https://github.com/cmiu007/cmr-v0.2/issues/23" TITLE : auth invalid, form re auth BODY : component cpps daca la getformdata auth este invalid, dupa reautentificare formularul ramane fara date. de facut mecanism de reincercare a ultimei comenzi.

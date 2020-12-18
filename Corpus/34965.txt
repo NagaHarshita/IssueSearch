@@ -1,0 +1,1 @@
+ URL : "https://github.com/oasis-open/cti-python-stix2/issues/38" TITLE : create workbench api BODY : this is a set of functions, exposed in a flat namespace, to hide much of the internal complexity of the library from analysts who want to interact with stix 2 data using something like a jupyter notebook.

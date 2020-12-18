@@ -1,0 +1,1 @@
+ URL : "https://github.com/airbnb/epoxy/issues/253" TITLE : group model event handling BODY : suppose a group model horizontal linearlayout that consist of two models: textviewmodel switchviewmodel how to pass click event of a textviewmodel to toggle method of switchviewmodel ?

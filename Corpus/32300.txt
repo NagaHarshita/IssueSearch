@@ -1,0 +1,1 @@
+ URL : "https://github.com/HansHauge/KwonMooHapkido/issues/7" TITLE : update for newrelic BODY : when we changed the domain name, we also need to update the newrelic yml key since we removed and then re-added . will require re-deploy to heroku

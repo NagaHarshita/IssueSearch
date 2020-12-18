@@ -1,0 +1,1 @@
+ URL : "https://github.com/butteff/Ubuntu-Telemetry-Free-Privacy-Secure/issues/2" TITLE : add dns to ufw rules BODY : as without it internet will not work. sudo ufw allow out 53

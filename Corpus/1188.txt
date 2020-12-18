@@ -1,0 +1,1 @@
+ URL : "https://github.com/qiyeboy/SpiderBook/issues/55" TITLE : in page 225 BODY : set phantomjs request user-agent use the book methood why ? dcap = dict desiredcapabilities.phantomjs why not write dcap = {} my test scap={} with httpbin user-agent also success set

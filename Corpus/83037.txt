@@ -1,0 +1,1 @@
+ URL : "https://github.com/iocage/iocage/issues/83" TITLE : boot=on and jail creation BODY : passing boot=on currently does not start the jail itself when it is created, that seems a bit surprising to me.

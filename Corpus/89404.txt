@@ -1,0 +1,1 @@
+ URL : "https://github.com/esheldon/medsdm/issues/4" TITLE : psf images are not square BODY : sometimes the psf images are not square this is required for meds. the data are laid out on disk as a big 1-d array, and we only store the box_size . if not square we can't recover the image.

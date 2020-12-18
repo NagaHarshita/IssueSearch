@@ -1,0 +1,3 @@
+ URL : "https://github.com/IntelligentTrading/core/issues/42" TITLE : generate rsi signals BODY : if they cross a certain level:
+rsi below 30 = send signal
+rsi above 75 = send signal asked by vinnie

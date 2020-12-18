@@ -1,0 +1,1 @@
+ URL : "https://github.com/unoacm/code_court/issues/56" TITLE : add event loop BODY : add an event loop to the application for: - changing competition state based on time - timeout problems being executed

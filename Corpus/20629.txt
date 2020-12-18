@@ -1,0 +1,1 @@
+ URL : "https://github.com/RachelDavids/RuleChecker/issues/79" TITLE : correct suffix ... BODY : public class readonlydictionary<tkey, tvalue> : ireadonlydictionary<tkey, tvalue>

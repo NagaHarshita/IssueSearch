@@ -1,0 +1,1 @@
+ URL : "https://github.com/ros-ukraine/leobot/issues/9" TITLE : stage 2 requirements BODY : creation of the physical robot. extra functionality: 1. two way communication 2. automatic finding of the charging station 3. web ui 4. follow predefined path with set of way points. there should be possibility to pause execution e.g. excursion in art museum along van gogh works.

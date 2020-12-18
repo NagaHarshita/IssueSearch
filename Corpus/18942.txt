@@ -1,0 +1,1 @@
+ URL : "https://github.com/kennytm/cov/issues/1" TITLE : v0.1.0 test cases BODY : add test cases to verify cov can parse .gcno / .gcda generated from: rustc clang 4 gcc 7 ensure the counts of .gcno / .gcda are consistent with output from llvm-cov / gcov-7 . repeat above for the specimens.

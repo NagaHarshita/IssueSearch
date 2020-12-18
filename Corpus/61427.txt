@@ -1,0 +1,1 @@
+ URL : "https://github.com/scalaz/scalaz/issues/1343" TITLE : asynchronous type class BODY : there are similar features shared in cont and future , e.g. cont.shift and future.async , cont.reset and future.suspend . is it possible to create an type class that consists of shift , reset ? i want to create a library support both of the types. i think the type class will help.

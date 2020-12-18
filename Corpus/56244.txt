@@ -1,0 +1,1 @@
+ URL : "https://github.com/jquery-validation/jquery-validation/issues/1939" TITLE : mixed content in demos BODY : > @markusstaab hi. auf jqueryvalidation.org/files/demo/mul… wird jquery ui per http geladen, triggered mixed content error. https://twitter.com/m_strehl/status/827655221467820036

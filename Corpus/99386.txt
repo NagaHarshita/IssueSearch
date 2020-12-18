@@ -1,0 +1,1 @@
+ URL : "https://github.com/openigtlink/OpenIGTLink/issues/114" TITLE : missing protocol ducuments BODY : d1ae5660109e4ba6bc88653da4a4a9276557712a does not contain new message types introduced in 3.0 e.g. command message .

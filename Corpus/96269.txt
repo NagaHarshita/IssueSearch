@@ -1,0 +1,1 @@
+ URL : "https://github.com/MarlinFirmware/Marlin/issues/6902" TITLE : error compiling in gcode.h BODY : hi there. i've just tried compiling 1.1.2 after tweaking the configuration.h and configuration_adv.h for my tevo tarantula - and arduino 1.6.8 threw up an invalid conversion from 'const char ' to 'char ' -fpermissive on line 138 of gcode.h

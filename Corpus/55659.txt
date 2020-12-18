@@ -1,0 +1,1 @@
+ URL : "https://github.com/k8sdb/kubedb/issues/29" TITLE : kubedb bash completion BODY : cobra already generates it. we need a command to install the bash completion scripts.

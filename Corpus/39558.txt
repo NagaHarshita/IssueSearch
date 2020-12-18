@@ -1,0 +1,2 @@
+ URL : "https://github.com/Enerccio/wlc/issues/38" TITLE : simulate key presses BODY : <a href= https://github.com/sircmpwn ><img src= https://avatars3.githubusercontent.com/u/1310872?v=3 align= left width= 96 height= 96 hspace= 10 ></img></a> issue by sircmpwn https://github.com/sircmpwn _saturday sep 26, 2015 at 16:35 gmt_
+_originally opened as https://github.com/cloudef/wlc/issues/70_ ---- i would like to be able to send simulated keypresses to wayland clients.

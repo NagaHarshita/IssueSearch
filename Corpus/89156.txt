@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpenCL/GEGL-OpenCL/issues/39" TITLE : port to opencl reinhard05 BODY : port the gegl operation reinhard05 to opencl, with optimizations targeting the following:- - nvidia gpu - amd gpu - intel gpu - cpu

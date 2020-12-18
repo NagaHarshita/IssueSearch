@@ -1,0 +1,1 @@
+ URL : "https://github.com/superRaytin/xss-filter/issues/4" TITLE : will not remove <script> BODY : regular expressions used in code are not properly created this example is not processed by the filter: test <script> a < b; c>d</script> final you could use instead: /<script ^> >. ?<\/script>/img but do not respond to all cases

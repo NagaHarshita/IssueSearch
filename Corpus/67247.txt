@@ -1,0 +1,1 @@
+ URL : "https://github.com/pixijs/pixi-spine/issues/173" TITLE : path constraint support BODY : hi! i was testing out path constraints to have a mesh with bones to follow along a path. but running it in pixi didn't really work. it got stuck on the first frame but played the length of the animation. so my question is: are path constraints supported in pixi?

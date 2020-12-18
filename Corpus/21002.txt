@@ -1,0 +1,1 @@
+ URL : "https://github.com/itchio/itch/issues/1209" TITLE : dmg mounting hangs BODY : with the mac version of hex kit, the installer hangs just after the logs mention the dmg is being mounted.

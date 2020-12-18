@@ -1,0 +1,1 @@
+ URL : "https://github.com/UrbanRiskSlumRedevelopment/Hermes/issues/1" TITLE : docker-compose post edits BODY : despite running docker-compose down --volumes , edits made in package.json not picked up? node app name still shows risk-map-server instead of housing-app-server

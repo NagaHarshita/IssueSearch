@@ -1,0 +1,1 @@
+ URL : "https://github.com/clld/parabank/issues/4" TITLE : fix morgan data import BODY : morgan data is not imported with proper language names.

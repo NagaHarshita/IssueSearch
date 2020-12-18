@@ -1,0 +1,1 @@
+ URL : "https://github.com/TeamWin/android_device_lge_g4/issues/2" TITLE : no new build for g4 BODY : hi the latest twrp version for the g4 is still 3.2.0, but 3.2.1 got released. the latest build failed: https://jenkins.twrp.me/job/g4-prod/4/

@@ -1,0 +1,1 @@
+ URL : "https://github.com/norman/friendly_id-globalize/issues/19" TITLE : generator is not working BODY : i downloaded the gem and installed it, and when trying to run the rails g friendly_id_globalize i get could not find generator 'friendly_id_globalize'. maybe you meant 'friendly_id', 'react_on_rails:base' or 'resource_route'

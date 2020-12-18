@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla/network-pulse/issues/831" TITLE : fix linting errors BODY : this is a followup ticket for pr https://github.com/mozilla/network-pulse/pull/774. a lot of new code has been introduced since pr https://github.com/mozilla/network-pulse/pull/774 was filed. i'm gonna merge that pr first and file a followup pr to fix linting errors.

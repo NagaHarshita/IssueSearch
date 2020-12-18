@@ -1,0 +1,1 @@
+ URL : "https://github.com/DiscordDungeons/Bugs/issues/155" TITLE : api link = 502 bad gateway BODY : http://api.discorddungeons.me/docs/ leads to http://prntscr.com/ex9t16 !item insertitem provides no embed, as well. http://prntscr.com/ex9the easily fixed by using !uset itemdisplay 2 instead of embedded api link.

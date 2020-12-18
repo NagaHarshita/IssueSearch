@@ -1,0 +1,1 @@
+ URL : "https://github.com/Leixb/jutge_cli/issues/27" TITLE : inconsistency on readme BODY : the archive section of readme says that the flag --copy should be used when you want to preserve the original after archiving yet the correct flag is --no-delete

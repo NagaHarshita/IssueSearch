@@ -1,0 +1,1 @@
+ URL : "https://github.com/18F/jekyll-get/issues/17" TITLE : multiple data sources BODY : i have a need to join multiple requests into a single dataset, which works fine currently. however, i now need a way to identify each object with its source. is there a way to accomplish this?

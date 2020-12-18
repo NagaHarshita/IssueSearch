@@ -1,0 +1,1 @@
+ URL : "https://github.com/ainaimi/pgf/issues/1" TITLE : needs a licsence BODY : suggest you use and apache/bsd style license. since r is interpreted, this is probablty sufficient to protect end users against proprietary extensions, while still allowing the code to be used in other applications. gpl would also make sense, though. https://cran.r-project.org/web/licenses/

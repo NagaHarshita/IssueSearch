@@ -1,0 +1,1 @@
+ URL : "https://github.com/conda-forge/pyshp-feedstock/issues/7" TITLE : 1.2.12 seems broken? BODY : on my system python2.7, linux64 , a conda install -c conda-forge pyshp leads to import shapefile raising an importerror . also, i cannot find any shapefile.py file which is present in the platform-dependent 1.2.11 packages for my system.

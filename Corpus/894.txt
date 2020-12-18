@@ -1,0 +1,1 @@
+ URL : "https://github.com/MRtrix3/mrtrix3/issues/1208" TITLE : 3d roi tool BODY : dear mrtrix developers! we are using mrview extensively for our placental visualization/analysis/roi segmentation - but were wondering whether a 3d version of the roi-brush was a possible new feature? it would be very helpful for us! best wishes, jana

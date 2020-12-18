@@ -1,0 +1,1 @@
+ URL : "https://github.com/quintusdias/glymur/issues/418" TITLE : fix lxml info description BODY : it's not the lxml version that we are interested in, but lxml.etree

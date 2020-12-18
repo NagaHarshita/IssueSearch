@@ -1,0 +1,1 @@
+ URL : "https://github.com/nexB/aboutcode-manager/issues/148" TITLE : refactor html and css BODY : we haven't looked at the html and css in a while. there are a lot of things that can be cleaned up or removed to simplify the html, css, and js.

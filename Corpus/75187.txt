@@ -1,0 +1,1 @@
+ URL : "https://github.com/ghcjs/ghcjs/issues/609" TITLE : ghcjs-run does not exist BODY : i compile ghcjs by running: ghcjs-boot -- --dev --shims-dev-branch ghc-8.0 --ghcjs-boot-dev-branch ghc-8.0 everything seems work fine except ghcjs-run command: /long/path/to/ghcjs-run.jsexe/node: openfile: does not exist no such file or directory why？

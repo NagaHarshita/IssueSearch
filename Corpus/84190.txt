@@ -1,0 +1,1 @@
+ URL : "https://github.com/Zetawar/zetawar/issues/72" TITLE : create ai training system BODY : add a way for ais to repeatedly play each other and use that experience to train themselves. this will require adding some mechanism for preserving some ai state across multiple turns and games.

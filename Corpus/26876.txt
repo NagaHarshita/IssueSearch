@@ -1,0 +1,1 @@
+ URL : "https://github.com/DigitalState/Portal/issues/43" TITLE : cases view: add map BODY : add google map to cases view. location data will be in data.location.coordinates.lat and .long expect api keys for google to be stored in cms

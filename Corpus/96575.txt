@@ -1,0 +1,1 @@
+ URL : "https://github.com/NixOS/nixpkgs/issues/26612" TITLE : exwm doesnt work with slim BODY : if nothing else should be a comment in the source file did try different stuff till i luckily tested lightdm and it worked.

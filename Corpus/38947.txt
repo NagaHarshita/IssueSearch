@@ -1,0 +1,1 @@
+ URL : "https://github.com/swagger-api/swagger-parser/issues/587" TITLE : release notes 1.0.33 BODY : improvements fix referenced models parsing on definitions 495 fix issue with parser listing empty definitions 552 method added to decide when to resolve references in parser 574

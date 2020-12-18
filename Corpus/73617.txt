@@ -1,0 +1,1 @@
+ URL : "https://github.com/directus/directus/issues/1325" TITLE : custom endpoint question BODY : i'm trying to acces the custom endpoint at _example.php, but i don't know how i access this through an url. can you guide me it's not documented ? ! screen shot 2017-01-09 at 15 57 35 https://cloud.githubusercontent.com/assets/1546779/21770668/86e15c3e-d684-11e6-847d-b97e474faa45.png

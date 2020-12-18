@@ -1,0 +1,1 @@
+ URL : "https://github.com/yizhang7210/Acre/issues/3" TITLE : change floats to decimals BODY : rates needs to be decimals with 5 digits, and euler features needs to be decimals with 2 digits. everywhere including code docs, db schema, etc.

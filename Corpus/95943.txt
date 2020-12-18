@@ -1,0 +1,1 @@
+ URL : "https://github.com/konkor/cpufreq/issues/37" TITLE : doesnt work on kernel 4.12 BODY : hello, first of all this extension is great ; it helped me a lot to get the max of my laptop. i just tried the kernel 4.12 and it seems that the extension doesnt have the power to interact with governors anymore. config : xps 13 9360 thanks !

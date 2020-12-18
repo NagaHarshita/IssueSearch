@@ -1,0 +1,1 @@
+ URL : "https://github.com/ccfcheng/pinterest-palette/issues/1" TITLE : initial setup for backend BODY : - node/express/body-parser/cheerio/request/cheerio/firebase/dotenv - set up an endpoint to scrape encycolorpedia - save entries to firebase

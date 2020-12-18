@@ -1,0 +1,1 @@
+ URL : "https://github.com/matthewearl/faceswap/issues/12" TITLE : changing the mask shape BODY : hello, i was wondering how to change the shape of the mask to something like an eclipse instead of a convex polygon. or is there a way i can fit an eclipse around the convex polygon and then have that eclipse that be polyfilled.

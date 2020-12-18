@@ -1,0 +1,1 @@
+ URL : "https://github.com/dbolser/GFF-projection-script/issues/1" TITLE : this is slow! BODY : i should profile to find out where all the time is going... i suspect it's bioperl object manipulation.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/moberwasserlechner/ngx-jam/issues/6" TITLE : add demo mode to config BODY : this feature is just for demo and prototyping purpose. <ngx-jam demo></ngx-jam> generates random levels and titles and logs the config and item structure.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/fungs/mglex/issues/2" TITLE : compress model files BODY : model file compress with a factor of 10 to 20 with gzip, consider adding this directly to mglex or ensure streamability using, for instance, bash syntax.

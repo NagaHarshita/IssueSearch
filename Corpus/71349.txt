@@ -1,0 +1,1 @@
+ URL : "https://github.com/mkulesh/microMathematics/issues/53" TITLE : add data import function BODY : analogously to matcad, implement read function used as v_i,j := read filename

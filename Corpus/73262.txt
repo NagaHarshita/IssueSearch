@@ -1,0 +1,1 @@
+ URL : "https://github.com/alexellis/faas-cli/issues/86" TITLE : core supported languages BODY : existing csharp / .net standard 2.0 node.js python ruby candidates golang java these may be covered by community support 85 55 php 84 perl

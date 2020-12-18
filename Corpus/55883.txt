@@ -1,0 +1,1 @@
+ URL : "https://github.com/codeBelt/hapi-react-hot-loader-example/issues/14" TITLE : login redirect example BODY : <route exact path= / render={ => isloggedin ? <redirect to= /dashboard /> : <publichomepage /> } /> https://github.com/reacttraining/react-router/blob/master/packages/react-router/docs/api/redirect.md

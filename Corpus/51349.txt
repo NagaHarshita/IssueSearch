@@ -1,0 +1,1 @@
+ URL : "https://github.com/DCC-CC4401/2017-2-Cholitos-Warriors-T4/issues/30" TITLE : agregar imagen en ongs BODY : solo hace falta cambiar {% static 'internal/img/ong-edra.png' %} por {{ ong.avatar.url }} en user-ong-in y user-ong-out

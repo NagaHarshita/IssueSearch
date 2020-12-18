@@ -1,0 +1,1 @@
+ URL : "https://github.com/ploeh/ploeh.github.com/issues/267" TITLE : permalinks for comments BODY : comments currently don't have permalinks. it'd be nice if they had; preferably using a fragment identifier containing a guid.

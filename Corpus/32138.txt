@@ -1,0 +1,1 @@
+ URL : "https://github.com/weecology/portalPredictions/issues/119" TITLE : tsglm link function BODY : looks like tsglm uses an identity link function by default, which is non-standard and can produce odd results. it would be worth checking if the model works better with a log link.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/shagstrom/split-pane/issues/37" TITLE : resize font on draging BODY : hey there, i'm using the plug in a three column layout and it works like a charm! right now i'm trying to resize the font-size depending on the .split-pane-component width. but i can't figure out how to do it. any help is appreciated!

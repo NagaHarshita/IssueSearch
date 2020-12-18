@@ -1,0 +1,1 @@
+ URL : "https://github.com/HPCE/hpce-2017-cw3/issues/72" TITLE : final test failure BODY : so my final test says: > pmb14, 27, for n=256, steps=2048: check time for v4 0.39 is more than 1.01 updated x v5 0.39 , fail so 0.39 is not 1.01x 0.39 but in a previous run, it passed because it was comparing 0.39 and 0.38 so do i just hope that the v5 time rounds to 0.38 next time?

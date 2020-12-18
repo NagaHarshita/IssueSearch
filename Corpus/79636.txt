@@ -1,0 +1,1 @@
+ URL : "https://github.com/zgphp/joindin-raffler-backend/issues/51" TITLE : sorting on /joindin/list BODY : when showing list of imported events from joindin, they should be sorted by start date from newer to older.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jeromeetienne/AR.js/issues/26" TITLE : aframe demo.html is buggy BODY : - aframe/examples/demo.html is buggy - todo handle resize - fix javascript exception - find a new name e.g. parameters.html - check you got all the parameters

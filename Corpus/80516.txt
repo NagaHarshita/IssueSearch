@@ -1,0 +1,2 @@
+ URL : "https://github.com/udacity/isdc_issues_tracker/issues/168" TITLE : typo l1 c++ optimization BODY : section 7 on binary. how bytes limit value ranges
+in c++, your variables will take up either 8, 16, 32, or 64 bits of memory, which are 1, 2, 3, and 4 bytes respectively. 8, 16, 32 or 64 bits of memory, which are 1, 2, 4 , 8 bytes respectively.

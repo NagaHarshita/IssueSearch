@@ -1,0 +1,1 @@
+ URL : "https://github.com/handsontable/handsontable/issues/4433" TITLE : new hooks for editor BODY : description we should add new hooks for an editor. an event when the editor was closed and the value was changed should be added.

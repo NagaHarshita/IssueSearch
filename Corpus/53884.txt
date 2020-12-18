@@ -1,0 +1,1 @@
+ URL : "https://github.com/rcbops-qe/rpc-heat-ansible/issues/51" TITLE : export rpc-on-rpc logs BODY : currently there is no way to log into the cluster due to floating ips and heat not working well together so we need to find a way to export the build logs onto the host that ran the job, i.e. the jenkins node / rpc cluster infra01 host

@@ -1,0 +1,1 @@
+ URL : "https://github.com/JRaspass/code-golf/issues/17" TITLE : stderr does not count? BODY : it seems that the solution is correct even if there are some warnings in stderr. is it supposed to be like this?

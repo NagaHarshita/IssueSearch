@@ -1,0 +1,1 @@
+ URL : "https://github.com/Den1al/JSShell/issues/9" TITLE : jsshell not work property BODY : when i run python3.5 shell.py i recieve this from terminal file shell.py , line 161 syntaxerror: non-ascii character '\xe2' in file shell.py on line 162, but no encoding declared; see http://python.org/dev/peps/pep-0263/ for details help please

@@ -1,0 +1,1 @@
+ URL : "https://github.com/PecanProject/pecan/issues/1520" TITLE : reapply db clean-up BODY : repeat cleanup steps from pr 1091 to latest code. as @dlebauer notes, at this point that will be easier than resolving conflicts.

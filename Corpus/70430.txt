@@ -1,0 +1,1 @@
+ URL : "https://github.com/donnemartin/system-design-primer/issues/53" TITLE : vulture analysis report BODY : hi! we used vulture over your project to detect any unused code. please have a look at the results: https://github.com/jendrikseipp/vulture-analysis/blob/master/system-design-primer/system-design-primer.md we would love to have your feedback.

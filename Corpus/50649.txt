@@ -1,0 +1,1 @@
+ URL : "https://github.com/Zer0Mem0ry/ManualMap/issues/2" TITLE : 64 bit type conversion BODY : everything works great on 32-bit but i have problems with converting the windows types to work on 64 bit, you got any help?

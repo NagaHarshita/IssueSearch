@@ -1,0 +1,1 @@
+ URL : "https://github.com/hyspace/grunt-jinja2/issues/8" TITLE : update package on npm? BODY : hey guys, any thoughts on pushing a new package to npm? npm install grunt-jinja2 does not have the global_context_file option that i'm sure people would like to use i'm one of them .

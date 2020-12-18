@@ -1,0 +1,1 @@
+ URL : "https://github.com/fabianishere/brainfuck/issues/46" TITLE : add continuous integration BODY : we should be able to build on some travis machines to check whether the master still builds before merging a pull request.

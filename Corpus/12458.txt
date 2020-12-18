@@ -1,0 +1,1 @@
+ URL : "https://github.com/SAP/cf-nodejs-logging-support/issues/8" TITLE : pino support ... BODY : i was wondering if we might get in the future any integration with pino logging framework https://github.com/pinojs/pino as an alternative to winston.

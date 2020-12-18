@@ -1,0 +1,1 @@
+ URL : "https://github.com/docker-library/percona/issues/41" TITLE : max open files set to 1024 BODY : ulimit is not set on mysql server, so they start with the default max open files == 1024. it's a problem when we try to use open_files_limit or innodb_open_files and set it to a higher limit.

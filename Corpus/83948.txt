@@ -1,0 +1,1 @@
+ URL : "https://github.com/mackensen/moodle-hat/issues/33" TITLE : configure cron by default BODY : what it says on the tin. useful for running scheduled tasks. i'm thinking about adding it, but commenting it out by default. i can see use cases for when you wouldn't want it running while you were actively developing a new task.

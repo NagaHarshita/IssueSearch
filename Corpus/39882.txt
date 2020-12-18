@@ -1,0 +1,1 @@
+ URL : "https://github.com/yaniswang/HTMLHint/issues/200" TITLE : support for angular2 BODY : i want to use the 'attr-lowercase' rule, but it is causing a issue with angular, since attr of angular can be a special char

@@ -1,0 +1,1 @@
+ URL : "https://github.com/rienafairefr/pynYNAB/issues/37" TITLE : slow for bigger accounts BODY : hey there probably isnt anything that can be done on this end, but i am noting that it's painfully slow to add a new transaction on a ynab account that has a lot of data. i am running https://github.com/scottrobertson/monzo-to-ynab which is hitting a 120 second timeout limit

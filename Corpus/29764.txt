@@ -1,0 +1,1 @@
+ URL : "https://github.com/JaspervRijbroek/aurora/issues/31" TITLE : modify event system BODY : currently only events are fired on the handlers, however game events must also listen to events on the system. so the entire event system will be rewritten. - add global event object - register all the event listeneners - dispatch events to all listeners.

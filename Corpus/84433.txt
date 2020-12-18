@@ -1,0 +1,1 @@
+ URL : "https://github.com/ca0v/ol3-popup/issues/21" TITLE : custom offset per feature BODY : some features may render as a teardrop, others as a point. in some cases the popup should point exactly at the feature, on other cases it is better to have a vertical displacement equal to the height of the symbol. add support for x/y offset on a per-feature basis.

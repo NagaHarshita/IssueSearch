@@ -1,0 +1,1 @@
+ URL : "https://github.com/martinbean/bootstrap-3-card/issues/6" TITLE : clearfix mixin missing BODY : clearfix mixin missing. i don't have the original bootstrap mixin, but here is one: @mixin clearfix { &:before, &:after { content: ; display: table; } &:after { clear: both; } }

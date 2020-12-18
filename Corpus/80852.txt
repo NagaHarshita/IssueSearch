@@ -1,0 +1,1 @@
+ URL : "https://github.com/marvinlabs/customer-area/issues/240" TITLE : use 'enter' to add tasks BODY : right now, the add task button has to be clicked to add tasks. hitting enter key does nothing. not sure if that's intended behavior or something went wrong? it would be great if we could hit enter to add new tasks.

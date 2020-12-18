@@ -1,0 +1,1 @@
+ URL : "https://github.com/ap--/python-seabreeze/issues/46" TITLE : anaconda and raspberry pi BODY : i tried to install pyseabreeze using miniconda full anaconda is not available for raspberry pi but i can never get past conda install -c poehlmann python-seabreeze - it says theres no such package

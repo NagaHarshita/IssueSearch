@@ -1,0 +1,1 @@
+ URL : "https://github.com/brocaar/loraserver/issues/193" TITLE : mqtt tls options BODY : it is possible to define the ssl:// scheme for the mqtt server but there are no configuration options for setting the various tls parameters like ca, client certificate, the tls version and ciphers, etc.

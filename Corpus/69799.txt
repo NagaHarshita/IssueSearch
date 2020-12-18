@@ -1,0 +1,1 @@
+ URL : "https://github.com/toggl/toggl_api_docs/issues/247" TITLE : typo for cors endpoint? BODY : the currently published endpoint for the cors whitelist is: https://www.toggl.com/api/v9/me/cors this page is 404'ing. any chance there's a typo in the docs?

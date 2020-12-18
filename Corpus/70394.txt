@@ -1,0 +1,1 @@
+ URL : "https://github.com/phage-nz/ph0neutria/issues/5" TITLE : viper tags config issue BODY : just downloaded and installed this, and on first run i get an error from the python script more specifically config parser. it seems as though no value exists in the current config related to the newly added viper addtags, although configpaser is still checking for it

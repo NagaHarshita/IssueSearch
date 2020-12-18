@@ -1,0 +1,1 @@
+ URL : "https://github.com/skycoin/skycoin/issues/349" TITLE : duplication of balances BODY : if you load the address twice or three times, the total sum of the skycoin will also be doubled or tripled.

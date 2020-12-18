@@ -1,0 +1,1 @@
+ URL : "https://github.com/weekend-software/reminder-timofey/issues/3" TITLE : api: add tokens mechanism BODY : one should be ale to use tokens to create notifies. token should point to single user. user should know about all of its tokens.

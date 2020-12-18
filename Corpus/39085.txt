@@ -1,0 +1,1 @@
+ URL : "https://github.com/quasarframework/quasar/issues/991" TITLE : request button group BODY : how about button grouping? this functionality well presented in bootstrap, semantic ui and many others frameworks, but i didn't find it here. fab is looks similar, but not exactly. this thing is usefull for making toolbars, etc.

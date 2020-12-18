@@ -1,0 +1,1 @@
+ URL : "https://github.com/jboss-fuse/wsdl2rest/issues/27" TITLE : provide code coverage BODY : it would be nice to have code coverage information. using jacoco would allow to link it with sonarcloud.io

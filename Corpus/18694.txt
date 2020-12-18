@@ -1,0 +1,1 @@
+ URL : "https://github.com/tkf/emacs-jedi/issues/295" TITLE : unable to install BODY : while trying to install jedi, i keep getting the error http://melpa.org/packages/ctable-20140304.1659.el: not found, not sure what's happening here.

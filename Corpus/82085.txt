@@ -1,0 +1,1 @@
+ URL : "https://github.com/amaddatu/emailfeedback/issues/7" TITLE : add email / feedback form BODY : we should have a form that has a textbox for email and a textbox for name and a text area for password. this should save every second or so. there should be a button to submit if it has not been saved. the button should say saved if already submitted.

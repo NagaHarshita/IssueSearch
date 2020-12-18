@@ -1,0 +1,1 @@
+ URL : "https://github.com/domcermak/chess/issues/9" TITLE : fix memory leaks BODY : destuctors are incomplete destructor in figures.cpp should be virtual

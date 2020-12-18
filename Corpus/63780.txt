@@ -1,0 +1,1 @@
+ URL : "https://github.com/openbmc/openbmc-test-automation/issues/364" TITLE : esel test esel via rest BODY : test code to verify if the esel generated can be viewed by rest. reference : https://github.com/openbmc/openbmc/issues/1170

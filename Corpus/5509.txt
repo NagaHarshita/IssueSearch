@@ -1,0 +1,1 @@
+ URL : "https://github.com/ssell/noisegen/issues/6" TITLE : prng: well 512 BODY : implement the well 512 algorithm. sample implementation may be found at: https://github.com/ssell/ocularengine/blob/master/ocularcore/include/math/random/well.hpp

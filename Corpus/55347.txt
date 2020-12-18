@@ -1,0 +1,1 @@
+ URL : "https://github.com/quidsup/notrack/issues/236" TITLE : install.sh not working BODY : just trying a fresh install. download the install file fine but running bash install.sh gives this: install.sh: line 1: syntax error near unexpected token newline' install.sh: line 1: <!doctype html>' running raspbian stetch lite.

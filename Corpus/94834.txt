@@ -1,0 +1,1 @@
+ URL : "https://github.com/tsiemens/pathfinder-toolkit/issues/51" TITLE : cmd calculates incorrectly BODY : cmd should be using bab + str + dex + size + dodge but instead of bab it calculates with your cmb, so you gain bonuses from one of your abiltiy scores twice str or dex depending on whether or not you have the agile maneuvers feat

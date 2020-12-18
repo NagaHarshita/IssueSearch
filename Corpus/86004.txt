@@ -1,0 +1,1 @@
+ URL : "https://github.com/FORTH-ModelBasedTracker/HandTracker/issues/74" TITLE : get data of the hand pose BODY : hi! nice work! thank you for providing such great demo. however, i wonder if there is any interface from which i could extract the specific 3d data of the hand? for example the angle and cartesian coordinates. thank you.

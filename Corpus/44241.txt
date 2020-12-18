@@ -1,0 +1,1 @@
+ URL : "https://github.com/Noctem/pokeminer/issues/12" TITLE : error during tutorial BODY : argument action with value 1 unknown inside encounter_tutorial_complete_message exception: 'encountertutorialcompletemessage' object has no attribute 'action'

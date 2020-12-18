@@ -1,0 +1,2 @@
+ URL : "https://github.com/ServUO/ServUO/issues/2279" TITLE : vvv altar crash BODY : code exception:
+system.indexoutofrangeexception: index was outside the bounds of the array. at server.engines.vvv.vvvaltar.occupytimer.ontick in ...\scripts\services\vicevsvirtue\items\vvvaltar.cs:line 302 at server.timer.slice in ...\server\timer.cs:line 410 at server.core.main string args in ...\server\main.cs:line 588 /code reported by: argalep report thread: http://servuo.com/threads/vvv-altar-crash.7594/

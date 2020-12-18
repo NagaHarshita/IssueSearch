@@ -1,0 +1,1 @@
+ URL : "https://github.com/Facepunch/garrysmod-issues/issues/3122" TITLE : switching to toolgun BODY : details switching to toolgun is serverside called, but should be shared. returns in weapons fired a milisecond before shooting clientside, but not serverside etc. steps to reproduce press mouse4.

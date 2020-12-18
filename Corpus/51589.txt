@@ -1,0 +1,1 @@
+ URL : "https://github.com/FAC10/easy-poll/issues/23" TITLE : auto fill enhancements BODY : - multiple 'or' support - if you delete all the question and haseditedanswers is false, should blank out answers.

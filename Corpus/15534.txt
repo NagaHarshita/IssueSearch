@@ -1,0 +1,1 @@
+ URL : "https://github.com/zaqueoae/Catinfog/issues/150" TITLE : error en informes BODY : en informes>ventas si pulsas en actualizar, vas a una sección de ventas. lo que hay que hacer es lo siguiente: 1. crear una sección de ventas en el menú pruncipal. 2. corregir los filtros de informes>ventas

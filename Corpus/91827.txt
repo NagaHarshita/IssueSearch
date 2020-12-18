@@ -1,0 +1,1 @@
+ URL : "https://github.com/healthlocker/oxleas-adhd/issues/64" TITLE : update slam/care_team for BODY : update slam/care_team 's for function so that it queries the clinicians table in postgres for clinicians associated to a su rather than epjs .

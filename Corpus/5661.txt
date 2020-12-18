@@ -1,0 +1,1 @@
+ URL : "https://github.com/nebulousGirl/gulp-newsletter/issues/1" TITLE : sass is broken BODY : the current version uses ruby-sass, but results in an error on some computer. installing and using gulp-sass resolves the problem.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/kohana/core/issues/706" TITLE : proposal make middlewares BODY : hey, guys. what do you think about make middleware for the kohana routes like laravel framework ? this is a real comfortable method to reuse code of requests filters and awesome architectural solution for make right code architecture.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/w3c/csswg-drafts/issues/2142" TITLE : css-ui typo: highligh BODY : https://drafts.csswg.org/css-ui-4/ valdef-user-select-none > copying text that does not appear to be selected, or vice versa, is highligh confusing to users. highligh sic should be highly .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Felix-Franz/VLCController/issues/12" TITLE : vlc.json not found BODY : if vlc.json is not found something should happen. possibilität 1: an empty config file should be created and the user had to add vlc instances to the file or using the api posability 2: the file is created with 1 local demo instance.

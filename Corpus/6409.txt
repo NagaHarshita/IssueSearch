@@ -1,0 +1,1 @@
+ URL : "https://github.com/vega/voyager/issues/250" TITLE : add hot loader? BODY : http://gaearon.github.io/react-hot-loader/ not sure if it is already supported by redux though.

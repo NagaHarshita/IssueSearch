@@ -1,0 +1,1 @@
+ URL : "https://github.com/NatLibFi/bib-rdf-pipeline/issues/44" TITLE : comma in contributor name BODY : in origwork-00004-schema.nt, the translator name aho, oili, has an extra trailing comma.

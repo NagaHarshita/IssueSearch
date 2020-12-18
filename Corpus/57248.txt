@@ -1,0 +1,1 @@
+ URL : "https://github.com/Arquisoft/citizensLoader_i2a/issues/10" TITLE : prepare mapper classes BODY : prepare the user and citizen classes so they can be mapped to the db without troubles

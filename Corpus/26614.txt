@@ -1,0 +1,1 @@
+ URL : "https://github.com/whizzosoftware/WZWave/issues/20" TITLE : broken travis build BODY : see travis-ci/travis-ci 7884. oracle jdk7 isn't available in the latest image. there are two options: use the older image, trusty . use oracle jdk8.

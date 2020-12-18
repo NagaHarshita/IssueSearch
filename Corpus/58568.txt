@@ -1,0 +1,1 @@
+ URL : "https://github.com/luyadev/luya/issues/1563" TITLE : sortable plugin arrows BODY : when using the sortable plugin, the first down key should float right as well. this was already done in rc3 but i assume the css and html markup got lost in rc4

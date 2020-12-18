@@ -1,0 +1,1 @@
+ URL : "https://github.com/PRX/styleguide.prx.org/issues/68" TITLE : spinner overlay z-index BODY : looks like the spinner-overlay goes over the top of the affixed navbar. it should only do that when functioning in full-screen mode.

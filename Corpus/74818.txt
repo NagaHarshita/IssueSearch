@@ -1,0 +1,1 @@
+ URL : "https://github.com/firebase/firebase-arduino/issues/295" TITLE : firebase cause ota fails BODY : if the esp connects to firebase the free heap goes down and ota fail, i'm trying to delete the class firebase to free memory but crashes with exception 3 , any suggestion?, thanks.

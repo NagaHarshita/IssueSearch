@@ -1,0 +1,1 @@
+ URL : "https://github.com/tarsqi/ttk/issues/41" TITLE : add timeml format BODY : create converters from the ttk format to timeml both a version with makeinstance and without, the former so we can create input for tango . also check whether the timebank to ttk conversion in utilities/convert.py can deal with generic timeml.

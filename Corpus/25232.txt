@@ -1,0 +1,1 @@
+ URL : "https://github.com/simonster/Memoize.jl/issues/14" TITLE : way to clear cache BODY : for example, + let's say you need to do a few batches of jobs + the functions need to be cleared out after each batch

@@ -1,0 +1,1 @@
+ URL : "https://github.com/isteven/angular-multi-select/issues/520" TITLE : page up page down issue BODY : when we click on pageup ,it goes to next page but the data is not getting refreshed. can anybody help in this issue

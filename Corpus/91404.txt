@@ -1,0 +1,1 @@
+ URL : "https://github.com/DiCarloLab-Delft/PycQED_py3/issues/254" TITLE : timing grid visualization BODY : the compiler by xiang has some very nice timing grid features allowing better specification of latencies and timing. it would be very useful to visualize this while making the new restless sequences.

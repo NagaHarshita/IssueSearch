@@ -1,0 +1,1 @@
+ URL : "https://github.com/dhbw-timetable/dhbw-timetable-android/issues/58" TITLE : onboarding for daus BODY : if sb enters a crap or broken link in onboarding, the loading screen will we endless. lets check the link before we try to download timetables.

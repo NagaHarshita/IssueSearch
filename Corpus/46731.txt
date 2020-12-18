@@ -1,0 +1,1 @@
+ URL : "https://github.com/UofSSpaceTeam/robocluster-manger/issues/2" TITLE : monitor process state BODY : the process manager needs to be able to tell when a process is crashed, stuck in a loop, or operating normally, and decide what to do if abnormal behaviour is detected.

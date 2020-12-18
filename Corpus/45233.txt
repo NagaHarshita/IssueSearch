@@ -1,0 +1,1 @@
+ URL : "https://github.com/ircd-hybrid/hopm/issues/15" TITLE : hopm refuses to start BODY : 2017-03-04t15:15:27+0000 config -> /home/hopm/hopm/etc/hopm.conf , line 484: syntax error: scanner { this is the error code i'm having.. no clue why, since i didnt touch anything there.

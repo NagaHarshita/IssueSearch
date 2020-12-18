@@ -1,0 +1,6 @@
+ URL : "https://github.com/cmacaulay/folio-share/issues/38" TITLE : add profile page to user BODY : - update routes - update user controller - create view as a registered user, when i visit my home page
+there is a link to my profile page through my name
+when i click on it
+i am redirected to my profile page
+which displays all of my user info
+and links to the edit page

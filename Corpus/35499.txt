@@ -1,0 +1,1 @@
+ URL : "https://github.com/AdoptOpenJDK/openjdk-tests/issues/81" TITLE : enable arm64 testing BODY : i am currently sorting out a second arm64 machine for testing our arm builds... can we start the setup process for arm64 machines?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/PixelVision8/GameCreator/issues/52" TITLE : rename lib folder to libs BODY : rename the lib folder to libs so it's clearer that multiple scripts can live in there.

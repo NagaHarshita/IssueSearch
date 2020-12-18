@@ -1,0 +1,1 @@
+ URL : "https://github.com/mukeshsolanki/social-login-helper/issues/2" TITLE : problem in gradle sync BODY : as soon as i add compile 'com.github.mukeshsolanki:social-login-helper:1.0.2' in my build.gradle module:app and sync the gradle it throws the following error: error:failed to resolve: com.twitter.sdk.android:twitter:2.3.2

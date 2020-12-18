@@ -1,0 +1,1 @@
+ URL : "https://github.com/Anthony-Gaudino/jekyll-multiple-languages-plugin/issues/88" TITLE : error invalid hook BODY : when i put the plugin in _plugins i get this message. jekyll 3.0.0 | error: invalid hook. site supports only the following hooks :after_reset, :post_read, :pre_render, :post_write

@@ -1,0 +1,1 @@
+ URL : "https://github.com/alexdevero/alex-devero-website/issues/82" TITLE : typed text on homepage BODY : implement animated typed text for content–h1, h2 and h3–on homepage. plugin: http://www.mattboldt.com/demos/typed-js/ npm: https://www.npmjs.com/package/typed.js wiki: https://github.com/mattboldt/typed.js/

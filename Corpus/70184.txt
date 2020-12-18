@@ -1,0 +1,1 @@
+ URL : "https://github.com/butor/blackbird/issues/257" TITLE : use better json library BODY : https://github.com/nlohmann/json - more compatiable with c++

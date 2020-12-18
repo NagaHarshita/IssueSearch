@@ -1,0 +1,1 @@
+ URL : "https://github.com/boesemar/zonefile/issues/10" TITLE : invalid $origin record BODY : 1. $origin and $ttl records placed in wrong order - after soa - which make named fail to parse them properly. soa record should already have $origin applied. thus, they should be placed before soa. 2. $origin is not robust against . at the end of domain names.

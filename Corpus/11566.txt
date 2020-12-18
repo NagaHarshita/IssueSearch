@@ -1,0 +1,1 @@
+ URL : "https://github.com/Mermade/shins/issues/8" TITLE : icons are broken BODY : the icon font in shins is not loaded correctly ! image https://user-images.githubusercontent.com/2160676/28926285-3c6b67f8-785f-11e7-9fec-03878a9e3992.png i tried copying the font files into my pub folder but that yielded no results. any ideas? thanks

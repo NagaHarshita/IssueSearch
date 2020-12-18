@@ -1,0 +1,1 @@
+ URL : "https://github.com/tekjar/rumqttd/issues/10" TITLE : persistence layer ? BODY : hey, nice work. i just wanted to know if you have any plans to persist offline messages, like if i need to restart my broker, then also all pending message should not go away. if you have any plans, then i might work on that. what do you think?

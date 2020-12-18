@@ -1,0 +1,1 @@
+ URL : "https://github.com/mridgers/clink/issues/457" TITLE : multiple window history BODY : it seems like history is currently only tracked for a single window - if i have multiple command windows open, only one of them will have its command history stored. i would like all command windows to have a shared command history

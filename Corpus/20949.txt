@@ -1,0 +1,1 @@
+ URL : "https://github.com/votca/xtp/issues/35" TITLE : dftengine in xqmmm BODY : xqmmm uses qmmachine, which is templated to qmpackage. to use our dftengine, we could register it as a qmpackage with dummy implementations, e.g. for parselogfile and the like. better options?

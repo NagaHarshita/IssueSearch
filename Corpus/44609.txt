@@ -1,0 +1,1 @@
+ URL : "https://github.com/joshuawhite929/spmia_feedback/issues/131" TITLE : figure 7.3 - fix path BODY : in the description for figure 7.3 you have the following text: > figure 7.3 passing in http form parameters to the /oauth/token endpoint the path should be: /auth/oauth/token

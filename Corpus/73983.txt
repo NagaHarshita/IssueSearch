@@ -1,0 +1,1 @@
+ URL : "https://github.com/Islandora-CLAW/CLAW/issues/630" TITLE : do we delete tombstones? BODY : do we allow a way to delete tombstones from fedora? this may not be a linked data best practice, but it may still be needed by some use cases? should this be a configuration in drupal, or maybe in milliner to make it harder to switch?

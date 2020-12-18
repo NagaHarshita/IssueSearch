@@ -1,0 +1,1 @@
+ URL : "https://github.com/webdriverio/wdio-junit-reporter/issues/74" TITLE : log to junit file BODY : is there a way to log to the junit file? it seems like something that would be really useful but i can't find any docs

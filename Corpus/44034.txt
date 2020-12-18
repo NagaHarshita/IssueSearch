@@ -1,0 +1,1 @@
+ URL : "https://github.com/vakata/jstree/issues/1711" TITLE : drag and drop problem BODY : i can't drop the node that does't have any child before the tree first node.

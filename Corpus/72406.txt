@@ -1,0 +1,1 @@
+ URL : "https://github.com/clab/dynet/issues/614" TITLE : bugs in function average BODY : hi, i am trying to use function average , but it seems something wrong with it, my input is a list of expression which shape remains the same. c++ version ~ thanks ,neubig~

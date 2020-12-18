@@ -1,0 +1,1 @@
+ URL : "https://github.com/ima-hima/PCG/issues/17" TITLE : nexus validation failure BODY : data character blocks begin data may be aligned. check on data blocks to see if they have nchar specified, in which case they are aligned.

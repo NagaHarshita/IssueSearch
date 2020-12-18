@@ -1,0 +1,1 @@
+ URL : "https://github.com/nikic/FastRoute/issues/149" TITLE : markbased not working BODY : for me the markbased is not working. im using php 5.6.30, macos sierra i got this error: warning: invalid argument supplied for foreach in /users/nico/sites/vendor/nikic/fast-route/src/dispatcher/markbased.php on line 20

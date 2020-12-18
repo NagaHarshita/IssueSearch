@@ -1,0 +1,1 @@
+ URL : "https://github.com/chris1234a/robot_ws/issues/5" TITLE : lcm and sudo and gpio BODY : see main culprit ultrasonic_driver.py . gpio can't do without sudo but lcmchannels aren't found unless python path is modified!

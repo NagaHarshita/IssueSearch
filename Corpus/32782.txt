@@ -1,0 +1,1 @@
+ URL : "https://github.com/geomoose/gm3/issues/235" TITLE : windows kml uploads BODY : uploading the following kml works fine on linux with firefox and chrome but fails on windows with ie and chrome. geomoose_1507742656590.kml.gz https://github.com/geomoose/gm3/files/1376603/geomoose_1507742656590.kml.gz

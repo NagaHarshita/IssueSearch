@@ -1,0 +1,1 @@
+ URL : "https://github.com/jamesmcroft/XPlat-API-Toolkit/issues/8" TITLE : api - geolocator BODY : this covers the development of a geolocator cross-platform api for android, ios and uwp. this will be used to manage the gps location of devices.

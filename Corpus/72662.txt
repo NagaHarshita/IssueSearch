@@ -1,0 +1,1 @@
+ URL : "https://github.com/omeka/omeka-s/issues/944" TITLE : cannot edit media values BODY : i uploaded a file for media, and gave it a title. when i go to edit that media to delete the title, the title still sticks. that's both deleting the text from the input, and clicking the trash icon.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/dji-sdk/Mobile-SDK-Android/issues/174" TITLE : sdk registration failed. BODY : when i follow the guide to create the dji sdk sample app,it display that sdk registration failed. please check the bundle id and your network connectivity .how to resolve this problem? thanks!

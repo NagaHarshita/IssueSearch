@@ -1,0 +1,1 @@
+ URL : "https://github.com/Bilibili/ijkplayer/issues/3585" TITLE : android rtmps support? BODY : 1.compile openssl. 2.modify /config/module-lite.sh export common_ff_cfg_flags= $common_ff_cfg_flags --enable-protocol=librtmp but it still doesn't play,what other operations are needed?

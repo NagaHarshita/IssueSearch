@@ -1,0 +1,1 @@
+ URL : "https://github.com/liblouis/liblouis-js/issues/35" TITLE : usage with webpack BODY : webpack automatically embeds require liblouis-build calls that only should be evaluated in nodejs environments. current workaround is adding the following to your webpack configuration: js externals: { 'liblouis-build': 'commonjs liblouis-build'}

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ocornut/imgui/issues/1166" TITLE : lost window focus BODY : hi, i'm not sure this is an issue with imgui itself, when i open the system file dialog to load or save a file, it looks like i also loose the focus and the drag events stop working. to fix it i need to click on another window and back on the main app or alt+tab. is this a known issue?

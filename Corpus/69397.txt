@@ -1,0 +1,1 @@
+ URL : "https://github.com/SWE-4103-Group-3/Project/issues/75" TITLE : take attendance backend BODY : issue description this issue involves the creation of the backend for taking attendance. tasks - create absence entity & add lists in user and course - controller method for rest endpoint screenshots and documentation

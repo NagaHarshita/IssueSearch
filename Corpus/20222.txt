@@ -1,0 +1,1 @@
+ URL : "https://github.com/8p/EightPointsGuzzleBundle/issues/136" TITLE : bundle path change BODY : docs says the path to add the bundle should be eightpoints\bundle\guzzlebundle\eightpointsguzzlebundle but using version 6.1 that bundle does not exists under that location but eightpoints\bundle\guzzlebundle\guzzlebundle . thanks for this bundle :+1:

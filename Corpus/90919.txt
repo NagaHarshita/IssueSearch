@@ -1,0 +1,1 @@
+ URL : "https://github.com/stoplightio/prism/issues/17" TITLE : support 302 response code BODY : 302 response codes are often used to indicate browser redirection as part of oauth flows. prism should support automatically using the location response header to create a new request and follow the redirect , as a browser would.

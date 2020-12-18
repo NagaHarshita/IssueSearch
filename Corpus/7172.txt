@@ -1,0 +1,1 @@
+ URL : "https://github.com/PaddlePaddle/Paddle/issues/5861" TITLE : dynamic rnn api BODY : currently, we only have while_op , lod_tensor_to_array_op and array_to_lod_tensor_op . it's too hard for users to build a complete dynamic rnn with these basic components. so we need to warp them together in python as a new api.

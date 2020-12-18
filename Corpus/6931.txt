@@ -1,0 +1,1 @@
+ URL : "https://github.com/redpelicans/sdmx-faceted-search-ui/issues/20" TITLE : client > params BODY : review params setup : cannot use server config system due to: 1/ require with expression and webpack 2/ lack of node_env => use simple params.js

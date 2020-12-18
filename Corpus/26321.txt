@@ -1,0 +1,1 @@
+ URL : "https://github.com/deepchem/deepchem/issues/771" TITLE : ani-1 benchmark set BODY : https://arxiv.org/abs/1708.04987 the ani-1 benchmark w/ 20 million conformers has been released. we should integrate this into moleculenet. cc @miaecle

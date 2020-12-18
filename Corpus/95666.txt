@@ -1,0 +1,1 @@
+ URL : "https://github.com/blackhole12/sweetiebot/issues/44" TITLE : detect scheduled unsilence BODY : if using !silence on a user who is already silenced but is scheduled to be unsilenced, return the amount of time until they are unsilenced.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mahyarnajibi/fast-rcnn-torch/issues/13" TITLE : proposals file not found BODY : hi, when i run ./scripts/get_proposals.sh i get an error 404: not found. it looks like the link https://people.eecs.berkeley.edu/~rbg/fast-rcnn-data/selective_search_data.tgz is dead. is there any other source?

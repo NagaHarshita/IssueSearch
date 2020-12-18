@@ -1,0 +1,1 @@
+ URL : "https://github.com/gophish/gophish/issues/819" TITLE : landing page not working BODY : hello everyone, i have a problem with landing page, because landing page works if gophsih is local but if i move it to a server, it doesn't work anymore. i changed the ip in config. json... thank you in advance for your help. i have version 0.4.

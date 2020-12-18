@@ -1,0 +1,1 @@
+ URL : "https://github.com/Blastitt/twitControl/issues/7" TITLE : twitter stream stops BODY : the module is loading correctly, but after a while it just stops refreshing the stream until i restart mm. is there any possibility to reconnect, or at least reload the module instead of the whole mm?

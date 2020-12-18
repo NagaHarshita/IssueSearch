@@ -1,0 +1,1 @@
+ URL : "https://github.com/coala/devops/issues/3" TITLE : add coala and ci BODY : coala is needed to test if the config files are using the proper guidelines and ci is needed to enforce coala.

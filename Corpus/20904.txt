@@ -1,0 +1,1 @@
+ URL : "https://github.com/stefangabos/Zebra_Tooltips/issues/10" TITLE : demos are outdated BODY : in the latest version you need to pass the element parameter on the .show function. if not, you receive a jquery error. on the demos this is not shown.

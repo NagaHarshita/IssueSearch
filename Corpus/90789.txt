@@ -1,0 +1,1 @@
+ URL : "https://github.com/peters/xps2img/issues/8" TITLE : stopped working on azure? BODY : as title say i think this has stopped working in azure web apps since somewhere around 2017-11-10? can anyone confirm? it did work before now i just get a transparent/blank image with png.

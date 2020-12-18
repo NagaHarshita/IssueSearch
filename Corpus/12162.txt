@@ -1,0 +1,1 @@
+ URL : "https://github.com/JackPu/vue2.x-core-image-upload/issues/6" TITLE : need name option BODY : > vue warn : unknown custom element: <vuecoreimageupload> - did you register the component correctly? for recursive components, make sure to provide the name option. i can not find the name option in the component file. it cause the error above. please solve it.

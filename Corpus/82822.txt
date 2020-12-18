@@ -1,0 +1,1 @@
+ URL : "https://github.com/Zulko/moviepy/issues/672" TITLE : audio in mp4 dont changes BODY : import imageio imageio.plugins.ffmpeg.download from moviepy.editor import audio = audiofileclip ibscene1.mp3 .subclip 0,41 video = videofileclip 321.mp4 https://zulko.github.io/moviepy/getting_started/audioclips.html from here in video nothing changes, 0 errors.

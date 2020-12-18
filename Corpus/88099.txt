@@ -1,0 +1,1 @@
+ URL : "https://github.com/celestian/zonkylla/issues/106" TITLE : model's attributes naming BODY : recently, we use database camel case naming as our naming of model's attributes. it could be nice to follow our naming schema name_of_value .

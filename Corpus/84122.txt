@@ -1,0 +1,1 @@
+ URL : "https://github.com/RoverPlatform/rover-android/issues/130" TITLE : crash on links to nowhere BODY : in a block, if you have action: open external url, and then the url is set to none, the android sdk will crash the host app 1.12.3

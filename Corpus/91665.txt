@@ -1,0 +1,1 @@
+ URL : "https://github.com/jlord/patchwork/issues/22401" TITLE : unattended merge requests BODY : my merge request https://github.com/jlord/patchwork/pull/22393 has not been processed by reporobot for 5+ hours, there's also a similar one that's been like this for 4 days https://github.com/jlord/patchwork/pull/21845. any clue what's wrong? @jlord

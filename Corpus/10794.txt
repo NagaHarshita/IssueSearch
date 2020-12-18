@@ -1,0 +1,1 @@
+ URL : "https://github.com/tidyverse/purrr/issues/383" TITLE : detect predicate BODY : parameterise detect with a predicate: r detect <- function .x, .f, ..., .right = false, .p = is_true { for i in index .x, .right { if .p .f .x i , ... { return .x i } } null } useful for detecting non-null values for instance.

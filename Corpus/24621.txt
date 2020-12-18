@@ -1,0 +1,1 @@
+ URL : "https://github.com/FearlessHornet/TokenTagger/issues/4" TITLE : tag panel ghosting BODY : tag panel does not clear old tag buttons, rather overwriting them; this is leading to tag name ghosting.

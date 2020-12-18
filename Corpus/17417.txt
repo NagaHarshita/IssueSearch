@@ -1,0 +1,1 @@
+ URL : "https://github.com/PathwayCommons/app-ui/issues/246" TITLE : pc service part 2 BODY : - remove src/client/pathway-commons - rewrite querysearch, datasources functions with the local functions in server/pathway-commons

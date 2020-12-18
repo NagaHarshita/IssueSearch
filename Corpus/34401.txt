@@ -1,0 +1,1 @@
+ URL : "https://github.com/grappa-python/grappa/issues/10" TITLE : chained state values BODY : python obj | should.have.key 'foo' .which.should.be.equal.to 'foo'

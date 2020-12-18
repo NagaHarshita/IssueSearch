@@ -1,0 +1,1 @@
+ URL : "https://github.com/vector-im/riot-ios/issues/1323" TITLE : member page: empty items BODY : to reproduce: 1. open a member details page by hitting an avatar in a room empty items. ! empty items in details page https://user-images.githubusercontent.com/22364949/27324669-3572b4fa-55a6-11e7-95a0-0d2066ee869b.png

@@ -1,0 +1,1 @@
+ URL : "https://github.com/AugustinMortier/prosncons/issues/1" TITLE : to do list BODY : - limit length of coms 25 - bug fix: second com posted twice once jquery function - export database to import locally on other dev machines - expand post when click on title - scroll in coms section

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Dynalon/mdwiki/issues/319" TITLE : mathjax parsing problem BODY : the following latex string doesn't show up at all when using mathjax gimmick: math : $$ h_j = \sum_i{w_{ij}x_i} $$

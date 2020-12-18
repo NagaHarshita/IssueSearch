@@ -1,0 +1,1 @@
+ URL : "https://github.com/americansystems/serverless-es6-jest/issues/4" TITLE : how to run locally? BODY : yeah, i want to run a function locally while developing i.e. serverless invoke local --function somefunction --path tests/event.json but its not using babel to compile the hander.js? did you get this going?

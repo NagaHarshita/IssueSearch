@@ -1,0 +1,1 @@
+ URL : "https://github.com/jupyter/docker-stacks/issues/478" TITLE : use conda-forge's tini BODY : we package tini at conda-forge now. maybe it would make sense to have it used here. though we would probably want to pin it so that it doesn't get updated by conda while the container is running. thoughts?

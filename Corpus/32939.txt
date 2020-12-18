@@ -1,0 +1,1 @@
+ URL : "https://github.com/chuparCh0pper/PoGoIV_xposed/issues/33" TITLE : 0.59.1 breaks module BODY : the newest update of pogo 0.59.1 completely breaks the module. it no longer pops up when you encounter a wild pokemon and doesn't say whether or not the catch is a success or not.

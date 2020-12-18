@@ -1,0 +1,1 @@
+ URL : "https://github.com/dgraph-io/benchmarks/issues/5" TITLE : test code is outdated BODY : within benchmarks/data/neo4j/query_test.go, import github.com/dgraph-io/dgraph/query/graph is obsolete.

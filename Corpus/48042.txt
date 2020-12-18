@@ -1,0 +1,1 @@
+ URL : "https://github.com/edeeba13/final_prg_lake_IDW/issues/2" TITLE : refine idw parameters BODY : @edeeba13 i think you can run idw by just using: outidw = idw inpointfeatures, zfield you can either do this or refine the parameters that you have for: - cellsize - power - searchradius

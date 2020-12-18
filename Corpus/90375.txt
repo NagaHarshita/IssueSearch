@@ -1,0 +1,1 @@
+ URL : "https://github.com/sayyam/carouselview/issues/72" TITLE : set off screen page limit BODY : is there a way to set the off screen page limit? it seems like access to it is private. setdata uses the page count to set the off screen page limit. this is a problem when loading a lot of high res images. containerviewpager.setoffscreenpagelimit getpagecount ;

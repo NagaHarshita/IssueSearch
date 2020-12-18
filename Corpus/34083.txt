@@ -1,0 +1,1 @@
+ URL : "https://github.com/smeighan/xLights/issues/908" TITLE : bug on spiral effect BODY : i am using 2017.14 ..... when i am doing a spiral effect it is fine with 4 or 6 colors but when i try to use 5 colors it also adds a black line so it looks like a gap in it. i find it in either 270 or 360 view. dave

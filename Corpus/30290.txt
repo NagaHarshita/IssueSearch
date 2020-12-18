@@ -1,0 +1,1 @@
+ URL : "https://github.com/diegosep/spring-serial-port-connector/issues/1" TITLE : other config params BODY : is it possible to configure other parameters than portname and baudrate? e.g. data bits, stop bits and partity. thank you!

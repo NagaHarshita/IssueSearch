@@ -1,0 +1,1 @@
+ URL : "https://github.com/mapic/mapic.js/issues/32" TITLE : layermenu dragging bug BODY : difficult to debug, but dragging on layermenu propagates to map.

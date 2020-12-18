@@ -1,0 +1,1 @@
+ URL : "https://github.com/DanielYKPan/date-time-picker/issues/147" TITLE : display issues in ie10 BODY : the component currently does not work in ie10, because of the use of the hidden attribute. it looks like this could probably be fixed by replacing it with ngif

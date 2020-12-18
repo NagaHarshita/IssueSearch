@@ -1,0 +1,1 @@
+ URL : "https://github.com/icsharpcode/SharpDevelop/issues/803" TITLE : support for dotnet 4.6 BODY : hi, in this pr, i have added support to compile binaries for dotnet 4.6. and i have added another prs solving some exceptions. https://github.com/icsharpcode/sharpdevelop/pull/796

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ergonomica/ergonomica/issues/42" TITLE : formalize error handling BODY : right now, many commands simply print out ergo: exceptionname : .... instead of _actually raising_ an ergonomicaerror. some even print that to stdout ! as a result, handling such errors is inconsistent.

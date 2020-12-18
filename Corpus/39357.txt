@@ -1,0 +1,1 @@
+ URL : "https://github.com/nicho92/mkm-api-java/issues/1" TITLE : search error on 's d BODY : authentication error for card that contains name ' 's d ' ex : gideon's d -> ok gideon's defe -> ko gideon's rep -> ok

@@ -1,0 +1,1 @@
+ URL : "https://github.com/nextgenusfs/funannotate/issues/106" TITLE : specifying eggnog db BODY : reading the faq about running funannotate on other organisms, one of the things i've noticed is that i should specify --eggnog_db . i downloaded the relevant database using funannotate eggnog , but how do i specify which db to use, and at which step?

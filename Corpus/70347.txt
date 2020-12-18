@@ -1,0 +1,1 @@
+ URL : "https://github.com/mreishman/Log-Hog/issues/9" TITLE : var check local -> core BODY : add a check if key is set before getting var, then resulting to default if not there. this would either not need to be changed, if user keeps with default value or will be saved in the new file if the user customized the values in the settings page

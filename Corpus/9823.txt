@@ -1,0 +1,1 @@
+ URL : "https://github.com/seanoneillcode/enda/issues/2" TITLE : add jester piece BODY : jester can move randomly or one step forward. doesnt' have full range like a king, just one step forward. the random steps are generated after each move it makes.

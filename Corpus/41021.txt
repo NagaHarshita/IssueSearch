@@ -1,0 +1,1 @@
+ URL : "https://github.com/lgarattoni/argos3-epuck/issues/9" TITLE : when cross compiling BODY : arm-unknown-linux-gnueabi/bin/ld: cannot find -largos3core_epuck because of the removal of the link command in the cmake file

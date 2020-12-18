@@ -1,0 +1,1 @@
+ URL : "https://github.com/mapbox/mapnik-vector-tile/issues/260" TITLE : 0.6.x polygon clip error BODY : when clip polygon geometry to vt is error with boundary, i convert vt to geojson, like this: ! 2017-11-28 16 00 45 https://user-images.githubusercontent.com/2647388/33308478-90b1193c-d455-11e7-883c-eb5015114f75.png but clip polyline geometry is ok.

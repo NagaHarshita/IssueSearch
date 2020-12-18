@@ -1,0 +1,1 @@
+ URL : "https://github.com/lsst-camera-visualization/frontend/issues/167" TITLE : rename hw regions BODY : remove the hyphens: pre-scan --> prescan post-scan --> postscan so that they are the same as overscan .

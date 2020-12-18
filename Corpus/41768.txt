@@ -1,0 +1,1 @@
+ URL : "https://github.com/svkucheryavski/mdaweb/issues/2" TITLE : add help modal dialog BODY : when user hits h a modal dialog with short help message should be shown. the dialog tells about mouse gestures and keyboard shortcuts user can use with the app. implement the same for all applications.

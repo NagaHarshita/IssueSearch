@@ -1,0 +1,1 @@
+ URL : "https://github.com/AlexMog/FFS-Api/issues/6" TITLE : gitlab link - readme BODY : there is still a link leading to the private gitlab project in the readme : git clone https://gitlab.com/alexmog/apilib.git would be great to update the readme of the ffs-pubsub project too

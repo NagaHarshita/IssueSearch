@@ -1,0 +1,1 @@
+ URL : "https://github.com/magento-engcom/php-7.2-support/issues/7" TITLE : fix usage of count BODY : warning on php 7.2: warning: count : parameter must be an array or an object that implements countable . usually, it's due to null being passed as an argument. review existing use cases and add not null validation or fix in another appropriate way, so the warning disappears.

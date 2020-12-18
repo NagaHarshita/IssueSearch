@@ -1,0 +1,1 @@
+ URL : "https://github.com/saylordotorg/moodle-theme_saylor/issues/14" TITLE : change catalog header link BODY : can we change the catalog header item in the menu to a relative link? /course/index.php?categoryid=2 it messes the link up on our dev sites. @neonacorns

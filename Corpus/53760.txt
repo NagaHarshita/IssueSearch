@@ -1,0 +1,1 @@
+ URL : "https://github.com/rebel1324/CityRP/issues/1" TITLE : error when physgunning BODY : this error pops up whenever i physgun a prop or entity error gamemodes/halorp/schema/sh_hooks.lua:197: attempt to call method 'cppigetowner' a nil value 1. unknown - gamemodes/halorp/schema/sh_hooks.lua:197 2. unknown - gamemodes/nutscript/gamemode/core/libs/sh_plugin.lua:420

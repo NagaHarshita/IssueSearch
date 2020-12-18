@@ -1,0 +1,1 @@
+ URL : "https://github.com/sachinkamath/fakemenot/issues/16" TITLE : enhance string matching BODY : the current method is a handmade algorithm which is not very efficient. a levenshtein distance based algo will be good to have.

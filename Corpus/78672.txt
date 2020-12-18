@@ -1,0 +1,1 @@
+ URL : "https://github.com/carlpeaslee/tictacturing-instructional/issues/1" TITLE : react-router not working BODY : failed to compile ./src/index.js module not found: can't resolve 'react-router' in '/users/anishmaharjan/projects/tictacturing/src' when i execute: yarn add react-router@3.0.2 , react-router doesn't show up in package.json and shows the above error

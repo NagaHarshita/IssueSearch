@@ -1,0 +1,1 @@
+ URL : "https://github.com/Jigoku/starphase/issues/13" TITLE : disruptor enemy type BODY : add an enemy type which flies in to view near the player, slows to a halt and triggers a bubble weapon which periodically stays/floats in the vicinity. the effect would slow down the players movement whilst colliding with the bubble.

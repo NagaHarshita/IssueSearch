@@ -1,0 +1,1 @@
+ URL : "https://github.com/rgoliveira/AwesomeBot/issues/53" TITLE : write some tests BODY : ok, so now that we have an initial setup for tests 40 and 46 , we should expand the coverage to at least one test per module. let's do it! note: this will probably be easier if modules are refactored to decouple logic from calls to discord.js insert checklist with modules here

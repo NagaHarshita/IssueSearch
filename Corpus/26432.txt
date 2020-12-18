@@ -1,0 +1,1 @@
+ URL : "https://github.com/bundlewrap/bundlewrap/issues/332" TITLE : autolock by branch? BODY : -add an option to automatically lock all applied changes bw apply --lock -autolock if not applying from master? this will increase the acceptance of the lock-feature

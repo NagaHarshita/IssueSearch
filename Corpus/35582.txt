@@ -1,0 +1,1 @@
+ URL : "https://github.com/thekordy/ticketit/issues/332" TITLE : error on instalation BODY : errorexception file_get_contents /var/www/app/.env : failed to open stream: no such file o r directory

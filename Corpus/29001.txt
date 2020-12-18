@@ -1,0 +1,1 @@
+ URL : "https://github.com/alexwforsythe/code-blocks/issues/42" TITLE : indentation for cpp BODY : i have a block of cpp code that i'm trying to format with code blocks. when i format it, the color/font changes apply, but with no indentation. not sure if this functionality hasn't been added yet or if i'm doing something wrong.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/GaloisInc/avro/issues/8" TITLE : why use entropy BODY : hi @tommd, just a question. i see that you use entropy package for generating the 16-byte, randomly-generated sync marker . can you explain why entropy and why standard random cannot be used?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/stm32duino/Arduino_Core_STM32F4/issues/8" TITLE : servo pulse range error BODY : pulse range is not good => 254 - 850us. should be 500 - 1700us.

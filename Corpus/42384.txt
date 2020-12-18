@@ -1,0 +1,1 @@
+ URL : "https://github.com/alexa-js/alexa-app/issues/290" TITLE : avs to one skill only BODY : not sure if this is the right place, but one of the skills i am making using this i want to integrate into an existing ios\android app. the problem is i just want that skill to work nothing else. is that possible?

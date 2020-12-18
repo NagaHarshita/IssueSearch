@@ -1,0 +1,1 @@
+ URL : "https://github.com/libgdx/ashley/issues/261" TITLE : bug in bag class BODY : it looks like there is a small bug in the bag class? final bag<string> bag = new bag<> ; bag.set 7, seven ; bag.set 2, two ; bag.set 1, one ; bag.add eight ; //adding this will replace two at index 2, but should be at index 8? btw, its been over a year without updates, is this project dead? :

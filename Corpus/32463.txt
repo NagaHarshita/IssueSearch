@@ -1,0 +1,1 @@
+ URL : "https://github.com/AttilaTheFun/SwaggerParser/issues/16" TITLE : use of structure<t> BODY : is there any reason that not all top level spec properties use structure\<t\>, for example: - let securitydefinitions: string : securityschema - let paths: string : path

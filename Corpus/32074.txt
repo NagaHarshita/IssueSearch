@@ -1,0 +1,1 @@
+ URL : "https://github.com/ethereumproject/go-ethereum/issues/447" TITLE : too many open files BODY : i1229 13:41:21.882670 server.go:2753 http: accept error: accept tcp :: :8545: accept4: too many open files; retrying in 1s just started getting these errors, plus node consumes 100% cpu. restart doesn't help. version: 4.1.2

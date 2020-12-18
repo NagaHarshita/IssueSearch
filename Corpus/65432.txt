@@ -1,0 +1,1 @@
+ URL : "https://github.com/functional-php/fantasy-land/issues/5" TITLE : integration with travis BODY : this should include - unit tests - code style checker - php linter

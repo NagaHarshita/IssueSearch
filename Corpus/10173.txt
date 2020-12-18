@@ -1,0 +1,1 @@
+ URL : "https://github.com/PanDAWMS/panda-harvester/issues/28" TITLE : batchid in panda BODY : i've noticed that jobs running on theta with harvester have no batchid set in panda: http://bigpanda.cern.ch/job?pandaid=3581607614 can we fix this?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/dnadesign/silverstripe-elemental/issues/83" TITLE : add graphql endpoints BODY : as discussed with john, it would be very useful for elemental to have some graphql endpoints in the ss4 upgrade. having these in place would make it easier to adapt the cms interface, and give us more flexibility on how the frontend is rendered.

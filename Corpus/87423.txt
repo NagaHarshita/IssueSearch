@@ -1,0 +1,1 @@
+ URL : "https://github.com/termux/termux-packages/issues/1259" TITLE : lftp execl /bin/sh failed BODY : when connecting with ssh sftp , it is not possible to run command, due to /bin/sh failed ~~~~ lftp sftp://xxx@yyyy lftp xxx@yyyyyy:~> ls ls' at 0 execl /bin/sh failed: no such file or directory ~~~~

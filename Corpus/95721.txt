@@ -1,0 +1,1 @@
+ URL : "https://github.com/postgraphql/postgraphql/issues/577" TITLE : disable auto camel casing? BODY : i have a postgres column created_at , but postgraphql is auto-converting it to createdat . because this is a legacy application, i need the column to remain in the created_at format. is there a way to tell postgraphql to leave the column names as-is?

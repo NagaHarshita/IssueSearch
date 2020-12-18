@@ -1,0 +1,1 @@
+ URL : "https://github.com/rust-num/num-rational/issues/9" TITLE : update to serde 1.0 BODY : see rust-num/num 281, and this was previously in the next branch after rust-num/num 305.

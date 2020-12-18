@@ -1,0 +1,1 @@
+ URL : "https://github.com/apache-spark-on-k8s/spark/issues/155" TITLE : unit test flakes BODY : from https://github.com/apache-spark-on-k8s/spark/issues/110 issuecomment-282160938 this issue tracks excluding flakes from the travis build so that we can get clear signals from ci cc @kimoonkim

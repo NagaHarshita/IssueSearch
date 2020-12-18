@@ -1,0 +1,1 @@
+ URL : "https://github.com/marcos-sb/distributed-banking-system/issues/1" TITLE : missing sql resources BODY : the readme suggests that one sets up this project by using sql scripts in the resources folders of consortium and bank. however, neither has the appropriate sql ddl files. i see that they're in the pdf manual, so forks have some means of replicating the original setup.

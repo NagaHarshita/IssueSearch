@@ -1,0 +1,1 @@
+ URL : "https://github.com/rncbc/qjackctl/issues/24" TITLE : question configure step BODY : hi rui, i've just seen that there is a line jack version support jack2 which is set to no in my configure step. questions: what is it aimed for? what if i build a qjackctl with that option turned on, but using jack1 at qjackctl runtime? thanks.

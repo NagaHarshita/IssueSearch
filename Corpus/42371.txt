@@ -1,0 +1,1 @@
+ URL : "https://github.com/chaosbot/Chaos/issues/483" TITLE : automatic git reverts BODY : it seems lately chaosbot has been reverting a lot of commits due to the automatic rollback feature enabled. determining when this happens is not easy. can we get a better message like an issue opened indicating a revert took place?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/markbates/pop/issues/170" TITLE : add upsert functionality? BODY : it would be very useful to be able to have this generate sql for upserts. conflict resolution might be tricky, though.

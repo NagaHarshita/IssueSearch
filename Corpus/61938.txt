@@ -1,0 +1,1 @@
+ URL : "https://github.com/junichi11/cakephp-netbeans/issues/140" TITLE : cakephp run not working BODY : i'm using ubuntu 16.04, have installed following: netbeans: 8.1 also have added plugin for cakephp but when i right-click on my project folder and select cakephp->run command, its says <there is no command available perhaps error? > kindly assist

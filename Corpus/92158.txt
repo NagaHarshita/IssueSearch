@@ -1,0 +1,1 @@
+ URL : "https://github.com/vector-im/riot-android/issues/1818" TITLE : video calls don't connect BODY : riot might say connecting but displays just black screen or just constant calling despite receiver accepting the incoming call . it doesn't matter if i'm the caller or if i try to receive a video call.

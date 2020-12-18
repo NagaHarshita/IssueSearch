@@ -1,0 +1,1 @@
+ URL : "https://github.com/ServiceStack/Issues/issues/559" TITLE : discontinue silverlight 5 BODY : it's pretty evident that silverlight is pretty much dead nowadays, with most major browsers not even supporting it anymore. there's a lot of sl5 code on servicestack that should be cut out to reduce bloat.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/rdevooght/sequence-based-recommendations/issues/4" TITLE : about running time BODY : hi, i use movielens-1m and rnn method i run it 3 days, but it just open file 3500 and doesn't get any result. i want to know how long the time it will take to train? and how long the time if we use clusters? thanks!

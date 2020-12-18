@@ -1,0 +1,1 @@
+ URL : "https://github.com/audiojs/web-audio-write/issues/3" TITLE : check buffer validity BODY : writing buffer with nans to destination crashes chrome web-audio. integrity check is o n , not very expensive, can be set as an option.

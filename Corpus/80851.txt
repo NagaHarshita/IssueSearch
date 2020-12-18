@@ -1,0 +1,1 @@
+ URL : "https://github.com/jjm3x3/whisky/issues/2" TITLE : use '?' more aggresively BODY : after a brief review with some folks. i have decided it would make for cleaner code to use the ? operator which would require that more things return a result<t, error> type

@@ -1,0 +1,1 @@
+ URL : "https://github.com/gitpoint/git-point/issues/32" TITLE : app store device compat BODY : at the moment the phone app is available in the appstore also for ipad. as the app on ipad is only a scaled up version of the phone version at the time of writing the app should instead define that its only compatible for iphone not ipad

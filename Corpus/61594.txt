@@ -1,0 +1,1 @@
+ URL : "https://github.com/JasonMFry/Flask-Mega-Tutorial-With-OAuth/issues/4" TITLE : being your own follower BODY : part viii of the mega tutorial has you making a user follow themselves when they login. grinberg adds this code under the @oid.after_login hook, but we're using oauth instead of oid. the code needs to be added, instead, in @app.route '/callback/<provider>'

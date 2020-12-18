@@ -1,0 +1,1 @@
+ URL : "https://github.com/PennockTech/smtpdane/issues/1" TITLE : mis-parsing ocsp status BODY : the golang ocsp lib uses responseerror in constructed responses and the ocsp status parsing we're doing is assuming those codes .trylater etc instead of the in-response status values .revoked etc .

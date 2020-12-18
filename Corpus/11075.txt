@@ -1,0 +1,2 @@
+ URL : "https://github.com/openMF/android-client/issues/601" TITLE : feature add note BODY : summary: there is no feature to add notes for clients and groups .
+we can add + button in the toolbar of notefragment, which will show a popup to add a new note for he corresponding client/group. api: https://demo.openmf.org/api-docs/apilive.htm notes

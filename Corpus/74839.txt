@@ -1,0 +1,1 @@
+ URL : "https://github.com/JPDSousa/mongo-obj-framework/issues/64" TITLE : fix collectionutils test BODY : collectionutils is not being properly tested.

@@ -1,0 +1,6 @@
+ URL : "https://github.com/w3c/wai-policies-prototype/issues/196" TITLE : new entry for freedonia BODY : new entry for freedonia submitted by rufus t. firefly mailto:hkramer@atsol.us : > this means war! ~~~yaml
+---
+country: en: freedonia manual enter other country names: updated: 2017-05-11
+updatemsg: related page:
+province: policies: - title: en: freedonia accessibility act url: www.faa-freedonia.fre updated: 1802 wcagver: wcag 2.0, enactdate: 1802 type: non-discrimination law, ministries: - title: department of war url: http://www.faadow.com webonly: false scope: standard: - title: desc: url: - title: desc: url: documents: - title: desc: url: ---
+~~~

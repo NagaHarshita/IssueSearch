@@ -1,0 +1,1 @@
+ URL : "https://github.com/adrianabm/bake-co-menu/issues/11" TITLE : solve load samples button BODY : when you load samples, the inventory item input that was modified won't update also, the order is reset to 0 - so if a order is placed and the item is reload, the order will go away

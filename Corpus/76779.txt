@@ -1,0 +1,1 @@
+ URL : "https://github.com/perl6/whateverable/issues/174" TITLE : make builds downloadable BODY : for example, see https://github.com/perl6/doc/issues/1384. this can also be useful for local bisecting.

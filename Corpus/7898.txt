@@ -1,0 +1,1 @@
+ URL : "https://github.com/sparkfun/SparkFun_Phant_Particle_Library/issues/1" TITLE : license - gplv3 BODY : it makes sense that the phant server itself is gpl, but is it necessary for this library to be? for what could almost be considered a shim library, i think that gpl's copyleft might be a bit aggressive in this case.. any thoughts?

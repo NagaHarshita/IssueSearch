@@ -1,0 +1,1 @@
+ URL : "https://github.com/jasonacox/Build-OpenSSL-cURL/issues/20" TITLE : send https request failed BODY : curlcode is curle_ssl_cacert, ca peer auth failed

@@ -1,0 +1,1 @@
+ URL : "https://github.com/anqi-lu/TMDB-keywords/issues/10" TITLE : zoom by brushing BODY : implement zoom by brushing for the line chart. it will appear under the line chart and it can zoom in the lines for any selected year intervals. similar to curran's stream graph explorer - https://unhcr.github.io/dataviz-streamgraph-explorer/ types=1-2-3-4-5-6-7

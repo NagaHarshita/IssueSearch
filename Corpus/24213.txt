@@ -1,0 +1,1 @@
+ URL : "https://github.com/rafasantos/difffilter/issues/1" TITLE : short command line BODY : the most used command line is: java -jar difffilter-0.0.5.jar -ff file1.txt -sf file2.txt -et {ignore_line} it was suggested to create a short version of it syntax sugar as: java -jar difffilter-0.0.5.jar file1.txt file2.txt

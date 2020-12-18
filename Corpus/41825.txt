@@ -1,0 +1,1 @@
+ URL : "https://github.com/Zaijo/history/issues/23" TITLE : add loading indicator BODY : even though these requests are just raw http requests, a little loading indicator would make the application a better place. thanks mix from patchwork for noticing this.

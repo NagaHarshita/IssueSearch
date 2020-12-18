@@ -1,0 +1,1 @@
+ URL : "https://github.com/plataformatec/devise/issues/4585" TITLE : now function BODY : now will not work but date 'now' will work in sqlite

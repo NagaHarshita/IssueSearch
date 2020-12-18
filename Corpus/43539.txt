@@ -1,0 +1,1 @@
+ URL : "https://github.com/liminaab/modelizor/issues/1" TITLE : create with templates BODY : you should be able to create template files that processes the table information and create models based on that instead of using the hard coded ones in the code

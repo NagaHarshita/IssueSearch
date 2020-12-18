@@ -1,0 +1,1 @@
+ URL : "https://github.com/NebulousLabs/Sia/issues/2091" TITLE : hostdb firstseen reset BODY : in latest versions hostdb sometimes reset firstseen after re-announce.

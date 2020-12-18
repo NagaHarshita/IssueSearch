@@ -1,0 +1,1 @@
+ URL : "https://github.com/jordanstreiff/atlanta-candidate-api/issues/22" TITLE : modify districts endpoint BODY : i propose that the /districts endpoint be moved to another /candidates endpoint. from a restful resource thing perspective, the things we're returning are candidates, not districts. specifically: api/districts/:id -> api/candidates/?district=:id thoughts?

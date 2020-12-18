@@ -1,0 +1,1 @@
+ URL : "https://github.com/nir0s/python-packer/issues/11" TITLE : remove sh dependency BODY : currently, there's only one dependency for packer - sh . i don't see a reason to keep that dependency as it can be easily replaced with subprocess .

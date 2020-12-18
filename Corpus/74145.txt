@@ -1,0 +1,1 @@
+ URL : "https://github.com/firegento/firegento-pdf/issues/341" TITLE : drop php 5.3/4/5 support BODY : i would love to drop php 5 support at all, but there are a lot of people out there which still use php5. what about dropping php 5.5 support?

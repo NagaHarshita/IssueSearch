@@ -1,0 +1,1 @@
+ URL : "https://github.com/danimnrtn/colmar-academy/issues/1" TITLE : img width on mobile BODY : keep the width here at 100% otherwise the img does not fill it's div and looks aligned to the left rather than centered. https://github.com/danimnrtn/colmar-academy/blob/master/resources/css/style.css l514

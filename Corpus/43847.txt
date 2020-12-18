@@ -1,0 +1,1 @@
+ URL : "https://github.com/grails-guides/gorm-without-grails/issues/1" TITLE : different data source BODY : when selecting different data source e.g. postgresql. it does not work

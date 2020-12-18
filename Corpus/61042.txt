@@ -1,0 +1,1 @@
+ URL : "https://github.com/ritoplz/ritoplz/issues/211" TITLE : add textinput component BODY : props: - type default: text - label default: null - placeholder default: null

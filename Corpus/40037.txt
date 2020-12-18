@@ -1,0 +1,1 @@
+ URL : "https://github.com/luyadev/luya/issues/1527" TITLE : table block newlines BODY : the newlines inside a table block cell does not work. enable nl2br on frontend render.

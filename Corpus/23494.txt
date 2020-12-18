@@ -1,0 +1,1 @@
+ URL : "https://github.com/ni9n/TASTORY/issues/9" TITLE : post 버튼 생성 BODY : 클릭 시 post 되며 mainview의 colletion view에 기준된 정렬에 따라 출력된다.

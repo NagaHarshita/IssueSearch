@@ -1,0 +1,1 @@
+ URL : "https://github.com/thetutlage/japa/issues/6" TITLE : run only one test BODY : hello! how to run only one test from multiple tests? for example, i need run test with name 'not load relation with null value in foreign key'. hot to can i run it? command cli argument? thx!

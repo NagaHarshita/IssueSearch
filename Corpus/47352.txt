@@ -1,0 +1,1 @@
+ URL : "https://github.com/qcha/arfind/issues/4" TITLE : padding in editor bar BODY : we forgot to add the upper indent for editor bar in configuration window.

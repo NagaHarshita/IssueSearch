@@ -1,0 +1,1 @@
+ URL : "https://github.com/zacharylandes/bike-share/issues/26" TITLE : more model refactoring BODY : go through the entire models and see what else can be refactored or cleaned up

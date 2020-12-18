@@ -1,0 +1,1 @@
+ URL : "https://github.com/ccjolley/cRimson/issues/2" TITLE : graph from mentions BODY : in the readme for ws_to_graph you mention that it might be useful to be able to build a graph from mentions as well as retweets. i agree! just wondering if you already implemented this and maybe didnt edit the readme yet.

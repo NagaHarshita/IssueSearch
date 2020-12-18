@@ -1,0 +1,1 @@
+ URL : "https://github.com/uikit/uikit/issues/3044" TITLE : h-tags and navbar fonts? BODY : i always wondered, why do h-tags h1, uk-h1,.. and navbar component do have separate font family? basically font-family is already defined within html element, so all childs will have same font name. so, what is the reason?

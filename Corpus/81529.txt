@@ -1,0 +1,1 @@
+ URL : "https://github.com/TerryZ/SelectPage/issues/24" TITLE : 增加 datafilter 方法 BODY : 文档只是粗略的看了一下，没发现 datafilter 这个参数。增加一个给ajax返回的原始数据的进行预处理的函数，参见 $.ajax 的 datafilter。 因为好多情况后台返回数据已经固定。只能前端拿到数据后进行预处理 当然自己用$.ajax请求，拿到数据处理后返回给控件也是可以的 。

@@ -1,0 +1,1 @@
+ URL : "https://github.com/appscode/kubed/issues/86" TITLE : kubed api features BODY : this api is to collect feature requests for kubed api: - return history of snapshotter. - status for recycle bin.

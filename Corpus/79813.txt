@@ -1,0 +1,1 @@
+ URL : "https://github.com/kristerkari/stylelint-scss/issues/122" TITLE : stylelint --fix argument BODY : hi, does this plugin respect the --fix argument on the command line and correct whitespaces in comments like specified in rule scss/double-slash-comment-whitespace-inside ?

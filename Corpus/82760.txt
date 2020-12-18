@@ -1,0 +1,1 @@
+ URL : "https://github.com/LowPowerLab/RFM69/issues/68" TITLE : arduino due compatibility BODY : it seems that this library is currently not compatible with the arduino due sam3x8 .

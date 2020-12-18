@@ -1,0 +1,1 @@
+ URL : "https://github.com/elrayle/todo/issues/6" TITLE : esmis current work BODY : debugging... shares fail if docs exceeds one page. <%= paginate... %> in _results_pagination.rb fails with no route matches {:action=> index , :controller=> my/release_shares , :locale=> en , :page=>nil} tests for... dashboard controllers dashboard search builders

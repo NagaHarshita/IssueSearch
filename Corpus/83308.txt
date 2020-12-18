@@ -1,0 +1,1 @@
+ URL : "https://github.com/mrbirl/SurfTracker/issues/1" TITLE : can rotate, causes issues BODY : you can rotate the app now when you rotate the phone on it's side. the ui looks weird, because you can't scroll. i don't see a need for the app to be able to be used in landscape mode, could lock this to portrait.

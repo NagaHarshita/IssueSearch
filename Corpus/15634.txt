@@ -1,0 +1,1 @@
+ URL : "https://github.com/TeamWin/android_device_leeco_s2/issues/1" TITLE : failed to decrypt BODY : hello, crypting the phone wasn't a great idea since twrp won't accept neither schemas nor pin codes failed to decrypt data , using official lineageos. how can i help debug this?

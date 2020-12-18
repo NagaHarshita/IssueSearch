@@ -1,0 +1,1 @@
+ URL : "https://github.com/btconroy/prj-rev-bwfs-dasmoto/issues/2" TITLE : font family repetition BODY : font-family: helvetica; whenever you are repeating a style, you should consider options to reduce this. in this case you can use a universal selector such as body or html since the font family is same through out the page. html { font-family: helvetica; }

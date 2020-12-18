@@ -1,0 +1,1 @@
+ URL : "https://github.com/andersfylling/ccdb/issues/2" TITLE : the btc command BODY : either remove it, or get the latest btc price whenever it is used. if the latter, it needs to do rate limiting checks to avoid it from making the ws connection to discord time out.

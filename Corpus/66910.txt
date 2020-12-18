@@ -1,0 +1,1 @@
+ URL : "https://github.com/sarahavilov/autofillforms-e10s/issues/36" TITLE : not working into iframe BODY : hi, autofill forms seems to not working into iframe element. no special debug conditions, set form page in iframe element, test autofill form, it's not working.

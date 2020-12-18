@@ -1,0 +1,1 @@
+ URL : "https://github.com/arnellebalane/arnellebalane.com/issues/7" TITLE : recent projects api BODY : the recent projects section in the homepage should be live data from the backend, retrieving latest projects from github and codepen.

@@ -1,0 +1,2 @@
+ URL : "https://github.com/propelfuels/scsi/issues/1" TITLE : lookup specific item BODY : add feature to lookup specified item. examples: - /slackinfo @user to lookup an user
+- /slackinfo channel to lookup other channels without joining

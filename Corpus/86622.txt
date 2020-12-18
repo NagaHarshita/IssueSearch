@@ -1,0 +1,1 @@
+ URL : "https://github.com/PropertyUX/hubot-pretend/issues/1" TITLE : ignore hubot_name env var BODY : changing hubot config env seems to have no effect on the listeners being loaded by pretend mock robot, they're still looking for hubot... after the name is changed.

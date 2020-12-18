@@ -1,0 +1,1 @@
+ URL : "https://github.com/iplinux/libmad/issues/1" TITLE : how to run minimad.c BODY : could please some explain how to run minimad.c? i followed instructions in install file. but i am not good in c and i don't know what parameters need to be passed in main function. i don't understand what parameters in argv is using there in main .

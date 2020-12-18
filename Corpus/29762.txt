@@ -1,0 +1,1 @@
+ URL : "https://github.com/nikomatsakis/nll/issues/9" TITLE : model index lvalues BODY : we do not model arrays fixed-length nor slices nor index lvalues. mir has a fairly rich notion of index lvalues intended to support slice patterns. we probably want to model that too.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/bbeck13/RhythmRunner/issues/63" TITLE : jumping during reset BODY : you can jump in the middle of a reset and it will make the player jump up really high when it goes back to its initial position. this should be fixed by changing the reset logic

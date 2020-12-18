@@ -1,0 +1,1 @@
+ URL : "https://github.com/fac-12/facd-todo/issues/41" TITLE : .gitignore npm packages BODY : don't forget to include a .gitignore in your files - people cloning your repo shouldn't have to download the node packages folder, when they can install everything using npm install . if you've found it's taken a long time to download your repo from github, this is probably why.

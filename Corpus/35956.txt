@@ -1,0 +1,1 @@
+ URL : "https://github.com/raulfdm/personal-website/issues/32" TITLE : fix recaptcha render BODY : follow this api https://developers.google.com/recaptcha/docs/invisible render_param

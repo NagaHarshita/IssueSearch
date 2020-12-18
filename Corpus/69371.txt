@@ -1,0 +1,1 @@
+ URL : "https://github.com/NLeSC/noodles/issues/60" TITLE : systematic unit testing BODY : we should have a grid of unit tests with programming idioms on one axis and back-ends on the other.

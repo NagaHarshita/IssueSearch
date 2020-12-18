@@ -1,0 +1,1 @@
+ URL : "https://github.com/typicode/lowdb/issues/183" TITLE : _.last is not working BODY : can is use this from lodash? _.last is not working = var top_10 = db.get 'done' .map 'username' .countby .topairs .sortby _.last .reverse .take 5 .map _.head .value ;

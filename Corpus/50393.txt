@@ -1,0 +1,1 @@
+ URL : "https://github.com/Erol/yomu/issues/50" TITLE : yomu.html not working BODY : i have set up yomu and text extraction works wonderfully, however when i try to take a yomu object and call the .html method to receive html output of the underlying file, i get nomethoderror: undefined method html' for <yomu:...>'. what could be the cause of this?

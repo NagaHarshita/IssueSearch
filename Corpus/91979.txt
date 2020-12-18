@@ -1,0 +1,1 @@
+ URL : "https://github.com/ibm-wch/sample-article-angular/issues/4" TITLE : use ng-src instead of src BODY : for dynamically generated image urls i suggest to use ng-src to avoid an invalid lookup request, i.e. instead of <img alt= {{card.title}} src= {{card.thumbnail}} /> write <img alt= {{card.title}} ng-src= {{card.thumbnail}} />

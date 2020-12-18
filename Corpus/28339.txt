@@ -1,0 +1,1 @@
+ URL : "https://github.com/hail-is/hail/issues/2600" TITLE : force_bgz is unsafe BODY : if the computation is interrupted in a jupyter notebook, the hadoop conf is not reset.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/omeka-s-modules/Omeka2Importer/issues/101" TITLE : data passing is wonky BODY : urls and csrf data is getting passed simplistically in the get parameters. that should be handled more coherently.

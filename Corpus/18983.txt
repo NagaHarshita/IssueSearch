@@ -1,0 +1,1 @@
+ URL : "https://github.com/Jarato/WOGL/issues/16" TITLE : view of creatures BODY : - creatures left in a view-cone will update the eyesinput of that cone too late

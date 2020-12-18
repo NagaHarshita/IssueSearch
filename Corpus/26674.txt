@@ -1,0 +1,1 @@
+ URL : "https://github.com/gongminmin/KlayGE/issues/154" TITLE : build boost failed. BODY : vcvarsall.bat environment initialized for: 'x86_x64' msbuild : error msb1009: 项目文件不存在。 开关:all_build.vcxproj e build boost failed. 请按任意键继续. . .

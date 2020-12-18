@@ -1,0 +1,1 @@
+ URL : "https://github.com/zaus/forms-3rdparty-integration/issues/84" TITLE : curl error 6 BODY : when trying to post to => https://crm.zoho.com/crm/webtoleadform a curl error is returned. curl error 6: could not resolve host: www.adventnet.com

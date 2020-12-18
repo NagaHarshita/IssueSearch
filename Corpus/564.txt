@@ -1,0 +1,7 @@
+ URL : "https://github.com/NSI-IT/AUG-DDMOBILE/issues/177" TITLE : po > sent BODY : as a user i will receive sent box so that i can see mails i have sent out. - verify that i will see the sent mails in this folder.
+- verify that messages will be listed by:- 1. project name
+2. recipient email id
+3. subject
+4. date/time of the message - verify that following operations can be performed on the messages:- 1. mark the message as important
+2. star a message
+3. delete a message

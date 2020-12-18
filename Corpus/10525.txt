@@ -1,0 +1,1 @@
+ URL : "https://github.com/cmderdev/cmder/issues/1604" TITLE : cmder screen bug BODY : sometimes it make bugs like this: ! image https://user-images.githubusercontent.com/32028449/34453240-aacbc41e-ed89-11e7-9f17-e15cd18201cf.png 1.words will cover each other 2.only half a screen can be displayed 3.clear command can not work,only use reset how can i do ?

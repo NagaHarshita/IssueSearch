@@ -1,0 +1,1 @@
+ URL : "https://github.com/XeonSquared/PsychOS/issues/5" TITLE : fix psychos issues BODY : - the packet cache doesn't work properly. pt won't work because it uses non-string keys. - if relib.parse returns nils it should drop the packet - also hops should never be incremented past 255 and repeated, oops.

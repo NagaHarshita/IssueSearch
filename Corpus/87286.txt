@@ -1,0 +1,1 @@
+ URL : "https://github.com/auth0/node-jsonwebtoken/issues/296" TITLE : jwt sign with private key BODY : helo, i was wondering why jwt signs a token with a private key and not a public one the way other libraries to encrypt do, like openpgpjs. thank you for your time.

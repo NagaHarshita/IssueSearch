@@ -1,0 +1,1 @@
+ URL : "https://github.com/jgm/yst/issues/45" TITLE : typo in readme BODY : on unix systems, the yst binary is by default in ~/.cabal/bin not in ~\.cabal\bin

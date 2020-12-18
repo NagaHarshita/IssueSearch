@@ -1,0 +1,1 @@
+ URL : "https://github.com/enioka/jqm/issues/246" TITLE : job defnition update issue BODY : jqm does'nt update jobdef table properly with xml job definitions, especially when unsetting <specificisolationclassloader/>

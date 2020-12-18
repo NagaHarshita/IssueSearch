@@ -1,0 +1,1 @@
+ URL : "https://github.com/vector-im/riot-web/issues/4602" TITLE : generic e2e issue BODY : there are several rageshakes which are related to e2e but the description doesn't give much to help in triaging. i'm creating this generic issue to reference from them.

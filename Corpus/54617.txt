@@ -1,0 +1,1 @@
+ URL : "https://github.com/pgriffin31/prj-rev-bwfs-tea-cozy/issues/4" TITLE : group selectors in css BODY : simplify! i love that you used the universal selector to keep your css concise. however, i would consider adding a group selector for your display: flex; style that is repeated multiple times throughout your css to make your css even more concise.

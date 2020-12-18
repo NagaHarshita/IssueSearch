@@ -1,0 +1,1 @@
+ URL : "https://github.com/jshjohnson/Choices/issues/134" TITLE : not requiring enter BODY : on https://joshuajohnson.co.uk/choices/ in the first example, creating a new item requires hitting enter. is it possible to instead have a setting where each new string cannot contain spaces but new items get created when space is pressed?

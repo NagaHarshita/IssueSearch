@@ -1,0 +1,1 @@
+ URL : "https://github.com/udacity/sdc-issue-reports/issues/538" TITLE : t2.p2 data format BODY : input and data output data format contains px, py, vx, vy estimation and ground truth columns, but should be something like px,py,v,yaw,dyaw.

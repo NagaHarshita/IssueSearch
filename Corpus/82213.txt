@@ -1,0 +1,1 @@
+ URL : "https://github.com/Ecotrust/marineplanner-core/issues/3" TITLE : add mp-drawing by default BODY : add mp-drawing to config- scripts add rpc4django to installed apps if mp-drawing is installed add drawing to installed apps if mp-drawing is installed currently explicitly not done

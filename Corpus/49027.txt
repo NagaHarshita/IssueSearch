@@ -1,0 +1,1 @@
+ URL : "https://github.com/bazelbuild/bazel/issues/2655" TITLE : support android ndk14 BODY : this will be the tracking issue for android_ndk_repository supporting android ndk14. ndk14 was released on march 3, 2016: https://groups.google.com/forum/ !topic/android-ndk-announce/ji9jmfegxa0 fyi: bazel 0.4.5 will be the first bazel release to support ndk13.

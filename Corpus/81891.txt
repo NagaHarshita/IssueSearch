@@ -1,0 +1,1 @@
+ URL : "https://github.com/log0ymxm/node-harvest/issues/69" TITLE : access token config check BODY : https://github.com/log0ymxm/node-harvest/blob/552d0752989278d35bdb98c89b3bce0badbd32e4/lib/harvest.js l40 should be: helpers.has config, 'accesstoken'

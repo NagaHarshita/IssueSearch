@@ -1,0 +1,1 @@
+ URL : "https://github.com/osmado/ev3dev_ros_distribution/issues/2" TITLE : python 3 not supported BODY : since ev3dev project has dropped python 2 support, i tried to use python 3 to write a node, but it does not work. the first issue i encountered is that yaml package is not installed for python 3. is it possible to support python 3 as well?

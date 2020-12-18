@@ -1,0 +1,1 @@
+ URL : "https://github.com/zzuu666/antue/issues/21" TITLE : input component's bug BODY : can't change its width with style or class, because span is a inline element, should declare display inline-block. @sky-admin

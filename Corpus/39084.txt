@@ -1,0 +1,1 @@
+ URL : "https://github.com/cybercog/laravel-whoops-editor/issues/3" TITLE : request atom support BODY : any idea if we can support atom, i took a look but didn't find any atom:// helper available

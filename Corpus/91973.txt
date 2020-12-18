@@ -1,0 +1,1 @@
+ URL : "https://github.com/uber/jaeger-client-node/issues/148" TITLE : use map instead of object BODY : https://developer.mozilla.org/en-us/docs/web/javascript/reference/global_objects/map objects_and_maps_compared there's a lot of locations in the codebase where we use an object where a map is more appropriate.

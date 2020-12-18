@@ -1,0 +1,1 @@
+ URL : "https://github.com/chaesangah/UserDialog/issues/2" TITLE : event programming 1. BODY : - activity의 버튼을 클릭했을 때 dialog가 나타난다: dialog.xml의 레이아웃이 설정되어야 한다.

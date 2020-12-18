@@ -1,0 +1,1 @@
+ URL : "https://github.com/joomlatools/joomlatools-vagrant/issues/113" TITLE : fix scrolling in site list BODY : if the list of sites is so long it disappears under the terminal window, it's impossible to scroll down. example: ! screen shot 2017-11-14 at 22 23 08 https://user-images.githubusercontent.com/77368/32808317-849efacc-c98a-11e7-934b-9c8dc2f470d6.jpg

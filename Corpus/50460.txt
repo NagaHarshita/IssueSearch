@@ -1,0 +1,1 @@
+ URL : "https://github.com/RasmusTidselbak/al-formatter/issues/4" TITLE : 'x''x' becomes 'x' 'x' BODY : if you have a string like 'x''x' then when formatting it becomes 'x' 'x' . the extra space causes the compiler to complain with a ',' expected message.

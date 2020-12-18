@@ -1,0 +1,1 @@
+ URL : "https://github.com/slow-is-fast/blog/issues/4" TITLE : golang dev setup BODY : go install: no install location for directory $home/repos/allitebooks outside gopath for more details see: 'go help gopath'

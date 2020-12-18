@@ -1,0 +1,1 @@
+ URL : "https://github.com/agardiner/csv-diff-report/issues/6" TITLE : support utf 8 BODY : when i try this tool with utf8 encoded file i get error invalid column name as key it seems to work fine when the file is not utf8 encoded.

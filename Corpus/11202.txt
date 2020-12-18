@@ -1,0 +1,1 @@
+ URL : "https://github.com/yongboy/bindp/issues/3" TITLE : fix stack canary BODY : checksec --file libindp.so relro stack canary nx pie rpath runpath file full relro no canary found nx enabled pie enabled no rpath no runpath libindp.so

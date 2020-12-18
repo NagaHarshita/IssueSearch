@@ -1,0 +1,1 @@
+ URL : "https://github.com/SamyPesse/draft-js-code/issues/28" TITLE : rename handletab to ontab BODY : draftjs expects an ontab prop, not a handletab prop. we should rename our handletab function to ontab for consistency. ref: https://draftjs.org/docs/api-reference-editor.html ontab

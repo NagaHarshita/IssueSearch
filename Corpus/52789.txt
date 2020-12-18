@@ -1,0 +1,7 @@
+ URL : "https://github.com/nick92/Coffee/issues/5" TITLE : create an appdata file BODY : appcenter dashboard could not find a com.github.nick92.coffee.appdata.xml file for your project.
+please create one and ensure it gets installed to /usr/share/metainfo/ to
+provide additional data to application managers. --- for more information, see:
+- the appstream quickstart guide https://www.freedesktop.org/software/appstream/docs/chap-quickstart.html - the appstream metadata specification https://www.freedesktop.org/software/appstream/docs/chap-metadata.html if you need help with this issue please stop by the gitter https://gitter.im/elementary/houston channel. affects : 1.0.1 release https://github.com/nick92/coffee/releases/tag/1.0.1 <!--
+pipe: appdata
+pipe time: fri sep 22 2017 21:16:21 gmt+0000 utc houston version: 0.4.1 f25cad9ae4971b34086984d04ec710bdc3e89a73 houston env: production
+-->

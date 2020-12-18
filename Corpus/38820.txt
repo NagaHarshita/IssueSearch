@@ -1,0 +1,2 @@
+ URL : "https://github.com/ahmedahamid/temp-third/issues/510" TITLE : reactiveui and prism BODY : i would like to request a sample of how to use the reactiveui mvvm framework from inside a prism 4.0 wpf/silverlight application;
+to make a async call to an odata and on success populate a grid with the results. this work item was migrated from codeplex codeplex work item id: '10520' vote count: '2'

@@ -1,0 +1,1 @@
+ URL : "https://github.com/seananderson/pbs-synopsis/issues/3" TITLE : show maturity data BODY : will require some discussion about the data quality for various groups of stocks. would be particularly useful for mp approach to know age and length at maturity and uncertainty around that. could fit logistic or double normal to maturity vs. age and length.

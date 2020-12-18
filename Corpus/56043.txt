@@ -1,0 +1,2 @@
+ URL : "https://github.com/YeOldeDM/lets-godot-roguelike/issues/3" TITLE : map scene & tiles_edit BODY : for now will be the main scene. new scene. core node is tilemap save in res://game/map/map.tscn create a res://game/tiles/tiles_edit.tscn wall & floor tiles
+export as res://game/tiles/map_tiles.tres set tilemap in map.tscn to use map_tiles. adjust cell sizes. paint some tiles for fun and confirmation. <!--- @huboard:{ order :0.9999000099990001, milestone_order :0.9998000299960005} -->

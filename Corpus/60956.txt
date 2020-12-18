@@ -1,0 +1,1 @@
+ URL : "https://github.com/mami-project/pathspider/issues/168" TITLE : add server mode servers BODY : these will be run in a new thread when server mode is selected, and the first server should be http. the server should allow discovery of the ip/port that the connection originated from.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/sickill/rainbow/issues/68" TITLE : feature request: themes BODY : i find myself using rainbow for a cli tool which wants colorized output, and i put it in some colors. _are these the right colors?_, i ask myself. not every terminal color setup will be good with this.

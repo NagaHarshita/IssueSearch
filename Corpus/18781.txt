@@ -1,0 +1,1 @@
+ URL : "https://github.com/hienbv/vagrant-ubuntu1604/issues/1" TITLE : update to php 7.1 BODY : php 7.0 sắp hết thời gian active support, hãy chuyển qua dùng php 7.1 http://php.net/supported-versions.php

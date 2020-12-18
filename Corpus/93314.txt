@@ -1,0 +1,1 @@
+ URL : "https://github.com/agileraymond/DotNetDeployments/issues/43" TITLE : add project search feature BODY : right now we are doing a dynamodb scan to retrieve list of projects. for companies with lots of projects, it would be better to have a search project feature. for now, we can add a text input and a search button.

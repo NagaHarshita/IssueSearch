@@ -1,0 +1,1 @@
+ URL : "https://github.com/janeczku/calibre-web/issues/147" TITLE : smtp and gmail error BODY : when i enter in gmail settings for smtp, i get this error: failed to send mail: {u'': 555, '5.5.2 syntax error the rest of the string is a random error that changes each time. it looks like the header of the email isn't set correctly when doing a test.

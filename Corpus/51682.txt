@@ -1,0 +1,1 @@
+ URL : "https://github.com/df8oe/UHSDR/issues/959" TITLE : band freq define error BODY : file: https://github.com/df8oe/uhsdr/blob/active-devel/mchf-eclipse/hardware/uhsdr_board.h from line 248 , as the following: // define	band_mode_23 13 define	band_freq_23 450000 khz_mult // 1240000 khz define	band_size_23 10000 khz_mult // 60000 khz in size region 1

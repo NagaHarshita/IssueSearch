@@ -1,0 +1,1 @@
+ URL : "https://github.com/jimrubenstein/node-mandrill/issues/13" TITLE : callback called twice BODY : the code is allowing the callback to be called twice: if there is no error, but the body is not a valid json the catch calls the callback with the parse error, then calls it again with the body. https://github.com/jimrubenstein/node-mandrill/blob/master/mandrill.js l42

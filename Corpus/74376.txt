@@ -1,0 +1,1 @@
+ URL : "https://github.com/WowzaMediaSystems/wse-rest-library-php/issues/4" TITLE : error in class recording BODY : in class.recording.php the private variable $recordname should be $recordername for wowza 4.6

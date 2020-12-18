@@ -1,0 +1,1 @@
+ URL : "https://github.com/ezekielaquino/Marquee3000/issues/10" TITLE : require is not defined BODY : i added the js file, but i get require is not defined. const marquee3k = require 'marquee3000' ; marquee3k.init ;

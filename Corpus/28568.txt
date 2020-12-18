@@ -1,0 +1,1 @@
+ URL : "https://github.com/fengalin/media-toc/issues/23" TITLE : handle caps changes BODY : caps may change during playback. see this discussion https://github.com/sdroege/gstreamer-rs/pull/27 issuecomment-322486585 .

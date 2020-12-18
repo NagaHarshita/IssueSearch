@@ -1,0 +1,1 @@
+ URL : "https://github.com/GovernIB/helium/issues/1155" TITLE : error filtres consultes BODY : s'ha detectat errors escollint valors del filtre. quan s'escull un valor de filtre de tipus booleà no sembla que filtri correctament.

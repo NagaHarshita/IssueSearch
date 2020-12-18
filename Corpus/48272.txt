@@ -1,0 +1,1 @@
+ URL : "https://github.com/tamouse/oldest_line_in_repo/issues/1" TITLE : respond to interrupts BODY : have the code respond to various sorts of signals in intelligent ways - tell what file it's processing - tell how many files it's processed - current results - stop processing and give current results

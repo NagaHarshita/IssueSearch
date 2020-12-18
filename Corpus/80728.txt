@@ -1,0 +1,1 @@
+ URL : "https://github.com/duncan-r/SHIP/issues/12" TITLE : update integration tests BODY : integration tests in travis have been deactivated temporarily, until the changes to the fileloader and tuflowfactory are complete. the integration tests will need updating and reactivating when everything calms down.

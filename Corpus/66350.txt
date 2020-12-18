@@ -1,0 +1,1 @@
+ URL : "https://github.com/mrtazz/restclient-cpp/issues/92" TITLE : missing pkg-config file BODY : i pulled latest released version and after building it and installing to default /usr/local i noticed that restclient-cpp.pc is missing.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/orlof/dcpu-admiral/issues/20" TITLE : lines disappear in editor BODY : i noticed this on the tc test server. lines in the editor that start with a space disappear when you hit enter to go to the next line.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/nitaybz/homebridge-udp-multiswitch/issues/1" TITLE : where is http-multiswitch BODY : the npm page for homebridge-http-multiswitch links here, but despite the description of the repo referring to http, this is for udp. where is the http version you made, id love to get the code for it. thanks!

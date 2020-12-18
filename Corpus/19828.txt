@@ -1,0 +1,1 @@
+ URL : "https://github.com/AesopInteractive/lasso/issues/119" TITLE : ajax error on save BODY : hi. everytime i try to create or edit a post, when i click on the save button, this error appears: ajax error: the requested page not found. 404 i don't know why it happens. i deactivated some plugisn, but it still appears.

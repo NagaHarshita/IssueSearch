@@ -1,0 +1,1 @@
+ URL : "https://github.com/AgileArchitect/Cake.Sonar/issues/37" TITLE : cake.core reference issue BODY : error: the assembly 'cake.sonar, version=1.0.0.0, culture=neutral, publickeytoken=null' is referencing an older version of cake.core 0.16.2 . this assembly need to reference at least cake.core version 0.22.0.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/DominiLux/amdgpu-pro-fans/issues/9" TITLE : set fan speed per gpu BODY : add feature to allow setting of setting each gpu's fan speed independently. some gpus run hotter than others :

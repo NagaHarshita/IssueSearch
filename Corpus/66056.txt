@@ -1,0 +1,1 @@
+ URL : "https://github.com/hinataiswaifu/live/issues/3" TITLE : make basic player class BODY : needs to encapsulate all the properties and data that the player needs to hold, incnludes: sprite data inventory health/energy animation data in the future maybe

@@ -1,0 +1,1 @@
+ URL : "https://github.com/DynamicGravitySystems/DGP/issues/39" TITLE : enh: time sync BODY : just added a function to find_time_delay between to arrays, with sub-sampling . now working in a function to shift an array also with sub sampling resolution.

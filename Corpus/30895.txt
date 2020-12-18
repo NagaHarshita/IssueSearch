@@ -1,0 +1,1 @@
+ URL : "https://github.com/philostler/rspec-sidekiq/issues/115" TITLE : release to rubygems BODY : are there plans to release to rubygems? the current lib/rspec/sidekiq/version.rb shows v3.0.0 but the file was last updated december 2015. the latest version on rubygems is 2.2.0. a new release would be great!

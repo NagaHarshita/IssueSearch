@@ -1,0 +1,1 @@
+ URL : "https://github.com/ablator/ablator/issues/94" TITLE : group users by cohorts BODY : group users by cohorts and switch them separately > is it possible to define cohorts of users, and then expose features to that group? i work on a saas app used by businesses, so it'd be very handy to use this tool when a customer is beta testing a new feature. -- mazatta on hn

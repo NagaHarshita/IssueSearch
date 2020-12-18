@@ -1,0 +1,1 @@
+ URL : "https://github.com/openseadragon/openseadragon/issues/1297" TITLE : simple images repeated BODY : possibly related to 1113, simple images can be repeated if the viewer container happens to be larger than the image. see https://jsfiddle.net/2bkw2rlb/

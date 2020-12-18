@@ -1,0 +1,1 @@
+ URL : "https://github.com/x1204zou/mars-rover/issues/3" TITLE : alternative for roatating BODY : ! lander-icon https://user-images.githubusercontent.com/2260186/28760524-708b8748-75da-11e7-8dfc-d72cd76e94e9.png alternative for turning direction is to use an icon/image, each time when we press turning button, we only need to rotate that icon/image.

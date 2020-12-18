@@ -1,0 +1,1 @@
+ URL : "https://github.com/edannenberg/gentoo-bb/issues/90" TITLE : nodejs might be broken BODY : i was going to create an image like nodejs not needed python deps and found that is using tbz2 which should be incompatible with binpkg-multi-instance . while on it might be you can use $bob_chost there too.

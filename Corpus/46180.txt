@@ -1,0 +1,1 @@
+ URL : "https://github.com/LotarProject/slackman/issues/4" TITLE : list removed packages BODY : list removed packages: - package name - version - arch - tag - timestamp command slackman list removed package

@@ -1,0 +1,1 @@
+ URL : "https://github.com/h5p/h5p-multi-choice/issues/24" TITLE : tab jumps are weird BODY : it seems there might a problem with the tabindex. i have not really looked into this topic related to aria , but it seems that the jump order for n alternatives is: - 1st alternative - 1s_ hint - 2nd hint - 3rd hint - ... - n-1th hint - nth alternative - nth hint looks strange to me.

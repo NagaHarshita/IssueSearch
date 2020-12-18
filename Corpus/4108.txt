@@ -1,0 +1,1 @@
+ URL : "https://github.com/stylelint/stylelint/issues/2498" TITLE : add smoke test BODY : i think this would not be superfluous, and would have allowed to avoid stupid mistakes in releases. example smoke test https://github.com/babel/babel-preset-env/pull/240/commits/8101857b893c99834dc853400eca6b64d7cc05fe

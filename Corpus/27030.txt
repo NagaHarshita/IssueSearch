@@ -1,0 +1,1 @@
+ URL : "https://github.com/tersejs/terse/issues/57" TITLE : client build metric BODY : - send build times to this component. - show progress bar, like: https://github.com/rstacruz/nprogress - animate icon when progress is happening?

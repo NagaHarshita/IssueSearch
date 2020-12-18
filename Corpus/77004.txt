@@ -1,0 +1,1 @@
+ URL : "https://github.com/NiklasGollenstede/unload-tabs/issues/8" TITLE : migrate to webextensions BODY : mozilla announced that starting in firefox 57, firefox will no longer support add-ons that are not webextensions. is it possible to convert unload tabs to be a webextension, so it can continue working in firefox 57 and beyond?

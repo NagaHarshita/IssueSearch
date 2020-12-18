@@ -1,0 +1,1 @@
+ URL : "https://github.com/unicef/etools/issues/462" TITLE : trips dashboard counts BODY : create endpoint to get trips and action points counts to be used for the dashboard in accordance to ui design

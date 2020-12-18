@@ -1,0 +1,1 @@
+ URL : "https://github.com/darrellhanley/Flood-Zone-NYC/issues/19" TITLE : upgrade react version BODY : upgrade react to post version 16. react 16+ has a number of breaking changes, so catch all errors that result from the upgrade

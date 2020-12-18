@@ -1,0 +1,1 @@
+ URL : "https://github.com/vfarcic/docker-flow-proxy/issues/354" TITLE : nfr support ipv6 BODY : would it be possible to have the proxy listen to incoming request over ipv6 and forward it to the services? the connection to the service could still be ipv4 if you ask me.

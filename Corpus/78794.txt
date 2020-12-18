@@ -1,0 +1,1 @@
+ URL : "https://github.com/smartxworks/pySMART/issues/8" TITLE : release 0.3.6 on github? BODY : hi! thanks for taking care of pysmart! i noticed the release on pypi is 0.3.6 but __init__.py on github still has 0.3.5, would it be possible to upload the 0.3.6 release/code on github too? thanks!

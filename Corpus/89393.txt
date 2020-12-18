@@ -1,0 +1,1 @@
+ URL : "https://github.com/naver/egjs-view360/issues/43" TITLE : providing 'release' event BODY : description at the discussion below, https://github.com/naver/egjs-view360/pull/42 discussion_r147877409 @jongmoon thinks providing 'release' event will help developing with panoviewer. but i do not know what kind of situation is like the 'release' event becoming useful.

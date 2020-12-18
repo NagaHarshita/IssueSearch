@@ -1,0 +1,1 @@
+ URL : "https://github.com/scikit-optimize/scikit-optimize/issues/357" TITLE : test for deltay stopper BODY : we should test the deltay stopper with the _minimize functions.

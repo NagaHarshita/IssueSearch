@@ -1,0 +1,1 @@
+ URL : "https://github.com/ngageoint/seed/issues/55" TITLE : validate output metadata BODY : validate any output metadata from an algorithm against the schema.

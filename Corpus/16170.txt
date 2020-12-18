@@ -1,0 +1,1 @@
+ URL : "https://github.com/nodes-vapor/blog-post-ideas/issues/10" TITLE : how to test views BODY : using a presenter/viewmodel approach, one can make the leaf content more simple and ease testing by focusing on the presenter/viewmodel. this has a lot of similarities with ios.

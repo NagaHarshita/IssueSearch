@@ -1,0 +1,1 @@
+ URL : "https://github.com/Lora-net/LoRaMac-node/issues/182" TITLE : rtc calibration issue BODY : hello, i would like to know what is the purpose of calibratesystemwakeuptime function called in boardinitmcu. sometimes ~10% chances my system remains asleep and never wakes up, this is quite problematic. does anybody experienced this ?

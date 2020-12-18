@@ -1,0 +1,1 @@
+ URL : "https://github.com/outcomesinsights/conceptql/issues/90" TITLE : support nested algorithms BODY : this once worked, then we took it out, and now we want it back. needed-by outcomesinsights/ 126

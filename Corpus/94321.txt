@@ -1,0 +1,1 @@
+ URL : "https://github.com/kenkellner/jagsUI/issues/19" TITLE : calculating waic in jagsui BODY : martyn plummer added an example to calculate waic at https://sourceforge.net/p/mcmc-jags/discussion/610036/thread/8211df61/. is it the same way to do in jagsui? thanks!

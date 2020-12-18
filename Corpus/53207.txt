@@ -1,0 +1,1 @@
+ URL : "https://github.com/noseplug/monorepo/issues/15" TITLE : design database schema BODY : done done criteria the database schema considers all user stories and is normalized to bcnf.

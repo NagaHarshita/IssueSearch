@@ -1,0 +1,1 @@
+ URL : "https://github.com/open-watcom/open-watcom-v2/issues/357" TITLE : broken c++ compiler BODY : i run c++ compiler regression tests and found out some problems with constant expressions. the failing tests are diagnostics diag0155.c and positive float03.c. @bmanga please, could you review these issues.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/dasmo90/texting/issues/2" TITLE : use string ids BODY : please, use string ids instead of integer values for all ids companion and game . the string ids should be automatically generated. please check java's uuid class.

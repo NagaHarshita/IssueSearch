@@ -1,0 +1,1 @@
+ URL : "https://github.com/Praqma/git-phlow/issues/102" TITLE : add pac to pipeline BODY : add a pac build step in the concourse pipeline before the github release, so the changelog can be automated and removed from the manual steps.

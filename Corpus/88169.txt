@@ -1,0 +1,1 @@
+ URL : "https://github.com/graze/gigya-client/issues/25" TITLE : move all requests to post BODY : there is no need for everything to be get requests. also post will make sure the key/secret does not get exposed.

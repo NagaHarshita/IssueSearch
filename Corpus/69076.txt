@@ -1,0 +1,1 @@
+ URL : "https://github.com/speedy32129/time_logger/issues/52" TITLE : status transition error BODY : when start time tracking, status changes from in progress to resolved . redmine 3.3.0.

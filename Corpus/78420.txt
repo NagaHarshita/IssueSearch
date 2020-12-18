@@ -1,0 +1,1 @@
+ URL : "https://github.com/gatkramp/actionlist/issues/9" TITLE : process flow in projects BODY : produce a process flow in project, for project to be automatically added to the busy que once its parent is finished. eg. make food > eat > wash dished > dry dished once you are done eating, washing dishes should automatically commence.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Gagbo/vim-gnuplot/issues/4" TITLE : update syntax detection BODY : the syntax file in the plugin is the syntax file shipped with vim, which is written with gnuplot 4 the new syntax rules added in gnuplot 5 should be added. the plan is to use the manual http://gnuplot.info/docs_5.2/gnuplot_5.2.pdf to implement them

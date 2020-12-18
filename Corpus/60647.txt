@@ -1,0 +1,1 @@
+ URL : "https://github.com/antham/envh/issues/4" TITLE : add a validation schema BODY : it must be possible to pass a validation schema to be able to get a sanitized configuration

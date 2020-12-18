@@ -1,0 +1,1 @@
+ URL : "https://github.com/fizyr/keras-retinanet/issues/206" TITLE : testing the csv data BODY : hello, i want to ask about using csv as input on opencv instead of coco, how do i modify the example to load the csv data, thanks a lot.

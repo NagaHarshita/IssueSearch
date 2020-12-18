@@ -1,0 +1,1 @@
+ URL : "https://github.com/tomaszzmuda/Xabe.FFmpeg/issues/22" TITLE : document thrown exceptions BODY : xml docs are lack of thrown exceptions. it has to be done. example: /// <summary> /// start conversion /// </summary> /// <returns>conversion result</returns> /// <exception cref= conversionexception >occurs when ffmpeg process return error.</exception> task<bool> start ;

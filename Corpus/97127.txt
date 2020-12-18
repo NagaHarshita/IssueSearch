@@ -1,0 +1,1 @@
+ URL : "https://github.com/braidery/lib/issues/3" TITLE : flesh out rustdoc for util BODY : the util module is now exposed added to support benchmarks. however, not all of the functions are completely documented.

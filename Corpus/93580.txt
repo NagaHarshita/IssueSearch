@@ -1,0 +1,1 @@
+ URL : "https://github.com/gelezcano/WebSEGUR/issues/7" TITLE : agregar archivos estaticos BODY : agregar archivos estaticos al repositorio remoto de github detalle del commit realizado en fecha mencionada segun comando hg log changeset: 7:c97e9cb03cd8 user: gaston lezcano <gelezcano@gmail.com> date: wed apr 19 19:47:19 2017 -0300 summary: agrego archivos estaticos

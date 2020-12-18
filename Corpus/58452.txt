@@ -1,0 +1,1 @@
+ URL : "https://github.com/patrickwang96/CS3343/issues/11" TITLE : singleton unit testing BODY : how to test a singleton class? - directly test instance - create a mock instance singletonstub with inheritance any suggestions?

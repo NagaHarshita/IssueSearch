@@ -1,0 +1,5 @@
+ URL : "https://github.com/davesade/chaosguns-rogue/issues/11" TITLE : phase 1 - core basics BODY : import static 10x10 map with some walls.
+spawn player.
+spawn enemy.
+close range attack.
+longe range attack - colision detection.

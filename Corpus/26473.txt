@@ -1,0 +1,1 @@
+ URL : "https://github.com/vadimdemedes/net-socket/issues/4" TITLE : backoff not applied BODY : line 77: delay = backoff; is never reached, as it follows a return statement

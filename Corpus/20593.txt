@@ -1,0 +1,1 @@
+ URL : "https://github.com/feathersjs/feathers-chat/issues/72" TITLE : connect to mongodb BODY : hello, first of all, this is a great framework, and i like this example. but how can i connect to the mongo db instead of nedb on this example.thanks

@@ -1,0 +1,1 @@
+ URL : "https://github.com/gap-packages/float/issues/15" TITLE : fix support fplll 5 BODY : the configure check for fplll checks for lll_reduction , but that is now called lllreduction in fplll 5.x. i see that in the actual code, you adjust for that, but the autoconf check must take it into account, too.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Zetoff/zetoff-three/issues/14" TITLE : issue with three version BODY : another issue is that it only works when the three installed in the project is the same version as the one installed in this repo when the project is built.

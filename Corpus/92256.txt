@@ -1,0 +1,1 @@
+ URL : "https://github.com/MightyPirates/OpenComputers/issues/2364" TITLE : waypoint oriented up/down BODY : not being able to put waypoints oriented up/down is inconvenient for navigation, as the drones often get stuck in the waypoint block itself. of course you can code your way around it, but this would be a more aesthetically pleasing solution.

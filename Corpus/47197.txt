@@ -1,0 +1,1 @@
+ URL : "https://github.com/woocommerce/sensei-media-attachments/issues/22" TITLE : obfuscate file names? BODY : if i'm selling a course via woocommerce, i would ideally want to prevent media attachments on those courses from being publicly available. maybe we can add some sort of obfuscation to the filename or path? 789471-zen

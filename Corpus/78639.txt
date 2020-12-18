@@ -1,0 +1,1 @@
+ URL : "https://github.com/cardigann/cardigann/issues/399" TITLE : radarr .title_wrapper h1 BODY : hi, sonarr works fine. when trying to use radarr the console floods with: level=warning msg= indexer \ <indexer>\ failed: expected to find .title_wrapper h1 for all indexers. any ideas on how i can fix this?

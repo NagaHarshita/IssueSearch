@@ -1,0 +1,1 @@
+ URL : "https://github.com/DocNow/docnow/issues/63" TITLE : update tweets api call BODY : i think it makes more sense for the api call to update tweets to be a put request to /api/v1/search/{search-id}/tweets rather than a put to /api/v1/search/{search-id}/?refreshtweets=1 .

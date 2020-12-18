@@ -1,0 +1,1 @@
+ URL : "https://github.com/gcp/leela-zero/issues/105" TITLE : autogtp for windows v3 BODY : this version is about 4 times faster than v2 !!! on intel-i7 + gtx-1070 one game takes 2.5 min before was 10 min now running 4 instances of autogtp cpu is loaded 80% and gpu also 80%.

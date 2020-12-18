@@ -1,0 +1,1 @@
+ URL : "https://github.com/gatkin/commute-tracker/issues/11" TITLE : add unit tests BODY : new features were added to recent versions of the connectiq sdk to support unit testing. before adding new features to the app such as 7 and 8, it would be nice to get good unit test coverage which may require some refactoring to improve testability.

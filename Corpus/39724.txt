@@ -1,0 +1,1 @@
+ URL : "https://github.com/notro/fbtft/issues/448" TITLE : ssd1322 oled support BODY : i know this is a duplicate, but how would i go about getting this driver into the latest branch? can i just drop it in?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mschulz87/prj-rev-bwfs-tea-cozy/issues/5" TITLE : gaps around header BODY : if you want to remove the gaps around the header set the body margins to 0. if you look at the body tag in dev tools you will see that it is making a margin gap around the whole page. https://github.com/mschulz87/prj-rev-bwfs-tea-cozy/blob/master/teacozy/resources/style.css l1

@@ -1,0 +1,1 @@
+ URL : "https://github.com/chilcote/vfuse/issues/50" TITLE : hardware version 14 BODY : latest vmware fusion uses hardware version 14. vfuse should use this version to reduce the would you like to upgrade this machine? message every time when booting up a vm.

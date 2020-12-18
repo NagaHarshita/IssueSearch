@@ -1,0 +1,1 @@
+ URL : "https://github.com/FNNDSC/gex/issues/3" TITLE : reset app state on logout BODY : log out then log in: data still there, even if login with different credentials!

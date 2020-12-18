@@ -1,0 +1,1 @@
+ URL : "https://github.com/sirius2k/spring-boot-dygraph-example/issues/3" TITLE : fix index page error BODY : currently, the graph is not showing when we open the index page in the browser. it should be fixed.

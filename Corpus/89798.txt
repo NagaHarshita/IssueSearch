@@ -1,0 +1,1 @@
+ URL : "https://github.com/WNPRC-EHR-Services/LabKeyDockerfile/issues/5" TITLE : remove dependence on perl BODY : i used perl initially for silly compatibility reasons. there is no reason that the entry script needs to be perl. it should be updated to be typescript.

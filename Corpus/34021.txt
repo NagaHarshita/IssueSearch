@@ -1,0 +1,1 @@
+ URL : "https://github.com/limelime/cust-live-deb/issues/164" TITLE : boot menu: autolabel BODY : cat /etc/ -release pretty_name= debian gnu/linux 8 jessie name= debian gnu/linux version_id= 8 version= 8 jessie id=debian home_url= http://www.debian.org/ support_url= http://www.debian.org/support bug_report_url= https://bugs.debian.org/

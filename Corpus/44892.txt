@@ -1,0 +1,1 @@
+ URL : "https://github.com/jackwilsdon/original-github-navigation-bar-color/issues/2" TITLE : fyi github broke this BODY : document.queryselector 'div.header.header-dark.header-logged-in' .classlist.remove 'header-dark' ; vm181:1 uncaught typeerror: cannot read property 'classlist' of null at <anonymous>:1:66 see https://github.com/victor-li/github-white-navbar for the fix

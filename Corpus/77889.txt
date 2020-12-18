@@ -1,0 +1,1 @@
+ URL : "https://github.com/chamons/ArenaGS/issues/31" TITLE : optimization pass needed BODY : how wasteful is the immutable gamestate? how many gcs are we running when you run across the room?

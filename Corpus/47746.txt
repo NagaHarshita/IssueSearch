@@ -1,0 +1,1 @@
+ URL : "https://github.com/runmyrobot/letsrobot_ios/issues/55" TITLE : promote new snapshots BODY : using the new_snapshot socket command we can see when a new snapshot has been submitted. we could put something in chat across the lines of a new snapshot has been submitted for trumpbot tapping on which would open a preview of it. low priority but would be nice to share them more!

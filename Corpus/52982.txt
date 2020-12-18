@@ -1,0 +1,1 @@
+ URL : "https://github.com/thredded/thredded/issues/642" TITLE : custom name for queue? BODY : i've noticed that the name of queue is set to default as at: autofollowandnotifyjob https://github.com/thredded/thredded/blob/e2ebb1e418894c65f8b884821e2d7be085af3715/app/jobs/thredded/auto_follow_and_notify_job.rb l5

@@ -1,0 +1,1 @@
+ URL : "https://github.com/pabryan/rough_metrics_heat_kernel_regularity/issues/7" TITLE : partial higher regularity BODY : in section 6 should be outline or just mention that partial higher regularity may be obtained on open sets where the metric is more regular? that is, we should still have smoothing effects of the heat kernel dependent on the regularity of the heat kernel.

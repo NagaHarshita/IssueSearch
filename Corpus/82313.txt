@@ -1,0 +1,1 @@
+ URL : "https://github.com/couchbaselabs/mobile-testkit/issues/1315" TITLE : add sg ce version support BODY : currently, the sg packages are hardcoded to install enterprise edition. we need a way to switch it to community edition.

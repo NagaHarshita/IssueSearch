@@ -1,0 +1,1 @@
+ URL : "https://github.com/COALAIP/js-coalaip/issues/1" TITLE : separate party class? BODY : @timdaub i forgot to mention this implementation has a party class, then i subclass person and organization from party. would like to hear your thoughts on this change.

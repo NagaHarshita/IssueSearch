@@ -1,0 +1,1 @@
+ URL : "https://github.com/Scifabric/random-scheduler/issues/4" TITLE : media type error BODY : this scheduler is creating problem while contributing.it is giving error as below in response of network moniter status: failed action: get target: project exception msg : wrapper takes at most 5 arguments 9 given status_code: 415 exception_cls: typeerror

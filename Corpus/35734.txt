@@ -1,0 +1,1 @@
+ URL : "https://github.com/mapbox/node-cpp-skel/issues/88" TITLE : external dep example BODY : demonstrate how to add header-only dependencies from mason. next actions - add gzip-hpp as a dependency - add docs cc @springmeyer @mapsam

@@ -1,0 +1,1 @@
+ URL : "https://github.com/sonph/gdaxcli/issues/19" TITLE : create a pypi package BODY : so we can do pip install gdaxcli alias gdaxcli='python -m gdaxcli'

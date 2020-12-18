@@ -1,0 +1,1 @@
+ URL : "https://github.com/Expecho/Self-Hosted-Asp.Net-WebHooks/issues/1" TITLE : can't resolve url BODY : when running both apps, and trying to send a message or register, it throws an error on the domain that is used machine-name.deheer-groep.nl changing it to localhost fixed it

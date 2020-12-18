@@ -1,0 +1,1 @@
+ URL : "https://github.com/lukauskas/bernoulli-mixture-model/issues/2" TITLE : inferring missing values BODY : is it possible to infer the probabilities for a test example where only part of the variables are actually observed?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/seedbloom/docker-storj/issues/1" TITLE : error: unknown option -c' BODY : you should update your docs seedbloom/storjshare-daemon -c should be seedbloom/storjshare-daemon start -c ;

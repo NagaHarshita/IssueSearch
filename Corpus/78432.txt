@@ -1,0 +1,1 @@
+ URL : "https://github.com/Codewars/codewars.com/issues/923" TITLE : profile honor percentile BODY : the honor percentile should have a '%' after the number but instead it is being shown as an ordinary number 98th instead of 98% .

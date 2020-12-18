@@ -1,0 +1,1 @@
+ URL : "https://github.com/usethesource/rascal/issues/1155" TITLE : fatal error in rascal> l BODY : just trying to reify a character class type: a-z works but l crashes and ! a-z prints a not implemented exception.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/DAPPERstats/Rstud/issues/2" TITLE : functions to write BODY : - summarizing knownness - summarizing kinship - summarizing gd - validation and qa/qc reports - basic demographic and genetic functions from poplink - to/from transfer table - handling pedigrees with unknowns pmx approach knownness vs certainty

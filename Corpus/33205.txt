@@ -1,0 +1,1 @@
+ URL : "https://github.com/ProfesseurPoire/troll_engine/issues/13" TITLE : add blueprint system BODY : a blueprint is like a prefab in unity. it stores informations needed to instantiate an entity. maybe a copy constructor is enough?

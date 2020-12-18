@@ -1,0 +1,1 @@
+ URL : "https://github.com/dmounty/jack_midi_experiments/issues/27" TITLE : add a sample manager BODY : add something to load and provide samples to the oscillators to avoid redundancy.

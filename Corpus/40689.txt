@@ -1,0 +1,1 @@
+ URL : "https://github.com/keystonejs/keystone-email/issues/29" TITLE : usage of fs.statsync BODY : hey, just been debugging keystone email and i discovered its using fs.statsync? i've always been discouraged to use synchronous api's in a node process like a webserver. this request will block the server, so i'm just wondering whats the reason for this package to use fs.statsync?

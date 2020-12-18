@@ -1,0 +1,1 @@
+ URL : "https://github.com/fog/fog-oraclecloud/issues/3" TITLE : compute is not connected BODY : somewhere between line 19 and 22 of lib/fog/oraclecloud.rb, you need to add: autoload :compute, file.expand_path '../oraclecloud/compute', __file__ or none of the methods will be found

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mrbellek/twitterbot/issues/10" TITLE : convert to oo: exactotweet BODY : old script: single-purpose/exactotweet.php new scripts: oo/exactotweet.{php|json|inc.php} note that this bot quotes tweets in its timeline i.e. quotes its followers , allow_mentions should be true.

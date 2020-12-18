@@ -1,0 +1,1 @@
+ URL : "https://github.com/Streetwalrus/android_usb_msd/issues/6" TITLE : handle runtime permissions BODY : followup to 2. the bug in question was fixed but we need to handle runtime permissions properly instead of asking the user to manually grant the permission.

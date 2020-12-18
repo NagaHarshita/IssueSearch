@@ -1,0 +1,1 @@
+ URL : "https://github.com/rsyslog/rsyslog/issues/1720" TITLE : mmanon ip-recognition bug BODY : mmanon currently recognizes ipv4-addresses with multiple dots at any point example: 172......1.0.....1 as correct and anoymizes them.

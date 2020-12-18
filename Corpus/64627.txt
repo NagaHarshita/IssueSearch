@@ -1,0 +1,1 @@
+ URL : "https://github.com/shinesolutions/aem-stack-manager/issues/6" TITLE : handle invalid messages BODY : stack manager - error - unrecognized token '$': was expecting 'true', 'false' or 'null' when invalid message - message stays on queue

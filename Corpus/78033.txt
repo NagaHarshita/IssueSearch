@@ -1,0 +1,1 @@
+ URL : "https://github.com/yuhaopp/fastjson/issues/4" TITLE : parse string text 异常 BODY : public static object parse string text 输入的字符串以 // 开始 抛出java.lang.stringindexoutofboundsexception异常

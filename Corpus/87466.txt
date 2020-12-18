@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpenBMP/docker/issues/11" TITLE : link state view ui issues BODY : couple of issues. 1. link state view not showing some of the te attributes even though those are in the database for example reserved bw/available bw 2. topology table not displaying any info please let me know what additional info is required.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/shimat/opencvsharp/issues/388" TITLE : build on arm BODY : i successfully compiled the opencv and opencvsharp sources for arm on raspberry pi 3. now how do i compile the dll to use it on windows? can someone help me?

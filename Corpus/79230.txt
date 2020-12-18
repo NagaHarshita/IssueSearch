@@ -1,0 +1,1 @@
+ URL : "https://github.com/yuriy-budiyev/code-scanner/issues/3" TITLE : scannerview layout error BODY : if codescannerview is not full screen, all child items are shifted down by parent top offset value. for example, if codescannerview is centered vertically or has top margin. workaround is to insert codescannerview into dummy linearlayout, to make top offset 0.

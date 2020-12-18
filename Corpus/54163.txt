@@ -1,0 +1,1 @@
+ URL : "https://github.com/QMCPACK/qmcpack/issues/180" TITLE : fix blockweight in rmc BODY : currently, blockweight dumped to file in scalar.dat is 0. this should be set equal to omp_num_threads mpi_processes num_steps_per_block. i'm not sure the cleanest way to do this yet though.

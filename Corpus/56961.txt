@@ -1,0 +1,1 @@
+ URL : "https://github.com/greole/owls/issues/17" TITLE : pandas version problem BODY : hi, i tried to pip install the package but it complains not finding pandas 0.17.1. it seems having newer versions doesn't satisfy the requirement and pip install pandas==0.17.1 does not find any matching distribution.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/StartZeroGnu/writers-zone/issues/14" TITLE : error: unknown tag 'seo' BODY : after following installation instructions got this when trying to serve the site: liquid exception: liquid syntax error line 6 : unknown tag 'seo'

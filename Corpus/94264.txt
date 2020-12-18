@@ -1,0 +1,1 @@
+ URL : "https://github.com/haiduc32/trip2map/issues/9" TITLE : build trips just from maps BODY : - if there are images with gpx exif we could build the trip out of those, plotting a guess route using google maps api - the user will have to add start date/time and end date/time

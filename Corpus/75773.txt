@@ -1,0 +1,1 @@
+ URL : "https://github.com/konsumer/tplink-lightbulb/issues/16" TITLE : identical params for off BODY : on/off should have same params, and documentation should be clearer for doing things like changing brightness with power off.

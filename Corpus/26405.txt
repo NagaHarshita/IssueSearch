@@ -1,0 +1,1 @@
+ URL : "https://github.com/karma-runner/karma-coverage/issues/321" TITLE : async await support BODY : karma coverage is not able to parse files that contain async/await i get a parsing error: error preprocessor.coverage : line 15: unexpected token function thanks

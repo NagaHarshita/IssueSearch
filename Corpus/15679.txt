@@ -1,0 +1,1 @@
+ URL : "https://github.com/cod3js/blogApp/issues/1" TITLE : fetch post action BODY : your fetchpost action function is an axios.post request instead of an axios.get request, fixing that may resolve the issues you had previously

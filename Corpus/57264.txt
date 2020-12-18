@@ -1,0 +1,1 @@
+ URL : "https://github.com/Applied-GeoSolutions/geokit/issues/115" TITLE : preview leads to error BODY : clicking preview results in a yellow error page: attributeerror at /builder/admin/pages/add/builder/custompage/2/preview/ 'wsgirequest' object has no attribute 'site'

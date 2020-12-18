@@ -1,0 +1,1 @@
+ URL : "https://github.com/WikiWatershed/rapid-watershed-delineation/issues/52" TITLE : create ami snapshot BODY : finalize the nhd folder structure on the new data volume copy existing drb data to new data volume create ami snapshot

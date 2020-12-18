@@ -1,0 +1,1 @@
+ URL : "https://github.com/slevomat/coding-standard/issues/192" TITLE : setup a 2.x branch BODY : hey. i would like to backport some new patches for the 2.4 release we still depend on codesniffer 2 but as there is no branch i don't have anywhere to target the pull request. would you be willing to maintain a branch for the 2.x series?

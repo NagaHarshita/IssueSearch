@@ -1,0 +1,1 @@
+ URL : "https://github.com/allanlw/hot-babe/issues/1" TITLE : geometry doesn't work BODY : launching hot-babe --geometry +0-0 should launch it bottom left of screen, but it gets displayed top left, regardless of the values entered... hot-babe --geometry -0-0 doesn't place it bottom right. bug in interpreting geometry?

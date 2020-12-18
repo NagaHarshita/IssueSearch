@@ -1,0 +1,1 @@
+ URL : "https://github.com/DudeWhoCode/kulay/issues/3" TITLE : change commands to flags BODY : change command design from $ kulay from us_logs to sg_logs to $ kulay -f sqs.us_logs to sqs.sg_logs commands doesn't suite the use case, so use flags

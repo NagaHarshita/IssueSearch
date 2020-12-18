@@ -1,0 +1,1 @@
+ URL : "https://github.com/MisterSquishy/nba-stats-stuff/issues/10" TITLE : code cleanup: make ./utils BODY : move all the js scripts besides app.js in there

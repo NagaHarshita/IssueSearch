@@ -1,0 +1,1 @@
+ URL : "https://github.com/brylyon/teacozy/issues/1" TITLE : relative path for links BODY : make sure you use relative paths for linking css, images, and other local files. absolute paths will only work on your computer. href= style.css

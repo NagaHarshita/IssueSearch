@@ -1,0 +1,1 @@
+ URL : "https://github.com/yourtion/Alfred_NumToCny/issues/7" TITLE : arg of res in source.py BODY : i think your code in source.py has a little problem. maybe the arg of res should be ret

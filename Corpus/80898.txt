@@ -1,0 +1,1 @@
+ URL : "https://github.com/randy-girard/app_perf_rpm/issues/7" TITLE : use route instead of url BODY : rails can provide route in form of controller action and sinatra in form of get /some/path/:id

@@ -1,0 +1,1 @@
+ URL : "https://github.com/nsmith5/Maxima.jl/issues/14" TITLE : unary operator failure BODY : unary expressions are incorrectly translated to maxima expressions example: julia julia> mexpr : -im %i issue is in the unparse ::expr logic it seems

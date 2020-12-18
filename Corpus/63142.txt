@@ -1,0 +1,1 @@
+ URL : "https://github.com/borgbackup/borg/issues/2103" TITLE : deprecated lz4 function BODY : while compiling borg 1.0.9 the following warning is given: lz4_compress_limitedoutput’ is deprecated: use lz4_compress_default instead the new function lz4_compress_default appeared in lz4 r129 1.7.0 .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/aspnetboilerplate/aspnetboilerplate/issues/2382" TITLE : change table names BODY : how to change table names in migration time? example change abpusers to users in created databse

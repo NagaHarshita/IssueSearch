@@ -1,0 +1,1 @@
+ URL : "https://github.com/phorgue/porousMultiphaseFoam/issues/2" TITLE : error on compilation BODY : when compiling with openfoam-5.0, the following error occurs: phasemodels/incompressiblephase/incompressiblephase.c:54:19: error: ‘class foam::ioobject’ has no member named ‘headerok’

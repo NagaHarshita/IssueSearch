@@ -1,0 +1,1 @@
+ URL : "https://github.com/Grsmto/simplebar/issues/82" TITLE : scroll to top BODY : setting up some data tables using jquery ui tabs , setting fixed height and using your scrollbar, question is on each tab click , can this scroll bar be reset to top of the div or table , currently on tab click the next tabs content is scrolled down to where previous tabs content was being used

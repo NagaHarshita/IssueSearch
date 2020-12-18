@@ -1,0 +1,1 @@
+ URL : "https://github.com/ebanx/woocommerce-gateway-ebanx/issues/317" TITLE : allow local currency BODY : expected behavior and actual behavior. get the local currency from woocommerce settings options and send to the pay services.

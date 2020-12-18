@@ -1,0 +1,1 @@
+ URL : "https://github.com/joshuamorton/tut/issues/19" TITLE : add support for distutils BODY : we might want tut publish to run setup.py register -r or similar

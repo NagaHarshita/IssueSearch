@@ -1,0 +1,1 @@
+ URL : "https://github.com/sidneyharmon/XBX-App/issues/1" TITLE : crash on app start BODY : this is due to the prototype cell not having a reuseid. i added the one the code is expecting directorycell and it loads.

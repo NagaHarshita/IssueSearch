@@ -1,0 +1,1 @@
+ URL : "https://github.com/JuliaSmoothOptimizers/Krylov.jl/issues/17" TITLE : changes on blas BODY : not sure which changes yet, but it stopped working.

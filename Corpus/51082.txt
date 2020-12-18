@@ -1,0 +1,1 @@
+ URL : "https://github.com/bokeh/bokeh/issues/6899" TITLE : add pips to nouislider BODY : as discussed in 6861, discussion about adding pips to the nouislider interface: @bryevdv : a pr to add support for a pips dict to existing slider just pass as-is to nouislider

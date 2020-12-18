@@ -1,0 +1,1 @@
+ URL : "https://github.com/OstapL/wdev/issues/15" TITLE : popup after subscription BODY : - показывать после подписки нажатия по кнопке send попап с текстом thank you for subscription to our news. и кнопкой ok после нажатия по ней закрывается попап . - после подписки на новости все поля формы подписки очищаются от значений. - @mariakravchuk, думаю, тут нужен будет дизайн.

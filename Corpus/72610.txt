@@ -1,0 +1,1 @@
+ URL : "https://github.com/cdli-gh/morphology-pre-annotation-tool/issues/12" TITLE : can't learn from folder? BODY : apparently the pre annotation tool will now only learn from a file, not from a folder. do we need to use the --no-output switch for it to work?

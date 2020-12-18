@@ -1,0 +1,1 @@
+ URL : "https://github.com/pretalx/pretalx/issues/240" TITLE : add scheduling mode BODY : we already have the cool offline-scheduling cards – let's add a qr code to them, leading to a very mobile friendly website that just asks for the room , day and time that talk is supposed to take place, nothing more.

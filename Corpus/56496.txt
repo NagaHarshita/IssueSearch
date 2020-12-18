@@ -1,0 +1,2 @@
+ URL : "https://github.com/FashionFreedom/Seamly2D/issues/108" TITLE : new export: 3d printer BODY : _from @sconklin on april 11, 2017 15:21_ originally reported by: _brig bitbucket: _brig https://bitbucket.org/_brig , github: unknown ---------------------------------------- create an api to convert valentina patterns into gcode, .stl, and other output for 3d printer. ----------------------------------------
+- bitbucket: https://bitbucket.org/dismine/valentina/issue/661 _copied from original issue: valentina-project/vpo2 661_

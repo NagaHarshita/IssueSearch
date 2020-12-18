@@ -1,0 +1,1 @@
+ URL : "https://github.com/pnegre/python-whiteboard/issues/19" TITLE : tagging of versions? BODY : for packaging this to become a regular part of linux distributions, having a versioning scheme is required. it would be sufficient to tag releases here on github, then distributions could just reference the tarball for the tagged release. would that be possible?

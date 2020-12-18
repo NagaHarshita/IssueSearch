@@ -1,0 +1,1 @@
+ URL : "https://github.com/EurekaCommunity/SplitRow/issues/3" TITLE : keyboard hides splitrow BODY : as soon as the keyboard gets visible, the splitrow should be moved if necessary to avoid having the keyboard hiding the splitrow .

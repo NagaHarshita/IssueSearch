@@ -1,0 +1,1 @@
+ URL : "https://github.com/Uncommon/Xit/issues/303" TITLE : lazy history loading BODY : when initially loading a repository, start by loading only a certain number of commits. load more as needed, such as when scrolling.

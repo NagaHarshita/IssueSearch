@@ -1,0 +1,1 @@
+ URL : "https://github.com/UPC/ravada/issues/222" TITLE : manage user permissions BODY : create a list of permissions, set a default for all the users. grant and disable them.

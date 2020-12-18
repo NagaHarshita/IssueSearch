@@ -1,0 +1,1 @@
+ URL : "https://github.com/regexpressyourself/passman/issues/22" TITLE : check python version BODY : add a check for python3 at top of __main__

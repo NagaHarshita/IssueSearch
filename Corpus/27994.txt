@@ -1,0 +1,1 @@
+ URL : "https://github.com/enforcer574/smashclub/issues/65" TITLE : event waiting lists BODY : add the option to set a max capacity for events, and move overflow signups to a waiting list. waitlisted signups are moved to the main list when someone drops out.

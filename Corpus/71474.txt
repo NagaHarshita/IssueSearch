@@ -1,0 +1,1 @@
+ URL : "https://github.com/mapsme/cf_audit/issues/10" TITLE : add markercluster plugin BODY : http://audit.osmz.ru/browse/walmart is very slow due to 4k points. clustering should solve this.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/chreul/LAREX/issues/73" TITLE : load existing pagexml BODY : when a new page is loaded and the input folder contains the matching pagexml file the comprised segmentation should be loaded and displayed. if the segmentation contains regions which haven't been defined yet the user should be warned and be able to add the required regions right away.

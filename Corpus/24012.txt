@@ -1,0 +1,1 @@
+ URL : "https://github.com/linkedin/WhereHows/issues/878" TITLE : s3 buckets support BODY : any recommendation on how i could set up a connection to a s3 bucket for data catalog in wherehows?

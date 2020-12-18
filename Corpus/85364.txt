@@ -1,0 +1,1 @@
+ URL : "https://github.com/klausweiss/python-aui/issues/1" TITLE : explain the __new__ magic BODY : python def __new__ cls, ui, title=none : return object.__new__ sys.modules 'aui' .app may be not clear to everybody

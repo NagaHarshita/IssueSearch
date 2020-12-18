@@ -1,0 +1,1 @@
+ URL : "https://github.com/100health/redox-rabbit/issues/20" TITLE : review test coverage BODY : specifically, for promises. per @tengbretson's comment here: https://github.com/100health/redox-rabbit/pull/16 pullrequestreview-33263599

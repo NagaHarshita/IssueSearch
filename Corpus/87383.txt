@@ -1,0 +1,1 @@
+ URL : "https://github.com/hilongjw/vue-lazyload/issues/132" TITLE : lazy load from data array BODY : how can i use lazy load in a v-for loop? <div class= mdl-cell v-for= data in results > <div class= mdl-card__blank addtracks mdl-card--expand mdl-color--teal-300 v-lazy:background-image= results.imgurl ></div> </div>

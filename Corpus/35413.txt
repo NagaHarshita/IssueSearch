@@ -1,0 +1,1 @@
+ URL : "https://github.com/aozhimin/iOS-Cracked-Apps/issues/2" TITLE : dump armv7 的方法 BODY : 64位系统兼容armv7和arm64，如果应用只支持armv7就可以dump出armv7的程序 使用lipo移除arm64架构即可 lipo -remove arm64 -output 输出路径 文件路径 替换文件安装就可以运行砸壳 之后也可以用lipo将armv7和arm64架构的程序合并 这样就可以dump出完整的支持armv7和arm64的砸壳后的程序

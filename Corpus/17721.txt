@@ -1,0 +1,1 @@
+ URL : "https://github.com/raydf/smtp.cr/issues/9" TITLE : release a version BODY : hi @raydf we are using this shard on amber framework https://github.com/amberframework/quartz-mailer/blob/master/shard.yml l15 , please, can you create a first tag/version to avoid unexpected changes on master? 😄 thank you for this shard!

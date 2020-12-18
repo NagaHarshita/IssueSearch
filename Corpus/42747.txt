@@ -1,0 +1,1 @@
+ URL : "https://github.com/golemfactory/golem/issues/848" TITLE : calculate payment fee BODY : we have payments in gnt and fees in eth. but we also have gnt/eth/usd price oracle. use the oracle to calculate the fee as usd/eth / usd/gnt . we should also store usd prices in the database.

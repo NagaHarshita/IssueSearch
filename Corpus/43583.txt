@@ -1,0 +1,1 @@
+ URL : "https://github.com/karlsjohnson/f1-3-c2p1-colmar-academy/issues/3" TITLE : css naming convention BODY : in css the convention is to split words with '-' or sometimes '_' not with camelcase. ex: banner-info-section instead of bannerinfosection https://github.com/karlsjohnson/f1-3-c2p1-colmar-academy/blob/master/capstone/index.html l34-l37

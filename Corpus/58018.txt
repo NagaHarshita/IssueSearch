@@ -1,0 +1,1 @@
+ URL : "https://github.com/linode/manager/issues/1975" TITLE : review sharing wording BODY : sharing is only available within linodes in the same region. -> within s/b for or between

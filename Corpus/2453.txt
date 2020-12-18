@@ -1,0 +1,1 @@
+ URL : "https://github.com/squeemishly/workout-tracker/issues/17" TITLE : add new lifts BODY : as an admin, when i visit '/lifts', and i see form to add a new lift, and i fill in the name, and i fill in a body area, and i fill in a description, and i fill in url for a video, and i click on create lift, then i should see that lift added to the list of lifts.

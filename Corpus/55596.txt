@@ -1,0 +1,1 @@
+ URL : "https://github.com/joscelyn/hetic-p2020-06/issues/12" TITLE : js > queryselector all BODY : for a better lisibility, use document.queryselector https://github.com/joscelyn/hetic-p2020-06/blob/7b3547ef3fe798ee4747d229247c5ab76c9b5774/src/js/presentslider.js l20

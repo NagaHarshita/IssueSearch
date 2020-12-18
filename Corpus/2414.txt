@@ -1,0 +1,1 @@
+ URL : "https://github.com/alvsanand/spark-generic-connector/issues/1" TITLE : add ftp modes BODY : nowadays ftpsgcconnector is only working in local passive mode. it is logical that it would work in passive and active modes. explanation: http://www.jscape.com/blog/bid/80512/active-v-s-passive-ftp-simplified

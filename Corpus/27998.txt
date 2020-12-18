@@ -1,0 +1,1 @@
+ URL : "https://github.com/nk773/AzureML_BESApp/issues/1" TITLE : every job is failed BODY : every time i run azureml_besapp.java i got this return from besstartjob http/1.1 204 no content in batch request log at web services portal every job's duration is only 2 seconds

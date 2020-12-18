@@ -1,0 +1,1 @@
+ URL : "https://github.com/zmap/zdns/issues/121" TITLE : zdns needs a version BODY : we currently have no notion of software version. we should add one. version should be output in help version should be output via a new --version flag version should be output in metadata.

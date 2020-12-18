@@ -1,0 +1,1 @@
+ URL : "https://github.com/silx-kit/pyFAI/issues/740" TITLE : distortion and mask BODY : apparently the mask is not used when doing distortion correction

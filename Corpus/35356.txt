@@ -1,0 +1,1 @@
+ URL : "https://github.com/uber-go/dig/issues/57" TITLE : don't recover panics BODY : while it's true reflection-based code can panic quite abit - recoving in dig means also recovering panics located in user-land code - which is not desirable. thoughts? continued discussion from 51

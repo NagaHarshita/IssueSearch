@@ -1,0 +1,1 @@
+ URL : "https://github.com/sugarlabs/analyze/issues/1" TITLE : crashes if no networks BODY : tested on ubuntu 16.04 sucrose. it appears that this version of sugar does not provides a network link. the analyze activity crashes with no report in the log.

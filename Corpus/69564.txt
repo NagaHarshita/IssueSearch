@@ -1,0 +1,1 @@
+ URL : "https://github.com/alyldas/Markov/issues/3" TITLE : the problem of infinity BODY : at the moment there is no check for the infinite rule . it's necessary to implement.

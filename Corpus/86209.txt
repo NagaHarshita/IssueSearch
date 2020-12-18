@@ -1,0 +1,1 @@
+ URL : "https://github.com/romainbrette/holypipette/issues/25" TITLE : hang-ups with qt livefeed BODY : the camera window still hangs up some times, without any error displayed. the whole qt thing seems to be frozen clicks don't trigger events any more .

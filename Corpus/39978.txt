@@ -1,0 +1,1 @@
+ URL : "https://github.com/Raizlabs/BonMot/issues/281" TITLE : support stroked text BODY : i don't know whether there is a big demand for these signs point to no , but i wanted to log it here in case someone wants it. specifically, we should use an enum or something to abstract over this nonsense: https://developer.apple.com/library/content/qa/qa1531/_index.html.

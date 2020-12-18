@@ -1,0 +1,1 @@
+ URL : "https://github.com/hadley/rlang/issues/74" TITLE : get rid of uqf ? BODY : now that quosures have an s3 class, we'd guard all unquoted bare formulas.

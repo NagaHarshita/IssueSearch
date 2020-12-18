@@ -1,0 +1,1 @@
+ URL : "https://github.com/fossasia/susi_iOS/issues/42" TITLE : add the launch screen ui BODY : currently the launchscreen.storyboard is an empty view. populate it with the same uicolor as in the app with the logo in the middle. also, to provide a better ui/ux experience add an animation where the logo in the middle animates to the top and then the text fields appear.

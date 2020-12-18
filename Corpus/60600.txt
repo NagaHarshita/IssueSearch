@@ -1,0 +1,1 @@
+ URL : "https://github.com/yagop/node-telegram-bot-api/issues/436" TITLE : add .on to the api docs BODY : mybot.on is not mentioned in api.md, and it's a very useful api. there are some useful notes in usage.md, but i was expecting api.md to list all the functions defined on a bot instance.

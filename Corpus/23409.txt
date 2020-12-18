@@ -1,0 +1,1 @@
+ URL : "https://github.com/cgi-digital/DigitalMarketplaceAlerter/issues/42" TITLE : pie chart too busy BODY : with lots of customers only having 1 entry in dos, this makes the pie chart contain many slices. we should aggregate all opportunities below a threshold into an others slice.

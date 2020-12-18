@@ -1,0 +1,1 @@
+ URL : "https://github.com/tsudot/cocobolo/issues/1" TITLE : write test cases BODY : mock services with different kind of response and latency. - http 200 ok minimum latency - http 4xx without retry - http 4xx with retry - http 5xx without retry - http 5xx with retry - http timeout

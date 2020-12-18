@@ -1,0 +1,1 @@
+ URL : "https://github.com/Djangoum/TechCommunity/issues/5" TITLE : complete sso functionality BODY : · login/logout expecting review · register expecting review · password reset to do · account confirmation to do · change identityserver4 storage from memory to database

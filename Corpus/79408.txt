@@ -1,0 +1,1 @@
+ URL : "https://github.com/Candihub/pixel/issues/15" TITLE : setup a staging instance BODY : purpose we need to setup a staging instance of pixel. proposal - must be accessible via: staging.pixel.domain.tld - use containers or vms - must be provisionable via ansible https://www.ansible.com

@@ -1,0 +1,1 @@
+ URL : "https://github.com/alsatian-test/alsatian/issues/372" TITLE : custom fail messages BODY : allow user defined failure messages to override the default alsatian e.g. typescript expect 2 + 2 .tobe 5 .tofailwith you got the answer wrong ;

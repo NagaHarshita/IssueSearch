@@ -1,0 +1,1 @@
+ URL : "https://github.com/liquiddandruff/FBReaderJ/issues/2" TITLE : building on a mac BODY : any advice on getting this to work on a mac? i imported it, did a gradle sync and rebuilt. it runs on my emulator, but i get pop up errors here and there. also, the only function i see working is browsing the file-system but not being able to load an ebook. thanks in advance.

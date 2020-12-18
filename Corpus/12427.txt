@@ -1,0 +1,1 @@
+ URL : "https://github.com/jscrambler/gulp-jscrambler/issues/5" TITLE : peer dep missing BODY : module gulp-jscrambler depends on jscrambler , which depends on grunt-contrib-clean , which depends on grunt . command npm shrinkwrap fails when grunt is not installed. who would want grunt, when installing gulp plug-in?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpenMapper/OpenMapper/issues/19" TITLE : ci for ros BODY : add ros ci to the travis ci matrix

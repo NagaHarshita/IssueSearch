@@ -1,0 +1,1 @@
+ URL : "https://github.com/edushifts/book-voyage/issues/3" TITLE : translate to brazilian BODY : once we have the first english version ready, all texts should be translated to brazilian. see here https://docs.djangoproject.com/en/1.11/topics/i18n/translation/ what the workflow is.

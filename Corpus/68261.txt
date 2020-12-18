@@ -1,0 +1,1 @@
+ URL : "https://github.com/NixOS/nixpkgs/issues/31304" TITLE : request for mypy update BODY : issue description there seems to have been lots of improvements to latest mypy compared to the current nixpkgs version, for instance a cool new features aka typeddict & forward declarations see http://mypy-lang.blogspot.jp/2017/10/mypy-0540-released.html there is a new dependency too.

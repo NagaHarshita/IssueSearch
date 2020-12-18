@@ -1,0 +1,1 @@
+ URL : "https://github.com/deptofdefense/move.mil/issues/133" TITLE : customer service page BODY : can you increase the margin between the label/icon local property office, technical help desk, etc and the content? to do this it looks like we need to change: width-three-fourths{ width:65% and then increase width-one-fourth margin-right: 8%

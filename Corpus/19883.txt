@@ -1,0 +1,1 @@
+ URL : "https://github.com/valor-software/ng2-charts/issues/813" TITLE : angular 4 support? BODY : reproduction of the problem if you try to install angular 4 while ng2-charts is installed it will say it has a dependency on @angular/common^2.3.0

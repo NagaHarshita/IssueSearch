@@ -1,0 +1,1 @@
+ URL : "https://github.com/Dyvil/Dyvil/issues/321" TITLE : class literals in repl BODY : class literals are currently completely unusable in the repl. they always return null instead of the class instance.

@@ -1,0 +1,2 @@
+ URL : "https://github.com/cockpit-project/cockpit/issues/6519" TITLE : image refresh for centos-7 BODY : image creation for centos-7 in process on cockpit-tests-hl9bn.
+log: http://fedorapeople.org/groups/cockpit/logs/refresh-centos-7-2017-05-13/

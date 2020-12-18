@@ -1,0 +1,1 @@
+ URL : "https://github.com/jeradgodreault/MartinDown/issues/8" TITLE : add inline link support BODY : link /uri title = <a href= /uri title= title >link</a> link /uri = <a href= /uri >link</a> http://spec.commonmark.org/0.27/ links

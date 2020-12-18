@@ -1,0 +1,1 @@
+ URL : "https://github.com/Lorti/artur-web-interface/issues/8" TITLE : tween can be interrupted BODY : if you swipe way to fast and often, the tween can be interrupted and the wheel stops at a weird position.

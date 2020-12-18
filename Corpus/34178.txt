@@ -1,0 +1,7 @@
+ URL : "https://github.com/NSI-IT/AUG-DEADDROP/issues/3" TITLE : ca > change password BODY : as a user i would like to change my password so that i can keep my account secure. - verify that i can set a new password anytime i need to.
+- verify that i need to confirm old password.
+- verify that i will enter a new password.
+- verify that i will again confirm the new password .
+- verify that new password and confirm password fields should match.
+- verify that user should be forced to enter strong password so that it cant be easily hacked. - verify that when changing a password we should enforce user to use strong password which is a combination of letters, number, special characters and should be atleast 6 characters long. - verify that it should allow letters in both uppercase and lowercase.
+- verify that as user keeps adhering the criteria; app will keep confirming this to user.

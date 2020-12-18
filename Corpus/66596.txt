@@ -1,0 +1,1 @@
+ URL : "https://github.com/kitze/sizzy/issues/68" TITLE : native electron app 0.2 BODY : - figure out a smooth way for users to get updates - release for windows/linux - advertise dmg/exe on home page and header - take a full page screenshot - sync scroll - sync navigation on url change - take screenshots of all websites - better solution for requiring fs etc.

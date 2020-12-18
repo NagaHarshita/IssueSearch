@@ -1,0 +1,1 @@
+ URL : "https://github.com/Leonidas-from-XIV/node-xml2js/issues/401" TITLE : build xml with attributes BODY : hello ! how can we build xml with attributes? very short manual about builder https://github.com/leonidas-from-xiv/node-xml2js xml-builder-usage does not cover this question. thanks

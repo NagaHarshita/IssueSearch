@@ -1,0 +1,1 @@
+ URL : "https://github.com/vert-x3/vertx-redis-client/issues/90" TITLE : support for unix sockets BODY : hey guys, we've been using vertx-redis-client for a while in production now, and so far everything is great. we are currently exploring libraries that provide support for connecting to redis via unix sockets. any plans on providing this feature in the near future?

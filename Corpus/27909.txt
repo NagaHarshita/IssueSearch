@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpenNMT/OpenNMT/issues/453" TITLE : error in evaluation BODY : there is an error in the evaluation of the english german training: ~/torch/install/bin/luajit: ./tools/utils/normalizer.lua:20: attempt to concatenate field 'cmd' a nil value any thoughts on 'cmd'? thanks!

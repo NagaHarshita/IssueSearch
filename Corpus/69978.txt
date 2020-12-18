@@ -1,0 +1,1 @@
+ URL : "https://github.com/RhoInc/query-overview/issues/30" TITLE : update default settings BODY : add the following: - include site in group by control - include site and marking group as standard filters.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/anonydog/anonydog/issues/2" TITLE : comments don't get echoed BODY : the bot could echo comments on the pull request pages back and forth. that would allow the contributor and the upstream team to talk without breaking anonymity.

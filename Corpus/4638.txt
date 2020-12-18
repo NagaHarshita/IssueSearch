@@ -1,0 +1,1 @@
+ URL : "https://github.com/uniquejava/blog/issues/148" TITLE : es6 jsx tricks BODY : 用map代替for循环 jsx ...array totalstars .map n, i => <star key={i} selected={i<starsselected} onclick={ => this.change i+1 } />

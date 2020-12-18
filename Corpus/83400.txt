@@ -1,0 +1,1 @@
+ URL : "https://github.com/bsiddiqui/bookshelf-modelbase/issues/59" TITLE : canceling timestamp field BODY : whenever i create new model it requires table to have created_at and updated_at fields. most of tables does not have these fields and i do not need them. is it possible to cancel created_at and updated_at fields.

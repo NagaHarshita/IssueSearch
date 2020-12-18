@@ -1,0 +1,1 @@
+ URL : "https://github.com/MoveOnOrg/mop-frontend/issues/77" TITLE : fix lint errors BODY : 75 allowed us to introduce a lot of lint errors 478 , and we should fix those so automated tests accurately reflect whether or not prs are introducing new errors.

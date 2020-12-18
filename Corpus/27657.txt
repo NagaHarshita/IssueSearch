@@ -1,0 +1,1 @@
+ URL : "https://github.com/loophac/projectsneak/issues/1" TITLE : dos vulnerability 1 BODY : server accepts all connections through designated ports. even ones with no gps data being sent from client. solution to the problem is tightening port range and verifying each device connecting is sending its gps data through client else a connection will be refused.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/collective/collective.elasticsearch/issues/36" TITLE : nested query support BODY : would be nice if nested query is supported by this product. - https://www.elastic.co/guide/en/elasticsearch/reference/2.4/query-dsl-nested-query.html

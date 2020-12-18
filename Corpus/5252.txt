@@ -1,0 +1,1 @@
+ URL : "https://github.com/Shivawkes/PublicAudio/issues/1" TITLE : mp3 won't load BODY : http error load failed with status 404. load of media resource - for some reason the path to the mp3 file in playtrack.js is wrong todo: only load on login screen select random track from library

@@ -1,0 +1,1 @@
+ URL : "https://github.com/vivex/cPanel4j/issues/16" TITLE : not connect to port BODY : when install the plugin and create a instance i not have success on open http://mywebsite.com:port this link does work.

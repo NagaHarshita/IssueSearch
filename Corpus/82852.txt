@@ -1,0 +1,1 @@
+ URL : "https://github.com/SiLab-Bonn/testbeam_analysis/issues/68" TITLE : autobinning of histograms BODY : the autobinning of histograms can create too many bins that memory errors occur. this has to be prevented somehow. discussion in 63

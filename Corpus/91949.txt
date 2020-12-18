@@ -1,0 +1,1 @@
+ URL : "https://github.com/kemayo/leech/issues/10" TITLE : use a configurable logger BODY : i'd be happier if everything worked as a module without printing anything, and output all came from leech.py deliberately enabling it.

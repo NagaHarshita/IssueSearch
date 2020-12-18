@@ -1,0 +1,1 @@
+ URL : "https://github.com/SummerCamp17/Gymkhana-Nominations/issues/14" TITLE : newline in description BODY : as @yashsriv pointed out, the description does not allow linebreaks to occur while rendering the template. on googling , possible suggestion was using {{ nomi_description|linebreaks }} . but django is not able to recognize it. probably something to do with the version.

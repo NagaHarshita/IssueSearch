@@ -1,0 +1,24 @@
+ URL : "https://github.com/Zimmi48/bugzilla-test/issues/1022" TITLE : incompleteness of tauto BODY : note: the issue was created automatically with bugzilla2github tool bugzilla bug id: 27
+date: 2001-06-01 15:13:16 +0200
+from: laurent.gottely@francetelecom.com
+to: last updated: 2001-06-01 15:13:16 +0200 bugzilla comment id: 1472
+date: 2001-06-01 15:13:16 +0200
+from: laurent.gottely@francetelecom.com full_name: laurent gottely
+version: 7.0
+os: linux submission from: machine107.cnet.fr 193.49.124.107 here are two examples of propositions which should be decided by tauto and
+which used to be decided by tauto in coq v6.3.1 : lemma bug_tauto : a,b:prop a->b->false ->false -> b->false -> false.
+tauto. => tauto failed. lemma bug_tauto_2 : a,b,c:prop c->false ->a -> b->false ->a ->false ->false -> c->b->false ->false ->false -> ~a->a.
+tauto. => tauto failed. bugzilla comment id: 1474
+date: 2001-06-01 17:55:49 +0200
+from: laurent.gottely@francetelecom.com delahaye@jurancon.inria.fr david delahaye > here are two examples of propositions which should be decided by tauto and
+> which used to be decided by tauto in coq v6.3.1 : this bug has been fixed actually, the two bugs were due to the same
+problem . thank you for your report. david. ===============================================================================
+david delahaye <email>: david.delahaye@inria.fr
+<laboratory>: the coq project <domain>: proofs
+<adress>: inria-rocquencourt domaine de voluceau bp105 78153 le chesnay cedex france
+<tel>: 33 - 0 1 39 63 57 53
+<fax>: 33 - 0 1 39 63 56 84
+<url>: http://pauillac.inria.fr/~delahaye
+=============================================================================== computers are like air conditioners - they stop working properly when you open windows. bugzilla comment id: 1473
+date: 2007-07-04 17:02:50 +0200
+from: laurent.gottely@francetelecom.com problem fixed by another bug fix

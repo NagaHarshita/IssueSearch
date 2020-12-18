@@ -1,0 +1,1 @@
+ URL : "https://github.com/bwsw/cloudstack-ui/issues/693" TITLE : firewall rule creation bug BODY : 1. add new firewall rule to the security group 2. close the dialog 3. open it again no created firewall rules are shown.

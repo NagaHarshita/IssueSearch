@@ -1,0 +1,1 @@
+ URL : "https://github.com/pllk/cphb/issues/13" TITLE : page 97: missing '-' BODY : on the first page of chapter 10, the range of int is stated as being from 2^{n-1} to 2^{n-1}-1. the same range is mentioned twice, and both of them are missing '-' from the lower bound.

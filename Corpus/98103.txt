@@ -1,0 +1,1 @@
+ URL : "https://github.com/clemence-veronneau/prj-rev-bwfs-dasmoto/issues/3" TITLE : important - link placement BODY : https://github.com/clemence-veronneau/prj-rev-bwfs-dasmoto/blob/master/dasmoto's%20arts%20%26%20crafts/index.html l2 the link tag should be between the two head tags. pop it right under the title before head is closed and you should be all set.

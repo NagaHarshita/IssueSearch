@@ -1,0 +1,1 @@
+ URL : "https://github.com/ngbolt/ng-bolt/issues/3" TITLE : add tools page content BODY : add content for tools page listing the dev tools for ngbolt, brief descriptions and instructions on how to use, and links to respective repos. uncomment footer link in indexpage.template after content added

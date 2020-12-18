@@ -1,0 +1,1 @@
+ URL : "https://github.com/skycocker/chromebrew/issues/1279" TITLE : protobuf sha256 mismatch BODY : the sha256 hash for the source for protobuf doesn't match the hash of the actual download at the url stated in the protobuf.rb file.

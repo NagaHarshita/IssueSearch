@@ -1,0 +1,1 @@
+ URL : "https://github.com/Hopac/Hopac/issues/154" TITLE : into doesn't work BODY : ➜ hopac git: master ./run tests restoring dependencies msbuild : error msb1011: specify which project or solution file to use because this folder contains more than one project or solution file.

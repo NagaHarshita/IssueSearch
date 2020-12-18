@@ -1,0 +1,1 @@
+ URL : "https://github.com/NRGI/resource-project-data/issues/40" TITLE : add back button BODY : to revert back to previous current$current flow should be: click any action -> save current as temp -> do action which changes current back button: change temp to current thereby reversing last action

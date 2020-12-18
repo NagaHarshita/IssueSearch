@@ -1,0 +1,1 @@
+ URL : "https://github.com/yas-online/UE4-DedicatedServer/issues/2" TITLE : thread safe problem BODY : i use your plugin,and i find that you call gengine->exec gengine->getworld , m_sinput in your thread!but gengine->getworld almost run in winmain thread!

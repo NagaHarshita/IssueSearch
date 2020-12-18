@@ -1,0 +1,1 @@
+ URL : "https://github.com/HelenFoster/KanjiVocab/issues/4" TITLE : make a settings gui BODY : we need a settings gui so basic users don't have to edit a config file. check what note types and fields are available, and provide drop-down menus for the user to choose these. depends on 3

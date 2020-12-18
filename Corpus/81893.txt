@@ -1,0 +1,1 @@
+ URL : "https://github.com/mgcrea/angular-strap/issues/2248" TITLE : accessibility - bs-select BODY : the select element, and it's dropdown aren't accessible with the keyboard, and the narrator doesn't read the content of the drop-down correctly it doesn't read the items inside the dropbox .

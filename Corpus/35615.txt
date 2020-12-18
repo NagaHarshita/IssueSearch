@@ -1,0 +1,1 @@
+ URL : "https://github.com/brendan-r/boxr/issues/54" TITLE : error while fetching BODY : hi i am receiving this error while fetching files error in class out <- boxr_object_list : attempt to set an attribute on null any idea on what went wrong?

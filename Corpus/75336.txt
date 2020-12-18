@@ -1,0 +1,1 @@
+ URL : "https://github.com/exzz/netatmo-api-go/issues/3" TITLE : gust strength is missing BODY : hello, as i see gust strength is missing.. is this line correct: guststrength int32 json: guststrengthfloat32,omitempty ? or better this: guststrength int32 json: guststrength,omitempty ?

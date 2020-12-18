@@ -1,0 +1,1 @@
+ URL : "https://github.com/funilrys/funceble/issues/29" TITLE : no date .ua domains BODY : problem there's a whois server registered to the iana route database zone https://www.iana.org/domains/root/db for all .ua domains. but the script can't get the date of expiration. conclusion that make all .ua domains fails with whois.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/telegraf/telegraf-flow/issues/11" TITLE : how to leave wizardscene? BODY : i've tried different ways and it's not works. js const wizardone = wizardscene ... .hears /end/gi, leave ; // not works what the right way to do it?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/brianhouse/braid/issues/8" TITLE : rate doesn't oscillate BODY : thread.rate = osc does not work as expected -- ie, the internal phase adjustment doesn't oscillate

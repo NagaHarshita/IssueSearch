@@ -1,0 +1,1 @@
+ URL : "https://github.com/majakudlicka/week8AM/issues/43" TITLE : consistent error handling BODY : especially here: https://github.com/majakudlicka/week8am/blob/master/src/routes/welcome.js l28 deal with the error and return here then we can remove our else and reduce indentation

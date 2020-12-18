@@ -1,0 +1,1 @@
+ URL : "https://github.com/dedis/cothority/issues/896" TITLE : skipchains don't update BODY : now: when a skipchain-node drops out and misses some blocks, he won't update the missing blocks. wanted: when a skipchain-node starts up, he verifies if there are new blocks available.

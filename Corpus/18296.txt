@@ -1,0 +1,1 @@
+ URL : "https://github.com/h2o/picotls/issues/90" TITLE : support draft 22? BODY : the readme says: ~~~ at the moment, the library implements draft 18 of the specification, including support 0-rtt resumption using psk or psk-dhe. ~~~ is there a plan to support draft 22?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/SwiftWeekly/swiftweekly.github.io/issues/175" TITLE : author page improvements BODY : just a few ideas: - add avatars? maybe via gravatar? - add info about how to become a contributing author - link to the authors somewhere maybe in the footer https://github.com/swiftweekly/swiftweekly.github.io/blob/master/_includes/footer.html ?

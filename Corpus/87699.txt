@@ -1,0 +1,1 @@
+ URL : "https://github.com/falconmick/starward/issues/24" TITLE : make code more consistant BODY : examples: 1. destructuing code via arguments in function rather than after the arguments somefunc {myarg} {} vs somefunc args { const { myargs } = args; }

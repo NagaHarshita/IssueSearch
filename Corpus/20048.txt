@@ -1,0 +1,1 @@
+ URL : "https://github.com/comichron-data/longbox/issues/6" TITLE : basic touch events BODY : tap left goes to previous page tap right goes to next page tap in middle shows toolbar and page counter no swipe support yet

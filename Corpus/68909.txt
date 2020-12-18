@@ -1,0 +1,1 @@
+ URL : "https://github.com/RestComm/load-balancer/issues/95" TITLE : smpp reconnection issue BODY : lb is creating more than one bind when reconnects to nexmo smpp service. ticket 33968

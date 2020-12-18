@@ -1,0 +1,1 @@
+ URL : "https://github.com/gabrielreisn/react-todo-app/issues/6" TITLE : use more than one branch BODY : you're doing great, but you are mixing different commits on the same pr, like this one: https://github.com/gabrielreisn/react-todo-app/pull/3. try to create create new branches from master, before making any changes.

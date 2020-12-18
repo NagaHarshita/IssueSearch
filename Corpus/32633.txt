@@ -1,0 +1,1 @@
+ URL : "https://github.com/CodeDoesGood/Mercury-Web/issues/46" TITLE : volunteer home page BODY : create frontend endpoints for contracting the back end for getting and dismissing notifications and announcements for authenticated users create backend routes for getting and removing notifications for authenticated users create the reducers for the notifications and announcements.

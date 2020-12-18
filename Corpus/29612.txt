@@ -1,0 +1,1 @@
+ URL : "https://github.com/OBattler/86Box/issues/130" TITLE : mca ps/2 are broken BODY : tested with r805 : black screen at start even with vga only adapter. pclog stops here : ps2_read: port=0096 temp=7a ps2_write: port=0096 val=00 f000:03d8 tested fine with r749, failed since r750

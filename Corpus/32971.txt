@@ -1,0 +1,1 @@
+ URL : "https://github.com/mesosphere/marathon/issues/4969" TITLE : 1.4-rc6 cherry picks BODY : cf3d544806b3dfd40caca6605667cef3a9db4f9d https://github.com/mesosphere/marathon/commit/cf3d544806b3dfd40caca6605667cef3a9db4f9d - remove authorization from /ping endpoint

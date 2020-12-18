@@ -1,0 +1,1 @@
+ URL : "https://github.com/Sage911/gallery-practice/issues/1" TITLE : photoswipe not loading BODY : index.js not loading photoswipe when _init is called. says that 'onclick' is pointed to null instead of photoswipe button :

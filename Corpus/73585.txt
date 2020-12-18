@@ -1,0 +1,1 @@
+ URL : "https://github.com/DockYard/ember-service-worker/issues/84" TITLE : css hot reload is broken BODY : when using ember service worker anytime a scss file changes sw.js changes and i think this causes a full page reload build successful 4967ms – serving on http://localhost:8088/ ember-cli:live-reload: files %a 'index.html', 'sw.js', 'tests/index.html' +19m

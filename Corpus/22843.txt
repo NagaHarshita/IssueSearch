@@ -1,0 +1,1 @@
+ URL : "https://github.com/andydmh/UCF-CRCV-Research/issues/10" TITLE : modify lstm output BODY : modify lstm output to get just the final time-step instead of n of them where n is the number of frames used

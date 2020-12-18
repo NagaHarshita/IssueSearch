@@ -1,0 +1,1 @@
+ URL : "https://github.com/jbloemendal/jquery-simple-websocket/issues/19" TITLE : reconnect after timeout BODY : when the configured socket reconnect timeout exceeds, reconnect the socket when invoking connect .

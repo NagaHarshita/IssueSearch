@@ -1,0 +1,1 @@
+ URL : "https://github.com/vlio20/angular-datepicker/issues/238" TITLE : split to modules BODY : split all components to module - this way not needed modules would be shaken off during tree shaking.

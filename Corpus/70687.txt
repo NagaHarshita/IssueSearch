@@ -1,0 +1,1 @@
+ URL : "https://github.com/jhoballah/bme590lecture03/issues/1" TITLE : write summation program BODY : requirements: - adds 2 numbers - returns the sum of those numbers is >= 0 - returns 0 if the sum of those number is < 0

@@ -1,0 +1,1 @@
+ URL : "https://github.com/kdabir/to-kv/issues/1" TITLE : support custom callback BODY : when the key is found more than once, instead of applying one of the fixed strategies, let the callback decide which one to pick. callback key, existing, current - and whatever the callback returns is saved on that key. a use-case may be concatenating the strings instead of pushing to array.

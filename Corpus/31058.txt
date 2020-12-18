@@ -1,0 +1,1 @@
+ URL : "https://github.com/silentgraphic/Testing/issues/1" TITLE : return won't return BODY : the return statement in the if filters won't return a string to the .look_up method for whatever reason.

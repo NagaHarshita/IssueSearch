@@ -1,0 +1,1 @@
+ URL : "https://github.com/jtablesaw/tablesaw/issues/179" TITLE : load table from json url BODY : do you have the ability to create a table from a node in a json data structure? if not can this be requested as an enhancement? or is there some other simple way to do it?

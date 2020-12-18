@@ -1,0 +1,1 @@
+ URL : "https://github.com/evernote/evernote-cloud-sdk-ios/issues/144" TITLE : sskeychain is deprecated BODY : sskeychain has conflict with part of ios sdk. the owner of the sskeychain renamed it to samkeychain a issue about this https://github.com/soffes/samkeychain/issues/154

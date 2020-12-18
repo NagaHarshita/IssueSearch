@@ -1,0 +1,1 @@
+ URL : "https://github.com/CraftyMyner/MynePanel/issues/83" TITLE : confirm user deletion BODY : the interface should ask for confirmation when deleting a user, warning that the deletion is a non-reversible process.

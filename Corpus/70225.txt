@@ -1,0 +1,1 @@
+ URL : "https://github.com/staffim/StaffimRollbarBundle/issues/28" TITLE : use rollbar client v1.0 BODY : rollbar have recently released version 1.0 https://github.com/rollbar/rollbar-php/releases/tag/v1.0.0 of their php client library, so maybe this bundle could catch up with them?

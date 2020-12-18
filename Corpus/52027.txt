@@ -1,0 +1,1 @@
+ URL : "https://github.com/cloudfoundry-community/logsearch-boshrelease/issues/93" TITLE : can redis be the spof? BODY : redis can be the spof or can deploy multiple instances?

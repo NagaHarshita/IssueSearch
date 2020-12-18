@@ -1,0 +1,1 @@
+ URL : "https://github.com/Luminarys/kawa/issues/4" TITLE : user agent modes BODY : even though mpv and other players more or less work fine, ffmpeg complains about the chained file approach we have to take due to mpd. we should alter operational modes based on the user agents to ensure all clients have a better experience.

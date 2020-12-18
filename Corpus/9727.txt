@@ -1,0 +1,1 @@
+ URL : "https://github.com/ehcache/ehcache3/issues/2053" TITLE : add cache sizing BODY : for purposes of debugging and metric collection, it'd be very useful to have a sizing method in the cache interface.

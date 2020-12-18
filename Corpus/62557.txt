@@ -1,0 +1,1 @@
+ URL : "https://github.com/vvoelz/nmr-biceps/issues/6" TITLE : confusing variable name BODY : change reference_priors to “reference_potentials” throughout the code

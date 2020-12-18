@@ -1,0 +1,1 @@
+ URL : "https://github.com/I2PC/scipion/issues/1186" TITLE : force db update BODY : for the project db update if the protocol db is newer. this situation arises when the same project is run in two different machines

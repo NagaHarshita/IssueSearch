@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla/network/issues/348" TITLE : create a 404 landing page BODY : since this site is hosted on s3, we can define a page to return on 404s. right now i just have it returning index.html but if we can generate an error.html or something similar i can instruct s3 to use that when we get a request for non-existent resources.

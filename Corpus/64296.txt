@@ -1,0 +1,1 @@
+ URL : "https://github.com/MarlinFirmware/Marlin/issues/8786" TITLE : fr start print at layer BODY : it'd be nice to be able to pick a layer to start printing at when printing files off an sd card. i'm thinking of coding this myself, so i thought i'd run it by people for comment. thanks.

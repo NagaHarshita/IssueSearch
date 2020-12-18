@@ -1,0 +1,6 @@
+ URL : "https://github.com/espressomd/espresso/issues/1661" TITLE : samples need cleanup BODY : dbebye_hueckel: outdated
+villard: segfaults if no graphics display
+load/save_checkpoint are waiting for more tolerant parameter type checkint int,float load_properties misses a file no save_properties observables_correlator crashes with segfault
+ireaction_ensemble: outdated interface
+store_bonds produces runtime errors some scripts contain irrelevant code
+dev = cpu and the like\ some scripts should probably be combined lj_liquid, lj_liquid_structure_factor, lj_liquid_distribution

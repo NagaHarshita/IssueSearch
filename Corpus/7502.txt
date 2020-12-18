@@ -1,0 +1,1 @@
+ URL : "https://github.com/joelgriffith/navalia/issues/61" TITLE : get current url BODY : i have a scenario that i would like to assert the current url, today i could not find how to do this. is there any way today using navalia.js to do this?

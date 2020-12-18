@@ -1,0 +1,1 @@
+ URL : "https://github.com/tutulino/Megaminer/issues/86" TITLE : x11gost algo for sgminer BODY : { x11gost : -k sibcoin-mod --gpu-threads 2 --worksize 64 --intensity 16 },

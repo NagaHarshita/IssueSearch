@@ -1,0 +1,1 @@
+ URL : "https://github.com/sandywalker/webui-popover/issues/226" TITLE : use a class as selector BODY : hello, it seems intuitive to use a class as selector, why can't i use a class as selector like below? $ '.hoverme' .webuipopover { trigger:'hover', title:'title', content:'content' } ; must i use only the 'a' tag as in the documentation? javascript $ 'a' .webuipopover options ;

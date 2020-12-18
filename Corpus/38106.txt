@@ -1,0 +1,1 @@
+ URL : "https://github.com/kerrj/RenderscriptCanny/issues/1" TITLE : not all source here? BODY : hi great work here. but i cant get to compile. where are these classes? import com.justin.opencvcamera.scriptc_canny; import com.justin.opencvcamera.scriptc_colorsplit; import com.justin.opencvcamera.scriptc_hysteresis; import com.justin.opencvcamera.scriptc_sobel;

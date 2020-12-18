@@ -1,0 +1,1 @@
+ URL : "https://github.com/goodtft/LCD-show/issues/54" TITLE : black screen after reboot BODY : i have a 3.5 gpio display, and after following the instructions, i get nothing but a black screen with a flashing underscore. the display is partially working, as i can press ctrl+alt+f1 and see the terminal for just a moment, but it simply flashes on the screen and disappears.

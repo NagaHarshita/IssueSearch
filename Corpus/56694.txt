@@ -1,0 +1,1 @@
+ URL : "https://github.com/react-dnd/react-dnd/issues/869" TITLE : not working in firefox BODY : hello, reactdnd is not working anymore in the latest firefox-version 55.0.3 using reactdnd version: react-dnd : ^2.5.1 , react-dnd-html5-backend : ^2.5.1 , does anyone knows the latest version of reactdnd where firefox is working?

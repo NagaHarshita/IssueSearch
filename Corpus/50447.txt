@@ -1,0 +1,4 @@
+ URL : "https://github.com/gr2m-fixtures-cat/sandbox/issues/12" TITLE : 🤖🆘 too many prs BODY : dearest octokittens, i’ve run into a problem here. my friend travis notified that something changed in github’s apis. i would usually create a new pull request to let you know about it, or update an existing one. but now there more than one: 2, 1 i don’t know how that happened, did i short-circuit again? you could really help me by closing all pull requests or leave the one open you want me to keep updating. for the time being, these are the changes i have found: <details>
+<summary>api.github.com/get-root</summary> diff {
+- status: 201
++ status: 200 } ... </details> hope you can fix it and my circuits soon 🙏

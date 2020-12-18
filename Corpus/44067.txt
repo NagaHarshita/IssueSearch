@@ -1,0 +1,1 @@
+ URL : "https://github.com/valhalla/valhalla/issues/290" TITLE : dst fix for fall back BODY : 2016-03-07t13:46:17z @gknisely : originally created valhalla/baldr 230 when a route crosses the end of dst, we should adjust the time correctly. also, add tests.

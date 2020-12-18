@@ -1,0 +1,1 @@
+ URL : "https://github.com/KostenkoNikita/EDCryptor/issues/1" TITLE : file dropbox bug BODY : dropbox must be disabled while explorer is opened. if you try to add file to the dropbox in that case, your browser will be crushed.

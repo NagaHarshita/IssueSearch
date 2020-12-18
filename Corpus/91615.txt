@@ -1,0 +1,1 @@
+ URL : "https://github.com/Rapptz/discord.py/issues/535" TITLE : unable to change nickname BODY : could someone give me a quick way they would call the change nickname function? change_nickname membersname, nicknamewanted gives me an error that says change_nickname is not defined sorry, i'm a noob at this :/

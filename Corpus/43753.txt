@@ -1,0 +1,1 @@
+ URL : "https://github.com/rpetar/kts-nwt/issues/43" TITLE : delete owner of condo BODY : description check if tenat is owner of condo before deletion. expected behavior tenant can't be deleted if he owns any condo. actual behavior

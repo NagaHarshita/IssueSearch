@@ -1,0 +1,1 @@
+ URL : "https://github.com/JuliaEditorSupport/julia-vscode/issues/247" TITLE : v0.8.0 release planning BODY : i assume we add documentformat.jl https://github.com/zacln/documentformat.jl as a dependency, right? should i put the necessary submodule into place already? can't hurt, right?

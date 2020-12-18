@@ -1,0 +1,1 @@
+ URL : "https://github.com/jferard/fastods/issues/50" TITLE : escape tooltip text BODY : the settooltip c, text does not escape the text. it's a bug and will make lo crash if the text contains < or > characters. a simple workaround is to escape the text before passing it to settooltip with an xmlutil instance.

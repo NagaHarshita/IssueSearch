@@ -1,0 +1,1 @@
+ URL : "https://github.com/TrampolineRTOS/trampoline/issues/51" TITLE : posix build broken BODY : fresh clone on debian stretch, i encountered the following issues to build example/posix/periodic.oil: - ldflags are not generated, namely -lrt -lpthread - two functions are missing in the port: tpl_enable_os_interrupts and tpl_disable_os_interrupts

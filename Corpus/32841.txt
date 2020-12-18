@@ -1,0 +1,1 @@
+ URL : "https://github.com/MaksimZaitsev/jvs/issues/3" TITLE : wrong resource name BODY : $ curl -s --data-binary @bad.json http://localhost { errorcode : 1, errormessage : unterminated array , errorplace : at line 59 column 28 path $.web-app.servlet 4 , resource : json , requestid : 2 } resource should be bad.json

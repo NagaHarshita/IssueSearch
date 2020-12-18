@@ -1,0 +1,1 @@
+ URL : "https://github.com/ataylorme/hazels-heritage-frontend/issues/11" TITLE : use the wpapi client BODY : use the wpapi https://www.npmjs.com/package/wpapi client to make interacting with the rest api easier. it will also help with tasks like pagination.

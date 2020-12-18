@@ -1,0 +1,1 @@
+ URL : "https://github.com/PhilJay/MPAndroidChart/issues/2730" TITLE : setspacetop not working BODY : i realise this has been reported for a previous version of the chart: https://github.com/philjay/mpandroidchart/issues/407 the solution for that issue is shown below however this code is deprecated for v3.0.1 mchart.getaxisleft .setstartatzero false ;

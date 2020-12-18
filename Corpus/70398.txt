@@ -1,0 +1,1 @@
+ URL : "https://github.com/hajkmap/Hajk/issues/20" TITLE : visning av sökträffar BODY : när man klickar på en sökträff ska attributen visas på samma sätt som vid vanligt klick i kartan. dvs använda sig av den konfigurering som gjorts i admingränssnittet för attributvisning i inforuta.

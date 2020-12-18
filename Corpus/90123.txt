@@ -1,0 +1,1 @@
+ URL : "https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode/issues/58" TITLE : run as script for testing BODY : i'd like to integrate the time analyser with my test to ensure that no function is taking too long to compile. is there a way to do so? thanks for this amazing project

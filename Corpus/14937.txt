@@ -1,0 +1,1 @@
+ URL : "https://github.com/devsummit/backend/issues/258" TITLE : clean payment bug BODY : description therer are bugs that cause the payment system not working mostly you should check on the payment controller and service related to the request form and response handling <br /> type - feature - x bug <br />

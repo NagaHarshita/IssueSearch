@@ -1,0 +1,1 @@
+ URL : "https://github.com/kartoza/cadasta-qgis-plugin/issues/109" TITLE : remove unneeded attribute BODY : problem oliver's question: > there are two fields in the spatial unit attribute table, which are not needed i believe : relationship_layer_id, party_layer_id

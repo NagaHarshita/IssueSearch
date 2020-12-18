@@ -1,0 +1,1 @@
+ URL : "https://github.com/tryashtar/singularity/issues/45" TITLE : clean up tab stops BODY : take a look at every form/dialog main form, find/replace, text shortcuts, generated commands , see the order of tabbiness, and make it intuitive and natural.

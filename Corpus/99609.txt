@@ -1,0 +1,1 @@
+ URL : "https://github.com/ethersphere/go-ethereum/issues/166" TITLE : multihash support in swarm BODY : we are often asked about multihash support. we should have a proper discussion about pros and cons at least. i suggest this issue shall be the place for that discussion until someone formulates this as an eip or is it sip?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/coleifer/peewee/issues/1298" TITLE : mypy type hints BODY : will you accept inline type hints for the peewee type: -> none as pr?

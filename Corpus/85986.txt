@@ -1,0 +1,1 @@
+ URL : "https://github.com/ChildMindInstitute/Biblio_Reader/issues/30" TITLE : geolocation for downloads BODY : 1. get ips for downloads from a. nitrc b. loris 2. check ip against known ip vocabulary 3. learn unknown ips http://freegeoip.net/ http://freegeoip.net/ ?

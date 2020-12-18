@@ -1,0 +1,1 @@
+ URL : "https://github.com/dwightwatson/rememberable/issues/42" TITLE : use without models BODY : hello, i'm querying some data via db facade, like this: \db::connection 'customconnection' ->select 'select from mytable' is it possible to use the plugin here? how can i add the rememberable trait? thank you!

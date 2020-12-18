@@ -1,0 +1,1 @@
+ URL : "https://github.com/psifidotos/Latte-Dock/issues/749" TITLE : widget crashes desktop BODY : the plasma widget crashes the plasma desktop whenever the mouse cursor pass over it. how to disable/remove without uninstalling it? note: using opensuse repository version. only widget, app works fine.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/irods/irods/issues/3623" TITLE : add -l argument to irsync BODY : this is a very useful flag from rsync that transforms symlinks into their resolved file/directory. this way, it is easy to select subsets of items to be transferred. from man rsync : -l, --copy-links transform symlink into referent file/dir

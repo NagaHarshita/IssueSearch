@@ -1,0 +1,1 @@
+ URL : "https://github.com/thehumanswissarmyknife/MSFStockcount/issues/11" TITLE : create table for messages BODY : the central server will store messages from other users, create a local table for this: topic: 1-product 2-batch 3-counteditem 4-reporting 5-various sender: user_id recipient: 0-all users user_id status: 0-ignore 1-alert 2-dealt with message: text with information

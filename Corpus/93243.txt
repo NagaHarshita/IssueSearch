@@ -1,0 +1,4 @@
+ URL : "https://github.com/argonlaser/test/issues/181" TITLE : add microplan link command BODY : add microplan-link.js file. bootstrap the initial commit with below code javascript
+var program = require 'commander' var fs = require 'fs-extra' var path = require 'path' program .parse process.argv var commandargs = program.args
+if commandargs.length > 1 { console.error 'argument required' process.exit 1 }
+commandargs.foreach function arg { console.log 'command executed: %s', arg }

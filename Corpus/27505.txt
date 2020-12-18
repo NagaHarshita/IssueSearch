@@ -1,0 +1,1 @@
+ URL : "https://github.com/ipfs/blog/issues/120" TITLE : deploy the new blog BODY : @lgierth the code in master is now a version of the blog all ported to hugo 🌟 and it will solve the following issues: - https://github.com/ipfs/blog/issues/119 - https://github.com/ipfs/blog/issues/22 could you deploy the new version? thanks!

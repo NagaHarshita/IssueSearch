@@ -1,0 +1,1 @@
+ URL : "https://github.com/Tekki/sql-ledger/issues/6" TITLE : utf-8: output to browser BODY : output to browser has to be encoded to utf-8. because of the thousands of print statements we have to use something like use open ':std' => ':utf8'; . the scope of this directive may not be what we expect, there will be unwanted side effects.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jar-klinika/klinika/issues/4" TITLE : database structure change BODY : in table filled_forms added new column: opened . this atribute shows if records tree is opened in sidebar.

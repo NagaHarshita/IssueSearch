@@ -1,0 +1,1 @@
+ URL : "https://github.com/sm-Fifteen/SteamControllerTracker/issues/24" TITLE : check note accuracy BODY : it's starting to sound more and more like the notes outputted by the steam controller don't actually match with what they should be. the conversion formula used to convert frequencies into pulse periods could be off.

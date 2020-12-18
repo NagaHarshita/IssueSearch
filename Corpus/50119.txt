@@ -1,0 +1,12 @@
+ URL : "https://github.com/QubesOS/updates-status/issues/94" TITLE : vmm-xen v4.8.1-3 r4.0 BODY : update of vmm-xen to v4.8.1-3 for qubes r4.0, see comments below for details. built from: https://github.com/qubesos/qubes-vmm-xen/commit/face8e9c9a621248990fed5035884745cbc54cb8 changes since previous version https://github.com/qubesos/qubes-vmm-xen/compare/v4.8.1-2...v4.8.1-3 :
+qubesos/qubes-vmm-xen@face8e9 version 4.8.1-3
+qubesos/qubes-vmm-xen@f11b8dc libxl: add more cpuid flags handling
+qubesos/qubes-vmm-xen@20fa4b7 apply xsa216-224
+qubesos/qubes-vmm-xen@c747117 stubdom-linux: don't check for qemu in dom0 when hotplugging nics
+qubesos/qubes-vmm-xen@e1a7d1b enable ovmf support
+qubesos/qubes-vmm-xen@441411d stubdom-linux: pause stubdom when suspending a domain
+qubesos/qubes-vmm-xen@3d18413 merge remote-tracking branch 'qubesos/pr/8' into xen-4.8
+qubesos/qubes-vmm-xen@926a16d stubdom-linux: rework pci add/remove handling
+qubesos/qubes-vmm-xen@d57a961 make sure xen config is really applied referenced issues:
+qubesos/qubes-issues 2881
+qubesos/qubes-issues 2849 if you're release manager, you can issue gpg-inline signed command: upload vmm-xen face8e9c9a621248990fed5035884745cbc54cb8 r4.0 current repo available 7 days from now upload vmm-xen face8e9c9a621248990fed5035884745cbc54cb8 r4.0 current dists repo , you can choose subset of distributions, like vm-fc24 vm-fc25 available 7 days from now upload vmm-xen face8e9c9a621248990fed5035884745cbc54cb8 r4.0 security-testing repo above commands will work only if packages in current-testing repository were built from given commit i.e. no new version superseded it .

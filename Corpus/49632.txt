@@ -1,0 +1,1 @@
+ URL : "https://github.com/futurepress/epubjs-rn/issues/37" TITLE : unable to run example BODY : i have copied the content from index.js and app folder from epubreader folder.. and i cannot run the example in my app. getting undefined is not an object 'evaluating rnziparchive.unzip' am i supposed to install something?

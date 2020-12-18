@@ -1,0 +1,1 @@
+ URL : "https://github.com/goddessofcats/prj-rev-bwfs-dasmoto/issues/3" TITLE : self closing tags BODY : https://github.com/goddessofcats/prj-rev-bwfs-dasmoto/blob/master/dasmoto/index.html l13 be aware of self closing tags. img is one of them. it should be written like so: html <img src= https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/hacksaw.jpeg >

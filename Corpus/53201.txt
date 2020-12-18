@@ -1,0 +1,1 @@
+ URL : "https://github.com/spesmilo/electrum/issues/2309" TITLE : description of deposit BODY : we have multiple deposits coming in daily, and we would like our vendors to be able to put a description, or label on their deposits, so it will show up in our wallet as to who it was sent from. how does this process work that we can have a sender be listed on the incoming btc deposit?

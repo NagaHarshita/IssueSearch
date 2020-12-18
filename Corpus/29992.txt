@@ -1,0 +1,1 @@
+ URL : "https://github.com/renpy/renpy/issues/1305" TITLE : new tooltip design. BODY : all ren'py displayables or at least ones capable of focus should take a tooltip parameter. when the displayable gains focus, it should set a screen variable probably, _tooltip to the value of the tooltip parameter. if this causes the tooltip to change, it'll restart the interaction.

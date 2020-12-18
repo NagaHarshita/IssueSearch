@@ -1,0 +1,1 @@
+ URL : "https://github.com/urbanikm/tarkvaraprojekt/issues/13" TITLE : show all button BODY : users should be able to see all startups in both views when “show all” button is clicked this button must not be seen in case, there is less than 10 results

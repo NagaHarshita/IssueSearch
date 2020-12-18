@@ -1,0 +1,1 @@
+ URL : "https://github.com/aduth/wp-block/issues/2" TITLE : secret data for the block BODY : just wanted to log this while i'm thinking of it. the html comment storage paradigm doesn't permit secret data to be entered by the end user, and then be interpreted / rendered differently by the presentation layer.

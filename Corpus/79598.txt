@@ -1,0 +1,1 @@
+ URL : "https://github.com/Glia-mh/glia-react-native/issues/7" TITLE : solve scheduling problem BODY : currently the global herenow function isn't delivering consistent enough results to base the conversation scheduling off of it. may have to attempt again with block architecture.

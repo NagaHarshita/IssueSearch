@@ -1,0 +1,1 @@
+ URL : "https://github.com/TEALS-IntroCS/2nd-semester-introduction-to-computer-science-principles/issues/160" TITLE : unclear ask in lab 4.04 BODY : the lab says: print_list takes an int representing the index of the shopping list to print or all to print all shopping lists. should this take an int or a string?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/tangrams/kinkade/issues/22" TITLE : export broken in chrome BODY : popup closes immediately – possibly due to https://developers.google.com/web/updates/2017/06/chrome-60-deprecations: https://www.chromestatus.com/feature/5669602927312896

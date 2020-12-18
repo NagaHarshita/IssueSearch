@@ -1,0 +1,1 @@
+ URL : "https://github.com/acidrainstudios/TrueReality/issues/59" TITLE : tr core utilities BODY : this ticket should be used for standing up most minor core utilities and functions like vectors, matrices, simple math operations and other basic core classes that in most cases will be wrappers of osg and other engines.

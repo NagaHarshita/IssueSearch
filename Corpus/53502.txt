@@ -1,0 +1,1 @@
+ URL : "https://github.com/nebiolabs/seq-results/issues/3" TITLE : duplicate runs created BODY : runs should not be created over and over... we should reuse the run if it has the same flowcell id. we should probably add the flowcell as an explicit field instead of using the name field for this

@@ -1,0 +1,1 @@
+ URL : "https://github.com/juliendequaire/robot/issues/3" TITLE : logger log file device BODY : the first log device should be a logger that create a file and output all logs in specifics files.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/coreos/tectonic-forum/issues/243" TITLE : typo in release notes BODY : the 1.8.4-tectonic.1 release notes says updates to kubernetes v1.8.4 includes a default ... was there supposed to be something after default ? if not then the statement is a little vague. :-

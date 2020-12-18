@@ -1,0 +1,1 @@
+ URL : "https://github.com/DecipherNow/gm-fabric-jvm.g8/issues/11" TITLE : ensure thrift is working BODY : i did some initial generation of thrift, but i did not complete an integration test

@@ -1,0 +1,1 @@
+ URL : "https://github.com/venmo/synx/issues/137" TITLE : synx removes empty folder BODY : when syncing whole project, when i have empty folder, is is being deleted from project folder, and it remains red in xcode project tree. when i add anything to this folder in xcode, synx creates it back :

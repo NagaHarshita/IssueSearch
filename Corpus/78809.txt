@@ -1,0 +1,1 @@
+ URL : "https://github.com/ombulabs/mercadopago/issues/33" TITLE : release v2.2.1 or v2.3.0 BODY : - update readme with changes between v2.2.0 and master - git tag new version and update github - gem build + gem push

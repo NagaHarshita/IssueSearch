@@ -1,0 +1,1 @@
+ URL : "https://github.com/crazychicken/t-scroll/issues/8" TITLE : uncompatible with ie BODY : the animation is not working in ie when scrolled down. the element has style: opacity : 0.

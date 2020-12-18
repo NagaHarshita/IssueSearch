@@ -1,0 +1,1 @@
+ URL : "https://github.com/mbrandonw/UIResponder-KeyboardCache/issues/3" TITLE : still relevant on ios 10? BODY : hi, i am just wondering if i still need to use this code on ios 10. i am maintaining a project initially written for ios 6 which uses your code. i am not sure if it is safe to remove it. thanks!

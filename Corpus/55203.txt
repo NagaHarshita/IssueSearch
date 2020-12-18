@@ -1,0 +1,1 @@
+ URL : "https://github.com/miniworld-project/miniworld_core/issues/25" TITLE : improve logging system BODY : possible ideas: - give each class/service an own logger which can be muted via its class or package name in the config

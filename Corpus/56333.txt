@@ -1,0 +1,1 @@
+ URL : "https://github.com/kindredjs/kindred-component/issues/1" TITLE : move into kindred-node BODY : there's a pretty gross peer dependency here between kindred-component and kindred-node. think it's best to just mush them together :

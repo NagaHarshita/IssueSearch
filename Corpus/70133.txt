@@ -1,0 +1,1 @@
+ URL : "https://github.com/firelab/hires-wrf/issues/1" TITLE : upgrade to wrf v3.9.1.1 BODY : features include a hybrid sigma-pressure coordinate and many physics updates including improvements for dif_opt=2. http://www2.mmm.ucar.edu/wrf/users/wrfv3.9/updates-3.9.1.1.html

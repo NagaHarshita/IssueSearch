@@ -1,0 +1,1 @@
+ URL : "https://github.com/lionlinekz/alquran/issues/1" TITLE : freezing while scrolling BODY : to do: -save attributed strings to core data. -save all word coordinates to core data -remove check for ghunna -add a method to calculate velocity of scrolling -depending on the velocity activate word by word fucntion

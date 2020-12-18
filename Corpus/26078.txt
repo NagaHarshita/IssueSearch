@@ -1,0 +1,1 @@
+ URL : "https://github.com/fossasia/susi_android/issues/685" TITLE : add rss action type BODY : expected behaviour recently rss action type is implemented in susi_server. so we have to implement it in client side. would you like to work on the issue? yes

@@ -1,0 +1,1 @@
+ URL : "https://github.com/tannerblair/VeriStand-FPGA-Resource-Manager/issues/12" TITLE : document loop types BODY : @beazurt: we should probably recommend documenting what type of loop regular or sctl the ip was designed to run in. if sctl, also document the intended clock frequency.

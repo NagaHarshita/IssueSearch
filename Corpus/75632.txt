@@ -1,0 +1,1 @@
+ URL : "https://github.com/HuimingCheng/AutoGrading/issues/9" TITLE : how to stretch the image BODY : now i can cropped the answer sheet from image. but at sometimes, the answer sheet is not birds-eye-view image. so i can not cropped precise. i need to stretch four points of contour into a rectangle and then cropped answer sheet from image.

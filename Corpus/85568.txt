@@ -1,0 +1,1 @@
+ URL : "https://github.com/florianschmitt/ext-token-field/issues/14" TITLE : field height becomes zero BODY : field height becomes 0, if the field is not enabled or readonly and no token is added

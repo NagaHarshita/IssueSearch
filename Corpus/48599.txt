@@ -1,0 +1,1 @@
+ URL : "https://github.com/php-coder/mystamps/issues/549" TITLE : set thread stack size BODY : we should explicitly set threads stack size to 512k

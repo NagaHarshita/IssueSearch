@@ -1,0 +1,1 @@
+ URL : "https://github.com/tarantool/libslave/issues/4" TITLE : decimal type doesn't work BODY : errors on decimal columns: 2017-04-07 12:10:57 e slave::create_table : class name don't exist for type: 246 2017-04-07 12:10:57 e error in reading binlogs: slave::create_table : error in field 'charged_amount'

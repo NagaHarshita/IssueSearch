@@ -1,0 +1,1 @@
+ URL : "https://github.com/avajs/ava/issues/1567" TITLE : problem with ava --init BODY : when i run ava --init , my empty object of dependencies in package.json is removed.

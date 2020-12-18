@@ -1,0 +1,1 @@
+ URL : "https://github.com/naelstrof/maim/issues/111" TITLE : gap in result images BODY : ! gap https://user-images.githubusercontent.com/440661/29205068-30523ea2-7ead-11e7-8a62-f7cf9a4c5feb.png there is a vertical gap. the command is maim -s -l -c 255,0,255,0.15 -k -n 2 > gap.png and versions: arch linux maim v5.4.66 xcompmgr v1.1.7

@@ -1,0 +1,1 @@
+ URL : "https://github.com/litomba/www/issues/109" TITLE : currency input validation BODY : right now the user can enter an arbitrary number for the currency input ... but we would like to at least limit it to 2 digit decimals or even better, to integers for now!

@@ -1,0 +1,1 @@
+ URL : "https://github.com/benjamintanweihao/elixir-cheatsheets/issues/1" TITLE : found a typo BODY : the return values of initialization has {ok, state, 5_000} i assume it should be {:ok, state, 5_000}

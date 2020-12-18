@@ -1,0 +1,1 @@
+ URL : "https://github.com/s154302/PortalKredit/issues/76" TITLE : fix return types BODY : every update and insert methods should return booleans and not void, this can helps the servlets do the error handling

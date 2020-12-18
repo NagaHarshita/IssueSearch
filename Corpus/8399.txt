@@ -1,0 +1,1 @@
+ URL : "https://github.com/raspberrypi/noobs/issues/398" TITLE : noobs 2.4 minor BODY : you forgot to tag your commit as v2.4 before building noobs, so the build-data file is probably not what you expected... build-date: 2017-03-17 noobs version: v2.1-28-g143b0fd

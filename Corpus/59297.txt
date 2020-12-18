@@ -1,0 +1,1 @@
+ URL : "https://github.com/BEAMS-EE/ELECH301/issues/6" TITLE : tp6 exercice 9 : < 6 v BODY : il faut que la tension de référence soit inférieure à 6 v, sinon quand on a 6 v en entrée, on retrouve aussi 0 v en sortie.

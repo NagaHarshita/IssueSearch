@@ -1,0 +1,1 @@
+ URL : "https://github.com/appdevdesigns/appdev-opsportal/issues/308" TITLE : delete row not working BODY : ตอนที่ลบ row ออกจาก grid ถ้ามี มากกว่า 1 row มันลบได้ปรกติ แต่ถ้า มี 1 row แล้วลบ webix มันไม่อัพเดท

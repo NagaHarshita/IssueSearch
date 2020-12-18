@@ -1,0 +1,1 @@
+ URL : "https://github.com/pirate/sites-using-cloudflare/issues/175" TITLE : cloudbleed surface area BODY : according to this post https://www.outsideintel.com/cloudflares-cloudbleed-surface-area/ , there are 1,030,501 sites are missing from your list. just wanted to bring this to your attention.

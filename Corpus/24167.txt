@@ -1,0 +1,1 @@
+ URL : "https://github.com/monkeyscode/listing/issues/1" TITLE : setparameter issue BODY : when you did not pass parameter for this method, the listing won't work.

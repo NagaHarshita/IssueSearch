@@ -1,0 +1,1 @@
+ URL : "https://github.com/pombase/website/issues/531" TITLE : default list sorting BODY : by default, we always sort gene lists alphabetically by gene name. when i look at a list i always immediately sort by product as a list is always much easier to scan this way much more biologically meaningful . would anybody object if we defaulted to sort alphabetically by product?

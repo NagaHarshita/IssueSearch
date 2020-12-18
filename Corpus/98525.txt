@@ -1,0 +1,1 @@
+ URL : "https://github.com/dennisreimann/website/issues/3" TITLE : is_bitstring vs is_binary? BODY : is there a reason why is_bitstring/1 is used instead of is_binary/1 here https://github.com/dennisreimann/website/commit/cb83b27d325da7c75a830a6d579f1d565867dcf2 l298 ?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/smb564/Internship-sharepoint-addin/issues/5" TITLE : file names with . BODY : if the input file name has dots . then the validation for type pdf will fail. fix this by taking the last element rather than the 1st element after splitting the filename by the dots .

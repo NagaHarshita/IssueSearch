@@ -1,0 +1,1 @@
+ URL : "https://github.com/cocolocomoco21/ULCRS/issues/22" TITLE : load session from disk BODY : implement the functionality to open and parse a saved session from a file. this includes file validation for the session data within that file.

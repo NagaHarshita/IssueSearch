@@ -1,0 +1,1 @@
+ URL : "https://github.com/MaxIV-KitsControls/app-maxiv-linacsynoptic/issues/1" TITLE : issue with taurus 4.0.3 BODY : taurus.qt.qtgui.panel import tauruswidget --> tauruswidget is not located there anymore should be --> from taurus.qt.qtgui.container import tauruswidget

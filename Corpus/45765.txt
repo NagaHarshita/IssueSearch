@@ -1,0 +1,1 @@
+ URL : "https://github.com/mistio/mist.io/issues/909" TITLE : instance monthly cost BODY : linode 1024 instance cost calculated through the api seems to be priced wrong. its actually $5/mo or .0075/hr . monthly cost is reported at $10.00 in mistio. i did correct the value by setting a reserved tag!

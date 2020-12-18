@@ -1,0 +1,1 @@
+ URL : "https://github.com/cmb69/fa_xh/issues/32" TITLE : missing language files BODY : while setup the demo page i noticed the three missing language files of the most common c_xh languages: cs, da and sk. just setup these langfiles with en content? might suffice. otherwise tiny4 throws an error message.

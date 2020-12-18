@@ -1,0 +1,29 @@
+ URL : "https://github.com/pinpong/equalizer-issue-tracker/issues/372" TITLE : it is broken after update! BODY : sent by dharshanav@gmail.com mailto:dharshanav@gmail.com description:
+--- please fix immediately device info:
+---
+<table>
+<tr><td>app version</td><td>2.0.2</td></tr>
+<tr><td>app version code</td><td>202000</td></tr>
+<tr><td>android build version</td><td>857212.3</td></tr>
+<tr><td>android release version</td><td>7.0</td></tr>
+<tr><td>android sdk version</td><td>24</td></tr>
+<tr><td>android build id</td><td>nrd90m release-keys</td></tr>
+<tr><td>device brand</td><td>htc</td></tr>
+<tr><td>device manufacturer</td><td>htc</td></tr>
+<tr><td>device name</td><td>htc_pmeuhl</td></tr>
+<tr><td>device model</td><td>htc 10</td></tr>
+<tr><td>device product name</td><td>pmeuhl_00401</td></tr>
+<tr><td>device hardware name</td><td>htc_pme</td></tr>
+<tr><td>abis</td><td> arm64-v8a, armeabi-v7a, armeabi </td></tr>
+<tr><td>abis 32bit </td><td> armeabi-v7a, armeabi </td></tr>
+<tr><td>abis 64bit </td><td> arm64-v8a </td></tr>
+</table> extra info:
+---
+<table>
+<tr><td>reverb uuid</td><td>1b78f587-6d1c-422e-8b84-0002a5d5c51b</td></tr>
+<tr><td>loudness enhancer warning read</td><td>yes</td></tr>
+<tr><td>bass boost uuid</td><td>14804144-a5ee-4d24-aa88-0002a5d5c51b</td></tr>
+<tr><td>loudness enhancer uuid</td><td>fa415329-2034-4bea-b5dc-5b381c8d1e2c</td></tr>
+<tr><td>bands uuid</td><td>c8e70ecd-48ca-456e-8a4f-0002a5d5c51b</td></tr>
+<tr><td>virtualizer uuid</td><td>1d4033c0-8557-11df-9f2d-0002a5d5c51b</td></tr>
+</table>

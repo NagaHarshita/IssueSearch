@@ -1,0 +1,1 @@
+ URL : "https://github.com/Sage-Bionetworks/synapseAnnotations/issues/88" TITLE : remove old yml files BODY : we need to convert the analysis annotations to json, check to see if there any additional conflicts, and remove all yml files now that we're standardizing our format.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Rob-antunes/prj-rev-bwfs-dasmoto/issues/4" TITLE : closing </div> tag BODY : important for errors - the opening <div> tag on line 22 does not have a closing </div> tag which can lead to unintended results.

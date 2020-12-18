@@ -1,0 +1,1 @@
+ URL : "https://github.com/Seddryck/NBi/issues/299" TITLE : support of jsonpath BODY : it should be possible to specify a jsonpath to have something similar that the flowr xml query

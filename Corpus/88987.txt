@@ -1,0 +1,1 @@
+ URL : "https://github.com/idb-project/the-idb/issues/301" TITLE : per module mail recipient BODY : redmine 3977<br/>it would be cool if we could start breaking up the e-mailing from idb into several pieces. initial idea would be to have a per module recipient list eg. one or many a module is: - inventory - network - machines - locations

@@ -1,0 +1,1 @@
+ URL : "https://github.com/JuanjoSalvador/NyaaPy/issues/14" TITLE : make some params optionals BODY : search takes 5 parameters, and all of them are mandatory. the issue here is, search needs to assign the value 0 for each integer parameter if its value is none .

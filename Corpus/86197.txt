@@ -1,0 +1,5 @@
+ URL : "https://github.com/tking2096/cs414-f17-301-chessire-coders/issues/216" TITLE : handle unregister request BODY : 1. check that user exists.
+2. log out user.
+3. remove user from all active games.
+4. deactivate user's account.
+5. remove email and password user's account.

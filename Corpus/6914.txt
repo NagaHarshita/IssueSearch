@@ -1,0 +1,1 @@
+ URL : "https://github.com/feature23/StringSimilarity.NET/issues/13" TITLE : class not found BODY : i added the package using command and it was installed succesfully. but i can't use any of the classes. reference is properly added as i can add f23 packages on top of namespace but can't use any class like stringprofile or kshingling i am on .net 4.5 or something not .net core

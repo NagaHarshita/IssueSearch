@@ -1,0 +1,1 @@
+ URL : "https://github.com/c4fcm/MediaCloud-TopicMapper/issues/209" TITLE : remove spurious csv files BODY : what are these files like malformed.csv , normal2.csv , and toomany.csv doing in our root directory. are these files for testing? if so they should be in the test directory or something perhaps in a fixtures subdir? if they are accidental commits please remove them.

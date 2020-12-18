@@ -1,0 +1,1 @@
+ URL : "https://github.com/codalab/competitions-v2/issues/6" TITLE : add linters to circleci BODY : - html ??? - javascript ??? - flake8 for python

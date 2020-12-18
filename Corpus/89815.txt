@@ -1,0 +1,1 @@
+ URL : "https://github.com/vendi-advertising/vendi-cache-2/issues/26" TITLE : remove league's flysystem BODY : super awesome abstraction but in reality i just don't need to do that much. just, is_file , is_dir , rmdir , rm and file_exists . use a custom abstract class or interface to make testing simpler, too.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/HBRS-MAAS/project-breadnbeer/issues/43" TITLE : travis failed for log4j2 BODY : /home/travis/build/hbrs-maas/project-breadnbeer/src/main/java/components/scenario.java:12: error: package org.apache.logging.log4j does not exist

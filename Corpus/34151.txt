@@ -1,0 +1,1 @@
+ URL : "https://github.com/batpad/dj_mapbox/issues/1" TITLE : bulk insert features BODY : right now, features are inserted one feature at a time. we should try and bulk insert.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/terminal-labs/rambo/issues/65" TITLE : generalize django state BODY : this will fail if you're using conda instead of venv. it should handle either if possible. https://github.com/terminal-labs/rambo/blob/master/salt_resources/states/django/init.sls l3

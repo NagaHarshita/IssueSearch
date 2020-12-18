@@ -1,0 +1,1 @@
+ URL : "https://github.com/kevinbarabash/math-ast/issues/11" TITLE : add geometry concepts BODY : objects: - point - line, line segment, ray - polygon, quadrilaterals square, parallelogram, etc. - conics circle, ellipse, hyperbola, parabola properties: - parallel - perpendicular - angles supplementary, complementary, opposite, adjacent, etc. - length - area

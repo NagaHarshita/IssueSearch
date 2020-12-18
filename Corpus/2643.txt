@@ -1,0 +1,1 @@
+ URL : "https://github.com/lk-geimfari/mimesis/issues/217" TITLE : ci on windows BODY : i suggest use appveyor https://www.appveyor.com/ which helps with ci on the windows.

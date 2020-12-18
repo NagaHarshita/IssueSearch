@@ -1,0 +1,1 @@
+ URL : "https://github.com/mapbox/mason/issues/313" TITLE : rebuild utfcpp 2.3.4 BODY : the mason.ini file is somehow not getting built for utfcpp package, resulting in cmake errors like configuration file not found for utfcpp if utfcpp is due for a rebuild, this could use looking into. cc @springmeyer

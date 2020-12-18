@@ -1,0 +1,1 @@
+ URL : "https://github.com/vanilophp/framework/issues/2" TITLE : composer install comand BODY : symfony\component\debug\exception\fatalthrowableerror class 'konekt\vanilo\providers\moduleserviceprovider' not found

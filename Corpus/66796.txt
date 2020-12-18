@@ -1,0 +1,1 @@
+ URL : "https://github.com/wikimedia/bunyan-syslog-udp/issues/2" TITLE : no license file present BODY : hi - i can't find any evidence for how bunyan-syslog-udp is licensed, which is causing us an audit problem 😄 is it possible to add an appropriate license file to the repo? thanks!

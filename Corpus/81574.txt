@@ -1,0 +1,1 @@
+ URL : "https://github.com/mapillary/mapillary_tools/issues/186" TITLE : --orientation not working BODY : uploaded sequence 1p5m5acxzwkcwww5ngkreq with the script using --orientation 180 but in map is still wrongly rotated.

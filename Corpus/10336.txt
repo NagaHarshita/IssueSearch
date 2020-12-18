@@ -1,0 +1,1 @@
+ URL : "https://github.com/vmware/harbor/issues/2352" TITLE : cache tags in db BODY : cache repository in present harbor, will cache tags information in db in future?

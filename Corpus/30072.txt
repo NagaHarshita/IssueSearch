@@ -1,0 +1,1 @@
+ URL : "https://github.com/webrtc-uwp/PeerCC/issues/4" TITLE : no signaling server BODY : is there any open test signaling server we can connect to aside building ur own signaling server on local host that can't be detected by others?

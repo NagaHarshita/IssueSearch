@@ -1,0 +1,1 @@
+ URL : "https://github.com/jingliu8611/forec/issues/10" TITLE : create init service BODY : create init.service.ts file to handle all the necessary initializations before the app is loaded

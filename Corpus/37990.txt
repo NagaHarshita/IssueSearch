@@ -1,0 +1,1 @@
+ URL : "https://github.com/nextcloud/android/issues/712" TITLE : nightly: fresh start BODY : - create a source branch which can be used for starting a fresh nightly - correct app namin - proper provider names - nightly link, check for new apks - merge this in a new branch - re-add all ready for nightly prs - make this as a script that it can be done, in theory, everyday.

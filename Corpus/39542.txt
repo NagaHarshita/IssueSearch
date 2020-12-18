@@ -1,0 +1,1 @@
+ URL : "https://github.com/BCDevExchange/devex/issues/58" TITLE : sign-in using github BODY : at present you can sign in using github or using an email address and password. we do not want to present users with the email/password option as we want users to be able to sign into the app using github only. however we still need the admin account to be able to sign-in.

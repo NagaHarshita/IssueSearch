@@ -1,0 +1,1 @@
+ URL : "https://github.com/vigour-io/hub.js/issues/103" TITLE : handle framesize > 18mb BODY : chunk them down to lets say 3 mb need this for ua!

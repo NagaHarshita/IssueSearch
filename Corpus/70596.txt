@@ -1,0 +1,6 @@
+ URL : "https://github.com/BTDF/DeploymentFramework/issues/67" TITLE : windows 2008 r2 support BODY : i've been trying out the framework on win 2008r2 64bit , biztalk 2009 and vs 2008. the biztalkdeploymentframework.targets needs a new target for 2008r2 see below . also, in the windows 2008 setwinver60 target, the propertyname should be win2008.
+ 
+<!-- windows 2008 r2 -->
+<target name= setwinver61 >
+<createproperty value= true > <output taskparameter= value propertyname= win2008r2 />
+</createproperty> </target> this work item was migrated from codeplex codeplex work item id: '4997' assigned to: 'tfabraham' vote count: '2'

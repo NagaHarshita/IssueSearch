@@ -1,0 +1,1 @@
+ URL : "https://github.com/ctsd/grav-gassg/issues/3" TITLE : generator doesn't work BODY : hi, i install your plugin i set a full path in destination_folder like that /home/nginx/domains/mydomain.fr/public/static the destination_domain like that https://mydomain.fr when i go to http://mydomain.fr/grav/admin/generator to generate, i have nothing in my static folder.

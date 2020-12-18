@@ -1,0 +1,1 @@
+ URL : "https://github.com/datagovuk/apiserver/issues/78" TITLE : bad health data. BODY : there appears to be some fields in the wrong column from the source data . also reports on line-feeds and hidden characters.

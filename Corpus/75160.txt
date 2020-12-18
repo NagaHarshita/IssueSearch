@@ -1,0 +1,1 @@
+ URL : "https://github.com/datopian/ourbot/issues/34" TITLE : get rid of coffee-script BODY : we still use main.coffee https://github.com/datopian/ourbot/blob/master/scripts/main.coffee to communicate with bot. @weirdguy can we get rid of that and switch to using pure javascript

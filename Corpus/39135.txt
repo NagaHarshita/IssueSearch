@@ -1,0 +1,1 @@
+ URL : "https://github.com/marellocommerce/marello/issues/14" TITLE : rest serialize error BODY : field inventory of rest call /api/rest/lates/products is null . removing result_name hydrates entity correctly in productapientitymanager https://github.com/marellocommerce/marello/blob/master/src/marello/bundle/productbundle/entity/manager/productapientitymanager.php l57 .

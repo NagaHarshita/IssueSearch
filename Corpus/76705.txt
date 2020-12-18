@@ -1,0 +1,1 @@
+ URL : "https://github.com/ChaiSam/Two-way-DEM-PBM-coupling/issues/1" TITLE : loop issue in kernel.cpp BODY : please check line 84 in kernel.cpp, i think the last compartment is being neglected when numberofdembin - 1 is used in the loop. 16 bins but this iterates only 15 times

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Maatwebsite/Laravel-Excel/issues/1133" TITLE : cell format issue BODY : can i set cell format usign blade template? like <td format= @ >text here</td> i can't use php syntax

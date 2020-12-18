@@ -1,0 +1,1 @@
+ URL : "https://github.com/thinkaurelius/titan/issues/1389" TITLE : load data from file BODY : how to load file from csv file eg data from http://socialcomputing.asu.edu/datasets/blogcatalog3 i try http://www.google.com/url?q=http%3a%2f%2fwww.datastax.com%2fdev%2fblog%2fpowers-of-ten-part-i&sa=d&sntz=1&usg=afqjcngtb39bedosc1xl-qarihdzj_ktng but has error

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Wlada/vue-carousel-3d/issues/39" TITLE : can't update full array BODY : binding on index, not a good practice. then i update full array, carousel not see it.

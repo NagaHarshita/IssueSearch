@@ -1,0 +1,1 @@
+ URL : "https://github.com/NodeBB/NodeBB/issues/5374" TITLE : tags not working BODY : - nodebb 1.4.2 - mongodb 3.3 - nodejs 6.9.4 1. open editor and type tag olololol . 2. press enter . 3. tag olololol disappears.

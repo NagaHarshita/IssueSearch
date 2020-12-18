@@ -1,0 +1,1 @@
+ URL : "https://github.com/vapor/vapor/issues/896" TITLE : print host and port BODY : looks like the nice server starting on host 0.0.0.0:8080 has stopped being printed.

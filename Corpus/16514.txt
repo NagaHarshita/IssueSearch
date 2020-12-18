@@ -1,0 +1,1 @@
+ URL : "https://github.com/MinhajHaque/MyGame/issues/1" TITLE : issue with coding BODY : the following code is receiving issues: game.frame.setresizable false ; error message: exception in thread main java.lang.nullpointerexception at game.main game.java:69

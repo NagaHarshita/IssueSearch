@@ -1,0 +1,1 @@
+ URL : "https://github.com/fbrctr/generator-fabricator/issues/8" TITLE : git repo corrupted BODY : hi your git repo seems to be corrupted. the app/templates/fabricator folder is empty. this also happens when you download the repo from github. git reports fatal: bad object 3511fa0068f53e75258b77e5dc927bdec4a3eaa2:app/templates/fabricator

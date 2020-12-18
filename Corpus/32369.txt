@@ -1,0 +1,1 @@
+ URL : "https://github.com/desktop/desktop/issues/2899" TITLE : update to dexie 2.0 BODY : see https://github.com/dfahlander/dexie.js/releases/tag/v2.0.0. it has support for async/await, so we can get rid of all our generator madness.

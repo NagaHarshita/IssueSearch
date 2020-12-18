@@ -1,0 +1,1 @@
+ URL : "https://github.com/gedex/ginsta/issues/6" TITLE : response code 403 BODY : { code : 403, error_message : you are not a sandbox user of this client , error_type : oauthforbiddenexception }

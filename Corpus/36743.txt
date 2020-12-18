@@ -1,0 +1,1 @@
+ URL : "https://github.com/Zimbra-Community/account-history/issues/11" TITLE : implement local time BODY : log entries are shown based on the servers local time, that may not be the timezone the user is in.

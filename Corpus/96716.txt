@@ -1,0 +1,1 @@
+ URL : "https://github.com/ffi/ffi/issues/595" TITLE : ffi doesn't work on heroku BODY : heroku has a slightly weird library path, so i created this pr https://github.com/ffi/ffi/pull/594 that adds it to the list so that ffi will work on heroku. thanks

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ceeK/Solar/issues/23" TITLE : daylight saving time BODY : could it be that solar doesn't take daylight saving time into account? i live in mexico city and we're currently on dst. sunset is around 8:10 pm now, but solar thinks it's at 7:10 pm

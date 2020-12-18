@@ -1,0 +1,1 @@
+ URL : "https://github.com/getkirby/kirby/issues/570" TITLE : drop the vendor folder BODY : the vendor folder is created automatically by composer and doesn't need to be part the repo.

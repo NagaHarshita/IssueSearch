@@ -1,0 +1,1 @@
+ URL : "https://github.com/hassio-addons/repository/issues/17" TITLE : ❇ ide, based on cloud9 BODY : problem/motivation create a full-blown ide based on cloud9 core. this allows the user to edit their configuration right from the frontend while giving the user a comfortable place to work in.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/censys/elasticsearch-loader/issues/11" TITLE : should websites1 ? BODY : if self.index == websites and not doc.get alexa_rank , none https://github.com/censys/elasticsearch-loader/blob/3ff4f176bcd48c1daefec569495f8a2d19976791/esloader/record.py l517

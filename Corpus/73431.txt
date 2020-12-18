@@ -1,0 +1,1 @@
+ URL : "https://github.com/tooxoot/plotR/issues/15" TITLE : create filling component BODY : to create more than a simple svg to hpgl converter, a component which is capable of filling modelelements with different path patterns is one crucial component. todo - creating a filling component - the component should be flexible to be able to create different fillings

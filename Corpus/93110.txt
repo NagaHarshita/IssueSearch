@@ -1,0 +1,1 @@
+ URL : "https://github.com/CityOfPhiladelphia/carto-api-explorer/issues/10" TITLE : add docs for number fields BODY : carto calls them number fields but really they could be integers, floats, decimals, etc.

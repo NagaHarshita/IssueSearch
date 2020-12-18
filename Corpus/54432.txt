@@ -1,0 +1,1 @@
+ URL : "https://github.com/marco-c/grcov/issues/10" TITLE : gcov_to_es not working BODY : please update the install script to install grcov so that the activedata-etl can use it. etl machines are setup by machine, there will be no human to fill in the blanks for scripts that almost work.

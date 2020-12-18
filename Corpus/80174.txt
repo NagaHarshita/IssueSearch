@@ -1,0 +1,1 @@
+ URL : "https://github.com/ChurchCRM/CRM/issues/2369" TITLE : test email functionality BODY : there are a few behat plugins for email: https://github.com/tyler43636/behat-mail-extension

@@ -1,0 +1,1 @@
+ URL : "https://github.com/vanilla/docs/issues/76" TITLE : update theming docs BODY : update information in the about.php file walkthrough for custom theme basics about.php theme hooks overwrite smarty tags forking another theme

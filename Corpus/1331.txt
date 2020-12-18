@@ -1,0 +1,1 @@
+ URL : "https://github.com/chocolatey/chocolatey-package-requests/issues/188" TITLE : rfm - f.lux BODY : do not do enough windows development to justify being the main maintainer of this package any longer. source for the existing package exists here: https://github.com/brianmego/chocolatey

@@ -1,0 +1,1 @@
+ URL : "https://github.com/MAPC/dyee-dashboard/issues/44" TITLE : job count incorrect BODY : for the user with the id 39 the count of available open positions is incorrect. it says there are 39 open positions of 40 when there should actually be much less.

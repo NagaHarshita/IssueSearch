@@ -1,0 +1,1 @@
+ URL : "https://github.com/EricDarve/numerical_linear_algebra/issues/54" TITLE : minor typo p232 BODY : in such that p 0 = 1 and which minimizes ||p a b||_2 there is an extra closing parenthesis in ||p a b||_2 .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/cupsadarius/generaptr/issues/33" TITLE : generate models for mysql BODY : generate sequelize models and repositories based on the schema

@@ -1,0 +1,1 @@
+ URL : "https://github.com/TrustWallet/trust-wallet-android/issues/34" TITLE : check device secure BODY : if the user does not bother with the security of the device there is no pin, password or pattern or the device is has root access, then display a warning. check device secure: https://developer.android.com/reference/android/app/keyguardmanager.html isdevicesecure

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mbarrben/moviedb/issues/7" TITLE : manage empty/null details BODY : when some of the movie details are empty/null they are still rendered. for instance, if there's no revenue or it is 0, it's still rendered as revenue $0 . i'd rather it just to stay hidden.

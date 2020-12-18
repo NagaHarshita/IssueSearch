@@ -1,0 +1,1 @@
+ URL : "https://github.com/elastic/kibana/issues/10284" TITLE : 5.x npm bump makelogs BODY : npm bump makelogs backports pr 10279 commit 1: npm bump makelogs original sha: 044e4e231f0e292da0c9168022f6547bc1d9ff8a authored by spalger <spalger@users.noreply.github.com> on 2017-02-09t23:05:18z

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Miss-qi/201-nodejs-web/issues/2" TITLE : category model 的设计 BODY : 1. categoryid 的作用是什么？ 2. 为什么是 category 含有 item ，而不是 item 含有 category ？ 3. 如果一定要 item 含有 category 的话，该怎么做？为什么？

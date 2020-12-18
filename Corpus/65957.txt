@@ -1,0 +1,1 @@
+ URL : "https://github.com/zoeparman/smartflanders-data-query/issues/9" TITLE : logical data structures BODY : data structures currently contain unnecessary fields and don't use json-ld standards @id .

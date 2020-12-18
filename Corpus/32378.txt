@@ -1,0 +1,1 @@
+ URL : "https://github.com/elastic-rs/elastic/issues/187" TITLE : update to serde 1.0 BODY : depends on: - elastic_types : https://github.com/elastic-rs/elastic-types/issues/62 - elastic_responses : https://github.com/elastic-rs/elastic-responses/issues/27

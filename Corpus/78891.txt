@@ -1,0 +1,1 @@
+ URL : "https://github.com/ulventech/dynamicdelta/issues/4" TITLE : rename all dd components BODY : we should rename all components from the current dd type to just type . eg, ddh1 should be h1, this makes it way easier to remember what to import, the dd is redundant as we all-ready know that we are importing a dd component since it comes form the dd npm package.

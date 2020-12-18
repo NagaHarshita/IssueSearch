@@ -1,0 +1,1 @@
+ URL : "https://github.com/filipecoelho/bustracker-app/issues/6" TITLE : pegar uuid quando for ios BODY : no ios o mac address é mascarado e a única chave de validação deve ser o uuid

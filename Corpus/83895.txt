@@ -1,0 +1,1 @@
+ URL : "https://github.com/szeged/webrender/issues/5" TITLE : compile shaders to spir-v BODY : vulkan requires spir-v format, which we can compile at build time. depends on: 2

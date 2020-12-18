@@ -1,0 +1,1 @@
+ URL : "https://github.com/protobi/js-xlsx/issues/70" TITLE : get error with jszip ! BODY : i base one meteor . 1- it is ok for native https://github.com/sheetjs/js-xlsx install and use. but it don't get style when i generate excel file form template. 2- and then i would like to try this instead, but show error cannot find module 'jszip'

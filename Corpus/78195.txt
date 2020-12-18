@@ -1,0 +1,1 @@
+ URL : "https://github.com/seiyria/ng2-sweetalert2/issues/17" TITLE : please up your depencies BODY : the current version of @angular/platform-browser is not @^2.0.0-rc.4 but @4.2.5 https://www.npmjs.com/package/@angular/platform-browser please up your dependencies

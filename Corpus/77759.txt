@@ -1,0 +1,1 @@
+ URL : "https://github.com/eurekaclinical/eurekaclinical-standard-apis/issues/4" TITLE : npe in rolesfromdbfilter BODY : when the user does not have a user record in a service, the rolesfromdbfilter throws a npe, which causes any rest endpoint to respond with a 500 status code. there needs to be null check on the user, and if it is null, return an empty roles array.

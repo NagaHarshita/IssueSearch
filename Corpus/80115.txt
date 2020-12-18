@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/Cognitive-LUIS-Windows/issues/59" TITLE : target .net standard 2.0 BODY : hi all, are there any plans to target .net standard 2.0 with this package instead of keeping it as a pcl? if not, then why? : i am more than glad to help with a pr if that's the only blocker. thanks, péter

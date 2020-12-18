@@ -1,0 +1,1 @@
+ URL : "https://github.com/etomica/etomica/issues/59" TITLE : refactor data classes BODY : conceptually, the data classes could easily be improved/simplified by using generics and possibly java 8 functional utilities. this won't make it into the first refactoring pr 45 so i'm making a separate issue for it.

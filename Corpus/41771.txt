@@ -1,0 +1,1 @@
+ URL : "https://github.com/CodeMOOC/TreasureHuntBot/issues/11" TITLE : add hint/skip support BODY : users and administrators should be able to skip both locations and riddles. in the case of users asking for a “skip”, this bonus should be limited per-game.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/HCDigitalScholarship/global-terrorism-research/issues/12" TITLE : filter of search results BODY : if you select a keyword in search results and click filter, you get: exception type: | nameerror -- | -- global name 'statment_list' is not defined ./gtr_site/filtering.py in filter_by_keyword, line 44

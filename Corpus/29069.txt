@@ -1,0 +1,1 @@
+ URL : "https://github.com/jaros1/Money-Network-W2/issues/26" TITLE : invalid old session BODY : in vm2. old session cannot connect to mn. mn wallet test new session can connect to w2. w2 must replace old session information with new session information after ok session handshake with mn

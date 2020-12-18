@@ -1,0 +1,1 @@
+ URL : "https://github.com/EasyinnovaSL/DPFManager/issues/460" TITLE : checking zips bug BODY : when checking a zip, the path in the report is not correct it is the temporal folder created with the unzipped files . and, when converting a report from quick to full check, the zips are not working correctly.

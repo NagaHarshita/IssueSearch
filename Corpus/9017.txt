@@ -1,0 +1,1 @@
+ URL : "https://github.com/bobbingwide/oik-nivo-slider/issues/5" TITLE : support php 7.1 BODY : as for bobbingwide/oik/issues/64, oik-nivo-slider needs to support php 7.1 having at least some phpunit tests and ensuring these all run under php 7.1 should suffice for now.

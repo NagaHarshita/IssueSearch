@@ -1,0 +1,1 @@
+ URL : "https://github.com/SublimeLinter/SublimeLinter3/issues/536" TITLE : new plugin: ansible-lint BODY : sublimelinter plugin for ansible, using ansible-lint. repo link: https://github.com/mliljedahl/sublimelinter-contrib-ansible-lint

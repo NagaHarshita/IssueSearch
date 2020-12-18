@@ -1,0 +1,1 @@
+ URL : "https://github.com/FABtotum/FAB_Configs/issues/4" TITLE : adding raft stop extrusion BODY : hello, cura 15 profiles. if i adding raft as support the printer stop extruding in the middle of first layer. if i use brim the printer don't stop.

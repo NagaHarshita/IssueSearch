@@ -1,0 +1,1 @@
+ URL : "https://github.com/MKFirmware/MK4duo/issues/181" TITLE : laser class compile error BODY : ok, i sorted out one problem and now have another: sketch/src/laser/laser_sam.cpp:159:24: error: no 'void laser::diagnose ' member function declared in class 'laser' void laser::diagnose { arduino due with ramps4due thanks in advance

@@ -1,0 +1,1 @@
+ URL : "https://github.com/dionisisvas/training-project/issues/14" TITLE : add user comments support BODY : add user comments support in back-end java and db table : - create user_comments table in db with user id as foreign key - create usercomments controller - service and repository classes

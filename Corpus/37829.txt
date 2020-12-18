@@ -1,0 +1,1 @@
+ URL : "https://github.com/MvvmCross/MvvmCross/issues/2445" TITLE : mvvmcross wpf onexit BODY : hello, how could i react in a viewmodel if the application is closed. the override events are not fired in wpf. thnak you for your help thomas

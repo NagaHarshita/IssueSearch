@@ -1,0 +1,1 @@
+ URL : "https://github.com/drone/drone-ui/issues/87" TITLE : browser notification api BODY : would be cool if the notification api could be used to, for example, send a notification that the build succeeded/failed if you're on a build page.

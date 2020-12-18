@@ -1,0 +1,1 @@
+ URL : "https://github.com/openambitproject/openambit/issues/117" TITLE : ambit 2 duck not detected BODY : i have openambit version 0.3 installed in xubuntu 16.04 in an oracle virtualbox vm . my ambit2 duck is detected by the os usb code 019 , but still openambit says no device detected .

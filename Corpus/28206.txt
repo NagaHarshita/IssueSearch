@@ -1,0 +1,1 @@
+ URL : "https://github.com/Kevin-OConnor/PiScout-2016/issues/1" TITLE : fix apr calculation BODY : apr was fixed just enough so the code runs, doesn't actually make sense for this game. need to figure out how to account for gears in apr and update formula accordingly.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mreinstein/net-peer/issues/8" TITLE : add udp example usage BODY : with a small adapter, this library is usable with datagrams. this also would make a great harness for automated tests, because webrtc requires quite a bit of ceremony to set up.

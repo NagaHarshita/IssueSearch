@@ -1,0 +1,1 @@
+ URL : "https://github.com/rcloran/luup-prometheus/issues/3" TITLE : 404 on latest firmware BODY : with the latest vera firmware 1.7.3232 i've started getting a 404 on the data_request http calls... i see the plugin starting in the logs, but 404 on any actual request... side note, would be totally in to this being a full-on mios app.

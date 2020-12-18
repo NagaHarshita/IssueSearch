@@ -1,0 +1,1 @@
+ URL : "https://github.com/CS3201-T10/SPA/issues/18" TITLE : change include paths BODY : change include paths of all files under qps folder to include ../qps/filename.h so that compiler can see the header file.

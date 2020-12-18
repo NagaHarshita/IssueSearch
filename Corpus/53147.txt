@@ -1,0 +1,1 @@
+ URL : "https://github.com/sjruby/wdi-client-project-two/issues/1" TITLE : delete only works once BODY : if you a delete a board it will clear the board the first time but the second time just appends teh list below the board. likely b/c i'm removing the anchor html element in the first hb action.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/CWempe/SuperLEDstripe/issues/5" TITLE : add support for ota update BODY : possibly by adding the homie framework https://github.com/marvinroger/homie-esp8266 . or based on sonoff-tasmota https://github.com/arendst/sonoff-tasmota/ needs or replaces 3

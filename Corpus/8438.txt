@@ -1,0 +1,1 @@
+ URL : "https://github.com/joshcam/PHP-MySQLi-Database-Class/issues/635" TITLE : number of rows. BODY : how to get the number of rows?? the following is my code: $db->where username , $this->username ; $db->where password , $this->password ; $user = $db->getone users ; i want to know if it returns 1 row or more.

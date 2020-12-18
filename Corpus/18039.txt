@@ -1,0 +1,1 @@
+ URL : "https://github.com/FACN1/pod/issues/29" TITLE : set up pre-commit BODY : - npm install --save -dev pre-commit - set up lint script

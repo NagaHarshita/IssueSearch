@@ -1,0 +1,1 @@
+ URL : "https://github.com/neo4j-graphql/neo4j-graphql/issues/65" TITLE : select by node id BODY : we need to query by neo4j's node id, to retrieve a particular starting node. and get the node id as a field, too. please?

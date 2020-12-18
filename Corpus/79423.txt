@@ -1,0 +1,1 @@
+ URL : "https://github.com/arturbosch/detekt/issues/533" TITLE : severity level for rules BODY : at the moment detekt has severity grades. additionally, severity levels might be useful. some rule violation are not so tragic than others. a detekt configuration option to only report issues with severity level < config might also be useful.

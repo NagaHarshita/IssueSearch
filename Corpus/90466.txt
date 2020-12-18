@@ -1,0 +1,1 @@
+ URL : "https://github.com/khrice/redis-manager/issues/9" TITLE : show more info from a key BODY : when you select a key show more info from that key - ttl - created date - database it is in

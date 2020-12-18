@@ -1,0 +1,1 @@
+ URL : "https://github.com/PouletFrit/csDelaunay/issues/6" TITLE : generalized plot bounds BODY : source code voronoi.cs has the following comment: cs // todo generalize this so it doesn't have to be a rectangle; // then we can make the fractal voronois-within-voronois public rectf plotbounds; could anyone help me/this library with this?

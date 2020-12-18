@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla/fxa-content-server/issues/4920" TITLE : move to l20n BODY : it's the future! also, it's design helps with an issue we ran into, where need the phrase sign in in 2 different tenses as un 4916. test pilot is an example app we can look at that is using with pontoon.

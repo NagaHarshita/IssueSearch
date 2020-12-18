@@ -1,0 +1,1 @@
+ URL : "https://github.com/felixrieseberg/windows-build-tools/issues/58" TITLE : why not python3? BODY : this package seems to install python 2.7, but it is supported for only 3 years. support is expired in 2020. see https://pythonclock.org/ is there a plan to upgrade python to the version 3?

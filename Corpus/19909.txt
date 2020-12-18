@@ -1,0 +1,1 @@
+ URL : "https://github.com/bkaradzic/bgfx/issues/1256" TITLE : api reference typo BODY : > void bgfx::setvieworder uint8_t _id = 0, uint8_t _num = uint8_max, const void _remap = null > post submit view reordering. > attention > c99 equivalent is bgfx_set_view_remap it should be bgfx_set_view_order .

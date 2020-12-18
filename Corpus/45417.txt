@@ -1,0 +1,1 @@
+ URL : "https://github.com/shubhtuls/ViewpointsAndKeypoints/issues/6" TITLE : i meet one trouble... BODY : hi! @shubhtuls i follow the readme, and when i run mainvpspridet, it's requires ilsvrc_2012_mean.mat, but i didn't see this mat in /external/caffe/matlab/caffe/. can you tell me how to solve this? thanks!

@@ -1,0 +1,1 @@
+ URL : "https://github.com/lonelyjoeparker/qmul-genome-convergence-pipeline/issues/55" TITLE : save plots as image BODY : fork issue from 52 - save xchart plots in context browser as png/bmp/pdf. bumped from 0.9 release as not enough time.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Sinusbot/installer-linux/issues/38" TITLE : improve systemd handling BODY : use always systemd if available. check for it via: bash if $ which systemctl != ; then use systemd fi store this in a global variable which will checked always when we need to decide for systemd or init.d.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/mssql-docker/issues/189" TITLE : sql server 2017 sp1 BODY : with the release of sp1 for sql server 2017, i assume the :latest tag will be updated with this service pack. how do i get notified when this is available both for linux and windows versions? what do i watch?

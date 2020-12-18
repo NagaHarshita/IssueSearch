@@ -1,0 +1,1 @@
+ URL : "https://github.com/kensanata/bitlbee/issues/2" TITLE : handle media attachments BODY : perhaps we need to add urls to the attachments if these urls aren't already part of the status text itself.

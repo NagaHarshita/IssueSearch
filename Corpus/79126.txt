@@ -1,0 +1,1 @@
+ URL : "https://github.com/yazdani/sar_mission/issues/8" TITLE : rotate.h not checked in? BODY : img_mission/src/publishing_storing relies on cmd_mission/rotate.h but that file doesn't appear in cmd_mission/src!

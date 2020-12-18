@@ -1,0 +1,1 @@
+ URL : "https://github.com/Joomla-Bible-Study/Joomla-Bible-Study/issues/758" TITLE : installation get stuck BODY : the installation of both the package and the component get stuck. it simply never comes to an end, even when a huge memory and a long timeout is set in php.ini. this happens on two different servers. i tested with joomla 3.7.2 and bs 9.0.17

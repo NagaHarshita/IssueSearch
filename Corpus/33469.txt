@@ -1,0 +1,1 @@
+ URL : "https://github.com/laradock/laradock/issues/768" TITLE : add python container BODY : hey gang has anybody added support for python container i specifically need it available in the workspace and mysql containers . if not, please let me know and i will take care of it. specifically need python 2.7 , but if i create container i will also expose python 3.x support

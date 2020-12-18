@@ -1,0 +1,6 @@
+ URL : "https://github.com/millerp/chamados/issues/100" TITLE : chamado 1412301 BODY : dados do chamado
+| gravidade | urgência | tendência | gut |
+|-----------|----------|-----------|-----|
+| 4 | 4 | 5 | 80 | criação : 31601 - daniel costa - 28/04/2016 09:11:27 descrição do chamado :
+caros, quando um designer esquece de relacionar produto pai e filho no momento do cadastro, não há como corrigir. essa semana foram cadastrados os itens 78369 / 78370 e 78371 / 78372, todos em separado. mesmo excluindo e cadastrando novamente, o erro não foi solucionado. os itens 78369 e 78371 são os pais. precisamos que seja alterado para atualizarmos no site e integrar as imagens, por favor. se possível, também é importante criarmos algum tipo de trava para que esse erro não ocorra, ou uma forma manual no webpdv para eu ou os designers corrigirem sem a necessidade do chamado. muito obrigado! descrição da tarefa
+\ espaço destinado às especificações/requisitos da tarefa levantados durante a análise

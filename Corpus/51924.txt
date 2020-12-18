@@ -1,0 +1,1 @@
+ URL : "https://github.com/jaemk/transfer/issues/14" TITLE : build & deploy scripts BODY : these share a good amount of code and should probably be combined into something like manage .

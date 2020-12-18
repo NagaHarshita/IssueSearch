@@ -1,0 +1,1 @@
+ URL : "https://github.com/askmike/gekko/issues/698" TITLE : ui port don't open BODY : hello, i run gekko with server configuration on my vds on ip 212.86.102.103. and port 3000 api work and open but port 3001 for ui don't work and dont't open.

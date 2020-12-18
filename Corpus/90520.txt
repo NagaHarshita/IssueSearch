@@ -1,0 +1,1 @@
+ URL : "https://github.com/neuro-ml/deep_pipe/issues/21" TITLE : simplify training process BODY : users should be able to create training functions easily to allow more customization

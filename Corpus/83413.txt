@@ -1,0 +1,1 @@
+ URL : "https://github.com/pyserial/pyserial/issues/207" TITLE : cannot capture arrow keys BODY : i ran a console .getkey in a while loop, and while pressing arrow keys, for example up arrow, i can only get 27 and 91 in ascii code but lack of 65. here 27, 91, 65 means ^ a , that is corresponding to arrow up key. and only after pressing enter key, the 65 appears.

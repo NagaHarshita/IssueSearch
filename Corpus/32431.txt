@@ -1,0 +1,1 @@
+ URL : "https://github.com/BC-CTE/CTE-Cohort-Scheduler/issues/1" TITLE : url routing problem BODY : using idesstage2.bc.edu/cohortscheduler/public works fine although you need to map /public to be the virtual directory , but http://ctecohorts.bc.edu/ doesn't work. http://ctecohorts.bc.edu/ will load the sign in route just fine, but will not load /dashboard or any other route.

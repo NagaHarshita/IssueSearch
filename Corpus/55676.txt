@@ -1,0 +1,1 @@
+ URL : "https://github.com/awslabs/lambda-java8-dynamodb/issues/1" TITLE : lambda handler missing BODY : it will not be possible to call this lambda as there is no lambda handler to process the input and call the functions in the eventfunctions class, unless there is some other way.

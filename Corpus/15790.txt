@@ -1,0 +1,1 @@
+ URL : "https://github.com/steveklabnik/rustdoc/issues/109" TITLE : fix the mac build BODY : looks like @mgattozzi 's https://github.com/steveklabnik/rustdoc/pull/107 broke the build. i assumed that it wouldn't and merged too quickly 😓 https://travis-ci.org/steveklabnik/rustdoc/jobs/260764460 something about phantomjs

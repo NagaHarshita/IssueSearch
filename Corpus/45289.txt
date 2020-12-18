@@ -1,0 +1,1 @@
+ URL : "https://github.com/lwansbrough/react-native-camera/issues/1032" TITLE : how to detect cameras BODY : <!-- love react-native-camera? please consider supporting our collective: 👉 https://opencollective.com/react-native-camera/donate --> what is the recommended way to detect if a device has a front camera?

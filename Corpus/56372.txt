@@ -1,0 +1,1 @@
+ URL : "https://github.com/LaserWeb/LaserWeb4/issues/267" TITLE : multiple camera issues BODY : on machines with multiple cameras the image is not picked from the selected camera but the stream is indeed different and correct on debug. i hate you webrtc.

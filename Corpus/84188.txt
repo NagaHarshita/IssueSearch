@@ -1,0 +1,1 @@
+ URL : "https://github.com/yii2tech/admin/issues/14" TITLE : create actionalert widget BODY : actionalert widget should provide the way to display some action proposition to the user based on session flag. see https://github.com/yii2tech/model-change

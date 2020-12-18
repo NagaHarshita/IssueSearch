@@ -1,0 +1,1 @@
+ URL : "https://github.com/elastic/elasticsearch/issues/26797" TITLE : rpm install problem BODY : rpm install of elasticsearch 5.6.2 on sles11-sp3 failed with following error: elasticsearch-5.6.2.rpm: headerread failed: header sanity check: ok fyi: but rpm install of logstash 5.6.2 and kibana 5.6.2 on sles11-sp3 succeeded.

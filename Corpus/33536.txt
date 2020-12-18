@@ -1,0 +1,1 @@
+ URL : "https://github.com/Izzimach/react-pixi/issues/73" TITLE : add support for rect BODY : perhaps i'm just not seeing it in the readme or examples. is it possible to create a simple rect or arc? i prefer to prototype games using shapes.

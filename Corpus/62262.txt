@@ -1,0 +1,1 @@
+ URL : "https://github.com/vuejs/vuefire/issues/123" TITLE : chat example with auth. BODY : hi, thanks for the great work. i have worked chat example with google auth. enabled. http://plnkr.co/edit/uc8cae?p=preview if this code is fine, i want to make pr to be stored to examples/chat-app/auth.html

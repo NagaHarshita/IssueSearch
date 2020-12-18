@@ -1,0 +1,1 @@
+ URL : "https://github.com/dvlpr-denis/todoapp/issues/4" TITLE : use ес6 syntax BODY : since you build your project with gulp, you re allowed to use babel.

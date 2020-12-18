@@ -1,0 +1,1 @@
+ URL : "https://github.com/srbest/hybrisDemo/issues/1" TITLE : 3.2 : task 1 BODY : create two types of objects: “car” and “part”. relation between object types should be many-to-one unidirectional on the car side, e.g. car must have a collection of parts, but part should not be aware of car.

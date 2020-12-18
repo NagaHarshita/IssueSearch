@@ -1,0 +1,1 @@
+ URL : "https://github.com/radareorg/cutter/issues/109" TITLE : projects are broken BODY : because of https://github.com/radare/radare2/issues/8763 one workaround for 1.0 might be to always use prj.simple in cutter until it is fixed.

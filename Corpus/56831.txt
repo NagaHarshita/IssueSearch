@@ -1,0 +1,1 @@
+ URL : "https://github.com/RadeonOpenCompute/ROCm/issues/156" TITLE : opencl intall question BODY : can i install both rocm-opencl and rocm-opencl-dev packages, or do i only need one of them ?

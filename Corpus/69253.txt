@@ -1,0 +1,1 @@
+ URL : "https://github.com/heroku/heroku-buildpack-erlang/issues/17" TITLE : support for erlang 20.1 BODY : hi, could we get support for erlang 20.1? i have been trying to get the buildpack to work with the latest version of cowboy, but that requires erlang 19+. thanks so much.

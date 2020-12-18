@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozey/mobz/issues/4" TITLE : use tag to select hub BODY : changes to endpoints - get /hub/{tag} returns hub status or creates a new hub - location websocket wss://host/location/{tag} must be specific to a hub

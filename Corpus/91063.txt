@@ -1,0 +1,1 @@
+ URL : "https://github.com/jpadilla/django-rest-framework-xml/issues/19" TITLE : support up to django 1.10 BODY : this shouldn't be too hard. i'm actually currently using it but the tests, for example, aren't supported in django 1.10 which i'm using at the moment. happy for me to take a stab at this?

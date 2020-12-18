@@ -1,0 +1,1 @@
+ URL : "https://github.com/Camelcade/Perl5-IDEA/issues/1440" TITLE : remove legacy things BODY : some locally changed things: - perl5heredocinjectionswatcher - perl5documentbasedformattingmodel

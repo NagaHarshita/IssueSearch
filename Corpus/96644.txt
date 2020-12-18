@@ -1,0 +1,1 @@
+ URL : "https://github.com/compodoc/compodoc/issues/113" TITLE : feature add promise return BODY : can you add that feature: if i write in typescript: public signin : promise<string> in compodoc i have: returns: promise<string> ?

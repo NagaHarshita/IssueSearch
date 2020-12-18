@@ -1,0 +1,1 @@
+ URL : "https://github.com/timduly4/pyglow/issues/20" TITLE : iri runtime for profiles BODY : when i use iri i usually want electron density profiles over the globe. i've done it with pyglow, but it introduces a significant amount of unnecessary overhead. is there an effective method to do this that i didn't see?

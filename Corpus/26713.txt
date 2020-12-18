@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpenLiberty/open-liberty/issues/163" TITLE : bval20: wdt support BODY : as a wdt developer, i want to include support for bean validation 2.0 function work with wdt to make sure they update the tooling to support the new deployment descriptor elements of bean validation 2.0 and any other updates due to having a new bean validation feature.

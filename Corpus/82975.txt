@@ -1,0 +1,1 @@
+ URL : "https://github.com/MaximeHerpin/modular_tree/issues/154" TITLE : better leaves orientation BODY : following the idea used for the twig leaves, but generating an emitter composed of planes where each plane is the source of a leaf/twig. with this, the leaves will have the same direction as the branches they are generated from.

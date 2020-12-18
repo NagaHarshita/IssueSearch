@@ -1,0 +1,1 @@
+ URL : "https://github.com/gkoberger/BugzillaJS/issues/128" TITLE : not e10s compatible... BODY : bugzillajs is disabled on current nightly and will be disabled for all users when firefox 57 ships. any chance of an update to allow it to continue to work?

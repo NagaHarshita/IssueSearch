@@ -1,0 +1,1 @@
+ URL : "https://github.com/JayFoxRox/pykdclient/issues/8" TITLE : most features are untested BODY : a lot of these scripts functions are untested. most of the script was a simple port of https://github.com/espes/xqemu/blob/xbox/scripts/windpl/windpl.pl to python. this issue will be closed once the project is more mature. for now, consider everything broken, but fixable.

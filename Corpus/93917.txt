@@ -1,0 +1,1 @@
+ URL : "https://github.com/JuliaPackaging/BinaryBuilder.jl/issues/50" TITLE : autofix erroring in wizard BODY : 17:36:09 about to run patchelf 17:36:09 error: failed to run specified command! 17:36:09 child process pid is 77362 17:36:10 about to run patchelf 17:36:10 error: failed to run specified command! 17:36:10 child process pid is 77371

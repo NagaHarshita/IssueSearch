@@ -1,0 +1,1 @@
+ URL : "https://github.com/mcci-catena/arduino-lorawan/issues/5" TITLE : don't disable adr for us BODY : once adr is tested and working in the us, allow the library to be configured to enable adr. perhaps we should read this as a setting from fram?

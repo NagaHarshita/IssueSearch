@@ -1,0 +1,1 @@
+ URL : "https://github.com/flyinghyrax/Elementary/issues/19" TITLE : spotify media player skin BODY : the plugin can be found here: https://forum.rainmeter.net/viewtopic.php?p=94631 p94631 - remove the stop button - create right-aligned and mini variants - extract measures to shared file - reorganize folders to put nowplaying and spotify skins at the same level

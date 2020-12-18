@@ -1,0 +1,1 @@
+ URL : "https://github.com/google/csp-evaluator/issues/3" TITLE : disown-opener support BODY : similar to issue 2, the disown-opener is a valid csp-3 directive: https://www.w3.org/tr/csp3/ directive-disown-opener

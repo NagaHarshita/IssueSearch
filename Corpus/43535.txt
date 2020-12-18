@@ -1,0 +1,1 @@
+ URL : "https://github.com/NickNaso/magick-cli/issues/2" TITLE : create version method BODY : create version method with the following signature: magickcli.version - add constant to indicate the maximum and minimum of supported version of imagemagick

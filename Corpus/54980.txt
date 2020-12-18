@@ -1,0 +1,1 @@
+ URL : "https://github.com/halverneus/org.kde.video/issues/1" TITLE : i get bgm but no video BODY : opensuse tumbleweed i do as the guide, but now i have only sound but video. i have ffmpeg, mplayer, and have try several type of video files such as h264, mpeg4, mpeg1, but nothing work. so i'm thinking if i miss some package?

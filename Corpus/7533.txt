@@ -1,0 +1,1 @@
+ URL : "https://github.com/dompdf/dompdf/issues/1521" TITLE : go to next page BODY : i want to generate a pdf with multiple pages. i haven't seen anything like this previously mentioned. basically what i want is wherever the content ends, i could break the page there and start next content from the new page. am i being clear here? is it possible?

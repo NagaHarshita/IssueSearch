@@ -1,0 +1,1 @@
+ URL : "https://github.com/rgleichman/glance/issues/1" TITLE : improve graph layout BODY : graphviz produces very spread out images when laying out medium to large functions.

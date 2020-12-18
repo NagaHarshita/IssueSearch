@@ -1,0 +1,1 @@
+ URL : "https://github.com/robhagemans/basicode-interpreter/issues/26" TITLE : error on first run BODY : first run shows error due to program text becoming literally null

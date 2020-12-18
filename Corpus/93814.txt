@@ -1,0 +1,1 @@
+ URL : "https://github.com/sohobloo/react-native-modal-dropdown/issues/39" TITLE : array of objects as option BODY : works fine when you set a renderrow function. but when you select a option, the selected data is set to object object .. it should use the renderrow function to extract the data to show.

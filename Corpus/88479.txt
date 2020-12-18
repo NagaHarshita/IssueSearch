@@ -1,0 +1,1 @@
+ URL : "https://github.com/sipcapture/captagent/issues/161" TITLE : no rtcp sent by captagent BODY : profile name= socketspcap_rtcp description= rtcp socket enable= true serial= 2014010402 but don't work/ couldnot find this call

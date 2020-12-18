@@ -1,0 +1,1 @@
+ URL : "https://github.com/ChrisASearles/CompLinks/issues/143" TITLE : error in search BODY : searches that return no results are throwing an unhandled exception in advertiserdal.cs on line 200. advertiser.advertisercategories is empty and the .first is failing out. to reproduce, just run a search for 'm'.

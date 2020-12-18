@@ -1,0 +1,1 @@
+ URL : "https://github.com/dwalkr/wp-admin-utility/issues/9" TITLE : checkbox save problem BODY : checkboxes may not unset data correctly when not checked and item is saved

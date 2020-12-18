@@ -1,0 +1,1 @@
+ URL : "https://github.com/inveniosoftware/flask-sso/issues/24" TITLE : docs need more work BODY : not to be critical, but i've been trying to get this module to work with my app and my orgs sso. the docs in here are very minimal and a bit confusing. it would be nice to see an example laid out more thoroughly.

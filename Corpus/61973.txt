@@ -1,0 +1,1 @@
+ URL : "https://github.com/adamosoftware/Postulate.Orm/issues/10" TITLE : can not use with net40. BODY : i tried install postulate.orm over nuget , and get an error. ! image https://user-images.githubusercontent.com/6261615/28049618-b98a48b6-6622-11e7-817e-1c9340f9187f.png seem like postulate.orm not support .net40

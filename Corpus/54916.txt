@@ -1,0 +1,1 @@
+ URL : "https://github.com/receipt-print-hq/escpos-tools/issues/11" TITLE : html output: alignment BODY : implement esc a justification. the receipt-with-logo example contains text which should appear in the center if it is rendered correctly. ! screenshot from 2017-05-20 23-47-19 https://cloud.githubusercontent.com/assets/2080552/26276244/b1575eb6-3db6-11e7-97fb-c075f7fd5a83.png

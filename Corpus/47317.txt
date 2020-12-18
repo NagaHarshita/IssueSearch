@@ -1,0 +1,1 @@
+ URL : "https://github.com/AaronJackson/vrn/issues/14" TITLE : other trained models? BODY : in the paper, you describe 3 models: vrn, vrn-multitask, and vrn-guided. i believe that the model included in the framework is only the first; do you plan on releasing the other two? very much appreciate the code, thanks for releasing! matthew

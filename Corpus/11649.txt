@@ -1,0 +1,1 @@
+ URL : "https://github.com/bitpay/bitcore-wallet-service/issues/659" TITLE : insight not sync BODY : bitcoind is the current blockheight, but when use https://insight.bitpay.com/api/sync, i can not get the latest blockheight . i restart bitcored , sync seems right, but will not sync after a period of time.please help.

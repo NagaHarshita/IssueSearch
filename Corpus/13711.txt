@@ -1,0 +1,1 @@
+ URL : "https://github.com/RUBi-ZA/MD-TASK/issues/14" TITLE : write unit tests BODY : currently, the package is tested by running a script that passes if no errors are thrown. there is no checking that the results being produced are actually correct or even that they are in fact produced .

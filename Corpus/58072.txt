@@ -1,0 +1,1 @@
+ URL : "https://github.com/Vinylshop/vinylshop/issues/17" TITLE : routes: product routes BODY : get all products get all products in a category get all available product get specific product by id post make new product put updating existing product delete product //when a product quantity is 0 it should still exist on the database

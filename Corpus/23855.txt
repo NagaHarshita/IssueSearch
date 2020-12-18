@@ -1,0 +1,1 @@
+ URL : "https://github.com/skoro/assets-pack/issues/14" TITLE : replace url in css BODY : replace url in css, woocommerce for example: .rule { url ../font.woff ; }

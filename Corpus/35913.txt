@@ -1,0 +1,1 @@
+ URL : "https://github.com/language-learners/superchallengebot/issues/2" TITLE : fix crontab & docker BODY : need to fix the tweet collector to run with the crontab in docker-compose.

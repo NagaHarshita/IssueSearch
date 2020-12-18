@@ -1,0 +1,1 @@
+ URL : "https://github.com/hanfang/scikit-ribo/issues/2" TITLE : issues with rnafold BODY : i got stuck with creating the rnafold input file.both call_rnafold.py and process_rnafold.py are not added to the path by setup and the documentation is not clear regarding the parameters of this function. is rnafold a dependency of scikit-ribo? thanks for clarifying

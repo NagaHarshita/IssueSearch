@@ -1,0 +1,1 @@
+ URL : "https://github.com/Cadasta/cadasta-workertoolbox/issues/1" TITLE : add importable tests BODY : the worker toolbox should provide tests that can be imported by a worker to verify that the given worker is correctly set up.

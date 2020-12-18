@@ -1,0 +1,1 @@
+ URL : "https://github.com/chriskacerguis/codeigniter-restserver/issues/837" TITLE : bad server parameter BODY : https://github.com/chriskacerguis/codeigniter-restserver/blob/944c1f3c9065cab08bb385b0d4b91daa4e789079/application/libraries/rest_controller.php l1999 the server parameter must be 'http_authorization'

@@ -1,0 +1,1 @@
+ URL : "https://github.com/salvadordf/CEF4Delphi/issues/47" TITLE : compatibility with dcef3 ? BODY : hi not an issue, but a question : currently i use dcef3, but it's outdated and seems abandoned. is this cef4 compatible with dcef3 ? if i just uninstall dcef3 and install cef4, will my apps still run without need to change my code ? thanks !

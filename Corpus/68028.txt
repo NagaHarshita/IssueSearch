@@ -1,0 +1,1 @@
+ URL : "https://github.com/Esir-TICB-2017/NSOC-Projet/issues/5" TITLE : refactor sensor classes BODY : make sub class temperaturesensor, consumptionsensor, etc inherit from a super class sensor

@@ -1,0 +1,1 @@
+ URL : "https://github.com/zhongbiaodev/py-mysql-elasticsearch-sync/issues/15" TITLE : sync binlog very slow BODY : when i run es-sync, it was very slow to sync the binglog, i don't understand. is the binlog to large? it it has been keeping running for 15 min, still not over

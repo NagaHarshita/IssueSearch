@@ -1,0 +1,1 @@
+ URL : "https://github.com/EmilyBjoerk/lsml/issues/681" TITLE : fix pilot module counts BODY : there are various locations where pilot modules mech, consumable and weapon are still displayed. these need to be fixed.

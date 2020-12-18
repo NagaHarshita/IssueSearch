@@ -1,0 +1,1 @@
+ URL : "https://github.com/stevedesmond-ca/dotnet-arm/issues/7" TITLE : no longer builds BODY : build-coreclr produces: grep: ../core-setup/pkg/projects/microsoft.netcore.app/project.json.template: no such file or directory build-roslyn produces: make: no role to make target 'all'. stop. build-cli produces: ./run-build.sh: line 109: syntax error near unexpected token '

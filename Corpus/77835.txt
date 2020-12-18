@@ -1,0 +1,1 @@
+ URL : "https://github.com/Sonarr/Sonarr/issues/1977" TITLE : omg added uhd categories BODY : https://github.com/sonarr/sonarr/blob/d5965efccbaf589813e7b24ef1e71d1f95acdb53/src/nzbdrone.core/indexers/omgwtfnzbs/omgwtfnzbsrequestgenerator.cs l94 should now include catid 30 for uhd.

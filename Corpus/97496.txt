@@ -1,0 +1,1 @@
+ URL : "https://github.com/Windows-XAML/Template10/issues/1381" TITLE : hamburger menu displaymode BODY : this does not work <controls:hamburgermenu x:name= myhamburgermenu visualstatenormaldisplaymode= inline visualstatenarrowdisplaymode= inline visualstatewidedisplaymode= inline > and it should.

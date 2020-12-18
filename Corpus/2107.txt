@@ -1,0 +1,1 @@
+ URL : "https://github.com/UCSD/now-mobile/issues/114" TITLE : sso ui setup BODY : implement ui and user flow for: 1. student enters pid/pac 2. student taps submit 3. system connects to ecp 4. ecp returns token 5. token securely stored on device

@@ -1,0 +1,1 @@
+ URL : "https://github.com/panva/node-oidc-provider/issues/85" TITLE : customise logout page BODY : is there a way to customise the end session page? at the moment it returns a html form which asks them if they want to logout of the op - i would like to bypass this and just log them out and return them to the application.

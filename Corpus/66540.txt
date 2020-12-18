@@ -1,0 +1,1 @@
+ URL : "https://github.com/jorgenschaefer/elpy/issues/1197" TITLE : multiple python session BODY : hi, if there a way to switch between python session? by default, we use python session, is there an easy way to start a different session, say python2 , and switch between them? thanks, yi

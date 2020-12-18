@@ -1,0 +1,1 @@
+ URL : "https://github.com/LMMS/lmms/issues/3448" TITLE : audit copyright status BODY : new files should follow these guidelines https://github.com/lmms/lmms/wiki/copyright-information . a project check should be done to make sure existing files adhere. an automated task may help.

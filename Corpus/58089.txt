@@ -1,0 +1,1 @@
+ URL : "https://github.com/dernasherbrezon/r2cloud/issues/20" TITLE : rtl_test not installed BODY : rtlsdrstatusdao depends on it, but not included into deb dependencies

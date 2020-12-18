@@ -1,0 +1,1 @@
+ URL : "https://github.com/costezki/lifecost-ui/issues/57" TITLE : draw resulting statistics BODY : draw resulting statistics with life cost evolution. build three ui templates drawing statistics using each of libraries below: d3 http://www.chartjs.org/ http://gionkunz.github.io/chartist-js/index.html

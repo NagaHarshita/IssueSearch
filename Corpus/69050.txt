@@ -1,0 +1,1 @@
+ URL : "https://github.com/Labs64/laravel-boilerplate/issues/15" TITLE : start local smtp server BODY : smtp docker https://hub.docker.com/r/namshi/smtp/ container allows starting of local smtp server, which can be used for testing purposes.

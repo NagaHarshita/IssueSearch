@@ -1,0 +1,1 @@
+ URL : "https://github.com/raspi0124/sleepy/issues/4" TITLE : php notice for no option. BODY : https://github.com/raspi0124/sleepy/blob/master/header.php l20-l22 if sleepy_options is empty, show php notice error.

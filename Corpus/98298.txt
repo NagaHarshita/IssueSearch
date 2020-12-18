@@ -1,0 +1,1 @@
+ URL : "https://github.com/lionleaf/dwitter/issues/95" TITLE : inject more math functions BODY : would be more interesting if we had more math functions injected... var a = math.abs; var s = math.sqrt; var g = math.sign; var r = math.random; and maybe even: var d = x.drawrect and var f = s => x.fillstyle = s;

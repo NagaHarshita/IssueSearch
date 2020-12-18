@@ -1,0 +1,1 @@
+ URL : "https://github.com/eoger/tabcenter-redux/issues/22" TITLE : tab context menu cut off BODY : if you right-click on a tab too close to the right edge, the menu appears cut off and the text wraps onto the next line. is there a way to prevent that?

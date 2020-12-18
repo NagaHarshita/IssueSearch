@@ -1,0 +1,1 @@
+ URL : "https://github.com/production-rs/bikeshed/issues/7" TITLE : nomination for url BODY : url https://crates.io/crates/url would be the best and only crate i know of for working with urls and uri formatted data. it's used pretty extensively throughout the rust community ecosystem.

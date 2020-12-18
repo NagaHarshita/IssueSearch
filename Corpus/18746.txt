@@ -1,0 +1,1 @@
+ URL : "https://github.com/WebDevStudios/wd_s/issues/281" TITLE : update mobile nav BODY : currently we used our own off-canvas container triggered by a hamburger for the mobile nav. please swap this out for both: - http://foundation.zurb.com/sites/docs/responsive-navigation.html responsive-toggle - http://foundation.zurb.com/sites/docs/off-canvas.html

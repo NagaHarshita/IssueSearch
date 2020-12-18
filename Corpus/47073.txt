@@ -1,0 +1,1 @@
+ URL : "https://github.com/DavideViolante/Angular-Full-Stack/issues/41" TITLE : nodejs and typescript BODY : why do you use : import as bodyparser from 'body-parser'; and not import { } from './....'; syntax ? also i dont understand why no export class ? it looks like it's just a js to ts transpilation.

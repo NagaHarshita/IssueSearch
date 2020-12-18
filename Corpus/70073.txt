@@ -1,0 +1,1 @@
+ URL : "https://github.com/ntwb/chassis-query-monitor-bbs-conds/issues/1" TITLE : update to extensions v2 BODY : now that chassis has support for version 2 of extensions we can make use of the dependencies parameter.

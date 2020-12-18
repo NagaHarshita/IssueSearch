@@ -1,0 +1,1 @@
+ URL : "https://github.com/ncProjectRoot/nc-crm/issues/68" TITLE : fix: rest api BODY : змінити формат uri запитів в рест контроллерах відповідно до статтей обговорених в каналі controller відповідно переписати код на клієнті протестувати всі зміни

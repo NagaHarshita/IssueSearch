@@ -1,0 +1,1 @@
+ URL : "https://github.com/ekansa/open-context-py/issues/580" TITLE : new graphs don't scale BODY : when zooming out of the map area for example to take a screenshot of the entire oc web gui the new time-scale graph area does not scale with the map area/rest of the page. it stays the same size on my screen in terms of pixels consumed.

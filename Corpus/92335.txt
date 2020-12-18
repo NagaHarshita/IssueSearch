@@ -1,0 +1,1 @@
+ URL : "https://github.com/wix/wix-http-testkit/issues/53" TITLE : when matching with entity BODY : check if the param is not a matcher, if so, fail the request and thrown a meaningful error

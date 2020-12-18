@@ -1,0 +1,1 @@
+ URL : "https://github.com/JSCooke/MPAi/issues/94" TITLE : login screen resizing BODY : this is a small issue, but the middle panel of login screen is left aligned, where everything else is centred; also, the resizing overlaps some components

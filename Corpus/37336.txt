@@ -1,0 +1,1 @@
+ URL : "https://github.com/KalikoCMS/KalikoCMS.Core/issues/104" TITLE : look over references BODY : try to prevent problems arising from for instance having a later automapper in an existing project

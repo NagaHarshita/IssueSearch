@@ -1,0 +1,1 @@
+ URL : "https://github.com/rickkas7/LIS3DH/issues/4" TITLE : temperature reading is 0 BODY : when trying to read the temperature i get 0. i am doing the following: lis3dhconfig config; config.setlowpowerwakemode 16 ; boolean accelconfig = accel.setup config ; accel.enabletemperature true ; . . . . int16_t temp = accel.gettemperature ; am i missing something?

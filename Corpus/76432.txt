@@ -1,0 +1,1 @@
+ URL : "https://github.com/willmurphyscode/RBCGame/issues/5" TITLE : jumping has no purpose : BODY : right now, the player sprite can jump, but there's nothing to jump onto or jump over, so it's not much good. add a platform and a low wall.

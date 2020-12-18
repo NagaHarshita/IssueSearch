@@ -1,0 +1,1 @@
+ URL : "https://github.com/zerobias/telegram-mtproto/issues/71" TITLE : error at first line BODY : i have started using this package to use telegram api. i have the copied usage code but i got the following error: function exports, require, module, __filename, __dirname { import mtproto from 'telegram-mtproto';

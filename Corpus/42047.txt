@@ -1,0 +1,1 @@
+ URL : "https://github.com/dbosk/examgen/issues/28" TITLE : add validation option BODY : occasionally one feels the inspiration flowing and one writes a full exam manually. to aid this work it would be nice to have a validation option which simply processes the questions of an exam and checks whether all ilos are covered.

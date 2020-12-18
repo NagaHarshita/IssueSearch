@@ -1,0 +1,1 @@
+ URL : "https://github.com/oKcerG/SortFilterProxyModel/issues/33" TITLE : distinct or unique feature BODY : it could be dup with 30 one of th typical db join query will have the following shape. group value a 1 a 2 b 1 b 3 i can do 2 queries but would it be convenient if it provides unique filter?

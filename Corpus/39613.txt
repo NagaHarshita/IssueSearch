@@ -1,0 +1,1 @@
+ URL : "https://github.com/psu-libraries/cho-req/issues/209" TITLE : smoke test scenarios BODY : in order to investigate hyrax's ability to handle lots of files and works, we need to smoke test a few scenarios to get an idea of how well it might perform in the real world. 1. work with 400k small files, ~ 1 mb 2. work with 400k large files, ~ 1 gb 3. collection with 300k works

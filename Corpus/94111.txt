@@ -1,0 +1,1 @@
+ URL : "https://github.com/bitraf/infrastructure/issues/8" TITLE : bomba -> bite: mqtt broker BODY : have a virtual machine on bite serve mqtt.bitraf.no does it make sense to run other internet-of-thingsy services on the same virtual machine? @jonnor

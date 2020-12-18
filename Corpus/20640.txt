@@ -1,0 +1,1 @@
+ URL : "https://github.com/goncalotomas/FMKe/issues/169" TITLE : cowboy is outdated BODY : we were using a beta version of cowboy 2 for quite some time, we should be able to upgrade to the latest 2.2.0 rather smoothly.

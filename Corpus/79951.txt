@@ -1,0 +1,1 @@
+ URL : "https://github.com/ripienaar/puppet-classifier/issues/11" TITLE : support for puppet 4.9.x BODY : looks like classifier is broken on puppet 4.9.x. error: could not retrieve catalog from remote server: error 500 on server: server error: could not autoload /puppet/data_providers/classifier_data_provider_factory: uninitialized constant puppet::dataprovider

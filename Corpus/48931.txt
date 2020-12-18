@@ -1,0 +1,1 @@
+ URL : "https://github.com/commaai/research/issues/48" TITLE : steering angle values BODY : i've downloaded the dataset and analyzed some of the test drives. right now i'm wondering about the steering_angle value ranges. they are going from about -4500 to 4500. what is the unit of the recorded angles?

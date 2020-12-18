@@ -1,0 +1,1 @@
+ URL : "https://github.com/Ekultek/Dagon/issues/75" TITLE : hash guarantee 1850310/z BODY : dagon has failed to crack given hash: 1850310/ztb. . this was attempted on 2017-10-07 18:09:12.036371 .. commands that were used during failure: 'dagon.py', '-v', '1850310/ztb.' algorithm attempted: none

@@ -1,0 +1,1 @@
+ URL : "https://github.com/prestodb/presto-python-client/issues/38" TITLE : add style check to travis BODY : pep8 could be a good choice

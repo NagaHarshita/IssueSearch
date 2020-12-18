@@ -1,0 +1,1 @@
+ URL : "https://github.com/sstarcher/grafana-dashboards/issues/1" TITLE : influxdb metrics weird BODY : as seen below, it reports http queries in 0.x. is that intentional? ! example image https://i.rem.uz/ab3ik7.png

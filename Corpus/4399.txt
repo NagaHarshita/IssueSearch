@@ -1,0 +1,1 @@
+ URL : "https://github.com/LWprogramming/Minefinder/issues/5" TITLE : click and drag BODY : if player clicks and drags, the cell on which the mouse is released should be revealed. right now it reveals nothing. mess around with onclick and onmouseup functions for the cell buttons.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla/addons-frontend/issues/4003" TITLE : create a new collection BODY : tracker: https://github.com/mozilla/addons-frontend/issues/2782 a user should be able to: - sign in - create a new collection with a name, description, and url this will be similar to editing a collection: https://github.com/mozilla/addons-frontend/issues/4002

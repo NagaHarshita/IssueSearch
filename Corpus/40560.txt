@@ -1,0 +1,1 @@
+ URL : "https://github.com/NixOS/nixpkgs/issues/22954" TITLE : update ktp for kde 5 BODY : ktp is now part of kde applications bundle, so the latest sources are available in nixpkgs already, although we do not have them packaged. the older kde 4-based packages obstruct removal of their dependencies. attn. @urkud

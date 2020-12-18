@@ -1,0 +1,1 @@
+ URL : "https://github.com/joomla/joomla-cms/issues/16344" TITLE : 4.0 clear search fails BODY : steps to reproduce the issue search any form and then clear the search expected result form resets actual result form and search field do not change ! searchclear https://cloud.githubusercontent.com/assets/1296369/26558711/c3229cda-44a2-11e7-8c7d-8439f4cea17f.gif

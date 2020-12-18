@@ -1,0 +1,1 @@
+ URL : "https://github.com/ihavenonickname/fsharp-seq/issues/2" TITLE : add non-curry functions BODY : implement the non-curry version of all functions and create a module for each version as described in readme.

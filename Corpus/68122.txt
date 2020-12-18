@@ -1,0 +1,1 @@
+ URL : "https://github.com/0xd4d/dnSpy/issues/375" TITLE : remove dev branch check BODY : keep the cs file but change build action to none https://github.com/0xd4d/dnspy/commit/2991185bca27166db65274867f5385fd49d333ed 372 374

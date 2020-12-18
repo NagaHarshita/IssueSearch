@@ -1,0 +1,1 @@
+ URL : "https://github.com/leomao/dotfiles/issues/1" TITLE : tmux config for macos BODY : need to use screen-256color and also delete .zplug/zcompdump after installation to work properly.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/TakWolf/CNode-Material-Design/issues/52" TITLE : gradle build 失败 BODY : :app:mergedebugresources up-to-date :app:processdebugmanifest gradle build 编译到这一步，出现了 java.lang.nullpointerexception no error message 然后build 失败了，这个是什么原因呢？ 我无论用1.2还是最新develop都是碰到这个问题。

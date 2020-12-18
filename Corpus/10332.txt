@@ -1,0 +1,1 @@
+ URL : "https://github.com/AtomicGameEngine/AtomicGameEngine/issues/1502" TITLE : c rename c enums BODY : so, for example ui_layout_position.ui_layout_position_right_bottom becomes ui_layout_position.right_bottom this can be done and maintain current enum names for compatibility

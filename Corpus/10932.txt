@@ -1,0 +1,1 @@
+ URL : "https://github.com/mariamartinmarin/virUCA/issues/38" TITLE : error - listados BODY : cuando hay suficientes ítems de un objeto y aparece la paginación, debido a un cambio anterior en las tablas, no pasa a la segunda página correctamente.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/czyrux/MvpLoaderSample/issues/12" TITLE : how to recieve cursor BODY : hello all ! i just started mvp in android. i want to create adapter from cursor so how to get cursor from onloadfinished loader<p> loader, p presenter ? thanks, kaushlendra.

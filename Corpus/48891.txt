@@ -1,0 +1,1 @@
+ URL : "https://github.com/WatchFriends/Android/issues/166" TITLE : ssl handshake aborted BODY : weet er iemand hoe dit komt? > ssl handshake aborted: ssl=0x5681a158 : i/o error during system call, connection reset by peer

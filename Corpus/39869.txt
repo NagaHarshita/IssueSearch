@@ -1,0 +1,1 @@
+ URL : "https://github.com/astamp/PyXT/issues/11" TITLE : support config files BODY : ini-like file with disk info, dip switches, optional hardware, etc. will replace several command line switches and clean up __main__.py.

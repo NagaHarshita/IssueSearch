@@ -1,0 +1,1 @@
+ URL : "https://github.com/corin8823/Popover/issues/92" TITLE : ios 11 fix BODY : in your open func show _ contentview: uiview, fromview: uiview { please re-make this code. this will only get the keywindow in the main app guard let window = uiapplication.shared.keywindow else { return } self.show contentview, fromview: fromview, inview: window dont use window .

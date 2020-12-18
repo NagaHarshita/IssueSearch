@@ -1,0 +1,1 @@
+ URL : "https://github.com/wesnoth/wesnoth/issues/1895" TITLE : problem of set_menu_item BODY : if use_hotkey of set_menu_item is set to no , description is not displayed.

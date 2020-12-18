@@ -1,0 +1,1 @@
+ URL : "https://github.com/shawngiese/restbot/issues/14" TITLE : add new botkit features BODY : botkit now supports twilio sms attachments and a console bot. try integrating these new features into the example.

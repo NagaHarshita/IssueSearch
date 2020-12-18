@@ -1,0 +1,1 @@
+ URL : "https://github.com/groeck/it87/issues/52" TITLE : doesn't compile 2.6.32 BODY : can we back port this driver to compile with 2.6.32? i have ryzen hardware and need to know temps.. some of us have to use enterprise os for stability purposes and are locked at rhel 6/centos 6.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/matsekberg/Sonoff-Touch-WallSw/issues/1" TITLE : add mqtt config BODY : add configuration for broker url, broker port, username and password.

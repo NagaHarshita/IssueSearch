@@ -1,0 +1,1 @@
+ URL : "https://github.com/chrisunderdown/bitdock/issues/4" TITLE : dark mode toggle icon? BODY : by default the icon is black and blends into the dark toolbar perfectly. maybe use something like ! dark-mode https://github.com/sindresorhus/node-dark-mode to do a isdark check and change the icon to a light one?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/AdguardTeam/AdguardBrowserExtension/issues/788" TITLE : issues with the new layout BODY : marked on the screenshot: <details> ! adguard settings 2017-07-26 13-35-17 https://user-images.githubusercontent.com/5947035/28617017-6ad54e8c-7207-11e7-87ee-21d593ddd483.png </details> also, the bottom padding of the content zone is wrong.

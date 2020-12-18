@@ -1,0 +1,1 @@
+ URL : "https://github.com/abdulhannanali/PasswordlessFirebase/issues/2" TITLE : add tests for functions BODY : testing functions is an important we should work - add tests for the request sms verification function - add tests for the check verification function

@@ -1,0 +1,1 @@
+ URL : "https://github.com/JetBrains/Exposed/issues/86" TITLE : uuid columns support BODY : support for uuid columns is broken at the moment. problems found so far: 1. cannot use eq in select with postgresql: org.postgresql.util.psqlexception: error: operator does not exist: uuid = bytea in runtime. 2. cannot use get with insert because key type is restricted to number.

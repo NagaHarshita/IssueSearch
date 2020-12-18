@@ -1,0 +1,1 @@
+ URL : "https://github.com/revng/llvmcpy/issues/12" TITLE : import fails on windows BODY : on windows, this line https://github.com/revng/llvmcpy/blob/master/llvmcpy/llvm.py l675 fails due to the missing home and xdg_cache_dir environment vars.

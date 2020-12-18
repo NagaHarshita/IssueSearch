@@ -1,0 +1,1 @@
+ URL : "https://github.com/mgibeau/applights-sdk/issues/4" TITLE : add logging library BODY : console.logs are starting to become hard to manage and there is no control over the verbosity.

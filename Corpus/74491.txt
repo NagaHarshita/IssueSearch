@@ -1,0 +1,1 @@
+ URL : "https://github.com/jgthms/bulma/issues/746" TITLE : errors with npm install: BODY : errors with npm install: npm install gives errors without first doing npm init -f is npm init -f an implied first step, or is something wrong here? node version 7.5 steps to reproduce 1. npm install expected behavior to not get errors actual behavior i get errors and nothing downloads

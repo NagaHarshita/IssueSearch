@@ -1,0 +1,1 @@
+ URL : "https://github.com/MWChapel/bggtest/issues/4" TITLE : 503 cached bgg api retry BODY : the api calls are cached on bgg, if a 503 is returned, the api should eb called again

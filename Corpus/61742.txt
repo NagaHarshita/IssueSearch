@@ -1,0 +1,1 @@
+ URL : "https://github.com/firewalla/firewalla/issues/118" TITLE : bonjour broadcast issue BODY : if there are multiple devices in the same subnet, all the later devices except the first one will fail to send broadcast messages. because all of them use the same service name, bonjour lib will throw exception if the service name is already used on the network.

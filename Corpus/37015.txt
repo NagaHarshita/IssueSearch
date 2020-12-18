@@ -1,0 +1,1 @@
+ URL : "https://github.com/catfan/Medoo/issues/678" TITLE : issue on column type BODY : $user = $this->database->get // from table $this->tableusers, // select id int , name , // where 'email' => $email ; the id value is: => 0 i tested with string but it’s the same issue.

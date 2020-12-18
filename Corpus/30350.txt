@@ -1,0 +1,1 @@
+ URL : "https://github.com/isaacs/node-glob/issues/354" TITLE : parent not working! BODY : parent not working! i try glob 'src/img/ / .{jpg|jpg}', , function er, files { } ; and glob 'src/img/ / . jpg|jpg ', , function er, files { } ; not working!

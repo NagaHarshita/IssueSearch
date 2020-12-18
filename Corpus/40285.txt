@@ -1,0 +1,1 @@
+ URL : "https://github.com/jatinsayan/education-dashboard/issues/3" TITLE : tooltips not working BODY : https://github.com/jatinsayan/education-dashboard/blob/667378e28f030439c19b65572ed62e01905c5e31/js/main.js l1-l3 for some reason, this code is giving an error in browser console. lets look into it together.

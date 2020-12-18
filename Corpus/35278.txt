@@ -1,0 +1,1 @@
+ URL : "https://github.com/thorrak/fermentrack/issues/149" TITLE : django /admin broken BODY : if i remove django-suit it works, i submitted a comment to an existing issue at django-suit: https://github.com/darklow/django-suit/issues/598

@@ -1,0 +1,1 @@
+ URL : "https://github.com/venediktov/vanilla-rtb/issues/65" TITLE : update main diagram BODY : boost serialization is optional in our stack and only used for multi-bidder model. it has to be drawn in dotted lines or diagram needs to have comment in the bottom.

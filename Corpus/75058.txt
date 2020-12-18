@@ -1,0 +1,1 @@
+ URL : "https://github.com/SkaceKamen/vscode-sqflint/issues/14" TITLE : function macro expansion BODY : cpp define macro x _x = x macro a ; is incorrectly expanded as: _a = a; the correct expansion is: _x = a;

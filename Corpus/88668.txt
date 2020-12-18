@@ -1,0 +1,1 @@
+ URL : "https://github.com/AGGA-IRIT/Radium-Engine/issues/211" TITLE : objfilemanager and others BODY : once the pr 209 is accepted, it would be nice to adapt the obj/off/map filemanagers to the io design. hence, adding a fileexporterinterface and split the filemanagers into a fileloader and a file exporter might be a good thing.

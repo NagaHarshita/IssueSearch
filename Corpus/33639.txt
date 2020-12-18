@@ -1,0 +1,1 @@
+ URL : "https://github.com/whatwg/storage/issues/49" TITLE : adopt parallel queue BODY : https://github.com/whatwg/html/pull/3038 would enable us to ensure that questions are asked only once per origin and do not race with each other.

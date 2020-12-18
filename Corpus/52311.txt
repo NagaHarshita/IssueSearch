@@ -1,0 +1,1 @@
+ URL : "https://github.com/ryankazokas/beerio-web/issues/12" TITLE : check in functionality BODY : this will be a very large task and needs to talk with a location service like google maps, as well as users being able to customize their check ins with details. ie: -if they are with other users. -location details -status message

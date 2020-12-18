@@ -1,0 +1,1 @@
+ URL : "https://github.com/meefik/linuxdeploy/issues/799" TITLE : can't ssh into deployment BODY : hey guys, ive installed arch linux and everything went fine. if i start deploy, it sets up an ssh-server which accepts connections. but what are my credentials? the username/password-combination i put in the settings don't work. please help.

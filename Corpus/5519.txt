@@ -1,0 +1,1 @@
+ URL : "https://github.com/ECPay/ECPayAIO_Node.js/issues/2" TITLE : publish on npm BODY : please consider to publish the module on npm/yarn, and accept a js object as option on create ex: const options = { merchantid: ..., hashkey: ..., hashiv: .... .....other option.... } const create = new ecpay_payment options . . .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/yifanlu/taiHEN/issues/70" TITLE : add start module handler BODY : provide kernel and user export for registering handlers that capture the moment a module is started. here is an example of how this can be done: https://github.com/theofficialflow/taihen/commit/f86436385e4c071a9c06b490823f981b58184a63 this however does not capture kernel module loads yet

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mkuchin/botvalve/issues/1" TITLE : enable async processing BODY : > java.lang.illegalstateexception: the current request does not support async processing > at org.springframework.util.assert.state assert.java:392

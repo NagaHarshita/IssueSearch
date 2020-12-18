@@ -1,0 +1,1 @@
+ URL : "https://github.com/frictionlessdata/tableschema-go/issues/48" TITLE : implement enum constraint BODY : > the value of the field must exactly match a value in the enum array. js implementation https://github.com/frictionlessdata/tableschema-js/blob/master/src/constraints/enum.js for reference

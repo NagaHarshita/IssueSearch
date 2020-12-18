@@ -1,0 +1,1 @@
+ URL : "https://github.com/philipn/django-rest-framework-filters/issues/174" TITLE : order by name of parent. BODY : hello. if is posible somehow to order objects by name of parents, using django-rest-framework-filters ? thanks.

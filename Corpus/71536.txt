@@ -1,0 +1,1 @@
+ URL : "https://github.com/yodarunamok/fxphp/issues/40" TITLE : add package to packagist BODY : in line with 39 once a composer.json file exists please add this project to packagist to make inclusion in project simpler.

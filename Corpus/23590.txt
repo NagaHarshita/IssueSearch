@@ -1,0 +1,1 @@
+ URL : "https://github.com/Joungkyun/iputty/issues/2" TITLE : psftp support utf8 BODY : psftp 에서 remote 환경 변수가 utf-8일 경우 utf8 지원 안하여 multibyte 문자가 깨져서 출력됨

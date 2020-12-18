@@ -1,0 +1,1 @@
+ URL : "https://github.com/DXBrazil/CosmosDb-ChangeFeed/issues/6" TITLE : java: use camelcase BODY : line 16-21 please start the lower character public string partitionlsn; --> partitionlsn public string databasename; --> databasename public string collname; --> collname public string id; --> id public string status; --> status public date lastexcetution; --> lastexecution?

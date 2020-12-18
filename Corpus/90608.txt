@@ -1,0 +1,1 @@
+ URL : "https://github.com/dashpay/dash/issues/1519" TITLE : sometimes dash-qt crashes BODY : dash-qt: /home/ubuntu/build/dash/depends/i686-pc-linux-gnu/share/../include/boost/thread/pthread/recursive_mutex.hpp:113: void boost::recursive_mutex::lock : assertion !pthread_mutex_lock &m ' failed. always during mixing via tor proxy.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/veox/python3-krakenex/issues/33" TITLE : list of commands BODY : could you print a list of available commands like below: balance = k.query_private 'balance' orders = k.query_private 'openorders' specifically i'm looking for placing buys and sells

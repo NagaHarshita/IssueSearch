@@ -1,0 +1,1 @@
+ URL : "https://github.com/pydanny/cookiecutter-django/issues/1132" TITLE : switch to caddy on docker BODY : caddy is so much easier to set up using let's encrypt than nginx. a perfect fit for cookiecutter django.

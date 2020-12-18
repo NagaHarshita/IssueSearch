@@ -1,0 +1,1 @@
+ URL : "https://github.com/VictorPhilipp/Cities-Skylines-Traffic-Manager-President-Edition/issues/56" TITLE : dynamic lane selection BODY : vehicles enroute should consider using alternative lanes. currently, path-finding predetermines the path a vehicle will take down to the individual lane. dynamic lane selection will allow vehicles to switch to free lanes on-the-fly.

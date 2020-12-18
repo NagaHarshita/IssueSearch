@@ -1,0 +1,1 @@
+ URL : "https://github.com/ebuchmann/duelyst.cards/issues/10" TITLE : deck drawing probabilities BODY : should be able to roughly use the hypergeometric distribution to calculate probabilities of drawing each card by each turn from the start of the game in a table format. see the probabilities tab here https://deckstats.net/decks/52268/635385-the-squirrels-are-coming/en .

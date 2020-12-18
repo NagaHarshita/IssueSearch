@@ -1,0 +1,1 @@
+ URL : "https://github.com/firebase/FirebaseUI-Android/issues/1001" TITLE : document user metadata BODY : once we move to 11.6.0 we get this new class: https://firebase.google.com/docs/reference/android/com/google/firebase/auth/firebaseusermetadata this should help people with the formerly common question of distinguishing between new and returning users.

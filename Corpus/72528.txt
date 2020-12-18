@@ -1,0 +1,1 @@
+ URL : "https://github.com/fieldOfView/OctoPrintPlugin/issues/29" TITLE : camera orientation wrong BODY : if the camera is installed upside down, the orientation can be changed in octoprint settings flip webcam so it displays correctly in the octoprint web interface. the camera view in the plugin show webcam image shows the camera upside down the actual physical orientation .

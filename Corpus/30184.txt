@@ -1,0 +1,1 @@
+ URL : "https://github.com/oss-wec/wisdm/issues/14" TITLE : nullify empty dates BODY : prior to database submission dates that are empty should be set to null. if not the api throws an error about valid dates or db .

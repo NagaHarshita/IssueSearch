@@ -1,0 +1,1 @@
+ URL : "https://github.com/Tastaturberuf/anyStores/issues/76" TITLE : nicht php 7 kompatibel BODY : klasse string muss durch stringutil ersetzt werden, mindest version contao dann auf 3.5.5 setzen in der composer.json siehe forum https://community.contao.org/de/showthread.php?65534-contao-anystores-erweiterung-weiter-standort-http-error-500&p=431249&viewfull=1 post431249

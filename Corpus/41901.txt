@@ -1,0 +1,1 @@
+ URL : "https://github.com/faustocarrera/btcprice-cli/issues/3" TITLE : add price fluctuation BODY : add a column with the price fluctuation, the difference between one day and another, positive or negative

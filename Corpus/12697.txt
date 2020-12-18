@@ -1,0 +1,1 @@
+ URL : "https://github.com/iwbnwif/wxFreeChart/issues/41" TITLE : release lib size BODY : hello, i just downloaded this library and built it but the size of the lib release is over 300mb while the debug is under 18mb. is there a way to reduce the release lib size ? thanks in advance.

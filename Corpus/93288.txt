@@ -1,0 +1,1 @@
+ URL : "https://github.com/AdamVig/stockpile-api/issues/145" TITLE : add organization endpoints BODY : when user auth is added in 13, the /auth endpoints will no longer create organizations. the /organization endpoints will be needed to accomplish this task.

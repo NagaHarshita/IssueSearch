@@ -1,0 +1,1 @@
+ URL : "https://github.com/facebook/FBRetainCycleDetector/issues/34" TITLE : crash at nscassert BODY : crash at this line xcode 9 beta 5, ios 11 beta 6 nscassert namefrombefore, @ there should always be a name from before if we hit a struct ;

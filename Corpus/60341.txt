@@ -1,0 +1,1 @@
+ URL : "https://github.com/vanishcode/12306/issues/1" TITLE : 关于 readline 模块 BODY : 可以用 prompt https://github.com/flatiron/prompt 代替，可以避免嵌套

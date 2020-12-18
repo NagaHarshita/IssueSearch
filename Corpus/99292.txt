@@ -1,0 +1,1 @@
+ URL : "https://github.com/tokuhirom/spring-boot-dropwizard-metrics-filter-sample/issues/3" TITLE : meter only a single method BODY : if i want to time/meter only a single method and want to get rid of all the other info, is that possible?

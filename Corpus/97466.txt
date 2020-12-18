@@ -1,0 +1,1 @@
+ URL : "https://github.com/jennybc/googlesheets/issues/292" TITLE : gs_ls aborts the r session BODY : i am using r 3.3.3. though i am able to authorise my spreadsheet, whenever i use the gs_ls function, the session immediately aborts. googlesheet.docx https://github.com/jennybc/googlesheets/files/730896/googlesheet.docx

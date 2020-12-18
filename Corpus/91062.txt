@@ -1,0 +1,1 @@
+ URL : "https://github.com/ricordisamoa/dewkin/issues/9" TITLE : support unicode usernames BODY : https://tools.wmflabs.org/dewkin/%d9%be%da%98%da%af%da%86@fawiki fails with an undefined error shown in console. so does any other unicode username as well.

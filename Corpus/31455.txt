@@ -1,0 +1,1 @@
+ URL : "https://github.com/jstolarek/slicer/issues/29" TITLE : simplify if tracing BODY : currently in trace data type we have: haskell | tifthen trace exp exp trace -- ^ take then branch of if | tifelse trace exp exp trace -- ^ take else branch of if exp arguments don't seem to be used in any way.

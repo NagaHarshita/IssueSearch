@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/vscode/issues/27823" TITLE : enhance custom tree views BODY : - view visibility - extract icons from the resource uri - tree state persistence - customizable location of the view inside explorer - get children in pages - ability to update the view label

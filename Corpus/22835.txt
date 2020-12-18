@@ -1,0 +1,1 @@
+ URL : "https://github.com/adeptoas/sweet-modal-vue/issues/26" TITLE : modal not centered BODY : hello, i got the modal to work by changing the display to block as another user suggested but i cannot get the modal to center in the browser. first off was i wrong to follow the css change from this user and second, should i be doing something different to center it?

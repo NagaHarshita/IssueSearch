@@ -1,0 +1,1 @@
+ URL : "https://github.com/jacerider/escort/issues/17" TITLE : primary button colors BODY : hover states and transitions need to be reviewed. labels and icons inherit primary color in certain states which causes it to blend into the background

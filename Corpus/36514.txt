@@ -1,0 +1,1 @@
+ URL : "https://github.com/ellson/graphviz/issues/1283" TITLE : how to custom layout BODY : hi! 1. i want to code a draw internal-dsl with python. 2. and easy to draw graph mem-struct, data-struct, flow-chat... , and used in org babel, my original intention. 3. how to custom layout module? thx a lot!

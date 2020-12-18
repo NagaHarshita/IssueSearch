@@ -1,0 +1,1 @@
+ URL : "https://github.com/movim/movim/issues/402" TITLE : private posts not working BODY : steps for reproduce: - go to communities - create new post don't mark public trigger - try to access this post from other server or other account

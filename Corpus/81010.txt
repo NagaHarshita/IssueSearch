@@ -1,0 +1,1 @@
+ URL : "https://github.com/goatpig/BitcoinArmory/issues/363" TITLE : v0.96.4 rc1 on osx fails BODY : i'm getting: illegal instruction: 4 on startup running on 10.13.1

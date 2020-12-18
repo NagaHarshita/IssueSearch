@@ -1,0 +1,1 @@
+ URL : "https://github.com/gaborcsardi/keyring/issues/28" TITLE : better printing of methods BODY : formalize it better, because just taking the method names is not good. e.g. env has a list method that always fails, so it does not make sense to list it.

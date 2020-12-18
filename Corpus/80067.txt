@@ -1,0 +1,1 @@
+ URL : "https://github.com/fredericopissarra/t50/issues/22" TITLE : syn packet contains data BODY : hi, when i issue t50 -s --dport 80 <dest ip> i see the syn packet contains data portion. is this so by design? thanks in advance,

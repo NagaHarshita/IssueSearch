@@ -1,0 +1,1 @@
+ URL : "https://github.com/valhalla/valhalla/issues/316" TITLE : make thor service testable BODY : 2016-02-29t17:46:13z @kdiluca : originally created valhalla/thor 330 refactored thor header for testabillity. now write test/thor/service.cc

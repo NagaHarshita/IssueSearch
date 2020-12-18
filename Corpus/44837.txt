@@ -1,0 +1,1 @@
+ URL : "https://github.com/ssell/noisegen/issues/19" TITLE : force even dimensions BODY : to allow for proper multithreading force the dimensions to be even. this is because we use two workers per dimension.

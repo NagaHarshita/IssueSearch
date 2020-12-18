@@ -1,0 +1,1 @@
+ URL : "https://github.com/zalando/skipper/issues/252" TITLE : http -> https redirector BODY : skipper should support http -> https redirects out of the box to be used from our kubernetes ingress aws controller https://github.com/zalando-incubator/kube-ingress-aws-controller . /cc @aryszka @lmineiro

@@ -1,0 +1,1 @@
+ URL : "https://github.com/dabbertorres/MediaServer/issues/1" TITLE : cdn library providers BODY : reduce in-repo code. bootstrap: https://www.bootstrapcdn.com/ jquery: https://developers.google.com/speed/libraries/ jquery nouislider: https://cdnjs.com/libraries/nouislider add more as i find them js cdn finder: https://cdnjs.com/

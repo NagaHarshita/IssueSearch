@@ -1,0 +1,1 @@
+ URL : "https://github.com/robertgauld/OSMExtender/issues/177" TITLE : email case sensitity BODY : login / forgotten password not working when email entered in differing case to signup. replace text column with citext.

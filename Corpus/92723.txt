@@ -1,0 +1,1 @@
+ URL : "https://github.com/houseabsolute/Data-Validate-IP/issues/11" TITLE : 192.168.0.0/24 is reserved BODY : per rfc 5736, this is part of the iana ipv4 special purpose address registry. currently, only 192.0.0.0/29 is marked as unroutable by this module.

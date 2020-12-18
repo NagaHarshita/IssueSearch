@@ -1,0 +1,1 @@
+ URL : "https://github.com/brushdown/string_foundation.rb/issues/25" TITLE : add .length_lte? method BODY : rb abc .length_lte? 5 => true abcd .length_lte? 5 => true abcde .length_lte? 5 => true abcdef .length_lte? 5 => false if a specific length of characters is less than or equal to actual length, return true , unless return false . an expected argument is integer object.

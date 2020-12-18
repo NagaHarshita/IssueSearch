@@ -1,0 +1,1 @@
+ URL : "https://github.com/InstantRamen/Ruby-Blog/issues/1" TITLE : non unique author error BODY : an error is thrown when an author is created with a non-unique email. this should fail more gracefully.

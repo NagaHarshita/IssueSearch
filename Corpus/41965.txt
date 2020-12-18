@@ -1,0 +1,1 @@
+ URL : "https://github.com/marionebl/svg-term-cli/issues/4" TITLE : add support for hyper BODY : hyper.app exposes itself via term_program . ❯ echo $term_program hyper --- term detection profile detection depends on marionebl/term-schemes 1 https://github.com/marionebl/term-schemes

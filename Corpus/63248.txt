@@ -1,0 +1,1 @@
+ URL : "https://github.com/inre/rust-mq/issues/26" TITLE : disconnect never called BODY : in the codebase the call to self_disconnect is commented. why? this will prevent sending any kind of proper disconnect package to the broker.

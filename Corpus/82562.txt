@@ -1,0 +1,1 @@
+ URL : "https://github.com/stitchpvp/world/issues/11" TITLE : after rez callback / proc BODY : resurrection spells often have resurrection effects, which need to trigger after the resurrection is accepted. i don't believe there is currently a way to handle that.

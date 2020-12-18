@@ -1,0 +1,1 @@
+ URL : "https://github.com/tazjin/kubernetes-letsencrypt/issues/54" TITLE : consider kotlin rewrite BODY : the current implementation makes heavy use of spooky features from project lombok such as val . it may make sense to just rewrite the project in kotlin because that's more aligned with how i think anyways.

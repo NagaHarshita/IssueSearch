@@ -1,0 +1,1 @@
+ URL : "https://github.com/ShMaunder/JMapMyLDAP/issues/62" TITLE : request new attributes BODY : hello, i wish request new fields in my ldap, such as telephonenumber, site location, .. how i can implement this? the purpose would be to update jomsocial db fields. thank you in advance, regards philippe

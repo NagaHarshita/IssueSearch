@@ -1,0 +1,1 @@
+ URL : "https://github.com/railt/railt/issues/13" TITLE : add route path disjunction BODY : example: $router->on 'some|any', 'controller@action' ; it must be the same in behavior as in: $router->on 'some', 'controller@action' ; $router->on 'any', 'controller@action' ;

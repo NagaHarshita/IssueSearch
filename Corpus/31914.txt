@@ -1,0 +1,1 @@
+ URL : "https://github.com/nodemailer/wildduck/issues/21" TITLE : telnet wild.duck 25 BODY : hello, with the standard configuration. you can send false emails, for example: telnet wild.duck 25 mail from: juanito@wild.duck rcpt to: cat@wild.duck or mail from: juanito@moon.com rcpt to: cat@wild.duck thanks

@@ -1,0 +1,1 @@
+ URL : "https://github.com/leblancfg/autocrop/issues/9" TITLE : opencv2 vs. 3 issues BODY : hello, awesome library, thank you! requirements.txt asks for opencv >= 2.4.9. 3+ is whats available on pip and installing ~2 doesn't seem to be possible. do you know how to install 2.4.9? otherwise i think another option is to update cv2 to support cv3 api thanks!

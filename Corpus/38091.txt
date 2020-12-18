@@ -1,0 +1,1 @@
+ URL : "https://github.com/nodemailer/nodemailer/issues/752" TITLE : node version < 5.5.0 BODY : include the following information with your issue: what i should do when i using lambda deployment strategy, where node version is 4.3

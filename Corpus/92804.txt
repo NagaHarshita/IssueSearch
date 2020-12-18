@@ -1,0 +1,1 @@
+ URL : "https://github.com/salesagility/SuiteCRM/issues/3904" TITLE : 7.9.3 cants end emails out BODY : 7.9.3 since upgrade cant send any messages out. the following appears in the log file user xxx attempted to send an email using incorrect email account settings in which they do not have access to. this didn't happen in 7.9.2

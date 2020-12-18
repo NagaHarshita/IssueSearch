@@ -1,0 +1,1 @@
+ URL : "https://github.com/leanote/desktop-app/issues/290" TITLE : math latex rendering issue BODY : when i used this math formula on https://stackedit.io/editor , it rendered correctly $$y n = a_1 y n-1 + a _2 y n-2 + \ldots , + a _ k y n-k = \sum _{i=1}^{i=k} a_ i y n-i ,$$ but on leanote desktop v2.6, it failed to parse the mathematical formula.

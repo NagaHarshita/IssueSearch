@@ -1,0 +1,1 @@
+ URL : "https://github.com/django-ses/django-ses/issues/114" TITLE : no python3 installables BODY : only the binary wheel for python 2 was uploaded to pypi, making v0.8.2 uninstallable on python3.

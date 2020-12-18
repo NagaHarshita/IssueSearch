@@ -1,0 +1,1 @@
+ URL : "https://github.com/takenaka1/expresso/issues/2" TITLE : subtle: error case BODY : https://github.com/takenaka1/expresso/blob/master/api/employees.js l109-l112 always remember to handle the error case!

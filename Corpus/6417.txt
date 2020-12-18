@@ -1,0 +1,1 @@
+ URL : "https://github.com/ocftw/OpenGovReport14-16/issues/11" TITLE : add image in md BODY : can put images under this folder: https://github.com/ocftw/opengovreport14-16/tree/master/static/assets/img/md/ and refer it from markdown with this syntax: ! <some-comment> https://opengovreport.ocf.tw/assets/img/md/<your-file-name>

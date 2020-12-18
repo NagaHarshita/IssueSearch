@@ -1,0 +1,1 @@
+ URL : "https://github.com/openAVproductions/openAV-Luppp/issues/164" TITLE : pan support for tracks BODY : implement panning support for each track output element, allowing the signal to be moved in the lr spread when the signal goes to the stereo buffers.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/aol/moloch/issues/757" TITLE : sessions timechart bug BODY : x axis of time chart is not inline with the event being investigated. current user setting for tz is gmt. event callout box shows 20:49 yet x axis shows roughly 0100z. ! image https://user-images.githubusercontent.com/15731015/32281945-af012374-bef6-11e7-9dd3-495ea179bf4d.png

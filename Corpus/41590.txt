@@ -1,0 +1,1 @@
+ URL : "https://github.com/sendgrid/ruby-http-client/issues/16" TITLE : add a code of conduct BODY : add a file to the root of this repo called code_of_conduct.md, with the content from the same file in our docs repo https://github.com/sendgrid/docs/pull/3048 .

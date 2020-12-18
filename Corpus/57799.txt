@@ -1,0 +1,1 @@
+ URL : "https://github.com/yurytsoy/revonet/issues/11" TITLE : remove duplicated code BODY : it looks like some parts of the code are duplicated, e.g. implementations for ga and ne . check this and some other places.

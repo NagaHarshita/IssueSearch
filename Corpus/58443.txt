@@ -1,0 +1,1 @@
+ URL : "https://github.com/jawadsaad/prj-rev-bwfs-dasmoto/issues/3" TITLE : simplify. line lengths BODY : https://github.com/jawadsaad/prj-rev-bwfs-dasmoto/blob/master/dasmotos/index.html l14 try to keep line lengths to less than 80 characters.

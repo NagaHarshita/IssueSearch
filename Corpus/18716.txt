@@ -1,0 +1,1 @@
+ URL : "https://github.com/HotcakesCommerce/core/issues/18" TITLE : unsure what to do BODY : i managed to let hotcakes work nicely with dnn9.10. however, i don't know whether i can use it in a production env. are there know security risks in doing so? do i have to add/change something? please let me know.

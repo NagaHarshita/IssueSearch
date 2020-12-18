@@ -1,0 +1,1 @@
+ URL : "https://github.com/open-curriculum/grav-plugin-oerschema/issues/2" TITLE : readme is wrong BODY : hi i thought i should tell you that the install instructions in your readme are wrong. you say bin/gpm install oer-schema but the correct install command is bin/gpm install oerschema . the correct one is on the grav website.

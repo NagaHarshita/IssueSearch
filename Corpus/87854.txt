@@ -1,0 +1,1 @@
+ URL : "https://github.com/CCHS-Melbourne/IoTuz/issues/41" TITLE : mcp6002 pinout wrrrrrong. BODY : someone changed the schematic pinout in the library. pins 5 & 6 got swapped and now perform the wrong function as v1.0 schematic has them wired. this is why you never use someone else's parts library.

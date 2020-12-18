@@ -1,0 +1,1 @@
+ URL : "https://github.com/MinisterioPublicoRJ/inLoco-2.0/issues/205" TITLE : highlight for table BODY : when a table is being refreshed, the system should highlight it with a yellow background, fading to white in .5 seconds.

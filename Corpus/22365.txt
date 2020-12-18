@@ -1,0 +1,1 @@
+ URL : "https://github.com/weftio/gregor/issues/16" TITLE : kafka 0.11 support BODY : https://archive.apache.org/dist/kafka/0.11.0.0/release_notes.html 0.11 brokers will support 0.10 clients, at the expense of memory when converting the wire protocol on the fly. i'm guessing a simple bump of the deps should resolve this?

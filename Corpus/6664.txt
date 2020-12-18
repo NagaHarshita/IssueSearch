@@ -1,0 +1,1 @@
+ URL : "https://github.com/yuriy-budiyev/code-scanner/issues/2" TITLE : auto focus mode BODY : why focus_mode_continuous_picture or focus_mode_continuous_video auto focus mode is used? i think it will give more consistent result comparing to current auto focus implementation. currently camera constantly resets focus and this looks really weird.

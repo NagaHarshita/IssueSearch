@@ -1,0 +1,1 @@
+ URL : "https://github.com/ceolter/ag-grid/issues/1619" TITLE : quick filter not working BODY : api.setquickfilter quickfilter not working when my gridotions have rowmodeltype: 'infinite' it gives error ag-grid: cannot do quick filtering when doing virtual paging

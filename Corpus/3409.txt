@@ -1,0 +1,1 @@
+ URL : "https://github.com/edemaine/coauthor/issues/276" TITLE : paste as text BODY : like google docs, ctrl-shift-v and something on mac should paste the text version of the copy/paste buffer. this should be a relatively easy tweak to the new copy/paste mogrification framework.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpenGov-OpenData/ckanext-showcase/issues/1" TITLE : add private showcases BODY : so users can stage showcases. as a nice-to-have , be consistent with ckan security model, so private showcases can be seen by members of an organization that owns the dataset/s specified in the showcase.

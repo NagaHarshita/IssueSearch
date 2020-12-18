@@ -1,0 +1,1 @@
+ URL : "https://github.com/rojer/a-s-minus/issues/43" TITLE : latency in cropping speed BODY : the capture selected area function creates a cropping tool that works quickly, but capturing the entire screen and _then_ cropping creates a tool that is very slow to drag.

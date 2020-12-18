@@ -1,0 +1,1 @@
+ URL : "https://github.com/MaryAlex/study-infoSecurity-sso/issues/10" TITLE : separete webpack configs BODY : create several webpack.config.js files for different modes.

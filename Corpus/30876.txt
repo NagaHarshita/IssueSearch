@@ -1,0 +1,1 @@
+ URL : "https://github.com/elastic/elasticsearch-migration/issues/113" TITLE : reindex all indices BODY : i have a large number of indices. it would be really nice to not have to click reindex a few thousand times! any chance of a reindex all button?

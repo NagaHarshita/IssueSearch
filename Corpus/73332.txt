@@ -1,0 +1,1 @@
+ URL : "https://github.com/TheIllusiveC4/Comforts/issues/7" TITLE : crash with rope and nail BODY : attempting to place a nail for the hammock on the underside of a block crashes with an error referring to an invalid block state, because it tries to place it facing up and that doesn't exist =

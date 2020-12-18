@@ -1,0 +1,1 @@
+ URL : "https://github.com/sohobloo/react-native-modal-dropdown/issues/45" TITLE : please support landscape BODY : when i use it in landscape orientation, it rotated to portrait orientation. please add support for landscape by adding props supportedorientations of modal.

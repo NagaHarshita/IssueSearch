@@ -1,0 +1,1 @@
+ URL : "https://github.com/rangle/angular-training-slides/issues/280" TITLE : update routing content BODY : - what is routing? - how do i configure routes? - how do i navigate between routes? - how do i handle 404 pages? - how do i use route or query string parameters? - how do i control access with routing? - what are child routes?

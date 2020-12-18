@@ -1,0 +1,1 @@
+ URL : "https://github.com/bmuschko/gradle-docker-plugin/issues/353" TITLE : configure with dockerfile BODY : how would someone configure this plugin if they only have: an existing dockerfile at src/main/docker/dockerfile a single executable jar springboot that to end up at the root of the file system /app.jar wants it tagged with 2 tags, such as 0.1.0 and latest thanks.

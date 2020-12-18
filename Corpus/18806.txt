@@ -1,0 +1,1 @@
+ URL : "https://github.com/bodsch/docker-icinga2/issues/29" TITLE : updates for 2.8.x BODY : some path are changed, see https://www.icinga.com/docs/icinga2/latest/doc/16-upgrading-icinga-2/ changed-certificate-paths look at https://gist.github.com/bodsch/2cc3c1fe5f5869df28de53ccddfaffd6 for a resolution

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Lynten/stanford-corenlp/issues/7" TITLE : socket connect hanging BODY : on mac osx connecting to the socket may cause hanging. adding a short delay before the first check fixes it.

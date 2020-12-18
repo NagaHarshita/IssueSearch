@@ -1,0 +1,1 @@
+ URL : "https://github.com/HPI-DeepLearning-PlaceRecognizer-SS17/webscale-bounding-box/issues/1" TITLE : fix grunt watch BODY : grunt watch recognizes changed files, but fails to run the specified subtasks

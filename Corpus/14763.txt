@@ -1,0 +1,1 @@
+ URL : "https://github.com/Blackjacx/SHSearchBar/issues/22" TITLE : can't change font BODY : whenever i set the font of the search bar, the font does change when the view initially loads. but, after a second the font resets. the placeholder text remains the custom font, but the font of the text typed goes back to default.

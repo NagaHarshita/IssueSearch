@@ -1,0 +1,1 @@
+ URL : "https://github.com/schul-cloud/schul_cloud_resources_server_tests/issues/14" TITLE : test accept header list BODY : the accept headers can be a list. test this! example: text/html,application/xhtml+xml,application/xml;q=0.9, / ;q=0.8 - case where accepted header is in list - case where no exxepcted header can be found witha and without parameters

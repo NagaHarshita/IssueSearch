@@ -1,0 +1,1 @@
+ URL : "https://github.com/silverforge/ElasticRawClient/issues/13" TITLE : java version error BODY : it looks like the code is compiled in java 1.7. i tried to change my whole project to use 1.7, but there's like endless configuration settings. would you please provide a java 1.8 version of the elasticrawclient? it would be greatly appreciated. thanks.

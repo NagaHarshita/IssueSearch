@@ -1,0 +1,1 @@
+ URL : "https://github.com/mrahtz/ultra_ping/issues/2" TITLE : no requirements.txt file BODY : not sure if i'm missing something, usually there is a requirements.txt file so that anyone using the project can leverage pip to get all python packages needed: pip install -r requirements.txt .

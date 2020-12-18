@@ -1,0 +1,1 @@
+ URL : "https://github.com/btiteam/xbtit/issues/47" TITLE : password hashing method BODY : xbtit/include/functions.php i am suggesting that this be a priority issue and that xbtit goes with the standard php bcrypt method.

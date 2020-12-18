@@ -1,0 +1,1 @@
+ URL : "https://github.com/w3c/transitions/issues/14" TITLE : closing date of ac reviews BODY : - ac email for cr should say: the ac review ending date will be specified when the specification will enter pr . - do we introduce confusion in the ac by changing closing over time? see also https://github.com/w3c/w3process/issues/34

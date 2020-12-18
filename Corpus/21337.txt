@@ -1,0 +1,2 @@
+ URL : "https://github.com/cvicente/test-redmine-migration/issues/304" TITLE : external url field BODY : --- author name: john lines john lines original redmine issue: 1665, http://localhost:3000/issues/1665
+original date: 2012-07-25 --- an external url field associated with most objects would allow netdot to be made more extensible, for example allowing stuctured notes about a device in a wiki, or link to a service contract, or home page for a person. it is possible to put urls into the comments field, but they are not recognised as html links.

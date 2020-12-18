@@ -1,0 +1,1 @@
+ URL : "https://github.com/icewind1991/userinfo/issues/2" TITLE : fix for oracle BODY : php return $query->execute ->fetchall \pdo::fetch_key_pair ; \pdo::fetch_key_pair does not work on oracle also there are a lof of closecursor missing.

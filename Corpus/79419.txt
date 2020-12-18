@@ -1,0 +1,1 @@
+ URL : "https://github.com/mykytamorachov/scafeinder/issues/13" TITLE : setup webpack for server BODY : let it build to dist folder also make live reload for server, not to restart it after every change

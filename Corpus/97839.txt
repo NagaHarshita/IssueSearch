@@ -1,0 +1,1 @@
+ URL : "https://github.com/prepare/HTML-Renderer/issues/57" TITLE : html rendering on opengles BODY : render directly on the opengles surface without gdi+ coordinate errors/ temp fix, snapshot. ! html_gles2 https://cloud.githubusercontent.com/assets/7447159/22859298/7426d73c-f109-11e6-9204-451661611021.png

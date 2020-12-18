@@ -1,0 +1,1 @@
+ URL : "https://github.com/Great-Hill-Corporation/quickBlocks/issues/316" TITLE : customizing slurp display BODY : ethslurp has a feature where it loads the quickblocks.toml file and then loads another .toml in slurps/addr+ .toml which allows to use a global setting with a per-contract customization. don't forget about this as it's a useful feature, but not well exposed.

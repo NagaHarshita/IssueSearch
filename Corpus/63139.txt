@@ -1,0 +1,1 @@
+ URL : "https://github.com/lytics/pathforajs/issues/266" TITLE : deprecate button layout BODY : http://lytics.github.io/pathforadocs/layouts/button/ let's verify, but i'm 99% sure this layout type is unused. we should remove support for it from the codebase.

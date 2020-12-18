@@ -1,0 +1,1 @@
+ URL : "https://github.com/ZZROTDesign/docker-clean/issues/33" TITLE : delete based on regexp BODY : implement a regexp to run more aggressive cleanup tasks on known images/containers that may still be tagged

@@ -1,0 +1,1 @@
+ URL : "https://github.com/LinxGem33/Arc-Menu/issues/84" TITLE : unable to install BODY : i try to install this and i get the following error: > gdbus.error:org.gnome.shell.loadextensionerror: error: requiring gmenu, version none: typelib file for namespace 'gmenu' any version not found i don't know what its looking for, hoping someone can help me

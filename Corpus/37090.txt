@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/vscode-python/issues/69" TITLE : jump to failed tests BODY : _from @tillahoffmann on december 20, 2016 12:31_ it would be great if it was possible to jump to the failing line in a test from the python test log console in the ide. _copied from original issue: donjayamanne/pythonvscode 596_

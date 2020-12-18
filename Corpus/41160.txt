@@ -1,0 +1,1 @@
+ URL : "https://github.com/PhilJay/MPAndroidChart/issues/3699" TITLE : x and y fixed values BODY : hi, when i use setaxismaximum and setaxisminimum the values shown are only the even numbers. how can i format it to show all values

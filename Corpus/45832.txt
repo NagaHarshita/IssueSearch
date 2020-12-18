@@ -1,0 +1,1 @@
+ URL : "https://github.com/arxiv-vanity/engrafo/issues/177" TITLE : investigate better ci BODY : codeship doesn’t run tests on external prs. https://github.com/arxiv-vanity/engrafo/pull/168

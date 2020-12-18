@@ -1,0 +1,1 @@
+ URL : "https://github.com/achim1/pyevsel/issues/34" TITLE : implementation of poisson BODY : just a reminder, that the poisson how it is currently implemented is the pdf. that means if used to fit a discrete poisson distribution for small expectation values, the chi2 is probably bad, as the implemented poisson will only describe the data properly for higher expected values.

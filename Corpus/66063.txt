@@ -1,0 +1,1 @@
+ URL : "https://github.com/gijzelaerr/python-eduvpn-client/issues/9" TITLE : make connections unique BODY : now all actions are done based on connection name, which is not unique and may results in for example deleting double profiles.

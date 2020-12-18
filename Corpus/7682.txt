@@ -1,0 +1,1 @@
+ URL : "https://github.com/Ulterius/client/issues/97" TITLE : i got an error. BODY : after pressing disconect on the login screen in browser. also, not logged in. exception information: typeerror: e.socket is undefined - line 48

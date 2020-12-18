@@ -1,0 +1,1 @@
+ URL : "https://github.com/simple2d/simple2d/issues/49" TITLE : add support for c++ BODY : currently, compiling any c++ source file using the library will crash, see 48.

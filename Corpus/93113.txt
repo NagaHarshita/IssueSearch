@@ -1,0 +1,1 @@
+ URL : "https://github.com/qor/bindatafs/issues/3" TITLE : add document for build app BODY : when you launch you app to live site, you should build with -tags 'bindatafs' . go build -tags 'bindatafs' -o app main.go ./app we only find document:

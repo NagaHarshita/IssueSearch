@@ -1,0 +1,1 @@
+ URL : "https://github.com/pulibrary/requests/issues/192" TITLE : remove development branch BODY : remove the development branch and just use master. this is line with most other pulibrary repos now.

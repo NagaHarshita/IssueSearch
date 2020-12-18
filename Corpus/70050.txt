@@ -1,0 +1,1 @@
+ URL : "https://github.com/openfisca/openfisca-france-indirect-taxation/issues/157" TITLE : update reforms energies BODY : old reforms for energies do not work anymore. we need to adapt them. it includes: - rattrapage_diesel - taxe_carbone - cce_2015_in_2014 - cce_2016_in_2014

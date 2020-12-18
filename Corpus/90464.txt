@@ -1,0 +1,1 @@
+ URL : "https://github.com/x-team/unleash/issues/460" TITLE : show less/show more steps BODY : clicking on the show less should fold steps under a goal. show less changes to show more and the arrow inverts . clicking show more unfolds steps under a goal. ! image https://cloud.githubusercontent.com/assets/7212882/26693328/0f8da41c-4704-11e7-8151-0d094e80ca4f.png

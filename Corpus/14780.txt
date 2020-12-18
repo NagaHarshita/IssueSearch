@@ -1,0 +1,1 @@
+ URL : "https://github.com/FocaBot/FocaBot/issues/4" TITLE : can't play a song BODY : hello, i can play a song with the focabot hosted bot but when i try with the self hosted one, i have this error message : couldn't join to the voice channel. skipping... . the error happens with a youtube link and a mp3 link. i have ffmpeg version 3.2.5-1 ; nodejs v7.10.1.

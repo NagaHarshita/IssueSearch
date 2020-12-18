@@ -1,0 +1,1 @@
+ URL : "https://github.com/jfreeman82/freeblog/issues/5" TITLE : get rid of global dbc BODY : it's an ill-advice practice to use global vars. change this to the dbc class instantiation each time global dbc was called.

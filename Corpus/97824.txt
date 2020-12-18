@@ -1,0 +1,1 @@
+ URL : "https://github.com/nguyenq/VietOCR3/issues/4" TITLE : how to use training data ? BODY : dear mr nguyenq. please help me resolve the following problem 1. how to unpackage training data in this folder ?https://github.com/nguyenq/vietocr3/tree/master/tesseract-ocr/tessdata 2. what is structure ? i want to use it data for training my ocr model. thanks !

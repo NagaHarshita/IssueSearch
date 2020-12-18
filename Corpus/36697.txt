@@ -1,0 +1,9 @@
+ URL : "https://github.com/AppFolioOnboarding/image-sharer-mathewbaltes/issues/4" TITLE : image url validation BODY : as a user i want to be prevented from submitting invalid image urls. __story__: we quickly got up to speed providing our users the ability to add images to our
+service. how cool are all the images they are adding? but wait, what are all
+these broken image placeholders? we would like to avoid that. in order to do so
+we will need to add some validation to our model in order to increase the
+chance that the data submitted actually corresponds to an image url. __acceptance criteria__:
+- i cannot successfully save an image with an invalid url.
+- an error message is associated with the appropriate input field on failure. __discussion topic__:
+- what is a valid image url? __dependencies__:
+- save image link

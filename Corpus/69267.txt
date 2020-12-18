@@ -1,0 +1,1 @@
+ URL : "https://github.com/abernix/meteord/issues/20" TITLE : support for meteor 1.6? BODY : i know meteor 1.6 is currently in beta, but it would be great if you can release an image tag for nodejs 8.3.0 so that we can deploy meteor 1.6 project to the server.

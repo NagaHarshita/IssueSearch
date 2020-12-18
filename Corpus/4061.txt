@@ -1,0 +1,1 @@
+ URL : "https://github.com/SmartPeople/ngeo/issues/14" TITLE : add iwatch app BODY : show: - start/stop tracking button. - speed - ping try to use this: https://github.com/mtford90/react-native-watch-connectivity https://github.com/conorbuck/react-native-watch

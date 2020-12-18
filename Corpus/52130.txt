@@ -1,0 +1,1 @@
+ URL : "https://github.com/pegasos1/cargo-profiler/issues/36" TITLE : cannot find -lprofiler BODY : i'm trying to build a project using the cargo profiler, but i keep getting the error /usr/bin/ld: cannot find -lprofiler . i fixed this before on ubuntu by installing valgrind, but now i'm on arch with valgrind installed, but the error persists.

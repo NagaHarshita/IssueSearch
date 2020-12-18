@@ -1,0 +1,1 @@
+ URL : "https://github.com/vale2005/referl/issues/7" TITLE : styling the editor BODY : the filename labels should be...well, nicer. maybe use a different color for unsaved files, and a highlighting for the currently opened file.

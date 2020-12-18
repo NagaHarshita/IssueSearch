@@ -1,0 +1,1 @@
+ URL : "https://github.com/chili-epfl/FROG/issues/739" TITLE : h5p video iframe resizing BODY : the h5p interactive-video activity is scaled a bit bigger than the window, leading to lots of graphics artefacts. should look into how the automatic resizing is happening, maybe some css stuff, etc.

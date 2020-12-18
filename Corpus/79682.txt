@@ -1,0 +1,1 @@
+ URL : "https://github.com/huridocs/uwazi/issues/816" TITLE : spellcheck on properties BODY : spellcheck, as far as i can tell, only works on the default properties/dictionaries, but not on the ones a user selects. can this be generalised?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/wojtekmaj/react-date-picker/issues/20" TITLE : highlight specific day. BODY : i want to implement a holiday list and change the style for the same day in calendar. any way to highlight a specific day like holiday or holiday list ?

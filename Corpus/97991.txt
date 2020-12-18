@@ -1,0 +1,1 @@
+ URL : "https://github.com/Yoast/yoast-components/issues/213" TITLE : implement algolia searcher BODY : - implement iframe component - implement articlecontent as a styled iframe part 3 of the implementation of pull 203

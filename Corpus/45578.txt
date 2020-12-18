@@ -1,0 +1,1 @@
+ URL : "https://github.com/spy3123/prj-rev-bwfs-dasmoto/issues/2" TITLE : important - using alt BODY : you should consider adding an alt attribute to the images, that way if any of the images don't load for some reason, you don't get the broken link icon, rather the text you specify in alt will be displayed, more info here: https://www.w3schools.com/tags/att_img_alt.asp

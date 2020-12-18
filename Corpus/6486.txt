@@ -1,0 +1,1 @@
+ URL : "https://github.com/openathena/server/issues/36" TITLE : add ping action BODY : returns the current timestamp. useful to determine an offset between server time and local time, including latency between client and server.

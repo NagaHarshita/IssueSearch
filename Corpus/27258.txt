@@ -1,0 +1,1 @@
+ URL : "https://github.com/chebotov/gregario/issues/3" TITLE : create bot commands BODY : create add to grocery list command; bot should understand both english and russian language; create /help command to show all available bot commands;

@@ -1,0 +1,1 @@
+ URL : "https://github.com/BlackMarkDown/markdown-parser/issues/2" TITLE : throw laziness away BODY : we do not provide laziness rule of block quote http://spec.commonmark.org/0.27/ block-quotes . reason 1. providing unified experiences is our no.1 goal. 2. laziness rule of block quote separate experiences between paragraphs and the other block types. so, fuck off.

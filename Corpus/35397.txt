@@ -1,0 +1,1 @@
+ URL : "https://github.com/zant95/elementary-dropbox/issues/17" TITLE : dropbox slowly start BODY : every time the system reboots the dropbox starts indexing and synchronization process. this is very costly. is it possible to disable?

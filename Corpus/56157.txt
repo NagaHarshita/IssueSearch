@@ -1,0 +1,1 @@
+ URL : "https://github.com/michaelss/inventory/issues/5" TITLE : migrate to spring boot BODY : instead of java ee, use spring boot, with spring mvc and security. this will ease the deploy and security control.

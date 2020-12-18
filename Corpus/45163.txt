@@ -1,0 +1,1 @@
+ URL : "https://github.com/clux/vitae/issues/5" TITLE : headless chrome print BODY : can automate pdf generation. https://developers.google.com/web/updates/2017/04/headless-chrome should just be able to take a file. look into this later. sh chrome --headless --disable-gpu --print-to-pdf vitae.html

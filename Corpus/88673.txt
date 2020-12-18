@@ -1,0 +1,1 @@
+ URL : "https://github.com/astropy/astropy/issues/6847" TITLE : observatory site location BODY : hi, does the earthlocation.of_site obsname support multiple telescopes at a single observatory and the coordinates for that? is there any plan in the future for that? shubham

@@ -1,0 +1,1 @@
+ URL : "https://github.com/adzidic/R_lectures/issues/2" TITLE : l2 - boxplots BODY : the image indicating what the components of the box plot is not entirely correct. the extent of the whiskers is not the max and min at least by default and instead they are = 1.5 x inter-quartile range.

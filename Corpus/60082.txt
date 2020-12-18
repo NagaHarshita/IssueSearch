@@ -1,0 +1,1 @@
+ URL : "https://github.com/kriswiner/MPU9250/issues/189" TITLE : weird behavior of roll BODY : hi kris, in my sensor the roll reading is good but when i move in pitch direction it increases as well , this happens when the pitch reading reaches 75 , the roll is suddenly goes to 150 . what do you think is the problem ?

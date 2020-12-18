@@ -1,0 +1,1 @@
+ URL : "https://github.com/qTox/planning/issues/2" TITLE : migrate on qml BODY : i'm not sure, that it's good idea. but we can try http://doc.qt.io/qt-4.8/qml-integration.html

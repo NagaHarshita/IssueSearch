@@ -1,0 +1,1 @@
+ URL : "https://github.com/CIFASIS/qss-solver-mmoc/issues/13" TITLE : classic code generation. BODY : disable jacobian function generation and sd data structure when not using ida or cvode solvers.

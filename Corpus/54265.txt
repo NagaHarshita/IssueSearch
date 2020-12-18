@@ -1,0 +1,1 @@
+ URL : "https://github.com/scamargo/big-scary/issues/9" TITLE : fix video playback bug BODY : right now, the video carousel continues playback even when you advance to another video. we need to fix this.

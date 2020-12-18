@@ -1,0 +1,1 @@
+ URL : "https://github.com/javascript-obfuscator/webpack-obfuscator/issues/23" TITLE : not work for webpack 3 BODY : js new javascriptobfuscator { rotateunicodearray: true }, 'app.js'

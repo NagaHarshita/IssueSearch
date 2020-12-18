@@ -1,0 +1,1 @@
+ URL : "https://github.com/jt4925/crm-interviews/issues/2" TITLE : sql injection found BODY : no sanitation on the form data and the request parameters. tried to execute sql injections with success.

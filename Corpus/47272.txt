@@ -1,0 +1,1 @@
+ URL : "https://github.com/WallarooLabs/pony-kafka/issues/41" TITLE : optimize idle polling BODY : as reported in https://github.com/wallaroolabs/wallaroo/issues/1584, the current code seems to use too much cpu when idle polling kafka brokers. this issue is to optimize the relevant code to minimize resource usage when idle polling.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/lbryio/spee.ch/issues/66" TITLE : add show routes BODY : add a 'show' route for claims. this route will display the image in a web page as opposed to serving the asset directly. the show route page will include a couple simple tools copy to clipboard, etc . after publish, spee.ch should redirect the user to the show route.

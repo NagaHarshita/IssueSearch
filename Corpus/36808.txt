@@ -1,0 +1,1 @@
+ URL : "https://github.com/sztanko/cubedb/issues/21" TITLE : improve docker image BODY : the dockerfile should build the jar file so any person trying out the cubedb doesn't to install java and compile the jar file on xyr machine

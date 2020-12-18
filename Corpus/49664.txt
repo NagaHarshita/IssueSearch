@@ -1,0 +1,1 @@
+ URL : "https://github.com/lawliet89/biscuit/issues/41" TITLE : unexpose custom serde BODY : not really useful, and terrible api for some of them. do not macro_export the macros either

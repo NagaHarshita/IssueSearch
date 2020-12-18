@@ -1,0 +1,1 @@
+ URL : "https://github.com/NAVCoin/paper-wallet/issues/1" TITLE : add import dumpwallet BODY : instead of the paper wallet generating new pub priv keys, you can import a dumpwallet textfile as a way to backup an existing wallet.

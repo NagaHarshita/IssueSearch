@@ -1,0 +1,1 @@
+ URL : "https://github.com/porres/pd-cyclone/issues/235" TITLE : coll txt from 0.1alpha.56 BODY : max, min don't work ... i suppose 1 2 stores 2 as a symbol not number i don't understand refer ... is it like read ??? ahem and it segfaults ... update: can't reproduce the crash - seems to work fine now ... renumber does really strange things, loses elements ... hmmmm

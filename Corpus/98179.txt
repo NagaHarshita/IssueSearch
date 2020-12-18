@@ -1,0 +1,1 @@
+ URL : "https://github.com/stockpile-co/app/issues/311" TITLE : improve ux of renting kits BODY : currently, it is hard to tell that the items in the list have to be scanned. graying out unscanned items and adding an icon should help to make it clearer.

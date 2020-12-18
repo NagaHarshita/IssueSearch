@@ -1,0 +1,1 @@
+ URL : "https://github.com/catmanjan/anutimetable/issues/129" TITLE : source crossover support BODY : currently the timetable created before will crash after every time a new source is updated. will need to find a solution to compare the difference between two sources and show them in some way rather than just wipe out the previous storage.

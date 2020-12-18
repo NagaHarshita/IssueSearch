@@ -1,0 +1,1 @@
+ URL : "https://github.com/facebookincubator/create-react-app/issues/2611" TITLE : how to adda plugin BODY : sorry for my ignorance, but i can't seem to figure out how to add a plugin, i'm used to the simplicity of .babelrc but it seems to not work with create-react-app thanks.

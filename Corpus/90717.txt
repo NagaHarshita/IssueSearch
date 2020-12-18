@@ -1,0 +1,1 @@
+ URL : "https://github.com/subutai-io/tray/issues/170" TITLE : ssh key add to containers BODY : now we can add ssh key to any environment to all containers in environment . we also need to add ssh-key to any specified container. this should be implemented on hub, ss and tray side.

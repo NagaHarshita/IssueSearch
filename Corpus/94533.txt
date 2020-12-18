@@ -1,0 +1,1 @@
+ URL : "https://github.com/aviaryan/Kissanime-Batch-Downloader/issues/3" TITLE : captcha added on kissanime BODY : captcha has been added on the kissanime website which doesn't allow quick successive opening on episode pages. so the script fails to fetch more than n 6 to 8 number of links in one go.

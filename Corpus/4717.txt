@@ -1,0 +1,1 @@
+ URL : "https://github.com/peterstanton/TeamAwesome-project/issues/10" TITLE : fix mode table BODY : fix mode jump table so it does the correct ouput to the buffer for each mode.

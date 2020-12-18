@@ -1,0 +1,1 @@
+ URL : "https://github.com/horike37/serverless-step-functions/issues/61" TITLE : add integration test BODY : do integration test when pushing master branch and release new version. here is test patterns - http event - no event, only plane setting

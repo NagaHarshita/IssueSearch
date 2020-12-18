@@ -1,0 +1,1 @@
+ URL : "https://github.com/alnutile/webforms/issues/5" TITLE : add validation rules BODY : rules => 'required', 'min:3', 'max:30'

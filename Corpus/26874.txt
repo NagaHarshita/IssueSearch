@@ -1,0 +1,1 @@
+ URL : "https://github.com/nicolastakashi/flepper/issues/37" TITLE : cascate soft delete BODY : expected behavior since we have the option to perform soft delete as requested in issue: 36 it would be very interesting if we had an option to configure whether to do the soft delete in cascade. actual behavior functionality not implemented

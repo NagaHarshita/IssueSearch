@@ -1,0 +1,1 @@
+ URL : "https://github.com/mattphillips/jest-extended/issues/35" TITLE : new matcher: .tobearray BODY : feature request .tobearray use .tobearray when checking if a value is an array . js test 'passes when value is an array', => { expect .tobearray ; expect 1 .tobearray ; expect true .not.tobearray ; } ;

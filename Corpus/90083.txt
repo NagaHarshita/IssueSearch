@@ -1,0 +1,1 @@
+ URL : "https://github.com/patkub/antuple-fedora/issues/2" TITLE : root dir '/' out of space BODY : edit fedora-25-x86_64.cfg and add: config_opts 'basedir' = '/home/patka/remix/'

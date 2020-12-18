@@ -1,0 +1,1 @@
+ URL : "https://github.com/Metatavu/kunta-api-www-mikkeli/issues/70" TITLE : stream index page images BODY : banner, tile, news and event images are directly linked into api. instead of this they should be streamed via the node app

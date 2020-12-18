@@ -1,0 +1,1 @@
+ URL : "https://github.com/hpicgs/yats/issues/54" TITLE : private is not allowed BODY : move every private implementation in every class to protected.

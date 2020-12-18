@@ -1,0 +1,1 @@
+ URL : "https://github.com/BrowserSync/recipes/issues/45" TITLE : missing script: start BODY : following wiki steps: 1. repo was cloned. 2. npm install ran correctly. on 'npm start' getting: npm err! missing script: start there is no start script on package.json. https://github.com/browsersync/recipes/blob/master/package.json l13

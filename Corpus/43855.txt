@@ -1,0 +1,1 @@
+ URL : "https://github.com/basstabs/NEForumMessenger/issues/17" TITLE : direct message button BODY : add button on the inbox page to send a message, automatically filling out the recipient line. just use reply code with an empty subject.

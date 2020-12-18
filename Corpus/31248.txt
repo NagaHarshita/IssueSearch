@@ -1,0 +1,1 @@
+ URL : "https://github.com/brookhong/Surfingkeys/issues/496" TITLE : scrolling is broken BODY : unable to scroll using either j, k or any other bound keys. in console, this error shows up: uncaught typeerror: cannot read property 'scrollheight' of null

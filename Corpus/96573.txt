@@ -1,0 +1,1 @@
+ URL : "https://github.com/Zeex/pawn/issues/224" TITLE : extract params and v3.10.5 BODY : now pawno does not work correctly with extract parameters in use sscanf pawn extract params -> new id, string:mes 32 ; else error 017: undefined symbol is

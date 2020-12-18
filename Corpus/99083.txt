@@ -1,0 +1,1 @@
+ URL : "https://github.com/numbas/editor/issues/346" TITLE : make functions collapsible BODY : when working with multiple functions on the extension page it would be useful to collapse the functions, in the same way as you can collapse and expand question parts.

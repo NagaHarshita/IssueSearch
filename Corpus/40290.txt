@@ -1,0 +1,1 @@
+ URL : "https://github.com/clean-cloogle/libcloogle/issues/1" TITLE : tostring for request BODY : we could use a tostring for request which represents the request as a string that could be fed to the http api on cloogle.org. this should have the type request -> maybe string , as some requests are invalid like when both classname and typename are just .

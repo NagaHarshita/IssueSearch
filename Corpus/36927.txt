@@ -1,0 +1,6 @@
+ URL : "https://github.com/geigi/cozy/issues/42" TITLE : invalid appdata file BODY : appcenter dashboard ran appstreamcli validate on your project's .appdata.xml file and
+received the following errors: e - com.github.geigi.cozy.appdata.xml:com.github.geigi.cozy.desktop:32 the description contains an url. this is not allowed, please use the <url/> tag to share links. i - com.github.geigi.cozy.appdata.xml:com.github.geigi.cozy.desktop:7 the component summary should not end with a . a modern audio book player for linux. i - com.github.geigi.cozy.appdata.xml:com.github.geigi.cozy.desktop:9 first 'description/p' paragraph might be too short < 80 characters . validation failed: errors: 1, infos: 2 --- for more information, see:
+- the appstream quickstart guide https://www.freedesktop.org/software/appstream/docs/chap-quickstart.html - the appstream metadata specification https://www.freedesktop.org/software/appstream/docs/chap-metadata.html if you need help with this issue please stop by the gitter https://gitter.im/elementary/houston channel. affects : 0.3.6 release https://github.com/geigi/cozy/releases/tag/0.3.6 <!--
+pipe: appdata
+pipe time: thu nov 09 2017 12:02:23 gmt+0000 utc houston version: 0.4.1 66bc5f6c59b32bbe0d7354d71971d612e6fcddd4 houston env: production
+-->

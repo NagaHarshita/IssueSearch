@@ -1,0 +1,1 @@
+ URL : "https://github.com/hyperhq/hyperd/issues/592" TITLE : compile with xen in ubuntu BODY : i have installed xen and devel packages on ubuntu 16.04 ./configure always says checking for libxl.h... no even if the file is in /usr/include could the docs be updated for this?

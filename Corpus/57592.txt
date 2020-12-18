@@ -1,0 +1,1 @@
+ URL : "https://github.com/EvictionLab/eviction-maps/issues/325" TITLE : ranking list component BODY : takes an input of ranking data and displays a list with all of the provided data with numbers, location names, and bars that represent the value of the currently selected data type. the component should have a different class that determines bar color for each selected tab.

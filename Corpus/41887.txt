@@ -1,0 +1,1 @@
+ URL : "https://github.com/openshiftio/openshift.io/issues/1505" TITLE : add pcp to api server BODY : related to https://github.com/openshiftio/openshift.io/issues/732. we already have pcp in our worker containers, but we'd like to add it to the api server container as well.

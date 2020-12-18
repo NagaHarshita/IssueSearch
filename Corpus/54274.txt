@@ -1,0 +1,1 @@
+ URL : "https://github.com/react-bootstrap-table/react-bootstrap-table2/issues/93" TITLE : fixed columns in table BODY : i would like fix few columns where when user scrolls horizontally, fixed columns remains same but scrolls with the vertical scroll. could you please help me getting feature in.

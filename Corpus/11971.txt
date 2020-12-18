@@ -1,0 +1,1 @@
+ URL : "https://github.com/dcodeIO/protobuf.js/issues/960" TITLE : map doesn't work BODY : protobuf.js version: 6.8.3 protobuf.js throws an error when trying to decode any map encoded using google's protobuf for c js message= message.decode buffer ; error: invalid wire type 6 at offset 896 at n.skiptype reader.js:375

@@ -1,0 +1,1 @@
+ URL : "https://github.com/roxma/SMS-Forward/issues/1" TITLE : forward to url BODY : great idea. can you point out where in the code should i make a http request, to forward the sms? to understand the context, i will receive messages with 4 digits numbers 1254, 4568, etc . then i want to send this number to a server.

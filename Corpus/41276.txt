@@ -1,0 +1,1 @@
+ URL : "https://github.com/PhrozenByte/rmtrash/issues/6" TITLE : -r option not working BODY : ➜ del -r spec/controllers rmtrash: illegal option -- r usage: rmtrash -h -v -u username filename awesome package but i can't seem to get it to work for directories. let me know what debug info is helpful, thanks!

@@ -1,0 +1,1 @@
+ URL : "https://github.com/S5S-Sanctuary/Sanctuary_Prototype/issues/15" TITLE : decide map tech to use BODY : leaflet http://openlayers.org/ - open layers https://hpneo.github.io/gmaps/ - googlemaps openstreetmap. going with leaflet for now, would be good to look at alternatives

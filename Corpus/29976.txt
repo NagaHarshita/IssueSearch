@@ -1,0 +1,1 @@
+ URL : "https://github.com/miwee/stomp_client/issues/8" TITLE : new relaese for hex BODY : hi, it seems that the release on hex 0.1.0 is out of date and still has at least one bug parsing of incomplete headers causes problems . it would be great if you could release a new version to hex. thx

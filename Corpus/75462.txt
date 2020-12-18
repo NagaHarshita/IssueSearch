@@ -1,0 +1,1 @@
+ URL : "https://github.com/Jameskmonger/tailormade/issues/3" TITLE : hint for -p is incorrect BODY : the hint for -p is given as -p 'color' 'background-color' , this should be -p color background-color

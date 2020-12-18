@@ -1,0 +1,1 @@
+ URL : "https://github.com/audiojs/web-audio-stream/issues/9" TITLE : question: stream mp3 BODY : i m searching a generic solution working in all modern browser for creating a stream mp3. i could receives chunks of a mp3 file. your library can help me.

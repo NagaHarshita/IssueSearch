@@ -1,0 +1,1 @@
+ URL : "https://github.com/valor-software/ng2-charts/issues/899" TITLE : width of canvas BODY : hi, for a bar chart. i would like to set the width of the canvas based on how much data is returned back from service. sometimes i have a few columns, sometimes i have 100's. is there a way i can adjust the canvas width after the subscribe get's data. jeremy

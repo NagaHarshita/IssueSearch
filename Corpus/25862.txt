@@ -1,0 +1,1 @@
+ URL : "https://github.com/fossasia/query-server/issues/260" TITLE : add dogpile support BODY : i'm submitting a ... - bug report - x feature request current behavior: <!-- how the bug manifests. --> expected behavior: <!-- behavior would be without the bug. --> add support for dogpile http://www.dogpile.com/ steps to reproduce: yes, i would like to work on this issue

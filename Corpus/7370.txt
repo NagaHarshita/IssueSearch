@@ -1,0 +1,1 @@
+ URL : "https://github.com/JoshuaDees/EJSChart/issues/6" TITLE : fix hint sizing BODY : the hint needs to determine its text size to size itself correctly.

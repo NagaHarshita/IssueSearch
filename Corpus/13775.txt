@@ -1,0 +1,1 @@
+ URL : "https://github.com/iview/iview/issues/317" TITLE : 关于 iview 2.0 BODY : 即日起 iview 在分支 2.0 下进行对 vue 2.x 的支持，暂停对 iview 1.x 的更新及 pr 合并，请先不要提交 pr。

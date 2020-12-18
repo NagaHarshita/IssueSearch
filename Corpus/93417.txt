@@ -1,0 +1,1 @@
+ URL : "https://github.com/LeKovr/webtail/issues/2" TITLE : add support for site title BODY : add site title config var and show it in pages title. this will allow identify browser tabs

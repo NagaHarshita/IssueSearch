@@ -1,0 +1,1 @@
+ URL : "https://github.com/Korijn/radiant/issues/24" TITLE : decomposition in pyrr BODY : once https://github.com/adamlwgriffiths/pyrr/pull/65 is merged and released, we can drop it from our codebase

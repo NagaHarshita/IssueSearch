@@ -1,0 +1,1 @@
+ URL : "https://github.com/Renascentinc/retina-app/issues/96" TITLE : iphone 5s/c ui issues BODY : several labels that cross the full width of the screen wrap to a second line on an iphone 5s/c. we should fix these labels such that they can scale down to a screen of this size.

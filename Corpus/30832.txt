@@ -1,0 +1,1 @@
+ URL : "https://github.com/CDCgov/MicrobeTRACE/issues/73" TITLE : redesign file input BODY : instead of a single file input with advanced options , use parallel boxes, each of which takes a file and exposes its own options.

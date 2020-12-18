@@ -1,0 +1,1 @@
+ URL : "https://github.com/rhymix/rhymix/issues/866" TITLE : html 코드노출 현상 BODY : 오늘 날짜 master,develop 버전 모두 다운로드하여 새로 설치하여 테스트해보았습니다. php5.5 ,5.6 ,7.0 환경 테스트함. 기본 div으로 img 불러오는 간단 태그로 테스트 문서페이지,게시판 기본스킨,스케치북5 에디터에서 정상적으로 코드 반영됩니다. 위젯페이지에서 div 코드 반영이 안되고 html코드 그대로 노출이 되는 버그가 있습니다.

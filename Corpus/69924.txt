@@ -1,0 +1,1 @@
+ URL : "https://github.com/Festify/cordova-spotify/issues/26" TITLE : universal links support BODY : right now we only support custom protocols as a way to finish the authentication, but universal links are the new shiny way to do in-app-redirects. we should support them.

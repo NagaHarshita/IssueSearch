@@ -1,0 +1,1 @@
+ URL : "https://github.com/akveo/ng2-smart-table/issues/378" TITLE : custom calculated value BODY : hello, is there a way to create a custom component whose value depends on the other columns? and which is updated in real time. thanks in advance

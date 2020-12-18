@@ -1,0 +1,1 @@
+ URL : "https://github.com/tdhopper/pythonplot.com/issues/3" TITLE : a small suggest? BODY : the scatter plot of pandas. it might be a little better like this: python mpg .plot .scatter x='displ', y='hwy' .set title='engine displacement in liters vs highway mpg', xlabel='engine displacement in liters', ylabel='highway mpg'

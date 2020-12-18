@@ -1,0 +1,1 @@
+ URL : "https://github.com/trentool/TRENTOOL3/issues/23" TITLE : cao.m is missing BODY : there is no file called 'cao.m' in trentool. consequently, when choosing 'cao' as the optimization algorithm to find optimal embedding parameter, the program is crushed. if possible, i hope you can supplement this file. thank you very much~~~ @trentool @mwibral

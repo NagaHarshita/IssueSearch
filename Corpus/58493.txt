@@ -1,0 +1,1 @@
+ URL : "https://github.com/oskarrough/gyrup/issues/5" TITLE : slideshow looses focus BODY : after changing page the slideshow looses focus which means you can use arrow-keys before focusing it.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/noconnor/JUnitPerf/issues/7" TITLE : add rampup attribute BODY : add new attribute to junitperftest to control the rate at which threads are started

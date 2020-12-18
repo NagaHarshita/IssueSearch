@@ -1,0 +1,1 @@
+ URL : "https://github.com/holidayextras/partner-api-docs/issues/3" TITLE : correct table styling BODY : tables should be using bootstrap classes, to do this we will need a custom less file to map the bootstrap classes onto the html as adding the classes to the markdown is time consuming: {: .table .table-bordered .table-striped}

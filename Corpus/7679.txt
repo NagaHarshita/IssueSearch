@@ -1,0 +1,1 @@
+ URL : "https://github.com/exceptionnotfound/DesignPatterns/issues/1" TITLE : i found a issue BODY : when i saw a abstract sandwich class you set ingredients property that jsut getter propety when you inherite sandwich to another class in createingredietns you add ingredient to this property that is getter property !!! not setter propery

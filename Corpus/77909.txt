@@ -1,0 +1,1 @@
+ URL : "https://github.com/wizards-of-lua/luamod/issues/8" TITLE : optional tags for spells BODY : selecting spells by tags, like it is possible for entities, would be a nice way to break a group of persistent spells. currently breaking spells is either global or on a per spell basis.

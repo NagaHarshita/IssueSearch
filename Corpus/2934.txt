@@ -1,0 +1,1 @@
+ URL : "https://github.com/mapsplugin/cordova-plugin-googlemaps/issues/1293" TITLE : for ios alone BODY : i can not install this plugin because my mac don't have android source. so if i have no plan for android development, and i don't install it, how can i install this plugin into my ios-only app?

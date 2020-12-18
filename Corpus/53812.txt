@@ -1,0 +1,1 @@
+ URL : "https://github.com/DMOJ/site/issues/620" TITLE : etag and last-modified BODY : especially weak etags. these feel rather helpful in making the site go faster, if we can just avoid rendering some views. blog posts and problem statements come to mind.

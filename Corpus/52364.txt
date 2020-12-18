@@ -1,0 +1,1 @@
+ URL : "https://github.com/PREMIS-OWL-Revision-Team/revise-premis-owl/issues/22" TITLE : class no longer needed BODY : https://github.com/premis-owl-revision-team/revise-premis-owl/blob/498ba82180fd3cbc92e0dbe5bbaf6f12b05fcbf8/premis3.owl l268 we recommended creating subproperties of skos:closematch if the environment registry role should be mentioned.

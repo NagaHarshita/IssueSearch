@@ -1,0 +1,1 @@
+ URL : "https://github.com/rgbkrk/atom-script/issues/1476" TITLE : python error with paths BODY : in python idle allows you to use the / instead of the \ if on windows. atom errors when using the python method and should be fixed to fully emulate python's idle. i believe to fully claim this runs python scripts is incorrect if this path issue is not repaired.

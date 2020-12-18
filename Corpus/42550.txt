@@ -1,0 +1,1 @@
+ URL : "https://github.com/yeoman/generator-webapp/issues/632" TITLE : bootstrap 4 overrides BODY : bootstrap v4 main field is same as overrides in webapp bower.json. is there some reason for overrides same values? thanks bootstrap v4 main filed: https://github.com/twbs/bootstrap/blob/v4-dev/bower.json l17

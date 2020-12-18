@@ -1,0 +1,1 @@
+ URL : "https://github.com/haffonist/igamt/issues/2274" TITLE : verify data type BODY : a requirement field or component must have length. @robnist will provide table for cardinality verification: @carolinerosin can you provide list of compatibles/substitutable data types ?

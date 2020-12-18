@@ -1,0 +1,1 @@
+ URL : "https://github.com/McPhysix/Spherical/issues/5" TITLE : fix texture projection BODY : currently there is a line going from the north to the south pole where the texture doesn't look right.

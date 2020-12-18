@@ -1,0 +1,1 @@
+ URL : "https://github.com/padyx/purplemoon-android/issues/140" TITLE : migrate to dagger2 BODY : with android studio 3 and the newest gradle plugins , the annotation processors need to be declared differently. since dagger 1 is deprecated, this also is a chance to switch to to dagger2. https://google.github.io/dagger/dagger-1-migration.html

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Michael-F-Bryan/latex-rs/issues/7" TITLE : headers and footers BODY : it'd be cool if you could add your own headers and footers haf . it may require a small refactoring though to include arbitrary code snippets in the preamble. haf : https://www.sharelatex.com/learn/headers_and_footers

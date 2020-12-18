@@ -1,0 +1,1 @@
+ URL : "https://github.com/firebase/friendlychat/issues/156" TITLE : starter app not running BODY : tutorial 3 - build the starter app https://codelabs.developers.google.com/codelabs/firebase-ios-swift/ 2 i followed the first three steps. after that when i click the run button, i get the following error: 'you must specify |clientid| for |gidsignin|'

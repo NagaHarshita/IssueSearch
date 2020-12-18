@@ -1,0 +1,1 @@
+ URL : "https://github.com/electron/electron/issues/9305" TITLE : running on linux server BODY : tell me, is it possible to start electron.io in a server environment, without an interface? if so, how can i launch? phantomjs is certainly better suited for this, but it has problems that can not yet be circumvented

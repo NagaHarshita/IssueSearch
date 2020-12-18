@@ -1,0 +1,1 @@
+ URL : "https://github.com/Geodan/gost/issues/89" TITLE : sta test 3 issues BODY : when running sta test 3 is see 2 failing tests: - checkqueriespriorityordering - readentitieswithfilterqo can we fix these tests?

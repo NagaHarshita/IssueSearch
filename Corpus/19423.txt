@@ -1,0 +1,1 @@
+ URL : "https://github.com/rickynils/scalacheck/issues/335" TITLE : add arbitrary uuid BODY : currently there's no arbitrary uuid instance, even though we have the corresponding gen . i think it would make a lot of sense to have this out of the box all such instances i've seen are defined as arbitrary gen.uuid anyway .

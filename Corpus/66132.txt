@@ -1,0 +1,1 @@
+ URL : "https://github.com/jviereck/regjsparser/issues/82" TITLE : manpage for regjsparser BODY : i started working on a package for debian, and wrote a manpage for regjsparser https://anonscm.debian.org/cgit/pkg-javascript/node-regjsparser.git/tree/debian/regjsparser.1 ; if you're interested, it's under bsd see debian/copyright .

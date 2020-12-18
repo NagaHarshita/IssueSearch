@@ -1,0 +1,1 @@
+ URL : "https://github.com/laserb/gnome-shell-extension-suspend-button/issues/30" TITLE : extension not working BODY : hi, i just installed this extension in my computer, and it's not working. i'm running a debian 9 os with gnome 3.22. the installation seems like it went fine, no compiler errors, but it's still not working.

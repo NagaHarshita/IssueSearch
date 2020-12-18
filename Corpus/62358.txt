@@ -1,0 +1,1 @@
+ URL : "https://github.com/forumone/socrata/issues/60" TITLE : clean up socrata.module BODY : remove any deprecated functions and move as many functions as possible into classes.

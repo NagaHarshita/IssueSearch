@@ -1,0 +1,1 @@
+ URL : "https://github.com/Paratii-Video/paratii-contracts/issues/10" TITLE : migrate to circleci BODY : we are now on travis: https://travis-ci.org/paratii-video/paratii-contracts, which is fine, except that the player is using circle. so for consistency, we can migrate this to circleci as well.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/dcouturier/LibraryOverrider/issues/1" TITLE : how to use it? BODY : hi, i am looking to write a library overrider to override any library by giving its .h and .so file. is this libraryoverrider works like the one that i would like to write or it is specialized for the opencli files? how to use it, if it supports any .h file!? thanks

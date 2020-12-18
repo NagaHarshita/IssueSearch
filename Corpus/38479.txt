@@ -1,0 +1,1 @@
+ URL : "https://github.com/Flibio/EconomyLite/issues/32" TITLE : plugin loading error BODY : 22:22:10 main/trace sponge : scanning mods/economylite-5.0.0-2.7.0.jar for plugins 22:22:10 main/error sponge : skipping plugin with duplicate plugin id 'economylite' from mods/economylite-5.0.0-2.7.0.jar

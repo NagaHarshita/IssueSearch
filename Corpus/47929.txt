@@ -1,0 +1,1 @@
+ URL : "https://github.com/Luegg/angularjs-scroll-glue/issues/54" TITLE : re-enable scroll glue BODY : if a user scrolls, say, a horizontal block to the middle, scroll glue is suspended i.e. turned off . how can i programmatically, if i add new horizontal content to the block, re-enable scroll glue?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/coderXavi/Dasmotos/issues/1" TITLE : html special chars BODY : check out this article that explains why you need to care about using special characters in html: http://text-symbols.com/html/encode/ the ampersand should be written as: &amp; https://github.com/coderxavi/dasmotos/blob/c3782348e74736a6d68d43aad786288e4054be82/index.html l4

@@ -1,0 +1,1 @@
+ URL : "https://github.com/facebookincubator/prophet/issues/82" TITLE : error in periods BODY : the predict function will always be a month short i.e if the last ts date is 2017-01-01 and the frequency is set to month i.e freq= m and the period is set to periods = 6 last date of forecast is 2017-06-01 while it should be 2017-07-01. cheers, ahmed shawky

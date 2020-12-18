@@ -1,0 +1,1 @@
+ URL : "https://github.com/LTVFD/LTVFD_Website/issues/2" TITLE : formspree returning in utc BODY : the formspree submissions are returning in utc, switch that to est if possible through script. hopefully not a formspree thing.

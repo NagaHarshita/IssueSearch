@@ -1,0 +1,1 @@
+ URL : "https://github.com/cmip6dr/CMIP6_DataRequest_VariableDefinitions/issues/142" TITLE : wrong mip table zg500 BODY : should zg500 be in table 6hrplev rather than 6hrlev? http://clipc-services.ceda.ac.uk/dreq/u/6eaa0a74-05a7-11e7-88ed-5404a60d96b5.html

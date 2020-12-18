@@ -1,0 +1,1 @@
+ URL : "https://github.com/olddonkey/ODUIThreadGuard/issues/15" TITLE : swift 4 support BODY : compilation fails with error method 'initialize ' defines objective-c class method 'initialize', which is not permitted by swift

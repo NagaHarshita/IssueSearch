@@ -1,0 +1,1 @@
+ URL : "https://github.com/negan07/ancistrus/issues/4" TITLE : opkg repository issues BODY : packages .ipk are hosted here at github sometimes may become slower or temporarly unreachable and the opkg repositories too. in that case, installation on telnet router may result in some failure messages: try again after some seconds until the server returns online.

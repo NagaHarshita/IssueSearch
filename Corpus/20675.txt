@@ -1,0 +1,1 @@
+ URL : "https://github.com/DevOps17-Bravo/orders/issues/12" TITLE : create a new order BODY : as a developer i need to create a new order after a checkout was finished so that the customer is able to learn all the information the order contains assumption: - we have all the order format

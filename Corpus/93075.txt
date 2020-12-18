@@ -1,0 +1,1 @@
+ URL : "https://github.com/CBMM/toolkit/issues/2" TITLE : add continuous integration BODY : we're using travis-ci. the integration should be done once we have some tests to run.

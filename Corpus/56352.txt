@@ -1,0 +1,1 @@
+ URL : "https://github.com/ycleptkellan/hangman/issues/2" TITLE : mp3s no longer playing BODY : no errors thrown...webkit related? results in header flashing perpetually, as it's coded to stop flashing when introsound stops playing.

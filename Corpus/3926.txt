@@ -1,0 +1,1 @@
+ URL : "https://github.com/espressif/arduino-esp32/issues/336" TITLE : 4-bit data spi BODY : hello, will there be an implementation for 4-bit data spi coming in the future for the arduino core?

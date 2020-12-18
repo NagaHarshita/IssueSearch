@@ -1,0 +1,1 @@
+ URL : "https://github.com/lgeiger/ide-python/issues/30" TITLE : adding conventions support BODY : how about adding an info box of some sort that shows the correct convention e.g. class name should be camelcase or function names be separated by underscores etc? i guess it can be done using google python style guide/pep 8.

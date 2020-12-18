@@ -1,0 +1,1 @@
+ URL : "https://github.com/joestelmach/natty/issues/227" TITLE : date is not identified BODY : actually i am using you natty date parse tool.actually in below mentioned scenario it is giving only one date value even though two date values are there. ex:- i want to book a flight from delhi to mumbai on friday and return on monday

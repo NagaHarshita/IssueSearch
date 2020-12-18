@@ -1,0 +1,1 @@
+ URL : "https://github.com/McJty/TheOneProbe/issues/157" TITLE : issue? thermal expansion BODY : notices an odd thing with thermal expansions caches, one the cache is hold 64 items top doesn't show the amount correctly. just 64 until the cache is full, then it shows 128. not sure if this is your side or there's, so reporting it on both.

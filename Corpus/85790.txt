@@ -1,0 +1,1 @@
+ URL : "https://github.com/arduino/ArduinoCore-samd/issues/217" TITLE : float support in snprintf BODY : float support in snprintf seems to be enabled or disabled depending if string is used in the code or not. see https://github.com/arduino/arduino/issues/6024 not sure if it is a bug or intended behaviour, but that can be confusing for beginners.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/nzjrs/osm-gps-map/issues/58" TITLE : how to compile BODY : i cloned the files with: git clone git://github.com/nzjrs/osm-gps-map but i'm not sure how to compile. root@ph0dv://osm-gps-map ./configure.ac bash: ./configure.ac: toegang geweigerd meaning access denied i'm root? any suggestions?

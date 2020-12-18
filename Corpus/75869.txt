@@ -1,0 +1,1 @@
+ URL : "https://github.com/haxpor/fkit/issues/1" TITLE : implement basic features BODY : - url content grabber - in-place translation for all text node in html file - auto-delete expired generated translated html file in nodejs which aimed to be executed via crontab - use baidut https://github.com/haxpor/baidut/ for translation unit

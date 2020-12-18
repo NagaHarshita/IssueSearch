@@ -1,0 +1,1 @@
+ URL : "https://github.com/opencdms/Climsoft/issues/192" TITLE : .net framework version BODY : climsoft is currently targeting .net 4.5.1. support for .net framework 4.5.1 on all operating systems ended on january 12, 2016 https://support.microsoft.com/en-us/gp/framework_faq/en-us . we should switch to 4.5.2 which has long term support, or 4.6.x

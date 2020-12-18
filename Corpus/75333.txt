@@ -1,0 +1,1 @@
+ URL : "https://github.com/Gulden/gulden-official/issues/45" TITLE : guldend stops with error BODY : hi, guys. i'm trying to sync the wallet on ubuntu 16.04.2 lts. but after two installations and launching of guldend client i get error: guldend: net.cpp:949: void acceptconnection const {anonymous}::listensocket& : assertion nmaxinbound > 0' failed. anyone knows, why is it happen?

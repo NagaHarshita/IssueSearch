@@ -1,0 +1,1 @@
+ URL : "https://github.com/HuskieRobotics/Huskie-Vision/issues/6" TITLE : refactor the udp server BODY : you should probably rename the udp server file and methods to udp client as you are sending data to a udp server hosted elsewhere.

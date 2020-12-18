@@ -1,0 +1,1 @@
+ URL : "https://github.com/NAVCoin/navcoin-core/issues/105" TITLE : orphan stake explanation BODY : behind an orphan stake create a ? button. when clicked on by the user it will show a small popup explaining it is an orphan stake.

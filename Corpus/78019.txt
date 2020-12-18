@@ -1,0 +1,1 @@
+ URL : "https://github.com/RoadToSoftwareFactory/UnaMosca/issues/2" TITLE : paralelize input loading BODY : do a first pass that just finds the start city and 3 line breaks - around 1/4, 2/4, 3/4 - split data into 4 parts. then we can allocate the memory and parse each independently. testload.c with -o3 takes ~13 seconds on random_500, we should be able to go down to 8

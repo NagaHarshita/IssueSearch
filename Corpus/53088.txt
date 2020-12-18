@@ -1,0 +1,1 @@
+ URL : "https://github.com/MysticCity/MinigamesAPI/issues/241" TITLE : death before low bound BODY : i have a double layered map when when players fall off the first platform they die before reaching the second platform even though the low bound is set over 50 blocks below the last platform.

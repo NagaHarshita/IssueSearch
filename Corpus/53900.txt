@@ -1,0 +1,1 @@
+ URL : "https://github.com/Chialab/dna/issues/28" TITLE : extended component css BODY : using the shadow css transpiler mode, a generated style tag for a component is reused for another instance of an extended component. every class should have its own style element.

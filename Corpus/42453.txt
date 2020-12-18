@@ -1,0 +1,1 @@
+ URL : "https://github.com/bazelbuild/migration-tooling/issues/19" TITLE : bazel project support BODY : the previous version of the tool appeared to allow one to specify various bazel projects and a combined workspace file would be generated. is that something that we might be able to see with this project as well?

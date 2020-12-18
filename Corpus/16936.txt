@@ -1,0 +1,1 @@
+ URL : "https://github.com/w3c/resource-timing/issues/92" TITLE : missing tao tests BODY : feedback from l1 review: > it appears that timing-allow-origin was not tested. i think the implementation report is incomplete without tests for that feature. great catch, we should definitely add this!

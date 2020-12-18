@@ -1,0 +1,1 @@
+ URL : "https://github.com/westamy/colmar/issues/2" TITLE : error. overall resizing BODY : https://github.com/westamy/colmar/blob/master/index.html l1 your site works well going from desktop to mobile, but seems to miss any in between step, so as i start to hit about 650px of width, the site looks quite messy until i finally hit the resizing threshold.

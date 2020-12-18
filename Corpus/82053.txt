@@ -1,0 +1,1 @@
+ URL : "https://github.com/DataDog/dd-trace-py/issues/185" TITLE : add couchbase integration BODY : hi, do you plan on integrating couchbase ? https://pypi.python.org/pypi/couchbase cheers,

@@ -1,0 +1,1 @@
+ URL : "https://github.com/freifunkh/ansible/issues/36" TITLE : device names hardcoded BODY : some machines / oss use predictable device names like ens18 instead of classic eth0. simple grep for eth0 shows currently this occurrence: - mesh_fastd_remotes_peers_git/templates/traffic.sh.j2

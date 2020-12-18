@@ -1,0 +1,1 @@
+ URL : "https://github.com/SirCmpwn/aerc/issues/78" TITLE : attachment viewer ui BODY : show a list of message parts and their mimetypes, size, etc if there's a mimetype handler configured for the viewer, override viewer alternatives and display that part when enter is pressed if there's not, offer to save it to a file support | on this screen

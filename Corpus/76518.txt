@@ -1,0 +1,1 @@
+ URL : "https://github.com/el-hoshino/NotAutoLayout/issues/41" TITLE : leading trailing support BODY : auto layout supports leadinganchor and trailinganchor for right-to-left views. implement it into notautolayout. reference: https://developer.apple.com/documentation/uikit/uiview/1622461-semanticcontentattribute

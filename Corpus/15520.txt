@@ -1,0 +1,1 @@
+ URL : "https://github.com/janakiramm/kubernetes-101/issues/3" TITLE : env variable name BODY : https://github.com/janakiramm/kubernetes-101/blob/master/docker/app.py l5 shouldn't this be redis_service_host instead of redis_host

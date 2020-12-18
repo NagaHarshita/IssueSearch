@@ -1,0 +1,1 @@
+ URL : "https://github.com/vega/vega/issues/898" TITLE : support for latex text BODY : is it possible to display latex text in vega? can we use mathjax to render the math? cross-ref: https://github.com/vega/vega-lite/issues/2640

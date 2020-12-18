@@ -1,0 +1,1 @@
+ URL : "https://github.com/artisan-roaster-scope/artisan/issues/135" TITLE : phidget 1048 error BODY : when artisan 1.2.0b tries to load my phidget 1048 4xtc it displays the following error in top left corner. exception: phidget1048temperature too many values to unpack expected 2 @line 33841 it shows -1 values for the lcd's

@@ -1,0 +1,1 @@
+ URL : "https://github.com/crsh/papaja/issues/159" TITLE : false compiling of umlaute BODY : papaja does not correctly compile german umlaute such as inserting an ü in the title of the default example document , even if i save the document with utf8. when i switch the output to a regular pdf_document, it works.

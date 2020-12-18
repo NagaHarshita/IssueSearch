@@ -1,0 +1,1 @@
+ URL : "https://github.com/rzander/ruckzuck/issues/13" TITLE : r for windows 3.4.2 BODY : hi roger the correct uninstall string is: cd $psscriptroot; $proc = start-process -filepath $ $env:programfiles \r\r-3.4.2\unins000.exe -argumentlist /silent -wait -passthru ;$proc.waitforexit ;$exitcode = $proc.exitcode greetings dani

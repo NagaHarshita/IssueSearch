@@ -1,0 +1,1 @@
+ URL : "https://github.com/itepifanio/diagnosticoCatarata/issues/16" TITLE : melhorias no código BODY : - suggest fscanf file, %s , header ; --> fscanf file, %2s , header ; - in your greyscale function you don’t close the file you have written before re-reading it. you also don’t open files in binary mode which may be a problem on windows.

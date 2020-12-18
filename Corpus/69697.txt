@@ -1,0 +1,1 @@
+ URL : "https://github.com/adafruit/circuitpython/issues/81" TITLE : touchin is really slow. BODY : circuitplayground test code that reads each touch pin separately is by far the slowest part of the code. cache the last read and only re-read after a certain amount of time.

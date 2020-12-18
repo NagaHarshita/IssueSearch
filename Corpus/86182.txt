@@ -1,0 +1,1 @@
+ URL : "https://github.com/Matir/webborer/issues/28" TITLE : handle ctrl+c gracefully. BODY : make sure we write a complete output.

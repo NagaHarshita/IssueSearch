@@ -1,0 +1,1 @@
+ URL : "https://github.com/astorfi/3D-convolutional-speaker-recognition/issues/4" TITLE : i cant built the code BODY : slim.conv2d inputs, 16, 3, 1, 5 , stride= 1, 1, 1 , scope='conv11' throw exception: the kernel_size argument must be a tuple of 2 integers. received: 3, 1, 5

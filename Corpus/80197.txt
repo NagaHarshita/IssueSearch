@@ -1,0 +1,1 @@
+ URL : "https://github.com/teles/DISC/issues/24" TITLE : testar o módulo answers BODY : testar o módulo answers que hoje contém: shell │   ├── answers │   │   ├── answers.constant.js │   │   ├── answers.model.js │   │   ├── answers.module.js │   │   ├── answers.repository.js garantir que principais funções, branches e statements estejam cobertos.

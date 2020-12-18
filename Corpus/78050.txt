@@ -1,0 +1,1 @@
+ URL : "https://github.com/Log1x/blade-svg-sage/issues/6" TITLE : path issues after update BODY : this may be related to https://github.com/log1x/blade-svg-sage/issues/5. after updating blade-svg-sage to latest using composer , the file isn't found anymore: /dist/images/svg/icons not found. do i have to adjust the code?

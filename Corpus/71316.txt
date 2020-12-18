@@ -1,0 +1,1 @@
+ URL : "https://github.com/lime-company/lime-security-powerauth-webauth/issues/10" TITLE : add comment in java code BODY : please add javadoc comments on top of every class and method, keep the code documented before you push it in the repository. we are not in such hurry we should keep our code undocumented... :-

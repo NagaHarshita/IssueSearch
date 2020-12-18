@@ -1,0 +1,1 @@
+ URL : "https://github.com/rychkog/ng2-tree-demo/issues/2" TITLE : show html as node BODY : hi, i have some rich text with links and rich content. i want show the rich text as a child node. but it is showing as html string not like a dom element. please help to show html

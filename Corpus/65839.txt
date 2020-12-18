@@ -1,0 +1,1 @@
+ URL : "https://github.com/LibreCat/LibreCat/issues/359" TITLE : link to librecat record BODY : open an existing publication, scroll to the end of the page. try to type another existing title within input field link to librecat record . nothing happens. expected behaviour: autocomplete list shows some results, choose one and determine relation.

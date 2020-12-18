@@ -1,0 +1,1 @@
+ URL : "https://github.com/roeles/maccready/issues/33" TITLE : simplify haversine code BODY : our haversine implementation can be simplified. through caching, we can potentially reduce the amount of geometric-related calls to libc/libm.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/valor-software/ng2-select/issues/865" TITLE : accent insensitive option BODY : hi, today ng2-select is differentiating from letters with and without accent. is there a way to fix that? i'd like my searches to be accent insensitive. how could i do that? thanks.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/IGNF/simplu3D-rules/issues/7" TITLE : update of the model BODY : due to model modification some concepts are currently missing and have to be added - constructibilityline deleted getconsline method => must be accessible for subparcel - epsilonband objref => method that selects the building parts a a certain distance from an object

@@ -1,0 +1,1 @@
+ URL : "https://github.com/r4smus/SpringMySqlRest/issues/5" TITLE : add a suitable logger BODY : - fix catch block with system.out.println person with the id= +id + not found ;

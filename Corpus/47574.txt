@@ -1,0 +1,1 @@
+ URL : "https://github.com/CactusSoft/LetsEncrypt.Owin/issues/1" TITLE : port for asp.net core BODY : i could really use this library for my .net core projects. there should not be too many changes, since asp.net core builds on top of owin too.

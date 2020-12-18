@@ -1,0 +1,1 @@
+ URL : "https://github.com/taskrabbit/node-resque/issues/186" TITLE : how to destroy a job? BODY : there doesn't seem to be a way to cancel a running job i.e. resque job::destroy queue, classname . the readme has a section titled failing a job , which seems to be inaccurately named and should probably read handling failed jobs or worker exception handling .

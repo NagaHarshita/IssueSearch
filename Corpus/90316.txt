@@ -1,0 +1,1 @@
+ URL : "https://github.com/mvs-live/metaverse/issues/13" TITLE : sendasset enhance feature BODY : 1. the utxos which contain etp and asset should be not used to in pure etp transfer tx 2. borrow etp from other address if the address which has asset does not have enought etp when account do asset transfer

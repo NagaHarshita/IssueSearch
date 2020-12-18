@@ -1,0 +1,1 @@
+ URL : "https://github.com/RP-Kit/RPKit/issues/240" TITLE : remove logger from core BODY : core's logger is currently not used for anything. it should be removed, and plugins should use their own loggers.

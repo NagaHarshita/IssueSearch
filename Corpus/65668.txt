@@ -1,0 +1,1 @@
+ URL : "https://github.com/gaow/jnbinder/issues/1" TITLE : jt.css needs a clean up BODY : currently it is 13k files. need a css expert here ... i think at least we should be able to trim it to only div related files considering all contents rendered to html are in div . i wouldn't be comfortable to try it unless i know what i'm doing.

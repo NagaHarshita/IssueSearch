@@ -1,0 +1,5 @@
+ URL : "https://github.com/johnbeadle/CordovaMessagingSDKSample/issues/43" TITLE : build on android BODY : current issues with cordova cli and android sdk manager v25.x ? cordova build android
+android_home=/users/jbeadle/library/android/sdk
+java_home=/library/java/javavirtualmachines/jdk1.8.0_111.jdk/contents/home
+error: could not find gradle wrapper within android sdk. might need to update your android sdk.
+looked here: /users/jbeadle/library/android/sdk/tools/templates/gradle/wrapper

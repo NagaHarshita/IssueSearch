@@ -1,0 +1,1 @@
+ URL : "https://github.com/tidyverse/ggplot2/issues/2287" TITLE : api to get theme element BODY : it would be great to have an exposed api that retrieves elements a from themes the same way as ggplot does, e.g.: r theme_get_element theme_get , 'axis.title.x.top', 'color' ↓ t$axis.title.x.top$color %||% t$axis.title.x$color %||% t$axis.text$color %||% t$text$color %||% 'black'

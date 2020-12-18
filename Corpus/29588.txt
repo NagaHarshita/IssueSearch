@@ -1,0 +1,1 @@
+ URL : "https://github.com/PhilJay/MPAndroidChart/issues/2829" TITLE : markerview doc typo BODY : i would say the methods implemented in the markerview doc are obsolete: https://github.com/philjay/mpandroidchart/wiki/markerview i suggest sustituting for this: @override public mppointf getoffset { setoffset - getwidth / 2 , -getheight ; return super.getoffset ; }

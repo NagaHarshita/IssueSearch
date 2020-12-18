@@ -1,0 +1,1 @@
+ URL : "https://github.com/nexB/scancode-server/issues/101" TITLE : reformat the code BODY : re-formatting the code to follow the pip8 style guide i.e. no trailing whitespaces, no more than 79 characters per line etc.

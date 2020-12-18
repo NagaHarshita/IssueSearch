@@ -1,0 +1,1 @@
+ URL : "https://github.com/magento/magento2/issues/10812" TITLE : htaccess options override BODY : in shared hosting environment options all -indexes would render 500 error page because of high restrictions for options override we should use instead options -indexes

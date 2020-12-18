@@ -1,0 +1,1 @@
+ URL : "https://github.com/twbs/bootstrap/issues/22204" TITLE : alpha 6 tabs do not wrap BODY : nav tabs are not wrapping in alhpa-6 but they do wrap in alpha. here is so with working example: http://stackoverflow.com/questions/42843854/bootstrap-4-tabs-not-wrapping

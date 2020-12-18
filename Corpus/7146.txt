@@ -1,0 +1,1 @@
+ URL : "https://github.com/smasala/responsive-tables-js/issues/1" TITLE : doesn't find th BODY : when going from desktop to responsive the script doesn't find the th so the column titles do not display.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/xmartlabs/Eureka/issues/1262" TITLE : user leaves cell event? BODY : is there an event for when user finished typing and presses done , or clicks away from the cell? i need to trigger complex async validation and if it passes – add new entry to the section. but validation should happen only when full text is entered.

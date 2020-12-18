@@ -1,0 +1,1 @@
+ URL : "https://github.com/chrmarti/testissues/issues/3922" TITLE : cannot display emoji ✔ BODY : steps to reproduce: 1. open a new file 2. copy these two emoji ✔❌ to it 3. find this result ! image https://user-images.githubusercontent.com/7588612/29491952-b43f748a-859e-11e7-826b-21d147b9a598.png

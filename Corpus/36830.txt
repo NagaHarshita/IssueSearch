@@ -1,0 +1,1 @@
+ URL : "https://github.com/Zarel/honko-damagecalc/issues/100" TITLE : improve z-move input BODY : it seems power of z-moves can only be assigned manually now. i think it would be better if we just type the original move, then check a checkbox or something, and got the corresponding z-move used for calc. is anyone working on this? i can have a try if not :

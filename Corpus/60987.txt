@@ -1,0 +1,1 @@
+ URL : "https://github.com/3Blades/openapi/issues/20" TITLE : add streaming endpoints BODY : add streaming endpoints to docs. for streaming logs: /{namespace}/projects/{project_pk}/servers/{id}/logs/ for streaming status: /{namespace}/projects/{project_pk}/servers/{id}/status/

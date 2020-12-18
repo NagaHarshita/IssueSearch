@@ -1,0 +1,1 @@
+ URL : "https://github.com/jakirkham/mplview/issues/11" TITLE : fix bare except BODY : appears we are using a bare except on this line https://github.com/jakirkham/mplview/blob/b21290e552e42d88be07a17b93719048114c01cb/mplview/core.py l189 . we should replace this some particular exception.

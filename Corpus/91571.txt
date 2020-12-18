@@ -1,0 +1,1 @@
+ URL : "https://github.com/baedert/corebird/issues/667" TITLE : typo in the .desktop file BODY : the icon de attribute is specifying the name corebird instead of corebird notice the capital c . reported by forlorn on the aur package https://aur.archlinux.org/packages/corebird/ page.

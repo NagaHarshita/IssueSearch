@@ -1,0 +1,1 @@
+ URL : "https://github.com/Cistern/cistern/issues/89" TITLE : ui tooltip location issue BODY : the chart tooltip element is nested within a bunch of elements, so the whole position: absolute + coordinates thing isn't working well. it's way off on a big monitor. the tooltip element should be moved up in the hierarchy. maybe it can just be a child of body ?

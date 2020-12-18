@@ -1,0 +1,1 @@
+ URL : "https://github.com/Code4SocialGood/c4sg-web/issues/526" TITLE : auth 0 - delete a user BODY : add a method in auth.service.ts: delete a user given the email address

@@ -1,0 +1,1 @@
+ URL : "https://github.com/openyou/emokit/issues/262" TITLE : headset.dequeue is none BODY : hello, i'm trying to use a thread to do my work before start load packet using headset.dequeue then i can't get the packet result it will become none so is that can't use thread with emokit together?

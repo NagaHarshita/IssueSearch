@@ -1,0 +1,1 @@
+ URL : "https://github.com/h-da/geli/issues/264" TITLE : refactor course view BODY : acceptance criteria: - remove enroll button on enrolled courses - make whole title on course section clickable - add a badge to show how many courses are available additional info:

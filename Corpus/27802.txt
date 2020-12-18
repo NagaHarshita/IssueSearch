@@ -1,0 +1,11 @@
+ URL : "https://github.com/andybotting/xbmc-addon-abc-iview/issues/2166" TITLE : end-user bug report BODY : automatic bug report from end-user. environment plugin name: abc iview plugin id: plugin.video.abc_iview plugin version: 1.7.6 xbmc/kodi version: 14.0 git:20141222-33c4063 python version: 2.7.8 default, jun 30 2014, 16:03:49 msc v.1500 32 bit intel operating system: win32 ip address: 180.24.95.78 p621078-ipngn200310yosemiya.okinawa.ocn.ne.jp isp : open computer network python path: c:\users\jefflonnie\appdata\roaming\kodi\addons\plugin.video.abc_iview
+c:\users\jefflonnie\appdata\roaming\kodi\addons\script.module.beautifulsoup\lib
+c:\program files x86 \kodi\system\python\dlls
+c:\program files x86 \kodi\system\python\lib
+c:\program files x86 \kodi\python27.zip
+c:\program files x86 \kodi\system\python\lib\plat-win
+c:\program files x86 \kodi\system\python\lib\lib-tk
+c:\program files x86 \kodi
+c:\program files x86 \kodi\system\python
+c:\program files x86 \kodi\system\python\lib\site-packages
+c:\users\jefflonnie\appdata\roaming\kodi\addons\plugin.video.abc_iview\resources\lib traceback traceback most recent call last : file c:\users\jefflonnie\appdata\roaming\kodi\addons\plugin.video.abc_iview\resources\lib\categories.py , line 34, in make_category_list iview_config = comm.get_config file c:\users\jefflonnie\appdata\roaming\kodi\addons\plugin.video.abc_iview\resources\lib\comm.py , line 88, in get_config return parse.parse_config iview_config file c:\users\jefflonnie\appdata\roaming\kodi\addons\plugin.video.abc_iview\resources\lib\parse.py , line 64, in parse_config raise exception error fetching iview config. service possibly unavailable exception: error fetching iview config. service possibly unavailable full xbmc.log https://gist.github.com/7b8b1772c6da5cc34285349569da276a

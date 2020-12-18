@@ -1,0 +1,1 @@
+ URL : "https://github.com/Bilalh/Tagger/issues/64" TITLE : year is showing as y,yyy BODY : version of macos/os x from  -> about this mac 10.9.5 version of tagger from tagger -> about tagger 1.8.0.7 when i enter the year tag, either single track or batch, the field shows correctly yyyy, but the column on the left lists it as y,yyy.

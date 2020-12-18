@@ -1,0 +1,1 @@
+ URL : "https://github.com/PEDSnet/pedsnetcdm_to_pcornetcdm/issues/347" TITLE : reorganize the repo BODY : drop view creation folder , etl scripts , index statements and fk statements change name pcornet_loading to sql_etl

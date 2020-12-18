@@ -1,0 +1,1 @@
+ URL : "https://github.com/KodrAus/cargo-nuget/issues/22" TITLE : use log for crate output BODY : rather than writing things to the console directly, we should use log , which has more level configuration.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/nanopool/Claymore-Dual-Miner/issues/124" TITLE : mining to multiple wallets BODY : is there a way to mine to multiple wallets while only running one instance of claymore. i.e. i'd like to mine to one wallet for 59 mins per hour, and a second wallet for the other minute? thank you.

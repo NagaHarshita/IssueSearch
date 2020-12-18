@@ -1,0 +1,1 @@
+ URL : "https://github.com/bugy/shop-list/issues/63" TITLE : change field name display BODY : field name should be shown as in script server: if field is empty, show name at the field; if it filled or has focus - name is small and at the top

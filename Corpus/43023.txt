@@ -1,0 +1,1 @@
+ URL : "https://github.com/xadamxk/HFX/issues/91" TITLE : character counter bug BODY : minimum char limit is 26 > 25 , not 35.

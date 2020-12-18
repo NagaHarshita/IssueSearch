@@ -1,0 +1,1 @@
+ URL : "https://github.com/allusai/Email-Notification-System/issues/1" TITLE : email error checking BODY : write code to test if any bad data has been input by the user. for example, an invalid email address 123@gmail.com or attempting to send an email notification to someone that is not a student email not stored in database .

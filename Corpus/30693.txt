@@ -1,0 +1,1 @@
+ URL : "https://github.com/zelaznik/frozen_dict/issues/3" TITLE : push to python repo BODY : this lib's performance is really good. but it seems not available on https://pypi.python.org, it would be nice to publish it so more people could use pip to install it directly. thanks!

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ConsenSys/eth-lightwallet/issues/147" TITLE : encseed is undefined BODY : using old-style method, keystore object have enchdrootpriv and encseed is undefined. and using new-style all functions in keystore object also is not defined.

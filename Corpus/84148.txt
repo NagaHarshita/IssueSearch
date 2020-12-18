@@ -1,0 +1,1 @@
+ URL : "https://github.com/Soulou/go-lvm/issues/1" TITLE : crc32 checking is failing BODY : even by taking constants from lvm code, there is no way to get hash/crc32 to compute the same value as the c implementation of lvm.

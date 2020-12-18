@@ -1,0 +1,1 @@
+ URL : "https://github.com/greenaddress/GreenBits/issues/292" TITLE : cannot connect via tor BODY : i get the following error message: tor conectivity disabled! you need to enable the proxy configuration orbot socks5 first to enable tor. but orbot is already running and orfox which uses socks5 to connect via tor does also work. so why can i not add a bitcoin node via tor?

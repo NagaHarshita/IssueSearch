@@ -1,0 +1,1 @@
+ URL : "https://github.com/nbarbettini/little-aspnetcore-book/issues/10" TITLE : add security headers BODY : the security chapter should cover using nwebsec to return security headers like - content-security-policy - strict-transport-security - x-frame-options - x-content-type-options

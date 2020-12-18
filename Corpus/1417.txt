@@ -1,0 +1,1 @@
+ URL : "https://github.com/svanoort/pyresttest/issues/237" TITLE : url vs test BODY : url appears to use the path given on the command line while test does not.

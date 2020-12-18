@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/pxt-adafruit/issues/364" TITLE : servo / i2c not build BODY : only prj projects are built by default so all advanced packages are not build.

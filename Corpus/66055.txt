@@ -1,0 +1,1 @@
+ URL : "https://github.com/NovaSquirrel/NovaTheSquirrel/issues/87" TITLE : make balloon items work BODY : right now they do nothing. they should lift the player up into the air, and the auto one should trigger when the player falls into a pit.

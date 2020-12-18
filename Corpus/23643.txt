@@ -1,0 +1,1 @@
+ URL : "https://github.com/react-community/create-react-native-app/issues/49" TITLE : qr code won't scan BODY : after creating an app and running yarn start the qr code gives no feedback when scanning on my iphone.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/inspirehep/inspire-next/issues/2259" TITLE : converter: kill module BODY : similar to https://github.com/inspirehep/inspire-next/issues/2258, this module should become a util.

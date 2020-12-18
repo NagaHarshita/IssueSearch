@@ -1,0 +1,1 @@
+ URL : "https://github.com/eremeykin/ect/issues/1" TITLE : calculating for d update BODY : weights calculating for apinitpb and imwkmean are strange. in reference matlab implementation they use d = d + mean mean d ; for mwkgetneww data, u, z, p, beta,n, k and d = d + 0.01; for getneww_imwk

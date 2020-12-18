@@ -1,0 +1,1 @@
+ URL : "https://github.com/espressif/arduino-esp32/issues/151" TITLE : referencing the rst pin BODY : please excuse my ignorance, but is there a way to define the actual reset en pin in code? for example: define tft_rst en i am trying to get my ili9341 to work code wont compile and it is hardwired to the reset pin.

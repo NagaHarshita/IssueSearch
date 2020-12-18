@@ -1,0 +1,1 @@
+ URL : "https://github.com/gestom/stroll_bearnav/issues/44" TITLE : detect navigation errors BODY : create a method, which will be able to automatically detect navigation errors based on previous performance of autonomous navigation.

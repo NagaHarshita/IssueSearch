@@ -1,0 +1,1 @@
+ URL : "https://github.com/CQuIC/pysme/issues/2" TITLE : purity calculation error BODY : currently purity calculation fails at least for the taylor 1.5 integrator , since vec_soln is a list of numpy.array and the purity calculation tries to square the list. should probably refactor everything so vec_soln is a 2d array.

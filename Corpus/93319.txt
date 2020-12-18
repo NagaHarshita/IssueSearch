@@ -1,0 +1,1 @@
+ URL : "https://github.com/hballard/graphql-python-subscriptions/issues/9" TITLE : add python 3 compatability BODY : modify code to be able to utilize python 3 and gevent-websockets for concurrency

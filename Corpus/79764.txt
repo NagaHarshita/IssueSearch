@@ -1,0 +1,1 @@
+ URL : "https://github.com/mayongl/photoMap/issues/1" TITLE : store a number/code pair BODY : steps: 1, fill in number and code field accordingly. 2, click update button. then the number/code pair store get stored in a json file under document directory.

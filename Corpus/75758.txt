@@ -1,0 +1,1 @@
+ URL : "https://github.com/ca057/dolly-the-page/issues/2" TITLE : icons cannot be resolved BODY : the scripts stops when resolving the icons, as they icon path is hardcoded from the current location.

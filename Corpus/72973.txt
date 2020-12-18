@@ -1,0 +1,1 @@
+ URL : "https://github.com/surajssd/kapp/issues/47" TITLE : clear our technical debt BODY : here is a shopping list of things that need to be done. - add unit tests - add functional tests - add pr testing via ci/cd - add validations - update examples - add proper documentation - add contribution guidelines - figure out contact points - mailing lists, chat etc - update readme

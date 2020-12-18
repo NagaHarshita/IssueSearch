@@ -1,0 +1,1 @@
+ URL : "https://github.com/jonathandavidpollock/FireshouseSubs/issues/8" TITLE : create static routes BODY : we need static routes that just return json for the endpoints. please create all routes discussed on the image shared with you and hard code the json.

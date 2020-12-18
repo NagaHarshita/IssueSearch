@@ -1,0 +1,1 @@
+ URL : "https://github.com/Doist/todoist-api/issues/44" TITLE : retrieving closed tasks BODY : hey. based on the documentation to get a task: https://beta.todoist.com/api/v8/tasks/1234?token=$token but that will only retrieve a task that is open. how can i get a task that is completed?

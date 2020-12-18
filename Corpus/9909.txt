@@ -1,0 +1,1 @@
+ URL : "https://github.com/sogehige/SogeBot/issues/151" TITLE : add price filter BODY : will return current command price usage will be for example with command.permit !buypermit -> calls command.permit with argument sender => output: you just bought 1 link with price

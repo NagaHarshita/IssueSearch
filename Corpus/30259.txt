@@ -1,0 +1,1 @@
+ URL : "https://github.com/Particular/ServiceControl.Monitoring/issues/76" TITLE : optimize query side BODY : overview the biggest performance tests are passing with current query limit set to 150 ms. we already increased this bar two times and need to look on bringing this number back down.

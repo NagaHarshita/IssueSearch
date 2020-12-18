@@ -1,0 +1,1 @@
+ URL : "https://github.com/kakawait/hugo-tranquilpeak-theme/issues/161" TITLE : revamp building step BODY : - allow to fetch as optional ext resources locally instead of depending cdn discussed 159 - https://github.com/kakawait/hugo-tranquilpeak-theme/issues/153 - manage sri for local resources

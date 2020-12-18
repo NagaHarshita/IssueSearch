@@ -1,0 +1,1 @@
+ URL : "https://github.com/ucsd-ccbb/VAPr/issues/9" TITLE : fix csv output format BODY : 1. add project id to csv output 2. reorder csv output columns to reflect order of original vcf file sample id, variant hgvs id first then vcf info, then annovar annotation, then myvariant.info annotation 3. read in correct design file and include this in output

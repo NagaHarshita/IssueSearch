@@ -1,0 +1,1 @@
+ URL : "https://github.com/cypress-io/cypress/issues/530" TITLE : new cli flag --browser BODY : enable the user to spawn a specific browser when running from the command line. cypress run --browser chrome these videos will not be recoded and we should mention that.

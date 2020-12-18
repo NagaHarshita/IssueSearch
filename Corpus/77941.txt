@@ -1,0 +1,1 @@
+ URL : "https://github.com/dleonard00/dexy/issues/25" TITLE : other users profile page BODY : accessed from the search tap. see invision for content. once user has tapped connect - button changes to requested - if tapped subsequent time that request will toggle being revoked / requested. bottom content is a lock icon that says this account is private

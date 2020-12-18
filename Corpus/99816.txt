@@ -1,0 +1,1 @@
+ URL : "https://github.com/python/mypy/issues/3811" TITLE : no __dict__ under python 2 BODY : python class a object : def __repr__ self : type: -> str return 'a {} '.format self.__dict__ bash bernat@vm ~/git/test-mypy $ mypy . -v mypy 0.521 bernat@vm ~/git/test-mypy $ mypy . bernat@vm ~/git/test-mypy $ mypy . --py2 test.py:5: error: a has no attribute __dict__

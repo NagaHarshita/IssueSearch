@@ -1,0 +1,1 @@
+ URL : "https://github.com/ucsd-progsys/liquidhaskell/issues/952" TITLE : question: what is qualif BODY : tutorial 11 has haskell {-@ qualif foreignptrn v:foreignptr a, n:int : fplen v = n @-} {-@ type foreignptrn a n = {v:foreignptr a | fplen v = n} @-} what does qualif add in this case? what is it's purpose in general?

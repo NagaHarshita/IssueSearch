@@ -1,0 +1,1 @@
+ URL : "https://github.com/juanpablofernandez/SwiftyOnboard/issues/12" TITLE : different styles per page. BODY : setting the style per page is protected. perhaps consider exposing the set method to set the style? i'm open to working on it but would like to know your thoughts before trying anything

@@ -1,0 +1,1 @@
+ URL : "https://github.com/seanooi/iOS-WebP/issues/46" TITLE : ios 11.2 beta BODY : is it just me or it does not work anymore on ios 11.2 beta? the imageref in: cgimageref imageref = cgimagecreate width, height, 8, 32, 4 width, colorspaceref, bitmapinfo, provider, null, yes, renderingintent ; always return nil.

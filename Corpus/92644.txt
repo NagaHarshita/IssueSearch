@@ -1,0 +1,1 @@
+ URL : "https://github.com/chrmarti/testissues/issues/10706" TITLE : --status should print pids BODY : code --status should also print the pid of the processes. this makes it easier to debug or kill processes. it will also make it easier to profile processes, once we have integrated the profiling functionality we added in the hackathon.

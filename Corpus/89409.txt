@@ -1,0 +1,1 @@
+ URL : "https://github.com/gulpjs/gulp/issues/2063" TITLE : publish @next 4.x version BODY : i'm trying to use docker to build my code, but i can't get gulp 4.x without installing git. could you publish a gulp@next version so we won't need to download it directly from git?

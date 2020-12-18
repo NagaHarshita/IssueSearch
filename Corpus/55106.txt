@@ -1,0 +1,1 @@
+ URL : "https://github.com/ermshiperete/BuildDependency/issues/17" TITLE : implement offline mode BODY : in offline mode, copy the dependencies from the cache or fail if the files are not in the cache.

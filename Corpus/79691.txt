@@ -1,0 +1,1 @@
+ URL : "https://github.com/brion/ogv.js/issues/478" TITLE : split project in modules BODY : for opensource reason and reusability , it would be cool to split the project in modules: - player - demuxer - decoder consider who use mse already has a demuxer for reading chunks ... so if you realize modules it is easier do integrate in the project

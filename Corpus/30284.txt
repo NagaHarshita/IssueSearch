@@ -1,0 +1,1 @@
+ URL : "https://github.com/tanduong/til/issues/2" TITLE : osm2pgsql slim mode BODY : osm2pgsql -c -g -u postgres -d gruber_dev -c 22000 --host localhost -w --slim /users/tanduong/desktop/map.osm

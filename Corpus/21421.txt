@@ -1,0 +1,1 @@
+ URL : "https://github.com/baltkrievs/class-loading/issues/4" TITLE : fields on app.java BODY : it is better make fields like classloader or availablelangs final, if they are not assumed to be changed

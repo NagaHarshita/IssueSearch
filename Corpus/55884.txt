@@ -1,0 +1,1 @@
+ URL : "https://github.com/SEGUC17/404gotfound/issues/30" TITLE : login service provider BODY : 1: severity medium 2:reported by ali ahmed 3:description attempting to login as a service provider will do nothing. 4: steps to reproduce the issue attempt to login as service provider 5: expected result logging in as a service provider.

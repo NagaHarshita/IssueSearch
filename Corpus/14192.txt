@@ -1,0 +1,1 @@
+ URL : "https://github.com/bpetetot/conference-hall/issues/20" TITLE : add linter script BODY : lint : eslint --ext js,jsx src

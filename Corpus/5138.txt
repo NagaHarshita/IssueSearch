@@ -1,0 +1,1 @@
+ URL : "https://github.com/razage/persistent-flannel/issues/20" TITLE : look into vuex BODY : it seems like vuex allows some kind of state management for vue. this could currently be used to manage whether or not a person is logged in, as well as potentially helping out later. i should do some more research on this extra library and consider adding it in.

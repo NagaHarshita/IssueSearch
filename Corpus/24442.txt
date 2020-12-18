@@ -1,0 +1,1 @@
+ URL : "https://github.com/streambinder/spotify-dl/issues/6" TITLE : stuck callback url BODY : sometimes the redirection made by spotify to the callback url hosted by the go-powered server keeps loading without reaching the final responde page, even if the login process has been correctly completed by the app itself. needs investigations.

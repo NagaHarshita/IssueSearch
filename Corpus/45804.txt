@@ -1,0 +1,1 @@
+ URL : "https://github.com/xparse/ElementFinder/issues/60" TITLE : introduce add and get BODY : $collection->add and $collection->get $index

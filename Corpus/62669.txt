@@ -1,0 +1,1 @@
+ URL : "https://github.com/typora/typora-issues/issues/654" TITLE : cpu load spikes windows BODY : i have a document of about 2500 words. theres latex and code windows in the document. it's starting to feel a bit sluggish. cpu usage is hovering between 15%-20% when typora is in context, otherwise its cpu ussage drops down to <1% when its in the background.

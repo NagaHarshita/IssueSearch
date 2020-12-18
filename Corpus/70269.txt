@@ -1,0 +1,1 @@
+ URL : "https://github.com/decidim/decidim/issues/1953" TITLE : user list export button BODY : this is a feature proposal :tophat: description some people we've been working already have an emailing solution that they want to use to email users from the platform. have guys been thinking of creating an all_users.csv export button in admin interface ?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/macduy/chemix/issues/23" TITLE : jquery fails to load BODY : https://sentry.io/chemix/chemix/issues/247211158/ referenceerror: $ is not defined at none /js/app.js:643:1

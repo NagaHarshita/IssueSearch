@@ -1,0 +1,1 @@
+ URL : "https://github.com/justinrainbow/json-schema/issues/395" TITLE : add support for draft-06 BODY : what meta-issue for organising the addition of draft-06 support. draft-06 is currently in final review and will probably be released sometime in the next few days. why it's the next version of the official spec. we are a validator of the official spec. need i say more?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/PrinceOfAmber/Cyclic/issues/627" TITLE : empty beacon beam issue BODY : minecraft version & mod version: mc 1.12.2 & cyclic 1.10.6 single player or server: server describe problem what you were doing / what happened : the beam from the empty beacon block disappears when you look up and the block is no longer within the viewport.

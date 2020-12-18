@@ -1,0 +1,1 @@
+ URL : "https://github.com/magento-engcom/magento2/issues/90" TITLE : update composer lock file BODY : after updating composer.lock we can use travis builds for our prs

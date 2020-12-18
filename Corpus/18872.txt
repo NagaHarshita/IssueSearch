@@ -1,0 +1,1 @@
+ URL : "https://github.com/tylerhoadley/letsencrypt-automation/issues/2" TITLE : use of base64 nix BODY : hello, just in case you would like to remove php dependency, i've just tested with the base64 command and it works on my installation. bash pfsense encrt=$ cat $crt | base64 -w 0 enkey=$ cat $key | base64 -w 0

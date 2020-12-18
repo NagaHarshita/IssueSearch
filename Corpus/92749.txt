@@ -1,0 +1,1 @@
+ URL : "https://github.com/abahrema/ser316labcr/issues/5" TITLE : 3 – cg – checking.java BODY : in checking.java is missing a header comment at the top of the file. all public classes must have a class banner comment present and filled in as: / class: description: / category: code guideline abahrema issue 1 kstrones issue swdunning issue

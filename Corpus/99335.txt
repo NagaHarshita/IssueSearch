@@ -1,0 +1,1 @@
+ URL : "https://github.com/Teichlab/SpatialDE/issues/1" TITLE : minimum number of samples? BODY : hi, we have done a time course experiment similar to the frog cell paper experiment but we have only 6 samples and no replicates for now. do you think it's okay to use your tool to look at temporal variation in gene expression? thanks

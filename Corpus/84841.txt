@@ -1,0 +1,1 @@
+ URL : "https://github.com/TRiahi/AP-Computer-Science/issues/1" TITLE : does not work as intended BODY : class: ap-computer-science/module 5/5.05/diceprobability.java see the output : please enter the amount of sides you want on the dice: 4 please enter the amount of times you want to roll the dice: 2 sum of dice	probability 2 0.0 3 0.0 4 0.0 5 33.33333333333333 6 0.0 7 0.0 8 0.0

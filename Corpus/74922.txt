@@ -1,0 +1,1 @@
+ URL : "https://github.com/Ben-Healey/Neon_Game/issues/44" TITLE : fix updated cover system BODY : has broken on port from test scene to actual scene, no longer responding to anything, or loading animations correctly, will need further investigation.

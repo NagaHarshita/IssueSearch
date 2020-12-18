@@ -1,0 +1,1 @@
+ URL : "https://github.com/crosire/scripthookvdotnet/issues/598" TITLE : detecting game shutdown BODY : it feels like aborted and dispose are only triggering when i reload the mods with insert, but not when i exit the game via alt-f4 menu. is there a way to subscribe for application quit? i need it to dispose things correctly and avoid game crashing on exit.

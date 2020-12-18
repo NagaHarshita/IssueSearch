@@ -1,0 +1,1 @@
+ URL : "https://github.com/MISP/misp-taxonomies/issues/62" TITLE : influence remote instances BODY : extend the misp taxonomy library with a method to influence the behavior of remote instances. e.g. event creator publishes 'without email notification'. a remote instance would still publish their users. this could be regarded - in the eyes of the creator - as a disrespect.

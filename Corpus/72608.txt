@@ -1,0 +1,1 @@
+ URL : "https://github.com/openiddict/openiddict-core/issues/441" TITLE : can't install openiddict BODY : hi, i followed the instruction to add openiddict 2 packages, but visual studio can't find them. ! image https://user-images.githubusercontent.com/6776194/29993712-c63fe38e-8fbe-11e7-8fc8-ba1f7d8883b2.png any suggestion? anyone has done it successfully?

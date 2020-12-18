@@ -1,0 +1,1 @@
+ URL : "https://github.com/Halium/halium.org/issues/14" TITLE : serve website via https BODY : we should strive to serve the website via https using let's encrypt? . maybe even enforcing it by htst or something like that it was called .

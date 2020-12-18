@@ -1,0 +1,1 @@
+ URL : "https://github.com/markjaquith/page-links-to/issues/34" TITLE : remove inline code BODY : can you please convert this to a queue-able script? it messes up with caching plugins and jquery when it's deferred.

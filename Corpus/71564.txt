@@ -1,0 +1,1 @@
+ URL : "https://github.com/FloEdelmann/open-fixture-library/issues/288" TITLE : add rdm data to fixtures BODY : we definitely don't want to duplicate everything from rdm.openlighting.org https://rdm.openlighting.org but we should be able to link to the respective page there and specify if a fixture supports rdm at all also if there is no page in the rdm database .

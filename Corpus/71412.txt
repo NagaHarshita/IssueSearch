@@ -1,0 +1,1 @@
+ URL : "https://github.com/bartop/tpl/issues/31" TITLE : add gcc 4.9 in travis ci BODY : gcc4.9 has theoretically all the features this library needs to work. we should try to add it to the matrix.

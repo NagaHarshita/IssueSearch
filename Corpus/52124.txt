@@ -1,0 +1,1 @@
+ URL : "https://github.com/geosolutions-it/MapStore2/issues/2182" TITLE : cannot create new maps BODY : the button create map opens an empty map with the message loading... forever. reproduced in dev with chrome and firefox

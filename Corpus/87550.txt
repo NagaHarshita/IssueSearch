@@ -1,0 +1,1 @@
+ URL : "https://github.com/butterproject/butter-desktop/issues/636" TITLE : lodash dependency missing BODY : like instructed, i ran this: sudo npm install -g gulp-cli npm install gulp build gulp run i got this error message: npm err! missing: lodash@^4.17.1, required by butter-provider@0.9.7

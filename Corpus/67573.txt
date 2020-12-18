@@ -1,0 +1,1 @@
+ URL : "https://github.com/react-native-training/react-native-elements/issues/636" TITLE : problem with card style BODY : <card title={item.title} imagestyle = {{}} image={{uri: 'image url here'}}> </card> the picture is darker. it seems like something dark is covering it , the original images source is bright. once i add it into card's image , it's darker now

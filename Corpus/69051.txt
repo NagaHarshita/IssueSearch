@@ -1,0 +1,1 @@
+ URL : "https://github.com/rackerlabs/jetstream/issues/45" TITLE : start releasing to pypi BODY : we should start doing regular releases to pypi so we can allow others to depend on this tool and force specific version requirements when they use it to test. this would also allow for others to depend on a specific major version when breaking changes happen in jetstream.

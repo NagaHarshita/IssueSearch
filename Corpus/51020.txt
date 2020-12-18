@@ -1,0 +1,1 @@
+ URL : "https://github.com/alteous/gltf/issues/95" TITLE : add mesh::skinned type BODY : this would complement mesh::mesh in situations where skin is provided by a node .

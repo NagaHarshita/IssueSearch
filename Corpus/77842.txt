@@ -1,0 +1,1 @@
+ URL : "https://github.com/jaredpalmer/formik/issues/271" TITLE : onchange for entire form BODY : i have a form where some field's values depend on other fields values. i have been using redux-form and have been able to calculate these values using the onchange handler. i don't see an equivalent using formik, is this right?

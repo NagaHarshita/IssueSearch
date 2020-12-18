@@ -1,0 +1,1 @@
+ URL : "https://github.com/code4romania/WelcoME/issues/50" TITLE : auth states BODY : have auth states & write an api to do the checks, instead of doing them inline when rendering the auth pages

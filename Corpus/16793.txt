@@ -1,0 +1,1 @@
+ URL : "https://github.com/carroket/clever-contact/issues/3" TITLE : make a live demo. BODY : well, a live front end. maybe just use static json for the back end—e.g., success.json and failure.json—and include some way to switch targets from the front end.

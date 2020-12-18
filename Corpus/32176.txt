@@ -1,0 +1,1 @@
+ URL : "https://github.com/GrimoireGL/grimoirejs-gltf/issues/24" TITLE : typo in gltf loader BODY : https://unpkg.com/grimoirejs-gltf@0.0.5-development/register/grimoire-gltf.js metallic is correct, not metalic .

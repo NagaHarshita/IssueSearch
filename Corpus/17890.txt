@@ -1,0 +1,1 @@
+ URL : "https://github.com/jacksonliam/mjpg-streamer/issues/63" TITLE : rotate and mirror BODY : it would be really handy to be able to rotate and/or mirror the image in the mjpg-streamer application so that one doesn't have to do so later down the line. many raspberry pi mounting situations lead to upside-down cameras and the like.

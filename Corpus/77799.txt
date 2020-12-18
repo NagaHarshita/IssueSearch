@@ -1,0 +1,1 @@
+ URL : "https://github.com/ncsa/OA4MP/issues/10" TITLE : oa4mp-cli: update scopes BODY : we need the ability to edit a client's approved scopes using oa4mp-cli. currently use clients followed by update id doesn't allow edit of scopes.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/vega/compassql/issues/339" TITLE : update to vl 0.9.4 BODY : we removed some constants namespace so we'll have to replace them with string literals.

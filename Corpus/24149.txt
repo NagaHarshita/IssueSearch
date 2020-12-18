@@ -1,0 +1,1 @@
+ URL : "https://github.com/libressl-portable/portable/issues/293" TITLE : set latest release BODY : hey guys, the latest release on this repo is still v2.2.3. this makes the api / download url unusable: https://github.com/libressl-portable/portable/releases/latest cheers

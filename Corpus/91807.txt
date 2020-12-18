@@ -1,0 +1,1 @@
+ URL : "https://github.com/subutai-io/p2p/issues/340" TITLE : update p2p debian package BODY : we need to update the p2p debian package to reflect all the changes in the current version. it would be nice to also have an msi for windows and a mac pkg but we can do these later.

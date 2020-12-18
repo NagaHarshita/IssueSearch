@@ -1,0 +1,1 @@
+ URL : "https://github.com/jordanmiguel/laravel-popular/issues/2" TITLE : connection no model BODY : interessante é criar um arquivo de configuração com a connection que será utilizada na migration e no model. pois se uma aplicação é construída por exemplo sobre mysql, efetuar a inserção desses registros, que são muitos, é morte na certa.

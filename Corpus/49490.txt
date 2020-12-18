@@ -1,0 +1,1 @@
+ URL : "https://github.com/liuderchi/atom-i18n/issues/29" TITLE : translate into german BODY : files require translation: - def/de/context.cson - def/de/menu_darwin.cson - def/de/menu_linux.cson - def/de/menu_win32.cson - def/de/settings.cson for more info please checkout contributing.md https://github.com/liuderchi/atom-i18n/blob/master/contributing.md

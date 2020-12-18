@@ -1,0 +1,1 @@
+ URL : "https://github.com/falldowngoboone/wp-theme-olive/issues/25" TITLE : global - split out sidebar BODY : it makes sense to split out sidebar and call get_sidebar for more flexibility.

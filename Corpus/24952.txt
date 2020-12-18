@@ -1,0 +1,1 @@
+ URL : "https://github.com/CuBoulder/atlas/issues/386" TITLE : update db settings BODY : jake 11:38 am @james, re wwe-211, you should direct writes to 127.0.0.1:3306 and reads to 127.0.0.1:3307

@@ -1,0 +1,1 @@
+ URL : "https://github.com/skybrud/Skybrud.Umbraco.Redirects/issues/9" TITLE : updated existing redirect BODY : anders, i created a new redirect and the destination was an umbraco page. i then went to edit it and set it to an external page however i cannot do that the url part is now fixed. only thing i can do is delete and recreate. am i missing something? regards ismail

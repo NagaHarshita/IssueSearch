@@ -1,0 +1,1 @@
+ URL : "https://github.com/tooploox/SnappyTestCase/issues/1" TITLE : size class agnosticism BODY : snappytestcase can simulate the different frames for each device, but it can't simulate the different size classes for each device. this means that apps that use size classes can't use this library in the way that is intended. are there are any possible remedies that exist?

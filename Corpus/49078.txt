@@ -1,0 +1,1 @@
+ URL : "https://github.com/n1tr0g/golja-gnupg/issues/25" TITLE : support for puppet v4 BODY : has anyone looked at what it would take to upgrade this module to be compatible with puppet v4? the documentation on the puppet forge suggests that the module is not supported / tested past v4.0

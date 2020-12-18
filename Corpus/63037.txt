@@ -1,0 +1,1 @@
+ URL : "https://github.com/robbriers/cde/issues/3" TITLE : deal with cycle changes BODY : need to check how it deals with changes in waterbody id changes between cycle 1 and 2. should subset 2013 data to just select cycle 2 assessments rather than duplicate. check temporal data extraction for specific waterbody

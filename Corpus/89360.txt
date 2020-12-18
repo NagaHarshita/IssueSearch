@@ -1,0 +1,1 @@
+ URL : "https://github.com/Topher84/NetSuite-Tools-For-WebStorm/issues/25" TITLE : prompt on password change BODY : hello, can there be some prompt, that nstools cant connect or something? when you change your password in ns and then you try to upload something with previously saved project settings, it does nothing, no error in console, nothing.

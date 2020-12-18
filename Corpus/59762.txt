@@ -1,0 +1,1 @@
+ URL : "https://github.com/felixge/node-ar-drone/issues/150" TITLE : use gps to make a path BODY : i have gps plugin on the ar drone i wont to make go to function who i can to recive the gps data and who to use the data to make the path have two problem 1. i dont see the gps data in the navdata function 2. how i can isolate one data from hit and how to use it

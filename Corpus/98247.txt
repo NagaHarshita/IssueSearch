@@ -1,0 +1,1 @@
+ URL : "https://github.com/gravitational/teleport/issues/1169" TITLE : incorrect saml session ttl BODY : problem if you set your maxsessionttl within your role to less than 12 hours and try and login via saml, teleport reports the following error: error while processing callback: this user cannot request a certificate for 11h59m59.996443235s

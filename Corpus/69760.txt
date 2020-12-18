@@ -1,0 +1,1 @@
+ URL : "https://github.com/perl6/doc/issues/1284" TITLE : try works on statements BODY : state explicitely that try can take a statement in addition to a block. my $file-content = try some-filename.txt .io.slurp // sane default ; say $f; output: «sane default␤»

@@ -1,0 +1,1 @@
+ URL : "https://github.com/LucyMcGowan/tipr/issues/2" TITLE : function name changes BODY : some suggestions: we should have 2 functions based on the unmeasured confounder. one for continuous and one for binary. tip_with_cont tip_with_binary

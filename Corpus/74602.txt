@@ -1,0 +1,1 @@
+ URL : "https://github.com/nextcloud/server/issues/6713" TITLE : external storage support BODY : external storage do not work anymore with dropbox, api v1 as been shutdown from dropbox, please update it to api v2 thank you

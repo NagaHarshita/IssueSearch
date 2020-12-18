@@ -1,0 +1,1 @@
+ URL : "https://github.com/juliema/label_reconciliations/issues/25" TITLE : zip output files BODY : the files are getting too big to sling around email. add a -z --zip option to compress the output

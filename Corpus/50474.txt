@@ -1,0 +1,1 @@
+ URL : "https://github.com/go-ini/ini/issues/117" TITLE : .mapto support url.url BODY : would you be interested in a pr to support url.url structs when using the mapto call? as i understand, it's a simple matter of changing the setwithpropertype function, but i don't know whether you want to support types other than the built in.

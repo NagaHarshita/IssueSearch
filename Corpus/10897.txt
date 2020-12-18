@@ -1,0 +1,1 @@
+ URL : "https://github.com/whosonfirst/whosonfirst-www-boundaryissues/issues/333" TITLE : edit new zealand BODY : heya, i tried to edit new zealand 85633345 today but i'm getting a 500 error, it's probably either because it's a super large and detailed geometry or because it's in git-lfs instead of git.

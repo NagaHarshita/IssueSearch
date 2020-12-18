@@ -1,0 +1,1 @@
+ URL : "https://github.com/humio/cli/issues/1" TITLE : add config file BODY : it would be great to have a config file to put humio_api_token and other config options into. the ui could provide such a file for download in the 'settings' pane of a dataspace in humio.

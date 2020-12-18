@@ -1,0 +1,1 @@
+ URL : "https://github.com/AquiTCD/Pentazemin/issues/3" TITLE : move to jest BODY : hi, i would like to move to jest from karma-mocha-chai for unit tests. you can still use power_assert with jest i'll show you how . the benefits of jest: - watch mode only run tests related to your code change - excellent mock/stubs very easy to mock nedb, so testing will be easy

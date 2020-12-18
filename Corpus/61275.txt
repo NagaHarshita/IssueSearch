@@ -1,0 +1,1 @@
+ URL : "https://github.com/Yveaux/Arduino_Vcc/issues/3" TITLE : analogread giving error BODY : when using analogread function above pin 7 vcc is giving inf result.

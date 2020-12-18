@@ -1,0 +1,1 @@
+ URL : "https://github.com/easy-wi/easy-wi/issues/11" TITLE : define tenant concept BODY : two basic concepts possible. one db and use tenant_id column, one db per tenant. question regarding filtering. will it be per domain or using an entry in the path like domain.tld/api/v1/users/:tenant_id/

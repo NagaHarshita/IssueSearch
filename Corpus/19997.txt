@@ -1,0 +1,1 @@
+ URL : "https://github.com/opendatakit/opendatakit/issues/1361" TITLE : aws install wiki - BODY : under configure mysql. running mysql –u root -p didn't work running mysql - p -u root loaded the password prompt and let me continue

@@ -1,0 +1,1 @@
+ URL : "https://github.com/magento/magento2/issues/11738" TITLE : backend logs me out BODY : hello, my magento2 2.2.0 in version logs me sometimes out, if i filter something in products. what could be the problem? is it an serverproblem? what i can check to resolve the problem? kind regards olek

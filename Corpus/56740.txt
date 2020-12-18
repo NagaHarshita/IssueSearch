@@ -1,0 +1,6 @@
+ URL : "https://github.com/climate-mirror/datasets/issues/64" TITLE : nsf arctic data center BODY : name: nsf arctic data center
+organization: nsf
+description url: https://arcticdata.io/
+download url: https://arcticdata.io/catalog/
+file types: netcdf, csv, shp, tiff, jpeg, wav, excel, and many others size: 5tb, soon to be 10tb
+status: the service is operated at uc santa barbara and data are all stored on non-governmental servers there, so at this point should be secure from federal policy changes. replication of data to ncei is in the plans. a copy of all data are also on amazon's s3 service in a private bucket for the time being.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/pgbouncer/pgbouncer/issues/244" TITLE : allow running as root BODY : i have issue with pgbouncer as it refuses to start with pgbouncer should not run as root . i'm running pgbouncer inside docker image so it's perfectly normal to run as a root..

@@ -1,0 +1,1 @@
+ URL : "https://github.com/thierrymichel/vue-svg-sprite/issues/3" TITLE : can not add via yarn BODY : i got error message : 'error vue-svg-sprite@1.1.4: the engine node is incompatible with this module. expected version 6.9.1 . please fix node js version engine .

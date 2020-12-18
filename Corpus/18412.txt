@@ -1,0 +1,1 @@
+ URL : "https://github.com/clems4ever/authelia/issues/34" TITLE : tag docker builds BODY : hey! love the work you're doing here! is it possible to tag the docker builds with version tags? it would be nice to not be restricted to just latest which can vary on different machines depending on when you last ran a docker pull . cheers, ben

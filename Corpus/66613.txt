@@ -1,0 +1,1 @@
+ URL : "https://github.com/FortechRomania/SportsPlanner/issues/7" TITLE : near me events map view BODY : see the events near the user current location on a map. the events should be tappable, a map overlay pops up and some basic informations should be displayed about that event, if the user taps on that popup the event details screen should be presented

@@ -1,0 +1,1 @@
+ URL : "https://github.com/unitystation/unitystation/issues/438" TITLE : fov memory leak BODY : whenever fov is enabled on main camera, it starts leaking memory right from the start game dialog usually around 2 mb/s, tested on windows machine and seems to only stop when the game process occupies ~80% of entire ram.

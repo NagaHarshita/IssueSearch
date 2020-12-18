@@ -1,0 +1,1 @@
+ URL : "https://github.com/giltene/wrk2/issues/46" TITLE : deadlock if -r is < -t BODY : all in the title. the program freeze if -r is smaller than -t. i can imagine why it happen but that should be catched.

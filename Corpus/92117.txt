@@ -1,0 +1,2 @@
+ URL : "https://github.com/curationexperts/laevigata/issues/457" TITLE : validation for review tab BODY : acceptance criteria - the deposit agreement should be written in its entirety - user should be presented with the option to accept or reject the deposit agreement
+- if the user selects yes the submit button should become active - the only action that should enable the submit button is the acceptance of the deposit agreement

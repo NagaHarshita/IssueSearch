@@ -1,0 +1,1 @@
+ URL : "https://github.com/brownplt/pyret-lang/issues/1110" TITLE : sqrt 16 yields bad error BODY : first, there's a grammar problem. second, it's not terribly informative or actionable.

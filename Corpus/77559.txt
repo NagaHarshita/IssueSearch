@@ -1,0 +1,1 @@
+ URL : "https://github.com/phalcon/box/issues/67" TITLE : nginx conf per site? nfr BODY : is there a way to set an nginx.conf per site like homestead allows it? for instance in homestead you can specify something like: - map: slayer.home to: /home/vagrant/code/slayer/public type: slayer</code> and this creates a serve-slayer.sh

@@ -1,0 +1,1 @@
+ URL : "https://github.com/apatil4/med-tracker/issues/2" TITLE : setup: wire up dynamo db BODY : wire up dynamo db to the lambda to allow storing data.

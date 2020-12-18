@@ -1,0 +1,1 @@
+ URL : "https://github.com/bddicken/wordstream/issues/1" TITLE : add result limiter BODY : there should be a way to limit the matches that are displayed in the tree/graph to the top n results.

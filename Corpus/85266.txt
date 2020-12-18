@@ -1,0 +1,1 @@
+ URL : "https://github.com/node-apn/node-apn/issues/606" TITLE : error with generate token BODY : throw new verror err, failed to generate token ; ^ verror: failed to generate token: error:0906d06c:pem routines:pem_read_bio:no start line at preparetoken can anyone help me? i am using .p12 file

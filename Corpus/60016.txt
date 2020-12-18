@@ -1,0 +1,1 @@
+ URL : "https://github.com/Courseplay/courseplay/issues/1677" TITLE : waiting tractor moving BODY : i've a tractor doing the travel from overload loading point to farm, while wait it still move flipping speed from 0,0km/h to 0,1km/h, the result is the tractor lose the proper position and overloader cannot match the tipping unloading point.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/swift-emacs/swift-mode/issues/141" TITLE : file header error BODY : i did a package install-file swift-mode-pkg.el and it gave me a package lacks a file header error. i'm on emacs 25.1.1.

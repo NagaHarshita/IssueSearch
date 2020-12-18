@@ -1,0 +1,1 @@
+ URL : "https://github.com/primitive-apps/Primitive-Android/issues/1" TITLE : svg image loading BODY : need to figure out a way to load svg images, both as thumbnails for the gallery and into a photoview to view, preferably using http://bigbadaboom.github.io/androidsvg/

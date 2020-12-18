@@ -1,0 +1,1 @@
+ URL : "https://github.com/cuckoosandbox/cuckoo/issues/1795" TITLE : .msg and .eml files BODY : hi! another one from me... how can i implement the analyzer packages for .msg & .eml files. in the cuckoo community setup these packages already were implemented. kind regards

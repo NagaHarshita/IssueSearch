@@ -1,0 +1,1 @@
+ URL : "https://github.com/languagetool-org/languagetool/issues/835" TITLE : tag as latest release BODY : i'm making a script that will install the latest release for everyone pull request coming soon to streamline the process of installing languagetool. could the latest be release be tagged as the latest release to make everything easier? thanks.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/JetBrains/kotlin-native/issues/733" TITLE : slow compilation time BODY : hi when compiling even hello world i expect to be fast, but it is really slow is there something i am missing when compiling? i followed this https://github.com/jetbrains/kotlin-native/blob/master/readme.md

@@ -1,0 +1,1 @@
+ URL : "https://github.com/bogdan-hepting/menu_item_extras/issues/45" TITLE : add examples modules BODY : add submodule menu_item_extras_examples which will create test menus with predefined fields. this module will be user for further tests.

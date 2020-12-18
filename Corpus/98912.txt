@@ -1,0 +1,1 @@
+ URL : "https://github.com/HighSchoolHacking/NGLS/issues/4" TITLE : load all commands up front BODY : order shouldn't matter. the factory should be synchronous as a result.

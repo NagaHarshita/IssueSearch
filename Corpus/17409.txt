@@ -1,0 +1,1 @@
+ URL : "https://github.com/dosyago-corp/pa-os-desktopclient/issues/21" TITLE : patch in tracking BODY : on element select for positive or negative, send message too track that selector, and on update of generalization, send message to track that. and on delete send message to untrack that.

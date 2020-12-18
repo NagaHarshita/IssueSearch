@@ -1,0 +1,1 @@
+ URL : "https://github.com/moozer/ansible-server-openvpn/issues/1" TITLE : remove ansible warning BODY : when running on newer versions of ansible 2.0+? , there are lots of warning : when statements should not include jinja2 templating delimiters such as {{ }} or {% %}.

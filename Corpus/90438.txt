@@ -1,0 +1,1 @@
+ URL : "https://github.com/AWF-GAUG/gsg_shiny/issues/1" TITLE : shiny app moved to gsgsim BODY : working with two different projects gsgsim and gsg_shiny was cumbersome. i moved the shiny app to a subdirectory in gsgsim.

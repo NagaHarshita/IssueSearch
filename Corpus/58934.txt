@@ -1,0 +1,1 @@
+ URL : "https://github.com/apollographql/apollo-ios/issues/192" TITLE : support query batching BODY : we've come across a situation where query and mutation batching would be very useful. i noticed that this was an issue in the android project but not in the ios one so i wanted to add a reference here. https://github.com/apollographql/apollo-android/issues/513

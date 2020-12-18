@@ -1,0 +1,1 @@
+ URL : "https://github.com/nextflow-io/cwl2nxf/issues/15" TITLE : default without prefix BODY : there is a minor issue that needs to be tracked down that if a default value has no prefix a space is not inserted in the commandlien strings.

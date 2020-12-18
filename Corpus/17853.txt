@@ -1,0 +1,1 @@
+ URL : "https://github.com/folklabs/openlocal/issues/73" TITLE : review map layout BODY : we attempted on vac to make it static and fullwidth, but getting full height has not been achieved. is fullwidth a problem on mobile if the map has filters?

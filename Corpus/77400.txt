@@ -1,0 +1,1 @@
+ URL : "https://github.com/Marak/faker.js/issues/522" TITLE : nb_no locale not working BODY : tried the nb_no norwegian locale but it just returns english. tried with ru and then half of it becomes russian and half english. import faker from 'faker/locale/nb_no'; faker.locale = nb_no ;

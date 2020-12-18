@@ -1,0 +1,1 @@
+ URL : "https://github.com/aaroncox/vessel/issues/32" TITLE : add account creation BODY : the first implementation of this should allow account creation directly from a previously imported account. prior to account creation user will be given a chance to copy the new password and keys. after account creation, active key will be imported into vessel for immediate use.

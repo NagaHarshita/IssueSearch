@@ -1,0 +1,1 @@
+ URL : "https://github.com/radare/radare2/issues/7519" TITLE : generic table command/api BODY : like for graphs, but for making ascii/utf-8 tables instead.

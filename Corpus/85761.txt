@@ -1,0 +1,1 @@
+ URL : "https://github.com/neo4j-contrib/neo4j-symfony/issues/17" TITLE : fix typo schema => scheme BODY : this is a typo in the config.

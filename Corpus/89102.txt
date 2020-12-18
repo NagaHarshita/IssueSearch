@@ -1,0 +1,1 @@
+ URL : "https://github.com/dbtek/chosen-bootstrap/issues/7" TITLE : please publish to npm too BODY : with yarn gaining popularity and bower on the decline, it would be really nice to have this package available in npm. i think all you would have to do is copy/paste the bower.json file to package.json, and npm publish .

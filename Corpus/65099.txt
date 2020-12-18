@@ -1,0 +1,1 @@
+ URL : "https://github.com/edoddridge/MIM/issues/16" TITLE : implement free surfaces BODY : the comment at https://github.com/edoddridge/mim/blob/9adaded177146e50a9cea68b64bd5080cf13939b/mim.f90 l306 deserves to be its own issue. @edoddridge care to comment? what does this mean? what work is needed to bring it about?

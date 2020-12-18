@@ -1,0 +1,1 @@
+ URL : "https://github.com/google/timesketch/issues/341" TITLE : macros in search query BODY : add the possibility to use macros for common filters, or use existing search templates as macros. e.g. registry_persistence and rundll32.exe would have registry_persistence expand into a filter for all values of registry that are known to be used as peristence mechanisms.

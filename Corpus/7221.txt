@@ -1,0 +1,1 @@
+ URL : "https://github.com/kobotoolbox/kobo-docker/issues/114" TITLE : error in enketo BODY : dear team, with the recent update, i'm getting following error on few of my forms. > enketo error, reason: 'connection aborted.', gaierror -5, 'no address associated with hostname'

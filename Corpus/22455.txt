@@ -1,0 +1,1 @@
+ URL : "https://github.com/UCSB-CS56-Projects/cs56-games-roguelike/issues/69" TITLE : level coloring bug BODY : i made it to level two. apparently it is yellow? assuming that it's _supposed_ to be yellow, the bug is that it started out white, and only turned yellow after i made my first move. it should have been yellow as soon as i arrived. 50 xp

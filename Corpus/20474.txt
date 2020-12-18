@@ -1,0 +1,1 @@
+ URL : "https://github.com/pbraunstein/trackercise/issues/172" TITLE : clean up front end BODY : for completion of this ticket: remove the colored bars at the top of the file move the html for the alldata component into it's own file move the alldata component into it's own file to be imported into main

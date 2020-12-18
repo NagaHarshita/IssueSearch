@@ -1,0 +1,1 @@
+ URL : "https://github.com/aws/aws-toolkit-eclipse/issues/77" TITLE : aws lambda java s3 project BODY : one of the error log in aws lambda java s3 project aws-toolkit-eclipse\bundles\com.amazonaws.eclipse.lambda\code-template\lambda prints wrong information. it prints bucketname instead of key in logs which can create confusion

@@ -1,0 +1,1 @@
+ URL : "https://github.com/doctrine/dbal/issues/2663" TITLE : comparator fails for blobs BODY : in the typo3 project we use the diffcolumn method in the class doctrine\dbal\schema. unfortunately this method fails to detect changes in blob columns. so changing a column from blob to another blob type fails.

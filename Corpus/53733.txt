@@ -1,0 +1,1 @@
+ URL : "https://github.com/sid5432/pyOTDR/issues/4" TITLE : error on run python3.6 BODY : traceback most recent call last : file pyotdr.py , line 7, in <module> import read file /home/www/read.py , line 6, in <module> from . import parts importerror: attempted relative import with no known parent package

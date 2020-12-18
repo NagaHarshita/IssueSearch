@@ -1,0 +1,1 @@
+ URL : "https://github.com/javierluraschi/sparkwarc/issues/1" TITLE : spark 2.1.1 support BODY : javier, thanks for the great library. sparkwarc runs fine with spark 2.0.2 but it seems that it doesn't support spark 2.1.1. could you please clarify?

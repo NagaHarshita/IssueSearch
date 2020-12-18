@@ -1,0 +1,1 @@
+ URL : "https://github.com/kamilchm/go2nix/issues/57" TITLE : only imported used vcs's BODY : at this moment, all vc's are imported in the default.nix. it would be nicer to only import the vcs that is actually used.

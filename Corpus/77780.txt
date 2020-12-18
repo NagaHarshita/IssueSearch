@@ -1,0 +1,1 @@
+ URL : "https://github.com/kherr9/ToyStorage/issues/14" TITLE : nuget package prerelease BODY : build and publish prerelease nuget package. build from pr? build from develop? need to switch to git flow.

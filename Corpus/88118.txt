@@ -1,0 +1,1 @@
+ URL : "https://github.com/FWest98/hsts-iis-module/issues/13" TITLE : module not showing in iis BODY : hi i have installed hsts-iis-module using the msi but it's not appearing in iis is there some prerequisite that i'm missing? thanks

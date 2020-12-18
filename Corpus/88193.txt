@@ -1,0 +1,1 @@
+ URL : "https://github.com/ananthamapod/Nan.thy/issues/1" TITLE : move url storage to redis BODY : in the interest of becoming actually scalable, and redis makes more sense than a database for the kind of info here though maybe db fallback for redudancy?

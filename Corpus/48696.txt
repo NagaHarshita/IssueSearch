@@ -1,0 +1,1 @@
+ URL : "https://github.com/cmip6dr/CMIP6_DataRequest_VariableDefinitions/issues/143" TITLE : siconc in wrong table BODY : the siconc is, i presume, what we called sic in cmip5. in any case, it doesn't belong in the aermon table. it should be moved back to the simon table which was called oimon table in cmip5 . also, as we've discussed it should have units of %.

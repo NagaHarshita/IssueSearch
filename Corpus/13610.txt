@@ -1,0 +1,1 @@
+ URL : "https://github.com/primefaces/primeng/issues/3883" TITLE : warm about alert BODY : template parse warnings: the <template> element is deprecated. use <ng-template> instead warning -> <template ngif = !isclosed > <div class = 'alert alert-' + type role= alert ngclass = classes : ng:///alertmodule/alertcomponent.html@1:0

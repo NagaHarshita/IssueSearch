@@ -1,0 +1,1 @@
+ URL : "https://github.com/jasonawise/Backstage-Css/issues/7" TITLE : no media queries BODY : there are currently no media queries. i am not sure they would be useful for the scope of this project. i would also like the user to be able to determine the queries. there may be a good solution to this.

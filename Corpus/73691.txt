@@ -1,0 +1,1 @@
+ URL : "https://github.com/appbaseio/reactivebase/issues/80" TITLE : daterange query behavior BODY : daterange sensor's query executes when either of startdate and enddate are set. it should rather execute the query only when both of the inputs are collected.

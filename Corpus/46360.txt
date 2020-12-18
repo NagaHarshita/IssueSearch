@@ -1,0 +1,1 @@
+ URL : "https://github.com/maciejtreder/aws-sns-webpush/issues/2" TITLE : make app configurable BODY : there should a possibility to choose what kind of subscriptions should be supported vapid only, safari only or both

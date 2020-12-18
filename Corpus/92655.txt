@@ -1,0 +1,1 @@
+ URL : "https://github.com/tcr/scissors/issues/28" TITLE : .getpagesizes doesn't work BODY : the method .getpagesizes doesn't work for me at all. i've tried it on all kinds of pdf's it keeps throwing the error: throw new error 'identify encountered an error: ', string data ; var pdf = scissors 'test.pdf' .getpagesizes .then function res { console.dir res ; }

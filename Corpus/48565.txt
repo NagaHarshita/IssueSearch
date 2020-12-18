@@ -1,0 +1,1 @@
+ URL : "https://github.com/pinterest/plank/issues/51" TITLE : serialisation to json BODY : is there possibility to serialise generated object to json? we can do initwithdictionary, but what about to have something like dictionary method, which will return dictionary to be send as json via rest?

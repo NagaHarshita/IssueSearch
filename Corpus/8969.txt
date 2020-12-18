@@ -1,0 +1,1 @@
+ URL : "https://github.com/candid82/joker/issues/38" TITLE : stdin via pipe? BODY : i'm probably just missing something but the readme mentions stdin support, shouldn't that mean the following should work? sh cat boot/core/src/boot/cli.clj | joker --clojure --lint thanks! :

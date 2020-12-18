@@ -1,0 +1,1 @@
+ URL : "https://github.com/ArchStrike/ArchStrike/issues/290" TITLE : bdfproxy missing dep BODY : community/mitmproxy 1.0.2-1 is installed traceback most recent call last : file bdf_proxy.py , line 34, in <module> from mitmproxy import controller, proxy, platform importerror: no module named mitmproxy

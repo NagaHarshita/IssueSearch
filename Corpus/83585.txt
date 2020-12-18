@@ -1,0 +1,1 @@
+ URL : "https://github.com/aravantv/mb-webapp/issues/16" TITLE : change of id3.name to 314 BODY : change on server side of id3.name to 314 . expected: +-----------+ | 123 | | 314 | +-----------+

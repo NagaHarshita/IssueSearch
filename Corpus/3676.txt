@@ -1,0 +1,1 @@
+ URL : "https://github.com/adamhalasz/todos/issues/8" TITLE : team rest api BODY : - create team at post /team - update team at put /team - delete team at delete /team - read team at get /team - list teams at get /team/list

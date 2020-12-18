@@ -1,0 +1,1 @@
+ URL : "https://github.com/hioa-cs/IncludeOS/issues/1212" TITLE : tests for special cases BODY : the smp test requires smp-support to be enabled in the os prior to building it, which should probably not be the default. that means the smp test won't be able to run in the normal case, with the current testing system.

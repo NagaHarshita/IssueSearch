@@ -1,0 +1,1 @@
+ URL : "https://github.com/bartekzawadka/threesixty-client/issues/3" TITLE : auto refresh token BODY : token is not being automatically refreshed while user is still logged in and using system

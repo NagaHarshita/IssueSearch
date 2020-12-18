@@ -1,0 +1,1 @@
+ URL : "https://github.com/MoveOnOrg/Spoke/issues/224" TITLE : update apollo graphql BODY : old backwards-incompatible version of apollo running. upgrade all the things to make it work. this is probably difficult and will take a good amount of work across the code base, both client and server

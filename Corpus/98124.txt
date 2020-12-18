@@ -1,0 +1,1 @@
+ URL : "https://github.com/terascope/teraslice/issues/492" TITLE : improve developer workflow BODY : the integration tests require a rebuild of teraslice docker image after each edit. plus, npm-linked modules will not work either. update the readme to make it more clear what the intended workflow is.

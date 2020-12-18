@@ -1,0 +1,1 @@
+ URL : "https://github.com/AdventureLookup/AdventureLookup/issues/16" TITLE : add reviews functionality BODY : reviews could be left by registered individuals on a per adventure basis. reviews would be an integer 1 to 10 so that we can show them in half star increments without actually storing floating point values.

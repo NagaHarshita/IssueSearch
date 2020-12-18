@@ -1,0 +1,1 @@
+ URL : "https://github.com/FearlessTS/si507-hw02/issues/4" TITLE : class movie media BODY : - __init__ dict variables added - rating - genre - description methods - __len__ override - title_words_num

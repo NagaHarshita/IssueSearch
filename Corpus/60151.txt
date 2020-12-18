@@ -1,0 +1,1 @@
+ URL : "https://github.com/uikit/uikit/issues/2434" TITLE : width on 6 not working BODY : when you set a width of 6 it does not work as expected: <div uk-grid> <div class= uk-width-2-6 >...</div> <div class= uk-width-4-6 >...</div> </div> https://i.gyazo.com/9fb14fdc5245c7facf0d112844ec7095.png seems the only working ones in terms of space are: uk-width-1-6 and uk-width-5-6

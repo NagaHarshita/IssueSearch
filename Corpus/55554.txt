@@ -1,0 +1,1 @@
+ URL : "https://github.com/benignstar/SimpleCalculator/issues/2" TITLE : java event programming BODY : - 참조변수에 위젯 객체의 참조값을 반환받아 대입 - 입력된 값을 받환받아 정수형 변수에 대입 정수값으로 변환 - event programming : 버튼이 클릭되었을 때 입력된 2개의 값을 사용해 연산을 실행 결과값을 textview에 설정

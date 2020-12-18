@@ -1,0 +1,1 @@
+ URL : "https://github.com/nebrius/raspi-i2c/issues/12" TITLE : access both i2c BODY : on our pi, we connect 2 different devices on both i2c pins. right now https://github.com/nebrius/raspi-i2c/blob/master/src/index.ts l141 you always only opensync on bus 1 on pi2+ even though there are actually bus 1 and 0. could we get a way to use both? thanks

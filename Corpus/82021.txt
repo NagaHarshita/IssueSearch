@@ -1,0 +1,1 @@
+ URL : "https://github.com/belbio/bel_resources/issues/23" TITLE : add case sensitivity flag BODY : add case sensitivity flag to namespace.yaml file and add to terminology metadata such that the load_elasticsearch does not add lowercase versions of each id and alt_id to term 'alt_ids' when loading elasticsearch.

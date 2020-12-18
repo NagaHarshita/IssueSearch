@@ -1,0 +1,1 @@
+ URL : "https://github.com/rlcevg/CircuitAI/issues/37" TITLE : actual very easy mode BODY : how hard is it to implement something like zerok-rts/zero-k 2179 in circuit? would it be a lot of work? it would involve disabling most clever things circuit does, like porc avoidance, retreat to repair, not excessing all of your metal, and i don't know how deeply those are wired in.

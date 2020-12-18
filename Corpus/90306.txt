@@ -1,0 +1,1 @@
+ URL : "https://github.com/tio/tio/issues/62" TITLE : send \r instead of just ? BODY : i am communicating with a serial device that wants newlines to be sent as \r rather than just . is there any way to get tio to perform that translation? without that i can't actually execute any commands on the device to which i am connected.

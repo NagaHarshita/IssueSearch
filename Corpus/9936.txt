@@ -1,0 +1,1 @@
+ URL : "https://github.com/xAPI-vle/moodle-logstore_xapi/issues/92" TITLE : add scorm events BODY : hi there, now that moodle logs much more information about scorm data, are there any plans to include this data in the logstore_xapi plugin? specifically: \mod_scorm\event\status_submitted \mod_scorm\event\scoreraw_submitted thanks, mark

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mssun/passforios/issues/44" TITLE : wrong text encoding BODY : password entries are decoded as latin1 instead of utf8 . this should be «проверка». ! slice https://cloud.githubusercontent.com/assets/4562643/23445609/2b76f774-fe6f-11e6-8ea4-3bf854410dbc.png

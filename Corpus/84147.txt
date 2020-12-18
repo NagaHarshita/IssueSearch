@@ -1,0 +1,1 @@
+ URL : "https://github.com/angularsen/UnitsNet/issues/349" TITLE : crawlspace uses units.net BODY : hello, i am using units.net in a small open source app i wrote called crawlspace https://bitbucket.org/martineden/crawlspace . i don't know whether you would consider it noteworthy enough to put in your readme, but i thought i'd let you know in case you do!

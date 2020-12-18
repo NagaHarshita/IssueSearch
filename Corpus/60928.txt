@@ -1,0 +1,1 @@
+ URL : "https://github.com/penn-blockchain/hw-token/issues/2" TITLE : add reference contract! BODY : - figure out some way of a keeping this in a separate repo, or b creating a separate repo for the function stub version. b is probably more reasonable, as we can essentially keep all completed contracts here.

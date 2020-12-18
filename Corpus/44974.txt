@@ -1,0 +1,1 @@
+ URL : "https://github.com/arose/ngl/issues/247" TITLE : getting chain colours BODY : is there a way to get the colours used by ngl in a representation, for example when the colour scheme is based upon the chain name. i guess it's possible to access it by creating a new ngl.colormakerregistry and passing the structure as a parameter ? how can it be done ?

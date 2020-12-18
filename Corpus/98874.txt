@@ -1,0 +1,1 @@
+ URL : "https://github.com/crrio/maple.fm/issues/14" TITLE : links to repo through http BODY : github forces connections to use https, no sense in having that link be http only to be redirected to https

@@ -1,0 +1,1 @@
+ URL : "https://github.com/gagar1n/video-glue/issues/1" TITLE : get info from strava api BODY : goal is to get latets ride from strava api: - name - activity url - link to strava flybys if it's possible and then use this info for youtube video title and description.

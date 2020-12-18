@@ -1,0 +1,1 @@
+ URL : "https://github.com/swarmfund/sv-voting-mvp/issues/170" TITLE : final ui changes BODY : proposed changes remove meta tag for responsive rendering if it improves mobile experience i.e. makes it more obvious that it's not supported, or actually makes it somewhat usable add https redirect meant to do today

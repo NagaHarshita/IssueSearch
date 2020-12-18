@@ -1,0 +1,1 @@
+ URL : "https://github.com/lemonde/js-release/issues/22" TITLE : expose cli in a binary BODY : hello, i think you should expose cli into a binary https://docs.npmjs.com/files/package.json bin . it would be easier for end user.

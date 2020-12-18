@@ -1,0 +1,1 @@
+ URL : "https://github.com/Ottawa-EPRI/EPmisc/issues/6" TITLE : change class of robust_lm BODY : robust_lm currently takes the class of lm , but that means broom's tidy and output mechanisms that rely on it like huxreg will just read the normal ses and forget about the whole thing. we need to change the class to something else like robuse_lm.

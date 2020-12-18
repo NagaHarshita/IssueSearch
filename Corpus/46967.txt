@@ -1,0 +1,1 @@
+ URL : "https://github.com/RocketChat/Rocket.Chat.Java.SDK/issues/37" TITLE : new user registration BODY : description we need to support the api to register a new user. documentation: https://rocket.chat/docs/developer-guides/rest-api/users/create. progress - registration of the user; - support to custom fields; - unit tests;

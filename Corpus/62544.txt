@@ -1,0 +1,1 @@
+ URL : "https://github.com/jeremiak/jekyll-offline/issues/6" TITLE : configure urls to cache BODY : for small sites with not too many posts and few pages, caching everything may be ok. sometimes it's not. could we provide more configuration on this? leaving the question open and hope that it generates some clever ideas .

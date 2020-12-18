@@ -1,0 +1,1 @@
+ URL : "https://github.com/chengsoonong/wib/issues/10" TITLE : paginate hg log BODY : one option is to pipe to less. but this does not work on windows.

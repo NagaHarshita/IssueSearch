@@ -1,0 +1,1 @@
+ URL : "https://github.com/motet-a/gtsearch/issues/7" TITLE : consider replacing grep BODY : ideally, i think the grep-like backend should be customizable. git grep - submodule awareness - uses the git index: https://news.ycombinator.com/item?id=7167188 - threaded ripgrep todo

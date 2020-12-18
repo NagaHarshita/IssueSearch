@@ -1,0 +1,1 @@
+ URL : "https://github.com/termux/termux-packages/issues/696" TITLE : package request: php-intl BODY : hello, i want to run a php script that requires the intl extension. would itbbe possible to add it?

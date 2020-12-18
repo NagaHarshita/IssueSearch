@@ -1,0 +1,1 @@
+ URL : "https://github.com/tugberkugurlu/AspNetCore.Identity.MongoDB/issues/46" TITLE : update to asp core 1.1 BODY : i'm getting errors when i try to update the sample project to use it on the recently released stable version of vs2017 with asp core 1.1.

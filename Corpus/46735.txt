@@ -1,0 +1,1 @@
+ URL : "https://github.com/Escapingbug/AncyPatcher/issues/2" TITLE : more clear elf parser BODY : maybe we shouldn't use r2? it seems we need to parse many things on our own apart from r2, how about just parse everything on our own

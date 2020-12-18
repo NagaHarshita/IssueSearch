@@ -1,0 +1,1 @@
+ URL : "https://github.com/Technikradio/C3FOCSite/issues/15" TITLE : fix broken css for chrome BODY : misbehaviour when loading the admin area using google chrome some tables have broken layout. how to reproduce the bug open the admin dashboard using google chrome. my environment does not apply here

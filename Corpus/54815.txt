@@ -1,0 +1,1 @@
+ URL : "https://github.com/ethereum/viper/issues/570" TITLE : how to delete mapping? BODY : is there any way to delete a mapping? for example i have the next struct: test: public { some_map: num256 bytes32 , variable: num } num in solidity there is delete test id ; i saw the solutions like test id .variable = 0 but how to clean a mapping inside a mapping? viper version: 0.0.2

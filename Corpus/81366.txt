@@ -1,0 +1,1 @@
+ URL : "https://github.com/sdsmdg/trianglify/issues/20" TITLE : working on non ui thread BODY : trianglify uses ui thread to generate views, this freezes the ui when view is being rendered. it should be done on seperate thread to avoid freezing up of ui.

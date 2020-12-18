@@ -1,0 +1,1 @@
+ URL : "https://github.com/thejashc/Stage-1/issues/4" TITLE : g r calculation BODY : the g r settles to a value 0 instead of 1 at larger distances. this implies that the particles at larger distances are not properly indexed during the g r calculation. should check for it's implementation.

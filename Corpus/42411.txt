@@ -1,0 +1,1 @@
+ URL : "https://github.com/cypress-io/cypress-test-example-repos/issues/7" TITLE : bad commit object sha BODY : seeing for projects that use commit-message-install the following !/bin/bash -eo pipefail $ npm bin /commit-message-install last commit: f68174c5383af5df6453dbad1bf54aac339f6dad fatal: bad object f68174c5383af5df6453dbad1bf54aac339f6dad

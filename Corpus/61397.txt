@@ -1,0 +1,1 @@
+ URL : "https://github.com/tzulberti/archery-training/issues/183" TITLE : arrow score from center BODY : when checking the arrow score on the target, it uses the center of the arrow and it doesn't take into account the arrow border might touch other score. so we should take that into account

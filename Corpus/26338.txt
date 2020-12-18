@@ -1,0 +1,1 @@
+ URL : "https://github.com/richelbilderbeek/travis_clang_cpp17/issues/1" TITLE : any update on this? BODY : i was trying to get travis to work with clang-6.0, and i have issues with getting it to use the correct stdlib std::clamp not found, etc. do you have a project with a clang config for 17, or any plans to finish this?

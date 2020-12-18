@@ -1,0 +1,1 @@
+ URL : "https://github.com/jmakeig/object-describe/issues/16" TITLE : lambda parsing error BODY : js function snake {} snake.prototype.constructor = snake; snake.prototype.tostring = => i’m a snake with ${this.legs} legs ; // ' => i’m a snake with ${this.legs} legs '

@@ -1,0 +1,1 @@
+ URL : "https://github.com/oscam-emu/oscam-emu/issues/236" TITLE : powervu emm key capacity BODY : my softcam.key have more than 100 emm keys. i see all keys at reader entitlements. but oscam-emu use only first 64 emm keys when autoroll.

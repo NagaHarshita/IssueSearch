@@ -1,0 +1,4 @@
+ URL : "https://github.com/a-kolomiets/CraftProduct2/issues/166" TITLE : new message text box BODY : show user avatar and allow to enter a multiline message. keys: - enter - submit message
+- control+enter - line break with line breaking, the text area will expand accordingly. inline message options: - user can enter plain text
+- user can mention member or a team using the @ sign, a teams / members dropdown will show
+- user can a word, a dropdown with existing tags will show and allow to search / add new similar to labels - user can add a url see separate definition

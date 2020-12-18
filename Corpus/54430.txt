@@ -1,0 +1,1 @@
+ URL : "https://github.com/kubenow/KubeNow/issues/122" TITLE : gce default dns server BODY : by default, the containers use the public google dns server to resolve host names, instead of the kube-dns server. this makes the containers unable to communicate.

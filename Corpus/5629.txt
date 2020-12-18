@@ -1,0 +1,1 @@
+ URL : "https://github.com/slarse/pdfebc-core/issues/8" TITLE : rework the api BODY : the api needs some work. a lot of functions should probably be made private as well. this is related to 7

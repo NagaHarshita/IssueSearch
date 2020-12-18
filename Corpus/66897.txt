@@ -1,0 +1,1 @@
+ URL : "https://github.com/davidmartinezros/which-image-is/issues/1" TITLE : not serious engineering BODY : if you don't do an abstractsingletonproxyfactorybean, you code will scale badly in the future

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ARM9/casfx/issues/1" TITLE : .addr undesired behaviour BODY : casfx.inc uses .setcpu none causing .addr directive to emit 2 byte addresses, should be 3.

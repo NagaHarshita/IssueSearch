@@ -1,0 +1,1 @@
+ URL : "https://github.com/ManageIQ/activerecord-id_regions/issues/2" TITLE : dropping region file BODY : does it make sense to drop the region text file completely and use env region or --region in the travis build process and appliance console? /cc @fryguy

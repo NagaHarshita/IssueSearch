@@ -1,0 +1,1 @@
+ URL : "https://github.com/Ulterius/client/issues/95" TITLE : i got an error. BODY : this error is being caused whilst an ulterius update is being installed. ! errormsg https://user-images.githubusercontent.com/20157629/33233540-4ed29fe2-d20f-11e7-8bfa-73c6269d4d0d.png exception information: uncaught typeerror: cannot read property '0' of null - line 46

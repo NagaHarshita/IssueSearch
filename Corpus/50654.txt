@@ -1,0 +1,1 @@
+ URL : "https://github.com/AmbrosioV/Repo-t07/issues/17" TITLE : 9.2.2 nuevo otro error BODY : traceback most recent call last : file <stdin> , line 1, in <modu nameerror: name 'a' is not defined

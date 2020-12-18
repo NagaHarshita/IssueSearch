@@ -1,0 +1,1 @@
+ URL : "https://github.com/sgpthomas/hourglass/issues/36" TITLE : close closes all instances BODY : i noticed that multiple instances of hourglass can be opened, but they seem to influence each other sometimes. closing one instance by x button in it's header will also close all other instances. i've installed hourglass 1.1.1 through the appcenter.

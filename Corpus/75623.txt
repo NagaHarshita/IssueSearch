@@ -1,0 +1,1 @@
+ URL : "https://github.com/yagop/node-telegram-bot-api/issues/414" TITLE : how to separate commands BODY : hi! how to separate commands from main file like routes in express? i want to store commands in different files in commands dir.

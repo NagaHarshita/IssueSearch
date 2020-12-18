@@ -1,0 +1,1 @@
+ URL : "https://github.com/ComputationalProteomicsUnit/maker/issues/30" TITLE : setup common hooks BODY : provide a hooks directory with common pre-commit hooks for git , see also https://github.com/lgatto/msnbase/pull/279 issuecomment-347870638.

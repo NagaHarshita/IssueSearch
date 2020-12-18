@@ -1,0 +1,1 @@
+ URL : "https://github.com/offa/scope-guard/issues/3" TITLE : protect master branch BODY : protect the _master_ branch and require successful ci builds.

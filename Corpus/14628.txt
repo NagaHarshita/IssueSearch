@@ -1,0 +1,1 @@
+ URL : "https://github.com/pandas-dev/pandas/issues/16568" TITLE : bld: pep8 dev tag BODY : /users/jreback/miniconda3/envs/pandas/lib/python3.6/site-packages/setuptools/dist.py:333: userwarning: normalizing '0.21.0.dev+108.gee8346d' to '0.21.0.dev0+108.gee8346d' normalized_version, see dev -> dev0. i guess this is pep8? maybe next time we dev tag should fix.

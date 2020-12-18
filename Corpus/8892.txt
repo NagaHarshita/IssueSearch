@@ -1,0 +1,1 @@
+ URL : "https://github.com/mandemeskel/Apo/issues/6" TITLE : setup travis ci BODY : setup travis ci to build and run test. https://github.com/codepath/android_guides/wiki/setting-up-travis-ci https://github.com/googlecodelabs/mdc-android-kotlin/blob/master/.travis.yml travis ci does not support kotlin but using java and setting the correct build tool i.e. gradle will work.

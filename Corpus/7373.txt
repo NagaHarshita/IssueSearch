@@ -1,0 +1,1 @@
+ URL : "https://github.com/madronalabs/soundplane/issues/26" TITLE : fix kyma issues BODY : there is at least one major connection bug preventing a user from using the latest version. testing and development with kyma here would be helpful.

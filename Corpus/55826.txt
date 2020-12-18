@@ -1,0 +1,1 @@
+ URL : "https://github.com/dtoma/cpp-lib-installer/issues/2" TITLE : load dependencies file BODY : for example: csv org,repo,method,version philsquared,catch,cmake,2.0 fmtlib,fmt,cmake,1.5.3 quickfix,quickfix,autotools,latest

@@ -1,0 +1,1 @@
+ URL : "https://github.com/larsxschneider/scotty/issues/12" TITLE : support for ghe 2.11 BODY : could these scripts be made to work with ghe 2.11? i tested a couple reports, users-find-inactive.sh git-versions.sh exceptions.sh which all work ok, after changing the required_ghe_major_version to 2.11

@@ -1,0 +1,1 @@
+ URL : "https://github.com/cs361fall2017/team12/issues/27" TITLE : coding for new start page BODY : i create a new start page. accordingly, the start page is localhost:8080/start_page. there is a button called start . after you click it, the page would jump to the game page.

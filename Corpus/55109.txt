@@ -1,0 +1,1 @@
+ URL : "https://github.com/CrowdHailer/Ace/issues/45" TITLE : implement push promise BODY : - check stream state before sending, - ensure create stream_id is for local peer - start worker for stream

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Promact/md2/issues/223" TITLE : show picker without input BODY : i want to be able to allow a user to click on an icon to select a date - at the moment it seems that the picker automatically adds a fill-in and icon. can the picker be shown problematically rather than through the input ?

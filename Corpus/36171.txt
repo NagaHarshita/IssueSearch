@@ -1,0 +1,1 @@
+ URL : "https://github.com/teamksl/kpu-apps/issues/1" TITLE : get data web service BODY : $json = file_get_contents https://student.budiluhur.ac.id/kpu.php?nim=1511501288 ; // this will require php.ini to be setup to allow fopen over urls $data = json_decode $json ; var_dump $data coba di test

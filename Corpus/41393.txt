@@ -1,0 +1,1 @@
+ URL : "https://github.com/webpack-contrib/file-loader/issues/206" TITLE : 1.1.0 invalid options BODY : { test: /\. png|jpg|gif $/, use: { loader: 'url-loader', options: { limit: 10240, }, }, , } an error occurred: file loader invalid options options 'limit' should not have additional properties

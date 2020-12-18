@@ -1,0 +1,1 @@
+ URL : "https://github.com/DauphinCountyLibrarySystem/Deployment/issues/19" TITLE : remove vipre install BODY : dcls no longer uses vipre and we should not install it.

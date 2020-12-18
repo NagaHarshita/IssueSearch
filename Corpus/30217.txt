@@ -1,0 +1,1 @@
+ URL : "https://github.com/PathwayCommons/pathways-search/issues/32" TITLE : omit ctd by default BODY : it was suggested by @igorrodchenkov that 1. most of the pathways are from ctd 2. most of the ctd pathways are just one or two participants suggest to omit by default in the filter and allow users to add-back.

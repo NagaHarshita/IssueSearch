@@ -1,0 +1,9 @@
+ URL : "https://github.com/Zimmi48/bugzilla-test-2/issues/1509" TITLE : coqdoc: ... BODY : note: the issue was created automatically with bugzilla2github tool original bug id: bz 1509
+date: 2007-04-17 12:10:04 +0200
+from: david.nowak@aist.go.jp
+reported version: 8.1 last updated: 2007-04-17 12:10:04 +0200 david.nowak@aist.go.jp on 2007-04-17 12:10:04 +0200 full_name: david nowak
+version: 8.1
+os: mac os x
+submission from: 150.82.175.71 150.82.175.71 coqdoc do not parse closing double brackets.
+see for example the comment after the proof of
+theorem well_founded_gtof in the standard library. http://coq.inria.fr/v8.1/stdlib/coq.arith.wf_nat.html david.nowak@aist.go.jp on 2007-07-04 17:04:33 +0200 corrigé r9818

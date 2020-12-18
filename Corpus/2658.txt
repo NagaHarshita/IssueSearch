@@ -1,0 +1,1 @@
+ URL : "https://github.com/yargalot/AccessSniff/issues/34" TITLE : cli exit code BODY : ideally, the cli would return with an exit code of 0 if there are no errors, and 1 if there was at least 1 error. that would make it easy to integrate it with other scripts, and especially into a continuous integration pipeline.

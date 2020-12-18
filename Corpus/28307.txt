@@ -1,0 +1,1 @@
+ URL : "https://github.com/nebtex/hybrids/issues/15" TITLE : flatbuffers warm up BODY : - read about flatbuffers http://google.github.io/flatbuffers/ - create a schema and test it in golang, generate an object with flatbuffers and read it back

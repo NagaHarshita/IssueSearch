@@ -1,0 +1,1 @@
+ URL : "https://github.com/hcrlab/access_teleop/issues/23" TITLE : fix alignment of buttons BODY : some of the buttons in simplebuttons.html are not perfectly aligned right now. this issue is to make them perfectly aligned.

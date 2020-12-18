@@ -1,0 +1,1 @@
+ URL : "https://github.com/juxtamor/fiestaloca/issues/2" TITLE : db comments > note BODY : https://github.com/juxtamor/fiestaloca/blob/master/fiestaloca.sql l62 utilisez plutôt un plus petit nombre, votre note n'atteindra jamais plus d'un milliard... elle sera sans doute de 1 voir 0 à 5 voir 10 ? un smallint c'est mieux :

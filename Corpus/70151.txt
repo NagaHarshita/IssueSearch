@@ -1,0 +1,1 @@
+ URL : "https://github.com/sm-react/storybook-chapters/issues/3" TITLE : url routing not working BODY : actual behaviour: given i opened a story when i refresh the page then i am at the root of the storybook expected behaviour: given i opened a story when i refresh the page then the story is still open

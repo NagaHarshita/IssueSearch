@@ -1,0 +1,1 @@
+ URL : "https://github.com/jjlopez/descargar-cfdi/issues/8" TITLE : nuevo login con captcha BODY : el sat cambió el login de acceso al portal y ahora pide un captcha por lo que no se puede iniciar sesión desde python, al menos no con estos archivos.. alguna solución o_o

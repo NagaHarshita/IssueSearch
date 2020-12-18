@@ -1,0 +1,1 @@
+ URL : "https://github.com/Jean-Baptiste-Camps/stemmatology/issues/1" TITLE : options to implement BODY : some options are declared but not used, or not used at every level where they are needed. we need to finish implementing: - alternatereadings at every level in the pcc.exploratory group; - limit > 0 in the pcc.stemma group; - interactive = true everywhere.

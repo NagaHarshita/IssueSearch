@@ -1,0 +1,1 @@
+ URL : "https://github.com/koute/cargo-web/issues/1" TITLE : packaging an app BODY : i'd love to see a command or arg that allowed building the app into a deployable package. today i use this build script https://github.com/anowell/quasar/blob/master/www/bin/build . something like cargo-web package or maybe just cargo-web build -d <outdir> --release .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/runtastic/request_handler/issues/20" TITLE : further improve errors BODY : currently the error messages of some of the subclassed errors are redundant and could be simplyfied other errors still need some form of subclassing and alignment

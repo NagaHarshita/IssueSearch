@@ -1,0 +1,1 @@
+ URL : "https://github.com/rcd27/stasyandex/issues/5" TITLE : add first acceptance test BODY : the task is to add first acceptance test and run it on ci. dependent on 4

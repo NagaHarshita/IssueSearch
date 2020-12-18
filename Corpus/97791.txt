@@ -1,0 +1,1 @@
+ URL : "https://github.com/iit-cs585/assignments/issues/38" TITLE : how to save and load model BODY : hi professor, i am trying to save word2vec model the first time and then load the save model to reduce running time. i am able to save the model via model.save 'file_name but word2vec.load file_name is showing error saying no attribute 'load'. could you please guide me.

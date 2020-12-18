@@ -1,0 +1,1 @@
+ URL : "https://github.com/sptq/report-polluter/issues/1" TITLE : add ci tools BODY : - add travis - link https://travis-ci.org/ - add git magic - link https://gitmagic.io/ - add code climate - link https://codeclimate.com/ - add code ship - link codeship.com

@@ -1,0 +1,1 @@
+ URL : "https://github.com/sanity-io/gradient/issues/532" TITLE : undefined in every path? BODY : made this typo id in path ' ' and discovered it matches any document. would make more sense if undefined is in no paths?

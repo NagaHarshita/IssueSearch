@@ -1,0 +1,1 @@
+ URL : "https://github.com/ctubio/Krypto-trading-bot/issues/299" TITLE : missed wallet data BODY : using pairs with zero balance on one side cause wallet data missing.

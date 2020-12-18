@@ -1,0 +1,1 @@
+ URL : "https://github.com/hardware/postfixadmin/issues/13" TITLE : port not accessible BODY : i have deployed this server on cent os and opened the port 8888 for my network, but i am not able to access the port, niether i see it opened on my machine, is there any setting to be done with this docker container in docker-compose.yml

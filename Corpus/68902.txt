@@ -1,0 +1,1 @@
+ URL : "https://github.com/dmitrizzle/Analog.Cafe/issues/127" TITLE : smart content scheduler BODY : ability to define time slots and fill them in, like in buffer app. should also be able to have custom posting schedule time and ability to rearrange posts within slots.

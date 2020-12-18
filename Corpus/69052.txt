@@ -1,0 +1,1 @@
+ URL : "https://github.com/wwilsman/monopoly-wallet/issues/20" TITLE : start responsive styles BODY : for now the game looks best in portrait mode on iphones. we should make adjustments based on the screen dimensions. no real plans on how this will look when viewed on something like an ipad

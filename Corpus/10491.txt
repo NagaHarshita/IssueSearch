@@ -1,0 +1,1 @@
+ URL : "https://github.com/Steem-FOSSbot/steem-fossbot-voter/issues/54" TITLE : clean up logging BODY : there is far too much raw data and other verbose logging going to the console. clean up

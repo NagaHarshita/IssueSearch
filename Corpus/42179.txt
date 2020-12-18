@@ -1,0 +1,1 @@
+ URL : "https://github.com/straker/html-tagged-template/issues/25" TITLE : allow sub templates ? BODY : i just got this case: let me = html <p>some text${insertimage opts } function insertimage opts { if opts.src return html <img src=${opts.src} /> else return ''; }

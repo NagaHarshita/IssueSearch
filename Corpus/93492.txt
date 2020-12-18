@@ -1,0 +1,1 @@
+ URL : "https://github.com/jbonnet/snippets/issues/10" TITLE : add viewing single snippet BODY : snippets can be long pieces of text, so showing them in an 'index' like page will imply restricting the amount of text shown. so, to fully see the text of a snippet, we need a way to show it.

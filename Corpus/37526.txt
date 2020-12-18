@@ -1,0 +1,16 @@
+ URL : "https://github.com/mpreiner/bugzilla_migration_test/issues/668" TITLE : memleak bugzilla 671 BODY : imported from bugzilla reporter: kshitij status: new severity: minor assigned to: andrew reynolds component: strings milestone: 1.6 version: master platform: pc os: windows original attachment names and ids:
+- _ debugsmt.smt2 http://cvc4.cs.stanford.edu/bugzilla_attachments/320_debugsmt.smt2 _ attachment, id 320 on 2015-09-09 13:42:02 -0700, kshitij wrote:
+> reported by pierre van de laar:
+> > hi cvc4 developers,
+> > > > when i ran the attached file on my windows pc, as follows
+> > cvc4\-2015\-09\-02\-win32\-opt.exe \-\-lang\=smt \-\-tear\-down\-incremental \-\-strings\-exp \-\-fmf\-fun debugsmt.smt2
+> > i noticed a memory leak continuous increasing memory usage > > despite the fact that due to the particular way of using push and pop, a saw\-tooth memory usage profile is expected.
+> > > > note that this example is relative simple: the problems are not related and the iteration is short.
+> > this memory leak limits my real application since cvc4 runs out of memory and crashes ,
+> > in which thousands related problems are solved iteratively.
+> > > > thanks for your attention to this issue!
+> > pierre on 2015-09-14 10:27:36 -0700, pierre van de laar wrote:
+> created attachment 320
+> attachment
+> > maill attachment was not added to bugzilla database on 2016-12-14 14:22:33 -0800, clark barrett wrote:
+> note that the new version of \-\-tear\-down\-incremental requires an argument which is the number of queries before tearing down. use \-\-tear\-down\-incremental\=1 for backwards\-compatible behavior.

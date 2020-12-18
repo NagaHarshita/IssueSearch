@@ -1,0 +1,1 @@
+ URL : "https://github.com/txthinking/brook/issues/71" TITLE : cannot run in win7 BODY : i downloaded the newest brook.exe,but i can't run it,which has error: reg add acu::exec: reg : executable file not found in %path%. btw,i can run older version of brook.exe. so i think maybe the exe file not bulid in right way, please check this issue. thanks a lot!

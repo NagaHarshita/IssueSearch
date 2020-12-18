@@ -1,0 +1,1 @@
+ URL : "https://github.com/js-girls/js-girls.github.io/issues/8" TITLE : build automatica su ci BODY : dopo che verra mergiato in master il nuovo branch 7 e' il caso di far fare il build e deploy da travis, in modo che si possano fixare typo cambiare date e altre piccole code direttamente dall'editor di github

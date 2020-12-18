@@ -1,0 +1,1 @@
+ URL : "https://github.com/ethereum/ethereumj/issues/706" TITLE : make dataword immutable BODY : mutable dataword introduces wide possibilities for hardly debugable issues while performance gains are not evident in the current implementation

@@ -1,0 +1,1 @@
+ URL : "https://github.com/caseywdunn/hutan/issues/7" TITLE : add extended pic BODY : estimate the extended phylogenetic independent contrast. rather than normalize differences across nodes by branch lengths, differencesare normalized be the expected difference obtained from replicate simulations. this allows for greater model flexibility.

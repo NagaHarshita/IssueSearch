@@ -1,0 +1,1 @@
+ URL : "https://github.com/bibledit/bibledit/issues/552" TITLE : show changes on/off BODY : when toggling the setting for showing the changes in basic mode, the updated menu is not immediately visible, it is visible after page refresh. it were better if the updated menu were visible straight after making the setting.

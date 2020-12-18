@@ -1,0 +1,1 @@
+ URL : "https://github.com/squeaky-pl/japronto/issues/52" TITLE : compile using gcc 6+ BODY : the default toolchain from manylinux docker stack relies on gcc 4.9 which doesnt generate so well optimized code anymore. i measured 20% speedups under some loads with gcc 6.3.

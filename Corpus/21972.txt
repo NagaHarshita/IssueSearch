@@ -1,0 +1,1 @@
+ URL : "https://github.com/docker/infrakit/issues/684" TITLE : hpe oneview plugin BODY : to track the hpe oneview plugin. - code migration to go in progress - code aligned with providers location - updates to support oneview 3.1

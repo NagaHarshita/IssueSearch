@@ -1,0 +1,1 @@
+ URL : "https://github.com/mpv-player/mpv/issues/4111" TITLE : mpv mux wrong audio BODY : fairly straight forward, mpv will always mux the wrong audio if a .wav file happens to be the same name as the input video file and in the same working directory as mpv and the video file.

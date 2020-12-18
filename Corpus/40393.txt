@@ -1,0 +1,1 @@
+ URL : "https://github.com/firebase/firebase-admin-node/issues/138" TITLE : type names not found BODY : operating system version: windows 10: 1709 library version: 5.5.0 firebase product: firestore npm install firebase-admin try to use the sdk have these errors show up: ! errors https://user-images.githubusercontent.com/23535075/32974120-d46a3cb0-cbc9-11e7-8d33-c6fa36cfbb33.png

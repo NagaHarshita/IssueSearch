@@ -1,0 +1,1 @@
+ URL : "https://github.com/openml/website/issues/85" TITLE : now supporting ssl BODY : effective immediately, openml.org will run on https://www.openml.org. traffic to http:// will be automatically redirected. still, please check for old references in code, documentation, config files to http://www.openml.org and update them to https.

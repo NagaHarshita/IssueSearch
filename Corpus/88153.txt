@@ -1,0 +1,1 @@
+ URL : "https://github.com/frc4911/ScoutingApp/issues/67" TITLE : more specific climb fails BODY : add more detailed reasons for climb failure: - climb too slow - robot slid down - unable to grasp rope in time - rope broke - pilot dropped rope late

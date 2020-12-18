@@ -1,0 +1,1 @@
+ URL : "https://github.com/jitsi/jitsi-meet/issues/1854" TITLE : ios jitsi-meet ios sdk pod BODY : hi, the ios sdk seems very young and my question may be premature but is there a plan to make jitsimeet.framework available through a pod? thanks

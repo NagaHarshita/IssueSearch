@@ -1,0 +1,1 @@
+ URL : "https://github.com/facebook/fb.resnet.torch/issues/189" TITLE : running time of resnets BODY : in resnet's paper, it claims that resnet50/101/152 have lower flops compared to vgg16/19. however, i get much longer forward running time in resnets than vgg-nets, e.g., resnet 152 is 4~5 times longer than vgg16 . does anyone encounter similar problem?

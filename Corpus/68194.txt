@@ -1,0 +1,1 @@
+ URL : "https://github.com/aberba/learn-coding/issues/4" TITLE : rename try.d to hello.d BODY : because this is a hello world application, the file should be named accordingly. or name it main.d because it is the main entry point for the application or app.d, if you want to use the default name from dub projects

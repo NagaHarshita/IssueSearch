@@ -1,0 +1,1 @@
+ URL : "https://github.com/McSwaggens/AimTux/issues/508" TITLE : multiple bug reports. BODY : ignore jump sometimes allows a single bullet to fire while jumping. autowall at 0 causes the weapon to fire with no visible checking. aimkey does not function when auto shoot is on.

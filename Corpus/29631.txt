@@ -1,0 +1,1 @@
+ URL : "https://github.com/almin/almin/issues/73" TITLE : memory leak testing BODY : we have already memory leak testing in perf/. andywer/leakage https://github.com/andywer/leakage andywer/leakage make easy it. we will move it to andywer/leakage https://github.com/andywer/leakage andywer/leakage as unit test.

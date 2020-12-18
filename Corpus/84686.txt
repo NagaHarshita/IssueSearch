@@ -1,0 +1,1 @@
+ URL : "https://github.com/dholde/BestFoodApp/issues/47" TITLE : directing to paypal eater BODY : user story: an eater is directed to paypal after initiating the purchase, so that he/she can pay for the meal. criteria: -> without a selected food, paypal cannot be initiated data: / screen:

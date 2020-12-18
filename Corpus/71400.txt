@@ -1,0 +1,1 @@
+ URL : "https://github.com/buthomas/Cake.Flyway/issues/8" TITLE : add flyway clean command BODY : add support for flyway clean command: https://flywaydb.org/documentation/commandline/clean

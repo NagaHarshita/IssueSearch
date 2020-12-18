@@ -1,0 +1,1 @@
+ URL : "https://github.com/theinvisible/openfortigui/issues/23" TITLE : no cookie support? BODY : i can't connect to a vpn, each time i am trying it is logging out. i get the following logs: info: connected to gateway. error: could not authenticate to gateway no cookie given . info: closed connection to gateway. info: logged out.

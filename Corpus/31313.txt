@@ -1,0 +1,1 @@
+ URL : "https://github.com/sveneisenschmidt/yay/issues/128" TITLE : send mail on events BODY : - add mail catcher for local development - send welcome mail when a new player is created - send mail when a new achievement is granted

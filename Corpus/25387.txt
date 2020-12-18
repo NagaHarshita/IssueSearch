@@ -1,0 +1,1 @@
+ URL : "https://github.com/ADVRHumanoids/XBotGUI/issues/30" TITLE : xml double parsing BODY : find out why in some pcs double are correctly parsed with dot separator and in other pcs the comma separator is needed.

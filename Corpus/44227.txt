@@ -1,0 +1,1 @@
+ URL : "https://github.com/anaggh/Bludit-Search/issues/2" TITLE : error - cache limiter BODY : i'm getting this: warning: session_start : cannot send session cache limiter - headers already sent output started at /local_server/lublin-city/search.php:47 in /local_server/lublin-city/bl-kernel/helpers/session.class.php on line 40 not sure how to solve this

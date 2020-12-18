@@ -1,0 +1,1 @@
+ URL : "https://github.com/Abjad/ide/issues/214" TITLE : add @@ , , ^^ , BODY : - add @@ for edit-every - add for pytest-every - add ^^ for doctest-every - add for open-every-pdf

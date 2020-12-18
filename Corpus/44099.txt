@@ -1,0 +1,1 @@
+ URL : "https://github.com/MPBA/pyHRV/issues/32" TITLE : ease pyphysio imports BODY : now we should write: import pyphysio.filters.filters as flt why not just: import pyphysio.filters as flt

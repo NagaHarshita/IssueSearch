@@ -1,0 +1,1 @@
+ URL : "https://github.com/pa-de-solminihac/dev-docker/issues/2" TITLE : include https on demand BODY : as many website used https as procotol, he would be welcome to launch container with this protocol or not. container may test at launch if a dev/certifs directoy exists and then to choose what protocol to use

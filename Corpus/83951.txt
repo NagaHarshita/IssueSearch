@@ -1,0 +1,1 @@
+ URL : "https://github.com/exxeleron/qPython/issues/47" TITLE : configure tox for testing BODY : create tox configuration for convenient testing against multiple python versions.

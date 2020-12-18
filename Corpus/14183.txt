@@ -1,0 +1,1 @@
+ URL : "https://github.com/metrue/fx/issues/53" TITLE : add julia support BODY : i'm trying to come up with a julia implementation, this can make fx pretty useful for scientists. the first steps seem fine, httpparser.jl seems to fail to build on the docker image. once this is fixed, the julia integration can go further

@@ -1,0 +1,1 @@
+ URL : "https://github.com/cloudfoundry/python-buildpack/issues/73" TITLE : potential security issue BODY : hi, in the context of a security review of a cf app based on this buildpack, i found something wihich is in my opinion a potential general vulnerability of services build with this buildpack. whom could i contact with this?

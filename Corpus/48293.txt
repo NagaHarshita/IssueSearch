@@ -1,0 +1,1 @@
+ URL : "https://github.com/villermen/runescape-cache-tools/issues/56" TITLE : return cloned objects BODY : similar to cachefileinfo.clone but for other classes. this list might be expanded: - binaryfile in entryfile

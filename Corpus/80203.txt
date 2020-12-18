@@ -1,0 +1,1 @@
+ URL : "https://github.com/End-to-end-provenance/RDataTracker/issues/308" TITLE : testing multiple version BODY : as discussed this morning we could test multiple version https://docs.travis-ci.com/user/languages/r/ r-versions . this may break things at first, but we could catch issue with future version of r before releases.

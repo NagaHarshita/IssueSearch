@@ -1,0 +1,1 @@
+ URL : "https://github.com/DistanceDevelopment/distance-bugs/issues/176" TITLE : new dsm options BODY : we plan to include the - dsm.var.prop variance propagation method - change reml to be the default fitting algorithm - add the tweedie distribution - improve clarity of diagnostic plots

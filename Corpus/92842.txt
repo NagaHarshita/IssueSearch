@@ -1,0 +1,1 @@
+ URL : "https://github.com/chaijs/chai-http/issues/192" TITLE : a package with new version BODY : hello! please create new package 3.0.1. i have some troubles with superagent : ^2.0.0 from package 3.0.0 because npm installs superagent with version <3.0.0 . i install chai-http from master now.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/intelliants/subrion-plugin-slider/issues/4" TITLE : search does not work BODY : search gives white page when this plugin is enabled and you try to search for something using core search. can be reproduced with the directory script installed.

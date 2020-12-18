@@ -1,0 +1,1 @@
+ URL : "https://github.com/timqian/my-notes/issues/155" TITLE : switch between python 2,3 BODY : bash list local versions pyenv versions list all versions avaleble pyenv install --list install a version pyenv install 3.6.3 switch to a version globally pyenv global 3.6.3 ref https://www.zhihu.com/question/22846291/answer/60924884

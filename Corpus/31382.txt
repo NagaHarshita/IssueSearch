@@ -1,0 +1,1 @@
+ URL : "https://github.com/darwinfroese/hacksite/issues/5" TITLE : setup email service BODY : hacksite needs an email service for sending emails for account confirmation and forgot your password. setup service in aws for email create an interface for sending emails setup a dummy service for testing email sending

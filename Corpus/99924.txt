@@ -1,0 +1,1 @@
+ URL : "https://github.com/Sonkun/python-sfml/issues/144" TITLE : not able to move a sprite? BODY : well, there is sprite.move method, but it requires to create a tuple on each frame, wasting memory. would be great if something simple as that worked: sprite.position.x += 5

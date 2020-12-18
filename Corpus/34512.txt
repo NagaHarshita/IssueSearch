@@ -1,0 +1,1 @@
+ URL : "https://github.com/antonioribeiro/google2fa/issues/89" TITLE : class does not exist BODY : i'm getting this error with either 5.4 or 5.5 laravel versions: class pragmarx.google2fa does not exist already tried composer update... any ideia?

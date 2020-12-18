@@ -1,0 +1,1 @@
+ URL : "https://github.com/btd/rollup-plugin-visualizer/issues/4" TITLE : error with rollup 0.41.4 BODY : hi, unfortunatly this doesn't seem to work with the stated version of rollup. i get the error: unexpected token {

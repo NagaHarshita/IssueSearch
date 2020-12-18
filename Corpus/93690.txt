@@ -1,0 +1,1 @@
+ URL : "https://github.com/chariotsolutions/phonegap-nfc/issues/296" TITLE : andorid example don't work BODY : when i use this https://github.com/chariotsolutions/phonegap-nfc/blob/master/doc/gettingstartedcli.md example and compile, install it dosn't work. i compiled, installed and got information that put nfc into the device but when i put it nothing happens

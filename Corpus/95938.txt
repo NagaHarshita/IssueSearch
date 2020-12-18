@@ -1,0 +1,1 @@
+ URL : "https://github.com/timofurrer/colorful/issues/1" TITLE : doesn't work on win 7 cmd. BODY : the example doesn't work in win 7 cmd, it would print all the control codes out. but: 1. it works in cmder \| console emulator http://cmder.net/ 2. colorama works in both cmd and cmder.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/lxzxl/koa-i18next-middleware/issues/5" TITLE : undefined variable i BODY : https://github.com/lxzxl/koa-i18next-middleware/blob/aca460176836cd86258ee88b67b920c46dc2d1ab/src/index.js l11 this line is referencing undefined variable i . i suspect the line is supposed to be written as: if !ignores.some ignore => ctx.path.includes ignore {

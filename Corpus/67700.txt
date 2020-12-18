@@ -1,0 +1,1 @@
+ URL : "https://github.com/swagger-api/swagger-play/issues/133" TITLE : publish latest to maven BODY : i'm trying to use this: https://github.com/swagger-api/swagger-play/blob/master/play-2.4/swagger-play2/app/play/modules/swagger/swaggerapplicationloader.scala but it isn't available in the latest snapshot published to maven. can this be published? would be much appreciated!

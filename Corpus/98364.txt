@@ -1,0 +1,1 @@
+ URL : "https://github.com/TypeStrong/atom-typescript/issues/1312" TITLE : integrate with busy-signal BODY : please consider to integrate with busy-signal https://github.com/steelbrain/busy-signal so we can get rid of multiple indicators in the status-bar.

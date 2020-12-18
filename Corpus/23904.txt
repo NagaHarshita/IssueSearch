@@ -1,0 +1,1 @@
+ URL : "https://github.com/infinitefire/IssueTrackingSystem/issues/9" TITLE : restful api 명세 BODY : 목적 - crud 기능 구현 이전에 필요한 url들을 상세히 명세 진행 - 기본 기능 구현을 위한 필수 url 추출 - 사용될 객체 또는 클래스 별 url 구분 - 기능 별 상세 url 도출 - 완성된 url 문서화 및 wiki 등록 & 공유 예시 - url : /users/update - 상세 : user 사용자 정보 , update 정보수정 , put - 역할 : 특정 사용자 단일 의 정보를 수정

@@ -1,0 +1,1 @@
+ URL : "https://github.com/tannerlinsley/react-table/issues/60" TITLE : on row click take 2 BODY : hey! i've found out that 5.x release missing ontrclick callback. should i send one more pr or you intentionally removed this feature?

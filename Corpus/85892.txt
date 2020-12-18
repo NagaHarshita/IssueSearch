@@ -1,0 +1,1 @@
+ URL : "https://github.com/schemaorg/schemaorg/issues/1694" TITLE : full text search glitches BODY : search for depict http://schema.org/docs/search_results.html q=depict : - why does it return http://schema.org/image ? that word doesn't appear there! - why does it not return http://schema.org/contentlocation where depicted appears?

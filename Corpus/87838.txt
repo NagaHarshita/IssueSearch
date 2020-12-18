@@ -1,0 +1,1 @@
+ URL : "https://github.com/fpcorso/quiz_master_next/issues/590" TITLE : mathjax cdn shutting down BODY : general description the current cdn for mathjax is shutting down so we need to use an alternative method for getting mathjax onto the page for the quizzes. their new recommended cdn is: https://cdnjs.cloudflare.com/ajax/libs/mathjax/0.1/mathjax.js?config=tex-mml-am_chtml

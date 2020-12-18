@@ -1,0 +1,1 @@
+ URL : "https://github.com/chrishelgert/hapi-rest-proxy/issues/8" TITLE : ?url= 500 creates an error BODY : if you call the proxy without a value, you get an error. example bash curl -s -o /dev/null -i -w %{http_code} http://localhost:8080/?url= returns the status code 200 with an empty page. log bash 2017-5-13 16:57:51 | get | 500 |

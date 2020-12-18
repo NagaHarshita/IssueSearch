@@ -1,0 +1,1 @@
+ URL : "https://github.com/edgi-govdata-archiving/web-monitoring-ui/issues/61" TITLE : assign domains to users BODY : each analyst team member is responsible for a set of domans/url patterns. the ui should reflect this by only showing them those domains while they're working.

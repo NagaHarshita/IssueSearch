@@ -1,0 +1,1 @@
+ URL : "https://github.com/easydigitaldownloads/edd-user-history/issues/13" TITLE : if edd is disabled BODY : testing the plugin, i noticed the following error. there is no check if edd is disabled. i disabled the plugin and there was errors throwing around. i think u need to check that and cover it! :

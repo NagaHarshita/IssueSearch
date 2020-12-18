@@ -1,0 +1,1 @@
+ URL : "https://github.com/fbbdev/plot/issues/13" TITLE : proper unicode support BODY : when querying string length for alignment, either: - properly count unicode character width see https://sourceforge.net/p/joe-editor/mercurial/ci/default/tree/joe/unicode.c l504 or at least - count grapheme clusters i.e. ignore non-printable and combining characters

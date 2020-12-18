@@ -1,0 +1,1 @@
+ URL : "https://github.com/score-p/scorep_plugin_hdeem/issues/3" TITLE : change sync plugin to pmpi BODY : change from mi mpi to pmpi to avoid possible clashes with score-p

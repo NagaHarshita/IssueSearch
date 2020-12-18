@@ -1,0 +1,1 @@
+ URL : "https://github.com/pstavirs/ostinato/issues/219" TITLE : tshark version problem BODY : ostinato 0.8 does not work well when importing pcap files : with new versions of wireshark/tshark 2.2.6 for me , hex dump part for ip version & header length is changed from x45 to x04, triggering some alerts from wireshark when replayed. thanks for correcting it.

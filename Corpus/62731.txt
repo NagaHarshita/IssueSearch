@@ -1,0 +1,1 @@
+ URL : "https://github.com/Polyneue/gulp-asset-cache/issues/5" TITLE : create a changelog file BODY : add a changelog file based on http://keepachangelog.com/en/0.3.0/ keepachangelog.com for better module documentation.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/maxdome/ai-first-flashbriefing-maxdome/issues/10" TITLE : add cloud watch and kibana BODY : because the manual log export of beanstalk isn't very flexible add cloud and kibana to have live log streams and analyses.

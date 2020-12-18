@@ -1,0 +1,3 @@
+ URL : "https://github.com/rsmontero/redmine_test/issues/92" TITLE : debian vmcontext script BODY : --- author name: rolandas naujikas rolandas naujikas original redmine issue: 2335, https://dev.opennebula.org/issues/2335
+original date: 2013-09-25
+original assignee: javi fontan --- debian one-context package of version 4.2.1 couse many problems. it starts too late, because of required-start: $all . on shutdown it is reexecuted because of default-stop: 0 1 6 and update-rc.d vmcontext defaults 9 99 . the previous version 4.0.1 was without such problems at least with other problems also .

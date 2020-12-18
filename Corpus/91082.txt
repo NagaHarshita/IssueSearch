@@ -1,0 +1,1 @@
+ URL : "https://github.com/kangax/fabric.js/issues/4057" TITLE : svg fill blur not working BODY : version 1.7.4 test case http://jsfiddle.net/otterotter/77bf32py/ steps to reproduce click load svg at the bottom. the bottom of this svg has a blur, but it shows up as a hard black line in fabric. expected behavior blur expected. actual behavior no blur.

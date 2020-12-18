@@ -1,0 +1,12 @@
+ URL : "https://github.com/Borgen1/achievements/issues/130" TITLE : q49 - enhetstestning BODY : enhetstestning _ta fram lämpliga enhetstester, motivera dem, och förklara vad testerna visar._ det står dig fritt fram att använda cunit http://cunit.sourceforge.net/example.html , junit http://junit.org , eller motsvarande. detta kan redovisas
+både under projektet eller tidigare. ett tips är att börja skriva
+tester från sprint 2 eftersom tester tenderar att förkorta
+utvecklingstiden så fort man blivit varm i kläderna med språket
+man programmerar i. enhetstester fokuserar på enskilda funktioner och metoder. ett bra
+enhetstest kan köras helt automatiserat, är läsbart och prövar
+endast en enda logisk funktion/koncept. enhetstester har flera
+funktioner, bl.a. gränssnittsdokumentation genom exempel, stöd vid
+debuggning av kod genom dokumentation av felaktiga indata, och i
+testdriven utveckling tdd skrivs testerna före koden de skall
+testa för att bena ut specifikationer och sätta fingret på
+oklarheter. ge gärna kommentarer och rapportera buggar https://github.com/ioopm-uu/achievements/commits/master/q49.md klicka på den senaste commiten

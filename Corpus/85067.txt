@@ -1,0 +1,1 @@
+ URL : "https://github.com/archetypalsxe/plus-minus-server/issues/9" TITLE : endpoints: add validation BODY : add validation to adding users/activities/weights. example: shouldn't be able to add activities on non existent users, and shouldn't be able to use invalid dates

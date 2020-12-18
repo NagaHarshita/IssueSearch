@@ -1,0 +1,1 @@
+ URL : "https://github.com/larshp/abapOpenChecks/issues/340" TITLE : up to 1 rows BODY : abap select foo up to 1 rows from zfoo into lv_bar where case = iv_case. endselect.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/openshift/origin/issues/17282" TITLE : gce latest builds: no srpm BODY : /kind bug @smarterclayton our gce latest rpmbuilds aren't pushing up the srpms anymore since the refactor. is there a strong reason not to? /cc @arilivigni /assign @smarterclayton

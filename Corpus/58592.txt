@@ -1,0 +1,1 @@
+ URL : "https://github.com/GoogleCloudPlatform/golang-samples/issues/200" TITLE : spanner array examples BODY : please make some example that includes use of arrays. i tried 'unmarshalling' the row element type string into string and string, but it fails with this: type string cannot be used for decoding array string

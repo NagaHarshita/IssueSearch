@@ -1,0 +1,1 @@
+ URL : "https://github.com/FAC10/week1-jzlp/issues/28" TITLE : improve profiles styling BODY : - add transparency to background to improve text contrast - make profile elements all children of same parent element and add flex styling to space the kiddies evenly see contact section - give images a max-width

@@ -1,0 +1,1 @@
+ URL : "https://github.com/TeamBeyond/Street-Art-Atlanta/issues/16" TITLE : top street art locations BODY : nav menu should display the most popular street art locations. requires location visits to be recorded in database and most popular locations to be calculated then populated on nav menu. clicking should take you to location.

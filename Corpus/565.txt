@@ -1,0 +1,1 @@
+ URL : "https://github.com/milkey-mouse/swood/issues/26" TITLE : port to c BODY : create a new branch and start hacking it will be easier to integrate as a vst/virtual midi device if it's in c/c++

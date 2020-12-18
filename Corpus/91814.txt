@@ -1,0 +1,1 @@
+ URL : "https://github.com/SeleniumHQ/selenium/issues/4391" TITLE : update promise definition BODY : since typescript 2.4: > type 'typeof promise' is not a valid async function return type in es5/es3 because it does not refer to a promise-compatible constructor value. see https://github.com/microsoft/vscode/pull/30228 and https://github.com/microsoft/vscode/pull/30268

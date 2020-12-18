@@ -1,0 +1,1 @@
+ URL : "https://github.com/sugarlabs/rpi23-gen-image/issues/3" TITLE : usb auto mount BODY : usb drives don't get automatically mounted on the frame whenever a new drive is connected. the command 'lsblk' when executed in the terminal activitiy does list the attached usb drives though.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/dgraph-io/dgraph/issues/951" TITLE : fix issue with iteration. BODY : https://github.com/dgraph-io/dgraph/blob/master/query/query.go l872 for i, uid := range uids { if uid == 0 { uids i = uids len uids -1 uids = uids :len uids -1 } } this loop will not work as expected if the element at len-1 that we swapped with is a 0 which will be missed.

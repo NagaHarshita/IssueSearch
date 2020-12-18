@@ -1,0 +1,1 @@
+ URL : "https://github.com/Jungyubw/newTCAMT/issues/163" TITLE : cloning and dragging a ts BODY : an alert message should be prompted to advice the user if the conformance profile in the new location is different from the location where the test step came from. user must apply the a new cp.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/tempesta-tech/tempesta/issues/834" TITLE : tls: false start BODY : the tls extension is defined in rfc 7918 https://tools.ietf.org/html/rfc7918 , but mbedtls seems doesn't support it.

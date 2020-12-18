@@ -1,0 +1,1 @@
+ URL : "https://github.com/rstats-db/bigrquery/issues/147" TITLE : switch to current sql BODY : provide a pkgconfig https://github.com/gaborcsardi/pkgconfig interface for packages to use update dplyr sql generation code update dbi tests bump major version number

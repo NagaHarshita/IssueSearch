@@ -1,0 +1,1 @@
+ URL : "https://github.com/test-thinkmobile/testing/issues/4" TITLE : crash on android 7.0 BODY : java.lang.runtimeexception: epic error occurred, have fun i18n.t 'device_word' : vbox86p i18n.t 'device_model' : nexus 5x api 23 i18n.t 'device_brand' : android i18n.t 'device_manufacturer' : genymotion i18n.t 'device_serial' : 1234567

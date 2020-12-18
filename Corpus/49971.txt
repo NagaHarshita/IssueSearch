@@ -1,0 +1,1 @@
+ URL : "https://github.com/mapeveri/django-musette/issues/72" TITLE : user activation mail. BODY : hello @mapeveri, i don't want to send your user activation mail to user on user creation. can you make it as optional.

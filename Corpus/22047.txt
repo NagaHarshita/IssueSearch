@@ -1,0 +1,1 @@
+ URL : "https://github.com/vrtadmin/CASC/issues/4" TITLE : idb storage issues BODY : when assembly and/or notes surpass the max length for a string saved to ida's idb db the data gets truncated and pickling will not work. this will cause errors retrieving the sub signature.

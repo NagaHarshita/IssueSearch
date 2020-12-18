@@ -1,0 +1,1 @@
+ URL : "https://github.com/byulparan/cl-collider/issues/9" TITLE : local-buf not working ? BODY : local-buf 2048 sends : there is no applicable method for the generic function: <standard-generic-function sc::max-local-bufs x30200156daff> when called with arguments: nil

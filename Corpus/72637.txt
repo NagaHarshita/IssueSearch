@@ -1,0 +1,1 @@
+ URL : "https://github.com/anhnongdan/Spark1.6_Problems/issues/1" TITLE : can't write parquet file BODY : a table with 26863 records. => 1 node on cluster is timeout.

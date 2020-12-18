@@ -1,0 +1,1 @@
+ URL : "https://github.com/vervallsweg/cast-web-api/issues/22" TITLE : better exception handling BODY : example: /setmediaplayback?params=null will throw exceptions and crash the whole api.

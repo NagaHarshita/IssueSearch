@@ -1,0 +1,1 @@
+ URL : "https://github.com/middleman/middleman-blog/issues/331" TITLE : link to n-th page BODY : it would be nice to expose links to arbitrary pages, instead of just first, prev, next, and last. it looks like they're generated here https://github.com/middleman/middleman-blog/blob/master/lib/middleman-blog/paginator.rb l149

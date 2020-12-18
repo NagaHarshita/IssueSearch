@@ -1,0 +1,1 @@
+ URL : "https://github.com/shockeyt/flybox/issues/1" TITLE : heroku deploy issue BODY : heroku logs give me this error: mongoerror: failed to connect to server localhost:27017 http://stackoverflow.com/questions/24710490/error-failed-to-connect-to-localhost27017-from-nodejs-to-mongodb http://stackoverflow.com/questions/32229152/mongodb-error-failed-to-connect-to-localhost27017

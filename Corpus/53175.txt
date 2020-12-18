@@ -1,0 +1,1 @@
+ URL : "https://github.com/GUI/lua-resty-auto-ssl/issues/45" TITLE : deploy an opm package? BODY : according to the luarocks page, its use is now discouraged: http://openresty.org/en/using-luarocks.html would you be interested in releasing an opm package also? :

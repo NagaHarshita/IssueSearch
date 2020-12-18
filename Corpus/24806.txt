@@ -1,0 +1,1 @@
+ URL : "https://github.com/Badgerpoo/conf2yaml/issues/2" TITLE : too many for loops BODY : there must be a better way to iterate and nest the yaml than using tons of for loops.

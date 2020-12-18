@@ -1,0 +1,1 @@
+ URL : "https://github.com/photogabble/go-git-archive/issues/3" TITLE : don't overwrite build zip BODY : if the build.zip file exists it should either exit or create a file build-{timestamp}.zip instead.

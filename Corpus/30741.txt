@@ -1,0 +1,1 @@
+ URL : "https://github.com/centreon/centreon/issues/5864" TITLE : question db cleanup BODY : is there any built-in tool that cleanup database for duplicate entries such as ghost hosts and services. ive been getting lots of duplicate entries over the year ! image https://user-images.githubusercontent.com/25208457/32525765-2cba6648-c40d-11e7-8343-ee7f42634371.png

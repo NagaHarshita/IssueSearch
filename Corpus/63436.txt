@@ -1,0 +1,1 @@
+ URL : "https://github.com/PedroNCordeiro/Genetics/issues/1" TITLE : drawing centered graphs BODY : in graphs.py, the control_points list should scale the data points given by the list deltas according to the screen dimensions.

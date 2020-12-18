@@ -1,0 +1,1 @@
+ URL : "https://github.com/daemonraco/toobasic/issues/199" TITLE : criteria on search engine BODY : situation suppose a site that stores a collection of vehicles and it has three major types: cars trucks others if you look for fiat , you'll get all mathces, even if you wanted those from certain type. what to do create a mechanism to filter searches using specific criterias.

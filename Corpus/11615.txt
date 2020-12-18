@@ -1,0 +1,1 @@
+ URL : "https://github.com/RBM-GITHUB/Shapes/issues/8" TITLE : implement equals BODY : > each class must implement an equals method, inherited from object, that returns true if both the area and perimeter of two objects are equal and the objects are the same type. according to the spec.

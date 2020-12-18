@@ -1,0 +1,1 @@
+ URL : "https://github.com/Aliciahan/LisaGraphicDesignPrincipal/issues/3" TITLE : the first playground BODY : in this playground, we want to draw a circle where the cursor clicked, and if the user holds the mouse button, the circle will become bigger. - canvas area - js events - switch - reset - print

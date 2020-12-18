@@ -1,0 +1,1 @@
+ URL : "https://github.com/rickekelschot/grunt-json-to-sass/issues/6" TITLE : update npm to 0.0.5 BODY : https://www.npmjs.com/package/grunt-json-to-sass states 0.0.4 is the latest of 4 releases . this prevents the installation of the latest working version via npm.

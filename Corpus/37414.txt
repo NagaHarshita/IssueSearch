@@ -1,0 +1,1 @@
+ URL : "https://github.com/mojobojo/LADX-Disassembly/issues/12" TITLE : make doesn't compile BODY : i'm new to this disassembly project but when i run make it gives me an error: error: file not found ../../zelda.gbc makefile:25: recipe for target 'bin/banks/bank_00_0.bin' failed is there more to this than simply running make ?

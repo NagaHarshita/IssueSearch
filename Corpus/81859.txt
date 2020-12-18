@@ -1,0 +1,1 @@
+ URL : "https://github.com/Jesus/dropbox_api/issues/33" TITLE : ability to revoke a token BODY : it looks like there's currently no ability to revoke a token once a user has completed the oauth flow. i can look into adding it if that's something you'd accept in a pr.

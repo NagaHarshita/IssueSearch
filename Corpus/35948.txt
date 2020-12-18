@@ -1,0 +1,1 @@
+ URL : "https://github.com/amaclean2/machshop-frontend/issues/16" TITLE : fix operation saving BODY : on operation save, if there is another operation that’s editable, it gets deleted. it shouldn’t be like that. when one gets saved, then the others should still display as editable. hint: when new operation button is clicked save a blank operation.

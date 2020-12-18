@@ -1,0 +1,1 @@
+ URL : "https://github.com/xenocrat/chyrp-lite/issues/54" TITLE : translations not working BODY : i copied the english chyrp.pot and did my translation then i copied it to /includes/locale/de_de/lc_messages and named it chyrp.pot. in settings you then see german as an option. but when i select it and click update the language doesnt change.

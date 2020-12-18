@@ -1,0 +1,1 @@
+ URL : "https://github.com/termux/termux-create-package/issues/5" TITLE : accessing custom package. BODY : i've created my own package by putting up json file and using apt install ./ but if i try to execute it using my package name then it shows no command found package is successfully installed please help me with the issue..

@@ -1,0 +1,1 @@
+ URL : "https://github.com/globaltommy/loopback-connector-for-influxdb/issues/1" TITLE : state of the connector BODY : hello, i just landed on your repo looking for a connector for influxdb. i was wondering if you have a sample usage. i have found one from someone named gerben.bas but can't make it work so far.

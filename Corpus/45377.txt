@@ -1,0 +1,1 @@
+ URL : "https://github.com/documentationjs/documentation/issues/814" TITLE : html page title blank BODY : the current generated page title in index.html is <title> | documentation</title> . how do i get a better title in there?

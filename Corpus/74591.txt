@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla-services/screenshots/issues/3266" TITLE : extend system fonts list BODY : if you wanna use system fonts i would suggest to extend this list html, body { font-family: sf ui text, sans-serif; } into html, body { font-family: -apple-system, blinkmacsystemfont, 'segoe ui', 'helvetica neue', helvetica, ubuntu, roboto, noto, arial, sans-serif; }

@@ -1,0 +1,1 @@
+ URL : "https://github.com/as/a/issues/97" TITLE : a: missing test coverage BODY : placeholder. the main editor component is missing some test coverage that could have detected 96. fill the gap in test coverage to address this.

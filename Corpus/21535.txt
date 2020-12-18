@@ -1,0 +1,1 @@
+ URL : "https://github.com/bowbahdoe/quark/issues/1" TITLE : fix react bindings BODY : currently, reactglobalstore doesn't work when a react component unmounts. a fix would probably be impossible with how it is implemented now, so how react is integrated needs to be rethought.

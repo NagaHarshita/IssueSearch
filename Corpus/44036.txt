@@ -1,0 +1,1 @@
+ URL : "https://github.com/MarkoCen/ngPopup/issues/14" TITLE : dragging proposed fix BODY : moved mouseup from element to document like mousemove . there are times when element mouseup will not be received e.g., scrollbar is showing for content . ngpopup.zip https://github.com/markocen/ngpopup/files/697115/ngpopup.zip thanks!

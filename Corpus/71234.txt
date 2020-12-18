@@ -1,0 +1,1 @@
+ URL : "https://github.com/Rapptz/discord.py/issues/533" TITLE : add a member.user method BODY : shorthand for client.get_user id , makes more sense for something like that to be accessible from classes with borderline identical functionality.

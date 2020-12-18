@@ -1,0 +1,1 @@
+ URL : "https://github.com/freifunk-darmstadt/gluon-firmware-wizard/issues/32" TITLE : tp-link archer c2600 BODY : part of the newly added ipq608x target and still marked as broken but here it is: no rule for firmware image: gluon-ffda-0.10.0~20170329-tp-link-archer-c2600.bin no rule for firmware image: gluon-ffda-0.10.0~20170329-tp-link-archer-c2600-sysupgrade.bin

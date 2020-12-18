@@ -1,0 +1,1 @@
+ URL : "https://github.com/wolfcw/libfaketime/issues/115" TITLE : intercept select et al. BODY : the functions select/pselect/poll/epoll_wait all take a timeout parameter. if there is a custom user rate, those timeouts should be adjusted to the new speed of time.

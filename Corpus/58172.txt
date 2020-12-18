@@ -1,0 +1,1 @@
+ URL : "https://github.com/eclipse/dirigible/issues/116" TITLE : scheduler core service BODY : built-in scheduling functionality. managing jobs definitions as well as synchronizing the corresponding artifacts from the repository

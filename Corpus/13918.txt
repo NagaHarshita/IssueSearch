@@ -1,0 +1,1 @@
+ URL : "https://github.com/sarahholden/fundamentals/issues/230" TITLE : 9.2 not 'strings' BODY : diff - here is an example of a function with four strings as parameters: - here is an example of a function with four parameters: var greetuser = function firstname, lastname, year, city { console.log hello + firstname + + lastname + born in + year + from + city + ! ; };

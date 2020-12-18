@@ -1,0 +1,1 @@
+ URL : "https://github.com/DoSomething/gambit-conversations/issues/158" TITLE : loading rivescript error BODY : seen in the wild conversations prod : 2017-10-06t14:50:05.527265+00:00 app web.1 : err= typeerror: cannot read property 'getentries' of undefined level=error message=fetchrivescripts

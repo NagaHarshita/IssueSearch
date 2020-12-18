@@ -1,0 +1,1 @@
+ URL : "https://github.com/meteor/tutorials/issues/115" TITLE : automate tutorial updates BODY : issue 92 showcases the need to automate the tutorials-site update either a commit-hook, or a daily update . ideally, documentation is hosted in a way that the updates go live immediately, without further effort to implement automations commit-hooks etc.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jhlywa/chess.js/issues/152" TITLE : pgn parse issue BODY : issue parsing pgn with fen.. adding setup 1 seems to fix the issue, but if you read back the header, header options are missing : variation 43 chess: 5334 problems date 1994.??.?? round - white mate in one black white to move result fen 8/8/8/6r1/4k3/2kn1r2/8/8 w - - 0 1 1.re5

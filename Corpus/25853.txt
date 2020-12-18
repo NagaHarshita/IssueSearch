@@ -1,0 +1,1 @@
+ URL : "https://github.com/WFCD/warframe-worldstate-parser/issues/56" TITLE : add day/night cycle BODY : move day/night cycle calculation from genesis to worldstate and make it easier to fetch for others and not calculate every call

@@ -1,0 +1,1 @@
+ URL : "https://github.com/foreshadow/atom-python-run/issues/34" TITLE : cmd could not be spawned BODY : i keep getting cmd could not be spawned, although python is in my path. i am on windows 8.1 using python 3.6.1

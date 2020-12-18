@@ -1,0 +1,1 @@
+ URL : "https://github.com/unitjs/unit.js/issues/25" TITLE : docs wrong for should.eql? BODY : the docs here for should.eql say 1, 2, 3 .should.eql { '0': 1, '1': 2, '2': 3 } ; but the should docs say 'a' .should.not.be.eql { '0': 'a' } ;

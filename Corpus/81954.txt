@@ -1,0 +1,1 @@
+ URL : "https://github.com/jonathannaim/adaptablegrid/issues/6" TITLE : add a getallrowids method BODY : not so urgent this as we can loop through all the rows and call getrowidbyrow but i guess if you can do it - and make it super quick by using jquery - then it might be helpful... definitely not urgent.

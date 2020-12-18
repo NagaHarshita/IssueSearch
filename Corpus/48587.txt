@@ -1,0 +1,1 @@
+ URL : "https://github.com/markalfred/SublimeLinter-contrib-stylint/issues/7" TITLE : set config in sublime BODY : where we can set config stylint in sublime? i wanna ignore missing colon, etc

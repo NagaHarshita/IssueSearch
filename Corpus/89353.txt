@@ -1,0 +1,1 @@
+ URL : "https://github.com/maximlus/JWC-site/issues/9" TITLE : project structure rework. BODY : currently core html files live alongside various other random files. i.e mysqlsetup.sh these other files should be stored under their own unique directory to ensure healthy project management and clarity.

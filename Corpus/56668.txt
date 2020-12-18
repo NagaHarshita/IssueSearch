@@ -1,0 +1,1 @@
+ URL : "https://github.com/ogham/exa/issues/263" TITLE : not on crates.io? why? BODY : $ cargo install exa updating registry https://github.com/rust-lang/crates.io-index error: could not find exa in registry https://github.com/rust-lang/crates.io-index

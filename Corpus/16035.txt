@@ -1,0 +1,1 @@
+ URL : "https://github.com/jameslnewell/styled-components-grid/issues/8" TITLE : grid always wraps BODY : setting wrap={false} does nothing? should one of these be flex-wrap: nonwrap; : https://github.com/jameslnewell/styled-components-grid/blob/master/src/grid.jsx l16-l18

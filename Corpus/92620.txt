@@ -1,0 +1,1 @@
+ URL : "https://github.com/rust-lang/rust/issues/43296" TITLE : ! does not implement clone BODY : there is a trivial impl clone for ! { fn clone &self -> self { self } } , but ! as it stands does not implement clone . maybe we should have that available? it does implement copy . playground: https://play.rust-lang.org/?gist=3a2e62b2ed08be07de7d84d8620c4b34&version=nightly

@@ -1,0 +1,1 @@
+ URL : "https://github.com/eugene1g/font-blast/issues/1" TITLE : support buffer input? BODY : current library api only supports file: js fontblast 'font-awesome.svg', 'fa-icons' ; it would be nice to support buffer input :

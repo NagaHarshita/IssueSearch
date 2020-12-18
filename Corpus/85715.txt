@@ -1,0 +1,1 @@
+ URL : "https://github.com/Giveth/giveth-dapp/issues/159" TITLE : fix milestone type errors BODY : create milestone and campaign models and replace the corresponding objects so that there is no more type errors. <img width= 1043 alt= screen shot 2017-11-24 at 22 53 53 src= https://user-images.githubusercontent.com/7974813/33227130-8ca0d94c-d16a-11e7-8b3f-3f1c13864e48.png >

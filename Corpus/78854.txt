@@ -1,0 +1,1 @@
+ URL : "https://github.com/vanilla-framework/vanilla-framework/issues/982" TITLE : remove navigation margin BODY : currently, the navigation pattern has margin-bottom: 2rem . this causes a white strip between the navigation and the first row. ! 10544614 https://cloud.githubusercontent.com/assets/1413534/24459499/a054c3a2-1493-11e7-8a9e-b3dd0a31ace1.png

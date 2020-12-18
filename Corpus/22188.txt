@@ -1,0 +1,1 @@
+ URL : "https://github.com/fluent/fluent-bit/issues/254" TITLE : input for journald BODY : i haven't seen any question about this so i ask. is there any plan to add input source for journald?

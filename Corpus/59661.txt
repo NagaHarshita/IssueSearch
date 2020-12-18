@@ -1,0 +1,1 @@
+ URL : "https://github.com/pieceofsummer/Hangfire.Console/issues/24" TITLE : update writeline value BODY : there are certain cases i'd like to update a console write. weather it's printing out multiple parallel states of multiple processes, or even just printing out a current/total count ex: 24/30,000 . is there anyway i can do this with the current lib?

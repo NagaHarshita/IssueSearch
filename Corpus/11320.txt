@@ -1,0 +1,1 @@
+ URL : "https://github.com/BlueMagenta/eloquent-status/issues/26" TITLE : get status owner BODY : status of a model will have owner. developer can get the owner data to know which user that updated the status

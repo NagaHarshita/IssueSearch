@@ -1,0 +1,1 @@
+ URL : "https://github.com/cuappdev/tempo-api/issues/1" TITLE : validators for models BODY : users -- first character of username is a valid char, username should have case-insensitive uniqueness notification -- if it has notificationtype of likes then the post_id should not be null post -- like count >= 0

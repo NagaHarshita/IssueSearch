@@ -1,0 +1,1 @@
+ URL : "https://github.com/opendatateam/udata/issues/686" TITLE : cors is broken BODY : preflighted_requests doesn't work anymore since 0.9.1 can be reproduced with: curl -x options https://www.data.gouv.fr/api/1/organizations/57ed2fe9c751df236179df72/ => 405 method not allowed ⚠️ 🔥 it's very critical for the inspire platform whose publication tool is now broken too.

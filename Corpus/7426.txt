@@ -1,0 +1,1 @@
+ URL : "https://github.com/nicohman/prj-rev-bwfs-tea-cozy/issues/4" TITLE : flex-box in css BODY : great! i like that you challenged yourself to use flex-box in this project! one minor thing to work on would be using group selectors for any repeated styles ex: i'm seeing display: block; and display: flex; repeated a couple times each .

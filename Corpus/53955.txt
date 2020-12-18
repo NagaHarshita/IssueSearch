@@ -1,0 +1,1 @@
+ URL : "https://github.com/lightcopy/parquet-index/issues/40" TITLE : fails for empty blocks BODY : querying table fails if one of the parquet files is empty, because of the condition on non-empty blocks.

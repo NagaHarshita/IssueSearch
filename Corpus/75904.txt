@@ -1,0 +1,1 @@
+ URL : "https://github.com/iOS-Capstone/C7FIT/issues/16" TITLE : implement profile screen BODY : implement profile screen with all relevant data models, views, etc. pulls fitness data pushup count, height, weight, etc. from firebase and displays in tableview along with profile picture and name.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/BitLox/copay/issues/9" TITLE : misc ble ui fixes BODY : 1. add confirmations on adding wallet 2. add loading screens in various places 3. prettier create wallet form 4. refresh wallet list button 5. remove test ping, place somewhere else 6. icons colors screens etc. aureus/deus/bitlox

@@ -1,0 +1,1 @@
+ URL : "https://github.com/blackradley/dinmore/issues/56" TITLE : infrastructure for live BODY : the develop version deploys to the develop infrastructure on azure. there appears to be no live/production version.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/inacho/php-credit-card-validator/issues/13" TITLE : uncaught error: class BODY : hello, i can getting this error: fatal error: uncaught error: class 'creditcard' not found in .. i added with composer but how i can import your class in php file?

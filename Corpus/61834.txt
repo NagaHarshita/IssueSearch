@@ -1,0 +1,1 @@
+ URL : "https://github.com/PaddlePaddle/Paddle/issues/5843" TITLE : bug in roipooing layer. BODY : https://github.com/paddlepaddle/paddle/blob/e4397c4aa84d7d781fd3249b85eefb1d4b85e9b8/paddle/gserver/layers/roipoollayer.cpp l129-l132 if isempty is false, the outputdata is not initialized. it should be -flt_max . i'll fix it.

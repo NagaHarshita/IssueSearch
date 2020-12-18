@@ -1,0 +1,1 @@
+ URL : "https://github.com/hardillb/node-red-alexa-home-skill-web/issues/35" TITLE : writing integer32 values? BODY : hello, i am needing to be able to say: alexa, set device name to a whole number ranging from 0-999 can you make a tool for a value ?

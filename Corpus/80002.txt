@@ -1,0 +1,1 @@
+ URL : "https://github.com/PROCERGS/login-cidadao/issues/726" TITLE : support php 5.6+ and 7.0 BODY : there may be an opportunity to lift the php 5.4 restriction we have now and start using php 7.0, so we should be prepared for that and at least check how is our code running on php 5.5 to 7.0.

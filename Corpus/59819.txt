@@ -1,0 +1,1 @@
+ URL : "https://github.com/dmitrios/grafana-plugins-reftable/issues/6" TITLE : use temaplate variable BODY : hello! thanks for the plugin! can i use temaplate variable in hyperlink? i want set current group of hosts or curent time interval. is it possible?

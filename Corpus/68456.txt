@@ -1,0 +1,1 @@
+ URL : "https://github.com/keboola/syrup/issues/105" TITLE : run job - s3 attachment BODY : spuštění jobu imho zbytečně loguje do s3 a tím zpomaluje odezvu api callu. ! image https://cloud.githubusercontent.com/assets/903531/23942563/f9477c16-096c-11e7-8ae5-0ef17c8b9d2c.png ! image https://cloud.githubusercontent.com/assets/903531/23942592/14105d9c-096d-11e7-86d6-15a7dcf3c531.png

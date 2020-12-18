@@ -1,0 +1,1 @@
+ URL : "https://github.com/Hagbuck/imagetools/issues/46" TITLE : fichier de test en masse BODY : il faudrait faire un script sh qui effectue un certain nombre d'opération sur plusieurs fichier afin de générer plusieurs images de rendu pour gagner du temps lors de la démonstration et pour avoir un référentiel de performance.

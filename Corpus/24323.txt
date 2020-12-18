@@ -1,0 +1,1 @@
+ URL : "https://github.com/vikasmca-jnu/play-store-search/issues/1" TITLE : some general fixes BODY : 1. ignore __pycache__ folder & .pyc files 2. ignore db file 3. pep8 compatible code. just these minor things. i am happy with overall functionality of the program.

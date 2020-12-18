@@ -1,0 +1,1 @@
+ URL : "https://github.com/integrational/spineless/issues/4" TITLE : random status codes BODY : allow client to specify more than one status code for the response, and have the api implementation randomly pick one of the given status codes.

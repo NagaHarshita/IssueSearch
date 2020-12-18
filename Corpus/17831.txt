@@ -1,0 +1,1 @@
+ URL : "https://github.com/DotJoshJohnson/vscode-xml/issues/100" TITLE : respect tab style BODY : the auto format should respect the editor.insertspaces option. so if insertspaces is enabled, the tabs of auto format should be spaces.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/grabcode/react-native-web-starter/issues/27" TITLE : upgrade to storybook3 BODY : this will bring webpack2! and there is a nice migration guideline: https://github.com/storybooks/storybook/blob/master/migration.md

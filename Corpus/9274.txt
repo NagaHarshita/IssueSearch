@@ -1,0 +1,1 @@
+ URL : "https://github.com/pachyderm/pachyderm/issues/2562" TITLE : update gpu docs BODY : gpu docs should be updated to include information about: - deploying on gke - resource limits - resource requests i have notes i will integrate for gke and aws, and i have already updated the pix2pix example to work with the new limits: https://github.com/pachyderm/pachyderm/pull/2561.

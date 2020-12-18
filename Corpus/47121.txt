@@ -1,0 +1,1 @@
+ URL : "https://github.com/vvpossible/homebridge_yeelight/issues/23" TITLE : not searching lights. BODY : the yee light plugin does not find any of my lights. i have 2 yee light strips, fully updated with developer mode on. the only thing i see in the logs is no did id for light. is there special setting store get this working that are needed?

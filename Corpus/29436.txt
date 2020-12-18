@@ -1,0 +1,1 @@
+ URL : "https://github.com/sirupsen/logrus/issues/609" TITLE : log keys of structs BODY : this seems to have been implemented in 209, but since unimplemented. was that intentional? and if not, can we get struct keys back in the log when a struct is passed as a field?

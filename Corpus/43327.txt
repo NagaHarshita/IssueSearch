@@ -1,0 +1,24 @@
+ URL : "https://github.com/Zimmi48/bugzilla-test/issues/1544" TITLE : coq user contribution BODY : note: the issue was created automatically with bugzilla2github tool bugzilla bug id: 871
+date: 2004-11-04 08:51:30 +0100
+from: carlos@math.unice.fr
+to: last updated: 2004-11-04 08:51:30 +0100 bugzilla comment id: 1247
+date: 2004-11-04 08:51:30 +0100
+from: carlos@math.unice.fr bonjour,
+est-ce que vous avez recu ma contribution j'ai envoye un message il y a 3 semaines ?
+sinon je recopie le fichier description ci-dessous, et j'ai attache le fichier tar qui est aussi disponible a:
+http://math.unice.fr/~carlos/preprints/fpccpagcoq.tar merci---
+carlos name: catsinzfc
+title: category theory in zfc
+author: carlos simpson, carlos@math.unice.fr, http://math.unice.fr/~carlos/
+institution:cnrs, laboratoire j. a. dieudonn\'e umr 6621, universit\'e de
+nice-sophia antipolis, http://math.unice.fr/
+date: october 10th 2004
+description: in a zfc-like environment augmented by reference to the
+ambient type theory, we develop some basic set theory, ordinals, cardinals
+and transfinite induction, and category theory including functors,
+natural transformations, limits and colimits, functor categories,
+and the theorem that functor_cat a b has co limits if b does.
+keywords: set ordinal cardinal category functor natural
+transformation limit colimit functor category bugzilla comment id: 1248
+date: 2007-07-04 17:03:48 +0200
+from: carlos@math.unice.fr contribution has been integrated hh 21/11/04

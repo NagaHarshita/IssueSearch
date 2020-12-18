@@ -1,0 +1,1 @@
+ URL : "https://github.com/khaledhosny/ots/issues/117" TITLE : add more unit tests BODY : we have some unit tests already. while writing unit tests for every check in ots is a big task and not an easy one, but we think the current unit tests can be expanded a bit to make the codebase more robust and follow general best practices.

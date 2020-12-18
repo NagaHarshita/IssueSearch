@@ -1,0 +1,1 @@
+ URL : "https://github.com/omnirom/android_bootable_recovery/issues/114" TITLE : source code for d5 kernel BODY : hello, i am using twrp on d5 twrp magic for mediatek , and it works just fine. i try to see where is the kernel source code of it mtk6752 . can you please help me find the kernel code in twrp git ? another thing, does it also contain bootloader ? thank you! ranchu

@@ -1,0 +1,1 @@
+ URL : "https://github.com/SpongePowered/Ore/issues/209" TITLE : creating an organization BODY : if i create an organization, it offers the error username must be unique email has already been taken http://prntscr.com/dzj9wm . if i try again to create the same organization, it offers the error error.spongeauth.parse http://prntscr.com/dzja55 .

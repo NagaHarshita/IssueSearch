@@ -1,0 +1,1 @@
+ URL : "https://github.com/arcfide/Co-dfns/issues/296" TITLE : infinite loop in parsing BODY : the parser does not handle the following invalid syntax correctly. codfns. tt∘⊃ps ':namespace' '←{⍵}' ':endnamespace' reported by pierre kovalev via email.

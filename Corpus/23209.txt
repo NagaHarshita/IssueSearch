@@ -1,0 +1,1 @@
+ URL : "https://github.com/researchgraph/Import-XML/issues/5" TITLE : null source values BODY : the importer adds nodes with only key and no other information. this problem seems to be the result of the changes implemented to increase the import speed at https://github.com/researchgraph/import-xml/commit/ac939ca522077d2b0662dc4641e8a3a19802311e

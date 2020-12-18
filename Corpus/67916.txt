@@ -1,0 +1,1 @@
+ URL : "https://github.com/ageitgey/face_recognition/issues/206" TITLE : raspberry pi valueerror BODY : python version: 2.7 operating system: raspbian description when i am running script facerec_on_raspberry_pi.py it gives me following error: valueerror: buffer object must be one-dimensional and have unsigned byte format b

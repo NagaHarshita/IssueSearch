@@ -1,0 +1,1 @@
+ URL : "https://github.com/underscoreio/doodle/issues/50" TITLE : create a site for doodle BODY : having a little site for doodle to host documentation would be very nice. we could perhaps use the 47degrees sbt-microsite project to get this done easily.

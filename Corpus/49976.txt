@@ -1,0 +1,1 @@
+ URL : "https://github.com/BH792/chess-ruby-ii/issues/8" TITLE : user can select kings BODY : selecting a king should return an array of all valid moves

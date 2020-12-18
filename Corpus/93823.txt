@@ -1,0 +1,1 @@
+ URL : "https://github.com/perrykennethw/Flask-App/issues/2" TITLE : article list to dictionary BODY : the articles.html could benefit in clarity if you switched from article.1 to article.title by changing the format to a dict

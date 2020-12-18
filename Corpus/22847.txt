@@ -1,0 +1,1 @@
+ URL : "https://github.com/kryptxy/torrench/issues/1" TITLE : module bs4 missing BODY : received this message in my first attempt at testing the script. guy@guy-hp ~ $ torrench -p 5 suits s01e01 no module named 'bs4' please install and retry. i'm new to linux, do not know what bs4 is and where to begin to install it. assistance is appreciated.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ethcore/parity/issues/4435" TITLE : light client data cache BODY : ondemand and rpc should each store a handle.

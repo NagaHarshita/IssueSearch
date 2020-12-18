@@ -1,0 +1,1 @@
+ URL : "https://github.com/yquake2/yquake2/issues/234" TITLE : add refresh rate control BODY : i noticed the game is sometimes choosing the wrong refresh rate 60 hz rather than my native 120 hz or it gets changed when toggling vsync on or off. so being able to choose a specific refresh rate or simply always use the desktop refresh rate would be nice.

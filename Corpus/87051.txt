@@ -1,0 +1,1 @@
+ URL : "https://github.com/reactjs/react-modal/issues/465" TITLE : internet explorer problem BODY : im using the modal and everything is okay in every browser except for ie. im' using internet explorer 11 to test and when i try and use it does nothing. anyone had this issue or know what it might be?

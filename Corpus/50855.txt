@@ -1,0 +1,1 @@
+ URL : "https://github.com/sdeleon28/vimrc/issues/9" TITLE : add command for git lg BODY : add a command that runs my custom git lg command and reads it into a buffer. the command should run: vimscript :r !git lg | :ansiesc this way i can run open this from the command line with: vimscript v +gitgraphlog

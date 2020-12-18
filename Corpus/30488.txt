@@ -1,0 +1,1 @@
+ URL : "https://github.com/hangoutsbot/hangoutsbot/issues/733" TITLE : plugins not loading BODY : a fresh install of 2.7.10 does not load all plugins. 44 plugins are not loading but are present in the plugins directory.

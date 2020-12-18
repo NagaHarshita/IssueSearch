@@ -1,0 +1,1 @@
+ URL : "https://github.com/kubernetes/charts/issues/783" TITLE : chart for k8s-snapshots BODY : the following utility is a useful tool to automate snapshots of persistent volumes: https://github.com/miracle2k/k8s-snapshots i have created a chart for this tool with what i think are sane defaults. is this something that can be contributed to this repository? cheers.

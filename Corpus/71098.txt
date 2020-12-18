@@ -1,0 +1,1 @@
+ URL : "https://github.com/danfeiX/scene-graph-TF-release/issues/5" TITLE : ==none should be is none BODY : in lib/datasets/viz.py 76 lines if inds == none : should be fixed to be: if inds is none == none sometimes will make error, program will shut down.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/stevesoltys/telegram-irc/issues/7" TITLE : ssl configuration flag BODY : there is currently no configuration flag for specifying that irc bots should connect via ssl.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/paritytech/parity/issues/6569" TITLE : option to limit bandwidth BODY : it would be nice to have an option to limit the bandwidth of parity node. i got 100mbit/s up and down but want parity to use only 10% of it. this limit is not for the interface, only for syncing with the network. for example: parity --bw-limit 10 for 10mbit/s

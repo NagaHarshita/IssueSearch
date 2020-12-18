@@ -1,0 +1,1 @@
+ URL : "https://github.com/Laravel-Backpack/PageManager/issues/22" TITLE : missing use in readme BODY : please add use app\http\controllers\controller; to the pagecontroller example. the one displayed results in http 502

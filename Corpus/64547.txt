@@ -1,0 +1,1 @@
+ URL : "https://github.com/phpactor/phpactor/issues/140" TITLE : goto definition command BODY : currently the vim plugin uses pattern matching to guess the position of the definition. this could be enhanced by using the reflection service, and should probably be factored into a command.

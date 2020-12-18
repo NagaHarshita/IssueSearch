@@ -1,0 +1,1 @@
+ URL : "https://github.com/KentinC/projetColorNaute/issues/1" TITLE : bugs et à modifier BODY : a faire: - héros qui sort du cadre - stabiliser le getboundingclientrect .top - faire une option pause -> set interval et clearinterval - faire apparaitre l'image lorsque l'on perd - régler de quelques millimètres les anneaux qui dépassent

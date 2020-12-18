@@ -1,0 +1,1 @@
+ URL : "https://github.com/TarheadStudio/RuinIssues/issues/22" TITLE : hp bar placement BODY : problem: health bar is covering characters head expected result: health bar should be above the characters head, not on top of the characters head. screenshot: ! image https://cloud.githubusercontent.com/assets/6629861/25304742/b89e9630-276d-11e7-94e5-c1fdc048497d.png

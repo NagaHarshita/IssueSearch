@@ -1,0 +1,1 @@
+ URL : "https://github.com/bjango/istatserverlinux/issues/6" TITLE : show bandwidth hogs BODY : similar to glasswire on windows, or sysdig cloud for linux. would be very nice for istat to show which processes are using the bandwidth, is this currently possible? thanks!

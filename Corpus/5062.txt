@@ -1,0 +1,1 @@
+ URL : "https://github.com/vweevers/node-docker-machine/issues/6" TITLE : kill a machine BODY : i can't find how to do docker-machine kill mymachine is it a way to do it with node-docker-machine ?

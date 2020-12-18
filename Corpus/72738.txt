@@ -1,0 +1,1 @@
+ URL : "https://github.com/morizotter/SwiftyDrop/issues/62" TITLE : carthage code sign issue BODY : in my project swifty drop casues code sign error when running on device. i use latest carthage 0.27 to build swiftydrop.

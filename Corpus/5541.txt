@@ -1,0 +1,1 @@
+ URL : "https://github.com/jiwenxing/qimage-win/issues/16" TITLE : put file error BODY : put file error, post http://up-z2.qiniu.com: write tcp 10.185.18.16:58344->183.236.51.132:80: wsasend: an existing connection was forcibly closed by the remote host. last time: 18.94 s, average speed: 7.1 kb/s

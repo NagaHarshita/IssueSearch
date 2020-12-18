@@ -1,0 +1,1 @@
+ URL : "https://github.com/OutSystemsExperts/PlatformOpsToolbox/issues/22" TITLE : update ant version BODY : automated linux installer is downloading ant 1.9.7, which is no longer available in the repository. update script to download 1.9.8 instead.

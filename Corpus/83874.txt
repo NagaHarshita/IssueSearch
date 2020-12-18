@@ -1,0 +1,1 @@
+ URL : "https://github.com/js08k/vmd/issues/1" TITLE : common mediacontext class BODY : create a common 'mediacontext' class. this class should contain the common behaviors seen in a media stream from a dvd as well as from the network.

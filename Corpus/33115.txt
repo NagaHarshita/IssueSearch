@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/AL/issues/194" TITLE : access to user table BODY : we do not have access to the user table. will this be included or will there be a different way to get at the data? my example is that i have a new credit controller entity which should be 1:1 with users similar to user setup or salesperson/purchaser .

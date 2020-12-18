@@ -1,0 +1,1 @@
+ URL : "https://github.com/Wuzzy2/MineClone2-Bugs/issues/89" TITLE : rain falls through glass BODY : if i build a structure and place glass as the ceiling, when it rains, water drips through it. does not do it for dirt and stone.

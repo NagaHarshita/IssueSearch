@@ -1,0 +1,1 @@
+ URL : "https://github.com/flashxio/FlashX/issues/344" TITLE : feedback from seminar BODY : - benchmark against tensorflow - plot performance vs. matrix size - plot performance vs cores

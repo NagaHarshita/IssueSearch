@@ -1,0 +1,1 @@
+ URL : "https://github.com/kevinmasson/website/issues/13" TITLE : better medias management BODY : - add a link to medias in the back end - add a delete link for each media - add a open in new tab link for each media - copy image description into tinymce when clicking on it - put the form on the top of the page

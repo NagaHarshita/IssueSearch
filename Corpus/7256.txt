@@ -1,0 +1,1 @@
+ URL : "https://github.com/SOLIDSoftworks/SolidHttp/issues/5" TITLE : events are lost BODY : when using the solidhttpclientfactorybuilder, then events are lost and not run that are setup using the builder.

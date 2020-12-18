@@ -1,0 +1,1 @@
+ URL : "https://github.com/facebooknuclide/nuclide-format-js/issues/45" TITLE : fix comments transposition BODY : / ahoj / 'use strict'; / very fancy comment / // less fancy comment type bundleconfigroot = { }; should not be modified.

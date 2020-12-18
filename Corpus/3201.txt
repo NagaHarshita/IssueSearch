@@ -1,0 +1,1 @@
+ URL : "https://github.com/avanthay/.dotfiles/issues/2" TITLE : macos esc key BODY : defaults write -g nsusespellcheckerforcompletions -bool false todo : check if the bug is fixed in macos sierra more informations in this apple forum post https://discussions.apple.com/message/30061769 message30061769

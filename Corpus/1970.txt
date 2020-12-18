@@ -1,0 +1,6 @@
+ URL : "https://github.com/unicef/etools-issues/issues/1036" TITLE : new pd issue BODY : 1. make sure the prp_mode_off flag is disabled
+2. go to a new pd
+3. fill in details fields
+4. fill in review and signed fields: doc. submission date, signed by partner office, signed by partner date, signed by unicef officer, signed by unicef date, signed pd/ssfa
+5. save. expected: pd is saved
+result:

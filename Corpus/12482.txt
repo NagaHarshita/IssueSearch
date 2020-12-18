@@ -1,0 +1,1 @@
+ URL : "https://github.com/kentnl/Path-ScanINC/issues/3" TITLE : pmc file support BODY : perl always prefers .pmc files first when they exist. @inc traversal is basically: perl for ... { if -e $filename.pmc { return $filename.pmc } if -e $filename { return $filename } }

@@ -1,0 +1,1 @@
+ URL : "https://github.com/dbankier/TiShadow/issues/531" TITLE : update to 6.0.3 ga BODY : can we please update the wrapper app to use 6.0.3 ga. we are currently using 6.0.0 ga, which means there is 3 minor releases involving bug fixes that are not being added! http://docs.appcelerator.com/platform/latest/ !/guide/titanium_sdk_6.0.3.ga_release_note

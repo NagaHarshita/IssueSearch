@@ -1,0 +1,1 @@
+ URL : "https://github.com/ROCm-Developer-Tools/HIP/issues/150" TITLE : metal backend for ios ? BODY : is there interest in using hip to cross-compile cuda to metal on ios ? this sort of thing was done last year by otoy: https://vrworld.com/2016/03/11/otoy-ported-cuda-non-nvidia-hardware/

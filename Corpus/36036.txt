@@ -1,0 +1,1 @@
+ URL : "https://github.com/JeffreyWay/Laracasts-Bugs/issues/124" TITLE : fonts are not loaded BODY : when i visit laracasts i can see that fonts.css file is not being loaded. it tries to load this file https://cloud.typography.com/6230134/7006772/css/fonts.css but that url returns 404.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/benhowell/react-grid-gallery/issues/62" TITLE : auto size of thumbs BODY : i was wondering if there is a possibility that the thumb images width and height are automatically sized from the image data. i want to avoid to define every width and height of every thumb.

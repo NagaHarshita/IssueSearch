@@ -1,0 +1,1 @@
+ URL : "https://github.com/qcraft48/prj-rev-bwfs-tea-cozy/issues/2" TITLE : commented out html BODY : important for errors - lines 26, 38, 83, and 88 are html comments but have too many dashes, which causes it to comment out your html below it, which does not allow it to render. be careful using comments like these as it can cause unintended results like the ones outlined.

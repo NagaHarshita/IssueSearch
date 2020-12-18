@@ -1,0 +1,1 @@
+ URL : "https://github.com/madmachinations/kit10_discord_bot/issues/98" TITLE : dm member on warning BODY : when a new warning is registered the bot should dm that member to abstract the delivery of that news away from any one particular moderator.

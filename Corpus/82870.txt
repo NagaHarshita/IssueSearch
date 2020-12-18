@@ -1,0 +1,1 @@
+ URL : "https://github.com/thordy/cakeapp/issues/19" TITLE : automatically insert owes BODY : match stake should be automatically updated in the db once the game is over.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/oatot/oatot/issues/37" TITLE : new bunch of bugs BODY : - fix hud stretching - make all cmds safe and case-insensitive currently bet red <x> <x> results in server crash - figure out if client nums bug still exists. check why guid changed on /reconnect

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Radarr/Radarr/issues/505" TITLE : nzbhydra limited to 100 BODY : hi, radarr is limited to check for only 100. since i'm using nzbhydra with multiple indexer and sometime i'm using a foreign language french in my case the result can be at 400 for example. i suggest to add a setting for people to increase it if they want. thanks

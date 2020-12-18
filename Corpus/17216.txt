@@ -1,0 +1,1 @@
+ URL : "https://github.com/bastienrobert/express-start/issues/1" TITLE : node sqlite 3.1.9 BODY : error on npm i when using sqlite 3.1.9. sqlite issue opened here : https://github.com/mapbox/node-sqlite3/issues/865 bug fixed with commit 65 by rolling back to node-sqlite 3.1.8.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/eclipsesource/tabris-js/issues/1203" TITLE : scroll event on webview BODY : it seems the scroll event is fired on scrolling a scrollview or collectionview widget but not a webview widget. is this intentional or a bug?

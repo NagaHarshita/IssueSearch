@@ -1,0 +1,1 @@
+ URL : "https://github.com/spacetelescope/jwst_coronagraph_visibility/issues/9" TITLE : change default start date BODY : from @mperrin: > you might change the default start date. oct 1 2018 is irrelevant for this since days after launch is not partcularly useful. better to make it “day of the year” starting on jan 1?

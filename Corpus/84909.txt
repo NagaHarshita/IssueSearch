@@ -1,0 +1,1 @@
+ URL : "https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition/issues/296" TITLE : doxygen for this project? BODY : the source code would be much more easier to navigate with some doxygen documentation. once https://github.com/enterprisequalitycoding/fizzbuzzenterpriseedition/pull/242 gets merged, the next step should be doxygen.

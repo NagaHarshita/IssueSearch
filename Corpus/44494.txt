@@ -1,0 +1,1 @@
+ URL : "https://github.com/davidguttman/authentic-ui/issues/4" TITLE : expose put and delete BODY : as authentic-client gets a 0.3.0 version, we should expose that functionality as well

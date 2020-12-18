@@ -1,0 +1,1 @@
+ URL : "https://github.com/tsuna/gohbase/issues/45" TITLE : how to use scan? BODY : i got the scan demo and try it,but got this log. erro 0060 failed looking up region backoff=32ms err= deadline exceeded key= table=querycomphtablename can u show a detail scan demo? thank u.

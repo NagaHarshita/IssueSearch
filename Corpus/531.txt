@@ -1,0 +1,1 @@
+ URL : "https://github.com/denisbogdan/rvibe-flask/issues/26" TITLE : fix auth0 BODY : remove username from auth0 lock widget

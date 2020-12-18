@@ -1,0 +1,1 @@
+ URL : "https://github.com/hapijs/joi/issues/1335" TITLE : add node 6 to engines? BODY : node v6 yarn install error joi@13.0.1: the engine node is incompatible with this module. expected version >=8.3.0 . fix is to add node 6 to engines https://github.com/hapijs/joi/blob/master/package.json l14 or run yarn with yarn --ignore-engines

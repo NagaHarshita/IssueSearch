@@ -1,0 +1,1 @@
+ URL : "https://github.com/paulvill/paulvill.github.io/issues/38" TITLE : 3d drosophilia error BODY : the 2nd drosophilia melanogaster dataset the 3d one throws this error on load: typeerror: app.group app.chcurrent app.imagecount + app.tcurrent is undefined it's looking at line 273 in generic_vieport.js i don't have time at the moment to dig into what's going wrong

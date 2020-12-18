@@ -1,0 +1,1 @@
+ URL : "https://github.com/folz/cleverbot.py/issues/44" TITLE : index error - again BODY : currently running on the 1.1.1 version, and i am still getting the if parsed 0 1 == 'denied' error. simply put in cb.ask hi any solutions?

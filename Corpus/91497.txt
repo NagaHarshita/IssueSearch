@@ -1,0 +1,1 @@
+ URL : "https://github.com/Daru13/RubEns/issues/8" TITLE : travis fails in the setup BODY : all is in the title. the question is : do i need to correct something since the problem seems to come from npm and the building worked perfectly on my computer?

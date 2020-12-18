@@ -1,0 +1,1 @@
+ URL : "https://github.com/itbdw/laravel-storage-qiniu/issues/11" TITLE : 实现 geturl 方法 BODY : laravel 使用 geturl 方法来实现对 storage::url 的支持（参见 这儿 https://github.com/laravel/framework/blob/e605f2c20442347778bd2749a5b0f46e648efa54/src/illuminate/filesystem/filesystemadapter.php l331 ，而目前获取下载url是 downloadurl ，建议能够封装一下。

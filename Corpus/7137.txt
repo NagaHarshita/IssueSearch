@@ -1,0 +1,1 @@
+ URL : "https://github.com/etsy/Conjecture/issues/42" TITLE : docs for alsjob BODY : thanks for the great library. i'm working with alsjob, but i'm missing a bit of detail on subsequent steps for producing item-item and item-user style recs. any chance we can get some commenting on the factorizationtools code if this is what this is? i.e dot product of u v.t after the als job.

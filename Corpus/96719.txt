@@ -1,0 +1,1 @@
+ URL : "https://github.com/Palmy523/CMSC495-BlackJack/issues/2" TITLE : fieldverifier doesn't work BODY : fieldverifier class methods are not working properly. the regular expressions may be wrong. we need to find proper regexes for verifying our data on the client before invalid data is sent to the server to be processed.

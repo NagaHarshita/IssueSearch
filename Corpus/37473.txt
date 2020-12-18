@@ -1,0 +1,1 @@
+ URL : "https://github.com/Raizlabs/DBFlow/issues/1291" TITLE : mark nullable types. BODY : use the support library annotations and mark nullable types in the public api.

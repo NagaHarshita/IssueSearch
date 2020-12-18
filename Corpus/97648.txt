@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/LightGBM/issues/623" TITLE : how add new loss function? BODY : such as the title. only found the metric class. can not found the gradient definition corresponding to metric。 l1, l2, l2_root so what need i do. only add a new metric class?

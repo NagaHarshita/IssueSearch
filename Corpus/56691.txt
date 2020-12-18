@@ -1,0 +1,1 @@
+ URL : "https://github.com/inProgress-team/react-native-youtube/issues/181" TITLE : not working in android BODY : i have react-native-youtube : ^1.0.0-alpha.4 package. i don't want to play the video in full screen. once the video exists full screen mode, it stops playing after 1 second. can anyone please guide me to solve this issue?

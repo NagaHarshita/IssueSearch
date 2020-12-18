@@ -1,0 +1,1 @@
+ URL : "https://github.com/canton7/RestEase/issues/50" TITLE : strong name signing BODY : we are using this greate library in an environment where every package is signed. currently we are signing this library during our build process. however it is currently fine but it would be great if you can sign the library. what do you thing about this?

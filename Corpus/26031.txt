@@ -1,0 +1,1 @@
+ URL : "https://github.com/dockerdepot/web-containers/issues/8" TITLE : add php 7.2 support BODY : now that php 7.2 has been released http://php.net/archive/2017.php id2017-11-30-1 , we should be able to add containers. we can base these off the 7.1 containers.

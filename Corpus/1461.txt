@@ -1,0 +1,1 @@
+ URL : "https://github.com/ctrlplusb/react-universally/issues/470" TITLE : yarn vs npm BODY : i kinda feel that npm is the standard and wonder if we should default a project like this to it. npm@5 brings much of the same benefits, and in most cases would be one less dep to install.

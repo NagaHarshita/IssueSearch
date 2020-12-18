@@ -1,0 +1,1 @@
+ URL : "https://github.com/CodeGra-de/CodeGra.de/issues/310" TITLE : normalize api output BODY : the api output was inconsistent in some places, returning false sometimes, none in other places. 289 tries to fix that, but @libre-man wanted some place to discuss it, so now here's this issue.

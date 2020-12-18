@@ -1,0 +1,1 @@
+ URL : "https://github.com/valhalla/demos/issues/208" TITLE : isochrone demo broken BODY : followed link at the bottom of https://mapzen.com/blog/introducing-isochrone-service/ to https://valhalla.github.io/demos/isochrone/ – clicking on the map returns a 403 forbidden error, nothing else happens. it's possible this is a dupe of https://github.com/valhalla/demos/issues/204

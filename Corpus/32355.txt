@@ -1,0 +1,1 @@
+ URL : "https://github.com/belaustegui/trans/issues/29" TITLE : update test schemas BODY : currently the tests only use the article schema. we could add a comment schema that belongs to an article . each article has many comment s. this would allow better testing and could be useful when implementing the querybuilder redesign detailed in 28

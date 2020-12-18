@@ -1,0 +1,1 @@
+ URL : "https://github.com/nWidart/laravel-modules/issues/296" TITLE : request custom namespace BODY : hey @nwidart , could you add option in your php artisan module command to add custom namespace when we create modules, controllers, models, requests, or any class that we want to generate from the command. it would be great if you have this feature.

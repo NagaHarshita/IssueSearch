@@ -1,0 +1,1 @@
+ URL : "https://github.com/slipstream/SlipStreamClient/issues/354" TITLE : add ss-terminate command BODY : there are commands to start and scale applications/components but there is no command to terminate them. provide an ss-terminate command.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/xehoth/xehoth-blog-comment/issues/177" TITLE : fft 学习笔记 | xehoth BODY : https://blog.xehoth.cc/fastfouriertransform/ 两个n次多项式相加最直接的方法所需时间为o n ，但是相乘最直接的方法所需时间为o n2 。 快速傅里叶变换（fast fourier transform，fft）是一种可在 o n log n 时间内完成的离散傅里叶变换（discrete fourier transform，dft）算法，在 oi 中的主要应用之一是加速多项式乘法的计算。

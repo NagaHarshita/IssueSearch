@@ -1,0 +1,1 @@
+ URL : "https://github.com/amarder/fuzz/issues/10" TITLE : evaluate the merge BODY : how confident are we that we found a match for each observation? plot histogram of predicted probabilities over all observations in the messy data. how confident are we that we found the match for one observation? plot histogram of predicted probabilities over all observations in the clean data.

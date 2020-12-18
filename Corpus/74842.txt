@@ -1,0 +1,1 @@
+ URL : "https://github.com/intel/tpm2-tools/issues/684" TITLE : fix coverity scan issues BODY : triage and fix the new reported issues on: https://scan7.coverity.com/reports.htm v31687/p15508 and submit to 3.x and master branch.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Strooom/GRBL-Post-Processor/issues/9" TITLE : jar version not working BODY : it works with the platform version but not the java version for me. also if i have a othermill for example what do i have to put in post tu use. i need to put the folder in of the postprocessor?

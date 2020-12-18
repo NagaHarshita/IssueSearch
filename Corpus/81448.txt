@@ -1,0 +1,1 @@
+ URL : "https://github.com/Giphy/GiphyAPI/issues/132" TITLE : wrong url format: httpss BODY : hi, sometimes giphy returns urls in wrong format. for example, the following request https://api.giphy.com/v1/gifs/search?q=colors&api_key=dc6zatoxfjmzc will return some urls with httpss protocol. it seems this is just a typo i mean the last redundant s character . thanks.

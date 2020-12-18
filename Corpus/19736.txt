@@ -1,0 +1,1 @@
+ URL : "https://github.com/CptWesley/RadiantMapToWavefrontObj/issues/10" TITLE : add texture filter BODY : add system to filter out certain textures so faces with these textures are not created.

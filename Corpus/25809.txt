@@ -1,0 +1,1 @@
+ URL : "https://github.com/steven266/nosql_schema/issues/1" TITLE : add bulk operations BODY : add at least a bulk update operation for fast changes on multiple documents

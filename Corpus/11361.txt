@@ -1,0 +1,1 @@
+ URL : "https://github.com/db-journey/cassandra-driver/issues/6" TITLE : goto not working BODY : if i have version 1, 2, 3, 4, 5 all created in that order , and i am currently at 5. if i use migrate goto 3 , it applies the down for all versions.

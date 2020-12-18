@@ -1,0 +1,1 @@
+ URL : "https://github.com/Rubenknex/SPI-rack/issues/7" TITLE : frequency in s5i_module BODY : @mtiggelman in the s5i_module file the set_frequency_optimally requires units of mhz at least the documentation while the set_frequency method requires hz. maybe it's good to keep the same units.

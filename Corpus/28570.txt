@@ -1,0 +1,1 @@
+ URL : "https://github.com/gchq/gaffer-tools/issues/300" TITLE : handle errors in ui BODY : create an error service that can handle http and error messages. as part of this issue, you should improve the way they are currently handled. consider using $mdtoast https://material.angularjs.org/1.1.0/demo/toast to present simple messages to the user.

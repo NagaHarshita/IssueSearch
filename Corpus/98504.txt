@@ -1,0 +1,1 @@
+ URL : "https://github.com/genesis-global/salesforce/issues/1" TITLE : is it compatible php 5.6 ? BODY : hi, is your package compatible php 5.6 ? i would like to use it, but there are string type in one classe and one interface. > genesisglobal\salesforce\client\salesforceclient > genesisglobal\salesforce\client\salesforceclientinterface thanks

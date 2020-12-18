@@ -1,0 +1,1 @@
+ URL : "https://github.com/brave/sync/issues/161" TITLE : crypto module updates BODY : use https://www.npmjs.com/package/brave-crypto update to tweetnacl 1.0

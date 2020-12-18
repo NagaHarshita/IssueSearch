@@ -1,0 +1,1 @@
+ URL : "https://github.com/mafintosh/dns-packet/issues/11" TITLE : decode rcode field BODY : rcode is the lower 4 bits of the flags flags & 0xf , and only 10 of the 16 codes are allocated. see https://tools.ietf.org/html/rfc6895 page-4

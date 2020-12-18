@@ -1,0 +1,1 @@
+ URL : "https://github.com/aleju/imgaug/issues/30" TITLE : import imgaug error BODY : when i was running from imgaug import augmenters as iaa it has an error: intel mkl fatal error: cannot load libmkl_avx2.so or libmkl_def.so. but the libmkl_avx2.so and libmkl_def.so are in the folder ~/anaconda2/lib/.

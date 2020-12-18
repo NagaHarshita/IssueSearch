@@ -1,0 +1,1 @@
+ URL : "https://github.com/stevehodges/draftpunk/issues/3" TITLE : rails 5 compatibility BODY : hi steve - i just tried to get this gem running on rails 5. unfortunately it was unsuccessful. is it the question of updating references or is there a deeper issue? thank you.

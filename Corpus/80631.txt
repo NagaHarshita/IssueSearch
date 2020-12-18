@@ -1,0 +1,1 @@
+ URL : "https://github.com/FWDekker/intellij-randomness/issues/47" TITLE : unify separator settings BODY : instead of listing settings for separator symbols in each settings menu where applicable, a setting should be added to the general settings. this issue depends on 46.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/stronglink/FlappyBird/issues/28" TITLE : lag on linux BODY : i tried running this game on linux and there is so much lag. my advice is to add this line of code in main render method it works for my games toolkit.getdefaulttoolkit .sync ;

@@ -1,0 +1,1 @@
+ URL : "https://github.com/pleboeuf/Capteurs-EB/issues/4" TITLE : initial pump/t2 event BODY : at boot time, send a pump/t2 event to initiate the pump cycle and pump rate calculation.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/INRIA/spoon/issues/1526" TITLE : json generator for spoon BODY : hello all, i have .java file. i use spoon to parse it. can the contents be serialized using spoon to json output? is there any special class or method to generate a json object or file? your help would be appreciated. regards sourabh

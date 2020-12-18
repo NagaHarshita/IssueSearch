@@ -1,0 +1,1 @@
+ URL : "https://github.com/ros2/rcl/issues/127" TITLE : use c_utilities allocator BODY : rcl_lifecycle currently uses malloc and free natively. this should be changed to the allocators in c_utilities.

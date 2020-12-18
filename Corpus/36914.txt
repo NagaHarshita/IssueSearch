@@ -1,0 +1,1 @@
+ URL : "https://github.com/molsturm/gint/issues/11" TITLE : interface to libcint BODY : implement an interface to the gaussian integral library libcint https://github.com/sunqm/libcint .

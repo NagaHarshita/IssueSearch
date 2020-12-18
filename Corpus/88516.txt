@@ -1,0 +1,1 @@
+ URL : "https://github.com/52inc/Pulley/issues/115" TITLE : non-open delegate methods BODY : i can't override drawerpositiondidchange drawer:bottomsafearea: in my pulleyviewcontroller subclass. i am getting the error message overriding non-open instance method outside of its defining module .

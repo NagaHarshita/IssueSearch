@@ -1,0 +1,1 @@
+ URL : "https://github.com/ragmha/TX00CS19/issues/12" TITLE : chapter 8 exercise 11 BODY : class point private val point: long extends anyval object point { def apply x:int,y:int = new point x,y }

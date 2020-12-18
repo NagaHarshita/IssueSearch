@@ -1,0 +1,1 @@
+ URL : "https://github.com/Studentmediene/RadioRevolt-API/issues/15" TITLE : add field digasid to shows BODY : to be able to link episodes and shows with their equivalent entity on pappagorg/digas, an id must be stored for reference.

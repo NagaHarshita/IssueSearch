@@ -1,0 +1,1 @@
+ URL : "https://github.com/almibe/ligature/issues/33" TITLE : add sparql support BODY : ligature should be able to both parse sparql queries into a kotlin data model but also should be able to run queries against models and get results.

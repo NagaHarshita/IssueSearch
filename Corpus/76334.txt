@@ -1,0 +1,1 @@
+ URL : "https://github.com/lucko/LuckPerms/issues/225" TITLE : issue with adding prefix BODY : i'm trying to add a prefix to a group but when it says the prefix is added it doesn't actually work. when a person from that group chats the prefix does not appear. i've tried clearing and adding it multiple times but it still wouldn't work.

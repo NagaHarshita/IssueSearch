@@ -1,0 +1,1 @@
+ URL : "https://github.com/dart-lang/angular_test/issues/34" TITLE : typos in the code BODY : the code contains textfixture instead of testfixture 6 times.

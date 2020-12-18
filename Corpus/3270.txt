@@ -1,0 +1,6 @@
+ URL : "https://github.com/w3c/wai-policies-prototype/issues/287" TITLE : new entry for BODY : new entry for submitted by mailto: : ~~~yaml
+---
+country: en: manual enter other country names: updated: 2017-08-09
+updatemsg: related page:
+province: policies: - title: en: url: updated: wcagver: enactdate: type: ministries: - title: en: url: en: webonly: true scope: standard: - title: en: desc: url: en: documents: - title: en: desc: url: en: ---
+~~~

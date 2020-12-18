@@ -1,0 +1,1 @@
+ URL : "https://github.com/ericsomdahl/python-bittrex/issues/107" TITLE : getting last price v 2.0 BODY : i'm trying to make a program that performs market orders provided by v. 2.0's trade_sell/buy and looks at last price, but v 1.1 is more appropriate for getting last price directly through get_ticker. will there ever be a direct equivalent in v 2.0?

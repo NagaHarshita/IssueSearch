@@ -1,0 +1,1 @@
+ URL : "https://github.com/twosigma/beakerx/issues/5794" TITLE : bash magic crashes BODY : %%bash ls crashes with this stack trace at java.util.optional.get optional.java:135 at com.twosigma.beakerx.kernel.commands.magiccommand.lambda$bash$36 magiccommand.java:316 it should report a nice error to the user.

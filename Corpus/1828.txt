@@ -1,0 +1,1 @@
+ URL : "https://github.com/inonit/drf-haystack/issues/106" TITLE : how to sort? BODY : i can search by field like /search?is_approved=true&is_active=true however, i need a way to sort the result by a field e.g. /search?is_approved=true&is_active=true&order= -date how to achieve this?

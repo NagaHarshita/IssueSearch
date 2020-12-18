@@ -1,0 +1,1 @@
+ URL : "https://github.com/soundcasts/soundcasts-server/issues/35" TITLE : upgrade to node 7.6.0 BODY : we can use node 7.6.0 and native async/await. the we only need to transpile transform-object-rest-spread .

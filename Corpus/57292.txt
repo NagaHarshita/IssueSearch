@@ -1,0 +1,1 @@
+ URL : "https://github.com/tomas/needle/issues/202" TITLE : problem fetching a url BODY : i tried to use needle.head 'https://docs.npmjs.com/getting-started/what-is-npm', ... and got an error: error: unexpected end of file at zlib._handle.onerror zlib.js:355:17 curl --head https://docs.npmjs.com/getting-started/what-is-npm works fine. i didn't try needle.get on this url

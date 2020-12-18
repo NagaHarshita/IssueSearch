@@ -1,0 +1,1 @@
+ URL : "https://github.com/magdalena19/lberg-map/issues/287" TITLE : write small setup script BODY : generate and pre-format application.yml - generate and insert secret_token - insert keys for machine translation services used in the application

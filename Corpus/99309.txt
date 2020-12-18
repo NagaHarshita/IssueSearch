@@ -1,0 +1,1 @@
+ URL : "https://github.com/hfagerlund/elections-carousel/issues/7" TITLE : migrate grunt tasks to npm BODY : refactor to phase out grunt replace with npm .

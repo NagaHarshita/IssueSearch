@@ -1,0 +1,1 @@
+ URL : "https://github.com/Dresel/MethodCache/issues/15" TITLE : update to fody version 2 BODY : fody version 2 is out and you will need to do an update for your addin to be usable with it specifically: update to the newest fody.cecil nuget change the min dependency range for fody to be at least 2.0 please ping me if u need help

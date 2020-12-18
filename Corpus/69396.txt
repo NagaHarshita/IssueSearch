@@ -1,0 +1,1 @@
+ URL : "https://github.com/lucagrulla/node-tail/issues/57" TITLE : tailing a rotating file BODY : i came across a problem, when watching a log file which rotates once in a while. after the rotation happens the currently tailed file gets renamed, and a new file with the same name is created - tail stops getting the updates. are there any workaround to solve that problem?

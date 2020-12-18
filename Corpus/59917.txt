@@ -1,0 +1,1 @@
+ URL : "https://github.com/express-labs/pure-react-carousel/issues/23" TITLE : variable sized content BODY : hi there, just wondering, is there any plan to allow the slideshow figure out height or adjust height depending on current slide for when the height of the slide content is unknown? thanks!

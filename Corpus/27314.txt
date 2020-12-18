@@ -1,0 +1,1 @@
+ URL : "https://github.com/eagobert/packMack/issues/7" TITLE : create profile page BODY : given a user logs in, the user should be able to: 1. create a user profile that includes username, profile pic, and email 2. the user can edit the profile

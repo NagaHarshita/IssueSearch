@@ -1,0 +1,1 @@
+ URL : "https://github.com/pliablepixels/zmNinja/issues/422" TITLE : cannot delete events BODY : attempts to delete events from event view seems to allow me to delete the first event but subsequent attempts to delete additional events would result in zmninja reports message that it could not delete event. occurs on both ios and macos version of 1.2.35

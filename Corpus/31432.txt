@@ -1,0 +1,1 @@
+ URL : "https://github.com/cesarferreira/drone/issues/6" TITLE : show what's updated BODY : already up-to-date. already up-to-date. updated successfully that's what drone printed out while updating my project, it would be nice if drone could also print what library is updated successfully and what is already up-to-date .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/idealista-tech/nginx-role/issues/13" TITLE : force pid directory BODY : custom pid location may cause not start the server on reboot

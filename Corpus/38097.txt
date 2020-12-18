@@ -1,0 +1,1 @@
+ URL : "https://github.com/fuji97/pokemon-xenoverse-tracker/issues/255" TITLE : non si apre il gioco BODY : ho chiuso il gioco, ovviamente salvando, e riaprendolo mi dice: script 'pfield_field line 1719: nomethoderror occurred undefined method 'spriteset' for <scene_intro:0x921f750>

@@ -1,0 +1,1 @@
+ URL : "https://github.com/seedboxtech/laozi/issues/3" TITLE : revisit concurrency model BODY : ideas to explore... - can we make memory more bound by rethinking buffers and worker pools?

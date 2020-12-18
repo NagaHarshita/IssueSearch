@@ -1,0 +1,1 @@
+ URL : "https://github.com/dhscord/Test/issues/1" TITLE : login to prm BODY : user story: as a prm user, i would like to be able to access prm using secure credentials so that all changes that are attributed to me were actually performed by me notes: prm users should be able to login to prm using their utility warehouse google account presume oauth 2.0 and then be taken to prm

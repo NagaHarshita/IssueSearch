@@ -1,0 +1,1 @@
+ URL : "https://github.com/afcastano/AutoValuePlugin/issues/27" TITLE : fr: add tobuilder method BODY : when add autovalue builder is invoked, include this abstract method: java public abstract builder tobuilder ; https://github.com/google/auto/blob/master/value/userguide/builders-howto.md to_builder

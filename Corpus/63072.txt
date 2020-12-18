@@ -1,0 +1,1 @@
+ URL : "https://github.com/evanunderscore/defopt/issues/21" TITLE : default short arguments BODY : it would be nice if keyword arguments which do not share their initial with any other keyword argument could automatically provide a short form, i.e. def main foo: str = foo , bar: str = bar : ... results in the options -f , --foo , -b , --bar .

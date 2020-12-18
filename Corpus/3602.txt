@@ -1,0 +1,1 @@
+ URL : "https://github.com/stephenslab/mashr/issues/10" TITLE : sfa r package BODY : related to 9 : it might be straightforward to natively support sfa the similar way we've done it for extreme_decov , ie, make an sfar package out of it, unless licensing is an issue.

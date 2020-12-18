@@ -1,0 +1,1 @@
+ URL : "https://github.com/tapdaq/tapdaq-ios-sdk/issues/7" TITLE : main thread locking BODY : looks like sdk is querying external device ip address synchronously, which leads to noticeable lockups on poor internet connection. ! screen shot 2017-01-16 at 13 16 11 https://cloud.githubusercontent.com/assets/352526/21975928/f5362cc8-dc01-11e6-8fda-ffb1813a90c5.png

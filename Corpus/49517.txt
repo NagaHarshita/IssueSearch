@@ -1,0 +1,1 @@
+ URL : "https://github.com/sympy/sympy/issues/12775" TITLE : trouble finding roots BODY : from sympy import expr=sqrt 2 i print expr this prints -1 1/4 sqrt 2 which is actual same as expr. but, 1+i is the root of 2 i. shouldn't 1+i be the correct answer?

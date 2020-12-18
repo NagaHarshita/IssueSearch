@@ -1,0 +1,1 @@
+ URL : "https://github.com/ZeroK-RTS/Zero-K-Infrastructure/issues/1683" TITLE : change structure names BODY : some structure names need changing and i can't find the db. wormhole generator beacon -> wormhole generator improved wormhole stabilizer -> improved wormhole the reason is to fit unit names on the space provided by chili selections.

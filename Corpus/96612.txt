@@ -1,0 +1,1 @@
+ URL : "https://github.com/DylanMeeus/ImageF-ck/issues/1" TITLE : fails on non-square images BODY : in function read_pixels_as_brainfuck : image.size 0 - width number of columns ; image.size 1 - height number of rows so instead of for r in range image.size 0 : for c in range image.size 1 : it should be for r in range image.size 1 : for c in range image.size 0 :

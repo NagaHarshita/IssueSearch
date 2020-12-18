@@ -1,0 +1,1 @@
+ URL : "https://github.com/XceedBoucherS/TestImport3/issues/54" TITLE : childwindow looses focus BODY : <b>brianlagunas codeplex </b> <br />i'm using a modal childwindow, but when one tabs through the controls, in the end controls of the parent window will get focus. do you think there is a solution to this?

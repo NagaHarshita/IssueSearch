@@ -1,0 +1,1 @@
+ URL : "https://github.com/ransford/sllurp/issues/60" TITLE : unbreak duration arg BODY : specifying llrpclient.duration used to make llrpclient call stoppolitely after duration seconds, but since 7fd2559 we repurposed this duration member variable to control reporting period instead. this is a mess.

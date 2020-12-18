@@ -1,0 +1,1 @@
+ URL : "https://github.com/GovLab/data-driven-criminal-justice/issues/18" TITLE : clean up branches BODY : the only branches that i need is the master and old . master has the new, converted site old is a backup of the old version. this branch should be kept until we do some testing on the new version. after that we can delete it too.

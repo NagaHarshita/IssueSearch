@@ -1,0 +1,1 @@
+ URL : "https://github.com/kost/dvcs-ripper/issues/18" TITLE : rip-cvs.pl file error BODY : hello my friend useing rip-cvs.pl but ➜ dvcs-ripper git: master perl rip-cvs.pl \c no longer supported in regex; marked by <-- here in m//\ <-- here cvs/ at rip-cvs.pl line 68. ➜ dvcs-ripper git: master can you help me ?

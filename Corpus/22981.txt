@@ -1,0 +1,1 @@
+ URL : "https://github.com/PowerShell/PowerShell-Docs/issues/1630" TITLE : new approved verbs BODY : https://msdn.microsoft.com/en-us/library/ms714428 vs.85 .aspx needs to be updated based on https://github.com/powershell/powershell/issues/3346 new verbs: build and deploy

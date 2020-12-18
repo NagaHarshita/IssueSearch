@@ -1,0 +1,1 @@
+ URL : "https://github.com/3ptscience/properties/issues/165" TITLE : dict property BODY : another possibly useful builtin property? i've used instance properties with instance_class=dict quite a bit. could be interesting to provide some validation on keys/values?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ktgscott/prj-rev-bwfs-tea-cozy/issues/2" TITLE : mission section not center BODY : ! tea_cozy https://user-images.githubusercontent.com/5844161/31421263-4c4ca30e-adfb-11e7-97bd-9130c87afd9e.jpg you can set the mission css to margin 0 auto to fix this.

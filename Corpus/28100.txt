@@ -1,0 +1,1 @@
+ URL : "https://github.com/amannocci/logbulk/issues/15" TITLE : faster json parsing BODY : describe the feature we can convert directly a buffer to a jsonobject or jsonarray by reading the underlying bytebuf as an inputstream.

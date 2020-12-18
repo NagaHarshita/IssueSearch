@@ -1,0 +1,1 @@
+ URL : "https://github.com/UCL-CloudLabs/Deployer/issues/1" TITLE : update json template BODY : the deployer is currently using http://schema.management.azure.com/schemas/2014-04-01-preview/deploymenttemplate.json i'm sure there's a more updated one at least from 2017.

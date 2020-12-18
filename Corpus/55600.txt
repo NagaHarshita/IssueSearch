@@ -1,0 +1,1 @@
+ URL : "https://github.com/0125/ahk-rs-dropLogger/issues/16" TITLE : json & images handling BODY : ideas - fetch bestiary and mob images from wiki on first start, but only get drop table and drop images when needed - option to update drop lists only mobs that have drop lists loaded, not all mobs - option to check for new mobs

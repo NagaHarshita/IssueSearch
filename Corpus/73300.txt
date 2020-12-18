@@ -1,0 +1,1 @@
+ URL : "https://github.com/xmrig/xmrig/issues/20" TITLE : cpu affinity setting bug BODY : hi, a big cpu-affinity value cannot be set. fof example: two intel® xeon® e5-2680 v3 12 cores 24 threads processors require sample mask 0xaaaaaaaaaaaa which however cannot be seen on the start console window. the same is for 2x intel® xeon® e5-2650 8 cores 16 threads / 0xaaaaaaaa thanks

@@ -1,0 +1,1 @@
+ URL : "https://github.com/CyberReboot/poseidon/issues/259" TITLE : config file ocd BODY : everything but two entries uses _ for separating works... make the config uniform. rabbit-server = rabbit_server rabbit-port = rabbit_port change to: rabbit_server = rabbit_server rabbit_port = rabbit_port fix code to look for the _ versions..

@@ -1,0 +1,1 @@
+ URL : "https://github.com/DATA-DOG/godog/issues/88" TITLE : hooks return error BODY : currently the return values of hooks is not used. i'd like to be able to return an error in beforescenario/afterscenario and the other steps and have it printed as as error instead of having to panic as my current workaround

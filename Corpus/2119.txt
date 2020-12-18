@@ -1,0 +1,1 @@
+ URL : "https://github.com/bartavelle/language-puppet/issues/197" TITLE : support os x BODY : we have recently got a new user that uses osx. do you think it is possible to replace the filecache dependencies with something like vault ? that would work across both oses ? i could give it a try if you think it is not too much work and with some guidance . thanks.

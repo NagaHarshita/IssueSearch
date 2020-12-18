@@ -1,0 +1,1 @@
+ URL : "https://github.com/TheSteadyFlash/batter-up/issues/2" TITLE : simulate inning by inning BODY : if the user decides to simulate the game inning by inning generate the results for the current inning and display the results of the inning to the user. the user should then be prompted to continue onto the next inning.

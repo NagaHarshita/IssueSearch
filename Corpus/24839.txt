@@ -1,0 +1,1 @@
+ URL : "https://github.com/while-true-do/bash-prompt/issues/10" TITLE : travis test needed BODY : need some testing to ensure that the prompt looks like expected. one can start with some matching of $ps1 to our expectation or so.

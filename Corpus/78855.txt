@@ -1,0 +1,1 @@
+ URL : "https://github.com/modsrm/ctask/issues/113" TITLE : remove need for switches BODY : some commands take only 1 argument. remove the need for the switch where possible

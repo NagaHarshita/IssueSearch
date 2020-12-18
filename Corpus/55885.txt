@@ -1,0 +1,1 @@
+ URL : "https://github.com/nilovna/unito-test/issues/28" TITLE : login with ghe or jira BODY : we only have the option of login with asana, trello and wrike. what if we have one user with jira and github, both on premise, how the user login if he logout?-> idea: add github and jira cloud as login providers and we don’t allow onboarding signup with ghe and jira.

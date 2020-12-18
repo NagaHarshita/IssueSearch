@@ -1,0 +1,1 @@
+ URL : "https://github.com/Alexaustin12/household-bot-training/issues/2" TITLE : declare var rand line 125 BODY : var rand = math.floor math.random roommates.length i assume your code is working fine without making this fix. this is my way of proving to you that i read your your script. good stuff, man.

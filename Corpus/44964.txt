@@ -1,0 +1,1 @@
+ URL : "https://github.com/alekratz/sbl-rs/issues/5" TITLE : get rid of semicolons BODY : @syntaxcoloring asked if semicolons are necessary. no, they are not necessary in the slightest. i want to get rid of them all. this obviously introduces a lot of breaking changes, so you better test the crap out of your code.

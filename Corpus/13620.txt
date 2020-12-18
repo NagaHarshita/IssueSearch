@@ -1,0 +1,1 @@
+ URL : "https://github.com/Azfletch/tcg/issues/1" TITLE : we need a readme BODY : we should add a readme motivation and context we should be able to describe the project and how to: - run the code -test the code - deploy the code current state we have no readme or documentation potential solution write a readme

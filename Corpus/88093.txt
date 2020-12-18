@@ -1,0 +1,1 @@
+ URL : "https://github.com/twbs/bootstrap/issues/22094" TITLE : modal example not working BODY : in the page http://v4-alpha.getbootstrap.com/components/modal/, the modal example under tooltips and popovers is not closing if i click on the popover button or mouse-over through the tooltip links.

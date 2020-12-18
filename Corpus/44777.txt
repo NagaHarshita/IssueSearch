@@ -1,0 +1,1 @@
+ URL : "https://github.com/rmarkello/peakdet/issues/2" TITLE : fix template matching BODY : template matching currently doesn't detect real peaks.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/gothinkster/rails-realworld-example-app/issues/4" TITLE : json v 1.8.3 won't install BODY : i'm on macos sierra 10.12.4 and ruby v 2.4.0. json -v 1.8.3 won't install for me. throws c++ compilation issues, due to certain c++ libraries that were missing.

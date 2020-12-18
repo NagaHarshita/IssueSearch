@@ -1,0 +1,1 @@
+ URL : "https://github.com/parpalak/upmath.me/issues/4" TITLE : misspelling in readme.md BODY : in line >> cp config.php.dist config.php create the site config file correct variant >> cp config.dist.php config.php create the site config file

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jrsconfitto/VisVirtualHackathon/issues/41" TITLE : display total duration BODY : display the total duration of all ef in a title box. we are doing bi, and it might be interesting to see total runtime/downtime as user switches context/time range.

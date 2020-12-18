@@ -1,0 +1,1 @@
+ URL : "https://github.com/rwaldron/johnny-five/issues/1364" TITLE : ping api is not available BODY : - http://johnny-five.io/api/ping is not avilable - - where i can connect my ultrasonic hc-sr04 sensor to arduino. http://johnny-five.io/examples/radar/ servo and webserver is working fine ,

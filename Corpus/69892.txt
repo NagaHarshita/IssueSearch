@@ -1,0 +1,1 @@
+ URL : "https://github.com/remixz/messenger-bot/issues/68" TITLE : undefined error on like BODY : great work on the library. the reply function throws and error once the user replies with :+1: button. but emojis work just fine.

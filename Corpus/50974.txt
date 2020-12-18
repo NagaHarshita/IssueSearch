@@ -1,0 +1,1 @@
+ URL : "https://github.com/genome/cancer-genomics-workflow/issues/155" TITLE : add integrate workflow BODY : add a workflow to predict fusions with integrate. this should alternatively include integrate-neo for fusion epitopes.

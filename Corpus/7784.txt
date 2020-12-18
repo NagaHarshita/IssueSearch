@@ -1,0 +1,1 @@
+ URL : "https://github.com/helmetjs/helmet/issues/154" TITLE : is hts default? BODY : when i add the following: app.use httpredirect ; app.use helmet ; and run the code, i do not get hsts as default header, if i explicitly call it, it does work. from what i understand in the list it says it should be default, is this normal behavior?

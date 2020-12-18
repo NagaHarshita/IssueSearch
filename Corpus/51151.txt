@@ -1,0 +1,1 @@
+ URL : "https://github.com/goldencodeio/base-images/issues/6" TITLE : add ssmtp to web image BODY : we often need to setup smtp for sending mail, because default send_mail can't do it from docker

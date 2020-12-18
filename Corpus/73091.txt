@@ -1,0 +1,13 @@
+ URL : "https://github.com/Zimmi48/bugzilla-test/issues/1533" TITLE : compilation de coq-trunk BODY : note: the issue was created automatically with bugzilla2github tool bugzilla bug id: 1533
+date: 2007-04-23 16:50:35 +0200
+from: pierre casteran &lt;<pierre.casteran@labri.fr>&gt;
+to: last updated: 2007-04-23 16:50:35 +0200 bugzilla comment id: 1519
+date: 2007-04-23 16:50:35 +0200
+from: pierre casteran &lt;<pierre.casteran@labri.fr>&gt; bonjour, la compilation de trunk avec ocaml-3.09.3 s'arrête avec le message suivant. trunk récupéré ce matin, sous fedora 6 ./configure -local
+make world ocamlopt config/coq_config.ml
+config/coq_config.cmi is not a compiled interface
+make 1 : config/coq_config.cmx erreur 2
+make 1 : quittant le répertoire « /home/local/coq-cvs/trunk »
+make: world erreur 2 pierre bugzilla comment id: 1520
+date: 2007-07-04 17:04:31 +0200
+from: pierre casteran &lt;<pierre.casteran@labri.fr>&gt; résolu versions différentes de ocamlopt et ocamlc

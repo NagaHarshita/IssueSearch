@@ -1,0 +1,1 @@
+ URL : "https://github.com/OneTicketTech/NightPlus_ChatRobot/issues/1" TITLE : 需求说明 phase i BODY : - 按分组，时间，用户名记录下用户的聊天记录 - 使用外部ai接口来处理 unhandled request - 用户属性 - 新用户拉到对应的组里 按地理位置分组 - 高频渠道关键字收集 - 高频渠道关键字回复

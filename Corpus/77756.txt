@@ -1,0 +1,1 @@
+ URL : "https://github.com/CSPon/GDC2017Project/issues/34" TITLE : npc pathfinding advanced BODY : npc pathfinding advanced npc moves left and right for now. need to add function where npc jumps over obstacle covers, moving objects, etc does not need to add function for jumping over gaps. this will be added later.

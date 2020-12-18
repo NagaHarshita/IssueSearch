@@ -1,0 +1,1 @@
+ URL : "https://github.com/joereynolds/place.vim/issues/8" TITLE : f and t aren't supported BODY : lowercase f and t for searching forward are supported but going backwards with f and t is not. i would guess that adding this isn't very different from the forward search so i am happy to make a pr for it if you need me too. keep up the good work :

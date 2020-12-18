@@ -1,0 +1,1 @@
+ URL : "https://github.com/skyverge/woocommerce-customizer/issues/23" TITLE : customize sale flash text BODY : add a setting to customize the output of the sale flash text via woocommerce_sale_flash filter requested by : wp org thread https://wordpress.org/support/topic/allow-for-customising-the-sale-flash-text/

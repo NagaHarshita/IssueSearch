@@ -1,0 +1,2 @@
+ URL : "https://github.com/NSI-IT/ATG/issues/98" TITLE : admin - view bad orders BODY : as an admin user, i can view a list of all all the tickets where status of the trailer is changed to bad orders so that i can check the issue and take corrective actions acceptance criteria verify that i am able to view a list of all the tickets where status has been changed to bad order either by shunt driver or by dock supervisor. verify that i am able to view the following details against each ticket: > trailer no > status > seal number > truck company > truck number
+> notes

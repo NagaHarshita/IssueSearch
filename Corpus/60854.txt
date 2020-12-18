@@ -1,0 +1,1 @@
+ URL : "https://github.com/Agreon/IssueExtract/issues/186" TITLE : add more error-handling BODY : file: src/httpmanager.kt:40 https://github.com/agreon/issueextract/blob/master/src/httpmanager.kt l40

@@ -1,0 +1,1 @@
+ URL : "https://github.com/gantry/gantry5/issues/2004" TITLE : section collapse bug BODY : when you click collapse all the sections collapse, but if you want to expand particular section you will see that they still say collapse instead expand. http://take.ms/xy7aa

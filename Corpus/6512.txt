@@ -1,0 +1,1 @@
+ URL : "https://github.com/campaignzero/campaign-zero-widget/issues/8" TITLE : add senate data BODY : overview: fetch senate data from api acceptance criteria: searching for a zip code should return a new federal tab that shows two senators for state that zip code belongs to.

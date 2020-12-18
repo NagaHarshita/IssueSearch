@@ -1,0 +1,1 @@
+ URL : "https://github.com/jbaysolutions/vue2-bootstrap-table/issues/11" TITLE : dynamic page size BODY : is it possible to bind pagesize with a dropdown? i have tried to update it using watch and computed options. only the pager got update correctly but the rows do not get update.

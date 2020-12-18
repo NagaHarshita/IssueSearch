@@ -1,0 +1,1 @@
+ URL : "https://github.com/salt-formulas/salt-formula-galera/issues/32" TITLE : mysql-wsrep package name? BODY : i'm using the mirantis openstack repo http://mirror.fuel-infra.org/mos-repos/ubuntu/9.0 and the package name is different from what it says in map.jinja: mysql-server-wsrep-5.6 rather than mysql-wsrep-5.6. is this a transitional issue?

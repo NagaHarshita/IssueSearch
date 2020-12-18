@@ -1,0 +1,1 @@
+ URL : "https://github.com/matthiaskoenig/tellurium-web/issues/42" TITLE : render plot3d outputs BODY : currently only the reports and plot2d are rendered. this must also include the archives with plot3d .

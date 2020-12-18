@@ -1,0 +1,1 @@
+ URL : "https://github.com/DeamonRealm/Age_of_Empires_II/issues/53" TITLE : vision buff too large BODY : build: v0.8 type: code brief description: when using the vision buff with the wizard the area revealed is too large severity: critical major x minor priority: urgent high x normal low steps to reproduce: frequency: screenshot optional :

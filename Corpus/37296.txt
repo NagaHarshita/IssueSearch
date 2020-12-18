@@ -1,0 +1,1 @@
+ URL : "https://github.com/mrmomoko/SignInBikeCollectives/issues/7" TITLE : localize all strings BODY : all the strings used for views in the app should be nslocalizedstring or a good swifty equivalent. the app hopes to be translated to spanish and french eventually.

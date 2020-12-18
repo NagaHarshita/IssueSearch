@@ -1,0 +1,1 @@
+ URL : "https://github.com/Tilana/Classification/issues/7" TITLE : automate feature selection BODY : perform grid search on feature space, their combinations and modulations like scaling, pca, etc to improve classification performance. similar to grid search on classifier and parameters

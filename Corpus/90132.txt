@@ -1,0 +1,1 @@
+ URL : "https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/232" TITLE : run with jdk1.8 failed！ BODY : jmeter-maven-plugin 2.2.0 caused by: java.lang.unsupportedclassversionerror: com/lazerycode/jmeter/mojo/configurejmetermojo : unsupported major.minor version 52.0

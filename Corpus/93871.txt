@@ -1,0 +1,1 @@
+ URL : "https://github.com/Paul-Tew/lifer/issues/1" TITLE : attr_str getting corrupted BODY : function get_attr_a is corrupting the character array when there is an unknown file attribute.

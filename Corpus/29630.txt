@@ -1,0 +1,1 @@
+ URL : "https://github.com/Evgenius2020/Kruskals-algorithm/issues/1" TITLE : memory leak problem BODY : тестер говорит, что в программе утечка. но не вижу, откуда ей взяться. все тщательно проверил.

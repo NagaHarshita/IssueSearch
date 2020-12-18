@@ -1,0 +1,1 @@
+ URL : "https://github.com/dadi/publish/issues/77" TITLE : url filter formatting BODY : currently we're using the same structure as an api filter. as per discussion with @josephdenne we will change this in post-mvp to: /{field}/{analyser}/{value} repeat e.g. /first_name/is/foo/last_name/is/bar

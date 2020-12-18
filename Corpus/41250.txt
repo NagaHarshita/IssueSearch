@@ -1,0 +1,1 @@
+ URL : "https://github.com/PoolC/Regulation/issues/3" TITLE : 회칙 관리 방법 BODY : 제대로 된 관리를 위해서 다음과 같은 방법을 사용하도록 변경 - 로컬에서 구운 html을 올리는게 아닌 md소스를 master 브랜치에 저장 - ci로 구워서 pages로 html버전과 pdf버전 다운로드를 제공

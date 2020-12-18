@@ -1,0 +1,1 @@
+ URL : "https://github.com/Nelsoneer/TeaCozy/issues/1" TITLE : span tag usage BODY : span tags are not really designed to wrap multiple elements, that is more of a divs job. i would wrap each a-tag in its own span tag here. https://github.com/nelsoneer/teacozy/blob/master/index.html l16-l20

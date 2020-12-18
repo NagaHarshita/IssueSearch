@@ -1,0 +1,1 @@
+ URL : "https://github.com/johnameyer/dunne-hall-website/issues/1" TITLE : migrate to template engine BODY : migrate to twig or some other templating engine in order to make future modification of codebase - by myself or by others - much easier

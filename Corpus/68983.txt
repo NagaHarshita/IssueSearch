@@ -1,0 +1,1 @@
+ URL : "https://github.com/Evenedric/stuff/issues/32" TITLE : speed up solver::sameas BODY : we can speed up solver::sameas if necessary by having an early-out that compares a 10x subsampled dielectric field, so that when parameters change and we really do need to recompute the solution we don't compute the dielectric field twice only 1.1x .

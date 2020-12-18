@@ -1,0 +1,1 @@
+ URL : "https://github.com/chrisjsewell/ipypublish/issues/4" TITLE : add travis ci testing BODY : running run_nbconvert for the example.ipynb and checking that it runs to completion

@@ -1,0 +1,1 @@
+ URL : "https://github.com/burkemtaylor/CS-2340-A113/issues/8" TITLE : m3: update model facade BODY : in the model facade, there is a method called replacestudentdata. add a line of code there to update the classstanding along with the name and major.

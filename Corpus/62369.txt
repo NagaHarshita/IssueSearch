@@ -1,0 +1,1 @@
+ URL : "https://github.com/jerryscript-project/jerryscript/issues/1600" TITLE : cleanup python warnings BODY : we should eliminate all of the python warnings reported by pylint tool. after that we can validate our tool scripts with pylint on travis ci to improve the review process of them. there too many warnings in the current scripts. so my plan is to do it in several prs.

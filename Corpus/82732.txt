@@ -1,0 +1,1 @@
+ URL : "https://github.com/shopgun/graphql-erlang-tutorial/issues/26" TITLE : apollo project definition BODY : missing explanation about the apollo project. https://github.com/shopgun/graphql-erlang-tutorial/blob/master/doc/schema.asciidoc the-node-interface > the erlang version of graphql allows a certain extension by the apollo people.

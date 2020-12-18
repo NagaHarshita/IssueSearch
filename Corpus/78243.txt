@@ -1,0 +1,1 @@
+ URL : "https://github.com/AsynkronIT/protoactor-dotnet/issues/2" TITLE : port receivetimeout to c BODY : receivetimeout is implemented in go, it needs to be ported over to c too

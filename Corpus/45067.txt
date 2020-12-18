@@ -1,0 +1,1 @@
+ URL : "https://github.com/Boud504/prj-rev-bwfs-tea-cozy/issues/4" TITLE : great! global styling BODY : https://github.com/boud504/prj-rev-bwfs-tea-cozy/blob/master/tea_cozy/resources/css/style.css l1-l10 i like how you used the 'body' tag to apply certain stylings to the entire document, instead of needing to retype those words multiple times in multiple selectors.

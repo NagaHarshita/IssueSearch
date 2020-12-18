@@ -1,0 +1,1 @@
+ URL : "https://github.com/saveriomiroddi/vga-passthrough/issues/8" TITLE : add omvf build chapter. BODY : copy the post from the blog, in order to address qemu 2.10 incompatibility.

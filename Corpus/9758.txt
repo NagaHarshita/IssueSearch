@@ -1,0 +1,1 @@
+ URL : "https://github.com/jasonmunro/cypht/issues/199" TITLE : add custom theme BODY : hello, how can i add new custom theme? i think that it's is not a correct way to change hm_themes function in modules/themes/modules.php

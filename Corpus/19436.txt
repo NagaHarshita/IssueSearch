@@ -1,0 +1,1 @@
+ URL : "https://github.com/kfcook/homeassistant/issues/15" TITLE : add blinds to away BODY : if it's between sunrise and 20 mins before sunset. open blinds if away and it's 20 mins till sunset.

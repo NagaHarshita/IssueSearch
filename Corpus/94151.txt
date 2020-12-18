@@ -1,0 +1,1 @@
+ URL : "https://github.com/jcsilva/docker-kaldi-gstreamer-server/issues/29" TITLE : brazilian portuguese model BODY : i'm trying to build a model for brazilian portuguese, but until now i didn't find enough free/open resources. not sure if you know about this http://laps.ufpa.br/falabrasil/downloads.php there are some corpus that could be used for training i believe

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jakegornall/MeatFestWebsite/issues/1" TITLE : donatebadge is not defined BODY : getting this error in devtools. homepage.js:11691 uncaught referenceerror: donatebadge is not defined at object._hyphenpattern homepage.js:11691 at __webpack_require__ homepage.js:20 at module.exports homepage.js:66 at homepage.js:69

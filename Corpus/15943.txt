@@ -1,0 +1,8 @@
+ URL : "https://github.com/humw/elabautomation/issues/25" TITLE : get lun wwpn list BODY : <p>input:</p>
+<ul>
+<li>vmax id</li>
+<li>lun id example: 19a:19e, 18c, 18e </li>
+</ul>
+<p>output:
+lun wwn list 600xxxxxxxxxxxxxxx,
+6001xxxxxxxxxxxxxx </p>

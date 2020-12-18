@@ -1,0 +1,1 @@
+ URL : "https://github.com/pspeter3/sojourn/issues/12" TITLE : add webpack support BODY : webpack should be used for development and live reload.

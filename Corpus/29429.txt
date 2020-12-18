@@ -1,0 +1,1 @@
+ URL : "https://github.com/viruxe/ScavengeSurvive/issues/21" TITLE : lock server on load BODY : lock the server while it's loading up, to prevent fuckups.

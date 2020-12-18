@@ -1,0 +1,1 @@
+ URL : "https://github.com/govau/uikit/issues/44" TITLE : http to https redirection BODY : https://github.com/govau/uikit/issues/43 requested an ssl cert for http://guides.service.gov.au/design-guide/ which is available under the .service.gov.au wildcard certificate. however, we should also implement http to https redirection for this domain.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ysharma1126/EAD-Attack/issues/1" TITLE : error in en_attack.py BODY : file /en_attack.py , line 218, in attack_batch bestl1 e = l1 nameerror: name 'l1' is not defined

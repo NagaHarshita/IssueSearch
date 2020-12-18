@@ -1,0 +1,1 @@
+ URL : "https://github.com/csev/py4e/issues/138" TITLE : autograder: exercise 5.2 BODY : it is written: enter 7, 2, bob, 10, and 4 you should write: enter 7, 2, bob, 10, 4 and done

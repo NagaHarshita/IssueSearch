@@ -1,0 +1,1 @@
+ URL : "https://github.com/andrew09/pda-tool/issues/130" TITLE : create single photo page BODY : on press of a single photo from the photolist, it should open a page which is the photo enlarged to full width and the form to report on the single photo as is in the original app. this task can also handle deleting photos.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Bit-Wasp/bitcoin-php/issues/592" TITLE : please add a version! BODY : my composer cant install dev-master. and it seems the last version 0.007 was created over 3 years ago and lacks all the cool stuff.

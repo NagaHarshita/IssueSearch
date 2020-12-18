@@ -1,0 +1,1 @@
+ URL : "https://github.com/tass-belgium/picotcp/issues/468" TITLE : document weak functions BODY : some of our functions are defined weak , so that they can be overruled by a better implementation e.g. pico_rand , but as far as i know this isn't really documented anywhere.

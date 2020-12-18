@@ -1,0 +1,1 @@
+ URL : "https://github.com/aleksip/shila-drupal-theme/issues/12" TITLE : not a valid pattern BODY : you may have a typo in 03-templates/shila-basic-page/shila-basic-page.html.twig. base.twig is not a valid pattern... this error appears during the install and when running gulp

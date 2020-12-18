@@ -1,0 +1,1 @@
+ URL : "https://github.com/bblanchon/ArduinoJson/issues/618" TITLE : simple json stream BODY : hello... a simple question.. how do you generate a simple json stream like this: { temperature : 20 humidity : 30 } i tried arrays and nested arrays but couldn't entirely get it. thank you

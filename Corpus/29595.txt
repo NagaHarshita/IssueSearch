@@ -1,0 +1,1 @@
+ URL : "https://github.com/dtmoodie/EagleEye/issues/29" TITLE : master branch webui BODY : cmake needs to be updated to find the new headers that replaced instantiate.hpp

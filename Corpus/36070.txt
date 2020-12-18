@@ -1,0 +1,1 @@
+ URL : "https://github.com/gateship-one/odyssey/issues/73" TITLE : fr .cue file support BODY : some albums are distributed as a single audio file with an accompanying .cue file. ideally, these would populate a playlist, rather than appearing as a single long track.

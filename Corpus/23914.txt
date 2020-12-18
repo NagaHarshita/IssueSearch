@@ -1,0 +1,1 @@
+ URL : "https://github.com/devsummit/app/issues/627" TITLE : restyle tiket list BODY : for now ticket list style padded by card dimension, we need to make it more compact by moving the qr code to the right card.

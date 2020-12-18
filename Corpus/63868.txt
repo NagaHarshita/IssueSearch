@@ -1,0 +1,1 @@
+ URL : "https://github.com/LDMXAnalysis/ldmx-sw/issues/309" TITLE : extend ecal detector id BODY : extend ecal to include a module position field so that copynumbers in gmdl can be matched up correctly.

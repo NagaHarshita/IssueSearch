@@ -1,0 +1,1 @@
+ URL : "https://github.com/nathanp/crypto-price-widget/issues/1" TITLE : btc base currency bug BODY : when btc is the base currency, btc in the main app window turns to eth. not sure why at this point. may have to manually write conditional for this.

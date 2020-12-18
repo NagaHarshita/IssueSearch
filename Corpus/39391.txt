@@ -1,0 +1,1 @@
+ URL : "https://github.com/joshuazweig/C-/issues/16" TITLE : semant type matching BODY : semant.ml requires that the type of the rvalue and lvalue in an assignment must be the same. this prevents us from being able to say stone x; x = 34923 ; easy fix, just need to add a condition for it.

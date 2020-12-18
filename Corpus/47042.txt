@@ -1,0 +1,1 @@
+ URL : "https://github.com/mollie/mollie-api-python/issues/24" TITLE : no object for refunds BODY : an api object for modelling refunds is missing from this api client. we should add a object to make it easier to integrate refunds in python applications.

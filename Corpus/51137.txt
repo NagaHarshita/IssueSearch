@@ -1,0 +1,1 @@
+ URL : "https://github.com/codedellemc/rexray/issues/792" TITLE : add smart size parsing BODY : summary users should be able to specify sizes using a suffix e.g. 10g , to make it clear exactly what they are requesting. this should be allowed at both the cli and in any config files.

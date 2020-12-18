@@ -1,0 +1,1 @@
+ URL : "https://github.com/facebook/buck/issues/1074" TITLE : a wrong parameter name BODY : a wrong parameter name 'lock_type', should be 'exclusive': https://github.com/facebook/buck/commit/41ccfead29c14cb2153d9c5b96ac1998e74866ae diff-a42a103bfcb0e5d176d8d19a7769291fr36

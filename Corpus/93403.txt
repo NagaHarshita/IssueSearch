@@ -1,0 +1,1 @@
+ URL : "https://github.com/socialsensor/graphdb-benchmarks/issues/24" TITLE : add support for janusgraph BODY : janusgraph https://github.com/janusgraph/janusgraph is a recently-released graph database, forked from titandb, which is no longer maintained. it should be possible to reuse a lot of the titan benchmarking code, since janusgraph is titan-compatible.

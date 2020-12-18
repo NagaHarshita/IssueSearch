@@ -1,0 +1,1 @@
+ URL : "https://github.com/JakubOnderka/PHP-Console-Highlighter/issues/14" TITLE : release version 1.0.0 BODY : what blockers are there to releasing a 1.0.0 version? it seems that this package is already used in production albeit continuous-integration production, rather than user-facing .

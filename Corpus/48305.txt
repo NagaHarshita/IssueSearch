@@ -1,0 +1,1 @@
+ URL : "https://github.com/lambdaclass/riak_core_example/issues/4" TITLE : review console module BODY : https://github.com/basho/riak_core/blob/master/src/riak_core_console.erl consider wrapping interesting calls in rc_example

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Mindar/Charty/issues/1" TITLE : finalize backend interface BODY : develop a flexible data backend interface that can be used to implement backends for various types of data such as .csv files, json data, xml data, etc. the backend will be used to provide data to a chart frontend/renderer.

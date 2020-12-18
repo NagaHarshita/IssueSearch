@@ -1,0 +1,1 @@
+ URL : "https://github.com/mattzeunert/glasswing/issues/48" TITLE : breaks redux todo app demo BODY : https://github.com/reactjs/redux/tree/master/examples/todos trying to a new todo while inspecting app reloads page

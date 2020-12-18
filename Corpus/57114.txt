@@ -1,0 +1,1 @@
+ URL : "https://github.com/HakuTeam/AlphaBomberman/issues/6" TITLE : playertwo movement bug BODY : playertwo movement must be fixed - now he move whit: 'w' - left, s - right, a - up, d - down they need to be: w-up, d- right, s- down, a- left. @hakuteam/csharpadvanced

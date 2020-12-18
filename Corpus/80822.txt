@@ -1,0 +1,1 @@
+ URL : "https://github.com/spring-projects/spring-boot/issues/9611" TITLE : upgrade to tomcat 8.5.16 BODY : this release brings some property accessor that are new in 9. migrating to them will improve forward compatibility, see 9531

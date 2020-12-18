@@ -1,0 +1,1 @@
+ URL : "https://github.com/ritoplz/ritoplz/issues/346" TITLE : add how-to page BODY : how to confirm your summoner page - if it's redirected from /add-summoner should include the code received. - otherwise, don't show the code on the page. - add how-to on faq

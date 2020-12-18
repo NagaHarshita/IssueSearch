@@ -1,0 +1,1 @@
+ URL : "https://github.com/valor-software/ng2-file-upload/issues/696" TITLE : allowed file types doesn't BODY : allowedfiletype: .bmp , .doc , .docx , .gif , .jpeg , .jpg , .msg , .pdf , .png , .tif , .tiff , .txt , .xls , .xlsx uploader is not working on including the above types. as per the doc allowedfiletype accepts array<string>

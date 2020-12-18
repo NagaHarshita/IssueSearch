@@ -1,0 +1,1 @@
+ URL : "https://github.com/QGEP/QGEP/issues/277" TITLE : adding 3d reaches issue BODY : when creating new reaches with qgis, i get this error: _layer vw_qgep_reach: postgis error while adding features: erreur: column has z dimension but geometry does not_ did i miss something to modify in the project .qgs?

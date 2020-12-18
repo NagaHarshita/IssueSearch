@@ -1,0 +1,1 @@
+ URL : "https://github.com/ByteInternet/hypernode-vagrant/issues/165" TITLE : cannot login the ssh BODY : after installing the box i cannot get into the ssh server of the hypernode with the following command ssh app@hypernode.local -ostricthostkeychecking=no -oaddressfamily=inet however, using ssh vagrant is working, but i think those are not the same. how can i fix this issue?

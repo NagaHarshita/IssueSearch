@@ -1,0 +1,1 @@
+ URL : "https://github.com/simon-p-r/pre-cmake-js/issues/5" TITLE : install fallback to build BODY : fallback to build is not working, see here https://github.com/simon-p-r/pre-cmake-js/blob/master/lib/commands/install.js l200

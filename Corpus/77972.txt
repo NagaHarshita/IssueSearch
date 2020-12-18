@@ -1,0 +1,1 @@
+ URL : "https://github.com/panux/packages-main/issues/3" TITLE : package addition: uclibc BODY : we need uclibc in order to keep the container small hopefully <2mb

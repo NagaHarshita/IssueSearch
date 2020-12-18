@@ -1,0 +1,1 @@
+ URL : "https://github.com/client9/ipcat/issues/93" TITLE : cannot run make generate BODY : i've honestly tried to update the stats, but could not – $ make generate go run ./cmd/ipcat/main.go command-line-arguments cmd/ipcat/main.go:82: undefined: ipcat.downloadcloudflare cmd/ipcat/main.go:86: undefined: ipcat.updatecloudflare make: generate error 2

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ahijaouy/CS2340/issues/7" TITLE : m2 - add and remove files BODY : - add a text file to top level directory lavleld readme. personnumber .txt ... should contain name and email. - delete text file useless. personnumber.txt - use good descriptive log comments for commits - roll back changes by rolling back to original branch

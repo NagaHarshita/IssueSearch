@@ -1,0 +1,1 @@
+ URL : "https://github.com/sidahmed-malaoui/act/issues/6" TITLE : change the readme BODY : add how to install the snap package. change the examples to explain that the script is verbose by default, and it need to use the --quiet option if no output is needed. brief explanation about the program.

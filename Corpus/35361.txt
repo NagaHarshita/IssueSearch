@@ -1,0 +1,1 @@
+ URL : "https://github.com/MattGreenwood/prj-rev-bwfs-dasmoto/issues/3" TITLE : don't use break tags BODY : <br /> tags are generally considered bad practice, try not to use them. instead use styling to get the effects you need, like block display or just using another element. https://github.com/mattgreenwood/prj-rev-bwfs-dasmoto/blob/master/dasmotos/index.html l15

@@ -1,0 +1,1 @@
+ URL : "https://github.com/docevaad/Chain/issues/214" TITLE : strict mode and .net core BODY : .net core seems to be ignoring notmapped in strict mode checks.

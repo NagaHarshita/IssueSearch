@@ -1,0 +1,1 @@
+ URL : "https://github.com/spatie/laravel-translation-loader/issues/31" TITLE : editing vendor translation BODY : all edited lines are saved with their group and key. is it possible to edit lines from vendor packages and how do i save them in the database?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jakeson21/Arduino-Tiva-TM4C123G/issues/7" TITLE : swap uart labels on d0,d1 BODY : should read d0 = tx d1 = rx

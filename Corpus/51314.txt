@@ -1,0 +1,1 @@
+ URL : "https://github.com/Linkyu/Geomarcheur/issues/24" TITLE : admin - créer un lieu BODY : scénario 1: le lieu est créé avec les nouvelles informations. ok scénario 2: le lieu n’est pas créé car les informations sont incohérentes. nok

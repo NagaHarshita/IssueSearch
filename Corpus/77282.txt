@@ -1,0 +1,1 @@
+ URL : "https://github.com/KapiX/Koder/issues/33" TITLE : multiline find & replace BODY : koder should be able to find and replace strings that span multiple lines. for that, it would be nice to have multiline text boxes for find and replace strings, instead of the current single line text control. maybe some pe code can be lifted for that.

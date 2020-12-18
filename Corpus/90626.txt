@@ -1,0 +1,1 @@
+ URL : "https://github.com/litil/vcp-app/issues/26" TITLE : sound and data not synced BODY : after a while 10 minutes , the song data and the sound are not synced: more than 20s offset. we shouldn't auto load / pre load the stream.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/sophsec/ruby-nmap/issues/48" TITLE : dealing with nse BODY : hi is there a way to parse and deal with nse scripts? i mean, if we can deal with scripts as objects and set its arguments, particularly --script-args=

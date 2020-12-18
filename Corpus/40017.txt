@@ -1,0 +1,1 @@
+ URL : "https://github.com/larskanis/pg-ldap-sync/issues/13" TITLE : sync from pg to ldap BODY : hello! is it possible to configure pg-ldap-sync utility for backward sync, from pg to ldap? thank you!

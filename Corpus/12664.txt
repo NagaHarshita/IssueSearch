@@ -1,0 +1,1 @@
+ URL : "https://github.com/wix/react-native-newrelic/issues/9" TITLE : readme file typo BODY : section ios -> add the project to xcode -> shouldn't be the name of the file librnnewrelic.a instead of librndnewrelic.a ?

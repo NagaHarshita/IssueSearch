@@ -1,0 +1,1 @@
+ URL : "https://github.com/Automattic/underscores.me/issues/61" TITLE : sass and grid system BODY : hey all! is there a reason the bootstrap grid is not part of the sass files? i was using the regular bootstrap then decided i wanted to use the sass for variables and poof! the grid was gone. did i miss something? thanks in advance, christina

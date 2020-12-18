@@ -1,0 +1,1 @@
+ URL : "https://github.com/derUli/teapot/issues/2" TITLE : embed code aktivieren BODY : wenn die aktuelle seite das modul teapot enthält, dann auch den status 418 senden.

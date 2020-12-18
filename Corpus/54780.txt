@@ -1,0 +1,1 @@
+ URL : "https://github.com/mingrammer/commonregex/issues/5" TITLE : how about adding isbn? BODY : wikipedia isbn article https://en.wikipedia.org/wiki/international_standard_book_number it has 10 or 13 numbers and the check digit on last should be calculated.

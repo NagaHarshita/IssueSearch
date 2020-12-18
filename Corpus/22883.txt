@@ -1,0 +1,1 @@
+ URL : "https://github.com/tilezen/tapalcatl/issues/44" TITLE : move server binary BODY : the idiomatic way to do commands in go is $project_root/cmd/$command_name . instead of tapalcatl_server , we should move it to cmd/tapalcatl . the change in this repo is fairly straightforward, but would also need corresponding changes in the chef recipes.

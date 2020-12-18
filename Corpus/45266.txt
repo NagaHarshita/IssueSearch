@@ -1,0 +1,1 @@
+ URL : "https://github.com/QuickBlox/quickblox-ios-sdk/issues/792" TITLE : how qbrtcclient work? BODY : qb-os = ios 10.1.1 qb-sdk = ios 2.9 quickbloxwebrtc version = 2.3 how qbrtcclient work in case of video call?

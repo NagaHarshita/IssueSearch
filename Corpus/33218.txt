@@ -1,0 +1,1 @@
+ URL : "https://github.com/500tech/angular-tree-component/issues/519" TITLE : add checkbox to tree BODY : hello i want to use usecheckbox property in tree options. i use npm install --save angular-tree-component to get angular tree module, but there is not checkbox component in it. how can i get checkbox component ? thanks

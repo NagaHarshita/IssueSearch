@@ -1,0 +1,1 @@
+ URL : "https://github.com/Ekito/koin/issues/23" TITLE : core sub context isolation BODY : components can be visible in context hierarchy - but must be isolated if context are disjoined

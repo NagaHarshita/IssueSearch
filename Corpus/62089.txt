@@ -1,0 +1,1 @@
+ URL : "https://github.com/Wenzel/kvm-vmi/issues/2" TITLE : cannot allocate memory! BODY : hello,i have built the nitro test environment,and i used virt-manager to create my win7 vm,but when i run ./nitro pid ,it shows mmap: cannot allocate memory,what's wrong with it?

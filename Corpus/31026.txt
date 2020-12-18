@@ -1,0 +1,1 @@
+ URL : "https://github.com/ultreia-io/migrate-redmine-to-gitlab/issues/2" TITLE : requires python 3.5 BODY : python 3.4 is specified as minimum requirement, but it seems to need at least 3.5 because of the use of 'scandir': https://www.python.org/dev/peps/pep-0471/

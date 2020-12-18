@@ -1,0 +1,1 @@
+ URL : "https://github.com/k1LoW/awspec/issues/322" TITLE : support aws sdk 3.x BODY : would you upgrade to aws sdk 3 as that has now been released? happy to update the gemspec and give a pr if you want but with it being a one-line code change i wasn't sure if it was worth it 😄

@@ -1,0 +1,1 @@
+ URL : "https://github.com/CybroOdoo/CybroAddons/issues/6" TITLE : pos product loading BODY : the module surely displays the products whose categories have been mentioned, but the pos loads all the products at once. this means it takes time to load 100,000 products, even if displayed/selected products are only 100. in my case, i have a relatively huge database

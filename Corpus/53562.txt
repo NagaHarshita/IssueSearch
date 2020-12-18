@@ -1,0 +1,1 @@
+ URL : "https://github.com/saenzramiro/rambox/issues/752" TITLE : electron context menue BODY : version: 0.5.3 platform: win32 x64 electron: 1.4.15 chromium: 53.0.2785.143 node: 6.5.0 i want to have a right click menue on electron like it described here: https://www.npmjs.com/package/electron-context-menu how i can do this?

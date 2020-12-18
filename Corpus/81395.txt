@@ -1,0 +1,1 @@
+ URL : "https://github.com/tompaana/bot-message-routing/issues/3" TITLE : write initial unit tests BODY : for this it's enough to have e2e tests for messageroutingmanager class.

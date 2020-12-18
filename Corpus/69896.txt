@@ -1,0 +1,1 @@
+ URL : "https://github.com/nrwl/nx/issues/166" TITLE : undo optimistic updates BODY : is it possible to pass the original dispatched actions from the optimisticupdate.run function to the optimiticupdate.undoaction function? the reason i'm asking is because i would like to use https://github.com/brechtbilliet/ngrx-undo for undoing an action upon failure.

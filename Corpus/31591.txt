@@ -1,0 +1,1 @@
+ URL : "https://github.com/rauchg/slackin/issues/272" TITLE : ssl / custom domain BODY : i see on openshift you can make use of a custom domain name. slack.domain.com. i am trying to that, utilizing now. but, i am not seeing a flag for that while using now. instead, i setup a cname to forward to the random domain it provides, getting ssl errors.

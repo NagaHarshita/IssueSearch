@@ -1,0 +1,1 @@
+ URL : "https://github.com/DylanStruik/fro-opdrachten/issues/3" TITLE : grid template columns BODY : wat is het verschil tussen grid-template-columns: 3fr 6fr; en grid-template-columns: 1fr 2fr; ?

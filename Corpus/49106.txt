@@ -1,0 +1,1 @@
+ URL : "https://github.com/docker/communitytools-image2docker-win/issues/38" TITLE : support multiple vhds BODY : where vms run with many disks attached, we could have the iis configuration on the c drive pointing to apps stored on the d drive. need to be able to mount those additional disks in the tool - something like: ... -additionaldisks d=app-disk.vhd

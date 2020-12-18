@@ -1,0 +1,1 @@
+ URL : "https://github.com/grbl/grbl/issues/1242" TITLE : how send ctrl-x to grbl? BODY : hi i want to send rest ctrl-x to grbl from serial but nothing work. how can i send? i can send ? , ! but ctrl-x not work. thanks

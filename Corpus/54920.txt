@@ -1,0 +1,1 @@
+ URL : "https://github.com/opendata-stuttgart/sensors-software/issues/53" TITLE : http header umbenennen BODY : pin und sensor sind keine standardisierten http-header. sie sollte daher umbenannt werden in x-pin und x-sensor . wofür wird der pin-wert überhaupt verwendet?

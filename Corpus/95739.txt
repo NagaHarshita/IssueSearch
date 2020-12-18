@@ -1,0 +1,1 @@
+ URL : "https://github.com/deis/monitor/issues/171" TITLE : disable sign up by default BODY : hey, i've deployed deis to production and to my surprise, grafana allows for anyone to sign-up by default.. is there any reason to do so? i'd suggest disabling it and allowing to enable by setting allow_sign_up= true thanks!

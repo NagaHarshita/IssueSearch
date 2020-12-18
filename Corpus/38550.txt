@@ -1,0 +1,1 @@
+ URL : "https://github.com/Particular/NServiceBus.Encryption.MessageProperty/issues/19" TITLE : prepare beta release BODY : plan of attack - fix public api https://github.com/particular/nservicebus.encryption.messageproperty/issues/16 - update from alpha to beta https://github.com/particular/nservicebus.encryption.messageproperty/pull/18 - publish

@@ -1,0 +1,1 @@
+ URL : "https://github.com/diddipoeler/sportsmanagement/issues/465" TITLE : jsm - modul randomplayer: BODY : wenn das modul veröffentlicht wird erscheint folgende fehlermeldung: 1064 - you have an error in your sql syntax; check the manual that corresponds to your mysql server version for the right syntax to use near ':sv ofenerdiek order by rand limit 1' at line 4

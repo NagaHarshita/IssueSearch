@@ -1,0 +1,1 @@
+ URL : "https://github.com/KnisterPeter/react-to-typescript-definitions/issues/450" TITLE : syntax static proptypes = BODY : looks like syntax like this is not supported. https://github.com/algolia/react-instantsearch/blob/746e362d936c5c0d5a79e2320e085b7b49855256/packages/react-instantsearch/src/core/createinstantsearch.js l14-l35

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ggoodman/angular-drag-drop/issues/24" TITLE : after drop problem BODY : after drop an item in a other list, first list contains dragged item hidden or with background trasparent. i want to remove item from first list.

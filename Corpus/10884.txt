@@ -1,0 +1,1 @@
+ URL : "https://github.com/dastyk/SE/issues/64" TITLE : dump ram to disk BODY : implement functionality for dumping memory to disk. so if we calculate something on the cpu and need it later, we can dump in on the disk to save ram.

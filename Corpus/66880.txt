@@ -1,0 +1,1 @@
+ URL : "https://github.com/sbidin/sdl2-image/issues/5" TITLE : not building on windows BODY : could it be that sdl2-image needs the same fix as sdl2-ttf ? if os windows cpp-options: -d_sdl_main_h

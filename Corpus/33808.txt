@@ -1,0 +1,1 @@
+ URL : "https://github.com/chicago-justice-project/chicago-justice/issues/13" TITLE : article geo location BODY : be able to set the location for an article. article models have a gis field: objects = gismodels.geomanager is anything else needed? are we using it right? should derived data categories, lat/lng be stored in a separate table from the raw article data?

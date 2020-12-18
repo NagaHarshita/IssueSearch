@@ -1,0 +1,1 @@
+ URL : "https://github.com/cpetry/AntSim/issues/4" TITLE : add a unit testing library BODY : as the project grows, unit testing would be great to ensure functionality of modules. a quick look at common and popular libraries revealed unitjs with mocha as a possible solution. confirm and implement

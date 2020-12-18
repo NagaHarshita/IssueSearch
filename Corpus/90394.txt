@@ -1,0 +1,1 @@
+ URL : "https://github.com/eclipsesource/tabris-js/issues/1115" TITLE : setting tintcolor to null BODY : it is currently not possible to reset the value of tintcolor as setting it to null emits a warning about an invalid value. tested on android

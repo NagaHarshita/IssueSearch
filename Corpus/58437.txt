@@ -1,0 +1,1 @@
+ URL : "https://github.com/rts-55/f1-3-c2p1-colmar-academy/issues/5" TITLE : simplify. css comments BODY : https://github.com/rts-55/f1-3-c2p1-colmar-academy/blob/master/colmar_academy/resources/css/style.css l7 adding in comments to your code really helps obviously organize it, both for you, and newcomers looking at the code.

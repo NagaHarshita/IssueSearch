@@ -1,0 +1,1 @@
+ URL : "https://github.com/Necrobot-Private/NecroBot/issues/1135" TITLE : gui gui startup fullscreen BODY : if screen width <1366, then win gui will startup in fullscreen instead of 1366 t

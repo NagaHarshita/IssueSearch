@@ -1,0 +1,1 @@
+ URL : "https://github.com/VirtueSecurity/aws-extender/issues/7" TITLE : show one issue BODY : hi guys, i've noticed that it shows the same bucket it's found a few times. is it possible to have it list each unique bucket name and then inside the advisory the list of the url of where it found the s3 bucket referenced?

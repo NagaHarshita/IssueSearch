@@ -1,0 +1,1 @@
+ URL : "https://github.com/MortenHoustonLudvigsen/process-promises/issues/4" TITLE : can run example BODY : hi, if i run your typescript example at https://github.com/mortenhoustonludvigsen/process-promises usage---typescript, i get: property 'then' does not exist on type 'promisewithevents<execresult>'. i'm running v8.1.4

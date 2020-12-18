@@ -1,0 +1,1 @@
+ URL : "https://github.com/jantman/ecsjobs/issues/10" TITLE : docs on running BODY : update the running page of the docs with examples for how to run locally in docker, and how to run in ecs

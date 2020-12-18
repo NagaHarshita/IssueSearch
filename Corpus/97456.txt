@@ -1,0 +1,1 @@
+ URL : "https://github.com/isasimo/teacozy/issues/2" TITLE : great! use of id vs. class BODY : https://github.com/isasimo/teacozy/blob/master/index.html l26-l30 it appears that you're using ids for unique items, and classes for selectors that you repeat, which is perfect and a nuanced aspect of html/css that confuses many. great!

@@ -1,0 +1,1 @@
+ URL : "https://github.com/poldracklab/mriqc/issues/666" TITLE : docker database size BODY : update the documentation about docker to include this issue, reported through the mailing list. the solution is: service docker stop dockerd --storage-opt dm.basesize=30g

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla-neutrino/neutrino-dev/issues/166" TITLE : emit run events BODY : if you want to execute some generic code prior to a build, you would need to listen for pretest , prestart , and prebuild . if we can create emit prerun and run events, there wouldn't need to be multiple bindings for generic tasks.

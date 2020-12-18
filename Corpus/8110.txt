@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla/python-spidermonkey/issues/10" TITLE : move off aurora BODY : aurora is no longer, so we should either move to beta or nightly. thoughts @entequak ?

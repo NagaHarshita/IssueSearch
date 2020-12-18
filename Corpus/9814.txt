@@ -1,0 +1,1 @@
+ URL : "https://github.com/hakovala/zbackup/issues/11" TITLE : add info command BODY : info command should print relevant information about the backup and current state.

@@ -1,0 +1,2 @@
+ URL : "https://github.com/OpenNebula/one/issues/730" TITLE : add a zone status api call BODY : --- author name: ruben s. montero @rsmontero original redmine issue: 2695, https://dev.opennebula.org/issues/2695
+original date: 2014-01-30 --- also reflects the status in the zone.

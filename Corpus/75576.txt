@@ -1,0 +1,1 @@
+ URL : "https://github.com/bitwarden/core/issues/74" TITLE : how to execute the image BODY : please tell me i am using ubuntu platform docker,bitwarden installation has been done. when i type docker images command it shows me repository : bitwarden/setup tag : latest. please let me know how can i execute this image and start using the password manager.

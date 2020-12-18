@@ -1,0 +1,1 @@
+ URL : "https://github.com/mdda/deep-learning-workshop/issues/3" TITLE : num.pkl dataset missing BODY : hello, thank you for this code. i enjoyed your talk at google singapore a while back. i was trying to run speechrecognition_learn.ipynb but i could not find the num.pkl or test dataset. the train_data also doesn't seem to be defined.

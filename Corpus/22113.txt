@@ -1,0 +1,1 @@
+ URL : "https://github.com/tzmfreedom/spm/issues/7" TITLE : import to anywhere BODY : now spm allows us to upload to salesforce only. but in new feature, we can upload salesforce metadata files to anywhere if struct for uploader is defined. the interface for uploader have upload method and installer use this interface method.

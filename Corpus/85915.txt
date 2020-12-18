@@ -1,0 +1,1 @@
+ URL : "https://github.com/PythonNut/emacs-config/issues/47" TITLE : fuzzy completion in c/c++ BODY : c/c++ names can get quite long, so this could be a big win if this could be worked into company-irony .

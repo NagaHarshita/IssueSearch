@@ -1,0 +1,1 @@
+ URL : "https://github.com/MonikaDesu/Rebecca/issues/1" TITLE : neural network layout BODY : first we need to consider what kind of nn model we should do for rebecca. i'm considering a recurrent model as it allows to listen to the context vector while learning from user input.

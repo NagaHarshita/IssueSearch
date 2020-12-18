@@ -1,0 +1,2 @@
+ URL : "https://github.com/mobilehobo/grays-hopper/issues/11" TITLE : create order model BODY : - create the model and associations
+- make class method to make an order

@@ -1,0 +1,1 @@
+ URL : "https://github.com/samsung-cnct/k2cli/issues/127" TITLE : release requires gox BODY : the release documentation should also include the gox requirement. $ make release /bin/sh: gox: command not found make: makefile:14: compile error 127

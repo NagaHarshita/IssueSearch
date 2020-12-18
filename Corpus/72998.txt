@@ -1,0 +1,1 @@
+ URL : "https://github.com/rust-lang/rust/issues/45625" TITLE : clojure with no argument BODY : when creating a clojure, i propose that we use |_| instead of || when there's no argument.

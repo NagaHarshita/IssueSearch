@@ -1,0 +1,1 @@
+ URL : "https://github.com/mavoweb/mavo.io/issues/39" TITLE : typeof not in primer BODY : https://mavo.io/docs/ core-attributes lists typeof and refers to the primer but the primer does not mention typeof. perhaps linking to an example if there is one which uses typeof ?

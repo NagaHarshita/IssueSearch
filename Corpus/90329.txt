@@ -1,0 +1,1 @@
+ URL : "https://github.com/tazjin/kontemplate/issues/51" TITLE : separate documents issue. BODY : kubectl apply accepts yaml documents with multiple docs without --- in head. but without this seperator in head of each template the generated template from kontemplate becomes invalid.

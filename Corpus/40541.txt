@@ -1,0 +1,1 @@
+ URL : "https://github.com/blynkkk/blynk-server/issues/667" TITLE : update faces api fix BODY : dashboard.updatefacefields - remove copying theme field as it causes bugs when user have created app with theme different from the parent project

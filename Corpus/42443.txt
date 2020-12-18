@@ -1,0 +1,1 @@
+ URL : "https://github.com/gangh/my_python_kitchen/issues/1" TITLE : basic useful packages BODY : 记录下觉得有用的包包们 本记录于branch 中，但这种东西还是 issue 里更方便 ε=ε=ε=ε=ε=ε=┌ ;￣◇￣ ┘ dateutil refer to:https://github.com/dateutil/dateutil/ doc:https://dateutil.readthedocs.io/en/stable/index.html 可帮助处理时间差，绑定时区信息

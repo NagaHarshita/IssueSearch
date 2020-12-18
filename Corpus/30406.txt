@@ -1,0 +1,1 @@
+ URL : "https://github.com/helioricardo/reactnd-project-myreads/issues/10" TITLE : persists books data BODY : when the browser is refreshed, the same information is displayed on the page.

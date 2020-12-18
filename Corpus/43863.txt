@@ -1,0 +1,1 @@
+ URL : "https://github.com/atlassian/localstack/issues/33" TITLE : disable github issues BODY : the readme looks like you guys don't want issues or anything opened up here, and just want to treat this repo as a mirror. you probably want to disable github issues to avoid confusion.

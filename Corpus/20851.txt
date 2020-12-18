@@ -1,0 +1,1 @@
+ URL : "https://github.com/abhay-venkatesh/dffcn-hypthosis/issues/1" TITLE : data read tracking BODY : impossible to tell how much of the data has been read in the batch dataset reader. have some sort of tracking console output.

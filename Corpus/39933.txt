@@ -1,0 +1,1 @@
+ URL : "https://github.com/passbolt/passbolt_api/issues/186" TITLE : support for u2f keys BODY : i know two-factor auth is in the roadmap, but it says it will be utilizing our phones for it. i request that there also be support for u2f authentication as well.

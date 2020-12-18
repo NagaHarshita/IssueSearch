@@ -1,0 +1,1 @@
+ URL : "https://github.com/olikraus/u8glib/issues/467" TITLE : right align text BODY : how would i alight text to the right? for example if i had the numbers, 1 , 12 , and 123 , the default behavior is to display them from the left: 1 12 123 instead, i'd like to display them the other way around: 1 12 123

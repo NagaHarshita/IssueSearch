@@ -1,0 +1,1 @@
+ URL : "https://github.com/qwat/QWAT/issues/179" TITLE : pipe table is not audited BODY : current audit system does not log edits for pipes. probably a migration error. <!--- @huboard:{ order :20.99160209958007, milestone_order :20.979011545381496} -->

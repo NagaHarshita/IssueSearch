@@ -1,0 +1,1 @@
+ URL : "https://github.com/smutt/danish/issues/5" TITLE : add support for dane-ta BODY : this is contingent upon openwrt/lede using a version of the openssl lib that supports dane. this would require openwrt/lede move to 1.1 branch. they're currently on the 1.0 branch.

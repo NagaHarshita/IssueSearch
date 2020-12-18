@@ -1,0 +1,1 @@
+ URL : "https://github.com/DocNow/docnow/issues/23" TITLE : manage docker from node BODY : it would be useful to know what the options are for managing a docker swarm from node. i'm wondering if a data collections processes twarc? could be managed inside a docker container.

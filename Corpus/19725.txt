@@ -1,0 +1,1 @@
+ URL : "https://github.com/kisssandoradam/syllabus-manager/issues/28" TITLE : add syllabus buggy BODY : saving a syllabus navigates to a wrong page. variable home and other required attirbutes are not set up.

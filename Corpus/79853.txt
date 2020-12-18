@@ -1,0 +1,1 @@
+ URL : "https://github.com/andrewplummer/Sugar/issues/585" TITLE : subtract units from date BODY : hello! is there a way to subtract units in my case days from a date? something like: const to = sugar.date.create 'today' ; const from = to.subdays 3 ; i can't find how to do something like that, thank you!

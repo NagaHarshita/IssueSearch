@@ -1,0 +1,1 @@
+ URL : "https://github.com/vatesfr/xo-web/issues/2075" TITLE : missing vm templates BODY : since xs 7.0 or 7.1, template uuids are the same on different pools, which breaks xo. we should use opaque refs to identify them.

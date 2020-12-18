@@ -1,0 +1,1 @@
+ URL : "https://github.com/Barsonax/Pathfindax/issues/30" TITLE : add warning error messages BODY : summary the following things need better error messages: - tilemapnodegridgenerator needs to provide a proper warning when it cannot find a tilemap. - pathfinderproxy needs to provide a warning if it cannot find a pathfinder.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/AliasIO/Wappalyzer/issues/1452" TITLE : bookmarklet isn't working BODY : - https://wappalyzer.com/css/bookmarklet.css - https://wappalyzer.com/bookmarklet/wappalyzer.js - https://wappalyzer.com/bookmarklet/apps.js - https://wappalyzer.com/bookmarklet/driver.js are redirected to https://wappalyzer.com/download bookmarklet

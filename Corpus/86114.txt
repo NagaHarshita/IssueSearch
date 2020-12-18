@@ -1,0 +1,1 @@
+ URL : "https://github.com/sitch-io/logstash/issues/1" TITLE : gps telemetry to graphite BODY : send gps telemetry information to graphite/influxdb

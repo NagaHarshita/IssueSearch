@@ -1,0 +1,1 @@
+ URL : "https://github.com/Madhu093/WILDCATS/issues/2" TITLE : create ride tab BODY : home screen shows posts and mypost tabs already. need to create 'childs' in firebase db and add updates from user in the database and pull them whenever user opens rides tab as shiva wants

@@ -1,0 +1,1 @@
+ URL : "https://github.com/crystal-community/icr/issues/78" TITLE : reset does not work BODY : when i enter icr do whatever same thing happens when i do nothing first also and enter reset i get the following error undefined local variable or method 'reset' reset ^~~~~

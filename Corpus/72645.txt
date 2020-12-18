@@ -1,0 +1,1 @@
+ URL : "https://github.com/wix/react-native-interactable/issues/12" TITLE : cannot build for android BODY : hi when i run react-native run-android it fails with the error cannot evaluate module react-native-interactable : configuration with name 'default' not found. using react-native v0.42.0 and react-native-interactable v0.0.4

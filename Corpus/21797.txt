@@ -1,0 +1,1 @@
+ URL : "https://github.com/Sjoerdbeentjes/minor-css-to-the-rescue/issues/4" TITLE : groeperen van code BODY : ik zie dat je al je mediaqueries onderaan de pagina zet. dat kan. vaak is het handiger om ze per component gewoon bij alle code van dat component te houden. zeker zodra de css groter begint te worden en de elementen allemaal verschillende breakpoints blijken te hebben

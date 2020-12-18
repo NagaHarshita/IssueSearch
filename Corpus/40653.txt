@@ -1,0 +1,1 @@
+ URL : "https://github.com/spring-cloud-stream-app-starters/gpfdist/issues/7" TITLE : upgrade to reactor 3 BODY : this would follow deps reactor-core 3.0.4 and reactor-netty 0.6.0 .

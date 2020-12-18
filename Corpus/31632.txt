@@ -1,0 +1,1 @@
+ URL : "https://github.com/ekeih/OmNomNom/issues/39" TITLE : store menus as json BODY : currently every menu is stored as a single string in redis. instead they should be stored as a json object. this adds some overhead when the bot responds to messages but it enables the possibility to implement other frontends like an alexa skill or a general api.

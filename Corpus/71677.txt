@@ -1,0 +1,1 @@
+ URL : "https://github.com/schets/multiqueue/issues/5" TITLE : add timeout recv methods BODY : like channels, this should support the recv_timeout method

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ibigrock-karan/Bootstrap/issues/10" TITLE : e014 line 45 BODY : e014 line 45, column 4:columns .col- - can only be children of .row s or .form-group s

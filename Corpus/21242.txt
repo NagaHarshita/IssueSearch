@@ -1,0 +1,1 @@
+ URL : "https://github.com/endarthur/autti/issues/12" TITLE : error on new plots BODY : when using plot.projectionplot the plot comes dirty. should be better to clean it automatically on instantiating the method so that the code: python fig, ax = plt.subplots pp = plot.projectionplot ax pp.as_points x works without calling the clear_diagram before !

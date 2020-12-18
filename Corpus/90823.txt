@@ -1,0 +1,1 @@
+ URL : "https://github.com/seandavi/BiocPkgTools/issues/9" TITLE : strip email from authors? BODY : should getpackageinfo strip email from authors? the output is submitted to generatebiocpkgdoi . e.g., if i have authors: martin morgan <martin.morgan@roswellpark.org> should the function return my name and email, or just my name?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mxn21/FlowingDrawer/issues/48" TITLE : close drawer on item click BODY : hi... i am trying to close drawer automatically when any item clicked in drawer.have set new intent on item click and it work fine. but when i add code for close drawer on click of new intent the app crashes.

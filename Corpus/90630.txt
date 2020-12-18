@@ -1,0 +1,11 @@
+ URL : "https://github.com/SMRFoundation/NodeXLBasic/issues/176" TITLE : source code compile error BODY : nodexl version 1.0.1.245
+system: win 7 32bit
+vs2010 10.0.30319.1 i fellow the howtobuildnodexl.txt unzip the zip file into any directory.
+make copies of the original nodexl\exceltemplate .designer.cs files. there are eight of them: sheet1.designer.cs, sheet2,designer.cs, and so on.
+open nodexl.sln in visual studio 2010, which starts the conversion wizard.
+let the conversion wizard run to completion. the conversion succeeds without complaint, but unfortunately the .designer.cs files get mangled during the conversion.
+overwrite the badly converted .designer.cs files with the copies you made earlier.
+run build | rebuild solution.
+but i got a error:
+the type or namespace name 'folderpathcontrol' does not exist in the namespace 'smrf.applib' are you missing an assembly reference? i saw those file is in the outside common folder which doesn't contain in nodexl project.
+does there anybody got this problem like mine? how could i solve this problem? this work item was migrated from codeplex codeplex work item id: '24993' vote count: '1'

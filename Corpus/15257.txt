@@ -1,0 +1,1 @@
+ URL : "https://github.com/mukeshsoni/react-telephone-input/issues/132" TITLE : cut a new release BODY : hey @mukeshsoni, looks like the last few releases fixed the deprecation warnings that people on react > v15 have been getting. do you have some time to create a new release? i don't see it breaking anything.

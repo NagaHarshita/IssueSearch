@@ -1,0 +1,1 @@
+ URL : "https://github.com/opentx/opentx/issues/4320" TITLE : horus model import fails BODY : when importing models from horus, switches don't translate correctly in sf and ls.

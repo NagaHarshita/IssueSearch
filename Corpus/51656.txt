@@ -1,0 +1,1 @@
+ URL : "https://github.com/neilsustc/vscode-markdown/issues/17" TITLE : backspace doesn't work BODY : pressing the backspace key results in a warning... warn: command 'markdown.extension.onbackspacekey' not found - and it doesn't backspace. see attached image. ! image https://user-images.githubusercontent.com/1869729/28283146-70e748e6-6af2-11e7-90ff-74b4a6c49bbd.png

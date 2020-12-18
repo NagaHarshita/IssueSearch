@@ -1,0 +1,1 @@
+ URL : "https://github.com/Huzuni/Huzuni-1.11/issues/79" TITLE : forge crashes on launch BODY : when using the latest recommended version of forge for 1.12 and the latest version of huzuni for 1.12, minecraft crashes when opening it. i placed huzuni in the mods folder, when it isn't in the mod folder, forge loads, when huzuni is in the mods folder, minecraft crashes. please help.

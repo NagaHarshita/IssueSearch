@@ -1,0 +1,1 @@
+ URL : "https://github.com/Tribler/tribler/issues/3259" TITLE : setup issues on v6.5.2 BODY : please, don't populate c: with dlls & data files for framework, c: is not a place to install software or framework data. it's a place that should remain clean & dangerous for not being mied up with elementary os files.

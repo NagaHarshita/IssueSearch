@@ -1,0 +1,1 @@
+ URL : "https://github.com/varkor/siteswap/issues/11" TITLE : add named patterns BODY : a constructor like siteswap.parse that accepts both siteswap notation as well as natural-language names like 5-ball cascade would be very useful. this will likely entail coming up with a canonical naming scheme for juggling patterns.

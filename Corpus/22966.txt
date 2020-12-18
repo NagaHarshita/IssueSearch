@@ -1,0 +1,1 @@
+ URL : "https://github.com/peterdemartini/html5-to-pdf/issues/16" TITLE : need v2.2.0 please BODY : issue 11 mentioned a 2.2.0 release, but there is none. the commit to fix issue 11 is the last commit in the total history, after the bump to v2.1.1. please publish version 2.2.0. i'll use a github link in my package.json in the meantime. thanks!

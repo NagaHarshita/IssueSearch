@@ -1,0 +1,1 @@
+ URL : "https://github.com/nviennot/nobrainer/issues/243" TITLE : disable table creation BODY : hey is there a way to fully disable nobrainer from creating tables? we are having big issues with duplicate tables being created when under high load and a proxy restarts.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Ref12/Codex/issues/67" TITLE : find file line BODY : if user types, elasticsearchstorage.cs:52, it should find elasticsearchstorage.cs and navigate to line 52 when clicked.

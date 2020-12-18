@@ -1,0 +1,1 @@
+ URL : "https://github.com/devtools-html/debugger.html/issues/3231" TITLE : symbol modal follow-ups BODY : clicking out of the modal closes it add button to file search to open symbol search animate the symbol search enter/leave as only char in search input returns list of all symbols in file search results shouldn't show sad face for @ / / until additional chars typed.

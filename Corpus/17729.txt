@@ -1,0 +1,1 @@
+ URL : "https://github.com/IrinkaGu/cafe/issues/6" TITLE : remove ! from url BODY : избавиться от ! в урле это можно сделать через: $locationprovider.html5mode true + нужно настроить backend чтобы он по необходимым урлам переводил на корень http://127.0.0.1:3001/ например: при переходе напрямую на http://127.0.0.1:3001/dishes должен отправлять на корень

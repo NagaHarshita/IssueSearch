@@ -1,0 +1,1 @@
+ URL : "https://github.com/wspresto/audiodio/issues/7" TITLE : time is wrong BODY : https://github.com/wspresto/audiodio/blob/b33974eb19e33b021f404cbba21dde2805a8b848/www/app/services/audiosession.js l214 duration - ac.time - startedactime

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jeddict/jeddict/issues/235" TITLE : invalide jsonb element BODY : ! modelentity jpa https://user-images.githubusercontent.com/6693893/29455907-f88557da-840a-11e7-823d-8b799e30af2d.png with my diagram see the image above, when i want to build jsonb view i obtain an null element object, one person can tell me why!

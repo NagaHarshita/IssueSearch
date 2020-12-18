@@ -1,0 +1,1 @@
+ URL : "https://github.com/scg-unibe-ch/ese2017-team2/issues/21" TITLE : improve date/time picker BODY : the date input currently uses the html _datetime-local_ which is not supported by all browsers.

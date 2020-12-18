@@ -1,0 +1,1 @@
+ URL : "https://github.com/mwcaisse/CarTracker/issues/32" TITLE : trip reader logs BODY : when viewing a trip show the reader logs that are associated with that trip. have a section on the page that shows the logs from around the time the trip started to when the trip ended.

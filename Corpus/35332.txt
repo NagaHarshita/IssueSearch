@@ -1,0 +1,1 @@
+ URL : "https://github.com/FerreTux/cichome/issues/1" TITLE : does not render idex BODY : seems to not render the index.ejs file when requesting a page. this occurred due to swapping code from jade to ejs and have not been able to get it to display since changing

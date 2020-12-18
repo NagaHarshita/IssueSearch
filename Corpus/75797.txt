@@ -1,0 +1,1 @@
+ URL : "https://github.com/julmot/mark.js/issues/131" TITLE : ignoring first n results BODY : describe your issue here. steps to reproduce i tried to see if i can ignore first n results when marking. filter currently seems to stop marking at first return false; . fiddle https://jsfiddle.net/8utedk35/1/ environment - browser name and version - mark.js version latest

@@ -1,0 +1,1 @@
+ URL : "https://github.com/spring-projects/spring-statemachine/issues/385" TITLE : fix spring-session usage BODY : only in web sample but as boot2 snapshots now build against spring-session snapshots, which changed packages, this sample needs a rework.

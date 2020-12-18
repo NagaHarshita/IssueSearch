@@ -1,0 +1,1 @@
+ URL : "https://github.com/WIPACrepo/iceprod/issues/202" TITLE : remove support for parrot BODY : we now expect cvmfs at all locations. parrot is taken care of by the glideins themselves, so we don't need to worry about it. thus, remove parrot support.

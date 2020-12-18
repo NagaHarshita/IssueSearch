@@ -1,0 +1,1 @@
+ URL : "https://github.com/ipfs/go-ipfs/issues/4017" TITLE : need api tests BODY : we should add tests that verify the api output of each endpoint. we recently broke the output of ipfs repo gc without noticing until @ligi pointed it out.

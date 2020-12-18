@@ -1,0 +1,1 @@
+ URL : "https://github.com/seventer/raintocome/issues/5" TITLE : handle http errors BODY : add try/catch on http action rainfuture.py, function getrain nothing goes wrong but some unwanted messages shows in logfile.

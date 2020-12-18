@@ -1,0 +1,1 @@
+ URL : "https://github.com/z-song/laravel-admin.org/issues/1" TITLE : demo not work BODY : > symfony \ component \ debug \ exception \ fatalthrowableerror e_error call to undefined method encore\admin\widgets\navbar::left

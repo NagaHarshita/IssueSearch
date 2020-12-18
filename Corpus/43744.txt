@@ -1,0 +1,1 @@
+ URL : "https://github.com/vladimir-yuldashev/laravel-queue-rabbitmq/issues/117" TITLE : delete defered queues BODY : hi, very nice and helpful library! just one question: is there any functionality to remove the queues for delayed jobs automatically?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/danielricci/einstein-assets-editor/issues/61" TITLE : import image as tilemap BODY : file -> import open an image, and based on some specifications show a setup window , chop up the image and put its corresponding contents within the tilemap

@@ -1,0 +1,1 @@
+ URL : "https://github.com/rse/grunt-merge-json/issues/16" TITLE : grunt version issue BODY : from upgrading from 0.4 to 1.0 https://gruntjs.com/upgrading-from-0.4-to-1.0 we ask you to update your plugin with grunt : >=0.4.0 in it and publish that on npm. this grunt have a dependency grunt@~0.4.5, required by grunt-merge-json@0.9.5

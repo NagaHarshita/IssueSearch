@@ -1,0 +1,1 @@
+ URL : "https://github.com/scriptype/salinger/issues/4" TITLE : env.js should be optional BODY : currently salinger enforces supplying an env.js - even if it'll only export an empty object.

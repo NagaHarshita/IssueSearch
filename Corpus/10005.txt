@@ -1,0 +1,1 @@
+ URL : "https://github.com/tigt/a11y-goggles/issues/1" TITLE : add visual snow? BODY : http://visionsimulations.com/simulators/visual-snow this could be tricky, as visual snow tends to be animated. i think gecko/blink/webkit support smil with filters, though.

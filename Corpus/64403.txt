@@ -1,0 +1,1 @@
+ URL : "https://github.com/reteo/Sprocket/issues/11" TITLE : generating ini from csv BODY : hi reteo, i've managed to get the table out of ods and into a semi-colon-separated csv. the sprocket-csv script appears to generate a valid ini with distribution settings. however, my understanding is that it sprocket also needs mod definitions. are those available anywhere?

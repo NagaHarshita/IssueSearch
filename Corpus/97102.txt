@@ -1,0 +1,1 @@
+ URL : "https://github.com/utilForever/CubbyFlow/issues/224" TITLE : fix some bugs in cubbyflow BODY : - minor fixes for examples - fix issue with anisotropic surface reconstruction - fix smoke density not getting diffused - fix some asserts

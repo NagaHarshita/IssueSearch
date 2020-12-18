@@ -1,0 +1,1 @@
+ URL : "https://github.com/Stratehm/stratum-proxy/issues/86" TITLE : settings not saved BODY : settings are not saved to config file when edited in web interface. restart reverts settings to default ones.

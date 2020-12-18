@@ -1,0 +1,1 @@
+ URL : "https://github.com/cocos2d/cocos2d-x/issues/17267" TITLE : get device's ram memory BODY : - cocos2d-x version: 3.13 is there a way to get the device's ram memory? our game consumes up to 1gb of ram memory with animations, sounds, movements, etc and we would like to check if the device can handle them to load the animations or not... thanks.

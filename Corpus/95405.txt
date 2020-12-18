@@ -1,0 +1,1 @@
+ URL : "https://github.com/ShaneMcC/PXE-Manager/issues/11" TITLE : custom variable validation BODY : allow specifying regexes to ensure that string's match a valid format.

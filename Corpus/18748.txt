@@ -1,0 +1,1 @@
+ URL : "https://github.com/mirsahib/Data-Structure/issues/3" TITLE : update node class BODY : delete node structure from list.h file typedef struct node{ int data; node next; node prev; } nodeptr; create a node class class node{ public: int data; node next; node prev; node operator= node &newnode ; } in linkedlist.cpp file implement node operator= function

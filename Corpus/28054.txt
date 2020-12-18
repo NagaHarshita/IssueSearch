@@ -1,0 +1,1 @@
+ URL : "https://github.com/ctftime/ctftime.org/issues/56" TITLE : expose writeups api BODY : would it be possible to expose the writeups in the api? i see that you have the rankings, teams, and events in the api, but not the writeups.

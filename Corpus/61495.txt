@@ -1,0 +1,1 @@
+ URL : "https://github.com/nowa-webpack/nowa-build/issues/23" TITLE : autoprefixer 支持 ie9 BODY : 目前配置的 autoprefixer 规则只覆盖到 >1%，已经覆盖不到 ie9（0.2%），需要将 ie >= 9 单独加上。

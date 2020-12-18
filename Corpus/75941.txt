@@ -1,0 +1,1 @@
+ URL : "https://github.com/pixelsoccupied/345_California/issues/25" TITLE : implementing drive logic BODY : requirements: - cities slightly light up when being able to drive. - remove the player cards from being displayed. - ensure the city being clicked on is adjacent to our current city.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/weberj1572/prj-rev-bwfs-dasmoto/issues/1" TITLE : font family repetition BODY : font-family: helvetica; css has a few options to reduce repetition. in this case when the same font family is being used by the whole page, better to use a universal selector such as html or body so you don't have to repeat this again. body { font-family: helvetica; }

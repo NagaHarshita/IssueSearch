@@ -1,0 +1,1 @@
+ URL : "https://github.com/serge-rider/dbeaver/issues/2417" TITLE : export to csv BODY : when i export the results with fields 'integer', the value is truncated

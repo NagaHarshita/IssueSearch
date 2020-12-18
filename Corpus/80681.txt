@@ -1,0 +1,1 @@
+ URL : "https://github.com/dojo/dojo.io/issues/108" TITLE : update 5th tutorial demo BODY : @agubler has refactored and improved the 5th tutorials demo. this issue will handle the integration of that version https://github.com/agubler/dojo.io/tree/7-create-fifth-tutorial and any required updates to the tutorial script to reflect the change.

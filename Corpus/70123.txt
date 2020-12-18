@@ -1,0 +1,1 @@
+ URL : "https://github.com/greenmail-mail-test/greenmail/issues/216" TITLE : upgrade to javamail 1.6 BODY : - maven dependencies - javadoc links pom.xml - check release note https://javaee.github.io/javamail/ for further actions

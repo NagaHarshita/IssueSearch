@@ -1,0 +1,1 @@
+ URL : "https://github.com/codex49/icon-generator/issues/25" TITLE : dedupe webpack plugin BODY : seems like you start your app in webpack 1 😉 the dedupeplugin was deprecated months ago. you should replace it with uglifyjswebpackplugin https://webpack.js.org/plugins/uglifyjs-webpack-plugin/ .

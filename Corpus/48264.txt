@@ -1,0 +1,1 @@
+ URL : "https://github.com/NREL/OpenStudio-ERI/issues/12" TITLE : resnet hpxml use case BODY : create hpxml branch and point to it. - re-worked attic section - extensions used in https://github.com/nrel/openstudio-eri/blob/master/resources/301validator.rb

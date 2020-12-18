@@ -1,0 +1,1 @@
+ URL : "https://github.com/openSUSE/python-rpm-macros/issues/9" TITLE : macros to compile files BODY : ideally recompiling python files shouldn't be necessary. however, with the new policy of requires python-specific shebangs, recompiling python files has become pretty common. so it would be great if there was a macro to handle that automatically.

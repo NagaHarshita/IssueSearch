@@ -1,0 +1,1 @@
+ URL : "https://github.com/ripple/ripple-lib-java/issues/80" TITLE : getting subscribe stream ? BODY : is there a way using this library or any other to get a stream from subscribe command similar to ripple's websocket tool https://ripple.com/build/websocket-tool/ subscribe . ? with any websocket client i can only get the initial response but not the stream itself.

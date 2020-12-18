@@ -1,0 +1,1 @@
+ URL : "https://github.com/pombase/pombase-chado/issues/610" TITLE : add doi to publications BODY : add a post-process to retrieve the doi from pubmed maybe? for each publication and store as a property.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/j-pye/synack/issues/3" TITLE : manager unit test BODY : drive the manager, with socket and gui stubs.

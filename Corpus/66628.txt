@@ -1,0 +1,1 @@
+ URL : "https://github.com/kubernetes/kubernetes/issues/51742" TITLE : need kubectl create pvc BODY : was shocking to me we don't have it - i can create a pdb or quota but not the thing people actually need all the time. @kubernetes/sig-cli-feature-requests

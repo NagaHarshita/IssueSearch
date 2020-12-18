@@ -1,0 +1,1 @@
+ URL : "https://github.com/DougHennig/ProjectExplorer/issues/96" TITLE : support builder lock BODY : when dragging a class to a container, support the builder lock setting by calling builder.app.

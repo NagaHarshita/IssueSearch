@@ -1,0 +1,1 @@
+ URL : "https://github.com/sudrag/Q-learning-for-2D-Occupancy-Grid/issues/1" TITLE : errors in midterm project BODY : -unable to remove 2 type 4 cpplint errors due to the way the dependency is written -travis does not complete due to error in dependency . this was due to improper installation on travis. works well if coveralls is low.

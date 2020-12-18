@@ -1,0 +1,1 @@
+ URL : "https://github.com/aldarons-tech/cargo-gsp/issues/1" TITLE : add tabs to title bar BODY : currently, the title bar is drawn by the window manager on all platforms. it should be drawn by gsp, so that tabs and gui buttons can be added to the title bar, like chrome and nautilus.

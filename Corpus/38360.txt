@@ -1,0 +1,2 @@
+ URL : "https://github.com/devtools-html/debugger.html/issues/4556" TITLE : pause refactor state BODY : we can clean some things up here: - stop storing pauseinfo
+- store why directly

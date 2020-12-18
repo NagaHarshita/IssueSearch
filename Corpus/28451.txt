@@ -1,0 +1,1 @@
+ URL : "https://github.com/ajermakovics/json/issues/3" TITLE : get json using http BODY : for simple use cases where you make a rest api call and get json back. json status = json.fromurl https://status.github.com/api/status.json ;

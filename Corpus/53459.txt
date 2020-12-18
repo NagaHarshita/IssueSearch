@@ -1,0 +1,1 @@
+ URL : "https://github.com/wavebox/waveboxapp/issues/420" TITLE : downloaded file rename BODY : which version of wavebox are you using? 3.4.0 which operating system are you using? ubuntu 16.04 when a file is downloaded, wavebox appends to the file name. 101517.zip becomes 101517.zip.waveboxdownload is there a way to disable this?

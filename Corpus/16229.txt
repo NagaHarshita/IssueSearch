@@ -1,0 +1,1 @@
+ URL : "https://github.com/karlheyes/icecast-kh/issues/163" TITLE : icecast 2.4.0 kh5 BODY : hey guys, we have just installed the latest icecast 2.4.0 kh5 on our centova server. the server starts fine, we can mount a stream without an issue but when we go to try and open the stream in any external player it does not open the file. i have tried in itunes and vlc any idea?

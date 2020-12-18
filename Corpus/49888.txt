@@ -1,0 +1,1 @@
+ URL : "https://github.com/pennlabs/PCR-console/issues/1" TITLE : urgent console errors BODY : uncaught typeerror: data.replace is not a function , console.js:12 potential solution: use data.result

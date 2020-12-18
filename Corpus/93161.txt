@@ -1,0 +1,1 @@
+ URL : "https://github.com/murarth/gumdrop/issues/1" TITLE : add groups and constraints BODY : hi, there should be a way to specify various argument grouping and constraints, e.g. -f implies -a and -b or -n, -m, -l are mutually exclusive .

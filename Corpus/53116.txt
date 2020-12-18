@@ -1,0 +1,1 @@
+ URL : "https://github.com/ABTech/abtt/issues/330" TITLE : default blackout dates BODY : when you select the blackout checkbox on a specific event, it defaults to the current date, if it can be changed to default to the date of the event, that would be great.

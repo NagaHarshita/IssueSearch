@@ -1,0 +1,1 @@
+ URL : "https://github.com/edsperanto/buquettes/issues/50" TITLE : add github user data to db BODY : add/store access token, username, and scope to github table in database

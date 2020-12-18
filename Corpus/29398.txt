@@ -1,0 +1,1 @@
+ URL : "https://github.com/datosgobar/portal-andino-theme/issues/19" TITLE : listado de usuarios BODY : listado de usuarios existentes con links a vista de edición. seguir como guia el código de path_to_virtualenv/src/ckan/ckan/lib/cli.py para listar usuarios

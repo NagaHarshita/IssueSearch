@@ -1,0 +1,1 @@
+ URL : "https://github.com/fossasia/meilix/issues/217" TITLE : add susi deb BODY : right now travis builds susi ./scripts/adding-susi.sh and create a deb in the github root. todo: add the package to the github root.

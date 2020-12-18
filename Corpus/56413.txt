@@ -1,0 +1,1 @@
+ URL : "https://github.com/sidoh/esp8266_milight_hub/issues/179" TITLE : name of the esp module BODY : hi! how to change the name of the esp module? it is not informative on the network to see the name esp_3c6896. perhaps this could be done at the time of the initial setup, but i missed it. if so, how do you get back to the initial setup? thank you!

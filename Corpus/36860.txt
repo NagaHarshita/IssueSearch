@@ -1,0 +1,1 @@
+ URL : "https://github.com/EugeneBuryak/angular2_homework/issues/3" TITLE : index.ts для cart BODY : думаю, стоит создать index.ts для папки cart. сразу же упростятся все импорты в других файлах.

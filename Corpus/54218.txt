@@ -1,0 +1,1 @@
+ URL : "https://github.com/bem/bem-sdk/issues/204" TITLE : fix lib config loading BODY : need to replace new bemconfig { projectroot: lib.path } ; with kind of new bemconfig { cwd: resolve lib.path } . property projectroot is never used. example https://github.com/bem-sdk-archive/bem-config/blob/master/index.js l140

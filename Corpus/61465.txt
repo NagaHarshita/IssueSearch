@@ -1,0 +1,1 @@
+ URL : "https://github.com/cncjs/cncjs-pendant-keyboard/issues/1" TITLE : auto run on raspberrypi BODY : hello, to auto start, should i aadd it to pm2 after cncjs? anything i need to do apart from installing and running?

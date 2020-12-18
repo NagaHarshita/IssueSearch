@@ -1,0 +1,1 @@
+ URL : "https://github.com/cppforlife/bosh-docker-cpi-release/issues/1" TITLE : docker machine ux BODY : consider way to make it work nicer with docker machine created envs. may be ask for docker machine env name and look at fs? also may be detect unix socket automatically?

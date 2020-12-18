@@ -1,0 +1,1 @@
+ URL : "https://github.com/crowdcoinChain/Crowdcoin/issues/3" TITLE : default rpc port BODY : daemon uses the same default rpc port as dash. can this be changed to something else that is not already in use by other coin?

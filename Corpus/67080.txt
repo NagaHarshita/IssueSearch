@@ -1,0 +1,1 @@
+ URL : "https://github.com/dolebas/issues/issues/89" TITLE : optimize ajax load time BODY : when clicking on a use-ajax link, it doesn't load instantly. speed up loading time. ! image https://user-images.githubusercontent.com/27515901/29749792-9890664a-8b34-11e7-96db-f5265b33acb4.png

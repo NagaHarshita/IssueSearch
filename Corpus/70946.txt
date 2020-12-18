@@ -1,0 +1,1 @@
+ URL : "https://github.com/jenkinsci/saltstack-plugin/issues/99" TITLE : 2017.7 token url changed BODY : it looks like there were some changes in 2017.7.0 where the token url is generated is now /token instead of /login

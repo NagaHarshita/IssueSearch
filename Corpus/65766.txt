@@ -1,0 +1,1 @@
+ URL : "https://github.com/akveo/ng2-smart-table/issues/220" TITLE : lazy loading pagination BODY : how to load data from server by chunks? there is no event to catch page change.

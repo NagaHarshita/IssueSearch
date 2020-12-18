@@ -1,0 +1,1 @@
+ URL : "https://github.com/nextgis-borsch/lib_qscintilla/issues/1" TITLE : update to 2.10. BODY : maybe this will fix the segmentation fault for 64bit windows better then https://github.com/nextgis-borsch/lib_qscintilla/commit/0908b729d6d54bf47c93ad2c8ce5a999c9832f83

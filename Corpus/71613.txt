@@ -1,0 +1,1 @@
+ URL : "https://github.com/snowplow/scala-forex/issues/111" TITLE : add sonatype credentials BODY : not sure about names, but in other repos we have these: sona_user sona_pass

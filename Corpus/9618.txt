@@ -1,0 +1,1 @@
+ URL : "https://github.com/pleerock/class-validator/issues/93" TITLE : @matches on null BODY : for some reason this triggers when the value is null? @matches / ^a-za-z /, { message: this field cannot contain letters } phone: number = null;

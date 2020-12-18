@@ -1,0 +1,1 @@
+ URL : "https://github.com/Rhymond/go-money/issues/20" TITLE : move formatter to mutator BODY : formatter as data mutator should be moved to mutator struct

@@ -1,0 +1,1 @@
+ URL : "https://github.com/tsayen/dom-to-image/issues/138" TITLE : provide access to canvas BODY : would it be possible to expose the draw function, maybe as tocanvas ? i would really like to have access to the canvas so that i can combine the rendering of several dom elements before converting the canvas to image data.

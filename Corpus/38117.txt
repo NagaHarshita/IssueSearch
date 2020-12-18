@@ -1,0 +1,1 @@
+ URL : "https://github.com/z-pattern-matching/z/issues/7" TITLE : not matching strings BODY : javscript 'text'.matches x = 'text' => 'a' it isn't returning a , is throwing can't match anything for: text instead

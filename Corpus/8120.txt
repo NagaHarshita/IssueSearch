@@ -1,0 +1,1 @@
+ URL : "https://github.com/manjaro/release-plan/issues/148" TITLE : mt git workflow BODY : i think i will revert back to commonly used workflow. that is a development branch, and a stable master branch where we do tags. i find this used to be working much better than our versioned stable branches.

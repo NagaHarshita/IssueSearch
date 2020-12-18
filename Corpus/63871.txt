@@ -1,0 +1,1 @@
+ URL : "https://github.com/Shians/Glimma/issues/106" TITLE : extend plotting options BODY : such as ability to connect points in per sample plot in glmdplot, change point size or style moving to plotly may solve this

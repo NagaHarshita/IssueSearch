@@ -1,0 +1,1 @@
+ URL : "https://github.com/telegraphic/hickle/issues/45" TITLE : how to append? BODY : import hickle import numpy as np a = np.ones 32000, dtype='float32' hickle.dump a, 'test.hkl', mode='a' b = np.ones 32000, dtype='float32' hickle.dump b, 'test.hkl', mode='a' then i got an error: unable to create link name already exists

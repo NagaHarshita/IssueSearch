@@ -1,0 +1,1 @@
+ URL : "https://github.com/fauzie/magento-cms-api/issues/1" TITLE : regarding this api BODY : hi, i am using your api,but when i access this url cmsapi/block/get/19/ and cmsapi/page/get/19/ , it show some error: { messages :{ success :{ code :204, message : page you requested isn't available }}} please provide me solution as soon as possible.

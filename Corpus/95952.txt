@@ -1,0 +1,1 @@
+ URL : "https://github.com/cloudsecurityalliance/CSA-Guidance/issues/37" TITLE : domain 11 - cross ref to 5 BODY : domain 11 talks about data security from a risk and control perspective. may be good to point out how that is linked to domain 5 data governance, where the lifecycle model gives us some clues as to what controls can be relevant in which phase.

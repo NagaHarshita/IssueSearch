@@ -1,0 +1,1 @@
+ URL : "https://github.com/touv/node-ezs-istex/issues/1" TITLE : user-agent and sid BODY : pour des besoins de statistiques, serait il possible de régler le user agent des requêtes http à node-ezs-istex et de rajouter dans toutes les url appelées sur l'api de paramètre sid=node-ezs-istex cela permettra alors de mieux identifier l'usage côté ezmesure.

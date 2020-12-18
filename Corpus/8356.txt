@@ -1,0 +1,1 @@
+ URL : "https://github.com/BabylonJS/Exporters/issues/2" TITLE : no gulp in repo BODY : someone found i typo in blender exporter. i had put the file zip process into gulp, but no gulp dir here. probably could use a very stripped down version.

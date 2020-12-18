@@ -1,0 +1,1 @@
+ URL : "https://github.com/rocknsm/rock/issues/192" TITLE : broctl handler is outdated BODY : https://github.com/rocknsm/rock/blob/dcode/2.1_cleanup/playbooks/deploy-rock.yml l1337-l1338 the service is now named bro , not broctl .

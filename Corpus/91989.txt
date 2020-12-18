@@ -1,0 +1,1 @@
+ URL : "https://github.com/F5Networks/cf-bigip-ctlr/issues/11" TITLE : use partitions everywhere BODY : update config to use partitions in all locations. currently the config property 'partitions' uses 'partition' for json and 'partitions' for yaml, this needs to be updated to be 'partitions' in all locations.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/nodejs/installer/issues/42" TITLE : add context menu BODY : the app currently does not have a context menu and is hence missing the default operations like cut , copy , or paste .

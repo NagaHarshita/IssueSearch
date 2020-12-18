@@ -1,0 +1,1 @@
+ URL : "https://github.com/developercirclesaccra/mitman/issues/1" TITLE : encapsulate backend code BODY : @evawmwangi since the stacks are different for backend python and botend nodejs codes, putting all backend code and files in a folder that can be called server for example will make the repo more organized.

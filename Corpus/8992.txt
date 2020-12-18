@@ -1,0 +1,1 @@
+ URL : "https://github.com/urda/django-letsencrypt/issues/51" TITLE : sunset python 2 BODY : this project will be dropping support for python 2 sometime in 2018. this will result in a version bump of the project, with support for python 2 removed.

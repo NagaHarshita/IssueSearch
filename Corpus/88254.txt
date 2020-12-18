@@ -1,0 +1,1 @@
+ URL : "https://github.com/entando/entando-core/issues/257" TITLE : muovi attributo invertito BODY : nel edit del content types se si cerca di spostare un attributo: l'azione move down è invertita con l'azione move up .

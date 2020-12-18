@@ -1,0 +1,1 @@
+ URL : "https://github.com/pierreguillot/Camomile/issues/49" TITLE : trouble with loadbang BODY : i am having some troubles with loadbang . i wanted to use it to send initial messages to the sliders to set the initial positions. it works fine in pd, but all my sliders start at 0.0 in camomile.

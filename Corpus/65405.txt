@@ -1,0 +1,1 @@
+ URL : "https://github.com/voidlinux/void-mklive/issues/97" TITLE : installer fails on esxi BODY : the script, installer.sh , fails with the error, network is unaccessible, please setup it properly. on vmware esxi. the void linux installation was attempted on esxi 6.0.

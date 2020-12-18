@@ -1,0 +1,1 @@
+ URL : "https://github.com/groonga/groonga/issues/753" TITLE : support cachable function BODY : if any functions are used in function, cache isn't used for now. but many functions are cachable. if we add cachable property to each function object, we can use cache for many functions.

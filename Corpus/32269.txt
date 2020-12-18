@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/vso-intellij/issues/76" TITLE : unsigned vsoi app ? BODY : hi! on mac when opening rider with the bundled plugin i get a warning: ! 2017-05-07_16-25-20 https://cloud.githubusercontent.com/assets/22168773/25784894/8bda3804-337d-11e7-9ee3-d229f2548fe3.png looks like vsoi app is unsigned.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/chrisdone/jl/issues/4" TITLE : cannot use numbers as keys BODY : it seems that number keys cannot be used. ❯ echo '{ 1 :1, a :2}' | jl '_.1' jl: parsererror line 1, column 2 : unexpected integer 1 callstack from hascallstack : error, called at app/main.hs:82:27 in main:main this works. ❯ echo '{ 1 :1, a :2}' | jl '_.a' 2

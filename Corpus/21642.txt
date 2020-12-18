@@ -1,0 +1,1 @@
+ URL : "https://github.com/vaadin/tree-grid/issues/14" TITLE : frozen columns bug BODY : i try to use setfrozencolumncount 1 ; but it doesn't work v 0.7.3 . i would like to freeze only the first, hierarchy column. i disabled the built-in selection checkbox column. i tested with values: -1;0;1, but has no effect. with value 2 the first two columns wil be frozen.

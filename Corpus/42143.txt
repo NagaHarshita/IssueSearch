@@ -1,0 +1,1 @@
+ URL : "https://github.com/ni/nidaqmx-python/issues/37" TITLE : ai_raw example is bad BODY : the example lists task.read_raw but it is instead task.in_stream.read https://github.com/ni/nidaqmx-python/blob/master/nidaqmx_examples/ai_raw.py https://github.com/ni/nidaqmx-python/blob/master/nidaqmx/_task_modules/in_stream.py l1808

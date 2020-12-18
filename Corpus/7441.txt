@@ -1,0 +1,1 @@
+ URL : "https://github.com/raoulvdberge/refinedstorage/issues/946" TITLE : for 1.11 branch BODY : - backport https://github.com/raoulvdberge/refinedstorage/commit/75e3d69ccf45b0655d929f166e2bd7e21c548d8c - investigate the cyclops insertion issue only happens on 1.11 apperently? thank you ^.^

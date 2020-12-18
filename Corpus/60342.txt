@@ -1,0 +1,1 @@
+ URL : "https://github.com/k0204/LuaIde/issues/23" TITLE : 关键字颜色 and or BODY : if ets and type ets == str_table then --希望在此处的and加个颜色 for k, v in pairs ets do end end

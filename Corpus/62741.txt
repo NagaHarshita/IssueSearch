@@ -1,0 +1,1 @@
+ URL : "https://github.com/bualpha/buinvest/issues/5" TITLE : create a mock portfolio BODY : this mock portfolio should resemble the fund that we have set in place using yahoo pricing data, that updates daily with the hypothetical performance of the fund not the actual performance, which we do track

@@ -1,0 +1,1 @@
+ URL : "https://github.com/nowa-webpack/nowa-gui/issues/11" TITLE : .bash_profile 覆盖 path BODY : 每次启动会启用 .bash_profile ，之前有配过 .profile 的话 会被重写，导致配过的 path 失效，

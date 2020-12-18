@@ -1,0 +1,1 @@
+ URL : "https://github.com/rokka-io/rokka-client-php-cli/issues/23" TITLE : clone stack commands BODY : move stack cloning operation to apihelper and move that to the library? , then use that from the stack clone command. allow the command to specify a comma separated list of stacks to clone, or just --all to clone all stacks. should we do the same with the image clone command?

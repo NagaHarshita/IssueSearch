@@ -1,0 +1,1 @@
+ URL : "https://github.com/flatpak/flatpak/issues/1044" TITLE : update vala to 0.36.4 BODY : in 0.36.4 a --gresourcesdir was added, so you can build out of tree vala projects using gresources. so gnome runtime should be updated.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/terranum-ch/ToolMap/issues/385" TITLE : export of shp files fails. BODY : the failure is due to the frame that is empty during the intersection calculation, even though it should exist.

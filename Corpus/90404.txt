@@ -1,0 +1,1 @@
+ URL : "https://github.com/sxs-collaboration/spectre/issues/2" TITLE : setup directory structure BODY : add root level directories for cmake , docs , external , src , tests , and tools

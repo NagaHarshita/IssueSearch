@@ -1,0 +1,1 @@
+ URL : "https://github.com/Reeceds/TeaCozy/issues/3" TITLE : subtlety - organization BODY : excellent work keeping the html organized using consistent indentation and comments throughout. consider using some comments in the css to organize the styling by which part of the page it belongs to. this will really help if you need to change values or update anything down the line.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/FReBOmusic/FReBO/issues/124" TITLE : condition checkbox panel BODY : in the event that the user navigates to the filter screen. expected response : the condition checkbox panel should be displayed on the filter screen.

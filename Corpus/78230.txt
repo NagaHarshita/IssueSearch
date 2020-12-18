@@ -1,0 +1,1 @@
+ URL : "https://github.com/bootstrap-vue/bootstrap-vue/issues/735" TITLE : popover console warnings BODY : when using the popover component and hovering the mouse, the console displays the following error: vue warn : error in beforedestroy hook: typeerror: this.$data._trigger.classname.replace is not a function found in ---> <bpopover>

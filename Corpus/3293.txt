@@ -1,0 +1,1 @@
+ URL : "https://github.com/Arkderce/django_pollapp/issues/1" TITLE : no git ignore BODY : add git ignore to repo you can go like https://github.com/github/gitignore/blob/master/python.gitignore than change name add sqlite to gitignote remove sqlite from repo remoce pyc files from repo best regards, michał

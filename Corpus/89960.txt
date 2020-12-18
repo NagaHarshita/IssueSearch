@@ -1,0 +1,1 @@
+ URL : "https://github.com/kofigyan/StateProgressBar/issues/7" TITLE : reset state progress bar? BODY : i wanted to reset the progress bar in the same view if the corresponding action was restarted, but after all states have been checked, i'm not able to reset the states to its initial state. is there any way to reuse the progress bar after it completed once?

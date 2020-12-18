@@ -1,0 +1,1 @@
+ URL : "https://github.com/tud-zih-energy/lo2s/issues/8" TITLE : configurable perf metrics BODY : - select perf metrics through command line - sample perf metrics also for -a

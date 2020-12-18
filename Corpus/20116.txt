@@ -1,0 +1,1 @@
+ URL : "https://github.com/milkey-mouse/borg/issues/1" TITLE : borg config --list BODY : could we have a -l --list option to list all available keys for borg config ?

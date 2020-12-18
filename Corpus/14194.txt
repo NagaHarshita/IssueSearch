@@ -1,0 +1,1 @@
+ URL : "https://github.com/b-turchyn/factorio-mod-manager/issues/3" TITLE : add linux support BODY : current logic pulls pathing from appdata environment variable; change logic to also support linux pathing, depending on the os.

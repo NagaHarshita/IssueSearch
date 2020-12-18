@@ -1,0 +1,1 @@
+ URL : "https://github.com/meteortemplates/forms/issues/106" TITLE : where to set the data ? BODY : <template name= testform > {{ basicformblock schema=schema action=action}} {{> basicinput field='testfield'}} {{/basicformblock}} </template>

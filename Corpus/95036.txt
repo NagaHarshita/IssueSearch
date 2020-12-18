@@ -1,0 +1,1 @@
+ URL : "https://github.com/elm-lang/elm-compiler/issues/1646" TITLE : continuation of issue 1625 BODY : regarding https://github.com/elm-lang/elm-compiler/issues/1625 : currently i cannot use both package evancz/elm-graphics package mdgriffith/style-elements this is a serious problem, and should be fixed.

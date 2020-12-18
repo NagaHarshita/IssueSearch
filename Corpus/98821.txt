@@ -1,0 +1,1 @@
+ URL : "https://github.com/latchset/libverto/issues/16" TITLE : libtevent is failing tests BODY : currently it's disabled in the ci, but debian also turns off building of the tevent backend entirely, presumably for this reason.

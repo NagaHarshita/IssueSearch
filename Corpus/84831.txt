@@ -1,0 +1,1 @@
+ URL : "https://github.com/cmusphinx/node-pocketsphinx/issues/50" TITLE : does not contain acoustic BODY : error: acmod.c , line 79: folder '/home/ubuntu/voice/www/static/en-us/en-us' does not contain acoustic model definition 'mdef' segmentation fault core dumped

@@ -1,0 +1,1 @@
+ URL : "https://github.com/resure/scpnet/issues/15" TITLE : deleted pages cleanup BODY : delete where wiki=... and name in set pages_in_db - set pages_on_wikidot daily.

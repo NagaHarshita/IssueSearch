@@ -1,0 +1,1 @@
+ URL : "https://github.com/joereynolds/boganspunkrock/issues/10" TITLE : header sizing is off BODY : when we're on a wide screen, the main header is too big. use flex instead of absolute positioning to handle this more gracefully.

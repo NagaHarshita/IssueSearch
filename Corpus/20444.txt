@@ -1,0 +1,1 @@
+ URL : "https://github.com/Authentise/pytest-raises/issues/5" TITLE : check message info BODY : i really like this module where i dont have to write two tests one for positive and other for negative. but i would like to test the message of the exception as well. do you think is it possible? can you help me with that?

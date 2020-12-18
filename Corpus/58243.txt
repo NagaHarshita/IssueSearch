@@ -1,0 +1,1 @@
+ URL : "https://github.com/jerryandco/gshopper/issues/14" TITLE : seed script relocation BODY : fix request: bug: there is a seed script conflict. fix: consolidate seed script logic by migrating seed data from new seed file to pre-existing seed file. pre-existing seed file already works with 'npm run seed' ---

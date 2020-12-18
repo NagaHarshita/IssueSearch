@@ -1,0 +1,1 @@
+ URL : "https://github.com/DennisWG/flatmessage/issues/3" TITLE : make a proper parser class BODY : currently, there is no parser class which takes a file, parses it and then returns the ast. this results in a lot of unnecessary code duplication see 'template_generator.cpp' and 'parse_expression.cpp' . create a parser class to alleviate this.

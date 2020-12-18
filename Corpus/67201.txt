@@ -1,0 +1,1 @@
+ URL : "https://github.com/JohnOmernik/sadrill/issues/1" TITLE : param 'schema' not used BODY : i found many functions in sadrill.py like get_table_names self, connection, schema=none, kw ,get_columns self, connection, table_name, schema=none, kw ... the param 'schema' not used in function . this may cause many problems, i wonder how to use it correctly.

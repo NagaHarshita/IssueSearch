@@ -1,0 +1,1 @@
+ URL : "https://github.com/Rackspace-DOT/flask_oslolog/issues/7" TITLE : release to pypi BODY : this needs packaging and releasing to pypi probably using travis before i can add it to the openstack python requirements repo... @rtrox are you happy for me todo this under my personal pypi account and add you as a package admin?

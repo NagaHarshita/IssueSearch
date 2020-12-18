@@ -1,0 +1,1 @@
+ URL : "https://github.com/foundeo/cfdocs/issues/660" TITLE : meta test related BODY : could we additionally test /foundeo/cfdocs/tree/master/tests/tests/testindexes.cfc if it - relates to itself - relates to an existing file if someone links something else than a doc, expect a guide or a listing, what should happen? is there any option for the user to get that type emphasized?

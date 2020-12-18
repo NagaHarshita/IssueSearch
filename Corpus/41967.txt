@@ -1,0 +1,1 @@
+ URL : "https://github.com/amberframework/granite-orm/issues/71" TITLE : add support for mssql BODY : recently i needed support for mssql on linux https://docs.microsoft.com/en-us/sql/linux/sql-server-linux-setup some related issues: - https://github.com/crystal-lang/crystal-db/issues/66 - https://github.com/crystal-community/crystal-libraries-needed/issues/70

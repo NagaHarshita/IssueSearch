@@ -1,0 +1,1 @@
+ URL : "https://github.com/mattes/migrate/issues/177" TITLE : migrate: command not found BODY : i installed migrate using glide get github.com/mattes/migrate but on running migrate -url posgtres://<my-url> -path ./db/migrations create create_<table_name> getting error migrate: command not found

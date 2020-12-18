@@ -1,0 +1,1 @@
+ URL : "https://github.com/middlewares/client-ip/issues/2" TITLE : tag a release for proxy BODY : the current master includes the proxy method which is not available in any release. please tag a new release with this functionality. 💛

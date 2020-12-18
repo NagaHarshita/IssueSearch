@@ -1,0 +1,1 @@
+ URL : "https://github.com/patternfly/angular-patternfly/issues/490" TITLE : expandable table rows BODY : in pf table, i would like to be able to expand a row and display transcluded content if possible

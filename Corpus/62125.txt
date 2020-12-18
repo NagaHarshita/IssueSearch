@@ -1,0 +1,1 @@
+ URL : "https://github.com/Infinidat/infi.clickhouse_orm/issues/37" TITLE : cannot select from join BODY : how can i get the result from two tables' join? i've prepared a sample to show that even when i specify $db the query is still invalid:

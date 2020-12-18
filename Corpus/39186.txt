@@ -1,0 +1,1 @@
+ URL : "https://github.com/Injabie3/discord.injabie3.moe/issues/4" TITLE : rewrite user parsing BODY : time to ditch writing the same thing in like 9 different files, and then trying to fix stuff in 9 different files...time to create a class to parse discord guild users.

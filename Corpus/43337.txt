@@ -1,0 +1,1 @@
+ URL : "https://github.com/3scale/echo-api/issues/19" TITLE : cors support echo api BODY : as pointed by @unleashed there is no cors support on the echo-api. all deployments using the default documentation on a openshift cluster are failing right now. one option would be activating this gem: https://github.com/britg/sinatra-cross_origin

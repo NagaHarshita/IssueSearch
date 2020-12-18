@@ -1,0 +1,1 @@
+ URL : "https://github.com/thelukester92/nnlib/issues/117" TITLE : fix lstm bug BODY : lstm is applying the output transform after gating, but it should be gating after the output transform.

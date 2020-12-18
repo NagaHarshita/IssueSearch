@@ -1,0 +1,1 @@
+ URL : "https://github.com/meyerd/n2n/issues/27" TITLE : drop scm functionality BODY : scm functionality is added on windows, to install n2n as a service. however, this might be better addressed by a proper installer and scm functionality should be removed.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/gchaincl/swagger-proxy/issues/1" TITLE : live reload swagger spec BODY : proxy should update its behaviour each time the swagger spec is modified.

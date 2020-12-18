@@ -1,0 +1,1 @@
+ URL : "https://github.com/webrtc/apprtc/issues/512" TITLE : conect just in one way BODY : hello i have configured webrtc but it just conectate or handshake in one way for example the person 1 in one network 1 and person 2 in other network 2 but if i conectate person 1 in conexión 2 and viceversa it don't work

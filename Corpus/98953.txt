@@ -1,0 +1,1 @@
+ URL : "https://github.com/olivierkes/manuskript/issues/180" TITLE : logging window enhancement BODY : i would like to see a time-date stamp on text sent to the logging window. if nothing else you can see when the program saved your file. a further enhancement would be to set up in the settings menu for an optional log file for saving diagnostic messages.

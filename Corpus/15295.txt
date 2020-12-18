@@ -1,0 +1,1 @@
+ URL : "https://github.com/akveo/ng2-smart-table/issues/381" TITLE : date range picker BODY : is there a way that we filter out the table based on a date range picker? my use case: i have a table with one of the columns having a date. i wanted to add a date range picker in order to filter the table based on the date range i have set. is there any way i could do this?

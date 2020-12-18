@@ -1,0 +1,1 @@
+ URL : "https://github.com/BaseXdb/basex/issues/1432" TITLE : xquery, try/catch parsing BODY : try { } catch bla:bla { }, 1 line/column of the returned error hints to the end of the query, not to the undeclared namespace prefix in the catch clause.

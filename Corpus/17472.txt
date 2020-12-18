@@ -1,0 +1,1 @@
+ URL : "https://github.com/aryarohit07/PicassoFaceDetectionTransformation/issues/2" TITLE : please add sample BODY : to show that it works nicely. maybe make a recyclerview that has 3 images per row: original, center-crop, and using your library. and, the images will be from the device itself like the gallery app .

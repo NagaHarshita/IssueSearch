@@ -1,0 +1,1 @@
+ URL : "https://github.com/JuliaCI/BenchmarkTools.jl/issues/70" TITLE : judge working with memory BODY : i hope this is isn't a usage question but i think it would be nice if julia julia> judge memory oldresults solver , memory results solver error: methoderror: no method matching judge ::int64, ::int64 would work

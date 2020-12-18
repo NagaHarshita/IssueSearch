@@ -1,0 +1,1 @@
+ URL : "https://github.com/SteleA/btc-e.com-API-wrapper/issues/3" TITLE : error method cancelorder BODY : hello friend, i found an error in the method of the cancelorder, correct please cancelorder order_id { if !order_id return promise.reject 'missing order_id' ; this.makerequest {method: 'cancelorder', params: { order_id }} ; }

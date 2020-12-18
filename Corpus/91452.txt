@@ -1,0 +1,1 @@
+ URL : "https://github.com/Dees-Troy/android_device_google_walleye/issues/1" TITLE : touch issues not a report BODY : i was working on this last night and noticed that google uses modules for some drivers, including the touch driver. have you made sure that those are included while building and that theyre getting loaded correctly?

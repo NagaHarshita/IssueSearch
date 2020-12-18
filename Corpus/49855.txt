@@ -1,0 +1,1 @@
+ URL : "https://github.com/pulibrary/orangelight/issues/914" TITLE : upgrade ruby version? BODY : we're still on version 2.2.3. technically blacklight isn't supported on that version.

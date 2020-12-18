@@ -1,0 +1,1 @@
+ URL : "https://github.com/iview/iview/issues/1948" TITLE : table 组件 bug BODY : table 组件中 columns 如果设置了 fixed : 'left' or fixed : 'right' ,render函数就会执行两次。如果注释，就正常执行一次。应该是 fixed导致页面重新渲染了。- - 如图 ! u2nf7j e9mtd q s0 z633u https://user-images.githubusercontent.com/20419087/30684209-e0d3e30c-9ee2-11e7-94b4-cdf814df6d8d.png

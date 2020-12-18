@@ -1,0 +1,1 @@
+ URL : "https://github.com/AliSchlereth/ellevate/issues/26" TITLE : nesting api routes BODY : -should the teachers/students routes be nested in api/v1/teachers namespacing or keep as is?

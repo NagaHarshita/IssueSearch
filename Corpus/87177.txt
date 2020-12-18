@@ -1,0 +1,1 @@
+ URL : "https://github.com/reheda/Tpad/issues/20" TITLE : issue with match function BODY : expr: if a 5476 .match 5475 .total = a 5476 .match 5477, 5476 .values.count then ok error msg: condition 'a 5476 .match .values.count' have to contains operator

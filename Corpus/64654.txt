@@ -1,0 +1,1 @@
+ URL : "https://github.com/riscv/riscv-debug-spec/issues/175" TITLE : hartreset should be r/w BODY : https://github.com/riscv/riscv-debug-spec/blob/f5f45a5afed376fc888cece0ca8891bcd7d86f85/xml/dm_registers.xml l144 since the debugger can read the register back for checking the feature, the field should be r/w.

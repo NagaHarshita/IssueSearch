@@ -1,0 +1,1 @@
+ URL : "https://github.com/cosullivan/Hypermedia/issues/5" TITLE : support for errors BODY : would be great if support for serializing errors http://jsonapi.org/format/ error-objects url was available. unless they are already implemented and i'm overlooking them.

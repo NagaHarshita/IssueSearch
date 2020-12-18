@@ -1,0 +1,1 @@
+ URL : "https://github.com/chat-sdk/chat-sdk-ios/issues/39" TITLE : sdwebimage is at 4 BODY : need to update the pods that references this to 4. otherwise it also conflicts with my firebaseauthui sdwebimage ~> 3.0 required by chatsdkui 4.2.5 should be 4.0

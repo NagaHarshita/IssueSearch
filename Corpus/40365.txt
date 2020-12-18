@@ -1,0 +1,1 @@
+ URL : "https://github.com/mregni/statistics-for-emby-server/issues/13" TITLE : tvdb call throws 500 BODY : when tvdb returns a 500 status code the background task get's into a failed status. have to change this so the plugin will finish the task normally.

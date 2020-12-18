@@ -1,0 +1,1 @@
+ URL : "https://github.com/IFL-CAMP/easy_handeye/issues/8" TITLE : cantransform error BODY : hi, i'm using easy_handeye to calibrate my primesense camera with the robot. i got this error error processing request: cantransform: source_frame camera_marker does not exist. does the camera_marker need to change or need to be added to the tf tree? thanks very mush!

@@ -1,0 +1,1 @@
+ URL : "https://github.com/MorrisLaw/ChessAI/issues/2" TITLE : add gradle as build tool. BODY : docs on how to add gradle to project, https://www.jetbrains.com/help/idea/2016.3/working-with-gradle-projects.html

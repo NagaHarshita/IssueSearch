@@ -1,0 +1,1 @@
+ URL : "https://github.com/ateev/react-code-prettify/issues/1" TITLE : need support for html BODY : html is currently not working as jsx automatically renders the snippets due to current implementation. need to think about how to fix this.

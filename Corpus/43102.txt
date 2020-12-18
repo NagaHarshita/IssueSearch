@@ -1,0 +1,1 @@
+ URL : "https://github.com/kfarias/number-guesser-react/issues/11" TITLE : clear button disabled BODY : the clear button should be disabled if there is nothing to clear.

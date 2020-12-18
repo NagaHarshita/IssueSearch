@@ -1,0 +1,1 @@
+ URL : "https://github.com/speedata/atom-schema-speedata/issues/2" TITLE : xinclude does not work BODY : <layout xmlns= urn:speedata.de:2009/publisher/en xmlns:sd= urn:speedata:2009/publisher/functions/en xmlns:xi= http://www.w3.org/2001/xinclude > <xi:include href= dejavu.xml /> </layout> gives an error about 'xinclude not allowed'.

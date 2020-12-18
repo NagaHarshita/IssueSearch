@@ -1,0 +1,1 @@
+ URL : "https://github.com/Nebo15/prm.api/issues/73" TITLE : il send verification code BODY : implement the subj. service according to the spec http://docs.ehealthapi1.apiary.io/ reference/public.-medical-service-provider-integration-layer/phone-verification/send-verification-code basic logic https://edenlab.atlassian.net/wiki/display/eh/il.send+verification+code

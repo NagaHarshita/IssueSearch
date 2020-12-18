@@ -1,0 +1,1 @@
+ URL : "https://github.com/madskristensen/WebEssentials2017/issues/7" TITLE : fold region in js BODY : we 2015 used to fold regions in js while we 2017 doesn't do it. js // region test // endregion

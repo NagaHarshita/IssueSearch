@@ -1,0 +1,1 @@
+ URL : "https://github.com/NebulousLabs/Sia/issues/2093" TITLE : error adding folder BODY : the message below has just appeared on my imac. what does it mean? more importantly, how do i fix it? thank you. error adding folder could not allocate sector data file: truncate /users/leveson3051/documents/g&s sia/siahostdata.dat: no space left on device

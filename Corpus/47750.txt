@@ -1,0 +1,1 @@
+ URL : "https://github.com/riboseinc/url_validator/issues/24" TITLE : proper rubocop config BODY : at the moment, this gem follows different code style conventions than other ribose open source gems. shouldn't we add typical ribose's rubocop configuration instead?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ros2/rviz/issues/145" TITLE : update the rviz wiki link BODY : the link in the menu under help > open rviz wiki in browser currently points to the ros1/rviz wiki. this should be updated as soon as there is a ros2/rviz wiki

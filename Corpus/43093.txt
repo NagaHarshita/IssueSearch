@@ -1,0 +1,1 @@
+ URL : "https://github.com/noahehall/node-globals/issues/8" TITLE : clean up dependencies BODY : should all be in devdeps see here: https://github.com/noahehall/reactjs-d3-universal/blob/master/package.json

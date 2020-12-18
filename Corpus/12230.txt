@@ -1,0 +1,1 @@
+ URL : "https://github.com/alexbeletsky/elmah-mvc/issues/93" TITLE : nlog + elmah-mvc BODY : hi and thank you for this great library, @alexbeletsky! we're using nlog for our try/catch blocks to log info to the db about exceptions. is it possible to show the nlog exceptions on the same page as the elmah-mvc items?

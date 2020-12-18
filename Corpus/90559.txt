@@ -1,0 +1,1 @@
+ URL : "https://github.com/rainwoodman/MP-Gadget/issues/119" TITLE : smarter gabage collection BODY : we shall keep track of the total number of garbage particles and avoid triggering a full gc if the number of garbage is low. a test lya run shows that gc took 20% of all run time.

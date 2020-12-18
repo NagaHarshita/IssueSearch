@@ -1,0 +1,1 @@
+ URL : "https://github.com/travis-ci/travis-ci/issues/8163" TITLE : skip a stage for prs BODY : we have a build with test and deploy stages and would like to run deploy stage only on the master branch and not on prs. is it possible? or at least mark a build as successful if test stage is successful for prs.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/markbrummel/vscode-allint/issues/40" TITLE : item is a reserved word BODY : i had a reference to the item table with name item that was marked as a reserved word: ! image https://user-images.githubusercontent.com/7257240/33296232-9d1b4c60-d397-11e7-80e4-caa9f8cfbd12.png

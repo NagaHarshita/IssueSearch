@@ -1,0 +1,1 @@
+ URL : "https://github.com/DigimundoTesca/CK-Dabbawala/issues/65" TITLE : fix ticket model BODY : implements templates and views with new sales logic. - ticket base |-ticketpos |-ticketorder fix hepers => move to new helpers folder with all the helpers.

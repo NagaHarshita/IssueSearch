@@ -1,0 +1,1 @@
+ URL : "https://github.com/mcqueen256/mql4dllft/issues/1" TITLE : mql4 library interface BODY : complete the code generator to create the required expert and cpp files for the dll. the code generator generates the interface so that the dll can utilise the library in the mql4 environment.

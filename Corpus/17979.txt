@@ -1,0 +1,1 @@
+ URL : "https://github.com/kpamela/StudyRing/issues/63" TITLE : securing api keys BODY : the api keys must not be accessible to the public and should be put in a secure file where only developers have access. since we don't have any keys yet.... story points: 4 priority: 2 risk : top if we have keys

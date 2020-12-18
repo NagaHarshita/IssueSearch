@@ -1,0 +1,1 @@
+ URL : "https://github.com/rumlang/rum/issues/81" TITLE : import golang packages BODY : example: package main import github.com/avelino/slugify print slugify.slugify example slugify output: example-slugify we can create a keyword for this import, example goimport we were able to use all golang's eco-system inside the rumlang, we would have many batteries included.

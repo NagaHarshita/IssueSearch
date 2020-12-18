@@ -1,0 +1,1 @@
+ URL : "https://github.com/matchID-project/frontend/issues/55" TITLE : catch errs from backend BODY : for reasonable reasons, the backend catches and return errors : - when saving code e.g wrong format in yaml - when displaying dataset empty data - when processing recipe major error in recipe those errors should find a place in the display.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/SteamingMutt/DiscordFeedback/issues/112" TITLE : !stats counts as a msg BODY : after sending dupe !stats the message count for that day increases - there for !stats counts as a daily message.

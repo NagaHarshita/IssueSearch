@@ -1,0 +1,1 @@
+ URL : "https://github.com/redox-os/cookbook/issues/19" TITLE : allow replace BODY : this feature would make verifying library fixes much easier. the old system used a cargo workspace, i am not sure that this is possible due to needing to enumerate all members

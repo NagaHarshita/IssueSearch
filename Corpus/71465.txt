@@ -1,0 +1,1 @@
+ URL : "https://github.com/FlowzPlatform/workflow/issues/88" TITLE : add loader in all tables BODY : => before rendering live data in table showing loader.

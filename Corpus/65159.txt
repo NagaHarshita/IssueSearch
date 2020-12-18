@@ -1,0 +1,1 @@
+ URL : "https://github.com/ami-go/amigo/issues/1" TITLE : implement url shortener BODY : as in http://stackoverflow.com/questions/742013/how-to-code-a-url-shortener to be used for the game. it should redirect to the full url of the game, given by an id, which is a hash

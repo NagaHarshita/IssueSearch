@@ -1,0 +1,1 @@
+ URL : "https://github.com/phd20/campaigndomain/issues/5" TITLE : add domain name BODY : configure campaigndomain.net to be used with the web app. follow this tutorial https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-custom-domain-name-portal .

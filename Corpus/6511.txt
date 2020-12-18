@@ -1,0 +1,1 @@
+ URL : "https://github.com/portainer/portainer/issues/1195" TITLE : add secrets uac BODY : it should be possible to restrict access to secrets for some users/teams similar to container uac.

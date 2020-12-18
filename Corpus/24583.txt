@@ -1,0 +1,1 @@
+ URL : "https://github.com/Indaym/Back-Indaym/issues/26" TITLE : switch db prod/dev BODY : trouver un moyen propre pour switch entre les différentes config de waterline pour la db afin d'éviter de commit les modifications à chaques fois

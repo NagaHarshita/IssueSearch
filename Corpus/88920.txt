@@ -1,0 +1,1 @@
+ URL : "https://github.com/tidyverse/readr/issues/579" TITLE : parse_time fails if 12 pm BODY : r parse_time 12:01 pm because datetimeparser.hour always adds 12. it should subtract 12 if hour is already 12. from @cwickham

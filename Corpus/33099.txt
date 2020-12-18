@@ -1,0 +1,1 @@
+ URL : "https://github.com/jeroennijhof/pam_tacplus/issues/86" TITLE : about the session_id BODY : the session_id of the authentication and authorization is inconsistent, the tacplus server cannot identify a session that belongs to a session of ssh. btw, the accounting request cannot be send out when executing command in shell

@@ -1,0 +1,1 @@
+ URL : "https://github.com/modulebaan/harbour-sailfinder/issues/107" TITLE : 3.x qt resources system BODY : currently sailfinder v3.1 puts it's resources in the folder resources . but qt has a special resources system to maintain those resources. we need to use that.

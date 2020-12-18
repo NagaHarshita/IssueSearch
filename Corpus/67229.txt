@@ -1,0 +1,1 @@
+ URL : "https://github.com/MrOlm/drep/issues/16" TITLE : pass options to checkm? BODY : suggestion i'm wondering if it would be possible to implement options for checkm as -reduced_tree during lineage_wf so it could run in machines with <40 gb. thanks

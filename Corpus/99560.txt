@@ -1,0 +1,1 @@
+ URL : "https://github.com/datasciencecampus/sdg-indicators/issues/1883" TITLE : move data tab to table tab BODY : no that we have our great table tab the data tab seems redundant. the main use for the data tab is progressive enhancement. can we combine the data tab with the table tab, is it difficult?

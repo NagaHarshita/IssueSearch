@@ -1,0 +1,1 @@
+ URL : "https://github.com/bazelbuild/rules_nodejs/issues/4" TITLE : node 6 is too old BODY : rules_nodejs forces node.js v6. however, i'd like to use v8. it would be great to have a way to specify which version i'm using.

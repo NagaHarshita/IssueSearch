@@ -1,0 +1,1 @@
+ URL : "https://github.com/xfiveco/generator-chisel/issues/214" TITLE : block listing authors BODY : add to .htaccess rewritecond %{query_string} author=\d rewriterule ^ /? l,r=301

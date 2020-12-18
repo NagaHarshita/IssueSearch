@@ -1,0 +1,1 @@
+ URL : "https://github.com/mapbox/vtzero/issues/11" TITLE : features upside down BODY : hi there i used your awesome vtzero to create a pbf2geojson converter. it works and is pretty fast, compared to my current python solution. however, all features are rendered upside down. i hope you can help me with that. thanks and best regards martin

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Steveblandon/Bank-Data-Parser/issues/12" TITLE : support quicken imports BODY : add support for qfx and qif files if they more easily standarize expected fields/properties of data.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/fruux/sabre-xml/issues/123" TITLE : php version break BODY : if i use php version 5.6. , i have to select xml package version 1.5.0. and it's ok, but package also requires sabre/uri latest version that only supports php version 7 or more.

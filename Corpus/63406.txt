@@ -1,0 +1,1 @@
+ URL : "https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker/issues/22" TITLE : dots need to be escaped BODY : this will match any character: setenvifnocase referer ads.gold spam_ref=1 so http://anysite.com/threads/gold-standard-abolished.4534/ will result in a match at ads/gold . it should be: setenvifnocase referer ads\.gold spam_ref=1

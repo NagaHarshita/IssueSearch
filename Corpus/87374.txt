@@ -1,0 +1,1 @@
+ URL : "https://github.com/mbucc/shmig/issues/30" TITLE : latest docker build fails BODY : the builds for latest tag failed at https://hub.docker.com/r/mkbucc/shmig/builds/

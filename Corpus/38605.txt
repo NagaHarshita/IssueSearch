@@ -1,0 +1,1 @@
+ URL : "https://github.com/nhayden/Rhtslib/issues/4" TITLE : problem with linking BODY : one cannot link to rhtslib properly, when the .platform$r_arch reports something else than like x86_64 . the problem is probably that the folder that needs to be queried is not lib but rather libs.

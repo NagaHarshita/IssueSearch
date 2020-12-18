@@ -1,0 +1,1 @@
+ URL : "https://github.com/bedops/bedops/issues/181" TITLE : bedops + starch bug BODY : bedops -u some-file.starch will produce incorrect outputs when subsequent columns have fewer fields. example: chr1 100 2000 id-1 chr1 3400 3700 output is: chr1 100 2000 id-1 chr1 3400 3700 id-1 this is not happening with bed files.

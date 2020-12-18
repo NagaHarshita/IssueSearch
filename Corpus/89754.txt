@@ -1,0 +1,1 @@
+ URL : "https://github.com/arquivo/pwa-technologies/issues/330" TITLE : regression test robustify BODY : create a test, to check if robustify is working. example create a testpage with a broken link and check if it is redirected to arquivo.pt. the test can be automatic or manual.

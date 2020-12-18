@@ -1,0 +1,1 @@
+ URL : "https://github.com/Shians/BioCExplorer/issues/7" TITLE : handle resizing of infobox BODY : infobox when clicking a bubble is currently static size, add automatic resizing to fit inside containing window.

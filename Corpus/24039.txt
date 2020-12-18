@@ -1,0 +1,1 @@
+ URL : "https://github.com/Laverna/laverna.cc/issues/8" TITLE : sass compile error BODY : the website is shown with no css, i assume this is the reason: error in plugin 'sass' message: app\styles\responsive.scss error: undefined variable: $btn-padding-x . on line 30 of app/styles/responsive.scss >> padding : $btn-padding-x $btn-padding-y 2; --------------------^

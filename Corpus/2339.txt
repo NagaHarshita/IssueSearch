@@ -1,0 +1,1 @@
+ URL : "https://github.com/brownplt/code.pyret.org/issues/240" TITLE : \b is not red BODY : for \a , the highlighter will make it red, warning users right away that it's an invalid escape sequence. for \b , the highlighter does not make red, but when running it, pyret does not recognize and return a weird error about string unterminated

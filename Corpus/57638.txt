@@ -1,0 +1,1 @@
+ URL : "https://github.com/wp2/patronage-17java/issues/2" TITLE : readme language, tools BODY : should be in english. should be tool agnostic - as simple as possible, works on every os. for us curl or wget and jq works best. avoid screen shots. we like formatted json instead.

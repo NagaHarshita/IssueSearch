@@ -1,0 +1,1 @@
+ URL : "https://github.com/claroline/Distribution/issues/3086" TITLE : affichage du score BODY : | q | a | ------------- | --- | bug report? | yes | version | 10.4.0 retour utilisateur : l'affichage du score se fait toujours même si on coche 'jamais' dans les paramètres. j'ai testé, on n'a pas la note globale mais on a le score par question d'affiché

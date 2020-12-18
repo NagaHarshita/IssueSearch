@@ -1,0 +1,1 @@
+ URL : "https://github.com/mdbs99/james/issues/57" TITLE : james testing unit BODY : let's create a new unit to do the cross compile between fpc/lazarus and delphi. we should encapsulate units that are used and test registrations. please, see this https://github.com/mdbs99/james/pull/56 discussion_r127968873 for more information.

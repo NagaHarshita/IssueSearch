@@ -1,0 +1,1 @@
+ URL : "https://github.com/tenders-exposed/elvis-backend/issues/51" TITLE : endpoints for networks BODY : in the context of a user: - create network based on contracts in the context of a query - list your own networks - delete one of your networks public endpoints: - - view a network

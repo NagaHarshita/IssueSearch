@@ -1,0 +1,1 @@
+ URL : "https://github.com/Gimpneek/raid-tracker-frontend/issues/16" TITLE : add docs for js BODY : issue description in order to make the code easier to deal with need to add documentation steps to reproduce - open code - should see doc strings - generated documentation should be available on internet use esdoc

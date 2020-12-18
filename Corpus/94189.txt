@@ -1,0 +1,1 @@
+ URL : "https://github.com/substack/covert/issues/15" TITLE : buffer deprecation warning BODY : hi! i'm getting a deprecation warning on covert 1.1.0 . > node:34262 deprecationwarning: using buffer without new will soon stop working. use new buffer , or preferably buffer.from , buffer.allocunsafe or buffer.alloc instead.

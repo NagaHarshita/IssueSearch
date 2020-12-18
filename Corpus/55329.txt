@@ -1,0 +1,1 @@
+ URL : "https://github.com/cavaliercoder/grab/issues/17" TITLE : insecure ssl downloads BODY : is there a possibility to download from an insecure ssl link ? like in this example: tr := &http.transport{ tlsclientconfig: &tls.config{insecureskipverify: true}, } client := &http.client{transport: tr} _, err := client.get https://golang.org/

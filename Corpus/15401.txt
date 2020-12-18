@@ -1,0 +1,1 @@
+ URL : "https://github.com/sparkoo/boxitory/issues/37" TITLE : do proper logging BODY : configure logback so it logs to file, with some reasonable rolling. e.g. one file with max size of 10mb. pack logback.xml config with release.

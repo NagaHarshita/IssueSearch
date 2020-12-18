@@ -1,0 +1,1 @@
+ URL : "https://github.com/BaReinhard/Hacktoberfest-Mathematics/issues/72" TITLE : perimeter of a trapezoid BODY : you are given two base lengths and heights, a trapezoid is not uniquely defined. if you know it is an isosceles trapezoid then the trapezoid is uniquely defined.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Nickduino/Somfy_Remote/issues/5" TITLE : use of standard hardware BODY : hi, did you think about using a cc1101 transceiver module instead of a self modified hardware? its the chip used in the busware cul used to send somfy commands in fhem . regards

@@ -1,0 +1,1 @@
+ URL : "https://github.com/djangogirlstaipei/djangogirlstaipei/issues/15" TITLE : review heroku deploy BODY : heroku 現在需要手動建立 db，且即將把預設改成 python 3 不需 runtime.txt 。 建立 db： bash heroku addons:create heroku-postgresql:hobby-dev

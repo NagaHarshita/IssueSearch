@@ -1,0 +1,1 @@
+ URL : "https://github.com/square/connect-php-sdk/issues/24" TITLE : how to get customer_id BODY : i need a php script to get customer_id. i used the script to create customer card. it ask for the customer_id. is there a script which can get the customer_id by first and last name

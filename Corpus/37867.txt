@@ -1,0 +1,1 @@
+ URL : "https://github.com/nguyenmanh1507/everest-shop/issues/1" TITLE : navigation error log BODY : navitemcontainer.js:23 warning: can only update a mounted or mounting component. this usually means you called setstate, replacestate, or forceupdate on an unmounted component. this is a no-op. please check the code for the navitemcontainer component.

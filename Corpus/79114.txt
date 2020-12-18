@@ -1,0 +1,1 @@
+ URL : "https://github.com/akveo/react-native-ui-kitten/issues/63" TITLE : rkchoice onpress ignored BODY : hi: <view> <rkchoice onpress={ => console.log 'test' } /> </view> results in nothing being logged? does onpress not work?

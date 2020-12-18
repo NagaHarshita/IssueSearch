@@ -1,0 +1,1 @@
+ URL : "https://github.com/RWTH-OS/HermitCore/issues/67" TITLE : set page size to 2mb BODY : to reduce the tlb misses, we should per default use a page size of 2mb. currently, only the code and bss segment use a page size of 2mb.

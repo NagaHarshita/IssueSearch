@@ -1,0 +1,1 @@
+ URL : "https://github.com/eLERT-AdvancedMonitoringSystem/eLertVision-Issue-Tracker/issues/17" TITLE : text only cards BODY : cards that do not contain a graph and only have a text widget on them, do not display at all. the screen is just stuck on the loading icon.

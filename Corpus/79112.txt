@@ -1,0 +1,1 @@
+ URL : "https://github.com/hibernating-rhinos/rhino-etl/issues/32" TITLE : rhino-etl for .net core? BODY : hi all, just curious if there are any plans for developing a .net core version? if not, would that be something of interest for other users? we do a lot of etl work and are looking for a single package to get behind. let me know your thoughts!

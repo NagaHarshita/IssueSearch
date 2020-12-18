@@ -1,0 +1,1 @@
+ URL : "https://github.com/kimumusan/collbabotools-docker/issues/3" TITLE : backup the all data BODY : i have to auto backup at least once a day. the target is following. - redmine - attached files - db data in mysql - gutbucket - db data in mysql - rocketchat - db data in mysql

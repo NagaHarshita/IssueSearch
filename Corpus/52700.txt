@@ -1,0 +1,1 @@
+ URL : "https://github.com/KaOS-Community-Packages/libgee/issues/1" TITLE : cp -u && kcp -i libgee BODY : copy command in kcp center is the following, not working: cp -u && kcp -i libgee

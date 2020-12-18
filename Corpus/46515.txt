@@ -1,0 +1,1 @@
+ URL : "https://github.com/3Blades/app-backend/issues/524" TITLE : merge builds are slow BODY : builds triggered by a merge to master take about 23 minutes to finish, compared to 3 or 4 minutes for pr builds. we should try to improve this. the primary bottleneck is that for master builds, we no longer mock the stripe api, and the calls drastically slow down the test suite.

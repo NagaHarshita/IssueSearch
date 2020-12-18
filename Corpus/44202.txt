@@ -1,0 +1,1 @@
+ URL : "https://github.com/christielynam/linked-list/issues/10" TITLE : enter button disabled BODY : - disabled if there are no contents in the title or url fields - create function event listener for input fields

@@ -1,0 +1,1 @@
+ URL : "https://github.com/tiny-dnn/tiny-dnn/issues/512" TITLE : mat to image conversion BODY : hey guys. does anyone know if tinydnn contains a tool to convert opencv mat to dnn image format?

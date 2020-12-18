@@ -1,0 +1,1 @@
+ URL : "https://github.com/raynamharris/DissociationTest/issues/4" TITLE : missing kallisto gather BODY : the kallisto gather process is described in another repository. i think this is something that is worthy of being turned into a function for easy use across experiments. see https://github.com/raynamharris/behavephyrnaseq/blob/master/markdownfiles/02b_kallistogather.rmd

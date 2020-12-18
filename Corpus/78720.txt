@@ -1,0 +1,1 @@
+ URL : "https://github.com/MyTFG/mytfg-vplan-app/issues/27" TITLE : recylcerview overlay bug BODY : inhalte vom recyclerview tauchen teilweise als ghosts über dem eigentlichen inhalt auf. darunter wird alles normal angezeigt. das problem besteht auch weiterhin, wenn man zu einem anderen fragment navigiert. nur ein neustart der app hilft

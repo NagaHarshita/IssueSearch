@@ -1,0 +1,1 @@
+ URL : "https://github.com/shunfei/indexr/issues/20" TITLE : oom in indexr hive BODY : current implementation does not manually free packs' off-heap memory after use. the dependency of gc is not reliable. we should reimplement it with column api, not iterator api.

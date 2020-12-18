@@ -1,0 +1,1 @@
+ URL : "https://github.com/lamenezes/simple-model/issues/13" TITLE : handle multiple cleans BODY : how should the model behave on the following case: python class foo model : fields = 'foo', def clean_foo self, value : return value + 10 foo = foo foo=0 foo.clean foo.foo == 10 foo.clean foo.foo == 20 this should be 20 or 10?

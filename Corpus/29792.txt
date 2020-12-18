@@ -1,0 +1,1 @@
+ URL : "https://github.com/puyo/elixir-game-server/issues/3" TITLE : more than 3 players BODY : - disable the triggering of game start when 3rd person joins - add a new paper button for users in chat.users who are not in game.users that appends them to game.users with a fresh paper - add a new paper button when users have finished their poem

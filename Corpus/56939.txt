@@ -1,0 +1,1 @@
+ URL : "https://github.com/desmondmorris/node-twitter/issues/228" TITLE : packaging with webpack BODY : i'm getting errors when packaging with webpack. it can't resolve modules such as 'fs' which makes me wonder if anyone has used webpack in combination with this library. i am on the most up to date version 1.7.0

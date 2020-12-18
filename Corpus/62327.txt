@@ -1,0 +1,1 @@
+ URL : "https://github.com/pryazhnikov/moscow-marathon-stats/issues/5" TITLE : city name normalization BODY : there are some name written in caps lock mode. i think it's a good idea to normalize these names to general russian language rules.

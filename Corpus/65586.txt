@@ -1,0 +1,9 @@
+ URL : "https://github.com/commandlineparser/commandline/issues/48" TITLE : issues with sub options BODY : <a href= https://github.com/wadewegner ><img src= https://avatars2.githubusercontent.com/u/746259?v=4 align= left width= 96 height= 96 hspace= 10 ></img></a> issue by wadewegner https://github.com/wadewegner _thursday oct 01, 2015 at 18:07 gmt_
+_originally opened as https://github.com/gsscoder/commandline/issues/249_ ---- i'm having an issue with the parser not figuring out my sub-options. here's the code in main : var invokedverb = ;
+var invokedverbinstance = new object ; var options = new options ;
+if !commandline.parser.default.parsearguments args, options, verb, suboptions => { // if parsing succeeds the verb name and correct instance // will be passed to onverbcommand delegate string,object invokedverb = verb; if !string.isnullorempty invokedverb invokedverbinstance = suboptions; } { environment.exit commandline.parser.defaultexitcodefail ;
+} this is pretty much right from the wiki. my options are defined as this: class options
+{ public options { cpverb = new cpsuboptions { }; } verboption cp , helptext = interact with cp. public cpsuboptions cpverb { get; set; } helpverboption public string getusage string verb { return helptext.autobuild this, verb ; }
+} class cpsuboptions
+{ option 'n', name , helptext = get details name. public string name { get; set; }
+} when i run with cp as the args, it works and the parser determines that cpsuboptions is the suboptions and invokedverbinstance is set appropriately. however, when i run with cp --name blah or cp -n blah , the suboptions is null, so it's not parsed properly. any help?

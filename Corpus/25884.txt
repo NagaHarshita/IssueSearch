@@ -1,0 +1,1 @@
+ URL : "https://github.com/syl20bnr/spacemacs/issues/8608" TITLE : add focus-mode tool BODY : focus provides focus-mode that dims the text of surrounding sections, similar to ia writer's focus mode. ! https://github.com/larstvei/focus/raw/master/demo-dark.gif

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jpillora/webproc/issues/3" TITLE : embed all static files BODY : i.e. ensure no external network requests are made makes it easier to run a local dns server chicken and egg, cant resolve assets without the server running

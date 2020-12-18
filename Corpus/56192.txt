@@ -1,0 +1,1 @@
+ URL : "https://github.com/kohr-h/maxiv-course-oct-17/issues/1" TITLE : missing abs in exercie BODY : when the huber norm is defined, the wrong values are given for negative t, this is due to a missing abs.

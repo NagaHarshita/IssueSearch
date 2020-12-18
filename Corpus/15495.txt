@@ -1,0 +1,1 @@
+ URL : "https://github.com/modoboa/modoboa-installer/issues/170" TITLE : email reply issue BODY : latest stable distribution: centos 7 arch: 64 bits database: mysql when an email comes in and i click reply and fill in my email, and click send the email refreshes and the email who it is going to disappears and doesn't send.

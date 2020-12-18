@@ -1,0 +1,1 @@
+ URL : "https://github.com/Magillion/Dota2600/issues/10" TITLE : game over screen BODY : this should display when the health of one of the towers is dead or when one player runs out of life. the screen should check which player won and call them the victor. from here a button can be pressed that throws you back to the main menu.

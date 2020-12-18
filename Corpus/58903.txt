@@ -1,0 +1,1 @@
+ URL : "https://github.com/twisted/pydoctor/issues/136" TITLE : support for type hints BODY : if one has type hints in code, adding @type and @rtype info in doc strings is redundant.

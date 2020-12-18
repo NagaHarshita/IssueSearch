@@ -1,0 +1,1 @@
+ URL : "https://github.com/fabianmichael/kirby-imagekit/issues/17" TITLE : mac mozjpeg is in brew BODY : you can of course get 'mozjpeg' from brew on a mac ;- brew install mozjpeg if you don't have hombrew: https://brew.sh/ also wanted to say thank you for this plugin, it is splendid, still testing but will be buying some licenses soon.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/nguy/artview/issues/207" TITLE : log scale colorbar BODY : we need to test that there are no negative values before performing log-scale transform. otherwise the program crashes.

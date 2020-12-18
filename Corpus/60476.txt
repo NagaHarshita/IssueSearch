@@ -1,0 +1,1 @@
+ URL : "https://github.com/coloringchaos/daylight-chrome/issues/2" TITLE : 400 from googleapis.com BODY : after installing from the app store, the clock seems to be stuck at 0 deg. in the developer console i see this error positionerror {code: 2, message: network location provider at 'https://www.googleapis.com/' : returned error code 400. }

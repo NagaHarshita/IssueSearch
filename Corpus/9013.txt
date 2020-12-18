@@ -1,0 +1,1 @@
+ URL : "https://github.com/ArcBees/Jukito/issues/78" TITLE : support junit 5 BODY : junit 5 https://github.com/junit-team/junit5 introduces a new extension mechanism http://junit.org/junit5/docs/current/user-guide/ extensions . it would be nice if there was a jukitoextension for junit 5. is there any interest in officially supporting junit 5?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/orendain/trucking-iot/issues/1" TITLE : receiving error message BODY : error invalid processor type: com.orendainx.hortonworks.trucking.nifi.processors.enrichtruckdata while importing below flows nifi-to-nifi.xml kafka-to-kafka.xml

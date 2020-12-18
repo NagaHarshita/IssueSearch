@@ -1,0 +1,1 @@
+ URL : "https://github.com/samgh96/spotiuribot/issues/6" TITLE : disable link preview BODY : estaria bien que los mensajes fueran mas pequeños para los usuarios de movil. aqui te dejo como se pueden quitar: answer msg, message_text, bot: name disable_web_page_preview: true

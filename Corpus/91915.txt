@@ -1,0 +1,1 @@
+ URL : "https://github.com/google/timesketch/issues/276" TITLE : upload timeline to sketch BODY : uploading a plaso file is confusing. it doesn't get added to any sketch, and you have to manually go and add it. i want to upload a timeline plaso or csv with in the sketch page and have it added to the sketch automatically.

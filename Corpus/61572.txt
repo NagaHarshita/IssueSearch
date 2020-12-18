@@ -1,0 +1,1 @@
+ URL : "https://github.com/NASAWorldWind/WorldWindAndroid/issues/98" TITLE : basic wcs 2.0.1 support BODY : add elevation coverage capability using the web coverage service 2.0.1 interface. the basic support tracked by this issue is limited to manual configuration of some wcs parameters.

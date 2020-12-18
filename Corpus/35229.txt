@@ -1,0 +1,1 @@
+ URL : "https://github.com/b4dnewz/domain-scanner/issues/1" TITLE : dinamic tasks loader BODY : allow the tasks or files to be dynamically loaded into script and used, also ensure the same arguments get passed to all functions.

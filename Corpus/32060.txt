@@ -1,0 +1,1 @@
+ URL : "https://github.com/hdevnotly/alpha/issues/2" TITLE : to-do, first things BODY : todo list: - move from semantic to bootstrap - set up html5 bp with jquery - make log in work with socket.io - check if logged in

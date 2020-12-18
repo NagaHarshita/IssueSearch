@@ -1,0 +1,1 @@
+ URL : "https://github.com/abecms/abecms/issues/215" TITLE : windows image upload bug BODY : when uploading an image in the backend, the double backslash appears in the input box i.e. \\image\too-cute-doggone-it-video-playlist-1-29e8.jpg\ image.js resp 'filepath' = path.posix.join '/' + folderwebpath, slug if we manually remove the backslash, it temporarily resolves it

@@ -1,0 +1,1 @@
+ URL : "https://github.com/shoulders/qwcrm/issues/350" TITLE : session name error BODY : sometimes when i start the xammp server and then load qwcrm session_name is invalid. need to investigate. i need to verify how this error occurs, it could be anywhere in the session tree.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/datapoint-global/lightbit/issues/4" TITLE : application plugin support BODY : this issue is intended to add plugin support to the framework, allowing better portability of elements, including models, controllers and views, between applications.

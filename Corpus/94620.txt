@@ -1,0 +1,1 @@
+ URL : "https://github.com/bevacqua/woofmark/issues/51" TITLE : change html in the buttons BODY : how can i change the displayed value in the command buttons or to remove some buttons entirely? for example: change ul button icon into text '\<ul\>' i enabled only 1 mode in editor - markdown, so displaying markdown button in not needed anymore.

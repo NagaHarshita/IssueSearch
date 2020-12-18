@@ -1,0 +1,1 @@
+ URL : "https://github.com/hx173149/C3D-tensorflow/issues/36" TITLE : accuracy at first few step BODY : hi, the accuracy at the first 300 step is 0.1000 or 0.0500. is this normal or is there something wrong? thank you

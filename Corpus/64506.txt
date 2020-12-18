@@ -1,0 +1,1 @@
+ URL : "https://github.com/samsung-cnct/k2/issues/217" TITLE : gke node version change BODY : what is the manual process for rolling forward or rolling backwards the version of kubernetes running on a gke node? this ticket should produce a set of command line steps to effect both up and down version changes.

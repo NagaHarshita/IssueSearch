@@ -1,0 +1,1 @@
+ URL : "https://github.com/mikelucas-dynes/dummy/issues/51" TITLE : rate_codes can break BODY : 1. it is a varchar 10 but is a concatenation of rate_prod_code varchar 10 and rate_route_code varchar 10 so will very likely overflow and has, for symonds 2. no collision detection is done for new rate_codes 3. using non-opaque pks is a bad idea 4. you can use a composite pk instead

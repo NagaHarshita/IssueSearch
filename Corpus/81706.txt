@@ -1,0 +1,10 @@
+ URL : "https://github.com/PennyDreadfulMTG/perf-reports/issues/439" TITLE : 500 error at /archetypes/ BODY : failed to execute select a.id, a.name, aca.ancestor as parent_id, count distinct d.id as all_num_decks , sum d.wins as all_wins , sum d.losses as all_losses , sum d.draws as all_draws , ifnull round sum wins / sum wins + losses 100, 1 , '' as all_win_percent , sum case when d.created_date >= %s then 1 else 0 end as season_num_decks , sum case when d.created_date >= %s then wins else 0 end as season_wins , sum case when d.created_date >= %s then losses else 0 end as season_losses , sum case when d.created_date >= %s then draws else 0 end as season_draws , ifnull round sum case when d.created_date >= %s then wins else 0 end / sum case when d.created_date >= %s then wins else 0 end + case when d.created_date >= %s then losses else 0 end 100, 1 , '' as season_win_percent from archetype as a left join archetype_closure as aca on a.id = aca.descendant and aca.depth = 1 left join archetype_closure as acd on a.id = acd.ancestor left join deck as d on acd.descendant = d.archetype_id where 1 = 1 group by a.id order by season_num_decks desc, all_num_decks desc, season_wins desc, all_wins desc with 1506668400, 1506668400, 1506668400, 1506668400, 1506668400, 1506668400, 1506668400 because of 1030, 'got error 28 from storage engine' reported on decksite by logged_out
+--------------------------------------------------------------------------------
+request method: get
+path: /archetypes/?
+cookies: {'__cfduid': 'db4748edc656ddf259b70b65958cc3c611512332228'}
+endpoint: archetypes
+view args: {}
+person: logged_out
+user-agent: mozilla/5.0 windows nt 10.0; win64; x64 applewebkit/537.36 khtml, like gecko chrome/62.0.3202.94 safari/537.36
+referrer: https://pennydreadfulmagic.com/

@@ -1,0 +1,1 @@
+ URL : "https://github.com/thgreasi/babel-plugin-system-import-transformer/issues/11" TITLE : support import function BODY : apparently the module loader spec is now using import for dynamic loading. would be great if this plugin could support both syntaxes. babel syntax plugin here http://babeljs.io/docs/plugins/syntax-dynamic-import/ .

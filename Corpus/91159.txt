@@ -1,0 +1,1 @@
+ URL : "https://github.com/rockstor/rockstor-core/issues/1823" TITLE : system shell doesn't work BODY : rockstor 3.9.1-0. clicking on system shell url: https://<ip>/ shell , i get the error 502 bad gateway nginx/1.10.2

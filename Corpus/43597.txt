@@ -1,0 +1,1 @@
+ URL : "https://github.com/QupZilla/qupzilla/issues/2449" TITLE : ctrl-tab doesn't work BODY : ctrl-tab to switch to next tab doesn't work. interestingly ctrl-shift-tab switches to the previous tab fine.

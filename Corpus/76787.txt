@@ -1,0 +1,1 @@
+ URL : "https://github.com/cryptonice/cryptotest/issues/28" TITLE : make db form error aware BODY : don't allow people to enter bad form values.

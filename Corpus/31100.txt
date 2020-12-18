@@ -1,0 +1,1 @@
+ URL : "https://github.com/yogiben/meteor-admin/issues/385" TITLE : role and permission BODY : i'm first time in yogiben admin ,i want to hide the menu from left side bar if user not in the role sale or document ,example . so how can i do ? or have other library for this one.

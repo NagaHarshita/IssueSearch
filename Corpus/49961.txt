@@ -1,0 +1,1 @@
+ URL : "https://github.com/kinoroy/RenewPass-iOS-/issues/1" TITLE : use web view delegate BODY : instead of scheduling javascript to run at fixed times, use the web view delegate to find out when the page has finished loading

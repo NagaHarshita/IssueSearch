@@ -1,0 +1,1 @@
+ URL : "https://github.com/live-composer/live-composer-page-builder/issues/475" TITLE : html tags in excerpts BODY : html tags are being stripped from lc post excerpts. according to https://codex.wordpress.org/excerpt this should not be happening.

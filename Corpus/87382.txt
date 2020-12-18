@@ -1,0 +1,1 @@
+ URL : "https://github.com/ajafff/wotan/issues/8" TITLE : lazily resolve processors BODY : currently processors are solved during parsing of the config. that's not necessary. resolving should happen when reducing the configuration for a file. to avoid performance problems, the result should be cached.

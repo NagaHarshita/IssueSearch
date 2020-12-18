@@ -1,0 +1,1 @@
+ URL : "https://github.com/ponylang/ponyc/issues/2426" TITLE : statically linking llvm BODY : i created pr 2425 support linking llvm statically so i could test aur ponyc-rpm https://aur.archlinux.org/packages/ponyc-rpm/ project. is there already an easy way to build ponyc with llvm statically linked?

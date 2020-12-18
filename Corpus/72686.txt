@@ -1,0 +1,1 @@
+ URL : "https://github.com/douzifly/clear-todolist/issues/43" TITLE : cannot mark task as done BODY : when i swipe a task to the left, it briefly flashes done with a green background, but nothing happens. i expected the task to be archived, removed, or changed in some way to indicate that it is done. also, swiping right does not delete a task; it merely flashes delete in red.

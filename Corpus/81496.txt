@@ -1,0 +1,1 @@
+ URL : "https://github.com/zeromq/czmq/issues/1639" TITLE : zeromq-4.1.4 memory leak BODY : i am using this version, running about half a day or so, that the memory usage rate of about 10%, about 30% hours a day, if i set the thread much more memory, this is the memory leak? help me. thanks

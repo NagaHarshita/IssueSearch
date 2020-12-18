@@ -1,0 +1,1 @@
+ URL : "https://github.com/acoshift/acourse/issues/28" TITLE : response parser for ui BODY : now we wrap api call with grpc which omit empty field some empty field should bring back while mapping response.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/agconti/kaggle-titanic/issues/19" TITLE : why use barh and ylim BODY : i don't understand the need of using barh and ylim functions in plotting.simple vertical graphs are easier to understand then what is the purpose of using barh.and thank you for sharing this notebook it's really informative.

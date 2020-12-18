@@ -1,0 +1,1 @@
+ URL : "https://github.com/arhatbaid91/Kotlin-Demo/issues/4" TITLE : duplicated toast method BODY : there are two methods inside helper class but you just need the one inside companion static .

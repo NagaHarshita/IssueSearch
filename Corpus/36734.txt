@@ -1,0 +1,1 @@
+ URL : "https://github.com/eobermuhlner/big-math/issues/5" TITLE : implement atan2 x, y BODY : see: https://en.wikipedia.org/wiki/atan2 measure performance of different implementations over the full range of values.

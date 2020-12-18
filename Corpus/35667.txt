@@ -1,0 +1,1 @@
+ URL : "https://github.com/zilongxuan001/benpython/issues/18" TITLE : ex36 if 语句规则 BODY : if语句规则 自己将其简化 1.if语句必须含至少一个else。 2.不该执行到的else语句，应该有个结束循环的函数。 3.if语句最好只有1层，不要超过2层。如果有2层，将第二层新建一个函数。 4.if语句就像段落，if、elif和else组合，就像一个句子组合。每个组合的前后要空一行，以示区分。 5. 布尔测试要简单，如果复杂，可以将运算赋值给一个变量。 来源： 习题 36: 设计和调试 http://old.sebug.net/paper/books/learnpythonthehardway/ex36.html

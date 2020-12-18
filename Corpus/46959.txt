@@ -1,0 +1,1 @@
+ URL : "https://github.com/Icinga/icingaweb2-module-graphite/issues/54" TITLE : new template language BODY : ... which is production-ready and easy to understand by non-devs – especially by ops of icinga and graphite web.

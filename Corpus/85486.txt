@@ -1,0 +1,1 @@
+ URL : "https://github.com/dadhi/ImTools/issues/2" TITLE : faster concurrent hashmap BODY : i see two directions at the moment: 1. improve on current linear probing version to the max 2. experiment with new impl., e.g. leap-frog probing

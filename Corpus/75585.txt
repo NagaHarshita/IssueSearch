@@ -1,0 +1,1 @@
+ URL : "https://github.com/kaldi-asr/kaldi/issues/1563" TITLE : how to generate ecf file BODY : i want to evaluate the kws, i have generated the kwlist and rttm file, but i don't know how to generate the ecf file, is there some scripts to generate it in the kaldi?

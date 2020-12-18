@@ -1,0 +1,1 @@
+ URL : "https://github.com/mseminatore/TeslaJS/issues/56" TITLE : clamping error in settemps BODY : the code clamps to deg.f values when deg.c values are passed in resulting in incorrect settings.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/vuetifyjs/vuetify/issues/1460" TITLE : invalid displaied date day BODY : steps to reproduce set first-day-of-week= 1 versions 0.14.11 latests what is expected ? 8 september 1996 is sunday, but showed as monday reproduction link https://jsfiddle.net/spzz6vzm/

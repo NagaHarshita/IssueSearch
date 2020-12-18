@@ -1,0 +1,1 @@
+ URL : "https://github.com/igordot/sns/issues/3" TITLE : qsub delay is too slow BODY : the delay between submitting qsub jobs is very slow. any chance it could be decreased a little? how much delay is really needed? code is here: https://github.com/igordot/sns/blob/9c02efccc8fbc4db6f3656f263a776508944e380/run l150

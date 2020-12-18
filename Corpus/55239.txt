@@ -1,0 +1,1 @@
+ URL : "https://github.com/opentracing-contrib/java-jaxrs/issues/27" TITLE : in process propagation BODY : instrumentation currently does not use in-process propagation for an active span. some references: https://github.com/opentracing/opentracing-java/pull/115, https://github.com/opentracing-contrib/java-spanmanager

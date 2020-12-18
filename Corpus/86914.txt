@@ -1,0 +1,1 @@
+ URL : "https://github.com/schneems/Octave/issues/12" TITLE : incorrect gradient in ex2 BODY : richard, there is a mistake in ex2 file: octave/mlclass-ex2/mlclass-ex2/costfunctionreg.m >> grad = 1/m x' h-y +lambda theta_reg ; correct: >> grad = 1/m x' h - y + lambda/m theta_reg; artem

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Pankaj-Baranwal/pocketsphinx/issues/2" TITLE : add feat.params setting BODY : otherwise accuracy is bad config.set_string '-featparams', path_to_feat.params

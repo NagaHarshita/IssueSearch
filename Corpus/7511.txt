@@ -1,0 +1,1 @@
+ URL : "https://github.com/ddeboer/imap/issues/161" TITLE : get raw message BODY : hello, i didn't find any way to get the raw message output, can you add it? it's easy, you just omit the $section parameter of imap_fetchbody and it fetches the whole raw e-mail.

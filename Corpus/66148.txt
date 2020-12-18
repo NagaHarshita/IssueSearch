@@ -1,0 +1,1 @@
+ URL : "https://github.com/wright-group/WrightTools/issues/333" TITLE : map_axis accept integer BODY : map axis will now accept a single integer n in such a case, the new axis will have n evenly spaced points between its maximum and minimum

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mailpile/Mailpile/issues/1831" TITLE : run travis on prs BODY : i don't know how/why, but it seems that travis is not ran against pull-requests. how about enabling it ?

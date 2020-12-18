@@ -1,0 +1,1 @@
+ URL : "https://github.com/timberio/feature-requests/issues/14" TITLE : log powered status page BODY : a simple status page powered by the state of alerts. timber offers threshold based alerts, if an alert status changes to raised , this could be reflected on a simple status page.

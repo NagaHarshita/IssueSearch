@@ -1,0 +1,1 @@
+ URL : "https://github.com/einsteinx2/iSub/issues/102" TITLE : create ipad ui BODY : similar to how isub 3 works, we'll piece together ios views to create an ipad full screen view. it will probably be very similar to the current ipad ui except with the play queue always visible on the right side and a much better navigation stack.

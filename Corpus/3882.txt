@@ -1,0 +1,1 @@
+ URL : "https://github.com/drtshock/Factions/issues/886" TITLE : /f invite bug? BODY : im trying to use this plugin on my server, and everything works except for /f invite which returns an internal error. heres my console after i do /f invite player : https://hastebin.com/oneboveqiv.vbs if you need anything else message me because i dont know whats causing this issue

@@ -1,0 +1,1 @@
+ URL : "https://github.com/moul/advanced-ssh-config/issues/235" TITLE : graphviz inherits BODY : is it possible to visualise the inherits relations? add relevant lines, maybe dashed or dotted to separate them visually. not sure if it is worth to label them. currently nodes that inherit from others are not displayed at all?

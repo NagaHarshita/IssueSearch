@@ -1,0 +1,1 @@
+ URL : "https://github.com/TrickFire-Robotics/rmc2017-recode/issues/2" TITLE : set up a conventions file BODY : we need conventions for variable names both class-level and internal/method vars , debug outputs both where and what they say w/ some standardized messages for common ideas , method names, and other random things to be created as we see fit.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/KlausBenndorf/guide4you/issues/267" TITLE : use modular openlayers BODY : use the ol package of openlayers 1. the custom ol code needs to be provided as the code in the ol package 2. the guide4you-builder needs to get updated 3. all imports need to be added

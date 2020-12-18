@@ -1,0 +1,1 @@
+ URL : "https://github.com/zulip/zulip-mobile/issues/587" TITLE : android performance issues BODY : the release android build exhibits performance issues. the causes might be one or several. this is a public release blocking issue.

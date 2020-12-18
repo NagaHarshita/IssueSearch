@@ -1,0 +1,1 @@
+ URL : "https://github.com/jtblin/angular-chart.js/issues/636" TITLE : add min & max range line BODY : i want to show a horizontal line in the graph where i can indicate this is max value and this is min value. how can i add min and max range horizontal line?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/libp2p/js-libp2p-websocket-star/issues/27" TITLE : one file per class BODY : https://github.com/libp2p/js-libp2p-websocket-star/blob/master/src/index.js l27-l230 makes code easier to read and to test :

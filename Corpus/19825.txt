@@ -1,0 +1,1 @@
+ URL : "https://github.com/JanGorman/Agrume/issues/69" TITLE : agrume data source BODY : hello! is it possible to make func image forindex index: int, completion: uiimage? -> void to be func image forindex index: int, @escaping completion: uiimage? -> void in order to download image for agrume?

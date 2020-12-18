@@ -1,0 +1,1 @@
+ URL : "https://github.com/NewSpring/Apollos/issues/135" TITLE : make .env public on web BODY : acceptance criteria - it should export env variables on the client

@@ -1,0 +1,1 @@
+ URL : "https://github.com/standardnotes/web/issues/61" TITLE : not all notes are indexed BODY : when searching for notes that are not yet in the browser view, i cannot find them. scrolling through the list and loading the remaining notes allows them to be found again. ideally, all notes should be indexed from the time i open the page.

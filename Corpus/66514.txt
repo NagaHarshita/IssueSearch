@@ -1,0 +1,1 @@
+ URL : "https://github.com/c0deLab/tech.soa.cmu.edu/issues/64" TITLE : multi word tags support BODY : @naher94 need to change the structure for tag front matter across the site to handle multi word tags. use the following syntax: tag: fabrication, cnc routing i've already updated for the workshops entires.

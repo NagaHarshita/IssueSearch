@@ -1,0 +1,1 @@
+ URL : "https://github.com/basarat/yester/issues/16" TITLE : 404 loading demo script. BODY : just tried to open the demo file https://github.com/basarat/yester/blob/master/demo/index.html , but it looks like my browser could not load /app.js off of the server.

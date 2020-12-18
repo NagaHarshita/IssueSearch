@@ -1,0 +1,1 @@
+ URL : "https://github.com/Acfee/ehealth-network-for-africa/issues/4" TITLE : bug: people feed order BODY : _current :: list people by name in ascending order ._ fix :: list people by last name in ascending order .

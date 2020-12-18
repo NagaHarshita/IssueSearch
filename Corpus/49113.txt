@@ -1,0 +1,4 @@
+ URL : "https://github.com/orinc/testml-fan/issues/13" TITLE : support point filters BODY : --- foo.do-this
+--- foo.lines.chomp these filters are applied by the block, not the assertion statement. useful
+when you need to apply an operation to a point only in certain blocks. the lower case filters are user supplied, and the ones starting with a capital
+letter are from the testml stdlib.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/dotnet/roslyn/issues/23705" TITLE : ide0007 false positive BODY : version used : vs 15.5 community steps to reproduce : csharp class classname { void bar<t> out t value { bar out t value2 ; // ide0007 value = default t ; } }

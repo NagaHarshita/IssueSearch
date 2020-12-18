@@ -1,0 +1,1 @@
+ URL : "https://github.com/LAV45/yii2-translated-behavior/issues/5" TITLE : currenttranslate as array BODY : https://github.com/lav45/yii2-translated-behavior/blob/master/src/translatedbehavior.php l245 в большинстве случаев currenttranslate используется как проксирующая связь и не обязательно получать экземпляр класса.

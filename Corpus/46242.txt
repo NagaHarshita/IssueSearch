@@ -1,0 +1,1 @@
+ URL : "https://github.com/dropbox/dropbox-sdk-go-unofficial/issues/23" TITLE : logging response body BODY : verbose logging prints the response body, when downloading a large file, this naturally results in a very large log. is there any value in this? i'm offering to remove it or put it behind a flag if there is a compelling reason to have it

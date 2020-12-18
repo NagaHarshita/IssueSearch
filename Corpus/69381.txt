@@ -1,0 +1,1 @@
+ URL : "https://github.com/picturepan2/spectre/issues/161" TITLE : tab view using pure css BODY : there are tab elements and we can select a tab by giving it the active class. but this means that we're not able to display currently active tabs using css only. a workaround could be to copy the active tab's rules and use a radiobutton tab solution but is there perhaps a better way?

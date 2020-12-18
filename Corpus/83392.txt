@@ -1,0 +1,1 @@
+ URL : "https://github.com/redox-os/ion/issues/573" TITLE : can't use empty arguments BODY : i have to go into bash to use rename : james:~/src/bar touch long_a long_b james:~/src/bar rename long_ '' james:~/src/bar ls long_a long_ab

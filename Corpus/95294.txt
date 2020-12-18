@@ -1,0 +1,9 @@
+ URL : "https://github.com/ahmedahamid/temp/issues/81" TITLE : create sample: sl3deepzoom BODY : cssl3deepzoom, vbsl3deepzoom
+this would be a wow part of next release. please write it with your full energy.
+ 
+http://msdn.microsoft.com/en-us/library/cc645050 vs.95 .aspx
+ 
+please basically demonstrate:
+  how to add a selection rectangle.
+pop up a description message over the sub image when it is selected.
+zooming/moving the popup along with the zooming/moving of images optional . migrated codeplex work item details codeplex work item id: '3694' vote count: '1'

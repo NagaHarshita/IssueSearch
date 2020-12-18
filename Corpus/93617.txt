@@ -1,0 +1,1 @@
+ URL : "https://github.com/redhat-developer/vscode-yaml/issues/40" TITLE : allow any boolean notation BODY : as described in docs http://yaml.org/type/bool.html : y|y|yes|yes|yes|n|n|no|no|no |true|true|true|false|false|false |on|on|on|off|off|off

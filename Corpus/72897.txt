@@ -1,0 +1,1 @@
+ URL : "https://github.com/BohdanTkachenko/webpack-split-by-path/issues/29" TITLE : chunk order is incorrect BODY : reproduction: https://github.com/sirlancelot/split-by-path-bug the output order appears to be manifest, app, vendor when it should be manifest, vendor, app . this issue was most recently brought up in 18

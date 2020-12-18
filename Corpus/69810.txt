@@ -1,0 +1,1 @@
+ URL : "https://github.com/DonJayamanne/pythonVSCode/issues/852" TITLE : typo rebuildonstart doc BODY : typo on this line https://github.com/donjayamanne/pythonvscode/blob/a20e5aee32370fbdfdc2b07f97beff64d4ef0b33/package.json l1163 it should be default . by the way, you're doing an awesome job with this plugin ! :

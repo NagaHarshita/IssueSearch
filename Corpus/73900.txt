@@ -1,0 +1,1 @@
+ URL : "https://github.com/sci4me/bfkit/issues/9" TITLE : different output targets BODY : - c - java - lua - any other languages we might want? c ? - raw brainfuck for compiling ir asm or other inputs

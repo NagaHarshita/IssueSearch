@@ -1,0 +1,1 @@
+ URL : "https://github.com/Emeric54/Art-Sign/issues/6" TITLE : warning dans une url BODY : warnings: ?: urls.w001 your url pattern '^$' uses include with a regex ending with a '$'. remove the dollar from the regex to avoid problems including urls.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ericdanan/counsel-projectile/issues/51" TITLE : issues with ag searches BODY : if i use projectiles-ag and search, i get a bunch of results if i use counsel-projectile, i'm not getting any results. i hit enter and nothing... i'm on windows 64 using the emacs64 build on chocolatey. let me know what i can provide to help.

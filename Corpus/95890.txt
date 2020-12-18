@@ -1,0 +1,1 @@
+ URL : "https://github.com/gravitational/teleport/issues/1019" TITLE : documentation on sshd part BODY : i want to integrate already running sshds to teleport. unfortunately the documentation is not very clear how to register those sshd servers as i do not want to install teleport on them.

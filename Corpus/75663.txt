@@ -1,0 +1,1 @@
+ URL : "https://github.com/pietermartin/sqlg/issues/197" TITLE : hsqldb tests are failing BODY : hsqldb tests are failing with the schema creation command. sqldialect.createschemastatement is now create schema if not exists while it used to be create schema only. the postgresdialect has the if not exists hsqldb does not support the if not exists

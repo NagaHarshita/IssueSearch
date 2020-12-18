@@ -1,0 +1,1 @@
+ URL : "https://github.com/frabcus/mpcv/issues/82" TITLE : fix 500 errors on old urls BODY : googlebot has found lots of 500 errors, presumably from people who are no longer candidates. improve the error message, maybe redirect to archive page.

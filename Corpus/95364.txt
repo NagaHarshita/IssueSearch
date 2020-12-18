@@ -1,0 +1,1 @@
+ URL : "https://github.com/jkroso/atom-browser-refresh-on-save/issues/13" TITLE : css refresh on save config BODY : chrome is not refreshing while saving the style.css . it is any configuration i need to do? if so... what about having multiple .css files? can you paste some configuration snippet? thank you!!

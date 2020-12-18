@@ -1,0 +1,1 @@
+ URL : "https://github.com/zweck/todo_cmd/issues/2" TITLE : template string support BODY : everyone is different, @danpker suggests adding a config options that templates how you would like your todos to be saved. e.g. year/month/day.md vs year-month-day.md

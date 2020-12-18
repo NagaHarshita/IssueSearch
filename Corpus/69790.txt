@@ -1,0 +1,1 @@
+ URL : "https://github.com/frontsideair/yarnhook/issues/5" TITLE : typecheck before commit BODY : run flow with lint-staged, do it after 4.

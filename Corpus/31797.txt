@@ -1,0 +1,1 @@
+ URL : "https://github.com/ArnaudBuchholz/gpf-js/issues/169" TITLE : support of date.now BODY : check if supported on all enviornments https://developer.mozilla.org/en-us/docs/web/javascript/reference/global_objects/date/now

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Windower/Lua/issues/1504" TITLE : shortcuts and yoran-oran BODY : shortcuts will not parse yoran-oran as a valid target due to the dash i believe. i have 2 trusts out, trio and yoran-oran, i can cast on trion but not yoran-oran. after fervour testing koru-moru is the same. there are several trusts with dash's in their names.

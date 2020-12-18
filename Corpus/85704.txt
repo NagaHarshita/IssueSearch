@@ -1,0 +1,1 @@
+ URL : "https://github.com/MonashUnitPlanner/springboot-base-gae-java8/issues/58" TITLE : fix infrastructure issues BODY : - internal server error occurs when instance is being spun back up.

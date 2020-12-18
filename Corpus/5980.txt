@@ -1,0 +1,1 @@
+ URL : "https://github.com/aclu-people-power/map/issues/8" TITLE : ui: event card BODY : the event list and the map tooltips both contain an event card consisting of the following: - labels for event type s - event name - event date - event location - rsvp button don't show for full capacity events

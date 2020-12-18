@@ -1,0 +1,1 @@
+ URL : "https://github.com/autotel/virtual-modular/issues/17" TITLE : deletion big bug BODY : sometimes deleting a module will cause one module to be deleted and the next module to be rmoved from the interface only, where it is supposed to only delete one module

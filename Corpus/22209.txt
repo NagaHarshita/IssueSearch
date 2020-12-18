@@ -1,0 +1,1 @@
+ URL : "https://github.com/GrupoETICUndec/etic/issues/4" TITLE : interfaz de acceso BODY : la interfaz para ingresar al sistema debe estar oculta del sitio principal por ahora. para accederla se podría ingresar referenciándola directamente: localhost/etic/login.php

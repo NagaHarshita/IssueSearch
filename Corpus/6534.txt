@@ -1,0 +1,1 @@
+ URL : "https://github.com/global-env/eslint-plugin-global-env/issues/2" TITLE : add static rule BODY : add a rule that enforces statically-analyzable usage of env.

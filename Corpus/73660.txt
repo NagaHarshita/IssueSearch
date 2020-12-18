@@ -1,0 +1,1 @@
+ URL : "https://github.com/zefoy/ngx-dropzone-wrapper/issues/45" TITLE : data not updated on view BODY : when i tried csv files on dropzone component csv updated and i got the result also then this result i putted on this.result variable this result data is not view on html page.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/bryanlittlefield/TUGBOAT/issues/19" TITLE : error: npm not found BODY : received this error when doing a build after updating to v1.2.0. /bin/sh: 1: npm: not found error: service 'web' failed to build: the command '/bin/sh -c npm update' returned a non-zero code: 127

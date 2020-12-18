@@ -1,0 +1,1 @@
+ URL : "https://github.com/quasarframework/quasar/issues/765" TITLE : side panel, bug? BODY : http://beta.quasar-framework.org/quasar-play/android/index.html /showcase/layout/play-with-layout - open with mobile device i use android+chrome - open left/right panel - press back physic button - yes panel goes hidden, but the main content can't scrolling

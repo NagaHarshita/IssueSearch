@@ -1,0 +1,1 @@
+ URL : "https://github.com/artetxem/vecmap/issues/8" TITLE : the objective is normal? BODY : i ran the code on my dataset, and the objective i got is 32.5354% after 67 iteration. it is normal? how should i finetune the parameters?

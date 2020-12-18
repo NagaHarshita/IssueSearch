@@ -1,0 +1,1 @@
+ URL : "https://github.com/wpilibsuite/OutlineViewer/issues/27" TITLE : keys should be editable BODY : whenever i make a typo in a key field i need to delete the entry and then re-enter it again, hopefully with the correct name and the same value as before. it would be a lot nicer if i could edit the key in-place which could be implemented as a delete and a put

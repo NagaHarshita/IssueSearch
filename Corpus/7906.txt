@@ -1,0 +1,1 @@
+ URL : "https://github.com/pierremarc/extruder/issues/5" TITLE : line break text BODY : text should go to a next line when it reaches the edge of a defined point where the canvas is now . reference for the desired behavior: http://www.fontsmith.com/fonts/fs-albert/test-drive > click the ‘display’.

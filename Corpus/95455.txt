@@ -1,0 +1,1 @@
+ URL : "https://github.com/lwansbrough/react-native-camera/issues/829" TITLE : data matrix not recognized BODY : i was trying to scan a data matrix, but it does not recognize it at all. the document mentions for this type if available . what does that mean? e.g.: images in https://www.google.ch/search?q=data+matrix

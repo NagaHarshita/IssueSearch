@@ -1,0 +1,1 @@
+ URL : "https://github.com/BlockScore/blockscore-java/issues/11" TITLE : person.status is private BODY : it seems like this is unintentional, since this is a useful rollup of the verification result. perhaps there should be a person.getstatus method?

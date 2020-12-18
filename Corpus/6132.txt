@@ -1,0 +1,1 @@
+ URL : "https://github.com/hwdsl2/setup-ipsec-vpn/issues/169" TITLE : why enable ppp BODY : thanks for the wonderful work! seems like ppp is also installed, and configured in iptable rules. just wonder why? seems like xl2tpd is the minimum requirement.

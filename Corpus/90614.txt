@@ -1,0 +1,1 @@
+ URL : "https://github.com/dvizh/shop-skeleton/issues/6" TITLE : sort field behavior maby? BODY : касается всех модулей, где есть поле sort. yii поставляется с замечательным поведением: https://github.com/yii2tech/ar-position если используете сортировку по позиции, целесообразно добавить это поведение.

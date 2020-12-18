@@ -1,0 +1,5 @@
+ URL : "https://github.com/ahmedahamid/temp-third/issues/238" TITLE : ndis 1:n mux sample BODY : the microsoft windows driver kit wdk inlues a n:1 mux smaple that can be adapted easily to be a 1:1 mux sample.
+ 
+however, there is no 1:n mux sample.
+ 
+it would be nice, for completeness, to have a 1:n mux sample. this work item was migrated from codeplex codeplex work item id: '8223' vote count: '3'

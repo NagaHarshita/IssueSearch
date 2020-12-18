@@ -1,0 +1,1 @@
+ URL : "https://github.com/Armitage35/cadelCorp/issues/5" TITLE : fix the menu BODY : expected behavior - the menu should not be considered as page: it should always be added to the end of the page - the menu shouldn't jump - both the text and the box should highlight at the same time

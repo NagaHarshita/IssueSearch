@@ -1,0 +1,1 @@
+ URL : "https://github.com/KnpLabs/rad-fixtures-load/issues/33" TITLE : locale in custom provider BODY : yml my_bundle.my_provider: class: my\provider tags: - { name: knp_rad_fixtures_load.provider } how do i get the locale in my custom provider or do i need to register multiple services for different languages? any arguments i can use?

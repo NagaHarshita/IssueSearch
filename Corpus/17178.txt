@@ -1,0 +1,1 @@
+ URL : "https://github.com/finitespace/BME280/issues/31" TITLE : no humidity data? BODY : i have a bme that seems to report temperature and atmospheric data without issue, but humidity data does not get reported. any thoughts? i'm using the bme_280_i2c_test code. here's the serial output: temp: 27.22⸮c humidity: 0.00% rh pressure: 29.86 atm altitude: 18.16m dew point: nan⸮c

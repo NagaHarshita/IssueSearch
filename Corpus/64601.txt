@@ -1,0 +1,1 @@
+ URL : "https://github.com/mailru/icqdesktop/issues/48" TITLE : gui source code missing BODY : make: no rule to make target 'main_window/contact_list/searchmodel.cpp', needed by 'searchmodel.o'. stop.

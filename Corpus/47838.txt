@@ -1,0 +1,1 @@
+ URL : "https://github.com/IIC2233/Syllabus/issues/350" TITLE : python restarts shell BODY : en el proceso de crear el interprete de consultas, hago algunos prints para chequear el avance. el problema es que no se termina dicha ejecucion debido a que el idle resetea el shell y cierra la gui. algun motivo aparente para esto? restart: shell

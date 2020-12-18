@@ -1,0 +1,1 @@
+ URL : "https://github.com/rugarciap/Turbo-Boost-Switcher/issues/40" TITLE : does not work with 10.12.6 BODY : i can't turn off with the binary. if i checkout the project and launch it, can't load the kext because of signature.

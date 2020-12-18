@@ -1,0 +1,1 @@
+ URL : "https://github.com/vochicong/kuromoji-server-docker/issues/1" TITLE : add dot command BODY : the dot command from graphviz http://www.graphviz.org/ is required for kuromoji viterbi visualisation.

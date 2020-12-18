@@ -1,0 +1,1 @@
+ URL : "https://github.com/kevthehermit/PasteHunter/issues/10" TITLE : improving base64.yar rule BODY : hey, i think it should be better to have condition: $b64_exe at 0 instead of : condition: $b64_exe

@@ -1,0 +1,1 @@
+ URL : "https://github.com/learn-co-curriculum/tic-tac-toe-rb/issues/60" TITLE : cats game vs cat's game! BODY : the tests for procedural ttt requires cats game! for a draw, while the tests for object-oriented ttt require cat's game for a draw. i suggest changing the test for the draw? method in procedural ttt to require cat's game! as well.

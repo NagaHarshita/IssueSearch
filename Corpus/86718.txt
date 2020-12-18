@@ -1,0 +1,1 @@
+ URL : "https://github.com/PsyCommando/ppmdu_spriteeditor/issues/11" TITLE : implement palette editing BODY : this will need its own dialog, and some way of displaying colors and editing them. using a graphics scene with events handling should be alright, but its synchronizing the data in there with the actual palette data that is complicated rn..

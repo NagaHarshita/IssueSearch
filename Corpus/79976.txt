@@ -1,0 +1,1 @@
+ URL : "https://github.com/dolittle/DotNET.DependencyInversion.AutoFac/issues/1" TITLE : support implicit binding BODY : make use of the anyconcretetypenotalreadyregisteredsource dolittle is assuming that self binding is taken care of by the container

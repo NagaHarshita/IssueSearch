@@ -1,0 +1,1 @@
+ URL : "https://github.com/geosolutions-it/decat_geonode/issues/259" TITLE : cleanup production users BODY : a few new users appeared in the production environment, can we delete them? - simone - limited_user - kapp72

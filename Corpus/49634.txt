@@ -1,0 +1,1 @@
+ URL : "https://github.com/azavea/raster-foundry/issues/1082" TITLE : unable to save tokens BODY : it's possible to generate a token, but once the page is refreshed, tokens are gone ! tokens-disappear https://cloud.githubusercontent.com/assets/898060/22743818/5f3717b0-ede9-11e6-99c4-fc2d96fc5359.png

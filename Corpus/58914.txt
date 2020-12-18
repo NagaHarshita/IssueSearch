@@ -1,0 +1,1 @@
+ URL : "https://github.com/Minitour/AZDialogViewController/issues/1" TITLE : support ipad landscape BODY : hello, i just removed the fixednavigationcontroller in my projekt, but the dialogs are too wide and big on ipads in landscape. portrait is okay on both devices. thanks

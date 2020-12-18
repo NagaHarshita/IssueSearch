@@ -1,0 +1,1 @@
+ URL : "https://github.com/excellaco/VendingMachineDemo/issues/80" TITLE : remove multiple asserts BODY : e.g. in the integration test for web ui, for index redirect result types.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ThosRTanner/inforss/issues/104" TITLE : html feed issues BODY : 1. guess encoding is wrong - the field it looks at returns the compression method 1. non utf8 web pages look very very odd

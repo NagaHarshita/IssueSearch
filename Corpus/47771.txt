@@ -1,0 +1,1 @@
+ URL : "https://github.com/Tagirijus/ledger-parse/issues/1" TITLE : provide api reference BODY : please flesh out what the interface of your library looks like, i.e. what it expects and what it provides. it's hard to distinquish from the code what it is trying to do.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/code-iai/iai_kinect2/issues/351" TITLE : save color image BODY : can we save just the hd color image image using kinect2_view? if not what is the the best way to do it?

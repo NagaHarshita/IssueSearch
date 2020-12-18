@@ -1,0 +1,1 @@
+ URL : "https://github.com/elmarti/meteor-video-chat/issues/51" TITLE : lock browser calling BODY : when a particular browser receives a call, it should be the only one that subscribes to the data stream and triggers the onterminatecall callback.

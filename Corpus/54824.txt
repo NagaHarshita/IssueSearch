@@ -1,0 +1,1 @@
+ URL : "https://github.com/ageitgey/face_recognition/issues/212" TITLE : how to fix this error? BODY : typeerror: unsupported operand type s for -: 'list' and 'numpy.ndarray' code with an error: known_face_encoding = rec 1 rec 1 - array from the database match_results = face_recognition.compare_faces known_face_encoding, unknown_face_encodings 0 ,tolerance=0.6 error

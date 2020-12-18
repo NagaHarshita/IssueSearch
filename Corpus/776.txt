@@ -1,0 +1,1 @@
+ URL : "https://github.com/rexlx/theconfig/issues/8" TITLE : mass-fix 2 BODY : remove stuff: 1. dns - no function 2. alerts ^ 3. path3 ^ 4. nodestatus -was once decided this could be salvaged-yank it add comments: 1. path function - meant to be an example, not working 2. checkparts - describe 3.

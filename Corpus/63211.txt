@@ -1,0 +1,1 @@
+ URL : "https://github.com/voxbone-workshop/dids-repository-alarm/issues/4" TITLE : did type discrimination BODY : voxbone's coverage in each country is different and subject to change. in our alerts/api, we should see which type geographical, national, toll-free, etc. is low and potentially be able to enable alerts on select did types

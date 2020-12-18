@@ -1,0 +1,1 @@
+ URL : "https://github.com/mintstack/jolt-validation/issues/10" TITLE : add email validation rule BODY : the email rule will flag the attribute having a requirement to be an email, non email values should result in failed validation.

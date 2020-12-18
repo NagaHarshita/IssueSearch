@@ -1,0 +1,1 @@
+ URL : "https://github.com/olitaylor/vlightbox/issues/3" TITLE : missing script dev BODY : after install npm install vlightbox and npm init try: npm run dev and got: npm err! missing script: dev

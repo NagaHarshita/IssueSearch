@@ -1,0 +1,1 @@
+ URL : "https://github.com/tuckerconnelly/carbon-ui/issues/21" TITLE : add card component BODY : wip references - https://material.io/guidelines/components/cards.html - https://getmdl.io/components/index.html - http://www.material-ui.com/ /components/card subcomponents - title - media - supporting text - action

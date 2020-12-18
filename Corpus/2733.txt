@@ -1,0 +1,1 @@
+ URL : "https://github.com/DSALouisville/dsa-sitev2/issues/4" TITLE : deploy to ecs BODY : - dockerize app - create ecs task definition - create deploy script

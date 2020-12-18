@@ -1,0 +1,1 @@
+ URL : "https://github.com/sharora/Everwing-AI-Bot/issues/6" TITLE : fix static path BODY : some of paths are beginning with /home/, can you change them to relative paths?

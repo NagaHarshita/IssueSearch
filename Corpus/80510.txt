@@ -1,0 +1,1 @@
+ URL : "https://github.com/esl/erlang_ale/issues/30" TITLE : typo in gpio.erl line 94 BODY : the interrupt condition summarize https://github.com/esl/erlang_ale/blob/master/c_src/gpio_port.c l218 url has been misspelt as summerize see https://github.com/esl/erlang_ale/blob/master/src/gpio.erl l94 url , which means that the interrupt condition cannot be set to summarize

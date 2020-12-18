@@ -1,0 +1,1 @@
+ URL : "https://github.com/alterrebe/docker-mail-relay/issues/9" TITLE : encoding on .sh files BODY : i had to run dos2unix docker-mail-relay/{, /} .sh in order to make things work.

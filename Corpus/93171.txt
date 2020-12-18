@@ -1,0 +1,1 @@
+ URL : "https://github.com/saberespoder/contenido/issues/110" TITLE : add https protocol support BODY : at the moment it is impossible to reach any of pages by https, only http copies are available. it is very important to provide http access because google penalizes non-https websites.

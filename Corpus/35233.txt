@@ -1,0 +1,1 @@
+ URL : "https://github.com/krallistic/kafka-operator/issues/25" TITLE : direct broker access BODY : create single svc for every broker to allow direct access for advanced usecases not through lb headless service

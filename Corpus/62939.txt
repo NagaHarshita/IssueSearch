@@ -1,0 +1,1 @@
+ URL : "https://github.com/davisking/dlib/issues/846" TITLE : cudnn runtime detection BODY : would it be possible to have cudnn as a runtime detection so that if the user does not have an nvidia video card, it falls back to cpu-based blas libraries like intel mkl ?

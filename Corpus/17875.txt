@@ -1,0 +1,1 @@
+ URL : "https://github.com/StoDevX/AAO-React-Native/issues/1448" TITLE : rn v0.47 blockers BODY : thanks to a flow upgrade, we need for react-navigation to update. they're starting to get back on top of things, but there's no hint of a new release date yet. that's the only dep i know of that needs to update.

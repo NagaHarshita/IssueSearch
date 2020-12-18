@@ -1,0 +1,1 @@
+ URL : "https://github.com/nunux-keeper/keeper-core-api/issues/6" TITLE : create hook system BODY : register and trigger webhook for specific document event. this feature could be useful in order to create auto publication on twitter/fb/etc with nodered plugin.

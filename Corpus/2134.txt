@@ -1,0 +1,1 @@
+ URL : "https://github.com/bigchaindb/js-bigchaindb-graphql/issues/19" TITLE : test is fake BODY : travis test run doesn't install bigchaindb server instance, nor connects to an existing node so it fails to connect to anything. test still passes. expected tests run against bigchaindb server instance, preferably locally installed within ci.

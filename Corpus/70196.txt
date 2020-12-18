@@ -1,0 +1,1 @@
+ URL : "https://github.com/InspireRobotics/sumobots/issues/5" TITLE : use css instead of code BODY : in certain files we need to remove code that could be under css. an example of this is in the consoletab class. the background is manually set but that could really be in css.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/multiformats/multicodec/issues/51" TITLE : the udp code is wrong BODY : according to the multiaddr repo, the code for udp is 0x011. however, in this repo, it's 0x0111. unfortunately, sha1 is 0x011 here... also, some of these numbers appear to be varint encodes, others not?

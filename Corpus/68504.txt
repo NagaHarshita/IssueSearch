@@ -1,0 +1,1 @@
+ URL : "https://github.com/VALIDproject/DyNetFlowVis/issues/116" TITLE : same node on both sides BODY : when the same node is both a source and a target e.g. libya in unhcr , the sankey behaves like a sankey, which breaks our layout. simple workaround to make strings unique by adding whitespace

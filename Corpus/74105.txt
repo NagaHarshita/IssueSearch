@@ -1,0 +1,1 @@
+ URL : "https://github.com/ceciliaibanez/prj-rev-bwfs-dasmoto/issues/1" TITLE : don't use inline styling BODY : now that we have css in our tool box we should not use styling in the html anymore. inline styling is very hard to overwrite and is inefficient. https://github.com/ceciliaibanez/prj-rev-bwfs-dasmoto/blob/master/dasmoto/index.html l12

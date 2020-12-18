@@ -1,0 +1,1 @@
+ URL : "https://github.com/singapore/renovate/issues/593" TITLE : separate pr footer BODY : allow customisation or disabling of the pr footer without having to duplicate the entire pr. {{prfooter}} also add reference to @renovate-bot if public repo.

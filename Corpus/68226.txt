@@ -1,0 +1,1 @@
+ URL : "https://github.com/opnsense/core/issues/1781" TITLE : replace quagga with frr BODY : it looks like quagga's fork, frr link https://github.com/frrouting/frr has quite a bit of steam: http://packetpushers.net/free-range-routing-project-forks-quagga/ is this something you'd consider pulling in?

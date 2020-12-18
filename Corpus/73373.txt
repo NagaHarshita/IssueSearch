@@ -1,0 +1,1 @@
+ URL : "https://github.com/Kirez/dat255/issues/48" TITLE : create a moped simulator BODY : as developers, we want to have a modular simulator that can simulate the acc between 2 or more mopeds so that we can test our control systems without access to the hardware. dod: a working simulator that we can use to adjust our control system variables.

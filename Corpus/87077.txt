@@ -1,0 +1,1 @@
+ URL : "https://github.com/ilcato/homebridge-ifttt/issues/24" TITLE : ios 11 beta 4 not working BODY : hi, i just installed ios 11 beta 4 and now ifttt plugin not working. no error on the logs of homrbidge. the home app return not responding error. another iphone with ios 10 works fine.

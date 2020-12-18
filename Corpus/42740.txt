@@ -1,0 +1,1 @@
+ URL : "https://github.com/Crinsane/LaravelShoppingcart/issues/320" TITLE : cache cart item model BODY : at the moment, when you access the model on the cart item it will always do a database lookup https://github.com/crinsane/laravelshoppingcart/blob/master/src/cartitem.php l278 - it would be nice if the model was cached on the cart item.

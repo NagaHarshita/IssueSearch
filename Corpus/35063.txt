@@ -1,0 +1,1 @@
+ URL : "https://github.com/Stratio/spark-rabbitmq/issues/117" TITLE : data loss on failure BODY : hi, if the spark streaming job fails, the messages in the buffer will be lost. what are the current workarounds? is it possible to only send an ack back for all the messages once the entire window is done processing writing to a durable storage ?

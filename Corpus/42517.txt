@@ -1,0 +1,1 @@
+ URL : "https://github.com/blynkkk/blynk-library/issues/365" TITLE : ble support for esp32 BODY : this issue is created to track the progress. currently this is blocked by this issue of esp32 arduino core: https://github.com/espressif/arduino-esp32/issues/423

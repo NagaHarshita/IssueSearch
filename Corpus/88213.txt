@@ -1,0 +1,1 @@
+ URL : "https://github.com/snmendoza/dotmaker/issues/14" TITLE : multi print display issue BODY : when printing an 8.5 x 11 series of prints, it seems like our image algorithm rotates the sheet sideways. i'm not sure why, but it does need to be fixed.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/feathersjs/feathers-nedb/issues/56" TITLE : switch to using nedb-core BODY : nedb isn't getting updated anymore, but there is a fork that is well maintained. we should switch to using it to continue to get updates: https://github.com/nedbhq/nedb-core

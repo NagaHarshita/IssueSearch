@@ -1,0 +1,1 @@
+ URL : "https://github.com/freshdesk/hotline-phonegap/issues/37" TITLE : how to use with firebase ? BODY : since gcm is deprecated, there is no longer sender id with firebase. therefore how can we make the notifications works if our app handle notifications with firebase ?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/AppCypher/WebAssemblyLanguages/issues/2" TITLE : list source map support BODY : suggestion / feature request: list which languages / compilers support source maps https://sourcemaps.info/spec.html , and which do not.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/openskope/skope-deployment/issues/23" TITLE : geoserver require file BODY : geoserver can be configured to ensure that the data directory is properly mounted prior to startup. this may be useful in future environments. http://docs.geoserver.org/stable/en/user/datadirectory/setting.html

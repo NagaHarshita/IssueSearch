@@ -1,0 +1,1 @@
+ URL : "https://github.com/brianjking/homeassistant-config/issues/68" TITLE : notify if door left open BODY : yaml alias: alert if the front door was left open trigger: platform: state entity_id: sensor.door_two state: 'off' for: seconds: 120 action: - service: notify.all data_template: message: 'front door is open! please close it.'

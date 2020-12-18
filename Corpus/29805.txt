@@ -1,0 +1,1 @@
+ URL : "https://github.com/antweer/canvas-pong/issues/1" TITLE : move ball mechanics BODY : we should move the ball controls from the client side to the server side.

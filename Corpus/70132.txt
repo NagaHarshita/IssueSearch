@@ -1,0 +1,1 @@
+ URL : "https://github.com/TrueCar/gluestick/issues/427" TITLE : upgrade to webpack v2.2 BODY : how would you feel about upgrading webpack to the latest version? i think it's final version atm 😎 there is guide on how to migrate from version 1.x https://webpack.js.org/guides/migrating/

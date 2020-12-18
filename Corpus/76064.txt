@@ -1,0 +1,1 @@
+ URL : "https://github.com/arybczak/ncmpcpp/issues/236" TITLE : incomplete ncurses check BODY : it seems ncurses is only found via pkgconfig. unfortunately, pkgconfig support for ncurses is new. leap does not have it for example. also, is pkgconfig a hard requirement? checking for ncursesw support could be done without pkgconfig.

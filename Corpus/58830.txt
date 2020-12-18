@@ -1,0 +1,1 @@
+ URL : "https://github.com/SonarSource/sonarjs-cli/issues/11" TITLE : support a quality gate BODY : it would be great if the api could return a validation status based on a quality gate it should be able to load it from a sonarqube server it could be able to use a cached version it may be able to use a config file

@@ -1,0 +1,1 @@
+ URL : "https://github.com/martin-helmich/typo3-typoscript-lint/issues/34" TITLE : warn on empty section BODY : i think a sniff warning about empty sections could be added, e.g.: foo { } by itself this won't do much aside from adding a subsection to the final php configuration array.

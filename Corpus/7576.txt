@@ -1,0 +1,1 @@
+ URL : "https://github.com/Postleaf/skeleton-theme/issues/1" TITLE : h2 tag in posts BODY : https://github.com/postleaf/skeleton-theme/blob/master/templates/post.dust l9 is there any particular reason that h2 is used over h1? semantically speaking, you'd want the post title to be the most important header declaration on the page

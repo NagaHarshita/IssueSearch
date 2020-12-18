@@ -1,0 +1,1 @@
+ URL : "https://github.com/codrops/SelectInspiration/issues/13" TITLE : data-link don't work BODY : the attribute data-link for open a link in option list doesn't work. to fix this, change line 130 in selectfx.js to: link = 'data-link= ' + el.getattribute 'data-link' + ' '; thanks for this tutorial!

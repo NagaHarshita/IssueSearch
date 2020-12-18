@@ -1,0 +1,1 @@
+ URL : "https://github.com/seyyah/me/issues/27" TITLE : linux etc. tips BODY : change defaul editor, sh $ sudo update-alternatives --config editor $ sudo select-editor in mc

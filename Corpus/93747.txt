@@ -1,0 +1,1 @@
+ URL : "https://github.com/semuxproject/semux/issues/314" TITLE : api get_delegate is broken BODY : upgraded from rc3 to rc4 latest commit in master branch and now i'm receiving this error when i try to query get_delegate : internal error: null

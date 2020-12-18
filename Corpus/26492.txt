@@ -1,0 +1,1 @@
+ URL : "https://github.com/galtenberg/evernote-random/issues/9" TITLE : base note component BODY : note and random component duplicate logic for retries, this can probably be moved to a function or even a base note class/component.

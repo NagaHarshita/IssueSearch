@@ -1,0 +1,1 @@
+ URL : "https://github.com/GameServerManagers/LinuxGSM/issues/1248" TITLE : rust auto restart BODY : hey, is there any way to auto-restart a server with lgsm? i asked dr. google, he sent me here ^^ i tried to auto-restart the server with an oxide plugin, but it just stops, since there isn't any config when it sarts again. any idea?

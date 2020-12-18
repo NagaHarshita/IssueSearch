@@ -1,0 +1,1 @@
+ URL : "https://github.com/chriswickham89/2016-Pres.-Election-Data-Exploration/issues/2" TITLE : rminder of things to do BODY : this is a quick memo of things to do on a file before allowing to be viewed by employers: 1 change the names programmatically 2 set up a nicer ggplot x-axis 3 review the random forest and decision trees, and add comments interpreting the random forest

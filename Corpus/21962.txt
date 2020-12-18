@@ -1,0 +1,1 @@
+ URL : "https://github.com/MrRoundRobin/telegram.bot/issues/286" TITLE : how to start chat? BODY : hello. i know with bot.sendmessage i can send message to a telegram id, but it is for answering some one, i want to start chat with a telegram id. you know i have a web application that i want to send message if contact us form submitted.

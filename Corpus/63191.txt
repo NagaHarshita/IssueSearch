@@ -1,0 +1,1 @@
+ URL : "https://github.com/fisshy/react-scroll/issues/280" TITLE : determine element reach BODY : hi! are there any ability to determine that the element has been reached and apply some class to this element using this component? thanks a lot!

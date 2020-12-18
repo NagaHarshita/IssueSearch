@@ -1,0 +1,1 @@
+ URL : "https://github.com/ihsoft/KIS/issues/204" TITLE : allow stacking kis tools BODY : kis tools and items that don;t have state can be stacked to save space in the inventory. e.g. wrench, screwdriver, and manual. though, equipping of a stacked slot should be restricted.

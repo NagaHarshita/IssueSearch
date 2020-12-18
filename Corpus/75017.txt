@@ -1,0 +1,1 @@
+ URL : "https://github.com/gabm/TapAndTurn/issues/40" TITLE : fr: auto restart service BODY : c4b42d0b5bdd55542fdb551d4cb7342c1ecb3213 disables the service completely if the app is temporarily locked out of drawing overlays due to installing or updating an app, or granting permissions. also see https://github.com/gabm/tapandturn/issues/39 issuecomment-325598649

@@ -1,0 +1,1 @@
+ URL : "https://github.com/a-roomana/django-jalali-date/issues/2" TITLE : read only fields BODY : provided mixins and overrides do not seem to be able to affect read only fields. they're still rendered with gregorian date and time values.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/StartupAPI/users/issues/280" TITLE : enforce https by default BODY : it's that time when https should be a default setup and with https://letsencrypt.org/ out there, any excuses are no longer valid. perform https check unless explicitly disabled in configuration.

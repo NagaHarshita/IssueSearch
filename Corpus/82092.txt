@@ -1,0 +1,1 @@
+ URL : "https://github.com/matthewmueller/graph.ql/issues/32" TITLE : add example for mutation? BODY : thank you for this great implementation. as .graphql schema should define everything, graphql-js should be as simple as this. now i want to mutate something which i could not find any example to do with graphql.js. i hope my random trail and error will hit bullseye.

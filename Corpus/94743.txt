@@ -1,0 +1,1 @@
+ URL : "https://github.com/jesvazarg/Acme-CnG/issues/4" TITLE : clases transaction y offer BODY : todo sobre las clases transaction y offer: - dominio - populate - repositorio - servicio - vista - par del convertidor - controlador - pruebas funcionales

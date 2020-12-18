@@ -1,0 +1,1 @@
+ URL : "https://github.com/inspirehep/record-editor/issues/253" TITLE : icon in cancel button BODY : the tick mark in the cancel button on the preview page can be confusing, change it to x: <img width= 118 alt= screen shot 2017-11-15 at 14 49 51 src= https://user-images.githubusercontent.com/24955201/32839505-e9ff830c-ca14-11e7-971a-ced89cc017cc.png >

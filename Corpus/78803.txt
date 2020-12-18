@@ -1,0 +1,1 @@
+ URL : "https://github.com/ReactTraining/history/issues/462" TITLE : release latest v3 commit BODY : could you please release the sessionstorage fix https://github.com/reacttraining/history/commit/a6f8d635311fde98f27aae45d62f65b3140277bd under the v3 branch to npm.

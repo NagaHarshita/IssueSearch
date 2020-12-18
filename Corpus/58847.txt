@@ -1,0 +1,1 @@
+ URL : "https://github.com/slanatech/swagger-stats/issues/6" TITLE : support custom metrics BODY : allow app to submit custom metrics. provide inc/dec operations. keep overall values, and time- interval values. examples: number of db connections, time to execute internal operations, number of items in queue, etc.

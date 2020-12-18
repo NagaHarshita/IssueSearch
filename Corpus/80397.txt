@@ -1,0 +1,1 @@
+ URL : "https://github.com/marcelklehr/floccus/issues/44" TITLE : trailing slash url error BODY : if i input the nextcloud url without a training slash i.e. https://mydomain/nextcloud the sync fails. but with: https://mydomain/nextcloud/ it works.

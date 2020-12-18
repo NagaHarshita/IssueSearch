@@ -1,0 +1,1 @@
+ URL : "https://github.com/katima-g33k/blu-react-desktop/issues/17" TITLE : divide refund action BODY : have 2 buttons - refund -> display a modal asking if we should print a receipt only when refundable - print receipt -> simply print a receipt only when not refundable

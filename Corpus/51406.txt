@@ -1,0 +1,1 @@
+ URL : "https://github.com/bio-tools/biotoolsregistry/issues/233" TITLE : allow reuse of a query BODY : when you have a query done e.g. everything:bowtie2 , it is not possible to relaunch the query by pressing enter . the query is saved but it is not possible to use it, you need to remove the query and retype it.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/CleverRaven/Cataclysm-DDA/issues/21267" TITLE : partial_deaf flag broken BODY : 0.c 22346 windows console the partial_deaf flag no longer has any visible effect on noise. firing an m4 is just as loud with a power armor helmet as without.

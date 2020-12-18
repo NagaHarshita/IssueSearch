@@ -1,0 +1,1 @@
+ URL : "https://github.com/openshift-roadshow/cloud-native-katacoda/issues/3" TITLE : larger vms required BODY : the vms needs to get upgraded to 16gb memory. already in the 4th scenario there is little memory left: free -h total used free shared buff/cache available mem: 7.6g 6.3g 343m 131m 1.0g 898m swap: 0b 0b 0b

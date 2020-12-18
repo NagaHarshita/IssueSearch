@@ -1,0 +1,1 @@
+ URL : "https://github.com/burgerdev/ocaml-addressmapper/issues/20" TITLE : improve debug logging BODY : add public label method to decorate a rule use that internally when types are unknown i.e. not string , don't log question marks but useful english information indent nested rules possible?

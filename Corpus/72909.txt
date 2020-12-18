@@ -1,0 +1,1 @@
+ URL : "https://github.com/Azure/draft/issues/330" TITLE : circleci deploys failing BODY : https://circleci.com/gh/azure/draft/18 installing azure components .circleci/deploy-azure.sh: line 29: pip: command not found

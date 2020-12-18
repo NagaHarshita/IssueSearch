@@ -1,0 +1,1 @@
+ URL : "https://github.com/alliedmodders/sourcemod/issues/638" TITLE : entity health problem BODY : hi, we where testing the setentityhealth command and trying to send by entprop a higher value than 65535 to players but we noticed that there is an overflow there. it would be great if you can patch this as soon as possible. thanks for reading.

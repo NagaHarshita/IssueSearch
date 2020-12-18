@@ -1,0 +1,1 @@
+ URL : "https://github.com/alfarhanzahedi/justdial-data-scraping/issues/1" TITLE : index out of bound error BODY : hey on running your script and passing the argument you have passed , i am facing following error arr.append soup.select 'span itemprop= streetaddress ' 0 .gettext indexerror: list index out of range

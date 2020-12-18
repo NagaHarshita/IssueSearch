@@ -1,0 +1,1 @@
+ URL : "https://github.com/texttheater/viasock/issues/7" TITLE : server gets stuck BODY : this can apparently happen despite the process timeout.

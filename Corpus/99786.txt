@@ -1,0 +1,1 @@
+ URL : "https://github.com/levigo/jbig2-imageio/issues/32" TITLE : newlines printed to stdout BODY : in the 2.0 version, newlines are printed to stdout. i went through the repository and it is huffmantable.java.

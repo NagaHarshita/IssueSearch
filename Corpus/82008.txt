@@ -1,0 +1,1 @@
+ URL : "https://github.com/NLog/NLog/issues/2410" TITLE : add bitdiffer to appveyor BODY : to prevent breaking changes, add a check to appveyor to run bitdiffer to the nlog 4.x see https://github.com/nlog/nlog/pull/2117 issuecomment-336590413

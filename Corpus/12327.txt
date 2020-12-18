@@ -1,0 +1,1 @@
+ URL : "https://github.com/OregonDigital/oregondigital/issues/1147" TITLE : oai using fedora BODY : although we were using activefedora::base.load_instance_from_solr, methods called on it, eg to get labels, were hitting fedora. @wickr suggested using activefedora::base.find_with_conditions, which returns the solr doc.

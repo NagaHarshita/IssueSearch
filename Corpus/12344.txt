@@ -1,0 +1,1 @@
+ URL : "https://github.com/trivago/parallel-webpack/issues/39" TITLE : on complete hook BODY : is there any way to determine when building has been completed? i'm launching the app using openbrowserplugin but i don't know when it's completed all parallel builds.

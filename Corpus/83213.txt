@@ -1,0 +1,1 @@
+ URL : "https://github.com/madskristensen/BundlerMinifier/issues/236" TITLE : bundle injects use strict BODY : installed product versions - visual studio: 2015 professional description i enabled bundling on build. when i build my project this line: use strict ; is injected into every javascript file i have. how do i disable this?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ashah023/json-to-csv/issues/1" TITLE : fields should be optional BODY : it should be optional for fields to be included in csv through options. considering a pr.

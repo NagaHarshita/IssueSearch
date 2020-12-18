@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla-services/screenshots/issues/2951" TITLE : 9.x.0 deployment notes BODY : some notes to remember for the 9.x.0 deployment: set expect_protocol to https set extra_content_origin to pageshot-usercontent.net

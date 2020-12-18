@@ -1,0 +1,1 @@
+ URL : "https://github.com/fossasia/susi_android/issues/894" TITLE : add intro screens BODY : add intro screens when an app is installed for the first time. they will include: 1. displaying skills. 2. quick info about speech input/output. 3. hotword and hotword training. 4. login/signup

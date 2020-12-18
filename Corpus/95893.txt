@@ -1,0 +1,1 @@
+ URL : "https://github.com/helpers/handlebars-helpers/issues/255" TITLE : documentation out of date? BODY : i started getting errors that unless_eq was not found, i looked up in the doc that it still exists and it did but in the code it's called unlesseq now it seems. does the docs need updating?

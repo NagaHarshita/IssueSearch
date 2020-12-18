@@ -1,0 +1,1 @@
+ URL : "https://github.com/odi-group-1/soton-bot/issues/9" TITLE : presenting missing data BODY : when data is not available for all results, i.e. opening times in amenity query, don't show the subtitle line opening times:

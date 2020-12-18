@@ -1,0 +1,1 @@
+ URL : "https://github.com/thingweb/node-wot/issues/28" TITLE : cleaner logger integration BODY : i want to get rid of the logger package as depemdecy for every package. let's use console in all packages and let the executables then hook the console object by require-ing this snippet: https://gist.github.com/daniloborges/7f0f0a88cd5dfb6b5af2

@@ -1,0 +1,1 @@
+ URL : "https://github.com/tricksol/Zabbix-Templates/issues/5" TITLE : use auto-discovery rules BODY : the snmp interfaces template in zabbix 3.2 can used as an example. it shows you how to iterate over interfaces and configure per found item a set of items, triggers and graphs.

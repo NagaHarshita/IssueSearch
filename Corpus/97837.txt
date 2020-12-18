@@ -1,0 +1,1 @@
+ URL : "https://github.com/peterwerren/colmar_academy/issues/2" TITLE : html indentation head/body BODY : tiny comment, but make sure you indent head and body from your html element as they're children of html. just something to keep in mind, but a tiny tiny issue : https://github.com/peterwerren/colmar_academy/blob/master/index.html l3-l12

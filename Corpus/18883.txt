@@ -1,0 +1,1 @@
+ URL : "https://github.com/TheHockeyist/russian-untransliterator/issues/11" TITLE : use the re module BODY : if we used the re module, we could use regular expressions which could clear up the code and fix bugs such as 8. i'll get to work on this.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ga-wdi-lessons/js-intro/issues/13" TITLE : cookie clicker exercise BODY : the cookie is responsive to click function there is a loop that recognizes when you hit a certain level, your click is worth more points. it allows you to accumulate and use points

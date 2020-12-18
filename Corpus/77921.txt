@@ -1,0 +1,1 @@
+ URL : "https://github.com/z-song/laravel-admin/issues/896" TITLE : orderable is not working BODY : protected function handleorderable $id, array $input = { if array_key_exists '_orderable', $input { $model = $this->model->find $id ; if $model instanceof sortable { $input '_orderable' == 1 ? $model->moveorderup : $model->moveorderdown ; return true; } } return false; }

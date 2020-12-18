@@ -1,0 +1,1 @@
+ URL : "https://github.com/j-bresson/symbolist/issues/19" TITLE : sort path along axis bpf BODY : to read through paths along x axis all points might need to be monotonically increasing -- so it might be a nice option to automatically resort the path points when editing via the gui.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/securitywithoutborders/hardentools/issues/11" TITLE : scope: windows 7/8.1/10? BODY : what's the scope? some tweaks only effect select versions of windows. might need to code some logic into the tests.

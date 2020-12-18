@@ -1,0 +1,1 @@
+ URL : "https://github.com/mcw0805/wheres-my-stuff/issues/15" TITLE : create abstract item pogo BODY : -name -description -location -status open or resolved -category enum for type of item -data posted -static var numitems

@@ -1,0 +1,1 @@
+ URL : "https://github.com/springhowto/springboot-base/issues/1" TITLE : switch logging to log4j BODY : log4j log support format like: log.debug this is a log {} , log message which has a better performance.

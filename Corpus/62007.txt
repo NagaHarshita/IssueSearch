@@ -1,0 +1,1 @@
+ URL : "https://github.com/pyrocms/accelerant-theme/issues/16" TITLE : can't drag nested grids BODY : when dragging a nested grid it snaps to the top level with no possibility to nest it again.

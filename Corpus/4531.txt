@@ -1,0 +1,1 @@
+ URL : "https://github.com/RocketChat/Rocket.Chat/issues/8353" TITLE : dns srv record BODY : description: hello, are dns srv records supported or planned? server setup information: steps to reproduce: expected behavior: actual behavior: relevant logs:

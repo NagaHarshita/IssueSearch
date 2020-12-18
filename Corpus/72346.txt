@@ -1,0 +1,1 @@
+ URL : "https://github.com/ladybug-analysis-tools/honeybee/issues/121" TITLE : bsdf parser for honeybee BODY : we need a platform independent parser for bsdf files used in radiance 3 phase method and beyond. the parser should ideally be free from any xml library dependencies right @mostapharoudsari ?

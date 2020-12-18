@@ -1,0 +1,1 @@
+ URL : "https://github.com/simonh1000/elm-webpack-starter/issues/4" TITLE : elmx seems hard to add BODY : this is not really an issue, more like an enhancement request. how would one add elmx-webpack-preloader to the webpack config? i gave up after numerous attempts. would there be a way to have .elmx support in this great boilerplate project?

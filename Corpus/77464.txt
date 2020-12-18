@@ -1,0 +1,1 @@
+ URL : "https://github.com/wmchris/DellXPS15-9550-OSX/issues/8" TITLE : network interface order? BODY : you say for iservices to put the fake ethernet before wi-fi, but some imessage setup tutorials say the primarily used interface should be on en0, which would be wi-fi. can you explain the discrepancy?

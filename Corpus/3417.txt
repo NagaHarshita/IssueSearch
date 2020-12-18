@@ -1,0 +1,1 @@
+ URL : "https://github.com/SkyLothar/lua-resty-jwt/issues/66" TITLE : pem from jwks BODY : can you add this piece of code to this library. this gets pem key from jwt token using n and e. it also supports pem generation using x5c. refer: https://github.com/pingidentity/lua-resty-openidc/issues/71 code: https://github.com/pingidentity/lua-resty-openidc/pull/82/files

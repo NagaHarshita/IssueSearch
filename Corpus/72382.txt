@@ -1,0 +1,1 @@
+ URL : "https://github.com/bodleian/medieval-mss/issues/74" TITLE : bug in print stylesheet? BODY : when printing a multipage record, only the first page prints. e.g.: https://medieval.bodleian.ox.ac.uk/catalog/manuscript_10000

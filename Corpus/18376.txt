@@ -1,0 +1,1 @@
+ URL : "https://github.com/OCESS/SpacesimWebsite/issues/1" TITLE : switch to webpack BODY : webpack does what the current gulp script does, but better and faster. i haven't found the time to switch yet.

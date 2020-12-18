@@ -1,0 +1,1 @@
+ URL : "https://github.com/sdogruyol/kemal-chat/issues/4" TITLE : how could i scale this? BODY : i want to create a chat too, but how could i scale this application over multiple servers, maybe by saving all connections into a resistor server?

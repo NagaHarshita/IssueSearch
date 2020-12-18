@@ -1,0 +1,1 @@
+ URL : "https://github.com/sigrond/BorderRecognition/issues/6" TITLE : poprawić progress bar BODY : - czas źle się nalicza. dłuższy niż przewidywany - zamiast trzymać globalny uchwyt do progressbar, to zrobić strukturę ze wszystkimi jego istotnymi danymi

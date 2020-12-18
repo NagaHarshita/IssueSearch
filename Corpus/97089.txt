@@ -1,0 +1,1 @@
+ URL : "https://github.com/knowmetools/km-api/issues/58" TITLE : fix pytest command in docs BODY : the current command is pytest when it should be pytest km_api/

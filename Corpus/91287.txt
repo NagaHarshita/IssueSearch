@@ -1,0 +1,1 @@
+ URL : "https://github.com/hunterSchloss/Slicer_Renderer/issues/9" TITLE : testing for the pov class BODY : currently i have tested the rotation function but none of the other modifiers a test needs to be put together for each one and then compound tests also made.

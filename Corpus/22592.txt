@@ -1,0 +1,1 @@
+ URL : "https://github.com/bit3/jsass/issues/60" TITLE : macos build failed BODY : the macos jdk download url is not valid anymore: https://travis-ci.org/bit3/jsass/jobs/240693555 l67

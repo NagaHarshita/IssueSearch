@@ -1,0 +1,1 @@
+ URL : "https://github.com/devxoul/github-monospace-editor/issues/1" TITLE : jquery not found BODY : the solution is to add require in the header something like this // @require http://code.jquery.com/jquery-1.11.0.min.js

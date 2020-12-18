@@ -1,0 +1,1 @@
+ URL : "https://github.com/portworx/lcfs/issues/15" TITLE : honor uid/gid mappings BODY : lcfs does not honor uid/gid mappings provided by docker to the graphdriver.

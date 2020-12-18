@@ -1,0 +1,1 @@
+ URL : "https://github.com/NETHINKS/opennms_alarmforwarder/issues/3" TITLE : otrs target otrsqueue BODY : i'm not able to change the otrs qeue. the value of otrsqueue is always raw independent of the value i enter in the web-gui.

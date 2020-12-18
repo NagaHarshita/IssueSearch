@@ -1,0 +1,1 @@
+ URL : "https://github.com/multiformats/go-multihash/issues/38" TITLE : codes for skein? BODY : since i have discovered that skein has 1024-bit hash, why not include it for applications that need longer for faster hashes? https://github.com/aead/skein

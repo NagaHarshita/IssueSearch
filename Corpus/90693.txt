@@ -1,0 +1,1 @@
+ URL : "https://github.com/tkem/cachetools/issues/89" TITLE : split out cachetools.func BODY : there are no dependencies, and this would help keeping cachetools core mean and lean.

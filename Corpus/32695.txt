@@ -1,0 +1,1 @@
+ URL : "https://github.com/highvelocityspace/zenbot/issues/74" TITLE : websocket on cex.io BODY : _from @albabosh on december 15, 2017 7:4_ why not use websocket api on cex.io ? rest api has very low rate limit. _copied from original issue: carlos8f/zenbot 877_

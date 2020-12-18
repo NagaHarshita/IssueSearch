@@ -1,0 +1,1 @@
+ URL : "https://github.com/Nodge/yii2-eauth/issues/104" TITLE : https not working. BODY : get error eauthexception: error in retrieving token: 100: error validating verification code. please make sure your redirect_uri is identical to the one you used in the oauth dialog request same here in demo http://nodge.ru/yii-eauth/demo2/login

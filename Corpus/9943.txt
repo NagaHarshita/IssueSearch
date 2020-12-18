@@ -1,0 +1,1 @@
+ URL : "https://github.com/nodes-ios/project-template/issues/1" TITLE : add setup script BODY : should ask question about project setup, change names, update information in readme, configs and more. suggestions on the language are welcome - i was thinking either swift, ruby or a classic shell script.

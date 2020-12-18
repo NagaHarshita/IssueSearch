@@ -1,0 +1,1 @@
+ URL : "https://github.com/jsevellec/cassandra-unit/issues/233" TITLE : update guava version BODY : we are using the latest version of guava 21 but cassandra-driver was using 19 that is not compatible with versions above 20, so i wasn't able to run cassandra-unit tests.

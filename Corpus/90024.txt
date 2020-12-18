@@ -1,0 +1,1 @@
+ URL : "https://github.com/nayutaco/ptarmigan/issues/68" TITLE : revise external libraries BODY : 外部ライブラリをいくつか使用しているが、 apt install できるものについては git clone せずに外してもよいのではないか。 最初は全部 git clone するつもりだったのだが、 boost や libev はそれが難しかったため apt install してしまったので、そのルールが通用しなくなっている。 curlなどはビルドするだけで重たいので、最初しかビルドしないものの、なるべく導入を軽くしたいと思っている。

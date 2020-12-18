@@ -1,0 +1,1 @@
+ URL : "https://github.com/ltrr-arizona-edu/burnr/issues/111" TITLE : sea print error BODY : the print sea function repeats the 95th percentiles in place of the 99th percentiles in the output table. the error is on lines 344 and 345 of sea.r. these should read upper99 = x$departure$upper_99_perc, lower99 = x$departure$lower_99_perc

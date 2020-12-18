@@ -1,0 +1,1 @@
+ URL : "https://github.com/practicalmeteor/meteor-faker/issues/1" TITLE : needs an update BODY : when installing via meteor add practicalmeteor:faker it seems to install version 3.0.1_1 while upstream faker is already at v4

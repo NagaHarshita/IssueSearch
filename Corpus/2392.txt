@@ -1,0 +1,3 @@
+ URL : "https://github.com/nyu-devops-golf-team/wishlist/issues/5" TITLE : add a product BODY : as a customer i need to be able to add a product id to an existing wishlist so that my wishlists actually contain products assumptions: the wishlist id provided is one that exists the product id refers to a real product on the products microservice acceptance criteria: given that i am a customer
+when i make a request with a wishlist id and a product id
+then the product id is appended to a product id list within the wishlist

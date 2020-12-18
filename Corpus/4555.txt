@@ -1,0 +1,1 @@
+ URL : "https://github.com/finom/eslint-plugin-output-todo-comments/issues/2" TITLE : does not work? BODY : not sure how this can be configured properly, it doesn't work as well i think possibly due to existing warnings overriding this?

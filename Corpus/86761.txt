@@ -1,0 +1,1 @@
+ URL : "https://github.com/h20dragon/appmodeljs/issues/20" TITLE : implemnet command pattern BODY : 1. type 2. selectdropdown by index , visualtext , by value 3. click 4. clickandwait extra 5. gettext 6. getvalue 7. isdispalyed 8. iselementpresent 9. draganddraw 10. mouse move action low priority 11. hover low priority

@@ -1,0 +1,1 @@
+ URL : "https://github.com/l4nk332/Project-Palette/issues/3" TITLE : set up flow configuration BODY : use flow for annotating react components and other javascript used throughout the application. this will also tie into 1 as part of the deployment process.

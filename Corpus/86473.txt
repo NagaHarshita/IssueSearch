@@ -1,0 +1,1 @@
+ URL : "https://github.com/fxfactorial/berber/issues/1" TITLE : how to specify the pager? BODY : seems like berber foo opens a pager in my case, less and gives it a string full of escape codes. in my case i would need to use less -r to properly display those, but i did not find an option for that.

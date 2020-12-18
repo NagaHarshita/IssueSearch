@@ -1,0 +1,1 @@
+ URL : "https://github.com/skorokithakis/catt/issues/50" TITLE : format selector question BODY : https://github.com/skorokithakis/catt/blob/949e60f6ad9d87234f6b5d514cf893106e0b7cb3/catt/stream_info.py l148 i reckon this line has been in catt since it's inception, and i just can't figure out why it's there. can you remember?

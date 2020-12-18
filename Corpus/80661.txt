@@ -1,0 +1,5 @@
+ URL : "https://github.com/mantidproject/mantid/issues/20586" TITLE : unscripted testing vates BODY : 1. read http://www.mantidproject.org/unscripted_manual_testing
+1. comment against this ticket the os environment you are testing against.
+1. don't spend more than a few hours on the testing as fatigue will kick in.
+1. if you find errors in the possibly scant documentation, then correct them.
+1. close the this issue once you are done. if you find bugs: search to see if an issue already exists create an issue if it is new urgent bugs or crashes should by against the current release, and assigned to a developer, then go and talk to the developer if possible. less urgent bugs should be against a subsequent release, and assigned if the correct developer is known. specific notes: including data loading in vates via paraview. for help see testing_notes_2.5.0|here

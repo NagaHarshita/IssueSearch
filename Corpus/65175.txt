@@ -1,0 +1,1 @@
+ URL : "https://github.com/rism-ch/verovio/issues/513" TITLE : import humdrum sections BODY : it would be good to transform humdrum sections > to mei <section> elements. additionally then the expansion list > a,b could be transferred to <expansion> .

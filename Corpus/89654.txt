@@ -1,0 +1,1 @@
+ URL : "https://github.com/roykillany/Personal-Site/issues/10" TITLE : recipe html restructuring BODY : - add column/rows - make each recipe be a grid item instead of just some text a la a rectangle - masonry-ify the grid of recipes

@@ -1,0 +1,1 @@
+ URL : "https://github.com/pschladi/vreya/issues/7" TITLE : connect to mongodb BODY : - provide a description for installing mongodb on the later server - start and connect to mongodb via mongoose drivers https://developer.mozilla.org/en-us/docs/learn/server-side/express_nodejs/mongoose

@@ -1,0 +1,1 @@
+ URL : "https://github.com/SENG330-17/project-team-3/issues/2" TITLE : init db tables BODY : initialize db with default tables 1. employee table + schedule blob 2. equipment table + schedule blob 3. event schedule blob or perhaps table 4. customer auth table for login / web 5. admin auth table for login / web 6. employee auth table for login / web

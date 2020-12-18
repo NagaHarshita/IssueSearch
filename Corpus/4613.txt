@@ -1,0 +1,1 @@
+ URL : "https://github.com/nulajedan/Rares/issues/6" TITLE : error in fubar BODY : i get the following error when hovering the addon in fubar with the mouse. error: attempt to index global rarescolor' a nil value file: interface\addons\rares\raresfu.lua line: 100 count: 1

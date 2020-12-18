@@ -1,0 +1,1 @@
+ URL : "https://github.com/eBay/fabio/issues/244" TITLE : distributed tracing system BODY : is it possible to plug some distributed tracing system like zipkin directly to fabio like for linkerd ? if not how it is better to implement this ?

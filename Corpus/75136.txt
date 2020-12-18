@@ -1,0 +1,1 @@
+ URL : "https://github.com/santigarcor/laratrust/issues/228" TITLE : get all teams for a user BODY : hi is there any function to get all the teams for a specific user, i currently use auth::user ->roles ->get to get the roles but i need something similar to get the teams thanks!

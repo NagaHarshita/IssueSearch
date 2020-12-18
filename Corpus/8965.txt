@@ -1,0 +1,2 @@
+ URL : "https://github.com/LeagueSandbox/GameServer/issues/430" TITLE : stat update bug BODY : until minions spawn, health is not updated every second, but only updated once when you go into an enemy's fow, but when minions spawn, it works correctly. ---
+beep, boop, i'm a bot https://github.com/leaguesandbox/issuebot ! this issue was created by @furkan_s in game-server .

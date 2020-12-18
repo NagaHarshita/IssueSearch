@@ -1,0 +1,1 @@
+ URL : "https://github.com/SpectrumIM/spectrum2/issues/244" TITLE : encoding vcard in icq BODY : run spectrum2 in the dock with the server ejabberd. all is well, but information about contacts in an incomprehensible coding on different clients. a similar problem in pyicqt decided to install the encoding <encoding> cp1251 </ encoding>

@@ -1,0 +1,1 @@
+ URL : "https://github.com/GeographicaGS/aquagis/issues/12" TITLE : crear entorno de servidor BODY : hay que montar el nuevo servidor en aws para esto. - montar docker. - configurar monitorización y backups - postgresql 10.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/erosson/swarm-numberformat/issues/12" TITLE : lazy load suffix json BODY : english can stay eager-loaded/compiled-in so we have a safe default - but if we ever support lots of different languages, compiling them all in might bloat things too much.

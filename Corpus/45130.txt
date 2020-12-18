@@ -1,0 +1,1 @@
+ URL : "https://github.com/reevoo/react-multiline-ellipsis/issues/1" TITLE : handle window resizes BODY : currently this component doesn't recompute text to trim on window resizes, so we get overflow.

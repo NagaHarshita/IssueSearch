@@ -1,0 +1,1 @@
+ URL : "https://github.com/dydrich/e-school/issues/211" TITLE : link registro per sostegno BODY : il link del menu principale che carica il registro personale dalla pagina della firma del registro di classe va in errore per mancanza della materia nella query sulle note didattiche. si tratta probabilmente di un mancato reindirizzamento al registro di sostegno

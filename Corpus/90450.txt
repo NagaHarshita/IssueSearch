@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla/readability/issues/364" TITLE : should get correct byline BODY : should get correct byline for the below case. for example, 1 json { byline : null } 1 : https://github.com/mozilla/readability/blob/master/test/test-pages/yahoo-4/expected-metadata.json l3

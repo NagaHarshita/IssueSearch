@@ -1,0 +1,1 @@
+ URL : "https://github.com/kanryu/quickviewer/issues/45" TITLE : very minor visual bug BODY : if i rotate an image under some limited conditions the un-rotated image is kept in the background until another significant action forces a refresh ! untitled1 https://user-images.githubusercontent.com/12754913/30936834-f6fe01e6-a3cc-11e7-8545-a6309bccfc99.png

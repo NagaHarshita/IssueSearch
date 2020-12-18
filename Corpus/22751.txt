@@ -1,0 +1,1 @@
+ URL : "https://github.com/martinambrus/WorldEdit-ServerSide-Visualizer/issues/3" TITLE : metrics unit tests BODY : this will be the first class to write unit tests for. we'll test the methodology on it and apply a satisfactory result to other classes when unit testing. also, code coverage should not be omitted.

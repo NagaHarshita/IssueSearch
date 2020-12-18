@@ -1,0 +1,1 @@
+ URL : "https://github.com/danielspaniol/kotlinsearch/issues/4" TITLE : full text queries BODY : kotlin versions of - match query - match phrase query - match phrase prefix query - multi match query - common terms query - query string query - simple query string query

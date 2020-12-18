@@ -1,0 +1,1 @@
+ URL : "https://github.com/preetpalS/emacs-dotenv-mode/issues/2" TITLE : env variable highlighting BODY : i wrote a blog post about this some time ago https://fuco1.github.io/2017-06-11-font-locking-with-custom-matchers.html i think you could pretty much lift the code from there and copy/paste it in to have it working.

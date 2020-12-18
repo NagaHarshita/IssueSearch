@@ -1,0 +1,1 @@
+ URL : "https://github.com/pagarme/pagarme-python/issues/36" TITLE : erros na lib BODY : pequeno erro nos testes. falta o módulo mock no requirements e existe um ponto a mais no parâmetro de importação do pagarme_test.py na linha 13. caso alguém mais iniciante tente utilizar o modelo irá ter dificuldades para começar a implementar.

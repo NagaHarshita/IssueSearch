@@ -1,0 +1,1 @@
+ URL : "https://github.com/liip/build-entropy-php/issues/20" TITLE : how to update php BODY : installed older php by php-osx.liip. now i want to upgrade to recent stable version, but i need to copy all config file that i chenged by myself,so,how to upgrade graceful

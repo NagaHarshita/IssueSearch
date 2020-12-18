@@ -1,0 +1,1 @@
+ URL : "https://github.com/bwdbooks/nodejs-mongodb-angularjs-web-development/issues/10" TITLE : chap 6-reading async file BODY : i believe there is something wrong with the code, as i am receiving an error code of 'fd must be a file descriptor'. can you please advise? thanks

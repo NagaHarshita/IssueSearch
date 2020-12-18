@@ -1,0 +1,1 @@
+ URL : "https://github.com/rupakvignesh/Lyrics-to-Audio-Alignment/issues/1" TITLE : segments with no data BODY : merge segments that do not contain any data maybe keep a threshold for how long a segment can be .

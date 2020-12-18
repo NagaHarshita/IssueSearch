@@ -1,0 +1,1 @@
+ URL : "https://github.com/keboola/gooddata-writer/issues/45" TITLE : gooddata writer on docker BODY : rozdělit na provisioning uživatelů a projektů, přidávání do projektů, sso, apod. a samotný writer update modelu a load dat . ostatní funkcionalitu pokud možno vyházet, nebo vyčlenit do samostatných appek

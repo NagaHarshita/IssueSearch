@@ -1,0 +1,1 @@
+ URL : "https://github.com/testing-cabal/mock/issues/399" TITLE : how to mock datetime BODY : a.py import datetime def get_today : return datetime.date.today test_day.py def test_get_today : pass

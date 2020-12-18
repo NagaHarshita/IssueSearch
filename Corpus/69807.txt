@@ -1,0 +1,1 @@
+ URL : "https://github.com/mwrock/packer-templates/issues/66" TITLE : typo in vbox-2016.json? BODY : line 35: cookbook_paths : cookbooks , ./vendor/cookbooks , when i clone from github, there is no vendor folder. changing line to: cookbook_paths : cookbooks , ./cookbooks , and the packer build command is now working.

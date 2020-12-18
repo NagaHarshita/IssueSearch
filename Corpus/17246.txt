@@ -1,0 +1,1 @@
+ URL : "https://github.com/koldyr/BingKmlParser/issues/1" TITLE : not working in ie BODY : thanks for this dzianis. this works for me in all browsers except ie! any ideas? it is failing on this line: bingkmlparser.prototype.parsestyles = function kmldom {}

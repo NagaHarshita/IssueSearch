@@ -1,0 +1,1 @@
+ URL : "https://github.com/MarlinFirmware/Marlin/issues/8561" TITLE : travis failing on 2.0.x BODY : compile error when travis attempts to validate my pull request on the bugfix-2.0.x branch, it is failing on issues total unrelated to the minor change that i have offered.

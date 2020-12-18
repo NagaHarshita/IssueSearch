@@ -1,0 +1,1 @@
+ URL : "https://github.com/NSI-IT/2WU-WOOCLUBS/issues/66" TITLE : sign out - website BODY : as an registered user, i want to logout from the website, so that no one can access it. acceptance criterias: verify that the user is able to logout of the website verify that the user is redirected to the login screen upon clicking on the logout button

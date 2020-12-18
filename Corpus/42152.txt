@@ -1,0 +1,1 @@
+ URL : "https://github.com/OSAMES/Base/issues/9" TITLE : ajout d'une migration BODY : test de la fonctionnalité de migration ef car on va avoir des modifications db à gérer. réaliser les fichiers de la migration initiale et des migrations suivantes quand le besoin s'en fait sentir.

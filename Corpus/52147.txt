@@ -1,0 +1,1 @@
+ URL : "https://github.com/Manuel83/craftbeerpi3/issues/161" TITLE : cannot load any add-on BODY : when i try to download a new add-on and restart the cbpi, it shows me an error message like this: failed to load plugin pidboil __init__ got an unexpected keyword argument 'description' any idea ?

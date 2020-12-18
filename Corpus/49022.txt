@@ -1,0 +1,1 @@
+ URL : "https://github.com/lassevk/DiffLib/issues/11" TITLE : support .net standard BODY : the assembly should support .net standard instead of the .net portable versions that it now supports, to make it easier to handle cross platform support going forward. since the class requires no platform support for anything the initial goal is to support .net standard 1.0 and up.

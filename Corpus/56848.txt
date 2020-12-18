@@ -1,0 +1,1 @@
+ URL : "https://github.com/lonelyjoeparker/befi-bats-gui/issues/9" TITLE : optimisations for beta BODY : optimise code: profile existing code, finding three slowest methods optimise them

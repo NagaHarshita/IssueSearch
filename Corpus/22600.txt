@@ -1,0 +1,1 @@
+ URL : "https://github.com/modoboa/modoboa-webmail/issues/99" TITLE : mail forward issue BODY : if you forward a mail the original recipient is in the mail but only the name not the mailadress. i think there is forgetten that the mail adress also should display.

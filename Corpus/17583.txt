@@ -1,0 +1,1 @@
+ URL : "https://github.com/krismuniz/botkit-sms/issues/16" TITLE : push 1.3.1 to npm BODY : hi kristian, great work on this. i have been using botkit-sms 1.3.0 from npm over the last couple of days and hit your issue with mediaurl. i note that you have fixed this in github and released 1.3.1, but it has not been pushed to npm. can you please push 1.3.1 to npm? thanks.

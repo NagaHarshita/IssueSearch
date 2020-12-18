@@ -1,0 +1,1 @@
+ URL : "https://github.com/Taurvi/WASMUN-Registration-2017/issues/12" TITLE : blank second address line BODY : when user does not enter a second address line, sends to the db as undefined

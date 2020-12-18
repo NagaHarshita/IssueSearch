@@ -1,0 +1,1 @@
+ URL : "https://github.com/redpen-cc/redpen/issues/804" TITLE : joyokanji skips some words BODY : person names appear in sentences but are not included in joyokanji. i want to write like this. xml <validator name= japanesejoyokanji > <property name= list value= 圭,昌 /> </validator>

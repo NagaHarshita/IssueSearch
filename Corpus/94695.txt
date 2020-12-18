@@ -1,0 +1,1 @@
+ URL : "https://github.com/tnklassen/ser316labcr/issues/15" TITLE : checking.java - file order BODY : many of the methods and attributes in this file are out of order. will be re-ordered based on coding standards . tklassen issue 19 bgjackso issue 17 issue category: cg

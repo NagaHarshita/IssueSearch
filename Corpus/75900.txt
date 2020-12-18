@@ -1,0 +1,1 @@
+ URL : "https://github.com/jtrfp/terminal-recall/issues/220" TITLE : implement online help f1 BODY : implement online help f1 and help->contents. give instructions on how to set up a game incl. podfile registry, save/load states, control config, basic gameplay tv/f3 and how to report a bug.

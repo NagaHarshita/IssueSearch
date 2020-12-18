@@ -1,0 +1,1 @@
+ URL : "https://github.com/mi2-warsaw/FSelectorRcpp/issues/46" TITLE : discretize - arguments BODY : discretize x = iris 1 , y = iris 5 ,k=2 - unused argument k , but there is no warning discretize x = iris 1 , y = iris 5 , control = list equalsizecontrol k = -1 , keepall = true, call = null -for k smaller than zero or non-integer we should get error r encountered a fatal error

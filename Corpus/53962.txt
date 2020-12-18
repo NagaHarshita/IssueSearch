@@ -1,0 +1,1 @@
+ URL : "https://github.com/boomboompower/SkinChanger/issues/2" TITLE : fakeplayer gui rending BODY : we should stop the player model being static for cape rendering ----- movement for capes is very bugged due to the capelayer doing magical things. ----- there has been a few occasions where i've seen the fakeplayers name show up. we'll find a way to hide it

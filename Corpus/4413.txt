@@ -1,0 +1,1 @@
+ URL : "https://github.com/exelban/react-swipe-component/issues/1" TITLE : compile to es5 BODY : it appears that as of v1.1.0, this package is exporting a source file using es2015 features. - this should have been a major bump - this makes it not possible to use this package in any but the most recent browsers would you accept a pr that compiles this down to es5?

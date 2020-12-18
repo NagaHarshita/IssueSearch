@@ -1,0 +1,1 @@
+ URL : "https://github.com/crashinvaders/gdx-texture-packer-gui/issues/23" TITLE : 4.4.0 'use indices' broken BODY : hi, i've tried gdx texturepacker gui 4.4.0 on windows seven and mac os sierra. on both, 'use indices' setting doesn't work. i've tried 4.3.2, same settings, and it works. maybe a conflict linked to change from 'input directory' to drag and drop function ?

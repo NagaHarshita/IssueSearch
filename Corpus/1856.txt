@@ -1,0 +1,1 @@
+ URL : "https://github.com/testshallpass/react-native-simple-stepper/issues/4" TITLE : is it a bug? BODY : continuous plus or minus the time will be wrong, such as an initial value of 0.05, i added twice after 2.05, when i press the time, his value becomes 1.049999999998.

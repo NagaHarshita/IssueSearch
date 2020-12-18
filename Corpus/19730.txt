@@ -1,0 +1,1 @@
+ URL : "https://github.com/galarant/domless/issues/7" TITLE : add test framework BODY : package tests: - test folder and one sample test - get it working - update readme demo tests: - test folder and one sample test - get it working - update readme

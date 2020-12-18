@@ -1,0 +1,1 @@
+ URL : "https://github.com/olafveerman/taxis/issues/48" TITLE : remove taxi data pre 2006 BODY : remove from taxis.csv . also no need for: https://github.com/olafveerman/taxis/blob/master/scripts/index.js l59

@@ -1,0 +1,1 @@
+ URL : "https://github.com/kvirc/KVIrc/issues/2178" TITLE : drop qtwebkit support BODY : it's deprecated and should be replaced with something like qtwebengine or a text viewer for now. regardless, once that's implemented it should make porting kvirc to msvc2015 a breeze.

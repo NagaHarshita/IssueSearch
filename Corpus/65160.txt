@@ -1,0 +1,1 @@
+ URL : "https://github.com/USEPA/EPA_Environmental_Dataset_Gateway/issues/34" TITLE : implement version 1.2.9 BODY : this release appears to be a straightforward security patch, there don't seem to be any new features/functions that we would take advantage of, but probably low effort to implement. https://github.com/esri/geoportal-server/wiki/version-1.2.9

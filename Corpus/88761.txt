@@ -1,0 +1,1 @@
+ URL : "https://github.com/DavidAnson/markdownlint/issues/80" TITLE : option to auto-fix rules? BODY : for simple ones like indentation level complaints, how about providing an api to suggest fixes? other linters such as eslint and tslint are doing this, and it's quite convenient especially when editor extensions support it .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/trequana/prj-rev-bwfs-dasmoto/issues/2" TITLE : div vs span BODY : so here you should use a <span> not a div. div's wrap html elements, spans are usually used to wrap inline text for special styling. https://github.com/trequana/prj-rev-bwfs-dasmoto/blob/master/dasmoto's%20arts%20%26%20crafts/index.html l16

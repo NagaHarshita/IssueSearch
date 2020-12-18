@@ -1,0 +1,1 @@
+ URL : "https://github.com/KubeahChat/KubeahChat/issues/2" TITLE : pass ip case value is -0 BODY : can enter without warning the value -0 on the ip case. but when press start an error occured error ping . and crash the application. ! error https://user-images.githubusercontent.com/31389439/30006230-25bb5aa6-90f4-11e7-9ea3-96f1d8237631.png

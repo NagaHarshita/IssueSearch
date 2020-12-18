@@ -1,0 +1,1 @@
+ URL : "https://github.com/hobbyquaker/homekit2mqtt/issues/48" TITLE : external script execution BODY : hello, i was wondering, is it possible to execute external python scrip in addition to mqtt functionality? which piece of code to change to perform such action?

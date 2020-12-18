@@ -1,0 +1,1 @@
+ URL : "https://github.com/dword1511/onewire-over-uart/issues/3" TITLE : linking error on linux BODY : with -static option in makefile you get error: /usr/bin/ld: cannot find -lc collect2: error: ld returned 1 exit status makefile:22: recipe for target 'digitemp_evil' failed make: digitemp_evil error 1 tested on fedora 25 with gcc version 6.3.1 20161221 red hat 6.3.1-1 gcc

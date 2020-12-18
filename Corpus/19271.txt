@@ -1,0 +1,1 @@
+ URL : "https://github.com/ToraenN/buildpacks/issues/3" TITLE : 301 error handling BODY : if a 301 permanently moved error is encountered when trying to load a page, the script should take the provided new address instead of giving up.

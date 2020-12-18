@@ -1,0 +1,1 @@
+ URL : "https://github.com/ng2-ui/auto-complete/issues/291" TITLE : add tslint dependency BODY : steps to reproduce and a minimal demo - git clone the repo - npm install - npm run lint current behavior - tslint not found expected/desired behavior - tslint dependency added to the project

@@ -1,0 +1,1 @@
+ URL : "https://github.com/tivvit/pdf-book-reader/issues/1" TITLE : input has to be algo.pdf BODY : think through some way to define input file name. maybe env variables?

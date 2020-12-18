@@ -1,0 +1,1 @@
+ URL : "https://github.com/lia318/ActivityTest/issues/2" TITLE : 2개의 layout 변경 BODY : - activity_main.xml 수정 : linearlayout에 button을 추가한다. - activity_second.xml 수정 : linearlayout에 button을 추가한다.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mhaupt/som-java/issues/6" TITLE : fix bytecode name padding BODY : the contents of padded_bytecode_names aren't actually padded.

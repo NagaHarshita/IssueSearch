@@ -1,0 +1,1 @@
+ URL : "https://github.com/common-ide/ide-view/issues/5" TITLE : 开发 schema 编辑器 BODY : - schema 预览是通过 json 数据驱动渲染 - 可以切换编辑/预览 schema 加分项 ： - 双击可以直接编辑某一项 - 提供快速搜索定位功能

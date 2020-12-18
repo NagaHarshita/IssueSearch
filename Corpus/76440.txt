@@ -1,0 +1,1 @@
+ URL : "https://github.com/andrey-pavlenko/webpack-dev/issues/1" TITLE : karma tests doesn't work BODY : if builded tests are missing karma doesn't test. should bulid tests via webpack before karma starts.

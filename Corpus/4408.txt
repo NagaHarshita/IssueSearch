@@ -1,0 +1,1 @@
+ URL : "https://github.com/drolean/Starter-KIT/issues/8" TITLE : coisas a fazer BODY : - super usuario tem direito a ver todas as empresas - ao listar os usuarios esconder o super admin, mostra apenas para o super admin. - ao trocar de empresa, limitar o admin apenas para a sua empresa. - um usuario pode ser admin de mais de uma empresa

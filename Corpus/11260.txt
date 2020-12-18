@@ -1,0 +1,1 @@
+ URL : "https://github.com/tabalinas/jsgrid/issues/978" TITLE : freeze frist row BODY : feature request it would be very helpful to have a simple attribute to freeze the first row which is usually column headers. thank you. right now this requires an awful lot of css and javascript voodoo.

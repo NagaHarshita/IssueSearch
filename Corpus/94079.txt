@@ -1,0 +1,1 @@
+ URL : "https://github.com/steelbrain/linter-ui-default/issues/344" TITLE : black bar in atom light ui BODY : this bar appears sometimes when i move the mouse to the bottom. it seems like disabling this packages fixes it. i'm using atom 1.17 ! screenshot at 2017-06-02 10 28 43 https://cloud.githubusercontent.com/assets/898842/26728289/2625505e-4780-11e7-9ec3-e620ce369ba7.png

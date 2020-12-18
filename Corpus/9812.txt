@@ -1,0 +1,1 @@
+ URL : "https://github.com/ADS71-C/SMUG/issues/1" TITLE : add index on url BODY : tweets need to be identified through their url. this is needed to ensure that no duplicate tweets get added and that to enable upserts

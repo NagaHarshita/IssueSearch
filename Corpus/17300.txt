@@ -1,0 +1,23 @@
+ URL : "https://github.com/Zimmi48/bugzilla-test/issues/1583" TITLE : omega & fixpoints BODY : note: the issue was created automatically with bugzilla2github tool bugzilla bug id: 906
+date: 2004-12-20 13:56:00 +0100
+from: roland.zumkeller@polytechnique.fr
+to: last updated: 2004-12-20 13:56:00 +0100 bugzilla comment id: 412
+date: 2004-12-20 13:56:00 +0100
+from: roland.zumkeller@polytechnique.fr full_name: roland zumkeller
+version: cvs head
+os: mac os x
+submission from: amontsouris-107-1-4-186.w81-50.abo.wanadoo.fr 81.50.30.186 require import omega. goal nat -> nat.
+intro n.
+refine fix f m:nat h:m<=n { struct m } : nat := match m as m0 return m=m0 -> nat with | 0 => fun h => 0 | s m' => fun h => f m' _ end refl_equal m n le_n n .
+omega.
+guarded. the condition holds up to here. show proof. print unnamed_thm_subproof.
+defined. error:
+recursive definition of f is ill-formed.
+...
+recursive call to f had not enough arguments 1 it is not clear why this is rejected. replacing omega by set h1 := le_s _ _ h . rewrite h0 in h1. exact le_s_n _ _ h1 .
+results in a proof term that is accepted. 2 shouldn't guarded have checked this condition? 3 print unnamed_thm_subproof displays a term that is not type checkable. joyeux noël ! bugzilla comment id: 413
+date: 2007-07-04 17:03:51 +0200
+from: roland.zumkeller@polytechnique.fr guarded had a bug which is now fixed in main and v8-0-bugfix cvs.
+note: the example below is apparently wrong omega works, that's abstract omega
+which doesn't; the print unnamed_thm_subproof suggests that abstract omega was
+indeed intented . hh 29/12/04

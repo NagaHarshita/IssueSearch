@@ -1,0 +1,1 @@
+ URL : "https://github.com/DavidePastore/codice-fiscale/issues/13" TITLE : fix travis build BODY : travis removed support for php 5.3. https://github.com/travis-ci/travis-ci/issues/7163

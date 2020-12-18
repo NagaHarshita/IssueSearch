@@ -1,0 +1,1 @@
+ URL : "https://github.com/nilsteampassnet/TeamPass/issues/1621" TITLE : disable otv not possible BODY : version: teampass 2.1.26 we could not find a possibility to deactivate one-time-view in teampass. for security reason in our company we need to disable this feature, but the only value to modifiy is period of link validity. is there a way to disable this?

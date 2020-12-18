@@ -1,0 +1,1 @@
+ URL : "https://github.com/mpolden/ipd/issues/37" TITLE : expand on readme.md BODY : hello, would it be possible to expand the readme.md, in regards to how implementation is done? more precisely; lets say you use apache or nginx, does all the files and folders need to be /var/www/ ? or what is the minimum need, in order to make it work?

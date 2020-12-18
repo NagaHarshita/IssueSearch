@@ -1,0 +1,1 @@
+ URL : "https://github.com/Bubbles2016/teacozy/issues/1" TITLE : confusing file structure BODY : so moving forward don't create a solution folder inside a repository, it's confusing. the repo is suppose to be the solution. https://github.com/bubbles2016/teacozy/tree/master/solution

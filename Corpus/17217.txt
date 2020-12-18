@@ -1,0 +1,1 @@
+ URL : "https://github.com/javve/list.js/issues/519" TITLE : node ssr: list js BODY : is there .a way to get list to run in node, server side, and emit only html? else i'll do it w/ http://stackoverflow.com/questions/12708394/how-to-auto-bind-collection-from-html-form-using-node-js-express-framework and w/ https://www.npmjs.com/package/cheerio

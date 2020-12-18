@@ -1,0 +1,2 @@
+ URL : "https://github.com/alrra/sonar/issues/3" TITLE : fix broken links BODY : docs/about/changelog.md %28../tree/master/docs/about/changelog.md%29 - https://examplelxx.com %28https://examplelxx.com%29 => -1 - getaddrinfo: nodename nor servname provided, or not known readme.md %28../tree/master/readme.md%29 - https://examplel.com %28https://examplel.com%29 => -1 - no route to host - connect%282%29
+- https://github.com/404sdad %28https://github.com/404sdad%29 => 404

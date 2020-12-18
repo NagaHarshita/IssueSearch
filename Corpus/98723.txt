@@ -1,0 +1,1 @@
+ URL : "https://github.com/kontena/kontena/issues/2976" TITLE : kontena_uri vs kontena_url BODY : agent has kontena_uri and expects it with ws s :// protocol while cli has kontena_url ..with http s :// just spent ~30mins because it's quite misleading... what about... detecting env kontena_uri in cli and giving a warning or something?

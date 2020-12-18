@@ -1,0 +1,1 @@
+ URL : "https://github.com/zig-lang/zig/issues/358" TITLE : proposal: for on ranges BODY : for a...b |x, index| { ... } where a and b can be chars, integers, anything that can express a range. this is also better syntax imho than: {var i = 0; while i < n; i += 1 { ... }}

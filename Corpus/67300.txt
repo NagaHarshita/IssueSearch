@@ -1,0 +1,1 @@
+ URL : "https://github.com/ProjectEQ/peqphpeditor/issues/11" TITLE : pets table inaccessible BODY : interface for adding pets is obscure and error prone. there isn't a way to correct invalid pet entries. there also needs to be a way to view existing pet entries not assigned to npcs for view, edit, assign, and delete.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jovotech/jovo-cli/issues/5" TITLE : only works on node 8+ BODY : this app only works if you're on node 8 or higher which you can't use when developing alexa skills since lambda functions can only be at 6.10. you might consider compiling you js with babel to support 6.10 so that users of jovo-cli don't have to switch node versions just to use it.

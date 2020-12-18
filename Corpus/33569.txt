@@ -1,0 +1,1 @@
+ URL : "https://github.com/jayjaybillings/fire/issues/18" TITLE : add travis docker ci BODY : @jayjaybillings when you get a chance, will you go into the settings > integration and services and add travis ci as a service for this project? i just made a commit that will set that up to run a build and test on fedora 25 and ubuntu 16.04 every time we push to master.

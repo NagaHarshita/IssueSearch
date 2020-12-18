@@ -1,0 +1,1 @@
+ URL : "https://github.com/vertcoin/electrum-vtc/issues/43" TITLE : add release hashes BODY : given it's possible for tampering to occur over the wire and this is a wallet which holds currency please consider https://github.com/vertcoin/electrum-vtc/issues/36 issuecomment-340718617 adding release hashes with every release.

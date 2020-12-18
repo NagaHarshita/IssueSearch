@@ -1,0 +1,1 @@
+ URL : "https://github.com/redsquirrel/covfefe/issues/3" TITLE : maybe an idea? BODY : saw this latest code golf... https://codegolf.stackexchange.com/questions/123685/covfefify-a-string maybe a plain text box allowing people to covfefify anything? also, you can just remove the www with a cname by using gitlab pages + cloudflare, no need to pay for a heroku instance .

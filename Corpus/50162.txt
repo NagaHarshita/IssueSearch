@@ -1,0 +1,1 @@
+ URL : "https://github.com/sendgrid/eventkit-rails/issues/31" TITLE : webhook resend events BODY : hello, it would be great to add a feature that allows me to resend some events that might have failed/rejected on my webhook receiver endpoint.

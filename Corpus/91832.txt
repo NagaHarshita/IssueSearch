@@ -1,0 +1,1 @@
+ URL : "https://github.com/cockpit-project/cockpit/issues/7568" TITLE : update stale known issues BODY : check for any stale known issues and open a pull request to close them naughty-prune

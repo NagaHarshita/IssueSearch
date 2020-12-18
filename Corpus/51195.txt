@@ -1,0 +1,1 @@
+ URL : "https://github.com/ikeydoherty/ui-tests/issues/2" TITLE : add tail y confinement BODY : we have full x confinement and full y window confinement, but we don't yet have tail y tip confinement.

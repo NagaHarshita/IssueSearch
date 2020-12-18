@@ -1,0 +1,1 @@
+ URL : "https://github.com/lachs0r/mingw-w64-cmake/issues/28" TITLE : zlib require update BODY : http://zlib.net/zlib-1.2.8.tar.gz have been taken offline, so do the zlib-1-win32-static.patch require update as zlib upgrade

@@ -1,0 +1,1 @@
+ URL : "https://github.com/PythooonUser/Snake/issues/3" TITLE : player collision bug BODY : summary players cannot collide with themselves. there is currently only one check when moving that the head is not colliding with the first body segment and if it would the move direction is not changed.

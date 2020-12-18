@@ -1,0 +1,1 @@
+ URL : "https://github.com/howardjohn/Kitchen-Companion/issues/76" TITLE : improve error handling BODY : error handling is duplicated a lot right now. it should not be

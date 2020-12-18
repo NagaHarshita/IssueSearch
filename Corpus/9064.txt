@@ -1,0 +1,1 @@
+ URL : "https://github.com/JuliaImages/ImageCore.jl/issues/44" TITLE : tag new version BODY : we have lab code that requires the fix in 41. could we tag a new version?

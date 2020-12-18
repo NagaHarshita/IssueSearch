@@ -1,0 +1,1 @@
+ URL : "https://github.com/joshwnj/electron-run-in-browser/issues/1" TITLE : using it in hyper BODY : hi @joshwnj thanks for writing this plugin. i was trying to utilize hyper https://github.com/zeit/hyper/issues/561 and not sure how to utilize this module in angular2 app. do you have any sample where you utilized this module..

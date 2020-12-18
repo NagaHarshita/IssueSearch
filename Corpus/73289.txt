@@ -1,0 +1,1 @@
+ URL : "https://github.com/dokun1/Lumina/issues/31" TITLE : could not install lumina BODY : dear friend, i followed your instruction and add the lumina to podfile. did update,install when i opened the xcode after build , i getting build failed with 46 error. i using deployment target of 10.3 would like to use 11.0 and xcode 9.1 what i doing wrong :

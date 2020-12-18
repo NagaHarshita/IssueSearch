@@ -1,0 +1,1 @@
+ URL : "https://github.com/jonyrock/grafana-datatable-panel/issues/1" TITLE : hidden columns error BODY : when you hide a column, save and reload page you get this error <img width= 332 alt= screen shot 2017-04-19 at 10 26 43 src= https://cloud.githubusercontent.com/assets/1022757/25168048/c089be72-24ea-11e7-8deb-7471326aa227.png >

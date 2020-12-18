@@ -1,0 +1,1 @@
+ URL : "https://github.com/syntax-prosody-ot/main/issues/10" TITLE : interface gen clarity BODY : make it clear in the interface that choosing options other than phi for many constraints will result in no interesting violations since gen only puts in phi recursion, not w or i recursion

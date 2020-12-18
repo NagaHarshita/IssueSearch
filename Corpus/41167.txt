@@ -1,0 +1,1 @@
+ URL : "https://github.com/raybellis/draft-bellis-dnsop-xpf/issues/11" TITLE : xpf record stacking? BODY : is multi-tier xpf stacking actually required? if there are multiple proxy tiers, wouldn't the server be more likely to be more interested in the original xpf packet, not the last one?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ForestAdmin/forest-express/issues/86" TITLE : deprecated res.send status BODY : could you upgrade express-cors to the newest version? because i obtain express deprecated res.send status : use res.sendstatus status instead node_modules/express-cors/index.js:95:45

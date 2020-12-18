@@ -1,0 +1,1 @@
+ URL : "https://github.com/Shopify/go-lua/issues/91" TITLE : os.date = nil BODY : this line in an old lua script of mine has never produced an error, but in go-lua to gives me a nil value error ~~~lua version = os.date '%y.%m.%d' ~~~

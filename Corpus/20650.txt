@@ -1,0 +1,1 @@
+ URL : "https://github.com/yourhead/s3/issues/762" TITLE : crash on migration BODY : a crash can occur during migration -- seems to happen on large files

@@ -1,0 +1,1 @@
+ URL : "https://github.com/angular/mobile-toolkit/issues/136" TITLE : new hello-mobile --mobile BODY : ng new hello-mobile --mobile the option '--mobile' is not registered with the new command. run ng new --help for a list of supported options.

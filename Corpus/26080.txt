@@ -1,0 +1,1 @@
+ URL : "https://github.com/jsocooper/brightray/issues/4" TITLE : add sandbox support BODY : right now brightray only functions in non-sandboxed mode, and in fact forces the sandbox off in maindelegate::presandboxstartup. we should fix that.

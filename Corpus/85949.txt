@@ -1,0 +1,1 @@
+ URL : "https://github.com/marbl-ecosys/generic-MARBL-interface/issues/4" TITLE : generalize init interface BODY : currently have hard-coded 5 1m levels, that needs to be user-settable

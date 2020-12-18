@@ -1,0 +1,1 @@
+ URL : "https://github.com/10up/ElasticPress/issues/843" TITLE : sort orders by date BODY : we added sort=date to the url and it is used by elasticsearch, but the orders are not returned in the correct historical order. example: searching for amazon to retrieve all orders coming from amazon.

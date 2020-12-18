@@ -1,0 +1,1 @@
+ URL : "https://github.com/laryn/scheduler/issues/12" TITLE : date format conflicts BODY : no matter what date format you enter into the date format field on the scheduler settings page at /admin/config/content/scheduler , the date popup calendar widget converts the date to m/d/y and the expected format when trying to save the node is y-m-d h:m:s .

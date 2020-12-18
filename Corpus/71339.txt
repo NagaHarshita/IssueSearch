@@ -1,0 +1,1 @@
+ URL : "https://github.com/bmorgan5/beboptechnology/issues/7" TITLE : add cover image to books BODY : add an image field to the books database and figure out how to serialize and insert the image in the books table.

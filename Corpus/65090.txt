@@ -1,0 +1,1 @@
+ URL : "https://github.com/esikachev/abc-client/issues/8" TITLE : implement config module BODY : we need to use config-file for connecting to the server on another host. by default it is localhost. proposed tasks: - research of external config modules 6 - implement config-module 7

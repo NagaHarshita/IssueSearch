@@ -1,0 +1,12 @@
+ URL : "https://github.com/OCA/vertical-construction/issues/25" TITLE : migration to version 11.0 BODY : todo https://github.com/oca/maintainer-tools/wiki/migration-to-version-11.0 modules to migrate - account_invoice_insulation
+- base_construction_architect
+- construction_insulation
+- crm_construction_architect
+- crm_construction_calculator
+- crm_construction_site
+- procurement_insulation
+- project_construction_architect
+- project_construction_site
+- sale_insulation
+- stock_picking_delivery_insulation
+- stock_picking_delivery_users

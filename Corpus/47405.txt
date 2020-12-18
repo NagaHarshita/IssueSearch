@@ -1,0 +1,1 @@
+ URL : "https://github.com/cezary/react-loading/issues/17" TITLE : passing a css classes BODY : hi, i would like to suggests 2 features: 1. add an optional prop for passing css classes/ 2. add an optional prop for displaying the loader as overlay.

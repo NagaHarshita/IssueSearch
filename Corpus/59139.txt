@@ -1,0 +1,1 @@
+ URL : "https://github.com/LCA311/leo-app/issues/16" TITLE : text inputs optimieren BODY : alle edittexts, in die man nur eine zeile text eintragen muss, sollen in xml mit dem attribut 'android:maxlines= 1 ' versehen werden

@@ -1,0 +1,1 @@
+ URL : "https://github.com/danielfrg/django-hospital/issues/2" TITLE : typo in the readme file BODY : a small typo is there in your readme file at line 4 where <code>pip install -r requirements.pip</code> should be <code>pip install -r requirements.txt</code> i know it is a small typo, but still many begineer developers can get confused here.

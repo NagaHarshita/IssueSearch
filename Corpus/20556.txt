@@ -1,0 +1,1 @@
+ URL : "https://github.com/johnmnovak/codeacademy/issues/4" TITLE : commented out code BODY : simplify - remove unnecessary commented out code before pushing. leaving this here can lead to confusion by anyone looking over your code, which includes reviewers or team members of projects. it can also serve as a disturbance to concentration.

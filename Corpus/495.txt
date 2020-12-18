@@ -1,0 +1,1 @@
+ URL : "https://github.com/neolithos/neolua/issues/52" TITLE : about ... BODY : hi, i found two problems when i used it. lua function test1 ... print ... 1 -- print 2 ??? end test1 1,2,3,4,5 lua function test2 ... local t={...}	-- error in compilechunk print t 1 end test2 1,2,3,4,5 thanks for you help :

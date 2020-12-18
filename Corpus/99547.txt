@@ -1,0 +1,1 @@
+ URL : "https://github.com/MDClark/DartStats/issues/17" TITLE : more vertices around board BODY : the board looks janky and jaggy using nts' default buffer parameters. define some buffer parameters to smooth out egdes.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/elgervb/php-rest/issues/2" TITLE : add prefix to route BODY : now we can only create a route with the resource name at root level, but we want to nest it deeper. now: /test /test/id required: /path/to/resource/test /path/to/resource/test/id

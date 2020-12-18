@@ -1,0 +1,1 @@
+ URL : "https://github.com/lukexorz/WUMBot/issues/18" TITLE : change !limit behavior BODY : introduce a soft lock that only sets a voice user limit but can be turned into a normal lock. these will also be checked for and deleted on empty channel check and restore all prior channel settings

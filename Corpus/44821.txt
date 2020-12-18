@@ -1,0 +1,1 @@
+ URL : "https://github.com/math2001/FoldFunctions/issues/1" TITLE : fold nested functions BODY : hi there, is there any chance for the plugin to check if there are nested functions, it then fold them and leave the parent expanded ?

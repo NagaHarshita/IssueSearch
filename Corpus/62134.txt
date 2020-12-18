@@ -1,0 +1,1 @@
+ URL : "https://github.com/jeroenrnl/zoph/issues/93" TITLE : cant add or edit person BODY : when i try to edit or add a person i just get the title new person and the rest is blank. it is template::showjswarning in edit_person that doesn't use the template namespace. will try to submit a pull request my first time :

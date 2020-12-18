@@ -1,0 +1,1 @@
+ URL : "https://github.com/yfronto/factorio-aws/issues/2" TITLE : support multiple games BODY : multiple instances could be deployed that each run a different game. maybe make var.game_name a list and make it the count.

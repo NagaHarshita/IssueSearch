@@ -1,0 +1,1 @@
+ URL : "https://github.com/bioShaun/OMrnaseq/issues/28" TITLE : problems in quant module BODY : 1. relative path input will lead to error. 2. check all sample existence before running.

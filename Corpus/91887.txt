@@ -1,0 +1,1 @@
+ URL : "https://github.com/coala/coala-bears/issues/1675" TITLE : upgrade to checkstyle 7.6 BODY : as found on https://github.com/coala/coala-bears/pull/1466 , checkstyle 7.6 jar is compiled with jdk 8, and will not run on jdk 7, at least on windows. to workaround this, we would need to detect the version of java installed, and then either use checkstyle 6.19 or 7.6 accordingly.

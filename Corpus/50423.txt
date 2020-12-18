@@ -1,0 +1,1 @@
+ URL : "https://github.com/MacGesture/MacGesture/issues/75" TITLE : 与snagit 2018 冲突 BODY : 开启macgesture后，用snagit截图的话不能智能识别窗口，只能全屏或手动选取。 虽然可以通过暂时关闭macgesture来解决，但总是多点麻烦。 环境： mac 10.12 snagit 2018 90407 macgesture 2.2.3

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Jeanosis/IntelligentSystemsLabs/issues/46" TITLE : expansion panel styles BODY : expansion panel styles need to be changed according to material.io/guidelines : - make main part and expandable part one block remove margin etc . - add margin transition to whole panel, not just expandable part.

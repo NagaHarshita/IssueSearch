@@ -1,0 +1,1 @@
+ URL : "https://github.com/dzt/shopify-monitor/issues/11" TITLE : config file problems BODY : i renamed the config.example.json to config.json but when i run node monitor.js it returns yeezy-mac-pro:shopify-monitor yeezyseason$ node monitor.js 07:43:40 missing, config.json file or invalid json syntax.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Vktre/AntiHack/issues/1" TITLE : bug fixes 1.0.4 BODY : a update that includes the fix for: - players banned when hitting entity on the sides heuristic - fixed the bug with punch 2 bow. - fixed false positives for killaura when hitting silverfishes entity whas to small

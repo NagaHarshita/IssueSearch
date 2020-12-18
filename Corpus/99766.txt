@@ -1,0 +1,1 @@
+ URL : "https://github.com/EyeSeeTea/dhis2-android-sdk/issues/253" TITLE : new sendmessage actiontype BODY : - new programruleactiontype.sendmessage. - its corresponding action class needs to be created in core-rules. - the class takes only one parameter notification - apart from that, we need to add control flow statement in ruleengineexecution.

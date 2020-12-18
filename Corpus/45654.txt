@@ -1,0 +1,1 @@
+ URL : "https://github.com/kwhanalytics/rdtools/issues/12" TITLE : improve test coverage BODY : add unit tests for functions that have no coverage, improve existing tests. perhaps use the coverage module https://coverage.readthedocs.io/en/coverage-4.3.4/ to look for lines of code that are not touched by tests.

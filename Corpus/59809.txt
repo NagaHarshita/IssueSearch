@@ -1,0 +1,1 @@
+ URL : "https://github.com/alixhuntsman/prj-rev-bwfs-dasmoto/issues/1" TITLE : use proper html & sign BODY : use the html & sign instead of just &, which is &amp; https://github.com/alixhuntsman/prj-rev-bwfs-dasmoto/blob/master/art%20store/index.html l7

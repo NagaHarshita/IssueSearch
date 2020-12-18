@@ -1,0 +1,1 @@
+ URL : "https://github.com/cartometricsteam/datamining/issues/4" TITLE : store the tweets in a db BODY : we will use sqlite for now, but we will have to study the pros and cons of postgres or a nosql solution @pabloarca

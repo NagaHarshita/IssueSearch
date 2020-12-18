@@ -1,0 +1,1 @@
+ URL : "https://github.com/PathwayCommons/pcviz/issues/37" TITLE : reduce haystack radius BODY : the edges point too far away from the centre. use a smaller radius like 33%

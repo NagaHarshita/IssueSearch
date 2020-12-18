@@ -1,0 +1,1 @@
+ URL : "https://github.com/spyder-ide/spyder/issues/4464" TITLE : add wakatime support BODY : i have not found a way to implement wakatime https://github.com/wakatime/wakatime myself, so i'd love to see this supported, as i use spyder as my main ide.

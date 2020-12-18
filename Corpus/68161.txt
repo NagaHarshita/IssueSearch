@@ -1,0 +1,1 @@
+ URL : "https://github.com/Monadical-SAS/redux-time/issues/1" TITLE : remove redundant fields BODY : every animation has redundant fields, such as amt alongside start_state and end_state , as well as duration alongside start_time and end_time

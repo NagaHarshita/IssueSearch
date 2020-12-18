@@ -1,0 +1,1 @@
+ URL : "https://github.com/moneroexamples/openmonero/issues/50" TITLE : check ring size on backend BODY : dont let users to modify js to put what ever ring size they want. check if requested number of random outputs is withing the limits we have. avoid this: http://139.162.32.245:8082/tx/118c0ee58e872b8f4d601e295cfb3a3f76ce590b36bd47b6744b711820e1a11e

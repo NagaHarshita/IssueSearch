@@ -1,0 +1,1 @@
+ URL : "https://github.com/severndb/structure/issues/22" TITLE : lint markdown code hook BODY : traits runs on every commit. lints all markdown code.

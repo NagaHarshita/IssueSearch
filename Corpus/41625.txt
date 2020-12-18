@@ -1,0 +1,1 @@
+ URL : "https://github.com/infinitered/ignite-ir-boilerplate-2016/issues/12" TITLE : add a way to skip git BODY : some users might not use git. it'd be nice to offer a --skip-git option we could pass to the boilerplate during setup.

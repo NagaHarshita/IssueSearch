@@ -1,0 +1,1 @@
+ URL : "https://github.com/code42/Splunk/issues/10" TITLE : ignore system proxy BODY : splunk app appears to be using the system proxy to make calls to the server, even though there is direct network connectivity. would it be possible to tell the app a proxy which use, if any?

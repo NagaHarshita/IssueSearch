@@ -1,0 +1,6 @@
+ URL : "https://github.com/artemanufrij/webpin/issues/2" TITLE : invalid appdata file BODY : appcenter dashboard ran appstreamcli validate on your project's .appdata.xml file and
+received the following errors: i - com.github.artemanufrij.webpin.appdata.xml:com.github.artemanufrij.webpin.desktop:10 first 'description/p' paragraph might be too short < 100 characters . w - com.github.artemanufrij.webpin.appdata.xml:com.github.artemanufrij.webpin.desktop the category 'internet' defined is not valid. refer to the freedesktop menu specificaton for a list of valid categories. validation failed: warnings: 1, infos: 1 --- for more information, see:
+- the appstream quickstart guide https://www.freedesktop.org/software/appstream/docs/chap-quickstart.html - the appstream metadata specification https://www.freedesktop.org/software/appstream/docs/chap-metadata.html if you need help with this issue please stop by the gitter https://gitter.im/elementary/houston channel. affects : 0.1.0 release https://github.com/artemanufrij/webpin/releases/tag/0.1.0 <!--
+pipe: appdata
+pipe time: tue aug 01 2017 17:18:29 gmt+0000 utc houston version: 0.4.1 8da0ae2e696bb2883935fc2b77161800baaeba37 houston env: production
+-->

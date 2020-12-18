@@ -1,0 +1,1 @@
+ URL : "https://github.com/rovo89/XposedBridge/issues/178" TITLE : hook final method BODY : can xposed hook the method that with final? i just write a test for that and i get an error like :nosuchmethod

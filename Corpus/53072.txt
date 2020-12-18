@@ -1,0 +1,1 @@
+ URL : "https://github.com/EdwardEric/TDD_Day2_HomeWork/issues/1" TITLE : day2 review completed. BODY : 詳見 commit comments. 摘要： 1. 最後的 production code, 也可以參考其他同學用遞迴的寫法，語意上還有調整的空間。另外，針對第一集買100本，其他集都只買1本，遞迴的執行次數也可以考慮優化一下。

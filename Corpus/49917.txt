@@ -1,0 +1,1 @@
+ URL : "https://github.com/chrisvdg/GorageRemote/issues/8" TITLE : use a lib for logging BODY : change the current logs to using a lib as logrus https://github.com/sirupsen/logrus this will allow setting different log levels which can be set with a flag e.g.: -v or --loglevel debug

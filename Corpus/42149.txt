@@ -1,0 +1,1 @@
+ URL : "https://github.com/anjakammer/data2table/issues/16" TITLE : ajax based data table BODY : the user should be able to load all items by ajax request, without page is refreshing

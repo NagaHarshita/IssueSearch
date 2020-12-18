@@ -1,0 +1,1 @@
+ URL : "https://github.com/lastmjs/nx-local-server/issues/2" TITLE : install pcre for the user BODY : this is causing people issues. install pcre for them from source, look at the nginx docs they should explain how to do that.

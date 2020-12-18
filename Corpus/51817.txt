@@ -1,0 +1,1 @@
+ URL : "https://github.com/k0shk0sh/FastHub/issues/366" TITLE : bold text doesn't work BODY : app version: 1.9.4 os version: 23 model: samsung-sm-g800f i can't make text bold, not with an underscore nor with an asterisk. it always shows up as italics even though i use two of them. the comment preview screen does show them correctly, though. __underscores__ asterisks

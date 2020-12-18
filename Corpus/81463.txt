@@ -1,0 +1,1 @@
+ URL : "https://github.com/bridgedotnet/Bridge/issues/2367" TITLE : xamarin project template BODY : pretty rough experience on osx, can xamarin can get project templates by using this: http://www.monodevelop.com/developers/articles/project-templates i am in my second day of trial and still stuck at a weird compiler error 1 - most likely due to my bad set-up.

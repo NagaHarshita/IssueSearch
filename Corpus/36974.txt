@@ -1,0 +1,1 @@
+ URL : "https://github.com/ipfs/go-ipfs/issues/4080" TITLE : ipfs add concurrency BODY : go natural concurrency model should let do it easily.

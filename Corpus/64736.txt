@@ -1,0 +1,1 @@
+ URL : "https://github.com/godotengine/godot/issues/14994" TITLE : hingejoint not work 3.0 BODY : godot version: 3.0 beta1, beta2 minimal reproduction project: bug join.zip https://github.com/godotengine/godot/files/1584532/bug.join.zip

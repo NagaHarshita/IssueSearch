@@ -1,0 +1,1 @@
+ URL : "https://github.com/fail2ban/fail2ban/issues/1683" TITLE : install without config? BODY : hi. i rewrite all the config for this project. so every update. i need to copy again the config files. can you add python serup.py install --without-config or something that will not install the config?

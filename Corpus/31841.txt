@@ -1,0 +1,1 @@
+ URL : "https://github.com/aerospike/aerospike-client-c/issues/71" TITLE : symbol lookup error BODY : i've installed this into an existing project, when i run the script i'm getting the following; node: symbol lookup error: /path/to/project/node_modules/aerospike/build/release/aerospike.node: undefined symbol: as_event_set_external_loop_capacity

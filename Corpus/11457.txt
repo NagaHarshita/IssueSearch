@@ -1,0 +1,1 @@
+ URL : "https://github.com/heckvetica/prj-rev-bwfs-dasmoto/issues/3" TITLE : header tags bold BODY : header tags default to bold, so no need to add it. also you can replace span tags with <strong> tags if you want them to be bold font. https://github.com/heckvetica/prj-rev-bwfs-dasmoto/blob/master/dasmoto%20arts/resources/style.css l5-l7

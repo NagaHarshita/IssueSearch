@@ -1,0 +1,1 @@
+ URL : "https://github.com/hyperspy/hyperspy/issues/1372" TITLE : migrate to py.test? BODY : it seems that nose is no longer under development and, although its being rewritten in a new project called nose2 https://github.com/nose-devs/nose2 , most projects these days seem to use py.test. other projects e.g. matplotlib/matplotlib 6731 have started migrating to py.test, should we?

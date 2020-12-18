@@ -1,0 +1,1 @@
+ URL : "https://github.com/IBM-Swift/kitura-cli/issues/9" TITLE : enforce npm >= 5.2 BODY : once 5 lands and we are using npx , we should specify that we require npm >= 5.2 in the package.json : { engines : { npm : ~1.0.20 } } documentation https://docs.npmjs.com/files/package.json engines .

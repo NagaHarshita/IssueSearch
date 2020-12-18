@@ -1,0 +1,1 @@
+ URL : "https://github.com/pimukthee/bgm/issues/38" TITLE : end button is broken! BODY : when i click on blue-end button, nothing happens. but when i click on red-button, i got integrity constraint violations. some columns cannot be null.

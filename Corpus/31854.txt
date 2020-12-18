@@ -1,0 +1,1 @@
+ URL : "https://github.com/mikelson/number-logger/issues/1" TITLE : synch multiple tabs BODY : if the same domain is open in multiple tabs, the last one changed will be saved if the others are reloaded. add a callback to the window storage event and update the state there.

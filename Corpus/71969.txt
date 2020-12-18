@@ -1,0 +1,1 @@
+ URL : "https://github.com/schrum2/MM-NEAT/issues/26" TITLE : apply rl4j to ale: atari BODY : have to actually get ale to work first though. i've thought about this issue before https://github.com/schrum2/mm-neatv2/issues/290 but never really got around to it. rl4j supposedly has a code example that should run, but i can't get it to work even within its native context.

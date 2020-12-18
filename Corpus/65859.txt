@@ -1,0 +1,8 @@
+ URL : "https://github.com/QubesOS/updates-status/issues/200" TITLE : linux-utils v4.0.6 r4.0 BODY : update of linux-utils to v4.0.6 for qubes r4.0, see comments below for details. built from: https://github.com/qubesos/qubes-linux-utils/commit/d7036520704aa65a1129d54672b7a77c968295c6 changes since previous version https://github.com/qubesos/qubes-linux-utils/compare/v4.0.5...v4.0.6 :
+qubesos/qubes-linux-utils@d703652 version 4.0.6
+qubesos/qubes-linux-utils@764b0f3 udev: major cleanup in block devices handling
+qubesos/qubes-linux-utils@dd71f29 merge remote-tracking branch 'qubesos/pr/16'
+qubesos/qubes-linux-utils@349f79b fix off-by-one error in header length calculation referenced issues:
+qubesos/qubes-issues 3073
+qubesos/qubes-issues 1082
+qubesos/qubes-issues 3084 if you're release manager, you can issue gpg-inline signed command: upload linux-utils d7036520704aa65a1129d54672b7a77c968295c6 r4.0 current repo available 7 days from now upload linux-utils d7036520704aa65a1129d54672b7a77c968295c6 r4.0 current dists repo , you can choose subset of distributions, like vm-fc24 vm-fc25 available 7 days from now upload linux-utils d7036520704aa65a1129d54672b7a77c968295c6 r4.0 security-testing repo above commands will work only if packages in current-testing repository were built from given commit i.e. no new version superseded it .

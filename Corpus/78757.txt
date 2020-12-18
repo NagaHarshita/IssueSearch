@@ -1,0 +1,1 @@
+ URL : "https://github.com/tair/toastdos-back/issues/211" TITLE : refactor submission page BODY : - move curation into the store - fix navigation from submission view or curation view so that it clears its state - maybe split out submissionview into a submissioncurationview so that there arent as many ternary operations in submissionview 's render

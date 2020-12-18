@@ -1,0 +1,1 @@
+ URL : "https://github.com/500tech/angular2-tree-component/issues/193" TITLE : isexpanded not working BODY : i have a tree data structure where i'm setting the isexpanded to true for nodes that have child nodes. but the tree component still renders the nodes in closed state.

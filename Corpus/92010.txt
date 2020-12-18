@@ -1,0 +1,1 @@
+ URL : "https://github.com/pp2p/paranoid/issues/17" TITLE : use uniform version names BODY : currently it looks like paranoid-cli has its version hard coded. we should determine the version as part of the release process. this should be uniform across all binaries.

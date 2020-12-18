@@ -1,0 +1,1 @@
+ URL : "https://github.com/ceryliae/DnDAppFiles/issues/265" TITLE : unable to parse file BODY : i just tried to import the tome of beasts xml into the gm fight club app, and got an error: unable to parse file. please verify that your file format is valid. error 41, line: 35, column: 92 might this be related to issue 238 ? now closed.

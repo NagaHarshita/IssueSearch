@@ -1,0 +1,1 @@
+ URL : "https://github.com/Openarl/PathOfBuilding/issues/494" TITLE : pob gpu usage BODY : gpu usage spikes to 44-50% when i open up the window to choose saved builds. if i keep the program on that window and then i alt-tab, it will stop using the gpu. http://imgur.com/a/tqt7d like so

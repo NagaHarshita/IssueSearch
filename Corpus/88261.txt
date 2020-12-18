@@ -1,0 +1,1 @@
+ URL : "https://github.com/openshift/origin-web-console/issues/1941" TITLE : my projects text can wrap BODY : i suspect adding the + to the button label makes this text wrap at some screen widths. <img width= 656 alt= screen shot 2017-08-16 at 9 21 15 am src= https://user-images.githubusercontent.com/1167259/29365246-4b198906-8264-11e7-9ac2-3e3fa1671f5a.png >

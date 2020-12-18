@@ -1,0 +1,1 @@
+ URL : "https://github.com/stereolabs/zed-examples/issues/16" TITLE : change mode to fill BODY : i am trying to get the depth map video in fill mode. as explained in the documentation, i use : sl::runtimeparameters runtime_parameters; runtime_parameters.sensing_mode = sl::sensing_mode::sensing_mode_fill; but it's not really working. what am i missing here ?

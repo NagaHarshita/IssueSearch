@@ -1,0 +1,1 @@
+ URL : "https://github.com/dokufreaks/plugin-tag/issues/189" TITLE : sort count output. BODY : imo this should be standard behavior. achieving it is extremely easy: in helper.php, add ksort $otags before returning $otags. i'm in a rush so i don't have time to fork and make a pull request, sorry.

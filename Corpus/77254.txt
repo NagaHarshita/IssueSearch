@@ -1,0 +1,1 @@
+ URL : "https://github.com/MacPython/scipy-wheels/issues/20" TITLE : move under scipy project BODY : it could perhaps be more natural to have this repository under the scipy project, since it hasn't to do only with osx, and the people who have business editing the configuration are already members of the scipy org.

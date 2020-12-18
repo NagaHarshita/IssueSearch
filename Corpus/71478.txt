@@ -1,0 +1,1 @@
+ URL : "https://github.com/dataversioncontrol/dvc/issues/323" TITLE : add merge strategy names BODY : it simply would be nicer to have some infrastructure in place for possible additional merge helpers in the future.

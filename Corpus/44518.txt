@@ -1,0 +1,1 @@
+ URL : "https://github.com/Kaniwani/kw-backend/issues/342" TITLE : extra settings fields BODY : use_alc_pro_link = bool kanji_svg_show_strokes = bool kanji_svg_show_grid = bool kanji_svg_step_speed = float

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Axelrod-Python/axelrod-dojo/issues/31" TITLE : fix the evolve lookerup BODY : this was broken already when we moved to action enums but i fixed all the other scripts. there was something still broken with lookerup. this can be related to 30

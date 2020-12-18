@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla/mozilla-django-oidc/issues/97" TITLE : add jinja2 examples BODY : a lot of mozilla sites are using jinja2 and django-jinja, so it's prudent to have jinja2 examples to make everyone's life easier.

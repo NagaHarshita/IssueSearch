@@ -1,0 +1,1 @@
+ URL : "https://github.com/databricks/sbt-spark-package/issues/39" TITLE : timeout while publishing BODY : i was receiving timeouts while executing the sppublish, because of this i needed to change the readtimeoutms values in sparkpackagehttp. it would be nice to have a sbt setting for this parameter. would you like me to push a pr?

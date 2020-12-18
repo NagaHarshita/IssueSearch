@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpenNebula/one/issues/1542" TITLE : vcenter hot disk resize BODY : enhancement request description vcenter allows for hot disk resize, opennebula should as well use case want to grow my disk while vm is running probably makes sense for non os disks interface changes options in sunstone and cli

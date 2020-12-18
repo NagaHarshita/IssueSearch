@@ -1,0 +1,1 @@
+ URL : "https://github.com/appirio-tech/topcoder-app/issues/972" TITLE : lists in challenge specs BODY : a big complaint has been that unordered and ordered lists do not display correctly on the challenge details pages. to reproduce, create or edit a challenge in direct. add a list to the details. view the challenge on the community site.

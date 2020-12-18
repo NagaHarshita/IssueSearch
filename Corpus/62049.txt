@@ -1,0 +1,1 @@
+ URL : "https://github.com/helpyio/helpy/issues/563" TITLE : can't put sub url path. BODY : my customer want to use helpy in their web application. '/' has already used by the application. so the instance of helpy must be located /support/ or somewhere. but the master branch of helpy doesn't care about this case. i have a half-baked patch and i can send it as the pull request.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jameswilddev/SprigganTS/issues/91" TITLE : remove property mangling BODY : i am finding it quite difficult to write code without encountering bugs caused only in production builds by property mangling. it should be removed, and existing properties reviewed to see what can be shortened.

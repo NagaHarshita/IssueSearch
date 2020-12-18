@@ -1,0 +1,1 @@
+ URL : "https://github.com/wb2osz/direwolf/issues/115" TITLE : per channel igating BODY : i have a setup where i'd like to use a different id and potentially a different server when igating packets from a different channel. i haven't been able to find a way to accomplish this in the users guide as it stands. is this a possibility?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/americast/MXReader.jl/issues/1" TITLE : get rid of mxnet.jl BODY : since the auto installation of dependencies c++ shared library was failing, mxnet.jl has been added to require as it is capable of auto installing the dependencies. development of the auto installation has been switched to a separate branch nomxnet .

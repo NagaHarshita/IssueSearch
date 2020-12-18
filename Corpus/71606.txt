@@ -1,0 +1,1 @@
+ URL : "https://github.com/thulab/tsfile/issues/18" TITLE : add simplified write api BODY : provide a new write api write deviceid, time, value , which means this device has only one default sensor. so that users do not need to construct two layer schema device+sensor

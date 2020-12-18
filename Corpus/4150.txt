@@ -1,0 +1,1 @@
+ URL : "https://github.com/RonMelkhior/Coinpayments-IPN/issues/2" TITLE : add unit tests BODY : after the recent fail 7d0bfc1 , i forgot i didn't add unit tests.

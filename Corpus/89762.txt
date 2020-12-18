@@ -1,0 +1,1 @@
+ URL : "https://github.com/dominikschreiber/express-rest-orm/issues/1" TITLE : relational query and post BODY : hello, can this library get & post in belongsto and hasmany relation data?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/o2r-project/o2r-platform/issues/49" TITLE : inspect erc: homeview BODY : if you enter a not existing id in the field inspect erc you will be forwarded to a crashing ercview. there should be some logic to prevent this behaviour. if an erc is not found, we should redirect to the main page, maybe.

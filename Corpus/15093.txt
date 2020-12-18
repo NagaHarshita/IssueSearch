@@ -1,0 +1,5 @@
+ URL : "https://github.com/BhavyaLight/information-retrival-search-engine/issues/3" TITLE : crawling the data BODY : question 1: explain and provide the following:
+1. how you crawled the corpus e.g., source, keywords, api, library and stored them e.g., whether a record
+corresponds to a file or a line, meta information like publication date, author name, record id 2. what kind of information users might like to retrieve from your crawled corpus i.e., applications ,
+with example queries
+3. the numbers of records, words, and types i.e., unique words in the corpus

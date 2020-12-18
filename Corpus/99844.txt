@@ -1,0 +1,1 @@
+ URL : "https://github.com/jdbi/jdbi/issues/978" TITLE : no method bindjpa provided BODY : annotation @bindjpa is present in declarative api, and documentation says that not @bindbean but @bindjpa should be used. but in fluent api we have methods .bindbean ... , while methods like .bindjpa ... are absent.

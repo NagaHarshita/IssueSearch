@@ -1,0 +1,1 @@
+ URL : "https://github.com/rahultank1993/crud_in_codeigniter/issues/6" TITLE : create migraiton script BODY : - create migration script for users table which has following fields - id :- int primary key - name :- varchar 100 default null - birthdate :- date default null note: change required settings in migration config file

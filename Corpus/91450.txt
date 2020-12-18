@@ -1,0 +1,1 @@
+ URL : "https://github.com/KaneCohen/tokenfield/issues/25" TITLE : touch event issues on ios BODY : suggestions and token touch events don't seem to trigger on ios. removing the touchstart listener resolves it but i'm not sure of the implications that might have elsewhere. https://github.com/kanecohen/tokenfield/blob/master/lib/tokenfield.js l443

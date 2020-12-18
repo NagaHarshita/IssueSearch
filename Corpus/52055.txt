@@ -1,0 +1,1 @@
+ URL : "https://github.com/venits/react-native-map-clustering/issues/1" TITLE : can't handle thousands BODY : great job on this one i must say although i found that it couldn't handle >1000 markers without performance issues. is this an issue with react-native-maps in general or with your mods?

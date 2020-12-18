@@ -1,0 +1,3 @@
+ URL : "https://github.com/serban-petrescu/candidate-management/issues/40" TITLE : enable usage of flyway BODY : - investigate a little on flyway https://flywaydb.org .
+- read about spring-flyway integration https://docs.spring.io/spring-boot/docs/current/reference/html/howto-database-initialization.html howto-execute-flyway-database-migrations-on-startup - disable the hibernate auto ddl generation
+- move all table definitions inside a file v1 - see if we can easily move the csv loading. if not, make another mock data sql file with https://www.mockaroo.com/. this should run as a repeatable task r__ file prefix .

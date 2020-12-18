@@ -1,0 +1,1 @@
+ URL : "https://github.com/icbm-iupui/volumetric-tissue-exploration-analysis/issues/3" TITLE : trim sort violations BODY : explorer/ object find is doing stuff on the edt... this must be corrected. add console dump.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/torch/distro/issues/197" TITLE : torch on centos 6.8 BODY : i am getting the following on installation on 6.8, is there no way of installing on 6.8 ? only centos 7 is supported for now, aborting

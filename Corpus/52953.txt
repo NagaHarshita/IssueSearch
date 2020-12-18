@@ -1,0 +1,1 @@
+ URL : "https://github.com/LeaVerou/awesomplete/issues/17107" TITLE : css td scope conflicts BODY : awesomecomplete.css approx. line 110 td{ / note... this overrides others height: 100%; / } maybe change scoping with something like .awesomecomplete class? thanks!

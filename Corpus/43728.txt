@@ -1,0 +1,5 @@
+ URL : "https://github.com/NSI-IT/CLG-DLHPORTL/issues/166" TITLE : default request types BODY : as a licensor, i would like to manage the default request types so that i can manage them acceptance criteria verify that the default forms are available for the following types:
+> new label
+> new distribution channel
+> new product
+> new territory verify that licensor can edit the 4 default request types also verify that licensor can de-activate any of the 4 default request types as well

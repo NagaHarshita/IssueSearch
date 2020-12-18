@@ -1,0 +1,1 @@
+ URL : "https://github.com/grantjenks/python-diskcache/issues/60" TITLE : bump to v3? BODY : upcoming features: 1. issue 51 fixed 0. issue 52 add cull method 0. issue 54 need to optimize pickle 0. issue 58 need tests for dir-copy backup 0. issue 59 need support for new-style .format strings when culling 0. need to turn on auto-vacuum full pragma for culling to work properly

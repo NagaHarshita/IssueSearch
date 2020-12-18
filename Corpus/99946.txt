@@ -1,0 +1,1 @@
+ URL : "https://github.com/codemanki/cloudscraper/issues/45" TITLE : not following redirections BODY : hi everything is in the title i added : followallredirects: true to all your performrequest functions and everything is right : don t have time to fork / make pr now, sorry

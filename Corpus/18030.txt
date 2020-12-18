@@ -1,0 +1,1 @@
+ URL : "https://github.com/sunsheeppoplar/live-musically-rails/issues/2" TITLE : set up deployment BODY : this is where our code lives. of course, we'll mask it with a domain, but essentially the server that runs our code will be on heroku. check out their pricing here: https://www.heroku.com/pricing

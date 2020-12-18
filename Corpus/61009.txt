@@ -1,0 +1,1 @@
+ URL : "https://github.com/PowerShell/PowerShell/issues/3427" TITLE : add support for sles 12 BODY : please add support for sles 12, the microsoft friendly linux distribution. i have added a ticket with dotnet-cli https://github.com/dotnet/cli/issues/6152 to get support for sles 12, this ticket is for powershell once that is underway. /cc @travisez13

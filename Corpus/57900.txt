@@ -1,0 +1,1 @@
+ URL : "https://github.com/plasticanthony/coffee-dates/issues/10" TITLE : report gets sent twice BODY : i remember this bug from last year; on completing a coffee date, often the report and its related fields are created twice in parse. this is something to do with the update logic.

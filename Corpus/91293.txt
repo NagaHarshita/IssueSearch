@@ -1,0 +1,1 @@
+ URL : "https://github.com/PredixDev/predix-fast-token/issues/3" TITLE : tests fail on node v8.0.0 BODY : tests fail on node v8.0.0, the same passes on node versions up to and including v7.10.0 remoteverify tests fail: at https://github.com/predixdev/predix-fast-token/blob/master/test/token.spec.js l60 this.req.headers.authorization is always undefined

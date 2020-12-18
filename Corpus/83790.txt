@@ -1,0 +1,1 @@
+ URL : "https://github.com/bibledit/bibledit/issues/534" TITLE : cloud: focus login button BODY : when a user logs into the cloud regularly, and saves the credentials in the browser, the browser will enter the credentials for that user. it would be handy when the login button were focused already for the user. the user could then just press enter or space to login.

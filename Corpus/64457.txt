@@ -1,0 +1,1 @@
+ URL : "https://github.com/thoost/prj-rev-bwfs-dasmoto/issues/3" TITLE : get rid of unneeded css BODY : unless you intended this site to be covered by one giant red border. html { border: 5px solid red; }

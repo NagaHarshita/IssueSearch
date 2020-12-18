@@ -1,0 +1,1 @@
+ URL : "https://github.com/jupyter/notebook/issues/2776" TITLE : .md syntax highlight bug BODY : example import os some python code print 'hi' ! bug https://user-images.githubusercontent.com/1851290/29445317-0d5feb96-8421-11e7-8a94-f4a5f497d937.png any line starting with is highlighted as a title.

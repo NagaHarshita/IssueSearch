@@ -1,0 +1,1 @@
+ URL : "https://github.com/minio/minio-go/issues/684" TITLE : use upstream go-homedir BODY : it would help debian packaging of future versions of minio-go if it could use upstream https://github.com/mitchellh/go-homedir instead of https://github.com/minio-go/go-homedir dependency introduced in 5d7ee332f6

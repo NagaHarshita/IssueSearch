@@ -1,0 +1,1 @@
+ URL : "https://github.com/pmix/pmix/issues/522" TITLE : rpm fixes to v1.2 branch BODY : pr 511 and pr 515 fixes a couple rpm packaging issues. those need to get ported to the v1.2 branch.

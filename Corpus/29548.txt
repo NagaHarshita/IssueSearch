@@ -1,0 +1,1 @@
+ URL : "https://github.com/mbedded/MoodyMediaManager/issues/10" TITLE : make project stable BODY : different problems: - app veyor not running build failed - add missing tests - project is old. maybe plan a restructure of the project

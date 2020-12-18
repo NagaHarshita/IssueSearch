@@ -1,0 +1,1 @@
+ URL : "https://github.com/samyk/poisontap/issues/125" TITLE : serve more subtle page BODY : on win10 the poisontap page automatically loads. however it's blindingly obvious to the user once you walk away from the machine as the page is left open. is there a way to serve a page that if it does load looks innocent, maybe an 'error page'?

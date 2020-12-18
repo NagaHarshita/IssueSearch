@@ -1,0 +1,1 @@
+ URL : "https://github.com/puleos/object-hash/issues/51" TITLE : expose sorted object BODY : for auditing purposes, it would be helpful to have both the hash and the sorted object e.g. the objects that would be hashed with setting of {unorderedarrays: true, unorderedsets: true} . i would contribute this option myself, but i don't think i would get it right.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/hbz/lobid-resources/issues/400" TITLE : show complete ddc BODY : only the first class is shown but not the subclasses, see http://lobid.org/resources/ht019301219?format=json. the reason is a wrong regular expression. also dewey.info seems to be down. i only get an error 500 internal server error .

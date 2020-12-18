@@ -1,0 +1,1 @@
+ URL : "https://github.com/razorbacks/style/issues/14" TITLE : add global title suffix BODY : this should allow appending something like the site name onto the end of all titles. e.g. php $title = 'welcome'; renders as: html <title>welcome | my site name</title> this should be an opt-in new feature to preserve backwards compatibility.

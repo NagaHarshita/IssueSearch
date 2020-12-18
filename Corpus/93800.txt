@@ -1,0 +1,1 @@
+ URL : "https://github.com/qcha/drp/issues/12" TITLE : archive and compress types BODY : problem: data from these classes are copy-paste from compressorstreamfactory and archivestreamfactory . it's bad design - when the library apache.commons-compress changes, we will not get these changes and our library will not work correctly. need to think how we can fix it.

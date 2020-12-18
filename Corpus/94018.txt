@@ -1,0 +1,1 @@
+ URL : "https://github.com/2IMN00-16/Android/issues/2" TITLE : basic navigation is needed BODY : currently the app does contain a navigation drawer, but doesn't do anything with it. it should be possible to navigate to different fragments. furthermore, the use of the fab, the action bar title, etc should be simplified.

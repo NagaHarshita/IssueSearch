@@ -1,0 +1,1 @@
+ URL : "https://github.com/hobbyquaker/homekit2mqtt/issues/33" TITLE : outlet accessory error BODY : hello, i noticed that when i added an oulet accessory the terminal reported: error: cannot add a service with the same uuid '00000047-0000-1000-8000-0026bb765291' as another service in this accessory without also defining a unique 'subtype' property.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jesg/chrominator/issues/26" TITLE : add node setproperty BODY : the user should be able to set a property directly. this should allow us to do things like set the value property on the element which might be easier for some users who do not want to mimic user interaction.

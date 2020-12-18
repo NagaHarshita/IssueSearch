@@ -1,0 +1,1 @@
+ URL : "https://github.com/h4cc/phpqatools/issues/13" TITLE : phpunit seems outdated BODY : current phpunit stable is: v6.4 this package is requiring ~4.0|~5.0

@@ -1,0 +1,1 @@
+ URL : "https://github.com/superstrong/who-is-out/issues/2" TITLE : trigger groups separately BODY : make it possible for group to trigger the reminderdaily and notificationdaily functions on their own schedule. currently, a single trigger initiates it for all groups via the daily function .

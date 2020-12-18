@@ -1,0 +1,1 @@
+ URL : "https://github.com/unfoldingWord-dev/translationCore/issues/569" TITLE : remove sidebar component BODY : now that all functionalities have been moved to a centralized modal we can go ahead and remove the sidebar and its children components.

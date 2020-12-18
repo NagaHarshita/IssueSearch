@@ -1,0 +1,1 @@
+ URL : "https://github.com/Kademi/kademi-dev/issues/3793" TITLE : inverting rego page BODY : if you invert the container for the rego page, the modal popup text is white, so you cannot read it. ! image https://user-images.githubusercontent.com/2201340/29817423-4d76b402-8cfb-11e7-829d-1974cb0e3e03.png

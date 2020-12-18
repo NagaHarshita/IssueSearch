@@ -1,0 +1,1 @@
+ URL : "https://github.com/chaosmail/caffejs/issues/7" TITLE : update to typescript 2.5 BODY : currently the library uses an old typescript version. we should upgrade to ts 2.5 and upgrade typings to npm types.

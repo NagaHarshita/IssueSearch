@@ -1,0 +1,1 @@
+ URL : "https://github.com/i3/i3status/issues/248" TITLE : readme sloc discrepancy BODY : on the i3 website https://i3wm.org/i3status/ it says 'about 3000 sloc' and in the readme here https://github.com/i3/i3status/blob/master/readme.md it says 'about 1500 sloc'. which is correct?

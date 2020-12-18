@@ -1,0 +1,1 @@
+ URL : "https://github.com/alexte/whoisonline/issues/22" TITLE : imap auth module BODY : chatserver should be able to delegate authentication to an imap server

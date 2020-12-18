@@ -1,0 +1,1 @@
+ URL : "https://github.com/yifjiang/relative-depth-using-pytorch/issues/2" TITLE : error in running BODY : hello, it seems that the content of links have been changed. in models, there is no .pt files. there are only .t7 files. i cannot run the code! thanks

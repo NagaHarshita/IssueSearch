@@ -1,0 +1,1 @@
+ URL : "https://github.com/rafaelklaessen/keep-clone/issues/2" TITLE : add logs to .gitignore BODY : unless you have a specific reason, don't put logs or sensitive information in github

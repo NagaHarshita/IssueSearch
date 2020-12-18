@@ -1,0 +1,1 @@
+ URL : "https://github.com/sebastiendarocha/ansible-checker/issues/3" TITLE : submit to collectd BODY : add an interface or an entry point to be called by and submit result to collectd.

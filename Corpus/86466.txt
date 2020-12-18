@@ -1,0 +1,1 @@
+ URL : "https://github.com/Pluxbox/radiomanager-php-client/issues/2" TITLE : how to set order of items BODY : how can we set the order of the items? i don't see a column in https://github.com/pluxbox/radiomanager-php-client/blob/master/docs/model/item.md which can do this. how would you recommend we do this?

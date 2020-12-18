@@ -1,0 +1,1 @@
+ URL : "https://github.com/VJKookie/first-c-/issues/1" TITLE : c++ hello gdufs BODY : include<iostream> using namespace std; int main { cout<< hello gdufs! ; ;return 0; }

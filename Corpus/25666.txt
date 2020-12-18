@@ -1,0 +1,1 @@
+ URL : "https://github.com/ELENA-LANG/elena-lang/issues/291" TITLE : a b := c. ambiguity BODY : warn if for the expression a b := c. - a could be considered both as symbol variable,... and subject.

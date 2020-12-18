@@ -1,0 +1,1 @@
+ URL : "https://github.com/ninjunc/tea-cozy/issues/1" TITLE : error. not flexing BODY : https://github.com/ninjunc/tea-cozy/blob/master/resources/css/master.css l78 your set width is not allowing the flexbox to actually flex.

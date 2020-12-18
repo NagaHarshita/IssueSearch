@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/mobile-center-sdk-ios/issues/601" TITLE : manually check for updates BODY : i'd like to check for updates when my app returns to the foreground, not only when it is launched. how can i trigger a manual update check?

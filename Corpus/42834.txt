@@ -1,0 +1,1 @@
+ URL : "https://github.com/LibreVR/Revive/issues/872" TITLE : can't play echo arena BODY : i'm using an osvr hdk2 with nolo controllers it seems i need some kind of fake sensor option to play games that need sensors. not sure if this is already implemented or not, but i'm not having any luck. i was able to play when i was using riftcat probably because of the fake sensors option

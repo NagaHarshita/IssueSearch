@@ -1,0 +1,12 @@
+ URL : "https://github.com/andybotting/xbmc-addon-plus7/issues/1783" TITLE : end-user bug report BODY : automatic bug report from end-user. environment plugin name: plus7 plugin id: plugin.video.plus7 plugin version: 3.1.1 xbmc version: 17.0 git:a10c504 python version: 2.7.13 default, feb 8 2017, 18:22:08 gcc 6.2.0 operating system: linux2 linux thepi 4.9.8 1 smp thu feb 9 02:59:24 gmt 2017 armv7l ip address: 60.229.239.74 cpe-60-229-239-74.lns13.ken.bigpond.net.au isp : telstra internet python path: /storage/.kodi/addons/plugin.video.plus7
+/storage/.kodi/addons/script.module.simplejson/lib
+/usr/lib/python27.zip
+/usr/lib/python2.7
+/usr/lib/python2.7/plat-linux2
+/usr/lib/python2.7/lib-tk
+/usr/lib/python2.7/lib-old
+/usr/lib/python2.7/lib-dynload
+/usr/lib/python2.7/site-packages
+/usr/lib/python2.7/site-packages/gtk-2.0
+/storage/.kodi/addons/plugin.video.plus7/resources/lib traceback traceback most recent call last : file /storage/.kodi/addons/plugin.video.plus7/resources/lib/series.py , line 31, in make_series_list series_list = comm.get_index file /storage/.kodi/addons/plugin.video.plus7/resources/lib/comm.py , line 74, in get_index data = api_query select from plus7.showlist where device = 'ios' file /storage/.kodi/addons/plugin.video.plus7/resources/lib/comm.py , line 66, in api_query rs = urllib2.urlopen req.to_url file /usr/lib/python2.7/urllib2.py , line 154, in urlopen file /usr/lib/python2.7/urllib2.py , line 429, in open file /usr/lib/python2.7/urllib2.py , line 447, in _open file /usr/lib/python2.7/urllib2.py , line 407, in _call_chain file /usr/lib/python2.7/urllib2.py , line 1241, in https_open file /usr/lib/python2.7/urllib2.py , line 1198, in do_open
+urlerror: <urlopen error ssl: certificate_verify_failed certificate verify failed _ssl.c:661 >

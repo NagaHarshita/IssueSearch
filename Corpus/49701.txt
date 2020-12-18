@@ -1,0 +1,8 @@
+ URL : "https://github.com/tintou/project-manager/issues/1" TITLE : unsupported in apphub BODY : this is an automated message from apphub. we were unable to determine your
+project language and / or build system and therefor have halted all operations.
+please make sure you are using a supported language and build system to
+continue. currently apphub is able to process these types of projects
+- debian packages affects : 0.0.1 release https://github.com/tintou/project-manager/releases/tag/0.0.1 <!--
+pipe: build
+pipe time: thu jan 26 2017 22:19:56 gmt+0000 utc houston version: 0.3.0 f0e980ce33d2240cf5f72a539a4f008daa38db62 houston env: production
+-->

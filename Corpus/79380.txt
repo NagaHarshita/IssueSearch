@@ -1,0 +1,1 @@
+ URL : "https://github.com/amsul/pickadate.js/issues/1025" TITLE : set mintime > of maxtime BODY : trying to set: min: 18,30 , max: 8,30 , expecting an output like this: 18:30 19:00 19:30 20:00 .... 1:00 2:00 3:00 ... 8:30 something go wrong and nothing appear on click.

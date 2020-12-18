@@ -1,0 +1,1 @@
+ URL : "https://github.com/mblomdahl/mapbox-gl-circle/issues/36" TITLE : improve example usage docs BODY : add usage instructions when not relying on require ... standalone script load + test that it actually works as npm dependency for third-party libraries.

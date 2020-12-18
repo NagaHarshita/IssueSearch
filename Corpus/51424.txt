@@ -1,0 +1,1 @@
+ URL : "https://github.com/epeterson320/triangle-calculator/issues/21" TITLE : always show a triangle BODY : assume measurements when not enough are given, but: - don't make the triangle jump around when stuff is deleted or changed - don't show assumed measurements, only computed measurements

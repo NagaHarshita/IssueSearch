@@ -1,0 +1,1 @@
+ URL : "https://github.com/eastlin7/TreeVisualizer/issues/7" TITLE : node visualizer class BODY : this class handles the visualizing of each node from the tree starting at root. position size pseudocode: paint ball method paint ball method visualize node as a circle diameter = x diameter = position y if left or right exist { - do recursive call paint ball method left or right }

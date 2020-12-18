@@ -1,0 +1,1 @@
+ URL : "https://github.com/edoddridge/MIM/issues/76" TITLE : lunar and solar tides BODY : do the lunar and solar tides matter enough to model? how much implementation effort would it be to include them? what computational cost would they add?

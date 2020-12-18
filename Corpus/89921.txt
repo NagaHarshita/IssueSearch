@@ -1,0 +1,1 @@
+ URL : "https://github.com/MichelleEmbleton/appSecRadar/issues/9" TITLE : request - avoid inline js BODY : @michelleembleton can we move the js into a separate file that way we have separation between code js , the design css , and the content csv ?

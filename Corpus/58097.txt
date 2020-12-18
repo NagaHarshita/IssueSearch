@@ -1,0 +1,1 @@
+ URL : "https://github.com/2graphic/sinap-ide/issues/308" TITLE : run selection behavior BODY : clicking on nodes in grey'ed out previous runs should not select the node, but select the run

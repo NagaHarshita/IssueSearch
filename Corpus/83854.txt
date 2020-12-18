@@ -1,0 +1,1 @@
+ URL : "https://github.com/AlixSperoza/frash/issues/13" TITLE : commande de migration sql BODY : paramètres : - bundle_orig - table_orig - bundle_dest - table_dest affichage de paramètres de migration col : type_col_orig => type_col_dest, correct ?

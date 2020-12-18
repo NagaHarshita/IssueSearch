@@ -1,0 +1,1 @@
+ URL : "https://github.com/caseda/homey_zw-ccl/issues/1" TITLE : binary switch v2 mistake BODY : set parser uses target value duration as values now and 2 different default tekst values: factory default instantly and a default range: 1 second 0x01 to 127 seconds 0x7f in 1 second resolution. 1 minute 0x80 to 127 minutes 0xfe in 1 minute resolution

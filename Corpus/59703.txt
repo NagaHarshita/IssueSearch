@@ -1,0 +1,1 @@
+ URL : "https://github.com/eclipse/efxclipse-rt/issues/37" TITLE : upgrade to tycho 1.0.0 BODY : see build failures since last code changes because of jdt-compiler bugs

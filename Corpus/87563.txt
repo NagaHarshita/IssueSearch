@@ -1,0 +1,1 @@
+ URL : "https://github.com/kahmali/meteor-restivus/issues/286" TITLE : logger for every request? BODY : hi i was just wondering if there's a current solution for logging all http requests made to a restivus api? thanks!

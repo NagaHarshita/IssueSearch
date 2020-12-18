@@ -1,0 +1,12 @@
+ URL : "https://github.com/andybotting/xbmc-addon-abc-iview/issues/2895" TITLE : end-user bug report BODY : automatic bug report from end-user. environment plugin name: abc iview plugin id: plugin.video.abc_iview plugin version: 1.8.0 xbmc/kodi version: 16.1 git:2016-04-24-c327c53 python version: 2.6.5 r265:79063, apr 24 2016, 10:31:19 gcc 4.8 operating system: linux3 linux 3.14.29 aarch64 ip address: 124.188.136.27 cpe-124-188-136-27.eszk1.cht.bigpond.net.au isp : telstra internet python path: /storage/emulated/0/android/data/org.xbmc.kodi/files/.kodi/addons/plugin.video.abc_iview
+/storage/emulated/0/android/data/org.xbmc.kodi/files/.kodi/addons/script.common.plugin.cache/lib
+/storage/emulated/0/android/data/org.xbmc.kodi/files/.kodi/addons/script.module.beautifulsoup/lib
+/storage/emulated/0/android/data/org.xbmc.kodi/files/.kodi/addons/script.module.requests/lib
+/
+/data/app/org.xbmc.kodi-1/base.apk/assets/python2.6/lib/python26.zip
+/data/app/org.xbmc.kodi-1/base.apk/assets/python2.6/lib/python2.6
+/data/app/org.xbmc.kodi-1/base.apk/assets/python2.6/lib/python2.6/plat-linux3
+/data/app/org.xbmc.kodi-1/base.apk/assets/python2.6/lib/python2.6/lib-tk
+/data/app/org.xbmc.kodi-1/base.apk/assets/python2.6/lib/python2.6/lib-old
+/data/app/org.xbmc.kodi-1/base.apk/assets/python2.6/lib/python2.6/lib-dynload
+/storage/emulated/0/android/data/org.xbmc.kodi/files/.kodi/addons/plugin.video.abc_iview/resources/lib traceback traceback most recent call last : file /storage/emulated/0/android/data/org.xbmc.kodi/files/.kodi/addons/plugin.video.abc_iview/resources/lib/play.py , line 45, in play p.parse_xbmc_url url file /storage/emulated/0/android/data/org.xbmc.kodi/files/.kodi/addons/plugin.video.abc_iview/resources/lib/classes.py , line 358, in parse_xbmc_url timestamp = time.mktime time.strptime d 'date' , '%y-%m-%d %h:%m:%s' importerror: failed to import _strptime because the import lockis held by another thread. full xbmc.log https://gist.github.com/d8127276d6cb1decd8227744c2abb30d

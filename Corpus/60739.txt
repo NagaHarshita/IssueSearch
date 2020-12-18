@@ -1,0 +1,1 @@
+ URL : "https://github.com/eldis/scalajs-react/issues/12" TITLE : add different vdom attr BODY : 1. colspan 2. width 3. maxwidth 4. textalign 5. height 6. overflow

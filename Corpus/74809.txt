@@ -1,0 +1,1 @@
+ URL : "https://github.com/adelsondias/cluster-supervisor/issues/6" TITLE : finish getnodes function BODY : automatically creates a json file with all nodes name+state . fix problem with repeated nodes and integrate config management.

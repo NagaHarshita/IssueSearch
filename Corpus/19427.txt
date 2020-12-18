@@ -1,0 +1,1 @@
+ URL : "https://github.com/sam-cogan/arm-snippets-vscode/issues/1" TITLE : add azure category BODY : hi! there is a new azure category for vs code extensions now... you can add it to your package.json and once you republish your extension, it will show up in the right places! thanks, chris from the vs code team

@@ -1,0 +1,1 @@
+ URL : "https://github.com/parmentelat/rhubarbe/issues/2" TITLE : move to telnetlib3 1.0 BODY : current code works only with telnetlib3 version 0.5 see setup.py but it would be much better to movo to the latest revision 1.0 as of this writing, it's known to not work with that one

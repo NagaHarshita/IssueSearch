@@ -1,0 +1,1 @@
+ URL : "https://github.com/atyenoria/janus-webrtc-gateway-docker/issues/1" TITLE : unable to compile ffmpeg BODY : with a new build ffmpeg build fails: found no assembler minimum version is nasm-2.13 if you really want to compile without asm, configure with --disable-asm.

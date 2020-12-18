@@ -1,0 +1,1 @@
+ URL : "https://github.com/riotrah/DashBois/issues/2" TITLE : dodging doesn't work. BODY : logging indicates player.dodgetimer is working but there's no change in movement speed at all.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/okuoku/yunibase/issues/50" TITLE : larceny: download blocked BODY : https://github.com/larcenists/larceny/issues/741 as cmake uses curl to download archive, it seems we've been blocked for a while..

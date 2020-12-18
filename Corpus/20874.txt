@@ -1,0 +1,1 @@
+ URL : "https://github.com/claucookie/mini-equalizer-library-android/issues/8" TITLE : default bars state BODY : hi! can you make default bars state is stoped? because when refreshing adapter and equalizer.stopbars ; bars begin jumping i.e return to default states. thanks!

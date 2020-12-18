@@ -1,0 +1,1 @@
+ URL : "https://github.com/AnSyn/ansyn/issues/199" TITLE : active map actions BODY : each function that call communicator 'imagery1' by default, should change it to active_map_id .

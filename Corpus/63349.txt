@@ -1,0 +1,1 @@
+ URL : "https://github.com/jazzband/django-configurations/issues/173" TITLE : documentation for 62/51 BODY : following from https://github.com/django/asgi_redis/issues/52, i just added environ_name= redis_url and things worked. i saw that 62 was related or? did the documentation go missing for that then? i'm not even sure what environ_name=foo does/means?

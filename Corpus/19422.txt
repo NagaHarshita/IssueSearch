@@ -1,0 +1,1 @@
+ URL : "https://github.com/fmaussion/salem/issues/85" TITLE : add appveyor to ci BODY : experience with oggm shows that this helps to discover unclean file i/o in tests i.e. files not closed properly

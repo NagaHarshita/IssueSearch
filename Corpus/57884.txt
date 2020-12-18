@@ -1,0 +1,1 @@
+ URL : "https://github.com/eddyson-de/react-grid/issues/499" TITLE : replace hidetools prop BODY : the prop is awkwardly named, because it only hides the filter. also, i'm not sure whether it should remain a prop of the 'column component. it's similar to sortable , but we might also argue that it should be <column ...><filter hide /></column> .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jeffmon/PixelPainter/issues/1" TITLE : dry it up! BODY : could dry up some repeated functionality such as from these lines: https://github.com/jeffmon/pixelpainter/blob/master/js/pixelpainter.js l152-l155

@@ -1,0 +1,1 @@
+ URL : "https://github.com/rnabioco/valr/issues/226" TITLE : update to use tidyeval BODY : for next dplyr release. - remove se_ functions throughout, use unquoting - remove lazyeval import and move from lazy_dots rlang equiv?

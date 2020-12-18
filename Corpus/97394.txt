@@ -1,0 +1,1 @@
+ URL : "https://github.com/survivejs/webpack/issues/178" TITLE : glob pattern for purifycss BODY : in chapter 'eliminating unused css' https://github.com/survivejs/webpack/blob/dev/manuscript/handling_styles/03_eliminating_unused_css.md the glob pattern should be apppath/ / and not apppath/ . otherwise, nested folders will not be traversed.

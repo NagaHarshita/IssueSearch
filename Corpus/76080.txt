@@ -1,0 +1,1 @@
+ URL : "https://github.com/tu-darmstadt-ros-pkg/hector_quadrotor/issues/79" TITLE : incorrect number of axis BODY : i've plugged a wireless xbox 360 controller with a receiver and run the xbox launch file. it failed saying it misses a 5th axis. looking at the number of axis on jstest it gives just 4 axis. it there a change of a error on the parameters in the launch file?

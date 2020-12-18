@@ -1,0 +1,1 @@
+ URL : "https://github.com/TheOpenCloudEngine/polymer-java-mapping/issues/3" TITLE : module object-form BODY : auto generated form from metaworks3 annotated java object - usage: <object-form value={{user}} method-buttons></object-form> generates form elements automatically, will changes the 'user' object upward.

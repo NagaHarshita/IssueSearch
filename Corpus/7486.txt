@@ -1,0 +1,2 @@
+ URL : "https://github.com/HippieStation/HippieStation/issues/2211" TITLE : gang no callout BODY : in-game report from jambread:
+revision info: proc name: auto declare completion gang /datum/game_mode/proc/auto_declare_completion_gang src: gang war /datum/game_mode/gang call stack: gang war /datum/game_mode/gang : auto declare completion gang 1 ticker /datum/controller/subsystem/ticker : declare completion 1

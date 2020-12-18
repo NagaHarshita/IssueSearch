@@ -1,0 +1,1 @@
+ URL : "https://github.com/tokkonopapa/WordPress-IP-Geo-Block/issues/19" TITLE : bugs in v3.0.4 BODY : the latest version produces the following errors: warning: implode : invalid arguments passed in /plugins/ip-geo-block/admin/includes/tab-settings.php on line 295 and ip geo block: /plugins/ip-geo-block/classes/class-ip-geo-block-logs.php 685 unknown column 'asn' in 'field list'

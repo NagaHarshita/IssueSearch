@@ -1,0 +1,1 @@
+ URL : "https://github.com/NeuraLegion/shainet/issues/39" TITLE : nan in total error and mse BODY : while using cross-entropy in batch train, sometimes the errors become nan. this doesn't stop the network from training but does prevent from knowing how well the training go. possible problem is 0/0 division in the cross_entropy_cost_derivative function.

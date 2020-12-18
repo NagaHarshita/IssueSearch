@@ -1,0 +1,1 @@
+ URL : "https://github.com/solgenomics/sgn/issues/958" TITLE : trial upload error BODY : looks like the temporary directory where uploaded files are called from is not yet mounted. ! upload_error https://cloud.githubusercontent.com/assets/10618260/24955026/46aeec2c-1f71-11e7-96ff-bde90e7121da.png

@@ -1,0 +1,1 @@
+ URL : "https://github.com/bitrefill/airfill-widget/issues/7" TITLE : add deals to widget ui BODY : background the bitrefill/airfill api and bitrefill.com exposes deals time limited offers provided by operators which should be available through the widget as well. todo - design deal ui - implement deal ui - add option to disable deals if necessary

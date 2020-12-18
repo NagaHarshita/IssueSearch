@@ -1,0 +1,1 @@
+ URL : "https://github.com/rarcega/instagram-scraper/issues/140" TITLE : how does —latest work BODY : i’m downloading photos using the latest flag then rcloning them to cloud storage. however, it seems instagram scraper is using the files as a record and therefore redownloads everything again the next time i do a scrape. any workarounds for this?

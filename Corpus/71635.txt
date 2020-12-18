@@ -1,0 +1,1 @@
+ URL : "https://github.com/matwey/fips3/issues/42" TITLE : add support for 3d-data. BODY : third dimension could be interpreted either as time and then demonstrated as movie, or as spectral coordinate and then demonstrated with alternative colormap.

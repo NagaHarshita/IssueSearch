@@ -1,0 +1,1 @@
+ URL : "https://github.com/srawlins/gmp/issues/15" TITLE : 'ecm.h' file not found BODY : i'm osx 10.12.6, and have installed ecm by homebrew, the error log is: top/driver.c:42:11: fatal error: 'ecm.h' file not found include <ecm.h> ^ 1 error generated. make: top/driver.o error 1

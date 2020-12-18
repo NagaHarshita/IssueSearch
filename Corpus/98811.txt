@@ -1,0 +1,1 @@
+ URL : "https://github.com/z1haze/laravel-acl/issues/4" TITLE : levels & permissions issue BODY : why do permissions have multiple levels if it's tiered? for instance... why would permissions be assigned to both level 2 and level 4? if it was assigned level 4, then level 2 would automatically have access to it via the heirarchy?

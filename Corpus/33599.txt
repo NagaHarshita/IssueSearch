@@ -1,0 +1,1 @@
+ URL : "https://github.com/will/securekey/issues/3" TITLE : adding heroku add-on BODY : @will once i add the heroku add-on, will it automatically rotate rail's secret_key_base or how to i configure it to work with secret_key_base?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/dopefishh/m/issues/1" TITLE : add mp3 support BODY : add support for mp3 - find and add some id3 library - add tagger to file.c - add support for tag translation since id3 is lame

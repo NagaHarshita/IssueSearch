@@ -1,0 +1,1 @@
+ URL : "https://github.com/GeoNet/fits/issues/129" TITLE : add typeid cu-w BODY : add a typeid 'cu-w'. the methodid 'lab' will typically be used. typeid : cu-w , name : copper , unit : mg/l , description : cu concentration in a water sample

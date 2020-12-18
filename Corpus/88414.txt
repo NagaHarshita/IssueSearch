@@ -1,0 +1,1 @@
+ URL : "https://github.com/NicholasAzar/ng-selectize/issues/24" TITLE : ng-touched not triggered? BODY : hi! thanks for your work, i'm trying to use this amazing component, but i can't make ng-touched to trigger, even in the example page, i saw that. am i missing something?

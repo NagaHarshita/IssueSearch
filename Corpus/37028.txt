@@ -1,0 +1,1 @@
+ URL : "https://github.com/Moham3dRiahi/XAttacker/issues/4" TITLE : issue with parrot os BODY : after typing path of the site.txt file it will show following error in parrot os - can't open the list websites file at xattacker.pl line 122. - can't open the list websites file at xattacker.pl line 122, <stdin> line 2. it is running in kali perfectly.

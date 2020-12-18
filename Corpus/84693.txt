@@ -1,0 +1,1 @@
+ URL : "https://github.com/rbeezer/mathbook/issues/555" TITLE : disable mathjax scrolling BODY : the mathjax feature for scrolling to a hash should be disabled in the configuration, not in the mathbook.js javascript. df removed the explicit mathjax dependence from that script on 4/12/17. that long script maybe should be broken into separate pieces?

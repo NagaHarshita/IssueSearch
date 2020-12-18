@@ -1,0 +1,1 @@
+ URL : "https://github.com/rOpenHealth/openfda/issues/8" TITLE : just getting 100 records BODY : hi, library openfda get_data = fda_query /drug/event.json %>% fda_api_key qer7awq6datyi7y5hgl26tyee1f3yzmdhsgvslec %>% fda_count patient.patientweight %>% fda_exec i'm always getting a maximum of 100 lines in r?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/tbritoamorim/weather-app/issues/2" TITLE : don't commit api keys BODY : you've committed a file which includes your api key for open weather, don't do that, keep your secrets away from git using a .gitignore file.

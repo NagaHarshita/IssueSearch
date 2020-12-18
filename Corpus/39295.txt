@@ -1,0 +1,1 @@
+ URL : "https://github.com/nateplusplus/scorecard/issues/1" TITLE : saving score changes BODY : on score change: - send ajax post request to node server - post to: /update/:id/player/:player_id with body {score: int}

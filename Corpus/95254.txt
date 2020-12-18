@@ -1,0 +1,1 @@
+ URL : "https://github.com/controversies-of-science/react-worldviewer-app/issues/219" TITLE : create feed post annotator BODY : clicking icon near feed post image or at end of feed post text activates user comments beneath the image by shrinking the image into a single column width, and then placing the text beneath the image in a state where it is ready to be annotated by users.

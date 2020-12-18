@@ -1,0 +1,1 @@
+ URL : "https://github.com/ruby-analysis/delfos/issues/33" TITLE : test against neo4j 3.x BODY : may as well add some more ruby versions on ci at the same time

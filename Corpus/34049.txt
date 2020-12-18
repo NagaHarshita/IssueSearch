@@ -1,0 +1,1 @@
+ URL : "https://github.com/Yubico/yubioath-desktop/issues/157" TITLE : broken 4.1.0 release BODY : there is a massive quality downgrade in the latest release. the internal directory is named 'yubioath-desktop-yubioath-desktop-4.1.0' and there is no more standard setup.py file. please revert these back.

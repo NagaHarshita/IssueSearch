@@ -1,0 +1,1 @@
+ URL : "https://github.com/BonneCW/Gothic-Script-Analyzer/issues/7" TITLE : add ai_output module BODY : test should detect ai_output if written not like it must be and text is not empty

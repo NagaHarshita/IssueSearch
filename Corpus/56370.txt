@@ -1,0 +1,1 @@
+ URL : "https://github.com/go-playground/form/issues/23" TITLE : multipart form support BODY : client posted javascript formdata object, which will be put into https://golang.org/pkg/mime/multipart/ form which should properly converted to struct like? go type user struct { name string age uint8 avatar multipart.fileheader }

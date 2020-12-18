@@ -1,0 +1,1 @@
+ URL : "https://github.com/codemirror/google-modes/issues/78" TITLE : go bad indentation after } BODY : 1. open the demo index.html page, go section 2. place cursor on line 36 and press enter expected: cursor indented 2 columns actual: cursor indented 4 columns.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/SpenceKonde/ATTinyCore/issues/141" TITLE : bootloader support for x4 BODY : it would be helpful to have the bootloader also on the x4, it exist for the x41, so maybe it could be added without too much effort even if the x4 lacks of serial

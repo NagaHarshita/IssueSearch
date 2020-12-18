@@ -1,0 +1,1 @@
+ URL : "https://github.com/datatogether/warc/issues/2" TITLE : warc spec tests BODY : should write a set of failing unit tests that, when passing, indicate our belief in compliance with the warc 1.1 specification

@@ -1,0 +1,1 @@
+ URL : "https://github.com/AfterShip/aftership-sdk-nodejs/issues/22" TITLE : please update qs package BODY : prototype override protection bypass in package	version	sub package version	cwe	cvssv3 aftership	5.3.3	6.3.0	cwe-20	cvss:3.0/av:n/ac:h/pr:n/ui:n/s:u/c:h/i:h/a:n https://github.com/ljharb/qs/blob/master/changelog.md 640

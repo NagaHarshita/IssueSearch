@@ -1,0 +1,1 @@
+ URL : "https://github.com/aroberge/reeborg/issues/353" TITLE : show grid option BODY : have an option that enables drawing the basic grid on top of tiles, instead of below them. this would have to be done only on onload editor.

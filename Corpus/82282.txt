@@ -1,0 +1,1 @@
+ URL : "https://github.com/DigitalState/Admin/issues/36" TITLE : add releases to admin spa BODY : add releases to spa deployments. add a release number somewhere in the ui hidden such as the footer. should be something we can find to detail what version of the ui is currently being run. tbd

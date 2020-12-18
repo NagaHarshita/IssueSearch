@@ -1,0 +1,1 @@
+ URL : "https://github.com/ga-wdi-boston/game-project/issues/421" TITLE : not rendering scss file BODY : i committed my work in scss and html and a new content for config. js - the stuff rendered in the browser. then i created game.js and linked it properly and since then scss hasn't been rendering.

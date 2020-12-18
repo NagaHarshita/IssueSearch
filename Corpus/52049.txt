@@ -1,0 +1,1 @@
+ URL : "https://github.com/HeinrichReimer/material-intro/issues/177" TITLE : can't find the library BODY : hi, i was trying to use your library but after adding it in the gradle file, it gives me an error : failed to resolve : com.heinrichreimersoftware:material-intro:1.6

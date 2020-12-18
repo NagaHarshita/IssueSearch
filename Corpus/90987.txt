@@ -1,0 +1,1 @@
+ URL : "https://github.com/Azure/azure-data-lake-store-net/issues/4" TITLE : support for netcoreapp2.0 BODY : package 'microsoft.azure.datalake.store' is compatible with a subset of the specified frameworks in project

@@ -1,0 +1,1 @@
+ URL : "https://github.com/andrew--r/frontendbookshelf/issues/29" TITLE : migrate codebase to v2 BODY : tasks: - copy templates - rewrite styles to cssnext - copy scripts

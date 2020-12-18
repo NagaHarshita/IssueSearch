@@ -1,0 +1,1 @@
+ URL : "https://github.com/creafz/django-social-widgets/issues/9" TITLE : django 1.11.3 ? BODY : hi after upgrading to django 1.11.3 i get this error : exception value: context must be a dict rather than context. when using in my template : {% social_widget_render facebook/share_button.html href=meta.url %}

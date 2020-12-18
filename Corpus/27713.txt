@@ -1,0 +1,1 @@
+ URL : "https://github.com/frettingweasel/scene-is-believing/issues/5" TITLE : e: reshape function BODY : need to zoom out when the window is made smaller and zoom in when window is made bigger. if there is an object at the origin, it is kept in the window during resizes. this already works for vertical resizes. need to implement for horizontal resizes.

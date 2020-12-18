@@ -1,0 +1,1 @@
+ URL : "https://github.com/reactphp/http/issues/179" TITLE : http middlware support BODY : there is currently no standard of http middleware in php, but i consider to use similar approach as the proposed standard of php-fig https://github.com/php-fig/fig-standards/blob/master/proposed/http-middleware/middleware.md .

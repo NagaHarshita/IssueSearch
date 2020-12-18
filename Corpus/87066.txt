@@ -1,0 +1,1 @@
+ URL : "https://github.com/USEPA-OAQPS/emf/issues/23" TITLE : inventory filter tool tip BODY : the tool tip contains ann_emis which needs to be updated to use ann_value for the all-in-one package. see https://github.com/lizadams/emf/issues/25

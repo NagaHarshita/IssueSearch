@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpenSC/libp11/issues/192" TITLE : api for changing so pin BODY : pkcs11_change_pin is provided for changing user pins. but there is no api for changing so pin. is this intentionally not provided _readonly-login_ comment ? sorry for posting queries as issues. please point to the mailing list if that is appropriate. i am not able to find one.

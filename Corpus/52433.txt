@@ -1,0 +1,1 @@
+ URL : "https://github.com/NCBI-Hackathons/Scan2CNV/issues/35" TITLE : cnv caller: biomvrhsmm BODY : this package can work with both ngs and array data. it uses a semi-hmm to call cnvs. https://www.hindawi.com/journals/bmri/2014/910390/ http://bioconductor.org/packages/release/bioc/html/biomvrcns.html

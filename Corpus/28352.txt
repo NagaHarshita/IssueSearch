@@ -1,0 +1,1 @@
+ URL : "https://github.com/lazarus-pkgs/panini/issues/7" TITLE : four memory leaks ? BODY : url: https://sourceforge.net/p/pvqt/bugs/8 created: 2016-11-12 creator: dcb text: > src/pvqt_qtvr.cpp:813 : error memory leak: atom src/pvqt_qtvr.cpp:956 : error memory leak: atom src/pvqt_qtvr.cpp:1121 : error memory leak: atom src/pvqt_qtvr.cpp:1278 : error memory leak: atom

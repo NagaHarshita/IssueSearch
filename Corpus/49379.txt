@@ -1,0 +1,1 @@
+ URL : "https://github.com/trondhindenes/dotnetcore-parseexample/issues/1" TITLE : this is awesome...but BODY : i can't use newtonsoft json, i have to use the shit windows.data.json; namespace instead due to the target being a raspberry pi, any times on how i can deserialize in that using the jsonobject class?

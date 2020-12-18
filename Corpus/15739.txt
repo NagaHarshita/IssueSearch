@@ -1,0 +1,1 @@
+ URL : "https://github.com/ESGF/esgf-compute-wps/issues/22" TITLE : fix docker images BODY : todo - reduce docker image sizes - finalize docker-compose file - automate building and releasing new images.

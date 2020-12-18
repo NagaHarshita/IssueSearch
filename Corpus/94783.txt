@@ -1,0 +1,1 @@
+ URL : "https://github.com/yacosp/oe3/issues/30" TITLE : cleanup image display code BODY : xv? xview? imagemagick? pil is pillow uses xv but it's imagemagick!?

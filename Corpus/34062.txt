@@ -1,0 +1,1 @@
+ URL : "https://github.com/kiliankoe/dvbjs/issues/41" TITLE : bubble up api errors BODY : the webapi outputs errors on malformed requests. it would probably make sense to bubble these up as well so that a user of dvbjs doesn't just get an undefined to work with. somewhat related: 40

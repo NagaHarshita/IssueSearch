@@ -1,0 +1,1 @@
+ URL : "https://github.com/msuzio/registration-demo-simple/issues/3" TITLE : no default route is set. BODY : simple issue -- need to add one more catch-all route in express configuration. ! image https://user-images.githubusercontent.com/15912804/31734301-45f04dd2-b40c-11e7-98f9-fb418a3658ab.png

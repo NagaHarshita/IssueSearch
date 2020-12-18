@@ -1,0 +1,1 @@
+ URL : "https://github.com/lhkbob/eve-swagger-js/issues/70" TITLE : update esi spec to 0.5.5 BODY : as part of this, there are substantionally more authenticated corporation routes, so this may need to require a refactoring of the corporation interfaces into its own directory like character/.

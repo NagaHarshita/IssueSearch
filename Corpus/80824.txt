@@ -1,0 +1,1 @@
+ URL : "https://github.com/abhishek-kakkar/BeagleLogic/issues/26" TITLE : upgrading prebuilt image BODY : i've tried to update the git repo in the prebuilt image both with simply updating git and also running install.sh and it seems to break things badly. is this still expected to work?

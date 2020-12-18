@@ -1,0 +1,1 @@
+ URL : "https://github.com/tzachov/frontendext/issues/7" TITLE : feat: auto-generate barrel BODY : right-click a folder > create barrel should create index.ts files with all .ts files exclude .spec.ts . e.g: right-click on shared folder should find login component: shared/login/index.ts export from './login.component.ts'; shared/index.ts export from './login';

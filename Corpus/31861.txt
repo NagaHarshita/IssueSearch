@@ -1,0 +1,1 @@
+ URL : "https://github.com/draios/sysdig/issues/861" TITLE : sysdig -l assertion BODY : getting this error when running sysdig -l sysdig: /userspace/sysdig/fields_info.cpp:251: const char param_type_to_string ppm_param_type : assertion false' failed. will push pr to fix this

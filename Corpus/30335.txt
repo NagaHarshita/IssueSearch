@@ -1,0 +1,1 @@
+ URL : "https://github.com/nymann/Plebbit/issues/10" TITLE : page encoding utf-8 BODY : the page encoding should be set to utf-8, across all the systems including the mysql database. right now you can't type; æ, ø, å.

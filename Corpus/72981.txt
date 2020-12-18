@@ -1,0 +1,1 @@
+ URL : "https://github.com/trizen/youtube-viewer/issues/139" TITLE : cli history doesn't work BODY : console log: unknown method readhistory' in term::readline::perl at /usr/share/perl5/term/readline/perl.pm line 121.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/nids-io/ampt-monitor/issues/1" TITLE : add hmac auth support BODY : support authentication of requests from monitor to manager using hmac as implemented with the generator.

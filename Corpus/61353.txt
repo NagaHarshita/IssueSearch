@@ -1,0 +1,1 @@
+ URL : "https://github.com/fossasia/phimpme-android/issues/1403" TITLE : app crashes on rotation BODY : actual behaviour if the screen is rotated in the singlemedia activity the app crashes. expected behaviour app should not crash on rotation steps to reproduce it open the app. select any folder. click on any picture. rotate the screen would you like to work on the issue? yes

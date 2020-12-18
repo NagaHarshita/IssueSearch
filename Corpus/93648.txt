@@ -1,0 +1,1 @@
+ URL : "https://github.com/activelylazy/chrono-web/issues/6" TITLE : allow two selected drivers BODY : refactor selected driver reducer and associated reads to allow two drivers to be selected: a selected driver and a selected opponent

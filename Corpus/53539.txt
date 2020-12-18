@@ -1,0 +1,1 @@
+ URL : "https://github.com/EDDiscovery/EDDiscovery/issues/1321" TITLE : eddi and api interface BODY : hello, i have a message saying that eddi status: frontier api connection lost. i have stepped through trying to re-establish this using the verification code and each time it fails. this problem arose after installing 2.3.1. any help would be much appreciated. cmdr aldrin

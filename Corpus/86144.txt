@@ -1,0 +1,1 @@
+ URL : "https://github.com/logv/sybil/issues/26" TITLE : group by + count distinct BODY : make it possible to do queries like: select count distinct from ips group by country

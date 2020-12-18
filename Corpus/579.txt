@@ -1,0 +1,1 @@
+ URL : "https://github.com/necx-org/necx/issues/7" TITLE : set up ci BODY : - testing - metadata checker - dependency tree logic - splle c hkjser - pep8 checker - latex build checker - deployment - build jekyll website - build d3.js dependency graph

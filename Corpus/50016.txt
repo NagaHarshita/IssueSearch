@@ -1,0 +1,1 @@
+ URL : "https://github.com/wavebox/waveboxapp/issues/186" TITLE : using too much memory BODY : it's using so much memory to a small app like this. about 350mb is allocated. which version of wavebox are you using? e.g. 3.0.0 wavebox version 3.1.7 which operating system are you using? e.g. windows 10, mac osx 10, ubuntu 14.04 elementary os 4.4.0

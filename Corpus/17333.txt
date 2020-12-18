@@ -1,0 +1,1 @@
+ URL : "https://github.com/ZeroK-RTS/Zero-K/issues/2212" TITLE : orbit guard issue BODY : use orbit guard with 5 bandits and one roach. the units don't hold a circle correctly. possibly the issue is with setting wanted max speed.

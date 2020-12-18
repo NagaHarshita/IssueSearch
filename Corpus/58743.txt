@@ -1,0 +1,1 @@
+ URL : "https://github.com/mrdekk/DataKernel/issues/15" TITLE : storeref for appgroups BODY : sometimes we should keep coredata files in appgroup for widget for example , and we should have an option to declare storeref to appgroup

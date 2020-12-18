@@ -1,0 +1,1 @@
+ URL : "https://github.com/ichthyos/loopback-connector-gcloud/issues/1" TITLE : make note of index gotcha BODY : with the current implementation, properties must specify that they should be indexed in order to be queryable.

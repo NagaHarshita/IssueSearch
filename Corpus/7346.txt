@@ -1,0 +1,1 @@
+ URL : "https://github.com/rpp0/gr-lora/issues/23" TITLE : fix 'make test' BODY : the user should be able to run make test inside the build folder in order to run the unit tests, instead of executing the shell scripts in build/python .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jurmous/etcd4j/issues/141" TITLE : putdir raise exception BODY : @org.junit.test public void testdir { try { client.putdir /dir_1 .send .get ; } catch etcdexception e { if e.iserrorcode etcderrorcode.notfile == false { e.printstacktrace ; } } catch exception e { e.printstacktrace ; } }

@@ -1,0 +1,1 @@
+ URL : "https://github.com/i3/i3/issues/2890" TITLE : make i3 gaps official BODY : please make i3 gaps official. unofficial version of i3 with gaps is not available for every distribution. moreover, compiling that from source is not a viable option for older hardware . it would be great if we get gaps functionality from official version.

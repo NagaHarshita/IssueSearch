@@ -1,0 +1,1 @@
+ URL : "https://github.com/WaveHack/PinkieBot-Perl/issues/33" TITLE : google module broken BODY : google.pm uses google::search which in turn uses the google web search api, which has been deprecated since 2010. module is broken right now.

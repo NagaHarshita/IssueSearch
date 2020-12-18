@@ -1,0 +1,1 @@
+ URL : "https://github.com/paintballrefjosh/MaNGOSWebV4/issues/28" TITLE : cant logout !!! BODY : if i clic logout button from the frontpage it doesnt close my current session. instead its redirects me to my account page, same behavior as if i clic profile button. currently using mist of pandaria v1.0 theme.

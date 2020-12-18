@@ -1,0 +1,1 @@
+ URL : "https://github.com/SonarSource/sonar-csharp/issues/809" TITLE : s4070 fp violations BODY : the current implementation of the rule raises violation of s4070 for the following code: flags public enum skypetokenscope { n1 = 1, n2 = 2, n3 = n1 | n2, n4 = 4, n5 = n4 | n1 } if you remove n5, the violation goes away.

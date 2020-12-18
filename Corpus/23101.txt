@@ -1,0 +1,1 @@
+ URL : "https://github.com/jagrosh/DiscordIPC/issues/7" TITLE : no support for osx BODY : discordipc doesn't work with osx, keep throwing nodiscordclientexception

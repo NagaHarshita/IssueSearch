@@ -1,0 +1,1 @@
+ URL : "https://github.com/UniSharp/laravel-filemanager/issues/359" TITLE : file not found issue BODY : the latest version of the file gives error as below. basically it is the issues with the file class in src/index.blade.php fatalerrorexception in 8044fcdde4c6efead703d3f0ac3004c12342d8a8.php line 20: class 'file' not found

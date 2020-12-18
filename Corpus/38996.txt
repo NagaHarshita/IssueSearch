@@ -1,0 +1,1 @@
+ URL : "https://github.com/locationtech-labs/geopyspark/issues/276" TITLE : remove pngrdd object BODY : we no longer need to rely on this class to display a tms endpoint

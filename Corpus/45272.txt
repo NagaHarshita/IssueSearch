@@ -1,0 +1,1 @@
+ URL : "https://github.com/miloyip/rapidjson/issues/828" TITLE : how to build for ios? BODY : hi, i tried building with instructions given, but it tells me that the project was built for os x. how can i build for ios?

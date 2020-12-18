@@ -1,0 +1,1 @@
+ URL : "https://github.com/ethall/MusicBot/issues/1" TITLE : add connection timeout BODY : disconnect when nothing has been played for a certain period of time.

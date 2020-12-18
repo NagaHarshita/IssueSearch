@@ -1,0 +1,1 @@
+ URL : "https://github.com/geoffdavis92/react-floodgate/issues/8" TITLE : add ci to project BODY : add a continuous integration suite to the project to run e2e tests on commit or pr. checklist: - research ci providers - configure testing suite - hook up ci suite to repo

@@ -1,0 +1,1 @@
+ URL : "https://github.com/arei/npmbox/issues/97" TITLE : canot install npmbox BODY : npm install --global --cache .\.npmbox.cache --optional --cache-min 9999999 --shrinkwrap false npmbox there are three packages which klaw jsonfile graceful-fs in the directory of .npmbox.cache but npm request them from network. ~~~

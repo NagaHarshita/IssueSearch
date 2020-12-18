@@ -1,0 +1,1 @@
+ URL : "https://github.com/poalrom/ralt-cmf/issues/19" TITLE : improve status buttons BODY : create finite state machine for status buttons. may be use trait or something else for change status action

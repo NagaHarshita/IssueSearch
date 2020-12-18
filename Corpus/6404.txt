@@ -1,0 +1,1 @@
+ URL : "https://github.com/iansan5653/SOAR_NSL_Navigation/issues/2" TITLE : add gps support BODY : currently uses test points instead of the gps library itself. ensure that the servos don't interfere with gps.

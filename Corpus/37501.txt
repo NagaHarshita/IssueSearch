@@ -1,0 +1,1 @@
+ URL : "https://github.com/chartjs/Chart.js/issues/4137" TITLE : max-height text isue BODY : hello, i used bootstrap and if i used col-md-12 and like to use the registration history not higher than 450 px the letters are messed up, how can i fix this? ! image https://cloud.githubusercontent.com/assets/9058326/24890503/8e01ab70-1e70-11e7-8846-2b3b0be107fb.png greetings theo

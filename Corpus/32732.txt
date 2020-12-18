@@ -1,0 +1,1 @@
+ URL : "https://github.com/cobudget/cobudget.co/issues/3" TITLE : where is the source BODY : i see the output of the build is in the gh-pages branch, but where is the source that was built? wouldn't it make sense for it to be on master ? if it has its own repo, a note in the readme could prove helpful.

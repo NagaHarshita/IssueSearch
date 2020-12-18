@@ -1,0 +1,1 @@
+ URL : "https://github.com/mtennekes/tmap/issues/131" TITLE : tmap_icons and add_legend BODY : hi martijn! i failed to add a legend for a tm_markers layer manually using a symbol loaded by tmap_icons . as there is no type markers for tm_add_legend , i assume this is not implented yet. could i add a legend by a different method?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/yanzhenjie/NoHttp/issues/149" TITLE : out of memory BODY : 这个就是重复不停点击一个页面，然后就会报这个错误，查了下是new 的线程 太错了，超过极限了，但是我用的这个框架啊，这个不是队列吗？怎么还会报这个 libc: pthread_create failed: clone failed: out of memory throwing outofmemoryerror pthread_create 1040kb stack failed: out of memory

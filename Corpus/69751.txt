@@ -1,0 +1,1 @@
+ URL : "https://github.com/tersejs/terse/issues/59" TITLE : triple save to restart? BODY : i'm not sure what the culprit is perhaps shouldcomponentupdate prevents tracking multiple builds/saves while refreshing ? , but this has been someone unreliable, where i keep saving until it restarts.

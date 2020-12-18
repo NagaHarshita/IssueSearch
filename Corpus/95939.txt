@@ -1,0 +1,1 @@
+ URL : "https://github.com/boblauer/MockDate/issues/8" TITLE : doesn't work with mongoose BODY : it makes mongoose throw typeerror: undefined type mockdate at created , if it is loaded before schemas are created.

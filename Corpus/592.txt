@@ -1,0 +1,1 @@
+ URL : "https://github.com/facg3/To-do-App/issues/25" TITLE : use of == BODY : in almost all situations in javascript it is better to use === than == . == will coerce types and thus not give intended results sometimes. i would heavily recommend changing any time you use == or != to === or !== respectively. eg: js 1 == 1 // true 1 === 1 // false

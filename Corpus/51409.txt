@@ -1,0 +1,1 @@
+ URL : "https://github.com/NuGetPackageExplorer/NuGetPackageExplorer/issues/292" TITLE : allow signing packages BODY : continuation from 248, npe should support signing packages. need to think about: - how to choose key - always use chooser ui? - pfx files with password? - always prompt? way to save preferences per package?

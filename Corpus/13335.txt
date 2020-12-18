@@ -1,0 +1,1 @@
+ URL : "https://github.com/NYCPlanning/civic-data-loader/issues/2" TITLE : trouble with env BODY : i'm wondering if/how using a system env actually makes the process of loading data easier? i've been having issues with the scripts finding/recognizing my env. as a result, i've actually be using the old data-loading-scripts instead.

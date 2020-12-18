@@ -1,0 +1,1 @@
+ URL : "https://github.com/zalando-incubator/zally/issues/186" TITLE : fix server request in ui BODY : the web ui currently only sends the link from textbox. the api definition from the link should be fetched first and then send to the server.

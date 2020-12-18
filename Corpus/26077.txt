@@ -1,0 +1,1 @@
+ URL : "https://github.com/vforvad/InterviewManager/issues/10" TITLE : add roles mechanism BODY : implement ability of the company owner to set the roles for the company. should be create separated role model and manytomany relation through companyroles or something like that

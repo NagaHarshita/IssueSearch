@@ -1,0 +1,1 @@
+ URL : "https://github.com/privacyidea/privacyidea/issues/683" TITLE : usercache clean up BODY : add a script tools/privacyidea-usercache-cleanup , that deletes the expired entires in the user cache.

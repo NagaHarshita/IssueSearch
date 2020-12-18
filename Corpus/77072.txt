@@ -1,0 +1,1 @@
+ URL : "https://github.com/ousia/handlecsv/issues/1" TITLE : mistake in documentation BODY : i am not sure, but there seems to be a mistake in the documentation. in the minimal example, i get an compiling error with '\doloopall' with 'doloopforall' the minimal example is running. regards kurtow

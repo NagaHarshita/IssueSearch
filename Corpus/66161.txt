@@ -1,0 +1,1 @@
+ URL : "https://github.com/BookStackApp/BookStack/issues/348" TITLE : markdown table support? BODY : for feature requests bookstack can support table with '|--|--|' style? for bug reports bookstack version:0.15.2 php version:7.0.12 mysql version:5.6

@@ -1,0 +1,1 @@
+ URL : "https://github.com/sindresorhus/np/issues/205" TITLE : np otp always fail BODY : looks like the new release is broken, cannot publish anything, always 401. as for previous release, the cli can still ask for otp password and works fine. thanks

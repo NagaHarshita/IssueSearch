@@ -1,0 +1,1 @@
+ URL : "https://github.com/nfarina/homebridge/issues/1501" TITLE : not working with ios11 BODY : i just updated to ios 11 and homebridge stopped working. so i reinstalled with sudo npm install -g --unsafe-perm homebridge, still nothing, homebridge is starting but all items are not responding and showing with !

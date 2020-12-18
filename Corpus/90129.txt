@@ -1,0 +1,1 @@
+ URL : "https://github.com/BytesClub/Kill_The_Bug/issues/11" TITLE : run time error in count.c BODY : here i is initialise as i=0; and condition of while will fall if i==0; but here i will never become less than 0, as we are using i++; it will form an infinite loop. we can use i--;

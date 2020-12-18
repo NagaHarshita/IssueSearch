@@ -1,0 +1,1 @@
+ URL : "https://github.com/Paratii-Video/web-extension/issues/2" TITLE : load ipfs in background.js BODY : run a full ipfs instance in the background. requirements - communication between contentscript and background.js - port paratii-uploader to the extension.

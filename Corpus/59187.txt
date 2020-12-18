@@ -1,0 +1,1 @@
+ URL : "https://github.com/msracver/Deformable-ConvNets/issues/23" TITLE : the question of offset BODY : hi, in the deformable convolution, the offset is from the output data of the configured convolution layer. i am curious why you process it in that way rather than add some parameters likely adding weight parameter to deforableconv?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/start-react/native-starter-kit/issues/109" TITLE : update native starter kit BODY : - restore router flux to a branch - integrate react-navigation - upgrade to rn 45 and nb 2.1.5 - readme for master , router-flux - clean code

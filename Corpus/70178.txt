@@ -1,0 +1,1 @@
+ URL : "https://github.com/jasonpetsod/loony/issues/15" TITLE : use a proper money type BODY : representing money as floats is a terrible idea.

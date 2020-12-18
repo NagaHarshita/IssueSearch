@@ -1,0 +1,1 @@
+ URL : "https://github.com/winkjs/wink-regression-tree/issues/7" TITLE : add reset function BODY : it should reset the data used for learning & the corresponding tree, but retain the configuration.

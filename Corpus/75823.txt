@@ -1,0 +1,2 @@
+ URL : "https://github.com/cockpit-project/cockpit/issues/6664" TITLE : image refresh for rhel-7 BODY : image creation for rhel-7 in process on cockpit-tests-rtbr7.
+log: http://fedorapeople.org/groups/cockpit/logs/refresh-rhel-7-2017-05-22/

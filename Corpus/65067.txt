@@ -1,0 +1,1 @@
+ URL : "https://github.com/istio/mixer/issues/567" TITLE : implement a nil adapter BODY : we need to implement a do-nothing nil adapter that can be used as part of any aspect. this adapter will be used for perf testing.

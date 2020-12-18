@@ -1,0 +1,1 @@
+ URL : "https://github.com/1stdibs/gulp-sass-json/issues/9" TITLE : what is the license? BODY : i'm trying to figure out the licensing for this package, but i can't really find a conclusive reference. the package.json states '1stdibs', which to me is not a known license. neither is there a license file in the repository. what is the actual license?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/googlefonts/fontbakery-dashboard/issues/27" TITLE : integrate render lizard BODY : look at @mcdurdin 's mcdurdin/render-lizard seems nice, a possible candidate for integration with the regression testing thing.

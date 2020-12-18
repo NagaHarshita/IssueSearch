@@ -1,0 +1,1 @@
+ URL : "https://github.com/mbokinala/indecision/issues/1" TITLE : unexpected jsx token BODY : <img width= 1148 alt= screen shot 2017-11-11 at 4 43 33 pm src= https://user-images.githubusercontent.com/30819652/32694834-9e9ffa80-c6ff-11e7-94ab-080b005d83fb.png > the above error is being shown when running the babel command.

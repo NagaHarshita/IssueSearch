@@ -1,0 +1,1 @@
+ URL : "https://github.com/phcerdan/ITKIsotropicWavelets/issues/64" TITLE : support cmake 2.8.12. BODY : this issue is in regards to the following build on the nightly itk dashboard: https://open.cdash.org/buildsummary.php?buildid=5053294 is cmake 3.0+ really required? can support for older ~2.8.12 be added?

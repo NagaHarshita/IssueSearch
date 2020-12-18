@@ -1,0 +1,1 @@
+ URL : "https://github.com/obspy/obspy/issues/1794" TITLE : pathlib aware functions BODY : all of our i/o functions, mainly the various read_x variants should be made aware of pathlib objects as these are getting more and more common.

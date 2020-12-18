@@ -1,0 +1,1 @@
+ URL : "https://github.com/r-lib/pillar/issues/67" TITLE : fix formatting on windows BODY : especially r-devel. known output tests differ. ideally, we'd be able to recreate the same output on windows and linux with lc_ctype=c or lc_ctype=latin1 .

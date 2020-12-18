@@ -1,0 +1,1 @@
+ URL : "https://github.com/radiasoft/sirepo/issues/614" TITLE : imported json ? BODY : i'm not sure why we append imported json to simulations which are imported from json, but do nothing for imported python. if we are trying to disambiguate, we really should just do that.

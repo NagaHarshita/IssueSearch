@@ -1,0 +1,1 @@
+ URL : "https://github.com/datalad/datalad/issues/1731" TITLE : enhance repo.status BODY : ... and rf accordingly. see https://github.com/datalad/datalad/pull/1724 discussion_r133929993

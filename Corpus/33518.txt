@@ -1,0 +1,1 @@
+ URL : "https://github.com/Organic-Code/Breep/issues/5" TITLE : add stream watchers? BODY : it could be nice to be able to add a watcher so that you can know when you are receiving bytes, even if data are not completely received yet

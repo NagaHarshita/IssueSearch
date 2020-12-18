@@ -1,0 +1,1 @@
+ URL : "https://github.com/sstone93/comp3008p2/issues/4" TITLE : create database of words BODY : want a database of words of the same length. we're thinking length 6, but can be changed. want: 2^10 words == 1024 words possible places to look: - http://www.6letterwords.org/ - @sstone93 looks at text file she has

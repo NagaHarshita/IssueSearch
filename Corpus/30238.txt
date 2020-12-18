@@ -1,0 +1,1 @@
+ URL : "https://github.com/NCAR/VAPOR/issues/290" TITLE : open session: crash BODY : opening the attached session file will result in a vapor crash. issue290.vs3.txt https://github.com/ncar/vapor/files/1452869/issue290.vs3.txt

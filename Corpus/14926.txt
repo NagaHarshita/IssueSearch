@@ -1,0 +1,1 @@
+ URL : "https://github.com/robbiegreiner/brewery-tracker/issues/23" TITLE : city search error BODY : searching for a city that doesn't exist provides confusing alert for user. think about better options for providing a user with explicit information on what happened. avoid using alerts .

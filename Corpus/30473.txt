@@ -1,0 +1,1 @@
+ URL : "https://github.com/pwm-project/pwm/issues/166" TITLE : please tag releases BODY : i'm manage the arch linux packages for this project. it's very hard to maintain good distro packages without tagged release points. kindly please tag the git commits corresponding to released versions.

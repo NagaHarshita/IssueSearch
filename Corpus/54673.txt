@@ -1,0 +1,1 @@
+ URL : "https://github.com/kria/TfsNotificationRelay/issues/63" TITLE : handle reply & resolve BODY : this new feature 2017.2 where you can resolve comments, creates two 'commented on' notifications. could be handled better.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Leaflet/Leaflet.Editable/issues/148" TITLE : no events for markers BODY : hi, i'm trying to rise event for markers but its seems like it is only possible for vertices on polyline/polygon ! is it right ? thx

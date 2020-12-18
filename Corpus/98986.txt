@@ -1,0 +1,1 @@
+ URL : "https://github.com/zalando/superagent-oauth2-client/issues/3" TITLE : looking for new maintainer BODY : i'm stepping down as a maintainer for this project and would love to see someone taking over. however there's not much to do as the project is a superagent-wrapper for zalando/oauth2-client-js and as long as there are no updates there... however it's an easy job!

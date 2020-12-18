@@ -1,0 +1,1 @@
+ URL : "https://github.com/snarfed/wordpress-micropub/issues/62" TITLE : set post author BODY : ...i thought the plugin already did this, so maybe it's a bug that it doesn't? feature request from @anomalily at iws 2017 when she saw that ownyourswarm checkin posts don't have an author set.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/18F/openFEC-web-app/issues/1845" TITLE : data broken links BODY : after running a link crawler, there were many data broken links. we'll want to investigate whether these are programatic issues that can be solved. https://docs.google.com/spreadsheets/d/1vwzkbc1ptxfqmiochc_nge6wyu9n0d_zq5ajk1mabrw/edit gid=852590192

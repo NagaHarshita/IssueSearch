@@ -1,0 +1,1 @@
+ URL : "https://github.com/itsmeichigo/DateTimePicker/issues/38" TITLE : disable certain days/hours BODY : hello , i was wondering if there is a function in this library that allows us to disable certain days and hours? for example in the time picker 12:30 would be disabled but not hidden. or in a different colour?

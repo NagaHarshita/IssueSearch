@@ -1,0 +1,5 @@
+ URL : "https://github.com/rstats-db/RMariaDB/issues/23" TITLE : full interface compliance BODY : <a href= https://github.com/krlmlr ><img src= https://avatars3.githubusercontent.com/u/1741643?v=3 align= left width= 96 height= 96 hspace= 10 ></img></a> issue by krlmlr https://github.com/krlmlr _tuesday nov 10, 2015 at 21:29 gmt_
+_originally opened as https://github.com/rstats-db/rmysql/issues/112_ ---- 1. failure: dbitest: compliance ------------------------------------------------
+hasmethod dbgetinfo , mysqldriver , driver_package isn't true 2. failure: dbitest: compliance ------------------------------------------------
+hasmethod dblistresults , mysqlconnection , driver_package isn't true 3. failure: dbitest: compliance ------------------------------------------------
+hasmethod dblistfields , c mysqlconnection , character , driver_package isn't true dbitest: compliance .

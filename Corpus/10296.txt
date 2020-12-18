@@ -1,0 +1,1 @@
+ URL : "https://github.com/alunos-mestrado-emap/modelagem-assuntos-artigos/issues/1" TITLE : build lsi models BODY : write a script to build th lsi models, including an heuristic to select the optimal number of topics based on keeping a minimum distance between the topic vectors. or by finding the large number of topics with the minimum number of words shared with other topics.

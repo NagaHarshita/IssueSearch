@@ -1,0 +1,1 @@
+ URL : "https://github.com/GridTech123/Grid-Web-Browser/issues/1" TITLE : browser does not resize BODY : ! capture https://cloud.githubusercontent.com/assets/19719195/22866132/ed8c92e4-f13e-11e6-9f64-aafbf5ec5471.png you can fix this by changing the anchors of the buttons, browser, etc. in the visual basic files.

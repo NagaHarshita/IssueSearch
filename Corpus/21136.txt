@@ -1,0 +1,1 @@
+ URL : "https://github.com/akretion/odoo-mail/issues/7" TITLE : email with mailjet BODY : email - gérer le cas des mail auto - gérer le cas des mail manuel idea module : mail_external_templating mail_template - provider mailjet... - template_lang one2many {id / lang} - exporter_id mail_mail - data - external_template_id

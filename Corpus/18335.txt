@@ -1,0 +1,1 @@
+ URL : "https://github.com/fnando/coupons/issues/28" TITLE : support rails 5.1 BODY : hello, i was using that gem and just upgraded to rails 5.1 where it is not supported anymore. when i try to access to /coupons i have the following error 👍 undefined method empty?' for <encoding:utf-8> any idea how i could fix this ? thanks, gauthier

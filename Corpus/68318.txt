@@ -1,0 +1,1 @@
+ URL : "https://github.com/ComputationalRadiationPhysics/picongpu/issues/1968" TITLE : restructure source repo BODY : follow-up to 1926 restructure picongpu repo to mirror a possible install structure: - / - include/ - picongpu/ headers and source files - libpmacc/ headers and source files - ... - share/ - examples/ - submit/ from picongpu/submit/

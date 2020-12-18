@@ -1,0 +1,1 @@
+ URL : "https://github.com/loboris/MicroPython_ESP32_psRAM_LoBo/issues/21" TITLE : update has somebug. BODY : avi@winpc mingw32 /micropython_esp32_psram_lobo/micropython_build $ git pull already up-to-date. avi@winpc mingw32 /micropython_esp32_psram_lobo/micropython_build $ git submodule update --init --recursive ': not a valid identifierline 88: export: dashless

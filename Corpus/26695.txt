@@ -1,0 +1,1 @@
+ URL : "https://github.com/Shippable/support/issues/3637" TITLE : builds failing with BODY : description of your issue: all builds, including master which was passing when last pushed are now failing with segmentation fault core dumped sample build: https://app.shippable.com/bitbucket/everpath/course-platform/runs/3856/1/console

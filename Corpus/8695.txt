@@ -1,0 +1,1 @@
+ URL : "https://github.com/MWallin/Hydra-API/issues/12" TITLE : redo todo model BODY : probably best to do two models, list and task. or maybe just handle this on the client?

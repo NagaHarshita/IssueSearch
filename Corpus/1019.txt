@@ -1,0 +1,1 @@
+ URL : "https://github.com/Krystalz42/42sh/issues/25" TITLE : do not work BODY : while $index -lt 5 ; do say fuck you ; done

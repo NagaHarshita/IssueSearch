@@ -1,0 +1,1 @@
+ URL : "https://github.com/FredericHeem/starhackit/issues/314" TITLE : error installing postgres BODY : when running yarn run setup , i get digest: sha256:0adc410aa5e45b817bc8f29d5845c4941ad03b63e9584bc7f8654562e60424cf status: downloaded newer image for node:8 docker: error response from daemon: could not get container for bc_postgres_bkwrewrfz. see 'docker run --help'.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/lajmahal/dev-setup/issues/8" TITLE : add support for centos yum BODY : update the playbook to use yum instead of apt when running on centos.

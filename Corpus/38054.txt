@@ -1,0 +1,1 @@
+ URL : "https://github.com/pagemachine/cors/issues/15" TITLE : no php version check BODY : i was trying to install cors and got syntax errors in the ext_emconf.php and ext_localconf.php. after a short research, i found that my php version was too low. 5.3 you should add that to the requirements.

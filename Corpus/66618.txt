@@ -1,0 +1,1 @@
+ URL : "https://github.com/spatie/laravel-newsletter/issues/83" TITLE : need additional feature BODY : can i create object of api using custom apikey and list id instead of using default in config file. e.g. : newsletter::setconfig $apikey,$listid ;

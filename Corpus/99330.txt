@@ -1,0 +1,1 @@
+ URL : "https://github.com/rodneymo/rig-monitor/issues/44" TITLE : miner modules: w3m vs curl BODY : i've never gotten around to asking you this. why are we using w3m instead of curl just with claymore? looks like it has some extra format option you're using?

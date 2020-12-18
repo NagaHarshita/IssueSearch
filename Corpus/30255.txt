@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla-services/buildhub/issues/96" TITLE : optimize build size BODY : right now generated app build is 500k. with uglifyjs, we could strip than down to ~150k.

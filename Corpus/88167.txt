@@ -1,0 +1,1 @@
+ URL : "https://github.com/altert/OpenseadragonFabricjsOverlay/issues/26" TITLE : mouse:up event in safari? BODY : i'm seeing something odd. it looks like in safari, the mouse:up event for the fabric overlay doesn't get triggered. anyone else run into safari issues?

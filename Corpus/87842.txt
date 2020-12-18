@@ -1,0 +1,1 @@
+ URL : "https://github.com/cketti/ckChangeLog/issues/42" TITLE : mavencentral not required BODY : it should not be necessary anymore to add mavencentral to the repositories in the build scripts as indicated in the readme. androidstudio project by default include jcenter which replaces mavencentral .

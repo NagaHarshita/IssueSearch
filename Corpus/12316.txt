@@ -1,0 +1,1 @@
+ URL : "https://github.com/chalmers-revere/opendlv.os/issues/32" TITLE : ntp setup script BODY : some clients would perhaps want ntp instead of ptp. add a setup script for this.

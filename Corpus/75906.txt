@@ -1,0 +1,1 @@
+ URL : "https://github.com/androidthings/contrib-drivers/issues/41" TITLE : implement pulsein method BODY : suggestion to implement the function pulsein in gpio. reference: https://www.arduino.cc/en/reference/pulsein url thank you

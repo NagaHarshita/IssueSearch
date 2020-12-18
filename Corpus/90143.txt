@@ -1,0 +1,1 @@
+ URL : "https://github.com/rwth-i6/returnn/issues/6" TITLE : running tests with models BODY : how do you run tests with the models generated after training? i am using the iam demos by the way.

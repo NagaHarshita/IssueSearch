@@ -1,0 +1,1 @@
+ URL : "https://github.com/MisterX2000/floppymusic-web/issues/4" TITLE : db issue with ids over 9 BODY : sqlite3.programmingerror: incorrect number of bindings supplied. the current statement uses 1, and there are 2 supplied. change song_id to song_id,

@@ -1,0 +1,1 @@
+ URL : "https://github.com/artemishealth/odin/issues/1" TITLE : template build machine BODY : working with tanner and curtis - design what the build machine and build process should look like for both hermes and artemis-app pipelines - jenkins? - drone? - pull code, build docker images, run tests? - deploy containers to certain servers?

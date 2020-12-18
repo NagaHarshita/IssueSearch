@@ -1,0 +1,1 @@
+ URL : "https://github.com/smaspe/res_mgmt/issues/2" TITLE : refactor the capabilities BODY : it does not really make sense to define a bunch of functions for all capabilities if most capabilities will implement only one specific function. the capabilities should be pretty fixed

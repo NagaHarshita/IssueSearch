@@ -1,0 +1,1 @@
+ URL : "https://github.com/quicksilver/Quicksilver/issues/2386" TITLE : finder integration issue BODY : quicksilver 1.5.5 / macos 10.13.6 qs not responding to requests involving finder: get info reveal and so on. this is new after updating macos. any thoughts? thanks.

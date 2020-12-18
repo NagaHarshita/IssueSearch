@@ -1,0 +1,1 @@
+ URL : "https://github.com/madler/zlib/issues/308" TITLE : cmake: make tests optional BODY : enclose the example executables example/example64 with option zlib_enable_tests set to on to enable the zlib tests off if zlib_enable_tests ... add tests here ... endif otherwise those tests are included in projects that use zlib via submodule and cmake.

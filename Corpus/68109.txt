@@ -1,0 +1,1 @@
+ URL : "https://github.com/msanch/provospaceprogram/issues/8" TITLE : remove angular velocity BODY : out-6.ogv 1:36 - angular velocity commands robot to turn which causes it to hit the ball into the goal bug 6 out-5.ogv 4:04 - we're likely being commanded to spin in such a way that we catch on the other robot, even though there is a clear path to the ball would stop boxing out

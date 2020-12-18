@@ -1,0 +1,18 @@
+ URL : "https://github.com/Zimmi48/bugzilla-test/issues/994" TITLE : error rewrite tactic BODY : note: the issue was created automatically with bugzilla2github tool bugzilla bug id: 317
+date: 2003-08-04 14:55:51 +0200
+from: dimitri.hendriks@phil.uu.nl
+to: duplicates: 352
+last updated: 2008-04-17 15:13:01 +0200 bugzilla comment id: 209
+date: 2003-08-04 14:55:51 +0200
+from: dimitri.hendriks@phil.uu.nl full_name: dimitri hendriks
+version: 7.3-bugfix-cvs
+os: mac osx
+submission from: nc88.tf.phil.uu.nl 131.211.143.88 dear all, i get the following error message: error: tactic generated a subgoal identical to the original goal. for some line rewrite t. , where t inhabits an equality t1=t2 and where t1 occurs in the goal statement.
+it works if i do replace t1 with t2; 2: exact t. . this error can be reproduced by downloading <http://www.phil.uu.nl/~hendriks/coq/misc/test.tar.gz> and compiling make opt . the weird thing is that with file name.v.old for name.v , compilation raises no errrors,
+but with name.v.new for name.v it does.
+the difference between the files name.v.old and name.v.new is that where the former uses parameter and axiom , the latter uses definition s. best regards,
+dimitri hendriks bugzilla comment id: 210
+date: 2007-07-04 17:04:44 +0200
+from: dimitri.hendriks@phil.uu.nl redundant cf 352 bugzilla comment id: 2161
+date: 2008-04-17 15:13:01 +0200
+from: @_mattam82 duplicate bug this bug has been marked as a duplicate of bug 352

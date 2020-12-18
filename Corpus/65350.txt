@@ -1,0 +1,1 @@
+ URL : "https://github.com/ocontrerastx/bring/issues/7" TITLE : initial app scaffolding BODY : initial scaffolding should include........ - material design lite - es6/babel support - webpack dev server - documentation of readme.md on how to build, run, dev

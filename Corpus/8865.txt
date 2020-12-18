@@ -1,0 +1,1 @@
+ URL : "https://github.com/FraunhoferIOSB/SensorThingsServer/issues/32" TITLE : set id manually BODY : dear sensorthings team, is it possible to set the id of an object manually at it's creation? so for example, can i create a thing with @iot.id': some unique identifier ? best regards johannes riesterer

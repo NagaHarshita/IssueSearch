@@ -1,0 +1,1 @@
+ URL : "https://github.com/CodiTramuntana/ct_table_for/issues/5" TITLE : do not use for nil values BODY : the table renders ' ' when some value is nil. it is counter intuitive. the ' ' asterisk should be replaced by a '-' hyphen .

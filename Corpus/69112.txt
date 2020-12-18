@@ -1,0 +1,1 @@
+ URL : "https://github.com/timelesspromotions/website/issues/1" TITLE : strange load animations BODY : when the page loads, the page's elements jump all over the place and their opacities change. this bug only happens when the site is published. when the site is running locally it works as intended.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/CodeHubOrg/javascript101/issues/75" TITLE : styling the homepage BODY : create a more individual style my modifying some of the bootstrap styles things we've discussed: - custom fonts for the headers - button styling, move buttons apart where they are stuck together - spacing - possibly make logos a bit smaller - fix the footer

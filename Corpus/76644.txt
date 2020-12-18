@@ -1,0 +1,1 @@
+ URL : "https://github.com/WebDevStudios/CMB2/issues/882" TITLE : load through ajax a form BODY : hi. is it possible to load a cmb2 form with ajax? for example, throught the click of one button, i want to load a specifix cmb2 form using cmb2_metabox_form function.

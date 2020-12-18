@@ -1,0 +1,1 @@
+ URL : "https://github.com/ReactiveX/RxPHP/issues/179" TITLE : update phpunit to 5.7 BODY : update phpunit to 5.7 and extend \phpunit\framework\testcase in \rx\testcase , so the test suite can be used with phpunit 6.0

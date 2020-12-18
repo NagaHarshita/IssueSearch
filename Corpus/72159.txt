@@ -1,0 +1,1 @@
+ URL : "https://github.com/decred/dcrdocs/issues/405" TITLE : bank analogy in index.md BODY : i mean the one on public key/password. i believe it should be about the private key being your secret information/pin. i think it's a confusing analogy as is. https://github.com/decred/dcrdocs/blame/f04b531bddad8604a6a4cecab8eaa9062856b078/docs/index.md l16

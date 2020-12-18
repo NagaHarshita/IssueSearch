@@ -1,0 +1,1 @@
+ URL : "https://github.com/wistcc/git-easy/issues/16" TITLE : configure folder depth BODY : by default git-easy search only the first level, but what if i what to search to search folders inside folders?

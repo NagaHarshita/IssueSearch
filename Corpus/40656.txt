@@ -1,0 +1,1 @@
+ URL : "https://github.com/heartsucker/iron-csrf/issues/11" TITLE : upgrade to serde 1.0 BODY : travis build is broken, we don't want to nail this to chrono version = 0.3.0 .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/chadstolper/DGLOs/issues/25" TITLE : map of variables/attrs BODY : dglos.ts line 13 todo: map of variables/attrs: - fill - stroke - stroke-width - radius - opacity - width, height

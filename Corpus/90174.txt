@@ -1,0 +1,1 @@
+ URL : "https://github.com/wrengr/logfloat/issues/6" TITLE : save one case branch in + BODY : on 2016.04.20 henning thielemann reported that we may be able to perform + a little bit faster by saving one case branch. still needs benchmarking etc though.

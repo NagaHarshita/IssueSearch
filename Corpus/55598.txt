@@ -1,0 +1,1 @@
+ URL : "https://github.com/quartzjer/ecc-jsbn/issues/4" TITLE : jsbn dependency update BODY : the current version of jsbn is 1.1.0. the semver-major was bumped due to a breaking change, but ecc-jsbn is already compatible with the 1.x version.

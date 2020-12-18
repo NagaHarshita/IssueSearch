@@ -1,0 +1,1 @@
+ URL : "https://github.com/ThaisenPM/Cheat-Loader-CSGO/issues/12" TITLE : no user with the username BODY : so, i've set every up right but when i start the launcher and try to login the usercheck_get.php says no user with the username xy, so i guess i have to add the usernames and the hwid's somewhere in my database, but where and how? :p

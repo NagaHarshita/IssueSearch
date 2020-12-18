@@ -1,0 +1,1 @@
+ URL : "https://github.com/EXASOL/powerbi-exasol/issues/1" TITLE : custom connector location BODY : readme says: create a my documents \microsoft power bi desktop\custom connectors directory does not work in my documents . should be from program files / program files x86 .

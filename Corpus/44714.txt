@@ -1,0 +1,1 @@
+ URL : "https://github.com/JuliaLang/julia/issues/20397" TITLE : fix escaping of @eval BODY : from https://github.com/julialang/julia/pull/20376 discussion_r99021668 regarding the definition of @eval : > that :eval probably shouldn't be in esc . also true of the other macro it should probably instead splice in the value of current_module as the first argument to eval .

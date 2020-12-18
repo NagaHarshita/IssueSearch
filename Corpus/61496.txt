@@ -1,0 +1,1 @@
+ URL : "https://github.com/django/channels/issues/647" TITLE : autoreload in runworker BODY : this would allow use of advanced daphne options 646 while still maintaining the clean separation and implementation of runserver . we'd want to make sure it was opt-in, though, as such a feature would be detrimental in production.

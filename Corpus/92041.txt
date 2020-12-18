@@ -1,0 +1,1 @@
+ URL : "https://github.com/smartsdk/dataModels/issues/3" TITLE : user in openhealthcontext BODY : i tend to think that this data, that are partially sensible and beyond that quite static, should not be modelled in ngsi, but rather stored in the fiware idm, or in a specific data base of the application.

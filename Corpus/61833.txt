@@ -1,0 +1,1 @@
+ URL : "https://github.com/ltb-project/self-service-password/issues/98" TITLE : bug in resetbytoken.php BODY : hi, i think there is a bug in resetbytoken.php. the variable $source is not changed when page is called and the help message is not the good one when called by sendsms.php. so it talks about a mail but the media used is sms. regards

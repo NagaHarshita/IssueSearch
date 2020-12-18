@@ -1,0 +1,1 @@
+ URL : "https://github.com/SohanChy/Lipi/issues/4" TITLE : toml key case BODY : in order to load my config.toml, i had to change lipi code to convert toml keys to lowercase at least for title , baseurl ... what is the expected case for toml configuration? reading hugo documentation, it seems to expect lower case. is the toml case insensitive?

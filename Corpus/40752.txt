@@ -1,0 +1,1 @@
+ URL : "https://github.com/Keroberos/sam/issues/93" TITLE : user details changes BODY : preferences page - change user preferences to user details on sub panel - change mobile phone number from user preferences to user details section - update user entity to include mobile number. - update invoice creation to include user's mobile - add user mobile to user registration popup.

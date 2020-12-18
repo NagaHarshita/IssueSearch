@@ -1,0 +1,1 @@
+ URL : "https://github.com/parkerj/eduTrac-SIS/issues/37" TITLE : missing sttr records BODY : need to fix missing sttr records where cronjob before release 6.3.0 was not working properly.

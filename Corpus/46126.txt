@@ -1,0 +1,1 @@
+ URL : "https://github.com/Ultimaker/libSavitar/issues/6" TITLE : license of src/face.h BODY : src/face.h says this file is released under gpl-3+, while license and the rest of libsavitar says lgpl-3+. was this an oversight, or is this file really gpl-3+?

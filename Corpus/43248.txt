@@ -1,0 +1,1 @@
+ URL : "https://github.com/jefflunt/mini-pubsub/issues/73" TITLE : config format checker BODY : check the format of the config.yml file before loading it. halt the server if it doesn't pass.

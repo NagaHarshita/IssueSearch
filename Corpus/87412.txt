@@ -1,0 +1,1 @@
+ URL : "https://github.com/simakovEvgen/DD_CompetencyCenter-Simakov/issues/12" TITLE : lesson 30 homework task 1 BODY : для чего редирект по пути /public? app.get '/', req,res =>{ res.redirect '/public' ; }

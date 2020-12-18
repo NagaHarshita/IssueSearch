@@ -1,0 +1,1 @@
+ URL : "https://github.com/AlwynW/PHPDAOGenerator/issues/2" TITLE : cache dao calls BODY : daofactory should have a caching mechanism of mysql classes

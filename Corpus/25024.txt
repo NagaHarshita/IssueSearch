@@ -1,0 +1,1 @@
+ URL : "https://github.com/duffee/astro-ads/issues/9" TITLE : update version tag BODY : remember to update the git version tags from neilb's post http://blogs.perl.org/users/neilb/2014/08/put-your-cpan-distributions-on-github.html git tag v0.06 git push --tags -u origin master move this issue to the next milestone when fixed.

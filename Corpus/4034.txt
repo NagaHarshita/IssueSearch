@@ -1,0 +1,1 @@
+ URL : "https://github.com/Sometrik/framework/issues/358" TITLE : add debug view BODY : there should be some kind of button combination that starts a special native view, that show the following: - bytes loaded - thread tree with thread states - number of elements - total number of elements created

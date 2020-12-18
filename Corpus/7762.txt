@@ -1,0 +1,1 @@
+ URL : "https://github.com/apex/up/issues/37" TITLE : install via npm BODY : not a big deal since it'll be a single copy/paste command anyway, but the install script could be published to npm to make that a little smoother for node people. https://github.com/automattic/cloudup-cli is using the up package currently, but it's basically a dead project, cloudup itself is defunct.

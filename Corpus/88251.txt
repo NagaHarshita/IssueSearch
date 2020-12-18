@@ -1,0 +1,1 @@
+ URL : "https://github.com/cctb-it-wuerzburg/installation/issues/32" TITLE : munge installation broken BODY : due to an issue with the log folder group writeable munge refuses to start. starting with https://github.com/dun/munge/issues/31 issuecomment-127726497 should solve the issue.

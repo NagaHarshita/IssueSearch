@@ -1,0 +1,1 @@
+ URL : "https://github.com/upstreamplugin/UpStream/issues/43" TITLE : more flexible permissions BODY : can we allow administrators to customize the permissions? for example, one customer wants to allow users to create milestones via the front-end extension.

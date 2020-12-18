@@ -1,0 +1,1 @@
+ URL : "https://github.com/SoPR/horas/issues/104" TITLE : crate a authors.md BODY : create an authors.md file for listing all contributors for the project. we can use this as a guide https://github.com/kennethreitz/requests/blob/master/authors.rst

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Moverr/scholar-backoffice/issues/1" TITLE : general account creation BODY : - check if there is no general account with the specified email - create general account, user, and contact information email child to the general account

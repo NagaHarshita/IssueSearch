@@ -1,0 +1,1 @@
+ URL : "https://github.com/amshenoy/LUCID-Neural-Analysis/issues/1" TITLE : make more importable BODY : hi, looks great! do you think this could be made into more of a library so users can import the classifier like they do with lucid_utils , or should i use the code in 'tf_lucid_predict.py' as an example? thanks, will.

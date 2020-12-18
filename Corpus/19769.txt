@@ -1,0 +1,1 @@
+ URL : "https://github.com/bonusbits/cfn_converter/issues/1" TITLE : add version output BODY : request - x new feature - refactor - fix issue - other details add version output with -v or --version parameter

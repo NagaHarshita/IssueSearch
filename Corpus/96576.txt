@@ -1,0 +1,1 @@
+ URL : "https://github.com/itachi1706/CheesecakeUtilities/issues/95" TITLE : ezlink card reader utility BODY : utility to read cepas ezlink card as well as view transaction history note: some cepas cards may not be readable as well as some devices nfc reader may not be able to read certain cepas card. but oh well. that's a hardware fault.

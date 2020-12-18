@@ -1,0 +1,1 @@
+ URL : "https://github.com/BenKanouse/PostgreSQL-Notes/issues/10" TITLE : client_addr on stat table BODY : client_addr was not included on the table, this is because there were nested attributes in the json. it might be nice if we added some sort of pop-over that showed data like this.

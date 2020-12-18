@@ -1,0 +1,1 @@
+ URL : "https://github.com/waxe/waxe-image/issues/1" TITLE : folder config in db BODY : right now the config is set in the ini file, we should put it in the db and let the user create and edit it easily

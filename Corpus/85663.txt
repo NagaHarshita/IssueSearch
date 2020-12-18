@@ -1,0 +1,1 @@
+ URL : "https://github.com/toladata/TolaTables/issues/272" TITLE : fix commcare silo nameing BODY : when user imports from commcare, they are prompted to supply a silo name, but that name is never used.

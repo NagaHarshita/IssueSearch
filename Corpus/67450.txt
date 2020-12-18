@@ -1,0 +1,1 @@
+ URL : "https://github.com/aleho/gnome-shell-volume-mixer/issues/70" TITLE : popup-menu for profiles BODY : shortscuts might not work for everyone and especially in wayland they're strange , so a popup-menu below the outputs might be very nice to use.

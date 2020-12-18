@@ -1,0 +1,1 @@
+ URL : "https://github.com/rindeal/rindeal-ebuild-repo/issues/199" TITLE : new package: musikcube BODY : contains too many bundled dependencies, because of a support for platforms like ms windows. would require enormous patching to get going which is not viable.

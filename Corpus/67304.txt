@@ -1,0 +1,1 @@
+ URL : "https://github.com/dmjio/miso/issues/160" TITLE : phantomjs2 fails on osx BODY : possible solutions: - use chrome --headless instead if it builds on both darwin & linux - fix phantomjs2 derivation

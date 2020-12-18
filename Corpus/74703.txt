@@ -1,0 +1,1 @@
+ URL : "https://github.com/AbbyJanke/Backpack-Knowledgebase/issues/1" TITLE : feature revision history BODY : similar to how wikipedia and such sites do their revisions. when editing an article i want to display a new field for comments about the revision as well as store any changes similar to git's commits history.

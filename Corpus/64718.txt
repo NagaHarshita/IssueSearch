@@ -1,0 +1,1 @@
+ URL : "https://github.com/DZamataev/DZVideoPlayerViewController/issues/9" TITLE : hide playback controls. BODY : i want to play video with custom button so i want to hide player default playback controls. i tried this to hide but when i click on player view it show default playback controls. self.videoplayerviewcontroller hidecontrols ; how ca i hide them?

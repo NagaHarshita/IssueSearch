@@ -1,0 +1,1 @@
+ URL : "https://github.com/kenota/kommentator/issues/2" TITLE : support native https BODY : we should be able to support native https without reverse proxy, so kommentator should be truly standalone solution.

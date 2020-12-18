@@ -1,0 +1,1 @@
+ URL : "https://github.com/owncloud-docker/base/issues/2" TITLE : increase php timeouts BODY : according to https://doc.owncloud.org/server/10.0/admin_manual/configuration_files/big_file_upload_configuration.html we need huge max_input_time and max_execution_time timeouts to upload big files. currently these limits are not set thus big file uploads doesn't work.

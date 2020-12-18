@@ -1,0 +1,1 @@
+ URL : "https://github.com/yudai/gotty/issues/143" TITLE : fix terminal size BODY : is it possible to make all gotty connection use predefined terminal size?

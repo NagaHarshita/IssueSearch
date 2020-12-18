@@ -1,0 +1,2 @@
+ URL : "https://github.com/HippieStation/HippieStation/issues/5196" TITLE : mech drill not working BODY : in-game report from kiltinaction:
+server info: 24880 hippie station >general description of the issue aplu miner drill does not drill rock, it says 'starts to drill the rock, but never actually does it. >what you expected to happen rock to be drilled >what actually happened nothing, no porgress bar >steps to reproduce if possible get in miner mech, try to mine

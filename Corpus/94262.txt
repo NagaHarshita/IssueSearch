@@ -1,0 +1,1 @@
+ URL : "https://github.com/Sentenai/py-sentenai/issues/21" TITLE : build sphinx documentation BODY : i started this in 19, but rolled back the work because of some sphinx-autodoc trouble.

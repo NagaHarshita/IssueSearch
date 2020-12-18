@@ -1,0 +1,1 @@
+ URL : "https://github.com/Sheidbrink/broadcast-chat/issues/1" TITLE : client static buffers BODY : client buffers don't grow or check to see they aren't being overrun.

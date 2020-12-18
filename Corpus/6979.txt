@@ -1,0 +1,1 @@
+ URL : "https://github.com/madcore-ai/core/issues/125" TITLE : core update job BODY : - configure run additional job and push above 4 parameters to it - job itself should delete /opt/madcore /opt/plugins and reclone again - clone branch + hard reset to specified commit job should be run before selftests when --update flag is present in configure

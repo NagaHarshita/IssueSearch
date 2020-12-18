@@ -1,0 +1,1 @@
+ URL : "https://github.com/kaihendry/ltabus/issues/3" TITLE : update to v2 api BODY : been annoying how lta cut the early api { fault : { faultstring : raising fault. fault name : unknown-resource , detail : { errorcode : messaging.runtime.raisefault } } }

@@ -1,0 +1,1 @@
+ URL : "https://github.com/meisterplayer/js-dev/issues/1" TITLE : fix en document versioning BODY : seems the gulp bump-version --type=major is broken.. while you're at it; please document the possible arg's as well :

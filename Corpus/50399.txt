@@ -1,0 +1,1 @@
+ URL : "https://github.com/gothinkster/angular-realworld-example-app/issues/37" TITLE : your feed got nothing BODY : if nothing is shown when clicking your feed , try changing type = 'all'; to type: string = 'all'; in the file: article-list-config.model.ts.

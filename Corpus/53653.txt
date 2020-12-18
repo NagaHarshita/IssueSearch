@@ -1,0 +1,1 @@
+ URL : "https://github.com/cfpb/capital-framework/issues/492" TITLE : eof comment not needed BODY : https://github.com/cfpb/capital-framework/blob/canary/src/cf-core/src/cf-base.less l575 appears to be unneeded. the other files in core do not have this.

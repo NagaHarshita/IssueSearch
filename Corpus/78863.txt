@@ -1,0 +1,1 @@
+ URL : "https://github.com/cpe308-309/polypath/issues/136" TITLE : remove quarterview model BODY : we decided to not user view models. remove quarterview and just pass quarter object to the quarter component. in the init phase of the quarter component, make a call to flowchart service to get the list of entries to render via course components.

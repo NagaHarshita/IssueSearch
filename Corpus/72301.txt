@@ -1,0 +1,1 @@
+ URL : "https://github.com/catrenelle/CatBot/issues/2" TITLE : bot user timeout command BODY : there needs to be a timeout role set per-server, and when applied to a user, will remove all roles except timeout. this role should be setup in a way that users are downgraded to having access only to a single channel and then upgraded after staff lifts the timeout.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/LearnersGuild/echo/issues/957" TITLE : sanitize db copies BODY : from ch3776 https://app.clubhouse.io/learnersguild/story/3776 currently copies of production dbs and -- now that the idm and echo repos are public -- available to the world. sanitize any sensitive user data.

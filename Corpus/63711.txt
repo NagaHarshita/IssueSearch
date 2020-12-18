@@ -1,0 +1,1 @@
+ URL : "https://github.com/causefx/Organizr/issues/96" TITLE : error on update 0.99991 BODY : notice: undefined index: hovertext in /var/www/organizr/index.php on line 247 can you fix the above error, the tabs are now all misplaced thank you.

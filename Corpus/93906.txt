@@ -1,0 +1,1 @@
+ URL : "https://github.com/DataSplice/KoamTacScanner/issues/18" TITLE : auto-reconnect is annoying BODY : with the last changes, we set the autoreconnect flags on the devices. while it's good for keeping the device connected, it's super annoying when you don't want it connected anymore.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/slaclab/pydm/issues/37" TITLE : spin box widget BODY : make a pydm variant of the qspinbox widget, with alarm sensitive text and/or borders.

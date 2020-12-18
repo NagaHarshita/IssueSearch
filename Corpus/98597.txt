@@ -1,0 +1,1 @@
+ URL : "https://github.com/alumae/ruby-pocketsphinx-server/issues/13" TITLE : issues with the patch file BODY : the patch file at https://phon.ioc.ee/~tanela/ps_gst.patch contains two listings which are not there at all: 1. src/gst-plugin/gstvader.h 2. src/gst-plugin/gstvader.c i obtained the source code from the cmu sphinx git repository.

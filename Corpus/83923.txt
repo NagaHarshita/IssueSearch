@@ -1,0 +1,1 @@
+ URL : "https://github.com/composer/composer/issues/6616" TITLE : composer ext and lib list BODY : hello. where can i find full list of composer require ext- and lib- options? i don't quite understand how to detect if php extension is ext or lib.

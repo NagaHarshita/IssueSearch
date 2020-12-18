@@ -1,0 +1,1 @@
+ URL : "https://github.com/JuliaStats/TimeSeries.jl/issues/316" TITLE : should meta be a dict? BODY : the possibility of changing a meta value that i set by string concat makes recovering my information more involved -- and having meta be a dict allows all sorts of useful contextual information to be preserved data source, any series transform, app-specific categorization ... .

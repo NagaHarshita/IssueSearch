@@ -1,0 +1,1 @@
+ URL : "https://github.com/basmeesters/archlang/issues/23" TITLE : change enums to adts BODY : encapsulate behavior at the right location

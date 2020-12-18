@@ -1,0 +1,1 @@
+ URL : "https://github.com/strongloop/loopback-next/issues/755" TITLE : validation epic - mvp BODY : epic as a loopback4 user, i would like to have validation for my server requests and responses as defined in my spec.

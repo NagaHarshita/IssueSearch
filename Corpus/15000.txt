@@ -1,0 +1,1 @@
+ URL : "https://github.com/jgthms/bulma/issues/1088" TITLE : colums has no gap BODY : i am trying to create columns but everytime i create them they just doesn't have any gap. i never modified anything and i gave them a class with only added colors. also the column at the end always has width bigger than all of them. sorry for my english.

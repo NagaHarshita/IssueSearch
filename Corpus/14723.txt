@@ -1,0 +1,1 @@
+ URL : "https://github.com/nodejs/help/issues/1028" TITLE : burdening the cpu BODY : guys, node version: 8.7.x i'm testing the performance of the my applications, but it is burdening the cpu. help-me i want reduce much this %. ! image https://user-images.githubusercontent.com/8202898/34131988-0d633480-e435-11e7-9c93-584f287f015f.png

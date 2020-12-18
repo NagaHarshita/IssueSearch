@@ -1,0 +1,1 @@
+ URL : "https://github.com/openbmc/openbmc/issues/2654" TITLE : support for ast1250 BODY : hi , we would like to know if the ibm openbmc code support ast1250 ? in the directory https://github.com/openbmc/openbmc/tree/master/meta-openbmc-bsp/meta-aspeed , we found only ast2400 and ast2500. can ast1250 support also be included in the code ? thanks and regards, radhika

@@ -1,0 +1,1 @@
+ URL : "https://github.com/bvaughn/react-virtualized/issues/657" TITLE : animation of list BODY : hi, there should be some way how to animate list component using popular react-transition-group https://github.com/reactjs/react-transition-group . can you try to create example for that?

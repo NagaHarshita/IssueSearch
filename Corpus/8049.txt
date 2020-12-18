@@ -1,0 +1,1 @@
+ URL : "https://github.com/kbcedev/web2017/issues/7" TITLE : menu bug 수정 BODY : 1 항상 home 링크가 선택되어 있어서 눌러지지 않음. 2 상대경로로 지정되어서 페이지 이동 후 다시 이동할 때 잘못된 페이지로 이동함. ex /festival 안에서 다시 festival click하면 /festival/festival 로 이동함.

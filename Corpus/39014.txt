@@ -1,0 +1,1 @@
+ URL : "https://github.com/pupi1985/IPMonitor/issues/4" TITLE : remove time interval BODY : why is there a time interval for checking? is it possible to get rid of it? +does it send a new mail in every 10 minutes, regardless if the ip changed or not, or does it checks if the ip has changed and sends than

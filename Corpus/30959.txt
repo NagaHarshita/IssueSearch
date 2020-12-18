@@ -1,0 +1,1 @@
+ URL : "https://github.com/ChrisTalman/EnjinHelperRobot/issues/8" TITLE : removed enjin users BODY : disjin should poll enjin to detect when a user has been removed from an enjin site. it could then remove any corresponding association, and remove any associated roles in discord. this could occur when users remove themselves, or are removed by admins, such as when a ban occurs.

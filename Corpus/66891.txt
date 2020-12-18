@@ -1,0 +1,1 @@
+ URL : "https://github.com/petersn/six-char-max/issues/5" TITLE : not python 3 compatible BODY : exec changed from a statement to a function in python 3. unfortunately, the easy work around breaks the 6 char max.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/HelloZeroNet/ZeroNet/issues/1131" TITLE : error missing parentheses BODY : when i download and run zn using reamde instructions for debian, i get this error: $ python zeronet.py file zeronet.py , line 10 print starting zeronet , err ^ syntaxerror: missing parentheses in call to 'print'

@@ -1,0 +1,1 @@
+ URL : "https://github.com/XuezheMax/NeuroNLP2/issues/5" TITLE : wsj data problem BODY : hi, @xuezhemax thanks for sharing your code here. the pos tagger is trained by wsj data from ptb, but i have not found 23-24 in package/treebank_3/tagged/pos/wsj, but i found 0-24 in treebank_3/parsed/mrg/wsj ? do you use the parsed/mrg for pos tagger ? thanks

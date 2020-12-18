@@ -1,0 +1,1 @@
+ URL : "https://github.com/robotopia-x/todo/issues/42" TITLE : implement health component BODY : 2 story points - store health of entity: stores max health and current health - add action 'heal' cap health regeneration at max health - add action 'damage' trigger destroy entity if health <= 0

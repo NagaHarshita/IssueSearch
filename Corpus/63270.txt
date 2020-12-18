@@ -1,0 +1,1 @@
+ URL : "https://github.com/peterxie/Crank/issues/65" TITLE : display/rating avg test BODY : add display/rating avg test. insert records for pre-display and make sure average is updated appropriately.

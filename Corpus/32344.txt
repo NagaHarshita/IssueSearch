@@ -1,0 +1,1 @@
+ URL : "https://github.com/bluerobotics/companion/issues/8" TITLE : update setup script BODY : update setup.sh to be in line with recent webui restructure.

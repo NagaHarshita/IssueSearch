@@ -1,0 +1,1 @@
+ URL : "https://github.com/bsouthga/cap-childcare-deserts/issues/26" TITLE : mobile - button width BODY : on mobile: search bar on map should be shorter so it doesn't overflow mobile screen all/rural/suburban/urban toggle should be less than 320px wide it should fit within a vertical iphone 5 screen without wrapping . currently the buttons wrap onto two lines.

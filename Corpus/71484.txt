@@ -1,0 +1,1 @@
+ URL : "https://github.com/mrlesmithjr/ansible-logstash/issues/10" TITLE : add missing become: true BODY : the following task is missing become: true which is causing this task to fail. yaml - name: debian | assigning pin priority 1001 on apt preferences template: src: etc/apt/preferences.d/logstash.j2 dest: /etc/apt/preferences.d/logstash owner: root group: root mode: 0644

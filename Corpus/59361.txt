@@ -1,0 +1,1 @@
+ URL : "https://github.com/PodzielSieKrwia/server-side/issues/5" TITLE : trigger do notyfikacji BODY : opracowac algorytm wyliczania, kiedy ktos moze oddac kolejny typ płynu mvp - skupiamy sie tylko na krwii! kod triggera dodajacy wpis do nowej collection bazyjacy na wszystkich zmiennych m.in. płeć, data, potencjalnie typ płynu

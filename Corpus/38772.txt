@@ -1,0 +1,1 @@
+ URL : "https://github.com/jpetrie/quip/issues/60" TITLE : quip can't load lpeg BODY : lpeg.so isn't being packaged correctly any longer probably after the recent cmake reworks , so syntax highlighting is broken and spams console warnings.

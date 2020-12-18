@@ -1,0 +1,1 @@
+ URL : "https://github.com/rufusasterisk/2dobox-pivot/issues/1" TITLE : refactor to srp BODY : functions should have a single responsibility srp

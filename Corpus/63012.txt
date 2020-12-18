@@ -1,0 +1,1 @@
+ URL : "https://github.com/Internet2/comanage-registry-docker/issues/5" TITLE : database password issue BODY : the example s of database.php use password whilst the postgres-image uses tigger as password, this is confusing and i think an oversight ? :

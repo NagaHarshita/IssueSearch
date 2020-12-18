@@ -1,0 +1,1 @@
+ URL : "https://github.com/jsonkuan/chatApp/issues/44" TITLE : add channel improvements BODY : add functionality to remove users when creating a new channel. note: currently when users are selected, they cannot be removed without cancelling. improvement: user ids can be added multiple times to new channels.

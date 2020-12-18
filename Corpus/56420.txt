@@ -1,0 +1,1 @@
+ URL : "https://github.com/vue-play/vue-play/issues/52" TITLE : narrow rendering on ie BODY : on ie 10+ maybe others i've found that the spot doesn't render at full width. there's an easy fix though - just add width: 100%; to .play-ground .

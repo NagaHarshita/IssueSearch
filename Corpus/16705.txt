@@ -1,0 +1,1 @@
+ URL : "https://github.com/Bendr0id/xmrigCC/issues/14" TITLE : load default json BODY : allow to start daemon with only cc options like this: xmrigdaemon --cc-url=ip_of_cc_server:port --cc-access-token=secret_token_to_access_cc_server and then download the default_config.json

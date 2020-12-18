@@ -1,0 +1,1 @@
+ URL : "https://github.com/PHRproject/project/issues/16" TITLE : app + web-app login poc BODY : - user can login to web-app - user can logout to web-app - user can login to mobile - user can logout to mobile - user can login to tablet - user can logout to tablet

@@ -1,0 +1,1 @@
+ URL : "https://github.com/sidewinder2020/quantified-self-starter-kit/issues/24" TITLE : search for food by name BODY : when i type into the search by name box above the foods table, the table will only display foods that match the typed text, case insensitive. list of foods should update with each change to the search box.

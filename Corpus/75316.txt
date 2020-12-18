@@ -1,0 +1,1 @@
+ URL : "https://github.com/bloomberg/bqplot/issues/482" TITLE : gridheatmap is very slow BODY : in recent releases, gridheatmap is very slow compared to before. this needs to be investigated.

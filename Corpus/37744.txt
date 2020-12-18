@@ -1,0 +1,1 @@
+ URL : "https://github.com/VladimirBeauge/tcpdump-parser/issues/2" TITLE : modularize your code BODY : create many functions which only do one thing. not now since time etc

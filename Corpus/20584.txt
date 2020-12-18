@@ -1,0 +1,1 @@
+ URL : "https://github.com/Zankoku-Okuno/unicoder/issues/8" TITLE : config file linter BODY : characters don't appear twice in the lexer open and end are distinguishable macros are defined only using idchars macro lines are word-length 2 or 3

@@ -1,0 +1,1 @@
+ URL : "https://github.com/stellar/bridge-server/issues/58" TITLE : add uniqueid to /payment BODY : this will fix the case where they call /payment but never hear back. they don't know if they should re-post or if the tx was sent. uniqueid should just be an opaque string.

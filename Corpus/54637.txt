@@ -1,0 +1,1 @@
+ URL : "https://github.com/benbrehaut/vanlig/issues/46" TITLE : gulp file improvements BODY : - separate contents into its own files. - css source maps - add .twig files to browsersync - add babel compiling for javascript - look at critical css ref: https://nystudio107.com/blog/a-gulp-workflow-for-frontend-development-automation

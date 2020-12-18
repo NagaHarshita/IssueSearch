@@ -1,0 +1,1 @@
+ URL : "https://github.com/mitls/hacl-star/issues/20" TITLE : nss integration tasks BODY : general improvements required generate new snapshot with parenthesis to silence -werror additional algorithms and changes if possible curve25519 32bits sha2 incremental with standard interface

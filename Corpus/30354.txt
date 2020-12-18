@@ -1,0 +1,1 @@
+ URL : "https://github.com/Jericho/StrongGrid/issues/136" TITLE : parse webhook stats BODY : this seems to be a new resource recently added to sendgrid's api https://sendgrid.com/docs/api_reference/web_api_v3/stats/parse.html > gets statistics for parse webhook usage.

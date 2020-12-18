@@ -1,0 +1,1 @@
+ URL : "https://github.com/marty-suzuki/URLEmbeddedView/issues/24" TITLE : install pod file BODY : install pod file getting below error ! invalid podfile file: undefined local variable or method swift3_overrides' for <pod::podfile:0x007fe8020d55b0>.

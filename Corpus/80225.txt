@@ -1,0 +1,1 @@
+ URL : "https://github.com/pashamo/Multitenant_Migration/issues/4" TITLE : textarea data validation BODY : add a lower bound for textarea data. input data must have an even number of data elements in pairs

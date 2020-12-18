@@ -1,0 +1,1 @@
+ URL : "https://github.com/FineUploader/vue-fineuploader/issues/14" TITLE : implement <thumbnail /> BODY : port the \<thumbnail /\> https://github.com/fineuploader/react-fine-uploader/tree/master/src/components/thumbnail component from react to vue 2.

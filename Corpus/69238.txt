@@ -1,0 +1,1 @@
+ URL : "https://github.com/euvl/vue-js-grid/issues/4" TITLE : support extending array BODY : i know you are aware of this, but opening an issue to track the ability to extend the source data array without it causing the sorted array to become reset. i would love to use this in my production application but this is the only thing missing!

@@ -1,0 +1,1 @@
+ URL : "https://github.com/shinima/temme/issues/2" TITLE : enhance selector syntax. BODY : - change filter syntax from : to | - support for pseudo-class like :root , :first-child - support for filter arguments, e.x. $foo|split ',' |slice 0, 10

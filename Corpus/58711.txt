@@ -1,0 +1,1 @@
+ URL : "https://github.com/cloudfoundry-community/bosh2-errand-resource/issues/5" TITLE : stdout from the errand BODY : could you provide an option to capture in the task the errand stdout/stderr so that it can be seen in the pipeline logs ? --download-logs --logs-dir=dir

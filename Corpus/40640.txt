@@ -1,0 +1,1 @@
+ URL : "https://github.com/Frannsoft/FrannHammer/issues/243" TITLE : upgrade to .net 4.6+ BODY : now that the api v060+ is on azure the limitations of .net that can be used are lifted. i can proceed to update the .net version so i can update some nuget packages that require it.

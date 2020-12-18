@@ -1,0 +1,1 @@
+ URL : "https://github.com/eidottermihi/rpicheck/issues/143" TITLE : report rpi date/time BODY : have instances where fake-hwclock has saved a future time and unless i ssh directly will not be aware that the system clock is not being corrected via ntpdate correctly

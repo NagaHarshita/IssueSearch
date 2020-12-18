@@ -1,0 +1,1 @@
+ URL : "https://github.com/rjsvieira/floatingMenu/issues/8" TITLE : null pointer exception BODY : attempt to invoke virtual method 'rjsv.floatingmenu.floatingmenubutton.floatingmenubutton rjsv.floatingmenu.floatingmenubutton.floatingmenubutton.setstartangle int ' on a null object reference

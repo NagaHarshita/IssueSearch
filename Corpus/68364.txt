@@ -1,0 +1,2 @@
+ URL : "https://github.com/tkem/mbino/issues/12" TITLE : review inline functions BODY : everything that uses critical sections should be moved to implementation files, for example.
+destructors and trivial constructors otoh may benefit from inlining.

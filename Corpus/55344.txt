@@ -1,0 +1,1 @@
+ URL : "https://github.com/TIGRLab/admin/issues/1346" TITLE : install wmparc for amy BODY : amy needs this package installed: https://github.com/neuro/wmparc this will require installing and setting up rust and its package manager 'cargo' and may require installing an updated version of trackvis.

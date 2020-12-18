@@ -1,0 +1,1 @@
+ URL : "https://github.com/settintotrieste/Victoria-2-Cold-War-Enhancement-Mod-CWE/issues/300" TITLE : file not found? BODY : file exception: exception in: discfile.cpp, line 83. description: could not open file: map/../mod/cwe/map/definition.csv this is what i get while the game starts to load and then all the it justs say that out of no where.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/googlemaps/google-maps-ios-utils/issues/143" TITLE : heatmap not rendered BODY : after following the instructions in https://developers.google.com/maps/documentation/ios-sdk/utility/heatmap on adding heatmaps, the heatmap was not rendered on the map. there were no errors.

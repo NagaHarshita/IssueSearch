@@ -1,0 +1,1 @@
+ URL : "https://github.com/disaster37/activemq/issues/30" TITLE : the os is vastly outdated BODY : this image is based on an ubuntu 15.10 image. ubuntu 15.10 is out of support since july 2016 https://en.wikipedia.org/wiki/ubuntu_version_history . please use at least an lts version of ubuntu or maybe even switch to alpine.

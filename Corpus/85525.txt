@@ -1,0 +1,1 @@
+ URL : "https://github.com/developit/preact-cli/issues/289" TITLE : feature requests for cli? BODY : this is a list of features which we thought of having in cli . - custom templating - tests - complete ssr support - cors support feel free to add any more features which you want to see in preact-cli

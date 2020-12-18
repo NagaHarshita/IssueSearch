@@ -1,0 +1,1 @@
+ URL : "https://github.com/Azure/azure-blockchain-projects/issues/57" TITLE : rbac for contracts BODY : contract lifecycle - create, use, kill , publish, dispose, initial fulfillment, could be significantly simplified if the contract is associated with roles within consortium. in case, 55 contract repos the role could be associated with a particular repo instance.

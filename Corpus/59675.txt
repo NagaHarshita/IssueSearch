@@ -1,0 +1,1 @@
+ URL : "https://github.com/codeclimate/codeclimate-phpcodesniffer/issues/60" TITLE : updating of standards? BODY : currently it looks like the images is only rebuilt when committing new standards/fixes. at least the drupal standard gets running updates, which means that it'll quickly get outdated. how to handle this?

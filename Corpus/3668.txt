@@ -1,0 +1,1 @@
+ URL : "https://github.com/torrancew/puppet-cron/issues/52" TITLE : tag for 0.2.1 BODY : hi, it seems that you forgot to set a tag on your last release. currently the latest tag is version 0.2.0 and this version is not compatible with puppet 4x broken metadata.json . could you please set a tag for 0.2.1? thanks!

@@ -1,0 +1,1 @@
+ URL : "https://github.com/gustafl/youtube-blacklist-chrome-extension/issues/61" TITLE : change link to web store BODY : when the extension has got its final url, use that address in the popup link.

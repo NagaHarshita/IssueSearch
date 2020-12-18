@@ -1,0 +1,1 @@
+ URL : "https://github.com/ulrichji/WorldRegenPlugin/issues/4" TITLE : implement regen condition BODY : regeneration should be done with conditions. specify a condition language for which blocks to regenerate and which blocks to not regenerate. this should be implemented.

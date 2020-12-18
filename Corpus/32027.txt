@@ -1,0 +1,1 @@
+ URL : "https://github.com/EthereumCommonwealth/DexNS/issues/9" TITLE : throw is deprecated BODY : if name_assignation sha256 assignation _destination != 0x0 throw; throw is now deprecated in solidity in favour of revert , require and assert . so please replace if !condition {throw;} to require condition ; because require automatically throws if the condition is not met.

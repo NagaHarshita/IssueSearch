@@ -1,0 +1,1 @@
+ URL : "https://github.com/mcbittech/souliss-smart-thermostat-WiFi/issues/37" TITLE : customized ntp ips BODY : looking through the code and saw that the ntp server is hardcoded. a nice feature would be to allow for a custom host ip to be set.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/buttercutters/wheres-my-money-server/issues/68" TITLE : write an integration test BODY : use the mock banks that plaid provides and check their node_modules file for the example test they have for themselves

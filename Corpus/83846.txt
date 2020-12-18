@@ -1,0 +1,1 @@
+ URL : "https://github.com/lucatume/wp-browser/issues/91" TITLE : command init not defined. BODY : i followed the steps here http://codeception.com/for/wordpress , and when entering codecept init wpbrowser into the terminal, i get the error: command init not defined . how can i correct this?

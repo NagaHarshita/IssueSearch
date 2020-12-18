@@ -1,0 +1,1 @@
+ URL : "https://github.com/ambiata/icicle/issues/555" TITLE : sorting mutates in-place BODY : input dictionary: feature.newest expression = feature nested ~> newest value feature.sorted expression = feature nested ~> sort newest value input data: 3,1,2 output: newest: 1,2,3 sorted: 1,2,3 sorted is sorting the input array in-place

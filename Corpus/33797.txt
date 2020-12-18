@@ -1,0 +1,1 @@
+ URL : "https://github.com/slipcor/pvparena/issues/270" TITLE : arena playlist lobby BODY : a lobby that corresponds to a list of arenas. this would then open up options for how to select arenas in the playlist, for example: - limiting available arenas to those that match the number of players in the lobby with minimum and maximum players for the arena - random - via player votes

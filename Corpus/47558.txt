@@ -1,0 +1,1 @@
+ URL : "https://github.com/LazoCoder/Pokemon-Terminal/issues/17" TITLE : pokemon ? not working BODY : according to the docs, it should be displaying what pokemon is in the terminal. instead it changes it to moltres? and displays a menu.

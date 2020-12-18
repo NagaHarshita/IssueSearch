@@ -1,0 +1,1 @@
+ URL : "https://github.com/mgierw/auto-foe/issues/24" TITLE : bot wont start BODY : its returning the following error: log { error: hostname/ip doesn't match certificate's altnames: host: es.forgeofempires.comundefined. is not in the cert's altnames: } it was working two days ago

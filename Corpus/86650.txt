@@ -1,0 +1,1 @@
+ URL : "https://github.com/MikeSchr/f1-3-c2p1-colmar-academy/issues/5" TITLE : images in flex containers BODY : if you have an image that is a flex item, it will get distorted as you scale the image if you have also set a width for it. check your banner image for an example of that. the solution to this is to put the image inside another element a div usually to avoid distortion

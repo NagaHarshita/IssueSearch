@@ -1,0 +1,1 @@
+ URL : "https://github.com/auth0/wp-auth0/issues/280" TITLE : redirect callback errors BODY : when it fails ie the token verification it redirects to the home page with the same querystring making a new request for the code exchange and making it fail with a different error

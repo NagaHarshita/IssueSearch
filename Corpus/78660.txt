@@ -1,0 +1,1 @@
+ URL : "https://github.com/tc39/proposal-unified-class-features/issues/20" TITLE : re-add element finishers BODY : this proposal removes finishers from methods and fields. however, finishers may be useful there in order to add runtime metadata to methods and fields.

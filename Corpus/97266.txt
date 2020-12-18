@@ -1,0 +1,1 @@
+ URL : "https://github.com/LunarisDea/cs342_mysterytheater/issues/1" TITLE : game screen not actual bug BODY : found by : peter date found: 2/22/17, 9:50 pm build version: 0.0 description: the first feature i will make is the java code for the base game screen, which will refresh and include an imported temporary background and character image which moves to test refresh .

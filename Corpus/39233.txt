@@ -1,0 +1,1 @@
+ URL : "https://github.com/STRML/react-grid-layout/issues/453" TITLE : rtl language support BODY : - bug - x feature request - question hi, is there any plan to support right to left layouts? we need to have 0, 0 coordinate to be at top right corner when we apply dir= rtl for parent or body element. thanks

@@ -1,0 +1,1 @@
+ URL : "https://github.com/asdf-vm/asdf/issues/157" TITLE : please use shellcheck BODY : programming in shell can be difficult with all those things to think about. kind of similar to perl in this regard. anyway. please consider using shellcheck https://github.com/koalaman/shellcheck to catch possible issues before they become problems.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/rstudio/flexdashboard/issues/141" TITLE : download handler broken BODY : following the basic setup in this post: https://rviews.rstudio.com/2017/06/28/printing-from-flex-dashboard/ i have not had success in recreating this functionality for downloading a csv of a reactive output displayed on the tables in my flexdashboard.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/elementary/files/issues/263" TITLE : usb drive transfer issue BODY : data transfer from/to usb drives are initially very fast but in the end it becomes very slow and is in freeze mode for a long time even though it shows that data to be transferred is done in the progress bar

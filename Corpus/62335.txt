@@ -1,0 +1,1 @@
+ URL : "https://github.com/DeveloperLiberationFront/iTrustInterviews/issues/426" TITLE : clarify dao fix example BODY : r2: >on p11 ch. 3.5.2. you state that a sanity check within the daos would be an incorrect fix. is it incorrect or just a „dirty“ solution? would it be possible to fix the vulnerability by adding a sanity check in the dao?

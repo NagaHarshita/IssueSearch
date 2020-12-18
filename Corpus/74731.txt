@@ -1,0 +1,1 @@
+ URL : "https://github.com/SLC3/MARS/issues/222" TITLE : feed code font ambiguous BODY : i and 1 and o and 0 are ambiguous. change the feed code font to monospace : http://www.cssfontstack.com/monospace

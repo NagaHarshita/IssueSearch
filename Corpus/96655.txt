@@ -1,0 +1,1 @@
+ URL : "https://github.com/ElemeFE/element/issues/4116" TITLE : feature request add header BODY : note: i get a timeout on https://eleme-issue.surge.sh so can't use it. it would be nice to have a header component. the closest i can get right now is the top bar http://element.eleme.io/ /en-us/component/menu but a real header e.g. as on your docs would be nice.

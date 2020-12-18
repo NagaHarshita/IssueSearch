@@ -1,0 +1,1 @@
+ URL : "https://github.com/igvteam/igv.js/issues/423" TITLE : support dropbox urls BODY : support loading dropbox sharable links. e.g. { type: 'bam', url: 'https://www.dropbox.com/s/7k5oylv5of8w5f8/gstt1_sample.bam', indexurl: 'https://www.dropbox.com/s/ub1n3mvubz87wu9/gstt1_sample.bam.bai', label: 'dopbox bam' },

@@ -1,0 +1,1 @@
+ URL : "https://github.com/javierobledo/SyntacticSemanticEvolution/issues/6" TITLE : create the mysql tables BODY : description: if the database doesn't exist, create it and create the tables needed for store the ecco-tcp, using the model specified in 5.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/spraakbanken/swell-editor/issues/11" TITLE : label removed words BODY : this is currently not possible since there is no span to attach them to. hack a solution or change internal representation to use diffs immediately?

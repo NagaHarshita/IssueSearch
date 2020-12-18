@@ -1,0 +1,1 @@
+ URL : "https://github.com/TheJadeEmperor/CodeGeass.us/issues/11" TITLE : combin /img and /images BODY : search for all images used in img/ copy image to /images/ change the reference to new folder delete /img folder

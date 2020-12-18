@@ -1,0 +1,1 @@
+ URL : "https://github.com/diegohaz/arc/issues/313" TITLE : is full lodash required? BODY : in an effort to keep the production bundle small, would it be possible to only install the required lodash functions, rather than the entire package? in components would be import filter from 'lodash.filter'

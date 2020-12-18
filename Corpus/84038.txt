@@ -1,0 +1,1 @@
+ URL : "https://github.com/jsb9009/project_manager_spring/issues/7" TITLE : convention corrections v2 BODY : organize each entity related service methods under a single service class. eg: all employee related services under employeeservice class organize each entity's db operations under a single dao class. eg: all employee entity related dao operations in employeedao

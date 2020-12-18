@@ -1,0 +1,1 @@
+ URL : "https://github.com/lunchclass/bacardi/issues/125" TITLE : auto generate jstypetraits BODY : we need to generate core/js_type_traits.h automatically.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/seregayoga/mgcmt/issues/1" TITLE : panic on master branch BODY : properly handle a starting on the master branch. now it panics with: panic: runtime error: slice bounds out of range one way is to return non-zero error code and show readable error message like mgcmt doesn't work on the master branch

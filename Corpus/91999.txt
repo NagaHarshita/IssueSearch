@@ -1,0 +1,1 @@
+ URL : "https://github.com/adamhartford/SwiftR/issues/92" TITLE : use signalr -pre versions BODY : i have signalr running on a .net core server, which does only support the v2.2.0-pre version. is there some way to get swiftr working with -pre versions?

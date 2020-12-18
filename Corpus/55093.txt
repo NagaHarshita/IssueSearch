@@ -1,0 +1,1 @@
+ URL : "https://github.com/ios-ninja-team/StyleKit/issues/3" TITLE : implement input models BODY : topic add input models, which used like data for generation. description added models for fonts, colors and styleattributes look at 1. models realization 2. added swiftlint

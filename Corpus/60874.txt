@@ -1,0 +1,1 @@
+ URL : "https://github.com/stegano/es3ify/issues/1" TITLE : add null reserverd word BODY : transferred from: https://github.com/spicyj/es3ify/pull/14 var a = {null: 1} not work on ie6,7 so should quote property. thx :

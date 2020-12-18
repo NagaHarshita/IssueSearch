@@ -1,0 +1,1 @@
+ URL : "https://github.com/theoutlander/testerbot/issues/79" TITLE : test: dns resolution BODY : dns resolution: dns of third-party services that may be needed are resolved in advance during idle time using dns-prefetch. <link rel= dns-prefetch href= https://example.com > view rawindex.html hosted with ❤ by github requests

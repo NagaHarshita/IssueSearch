@@ -1,0 +1,1 @@
+ URL : "https://github.com/benjipott/video.js-chromecast/issues/25" TITLE : load video with javascript BODY : if i lead a video the videojs way with javascript. it won't work. we should disconnect from chromecast, load the video with javascript and restart chromecast.

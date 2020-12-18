@@ -1,0 +1,1 @@
+ URL : "https://github.com/frictionlessdata/datapackage-js/issues/86" TITLE : support csv dialects BODY : overview for now csv dialects from resource descriptor is ignored. it should be implemented on tableschema.table level first.

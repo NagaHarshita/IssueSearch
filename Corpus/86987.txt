@@ -1,0 +1,1 @@
+ URL : "https://github.com/ocaml/oasis2opam/issues/34" TITLE : install changes to docdir BODY : this is a note to check that _oasis_ installs changes to docdir https://github.com/ocaml/ocamlbuild/pull/202 . if not, oasis2opam could add the line iff a changes file exists.

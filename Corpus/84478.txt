@@ -1,0 +1,1 @@
+ URL : "https://github.com/opencpu/nabel/issues/2" TITLE : data server seems offline BODY : the app is currently broken because bafu.meteotest.ch is returning 404 errors. @thomaszumbrunn would you mind having a look?

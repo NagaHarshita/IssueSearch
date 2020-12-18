@@ -1,0 +1,1 @@
+ URL : "https://github.com/wp-graphql/wp-graphql/issues/220" TITLE : core wp options support BODY : we should support queries and mutations for wp core options site settings, etc

@@ -1,0 +1,1 @@
+ URL : "https://github.com/braune-digital/ckeditor-emojione/issues/5" TITLE : toolbar icon not shown BODY : made a bundle with ckeditor builder. toolbar icon not visible. button works, but no image displayed. screen: http://joxi.ru/p2717vgf0w3a6r?d=1 tried different themes with no success. no errors in chrome console. no 404 in network tab. css: http://joxi.ru/zan4vvqil6jr0m?d=1

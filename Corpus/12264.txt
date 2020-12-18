@@ -1,0 +1,1 @@
+ URL : "https://github.com/tomba/netserializer/issues/64" TITLE : no strong naming BODY : would it be possible to sign the assembly? this would allow it to be used in other signed assemblies. i can download source and do it, but wouldn't it make sense to release it on nuget like that? unless i'm completely missing the boat here ?!

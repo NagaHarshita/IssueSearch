@@ -1,0 +1,1 @@
+ URL : "https://github.com/rosflight/firmware/issues/236" TITLE : i2c sonar support BODY : we need to fix the driver to the i2c sonar

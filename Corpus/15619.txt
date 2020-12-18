@@ -1,0 +1,1 @@
+ URL : "https://github.com/DCSO/tie2misp/issues/20" TITLE : extend test suite BODY : it would be nice if there would be a comprehensive test suite, both for the tool itself and as unit tests for instance against mocked tie/misp endpoints .

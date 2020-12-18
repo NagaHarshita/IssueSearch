@@ -1,0 +1,1 @@
+ URL : "https://github.com/LorenzoBettini/attsw-exercise/issues/1" TITLE : switch to java 8 BODY : the generated project uses java 5. setup the pom to use java 8 and update the eclipse project accordingly

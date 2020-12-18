@@ -1,0 +1,1 @@
+ URL : "https://github.com/jboss-outreach/certifier/issues/37" TITLE : codacy grade upgradation BODY : currently, the codacy assessment gives this repository a c grade. change/updates to be applied proper indentation double quotes wherever possible variable names in camelcase proper order of method calls to be identified

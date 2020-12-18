@@ -1,0 +1,1 @@
+ URL : "https://github.com/catapult-project/catapult/issues/3599" TITLE : support patches in gerrit BODY : right now pinpoint supports only rietveld patches. we need to: 1. figure out how to format gerrit patch info for buildbucket in order to request builds. 2. create an abstraction for patch that works for both gerrit and rietveld.

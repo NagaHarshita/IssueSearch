@@ -1,0 +1,1 @@
+ URL : "https://github.com/ThePixelThrone/inkreatures/issues/26" TITLE : input mapping flexível BODY : a implementação atual não deixa jogarem 2 players usando teclado e joystick. porque o mapeamento é fixo: device0 e teclado -> player1 device1 -> player2 device2 -> player3 device3 -> player4

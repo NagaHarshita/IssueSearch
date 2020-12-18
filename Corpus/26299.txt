@@ -1,0 +1,1 @@
+ URL : "https://github.com/tpope/vim-fugitive/issues/924" TITLE : an ls-files command BODY : what about a command which invokes git ls-files , puts the output in a temporary file and opens a buffer where you can <cr> on a file to edit that file?

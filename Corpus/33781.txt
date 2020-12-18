@@ -1,0 +1,1 @@
+ URL : "https://github.com/agorapulse/grails-sentry/issues/35" TITLE : appenders don't work BODY : when an exception occurs, it prints: logback: no context given for grails.plugin.sentry.grailslogbacksentryappender null

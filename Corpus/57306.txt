@@ -1,0 +1,1 @@
+ URL : "https://github.com/ryandrewjohnson/angular-editme/issues/6" TITLE : problem when minifying BODY : there was a problem with minifying because the injected angular services were not annotated using ng-annotate. created a pull request 5 where i just inlined the services. any other solution would require changing the build process adding gulp or webpack .

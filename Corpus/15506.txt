@@ -1,0 +1,1 @@
+ URL : "https://github.com/zendesklabs/zignatures/issues/1" TITLE : encoding in links BODY : i want to use the variable {{ticket.id}} in a signature link. <a href= example.org/clickhere/?id={{ticket.id}} >klick here</a> unfortunately the url get's encoded first, so the variable is gone and couldn't be parsed by zendesk. any idea how to solve this problem?

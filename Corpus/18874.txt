@@ -1,0 +1,1 @@
+ URL : "https://github.com/aws/aws-sdk-java/issues/1336" TITLE : use of x-amz-id-2 BODY : why are there 2 different headers for a request id in the response headers ? why this could not be done in only 1 request id ? what exactly is x-amz-id-2 used for ?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/xibosignage/xibo/issues/1107" TITLE : docs: docker requirements BODY : add a note that docker for windows server 2016 is for windows containers and not suitable for running xibo.

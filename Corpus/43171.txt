@@ -1,0 +1,2 @@
+ URL : "https://github.com/mapzen/mobility-on-demand-sandbox-contributions/issues/25" TITLE : column mapping page 5 BODY : - query for oa schema response includes available properties, and for each property, available parsing functions - interface to associate user data column headings to oa schema column headings
+- send job update updated json including column mapping -

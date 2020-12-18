@@ -1,0 +1,1 @@
+ URL : "https://github.com/nglab/alexa-skill-national-grid/issues/28" TITLE : gas demand forecasting BODY : forecast d-1 = day ahead tomorrow d-2 = day after tomorrow ... d-5 actual use d+1 actual if requesting actual from last 6 days and the publishing time is after 2pm. otherwise, use d+6. api endpoints to follow.

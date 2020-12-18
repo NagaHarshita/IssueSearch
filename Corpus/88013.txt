@@ -1,0 +1,1 @@
+ URL : "https://github.com/schlatterbeck/snxvpn/issues/4" TITLE : missing .netrc, .snxvpnrc BODY : workaround: touch, or fill as in: cat << eof > ~/.snxvpnrc server snx.example.org username john.doe eof cat << eof > ~/ .netrc machine snx.example.org login john.doe password copy_this_password_do_never_change;-

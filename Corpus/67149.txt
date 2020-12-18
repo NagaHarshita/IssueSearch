@@ -1,0 +1,1 @@
+ URL : "https://github.com/ck2germany/800pics/issues/5" TITLE : pa review: profile page BODY : - backend: db, model, controller, views - redux loop: ajax, actions, reducer - presentational components - styling - smooth, bug-free navigation - adequate and appropriate seeds

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jantman/awslimitchecker/issues/313" TITLE : c5 instance type support BODY : yesterday aws announced https://aws.amazon.com/blogs/aws/now-available-compute-intensive-c5-instances-for-amazon-ec2/ the c5 instance class.

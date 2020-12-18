@@ -1,0 +1,1 @@
+ URL : "https://github.com/benediktschmitt/py-ts3/issues/40" TITLE : get client idle time BODY : i looked through the api documents and could not find a way to get client idle time. have i overlooked something or is there another way to achieve this?

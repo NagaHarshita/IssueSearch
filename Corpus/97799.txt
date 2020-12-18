@@ -1,0 +1,1 @@
+ URL : "https://github.com/Lora-net/LoRaMac-node/issues/191" TITLE : how to set the 470mhz band BODY : i set the 470mhz from 433mhz，and just change define lc1 433175000 to 471300000; define lc2 433375000 to 471500000; define lc1 433575000 to 471700000; it works，however, after the adr is on, the sf7 and sf8 are unable to receive the gateway ack. where do i need to set?

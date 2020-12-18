@@ -1,0 +1,1 @@
+ URL : "https://github.com/mirkos-vf/vcs/issues/1" TITLE : check for failures BODY : mkdir and chdir can fail. system command returns details about the failure if it fails

@@ -1,0 +1,1 @@
+ URL : "https://github.com/processing/processing-docs/issues/529" TITLE : 2 dimensional arrays BODY : issue description size 200,200 ; int cols = width; int rows = height; url s of affected page s https://www.processing.org/tutorials/2darray/ proposed fix shouldn't be the other way around? int cols = height; int rows = width;

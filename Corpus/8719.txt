@@ -1,0 +1,1 @@
+ URL : "https://github.com/DNS-OARC/PacketQ/issues/36" TITLE : rename -v to -v BODY : rename option -v version to -v so that it can be used for verbose output, this breaks backwards compatibility.

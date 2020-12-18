@@ -1,0 +1,5 @@
+ URL : "https://github.com/matt62king/Widgets/issues/184" TITLE : collapse widget events BODY : summary
+---
+create uieventhandler for collapse widgets methods
+--- java
+void onmaximize collapse sender void onminimize collapse sender

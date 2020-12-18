@@ -1,0 +1,1 @@
+ URL : "https://github.com/djsegal/Tokamak.jl/issues/19" TITLE : store failed simulations BODY : currently only the workspace is printed out. there should be silent mode that stores them in a bag

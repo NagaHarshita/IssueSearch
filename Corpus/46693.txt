@@ -1,0 +1,1 @@
+ URL : "https://github.com/dalibo/PAF/issues/61" TITLE : modify quickstart doc BODY : some modifications discussed together : modify vip name pgsql-ha to pgsql-vip move to recovery_template to /etc move pg_hba.conf to /etc

@@ -1,0 +1,1 @@
+ URL : "https://github.com/glpi-project/glpi/issues/2187" TITLE : add edit user BODY : when someone edit an existing followop or task; it was previously set as author. this is not correct, because the editor is not the author. @tomolimo has porposed in 2161 to store last editor and display it like we can see on most forums systems for example .

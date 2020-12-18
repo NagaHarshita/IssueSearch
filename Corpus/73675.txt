@@ -1,0 +1,1 @@
+ URL : "https://github.com/TulevaEE/onboarding-service/issues/1" TITLE : database mobile-id store BODY : store mobile-id sessions in the database, instead of server session. relates to classes mobileidsessionstore and mobileidsignaturesessionstore. currently are used when logging in to the application and signing a mandate.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/blitz-research/monkey2/issues/241" TITLE : white screen on startup BODY : when loading assets or doing long running logic at the start of an app, a white screen is displayed. possible sdl2 fix here: https://stackoverflow.com/questions/30377708/c-and-sdl2-chaning-background-of-window

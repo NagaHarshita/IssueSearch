@@ -1,0 +1,1 @@
+ URL : "https://github.com/The-Politico/generator-politico-interactives/issues/15" TITLE : add a dropcap style BODY : css .dropcap { float: left; font-size: 90px; line-height: 0.85em; font-family: $tablet; margin-right: 0.115em; color: 000; text-transform: uppercase; margin-top: 0px; }

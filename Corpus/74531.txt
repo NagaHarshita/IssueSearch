@@ -1,0 +1,1 @@
+ URL : "https://github.com/omniosorg/illumos-omnios/issues/36" TITLE : eventfd patch is missing BODY : it seems we are missing this patch from our lx https://github.com/joyent/illumos-joyent/commit/662ce04b9d2cbe2db70e6ae61a4da56c584f3a3c

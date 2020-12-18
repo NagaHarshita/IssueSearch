@@ -1,0 +1,1 @@
+ URL : "https://github.com/FantAsylum/Floor--13/issues/3" TITLE : graphics for fog of war BODY : we need simple graphics for two types of fog of war using the same scheme and naming convention as for terrain tiles: - unexplored - completely black with some small lights at the edges of boundary tiles - explored, but not in sight of player character

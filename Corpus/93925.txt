@@ -1,0 +1,1 @@
+ URL : "https://github.com/gebn/commute-weather/issues/2" TITLE : automated deploy to lambda BODY : create a separate latest branch, that when pushed to updates the $latest version. consider doing something with tags as well - new versions and flipping aliases?

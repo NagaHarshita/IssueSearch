@@ -1,0 +1,1 @@
+ URL : "https://github.com/rpiRobotics/rpi_gige_v_framework/issues/1" TITLE : segfault on exit BODY : currently the gevapi library is segfaulting on exit. it is unclear why this is happening. the @atexit handler in rpi_gige_v_framework.py should clean up the library, but it is still having a memory issue on exit.

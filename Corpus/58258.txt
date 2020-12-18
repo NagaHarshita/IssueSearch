@@ -1,0 +1,1 @@
+ URL : "https://github.com/bacilo/multipolygon2polygon/issues/5" TITLE : selecting row interval BODY : should be possible to select a row interval for which to apply the transformation to. should deal with values which are beyond the limits of the dataset must be between first row and last row

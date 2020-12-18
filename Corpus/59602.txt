@@ -1,0 +1,1 @@
+ URL : "https://github.com/cmsimple-xh/flexslider/issues/9" TITLE : update markdown parser BODY : apparently, the shipped parsedown.php version isn't compatible with php 7 yet.

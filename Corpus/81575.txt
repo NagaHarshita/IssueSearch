@@ -1,0 +1,1 @@
+ URL : "https://github.com/segmentio/cwlogs/issues/17" TITLE : --until flag doesn't work BODY : the --until flag doesn't seem to be working. i've tried both --until 20m and --until 2017-07-05t09:00:00 but it always fetches until now.

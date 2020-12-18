@@ -1,0 +1,1 @@
+ URL : "https://github.com/fastlane/packaged-fastlane/issues/74" TITLE : build with travelling ruby BODY : to completely omit the ruby requirement, it might be worth investigating if it's possible to ship it with a bundled ruby by means of phusion's travelling ruby: https://github.com/phusion/traveling-ruby

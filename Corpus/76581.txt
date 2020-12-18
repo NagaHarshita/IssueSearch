@@ -1,0 +1,1 @@
+ URL : "https://github.com/neovim/neovim/issues/7627" TITLE : link error in insert.txt BODY : in ~/neovim/runtime/doc/insert.txt line 47, http://georgevreilly.com/vim/ctags.html this page is not exist 404 not found .

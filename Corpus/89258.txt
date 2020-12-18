@@ -1,0 +1,1 @@
+ URL : "https://github.com/Alignak-monitoring-contrib/alignak-webui/issues/357" TITLE : problem on edit a service BODY : when we want edit a service, all informations are missing and we have an empty form, so we can't update a service

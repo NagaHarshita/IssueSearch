@@ -1,0 +1,1 @@
+ URL : "https://github.com/vertexproject/synapse/issues/316" TITLE : synapse exceptions review BODY : exceptions defined in synapse.exc are a mixture of synerror and exception types. these should ideally be unified to be synerrors typtes, and docstrings written for what the errors actually mean so devs/users can behave accordingly.

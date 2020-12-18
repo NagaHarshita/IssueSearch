@@ -1,0 +1,1 @@
+ URL : "https://github.com/CityOfZion/neo-python/issues/61" TITLE : feature add rpc client BODY : - add rpc client for interacting with other nodes via an rpc interface rather than the normal network protocol - add tests for the rpc client

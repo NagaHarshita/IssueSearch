@@ -1,0 +1,1 @@
+ URL : "https://github.com/google/closure-compiler/issues/2676" TITLE : x++ has side effects? BODY : is there any reason why this can't be compiled into empty output? javascript / @type {number} / var x = 0; / @type {number} / var y = x++; // x + 1 results in empty output current output: javascript var a=0;a++;

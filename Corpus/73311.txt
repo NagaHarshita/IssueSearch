@@ -1,0 +1,10 @@
+ URL : "https://github.com/Zimmi48/bugzilla-test/issues/4535" TITLE : crash and cannot compile BODY : note: the issue was created automatically with bugzilla2github tool bugzilla bug id: 4535
+date: 2016-01-26 19:41:45 +0100
+from: soczhenyi@gmail.com
+to: cc: coq-bugs-redist@lists.gforge.inria.fr, @_ppedrot duplicates: 4548
+last updated: 2016-05-29 17:29:46 +0200 bugzilla comment id: 11719
+date: 2016-01-26 19:41:45 +0100
+from: soczhenyi@gmail.com created attachment 659
+there are two files basic.v and induction.v. please try to compile them. dear sir/madam, hello. 1 in the newest coq edition 8.5, it always crashed when i push the backward one command button. 2 when i used the coq 8.5 in os x el capitan. it cannot compile the file. please refer to the attachment. i can compile basic.v normally. however, when i compile induction.v, it doesn't work well. regards, yi > attached file: coqfiles.zip application/zip, 22952 bytes > description: there are two files basic.v and induction.v. please try to compile them. bugzilla comment id: 12581
+date: 2016-05-29 17:29:46 +0200
+from: @_ppedrot this bug has been marked as a duplicate of bug 4548

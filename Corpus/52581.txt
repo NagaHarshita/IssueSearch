@@ -1,0 +1,1 @@
+ URL : "https://github.com/scissor-project/open-scissor/issues/15" TITLE : configure a gateway vm BODY : a new vm acting as a gateway is needed. each vm then should have it's default route configured to this gateway. depends on scissor-project/open-scissor/issues/11

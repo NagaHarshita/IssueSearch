@@ -1,0 +1,1 @@
+ URL : "https://github.com/stevepacker/docker-containers/issues/5" TITLE : samba doesn't start nmbd BODY : samba has 2 services smbd and nmbd. currently, only smbd is called by s6. i've tested a version that copies samba.s6 to nmbd.s6 and just replaces the smbd call with nmbd and it works. :- then as expected add it to /etc/services.d/nmbd/run and voila! would you like a patch?

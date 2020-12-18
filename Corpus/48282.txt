@@ -1,0 +1,1 @@
+ URL : "https://github.com/Det-Kongelige-Bibliotek/MerMEId/issues/34" TITLE : restrict @unit values BODY : <extent> and ´<dimensions> use @unit . as unit values are restricted to a closed list, the current unit input field should be changed into a select box and non-valid values should be appended to the element content instead.

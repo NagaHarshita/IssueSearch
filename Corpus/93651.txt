@@ -1,0 +1,1 @@
+ URL : "https://github.com/redux-saga/redux-saga/issues/1254" TITLE : allow using frozen actions BODY : i just updated redux-saga, to have everything break because we're using frozen actions. the wrapsagadispatch fails when trying to expand our actions that are frozen.

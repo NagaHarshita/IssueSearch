@@ -1,0 +1,1 @@
+ URL : "https://github.com/facebookincubator/create-react-app/issues/2095" TITLE : flowtype with tests? BODY : is there a way that i can get flow working within the test harness? it says the it function cannot be resolved when i turn it on.

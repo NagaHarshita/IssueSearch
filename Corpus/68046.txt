@@ -1,0 +1,1 @@
+ URL : "https://github.com/jeromekelleher/msprime/issues/312" TITLE : regarding msprime 0.4.1 BODY : i cannot find version 0.4.1 on bioconda or pypi - would it be possible for you to update the packages? i want to be able to set the record_migrations = true parameter when i simulate my sequences.

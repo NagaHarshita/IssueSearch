@@ -1,0 +1,1 @@
+ URL : "https://github.com/3liz/lizmap-web-client/issues/715" TITLE : location by layer BODY : hi, the function returns a completely wrong location. i have read that is an issue related with the 2.16 qgis server version but i'am using the 2.18 version the server runs on ubuntu xenial . i have restricedt the project to the following sr: espg 32633 - 4326 - 3857 thanks

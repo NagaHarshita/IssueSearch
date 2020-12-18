@@ -1,0 +1,1 @@
+ URL : "https://github.com/freehackquest/backend/issues/12" TITLE : implement delete game BODY : https://github.com/freehackquest/backend/blob/024bd1338ced6139aa8dd2f54cb4ca4730cf8979/src/cmd/sources/cmd_game_delete_handler.cpp l55 with delete game must be cleanup files, quests, user answers and etc also delete game must be configrm by admin password

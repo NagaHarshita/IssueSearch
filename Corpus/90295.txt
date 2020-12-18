@@ -1,0 +1,1 @@
+ URL : "https://github.com/tesselode/sodapop/issues/3" TITLE : self.timer is a nil value BODY : looking through the code, looks like self.timer is never initialized.

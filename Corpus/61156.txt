@@ -1,0 +1,1 @@
+ URL : "https://github.com/jhuesser/bzu-jodel-clone/issues/46" TITLE : adminnotice is missing! BODY : admin notice is mentioned in user.php, not implemented yet. project requirement! 14 php if $caps 'create_admin_notice' == true { echo '<a href= class= list-group-item list-group-item-action >create admin notice</a>'; $_session 'caps_create_admin_notice' = true; $hascaps = true; }

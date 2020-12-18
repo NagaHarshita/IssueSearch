@@ -1,0 +1,1 @@
+ URL : "https://github.com/RosarioCiudad/democracyos/issues/258" TITLE : modificar export csv BODY : hay que agregar al archivo que se exporta el campo descripción en la columna 'g' y la url de la imagen en la 'h'

@@ -1,0 +1,1 @@
+ URL : "https://github.com/konigio/konig/issues/213" TITLE : current state table BODY : as a data architect, i want to declare that a given shape should be materialized as a table that is updated to reflect the current state so that there is a single record per individual.

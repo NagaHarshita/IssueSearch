@@ -1,0 +1,1 @@
+ URL : "https://github.com/MichaelAquilina/python-tools/issues/91" TITLE : i am getting this issue BODY : python-tools was unable to find your machine's python executable. please try set the path in package settings and then restart atom. if the issue persists please post an issue on https://github.com/michaelaquilina/python-tools/issues/new error: spawn python enoent

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Keno/Cxx.jl/issues/326" TITLE : custom include path BODY : i find cxx.jl very useful. is there a 'politically-correct' way of setting the include path used by cxx? it would be useful to use header-only libraries.

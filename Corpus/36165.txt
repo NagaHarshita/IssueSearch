@@ -1,0 +1,1 @@
+ URL : "https://github.com/kodeklubben/codeclub-viewer/issues/395" TITLE : get beta from config BODY : src/components/lesson/improvepage.js const linktolesson should be fixed to get beta from config

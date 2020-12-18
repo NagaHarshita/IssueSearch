@@ -1,0 +1,1 @@
+ URL : "https://github.com/termux/termux-packages/issues/726" TITLE : libc6 --> bionic BODY : how to replace a dependent libc6 with bionic when writing build.sh for a debian package? thanks.

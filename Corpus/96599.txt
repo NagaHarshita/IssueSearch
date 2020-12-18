@@ -1,0 +1,1 @@
+ URL : "https://github.com/jaspervdj/profiteur/issues/17" TITLE : failed reading: takewhile1 BODY : compile: stack build --profile --ghc-options= -j4 -auto-all -rtsopts run: stack exec -- bowtie --help +rts -p prof file paste stays available until 1 september 2017 https://fnpaste.com/n9z3

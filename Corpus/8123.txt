@@ -1,0 +1,1 @@
+ URL : "https://github.com/yandex/ClickHouse/issues/1460" TITLE : multi data path BODY : there is <path></path> in config.xml to specify the data directory, so i'm wondering can we put tables/databases in different directory? for example, database a in /mnt/ssd , database b in /mnt/hdd .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Nuc1eu5/ftprack/issues/1" TITLE : threads should be limited BODY : thread is dependent on the cpu architecture. for every architecture amount of thread is limited so maximum running threads at any should be no more than 1000.

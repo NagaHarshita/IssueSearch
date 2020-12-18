@@ -1,0 +1,1 @@
+ URL : "https://github.com/AlexeyAB/darknet/issues/79" TITLE : problem with gpu BODY : i try to run train detector with gpu, but i receive message: the process cannot access the file because it is being used by another process,. could anyone help me solver it, thanks in advance.

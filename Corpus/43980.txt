@@ -1,0 +1,1 @@
+ URL : "https://github.com/FYOH/Web/issues/87" TITLE : dollar rating problem BODY : heat ultra lounge has a dollar rating of 3 when in backend it is inputed as 2 it should work like. 1. while creation of venue admin will put dollar ratings to venue. 2. same ratings insert into database. 3. now when any user put review to venue show that average to admin person.

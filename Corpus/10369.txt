@@ -1,0 +1,1 @@
+ URL : "https://github.com/Zeta36/chess-alpha-zero/issues/4" TITLE : can't play chess BODY : when i want to play, it always says: > file src/chess_zero/play_game/game_model.py , line 37, in move_by_ai > self.last_evaluation = self.last_history.values self.last_history.action > attributeerror: 'nonetype' object has no attribute 'values' what should i do?

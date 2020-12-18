@@ -1,0 +1,1 @@
+ URL : "https://github.com/crossbario/autobahn-js/issues/281" TITLE : automated browser testing BODY : even with chrome, the v8 engine running inside is a little different from the one running in node. we have automated tests not fully ci, but automated using node: https://github.com/crossbario/autobahn-js/tree/master/test can we do similar using a real browser engine?

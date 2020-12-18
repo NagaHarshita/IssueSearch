@@ -1,0 +1,1 @@
+ URL : "https://github.com/AnthonyCalandra/modern-cpp-features/issues/30" TITLE : typo on fold expression? BODY : e1 op1 ... op2 e2 according to http://en.cppreference.com/w/cpp/language/fold, op1 and op2 should be the same. is this a typo or a new feature?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ftisunpar/BlueTape/issues/20" TITLE : implement remove all BODY : di bagian manajemen jadwal dosen, buat tombol hapus semua . jika di klik, ada konfirmasi dulu yakin ingin menghapus semua jadwal? ya/tidak . jika ya maka akan menghapus semua.

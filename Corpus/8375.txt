@@ -1,0 +1,1 @@
+ URL : "https://github.com/alup/python_greek_stemmer/issues/1" TITLE : no module found BODY : after installing using python setup.py install when i try to run your tests i get the following error : > traceback most recent call last : file test_stemmer.py , line 5, in <module> from greek_stemmer import greekstemmer importerror: no module named greek_stemmer any suggestions ?

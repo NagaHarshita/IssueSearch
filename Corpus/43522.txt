@@ -1,0 +1,1 @@
+ URL : "https://github.com/kevintaing86/SDC_iOS_QuizApp/issues/1" TITLE : create the login view BODY : - added a new controller for the login view - add a new view to the login storyboard - add buttons, labels, text fields, etc. to the view and add the iboutlets and ibactions to the controller

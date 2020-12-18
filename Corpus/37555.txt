@@ -1,0 +1,1 @@
+ URL : "https://github.com/libigl/libigl/issues/671" TITLE : mesh control method? BODY : is there any functionor method to control the input mesh to check if it is in a proper format for boolean operations?

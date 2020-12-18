@@ -1,0 +1,1 @@
+ URL : "https://github.com/hluk/CopyQ/issues/763" TITLE : better clipboard editor BODY : hi, how can i make current editor more keyboard centric with readline hot keys or vim like editing ability ? or do we have some kind of external editor support?

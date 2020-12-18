@@ -1,0 +1,1 @@
+ URL : "https://github.com/adaws97/sudoku_solver/issues/1" TITLE : is only windows compatible BODY : it should be mentioned in the readme that this project is only compilable on windows systems using the visual c++ compiler as it makes use of the windows.h library.

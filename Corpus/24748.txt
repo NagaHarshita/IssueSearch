@@ -1,0 +1,1 @@
+ URL : "https://github.com/moust/cordova-plugin-videoplayer/issues/36" TITLE : there isn't proxy? BODY : i make sure that i add the plugin in my program. but when i start it on browser, there is a error :error: exec proxy not found for :: videoplayer :: play. can you help me?

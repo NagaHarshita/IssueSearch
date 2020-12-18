@@ -1,0 +1,1 @@
+ URL : "https://github.com/sjmgarnier/viridis/issues/47" TITLE : error on load BODY : hi, when i install the package on debain i get the following error: error : 'viridis.map' is not an exported object from 'namespace:viridislite' could you advise on a fix ? thanks in advance

@@ -1,0 +1,1 @@
+ URL : "https://github.com/openSUSE/gitbot/issues/1" TITLE : add go go jenkins BODY : it's sometimes handy to re-trigger jenkins jobs manually, and a convenient way is a magic comment like salt developers do: saltstack/salt 41235 comment

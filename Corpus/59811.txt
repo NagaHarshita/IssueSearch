@@ -1,0 +1,1 @@
+ URL : "https://github.com/htmldevr/teacozy_project/issues/2" TITLE : use proper indentation BODY : make sure you are indenting properly. if you do then you won't need the comment explaining the relationships here. the child gets indented further than the parent. https://github.com/htmldevr/teacozy_project/blob/master/index.html l48-l52

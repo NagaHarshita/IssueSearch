@@ -1,0 +1,1 @@
+ URL : "https://github.com/dotMorten/IoTivityDotNet/issues/3" TITLE : exception in client.cs BODY : i had to put a try-catch around https://github.com/dotmorten/iotivitydotnet/blob/master/src/testapps/testapp.net45/client.cs l47-l60 because i always get a system.exception in the client.getasync: system.exception: 'resource returned error: oc_stack_unauthorized_req'

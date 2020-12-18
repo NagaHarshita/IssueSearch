@@ -1,0 +1,1 @@
+ URL : "https://github.com/joey711/phyloseq/issues/730" TITLE : export for itol BODY : http://itol.embl.de/help.cgi is an awesome website to plot tree with metadata. i m trying to export phyloseq object to a file which can be read by itol. what's the best way ? is there any way to export phyloseq object ?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jiscdev/data-explorer/issues/116" TITLE : fix assessment title BODY : if the assessment instance id is long it overflows from the box. it probably just doesn't need to be displayed.

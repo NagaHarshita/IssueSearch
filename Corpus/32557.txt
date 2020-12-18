@@ -1,0 +1,1 @@
+ URL : "https://github.com/mrlesmithjr/ansible-vsphere-management/issues/59" TITLE : variable loop error BODY : there is currently a variable loop error thrown by ansible. this is caused by various pri_domain_name and vsphere_pri_domain_name definitions.

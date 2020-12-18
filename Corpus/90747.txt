@@ -1,0 +1,1 @@
+ URL : "https://github.com/keboola/docker-bundle/issues/213" TITLE : state file and processors BODY : když komponenta vyprodukuje /data/out/state.json a pak za komponentou jsou procesory, state file nijak nezpracovávají a ten zmizí. upload do storage ho pak nemá odkud vzít. nejlepší bude, když se state uloží ihned po doběhnutí komponenty?

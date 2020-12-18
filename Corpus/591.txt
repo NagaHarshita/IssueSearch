@@ -1,0 +1,1 @@
+ URL : "https://github.com/summernote/summernote/issues/2327" TITLE : ul and ol BODY : when i use reset css, the style of ul or ol will not apply for it. because of reset css override the style of them. you should stype it again in the library and make style !important

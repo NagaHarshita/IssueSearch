@@ -1,0 +1,1 @@
+ URL : "https://github.com/sharppy/SHARPpy/issues/131" TITLE : no support for nam 3km BODY : the high resolution nam has been transitioned from 4km to 3km and the current 4km nam link is therefore broken. would it be possible to add support for the new high res nam? if not at the very least could you remove the 4 km nam option from the dropdown since it no longer works?

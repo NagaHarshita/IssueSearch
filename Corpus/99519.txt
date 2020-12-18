@@ -1,0 +1,1 @@
+ URL : "https://github.com/aelve/haskell-issues/issues/55" TITLE : monadio instance for proxy BODY : the obvious instance obeys all of the laws so this should be a thing.

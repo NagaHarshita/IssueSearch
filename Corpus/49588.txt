@@ -1,0 +1,1 @@
+ URL : "https://github.com/yiimaker/yii2-imagable/issues/3" TITLE : typo in variable name BODY : change $pathtocatory; to $pathtocategory; https://github.com/yiimaker/yii2-imagable/blob/master/name/basename.php l21

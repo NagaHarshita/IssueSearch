@@ -1,0 +1,1 @@
+ URL : "https://github.com/GSA/piv-conformance/issues/17" TITLE : api doc cleanup BODY : clean up the api documents for developers. by this point a developer release is included and the system can be built and extended via the api documentation. deliverable is api documentation in markdown.

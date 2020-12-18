@@ -1,0 +1,1 @@
+ URL : "https://github.com/hrg921/hrg921.github.io/issues/25" TITLE : fix position change bug BODY : when animations is played on different devices, vertical positions is changed.

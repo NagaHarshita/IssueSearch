@@ -1,0 +1,1 @@
+ URL : "https://github.com/HXLStandard/libhxl-js/issues/13" TITLE : export data array BODY : allow exporting a complete data array, without or without headers. requested by @simonbjohnson

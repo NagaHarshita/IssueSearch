@@ -1,0 +1,1 @@
+ URL : "https://github.com/kontena/kontena/issues/2486" TITLE : linking service from stack BODY : hello, guys. kontena is a great tool, very impressed by it but i have a question: is it possible to link basic service created separately via kontena service create ... from stack kontena.yml ?

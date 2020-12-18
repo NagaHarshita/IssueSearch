@@ -1,0 +1,1 @@
+ URL : "https://github.com/mapzen/ios/issues/271" TITLE : update release notes BODY : ideally we should be updating the podspec as we update the podfile but as this issue proves , https://github.com/mapzen/ios/pull/269 sometimes we forget to do that. we should add a step to the release notes to ensure that these two are in sync before release.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/StefanRickli/anp/issues/25" TITLE : crash on static gain BODY : when only a static gain neither zeros nor poles is supplied, anp_main crashes. found with random tests.

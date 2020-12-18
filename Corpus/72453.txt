@@ -1,0 +1,1 @@
+ URL : "https://github.com/dotnet/docfx/issues/1183" TITLE : build time was increased BODY : hello! we updated the docfx to last version v. 2.10.2.0 after the update, we have noticed an increase in assembly time longer than 10% . have you noticed the same behavior? than it can be caused and how can we speed up this process? i look forward to your response. thank you.

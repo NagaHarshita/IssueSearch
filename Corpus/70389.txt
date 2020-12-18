@@ -1,0 +1,1 @@
+ URL : "https://github.com/cole-trapnell-lab/monocle-release/issues/25" TITLE : vignette not up to date BODY : i think the monocle 2 vignette has not been entirely updated. there are references to several functions that are not longer present. for example: plot_pc_variance_explained or plot_cell_clusters

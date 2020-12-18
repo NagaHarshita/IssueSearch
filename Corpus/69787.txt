@@ -1,0 +1,1 @@
+ URL : "https://github.com/dojo/cli-build/issues/53" TITLE : type the webpack config BODY : now we're moving the webpack config over to typescript, we should make an effort to properly type it.

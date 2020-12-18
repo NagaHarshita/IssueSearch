@@ -1,0 +1,1 @@
+ URL : "https://github.com/glpi-project/doc/issues/14" TITLE : good install pratices BODY : many users will just copy/paste the glpi directory in their document root. this is not a good idea on production servers; glpi provide a way to move config and files directories. this must be documented on the installl stage as a good practice.

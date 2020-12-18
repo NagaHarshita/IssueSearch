@@ -1,0 +1,1 @@
+ URL : "https://github.com/YanDatsyuk/Laravel-REST-API-generator/issues/25" TITLE : bug: migration duplicates BODY : bug: when more than one you will call php artisan make:rest-api-project

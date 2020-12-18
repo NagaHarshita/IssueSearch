@@ -1,0 +1,1 @@
+ URL : "https://github.com/hshoff/vx/issues/16" TITLE : text fix <textwrap /> BODY : make it easier to have text autowrap in svg. https://github.com/hshoff/vx/blob/master/packages/vx-text/src/text/textwrap.js

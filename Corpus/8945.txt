@@ -1,0 +1,1 @@
+ URL : "https://github.com/timothystewart6/BotsPlusPlus/issues/43" TITLE : speed up builds BODY : the builds take a long time. this can probably be sped up by caching the build folder. that way only changed files need to be rebuilt.

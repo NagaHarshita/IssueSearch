@@ -1,0 +1,1 @@
+ URL : "https://github.com/giovannicandido/generator-spring-spa/issues/21" TITLE : global exception handler BODY : configure a default global exception handler, because is too common, and i do on all projects. is possible to create common spa handlers, but i think it will let for the developer choose what to do.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/openhab/openhab-alexa/issues/11" TITLE : no devices detected BODY : hi there, i installed everything and added 2 homekit tags to my openhab installation, but alexa does not find any devices. what is going wrong. can i somewhere look in some logfiles to check out whats going wrong? please help.

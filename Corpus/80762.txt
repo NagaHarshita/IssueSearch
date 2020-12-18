@@ -1,0 +1,1 @@
+ URL : "https://github.com/18F/openFEC/issues/2770" TITLE : update swagger-ui to 3.x BODY : we are using an older version of swagger-ui 2.x that is difficult to maintain that relies on unmaintained js dependencies. we should: - install swagger-ui 3.x directly to openfec repo - deprecate 18f/swagger-ui fork - document local setup of new swagger setup.

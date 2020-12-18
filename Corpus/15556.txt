@@ -1,0 +1,1 @@
+ URL : "https://github.com/ToKraTheSecond/LunchMenuChecker/issues/12" TITLE : error log feature BODY : sometime the restaurant menu is not posted. implement error log feature function. it should help to determine if: - there is bug in code - there are any changes on restaurant webs causing the error

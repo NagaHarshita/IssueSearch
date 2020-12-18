@@ -1,0 +1,1 @@
+ URL : "https://github.com/isaacs/github/issues/1108" TITLE : rename repo event BODY : would be nice if the repository event https://developer.github.com/v3/activity/events/types/ repositoryevent or similar event could be sent went a repo is renamed.

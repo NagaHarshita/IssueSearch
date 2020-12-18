@@ -1,0 +1,1 @@
+ URL : "https://github.com/skiadas/BattleFTP/issues/26" TITLE : state data types BODY : output_datatype: collects all data and returns it to game. organizational data types to maintain data from other groups. uses data types from environment, unit, and inventory. are there any other data types we need to store and return to game?

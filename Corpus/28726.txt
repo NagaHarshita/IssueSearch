@@ -1,0 +1,1 @@
+ URL : "https://github.com/locdb/locdb-frend/issues/204" TITLE : how to input names? BODY : currently we see sometimes familyname givenname which seems unusal. the oc model suggest as one possibility givenname familyname or to split these parts up. when we begin to input these names manually we should also have a clear guideline.

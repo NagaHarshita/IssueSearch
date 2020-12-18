@@ -1,0 +1,1 @@
+ URL : "https://github.com/QupZilla/qupzilla/issues/2156" TITLE : what with http/2? BODY : http/2 doesn't work in qupzilla? https://http2.akamai.com/demo say 'this browser is not http/2 enabled.' :-/

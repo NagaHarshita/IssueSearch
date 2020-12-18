@@ -1,0 +1,1 @@
+ URL : "https://github.com/ddollar/foreman/issues/673" TITLE : forwarding user signals BODY : hi, i'm using foreman to run several processes in a docker container. i want to send a sigusr1 to these processes to perform special tasks using docker kill . since foreman gets the signal it has to forward it to the child processes. regards

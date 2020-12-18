@@ -1,0 +1,1 @@
+ URL : "https://github.com/Vygovsky/homework/issues/14" TITLE : lesson 12. task 2. BODY : words -не очень хорошее название для метода. имена следует давать в виде сочетания глаголов и существительных: getname, dojob, setlastname. переименуйте в getwords или searchwords.

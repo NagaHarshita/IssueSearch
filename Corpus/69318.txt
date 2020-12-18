@@ -1,0 +1,1 @@
+ URL : "https://github.com/fommil/stalactite/issues/17" TITLE : support the aux pattern BODY : if a typeclass has .aux in its name, then use this procedure val lg: labelledgeneric foo = labelledgeneric.materializeproduct implicit val lga: labelledgeneric.aux foo, lg.repr = lg

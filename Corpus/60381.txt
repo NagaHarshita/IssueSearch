@@ -1,0 +1,1 @@
+ URL : "https://github.com/obsy/packages/issues/3" TITLE : +cesq support in 3ginfo BODY : on my modem csq always 99,99 in lte mode. i suggest to use rsrq, rsrp to calculate rssi if csq is not available. example indication: +csq:99,99 +cesq:99,99,255,255,12,40 will try implement in your code.

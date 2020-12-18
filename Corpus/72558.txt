@@ -1,0 +1,1 @@
+ URL : "https://github.com/adbario/slim-secure-session-middleware/issues/11" TITLE : can you add this please? BODY : it would be helpful to have a method to get a list of messages from a namespace. currently all we can do is get a single item by it's name, but not all under the namespace, unless i'm missing something in my understanding of how it works.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mercadopago/px-ios/issues/935" TITLE : logo default en cardform BODY : tipo de componente utilizado cardformviewcontroller, cardfrontview. comportamiento esperado cuando la tarjeta esta vacía debería aparecer un icono default que es un rectángulo gris. comportamiento actual cuando la tarjeta esta vacía el logo está vacío.

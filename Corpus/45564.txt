@@ -1,0 +1,1 @@
+ URL : "https://github.com/inpsyde/wp-db-tools/issues/2" TITLE : implementing db delta BODY : right now it's only possible to create tables but not update tables against an updated schema.

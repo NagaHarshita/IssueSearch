@@ -1,0 +1,1 @@
+ URL : "https://github.com/hect1c/legend-of-heroes/issues/2" TITLE : puppy gif module BODY : create module to generate random puppy gifs when using !puppy command - this should also work if user does !animal puppy - found this npm might be able to use https://www.npmjs.com/package/random-puppy

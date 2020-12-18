@@ -1,0 +1,1 @@
+ URL : "https://github.com/gotthardp/lorawan-server/issues/77" TITLE : db removes the frames BODY : hello, i have noticed that the data gets constantly removed from the server or at least i can't see it in admin window. would it be possible to get some help on how to save all data and see all the received packages every time?

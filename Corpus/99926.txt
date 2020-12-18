@@ -1,0 +1,1 @@
+ URL : "https://github.com/Project-35/power8ci/issues/3" TITLE : not all configs in ansible BODY : configurations for jenkins plugins are not in ansible.

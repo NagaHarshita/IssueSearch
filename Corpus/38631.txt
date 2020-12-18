@@ -1,0 +1,1 @@
+ URL : "https://github.com/ymcidence/DeepSketchHashing/issues/2" TITLE : producing hash codes BODY : hi, the output of your deploy files are float arrays of different sizes 64, 128... . is there a specific method you used to convert them to binary hash codes? should i just split the values at zero, or is there some other optimal threshold?

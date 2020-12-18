@@ -1,0 +1,1 @@
+ URL : "https://github.com/geosolutions-it/evo-odas/issues/44" TITLE : repo and docs updates BODY : moved ingestion scripts to self contained folder. updated documentation for sentinel2 ingestion.

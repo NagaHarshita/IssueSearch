@@ -1,0 +1,1 @@
+ URL : "https://github.com/arcandio/MDNovelTools/issues/12" TITLE : refine file placement BODY : the metadata file is placed in the manuscript. move it up one level rename startdir to msdir

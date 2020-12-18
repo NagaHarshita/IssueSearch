@@ -1,0 +1,1 @@
+ URL : "https://github.com/jlouk/Umenu/issues/6" TITLE : login isn't persistent BODY : if i go to another page after logging in and being taken to the manager view, i'm logged out.

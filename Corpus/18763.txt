@@ -1,0 +1,1 @@
+ URL : "https://github.com/prismaproject/prisma-core/issues/37" TITLE : update test suite BODY : because a lot of new code recently the tests has not been updated. this needs to be fixed. i will handle the crypto part.

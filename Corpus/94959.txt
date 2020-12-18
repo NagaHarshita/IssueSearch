@@ -1,0 +1,1 @@
+ URL : "https://github.com/reasonml/reason-react/issues/28" TITLE : component children warning BODY : reason let comp = reasonreact.statelesscomponent container ; let make children => { ...comp, render: fun _ => <div> children |> reasonreact.arraytoelement </div> }; will raise warning: each child in an array or iterator should have a unique key prop. in chrome console.

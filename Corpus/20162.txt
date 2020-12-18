@@ -1,0 +1,1 @@
+ URL : "https://github.com/devsummit/app/issues/106" TITLE : bug - registration BODY : description when user don't have account yet and attempt to sign in, user should be redirected to register form. - with social, it should redirect to register form with prefilled fields. <br /> type - x tweak <br />

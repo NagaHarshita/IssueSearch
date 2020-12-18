@@ -1,0 +1,1 @@
+ URL : "https://github.com/ethanwharris/gnome-nvidia-extension/issues/64" TITLE : hotfix multiple gpus BODY : part of 14 expected behavior some output / configurability on systems with multiple graphics cards current behavior undefined

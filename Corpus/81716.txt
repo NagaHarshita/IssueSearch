@@ -1,0 +1,9 @@
+ URL : "https://github.com/PennyDreadfulMTG/perf-reports/issues/3797" TITLE : 500 error at /decks/5319/ BODY : failed to execute select from _cache_card as c where 1 = 1 and 1 = 1 with because of 1146, table 'cards._cache_card' doesn't exist reported on decksite by logged_out
+--------------------------------------------------------------------------------
+request method: get
+path: /decks/5319/?
+cookies: {}
+endpoint: deck
+view args: {'deck_id': '5319'}
+person: logged_out
+user-agent: mozilla/5.0 compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm referrer: none

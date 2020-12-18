@@ -1,0 +1,1 @@
+ URL : "https://github.com/HexTree/CoffeePoints/issues/22" TITLE : blank screen on android BODY : app just shows blank screen on android. more specifically, i see a page of horizontal grey bars, but no buttons or text. have tested d6ab5d5cdcb5c6ecf93c0cca171249974b9708ab on both the android sdk emulator, and bluestacks, same thing happens in each.

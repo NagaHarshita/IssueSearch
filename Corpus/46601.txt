@@ -1,0 +1,1 @@
+ URL : "https://github.com/PokeAPI/pokeapi/issues/316" TITLE : missing alola pokedex BODY : https://pokeapi.co/api/v2/pokedex/?limit=20&offset=0 https://pokeapi.co/api/v2/pokedex/?limit=20&offset=0 is missing a definition for the alolan pokedex.

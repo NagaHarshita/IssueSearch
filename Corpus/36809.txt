@@ -1,0 +1,1 @@
+ URL : "https://github.com/feelfreelinux/WykopMobilny/issues/4" TITLE : improve entry layout BODY : date textview should be moved to bottom of author login textview . also, long nickname breaks whole layout. simple length check should fix it crop long usernames .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/FAC-11/jaam-todo-list/issues/10" TITLE : feature: create new todo BODY : see: addtodoform.addeventlistener 'submit', function event { inside this function you need to create a new state with a new to-do.

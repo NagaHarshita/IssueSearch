@@ -1,0 +1,1 @@
+ URL : "https://github.com/btorresgil/docker-splunk-panw-demo/issues/3" TITLE : error in dockerfile BODY : fyi, line 33 of dockerfile currently has: run rm -f /pan_datagen.tar.gz it should be: run rm -f /eventgen.tar.gz

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jgarciao/linux-store-backend/issues/1" TITLE : app shown twice BODY : 0 a.d. is shown twice at http://45.55.104.129/apps i'm not sure if there's an issue with the manifest and the flathub.json file at https://github.com/flathub/com.play0ad.zeroad or if this is a bug in this backend.

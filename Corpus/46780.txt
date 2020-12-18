@@ -1,0 +1,1 @@
+ URL : "https://github.com/kamilsk/retry/issues/2" TITLE : move retrier to retry BODY : https://github.com/kamilsk/retrier to https://github.com/kamilsk/retry reason: main code base based on rican7/retry, it is better to restore this link. blocked by issues https://github.com/kamilsk/retrier/issues

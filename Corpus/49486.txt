@@ -1,0 +1,1 @@
+ URL : "https://github.com/oblador/react-native-animatable/issues/167" TITLE : transitionto not work BODY : transition is ok var fromvalues = {opacity:1}//这是一个style var tovalues = {opacity:0.1}//这是一个 style, this.refs.testview.transition fromvalues,tovalues,2000,'esa-out' ; transitionto is not work?? this.refs.testview.transitionto { opacity: 0.1 }, 500, 'ease-in' ;

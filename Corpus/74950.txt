@@ -1,0 +1,1 @@
+ URL : "https://github.com/makander/teacozy/issues/4" TITLE : flex-box and concise css BODY : great! great work using flex-box for your layout! i also like that there is minimal repetition of your styles as this helps keep your css concise! the horizontal positioning of your page is a bit off compared to the spec. to fix this you can use margin: 0 auto; on .main .

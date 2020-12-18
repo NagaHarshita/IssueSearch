@@ -1,0 +1,1 @@
+ URL : "https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/issues/13" TITLE : allow for graceful exit BODY : currently ctrl+c events are not handled very well and can leave hanging python processes.

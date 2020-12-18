@@ -1,0 +1,1 @@
+ URL : "https://github.com/hacksmath/RiskMetrics/issues/20" TITLE : code readability BODY : the code is organized, however there were not alot of comments and i had to make assumptions about what the code was doing. more comments within the code will help make it more readable.

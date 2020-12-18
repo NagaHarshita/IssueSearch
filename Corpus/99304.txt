@@ -1,0 +1,1 @@
+ URL : "https://github.com/openAVproductions/openAV-Ctlra/issues/63" TITLE : midi all-notes-off support BODY : when a all-notes-off event is received, ctlra needs to turn off all note buttons , likely ctlra will need to keep track of which notes are pressed.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mumuki/mumuki-development-installer/issues/11" TITLE : postgre is not installed BODY : i think it's an escualo version issue, because on previous versions the plugin was called postgre and now it's called postgres . although escualo version is fixed to 0.5.1 on the install.sh script, the vm ends up with the latest version, not sure why.

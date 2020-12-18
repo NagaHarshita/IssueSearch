@@ -1,0 +1,1 @@
+ URL : "https://github.com/PyconUK/ConferenceScheduler/issues/70" TITLE : move to flake8 BODY : once again, inspired by https://blog.ionelmc.ro/2014/05/25/python-packaging/, i suggest we move from pep8 checking to using flake8 as it covers everything that pep8 will pick up plus additional style and code quality checks.

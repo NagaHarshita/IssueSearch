@@ -1,0 +1,1 @@
+ URL : "https://github.com/c3c1l1a/Saka/issues/2" TITLE : deleting a wish BODY : ensure only the user that created a wish is the only one who can delete it otherwise they should just be able to view the wish.

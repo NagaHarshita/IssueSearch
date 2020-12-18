@@ -1,0 +1,1 @@
+ URL : "https://github.com/willemliu/moviesom-project/issues/1" TITLE : lazy loading news items BODY : i want to be able to lazy load the news items instead of loading all items at once in order to save bandwidth.

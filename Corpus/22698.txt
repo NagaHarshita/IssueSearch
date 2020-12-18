@@ -1,0 +1,1 @@
+ URL : "https://github.com/GoogleCloudPlatform/google-cloud-eclipse/issues/1716" TITLE : maven flex support BODY : the flex new project wizard should optionally generate a pom.xml and set up the project to use the maven builder.

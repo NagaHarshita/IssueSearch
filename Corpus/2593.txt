@@ -1,0 +1,1 @@
+ URL : "https://github.com/adventurerscodex/adventurerscodex/issues/1214" TITLE : bug: hit dice BODY : module s effected stats expected behavior when you create a character at a level greater than one, you should get that many hit dice. actual behavior you only start with one hit dice.

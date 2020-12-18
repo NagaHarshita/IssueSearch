@@ -1,0 +1,1 @@
+ URL : "https://github.com/slemonide/sasuga/issues/66" TITLE : reduce amount of ui code. BODY : move whatever possible to other classes that are more testable.

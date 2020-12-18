@@ -1,0 +1,1 @@
+ URL : "https://github.com/warappa/XamlCSS/issues/24" TITLE : support sass-like mixins BODY : support mixins: http://sass-lang.com/documentation/file.sass_reference.html defining_a_mixin example: scss @mixin form-input $padding: 10 { grid.column: 1; padding: $padding; } .form textbox { @include form-input ; } .form checkbox { @include form-input ; }

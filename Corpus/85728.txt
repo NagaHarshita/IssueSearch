@@ -1,0 +1,1 @@
+ URL : "https://github.com/access-watch/access-watch/issues/94" TITLE : fix pr 90 breaking change BODY : we should be able to load old session file as-is. we don't want to manage versions or have the user delete the file.

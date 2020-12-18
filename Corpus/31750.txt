@@ -1,0 +1,1 @@
+ URL : "https://github.com/groeck/lm-sensors/issues/22" TITLE : support for it8792e BODY : trying family ite'... yes found unknown chip with id 0x8666 trying family ite'... yes found unknown chip with id 0x8733 it should work in newer kernels >=4.11 https://patchwork.kernel.org/patch/9565337/ sensors-detect doesn't know about this ic yet though.

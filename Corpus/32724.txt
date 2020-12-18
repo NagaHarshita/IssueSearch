@@ -1,0 +1,1 @@
+ URL : "https://github.com/midwan/amiberry/issues/103" TITLE : whdload turrican ii BODY : turrican 2 had glitches in the graphics so i changed gfx_framerate=0 and cachesize=0 which fixed the glitch, now it crashes after a few mins of play. same problem every time, go left from start smash the hidden block above head far left. head right for 2 seconds and the game returns to menu.

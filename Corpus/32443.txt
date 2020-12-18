@@ -1,0 +1,1 @@
+ URL : "https://github.com/lafikl/liblb/issues/3" TITLE : use atomic counters BODY : replace the locks on counters with atomic counters to reduce the lock contention

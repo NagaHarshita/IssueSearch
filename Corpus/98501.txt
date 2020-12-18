@@ -1,0 +1,1 @@
+ URL : "https://github.com/yahoo/serialize-javascript/issues/26" TITLE : is escaping '>' necessary? BODY : i am wondering if you cannot save a few cycles and bytes by not escaping > . as far as i can tell, is has no influence on <script> termination?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ymcatwincities/openy/issues/417" TITLE : home link leads to 404 BODY : in the demo content for main menu home item has link to /openy . it should lead to <front> . ! image https://cloud.githubusercontent.com/assets/1316234/26629155/bb0d82ae-4609-11e7-8dcd-7625cd6e1406.png

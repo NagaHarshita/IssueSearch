@@ -1,0 +1,1 @@
+ URL : "https://github.com/alphatechnologies/trutemp-ui-press/issues/38" TITLE : load simulator file BODY : need to create a method to load a simulator file .microlog file during the test creation, this should only be available if the current reader type is a press simulator.

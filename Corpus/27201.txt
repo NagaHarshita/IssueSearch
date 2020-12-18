@@ -1,0 +1,1 @@
+ URL : "https://github.com/vadis365/Mob-Grinding-Utils/issues/38" TITLE : crash with hatchery BODY : i randomly used a gmo chicken feed on a hatchery rooster, and got a crash that prevents loading the world again. crash log https://gist.github.com/brisingraerowing/dc3ea9d0e78a785b083ff884843e4cd0 adding a check for the correct model type would help.

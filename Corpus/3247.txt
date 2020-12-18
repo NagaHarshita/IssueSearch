@@ -1,0 +1,1 @@
+ URL : "https://github.com/linode/manager/issues/1376" TITLE : my app secret BODY : users need to be able to get their secret after an app is created. i would propose it being in a modal, only because it re-instills the understanding that the access to it is fleeting, and how they have to reset to get a new secret.

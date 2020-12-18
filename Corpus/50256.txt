@@ -1,0 +1,1 @@
+ URL : "https://github.com/mesonbuild/meson/issues/1293" TITLE : wildcards and inotify BODY : if meson were to add support for inotify on linux, like tup http://gittup.org/tup/ does, the restriction on wildcards https://github.com/mesonbuild/meson/wiki/faq why-cant-i-specify-target-files-with-a-wildcard should be lifted. are there any plans on adding such support?

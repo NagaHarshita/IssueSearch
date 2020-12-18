@@ -1,0 +1,2 @@
+ URL : "https://github.com/mcm-ham/dragsort/issues/22" TITLE : when multiple containers BODY : when multiple containers, placeholderitem can be inserted into all containers, each time dragging . so can we only insert the placeholderitem into the target container?
+that's my proplem.thanks. this work item was migrated from codeplex codeplex work item id: '35205' vote count: '1'

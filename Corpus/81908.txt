@@ -1,0 +1,13 @@
+ URL : "https://github.com/semihalf-berestovskyy-andriy/test2/issues/10" TITLE : acl - define requirements BODY : note: the issue was imported automatically from bugzilla with bugzilla2issues.py tool bugzilla bug id: 10
+date: 2015-06-03 08:20:31 +0200
+from: bogdan pricope <bogdan.pricope@enea.com>
+to: sorin vultureanu <sorin.vultureanu@enea.com>
+cc: jose.pekkarinen@nokia.com duplicates: 11
+last updated: 2015-11-24 11:29:32 +0100 bugzilla comment id: 12
+date: 2015-06-03 08:20:31 +0200
+from: bogdan pricope <bogdan.pricope@enea.com> acl - define requirements. cisco style? note:
+shall we start this? secondary priority for now state:
+starting assigned:
+sorin bugzilla comment id: 121
+date: 2015-11-24 11:29:32 +0100
+from: josé pekkarinen <jose.pekkarinen@nokia.com> several tickets for one purpose, so closing. this bug has been marked as a duplicate of bug 11

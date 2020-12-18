@@ -1,0 +1,1 @@
+ URL : "https://github.com/carllerche/mio/issues/749" TITLE : expose peek and peek_from BODY : i was comparing mio's api to libstd, and while most of the omissions make sense, i couldn't figure out why peek and peek_from are absent in mio. is there are reason i'm missing?

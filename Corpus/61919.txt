@@ -1,0 +1,4 @@
+ URL : "https://github.com/webcompat/webcompat-tests/issues/1176" TITLE : c - see bug description BODY : <!-- @browser: firefox 54.0 -->
+<!-- @ua_header: mozilla/5.0 macintosh; intel mac os x 10.12; rv:54.0 gecko/20100101 firefox/54.0 -->
+<!-- @reported_with: web --> url : c browser / version : firefox 54.0 operating system : mac os x 10.12 tested another browser : no problem type : something else description : c steps to reproduce :
+for example, 1. i've tried to log in. 2. i've filled out the form details. 3. i clicked on the submit button. 4. nothing happened. ! screenshot description http://localhost:5000/uploads/2017/7/44f88185-5742-4466-974a-7c2876e2a90c-thumb.jpg http://localhost:5000/uploads/2017/7/44f88185-5742-4466-974a-7c2876e2a90c.jpg _from webcompat.com https://webcompat.com/ with ❤️_

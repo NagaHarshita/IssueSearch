@@ -1,0 +1,1 @@
+ URL : "https://github.com/mpgh/pyDANDIA/issues/3" TITLE : stage 0 needs unit tests BODY : the title pretty much says it all! all major functions of this stage should have unit tests and ideally performance tests also.

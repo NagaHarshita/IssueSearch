@@ -1,0 +1,1 @@
+ URL : "https://github.com/RipcordSoftware/AvanceDB/issues/74" TITLE : use shared jsapi runtimes BODY : on systems with large numbers of cpus this will reduce the memory overhead

@@ -1,0 +1,1 @@
+ URL : "https://github.com/kendo01/antistasi/issues/48" TITLE : tfar jas compatible BODY : when loading a load-out it needs to check if there is a unequal radio in the save then it need to check what the base type it is and add it to the load-out.

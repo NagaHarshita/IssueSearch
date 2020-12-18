@@ -1,0 +1,1 @@
+ URL : "https://github.com/danrabbit/harvey/issues/2" TITLE : strip opacity from colors BODY : when you use an rgba color with 0 opacity, it messes with the titlebar magic. ! screenshot from 2017-05-27 13 00 47 https://cloud.githubusercontent.com/assets/3385679/26524080/c89bf2d2-42dc-11e7-9616-c87b69615b36.png

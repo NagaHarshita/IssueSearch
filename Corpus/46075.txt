@@ -1,0 +1,1 @@
+ URL : "https://github.com/spinesheath/HanaMahjong/issues/33" TITLE : layout tiles on table BODY : place tiles on the table at pixel coordinates which can later be translated to latex positions.

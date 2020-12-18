@@ -1,0 +1,1 @@
+ URL : "https://github.com/ccxt/ccxt/issues/854" TITLE : qcryptos and python 3 BODY : is it a bug report, a question or feature request? <sup> choose one </sup> - x bug report - question - feature request i fixed several small issues with qryptos and unicode handling in python3. do you mind if i push a branch a create a merge request?

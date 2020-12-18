@@ -1,0 +1,1 @@
+ URL : "https://github.com/Chrysostomus/aif-dev/issues/39" TITLE : fstab option needed? BODY : do we need the alternatives or can we just stick to manjaro standard uuid? it's a rather confusing step for non-expert users and we could even do it automatically during a final check and finish installation step. or is there a need to have this option for certain use-cases?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Z3Prover/z3/issues/1384" TITLE : cmake cleanliness check BODY : cmake says cmake error at src/util/cmakelists.txt:2 message : f:/dev/z3-cruanes/src/util/version.h should not exist and is polluting @delcypher: i need both build systems, how do i tell cmake not to worry?

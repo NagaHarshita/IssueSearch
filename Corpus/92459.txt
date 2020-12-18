@@ -1,0 +1,1 @@
+ URL : "https://github.com/autonomio/autonomio/issues/125" TITLE : write short units of code BODY : separate functions, which have more that 60 lines of code, to smaller functions to pass better code hub check. functions with more than 60 lines of code: - stopwords.py - shapes.py - trainer.py - hyperscan.py

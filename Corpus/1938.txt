@@ -1,0 +1,1 @@
+ URL : "https://github.com/tensorflow/models/issues/2528" TITLE : mips for ssd BODY : can i know what is million instructions per second for ssd model? how to check mips of ssd model in my system?

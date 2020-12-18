@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpenNMT/OpenNMT-py/issues/272" TITLE : attention mask isn't used BODY : i think the attention mask over source words isn't used in current version of opennmt-py. it was there in the previous one. this makes training incorrect and decoding with batch_size > 1 terrible.

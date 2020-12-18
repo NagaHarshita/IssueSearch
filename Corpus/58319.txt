@@ -1,0 +1,1 @@
+ URL : "https://github.com/GrumpOMeter/GrumpyVue/issues/1" TITLE : set up ci in the cloud BODY : to have a reliable front end it needs to be tested whenever somebody pushes the latest developments http://sm4.github.io/2017/02/07/vue-nightwatch-e2e-tests-on-travis-ci-in-chrome/

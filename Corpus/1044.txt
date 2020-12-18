@@ -1,0 +1,1 @@
+ URL : "https://github.com/TensorMSA/hoyai/issues/2" TITLE : fix bug for BODY : in common/utils/path_util.py file, there is error sh path = ''.join cache.get model_root , / , nn_id , / , wf_ver , / , name sequence item 0: expected str instance, nonetype found

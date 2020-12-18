@@ -1,0 +1,1 @@
+ URL : "https://github.com/tj/node-prune/issues/2" TITLE : keep .d.ts files BODY : https://github.com/tj/node-prune/blob/20703f18e9a7996683f1b89769c7fda4654aed52/prune.go l57 this will remove .d.ts files too. 😄

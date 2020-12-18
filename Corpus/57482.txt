@@ -1,0 +1,1 @@
+ URL : "https://github.com/wolcomm/prngmgr/issues/7" TITLE : python 3 compatibility BODY : testing on py3 fails due to dependencies. issue opened at peeringdb/django-peeringdb 11 to track resolution.

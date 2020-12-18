@@ -1,0 +1,1 @@
+ URL : "https://github.com/NeillGiraldo/QB64-Lexer/issues/7" TITLE : lexical error on strings BODY : a string such this is a string should throw a lexical error, however the lexer simply ignores it.

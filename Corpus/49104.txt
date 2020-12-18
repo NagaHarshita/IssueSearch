@@ -1,0 +1,1 @@
+ URL : "https://github.com/bitnine-oss/agensgraph/issues/199" TITLE : support merge ... set BODY : currently, this query incurs error: there must be one type of consecutive update clauses . this should be modified asap.

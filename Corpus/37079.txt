@@ -1,0 +1,1 @@
+ URL : "https://github.com/CE-Programming/CEmu/issues/115" TITLE : jr cc, x is off by 1 BODY : the disassembling or jr cc, x is off by 1, for example it says that is jr to xxxx0b, while it actually jr to xxxx0a, which is right. windows 10, 64bit version, 0.9dev_50326c6.

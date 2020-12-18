@@ -1,0 +1,1 @@
+ URL : "https://github.com/dmlc/MXNet.cpp/issues/71" TITLE : merging into mxnet repo BODY : i propose to merge mxnet.cpp into mxnet project. 1. it will attract more attention to mxnet.cpp. 2. it will enable integrated test with mxnet, so that future checkins to mxnet will not break mxnet.cpp

@@ -1,0 +1,1 @@
+ URL : "https://github.com/vmware/govmomi/issues/816" TITLE : vm.clone -on switch issue BODY : the -on switch for vm.clone is a bool an can not be set to false since the default is true. if i use vm.clone without on switch it will poweron by default. if i use vm.clone with on switch it will poweron by using the on flag. there is no possibility to set it to false.

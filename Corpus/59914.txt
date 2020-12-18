@@ -1,0 +1,1 @@
+ URL : "https://github.com/EXXETA/sonar-esql-plugin/issues/16" TITLE : variable name prefixes BODY : additional check: check if all variable names have prefixes representing their type.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/kartoza/qgis.org.za/issues/118" TITLE : user permission bug BODY : i've tried to give loc members staff status and assigned them permission on some objects or membership of a group. the change is saved but i get this message: the user is active but won't be able to access the admin, due to no edit/site permissions being selected please fix

@@ -1,0 +1,1 @@
+ URL : "https://github.com/gpodder/mygpo/issues/71" TITLE : service to get media url BODY : i'm working on a ios app to use web services and i couldn't figure out a way to retrieve media .mp3 url for any podcast. is episode.josn service used for this or else any other way?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/bnosac/taskscheduleR/issues/18" TITLE : unifying with cronr BODY : hi, this is very cool but wouldn't it be possible to unify with https://github.com/bnosac/cronr? so you would have a common platform independant way to make tasks.

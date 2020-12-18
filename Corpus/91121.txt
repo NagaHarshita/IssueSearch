@@ -1,0 +1,1 @@
+ URL : "https://github.com/amanzi/amanzi/issues/68" TITLE : switch to std::shared_ptr BODY : given that amanzi has switched to c++11, maybe its time to switch from teuchos::rcp to shared_ptr?

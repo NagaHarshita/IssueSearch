@@ -1,0 +1,1 @@
+ URL : "https://github.com/nickmccurdy/cdnm/issues/10" TITLE : improve cli output BODY : each command should show a pretty, npm style list of dependency versions. update should also show when a file is written or reformatted.

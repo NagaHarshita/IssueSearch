@@ -1,0 +1,1 @@
+ URL : "https://github.com/arveth/cpp-lottery/issues/2" TITLE : need to change rand ; BODY : need to change rand ; in lotto.cpp so it wouldn't print duplicates

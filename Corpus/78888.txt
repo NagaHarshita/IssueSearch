@@ -1,0 +1,1 @@
+ URL : "https://github.com/rmarquis/pacaur/issues/692" TITLE : removing orphan packages BODY : that would be more comfortable if pacaur would ask to remove packages with -rs similarly to yaourt when running: pacaur -qtd or pacaur -qtdq

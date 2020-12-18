@@ -1,0 +1,1 @@
+ URL : "https://github.com/nickurt/zf-bugsnag/issues/5" TITLE : fix this error please. BODY : argument 1 passed to zfbugsnag\service\bugsnagservice::sendexception must be an instance of exception, instance of error given, called in vendor/nickurt/zf-bugsnag

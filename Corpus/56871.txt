@@ -1,0 +1,1 @@
+ URL : "https://github.com/oakes/Nightlight/issues/23" TITLE : optional margin marker BODY : in other editors i use a vertical margin marker at 120 characters to keep my max code width the same in all files. i would like to be able to do the same in nightlight - the margin may be optional with a customizable draggable? width position.

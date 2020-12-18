@@ -1,0 +1,1 @@
+ URL : "https://github.com/YinHangCode/homebridge-mi-aqara/issues/2" TITLE : wireless switch problem BODY : hi, the plug in working almost perfect and stable. but there an issue about wireless button. thebutton shown on homekit but does not show actions for it. so any automation function does not work in homekit. thanks.

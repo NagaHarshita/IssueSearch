@@ -1,0 +1,1 @@
+ URL : "https://github.com/shadanan/hevante-points/issues/1" TITLE : add stop/cancel intent BODY : right now there is no way to stop/cancel the skill in the middle of being prompted for answers. we should add an intent to understand a stop/cancel intent.

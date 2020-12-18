@@ -1,0 +1,1 @@
+ URL : "https://github.com/facebookincubator/create-react-app/issues/2421" TITLE : include parents shared css BODY : i have a css file in parent folder ./../../css/mycss.css, how can i include this in index.html?

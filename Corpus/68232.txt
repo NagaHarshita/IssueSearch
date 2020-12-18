@@ -1,0 +1,1 @@
+ URL : "https://github.com/ikiPZdU6UP3Gra/qnap-intel-docker-plex/issues/1" TITLE : repo doesnt exist error BODY : getting the message: unable to find image 'ikipzdu6up3gra/qnap-intel-docker-plex:autoupdate' locally docker: error response from daemon: pull access denied for ikipzdu6up3gra/qnap-intel-docker-plex, repository does not exist or may require 'docker login'.

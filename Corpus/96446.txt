@@ -1,0 +1,1 @@
+ URL : "https://github.com/EECS448-KitchenUtensils/Skeddit/issues/17" TITLE : event creation time travel BODY : it is presently possible to create events that end before they begin. this does not make sense.

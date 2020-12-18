@@ -1,0 +1,1 @@
+ URL : "https://github.com/arcosuc3m/dcpl/issues/2" TITLE : mpi native version BODY : write a native mpi version that: reads a file transforms all elements in memory. writes a file.

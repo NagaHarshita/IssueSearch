@@ -1,0 +1,1 @@
+ URL : "https://github.com/origamitower/furipota/issues/4" TITLE : future syntax changes BODY : - require @ for all option arguments gets rid of the pesky record issues - remove {}, add record.empty - support defining functions in records less terrible match function - spread ... in vectors - open x in expr + conflict resolution

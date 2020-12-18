@@ -1,0 +1,1 @@
+ URL : "https://github.com/consbio/clover/issues/46" TITLE : update travis config BODY : drop python 3.4 and add 3.5 and 3.6. we can also theoretically drop specific download of rasterio wheel and gdal dependencies and follow the model set here https://github.com/mapbox/rio-mbtiles/commit/d282a5596ac9da2f4885f1b83d6a1ba183f7111d instead.

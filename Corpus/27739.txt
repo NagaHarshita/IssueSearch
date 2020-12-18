@@ -1,0 +1,1 @@
+ URL : "https://github.com/Luzifer/awsenv/issues/15" TITLE : editing access keys BODY : as far as i can tell you must delete and re-create an environment rather than just edit the existing keys am i missing something?

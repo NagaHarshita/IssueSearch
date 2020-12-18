@@ -1,0 +1,1 @@
+ URL : "https://github.com/aaugustin/websockets/issues/241" TITLE : flaky tests on macos BODY : from 239. test_close_handshake_timeout fails on macos with error assertionerror: 0.03943201599997792 not less than 0.029 : too slow: 0.03943201599997792 >= 0.029 full stack trace: https://travis-ci.org/mayeut/websockets/jobs/259532227

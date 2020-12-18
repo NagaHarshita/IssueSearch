@@ -1,0 +1,1 @@
+ URL : "https://github.com/thoughtbot/neat/issues/573" TITLE : add issue template BODY : there has been an influx of issues as the latest release becomes more and more popular. many of these have been too short or vague and require a back and forth discussion to actually determine the problem. this could be mitigated by adding an issue template.

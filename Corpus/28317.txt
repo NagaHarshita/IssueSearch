@@ -1,0 +1,1 @@
+ URL : "https://github.com/psieg/Lightpack/issues/158" TITLE : flux led flickering BODY : when using f.lux i'm getting lots of sudden color darkening. the entire array will flash deep red at random intervals. works perfectly without the f.lux box checked.

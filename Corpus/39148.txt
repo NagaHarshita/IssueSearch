@@ -1,0 +1,1 @@
+ URL : "https://github.com/rana/ora/issues/191" TITLE : return null into lob BODY : code: l := &ora.lob{} stm, err := testses.prep begin :1 := null; end; if err != nil { fmt.println 2 - , err return } n, err := stm.exe l if err != nil { fmt.println 3 - , err return } bb1, err := l.bytes if err != nil { fmt.println 4 - , err return } fmt.println result - , n, string bb1

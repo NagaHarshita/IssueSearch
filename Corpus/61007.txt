@@ -1,0 +1,1 @@
+ URL : "https://github.com/josiahcarlson/parse-crontab/issues/24" TITLE : add support for seconds BODY : i'd like to schedule a task to run every 30 seconds. is this possible with parse-crontab? would you be interested in a pr to add support for it?

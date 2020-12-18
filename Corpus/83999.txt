@@ -1,0 +1,1 @@
+ URL : "https://github.com/mwillsey/puddle/issues/10" TITLE : consumption isn't checked BODY : droplets can only be consumed once. we should crash the program if it's going to be used again. see test here for an example test: https://github.com/mwillsey/puddle/blob/c876326b4568c61152cf0540977c19c75b911b6f/tests/test_execution.py l139

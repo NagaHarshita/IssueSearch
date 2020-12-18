@@ -1,0 +1,1 @@
+ URL : "https://github.com/ecurtin/spark-bench/issues/11" TITLE : run custom workloads BODY : acceptance criteria - able to run my implementation of a com.ibm...workload through spark-bench - able to pass appropriate parameters to my custom workload - pointing spark-bench to my jar and workload class should be trivially easy and should only require two command line args.

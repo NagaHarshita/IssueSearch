@@ -1,0 +1,1 @@
+ URL : "https://github.com/zhelih/rds-serial/issues/1" TITLE : vertex ordering bug BODY : order_custom function has a bug. do not use vertex ordering until fixed. steps to reproduce: brock200_1 clique size is less by 1.

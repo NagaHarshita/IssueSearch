@@ -1,0 +1,1 @@
+ URL : "https://github.com/Intermodalics/tango_ros/issues/301" TITLE : shared preferences null BODY : shared preferences can be null in parameternode if ros did not connect successfully. this leads to a nullpointerexception if a user tries to go to the settingsactivity to e.g. adapt master uri.

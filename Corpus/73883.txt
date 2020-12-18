@@ -1,0 +1,2 @@
+ URL : "https://github.com/BelaPlatform/bela-image-builder/issues/1" TITLE : dhcp fails on first boot BODY : <a href= https://github.com/lbdonovan ><img src= https://avatars1.githubusercontent.com/u/16209658?v=3 align= left width= 96 height= 96 hspace= 10 ></img></a> issue by lbdonovan https://github.com/lbdonovan _sunday apr 16, 2017 at 17:51 gmt_
+_originally opened as https://github.com/lbdonovan/image-builder/issues/1_ ---- this only started happening after i got rid of apache and bone101, it's probably an issue with systemd

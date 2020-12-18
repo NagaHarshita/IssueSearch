@@ -1,0 +1,1 @@
+ URL : "https://github.com/ChrisMacNaughton/Mjolnir/issues/12" TITLE : master supports plug ins BODY : plug ins should have a specific naming convention, and be located as a specific path. they will be called by the agent using a specified format protobuf for passing information in and out

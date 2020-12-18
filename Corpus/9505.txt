@@ -1,0 +1,1 @@
+ URL : "https://github.com/yahoo/hecate/issues/8" TITLE : zero init false BODY : in the include/hecate/gapstat.hpp file, line 84, km_lbl = mat::zeros 1,1, km_lbl.type ; , when cout km_lbl.at<int> 0 , the result is a big integer, not 0.

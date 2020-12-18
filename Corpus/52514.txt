@@ -1,0 +1,1 @@
+ URL : "https://github.com/stellar/go/issues/233" TITLE : common migrate db code BODY : we have a lot of apps that need migrate db feature.

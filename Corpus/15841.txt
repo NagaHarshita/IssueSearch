@@ -1,0 +1,1 @@
+ URL : "https://github.com/Dania02525/apartmentex/issues/43" TITLE : foreign key issue BODY : hi. i have one question. if i create a table that have a foreign key references to tenant's table fk_id_tenant . how can i create this relation?

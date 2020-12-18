@@ -1,0 +1,1 @@
+ URL : "https://github.com/parthkrishna1611/dosa/issues/3" TITLE : shell_exec not working BODY : $s = python3 scraper.py legless echo shell_exec $s ; php is failing to render the python script, although it is executing it perfectly

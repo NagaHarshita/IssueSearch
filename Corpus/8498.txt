@@ -1,0 +1,1 @@
+ URL : "https://github.com/jdoyle5/photosphere/issues/6" TITLE : pa review: tags BODY : - x backend: db, model, controller, views - x redux loop: ajax, actions, reducer - x presentational components - x styling - x smooth, bug-free navigation - x adequate and appropriate seeds

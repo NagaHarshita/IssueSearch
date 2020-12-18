@@ -1,0 +1,1 @@
+ URL : "https://github.com/mapmapteam/mapmap/issues/357" TITLE : segfault when no x11 BODY : when we run mapmap on a gnu/linux host without a x11 environment, it segfaults. segmentation fault core dumped instead, it should display an error message saying that it requires a x11 environment.

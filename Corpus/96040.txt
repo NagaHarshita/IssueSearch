@@ -1,0 +1,1 @@
+ URL : "https://github.com/SICASFoundation/smir-board/issues/20" TITLE : dublicated folders via api BODY : it is possible to create folders with the same name and the same parent folder.

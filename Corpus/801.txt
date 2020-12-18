@@ -1,0 +1,1 @@
+ URL : "https://github.com/conda-forge/julia-feedstock/issues/3" TITLE : os x build BODY : is there a major obstacle for an os x build? i guess a windows build would be more difficult and require msys2 dependencies.

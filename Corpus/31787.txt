@@ -1,0 +1,1 @@
+ URL : "https://github.com/Rukhsar/laravel-active-route/issues/1" TITLE : support laravel 5.4 BODY : laravel 5.4 is out.! i think this package can easily support it, maybe it's only a matter of adjusting the composer.json file?

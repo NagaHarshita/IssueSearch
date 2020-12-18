@@ -1,0 +1,1 @@
+ URL : "https://github.com/hkhosrav/RiPPLE-Server-side/issues/3" TITLE : question database seeding BODY : there is currently no easy way to populate the database with data for use in the application. as a temporary solution to this, create a database seeder which populates the schema with correct data to simulate real data

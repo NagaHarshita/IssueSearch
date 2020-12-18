@@ -1,0 +1,1 @@
+ URL : "https://github.com/grails-plugins/grails-spring-security-core/issues/501" TITLE : login/auth not found BODY : grails 3.2.11. default rest app. default security core plugin s2-quickstart layout. trying access localhost:8080 redirects to /login/auth, but error message not found. debugging, the flow doesn't step into logincontroller.

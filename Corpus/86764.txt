@@ -1,0 +1,1 @@
+ URL : "https://github.com/shakyink/dotfile/issues/2" TITLE : import atom configuration BODY : atom is my editor of choice. i need to import the .apm configuration to bootstrap my editor on different machines as well as keep track of changes that i make to my editor's source code.

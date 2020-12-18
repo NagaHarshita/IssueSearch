@@ -1,0 +1,1 @@
+ URL : "https://github.com/cordialgerm/FluentCache/issues/4" TITLE : support for .net standard BODY : currently, it is possible to run this library in compatibility mode for .net standard 2.0. it will be nice to port it to .net standard to make it cross platform.

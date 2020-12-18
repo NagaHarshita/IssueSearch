@@ -1,0 +1,1 @@
+ URL : "https://github.com/P1514/Diversity/issues/176" TITLE : polaridade a 0 BODY : decrementar a função totalcomments quando se recebe um comment que já existia na base de dados. verificar também que se faz o mesmo para likes e views

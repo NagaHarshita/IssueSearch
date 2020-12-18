@@ -1,0 +1,1 @@
+ URL : "https://github.com/lucified/lucify-example-visualization/issues/1" TITLE : yarn start script issue BODY : i am on macos, i had to change 0.0.0.0 to localhost in order to launch the demo. great stuff by the way!

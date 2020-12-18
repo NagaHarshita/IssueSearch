@@ -1,0 +1,1 @@
+ URL : "https://github.com/barneygale/quarry/issues/39" TITLE : pack slot data? BODY : hi, barney, how to send set_slot , in your library there is no such as pack_slotdata , but there is unpack_slot . how can i send it? http://wiki.vg/protocol set_slot

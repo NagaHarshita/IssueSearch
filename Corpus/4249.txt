@@ -1,0 +1,1 @@
+ URL : "https://github.com/mikec964/meeple-matcher/issues/6" TITLE : batch load xml BODY : call function with a list of games to load. it returns the number loaded. loop until you're happy because you're out of time, you've loaded them all, or you've loaded enough. make as many api calls at once as possible. load games when available and make remaining api calls.

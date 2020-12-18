@@ -1,0 +1,1 @@
+ URL : "https://github.com/robgjansen/onionperf/issues/32" TITLE : remove twistd web server BODY : stop serving tpf files with onionperf using the twistd web server. the user can choose to make them available by other means, e.g., nginx.

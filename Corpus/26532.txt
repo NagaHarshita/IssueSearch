@@ -1,0 +1,1 @@
+ URL : "https://github.com/MD-Studio/cerise/issues/53" TITLE : better per-job logs BODY : right now the job log is just the output of the remote cwl runner. it should also include messages about submission, staging, and destaging.

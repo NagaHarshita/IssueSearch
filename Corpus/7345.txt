@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpenThink-Labs/SistemInformasiBankSoal/issues/87" TITLE : fitur trash bin BODY : 1. ketika soal dihapus, soal dipindahkan ke tabel trash 2. struktur dan format data history_soal diperbaiki agar kompatibel dengan format data trash

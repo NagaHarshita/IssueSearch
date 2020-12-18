@@ -1,0 +1,1 @@
+ URL : "https://github.com/molbiodiv/fennec/issues/117" TITLE : fix wrong commands BODY : at the moment the commands listwebuser and createwebuser are not up to date. they should be updated in order to list all fennecusers and create new fennecusers.

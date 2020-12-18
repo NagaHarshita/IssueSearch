@@ -1,0 +1,1 @@
+ URL : "https://github.com/fostermadeco/ansible-roles/issues/10" TITLE : update sqlsrv task BODY : freetds needs to be built from source to avoid ssl cipher incompatibilities that cause intermittent connection failures

@@ -1,0 +1,1 @@
+ URL : "https://github.com/buxlabs/es6-to-amd/issues/32" TITLE : export default array bug BODY : js export default foo , bar ; results with js define foo , bar ; and the expected result is: js define function { return foo , bar ; } ;

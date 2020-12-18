@@ -1,0 +1,1 @@
+ URL : "https://github.com/cBioPortal/iViz/issues/557" TITLE : header for a virtual study BODY : there is no header for a virtual study. we should display the study name and description just the same as a real study. and the query this study button is not working.

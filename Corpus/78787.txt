@@ -1,0 +1,1 @@
+ URL : "https://github.com/ecurtin/spark-bench/issues/40" TITLE : reinstate workload tests BODY : as a matter of convenience, the workload package tests go commented out during a big refactor, and they need to be rewritten and/or reinstated.

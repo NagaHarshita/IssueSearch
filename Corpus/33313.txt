@@ -1,0 +1,1 @@
+ URL : "https://github.com/jantaylor/road-home-time-tracker/issues/52" TITLE : add groups to models BODY : we need to model a group and hours for a group as per adam's request. a one time group should be able to record information for a contact person, the name of the organization the group is with, and the number of people in the group.

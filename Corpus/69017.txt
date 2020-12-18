@@ -1,0 +1,1 @@
+ URL : "https://github.com/Mimetis/Dotmim.Sync/issues/32" TITLE : sqlite and guid storage BODY : hello sebastien, do you see any chance to introduce a switch maybe by recompiling the code my own to store guids in sqlite as char? my clients do not support guid-blob out of the box and i would be a lot of work to change. thanks reinhold

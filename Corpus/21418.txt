@@ -1,0 +1,1 @@
+ URL : "https://github.com/NetHome/ZWave/issues/5" TITLE : fibaro door sensor BODY : hi @stefangs i have just added fibaro door sensor by your implementation. i need to command to query the status of it whether it is on door open or off door closed . thanks in advance.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jeckel/iotapi-server/issues/5" TITLE : distinct multiple probes BODY : we need to be able to have distinct probe with each of them its load of values. to do : - in mqtt paylaod, add a probe identifier - when recording value, extract this probe identifier and save it with the value replace the actual topic value

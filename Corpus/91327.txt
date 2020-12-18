@@ -1,0 +1,1 @@
+ URL : "https://github.com/bem-site/bem-method/issues/575" TITLE : the modifiers are not bem BODY : this is not the bem way of writing modifiers. the whole point of bem is to write it as one class name: block__element-- modifier ! https://en.bem.info/methodology/css/ modifiers

@@ -1,0 +1,1 @@
+ URL : "https://github.com/dataversioncontrol/dvc/issues/122" TITLE : not common command options BODY : $ dvc target -h usage: dvc.py target -h --quiet --verbose --jobs jobs --no-git-actions -u --quiet --verbose --jobs jobs are not common options.

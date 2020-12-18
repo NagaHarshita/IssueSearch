@@ -1,0 +1,1 @@
+ URL : "https://github.com/Still34/DirectorySlut/issues/8" TITLE : add a nickname check BODY : members who have a profile and partner s or looking for partner emoji in their names shouldn't get the emoji erased when they manually modify the nickname. hook guildmemberupdated with a check to fix this.

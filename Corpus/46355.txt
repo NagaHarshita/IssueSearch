@@ -1,0 +1,1 @@
+ URL : "https://github.com/jupyter/repo2docker/issues/136" TITLE : make a v0.4.2 release BODY : someone should make a release and point that as new default in https://github.com/jupyterhub/binderhub/blob/master/binderhub/app.py l158. we should also use this as an opportunity to make sure that everyone has permissions on pypi and the release process is documented.

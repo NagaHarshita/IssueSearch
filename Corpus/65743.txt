@@ -1,0 +1,1 @@
+ URL : "https://github.com/commons-app/apps-android-commons/issues/659" TITLE : language desc templates BODY : there is no possibility to change lang in which you are writing desc of the file + you are unable to provide translation of desc into more langs see the diff, new version is ideal one: https://commons.wikimedia.org/w/index.php?diff=244785629

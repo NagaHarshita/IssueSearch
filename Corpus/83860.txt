@@ -1,0 +1,1 @@
+ URL : "https://github.com/emfoundation/ce100-app/issues/1063" TITLE : comment text not wrapping BODY : when writing a long line of text, the text doesn't wrap but keeps flowing outside of the comment box area.

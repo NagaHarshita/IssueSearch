@@ -1,0 +1,1 @@
+ URL : "https://github.com/antonburger/FuncTracer/issues/3" TITLE : add texturing support BODY : starting with just colours, but ideally also some form of bump mapping to allow surface normals to be manipulated prior to shading.

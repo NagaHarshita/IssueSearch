@@ -1,0 +1,1 @@
+ URL : "https://github.com/TheMallen/typed-css-modules/issues/6" TITLE : add a --parser option BODY : ftcm should allow you to choose whether you want to try to parse your css files with the css-core-loader, sass, or with simple regexes. this would allow you to tailor your use of it to your project's needs.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/panzerdp/clipboardy/issues/9" TITLE : how do you add another url BODY : hi nice extension! i'm wondering how i can add my blog as a domain that the extension will work for. i tried adding to documenturlpatterns in controller.js and it doesn't appear to work. my blog uses <code> tags.

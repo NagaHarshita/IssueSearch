@@ -1,0 +1,1 @@
+ URL : "https://github.com/GHPReporter/Ghpr.Core/issues/53" TITLE : escape test message BODY : test message should be escaped before displaying, atm, i can experience issues with <> characters. e.g. json source testmessage : a<b results in displaying message: a

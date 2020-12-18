@@ -1,0 +1,1 @@
+ URL : "https://github.com/reliese/laravel/issues/13" TITLE : issue by generate models BODY : hello, i´m getting this error, when i try to generate the models: call to undefined method illuminate\database\mysqlconnection::setfetchmode maybe you can help me?! thank you very much!

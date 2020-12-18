@@ -1,0 +1,1 @@
+ URL : "https://github.com/luisiam/homebridge-liftmaster2/issues/28" TITLE : publish to npm? BODY : running npm i homebridge-liftmaster2 installs the very old 0.1.0 version of this package that is no longer working. could you publish the latest version of this package to npm for easier installation? thank you in advance.

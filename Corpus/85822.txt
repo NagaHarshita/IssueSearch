@@ -1,0 +1,1 @@
+ URL : "https://github.com/coreypotter/kindling/issues/14" TITLE : footer page embed options BODY : want the ability to insert elementor templates instead of only pages. currently there is a dropdown populated by pages, but i want this to be populated by the elementor layout cpt. alternatively, this could be a textbox that accepts a shortcode for the elementor template

@@ -1,0 +1,1 @@
+ URL : "https://github.com/weijianwen/SJTUThesis/issues/183" TITLE : bicaption in longtable BODY : 我想在longtable 环境中用 \bicaption 命令，但是好像不能用。这里说好像是一个bug: http://tex.stackexchange.com/questions/283980/bicaption-for-longtables-doesnt-work url ，并且提供了一个解决方案（最后一条回答），解决方案是更新 bicaption 这个包，而模板里用的是 ccaption 包里面定义的bicaption 好像是 。所以当我试图 \usepackage{bicaption} 的时候遇到了重定义的问题，应该怎样解决？

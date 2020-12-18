@@ -1,0 +1,1 @@
+ URL : "https://github.com/mkloubert/vs-media-player/issues/6" TITLE : spotify web api BODY : there is a simpler way to authorize your extension without dyndns and port forwarding. just use http://localhost as the redirect url. maybe if the authentication process is easier and better documented more users will use the extension.

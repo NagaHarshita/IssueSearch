@@ -1,0 +1,1 @@
+ URL : "https://github.com/PyAr/fades/issues/276" TITLE : show venv info BODY : there are times that i want info about a venv, i'd love to be able to do: fades -r reqs.txt -something and it would just give me info of the venv chosen by fades. i normally need the id, or the path, but maybe we could also show what packages are really installed there, etc. is it worth it?

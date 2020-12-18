@@ -1,0 +1,1 @@
+ URL : "https://github.com/Lrcezimbra/subscriptions/issues/21" TITLE : add field payment status BODY : field payment_status with choices confirmed, pending, unpaid, canceled

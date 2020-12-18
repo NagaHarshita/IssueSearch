@@ -1,0 +1,1 @@
+ URL : "https://github.com/rheem-ecosystem/rheem/issues/22" TITLE : add sampling to the apis BODY : _from @sekruse on august 29, 2016 11:1_ we have the sampleoperator in the basic plugin, but it's not reflected in the api. it should be added. also, it would be nice if there was no need to make specifying the sampling method optional. _copied from original issue: daqcri/rheem 20_

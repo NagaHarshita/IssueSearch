@@ -1,0 +1,1 @@
+ URL : "https://github.com/aholstenson/miio/issues/12" TITLE : could not get vacuum type BODY : i run miio --discover, it shows below, and not able to get the type of vacuum device id: 55353665 model id: unknown type: undefined address: 192.168.2.251 rockrobo token: null support: unknown

@@ -1,0 +1,1 @@
+ URL : "https://github.com/primefaces/primereact/issues/139" TITLE : sticky mode for growl BODY : in sticky mode, messages stay but in non sticky mode they fade out after the timeout defined by life property.

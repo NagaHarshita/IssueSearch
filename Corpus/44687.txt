@@ -1,0 +1,1 @@
+ URL : "https://github.com/arkal/rankboost/issues/7" TITLE : fix bug in collapsing BODY : 'enst1231.1_s123k,enst1211.1_s143k_k146s' raises error instead of returning s>k+2x+k>s

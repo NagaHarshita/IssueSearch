@@ -1,0 +1,1 @@
+ URL : "https://github.com/unfoldingWord-dev/td/issues/21" TITLE : refine main page list BODY : the list of languages on the main page will be too long if we put all 7k on there. i think we should list the regions on the main index page and then list the languages under each region. this will affect navigation in the sidebar too.

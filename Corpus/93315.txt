@@ -1,0 +1,1 @@
+ URL : "https://github.com/TruputiGalvotas/task/issues/15" TITLE : add property modification? BODY : consider adding functions to handle property modification. for example adding deadline should check if it's > today - consider this..

@@ -1,0 +1,2 @@
+ URL : "https://github.com/tmulry/IssueLoaderPlayground/issues/75" TITLE : component: teaser grid BODY : 1. supports three required teasers.
+1. content editors will be able to edit: - headline required 1. for each teaser content editors will be able to edit the following: - background image image tint overlay will be applied by the cms - headline - rich text - button

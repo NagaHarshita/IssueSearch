@@ -1,0 +1,1 @@
+ URL : "https://github.com/LLNL/spack/issues/5400" TITLE : tcl modules question BODY : is there a way to add mpi version to the tcl module filename? i found this in the documentation: suffixes: '^openmpi': openmpi '^mpich': mpich but what if the same software was built with a different mpi flavor. thanks.

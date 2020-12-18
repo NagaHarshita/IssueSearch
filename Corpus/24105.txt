@@ -1,0 +1,1 @@
+ URL : "https://github.com/Spferical/MedicalRL/issues/1" TITLE : segfault on launch BODY : i'm running lubuntu 16.10 on a 64-bit laptop. using medicalrl-v1.1-linux.zip , when i run python3.6 main.py or python3.5 main.py , i get: 24 bits font. key color : 0 0 0 character for ascii code 255 is colored zsh: segmentation fault core dumped python3. x main.py

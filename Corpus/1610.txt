@@ -1,0 +1,1 @@
+ URL : "https://github.com/Engineering-Course/LIP_SSL/issues/9" TITLE : ask for help BODY : set up your init.caffemodel before training and test.caffemodel before testing. you can simply use a soft link. 这句话的意思是需要把code里面的caffe想编译一遍么

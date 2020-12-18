@@ -1,0 +1,1 @@
+ URL : "https://github.com/zcoinofficial/zcoin/issues/136" TITLE : stuck on block 60032 BODY : node v0.13.3.1 is stuck on block 60032 tried to reindex, still cannot get passed this block.

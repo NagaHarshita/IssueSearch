@@ -1,0 +1,1 @@
+ URL : "https://github.com/fritzing/fritzing-app/issues/3328" TITLE : fab-calculation no preview BODY : the fritzing fabrication button in the pcb-view does not show any kind of order-cost-preview. this should be fixed

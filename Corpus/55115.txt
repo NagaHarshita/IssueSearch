@@ -1,0 +1,1 @@
+ URL : "https://github.com/izishared/prinston_algorithms/issues/16" TITLE : implement string stack BODY : you have to implement stackofstrings class with following interface: constructor stackofstrings void push string string ; string pop ; boolean isempty ; int size ;

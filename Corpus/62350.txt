@@ -1,0 +1,1 @@
+ URL : "https://github.com/livepeer/go-livepeer/issues/184" TITLE : clean up /tmp directory BODY : currently the livepeer node writes video segments into the /tmp directory but never cleans it up. we should clean up the segments when the video is terminated.

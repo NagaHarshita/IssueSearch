@@ -1,0 +1,1 @@
+ URL : "https://github.com/singularityhub/sregistry/issues/22" TITLE : container tag replacement BODY : hey @dctrud are the tags for your biocontainers originally containing slashes, and they are replaced with - ? i think we would want to either replace with something else, or just ensure there is only one slash two slashes look weird

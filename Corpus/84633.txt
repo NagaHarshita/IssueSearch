@@ -1,0 +1,1 @@
+ URL : "https://github.com/lazerwalker/clojurescript-koans/issues/28" TITLE : destructuring 7 wont pass BODY : def test-address {:street-address 123 test lane :city testerville :state tx } = test testerson, 123 test lane, testerville, tx apply str apply str interpose %1 , apply str interpose , map val %2 test testerson test-address

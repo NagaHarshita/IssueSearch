@@ -1,0 +1,1 @@
+ URL : "https://github.com/quikdraw2700/quickdraw/issues/8" TITLE : test coverage tool BODY : find a good test coverage tool. criteria: 1. good reporting 2. allows a wide range of frameworks junit + mocha + testng + etc 3. integrates well with build/ci/ide/etc

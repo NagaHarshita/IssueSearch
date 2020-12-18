@@ -1,0 +1,1 @@
+ URL : "https://github.com/Tessil/hopscotch-map/issues/9" TITLE : vs c4503 warning BODY : when i try to use tsl::hopscotch_map instead of std::unordered_map i often end up with vs c4503 warning. do you have any good bkms on how to handle such issues?

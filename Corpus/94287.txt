@@ -1,0 +1,1 @@
+ URL : "https://github.com/socketio/socket.io-client/issues/1160" TITLE : bump debug module to 3.1.0 BODY : regular expression denial of service affecting debug <= 3.1.0 . because of this, it prevents all the modules using express and nsp check to pass the security checks.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/geut/postcss-copy/issues/52" TITLE : copy all files BODY : now option src is required. but if someone want to copy all files? of course, src: '/' is an option as workaround, but it looks like a hack maybe better to define src as an optional?

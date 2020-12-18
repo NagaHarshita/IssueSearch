@@ -1,0 +1,1 @@
+ URL : "https://github.com/khaledev/ADT/issues/6" TITLE : add support for ndk r14b BODY : with ndk r14b, includes are not added automatically after compilation includes in c/c++ general -> paths & symbols

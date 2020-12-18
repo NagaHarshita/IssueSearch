@@ -1,0 +1,1 @@
+ URL : "https://github.com/discos/simulators/issues/90" TITLE : implement the idn command BODY : as described in 88, when the if distributor gets the command idn? , it returns the if distributor name, and its hardware and firmware versions i.e. srt if distributor 4.6.5 5.4.3 .

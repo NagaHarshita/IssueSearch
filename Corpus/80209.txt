@@ -1,0 +1,1 @@
+ URL : "https://github.com/paritytech/bridge/issues/6" TITLE : tests for api::logstream BODY : similar to rust-web tests https://github.com/tomusdrw/rust-web3/blob/9dabf9be5cfa8a8b5df67182e3f30bd8a419bd72/src/api/eth_filter.rs l424-l444

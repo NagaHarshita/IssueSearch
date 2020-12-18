@@ -1,0 +1,1 @@
+ URL : "https://github.com/kubernetes-incubator/reference-docs/issues/31" TITLE : generate cli docs for kops BODY : what would it take? we are using the old school format for markdown.

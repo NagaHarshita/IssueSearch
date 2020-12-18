@@ -1,0 +1,1 @@
+ URL : "https://github.com/rjusher/django-helpdesk/issues/6" TITLE : decode base64 string error BODY : def decode_base64 data : decode base64, padding being optional. :param data: base64 data as an ascii byte string :returns: the decoded byte string. missing_padding = len data % 4 if missing_padding != 0: data += b'=' 4 - missing_padding return base64.decodestring data

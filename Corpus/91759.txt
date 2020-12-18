@@ -1,0 +1,1 @@
+ URL : "https://github.com/joinfaces/joinfaces/issues/251" TITLE : update checkstyle configs BODY : - upgrade to latest spring boot checkstyle configs. - discuss some styles.

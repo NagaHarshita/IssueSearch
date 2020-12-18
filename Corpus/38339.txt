@@ -1,0 +1,1 @@
+ URL : "https://github.com/Krzmbrzl/SQDev/issues/120" TITLE : parsing extreme slow BODY : the parsing of sqf files is extremely slow when used on files that contain big blocks of inline code

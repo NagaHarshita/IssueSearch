@@ -1,0 +1,1 @@
+ URL : "https://github.com/processing/processing/issues/5319" TITLE : installation path rpi3 BODY : hi, i need to find the stdout.txt to read my processing console. but i can't seem to find the installation path of processing to find this file? is this possible on rpi3 installation?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Mashape/kong/issues/2472" TITLE : kong check default path BODY : kong check command from cli searches default conf only in /etc/kong.conf . is right? why not also /etc/kong/kong.conf like here https://getkong.org/docs/0.10.x/configuration/ configuration-loading .

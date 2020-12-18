@@ -1,0 +1,1 @@
+ URL : "https://github.com/openmhealth/omh-dsu-ri/issues/16" TITLE : raml file question BODY : hi is the raml file about data-point api up to date? we use this file with https://studio.restlet.com/apis/local/info and we receive an error when generating api for java android sdk. please could you give us information about this? thanks

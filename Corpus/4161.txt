@@ -1,0 +1,1 @@
+ URL : "https://github.com/poush/statiko/issues/1" TITLE : add yml parser BODY : this parser will be used to modify .travis.yml to add various options like before_install after_success git_repo

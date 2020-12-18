@@ -1,0 +1,1 @@
+ URL : "https://github.com/amphp/mysql/issues/56" TITLE : error code in queryerror BODY : can't you pass the error code to the queryerror like in http://php.net/manual/de/mysqli.errno.php or maybe sth more interoperable with pgsql, like an queryexecutionerror?

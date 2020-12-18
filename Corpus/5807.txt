@@ -1,0 +1,1 @@
+ URL : "https://github.com/azu/faao/issues/59" TITLE : sync with gist BODY : we want to add sync feature betweetn a pc <-> b pc <-> c mobile. we can use gist as backup data place - encrypt exported data with pass phase - import data and decrypt with pass phase we want to get safe-crypt api.

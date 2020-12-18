@@ -1,0 +1,1 @@
+ URL : "https://github.com/justinmk/vim-dirvish/issues/69" TITLE : error in docs BODY : https://github.com/justinmk/vim-sneak/blob/f00084c6f9e28e8836c3e4b5dc7e255098843a10/doc/sneak.txt l36 wouldn't you need to press 'ssi' again?

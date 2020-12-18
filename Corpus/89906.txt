@@ -1,0 +1,1 @@
+ URL : "https://github.com/skeeto/emacs-web-server/issues/16" TITLE : replacing default servlet BODY : this is more a request for clarification than an issue: to replace the default/root servlet, one needs to use defun to redefine httpd/ , and the defservlet macros are useless there, am i correct? thanks!

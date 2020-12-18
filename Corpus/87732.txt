@@ -1,0 +1,1 @@
+ URL : "https://github.com/Praqma/docker-image-size-checker/issues/2" TITLE : make output more readible BODY : as discussed in praqma/praqma.com 449 and praqma/docker-linkshecker 1 we need to make this output more usefule

@@ -1,0 +1,1 @@
+ URL : "https://github.com/halfghaninne/wtfisittoday/issues/10" TITLE : add administrate gem BODY : all model creation should be done on an administrative back end, except for call creation which happens when a site user clicks the i made the call button and user creation which happens at first login from third-party service

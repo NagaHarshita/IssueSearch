@@ -1,0 +1,1 @@
+ URL : "https://github.com/directus/directus/issues/1548" TITLE : error on settings>global BODY : error error: uncaught typeerror: parentmodel.istracking is not a function file: http://admin.jcc.rngr.org/app/core/interfaces/single_file/interface.js?bust=ca9a9545b2884ddaea0be201e0c46eb135a0445e line:256

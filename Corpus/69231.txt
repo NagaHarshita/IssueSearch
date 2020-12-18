@@ -1,0 +1,1 @@
+ URL : "https://github.com/30x/kiln/issues/92" TITLE : support docker registry BODY : need to create a registry sdk pkg for use in kiln interface this sdk needs to support a private docker registry & google container registry need to create an implementation of the kiln interface using the registry sdk addresses 87, and shipyard 6 https://github.com/30x/shipyard/issues/6

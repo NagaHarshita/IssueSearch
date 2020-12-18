@@ -1,0 +1,1 @@
+ URL : "https://github.com/pupnewfster/Lavasurvival/issues/117" TITLE : janet slack commands BODY : we should refactor them both here and in the main necessities to have some sort of converter, or be stored with the command file of that command, instead of having duplicated code so that it formats correctly on slack.

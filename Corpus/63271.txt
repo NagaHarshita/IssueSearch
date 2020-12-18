@@ -1,0 +1,1 @@
+ URL : "https://github.com/eez-open/psu-firmware/issues/121" TITLE : displaying zero current BODY : when no load is connected displayed current value could switch from 0.000a to 0ma.

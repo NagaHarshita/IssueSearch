@@ -1,0 +1,1 @@
+ URL : "https://github.com/dceddia/create-react-app-customized/issues/1" TITLE : problem with rewiremodule BODY : package.json json proxyquire : ^1.8.0 , react-scripts : 1.0.7 , rewire : ^2.5.2 error undefined:1 config = arguments.varvalue; ^ typeerror: assignment to constant variable.

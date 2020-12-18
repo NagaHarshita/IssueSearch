@@ -1,0 +1,1 @@
+ URL : "https://github.com/cppocl/buffer/issues/7" TITLE : add buffer template class BODY : the memory class will be used in a similar way to an allocator for the buffer class, and the buffer class will have a comprehensive interface similar to vector, but with extra features not available within the stl.

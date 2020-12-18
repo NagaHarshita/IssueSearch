@@ -1,0 +1,1 @@
+ URL : "https://github.com/ucdavis/Anlab/issues/309" TITLE : order form changes BODY : reorder the order form ; clientid is the first thing we ask then client type uc or external then project title, commodity, additional emails. then quantity then sampletype, with related questions then additional information finally, the actual tests themselves.

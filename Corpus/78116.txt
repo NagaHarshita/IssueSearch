@@ -1,0 +1,1 @@
+ URL : "https://github.com/firasdib/Regex101/issues/858" TITLE : php 7.0.3 evals to false BODY : i tried the following and in your site it returns true but in php 7.0.3 it evals to false preg_match 'rrr',' . \1{2}' string 3 rrr <br /> <b>warning</b>: preg_match : delimiter must not be alphanumeric or backslash in <b> ... ... </b> on line <b>7</b><br /> bool false

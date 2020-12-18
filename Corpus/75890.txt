@@ -1,0 +1,1 @@
+ URL : "https://github.com/ve12sus/threeway/issues/66" TITLE : implement image fallback BODY : <img width= 340 alt= image src= https://user-images.githubusercontent.com/973029/34390091-66861712-eaf2-11e7-8808-88a13113cfcb.png > when there's a missing image implement the image fallback. the logo for this is on styleguide and you can see how it's implemented in components

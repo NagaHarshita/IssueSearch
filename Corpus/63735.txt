@@ -1,0 +1,1 @@
+ URL : "https://github.com/jpuri/html-to-draftjs/issues/33" TITLE : error when parsing link BODY : hi, i have an error if the string that i try to parse contains <a></a> tags even with no href attributes e.g. import htmltodraft from 'html-to-draftjs'; htmltodraft '<p>www <a>site</a> </p>' ; error i get: typeerror: n.entity.__create is not a function

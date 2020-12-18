@@ -1,0 +1,1 @@
+ URL : "https://github.com/NeowayLabs/nash/issues/160" TITLE : language: support to defer BODY : shell has a crappy support to cleanup using traps, a good use case is to remove temporary directories: file=$ mktemp file.xxxxxxx trap rm -f $file exit rest of the shell script nash can be more awesome: file <= mktemp file.xxxxxxx defer fn { rm -f $file } rest of the shell script

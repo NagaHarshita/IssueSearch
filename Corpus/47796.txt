@@ -1,0 +1,1 @@
+ URL : "https://github.com/fwinkelbauer/Cake.VsMetrics/issues/1" TITLE : publish nuget package BODY : @gep13 i think i'm done with the overall implementation of my addin. can you please walk me through the publish process? i'd like to follow your suggestions concerning @cake-contrib organization on github and package maintainer

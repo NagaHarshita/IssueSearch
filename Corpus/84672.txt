@@ -1,0 +1,1 @@
+ URL : "https://github.com/travisjeffery/jocko/issues/58" TITLE : different logging library BODY : is there a reason for using travisjeffery/simplelog library for logging? logrus would give us much more logging features. for jocko specific, i think different logging levels and logging output options that logrus provides would come in handy.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/minishift/minishift-addons/issues/4" TITLE : create fabric8 add-on BODY : moved from https://github.com/minishift/minishift/issues/1034 lets create an addon so its easy to install fabric8 into minishift from the command line.

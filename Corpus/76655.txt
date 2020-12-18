@@ -1,0 +1,1 @@
+ URL : "https://github.com/felixzapata/gulp-pug-i18n/issues/1" TITLE : locale name return blank BODY : in example in readme, {$localename} return blank. body h1 {$i18n.hello.world}! p using locale {$localename} how to get name of locale in file?

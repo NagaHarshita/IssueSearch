@@ -1,0 +1,1 @@
+ URL : "https://github.com/tpoulsen/generate-component/issues/27" TITLE : add version to help BODY : add the current version number to the help message, or add a version subcommand.

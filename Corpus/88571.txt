@@ -1,0 +1,1 @@
+ URL : "https://github.com/ihodev/a-file-icon/issues/122" TITLE : not working after install BODY : hi. i installed package, restarted sublime, but nothings working. then i tried follow sublime text → preferences → package settings → a file icon → clean patches , but i don't have that menu, a file icon has no dropdown options! ubuntu 16.04. default theme.

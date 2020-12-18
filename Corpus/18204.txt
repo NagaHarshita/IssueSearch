@@ -1,0 +1,1 @@
+ URL : "https://github.com/ZhuangLab/storm-control/issues/54" TITLE : stage zeroing bug BODY : if the stage is moving/drifting then it can be difficult to zero it.

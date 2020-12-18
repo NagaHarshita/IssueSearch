@@ -1,0 +1,1 @@
+ URL : "https://github.com/bshaffer/oauth2-server-httpfoundation-bridge/issues/27" TITLE : rename oauth2 namespace BODY : i am creating an api with oauth2.0. for the access grant i use your library bshaffer/oauth2-server-php https://github.com/bshaffer/oauth2-server-php . this library is also in the oauth2 namespace. in some cases this can cause a bug.

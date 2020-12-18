@@ -1,0 +1,1 @@
+ URL : "https://github.com/nawissor/stomer/issues/89" TITLE : st omer database BODY : create the st. omer database and a admin user and provoke all privileges for the user. create another user called st_user and only enable necessary privileges. name the db gxeuaurh_stomer

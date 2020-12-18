@@ -1,0 +1,1 @@
+ URL : "https://github.com/y4nnick/android_streaming/issues/2" TITLE : facebook live api BODY : hello @y4nnick i am a developer trying to use facebook live's api on an android app. i noticed this app and the way you set it up and wanted to ask how exactly video stream is encoded into an rtmp stream and uploaded to an endpoint to connect it to facebook live. thank you!!

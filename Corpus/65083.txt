@@ -1,0 +1,1 @@
+ URL : "https://github.com/igneus/calendarium-romanum/issues/14" TITLE : implement calendar each BODY : iterating over days of the liturgical year, yielding day instances.

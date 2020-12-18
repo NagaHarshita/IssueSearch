@@ -1,0 +1,1 @@
+ URL : "https://github.com/MazeMap/Leaflet.LayerGroup.Collision/issues/12" TITLE : add smooth transitions BODY : would be great to have smooth transitions fade in / fade out . maybe adding a css class to colliding/hidden elements or using a callback on collision could be alternative solutions to this instead of removing the entire element from dom. cheers.

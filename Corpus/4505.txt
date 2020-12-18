@@ -1,0 +1,1 @@
+ URL : "https://github.com/national-voter-file/national-voter-file-api/issues/6" TITLE : delete a voter BODY : delete https://api.nationalvoterfile.org/v1/voters/d32fcdd6-7366-466d-a3b8-7e0d87c3cd8b { notice : this person was successfully deleted. } you should only be able to delete voters your own campaign has added.

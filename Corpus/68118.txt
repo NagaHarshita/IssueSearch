@@ -1,0 +1,1 @@
+ URL : "https://github.com/ibpsa/modelica/issues/720" TITLE : remove default stoptime BODY : this issue is to remove the default stoptime=1.0 from the experiment annotation of modelica models

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jaesik817/adv_attack_capsnet/issues/5" TITLE : rgb dataset 224 224 BODY : how can we use ur code in other rgb dataset? suppose the structure of dataset is like that. it contains some sub-folder. each sub-folder represents one class. class a: 0001.jpg 1 0002.jpg 1 class b: 0001.jpg 2 0002.jpg 2

@@ -1,0 +1,1 @@
+ URL : "https://github.com/evansmwendwa/ng2-daterangepicker/issues/70" TITLE : same as 69 parentel? BODY : i declared daterangepicker in my components, but datepickerrange component is outside of app-root it's in 1st level of body tag . it causes scroll problem. after make it open, then scroll it, picker components is not sticked to input tags.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/fugazi-io/webclient/issues/24" TITLE : add npm start BODY : the following commands are needed to setup the project and run it: cd webclient; npm i; tsc -p scripts; tsc -p modules/scripts; python -m simplehttpserver or anything else to serve static files

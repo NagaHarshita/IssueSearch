@@ -1,0 +1,1 @@
+ URL : "https://github.com/ghidoz/angular2-jsonapi/issues/83" TITLE : array sent as object BODY : after update to v3.5.1, array is sent as object on request. jsonapidatastore.findall myclass, { arrayparam: 4, 5, 6 } // is sent /my_uri?arrayparam 0 =4&arrayparam 1 =5&arrayparam 2 =6 // the correct is /my_uri?arrayparam =4&arrayparam =5&arrayparam =6

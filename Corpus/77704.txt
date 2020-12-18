@@ -1,0 +1,1 @@
+ URL : "https://github.com/pbreuss/wikitude-ionic-2-starter-app/issues/8" TITLE : not working - blank page BODY : hi guys, as per previous issue app.module.ts already contains browsermodule . my page still blank under ios. any ideas? cheers

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Pure-D/code-d/issues/130" TITLE : wrong path to dscanner BODY : d.dscannerpath : c:\\users\\jin\\.vscode\\extensions\\webfreak.code-d-0.16.2\\bin\\dscanner\\dscanner.exe , should be: d.dscannerpath : c:\\users\\jin\\.vscode\\extensions\\webfreak.code-d-0.16.2\\bin\\dscanner\\bin\\dscanner.exe ,

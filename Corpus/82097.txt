@@ -1,0 +1,1 @@
+ URL : "https://github.com/zooniverse/wildcam-gorongosa-education/issues/321" TITLE : add filter for classrooms BODY : the classrooms need to be filtered to only return classrooms that are not linked to a program since the eduapi is now used for many programs: wildcam gorongosa, wildcam darien, and astro 101 with galaxy zoo.

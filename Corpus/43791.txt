@@ -1,0 +1,1 @@
+ URL : "https://github.com/metarhia/metalog/issues/5" TITLE : deprecate custom logs BODY : in metalog unlike old impress logger you cant configure custom log files or new custom log levels, everything will be fixed, see 4 for detains.

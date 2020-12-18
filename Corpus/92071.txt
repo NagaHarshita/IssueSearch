@@ -1,0 +1,1 @@
+ URL : "https://github.com/jhnns/rewire/issues/109" TITLE : using __with__ with class BODY : const servermocks = { dosomeaction: => { console 'test 123' ; }, dosomeaction2: => { console 'test 123' ; }, }; server.__with__ servermocks => { chai.request server .post muurl } original dosomeaction action in server fired not rewired mock. how do you use __with__ in this scenario?

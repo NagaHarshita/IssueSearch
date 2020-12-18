@@ -1,0 +1,1 @@
+ URL : "https://github.com/pigpagnet/save-telegram-chat-history/issues/35" TITLE : calls break the extension BODY : hi, thanks for the great extension! unfortunately, this extension can only save messages until it reaches the first telegram call information such as missed call . after that, the timer keeps increasing, but nothing happens. thanks!

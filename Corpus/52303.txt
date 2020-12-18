@@ -1,0 +1,1 @@
+ URL : "https://github.com/9corp/9volt/issues/102" TITLE : check distribution bug BODY : ran into a difficult to reproduce bug where a member can sometimes get a reference for a check that is already being monitored by another member. not sure on the origin of the bug; will research and document here.

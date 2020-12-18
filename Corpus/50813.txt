@@ -1,0 +1,1 @@
+ URL : "https://github.com/ChurchCRM/CRM/issues/3033" TITLE : add api key for access BODY : we should use an api key for the public endpoints so that requests have rough authentication. applications relying on our api would then cache the api key for their requests.

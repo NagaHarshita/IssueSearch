@@ -1,0 +1,1 @@
+ URL : "https://github.com/alexandre-spieser/mongodb-generic-repository/issues/1" TITLE : context as interface BODY : why didn't you consider context as an interface? because i think if you consider it as an interface it will decoupling and decrease dependencies and you can do unit testing and mocking im rookie and plz clear me if i am wrong

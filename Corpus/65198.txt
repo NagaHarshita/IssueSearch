@@ -1,0 +1,1 @@
+ URL : "https://github.com/sleddog/pool/issues/2" TITLE : improve ball collisions BODY : there are a few ways to cause odd collisions. this ticket will track improving the main collision detecting and resolution functions.

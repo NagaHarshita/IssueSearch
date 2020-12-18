@@ -1,0 +1,1 @@
+ URL : "https://github.com/hashdd/pyhashdd/issues/7" TITLE : add module to support tlsh BODY : add new module that implements tlsh support. implementation can be found here: https://github.com/trendmicro/tlsh

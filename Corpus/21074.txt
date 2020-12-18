@@ -1,0 +1,1 @@
+ URL : "https://github.com/lesniakania/react-native-draggable-board/issues/6" TITLE : dragging card bugs BODY : when dragging a card vertically it gets stuck and instead the scrollview starts to scroll. however if i keep the drag just in the x-axis it seems to work fine.

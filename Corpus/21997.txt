@@ -1,0 +1,1 @@
+ URL : "https://github.com/ballerinalang/ballerina/issues/3954" TITLE : http http2 support BODY : both server and client connectors need to support this.

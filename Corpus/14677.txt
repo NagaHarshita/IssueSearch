@@ -1,0 +1,20 @@
+ URL : "https://github.com/thruthesky/sonub/issues/180" TITLE : bug - olx crawler BODY : return-path: <sonub@x2.localdomain>
+x-original-to: sonub
+delivered-to: sonub@x2.localdomain
+from: cron daemon <sonub@x2.localdomain>
+to: sonub@x2.localdomain
+subject: cron <sonub@x2> cd /home/sonub/www/wp-content/plugins/xapi-2/cron; /usr/bin/php cron-olx-crawler.php
+content-type: text/plain; charset=utf-8
+auto-submitted: auto-generated
+precedence: bulk
+x-cron-env: <xdg_session_id=59352>
+x-cron-env: <xdg_runtime_dir=/run/user/1002>
+x-cron-env: <lang=en_us.utf-8>
+x-cron-env: <shell=/bin/sh>
+x-cron-env: <home=/home/sonub>
+x-cron-env: <path=/usr/bin:/bin>
+x-cron-env: <logname=sonub>
+x-cron-env: <user=sonub>
+date: fri, 8 sep 2017 18:55:11 +0800 pht status: r php fatal error: uncaught invalidargumentexception: expecting a domnodelist or domnode instance, an array, a string, or null, but got boolean . in /home/sonub/www/wp-content/plugins/xapi-2/vendor/symfony/dom-crawler/crawler.php:123
+stack trace: 0 /home/sonub/www/wp-content/plugins/xapi-2/vendor/symfony/dom-crawler/crawler.php 70 : symfony\component\domcrawler\crawler->add false 1 /home/sonub/www/wp-content/plugins/xapi-2/cron/cron-olx-crawler.php 41 : symfony\component\domcrawler\crawler->__construct false 2 {main} thrown in /home/sonub/www/wp-content/plugins/xapi-2/vendor/symfony/dom-crawler/crawler.php on line 123 fatal error: uncaught invalidargumentexception: expecting a domnodelist or domnode instance, an array, a string, or null, but got boolean . in /home/sonub/www/wp-content/plugins/xapi-2/vendor/symfony/dom-crawler/crawler.php:123
+stack trace: 0 /home/sonub/www/wp-content/plugins/xapi-2/vendor/symfony/dom-crawler/crawler.php 70 : symfony\component\domcrawler\crawler->add false 1 /home/sonub/www/wp-content/plugins/xapi-2/cron/cron-olx-crawler.php 41 : symfony\component\domcrawler\crawler->__construct false 2 {main} thrown in /home/sonub/www/wp-content/plugins/xapi-2/vendor/symfony/dom-crawler/crawler.php on line 123 &

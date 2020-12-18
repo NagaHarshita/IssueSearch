@@ -1,0 +1,1 @@
+ URL : "https://github.com/kiliankoe/dvbgo/issues/3" TITLE : migrate to webapi BODY : since efa is going to be shut down at some point in the rather near future, it seems like a good idea to use the chance to migrate to use the webapi instead and also replace the widgets endpoint while at it. big upside is a whole bunch of new data being supplied by the webapi.

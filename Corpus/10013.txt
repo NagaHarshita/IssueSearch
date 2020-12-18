@@ -1,0 +1,1 @@
+ URL : "https://github.com/apigee-127/swagger-test-templates/issues/138" TITLE : add yaml support BODY : currently the project does not work with a swagger spec written in yaml. yaml is a superset of json so this could be achieved by doing a conversion beforehand.

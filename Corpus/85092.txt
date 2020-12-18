@@ -1,0 +1,1 @@
+ URL : "https://github.com/akinomyoga/ble.sh/issues/5" TITLE : enhancement of completion BODY : 補完について色々。現状の補完の仕組みは色々不満があるので改修する必要がある - 文脈依存のエスケープが不完全・不自然 - menu-complete, menu-complete-backward の対応が困難 - 重い - 候補表示をもっとちゃんとする - 自動的に候補を提示 他に以下の要望が出ている - 略語展開 仕様は未だ何も決まっていない - ブレース展開の中での展開

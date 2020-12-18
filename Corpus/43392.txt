@@ -1,0 +1,8 @@
+ URL : "https://github.com/mubitosh/qrshare/issues/18" TITLE : create a desktop file BODY : in order for your application to be fully accessible on the desktop, you will
+need to provide a desktop file named com.github.mubitosh.qrshare.desktop and insure it gets installed
+in /usr/share/applications . this file lets everyone know what icon to use,
+what file to run, and any alternative actions that can be ran. for more information please look over these docs:
+- elementary getting started https://elementary.io/docs/code/getting-started the-desktop-file if you need help with this issue please stop by the gitter https://gitter.im/elementary/houston channel. affects : 0.1.16 release https://github.com/mubitosh/qrshare/releases/tag/0.1.16 <!--
+pipe: desktop
+pipe time: fri aug 25 2017 04:28:17 gmt+0000 utc houston version: 0.4.1 f92d286d537a74adc41d8d8bc47911580b401ffe houston env: production
+-->

@@ -1,0 +1,1 @@
+ URL : "https://github.com/terasolunaorg/guideline/issues/2403" TITLE : support jboss 7 BODY : description jboss 7をサポートするにあたり、ガイドラインへの影響を調べて必要に応じて反映する。 possible solutions tbd （調査結果を反映する） affects version/s \- fix version/s - 5.3.0 issue links xxx changelog - yes

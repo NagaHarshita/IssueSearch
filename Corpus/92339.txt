@@ -1,0 +1,1 @@
+ URL : "https://github.com/ryanluker/vscode-coverage-gutters/issues/77" TITLE : where do i put lcov file? BODY : i ran angular test with coverage. the file has been created. however, this plugin does not work. why?

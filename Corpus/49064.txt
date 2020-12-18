@@ -1,0 +1,1 @@
+ URL : "https://github.com/KrisRogos/MTGinTTS/issues/6" TITLE : support for edh decks BODY : if a deck-list contains more than 70 unique cards it should save the images into two separate deckimage files.

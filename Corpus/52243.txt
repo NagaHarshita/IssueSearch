@@ -1,0 +1,1 @@
+ URL : "https://github.com/kigen/bitbucket-pipelines-android/issues/1" TITLE : change ext yaml to yml BODY : your file extension sholud be yml to be detected in bitbucket

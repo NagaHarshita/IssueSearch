@@ -1,0 +1,13 @@
+ URL : "https://github.com/elementary/switchboard-plug-keyboard/issues/40" TITLE : magnifier not working BODY : keyboard command for magnifier zoom in or zoom out not working. toggled magnifier, still no response. using dell inspiron 14. problemtype: bug
+distrorelease: elementary os 0.3
+package: elementary-desktop 1.350+394~ubuntu0.3.1 origin: lp-ppa-elementary-os-daily procversionsignature: ubuntu 3.13.0-39.66-generic 3.13.11.8
+uname: linux 3.13.0-39-generic i686
+apportversion: 2.14.1-0ubuntu3.5
+architecture: i386
+crashdb: elementary_meta
+currentdesktop: pantheon
+date: sat nov 8 18:59:13 2014
+installationdate: installed on 2014-11-08 0 days ago installationmedia: elementary os 0.3 freya - daily i386 20140810 procenviron: language=en path= custom, no user xdg_runtime_dir=<set> lang=en_us.utf-8 shell=/bin/bash
+sourcepackage: elementary-meta
+suspiciousxerrors: thirdparty: true
+upgradestatus: no upgrade log present probably fresh install launchpad details: lp1390731 https://bugs.launchpad.net/bugs/1390731 provash adhikary shoumma - 2014-11-08 13:13:50 +0000

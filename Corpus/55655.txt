@@ -1,0 +1,1 @@
+ URL : "https://github.com/fmfi-svt/eprihlaska/issues/28" TITLE : kontrola rodneho cisla BODY : pri ľuďoch s neslovenským občianstvom sa vyžaduje rodné číslo a nemá sa. pravdepodobne sa kontroluje podľa občianstva uloženého v session a nie v requeste ? možný hotfix 1: povoliť hocikomu nezadať rodné číslo možný hotfix 2: presunúť položku občianstvo do časti úvod

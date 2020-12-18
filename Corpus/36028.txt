@@ -1,0 +1,1 @@
+ URL : "https://github.com/majutsushi/tagbar/issues/402" TITLE : focus on edit window BODY : hi! how to set the .vimrc : tagbar window can auto close with vim edit window closed.

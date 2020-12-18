@@ -1,0 +1,1 @@
+ URL : "https://github.com/onechiporenko/ember-models-table/issues/214" TITLE : select only filtered data BODY : hello there, the toggleallselection action included in the component selects all loaded dada. even rows that i have filtered out. is there a way to select only the rows that are visible?

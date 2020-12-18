@@ -1,0 +1,4 @@
+ URL : "https://github.com/Angry-Birds-Legacy/getCar-legacy/issues/26" TITLE : make user profile BODY : make a user profile that shod do these things:
+1- get all informations of the user includes all the cars that the user has add before.
+2-edit , the user should have the ability to edit the cars that he added before and change any thing about his car.
+3- delete, the user should have the ability to remove the cars that he added before from the data base.

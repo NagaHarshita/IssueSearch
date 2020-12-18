@@ -1,0 +1,1 @@
+ URL : "https://github.com/bitDecayGames/Helm/issues/19" TITLE : build a level editor BODY : i need a way of drawing new levels. doing them by hand is painful and time consuming. create a simple level editor that allows placement of line segments, landing platform and starting position.

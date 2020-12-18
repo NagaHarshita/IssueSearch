@@ -1,0 +1,1 @@
+ URL : "https://github.com/yusukeshibata/react-pullrefresh/issues/23" TITLE : configurable 'pull ratio' BODY : hi, would it be possible configure the 'pull ratio'? by 'pull ratio', i mean that the user must pull his screen ~60% more than the value defined in the props before onrefresh is called.

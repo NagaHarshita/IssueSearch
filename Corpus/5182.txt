@@ -1,0 +1,1 @@
+ URL : "https://github.com/smithron99/AVRTimer1/issues/1" TITLE : make it static BODY : should really make the entire class static. since there is only one physical underlying timer, creating multiple instances would not work as expected.

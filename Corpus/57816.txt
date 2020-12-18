@@ -1,0 +1,1 @@
+ URL : "https://github.com/Azure/acs-engine/issues/1059" TITLE : remove kubernetes v1.5 BODY : now that we offer kubernetes v1.7, we will drop support for kubernetes v1.5

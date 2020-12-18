@@ -1,0 +1,1 @@
+ URL : "https://github.com/wmeints/azure-open-source/issues/1" TITLE : remember class prefix BODY : the generators don't keep track of the class prefix that was previously entered. it would be nice if it did.

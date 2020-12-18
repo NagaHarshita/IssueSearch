@@ -1,0 +1,1 @@
+ URL : "https://github.com/Blagodarenko/miner-burst/issues/11" TITLE : secret passphrase in logs BODY : why is program logging my secret passphrase into logs? i had no idea that my secret passphrase is in so many places. now i have to replot because it is even on the internet!

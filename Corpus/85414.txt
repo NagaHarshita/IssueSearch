@@ -1,0 +1,1 @@
+ URL : "https://github.com/Sparrow-lang/sparrow/issues/42" TITLE : external associated types BODY : make sure we can define things like 'rettype' for ranges as external entities. something like: fun rettype t: vector = int // yes, the arg is rt, but we don't care

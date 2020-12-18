@@ -1,0 +1,1 @@
+ URL : "https://github.com/IcicleNetworks/IcicleBot/issues/9" TITLE : enhance todo command BODY : currently, todo command is pretty stupid. the task name can be only one word, which is criiinge. we _definitely_ want to make it better.

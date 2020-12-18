@@ -1,0 +1,1 @@
+ URL : "https://github.com/ukdtom/WebTools.bundle/issues/329" TITLE : uas git install BODY : yoo when updating or installing a repo in the uas i would like the details for that item installed/updated to be returned instead of all is okay :- api i'm calling -> webtoolsmodel.apiv3url + /git/install ;

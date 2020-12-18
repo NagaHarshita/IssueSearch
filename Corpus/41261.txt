@@ -1,0 +1,1 @@
+ URL : "https://github.com/yosukehasumi/simple-mri-calendar/issues/10" TITLE : $_request 'cal' error BODY : getting an error for missing query variable on line 104. this if statement should check if 'cal' isset. $query_cal = isset $_request 'cal' && $_request 'cal' != '' ? $_request 'cal' : $today->format 'y-m' ;

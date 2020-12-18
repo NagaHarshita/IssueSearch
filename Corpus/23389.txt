@@ -1,0 +1,1 @@
+ URL : "https://github.com/unional/ava-fixture/issues/13" TITLE : perf: remove chdir BODY : while setting process.cwd to the case path is nice, it may be confusing to the user. let's consider removing this feature: ts // was ftest 'case-1', t, d => { // process.cwd => path to case-1 } // new ftest 'case-1', t, d => { process.chdir d.casepath ; }

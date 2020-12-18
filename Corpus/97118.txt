@@ -1,0 +1,1 @@
+ URL : "https://github.com/google/turbinia/issues/67" TITLE : fix/update startup scripts BODY : right now i have pr for some super basic/hacky start-up scripts, but we should update those into something more legit.

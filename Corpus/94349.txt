@@ -1,0 +1,1 @@
+ URL : "https://github.com/neutrinolabs/xrdp/issues/953" TITLE : can not disable encryption BODY : can not disable encryption level. we use dell wyse s10 and have limited encription capabilities on lan environment. we try several way to disable encription with not success. issue cames after fedora 22

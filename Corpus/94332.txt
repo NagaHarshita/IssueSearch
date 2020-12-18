@@ -1,0 +1,1 @@
+ URL : "https://github.com/ianlin/react-native-callkit/issues/3" TITLE : callkit view doesn't close BODY : hey, when i call the rncallkit.endcall this.uuid function callkit view does not close. thanks for the module btw! 👍

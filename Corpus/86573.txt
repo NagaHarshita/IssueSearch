@@ -1,0 +1,1 @@
+ URL : "https://github.com/annaawang/templates/issues/2" TITLE : i tried forking your code BODY : but smb.js came in seemingly bundled, i.e., with jquery $ tags replaced with t . could you add me as a contributor, so i can see if cloning your repo directly resolves the issue? it will also make it easier to make a pr.

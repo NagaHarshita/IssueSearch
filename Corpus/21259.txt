@@ -1,0 +1,1 @@
+ URL : "https://github.com/jsommers/pytricia/issues/20" TITLE : error using pickle BODY : i found another bug, related this time to pickling pytricia objects: python import pytricia pyt = pytricia.pytricia pyt 192.168.0.1 = foo pickle.dump pyt, open test.pkl , wb pyt2 = pickle.load open test.pkl , rb pyt2.keys gives a segmentation fault core dumped . i'm using python 3.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ruuk/plugin.image.picasa/issues/2" TITLE : opening big albums BODY : when we open big albums: 500-1000 pictures and we try to run slideshow. it take a lot of time to load, because we check mimetype of each file: debug: ccurlfile::getmimetype . is this really needed, can we switch it off somehow. i'm not sure if this is connected with plugin or kodi.

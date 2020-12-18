@@ -1,0 +1,1 @@
+ URL : "https://github.com/bitcoin42/pay.vivaco.in/issues/1" TITLE : error - mpdf does not open BODY : error - mpdf requires mb_string functions. ensure that php is compiled with php_mbstring.dll enabled.

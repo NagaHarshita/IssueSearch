@@ -1,0 +1,1 @@
+ URL : "https://github.com/NethServer/dev/issues/5329" TITLE : nextcloud: add logrotate BODY : add logrotate for nextcloud logs actual behaviour nextcloud log file isn't added to logrotate change create nextcloud file in logrotate.d see also http://community.nethserver.org/t/can-nextcloud-logs-be-cleared/7071

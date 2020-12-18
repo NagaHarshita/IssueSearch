@@ -1,0 +1,1 @@
+ URL : "https://github.com/jcorcuera/minesweeper/issues/3" TITLE : game tiles types BODY : use different symbols to represent tiles in the game: % closed bomb x exploded bomb numbers to represent the number of near bombs around the tile.

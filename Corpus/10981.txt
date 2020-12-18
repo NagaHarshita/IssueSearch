@@ -1,0 +1,1 @@
+ URL : "https://github.com/jakepeyser/hoodie-notes/issues/9" TITLE : error on install BODY : after installing and running with yarn, there is a 404 for app.js and style.js that prevents the app from working. these files were added into the .gitignore file, and the css-tricks article mentions nothing about these files, so there is no clue what is supposed to be in them.

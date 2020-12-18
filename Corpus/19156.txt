@@ -1,0 +1,1 @@
+ URL : "https://github.com/vergecurrency/VERGE/issues/130" TITLE : xvg wallet ubuntu BODY : after installing and syncing xvg core wallet on ubuntu 16.04, actions from console do not update into the wallet. wallet not updating balances from imported addresses or check balance for existing addresses.

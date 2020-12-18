@@ -1,0 +1,1 @@
+ URL : "https://github.com/ulno/ulnoiot/issues/24" TITLE : rgb_led wrong color codes BODY : using the rgb_led and change colors with publish events over integriot, the colors are switched: if you want the led to glow green you have to send red and vice versa.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/IthacaThings/ttn-monitor/issues/1" TITLE : add a config file BODY : add a config file that allows specification of global and per-gateway parameters to: - specify relevant command line parameters - override e-mail addresses - specify -cc e-mail addresses

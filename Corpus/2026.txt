@@ -1,0 +1,1 @@
+ URL : "https://github.com/shaunlebron/vscode-parinfer/issues/13" TITLE : port to cljs BODY : i would like vscode-parinfer to grow in parallel with atom-parinfer, so i'm porting from typescript to clojurescript. work happening in cljs branch https://github.com/shaunlebron/vscode-parinfer/tree/cljs .

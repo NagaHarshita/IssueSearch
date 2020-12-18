@@ -1,0 +1,1 @@
+ URL : "https://github.com/goby-lang/api.doc/issues/3" TITLE : nil should not be printed BODY : ruby a = nil puts a goby outputs nill while ruby outputs empty line.

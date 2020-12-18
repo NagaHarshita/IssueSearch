@@ -1,0 +1,1 @@
+ URL : "https://github.com/kirsle/.dotfiles/issues/1" TITLE : fedora 26 xfce spin BODY : when user runs dnf check-update, it returns 0 packages even when there are pkgs to update. i had to visudo and add a line for the user to passwdless sudo /usr/bin/dnf check-update.

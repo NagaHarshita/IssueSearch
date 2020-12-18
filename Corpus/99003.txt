@@ -1,0 +1,1 @@
+ URL : "https://github.com/laytya/MinimapButtonBag-vanilla/issues/9" TITLE : lua-error by german-client BODY : hiho, i have a luaerror with the germanclient. interface\addons\mbb\mbb.lua:395: attempt to index local child' a nil value thanks mixus

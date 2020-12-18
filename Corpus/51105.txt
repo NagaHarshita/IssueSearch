@@ -1,0 +1,1 @@
+ URL : "https://github.com/lionheart/bottlenose/issues/63" TITLE : add region to examples BODY : maybe it's just me but it took me some time to figure out that to set endpoints one simply has to add region to the request, as such: amazon = bottlenose.amazon aws_key, aws_secret, aws_tag, region='fr' could this maybe be added in the tutorial somewhere?

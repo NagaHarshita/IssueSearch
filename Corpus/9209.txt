@@ -1,0 +1,1 @@
+ URL : "https://github.com/eclipse/che/issues/5980" TITLE : typo in che.env BODY : version 5.15 line 389 reads che_oath_github_clientid=your_github_client_ide should read che_oath_github_clientid=your_github_client_id last character removed

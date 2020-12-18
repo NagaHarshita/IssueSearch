@@ -1,0 +1,1 @@
+ URL : "https://github.com/TheOfficialFloW/VitaShell/issues/208" TITLE : default to ftp on the pstv BODY : it's a very minor thing, but by default it still is set to usb, and then says it isn't available. perhaps ftp should be set as default on the pstv.

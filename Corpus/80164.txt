@@ -1,0 +1,1 @@
+ URL : "https://github.com/skeletonarcher12/SafeGuard/issues/4" TITLE : termination bug new call BODY : http://prntscr.com/fd0eix issue: when a call is terminated and you call again without resetting, there is a chance this happens....causes a slight issue with the system. reproduction steps: 1 call safe guard 2 terminate the call 3 quickly call back 4 possible bug seen

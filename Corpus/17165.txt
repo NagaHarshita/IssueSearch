@@ -1,0 +1,1 @@
+ URL : "https://github.com/Linuxbrew/homebrew-core/issues/2050" TITLE : no curl available BODY : cant install on my system i don't have installed curl and i'm not admin/root . i modified some lines and replaced curl with wget but the original script itself downloads prefixed another ones that use curl.any thoughts?

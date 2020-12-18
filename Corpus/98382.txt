@@ -1,0 +1,1 @@
+ URL : "https://github.com/fireice-uk/xmr-stak-amd/issues/68" TITLE : intensity and worker value BODY : hi, is there a method to properly configure intensity and worker value based on running hardware ? as on cpu it's based on l3 cache size, so on gpu what should be the guide ?

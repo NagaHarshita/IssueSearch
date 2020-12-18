@@ -1,0 +1,1 @@
+ URL : "https://github.com/abparker/PitchHero/issues/5" TITLE : feature: scoring system BODY : gamification! implement a system that gives the user points and/or a score based on how on-pitch they were. compare the monitor/input pitch with either the nearest note of the selected scale or with the playback track.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/JakeWharton/Telecine/issues/167" TITLE : no notification shown BODY : on android oreo, i cannot see any notification during the record, even though the toggle is enabled. the unclickable overlay is displayed, however. may be related to 149

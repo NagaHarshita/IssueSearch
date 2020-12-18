@@ -1,0 +1,1 @@
+ URL : "https://github.com/pinojs/pino/issues/287" TITLE : new transport - pino-mq BODY : hi, i have written a transport for pino: pino-mq https://github.com/itavy/pino-mq ; is it ok to be added in transport list? thank you, octavian

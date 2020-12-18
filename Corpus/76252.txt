@@ -1,0 +1,1 @@
+ URL : "https://github.com/ncar-mlso/comp-pipeline/issues/48" TITLE : investigate noise gating BODY : investigate noise gating via the method https://arxiv.org/abs/1703.06228 presented by craig deforest.

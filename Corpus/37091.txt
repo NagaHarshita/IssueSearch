@@ -1,0 +1,1 @@
+ URL : "https://github.com/vemv/.emacs.d/issues/50" TITLE : jump to qualified kw BODY : https://github.com/clojure-emacs/cider/issues/2112 issuecomment-345808017 new vemv/jump-to-def behavior: if curr symbol is a q-kw, jump to it using https://github.com/oliyh/re-jump.el/blob/master/re-jump.el l22 else, use old code

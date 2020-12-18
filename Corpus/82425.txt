@@ -1,0 +1,1 @@
+ URL : "https://github.com/mkgerasimenko/test-automatiom-testNG/issues/11" TITLE : add to codebase webdriver BODY : - add webdriver api; - replace webdriver from tests to basetest; - add new tests; - common refactoring.

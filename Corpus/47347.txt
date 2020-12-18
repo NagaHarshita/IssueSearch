@@ -1,0 +1,1 @@
+ URL : "https://github.com/alextarkhov/django-cache-models/issues/2" TITLE : package upgrade docs. BODY : add package upgrade section pip install -u <package> to readme docs.

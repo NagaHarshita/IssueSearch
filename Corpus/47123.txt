@@ -1,0 +1,1 @@
+ URL : "https://github.com/jarun/nnn/issues/42" TITLE : not showing big files BODY : hello. i am using debian unstable i386 . for some reason nnn do not show big files 1.5g is ok, but ≈4g and more is not . i thought it may be some ntfs issue, but it's not. i can see these files with ls and ncdu , picture below. ! bwa https://0x0.st/hq_.png

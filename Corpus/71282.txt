@@ -1,0 +1,1 @@
+ URL : "https://github.com/kidoju/Kidoju-Mobile/issues/103" TITLE : add bluebird for webpack BODY : webpack 2 now requires a promise library 95 wa snot dones

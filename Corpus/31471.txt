@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla/video-bg-play/issues/3" TITLE : site options needed BODY : please include an option to specify the sites where this extension should kick in. right now it seems to be working globally, this is maybe not a good idea for some resource hungry websites using that ff api on mobile devices.

@@ -1,0 +1,2 @@
+ URL : "https://github.com/roberttrankle/COS301--include/issues/39" TITLE : shapefile to postgis BODY : automation of shapefiles to postgis conversion.
+connect db to geoserver.

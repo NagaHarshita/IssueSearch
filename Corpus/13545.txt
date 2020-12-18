@@ -1,0 +1,1 @@
+ URL : "https://github.com/Deveodk/vue-error-tracker/issues/3" TITLE : using vue-toastr BODY : hi! this plug-in is is easy to setup and works well. i have question about compatibility between vue-toastr and this plug-in. can i use the original fork of @deveodk/vue-toastr https://github.com/s4l1h/vue-toastr with this plugin or is there some breaking api difference?

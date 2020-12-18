@@ -1,0 +1,1 @@
+ URL : "https://github.com/vinniefalco/Beast/issues/447" TITLE : mqtt protocol support BODY : if this has widespread use without signs of decline, its a candidate for implementing: http://docs.oasis-open.org/mqtt/mqtt/v3.1.1/mqtt-v3.1.1.html

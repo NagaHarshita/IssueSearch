@@ -1,0 +1,1 @@
+ URL : "https://github.com/hrnyc7-europa/hrnyc7-europa/issues/83" TITLE : finish news widget BODY : should use user factory service to get a list of companies should use news factory service to get news for each company should display some of the news. buttons to navigate picture title description clicking will redirect to article.

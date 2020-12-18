@@ -1,0 +1,1 @@
+ URL : "https://github.com/proidiot/gone/issues/19" TITLE : create log coverage tool BODY : it would be nice to have a log coverage tool that will indicate whether all paths in a piece of code actually write logs. it might need to be specific to this particular codebase at least at first, but that should be fine.

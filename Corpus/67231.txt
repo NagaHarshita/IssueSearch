@@ -1,0 +1,1 @@
+ URL : "https://github.com/BrainFPV/betaflight/issues/6" TITLE : passive buzzer support? BODY : i just reflashed from dronin and sorted out motor ordering et all, everything is working but it seems bf version is lacking support for driving a passive buzzer?? or i am simply blind.

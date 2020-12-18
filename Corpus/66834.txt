@@ -1,0 +1,1 @@
+ URL : "https://github.com/intellij-rust/intellij-rust/issues/2128" TITLE : no suggestion on macros BODY : i declared a macro but, when i use it, types aren't inferred and it doesn't give any suggestion ! macro declaration https://preview.ibb.co/gablvr/macro_declaration.png ! macro usage https://image.ibb.co/i59upm/no_suggestion.png

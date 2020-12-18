@@ -1,0 +1,1 @@
+ URL : "https://github.com/flectrahq/flectra/issues/17" TITLE : remove phoning home BODY : make phoning home features configurable so that any one can turn it off if they wish

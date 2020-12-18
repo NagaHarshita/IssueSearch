@@ -1,0 +1,1 @@
+ URL : "https://github.com/hyperledger/iroha/issues/828" TITLE : iroha-cli violation 2 case BODY : i found 2 violation cases of iroha-cli. 1. core dump when run with no args. nito@ubuntu:~/misc/wk$ iroha-cli terminate called after throwing an instance of 'std::runtime_error' what : invalid flags 中止 コアダンプ 2. violation looping when input ctrl-d on prompt.

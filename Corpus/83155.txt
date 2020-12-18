@@ -1,0 +1,1 @@
+ URL : "https://github.com/jaspershen/MetDNA/issues/1" TITLE : bugs 1 of version 0.99.03 BODY : if there are not modules with p values less than 0.05, a error appear, error information is: process new.tags. transform tags2 to matrix: error in as.list.default x : no method for coercing this s4 class to a vector

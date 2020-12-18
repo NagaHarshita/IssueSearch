@@ -1,0 +1,1 @@
+ URL : "https://github.com/danslo/ApiImport/issues/52" TITLE : incorrect modman file path BODY : hi, your mode file is incorrectly setup and this results in the creation of a code folder within the module: docroot/app/code/local/danslo/apiimport/code can you please fix it?

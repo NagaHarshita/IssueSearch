@@ -1,0 +1,1 @@
+ URL : "https://github.com/michaelzangl/minebot/issues/172" TITLE : mining doesn't work BODY : i know you just released the pre-release but i don't know what bugs you do and don't know about. /minebuild clear was working fine until i tried /minebot lumberjack and now it crashes whenever i try anything with digging involved

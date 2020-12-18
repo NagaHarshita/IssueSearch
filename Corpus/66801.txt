@@ -1,0 +1,1 @@
+ URL : "https://github.com/chooblarin/nvision/issues/1" TITLE : no match of status list BODY : crashed. checking... matcherror no match of right hand side value: 一部運休 , 遅延 nvision lib/nvision.ex:15: nvision.parse_status/1 nvision lib/nvision.ex:10: nvision.check/0 elixir lib/kernel/cli.ex:90: anonymous fn/3 in kernel.cli.exec_fun/2

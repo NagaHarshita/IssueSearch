@@ -1,0 +1,1 @@
+ URL : "https://github.com/bigbrozer/docker-x2go-kde/issues/3" TITLE : crashing on boot BODY : this seems quite useful - i'm getting the following error: application: kcminit kdeinit5 , signal: segmentation fault

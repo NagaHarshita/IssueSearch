@@ -1,0 +1,1 @@
+ URL : "https://github.com/MES-codeSSchool/MES-Documentation/issues/4" TITLE : increase test coverage BODY : right now we've 54% of coverage. but it looks like the coverage tool is checking every file in the project. maybe install coveralls. after that do try to write some test for files with less than 50% coverage.

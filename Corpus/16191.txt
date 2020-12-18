@@ -1,0 +1,1 @@
+ URL : "https://github.com/yads/nodemailer-express-handlebars/issues/10" TITLE : html versus plain BODY : is it possible to specify a template for the plaintext version of the email in addition to the html version ?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/careteditor/caret/issues/580" TITLE : pdf support for images BODY : as far as i can see, pdf images, i.e. ! caption somefig.pdf , doesn't show up as images either in the editor preview or the view->preview. it would be nice with support for pdf images.

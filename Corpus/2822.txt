@@ -1,0 +1,1 @@
+ URL : "https://github.com/codemirror/CodeMirror/issues/5077" TITLE : es6 js linter BODY : hi, i have javascript-lint added to codemirror and es6 syntax const, let, arrow functions reports error. is there a way to allow new, es6 syntax?

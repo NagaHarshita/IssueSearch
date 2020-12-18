@@ -1,0 +1,1 @@
+ URL : "https://github.com/processing/processing-docs/issues/620" TITLE : typo in double reference BODY : issue description there is a typo in the reference for a double. it says that the variable is declared with type float, instead of double. url s of affected page s double reference https://processing.org/reference/double.html proposed fix fix the typo.

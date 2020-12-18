@@ -1,0 +1,1 @@
+ URL : "https://github.com/andybalaam/rabbit-escape/issues/501" TITLE : level: fire diamond BODY : m oo m oo \ m m \ mmmmmmmmmm : = a : = a : = a : = a : =/q : = a : = a : = a : = a :bash=4 :bridge=8 :name=fire diamond :num_rabbits=2 :num_to_save=2 :rabbit_delay=8 untested. supposed to be pretty hard but i may have messed up and made it impossible.

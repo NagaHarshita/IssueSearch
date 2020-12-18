@@ -1,0 +1,1 @@
+ URL : "https://github.com/Aurontwist/resty-mean-stack/issues/3" TITLE : homepage feed - logged in BODY : initially, everything is displayed chronologically rather than algorithmically or based on votes. since the user base will be relatively small at first, we won’t have enough people voting to meaningfully rank products yet .

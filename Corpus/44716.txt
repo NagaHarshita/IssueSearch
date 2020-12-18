@@ -1,0 +1,1 @@
+ URL : "https://github.com/djreisch/BAASK/issues/12" TITLE : fix extra documenting BODY : remove some of the old code that has been commented out. remove some additional commenting as it no longer pertains to the program.

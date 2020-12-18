@@ -1,0 +1,1 @@
+ URL : "https://github.com/anapsix/docker-alpine-java/issues/38" TITLE : java 9 support BODY : java 9 release is imminent currently this is set for july 27 for reference here's the java 9 migration guide http://docs.oracle.com/javase/9/migrate/toc.htm jsmig-guid-5657f44a-b2d7-4fb6-aad7-295ac4533abc

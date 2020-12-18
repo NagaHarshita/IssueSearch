@@ -1,0 +1,1 @@
+ URL : "https://github.com/InFact-coop/LCN/issues/33" TITLE : copy is bad sometimes BODY : sometimes i have used tostring which leads to trouble - should instead use a list to map things or something.

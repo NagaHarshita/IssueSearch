@@ -1,0 +1,2 @@
+ URL : "https://github.com/OpenNebula/one/issues/979" TITLE : shared disk between vms BODY : --- author name: peter loeffler peter loeffler original redmine issue: 4168, https://dev.opennebula.org/issues/4168
+original date: 2015-11-18 --- kvm has the possibility to share a disk between 2 vms. would be nice to have this feature in opennebula.

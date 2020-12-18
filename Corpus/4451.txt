@@ -1,0 +1,1 @@
+ URL : "https://github.com/cmacmackin/ford/issues/207" TITLE : crazy old goto BODY : fyi: for this crazy old goto statement: fortran if c == 'h' go to 180, 190, 200 , kt ford is treating to as function i think. it is appearing in the call graphs in a grey box.

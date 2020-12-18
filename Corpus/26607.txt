@@ -1,0 +1,1 @@
+ URL : "https://github.com/tox-dev/tox/issues/480" TITLE : broken link in docs BODY : tox/doc/example/pytest.txt - http://pytest.org/latest/goodpractises.html test-package-name needs to be http://doc.pytest.org/en/latest/goodpractices.html test-package-name

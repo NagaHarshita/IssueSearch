@@ -1,0 +1,1 @@
+ URL : "https://github.com/sklarjk/ptxdummies/issues/1" TITLE : the include option BODY : i suggest just having the -- include every time you write xsltproc. i understand it is not necessary for the sample article, but it doesn't hurt, and it will save time for newcomers since most people fail the first time they compiler a multi-part document.

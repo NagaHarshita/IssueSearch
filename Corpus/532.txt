@@ -1,0 +1,1 @@
+ URL : "https://github.com/bluedigits/iota-node/issues/16" TITLE : fr - curl BODY : hy, could we please add curl to the container. first of all, to be able to add neighbors on the fly from within the containert the other advantage is to be able to perform a healt check: healthcheck: test: cmd , curl , -f , http://localhost-api:port interval: 20s timeout: 10s retries: 3

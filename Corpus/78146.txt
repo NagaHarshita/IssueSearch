@@ -1,0 +1,1 @@
+ URL : "https://github.com/locdb/locdb-frend/issues/194" TITLE : plan for next deployment BODY : there are some improvements in the developing system, e.g. labels in the list of references, link to google scholar, breadcrump info. when should we plan to deploy this in the production system? is there anything we should check before?

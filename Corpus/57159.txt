@@ -1,0 +1,1 @@
+ URL : "https://github.com/kidynamit/tangible-vr/issues/1" TITLE : ply reader not working BODY : the ply reader in testdragon.cxx is not working.

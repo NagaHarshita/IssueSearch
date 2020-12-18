@@ -1,0 +1,1 @@
+ URL : "https://github.com/OrleansContrib/Orleankka/issues/124" TITLE : chat sample not working BODY : hi, chat sample is not working. always throws the same exception: unable to map type 'example.ichatroom' to the corresponding actor type. make sure that you've registered the assembly containing this type

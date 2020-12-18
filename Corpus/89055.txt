@@ -1,0 +1,1 @@
+ URL : "https://github.com/kadli01/splendexexpenses/issues/5" TITLE : place guards everywhere : BODY : https://github.com/kadli01/splendexexpenses/blob/502cce0f0fc8c863ceae0f468080073b820c0ec0/resources/functions/functions.php l10 please place guards on every function and return cases to prevent exceptions and runtime errors.

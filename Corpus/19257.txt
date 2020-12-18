@@ -1,0 +1,8 @@
+ URL : "https://github.com/harakeke-2017/harakeke-2017/issues/98" TITLE : 3.2 technical blog BODY : 3.2 technical blog - start your toggl timer. write blog post - create a username.github.io/blogs/t3-design-to-web-blog.html file. as if talking to a non-tech friend, discuss: - what a responsive site is, and why responsiveness is important.
+- what mobile first design is, and why it's important.
+- what frameworks are, and their pros and cons.
+- what a wireframe is and why we use it. - add and position your wireframe images from your username.github.io/images/ directory. this will be a 'content' image, so add it as an html element.
+- the aspects of your wireframes you found difficult to implement, and why. - in the waffle comments, add a link to your blog. link your blog to the main page - on your index home page, create a link to your technical blog post.
+- stage and commit with meaningful commit message.
+- push to github to make it live!
+- paste a link to your live blog in the waffle ticket comments below. share it! - on your cohort-specifc slack channel, share the link to your home page using the hashtag techblog3 .

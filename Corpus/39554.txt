@@ -1,0 +1,1 @@
+ URL : "https://github.com/decebals/pf4j/issues/166" TITLE : simplify main readme BODY : it is growing huge, it should just be a simple description and getting started. we can then put the complete formal documentation somewhere else github wiki or https://readthedocs.org/

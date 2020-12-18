@@ -1,0 +1,9 @@
+ URL : "https://github.com/vinnyrangel/testeApi/issues/35" TITLE : spa correção de saldos BODY : motivo
+clientes abriram chamados solicitando correções de saldo. updates - chamado 1: - financeiro@aumax.com.br sql
+update bankbalance set balance = 316.97 where bank_id = 10584266 and id in select id from bankbalance where bank_id = 10584266 and enddate = 'fri jun 16 2017 00:00:00 gmt-0300 brt ' ;
+update bankbalance set balance = 3725.9 where bank_id = 10584266 and id in select id from bankbalance where bank_id = 10584266 and enddate = 'sat jun 17 2017 00:00:00 gmt-0300 brt ' ;
+update bankbalance set balance = 2636.85 where bank_id = 10584266 and id in select id from bankbalance where bank_id = 10584266 and enddate = 'sun jun 18 2017 00:00:00 gmt-0300 brt ' ;
+update bankbalance set balance = 1371.21 where bank_id = 10584266 and id in select id from bankbalance where bank_id = 10584266 and enddate = 'mon jun 19 2017 00:00:00 gmt-0300 brt ' ;
+update bankbalance set balance = 694.6 where bank_id = 10584266 and id in select id from bankbalance where bank_id = 10584266 and enddate = 'tue jun 20 2017 00:00:00 gmt-0300 brt ' ;
+update bankbalance set balance = 1179.42 where bank_id = 10584266 and id in select id from bankbalance where bank_id = 10584266 and enddate = 'wed jun 21 2017 00:00:00 gmt-0300 brt ' ;
+update bankbalance set balance = 1729.23 where bank_id = 10584266 and id in select id from bankbalance where bank_id = 10584266 and enddate = 'thu jun 22 2017 00:00:00 gmt-0300 brt ' ;

@@ -1,0 +1,1 @@
+ URL : "https://github.com/partnerlabs/grap-ui-framework/issues/5" TITLE : prefixer 에 관하여 BODY : 외부 css와 충돌을 막기 위해 앞에 접두어를 붙여야 할지 안해도 될지 궁금합니다. bootstrap, materialize의 경우에는 따로 사용하지 않고 있고, semantic-ui는 ui 정도로 네임스페이스를 가집니다. 어떻게 해야 좋을까요?

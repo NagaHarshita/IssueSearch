@@ -1,0 +1,1 @@
+ URL : "https://github.com/spryker/rabbit-mq/issues/5" TITLE : private package list BODY : is this repo in the private packagist at https://code.spryker.com/repo/private , like all the others? we've been having some issues cloning it on build servers today

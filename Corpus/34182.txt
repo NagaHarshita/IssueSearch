@@ -1,0 +1,1 @@
+ URL : "https://github.com/turt2live/matrix-voyager-bot/issues/191" TITLE : cache per-room stats BODY : currently the bot has to do homeserver lookups. we should just track this information in the db

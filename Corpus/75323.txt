@@ -1,0 +1,1 @@
+ URL : "https://github.com/telerik/kendo-angular/issues/717" TITLE : groupable breaks sorting BODY : hi, in the example: http://plnkr.co/edit/t6tllgt7rydmqgc4uno1?p=preview we can't sort the columns. if changing: groupable = true to groupable = false the sorting functionallity works again. thank's

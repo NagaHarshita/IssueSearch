@@ -1,0 +1,1 @@
+ URL : "https://github.com/learning-unlimited/ESP-Website/issues/2403" TITLE : numpy version is old BODY : i reached for numpy.stack and it wasn't there. upgrading this should be a lot easier and less risky than upgrading e.g. jquery since it's used in two places.

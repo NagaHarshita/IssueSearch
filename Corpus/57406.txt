@@ -1,0 +1,1 @@
+ URL : "https://github.com/zCrin/prometheus/issues/1" TITLE : protect the exec files BODY : we have to protect the /website/exec files by adding a verification of the connexion

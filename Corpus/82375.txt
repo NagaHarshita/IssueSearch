@@ -1,0 +1,1 @@
+ URL : "https://github.com/helmetjs/csp/issues/63" TITLE : add support for report-to BODY : see <https://www.w3.org/tr/csp/ directive-report-to> and <https://developer.mozilla.org/en-us/docs/web/http/csp browser_compatibility>. originally reported in helmet 156 https://github.com/helmetjs/helmet/issues/156 .

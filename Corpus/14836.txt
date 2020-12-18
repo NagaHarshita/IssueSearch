@@ -1,0 +1,1 @@
+ URL : "https://github.com/ampache/ampache/issues/1511" TITLE : catalog admin api BODY : add api to support to manage the catalog from remote client. functions like add/remove songs, edits fields, and upload files too.

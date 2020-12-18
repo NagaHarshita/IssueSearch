@@ -1,0 +1,1 @@
+ URL : "https://github.com/NathanGell/weather-app/issues/1" TITLE : weather icon needs fix BODY : need to implement the dark sky api for the weather icon. it is currently using a static icon from openweather map.

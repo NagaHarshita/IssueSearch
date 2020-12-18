@@ -1,0 +1,1 @@
+ URL : "https://github.com/18F/omb-eregs/issues/34" TITLE : docker for development BODY : 18f's trying to move in the direction of using docker for local development. apply that to our repo.

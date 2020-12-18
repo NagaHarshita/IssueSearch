@@ -1,0 +1,1 @@
+ URL : "https://github.com/heroku/heroku.jar/issues/79" TITLE : lists queried incorrectly BODY : compare to: https://devcenter.heroku.com/articles/platform-api-reference ranges e.g. applist queries apps and if there are more than 200 apps the returned status code will be 206, which will throw an error because the only accepted value is 200.

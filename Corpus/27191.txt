@@ -1,0 +1,1 @@
+ URL : "https://github.com/GangBug/AgeofEmpiresII/issues/21" TITLE : crash on unit death BODY : category: game priority: critical severity: critical frequency: always description: units attack their own and when they die the game crashes steps: open the game create some samurais create some horseman they will fight each other

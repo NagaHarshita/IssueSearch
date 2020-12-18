@@ -1,0 +1,1 @@
+ URL : "https://github.com/MarkPieszak/aspnetcore-angular2-universal/issues/227" TITLE : cannot find main-server.ts BODY : hello the file main-server.ts is missing in the client folder. the project is binded to a node.js version 5. i have version 7. are we supposed to work with that? : more seriously. can somebody help me?

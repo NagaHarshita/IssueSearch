@@ -1,0 +1,1 @@
+ URL : "https://github.com/CogComp/cogcomp-nlp/issues/507" TITLE : ner view names BODY : in the ner readme, some f1 numbers are reported for different models. would you clarify their view names maybe in the same table? viewnames.ner_conll looks to be conll only. what's enron and what's enron + conll? thank you.

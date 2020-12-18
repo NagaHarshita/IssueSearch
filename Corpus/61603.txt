@@ -1,0 +1,1 @@
+ URL : "https://github.com/danielcaldas/react-d3-graph/issues/46" TITLE : best way to add tooltip BODY : hi daniel, really enjoying your react library! i was just wondering, do you have a recommended way of adding a tooltip using one of the available tooltip libraries to a graph generated with your approach? would be very helpful if you could point me to an example. thanks! simon

@@ -1,0 +1,1 @@
+ URL : "https://github.com/victorobs/piramide-uploader/issues/1" TITLE : subir múltiples archivos BODY : funciona correctamente si se trata de subir un solo archivo, pero al permitirle una carga más forzada de varios archivos, solo sube el primero y los demás archivos los descarta.

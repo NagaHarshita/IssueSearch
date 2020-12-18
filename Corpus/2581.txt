@@ -1,0 +1,1 @@
+ URL : "https://github.com/ngOfficeUIFabric/ng-officeuifabric/issues/465" TITLE : bug and a fix BODY : dropdown doesnt set value on the view to be the selected value. faulty line: instanceelement.find. 'span' .html instanceelement .on 'click', function ev { scope.$apply function { dropdowncontroller.setviewvalue instanceelement.html , attrs.value, ev ; } ; } ;

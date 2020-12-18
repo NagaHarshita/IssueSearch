@@ -1,0 +1,1 @@
+ URL : "https://github.com/morimekta/providence/issues/45" TITLE : equals on _builder BODY : would be nice to have equals implemented on the builder implementation as well, for working with objects it's easier to work with the builders during the execution.

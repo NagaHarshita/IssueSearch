@@ -1,0 +1,1 @@
+ URL : "https://github.com/terotests/Ranger/issues/28" TITLE : parser block scope error BODY : the ast parser is not currently able to handle correctly block scopes without any newlines. def list: myfineclass obj.filter { return item.name == ok } this compiles correctly if newline is given for the block. def list: string mlist.filter { return item == a }

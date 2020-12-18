@@ -1,0 +1,1 @@
+ URL : "https://github.com/LabZoneSK/LabZoneHP/issues/19" TITLE : automate language switcher BODY : we should show sk/en version of page based on: - client location ip location ? - browser language not very precise we can also store preferred language in cookie? research for best practices needed.

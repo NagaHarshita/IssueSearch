@@ -1,0 +1,1 @@
+ URL : "https://github.com/kfuster/computer-database/issues/6" TITLE : customize errors pages BODY : in order to improve visual feedback in the application and not to lose the client by graphic changes, customizing the error pages allows the application to keep its graphic theme on every pages. _value_ 6.33

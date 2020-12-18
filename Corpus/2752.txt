@@ -1,0 +1,1 @@
+ URL : "https://github.com/simonlast/node-persist/issues/85" TITLE : does it lock? BODY : if i call setitem does it lock the given key for reading? i have application where one process writes data into the database and another reads and removes when it has processed the data.

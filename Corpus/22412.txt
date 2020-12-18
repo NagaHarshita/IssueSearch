@@ -1,0 +1,1 @@
+ URL : "https://github.com/rodrigorar/tasks/issues/15" TITLE : language as config BODY : load the language configuration from a conf file instead of a class in the applicaiton.

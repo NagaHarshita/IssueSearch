@@ -1,0 +1,1 @@
+ URL : "https://github.com/Keyang/node-csvtojson/issues/227" TITLE : ignore first row BODY : hi, the csv files i need to handle all come with an empty row at the beginning, then the headers row, and then the data rows. is there any easy built-in way to make this work with the package? many thanks.

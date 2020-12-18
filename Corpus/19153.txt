@@ -1,0 +1,1 @@
+ URL : "https://github.com/g0v/newshelper-extension/issues/56" TITLE : xml parsing error BODY : 偶爾不顯示是因為這個原因 ref 44 xml parsing error: syntax error location: file:///home/wildsky/projects/newshelper-extension/libs/url-normalizer.js/map.csv line number 1, column 1:

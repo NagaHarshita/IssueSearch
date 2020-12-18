@@ -1,0 +1,1 @@
+ URL : "https://github.com/STIXProject/python-stix/issues/320" TITLE : update to latest sphinx BODY : sphinx 1.5.5 the latest when i'm writing this doesn't support python 2.6, so just don't bother trying to run sphinx with tox on the python 2.6 tests.

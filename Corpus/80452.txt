@@ -1,0 +1,1 @@
+ URL : "https://github.com/HDFGroup/h5pyd/issues/31" TITLE : try dask on top of h5pyd BODY : try dask on h5pyd instead of h5py to see if there are issues.

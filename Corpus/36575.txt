@@ -1,0 +1,1 @@
+ URL : "https://github.com/esheldon/esutil/issues/21" TITLE : htm center positions BODY : perhaps an htm n00b question, i see i can input an ra,dec pair and get the htm id for it, is there an easy way to get the ra,decs of all the trixel centers for a given depth?

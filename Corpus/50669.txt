@@ -1,0 +1,1 @@
+ URL : "https://github.com/Khan/KaTeX/issues/629" TITLE : \vec problem in chrome BODY : the accent \vec will not appear in chrome on a page whose css includes: body {text-rendering: optimizelegibility;} all the other accents work fine and \vec works fine in all the browsers that i've tested, other than chrome. odd.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jevakallio/redux-offline/issues/67" TITLE : decaying schedule question BODY : the question is, when the requests are retried and my data status become to unregistered off , and after returns to home , should not reset the decaying schedule to the beggining instead of continue from the last step where it was for example, after 1 minute ? thanks!

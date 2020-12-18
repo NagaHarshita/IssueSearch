@@ -1,0 +1,1 @@
+ URL : "https://github.com/usharesoft/docs/issues/9" TITLE : search results fail BODY : searching on the word scan reveals multiple document references but all the links are broken. e.g. a dead search result link is returned thus http://docs.usharesoft.com/projects/appcenter-user-guide/en/latest/pages/migration/scanning.rst.html?highlight=scanning

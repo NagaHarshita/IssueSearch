@@ -1,0 +1,1 @@
+ URL : "https://github.com/DRDD2016/native/issues/63" TITLE : forgot password feature BODY : - create screen with form for: email check if the user is in database - create screen with form : new password, confirm new password if user is in database - add new password - add link forgot password to login page

@@ -1,0 +1,1 @@
+ URL : "https://github.com/songxiaoyu/QRank/issues/1" TITLE : loading data into rstudio BODY : load thyroid_fdr_0.05.rdata error in load thyroid_fdr_0.05.rdata : bad restore file magic number file may be corrupted -- no data loaded in addition: warning message: file ‘thyroid_fdr_0.05.rdata’ has magic number 'x' use of save versions prior to 2 is deprecated

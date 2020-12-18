@@ -1,0 +1,1 @@
+ URL : "https://github.com/getsentry/sentry/issues/5155" TITLE : uwsgi timeout errors BODY : i have a lot of 500 errors uwsgi-body-read timeout reading 11732 bytes. content-length: 28116 consumed: 0 left: 28116 do you guys have any idea to fix this?

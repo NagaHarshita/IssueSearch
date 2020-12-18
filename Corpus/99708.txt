@@ -1,0 +1,1 @@
+ URL : "https://github.com/rails/webpacker/issues/693" TITLE : needs gem version released BODY : i'd like to release react on rails https://github.com/shakacode/react_on_rails based on what is in master. can we cut a gem version? or at least a beta? or rc? if not, is there a checklist of what needs to be done? thanks, justin

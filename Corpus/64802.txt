@@ -1,0 +1,1 @@
+ URL : "https://github.com/icebob/vue-form-generator/issues/333" TITLE : how to add label icons? BODY : for example i'd like to have a fontawesome icon as label. i could paste this as label icon that i could then style with css: <i class= fa fa-envelope-o aria-hidden= true ></i> but currently it is parsed as text so can't use html?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/learn-co-curriculum/orm-mapping-db-to-ruby-object-lab/issues/33" TITLE : just a typo BODY : under the the .find_by_name method heading, there's an extra 'run' in this sentence you will first run a sql query to run get the result from the database where the student's name matches the name passed into the argument.

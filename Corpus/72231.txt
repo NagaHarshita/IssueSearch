@@ -1,0 +1,1 @@
+ URL : "https://github.com/evant/res/issues/2" TITLE : better sort order for ls BODY : right now it doesn't do a good job ordering files and res buckets.

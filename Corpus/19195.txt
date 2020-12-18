@@ -1,0 +1,1 @@
+ URL : "https://github.com/xiangshouding/node-pngcrush/issues/49" TITLE : 同步 npm 版本 BODY : npm 0.4.0 版本没有 win32/8.0.0 这个文件夹。 直接拷 github 的项目才能用

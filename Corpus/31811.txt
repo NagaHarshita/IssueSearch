@@ -1,0 +1,1 @@
+ URL : "https://github.com/servicecatalog/development/issues/756" TITLE : support vsphere 6.5 BODY : attempt to provision on vsphere 6.5 results in error. cause written in log says unsupported guestid coreos64guest. . org.oscm.app.vmware.business.template. getcustomizationspec ... does not recognize the guest os.

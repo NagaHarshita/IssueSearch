@@ -1,0 +1,1 @@
+ URL : "https://github.com/dpmex4527/agmcat/issues/3" TITLE : add user-mapping feature BODY : add user mapping feature - takes in config file with user mappings of format agm-email-id => github-username - implement code to map agm users to github users and use that information to appropriately assign newly imported issues

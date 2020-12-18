@@ -1,0 +1,3 @@
+ URL : "https://github.com/NSI-IT/CLG-DLHPORTL/issues/52" TITLE : search license requests BODY : as a licensee, i would like to search for a request so that i can view its details acceptance criteria verify that licensee can search for a request using the following keywords:
+> licensor name
+> contact name verify that requests matching the search criteria will be displayed and licensee can select a request to view its details

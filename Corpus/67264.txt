@@ -1,0 +1,1 @@
+ URL : "https://github.com/jq-rs/mles-rs/issues/112" TITLE : peer cid handling stuck BODY : in case first connection for a peer has invalid/duplicate cid, the peer connection stays in a loop forever as it cannot update peer cid anymore.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/edgi-govdata-archiving/web-monitoring-ui/issues/158" TITLE : handle new diff format BODY : web-monitoring-db is going to change the format of diff responses to be a little simple and cleaner. ui needs to adjust ahead of time to handle it. see edgi-govdata-archiving/web-monitoring-db 181

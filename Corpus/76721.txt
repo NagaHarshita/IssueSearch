@@ -1,0 +1,1 @@
+ URL : "https://github.com/Bluexin/mek-re/issues/1" TITLE : lowercase registry names BODY : for a bit of future-proofing, all registry/states/model/textures/... should be changed to full lowercase.

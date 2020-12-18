@@ -1,0 +1,1 @@
+ URL : "https://github.com/OleFredrik1/drawing-game/issues/1" TITLE : exposed github credentials BODY : https://github.com/olefredrik1/drawing-game/blob/11c04fc686a64f31ab4785bc126ececf6b04f2d0/.git-credentials you should change your password, remove this file, and add .git-credentials to your .gitignore

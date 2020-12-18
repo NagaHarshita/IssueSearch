@@ -1,0 +1,1 @@
+ URL : "https://github.com/remy/nodemon/issues/966" TITLE : add watch programmatically BODY : is it possible to add txt file watch later on programmatically? like require 'nodemon' .config.addwatch new_txt ?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/cmsimple-xh/xhshop/issues/161" TITLE : <b> to <strong> BODY : ich habe gerade im alten safari noch einen fall entdeckt. customersdata.tpl zeile 35. früher habe ich das nie gesehen, aber gerade im safari fällt der unterschied zwischen <b> und <strong> erheblich auf das ist natürlich templateabhängig .

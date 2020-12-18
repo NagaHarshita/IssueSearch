@@ -1,0 +1,1 @@
+ URL : "https://github.com/ziutek/mymysql/issues/138" TITLE : add context support BODY : see https://github.com/golang/go/issues/15123 there are new apis that allow passing of context to allow canceling of queries that run past the deadline.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/dopheide/venom/issues/1" TITLE : package doesn't work! BODY : you may want to look at some other packages and fix your package. the minimal thing you could do is fix your __load__.bro script to make it do @load ./venom . right now it's saying that it can't find the venom.bro script.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/elw00d/consoleframework/issues/36" TITLE : gestures don't work BODY : the examples application doesn't receive gestures. it seems there is a regression because the codeproject source and binaries don't have this problem. i'm testing on windows 8.1 with debug configuration.

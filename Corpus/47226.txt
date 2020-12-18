@@ -1,0 +1,1 @@
+ URL : "https://github.com/american-art/npg/issues/73" TITLE : omit null actor names BODY : http://data.americanartcollaborative.org/page/npg/person-institution/80915/nickname has no data. so omit it and the incoming edge

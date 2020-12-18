@@ -1,0 +1,1 @@
+ URL : "https://github.com/MatiasVara/torokernel/issues/36" TITLE : add ci for tests BODY : add an script used by travis to compile tests after push. this represents a first step towards the use of ci in torokernel.

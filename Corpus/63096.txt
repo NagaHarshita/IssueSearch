@@ -1,0 +1,1 @@
+ URL : "https://github.com/bblanchon/ArduinoJson/issues/479" TITLE : delete an object by key BODY : hello! i'm using this library. input data: { ka : value }, ..., { ka : value } how to delete all objects {...}, in which the value of the key ka is the same. help me please!

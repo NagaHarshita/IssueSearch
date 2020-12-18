@@ -1,0 +1,1 @@
+ URL : "https://github.com/krakphp/lava/issues/2" TITLE : allow nested packages BODY : update package system to allow for nested packages.

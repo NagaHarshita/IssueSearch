@@ -1,0 +1,1 @@
+ URL : "https://github.com/Bostonhacks/headstart/issues/49" TITLE : registration page form BODY : the form element could be converted to a div with ajax logic on submit, to prevent reloading as it was pointed out via email.

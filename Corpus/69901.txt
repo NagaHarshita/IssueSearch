@@ -1,0 +1,1 @@
+ URL : "https://github.com/dutchenkoOleg/sort-css-media-queries/issues/1" TITLE : unexpected token export BODY : error when install module and import it in _gulpfile.babel.js_, even with using babel js export default function gulp { ^^^^^^ syntaxerror: unexpected token export

@@ -1,0 +1,1 @@
+ URL : "https://github.com/leesander1/hearmenow-electron/issues/38" TITLE : fix contact component BODY : code for contact component needs some cleaning up contact.js can be put in contact container and deleted. also can be implemented in same coding style as other components/ containers when possible

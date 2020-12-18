@@ -1,0 +1,1 @@
+ URL : "https://github.com/geb/issues/issues/502" TITLE : use java 8 to build geb BODY : webdriver 3.x is built with java 8 and given it's what geb is based on it will also have to be now built on java 8

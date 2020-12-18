@@ -1,0 +1,1 @@
+ URL : "https://github.com/AndreMiras/PyWallet/issues/60" TITLE : try to reduce apk size BODY : the apk size is currently 20m which seems to be a lot to me. we could try doing a first pass and see the state of the art and without expecting anything, but prepare the ground for next passes. here's the upstream ticket: https://github.com/kivy/python-for-android/issues/202

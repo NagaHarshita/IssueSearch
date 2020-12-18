@@ -1,0 +1,4 @@
+ URL : "https://github.com/lensfun/lensfun/issues/183" TITLE : calibration upload e9d416 BODY : calibration images were uploaded to the directory that starts with “ e9d416_ ”. please read the workflow description https://github.com/lensfun/lensfun/blob/master/tools/calibration_webserver/workflow.rst for further instructions about the calibration. additional comments by the uploader: > lens: sigma 18-200mm f3.5-6.3 dc macro os hsm
+> camera: nikon d5100
+> > it took two shots at each focal length that is marked on the lens, one landscape and one portrait.
+> please let me know if you need more or different shots.

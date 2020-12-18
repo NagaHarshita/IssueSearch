@@ -1,0 +1,1 @@
+ URL : "https://github.com/LDVTech/hacienda/issues/21" TITLE : schedule untracked bug BODY : the schedules are rarely untracked after making a change in the calendar, probably the submission function is not properly calling the data compilation functions

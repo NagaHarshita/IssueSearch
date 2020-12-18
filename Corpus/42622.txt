@@ -1,0 +1,1 @@
+ URL : "https://github.com/duhow/ProfesorOak/issues/221" TITLE : bug comandos comodín BODY : parece que hay caracteres que afectan a cualquier palabra, así que al crear comando, filtrar regex para poner sólo letras y dos puntuaciones, nada de ^ gorritos ni nada por el estilo. texto normal.

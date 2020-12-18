@@ -1,0 +1,1 @@
+ URL : "https://github.com/sunwonsara/GridCalculator/issues/3" TITLE : event programming 2 BODY : - 사칙 연산 버튼을 클릭 했을 때 edittext의 입력된 값을 반환받아서 정수로 변환한다 - 연산 결과를 textview에 결과값으로 설정한다 주의사항 : 숫자값+

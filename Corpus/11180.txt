@@ -1,0 +1,1 @@
+ URL : "https://github.com/PredictiveEcology/SpaDES.core/issues/6" TITLE : fix lintr issues BODY : currently unable to run lint checks due to error parsing module-template.r file: r > lintr::lint_package cache = true ........................error in doc_parse_raw x, encoding = encoding, base_url = base_url, as_html = as_html, : starttag: invalid element name 68

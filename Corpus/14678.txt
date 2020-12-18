@@ -1,0 +1,1 @@
+ URL : "https://github.com/samp-incognito/samp-streamer-plugin/issues/182" TITLE : bug destroy actor BODY : i found a problem with the function destroydynamicactor. after destroy the actor, he disappears, and then reappears.

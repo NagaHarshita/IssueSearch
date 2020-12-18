@@ -1,0 +1,1 @@
+ URL : "https://github.com/bowheart/ejs-electron/issues/9" TITLE : add option for custom tags BODY : hi! how can i modify custom open/close tags? <%= key %> to {{= key }} ?

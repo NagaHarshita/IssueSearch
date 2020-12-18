@@ -1,0 +1,1 @@
+ URL : "https://github.com/openstreetmap/operations/issues/140" TITLE : add dns.git to github BODY : the repository at https://git.openstreetmap.org/dns.git/ isn't available on github. we've had a contributor indicate that we could have received a contribution in the form of a pull request if it was mirrored there. it would also allow us to have an issue tracker for that repo.

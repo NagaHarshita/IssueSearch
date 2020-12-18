@@ -1,0 +1,1 @@
+ URL : "https://github.com/davidak/wortliste/issues/3" TITLE : add ding dict words BODY : wget http://ftp.tu-chemnitz.de/pub/local/urz/ding/de-en/de-en.txt.gz gunzip de-en.txt.gz cat de-en.txt | cut -d' ' -f1 > german_words

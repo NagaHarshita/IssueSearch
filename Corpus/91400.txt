@@ -1,0 +1,1 @@
+ URL : "https://github.com/influxdata/influxdb/issues/7955" TITLE : timestamp value not valid BODY : hi , the influxdb timestamp is out of real time my influx db is version 1.2.0 os linux kernel 4.4 i think this value 999977216 is extra ! image https://cloud.githubusercontent.com/assets/4295831/22682582/9f61c0c2-ed28-11e6-8260-3fa853db4986.png

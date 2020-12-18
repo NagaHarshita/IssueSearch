@@ -1,0 +1,1 @@
+ URL : "https://github.com/jakob/Postico/issues/356" TITLE : deleting a foreign tables BODY : trying to delete a foreign table results in the error message: postgresql said: queue is not a table hint: use drop foreign table to remove a foreign table

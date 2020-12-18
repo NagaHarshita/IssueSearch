@@ -1,0 +1,1 @@
+ URL : "https://github.com/Qlucifer/Mazunna/issues/1" TITLE : banda della trasformata BODY : bisogna valutare la banda della trasformata dft solo che io non ho idea di come si faccia, perchè se tu vai a variare il tempo d1 anche il plot della trasformata cambia sull'asse, bisogna sistemare l'asse x di quel grafico quindi.

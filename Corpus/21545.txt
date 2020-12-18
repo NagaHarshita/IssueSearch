@@ -1,0 +1,1 @@
+ URL : "https://github.com/toggl/mobileapp/issues/666" TITLE : fix tag displaying BODY : currently tag displaying in the start time entry view is broken if the tags span multiple lines. <img width= 487 alt= screen shot 2017-10-03 at 11 33 55 src= https://user-images.githubusercontent.com/15633003/31116444-cb2d68de-a82e-11e7-8a23-ba6a59c11c09.png >

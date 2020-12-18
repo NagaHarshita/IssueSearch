@@ -1,0 +1,1 @@
+ URL : "https://github.com/shyim/shopware-profiler/issues/29" TITLE : usage on localhost BODY : @shyim using the plugin on localhost and added the ip 127.0.0.1 - but nothing displays. already compiled the themes multishop and cleared all caches. any ideas? i do not get an error in the firebug console neither a php error. best regards

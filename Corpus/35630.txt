@@ -1,0 +1,1 @@
+ URL : "https://github.com/maddox/harmony-api/issues/75" TITLE : error: max_clients=6 BODY : this shows up in my error log. some time recently harmony increased the number of devices to 15 from 6. can this be increased? but even at that when i click get hubs in the web ui it shows me 6 hubs in the json output. but on the web page it only lists 5 of the 5 hubs.

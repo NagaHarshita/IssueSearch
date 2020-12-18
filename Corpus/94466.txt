@@ -1,0 +1,1 @@
+ URL : "https://github.com/nitishkumarsingh13/node-ccavenue/issues/10" TITLE : cannot find name 'router'. BODY : else{ --   | router.get '/make-payment', function req, res {   | cca.makepayment res ; // it will redirect to ccavenue payment

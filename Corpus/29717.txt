@@ -1,0 +1,1 @@
+ URL : "https://github.com/librariesio/libraries.io/issues/1678" TITLE : missing license zpl BODY : for example zc.buildout https://libraries.io/pypi/zc.buildout uses zpl-2.0, it is not selectable in the license dropdown.

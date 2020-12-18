@@ -1,0 +1,1 @@
+ URL : "https://github.com/IBVSoftware/CollaBoard-Feedback/issues/136" TITLE : ink to tex box BODY : in all controls implementing the ink to textbox functionality behavior should be the same of the search tile: all all means all the complete tile area has to be inkable. involved controls: load project new project registration any other not mentioned

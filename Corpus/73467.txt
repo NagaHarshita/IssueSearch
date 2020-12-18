@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozmeao/infra/issues/485" TITLE : create mdn prod services BODY : - create k8s services for prod via makefile - setup efs sync - create dns entries

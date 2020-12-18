@@ -1,0 +1,1 @@
+ URL : "https://github.com/andpor/react-native-sqlite-storage/issues/135" TITLE : error -->pod install BODY : ! unable to add a source with url https://github.com/cocoapods/specs.git named master . you can try adding it manually in ~/.cocoapods/repos or via pod repo add .

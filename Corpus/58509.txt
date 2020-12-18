@@ -1,0 +1,1 @@
+ URL : "https://github.com/project8/morpho/issues/25" TITLE : smooth-edge flat prior BODY : a true heaviside function as prior is not very nice with stan, because of the discontinuities. we need to define a new prior function which provides continuous edges l2 might be enough and implement it in the functions folder in scripts.

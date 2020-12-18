@@ -1,0 +1,1 @@
+ URL : "https://github.com/trapexit/mergerfs/issues/419" TITLE : can't compile ubuntu 17.04 BODY : /usr/bin/ld: final link failed: nonrepresentable section on output collect2: error: ld returned 1 exit status makefile:81: recipe for target 'mergerfs' failed make: mergerfs error 1 and... makefile:192: recipe for target 'install-build-pkgs' failed make: install-build-pkgs error 100

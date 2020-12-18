@@ -1,0 +1,1 @@
+ URL : "https://github.com/Necrobot-Private/NecroBot/issues/1440" TITLE : 0.59.xof 0.60x pls updaten BODY : 07:17:49 fehler killswitch we have detected a pokemon api change. the bot emulates api version 0.59.1, which is no longer supported. minimum api version is now 0.61.0. 07:17:49 fehler the bot will now exit after hitting the enter key.

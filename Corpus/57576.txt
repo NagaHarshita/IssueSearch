@@ -1,0 +1,1 @@
+ URL : "https://github.com/kteruel/camiones/issues/20" TITLE : radio button en turnos BODY : cuando da click en botones consultar turnos por tractor y consultar turnos por contenedor , si encuentra resultado va acumulando el resultado a pesar de ser el mismo turno encontrado.

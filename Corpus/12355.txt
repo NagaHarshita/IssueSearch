@@ -1,0 +1,13 @@
+ URL : "https://github.com/inyokaproject/inyokaedit/issues/89" TITLE : open raring repo BODY : thx : problemtype: bug
+distrorelease: ubuntu 13.04
+package: inyokaedit 0.6.0-0ubuntu1-ppa~173~quantal1 origin: lp-ppa-elthoro-inyokaedit procversionsignature: ubuntu 3.5.0-17.28-generic 3.5.5
+uname: linux 3.5.0-17-generic x86_64
+apportversion: 2.6.2-0ubuntu2
+architecture: amd64
+crashdb: inyokaedit
+date: wed nov 7 22:53:06 2012
+installationdate: installed on 2012-09-15 53 days ago installationmedia: ubuntu 12.10 quantal quetzal - alpha amd64+mac 20120905.2 markforupload: true
+procenviron: path= custom, no user xdg_runtime_dir=<set> lang=de_de.utf-8 shell=/bin/bash
+sourcepackage: inyokaedit
+thirdparty: true
+upgradestatus: no upgrade log present probably fresh install

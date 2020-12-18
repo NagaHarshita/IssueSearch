@@ -1,0 +1,1 @@
+ URL : "https://github.com/beaubellamy/IceDataForm/issues/1" TITLE : extract train counts BODY : write a function to count the number of trains in each power to weight category, extract a list of train id, loco ids and power to weight ratios.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/peterolson/BigInteger.js/issues/116" TITLE : method - bitwise meaning BODY : can you please explain what this line exactly in the method bitwise is supposed to do? var sum = fn xsign ? 1 : 0, ysign ? 1 : 0 !== 0 ? bigint -1 : bigint 0 ; thanks

@@ -1,0 +1,1 @@
+ URL : "https://github.com/gabrielfalcao/sure/issues/130" TITLE : sure flake8 issue BODY : question hello, comrades! thanks for this really cool library! flake8 shows me f401 module imported but unused error for import sure . pycharm also show sure as unused. can i bypass this issue? i wan to use git pre-commit hook for flake8 checks without ignoring f401. sorry for my english :

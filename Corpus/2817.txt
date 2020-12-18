@@ -1,0 +1,1 @@
+ URL : "https://github.com/jragyn/CAEX/issues/1" TITLE : error on save BODY : when saving, the following snipped error message occurs: type error - cannot convert undefined or null to object ! image https://user-images.githubusercontent.com/34637415/34087959-3fdfafb8-e35b-11e7-96ec-b7a164ae35d1.png

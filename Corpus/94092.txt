@@ -1,0 +1,1 @@
+ URL : "https://github.com/FriendsOfREDAXO/bloecks/issues/26" TITLE : block hinzufügen unscharf BODY : ! image https://cloud.githubusercontent.com/assets/3855487/25172900/ae9445b8-24f2-11e7-8066-618826f184fe.png grund dafür ist translatey -75% , das das element auf einem halben pixel positioniert. bei retina vielleicht kein problem - in der allgemeinen anwendung jedoch schon.

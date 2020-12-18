@@ -1,0 +1,1 @@
+ URL : "https://github.com/Nebo15/ehealth.api/issues/414" TITLE : import uaddresses to demo BODY : import uaddresses data to demo environment. use uaddresses dev db as data source. copy following objects: - regions - districts - settlements

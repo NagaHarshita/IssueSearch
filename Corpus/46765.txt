@@ -1,0 +1,1 @@
+ URL : "https://github.com/craftyjs/Crafty/issues/1084" TITLE : mousedrag not working BODY : hi, i am trying to use the mouse drag feature http://craftyjs.com/api/mousedrag.html this is the code i tried to use the feature on : https://jsfiddle.net/yl3v48r6/61/ after adding the required attributes , still the red paddle still not moving by the drag event

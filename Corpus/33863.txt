@@ -1,0 +1,1 @@
+ URL : "https://github.com/google/ExoPlayer/issues/3353" TITLE : av1 not avi support? BODY : the still-in-development replacement for vp9 .webm would be cool to test, but is it supported by exoplayer? tried to find answers on google search but google keeps assuming i meant avi so i guess that's bad naming right there.

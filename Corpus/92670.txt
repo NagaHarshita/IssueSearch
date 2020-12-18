@@ -1,0 +1,1 @@
+ URL : "https://github.com/rye/krye.io/issues/131" TITLE : /bin/sh bundle,: not found BODY : seems like the recent changes in v5.2.0 included some munge-y stuff with the single quotes in dockerfile that broke stuff! revert and fix asap.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/balancap/SSD-Tensorflow/issues/107" TITLE : reproduce the caffe ssd. BODY : to reproduce the performance of the original one, i have modified some aspects. i got some results in 64 / 68 map in 07, 70 77.43 map in 07+12. vgg_16 / x : referred from the original papers is there anyone to complete the reproducing the original accuracy in tensorflow?

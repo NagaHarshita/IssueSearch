@@ -1,0 +1,1 @@
+ URL : "https://github.com/bestiejs/platform.js/issues/143" TITLE : add support ie8 BODY : in node.js mode get an error in ie8 getters & setters can not be defined on this javscript engine any workaround how it can be solved?

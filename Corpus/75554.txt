@@ -1,0 +1,1 @@
+ URL : "https://github.com/swagger-api/swagger-js/issues/1212" TITLE : how to change base url ? BODY : hello! i've my swagger.json hosted on the different server than api itself. how can i setup correct base url for my apis? thanks!

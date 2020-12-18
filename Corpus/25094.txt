@@ -1,0 +1,1 @@
+ URL : "https://github.com/vinniefalco/Beast/issues/590" TITLE : use more @defgroup BODY : this can group related overloads together on the page, helping to reduce the depth of the navigation trees. e.g. http://www.boost.org/doc/libs/1_64_0/doc/html/boost_asio/reference/buffer_cast.html

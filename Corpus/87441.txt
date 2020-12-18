@@ -1,0 +1,1 @@
+ URL : "https://github.com/donatemates/donatemates/issues/37" TITLE : lightweight flask backend BODY : this will let us serve campaign pages from prettier urls: donatemates.com/campaign/a9f8gh and lay the groundwork for some dry code cleanup using html templates.

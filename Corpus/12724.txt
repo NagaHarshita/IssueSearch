@@ -1,0 +1,1 @@
+ URL : "https://github.com/nvlad/yii2support/issues/11" TITLE : rename view file BODY : if use render '../profile/sidebar' and rename file 'sidebar.php' e.g. to '_sidebar.php', in code is replaced render '../profile/sidebar' as render '_sidebar.php' . must be render '..profile/_sidebar'

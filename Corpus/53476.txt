@@ -1,0 +1,1 @@
+ URL : "https://github.com/mgechev/codelyzer/issues/460" TITLE : drop check-pipe rule ? BODY : there are many issues open concerning the check-pipe rule. imo, this problems are unsolvable without introduce other risks. @mgechev , what do you think about drop once and for all this rule ?

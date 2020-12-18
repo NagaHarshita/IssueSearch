@@ -1,0 +1,1 @@
+ URL : "https://github.com/ZeroK-RTS/Zero-K/issues/2435" TITLE : djinn sound error BODY : https://github.com/zerok-rts/crashreports/issues/1375 error: luarules::runcallintraceback error=2 lua_errrun callin=recvfromsynced trace= internal lua error: call failure string luarules/gadgets/api_fog_hidden_effects.lua :47: bad argument 3 to 'isposinlos' number expected, got nil

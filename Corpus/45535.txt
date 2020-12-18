@@ -1,0 +1,1 @@
+ URL : "https://github.com/tracemap/tracemap-tool/issues/9" TITLE : implement graph logic BODY : 8 - retrieve twitter retweet data - retrieve database user relation data - crosscheck both to define the tracemap relations resources - flask endpoints for twitter and database calls are defined in tracemap-backend https://github.com/tracemap/tracemap-backend

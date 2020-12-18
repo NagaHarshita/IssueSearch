@@ -1,0 +1,1 @@
+ URL : "https://github.com/SciLifeLab/NGI-RNAseq/issues/150" TITLE : update the docs BODY : https://github.com/scilifelab/ngi-rnaseq/blob/master/docs/usage.md reference-genomes the info above is now outdated, needs to be changed so that it refrences the igenomes.config file correctly.

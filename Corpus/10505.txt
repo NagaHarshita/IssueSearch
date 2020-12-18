@@ -1,0 +1,1 @@
+ URL : "https://github.com/glayzzle/php-parser/issues/50" TITLE : cleanup the code BODY : - add use strict statement on every file - check & investigate each @todo / @fixme statement - pass with jshint on every file

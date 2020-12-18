@@ -1,0 +1,6 @@
+ URL : "https://github.com/tmulry/IssueLoaderSandbox/issues/118" TITLE : web part: find a broker BODY : 1. the find a broker component allows visitors to select a state from a drop down and see the contact information for the broker's in that state.
+1. content editors do not manage the data the component displays the pages on which this component lives. instead, content authors create global broker data objects and categorize them by state. the component manages returning the proper information based on the drop down selection.
+1. the component supports a vertical and horizontal layout for the title/drop down.
+1. results are returned underneath the dropdown.
+1. see content type: broker for the exact data that will be supported for brokers.
+1. assumption: there will be a 1-1 relationship between brokers & regions

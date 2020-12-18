@@ -1,0 +1,6 @@
+ URL : "https://github.com/millerp/chamados/issues/197" TITLE : chamado 1683911 BODY : dados do chamado
+| gravidade | urgência | tendência | gut |
+|-----------|----------|-----------|-----|
+| 5 | 5 | 5 | 125 | criação : 2671 - lucas simonetti dutra - 03/12/2016 08:46:42 descrição do chamado :
+erro para adicionar disponibilidade futura ped. 17622 prod. 164525 ao tentar adicionar a disponibilidade futura no produto aparece o seguinte erro: erro ao inserir registro na tabela webpdv.produtos_disponibilidade_futura: an exception occurred while executing '/ db_webpdv_produtosdisponibilidadefutura::atualizardataentregacliente / update webpdv.produtos_disponibilidade_futura set data_entrega_cliente = 20161206 where id_produto_disponibilidade_futura = ': sqlstate 42000 : syntax error or access violation: 1064 you have an error in your sql syntax; check the manual that corresponds to your mysql server version for the right syntax to use near '' at line 4. neste caso para conseguir adicionar a disponibilidade é preciso editar o pedido de disponibilizar internamente. obs.: o erro não acontece em todos os produtos do pedido. descrição da tarefa
+\ espaço destinado às especificações/requisitos da tarefa levantados durante a análise

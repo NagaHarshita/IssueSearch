@@ -1,0 +1,1 @@
+ URL : "https://github.com/JuliaDiffEq/DiffEqOnlineServer/issues/5" TITLE : heroku runs as a user BODY : in the docker image packages need to be installed as root, but the server process needs to run under some user. this may be as easy as pushing something to load_path but i don't actually know where the package folder is. will take another look at it tomorrow.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/perl6/whateverable/issues/223" TITLE : two department issues BODY : > \<alexdaniel\> c: all <a b c d>».say > \<committable6\> alexdaniel, sorry kid, that's not my department. > \<alexdaniel\> c: head react whenever signal sigint .merge signal sighup { say ‘hey!’; exit 0 } > \<committable6\> alexdaniel, sorry kid, that's not my department.

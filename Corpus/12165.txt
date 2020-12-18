@@ -1,0 +1,1 @@
+ URL : "https://github.com/shadowsocks/shadowsocks-manager/issues/112" TITLE : need some help ! BODY : 2017-03-07 13:59:50.263 info system - system start. 2017-03-07 13:59:50.518 error system - caught exception: typeerror: cannot read property 'split' of undefined

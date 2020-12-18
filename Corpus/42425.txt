@@ -1,0 +1,1 @@
+ URL : "https://github.com/nubisproject/nubis-docker-builder/issues/17" TITLE : base off apline linux BODY : for more compact images check it out in a buildable state here: https://github.com/gozer/nubis-docker-builder/tree/feature/alpine

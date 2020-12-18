@@ -1,0 +1,1 @@
+ URL : "https://github.com/Evgenus/spa/issues/79" TITLE : problem with 2e2 BODY : npm err! failed at the spa@1.0.0 e2e script 'node test/e2e/runner.js'. npm err! make sure you have the latest version of node.js and npm installed. when trying to run e2e or ding the test, i get that error.

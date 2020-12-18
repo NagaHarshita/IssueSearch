@@ -1,0 +1,1 @@
+ URL : "https://github.com/words-sdsc/edX/issues/38" TITLE : issues with git bash BODY : i'm collecting the issues with git bash, then i'll add them as a note to the install instructions more and man are not available in jupyter notebooks, you cannot access git bash with ! , so for example !ls won't work

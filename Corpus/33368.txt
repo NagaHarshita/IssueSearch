@@ -1,0 +1,1 @@
+ URL : "https://github.com/dangle/rapcom/issues/7" TITLE : add logging support. BODY : add a --log-level attribute to the global command that can exist anywhere in the command line arguments that will set logging.

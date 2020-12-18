@@ -1,0 +1,1 @@
+ URL : "https://github.com/i--storm/rc-leonardo-joy/issues/1" TITLE : error when compiling BODY : when i try to compile the code i get an error in cpp.h line 19. it's missing a parameter. i.m on windows 10 and 1,8 arduino

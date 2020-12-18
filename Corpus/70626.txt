@@ -1,0 +1,1 @@
+ URL : "https://github.com/Automattic/underscores.me/issues/57" TITLE : wordpressify if lt ie 9 BODY : could we go wp_script_add_data 'html5shiv', 'conditional', 'lt ie 9' ; ?

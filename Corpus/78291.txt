@@ -1,0 +1,1 @@
+ URL : "https://github.com/zeit/hyper/issues/2401" TITLE : preferences doesn't work BODY : <!-- please succinctly describe your issue and steps to reproduce it. --> - hyper 1.4.8 electron 1.7.8 win32 x64 6.1.7601 neither selecting preferences from the edit menu nor pressing ctrl-, gives anything like a preferences window or dialog. just nothing happens.

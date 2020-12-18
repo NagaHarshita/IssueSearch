@@ -1,0 +1,1 @@
+ URL : "https://github.com/metafetish/buttplug-csharp/issues/13" TITLE : add osc serialization? BODY : right now, we just serialize to json. might be worth trying osc too, 'cause hey, why not?

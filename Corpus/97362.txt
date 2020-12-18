@@ -1,0 +1,1 @@
+ URL : "https://github.com/facebook/react/issues/9093" TITLE : getting rid of string refs BODY : is this line https://github.com/facebook/react/blob/master/src/addons/transitions/reacttransitiongroup.js l218 making use of string refs? can i make a pr to fix that?

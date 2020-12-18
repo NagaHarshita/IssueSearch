@@ -1,0 +1,1 @@
+ URL : "https://github.com/apereo/phpCAS/issues/246" TITLE : bug in current release BODY : i was not getting attributes back from my service with phpcas, so i discovered that the cas_version_2_0 was not useing the p3/servicevalidate servlet. it was hard coded to use servicevalidate. once i updated that, i was able to receive my attributes.

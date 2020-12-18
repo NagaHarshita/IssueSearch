@@ -1,0 +1,1 @@
+ URL : "https://github.com/shpectorov/MapClass/issues/4" TITLE : switching to releasetools BODY : releasetools for gap packages https://github.com/fingolfin/releasetools by @fingolfin is a set of tools to help to release gap packages hosted on github. we need to switch to it and make a new release of mapclass.

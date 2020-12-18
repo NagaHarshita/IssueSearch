@@ -1,0 +1,1 @@
+ URL : "https://github.com/datosgobar/portal-andino-theme/issues/15" TITLE : mejorar manejo de metatags BODY : cuando no hay configuración de metatags guardadas, en el html se renderean tags con none

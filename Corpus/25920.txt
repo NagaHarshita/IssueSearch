@@ -1,0 +1,1 @@
+ URL : "https://github.com/fru1tstand/csgo-server-manager/issues/3" TITLE : add instance server BODY : + get desired preliminary information + store preliminary information in database + call update instance method

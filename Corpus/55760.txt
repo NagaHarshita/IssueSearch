@@ -1,0 +1,1 @@
+ URL : "https://github.com/maximgatilin/weathernow/issues/27" TITLE : limit weather requests BODY : нужно ограничить кол-во запросов за определённый промужуток времени например, 15минут , ибо погода не меняется так часто express-rate-limit

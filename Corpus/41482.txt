@@ -1,0 +1,1 @@
+ URL : "https://github.com/poschengband/poschengband/issues/50" TITLE : 7.0.2 free id exploit BODY : if you push ^d to destroy an item, and then push the capital letter of the inventory slot, you get to read the description of the item even if it is unidentified.

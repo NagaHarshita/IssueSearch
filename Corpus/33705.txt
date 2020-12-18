@@ -1,0 +1,1 @@
+ URL : "https://github.com/ctrninja/osu-3DS/issues/2" TITLE : an exception occured BODY : o2ds 11.6.0, b9s + luma exception type: data_abort here's the dump file: crash_dump_00000024 = osu-3ds.zip https://github.com/ctrninja/osu-3ds/files/1564845/crash_dump_00000024.osu-3ds.zip

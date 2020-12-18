@@ -1,0 +1,1 @@
+ URL : "https://github.com/bpampuch/pdfmake/issues/837" TITLE : progress of pdf creation BODY : i'm searching for a generic progress callback in pdfmake which gets the current progress while the pdf generation in percentage . then an application can show a progress bar of pdf creation. such a user feedback is really required if you create huge pdf documents.

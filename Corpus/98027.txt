@@ -1,0 +1,1 @@
+ URL : "https://github.com/icanhazstring/tempa-php/issues/1" TITLE : implement interactive mode BODY : currently there is only a scan and substitute command. an interactive mode would be easier to handle for users.

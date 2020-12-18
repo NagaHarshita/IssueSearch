@@ -1,0 +1,1 @@
+ URL : "https://github.com/DeamonRealm/Age_of_Empires_II/issues/24" TITLE : crash when warrio dies BODY : build: v0.4 type: when warrior dies crash. attack action must be smart pointer severity: x critical major minor priority: x urgent high normal low steps to reproduce: go to enemy crowd and kill the warrior frequency: always screenshot optional :

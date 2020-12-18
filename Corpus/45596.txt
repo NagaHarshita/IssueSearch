@@ -1,0 +1,1 @@
+ URL : "https://github.com/srl295/gp-js-flatten/issues/9" TITLE : improve array support BODY : probably need to change how _apply works the path traversal may need look-ahead… … but could expand to: a,b,c instead of {0: a, 1: b, 2: c} improve 4

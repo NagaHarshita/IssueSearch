@@ -1,0 +1,1 @@
+ URL : "https://github.com/gisce/orakWlum-frontend/issues/193" TITLE : bug table data assignation BODY : there's a bug at table render columns assignation. review it and provide a fix

@@ -1,0 +1,1 @@
+ URL : "https://github.com/valor-software/ngx-bootstrap/issues/2599" TITLE : cannot find name 'partial' BODY : this issue exists.! please help i.node_modules/ngx-bootstrap/datepicker/bs-daterangepicker.component.d.ts 45,15 : cannot find name 'partial'. ii.node_modules/ngx-bootstrap/datepicker/bs-daterangepicker.component.d.ts 45,15 : cannot find name 'partial'.

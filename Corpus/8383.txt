@@ -1,0 +1,1 @@
+ URL : "https://github.com/alexa/avs-device-sdk/issues/111" TITLE : no sound output BODY : after installing everything on rasbian stretch i can no longer output any sound. i've modified the .asoundrc file, forced audio through the 3.5mm jack still nothing.

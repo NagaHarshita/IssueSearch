@@ -1,0 +1,1 @@
+ URL : "https://github.com/uPortal-Project/uportal-app-framework/issues/605" TITLE : document markdown linting BODY : as demonstrated in 604 , it's quite possible to try to update e.g. the changelog.md and fail linting. how again do i run this linting locally? would it help any to document this or call out how to understand this by looking at .travis.yml , in contributing.md ?

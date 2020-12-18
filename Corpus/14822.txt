@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/AirSim/issues/590" TITLE : car does not work BODY : i downloaded binary neighborhood. my settings file is as follows: { settingsversion : 1.0, simmode : car } car does not move. what is wrong?

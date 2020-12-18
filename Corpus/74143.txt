@@ -1,0 +1,1 @@
+ URL : "https://github.com/Soluto/shisell-js/issues/29" TITLE : drop bluebird dependency BODY : promises are now present almost anywhere, and if they don't they get polyfilled. we should specify that in the documentation, and we can expose a shisell.promise field to be filled with whatever implementation the user desires similar to what rx does , or default to global.promise.

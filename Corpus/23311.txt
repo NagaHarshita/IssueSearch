@@ -1,0 +1,1 @@
+ URL : "https://github.com/annettekotian/cs414-f17-801-enigma/issues/35" TITLE : p4 feedback task 4 BODY : next are some fragments of code that have duplication with others and could be refactored: cases createtrainer and updatetrainer in edu.colostate.cs.cs414.enigma.servlet.managerservlet.dopost httpservletrequest, httpservletresponse

@@ -1,0 +1,1 @@
+ URL : "https://github.com/pspeter3/numen/issues/2" TITLE : add prettier support BODY : prettier should be used to format code. adding a test that there are no unformatted files is good too.

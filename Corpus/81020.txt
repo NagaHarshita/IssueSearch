@@ -1,0 +1,1 @@
+ URL : "https://github.com/GreenMachineReloaded/great-scoutt/issues/2" TITLE : valid matches not saving BODY : steps to reproduce 1. enter correct data for match number, allies and opponents 2. hit save expected team detail page should appear and the added match should be present in the match list. actual match is not present

@@ -1,0 +1,1 @@
+ URL : "https://github.com/BioPhoton/css-star-rating/issues/29" TITLE : extend half stars styling BODY : we need to cut the div of the star icon with width n % and overflow hidden property to provide half star styling for every icon type. at the moment i use 3 different icons for full, half and empty stars.

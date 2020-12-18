@@ -1,0 +1,1 @@
+ URL : "https://github.com/danialfarid/ng-file-upload/issues/1875" TITLE : uploading base64 example BODY : hi, there ... i have troubles making an example of uploading base64 to a server. i have a base64 so i do not need to convert it but i can not figure out how to do the rest. can anyone help me with this ?

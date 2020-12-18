@@ -1,0 +1,1 @@
+ URL : "https://github.com/ultimate-pa/distress/issues/12" TITLE : account for rundefinitions BODY : when ultimate makes use of multiple rundefinitions, split them we creating new nodetasks.

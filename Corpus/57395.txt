@@ -1,0 +1,1 @@
+ URL : "https://github.com/argentumproject/electrum-arg/issues/2" TITLE : proper fiat conversion BODY : needs to be configured for argentum. can be found in lib/exchange_rate.py and qt/main_window.py. also applies to kivy android but much lower priority.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Pitchlyapp/meteor-apollo2/issues/5" TITLE : screen not updated. BODY : os: windows 7. steps: 1. cloned 2. installed as per instruction 3. started meteor - without issues 4. opened localhost:3000 and saw current database value for this user section with empty fields 5. entered text fields and clicked update - no result

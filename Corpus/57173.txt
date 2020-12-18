@@ -1,0 +1,1 @@
+ URL : "https://github.com/dsu1/Archivist/issues/3" TITLE : polish logged out page BODY : logging out works but looks bad, some changes to implement: polish the flash notice, make it look better and fade after a few seconds the sign up page button displays the foundation button underneath the generic html button, use the foundation button, maroon colored.

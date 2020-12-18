@@ -1,0 +1,1 @@
+ URL : "https://github.com/evilcandybag/cardfetcher_prime/issues/1" TITLE : fix ascii parsing BODY : currently, the bot shits itself when anything other than a-z is used for card tags.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Prolucid/FsShelter/issues/7" TITLE : self-hosting is slow BODY : self-hosting should be faster than storm, atm it's a bit slower. can try rewriting with lmax disruptor instead of mailboxprocessors. alternatively, switch the entire stack to hopac from async.

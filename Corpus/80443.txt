@@ -1,0 +1,1 @@
+ URL : "https://github.com/Godlike/Pegasus/issues/12" TITLE : triangle overlap queries BODY : create basic overlap tests with all other shapes. useful things to google: separating axis theorem. normal force.

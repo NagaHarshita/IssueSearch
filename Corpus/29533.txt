@@ -1,0 +1,1 @@
+ URL : "https://github.com/agendaodonto/server/issues/38" TITLE : make email readonly BODY : in dentists/me endpoint. for changing the email is necessary to use the djoser change-email endpoint

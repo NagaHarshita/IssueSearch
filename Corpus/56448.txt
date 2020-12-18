@@ -1,0 +1,1 @@
+ URL : "https://github.com/google/conscrypt/issues/298" TITLE : need to support java 6 BODY : both grpc and netty target java 1.6. we should too.

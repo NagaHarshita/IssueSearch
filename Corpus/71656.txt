@@ -1,0 +1,1 @@
+ URL : "https://github.com/marshki/pyWipe/issues/3" TITLE : add support for sd cards BODY : /dev/mmcblk should be incorporated in to the code

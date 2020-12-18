@@ -1,0 +1,1 @@
+ URL : "https://github.com/Kronos3/SimpleMusicManager/issues/2" TITLE : play_song has issue BODY : play_song is accessing wrong dom and causing the playbar to display incorrect information.

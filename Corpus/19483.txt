@@ -1,0 +1,1 @@
+ URL : "https://github.com/schaffe/drug-catalog/issues/14" TITLE : add database seeds BODY : add ability to populate mongo database with stub data. it should be effective and fast - this operation would be performed before each test

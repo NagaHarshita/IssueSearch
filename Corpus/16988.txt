@@ -1,0 +1,1 @@
+ URL : "https://github.com/CPowell23/pinspiration/issues/160" TITLE : move content down BODY : right now most content is overlapping with the navbar. solution is either to make the navbar solid and push everything below it, or add a margin-top to all of the content

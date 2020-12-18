@@ -1,0 +1,3 @@
+ URL : "https://github.com/udacity/dlnd-issue-reports/issues/386" TITLE : wrong matrix size BODY : 2.nn/l4/18/general case
+it is written that the weights adds up an nxn matrix, however there is only one weight for each dimension, so it should be only a vector or an nx1 matrix .
+if it would be a square matrix, then in e w the partial formula xw ^t-y^t would be problematic, because the first one would be a matrix while the second one is a vector.

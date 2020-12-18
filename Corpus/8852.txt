@@ -1,0 +1,1 @@
+ URL : "https://github.com/libretro/fuse-libretro/issues/44" TITLE : segfault on osx BODY : attempting to launch any game on osx, i get a segfault. log here https://pastebin.com/mkb3nrwh .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/florentingarnier/OC_p3/issues/4" TITLE : affichage d'un article BODY : - insertion des données concernant l'article manuellement en bdd - implémenter le model article et ceux nécessaires à la récupération de données en bdd objectif lors de l'appel à l'url localhost?controller=article?id=5 affichage du contenu d'un article si article inexistant -> 404

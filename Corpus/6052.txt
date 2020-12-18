@@ -1,0 +1,1 @@
+ URL : "https://github.com/frc1418/tba.rb/issues/4" TITLE : use tba api v3 BODY : v2 of tba's api will be shut off on january 1st, 2018, and this library has not been updated for v3. i updated tbapy the python equivalent of this library several months ago; the process should be quite similar for ruby. i made these changes: https://github.com/frc1418/tbapy/pull/4/files

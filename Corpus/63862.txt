@@ -1,0 +1,1 @@
+ URL : "https://github.com/vvakame/commandpost/issues/5" TITLE : expose models to import BODY : could you please expose the command and any other publicly-usable model to import? i wouldn't mind something like this: typescript import as cp from 'commandpost'; setuponecmd : cp.command { // make and return a cp.command } thanks!

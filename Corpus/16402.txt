@@ -1,0 +1,1 @@
+ URL : "https://github.com/zpallin/notecli/issues/8" TITLE : improve books cli BODY : right now books cli is super bare. here are a couple cli features for books that should be added: 1. books should be able to open all of its contents into a single file 2. books should be able to display all nested results

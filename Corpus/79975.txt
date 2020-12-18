@@ -1,0 +1,1 @@
+ URL : "https://github.com/HubSpot/odometer/issues/145" TITLE : support imperial numbers BODY : for an american company i'd like to animate the following number 3' 6 three feet, six inch . right now the only way i see i can do this is by wrapping each number in an element an animate it individually. i was hoping there was an easier way to do this. thoughts?

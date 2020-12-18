@@ -1,0 +1,1 @@
+ URL : "https://github.com/umco/umbraco-stacked-content/issues/6" TITLE : slow to initialise BODY : i have noticed that once you have a few blocks in the stack, the initialisation slows down a lot . i haven't investigated this yet, just wanted to flag it here for future reference.

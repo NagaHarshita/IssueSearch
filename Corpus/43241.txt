@@ -1,0 +1,1 @@
+ URL : "https://github.com/accessd/rails-settings-ui/issues/53" TITLE : conditions for fields BODY : how do you look at adding custom validation ? for example, send lambda as condition -> value { value >= 5 }

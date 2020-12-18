@@ -1,0 +1,1 @@
+ URL : "https://github.com/ramnathv/htmlwidgets/issues/263" TITLE : export jsevals ? BODY : is it possible to export the jsevals function? i found it's quite useful to locate callback functions when handling some javascript libraries.

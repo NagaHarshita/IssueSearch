@@ -1,0 +1,1 @@
+ URL : "https://github.com/corcel/corcel/issues/368" TITLE : post views count BODY : - corcel version: 2.5.x - framework name & version: laravel 5.5.x - php version: 7.0.24 description: hello everyone! how to do post view counter? i want to display post views count. i think it is possible with meta data. thanks in advance! steps to reproduce:

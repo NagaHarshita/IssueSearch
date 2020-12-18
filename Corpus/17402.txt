@@ -1,0 +1,1 @@
+ URL : "https://github.com/unlam/lenguajesycompiladores/issues/18" TITLE : parámetros en ra BODY : en caso de utilizar pasaje de parámetros por: referencia : los punteros ocupan espacio en el ra con su correspondiente tamaño nombre : no hay punteros porque se hace reemplazo en el thunk copia : no hay punteros sino que una variable del mismo tipo

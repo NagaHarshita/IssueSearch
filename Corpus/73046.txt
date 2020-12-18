@@ -1,0 +1,1 @@
+ URL : "https://github.com/medialab-prado/consul/issues/118" TITLE : color levels not working BODY : there is a problem with color levels. when you create a new text highlight all the old highlighted text increase their intensity. not matter if they are not in the same place!

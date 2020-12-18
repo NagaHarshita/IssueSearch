@@ -1,0 +1,1 @@
+ URL : "https://github.com/silx-kit/silx/issues/649" TITLE : mask expected events BODY : to be able to have a nice integration of the mask cool in pyfai calibration i need to have few signals. - sigmasksaved filename - sigmaskloaded filename - sigchanged right now i only use change event from a protected api: masktoolswidget._mask.sigchanged .

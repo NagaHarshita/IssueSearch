@@ -1,0 +1,1 @@
+ URL : "https://github.com/MCResourcePile/MCResourcePile.github.io/issues/50" TITLE : fix navbar on mobile BODY : updates pulls to the right which looks weird on mobile. ! http://puu.sh/tnvud/c82d6ea12e.png possible solution: different navbar that only displays on mobile devices where updates is under the others with a divider between them, keep desktop pulling to the right.

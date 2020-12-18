@@ -1,0 +1,1 @@
+ URL : "https://github.com/musikinformatik/SuperDirt/issues/45" TITLE : loading samples on windows BODY : in 0.9-dev https://github.com/musikinformatik/superdirt/blob/0.9-dev/classes/superdirt.sc l131 leads to windows omitting all results from given paths to load samples since the directory results always end in \

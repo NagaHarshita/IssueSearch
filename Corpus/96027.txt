@@ -1,0 +1,1 @@
+ URL : "https://github.com/Semantic-Org/Semantic-UI/issues/5528" TITLE : dropdown - filter dropdown BODY : steps to reproduce 1. do something 2. do something else. 3. do one last thing. expected the dropdown should do this result the dropdown does not do this testcase fork this to get started http://jsfiddle.net/rduvhn8u/1/

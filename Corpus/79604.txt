@@ -1,0 +1,1 @@
+ URL : "https://github.com/yzh44yzh/practical_erlang/issues/6" TITLE : some function deprecated BODY : short_link.erl:9: warning: crypto:rand_bytes/1 is deprecated and will be removed in a future release; use crypto:strong_rand_bytes/1 short_link.erl:10: warning: random:seed/1: the 'random' module is deprecated; use the 'rand' module instead

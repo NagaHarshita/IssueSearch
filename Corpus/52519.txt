@@ -1,0 +1,5 @@
+ URL : "https://github.com/AgileVentures/MetPlus_tracker/issues/621" TITLE : company deletion error BODY : as an administrator
+given i try to delete a company
+and the company as jobs associated with
+when i press the button to delete the company
+then i should see a message informing me that the company cannot be deleted because there are jobs associated with it

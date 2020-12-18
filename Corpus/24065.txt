@@ -1,0 +1,1 @@
+ URL : "https://github.com/jinankjain/EmotionDetection/issues/1" TITLE : score each emotion BODY : is there a way to change the output to something like : anger:0.25, sadness:0.1, joy:0.35, ... to have an score of each emotion for a single input?

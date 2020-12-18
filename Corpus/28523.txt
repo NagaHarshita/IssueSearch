@@ -1,0 +1,1 @@
+ URL : "https://github.com/orange-buffalo/hoopoe-profiler/issues/55" TITLE : gradle tasks naming BODY : check if there is a convention about gradle tasks names and if integration-tests follows those.

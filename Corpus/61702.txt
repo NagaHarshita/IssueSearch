@@ -1,0 +1,1 @@
+ URL : "https://github.com/WikiWatershed/model-my-watershed/issues/2234" TITLE : big-cz: wdc detail view BODY : need template from @aufdenkampe / @emiliom for what to include. if the service supports historical data, fetch and display one week's worth of it by default. we can expand on showing more after the user asks explicitly.

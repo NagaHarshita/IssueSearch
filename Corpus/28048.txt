@@ -1,0 +1,1 @@
+ URL : "https://github.com/kcsongor/generic-lens/issues/22" TITLE : expose a rowtolist? BODY : we talked about this before but i think you said you had it currently specifically just to drag out labels right? could you expose a growtolist in this library if it's not too much of a hassle?

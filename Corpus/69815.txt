@@ -1,0 +1,1 @@
+ URL : "https://github.com/tichondrius/booking-frontend/issues/6" TITLE : tạo trang yêu thích BODY : ở mỗi trang tìm kiếm hoặc trang chi tiết phòng, nên có nút thêm vào yêu thích - có thể lưu ở local state hoặc redux để persist. ở footer có yêu thích khi nhấp vào chuyển đến trang yêu thích - chứa danh sách phòng yêu thích - có thể cho phép xóa 1 hoặc tất cả

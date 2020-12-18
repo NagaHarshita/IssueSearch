@@ -1,0 +1,1 @@
+ URL : "https://github.com/tony-dai-meng/beam/issues/1" TITLE : the build is failing BODY : visual studio currently lists 18 errors and 1 warning. recommended course of action: checkout the master branch fix the errors add and commit the fixes git push origin master

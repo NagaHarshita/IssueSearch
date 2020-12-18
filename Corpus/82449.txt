@@ -1,0 +1,1 @@
+ URL : "https://github.com/coleifer/peewee/issues/1345" TITLE : add truncate_table to doc BODY : truncate_table is implemented on peewee, but not in doc. i hope it is written in doc. https://github.com/dev-zero/peewee/blob/cab5b07398dff2b38597721fb99701a377ec8072/peewee.py

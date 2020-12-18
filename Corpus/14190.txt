@@ -1,0 +1,1 @@
+ URL : "https://github.com/edamontology/edam-bioimaging/issues/5" TITLE : add links to fbbi BODY : this has two main facets: 1. add working links to fbbi terms. 2. find a good way of encoding them in edam, with respect to https://github.com/edamontology/edamontology/issues/321.

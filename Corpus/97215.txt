@@ -1,0 +1,1 @@
+ URL : "https://github.com/humanmade/modular-page-builder/issues/43" TITLE : fresh install not working? BODY : is this plugin still being maintained? i threw this on a fresh install of 4.9.1, set the add_post_type_support and ... it's not showing anywhere. are there additional steps for configuration?

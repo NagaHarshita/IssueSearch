@@ -1,0 +1,1 @@
+ URL : "https://github.com/jacobsa/go-serial/issues/23" TITLE : how to set ioctl flags? BODY : i'm trying to implement this code /programmist11180/mobile_usb_to_serial_charger/blob/master/charger.c in go and looks like these two line are crucial: c ioctl_flags &= tiocm_rts; ioctl_flags &= tiocm_dtr; is there a way to set them with this library?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/QuantEcon/Games.jl/issues/59" TITLE : error from docs/make.jl BODY : @shizejin i got the following error by julia make.jl run locally : $ julia make.jl documenter: setting up build directory. error: loaderror: 'lib/base_types_and_methods.md' is not an existing page! ... can you take a look?

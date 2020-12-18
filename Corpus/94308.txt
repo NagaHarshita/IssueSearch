@@ -1,0 +1,5 @@
+ URL : "https://github.com/NSI-IT/AUG-DDMOBILE/issues/236" TITLE : ca>operations on a message BODY : - verify that following operations can be performed on the messages: 1. reply
+2. forward
+3. star a message
+4. tag a message as important
+5. delete a message - verify that i can select multiple messages to delete all in a go. - verify that order will always be recent to oldest. - verify that sort is needed to opt for oldest to recent though.

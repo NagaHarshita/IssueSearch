@@ -1,0 +1,1 @@
+ URL : "https://github.com/clawpack/doc/issues/140" TITLE : pip install errors BODY : errors resulting from pip install, i think from f2py trying to compile riemann solvers, but we didn't have time to debug before she left town. after setting pythonpath, things worked fine in classic and other fortran repos. errors.txt https://github.com/clawpack/doc/files/706156/errors.txt

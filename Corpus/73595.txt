@@ -1,0 +1,1 @@
+ URL : "https://github.com/tsunamayo/Skywanderers/issues/36" TITLE : ctrl + drag button order BODY : ctrl + drag only works when right mouse button is pressed first and then ctrl is pressed. expected would be that i can leave ctrl pressed and rightclick + drag multiple times without releasing ctrl.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/dsenko/spike-framework-core/issues/45" TITLE : component not renders BODY : add checking if component selector exists and if component is declared and not renders

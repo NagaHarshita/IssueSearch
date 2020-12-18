@@ -1,0 +1,1 @@
+ URL : "https://github.com/Kademi/kademi-dev/issues/2800" TITLE : default image for kademi BODY : example: /img/non_existing-image should return default image like some websites, they have default image for situation when trying to load a non-existing. imho, i think better we should do like that. and we already have a default image which paddy bought it.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/datamade/chi-councilmatic/issues/203" TITLE : track signup events BODY : it would be good to add event tracking to our analytics for chicago and nyc, so we can track account signups. @jeancochrane just did something similar for dedupe.io

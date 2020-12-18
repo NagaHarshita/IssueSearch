@@ -1,0 +1,1 @@
+ URL : "https://github.com/KaiserAndres/kaiserBot/issues/10" TITLE : !help crashes the bot. BODY : error:root:<class 'attributeerror'> error:root: 'bytes' object has no attribute 'encode' ,

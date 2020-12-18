@@ -1,0 +1,1 @@
+ URL : "https://github.com/agsh/onvif/issues/79" TITLE : can't play x-vlc format... BODY : browsers don't seem to like that format now and it seems support has been removed from chrome/others. i can use the api to display a single image but i want to display live video/stream. how do i encode the html with that uri?

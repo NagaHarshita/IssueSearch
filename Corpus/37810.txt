@@ -1,0 +1,1 @@
+ URL : "https://github.com/schrismartin/syllabus/issues/30" TITLE : multiple due presets BODY : - due dates can have several presets - start of class - end of class - end of day - custom - implement course start times and duration - implement course day-of-week meetings optional - implement date presets

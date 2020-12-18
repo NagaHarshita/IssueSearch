@@ -1,0 +1,1 @@
+ URL : "https://github.com/copercini/esp32-iot-examples/issues/1" TITLE : example not updated BODY : hi there! the exposed functions in your wificlientsecure.h don't fit the ones used in this example. is this example code updated?

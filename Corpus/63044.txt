@@ -1,0 +1,1 @@
+ URL : "https://github.com/Ultimaker/CuraEngine/issues/622" TITLE : debian: using rapidjson BODY : just found this, while working on 619: https://anonscm.debian.org/cgit/3dprinter/packages/cura-engine.git/tree/debian/patches/03-system-rapidjson.patch

@@ -1,0 +1,1 @@
+ URL : "https://github.com/influxdata/grade/issues/1" TITLE : add a 'branch' information BODY : knowing the branch on which the bench were run could be interesting. it may help deciding if a feature branch can be merge for example. it can also help to see the evolution of each branch over time. not knowing well influxdb, i don't know if it should be a tag or a field.

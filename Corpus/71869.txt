@@ -1,0 +1,1 @@
+ URL : "https://github.com/kiskolabs/humanizer/issues/48" TITLE : always the same question BODY : it is a nice gem. is it possible to organize to get a different question every time i call the contact form. it's changing on reload if the sending fails but i dont like to get the same question the first in row: two plus two? every time i go to the form. thanks

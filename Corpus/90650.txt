@@ -1,0 +1,1 @@
+ URL : "https://github.com/picturepan2/spectre/issues/330" TITLE : spacing between grid rows BODY : for some reason when i copy the layout doc and use the latest version from the cdn, i don't get any space between rows. https://jsfiddle.net/qn0w6och am i missing anything?

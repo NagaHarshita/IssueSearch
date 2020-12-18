@@ -1,0 +1,1 @@
+ URL : "https://github.com/Samueljoli/xo-joiql/issues/2" TITLE : support recursive schemas BODY : https://github.com/hapijs/joi/blob/v10.6.0/api.md lazyfn---inherits-from-any example schema js const schema = joi.object .keys { name: joi.string, age : joi.number .integer team: joi.array .items joi.lazy => schema }

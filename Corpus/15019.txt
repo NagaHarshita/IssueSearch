@@ -1,0 +1,1 @@
+ URL : "https://github.com/atom-material/atom-material-ui/issues/446" TITLE : compact tree view BODY : please have option so tree view items have less padding, perhaps proportional to font size, since in most other themes you can see way more onscreen on the sidebar at once and less scroll. i have implemented a solution that makes the wide padding go away.

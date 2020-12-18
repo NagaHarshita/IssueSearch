@@ -1,0 +1,1 @@
+ URL : "https://github.com/lkzhao/Hero/issues/229" TITLE : hero call animate crash. BODY : crash at:context.unhide view: toview , because both fromviewcontroller and toviewcontroller is nil. should add a basic protection. how to produce: start any transaction and setup a pangesture to go back, then pan quickly, it's about 1 in 10 or 20, then you will get it. thanks.

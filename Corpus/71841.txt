@@ -1,0 +1,1 @@
+ URL : "https://github.com/frankiejol/ravada/issues/108" TITLE : allow remote kvm servers BODY : allow the kvm server be in a different host than localhost.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/US-CBP/GTAS/issues/702" TITLE : is marketing flight BODY : i don't see a use for this data element, since i don't think we'll ever create a marketing flight. the is operating flight , however should probably be renamed. it's useful for showing codeshare flights. <!--- @huboard:{ milestone_order :4.439478068525662e-09, order :5.542173116296549e-10} -->

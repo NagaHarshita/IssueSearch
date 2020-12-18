@@ -1,0 +1,1 @@
+ URL : "https://github.com/renesas-rz/rskrza1_bsp_releases/issues/1" TITLE : kernel update schedule? BODY : i see that the bsp is currently built on 3.14.79-ltsi. are there any plans to update to 4.1.17-ltsi? thanks!

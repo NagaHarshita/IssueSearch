@@ -1,0 +1,1 @@
+ URL : "https://github.com/anjelhm/roundsmanApp/issues/11" TITLE : cambio de componente: BODY : - cambiar el componente listview a flatlist en el componente listaactual, de la carpeta listaactual. - cambiar el componente listview a flatlist en el componente listapedidos de la carpeta pedidos. - verifica tus sangrias y espacios.

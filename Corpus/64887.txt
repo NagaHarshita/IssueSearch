@@ -1,0 +1,1 @@
+ URL : "https://github.com/go-gomail/gomail/issues/84" TITLE : how to use from name??? BODY : i used this m.setaddressheader from , info@example.com , example but when i send an email to my mailbox, i saw info as from name instead of example!!!

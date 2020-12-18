@@ -1,0 +1,1 @@
+ URL : "https://github.com/bind-this/gshopper/issues/37" TITLE : update - category routes BODY : routes tested, currently 1 update needed: get by id - remove 'catch,' error handled in route.param/this get has no promise to be 'caught.' all other routes functioning.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Foaly/SettingsParser/issues/5" TITLE : crash perhaps line endings BODY : recently i opened a settings file with windows line endings on a macos machine. it resulted in a crash. sadly there is no time to investigate right now, so this is a don't forget note for the future.

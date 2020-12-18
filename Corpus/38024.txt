@@ -1,0 +1,1 @@
+ URL : "https://github.com/tomchentw/react-google-maps/issues/442" TITLE : no googlemap api key BODY : the console pops up a 'typeerror: this.props.googlemapelement is undefined' error. where do i put the api key? version 4.7.1.

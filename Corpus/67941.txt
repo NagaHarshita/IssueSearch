@@ -1,0 +1,1 @@
+ URL : "https://github.com/kMeillet/wac-piments/issues/3" TITLE : react proptypes warning BODY : react team have splitted proptypes into a new package called react-prop-types . sh warning: accessing proptypes via the main react package is deprecated just wait next.js update.

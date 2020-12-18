@@ -1,0 +1,1 @@
+ URL : "https://github.com/rubengomex/rg-async/issues/6" TITLE : each series feature BODY : add an eachseries srcarray, consumer method to each class. this method will do the same thing as each method but in series.

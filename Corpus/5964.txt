@@ -1,0 +1,1 @@
+ URL : "https://github.com/Photosynq/PhotosynQ-Python/issues/12" TITLE : typo in readme BODY : near the end of the readme df = ps.buildprojectdataframe info, data should be df = ps.build_project_dataframe info, data

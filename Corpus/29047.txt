@@ -1,0 +1,1 @@
+ URL : "https://github.com/d1vanov/quentier/issues/144" TITLE : integrate travis ci BODY : need to write .travis.yml file describing the build process along with installing all available pre-built dependencies and building those not available.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/NYPL-discovery/pcdm-store-updater/issues/3" TITLE : listen to kinesis stream BODY : currently reads from ndjson files. add support for listening to kinesis stream for new data.

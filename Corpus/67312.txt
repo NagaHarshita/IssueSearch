@@ -1,0 +1,1 @@
+ URL : "https://github.com/aetherdev/finance-public/issues/1" TITLE : php file & sql handling BODY : need to closer connect php file upload and unlink to sql queries specifically insert and delete queries . maybe with a temporary _files to upload_ and _trash_ directory.

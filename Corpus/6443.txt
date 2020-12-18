@@ -1,0 +1,1 @@
+ URL : "https://github.com/cevap/ion/issues/59" TITLE : add mac osx sdk BODY : add mac os sdk download to gitian-build.sh check

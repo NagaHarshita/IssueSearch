@@ -1,0 +1,1 @@
+ URL : "https://github.com/wzooff/minimart-cookbook/issues/1" TITLE : nginx doesnt start BODY : doesnt start as a service after installing. so if you've installed after inventory was generated - you should manaully start nginx

@@ -1,0 +1,1 @@
+ URL : "https://github.com/fkhadra/react-toastify/issues/103" TITLE : css doesn't work in 3.1.0 BODY : setting css with glamor doesn't work in 3.1.0, tried the example in document, no effect at all.

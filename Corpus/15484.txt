@@ -1,0 +1,1 @@
+ URL : "https://github.com/SimonN/LixD/issues/167" TITLE : editor can't zoom BODY : lix 0.6.22 editor doesn't have a zoom button, but it should have one. reason for no button: map 's interface changed to zoom-in, zoom-out, whereas the button originally gave only one command. must work on the zoom button in the editor.

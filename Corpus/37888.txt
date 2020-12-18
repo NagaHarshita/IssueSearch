@@ -1,0 +1,1 @@
+ URL : "https://github.com/ant-design/antd-migration-helper/issues/1" TITLE : need scan more porps BODY : not scan props like onrowclick，onrowdoubleclick、onrowcontextmenu、onrowmouseenter、onrowmouseleave、oncellclick .

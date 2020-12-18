@@ -1,0 +1,1 @@
+ URL : "https://github.com/MakerBox-NZ/pygame_BJMShaw/issues/4" TITLE : score constant decrease BODY : if you move left or right your score begins to decrease with every clock tick. i wonder if you accidentally placed your score inside a move function?

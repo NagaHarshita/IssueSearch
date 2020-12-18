@@ -1,0 +1,1 @@
+ URL : "https://github.com/LaravelDaily/Laravel-Passport-API-Server-Client-Demo/issues/1" TITLE : getting 401 error BODY : guzzlehttp \ exception \ clientexception 401 client error: post http://passport-server.dev/oauth/token resulted in a 401 unauthorized response: { error : invalid_client , message : client authentication failed }

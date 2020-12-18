@@ -1,0 +1,1 @@
+ URL : "https://github.com/ualbertalib/metadata/issues/146" TITLE : ual:private to ual:draft BODY : in the migration script and the profiles, change the accepted value for authentication from ual:private to ual:draft

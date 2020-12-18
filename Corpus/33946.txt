@@ -1,0 +1,1 @@
+ URL : "https://github.com/ddhp/react-isomorphic-boilerplate/issues/5" TITLE : better common chunks BODY : - create vender chunk instead of commons

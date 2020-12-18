@@ -1,0 +1,1 @@
+ URL : "https://github.com/ItsDizzy/angular2-auth/issues/21" TITLE : local storage not defined. BODY : i am trying to use angular2-auth libarary in my project and followed every step written here, but i am getting the following error when my application is loading. localstorage is not defined at new tokenservice is there anything else i need to do ?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/protViz/deisotoper/issues/68" TITLE : move to isotopicset BODY : https://github.com/protviz/deisotoper/blob/15027113b487e576b59f1ae7809192721e1eb506/java/deisotoper/src/main/java/ch/fgcz/proteomics/fbdm/isotopicmassspectrum.java l65 close issue with the commit message.

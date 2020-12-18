@@ -1,0 +1,1 @@
+ URL : "https://github.com/tilezen/vector-datasource/issues/1347" TITLE : add antarctic ice sheets BODY : split off from https://github.com/tilezen/vector-datasource/issues/355. > looking at the gravity storm osm mml it looks like there's a special antarctica glacier file they include, too. we already include osm glacier polygons.

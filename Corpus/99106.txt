@@ -1,0 +1,1 @@
+ URL : "https://github.com/almighty/almighty-core/issues/823" TITLE : make planner into a module BODY : description as a dev, i want to be able to import the planner components. functional acceptance criteria 1. it should have a build function to generate a module suited for npm. 2. it should be deployed via npm. non-functional acceptance criteria related

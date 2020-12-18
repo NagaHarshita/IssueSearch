@@ -1,0 +1,1 @@
+ URL : "https://github.com/nanoframework/nf-interpreter/issues/343" TITLE : can't ping a device BODY : this started to happen after the move to chibios v.17. investigate the usb comms and new stream implementation.

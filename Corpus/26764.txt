@@ -1,0 +1,12 @@
+ URL : "https://github.com/sirmordred/PrivsetIssueTracker/issues/5" TITLE : can't apply changes BODY : log: oncreate, launching app...
+log: preparing ui
+log: device supports overlay-manager-service
+log: there is no overlay installed, refreshing preferences
+log: getting default values from device
+log: creating user interface according to default values
+log: starting overlay process
+log: iscreatable is true
+log: saving user input values to res file
+log: everything is ready, lets compile it
+log: ok, compiling...
+log: overlay apk file is not found, failed

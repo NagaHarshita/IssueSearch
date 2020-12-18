@@ -1,0 +1,1 @@
+ URL : "https://github.com/ProjectQ-Framework/FermiLib-Plugin-PySCF/issues/3" TITLE : install scripts and pypi BODY : the basic version of the plugin is ready. you guys should now have all that is needed to make the install script and register the package with pypi.

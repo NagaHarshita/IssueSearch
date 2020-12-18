@@ -1,0 +1,1 @@
+ URL : "https://github.com/valhalla/valhalla/issues/189" TITLE : add location indexes BODY : 2016-09-21t17:11:26z @dnesbitt61 : originally created valhalla/tyr 127 request for an identifier of location index that will allow a user to easily correlate input locations with output locations. this was requested for optimized route where the location order is changed by the optimizer.

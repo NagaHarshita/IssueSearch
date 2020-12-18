@@ -1,0 +1,1 @@
+ URL : "https://github.com/pchero/jade/issues/43" TITLE : fix wrong api description BODY : currently, there are lots of wrong description in the resources api description. for example, in the queue_params description, data parameters description was wrong. call get /queue_params/ { name : <string> } data parameters account: account info. need to fix it.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/linuxmint/cinnamon-spices-applets/issues/60" TITLE : add support for gitmodules BODY : if an applet is using their own github project, allow them to be included as gitmoudles or using a reference to the user/repo/branch which is considered production ready , and where files should be downloaded from to prepare the zip files.

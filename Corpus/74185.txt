@@ -1,0 +1,1 @@
+ URL : "https://github.com/tmlee/vue-floatThead/issues/2" TITLE : dynamic table with v-for BODY : hi and thank you for the component. should the component also work if the table gets built data that comes via a xhr? i dont get it working with <th v-for= .... >head<th>

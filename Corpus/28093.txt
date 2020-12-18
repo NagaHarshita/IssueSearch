@@ -1,0 +1,1 @@
+ URL : "https://github.com/mpeterv/hererocks/issues/35" TITLE : fallback to mirrors BODY : e.g. if lua.org is down, hererocks will fail. instead, fallback to mirrors.

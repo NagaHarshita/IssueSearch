@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla/addons-linter/issues/1450" TITLE : use the amo eslint config BODY : this will sync this repo up to use the same eslint config as the addons-frontend project.

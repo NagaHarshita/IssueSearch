@@ -1,0 +1,1 @@
+ URL : "https://github.com/coredump-ch/water-sensor-admin/issues/2" TITLE : accept floats for lat/lng BODY : when adding a new sensor, i can't add non-integer latitude and longitude. ! 2017-11-08-000653_960x1065_scrot https://user-images.githubusercontent.com/105168/32522743-d8be3176-c418-11e7-820a-1df0fd208254.png

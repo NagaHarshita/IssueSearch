@@ -1,0 +1,1 @@
+ URL : "https://github.com/nginx/unit/issues/34" TITLE : no access log ? BODY : there is no access log in unit ? or it's desiged to have no access log ?

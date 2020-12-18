@@ -1,0 +1,1 @@
+ URL : "https://github.com/thombashi/allpairspy/issues/1" TITLE : update readme file BODY : in readme file at the installation section you mentioned that to install your lib one should run the following command: pip install allpairpy but you lost 's' letter that can confuse user, correct command is : pip install allpairspy

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jackcmeyer/SmartSync/issues/9" TITLE : logout of the application BODY : as a user, when i logout of the application, i would like my session to be ended and redirected back to the login page.

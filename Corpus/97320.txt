@@ -1,0 +1,1 @@
+ URL : "https://github.com/willdn/AWW/issues/3" TITLE : get block fee from network BODY : currently blockchain fee is hardcoded https://github.com/willdn/aww/blob/master/src/api/index.js l7 , get it from the network

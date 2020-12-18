@@ -1,0 +1,1 @@
+ URL : "https://github.com/valor-software/ng2-bootstrap/issues/1615" TITLE : close all dynamic tabs BODY : i have array of tabs but once i set array to init value just the content removed but nav tabs not change

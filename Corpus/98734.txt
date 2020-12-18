@@ -1,0 +1,1 @@
+ URL : "https://github.com/JackBuck/Robo-Plot/issues/142" TITLE : lab session fixes 17/03/17 BODY : we: - adjusted the home position given we've now fitted the new bed - replaced a warning via print with warnings.warn in debugimage - added a script to touch all four corners useful for testing the pen height .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/velddev/Miki/issues/189" TITLE : cant clear leave message BODY : ! image https://user-images.githubusercontent.com/24828421/27854546-2f912d74-6135-11e7-9137-95aba25ec1bc.png also, attempting to set a leave message in a different channel will not move it. she will just post them in both channels

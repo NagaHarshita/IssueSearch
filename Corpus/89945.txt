@@ -1,0 +1,1 @@
+ URL : "https://github.com/kesne/babel-plugin-inline-react-svg/issues/12" TITLE : require instead of import BODY : i'd like to use this babel plugin with require declarations and it doesn't seem to be working. require 'icon.svg' i'm getting the usual error syntaxerror: unexpected token < that is when the plugin is not there

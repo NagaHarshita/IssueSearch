@@ -1,0 +1,1 @@
+ URL : "https://github.com/kemalcr/kemal/issues/351" TITLE : gems and hosting BODY : coming from ruby, does kemal allows the app to interface with certain ruby gems? that would be helpful in plugging functionality straight up and work with the gems output directly. apart from heroku, are there any others which provide crystal hosting, as a feature?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/uchile-robotics/uchile_system/issues/7" TITLE : fix smach viewer BODY : al lanzar smach viewer tira un error y no muestra la maquina de estado. para arreglar esto hay que ir a la carpeta /opt/ros/indigo/lib/python2.7/dist-packages/xdot, abrir xdot.py y en la linea 480 reemplazar return int self.read_code por int float self.read_code

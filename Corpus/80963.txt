@@ -1,0 +1,1 @@
+ URL : "https://github.com/guediagael/ProductDesignProject-/issues/34" TITLE : users list: default view BODY : as a user i want to see the list of all users. users: name, occupation, avatar. lazy load: i am able to choose the number of projects on a page and go to a specific page 1...n . links: i am able to click on a project and see the user's page.

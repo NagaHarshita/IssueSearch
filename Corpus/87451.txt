@@ -1,0 +1,1 @@
+ URL : "https://github.com/openssf/open-journal-android/issues/4" TITLE : line breaks not preserved BODY : when saving a note, the line breaks are not preserved and the text is smushed together when re-opening the note. pretty serious 🐛!

@@ -1,0 +1,1 @@
+ URL : "https://github.com/stepmania/stepmania/issues/1583" TITLE : remove d3d renderer BODY : it's unmaintained, and there are no active devs who can or will fix it when things go wrong. further, it's one more thing tying the renderer to the way it was done well over a decade ago. i'd like to update the gl renderer to be something more sensible on modern machines.

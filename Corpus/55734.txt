@@ -1,0 +1,1 @@
+ URL : "https://github.com/Rellikiox/MapGenerator/issues/1" TITLE : libnoise.dll and c++11 BODY : hi, libnoise.dll is too old and now not compile. can you do the project into c++11 to be able to compil under gcc 5.4?

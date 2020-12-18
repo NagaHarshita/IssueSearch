@@ -1,0 +1,1 @@
+ URL : "https://github.com/envy/esp-knx-ip/issues/8" TITLE : make api restful BODY : we should make the api restful with json so that others can easily parse the data or configure the esp.

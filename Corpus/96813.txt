@@ -1,0 +1,1 @@
+ URL : "https://github.com/peterstanton/TeamAwesome-project/issues/22" TITLE : fix addi address registers BODY : addi isn't getting the registers correctly. borrow the logic of lea to fix it.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/zhovner/zaborona_help/issues/64" TITLE : vpn seems to be down BODY : router is unable to connect to server: tcp: connect to af_inet 94.242.59.126:1194 failed: connection timed out while on the status page https://status.zaborona.help/ everything looks fine.

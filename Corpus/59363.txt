@@ -1,0 +1,1 @@
+ URL : "https://github.com/rappen/LateboundConstantGenerator/issues/1" TITLE : tripple slash comments BODY : adding correctly formatted tripple slash comments would add usability by sypplying code insigts. should contain crm attribute type, max length, min/max value, format, cascade behavior etc.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/servicecatalog/oscm/issues/5" TITLE : uncomment two tests BODY : _from @dawidch on september 29, 2017 10:4_ fix and uncomment the tests. 7a6045817ca8290f77183f186154fc511f658c0c _copied from original issue: servicecatalog/development 843_

@@ -1,0 +1,2 @@
+ URL : "https://github.com/frankgreco/helloworld/issues/60" TITLE : service exposes nodeport BODY : note: this issue was automatically generated issue: due to security reasons, you are not allowed to expose a nodeport in this namespace. services must be accessed via a cluster virtual ip address. offending code: yaml
+type: nodeport how to fix: please remove this option and redeploy

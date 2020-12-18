@@ -1,0 +1,1 @@
+ URL : "https://github.com/idwall/idcrop/issues/11" TITLE : change all ids to classes BODY : this way we can have more than one cropper in a single page. https://github.com/idwall/idcrop/blob/master/lib/js/idcrop.js l47-l54

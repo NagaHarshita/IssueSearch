@@ -1,0 +1,1 @@
+ URL : "https://github.com/jazzband/silk/issues/205" TITLE : visualization not visible BODY : when creating a profile, the visualization is not shown in the browser. i have installed graphviz using homebrew. <img width= 973 alt= screen shot 2017-08-03 at 15 54 25 src= https://user-images.githubusercontent.com/7287514/28925117-35575292-7864-11e7-80ea-b6d9ac3dff1d.png >

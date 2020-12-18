@@ -1,0 +1,1 @@
+ URL : "https://github.com/spacehuhn/esp8266_deauther/issues/677" TITLE : attacks timing out BODY : when i launchntge attacks the deauther stops the attacks after some time around 5-6 mins. any way to make the attacks not time out?

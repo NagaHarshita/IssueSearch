@@ -1,0 +1,1 @@
+ URL : "https://github.com/bitrix-expert/bbc/issues/9" TITLE : слить с bbc-modules BODY : bbc не может никак работать без модуля bbc-module. может имеет смысл объединить в один репозиторий и поставлять их в комплекте?

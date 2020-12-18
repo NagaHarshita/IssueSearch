@@ -1,0 +1,1 @@
+ URL : "https://github.com/EspecNorthAmerica/EspecWeb/issues/1" TITLE : csrf token expiration BODY : csrf token expires after an hour when page is left open for long periods of time. this results in setup & login/out forms failing.

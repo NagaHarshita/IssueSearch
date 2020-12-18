@@ -1,0 +1,1 @@
+ URL : "https://github.com/larfoley/movie-db/issues/10" TITLE : style login form BODY : style the login form to look like the register form. there is no need to right any css as you can just apply the css classes that were used for the register form. also can you change the forms action attribute to go to /login

@@ -1,0 +1,1 @@
+ URL : "https://github.com/helm/monocular/issues/115" TITLE : update chart card design BODY : we want to update the chart card design to a more oriented marketplace design. now, we can get icons in custom sizes, so we can increase the icon size in the cards.

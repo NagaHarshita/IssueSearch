@@ -1,0 +1,1 @@
+ URL : "https://github.com/agourlay/cornichon/issues/135" TITLE : support matchers on array BODY : matchers are currently not supported by the jsonarraystepbuilder

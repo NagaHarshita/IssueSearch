@@ -1,0 +1,1 @@
+ URL : "https://github.com/osm-ui/react/issues/20" TITLE : migrate from px to rem BODY : most of the distances are currently in px , which is a bad habit in terms of responsiveness. we should scan the project to change all the px values into rem .

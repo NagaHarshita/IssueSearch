@@ -1,0 +1,1 @@
+ URL : "https://github.com/mble/hubspot-ruby/issues/3" TITLE : refactor into oo patterns BODY : right now many of the domain objects just have a generic properties accessor, that returns a raw hash of the properties pulled from the api. can use some metaprogramming to turn this into something a bit more ruby.

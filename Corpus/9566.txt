@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla/kitsune/issues/2930" TITLE : 12 factorize app BODY : we want to 12factorize kitsune. some progress has been made in the docker branch already on which we should build upon and complete this.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/codelibs/fess/issues/1360" TITLE : index pdf metadata BODY : i have fess indexing a website, which have some pdfs. i'm seeing that fess is not indexing those pdf metadata, namely its modified date. is there a way to configure fess to index this kind of metadata?

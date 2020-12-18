@@ -1,0 +1,1 @@
+ URL : "https://github.com/PeteLawrence/homebridge-people/issues/61" TITLE : automation failure idea BODY : i have some automations that are tied to individuals leaving that i think may be causing some issues. could we create something that is the same as no one but for each user? this could be an optional variable like the no one is currently?

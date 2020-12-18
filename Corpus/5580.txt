@@ -1,0 +1,1 @@
+ URL : "https://github.com/imazen/imageflow/issues/131" TITLE : read exif data BODY : hi. we used graphicsmagick, for resize and getting metadata in stdout: gm convert big.jpg -format %w %h % exif:datetime -write info:- -strip -resize 250x250> small.jpg how to do this on imageflow_server , where there is documentation rest api? thank.

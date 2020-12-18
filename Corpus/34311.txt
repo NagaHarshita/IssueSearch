@@ -1,0 +1,1 @@
+ URL : "https://github.com/xshellinc/iotit/issues/92" TITLE : cannot change locale BODY : when flash and set a new locale using iotit this error appears on raspberry pi 2 when booting up. -bash: warning: setlocale: lc_all: cannot change locale uk_ua.utf8

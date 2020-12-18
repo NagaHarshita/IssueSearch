@@ -1,0 +1,1 @@
+ URL : "https://github.com/NCBI-Hackathons/Scan2CNV/issues/33" TITLE : cnv caller: birdsuite BODY : suite of tools for snp calling on affymetrix arrays. limited to other platforms so it may not be the best tool for us https://www.broadinstitute.org/birdsuite/birdsuite

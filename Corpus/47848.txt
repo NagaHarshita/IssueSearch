@@ -1,0 +1,1 @@
+ URL : "https://github.com/ZwEin27/Sparql-Query-Parser/issues/1" TITLE : qpr only predicates!? BODY : unfortunately it cost me a few moments to realize why the parser claimed my syntax was incorrect: re_statement_content = re.compile r' ?<=qpr\: .+ ?=\s|$ ' why on earth do you restrict predicates to the 'qpr' prefix? 😕

@@ -1,0 +1,1 @@
+ URL : "https://github.com/rvpanoz/luna/issues/5" TITLE : --save and --save-dev BODY : respect --save and --save-dev parameters when installing new package in local mode

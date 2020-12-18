@@ -1,0 +1,1 @@
+ URL : "https://github.com/openaq/openaq-fetch/issues/387" TITLE : reduce inserts eea direct BODY : the csv files from eea direct contain 48 hours worth of data. currently, the adapter parses everything and tries to insert it all. most of the data will get discarded because it was already inserted on previous fetches. improve this by inserting data from the last 2 hours only.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/t4t5/sweetalert/issues/775" TITLE : ie 11 issue BODY : i keep getting this issue on ie11 ! image https://user-images.githubusercontent.com/20703483/33313659-56c5bb82-d451-11e7-985a-768efd5f172e.png assign function does not work in ie11 i guess, is it possible to use a polyfill function instead?

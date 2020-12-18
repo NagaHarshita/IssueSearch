@@ -1,0 +1,1 @@
+ URL : "https://github.com/majakudlicka/week8AM/issues/48" TITLE : remove unnecessary routes BODY : it looks like you're not using the /redirect route anywhere was this just for testing a double redirect? .

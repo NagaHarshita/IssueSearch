@@ -1,0 +1,1 @@
+ URL : "https://github.com/MoogBitchGetOutTheWay/MusicSupervillain/issues/4" TITLE : server finger mapping BODY : the server receives data about pins 30-41 on the arduino. the server must map this information in the following way so it can be more easily used edit this issue once glove is finished in case pins don't exactly match : picture of hand with correlating pin numbers

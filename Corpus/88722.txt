@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/vscode/issues/37385" TITLE : open debug view on launch BODY : similar to debug.openexploreronend but on the other end, i want vscode to switch to the debug sidebar or optionally a debug view preset if those ever become a thing when i execute a launch.

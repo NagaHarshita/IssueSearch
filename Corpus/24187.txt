@@ -1,0 +1,1 @@
+ URL : "https://github.com/OperationCode/operation_code_pybot/issues/13" TITLE : setup temp hosting BODY : need to come up with how to host the bot, document the steps to start it, and deal with any issues that arise from this change from local + ngrok.

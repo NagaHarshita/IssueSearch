@@ -1,0 +1,1 @@
+ URL : "https://github.com/K-Fet/K-App/issues/19" TITLE : services api end points BODY : no need permission for the moment - get: /services - post: /services - get: /services/{id} - put: /services/{id} - delete: /services/{id}

@@ -1,0 +1,1 @@
+ URL : "https://github.com/aldryn/aldryn-newsblog/issues/454" TITLE : code plugin does not work BODY : when using code plugin within the text plugin of the newsblog, the content of the code plugin is not being saved. upon re-opening the contents of the text plugin, one sees no changes. however, if one tries, say, the image plugin, it works and saves successfully.

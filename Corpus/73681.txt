@@ -1,0 +1,1 @@
+ URL : "https://github.com/perfwatcher/collectm/issues/21" TITLE : dataset not found: nbcpu BODY : feb 10 14:39:36 mail collectd 19646 : plugin_dispatch_values: dataset not found: nbcpu from pc.hostname.local/cpu-total/nbcpu , check your types.db!

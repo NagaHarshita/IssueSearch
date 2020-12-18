@@ -1,0 +1,1 @@
+ URL : "https://github.com/mzdb/pwiz-mzdb/issues/42" TITLE : restore the mzdb2mzml.exe BODY : old feature allowing to convert mzdb files into mzml should be restored such a tool would help a lot to compare generic mzml to mzdb converted into mzdb

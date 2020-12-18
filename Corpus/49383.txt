@@ -1,0 +1,1 @@
+ URL : "https://github.com/DeadSix27/modular_cross_compile_script/issues/2" TITLE : this project vs meson BODY : what is the benefit of this system as opposed to something like meson http://mesonbuild.com/ ? i don't want to shoot down your project. just curious about your vision for this.

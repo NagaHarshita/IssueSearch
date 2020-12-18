@@ -1,0 +1,1 @@
+ URL : "https://github.com/shuhongwu/hockeyapp/issues/30039" TITLE : fix crash in _cfrelease BODY : version: 7.0.0 2982 | com.sina.weibo reason selector name found in current argument registers: release link to hockeyapp https://rink.hockeyapp.net/manage/apps/411124/crash_reasons/181599118 https://rink.hockeyapp.net/manage/apps/411124/crash_reasons/181599118

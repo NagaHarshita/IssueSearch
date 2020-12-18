@@ -1,0 +1,1 @@
+ URL : "https://github.com/microg/android_packages_apps_GmsCore/issues/399" TITLE : unable to patch BODY : im trying right now to build lineageos with signature spoofing but so far i failed to apply the android_frameworks_base-n.patch file via git. is there any other way to patch this file?

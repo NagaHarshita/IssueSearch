@@ -1,0 +1,1 @@
+ URL : "https://github.com/KevinSheedy/jquery.alphanum/issues/68" TITLE : macos: option alt +key BODY : it looks like this plugin doesn't prevent the option+key combinations on macos.

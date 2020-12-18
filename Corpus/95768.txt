@@ -1,0 +1,1 @@
+ URL : "https://github.com/mirthestam/lean-monitor/issues/4" TITLE : display rolling statistics BODY : as user analyzing a backtest result, i would like to see my rolling statistics. i would like to see them similar to the algorithm lab at quantconnect.com. this implies a new tab between profit & loss and log .

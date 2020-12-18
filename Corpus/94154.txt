@@ -1,0 +1,1 @@
+ URL : "https://github.com/nkolban/esp32-snippets/issues/248" TITLE : breakage with latest cjson BODY : the latest cjson build in the esp-idf has changed its api which resulted in a breakage to the cpp_utils. this issue resolves that problem. see also: https://github.com/espressif/esp-idf/issues/1363

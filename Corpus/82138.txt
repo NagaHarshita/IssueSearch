@@ -1,0 +1,1 @@
+ URL : "https://github.com/quintilesims/layer0/issues/296" TITLE : add image crud operations BODY : allow users to list/delete images in a repo. we may run into the 1000 image limit quite a bit, and teams or our team could run a script to delete the oldest images

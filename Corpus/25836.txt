@@ -1,0 +1,1 @@
+ URL : "https://github.com/tkem/openlap/issues/67" TITLE : add confirm dialogs BODY : - exit app - restart race in progress , i.e. not finished yet - cancel race - free practice if race in progress ?

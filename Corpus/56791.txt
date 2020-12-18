@@ -1,0 +1,1 @@
+ URL : "https://github.com/jakiestfu/Medium.js/issues/204" TITLE : on input change event? BODY : in my case i use vue js, i need to store value to data on input changed. how could i accomplish this? i tried like this, but editor.addeventlistener is not a function editor.addeventlistener 'input', e => { this.content = e.target.value; } ;

@@ -1,0 +1,1 @@
+ URL : "https://github.com/plone/plone.restapi/issues/287" TITLE : 100% code coverage BODY : thanks to @witsch and @fschulze, we have a working coverage report again. i just fixed coveralls. we have 96 % code coverage. which is quite ok. though, i would like to reach 100% again to make it easier to track untested parts of the code.

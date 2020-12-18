@@ -1,0 +1,6 @@
+ URL : "https://github.com/TomSoucie/fiftybythirty/issues/2" TITLE : an admin can login BODY : as an admin
+when i visit the home page
+i can see a link to login
+and when i click the link i can see an admin login page
+and when i fill in username and password
+i can see an admin brewery index

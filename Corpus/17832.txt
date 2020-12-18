@@ -1,0 +1,1 @@
+ URL : "https://github.com/turnerlabs/customs-api/issues/32" TITLE : responds with 500 BODY : certain requests are causing the api to respond with a 500.

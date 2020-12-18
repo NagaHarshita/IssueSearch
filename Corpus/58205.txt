@@ -1,0 +1,1 @@
+ URL : "https://github.com/fedora-modularity/conu/issues/10" TITLE : seamless, explicit api BODY : let's bring objects, we consider to be an api, into conu.__init__.py so we can do from conu import container, image pr for this issue should also include documentation.

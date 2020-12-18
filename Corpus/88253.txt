@@ -1,0 +1,1 @@
+ URL : "https://github.com/mantidproject/mantid/issues/20918" TITLE : muon phases from detetors BODY : <!-- template for bug reports --> a new algorithm for calculating the phase table based on the detector configuration. this will be based off of a script by james lord. expected behavior actual behavior steps to reproduce the behavior platforms affected

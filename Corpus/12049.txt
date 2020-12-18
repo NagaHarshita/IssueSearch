@@ -1,0 +1,1 @@
+ URL : "https://github.com/scottgchin/delta5_race_timer/issues/51" TITLE : minimum lap time BODY : add minimum lap time so it discards short lap reads.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/KyleAMathews/react-micro-bar-chart/issues/13" TITLE : react 16 support BODY : do you have any plan to support react 16 ? getting createclass error.. typeerror: react.createclass is not a function

@@ -1,0 +1,1 @@
+ URL : "https://github.com/romance-ii/jscl/issues/70" TITLE : type inference / form the BODY : the form the is not actually supported, only discarded with a warning. src/compiler/compiler.lisp: warn discarding the ~a value-type ; xxx perhaps one day

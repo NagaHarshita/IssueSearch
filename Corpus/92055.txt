@@ -1,0 +1,1 @@
+ URL : "https://github.com/evergreen-ci/evergreen/issues/48" TITLE : user time zones - add gmt BODY : hi all, is it possible to add some additional locales to the user settings page for evergreen such that you could include gmt ? dublin / london don't appear to fall within the existing set of time zones. thanks! eoin

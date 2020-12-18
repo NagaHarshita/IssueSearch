@@ -1,0 +1,1 @@
+ URL : "https://github.com/gw0/docker-keras/issues/4" TITLE : missing ssh package BODY : could you add the open ssh package within this containers so we can connect with git over ssh ? apt-get update && apt-get install openssh-client

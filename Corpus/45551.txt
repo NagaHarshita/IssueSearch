@@ -1,0 +1,1 @@
+ URL : "https://github.com/bounswe/bounswe2017group2/issues/275" TITLE : implement report user BODY : each registered user will have a field: reporters: registered_user_ids a user cannot report a person twice. if the number of reporters reaches a threshold, let's say 10, the account gets deactivated.

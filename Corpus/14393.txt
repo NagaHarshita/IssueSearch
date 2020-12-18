@@ -1,0 +1,1 @@
+ URL : "https://github.com/punk4eva/Tavernspiel/issues/6" TITLE : adjacent door bug BODY : doors are being generated adjacent to one another so there must be something wrong with the check for doors in room.java on lines 190-191.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jf647/btrfs-snap/issues/14" TITLE : get rid of perl dependency BODY : i would like to use btrfs-snap on a system where there is no perl installed coreos is it be possible to get rid of perl in this line? https://github.com/jf647/btrfs-snap/blob/master/btrfs-snap l179

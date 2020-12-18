@@ -1,0 +1,1 @@
+ URL : "https://github.com/rickardn/Consolas/issues/5" TITLE : public api xml comments BODY : most of the public api is undocumented. would be nice to have most of it covered. see consoleapp https://github.com/rickardn/consolas/blob/develop/source/consoleapp.core/consoleapp.cs as a good example.

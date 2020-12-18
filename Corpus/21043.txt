@@ -1,0 +1,1 @@
+ URL : "https://github.com/NLeSC/case-law-app/issues/6" TITLE : doesn't work in ie BODY : the app doesn't work in ie, it gives an error about the math.log10 function.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/haikuports/haikuports/issues/1428" TITLE : jam crashes on 64 bit BODY : hrev51206 x86_64 haikuporter -s -j4 --get-dependencies --no-source-packages pe

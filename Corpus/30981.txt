@@ -1,0 +1,1 @@
+ URL : "https://github.com/Nexusger/Wordpress2Wyam/issues/8" TITLE : replace local links BODY : task: all links to the old blog should be replaced with the static wyam links reason: if the wordpress blog is gone, the links will be dead

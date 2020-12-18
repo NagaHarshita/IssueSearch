@@ -1,0 +1,1 @@
+ URL : "https://github.com/James-Thorson/VAST/issues/9" TITLE : modify rmarkdown pdf... BODY : ... to make sure that the code loading data_geostat for each case-study example is visible, so that users can work through the code in either the rmarkdown or compiled-pdf versions. ht mark maunder

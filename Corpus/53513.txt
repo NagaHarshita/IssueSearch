@@ -1,0 +1,1 @@
+ URL : "https://github.com/vmware/p4c-xdp/issues/60" TITLE : dword issue in .h file BODY : hello, when we compile the .p4 file using p4c-xdp, it generates a .h and .c file. the .h file is missing a fundtion for dword, which needs to be inserted manually. can you please fix this? thank you, sincerely,

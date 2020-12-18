@@ -1,0 +1,1 @@
+ URL : "https://github.com/aaubry/YamlDotNet/issues/259" TITLE : two level << BODY : simplified example: base: &level1 x: x base: &level2 <<: level1 y: y ok: <<: level1 fail: <<: level2 deserialize results in exception: property '<<' not found on type 'xxx.base' . if fail reference is changed to level1 it works. i am not certain if this should work, but would be logical?

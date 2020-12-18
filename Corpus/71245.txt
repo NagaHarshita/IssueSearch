@@ -1,0 +1,1 @@
+ URL : "https://github.com/WebDevStudios/WDS-Components-Library/issues/11" TITLE : add a template tags file BODY : to prevent clutter in the includes folder, let's create a separate template tags file that we can use for functions required by our components. this would include creating image sizes, etc.

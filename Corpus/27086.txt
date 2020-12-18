@@ -1,0 +1,1 @@
+ URL : "https://github.com/RadiusNetworks/serhex/issues/4" TITLE : commands in readme? BODY : with my radbeacon 3.2, the 0x31 command to fetch information does not need a pin. the old rbcom tool knew that. is that just a version issue?

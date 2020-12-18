@@ -1,0 +1,1 @@
+ URL : "https://github.com/rainyear/avgot/issues/1" TITLE : cannot run the code BODY : it seems the self._entry passed a nonetype. traceback most recent call last : file ~/projects/crawler/src/crawling.py , line 77, in work results = await node.callback await self.extract node.url, node.re , node.parent attributeerror: 'nonetype' object has no attribute 'callback'

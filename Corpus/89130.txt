@@ -1,0 +1,1 @@
+ URL : "https://github.com/glycerine/zebrapack/issues/5" TITLE : pointer support wih dedup BODY : ... so one doesn't need to manually dedup two pointers to structures that are shared.

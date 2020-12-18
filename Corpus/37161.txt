@@ -1,0 +1,1 @@
+ URL : "https://github.com/pouladpld/bubble-gunner/issues/12" TITLE : lava type deprecated BODY : lava is no longer a shape, and should now be a container. this change is needed for the particle emitter and image.

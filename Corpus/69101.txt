@@ -1,0 +1,1 @@
+ URL : "https://github.com/ningyuansg/soyaya_bot/issues/1" TITLE : store logs persistently BODY : store the log into a persistent file accessible after the docker image has been killed. 1. create folder 2. pick path in docker image to mount volume 3. direct log output to path in 2 4. modify dockerfile to mount folder 1 as volume at 2 on docker run

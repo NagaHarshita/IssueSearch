@@ -1,0 +1,1 @@
+ URL : "https://github.com/GateNLP/gateplugin-ConText/issues/1" TITLE : change package name BODY : gate.context is reserved for gate core, this should get a package name prefixed with either the author's organization or something like gate.plugin.context.

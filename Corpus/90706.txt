@@ -1,0 +1,1 @@
+ URL : "https://github.com/swsnu/swpp17-team3/issues/12" TITLE : sprint4 branch protection BODY : master 브랜치와 development 브랜치에 보호를 적용하였습니다. 이에 브랜치를 merge하기 위해서 review와 ci pass가 필요합니다. 새로운 pr을 작성하실 때, 관련하여 reviewer을 마크해주시면 감사하겠습니다.

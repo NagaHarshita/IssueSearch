@@ -1,0 +1,1 @@
+ URL : "https://github.com/Glimpse/Glimpse.Client.Hud/issues/33" TITLE : implement follow mode hud BODY : this adds a toggle to the hud that enables follow mode, which adds a query param to every request to indicate to the glimpse client that glimpse should follow the current page, and select the current page's main request based on it.

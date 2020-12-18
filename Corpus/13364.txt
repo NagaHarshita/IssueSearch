@@ -1,0 +1,1 @@
+ URL : "https://github.com/freebsd/poudriere/issues/566" TITLE : typo in man page BODY : under examples and bulk build of binary packages, should be regar d less : of	course you can use another version of freebsd, regarless on what ver- sion you are running. amd64 users	can choose i386	arch like in this example:

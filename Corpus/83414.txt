@@ -1,0 +1,1 @@
+ URL : "https://github.com/flutter/flutter/issues/8732" TITLE : cannot clone into c drive BODY : @goodev says he cannot clone flutter into the c drive. when he did that he got oops; flutter has exited unexpectedly. error when running the flutter doctor command.

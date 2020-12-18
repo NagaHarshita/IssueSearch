@@ -1,0 +1,1 @@
+ URL : "https://github.com/fabric8io/fabric8-maven-plugin/issues/1091" TITLE : improve fabric8 import BODY : improve the fabric8:import goal - to support adding webhooks - other git providers like bitbucket, gitlab - it and ut test cases - refactoring of vars, methods that are irrelavant

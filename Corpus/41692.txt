@@ -1,0 +1,1 @@
+ URL : "https://github.com/multi-cell/devise-ante/issues/40" TITLE : add commitizen scopes BODY : choosing scopes for this project is hard, so it would be nice if we could select from them instead of making up new ones left and right. we can do this with cz-customizable https://github.com/leonardoanalista/cz-customizable .

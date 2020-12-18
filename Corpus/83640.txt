@@ -1,0 +1,1 @@
+ URL : "https://github.com/proletariatgames/unreal.hx/issues/74" TITLE : check absolute timestamps BODY : it seems that copying/moving on windows doesn't update the last modfiied timestamp, leading to issues where copied files aren't detected by uhxbuild

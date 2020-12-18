@@ -1,0 +1,1 @@
+ URL : "https://github.com/coredns/coredns/issues/945" TITLE : mw/auto: time in test BODY : the auto_test.go has a time.sleep in the test making it flaky: ~~~ time.sleep 1100 time.millisecond // wait for it to be picked up ~~~ this should be reworked/removed.

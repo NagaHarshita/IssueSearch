@@ -1,0 +1,1 @@
+ URL : "https://github.com/gfax/junkyard-brawl/issues/4" TITLE : improve card api BODY : - add method to allow registering custom cards and adding them to the default deck - add method to allow removing cards from the default deck - add card api documentation, along with some examples for adding cards

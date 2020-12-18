@@ -1,0 +1,1 @@
+ URL : "https://github.com/SNDjango/server/issues/121" TITLE : rest api to update user BODY : as a developer of integrated system, i want to have a rest api to update a user so that i can: - send a request with necessary input - get a success response - get a fail response.

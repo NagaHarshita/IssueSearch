@@ -1,0 +1,1 @@
+ URL : "https://github.com/uport-project/uport-connect/issues/73" TITLE : issue with deux BODY : since the last update of uport-connect there seem to be issues with redux in the state change. for example with uport-demo when connected the navbar does not display the avatar. thanks

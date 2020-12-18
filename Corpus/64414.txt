@@ -1,0 +1,1 @@
+ URL : "https://github.com/DendraScience/dendra-json-schema/issues/2" TITLE : geo json - multipolygon BODY : places have the ability to use either lat/long/elevation or a geo json object. currently polygon is allowed, but multipolygon is not. it should be added as it is common for cases where islands are part of a boundary or inholdings in legal properties cause discontinuities.

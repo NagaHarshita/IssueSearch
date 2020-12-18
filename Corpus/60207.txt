@@ -1,0 +1,1 @@
+ URL : "https://github.com/jamiesyme/minfo/issues/1" TITLE : write errors to stderr BODY : any errors are currently written using printf . it'd be better to write them using fprintf stderr, ... .

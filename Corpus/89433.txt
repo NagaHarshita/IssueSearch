@@ -1,0 +1,1 @@
+ URL : "https://github.com/PRL-PRG/R-dyntrace/issues/11" TITLE : push sql directly into db BODY : as an option: instead of writing an sql script, send sql to database as it is generated.

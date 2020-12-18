@@ -1,0 +1,1 @@
+ URL : "https://github.com/redhat-openstack/openshift-on-openstack/issues/340" TITLE : support for lbaas BODY : as of now, openshift-on-openstack just support os::neutron::loadbalancer. it would be nice to support os::neutron::lbaas v2 api

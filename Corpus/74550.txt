@@ -1,0 +1,1 @@
+ URL : "https://github.com/sperretta/HLP/issues/23" TITLE : execution engine: insert BODY : child of 7 put general queries about execution engine there branch: feature/execution-engine/insert add elements to an existing table. if table does not exist return error, otherwise return confirmation of successful write.

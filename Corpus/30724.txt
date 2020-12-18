@@ -1,0 +1,1 @@
+ URL : "https://github.com/1amageek/Pring/issues/5" TITLE : query does not work BODY : even with the code like below all posts will be retrieved. swift datasource = post.order by: \post.createdat .limit to: 1 .datasource ... }.listen

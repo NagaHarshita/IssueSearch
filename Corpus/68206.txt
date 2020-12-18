@@ -1,0 +1,1 @@
+ URL : "https://github.com/jsekulowicz/eBiblioteka/issues/20" TITLE : renewing borrowed books BODY : user cannot renew an item if it has been requested by another user or is already overdue.

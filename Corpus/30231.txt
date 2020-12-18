@@ -1,0 +1,1 @@
+ URL : "https://github.com/67P/waves/issues/10" TITLE : only link full urls BODY : currently, anything that resembles a domain name will be linked using the http scheme. we can't really know if that's correct in all cases, so we should only link urls that include a scheme.

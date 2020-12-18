@@ -1,0 +1,12 @@
+ URL : "https://github.com/AppFolioOnboarding/image-sharer-RitamBanerjee/issues/14" TITLE : modify tag list BODY : as a user i want to edit the tag list for an image. __story__: image tags are awesome -- our user's love them! tags help us make sense of the
+plethora of images added to our system. but how annoying is it when our users
+make spelling mistakes in their image tags? super annoying! how awesome, and
+useful would it be to allow for tags to be edited after an image is added?
+super awesome, and useful! __acceptance criteria__:
+- there is a link to edit the tags for an image.
+- the image whose tags are to be modified is displayed on the edit page.
+- on the edit page, i can change the tags to any valid tag list.
+- after saving the edit page with valid tags, my changes are visible throughout the rest of the application. __discussion__:
+- should an image's url be editable? __dependencies__:
+- image tags
+- refactor flow tests to use page objects

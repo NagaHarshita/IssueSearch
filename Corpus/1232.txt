@@ -1,0 +1,1 @@
+ URL : "https://github.com/TheShadyBunch/clean-water-mapping/issues/15" TITLE : m4 - logout BODY : once in the application, there should be a way to logout. after logging out, the application should return to the welcome / opening page.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/kamiljano/noobie-detector/issues/4" TITLE : store more information BODY : in both file-based and commit-based discovery, the link to the repository should be stored. additionally, when commit is found, the diff should be stored

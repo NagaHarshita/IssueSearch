@@ -1,0 +1,1 @@
+ URL : "https://github.com/mdegani/view-org/issues/12" TITLE : memoize function in logic BODY : the same things are being recalculated i'd rather write code that recalculates something than store a value and have side effects

@@ -1,0 +1,1 @@
+ URL : "https://github.com/weareopensource/storytelling/issues/173" TITLE : { upgrad meeting} BODY : - remove display btn, click the slides card directly for display - put delete btn on the slides card - home page: no result, search bar in the middle - too many settimeout - dynamic component not on building time - build prod error

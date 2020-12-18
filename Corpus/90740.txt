@@ -1,0 +1,1 @@
+ URL : "https://github.com/schedjoules/android-event-discovery-sdk/issues/113" TITLE : start services non-sticky BODY : in order to reduce resource usage and get better session information, as a developer i want all services to be started non-sticky.

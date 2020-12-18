@@ -1,0 +1,1 @@
+ URL : "https://github.com/chartjs/Chart.js/issues/3824" TITLE : insert images as labels? BODY : is it possible to add images as labels? i know that labels are defined as arrays of strings, but is there any way of adding other elements to it? example: instead of having names for persons, it would have their images.

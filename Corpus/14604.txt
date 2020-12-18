@@ -1,0 +1,1 @@
+ URL : "https://github.com/robbiegreiner/brewery-tracker/issues/25" TITLE : beer card display BODY : ensure beer cards display as intended. should they all be the same width no matter what look into min && max width . if they can be different make sure they wrap appropriately in all views.

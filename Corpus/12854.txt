@@ -1,0 +1,1 @@
+ URL : "https://github.com/RandomBlueThing/Swampnet.QuoteMonster/issues/1" TITLE : server side auth BODY : claimsprincipal? basically, we want to take the stuff we get from the token and use that to look up out own user data. possibly figure out how to hook into the .net auth stuff so it all happens automatically ie, our user derived class

@@ -1,0 +1,1 @@
+ URL : "https://github.com/aiv01/brawler-server/issues/52" TITLE : modify join packet BODY : new join = prefabid selectable from client lobby client to server new clientjoined = name, uniqueid, position, rotation, prefabid server to client

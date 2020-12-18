@@ -1,0 +1,1 @@
+ URL : "https://github.com/klenin/Spawner/issues/91" TITLE : make file flush optional BODY : currently files are flushed only on exit for maximum performance. add per-file? option to perform file system flush on every pipe flush.

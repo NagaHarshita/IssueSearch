@@ -1,0 +1,1 @@
+ URL : "https://github.com/nicolov/segmentation_keras/issues/38" TITLE : about the pretrain model BODY : can you tell me the pretrained model if use the function def add_context model: sequential

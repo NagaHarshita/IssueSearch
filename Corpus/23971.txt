@@ -1,0 +1,1 @@
+ URL : "https://github.com/QMatrixClient/libqmatrixclient/issues/134" TITLE : rooms tags support BODY : provide ability to find tags of a room room , retrieve the list of rooms with a specific tag connection , get the whole list of rooms sorted/grouped by tag connection . depends on 123.

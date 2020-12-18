@@ -1,0 +1,1 @@
+ URL : "https://github.com/mathieudutour/git-sketch-plugin/issues/140" TITLE : sketch couldnot push BODY : how did it happen? 1.sketch couldnot push 2. 3. error log fatal: no configured push destination. either specify the url from the command-line or configure a remote repository using git remote add <name> <url> and then push using the remote name git push <name>

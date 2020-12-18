@@ -1,0 +1,1 @@
+ URL : "https://github.com/magneticio/vamp-docker-images/issues/57" TITLE : cleaning after build job BODY : - remove workspace - remove image tags

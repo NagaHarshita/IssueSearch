@@ -1,0 +1,1 @@
+ URL : "https://github.com/PierreRust/apigpio/issues/3" TITLE : upload to pypi BODY : we would like up use apigpio in https://github.com/missionpinball/mpf/ which heavily relies on asyncio to support the rpi as some kind of port extender. however, we need a convenient way for our users to install it. can you upload it to pypi? we only need python 3+ currently 3.4 to 3.6 .

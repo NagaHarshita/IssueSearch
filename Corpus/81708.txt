@@ -1,0 +1,1 @@
+ URL : "https://github.com/PennyDreadfulMTG/Penny-Dreadful-Tools/issues/3369" TITLE : 500 error at /decks/2397/ BODY : failed to execute delete from version with because of 1205, 'lock wait timeout exceeded; try restarting transaction' reported on decksite by logged_out

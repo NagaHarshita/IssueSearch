@@ -1,0 +1,1 @@
+ URL : "https://github.com/officert/mongotron/issues/164" TITLE : optional db name BODY : why is the database name required even though it says its optional in tool-tip?

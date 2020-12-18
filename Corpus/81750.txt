@@ -1,0 +1,9 @@
+ URL : "https://github.com/PennyDreadfulMTG/perf-reports/issues/555" TITLE : 500 error at /people/874/ BODY : failed to execute select p.id, lower ifnull ifnull ifnull p.name, p.mtgo_username , p.mtggoldfish_username , p.tappedout_username as name, count d.id as all_num_decks , sum d.wins as all_wins , sum d.losses as all_losses , sum d.draws as all_draws , ifnull round sum d.wins / sum d.wins + d.losses 100, 1 , '' as all_win_percent , sum case when d.competition_id is not null then 1 else 0 end as all_num_competitions , sum case when d.created_date >= %s then 1 else 0 end as season_num_decks , sum case when d.created_date >= %s then wins else 0 end as season_wins , sum case when d.created_date >= %s then losses else 0 end as season_losses , sum case when d.created_date >= %s then draws else 0 end as season_draws , ifnull round sum case when d.created_date >= %s then wins else 0 end / sum case when d.created_date >= %s then wins else 0 end + case when d.created_date >= %s then losses else 0 end 100, 1 , '' as season_win_percent , sum case when d.created_date >= %s and d.competition_id is not null then 1 else 0 end as season_num_competitions from person as p left join deck as d on p.id = d.person_id where p.id = 874 or p.mtgo_username = '874' group by p.id order by season_num_decks desc, all_num_decks desc, name with 1506668400, 1506668400, 1506668400, 1506668400, 1506668400, 1506668400, 1506668400, 1506668400 because of 1030, 'got error 28 from storage engine' reported on decksite by logged_out
+--------------------------------------------------------------------------------
+request method: get
+path: /people/874/?
+cookies: {}
+endpoint: person
+view args: {'person_id': '874'}
+person: logged_out
+user-agent: mozilla/5.0 compatible; ahrefsbot/5.2; +http://ahrefs.com/robot/ referrer: none

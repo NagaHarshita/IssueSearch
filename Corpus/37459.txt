@@ -1,0 +1,9 @@
+ URL : "https://github.com/rm3l/maoni/issues/34" TITLE : maoni sample app yyv BODY : yyv context - device language : english
+- device : nexus 5
+- screen size : 1080 x 1776
+- device type : phone
+- manufacturer : lge
+- native platform : armeabi-v7a, armeabi - screen density : 480 dpi
+- version code : 311
+- application id : org.rm3l.maoni.sample
+- android version : android 5.1.1 sdk 22 - version name : 3.1.1

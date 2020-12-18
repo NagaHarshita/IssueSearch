@@ -1,0 +1,1 @@
+ URL : "https://github.com/ceylon/ceylon/issues/7063" TITLE : spec for tuple cases BODY : i just noticed that the spec does not define case s of form: case 1, 2 case integer x, integer y ooops!

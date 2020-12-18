@@ -1,0 +1,1 @@
+ URL : "https://github.com/IrisLi17/RhythmMaterGame/issues/3" TITLE : bug in qmediaplayer BODY : every time call player->play , qobject::starttimer: timers can only be used with threads started with qthread

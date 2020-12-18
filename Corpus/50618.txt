@@ -1,0 +1,1 @@
+ URL : "https://github.com/fchollet/keras/issues/8656" TITLE : 3d augmentation -keras BODY : are there any plans to include 3d image generation augmentation like rotating/ squeezing/ flipping 3d cubes realtime for sample generation?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/trufont/trufont/issues/498" TITLE : create debian package BODY : it would be really nice to create installable debian packages for linux users. it looks as though there is a pretty-well tested utility for doing this automatically for a python virtualenv: https://github.com/spotify/dh-virtualenv

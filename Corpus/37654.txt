@@ -1,0 +1,1 @@
+ URL : "https://github.com/shigmas/SFOsaka/issues/47" TITLE : missing files in git BODY : building the client in qtcreator complains because soynet_icon.png and sfosaka_ja_jp.qm were not found on disk. forget to add to git?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/martin-ger/esp_wifi_repeater/issues/23" TITLE : no ap after flashing BODY : i flashed two .bin files using esptool.py. but there is no ap after flashing, serial monitor shows gibberish texts and symbols and it dosen't accepts any command. i'm using the latest sdk

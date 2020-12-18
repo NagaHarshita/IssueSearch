@@ -1,0 +1,1 @@
+ URL : "https://github.com/LearnNavi/Naranawm/issues/2" TITLE : database dump v1 BODY : need to create a data dump using the same database structure as eanaeltu creates today, this is to allow existing apps that rely on this data to continue to function until they can be updated with the new schema

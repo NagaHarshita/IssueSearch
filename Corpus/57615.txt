@@ -1,0 +1,26 @@
+ URL : "https://github.com/Zimmi48/bugzilla-test/issues/1017" TITLE : re: coq-club nat_rect? BODY : note: the issue was created automatically with bugzilla2github tool bugzilla bug id: 1017
+date: 2005-10-06 08:04:55 +0200
+from: pierre casteran &lt;<pierre.casteran@labri.fr>&gt;
+to: last updated: 2005-10-06 08:04:55 +0200 bugzilla comment id: 329
+date: 2005-10-06 08:04:55 +0200
+from: pierre casteran &lt;<pierre.casteran@labri.fr>&gt; ne vestergaard wrote: > when inputting print nat_rect. to the current windows version 8.0, > april 2004 , i get the following response:
+>
+> nat_rect =
+> fun p : nat -> type f : p 0 f0 : forall n : nat, p n -> p s n =>
+> fix f n : nat : p n :=
+> match n return p with
+> | o => f
+> | s n0 => f0 n0 f n0 > end > : forall p : nat -> type,
+> p 0 -> forall n : nat, p n -> p s n -> forall n : nat, p n
+>
+> should it not be match n return p n ? yes, in coq8.0pl2, it's match n as n0 return p n0 ... and when i check he term you mention on v8.0pl2, i get the message :
+the term p has type nat -> type while it is expected to have type type pierre >
+> cheers,
+> /r
+> --------------------------------------------------------
+> bug reports: http://coq.inria.fr/bin/coq-bugs
+> archives: http://pauillac.inria.fr/pipermail/coq-club
+> http://pauillac.inria.fr/bin/wilma/coq-club
+> info: http://pauillac.inria.fr/mailman/listinfo/coq-club bugzilla comment id: 330
+date: 2007-07-04 17:03:58 +0200
+from: pierre casteran &lt;<pierre.casteran@labri.fr>&gt; already fixed for a long time ago

@@ -1,0 +1,1 @@
+ URL : "https://github.com/OSLC/oslc-server/issues/1" TITLE : deprecated mongo driver BODY : npm warn deprecated mongodb@2.0.55: please upgrade to 2.2.19 or higher npm warn mongodb-core@1.2.31 requires a peer of kerberos@~0.0 but none was installed.

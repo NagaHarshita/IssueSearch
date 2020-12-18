@@ -1,0 +1,1 @@
+ URL : "https://github.com/electron-userland/electron-packager/issues/679" TITLE : stdout maxbuffer exceeded BODY : electron-packager ./ 'myapp1' --platform=darwin --arch=x64 > packaging app for platform darwin x64 using electron v1.6.11 then > stdout maxbuffer exceeded... any issues solve this?

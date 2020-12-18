@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla/fxa-auth-db-mysql/issues/246" TITLE : make tests independent BODY : currently, tests in /test/backend https://github.com/mozilla/fxa-auth-db-mysql/blob/master/fxa-auth-db-server/test/backend/db_tests.js directory can not be run independently. since we migrated to mocha it would easier to accomplish because we can use before and beforeafter .

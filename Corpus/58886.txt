@@ -1,0 +1,1 @@
+ URL : "https://github.com/dgraph-io/dgraph/issues/1495" TITLE : support for opencypher BODY : i really love the cypher query language from neo4j, and its specification is open sourced https://www.opencypher.org , will you guys consider the implementation?

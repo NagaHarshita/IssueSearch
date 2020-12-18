@@ -1,0 +1,1 @@
+ URL : "https://github.com/GuLinux/PlanetaryImager/issues/29" TITLE : configurable file name BODY : as an user, i would like to change the filename template. possible implementation: leave the recording panel as is, adding this setting to the configuration dialog

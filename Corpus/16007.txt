@@ -1,0 +1,1 @@
+ URL : "https://github.com/fwdawg74/dasmotos/issues/4" TITLE : good use of class BODY : this is a good use of class with a good name as it describes the component being styled. you could swap out the span tag for a <strong> tag to get bold default and add some semantic weight to the price. https://github.com/fwdawg74/dasmotos/blob/master/styles.css l21-l25

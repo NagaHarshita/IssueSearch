@@ -1,0 +1,1 @@
+ URL : "https://github.com/dlcrush/tool-rocks/issues/2" TITLE : add delete to admin pages BODY : need to add the delete functionality to all admin pages. might want to look at http://bootstrap-confirmation.js.org/ for confirmation functionality.

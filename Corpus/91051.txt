@@ -1,0 +1,1 @@
+ URL : "https://github.com/scalatest/scalatest/issues/1178" TITLE : support scala.js 1.0.0-m1 BODY : it would be good to add support for 1.0.0 milestone. i cannot publish my own open source due to my dependency on scaltest

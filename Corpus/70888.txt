@@ -1,0 +1,1 @@
+ URL : "https://github.com/tsebring/ArkGameTestingCommands/issues/2" TITLE : /health hangs the server BODY : using the command /health in the chat seems to hang the server.

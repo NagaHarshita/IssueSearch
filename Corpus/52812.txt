@@ -1,0 +1,1 @@
+ URL : "https://github.com/Codingpedia/bookmarks/issues/9" TITLE : create custom 404 page BODY : currently if a path is not present is automatically redirected to the homepage with nothing displayed. there is an route issue present: error error: uncaught in promise : error: cannot match any routes. url segment: 'zuzu' error: cannot match any routes. url segment: 'zuzu'

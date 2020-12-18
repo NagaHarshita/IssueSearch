@@ -1,0 +1,1 @@
+ URL : "https://github.com/vuejs/vue-cli/issues/387" TITLE : use a dev/master flow BODY : right now we are only using a master branch, we could do dev/master as in the other vuejs projects @egoist this is not high priority but whatever, 386

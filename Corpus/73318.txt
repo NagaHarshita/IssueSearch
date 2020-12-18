@@ -1,0 +1,1 @@
+ URL : "https://github.com/begla/Intrinsic/issues/32" TITLE : crash on startup v0.0.14 BODY : still crashing with renderer validation both off and on. opening intrinsic results in this error: error 2017-05-20 18:26:05 : vulkan : error driver code 0 : vkbindimagememory: memorytypeindex 7 is incompatible with memorytypebits supported by this image 0x102

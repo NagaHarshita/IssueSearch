@@ -1,0 +1,1 @@
+ URL : "https://github.com/danielbarry/free-comment/issues/2" TITLE : no filtering for posts BODY : description commit: 26bb0e2 <class>:<line s > : post.java:59 no filtering for the creation of posts - resources could trivially be exhausted. tasks abstract the filtering out of the class as an interface. filter for regular spam.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mapbox/mapbox-gl-native/issues/8216" TITLE : make context private BODY : as noted in https://github.com/mapbox/mapbox-gl-native/issues/8148, some sdks use the gl context object. we should expose those routines and keep gl::context private.

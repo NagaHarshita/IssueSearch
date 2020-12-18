@@ -1,0 +1,1 @@
+ URL : "https://github.com/OutCast3k/coinbin/issues/120" TITLE : sanitize user input BODY : for example if the tx has an extra new line char in the sign transaction tab the error is: there is a problem with one or more of your inputs, please check and try again

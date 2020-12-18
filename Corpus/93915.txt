@@ -1,0 +1,1 @@
+ URL : "https://github.com/Shougo/deoplete.nvim/issues/542" TITLE : autocomplpop like behavior BODY : problems summary i'd like the first item of the auto-completion list to be selected by default. this is what the neocomplete enable_auto_select option does in neocomplete. do you plan to make this availabe in deoplete as well?

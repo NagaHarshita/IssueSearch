@@ -1,0 +1,1 @@
+ URL : "https://github.com/plone/Products.CMFPlone/issues/2041" TITLE : document python 3 buildout BODY : document how to create a buildout that can test plone-packages against python 3

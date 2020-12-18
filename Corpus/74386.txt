@@ -1,0 +1,1 @@
+ URL : "https://github.com/Vladkryvoruchko/PSPNet-Keras-tensorflow/issues/8" TITLE : error in pspnet.prototxt BODY : hello, when run weight-converter this error occur: caffe.layerparameter has no field named bn_param . i replace it with batch_norm_param again occur below error: caffe.batchnormparameter has no field named slope_filler .

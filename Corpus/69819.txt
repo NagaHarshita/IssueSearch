@@ -1,0 +1,1 @@
+ URL : "https://github.com/alexcroox/R3-Web/issues/2" TITLE : uav has helicopter icon BODY : uav darter has chopper icon instead of drone one. read from db: sql { unit : b alpha 4-1:1 , id : , pos : 4422.78,2398.15,1001.16 , dir : 0, cls : b_uav_01_f , ico : iconhelicopter , icp : map_uav_01_ca , fac : 1 , grp : alpha 4-1 , crw : , cgo : }

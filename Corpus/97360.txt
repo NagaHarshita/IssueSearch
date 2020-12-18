@@ -1,0 +1,1 @@
+ URL : "https://github.com/rkalz/reddit-title-text-identification/issues/2" TITLE : getting more training data BODY : elasticsearch is very finicky when it comes to giving me data there has to be more than 8000 posts with 100+ karma in books, right? may look into google bigquery.

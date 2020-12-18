@@ -1,0 +1,1 @@
+ URL : "https://github.com/engagelab/talkwall/issues/321" TITLE : organisers not listed BODY : to reproduce: - add an organizer to a wall - the organizer is not shown in the list of organizers. - for some walls the creator is not listed

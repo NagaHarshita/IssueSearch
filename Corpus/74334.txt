@@ -1,0 +1,2 @@
+ URL : "https://github.com/amacfie/ci_pandoc_test/issues/16" TITLE : equation number position BODY : sometimes the equation number is vertically offset from the equation.
+hard to pin down cause. affected by browser.

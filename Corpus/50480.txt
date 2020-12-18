@@ -1,0 +1,1 @@
+ URL : "https://github.com/supergiant/supergiant/issues/184" TITLE : .sh deployment scripts BODY : we should add deployment scripts for the for the supergiant dashboard. we can have a select box on the site displaying your os version and desired script and you can download a curl script accordingly.

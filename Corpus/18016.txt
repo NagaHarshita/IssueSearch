@@ -1,0 +1,1 @@
+ URL : "https://github.com/Pilipo/modem-watcher/issues/2" TITLE : set a config file BODY : isolate the user definable settings like modem ip to a separate file.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/tadfisher/pass-otp/issues/26" TITLE : mac make install BODY : hi. i am using mac. instead of sudo make install , i installed pass-otp via make install prefix=/usr/local without sudo . this is not an issue. just don't know where to put this comment about readme . :-

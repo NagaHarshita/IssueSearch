@@ -1,0 +1,1 @@
+ URL : "https://github.com/Funtaztic/Hotel_Dorado/issues/1" TITLE : make a wait function BODY : it should look like this: def wait2 : time.sleep 2 something happens wait2 something happens

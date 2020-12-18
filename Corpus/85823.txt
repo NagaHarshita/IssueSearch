@@ -1,0 +1,1 @@
+ URL : "https://github.com/vaughany/yourls-popular-clicks-extended/issues/7" TITLE : footer release date wrong BODY : just thought i'd mention that: define pce_rel_ver , '0.1' ; define pce_rel_date , '2014-07-16' ; – is out of date. should be: define pce_rel_ver , '0.2' ; define pce_rel_date , '2015-12-30' ; = oliver

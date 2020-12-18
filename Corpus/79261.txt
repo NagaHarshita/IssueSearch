@@ -1,0 +1,1 @@
+ URL : "https://github.com/Dash-Industry-Forum/Conformance-Software/issues/247" TITLE : sdtype 'hvc1' is unknown BODY : triggering error error: moov-1:trak-1:mdia-1:minf-1:stbl-1:stsd-1 sampledescription sdtype must be 'mp4v', 'avc1', 'encv', or 'hev1' 'mp4v', 'avc1', 'encv', 'hev1'' for hevc vectors with codec =hvc1.1.6.l63.90

@@ -1,0 +1,1 @@
+ URL : "https://github.com/howie/jinterop/issues/1" TITLE : get program files folder BODY : is there any way to find out the location of the program files folder, via rpc?

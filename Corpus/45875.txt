@@ -1,0 +1,1 @@
+ URL : "https://github.com/sth/babel-plugin-add-filehash/issues/1" TITLE : is this obsolete yet? BODY : does the way https://github.com/webpack/webpack/issues/2538 was resolved cover all of the corner cases?

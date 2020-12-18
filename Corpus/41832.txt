@@ -1,0 +1,1 @@
+ URL : "https://github.com/ArtificialQualia/PyEveLiveDPS/issues/2" TITLE : add logistics support BODY : sisi now has logistics written to the combat log, we can add a third line to the graph for logistics. probably should be an enable/disable option in the settings, since most pilots won't care about logi

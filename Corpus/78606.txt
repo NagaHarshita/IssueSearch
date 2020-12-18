@@ -1,0 +1,1 @@
+ URL : "https://github.com/Azure/doAzureParallel/issues/141" TITLE : question: load balancing BODY : should we expect doazureparallel or azure batch to do some kind of load balancing? ex: some task is running on some nodes, others idle, if a new job is requested will the less used nodes get preference for working on the new one? thx!

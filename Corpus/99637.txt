@@ -1,0 +1,1 @@
+ URL : "https://github.com/cnb/News_Manager-getsimplecms/issues/263" TITLE : multiuser plugin 1.8.2 bug BODY : http://get-simple.info/forums/showthread.php?tid=1549&pid=60009 pid60009 rel: 233 i think there's no workaround except patching mu 1.8.2 or using a forked version like maf's 1.9.0

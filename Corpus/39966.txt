@@ -1,0 +1,1 @@
+ URL : "https://github.com/isaquebressy/presto-framework/issues/10" TITLE : support patch method BODY : add support to http patch method and check if put method is ok to update all the resource while patch method update it partially.

@@ -1,0 +1,11 @@
+ URL : "https://github.com/Zimmi48/bugzilla-test/issues/2368" TITLE : rewrite tactic bug BODY : note: the issue was created automatically with bugzilla2github tool bugzilla bug id: 2368
+date: 2010-07-29 18:42:18 +0200
+from: bodeveix@irit.fr
+to: cc: @_herbelin duplicates: 2379
+last updated: 2010-09-19 12:24:00 +0200 bugzilla comment id: 3609
+date: 2010-07-29 18:42:18 +0200
+from: bodeveix@irit.fr created attachment 200
+bug script in proof mode, the application of a rewrite produces an incorrect term: in the current goal, {i:int & predicate state i} is not well typed. the attached script produces the bug at its last line lpsat fun st0 : state p0 : {i : ind & predicate state i} => satisfy state projt1 p0 st0 projt2 p0 st addindex ind predicate state tts projt1 p tr projt1 p projt2 p <->
+lpsat fun st0 : state p0 : {i : ind & predicate state tts i } => satisfy state tts projt1 p0 st0 projt2 p0 st addindex ind fun i : ind => predicate state tts i projt1 p tr projt1 p projt2 p > attached file: bug.v application/octet-stream, 3705 bytes > description: bug script bugzilla comment id: 3678
+date: 2010-09-19 12:24:00 +0200
+from: @_herbelin this bug has been marked as a duplicate of bug 2379

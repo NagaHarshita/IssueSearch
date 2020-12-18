@@ -1,0 +1,1 @@
+ URL : "https://github.com/syl20bnr/spacemacs/issues/9107" TITLE : check for new version BODY : does anybody knows what this means, every time i restart emacs it doesn't check for new version and this is the message i get on the messages buffer: skipping check for new version reason: dotfile

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ihh/bossmachine/issues/25" TITLE : segmenter not working BODY : e.g. nanomachine -r seq1-test1.raw -m test1.json -v8 -c -d traceviterbimatrix -f .00001 should give same results as nanomachine -r seq1-test1.raw -m test1.json -v8 -c -d traceviterbimatrix -g 1 but doesn't

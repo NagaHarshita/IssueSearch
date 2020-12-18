@@ -1,0 +1,1 @@
+ URL : "https://github.com/zefoy/ngx-color-picker/issues/8" TITLE : error on first compile BODY : on install and first compile get the following error, which is a bug already filed for the angular2-color-picker. it is still happening here even after the port to angular 4. ! image https://cloud.githubusercontent.com/assets/377631/25305726/4d902d46-2735-11e7-8e5e-efe258d3fff4.png

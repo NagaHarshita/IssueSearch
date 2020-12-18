@@ -1,0 +1,1 @@
+ URL : "https://github.com/Zhouaojun/Incremental-Network-Quantization/issues/12" TITLE : why use 1 bit to store 0 BODY : for example, for 4bit why don't we just use 15 to form quantized region, and another one such as 0000 to represent 0. will unbalanced region influence inq result?

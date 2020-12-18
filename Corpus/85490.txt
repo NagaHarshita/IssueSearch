@@ -1,0 +1,1 @@
+ URL : "https://github.com/Genyus/cf7-agilecrm/issues/2" TITLE : fatal error on activation BODY : i had a go at installing this, but get the error: plugin could not be activated because it triggered a fatal error. parse error: syntax error, unexpected ' ' in /home/monstrous/public_html/calandra/wp-content/plugins/cf7-agilecrm-master/contact-form-7-agile.php on line 497

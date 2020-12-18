@@ -1,0 +1,1 @@
+ URL : "https://github.com/rzwitserloot/lombok/issues/1307" TITLE : support for logback? BODY : i see that logback https://logback.qos.ch/ is not yet supported https://projectlombok.org/features/log.html by lombok will you please support it?

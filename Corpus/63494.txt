@@ -1,0 +1,1 @@
+ URL : "https://github.com/CrowsVeldt/FreeCodeCamp-Javascript-Calculator/issues/28" TITLE : e-notation needs fixing BODY : currently, when equationtoevaluate is longer than digitlimit it displays the result with e-notation. whether or it is apprpriate

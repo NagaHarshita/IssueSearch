@@ -1,0 +1,1 @@
+ URL : "https://github.com/serde-rs/json/issues/271" TITLE : add partialeq to error BODY : add derive debug, partialeq to the error so it could be compared in tests of other libraries/apps that use your library. thanks in advance!

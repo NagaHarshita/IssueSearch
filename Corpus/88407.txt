@@ -1,0 +1,1 @@
+ URL : "https://github.com/samuelbraley/idb/issues/80" TITLE : next button on first page BODY : on any grid page greater than 1, there is a previous button. however on the first page of the grid, there is no next button.

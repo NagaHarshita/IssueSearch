@@ -1,0 +1,1 @@
+ URL : "https://github.com/abstratt/cloudfier/issues/235" TITLE : blob handling is too slow BODY : blob handling in the prototype mode makes general data access too slow. reason is that we are storing the blobs alongside the structured data in a json file. should store the raw content directly to the file system.

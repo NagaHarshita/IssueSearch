@@ -1,0 +1,1 @@
+ URL : "https://github.com/cadaxo/openui5-app-odata-v2-crud/issues/2" TITLE : confirm deletion dialog BODY : if the deletion mode is on, the user can delete items without confirming. i would like to add a dialog box with simple ok, cancel buttons before deleting the item. please, discuss it here and before implementing.

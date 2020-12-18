@@ -1,0 +1,1 @@
+ URL : "https://github.com/gluster/glusterfs/issues/219" TITLE : fallocate support with ec BODY : ec translator doesn't support fallocate file operation. this is resulting in failure of gluster features ex: rebalance operation on ec volumes. this issue is created to add fallocate file operation support for ec volume.

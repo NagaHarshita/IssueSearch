@@ -1,0 +1,1 @@
+ URL : "https://github.com/beefe/react-native-picker/issues/116" TITLE : how to change font family? BODY : is there a way to change the font family to roboto or sans-serif? i've tried searching for all instances of fontfamily in your package but after changing it and rebuilding, it goes back to normal.

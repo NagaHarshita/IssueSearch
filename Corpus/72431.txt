@@ -1,0 +1,1 @@
+ URL : "https://github.com/apache/trafficserver/issues/2379" TITLE : build error on freebsd11 BODY : gmake 4 : entering directory '/usr/home/maskit/git/trafficserver/iocore/net/quic' cxx quictypes.o in file included from quictypes.cc:24: ./quictypes.h:31:10: fatal error: 'endian.h' file not found include <endian.h> ^~~~~~~~~~

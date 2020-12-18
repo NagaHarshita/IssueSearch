@@ -1,0 +1,1 @@
+ URL : "https://github.com/jantaylor/road-home-time-tracker/issues/40" TITLE : ignore .ds_store files BODY : ignore mac filesystem .ds_store files in the repository.

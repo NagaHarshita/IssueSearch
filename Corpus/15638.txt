@@ -1,0 +1,1 @@
+ URL : "https://github.com/YunoHost-Apps/flarum_ynh/issues/49" TITLE : failed to install BODY : hi, your app doesn't work for the moment. it's fail on the installation tests on our ci. https://ci-apps.yunohost.org/jenkins/job/flarum%20 community /11/consolefull your app will be moved at 'notworking' status by the next week, on 15 of july.

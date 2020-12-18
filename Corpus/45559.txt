@@ -1,0 +1,1 @@
+ URL : "https://github.com/redivis/meta/issues/102" TITLE : implement union joins BODY : is this a bug report or feature request? choose one : bug join type union is currently not implemented and throwing errors. eta: monday nov. 12

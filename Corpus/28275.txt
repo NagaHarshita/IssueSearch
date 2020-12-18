@@ -1,0 +1,2 @@
+ URL : "https://github.com/kartoza/qgis.org.za/issues/176" TITLE : fix submit workflow BODY : if a user tries to submit an abstract without logging in, it does not work. e.g. if they have the submit link and go straight there. https://foss4g-africa.org/en/proposals/submit/ solution
+send user to login dialog and then back to submit link

@@ -1,0 +1,1 @@
+ URL : "https://github.com/UTN-MDP/ArkanoidJS/issues/5" TITLE : reinicio del juego BODY : cuando termina el juego la única manera de volver a empezar es reiniciando la página. crear un botón de inicio/reinicio que permita volver a empezar sin que esto suceda.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/phughk/iron-functions-juju-charm/issues/6" TITLE : look into repo key warning BODY : when running charm build there is a warning about adding the repo key to the layer.yaml file. this needs to be investigated and addressed.

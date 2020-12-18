@@ -1,0 +1,1 @@
+ URL : "https://github.com/danborufka/danimator/issues/8" TITLE : fix states of subitems BODY : when setting the state of an item's descendants, the descendants don't inherit the state. e.g.: js bear.setstate snout.a ; // will change snout's state to a inside bear bear.find snout .state // will return undefined :

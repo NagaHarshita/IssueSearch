@@ -1,0 +1,1 @@
+ URL : "https://github.com/statico/memorybot/issues/5" TITLE : document empty responses BODY : you can use <reply> without content right now to omit a reply, like foo is <reply> . this should be documented and tested

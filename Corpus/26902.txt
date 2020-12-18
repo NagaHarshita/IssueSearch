@@ -1,0 +1,1 @@
+ URL : "https://github.com/Rubemlrm/dotfiles/issues/2" TITLE : change configs path BODY : change config path from hardcoded into a dynamic variable based on the path where setup.yml is located.

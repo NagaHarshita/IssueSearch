@@ -1,0 +1,1 @@
+ URL : "https://github.com/ValveSoftware/Source-1-Games/issues/2472" TITLE : missing sound files BODY : no sound plays when i shoot the shotgun or sub-machine gun, and it says failed to load sound weapons/hks2.wav , file probably missing from disk/repository in the console.

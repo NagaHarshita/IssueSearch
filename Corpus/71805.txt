@@ -1,0 +1,1 @@
+ URL : "https://github.com/ssell/noisegen/issues/3" TITLE : algorithm: wavelet noise BODY : implement the wavelet noise algorithm. sample implementation may be found at: https://github.com/ssell/ocularengine/blob/master/ocularcore/include/math/noise/waveletnoise.hpp

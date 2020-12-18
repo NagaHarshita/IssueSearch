@@ -1,0 +1,1 @@
+ URL : "https://github.com/ryym/slux/issues/13" TITLE : flow: some problems BODY : エラーメッセージがわかりにくい 型チェック自体は正しくできるけど、一箇所間違うだけで大量のエラーが出る。 アクセサクリエータ xxxwith のdependency dep 型 が型推論されない 明示的に型を書く必要がある。クリエータの戻り値が dep 型だと問題ないけど、 dep => f 型だとダメっぽい。typescriptだと大丈夫だった。

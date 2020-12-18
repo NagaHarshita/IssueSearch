@@ -1,0 +1,1 @@
+ URL : "https://github.com/ghostlander/nsgminer/issues/14" TITLE : nsgminer.exe : link error BODY : ccld nsgminer.exe f:\coin\ftc\miner3 sgminer-master/miner.c:6953: undefined reference to nanosleep' f:\coin\ftc\miner3 sgminer-master/api.c:3620: undefined reference to pthread_getclean'

@@ -1,0 +1,1 @@
+ URL : "https://github.com/whiterook6/Faceoff/issues/10" TITLE : don't upscale images BODY : given the scaling algorithm, it's enlarging small images to fit the row properly. set a cap on resizing to a ratio of one to do: if the resize ratio > 1, return the image itself.

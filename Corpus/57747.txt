@@ -1,0 +1,1 @@
+ URL : "https://github.com/weisjohn/mongoose-csv/issues/10" TITLE : related objects to csv BODY : transforming a model to csv, when said model has an objectid reference to another model, yields a object object field in the csv instead of the fields of the second model. this is even if i execute csv after calls to populate . what to do?

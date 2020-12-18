@@ -1,0 +1,1 @@
+ URL : "https://github.com/gonzofish/angular-library-set/issues/36" TITLE : how to add assets? BODY : i am building an module which needs some graphics, but no matter where i put the image-files, i cannot get them to show either in the example page nor are they exported to the dist folder.

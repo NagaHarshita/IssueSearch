@@ -1,0 +1,1 @@
+ URL : "https://github.com/shiffman/A2Z-F16/issues/26" TITLE : densecap for f17 BODY : trigger via node and pass info back to p5 a la char-rnn examples https://github.com/jcjohnson/densecap/blob/master/run_model.lua

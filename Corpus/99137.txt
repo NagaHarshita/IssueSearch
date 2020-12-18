@@ -1,0 +1,1 @@
+ URL : "https://github.com/prasadtalasila/IRCLogParser/issues/64" TITLE : make year of logs explicit BODY : at present, the command python module.py nickchange -f= 1-1 -t= 31-1 does not include the year of analysis. including that would be useful in extending the analysis to long-range logs.

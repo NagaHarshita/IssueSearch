@@ -1,0 +1,1 @@
+ URL : "https://github.com/mautic/mautic/issues/4276" TITLE : custom fields groups BODY : what type of report is this: | q | a | ---| --- | bug report? | | feature request? | x | enhancement? | description: create new custom property groups for contacts if a bug: | q | a | --- | --- | mautic version | | php version | steps to reproduce: not a bug log errors:

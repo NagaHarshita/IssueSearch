@@ -1,0 +1,1 @@
+ URL : "https://github.com/eventil/support/issues/119" TITLE : events near you BODY : - unlogged user, geolocation by ip default - scope is always country - if users want to see other location, they need to select it from the list

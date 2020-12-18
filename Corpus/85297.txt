@@ -1,0 +1,1 @@
+ URL : "https://github.com/mattn/go-shellwords/issues/3" TITLE : escaped spaces at the end BODY : hi, i noticed shellwords.parse does not handle backslash-escaped whitespaces at the end of the argument. go words, err := shellwords.parse trailing escaped space\\ // invalid command line string this is due to strings.trimspace at the beginning of the function.

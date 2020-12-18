@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla-mobile/FirefoxData-android/issues/20" TITLE : finalize public api naming BODY : specifically, i'm concerned with: datacollectionresult historyrecord & friends because they're not name-spaced. i'm currently talking to @liuche

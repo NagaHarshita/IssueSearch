@@ -1,0 +1,1 @@
+ URL : "https://github.com/vnmakarov/yaep/issues/6" TITLE : how can i run it? BODY : hi, i follow these steps to install your library: <yaep source path>/configure --srcdir=<yaep source path> --prefix=<yaep install directory> cd src make make test optional make install but, how can i run it in terminal? i use osx

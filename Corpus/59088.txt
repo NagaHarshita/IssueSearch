@@ -1,0 +1,1 @@
+ URL : "https://github.com/resource-reasoning/JS_Parser/issues/9" TITLE : test installed library BODY : some method of testing the installed library/ js_parser.install functionality: we keep forgetting to add npm packages to be installed by opam.

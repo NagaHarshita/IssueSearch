@@ -1,0 +1,1 @@
+ URL : "https://github.com/peti/hackage-db/issues/6" TITLE : using deprecated versions BODY : is it possible to use hackage-db to query deprecated versions? for example gpipe-2.2.1 .

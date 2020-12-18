@@ -1,0 +1,1 @@
+ URL : "https://github.com/tenfyzhong/CompleteParameter.vim/issues/5" TITLE : python doesn't work. BODY : despite what the readme says, i tried it with python files and it didn't work. i even removed all my config files and installed only ycm and completeparameter in order to see if my config was somewhat problematic, but it didn't work this way either.

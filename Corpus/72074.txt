@@ -1,0 +1,1 @@
+ URL : "https://github.com/adrien2p/nestjs-sequelize-jwt/issues/3" TITLE : auto generated migration BODY : hi there, how did you generate the 20170807000001-create-table-users in the migrations directory? or did you have to do that step manually?

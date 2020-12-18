@@ -1,0 +1,1 @@
+ URL : "https://github.com/webcomponents/shadydom/issues/184" TITLE : e.target throws typeerror BODY : originally filed here https://github.com/webcomponents/webcomponentsjs/issues/857 to repro: http://jsbin.com/fewosow/1/edit?html,console,output js document.addeventlistener 'mousedown', function e { settimeout function { console.log e.target ; // throws typeerror }, 300 ; }

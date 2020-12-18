@@ -1,0 +1,1 @@
+ URL : "https://github.com/EMRL/chrono/issues/5" TITLE : add task time via email BODY : add the ability to add time to a task via email, primarily for use with the deployment system. as opposed to building a full api, we probably out to just do it by parsing the email for a keyword like time=xxx or something. we could use the subject line as well.

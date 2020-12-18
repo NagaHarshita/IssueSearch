@@ -1,0 +1,1 @@
+ URL : "https://github.com/h6ah4i/android-verticalseekbar/issues/10" TITLE : android studio 3.0 BODY : compile 'com.h6ah4i.android.widget.verticalseekbar:verticalseekbar:0.7.2' errow gradle project sync failed. basic functionality eg. editing debugging will not work properly

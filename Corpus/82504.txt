@@ -1,0 +1,1 @@
+ URL : "https://github.com/costabatista/JFilterCode/issues/3" TITLE : adding remove empty lines BODY : new feature in this issue will be implemented a new method that when it's be called, empty lines will be removed from jvm memory

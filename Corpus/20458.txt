@@ -1,0 +1,1 @@
+ URL : "https://github.com/apietrelli/myVCF/issues/1" TITLE : chr problem in vcf BODY : search doesn't works if the chromosomes are nominated with chr suffix

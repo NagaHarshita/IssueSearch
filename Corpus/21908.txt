@@ -1,0 +1,1 @@
+ URL : "https://github.com/Facepunch/garrysmod-issues/issues/3194" TITLE : hook is not called BODY : details https://wiki.garrysmod.com/page/gm/createclientsideragdoll isn't called when a death ragdoll of a player spawns. steps to reproduce use the hook

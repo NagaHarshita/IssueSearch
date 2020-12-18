@@ -1,0 +1,1 @@
+ URL : "https://github.com/asc4asc/fai/issues/4" TITLE : mac id problem BODY : two virtual hosts generate the same mac adresses. so problems occour if we start two virtual maschines in one net with equal number.

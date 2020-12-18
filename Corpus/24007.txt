@@ -1,0 +1,1 @@
+ URL : "https://github.com/jsgf/rust-xdr/issues/14" TITLE : rust-xdr on stable BODY : @jsgf, with rust 1.15 out supporting macros 1.1 on stable, could we move this crate to stable too? or are you still missing key features on the stable procedural macros to get it to work?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/camelcasetechsd/testing-engine/issues/135" TITLE : qa issues epic BODY : - when saving the testing center, if some of the days disabled and working hours removed, this is not being saved.

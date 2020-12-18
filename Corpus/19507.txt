@@ -1,0 +1,1 @@
+ URL : "https://github.com/infamily/infinity/issues/46" TITLE : add error handling BODY : https://inf.li/api/v1/topics/?owner=admin@d3942dce should not be type error, should be 404

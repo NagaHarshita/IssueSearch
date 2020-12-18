@@ -1,0 +1,1 @@
+ URL : "https://github.com/kris-nova/kubicorn/issues/321" TITLE : integration test for asg BODY : can we have the integration tests for aws test that we can scale a cluster up/down as defined in 301

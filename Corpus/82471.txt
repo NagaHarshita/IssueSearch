@@ -1,0 +1,1 @@
+ URL : "https://github.com/mini-kep/parser-rosstat-kep/issues/142" TITLE : add vintage.upload method BODY : intent is to write a vintage of data to database. shoudl use uploader class from https://github.com/mini-kep/parsers/blob/master/parsers/mover/uploader.py optional: may pip install from from git commit

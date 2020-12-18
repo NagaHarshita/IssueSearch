@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/vcpkg/issues/632" TITLE : poco can't find pcre.h BODY : package: poco:x64-windows vcpkg version: 0.0.71-ce477bf21998c80afc551de72c6140178de3a114 poco is unable to find pcre.h, build fails. package-x64-windows-rel-out.txt https://github.com/microsoft/vcpkg/files/752542/package-x64-windows-rel-out.txt

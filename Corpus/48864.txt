@@ -1,0 +1,1 @@
+ URL : "https://github.com/laughedelic/atom-ide-scala/issues/15" TITLE : split out all facades BODY : there is some code in src/facade that should be a separate scala.js facade-library. there are 3 things basically: atom-ide-ui atom-languageclient atom code api not used, but will be needed later

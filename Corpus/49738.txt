@@ -1,0 +1,1 @@
+ URL : "https://github.com/pculture/unisubs/issues/3068" TITLE : update embedding docs BODY : once pculture/amara-enterprise 1613 is done, we should test some things and maybe update the embedding docs: - does the resizable data attribute do anything? - is width/height required? do they do anything?

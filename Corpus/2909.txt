@@ -1,0 +1,3 @@
+ URL : "https://github.com/open-learning-exchange/BeLL-Apps/issues/724" TITLE : fix take test BODY : - change the button of take test to have 'finish' instead of 'next' for the last question.
+- remove 'finish' button at last screen that we currently have
+- make the 'finish' button newly created to treat same way as current 'finish' button does

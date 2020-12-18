@@ -1,0 +1,1 @@
+ URL : "https://github.com/anjueappen/Guess-A-Sketch/issues/2" TITLE : 3.2.1.1 joining a room BODY : build join room page/form show list of available rooms - receive broadcast from server listing all available rooms allow user to join room using join button - will take the user to the login page

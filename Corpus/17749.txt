@@ -1,0 +1,1 @@
+ URL : "https://github.com/piokom123/PHPTester/issues/6" TITLE : remove old debugs BODY : in some places there are still system.out.println calls.

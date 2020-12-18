@@ -1,0 +1,1 @@
+ URL : "https://github.com/DynamoRIO/dynamorio/issues/2525" TITLE : a32 ldrd is badly encoded BODY : if i decode 0xe00020d0 and reencode the result i get an unpredictable instruction: e00020d0 -> ldrd %r0 8byte -%r0 %r0 -> %r2 %r3 %r0 -> e02020d0 e00020d0 ldrd r2, r0 , -r0 e02020d0 ldrd r2, r0 , -r0 ; <unpredictable>

@@ -1,0 +1,1 @@
+ URL : "https://github.com/makesweat/opendata/issues/3" TITLE : integers as strings BODY : some integers are currently represented as strings, specifically: modified and id in the root of the item, and identifier throughout. these should be integers.

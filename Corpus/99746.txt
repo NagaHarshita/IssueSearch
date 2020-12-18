@@ -1,0 +1,1 @@
+ URL : "https://github.com/trippo/ResponsiveFilemanager/issues/345" TITLE : new fancybox compatibility BODY : there is new fancybox v3+ released. all seems to work fine, the only thing that does not work is that lighbox is not closed when file is selected in standalone mode. can anyone tell how o fix it? thanks

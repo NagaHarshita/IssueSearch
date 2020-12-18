@@ -1,0 +1,1 @@
+ URL : "https://github.com/Viva-con-Agua/drops/issues/29" TITLE : connection to civi-crm BODY : currently, the users are saved inside a specific database. so, the supporter data is separated from data in civi crm. for better integration this data should be saved inside the civi crm for consistency reasons. specific information about the civi crm api will be sent by ansgar.

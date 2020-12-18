@@ -1,0 +1,1 @@
+ URL : "https://github.com/cephalization/Valet/issues/19" TITLE : convert js files to es6 BODY : promises are already being used so we may as well go all the way. convert all variable declarations to let and const. make sure that variable scoping is accounted for. check out => syntactic sugar and other es6 best practices/improvements.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ZumbaMaster313/GUI-Imager/issues/1" TITLE : making the buttons work BODY : in this problem i could not get the button i made to work because i was using a collison type method that i had used before, but soon later found button.click was a command on untiy. i then made a whole new method using obejects and arrays.

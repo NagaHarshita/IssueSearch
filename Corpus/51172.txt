@@ -1,0 +1,1 @@
+ URL : "https://github.com/symengine/symengine/issues/1283" TITLE : add support for dummy. BODY : sympy has dummy symbols and is used in many places.

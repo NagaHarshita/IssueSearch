@@ -1,0 +1,1 @@
+ URL : "https://github.com/radiasoft/sirepo/issues/672" TITLE : srw file import broken BODY : if you import a python file from the ui, the server crashes with the error exception: attributeerror: 'dict' object has no attribute 'models' . to reproduce, export a simulation's python source and import it.

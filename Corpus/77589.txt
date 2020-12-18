@@ -1,0 +1,1 @@
+ URL : "https://github.com/headcrab-garage/OpenGoldSrc/issues/84" TITLE : no exports in vstdlib??? BODY : no matter if vstdlib_dll_export is defined or not, there are no export symbols inside the compiled vstdlib except the createinterface which is coming from the tier1 replicasource doesn't have this issue

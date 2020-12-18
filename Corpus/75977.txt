@@ -1,0 +1,1 @@
+ URL : "https://github.com/juanmbellini/PowerUp/issues/30" TITLE : improve code readability BODY : some part of the code is a bit difficult to read due to making lots of method calls be just one instruction

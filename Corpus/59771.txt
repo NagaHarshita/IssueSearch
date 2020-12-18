@@ -1,0 +1,1 @@
+ URL : "https://github.com/gridonic/coding/issues/12" TITLE : use master branch only BODY : for now, i don't see any benefit of having a separate develop branch in repos like this. we're not deploying multiple states of an application anywhere, for bigger additions, separate branches along with prs should be used anyway. are you all good with removing the develop branch?

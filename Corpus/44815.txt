@@ -1,0 +1,1 @@
+ URL : "https://github.com/ethz-asl/libvisensor/issues/8" TITLE : flipping output image BODY : is this vi-sensor interfacing library capable of flipping the image upside-down or left-right and if so, how to configure it.

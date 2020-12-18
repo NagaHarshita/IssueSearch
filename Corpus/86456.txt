@@ -1,0 +1,1 @@
+ URL : "https://github.com/nodejs/nan/issues/677" TITLE : how to return a pointer ? BODY : hi, i want to open a slide file and return the handle, which will be hold on js, how can i do this ? nan::escapablehandlescope scope; long osr = long openslide_open filename.c_str ; handle<v8::value> retval = nan::new to<int64_t> osr ; info.getreturnvalue .set scope.escape retval ;

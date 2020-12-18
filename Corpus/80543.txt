@@ -1,0 +1,1 @@
+ URL : "https://github.com/GeoGateway/geogateway-portal/issues/21" TITLE : ui for usgs rest service BODY : develop a user interface that allows someone to view seismicity data from the usgs rest https://earthquake.usgs.gov/fdsnws/event/1/ service on the main geogateway map.

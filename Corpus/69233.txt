@@ -1,0 +1,1 @@
+ URL : "https://github.com/PeculiarVentures/node-webcrypto-p11/issues/38" TITLE : support ecdsa mechanism BODY : pkcs 11 ckm_ecdsa https://www.cryptsoft.com/pkcs11doc/v220/group__sec__12__3__6__ecdsa__without__hashing.html similar to ckm_rsa_pkcs

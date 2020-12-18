@@ -1,0 +1,1 @@
+ URL : "https://github.com/JuliaLang/IJulia.jl/issues/573" TITLE : ijulia not building BODY : some commit broke ijulia between yesterday and today? i cannot build it after a pkg.update : julia loaderror: could not open file /home/juliohm/.julia/v0.6/ijulia/deps/kspec.jl while loading /home/juliohm/.julia/v0.6/ijulia/deps/build.jl, in expression starting on line 104

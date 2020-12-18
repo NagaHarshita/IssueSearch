@@ -1,0 +1,1 @@
+ URL : "https://github.com/pyx26266/game_2048/issues/1" TITLE : port to linux BODY : this project won't compile in linux because of win32 api's. need ported functions for same

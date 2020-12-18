@@ -1,0 +1,1 @@
+ URL : "https://github.com/vacenz/last-draft/issues/28" TITLE : remove new option BODY : hey, i noticed you tried to remove the new option line in the convert.js https://github.com/vacenz/last-draft/blob/master/src/utils/convert.js l118 if you would i can look into changing this solution to not use the new option

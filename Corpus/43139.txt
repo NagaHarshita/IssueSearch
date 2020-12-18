@@ -1,0 +1,1 @@
+ URL : "https://github.com/Zrips/Jobs/issues/72" TITLE : cocoa-4 does not work BODY : hi, i have got a problem on my server with jobs farmer. my players told me that cocoa doesn't work. so i tried and when cocoa has grown to its maximum i don't earn money or xp. here there is the config : cocoa-4: income: 0.1 points: 4 experience: 4.0 many thanks for help

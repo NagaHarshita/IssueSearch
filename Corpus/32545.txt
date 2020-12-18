@@ -1,0 +1,1 @@
+ URL : "https://github.com/zardus/ctf-tools/issues/135" TITLE : vagrant vm: binwalk BODY : when installing binwalk, the $virtual_env is not set and results in broken symlinks see the binwalk install script

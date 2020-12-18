@@ -1,0 +1,1 @@
+ URL : "https://github.com/dsherret/ts-simple-ast/issues/183" TITLE : directory - emit BODY : add the ability to emit all the source files within a directory.

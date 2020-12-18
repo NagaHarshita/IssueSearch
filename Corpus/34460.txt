@@ -1,0 +1,1 @@
+ URL : "https://github.com/azat-co/practicalnode/issues/32" TITLE : chapter 3 test error BODY : the end's callback function is always be passed two arguments err and response; if no error occurred, the first argument will be null; request .get '..' .end function err, res { } ;

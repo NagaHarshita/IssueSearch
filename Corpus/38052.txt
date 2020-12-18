@@ -1,0 +1,1 @@
+ URL : "https://github.com/GrenderG/Toasty/issues/36" TITLE : no padding in toasty BODY : great library, just having an issue with it which i think is a bug. when i create any type of toasty the text and icon have no right or left padding. using android 7.1.1 on api 25.

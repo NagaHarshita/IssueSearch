@@ -1,0 +1,1 @@
+ URL : "https://github.com/xmikos/qspectrumanalyzer/issues/23" TITLE : make soapy_power optional BODY : would it be possible to allow function without soapy_power? for example i want to use the hackrf_sweep backend.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla/crashstop/issues/11" TITLE : backouts cause confusion BODY : e.g. https://bugzilla.mozilla.org/show_bug.cgi?id=1421313 was uplifted to beta in comment 23, then backed out in comment 24, so it's not in any beta build, but crashstop thinks it's in 58.0b11 and up.

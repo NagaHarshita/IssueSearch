@@ -1,0 +1,1 @@
+ URL : "https://github.com/Pterodactyl/Panel/issues/574" TITLE : add query cheker to server BODY : may be you can add gamequery cherker in service options. and some monitoring for cheking online or offline server. and if server 5 or more minutes not answer by query restart it you can use this project : https://github.com/austinb/gameq

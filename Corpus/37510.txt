@@ -1,0 +1,1 @@
+ URL : "https://github.com/ghtmtt/DataPlotly/issues/52" TITLE : mean and stdev lines BODY : what about adding mean and stdev lines in a plot? seems simple vis shapes https://plot.ly/python/shapes/ at least for scatterplot and histograms

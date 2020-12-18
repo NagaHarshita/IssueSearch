@@ -1,0 +1,1 @@
+ URL : "https://github.com/shawncplus/ranviermud/issues/75" TITLE : allow for node 6 BODY : both readme and nvmrc state node 7 is needed for ranvier, but it seems that only 6 is actually needed code-wise. we should relax the minimum version to 6 to allow users in that version official debian package users, for instance to still run the code.

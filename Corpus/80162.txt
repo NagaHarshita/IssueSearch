@@ -1,0 +1,1 @@
+ URL : "https://github.com/wbond/sublime_terminal/issues/179" TITLE : terminal launch with zsh BODY : i have recently configured my gnome-terminal to use zsh. however, whenever i open terminal through key binding or open terminal here.. option it does not open from the selected directory it was launched from. this happened after i installed zsh.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/EvidentSolutions/gradle-beanstalk-plugin/issues/11" TITLE : rename war to file BODY : currently you can specify war property to specify file being uploaded as new version to beanstalk but any file can be used. it would make more sense if the configuration property is called file or archive

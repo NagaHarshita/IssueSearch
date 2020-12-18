@@ -1,0 +1,1 @@
+ URL : "https://github.com/carld/micro-lisp/issues/3" TITLE : bound checks for gettoken BODY : by the power of sigsegv, please bound-check index in gettoken .

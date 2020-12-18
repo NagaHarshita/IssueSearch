@@ -1,0 +1,1 @@
+ URL : "https://github.com/patronage/bubs/issues/69" TITLE : hero shouldn't use cover BODY : we find that background-size: cover often has editorial issues -- let's set this up as a fluid responsive image instead.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/lovebing/react-native-baidu-map/issues/147" TITLE : dont support react 15.5.0+ BODY : propstypes has been removed from react 15.5.0+ js import proptypes from 'prop-types'

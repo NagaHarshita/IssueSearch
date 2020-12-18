@@ -1,0 +1,1 @@
+ URL : "https://github.com/kecnry/nparray/issues/5" TITLE : support for dir BODY : dir nparrayobject should return the available methods of both the object and the underlying array. i attempted this, but its difficult to reproduce the native \_\_dir\_\_ inside the custom \_\_dir\_\_

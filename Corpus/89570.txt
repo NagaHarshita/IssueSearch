@@ -1,0 +1,1 @@
+ URL : "https://github.com/biola/turnout/issues/42" TITLE : rake task is not grepable BODY : bundle exec rake -t | grep maintenance nothing bundle exec rake -w maintenance:start nothing bundle exec rake maintenance:start works just fine took me some time to find out what is going on.

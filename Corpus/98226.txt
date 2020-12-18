@@ -1,0 +1,1 @@
+ URL : "https://github.com/Kickflip/kickflip-ios-sdk/issues/66" TITLE : incompatible block pointer BODY : i get incompatible block pointer types sending 'id ^ bftask __strong ' to parameter of type 'awscontinuationblock _nonnull' aka id _nullable ^ awstask<resulttype> _nonnull __strong ' in kfhlsuploader.m

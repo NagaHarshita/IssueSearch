@@ -1,0 +1,1 @@
+ URL : "https://github.com/jedireza/frame/issues/155" TITLE : use it as websocket BODY : hi there, may i use this api with websocket ? i think if we use web socket instead of rest we can just send one req to server for connection and then in every page we can use lots of action from api server with just one connection ! &&its realtime . what you think ?! is it good ?! thanks

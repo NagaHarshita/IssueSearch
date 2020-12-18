@@ -1,0 +1,1 @@
+ URL : "https://github.com/poetapp/poet/issues/305" TITLE : new post /claims endpoint BODY : we need to add a new endpoint to trusted publisher to support posting without all the serialization overhead. tbd is there any value in forcing clients to serialize the claimblock before sending it over the air?

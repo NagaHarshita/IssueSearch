@@ -1,0 +1,1 @@
+ URL : "https://github.com/sevagh/pitch-detection/issues/15" TITLE : convert this to a library BODY : better to have this as a library than an executable. make sinewave and mp3_file as sample programs in samples/ or examples/ directory.

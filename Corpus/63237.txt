@@ -1,0 +1,1 @@
+ URL : "https://github.com/SIGSEV/KeyCode/issues/17" TITLE : disable console in prod BODY : this could be pretty useful js function { try { var $_console$$ = console object.defineproperty window, 'console', { get: function { if $_console$$._commandlineapi { throw 'fuck you.' } return $_console$$ }, set: function $val$$ { $_console$$ = $val$$ }, } } catch $ignore$$ {} }

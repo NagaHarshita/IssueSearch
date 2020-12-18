@@ -1,0 +1,1 @@
+ URL : "https://github.com/jwir3/arbitrator/issues/123" TITLE : make locations aliasable BODY : we should add a method of aliasing a location, so that it becomes the same as another location + sublocation. we'll need a design for this.

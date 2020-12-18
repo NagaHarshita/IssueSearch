@@ -1,0 +1,1 @@
+ URL : "https://github.com/cuba-platform/sample-akkount/issues/1" TITLE : error when you save twice! BODY : in cuba-api.js , i resolve an error that if you save an operation 2x you ve got an error. this my solution: put in cuba-api.js update: function model, options { delete model.attributes '0' ; // this is my solution var json = { commitinstances : _.clone model.attributes };

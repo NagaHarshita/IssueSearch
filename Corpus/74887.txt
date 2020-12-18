@@ -1,0 +1,1 @@
+ URL : "https://github.com/codedge/dockerized-web-dev/issues/1" TITLE : fix notes on some slides BODY : custom notes have the wrong keyword notes instead of note . that breaks the save as pdf function as the notes are printed on the slides.

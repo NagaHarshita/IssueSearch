@@ -1,0 +1,1 @@
+ URL : "https://github.com/dbrgn/gerber-types-rs/issues/15" TITLE : enums vs traits? BODY : some types like fileattribute might be better implemented as a trait. it would get rid of some of the nesting.

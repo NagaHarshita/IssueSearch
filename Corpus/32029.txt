@@ -1,0 +1,1 @@
+ URL : "https://github.com/SalineSingularityFRC/MouseOdometryTestCode/issues/1" TITLE : throw out bad input BODY : in the case that a mouse sensor begins giving bad input numbers that disagree significantly with the other mice this should be detected and disregarded. the robot can track it's position just fine with 3 or even 2 mice.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/oasis-open/cti-pattern-validator/issues/41" TITLE : repeat negative times BODY : $ validate-patterns enter a pattern to validate: ipv4-addr:value = '198.51.100.1/32' repeats -5 times pass: ipv4-addr:value = '198.51.100.1/32' repeats -5 times i don't think something should be allowed to repeat a negative number of times.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/asdf-vm/asdf-ruby/issues/33" TITLE : license is not defined BODY : recent change in https://github.com/asdf-vm/asdf/commit/3c449deb978f23aff2dc74eb0679e553d2505b0e enforces a license file however this project does not have a license.

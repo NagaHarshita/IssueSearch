@@ -1,0 +1,4 @@
+ URL : "https://github.com/ahmedahamid/temp/issues/65" TITLE : create example: sl3input BODY : demonstrates how to use input in silverlight. including mouse/keyboard/focus.
+ 
+reference:
+http://msdn.microsoft.com/en-us/library/cc645086 vs.95 .aspx migrated codeplex work item details codeplex work item id: '3506' vote count: '1'

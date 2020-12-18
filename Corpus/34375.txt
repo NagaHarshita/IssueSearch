@@ -1,0 +1,1 @@
+ URL : "https://github.com/uxmstudio/UXMPDFKit/issues/33" TITLE : carthage build error BODY : hi, i've the following error building from carthage: dependency uxmpdfkit has no shared framework schemes for any of the platforms: ios thank you in advance, omar.

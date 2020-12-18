@@ -1,0 +1,1 @@
+ URL : "https://github.com/aggie-coding-club/carpool/issues/21" TITLE : migrate to react-native BODY : issue description : our user base will use mobile devices, and some of our future features require react-native apis https://medium.com/rendez-voo/migrating-incrementally-from-a-react-app-to-react-native-part-1-of-2-4566626e4ac5 issue dependencies : none

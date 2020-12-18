@@ -1,0 +1,1 @@
+ URL : "https://github.com/dezounet/datadez/issues/1" TITLE : porting to python 3 BODY : development and tests done with python 2. let's do this with python 3 too. - port code to python 3 - add python 3 travis worker

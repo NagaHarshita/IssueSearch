@@ -1,0 +1,1 @@
+ URL : "https://github.com/linuxmint/lightdm-settings/issues/11" TITLE : title is wrong BODY : the title of the window shown is login window . not sure what login has to do with the settings window. suggest the window title be changed to slick settings or similar. happy to do a pr ... just need to know what the title should be.

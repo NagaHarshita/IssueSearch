@@ -1,0 +1,1 @@
+ URL : "https://github.com/andynoelker/aplos/issues/12" TITLE : increase screenshot size BODY : the screenshot size is too small. according to wordpress: screenshot size should be 1200x900, to account for hidpi displays. any 4:3 image size is acceptable, but 1200x900 is preferred.

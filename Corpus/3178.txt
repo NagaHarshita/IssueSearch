@@ -1,0 +1,4 @@
+ URL : "https://github.com/bradgreen3/othello-fe/issues/3" TITLE : log in button BODY : as a not logged in user,
+when i visit '/',
+and click 'log in' button,
+i see input fields for email and password

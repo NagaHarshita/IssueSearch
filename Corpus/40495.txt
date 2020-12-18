@@ -1,0 +1,1 @@
+ URL : "https://github.com/wlandau/parallelRemake/issues/12" TITLE : universal build rule BODY : as suggested by @krlmlr in 11: r .makefile/%: r -q -e 'parallelremake:::process $< '

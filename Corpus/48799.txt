@@ -1,0 +1,1 @@
+ URL : "https://github.com/flightwatching/svg-animator/issues/27" TITLE : solve md icon problem BODY : when you call the md-icon and we'll have for sure the same problem with other md elements , it does a request like : get https://fonts.googleapis.com/icon?family=material+icons net::err_name_resolution_failed we should include it in local or use something else.

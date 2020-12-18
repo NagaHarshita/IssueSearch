@@ -1,0 +1,1 @@
+ URL : "https://github.com/scrapinghub/splash/issues/587" TITLE : nil request object BODY : splash returns nil object after executing the following script. function main splash local url = splash.args.url local reply = splash:http_get url .info assert splash:wait 1 return { reply.request } end how to get request object ?

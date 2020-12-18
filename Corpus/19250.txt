@@ -1,0 +1,1 @@
+ URL : "https://github.com/docpad/docpad-plugin-partials/issues/33" TITLE : 2.11.0 memory leak BODY : 2.10.0 worked without a problem, but 2.11.0 seems to be leaking memory. large projects can't allocate enough memory, but it works for smaller projects.

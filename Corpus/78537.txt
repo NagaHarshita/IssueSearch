@@ -1,0 +1,1 @@
+ URL : "https://github.com/probtorch/pytorch/issues/23" TITLE : python 2.7 compatibility BODY : i believe we should still be supporting python 2.7 with the distributions code as well as 3.x . the pre-existing distributions-api branch includes some code which doesn't parse on 2.7. my understanding is that pytorch in general targets 2.7 and 3.5+ — is this correct?

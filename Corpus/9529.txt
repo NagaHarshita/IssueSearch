@@ -1,0 +1,1 @@
+ URL : "https://github.com/codeborne/selenide/issues/489" TITLE : $x xpath support BODY : chrome dev tools have suport for searching elements by xpath using command $x locator it's quite useful to have such alias in selenide api: now: - $ by.xpath //a - $ xpath featured: - $x //a @rmarinsky @asolntsev @vinogradoff what do you think?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/CDM-Robotics/6027-base-2018/issues/8" TITLE : center gear command BODY : - new command class - centers the gear slider when called - available in the commands directory

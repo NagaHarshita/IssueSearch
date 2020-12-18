@@ -1,0 +1,1 @@
+ URL : "https://github.com/lybros/sfm/issues/10" TITLE : create project crash BODY : exception type: exc_bad_access sigsegv exception codes: exc_i386_gpflt exception note: exc_corpse_notify termination signal: segmentation fault: 11 termination reason: namespace signal, code 0xb terminating process: exc handler 0

@@ -1,0 +1,1 @@
+ URL : "https://github.com/WhitleyStriber/GlitchBot/issues/2" TITLE : add youtube dl BODY : add the <a href= https://github.com/layer8x/youtube-dl.rb >youtube-dl</a> wrapper to the bot so we can stream music to the bot.

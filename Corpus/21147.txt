@@ -1,0 +1,1 @@
+ URL : "https://github.com/westy92/html-pdf-chrome/issues/54" TITLE : emoji not rendered BODY : hi. thanks for this awesome package! when i use it locally with emoji in html, the emoji are rendered. but when i tried to render the same html to pdf on heroku the emoji are replaced by square or weird code : ðÿš€. any idea why ? thanks a lot.

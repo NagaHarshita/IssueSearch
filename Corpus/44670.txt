@@ -1,0 +1,1 @@
+ URL : "https://github.com/Trinea/android-auto-scroll-view-pager/issues/42" TITLE : first scroll is laggy BODY : if there are multiple images in the view pager then the first scroll is laggy towards the end, rest other scrolls are smooth

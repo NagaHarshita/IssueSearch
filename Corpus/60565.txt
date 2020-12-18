@@ -1,0 +1,1 @@
+ URL : "https://github.com/treethought/flask-assistant/issues/26" TITLE : accessing the sessionid BODY : i've dug around through the docs and haven't found a way to access things in the request json from api.ai such as the sessionid. how would i go about doing that? my app requires user auth, so i'll need to set the sessionid as well as read it.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/lourfield/floating-video/issues/3" TITLE : possible with vanilla js? BODY : hi louie this is awesome! been looking for this all over! a few questions: - how to deal with multiple embedded videos? - how to handle non-youtube sources like vimeo, html5 native, video from a cdn link - any vanilla js possibility version to offset the jquery dependency?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/chocolatey/chocolatey-package-requests/issues/231" TITLE : rfm - cwrsync BODY : https://chocolatey.org/packages/cwrsync the package has no files. a virus scan reports some kind of finding. the package is deprecated in favor of rsync, even though rsync for windows is quite slow compared to cwrsync.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/SnappyDataInc/snappydata/issues/683" TITLE : how to use jni BODY : i use jni when i need response some results ， but it has some errors， and how to use jni，and where i can find some demo and example ？ eg ： it successed when i run at first ，but at second when i run again ，some errors was throwable about classloader 。

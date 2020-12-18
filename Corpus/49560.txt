@@ -1,0 +1,1 @@
+ URL : "https://github.com/chrmarti/testissues/issues/1695" TITLE : two windows at a time BODY : - vscode version: 1.14.0 - os version: windows 8 when trying to open a specific folder in vscode through command line using command <code>code .</code> instead of opening a folder in a single new window only it opens two new windows and that folder in both the windows.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/JohnnyK84/C6001-ASSN2-T02/issues/25" TITLE : added projected rainfall BODY : feature added feature of projected rainfall in mm per 24h to the more details screen bug as per initial wireframes, removed nav bar from more details screen to eliminate the possibility of clicking home and producing many screens of the same thing on accident.

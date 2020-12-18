@@ -1,0 +1,1 @@
+ URL : "https://github.com/geerlingguy/ansible-role-php/issues/184" TITLE : add ondrej ppa on config BODY : i always get no package matching 'php' is available while provisioning an ubuntu server 14.04.5 lts. i can't see any option in the readme on how to add ppa for php ubuntu eg. ondrej .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ZuluTeam/MapsAOPA-iOS/issues/32" TITLE : split map view model BODY : create 2 view models: for loading and for searching and presenting points

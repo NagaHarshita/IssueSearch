@@ -1,0 +1,1 @@
+ URL : "https://github.com/comicchisel/backend/issues/3" TITLE : models / entities BODY : __models__ is a raw generated sequelize models. you should wrap each model to entity class. __entities__ is a es6 classes with static and instance methods. entity is a wrapper for model. you should use entity to call db.

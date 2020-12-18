@@ -1,0 +1,1 @@
+ URL : "https://github.com/learn-co-students/ios-team-green/issues/1" TITLE : search bar bug testing BODY : cancel should only bring bar down press outside bar keyboard should go down search always segues to results view or displays nothing found

@@ -1,0 +1,1 @@
+ URL : "https://github.com/bustabit/bustabit-client/issues/54" TITLE : notifications get stuck? BODY : whenever one of these notifications pop up for me, it never goes away on it's own... https://gyazo.com/50d99f44465d1c1b85c03800ad8b401b i'm not sure if that is intended. i assume you would want it to fade away after 5-10 seconds.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ESMCI/cime/issues/1630" TITLE : memleak detected fails BODY : we seem to be getting a lot more of these messages: 2017-05-30 13:46:32: memleak detected, memory went from 65.260000 to 72.800000 in 3 days are these serious? could we be getting more of them from pr 1553 which fixed issue 1544 ?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/madmachinations/kit10_discord_bot/issues/31" TITLE : change role list order BODY : at the moment the role list commands shows the list in the order in which they were made public. this should be updated to reflect the same order used in the discord server's settings.

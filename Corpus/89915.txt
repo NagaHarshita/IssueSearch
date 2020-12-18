@@ -1,0 +1,1 @@
+ URL : "https://github.com/Bukharovsi/docker_plugin/issues/1" TITLE : reports enable explicitly BODY : when docker plugin starts all reports will be executed. we want to explicitly enable reports with command line or with another mathod

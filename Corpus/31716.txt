@@ -1,0 +1,1 @@
+ URL : "https://github.com/alexander-irbis/robots_txt/issues/2" TITLE : support clean-param BODY : yandex clean-param https://yandex.ru/support/webmaster/controlling-robot/robots-txt.html ariaid-title10 clean-param: p0 &p1&p2&..&pn path

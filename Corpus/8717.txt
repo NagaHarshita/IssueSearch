@@ -1,0 +1,1 @@
+ URL : "https://github.com/ShikhaBakshi/Implementation-of-RARED-in-Linux-Kernel/issues/4" TITLE : remove the hack BODY : at one place in the code, it is written as: if 1 remove this hack, and correct the code. one way to do this is setup a new boolean variable to enable / disable rared.

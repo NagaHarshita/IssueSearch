@@ -1,0 +1,1 @@
+ URL : "https://github.com/hkupty/nvimux/issues/7" TITLE : <c-b> ! functionality BODY : in tmux, <c-b> ! breaks the current pane unless it's already the only pane in its current window into a new window of its own. is it possible to get this in nvimux?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/islamTaha12/seleniumSoft/issues/55" TITLE : edit questions is hanging BODY : steps - login as admin - go to questions page - loop for all questions and press on edit button - check the edit menu actual result - after a few clicks, edit menu will be hanging and won't change.

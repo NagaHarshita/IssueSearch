@@ -1,0 +1,1 @@
+ URL : "https://github.com/zorker/rothui/issues/44" TITLE : how to move party BODY : hi there,thanks for your great addons.i'm using ouf simpleconfig and ouf simple,i want move the party frame. i've set self.settings.createdrag = true in ouf_simple\templates\party.lua, but when i move it,it move back to topleft again and again.could you please help me out?

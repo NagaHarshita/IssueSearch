@@ -1,0 +1,1 @@
+ URL : "https://github.com/SpiderLabs/ModSecurity/issues/1344" TITLE : caddy web server support BODY : any plans to support the next generation web server caddy in the future? https://github.com/mholt/caddy how does the modsecurity team decides which web servers get native support?

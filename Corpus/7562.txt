@@ -1,0 +1,1 @@
+ URL : "https://github.com/heptio/contour/issues/60" TITLE : grpc support ga BODY : this is a high level tracking issue for promoting grpc support to ga. specifically - update all deployments manifests to use grpc, effectively - additional testing, preferably e2e testing for grpc.

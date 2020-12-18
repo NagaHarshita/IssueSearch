@@ -1,0 +1,1 @@
+ URL : "https://github.com/PMGH/js-film-reviews/issues/3" TITLE : create get film by id BODY : get film by id id is just an array index for now, until we hook up a database

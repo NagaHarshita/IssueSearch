@@ -1,0 +1,1 @@
+ URL : "https://github.com/broadinstitute/pilon/issues/42" TITLE : very old version of BODY : i just noticed pilon uses a quite old version of htsjdk.jar 1.x . would it be worth upgrading to the latest 2.x series? i worry that many bugs have been fixed in the last two years? http://samtools.github.io/htsjdk/

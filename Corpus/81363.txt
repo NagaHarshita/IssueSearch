@@ -1,0 +1,1 @@
+ URL : "https://github.com/york-region-tpss/ppa/issues/1" TITLE : workbench layout in html BODY : main section with objective, sub-objective and deliverables layout the template should: - dynamic on row height - responsive to the window size and width of the region - selectable and be able to pass the item_id from the database of the selectable

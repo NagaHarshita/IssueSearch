@@ -1,0 +1,1 @@
+ URL : "https://github.com/cypreess/django-plans/issues/58" TITLE : add latest python support BODY : the code is already working as expected and should handle python 3.5 and 3.6 with no problem. let's find out by travis itself.

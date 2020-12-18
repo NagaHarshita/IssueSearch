@@ -1,0 +1,1 @@
+ URL : "https://github.com/cryhot/snail/issues/2" TITLE : more option supported BODY : - mill -s : mute mill specific stdout - scale --passive : faster won't use gdb but will require an other function parent-side let say retrieve var

@@ -1,0 +1,1 @@
+ URL : "https://github.com/cb-geo/mpm-point-generator/issues/4" TITLE : add unit tests BODY : using the catch framework add unit tests to all classes

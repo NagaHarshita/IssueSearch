@@ -1,0 +1,1 @@
+ URL : "https://github.com/vovanmix/github-dark-theme/issues/4" TITLE : codecov hits/misses bg BODY : 1?. make codecov hits/misses bg darker when opening the file : css td.blob-code.codecov.codecov-on.codecov-hit { background-color: eaffea; } td.blob-code.codecov.codecov-on.codecov-missed { background-color: ffecec; }

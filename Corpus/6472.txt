@@ -1,0 +1,1 @@
+ URL : "https://github.com/StraubJones/Portfolio/issues/1" TITLE : add nvd3 chart. BODY : in the about page, work with the nvd3 library to make a quick an easy chart, rather than trying to make it from scratch with raw d3.

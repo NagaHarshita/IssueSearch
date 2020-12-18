@@ -1,0 +1,1 @@
+ URL : "https://github.com/chihaya/chihaya/issues/264" TITLE : add an ip to scrapes? BODY : i think it could be useful to add a bittorrent.ip to scrapes. this enables us to have a normal way of telling whether the scrape is ipv6 or ipv4, without using the context . because scrapes are never saved, i don't think it's gonna hurt to include another field. thoughts?

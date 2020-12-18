@@ -1,0 +1,1 @@
+ URL : "https://github.com/kensnyder/quill-image-resize-module/issues/13" TITLE : cannot resize image again BODY : i have an image and can resize it once after it's first uploaded, but i am unable to resize the image again after this. i am currently using v 1.0.0 because i wasn't able to run on v3.0.0, i am also using reactquill.

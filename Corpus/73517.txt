@@ -1,0 +1,1 @@
+ URL : "https://github.com/kevinhikaruevans/uojs2/issues/81" TITLE : create server for images BODY : few questions: - what server should we use? using express would be easy, but it can be slow. - image format? webp or png? - should it also host other static content i.e. use express.static for other public files?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/TradingPal/react-native-highcharts/issues/60" TITLE : chart 3d view BODY : hi i used following code to view the 3d chart in mobile but it's not working. can anyone help me.. options3d: { enabled: true, alpha: 15, beta: 10, depth: 50, viewdistance: 15 } thanks in advance,

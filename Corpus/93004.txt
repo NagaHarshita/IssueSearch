@@ -1,0 +1,1 @@
+ URL : "https://github.com/ieroNo47/rundeck-metrics/issues/4" TITLE : add an 'update now' button BODY : button that will refresh the graph on demand if updated data are available.

@@ -1,0 +1,7 @@
+ URL : "https://github.com/NICTA/cogent/issues/206" TITLE : closed validate.sh -ac BODY : <a href= https://github.csiro.au/nag030 ><img src= https://github.csiro.au/avatars/u/287? align= left width= 96 height= 96 hspace= 10 ></img></a> issue by nag030 https://github.csiro.au/nag030 _thu sep 24 16:26:07 2015_
+_originally opened as https://github.csiro.au/ts-filesystems/cogent/issues/101_ ---- i run validate.sh with the flag -ac . it failed for all the 89 small examples.
+error messages look like this. pass_yet-another-take-put.cdsl2: ./validate.sh: line 513: inputc: command not found
+cdsl2: no cdsl file specified run cdsl2 -h' for help ./validate.sh: line 157: isabelle: command not found fail i got this kind of error messages 89 times. they say no cdsl file specified .
+but i think users of validate.sh should not have to specify which cdsl2 file to be checked,
+since validate.sh is meant to validate the cogen framework against all of these 89 small examples. i am not good at shell-script.
+any idea?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/michaelaki/TeamJon/issues/5" TITLE : create gradle build files BODY : each individual team member will create a build file using gradle that will allow you to perform key tasks to build the application. name your file with your gtid.gradle for instance: gburdell3.gradle do not use your 900 number . store your file in the repository.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/leifoolsen/mdl-ext/issues/94" TITLE : yarn package manager BODY : have you tried using yarn with this package? it removes the extensions out of the @angular-mdl . i have to resort to using npm. not sure why it is happening, but thought i would let you know!

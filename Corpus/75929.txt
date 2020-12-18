@@ -1,0 +1,1 @@
+ URL : "https://github.com/schae234/PonyTools/issues/6" TITLE : implement the sql schema BODY : tables: - variant file source - header - variants - genotypes

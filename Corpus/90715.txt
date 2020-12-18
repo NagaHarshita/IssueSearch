@@ -1,0 +1,1 @@
+ URL : "https://github.com/Thinkofname/stylish/issues/17" TITLE : src should be a component BODY : i was confused, that in src are source files, but no cargo.toml. can these files be moved in a new component or in webrender?

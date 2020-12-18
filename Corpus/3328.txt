@@ -1,0 +1,1 @@
+ URL : "https://github.com/janosgyerik/jquery-upvote/issues/13" TITLE : npm add error BODY : yarn add https://github.com/janosgyerik/jquery-upvote yarn add v0.20.3 1/4 resolving packages... error couldn't find manifest in https://github.com/janosgyerik/jquery-upvote .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/loggerhead-instruments/iTag/issues/11" TITLE : implement packet retry BODY : if get a nack on download, currently just retries entire file. would be more efficient to retry on the individual packet.

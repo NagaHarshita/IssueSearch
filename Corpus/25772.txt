@@ -1,0 +1,1 @@
+ URL : "https://github.com/algernon/Chrysalis/issues/62" TITLE : add an about dialog BODY : the chrysalis menu should have an about menu item, which pops up a dialog with some basic information about chrysalis: - logo, name, version - authors - license for the user, the most important part here will be the version.

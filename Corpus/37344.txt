@@ -1,0 +1,1 @@
+ URL : "https://github.com/huangzehao/caffe-vdsr/issues/33" TITLE : loss during training BODY : at first thanks for your work. i have trained nearly 300000 times by the code you provided. the trained images have been augmented to 5820 .the train_num is 748608. then the test loss converges to 0.4 almostly. is that reasonable?

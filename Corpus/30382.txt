@@ -1,0 +1,1 @@
+ URL : "https://github.com/Appliscale/xprof/issues/76" TITLE : pause time on graph BODY : add a button to pause time and temporarily stop updating the graphs. this can be useful if some extraordinary event happens and we don't want to let valuable data to slowly slide away.

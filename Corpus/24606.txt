@@ -1,0 +1,1 @@
+ URL : "https://github.com/jorgenschaefer/elpy/issues/1112" TITLE : tab to indent dwim BODY : it should be quite easy to calculate that it is not possible to go deeper than 1 more level, so should it not be possible to cycle then instead of allowing to make deeper indentation?

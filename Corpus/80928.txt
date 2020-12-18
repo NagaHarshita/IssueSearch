@@ -1,0 +1,1 @@
+ URL : "https://github.com/lethal-squirrels/Bangazon-Site/issues/9" TITLE : user can cancel an order BODY : given the user is authenticated when the user is viewing their order then there should be a button labeled cancel order which will remove all products from the order and delete the order

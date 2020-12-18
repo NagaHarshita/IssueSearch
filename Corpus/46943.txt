@@ -1,0 +1,1 @@
+ URL : "https://github.com/chainpoint/chainpoint-node/issues/44" TITLE : new node has 0 credit BODY : i've a new node running. testing for credit level by submitting a hash to the node yields could not submit hash to core: invalid response : 403 : 403 - { code : notauthorized , message : insufficient tntcredit remaining: 0 } should we still need to convert tnt to credits ?

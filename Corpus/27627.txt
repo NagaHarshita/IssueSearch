@@ -1,0 +1,1 @@
+ URL : "https://github.com/mchiasson/GLBrebis/issues/9" TITLE : doesn't load on osx BODY : looks like osx doesn't like dlsym null, ... . might have to open a library handle on the binary itself

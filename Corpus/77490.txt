@@ -1,0 +1,1 @@
+ URL : "https://github.com/MRSessions/UOPLTC/issues/9" TITLE : new control: update user BODY : a. if a user is selected in the listbox then we should be able to update the users information with the update button b. validation will need to be created to make sure a user is selected.

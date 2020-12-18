@@ -1,0 +1,1 @@
+ URL : "https://github.com/annulen/webkit/issues/668" TITLE : fix build with x32 abi BODY : please cherry-pick 0858ee607f376ae86c20c3cb4bcdb2c41b3e2b9f from master. applies cleanly. should fix https://bugs.debian.org/881055.

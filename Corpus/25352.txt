@@ -1,0 +1,1 @@
+ URL : "https://github.com/tajo/react-portal/issues/183" TITLE : writing unit tests BODY : i'm trying to write unit tests with jest/enzyme for a module that uses portalwithstate . does anyone have a good way to get the contents of the portal after it's opened?

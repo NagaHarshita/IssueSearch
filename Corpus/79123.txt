@@ -1,0 +1,1 @@
+ URL : "https://github.com/Intermodalics/tango_ros/issues/170" TITLE : rosbag record on device? BODY : latency is very huge when topics are streamed via wifi to a desktop machine. is there a way to record all messages on device? if not, is this on your roadmap? also what is the local master for? thx in advance

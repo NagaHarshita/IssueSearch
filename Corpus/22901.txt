@@ -1,0 +1,1 @@
+ URL : "https://github.com/TryGhost/Ghost-Android/issues/7" TITLE : multi image upload BODY : when uploading images in the ghost-admin, you are able to select multiple images. the android app doesn't seem to support this. since the app used to select the images supports multiselection, i suspect the cause is the ghost app.

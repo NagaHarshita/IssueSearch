@@ -1,0 +1,1 @@
+ URL : "https://github.com/jdjfoley/projectIon/issues/52" TITLE : delete post logic change BODY : deleting post should mark flag as deleted and no longer be visible and enter the deleted archive, which is only visible to admin. admin should have an additional category to find deleted posts/comments.

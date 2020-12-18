@@ -1,0 +1,1 @@
+ URL : "https://github.com/ARCANEDEV/LogViewer/issues/163" TITLE : s3 as 'storage-path' BODY : is it possible to have s3 as a storage for the logs? with my application running on a load balancer, i'd like logs from all instances to be in the same location. debugging issues is difficult when having to wait to get the right app instance with the error in the log.

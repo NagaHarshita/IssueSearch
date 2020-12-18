@@ -1,0 +1,1 @@
+ URL : "https://github.com/Sprite-Storm/lightning-js/issues/30" TITLE : tween fps doesn't work BODY : setting fps on tweens no longer seems to actually change the fps rate.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/reactxp/issues/209" TITLE : hr tage supported? BODY : i want to use hr tage in reactxp is it possible to uselike that??? <hr classname={classname} {...other} />; if yes than how anyone can give me an example

@@ -1,0 +1,1 @@
+ URL : "https://github.com/edamontology/edamontology/issues/258" TITLE : add operation sorting BODY : definition: sort a set of files or data items according to some property. parent: data handling

@@ -1,0 +1,1 @@
+ URL : "https://github.com/DavidGMarquez/Bitadroid/issues/17" TITLE : raw data in recordings BODY : hi, i'm using your app, and i don't know how to acquire the data with its right unit measures, i saw you have a sensordataconverter class that does this, but when i record the data they appear from 1 to 1023. thanks!

@@ -1,0 +1,1 @@
+ URL : "https://github.com/cycomachead/lambda/issues/144" TITLE : migrate ./run to foreman BODY : also maybe hide the open command, or set it behind a flag?

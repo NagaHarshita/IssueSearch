@@ -1,0 +1,1 @@
+ URL : "https://github.com/DexterInd/GrovePi/issues/383" TITLE : go - why mrmorphic/hwio? BODY : hello, is there a special reason why you chose to go with that library? i have recently discovered this one, which seems to be more handy and updated: https://github.com/hybridgroup/gobot _i will maybe try to replace hwio in my go project with this._

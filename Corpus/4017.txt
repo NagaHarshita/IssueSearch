@@ -1,0 +1,1 @@
+ URL : "https://github.com/byuweb/photoshelter_d8/issues/13" TITLE : add auth token BODY : the auth token needs to be added to the ps image content type so that the image can be authorized for users who are able to download it.

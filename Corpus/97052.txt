@@ -1,0 +1,1 @@
+ URL : "https://github.com/halleycarleton/capstone/issues/88" TITLE : fix focus property on note BODY : when double clicking a note, an error cannot read property of focus of undefined appears

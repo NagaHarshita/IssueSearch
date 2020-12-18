@@ -1,0 +1,1 @@
+ URL : "https://github.com/stevenvachon/broken-link-checker/issues/78" TITLE : reporting 3xx redirects? BODY : it appears that 3xx redirects are not reported. some companies use a redirect rather than a 404, so this would be useful

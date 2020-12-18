@@ -1,0 +1,1 @@
+ URL : "https://github.com/Arquisoft/participationSystem_i1b/issues/1" TITLE : create new entity models BODY : the entitys we need to store in the db are: - citizen - proposal - comment

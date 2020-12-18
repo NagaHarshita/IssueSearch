@@ -1,0 +1,1 @@
+ URL : "https://github.com/schaal/ocreader/issues/40" TITLE : state is not recovered BODY : when leaving the app while browsing starred articles the app should go into starred articles when re-opening the app at least this is what the code suggests to me .

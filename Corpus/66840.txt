@@ -1,0 +1,1 @@
+ URL : "https://github.com/CIDARLAB/3DuF/issues/76" TITLE : no usable border output BODY : neptune outputs a proper border for the mill to cut out, but 3duf does not which makes cutting out the chip to the right size very difficult.

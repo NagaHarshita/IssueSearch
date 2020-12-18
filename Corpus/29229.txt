@@ -1,0 +1,1 @@
+ URL : "https://github.com/Foreveryone-cz/win-sshfs/issues/161" TITLE : key + password auth BODY : is there a way to have both key and password auth in winssh ? all my servers are setup this way and removing one or the other is a security risk. thanks. mel

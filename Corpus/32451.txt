@@ -1,0 +1,1 @@
+ URL : "https://github.com/arachnys/athenapdf/issues/103" TITLE : use headless chrome BODY : see https://developers.google.com/web/updates/2017/04/headless-chrome i don't think we can use it as a full replacement, but it can definitely be included as a simple, non-configurable adapter at least for the initial release .

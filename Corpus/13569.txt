@@ -1,0 +1,1 @@
+ URL : "https://github.com/neon-bindings/rfcs/issues/8" TITLE : vargo new --neon BODY : i'd like to see a proposal for a command-line flag for vargo new that lets you specify a local path to a local development tree of neon , so that you can easily build neon projects with a custom build or fork of neon. this would be useful in particular for testing.

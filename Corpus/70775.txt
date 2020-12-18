@@ -1,0 +1,1 @@
+ URL : "https://github.com/Z3Prover/z3/issues/1378" TITLE : z3py: parsing smt2 file BODY : hi, i try the code below to parse a smt2 file, in python with z3, but i have an z3exception: parser error. do you have an idea what i am supposed to do ? import z3; ctx = z3.context s = z3.solver ctx=ctx f = z3.parse_smt2_file file.smt2 print f

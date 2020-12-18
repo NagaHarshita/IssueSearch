@@ -1,0 +1,1 @@
+ URL : "https://github.com/lucassm/Pade/issues/3" TITLE : conteinerização do pade BODY : criar um docker file para que o pade possa rodar em um contêiner docker, facilitando assim sua instalação, flexibilidade e utilização em diferentes plataformas por meio do encapsulamento das dependências em contêineres.

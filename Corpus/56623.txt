@@ -1,0 +1,1 @@
+ URL : "https://github.com/adafruit/adafruit-beaglebone-io-python/issues/222" TITLE : no such file/directory BODY : cat /sys/devices/platforms/bone_capemgr/slots its not working its giving error no such file/directory when i was create manually its not giving permission. so please solve my issue

@@ -1,0 +1,1 @@
+ URL : "https://github.com/django-ckeditor/django-ckeditor/issues/390" TITLE : export to doc or docx BODY : hey, i tried using ckeditor in my django project , and i need to export after editing some text but i can't find any plugin or button to export to doc or docs! what should i do? is ck has any future for this ?

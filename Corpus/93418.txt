@@ -1,0 +1,1 @@
+ URL : "https://github.com/DigitalGlobe/OpenSpaceNet/issues/215" TITLE : add support for spatialite BODY : add spatialite output option. this will support our efforts to build a fast roc calculator.

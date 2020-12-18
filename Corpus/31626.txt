@@ -1,0 +1,1 @@
+ URL : "https://github.com/safetysystemtechnology/android-shake-detector/issues/1" TITLE : stop doesn't exists BODY : this.shakedetector.stop getbasecontext ; error: cannot find symbol method stop mainactivity

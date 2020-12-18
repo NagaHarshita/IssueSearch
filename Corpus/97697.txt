@@ -1,0 +1,1 @@
+ URL : "https://github.com/ruben2020/codequery/issues/63" TITLE : how to add erlang support? BODY : for examle erlang erlang tags comes with vim plugin : erlang-tags https://github.com/vim-erlang/vim-erlang-tags erlcscope https://github.com/syed/erlcscope how to i make codequery support erlang?

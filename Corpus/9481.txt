@@ -1,0 +1,1 @@
+ URL : "https://github.com/brentp/cyvcf2/issues/34" TITLE : write slim vcf? BODY : hi, would it be possible to use cyvcf2 to skip particular vcf header fields i.e. altering the vcf template when writing records? it seems it can add headers, but i could not figure out to set existing fields to null. best, sigve

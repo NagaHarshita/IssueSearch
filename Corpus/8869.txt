@@ -1,0 +1,1 @@
+ URL : "https://github.com/Sunzxyong/Tiny/issues/28" TITLE : set size limit? BODY : is it possible to set a max size limit for the returned image? if not, what is the best way to make sure that the image is maximum quality under a certain size? thank you for the great library!

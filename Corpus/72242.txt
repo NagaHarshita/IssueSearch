@@ -1,0 +1,1 @@
+ URL : "https://github.com/barcharcraz/nimlibpng/issues/4" TITLE : binary in the repository BODY : there is a compiled binary in the source tree: src/png https://github.com/barcharcraz/nimlibpng/blob/011673a6e7b25e14cf5047d8f9ab6a84040239b6/src/png

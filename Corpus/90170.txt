@@ -1,0 +1,1 @@
+ URL : "https://github.com/blevesearch/bleve/issues/636" TITLE : save data from backend db BODY : good afternoon, sorry for the stupid question, bleve default kv storage boltdb , is it possible to save data from this repository after indexing, such as a file for future use, thanks.

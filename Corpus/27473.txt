@@ -1,0 +1,1 @@
+ URL : "https://github.com/eriq-augustine/psl/issues/78" TITLE : default truth value BODY : the default evidence is always 1.0: https://github.com/eriq-augustine/psl/blob/develop/psl-core/src/main/java/org/linqs/psl/database/rdbms/rdbmsdataloader.java l136 it may be nice to allow that to be variable, or set somewhere.

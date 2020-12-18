@@ -1,0 +1,1 @@
+ URL : "https://github.com/alonzog76/signaler_mobile/issues/11" TITLE : add alarms details window BODY : add a window where the details of an alarm will be shown.the same window should also allow to create a new alarm without passing through the map. in fact the maps view and this should be quite complementary

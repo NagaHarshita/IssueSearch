@@ -1,0 +1,1 @@
+ URL : "https://github.com/io7m/sombrero/issues/1" TITLE : add an osgi implementation BODY : add an osgi resolver as an alternative to the serviceloader implementation.

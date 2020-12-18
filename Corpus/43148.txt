@@ -1,0 +1,1 @@
+ URL : "https://github.com/CognitiveComputingResearchGroup/lidapy-framework/issues/47" TITLE : code reviewers needed BODY : i've modified the repository to allow admin pull requests to bypass review. i don't like it, but the current process is not working well. we can discuss this during our next meeting.

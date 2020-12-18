@@ -1,0 +1,1 @@
+ URL : "https://github.com/everypolitician/everypolitician-generator/issues/5" TITLE : add rubocop to rakefile BODY : i should be able to run rake rubocop in a newly created gem. related to https://github.com/everypolitician/everypolitician-generator/issues/4

@@ -1,0 +1,1 @@
+ URL : "https://github.com/tomchentw/react-google-maps/issues/468" TITLE : map not rendering properly BODY : there are two tabs in my page. i put google map in one of my tabs and it render properly. ! http://i.imgur.com/elsl8gm.png after i switch to another tab and switch back, the content inside map is disappeared. is there any way to solve it? ! http://i.imgur.com/okww4it.png

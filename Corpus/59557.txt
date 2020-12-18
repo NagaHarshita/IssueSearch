@@ -1,0 +1,1 @@
+ URL : "https://github.com/ironSource/node-generator-nom/issues/15" TITLE : update appveyor config BODY : remove: npm -g i npm@latest add: yaml platform: - x86 - x64 install: - ps: install-product node $env:nodejs_version $env:platform

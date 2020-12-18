@@ -1,0 +1,1 @@
+ URL : "https://github.com/john30/ebusd/issues/122" TITLE : ebusctl's returning code BODY : hi, is possible to have a valid return code in case of ebusctl's connection error? it could be useful to diagnose connection error. thanks root@vps: ebusctl -p 7778 error connecting to localhost:7778 root@vps echo $? 0 it should be 1 instead. thanks

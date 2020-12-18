@@ -1,0 +1,1 @@
+ URL : "https://github.com/FriskByBergen/friskby/issues/160" TITLE : quick safari support BODY : some issue on safari on macos and ios. the map is skewed and there are no lines in the chart. i have not gotten around to finding the root cause yet.

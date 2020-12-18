@@ -1,0 +1,1 @@
+ URL : "https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart/issues/1" TITLE : for ;; is not handled. BODY : javascript function q { for ;; { console.log dsfsdf ; } } the diagram on the online demo fails to change unless i add loop condition.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/tomnomnom/meg/issues/12" TITLE : there's no user agent BODY : meg should have its own user agent so that anyone seeing requests in their logs can see what's making them. ideally should be a mozilla-alike user agent for sites that do ua detection etc.

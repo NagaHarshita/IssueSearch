@@ -1,0 +1,1 @@
+ URL : "https://github.com/KamiKillertO/vscode-colorize/issues/26" TITLE : browser colors issue BODY : grey should not be considered as a color here. <img width= 248 alt= screen shot 2017-04-04 at 15 44 33 src= https://cloud.githubusercontent.com/assets/9579729/24659662/a2f488ae-194d-11e7-82cc-98c1d35eae68.png >

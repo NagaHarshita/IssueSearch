@@ -1,0 +1,1 @@
+ URL : "https://github.com/awnumar/memguard/issues/37" TITLE : is prot_exec required? BODY : looking at this code: https://github.com/awnumar/memguard/blob/79d54e0bde799a6e8285546a0ae53383fc796103/memcall/memcall_unix.go l52-l57 is prot_exec really required? it feels unnecessary given the use case of memguard for byte slices only.

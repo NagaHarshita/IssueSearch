@@ -1,0 +1,1 @@
+ URL : "https://github.com/rogerthat-platform/rogerthat-backend/issues/360" TITLE : news feed label BODY : a label to distinguish feeds. none means the default news feed. - add label to news.publish , newsitem , newsitemto , getnewsrequestto

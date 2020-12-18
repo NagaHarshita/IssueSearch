@@ -1,0 +1,1 @@
+ URL : "https://github.com/SBU-BMI/SlicerPathology/issues/84" TITLE : loading image from web BODY : loading image from web fails if user forgets to fetch the image from the web first. in the case where the user simply clicks the wrong button. check for open image first.

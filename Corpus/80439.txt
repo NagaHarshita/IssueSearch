@@ -1,0 +1,1 @@
+ URL : "https://github.com/samiheikki/javascript-guessing-game/issues/85" TITLE : travisci doesn't qualify BODY : imo travisci is not directly related to js. it's a great tool that can be used for js projects, but for many others as well. i think it should be removed from the list of javascript libs/frameworks.

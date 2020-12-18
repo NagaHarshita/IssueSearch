@@ -1,0 +1,1 @@
+ URL : "https://github.com/vifird/react-keeper/issues/20" TITLE : clear cache page BODY : how to programmably clear a cached page . may like this : // after login reactkeeper.clearcache 'index.home.tab1'

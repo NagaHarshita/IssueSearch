@@ -1,0 +1,1 @@
+ URL : "https://github.com/filamentgroup/snapper/issues/29" TITLE : remove automatic init BODY : snapper currently includes the automatic init at the bottom of the main source. it would be nice to split that out so that one can include the js from the npm module and initialize on demand.

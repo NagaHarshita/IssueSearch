@@ -1,0 +1,1 @@
+ URL : "https://github.com/a-daaif/ajax-exemple/issues/1" TITLE : function get arguments BODY : bonsoir monsieur dans la ligne 9 > lib.get = function url, data, success, error, progress { je vois pas l'utilité des arguments success,error ; parceque dans la ligne 11 > return new promise function resolve, reject { resolve & reject jouent le role de succes & error :

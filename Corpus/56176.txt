@@ -1,0 +1,1 @@
+ URL : "https://github.com/GuntharDeNiro/BTCT/issues/287" TITLE : minor enhancement idea BODY : each time a buy order is executed, could a line similar to the following be added to the associated coin pair block in the log where: btc / local_currency at time of buy order: price exchange for example: btc / usd at time of buy order: 4580.00 bittrex

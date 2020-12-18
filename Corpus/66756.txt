@@ -1,0 +1,1 @@
+ URL : "https://github.com/php79/stack/issues/36" TITLE : nginx ssl 설정 제작 BODY : 초안 - mainline - 100점? - stable - a+ https://www.ssllabs.com/ssltest/analyze.html?d=php79.com - legacy - windows xp + android 2.3~4.3 지원. 관공서 등 일부 환경에선 불가피한 경우가 있어서요 > path: ssl/nginx-stable.conf ? > 참고 - https://phpschool.com/link/tipntech/81711

@@ -1,0 +1,1 @@
+ URL : "https://github.com/inaimathi/house/issues/10" TITLE : json formatted body BODY : on post requests with content-type: application/json , interpret the body as json instead of the default www-form-encoded .

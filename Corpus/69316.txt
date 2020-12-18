@@ -1,0 +1,1 @@
+ URL : "https://github.com/japaric/photon-hal/issues/17" TITLE : support tcp connections BODY : i started porting the tcpclient, but kind of got stuck in the complexity of the issue. is this https://github.com/dbrgn/photon-hal/tree/tcp-client the correct direction / approach?

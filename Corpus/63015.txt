@@ -1,0 +1,1 @@
+ URL : "https://github.com/PrekshaNema25/diversity_based_attention/issues/2" TITLE : dataset download script BODY : hi, i encountered some problems with the extract_data.sh script. valueerror: invalid literal for int with base 10: 'new_data/final_summary' make 10 folds also, are the files in the data folder are the test set? thanks

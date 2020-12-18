@@ -1,0 +1,1 @@
+ URL : "https://github.com/CBIIT/nci-ctd2-dashboard-tmpl-helper/issues/6" TITLE : export - mime type BODY : the correct row name for mime types is mime_type instead of mime_types . the mime_type for images should be image/jpg or image/png , depending on the file extension. the mime_type for stories should be text/html , depending on the file extension.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/atom/watcher/issues/34" TITLE : lint with clang-tidy BODY : use clang-tidy http://clang.llvm.org/extra/clang-tidy/ to lint my c++ with npm run lint . i bet i can catch a bunch of issues like this.

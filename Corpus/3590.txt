@@ -1,0 +1,1 @@
+ URL : "https://github.com/hackclub/monolith/issues/7" TITLE : set up hakiri BODY : currently we use hakiri to alert for vulnerabilities in https://github.com/hackclub/api. we need to migrate this to https://github.com/hackclub/monolith.

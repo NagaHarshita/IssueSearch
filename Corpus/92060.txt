@@ -1,0 +1,1 @@
+ URL : "https://github.com/Trot-dms/bills/issues/13" TITLE : usercontroller - register BODY : jest problem w widoku register.html związany z tym, że podczas bindingu nie wyrzuca błędów dotyczących pól. przez to po wejściu w if bindingresult.haserrors nie wyświetla w widoku błędów związanych z polami.

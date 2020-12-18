@@ -1,0 +1,1 @@
+ URL : "https://github.com/facebook/reason/issues/1415" TITLE : format foo {a: 1 } better BODY : https://github.com/facebook/reason/pull/1412 discussion_r139335647 bigger example: reason foo { a: 1, ... / big record / } should instead format to: reason foo { a: 1 } aka { together. same for list and array, etc.

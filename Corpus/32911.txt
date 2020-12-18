@@ -1,0 +1,1 @@
+ URL : "https://github.com/robert-strandh/McCLIM/issues/296" TITLE : $500 windows backend BODY : - bring https://github.com/ailisp/mcclim-graphic-forms to beta state - merge it to main repository as a fully-featured backend @ailisp has antecedence for this bounty as he started the backend work so it might be worth contacting him before you start working on the issue.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/aaronnguyen/db-flat-diff/issues/2" TITLE : save diff option BODY : - save button on the diff window. - build a standalone html page: - add the skeleton framework code into the html. - add css and js into the html as well. - save button will bring up dialog window with an option to save anywhere with a user inputted name.

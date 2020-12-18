@@ -1,0 +1,1 @@
+ URL : "https://github.com/Leanplum/Leanplum-iOS-SDK/issues/54" TITLE : xcode 9 warnings BODY : seeing many warnings in xcode 9 of type this block declaration is not a prototype . can be easily fixed by inserting 'void' inside . in files lpinbox.h, leanplum.h, thanks.

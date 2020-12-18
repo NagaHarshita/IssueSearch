@@ -1,0 +1,1 @@
+ URL : "https://github.com/Parabot/Parabot/issues/235" TITLE : clean .github folder BODY : currently the pull request and issue template contains a lot of stuff we don't need, we should keep it simply, otherwise they don't get filled in anyways.

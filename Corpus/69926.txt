@@ -1,0 +1,1 @@
+ URL : "https://github.com/grafana/grafana/issues/8358" TITLE : unix socket permissions BODY : please add an option to explicitly set unix socket permissions. thank you.

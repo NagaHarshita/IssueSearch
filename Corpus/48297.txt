@@ -1,0 +1,1 @@
+ URL : "https://github.com/OctoNezd/NTRDB/issues/19" TITLE : return sqlite support BODY : looks like sqlite supported screwed pretty much things, i reverted to commit w/o it.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/TypeCobolTeam/TypeCobol/issues/435" TITLE : ei legacy remarks BODY : copy declared in remarks but used with syntax copy xxxxxxx replacing ==:xxxxxx:== by ==xxxxxx==. must not use our legacy remarks mechanism

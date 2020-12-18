@@ -1,0 +1,1 @@
+ URL : "https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/391" TITLE : no avd support BODY : there is avd support mentioned in wiki https://github.com/mobsf/mobile-security-framework-mobsf/wiki/9.-use-avd-emulator but there is no mobsfy_avd.py script inside mobsf master and no avd settings section in settings.py for manual config.

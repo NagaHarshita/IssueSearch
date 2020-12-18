@@ -1,0 +1,1 @@
+ URL : "https://github.com/CtripFE/format-weekly/issues/4" TITLE : don not surpport <a> tag BODY : 在 node.js 中使用原生 es 模块 https://zhuanlan.zhihu.com/p/29314408 node 8.5.0 https://nodejs.org/en/blog/release/v8.5.0/ 已经发布，开始支持 es 模块，目前还需要增加命令行参数选项，计划是在 node.js 10 lts 中默认支持。

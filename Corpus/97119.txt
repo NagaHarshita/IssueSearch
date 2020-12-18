@@ -1,0 +1,13 @@
+ URL : "https://github.com/gap9269/SDD/issues/1119" TITLE : fixes from player feedback BODY : - spawn 2nd trenchcoat wave in dark alleyway closer to the right
+- press i to close inventory, b for bio, etc
+- let esc close trenchcoat menu
+- remove tool-tips on journal/bio/quest pop-ups if using controller
+- unequip doesn't work after ranking up
+- game dies if you alt-tab in full screen
+- update dust clouds during npc-talking
+- don't let cursor time out in menus
+- 4 to 5 of dd causes weird cooldown bug in preview
+- don't open vents until after learning about maps is done
+- magister of maps can talk in d&d room, but is just placed too high. make her so she can't speak
+- theater mask suit looks like weenie shirt
+- make beethoven yell at you every few seconds in waiting room until you talk to him <!--- @huboard:{ order :4.7972874073260205e-64, milestone_order :4.735802901598905e-64} -->

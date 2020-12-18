@@ -1,0 +1,1 @@
+ URL : "https://github.com/MultiSafepay/PHP/issues/13" TITLE : xss in views\refund.php BODY : here is a xss vulnerability in views\refund.php about parameter transactionid. poc: http://your-web-root/views/refund.php?transactionid= ><script>alert 1 ;</script>< this poc will pop a window in firefox browser.

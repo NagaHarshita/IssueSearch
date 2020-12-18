@@ -1,0 +1,1 @@
+ URL : "https://github.com/levg34/nodejs-chat/issues/47" TITLE : send message on connect BODY : send a message to someone offline, and send it when this person connects the next time

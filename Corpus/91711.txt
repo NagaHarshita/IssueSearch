@@ -1,0 +1,1 @@
+ URL : "https://github.com/qdouble/angular-webpack2-starter/issues/258" TITLE : universal to nonuniversal BODY : hello, so i had been working on universal branch, since its useless right now to keep universal, i want to switch to non-universal, can u tell me how can i safely switch branches by merging codebase?

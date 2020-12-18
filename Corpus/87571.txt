@@ -1,0 +1,1 @@
+ URL : "https://github.com/Midburn/Spark/issues/147" TITLE : login from drupal profile BODY : the procedure - user login to the spark/camp system. - once authenticated, the spark receive all the information from drupal, and updates the user profile. create new if not exists, and update if exists .

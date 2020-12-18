@@ -1,0 +1,1 @@
+ URL : "https://github.com/redacademy/evans-spring-2017/issues/6" TITLE : choose appropriate fields BODY : for example, the description field on the activities post type should probably be a textarea, not a text input. please review all field type implementations.

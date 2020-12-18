@@ -1,0 +1,1 @@
+ URL : "https://github.com/openaddresses/submit-service/issues/50" TITLE : remove temp dependency BODY : switch to in-memory representation for sha1 calculation.

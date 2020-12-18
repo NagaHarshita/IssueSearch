@@ -1,0 +1,1 @@
+ URL : "https://github.com/thunderrabbit/robdot_conswi/issues/1" TITLE : fix highlighted pieces BODY : make highlight use separate image, or add highlight versions of icons below existing icons see tilesprite.gd

@@ -1,0 +1,1 @@
+ URL : "https://github.com/vberger/wayland-rs/issues/111" TITLE : doesn't build on openbsd BODY : there's a build error in src/display.rs:93 on openbsd, because ::libc::eproto isn't defined.

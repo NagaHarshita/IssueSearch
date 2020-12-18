@@ -1,0 +1,1 @@
+ URL : "https://github.com/qutebrowser/qutebrowser/issues/2959" TITLE : one process per tab BODY : as far as i've seen, qutebrowser is one process. even though i've not experienced many crashes, it might be worth considering to improve robustness.

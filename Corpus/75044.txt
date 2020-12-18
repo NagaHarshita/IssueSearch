@@ -1,0 +1,1 @@
+ URL : "https://github.com/cpkm/beamprofiler/issues/5" TITLE : frozen camera on mac osx BODY : mac osx - preview image will freeze if the mouse is not moving. only tested using bulit-in camera. no issue with external camera on windows machine.

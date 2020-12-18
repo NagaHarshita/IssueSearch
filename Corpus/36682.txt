@@ -1,0 +1,1 @@
+ URL : "https://github.com/blooprint/whiteSocket/issues/9" TITLE : image file locations BODY : you'll notice if running the whitesocket that the relative file paths need some tinkering. the goal is for the jar to be in the same containing directory as the i/o files easy peezy see: whitesocket.bloop.saveblooprint whitesocket.bloop.loadblooprint whitesocket.bloop.loadsketch

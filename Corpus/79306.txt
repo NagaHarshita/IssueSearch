@@ -1,0 +1,1 @@
+ URL : "https://github.com/semuxproject/semux/issues/5" TITLE : selected table row shift BODY : selected row are not correctly adjusted when the order of table data changes.

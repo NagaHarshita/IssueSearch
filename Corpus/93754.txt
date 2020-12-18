@@ -1,0 +1,1 @@
+ URL : "https://github.com/hessu/aprsfi/issues/5" TITLE : api: telemetry data lookup BODY : the http api should allow fetching current telemetry of a station.

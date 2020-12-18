@@ -1,0 +1,1 @@
+ URL : "https://github.com/simple-bind/simple_bind/issues/11" TITLE : input - radio BODY : similar to the select, when the radio is selected, it should update the target text with the value. if the target is also a radio, it should try to select based on the current selection.

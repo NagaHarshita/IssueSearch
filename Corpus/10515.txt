@@ -1,0 +1,1 @@
+ URL : "https://github.com/SergeyFrolov/gotapdance/issues/26" TITLE : close conformity BODY : current close does not conform to https://golang.org/pkg/net/ conn specification: - it should be faster - read and write should return err in essence, we'd have to re-factor the code so we don't call close from inside anymore

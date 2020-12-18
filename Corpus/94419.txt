@@ -1,0 +1,1 @@
+ URL : "https://github.com/MarioJuniorPro/vue-everyday-component/issues/1" TITLE : can't resolve 'vue-router' BODY : error in ./src/main.js module not found: error: can't resolve 'vue-router'

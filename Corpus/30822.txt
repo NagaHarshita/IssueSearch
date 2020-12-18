@@ -1,0 +1,1 @@
+ URL : "https://github.com/apocas/dockerode/issues/392" TITLE : rebuilding an image BODY : how to forcefully rebuild an image? i was trying to build image with the same name.. but it is not being able to create a new image with the same name..

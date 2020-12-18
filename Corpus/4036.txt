@@ -1,0 +1,1 @@
+ URL : "https://github.com/fedenaka/typescript-react-boilerplate/issues/4" TITLE : add dev server BODY : a dev server that supports hot module replacement is required. you should be able to start the dev server by running npm start

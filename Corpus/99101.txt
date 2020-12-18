@@ -1,0 +1,1 @@
+ URL : "https://github.com/jvineis/HBCF/issues/1" TITLE : make new gene names unique BODY : somewhere in hbcf-filter_blast_for_pair_correcting.py, i need to incorporate a new naming convention for new genes because they end up being redundant in the output for different positions in the genome.

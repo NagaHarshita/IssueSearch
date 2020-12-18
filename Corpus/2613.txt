@@ -1,0 +1,1 @@
+ URL : "https://github.com/stedolan/jq/issues/1307" TITLE : can't sub dot BODY : dolvany:~ dolvany$ jq -n ' vip_doijwe.com_443 |sub _ ; ; g ' vipdoijwe.com443 dolvany:~ dolvany$ jq -n ' vip_doijwe.com_443 |sub . ; ; g ' dolvany:~ dolvany$

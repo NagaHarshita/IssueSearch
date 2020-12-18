@@ -1,0 +1,1 @@
+ URL : "https://github.com/alwx/react-native-photo-view/issues/53" TITLE : http vs https BODY : @alwx thanks for the pkg!! it seems as though on ios it only works with images from an https source and local images and on android it only works with local images is there a work around for this? thank you!

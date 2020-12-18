@@ -1,0 +1,1 @@
+ URL : "https://github.com/ocaml/tuareg/issues/161" TITLE : jbuild indentation is off BODY : see this snippet for example: alias name runtest deps files_recursively_in test-cases/ocaml-syntax action chdir test-cases/ocaml-syntax setenv jbuilder ${bin:jbuilder} run ${exe:cram.exe} run.t that setenv should really be a little 1 space after the previous line.

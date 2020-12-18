@@ -1,0 +1,1 @@
+ URL : "https://github.com/opencast/pyCA/issues/138" TITLE : typo: bakup mode BODY : typo in pyca/config.py: logger.info 'agent runs in bakup mode. no data will be sent to ' should be backup

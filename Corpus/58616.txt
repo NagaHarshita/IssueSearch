@@ -1,0 +1,1 @@
+ URL : "https://github.com/Fusion86/FusionHax64/issues/1" TITLE : split into 3 libraries BODY : 1. 32/64 bit compatible library with basic functions attach to game by window name, etc 2. 32 bit games library 3. 64 bit games library

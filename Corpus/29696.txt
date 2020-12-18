@@ -1,0 +1,1 @@
+ URL : "https://github.com/thoughtbot/expandable-recycler-view/issues/69" TITLE : minimum sdk version BODY : just noticed that minimum sdk version required to build this library is 16. is it possible to make it even lower, say 15, to achieve more device compatibility?

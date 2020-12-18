@@ -1,0 +1,1 @@
+ URL : "https://github.com/ros-simulation/gazebo_ros_pkgs/issues/562" TITLE : new kinetic release? BODY : now that https://github.com/ros-simulation/gazebo_ros_pkgs/pull/556 is merged back in, we should release this package to allow maintainers time to fix their cmakelists

@@ -1,0 +1,1 @@
+ URL : "https://github.com/tcmj/tcmj-pug-enums/issues/22" TITLE : skip specific records BODY : description: add ability to remove some records of the input data usecases: 1. unwanted entries 2. sum rows, totals, grouping bands implementation hints: this can be implemented by defining the value of the constant column or we can use line numbers ?

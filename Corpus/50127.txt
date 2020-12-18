@@ -1,0 +1,1 @@
+ URL : "https://github.com/BiglySoftware/BiglyBT/issues/188" TITLE : vpn helper plugin pia BODY : the vpn helper plugin for pia does not seem to work. i have tried it with and without my account info when connected to the pia client . i like the idea of just having my client connected for port forwarding, but how does the plugin determine what server location to log onto? thanks.

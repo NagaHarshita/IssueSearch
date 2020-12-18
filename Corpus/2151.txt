@@ -1,0 +1,1 @@
+ URL : "https://github.com/UDST/choicemodels/issues/7" TITLE : tests and ci BODY : @smmaurer it would be useful to put together some simple tests and a continuous integration process for our development work. i can work on this over the coming week.

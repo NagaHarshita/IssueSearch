@@ -1,0 +1,1 @@
+ URL : "https://github.com/GoogleChrome/puppeteer/issues/305" TITLE : page.scroll ? BODY : hello there, in order to test image preloading, it is essential to be able to scroll the viewport somehow. any plans for that?

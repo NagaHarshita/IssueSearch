@@ -1,0 +1,1 @@
+ URL : "https://github.com/xcarpentier/react-native-country-picker-modal/issues/101" TITLE : disable full screen modal BODY : is it possible to disable the appearance of the modal in full screen? i'd like to have a small transparent space outside the modalcontainer.

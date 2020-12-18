@@ -1,0 +1,1 @@
+ URL : "https://github.com/WebReflection/hyperHTML-Element/issues/9" TITLE : bump hyperhtml dependency BODY : is there a reason hyperhtml dependency in package.json is still at 0.17.x ? need help updating it to 1.x ?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/steventroughtonsmith/cartool/issues/19" TITLE : thread 1: signal sigabrt BODY : terminating app due to uncaught exception 'nsinvalidargumentexception', reason: ' <cuicatalog 0x1028412c0> setnilvalueforkey : could not set nil as the value for the key _storageref.'

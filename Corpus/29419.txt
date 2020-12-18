@@ -1,0 +1,1 @@
+ URL : "https://github.com/Gulix/citizen-assemble/issues/30" TITLE : loading of the page BODY : when the page is loaded, the modal box and some invisible elements are displayed, while all the code is set. those elements should not be displayed during this time.

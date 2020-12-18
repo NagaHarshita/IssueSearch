@@ -1,0 +1,1 @@
+ URL : "https://github.com/SnowdogApps/magento2-frontools/issues/252" TITLE : integrate r.js bundling BODY : integrate r.js bundling using configurations created by anton kril https://github.com/antonkril/magento-rjs-config with some customizations / changes related to loading bundles via requere.js bundles param in configuration , not synchronously.

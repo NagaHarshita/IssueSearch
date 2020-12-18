@@ -1,0 +1,1 @@
+ URL : "https://github.com/release-notes/release-notes-cli/issues/10" TITLE : add filtering on tags BODY : acceptance criteria: - should be able to exclude specific tags e.g. ios , android

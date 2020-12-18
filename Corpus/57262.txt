@@ -1,0 +1,1 @@
+ URL : "https://github.com/superdavex/joyingsofia/issues/1" TITLE : prevent user data wipe BODY : need to figure out a way to prevent the recovery from doing a user data wipe if the boot is unsuccessful. who is the recovery to judge whether the boot was successful or not???

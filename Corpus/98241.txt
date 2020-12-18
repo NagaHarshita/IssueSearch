@@ -1,0 +1,1 @@
+ URL : "https://github.com/corradio/electricitymap/issues/232" TITLE : incorrect data for ireland BODY : it was mentioned by one of the users that the data for ireland is incorrect. as it seems, we are showing the data for ireland and northern ireland combined. the data for ireland only can be found here: http://smartgriddashboard.eirgrid.com/ roi/co2

@@ -1,0 +1,1 @@
+ URL : "https://github.com/pharo-nosql/voyage/issues/89" TITLE : dateandtime and utc BODY : when saving a dateandtime instance the local shift information is lost. http://forum.world.st/voyage-dateandtime-and-utc-td4940779.html

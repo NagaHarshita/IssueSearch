@@ -1,0 +1,1 @@
+ URL : "https://github.com/justwatchcom/sql_exporter/issues/9" TITLE : improve test coverage BODY : at least the internals should be covered. not sure about integration tests connecting to databases. would be nice, but may be error prone.

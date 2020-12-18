@@ -1,0 +1,1 @@
+ URL : "https://github.com/ForestAdmin/lumber/issues/102" TITLE : exclude .ds_store on macos BODY : if ds_store exists in forest folder then loading fail with this error: forest 🌳🌳🌳 forest customization failed due to a syntax error: unexpected token illegal in my_path/.ds_store:1

@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpenNos/OpenNos/issues/1971" TITLE : bug addmonster command BODY : when we are on a map of empty raiid we cannot use the command $addmonster

@@ -1,0 +1,1 @@
+ URL : "https://github.com/dodoas/lodo/issues/412" TITLE : can't bookkeep bank BODY : when the account lines don't have a currency, we should pick it from the account when bookkeeping. the only lines that don't have a currency are those imported from text files from the bank, on these we should set the currency on the bank account.

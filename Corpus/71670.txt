@@ -1,0 +1,1 @@
+ URL : "https://github.com/ocadotechnology/codeforlife-portal/issues/295" TITLE : add tests for login form BODY : coverage has decreased in pull request 274, because the tests for the login form have not been added.

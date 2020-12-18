@@ -1,0 +1,1 @@
+ URL : "https://github.com/pojome/elementor/issues/2546" TITLE : suggestion about form BODY : hello, suggestion: in a form, allow to insert a select field where the message is sent to different e-mails, according to the selected option. example: if select the option support , the message goes to email support@site.com. thanks!

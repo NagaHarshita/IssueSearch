@@ -1,0 +1,1 @@
+ URL : "https://github.com/tugberkugurlu/AspNetCore.Identity.MongoDB/issues/30" TITLE : multitenancy support saas BODY : hello, i would like to request support for multi-tenancy we are migrating to mongodb https://github.com/aspnet/identity/issues/266 thanks

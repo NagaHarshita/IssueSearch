@@ -1,0 +1,1 @@
+ URL : "https://github.com/djvanderlaan/lvec/issues/13" TITLE : add range argument to lset BODY : when processing an lvec in chunks, one will also want to assign to the result in chunks. for this a range index would be useful/more efficient.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/learn-co-curriculum/react-changing-state-lab/issues/12" TITLE : getting tests to work BODY : i ran $learn i got a nomethod error... i had to install: react-test-renderer : ^15.5.4 , react-dom : ^15.3.0 , ... in package.json in order to get tests to run for this lab. there seems to have been a breaking change to react-addons-test-utils

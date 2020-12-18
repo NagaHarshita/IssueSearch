@@ -1,0 +1,1 @@
+ URL : "https://github.com/AlexGascon/MalTiempoBot/issues/7" TITLE : edit lluvia command BODY : edit lluvia command so it returns if there will be bad weather during the day, instead of on this exact moment. it is useless to return the current weather as it can be obtain simply by looking out of a window.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/xavierfoucrier/gmail-notifier/issues/106" TITLE : mark as read datetime BODY : the datetime value is missing when marking new mail as read in the context menu.

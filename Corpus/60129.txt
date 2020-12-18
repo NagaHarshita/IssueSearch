@@ -1,0 +1,1 @@
+ URL : "https://github.com/MoOx/react-svg-inline/issues/19" TITLE : why are fills removed? BODY : why are fills removed? i'm using google material design icons https://github.com/google/material-design-icons and some of them use fills. they render incorrectly with svg inline because the fills gets stripped out.

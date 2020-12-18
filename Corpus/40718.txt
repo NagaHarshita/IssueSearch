@@ -1,0 +1,1 @@
+ URL : "https://github.com/k8sdb/cli/issues/67" TITLE : use new api versions BODY : in kube 1.6, - deployments changed from extensions/v1beta1 to apps/v1beta1.

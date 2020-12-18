@@ -1,0 +1,1 @@
+ URL : "https://github.com/qpython-android/qpython/issues/56" TITLE : sms send issue BODY : why does qpython smssend throws an exception but qpython3 doesn't ? is there a workaround to fix this issue? my script is simple: from androidhelper import android droid = android droid.smssend '432432432','test'

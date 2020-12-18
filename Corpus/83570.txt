@@ -1,0 +1,1 @@
+ URL : "https://github.com/RafalWilinski/deploy-with-serverless/issues/9" TITLE : change handler data input BODY : right now, handler has http event handler. it should be removed and changed to direct invocation.

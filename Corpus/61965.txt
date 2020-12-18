@@ -1,0 +1,1 @@
+ URL : "https://github.com/GrahamCampbell/Laravel-Markdown/issues/75" TITLE : can i use blade syntax? BODY : hi there, i'm using this package, and really like it, but i thought i would be able to use blade syntax within the markdown text, so far i'm having no luck with this, am i attempting the impossible? thanks, lawrence

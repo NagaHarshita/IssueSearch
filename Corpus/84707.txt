@@ -1,0 +1,1 @@
+ URL : "https://github.com/magnars/dash.el/issues/213" TITLE : discussion remove aliases BODY : why? see discussion in 212. transition plan when we do the transition we can provide a file dash-compat.el or dash-aliases.el which people could require to keep the old code working with minimal effort, but we will deprecate them and remove from core and the documentation. ideas?

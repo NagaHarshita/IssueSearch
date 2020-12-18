@@ -1,0 +1,1 @@
+ URL : "https://github.com/InScopeTracker/InScope-Firebase/issues/4" TITLE : crash on disconnect BODY : when disconnecting from the site, there is a crash bug. it has shown up on project-settings.ts. to reproduce: navigate to the project settings of any project, then refresh the page. error message: typeerror: co.currentproject is undefined

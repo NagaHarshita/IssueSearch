@@ -1,0 +1,1 @@
+ URL : "https://github.com/xybu/onedrive-d-old/issues/228" TITLE : run onedrive-d on boot BODY : hi all, i'm using centos 7 and have just deployed onedrive-d on it. i can start onedrive-d manually after reboot. now, if i want to auto start it on boot, what is neccessary i have to do? please help me solve it. thank you everyone.

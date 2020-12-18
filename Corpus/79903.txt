@@ -1,0 +1,1 @@
+ URL : "https://github.com/guillaumeblanc/ozz-animation/issues/35" TITLE : support fixed point math BODY : i suggest ozz to provide fix point type besides float, since: 1. some cpu don't have hardware float support. 2. float calculation result is not stable among different architectures.

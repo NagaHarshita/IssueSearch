@@ -1,0 +1,1 @@
+ URL : "https://github.com/LastCallMedia/Mannequin/issues/89" TITLE : custom twig namespaces BODY : our existing workflow utilizes some custom twig namespaces we have defined in twigjs. is there a way to do this with mannequin? e.g. @atoms , @molecules , @organisms etc.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/roughike/BottomBar/issues/614" TITLE : jacoco dependency missing? BODY : when i view a layout file containing a bottombar, android studio complains about a missing dependency :+1: could not find org.jacoco:org.jacoco.agent:0.7.5.201505241946. how do i resolve that depencency? adding it to my project doesn't work.

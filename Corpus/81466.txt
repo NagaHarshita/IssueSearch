@@ -1,0 +1,1 @@
+ URL : "https://github.com/libratbag/piper/issues/14" TITLE : xml error during install BODY : when trying to install piper, ninja gives the following error xmllint not set and xmllint not found in path; skipping xml preprocessing.

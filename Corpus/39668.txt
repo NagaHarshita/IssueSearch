@@ -1,0 +1,1 @@
+ URL : "https://github.com/kuzzleio/kuzzle-backoffice/issues/264" TITLE : sort document on _id BODY : it would be nice to be able to sort documents by their _id aumatically or with the more query options button?

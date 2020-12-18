@@ -1,0 +1,1 @@
+ URL : "https://github.com/andrekirst/ValidationFramework/issues/2" TITLE : return only on error BODY : return only errors if method validate is calling. new property: returnonlyerrors - bool - defaultvalue: false

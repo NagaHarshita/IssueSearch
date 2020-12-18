@@ -1,0 +1,1 @@
+ URL : "https://github.com/limonte/sweetalert2/issues/627" TITLE : not working in ie BODY : can't get any swal2 objects to register in ie 8 - 11 .

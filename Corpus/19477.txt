@@ -1,0 +1,1 @@
+ URL : "https://github.com/niansa/simpsh-httpd/issues/5" TITLE : add daemon support BODY : please add a daemon support, so the webserver could be launched in the background, without having it constantly open :

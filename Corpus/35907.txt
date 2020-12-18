@@ -1,0 +1,1 @@
+ URL : "https://github.com/emdaer/emdaer/issues/39" TITLE : fix commitlint in ci BODY : commitlint is failing in ci which blocks contributions. i opened https://github.com/marionebl/commitlint/issues/104 to get that conversation going, but we may need to consider an alternative, or just turning off ci validation until it is fixed.

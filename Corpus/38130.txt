@@ -1,0 +1,1 @@
+ URL : "https://github.com/aplatanado/yakuake-session/issues/18" TITLE : not working in 3.0.4 BODY : the latest version of yakuake refuses to execute runcommand over dbus citing security issues, and suggests recompiling itself. any way to solve it without having to recompile yakuake?

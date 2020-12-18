@@ -1,0 +1,1 @@
+ URL : "https://github.com/meerkat-code/meerkat_frontend/issues/224" TITLE : patient id verification BODY : we have been asked to explore the possibility of verifying whether we can add patient id verification when filling out the forms on the tablets, i.e. an indicator of whether the patient id already exists or not in the db.

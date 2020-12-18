@@ -1,0 +1,1 @@
+ URL : "https://github.com/Brethren-Studios/chimsockets/issues/65" TITLE : add util file BODY : similar to issue 43 shared constants files , we should add a shared util file containing useful functions and operations to be used by both the client and the server. i may store these in a new folder shared/ on the server.

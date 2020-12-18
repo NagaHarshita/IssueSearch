@@ -1,0 +1,1 @@
+ URL : "https://github.com/GeoZac/gpa_calc/issues/2" TITLE : image data reused BODY : the plotting functions conflicts with each other. the plot are shown overlapped,needs to resolve this. steps to reproduce 1.plot a system response in vibdata module 2.go back and use any plotting function mohs or vibdata 3.the plot appears on top on earlier plot

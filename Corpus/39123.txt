@@ -1,0 +1,1 @@
+ URL : "https://github.com/Blaud/overlap2d-runtime-html5-support/issues/2" TITLE : resolve build errors BODY : now it is only possible to run project with superdev, when try to build it, it throw a few errors

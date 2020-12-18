@@ -1,0 +1,1 @@
+ URL : "https://github.com/AlexGustafsson/homebridge-wol/issues/20" TITLE : windows shutdown command BODY : hi, i tried to use the below as a shutdown command but it does not work: shutdowncommand : shutdown -f -r t 0 what would be the correct way to parse through the command from a pi to windows system?

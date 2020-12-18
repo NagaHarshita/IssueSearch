@@ -1,0 +1,1 @@
+ URL : "https://github.com/automl/auto-sklearn/issues/274" TITLE : add more examples BODY : the following examples are missing: auto-sklearn with categorical data auto-sklearn on a different/custom metric

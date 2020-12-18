@@ -1,0 +1,1 @@
+ URL : "https://github.com/Nexusoft/PrimePoolMiner/issues/9" TITLE : command line problem BODY : terminate called after throwing an instance of 'boost::exception_detail::clone_impl<boost::exception_detail::error_info_injector<boost::bad_lexical_cast> >' what : bad lexical cast: source type value could not be interpreted as target it works with the config file.

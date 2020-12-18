@@ -1,0 +1,1 @@
+ URL : "https://github.com/suchprogramming/doge_blog_rails_5/issues/8" TITLE : add comments system BODY : blog posts are a natural place for discussions thus it's time to add a system to handle comments. i'd prefer to build something more like a forum with basic reply functionality. i don't care much for the nested type systems like reddit uses.

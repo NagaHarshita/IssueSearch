@@ -1,0 +1,1 @@
+ URL : "https://github.com/MinecraftServerControl/mscs/issues/179" TITLE : permission denied error BODY : i have this error: starting minecraft server: rankupfind: failed to restore initial working directory: /root: permission denied

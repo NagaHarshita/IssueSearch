@@ -1,0 +1,1 @@
+ URL : "https://github.com/Rayzr522/SharpBot/issues/39" TITLE : //quote has incorrect time BODY : when using //quote to quote a message, the time that is put into the embed is the time //quote command was sent, instead of when the quoted message was sent. image example https://gyazo.com/984f0ba455bf3a07bc3671c3b48a459f

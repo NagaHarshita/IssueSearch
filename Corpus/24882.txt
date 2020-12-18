@@ -1,0 +1,1 @@
+ URL : "https://github.com/udacity/reactnd-issues/issues/52" TITLE : typo in lesson 4.3 BODY : componentdidreceiveprops was used when is should have been componentwillreceiveprops http://imgur.com/a/rl3h0

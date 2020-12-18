@@ -1,0 +1,1 @@
+ URL : "https://github.com/varstr/uaparser/issues/4" TITLE : edge appears as chrome. BODY : ! image https://cloud.githubusercontent.com/assets/13661436/22600248/4b8da564-e9ff-11e6-963b-2d6cabc17ac2.png the fields in that image are as followed... devicetype.name : devicetype.version browser.name : browser.version os.name : os.version

@@ -1,0 +1,1 @@
+ URL : "https://github.com/nuveo/docker-opencv/issues/3" TITLE : opencv contrib support BODY : add support to opencv contrib: https://github.com/itseez/opencv_contrib/archive/3.3.1.zip

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mapic/mapic/issues/54" TITLE : make adblock compatible BODY : - some menu's are hidden if using adblock. change dom to fix.

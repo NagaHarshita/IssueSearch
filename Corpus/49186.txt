@@ -1,0 +1,1 @@
+ URL : "https://github.com/udacity/sdc-issue-reports/issues/549" TITLE : t2 ukf - no in output BODY : in the ukf project repo the main.cpp does not generate -s into the output file. maybe the students should insert some code here, but nothing indicates that.

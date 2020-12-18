@@ -1,0 +1,1 @@
+ URL : "https://github.com/lfdelta/Nid3D/issues/4" TITLE : abstract player input BODY : try to define an input system which supports in-game remapping of buttons including controller support and can handle multiplayer elegantly i.e. without duplicating every input axis for every player .

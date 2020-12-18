@@ -1,0 +1,1 @@
+ URL : "https://github.com/facebook/jest/issues/4414" TITLE : .only still runs all tests BODY : experiencing issues when trying to do test.only. i am running jest --coverage . but it still executes all the tests and not the one specified as only

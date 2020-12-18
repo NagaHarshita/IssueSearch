@@ -1,0 +1,1 @@
+ URL : "https://github.com/RDFBones/FrAgeEst/issues/9" TITLE : define age ranges properly BODY : find a more suitable way of defining age ranges. using a string might be not the best solution, as there is no way to validate the entry.

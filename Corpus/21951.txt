@@ -1,0 +1,1 @@
+ URL : "https://github.com/sadimanna/computer_vision/issues/1" TITLE : how to match image BODY : when you have finished harris-laplace ,how to match image with those corner features.in other words ,how do you use the information of harris-laplace corners .if change them to descriptors ,but how ? can you teach me how to do that? or do you have some paper of this methods ?

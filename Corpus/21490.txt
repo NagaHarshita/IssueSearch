@@ -1,0 +1,1 @@
+ URL : "https://github.com/s-kostyuk/everpl/issues/27" TITLE : fix cors preflight BODY : add handling of options requests for things and placements endpoints. otherwise preflight will fail and it will be unable to read any data from server from host another than the platform host itself

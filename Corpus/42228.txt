@@ -1,0 +1,1 @@
+ URL : "https://github.com/Greg4cr/Coupling-Mapping/issues/12" TITLE : anonymous class names BODY : when compiled, these appear as parent$1, parent$2, etc. rename these to match.

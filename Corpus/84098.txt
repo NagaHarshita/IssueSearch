@@ -1,0 +1,1 @@
+ URL : "https://github.com/seedor87/scratchpad_project/issues/15" TITLE : covering up controllerbox BODY : controllerbox gets covered up when you press toggle clickable and then click on a drawn line that happens to be over top of the controllerbox.

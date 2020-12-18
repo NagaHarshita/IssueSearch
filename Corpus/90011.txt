@@ -1,0 +1,1 @@
+ URL : "https://github.com/UWCubeSat/DubSat1/issues/68" TITLE : review i2c clock settings BODY : general goal is to setup for 100khz speed aka normal or standard . current speeds are more like the 400khz fast speed, which is likely less desirable for our uses.

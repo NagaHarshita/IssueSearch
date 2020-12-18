@@ -1,0 +1,1 @@
+ URL : "https://github.com/avajs/ava/issues/1415" TITLE : side question - ts -> js BODY : just an aside question! : so the master branch is all js, but it appears much of your true source code is typescript. are contributors supposed to create prs against a branch other than master?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Nikita1710/ANUFifty50-Online-Mentoring-Platform/issues/77" TITLE : clean up git repository BODY : clean up the github repository before the handover 1. remove unnecessary files 2. migrate the audit landing page to google drive for week 11 audit 3. update the readme to contain details about the project

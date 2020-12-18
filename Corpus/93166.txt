@@ -1,0 +1,1 @@
+ URL : "https://github.com/YeOldeDM/praxaro/issues/26" TITLE : add hero params debug mode BODY : f4: toggle a ui showing all hero movement parameters, with sliders which update those params on the fly. on a stretch, add saving/loading param presets. related to 19 <!--- @huboard:{ milestone_order :0.999300279916021, order :0.9997000599900014} -->

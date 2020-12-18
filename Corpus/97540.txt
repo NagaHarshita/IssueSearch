@@ -1,0 +1,1 @@
+ URL : "https://github.com/Mozilla-TWQA/Hasal/issues/816" TITLE : hasal data uploading issue BODY : @markyan found that daily results of hasal runs couldn't be uploaded. for example, 3 computers all finished and uploaded successfully, but only one data point exists in perfherder. however, historic data runs are fine. there might be something wrong.

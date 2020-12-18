@@ -1,0 +1,1 @@
+ URL : "https://github.com/dmitrizzle/chat-bubble/issues/42" TITLE : how to use this with npm BODY : now, in documentation, using script tag one can include the file. but, how to use it when this is installed via npm?

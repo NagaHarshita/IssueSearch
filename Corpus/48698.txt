@@ -1,0 +1,1 @@
+ URL : "https://github.com/clauniverse/f1-3-c2p1-colmar-academy/issues/1" TITLE : side scroll on mobile BODY : this margin is what is creating the side scroll on your mobile display. be careful with margins and paddings as they can push things outside of 100% width. https://github.com/clauniverse/f1-3-c2p1-colmar-academy/blob/master/capstone_colmar/css/style.css l318-l320

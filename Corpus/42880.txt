@@ -1,0 +1,1 @@
+ URL : "https://github.com/headzoo/react-moment/issues/23" TITLE : cannot parse datetime BODY : i have the following date: 2017-05-16t22:00:00z and use this to parse it: <moment tz= europe/berlin locale= de parse= yyyy-mm-dd hh:mm:ss > { value } </moment> however invalid date is returned. any suggestions?

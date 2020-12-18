@@ -1,0 +1,1 @@
+ URL : "https://github.com/clearcontainers/runtime/issues/154" TITLE : add gometalinter to ci BODY : there are a few warnings from gometalinter on the runtime. would be nice to address them and start using gometalinter on this project.

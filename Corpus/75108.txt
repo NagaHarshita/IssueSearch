@@ -1,0 +1,1 @@
+ URL : "https://github.com/xquery/rxq/issues/49" TITLE : generate native rewriter BODY : it is possible to generate native rewriter as an alternate to using rxq-rewriter.xqy. not a trivial bit of work, but should be possible

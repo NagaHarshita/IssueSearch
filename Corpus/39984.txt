@@ -1,0 +1,1 @@
+ URL : "https://github.com/techtalk/SpecFlow/issues/796" TITLE : support xunit v2.2.0 BODY : i've recently upgraded to xunit v2.2.0. running specs results in the following error message: nunit.framework.inconclusiveexception no matching step definition found for one or more steps rolling back to xunit v2.1.0 resolves the issue.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla/DeepSpeech/issues/774" TITLE : audio preprocessing ? BODY : shoud i preprocess audio material, to remove befote/after blanks ? with sox for example those blanks make a wrong sequence partition ?! thanks

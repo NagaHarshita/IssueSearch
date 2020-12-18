@@ -1,0 +1,1 @@
+ URL : "https://github.com/hupf/tabmarks/issues/5" TITLE : allow to close a group BODY : allow to «close» a group such that no more group is active. new state: group's tabs are closed a new tab is open browseraction shows no selected group in badge/title

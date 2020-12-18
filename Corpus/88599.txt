@@ -1,0 +1,1 @@
+ URL : "https://github.com/openearth/oceanwaves-python/issues/14" TITLE : notebook fails in python3 BODY : dimensions 'datetime', 'frequency' must have the same length as the number of data dimensions, ndim=3

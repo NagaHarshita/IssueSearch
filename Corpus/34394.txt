@@ -1,0 +1,1 @@
+ URL : "https://github.com/fernandohackbart/Biosphere/issues/7" TITLE : cell startup process BODY : - create keystore - create private key - create certificate sign request - sign its own certificate

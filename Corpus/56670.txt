@@ -1,0 +1,1 @@
+ URL : "https://github.com/dshafik/php7-mysql-shim/issues/31" TITLE : not php 5.3 compatible BODY : i think this is php 5.6+, the '...' token doesn't work unless you have 5.6. also short array syntax was not available until 5.4

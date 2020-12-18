@@ -1,0 +1,1 @@
+ URL : "https://github.com/udacity/robotics-beta-test-issues/issues/368" TITLE : crl l03e02 create ws BODY : the lesson says to run ls list the symbolic link but ls only list the file name. the command should be ls -l

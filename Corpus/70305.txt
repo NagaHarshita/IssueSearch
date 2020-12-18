@@ -1,0 +1,1 @@
+ URL : "https://github.com/matthewearl/deep-anpr/issues/22" TITLE : using transfer learning BODY : is it possible to upload the _weights.npz_ the weights of the model somewhere, so i can use transfer learning and maybe try to fine tune it?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/unchartedsoftware/PLUTO/issues/147" TITLE : add sources and targets BODY : simplify importers and exporters by mostly preconfiguring them as sources and targets. these can be specified in the ruleset importer and exporter instead of actual importers and exporters. add ui to support creation and usage of them.

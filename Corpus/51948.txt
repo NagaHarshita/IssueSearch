@@ -1,0 +1,1 @@
+ URL : "https://github.com/VCVRack/AudibleInstruments/issues/7" TITLE : build on macos 10.12.6 BODY : things i did to get this repo to build git submodule update --init cd eurorack git submodule update --init cd .. make soooo many submodules :

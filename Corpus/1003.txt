@@ -1,0 +1,1 @@
+ URL : "https://github.com/craftcms/element-api/issues/66" TITLE : craft 3 bug BODY : the plugin looks like it installed properly but when i go into setting it see the following: sqlstate 42s02 : base table or view not found: 1146 table 'staging.craft_cpnav_layout' doesn't exist the sql being executed was: select from craft_cpnav_layout i used the plugin store to install.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/dotnet/corefx/issues/21147" TITLE : automate sgen tests BODY : 1. add a new test project in sgen and reuse the current xml tests. 2. add baseline test

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Nelson-numerical-software/nelson/issues/78" TITLE : a,b,c =fileparts 'c:/' BODY : expected behavior a = c: b = c = actual behavior a = c: b = / c = steps to reproduce including precondition a,b,c =fileparts 'c:/' your environment - os: windows - nelson version: 0.1.10

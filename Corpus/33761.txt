@@ -1,0 +1,1 @@
+ URL : "https://github.com/spring-sprout/osoon/issues/45" TITLE : api 문서화 필요 BODY : description 문서화가 필요할 거 같네요. api 마다 입력값 예제랑 리턴값 예제가 있으면 프론트 개발할 때 조금은 더 편하시겠죠? spring rest doc이라는게 있던데 쓸만할지 모르겠네요. 옛날에 봤을 땐 애노테이션 떡칠이었는데.. 그거 말곤 딱히 대안이 없기도 하지만.. srd를 쓸지 그냥 static한 문서 파일로 관리를 할지 고민해 보겠습니다. repro steps system info

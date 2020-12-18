@@ -1,0 +1,1 @@
+ URL : "https://github.com/openbmc/openbmc/issues/945" TITLE : fan control - leds BODY : - add fan fault status led control - add chassis fault led control per fan fault status

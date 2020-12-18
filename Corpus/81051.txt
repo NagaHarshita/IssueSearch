@@ -1,0 +1,1 @@
+ URL : "https://github.com/starkiller-astro/Microphysics/issues/62" TITLE : vectorize helmholtz eos? BODY : the helmholtz eos can represent a significant computational cost. we could consider vectorizing it.

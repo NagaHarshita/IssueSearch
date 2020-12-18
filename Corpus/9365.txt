@@ -1,0 +1,1 @@
+ URL : "https://github.com/loganstellway/magento2-docker-swarm/issues/3" TITLE : varnish 5 image BODY : magento 2.2.0 now supports varnish 5. release notes https://varnish-cache.org/docs/5.0/whats-new/relnote-5.0.html : - http/2 support experimental

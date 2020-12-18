@@ -1,0 +1,1 @@
+ URL : "https://github.com/RD17/ambar/issues/36" TITLE : 'utf-16-le' codec error BODY : hi! i'm getting the following error for some of my files when crawling them using the smb crawler. the same file can be uploaded manually and works ok. error 'utf-16-le' codec can't decode bytes in position 18-19: illegal encoding. what to do?

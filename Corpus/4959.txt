@@ -1,0 +1,1 @@
+ URL : "https://github.com/browser-update/browser-update/issues/336" TITLE : import via npm BODY : hi, i'm trying to include this as part of my javascript bundle. i've downloaded the package via npm but how do i import it via webpack into my bundles js?

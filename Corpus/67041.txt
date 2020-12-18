@@ -1,0 +1,1 @@
+ URL : "https://github.com/nymag/clay-space-edit/issues/71" TITLE : only looking for layout BODY : this line will break everything: https://github.com/nymag/clay-space-edit/blob/vue/src/ui/create-space-button.vue l22 assumes components is named layout . need to fix.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla-services/pyramid_ipauth/issues/7" TITLE : release version 0.3.2 BODY : in september 2016 there have been some commits that fix various warnings. it would be great to have a new release that includes these fixes, so we can profit from them when installing pyramid_ipauth from pypi.

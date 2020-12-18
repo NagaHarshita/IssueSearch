@@ -1,0 +1,1 @@
+ URL : "https://github.com/reinforceio/tensorforce/issues/204" TITLE : explicit agent saving BODY : there needs to be a way to explicitly save an agent. for instance when you check test data performance in episode_finnished, you might want to save the agent/model every time it performs better than before in the training process.

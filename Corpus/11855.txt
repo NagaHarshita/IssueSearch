@@ -1,0 +1,1 @@
+ URL : "https://github.com/ollef/Earley/issues/32" TITLE : list = listlike? BODY : wouldn't it be nicer to have list = listlike ? https://github.com/ollef/earley/blob/master/text/earley/derived.hs l29

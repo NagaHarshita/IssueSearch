@@ -1,0 +1,1 @@
+ URL : "https://github.com/TikalLab/esos/issues/1" TITLE : enable org subscriptions BODY : i.e. when a user subscribe, if he is an org admin, he should be able to sign up the org. then when we get an event, we need to see if the sender is a member of any known orgs

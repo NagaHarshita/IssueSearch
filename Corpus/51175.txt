@@ -1,0 +1,1 @@
+ URL : "https://github.com/Jam3/bodymovin-preview/issues/8" TITLE : add support for images BODY : sometimes a bodymovin animation will import real images. we need to analize the json files content looking for images. if there are images being used the app should prompt the user asking to upload those images as well.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/hashicorp/terraform/issues/16049" TITLE : new provider: jumpcloud BODY : please consider supporting jumpcloud http://jumpcloud.com ! primarily, user provisioning. it would be excellent to centralize all user management!

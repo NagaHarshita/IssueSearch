@@ -1,0 +1,1 @@
+ URL : "https://github.com/deepbaconattackers/deepbaconattackers/issues/70" TITLE : fix deployment view BODY : deployment view: while we may not know what heroku’s details are, keep in mind that it is essentially a hosting platform and, to a large extent, the application as deployed there will look similar to the application when it is running locally.

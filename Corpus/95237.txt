@@ -1,0 +1,1 @@
+ URL : "https://github.com/R-L-Cunningham/tweepy_uts/issues/2" TITLE : create database full alert BODY : create an alert so that as db gets close to full, email is automatically sent to push data across to additional space

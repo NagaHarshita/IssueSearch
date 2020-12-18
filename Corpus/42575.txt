@@ -1,0 +1,1 @@
+ URL : "https://github.com/Eddyosos/integracao201701/issues/97" TITLE : brecha nas interfaces BODY : retirar das interfaces o getinstance e outros métodos que expõem as classes thrift; de acordo com o fábio devemos usar cast ou reflexão para garantir que a interface continue limpa

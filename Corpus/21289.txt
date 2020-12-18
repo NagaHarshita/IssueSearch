@@ -1,0 +1,1 @@
+ URL : "https://github.com/MetaMask/metamask-plugin/issues/1097" TITLE : eth.sign is broken BODY : 0. call eth.sign 1. you get the popup to sign 2 . you click sign 3. you get a blank screen 4. callback not fired.

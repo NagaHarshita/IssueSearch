@@ -1,0 +1,1 @@
+ URL : "https://github.com/keboola/db-writer-snowflake/issues/8" TITLE : table time travel option BODY : možnost nechat u tabulky nastavit “time-travel” okno 0 dní default novinky , na 1 den použitelné kýmkoliv a vyšší čas na požádání

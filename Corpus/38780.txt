@@ -1,0 +1,1 @@
+ URL : "https://github.com/erikdmitchell/fantasy-cycling/issues/124" TITLE : race lockout updated BODY : our lockout is designed for a race on that day bad time is hard coded. we need the to be race and league specific with an adjustable time. i would probably add this to the discipline class.

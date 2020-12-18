@@ -1,0 +1,1 @@
+ URL : "https://github.com/q6112345/react-native-google-place-picker/issues/15" TITLE : move out of cocoapods BODY : currently when running rnpm link , cocoapods are not installed or added, and so googlemaps.h and googleplaces.h is missing. is it easy to move this package to use npm instead of cocoapods?

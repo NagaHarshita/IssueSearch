@@ -1,0 +1,1 @@
+ URL : "https://github.com/mattnischan/Immutable.Net/issues/8" TITLE : target pcl profile BODY : hello, awesome work! i use this library along with redux.net with xamarin.ios. i was just wondering if you could add pcl profile for immutable.net as a platform target for nuget, apparently there are a lot of libraries that still relies on the pcl profile. thanks in advance jorge

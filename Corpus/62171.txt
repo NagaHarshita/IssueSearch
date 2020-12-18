@@ -1,0 +1,1 @@
+ URL : "https://github.com/websupport-sk/pecl-memcache/issues/19" TITLE : causes php 7.0.14 crash BODY : hi guys. appears this port does not work when installed on php 7.0.14 - the current freebsd distro. it actually causes a complete php crash on every execution. any help appreciated. thanks.

@@ -1,0 +1,2 @@
+ URL : "https://github.com/singapore/renovate/issues/650" TITLE : encrypted npm secrets BODY : - renovate server has a secret private key configured, publishes its public key
+- renovate repositories configure their npm token with public key and save it to config - renovate decrypts token at runtime and saves it to .npmrc any case where we must save to yarnrc? eg if yarnrc already exists does yarn ignore npmrc?

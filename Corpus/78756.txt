@@ -1,0 +1,1 @@
+ URL : "https://github.com/jfk9w/hikkabot/issues/19" TITLE : refactor service package BODY : service relies heavily on sync.mutex and sync.rwmutex now. there are almost certainly deadlock possibility. we should make subscription service non-blocking.

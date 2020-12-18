@@ -1,0 +1,1 @@
+ URL : "https://github.com/gotling/mopidy-auto/issues/4" TITLE : reset on crash BODY : using mopidy with snapcast is a bit unstable, sometimes playback stops, logging general errors. add automatic or manual reset that starts playback again.

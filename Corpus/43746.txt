@@ -1,0 +1,8 @@
+ URL : "https://github.com/emory-libraries/TheKeep/issues/5" TITLE : delete duplicate pids BODY : please delete the following pids, which are duplicate objects in the keep:
+s36ss
+s36v2
+s36xb
+s36w6
+s36rn
+s36tx
+they were encoded and ingested with incorrect settings.

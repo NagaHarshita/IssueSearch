@@ -1,0 +1,1 @@
+ URL : "https://github.com/jenstornell/kirby-plugin-wishlist/issues/20" TITLE : tables for editors BODY : >a kirby panel plugin which nicely handles tables for editors. right now this is lacking, and i haven't found a nice way yet to add this to kirby. @bvdputte

@@ -1,0 +1,1 @@
+ URL : "https://github.com/dmitry-lavrik/smart-grid/issues/13" TITLE : toggle device toolbar BODY : заметил такую вещь, что в режиме toggle device toolbar адаптивность нельзя проверить. а если изменять размер самого окна браузера, то все работает отлично. кто может объяснить где проблема?

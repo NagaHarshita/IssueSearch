@@ -1,0 +1,1 @@
+ URL : "https://github.com/monky-hs/monky/issues/33" TITLE : cannot run monky BODY : so, i installed this with cabal, and tried running, but i got the following error the very first time i ran it: monky/modules.hs:50:0: error: missing binary operator before token if min_version_base 4,8,0 ^ compilation failed

@@ -1,0 +1,1 @@
+ URL : "https://github.com/marceux/mdc-select-react/issues/1" TITLE : adapter function names BODY : thanks for the source! looks like a couple of functions on the simplemenuadapter should be changed from: registerdocumentclickhandler deregisterdocumentclickhandler to: registerbodyclickhandler deregisterbodyclickhandler

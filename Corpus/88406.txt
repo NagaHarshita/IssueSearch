@@ -1,0 +1,1 @@
+ URL : "https://github.com/opendatateam/udata/issues/739" TITLE : next api access is broken BODY : i was trying to make some tests on the next api deployment but it returns an error 500 : https://next.data.gouv.fr/api/1/datasets/?page_size=20

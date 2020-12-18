@@ -1,0 +1,1 @@
+ URL : "https://github.com/plotly/documentation/issues/725" TITLE : python time series update BODY : - improve examples i.e. use real data - add example w/ a rangeslider - add an example manually setting the range of the date axis we get asked about this often

@@ -1,0 +1,1 @@
+ URL : "https://github.com/harvidson/temperature-stories/issues/5" TITLE : fetching in react BODY : api calls should be moved into componentdidmount throughout

@@ -1,0 +1,1 @@
+ URL : "https://github.com/tpyo/amazon-s3-php-class/issues/138" TITLE : add header cache control BODY : how to add cache control header ?? can i add code.. private $headers = array 'host' => '', 'date' => '', 'content-md5' => '', 'content-type' => '','cache-control' => '' ; to add header cache-control ?? by mine it's work.. but i need approve you to add this.. what the impact ??

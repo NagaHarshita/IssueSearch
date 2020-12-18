@@ -1,0 +1,1 @@
+ URL : "https://github.com/18F/crime-data-explorer/issues/625" TITLE : content: time period BODY : as a user, i want to understand the time period of data available in the cde. explain that the data in the explorer view is limitted to the last 20 years. that the data downloads and api have data from x to x.

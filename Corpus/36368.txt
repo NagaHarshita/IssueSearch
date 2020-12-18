@@ -1,0 +1,1 @@
+ URL : "https://github.com/njakob/terminus/issues/4" TITLE : handle custom stdout BODY : would be nice to be able to pass any stdout as an argument of terminus.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/florianingerl/com.florianingerl.util.regex/issues/2" TITLE : project won't build BODY : fix build.xml file for successful build with ant. classname attribute should look like this: ! image https://cloud.githubusercontent.com/assets/10362721/23753946/de76ad8e-050d-11e7-8c0e-056e6c7090d9.png

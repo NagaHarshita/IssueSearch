@@ -1,0 +1,1 @@
+ URL : "https://github.com/google/metallb/issues/7" TITLE : add ipv6 support BODY : allegedly, ipv6 support is landing in 1.9 as an alpha feature. this is sooner than i expected, so i'll need to get a 1.9 test cluster set up with v6 support and make metallb support ipv6. among other things, this implies implementing mp-bgp, ugh.

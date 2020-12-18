@@ -1,0 +1,1 @@
+ URL : "https://github.com/brson/stdx/issues/50" TITLE : add semver crate BODY : this is the canonical definition of semver in rust, and semver is pretty central to rust, so it seems like it should be included. see https://github.com/brson/stdx/blob/master/contributing.md for details.

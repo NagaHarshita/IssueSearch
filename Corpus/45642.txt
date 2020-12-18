@@ -1,0 +1,1 @@
+ URL : "https://github.com/UPC/ravada/issues/190" TITLE : improve site security BODY : mozilla observatory gives us an f https://observatory.mozilla.org/analyze.html - content security policy - cookies - cross-origin resource sharing - http strict transport security - redirection - subresource integrity - x-content-type-options - x-frame-options - x-xss-protection

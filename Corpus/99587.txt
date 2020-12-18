@@ -1,0 +1,1 @@
+ URL : "https://github.com/konsolas/AAC-Issues/issues/624" TITLE : movement manager and phase BODY : it seems that the phase check is obsolete now that the movement manager is in place. the phase vl never goes above 3 with blatant phase yet the movement manager just spams like crazy xd

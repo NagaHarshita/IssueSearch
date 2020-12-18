@@ -1,0 +1,1 @@
+ URL : "https://github.com/centreon/centreon-web-application-analytics/issues/40" TITLE : selenium 3 support BODY : hi, when will the documentation be updated so that there would be guide how to install and use selenium 3 with the centreon plugins? and also an option to use chrome driver instead of firefox?

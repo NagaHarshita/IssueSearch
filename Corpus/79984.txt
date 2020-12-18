@@ -1,0 +1,1 @@
+ URL : "https://github.com/dgraph-io/dgraph/issues/948" TITLE : support k shortest paths BODY : currently, we return the shortest path. the idea is to take an extra argument k and return top k shortest paths.

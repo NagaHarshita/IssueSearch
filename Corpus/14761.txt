@@ -1,0 +1,1 @@
+ URL : "https://github.com/lambdasync/lambdasync/issues/14" TITLE : can't add secrets BODY : when i try to add a secret such as this: lambdasync secret secretkey= sk_test_xxxxxxxxx i have also tried without . i get this message: oh noes! ===================================== terribly sorry! lambdasync couldn't do that thing you asked it to do.

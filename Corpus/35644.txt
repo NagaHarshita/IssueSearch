@@ -1,0 +1,1 @@
+ URL : "https://github.com/sbohora/r-package/issues/1" TITLE : establish rproj file BODY : it's important to set good build/check defaults. copy from https://github.com/ouhscbbmc/referral-exposure/blob/master/referral-exposure.rproj

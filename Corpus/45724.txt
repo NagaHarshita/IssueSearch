@@ -1,0 +1,1 @@
+ URL : "https://github.com/Maratyszcza/NNPACK/issues/101" TITLE : initialization failed BODY : enum nnp_status init_status = nnp_initialize ; if init_status != nnp_status_success { printf init failed ; return 0; } i run the program，initialization do not pass ,it is failed, i want to know what happened for this.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mhwkb/mhwkb.github.io/issues/19" TITLE : home page doesn't validate BODY : warnings and error when validating https://validator.w3.org/nu/?doc=https%3a%2f%2fmhwkb.github.io%2f https://github.com/mhwkb/mhwkb.github.io/blob/c2d603e67949a1f45fcad656200bd11c35c1e923/jekyll/_layouts/home.html l19

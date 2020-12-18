@@ -1,0 +1,1 @@
+ URL : "https://github.com/frappe/erpnext/issues/10213" TITLE : scroll in pdf BODY : in the itemised tax table, if many rows are added generally after 5 rows , it shows scroll in the print format as well. ! 353d042252224d6bafd5fbce713de103 https://user-images.githubusercontent.com/910238/28823358-c0a65784-76da-11e7-8261-89a04080b5ba.png

@@ -1,0 +1,1 @@
+ URL : "https://github.com/google/go-jsonnet/issues/82" TITLE : make tests faster BODY : by avoiding parsing the std every single time.

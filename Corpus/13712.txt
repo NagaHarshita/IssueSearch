@@ -1,0 +1,1 @@
+ URL : "https://github.com/Stiivi/entigen/issues/1" TITLE : write unit tests BODY : reason for not yet having unit tests: generated output compiles correctly is sufficient for the time being. however, this might not be very sustainable in the long-run.

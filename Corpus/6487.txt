@@ -1,0 +1,1 @@
+ URL : "https://github.com/level12/keg/issues/94" TITLE : add pingdb view BODY : or maybe just make the current ping view smart enough that if a db is being used, to add the sql call into the current ping. example: https://github.com/level12/agari-adm/commit/203445a57e69a3c716327a794f885fe4fdaecee3

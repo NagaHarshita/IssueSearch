@@ -1,0 +1,1 @@
+ URL : "https://github.com/DanielFGray/tmux-fzf-urls/issues/4" TITLE : needs auto-resize setting BODY : if the number of urls is less than the fzfurl_lines setting then make the split only as tall as the number of lines

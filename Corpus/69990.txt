@@ -1,0 +1,1 @@
+ URL : "https://github.com/LakeMaps/hangashore/issues/67" TITLE : update electron version BODY : note that the newest version of electron will include typescript definitions in the package.<sup> \ 1\ https://electron.atom.io/blog/2017/06/01/typescript </sup>

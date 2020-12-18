@@ -1,0 +1,1 @@
+ URL : "https://github.com/dwilhelm89/Leaflet.StyleEditor/issues/36" TITLE : leaflet draw integation BODY : creating a marker in leaflet draw should create the defaulmarker given by the styleeditor. creating a geometry should respect the defaultcolor maybe add defaultfillcolor .

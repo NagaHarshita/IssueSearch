@@ -1,0 +1,1 @@
+ URL : "https://github.com/MikeJeffers/MSCD-Thesis/issues/30" TITLE : gui: ai modes BODY : allow toggling of ai modes: ai - off ai - learn/observe only ai - learn only on user-command ai - move only on user-command ai - hint overlay show move desired, but do not commit ai - full autonomy observe/learn and make moves unconstrained by player

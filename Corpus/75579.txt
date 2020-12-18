@@ -1,0 +1,1 @@
+ URL : "https://github.com/LevPasha/Instagram-API-python/issues/247" TITLE : how to find liked media? BODY : i m trying to like media from specific hashtags, how do i skip liked media? i m using the endpoint {captions media_id }

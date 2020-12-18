@@ -1,0 +1,1 @@
+ URL : "https://github.com/starturtle/knitpatternmaker/issues/6" TITLE : select file to read BODY : to select the file that needs parsing can be done either via file chooser, path input form or console argument. pick at least one option and implement.

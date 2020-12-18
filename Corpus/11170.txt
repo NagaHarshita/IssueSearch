@@ -1,0 +1,1 @@
+ URL : "https://github.com/AccentDesign/karma-css/issues/38" TITLE : fix gird columns BODY : encountered an issue where i tried to simply use .col or .col-12 so that an element spanned all columns on all screen sizes but it didn't work. i had to enter a larger breakpoint column class as well for it to work ie. col-12 col-lg-12

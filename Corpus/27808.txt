@@ -1,0 +1,15 @@
+ URL : "https://github.com/andybotting/xbmc-addon-abc-iview/issues/2309" TITLE : end-user bug report BODY : automatic bug report from end-user. environment plugin name: abc iview plugin id: plugin.video.abc_iview plugin version: 1.8.0 xbmc/kodi version: 17.3 python version: 2.7.9 default, aug 13 2016, 18:15:29 gcc 4.9.2 operating system: linux2 linux 4.9.29-5-osmc armv7l ip address: 124.171.218.239 124-171-218-239.dyn.iinet.net.au isp : iinet limited python path: /home/osmc/.kodi/addons/plugin.video.abc_iview
+/home/osmc/.kodi/addons/script.common.plugin.cache/lib
+/home/osmc/.kodi/addons/script.module.beautifulsoup/lib
+/home/osmc/.kodi/addons/script.module.requests/lib
+/usr/lib/python2.7
+/usr/lib/python2.7/plat-arm-linux-gnueabihf
+/usr/lib/python2.7/lib-tk
+/usr/lib/python2.7/lib-old
+/usr/lib/python2.7/lib-dynload
+/usr/local/lib/python2.7/dist-packages
+/usr/lib/python2.7/dist-packages
+/usr/lib/python2.7/dist-packages/pilcompat
+/usr/lib/python2.7/dist-packages/gtk-2.0
+/home/osmc/.kodi/addons/plugin.video.abc_iview/resources/lib traceback traceback most recent call last : file /home/osmc/.kodi/addons/plugin.video.abc_iview/resources/lib/series.py , line 35, in make_series_list series_list = comm.get_programme_from_feed category file /home/osmc/.kodi/addons/plugin.video.abc_iview/resources/lib/comm.py , line 141, in get_programme_from_feed feed = get_feed keyword file /home/osmc/.kodi/addons/plugin.video.abc_iview/resources/lib/comm.py , line 135, in get_feed feed = cache.cachefunction fetch_url, url file /home/osmc/.kodi/addons/script.common.plugin.cache/lib/storageserver.py , line 570, in cachefunction ret_val = funct args file /home/osmc/.kodi/addons/plugin.video.abc_iview/resources/lib/comm.py , line 68, in fetch_url raise e
+httperror: 404 client error: not found for url: http://iview.abc.net.au/api/abc4kids?device=hbb&hbr=1&sort=az full xbmc.log https://gist.github.com/0c8eaed6c5e55fd5e268f8cc58296644

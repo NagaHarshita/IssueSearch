@@ -1,0 +1,1 @@
+ URL : "https://github.com/redox-os/ion/issues/391" TITLE : unwrap or methods BODY : this is another set of methods that are trivial to implement. if the given variable does not exist, then use the specified default value. only question is, should we also consider empty variables as not existing? - $unwrap_or string, default value - @unwrap_or array, default, array

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ModDota/BugTracker/issues/100" TITLE : allow custom talents BODY : currently only baseclass ing existing talents is the only way to get talents working meaning we can't make passive talents like old treant bash talent. allowing us to use talents with lua abilities would improve quality of life vastly

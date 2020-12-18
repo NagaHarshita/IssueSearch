@@ -1,0 +1,1 @@
+ URL : "https://github.com/oliexdev/openScale/issues/29" TITLE : bmi calculator units BODY : when i use cm for height and lbs for weight, the bmi is calculated incorrectly. it looks like the weight in lbs isn't being converted to kg before the bmi calculation. the same thing is happening with weights in st.

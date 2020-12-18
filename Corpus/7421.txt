@@ -1,0 +1,1 @@
+ URL : "https://github.com/commercetools/commercetools-jvm-sdk/issues/1553" TITLE : fixing ci tests BODY : our ci tests fail due to the removal of the testuntil deserializer, it should be restored back for the tests to work fine.

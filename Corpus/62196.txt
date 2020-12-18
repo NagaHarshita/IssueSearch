@@ -1,0 +1,1 @@
+ URL : "https://github.com/developmentseed/skynet-scrub/issues/45" TITLE : change global accessors BODY : todo - remove utils/window - include mapbox gl, draw in the bundle - include jsdom/global in tests

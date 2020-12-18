@@ -1,0 +1,1 @@
+ URL : "https://github.com/klayoutmatthias/klayout/issues/22" TITLE : drc not acting on texts BODY : the following drc command acts on shapes like polygons, but not on texts: input 1 .output 2 is this intentional? i assumed everything on a given layer will be read in on input command, including texts.

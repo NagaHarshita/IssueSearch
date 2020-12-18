@@ -1,0 +1,1 @@
+ URL : "https://github.com/jupyter/jupyter-alabaster-theme/issues/56" TITLE : cleanup css files BODY : we should cleanup the css files: split jupytertheme.css into multiple files that are imported into the index.css by what part of the page it styles. review the selectors and css rules to make sure there are no duplicates or unused styles.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/andrewgaul/s3proxy/issues/212" TITLE : v4 post uploads BODY : presently this fails due to not parsing out and verifying the v4 signature.

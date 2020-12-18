@@ -1,0 +1,1 @@
+ URL : "https://github.com/jasonjoyce971/GOL_AAC_Liner_Forms/issues/3" TITLE : liner 3 gui BODY : continue work on liner 3 functionality. main scripting already commented and prepped for filling out. still requires: - data transfer from input to data manager ready for reference sheet - data clear function - complete prefab

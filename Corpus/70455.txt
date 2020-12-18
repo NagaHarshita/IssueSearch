@@ -1,0 +1,1 @@
+ URL : "https://github.com/df8oe/UHSDR/issues/1241" TITLE : waterfall display issue BODY : noticed this with 2.7.28 remains in 2.7.29 bootloader 3.4.4 on mchf boot mchf and waterfall displays fine. enter menu or change to scope. try to return to waterfall display and it is just black with the filter bw indicator. only way to get waterfall display back is to reboot.

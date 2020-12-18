@@ -1,0 +1,1 @@
+ URL : "https://github.com/BenCoffeed/s3-upload/issues/1" TITLE : make templates interactive BODY : my long-term goal is to make this an interactive script. phase 1 + create interactive script that automatically generates forms and policies. phase 2 + integrate with aws cli to automatically generate users and s3 box

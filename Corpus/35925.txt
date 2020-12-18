@@ -1,0 +1,1 @@
+ URL : "https://github.com/freemint/freemint/issues/6" TITLE : fix gem=rom in trunk BODY : ensure porting of the fixes for fixing the keyboard issues from the helmut branch to the trunk. see http://www.atari-forum.com/viewtopic.php?f=27&t=31042 for further discussion.

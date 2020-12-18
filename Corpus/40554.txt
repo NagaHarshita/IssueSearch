@@ -1,0 +1,1 @@
+ URL : "https://github.com/lhc70000/iina/issues/135" TITLE : update iina logo url BODY : the iina logo on the website links to https://lhc70000.github.io, rather than https://lhc70000.github.io/iina/, which is throwing a 404.

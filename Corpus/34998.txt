@@ -1,0 +1,1 @@
+ URL : "https://github.com/ilovin/lstm_ctc_ocr/issues/5" TITLE : ctc on multiple gpus BODY : have you tried wrap-ctc on gpus? do you know any clue about ctc working on multiple gpus?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/appbaseio/abc/issues/13" TITLE : get app details command BODY : sh abc app 1234 or abc app myappname should return app details /app/:id and maybe commutative app metrics too.

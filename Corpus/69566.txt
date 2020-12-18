@@ -1,0 +1,1 @@
+ URL : "https://github.com/avast/stor-client/issues/13" TITLE : the process never exits BODY : after migrating to 2.1.0 , it sometimes happen that the stor-cli.exe doesn't exit even after few days of running. the used parameters are following: --max=8 --attempts=4 --delay=1s --json

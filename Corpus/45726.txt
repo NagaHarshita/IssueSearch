@@ -1,0 +1,1 @@
+ URL : "https://github.com/tonymuu/beever-ui/issues/4" TITLE : initialize django app BODY : as a developer of beever i would like to create a new django project and develop in python so that we can begin progress on beever acceptance criteria: - a basic django folder structure is added to the app with a home page.

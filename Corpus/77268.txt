@@ -1,0 +1,1 @@
+ URL : "https://github.com/cirquit/trdrop/issues/14" TITLE : msvcp140d.dll is missing BODY : hi, when i open trdrop v0.3 it says msvcp140d.dll is missing.... do i need to install some visual c++ ? i tried to download msvcp140d.dll and paste it to the windows/syswow64, but nothing changed i am using windows 10 64bit. i hope someone will help :

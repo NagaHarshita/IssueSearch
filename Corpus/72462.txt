@@ -1,0 +1,1 @@
+ URL : "https://github.com/udacity/robotics-beta-test-issues/issues/625" TITLE : building a pi controller BODY : in the final quiz of this topic the working match is de,in,in,de,deg :de = decrease , in = increase deg = degrade . not sure on how the steady state erro decreases with the increase with the ki as i can see ki = 0.5 the error visually increases

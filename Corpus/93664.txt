@@ -1,0 +1,1 @@
+ URL : "https://github.com/micalevisk/LPAV-2017-1/issues/10" TITLE : alterar nome das funções BODY : linhaoucolunavalidaparavalor deve ser linhaecolunavalidaparavalor https://github.com/micalevisk/lpav-2017-1/blob/5bd63e596d1d756d07db129c985661c25ee6361e/tp13/src/exercicio1.cc l42

@@ -1,0 +1,1 @@
+ URL : "https://github.com/tangoshot/TangoShot/issues/1024" TITLE : copy mysql into datastore. BODY : the goal is to start experimenting if we could adapt google datastore as the main database. copy routines should be implemented in modules and might be executed in google dev console.

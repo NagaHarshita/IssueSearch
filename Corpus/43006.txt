@@ -1,0 +1,1 @@
+ URL : "https://github.com/Kottans/Kottans_Web_Game/issues/11" TITLE : changes for education BODY : if our project have educational purpose too i propose: do this steps of commit 1. make feathers application without nothing 2. make it working in docker 3. add service that can work with mondodb 4. add user auth 5. only after that add some frontend

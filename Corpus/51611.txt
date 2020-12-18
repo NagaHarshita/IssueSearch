@@ -1,0 +1,1 @@
+ URL : "https://github.com/singapore/renovate/issues/348" TITLE : automerge pin requests BODY : default config option is to pin dependencies that were in a range. why not automerge them too?

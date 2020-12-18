@@ -1,0 +1,1 @@
+ URL : "https://github.com/atomist/rug-cli/issues/69" TITLE : add sdkman support BODY : some users rely on sdkman http://sdkman.io/ to manage their environments and install their dependencies in some controller fashion. it would be a good idea to provide native support for it.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/vyos/vyos-frr/issues/1" TITLE : build vyos with frr BODY : how to build vyos-1.2-alpha iso that has frr from sources as latest build from vyos-build still uses quagga?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpenSRP/openmrs-module-team/issues/19" TITLE : team logs data access BODY : https://wiki.openmrs.org/display/docs/team+management+module+redesign+-+tmm-2.x.x - dao - log / team hierarchy - dao - log / team - dao - log / team member - service - log / team hierarchy - service - log / team - service - log / team member - must be protected by privileges

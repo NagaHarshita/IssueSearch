@@ -1,0 +1,1 @@
+ URL : "https://github.com/a-sit-plus/at-registrierkassen-mustercode/issues/452" TITLE : seriennr dec -> hex BODY : hallo, ich hab das problem, dass ich die seriennr nur als decimal zahl zurückbekomme, zb 2472348585010001 wie kann ich mir daraus die hex darstellung berechnen ? lg manfred

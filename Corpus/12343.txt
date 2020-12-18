@@ -1,0 +1,1 @@
+ URL : "https://github.com/flowplayer/flowplayer/issues/1310" TITLE : on buffer error. BODY : ! selection_119 https://user-images.githubusercontent.com/17051909/33775722-ebc512de-dc47-11e7-8781-c022eeb30f0a.png sometimes, buffered is undefined on line 4532. it's happen when i try skip part of video. chrome 62. you can check it here: http://demos.flowplayer.org/basics/long.html

@@ -1,0 +1,1 @@
+ URL : "https://github.com/django-wiki/django-wiki/issues/696" TITLE : ip setting not work BODY : when i set the ip server is 0.0.0.0:8000, if i browse the 127.0.0.1:8000 , it works , but it does not work on the computer's ip, e.g. : . . . :8000 if i directly set the ip server is computer's ip , it also does not work. what's the problem.

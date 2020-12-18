@@ -1,0 +1,1 @@
+ URL : "https://github.com/rcongiu/Hive-JSON-Serde/issues/188" TITLE : supported table format BODY : hi, there is no mention in the documentation about the supported format : - textfile - rcfile - parquet - avro - orc is textfile the only supported format ? thanks for your answer

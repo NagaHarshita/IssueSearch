@@ -1,0 +1,1 @@
+ URL : "https://github.com/Mirantis/kqueen/issues/102" TITLE : convert readme to rst BODY : rst will be rendered corretly on pypi so we should use it instead of markdown.

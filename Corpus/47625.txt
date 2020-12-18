@@ -1,0 +1,1 @@
+ URL : "https://github.com/kodujdlapolski/factchecker-plugin-chrome/issues/31" TITLE : powoli gasnący popup BODY : wyeliminowałoby to konieczność klikania 'x', aby zamknąć popup. pozwoliłoby też go wyświetlać po najechaniu kursorem na tekst ewentualnie. czas wygaszania powinien być na tyle dlugi, żeby ktoś spokojnie zdążył najechać na znikający popup. pomysł od @blueeyedgirl

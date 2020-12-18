@@ -1,0 +1,1 @@
+ URL : "https://github.com/lucavb/homebridge-hc-sr501/issues/2" TITLE : no motion detected. BODY : i'm not sure what i'm doing wrong. i installed the plugin and connected up my hc-sr501 to pwr, gnd & gpio24 but i'm getting no motion detection in the home app.

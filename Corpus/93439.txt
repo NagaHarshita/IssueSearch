@@ -1,0 +1,1 @@
+ URL : "https://github.com/robzienert/tiller/issues/1" TITLE : add tail execution command BODY : the client already has the ability to tail an execution, update the library to allow tailing an execution, outputting the state or more likely a subset of its state? on an interval until a completed state or a timeout occurs.

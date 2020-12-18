@@ -1,0 +1,1 @@
+ URL : "https://github.com/bsutherland/JuceOPLVSTi/issues/63" TITLE : pitch bend range? BODY : hi! is there a way to set the pitch bend range for the plugin? it seems to default to +-1 semitone, and i can't find a way to change it.

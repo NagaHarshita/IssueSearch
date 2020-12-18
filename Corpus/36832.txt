@@ -1,0 +1,3 @@
+ URL : "https://github.com/apinf/open-api-designer/issues/65" TITLE : improving help texts BODY : http://openapi-specification-visual-documentation.apihandyman.io/ this is a really good visualization made using open api.
+it gives descriptions about field types and possible values in it.
+we can take it as reference to improve our info texts.

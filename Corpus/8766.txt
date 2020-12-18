@@ -1,0 +1,1 @@
+ URL : "https://github.com/arendst/Sonoff-Tasmota/issues/1156" TITLE : rgbw led strips BODY : is there any way off adding support for rgbw led strips. if used a wemos d1 and this gives random colors because it needs a 32bit value for each light and it gets a 24bit value.

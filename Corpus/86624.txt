@@ -1,0 +1,1 @@
+ URL : "https://github.com/monounity/karma-typescript/issues/115" TITLE : ignore type script errors BODY : i am trying to migrate our angular 1.5 project to 2. we have over 2000 spec files and after running karma-typescript on them, i get tons of typescript errors. is there any config where karma does not fail for typescript errors and just warns about them ?

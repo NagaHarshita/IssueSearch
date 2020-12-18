@@ -1,0 +1,1 @@
+ URL : "https://github.com/SonarSource/sonar-javascript/issues/607" TITLE : improvement to rspec-2757 BODY : i want to request a feature. improve rspec-2757 : raise an issue in case of =! . the message should not be the same used for =+ and =- since the correct operator is probably not an assignment, but a not equals != . rule key: rspec-2757

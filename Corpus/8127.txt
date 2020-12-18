@@ -1,0 +1,1 @@
+ URL : "https://github.com/pmrukot/aion/issues/43" TITLE : mvp iteration 2 BODY : - improve ui 32 - improve answer evaluation 33 - introduce room model and api 34 - user profile page 35 - form for creating a room 38 - form for creating a category 41 - form for creating a question 42 - handle channel quitting on location change 40

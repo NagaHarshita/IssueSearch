@@ -1,0 +1,1 @@
+ URL : "https://github.com/Prendus/prendus-question-elements/issues/29" TITLE : add tests for permissions BODY : figure out good tests for permissions. the following is a start: - public questions should be visible by anyone - course questions should be visible only within a course - author can always see questions

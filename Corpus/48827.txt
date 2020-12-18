@@ -1,0 +1,1 @@
+ URL : "https://github.com/NonFactors/MVC5.Grid.Web/issues/11" TITLE : sort direction arrows BODY : i got confused about the sort direction arrows beside the column names. i expect, that the arrows shows the current sort direction. but it seems to be the other way around. what's the truth?

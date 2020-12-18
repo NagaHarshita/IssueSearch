@@ -1,0 +1,1 @@
+ URL : "https://github.com/Wiredcraft/api-boilerplate/issues/1" TITLE : ava vs mocha BODY : oliver uses ava https://github.com/avajs/ava in a new project, i'm open to using new test framework but it's better to discuss with the team and keep it consistent. /ping @wiredcraft/core-members

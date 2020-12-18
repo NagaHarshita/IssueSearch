@@ -1,0 +1,1 @@
+ URL : "https://github.com/w3c/webpayments-payment-apps-api/issues/129" TITLE : add .clear to map-likes BODY : it be useful to have a clear method for interfaces that store things.

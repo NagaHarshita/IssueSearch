@@ -1,0 +1,1 @@
+ URL : "https://github.com/threefoldfoundation/app_backend/issues/116" TITLE : failed to create jwt BODY : access token is missing required scopes u'user:name', u'user:see', u'user:keystore', u'user:validated:email', u'user:validated:phone', u'user:address' /base/data/home/apps/e~tff-backend/20170914t184448.404104754256813064/plugins/tff_backend/bizz/user.py:65

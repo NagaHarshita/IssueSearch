@@ -1,0 +1,1 @@
+ URL : "https://github.com/SyncFree/antidote/issues/297" TITLE : different sharding at dcs BODY : allowing different sharding patterns at different dcs gives more flexibility when implementing protocols e.g. regarding partial replication .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/kstf/plump/issues/32" TITLE : move away from $id BODY : model objects could always have an id field, but then the particular store take care of translating into an _id

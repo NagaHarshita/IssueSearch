@@ -1,0 +1,1 @@
+ URL : "https://github.com/benvanik/xenia/issues/680" TITLE : add support for god images BODY : it would be nice to be able to play games installed from a disc without using god2iso. maybe this could help: https://github.com/eliecharra/iso2god-cli

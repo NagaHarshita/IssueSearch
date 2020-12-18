@@ -1,0 +1,1 @@
+ URL : "https://github.com/intel-analytics/BigDL/issues/1345" TITLE : how to test a resnet model BODY : it looks like there is no test class for resnet.

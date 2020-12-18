@@ -1,0 +1,1 @@
+ URL : "https://github.com/rrundle/website/issues/15" TITLE : deploy to herkou. BODY : - initiate package.json - deploy to heroku - change dns to point to ryanrundle.com

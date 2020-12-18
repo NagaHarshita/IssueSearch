@@ -1,0 +1,1 @@
+ URL : "https://github.com/rluttmeratius/Audemes/issues/13" TITLE : game page php BODY : the php in the body of this page could be abstracted out to a class file placed in the game folder. this would increase readability and centralize the game to one location.

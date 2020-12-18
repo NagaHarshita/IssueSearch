@@ -1,0 +1,1 @@
+ URL : "https://github.com/Genbox/HardenIT/issues/1" TITLE : streamline setting names BODY : firefox have settings called: 1. javascript.options.asmjs 2. svg.disabled the first options enables a feature, the second one disables a feature. it would be trivial to invert the options inside firefox.json such that they are both feature enabled .

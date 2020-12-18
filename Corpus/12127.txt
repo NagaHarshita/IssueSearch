@@ -1,0 +1,1 @@
+ URL : "https://github.com/sochix/TLSharp/issues/401" TITLE : msqseqno too low BODY : when i make request to the telegram api get this error. msgseqno too low. generally when i try to check username what am i doing wrong? how to avoid this?

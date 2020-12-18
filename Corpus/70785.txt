@@ -1,0 +1,1 @@
+ URL : "https://github.com/DistributedSystemsGroup/zoe/issues/55" TITLE : zoepass.csv is required BODY : an empty zoepass.csv file is needed, otherwise an error is shown when logging in the web interface. remove this requirement, the zoepass.csv file mmust be optional.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/directus/directus/issues/1495" TITLE : modal buttons a11y BODY : the cancel / save buttons as well as the tabs have no visual indication of the focus state. navigating the modal with the keyboard results in unexpected behavior

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ericmjl/nxviz/issues/72" TITLE : todo: implement hiveplot BODY : hiveplot remains the only major plot not yet re-implemented over from the original hiveplot repository. latest changes are in the api-redesign branch.

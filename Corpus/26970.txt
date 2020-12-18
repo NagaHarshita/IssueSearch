@@ -1,0 +1,1 @@
+ URL : "https://github.com/MadsMadsDk/gulp-tfs-checkout/issues/9" TITLE : checkout for vs2017 BODY : please update your package for tfs-unlock 0.6.0 in this version of your package visual studio 2017 files can not checking out because path of tf.exe is changed.

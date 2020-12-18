@@ -1,0 +1,1 @@
+ URL : "https://github.com/LorenzoBettini/xsemantics/issues/86" TITLE : generate copyright header BODY : we need a copyright header in the generated files. i suggest to add a new optional attribute to the typesystem copyright . e.g., system it.xsemantics.test.fj.first.fjfirsttypesystem copyright c this is a test copyright header. validatorextends abstractfjjavavalidator

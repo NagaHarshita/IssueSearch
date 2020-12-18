@@ -1,0 +1,1 @@
+ URL : "https://github.com/asajeffrey/linjs/issues/7" TITLE : cyclic js-managed data BODY : provide an api for creating cycles, something like: rust let foo = cx.manage_cyclic |foo| astructwithaselfreference { me: foo }

@@ -1,0 +1,1 @@
+ URL : "https://github.com/verfriemelt-dot-org/sachsencacher/issues/78" TITLE : setup für userroles BODY : bei userroles fehlt für die id das auto_increment. außerdem sollte die rolle admin standardmäßig erzeugt werden.

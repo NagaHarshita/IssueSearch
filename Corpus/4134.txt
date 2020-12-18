@@ -1,0 +1,1 @@
+ URL : "https://github.com/PentiaLabs/publish.projects/issues/7" TITLE : add unit tests BODY : there needs to be unit tests for all common developer use cases in order to minimize errors and ensure backwards compatibility

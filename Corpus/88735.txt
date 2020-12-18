@@ -1,0 +1,1 @@
+ URL : "https://github.com/ImageOptim/libimagequant/issues/9" TITLE : openmp bug in msvc branch BODY : if i am not mistaken you forgot to either make acolormap const or share it in the parallel for loop below like on master . https://github.com/imageoptim/libimagequant/blob/3242f4021be431717830576a035a8fc150755690/libimagequant.c l1262 gcc is complaining here.

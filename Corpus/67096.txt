@@ -1,0 +1,1 @@
+ URL : "https://github.com/psychopy/psychojs/issues/2" TITLE : option to go fullscreen BODY : we want to be able to force the browser into a fullscreen view, in the way that internet video players can go fullscreen. this should be an option for window

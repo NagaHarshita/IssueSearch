@@ -1,0 +1,2 @@
+ URL : "https://github.com/YeOldeDM/praxaro/issues/24" TITLE : add debug switches BODY : hero: f5 - toggle motiontrack levelbase: f6 - toggle colmap visibility
+levelbase: f7 - toggle boundry visibility <!--- @huboard:{ milestone_order :0.9995001499650069, order :0.9999000099990001} -->

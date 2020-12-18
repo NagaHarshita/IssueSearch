@@ -1,0 +1,8 @@
+ URL : "https://github.com/NSI-IT/AUG-DEADDROP/issues/199" TITLE : po > draft BODY : as a user i would like to view draft messages so that i can complete it and send across. - verify that all messages saved as draft will show here. - verify that messages will be listed in the following order:- 1. project name
+2. sender email id
+3. subject
+4. date/time of the message - verify that following operations can be performed on the messages:- 1. reply
+2. star a message
+3. delete a message
+4. forward
+5. view message history - verify that order will always be recent to oldest. - verify that sort is needed to opt for oldest to recent though.

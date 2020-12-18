@@ -1,0 +1,1 @@
+ URL : "https://github.com/cvra/robot-software/issues/52" TITLE : unit tests fail on clang BODY : for some reason travis version of clang has a broken c++ library. i disabled clang's build in ae47b7c but it would be good to re enable it later. possibly relevant links: https://github.com/philsquared/catch/issues/334 https://github.com/andersbakken/rtags/issues/204

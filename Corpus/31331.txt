@@ -1,0 +1,1 @@
+ URL : "https://github.com/lbryio/spee.ch/issues/125" TITLE : serve gifv properly BODY : it should be possible to upload a properly encoded video and serve it via an <img/> tag. when @reillysmith tried uploading the mp4 equivalent of https://spee.ch/iad-lbry/5e4c0afaed2ad4a5bd01d9a8479cd7fbce82f3e1.gif i was unable to get it to work.

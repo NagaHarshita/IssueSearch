@@ -1,0 +1,1 @@
+ URL : "https://github.com/dob/auctionhouse/issues/39" TITLE : support erc 721 assets BODY : erc 721 https://github.com/ethereum/eips/issues/721 is a standard for non-fungible assets. auctionhouse should be updated to support assets which implement the spec rather than the asset.sol example which auctionhouse originally started out with prior to a spec.

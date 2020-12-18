@@ -1,0 +1,1 @@
+ URL : "https://github.com/Originate/text-runner/issues/94" TITLE : ignore vendor folder BODY : > when testing the documentation of go code bases i want that vendored dependencies are ignored so that i only test my own code - the vendor directory is ignored by default

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Radarr/Radarr/issues/298" TITLE : pushbullet not working BODY : test button works, but no notification on grab/download complete or upgrade. couldn't find anything related in the logs.

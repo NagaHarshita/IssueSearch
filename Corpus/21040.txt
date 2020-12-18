@@ -1,0 +1,1 @@
+ URL : "https://github.com/karma-runner/karma/issues/2739" TITLE : doesn't list tests BODY : i have an error that is not showing up as a failure but karma doesn't tell me which test it is from. can we include karma-spec-reporter in this project since it appears to be useful and it only made up of 2 javascript files?

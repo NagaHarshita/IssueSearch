@@ -1,0 +1,1 @@
+ URL : "https://github.com/shadowsocks/ShadowsocksX-NG/issues/595" TITLE : use of regexp for rule? BODY : system and shadowsocksx-ng version: - macos 10.12.6 16e???? - shadowsocksx-ng 1.6 expected behavior: user can use regular expression instead of adblockplus filter pattern in the rules

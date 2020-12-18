@@ -1,0 +1,1 @@
+ URL : "https://github.com/retruco/retruco-api/issues/2" TITLE : add swagger-ui middleware BODY : adding the swagger-ui middleware would create a readable interface for developers to experiment with the api withou having to build a client first. documentation here: https://github.com/apigee-127/swagger-tools/blob/master/docs/middleware.md

@@ -1,0 +1,1 @@
+ URL : "https://github.com/metaeducation/ren-c/issues/364" TITLE : last on empty block BODY : last => script error: last must return value use proc or return: <opt>

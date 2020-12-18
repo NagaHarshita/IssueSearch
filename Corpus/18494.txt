@@ -1,0 +1,1 @@
+ URL : "https://github.com/TuomoNieminen/Helsinki-Open-Data-Science/issues/2" TITLE : tests not working BODY : chapter 3: in creating a factor variable tests cause errors, they need to be modified. currently there are no tests used in the chapter.

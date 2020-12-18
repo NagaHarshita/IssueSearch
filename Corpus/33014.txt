@@ -1,0 +1,1 @@
+ URL : "https://github.com/SO-II-2017/shelly/issues/28" TITLE : 3 output redirection BODY : $ echo hello > out.txt $ cat out.txt the answer shall be hello it this is not what you get, check your code.

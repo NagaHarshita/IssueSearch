@@ -1,0 +1,1 @@
+ URL : "https://github.com/PHPOffice/PHPWord/issues/1155" TITLE : templator default value BODY : can i set default value for parameters? if parameter doesnt presents return default value for example like ${fields_birth_date, }

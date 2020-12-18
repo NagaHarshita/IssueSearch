@@ -1,0 +1,1 @@
+ URL : "https://github.com/major/MySQLTuner-perl/issues/301" TITLE : unknown option: pfstat BODY : i executed mysqltuner --buffers --dbstat --idxstat --sysstat --pfstat like described in the readme and got unknown option: pfstat maybe the readme needs to get updated.

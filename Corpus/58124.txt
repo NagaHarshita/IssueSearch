@@ -1,0 +1,12 @@
+ URL : "https://github.com/Zimmi48/bugzilla-test/issues/1155" TITLE : salade avec implicites BODY : note: the issue was created automatically with bugzilla2github tool bugzilla bug id: 42
+date: 2001-07-02 09:54:06 +0200
+from: @_letouzey
+to: last updated: 2001-07-02 09:54:06 +0200 bugzilla comment id: 456
+date: 2001-07-02 09:54:06 +0200
+from: @_letouzey full_name: version: v7 cvs
+os: submission from: ppc8-117.lri.fr 129.175.8.117 dans rocq/algebra, fichier category_theory/category/one.v,
+la line @definition one := build_category assoc_one idl_one idr_one . engendre un error: there is an unknown subterm i cannot solve quand on utilise la forme longue, par contre, ca passe: @definition one := !build_category one_ob one_mor_setoid comp_one id_one
+assoc_one idl_one idr_one . il semble donc qu'il y ait qqchose dans les arguments implicites que coq ne
+digere pas. bugzilla comment id: 457
+date: 2007-07-04 17:02:52 +0200
+from: @_letouzey c'était une erreur sur le discharge d'un @definition précédent

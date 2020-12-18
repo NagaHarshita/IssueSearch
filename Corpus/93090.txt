@@ -1,0 +1,1 @@
+ URL : "https://github.com/dpi/rng/issues/149" TITLE : add custom message trigger BODY : this is a support request. how would i add a message trigger ? i have a custom module that alters the value of a field in the registration. i would like to trigger a message when that field is updated. thanks

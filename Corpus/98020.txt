@@ -1,0 +1,1 @@
+ URL : "https://github.com/hpi-swa/Squot/issues/149" TITLE : implement git tree merging BODY : have a look at the in-source in comments decision tables in git or libgit2. resolve non-conflicts in trees automatically, detect tree-conflicts for later resolution during file merges.

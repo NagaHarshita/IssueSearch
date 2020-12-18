@@ -1,0 +1,1 @@
+ URL : "https://github.com/blacktop/docker-cuckoo/issues/20" TITLE : is this running? BODY : i am using ubuntu lts 16.04 and vmware esxi 5.0.0 when i send analyze , cuckoosandbox status is always pending ! 1 https://user-images.githubusercontent.com/28289395/28767431-9c91d16a-760e-11e7-9db9-34a26c2bfb09.png how can i do?

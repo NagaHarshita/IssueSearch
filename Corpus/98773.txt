@@ -1,0 +1,1 @@
+ URL : "https://github.com/adonisjs/discussion/issues/26" TITLE : layout option for sendview BODY : i couldn't find a way to set a different master for my controller. i'm trying to set separate master layout for admin and public users. is this possible now? where can i find sendview docs? can i set it with route?

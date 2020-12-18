@@ -1,0 +1,1 @@
+ URL : "https://github.com/decred/decrediton/issues/447" TITLE : transaction fee per kb BODY : give a more explicit explanatory label to the transaction fee input. state that it's per kb.

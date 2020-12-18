@@ -1,0 +1,1 @@
+ URL : "https://github.com/RickP/tm1638_gem/issues/1" TITLE : dots array doesn't work BODY : using the dots array doesn't work on my version of the tm1638. ! image https://user-images.githubusercontent.com/4482351/33149953-df68ea2e-cfd1-11e7-81a5-3c553cdc682d.png this is the version i have. no errors or anything, just no dots appearing where the 1's should be in the array.

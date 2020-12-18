@@ -1,0 +1,1 @@
+ URL : "https://github.com/tpolecat/cats-infographic/issues/4" TITLE : eq has =!= BODY : eq seems to have =!= and not =/= : https://github.com/typelevel/cats/blob/master/core/src/main/scala/cats/syntax/eq.scala

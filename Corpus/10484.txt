@@ -1,0 +1,1 @@
+ URL : "https://github.com/sanjuroj/appleton_report_parser/issues/3" TITLE : clean tiff files BODY : write a cleanup function that will delete the tiff files once they are done with.

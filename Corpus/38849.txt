@@ -1,0 +1,1 @@
+ URL : "https://github.com/amcharts/dataloader/issues/19" TITLE : real time data issue BODY : hi i am working on amchart world map plugin. our data load every 5 mins and we are using map.validatedata ; . but when its refresh the data its also reload the complete world map. let me know how can i refresh data without reloading map.

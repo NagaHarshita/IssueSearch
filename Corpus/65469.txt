@@ -1,0 +1,1 @@
+ URL : "https://github.com/anthonykulis/automobile/issues/24" TITLE : invalid tostring method BODY : if i want the paint, i probably want the color of the paint, not paint https://github.com/anthonykulis/automobile/blob/master/edu/jalc/automobile/parts/paint.java l13 1 point

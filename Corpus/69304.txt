@@ -1,0 +1,1 @@
+ URL : "https://github.com/confluentinc/confluent-kafka-dotnet/issues/61" TITLE : support of ssl/kerberos BODY : hello! could someone tell me if this lib supports ssl/kerberos? at the momoent i can't find any .net kafka client which is supporting ssl and or kerberos.

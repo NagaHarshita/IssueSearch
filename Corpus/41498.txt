@@ -1,0 +1,1 @@
+ URL : "https://github.com/pytorch/pytorch/issues/3948" TITLE : a bug of data loading BODY : i compile the pytorch by source . i have this bug when i train my model ! bug https://user-images.githubusercontent.com/17522043/33421347-b588e5bc-d5ec-11e7-9258-7ee945b423d9.png

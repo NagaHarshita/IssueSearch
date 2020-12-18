@@ -1,0 +1,1 @@
+ URL : "https://github.com/bingzhengwei/ftrl_proximal_lr/issues/14" TITLE : start from error BODY : when set parameter: start-from then the parameters like alpha lose its function, and was set to be -0.21 and this -0.21 is not the parameter in training the loaded model

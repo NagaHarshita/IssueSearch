@@ -1,0 +1,1 @@
+ URL : "https://github.com/tgstation/tgstation/issues/26250" TITLE : kudzu not growing. BODY : after you activate a kudzu seed on your hand it will stay on one tile size forever, not growing. it was working on the last few days so it might have to do with a recent change.

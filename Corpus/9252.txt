@@ -1,0 +1,1 @@
+ URL : "https://github.com/whitecatboard/Lua-RTOS-ESP32/issues/100" TITLE : unattach a gpio BODY : is possible unattach a pin joined a pwd? pwm27=pio.gpio27 ledrojo = pwm.attach pwm27, 10000, 0.2 ledrojo:start i tryed whit ledrojo:stop but the gpio27 still is joined to pwm0

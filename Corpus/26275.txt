@@ -1,0 +1,1 @@
+ URL : "https://github.com/GitbookIO/slate-edit-code/issues/27" TITLE : allow custom indent BODY : hey, currently there is a default indentation defined as a const. could you please maybe make it configurable via the options or export a function to set default indents?

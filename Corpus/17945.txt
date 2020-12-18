@@ -1,0 +1,1 @@
+ URL : "https://github.com/dabutvin/ImgBot/issues/32" TITLE : schedule for runs BODY : please consider somehow adding an ability to schedule compression runs. for example run it only once a day/week/month/whenever. that way active repos where images often change don't get flooded with commits from this bot.

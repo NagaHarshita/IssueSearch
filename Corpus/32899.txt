@@ -1,0 +1,1 @@
+ URL : "https://github.com/zhiyicx/plus-component-h5/issues/328" TITLE : 消息 界面调整 BODY : 调整'消息'页面为通知. 布局调整,功能调整,小红点的逻辑不变. - 子页面,左侧调整为通知,右侧调整为聊天 - 右侧导航栏增加按钮

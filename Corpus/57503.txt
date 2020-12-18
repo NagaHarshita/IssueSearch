@@ -1,0 +1,1 @@
+ URL : "https://github.com/datproject/dat/issues/716" TITLE : qa + release checklist BODY : make qa/release lists for cli like destop: https://github.com/datproject/dat-desktop/wiki/qa https://github.com/datproject/dat-desktop/wiki/release-list

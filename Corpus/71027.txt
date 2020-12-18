@@ -1,0 +1,9 @@
+ URL : "https://github.com/PennyDreadfulMTG/perf-reports/issues/4248" TITLE : 500 error at /people/14/ BODY : failed to execute select card as name from deck_card as dc inner join deck as d on dc.deck_id = d.id where deck_id in select distinct deck_id from deck_match -- only include cards that actually got played competitively rather than just posted to goldfish as new cards this season or similar.-- only include cards that actually got played competitively rather than just posted to goldfish as new cards this season or similar. group by card having count distinct d.person_id = 1 and max d.person_id = 14 -- in mysql 5.7+ this could/should be any_value not max but this works with any version. the count distinct p.id ensures this only has one possible value but mysql can't work that out.-- in mysql 5.7+ this could/should be any_value not max but this works with any version. the count distinct p.id ensures this only has one possible value but mysql can't work that out. with because of 3, error writing file '/tmp/myeudphs' errcode: 28 - no space left on device reported on decksite by logged_out
+--------------------------------------------------------------------------------
+request method: get
+path: /people/14/?
+cookies: {}
+endpoint: person
+view args: {'person_id': '14'}
+person: logged_out
+user-agent: mozilla/5.0 compatible; smtbot/1.0; +http://www.similartech.com/smtbot referrer: none

@@ -1,0 +1,1 @@
+ URL : "https://github.com/aigarsgaa/prj-rev-bwfs-dasmoto/issues/2" TITLE : important: div wrappers BODY : https://github.com/aigarsgaa/prj-rev-bwfs-dasmoto/blob/master/dasmoto/index.html l13-l16 the best way to block of sections like this is to wrap them in a div, which gives you the ability to style the elements as a group and tells collaborators that they go together.

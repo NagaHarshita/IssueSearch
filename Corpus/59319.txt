@@ -1,0 +1,1 @@
+ URL : "https://github.com/solgenomics/sgn/issues/1393" TITLE : traits list validation BODY : trait list validation test seems to fail. this happens when creating field book traits file and also when trying to validate the list from the list menu. e.g. 'ukiriguru trial traits' public list, on cassava-test

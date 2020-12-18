@@ -1,0 +1,1 @@
+ URL : "https://github.com/UCSB-CS56-Projects/cs56-games-gomoku/issues/35" TITLE : you cannot win the game BODY : when you connect 5, it doesn't register that you've won the game 100 points

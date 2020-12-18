@@ -1,0 +1,1 @@
+ URL : "https://github.com/fxi/AccessMod_shiny/issues/181" TITLE : typo in data writing BODY : current behavior when uploading tables into accessmod data -> import , it comes out as data writting... instead of data writing .

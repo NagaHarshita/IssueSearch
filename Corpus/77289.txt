@@ -1,0 +1,1 @@
+ URL : "https://github.com/iiordanov/remote-desktop-clients/issues/105" TITLE : multiple capital letters BODY : hi, if you try to write ttest then aspice writes ttest . so it ignores the second capital letter altough you press the shift key. workaround press tt, then backspace, then test, so you get ttest . this is very annoying when you've to enter a password in the vm.

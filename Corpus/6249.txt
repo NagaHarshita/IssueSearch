@@ -1,0 +1,1 @@
+ URL : "https://github.com/Duke-Translational-Bioinformatics/mmci-practical-datascience-competition/issues/2" TITLE : 502 bad gateway BODY : something is going wrong within the deployment stack using a unix socket to connect gunicorn and nginx. some endpoints work and others return a 502 bad gateway .

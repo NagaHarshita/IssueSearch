@@ -1,0 +1,1 @@
+ URL : "https://github.com/ekmett/free/issues/166" TITLE : split this package BODY : some if not all of the .class modules have very few dependencies. for example, control.monad.free.class only depends on transformers . but depending on free means pulling in profunctors , semigroupoids , and so on.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/joel-costigliola/assertj-core/issues/939" TITLE : try to add code coverage BODY : summary jacoco was failing due to soft assertion instrumentation getting in the way, maybe with the latest jacoco version this issue can be fixed.

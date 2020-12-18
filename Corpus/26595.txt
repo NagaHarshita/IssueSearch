@@ -1,0 +1,1 @@
+ URL : "https://github.com/jonashoechst/Syncthing-BrewBar/issues/1" TITLE : brew path hardcoded BODY : crashes when the hardcoded path of brew is not correct. my brew is located at /users/username/homebrew/bin/brew i know this is unusual but you will probably want to allow for this somehow.

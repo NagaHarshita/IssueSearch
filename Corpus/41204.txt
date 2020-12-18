@@ -1,0 +1,1 @@
+ URL : "https://github.com/typicode/husky/issues/187" TITLE : { , / } doesn't work BODY : use case: auto-toc'ing all my .md files via https://github.com/jonschlinkert/markdown-toc attempted: precommit : markdown-toc -i { , }.md works if i just node_modules/.bin/markdown-toc -i { , }.md , but craps bed on commit. i'm assuming husky isn't able to do wildcards?

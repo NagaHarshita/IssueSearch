@@ -1,0 +1,1 @@
+ URL : "https://github.com/PRUNERS/FLiT/issues/39" TITLE : create a docker image BODY : looking at using docker to have images for 1. all components 2. host db component 3. client run component 4. runall component the client component could potentially have multiple versions of compilers available for people to use.

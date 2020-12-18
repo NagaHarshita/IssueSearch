@@ -1,0 +1,1 @@
+ URL : "https://github.com/gravitational/teleport/issues/1077" TITLE : cant delete user BODY : i created a user that can log in as multiple users and when i try to delete the user... user 'joe2,' is not found. with a tctl users ls command it still says 'joe2,' is there. however, 'joe2,' cannot be logged into anymore so the user is gone but not 'forgotten i guess you could say.

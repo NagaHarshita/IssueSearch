@@ -1,0 +1,1 @@
+ URL : "https://github.com/Jerome-Joestar/milk-intake-calculator/issues/1" TITLE : implement error validation BODY : the sex, age, weight in pounds, and weight in ounces need the following validation: - ensure input is a number - numbers are within restricted range - implement error messages for the above

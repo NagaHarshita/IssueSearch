@@ -1,0 +1,1 @@
+ URL : "https://github.com/habitat-sh/habitat/issues/4026" TITLE : hab bldr job start failure BODY : seeing this error on the code in master: ➜ habitat git: master ✗ hab bldr job start core/testapp ω creating build job for core/testapp ✗✗✗ ✗✗✗ invalid type: string 846414253363118080 , expected i64 at line 1 column 26 ✗✗✗

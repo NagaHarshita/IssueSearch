@@ -1,0 +1,1 @@
+ URL : "https://github.com/wulkano/kap/issues/278" TITLE : missing plugins pane BODY : perhaps i'm just overlooking it? platform: macos 10.13 kap version: 1.0.1.1 steps to reproduce look for where i'd expect the plugins pane to appear in preferences.

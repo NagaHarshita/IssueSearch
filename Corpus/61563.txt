@@ -1,0 +1,1 @@
+ URL : "https://github.com/zy4kamu/Coda/issues/13" TITLE : bash build_cpp.sh error BODY : when bash build_cpp.sh i get a error: 69% built target dictionary-app 69% built target tokenizer linking cxx shared library /opt/coda/debug/lib/libcrf.so 69% built target crf make: all error 2

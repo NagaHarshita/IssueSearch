@@ -1,0 +1,1 @@
+ URL : "https://github.com/Azure/azure-iot-sdk-csharp/issues/217" TITLE : broken links in readme.md BODY : the links for the below topics in the main readme.md are broken. running the c samples on windows running the c samples on windows iot core

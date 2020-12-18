@@ -1,0 +1,1 @@
+ URL : "https://github.com/djmaze/docker-appimage-recipe-builder/issues/1" TITLE : link missing - 404 error BODY : while build spotify, i got 404 error on this wget -c http://ftp.us.debian.org/debian/pool/main/g/gconf/top can you please recheck this link, thank you!

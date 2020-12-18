@@ -1,0 +1,1 @@
+ URL : "https://github.com/jlongster/backend-with-webpack/issues/11" TITLE : about es6 babel-loader BODY : i think your es6 demo is not work correct. js { test: /\.js$/, exclude: /node_modules/, include: path.join __dirname, 'src' , loader: 'babel', query: { presets: 'es2015' } } above works fine.

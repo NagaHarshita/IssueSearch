@@ -1,0 +1,1 @@
+ URL : "https://github.com/apollographql/react-apollo/issues/1382" TITLE : please cut a release BODY : ssr on my site is failing a lot due to the null array element issue that was fixed by https://github.com/apollographql/react-apollo/pull/1355. it was merged 6 days ago - can we get a new patch release?

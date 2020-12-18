@@ -1,0 +1,1 @@
+ URL : "https://github.com/aberezkin/ng2-image-upload/issues/70" TITLE : chore: release 0.6.4 BODY : the issue resolved by 33134ff30ff56b65d0e56eaf02a065a8b16675b3 causes a build failure with latest angular 4.2.x.

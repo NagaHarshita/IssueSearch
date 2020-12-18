@@ -1,0 +1,1 @@
+ URL : "https://github.com/rdadolf/fathom/issues/33" TITLE : running on gpu BODY : hi, i didn't find the document for running the workloads on gpu. at least they need cuda and i didn't find that. any guide? what is the minimum cuda version for that?

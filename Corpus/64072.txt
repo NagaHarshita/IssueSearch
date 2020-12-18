@@ -1,0 +1,1 @@
+ URL : "https://github.com/dockerdepot/web-containers/issues/3" TITLE : find a better ci system BODY : circleci doesn't allow us to do centos container builds. it also seems v2 is going full docker, which might break our ability to do builds. options: semaphoreci codeship

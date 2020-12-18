@@ -1,0 +1,1 @@
+ URL : "https://github.com/crisisbox/docker/issues/7" TITLE : automate the webdav mount BODY : having to automatically mount the webdav is a pain. is there a good way to automate that in the container? perhaps something like wait-for-it.sh https://docs.docker.com/compose/startup-order/ in the startup order?

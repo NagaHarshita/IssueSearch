@@ -1,0 +1,1 @@
+ URL : "https://github.com/lidavidm/reduct-redux/issues/34" TITLE : switch build system? BODY : - make loading not dependent on parcel - see if we can get source maps, split bundle in parcel itself

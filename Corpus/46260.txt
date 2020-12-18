@@ -1,0 +1,1 @@
+ URL : "https://github.com/bbqtd/rg-kit/issues/14" TITLE : lol: type gameversion BODY : it would be nice to provide distinct type with methods for gameversion field. probably the good place would be package rg-kit/types because we could have multiple riot games in the future. https://github.com/bbqtd/rg-kit/blob/8d174a5fd4c538dad6528b8877cc44e9ab723170/lol/match/match.go l29

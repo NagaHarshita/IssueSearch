@@ -1,0 +1,1 @@
+ URL : "https://github.com/lib/pq/issues/592" TITLE : support ssl compression BODY : will pq ever support ssl compression? in network constrained environments enabling ssl compression allows a lot more data to return in less time.

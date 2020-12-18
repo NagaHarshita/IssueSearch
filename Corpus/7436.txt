@@ -1,0 +1,1 @@
+ URL : "https://github.com/xoxco/jQuery-Tags-Input/issues/334" TITLE : focus not works BODY : hi, in css is: div.tagsinput:focus {...} but it doesnt work, because is focused child input element and not this div. plugin missing function which will change class to this div or send event to div.

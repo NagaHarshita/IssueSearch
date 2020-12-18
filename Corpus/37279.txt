@@ -1,0 +1,1 @@
+ URL : "https://github.com/bumptech/glide/issues/1970" TITLE : load only from cache BODY : hello, i have been looking at some documentation and before we would use using to force images to be loaded strictly from cache, but now that it has been removed on v4, what is the best approach to only load images if they are alreayd cached? thank you very much in advance.

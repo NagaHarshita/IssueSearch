@@ -1,0 +1,1 @@
+ URL : "https://github.com/MusaMahmood/SSVEP-Deep-Learning/issues/2" TITLE : holdout validation split BODY : pseudo-randomly split data into sets of training and test data.

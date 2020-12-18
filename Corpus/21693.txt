@@ -1,0 +1,1 @@
+ URL : "https://github.com/smirzaei/currency-formatter/issues/45" TITLE : german local wrong BODY : hi, the german local should also use the point as a thousand seperator. but the implementation is only showing a blank. as a workaround i am using the netherland locale... both should be the same with kind regards!

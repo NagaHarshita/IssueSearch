@@ -1,0 +1,1 @@
+ URL : "https://github.com/choria-io/mcollective-choria/issues/285" TITLE : support etcd locks BODY : recent etcd has easy lock support. looks to using that in playbooks. http://coreos.com/blog/etcd-3.2-announcement

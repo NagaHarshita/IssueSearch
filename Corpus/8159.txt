@@ -1,0 +1,1 @@
+ URL : "https://github.com/Yoda94/Werwaffle/issues/9" TITLE : net server code BODY : just a note for myself. the input and output streams should be persistent to reduce calculation cost as well as getting system more responsive.

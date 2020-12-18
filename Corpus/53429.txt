@@ -1,0 +1,1 @@
+ URL : "https://github.com/blockstack/blockstack-core/issues/453" TITLE : don't spend dust utxos BODY : it doesn't make sense to spend an unspent transaction output utxo when the value of the output is less than the fee. it makes sense to spend the largest utxos first and filter out small ones. tagging @jcnelson

@@ -1,0 +1,1 @@
+ URL : "https://github.com/kobus-v-schoor/dotgit/issues/11" TITLE : dotgit update hangs BODY : when i run dotgit update, it hangs, when i run dotgit verbose update, it gets to the end of my filelist and then hangs

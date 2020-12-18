@@ -1,0 +1,1 @@
+ URL : "https://github.com/datawire/ambassador/issues/106" TITLE : support canary routing BODY : want to specify different weights in the ambassador config, so that v1 of a service can get 90% of traffic and v1.1 can get 10% of the traffic.

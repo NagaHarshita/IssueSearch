@@ -1,0 +1,1 @@
+ URL : "https://github.com/love2d/love/issues/88" TITLE : support keyboard on ios BODY : ipad pros have hardware keyboards, yet keybindings don't seem to respond on ios.

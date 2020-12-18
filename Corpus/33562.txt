@@ -1,0 +1,1 @@
+ URL : "https://github.com/ibgib/helper-gib/issues/2" TITLE : add timestamp option BODY : cloudwatch logs already have a timestamp on each log entry, so the timestamp is not necessary.

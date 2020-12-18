@@ -1,0 +1,1 @@
+ URL : "https://github.com/deltaskelta/langalang/issues/54" TITLE : fix ajax post issues BODY : first: look into why the bytes like object is not working on the ajax submit audio forms, it may be the same issue maybe fix above first : g_recaptcha needs to encode this line i think response = urllib.request.urlopen req

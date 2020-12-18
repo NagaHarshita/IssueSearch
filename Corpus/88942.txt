@@ -1,0 +1,1 @@
+ URL : "https://github.com/jiriferkl/dumbpass/issues/3" TITLE : password similarity check BODY : now common passwords are checked by file. they have to be exactly the same. maybe it should check similarity too.

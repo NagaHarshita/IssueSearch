@@ -1,0 +1,1 @@
+ URL : "https://github.com/asdine/storm/issues/143" TITLE : the tag storm customize ? BODY : extract.go line 101 tag := field.tag.get storm tag := field.tag.get mytag

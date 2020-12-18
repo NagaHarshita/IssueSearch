@@ -1,0 +1,1 @@
+ URL : "https://github.com/teamrice/lab9-client/issues/5" TITLE : down to work BODY : our front-end changes are all going to be in models/tasks. we need to over-ride any methods inherited from xxx_model that refer to the local file system. let's start by adding some standard configuration settings

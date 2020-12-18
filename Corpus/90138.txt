@@ -1,0 +1,1 @@
+ URL : "https://github.com/Rush/node-authenticate-pam/issues/25" TITLE : running as non-root crash BODY : hi i know issue about crash when run as non root users is known. but do you have any clue where it happen in libpam? i'm facing the same issue and i willing to fix it, if the issue in libpam is not already fixed. thanks

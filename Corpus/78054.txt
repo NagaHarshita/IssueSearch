@@ -1,0 +1,1 @@
+ URL : "https://github.com/dholde/BestFoodApp/issues/52" TITLE : paypal payment to cooker BODY : user story: after a sucessfull transaction by the eater, the cooker gets paid via the paypal chain payment schema. criteria: data: screen:

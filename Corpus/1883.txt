@@ -1,0 +1,1 @@
+ URL : "https://github.com/richardschneider/ipfs-encryption/issues/6" TITLE : js key store BODY : implement a key store in javascript. it must - manage a key create, delete, list - encrypt/decrypt a stream of data with a key it could - sign/verify a stream of data with a key

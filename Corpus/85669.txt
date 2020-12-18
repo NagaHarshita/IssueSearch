@@ -1,0 +1,28 @@
+ URL : "https://github.com/shuhongwu/hockeyapp/issues/17265" TITLE : fix crash in 16u17acrh732 BODY : version: 7.0.0 2982 | com.sina.weibo stacktrace <pre>-;16u17acrh732;;
+-;16f7bjb0znx4;;
+-;16rmevpnfjn7;;
+-;16ikhqs29ml1;;
+-;16vrrqje0ffj;;
+-;169zzu0olsdv;;
+-;c5c410vkhlx2;;
+-;c5mqnxdic0du;;
+-;16rrycxkdlvg;;
+-;- securityguardopeninitialize privateinitialize ;;
+-;+ securityguardopeninitialize sharedinstance ;;
+-;- securityguardopeninitialize initialize ;;
+-;16vxraffkaqt;;
+-;+ mainplugin initializeplugin: ;;
+-;- openinterfacelibrary initplugin: ;;
+-;- openinterfacelibrary loadplugin:loaddependency:erroinfo: ;;
+-;- openinterfacelibrary getinterface: ;;
+-;- opensecurityguardmanager getinterface: ;;
+-;c58hmxfaerly;;
+-;+ opensecurityguardmanager getinstance ;;
+alisecurityguardbridge;getdata:;alisecurityguardbridge.m;161
+alipcauthservice;loadlosthint;alipcauthservice.m;35
+alipcauthservice;init;alipcauthservice.m;55
+alipcauthservice;sharedinstance;alipcauthservice.m;29
+alipcauthservice;sharedinstance;once.h;68
+alibctradecontainersdk;asyncinitwithsuccess:failure:;alibctradecontainersdk.m;60
+wbtaobaomanager;taobaoasyninit;wbtaobaomanager.m;62
+tweetterappdelegate;lazyloadoptionwithlaunchingoptions:;tweetterappdelegate.m;1568</pre> link to hockeyapp https://rink.hockeyapp.net/manage/apps/411124/crash_reasons/155629804 https://rink.hockeyapp.net/manage/apps/411124/crash_reasons/155629804

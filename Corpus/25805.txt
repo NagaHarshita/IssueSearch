@@ -1,0 +1,1 @@
+ URL : "https://github.com/hehjs/heh/issues/4" TITLE : add browser options BODY : also probably should add .browserslistrc with: log browsers that we support > 1% last 2 versions

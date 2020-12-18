@@ -1,0 +1,1 @@
+ URL : "https://github.com/rockchip-linux/u-boot/issues/3" TITLE : please enable config_api BODY : hello! i would like to run the tinker board with freebsd. freebsd can boot with u-boot, but it needs the config_api option to be enabled to do so. could you please be so kind and enable it so i can build an u-boot that can boot freebsd? thank you very much.

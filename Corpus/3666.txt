@@ -1,0 +1,1 @@
+ URL : "https://github.com/JuliaMath/FixedPointDecimals.jl/issues/4" TITLE : tag a release BODY : once we're satisfied with the repo state, we should tag a release on @attobot so that currencies can properly migrate.

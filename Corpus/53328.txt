@@ -1,0 +1,1 @@
+ URL : "https://github.com/SwiftKit/Cuckoo/issues/104" TITLE : do not override deinit BODY : in a class to be mocked i have a deinit like this deinit { // do something } and cuckoo generates override func deinit { return manager.call deinit , parameters: , original: observed.map { o in return { in o.deinit } } } that doesn't work. just ignore deinit while generating mocks.

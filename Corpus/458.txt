@@ -1,0 +1,1 @@
+ URL : "https://github.com/ChristopherSClosser/Portfolio/issues/10" TITLE : em vs px BODY : i noticed you are using px for most of the site. try using em to help make site work more responsively and be less rigid.

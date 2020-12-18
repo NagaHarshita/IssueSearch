@@ -1,0 +1,1 @@
+ URL : "https://github.com/mc1379/teacozy/issues/5" TITLE : overly specific selectors BODY : i would just remove the div prefixes on these selectors. makes the styling less reusable, bulks up your code without actually giving you any benefit. https://github.com/mc1379/teacozy/blob/master/resources/style.css l13

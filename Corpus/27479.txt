@@ -1,0 +1,1 @@
+ URL : "https://github.com/soniakeys/graph/issues/70" TITLE : degeneracy doc, api BODY : doc isn't really in line with wikipedia definitions. elaborate, add explanation to examples. return value k looks redundant; consider removing.

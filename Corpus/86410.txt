@@ -1,0 +1,1 @@
+ URL : "https://github.com/andymccurdy/redis-py/issues/930" TITLE : how to deal with events ? BODY : i have met a problem of deal with subscribe events, like when i subscribe a channel and a message pop. can you give me example how to add your callback to its response_callbacks ?

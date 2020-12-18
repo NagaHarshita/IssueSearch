@@ -1,0 +1,1 @@
+ URL : "https://github.com/jpatillo/vivaria/issues/3" TITLE : sensor sync validation BODY : each connected sensor's meta data must be synced with the cloud service just as the device is.

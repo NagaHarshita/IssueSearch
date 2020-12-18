@@ -1,0 +1,1 @@
+ URL : "https://github.com/NVlabs/GA3C/issues/30" TITLE : not use enabled? BODY : in server.py, line 108, set trainer.enabled = false , may be useless?here the 'trainer' is class 'threadtrainer'. not call anywhere? and 'enabled' property only see in class threaddynamicadjustment , not found class 'threadtrainer'

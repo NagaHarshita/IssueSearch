@@ -1,0 +1,3 @@
+ URL : "https://github.com/otb1/pruebaIssues/issues/17" TITLE : failure report - : BODY : user: oscar.toledo@embention.com
+description:
+: system information: available processors cores : 4 free memory bytes : 451656424 maximum memory bytes : 954728448 total memory available to jvm bytes : 580386816 file system root: c:\ total space bytes : 972021559296 free space bytes : 897932697600 usable space bytes : 897932697600 file system root: d:\ total space bytes : 26843541504 free space bytes : 25653919744 usable space bytes : 25653919744 file system root: e:\ total space bytes : 0 free space bytes : 0 usable space bytes : 0

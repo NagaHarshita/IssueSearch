@@ -1,0 +1,1 @@
+ URL : "https://github.com/nubisproject/nubis-deploy/issues/284" TITLE : deploy script tweaks BODY : needs some whitespace cleanup and also checking for specific program if exists

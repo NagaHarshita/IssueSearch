@@ -1,0 +1,1 @@
+ URL : "https://github.com/Ultimaker/Cura/issues/1902" TITLE : nozzle size won't update BODY : 2.6.0 beta, on mac os 10.12.5 tried updating the nozzle size in the machine setup and it doesn't save. still able to update nozzle size in cura 2.5.0

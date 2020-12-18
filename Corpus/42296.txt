@@ -1,0 +1,1 @@
+ URL : "https://github.com/jjken89/Lab4/issues/1" TITLE : are these the errors? BODY : config.vm.define box1 do |box1| box1.vm.provision shell , inline: <<-shell sudo apt-get update shell i took out the because that is the sign for a comment when you want this to not be a comment

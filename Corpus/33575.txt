@@ -1,0 +1,1 @@
+ URL : "https://github.com/odmsolutions/vagrant_tray_monitor/issues/4" TITLE : add ui startup files BODY : add a ui startup file for various os's. windows - perhaps a wpython batch file - look at similar linux/mac tools.

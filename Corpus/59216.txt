@@ -1,0 +1,1 @@
+ URL : "https://github.com/D3Exclusive/Allay/issues/1" TITLE : this.use state handler BODY : this.use should automatically update components using that state key

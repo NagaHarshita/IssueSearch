@@ -1,0 +1,1 @@
+ URL : "https://github.com/starkandwayne/safe/issues/64" TITLE : safe -k is finnicky BODY : some minor issues: - safe help target shows that safe target -k is a thing, but when you run it, you get usage indicating that it is safe -k target . - the -k flag doesn't seem to take effect when specifying the args as alias url , but does with url alias

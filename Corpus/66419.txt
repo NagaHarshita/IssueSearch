@@ -1,0 +1,1 @@
+ URL : "https://github.com/vladfolts/oberonjs/issues/50" TITLE : module reader arguments BODY : имя в читатель модулей должно приходить оригинальное, без знака $

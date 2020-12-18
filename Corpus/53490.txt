@@ -1,0 +1,1 @@
+ URL : "https://github.com/firehol/firehol/issues/288" TITLE : dscp doesn't match cs0 BODY : at least in the documentation it doesn't seem possible to match packets with dscp = 0x00 = cs0

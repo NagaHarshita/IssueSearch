@@ -1,0 +1,1 @@
+ URL : "https://github.com/bpython/bpython/issues/664" TITLE : bpython can't pickle BODY : smallest test case import pickle class test object : pass pickle.dumps test traceback traceback most recent call last : file <input> , line 1, in <module> pickle.dumps test _pickle.picklingerror: can't pickle <class '__console__.test'>: import of module '__console__' failed

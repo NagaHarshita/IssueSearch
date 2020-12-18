@@ -1,0 +1,1 @@
+ URL : "https://github.com/NOAA-CSD/las-mfc-ui/issues/7" TITLE : q1 being written as dp1 BODY : per @kfroyd - in last column of data file should contain q1 but seems to contain dp1 . to be honest, this might be user error and it might not be properly configured.

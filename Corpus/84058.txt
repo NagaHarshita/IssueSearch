@@ -1,0 +1,1 @@
+ URL : "https://github.com/jakob/Postico/issues/419" TITLE : copy url invalid encoding BODY : the copy url feature is really handy in the favourites window , but it does not correctly url encode usernames/passwords that contain url reserved characters e.g. ? . this means that the copied url can be invalid, which means it can't be used.

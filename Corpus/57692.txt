@@ -1,0 +1,1 @@
+ URL : "https://github.com/couchbase-partners/amazon-cloud-formation-couchbase/issues/7" TITLE : reduce iam permissions BODY : there are a bunch we don't need currently.

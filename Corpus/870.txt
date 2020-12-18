@@ -1,0 +1,1 @@
+ URL : "https://github.com/kevva/is-positive/issues/14" TITLE : use typeof BODY : object.prototype.tostring is susceptible to poisoning: ispositive { symbol.tostringtag : 'number', valueof {return math.random -0.5}}

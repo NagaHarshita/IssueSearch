@@ -1,0 +1,1 @@
+ URL : "https://github.com/dronesdronesdrones/botsoffline/issues/1" TITLE : handling of esi 502 BODY : e.g. during dt. location loader should check the status first, and if it is offline don't scan the characters, but complete all trackings.

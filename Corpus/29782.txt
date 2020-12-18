@@ -1,0 +1,1 @@
+ URL : "https://github.com/openeventdata/stanford_pipeline/issues/15" TITLE : more config options BODY : you should be able to specify a few more things in the config file: - mongo db - mongo collection - process today or process the whole collection

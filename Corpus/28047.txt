@@ -1,0 +1,1 @@
+ URL : "https://github.com/security-force-monitor/sfm-cms/issues/108" TITLE : exporting csv data? BODY : @evz picking up on this --- is it possible to have a function for a download of the monitor's data in csv format? thinking through implementation issues, we might host a download link on the webpage of the security force monitor, rather than through the application itself.

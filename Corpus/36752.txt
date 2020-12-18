@@ -1,0 +1,1 @@
+ URL : "https://github.com/orijtech/bitfinex/issues/9" TITLE : implement status api BODY : as documented at https://docs.bitfinex.com/v1/reference rest-auth-order-status, implement the order status api.

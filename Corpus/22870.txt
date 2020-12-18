@@ -1,0 +1,1 @@
+ URL : "https://github.com/crossbeam-rs/crossbeam-epoch/issues/22" TITLE : more impls for ptr BODY : since ptr is just a pointer, it might make sense to implement eq for it. currently, to compare whether two ptr s are equal, one has to do: a.as_raw == b.as_raw . why shouldn't we be able to do just a == b ? maybe we could implement ord , hash , and std::fmt::pointer as well.

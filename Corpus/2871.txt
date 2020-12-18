@@ -1,0 +1,1 @@
+ URL : "https://github.com/ming-codes/ember-ui-kit/issues/42" TITLE : feature modal BODY : - allow a tree of modals. where modal can open more modals. - backdrop click triggers action and also triggers element below.

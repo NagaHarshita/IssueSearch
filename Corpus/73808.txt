@@ -1,0 +1,1 @@
+ URL : "https://github.com/fossasia/badgeyay/issues/225" TITLE : deployment on kubernetes BODY : i'm submitting a ... - bug report - x feature request current behavior: currently the project can be deployed only on heroku and docker expected behavior: make the project deployable to kubernetes

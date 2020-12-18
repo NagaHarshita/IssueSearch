@@ -1,0 +1,1 @@
+ URL : "https://github.com/paoloruiz/wweplanner/issues/8" TITLE : create characters object BODY : create object containing a bunch of characters. have presets for common characters and allow custom characters to be added. these characters should have an elo? score which will correspond to a position on the card.

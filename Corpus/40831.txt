@@ -1,0 +1,1 @@
+ URL : "https://github.com/betaflight/betaflight/issues/3750" TITLE : velocidrone gpl code BODY : it seems that https://www.velocidrone.com/ is using betaflight code, but i can't find sources anywhere. backporting velocidrone changes can improve bf/cf sitl ... can someone who owns velocidrone request the sources?

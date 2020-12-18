@@ -1,0 +1,1 @@
+ URL : "https://github.com/nvs/gem/issues/325" TITLE : change 'level' to 'round' BODY : the word 'level' is used multiple times in the map: - the current level the player is on e.g. level 1 . - the level a tower is in regards to the number of kills e.g. level 1 . for the level a player is on, the word 'round' can also work. this might make things a bit more clear.

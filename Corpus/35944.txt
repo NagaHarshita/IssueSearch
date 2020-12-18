@@ -1,0 +1,1 @@
+ URL : "https://github.com/socib/Leaflet.TimeDimension/issues/106" TITLE : fix nezasa detection BODY : in line 401 of src.withlog.js and likely the other libs should read: if typeof nezasa == 'undefined' { instead of if nezasa === undefined { which did not seem to work, changing to above got me past the error.

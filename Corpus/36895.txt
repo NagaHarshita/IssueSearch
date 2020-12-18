@@ -1,0 +1,1 @@
+ URL : "https://github.com/gs-akhan/react-native-select/issues/26" TITLE : install without rnpm BODY : rnpm is deprecated. soo, how can i install wihout use? i try by manual way but when i change the main activity it brokens react-native-vector-itens

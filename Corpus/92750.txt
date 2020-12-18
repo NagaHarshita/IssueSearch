@@ -1,0 +1,1 @@
+ URL : "https://github.com/pycraft114/octodog/issues/8" TITLE : 3-7 스코어보드 출력 BODY : 설명 스코어보드에 상위랭크 10위까지를 표시 순위, 아이디, 프로필사진, 점수 작업 시간 2day 완료 조건 - db의 scoreboard 테이블에서 점수순으로 내림차순 정렬후 10개의 rows를 가져옴 - 해당 rows의 uid를 가지고 user테이블에서 아이디와 프로필 사진정보를 가져옴 - 템플릿에 넣고 잘 버무려줌 -> 잘 출력된다 만세

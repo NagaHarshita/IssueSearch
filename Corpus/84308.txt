@@ -1,0 +1,1 @@
+ URL : "https://github.com/colshacol/magicar/issues/5" TITLE : create vehicle component. BODY : <vehicle/> component should: - display the following: - picture of the vehicle. - color - year - mileage - transmission - make - model

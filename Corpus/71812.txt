@@ -1,0 +1,1 @@
+ URL : "https://github.com/fugue/credstash/issues/172" TITLE : all results not returned BODY : when the data stored in the credentials table is greater than 1mb the results in credstash list are truncated. to reproduce keep adding a large file to a credential, also many credentials may replicate this. i will attempt a fix.

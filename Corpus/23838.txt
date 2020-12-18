@@ -1,0 +1,1 @@
+ URL : "https://github.com/rancher/rancher/issues/8210" TITLE : rename stack issue BODY : when create a new stack, the stack name can not be the same as other, it is right; but, when you rename stack name to an already exist stack, no check?? clould you fix this error? tks

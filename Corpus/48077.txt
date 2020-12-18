@@ -1,0 +1,1 @@
+ URL : "https://github.com/tsujan/E17gtk/issues/12" TITLE : release for gtk+-3.24 BODY : my understanding is that e17gtk currently is adapted to gtk+-3.22 , right? now that gtk+-3.22 is gone from some linux distributions it would be a nice idea to get e17gtk adapted for gtk+-3.24 .

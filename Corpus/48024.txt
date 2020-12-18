@@ -1,0 +1,1 @@
+ URL : "https://github.com/nerdalize/nerd/issues/80" TITLE : refactor conf package BODY : create a config struct that can be mocked. create a configsnapshot struct that is returned upon calling config.read , that can be used as a snapshot of the actual config file only write fields that diff from the defaults

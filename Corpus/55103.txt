@@ -1,0 +1,1 @@
+ URL : "https://github.com/lmarty/Hackerboxes20/issues/10" TITLE : implement mqtt scoring BODY : implement mqtt scoring : if badge sees open wifi, establish mqtt connection to some online endpoint, and upload name and stats/score. so we can keep track of the winner need to make backend infra decisions and need a host

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Brewskey/spark-protocol/issues/120" TITLE : bunyan log finished BODY : but unable to commit without disabled pre-commit rule . reason: missing files from third-party directory

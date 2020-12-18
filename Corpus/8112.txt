@@ -1,0 +1,1 @@
+ URL : "https://github.com/valfirst/jbehave-junit-runner/issues/106" TITLE : move to junit 5 BODY : not only do jbehave and this runner force junit 4 on me with their dependencies, there is no support for junit 5, most noticable in junitreportingrunner having to be used with the removed @runwith . please upgrade or create a separate junit 5 version :-

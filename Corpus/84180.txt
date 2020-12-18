@@ -1,0 +1,1 @@
+ URL : "https://github.com/MIPT-ILab/mips-traces/issues/1" TITLE : create a trace to test bp BODY : from mipt-mips created by pavelkryukov https://github.com/pavelkryukov : mipt-ilab/mipt-mips 36 currently no testing for branch prediction is made. we have to add the trace with huge amount of random branches. amb: trace is implemented and shows sensitivity to bp size.

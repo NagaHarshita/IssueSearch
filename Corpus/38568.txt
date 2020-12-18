@@ -1,0 +1,1 @@
+ URL : "https://github.com/starkandwayne/pipeline-templates/issues/25" TITLE : print out go version BODY : if pipeline release jobs that use go build could print out the go version being used that would be awesome. took me longer than it should have to realize that safe was still being built against go1.8. a simple go version should suffice.

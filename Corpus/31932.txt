@@ -1,0 +1,1 @@
+ URL : "https://github.com/rezayas/ComputationalLib/issues/5" TITLE : test for polynomial BODY : • test if we can correctly estimates the parameters of f x = 1 + 2 x + 3 x^2. • test if we can correctly estimates the parameters of f x = 1 + 2 x + 3 y + 4x y + 5 x^2 + 6 y^2

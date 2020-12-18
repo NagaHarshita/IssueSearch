@@ -1,0 +1,9 @@
+ URL : "https://github.com/NSI-IT/DVH-MOBILITY/issues/6" TITLE : rate a property BODY : as a user, i can rate a property so that i can share my experience. acceptance test - verify that a user is getting an option to rate the property.
+- verify that a user is getting predefined options to select:
+> 1 - very bad
+> 2 - poor
+> 3 - average
+> 4 - good
+> 5 - excellent - verify that i can rate those properties only which i have booked.
+- verify that i can submit the rating to publish it on property's profile.
+- verify that i can rate a property only once.

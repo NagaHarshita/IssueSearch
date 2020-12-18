@@ -1,0 +1,1 @@
+ URL : "https://github.com/christophetd/docker-python-sandbox/issues/13" TITLE : pypy or cpython? BODY : hi - just curious if the normal docker image associated with this library relies on cpython or pypy?

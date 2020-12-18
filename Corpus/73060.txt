@@ -1,0 +1,8 @@
+ URL : "https://github.com/Zimmi48/bugzilla-test/issues/1999" TITLE : command error in coq.bat BODY : note: the issue was created automatically with bugzilla2github tool bugzilla bug id: 1999
+date: 2008-11-18 07:39:40 +0100
+from: tsay@im.ntu.edu.tw
+to: last updated: 2008-11-20 13:22:13 +0100 bugzilla comment id: 2627
+date: 2008-11-18 07:39:40 +0100
+from: tsay@im.ntu.edu.tw in the last line of coq.bat, there is an extra ' immediately after coqtop.opt.exe, causing the invokation of coqtop.opt.exe to fail. things went through after removal of that extra '. bugzilla comment id: 2639
+date: 2008-11-20 13:22:13 +0100
+from: jean-marc notin &lt;<notin@lix.polytechnique.fr>&gt; the bug is now fixed windows packages for 8.1pl4 and 8.2beta4 have been rebuilt .

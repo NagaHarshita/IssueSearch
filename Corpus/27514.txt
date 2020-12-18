@@ -1,0 +1,1 @@
+ URL : "https://github.com/desklabs/shopify-canvas/issues/6" TITLE : design order lookup BODY : customer should be able to click a lookup order button, be displayed with a search bar, enter an order id and then: 1. expand the order 2. if no order is found, display message saying so.

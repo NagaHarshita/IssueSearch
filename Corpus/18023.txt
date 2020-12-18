@@ -1,0 +1,1 @@
+ URL : "https://github.com/florent37/SingleDateAndTimePicker/issues/87" TITLE : set selected date BODY : i must comment this is a great one. however i am trying to set the selected date to a time using timezone- selecttime doesn't work either... ; what method do i use for that, selectdate does not do the job. thanks in advance hanna

@@ -1,0 +1,1 @@
+ URL : "https://github.com/nhaarman/mockito-kotlin/issues/147" TITLE : verifying property setter BODY : is it possible to do this? interface foo { val bar: string } class baz private val foo: foo { fun setbar bar: string { foo.bar = bar } } @test fun testsettingbar { val foo: foo = mock val baz = baz foo baz.setbar test verify foo.bar // how do i verify the value it was set to? }

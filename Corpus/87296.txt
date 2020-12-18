@@ -1,0 +1,1 @@
+ URL : "https://github.com/gratipay/gratipay.com/issues/4558" TITLE : keep better email records BODY : i'm having a harder time debugging https://github.com/gratipay/gratipay.com/issues/4557 because we don't have a log of the all of the emails we've sent.

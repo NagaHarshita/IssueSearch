@@ -1,0 +1,1 @@
+ URL : "https://github.com/dotansimha/angularjs-dropdown-multiselect/issues/435" TITLE : correction in readme file BODY : the readme says: make sure to add the dependencies before the directive's js file. i believe it should say: make sure to add the dependencies before the directive's html file.

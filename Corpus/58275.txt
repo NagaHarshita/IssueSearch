@@ -1,0 +1,1 @@
+ URL : "https://github.com/RainLoop/rainloop-webmail/issues/1532" TITLE : send keyboard shortcut BODY : rainloop version, browser, os: rainloop 1.11.3, chrome 61.0.3163.100 64 bit , win 10 1703 expected behavior and actual behavior: it would be nice to have a shortcut for sending a mail. like ctrl + enter default for gmail. steps to reproduce the problem: logs or screenshots:

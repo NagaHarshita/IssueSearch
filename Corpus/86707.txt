@@ -1,0 +1,1 @@
+ URL : "https://github.com/trussle/snowy-js-client/issues/8" TITLE : implement journalling api BODY : currently the js-client talks to snowy in a two step api request, when it's possible to just do it in one. we should use the new journalling api with multipart form post data.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/fex-team/kityformula/issues/11" TITLE : latex arrays support BODY : how is it possible to implement arrays and matrix in the predefined formulas supported in the library? matrix > \begin{matrix} a & b & c \\ d & e & f \\ g & h & i \end{matrix} > array > \begin{array}{c|c} 1 & 2 \\ \hline 3 & 4 \end{array}

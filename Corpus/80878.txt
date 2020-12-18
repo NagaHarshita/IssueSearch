@@ -1,0 +1,1 @@
+ URL : "https://github.com/zenorocha/clipboard.js/issues/443" TITLE : use in elementui popover BODY : minimal example jsfiddle https://jsfiddle.net/5kk0eysw/38/ expected behaviour copy text in popover actual behaviour nothing happened. neither success nor error. browsers affected can not copy

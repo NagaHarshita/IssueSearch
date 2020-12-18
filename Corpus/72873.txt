@@ -1,0 +1,1 @@
+ URL : "https://github.com/XLabs/Xamarin-Forms-Labs/issues/1316" TITLE : checkbox eventargs error BODY : hi trying to use the checkbox provided in controls. getting 1 error on compile: public event eventhandler<eventargs<bool>> checkedchanged; is getting the non-generic type system.eventargs cannot be used with the type arguments. cs0308 any ideas?

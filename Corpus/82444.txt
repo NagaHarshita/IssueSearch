@@ -1,0 +1,1 @@
+ URL : "https://github.com/WebDevStudios/wd_s/issues/252" TITLE : add travis ci integration BODY : on each push and pr, travis needs to run phpcs, eslint, and sass lint! configure .travis.yml to do just that.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/eclipse/paho.mqtt.c/issues/206" TITLE : autoconnect does not work BODY : hi, when i disconnect with internet,the callback of losing connection will be called.when i check the status calling mqttclient_isconnected ,i found it still remained disconnected.please check.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/googledrive/android-demos/issues/59" TITLE : connection timed out BODY : hello, i imported the demo and got this error : error:connection timed out: connect. if you are behind an http proxy, please configure the proxy settings either in ide or gradle. can you explain what can i do to solve this error?

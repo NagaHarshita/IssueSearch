@@ -1,0 +1,1 @@
+ URL : "https://github.com/libratbag/libratbag/issues/399" TITLE : ratbagctl --nocommit flag BODY : while reviewing 397 i realised that ratbagctl could easily add a --nocommit flag that does not call commit after the setting has been changed. this way it'd be easy enough to batch multiple ratbactl commands without hammering the hardware all the time.

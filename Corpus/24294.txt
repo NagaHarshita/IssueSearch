@@ -1,0 +1,1 @@
+ URL : "https://github.com/DSpeckhals/python-indent/issues/38" TITLE : slow loading time? BODY : hi, first of all, great repo - thanks for it! i just want to mention that it's currently by far the slowest-loading plugin, at 687ms. the second slowest is only 24ms. i wonder if there's a bug or if there's anything that can be done about it? i'm on atom 1.15, macos 10.12. thanks!

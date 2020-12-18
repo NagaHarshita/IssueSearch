@@ -1,0 +1,1 @@
+ URL : "https://github.com/Tendrl/usmqe-tests/issues/91" TITLE : enhance wait_for function BODY : now wait_for function waits till job is in finished of failed state. there is timeout fo about 1 hour. i think that it should be changed to have timeout since last task change. last update attribute can be checked or changes in list of messages.

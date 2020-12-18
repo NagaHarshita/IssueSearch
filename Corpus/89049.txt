@@ -1,0 +1,1 @@
+ URL : "https://github.com/abaldwin88/roamer/issues/11" TITLE : piping in a list of files BODY : would it be possible to accept a list of files to move, rather than listing the current directory? something like find -name ' .txt' | roamer , to list files that may be deeper than the current directory?

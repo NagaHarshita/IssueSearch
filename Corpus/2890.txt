@@ -1,0 +1,1 @@
+ URL : "https://github.com/chapmanmp/NetworkControl/issues/1" TITLE : fit ar models BODY : assume that latency evolves as an ar k process. we have 4 trials per route, so we should fit a model for each route using 1-3 of these trials and validate on the other s .

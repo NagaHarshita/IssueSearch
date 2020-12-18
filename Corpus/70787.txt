@@ -1,0 +1,1 @@
+ URL : "https://github.com/awslabs/amazon-kinesis-client-nodejs/issues/45" TITLE : zombie nodejs processes BODY : after kcl is working long time i see zombie nodejs processes which don't do anything. kcl starts new nodejs processes, but don't kill zombie processes. is anybody receive this problem?

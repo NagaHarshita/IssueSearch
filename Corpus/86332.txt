@@ -1,0 +1,1 @@
+ URL : "https://github.com/Dogfalo/materialize/issues/4733" TITLE : hoverable class is broken BODY : the hoverable class behaves weird. the shadow of the element with .hoverable. just look at the official materialize site and on the hoverable section, hover on the example and you see the shadow goes really black then it goes back to normal: http://materializecss.com/helpers.html

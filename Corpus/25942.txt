@@ -1,0 +1,1 @@
+ URL : "https://github.com/skane88/LoadCombinations/issues/1" TITLE : add loadcase class. BODY : need to add a loadcase class, to take a collection of load groups and generate all the load combinations that the case contains.

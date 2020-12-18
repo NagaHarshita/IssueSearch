@@ -1,0 +1,1 @@
+ URL : "https://github.com/dduxx/jcopy/issues/2" TITLE : support copying for mysql BODY : jcopy will use the mysql 'infile' and 'outfile' syntax to support the following features: - copying from a file to a table - copying from a table to a file - support for column specifications - support for all mysql inflie and outfile arguments

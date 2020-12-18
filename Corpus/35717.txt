@@ -1,0 +1,1 @@
+ URL : "https://github.com/florianfesti/boxes/issues/52" TITLE : export to pdf or dxf BODY : most of the software i've seen for working with laser cutters doesn't support svg or ps... would really appreciate if you could implement dxf or pdf as an output option as theres no good path to go from svg to dxf that i've been able to find.

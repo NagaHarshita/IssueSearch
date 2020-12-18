@@ -1,0 +1,1 @@
+ URL : "https://github.com/JoshuaLight/Eternity/issues/67" TITLE : eternity-38: create lazy . BODY : lazy<t> - is a struct , that will create it's internal value of type t on demand.

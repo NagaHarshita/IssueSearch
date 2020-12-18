@@ -1,0 +1,1 @@
+ URL : "https://github.com/ryankurte/authplz-ui/issues/5" TITLE : fix architecture / flow BODY : currently just a set of pages. should automatically route users to the correct page eg. login, account based on user state, and move between pages sensibly eg. login -> 2fa selector -> fido authorize -> account .

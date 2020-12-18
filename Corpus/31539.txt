@@ -1,0 +1,1 @@
+ URL : "https://github.com/EtchedPixels/FUZIX/issues/567" TITLE : sound chip support? BODY : i am sorry. i noticed that there are no drivers for psg and fm sound sources in fuzix. how about putting it in?

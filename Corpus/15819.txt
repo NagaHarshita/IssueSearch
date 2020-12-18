@@ -1,0 +1,1 @@
+ URL : "https://github.com/steelbrain/flow-ide/issues/109" TITLE : flow lint support BODY : i'm trying to use the new flow lint https://medium.com/flow-type/linting-in-flow-7709d7a7e969 and the warnings don't seem to show up in my editor. they do if i run flow directly, so i'm guessing this might be due to flow-ide.

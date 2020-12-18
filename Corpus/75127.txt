@@ -1,0 +1,1 @@
+ URL : "https://github.com/NSW-OEH-EMS-KST/grid-garage/issues/168" TITLE : geodata - generate names BODY : i think you can remove the 'output file workspace optional :' from this tool.. the only output is a table. ! gg_generatenames https://user-images.githubusercontent.com/4453449/29054068-1caa8c56-7c37-11e7-8bf6-cbd55c93fa21.jpg

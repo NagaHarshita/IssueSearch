@@ -1,0 +1,1 @@
+ URL : "https://github.com/hexojs/hexo/issues/2501" TITLE : generate --drafts support BODY : would be nice to be able to generate the contents of /public including the drafts. useful for _staging_ environments and reviews.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Cognifide/knotx/issues/237" TITLE : form submission failed BODY : action knot sets response status code to 301. it means that user should be redirected to new location - we should not futher process this request. currently assebler processes request and responds with error.

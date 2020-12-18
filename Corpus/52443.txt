@@ -1,0 +1,1 @@
+ URL : "https://github.com/hypeapps/episodie/issues/17" TITLE : code coverage is zero? BODY : hi, i am trying to determine the code coverage but i am amazed to find that jacoco plugin reports zero unit test coverage although a sizeable amount of unit tests exist. am i missing something here?

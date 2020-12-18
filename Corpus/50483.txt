@@ -1,0 +1,1 @@
+ URL : "https://github.com/picturepan2/spectre/issues/171" TITLE : /dist folder in github BODY : hi, it isn't a best practice to commit the dist folder to the version control system. i would be nice if gulp generate it only when running the gulpfile locally. i imagine you do that to facilitate distribution. but a separate folder would be better. just my 2c.

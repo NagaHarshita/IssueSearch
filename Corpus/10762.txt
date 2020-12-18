@@ -1,0 +1,1 @@
+ URL : "https://github.com/paintballrefjosh/MaNGOSWebV4/issues/55" TITLE : demo not working BODY : page generate error: couldnt run query: select from mw_realm where realm_id='1' error: file './mangosweb/mw_realm.myd' not found errcode: 30 - read-only file system

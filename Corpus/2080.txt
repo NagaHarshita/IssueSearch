@@ -1,0 +1,1 @@
+ URL : "https://github.com/steinarsa/run-app/issues/19" TITLE : set up auth0 BODY : set up auth0 instead of firebaseauth, which is currently in use.

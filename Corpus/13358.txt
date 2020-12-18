@@ -1,0 +1,1 @@
+ URL : "https://github.com/jaungiers/LSTM-Neural-Network-for-Time-Series-Prediction/issues/13" TITLE : type error int32 BODY : when i runs, lstm.py appears one error in line 53 return_sequences=true . the error is that expected int32, got list containing tensors of type '_message' instead

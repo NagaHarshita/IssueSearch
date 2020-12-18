@@ -1,0 +1,1 @@
+ URL : "https://github.com/leonard-thieu/players-service/issues/26" TITLE : need tests for installer BODY : tests should check required files are not missing installer is authored correctly

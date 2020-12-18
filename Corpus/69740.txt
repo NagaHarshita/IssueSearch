@@ -1,0 +1,1 @@
+ URL : "https://github.com/ioncodes/GitSpector/issues/1" TITLE : tray exit not triggered BODY : either the menuitem click on 'exit' after right-click on the tray icon doesn't get trigerred, or app.quit ; does not work within that context.

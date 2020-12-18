@@ -1,0 +1,1 @@
+ URL : "https://github.com/quantling/pyndl/issues/85" TITLE : error code -1160725808 BODY : occasionally, the following bug appears. no idea so far what is the reason for it. file pyndl/ndl_parallel.pyx , line 65, in pyndl.ndl_parallel.learn_inplace pyndl/ndl_parallel.c:2085 oserror: binary files does not have proper format, error code -1160725808

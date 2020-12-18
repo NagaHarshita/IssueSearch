@@ -1,0 +1,1 @@
+ URL : "https://github.com/redaxo/redaxo/issues/1448" TITLE : rex_validator : unique BODY : ein bsp. wäre die definition eines eindeutigen namespaces. https://github.com/yakamara/redaxo_yfeed/blob/master/pages/streams.php l133-l138

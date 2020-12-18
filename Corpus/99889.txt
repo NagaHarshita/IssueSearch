@@ -1,0 +1,1 @@
+ URL : "https://github.com/ytti/oxidized/issues/901" TITLE : node not found with groups BODY : when i try to fetch a node, it only works if i put the group on the url, if i put fetch/node/nodeid it gives a node not found. is this by design? or should it work both with group and without?

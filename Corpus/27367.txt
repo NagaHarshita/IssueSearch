@@ -1,0 +1,1 @@
+ URL : "https://github.com/adolfintel/speedtest/issues/32" TITLE : cross origin worker BODY : is it possible to create a web worker calling speedtest_worker.js from another domain? i.e. var worker=new worker https://path/to/speedtest_worker.js ;

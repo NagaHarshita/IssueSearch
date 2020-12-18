@@ -1,0 +1,1 @@
+ URL : "https://github.com/awsmug/shipcloud-for-woocommerce/issues/134" TITLE : own endpoint for returns BODY : normal and return labels are handled over one endpoint messing up the data flow, calculation and stability of future changes. let's create a custom ajax endpoint for that. -see includes/js/shipcloud-label-form.js:90

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jstedfast/MailKit/issues/598" TITLE : mailkit to get mail BODY : system.notsupportedexception: no data is available for encoding 51936. for information on defining a custom encoding, see the documentation for the encoding.registerprovider method.

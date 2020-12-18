@@ -1,0 +1,1 @@
+ URL : "https://github.com/SlaxWeb/Output/issues/1" TITLE : view mode constants BODY : add view mode constants to the main output component class, \slaxweb\output\manager , as defined in the documentation. part of slaxweb/framework 137

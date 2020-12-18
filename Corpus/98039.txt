@@ -1,0 +1,1 @@
+ URL : "https://github.com/Tankika/msc-diploma/issues/22" TITLE : implement new poll feature BODY : depends on 21 - in a modal - enabled only, when there is no poll - user can add poll options - save, when finished

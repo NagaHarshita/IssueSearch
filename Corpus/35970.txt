@@ -1,0 +1,1 @@
+ URL : "https://github.com/daily-bruin/meow/issues/53" TITLE : fix slack timestamps BODY : the time meow is reporting on slack looks like a utc time instead of the set timezone. needs a fix.

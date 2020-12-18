@@ -1,0 +1,1 @@
+ URL : "https://github.com/ngetchell/ansible-powershell/issues/10" TITLE : 64 bit only repo BODY : i get the following error after install the powershell repository. n: skipping acquire of configured file 'main/binary-i386/packages' as repository the offending line is here: https://github.com/ngetchell/ansible-powershell/blob/master/tasks/os_debian.yml l12

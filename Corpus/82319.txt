@@ -1,0 +1,1 @@
+ URL : "https://github.com/ncss-tech/soilReports/issues/38" TITLE : add slope class breakdown BODY : 1. slope class defs in config.r 2. classify slope map if there is one and present as proportions 3. sanity checks

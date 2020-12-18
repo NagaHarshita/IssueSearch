@@ -1,0 +1,1 @@
+ URL : "https://github.com/EllenFawkes/PurrplingBot/issues/14" TITLE : remove dual apostrophes BODY : story i found in log 24.07.2017 10:11:18.412 error error while loading plugin ''nextstream.js'' plugin name has a 2 apostrophes before and after keyword. resolution remove useless apostrophes from code.

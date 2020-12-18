@@ -1,0 +1,1 @@
+ URL : "https://github.com/IdentityServer/IdentityServer4/issues/1159" TITLE : azure key vault BODY : hi, does anyone have any advice about using azure key vault for storing asymmetric keys for use in identityserver? i can only find limited information about using certificates, but i'd rather use an rsasecuritykey. thanks,

@@ -1,0 +1,1 @@
+ URL : "https://github.com/kotcrab/vis-editor/issues/275" TITLE : update to libgdx 1.9.7 BODY : release 1.4.0 for libgdx 1.9.6 merge changes to ui classes from libgdx release 1.4.1 for libgdx 1.9.7 update setup tools

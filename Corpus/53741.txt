@@ -1,0 +1,1 @@
+ URL : "https://github.com/dipit2007/larastore/issues/7" TITLE : error running composer BODY : after running composer for the first time i got an error: declaration of amsgames\laravelshop\laravelshopprovider::boot should be compatible with illuminate\foundation\support\providers\routeserviceprovider::boot

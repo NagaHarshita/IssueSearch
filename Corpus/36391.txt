@@ -1,0 +1,1 @@
+ URL : "https://github.com/dnoursi/fuzzer-test-suite/issues/21" TITLE : harfbuzz doesnt work BODY : make: no rule to make target 'hb-ucdn/libhb-ucdn.la', needed by 'libharfbuzz-fuzzing.la'. stop.

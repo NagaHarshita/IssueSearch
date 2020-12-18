@@ -1,0 +1,1 @@
+ URL : "https://github.com/gyuho/psn/issues/45" TITLE : pipe 'top' output BODY : running 'top' command every second might not be accurate. we need to stream 'top' output and get real-time metrics.

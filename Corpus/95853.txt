@@ -1,0 +1,1 @@
+ URL : "https://github.com/yahoo/fili/issues/347" TITLE : document changelog process BODY : be sure to underline that current changes can be modified in unstable ways and shouldn't be considered stable from a public api point of view.

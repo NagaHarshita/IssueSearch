@@ -1,0 +1,1 @@
+ URL : "https://github.com/digitalocean/netbox/issues/848" TITLE : issue: tenant sorting BODY : it seems that by default netbox sorts the list of tenants using the group name instead of the tenant name? where there are multiple groups, the list is built per group and not as a total list. example: abc001 - group1 abc002 - group1 def001 - group1 abc002 - group2 def002 - group2

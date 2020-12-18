@@ -1,0 +1,1 @@
+ URL : "https://github.com/kuassivi/InterviewTest/issues/7" TITLE : enable instant run BODY : description _upgrade gradle version in order to allow instant run._ checklist - description provided. - correct label applied. bug , feature , enhancement , question , etc. - needs a card raised in the project workflow https://github.com/kuassivi/interviewtest/projects/1 .

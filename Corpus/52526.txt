@@ -1,0 +1,1 @@
+ URL : "https://github.com/ReactiveCocoa/ReactiveSwift/issues/357" TITLE : compatibility ci tests BODY : akin to the swift compatibility suite, perhaps we should add ci tasks which build a set of depending projects, e.g. carthage. /cc @reactivecocoa/reactiveswift

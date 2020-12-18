@@ -1,0 +1,1 @@
+ URL : "https://github.com/opsdroid/opsdroid/issues/353" TITLE : add windows support BODY : currently opsdroid does not support native running on windows. there are some assumptions around handling signals which are probably preventing it from working. see 352 for example . it would be great to get this working on windows.

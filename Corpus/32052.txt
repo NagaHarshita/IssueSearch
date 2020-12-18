@@ -1,0 +1,1 @@
+ URL : "https://github.com/sochix/TLSharp/issues/545" TITLE : tlsharp on xamarin? BODY : because of dotnetzip package dependency we cant install tlsharp on xamarin. is there any way to install on it? where dotnetzip package used in tlsharp? can we manually remove it from source?

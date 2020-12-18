@@ -1,0 +1,1 @@
+ URL : "https://github.com/metadevpro/traitbaser/issues/1" TITLE : helper functions needed BODY : i added to my fork cleanspecies depends on taxize, which needs to be pre-loaded and parseerrors . in addition, i need to build two more functions: credit to give credit already formated for a bunch of id's and search as a wrapper for resorce and query .

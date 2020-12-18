@@ -1,0 +1,1 @@
+ URL : "https://github.com/kobotoolbox/kpi/issues/1124" TITLE : api token endpoint BODY : discuss any improvements? django apps we can leverage to increase security? replicate kc's /<username>/api-token feature in a kpi endpoint

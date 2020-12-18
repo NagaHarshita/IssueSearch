@@ -1,0 +1,1 @@
+ URL : "https://github.com/brunosardinepi/pagefund/issues/137" TITLE : test stripe donations BODY : i don't know how to do this but we need to be able to run django tests that will confirm donations are going through to stripe

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jonthornton/jquery-timepicker/issues/638" TITLE : dynamically created inputs BODY : hi, i want to use inputmask in my project with that bootstrap snippet http://bootsnipp.com/snippets/featured/multiple-fields . but time picker and datepair.js doesn't work with new inputs. and i don't know how do it, please help me. thanks! sorry for my bad english.

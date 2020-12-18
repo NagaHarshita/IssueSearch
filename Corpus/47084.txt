@@ -1,0 +1,1 @@
+ URL : "https://github.com/theuves/cpf-cli/issues/1" TITLE : non unix line endings BODY : right after $ npm install -g cpf-cli , on $ cpf -? it gives me the error /usr/bin/env: ‘node\r’: no such file or directory . as stated in https://github.com/npm/npm/issues/12371, the problem is the windows line ending in bin script.

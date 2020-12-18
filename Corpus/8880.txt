@@ -1,0 +1,1 @@
+ URL : "https://github.com/oubiwann/cmr-client/issues/11" TITLE : set up travisci BODY : configuration setup project setup on github/travisci only run unit tests for both clj & cljs

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Dateranoth/ConanExilesServerUtility/issues/14" TITLE : daily restart broken BODY : daily restart is not working on either branch. believe the issue is with new time loop.

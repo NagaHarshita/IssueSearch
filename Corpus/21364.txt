@@ -1,0 +1,1 @@
+ URL : "https://github.com/chubin/wttr.in/issues/126" TITLE : failing on install BODY : hi, so i tried following the readme, but after starting the srv.py it 'updates' the .wegorc file and then giving me an error about depracted settings so it doesn't accept cities but longitudes/latitudes

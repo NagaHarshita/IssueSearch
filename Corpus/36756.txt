@@ -1,0 +1,1 @@
+ URL : "https://github.com/PerformanceVision/ramen/issues/76" TITLE : implement word count BODY : now that we have split, build a word count demo. implement both variants of the word count: one that output a comprehensive count every n seconds and one that output the new count for each word when it changes.

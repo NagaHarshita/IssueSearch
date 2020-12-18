@@ -1,0 +1,1 @@
+ URL : "https://github.com/itijyou/ademxapp/issues/10" TITLE : version of mxnet BODY : i have tested three models, ade20k_rna-a1_cls150_s8_ep-0001, voc_rna-a1_cls21_s8_coco_ep-0001, and voc_rna-a1_cls21_s8_ep-0001. all of them produced very very low mean ious. please let me know the verion of mxnet you are using currently. i would like to re-test these models. thanks!

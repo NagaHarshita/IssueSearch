@@ -1,0 +1,1 @@
+ URL : "https://github.com/thombergs/budgeteer/issues/161" TITLE : roles for users BODY : currently every user is by default an admin. it would be better if bugeteer would implement some sort of role concept for users. right now this is only possible by using the keycloak adapter.

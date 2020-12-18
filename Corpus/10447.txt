@@ -1,0 +1,5 @@
+ URL : "https://github.com/Anachron/hw-battalion/issues/2" TITLE : changes for 0.33 BODY : general
+- change messages crate +20 -> +20hp king mode
+- king dies = team looses
+- fix king messages total hp -> hp-change points mode
+- add girder with 3 rounds cooldown

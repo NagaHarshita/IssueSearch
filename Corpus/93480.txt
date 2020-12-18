@@ -1,0 +1,1 @@
+ URL : "https://github.com/Collins33/food-palace/issues/1" TITLE : add upper limit for review BODY : the ratings that people give could exceed the expected number. add an upper limit so that one can be able to rate according to your metrics.

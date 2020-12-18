@@ -1,0 +1,1 @@
+ URL : "https://github.com/Redridge/open-source-machlib/issues/15" TITLE : linux format warnings BODY : find a way to get rid of the warnings that appear when printing stuff due to the different ways that linux and macos handle uint64 . ideally a set of os depending define s should be placed in order to specify which format strings are to be used.

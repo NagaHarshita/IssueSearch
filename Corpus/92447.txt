@@ -1,0 +1,1 @@
+ URL : "https://github.com/versionpress/versionpress/issues/1226" TITLE : wplang regression in v4.0 BODY : originally resolved in 450 for vp 2.0, wplang shouldn't beat real options. it currently happens on versionpress 4.0-alpha1: ! image https://cloud.githubusercontent.com/assets/101152/26282330/159e6956-3e10-11e7-8278-7829287be8ec.png

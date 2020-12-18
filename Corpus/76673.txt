@@ -1,0 +1,1 @@
+ URL : "https://github.com/evernote/android-job/issues/174" TITLE : log with a custom logger BODY : hello ralf and evernote, according to the faq, this seems to be the way to add a custom logger: jobcat.addlogprinter new testprinter ; however it seems jobcat does no longer has this static method for quite some time. is there any workaround? thanks!

@@ -1,0 +1,1 @@
+ URL : "https://github.com/stffabi/watchtower/issues/4" TITLE : date/time format changes BODY : hi, can the application be updated so that logrus outputs the date/time format in a more human readable format? i.e. yyyy-mm-dd hh:mm;ss ?

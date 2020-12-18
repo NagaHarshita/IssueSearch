@@ -1,0 +1,1 @@
+ URL : "https://github.com/chaosbot/chaos/issues/187" TITLE : port 8080 is exposed BODY : one would expect that the port 8080 is only binded to localhost, instead it's publicly opened. http://chaosthebot.com:8080/

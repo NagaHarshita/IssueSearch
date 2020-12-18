@@ -1,0 +1,1 @@
+ URL : "https://github.com/ChristianMurphy/compile-to-web/issues/18" TITLE : add plz typescript BODY : compilers: - assemblyscript https://github.com/assemblyscript/assemblyscript - turboscript https://github.com/01alchemist/turboscript not maintained anymore - speedy.js https://github.com/michareiser/speedy.js

@@ -1,0 +1,1 @@
+ URL : "https://github.com/oneup40/oneup-gb/issues/11" TITLE : clang build failing BODY : adding travis integration revealed that the project currently fails to build with clang. fix it.

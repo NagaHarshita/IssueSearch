@@ -1,0 +1,1 @@
+ URL : "https://github.com/Macaulay2/M2/issues/682" TITLE : \overline tex to html BODY : we can use css to implement tex to html translation of the \overline macro as in https://en.wikipedia.org/wiki/overline html_with_css .

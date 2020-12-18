@@ -1,0 +1,1 @@
+ URL : "https://github.com/angular/material2/issues/6054" TITLE : copy/paste from mdtable BODY : it's not currently possible to copy from an mdtable and paste into an excel or similar spreadsheet. this is standard for html tables. is this something that will be added?

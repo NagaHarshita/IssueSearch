@@ -1,0 +1,1 @@
+ URL : "https://github.com/eclipse/kapua/issues/658" TITLE : use jpa 2 meta models BODY : instead of hardcoding field names i think it would be easier to use jpa 2 meta models and criteria queries.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mdmsoft/yii2-admin/issues/344" TITLE : create permission error BODY : php warning – yii\base\errorexception missing argument 1 for mdm\admin\models\authitem::find , called in c:\data\vhosts\diancanbao\vendor\yiisoft\yii2\validators\uniquevalidator.php on line 210 and defined

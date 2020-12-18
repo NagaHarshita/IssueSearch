@@ -1,0 +1,1 @@
+ URL : "https://github.com/wpm/bisemantic/issues/1" TITLE : rewrite using mycroft BODY : use the mycroft https://github.com/wpm/mycroft text classification framework. that will cut down on the code here, and prove that mycroft is viable as a programmatic interface.

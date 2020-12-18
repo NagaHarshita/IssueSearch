@@ -1,0 +1,1 @@
+ URL : "https://github.com/mrsteele/dotenv-webpack/issues/80" TITLE : expanding env vars? BODY : is it possible to expand variables? i see you are using dotenv dependency https://github.com/motdotla/dotenv-expand/blob/master/test/.env https://www.npmjs.com/package/dotenv can-i-customizewrite-plugins-for-dotenv

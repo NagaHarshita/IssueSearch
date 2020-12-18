@@ -1,0 +1,1 @@
+ URL : "https://github.com/StudentCV/PyPylon/issues/5" TITLE : wheel for win10 cp36 BODY : are there plans to provide wheels for newer systems? trying to pip install pypylon-1.0.7+pylon5.0.5.8999-cp35-none-win_amd64.whl , but pypylon-1.0.7+pylon5.0.5.8999-cp35-none-win_amd64.whl is not a supported wheel on this platform. i am on win10, pylon 5.0.11 64-bit.

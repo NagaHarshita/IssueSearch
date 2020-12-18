@@ -1,0 +1,1 @@
+ URL : "https://github.com/codekidX/storage-chooser/issues/29" TITLE : gradle : failed to resolve BODY : i added below to app level gradle and it throws error after sync gradle. compile 'com.github.codekidx:storage-chooser:1.0.33' error: 71, 13 failed to resolve: com.github.codekidx:storage-chooser:1.0.33

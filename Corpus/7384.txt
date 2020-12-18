@@ -1,0 +1,1 @@
+ URL : "https://github.com/YaroslavYakymenko/SpringProject/issues/9" TITLE : fix modal login BODY : 1. move login modal form to login.jsp 2. run form on document.ready 3. change spring security mapping and post login page 4. add login.jsp ref to :100: login button 5. unsuccessful login should be handled by /login.jsp?error=true

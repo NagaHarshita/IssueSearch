@@ -1,0 +1,1 @@
+ URL : "https://github.com/jkuri/ngx-uploader/issues/324" TITLE : how to send data per file BODY : how do i send data in the data object, per file, for multiple uploads?

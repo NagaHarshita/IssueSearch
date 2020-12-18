@@ -1,0 +1,20 @@
+ URL : "https://github.com/OCA/l10n-switzerland/issues/355" TITLE : migration to version 11.0 BODY : todo https://github.com/oca/maintainer-tools/wiki/migration-to-version-11.0 modules to migrate - l10n_ch_bank
+- l10n_ch_base_bank
+- l10n_ch_credit_control_payment_slip_report
+- l10n_ch_dta
+- l10n_ch_fds_postfinance
+- l10n_ch_fds_upload_dd
+- l10n_ch_fds_upload_sepa
+- l10n_ch_hr_payroll
+- l10n_ch_hr_payroll_report
+- l10n_ch_import_cresus
+- l10n_ch_import_winbiz
+- l10n_ch_pain_base
+- l10n_ch_pain_credit_transfer
+- l10n_ch_pain_direct_debit
+- l10n_ch_payment_slip
+- l10n_ch_payment_slip_account_statement_base_completion
+- l10n_ch_payment_slip_layouts
+- l10n_ch_scan_bvr
+- l10n_ch_states
+- l10n_ch_zip

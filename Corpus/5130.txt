@@ -1,0 +1,1 @@
+ URL : "https://github.com/nuagenetworks/visualization-framework/issues/526" TITLE : logged in user BODY : anil, on all the dashboard, we need to find a place may be top right corner to show logged in user. like: logged in as: <user> you can assume user will be passed as context in url and if it is not present than we should now show this.

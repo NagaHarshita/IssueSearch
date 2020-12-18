@@ -1,0 +1,1 @@
+ URL : "https://github.com/PPAV-inc/broadcast-server/issues/13" TITLE : redirect server 紀錄 BODY : 目前只記錄點了哪些片子然後去加 view_count 不夠 要記錄哪些片被點最多次、整個 log 紀錄，要有 timestamp

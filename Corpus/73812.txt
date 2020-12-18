@@ -1,0 +1,1 @@
+ URL : "https://github.com/itzg/dockerfiles/issues/130" TITLE : deprecate logstash image BODY : the ease of use of the official logstash image has now outweighed the cost of maintaining a separate one. as such, the one here in dockerfiles can be deprecated.

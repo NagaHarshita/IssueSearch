@@ -1,0 +1,1 @@
+ URL : "https://github.com/sctcs/v2016/issues/54" TITLE : batch entry of payments BODY : a collector enter a list of comma separated family ids into an input text box; ids are validated, invalid ones are noted, and valid ones are returned in a spreadsheet input form; payments are entered and saved;

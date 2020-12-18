@@ -1,0 +1,1 @@
+ URL : "https://github.com/RWTH-OS/HermitCore/issues/75" TITLE : hermitcore shutdown hangs BODY : sometimes hc at least with uhyve does not shutdown correctly and seems to hangs indefinitely. to reproduce just use cobench https://github.com/jbreitbart/cobench on kermit with a subset of the npb. feel free to use the config in my home.

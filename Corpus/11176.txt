@@ -1,0 +1,1 @@
+ URL : "https://github.com/austinhuang0131/discordtel/issues/79" TITLE : fix json imports BODY : some json imports aren't done properly, and are imported like ./json/file.js when they should be imported like ./../json/file.js/ if the command file is inside another folder.

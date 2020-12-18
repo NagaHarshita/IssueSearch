@@ -1,0 +1,1 @@
+ URL : "https://github.com/voidlinux/xbps/issues/268" TITLE : -q or --quiet option? BODY : it might be useful to have such option s to xbps commands for no output, except a correct and relevant exit status. this would be particularly useful in scripting, etc.

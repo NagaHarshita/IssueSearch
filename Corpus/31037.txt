@@ -1,0 +1,1 @@
+ URL : "https://github.com/bskinn/excel-mregress/issues/18" TITLE : resizable main form BODY : will have to figure out auto-resize/-reposition of the form components, and probably also enforce minima on the height/width of the form?

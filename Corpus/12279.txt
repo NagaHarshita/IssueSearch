@@ -1,0 +1,1 @@
+ URL : "https://github.com/remy/nodemon/issues/1125" TITLE : node_env not set BODY : when i use node_env=development nodemon -e js,json,yaml,graphql --use_strict then '''node_end''' ist not set. it works when i use node_env=development nodemon -e js,json,yaml,graphql --use_strict i am on a mac

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mayflower/err-atlassian/issues/5" TITLE : show less link einfügen BODY : aktuell wird ein show more ... link bei zb issue creation angezeigt, um den kompletten inhalt des angelegten tickets lesen zu können. wenn ich via show more ... expande, habe ich keine möglichkeit mehr, das zu closen, weil ein show less link dann fehlt.

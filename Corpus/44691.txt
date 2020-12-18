@@ -1,0 +1,1 @@
+ URL : "https://github.com/kiwix/kiwix-android/issues/100" TITLE : fix checkstyle issues BODY : there are approximately 800 checkstyle warnings. we need to fix the issues or in some cases update rules.

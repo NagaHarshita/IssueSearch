@@ -1,0 +1,1 @@
+ URL : "https://github.com/teodorpatras/SideMenuController/issues/87" TITLE : viewdidload called twice BODY : viewdidload is getting called twice when i make embed call as below sidemenucontroller?.embed navcontroller,cacheidentifier: navvc1 please help me to resove

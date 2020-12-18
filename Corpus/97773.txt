@@ -1,0 +1,1 @@
+ URL : "https://github.com/graphql-python/graphene-sqlalchemy/issues/54" TITLE : how to join with get_query BODY : just trying to filter on a field from a foreign table. this doesn't seem to work def resolve_articles self, args, context, info : query = article.get_query context state_id = args.get 'authorname' return query.join author .filter author.name == authorname

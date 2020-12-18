@@ -1,0 +1,1 @@
+ URL : "https://github.com/JoseBarbero/SoundBrawl/issues/27" TITLE : implementar barra escudo BODY : implementar la barra de control de estado del escudo a nivel gráfico. que vaya de 0 a 100 con un gradiante de un color positivo a rojo.

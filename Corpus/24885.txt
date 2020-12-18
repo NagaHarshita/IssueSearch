@@ -1,0 +1,1 @@
+ URL : "https://github.com/gyrfalcon/init-new-mac/issues/2" TITLE : typo in tidy alias BODY : git tidy should be !git branch --merged | sed /^\\ /d | xargs git branch -d

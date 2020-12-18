@@ -1,0 +1,1 @@
+ URL : "https://github.com/sebassdc/mfox-dl/issues/5" TITLE : notification on finish BODY : when finished the download it should show a notification. this package should help. https://github.com/mikaelbr/node-notifier

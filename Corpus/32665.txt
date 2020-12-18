@@ -1,0 +1,1 @@
+ URL : "https://github.com/imagemin/imagemin/issues/248" TITLE : watch option in cli BODY : i'm struggling to find a substitute for gulp/grunt to automatically pickup changes and new files. i wish imagemin-cli had a --watch option.

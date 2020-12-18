@@ -1,0 +1,1 @@
+ URL : "https://github.com/kalugny/pypachy/issues/2" TITLE : update to 1.4 api BODY : pachyderm version 1.4 is being release tomorrow officially. we will need to update the client to the 1.4 api as there are a few differences. we would be happy to discuss the changes on slack or here, and happy to help where we are able. thanks!

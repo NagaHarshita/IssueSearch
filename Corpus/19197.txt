@@ -1,0 +1,1 @@
+ URL : "https://github.com/Jingeun/Address_jeongwoo/issues/1" TITLE : 개선 2017.06.13 BODY : b열 알리상품번호 암호화문자 파싱 어느순간부터 파싱이 되질 않음 우편번호 개선 서울특별시 우편번호 = 06118 -> 엑셀에서 0이 생략되어 6118로 나옴 상세주소 중복출력

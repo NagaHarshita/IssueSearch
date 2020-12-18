@@ -1,0 +1,1 @@
+ URL : "https://github.com/garyd203/flying-circus/issues/39" TITLE : deploy direct to aws BODY : provide tooling and utility functions to enable users to deploy a flying circus stack directly to aws, without having to go through the export-upload cycle.

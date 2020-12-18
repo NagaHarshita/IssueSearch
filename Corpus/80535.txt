@@ -1,0 +1,1 @@
+ URL : "https://github.com/danielgindi/Charts/issues/2561" TITLE : ugly spikes in linechart BODY : i drew linechartview with linechartdata. i added dots on data points but for some reason line go beyond the dots. can be removed? ! img_0042 https://user-images.githubusercontent.com/4774319/27579940-80cece24-5b29-11e7-9f13-0441a7e1f3b5.png

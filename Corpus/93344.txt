@@ -1,0 +1,1 @@
+ URL : "https://github.com/grote/Transportr/issues/346" TITLE : add route info for norway? BODY : there's an api for getting route info for norwegian public transport, some docs at https://api-test.rutebanken.org/doc/ the api is from entur as, a company owned by the norwegian ministry of transport and communications. documentation unfortunately seems quite thin at the moment.

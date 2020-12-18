@@ -1,0 +1,1 @@
+ URL : "https://github.com/keppelen/react-facebook-login/issues/177" TITLE : facebook picture too small BODY : how can i change the height and width of the profile picture from the console log - i am trying to display this on my app but there is no option to make it bigger. cssing to a bigger size makes it blurry.

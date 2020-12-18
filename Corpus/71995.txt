@@ -1,0 +1,1 @@
+ URL : "https://github.com/goto-bus-stop/tinyify/issues/6" TITLE : are sourcemaps possible? BODY : when using the -d flag on browserify, adding tinyify seems to be the difference between usable and unusable sourcemaps they seem to point to the right file, but not the line for me. i understand you only wrap other modules, but have you been able to get working sourcemaps? thanks!

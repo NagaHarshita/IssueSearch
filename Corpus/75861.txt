@@ -1,0 +1,1 @@
+ URL : "https://github.com/rocky-chen/address-book/issues/7" TITLE : implement a facade class BODY : please implement a facade class as a command line class to show: 1. how many males are in the address book? 2. who is the oldest person in the address book? 3. how many days older is bill than paul?

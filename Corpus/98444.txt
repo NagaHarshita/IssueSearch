@@ -1,0 +1,1 @@
+ URL : "https://github.com/AyeCode/invoicing/issues/5" TITLE : invoice not marked as paid BODY : i had an invoice for a gd product be paid and the ipn received but the invoice did not change to paid or record the ipn.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/phildenhoff/265Draw-seng-265/issues/4" TITLE : create bash scripts BODY : a bash script, such as rings.sh, uses generators, transformers and lines_to_svg.py to create new svg files.

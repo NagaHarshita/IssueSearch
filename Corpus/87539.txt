@@ -1,0 +1,1 @@
+ URL : "https://github.com/ssrwpo/ssr/issues/57" TITLE : location.search on server BODY : how to get the query parameters from the url on the server? the props.location.search parameter is always blank on server.

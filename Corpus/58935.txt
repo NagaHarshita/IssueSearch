@@ -1,0 +1,1 @@
+ URL : "https://github.com/asdf-vm/asdf/issues/144" TITLE : support r, racket, sml BODY : here a few plugins for racket https://github.com/nverno/asdf-racket , r https://github.com/nverno/asdf-r , and sml/nj https://github.com/nverno/asdf-sml . i don't know anything about macs though, so they are only tested on linux. let me know if i should add them/pull request.

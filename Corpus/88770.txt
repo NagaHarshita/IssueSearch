@@ -1,0 +1,2 @@
+ URL : "https://github.com/jendrikseipp/rednotebook/issues/229" TITLE : option to start minimized BODY : please add configuration option to start rednotebook minimized.
+i start it on session startup but don't use it immediately. therefore i would appreciate very much if rednotebook started minimized.

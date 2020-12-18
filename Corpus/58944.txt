@@ -1,0 +1,1 @@
+ URL : "https://github.com/UCLA-CS130/Caviar-Hacker-Grid/issues/41" TITLE : support streaming data BODY : currently data isn't streaming -- serving files is loaded into static memory bad idea 1, heap is better than stack all at once, and then put to the socket. instead, it should read some and write some data, then read some more data and write some more data.

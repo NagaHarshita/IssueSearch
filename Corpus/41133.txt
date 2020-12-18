@@ -1,0 +1,1 @@
+ URL : "https://github.com/gedaiu/fluent-asserts/issues/37" TITLE : wrong code sugestion BODY : d }↲↲ found should equal 1 . d } 91: > 92: found.should.equal 1 ;

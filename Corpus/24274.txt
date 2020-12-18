@@ -1,0 +1,1 @@
+ URL : "https://github.com/mineral-ui/mineral-ui/issues/176" TITLE : site stricter flow BODY : in the site package we have a bunch of flow types but they're not strict so random stuff is getting passed around and used still. this is defeating the purpose of using flow itfp

@@ -1,0 +1,1 @@
+ URL : "https://github.com/zalando/riptide/issues/265" TITLE : resilience: fan out BODY : a new plugin that fans out requests and uses the quickest reply.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/dotnet/corefx/issues/24751" TITLE : customer adoption epic BODY : this epic covers work we are doing in corefx to make it easier for existing .net framework customers to use .net core. for example, the recently announced portability package.

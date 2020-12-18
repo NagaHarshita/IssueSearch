@@ -1,0 +1,12 @@
+ URL : "https://github.com/andybotting/xbmc-addon-abc-iview/issues/2719" TITLE : end-user bug report BODY : automatic bug report from end-user. environment plugin name: abc iview plugin id: plugin.video.abc_iview plugin version: 1.8.0 xbmc/kodi version: 16.1 git:unknown python version: 2.7.12 default, may 6 2017, 11:35:28 gcc 4.8 operating system: linux2 linux 3.10.0 armv7l ip address: 137.59.252.186 isp : total server solutions, llc python path: /storage/emulated/0/android/data/com.xmedex.xmc/files/.xmc/addons/plugin.video.abc_iview
+/storage/emulated/0/android/data/com.xmedex.xmc/files/.xmc/addons/script.common.plugin.cache/lib
+/storage/emulated/0/android/data/com.xmedex.xmc/files/.xmc/addons/script.module.beautifulsoup/lib
+/storage/emulated/0/android/data/com.xmedex.xmc/files/.xmc/addons/script.module.requests/lib
+/
+/data/app/com.xmedex.xmc-1/base.apk/assets/python2.7/lib/python27.zip
+/data/app/com.xmedex.xmc-1/base.apk/assets/python2.7/lib/python2.7
+/data/app/com.xmedex.xmc-1/base.apk/assets/python2.7/lib/python2.7/plat-linux2
+/data/app/com.xmedex.xmc-1/base.apk/assets/python2.7/lib/python2.7/lib-tk
+/data/app/com.xmedex.xmc-1/base.apk/assets/python2.7/lib/python2.7/lib-old
+/data/app/com.xmedex.xmc-1/base.apk/assets/python2.7/lib/python2.7/lib-dynload
+/storage/emulated/0/android/data/com.xmedex.xmc/files/.xmc/addons/plugin.video.abc_iview/resources/lib traceback traceback most recent call last : file /storage/emulated/0/android/data/com.xmedex.xmc/files/.xmc/addons/plugin.video.abc_iview/resources/lib/play.py , line 45, in play p.parse_xbmc_url url file /storage/emulated/0/android/data/com.xmedex.xmc/files/.xmc/addons/plugin.video.abc_iview/resources/lib/classes.py , line 358, in parse_xbmc_url timestamp = time.mktime time.strptime d 'date' , '%y-%m-%d %h:%m:%s' importerror: failed to import _strptime because the import lockis held by another thread.

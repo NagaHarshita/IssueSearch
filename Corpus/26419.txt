@@ -1,0 +1,1 @@
+ URL : "https://github.com/codetodesign/NYUAMS/issues/691" TITLE : auto close projects BODY : we need the db to close projects after two weeks. this should only happen if the project has no active orders in it.

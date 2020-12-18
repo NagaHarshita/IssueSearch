@@ -1,0 +1,1 @@
+ URL : "https://github.com/RetroPie/EmulationStation/issues/272" TITLE : cap fps to 60 BODY : currently fps is not capped. if running es on a proper computer then fps reaches sky high. this might reduce cpu usage too. ! screenshot from 2017-10-27 10-48-58 https://user-images.githubusercontent.com/1689246/32129837-7a1574d4-bb41-11e7-9f4e-1ad4c32a75d9.png

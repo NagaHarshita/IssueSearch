@@ -1,0 +1,1 @@
+ URL : "https://github.com/statusengine/interface/issues/9" TITLE : show nodes by cluster BODY : hi, i know that we can select the cluster in the nodes, but can we group by cluster? in the same style as the display of services by hosts.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/minio/mc/issues/2334" TITLE : typo in mc cat BODY : there is a misspelling in mc cat help. should be changed to concatenate. 2. concantenate contents of file1.txt and stdin to standard output. $ {{.helpname}} file1.txt - > file.txt 3. concantenate multiple files to one. $ {{.helpname}} part. > complete.img in file cmd/cat-main.go

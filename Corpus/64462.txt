@@ -1,0 +1,1 @@
+ URL : "https://github.com/miekg/coredns/issues/509" TITLE : get test coverage > 50% BODY : we're regressing the test coverage, should prolly aim to get this > 50%. i do believe but haven't verified that codecov does not see the tests in the top level test directory, so i think we have more than what is says. but more is better of course.

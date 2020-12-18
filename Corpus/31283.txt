@@ -1,0 +1,1 @@
+ URL : "https://github.com/alexa-pi/AlexaPi/issues/238" TITLE : security profile id BODY : how can i add my security profile id? mistakenly skipped over the security profile id when prompted. i entered in everything else, client id, client secret, etc. which file is all of this information in as there is no creds.py?

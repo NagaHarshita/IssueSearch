@@ -1,0 +1,1 @@
+ URL : "https://github.com/otavanopisto/pyramus/issues/459" TITLE : genericdao casting issue BODY : in genericdao line 84 count function, the cast to integer is invalid because the query produces a long instead. this is rather straightfoward if you want to replicate just use the .count function,

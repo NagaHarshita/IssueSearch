@@ -1,0 +1,5 @@
+ URL : "https://github.com/k0shk0sh/FastHub/issues/312" TITLE : android n+ app shortcuts BODY : app version: 1.8.1 os version: 7.1.1 model: samsung-sm-g800f you could add launcher shortcuts in android 7.1+ in order for users to be able to have a quick access to things like:
+- the user's profile
+- the most frequently visited repo
+- the app settings
+- the app's notifications

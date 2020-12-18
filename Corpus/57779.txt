@@ -1,0 +1,1 @@
+ URL : "https://github.com/pyslackers/sirbot-pythondev/issues/92" TITLE : remove /moveto command BODY : while originally well-intentioned, the /moveto channel command seems to tend to stifle conversation instead of moving it to a better channel. imo it should be removed, and people should just ask kindly for the conversation to move. as @mrasband put it, it's a bit cold.

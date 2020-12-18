@@ -1,0 +1,1 @@
+ URL : "https://github.com/gregoryfoster/entersection-docker-wordpress/issues/3" TITLE : delete the example post BODY : update the docker composition to use wp-cli to delete the example post https://wp-cli.org/commands/post/delete/ .

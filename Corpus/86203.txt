@@ -1,0 +1,1 @@
+ URL : "https://github.com/mami-project/vpp-mb/issues/24" TITLE : handling ip fragmentation BODY : - taking care of the possible fragmentation when modifying ip length tcp options modification - matching, target

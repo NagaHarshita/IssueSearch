@@ -1,0 +1,1 @@
+ URL : "https://github.com/Alignak-monitoring-contrib/alignak-module-ws/issues/102" TITLE : statsd port error BODY : module ws raises an error on load: file /usr/local/lib/python2.7/site-packages/alignak_module_ws/ws.py , line 297, in __init__ int getattr mod_conf, 'statsd_port', '8125' , valueerror: invalid literal for int with base 10: ''

@@ -1,0 +1,1 @@
+ URL : "https://github.com/aaronellington/language-caddyfile/issues/3" TITLE : hyphens break highlighting BODY : ! screen shot 2017-10-15 at 2 21 09 am https://user-images.githubusercontent.com/6525926/31577081-a78355c2-b14f-11e7-9346-523d7da34321.png caddy 0.0.0.0:5000 { header / { strict-transport-security max-age=7776000; } }

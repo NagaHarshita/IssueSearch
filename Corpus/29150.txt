@@ -1,0 +1,1 @@
+ URL : "https://github.com/gertjanssenswillen/bupaR/issues/3" TITLE : issue with sample_n BODY : hi, thanks for your very useful package! i am having an issue using sample_n function: sottinsiemesx <- evl_f %>% bupar::sample_n 1000 error in usemethod case_id : no applicable method for 'case_id' applied to an object of class function evl_f is an eventlog object. any suggestion?

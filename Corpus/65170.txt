@@ -1,0 +1,1 @@
+ URL : "https://github.com/ChienliMa/DeConvNet/issues/2" TITLE : import downsample error BODY : the new version of theano has removed/renamed the max_pool_2d, resulting in an error in layers.py to resolve, change from theano.tensor.signal import downsample to from theano.tensor.signal import pool then, replace all instances of downsample.max_pool_2d with pool.pool2d

@@ -1,0 +1,1 @@
+ URL : "https://github.com/akshat1/simian-photo-server/issues/33" TITLE : add delete to crud module BODY : our crud module is only cru_ at the moment. we don't have delete methods for groups and pictures.

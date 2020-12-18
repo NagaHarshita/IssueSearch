@@ -1,0 +1,1 @@
+ URL : "https://github.com/ScatterHQ/eliot/issues/290" TITLE : generic coroutine support BODY : currently eliot dtrt for asyncio coroutines only. it would be good to support all event loops twisted, tornado, trio, curio, etc.. one option: https://docs.python.org/3/library/sys.html sys.set_coroutine_wrapper in python 3.7 might have context support, which would help too.

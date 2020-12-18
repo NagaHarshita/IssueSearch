@@ -1,0 +1,1 @@
+ URL : "https://github.com/dinyar/uGMTfirmware/issues/377" TITLE : fix serializer testbench BODY : currently the serializer testbench doesn't check the extrapolated coordinates. as this is tested in the larger system test it is not a pressing problem, but nevertheless should be resolved.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/BuiltBrokenModding/VoltzEngine/issues/67" TITLE : break down ve into modules BODY : voltzengine will still remain as a complete package on curse but will provide additional breakdowns to improve usability. in a way that a project can request 1 or few modules in the world space vs the entire ve set of frameworks & libs.

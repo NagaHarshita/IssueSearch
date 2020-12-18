@@ -1,0 +1,1 @@
+ URL : "https://github.com/mt2017-tartu-shared-task/nmt-system-D/issues/2" TITLE : baseline 1 smaller vocab BODY : please, take a smaller subset of your test set 50.000 sentences and compute bleu on this do not forget to undo preprocessing as described in lab3 text . compare to the bleu of 1000.000 and write a line about it in your report.

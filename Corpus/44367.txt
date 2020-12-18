@@ -1,0 +1,1 @@
+ URL : "https://github.com/eslint/eslint/issues/9021" TITLE : eslint function error BODY : hi, i get error as unexpected function expression, missing function expression name . i am using node. please check why this error throws ! image https://user-images.githubusercontent.com/28133954/28657885-9458dde0-72c6-11e7-8698-e37f78385eea.png

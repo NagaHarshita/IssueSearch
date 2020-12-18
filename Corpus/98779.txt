@@ -1,0 +1,1 @@
+ URL : "https://github.com/hansemannn/iOS11-NFC-Example/issues/21" TITLE : lb-m5215-1 is not detected BODY : when i try to detect this lb-m5215-1 rfid tag it not detecting and throws an error as required entitlement is missing

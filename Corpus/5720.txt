@@ -1,0 +1,1 @@
+ URL : "https://github.com/figo-connect/schwifty/issues/5" TITLE : si iban prefix BODY : the specifications for si iban are technically correct, but in reality the central bank of slovenia uses only 56 as the 2!n part after si. consiquently all ibans start with si56 - see the link https://www.bsi.si/en/payment-systems.asp?mapaid=1502 for more info.

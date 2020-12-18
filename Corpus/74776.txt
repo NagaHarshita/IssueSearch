@@ -1,0 +1,1 @@
+ URL : "https://github.com/BStekelenburgBurggraaf/simpelservice/issues/3" TITLE : filter user doesn't work BODY : filtering ticket on a user doesn't work properly, throws an error when you try to do it.

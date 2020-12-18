@@ -1,0 +1,1 @@
+ URL : "https://github.com/k-next/cms/issues/5" TITLE : review language api BODY : we should review the languagesquery, languagequery and languagetype as well as their implementation e.g. optional, but language parameter has to passed to api still

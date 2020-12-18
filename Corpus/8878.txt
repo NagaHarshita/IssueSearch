@@ -1,0 +1,1 @@
+ URL : "https://github.com/stripe/dagon/issues/14" TITLE : set up scalafmt BODY : ideally we have a scalafmt task that is manually invoked and a scala fmt ci test that everything is formatted which we run first before we waste cpu on checking if the tests pass .

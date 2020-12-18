@@ -1,0 +1,1 @@
+ URL : "https://github.com/progress-report/progress_report_server/issues/13" TITLE : cache api response BODY : since the data doesn't change, there's no reason to perform a query every time we reload the page. to fix that, let's add some server-side caching. we'll want to build in a way to expire the cache when the db updates as well as add a way to do it manually.

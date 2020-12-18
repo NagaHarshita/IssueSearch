@@ -1,0 +1,1 @@
+ URL : "https://github.com/TwidereProject/Twidere-Android/issues/744" TITLE : fix memory leaks BODY : just a reminder, i found some memory leaks and these needs to be fixed in order to make 3.5 release.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/PHydra/Hydra/issues/69" TITLE : kernel: time points output BODY : - opção de definição de time points para output de dados em eventos muito longos. redução da quantidade de dados gerados para o relatório.

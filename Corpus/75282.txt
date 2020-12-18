@@ -1,0 +1,1 @@
+ URL : "https://github.com/sanathp/statusok/issues/23" TITLE : graphana dashboard query BODY : hi, i have installed statusok correctly, but i am having hard time visualizing it in graphana, can anyone share a template/graphana queries? i just want to visualize my get requests response time v/s date-time. just as shown in statusok's readme files sreenshot. thanks.

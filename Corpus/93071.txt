@@ -1,0 +1,1 @@
+ URL : "https://github.com/excellalabs/xluhco/issues/28" TITLE : add continuous integration BODY : we currently do a continuous build / deployment using azure's integration, but we should likely have a ci pipeline that's building, running tests, etc.

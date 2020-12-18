@@ -1,0 +1,1 @@
+ URL : "https://github.com/k-takata/minpac/issues/38" TITLE : install only new plugins BODY : is there a way to install only plugins which are not installed but are registered. i now i can call minpac update and provide name for the plugins that i want to install, but i would like to make command to automatize the process.

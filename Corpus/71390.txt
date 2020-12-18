@@ -1,0 +1,1 @@
+ URL : "https://github.com/ayushkumar0630/CoinArbitrage/issues/1" TITLE : add fees in calculations BODY : we need to dynamically calculate fees and incorporate them into the profit calculations.

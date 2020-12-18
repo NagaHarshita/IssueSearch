@@ -1,0 +1,1 @@
+ URL : "https://github.com/ethz-asl/catkin_simple/issues/5" TITLE : any need for this fork? BODY : seems to just be somewhat behind master for no apparent reason. have had bugs due to it being an older version before and people accidentally checking out the wrong one. @ffurrer? @schneith? anyone else who has any clue what this is for? can this be deleted?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/micumatei/asciipic/issues/50" TITLE : add a retry decorator BODY : oracle being oracle needs to be restarted from time to time. add a retry decorator and apply it over the oracle create_all method in order to avoid quick failure.

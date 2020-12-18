@@ -1,0 +1,1 @@
+ URL : "https://github.com/DAISEE/DApp-v2/issues/5" TITLE : secure the contract BODY : @slashbinslashnoname : là n'importe qui ayant l'addresse du contract peut émettre des messages buy ou sell et décroitre ou accroitre l'énergie d'un vendeur ou d'un acheteur . qu'avez vous imaginé comme mécanisme comptable ? cf. https://github.com/daisee/dapp/issues/5

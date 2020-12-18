@@ -1,0 +1,1 @@
+ URL : "https://github.com/markgreenwood/task-service/issues/6" TITLE : implement get /task/{id} BODY : expected behavior get /task/{id} returns the specific task with id id .

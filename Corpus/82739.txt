@@ -1,0 +1,2 @@
+ URL : "https://github.com/nagendra999/test/issues/7" TITLE : app extends webviewclient BODY : the default handling of webviewclient should handle the
+onreceivedsslerror properly, which might break certificate validation 1:webviewclient is extended in class com.wfinalzen.utils.simplewebviewclientnaive ssl error handling is implemented. this webviewclient breaks certificate validation.

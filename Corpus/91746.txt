@@ -1,0 +1,1 @@
+ URL : "https://github.com/Yelp/yelp_clog/issues/38" TITLE : update __version__ string BODY : despite being version 2.6.5, clog.__version__ shows '2.6.1' . https://github.com/yelp/yelp_clog/blob/master/clog/__init__.py l56

@@ -1,0 +1,1 @@
+ URL : "https://github.com/JeevesTakesOver/Railtrack/issues/6" TITLE : dhcpd pool is very large BODY : it can take over 15 minutes for the dhcp servers to sync up due to the size of the dhcpd lease pool

@@ -1,0 +1,1 @@
+ URL : "https://github.com/nss-day-cohort-20/group-project-movie-history-gitflix/issues/34" TITLE : html: navbar id BODY : give the navbar a unique id so the 'findnewmovies' and 'searchusermovies' functions can be displayed dynamically within the navbar

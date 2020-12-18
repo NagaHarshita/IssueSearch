@@ -1,0 +1,1 @@
+ URL : "https://github.com/brangerbriz/BBElements/issues/10" TITLE : bb-quote margin top BODY : currently, there is little to no top margin/padding when a <bb-quote> is inside a <bb-p> . ! screenshot from 2017-01-04 16-12-26 https://cloud.githubusercontent.com/assets/3193533/21661235/c23ef718-d298-11e6-82ae-e0c2fac10e21.png

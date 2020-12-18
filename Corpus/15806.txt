@@ -1,0 +1,1 @@
+ URL : "https://github.com/openvstorage/framework/issues/1756" TITLE : fix update issues BODY : with travis having been a trouble internally, we had to postpone merges and were not able to test update logic completely. this ticket is merely to make commits on regarding the update

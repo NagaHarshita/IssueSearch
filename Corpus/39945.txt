@@ -1,0 +1,1 @@
+ URL : "https://github.com/glassechidna/lastkeypair/issues/32" TITLE : support key rotation BODY : when instances do an lkp host setup, it could install both the active ca pubkey and an inactive one or more ready for rotation when the time comes.

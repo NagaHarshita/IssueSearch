@@ -1,0 +1,1 @@
+ URL : "https://github.com/jacekelgda/docker-slack-bot/issues/4" TITLE : marking tasks as done BODY : bot should be listening to journal, if specific note has been provided that match list item it should be checked as done

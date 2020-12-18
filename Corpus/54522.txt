@@ -1,0 +1,2 @@
+ URL : "https://github.com/mirgags/relaxbuddy/issues/108" TITLE : gitlab to teamwork r&d BODY : http://clients.pint.com/tasks/1583964
+prototype a chrome extension to add repos to the teamwork pages. we can use a chrome extension to do it. a convention may make it easy so that customerx would be repos at gitlab.pint.com/customerx. we would use the custom extension to rewrite the teamwork page and insert buttons and/or iframe to pull in the repo easily to the customer section of teamwork so it seems one happy family.

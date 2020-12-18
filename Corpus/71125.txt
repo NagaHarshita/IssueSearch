@@ -1,0 +1,1 @@
+ URL : "https://github.com/antimatter15/whammy/issues/53" TITLE : a way for passing chunks BODY : hi , i would like convert a long video using whammy but my initial idea was to pass frames but whammy call me for sending chunks sequentially

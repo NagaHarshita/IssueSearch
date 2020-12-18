@@ -1,0 +1,1 @@
+ URL : "https://github.com/tmux-plugins/tmux-open/issues/25" TITLE : not working after tmux 2.4 BODY : see: - https://github.com/tmux-plugins/tmux-yank/issues/76 - https://github.com/tmux-plugins/tmux-copycat/issues/109 archlinux has update tmux to 2.4, after this update tmux-open stopped working given above patches applied .

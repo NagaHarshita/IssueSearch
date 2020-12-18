@@ -1,0 +1,1 @@
+ URL : "https://github.com/joshua-fogg/gear-compare/issues/9" TITLE : update database schema BODY : - add new schema layout: - equipment table - features table - api join eq by feature id ?? check dons submission

@@ -1,0 +1,1 @@
+ URL : "https://github.com/hexicle/TestSignin/issues/1" TITLE : sign in does not work BODY : logcat message: googleapiclient connection failed: connectionresult{statuscode=sign_in_required, resolution=pendingintent{21d08740: android.os.binderproxy@21d032b8}, message=null}

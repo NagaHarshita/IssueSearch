@@ -1,0 +1,1 @@
+ URL : "https://github.com/BLAKE2/BLAKE2/issues/43" TITLE : oid for blake2s? BODY : is there an existing oid s for blake2s and rsa pkcs1-1.5 or rsa-pss ?

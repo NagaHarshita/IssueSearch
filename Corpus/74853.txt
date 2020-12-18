@@ -1,0 +1,1 @@
+ URL : "https://github.com/Orange-Management/jsOMS/issues/24" TITLE : fix direct element usage BODY : code like the following is bad since it will cause exceptions/errors: document.getelementbyid key .checked make sure to check that the element actually exists.

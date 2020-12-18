@@ -1,0 +1,1 @@
+ URL : "https://github.com/FieldDB/FieldDB/issues/2122" TITLE : renew ssl certs BODY : we switched ot lets encrypt in november, the certs expired after 90 days on feb1 so no one could login from feb 1 - feb 5

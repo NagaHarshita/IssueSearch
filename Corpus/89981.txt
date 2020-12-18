@@ -1,0 +1,1 @@
+ URL : "https://github.com/alibarkatali/module_web/issues/8" TITLE : rest : quitter une partie BODY : r4.2 - quitter une partie delete /players/<playername> fonction : def leave playername :

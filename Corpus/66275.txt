@@ -1,0 +1,1 @@
+ URL : "https://github.com/jdowner/gist/issues/42" TITLE : migrate to new pypi api BODY : currently the 'pypi' and 'pypitest' targets fail due to an api change on pypi.

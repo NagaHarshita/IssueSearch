@@ -1,0 +1,1 @@
+ URL : "https://github.com/cgrandin/csas-latex/issues/22" TITLE : naming convention: sb_0 BODY : pls use _sb__0 in the bridging doc and my writing so far, we've used _sb__0 to denote unfished spawning biomass italicize sb and not 0 . andy will cringe but in this case i think consistency with the code makes it easier to not mistake this for b_0.

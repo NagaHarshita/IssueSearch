@@ -1,0 +1,1 @@
+ URL : "https://github.com/intelsdi-x/snap-relay/issues/22" TITLE : what is port 6124 BODY : would someone be able to explain what is port 6124 which appears in the readme.md file: echo test.first 13 date +%s |nc -u -c localhost 6124 which process is assumed to be listening/running on his port? kw

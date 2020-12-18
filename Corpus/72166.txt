@@ -1,0 +1,1 @@
+ URL : "https://github.com/hseeberger/scala-sbt/issues/14" TITLE : base image is deprecated BODY : base image java:8 https://registry.hub.docker.com/_/java/ is deprecated according to the url as of yesterday no longer supported. consider switching to openjdk:8 https://hub.docker.com/_/openjdk/ .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/juice49/lt/issues/8" TITLE : task id aliasing BODY : task aliasing would be useful for recurring tasks that share an id. for example: lt alias weekly-meeting int-14 lt start weekly-meeting lt stop weekly-meeting

@@ -1,0 +1,1 @@
+ URL : "https://github.com/nvllsvm/Audinaut/issues/15" TITLE : error - connection failure BODY : environment qnap 4.3.3.0136 web server ampache 3.8.2 - subsonic backend access level: user description error message after configuring ampache server with subsonic backend enabled: connection failure. a network error occurred. please check the server address or try again later.

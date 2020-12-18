@@ -1,0 +1,1 @@
+ URL : "https://github.com/MustardSeedNL/Fraternos/issues/17" TITLE : implement events generator BODY : description implement an algorithm that will let fraternities generate events that will happen every n days, with a determined number of organizers that should be assigned evenly.

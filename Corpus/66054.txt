@@ -1,0 +1,1 @@
+ URL : "https://github.com/CADWRDeltaModeling/dsm2/issues/6" TITLE : make arrays allocatable BODY : currently there are max_ variables that govern the maximum number of channels, nodes, inputs etc. these should all be allocatable so there are no internal limits. there have been several requests that usually result in increasing these limits.

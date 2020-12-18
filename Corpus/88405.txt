@@ -1,0 +1,1 @@
+ URL : "https://github.com/voidlinux/void-packages/issues/8155" TITLE : newsbeuter fork: newsboat BODY : hi, i have seen newsbeuter isn't maintained anymore. but there is a fork with a new version here: https://github.com/newsboat/newsboat could you update newsbeuter to this new version ? probably the package newsbeuter can be dropped. thank you!

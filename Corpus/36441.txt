@@ -1,0 +1,1 @@
+ URL : "https://github.com/RocketChat/Rocket.Chat/issues/6770" TITLE : hide emojis in links BODY : rocket.chat version: 0.55.1 running instances: 1 db replicaset oplog: disalbed node version: v4.8.1 we sometimes have the issue that a link contains a mac address which matches an emoji such as flags . since i normally do not want emojis in my link this should be disabled somehow.

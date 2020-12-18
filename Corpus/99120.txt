@@ -1,0 +1,1 @@
+ URL : "https://github.com/NicholasDM/landsoflegend/issues/2" TITLE : make source admin agnostic BODY : remove any backdoors that could be used to give oneself admin privileges, remove any defaults as far as adding admins go, that sort of thing.

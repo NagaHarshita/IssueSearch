@@ -1,0 +1,1 @@
+ URL : "https://github.com/chrmarti/testissues/issues/2387" TITLE : advise setting of encoding BODY : - vscode version: code 1.14.2 cb82febafda0c8c199b9201ad274e25d9a76874e, 2017-07-19t23:34:09.706z - os version: windows_nt ia32 10.0.15063 - extensions: none --- steps to reproduce: 1.advise setting of ' files.autoguessencoding : false,' on windows value is true. 2.thank you.

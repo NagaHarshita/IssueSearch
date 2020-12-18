@@ -1,0 +1,1 @@
+ URL : "https://github.com/osteele/gojekyll/issues/16" TITLE : implement build --watch BODY : this is implemented for serve . factor out the watching library for use in build .

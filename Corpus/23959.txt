@@ -1,0 +1,1 @@
+ URL : "https://github.com/phanrahan/mantle/issues/36" TITLE : ring register test BODY : we should add a ring register test to stress test the simulator. ring registers have loops between all the dffs.

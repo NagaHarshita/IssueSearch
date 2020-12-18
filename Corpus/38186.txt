@@ -1,0 +1,1 @@
+ URL : "https://github.com/radare/radare2-r2pipe/issues/39" TITLE : ocaml r2pipe cleanup BODY : - remove duplication - why two almost identical interfaces? - update opam package https://github.com/ocaml/opam-repository/tree/master/packages/radare2 - ask to remove obsolete r2pipe package https://github.com/ocaml/opam-repository/tree/master/packages/r2pipe

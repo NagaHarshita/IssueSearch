@@ -1,0 +1,1 @@
+ URL : "https://github.com/Strilanc/Quirk/issues/271" TITLE : switch kets to big-endian BODY : people have an easier time reading big-endian numbers. there's no strong design reason to use little-endian. don't forget to update the doc/ readme.

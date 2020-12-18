@@ -1,0 +1,1 @@
+ URL : "https://github.com/neuralyzer/dokuwiki-plugin-revealjs/issues/25" TITLE : loosing plugins css BODY : hi, in export mode, the page does not include all dokuwiki plugins css files. this causes the improved pubmed plugin not to show its links... can plugins css be included ? thanks eric

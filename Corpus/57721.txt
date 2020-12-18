@@ -1,0 +1,1 @@
+ URL : "https://github.com/npi-ufc-qxd/contest/issues/214" TITLE : refatoração de login BODY : refatorar a lógica de login para que agora suporte os usuários que nao estao no ldap e podem se inscrever de fora deste.

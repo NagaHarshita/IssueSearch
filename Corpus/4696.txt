@@ -1,0 +1,1 @@
+ URL : "https://github.com/rundis/elm-bootstrap/issues/14" TITLE : fix card tests BODY : the card api has changed a lot without the tests being updated.

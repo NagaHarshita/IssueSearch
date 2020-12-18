@@ -1,0 +1,1 @@
+ URL : "https://github.com/bridgedotnet/Bridge/issues/2914" TITLE : remove markelement class BODY : the markelement class should not have been added to the bridge.html5 namespace as the class does not exist within the native javascript api. see also 1241

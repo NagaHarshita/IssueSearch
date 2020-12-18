@@ -1,0 +1,1 @@
+ URL : "https://github.com/cardcorp/fbRads/issues/41" TITLE : time out error BODY : hi, i'm getting this estrange output in my script > this is a bug in the fbrads package. please report on github with a detailed output: failed to connect to graph.facebook.com port 443: timed out

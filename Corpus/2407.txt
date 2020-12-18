@@ -1,0 +1,1 @@
+ URL : "https://github.com/brainly/html-sketchapp/issues/14" TITLE : add e2e tests BODY : feed system with getcomputedstyles and getboundingbox as input and validate output .asketch.json file. use existing jest setup.

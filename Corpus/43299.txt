@@ -1,0 +1,1 @@
+ URL : "https://github.com/TrackerSB/Green2/issues/10" TITLE : control error display BODY : controls especially textfields should only be red when they were touched at least one time or the submit button was pressed.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/vscode-react-native/issues/416" TITLE : resolve travisci issues BODY : actual: travis ci currently is failing on valid prs see https://github.com/microsoft/vscode-react-native/pulls . expected travis tests should pass on valid prs when tests ran with gulp test && npm test are passing locally

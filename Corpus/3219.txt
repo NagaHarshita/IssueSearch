@@ -1,0 +1,1 @@
+ URL : "https://github.com/chitezh/react-native-svg-image/issues/7" TITLE : margin on svg BODY : ! image https://user-images.githubusercontent.com/5933437/27358826-ac87621e-55d5-11e7-9c56-b16279475bab.png there is a margin around the image. already tried setting padding and margin to 0 but no success. can you bring more insight to this issue?

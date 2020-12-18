@@ -1,0 +1,1 @@
+ URL : "https://github.com/akka/alpakka/issues/495" TITLE : mongodb sink for scala BODY : we should have a sink as well as a source for the mongo connector : i have a old branch for this i can rebase then submit a pr https://github.com/stephennancekivell/alpakka/commit/d3c95d9ec17dc8003b855d2c3d46dd4f36e53678 this will not provide a java api, as discussed in 494 and 148

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Detea/PekaED/issues/13" TITLE : add an error log function BODY : have the program store errors/exceptions, via a log class. print this log in a file, or in a jtextbox in a log dialog. this makes it easier to fix bugs.

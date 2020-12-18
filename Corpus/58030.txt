@@ -1,0 +1,1 @@
+ URL : "https://github.com/mour/ratfist-stm32/issues/6" TITLE : rework message factory BODY : as components should be optional, they should be able to register their message handlers during initialization.

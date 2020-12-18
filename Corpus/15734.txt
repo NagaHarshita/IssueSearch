@@ -1,0 +1,1 @@
+ URL : "https://github.com/bit4woo/Teemo/issues/3" TITLE : fix coding style? BODY : in teemo.py , there have plenty of coding style against pep 8 , such as module import but not use , e265, e02. maybe try to fix this.

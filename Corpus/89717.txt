@@ -1,0 +1,1 @@
+ URL : "https://github.com/benvenutti/hasm/issues/20" TITLE : refactor using clang-tidy BODY : use clang-tidy 3.8 to check the code base and apply refactor where/when necessary.

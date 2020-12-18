@@ -1,0 +1,1 @@
+ URL : "https://github.com/Teaonly/trans-torch/issues/2" TITLE : what does building mean? BODY : caffe_dir=/home/path_to/caffe luarocks make does this mean using luarocks make under the caffe folder? so where should the trans-torch folder be placed?

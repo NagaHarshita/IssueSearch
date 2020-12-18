@@ -1,0 +1,1 @@
+ URL : "https://github.com/SingaporeScalaProgrammers/scala-workshop/issues/4" TITLE : intro to fp in scala BODY : participants without prior fp exposure need an easy to digest introduction to the core fp concepts of referential transparency, expression-base programming, immutability, recursion and higher order functions.

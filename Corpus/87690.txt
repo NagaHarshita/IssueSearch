@@ -1,0 +1,1 @@
+ URL : "https://github.com/sunrick/skriva/issues/2" TITLE : make all post querying js BODY : instead of having blog index route perform searches on data, serve all post data as json and have javascript that handles filtering. advantages: if a user creates a static site, filtering can be used. cleans up logic on backend

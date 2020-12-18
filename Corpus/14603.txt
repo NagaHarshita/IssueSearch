@@ -1,0 +1,1 @@
+ URL : "https://github.com/jemalloc/jemalloc/issues/578" TITLE : beef up ci matrix BODY : we should also test at least some permutations of --enable-debug, --disable-stats and --disable-tcache.

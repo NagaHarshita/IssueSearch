@@ -1,0 +1,1 @@
+ URL : "https://github.com/poduncan/ucpp-subl2-syntax/issues/14" TITLE : handle tabs better BODY : autocomplete fills in spaces automatically. buhr doesn't even specify whether to use spaces or tabs so this can be annoying for the programmer. find a better way, such as changing the default tab completion. either way, tabs should be inserted for autocomplete.

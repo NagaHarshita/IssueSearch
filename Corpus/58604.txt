@@ -1,0 +1,1 @@
+ URL : "https://github.com/vanilla/vanilla/issues/5359" TITLE : speed up travis builds BODY : here are things you can try: - use travis cache to cache composer files. - make sure to prefer dist in composer installs. - look at a build output and come up with ideas.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/megakoko/Tetris/issues/11" TITLE : t shape gravity bug BODY : when the t is rotated like this o oo o and the middle line is removed the figure is broken into two. if there is room to fall the bottom part falls first and only when it's done falling the top part starts to fall. they should fall simultaneously.

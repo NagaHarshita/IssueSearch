@@ -1,0 +1,1 @@
+ URL : "https://github.com/bcell/MuseumMaps/issues/3" TITLE : basic visual elements BODY : the map is drawn in topojson. the basic elements are color, borders, highlighting, transparency, and size of map. other aspects, like the space between rooms should be considered also.

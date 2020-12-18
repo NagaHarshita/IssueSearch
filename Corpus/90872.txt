@@ -1,0 +1,1 @@
+ URL : "https://github.com/timursarkisov/prj-rev-bwfs-tea-cozy/issues/1" TITLE : subtlety - header styling BODY : woops, looks like certain items scroll on top of the fixed header as you go down the page. try adding - z-index: 1; to header to put it above everything else

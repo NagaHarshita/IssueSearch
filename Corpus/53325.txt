@@ -1,0 +1,1 @@
+ URL : "https://github.com/magnumripper/JohnTheRipper/issues/2376" TITLE : dmg-opencl memory leak BODY : dmg-opencl leaks memory, e.g. at around 1 gb per hour when running on super's -dev=6 titan x , or accordingly slower on super's slower devices.

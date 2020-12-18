@@ -1,0 +1,1 @@
+ URL : "https://github.com/hhucn/discuss/issues/9" TITLE : catch assert error BODY : when the atom breaks because of malicious / wrong responses react to it and don't break the application.

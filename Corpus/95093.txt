@@ -1,0 +1,13 @@
+ URL : "https://github.com/Zimmi48/bugzilla-test-2/issues/2000" TITLE : coqdoc index links problem BODY : note: the issue was created automatically with bugzilla2github tool original bug id: bz 2000
+date: 2008-11-18 14:29:51 +0100
+from: vincent filou &lt;<vincent.filou@labri.fr>&gt;
+reported version: 8.5
+cc: @ herbelin, notin@lix.polytechnique.fr duplicates: 2274
+last updated: 2010-04-09 23:49:55 +0200 vincent filou &lt;<vincent.filou@labri.fr>&gt; on 2008-11-18 14:29:51 +0100 coqdoc links to wrong files in the index when vernacular files are located in different subdirectories. for instance i've a project containing the directory algos. when i generate the documentation, using make gallinahtml, the names of the html files corresponding to the vernacular files in this directory follow the pattern: algos.filename.html , for instance algos.lc0.html
+but in the definition part of the index, links point to lc0.html instead. the library part of the index seems correct. a part of the faulty index is attached.
+vincent filou <!doctype html public -//w3c//dtd xhtml 1.0 strict//en http://www.w3.org/tr/xhtml1/dtd/xhtml1-strict.dtd >
+<html xmlns= http://www.w3.org/1999/xhtml > ... <a href= algos.lc0.html >lc0</a> library <br/>
+<a href= lc0.html lc0.changed_edges >lc0.changed_edges</a> definition, in <a href= lc0.html >lc0</a> <br/>
+<a href= lc0.html lc0.changed_edges_filter >lc0.changed_edges_filter</a> definition, in <a href= lc0.html >lc0</a> <br/> ...
+</body>
+</html> @ herbelin on 2010-04-09 23:49:55 +0200 finally solved. this bug has been marked as a duplicate of bug 2274

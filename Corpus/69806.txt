@@ -1,0 +1,1 @@
+ URL : "https://github.com/ian-james/IFS/issues/21" TITLE : typo in toolroutes.js ? BODY : on line 16 https://github.com/ian-james/ifs/blob/master/ifs/app/components/tool/toolroutes.js l16 : if req.session && ! req.session.toolseelct && req.session.toolfile { is toolseelct supposed to be toolselect ?

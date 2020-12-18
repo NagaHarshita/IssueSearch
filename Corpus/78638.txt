@@ -1,0 +1,1 @@
+ URL : "https://github.com/impactasaurus/app/issues/145" TITLE : radar date format change BODY : following on from 84, change the dates presented in the radar legend to match the date format used in the table visualisation. i.e. moving from semantic '2 months ago' to 'september 14th 2017'.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/alxrm/audiowave-progressbar/issues/5" TITLE : animation in recyclerview BODY : thanks for this project. i use this in recyclerview, and start progressanim, there is some problem i think that caused by reuse with recyclerview. for example, the first item s wave progress will be set for three or four item s. how can i deal with it? thanks

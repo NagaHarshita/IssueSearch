@@ -1,0 +1,1 @@
+ URL : "https://github.com/heroku/cli-engine/issues/21" TITLE : 2fa prompt not working BODY : 2fa prompt for paranoid apps seems to just exit with code 0 for some reason: heroku config:add update_hash=foo -a paranoidapp setting update_hash and restarting ⬢ toolbelt... ! two-factor code:

@@ -1,0 +1,1 @@
+ URL : "https://github.com/msurguy/ladda-bootstrap/issues/63" TITLE : problem with meteor js BODY : i would like to create ladda-bootstrap on meteor js package . but get error js uncaught referenceerror: ladda is not defined

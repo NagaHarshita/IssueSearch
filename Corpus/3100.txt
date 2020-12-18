@@ -1,0 +1,1 @@
+ URL : "https://github.com/simple-bind/simple_bind/issues/6" TITLE : input - email BODY : when a source is updated, the target will need to be updated. not sure if this will even be needed since it kind of acts like a text input.

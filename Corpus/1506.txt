@@ -1,0 +1,1 @@
+ URL : "https://github.com/mpolednik/script.kodi.hue.ambilight/issues/42" TITLE : a few issues BODY : hi, this version doesn't work with live tv or video streaming addons whereas the previous one did. also lights don't undim if the video stops playing on it's on. they only seem to undim if you explicitly press x key to stop video.

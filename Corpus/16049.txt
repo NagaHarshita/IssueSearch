@@ -1,0 +1,1 @@
+ URL : "https://github.com/GermantownCodes/website/issues/8" TITLE : gulp build system BODY : we need a build system using gulp that does the following: - compiles sass - uses browsersync for watching files / cross-browser testing - adds browser vendor prefixes via autoprefixer - minifies javascript via uglify

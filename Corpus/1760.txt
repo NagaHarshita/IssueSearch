@@ -1,0 +1,1 @@
+ URL : "https://github.com/internet4000/radio4000/issues/78" TITLE : fix css base BODY : currently we rely on suitcss-base, which in turn relies on normalize.css. either we're doing it wrong or the base is getting too opinionated. at least the suitcss-base 2->3 upgrade broke things. something has to do to be done. viva!

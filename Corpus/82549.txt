@@ -1,0 +1,1 @@
+ URL : "https://github.com/mkdocs/mkdocs/issues/1340" TITLE : adopt semantic versioning BODY : mkdocs should consider adopting semantic versioning http://semver.org to make it easier for its users to known when to expect backwards compatibility and when to expect breaking changes.

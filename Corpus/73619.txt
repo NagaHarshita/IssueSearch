@@ -1,0 +1,1 @@
+ URL : "https://github.com/trapias/TrelloExport/issues/27" TITLE : custom field not working BODY : when the custom fields checkbox is clicked, the custom fields doesn't add up to the selected js throws an error: trelloexport.js:801 uncaught typeerror: cannot read property 'length' of undefined at object.success trelloexport.js:801

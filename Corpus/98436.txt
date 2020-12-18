@@ -1,0 +1,1 @@
+ URL : "https://github.com/istio/auth/issues/28" TITLE : investigate test flakeness BODY : currently testgetpodservices fails occasionally. we should investigate and fix this flakiness.

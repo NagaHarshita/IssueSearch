@@ -1,0 +1,1 @@
+ URL : "https://github.com/root-two/react-native-drawer/issues/273" TITLE : on drag start BODY : is there a way to trigger a function when the drawer has just started dragging? onopenstart seems to be triggered after a drag completes and the drawer is open, though it get's called when a tap / state change starts to open the drawer.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/capergroup/bayou/issues/38" TITLE : support for generics BODY : implement support for java generics, in dom_driver and synthesizer.

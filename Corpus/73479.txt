@@ -1,0 +1,1 @@
+ URL : "https://github.com/moegui/poc-cf_ecs_codes/issues/4" TITLE : create nginx sample site BODY : in order to test deploy, we need to create a new docker container with a simple html.

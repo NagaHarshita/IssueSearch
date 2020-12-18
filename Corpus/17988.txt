@@ -1,0 +1,1 @@
+ URL : "https://github.com/WouterThys/InventoryApp/issues/5" TITLE : select first item BODY : in all views always select an item = never select nothing.. example: click projects tab -> pcbs -> select the first pcb if any

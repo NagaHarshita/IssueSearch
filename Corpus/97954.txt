@@ -1,0 +1,1 @@
+ URL : "https://github.com/codepress/admin-columns-issues/issues/840" TITLE : image column for media bug BODY : image did not show for the media image column, due to missing get_raw_value

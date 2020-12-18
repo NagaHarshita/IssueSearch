@@ -1,0 +1,1 @@
+ URL : "https://github.com/eclipse/paho.mqtt.c/issues/366" TITLE : default persistance unix BODY : default persistance doesn't handle absolute path it creates this path as relative, and then fails when trying to open it, returning error -2 . tested on linux.

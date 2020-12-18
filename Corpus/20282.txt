@@ -1,0 +1,1 @@
+ URL : "https://github.com/carpedm20/LINE/issues/100" TITLE : can't login : sigh BODY : login failed traceback most recent call last : file echobot.py , line 12, in for op in client.longpoll : nameerror: name 'client' is not defined

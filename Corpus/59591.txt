@@ -1,0 +1,1 @@
+ URL : "https://github.com/vmware/vic/issues/6573" TITLE : update govmomi version BODY : a recent change https://github.com/vmware/govmomi/pull/850 to govmomi allows for the passing of opid to vsphere. this change is required to satisfy 2739.

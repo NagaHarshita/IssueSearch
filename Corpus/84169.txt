@@ -1,0 +1,1 @@
+ URL : "https://github.com/apollographql/react-docs/issues/167" TITLE : create a performance page BODY : i suspect some of the performance issues people experience are easily solved, for example by disabling deep-freezing of results in development. we should create a page where we can centralize some simple tips about how to turn on the right settings for the best performance.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/RetroPie/EmulationStation/issues/236" TITLE : add --config-path function BODY : hello, it would be nice to have the ability to choose the path in which the .emulationstation config folder should be created. like in the repository from herdinger https://github.com/herdinger/emulationstation regards saboti

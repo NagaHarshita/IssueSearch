@@ -1,0 +1,1 @@
+ URL : "https://github.com/samstav/tf_mailgun_aws/issues/1" TITLE : make mx records optional BODY : > do not configure receiving mx dns records if you already have another provider handling inbound mail delivery e.g. gmail . https://documentation.mailgun.com/quickstart-sending.html add-receiving-mx-records

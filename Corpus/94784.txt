@@ -1,0 +1,1 @@
+ URL : "https://github.com/stalniy/cordova-plugin-googlemaps/issues/6" TITLE : cleanup logic in map class BODY : currently the logic is massive and has a lot of code duplications. this should be optimized. it will reduce amount of loaded js and eventually faster app boot

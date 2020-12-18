@@ -1,0 +1,1 @@
+ URL : "https://github.com/anuragpapineni/3DCapstoneGame/issues/386" TITLE : fix range enemy aim BODY : enemies can not rotate smoothly because aim implementation is bugged

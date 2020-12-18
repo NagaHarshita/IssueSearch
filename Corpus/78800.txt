@@ -1,0 +1,1 @@
+ URL : "https://github.com/ljw1004/uwp-desktop/issues/13" TITLE : release build not work.. BODY : hi i'm using vs2017+uwpdesktop. compile with vs2017 debug mode work fine. but after i switch release mode, all using directive change to dark color and lost path ? do you have any idea ? https://i.stack.imgur.com/hkate.jpg

@@ -1,0 +1,1 @@
+ URL : "https://github.com/erikh/box/issues/163" TITLE : google cloud builder BODY : google cloud builder would be a good candidate for fully-remote builder/executor implementation, it supports async and parallel modes, but it's probably easier to start with a serial implementation. i'm still learning how gcb works in a another project, will update once i have more info.

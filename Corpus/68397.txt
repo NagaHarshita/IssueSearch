@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpenLiberty/open-liberty/issues/215" TITLE : rfe: urlrewrite feature BODY : it would be nice and convenient to have a liberty feature which would enable urlrewrite support. urlrewrite is widely used and tested, it is bsd licensed. here is the main project site: http://www.tuckey.org/urlrewrite/

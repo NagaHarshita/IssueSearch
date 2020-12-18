@@ -1,0 +1,1 @@
+ URL : "https://github.com/ssumit/ftop/issues/2" TITLE : introduce future timeout BODY : futures should resolve within x period of time. timeoutexception can be used .

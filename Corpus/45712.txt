@@ -1,0 +1,1 @@
+ URL : "https://github.com/ga-wdi-exercises/project3/issues/533" TITLE : information load time BODY : when loading a state with information from an api, it quickly flashes in api format before transforming into the proper format. how can i erase this eyesore from my page? https://github.com/jessamarie/moments

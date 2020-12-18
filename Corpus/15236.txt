@@ -1,0 +1,12 @@
+ URL : "https://github.com/pwyf/2017-technical-consultation/issues/1" TITLE : current data test BODY : description the aid transparency index only considers current data . we define current data as: - ongoing activities, or
+- activities with planned end dates within the last 12 months, or
+- activities with actual end dates within the last 12 months, or
+- activities with disbursement, expenditure or commitment transaction dates within the last 12 months note: this test has been modified since the 2016 aid transparency index, to ensure all ongoing activities are included as current data. proposed test iati 2.0x python
+either: activity-status is 2
+o​r activity-date @type= 3 /@iso-date | activity-date @type= 3 /text i​s less than 12 months ago
+o​r activity-date @type= 4 /@iso-date | activity-date @type= 4 /text i​s less than 12 months ago
+o​r fo​r at least one transaction transaction-type/@code= 2 | transaction transaction-type/@code= 3 | transaction transaction-type/@code= 4 , transaction-date/@iso-date i​s less than 12 months ago iati 1.0x python
+either: activity-status is 2
+o​r activity-date @type= end-planned /@iso-date | activity-date @type= end-planned /text i​s less than 12 months ago
+o​r activity-date @type= end-actual /@iso-date | activity-date @type= end-actual /text i​s less than 12 months ago
+o​r fo​r at least one transaction transaction-type/@code= c | transaction transaction-type/@code= d | transaction transaction-type/@code= e , transaction-date/@iso-date i​s less than 12 months ago

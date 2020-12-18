@@ -1,0 +1,1 @@
+ URL : "https://github.com/rushiagr/myutils/issues/133" TITLE : from fig, exclude .venv/ BODY : or better -- allow passing a config param to include/exclude venv dir

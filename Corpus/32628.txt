@@ -1,0 +1,1 @@
+ URL : "https://github.com/shantigilbert/LibreELEC.tv/issues/88" TITLE : vlc file is missing BODY : an error occurs when getting the pack of vlc, all mirros return the 404 error. the diretory of vlc at http://sources.libreelec.tv/mirror/ has been removed. but i can find some new version at https://nightlies.videolan.org/build/source/ , may i use the lasted one instead?

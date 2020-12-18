@@ -1,0 +1,1 @@
+ URL : "https://github.com/tahnik/devRantron/issues/145" TITLE : bunch of bugs BODY : - it doesn't make sense to be able to subscribe to yourself - when you do, there's a typo: sub sri bed to user - when an url gets shortened, clicking on it will open the shortened url in the browser, resulting in a 404: e.g. theverge.com/2015/8... will open theverge.com/2015/8

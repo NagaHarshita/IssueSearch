@@ -1,0 +1,1 @@
+ URL : "https://github.com/llollox/CompoundButtonGroup/issues/2" TITLE : disable checkbox position BODY : is possible to disable the checkbox passing position by parameter ? i have 5 checkbox , but if i want the user can check just 3, in the 4 checkbox he cant check. have some method ?

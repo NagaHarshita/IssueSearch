@@ -1,0 +1,1 @@
+ URL : "https://github.com/benhoyt/scandir/issues/87" TITLE : inode is unsigned? BODY : potential issue here: https://github.com/benhoyt/scandir/commit/f092447c531894d418d04df31413a416ed2c9b6f commitcomment-24385573 is this a bug?

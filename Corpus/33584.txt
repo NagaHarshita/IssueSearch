@@ -1,0 +1,1 @@
+ URL : "https://github.com/MetaMask/metamask-extension/issues/2350" TITLE : add web3 1.0 support BODY : appears to include: - adding support for websockets to provider-engine https://github.com/metamask/provider-engine/issues/189

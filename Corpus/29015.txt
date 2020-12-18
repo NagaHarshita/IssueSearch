@@ -1,0 +1,1 @@
+ URL : "https://github.com/PredixDev/px-panel/issues/1" TITLE : initial code review BODY : - should hide the x icon when persistent is true in the demo, otherwise it seems broken - it is nice to have a simple/example demo for testing and debugging - the codepen appears broken - broken in shadow dom

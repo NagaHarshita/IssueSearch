@@ -1,0 +1,1 @@
+ URL : "https://github.com/bitpay/copay/issues/7122" TITLE : crash on wallet open. BODY : i made a wallet and the ui will just close without message. i used a custom made private key from vanitygen and used it for my private key. the wallet seems to be corrupted but i have no idea. i am not able to restore the wallet or even open it.

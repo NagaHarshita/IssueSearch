@@ -1,0 +1,1 @@
+ URL : "https://github.com/MagicTheGathering/mtg-api/issues/26" TITLE : increase pagesize limit BODY : hi, is there any plan to increase the pagesize limit ? it's written in the 1.12.5 that it's temporary but it was 10 months ago. and if it's a non-temporary change, it may be a good idea to update the doc on the website. https://docs.magicthegathering.io/ get-all-cards

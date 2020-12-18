@@ -1,0 +1,1 @@
+ URL : "https://github.com/ojcsteve/prj-rev-bwfs-dasmoto/issues/4" TITLE : keep lines short BODY : your lines are a bit long right now. try splitting this into new lines so it's easier to read on one screen without scrolling. convention is usually ~79 characters per line. https://github.com/ojcsteve/prj-rev-bwfs-dasmoto/blob/master/dasmoto's%20arts%20%26%20crafts/index.html l13

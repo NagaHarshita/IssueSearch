@@ -1,0 +1,1 @@
+ URL : "https://github.com/okgosu/hello-aqua/issues/5" TITLE : nas의 dns 설정하기 BODY : 현재는 nas ddns로 도메인을 잡았는데, 모양새가 안나서 바꿔볼 생각입니다. 목적: 도메인을 okgosu.net으로 변경 - as-is : http://okgosu.synology.me - to-be: http://okgosu.net 접근 방법 - nas의 dns 설정 후 네임서버 주소 획득 - dns 등록 업체의 네임서버 변경 - 무선공유기 설정.... ?

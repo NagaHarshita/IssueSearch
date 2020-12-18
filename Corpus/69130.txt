@@ -1,0 +1,1 @@
+ URL : "https://github.com/RestComm/visual-designer/issues/265" TITLE : strip ras-related stuff BODY : remove all ras related stuff from both server and client. possibly some refactoring will be needed.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/wekan/wekan-stats/issues/1" TITLE : enh stats by weeks BODY : moved here from https://github.com/fmonthel/wekanstats/issues/1 from @jplehen is it possible to have the command to filter by week ? to be more explicit, would it be possible to have a dashboard like this: list | week ongoing live cards | previous week live card | card archived last week

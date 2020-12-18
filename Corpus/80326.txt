@@ -1,0 +1,1 @@
+ URL : "https://github.com/splunk/eventgen/issues/71" TITLE : timefield usage in .conf BODY : does the timefield indicate where my timestamp lies ? i'm trying to set the timefield = _time , but the eventgen still tries to look for a timestamp in the _raw field. what am i missing ?

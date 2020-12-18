@@ -1,0 +1,1 @@
+ URL : "https://github.com/kumoregdev/kumoreg/issues/85" TITLE : comped badge checkbox BODY : for attendees, add comped badge boolean field. - resets amount paid field to 0 when checked, default for badge type when unchecked - requires attendee_override_price right

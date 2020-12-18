@@ -1,0 +1,1 @@
+ URL : "https://github.com/MarcoKoch/conan-libunwind/issues/1" TITLE : linking with not all libs BODY : when using 32bit version -s arch=x86 , the library linked is only libunwind.la, not libunwind-x86.la, which causes many missing symbols. haven't tested for other architectures, but probably it's the same story.

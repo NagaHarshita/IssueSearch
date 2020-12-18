@@ -1,0 +1,1 @@
+ URL : "https://github.com/webtorrent/webtorrent-desktop/issues/1221" TITLE : selecting multiple files BODY : on macos 10.12.6, webtorrent 0.18.0 is it not possible to select multiple files at once on a multi-file torrent? trying to uncheck multiple at once

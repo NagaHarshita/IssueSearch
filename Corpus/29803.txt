@@ -1,0 +1,1 @@
+ URL : "https://github.com/opentk/opentk/issues/551" TITLE : mouse move too fast BODY : with sdl2 when you hide mouse it start move faster, with windows or x11 such thing never happens. step to reproduce: hide mouse cursorvisible = false; slightly move mouse; show mouse cursorvisible = true; repeate with another backend and compare.

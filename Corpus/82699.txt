@@ -1,0 +1,1 @@
+ URL : "https://github.com/swiftmailer/swiftmailer/issues/894" TITLE : any release plan for 6.x? BODY : the branch master tells a small story for release 6.0.0 2014-xx-xx . are there any plans for this release? @fabpot i would recommend a php version >7.x for release 6 to get rid of all deprecated and old functions and use type hinting for return values and simple types.

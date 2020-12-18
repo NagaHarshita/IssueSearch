@@ -1,0 +1,1 @@
+ URL : "https://github.com/highkix/ratptimer/issues/3" TITLE : fix yarn check v1.3.2 BODY : yarn check v1.3.2 warning chokidar fsevents node-pre-gyp@^0.6.39 could be deduped from 0.6.39 to node-pre-gyp@0.6.39

@@ -1,0 +1,1 @@
+ URL : "https://github.com/cannatag/ldap3/issues/347" TITLE : expose mock_async strategy BODY : hey, as a third-party library trying to integrate against ldap3, it would be preferrable if mock_async was officially exposed. are there any missing features on the front or how come it's masked from being used?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/rastersoft/autovala/issues/92" TITLE : meson installing cmake BODY : i just noticed that the packages built with meson are installing cmakelists.txt files into the package. after install i have this: /usr/share/doc/cmakelists.txt /usr/share/pamac/cmakelists.txt

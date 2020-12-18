@@ -1,0 +1,1 @@
+ URL : "https://github.com/maryvilledev/skilldirectory/issues/172" TITLE : sanitize cassandra saves BODY : apostrophes are no longer being escaped as a result of some regression. update save in cassandra.go to call util.sanitizeinput before inserting.

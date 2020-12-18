@@ -1,0 +1,1 @@
+ URL : "https://github.com/LinusBorg/portal-vue/issues/44" TITLE : rename to vue-portal? BODY : as this project https://github.com/vue-comps/vue-portal is marked deprecated, you could ask the author if you can use its name in favour of portal-vue so that my ocd doesn't trigger when i look at my package.json :d

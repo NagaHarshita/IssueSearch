@@ -1,0 +1,1 @@
+ URL : "https://github.com/varvet/godmin/issues/228" TITLE : better sandbox deployment BODY : can we extract sandbox deployment from the gem? also, can we make it deploy the most recent version instead of having to specify it manually? could we pass the version of godmin to the template? could we use travis to deploy the sandbox on every push to master?

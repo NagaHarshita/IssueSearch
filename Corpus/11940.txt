@@ -1,0 +1,1 @@
+ URL : "https://github.com/falood/exfswatch/issues/12" TITLE : make -r optional BODY : is there a reason why option -r is not optional? i'd like to use exfswatch without it.

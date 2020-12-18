@@ -1,0 +1,1 @@
+ URL : "https://github.com/react-community/react-native-image-picker/issues/700" TITLE : find index of image BODY : i am using react-native-image-picker. how to get index of a particular image from images state?

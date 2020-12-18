@@ -1,0 +1,1 @@
+ URL : "https://github.com/dynang2k/mytask/issues/2" TITLE : think validation BODY : model 객체의 validation 코드는 어디에 있어야 할까? spring mvc 의 경우, 파라미터는 jsr 303 적용으로 validator 을 이용할 수 있지만. spring 이 아닌 경우 어떻게 해야 하는 것일까? validator 를 구현해서 매번 분리를 하는 것이 옳을까? 클래스가 매번 많아지는 것은 아닐까?

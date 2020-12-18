@@ -1,0 +1,1 @@
+ URL : "https://github.com/hotosm/imagery-requests/issues/83" TITLE : progress bar color BODY : we use green for completed tasks. do we want to use that in the progress bar to better communicate progress towards a goal and connect the information to completed tasks instead of open tasks?

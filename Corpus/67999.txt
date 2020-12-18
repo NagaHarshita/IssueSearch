@@ -1,0 +1,1 @@
+ URL : "https://github.com/drone/drone-ui/issues/139" TITLE : redirect if auth needed BODY : if a user gets directed to a url such as /account/<org> without first redirecting they will get a loading... message and it will hang indefinitely. the js console shows that the api call got a 401, it should redirect to an authentication flow when this happens.

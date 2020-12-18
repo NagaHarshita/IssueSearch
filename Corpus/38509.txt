@@ -1,0 +1,1 @@
+ URL : "https://github.com/mpericay/tm3/issues/100" TITLE : popover is too small BODY : el quadre que s’obre en clicar un punt no sempre pren la dimensió suficient per arribar a mostrar el número de registre, que pot quedar semi ocult per poc quan el nom científic ocupa dues línies

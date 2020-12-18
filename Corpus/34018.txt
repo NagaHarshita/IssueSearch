@@ -1,0 +1,1 @@
+ URL : "https://github.com/gajus/database-types/issues/6" TITLE : bool is typed as any BODY : sql create table card id int8 not null default, active bool not null default true, } result jsx export type cardrecordtype = {| +active: any, +id: number, |};

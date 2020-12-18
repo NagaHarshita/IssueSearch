@@ -1,0 +1,1 @@
+ URL : "https://github.com/rlamana/Ventus/issues/61" TITLE : problem with webpack. BODY : how can i use it in a project with webpack? i require this way: require 'ventus/dist/ventus' and it returns the follow error: error: cannot resolve module '$' have you some idea what can be happening?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/DirectMyFile/msgpack.dart/issues/2" TITLE : hexjson example broken BODY : the hexjson example https://github.com/directmyfile/msgpack.dart/blob/master/example/hexjson.dart appears to be broken ... an infinite loop --- i'm trying to debug it

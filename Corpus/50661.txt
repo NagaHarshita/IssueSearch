@@ -1,0 +1,1 @@
+ URL : "https://github.com/jbt/markdown-editor/issues/73" TITLE : <kbd> is not supported BODY : github markdown supports it. it means keyboard key. example of usage <kbd> : press <kbd>ctrl</kbd>+<kbd>f10</kbd> to compile. press <kbd>ctrl</kbd>+<kbd>f10</kbd> to compile.

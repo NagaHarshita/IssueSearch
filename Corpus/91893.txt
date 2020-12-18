@@ -1,0 +1,1 @@
+ URL : "https://github.com/cypress-io/cypress-example-docker-circle-workflows/issues/1" TITLE : upgrade to latest cypress BODY : upgrade to cypress 1.0.2 that is installed as local dev dependency

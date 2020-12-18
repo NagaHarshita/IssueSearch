@@ -1,0 +1,1 @@
+ URL : "https://github.com/netlify/node-client/issues/8" TITLE : link to github BODY : is it possible to create a site and link it to a github/gitlab/bitbucket repository automatically? js client.createsite { name: 'my_name', domain: 'my_domain', repo: 'my_repo' } ;

@@ -1,0 +1,1 @@
+ URL : "https://github.com/TahaSh/vue-paginate/issues/47" TITLE : server side pagination BODY : hi, what if i have to request 10 records per page with 130 pages? is there a support for such behavior? looking forward to your reply

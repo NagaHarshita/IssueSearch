@@ -1,0 +1,1 @@
+ URL : "https://github.com/coala/coala-bears/issues/1785" TITLE : vintbear is broken BODY : following on from https://github.com/coala/coala/issues/4277 issuecomment-304447901 vim-vint breaks all use of coala master and old releases.

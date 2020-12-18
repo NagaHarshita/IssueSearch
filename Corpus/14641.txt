@@ -1,0 +1,1 @@
+ URL : "https://github.com/Hagbuck/imagetools/issues/31" TITLE : bmp segmenter rgb BODY : les structures et fonctions rgb commencent à devenir nombreuse, il faudrait les mettre dans un autre fichier

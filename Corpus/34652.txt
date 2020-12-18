@@ -1,0 +1,1 @@
+ URL : "https://github.com/sctb/woe/issues/1" TITLE : compile error on bsd BODY : https://news.ycombinator.com/item?id=15510541 i don't have a bsd box handy, but their fix causes no problems on os x.

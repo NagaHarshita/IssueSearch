@@ -1,0 +1,1 @@
+ URL : "https://github.com/0exp/evil_events/issues/15" TITLE : event api simplitifcation BODY : add an ability to emit event by it's class constant without instantiation: use .emit! event_attrs as a factory method.

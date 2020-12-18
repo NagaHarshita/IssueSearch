@@ -1,0 +1,1 @@
+ URL : "https://github.com/hexojs/hexo/issues/2857" TITLE : custom html title tag BODY : hexo using title: in markdown source file as html <title> tag. how to custom html <title> tag? for example, --- title: bar --- then article-title: bar html title tag: foo bar thank you

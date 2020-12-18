@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla/valence/issues/228" TITLE : migrate to webextensions? BODY : this add-on is now marked as legacy in firefox developer edition. are there any plans to migrate it to a webextension? i couldn't find any issue about that.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/appscode/voyager/issues/50" TITLE : update voyager docs BODY : - make it clear that it should work with any cluster including gke. - certificate does not explain when to use http ingress - certificate does not explain how to write the provider secret.

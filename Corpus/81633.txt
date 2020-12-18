@@ -1,0 +1,1 @@
+ URL : "https://github.com/sayeem29/URI-SOLVE/issues/1" TITLE : 1001	extremely basic java BODY : import java.util.scanner; public class main { public static void main string args { scanner input = new scanner system.in ; { int a=input.nextint ; int b=input.nextint ; int sum=a+b; system.out.println x = +sum ; } } }

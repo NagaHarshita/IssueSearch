@@ -1,0 +1,1 @@
+ URL : "https://github.com/DieterMichaelRauch/tea_cozy/issues/6" TITLE : flexbox & css BODY : https://github.com/dietermichaelrauch/tea_cozy/blob/master/resources/css/index.css l13-l17 nice job using flexbox to implement your layout, as well as consolidating your flex related styles into a single class, flex-container , which helps keep your css very concise! 👍

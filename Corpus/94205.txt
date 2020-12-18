@@ -1,0 +1,1 @@
+ URL : "https://github.com/AdguardTeam/AdguardFilters/issues/5796" TITLE : bug in english filter list BODY : a comment was published as a rule becuase somebody forgot to add the exclamation mark before it. open english filter > search for:- > https://github.com/adguardteam/adguardfilters/issues/5669 this is marked as a rule rather than a comment.

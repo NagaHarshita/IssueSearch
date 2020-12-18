@@ -1,0 +1,1 @@
+ URL : "https://github.com/soobinjeon/MinT/issues/3" TITLE : not callback response BODY : - target node need to response ack message, if it receives the message which doesn't need the response message.

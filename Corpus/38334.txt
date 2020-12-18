@@ -1,0 +1,1 @@
+ URL : "https://github.com/pump-io/pumabot/issues/6" TITLE : parse mf2 from links BODY : currently we only show the document title when links are pasted. loqi from the indieweb community is able to parse mf2 markup and show more detailed stuff from pages. we should steal that, too.

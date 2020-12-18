@@ -1,0 +1,1 @@
+ URL : "https://github.com/signdict/website/issues/41" TITLE : user edit in the backend BODY : i forgot to add a backend for the user model. that backend should only be viewable by admins. and when i am at it i can write a small backend entry point page that links to the videos and the users part of the backend.

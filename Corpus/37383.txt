@@ -1,0 +1,1 @@
+ URL : "https://github.com/clean-cloogle/cloogle.org/issues/115" TITLE : macro type inference BODY : it would be nice if we could somehow infer the types of macros, so that you can search for things like foldr .

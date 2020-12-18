@@ -1,0 +1,1 @@
+ URL : "https://github.com/danjee/generic-data/issues/11" TITLE : implementing limit clause BODY : dear danjee, i am wondering how can i implement latest n record with generic_service; for example i have user class and it related with the company entity. i want to get latest n user as a list select from users where company_id=10 order by id desc limit 10; thanks

@@ -1,0 +1,1 @@
+ URL : "https://github.com/giggls/mapnik-german-l10n/issues/8" TITLE : readme.md: missing dep? BODY : to fix errors during make dep , i had to to install the following package in addition what is listed in readme.md on ubuntu 16.04: apt-get install postgresql-server-dev-all tested on https://github.com/giggls/mapnik-german-l10n/commit/f557ef17d93214b85a25ef83b9e42bb0d6508107

@@ -1,0 +1,1 @@
+ URL : "https://github.com/cptechinc/soft-crm/issues/111" TITLE : vend-contact table issue BODY : https://github.com/cptechinc/soft-crm/blob/465196402a293840ad2b269bd47acaee3efdc7b1/site/templates/content/vend-information/vend-contact.php l63 remove this line, it's just going to cause issues since it's not being used and there's nothing being assigned

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ebruck/radiotray-ng/issues/28" TITLE : popups do not disappear BODY : radiotray-ng 0.1.6 the popup see screenshot indicating channel, artist and song always reappear after clicking them away. is there any option to disable them in the settings? is this already fixed in 0.1.7?

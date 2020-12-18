@@ -1,0 +1,1 @@
+ URL : "https://github.com/knoldus/ops-init/issues/1" TITLE : documnet ansible basics BODY : this story must document how - playbook - inventory - group/host vars - roles including defaults, files, handlers, meta, tasks, templates are implimented and used in ansible based on a working example.

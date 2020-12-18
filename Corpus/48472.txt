@@ -1,0 +1,1 @@
+ URL : "https://github.com/cmdrkotori/mpc-qt/issues/143" TITLE : screen resize lagging BODY : i don't know why but if i'm playing a video and start resizing the window it start lagging the video, i tested directly on mpv and it doesn't happen as it does with mpc-qt, what could it be?

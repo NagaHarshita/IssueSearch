@@ -1,0 +1,1 @@
+ URL : "https://github.com/cloudfoundry/docs-uaa/issues/3" TITLE : scim version correct? BODY : hi, on the overview documentation it's written that cf uaa supports scim 1.0 whereas the documtation on the scim page http://www.simplecloud.info/ states cf uaa supports scim 1.1. which version is actually supported? thx

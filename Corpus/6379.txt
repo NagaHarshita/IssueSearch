@@ -1,0 +1,1 @@
+ URL : "https://github.com/andreoliwa/dotfiles/issues/21" TITLE : add docker role BODY : - only install docker from the galaxy role if it's not already installed the role doesn't do that, there is an issue on github, not solved - add user to the docker group on linux: sudo usermod -ag docker $user - the role should have docker and docker-compose

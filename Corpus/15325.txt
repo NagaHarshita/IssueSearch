@@ -1,0 +1,1 @@
+ URL : "https://github.com/natashabatalha/PandExo/issues/1" TITLE : default sat level BODY : in exo_input.json, the default saturation level is listed as in % sat level' , which throws an exception whenever saturation level has not been defined. instead, the default should be some reasonable value 10%, 50%, 80% so that the code runs.

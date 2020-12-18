@@ -1,0 +1,1 @@
+ URL : "https://github.com/mybatis/spring/issues/193" TITLE : change to use assertj BODY : <!-- dear contributors, please consider providing an executable test case or an example project. as spring has many ways to setup, it is really difficult for us to reproduce the problem just from some snippets. thank you very much for your contribution! --> see mybatis/mybatis-3 977

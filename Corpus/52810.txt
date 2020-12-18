@@ -1,0 +1,1 @@
+ URL : "https://github.com/OmniLayer/omniwallet/issues/1560" TITLE : create crowdsale fails BODY : create crowdsale works in test mode; fails in actual mode. https://www.omniwallet.org/assets/crowdsale do you have a workaround, or can you suggest another exchange that is compatible with omni tokens?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/cmip6dr/CMIP6_DataRequest_VariableDefinitions/issues/216" TITLE : expcfe and expfe BODY : there are two variable names in use for the cf 'sinking_mole_flux_of_particulate_iron_in_sea_water': emon: expcfe oyr: expfe i guess that there is a typo in the emon table and it should be also 'expfe'.

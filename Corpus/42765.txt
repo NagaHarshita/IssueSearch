@@ -1,0 +1,1 @@
+ URL : "https://github.com/wit-ai/wit/issues/409" TITLE : can i flag profanity? BODY : i have a quick question love the platform is there a way to provide the ai with a list of curse words that if seen, would immediately return a different intent? i can train it with the words i suppose, however is that the best way if i'm using trait instead of keywords for my intent? thanks!

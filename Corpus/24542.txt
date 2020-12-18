@@ -1,0 +1,1 @@
+ URL : "https://github.com/TNG/JGiven/issues/326" TITLE : support junit 5 ga BODY : junit 5 ga has some api changes that break the current junit 5 support.

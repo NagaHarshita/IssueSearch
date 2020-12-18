@@ -1,0 +1,1 @@
+ URL : "https://github.com/grassjelly/lino_docs/issues/1" TITLE : pwm on speed controller BODY : thank you very much for the documentation! it helps a lot. i'm a little confused about how the speed controller gets pwm signal from teensy. is the ena pin also a pwm pin? i'm trying to use vnh5019 instead. if you have a schematic for vnh5019 it will be great. thank you!

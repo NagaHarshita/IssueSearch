@@ -1,0 +1,1 @@
+ URL : "https://github.com/ON-IT/Visma.Net/issues/70" TITLE : uom in salesorderline BODY : i came across the same scenario as described here: https://www.visma.com/software/support/portal/forum/showthread.php?10114-release-announcement-on-28th-of-april removed requiredfields.add uom , new dtovalue null ; from ctor in salesorderline and got it to work.

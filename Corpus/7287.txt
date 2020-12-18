@@ -1,0 +1,1 @@
+ URL : "https://github.com/AdmiralFraggle/RaspberryPi-Fan-Controllor/issues/1" TITLE : fans turning on BODY : i am hooking up some 20mm computer fans but, i cant figure out how to make them turn on when it gets to a certain temperature. all code is in python by the way.

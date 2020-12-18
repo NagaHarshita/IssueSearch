@@ -1,0 +1,1 @@
+ URL : "https://github.com/si-machines/poli2/issues/1" TITLE : configure travis ci BODY : travis seems to be enabled, but will not build until master has packages. once master is initialized, we must ensure proper travis configuration.

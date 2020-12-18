@@ -1,0 +1,1 @@
+ URL : "https://github.com/Geigerkind/ModifiedPowerAuras/issues/68" TITLE : playing sound files error BODY : line 87 \animation.lua: playsoundfile interface\\addons\\modifiedpowerauras\\sounds\\ ..self.sound path.beginsound , master should be: playsoundfile interface\\addons\\modifiedpowerauras\\sounds\\ ..self.sound p.beginsound , master

@@ -1,0 +1,1 @@
+ URL : "https://github.com/shawnbot/topogram/issues/31" TITLE : make this repo a d3-plugin BODY : hello, i think it'd be a good idea to list this repo in npm and make it a v4 d3-plugin like the ones listed here https://github.com/d3/d3/wiki/plugins . i went ahead and opened a pr that basically does this. please check it out. 30

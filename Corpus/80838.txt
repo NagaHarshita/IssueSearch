@@ -1,0 +1,1 @@
+ URL : "https://github.com/jurf/scribus-flatpak/issues/1" TITLE : upstreaming the manifest BODY : i created a scribus flatpak manifest, too, which includes some more 3rd party libraries. but i didn't pay attention to config options and cleanup: https://bugs.scribus.net/view.php?id=14716 could you upload your patch there as well, so they can combine both of them?

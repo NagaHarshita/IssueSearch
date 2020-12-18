@@ -1,0 +1,1 @@
+ URL : "https://github.com/erikvanoosten/metrics-scala/issues/94" TITLE : no type information BODY : timers, gauges, historgrams, etc. dont have type info when exposed through jmx. jmx object name convention http://www.oracle.com/technetwork/java/javase/tech/best-practices-jsp-136021.html moztocid654884 specifies all objects should have type information.

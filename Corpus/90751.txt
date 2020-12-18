@@ -1,0 +1,1 @@
+ URL : "https://github.com/newbreedofgeek/react-stepzilla/issues/9" TITLE : stateless component error BODY : i got this error while implement it on stateless component warning: stateless function components cannot be given refs see ref activecomponent in productform created by stepzilla . attempts to access this ref will fail.

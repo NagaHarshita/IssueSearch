@@ -1,0 +1,1 @@
+ URL : "https://github.com/snowflakedb/pdo_snowflake/issues/71" TITLE : support ctrl+c well BODY : by default, php cli allows the uses to interrupt a script by ctrl+c. a problem is it leaks lot of memory. is there any way to gracefully free all memory? note this could be php fundamental issue. need further investigation.

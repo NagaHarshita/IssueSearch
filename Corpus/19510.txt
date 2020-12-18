@@ -1,0 +1,1 @@
+ URL : "https://github.com/vrlogic/Cave-Calculator/issues/3" TITLE : add error messages BODY : add error messages, so every time an input was left empty a massage apears and ask you for an input again.

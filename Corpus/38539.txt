@@ -1,0 +1,1 @@
+ URL : "https://github.com/jaemk/migrant/issues/9" TITLE : postgres exit status BODY : when running sql/files with psql errors don't exit with a non-zero status code

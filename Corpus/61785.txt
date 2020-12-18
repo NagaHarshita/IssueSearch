@@ -1,0 +1,1 @@
+ URL : "https://github.com/awesto/django-shop/issues/564" TITLE : broken address handling BODY : we have a bug with the address handling in the checkout, at least for certain checkouts that differ from the example shop. further investigation is needed. see 544 and 560.

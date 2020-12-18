@@ -1,0 +1,1 @@
+ URL : "https://github.com/TheMachine02/Virtual3D/issues/3" TITLE : shaders are hardcoded BODY : a convenient way to load shader from external source should be included. it has to resolve linking issues, and copy issues.

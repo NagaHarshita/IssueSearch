@@ -1,0 +1,1 @@
+ URL : "https://github.com/WICG/inert/issues/56" TITLE : add minified build to dist BODY : hi, could you please rebuild with the minified version of inert in the dist? some packages have dependencies on the minified build that i cannot change. thanks!

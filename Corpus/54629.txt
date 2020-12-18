@@ -1,0 +1,1 @@
+ URL : "https://github.com/JohanLarsson/Gu.Analyzers/issues/106" TITLE : gu0037 should nag here BODY : c namespace roslynsandbox { using system; using system.collections.generic; public sealed class foo { private list<idisposable> disposables; public void methodname idisposable disposable { ↓this.disposables = new list<idisposable> { new disposable , disposable }; } } }

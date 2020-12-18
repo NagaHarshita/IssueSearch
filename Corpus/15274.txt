@@ -1,0 +1,1 @@
+ URL : "https://github.com/LaserWeb/LaserWeb4/issues/365" TITLE : dashed line issue BODY : i want to drill or cut dashed line. i don't want to cut or drill entire line. i convert lines to dashed line in illustrator. but when i opened svg file with laserweb, it wasn't dashed. just normal full line. how can i solve this or are there any different programs to do this.

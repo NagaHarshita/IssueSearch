@@ -1,0 +1,1 @@
+ URL : "https://github.com/IIC2233/Syllabus/issues/546" TITLE : darle forma a un boton BODY : hola, estoy intentado darle forma a mi botón y hago boton.setstylesheet border-image: url path imagen . resulta que me queda el botón con la forma dada, pero no le puedo hacer click, queda como si fuera un label. que se puede hacer?

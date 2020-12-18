@@ -1,0 +1,1 @@
+ URL : "https://github.com/frenzyapp/turbolinks/issues/16" TITLE : js not loaded perfectly BODY : i'm using laravel 5.4, and almost every time i request page, its not loaded the javascripts files. how do i solve this?

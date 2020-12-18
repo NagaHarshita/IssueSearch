@@ -1,0 +1,1 @@
+ URL : "https://github.com/robinvdvleuten/vuex-persistedstate/issues/64" TITLE : problem loading state BODY : i configured vuex-persistedstate two different ways: 1. the default way with localstorage. everything works great. 2. using localforage. the data is correctly saved in the local indexeddb, but it is not loaded on page reload. am i missing something? thank you

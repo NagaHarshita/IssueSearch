@@ -1,0 +1,1 @@
+ URL : "https://github.com/pkkid/python-plexapi/issues/214" TITLE : add speed ups BODY : right now fetchitems is rather slow because 99% of the time we ony use the etag so should precheck that before calling _checkattrs, https://github.com/pkkid/python-plexapi/blob/master/plexapi/base.py l135 changing this with container size reduced my my function call by ca 50 sec

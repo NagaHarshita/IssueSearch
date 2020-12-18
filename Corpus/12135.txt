@@ -1,0 +1,1 @@
+ URL : "https://github.com/infinispan-demos/infinispan-openshift-monitoring-and-catalog/issues/2" TITLE : mvnw not working BODY : ./mvnw clean /users/g/1/infinispan-openshift-monitoring-and-catalog/client error: could not find or load main class org.apache.maven.wrapper.mavenwrappermain

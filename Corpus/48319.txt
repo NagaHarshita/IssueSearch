@@ -1,0 +1,1 @@
+ URL : "https://github.com/tempesta-tech/mariadb/issues/306" TITLE : revisit numeric types BODY : replace ullong and ulonglong with uint64_t or some typedef alias, say, timestamp_t or trx_id_t . try to remove all added references to the long or ulong data types. we need a portable 64-bit type for the timestamps and transaction identifiers.

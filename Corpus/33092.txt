@@ -1,0 +1,9 @@
+ URL : "https://github.com/curationexperts/laevigata/issues/283" TITLE : about me tab feature BODY : detail these are all the fields required to capture the about me & about my program data for an etd submission. when this ticket is closed, all of the about me tab functionality has been completed. ticket 241 covers the ui of the about me tab. fields & dropdowns - student name
+- graduation date - ticket 193
+- post graduation email - school - ticket 244
+- department / program - ticket 156
+- sub-field
+- degree
+- i am submitting - tickets 177 & 223
+- committee chair / thesis advisor
+- committee members - - partnering agency rollins only - tickets 187 & 140

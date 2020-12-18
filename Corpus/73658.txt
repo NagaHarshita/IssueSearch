@@ -1,0 +1,1 @@
+ URL : "https://github.com/MassTransit/MassTransit/issues/885" TITLE : data masking in mt audit BODY : when using the audit feature of mt connectconsumeauditobserver. we're unable to mask some command properties, this could be sensitive data like credit cards, passowrds,etc.. it would be nice if you can support this using something like custom attributes, or so. regards,

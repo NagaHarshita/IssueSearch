@@ -1,0 +1,1 @@
+ URL : "https://github.com/GoogleCloudPlatform/distroless/issues/126" TITLE : upgrading node to 8 lts BODY : would it be possible to upgrade the nodejs image to run v8 of node?

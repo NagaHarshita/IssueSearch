@@ -1,0 +1,1 @@
+ URL : "https://github.com/ProseMirror/prosemirror/issues/538" TITLE : incorrect link in guide BODY : https://github.com/prosemirror/website/blame/master/pages/guide/basics.md l90 links to transactions rather than transaction .

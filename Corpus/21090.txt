@@ -1,0 +1,1 @@
+ URL : "https://github.com/DerekEdwards/TripCompare/issues/5" TITLE : dry up otp service BODY : otp service has a lot of repeated code in it. dry it up and clean up the params by passing a hash instead of a million parameters.

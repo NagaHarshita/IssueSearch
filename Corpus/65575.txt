@@ -1,0 +1,1 @@
+ URL : "https://github.com/Blacksilver42/science/issues/1" TITLE : issues with big numbers BODY : for money > ~10e17, everything breaks down. use a library for big numbers?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/alterstep/dnscrypt-osxclient/issues/149" TITLE : chromium dns requests BODY : since i upgraded dnscrypt-osxclient from 1.0.11 to 1.0.14, ungoogled chromium https://github.com/eloston/ungoogled-chromium tries to send dns requests itself. blocking them has no effect on name resolution. i have tried neither stock chrome nor chromium .

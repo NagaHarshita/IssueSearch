@@ -1,0 +1,1 @@
+ URL : "https://github.com/neerolyte/php-lyte-xml/issues/15" TITLE : can't set a nodevalue BODY : from an email: basically, i can’t change an element’s text with: $element->nodevalue = ’new value'; but i have to use: $element->getdecorated ->nodevalue = ’new value'; it’s probably because you implement __call and __get methods but not __set method.

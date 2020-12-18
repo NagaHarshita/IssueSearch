@@ -1,0 +1,1 @@
+ URL : "https://github.com/heroku/heroku-buildpack-python/issues/391" TITLE : fix /app builds BODY : > my suspicion is this line: https://github.com/heroku/heroku-buildpack-python/blob/master/bin/compile l195-l196. in heroku ci builds, $build_dir is /app. so i think that line empties out /app/.heroku/src, then tries to copy /app/.heroku/src to /app/.heroku/src.

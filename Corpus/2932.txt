@@ -1,0 +1,1 @@
+ URL : "https://github.com/folktale/data.task/issues/41" TITLE : fold is bimap BODY : i got a question about fold , so i took a look at the signature: @task α, β => α → γ , β → γ → task δ, γ this is not a fold, this is bimap.

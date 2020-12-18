@@ -1,0 +1,1 @@
+ URL : "https://github.com/liblouis/liblouis/issues/275" TITLE : how to run configure? BODY : i'm running osx 10.12.2 your read me says to run configure before running the make file. how to you run configure? from that directory running configure doesn't do anything. what am i missing?

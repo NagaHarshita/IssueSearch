@@ -1,0 +1,1 @@
+ URL : "https://github.com/ef4/rfcs/issues/15" TITLE : document dom api exposure BODY : see > todo: do we want this.$ , and if so should we limit how much of jquery's api we are leaking into our own?

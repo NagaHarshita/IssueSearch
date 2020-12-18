@@ -1,0 +1,1 @@
+ URL : "https://github.com/tidyverse/haven/issues/313" TITLE : xpt date handling BODY : read_xpt reads variables stored in date and datetime format as doubles. http://rpubs.com/jetravis/haven_xpt_date_test

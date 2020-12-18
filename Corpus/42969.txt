@@ -1,0 +1,1 @@
+ URL : "https://github.com/ElementUI/element-in-laravel-starter/issues/25" TITLE : change font director? BODY : hi, how to change the default fonts directory? after nom run dev , it automatically moves fonts to the path like: public/fonts/vendor/element-ui/packages/theme-default/src/

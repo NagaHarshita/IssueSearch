@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla/page-metadata-parser/issues/84" TITLE : add highres_icon_url rules BODY : we need a separate set of rules for just high res icons for callers who want to only know if a high res icon is available for a page.

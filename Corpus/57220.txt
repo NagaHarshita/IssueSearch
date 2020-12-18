@@ -1,0 +1,1 @@
+ URL : "https://github.com/silverapp/silver/issues/529" TITLE : postgres migration bug BODY : when running migrations 32 and 34, there is custom runsql command with containing as kind this for some reason breaks when running ./manage.py migrate the fix is to simply remove the quotation marks around kind.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/cloud8421/recipe/issues/21" TITLE : add a generator BODY : add a generator so that it's possible to run: bash> mix recipe.gen_recipe create_comment validate find_post create_comment broadcast this would create a recipe with 4 steps. the recipe folder should be configurable as a config setting and a command line flag .

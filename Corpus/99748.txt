@@ -1,0 +1,1 @@
+ URL : "https://github.com/sidoh/esp8266_milight_hub/issues/184" TITLE : new feature: repeater-mode BODY : hi, it would be great to have a repeater mode , where the system sniffs for packets from another hub and re-sends them. could be useful if you have a wide area to cover. :

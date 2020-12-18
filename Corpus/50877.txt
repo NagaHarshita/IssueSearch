@@ -1,0 +1,1 @@
+ URL : "https://github.com/SimplGy/api-vcr/issues/3" TITLE : add cors option server BODY : allow an optional setting cors header. thinking something like --access-origin alternatively just allow the setting of a header: --header access-control-allow-origin: https://developer.mozilla.org/en-us/docs/web/http/cors

@@ -1,0 +1,1 @@
+ URL : "https://github.com/he-yang/Excel-to-JSON/issues/3" TITLE : allow skip encoding BODY : it'd be nice to have the ability to skip encoding when certain columns include json. for example, if i have a column with json, instead of its value being {\ date\ :\ 2013-12\ ,\ status\ :\ open\ } i'd see { date : 2013-12 , status : open }

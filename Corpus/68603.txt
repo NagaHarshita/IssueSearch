@@ -1,0 +1,1 @@
+ URL : "https://github.com/erlanglab/erlangpl-ui/issues/27" TITLE : search supervision tree BODY : when you have large application and you want specific node there should be option to search for it based on pid. all irrelevant nodes should be grayed out showing only matching node with links.

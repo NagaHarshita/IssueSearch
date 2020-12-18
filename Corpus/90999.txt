@@ -1,0 +1,1 @@
+ URL : "https://github.com/osule/django-envie/issues/4" TITLE : support for single quotes BODY : expected behaviour the .env.py could allow both double-quotes and single-quotes ' actual behaviour only double quotes are allowed. steps to reproduce the behaviour it fails if you have: python secret_key = gibberish

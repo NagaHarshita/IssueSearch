@@ -1,0 +1,1 @@
+ URL : "https://github.com/mailjet/mailjet-apiv3-dotnet/issues/7" TITLE : send api v3.1 constants BODY : any chance to get v3.1 compatible send constants any time soon? e.g. in a send3_1 static class? or even better of course a real poco model? ;

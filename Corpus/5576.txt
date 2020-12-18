@@ -1,0 +1,1 @@
+ URL : "https://github.com/opencreds/vc-use-cases/issues/25" TITLE : rdf based spec BODY : neither turtle nor json-ld should be mandated in any rdf based spec. rdf is a language associated with many notations. source: https://lists.w3.org/archives/public/public-webpayments/2014jul/0083.html

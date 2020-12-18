@@ -1,0 +1,1 @@
+ URL : "https://github.com/jakubgarfield/expenses/issues/4" TITLE : client id issue BODY : client id only works on localhost:8080 it won't work in localhost default static port 5000 or any other domain. please provide steps to create new client id. i guess i need to submit for verification to access sheets api

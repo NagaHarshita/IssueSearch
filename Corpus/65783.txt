@@ -1,0 +1,1 @@
+ URL : "https://github.com/mayur-kambariya/LMS/issues/18" TITLE : leave management module BODY : model recreated with signoff name. can approve,decline and cancel leave. used restful for signoffs and addleavetypes controllers

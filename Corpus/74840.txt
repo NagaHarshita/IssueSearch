@@ -1,0 +1,1 @@
+ URL : "https://github.com/TricksterGuy/nin10kit/issues/20" TITLE : fix command line parsing BODY : too picky. -for_bitmap should be accepted however you must explicitly pass a 0 or 1 for it to be accepted.

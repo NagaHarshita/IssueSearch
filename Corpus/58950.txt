@@ -1,0 +1,1 @@
+ URL : "https://github.com/eslint/typescript-eslint-parser/issues/321" TITLE : support typescript 2.4 BODY : main changes to syntax are dynamic imports and string enums. both should probably just work by upgrading the typescript package. https://blogs.msdn.microsoft.com/typescript/2017/06/12/announcing-typescript-2-4-rc/

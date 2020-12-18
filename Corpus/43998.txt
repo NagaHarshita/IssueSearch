@@ -1,0 +1,1 @@
+ URL : "https://github.com/phalcon/forum/issues/428" TITLE : dono't use cloudflare BODY : we are constantly experiencing problems due to the fact that our statics is given through cdn e.g. cloudflare. over the past year, i remember at least four problems. in addition, sometimes there are short-term geo issues.

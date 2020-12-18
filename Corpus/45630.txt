@@ -1,0 +1,1 @@
+ URL : "https://github.com/ShabadOS/core/issues/12" TITLE : improve live captions BODY : move two obs window options in menu to live captions , clicking on this should create a window that shows a preview of what obs will look like and also the optiosn on the side for them to change. also add css export and link to buttons on that new window.

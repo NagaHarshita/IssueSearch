@@ -1,0 +1,1 @@
+ URL : "https://github.com/yeatmanlab/AFQ-Browser/issues/133" TITLE : download button BODY : add a button that downloads an archive with two csv files: one for the metadata and one for the bundle statistics, linked through the subject ids. for people who want to do more analysis on the data that is presented e.g., apply some machine learning to the data .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/vscode/issues/22715" TITLE : vsce publish timeout BODY : bash $ vetur > vsce publish $ publishing octref.vetur@0.5.2... $ error: request timeout: /_apis/gallery/publishers/octref/extensions/vetur cc @joaomoreno

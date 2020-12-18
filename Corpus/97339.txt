@@ -1,0 +1,1 @@
+ URL : "https://github.com/meteor/blaze/issues/271" TITLE : get rid of jquery for vdom BODY : get rid of all dom updates done using jquery and use something like google's incremental dom https://github.com/google/incremental-dom . 3 advantages - faster, smaller, support server side rendering.

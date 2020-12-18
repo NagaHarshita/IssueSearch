@@ -1,0 +1,12 @@
+ URL : "https://github.com/istio/istio/issues/1436" TITLE : unstable pod ip BODY : @kyessenov commented on tue aug 01 2017 https://github.com/istio/old_pilot_repo/issues/977 pod ip are an unreliable identity for pods since they can change during pod lifetime. --- @rshriram commented on tue aug 01 2017 https://github.com/istio/old_pilot_repo/issues/977 issuecomment-319525870 can you reproduce this ?
+on tue, aug 1, 2017 at 7:32 pm kuat <notifications@github.com> wrote: > pod ip are an unreliable identity for pods since they can change during
+> pod lifetime.
+>
+> —
+> you are receiving this because you are subscribed to this thread.
+> reply to this email directly, view it on github
+> <https://github.com/istio/pilot/issues/977>, or mute the thread
+> <https://github.com/notifications/unsubscribe-auth/ah0qd9-54lb1dpqoivnecoma8wq15d4gks5st7v6gajpzm4oqbd->
+> .
+>
+-- ~shriram --- @kyessenov commented on tue aug 01 2017 https://github.com/istio/old_pilot_repo/issues/977 issuecomment-319534372 unfortunately, the pod ip address is not stable. the downward api to get pod ip at startup is not reliable after all, despite being an api . i doubt you can reproduce it on a regular gke cluster, a custom cni plugin might be necessary to trigger this problem.

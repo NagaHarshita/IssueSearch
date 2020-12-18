@@ -1,0 +1,1 @@
+ URL : "https://github.com/MohawkTSDB/mohawk-container/issues/1" TITLE : update docker file BODY : current docker file : a. use unsupported --backend replaced with --stroage b. does not re-compile mohwak just copy the binary to container

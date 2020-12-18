@@ -1,0 +1,1 @@
+ URL : "https://github.com/muccc/iridium-toolkit/issues/17" TITLE : iridium link 3 idea BODY : in your presentation at the eleventh hope you mentioned that it was 6 bit frames with a checksum. have you tried running the data through a base64 decoder?

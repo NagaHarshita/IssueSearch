@@ -1,0 +1,1 @@
+ URL : "https://github.com/Alexpux/MINGW-packages/issues/2229" TITLE : mono on msys64 x86_64 BODY : mingw-w64-mono https://github.com/alexpux/mingw-packages/pull/2228 i created new package with mono, but it compile only on i686.

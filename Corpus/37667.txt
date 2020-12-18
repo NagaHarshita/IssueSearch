@@ -1,0 +1,1 @@
+ URL : "https://github.com/QuailAutomation/openhab2-addons/issues/99" TITLE : missing omni updates BODY : it appears the omnilink addon is missing updates from the omni periodically. i can't detect a pattern, but i noticed that snaplink will show the correct state and our state in openhab. i have only noticed it on lighting. @craigham are you seeing this too?

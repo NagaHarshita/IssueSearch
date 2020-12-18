@@ -1,0 +1,1 @@
+ URL : "https://github.com/Mailu/Mailu/issues/327" TITLE : statistics per container BODY : if i understand it correctly, only the admin-container can advertise to the dns-tracking service, how about adding this feature to every container and getting an overview which optional services are really used?

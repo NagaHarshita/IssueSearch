@@ -1,0 +1,1 @@
+ URL : "https://github.com/sagemathinc/smc/issues/1644" TITLE : create a csv editor BODY : if you click on a csv file, instead of opening in codemirror, open in a very, very, very simple spreadsheet grid view, which allows for structured editing of the csv file.

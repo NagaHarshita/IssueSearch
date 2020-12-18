@@ -1,0 +1,1 @@
+ URL : "https://github.com/ivandokov/rockety-cli/issues/5" TITLE : change dev branch BODY : at the moment rockety uses master and dev branches. this should be changed to master only for bleeding edge versions and latest tagged for stable version.

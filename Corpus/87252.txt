@@ -1,0 +1,1 @@
+ URL : "https://github.com/StevenDevooght/tinyMCE-mention/issues/66" TITLE : jquery version dependency BODY : i see that the plugin is using jquery plugin version 1.8.3. can it be used with a 2.x version?

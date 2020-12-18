@@ -1,0 +1,1 @@
+ URL : "https://github.com/h3imdall/ftp-remote-edit/issues/118" TITLE : support for ecdsa BODY : hi, i have problem connecting sftp to server which use ecdsa encryption. error log from server: oct 06 16:51:01 hostxx sshd 958 : received disconnect from xxx.xxx.xxx.xxx: 11: preauth is the ftp-remote-edit ssh client support ecdsa?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/dssg/lorax/issues/5" TITLE : handle ties better BODY : the helper methods top_k_example_ids and bottom_k_example_ids don't attempt to handle ties in scores at the cut-off but definitely should do so and do so in a way consistent with what's done for model evaluation in catwalk

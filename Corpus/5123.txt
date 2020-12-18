@@ -1,0 +1,1 @@
+ URL : "https://github.com/PeyracheLab/TStoolbox/issues/4" TITLE : loadobj needed BODY : in order for the tsd2.0 to be able to load in old tsds, there has to be a method called loadobj that can load in the old tsds from .mat files and convert them. i haven't written it yet.

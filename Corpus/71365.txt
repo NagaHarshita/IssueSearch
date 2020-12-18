@@ -1,0 +1,1 @@
+ URL : "https://github.com/mnieber/dodo_webdev_commands/issues/1" TITLE : add dockercreate command BODY : this command should be an alias for docker create docker create -v dir1 -v dir2 --name foobar docker:image the values for dir1 and dir2 should come from a small config file foobar.dirs stored in dodo_commands/res .

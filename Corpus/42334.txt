@@ -1,0 +1,1 @@
+ URL : "https://github.com/OE-Development/Tickets/issues/71" TITLE : attachment size limit BODY : i attempted to attach a large pdf to a ticket but it failed. no limit has been added by us but we need to check if there is a default limit or another reason why it is failing.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/numbers1311407/mongoose-friends/issues/8" TITLE : remove friend issue BODY : user.removefriend req.body.user2, req.body.user1, function friend,cb { console.log cb ; res.end friend deleted! ; } ; is not working . get friend deleted from response , but on mongodb side result: { ok: 1, nmodified: 0, n: 0 } nothing changed

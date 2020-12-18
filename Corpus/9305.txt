@@ -1,0 +1,1 @@
+ URL : "https://github.com/pivotal-cf/terraforming-azure/issues/13" TITLE : updte azure cli BODY : the azure cli 2.0 should be used, so all cli commands need to be az , not azure . example: sh if which azure > /dev/null; then : else echo could not find azure. please \ brew install azure-cli\ . exit 1 fi

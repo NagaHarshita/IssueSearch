@@ -1,0 +1,1 @@
+ URL : "https://github.com/dotwaffle/prefixlister/issues/11" TITLE : dockerize the app BODY : it's a simple task, might as well add a dockerfile for what's there so far.

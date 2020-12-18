@@ -1,0 +1,1 @@
+ URL : "https://github.com/GraxCode/FieldMaster/issues/1" TITLE : image icons not included BODY : the 3 image icons loaded in me.noverify.fieldmaster.utils.gui.cellrenderer are not included which causes the agent to crash.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/zdolny/es6-playground/issues/6" TITLE : do poprawy 3.7 BODY : - brakuje ci bardzo ważnej metody render - nie, nie trzeba przekazywać propsów do constructora pamiętaj, że react to biblioteka do obsługi widoków, stwórz sobie komponenty tak jak to klasycznie robiliśmy i podepnij pod nie wszystkie metody oraz propsy, których wymagają te komponenty

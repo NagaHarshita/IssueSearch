@@ -1,0 +1,1 @@
+ URL : "https://github.com/jghaanstra/com.xiaomi-miio/issues/9" TITLE : app constantly crashing BODY : every few days the app installed via the store keeps crashing. the only connected device is an air filter. error message: ------------------ hi! unfortunately, the app crashed while i was doing the following: ... this is the stack trace: too many memwarns received

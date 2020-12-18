@@ -1,0 +1,1 @@
+ URL : "https://github.com/hamburgscleanest/laravel-riot/issues/2" TITLE : implement rate limiting BODY : riot has rate limits for the api calls amount of requests per minute . automatically retrieve cached data when the rate limit is exceeded.

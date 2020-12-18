@@ -1,0 +1,1 @@
+ URL : "https://github.com/nielsnl68/node-contrib-i2c/issues/5" TITLE : 36 byte read BODY : i need to return 36 bytes using the read/input node, but whenever i go that high, it bombs out.

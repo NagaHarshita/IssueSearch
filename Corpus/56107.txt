@@ -1,0 +1,1 @@
+ URL : "https://github.com/davidtheclark/react-aria-menubutton/issues/67" TITLE : menuitem disabled prop BODY : not sure if this is currently possible, but i have the use case of having one item in the menu being shown but being disabled aria-disabled , it cannot be selected and focus is skipped when navigating with arrow keys. happy to contribute with a pr.

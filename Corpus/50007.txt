@@ -1,0 +1,1 @@
+ URL : "https://github.com/IohannRabeson/VCVRack-Simple/issues/21" TITLE : using gcc with travis BODY : gcc is a compiler used by somes users, so it can be nice to use it with travis in addition of clang.

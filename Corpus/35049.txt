@@ -1,0 +1,1 @@
+ URL : "https://github.com/arulrajnet/attila/issues/15" TITLE : darken header images BODY : is would be great to be able to change how dark/bright a cover image is through css. i am not a css expert but i think this is done through a css linear-gradient .

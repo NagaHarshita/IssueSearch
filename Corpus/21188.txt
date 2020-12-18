@@ -1,0 +1,1 @@
+ URL : "https://github.com/azavea/tilejson.io/issues/54" TITLE : enhance sidebar ui BODY : only keep the quick add and allow users to open an advanced add popup from the quick add workflow. focus initial sidebar design on the quick add add empty state instructions to sidebar disable share and clear in the beginning quick add should look different from the layers

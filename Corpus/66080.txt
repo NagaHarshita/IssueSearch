@@ -1,0 +1,1 @@
+ URL : "https://github.com/linode/manager/issues/1287" TITLE : make links a link color BODY : use existing blue, review and test the change to make sure it is applied in needed cases.

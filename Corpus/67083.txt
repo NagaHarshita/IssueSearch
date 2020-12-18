@@ -1,0 +1,1 @@
+ URL : "https://github.com/OlliV/xstack.io/issues/1" TITLE : optimize error handling BODY : don't use errno in the daemon

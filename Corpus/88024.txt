@@ -1,0 +1,1 @@
+ URL : "https://github.com/avsm/mirage-ci/issues/9" TITLE : missing depexts for opam2 BODY : see https://ci.ocaml.io/log/saved/docker-build-8d132c9b1d6358ccfbd0c78f6744169b/d721f9bfb6b495b04f089fad82739205a7bb15c7 seems that we don't call opam depext <pkgs> at the right moment?

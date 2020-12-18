@@ -1,0 +1,1 @@
+ URL : "https://github.com/rism-ch/muscat/issues/503" TITLE : bl: enhance facets BODY : instead of adding a separate index for composers and titles, the facet interface should be made better: make it searchable autocomplete? redesign the popup so it is less annoying

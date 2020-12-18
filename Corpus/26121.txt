@@ -1,0 +1,1 @@
+ URL : "https://github.com/JuliaFEM/FEModels.jl/issues/3" TITLE : add support for lfs BODY : for big models, it's better to use lfs, but when trying to download lfs stored data, get version https://git-lfs.github.com/spec/v1 oid sha256:a040e55aaf638ba66edfc1f575192f8b283c1aece877930b6ddba1bd603a9fcf size 166997377

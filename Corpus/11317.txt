@@ -1,0 +1,1 @@
+ URL : "https://github.com/dbrgn/RPLCD/issues/67" TITLE : get rid of enums BODY : they don't add that much value. but without them rplcd is easier to port to embedded platforms micropython .

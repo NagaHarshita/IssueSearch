@@ -1,0 +1,1 @@
+ URL : "https://github.com/vvv-v13/nuxt-jwt-starter/issues/1" TITLE : connect with api django BODY : i use django for building backend. how can i fix this api file: https://github.com/vvv-v13/nuxt-jwt-starter/blob/master/api/index.js in order to sign in by using username and password in django. thank you

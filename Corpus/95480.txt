@@ -1,0 +1,1 @@
+ URL : "https://github.com/mbgimot/makersbnb/issues/9" TITLE : date validation on request BODY : currently you can request to book a property without entering a date, it clicks through, but then doesn't make an entry in the database. need to throw an error if no date request make it a required field in html .

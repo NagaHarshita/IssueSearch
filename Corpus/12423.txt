@@ -1,0 +1,1 @@
+ URL : "https://github.com/rob1grie/billsheets/issues/3" TITLE : payees edit form BODY : weeding out little bugs in the payee edit form: 1. repeating field isn't updating

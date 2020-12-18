@@ -1,0 +1,1 @@
+ URL : "https://github.com/pythonnet/pythonnet/issues/568" TITLE : python 3.6 nuget BODY : environment - pythonnet version: 3.6 - python version: 3.6 - operating system: windows details - the master branch already defines python36 but the dll is not available in nuget.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/pchero/jade/issues/36" TITLE : ob dl list error handler BODY : need to check invalid status of dls, and fix it. - get the all dialing/reserved status of dls. - validate dl info. if there's no corresponding dl info in the dialing, update the status to idle.

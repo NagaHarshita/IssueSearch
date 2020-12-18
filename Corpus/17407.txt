@@ -1,0 +1,21 @@
+ URL : "https://github.com/Zimmi48/bugzilla-test-2/issues/1652" TITLE : patch for bug 951 BODY : note: the issue was created automatically with bugzilla2github tool original bug id: bz 957
+date: 2005-04-21 09:14:47 +0200
+from: @ roconnor
+reported version: 8.1 last updated: 2005-04-21 09:14:47 +0200 @ roconnor on 2005-04-21 09:14:47 +0200 the end of wf_z.v should be changed to the following: lemma z_lt_rec : forall p:z -> type, forall x:z, forall y:z, 0 <= y < x -> p y -> 0 <= x -> p x -> forall x:z, 0 <= x -> p x.
+proof.
+intros p hrec z; pattern z in |- ; apply well_founded_induction_type
+r_wf .
+intro x; case x; intros.
+apply hrec; intros.
+assert h2 : 0 < 0 . apply zle_lt_trans with y; intuition.
+inversion h2.
+assumption.
+firstorder.
+unfold zle, zcompare in h; elim h; auto.
+defined. lemma z_lt_induction : forall p:z -> prop, forall x:z, forall y:z, 0 <= y < x -> p y -> 0 <= x ->p x -> forall x:z, 0 <= x -> p x.
+proof.
+exact z_lt_rec.
+qed. -- russell o'connor <http://r6.ca/> all talk about theft,''' the general counsel of the american graphophone
+company wrote, is the merest claptrap, for there exists no property in
+ideas musical, literary or artistic, except as defined by statute.'' @ roconnor on 2007-07-04 17:03:53 +0200 new versions added to main cvs with names zlt_0_rec and zlt_0_ind. old versions
+kept for compatibility hh 26/4/05, 2/5/05

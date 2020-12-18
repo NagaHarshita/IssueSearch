@@ -1,0 +1,1 @@
+ URL : "https://github.com/dpa99c/phonegap-launch-navigator/issues/144" TITLE : error linking reachability BODY : with this commit you, @dpa99c uploaded the demo files from apple. https://github.com/dpa99c/phonegap-launch-navigator/commit/7c1bfdd0f83108ee2cd2bd699b06503367706393 do we need this files? because i'm getting a problem with linking 4 times the reachability file.

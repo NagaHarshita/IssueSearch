@@ -1,0 +1,1 @@
+ URL : "https://github.com/bradsease/astra-viso/issues/78" TITLE : implement get_fov function BODY : function should be able to estimate the field of view of a sensor using an arbitrary projection function and a given resolution. possibly using a binary search in the x and y directions to find when a unit vector extends beyond the image frame?

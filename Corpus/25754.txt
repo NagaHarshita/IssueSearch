@@ -1,0 +1,1 @@
+ URL : "https://github.com/twitter/scalding/issues/1741" TITLE : add a spark backend BODY : to test the modularity, a basic spark backend based on rdds should be implemented. should be easy to do to based on the cascading backend and the memory backend.

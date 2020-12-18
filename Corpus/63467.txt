@@ -1,0 +1,1 @@
+ URL : "https://github.com/greenkeeperio/greenkeeper/issues/371" TITLE : duplicate add badge prs BODY : > @greenkeeperio i'm getting multiple add badge prs. it appends another badge after the first one. just fyi — https://twitter.com/dbrckmn/status/823813359824945152 asked for org/repo details in a reply, will update the issue when we get this info

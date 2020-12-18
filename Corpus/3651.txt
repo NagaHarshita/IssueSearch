@@ -1,0 +1,1 @@
+ URL : "https://github.com/glowcap/DGNotifyView/issues/2" TITLE : support ios 8 BODY : as far as i've seen the only thing that prevents this project from supporting ios 8 is the uistackview in the example project. if this gets replaced ios 8 could be supported.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/EddyVerbruggen/nativescript-plugin-firebase/issues/347" TITLE : uploading multiple image? BODY : is there a better way to upload multiple images other than nesting upload functions in the callbacks? it would be great to be able to pass an array for remote and local paths, and then have them all be uploaded at once.

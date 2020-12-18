@@ -1,0 +1,1 @@
+ URL : "https://github.com/PalouseRobosub/robosub_simulator/issues/41" TITLE : add thruster ramping. BODY : thruster changes are instantaneous on receipt of a control message. in actuality they take some amount of time to get to speed. it's probably best just to model this as a linear function of time.

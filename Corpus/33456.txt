@@ -1,0 +1,1 @@
+ URL : "https://github.com/tcbyrd/probot-lambda/issues/3" TITLE : add probot-app topic BODY : we're changing some of the terminology in probot in https://github.com/probot/probot/pull/210. if you add the probot-app topic to this repository, it will show up in the list of probot apps https://github.com/search?q=topic%3aprobot-app&type=repositories .

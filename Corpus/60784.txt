@@ -1,0 +1,1 @@
+ URL : "https://github.com/osglworks/java-http/issues/9" TITLE : add h.context interface BODY : the h.context interface is used to encapsulate the context data needed for http processing logic. it shall provides the following data: request response session flash

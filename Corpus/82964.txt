@@ -1,0 +1,1 @@
+ URL : "https://github.com/siteorigin/siteorigin-panels/issues/381" TITLE : beta 3 adding widgets bug BODY : i just noticed a weird bug in beta3. if i add a row with two columns, then try to add a widget in the right column, it adds it to the column on the left instead. here is a demonstration: http://jmp.sh/tlsbkzj

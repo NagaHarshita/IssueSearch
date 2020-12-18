@@ -1,0 +1,1 @@
+ URL : "https://github.com/skywinder/github-changelog-generator/issues/503" TITLE : pr cited in the wrong tag BODY : i am not sure if this is related to 491 but we have a specific case private repo, sorry where a pr is cited in the wrong tag. i think it has to do with method filter_issues_for_tags using actual_date . i'm working on a pr ;-

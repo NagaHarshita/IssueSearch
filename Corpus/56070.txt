@@ -1,0 +1,1 @@
+ URL : "https://github.com/LADSoft/OrangeC/issues/33" TITLE : max_align_t is missing BODY : max_align_t std::max_align_t of c11 c++11 does not seem to be defined in stddef.h cstddef version 6.0.21.1

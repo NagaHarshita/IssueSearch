@@ -1,0 +1,1 @@
+ URL : "https://github.com/rekursivspace/blue_dream/issues/2" TITLE : track's api spec BODY : get /tracks return all tracks get /tracks/:track-uuid return a specific track get /tracks/:track-uuid/album return the album that a track belongs to get /tracks/:track-uuid/artist return the artist that a track belongs to

@@ -1,0 +1,1 @@
+ URL : "https://github.com/prashaantt/hapi-webpack-hot-middleware/issues/4" TITLE : update to webpack 3 BODY : seems like it stops working after upgrading webpack 3.8.1 , the problem seems to be with the hotmodulereplacementplugin. the error i receive: typeerror: chunk.mapmodules is not a function at chunks.foreach.chunk

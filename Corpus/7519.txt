@@ -1,0 +1,1 @@
+ URL : "https://github.com/UCSB-CS56-Projects/cs56-games-country-runner/issues/84" TITLE : ghost image fix BODY : currently, ghost image is not going through the sprite sheet sequence correctly. it is more like one continuous image. need to fix.

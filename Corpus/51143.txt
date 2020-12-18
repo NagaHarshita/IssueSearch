@@ -1,0 +1,1 @@
+ URL : "https://github.com/prometheus/golang-builder/issues/19" TITLE : add some documentation BODY : i spent some time today figuring out how all this is actually working. i think we should add just a few words to the readme explaining what the builder images contain, how they get build and how we use them to cross compile. just a few sentences would be enough.

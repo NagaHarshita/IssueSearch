@@ -1,0 +1,1 @@
+ URL : "https://github.com/ysdkmn/prj-rev-bwfs-dasmoto/issues/1" TITLE : use proper html & sign BODY : use the html & sign instead of just &, which is &amp; continue doing this in the future for all special symbols. you can find all of them here https://www.ascii.cl/htmlcodes.htm https://github.com/ysdkmn/prj-rev-bwfs-dasmoto/blob/master/dasmoto/index.html l8

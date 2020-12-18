@@ -1,0 +1,5 @@
+ URL : "https://github.com/paulie-g/autopy2/issues/27" TITLE : getter of bitmap buffer BODY : <a href= https://github.com/hoangjimmy ><img src= https://avatars3.githubusercontent.com/u/6785354?v=4 align= left width= 96 height= 96 hspace= 10 ></img></a> issue by hoangjimmy https://github.com/hoangjimmy _monday jun 16, 2014 at 00:29 gmt_
+_originally opened as https://github.com/msanders/autopy/pull/51_ ---- hello, i'm student in engeneering school and i have to implement some new function in your module. i add three new function to use bitmap buffer in numpy for example.
+these three functions are
+bitmap.get_bpp to get the number of bits per pixel of screen bitmap.get_buffer_length to get the length of the buffer bitmap.get_buffer to get the...buffer so i hope you'll accept my pull request
+thank you and have nice day ---- _ hoangjimmy https://github.com/hoangjimmy included the following code: https://github.com/msanders/autopy/pull/51/commits_

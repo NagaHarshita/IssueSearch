@@ -1,0 +1,1 @@
+ URL : "https://github.com/Sidoine/Ovale/issues/267" TITLE : fel rush dh: havoc bug BODY : in 7.1.8.0 dh havoc fel rush is displayed for single and multi target all the time sometimes , even if there is 100% ressource. in general it would be nice, to have an option to disable fel rush!

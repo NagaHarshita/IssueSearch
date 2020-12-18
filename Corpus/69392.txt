@@ -1,0 +1,1 @@
+ URL : "https://github.com/antioxidants/antioxidants.github.io/issues/2" TITLE : tag pages returning 404 BODY : when clicking on any tag anywhere on the site, the user will be lead to the correct url but will still be presented with a 404 error.

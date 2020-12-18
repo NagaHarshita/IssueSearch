@@ -1,0 +1,1 @@
+ URL : "https://github.com/bendavis78/paper-date-picker/issues/185" TITLE : i18n small bug BODY : paper-date-picker.html change <link rel= import href= ../moment-element/moment-import.html > to <link rel= import href= ../moment-element/moment-with-locales-import.html > thanks for your work!

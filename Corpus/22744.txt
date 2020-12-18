@@ -1,0 +1,1 @@
+ URL : "https://github.com/axelvnk/SyliusMolliePayumBundle/issues/4" TITLE : metadata to mollie BODY : on https://github.com/axelvnk/syliusmolliepayumbundle/blob/master/payum/action/captureaction.php l55 only the transaction_id is added. is it an idea to add at least also the ordernumber. maybe use an event dispatcher to let developers at what they want?

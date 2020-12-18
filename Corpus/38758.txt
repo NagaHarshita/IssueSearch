@@ -1,0 +1,1 @@
+ URL : "https://github.com/grishka/libtgvoip/issues/6" TITLE : question about usage BODY : hey guys quick question, is it possible to integrate the lib like other voip lib like pjsip. do you think to add a wiki or a readme to explain how to use the lib on android ?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/criteo/zipkin4net/issues/106" TITLE : possible memory leak BODY : not disposed stream spotted here https://github.com/criteo/zipkin4net/blob/d1dbae9645f0d715b9e0b6cf58b20c2b1ac22faa/zipkin4net/criteo.profiling.tracing/tracers/zipkin/zipkintracer.cs l85 do you want a pr ?

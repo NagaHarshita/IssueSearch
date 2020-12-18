@@ -1,0 +1,1 @@
+ URL : "https://github.com/loziniak/cinx/issues/6" TITLE : save config to file BODY : .properties file in current directory. save config on exit / config change.

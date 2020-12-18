@@ -1,0 +1,1 @@
+ URL : "https://github.com/macoats/lynx-major-interstellar-combat-deluxe/issues/13" TITLE : fix player jiggling BODY : try to find a way to isolate the effect of weapon spread on the player's character to their upper body/arms instead of the whole model.

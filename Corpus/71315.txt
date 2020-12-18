@@ -1,0 +1,1 @@
+ URL : "https://github.com/CobraLab/antsRegistration-MAGeT/issues/80" TITLE : add command-line logging BODY : it would be helpful to have a running list of the ways mb.sh was invoked. we should be able to grab and dump all command-line into a logfile in output/

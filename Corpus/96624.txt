@@ -1,0 +1,1 @@
+ URL : "https://github.com/lucasmgonzalez/semana-tecnica-desafio/issues/7" TITLE : faltou um loading na busca BODY : faltou um loading na busca para mostrar que ele está carregando a lista de animes. ter resposta de quando não foi encontrado pode ser uma ideia, porém o loading já resolve em partes este problema.

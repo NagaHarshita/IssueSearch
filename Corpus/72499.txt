@@ -1,0 +1,1 @@
+ URL : "https://github.com/barryvdh/laravel-debugbar/issues/729" TITLE : cache values not escaped BODY : when options.cache.values is activated and a cache value contains some html a <script> tag in my case , the value seems to no be escaped... and causes troubles.

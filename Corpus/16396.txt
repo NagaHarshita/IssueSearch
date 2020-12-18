@@ -1,0 +1,1 @@
+ URL : "https://github.com/wilddom/memrise2anki-extension/issues/43" TITLE : import top 3 mems BODY : this extension only imports mems you've already chosen, but it would be more helpful if it imported the top 3 most voted mems and showed them as hints in the anki cards, so you don't need to check memrise all the time for mems when learning new words.

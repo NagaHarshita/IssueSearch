@@ -1,0 +1,1 @@
+ URL : "https://github.com/developmentseed/collecticons/issues/11" TITLE : site running on old node BODY : the collecticons website is still running on node 0.12. this prevents us from using the latest version of collections-processor.

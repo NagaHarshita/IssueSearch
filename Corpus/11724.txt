@@ -1,0 +1,1 @@
+ URL : "https://github.com/CandiceBousquet/GraceShopper/issues/4" TITLE : items api routes BODY : - get all items - get single item include reviews, inventory and category - update item - delete item - create item

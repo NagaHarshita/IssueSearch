@@ -1,0 +1,1 @@
+ URL : "https://github.com/fallenPineapple/vichan/issues/16" TITLE : implementing ip hashing BODY : looks like the fellows over at https://github.com/openib/openib/ 8chan already have this implemented. i'll have a look into trying to get their code working on vichan, and i'll report back with my results.

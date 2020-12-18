@@ -1,0 +1,1 @@
+ URL : "https://github.com/FOBARMA3/FOB-2sierra/issues/6" TITLE : maj de adf_loadoutwest.sqf BODY : mise à jour des loadout pour l'équipe fob daguet fod dans le fichier adf_loadoutwest.sqf + mise à jour du fichier adf_clientloadout pour prendre en compte la nouvelle fonction de adf_loadoutwest.sqf

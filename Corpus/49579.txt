@@ -1,0 +1,1 @@
+ URL : "https://github.com/apache/trafficserver/issues/2614" TITLE : typo in documentation BODY : there is a typo in the cachekey plugin documention https://docs.trafficserver.apache.org/en/latest/admin-guide/plugins/cachekey.en.html . the last sentence of the cache key elements separator section misspelled default and is missing a period.

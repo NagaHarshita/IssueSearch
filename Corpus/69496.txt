@@ -1,0 +1,1 @@
+ URL : "https://github.com/BaezCrdrm/Maze-IA/issues/8" TITLE : tester crea nodos extra BODY : cuando el objeto tester se encuentra buscando la llegada al punto de destino, en ciertas variaciones del laberinto es posible que éste cree un nodo cerca de donde ya creó uno anteriormente.

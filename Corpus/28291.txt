@@ -1,0 +1,1 @@
+ URL : "https://github.com/cavaliercoder/redirector/issues/17" TITLE : fix uri key builder BODY : currently it ignores the protocol and host section of the uri.

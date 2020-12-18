@@ -1,0 +1,1 @@
+ URL : "https://github.com/laike9m/pdir2/issues/10" TITLE : add exception type BODY : i think it would be nice to show exceptions in their own category : the test could perhaps be like: isinstance someerror, type exception

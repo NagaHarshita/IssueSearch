@@ -1,0 +1,1 @@
+ URL : "https://github.com/Cluain/Lua-Simple-XML-Parser/issues/10" TITLE : require does not work BODY : error: main.lua:2: module 'xmlsimple.lua' not found: no field package.preload 'xmlsimple.lua'

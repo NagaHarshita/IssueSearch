@@ -1,0 +1,1 @@
+ URL : "https://github.com/ScribeTech/SurveyScribe/issues/223" TITLE : results link is broken BODY : steps to reproduce: 1. log in 2. edit a survey 3. click 'results' expected: go to the results page actual: the url changes, but nothing else happens

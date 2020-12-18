@@ -1,0 +1,1 @@
+ URL : "https://github.com/OrchardCMS/Orchard2/issues/567" TITLE : jquery ui and sortable BODY : it seems jquery ui is only required to use sortable script. may be it would be worth investigating on an alternative? ex: https://johnny.github.io/jquery-sortable/

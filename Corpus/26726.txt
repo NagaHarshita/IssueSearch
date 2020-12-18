@@ -1,0 +1,1 @@
+ URL : "https://github.com/nWidart/laravel-modules/issues/189" TITLE : cache - dont update BODY : hello, anything code update, on controller, on service provider even views or middleware. i need to wait about 60 seconds to see the changed. it is bad when i am debuging. so there is any solution for this?

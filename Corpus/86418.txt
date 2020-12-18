@@ -1,0 +1,1 @@
+ URL : "https://github.com/highcharts/node-export-server/issues/83" TITLE : how to export two charts? BODY : hello according to this : https://github.com/highcharts/node-export-server/issues/41 can you explain me or show me an example how to use promise or async to take action when all the exports have been completed? thank you.

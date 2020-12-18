@@ -1,0 +1,1 @@
+ URL : "https://github.com/firasdib/Regex101/issues/841" TITLE : visual group bug BODY : https://regex101.com/r/umjoxr/2 if you see regexp show all the link as same group but regexp divide in two. so the left panel shows 2 groups, while visual is only one. hope you understood me. p.s. sorry for bad english.

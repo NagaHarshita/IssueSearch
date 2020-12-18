@@ -1,0 +1,1 @@
+ URL : "https://github.com/collab-project/videojs-record/issues/129" TITLE : is currenttime wrong? BODY : when i call player.currenttime it shows me different time with time on controls bar. for example, on controls bar when i recording displays 0:02 and when i clicked a button that logs currenttime the button logs 5.434436 so, how can i get exact time?

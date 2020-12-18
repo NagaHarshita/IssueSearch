@@ -1,0 +1,1 @@
+ URL : "https://github.com/FlightSimDevGroup/OpenFTA/issues/3" TITLE : editing the cfg BODY : it needs to allow the user to select the location of their cfg file by using an explorer window back-up the original cfg file in a new location delete the existing cfg replace it with new one

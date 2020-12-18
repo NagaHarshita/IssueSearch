@@ -1,0 +1,1 @@
+ URL : "https://github.com/RobertShaw1/campus-connect/issues/11" TITLE : setup webpack hmr BODY : this will improve client-side development speed by preventing the need for manual refreshing of the browser. it will also maintain application state while injecting updates to the app.

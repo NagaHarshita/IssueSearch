@@ -1,0 +1,1 @@
+ URL : "https://github.com/openshmem-org/openshmem/issues/49" TITLE : modern fortran binding. BODY : the actual shmem.fh is not suitable to use in modern fortran where we use modules. i think it is better to add support for modern fortran fortran90,2003,2008 like mpi did.

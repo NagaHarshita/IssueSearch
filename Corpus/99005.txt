@@ -1,0 +1,1 @@
+ URL : "https://github.com/exercism/xjava/issues/356" TITLE : luhn: extract common setup BODY : in the luhn exercise, every test method duplicates the construction of the instance of luhnvalidator . please extract the construction into a setup http://junit.sourceforge.net/javadoc/org/junit/before.html method and use the instance data member instead.

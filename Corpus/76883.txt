@@ -1,0 +1,1 @@
+ URL : "https://github.com/neilogd/Engine/issues/4" TITLE : map/set: custom hashing. BODY : allow custom hashing to be specified via template. default should use the same as currently, however it should also support different sized hashes.

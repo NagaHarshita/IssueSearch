@@ -1,0 +1,1 @@
+ URL : "https://github.com/DewarM/passengerly/issues/8" TITLE : unify signup vs signup BODY : there are various places where this is inconstant. develop a list of the areas and fix them. i think signup is better than signup as component can be called signup and a prop can be signup, hence consistency can be kept.

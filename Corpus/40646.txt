@@ -1,0 +1,1 @@
+ URL : "https://github.com/Tim15/server/issues/2" TITLE : upgrade to drone 0.8 BODY : uses grpc http/2 , so needs significant changes to haproxy. for something like grpc.ci.wizproject.ml:80 maybe just wait for native http/2 support? other options: open an additional port 9000 on the host, direct to ci. ci.wizproject.ml:9000 this is required to add arm builders to the ci system.

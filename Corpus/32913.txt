@@ -1,0 +1,1 @@
+ URL : "https://github.com/SheetJS/js-xlsx/issues/914" TITLE : & inside html string BODY : i am trying to export / save to xlsx a html table, where some values might contain & sign this is always converted into &amp; inside xlsx file due to innerhtml call i think that the htmldecode function should also replace &amp; with &

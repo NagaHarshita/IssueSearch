@@ -1,0 +1,1 @@
+ URL : "https://github.com/cernopendata/opendata.cern.ch/issues/2199" TITLE : nginx: disable delete/put BODY : disable delete and put requests to the web app service, and possibly also post requests.

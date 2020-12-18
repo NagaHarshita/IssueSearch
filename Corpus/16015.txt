@@ -1,0 +1,1 @@
+ URL : "https://github.com/SilenceIM/Silence/issues/625" TITLE : gradle sync error BODY : hello , i'm pretty new to android coding i used both android studio 2.3 and 3.0 but still getting this error > error:project : declares a dependency from configuration 'compile' to configuration 'default' which is not declared in the descriptor for project :org.w3c.dom. what should i do ?

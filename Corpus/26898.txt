@@ -1,0 +1,1 @@
+ URL : "https://github.com/todotxt/todo.txt-android/issues/485" TITLE : change build system BODY : to reap the full benefits and support libraries offered by google, we should migrate our build system to the gradle build system.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/JakobEngel/dso/issues/101" TITLE : dependency on suitesparse BODY : hi, in readme and cmake, there is dependency on libsuitesparse, but it seems it's not used. i verified that by editing and removing traces from cmake. it would be nice to correct that because it's kind of misleading. thanks

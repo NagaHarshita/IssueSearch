@@ -1,0 +1,1 @@
+ URL : "https://github.com/ryan-roemer/django-cloud-browser/issues/12" TITLE : boto to boto3 BODY : i saw that boto is used for both aws and google cloud storage. shouldn't boto be upgraded to boto3? not sure if boto3 supports google cloud storage though.

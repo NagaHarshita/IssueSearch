@@ -1,0 +1,1 @@
+ URL : "https://github.com/gwaygenomics/pancan_viz/issues/15" TITLE : add download button BODY : should be easy to download plots with click of a button. i will need to use downloadhandler https://shiny.rstudio.com/reference/shiny/latest/downloadhandler.html

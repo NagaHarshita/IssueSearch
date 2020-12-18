@@ -1,0 +1,1 @@
+ URL : "https://github.com/poldracklab/mriqcwebapi/issues/3" TITLE : files included by accident BODY : it seems that someone added .ds_store files to this repository by accident. you can learn how to get rid of them and avoid this happening again here: http://stackoverflow.com/questions/107701/how-can-i-remove-ds-store-files-from-a-git-repository

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mattstras/mattstras.github.io/issues/18" TITLE : delay of the push work BODY : after pushing the update into repo from local machine, it always take few minutes to apply the changes if we open the website from another machine.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/PaulBone/plasma/issues/5" TITLE : die test depends on shell BODY : the die testcase depends on the shell environment and can fail if a different shell is used or the shall behaves differently.

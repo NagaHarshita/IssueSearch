@@ -1,0 +1,1 @@
+ URL : "https://github.com/wizzy25/single-emit/issues/5" TITLE : add support for node v4.x BODY : description module is currently not compatible with node v4.x because es6 features are onlu supported in strict mode possible solution add strict mode to code

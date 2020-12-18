@@ -1,0 +1,1 @@
+ URL : "https://github.com/inzhoop-co/LETH/issues/51" TITLE : html and href on chat BODY : chat messages accepts html and you can add href link to external resources but when you follow a link the result page opened has no navigation bar and no back button.

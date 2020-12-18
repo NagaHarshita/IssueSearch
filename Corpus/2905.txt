@@ -1,0 +1,1 @@
+ URL : "https://github.com/titonbarua/freeswitch-clj/issues/1" TITLE : fix log level BODY : by default, debug level logs are visible. this is not a correct library behavior. the log level should be info, and contained in a dynamic delayed var.

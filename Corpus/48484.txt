@@ -1,0 +1,1 @@
+ URL : "https://github.com/malihu/malihu-custom-scrollbar-plugin/issues/555" TITLE : scroll slowly in ie 8 BODY : it works well in other browser, but in ie 8, the content scroll very slowly when use mouse wheel. i tried the mousewheel:{ scrollamount: integer } but it doesn't work.

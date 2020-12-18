@@ -1,0 +1,1 @@
+ URL : "https://github.com/tendermint/tendermint/issues/382" TITLE : run ci from forks BODY : but this is also a security risk. white list? not sure what the right thing to do is. maybe jenkins will deal better. https://circleci.com/docs/fork-pr-builds/

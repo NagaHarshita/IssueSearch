@@ -1,0 +1,1 @@
+ URL : "https://github.com/goby-lang/goby/issues/98" TITLE : file extension name BODY : since we're renaming it to goby, we can decide if we're still using the .ro extension file name. maybe something like .gb or .gy can be good. they are currently not in use. .goby is a another alternative. .go is definitely not a good choice. personally i will choose .gb .

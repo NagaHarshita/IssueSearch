@@ -1,0 +1,1 @@
+ URL : "https://github.com/AndreyNikiforov/vault2git/issues/19" TITLE : unable to run exe file BODY : hi .. i replaced my vault client api dll and recompiled this package and created exe file. when i run my exe file i got below error. any idea on this and how to fix this. ! image https://user-images.githubusercontent.com/19193992/28416810-29ad74a4-6d73-11e7-8409-0904658f2590.png

@@ -1,0 +1,1 @@
+ URL : "https://github.com/truecodersio/truecoders.io/issues/12" TITLE : image looping background BODY : html <video autoplay loop id= video-background muted plays-inline> <source src={{ page.background_video_file }} type= video/mp4 > </video>

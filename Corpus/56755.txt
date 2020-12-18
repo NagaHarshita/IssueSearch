@@ -1,0 +1,1 @@
+ URL : "https://github.com/RyanBayne/TwitchPress-Ultimate-Member-Extension/issues/4" TITLE : oauth duration options BODY : admin options are required for configuring how long the site should store a token for. user options are required for the same thing. a tool to force expiry of all sessions is required.

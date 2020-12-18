@@ -1,0 +1,1 @@
+ URL : "https://github.com/emotion-js/emotion/issues/374" TITLE : object as array BODY : - emotion version: 8.0.2-12 - react version: 8.0.2-12 const rule = css {height: 150, padding: 20}, {height: 50, padding: 5} output: css .css-kshds { height: 150px; padding: 20px; height: 50px; padding: 5px; } expected glamor like output: css .css-kshds { height: 50px; padding: 5px; }

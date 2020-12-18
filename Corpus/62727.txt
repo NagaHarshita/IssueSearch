@@ -1,0 +1,1 @@
+ URL : "https://github.com/jadu/pulsar/issues/687" TITLE : create 'card' component BODY : something along the lines of: http://getbootstrap.com/docs/4.0/components/card/ https://www.lightningdesignsystem.com/components/cards https://polaris.shopify.com/components/structure/card section-best-practices - helper & styles - documentation - tests

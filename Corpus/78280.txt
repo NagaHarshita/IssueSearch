@@ -1,0 +1,1 @@
+ URL : "https://github.com/RaceFlightOne/RaceFlightOne/issues/40" TITLE : ppm not working properly BODY : cppm input doesn't work correctly on any uart ports. the roll axis is the only thing that works. and also receiver autodetect doesn't auto detect ppm. although i don't use ppm as it has high latency, i just tested it to see if it will actually work.

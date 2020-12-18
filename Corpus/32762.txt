@@ -1,0 +1,10 @@
+ URL : "https://github.com/lqdi/busca-ativa-escolar-web/issues/435" TITLE : window.onerror in / BODY : error in busca-ativa-escolar-web window.onerror in / error: $injector:modulerr failed to instantiate module buscaativaescolar due to: $injector:nomod module 'buscaativaescolar' is not available! you either misspelled the module name or forgot to load it. if registering a module ensure that you specify the dependencies as the second argument.
+http://errors.angularjs.org/1.6.2/$injector/nomod?p0=buscaativaescolar
+minerr/<@https://plataforma.testes.buscaativaescolar.org.br/js/vendor.js:68
+setupmoduleloader/</module/<@https://plataforma.testes.buscaativaescolar.org.br/js/vendor.js:2189
+ensure@https://plataforma.testes.buscaativaescolar.org.br/js/vendor.js:2111
+module@https://plataforma.testes.buscaativaescolar.org.br/js/vendor.js:2185
+createinjector/loadmodules/<@https://plataforma.testes.buscaativaescolar.org.br/js/vendor.js:4756
+foreach@https://plataforma.testes.buscaativaescolar.org.br/js/vendor.js:357
+loadmodules@https://plataforma.testes.buscaativaescolar.org.br/js/vendor.js:4740
+createinjector@https://plataforma.testes.buscaativ... view on bugsnag https://app.bugsnag.com/lqdi/busca-ativa-escolar-web/errors/59ea25e4ccdc5b001b7d9d6d?event_id=59ea25e4ccdc5b001b7d9d6c&i=gh&m=ci stacktrace https://plataforma.testes.buscaativaescolar.org.br/js/vendor.js:68 - unknown view full stacktrace https://app.bugsnag.com/lqdi/busca-ativa-escolar-web/errors/59ea25e4ccdc5b001b7d9d6d?event_id=59ea25e4ccdc5b001b7d9d6c&i=gh&m=ci created automatically via bugsnag

@@ -1,0 +1,1 @@
+ URL : "https://github.com/eXistSolutions/LGPN/issues/151" TITLE : adjust @cert values BODY : @cert for places are empty by default, switch to high as is the case for persons

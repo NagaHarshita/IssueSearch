@@ -1,0 +1,1 @@
+ URL : "https://github.com/carlos8f/zenbot/issues/713" TITLE : output to log BODY : is there any way we can get the console output logged to a file instead of simply adding '> log_out.log' to the end of my command, as i would still like access to the bots commands.

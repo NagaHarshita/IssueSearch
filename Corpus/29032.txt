@@ -1,0 +1,1 @@
+ URL : "https://github.com/smtrat/carl/issues/11" TITLE : install cmake files BODY : currently in cmake/export.cmake you only configure the cmake config files. but i think that they are never getting installed: install files ${cmake_current_binary_dir}/carlconfig.cmake destination ${cmake_install_dir}

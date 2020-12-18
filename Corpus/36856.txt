@@ -1,0 +1,1 @@
+ URL : "https://github.com/tobsch/homebridge-platform-maxcube/issues/27" TITLE : increase update rate BODY : as we're keeping the connection open anyway it doesn't make sense to limit the update rate much. the max! cube doesn't seem to change the polling interval of the actual thermostats either way. this would also increase the responsiveness of the thermostats.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/reachlin/sensu_exporter/issues/1" TITLE : export sensu server health BODY : besides check results, also export server health

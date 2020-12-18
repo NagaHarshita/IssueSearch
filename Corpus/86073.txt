@@ -1,0 +1,1 @@
+ URL : "https://github.com/gutomaia/nesasm_py/issues/5" TITLE : gives line by line opcode BODY : give an way to debug line by line, token by token, witch opcode was generated. that would improve ide views of the code

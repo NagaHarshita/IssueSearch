@@ -1,0 +1,1 @@
+ URL : "https://github.com/mforets/carlin/issues/1" TITLE : null key first occurrence BODY : in get_index_from_key , check corner case j = sum key = 0 , kron_power x, 0 = 1

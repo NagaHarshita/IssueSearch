@@ -1,0 +1,1 @@
+ URL : "https://github.com/PhilipTrauner/cmus-osx/issues/13" TITLE : media keys not working BODY : i installed it. notifications are working, but media keys not. itunes is not staring anymore, which is nice : , but cmus is also doing nothing. do i miss something? - running macos sierra 10.12.6 - pyenv and python3 installed with brew

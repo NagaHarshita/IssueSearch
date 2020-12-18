@@ -1,0 +1,1 @@
+ URL : "https://github.com/spring-projects/spring-data-jdbc-ext/issues/29" TITLE : update spring version BODY : at the moment spring data jdbc still uses spring 3.0. would be nice if it would be build against a still supported version preferably on the 4.x range but at least the 3.2.x range.

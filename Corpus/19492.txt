@@ -1,0 +1,1 @@
+ URL : "https://github.com/mrhenry/wp-starter/issues/1" TITLE : add deploy scripts BODY : possibility to add script/deploy-staging and script/deploy-production by default? maybe with a simple git push heroku master ? that would imply removing git remote remove heroku https://github.com/mrhenry/wp-starter/blob/master/script/install l169 from the install script.

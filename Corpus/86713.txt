@@ -1,0 +1,1 @@
+ URL : "https://github.com/indigo-dc/erljwt/issues/6" TITLE : implement more algorithms BODY : - hs256 - hs384 - hs512 - rs256 - rs384 - rs512 - es256 - es384 - es512

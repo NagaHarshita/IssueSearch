@@ -1,0 +1,1 @@
+ URL : "https://github.com/GraphWalker/graphwalker-project/issues/172" TITLE : build fails with java 9 BODY : building gw with java 9 fails due to issues with generating classes from xsd, we need to update how we generate these classes or change it so we don't need to generate them at all

@@ -1,0 +1,1 @@
+ URL : "https://github.com/redhat-developer/rpm-packaging-guide/issues/22" TITLE : not using pdf builds? BODY : https://github.com/redhat-developer/rpm-packaging-guide/blob/06fb01cec2e1f7bb8331cc272696c7c0954b6055/.travis.yml l30 i see you're building the doc in pdf, too, but then you're not publishing it to gh pages. maybe you can disable the pdf builds?

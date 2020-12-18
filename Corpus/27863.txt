@@ -1,0 +1,1 @@
+ URL : "https://github.com/opencarecc/graph-ryder-dashboard/issues/28" TITLE : enrich the doi view BODY : i recently used the doi view and saw it didn't provide access to basic interactions as do the other views: - moving around nodes individually - filter labels amount of labels showed - etc. would be quite useful.

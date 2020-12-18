@@ -1,0 +1,1 @@
+ URL : "https://github.com/rdaly525/coreir/issues/251" TITLE : verilog backend issues BODY : - parameter signatures need default values for verilator/iverilog - 1 bit constants are serialized out to true or false instead of 0 or 1 - support const and reg

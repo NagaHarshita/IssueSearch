@@ -1,0 +1,1 @@
+ URL : "https://github.com/twosigma/mbeat/issues/11" TITLE : create .deb package BODY : new directory pkg should be created it should create the source distribution of the .deb package the package should be installable on debian and ubuntu

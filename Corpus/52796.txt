@@ -1,0 +1,1 @@
+ URL : "https://github.com/Koldar/crashc/issues/16" TITLE : create automated tests BODY : we need to implement some sort of automated tests because in this way we can safely test the correctness of the framework

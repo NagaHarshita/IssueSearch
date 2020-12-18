@@ -1,0 +1,1 @@
+ URL : "https://github.com/honza/node-thumbnail/issues/30" TITLE : second time not working BODY : hi i have started my server and the upload image, its create thumbnail, but when i am uploading image again then image uploading but thumbnail not createing, also not getting response, not going into thumb call back function.

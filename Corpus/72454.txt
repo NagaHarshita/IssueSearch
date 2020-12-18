@@ -1,0 +1,1 @@
+ URL : "https://github.com/LLNL/spack/issues/5049" TITLE : build timeouts in travis BODY : our build tests have been timing out at 50 minutes quite frequently lately. i've been restarting travis jobs for around a third of new prs. perhaps we should build fewer packages, or remove the build tests altogether.

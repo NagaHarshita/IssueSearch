@@ -1,0 +1,1 @@
+ URL : "https://github.com/santoshiyengar/PythonPrograms/issues/12" TITLE : list and tuple BODY : write a python program which accepts a sequence of comma-separated numbers from user and generate a list and a tuple with those numbers sample data : 3, 5, 7, 23 output : list : '3', ' 5', ' 7', ' 23' tuple : '3', ' 5', ' 7', ' 23'

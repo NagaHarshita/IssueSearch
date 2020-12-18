@@ -1,0 +1,1 @@
+ URL : "https://github.com/symfony/thanks/issues/16" TITLE : display bug on windows BODY : ! zc9hptrcshaza-bp0djdkg https://user-images.githubusercontent.com/2865341/34256742-7943785a-e65f-11e7-9c27-f114240ed762.png i tested cmd, cmd inside phpstorm and powershell - same thing on the left everywhere installed globally composer global require symfony/thanks

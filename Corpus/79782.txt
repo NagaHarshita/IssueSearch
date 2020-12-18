@@ -1,0 +1,1 @@
+ URL : "https://github.com/tomojitakasu/RTKLIB/issues/268" TITLE : str2str file swap margin BODY : i use str2str to output a rtcmv3 file from incoming serial rtcm messages. i'd like to break up those files into 1 hour files. i see that there is a -f switch for file swap margin. is there a way to tell it to swap files every hour?

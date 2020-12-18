@@ -1,0 +1,1 @@
+ URL : "https://github.com/jayaregalinada/chikka/issues/1" TITLE : support laravel 5.5 BODY : as of august 31, 2017 this package is currently not yet tested on a laravel 5.5. next update may include the addition of options in the composer.json file

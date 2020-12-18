@@ -1,0 +1,1 @@
+ URL : "https://github.com/anvilresearch/webcrypto/issues/52" TITLE : aes-gcm decrypt taglength BODY : hi! incredible work! if the taglength is not provided in the algorithm parameter of the crypto.subtle.decrypt method it won't be correctly set to 128, and thus the decrypt will throw an error

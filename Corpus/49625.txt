@@ -1,0 +1,1 @@
+ URL : "https://github.com/extesy/DeckTracker/issues/39" TITLE : unable to import deck BODY : when trying to import a deck, by either pasting the decklist or the url, an error dialog appears saying, something went wrong. the given key was not present in the dictionary. this error never happened before the 1.0.44 update.

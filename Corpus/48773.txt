@@ -1,0 +1,1 @@
+ URL : "https://github.com/luks91/Team-Bucket/issues/1" TITLE : smart team membership BODY : need to have a way to find out who's user's team member and display only those in reviewers tab. we also need to display reviewers that have 0 pull requests assigned. the initial algorithm will traverse n last pull request open + merged and find out team membership based on that.

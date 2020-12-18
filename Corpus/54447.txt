@@ -1,0 +1,1 @@
+ URL : "https://github.com/CongWeilin/mtcnn-caffe/issues/17" TITLE : generate hard examples BODY : dear weilin: the parameter threshold in the function detect_face_12net , you said 0.6 can have 97% recall rate , could you please tell me how to compute the relationship between threshold and recall rate ?

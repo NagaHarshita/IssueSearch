@@ -1,0 +1,1 @@
+ URL : "https://github.com/SpecialCyCi/AndroidResideMenu/issues/134" TITLE : while genrating build apk BODY : error:execution failed for task ':app:transformclasseswithjarmergingfordebug'. > com.android.build.api.transform.transformexception: java.util.zip.zipexception: duplicate entry: com/nineoldandroids/animation/animator$animatorlistener.class

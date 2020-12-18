@@ -1,0 +1,1 @@
+ URL : "https://github.com/redhat-developer/opencompose/issues/118" TITLE : changing env definition BODY : currently, environment variables are defined as - yaml env: - foo=bar this limits the ability to extend the environment variables, like supporting secrets. let's change the environment variables definition to - yaml env: - name: foo value: bar

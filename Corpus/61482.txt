@@ -1,0 +1,1 @@
+ URL : "https://github.com/opsdroid/opsdroid/issues/110" TITLE : automate version number BODY : current the version number is hard coded in the opsdroid/const.py file. this should be set automatically at runtime either from the previous production build or from the current working repository.

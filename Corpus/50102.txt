@@ -1,0 +1,1 @@
+ URL : "https://github.com/roughike/BottomBar/issues/771" TITLE : view under bottom bar BODY : i have a linear layout under bottom bar to represent some data. before using current version every thing works well, but after updating to 2.3.1, an attribute 'backgroundcolor' at linear layout isn't work. i set it to 'white', but always represent 'light grey'. how can i solve this?

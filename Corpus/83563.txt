@@ -1,0 +1,1 @@
+ URL : "https://github.com/ASPP/pelita/issues/419" TITLE : change error message of a BODY : the a_star method in pelita.graph raises nopathexception if there is no path between the given locations, but the exception message is bfs: no path from ... . this should perhaps be changed to match the name of the algorithm.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/NewSpring/Apollos/issues/134" TITLE : migrate likes queries BODY : acceptance criteria - it should bring in likes related queries context given i want a card to have likes when i use a decorator then i receive like information

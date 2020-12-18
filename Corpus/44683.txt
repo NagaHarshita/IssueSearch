@@ -1,0 +1,1 @@
+ URL : "https://github.com/garrett/cockpit-website-jekyll/issues/8" TITLE : fix blog tag metadata BODY : after adding a blog tags page 7 , it shows that tag metadata was improperly added -- there are commas after some tags

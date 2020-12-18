@@ -1,0 +1,1 @@
+ URL : "https://github.com/silverstripe/silverstripe-userforms/issues/697" TITLE : syntax error - javascript BODY : see here: https://github.com/silverstripe/silverstripe-userforms/blob/3e3450614b9088d0dfc03ed41191802588d4c217/client/src/bundles/userforms.js l183 missing a closing single quote within the css selector.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/python-pillow/Pillow/issues/2817" TITLE : rerurn incorrect dpi BODY : ! 41-01 https://user-images.githubusercontent.com/18019314/32159414-c40566fc-bd90-11e7-8b8e-029c09e5399c.jpg the dpi is 144 when i check in photoshop. but, with pillow, myimgage.info 'dpi' returns 300.0, 300.0 . is it a bug? thanks.

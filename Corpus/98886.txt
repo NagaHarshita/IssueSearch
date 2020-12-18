@@ -1,0 +1,1 @@
+ URL : "https://github.com/praelatus/frontend/issues/92" TITLE : list of things to clean up BODY : i need to add stuff to this list as i notice it, so i can come back later and re-do some of it: - sagas: default arguments, payload default, etc. it's a mess. - tests: tons of duplication all over the place.

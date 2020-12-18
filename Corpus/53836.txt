@@ -1,0 +1,1 @@
+ URL : "https://github.com/chrislusf/gleam/issues/59" TITLE : example do not finish. BODY : running the csv example in standalone mode on windows never finishes. it is also not using any cpu. so it seem to be blocking somewhere. do you test on windows? what other information can i give?

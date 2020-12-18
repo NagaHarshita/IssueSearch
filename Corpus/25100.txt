@@ -1,0 +1,1 @@
+ URL : "https://github.com/HubSpot/draft-convert/issues/98" TITLE : use of htmltostyle BODY : given the following in convertfromhtml const newcontentstate = convertfromhtml { htmltostyle: nodename, node, currentstyle => { console.log nodename ; console.log node ; }, }; i get the following error on console:

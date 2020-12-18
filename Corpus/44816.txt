@@ -1,0 +1,1 @@
+ URL : "https://github.com/Gurux/GXDLMSDirector/issues/8" TITLE : float values inverted BODY : it seems that the c version of the library reverses the bytes of the float32 and float64 data types. if i am not wrong, the msb for floating point values is trasmitted first. for example the float32 0x411fae14 in the read response c4 01 81 00 17 41 1f ae 14 is parsed as 0x14ae1f41

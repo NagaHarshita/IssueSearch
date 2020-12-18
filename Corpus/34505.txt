@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/pxt-adafruit/issues/530" TITLE : clap lights tutorial BODY : step 2 - shouldn't we call this block set all pixels ? right now we refer to it as set all

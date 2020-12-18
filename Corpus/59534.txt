@@ -1,0 +1,1 @@
+ URL : "https://github.com/Tencent/xLua/issues/240" TITLE : unity3d 2017.2 warning BODY : assets/xlua/src/codeemit.cs 1558,23 : warning cs1717: assignment made to same variable; did you mean to assign something else? 重度强迫症患者，看见warning就不舒服。 label endofblock = endofblock = il.definelabel ; 这个中间的endofblock 貌似是多余的，可以去掉的吧

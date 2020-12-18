@@ -1,0 +1,1 @@
+ URL : "https://github.com/fsparv/EasierMock/issues/6" TITLE : fix package names BODY : one of the ridiculous simple cleanup type things i should have fixed long ago... align the package names between tests and main.

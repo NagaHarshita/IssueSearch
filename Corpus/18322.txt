@@ -1,0 +1,1 @@
+ URL : "https://github.com/adewes/blitzdb/issues/72" TITLE : support for ujson BODY : hi, ujson is recognized as a really fast json encoder/decoder, would it be possible to choose the json encoder/decoder library as part of arguments

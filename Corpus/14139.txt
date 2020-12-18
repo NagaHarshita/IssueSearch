@@ -1,0 +1,1 @@
+ URL : "https://github.com/Swiftkind/books/issues/6" TITLE : add feed comments BODY : add a comment system in the feed. user can reply to the comments upto 2nd level. feed |- 1st level comment |- 2nd level comment

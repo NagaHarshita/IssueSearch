@@ -1,0 +1,1 @@
+ URL : "https://github.com/hasib32/rest-api-with-lumen/issues/26" TITLE : get current user BODY : hello, is there any logic to get currently loggedin user. something like /user/me

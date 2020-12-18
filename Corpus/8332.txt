@@ -1,0 +1,1 @@
+ URL : "https://github.com/brunch/stylus-brunch/issues/64" TITLE : nib link is 404 BODY : http://visionmedia.github.io/nib/ vs http://tj.github.io/nib/ ? i'm not sure what the story with nib is these days, since autoprefixer, i've never used it. do people still use it? is there a flag or config to remove its inclusion?

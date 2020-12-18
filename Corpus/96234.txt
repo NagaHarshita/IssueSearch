@@ -1,0 +1,1 @@
+ URL : "https://github.com/LeBriGuy/codename_shard/issues/9" TITLE : entity can't hold position BODY : boolean statement forces you to move entity, it cannot sit in the same spot. check to see if the spot occupied is from that specific entity could skip over it.

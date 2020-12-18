@@ -1,0 +1,1 @@
+ URL : "https://github.com/Ap0c/quota/issues/13" TITLE : implement ones BODY : https://docs.scipy.org/doc/numpy-1.13.0/reference/generated/numpy.ones.html numpy.ones ones shape return a new array of given shape, filled with ones.

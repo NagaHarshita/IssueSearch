@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/cpprestsdk/issues/331" TITLE : about namespace pollution. BODY : hi,i'm using this lib and i found the namespaces in the library concurrency,pplx,utility,web can easily lead to namespace pollution. so could you warp these into a namespace like msrestsdk::concurrency? sorry for my poor english.xd

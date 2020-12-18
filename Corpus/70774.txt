@@ -1,0 +1,1 @@
+ URL : "https://github.com/open-keychain/open-keychain/issues/2203" TITLE : yubikey 4 touch support BODY : allow sign/decrypt only on touching the yubikey 4 as in https://github.com/a-dma/yubitouch

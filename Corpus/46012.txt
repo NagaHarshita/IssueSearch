@@ -1,0 +1,1 @@
+ URL : "https://github.com/Bibliome/alvisnlp/issues/23" TITLE : kernel in classifiers BODY : trainingelementclassifier and taggingelementclassifier should be able to accept a kernel instead of a relationdefinition , if the classifying algorithm comes from libsvm.

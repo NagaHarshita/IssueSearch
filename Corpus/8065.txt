@@ -1,0 +1,1 @@
+ URL : "https://github.com/OsLab/cibot/issues/13" TITLE : migrate to flex BODY : - x upgrade to flex - x add docker - x use serviceentityrepository - x add transformer with chain & compiler pass - x add smoke tests - x add ci - add u.t take back the todos of 1

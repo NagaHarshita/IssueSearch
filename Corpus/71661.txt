@@ -1,0 +1,1 @@
+ URL : "https://github.com/nblock/vim-nlbl/issues/1" TITLE : add support for yamllint BODY : example pattern: yamllint disable-line rule:comments-indentation

@@ -1,0 +1,1 @@
+ URL : "https://github.com/CPU-Masters/CyberiaFramework/issues/4" TITLE : prepared statement cache BODY : when inserting objects it's best to have a cache of prepared statements, simply pick that statement and use it instead of constantly generating statements.

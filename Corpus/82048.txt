@@ -1,0 +1,1 @@
+ URL : "https://github.com/octocat/Spoon-Knife/issues/13680" TITLE : add content to .gitignore BODY : looks like you didn't put any content in the git ignore. see this link for more info - add content to gitignore

@@ -1,0 +1,1 @@
+ URL : "https://github.com/lazymeadow/best-ever-chat/issues/33" TITLE : legacy behavior on load BODY : sometimes esp on phones the chat page will have the appropriate cookies, and the socket will not have been closed. then the client pulls up the settings modal so you can set your user name before connecting. these days, it should just connect if you have a valid auth token.

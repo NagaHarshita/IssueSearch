@@ -1,0 +1,1 @@
+ URL : "https://github.com/brain-lang/brain/issues/54" TITLE : nested block comments BODY : block comments should be nestable, however the current implementation does not actually work. sample program: brain / / / / expected: compiles as usual actual: error about overflowing the stack - support nested block comments - add regression test

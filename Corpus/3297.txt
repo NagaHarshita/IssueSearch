@@ -1,0 +1,1 @@
+ URL : "https://github.com/nfreader/newSS13tools/issues/3" TITLE : no index file BODY : application needs a index.php or else nginx throws a fit.

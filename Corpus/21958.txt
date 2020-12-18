@@ -1,0 +1,1 @@
+ URL : "https://github.com/gin-gonic/gin/issues/818" TITLE : how to set cookie? BODY : what am i doing wrong? func handler ctx gin.context { ctx.setcookie token , testtoken , 3600, / , 127.0.0.1 , false, false, fmt.println ctx.cookie token } it prints http: named cookie not present

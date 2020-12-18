@@ -1,0 +1,1 @@
+ URL : "https://github.com/heavybeard/advanced-zoom/issues/8" TITLE : init plugin via javascript BODY : i am doing a blog where everything is written in markdown and i cannot add the attribute data-zoom. anyway i could initiate the plugin via js? thanks!

@@ -1,0 +1,1 @@
+ URL : "https://github.com/helmci/repository/issues/3" TITLE : test indexer performance BODY : test that indexing with a large number of charts is fast enough. - local - s3 - gcs

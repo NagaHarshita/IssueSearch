@@ -1,0 +1,1 @@
+ URL : "https://github.com/matiboy/angular2-prettyjson/issues/11" TITLE : handle long text BODY : while debugging with prettyjson, i noticed that it let long text go outside the limit of the component : ! image https://cloud.githubusercontent.com/assets/4950209/22596504/16856096-ea2c-11e6-9caf-8b568b79a3e5.png in my opinion it would be nice to add word-wrap: break-word

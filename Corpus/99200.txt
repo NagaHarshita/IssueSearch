@@ -1,0 +1,1 @@
+ URL : "https://github.com/alvinwan/TexSoup/issues/13" TITLE : math environment weirdness BODY : first reported by @akhmerov 7 print texsoup.texsoup r'\begin{a} \end{a}$ b$' .find 'a' print texsoup.texsoup r'\begin{a} $ b$ \end{a}' .find '$' the former seems to attach the math environment to the a env. the latter can't find the math environment.

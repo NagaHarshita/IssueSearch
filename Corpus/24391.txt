@@ -1,0 +1,1 @@
+ URL : "https://github.com/w3c/respec/issues/1301" TITLE : stable release url BODY : is there a stable release url that we can use to avoid unexpected breaking changes? ..or is the suggestion to host a local copy? http://fedora.info/spec/

@@ -1,0 +1,1 @@
+ URL : "https://github.com/pilosa/pilosa/issues/663" TITLE : input test json data BODY : description create a test json data file to load with an input definition. success criteria what criteria will consider this ticket closeable? the json data file should exercise all of the input action types.

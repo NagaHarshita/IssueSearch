@@ -1,0 +1,1 @@
+ URL : "https://github.com/timseverien/taggd/issues/65" TITLE : tags accept html BODY : it could be nice if the tag class can handle some html in addition of the simple text attribute. for example: i want to use this awesome plugin in my ecommerce, and link some other products tagging them on the main image of one product. sorry for may bad english . what do you think?

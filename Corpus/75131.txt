@@ -1,0 +1,3 @@
+ URL : "https://github.com/igorbelo/contacomigo/issues/3" TITLE : gerenciamento de pedidos BODY : quero poder registrar as vendas que foram realizadas. cada pedido possui: - cliente
+- produtos
+- data cada produto possui uma quantidade unitária do mesmo

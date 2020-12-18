@@ -1,0 +1,1 @@
+ URL : "https://github.com/Ref12/Codex/issues/21" TITLE : gather stats during index BODY : some examples also collect these at the commit level : projects in repo files in project files in repo files total lines of code in project lines of code in repo lines of code total bytes of code in project bytes of code in repo bytes of code total writes to fields/props

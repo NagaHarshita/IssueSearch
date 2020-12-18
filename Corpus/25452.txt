@@ -1,0 +1,1 @@
+ URL : "https://github.com/borgbackup/borg/issues/2511" TITLE : --stats not working BODY : hi, i just installed borg on a fresh ubuntu 17.04 machine via the official ubuntu package repos. everything so far works fine except the --stats / -s parameter. it just nothing happens when i append -s or --stats to my create command. what could be the problem?

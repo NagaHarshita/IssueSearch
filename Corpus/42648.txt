@@ -1,0 +1,1 @@
+ URL : "https://github.com/Leixb/jutge_cli/issues/24" TITLE : bug on commit b46795f BODY : commit b46795f is breaks filetype parameters also.

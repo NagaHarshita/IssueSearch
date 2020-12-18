@@ -1,0 +1,2 @@
+ URL : "https://github.com/getcfs/megacfs/issues/235" TITLE : cfsd report log level BODY : when cfsd is started/restarted it should report it's log level. this level is only for the line.
+{ level : info , ts :1487878890.7916257, msg : starting formic and the filesystem api , name : cfsd , node :850}

@@ -1,0 +1,1 @@
+ URL : "https://github.com/subshare/subshare/issues/48" TITLE : new bouncycastle version BODY : subshare currently uses bouncycastle 1.52. but the newest version is 1.56 since 2016-12-23 . we should thus switch to the newest version.

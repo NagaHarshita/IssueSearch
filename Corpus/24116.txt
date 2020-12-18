@@ -1,0 +1,1 @@
+ URL : "https://github.com/nrc/rls-analysis/issues/38" TITLE : self is not linked BODY : i assume some special casing prevents save-analysis indexing it

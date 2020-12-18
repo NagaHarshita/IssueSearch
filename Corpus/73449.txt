@@ -1,0 +1,1 @@
+ URL : "https://github.com/PixelVision8/GameCreator/issues/212" TITLE : create input field group BODY : should create an input field group. when adding new fields it will link them up so you can tab between them and it will manage updating all the input fields at once

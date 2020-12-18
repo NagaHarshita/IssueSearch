@@ -1,0 +1,1 @@
+ URL : "https://github.com/wp-cli/entity-command/issues/50" TITLE : introduce wp user spam BODY : the wp site spam command already exists for spamming sites on a multisite network , but there's no corresponding command for spamming users. wp user spam should be added.

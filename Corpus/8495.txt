@@ -1,0 +1,1 @@
+ URL : "https://github.com/Udanite/FEND-Reviewer-Library-ZH_CN/issues/10" TITLE : p1 html section BODY : 我们可以使用 <section> 来包含每一个标题段落. 举个🌰: <section> <h2>标题</h2> <p>棒棒的内容</p> </section> 了解更多关于 语义元素 http://www.runoob.com/html/html5-semantic-elements.html

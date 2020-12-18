@@ -1,0 +1,1 @@
+ URL : "https://github.com/datasciencecampus/sdg-indicators/issues/59" TITLE : enable the news BODY : this should just run like a normal jekyll blog with posts. we should hook it up to prose though seeing as we're using it.

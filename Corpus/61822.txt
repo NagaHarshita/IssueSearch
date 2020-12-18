@@ -1,0 +1,1 @@
+ URL : "https://github.com/andes/plex/issues/14" TITLE : bug en select múltiple BODY : al seleccionar un item, hay que clickear fuera del select para que se cierre el desplegable.

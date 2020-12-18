@@ -1,0 +1,1 @@
+ URL : "https://github.com/PiggahBroStudios/MapGame/issues/7" TITLE : develop error pages BODY : i've noticed there are no error pages for the game. we need to make error handlers for at least errors: 400, 401, 404, and 500. these are the most common errors i see when developing web apps/sites.

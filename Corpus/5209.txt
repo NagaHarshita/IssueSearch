@@ -1,0 +1,1 @@
+ URL : "https://github.com/viraptor/prctl-rs/issues/3" TITLE : merge into nix BODY : i'm posting here to see if there's any interest in getting this merged into nix as it would be suitable to merge. a user posted an issue for adding this feature to nix nix-rust/nix 601 , but it's not on anyone's plate yet. i wanted to see if you'd be interested in merging this crate in with nix .

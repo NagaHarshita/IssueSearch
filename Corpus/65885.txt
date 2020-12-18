@@ -1,0 +1,1 @@
+ URL : "https://github.com/guinardpaul/Chat-application/issues/16" TITLE : liste message par rooms BODY : liste room courantes indique les rooms ouvertes ou non et le statut des message non lus. - sélectionnable pour entrer dans le chat - se met à jour dès qu'on reçois de nouveaux messages : socket.io ou qu'une nouvelle room se crée - reset lorsqu'on voit les nouveaux messages

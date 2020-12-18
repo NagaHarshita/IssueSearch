@@ -1,0 +1,1 @@
+ URL : "https://github.com/leafi/csfeed/issues/2" TITLE : retained ui system BODY : min boilerplate. no loading from files & binding to code. it's ok to be slow & recalculate everything, every frame; this ui is for debugging/slightly complex in-engine tools.

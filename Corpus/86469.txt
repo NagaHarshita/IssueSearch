@@ -1,0 +1,1 @@
+ URL : "https://github.com/fusionpbx/fusionpbx/issues/2285" TITLE : how to setup multi-tenant BODY : hi all, i set up an extension in domain a to become trunk in domain b and an extension in domain b to become trunk in domain a. i also configure in outbound each domain but still not working call between 2 domains. please help me resolve this problem. thanks so much jason

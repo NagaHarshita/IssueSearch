@@ -1,0 +1,1 @@
+ URL : "https://github.com/PlacidBox/catch-bazel/issues/1" TITLE : add licenses BODY : see https://bazel.build/versions/master/docs/be/functions.html licenses would be notice or permissive, depending on how it's being distributed? bsl lets you skip the notice if it's compiled code only

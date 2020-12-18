@@ -1,0 +1,1 @@
+ URL : "https://github.com/goadesign/goa/issues/1270" TITLE : support for posting form BODY : is there any plans for adding file upload support to the design spec that would generate proper operand/swagger? param file , multipartfile, file to upload

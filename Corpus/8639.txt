@@ -1,0 +1,1 @@
+ URL : "https://github.com/conda-forge/caffe-feedstock/issues/34" TITLE : python 3 builds BODY : is this just to avoid recompiling the library three times? 31, 33, and me earlier today all inadvertently installed caffe from defaults and thought it was the conda-forge version.

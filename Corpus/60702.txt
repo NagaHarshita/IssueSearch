@@ -1,0 +1,1 @@
+ URL : "https://github.com/curationexperts/ansible-hydra/issues/249" TITLE : add clamav for centos 7 BODY : finish out work from 248 by testing installation on centos 7.

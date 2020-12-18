@@ -1,0 +1,1 @@
+ URL : "https://github.com/amethyst/amethyst/issues/472" TITLE : long boot time on macos BODY : when you launch any amethyst driven program on any macos system, the boot time with the white screen is very long compared to other os, it's displayed more than 5 seconds.

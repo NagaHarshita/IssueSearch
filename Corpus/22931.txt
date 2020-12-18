@@ -1,0 +1,1 @@
+ URL : "https://github.com/pieceofsummer/Hangfire.Console/issues/41" TITLE : named progress bar BODY : can i give a name to the progressbar? several processes are performed and each carries a named. each process has its own progressbar ! template https://user-images.githubusercontent.com/15727500/30379810-c36cbedc-98a8-11e7-8267-ce3762c01948.png

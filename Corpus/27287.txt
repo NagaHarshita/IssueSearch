@@ -1,0 +1,1 @@
+ URL : "https://github.com/jared-skinner/cookbook/issues/2" TITLE : create landing page BODY : the landing page should go where app/views/welcome/index.html.erb is currently

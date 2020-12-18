@@ -1,0 +1,1 @@
+ URL : "https://github.com/paulszefer/RaceToZero/issues/5" TITLE : test site ui BODY : - choose testing method - design tests - overall experience tests - test: mobile menu slides in from left/top/right - test: mobile menu hidden, reappears on scroll vs. persistent menu - test: menu button on left/right side of menu bar

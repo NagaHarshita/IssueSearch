@@ -1,0 +1,1 @@
+ URL : "https://github.com/garystevens/learning-javascript/issues/1" TITLE : 2. working with the dom BODY : do you think this is worth having in? in the new world with react and friends, people shouldn't really have to work directly with the dom. do you still think its worth covering?

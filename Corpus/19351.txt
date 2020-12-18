@@ -1,0 +1,1 @@
+ URL : "https://github.com/benoitguigal/python-epson-printer/issues/28" TITLE : accents encoding ? BODY : hello, i am a french student and for a project i try to print tickets with content with accents é à è ... but they are replaced by strange characters on the tickets. do you have an idea how to fix it? thank you.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/chirag04/react-native-in-app-utils/issues/127" TITLE : iap file downloads BODY : hi there, i'm just wondering - once i have purchased an item, or confirmed the existence of a previously purchased item, is it possible to download the accompanying file? or...is at least the relevant reference/id/key available to gain access to said download?

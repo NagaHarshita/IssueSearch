@@ -1,0 +1,1 @@
+ URL : "https://github.com/soimort/you-get/issues/1942" TITLE : bugs in common.py BODY : py def url_save url, filepath, bar, refer = none, is_part = false, faker = false, headers = {}, timeout = none, kwargs : file_size = url_size url, faker = faker, headers = headers if refer is set, it will be ignored in calling url_size.

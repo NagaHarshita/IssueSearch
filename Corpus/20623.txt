@@ -1,0 +1,1 @@
+ URL : "https://github.com/elkozmon/zoonavigator-web/issues/3" TITLE : copy/rename a node BODY : the ability to copy or rename a node in zoonavigator would be really nice. at the moment, i would have to do this via creating a new node, copying the content and deleting the old node.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/fludo/turing-sim/issues/1" TITLE : canot launch application BODY : after compiling code with maven, result is: java -jar target/turing-sim-1.0-snapshot.jar > erreur : impossible de trouver ou charger la classe principale gui.turingapp

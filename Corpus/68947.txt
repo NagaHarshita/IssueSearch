@@ -1,0 +1,1 @@
+ URL : "https://github.com/kdeldycke/meta-package-manager/issues/35" TITLE : sort by package manager BODY : today when running 'mpm outdated' the output is sorted lexically on the package name, ignoring which package manager is used. it would be nice to have an option to sort the output first by package manager and then by package name.

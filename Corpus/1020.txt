@@ -1,0 +1,1 @@
+ URL : "https://github.com/winkm89/teachPress/issues/72" TITLE : doi and url BODY : whenever a doi is in the doi-key as well as in the url-key the link to the one doi gets displayed twice. sadly a number of online bibtex generate are doing so. it would be very handy if teachpress would check for duplicate urls before displaying all of them.

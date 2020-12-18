@@ -1,0 +1,1 @@
+ URL : "https://github.com/ja-thomas/OMLbots/issues/43" TITLE : min.node.size in ranger BODY : we did not include it as parameter and i am a bit sad about this. maybe we could include it in further experiments... a transformation would be necessary here like with mtry.

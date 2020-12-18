@@ -1,0 +1,1 @@
+ URL : "https://github.com/aws/amazon-cognito-js/issues/54" TITLE : push-sync for javascript BODY : do you guys have any plans of building congnito-push-sync for javascript? perhaps something on top of websockets similar to the iot stuff? that would be extremely helpful.

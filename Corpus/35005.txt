@@ -1,0 +1,1 @@
+ URL : "https://github.com/Odinthewanderer/docs-bot/issues/4" TITLE : current prefix issue BODY : the current command prefix is docs, but it breaks if you add a space after the comma. i want the prefix to be docs,

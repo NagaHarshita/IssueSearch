@@ -1,0 +1,1 @@
+ URL : "https://github.com/michaelzangl/minebot/issues/143" TITLE : aimbow hud bugs BODY : when used with other mods that edit the hud, such as minimap mods, the elements added by other mods will not appear.

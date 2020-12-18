@@ -1,0 +1,1 @@
+ URL : "https://github.com/apel/apel/issues/129" TITLE : add support for lsf v10 BODY : from ggus https://ggus.eu/index.php?mode=ticket_info&ticket_id=126319 . changes may be minimal considering that lsf has been well behaved in its accounting since version 5. should also consider adding forwards compatibility.

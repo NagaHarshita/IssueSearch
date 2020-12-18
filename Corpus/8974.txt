@@ -1,0 +1,1 @@
+ URL : "https://github.com/stripe/ApplePayStubs/issues/30" TITLE : stipe apple pay BODY : crash app at this line : objc_setassociatedobject viewcontroller, &kstpblockbasedapplepaydelegateassociatedobjectkey, delegate, objc_association_retain_nonatomic ; error : payment request is invalid: error domain=pkpasskiterrordomain code=1 null

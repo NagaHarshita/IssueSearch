@@ -1,0 +1,1 @@
+ URL : "https://github.com/iamceege/tooltipster/issues/659" TITLE : plugins only minified BODY : hello, i am using bower with gulp etc and i would like to operate with raw files, however all css files in themes folder are minified already. i believe there should be not minified versions as well.

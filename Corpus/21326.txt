@@ -1,0 +1,1 @@
+ URL : "https://github.com/ultreia-io/migrate-redmine-to-gitlab/issues/1" TITLE : export to sql file BODY : instead of accessing the postgres database directly, you could write the necessary sql statements to a file. this solves issues when the postgres database is not directly reachable from where the migration script is running. eg. inside container, behind firewall, etc

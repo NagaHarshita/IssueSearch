@@ -1,0 +1,1 @@
+ URL : "https://github.com/eclipse/che/issues/7588" TITLE : support for editorconfig BODY : description we should support the editorconfig http://editorconfig.org/ to define coding styles and honor .editorconfig files that exists on a project.

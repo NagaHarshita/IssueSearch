@@ -1,0 +1,1 @@
+ URL : "https://github.com/constelation/monorepo/issues/74" TITLE : image web BODY : considerations: image - background - foreground/content svg separate from image questions to answer: - what to load? - when to load? - how to load? - how does it scale?

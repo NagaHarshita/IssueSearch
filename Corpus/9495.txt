@@ -1,0 +1,1 @@
+ URL : "https://github.com/rust-num/num/issues/297" TITLE : yank num 0.1.38 BODY : feature-gating float is a breaking change and should be done in 0.2. https://github.com/servo/euclid/issues/210

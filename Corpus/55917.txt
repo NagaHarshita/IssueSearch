@@ -1,0 +1,1 @@
+ URL : "https://github.com/xiaobin83/project_u/issues/23" TITLE : lual_check called in c BODY : lual_check will call lua_error if fails. another longjmp problem.

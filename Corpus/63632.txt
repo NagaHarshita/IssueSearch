@@ -1,0 +1,1 @@
+ URL : "https://github.com/ignaciorlando/cnn-dr-kaggle/issues/2" TITLE : equalize image channels BODY : todo: define what _equalize_ exactly means. input: image , params output: equalized image. this should be within its own python script, with a main to test at least a small test case.

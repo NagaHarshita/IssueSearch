@@ -1,0 +1,1 @@
+ URL : "https://github.com/leehomyc/Faster-High-Res-Neural-Inpainting/issues/23" TITLE : hole size is 180x180? BODY : your paper mentioned that the holes for a 512x512 image are 256x256. however, the demo in this repository has hole sizes of 180x180. is there a version where the holes are 256x256?

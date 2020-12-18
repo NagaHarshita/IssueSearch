@@ -1,0 +1,1 @@
+ URL : "https://github.com/Hardmath123/nearley/issues/183" TITLE : make gc thing optional BODY : it should be disabled when doing nearley-test, or eventually when rewinding.

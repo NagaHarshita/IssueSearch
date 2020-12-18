@@ -1,0 +1,1 @@
+ URL : "https://github.com/heiga/WAT/issues/1" TITLE : infrared sensor problems BODY : 1 ir is always triggering when the motors are running 2 ir is aimed too low, it is always triggering when the robot is on the ground

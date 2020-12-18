@@ -1,0 +1,1 @@
+ URL : "https://github.com/siralbert/siralbert.github.io-teacozy/issues/4" TITLE : comments for organization BODY : use comments to mark each section of html and have matching comments in your css. this makes it easier to work between the files and switch sections quickly.

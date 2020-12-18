@@ -1,0 +1,1 @@
+ URL : "https://github.com/apache/incubator-trafficcontrol/issues/1378" TITLE : status apis: crud BODY : - get /api/$version/statuses - get /api/$version/statuses/:id - get /api/$version/statuses/:name - put /api/$version/statuses/:id - put /api/$version/statuses/:name - post /api/$version/statuses - delete /api/$version/statuses/:id - delete /api/$version/statuses/:name

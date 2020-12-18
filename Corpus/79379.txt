@@ -1,0 +1,1 @@
+ URL : "https://github.com/FRRouting/frr/issues/542" TITLE : set metric for route-map BODY : i can set only 1-16 value. ok: config route-map map1 permit 22 config-route-map set metric 16 fail: config route-map map1 permit 22 config-route-map set metric 17 argument is malformed

@@ -1,0 +1,4 @@
+ URL : "https://github.com/tardyp/buildbot_issues_sandbox/issues/140" TITLE : users for changes BODY : this ticket is a migrated trac ticket 2626 http://trac.buildbot.net/ticket/2626 people contributed to the original ticket: djmitche , tycoish , tardyp ticket created on: jan 10 2014 ticket last modified on: sep 06 2015 --- in the data api, changes don't have users, even though that data is in the db api.
+change users should be included in changes. --- _comment from_: tardyp _date_: mar 16 2014 there might be at least 2 users for a change: the author of the patch
+the committer of the patch aka the integrator or maintainer not even talking about tested-by, acked-by, etc linux people are using. all those people deserve to be in the blame list, and have a nice dashboard with all builds for patches they are working on. ---
+_comment from_: dustin _date_: feb 07 2015 correct, so in the data api, a change should have a list of users, rather than a single user.

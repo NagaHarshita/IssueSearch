@@ -1,0 +1,1 @@
+ URL : "https://github.com/Netherdrake/CryptoTradingResearch/issues/1" TITLE : history endpoint gives 404 BODY : when i request /api/v6/history/ endpoint it returns 404. the same happens for v5 version of the api.

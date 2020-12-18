@@ -1,0 +1,1 @@
+ URL : "https://github.com/kunalkathuria/VARSECer/issues/3" TITLE : verbose or debug option BODY : by default only print statements that you think a user should be able to see and it will help them to make sure that various steps are being completed. a more verbose option should print enough output so you can debug issues.

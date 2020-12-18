@@ -1,0 +1,1 @@
+ URL : "https://github.com/ComputerWolf/SlickNav/issues/165" TITLE : can i use slick with react BODY : is there anyway i can use slick nav with react since its a jquery dependency package and am not using jquery in my react app, must i have jquery in my react app before i could use it or can you give a documentation on how i can use it with react app or vue app

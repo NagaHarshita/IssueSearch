@@ -1,0 +1,1 @@
+ URL : "https://github.com/XML-Comp/XML-Comp/issues/45" TITLE : make -original optional BODY : it would be nice to have 'default' paths for each os, this way we could make -original optional and the user would only use if he/she installed the game in a custom location.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/LandOfKroilon/KroilonApp/issues/3" TITLE : encriptar os dados na db BODY : ideia inicial: usar um pakote do meteor ver em baixo um exemplo para encriptar os dados na db, usando um _encriptionkey_. hint: https://atmospherejs.com/jparker/crypto-aes

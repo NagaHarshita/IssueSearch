@@ -1,0 +1,1 @@
+ URL : "https://github.com/mapbox/mapbox-plugins-android/issues/182" TITLE : links doesn't work BODY : hi almost all links that are needed so you can find even the slight information about your sdks and plugins is broken. here it is an example: https://github.com/mapbox/mapbox-plugins-android/tree/master/plugins/app/src/main/java/com/mapbox/mapboxsdk/plugins/testapp

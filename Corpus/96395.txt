@@ -1,0 +1,1 @@
+ URL : "https://github.com/dtu-compute/dtu-enote-website/issues/119" TITLE : errors doesn't get flushed BODY : right now the page errors list doesn't flush old errors. e.g. now there is an error for semesteruge02.md , but i renamed the file to semesteruge02s.md .

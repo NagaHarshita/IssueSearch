@@ -1,0 +1,1 @@
+ URL : "https://github.com/ymiroshnyk/neutrinoparticles.cs/issues/1" TITLE : several cameras support BODY : currently only main camera is supported. we need to handle render of any camera with geometry reconstruction before render to each camera. is it possible? after feature is done, which steps you need to do to enable camera geometry reconstruction?

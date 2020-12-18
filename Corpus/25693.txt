@@ -1,0 +1,1 @@
+ URL : "https://github.com/herandy/DEPICT/issues/1" TITLE : about loss function BODY : it seems that the loss function in your code is different from that in your paper. i've changed into the loss you mentioned in your paper, it didn't work very well. could you give me some advice?

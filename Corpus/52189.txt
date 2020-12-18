@@ -1,0 +1,1 @@
+ URL : "https://github.com/wordbots/wordbots-core/issues/188" TITLE : card images are blurry BODY : using the default scaling algorithm, generated card images are blurry. they should use nearest-neighbor interpolation where supported to give a sharper look when magnified.

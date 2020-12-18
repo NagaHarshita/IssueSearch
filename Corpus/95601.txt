@@ -1,0 +1,1 @@
+ URL : "https://github.com/Particular/Course.Slides/issues/3" TITLE : delete slides from dropbox BODY : according to @mauroservienti https://particularsoftware.slack.com/archives/developer-education/p1483698547000247 the slides are also sitting in dropbox somewhere. let's delete that copy to prevent it becoming it's own branch. /cc @particular/training-maintainers

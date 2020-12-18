@@ -1,0 +1,1 @@
+ URL : "https://github.com/HenningM/express-ws/issues/81" TITLE : can i send custom events BODY : is it possible to send custom events? for example, can i listen on 'custom event' in client

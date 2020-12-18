@@ -1,0 +1,1 @@
+ URL : "https://github.com/VarynInc/varyn/issues/101" TITLE : logout is broken BODY : with a logged in user 1. go to http://varyn.com/profile.php 2. click logout 3. go to home page http://varyn.com/ note nav shows profile, not login 4. go to profile page. note user is still logged in.

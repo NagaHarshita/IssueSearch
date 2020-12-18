@@ -1,0 +1,1 @@
+ URL : "https://github.com/Superior-Development/DaedalusMod/issues/6" TITLE : convert to maven project BODY : as i am currently planning to setup my own nexus dependency management server, i would like to have this project switch over to maven. this will allow for better building and also for some cool stuff like ci to be implemented.

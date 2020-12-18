@@ -1,0 +1,1 @@
+ URL : "https://github.com/ChrisCummins/emu/issues/22" TITLE : add emu status command BODY : sh $ emu status new snapshot in progress, started 12 hours ago sh $ emu status last snapshot 2017-06-14-113212 created 3 days ago sh $ emu status --seconds 0 if snapshot in progress sh $ emu status --seconds 189 if last snapshot 3 minutes old

@@ -1,0 +1,1 @@
+ URL : "https://github.com/tatfook/AppLauncher/issues/12" TITLE : url protocol forwarding BODY : applauncher如果通过exe安装，需要自动注册一个 paracraft:// url protocol, 启动applauncher.exe 所以applauncher.exe需要能处理这个protocol，请下载和启动，对应的app程序，并启动时，forward相应的url protocol参数。

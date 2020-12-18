@@ -1,0 +1,1 @@
+ URL : "https://github.com/umezo/vim-syntaxcheker-raml-raml-parser/issues/1" TITLE : raml 1.0 support? BODY : do you plan to add raml 1.0 support? at a glance it should should be enough to switch from raml-parser to raml-js-parser-2…

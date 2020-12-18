@@ -1,0 +1,1 @@
+ URL : "https://github.com/NottingHack/hms2/issues/231" TITLE : add vmc_ref entity BODY : vmc_state is a manytomany table linking ref to products

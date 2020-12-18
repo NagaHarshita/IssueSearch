@@ -1,0 +1,1 @@
+ URL : "https://github.com/DeepHorizons/tts/issues/3" TITLE : voice.rate doesn't work BODY : voice.rate 3 traceback most recent call last : file c:\users\jason\google drive\python\test3.py , line 9, in <module> voice.rate 3 attributeerror: 'sapi' object has no attribute 'rate'

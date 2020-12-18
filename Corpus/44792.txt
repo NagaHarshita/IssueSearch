@@ -1,0 +1,1 @@
+ URL : "https://github.com/brokenprogrammer/RapidTunes/issues/76" TITLE : fix volume slider bug BODY : the volume will only change when the knob on the slider is dragged. the user has to click the knob, hold it and drag it to where it should be. if the user clicks somewhere on the slider where they want the volume to go, the knob will go there but the volume will not change.

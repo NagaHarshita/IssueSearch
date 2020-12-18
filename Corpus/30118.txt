@@ -1,0 +1,1 @@
+ URL : "https://github.com/MoonshineSG/OctoPrint-MultiColors/issues/7" TITLE : not injecting gcode BODY : i have tried cura, mattercontrol and s3d and have yet to get this plugin to inject the necessary gcode though the plugin says it did.... i download it from octoprint and view in notepad ++ and cannot find any injected code.

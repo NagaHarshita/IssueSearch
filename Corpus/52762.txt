@@ -1,0 +1,1 @@
+ URL : "https://github.com/iobotis/php-incremental-backup/issues/22" TITLE : create a factory class BODY : create a factory class and use settings to instantiate the command implementations.

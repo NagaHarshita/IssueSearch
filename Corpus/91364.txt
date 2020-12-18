@@ -1,0 +1,1 @@
+ URL : "https://github.com/yihui/xaringan/issues/36" TITLE : threejs is not supported? BODY : three.js scatterplot is not showed in the slide. is it not supported? --- three.js {r, fig.align='center', echo=false} library threejs x <- sort rnorm 1000 y <- rnorm 1000 z <- rnorm 1000 + atan2 x,y scatterplot3js x, y, z, color=rainbow 1000 , renderer= canvas

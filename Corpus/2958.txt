@@ -1,0 +1,1 @@
+ URL : "https://github.com/nielsAD/travis-lazarus/issues/12" TITLE : fpc only mode BODY : i try to keep my projects fpc only, so it is a waste of resources to download/install of lazarus for every build. it could be like you write fpc_ver=xx rather than laz_ver in the travis file, and then it downloads the corresponding fpc and calls ppc..

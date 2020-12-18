@@ -1,0 +1,1 @@
+ URL : "https://github.com/chase-lewis/SimpleBaking/issues/12" TITLE : login lag and crash BODY : when logging in, the authentication process occasionally takes too long 8+ seconds and infrequently crashes the app. more testing will need to be done to reliably recreate the issue.

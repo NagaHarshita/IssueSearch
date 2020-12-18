@@ -1,0 +1,1 @@
+ URL : "https://github.com/cockroachdb/cockroach/issues/18378" TITLE : ui: avoid yarn run BODY : yarn run has serious startup time overhead. switch to spelling out the paths directly.

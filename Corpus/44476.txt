@@ -1,0 +1,1 @@
+ URL : "https://github.com/eugene-manuilov/phalcon-vm/issues/13" TITLE : export / import sites BODY : implement ability to export site settings as a json file and ability to import it back. only one site can be exported in a single json file.

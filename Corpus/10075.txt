@@ -1,0 +1,1 @@
+ URL : "https://github.com/benfortuna/mstor/issues/9" TITLE : ant build failed BODY : build.xml looks for file src/main/java/meta-inf/javamail.providers however the file is located at src/main/resources/meta-inf/javamail.providers

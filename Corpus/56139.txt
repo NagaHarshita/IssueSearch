@@ -1,0 +1,1 @@
+ URL : "https://github.com/zenkay/dandelionapi-ruby/issues/4" TITLE : method names on readme BODY : hi there, just a heads up that the readme instructions need to be updated. for all the endpoints, the method name presented is element.analyze . for the text similarity it should be element.compare . thanks for the library! ale

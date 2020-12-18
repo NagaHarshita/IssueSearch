@@ -1,0 +1,1 @@
+ URL : "https://github.com/Netuitive/zorka/issues/14" TITLE : add element tag support BODY : element tag classes exist in the library, but can not be added to the incoming elements.

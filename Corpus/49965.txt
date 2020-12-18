@@ -1,0 +1,1 @@
+ URL : "https://github.com/exercism/gui/issues/51" TITLE : use xdg base dir spec BODY : we currently use this package https://www.npmjs.com/package/os-homedir to get the home dir for config and exercises folder, but it might be better to use xdg spec to form path.

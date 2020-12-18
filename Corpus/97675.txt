@@ -1,0 +1,1 @@
+ URL : "https://github.com/explosion/spaCy/issues/1778" TITLE : how does spacy handle ner? BODY : i am wondering how spacy handle ner. as i don't find spacy dependent on deep learning libraries like tensorflow or keras, does it mean that spacy does not use deep learning to handle ner? thanks.

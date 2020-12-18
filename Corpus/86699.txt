@@ -1,0 +1,1 @@
+ URL : "https://github.com/timble/kodekit/issues/135" TITLE : implement for __debuginfo BODY : make it possible to dump any object and prevent recursion and deep nesting. references: - http://php.net/manual/en/language.oop5.magic.php language.oop5.magic.debuginfo - http://php.net/manual/en/function.var-dump.php

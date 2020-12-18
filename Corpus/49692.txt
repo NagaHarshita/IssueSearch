@@ -1,0 +1,1 @@
+ URL : "https://github.com/scampbell1/prj-rev-bwfs-dasmoto/issues/2" TITLE : unnecessary file path BODY : ./ is unnecessary here. you are already in the home directory. the ./ is implied. https://github.com/scampbell1/prj-rev-bwfs-dasmoto/blob/master/beachparadise/index.html l6

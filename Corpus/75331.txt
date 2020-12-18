@@ -1,0 +1,1 @@
+ URL : "https://github.com/Vampouille/superboucle/issues/47" TITLE : gui icons not showing up BODY : i tried putting them around in different places /usr/share/icons/icons/ ~/.local/share/icons ./icons/icons nothing seemed to work.

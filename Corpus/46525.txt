@@ -1,0 +1,1 @@
+ URL : "https://github.com/conbus/fbmq/issues/21" TITLE : message sending error BODY : i am getting this error, { error :{ message : -1 send api unexpected internal error , type : oauthexception , code :-1, error_subcode :2018012, fbtrace_id : cqmdi4den+o }}

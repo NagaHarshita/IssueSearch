@@ -1,0 +1,1 @@
+ URL : "https://github.com/gnd/lima/issues/1" TITLE : create a setup script BODY : - check if dependencies ok - create the folder structure - create the settings file - setup the networks & bridge interfaces - output minimal firewall rules

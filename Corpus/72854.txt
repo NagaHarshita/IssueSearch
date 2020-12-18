@@ -1,0 +1,1 @@
+ URL : "https://github.com/Crypta-Eve/provi-i/issues/3" TITLE : check for previous intel BODY : on startup read past logs in order to see if there is any recent intel to add. also on region change, recolour the map with known intel.

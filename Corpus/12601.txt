@@ -1,0 +1,1 @@
+ URL : "https://github.com/Byhiras/pyavroc/issues/23" TITLE : python 3 support BODY : i see some commits remarks which reference python 3 and the travis ci builds are running for python 3. however, the setup.py classifiers specify python 2 only. what is the status of python 3 support for pyavroc? can we expect it to work?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/eeue56/elm-html-test/issues/8" TITLE : would love a query.hasnot BODY : currently i've been doing some workarounds to see if a selector does not appear in a single . would love a query.hasnot function with the same type signature as query.has . thanks!

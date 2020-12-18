@@ -1,0 +1,1 @@
+ URL : "https://github.com/Ericsson/codechecker/issues/560" TITLE : ui coloring improvements BODY : with coloring the different bug path elements event, position it is easier recognize the most important information, how a bug happened. - bug events - last bug path position - bug path changes between files - bug path parts inside one function?

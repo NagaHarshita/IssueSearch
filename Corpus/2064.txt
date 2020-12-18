@@ -1,0 +1,1 @@
+ URL : "https://github.com/jooby-project/jooby/issues/950" TITLE : run cli tool BODY : i want to run a cli tool before every jooby start up, i'm thinking of writing a task in gradle that would run on every jooby run task. is it the right way to do this?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jparise/hive.vim/issues/1" TITLE : recognize all keywords BODY : the full list of all keywords reserved and non-reserved appears in the hive ddl wiki page https://cwiki.apache.org/confluence/display/hive/languagemanual+ddl .

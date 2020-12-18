@@ -1,0 +1,1 @@
+ URL : "https://github.com/AtChem/AtChem/issues/35" TITLE : output of jacobian matrix BODY : the file jacobian.output can be very large over 1gb . it is needed only for certain types of analysis. the output could be made optionall eg, if jacobian output step size is set to 0 in modelconfiguration/model.parameters

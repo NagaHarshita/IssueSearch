@@ -1,0 +1,1 @@
+ URL : "https://github.com/sonic182/prerender_redis_compose/issues/1" TITLE : how to recache a site BODY : hey! thanks a lot for this repo. helped me a lot. i have a question: do you know how to recache one site? sometimes prerender fails with some sites and i want to recache it without starting the container from scratch. any idea?

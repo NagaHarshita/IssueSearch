@@ -1,0 +1,1 @@
+ URL : "https://github.com/projectkudu/AzureFunctionsPortal/issues/1119" TITLE : error display improvments BODY : - mark errors calling /admin/host/status as fatal. - clear all function app errors on navigation to another function app - clear all function errors on navigation to another function.

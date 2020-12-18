@@ -1,0 +1,1 @@
+ URL : "https://github.com/Pterodactyl/Panel/issues/427" TITLE : var request location code BODY : it could be interesting to be able to retrieve server location through var within the docker image. this would allow flexible autodeploy for configurations files like db host or any prefix in conf.

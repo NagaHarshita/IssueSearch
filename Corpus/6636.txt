@@ -1,0 +1,1 @@
+ URL : "https://github.com/Splamy/TS3AudioBot/issues/92" TITLE : api simple call BODY : im trying to use the api with a simple call: http://web.com:8180/api/history/last/10 but i get: { errorcode :2, errorname : unauthorized , errormessage : } i need authorization to make this call?

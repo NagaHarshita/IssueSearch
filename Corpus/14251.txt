@@ -1,0 +1,1 @@
+ URL : "https://github.com/jawira/phing-diagram/issues/5" TITLE : add output format BODY : add an option to shoose the output format: puml, png default , svg, txt

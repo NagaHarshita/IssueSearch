@@ -1,0 +1,1 @@
+ URL : "https://github.com/cbeust/kobalt/issues/398" TITLE : dep file, not file BODY : in https://github.com/cbeust/kobalt/blob/dca28669d1472a43c8aa11a6293b5cb1e217fc3a/modules/kobalt-plugin-api/src/main/kotlin/com/beust/kobalt/api/project.kt l131 class dep val file: file, val id: string should be: class dep val file: file, val id: string

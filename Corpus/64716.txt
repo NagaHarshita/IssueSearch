@@ -1,0 +1,1 @@
+ URL : "https://github.com/Kiuryy/Bookmark_Sidebar/issues/30" TITLE : hide indicator settings BODY : if the user choose to open the sidebar by mouseover or only via icon, the indicator is not necesarry and therefore not showing up. the appearance settings should be hidden, if the user change the open action to something different than left/right click.

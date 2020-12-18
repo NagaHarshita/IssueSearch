@@ -1,0 +1,1 @@
+ URL : "https://github.com/allenhwkim/webtest/issues/5" TITLE : new commands; run/set BODY : expose driver to the command line e.g. run driver.xxxx.yyyy.zzzz ; new command for chromeoptions e.g. set chromeoptions {a: 1, b:2}

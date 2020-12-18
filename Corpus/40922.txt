@@ -1,0 +1,1 @@
+ URL : "https://github.com/magento/data-migration-tool/issues/273" TITLE : volume check warning BODY : is this anything to worry about? if so, how to fix? 2017-04-14 19:32:21 warning : mismatch of entities in the document: search_query 2017-04-14 19:32:21 warning : mismatch of entities in the document: theme 2017-04-14 19:32:21 warning : volume check failed

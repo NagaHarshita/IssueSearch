@@ -1,0 +1,1 @@
+ URL : "https://github.com/BCLab-UNM/SwarmBaseCode-ROS/issues/118" TITLE : joystick breaks keyboard BODY : when the joystick is plugged into the laptop, the keyboard manual control stops working. the rover moves in jerking motions and is not very responsive. the joystick controller, however, works.

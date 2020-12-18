@@ -1,0 +1,1 @@
+ URL : "https://github.com/archivesunleashed/warclight/issues/26" TITLE : live status code check BODY : would it be worth adding a field that displays the current http status code for a url in the item's view? might be useful to know if the url is at least a 200 ok, or 404 not found.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Bantolomeus/kotlin-for-fun/issues/12" TITLE : implement error handling BODY : - create dedicated class for error handling - distinguish between different errors

@@ -1,0 +1,1 @@
+ URL : "https://github.com/stjepang/coco/issues/4" TITLE : using coco with futures BODY : can coco deque be used with futures similar to futures mspc https://docs.rs/futures/0.1.13/futures/sync/mpsc/index.html library?

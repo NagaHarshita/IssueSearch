@@ -1,0 +1,1 @@
+ URL : "https://github.com/queckezz/koa-views/issues/89" TITLE : don't compile to es5 ? BODY : hi, koa v2.0 has been released and it requires node v7.6+ which supports sync functions natively . i think koa-views doesn't need to support node with low version, it losses some performance.

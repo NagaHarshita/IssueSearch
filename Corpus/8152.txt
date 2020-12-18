@@ -1,0 +1,1 @@
+ URL : "https://github.com/waldyrious/github-kanban-boards/issues/1" TITLE : needs a license BODY : since this is not code, perhaps cc-by would be the most natural equivalent to permissive licenses like mit. otherwise, cc-by-sa for a copyleft version, or cc0 for a public domain dedication.

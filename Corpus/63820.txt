@@ -1,0 +1,1 @@
+ URL : "https://github.com/gomez5rap/JuegoDeCartas/issues/2" TITLE : excepcion no controlada BODY : https://github.com/gomez5rap/juegodecartas/blob/master/juegodecartas/testjuegodecartas.java l47 te salta la excepción indexoutofboundexception y no la controlas puedes duplicar los jugadores?

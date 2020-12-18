@@ -1,0 +1,1 @@
+ URL : "https://github.com/meteotest/hurray/issues/4" TITLE : encrypt tcp connections BODY : traffic between client and server should be encrypted as an option

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Robbepop/prophet/issues/1" TITLE : less panics, more results BODY : currently prophet handles too many potential errors with panics instead of proper rust-style error handling via result return type and proper error kinds etc. this also leads to less testable code and prevents implementing better error reporting strategies and should be addressed.

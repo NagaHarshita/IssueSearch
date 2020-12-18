@@ -1,0 +1,1 @@
+ URL : "https://github.com/daufinsyd/webAdmin_rccf/issues/7" TITLE : vue d'un utilisateur BODY : showuser est dans /admin_ mais devrait être dans le répertoire de base car utilisé pour voir son propre profil.

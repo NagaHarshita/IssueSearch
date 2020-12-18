@@ -1,0 +1,1 @@
+ URL : "https://github.com/thewca/worldcubeassociation.org/issues/1270" TITLE : cache translation statuses BODY : see 1269. computing translation status is a rather expensive prospect. this is an easy fix though! we actually only need to compute this data once after the server starts since we restart the server with every language update .

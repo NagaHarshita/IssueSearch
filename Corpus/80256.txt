@@ -1,0 +1,1 @@
+ URL : "https://github.com/cocos2d/cocos2d-x/issues/18566" TITLE : the libspine is crashed. BODY : - cocos2d-x version: 3.16 - devices test on: windows 7 - developing environments - vs version: vs2017 steps to reproduce: 1. run cpp-tests 2. click the 44:node:spine test. the thrid example, goblinsexample , is crashed in skeletonanimation::createwithjsonfile

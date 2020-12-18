@@ -1,0 +1,1 @@
+ URL : "https://github.com/JoomlaZen/plg_jzcron_extensions/issues/1" TITLE : fix lincense in xml BODY : https://github.com/joomlazen/plg_jzcron_extensions/blob/master/extensions.xml l7 to <license>http://www.gnu.org/copyleft/gpl.html gnu/gpl</license>

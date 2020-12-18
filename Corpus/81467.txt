@@ -1,0 +1,1 @@
+ URL : "https://github.com/enioka/jqm/issues/244" TITLE : xml job definition issue BODY : jqm job definition integration doesn't trim xml content, leading to noclassdeffounerror on <javaclassname/> when automatic indentation is moving closing xml tag is on the next line.

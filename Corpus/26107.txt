@@ -1,0 +1,1 @@
+ URL : "https://github.com/chusiang/ansible-jupyter.dockerfile/issues/12" TITLE : add sshpass package BODY : if we want to use the password to control managed node not ssh key , we need install the sshpass , too. to use the 'ssh' connection type with passwords, you must install the sshpass program

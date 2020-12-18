@@ -1,0 +1,1 @@
+ URL : "https://github.com/gfolego/faas/issues/21" TITLE : log input filename BODY : find an appropriate way to log the input filename. it shouldn't be too hard to extract this information from gunicorn, to be printed together with access log.

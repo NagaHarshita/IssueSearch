@@ -1,0 +1,1 @@
+ URL : "https://github.com/reswitched/libtransistor/issues/55" TITLE : document ace_loader usage BODY : right now, ace_loader's readme is a bit barren. we should probably explain how it works, and how to use it, as it's likely to become the main way to use homebrew.

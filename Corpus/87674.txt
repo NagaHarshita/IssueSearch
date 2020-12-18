@@ -1,0 +1,1 @@
+ URL : "https://github.com/google/guetzli/issues/192" TITLE : maintain orientation flag BODY : please provide a flag to preserve image orientation exif data. i am unable to use portrait orientation photos in a site i am working on after they were reduced using guetzli.

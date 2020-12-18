@@ -1,0 +1,1 @@
+ URL : "https://github.com/samuelneff/MimeTypeMap/issues/61" TITLE : new release to nuget? BODY : it seems like the package on nuget is missing almost two years of work, are there any plans to update the package, or is the hope that people will just copy+past the code?

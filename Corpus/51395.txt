@@ -1,0 +1,1 @@
+ URL : "https://github.com/julienschmidt/httprouter/issues/213" TITLE : allow all http methods BODY : for some endpoints i have to handle the methods manually. i couldn't find a way to accomplish this. is there a way or do i have to use another router?

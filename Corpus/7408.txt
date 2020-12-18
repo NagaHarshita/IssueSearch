@@ -1,0 +1,1 @@
+ URL : "https://github.com/cirsfid-unibo/lime/issues/63" TITLE : fix test runner BODY : the test runner is old and not compatible with current version on lime, it should be updated and fixed.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/artsy/force/issues/1499" TITLE : qa: search test BODY : looks great just two details: - apply border on hover to existing border instead of inside so that elements don't bounce around https://cl.ly/04011o070q2m - similar to above, the focus should be applied to the exterior border

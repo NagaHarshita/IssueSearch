@@ -1,0 +1,1 @@
+ URL : "https://github.com/tklebel/jstor/issues/6" TITLE : tests fail on windows BODY : tests fail on windows due to a bug in testthat : https://github.com/r-lib/testthat/issues/694

@@ -1,0 +1,1 @@
+ URL : "https://github.com/TimothyLuke/GnomeSequencer-Enhanced/issues/235" TITLE : 2.0.12 is broken BODY : not sure what changed, but macros are definitely not working in 2.0.12. would appreciate a rollback while you work on a fix as things are just not working at all right now.

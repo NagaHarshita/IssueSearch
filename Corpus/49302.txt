@@ -1,0 +1,1 @@
+ URL : "https://github.com/grimoirelab/perceval-mozilla/issues/3" TITLE : tests are not working BODY : acs@dellx master % u= ~/devel/perceval-mozilla/tests $ python3 test_remo.py traceback most recent call last : file test_remo.py , line 34, in <module> from perceval.backend import backendcommandargumentparser importerror: no module named 'perceval.backend'

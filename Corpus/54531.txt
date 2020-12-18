@@ -1,0 +1,1 @@
+ URL : "https://github.com/TestMyQt/Qt-CreatorTMC/issues/43" TITLE : global settings object BODY : would be cleaner to have a global settings object that every object would have a reference to and appropriate signal slots connected.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/dateutil/dateutil/issues/404" TITLE : data parsing grammar BODY : not an issue, but rather a question. is there any formal representation, like bnf, of parsing grammar used by dateutil parser module? or any description of parsing method applied i.e. ll, lr, etc. ?

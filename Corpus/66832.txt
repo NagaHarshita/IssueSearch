@@ -1,0 +1,1 @@
+ URL : "https://github.com/Kennethrc2401/prj-rev-bwfs-dasmoto/issues/2" TITLE : no strong tag in header BODY : there is no need to put a strong tag inside of a header tag. header tags default to bold and already have high semantic value. https://github.com/kennethrc2401/prj-rev-bwfs-dasmoto/blob/master/dasmoto's%20arts%20%26%20crafts/index.html l13

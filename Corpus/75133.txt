@@ -1,0 +1,7 @@
+ URL : "https://github.com/herculeshssj/orcamento-maven/issues/32" TITLE : gestão das benfeitorias BODY : viu-se a necessidade de realizar a gestão das benfeitorias de um patrimônio, incluído as etapas de planejamento e execução. tratar benfeitorias de patrimônios com o 5w2h what o quê - o que será feito? etapas why por quê - por que será feito justificativa where onde - onde será feito local when quando - quando será feito tempo who quem - por que será feito responsabilidade how como - como será feito método how much quanto custa - quanto custará fazer custo what -> descrição da benfeitoria
+why -> detalhes sobre a benfeitoria que será realizada. deve ser um campo para justificativa
+where -> patrimônio selecionado
+when -> data da benfeitoria
+who -> favorecido/sacado
+how -> deve ser uma coleção de pequenas tarefas com data previsto e realizado e seu custo previsto e realizado para ser registrado na benfeitoria
+how much -> valor da benfeitoria. será um valor estimado pelo favorecido na época que a benfeitoria foi solicitada irá confrontar com os itens do cuso do 'como' além disso, usar os recursos disponíveis na entidade orçamento e grupolancamento para realizar uma gestão mais detalhadas da benfeitoria que está sendo realizada. isso é vital para patrimônios imóveis.

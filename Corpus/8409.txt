@@ -1,0 +1,1 @@
+ URL : "https://github.com/udos86/ng2-dynamic-forms/issues/439" TITLE : not loading css BODY : hi all, i have created the project using ng new demoapp and installed the ng2-dynamic-forms primeng, but css is not getting applied please check the below screenshot ! image https://user-images.githubusercontent.com/16442210/28237683-e3eee2c2-6962-11e7-8078-87d4c8f7411e.png

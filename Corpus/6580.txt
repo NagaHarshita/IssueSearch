@@ -1,0 +1,1 @@
+ URL : "https://github.com/docker-library/mongo/issues/135" TITLE : add xfs support BODY : hello, i would like to use this image with storage using xfs but it seems the xfsprogs package is not installed so this is currently not possible. would you accept a pull request adding the xfsprogs package to the various dockerfiles under this line numactl \ ?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/blparri1/ser316labcr/issues/6" TITLE : coding standards - 6 BODY : all literal values, except loop indices starting at 0 or 1 must be declared as constants. from defect list: blparri1 - 34 cjiams - none

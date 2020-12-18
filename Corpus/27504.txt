@@ -1,0 +1,1 @@
+ URL : "https://github.com/bona-fide/sitemon/issues/4" TITLE : deploy minio server BODY : deploy minio server and configure django to work with it for storing files there

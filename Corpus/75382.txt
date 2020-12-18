@@ -1,0 +1,1 @@
+ URL : "https://github.com/ESA-VirES/VirES-Server/issues/67" TITLE : harmonize timestaps used BODY : ensure that all timestamps used eg. in log-files, db-entires, etc. are in the same time-zone preferably utc . it is rather confusing to always consider time-zome or daylight-savings-time when searching/comparing log- or db entries for certain occurrances.

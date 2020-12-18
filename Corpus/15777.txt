@@ -1,0 +1,1 @@
+ URL : "https://github.com/bemeurer/hemoglobin/issues/27" TITLE : fix rule decoding BODY : see 19. the rule decoding code had a bit order bug.

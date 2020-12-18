@@ -1,0 +1,1 @@
+ URL : "https://github.com/raml-org/raml-spec/issues/614" TITLE : default types for bodies BODY : as per spec, default body type is 'any' https://github.com/raml-org/raml-spec/blob/master/versions/raml-10/raml-10.md determine-default-types the question is, why not to make body have 'string' as default type just as all other types do?

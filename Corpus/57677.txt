@@ -1,0 +1,1 @@
+ URL : "https://github.com/totalknowledge/angular2-launchpad/issues/48" TITLE : redirect http to https BODY : incoming http requests get redirected to https.

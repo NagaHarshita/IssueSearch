@@ -1,0 +1,1 @@
+ URL : "https://github.com/lavalamp-/ws-backend-community/issues/32" TITLE : get away from wait_for_tag BODY : the wait_for_tag implementation takes a significant amount of time to work - reach out to asksol and see if there is a more elegant way to handle this.

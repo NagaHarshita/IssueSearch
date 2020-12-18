@@ -1,0 +1,1 @@
+ URL : "https://github.com/jupyterhub/binder/issues/24" TITLE : broken doc link. BODY : the dockerfile section have literally guide to creating binder-ready repositories <link> .

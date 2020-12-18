@@ -1,0 +1,1 @@
+ URL : "https://github.com/learn-co-curriculum/js-from-dom-to-node/issues/20" TITLE : learn.co app not working BODY : when typing the console.log hello, world! request in the top line. when you go to the bottom and type nodejs index.js. nothing happens. i have rebooted and also have restarted the web app but had no success. please advise.

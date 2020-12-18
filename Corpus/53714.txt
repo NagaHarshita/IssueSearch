@@ -1,0 +1,1 @@
+ URL : "https://github.com/peerigon/modernizr-loader/issues/35" TITLE : error in webpack build BODY : i am followed the steps as per the readme file and got the same issue as the issue-5 https://github.com/peerigon/modernizr-loader/issues/5 as mentioned by @flootr, i have updated the code but no luck webpack: v2.1.0-beta.20 let me know if you need any more information

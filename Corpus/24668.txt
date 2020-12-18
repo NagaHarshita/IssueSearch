@@ -1,0 +1,1 @@
+ URL : "https://github.com/nuxt-community/nuxtent-template/issues/5" TITLE : template is broken BODY : hello. awful starting experience i have. first i notice bug in demo. then i tried to use starter locally, and it instantly throws me an error. nuxt.js error: error: render function or template not defined in component: anonymous

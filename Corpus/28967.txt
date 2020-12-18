@@ -1,0 +1,1 @@
+ URL : "https://github.com/gburtini/php-bloom-filter/issues/2" TITLE : improve test suite. BODY : review test suite for coverage, ensure tests are one command runnable and fast. integrate travis ci for the appropriate version coverage.

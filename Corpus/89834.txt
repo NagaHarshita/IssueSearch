@@ -1,0 +1,1 @@
+ URL : "https://github.com/bigspring/M3/issues/53" TITLE : remove sticky footer code BODY : this causes issues on ipads when we have a fullwidth body background image. it must go.

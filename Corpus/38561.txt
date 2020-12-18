@@ -1,0 +1,1 @@
+ URL : "https://github.com/Codewars/codewars.com/issues/1184" TITLE : preview site is dead BODY : trying to access any pages from preview sites gives 5xx: server error . in addition, trying to access the main preview site with chrome will show http error 503 .

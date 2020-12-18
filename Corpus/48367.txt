@@ -1,0 +1,1 @@
+ URL : "https://github.com/qri-io/frontend/issues/211" TITLE : round out 0.1 mockups BODY : a few outstanding things we need to round out version 0.1.0 before going into testing lockdown: statitem component stats on right side of datasets page stats on right side of peers page stats on right side of peer page expander on dataset container tabpanel

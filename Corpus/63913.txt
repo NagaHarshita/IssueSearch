@@ -1,0 +1,1 @@
+ URL : "https://github.com/WebMaestroFr/rpi-mpeg-ts/issues/2" TITLE : fail to write and abort BODY : after some time, the stream breaks on this error. error: write epipe at exports._errnoexception util.js:1022:11 at writewrap.afterwrite net.js:801:14 mmal: failed to write buffer data 3248 from 5160 - aborting

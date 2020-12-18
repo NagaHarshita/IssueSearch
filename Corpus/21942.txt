@@ -1,0 +1,1 @@
+ URL : "https://github.com/warmcat/lws-esp32-factory/issues/21" TITLE : how to disable ssh BODY : hi, this is not an issue but a question. i am missing in the documentation, how can i use port 80 without encryption. solely chaning info.port on 80 doesnt work. thanks in advice

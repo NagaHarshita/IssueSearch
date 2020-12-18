@@ -1,0 +1,1 @@
+ URL : "https://github.com/jeffling/wallaby-webpack/issues/22" TITLE : webpack target: 'node' BODY : currently this cannot be used when webpack has target: 'node' and wallaby's env type is set to node . i get errors about window being undefined.

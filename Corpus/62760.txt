@@ -1,0 +1,1 @@
+ URL : "https://github.com/metacloud/molecule/issues/720" TITLE : create a vagrant module BODY : a molecule v2 tracking issue. create an ansible vagrant module to manage instances. since ansible does not ship with a vagrant module.

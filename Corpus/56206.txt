@@ -1,0 +1,1 @@
+ URL : "https://github.com/graphql/graphql-js/issues/1050" TITLE : missing file in 0.11.5 BODY : the following file /utilities/index.js seems to be missing in the 0.11.5 release. i have reverted to 0.11.4 .

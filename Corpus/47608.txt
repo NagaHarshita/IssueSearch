@@ -1,0 +1,1 @@
+ URL : "https://github.com/jostylr/literate-programming-lib/issues/47" TITLE : post command no space BODY : seems to be an issue with a pipe immediately following a command. something like | process| sub instead of | process | sub .

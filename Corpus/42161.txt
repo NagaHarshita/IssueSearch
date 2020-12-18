@@ -1,0 +1,1 @@
+ URL : "https://github.com/Deesen/YAMS/issues/19" TITLE : alias path don't show BODY : when de-select use alias path as alias it should not show the subfolder in the alias but it does. i have some seo pages which i like to add in a folder/container and don't show the alias in the url. for my other pages it needs to show the alias

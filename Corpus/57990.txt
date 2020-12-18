@@ -1,0 +1,1 @@
+ URL : "https://github.com/jq-rs/mles-rs/issues/117" TITLE : resync handling broken BODY : after cid loop fix, resync support does not work properly during server restart. there needs to be some logic when thread is canceled vs. reconnect is tried.

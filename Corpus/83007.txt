@@ -1,0 +1,1 @@
+ URL : "https://github.com/hypertidy/vapour/issues/3" TITLE : blob rasters / blob tiles BODY : example here: https://gist.github.com/mdsumner/ca460e7a9063dbf8592826e8a17cc419 we could do that directly for any raster, have a set of tiles in r that trigger the right window-read when needed. radian can be used like this directly for tiled data too

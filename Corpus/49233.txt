@@ -1,0 +1,1 @@
+ URL : "https://github.com/DynamoMTL/spree_chimpy/issues/93" TITLE : taxon loading problem BODY : when using with multi domain and multi currency taxons do not load in admin panel nameerror undefined local variable or method supported_currencies' for <spree::api::v1::taxonscontroller:0x007fcc593ea058>

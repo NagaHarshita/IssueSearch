@@ -1,0 +1,1 @@
+ URL : "https://github.com/marc0tjevp/Blue-Jeans/issues/1" TITLE : not fully responsive BODY : some parts overlap or shift out of view when on mobile. this could be resolved by implementing a grid-like system or using bootstrap, skeleton etc.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/linuxserver/docker-deluge/issues/28" TITLE : add curl package BODY : can we add the curl package to the docker image? i have some scripts that trigger the api of some other applications, which requires an http post to be made with curl.

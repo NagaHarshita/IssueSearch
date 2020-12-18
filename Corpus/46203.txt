@@ -1,0 +1,1 @@
+ URL : "https://github.com/PlaymodesStudio/MIRABCN_Generator/issues/33" TITLE : load save presets fix BODY : parameters can be saved as floats from 0-1, with this we could use presets for different size of canvas

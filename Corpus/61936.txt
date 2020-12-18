@@ -1,0 +1,1 @@
+ URL : "https://github.com/Capitains/Nautilus/issues/40" TITLE : caching creates failing BODY : some situation have shown to easily fail : - getmetadata failing on objectid after reload. - getpassage failing the second time after caching. see https://github.com/capitains/mycapytain/issues/117 as well

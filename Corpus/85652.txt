@@ -1,0 +1,1 @@
+ URL : "https://github.com/temando/open-api-renderer/issues/45" TITLE : fix alignment with schema BODY : schema property name does not seem to align well with property description, e.g. ! image https://cloud.githubusercontent.com/assets/9293754/25985814/fa6675ca-372f-11e7-82fe-756390ad4f49.png

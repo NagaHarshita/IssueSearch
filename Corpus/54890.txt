@@ -1,0 +1,1 @@
+ URL : "https://github.com/BurntSushi/ripgrep/issues/425" TITLE : how to use inside vim? BODY : thanks for building this, it's very cool. quick question, i was wondering if you could please let me know or add to the readme how to integrate this with vim. at the very least i'm interested in 'search and replace' globally within a repository. thank you.

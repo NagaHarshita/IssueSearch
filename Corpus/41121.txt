@@ -1,0 +1,1 @@
+ URL : "https://github.com/StarcounterApps/Content/issues/59" TITLE : write selenium tests BODY : there are currently no tests for this app. there should at least be selenium tests that check if navigation and creating new pages works. instructions are here: https://docs.starcounter.io/guides/web-apps/acceptance-testing-with-selenium/

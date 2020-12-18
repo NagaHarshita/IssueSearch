@@ -1,0 +1,1 @@
+ URL : "https://github.com/tiboroche/plw-devenv/issues/6" TITLE : highlighting of numbers BODY : new feature: highlight all numbers in pjs-mode. var integer max = 10; // 10 should be highlighted

@@ -1,0 +1,1 @@
+ URL : "https://github.com/vjeantet/bitfan/issues/21" TITLE : http poller handle error BODY : when http request fails then a event should be raised with a tag _httppollfailure this way this failure could be handle through a specific path in the pipeline to alert someone

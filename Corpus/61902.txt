@@ -1,0 +1,1 @@
+ URL : "https://github.com/jneen/parsimmon/issues/191" TITLE : builtins for line stuff BODY : something inspired by this would be useful: js cr: => p.string '\r' , lf: => p.string ' ' , crlf: => p.string '\r ' , nl: r => p.alt r.crlf, r.lf, r.cr .desc 'newline' , end: r => p.alt r.nl, p.eof ,

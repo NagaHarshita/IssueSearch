@@ -1,0 +1,1 @@
+ URL : "https://github.com/ralphonz/blueleaf-theme/issues/4" TITLE : choose ninja form BODY : be able to change the contact page ninja form from the page edit screen. currently it is set with the id using a function in template-contact.php

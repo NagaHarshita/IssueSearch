@@ -1,0 +1,1 @@
+ URL : "https://github.com/zaphoyd/websocketpp/issues/622" TITLE : websocket server model BODY : hi, i am in the process of searching some szolutions to my graduation project which related to webzsocket. i want to know the best design model to implement the server websocket eploiting your library, websocketpp. thank you in advance, best regards,

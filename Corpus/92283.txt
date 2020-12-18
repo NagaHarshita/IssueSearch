@@ -1,0 +1,1 @@
+ URL : "https://github.com/scs97liu/MetricsPage/issues/8" TITLE : websocket dynamic updates BODY : - update status as pcm updates come in. - reload whole page on update? or only specific element?

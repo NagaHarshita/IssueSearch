@@ -1,0 +1,1 @@
+ URL : "https://github.com/fabcooldog/BGS-Weather-Station/issues/3" TITLE : list of sensors BODY : which sensors should we be connecting to the pi and in which order? currently: - temperature - wind speed - wind direction

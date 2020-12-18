@@ -1,0 +1,1 @@
+ URL : "https://github.com/Pakillo/rmdTemplates/issues/9" TITLE : ms_pdf bib is very long BODY : the file at: inst/rmarkdown/templates/ms_pdf/skeleton/references.bib is very long. does it make sense to trim this down to a minimum?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Carles-Bordas/DNA-Comparator/issues/3" TITLE : error when reading kmers BODY : there is an error which distorts file reading offsets, leading to duplications when reading kmers.

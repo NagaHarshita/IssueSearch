@@ -1,0 +1,25 @@
+ URL : "https://github.com/xbmc-catchuptv-au/plugin.video.sbs/issues/787" TITLE : end-user bug report BODY : automatic bug report from end-user. environment plugin name: sbs on demand plugin id: plugin.video.sbs plugin version: 1.1.0 xbmc/kodi version: info python version: 2.7.12 default, nov 17 2016, 22:18:11 gcc 4.9.2 operating system: linux2 linux 4.5.7-docker-4 x86_64 ip address: 163.172.180.175 175-180-172-163.rev.cloud.scaleway.com isp : scaleway python path: /lab
+/lab/env/lib/python27.zip
+/lab/env/lib/python2.7
+/lab/env/lib/python2.7/plat-linux2
+/lab/env/lib/python2.7/lib-tk
+/lab/env/lib/python2.7/lib-old
+/lab/env/lib/python2.7/lib-dynload
+/usr/local/lib/python2.7
+/usr/local/lib/python2.7/plat-linux2
+/usr/local/lib/python2.7/lib-tk
+/lab/env/lib/python2.7/site-packages
+/lab/kumockxbmc
+/lab/runtime/kodistubs
+/lab/runtime/addons/script.module.addon.common/lib
+/lab/runtime/addons/script.module.xbmcswift/lib
+/lab/runtime/addons/script.module.xbmcswift2/lib
+/lab/runtime/addons/script.module.t1mlib/lib
+/lab/runtime/addons/script.module.urlresolver/lib
+/lab/runtime/addons/script.module.xmltodict/lib
+/lab/runtime/addons/script.module.t0mm0.common/lib
+.
+/tmp/plugin.video.sbs/resources/lib
+/tmp/plugin.video.sbs/resources/lib
+/tmp/plugin.video.sbs/resources/lib
+/tmp/plugin.video.sbs/resources/lib traceback traceback most recent call last : file /tmp/plugin.video.sbs/resources/lib/entries.py , line 37, in make_entries_list listitem.setinfo 'video', p.get_xbmc_list_item file /tmp/plugin.video.sbs/resources/lib/classes.py , line 268, in get_xbmc_list_item if self.get_duration : file /tmp/plugin.video.sbs/resources/lib/classes.py , line 194, in get_duration version = utils.get_xbmc_major_version file /tmp/plugin.video.sbs/resources/lib/utils.py , line 173, in get_xbmc_major_version return int version valueerror: invalid literal for int with base 10: ' info '

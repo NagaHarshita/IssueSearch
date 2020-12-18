@@ -1,0 +1,1 @@
+ URL : "https://github.com/altair-viz/altair/issues/387" TITLE : measles notebook broken BODY : it is getting a nan in a list of numbers that it doesn't know how to handle.

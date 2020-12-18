@@ -1,0 +1,1 @@
+ URL : "https://github.com/kartik-v/yii2-widget-fileinput/issues/125" TITLE : composer update failed BODY : composer update failed. symfony/debug v3.3.13 requires php ^5.5.9|>=7.0.8 -> your php version 7.0.5 does not satisfy that requirement. my php is 7.1 7.0

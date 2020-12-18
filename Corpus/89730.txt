@@ -1,0 +1,1 @@
+ URL : "https://github.com/18F/openFEC/issues/2422" TITLE : refresh task for claendar BODY : refresh it every 15 minutes i think we can make a management command, and add a cron job based on that, that way we could run it as a task too if there was a calendar emergency or something

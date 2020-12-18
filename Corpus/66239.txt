@@ -1,0 +1,1 @@
+ URL : "https://github.com/kubernetes/test-infra/issues/3016" TITLE : merge crier into plank. BODY : crier originally existed as its own service because it needed to serially update the test failure comment, back when we ran a bunch of cmd/line jobs in parallel. now that plank is a thing, there is no reason for crier to exist.

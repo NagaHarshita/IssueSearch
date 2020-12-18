@@ -1,0 +1,1 @@
+ URL : "https://github.com/utPLSQL/utPLSQL/issues/266" TITLE : full sonar integration BODY : we should integrate both sonar coverage and sonar test results for full integration with sonar. the sonar code coverage and unit test reporter should not report on object names but only on project files. https://docs.sonarqube.org/display/sonar/generic+test+data

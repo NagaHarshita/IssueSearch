@@ -1,0 +1,1 @@
+ URL : "https://github.com/hathitrust/datasets/issues/11" TITLE : abstraction for dataset BODY : should be able to tell: - is something in the dataset? check that pairtree path w/ zip & mets exists - is something in a dataset subset? link to pairtree exists should not include functionality for actually constructing the zip that goes in the dataset.

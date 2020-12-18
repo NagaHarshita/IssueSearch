@@ -1,0 +1,1 @@
+ URL : "https://github.com/pyrasun/ferkee/issues/1" TITLE : send emails individually BODY : currently ferkee sends everybody one email on the to: line. obviously this is not good once people who don't know each other start using it :- hide everyone's email address from each other bcc or other similar mechanism for now .

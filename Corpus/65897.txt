@@ -1,0 +1,1 @@
+ URL : "https://github.com/karollewandowski/aem-intellij-plugin/issues/129" TITLE : live template for lists BODY : when data-sly-list or data-sly-repeat is typed, then it should be expanded to live template: <div data-sly-list. 2 = ${ 1 } ></div> - 1 - standard context completion - 2 - variable name generated from expression in 1

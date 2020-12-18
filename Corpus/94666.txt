@@ -1,0 +1,1 @@
+ URL : "https://github.com/ngallup/zeoliteclusterizer/issues/1" TITLE : charges not being filtered BODY : upon production of new gaussian .com files, some geometries are not be excluded based on their disallowed charge state. this is apparent when test.py is run, and several cr and ti oxide species are created, despite only charges of 0 being specified as acceptable.

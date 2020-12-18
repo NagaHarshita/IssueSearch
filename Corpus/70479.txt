@@ -1,0 +1,1 @@
+ URL : "https://github.com/helpkang/react-native-kakao-login/issues/5" TITLE : weblogin bug in android BODY : kakao weblogin did not work steadily when there is no the kakaotalk messenger in android. 안드로이드 상에서 카카오 웹로그인 화면이 스플레쉬만 되고 정상동작 하지 않습니다. 번호가 없는 테블릿이라 카카오톡 설치가 안되어 있음

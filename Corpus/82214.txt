@@ -1,0 +1,1 @@
+ URL : "https://github.com/parched/runtime-target-feature-rs/issues/1" TITLE : add multiple feature sets BODY : currently only one runtime feature set is allowed but the user should be able to add as many as they want. should each feature set be listed in the one attribute delimited by ; or similar or should each feature set use a different attribute?

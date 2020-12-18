@@ -1,0 +1,1 @@
+ URL : "https://github.com/iceman1001/proxmark3/issues/66" TITLE : lf idteck - unfinished BODY : added a demod for psk1, idteck tags. 64bits / 2blocks. first block is same, and used as preamble. second block is unknown. it looks encrypted, but 32bits? or a major scramble algo.

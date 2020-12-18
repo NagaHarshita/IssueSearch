@@ -1,0 +1,1 @@
+ URL : "https://github.com/kubernetes-incubator/external-storage/issues/76" TITLE : make aws-secrets optional? BODY : thanks for providing the efs external provisioner! i wonder if providing aws-secrets could be optional since they only are needed for checking - and if you are confident that your setup is ok then they are not really needed?

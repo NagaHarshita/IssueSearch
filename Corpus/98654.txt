@@ -1,0 +1,1 @@
+ URL : "https://github.com/me-next/menext-app/issues/76" TITLE : join doesn't check success BODY : you can join an event that doesn't exist, or one that you are already a member of, and won't get an error code.

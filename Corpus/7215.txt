@@ -1,0 +1,1 @@
+ URL : "https://github.com/transmarim/sigtsm/issues/3" TITLE : error en cedula BODY : el campo cedula debe tener un modulo independiente para poder registrar su fecha de vencimiento! esto significa editar el campo cedula en el modulo chofer y volverlo tipo seleccionable.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/paulgb/BarbBlock/issues/12" TITLE : secure url for list BODY : the current url provided for the list, http://bblck.me/barbblock.txt, is insecure. can that domain be made secure, or the url updated to one that is secure currently, https://raw.githubusercontent.com/paulgb/barbblock/master/barbblock.txt seems to work ?

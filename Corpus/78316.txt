@@ -1,0 +1,1 @@
+ URL : "https://github.com/victorporof/Sublime-HTMLPrettify/issues/368" TITLE : prevent spaces in object BODY : currently the plugin will format this object: var foo = {a:1, b:2}; into: var foo = { a:1, b:2 }; i would like to turn off the option which insert spaces at the start and at the end of objects.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/h-da/geli/issues/74" TITLE : add correct title BODY : user story as a: user i want: a speaking and useful title for the browser-tab/-window so that: i can see where i am and navigate better trough multiple geli-tabs storypoints: ? acceptance criteria: - the title accords to the shown page - the title switches with every context-switch additional info:

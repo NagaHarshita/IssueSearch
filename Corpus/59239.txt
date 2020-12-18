@@ -1,0 +1,1 @@
+ URL : "https://github.com/yuyangz/CareBears/issues/6" TITLE : timer goes to negative BODY : we need to figure out why the timer goes to -1 even though i have it set to >= 0.

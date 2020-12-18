@@ -1,0 +1,5 @@
+ URL : "https://github.com/PyHubCC/PyHubCollection/issues/8" TITLE : dask and celery BODY : <img src= http://ifttt.com/images/no_image_card.png ><b>dask and celery</b><br>
+this post compares two python distributed task processing systems, dask.distributed and celery. disclaimer: technical comparisons are hard to do well. i am biased towards dask and ignorant of correct celery practices. please keep this in mind. critical feedback by celery experts is welcome.<br><br>
+tags: & 22522;& 30784;& 30693;& 35782;<br><br>
+via pocket http://matthewrocklin.com/blog/work/2016/09/13/dask-and-celery<br><br>
+december 15, 2016 at 03:41pm

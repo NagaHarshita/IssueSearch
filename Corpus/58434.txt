@@ -1,0 +1,1 @@
+ URL : "https://github.com/bethgelab/foolbox/issues/44" TITLE : simplify model testing BODY : can we simplify the model testing such that for each model we only instantiate a toy example but then test all models in the same way? right now the testing code e.g. gradient testing is duplicated across all model tests.

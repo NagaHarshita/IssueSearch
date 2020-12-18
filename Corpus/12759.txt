@@ -1,0 +1,1 @@
+ URL : "https://github.com/Kurolox/ArcoexBot/issues/3" TITLE : rewrite the code BODY : right now the code is not really well written and i'd like to make language addition easier without having to edit the main file by adding extra language as new files. i'd also like to make a new compile function that will run the compiler for compiled languages and check if there's any error.

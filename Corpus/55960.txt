@@ -1,0 +1,1 @@
+ URL : "https://github.com/ipfs/go-ipfs/issues/4279" TITLE : make badger-ds default BODY : it's much faster. make sure the on-disk format is stable. test it. make it the default.

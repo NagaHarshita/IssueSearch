@@ -1,0 +1,1 @@
+ URL : "https://github.com/drtshock/Factions/issues/958" TITLE : error when /f show BODY : hello, thx for your plugin, i have an error when i make /f show command, caused by: java.lang.classnotfoundexception: mkremins.fanciful.fancymessage

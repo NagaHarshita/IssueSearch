@@ -1,0 +1,1 @@
+ URL : "https://github.com/Trowel/Trowel/issues/20" TITLE : better config pattern BODY : make possible to overwrite a config map that contains all relatives config params selector basic options or media-queries

@@ -1,0 +1,1 @@
+ URL : "https://github.com/PeelTechnologies/react-native-tcp/issues/31" TITLE : 3.0.6 xcode compile error BODY : hi, i noticed xcode is complaining about missing semi-colons here: https://github.com/peeltechnologies/react-native-tcp/commit/ff3576578a18f27908b63ad3b824b9566924ae02 commitcomment-20414082

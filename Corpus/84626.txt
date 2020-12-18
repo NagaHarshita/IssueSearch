@@ -1,0 +1,1 @@
+ URL : "https://github.com/Rayer/Iris/issues/3" TITLE : design sql based database BODY : need a sql based database : - need to find a valid adapter crossing platforms - implement datapersistencelayer / space

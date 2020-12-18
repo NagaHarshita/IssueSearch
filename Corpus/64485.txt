@@ -1,0 +1,1 @@
+ URL : "https://github.com/dgrtwo/gganimate/issues/37" TITLE : gganimate not rendering BODY : error: 'align_plots' is not an exported object from 'namespace:cowplot'

@@ -1,0 +1,1 @@
+ URL : "https://github.com/droidmjt/Droidsound/issues/355" TITLE : bcstm not working BODY : versions 29 and 30 no longer play bcstm files. version 17 did not have this problem. if attempted after around 10 seconds, the phone becomes stuck on the lock screen. i've tried using samsung j7 and lg stylo 2 plus and both have the same problem.

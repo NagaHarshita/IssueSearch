@@ -1,0 +1,2 @@
+ URL : "https://github.com/miguelagviegas/SmartCycle/issues/47" TITLE : add specialised bike store BODY : - if user is not in the vicinity of a known bike store always display a add store button
+- pressing add store shall redirect users to the __add store__ page

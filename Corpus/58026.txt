@@ -1,0 +1,1 @@
+ URL : "https://github.com/SheepFromHeaven/simulation/issues/1" TITLE : rework building config BODY : we need to change the building constructor, so we can pass a configuration object for the building. this constructor dynamically creates modules from the configuration. { storage: true, resourceproduction: { enabled: true ..... } }

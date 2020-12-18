@@ -1,0 +1,1 @@
+ URL : "https://github.com/rudiedirkx/Jira/issues/82" TITLE : label fetch doesn't work? BODY : can't see why on mobile, but there are no results. old xml api? auto search after 500ms add spinner obvious if no results

@@ -1,0 +1,1 @@
+ URL : "https://github.com/numworks/epsilon/issues/100" TITLE : 0^2 returns undef BODY : in 1.1.1 0^2 returns undef in calculations, functions, and sequences i did not test in the other apps it worked as expected under 1.1.0, so it must be a recent change that caused the undesirable behavior. it works ok in python.

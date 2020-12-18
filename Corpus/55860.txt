@@ -1,0 +1,1 @@
+ URL : "https://github.com/justsocialapps/justlib/issues/2" TITLE : log with custom prefix BODY : as a developer of a program with multiple packages i want to be able to add the package name to the log output so i can more easily see which package produced a log message.

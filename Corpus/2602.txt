@@ -1,0 +1,1 @@
+ URL : "https://github.com/low-sky/degas/issues/8" TITLE : bunit not set BODY : the current code choked on setting the bunit = ' k' / ta '

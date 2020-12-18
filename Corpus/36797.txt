@@ -1,0 +1,1 @@
+ URL : "https://github.com/ryukinix/lisp-chat/issues/2" TITLE : improve /log command BODY : - filter @server messages - add optional parameter n to return n messages on the log stack -

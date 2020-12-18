@@ -1,0 +1,1 @@
+ URL : "https://github.com/sclevine/cflocal/issues/8" TITLE : cf local design BODY : hi, this is more of question : i try it and it works great! how does it works from design aspect's? i see that you are using docker but what is actually happening under the hood when i stage & and run app ? using local thanks!

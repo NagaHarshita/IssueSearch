@@ -1,0 +1,1 @@
+ URL : "https://github.com/GoodForPoC/GoodForPoC-API/issues/26" TITLE : add healthcheck route. BODY : create a route, get /health , that can be used to check on the status of the api. this would be used for things like deploy checks and uptime confirmations.

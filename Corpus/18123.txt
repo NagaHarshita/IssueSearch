@@ -1,0 +1,1 @@
+ URL : "https://github.com/PeteGoo/tcSlackBuildNotifier/issues/138" TITLE : slack tab missing BODY : in tc 2017.1 i seem to see the see the slack notifications tab in the administratoin section, but no slack tab in any of the projects or build configurations. could this be due to missing support for teamcity 2017.1?

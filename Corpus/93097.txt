@@ -1,0 +1,1 @@
+ URL : "https://github.com/unieditions/HttpCallerBundle/issues/1" TITLE : add default timeout option BODY : add default timeout option to each curl caller. src\ue\httpcallerbundle\caller\curlcaller

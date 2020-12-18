@@ -1,0 +1,1 @@
+ URL : "https://github.com/garbles/why-did-you-update/issues/40" TITLE : typo in source BODY : there is a typo in a variable use in the source code: https://github.com/garbles/why-did-you-update/blob/master/src/index.js l12 pre is not defined. i imagine this would affect core functionality?

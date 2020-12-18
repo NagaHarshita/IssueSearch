@@ -1,0 +1,1 @@
+ URL : "https://github.com/nikhilkumarsingh/content-downloader/issues/8" TITLE : inconsistent file argument BODY : in ctdl.py it uses -g for the file_type flag, but in the readme that uses ctdl library it uses -f for file_type flag

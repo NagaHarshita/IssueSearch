@@ -1,0 +1,1 @@
+ URL : "https://github.com/lodash/lodash/issues/3372" TITLE : display big-o in docs BODY : since this utility deals heavily with algorithms, it would be very nice to know what the big-o time efficiency of the various lodash methods. these should be placed in the documentation. reference to old issue: 1356

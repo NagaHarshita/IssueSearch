@@ -1,0 +1,1 @@
+ URL : "https://github.com/crobinson42/feathers-js-data/issues/1" TITLE : tutorial video series BODY : - what is feathersjs - what is js-data - setting up the js-data - setting up feathers service - advanced realtime config between service->client via sockets

@@ -1,0 +1,1 @@
+ URL : "https://github.com/AndreMiras/PyWallet/issues/71" TITLE : lazy loading widgets BODY : most of the screen, bottomnavigation and other widgets are not lazy loaded. it means if we perform expensive computation in some of the widget setup method, the whole application will lag.

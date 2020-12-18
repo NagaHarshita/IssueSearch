@@ -1,0 +1,1 @@
+ URL : "https://github.com/Alamofire/Alamofire/issues/2247" TITLE : send utf-8 parameters BODY : hello. me need so that alamofire send utf-8 parameters to my server, now he transmits english characters normally, but russian characters as hieroglyphs. after checking the encoding i found that it is used maccyrillic characters. need your help. thanks you.

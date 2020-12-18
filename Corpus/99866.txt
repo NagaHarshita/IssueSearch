@@ -1,0 +1,1 @@
+ URL : "https://github.com/erigones/esdc-ce/issues/298" TITLE : no resolv.conf in kvm zone BODY : hi i tried to make a kvm zone using ubuntu-certified-17.10 image from smartos repos. the kvm zone is created successfully but without the /etc/resolv.conf file. thank you paolo

@@ -1,0 +1,1 @@
+ URL : "https://github.com/zersh01/chocolatey-k-litecodecpackfull/issues/1" TITLE : reboot on update BODY : this is the second time i experienced a reboot when updating k-litecodecpackfull . please add /norestart to the arguments. thanks.

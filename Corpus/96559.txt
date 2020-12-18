@@ -1,0 +1,1 @@
+ URL : "https://github.com/lydell/json-stringify-pretty-compact/issues/7" TITLE : extending to hjson support BODY : would it be possible to extend this library to also support hjson? again thanks for a great lib! p.s. cross-referencing https://github.com/hjson/hjson-js/issues/26

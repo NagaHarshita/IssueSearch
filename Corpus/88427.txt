@@ -1,0 +1,1 @@
+ URL : "https://github.com/IronLanguages/main/issues/1616" TITLE : nltk import in ironpython BODY : hi, could anybody help me in importing nltk in ironpython. i need help in below items. downloading nltk package for ironpython import nltk package in ironpython project access ironpython package through c

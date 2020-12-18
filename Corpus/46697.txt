@@ -1,0 +1,1 @@
+ URL : "https://github.com/coding-blocks/dev-submit/issues/13" TITLE : modularize db actions BODY : eg. teacher actions should be like db.actions.teacher.add db.actions.teacher.delete

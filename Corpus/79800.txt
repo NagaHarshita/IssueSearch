@@ -1,0 +1,1 @@
+ URL : "https://github.com/NCAR/VAPOR/issues/8" TITLE : structuredgrid seg fault BODY : when using the statistics tool in the branch mergempas, structuredgrid seg faults when the following coordinates are applied to variable p: min xyz: -50000 2.5e+06 10000 max xyz: 0 3e+06 20262.5

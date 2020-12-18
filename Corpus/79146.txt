@@ -1,0 +1,1 @@
+ URL : "https://github.com/pili-engineering/PLDroidPlayer/issues/480" TITLE : rtsp 能播放 ，卡顿 BODY : 连接上摄像头后 ， rtsp://xxxx 能显示 ，但是转动摄像头时会有一些 卡顿 丢帧的现象 。 请问如何解决 。 测试手机是 魅蓝note2 . 版本是v1.5.0

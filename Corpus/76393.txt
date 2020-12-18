@@ -1,0 +1,1 @@
+ URL : "https://github.com/KOBA789/rust-wasm/issues/1" TITLE : javascript array example BODY : do you know how to convert vec<i32> in rust to javascript array?

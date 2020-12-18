@@ -1,0 +1,1 @@
+ URL : "https://github.com/101companies/101rails/issues/215" TITLE : search misses something BODY : i added similarto::section:foobar to a page. then i tried to search section:foobar. i would not find the page. if i do the same without any prefix here: 'section' , then search succeeds.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Vygovsky/homework/issues/15" TITLE : lesson 12. task substring BODY : 1. неотформатировано. 2. строки рекомендуется объявлять без использования new. string s1=new string опубликовано ; перепишите как string s1= опубликовано ; 3. return s.substring start, end ; лишние скобки. можно их убрать - return s.substring start, end ;

@@ -1,0 +1,1 @@
+ URL : "https://github.com/atlassian/smith/issues/87" TITLE : handle server-set fields BODY : in addition to handling defaults 86 , we should handle server-set fields.

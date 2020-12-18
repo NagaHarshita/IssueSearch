@@ -1,0 +1,1 @@
+ URL : "https://github.com/tomaszzmuda/Xabe.FFmpeg/issues/41" TITLE : error in conversionqueue BODY : when there is an error during the conversion of any file in the conversion queue, the _number field is not incremented, so the reference to the exact number of files that have been processed in the conversion queue is lost.

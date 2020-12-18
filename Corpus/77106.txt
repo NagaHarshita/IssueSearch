@@ -1,0 +1,1 @@
+ URL : "https://github.com/reactstrap/reactstrap/issues/347" TITLE : modal props doesn't work BODY : wrapclassname: proptypes.string, modalclassname: proptypes.string, backdropclassname: proptypes.string, contentclassname: proptypes.string, these props doesn't work on modal.

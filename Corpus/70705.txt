@@ -1,0 +1,1 @@
+ URL : "https://github.com/jamesliu668/Sprite-Sheet-Decomposer/issues/1" TITLE : wrong number of sprites BODY : i have a 400x400 image and i choose 80x80, i should get 25 images but i get 25 images 80x80 plus 24 images more 64x64. i think this is not intentional.

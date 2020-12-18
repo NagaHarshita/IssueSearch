@@ -1,0 +1,1 @@
+ URL : "https://github.com/spatialillusions/milsymbol/issues/116" TITLE : add getstyle method BODY : add a method for getting the options that has with the symbol style.

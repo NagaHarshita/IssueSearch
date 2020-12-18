@@ -1,0 +1,1 @@
+ URL : "https://github.com/JunoLab/atom-ink/issues/144" TITLE : improve package load time BODY : ink is sitting at ~200ms for me, which seems pretty excessive considering that atom-ide-ui for example only takes ~50ms .

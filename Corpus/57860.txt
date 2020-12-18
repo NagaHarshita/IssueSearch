@@ -1,0 +1,1 @@
+ URL : "https://github.com/robertely/gwatch/issues/5" TITLE : render from the right. BODY : origin as right most point. basically flip x. i don't think this is trivial but it would fix a lot of problems.

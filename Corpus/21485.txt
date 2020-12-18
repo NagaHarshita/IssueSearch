@@ -1,0 +1,1 @@
+ URL : "https://github.com/zalando-incubator/solution-center-feedback/issues/76" TITLE : fix bug in readme. BODY : usage include the script in your project: <script src= /node_modules/solution-center-feedback/dist/solutioncenter.feedback.js ></script> fix script src to: <script src= /node_modules/solution-center-feedback/dist/solutioncenter.feedback.min.js ></script>

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mitsuhiko/redis-rs/issues/115" TITLE : no bindings for lset BODY : there don’t seem to be command bindings for lset https://redis.io/commands/lset . you have to write: cmd lset .arg key .arg index .arg value is there any reason for this omission?

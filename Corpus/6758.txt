@@ -1,0 +1,1 @@
+ URL : "https://github.com/WorldBrain/Notifications/issues/4" TITLE : build react app BODY : +create client/src/app.jsx +import react & reactdom +render reactdom +create config file for webpack to run the server: + npm start + npm run bundle check localhost:3000 to ensure server up and running

@@ -1,0 +1,1 @@
+ URL : "https://github.com/t-ari/diff-pane/issues/2" TITLE : 311 line cutoff. BODY : great tool, however found the following two issues: 1. the popup window is slightly shifted to the left, can't see line numbers of the left file. 2. only compares 311 lines and then there is no way to continue to the rest of the files. my files have about 6 thousand plus lines. thanks

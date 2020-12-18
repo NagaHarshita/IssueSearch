@@ -1,0 +1,1 @@
+ URL : "https://github.com/frankjoke/ioBroker.broadlink2/issues/5" TITLE : add rf codes BODY : at ther time i can only add ir cods to iobroker. it would be cool to add also rf codes to it. here is an example how to do this. https://github.com/lprhodes/homebridge-broadlink-rm/blob/master/helpers/learnrfdata.js

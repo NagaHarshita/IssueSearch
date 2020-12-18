@@ -1,0 +1,1 @@
+ URL : "https://github.com/aspnet/Logging/issues/618" TITLE : default log levels BODY : by default i'm seeing dbug logs, which is really verbose. i think we should have a less verbose filter by default, something that could be used in production without changes.

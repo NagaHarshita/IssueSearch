@@ -1,0 +1,1 @@
+ URL : "https://github.com/lingochamp/FileDownloader/issues/473" TITLE : connection reset by peer BODY : 使用filedownloadqueueset批量下载文件时，某个task下载到一定进度，比如80%然后就下载失败了，显示以下错误，是什么问题呀 javax.net.ssl.sslexception: read error: ssl=0x9b94e000: i/o error during system call, connection reset by peer

@@ -1,0 +1,1 @@
+ URL : "https://github.com/giantswarm/cert-operator/issues/49" TITLE : reconfigure resyncperiod BODY : we reverted this value in 48, but having a timeout actually makes sense. the coreos people say they usually set it to 10 minutes, fwiw.

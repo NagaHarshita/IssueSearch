@@ -1,0 +1,1 @@
+ URL : "https://github.com/Mister4Eyes/LetsRepaint/issues/4" TITLE : add texture viewer. BODY : we need a way to view the textures so that's what this enhancement is all about. requirements: - a list or grid that displays the textures - a main screen for the textures

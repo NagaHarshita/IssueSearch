@@ -1,0 +1,1 @@
+ URL : "https://github.com/Mirv/basicb/issues/51" TITLE : dash greeting helper BODY : - greet user - use m'lord/lady based on gender - have to have part hold gender in model - clean up date format, probably by getting gem to count how long it's been since last login

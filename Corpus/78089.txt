@@ -1,0 +1,1 @@
+ URL : "https://github.com/tpilien/mangbot/issues/7" TITLE : permissions for commands BODY : add permissions for commands. currently, users can run anything.

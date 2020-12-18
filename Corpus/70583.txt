@@ -1,0 +1,1 @@
+ URL : "https://github.com/pluginsGLPI/itop/issues/1" TITLE : wildcard dans les types BODY : en visionnant la conf, je me suis dit en voyant le cas des imprimantes que plutot que d'avoir une ligne pour chacun des statuts d'imprimantes, il serait surement pertinent de dire que pour une ci dans itop je veux l'itemtype de glpi avec tous les statuts indifférenciés. from orthagh

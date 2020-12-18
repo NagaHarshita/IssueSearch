@@ -1,0 +1,1 @@
+ URL : "https://github.com/sculove/angular-visible/issues/5" TITLE : rename dist min file. BODY : according conventions rename angular-visible_min.js file to angular-visible.min.js

@@ -1,0 +1,1 @@
+ URL : "https://github.com/EranOV23/react-blog/issues/7" TITLE : side menu filters dynamic BODY : at the moment the side menu filters are hard coded in the redux store. however, it should be dynamic, meaning the filters tags should appares according to the data posts in the blog

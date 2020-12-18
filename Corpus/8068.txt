@@ -1,0 +1,1 @@
+ URL : "https://github.com/IsraelHikingMap/Site/issues/343" TITLE : migrate to nlog BODY : seems serilog is very limited and doesn't support our needs.

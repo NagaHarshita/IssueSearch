@@ -1,0 +1,1 @@
+ URL : "https://github.com/snowplow/JavaNSQClient/issues/11" TITLE : move to gradle or maven BODY : no point in using sbt since it's java-only and it causes weird artifact names such as java-nsq-client_2.10 .

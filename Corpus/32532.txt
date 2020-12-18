@@ -1,0 +1,1 @@
+ URL : "https://github.com/PowerlineApp/powerline-mobile/issues/581" TITLE : ux: group join flow BODY : when joining a group, the screen that shows permissions should be combined with the passcode entry field as well as the group-join-questions and be able to support a future welcome video / message. related to 580

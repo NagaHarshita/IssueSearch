@@ -1,0 +1,1 @@
+ URL : "https://github.com/OrchardCMS/Orchard/issues/7775" TITLE : record specify table name BODY : my module name is regeister, irepository<userpartrecord> repository _repository.table -- this is error, could not execute query table 'regeister_userpartrecord' don't exist, how to specify record to db table name

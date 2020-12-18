@@ -1,0 +1,1 @@
+ URL : "https://github.com/Edurate/edurate/issues/58" TITLE : fix ctrl-c problem BODY : currently, edurate requires the user to press ctrl-c to progress to the next lda analysis. it would be more intuitive for all the visualizations to pop up at once.

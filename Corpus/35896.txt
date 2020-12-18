@@ -1,0 +1,1 @@
+ URL : "https://github.com/JavierPDev/Meangular/issues/26" TITLE : fix admin auth guard BODY : only admin should be able to access admin urls.

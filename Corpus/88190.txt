@@ -1,0 +1,1 @@
+ URL : "https://github.com/inveniosoftware-contrib/invenio-workflows/issues/37" TITLE : move to google docstrings BODY : add the sphinx plugin for it see https://github.com/inveniosoftware-contrib/json-merger/tree/master/json_merger for an example check if it can validate that the params defined in the docstring matches the params in the function, that would be great.

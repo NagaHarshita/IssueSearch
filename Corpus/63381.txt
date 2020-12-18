@@ -1,0 +1,1 @@
+ URL : "https://github.com/concourse/concourse-pipeline-resource/issues/17" TITLE : doesn't work with 3.3.0 BODY : the check gets the following error: json: unsupported type: map interface {} interface {} cc @chendrix the necessary changes to the codebase to support the periodic breaking changes in the api might be good justification to prioritize a switch to fly

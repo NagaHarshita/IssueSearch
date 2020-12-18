@@ -1,0 +1,1 @@
+ URL : "https://github.com/hemtjanst/tradfri-mqtt/issues/3" TITLE : add arm support BODY : would it possible to add an arm image to the docker hub so we can run it on for example a raspberry pi?

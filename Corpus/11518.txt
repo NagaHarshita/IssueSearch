@@ -1,0 +1,1 @@
+ URL : "https://github.com/LittoCats/react-native-path/issues/1" TITLE : how to use this? BODY : hi, can you explain how to use this? i'm looking for something that would help me with relative import path in my react native app. import somestuff from '../../../mystuff' to import somestuff from 'mystuff' is this possible with this library?

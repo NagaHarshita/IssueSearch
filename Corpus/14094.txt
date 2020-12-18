@@ -1,0 +1,1 @@
+ URL : "https://github.com/nreese/enhanced_tilemap/issues/81" TITLE : add circle filter BODY : add circle as a drawable control which essentially applies the geo_distance filter for the drawn circle.

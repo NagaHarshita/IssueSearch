@@ -1,0 +1,1 @@
+ URL : "https://github.com/loveorigami/lo-core/issues/12" TITLE : dropdown add via modal BODY : https://github.com/loveorigami/lo-core/blob/master/src/inputs/dropdowninput.php l81 action сейчас не возвращает id', только статус переделать на новые возможности modal ajax

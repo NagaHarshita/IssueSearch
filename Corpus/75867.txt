@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla/network-pulse-api/issues/263" TITLE : implement api versioning BODY : using the functionality built into drf http://www.django-rest-framework.org/api-guide/versioning/ , let's set it up so that when we need to make a breaking change to pulse's api, we can do it easily.

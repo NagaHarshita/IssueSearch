@@ -1,0 +1,1 @@
+ URL : "https://github.com/karel-brinda/prophyle/issues/199" TITLE : prophyle with mashtree BODY : it could be interesting to combine prophyle with mashtree. given a set of reference genomes, we would first compute a tree using mashtree, convert it to prophyle nhx format and build a standard prophyle index.

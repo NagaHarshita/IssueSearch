@@ -1,0 +1,1 @@
+ URL : "https://github.com/XeroAPI/xero-node/issues/97" TITLE : add contact api response BODY : hello, i wrote addresses according to the url you provided me. https://github.com/xeroapi/xero-node/blob/master/test/core/contacts_tests.js but i am getting error like 'error:typeerror: converting circular structure to json'. please provide me the solution.

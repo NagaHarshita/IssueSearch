@@ -1,0 +1,1 @@
+ URL : "https://github.com/deeheber/hapi-server/issues/5" TITLE : seperate out handlers BODY : i'd like to have a separate handler folder in order to better separate out the business logic from the router logic.

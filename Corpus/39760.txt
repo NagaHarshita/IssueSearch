@@ -1,0 +1,1 @@
+ URL : "https://github.com/ProgElec/TextGame-Cpp/issues/3" TITLE : static const strings BODY : there is a bunch of static constant strings i stop of headers files : they have absolutely no reason to exist. they are not needed here as most of the data they hold should be part of the class or passed at construction time as constructor argument

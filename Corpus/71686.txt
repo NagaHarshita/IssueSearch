@@ -1,0 +1,1 @@
+ URL : "https://github.com/antoyo/titanium/issues/11" TITLE : add travis for the tests BODY : and fix the tests if they don't work anymore.

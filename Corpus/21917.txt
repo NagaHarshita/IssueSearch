@@ -1,0 +1,1 @@
+ URL : "https://github.com/I-Dream-in-Code/kde-arch-update-plasmoid/issues/1" TITLE : how about yakauake BODY : how about ability to use yaourt for update check? just config with custom command would be enough. if you're wondering why i see it useful: yaourt allows to check also aur packages updates and perform upgrades on them easily.

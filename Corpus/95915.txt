@@ -1,0 +1,1 @@
+ URL : "https://github.com/ETHproductions/japt/issues/26" TITLE : does not work under nodejs BODY : this commit https://github.com/ethproductions/japt/commit/4cc9dee8593e8c1cbc86ca727ce1289b70172f8b broke nodejs. window object is not available under nodejs. k should be added only if isnode is falsy.

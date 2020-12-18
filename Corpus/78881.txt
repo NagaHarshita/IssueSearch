@@ -1,0 +1,1 @@
+ URL : "https://github.com/tinuola/jammming/issues/5" TITLE : remove unnecessary files BODY : subtlety for errors - remove unnecessary files. you have an app.js and app.css in your src directory but also in your src/app folder. you only need one of them and it could be confusing for anyone downloading your project which one is which.

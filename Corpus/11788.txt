@@ -1,0 +1,1 @@
+ URL : "https://github.com/jenstornell/kirby-plugins/issues/497" TITLE : kirby simple api BODY : github https://github.com/mec/kirby-simple-api > an experiment in 'de-coupled' or 'headless' kirby. the idea is to provide an api for content to consume with a frontend framework react? whilst using the kirby backend and panel to add and update content.

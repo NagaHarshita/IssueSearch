@@ -1,0 +1,1 @@
+ URL : "https://github.com/adaptlearning/adapt_framework/issues/1750" TITLE : framework version conflict BODY : we have the framework release of v2.2.0 but in the repo's package.json it is still v2.1.3 .

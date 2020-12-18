@@ -1,0 +1,1 @@
+ URL : "https://github.com/zdennis/activerecord-import/issues/391" TITLE : id is null BODY : the bulk insert seemed to be successful according to the log. however, when i checked the database, the data wasn't inserted. what might be the cause of this? book.import books <struct activerecord::import::result failed_instances= , num_inserts=2, ids= 1, 2 >

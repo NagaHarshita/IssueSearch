@@ -1,0 +1,1 @@
+ URL : "https://github.com/ajwhite/render-if/issues/9" TITLE : for what this module? BODY : i can make it better: {renderif 1 + 2 === 3 <span>the universe is working</span> } // to: { 1 + 2 === 3 && <span>the universe is working</span> } or i dont understand?

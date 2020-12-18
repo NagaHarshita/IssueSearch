@@ -1,0 +1,1 @@
+ URL : "https://github.com/tidyverse/purrr/issues/389" TITLE : add slowly adverb BODY : i recently used safely to wrap gmailr::send_message , which i then used with pmap to iterate over rows = recipients. i ran into sporadic rate limit problems. it would be nice to also have a slowly adverb for adding a little bit of delay to each call.

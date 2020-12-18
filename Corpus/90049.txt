@@ -1,0 +1,1 @@
+ URL : "https://github.com/jorisroovers/pymarkdownlint/issues/3" TITLE : rfe: reference validation BODY : if i have in my document: this is a reference or: this is a reference foo then markdownlint should raise an error if the corresponding reference is not defined in the document.

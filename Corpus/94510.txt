@@ -1,0 +1,1 @@
+ URL : "https://github.com/vuejs-templates/webpack/issues/612" TITLE : cannot use less for styles BODY : i have installed less and less-loader , and added lang= less to my style tag, but when i run npm run dev it reported an error : can't resolve 'less-loader' i am using the latest version of vue-cli

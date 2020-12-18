@@ -1,0 +1,1 @@
+ URL : "https://github.com/xsanisty/SlimStarter/issues/27" TITLE : does not do anything BODY : clicking add group, user profile or settings does not do anything. nothing in apache error log or in javascript console. user add / edit works fine.

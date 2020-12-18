@@ -1,0 +1,1 @@
+ URL : "https://github.com/meanbee/magento-estimateddelivery/issues/3" TITLE : add composer.json file? BODY : to allow for easier installation of the extension directly from github via composer, would it be possible to add composer.json to the root? i've already created a pull request with a suitable composer.json. cheers, craig

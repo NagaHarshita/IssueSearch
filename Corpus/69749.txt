@@ -1,0 +1,1 @@
+ URL : "https://github.com/dachcom-digital/pimcore-formbuilder/issues/37" TITLE : trim localisation value BODY : trim localisation value before saving in /src/website/var/formbuilder/lang/

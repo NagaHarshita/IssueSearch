@@ -1,0 +1,20 @@
+ URL : "https://github.com/ritaryan/Ram-Dass-Android/issues/1" TITLE : galaxy note - images BODY : all articles have same image reporter
+rita ryan app version under test
+name from apk: ram dass
+version from apk: 1.0
+version code: 1
+your version name: 1.0
+package: org.ramdass.beherenow
+uploaded: july 05, 2016 — 11:30 pm
+testobject id: 2 device
+name: samsung galaxy note 10.1 n8000
+android version: 4.4.4
+api level: 19
+resolution: 800 x 1280 mdpi screen size: 10.1 cpu: arm | dual core | 1000 mhz
+ram: 2048 mb
+internal storage: 16384 mb
+model number: n8000
+detailed specification: http://www.gsmarena.com/results.php3?sname=n8000
+testobject id: samsung_galaxy_note_10.1_n8000_real
+testobject manual testing: https://app.testobject.com/ /ritaryan/ram-dass/manual/viewer?device=samsung_galaxy_note_10.1_n8000_real issue on testobject
+https://app.testobject.com/ /ritaryan/ram-dass/issues/1

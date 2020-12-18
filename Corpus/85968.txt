@@ -1,0 +1,1 @@
+ URL : "https://github.com/bitcoinjs/bitcoinjs-lib/issues/829" TITLE : generate uncompressed key BODY : how can i generate uncompressed address? this method outputs compressed version only: keypair.getaddress thanks!

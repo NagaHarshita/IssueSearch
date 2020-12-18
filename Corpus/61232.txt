@@ -1,0 +1,1 @@
+ URL : "https://github.com/FMCorz/AclManager/issues/27" TITLE : allow guest page action BODY : since the $this->auth->allow was not used, so how to allow some action for not logged user like register, forget_password.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/unicorn-engine/unicorn/issues/756" TITLE : remove all calls to exit BODY : calling exit is a very bad practice and even more if used in libraries. the library should provide a way to recover from errors instead of killing the whole host application. $ git grep 'exit . ;' qemu |wc -l 11

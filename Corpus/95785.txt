@@ -1,0 +1,1 @@
+ URL : "https://github.com/JULIELab/jcore-base/issues/28" TITLE : diverging folder structure BODY : the folder structure in jcore-base/jcore-opennlp-token-ae/ does not conform to most of the other components. also, the readme file needs editing ;-

@@ -1,0 +1,1 @@
+ URL : "https://github.com/rightfold/sqltopurs/issues/1" TITLE : add default type mappings BODY : for convenience, sqltopurs should use default type mappings for common types.

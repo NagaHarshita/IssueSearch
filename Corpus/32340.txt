@@ -1,0 +1,1 @@
+ URL : "https://github.com/gpertea/gffcompare/issues/15" TITLE : update release tags BODY : we're installing gffcompare on our cluster and it would help us to quickly find and update to the latest stable release if you could keep the tags up-to-date. the latest tag says 0.9.8, but the version string in gffcompare.cpp says 0.9.9d. many thanks for your consideration

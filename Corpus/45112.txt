@@ -1,0 +1,1 @@
+ URL : "https://github.com/angular/material2/issues/2862" TITLE : hammerjs import error BODY : bug, feature request, or proposal: bug what is the expected behavior? you need to 'import hammers' at @angular2-material/core/gestures/mdgestureconfig.d.ts what is the current behavior? error for import.

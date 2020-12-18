@@ -1,0 +1,1 @@
+ URL : "https://github.com/jonhoo/hdrsample/issues/64" TITLE : pure rust compression BODY : flate2 is fast, but it would be nice to have a default pure rust compression library so we wouldn't need to have the serialization feature stuff. presumably this would go along with allowing the user to specify which compression option to use, perhaps via generifying on the compressor.

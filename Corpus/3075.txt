@@ -1,0 +1,1 @@
+ URL : "https://github.com/NatLibFi/bib-lod-ui/issues/8" TITLE : i18n and l10n BODY : currently only english is supported, should use flask-babel see https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xiv-i18n-and-l10n urls should be .en.html or .html.en plain .html should redirect based on browser language

@@ -1,0 +1,1 @@
+ URL : "https://github.com/cvson/pmcc1picoh/issues/12" TITLE : wall scaling problem BODY : use app src/generatebasicplotbysamplev532.cc basetree::makebasichistobysample wall predicted w/ preselection in neut532 differ from the previous one

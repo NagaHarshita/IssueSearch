@@ -1,0 +1,1 @@
+ URL : "https://github.com/lk-geimfari/mimesis/issues/300" TITLE : optimize tests timings BODY : right now tests take more than 7 minutes. https://github.com/lk-geimfari/mimesis/issues/263 issuecomment-347634658 what do i suggest: 1. profiling 2. using several threads with pytest-xdist 3. optimisation

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Theseus/theseus/issues/83" TITLE : create logging functions BODY : like log_xxxx info, warning, error... . they should all print the log level string in the log message and, maybe the time the easiest thing would be to count the number of milliseconds with the systick .

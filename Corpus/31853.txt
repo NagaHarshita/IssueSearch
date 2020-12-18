@@ -1,0 +1,1 @@
+ URL : "https://github.com/kayceesrk/ezirmin/issues/4" TITLE : sync.push is broken BODY : with sync.push the remote end terminates the connection early. this has to do with bug in the ocaml-git smart protocol for upload-pack. see: https://github.com/mirage/irmin/issues/379 and https://github.com/mirage/ocaml-git/issues/139.

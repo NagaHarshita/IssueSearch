@@ -1,0 +1,1 @@
+ URL : "https://github.com/mattphillips/jest-extended/issues/38" TITLE : new matcher: .tobeboolean BODY : feature request .tobeboolean use .tobeboolean when checking if a value is a boolean . js test 'passes when value is a boolean', => { expect false .tobeboolean ; expect true .tobeboolean ; expect 1 === 1 .tobeboolean ; expect 1 .not.tobeboolean ; } ;

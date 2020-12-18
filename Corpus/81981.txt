@@ -1,0 +1,1 @@
+ URL : "https://github.com/atnos-org/origami/issues/5" TITLE : add aggregator typelclass BODY : ref https://github.com/typelevel/cats/issues/1360 i think having an aggregator somewhere would be handy, and origami looks a good home. time permitting, i would be happy to help out here.

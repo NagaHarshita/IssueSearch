@@ -1,0 +1,1 @@
+ URL : "https://github.com/learninghadoop2/book-examples/issues/4" TITLE : chapter 1 - stream.py BODY : line 25 and 27 - the print command should have braces. without that the code gives error.

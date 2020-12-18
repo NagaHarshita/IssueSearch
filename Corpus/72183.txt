@@ -1,0 +1,1 @@
+ URL : "https://github.com/Bananapen/Adv-Game-Design/issues/6" TITLE : basic shooting mechanism BODY : allow the player the shoot an arrow with a certain amount of force in the direction of the mouse cursor in world space.

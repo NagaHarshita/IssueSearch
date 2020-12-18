@@ -1,0 +1,1 @@
+ URL : "https://github.com/messier16/HttpLogger/issues/1" TITLE : better controlling the log BODY : thanks for sharing your project and it can really help to debug http requests. can i suggest some improvements related in better controlling the log pull request ? like request.tostring make the useragent header log multiples line and limit the body length body?

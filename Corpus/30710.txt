@@ -1,0 +1,1 @@
+ URL : "https://github.com/ChileanVirtualObservatory/pycupid/issues/4" TITLE : python2 config dict BODY : when passing a dict as config parameters i get file pycupid/pycupid.pyx , line 164, in pycupid.pycupid.fellwalker pycupid/pycupid.c:4013 file pycupid/pycupid.pyx , line 173, in pycupid.pycupid._findclumps pycupid/pycupid.c:4363 typeerror: str takes at most 1 argument 2 given

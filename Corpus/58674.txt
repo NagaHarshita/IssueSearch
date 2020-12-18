@@ -1,0 +1,1 @@
+ URL : "https://github.com/ex-aws/ex_aws/issues/506" TITLE : start tagging releases BODY : would it be possible to resume git tag -a 'ing the hex releases? or posting the release notes on github? at the moment it's a bit difficult to understand what was released, and when. for example, 1.1.5 is on hex, but there no entry in changelog.md and no tag.

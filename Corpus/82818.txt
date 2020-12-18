@@ -1,0 +1,1 @@
+ URL : "https://github.com/nfephp-org/sped-gnre/issues/33" TITLE : atualização para o php7 BODY : vi que logo logo iremos ter o php 7.2 e com isso me veio a dúvida de migrar essa api para o formato do php7, atualizar com type hints e algumas outras funcionalidades. gostaria de saber a opinião de quem usa a api. seria esse o próximo passo?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/freeCodeCamp/guides/issues/183" TITLE : refactor css modules BODY : currently, css modules is causing a build error. see gatsbyjs/gatsby 1659 if a fix is not found for v1 , we will need to refactor css modules out of the guide.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Husterknupp/jubilant-todo-tribble/issues/10" TITLE : make component selectable BODY : we do not really want to use one standard component in all jira issues. thats why we want to be able to select a component that already exists or create a new component. - implement a frontend component that enables component selection - enable component creation

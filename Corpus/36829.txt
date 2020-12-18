@@ -1,0 +1,1 @@
+ URL : "https://github.com/Caleydo/ordino/issues/96" TITLE : improve welcome page BODY : we are limiting the space in the welcome page more than we need. especially with more species and entity types the space is limited. instead of a popup dialog, a base concept as in taggle could be useful

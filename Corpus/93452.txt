@@ -1,0 +1,1 @@
+ URL : "https://github.com/shortbloke/intuition/issues/8" TITLE : add tests for the examples BODY : main code has tests with code coverage. should expand to also cover examples.

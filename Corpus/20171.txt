@@ -1,0 +1,1 @@
+ URL : "https://github.com/nyl-auster/yineo-nuxt-wordpress/issues/9" TITLE : bug de redirection BODY : quand google essaie d'accéder à https://yineofr.github.io/2017/06/10/la-portee-des-variables-en-ecma-script-6/ il tombe sur une 404 puisqu'aucun fichier statique n'existe à cette adresse

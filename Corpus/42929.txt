@@ -1,0 +1,1 @@
+ URL : "https://github.com/maxisam/ngx-clipboard/issues/59" TITLE : cbcontent not working BODY : the cbcontent does not work in angular 4, i have tried the other option but i need to defien an inputtarget but since i am displaying a list of urls dynamically i cant create inputtargets dynamically the cbcontent grabs the value, but doesnt put it in the clipboard

@@ -1,0 +1,1 @@
+ URL : "https://github.com/IRNAS/koruza-compute-module/issues/29" TITLE : add led disable transistor BODY : add transistor such that all leds inside can be disabled, except ethernet port diodes. this prevents from extra light exitign the unit when not needed.

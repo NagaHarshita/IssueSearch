@@ -1,0 +1,1 @@
+ URL : "https://github.com/ellxc/piperbot/issues/93" TITLE : wikipedia title plugin BODY : the wikipedia title plugin appears to have broken. example output: 14:15 | <graymalkin> | https://en.wikipedia.org/wiki/sheba_ cat_food 14:15 | <marvin31> | wikipedia: .

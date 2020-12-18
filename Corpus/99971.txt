@@ -1,0 +1,1 @@
+ URL : "https://github.com/Servoy/svySearch/issues/15" TITLE : not working for mem tables BODY : this is due to issue with: https://support.servoy.com/browse/svy-11055 probably can do a work-around before it is fixed

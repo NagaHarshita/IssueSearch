@@ -1,0 +1,1 @@
+ URL : "https://github.com/seratch/AWScala/issues/153" TITLE : s3 list pagination BODY : i was looking through the documentation of this library and couldn't help but notice that there is no pagination on the s3 list call. am i correct? i need this for a project of mine and would love to use this library instead of the aws java sdk. thanks for looking into this

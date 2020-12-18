@@ -1,0 +1,1 @@
+ URL : "https://github.com/mvdoc/psiturk-docker/issues/6" TITLE : add image to dockerhub BODY : is it possible to publish this to dockerhub to make deployment easier? or is that not supported because of docker-compose?

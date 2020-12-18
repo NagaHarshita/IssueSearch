@@ -1,0 +1,1 @@
+ URL : "https://github.com/bugvm/bugvm/issues/144" TITLE : review gradle plugin BODY : it's about time to review the way current plugin works. it would be better if bugvm-dist is not used from maven, unpack, etc. i think plugin should invoke compiler rather directly. also good time to add javacpp compiler while i am at it.

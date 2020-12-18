@@ -1,0 +1,1 @@
+ URL : "https://github.com/legomushroom/mojs/issues/131" TITLE : am i using yoyo correctly? BODY : i can’t seem to get yoyo: true functioning correctly in the latest mojs version. example: https://codepen.io/dangodev/pen/jngoyl. am i missing something, or simply misunderstanding this option? thanks in advance.

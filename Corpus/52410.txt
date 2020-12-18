@@ -1,0 +1,1 @@
+ URL : "https://github.com/livingstoneonline/LEAP-MT/issues/25" TITLE : clickable page numbers BODY : the clickable page numbers on the online transcriptions are not currently working. when clicked, they should take the user to the correct manuscript image, but they aren't currently doing so. you mentioned this might be to do with an error in the tei or xsl

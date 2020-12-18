@@ -1,0 +1,1 @@
+ URL : "https://github.com/m3talstorm/foe-bot/issues/1" TITLE : does not work on windows. BODY : $ python main.py traceback most recent call last : file main.py , line 12, in <module> from models.account import account file c:\src\misc\foe-bot\foe\models\account.py , line 128 ^ syntaxerror: eof while scanning triple-quoted string literal

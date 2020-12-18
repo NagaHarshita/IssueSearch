@@ -1,0 +1,1 @@
+ URL : "https://github.com/effektif/admin-docs/issues/30" TITLE : fix all sphinx warnings BODY : to ensure there are no markup issues in the docs, we strive to have a warningless build for the swa and pm user docs a test fails when there's a sphinx warning .

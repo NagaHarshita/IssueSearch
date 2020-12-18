@@ -1,0 +1,1 @@
+ URL : "https://github.com/google/findutils/issues/15" TITLE : codehealth: tidy up errors BODY : we currently just return errors created from arbitrary strings. at some point we should switch to a proper find::error enum

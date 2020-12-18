@@ -1,0 +1,1 @@
+ URL : "https://github.com/cds-hooks/docs/issues/86" TITLE : decisions need an update BODY : decisions should include an 'update' array to match the suggestion action types. currently only create and delete are provided.

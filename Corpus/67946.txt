@@ -1,0 +1,1 @@
+ URL : "https://github.com/lasso-js/lasso-less/issues/27" TITLE : read broken on lasso v1 BODY : error: typeerror: invalid non-string/buffer chunk use --force to continue.

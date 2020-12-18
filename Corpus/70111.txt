@@ -1,0 +1,1 @@
+ URL : "https://github.com/brushdown/string_foundation.rb/issues/27" TITLE : upgrade circleci to 2.0 BODY : use circleci 2.0 instead of legacy circleci, so change settings.

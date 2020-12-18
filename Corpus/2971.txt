@@ -1,0 +1,1 @@
+ URL : "https://github.com/GoogleCloudPlatform/google-cloud-eclipse/issues/1194" TITLE : gcp help book BODY : integrate our help into the eclipse help system as described in chapter 10 of mastering eclipse plugins: ! image https://cloud.githubusercontent.com/assets/1005544/21745357/008b41aa-d4f8-11e6-9d1c-9d5bc24e4624.png

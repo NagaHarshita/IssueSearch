@@ -1,0 +1,1 @@
+ URL : "https://github.com/baldurk/renderdoc/issues/546" TITLE : device memory view BODY : is it possible to implement a memory viewer for the new api's. also showing overlapping regions for bound buffers and textures would be great. thanks.

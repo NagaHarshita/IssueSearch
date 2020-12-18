@@ -1,0 +1,1 @@
+ URL : "https://github.com/B-A-D/Mr-Adlister/issues/74" TITLE : create ad menu error BODY : on creating an ad if you click in the menu create ad takes you to an invalid url: http://localhost:8080/ads/ads/create

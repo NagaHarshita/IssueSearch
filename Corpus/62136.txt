@@ -1,0 +1,1 @@
+ URL : "https://github.com/mgechev/aspect.js/issues/36" TITLE : cant find @afterresolve BODY : dealing with async operations its possible as you said here http://blog.mgechev.com/2015/07/29/aspect-oriented-programming-javascript-aop-js/ but i can't find this pointcut in the whole project. :

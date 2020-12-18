@@ -1,0 +1,1 @@
+ URL : "https://github.com/Steem-FOSSbot/steem-fossbot-voter/issues/1" TITLE : will vote for own posts BODY : the voter bot does not exclude voting on the user's own posts. own-votes should either be excluded, or an option to exclude them be added

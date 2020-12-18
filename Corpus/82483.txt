@@ -1,0 +1,1 @@
+ URL : "https://github.com/galaxyproject/training-material/issues/491" TITLE : add yamllint to travis ci BODY : it would be wise to have yamllint running on travis ci to avoid issues.

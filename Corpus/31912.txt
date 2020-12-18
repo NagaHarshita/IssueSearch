@@ -1,0 +1,1 @@
+ URL : "https://github.com/WICG/mediasession/issues/199" TITLE : telephony use cases BODY : in addition to supporting media playback and access to the media action keys present on many platforms the mediasession api also seems to fit the bill for telephony use cases such as notifying the user of an incoming or active call and providing on/off hook and volume controls.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Flix01/imgui/issues/26" TITLE : consider using imgui_api BODY : i use imgui as a dll by setting imgui_api to either export or import symbols appropriately - currently the addons are unusable for me because the interface is not annotated with imgui_api accordingly.

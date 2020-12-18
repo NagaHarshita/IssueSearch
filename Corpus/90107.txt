@@ -1,0 +1,1 @@
+ URL : "https://github.com/bortek/EZ-WifiBroadcast/issues/70" TITLE : rpi3 wifi chipset support BODY : is there a way to just use the onboard wifi chipset of the rpi3 ? i see that it has support to monitor mode, so i'm not sure what would be required https://github.com/seemoo-lab/nexmon

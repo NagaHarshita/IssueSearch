@@ -1,0 +1,1 @@
+ URL : "https://github.com/kalliope-project/kalliope/issues/305" TITLE : no module named kalliope BODY : hello, i' trying to launch kalliope with kalliope start but this command returns that : ! screenshot_20170716_234759 https://user-images.githubusercontent.com/12515407/28251602-45a2b42a-6a81-11e7-8c29-4125dc93c129.png i'm on a arch distribution and i'm using python2.7. thanks.

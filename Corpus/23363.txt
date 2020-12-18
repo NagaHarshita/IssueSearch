@@ -1,0 +1,1 @@
+ URL : "https://github.com/bradduthie/gmse/issues/37" TITLE : pass whole shebang BODY : just allow an argument in gmse_apply that allows the full results of a previous gmes_apply to be passed back into it. then force an error when someone tries to pass a paras.

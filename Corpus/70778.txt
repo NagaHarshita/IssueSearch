@@ -1,0 +1,1 @@
+ URL : "https://github.com/17-1-SKKU-OSS/zeppelin/issues/7" TITLE : zeppelin installation 3 BODY : 제 노트북 환경이 windows인지라 다른 두분과는 다르게 windows 용으로 zeppelin 설치를 시도해 보았습니다. cmd에 done, zeppelin server started라고 떠서 되는줄 알았는데 localhost:8080 접속이 안되네요... 일단 zeppelin server를 작동시키는 것까지는 성공한 것 같습니다.

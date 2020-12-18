@@ -1,0 +1,1 @@
+ URL : "https://github.com/cs361fall2017/team34/issues/16" TITLE : refactor oo to follow srp BODY : will split up the game class into other classes so each class has one responsibility.

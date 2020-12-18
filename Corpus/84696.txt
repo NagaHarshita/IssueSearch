@@ -1,0 +1,1 @@
+ URL : "https://github.com/squizlabs/PHP_CodeSniffer/issues/1818" TITLE : disable report for phpcbf BODY : is there a way to disable reporting for phpcbf ? something like: phpcbf -q --report=none . ?

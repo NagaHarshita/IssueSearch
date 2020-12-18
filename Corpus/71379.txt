@@ -1,0 +1,1 @@
+ URL : "https://github.com/Skilgarriff/react-user-focus/issues/6" TITLE : add event listen: remove BODY : can we remove this? it would be nice to remove the add event listener, and just use react's virtual event handling system. - look into if we use add event listener if that uses react's virtual event handling system or if it bypasses that.

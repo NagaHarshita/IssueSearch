@@ -1,0 +1,1 @@
+ URL : "https://github.com/jfmdev/ngComboDatePicker/issues/28" TITLE : support for ngdisabled BODY : putting ng-disabled= expression on the element doesn't render the fields disabled if expression evaluates to true

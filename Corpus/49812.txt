@@ -1,0 +1,1 @@
+ URL : "https://github.com/stan-dev/math/issues/542" TITLE : update to eigen 3.3.3 BODY : summary: update to eigen 3.3.3. description: matches rcppeigen and enables some later code simplifications of blocks in place to support both 3.2.x and 3.3.x. current version: v2.15.0

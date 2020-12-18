@@ -1,0 +1,1 @@
+ URL : "https://github.com/morone/humidity-sensor/issues/1" TITLE : call watering device. BODY : - the watering device should be called when the humidity reading is lower than 30% and time of day is between 19h and 24h.

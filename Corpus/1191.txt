@@ -1,0 +1,1 @@
+ URL : "https://github.com/numworks/epsilon/issues/254" TITLE : inverse 3 ? BODY : inverse 3 return 0.333333undef.i matrix toolbox . it should return an error i think

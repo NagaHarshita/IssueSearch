@@ -1,0 +1,1 @@
+ URL : "https://github.com/googleads/googleads-php-lib/issues/405" TITLE : composer install issue.. BODY : this package requires php >=5.5.17 but your php version 5.5.9 does not satisfy that requirement. its not correct message.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jgaa/restc-cpp/issues/11" TITLE : add to vcpkg BODY : vcpkg is the package manager from microsoft for visual studio. please consider adding restc-cpp to vcpkg. its dependencies boost, openssl, rapidjson, zlib are already there. also restc-cpp is build is cmake based. it should be easy to add it.

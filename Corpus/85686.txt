@@ -1,0 +1,1 @@
+ URL : "https://github.com/FizzyGalacticus/StarkServer/issues/8" TITLE : fix different error pages BODY : currently, whenever an error occurs, the server just returns 404. there needs to be support added for other types of web errors.

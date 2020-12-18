@@ -1,0 +1,1 @@
+ URL : "https://github.com/DevOps17-Bravo/orders/issues/31" TITLE : create index.html file BODY : as a developer i need to edit index.html file so that our app can be shown on the webpage assumption : - we have our app and blumix ready acceptance criteria : given that we have the html file when visiting the app web page then the restful spi will be shown

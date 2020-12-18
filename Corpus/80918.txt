@@ -1,0 +1,1 @@
+ URL : "https://github.com/AaronFeledy/lando-scripts/issues/2" TITLE : use yaml for config file BODY : it would be nice for lando scripts to be configured similarly to lando itself. i.e. via a yaml file. research whether this is possible and worth implementing. if so, implement it.

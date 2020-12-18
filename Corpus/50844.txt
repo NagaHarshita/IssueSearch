@@ -1,0 +1,1 @@
+ URL : "https://github.com/clay/clay-cli/issues/7" TITLE : add clay touch comment BODY : add comment to https://github.com/clay/clay-cli/blob/master/lib/cmd/touch.js l65 explaining why we're debugging here --> it's because it'll attempt to use the site you specify as a url if you accidentally didn't add it to your config

@@ -1,0 +1,1 @@
+ URL : "https://github.com/avandrevitor/bookApi/issues/2" TITLE : definir rotas da api BODY : existem 3 recursos em nosso projeto, crie as principais rotas para esse recursos, exemplo: get s /books /books/isbn/{isbn} post /books put /books delete /books/isbn/{isbn}

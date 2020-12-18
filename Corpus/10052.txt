@@ -1,0 +1,1 @@
+ URL : "https://github.com/IngSoftIII2016/saga-angular-client/issues/28" TITLE : alta de comision BODY : menú -> comisiones al dar de alta con el campo nombre vacío no muestra ningún mensaje ni error ni éxito y queda el dialogo abierto.

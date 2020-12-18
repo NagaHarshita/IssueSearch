@@ -1,0 +1,1 @@
+ URL : "https://github.com/AEFeinstein/mtg-familiar/issues/306" TITLE : add search by watermark BODY : watermark data is in the database already, it just needs to be accessed. this should be done the same way as artist data, autocomplete and all

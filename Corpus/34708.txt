@@ -1,0 +1,1 @@
+ URL : "https://github.com/noelboss/featherlight/issues/283" TITLE : consider umd support BODY : it would be very nice to add umd support https://github.com/umdjs/umd/blob/master/templates/jqueryplugin.js for this plugin. currently, it depends on jquery globally defined. so, even using tools like browserify and webpack i still have to set jquery globally only for this plugin.

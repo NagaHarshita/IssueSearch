@@ -1,0 +1,2 @@
+ URL : "https://github.com/proudcity/wp-proudcity/issues/931" TITLE : auth0 sso fixes BODY : - disable auth0 sso setting
+- url https://proudcity.auth0.com/authorize?client_id=ol3ddzi2hexrlfgclkrokcq8dzerqcoy&redirect_uri=http://localhost:8080/wp-login.php&response_type=code&state=http://localhost:8080/wp-admin/edit.php?post_type=agency https://proudcity.auth0.com/authorize?client_id=ol3ddzi2hexrlfgclkrokcq8dzerqcoy&redirect_uri=https://beta.proudcity.com/wp-login.php&response_type=code&state=https://beta.proudcity.com/wp-admin/edit.php?post_type=agency

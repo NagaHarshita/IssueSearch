@@ -1,0 +1,1 @@
+ URL : "https://github.com/meandor/vs2017/issues/27" TITLE : station - reading phase BODY : read for frame size - frame size / station count seconds -> determine which station number is still free, choose that number to send -> enter sending phase

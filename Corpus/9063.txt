@@ -1,0 +1,1 @@
+ URL : "https://github.com/gajus/dindent/issues/26" TITLE : tag new release BODY : hi, we're using this amazing library to make project that uses the svg elements. pr that fixes bugs related with this king of elements has been merged months ago, but it does not exist any tag that contains the 23 pr. so, can you tag a new release that allows to use the last merged improvements? :

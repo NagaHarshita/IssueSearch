@@ -1,0 +1,1 @@
+ URL : "https://github.com/raulr/google-play-scraper/issues/8" TITLE : getlist return 429 BODY : https://play.google.com/store/apps/category/finance/collection/topselling_free?hl=en&gl=us&start=240&num=60 this url return 429。 https://play.google.com/store/apps/category/finance/collection/topselling_free?hl=en&gl=us&start=0&num=60 this url return success。

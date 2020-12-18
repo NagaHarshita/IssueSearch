@@ -1,0 +1,1 @@
+ URL : "https://github.com/PDAL/PDAL/issues/1552" TITLE : mbio driver updates BODY : - option to allow 0-360 and -180 - 180 adjustment - assign coordinate system to epsg:4326

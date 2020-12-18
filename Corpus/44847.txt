@@ -1,0 +1,1 @@
+ URL : "https://github.com/cbrautigam2/icr/issues/2" TITLE : form level validation BODY : as a user, i should be able to see if there are any errors on the form and what needs to be fixed. this should include: - missing mandatory fields. mapping isn't there - invalid entries mapping has an error submit button not active until after the form is valid.

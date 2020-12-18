@@ -1,0 +1,1 @@
+ URL : "https://github.com/sstur/react-rte/issues/184" TITLE : override editor style BODY : how can we override the editor style? for example i want to set the editor to full width, passing style props to richtexteditor component does not work at all...thx

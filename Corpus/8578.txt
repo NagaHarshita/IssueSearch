@@ -1,0 +1,1 @@
+ URL : "https://github.com/quicklisp/quicklisp-projects/issues/1344" TITLE : please add rail BODY : the rail is a library that lets users handle errors in functional style. it's based on scott s wlaschin talk and post on railway oriented programming: https://fsharpforfunandprofit.com/rop/ code repository: https://github.com/marad/cl-rail

@@ -1,0 +1,1 @@
+ URL : "https://github.com/kazuhiro4949/PagingKit/issues/9" TITLE : supporting safe area BODY : pagingmenuview doesn't support safe area. it needs to fit tabs within safeareainsets.

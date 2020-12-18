@@ -1,0 +1,1 @@
+ URL : "https://github.com/jamesreggio/apollo-cache-persist/issues/1" TITLE : background trigger for web BODY : we can use the page visibility api https://developer.mozilla.org/en-us/docs/web/api/page_visibility_api to trigger background persistence on web when the tab is minimized 🎉

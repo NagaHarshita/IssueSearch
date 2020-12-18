@@ -1,0 +1,1 @@
+ URL : "https://github.com/mctavish141/CoinsDiffusion/issues/3" TITLE : general - city.m BODY : consider moving some transferring-receiving staff to country class. it seems you're duplicating data a lot. just a recommendation, but the solution might will be much easier

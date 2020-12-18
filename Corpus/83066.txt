@@ -1,0 +1,1 @@
+ URL : "https://github.com/robertgzr/porcelain/issues/1" TITLE : branch names containing / BODY : branch names that contain a forward slash / are displayed with out the slash and whatever precedes it. output of porcelain -debug : want: {branch:user/feature-name ...} have: {branch:feature-name ...}

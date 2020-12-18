@@ -1,0 +1,1 @@
+ URL : "https://github.com/philc/vimium/issues/2401" TITLE : custom css for hud BODY : currently, it's possible to have a custom css for link hints, but not for the hud. that's where the text appears on the lower right corner when in find mode. to be more specific, it's everything under the .vimiumhudframe .

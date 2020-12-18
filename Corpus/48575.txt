@@ -1,0 +1,1 @@
+ URL : "https://github.com/tableflip/landexplorer/issues/5" TITLE : server side rendering BODY : i attempted to port this to next.js, but couldn't get mapbox-gl to bundle correctly with default webpack config that next.js provides. worth another look when next.js v2 is out.

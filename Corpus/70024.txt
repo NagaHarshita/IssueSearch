@@ -1,0 +1,1 @@
+ URL : "https://github.com/mybatis/spring-boot-starter/issues/194" TITLE : update java 8 on master BODY : mybatis spring boot 2.0.0 depend on spring boot 2.0.0 and mybatis spring 2.0.0. these artifacts are needing java 8. therefore i update java version to 1.8.

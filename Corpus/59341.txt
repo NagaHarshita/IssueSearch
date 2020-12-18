@@ -1,0 +1,1 @@
+ URL : "https://github.com/intljusticemission/react-big-calendar/issues/412" TITLE : translations on agenda BODY : hi, it seems that translations doesn't work on agenda view https://www.dropbox.com/s/7g24whmzbpfzm2f/screenshot%202017-05-23%2015.34.30.png?dl=0 when i'm switching the language selector all text changing except date , time , event .

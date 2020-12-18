@@ -1,0 +1,1 @@
+ URL : "https://github.com/mingchen/django-cas-ng/issues/121" TITLE : forbidden in 3.5.7 BODY : when landing successful, jump who 403 http://localhost:8000/login?ticket=st-1492035772-xs6hukjsbso7mjsp9tevr6xaw22w47ef&next=%2f 403 forbidden why?

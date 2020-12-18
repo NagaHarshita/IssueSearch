@@ -1,0 +1,1 @@
+ URL : "https://github.com/TryGhost/Ghost/issues/7816" TITLE : amp posts have no images BODY : amp pages have no images. i'm using android with chrome. e.g: http://www.devpy.me/your-guide-to-a-practical-linux-desktop-with-i3wm/amp/ http://www.devpy.me/your-guide-to-a-practical-linux-desktop-with-i3wm/ technical details: ghost version: 0.11

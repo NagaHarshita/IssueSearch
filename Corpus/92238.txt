@@ -1,0 +1,1 @@
+ URL : "https://github.com/goeuro/myke/issues/68" TITLE : warn about missing mixins BODY : when a mixin path cannot get resolved, myke is silently ignoring the whole myke.yml file where this mixin is referenced, even other tasks declared in this myke.yml without warning. proposal is to warn when a whole myke.yml gets ignored because of a missing mixin.

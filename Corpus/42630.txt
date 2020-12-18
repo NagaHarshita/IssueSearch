@@ -1,0 +1,1 @@
+ URL : "https://github.com/tcoopman/image-webpack-loader/issues/99" TITLE : bug in imagemin 5.3.0 BODY : looks like the latest release of imagemin is broken - would it be possible to lock the version to the v5.2.2 until this is resolved? https://github.com/imagemin/imagemin/issues/243

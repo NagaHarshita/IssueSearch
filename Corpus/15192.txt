@@ -1,0 +1,1 @@
+ URL : "https://github.com/MakeICT/electronic-door/issues/44" TITLE : create tcp server BODY : create tcp server for wireless clients to connect to. the server should process communications to and from wireless clients in the same manner as clients on the rs485 bus.

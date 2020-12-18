@@ -1,0 +1,1 @@
+ URL : "https://github.com/leeping/forcebalance/issues/97" TITLE : python 3.6 support BODY : i wonder if there is any fork that already has python 3.6 support for forcebalance, like here: https://www.digitalocean.com/community/tutorials/how-to-port-python-2-code-to-python-3 or maybe its not worthwhile and rather use conda and python 2.7? tobias

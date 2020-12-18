@@ -1,0 +1,1 @@
+ URL : "https://github.com/twinklehawk/notes/issues/7" TITLE : set up jenkins build BODY : add jenkinsfile set up jenkins add post-commit hook from github to jenkins server

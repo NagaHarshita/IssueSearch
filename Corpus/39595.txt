@@ -1,0 +1,1 @@
+ URL : "https://github.com/Timothylock/Tim-Pi-Home-Monitoring/issues/8" TITLE : slow history loading BODY : need to investigate more. probably due to the fact that it needs to scan and sort a large number of files. possible fixes: - update a file everytime a picture is taken that only has the 10 latest filenames - daily scheduled task to move old files away from logs folder

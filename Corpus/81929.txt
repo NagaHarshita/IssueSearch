@@ -1,0 +1,1 @@
+ URL : "https://github.com/sindresorhus/eslint-config-xo/issues/36" TITLE : add 'consistent-return' ? BODY : finally i'm trying to start to use xo nice job and one thing that i've noticed as missing is enforcing the consistent-return rule http://eslint.org/docs/rules/consistent-return what do you think about adding it?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/calblueprint/RMI/issues/84" TITLE : single sign in BODY : - building_operators and asset_managers should be able to sign in from a single path. - session is created for right user off single sign_in form

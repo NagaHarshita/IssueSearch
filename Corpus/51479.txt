@@ -1,0 +1,1 @@
+ URL : "https://github.com/bedita/bedita/issues/1158" TITLE : api multilang behavior BODY : using a query string like lang=fra data json response textual fields should be translated in the requested language, if a translation was found. similar to what happens internally in a bedita frontend.

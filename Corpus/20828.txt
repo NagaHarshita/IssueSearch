@@ -1,0 +1,1 @@
+ URL : "https://github.com/krlove/eloquent-model-generator/issues/26" TITLE : custom primary key BODY : hey there, i used custom primarykey name in my tables instead of id in eloquent we used public $primarykey property to set primarykey name to match in the table. but it seems your generator doesn't generate public $primarykey = {{ custom_primarykey_name }} ;

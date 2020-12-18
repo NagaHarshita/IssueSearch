@@ -1,0 +1,1 @@
+ URL : "https://github.com/mayhemer/logan/issues/11" TITLE : list searches at the top BODY : make each performed search be visible as a 'tab' with 'delete' and 'enable' and maybe 'highlight' switches. blocks/interacts with 9 - when the 'state at' line is reselected, the search results should be updated

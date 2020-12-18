@@ -1,0 +1,1 @@
+ URL : "https://github.com/BroadleafCommerce/DemoSite/issues/216" TITLE : url's point to 127.0.0.1 BODY : using 5.1.2 after i deploy the war file to tomcat /shop, the links to sort, page and manufacturer point to 127.0.0.1, not to the context of the application.

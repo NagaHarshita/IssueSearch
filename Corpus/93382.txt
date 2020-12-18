@@ -1,0 +1,1 @@
+ URL : "https://github.com/armenzg/code_cov_experiments/issues/21" TITLE : add spinner to diff viewer BODY : since fetching takes so long. i would like to try: https://www.npmjs.com/package/react-spinkit

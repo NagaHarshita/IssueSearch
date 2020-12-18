@@ -1,0 +1,1 @@
+ URL : "https://github.com/NikKovIos/NKVPhonePicker/issues/6" TITLE : tableview offset bug BODY : when i start to tap search bar and then dismiss the keyboard it make tableview offset

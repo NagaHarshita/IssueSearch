@@ -1,0 +1,1 @@
+ URL : "https://github.com/westerhack/qutie/issues/27" TITLE : should i remove = and ? BODY : what previously was a = 3; a? can be replaced with $.-1 .= a,3 ; // or, if i fix syntax up a bit, $.a = 3 $.-1 . a but should it?

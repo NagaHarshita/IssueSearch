@@ -1,0 +1,1 @@
+ URL : "https://github.com/Admin9705/PlexGuide.com-The-Awesome-Plex-Server/issues/92" TITLE : error importing in sonarr BODY : import failed, path does not exist or is not accessible by sonarr: /downloads/completed/x.y.z plexguide user is still on system but i am signed in as my perosnal user running vm ware, fresh install of ubuntu-16.04.3-desktop-amd64

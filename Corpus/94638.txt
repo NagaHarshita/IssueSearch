@@ -1,0 +1,1 @@
+ URL : "https://github.com/EasyHook/EasyHook/issues/174" TITLE : change syscall of software BODY : the software opens the browser and opens a specific link after clicking a button. would it be possible to change that behavior and just copy the link to clipboard ?

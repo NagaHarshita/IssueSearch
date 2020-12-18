@@ -1,0 +1,1 @@
+ URL : "https://github.com/rbliu/obs_generic/issues/7" TITLE : transfer post-isr images BODY : now we want some command to transfer the post-isr images to correct path with appropriate filenames so that we do not have to do that manually every time.

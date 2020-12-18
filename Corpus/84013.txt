@@ -1,0 +1,1 @@
+ URL : "https://github.com/spatie/laravel-permission/issues/471" TITLE : content author permission BODY : hello, i've 3 user roles- user, moderator and admin. admins and moderators have permission to can edit . but how do i give same permission to the content owner user author of the content ? regards

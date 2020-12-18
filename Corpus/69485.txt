@@ -1,0 +1,1 @@
+ URL : "https://github.com/danpaquin/GDAX-Python/issues/7" TITLE : test scripts incomplete BODY : within the development branch you will find test scripts for the private client. before committing these to master, we will need test scripts for every function of this project.

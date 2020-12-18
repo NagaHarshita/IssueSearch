@@ -1,0 +1,1 @@
+ URL : "https://github.com/d-ronin/dRonin/issues/1570" TITLE : no modelviewer on windows BODY : seen in version release version or githash : preview-20170207 on flight controller if applicable : sparky2 issue details: no model displayed in model viewer on windows 10. ! nomodel https://cloud.githubusercontent.com/assets/7434287/22797435/0e4dcc3e-eeb3-11e6-914e-c579bb4016ce.png

@@ -1,0 +1,1 @@
+ URL : "https://github.com/nyu-devops-customers/customers/issues/94" TITLE : bdd for delete BODY : as a developer i need bdd test cases for delete so that to meet customer expectations assumptions: add behave tests in feature and steps acceptance criteria: given $ python run.py & when $ behave then pass all the tests

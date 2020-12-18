@@ -1,0 +1,1 @@
+ URL : "https://github.com/inuyasha82/mtgrestservice/issues/10" TITLE : add gitignore file BODY : files to ignore: .ds_store vim lock files etc.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/akretion/odoo-shopinvader/issues/26" TITLE : export attribute / filter BODY : export the attribute of odoo like a field into algolia   refactor filter on category in order to create a filter from an attribute or a field

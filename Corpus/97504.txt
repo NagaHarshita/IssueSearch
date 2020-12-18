@@ -1,0 +1,1 @@
+ URL : "https://github.com/open-source-uc/sincding/issues/8" TITLE : handle folder create erros BODY : currently errors creating folder are catched on an empty block we should show a message log with the problem like if the path is incorrect 5 related to 7

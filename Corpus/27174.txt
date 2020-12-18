@@ -1,0 +1,1 @@
+ URL : "https://github.com/quagliero/draftnik/issues/8" TITLE : counter trade offer BODY : allow for user to counter a trade offer. - counter button on trade offer which fills trades.currenttrade with the offer being viewed. - set pick.counters to the id of the offer being countered so we can visualise the chain later on.

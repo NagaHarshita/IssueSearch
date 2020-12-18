@@ -1,0 +1,1 @@
+ URL : "https://github.com/zeit/hyper/issues/1597" TITLE : opacity in windows 10 BODY : hyper version 1.2.1 100% vanilla on windows 10 i haven't found any solutions issue in my hyper.js config, i have my background set to: backgroundcolor: 'rgba 0,0,0,0.5 ' however, it's not making the window opaque. anyone having the same issue?

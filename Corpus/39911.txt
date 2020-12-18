@@ -1,0 +1,1 @@
+ URL : "https://github.com/yihui/printr/issues/31" TITLE : support for matrices BODY : i can't seem to get matrices to print with this package. everything works fine for dataframes, ?foo, etc, but not matrices. the screenshot summarizes the situation. ! printr https://cloud.githubusercontent.com/assets/7280464/25554655/ccc7d3b4-2cd2-11e7-975c-575f9573da92.png

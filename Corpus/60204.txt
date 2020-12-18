@@ -1,0 +1,1 @@
+ URL : "https://github.com/RHsyseng/container-rhel-examples/issues/33" TITLE : write code to simplify BODY : starter-arbitrary-uid build/run reference putpwent function from uid hook work? https://github.com/tchughesiv/oci-uid-hook/blob/master/src/uidhook.c l319

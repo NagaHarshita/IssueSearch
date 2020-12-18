@@ -1,0 +1,1 @@
+ URL : "https://github.com/yazgazan/YSh/issues/10" TITLE : basic job control BODY : - maintain a list of processes possibly in the state manager - handle c-c and c-z - add builtins fg , bg and jobs

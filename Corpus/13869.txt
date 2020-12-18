@@ -1,0 +1,1 @@
+ URL : "https://github.com/hmrc/self-assessment-api/issues/316" TITLE : 3 line accounting BODY : hello do the current set of apis support 3 line accounting? is the user to support income, a single expense of 'other' and then hmrc derive the profit? how does someone indicate that's what they're doing? and haven't just populated the api badly?

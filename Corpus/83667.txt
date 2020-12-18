@@ -1,0 +1,1 @@
+ URL : "https://github.com/GeoTIFF/geotiff.io/issues/14" TITLE : check out other libraries BODY : here's a list of cool libraries to check out and see about integrating: - https://gitlab.com/ivansanchez/leaflet.tilelayer.gl - https://github.com/drewbo/raster-histogram - https://github.com/mapbox/tilelive-pixelmatch

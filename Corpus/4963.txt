@@ -1,0 +1,1 @@
+ URL : "https://github.com/electricbookworks/electric-book/issues/63" TITLE : include a quiz BODY : as an editorial user, i want to embed one or more betterquiz multiple-choice questions in my content with a single include tag, so that my output formats include the appropriate form of the quiz, such as an instant-marking quiz on the web, or plain text in the offline formats.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/BuildCraft/BuildCraft/issues/3570" TITLE : unify file headers BODY : all files should have the correct licence header i'll make a script to detect the correct one, add the missing one and remove old ones might be a few weeks before i can get started on this but not a very high priority

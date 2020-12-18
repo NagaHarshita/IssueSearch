@@ -1,0 +1,1 @@
+ URL : "https://github.com/isleofcode/corber/issues/436" TITLE : support node@v9 ? BODY : node version 9 isn't listed as supported engine in package.json and blocks to upgrade node on my system. is this a real blocker or can there be a hotfix-release for this?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpenNos/OpenNos/issues/1772" TITLE : clear hitqueue on death BODY : when a character dies, it's latest target monster should get rid of all the pending attacks

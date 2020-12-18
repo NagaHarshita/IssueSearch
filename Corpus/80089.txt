@@ -1,0 +1,1 @@
+ URL : "https://github.com/sandia-minimega/minimega/issues/942" TITLE : tab completion is broken BODY : minimega:/tmp/minimega/minimega$ vm config disk /home/ubuntu/<tab> used to list the files in the folder, it no longer does

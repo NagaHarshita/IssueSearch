@@ -1,0 +1,1 @@
+ URL : "https://github.com/tsheils/project_cure_issues/issues/86" TITLE : required regimen fields BODY : if a clinician enters a number in one field, they are able to continue without selecting a unit. there should should be units required if a number is entered

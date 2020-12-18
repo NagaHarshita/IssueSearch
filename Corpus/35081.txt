@@ -1,0 +1,1 @@
+ URL : "https://github.com/ekstroem/dataMaid/issues/12" TITLE : datamaid -> datamaid BODY : people will make mistakes and load this package into r with all lowercase. and it will fail for usability, consider naming it all lowercase

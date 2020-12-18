@@ -1,0 +1,1 @@
+ URL : "https://github.com/ryotarai/fluent-plugin-cloudwatch-logs/issues/86" TITLE : how to set flush interval? BODY : i found it's not quick enough to see logs in cloudwatch. how to set flush interval?

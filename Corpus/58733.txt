@@ -1,0 +1,1 @@
+ URL : "https://github.com/ansible/lightbulb/issues/102" TITLE : stop disabling selinux BODY : a horrible practice to show customers, especially in a scripted demo

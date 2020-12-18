@@ -1,0 +1,1 @@
+ URL : "https://github.com/dmac/spin/issues/10" TITLE : how to change port? BODY : i couldn't find any information on how to change the port the app is running on. not even by searching for 8000 or port in the source code files here on github. is there a way to do this?

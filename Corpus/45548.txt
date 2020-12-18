@@ -1,0 +1,1 @@
+ URL : "https://github.com/pchalamet/cassandra-sharp/issues/93" TITLE : implement protocol v4 BODY : review documentation here: https://github.com/apache/cassandra/blob/trunk/doc/native_protocol_v4.spec todo: - claim version 4 support

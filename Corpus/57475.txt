@@ -1,0 +1,1 @@
+ URL : "https://github.com/lra/mackup/issues/949" TITLE : pycharm, phpstorm, etc BODY : is it possible to add using wildcards for the jetbrains applications? their config file naming includes the app's version, so every time a new version is released, i have to either manually create the links or wait until mackup releases a new version with the new jetbrains app support.

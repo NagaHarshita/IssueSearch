@@ -1,0 +1,1 @@
+ URL : "https://github.com/RestComm/PerfCorder/issues/92" TITLE : add stress mode BODY : create an script that increases traffic rate until some performance goal is reached cpu usage,mem usage, response time threshold

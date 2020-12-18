@@ -1,0 +1,1 @@
+ URL : "https://github.com/got-board-team/got-board-api/issues/15" TITLE : fix territory translation BODY : ! image https://user-images.githubusercontent.com/5934604/29897347-d7f81272-8db6-11e7-8133-9ea97a11fc93.png some translations are not accurate. stoney shore, for instance, is costa rochosa instead of litoral rochoso . use the physical board to help this task.

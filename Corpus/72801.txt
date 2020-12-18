@@ -1,0 +1,1 @@
+ URL : "https://github.com/devraccoon/big-data-orm/issues/36" TITLE : change newest_only logic BODY : newest_only operations should use only a timed partition query to select just the newest only.

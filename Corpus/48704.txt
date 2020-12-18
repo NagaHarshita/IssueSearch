@@ -1,0 +1,1 @@
+ URL : "https://github.com/Neo23x0/sigma/issues/52" TITLE : sigmac: ossec backend BODY : generate ossec rules from sigmac relevant documentation: ossec documentation https://ossec.github.io/docs/ rules and decoders https://ossec.github.io/docs/manual/rules-decoders/index.html rule syntax https://ossec.github.io/docs/syntax/head_rules.html inspired by 51

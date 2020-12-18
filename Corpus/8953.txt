@@ -1,0 +1,1 @@
+ URL : "https://github.com/XamarinUniversity/ENT410/issues/3" TITLE : sql db - script BODY : is there a tsql script of the db? or is there another way to get the db deployed for this demo? i created an empty db - ran the project - no tables get created.

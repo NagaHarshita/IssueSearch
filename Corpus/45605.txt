@@ -1,0 +1,1 @@
+ URL : "https://github.com/galaxyproject/galaxy/issues/3634" TITLE : improve conda logging BODY : - track full environment of each job. - log channel order, other configuration options. xref 3389

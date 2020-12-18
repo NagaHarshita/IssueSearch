@@ -1,0 +1,1 @@
+ URL : "https://github.com/arduino-libraries/WiFi101-FirmwareUpdater-Plugin/issues/10" TITLE : failing to add root ca BODY : the integrated firmware updater in arduino ide for the wifi101 fails to add root ca when the cn is an ip address and the ca is self-signed. i tried the standalone firmware updater and it worked.

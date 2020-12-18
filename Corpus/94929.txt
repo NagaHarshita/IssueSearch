@@ -1,0 +1,1 @@
+ URL : "https://github.com/hku-ect/NatNet2OSCbridge/issues/6" TITLE : compile binary for windows BODY : at the moment this application only exist as a xcode project and an osx application. with the building of a windows binary the bridge can also run on windows.

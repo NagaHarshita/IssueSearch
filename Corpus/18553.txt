@@ -1,0 +1,1 @@
+ URL : "https://github.com/davidcarslaw/openair/issues/107" TITLE : timeplot y values BODY : i am trying to plot different pollutants using timeplot. the result comes with the same scale where some low pollutants level cannot be shown clearly. how can i plot timeplot while each pollutant has its scale?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/dinever/golf/issues/29" TITLE : websockets & file upload BODY : both appears to not be possible - formvalue does not contain any data, if it is a file. for websockets, it would require to expose net/http handlers, which doesn't appear to be possible. is there any way to make either of those work inside golf?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/redom/redom/issues/82" TITLE : router example won't work BODY : this example https://redom.js.org/documentation/ router won't work, because it misses the include of mount

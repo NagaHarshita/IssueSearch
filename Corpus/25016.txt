@@ -1,0 +1,1 @@
+ URL : "https://github.com/DAVFoundation/missions/issues/13" TITLE : update to react 16 BODY : update the dependency to react 16, and make sure nothing breaks.

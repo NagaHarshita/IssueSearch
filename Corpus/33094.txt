@@ -1,0 +1,1 @@
+ URL : "https://github.com/duxingren14/DualGAN/issues/3" TITLE : about moving average BODY : i see that you add tf.contrib.layers.batch_norm in the networks, but i can't fine where do you update the moving average of bn

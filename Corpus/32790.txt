@@ -1,0 +1,1 @@
+ URL : "https://github.com/orbeon/orbeon-forms/issues/3095" TITLE : wizard status panel BODY : the idea is that we would like a place in the wizard to add status information: - n of m sections completed - n sections with errors - what is the global status of filling the form data related to 3059. +1 from customer https://3.basecamp.com/3600924/buckets/2016723/messages/305438228

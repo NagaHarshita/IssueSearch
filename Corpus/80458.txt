@@ -1,0 +1,1 @@
+ URL : "https://github.com/Hubert51/pyLemma/issues/2" TITLE : try to know about socket BODY : in project, the server part which is consist with socket. i want to figure out the meaning of the code about socket written by andrew. what's more, i want to know about the advantages of socket. i want to use django frame to create a server part instead of socket.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/pyarmory/aumbry/issues/12" TITLE : load multi config file BODY : there are many config files need to be managed，like： - settings/a.json - settings/b.json - settings/c.yaml - settings load from config server

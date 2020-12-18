@@ -1,0 +1,1 @@
+ URL : "https://github.com/Pragmatists/JUnitParams/issues/119" TITLE : encoding not used/ignored BODY : @fileparameters value = some.csv ,encoding = utf-8 @fileparameters value = some.csv both do not use utf-8 file encoding to load the file but rather some iso-8859-x, ansi, ... can be easily verified with an csv containing a ring &ring;, degree character : °

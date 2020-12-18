@@ -1,0 +1,1 @@
+ URL : "https://github.com/pycontribs/jira/issues/442" TITLE : delete attachment by id BODY : def delete_attachment self, id : delete attachment by id. :param id: id of the attachment to delete url = self._get_url 'attachment/' + str id return self._session.delete url how do i find out what is the id for the attacement? thanks~!

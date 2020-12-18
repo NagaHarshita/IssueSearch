@@ -1,0 +1,1 @@
+ URL : "https://github.com/cheltenhamladiescollege/helpdesk/issues/167" TITLE : closed ticket report BODY : report shows a list of closed calls. however it shows the name of the engineer that the call was assigned to, not the engineer who closed it. reported by ar report may also be using assigned engineer for sql instead of closing engineer /manager/report/closed/

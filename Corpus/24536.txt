@@ -1,0 +1,1 @@
+ URL : "https://github.com/donejs/done-ssr/issues/211" TITLE : support http2 push BODY : if done-ssr is used within an http2 server there will be a response.push method that can be used to push resources. since we know the bundles the user will need to render the page we could push those immediately.

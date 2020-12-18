@@ -1,0 +1,2 @@
+ URL : "https://github.com/department-of-veterans-affairs/caseflow/issues/1764" TITLE : cache user roles in db BODY : ac: - add a new roles column to the user table
+- on user successful login, save the user's roles to that new column this will help us with debugging role-related issues. plus, more data is always better

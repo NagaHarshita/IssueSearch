@@ -1,0 +1,1 @@
+ URL : "https://github.com/dennisreimann/ioctocat/issues/473" TITLE : enterprise github failure BODY : attempting to connect to a enterprise github account, with a installed certificate profile: i get the error: > authentication failed > the operation couldn't be completed. nsurlerrordomain error -1012 .

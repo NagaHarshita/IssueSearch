@@ -1,0 +1,1 @@
+ URL : "https://github.com/teamyouhired/youhired/issues/29" TITLE : fix reducers/reducers file BODY : problem there is a reducer must be a function error suggested fix the reducers/reducers file should export a function. a temporary fix could be to just export a function that simply returns an empty object, until the reducers folder is built out more.

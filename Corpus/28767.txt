@@ -1,0 +1,1 @@
+ URL : "https://github.com/JuanFerrer/Survival/issues/25" TITLE : hp and weapon drops BODY : hp drops should occur only if player hp is lower than 10. weapon drops should occur once per wave.

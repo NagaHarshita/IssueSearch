@@ -1,0 +1,1 @@
+ URL : "https://github.com/PRL-PRG/scalafix-rule-workshop/issues/8" TITLE : add missing kinds BODY : we are still getting bunch of unknowns: unknown: denotation implicit | macro, 'methodfor1', ' q, r, p1 => f: function1 p1, servicecall q, r implicit evidence$1: pathparamserializer p1 : scalamethodservicecall q, r '

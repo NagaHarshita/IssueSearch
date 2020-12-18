@@ -1,0 +1,1 @@
+ URL : "https://github.com/twosigma/Halite-II/issues/924" TITLE : install.sh not working BODY : upon placing install instructions on install.sh, bot compiles but does not have the package installed. installation instructions were: pip3 install delorean code contained: from delorean import delorean est = us/eastern d = delorean timezone=est this causes the bot to error out.

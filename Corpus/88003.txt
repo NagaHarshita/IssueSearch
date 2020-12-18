@@ -1,0 +1,1 @@
+ URL : "https://github.com/brutusin/json-forms/issues/59" TITLE : minor: remove title colon BODY : this is very minor, but i think the colon should not be there here https://github.com/brutusin/json-forms/blob/master/src/js/brutusin-json-forms.js l1034 user can choose to add a colon in his decorator.

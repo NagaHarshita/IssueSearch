@@ -1,0 +1,1 @@
+ URL : "https://github.com/PhilJay/MPAndroidChart/issues/2986" TITLE : hight width halved at edge BODY : hey! enjoying your library so far. just found this one small issue: ! image https://cloud.githubusercontent.com/assets/1687829/24643850/247a87d6-18c5-11e7-8ae2-beaf25bbe47f.png the width of the vertical highlight halved at the edge. any idea on how to fix that? thank you!

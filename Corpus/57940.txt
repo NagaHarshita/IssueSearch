@@ -1,0 +1,1 @@
+ URL : "https://github.com/jonathan-markland/80GFX/issues/3" TITLE : rescale example needed BODY : there is a device that will perform rescaling, in a pipeline configuration where it would sit in front of the real target device object. a demo should be done.

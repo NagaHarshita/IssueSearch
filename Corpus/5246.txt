@@ -1,0 +1,1 @@
+ URL : "https://github.com/luyadev/luya/issues/1565" TITLE : move to folder BODY : + select files + press move to button + now the new overlay icon in the folders tree should be visible, not just on hover.

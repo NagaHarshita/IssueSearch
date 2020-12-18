@@ -1,0 +1,1 @@
+ URL : "https://github.com/georgewhr/uscis/issues/4" TITLE : uscis format is incorrect BODY : can you give an example input i tried python check_neighbor_case.py -c lin0723653892 -b 1 and gives me uscis format is incorrect

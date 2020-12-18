@@ -1,0 +1,1 @@
+ URL : "https://github.com/EmmyLua/IntelliJ-EmmyLua/issues/80" TITLE : debug is invalid on linux BODY : linux环境下，创建好 lua项目好，编写一个lua脚本。执行“debug...”菜单项，不能进行deubg。提示如下： cannot run program /home/wzz/.intellijidea2017.2/config/plugins/emmylua/classes/debugger/windows/arch.exe : error=13, permission denied

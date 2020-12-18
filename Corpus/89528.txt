@@ -1,0 +1,1 @@
+ URL : "https://github.com/tanglebones/pg_tuid/issues/2" TITLE : question tuid vs. uuid v1 BODY : hey, sorry for the 'issue' question. is there any benefit to using this over uuid v1 time based uuid ? thanks, ryan

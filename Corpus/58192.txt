@@ -1,0 +1,1 @@
+ URL : "https://github.com/neeltom92/bashscripts/issues/2" TITLE : script to rename files BODY : !/bin/bash author : neel purpose : convert a file to another format for i in find . -iname .txt ; do mv $i ${i%.txt}.html; done

@@ -1,0 +1,1 @@
+ URL : "https://github.com/flutter/flutter/issues/13265" TITLE : support hover on chromeos BODY : native android apps installed on chromeos support hover. when mouse is over a field that you can interact with, it gains focus. flutter apps should behave the same. bonus points if we can give the apps the ability to customize the pointer such as turn it into a hand .

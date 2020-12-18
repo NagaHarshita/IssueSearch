@@ -1,0 +1,1 @@
+ URL : "https://github.com/Le0nX/LenoraOS/issues/1" TITLE : printf prints only once. BODY : printf реализована оч убого. каждый раз начинает запись по адресу 0xb8000 и поэтому выводит что-то только единожды. нужно добавить static метку, чтобы не было перезаписи.

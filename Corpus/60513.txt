@@ -1,0 +1,1 @@
+ URL : "https://github.com/uber/jaeger-client-python/issues/66" TITLE : _start_receiving self : BODY : i'v read the source code, in agent.py , there is a method , @gen.engine def _start_receiving self : i can't understand its use , can you explain for me briefly thanks so much

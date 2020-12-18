@@ -1,0 +1,1 @@
+ URL : "https://github.com/geerlingguy/ansible-role-jenkins/issues/155" TITLE : role assumes become: true BODY : the role seems to assume that it will be run as root. examples include yum package installs. should the sample playbook in the readme.md be updated with. - hosts: ci-server vars: jenkins_hostname: jenkins.example.com roles: - geerlingguy.jenkins become:true

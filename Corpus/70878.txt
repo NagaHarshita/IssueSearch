@@ -1,0 +1,1 @@
+ URL : "https://github.com/servo/rust-bindgen/issues/376" TITLE : --link don't do anything BODY : --link , --framework-link and --static-link are parsed and put into bindgenoptions::links , but as far as i can tell nothing does anything with them after that. presumably the intent is to generate a set of link ... directives before the extern c { ... } ?

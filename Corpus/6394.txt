@@ -1,0 +1,1 @@
+ URL : "https://github.com/galrettig/youtube-search-download/issues/1" TITLE : add first usage BODY : if config.json haven't been set with an api-key then index.js will get into init mode where it accepts 1 argument the api-key and will insert it to the config.js..

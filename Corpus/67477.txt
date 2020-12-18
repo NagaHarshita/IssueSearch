@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpusCapita/kong/issues/36" TITLE : post to /refreshidtoken BODY : results in http://localhost:8080/authorize?scope=openid%20email%20phone%20userinfo%20roles&client_id=oidcclient&response_type=code&state=cd0e74d45deb10d6556f60aad5ceaa4d&nonce=a8f76e7de751385b4b3595527be314d2&redirect_uri=http%3a%2f%2flocalhost%3a8080%2fauth%2fcallback&prompt=none

@@ -1,0 +1,1 @@
+ URL : "https://github.com/haskell-foundation/foundation/issues/400" TITLE : add alloca and malloc BODY : how to allocate memory and pass the ptr to foreign c code using foundation ?

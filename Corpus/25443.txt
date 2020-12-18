@@ -1,0 +1,1 @@
+ URL : "https://github.com/ankitpatial/mongodb-promises/issues/5" TITLE : $unset doesn't work BODY : how does one go about using $unset? the implementation for update assumes that you are doing a $set.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/barryvdh/laravel-ide-helper/issues/603" TITLE : cannot declare class redis BODY : ntouched laravel + predis: > php fatal error: cannot declare class redis, because the name is already in use in _ide_helper.php on line 14394 i think the redis class is alreafy declared in illuminate/support/facades/redis.php

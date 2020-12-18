@@ -1,0 +1,1 @@
+ URL : "https://github.com/LibCrowds/vue-pybossa-frontend/issues/233" TITLE : fix style leaks BODY : we have some style leaks, possibly from the viewer module to our main application. spotted as the project table button e.g. on the download page can appear with a white outline and transparent background.

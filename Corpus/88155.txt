@@ -1,0 +1,1 @@
+ URL : "https://github.com/psieg/Lightpack/issues/149" TITLE : more than 255 led strip ? BODY : hello, i'm trying to make prismatik work with a 262 sk9822 led strip. it is working perfectly until 255 led, but no more i've tried to change the number of led in main.conf but keeps crashing prismatik after. do anyone have a solution ? thanks

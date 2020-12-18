@@ -1,0 +1,1 @@
+ URL : "https://github.com/patternfly/patternfly-ng/issues/84" TITLE : add less linter BODY : add a less linter to the build for .less files. suggested linter: https://www.npmjs.com/package/gulp-lesshint

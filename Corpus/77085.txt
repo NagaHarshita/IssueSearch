@@ -1,0 +1,1 @@
+ URL : "https://github.com/WPSwitzerland/wordcampbern2017/issues/3" TITLE : mobile design: attendees BODY : the following css should be sufficient for the mobile view. css // mobile tix-attendees .tix-columns-3 li { width: 100%; } // tablet tix-attendees .tix-columns-3 li { width: 50%; } https://2017.bern.wordcamp.org/attendees/

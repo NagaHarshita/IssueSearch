@@ -1,0 +1,1 @@
+ URL : "https://github.com/coreos/kube-prometheus/issues/37" TITLE : any plan to support s390x BODY : since 1.6.0 alpha 1, s390x is included into kubernetes official build, any plan for cube-prometheus to support s390x?

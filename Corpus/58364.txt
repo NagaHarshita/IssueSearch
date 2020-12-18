@@ -1,0 +1,1 @@
+ URL : "https://github.com/conda/conda-build/issues/1887" TITLE : sha256 mismatch x != x BODY : getting a weird failure, sha256 mismatch: 'c59e92ab9f82e156723dd3efb9433948dcb84facc21d6efb50f4d6c2d7aa6c5c' != 'c59e92ab9f82e156723dd3efb9433948dcb84facc21d6efb50f4d6c2d7aa6c5c' https://ci.appveyor.com/project/conda-forge/doxygen-feedstock/build/1.0.8/job/d5tehpaovu0pkbj9

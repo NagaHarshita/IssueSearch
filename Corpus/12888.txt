@@ -1,0 +1,1 @@
+ URL : "https://github.com/aframe-capstone/aframe-vr-capstone/issues/60" TITLE : setting up redux BODY : setting up the state so the store can send the info to see if the person got the correct actions in-order

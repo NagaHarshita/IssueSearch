@@ -1,0 +1,1 @@
+ URL : "https://github.com/BlackToppStudios/Mezz_StaticFoundation/issues/7" TITLE : update to jagati 0.13.1 BODY : the new version of the jagati has a bunch of features to simplify cmakelists.txt creation. it should be used instead of the old pre-12 code which requires deeper involvement with the jagati.

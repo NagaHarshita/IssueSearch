@@ -1,0 +1,1 @@
+ URL : "https://github.com/nicolaskruchten/pivottable/issues/639" TITLE : call renderer from outside BODY : i have modified the tsv export a bit so it will stream a csv file instead. however now i would like to add a button that says export to csv instead of having to select the dropdown. how can i read the current renderer and set a renderer from this button?

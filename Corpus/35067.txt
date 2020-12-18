@@ -1,0 +1,1 @@
+ URL : "https://github.com/deep-diver/rnn_simple/issues/6" TITLE : data preprocessing 5 BODY : 1. getting training sample from web/file/etc., 2. tokenize text 3. remove infrequent words 4. prepend special start & end tokens 5. building training data matrices

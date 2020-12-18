@@ -1,0 +1,1 @@
+ URL : "https://github.com/nerrage/Coreuptedbot/issues/12" TITLE : slash command injection BODY : currently you can get the bot to use / commands like /me or /disconnect by saying something like !points /disconnect . to alleviate this, need to strip these out or otherwise

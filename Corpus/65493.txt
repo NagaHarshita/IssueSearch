@@ -1,0 +1,1 @@
+ URL : "https://github.com/exyte/ARTetris/issues/5" TITLE : iphone6 s plus support? BODY : hi, supposedly iphone 6s+ is supported by arkit, but i just get a video feed from my camera, with nothing happening on the screen. i've tried a few other tutorials and it seems the ones that use spritekit don't work on 6splus. is this a known limitation? am i doing something wrong? paul.

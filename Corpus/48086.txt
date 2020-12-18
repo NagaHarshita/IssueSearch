@@ -1,0 +1,1 @@
+ URL : "https://github.com/rmariano/compr/issues/40" TITLE : release version 0.1.0 BODY : tag and sign version with current master at 2017-04-15 create necessary makefile targets for building build wheel for project public on pypi update readme

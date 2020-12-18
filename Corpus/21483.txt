@@ -1,0 +1,1 @@
+ URL : "https://github.com/caltemose/fms-recipes-api/issues/9" TITLE : fix broken recipes BODY : currently cause templates to throw errors: seared ahi tuna salad turkey pot pie templates really shouldn't throw errors

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Raimondi/delimitMate/issues/255" TITLE : how to switch mappings? BODY : when i'm writing c, i use { far more than , so i swapped them in insert mode. how would i swap their delimitmate mappings as well? imap <buffer><silent> <plug>delimitmate{ didn't work.

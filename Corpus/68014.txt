@@ -1,0 +1,1 @@
+ URL : "https://github.com/lightbend/reactive-cli/issues/21" TITLE : refactor build pipeline BODY : build and/or prepare are pretty big, can they be split up into smaller methods?

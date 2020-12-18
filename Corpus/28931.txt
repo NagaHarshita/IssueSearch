@@ -1,0 +1,1 @@
+ URL : "https://github.com/ilokhov/picasso/issues/1" TITLE : impossible to push! BODY : hola! i tried to upload the csv but i got the following error: > pushing to https://github.com/ilokhov/picasso > remote: permission to ilokhov/picasso.git denied to ncarboni. > fatal: unable to access 'https://github.com/ilokhov/picasso/': the requested url returned error: 403

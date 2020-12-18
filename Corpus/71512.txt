@@ -1,0 +1,1 @@
+ URL : "https://github.com/krajcsi/algotaurus/issues/47" TITLE : add new language version BODY : another possible extension is to add new statements to the language. more importantly, one could set the set of statements that could be used in a specific version. this enables to solve the same puzzle with different sets of statements, i.e., with different languages.

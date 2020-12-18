@@ -1,0 +1,1 @@
+ URL : "https://github.com/AgoraUS-G2-1617/G28/issues/6" TITLE : mejora en mostrar encuesta BODY : descripción: al mostrar los resultados de una encuesta aparezca la primera desplegada. módulo: en la pagina de ver enuestas fecha: 13/01/2017 18:29 pasos: acceder a encuestas y ve una salida esperada: aparezca la primera desplegada. salida real: -

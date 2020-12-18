@@ -1,0 +1,1 @@
+ URL : "https://github.com/writethedocs/www/issues/227" TITLE : meetup data as json/yaml BODY : would it make sense to make the meetup data machine-parsable using something yaml preferred or json similar to what we have right now with the talks? this might help with re-using meetup information for the video archive and other future endeavours ;

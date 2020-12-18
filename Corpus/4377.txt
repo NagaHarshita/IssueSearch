@@ -1,0 +1,1 @@
+ URL : "https://github.com/youpin-city/youpin-bot/issues/37" TITLE : change pin url BODY : chang pin url to: https://admin.icare.eng.chula.ac.th/issue/<pin_id> previously it is: https://admin.icare.eng.chula.ac.th/issue !issue-id:<pin_id> for example, in notification email, bot response, etc.

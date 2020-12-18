@@ -1,0 +1,1 @@
+ URL : "https://github.com/scriptcs/scriptcs/issues/1250" TITLE : update to c 7 BODY : at the moment the entire solution is pinned to c 5. we could benefit from newer syntax, especially around string interpolation, expression bodied members, some tuples and nicer out syntax.

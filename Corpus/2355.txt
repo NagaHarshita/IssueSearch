@@ -1,0 +1,1 @@
+ URL : "https://github.com/angular/material2/issues/9082" TITLE : about md tags BODY : i am unable to access the mdtabsmodule,mdinpumodule... from @angular/material can you please tell me how to use them and also the document link where the old version contains that is md tags before of mat tags document. i am using angular 2 and started with mdtags in my project.

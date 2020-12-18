@@ -1,0 +1,1 @@
+ URL : "https://github.com/lmsgit/lms/issues/1201" TITLE : komputer - cała sieć BODY : wersja lms: | 1.11-git 2017-10-23t22:25:45+02:00 wersja lmsdb: | 1.11-git wersja mysql: | 10.1.21-mariadb-1~wheezy wersja php: | 5.4.45-0+deb7u7 wersja smarty: | 3.1.31 nie działa dodawanie całej sieci w komputerze.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/GoogleChrome/puppeteer/issues/892" TITLE : add addstyletag url api BODY : puppeteer has a addscripttag url https://github.com/googlechrome/puppeteer/blob/master/docs/api.md pageaddscripttagurl method, it would be nice to have a addstyletag url as well to easily add external styles. // @kevva @sindresorhus

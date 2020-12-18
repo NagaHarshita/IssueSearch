@@ -1,0 +1,1 @@
+ URL : "https://github.com/coala/coala-quickstart/issues/127" TITLE : use new style sections BODY : btw. @hemangsk as well as @satwikkansal coala-quickstart is generating old style sections, right? not using section inheritance and they'll yield a deprecation warning at coala; we should fix that.

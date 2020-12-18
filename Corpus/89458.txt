@@ -1,0 +1,1 @@
+ URL : "https://github.com/hail-is/hail/issues/1226" TITLE : python sphinx docs issues BODY : - search bar not working because of jquery conflict - mobile version collapsing not working properly conflict with rtd collapse code and bootstrap code

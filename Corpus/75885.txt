@@ -1,0 +1,1 @@
+ URL : "https://github.com/gallantlab/cottoncandy/issues/22" TITLE : implement gdrive backend BODY : goals: allow cc to use google drive. no api changes. ideally, only kwargs changes. backend is selected upon instantiation e.g. cc.get_instance backend='gdrive' . this will require some major refactoring. most capabilities will have to be abstracted even more. @jamesgao @candytaco

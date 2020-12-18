@@ -1,0 +1,1 @@
+ URL : "https://github.com/Evenedric/stuff/issues/2" TITLE : upgrade to lua 5.3.4 BODY : from lua 5.3.0. we get some lua bug fixes this way. requires the patch to be reapplied, which does not look trivial.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/AldoMX/StepMania-AMX/issues/10" TITLE : fake division mode BODY : as explained in 2, it will be required to add a fake division mode, basically parse the all-groove and all-wild paths from stx/see files, add fgchange s for the banners and dummy notetype s for the g and w steps.

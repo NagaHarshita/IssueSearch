@@ -1,0 +1,1 @@
+ URL : "https://github.com/adam-madet/GroupUpLive/issues/1" TITLE : viewbag not working BODY : so i figured out how to do the customer rerouting off the global.asax.cs, but i am trying to test the if the parameters are being passed but i cannot get the viewbag to accurately display anything even if i hard cored a string in the viewbag, could anyone adam take a look at it

@@ -1,0 +1,1 @@
+ URL : "https://github.com/pupil-labs/pyximea/issues/3" TITLE : xierror not implemented BODY : ximea.pyx calls for xi.xi_error, but xi_error is not implemented anywhere in cximea.pyd

@@ -1,0 +1,1 @@
+ URL : "https://github.com/hmc-portal2/hmc-scheduler/issues/3" TITLE : some times are missing BODY : for example, engr079 hm has no schedule and cannot be added to the schedule. furthermore, there's no error message to indicate this; the scheduler acts like the class was added successfully when in fact it was not.

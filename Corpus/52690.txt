@@ -1,0 +1,1 @@
+ URL : "https://github.com/maxisam/ngx-clipboard/issues/64" TITLE : could be run delayed ? BODY : hi, i use ngx-clipboard with java api result. i try to copy returned result from api service but it does not copy for the first attempt because of service delay. ngx-clipboard runs normally intantly copy, but i try to delayed copy. is there a way to succeed it firt attempt too.

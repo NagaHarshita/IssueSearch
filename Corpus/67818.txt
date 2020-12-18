@@ -1,0 +1,1 @@
+ URL : "https://github.com/linuxdeepin/dtkcore/issues/3" TITLE : qmake version in readme BODY : qmake --version qmake version 3.0 using qt version 5.6.1 in /usr/lib/x86_64-linux-gnu i found that the qmake version on my computer which successfully installed this package is 3.0, so should the qmake version line line 11 in readme be modified into possibly qt version?

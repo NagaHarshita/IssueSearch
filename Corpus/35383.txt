@@ -1,0 +1,1 @@
+ URL : "https://github.com/react-mdl/react-mdl/issues/470" TITLE : drawer display level BODY : hello guys, i looked through the doc and didn't find an attribute which defines the drawer display style : over / beneath the appbar ? any quick ways to do that ? thx,

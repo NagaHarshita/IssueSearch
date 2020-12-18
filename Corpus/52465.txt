@@ -1,0 +1,11 @@
+ URL : "https://github.com/Zimmi48/bugzilla-test/issues/2385" TITLE : coercions and sections BODY : note: the issue was created automatically with bugzilla2github tool bugzilla bug id: 2385
+date: 2010-09-10 13:46:55 +0200
+from: bodeveix@irit.fr
+to: cc: @_herbelin last updated: 2010-09-17 15:22:44 +0200 bugzilla comment id: 3643
+date: 2010-09-10 13:46:55 +0200
+from: bodeveix@irit.fr created attachment 205
+coq source a coercion is defined inside a section. after exiting the section, the coercion is used by coq to print the term, but the term which is printed cannot be read by coq. the problem can be observed in the attached file: after loading the file, print planguage.
+writes a term
+check ... the printed term ... ===> error the coercion has not been applied > attached file: bug.v application/octet-stream, 11188 bytes > description: coq source bugzilla comment id: 3656
+date: 2010-09-17 15:22:44 +0200
+from: @_herbelin this is not a bug. unless the prefix local is explicitly given or the references they are bound to are local, coercions survive sections. so, if you want the coercions to remain local to the section. use local coercion instead. hope it helps.

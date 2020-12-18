@@ -1,0 +1,1 @@
+ URL : "https://github.com/lfabreges/nativescript-localize/issues/3" TITLE : way to add new line chars BODY : i don't know if it is a bug, but ' ' is not working. it is not shown and new line is not added. probably, same thing is happening with other escape chars

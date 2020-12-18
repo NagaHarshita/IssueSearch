@@ -1,0 +1,1 @@
+ URL : "https://github.com/duxianwei520/react/issues/2" TITLE : gform 中的 bind BODY : https://github.com/duxianwei520/react/blob/master/app/components/gform/index.js l97 97 - 108行的bind是多此一举吗？

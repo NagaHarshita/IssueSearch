@@ -1,0 +1,1 @@
+ URL : "https://github.com/waterloo-rocketry/rlcs/issues/2" TITLE : sd card interface library BODY : client/tower portable library for writing to a log file on the sd card on the power board. also needs to integrate with the rest of the program to write useful timestamped data that we want logged.

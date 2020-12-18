@@ -1,0 +1,1 @@
+ URL : "https://github.com/yannickcr/eslint-plugin-react/issues/1219" TITLE : check for jsx's depth BODY : from 1217 we want to restrict jsx to a depth of 3 or 4, this is something like restricting nested block in common js code this should be off by default, for those who want to restrict their depth, use 'jsx-max-depth': 2, 4 to enable it

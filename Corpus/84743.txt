@@ -1,0 +1,1 @@
+ URL : "https://github.com/cypress-io/commit-info/issues/3" TITLE : do not change process.cwd BODY : just pass it as an option to execa . https://github.com/cypress-io/commit-info/blob/7bac92d6dab2d4ace9d53207204fa8ef8e0e18b8/src/git-api.js l30 also fwiw the .tap ... call to change back process.cwd will not be called if the promise throws, resulting in a mutated process.cwd

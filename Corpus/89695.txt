@@ -1,0 +1,1 @@
+ URL : "https://github.com/brasstax/ffrkbot/issues/16" TITLE : refactor and cleanup code BODY : refactor and clean up the current code for soulbreaks, splitting as many parts as possible into their own functions.

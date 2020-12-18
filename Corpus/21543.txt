@@ -1,0 +1,1 @@
+ URL : "https://github.com/chill117/proxy-lists/issues/67" TITLE : fix source incloak BODY : incloak.com is now hidemy.name html looks mostly unchanged now hosted with cloudflare's ddos protection, so javascript is required to access the site. solution is to use a headless browser like chrome via puppeteer https://github.com/googlechrome/puppeteer

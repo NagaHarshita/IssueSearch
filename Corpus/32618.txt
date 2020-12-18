@@ -1,0 +1,6 @@
+ URL : "https://github.com/pjefika/fulltestAPI/issues/204" TITLE : virada - produção BODY : update customerlibs:
+- fulltestapi;
+- stealerapi;
+- plrestapi;
+- angular viewmodels;
+- networkinventoryapi;

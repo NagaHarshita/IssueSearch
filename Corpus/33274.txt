@@ -1,0 +1,1 @@
+ URL : "https://github.com/CollasLab/edd/issues/8" TITLE : add edd to bioconda? BODY : this would greatly simplify the installation. i made a few stabs at it, but was unable to get it to work: https://travis-ci.org/bioconda/bioconda-recipes/builds/266776185

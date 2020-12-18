@@ -1,0 +1,1 @@
+ URL : "https://github.com/ahwmrklas/warpWarp/issues/9" TITLE : remove fixed names BODY : there are places with ahw and other defaults in the code. there shouldn't be any. wee should use an init/config file see a different issue

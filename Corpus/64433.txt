@@ -1,0 +1,1 @@
+ URL : "https://github.com/SwiftORM/MongoDB-StORM/issues/4" TITLE : get by id does not work BODY : this code returns no rows: let res = collection try? res.get 58d29558a54d7552e223dae3 let rows = res.rows doing same in robomongo returns correct object: db.getcollection 'collections' .find { _id : objectid 58d29558a54d7552e223dae3 }

@@ -1,0 +1,1 @@
+ URL : "https://github.com/valor-software/ng2-table/issues/525" TITLE : coloring of table cells BODY : hi, i would like to have the table expanded such that i can color the cells of a column according to their values. for example every cell with a value below 50 should be red. therefore i would like the functionality to assign css classes to cells.

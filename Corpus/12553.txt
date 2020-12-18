@@ -1,0 +1,1 @@
+ URL : "https://github.com/wiseodd/generative-models/issues/11" TITLE : problems of wgan BODY : wgan seems really slow, i tried your code with 10 million iterations, but the output images still looks very bad. do you have any idea? thanks!

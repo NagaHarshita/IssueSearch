@@ -1,0 +1,1 @@
+ URL : "https://github.com/sugarlabs/aslo/issues/5" TITLE : login is insecure BODY : activities.sugarlabs.org offers a login through insecure http; it should first redirect to https.

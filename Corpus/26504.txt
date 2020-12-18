@@ -1,0 +1,1 @@
+ URL : "https://github.com/Maxmudjon/homebridge-mijia/issues/19" TITLE : battery shows empty BODY : the battery in the device shows 50% and homekit is complaining already. all devices are new is this normal. also it does not show battery live from the aqara zigbee zwitches.

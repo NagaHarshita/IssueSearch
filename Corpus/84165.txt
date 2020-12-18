@@ -1,0 +1,1 @@
+ URL : "https://github.com/shrpereira/keep-heroku-alive/issues/2" TITLE : create a listall endpoint BODY : one must create a new endpoint controller that returns all the registered services.

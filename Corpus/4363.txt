@@ -1,0 +1,1 @@
+ URL : "https://github.com/apereo/cas/issues/2551" TITLE : cas sso status BODY : version: 5.1.0-rc4-snapshot the cas status dashboard contains an sso status link to /cas/status/sso, but this url is not handled and returns an http 410 error.

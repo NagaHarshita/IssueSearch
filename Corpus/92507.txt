@@ -1,0 +1,1 @@
+ URL : "https://github.com/brentp/peddy/issues/29" TITLE : x server dependency error BODY : is it possible to run peddy without the x server dependency? i get this error when running: $python -m peddy --version --procs 4 --plot --prefix peddy/118 in.vcf.gz 118.fam $: cannot connect to x server

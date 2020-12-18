@@ -1,0 +1,1 @@
+ URL : "https://github.com/GeoscienceAustralia/Wind_multipliers/issues/1" TITLE : input file names are fixed BODY : input dem and land cover file names are fixed in the code. need to change this so the file names are read from the configuration file. also need to update the current documentation to indicate required file names.

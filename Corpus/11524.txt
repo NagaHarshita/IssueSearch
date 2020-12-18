@@ -1,0 +1,1 @@
+ URL : "https://github.com/alexkatich/prj-rev-bwfs-dasmoto/issues/4" TITLE : how to write css BODY : the selector name should be on the same line as the opening { html { font-family: helvetica; } https://github.com/alexkatich/prj-rev-bwfs-dasmoto/blob/master/dasmoto's-arts-and-crafts/resources/style.css l20-l23

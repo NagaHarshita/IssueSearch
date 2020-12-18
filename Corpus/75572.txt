@@ -1,0 +1,1 @@
+ URL : "https://github.com/DimitryDushkin/sliding-pane/issues/5" TITLE : how to disable overlay ? BODY : hi, i'm trying to disable the content overlay, i just need tu use the panel as menu to edit the page content. how can i do this ? i've tried to set the overlaycustomclass with display: none but it's hide the panel too :/ thanks for your work :

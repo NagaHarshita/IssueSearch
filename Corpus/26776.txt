@@ -1,0 +1,1 @@
+ URL : "https://github.com/Juanpe/SkeletonView/issues/27" TITLE : can't find pod spec BODY : ! screenshot https://user-images.githubusercontent.com/1567417/34037473-7e8bf384-e14e-11e7-8ddb-78337e9d51a4.png when use pod search skelentonview in terminate, can't find pod spec. also pod install failed.

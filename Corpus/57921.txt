@@ -1,0 +1,1 @@
+ URL : "https://github.com/heibl/ips/issues/2" TITLE : request mafft function BODY : are you still maintaining the cran version? please add the --add and --thread -1 option to mafft.

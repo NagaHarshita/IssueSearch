@@ -1,0 +1,1 @@
+ URL : "https://github.com/polymorf/findcrypt-yara/issues/1" TITLE : macos no module named yara BODY : i have install with brew install yara warning: yara 3.6.3 is already installed but it also warn no module named yara

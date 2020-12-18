@@ -1,0 +1,1 @@
+ URL : "https://github.com/qntfy/kazaam/issues/42" TITLE : add uuid transform BODY : add a transform that allows a user to create a uuid based on the presence of fields. if those fields are not there it can then generate a new uuid

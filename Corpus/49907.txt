@@ -1,0 +1,1 @@
+ URL : "https://github.com/Tomash667/carpg/issues/107" TITLE : usable objects rework BODY : currently usable objects are saved by type int , save by id. don't spawn obj. load from file.

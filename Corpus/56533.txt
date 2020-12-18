@@ -1,0 +1,1 @@
+ URL : "https://github.com/dan-passaro/logviewfx/issues/16" TITLE : new widget for filters BODY : the widget that lists filters should be a flowpane where the items are small graphic elements that show what the filter does and have a small x to remove that filter

@@ -1,0 +1,1 @@
+ URL : "https://github.com/latchset/clevis/issues/20" TITLE : bashisms in tests/ BODY : severity: minor the scripts pin-http and pin-sss require bash, the given /bin/sh is not sufficient on systems where this is a different shell like in debian. feel free to ignore this, i'll happily address this in the debian packaging

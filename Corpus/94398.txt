@@ -1,0 +1,1 @@
+ URL : "https://github.com/nnajm/orb/issues/86" TITLE : can't handle large dataset BODY : i tried using it with 20k records but it did crash. i can't remember exactly the error message but it's about memory. it appears that it use too much memory per record.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/chad-autry/wac-bp/issues/11" TITLE : etcd in docker BODY : start to deploy etcd within docker as a systemd unit. consider deploying proxies on most machines, with a static cluster of stateful instances, as they are easier to make come and go with this and the switch to ansible, cloud config won't be needed any longer.

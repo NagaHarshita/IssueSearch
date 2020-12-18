@@ -1,0 +1,1 @@
+ URL : "https://github.com/soup-bowl/Chromeboard/issues/16" TITLE : rotation refresh option BODY : add an option to background refresh pages, useful for wallboard screens that don't automatically refresh themselves when a change has occurred, or to fix uncommon gotchas in tab contents being left open for extended periods of time.

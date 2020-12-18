@@ -1,0 +1,1 @@
+ URL : "https://github.com/KAIST-IS521/TeamFive/issues/33" TITLE : 제출 전 테스트 BODY : 이제 web 구현은 다 된거 같습니다. 기능 테스트는 봇, sla checker에서도 충분히 될 거 같고 extreme case에 대한 테스트를 해보면 좋을거 같아요. 제가 아는 범위에서는 잘 되어 있는거 같긴합니다만, 제가 아는 범위가 워낙 좁아서..ㅎㅎ 어떤 테스트들을 해보면 좋을까요?

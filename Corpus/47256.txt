@@ -1,0 +1,1 @@
+ URL : "https://github.com/ITUnity/dev/issues/8" TITLE : openid connect logout BODY : when i click the logout button it is redirected to the microsoft site, it gets signed off and then it is not redirecting to my localhost. as in the sample we have added the redirection url as a parameter to micorosft.

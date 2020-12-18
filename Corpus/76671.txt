@@ -1,0 +1,1 @@
+ URL : "https://github.com/frosso/pi-garage/issues/2" TITLE : log of open/closed doors BODY : keep a log of when doors were opened/closed. just use .gitignore 'd file keep track of: door id timestamp for future usage what opened the door app/controls . for now, it's just going to log controls

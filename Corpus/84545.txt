@@ -1,0 +1,1 @@
+ URL : "https://github.com/eldar/pose-tensorflow/issues/32" TITLE : deepercut with resnet-152 BODY : is there a code in tensorflow for deepercut that runs the article resnet-152 with the hole algorithm and deconvolution layers?

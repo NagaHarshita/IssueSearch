@@ -1,0 +1,1 @@
+ URL : "https://github.com/tablackwell/chromablade/issues/14" TITLE : resource cache checklist BODY : preload maps when switching guidelines predefined size load compressed archive in memory decompress files on demand remove archives when cache is full notes images, video, sound, text, level data, character data, ... pack files in chunks in big files and compress zlib

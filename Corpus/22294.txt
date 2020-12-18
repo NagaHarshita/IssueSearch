@@ -1,0 +1,1 @@
+ URL : "https://github.com/tacoss/dayguard/issues/1" TITLE : issue with example BODY : running the example will result in the following error require ... .use is not a function

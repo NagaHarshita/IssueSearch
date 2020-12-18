@@ -1,0 +1,1 @@
+ URL : "https://github.com/gastate/dalnfrontend/issues/70" TITLE : post detail fixes BODY : - repeating ngfor elements, need to only get one value at a time. might just for over an array in the component instead of template since aot build doesn't accept ? - both on metadata and media list

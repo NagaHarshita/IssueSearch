@@ -1,0 +1,1 @@
+ URL : "https://github.com/Oslandia/qgis-epanet/issues/11" TITLE : input error 201 BODY : i keep getting this error when i try run the imported coimbra sample files to postgis. i can't see the difference between postgis and spatiallite data. am i missing something?

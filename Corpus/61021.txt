@@ -1,0 +1,1 @@
+ URL : "https://github.com/coreos/etcd-operator/issues/1245" TITLE : add swift backup driver BODY : we'd like to back up our etcd data to an off-cluster location, and right now the only options are pvs and s3. instead we'd like to use openstack swift. are folks open to that idea? if so, i can begin work on a driver using gophercloud https://github.com/gophercloud/gophercloud .

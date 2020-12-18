@@ -1,0 +1,1 @@
+ URL : "https://github.com/kennytm/cargo-kcov/issues/15" TITLE : cargo kcov omits doc-tests BODY : cargo kcov without any arguments runs almost all tests for the current crate, but it omits any doc-tests https://doc.rust-lang.org/book/first-edition/documentation.html documentation-as-tests . i expected it to run them, just as cargo test does.

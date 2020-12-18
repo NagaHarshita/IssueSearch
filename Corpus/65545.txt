@@ -1,0 +1,1 @@
+ URL : "https://github.com/jwtk/jjwt/issues/278" TITLE : issue with base64decode BODY : when passing in a claim with { exp , somesecondsinteger } the payload that gets generated appears to be invalid base64 and needs padding added as per : http://ioscake.com/nsdata-wont-accept-valid-base64-encoded-string.html

@@ -1,0 +1,1 @@
+ URL : "https://github.com/w3c/spec-generator/issues/36" TITLE : publish to npm? BODY : since sometimes things can timeout 35, would it make sense to publish this as an npm package so the generation can run on local ci files? related to 430

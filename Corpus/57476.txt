@@ -1,0 +1,1 @@
+ URL : "https://github.com/wright-group/WrightTools/issues/179" TITLE : pydocstyle ignore d105 BODY : d105: missing docstring in magic method

@@ -1,0 +1,1 @@
+ URL : "https://github.com/NetEaseGame/AutomatorX/issues/130" TITLE : atx gui 蓝屏 BODY : python -m atx gui --serial http://localhost:5000 蓝屏 macos 10.12.5 iphone 10.3.1 webdriveragent5.12日的源码 ! 1 pic https://cloud.githubusercontent.com/assets/7929135/26517326/082d0f58-42c9-11e7-82a1-e992e434c0a4.jpg

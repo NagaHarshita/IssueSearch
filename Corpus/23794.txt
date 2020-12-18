@@ -1,0 +1,1 @@
+ URL : "https://github.com/grubeninspekteur/BetterRBTV/issues/62" TITLE : remove ajax checks BODY : since ironically now yt live uses an iframe after ytg removed it , we can get rid of checking whether the page changed.

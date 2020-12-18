@@ -1,0 +1,1 @@
+ URL : "https://github.com/shivin9/PDEOperators.jl/issues/10" TITLE : lazy expm and expmv BODY : matrix exponentials are essential to exponential integrators. it would be nice if we came up with a lazy way to do this. i have no idea if anyone has worked this out.

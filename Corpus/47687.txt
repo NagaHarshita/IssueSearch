@@ -1,0 +1,1 @@
+ URL : "https://github.com/mchekin/rpg/issues/6" TITLE : problem with composer BODY : hi, after using composer, i got error like this parse error: syntax error, unexpected '?' in /usr/home/pompka/rpg/vendor/laravel/framework/src/illuminate/foundation/helpers.php on line 234 .

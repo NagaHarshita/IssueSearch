@@ -1,0 +1,1 @@
+ URL : "https://github.com/ableco/ablecop/issues/37" TITLE : ruby 2.4.0 compatibility BODY : ablecop currently doesn't fully work with ruby 2.4.0. the fasterer gem has a dependency, ruby_parser https://github.com/seattlerb/ruby_parser , that doesn't have support for ruby 2.4.0 yet. once fasterer starts working again, i'll double-check the ruby 2.4.0 compatibility.

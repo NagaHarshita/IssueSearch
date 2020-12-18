@@ -1,0 +1,1 @@
+ URL : "https://github.com/recharts/recharts/issues/537" TITLE : yaxis label failed BODY : follow this link, my data is normal, but the label for yaxis is failed when i use domain={ 'auto', 'auto' }. http://jsfiddle.net/bigearsenal/6hcfzj37/ i tried to remove an object { currency : 22, date : 2017-02-15t21:00:00.000z , value : 39.9156 }, and it works well again.

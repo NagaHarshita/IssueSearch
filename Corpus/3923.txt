@@ -1,0 +1,1 @@
+ URL : "https://github.com/icbm-iupui/volumetric-tissue-exploration-analysis/issues/6" TITLE : 3d view button BODY : unpredictable behavior of 3d button in explorer window it will work the first time but then fails to generate a result a second time. the console is throwing a nullpointerexception when assigning the stack. is this related to the closing of images?

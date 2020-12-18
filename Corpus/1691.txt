@@ -1,0 +1,1 @@
+ URL : "https://github.com/afishberg/feo-boy/issues/45" TITLE : daa is buggy BODY : using the cpu instructions test rom from here: http://gbdev.gg8.se/files/roms/blargg-gb-tests/ individual test 01 fails on the daa instruction.

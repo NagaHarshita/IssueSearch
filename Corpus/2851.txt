@@ -1,0 +1,1 @@
+ URL : "https://github.com/iamtheprogram/AcademicCalendarLU/issues/25" TITLE : export to pdf BODY : essentially, if the menu button export to pdf is clicked it should open the print dialog window and the user should select the adobe printer to pdf which then prints a table accordingly to the design of the client with all events and dates of events ordered by date

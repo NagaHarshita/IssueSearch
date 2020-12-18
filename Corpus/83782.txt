@@ -1,0 +1,1 @@
+ URL : "https://github.com/ooyala/html5-skin/issues/749" TITLE : closed captions in safari BODY : closedcaptionoptions : { enabled : false }, will still display in safari. the only way to hide it at the moment i to use css to hide it but why will the options above not work for safar ?

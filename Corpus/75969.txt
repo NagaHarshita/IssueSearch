@@ -1,0 +1,1 @@
+ URL : "https://github.com/Galarzaa90/NabBot/issues/40" TITLE : improve /help formatting BODY : improve /help command formatting, probably replacing code blocks with embeds. as the command list is long, i will probably leave /help the way it is and only improve the format on /help command

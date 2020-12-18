@@ -1,0 +1,1 @@
+ URL : "https://github.com/BiologicalRecordsCentre/NPMS/issues/6" TITLE : remove npms training data BODY : npms doesn't support training records very well as the record grids are sample based . low priority but remove npms training data from the database, this will also help make querying the database simpler

@@ -1,0 +1,1 @@
+ URL : "https://github.com/labooltd/GameAndroid/issues/121" TITLE : jokers selection issue BODY : > selecting and then unselecting a joker will behave as if the joker was selected. > in other words, i select the x2 for ex, then change my mind and unselect, i will be awarded double the points and the joker will be unvailable in the next round

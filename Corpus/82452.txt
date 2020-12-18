@@ -1,0 +1,1 @@
+ URL : "https://github.com/dyatlov/go-oembed/issues/3" TITLE : add twitter as a provider BODY : twitter also supports oembed! it would be great to have this added to the provider list as well : https://dev.twitter.com/web/embedded-timelines/oembed https://publish.twitter.com/oembed?url=https://twitter.com/twitterdev

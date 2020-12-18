@@ -1,0 +1,1 @@
+ URL : "https://github.com/dgraph-io/dgraph/issues/473" TITLE : enable tls on dgraph nodes BODY : enable tls between all dgraph nodes and clients, with certs provided by the user. allow for beginners to run dgraph insecurely via a flag.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Kangarooper/Kangarooper.Search/issues/14" TITLE : compressed vector seeking BODY : use a wordpositionphysical binarysearch of secondary array of positions like a skiplist

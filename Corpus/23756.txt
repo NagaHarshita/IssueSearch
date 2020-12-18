@@ -1,0 +1,1 @@
+ URL : "https://github.com/sozu-proxy/sozu/issues/31" TITLE : refactor tcp proxy BODY : in gitlab by @geal on mar 9, 2016, 16:32 it does not use network::buffer::buffer and the splicing part does not compile

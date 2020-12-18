@@ -1,0 +1,1 @@
+ URL : "https://github.com/pfitzpaddy/ngm-reportEngine/issues/4" TITLE : local.js file name issue BODY : config/local.js has trailing carriage return in name %0d that causes git issues on windows machines as it contains disallowed characters for file names. can we update it?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/PhilJay/MPAndroidChart/issues/3052" TITLE : list of x-axis labels BODY : hi mate is there any method exposed to set x-axis labels by passing a list? i need to draw x-axis labels independent of x-value passed in entry constructor.

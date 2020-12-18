@@ -1,0 +1,1 @@
+ URL : "https://github.com/aspnet/IISIntegration/issues/350" TITLE : need appveyor build BODY : i realize we may not be able to run the functional tests, but this repo needs an appveyor build that compiles and runs unit tests if any at least.

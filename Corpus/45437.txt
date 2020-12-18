@@ -1,0 +1,1 @@
+ URL : "https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/issues/786" TITLE : icon request guvcview BODY : ! image https://user-images.githubusercontent.com/24385617/31118167-1b4616a2-a84a-11e7-9aef-8ebe0fffce25.png name = guvcview description = gtk uvc video viewer command = guvcview comment = a video viewer and capturer for the linux uvc driver

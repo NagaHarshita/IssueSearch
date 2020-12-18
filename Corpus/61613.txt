@@ -1,0 +1,1 @@
+ URL : "https://github.com/PyO3/pyo3/issues/75" TITLE : better iterator support BODY : 1. we need to add std::convert::from for pytuple , pylist , pydict 2. all iterators need to work with $pyobjectref 3. pyiterator does not need to use py.from_xxx_ptr api, it has <'p> already. this needs some thoughts

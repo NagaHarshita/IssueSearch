@@ -1,0 +1,1 @@
+ URL : "https://github.com/Lukasz-Semik/cash-organizer/issues/1" TITLE : config for port BODY : https://github.com/lukasz-semik/cash-organizer/blob/80172dbca7300976928c065acc55a32c57a762f0/server/server.js l6 wouldn't it be better to do like: portfromconfigfile || environmentalvariable || 3000 some ppl might prefer setting config file instead of environmental os variables.

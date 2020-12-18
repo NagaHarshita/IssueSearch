@@ -1,0 +1,1 @@
+ URL : "https://github.com/hithroc/oak/issues/8" TITLE : reconnect after timeout BODY : if the event listener times out, front-end should try to reconnect instead forcing the player to refresh the page

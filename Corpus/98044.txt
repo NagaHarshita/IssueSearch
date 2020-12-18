@@ -1,0 +1,1 @@
+ URL : "https://github.com/haruko-devs/haruko/issues/2" TITLE : implement per-guild config BODY : all of haruko's config should be either scoped to a given guild, or linked to a related guild.

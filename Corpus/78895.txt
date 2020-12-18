@@ -1,0 +1,1 @@
+ URL : "https://github.com/iwayvietnam/openpgp-secure-zimlet/issues/17" TITLE : rename don't sign option BODY : the compose window button has the following options: don't sign sign sign and encrypt maybe it would be more clear for users if it was: don't encrypt sign sign and encrypt

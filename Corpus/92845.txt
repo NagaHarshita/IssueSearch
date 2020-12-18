@@ -1,0 +1,1 @@
+ URL : "https://github.com/level-level/clarkson-404/issues/1" TITLE : a real 404 without styling BODY : 1. install plugin 2. activate plugin 3. visit a none existing page wanted result: a page with a default not found text with the same stylig as the website. so when the plugin is activated but no page is selected from the dropdown the 404 page isn't pretty.

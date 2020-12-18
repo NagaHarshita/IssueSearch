@@ -1,0 +1,1 @@
+ URL : "https://github.com/SeverTopan/AdjSim/issues/21" TITLE : fix tag for 1.0.0 release BODY : the tag for the 1.0.0 release points to the wrong commit.

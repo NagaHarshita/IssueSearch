@@ -1,0 +1,2 @@
+ URL : "https://github.com/mozilla/redash/issues/229" TITLE : 3column messaging bug BODY : 1. you have a bar chart visualization, the query has 2 columns in the result set, and you have a working visualization.
+2. if you remove the value from the y column, you get the 3 column error message. expected: you should not get the 3 column error message in the visualization editor because you still only have 2 columns.

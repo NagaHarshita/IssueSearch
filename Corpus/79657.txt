@@ -1,0 +1,1 @@
+ URL : "https://github.com/hfinkel/proxy-apps-spack/issues/1" TITLE : spack create -r repo url BODY : the documentation on -r option with spack create is unclear. spack create -r repo url . repo must be fully qualified path to create in a repository

@@ -1,0 +1,1 @@
+ URL : "https://github.com/dtortorella/bundle-svm/issues/1" TITLE : datasets in proper format BODY : upload the datatasets monk1-3, ml-cup in a csv format that can be read by matlab. the files must be in the directory named data , with lowercase names of the form dataset-name.{train, test}.csv .

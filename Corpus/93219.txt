@@ -1,0 +1,1 @@
+ URL : "https://github.com/VovanR/test-react-redux-weather/issues/6" TITLE : add location request modal BODY : 1. request location 1. show modal: bla bla share your location with application if true request location if false do nothing 1. hide modal

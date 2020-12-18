@@ -1,0 +1,1 @@
+ URL : "https://github.com/srikanthmalla/a3c/issues/1" TITLE : broadcast is used here ? BODY : in a2c.py self.loss_policy is a scalar self.entropy batch_size, 1 and the total loss in the self.actor_optimizer is 'minimize self.loss_policy+self.entropy ' broadcast is used here ? is this a special design? i'm a little confused

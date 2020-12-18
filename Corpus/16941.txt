@@ -1,0 +1,1 @@
+ URL : "https://github.com/thosch1800/FT8800Mod/issues/2" TITLE : mitm or sniffing? BODY : is the µc the man-in-the-middle and able to intercept all communication? thus we can manipulate everything - and we can brick the radio when the software is buggy.

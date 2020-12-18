@@ -1,0 +1,1 @@
+ URL : "https://github.com/codectile/crappy-esp/issues/20" TITLE : main func arguements BODY : what does the argv supposed to be? i think it should be an int number for the tslgame.exe process handle, is that right?

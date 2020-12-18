@@ -1,0 +1,2 @@
+ URL : "https://github.com/JuliaPOMDP/POMDPToolbox.jl/issues/27" TITLE : error tagging new release BODY : the tag name 0.1.1 is not of the appropriate semver form vx.y.z .
+cc: @zsunberg

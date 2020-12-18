@@ -1,0 +1,5 @@
+ URL : "https://github.com/luizaugustomm/tomato/issues/34" TITLE : create an appdata file BODY : appcenter dashboard could not find a com.github.luizaugustomm.tomato.desktop file for your project. please create one to provide additional data to application managers. --- for more information, see:
+- the appstream quickstart guide https://www.freedesktop.org/software/appstream/docs/chap-quickstart.html - the appstream metadata specification https://www.freedesktop.org/software/appstream/docs/chap-metadata.html if you need help with this issue please stop by the gitter https://gitter.im/elementary/houston channel. affects : 2.0.0 release https://github.com/luizaugustomm/tomato/releases/tag/2.0.0 <!--
+pipe: desktop
+pipe time: sat jun 03 2017 01:52:03 gmt+0000 utc houston version: 0.4.0 c4f0022240c077029ef15f102d5114b5754f258d houston env: production
+-->

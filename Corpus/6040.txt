@@ -1,0 +1,1 @@
+ URL : "https://github.com/IBM/ubiquity-k8s/issues/81" TITLE : use golang 1.9 BODY : - use golang 1.9 in tavis ci - use golang 1.9.0 in docker file

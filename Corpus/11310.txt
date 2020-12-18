@@ -1,0 +1,1 @@
+ URL : "https://github.com/mongodb/morphia/issues/1138" TITLE : get data as bson BODY : may be interesting get the data in bson instead of object. for example, in api rest. i could create the query/aggregation with morphia and get the data en raw from mongodb.

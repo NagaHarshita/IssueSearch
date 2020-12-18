@@ -1,0 +1,1 @@
+ URL : "https://github.com/YadiraF/GAN/issues/1" TITLE : a small question BODY : why does the first param of the functions from line 28 to line 30 in nets.py is z rather than g ?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/vcpkg/issues/2229" TITLE : port request : zipper BODY : https://github.com/sebastiandev/zipper zipper's goal is to bring the power and simplicity of minizip to a more object oriented/c++ user friendly library.

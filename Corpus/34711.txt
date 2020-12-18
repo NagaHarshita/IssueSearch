@@ -1,0 +1,1 @@
+ URL : "https://github.com/bradallred/gemrb/issues/92" TITLE : console focus issues BODY : closing it seems to only partially return focus to the game window. some you can get back by clicking. but pausing via space and other hotkeys don't work. simple example ctrl-m on actor to get the dump, open and close the console, ctrl-m no dump this time .

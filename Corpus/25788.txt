@@ -1,0 +1,1 @@
+ URL : "https://github.com/styled-components/stylelint-processor-styled-components/issues/50" TITLE : add autofix support BODY : currently running stylelint --fix doesn't effect styles defined in js using styled-components. it would be awesome if this feature could be added : thank you!

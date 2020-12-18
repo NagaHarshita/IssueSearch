@@ -1,0 +1,1 @@
+ URL : "https://github.com/crocodic-studio/crudbooster/issues/383" TITLE : removal of eval BODY : eval is widely considered to be bad practice for a multitude of reasons, many of which can be found on various forums and other relevant areas. it is highly recommended that this code be changed to remove any and all instances of eval where its use is avoidable. eval is evil

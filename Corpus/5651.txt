@@ -1,0 +1,1 @@
+ URL : "https://github.com/o1lab/xmysql/issues/15" TITLE : running on pm2 BODY : any instruction on how to run this on pm2 or daemon? tried all kind of node_args for pm2 to no avail. thanks!

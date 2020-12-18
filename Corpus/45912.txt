@@ -1,0 +1,1 @@
+ URL : "https://github.com/jaychang0917/SimpleRecyclerView/issues/15" TITLE : issue with autoloader BODY : hi again, thanks for fixes ! i think there's a bug with setloadingmore . i think there should be check if loading is already shown.

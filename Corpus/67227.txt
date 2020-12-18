@@ -1,0 +1,1 @@
+ URL : "https://github.com/brotherlogic/golisp/issues/21" TITLE : pass function 12 and 13 BODY : defun square n n n => nil square 2 => 4 defun total-cost quantity price handling-charge + quantity price handling-charge => nil total-cost 2 3 4 => 10

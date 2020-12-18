@@ -1,0 +1,1 @@
+ URL : "https://github.com/marcnewton/Toggle-Display-Animate/issues/3" TITLE : simple data daisy chains BODY : use element data attributes to allow users to create element animation daisy-chain links. data-animate-next: element data-animate-when: start|end|seconds

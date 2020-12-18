@@ -1,0 +1,1 @@
+ URL : "https://github.com/gcanti/fp-ts/issues/6" TITLE : arr module refactoring BODY : - remove to, from helper functions - rename module to array - change uri to 'array'

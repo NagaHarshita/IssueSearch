@@ -1,0 +1,1 @@
+ URL : "https://github.com/ScreamingUdder/isis_nexus_streamer_for_mantid/issues/35" TITLE : use kafka timestamps BODY : turn on kafka producer timestamps and store the run start time in run info messages instead of the offset. this will allow multiple topics and/or partitions for event data in conjunction with 33 .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/YiPo/git-svn-clone/issues/4" TITLE : proper log message BODY : all in all, always care about what you output on the screen. here are some tricks to control them. - properly use @ and echo on/off . - customize the prompt. add a timestamp, for example. - control stdout 1> nul and stderr 2> nul .

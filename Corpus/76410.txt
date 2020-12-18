@@ -1,0 +1,1 @@
+ URL : "https://github.com/MyRobotLab/inmoov/issues/72" TITLE : jm3 directory not loaded BODY : using mrl 1.0.1156, the jm3 directory isn't present inside the inmoov directory, is it normal?

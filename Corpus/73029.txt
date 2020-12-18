@@ -1,0 +1,1 @@
+ URL : "https://github.com/TomasSimkus/dice_game/issues/4" TITLE : code style inconsistency BODY : js kartais kuri event listenerius, o kartais naudoji on_click= . išsirink kas labiau patinka ir vienam projekte naudok vieną būdą.

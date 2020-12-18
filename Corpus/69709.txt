@@ -1,0 +1,1 @@
+ URL : "https://github.com/informatikr/aeson-pretty/issues/25" TITLE : trailing newline option BODY : a viable use case for pretty printing is outputting a json value to console or a file, and in both cases a trailing newline is desirable.

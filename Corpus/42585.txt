@@ -1,0 +1,1 @@
+ URL : "https://github.com/richardhuskey/asteroid_impact/issues/3" TITLE : broken in macos 10.12 BODY : asteroid impact does not work in macos 10.12. unsure what dependency is broken. needs further investigation. if you are a mac user, wish to use asteroid impact, and do not want to troubleshoot this issue, do not upgrade your software to macos 10.12.

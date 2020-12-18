@@ -1,0 +1,1 @@
+ URL : "https://github.com/ICB-DCM/AMICI/issues/217" TITLE : improve diagnosis report BODY : for the backward problem, values at utdata.t_start should always be reported. for the forward problem we should add cvodegetsens... and for the backward problem cvodegetquad.... calls & outputs.

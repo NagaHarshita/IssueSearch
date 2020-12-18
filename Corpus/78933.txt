@@ -1,0 +1,1 @@
+ URL : "https://github.com/Starcounter-Jack/JSON-Patch/issues/171" TITLE : replace parseint with ~~ BODY : ~~ will convert it's input to an unsigned integer and is a lot faster than parseint . https://jsperf.com/math-floor-vs-math-round-vs-parseint/55

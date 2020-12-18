@@ -1,0 +1,1 @@
+ URL : "https://github.com/clarkbw/jest-localstorage-mock/issues/40" TITLE : automatically run prettier BODY : the readme / development guide suggests always running yarn run prettier before every pr. i'd rather have this part automated.

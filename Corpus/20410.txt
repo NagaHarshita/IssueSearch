@@ -1,0 +1,1 @@
+ URL : "https://github.com/KazuCocoa/droid_adbs/issues/24" TITLE : change method name BODY : record = ::droidadbs::screenrecord::recording.new record.start file_name: sample sleep 10 record.stop export: ./sample.mp4 assert file.exist? ./sample.mp4 tear down file.delete ./sample.mp4

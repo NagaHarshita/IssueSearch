@@ -1,0 +1,1 @@
+ URL : "https://github.com/mastorm/MODiX/issues/9" TITLE : handle configs via json BODY : as for now, the bot key is read using environment variables. to support different mongodb server data and easier changing of the bot key, we should handle configs using json.

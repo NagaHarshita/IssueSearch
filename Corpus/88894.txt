@@ -1,0 +1,1 @@
+ URL : "https://github.com/upspin/upspin/issues/436" TITLE : panic while printing help BODY : seen while trying to get help: bash-3.2$ ./upspin the upspin command provides utilities for creating and administering ...snip... panic: runtime error: index out of range goroutine 1 running : main.main /users/jra/go/src/upspin.io/cmd/upspin/main.go:120 +0x2d5

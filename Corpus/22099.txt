@@ -1,0 +1,1 @@
+ URL : "https://github.com/zj-net/WaterSource/issues/11" TITLE : implement login ui BODY : - create dialog popup with two fields and two buttons - on popup, dialog should shade background launch page - first field: username - second field: password - two buttons: login and cancel

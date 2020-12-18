@@ -1,0 +1,1 @@
+ URL : "https://github.com/pyvideo/data/issues/396" TITLE : pydata delhi 2017 BODY : september 2-3, 2017 ~~~ yaml - title: pydata delhi 2017 dir: pydata-delhi-2017 youtube_list: https://www.youtube.com/channel/ucz_xslndtnkdsvtuyulprmg/videos language: eng related_urls: - label: event schedule url: https://pydata.org/delhi2017/schedule/ ~~~

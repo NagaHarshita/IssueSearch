@@ -1,0 +1,1 @@
+ URL : "https://github.com/bitshares/bitshares-ui/issues/705" TITLE : 24hr %change in portfolio BODY : i don't know if this is possible, but can we display the 24hr % change in red/green in the portfolio view? column header label: 24hr up - green +3,2% down - red -0.9%

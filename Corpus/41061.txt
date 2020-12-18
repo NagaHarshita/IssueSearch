@@ -1,0 +1,1 @@
+ URL : "https://github.com/Alexey-T/CudaText/issues/847" TITLE : wiki no list of type BODY : не хватает списка для типов контролов. пока приходится заглядывать в dlg_custom и надеяться, что подойдет.

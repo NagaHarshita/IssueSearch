@@ -1,0 +1,1 @@
+ URL : "https://github.com/openfoodfoundation/openfoodnetwork/issues/1463" TITLE : bulk edit data loading BODY : the bulk edit products page has some performance issues that don't scale well. currently all the data from all products is loaded into the page via angular so the products can be searched and filtered. this needs to be revamped and streamlined.

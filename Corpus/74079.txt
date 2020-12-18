@@ -1,0 +1,1 @@
+ URL : "https://github.com/Marak/colors.js/issues/196" TITLE : doesn't work in git bash BODY : doesn't work in this git bash terminal on windows 10 64bit ! mintty 2017-05-21 23 07 23 https://cloud.githubusercontent.com/assets/3880497/26285082/bee5ab4a-3e7a-11e7-8df6-e9a4dd83f029.png nothing happen, nothing is colored const colors = require 'colors' ; console.log 'hello'.green ;

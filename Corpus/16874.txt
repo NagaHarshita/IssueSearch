@@ -1,0 +1,1 @@
+ URL : "https://github.com/phase2/pattern-lab-starter/issues/106" TITLE : mention of airbnb BODY : hi folks, is the extends: airbnb intentional here? https://github.com/phase2/pattern-lab-starter/blob/3ab220e117819849e458839b9372ea5be9729f60/.eslintrc.js l4

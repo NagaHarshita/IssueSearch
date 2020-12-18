@@ -1,0 +1,1 @@
+ URL : "https://github.com/WolverinDEV/BungeeUtil/issues/35" TITLE : i cant join the server BODY : i use git:waterfall-bootstrap:1.12-snapshot:9ba9237:115 and when i try to ping or join the server i dont get response but in the console i become this: invalid warpedminecraftdecoder parameters! cant having an client without a handshake but with a version! i use bungeeutil 2.4.3

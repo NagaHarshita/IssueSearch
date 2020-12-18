@@ -1,0 +1,4 @@
+ URL : "https://github.com/webcompat/webcompat-tests/issues/1006" TITLE : ccc - see bug description BODY : <!-- @browser: chrome 59.0.3071 -->
+<!-- @ua_header: mozilla/5.0 macintosh; intel mac os x 10_10_5 applewebkit/537.36 khtml, like gecko chrome/59.0.3071.115 safari/537.36 -->
+<!-- @reported_with: web --> url : ccc browser / version : chrome 59.0.3071 operating system : mac os x 10.10.5 tested another browser : unknown problem type : something else description : ccc steps to reproduce :
+for example, 1. i've tried to log in. 2. i've filled out the form details. 3. i clicked on the submit button. 4. nothing happened. ! screenshot description http://localhost:5000/uploads/2017/7/b4766398-4597-4dcb-b565-912909282d6f-thumb.jpg http://localhost:5000/uploads/2017/7/b4766398-4597-4dcb-b565-912909282d6f.jpg _from webcompat.com https://webcompat.com/ with ❤️_

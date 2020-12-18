@@ -1,0 +1,1 @@
+ URL : "https://github.com/Mercerenies/proto-lang/issues/4" TITLE : stack traces are a mess BODY : stack traces simply do not work right now. sometimes, they report the same frame multiple times. sometimes, they skip frames. often, the line number is completely inaccurate. there are likely several issues within the code contributing to this.

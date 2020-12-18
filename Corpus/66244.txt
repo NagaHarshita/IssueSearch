@@ -1,0 +1,1 @@
+ URL : "https://github.com/todvora/eet-client/issues/34" TITLE : merylin crypto instance BODY : nebylo by efektivnejsi vytvorit crypto instanci objektu merylin jednou v konstruktoru trid serverkey a clientkey? takto se tento objekt asi zbytecne vyrabi pri kazdem volani submit.

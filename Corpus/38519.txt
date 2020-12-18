@@ -1,0 +1,1 @@
+ URL : "https://github.com/bromiley/redsketch/issues/3" TITLE : ports - sqlite query BODY : streamline sqlite query to only pull back data of interest.

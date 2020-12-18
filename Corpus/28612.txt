@@ -1,0 +1,1 @@
+ URL : "https://github.com/tj/commander.js/issues/620" TITLE : help default values BODY : is there a way to display the default values as well rather than just the flags and desciption. when having the --help flag?

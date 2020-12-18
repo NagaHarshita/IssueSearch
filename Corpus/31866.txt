@@ -1,0 +1,1 @@
+ URL : "https://github.com/me-and/Cygwin-Git/issues/37" TITLE : t9141 test failures BODY : yet more intermittent git-svn related segfaults; see 13 and 16 for other examples of the same problem. still presuming bloda and therefore very little that can be done by me.

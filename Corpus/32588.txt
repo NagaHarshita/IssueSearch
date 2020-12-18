@@ -1,0 +1,1 @@
+ URL : "https://github.com/GetStream/vg/issues/25" TITLE : vg setup improments BODY : - figure out if .bashrc or .bash_profile should be changed - don't duplicate eval lines when running setup twice - don't edit files for shells that are not installed

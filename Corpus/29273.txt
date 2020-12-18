@@ -1,0 +1,1 @@
+ URL : "https://github.com/FTCr/d2clr/issues/4" TITLE : language not found! BODY : d2clrd started giving me this message since a few weeks. how can i fix it? apparently this means that data.lang = get_steam_lang == -1

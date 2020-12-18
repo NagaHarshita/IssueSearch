@@ -1,0 +1,1 @@
+ URL : "https://github.com/gravitational/teleport/issues/1203" TITLE : on-demand reverse tunnel BODY : rather than persistent reverse tunnel, an option for on-demand reverse tunnel would improve session cost and management for large scale deployments.

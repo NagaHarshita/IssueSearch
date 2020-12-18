@@ -1,0 +1,1 @@
+ URL : "https://github.com/roman0x58/jenia/issues/2" TITLE : auto sign in bug BODY : automatic sign in doesn't work when the setting save server password is turned off. so i think need to hide the stay signed in checkbox.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/noto-platform/unamed-event-app/issues/33" TITLE : remove old events BODY : - create cloud function triggered by daily cron - find old events and delete

@@ -1,0 +1,1 @@
+ URL : "https://github.com/python/psf-salt/issues/121" TITLE : maybe missing latexmk BODY : i see latexmk on docs.iad1.psf.io, but i don't see it in salt. maybe latexmk is a dependency of a package documented in salt, but i don't see which one, maybe running: aptitude why latexmk will tell us but i do not have the rights to do so .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/XVimProject/XVim2/issues/16" TITLE : x at the end of line bug BODY : @antmd, @jugglershu thank you for your great work! i'm using xvim2 now. when x pressed twice at the end of line, eol is deleted.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/chmatos/chScaffold/issues/53" TITLE : corrigir erro no datetime BODY : <%= f.text_field :data_nasc, {:value => @cliente.data_nasc.strftime t 'long_date' if :data_nasc , class: form-control input-sm , id: datapicker_data_nasc }, disabled: is_show %>

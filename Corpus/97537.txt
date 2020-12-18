@@ -1,0 +1,1 @@
+ URL : "https://github.com/edgi-govdata-archiving/archivers.space/issues/42" TITLE : harvest_url instead of url BODY : when harvesters upload things through the browser i haven’t checked if this happens via s3 the “harvest url / location” field gets filled with “harvest_url”. i’ve had to go into s3, copy the upload url, and then paste that into the “bag” section.

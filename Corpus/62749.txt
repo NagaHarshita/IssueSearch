@@ -1,0 +1,1 @@
+ URL : "https://github.com/ErwanLBP/java-android-calculIt/issues/29" TITLE : create a pop-up builder BODY : in a class popupbuilder or something, popup = new popupbuilder then popup.addmessage .addoption .addaction ... etc find great ideas

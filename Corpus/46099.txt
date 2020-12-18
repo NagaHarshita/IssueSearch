@@ -1,0 +1,1 @@
+ URL : "https://github.com/capitalone/react-native-pathjs-charts/issues/141" TITLE : legend for line chart BODY : are there any plans to implement a legend for line chart? in case there are multiple lines shown then the legend should show each series/line name

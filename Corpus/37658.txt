@@ -1,0 +1,1 @@
+ URL : "https://github.com/coopnd/fastify-apollo/issues/1" TITLE : missing license file BODY : package.json says it's mit, but there is no mit license in the repo.

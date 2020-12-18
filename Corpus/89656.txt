@@ -1,0 +1,1 @@
+ URL : "https://github.com/pelagios/recogito2/issues/397" TITLE : recogito right now widget BODY : a small widget on the splash page that displays minimal activity stats: - no. of total annotations - no. of edits today - no. of total users - maybe time since last edit?

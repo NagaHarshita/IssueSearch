@@ -1,0 +1,1 @@
+ URL : "https://github.com/dalelotts/angular-bootstrap-datetimepicker/issues/396" TITLE : clear selected date BODY : hi, is there any way to clear the selected date? other datepickers implement a clear button that can be enabled in the options. is there any plan to include this? thanks

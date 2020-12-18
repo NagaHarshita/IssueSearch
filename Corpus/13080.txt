@@ -1,0 +1,1 @@
+ URL : "https://github.com/bsyk/cf-letsencrypt/issues/13" TITLE : support cf diego BODY : add support for cloud foundry diego containers. would need to detect if app is diego enabled, then change approach for checking/reading files as diego removes the cf files command and introduces cf ssh commands.

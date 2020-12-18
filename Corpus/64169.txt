@@ -1,0 +1,1 @@
+ URL : "https://github.com/facebookincubator/Battery-Metrics/issues/13" TITLE : fix sample app for <= o BODY : i recently changed the sample app's minimal version to be 15 but didn't update the logo or code accordingly. need to adjust those, and address lint.

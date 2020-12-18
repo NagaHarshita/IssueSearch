@@ -1,0 +1,1 @@
+ URL : "https://github.com/gonzalo-bulnes/dredd-rack/issues/40" TITLE : support swagger files BODY : the underlying dredd library now supports validation swagger files. can this functionality be exposed in dredd-rack?

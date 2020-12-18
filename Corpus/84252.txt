@@ -1,0 +1,5 @@
+ URL : "https://github.com/TeamDat/abacus/issues/26" TITLE : create loading animations BODY : story/task details
+- add loading animation for file upload
+- add loading animation for conversion acceptance scenarios
+- given: - when:
+- then: done done criteria

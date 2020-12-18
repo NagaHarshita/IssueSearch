@@ -1,0 +1,1 @@
+ URL : "https://github.com/Spotifyd/spotifyd/issues/39" TITLE : amd64 binary won't execute BODY : the file simply fails with: 'no such file or directory'

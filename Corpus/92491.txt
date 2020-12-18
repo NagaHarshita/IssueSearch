@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla/calculator/issues/99" TITLE : wrong order of operations BODY : try 3+4 5... it should be 23 not 35. 3+4 5 != 3+ 4 5

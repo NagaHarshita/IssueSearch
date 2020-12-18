@@ -1,0 +1,1 @@
+ URL : "https://github.com/phpmyadmin/phpmyadmin/issues/13064" TITLE : empty enum value added BODY : when editing enum values, empty values are added when you add less then 4 . this is contrary to other forms that will ignore empty fields.

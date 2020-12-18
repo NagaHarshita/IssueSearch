@@ -1,0 +1,1 @@
+ URL : "https://github.com/Code9Developers/Integration/issues/49" TITLE : create get_role function BODY : this function will get the role of the user that is signing in employee,manager,admin . function will look something like this: function get_roles emp_id returns the role for that emp_id

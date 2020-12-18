@@ -1,0 +1,1 @@
+ URL : "https://github.com/GetSimpleCMS/GetSimpleCMS/issues/1216" TITLE : add autofill policies BODY : add <input name= q type= text autocomplete= off /> to common fields, like create folder, and others that light up annoyingly sometimes.

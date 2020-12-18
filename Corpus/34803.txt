@@ -1,0 +1,1 @@
+ URL : "https://github.com/servo/servo/issues/19394" TITLE : crash on www.bmj.com BODY : go to http://www.bmj.com/content/349/bmj.g7257 scroll down a bit. servo close without any error message.

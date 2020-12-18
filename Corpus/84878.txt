@@ -1,0 +1,1 @@
+ URL : "https://github.com/GluuFederation/community-edition-setup/issues/284" TITLE : don't index binary tokens BODY : see issue https://github.com/gluufederation/oxauth/issues/194 we have to pick either string or binary for the attribute type. if there are two different types of tokens then the only solution might be to create two different attributes.

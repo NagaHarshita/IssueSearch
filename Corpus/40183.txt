@@ -1,0 +1,1 @@
+ URL : "https://github.com/seibaby/ff3us/issues/231" TITLE : the hovering chocobo BODY : if you keep pushing the confirm button rapidly and repeatedly while riding a chocobo, the chocobo will be hovering instead of walking, as it seems like the counter/variable is reset/cleared as you release the button.

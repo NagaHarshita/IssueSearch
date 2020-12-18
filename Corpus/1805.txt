@@ -1,0 +1,1 @@
+ URL : "https://github.com/SmausJakub/heine-fluch/issues/32" TITLE : goto a cykly BODY : v tuhle chvíli se dá skákat goto všude. otázkou je, jestli to nezakázat do cyklů. for cyklus by to položilo určitě, kdybychom skočili doprostřed bez inicializace. idee?

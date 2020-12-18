@@ -1,0 +1,1 @@
+ URL : "https://github.com/vanilla-framework/vanilla-framework/issues/1478" TITLE : max-width breaks alignment BODY : setting the max-width on p's and heading's is breaking the central alignment.

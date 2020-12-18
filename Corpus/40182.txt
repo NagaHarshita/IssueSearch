@@ -1,0 +1,1 @@
+ URL : "https://github.com/cs340tabyu/cs340Winter2017/issues/995" TITLE : the game doesn't end BODY : the game is supposed to end one turn after any player has three or less trains. we were able to go three turns past that point and the game never ended.

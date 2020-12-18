@@ -1,0 +1,1 @@
+ URL : "https://github.com/graphcool/feature-requests/issues/313" TITLE : deeper nested mutations BODY : i have a use case for nesting create mutations one level deeper than the current limit of 3 levels down from the outer mutation. it would be great if i could do a single mutation to create my hierarchy rather than having to split the operation across multiple mutations.

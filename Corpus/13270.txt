@@ -1,0 +1,1 @@
+ URL : "https://github.com/YABhq/Quarx/issues/77" TITLE : this is correct? BODY : public function apilist request $request { if config::get 'quarx.api-key' != $request->header 'quarx' { return quarxresponseservice::apiresponse 'error', ; } return $this->imagesrepository->apiprepared ; return quarxresponseservice::apiresponse 'success', $images ; } twice return?

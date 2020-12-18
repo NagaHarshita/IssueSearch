@@ -1,0 +1,1 @@
+ URL : "https://github.com/samuraiseoul/test/issues/24" TITLE : contact name search BODY : when searching from search box on home page or from second box on accounts page, should be able to search by contact name or company. the name search is only working for first name searches rather than first or last name.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/radical-cybertools/radical.pilot/issues/1414" TITLE : cleanup needs checking BODY : 1407 mentioned that cleanup does not work as expected. i assume the cleanup flags require some consolidation in general tbh.

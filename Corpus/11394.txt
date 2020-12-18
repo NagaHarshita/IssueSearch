@@ -1,0 +1,1 @@
+ URL : "https://github.com/semantalytics/xsparql/issues/16" TITLE : guessing for uri BODY : the program guesses wrong whether an object is to be inserted as uri. example: http:\\my.com link to my site will be converted to <http:\\my.com link to my site>, thus making the output turtle file incorrect.

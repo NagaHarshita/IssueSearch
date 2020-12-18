@@ -1,0 +1,1 @@
+ URL : "https://github.com/shoutem/ui/issues/340" TITLE : issues with expo 24 BODY : _expo.font.style is not a function after installing this package on expo 24 i get the error above

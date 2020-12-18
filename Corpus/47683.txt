@@ -1,0 +1,1 @@
+ URL : "https://github.com/Whiley/WhileyTheoremProver/issues/129" TITLE : problem with arridx_i BODY : the following does not verify: assert: forall int i, int xs : if: xs i > 0 then: i >= 0 && i < |xs| the problem is the term i < |xs| .

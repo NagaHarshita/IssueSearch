@@ -1,0 +1,1 @@
+ URL : "https://github.com/CenterForDigitalHumanities/TPEN28/issues/327" TITLE : line preview lines are off BODY : the order of these lines is not in sync with the rtl order displayed in the interface. when clicking to navigate in these lines, it loads to incorrect lines. the line number and text displayed with that line is incorrect.

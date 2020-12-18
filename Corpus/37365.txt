@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/PTVS/issues/2942" TITLE : lxml code completion BODY : i am trying to use lxml package to parse xml file. simple code work well in interpreter. but, code completion does not show anything about package. from lxml import etree etree.parse path ' how can i solve this problem?

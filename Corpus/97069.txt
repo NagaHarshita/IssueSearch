@@ -1,0 +1,1 @@
+ URL : "https://github.com/Nagasaki45/krihelinator/issues/165" TITLE : fix language history for f BODY : getting http://krihelinator.xyz/languages-history?languages= f result in :bad_request and error 400.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/lpereira/hardinfo/issues/161" TITLE : dmi field names BODY : @lpereira, why does version need 0, but name and vendor do not? https://github.com/bp0/hardinfo/blob/53d6a6031671b3be66d9aa14cc4ba40511f28351/modules/devices/dmi.c l38

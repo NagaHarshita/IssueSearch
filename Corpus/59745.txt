@@ -1,0 +1,1 @@
+ URL : "https://github.com/bwmarrin/discordgo/issues/463" TITLE : use a faster json lib? BODY : i was wondering if it would be worth using this. https://github.com/json-iterator/go

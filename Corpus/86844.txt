@@ -1,0 +1,1 @@
+ URL : "https://github.com/bushig/webmtube/issues/5" TITLE : improve screamer analysis BODY : don't use constant probability like 0, 0.50, 0.75, 1, but use dynamic scale like from null no sound , to 1.0 100% sure its screamer . read more on sound theory.

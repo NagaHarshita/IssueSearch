@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpenLiberty/open-liberty/issues/402" TITLE : add stop command to readme BODY : i really like the simple instructions which help one get up and running quickly. assuming it's correct, can you add the stop command to the readme file? mvn liberty:stop-server tia, carl

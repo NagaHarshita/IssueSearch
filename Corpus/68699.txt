@@ -1,0 +1,1 @@
+ URL : "https://github.com/Azure/aspnet-redis-providers/issues/86" TITLE : sessionid is not unique BODY : we are experiencing sporadic issues where the sessionid is not unique and redis session provider is getting information from a different session. has any one seen this? it's azure hosted web site with azure redis cache.

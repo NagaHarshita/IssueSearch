@@ -1,0 +1,1 @@
+ URL : "https://github.com/didierClin/forkids/issues/10" TITLE : add profile class BODY : attributes: - lastname - firstname - birth_date - gender - street - city - postcode - country

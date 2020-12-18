@@ -1,0 +1,1 @@
+ URL : "https://github.com/BillyZac/build-monitor/issues/20" TITLE : put now alias in the code BODY : currently there's no way to know which now deployment is aliased to https://build-monitor.now.sh/. use now.json or whatever their config is to track this in source, and in version control.

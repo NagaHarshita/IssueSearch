@@ -1,0 +1,1 @@
+ URL : "https://github.com/maldrasen/jadefire/issues/48" TITLE : implement hasskill concern BODY : i started on this a while back, but shelved it until we were ready to execute actions. now we need to actually implement the concern so that characters can have skills.

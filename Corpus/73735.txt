@@ -1,0 +1,1 @@
+ URL : "https://github.com/chrisjenx/Calligraphy/issues/405" TITLE : default font not applied BODY : i tried using calligraphy globally without setting the fontpath or anything in textviews, it just doesn't work. the sample project defaults to roboto. i'm on android 7.1.2 on a nexus 5x.

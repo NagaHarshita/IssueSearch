@@ -1,0 +1,1 @@
+ URL : "https://github.com/sheerun/vim-polyglot/issues/179" TITLE : elixir defmodule name colr BODY : color highlight for module name in defmodule is the same as defmodula and do after it, it shouldn't work like that: <img width= 633 alt= zrzut ekranu 2017-01-26 16 39 51 src= https://cloud.githubusercontent.com/assets/7414533/22337915/63f81a4a-e3e6-11e6-922c-e1dc02c2be97.png >

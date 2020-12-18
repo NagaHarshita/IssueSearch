@@ -1,0 +1,1 @@
+ URL : "https://github.com/iocage/iocage/issues/16" TITLE : iocage missing manpage BODY : after installing the new py-iocage, i wanted to check how the syntax matched iocage-legacy, so i went straight for man iocage . unfortunately, no such man page exists yet.

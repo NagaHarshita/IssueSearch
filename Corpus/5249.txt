@@ -1,0 +1,1 @@
+ URL : "https://github.com/apertureless/npm-stats/issues/14" TITLE : move to nuxtjs BODY : i guess it would be a good idea to refactor npm-stats to nuxtjs to utilize ssr

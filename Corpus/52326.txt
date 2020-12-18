@@ -1,0 +1,1 @@
+ URL : "https://github.com/mattlangford/kd_tree/issues/1" TITLE : checks near the bounds BODY : i think the main issue here is that once the closest node is found, you have to make sure that there isn't a closer node on the other side of the hyperplanes that may be near to it.

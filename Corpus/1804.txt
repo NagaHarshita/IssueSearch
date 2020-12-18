@@ -1,0 +1,1 @@
+ URL : "https://github.com/XOSP-Project/android_system_tools_aidl/issues/1" TITLE : got an error BODY : when i try to run runtest.sh, i got an error like this > you need to source and lunch before you can use this script anyone knows something about that ?

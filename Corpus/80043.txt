@@ -1,0 +1,1 @@
+ URL : "https://github.com/72Fest/72FestHybridApp/issues/62" TITLE : swap out forever for pm2 BODY : forever seems to be causing the app the work strangely. after testing pm2 it seems like a better option all around.

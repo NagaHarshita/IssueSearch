@@ -1,0 +1,1 @@
+ URL : "https://github.com/timmolter/XChange/issues/1906" TITLE : bittrex ohlc data BODY : i check the api, there is no method to get bittrex ohlc data based on the resolution 1 min, 3 min, 5 min or 30min .

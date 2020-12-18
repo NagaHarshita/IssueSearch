@@ -1,0 +1,1 @@
+ URL : "https://github.com/sysown/proxysql/issues/1205" TITLE : wiki doc on thread model BODY : we'd love to see a writeup on how the thread model works in proxysql.

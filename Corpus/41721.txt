@@ -1,0 +1,1 @@
+ URL : "https://github.com/omarchaeopteryx/goatogether/issues/61" TITLE : add dynamic time zone BODY : tbd. currently tweets and journeys saved to db are both in utc.

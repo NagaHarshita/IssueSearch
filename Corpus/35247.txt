@@ -1,0 +1,1 @@
+ URL : "https://github.com/lewagon/dotfiles/issues/21" TITLE : disable zsh globbing BODY : adding setopt no_nomatch to the zshrc disable zsh globbing

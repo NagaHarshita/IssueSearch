@@ -1,0 +1,1 @@
+ URL : "https://github.com/kba/hocrjs/issues/8" TITLE : height is wrong BODY : root element is not 100vh but more like double. need to investigate position / height .

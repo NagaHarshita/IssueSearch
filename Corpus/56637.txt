@@ -1,0 +1,1 @@
+ URL : "https://github.com/ipfs-shipyard/station/issues/534" TITLE : no way to quit station BODY : 32 introduced a way to quit station in the gui but with the redesign there no longer seems to be a means to do this. unless i'm missing something, the ipfs node can be stopped but station cannot be quit from within the ui. /cc @diasdavid

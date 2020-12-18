@@ -1,0 +1,1 @@
+ URL : "https://github.com/tpearce01/ICS168/issues/3" TITLE : bugs that need fixing BODY : explosion - sometimes destroys 2 destructible walls instead of just the first one it touches randomizing walls - walls spawn where players spawn, need to give players space

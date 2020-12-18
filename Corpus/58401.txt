@@ -1,0 +1,1 @@
+ URL : "https://github.com/Software-Incubator/DirectMeWeb/issues/5" TITLE : show the network state BODY : our intended audience will loose their internet connection often. we will need to notify them when this happens and keep trying to connect again. could use https://github.com/hubspot/offline for the same.

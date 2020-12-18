@@ -1,0 +1,1 @@
+ URL : "https://github.com/rh-lab-q/remote-dependency-solving/issues/107" TITLE : build on latest fedora BODY : a lot of time has passed since the last time someone tried to build this project on fedora so it would be good to check this out and make adjustments so that it can be built on the latest fedora

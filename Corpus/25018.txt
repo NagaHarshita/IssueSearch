@@ -1,0 +1,1 @@
+ URL : "https://github.com/V-labs/VlabsMediaBundle/issues/50" TITLE : update to symfony3 BODY : because of the requirement for knplabs/knp-gaufrette-bundle v0.1.7 it's impossible to update to symfony 3 with this bundle. if we can update the requirement to knplabs/knp-gaufrette-bundle ^0.3.0 it should work

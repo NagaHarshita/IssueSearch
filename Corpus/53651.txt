@@ -1,0 +1,1 @@
+ URL : "https://github.com/Oeyvind/featexmod/issues/41" TITLE : envelope filter as udo BODY : make all exponential average filters into udos opcode envelopefilter, k, kkk xin kin, krise, kfall ka = 0.001^ 1/ krise kr kb = 0.001^ 1/ kfall kr kout init 0 kout = kin>kout? kin+ ka kout-kin : kin+ kb kout-kin xout kout endop

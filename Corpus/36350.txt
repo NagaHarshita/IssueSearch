@@ -1,0 +1,1 @@
+ URL : "https://github.com/lmfaoown/DarkBetrayal/issues/23" TITLE : gunner stat mismatch BODY : gunners damage currently do not scale off of magic boost/magic accuracy. it thinks it's a physical class.

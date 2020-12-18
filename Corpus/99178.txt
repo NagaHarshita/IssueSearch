@@ -1,0 +1,1 @@
+ URL : "https://github.com/nodejs/citgm/issues/444" TITLE : mark vinyl-fs as non-flaky BODY : we recently discovered a regression on streams https://github.com/nodejs/node/pull/13850 in the 8 line and readable-stream 2.3.1 , that we would have caught if this module was added. what can we do to mark it as non-flaky anymore? cc @phated

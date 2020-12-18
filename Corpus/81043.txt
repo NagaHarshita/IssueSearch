@@ -1,0 +1,1 @@
+ URL : "https://github.com/ballerinalang/plugin-intellij/issues/405" TITLE : variable reference issue BODY : message response = http:clientconnector.get con, /hello , null ; string payload = messages:getstringpayload response ; when we click on the response in the function invocation, it does not get hightlighted.

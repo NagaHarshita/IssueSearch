@@ -1,0 +1,1 @@
+ URL : "https://github.com/gorhill/uBlock/issues/2603" TITLE : file-scheme default block BODY : when opening local files in the browser .htm and such , i added this rule to block any remote request: file-scheme block i suggest adding this as a _default dynamic_ because it's a good security/privacy measure. plus it'll foster awareness of file-scheme to users.

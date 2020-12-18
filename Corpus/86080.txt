@@ -1,0 +1,1 @@
+ URL : "https://github.com/debops/ansible-logrotate/issues/5" TITLE : global compress parameter BODY : it could be useful to be able to globally switch off logs compression - for example when your filesystems with logs are already being compressed.

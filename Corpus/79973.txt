@@ -1,0 +1,1 @@
+ URL : "https://github.com/docker/docker-py/issues/1438" TITLE : support get service logs BODY : support get service logs /v1.25/services/{id}/logs https://docs.docker.com/engine/api/v1.25/ operation/servicelogs api call. when working with swarm this is by far the best feature of 1.25

@@ -1,0 +1,1 @@
+ URL : "https://github.com/kaangoksal/tunnel_server/issues/3" TITLE : cleanup thread management! BODY : thread management looks like a mess, create new classes to make it more agile, also think about the structure for the future

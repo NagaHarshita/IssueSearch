@@ -1,0 +1,6 @@
+ URL : "https://github.com/millerp/chamados/issues/181" TITLE : chamado 1673110 BODY : dados do chamado
+| gravidade | urgência | tendência | gut |
+|-----------|----------|-----------|-----|
+| 5 | 5 | 5 | 125 | criação : 298 - marcelo manuel quádrio raposo - 04/11/2016 17:15:21 descrição do chamado :
+quando o usuário fecha o terminal em uma data depois da data da abertura do terminal, o sistema grava o valor de entrada no cofre no dia da abertura do terminal e não na data em que o fechamento realmente ocorre. precisamos mudar esse comportamento, trazendo o movimento para o dia em que realmente ocorre o fechamento do terminal. descrição da tarefa
+\ espaço destinado às especificações/requisitos da tarefa levantados durante a análise

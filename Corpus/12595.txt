@@ -1,0 +1,1 @@
+ URL : "https://github.com/SUSE/DeepSea/issues/781" TITLE : python 3 support BODY : in the near future, linux distributions are likely to either deprecate or drop support for python 2. we should ensure that deepsea has been properly ported and tested on python 3. new development should be done with python 3 support in mind.

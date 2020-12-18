@@ -1,0 +1,1 @@
+ URL : "https://github.com/AlexLittlejohn/ALTextInputBar/issues/44" TITLE : repeated check for nil BODY : altextview -> updatesize -> if textviewdelegate != nil { textviewdelegate?.textviewheightchanged textview: self, newheight:expectedheight } operator ? internally checks for nullability. sorry cannot push pull request.

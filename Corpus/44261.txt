@@ -1,0 +1,1 @@
+ URL : "https://github.com/astorm/pestle/issues/183" TITLE : error in menu command BODY : $ pestle.phar magento2:generate:menu module name? pulsestorm_hellogenerate pulsestorm_pestleform no such function input imported for namespace pulsestorm\magento2\cli\magento2\generate\menu alans-macbook-pro:project-community-edition alanstorm$

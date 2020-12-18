@@ -1,0 +1,1 @@
+ URL : "https://github.com/couchbase/sync-gateway-ami/issues/1" TITLE : disable guest access BODY : after walking through this w/ @hodgreeley and @rajagp, realized that guest access was enabled by default in the sync gateway config

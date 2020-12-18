@@ -1,0 +1,1 @@
+ URL : "https://github.com/strykeforce/grapher/issues/3" TITLE : grapher y axis BODY : when you use the y axis configuration button to change the y axis legend, the legends from all axis print out on top of each other. say for example you want to change the number of decimal places. if you just changes the end points on the legend itself, everything works fine.

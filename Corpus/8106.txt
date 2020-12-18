@@ -1,0 +1,1 @@
+ URL : "https://github.com/JuliaDiffEq/OrdinaryDiffEq.jl/issues/118" TITLE : more rk methods BODY : http://runge.math.smu.edu/arkode_dev/doc/guide/build/html/butcher.html see euler-heun method. adaptive order 2. owren-zennaro http://epubs.siam.org/doi/pdf/10.1137/0913084 efficient in terms of interpolation error. could become a standard method.

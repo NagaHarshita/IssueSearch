@@ -1,0 +1,14 @@
+ URL : "https://github.com/andybotting/xbmc-addon-abc-iview/issues/2124" TITLE : end-user bug report BODY : automatic bug report from end-user. environment plugin name: abc iview plugin id: plugin.video.abc_iview plugin version: 1.7.6 xbmc/kodi version: 17.1-rc1 python version: 2.7.9 default, aug 13 2016, 18:15:29 gcc 4.9.2 operating system: linux2 linux 4.4.27-7-osmc armv7l ip address: 115.187.228.177 isp : unknown lookup failure python path: /home/osmc/.kodi/addons/plugin.video.abc_iview
+/home/osmc/.kodi/addons/script.common.plugin.cache/lib
+/home/osmc/.kodi/addons/script.module.beautifulsoup/lib
+/usr/lib/python2.7
+/usr/lib/python2.7/plat-arm-linux-gnueabihf
+/usr/lib/python2.7/lib-tk
+/usr/lib/python2.7/lib-old
+/usr/lib/python2.7/lib-dynload
+/usr/local/lib/python2.7/dist-packages
+/usr/lib/python2.7/dist-packages
+/usr/lib/python2.7/dist-packages/pilcompat
+/usr/lib/python2.7/dist-packages/gtk-2.0
+/home/osmc/.kodi/addons/plugin.video.abc_iview/resources/lib traceback traceback most recent call last : file /home/osmc/.kodi/addons/plugin.video.abc_iview/resources/lib/categories.py , line 34, in make_category_list iview_config = comm.get_config file /home/osmc/.kodi/addons/plugin.video.abc_iview/resources/lib/comm.py , line 87, in get_config iview_config = fetch_url config.config_url file /home/osmc/.kodi/addons/plugin.video.abc_iview/resources/lib/comm.py , line 74, in fetch_url raise fail_exception
+httperror: http error 503: service unavailable full xbmc.log https://gist.github.com/2a99c9bae8d98f08bac8712f89111ae1

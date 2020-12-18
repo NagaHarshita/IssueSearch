@@ -1,0 +1,1 @@
+ URL : "https://github.com/cmdrmcdonald/EliteDangerousDataProvider/issues/194" TITLE : new-ish events not working BODY : triggering a voiceattack command using the journal files eddi <event name> doesn't work with the new-ish event like jetconeboost .

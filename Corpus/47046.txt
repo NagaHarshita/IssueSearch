@@ -1,0 +1,1 @@
+ URL : "https://github.com/ArtixAllMighty/Telepads2016/issues/18" TITLE : no recipe for toggler BODY : telepads-1.12-1.0.2.3.jar there is no recipe in jei for the toggler. when i enter the recipe from the wiki, it gives me a transmitter. i think this is the problem, in assets/telepads/recipes/toggler.json result : { item : telepads:transmitter } should be item : telepads:toggler

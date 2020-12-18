@@ -1,0 +1,1 @@
+ URL : "https://github.com/awesomemotive/wp-mail-smtp/issues/32" TITLE : optin for tracking BODY : what we actually need: - php version used on a site - mailer option value this info will help us define php features that we can use and the statistics of mailer smtp, mail, or any custom future smtp services, like sendgrid/mailpoet etc @jaredatch what do you think?

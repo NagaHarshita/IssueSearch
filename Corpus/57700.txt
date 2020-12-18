@@ -1,0 +1,1 @@
+ URL : "https://github.com/wavebeem/pkmn.help/issues/26" TITLE : redux action creators? BODY : these hand-crafted redux actions are tedious, let's pull in a library to help

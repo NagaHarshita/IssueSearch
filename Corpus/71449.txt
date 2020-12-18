@@ -1,0 +1,1 @@
+ URL : "https://github.com/primefaces/primeng/issues/2186" TITLE : add key to confirmdialog BODY : to be able use multiple confirm dialogs otherwise they all open.

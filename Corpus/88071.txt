@@ -1,0 +1,1 @@
+ URL : "https://github.com/chadalen/astraeus/issues/37" TITLE : mixed java/kotlin plugins BODY : reincorporate kotlin back into the project without any mixed java/kotlin build errors.

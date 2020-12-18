@@ -1,0 +1,1 @@
+ URL : "https://github.com/paritytech/parity/issues/6218" TITLE : parity --trace on BODY : when i run 'parity' in default to the latest date and modify to run 'parity --pruning archive --tracing on ', it report 'tracedb resync required'. how can i resync tracedb? or when i open 'trace on', must i run in the full data model?

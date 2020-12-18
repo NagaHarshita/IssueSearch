@@ -1,0 +1,1 @@
+ URL : "https://github.com/ScorpIan555/e-Commerce/issues/5" TITLE : need to build out testing BODY : need to circle back, the preference is to use postman for api testing, augmented by rspec where desired. currently having issues implementing postman with rails. it was easier in node/express stack, probably just need to dig in some more?

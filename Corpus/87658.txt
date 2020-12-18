@@ -1,0 +1,1 @@
+ URL : "https://github.com/lneuhaus/pyrpl/issues/324" TITLE : macosx binary not working BODY : error message: this application failed to start because it could not find or load the qt platform plugin cocoa in . reinstalling the application may fix this problem. abort trap: 6

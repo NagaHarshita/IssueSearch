@@ -1,0 +1,1 @@
+ URL : "https://github.com/Tkanos/kafka-consumer/issues/4" TITLE : architecture the producer BODY : architecture the producer, even if the producer is just there to show that the consumer works, it's good to have a beautiful producer as well.

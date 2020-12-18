@@ -1,0 +1,1 @@
+ URL : "https://github.com/matrix-org/go-neb/issues/192" TITLE : add circleci integration BODY : a lot of people use circleci.com instead of travis, and it would be helpful for those people to have a circleci integration! they should have a webhook api like travis so it shouldn't be too hard to add.

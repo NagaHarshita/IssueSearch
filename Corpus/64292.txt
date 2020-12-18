@@ -1,0 +1,1 @@
+ URL : "https://github.com/cursey/kanan/issues/170" TITLE : fov script not working? BODY : all the scripts seem to be working fine but i didn't notice any difference in the fov with the fovchange script, so to test it out, i set the fov in the script all the way down to 50, to try and see a big difference, and no change. is the script broken?

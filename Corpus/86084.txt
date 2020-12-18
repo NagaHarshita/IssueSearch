@@ -1,0 +1,1 @@
+ URL : "https://github.com/uzh-rpg/rpg_svo/issues/216" TITLE : global or rolling shutter BODY : hello guys i'm trying to implement svo 2.0 in an robot with v2 camera module of raspberry pi 3 the thing is that this camera is with a rolling shutter so is that possible ? because in the guide they said be sure of using a global shutter camera

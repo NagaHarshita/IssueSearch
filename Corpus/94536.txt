@@ -1,0 +1,1 @@
+ URL : "https://github.com/SAMBugs/Bugs/issues/55" TITLE : carga de carro : secuencia BODY : al agregar un nuevo registro nuevo numero de control ! imagen https://user-images.githubusercontent.com/24903990/32516865-5c5e4e98-c3ca-11e7-865d-596a8b714798.png el registro se inserta abajo, en lugar de arriba

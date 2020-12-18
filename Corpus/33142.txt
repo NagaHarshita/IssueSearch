@@ -1,0 +1,1 @@
+ URL : "https://github.com/torn8o/Home-AssistantConfig/issues/1" TITLE : add a !secret entry. BODY : your sonarr.yaml file lists your ddns name. you might want to change that to a !secret entry to prevent the world from seeing. but thanks for sharing your config. lots of good suggestions here.

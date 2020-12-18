@@ -1,0 +1,1 @@
+ URL : "https://github.com/devopsdays/devopsdays-cli/issues/54" TITLE : create removetalk function BODY : removes a talk from the event, not from the program. or does it do either depending upon flag? if this is the only talk for a speaker in the event, should prompt to see if user wants to remove the speaker from the event as well.

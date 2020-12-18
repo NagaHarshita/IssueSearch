@@ -1,0 +1,1 @@
+ URL : "https://github.com/hiratake55/RForcecom/issues/64" TITLE : sso okta connection BODY : how would one go about connecting to sf if there is a single sign on login? getting this with regular passwordtoken error in rforcecom.login username, pass_token : invalid_login: invalid username, password, security token; or user locked out.

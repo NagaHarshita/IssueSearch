@@ -1,0 +1,1 @@
+ URL : "https://github.com/silverandfire/colmar/issues/3" TITLE : simplify: empty divs BODY : https://github.com/silverandfire/colmar/blob/master/index.html l26 there's no need to include an empty div. if you need to create filler space, try using <br> tags instead

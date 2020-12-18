@@ -1,0 +1,1 @@
+ URL : "https://github.com/AzureAD/azure-activedirectory-identitymodel-extensions-for-dotnet/issues/859" TITLE : expand support for keyinfo BODY : current support for keyinfo is limited to x509data. securitytokenreference is used for thumbprints others may be useful such as subject, etc... see https://www.w3.org/tr/2001/pr-xmldsig-core-20010820/ sec-keyinfo for additional types.

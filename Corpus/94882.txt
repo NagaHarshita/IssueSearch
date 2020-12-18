@@ -1,0 +1,1 @@
+ URL : "https://github.com/SURFscz/SCZ-deploy/issues/11" TITLE : comanage sso werkt te goed BODY : bij uitloggen en opnieuw inloggen in comanage wordt er geen nieuwe sso-login getriggerd. het lijkt alsof de sessie van mod_mellon op de comanage host nog actief blijft, zelfs als je actief uitlogt. niet handig.

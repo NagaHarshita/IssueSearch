@@ -1,0 +1,1 @@
+ URL : "https://github.com/termux/termux-app/issues/352" TITLE : unable to start psql? BODY : i have installed postgres & contrib packages. psql fails with otus:/ psql psql: could not connect to server: no such file or directory is the server running locally and accepting connections on unix domain socket /data/data/com.termux/files/usr/tmp//.s.pgsql.5432 ?

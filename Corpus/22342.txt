@@ -1,0 +1,1 @@
+ URL : "https://github.com/pulibrary/orangelight/issues/880" TITLE : js console warning BODY : cdn.mathjax.org/mathjax/latest/mathjax.js?config=tex-mml-am_chtml:32 warning: cdn.mathjax.org has been retired. check https://www.mathjax.org/cdn-shutting-down/ for migration tips. replacescript	@	cdn.mathjax.org/mathjax/latest/mathjax.js?config=tex-mml-am_chtml:32

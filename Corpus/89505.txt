@@ -1,0 +1,1 @@
+ URL : "https://github.com/developit/express-es6-rest-api/issues/39" TITLE : question about middleware BODY : hi, can you give me an example of how to use a middleware, for example i have a route '/users' and i have a middleware to restrict access to that route, should i configure it in 'middleware/index.js' ? how can i set that middleware only for that route? thanks

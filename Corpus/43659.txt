@@ -1,0 +1,1 @@
+ URL : "https://github.com/princefr/Fuse.Signature/issues/2" TITLE : data issue not found? BODY : i'm having a little problem using this on fuse. i keep getting {data} not found in data context on this downloaded file. i can't draw on it as is either. in my own project i integrated this into i get the error: data type not found: native.signature

@@ -1,0 +1,1 @@
+ URL : "https://github.com/CoolerVoid/0d1n/issues/31" TITLE : save log in html format BODY : hello pro with this command line sudo ./0d1n --host http://www.localhost/-locations.jsp?sort=^ --payloads payloads/xss_robertux.txt --log log123test --save_response the log is saved in texte format hos to save the log in html format

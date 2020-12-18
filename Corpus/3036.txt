@@ -1,0 +1,1 @@
+ URL : "https://github.com/eiriklv/react-masonry-component/issues/90" TITLE : how to build? BODY : i'm trying to do a standalone amd build of this repo. i notice you include webpack in devdependencies but not the webpack.config.js . do you have a build configuration you could include?

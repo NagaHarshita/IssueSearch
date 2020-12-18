@@ -1,0 +1,1 @@
+ URL : "https://github.com/commercialhaskell/intero/issues/432" TITLE : can't load .emacs BODY : the .emacs from https://commercialhaskell.github.io/intero/ leads to error: package emacs-24.4' is unavailable . this opensuse machine has 24.3 and upgrading would be a can of worms according to the admin. does that dependency need to be hard?

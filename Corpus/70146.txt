@@ -1,0 +1,1 @@
+ URL : "https://github.com/urbinn/urbinn/issues/130" TITLE : urb point cloud tekenen BODY : de world coordinates van de frame points van een keyframe in urb plotten in een 3d scatter graph. de plot uitbreiden met verschillende keyframes zodat een grotere point cloud ontstaat. er staat een eerste begin op de server: /data/urbinn/notebooks/urb/sequence2811/plot_pointcloud.ipynb

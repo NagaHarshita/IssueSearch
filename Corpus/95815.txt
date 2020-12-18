@@ -1,0 +1,1 @@
+ URL : "https://github.com/aleksandr-m/gitflow-maven-plugin/issues/67" TITLE : do some task before finish BODY : is there a way to do some task before finish? like i want to create a docker image with the version as image tag and push to my repository and then do a push new version to develop . how can i do that?

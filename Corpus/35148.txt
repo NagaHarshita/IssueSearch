@@ -1,0 +1,1 @@
+ URL : "https://github.com/nodejs/build/issues/977" TITLE : delete unused labels BODY : there a few labels that have zero open or closed issues attached to them, would like to delete if okay, especially the ctc ones: - benchmarking-review 0e8a16 - ctc-agenda d4c5f9 - ctc-review fef2c0 - duplicate cccccc - wontfix ffffff

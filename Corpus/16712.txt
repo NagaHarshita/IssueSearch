@@ -1,0 +1,1 @@
+ URL : "https://github.com/xkjyeah/vue-google-maps/issues/249" TITLE : local dev testing BODY : what do you do for monitoring your local changes for development? i believe i am missing something as far as hmr and local dev goes to make changes and check if things are working correctly without having to rebuild everything every time.

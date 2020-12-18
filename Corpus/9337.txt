@@ -1,0 +1,1 @@
+ URL : "https://github.com/vatolinrp/bitcoin-esb/issues/10" TITLE : use osgi plugin BODY : why didn't you use gradle's osgi plugin and populate manifests by hands in all the projects?

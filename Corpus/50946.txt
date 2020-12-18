@@ -1,0 +1,1 @@
+ URL : "https://github.com/resin-io/landr/issues/22" TITLE : add github-api plugin. BODY : this will check the cwd for a github remote, and then query their public api, for info about the repo. -> contributors, -> stats, -> license, -> releases. nb, things that don't change with the git history should remain client side and not pulled at build time, eg. issues.

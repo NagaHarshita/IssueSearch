@@ -1,0 +1,1 @@
+ URL : "https://github.com/StyrofoamLaser/StyroBotPy/issues/41" TITLE : add usage command to bot BODY : also update current help text when you do a command incorrectly to show the command's usage. !usage t send - using the plugin's short tag !usage troll send - using the plugin's tag !usage join

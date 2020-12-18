@@ -1,0 +1,1 @@
+ URL : "https://github.com/Gadgetoid/Pinout.xyz/issues/198" TITLE : zero lipo doesn't need 5v BODY : https://pinout.xyz/pinout/zero_lipo details made by pimoroni 8 pin header needs 5v power uses 1 gpio pins more information buy now it doesn't need 5v - it provides 5v stepped up from lipo battery 3.7v-4.2v

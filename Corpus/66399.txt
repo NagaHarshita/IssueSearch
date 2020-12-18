@@ -1,0 +1,1 @@
+ URL : "https://github.com/harvard-lil/perma-payments/issues/44" TITLE : models need blank=true? BODY : consider whether it would be better to add blank=true to fields with defaults. for our use, doesn't affect anything but the admin, which should be read-only anyway.

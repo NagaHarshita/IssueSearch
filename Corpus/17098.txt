@@ -1,0 +1,1 @@
+ URL : "https://github.com/nuxt-community/express-template/issues/51" TITLE : new install error BODY : hi after installing nuxt + express template and then run npm run dev , following is what i am getting. node:11558 unhandledpromiserejectionwarning: unhandled promise rejection rejection id: 1 : typeerror: app.use requires middleware functions

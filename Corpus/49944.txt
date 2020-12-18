@@ -1,0 +1,1 @@
+ URL : "https://github.com/ewoutkramer/fhir-net-api/issues/347" TITLE : use of expansions.xml BODY : verify whether our current in-mem term expander can handle all expansions in the core spec if not, consider using the expansions.xml version of these valuesets instead manually including them?

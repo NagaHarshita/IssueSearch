@@ -1,0 +1,1 @@
+ URL : "https://github.com/WorldBank-Transport/ram-backend/issues/173" TITLE : make name optional BODY : currently, the origins with population data require a name property. we should relax this and make it optional. if the name property is present, it will be used as origin name eg. village name . origins without the name property will be identified as n/a .

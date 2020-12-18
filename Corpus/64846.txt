@@ -1,0 +1,1 @@
+ URL : "https://github.com/dabeaz/curio/issues/209" TITLE : how to kill tcp server? BODY : i looked through the documentation and kernel.py but i can't find anywhere how to suspend or kill a tcp server.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/facebookincubator/create-react-app/issues/3140" TITLE : social share question BODY : hey guys. when sharing links on facebook, facebook sharer is not finding any images in my react app. i set up <code>og tags</code> dynamically after scripts load, but they get ignored. is there a way around this problem without server rendering?

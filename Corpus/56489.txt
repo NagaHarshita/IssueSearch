@@ -1,0 +1,1 @@
+ URL : "https://github.com/MC-Prison/Prison/issues/38" TITLE : new commands framework BODY : the current, annotation-based command system is restrictive and barren of any extra features other than command parsing. intelligent help and tab completion is non-existent. the new command framework will be planned here.

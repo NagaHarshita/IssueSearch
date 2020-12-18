@@ -1,0 +1,1 @@
+ URL : "https://github.com/mochajs/mocha/issues/3060" TITLE : passing flags to node.js BODY : i can't figure out a way to pass the --expose-http2 flag to node. i would like to be able to do: mocha test.js -- --expose-http2 or mocha test.js --node-flags 'expose-http2' is this currently possible using mocha v3.2.0 ?

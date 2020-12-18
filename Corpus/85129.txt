@@ -1,0 +1,27 @@
+ URL : "https://github.com/unicef/etools-issues/issues/236" TITLE : error - budget validation BODY : this error might be connected to 135. i open an active pd, which has a planned budget. not all of the planned budget fields are filled in. i change data e.g. add a new result and hit save. i get an error message around budget fields the error message screenshot is attached. this is the data dump from the console: planned_budget
+: {id: 21, partner_contribution: 100.00 , unicef_cash: 100.00 , in_kind_amount: null,…} 0
+:
+{id: 21, partner_contribution: 100.00 , unicef_cash: 100.00 , in_kind_amount: null,…}
+currency
+:
+162
+id
+:
+21
+in_kind_amount
+:
+null
+in_kind_amount_local
+:
+null
+partner_contribution
+: 100.00 partner_contribution_local
+:
+null
+total
+: 201.00 unicef_cash
+: 100.00 unicef_cash_local
+:
+null
+year
+: 2016

@@ -1,0 +1,1 @@
+ URL : "https://github.com/healthsparq/ember-radical/issues/29" TITLE : general .close icon class BODY : summary <!-- summarize your issue here: --> add a generalized class for close icons so modals, alerts, and anything else we need it for share the same styles.

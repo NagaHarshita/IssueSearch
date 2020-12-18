@@ -1,0 +1,1 @@
+ URL : "https://github.com/kubeless/kubeless/issues/206" TITLE : clean build fails BODY : clean build fails: $ mkdir /tmp/foo $ export gopath=/tmp/foo $ go get -u github.com/kubeless/kubeless package github.com/kubeless/kubeless: no buildable go source files in /tmp/foo/src/github.com/kubeless/kubeless

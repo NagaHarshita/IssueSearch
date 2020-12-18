@@ -1,0 +1,1 @@
+ URL : "https://github.com/europeana/annotation/issues/171" TITLE : extend annotations api BODY : implemented wwi annotations. create test for annotation with transcription motivation. implement image annotations.

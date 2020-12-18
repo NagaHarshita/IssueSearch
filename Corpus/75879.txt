@@ -1,0 +1,1 @@
+ URL : "https://github.com/CheesecakeLabs/django-drf-boilerplate/issues/8" TITLE : implement docker compose BODY : - add a simple docker compose configuration to get the project up and running

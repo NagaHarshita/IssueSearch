@@ -1,0 +1,1 @@
+ URL : "https://github.com/PolymerElements/marked-element/issues/42" TITLE : line break support BODY : is there a way to have newlines for every newline in the markdown? the marked library supports the breaks and gfm options. but why aren't they exposed in marked-element ?

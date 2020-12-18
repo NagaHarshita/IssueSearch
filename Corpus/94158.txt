@@ -1,0 +1,1 @@
+ URL : "https://github.com/babel/minify/issues/739" TITLE : breaks conditional extends BODY : minify breaks code with conditional extends, such as this: export default target => class events extends target || base { } minification removes around target || base, which breaks it. the code above is used for mixins, base is an existing class

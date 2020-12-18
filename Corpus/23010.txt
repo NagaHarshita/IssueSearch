@@ -1,0 +1,1 @@
+ URL : "https://github.com/ferretcomp/mylar/issues/1" TITLE : new search feature BODY : ie: i've searched for this x times in a row, now i'm going to wait y days to try again figure out if that can be tracked - i think in sqllite. set it up to wait according. or - create a new status for comics set to that status, and after x time, revert to wanted.

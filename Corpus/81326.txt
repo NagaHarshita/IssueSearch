@@ -1,0 +1,1 @@
+ URL : "https://github.com/serverless/event-gateway/issues/219" TITLE : wild card event matching BODY : user. matches user.created , user.updated , etc

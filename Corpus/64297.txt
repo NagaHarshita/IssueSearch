@@ -1,0 +1,1 @@
+ URL : "https://github.com/DSheirer/sdrtrunk/issues/205" TITLE : fr: event view filters? BODY : would it be possible to add some filters to the event view so you could remove things like command, query, group call, telephone interconnect, etc? i know this already exists in the messages view. would it be possible to reuse some of that code?

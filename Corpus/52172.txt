@@ -1,0 +1,1 @@
+ URL : "https://github.com/valor-software/ng2-dragula/issues/570" TITLE : cant build after clone BODY : i cloned this repository to my computer and tried to build it. it gives me ng2-dragula ode_modules pm-submodules\utils\merge-package-json.js:10 const { base, module, localdependencies } = data; ^ syntaxerror: unexpected token { what to do?

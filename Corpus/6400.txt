@@ -1,0 +1,1 @@
+ URL : "https://github.com/pruje/time2backup/issues/13" TITLE : add ftp support BODY : use lftp to backup over ftp. see examples: - http://blog.snapdragon.cc/2015/07/13/incremental-ftp-backups/ - http://linux.overshoot.tv/wiki/networking/lftp_backup_and_mirroring

@@ -1,0 +1,1 @@
+ URL : "https://github.com/nero19960329/DIPSoftware/issues/1" TITLE : project file missing BODY : dipsoftware\dipsoftware.vcxproj , referred to by dipsoftware.sln , is missing from the repository. error raised: object reference not set to an instance of an object.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/deeptools/pyBigWig/issues/52" TITLE : type= sum for bw.stats BODY : hi, an additional type='sum' for bw.stats would be very useful

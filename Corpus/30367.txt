@@ -1,0 +1,1 @@
+ URL : "https://github.com/pkoretic/koa-static-server/issues/5" TITLE : pass instead of 404 BODY : it is better to pass request to the next middleware, if file not exists. i have multiple directories, and also webpack-dev-server, and i want to combine them all. but koa-static-server stops all requests.

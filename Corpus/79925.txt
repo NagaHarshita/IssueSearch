@@ -1,0 +1,1 @@
+ URL : "https://github.com/lo1tuma/eslint-plugin-mocha/issues/133" TITLE : support for eslint 4.0.0 BODY : with eslint 4.0.0 installed, the following error comes up: npm err! peerinvalid the package eslint@4.0.0 does not satisfy its siblings' peerdependencies requirements! npm err! peerinvalid peer eslint-plugin-mocha@4.9.0 wants eslint@^2.0.0 || ^3.0.0

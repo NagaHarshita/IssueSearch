@@ -1,0 +1,1 @@
+ URL : "https://github.com/mattupstate/flask-social/issues/84" TITLE : broken travis build BODY : https://travis-ci.org/mattupstate/flask-social/jobs/246424668 --use-mirrors seem to be breaking things.

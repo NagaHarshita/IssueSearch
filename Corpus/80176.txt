@@ -1,0 +1,1 @@
+ URL : "https://github.com/jonschlinkert/class-utils/issues/4" TITLE : test failure with node 8 BODY : cu.nativekeys app.constructor now returns 'length', 'name', 'prototype' instead of 'length', 'name', 'caller' .

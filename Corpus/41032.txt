@@ -1,0 +1,1 @@
+ URL : "https://github.com/SpiderLabs/ModSecurity-nginx/issues/30" TITLE : which branch to use? BODY : hi, i'm not sure which branch to use right now? my last info was the experimental branch but it seems outdated againt master. shall we switch to master? i've several segfaults with n+ and searching for a solution also on modsec_dev list thanks!

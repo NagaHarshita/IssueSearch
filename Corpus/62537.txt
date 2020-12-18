@@ -1,0 +1,1 @@
+ URL : "https://github.com/SunDwarf/OWAPI/issues/151" TITLE : configurable cache time BODY : i'd like to change the cache time to be much higher, but currently to that requires changing several source files, which prevents me from updating as smoothly i'd have to deal with merge conflicts and the like . it'd be nice if it were possible to set the cache time in the config instead.

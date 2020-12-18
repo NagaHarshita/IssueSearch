@@ -1,0 +1,1 @@
+ URL : "https://github.com/opdahlmann/ng2-opd-popup-sample/issues/14" TITLE : no close method. BODY : there ought to be a close or cancel property so that the popup can be closed in other ways besides the cancel button. i.e. this.popup,close ;

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jonzenor/MWSubmissionManager/issues/13" TITLE : make some groups hidden. BODY : some groups, such as team lead and team member are hidden. user's are not added to these groups manually, but only inherit the group's permissions if they have a certain role in a project.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Automattic/wp-e2e-tests/issues/702" TITLE : replace bluecat with wp BODY : we currently use this third party library for rest api calls: https://www.npmjs.com/package/bluecat we should be using our own node client to do the rest api stuff: https://www.npmjs.com/package/wpcom

@@ -1,0 +1,1 @@
+ URL : "https://github.com/wearelucid/vuecid-nuxt/issues/25" TITLE : focus trap not working BODY : in mobile navigation in chrome focus trap doesn't work. it only works in reverse direction with shift+tab ¯\_ ツ _/¯

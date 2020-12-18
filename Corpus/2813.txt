@@ -1,0 +1,1 @@
+ URL : "https://github.com/ArtSabintsev/Ethminer-for-macOS/issues/9" TITLE : error on make BODY : using cuda 8.0.61 on macos sierra 10.12.5 when running make -j8 i get: 61% linking cxx shared library libdevcore.dylib 61% built target devcore make: all error 2 any idea?

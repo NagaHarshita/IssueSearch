@@ -1,0 +1,1 @@
+ URL : "https://github.com/th0rex/ams/issues/12" TITLE : add nkcontext extensions BODY : we can add a trait like nkcontextextensions that groups together certain begin and end calls and maybe handles tooltips over textboxes, ... we can also implement a nkstring that wraps a string and an length field and grows the string if length == string.capacity .

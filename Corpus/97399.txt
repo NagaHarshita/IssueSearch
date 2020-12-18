@@ -1,0 +1,1 @@
+ URL : "https://github.com/billziss-gh/winfsp/issues/133" TITLE : glusterfs fuse for windows BODY : when looking at a project like glusterfs, how hard would it be to plug it into windows using this project? https://github.com/gluster/glusterfs

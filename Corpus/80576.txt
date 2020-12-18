@@ -1,0 +1,1 @@
+ URL : "https://github.com/nabijaczleweli/cargo-update/issues/45" TITLE : unable to install on mac BODY : hi i am currently working on mac, but i can not compile the openssl crate without messing up the system with homebrew... is there a way to switch to native-tls https://github.com/sfackler/rust-native-tls ?

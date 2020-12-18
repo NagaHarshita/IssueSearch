@@ -1,0 +1,1 @@
+ URL : "https://github.com/Clarifai/clarifai-python/issues/47" TITLE : resource does not exist BODY : model = app.models.get general-v1.3 outputs: > result: > {u'status': {u'code': 11101, > u'description': u'resource does not exist', > u'details': u model_id 'general-v1.3' not found. check the url of your request. }}

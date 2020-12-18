@@ -1,0 +1,1 @@
+ URL : "https://github.com/alexcrack/angular-ui-notification/issues/130" TITLE : typo error on readme BODY : in the section notification service options , at the positionx row, there is a typo in the default value, should be right instead of right note the character

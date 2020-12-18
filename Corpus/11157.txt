@@ -1,0 +1,1 @@
+ URL : "https://github.com/alexmsenger/methodendb/issues/27" TITLE : fix docker setup BODY : - create local network - add spring profile

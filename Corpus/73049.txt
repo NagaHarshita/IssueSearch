@@ -1,0 +1,1 @@
+ URL : "https://github.com/adownard/Mandelbrot/issues/17" TITLE : colour levels cyclically BODY : colour depths with a cyclic reflected colour map. e.g: red to yellow to white to yellow to red as you keep adding depth levels. this will make zoom movie less jarring.

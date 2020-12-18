@@ -1,0 +1,1 @@
+ URL : "https://github.com/martinroob/ngx-i18nsupport/issues/20" TITLE : add xliff 2.0 support BODY : starting with the newest angular release 4.0.3 the xliff 2.0 format is available. https://github.com/angular/angular/issues/11735 . we should support this too.

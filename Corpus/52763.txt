@@ -1,0 +1,1 @@
+ URL : "https://github.com/JD-666/wwsc/issues/46" TITLE : create a feedback page BODY : create a page where users can fill out a basic textarea and submit it. this will send an email to admins. perhaps also include an optional response email field where if users wish for a response we will be able to reply to that email.

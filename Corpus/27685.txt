@@ -1,0 +1,1 @@
+ URL : "https://github.com/easymock/objenesis/issues/55" TITLE : drop java 5 support BODY : it's getting old and won't be supported by java 9 tooling.

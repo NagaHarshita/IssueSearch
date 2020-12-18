@@ -1,0 +1,1 @@
+ URL : "https://github.com/williamkapke/mongo-mock/issues/29" TITLE : global leak on retval. BODY : found this while running tests in mocha.

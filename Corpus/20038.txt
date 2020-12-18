@@ -1,0 +1,1 @@
+ URL : "https://github.com/alexk111/ngImgCrop/issues/173" TITLE : base64 input image BODY : i'm grabbing my image from a users webcam and store it in $scope.newuser.photo in base64 format. i've tried using ngimgcrop but it looks like it doesn't like base64 input. does this support base64 input? how?

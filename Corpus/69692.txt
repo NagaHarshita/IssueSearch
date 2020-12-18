@@ -1,0 +1,1 @@
+ URL : "https://github.com/NIHOPA/NLPre/issues/22" TITLE : total combined unittest BODY : we need a few unittests that take in a paragraph and run through all known function of the library. it will be a pain to make the first ones, but it is essential that we make sure nothing goes wrong when we combine the functions.

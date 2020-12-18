@@ -1,0 +1,1 @@
+ URL : "https://github.com/koying/SPMC/issues/810" TITLE : 16.6.0 network files issue BODY : manually updated shield to 16.6.0 last night. i was unable to access any of my network shares or upnp devices. when selecting nothing happens, no error messages or timeouts. anyone else experienced this issue?

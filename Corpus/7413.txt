@@ -1,0 +1,1 @@
+ URL : "https://github.com/McPhysix/Spherical/issues/3" TITLE : fix touch input BODY : touch is currently not working properly. i think axis are mixed up and camera can rotate along the view vector.

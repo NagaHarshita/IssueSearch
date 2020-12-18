@@ -1,0 +1,1 @@
+ URL : "https://github.com/wavesoft/jbb/issues/7" TITLE : decode from buffer BODY : this library looks absoultly perfect for what i'm trying to do. however i'm using it in an electron application. is there any way to decode buffers sent over ipc directly into my application state instead of using url's / files ? thanks, alex

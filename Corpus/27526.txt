@@ -1,0 +1,1 @@
+ URL : "https://github.com/mcocdawc/chemcoord/issues/38" TITLE : detect point groups BODY : write wrappers for libmsym https://github.com/mcodev31/libmsym to detect point groups and/or symmetrise molecules. especially write extended cartesian class that preserves point group.

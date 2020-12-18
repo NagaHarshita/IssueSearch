@@ -1,0 +1,1 @@
+ URL : "https://github.com/Kotlin/ktor/issues/194" TITLE : complete httpbin sample BODY : currently httpbin sample is one of the best samples because it is pretty short and provides code for a lot of small how-to cases. unfortunately, not all endpoints and cases are implemented. it needs some more work to complete it.

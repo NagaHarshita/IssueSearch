@@ -1,0 +1,28 @@
+ URL : "https://github.com/cldi/CanLink/issues/157" TITLE : missing degree url BODY : the uri for m.m.s. could not be found to fix, comment below in the following format: msc http://purl.org/ontology/bibo/degrees/ms record:
+=ldr 01538cam a2200361 a 4500
+=001 99196404602511
+=005 20170330204434.0
+=008 010911s2001\\\\xx\\\\\\\b\\\\000\0\eng\d
+=035 \\$a canfsm 1522867-01mun_inst
+=035 \\$a sirsi a1522867
+=035 \\$a ocolc 49771981
+=040 \\$acanfsm$beng$ccanfsm
+=043 \\$an-cn-nf
+=100 1\$aglavine, paul lawrence,$d1975-
+=245 10$agender and the newfoundland fishery crisis :$ba re-examination of adjustment /$cby paul lawrence glavine.
+=260 \\$c2001.
+=300 \\$avii, 72 leaves.
+=336 \\$atext$btxt$2rdacontent
+=337 \\$aunmediated$bn$2rdamedia
+=338 \\$avolume$bnc$2rdacarrier
+=502 \\$athesis m.m.s. --memorial university of newfoundland, 2001.
+=504 \\$abibliography: leaves 67-70.
+=530 \\$aalso available online.
+=610 20$aatlantic groundfish strategy canada =610 20$amarine institute st. john's, n.l. .$bmarine studies programme$xdissertations.
+=610 20$anorthern cod adjustment and recovery program canada =650 \0$acod fisheries$xsocial aspects$znewfoundland and labrador.
+=650 \0$aoccupational retraining$znewfoundland and labrador.
+=650 \0$awomen fish trade workers$xvocational guidance$znewfoundland and labrador.
+=856 41$uhttp://collections.mun.ca/u?/theses3,45124
+=852 0\$822331796320002511$bmarine$cstacks$hhd6100 .n4 g5 2001
+=852 8\$822331796350002511$bcns$cmicroform$hmicro fiche 5463
+=852 8\$822331796390002511$bcns$ctheses$hthesis-request by author's name & title record file: d3e40e01ce78df83ef2b29d1064eb846.mrc

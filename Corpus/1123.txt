@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/pxt/issues/1921" TITLE : game bugs 1 BODY : microbit.org-ticket: 1286 customer has reported the following bugs with the game module: - if i create a sprite then i need two invocation of the delete statement so to remove it from the screen -

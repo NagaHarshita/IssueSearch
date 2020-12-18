@@ -1,0 +1,1 @@
+ URL : "https://github.com/jekyll/jekyll-assets/issues/396" TITLE : image tag classes. BODY : as per the spec, {% img $name %} takes key value pairs. {% img $name class= class1 class2 class3 alt:'myalt' %} however, the above generates only class=class1 and the rest as separate, meaningless attributes, class2= class3=

@@ -1,0 +1,1 @@
+ URL : "https://github.com/chandni0202/prj-rev-bwfs-dasmoto/issues/3" TITLE : span or strong, not both BODY : <strong> tags are the same thing as span tags, they just default to bold font and add semantic value to the section. you don't need both. https://github.com/chandni0202/prj-rev-bwfs-dasmoto/blob/master/dasmotosartsandcrafts/index.html l20

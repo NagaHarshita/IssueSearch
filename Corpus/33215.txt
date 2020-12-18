@@ -1,0 +1,1 @@
+ URL : "https://github.com/Del-S/WearNavigation/issues/25" TITLE : add cellular scanner BODY : create cellular scanner that will be handled when wi-fi is handled. - delays wi-fi scanner connected to: 7, 18

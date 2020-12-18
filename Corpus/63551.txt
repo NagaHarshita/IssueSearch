@@ -1,0 +1,1 @@
+ URL : "https://github.com/govCMS/govCMS8-core/issues/1" TITLE : embed video into a page BODY : as a content editor i want to embed the youtube video into a page and the video autoplay has to be disabled by default when inserting media into the wysiwyg so that people looking at my page don't get bombarded by content they haven't chosen to view

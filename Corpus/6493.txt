@@ -1,0 +1,1 @@
+ URL : "https://github.com/devCrossNet/vue-starter/issues/3" TITLE : add pwa support BODY : - add manifest + splash screens - add sw support offline-plugin or custom solution - webpack manifest in html - async script tags - dns prefetch - above the fold css???

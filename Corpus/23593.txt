@@ -1,0 +1,1 @@
+ URL : "https://github.com/mineral-ui/mineral-ui/issues/385" TITLE : publish flow types BODY : as a mineral ui consumer, i would like mineral ui to publish its flow types, so that i can take advantage of them while building my application. other considerations: flow-bin versions flow-typed repo or bundled in package

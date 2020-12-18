@@ -1,0 +1,1 @@
+ URL : "https://github.com/ethereum/solidity/issues/3045" TITLE : rename address to account BODY : deprecate the address type and replace it with the account type. abi signature must still use address . from https://www.pivotaltracker.com/story/show/98274220

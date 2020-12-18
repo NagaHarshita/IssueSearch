@@ -1,0 +1,1 @@
+ URL : "https://github.com/topepo/rsample/issues/21" TITLE : nested resampling vingette BODY : per topepo/caret 70, add a simple example of the analysis of nested resampling as a vignette.

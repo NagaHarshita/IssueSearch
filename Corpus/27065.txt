@@ -1,0 +1,1 @@
+ URL : "https://github.com/Tomash667/carpg/issues/110" TITLE : collision flags fix BODY : collision flags are not what i was thinking they are setcollisionflags, need to be removed

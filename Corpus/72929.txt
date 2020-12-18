@@ -1,0 +1,1 @@
+ URL : "https://github.com/unicodeveloper/laravel-paystack/issues/17" TITLE : class paystack not found BODY : cannot find class paystack . i have registered the package in the providers and aliases in my app\config. also after running php artisan publish, it says nothing to publish for tags . tried using the class without the alias and it still cant find it.

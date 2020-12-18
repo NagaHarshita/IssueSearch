@@ -1,0 +1,1 @@
+ URL : "https://github.com/open-eid/chrome-token-signing/issues/37" TITLE : chrome os support BODY : google has released smartcard connector framework for chromeos devices: https://github.com/googlechrome/chromeos_smart_card_connector please add id-card support for chrome os

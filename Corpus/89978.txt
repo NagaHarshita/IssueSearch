@@ -1,0 +1,1 @@
+ URL : "https://github.com/ebiwd/EBI-Framework/issues/60" TITLE : responsive table problems BODY : on the example page for tables https://ebiwd.github.io/ebi-pattern-library/patterns/tables/ component-detail repeatedly shrinking and enlarging the page size causes the font to incrementally increase in size and never decrease. using chrome 55.0.2883.87 64-bit on xubuntu 16.04.1

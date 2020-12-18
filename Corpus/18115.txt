@@ -1,0 +1,1 @@
+ URL : "https://github.com/maniacbug/mighty-1284p/issues/20" TITLE : sketch size issue BODY : sketches over 80kb is not working on my atmega1284p 16mhz external, mighty core,bod disabled,standard pinout .if sketch size is reduced to 79kb or less, it works well. but above 80kb it dosent. please advice

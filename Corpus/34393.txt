@@ -1,0 +1,1 @@
+ URL : "https://github.com/KNU-shebang/Shebang/issues/2" TITLE : celery broker 변경 BODY : celery broker를 변경하였습니다. redis -> rabbitmq으로 변경. 관련하여 requirements.txt 변경 완료. 테스트 결과 celery 로컬에서 정상 작동 확인 <img width= 844 alt= 2017-05-02 11 47 18 src= https://cloud.githubusercontent.com/assets/7752609/25623352/ce0e743c-2f91-11e7-93d4-4abbc82950aa.png >

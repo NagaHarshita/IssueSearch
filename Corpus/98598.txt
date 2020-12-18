@@ -1,0 +1,1 @@
+ URL : "https://github.com/marmelroy/PhoneNumberKit/issues/176" TITLE : isvalidnumber is confusing BODY : using isvalidnumber for the raw number typed in a phonenumbertextfield yields false , event when inquiring about a valid number such as 123 123 1234

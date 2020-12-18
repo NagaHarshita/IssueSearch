@@ -1,0 +1,1 @@
+ URL : "https://github.com/sporto/elm-tutorial/issues/149" TITLE : add section on types BODY : the foundations: functions section makes a lot of references to types and assumptions about the reader's knowledge of types. a short section before this point would be appropriate to introduce types and the types available within elm.

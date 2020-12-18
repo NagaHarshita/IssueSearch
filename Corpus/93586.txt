@@ -1,0 +1,1 @@
+ URL : "https://github.com/airbrake/airbrake-js/issues/320" TITLE : airbrake webpack ts errors BODY : when trying to import airbrake from airbrake-js i get errors for a bunch of sub ts files in the client directory.

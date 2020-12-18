@@ -1,0 +1,1 @@
+ URL : "https://github.com/Whiley/WhileyCompiler/issues/775" TITLE : add standard visitors BODY : add standard visitor for whileyfile expressions / statements. update may of the existing passes to use this.

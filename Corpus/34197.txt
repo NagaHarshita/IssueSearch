@@ -1,0 +1,1 @@
+ URL : "https://github.com/annihilatrix/measure_score/issues/5" TITLE : calculate lace score BODY : each row in the measure data set including comorbidityscore col should have the lace score calculated as the sum of points for each lace variable according to the lace index table.

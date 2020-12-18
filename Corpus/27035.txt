@@ -1,0 +1,1 @@
+ URL : "https://github.com/epaell/RTSInANutshell/issues/2" TITLE : close flagging loop BODY : in calibration step, should keep track of any tiles with >= n bad bandpasses n around 10 . if needed, insert them into flagging table. can use this flagging table for the whole night at some point organize a structure to process data by night .

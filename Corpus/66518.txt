@@ -1,0 +1,1 @@
+ URL : "https://github.com/PaddlePaddle/Paddle/issues/6818" TITLE : multibox loss operator. BODY : - multiboxlosslayer.cpp https://github.com/paddlepaddle/paddle/blob/develop/paddle/gserver/layers/multiboxlosslayer.cpp - multibox_loss api http://doc.paddlepaddle.org/develop/doc/api/v2/config/layer.html multibox-loss

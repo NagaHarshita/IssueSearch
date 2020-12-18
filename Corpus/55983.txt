@@ -1,0 +1,1 @@
+ URL : "https://github.com/adierkens/snapshot4j/issues/1" TITLE : make json diffs better BODY : make the diffs for json snapshots output a cleaner result

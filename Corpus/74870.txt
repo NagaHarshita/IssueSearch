@@ -1,0 +1,1 @@
+ URL : "https://github.com/corentingay/gistreboy/issues/19" TITLE : fix hldereference fiasco BODY : for instructions that uses hl for doing operations such as inc_hldereference: currently we are putting the result in the hl register, we would like to have the result back in the memory pointed to by hl. hl = hl + 1

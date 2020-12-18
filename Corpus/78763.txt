@@ -1,0 +1,1 @@
+ URL : "https://github.com/Blacksmoke16/GESI/issues/10" TITLE : reference does not exist BODY : happens on characterassets, and prob other ones with pagination. happens when no data is in that page and opt_headers is false.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/adcpm/busy/issues/278" TITLE : multiple getaccounts call BODY : i've noticed that i take 2 times getaccounts requests when loading user profile. ! image https://cloud.githubusercontent.com/assets/16245250/22322862/7bbdbc8a-e3d1-11e6-8db0-2edb9887ae9d.png we could do it in 1 call

@@ -1,0 +1,1 @@
+ URL : "https://github.com/harishanchu/Laravel-FTP/issues/66" TITLE : ftp xxxx not configured. BODY : whenever i try to connect to any ftp i get this message, my code use anchu\ftp\facades\ftp; public function createxxxconnection { $listing = ftp::connection 'xxx' ->getdirlisting ; return $listing; } and all ftp config set in the config.php file

@@ -1,0 +1,1 @@
+ URL : "https://github.com/pfrazee/nodevms/issues/1" TITLE : init called multiple times BODY : the exports.init should only be called on first run, not on subsequent loads

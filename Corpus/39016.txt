@@ -1,0 +1,1 @@
+ URL : "https://github.com/DoSomething/rogue/issues/195" TITLE : remove unused tables BODY : remove all the old tables from the reportback db schema.

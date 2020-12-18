@@ -1,0 +1,1 @@
+ URL : "https://github.com/laristra/flecsi-third-party/issues/20" TITLE : drop unused libraries BODY : i will drop libraries, which aren't used anymore: - cereal - thrust @charest: what about - scotch - exodus

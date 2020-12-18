@@ -1,0 +1,1 @@
+ URL : "https://github.com/jtransc/jtransc/issues/269" TITLE : codecov always failed? BODY : @codecov codecov/patch — 0% of diff hit target 17.89% @codecov codecov/project — 17.89% remains the same compared to a78dfe4 this very strange. here 268 i change number version only, but failed pr

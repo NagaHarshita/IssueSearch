@@ -1,0 +1,1 @@
+ URL : "https://github.com/webpack/node-libs-browser/issues/69" TITLE : support whatwg url BODY : it seems like there is no activity in - https://github.com/defunctzombie/node-url/issues/37 - https://github.com/webpack/webpack/issues/5372 and i propose to replace node-url with jsdom/whatwg-url https://github.com/jsdom/whatwg-url

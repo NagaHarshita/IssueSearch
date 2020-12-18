@@ -1,0 +1,1 @@
+ URL : "https://github.com/Particular/NServiceBus.Metrics.PerformanceCounters/issues/26" TITLE : enable by default BODY : if this package is already explicitly added to the project, why should you still need to explicitly enable it? there are no arguments needed to enable the package

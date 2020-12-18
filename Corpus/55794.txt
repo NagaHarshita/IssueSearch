@@ -1,0 +1,1 @@
+ URL : "https://github.com/shellphish/how2heap/issues/31" TITLE : linux kernel slub/slab BODY : it'd be nice to see some write-ups on slub / slab exploitation. it should be relatively easy to rip out the allocator and turn it into a user-space library a la ld_preload .

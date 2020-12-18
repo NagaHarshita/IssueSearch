@@ -1,0 +1,1 @@
+ URL : "https://github.com/bxn5/magegain-novaposhta/issues/1" TITLE : magento версия 2.0.2 BODY : нет связи между таблицами novaposhta_city и novaposhta_warhouse, так как в столбце city_id везде нули. в чем может быть проблема?

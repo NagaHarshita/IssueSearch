@@ -1,0 +1,10 @@
+ URL : "https://github.com/andybotting/xbmc-addon-afl-video/issues/397" TITLE : end-user bug report BODY : automatic bug report from end-user. environment plugin name: afl video plugin id: plugin.video.afl-video plugin version: 1.6.4 xbmc/kodi version: 16.1 git:2016-04-24-f6ceced python version: 2.6.5 r265:79063, apr 24 2016, 08:45:55 gcc 4.8 operating system: linux3 linux 3.10.0 armv7l ip address: unknown lookup failure isp : telstra internet python path: /mnt/internal_sd/android/data/org.xbmc.kodi/files/.kodi/addons/plugin.video.afl-video
+/mnt/internal_sd/android/data/org.xbmc.kodi/files/.kodi/addons/script.module.beautifulsoup/lib
+/
+/data/app/org.xbmc.kodi-1.apk/assets/python2.6/lib/python26.zip
+/data/app/org.xbmc.kodi-1.apk/assets/python2.6/lib/python2.6
+/data/app/org.xbmc.kodi-1.apk/assets/python2.6/lib/python2.6/plat-linux3
+/data/app/org.xbmc.kodi-1.apk/assets/python2.6/lib/python2.6/lib-tk
+/data/app/org.xbmc.kodi-1.apk/assets/python2.6/lib/python2.6/lib-old
+/data/app/org.xbmc.kodi-1.apk/assets/python2.6/lib/python2.6/lib-dynload
+/mnt/internal_sd/android/data/org.xbmc.kodi/files/.kodi/addons/plugin.video.afl-video/resources/lib traceback traceback most recent call last : file /mnt/internal_sd/android/data/org.xbmc.kodi/files/.kodi/addons/plugin.video.afl-video/resources/lib/videos.py , line 34, in make_list videos = comm.get_videos category file /mnt/internal_sd/android/data/org.xbmc.kodi/files/.kodi/addons/plugin.video.afl-video/resources/lib/comm.py , line 191, in get_videos video = parse_json_live video_asset file /mnt/internal_sd/android/data/org.xbmc.kodi/files/.kodi/addons/plugin.video.afl-video/resources/lib/comm.py , line 114, in parse_json_live video.title = ' color green live now /color {0}'.format video_data.get 'title' unicodeencodeerror: 'ascii' codec can't encode character u'\u2013' in position 12: ordinal not in range 128 full log https://gist.github.com/04a06a983d18f7dc4e7f448cf31f2ae4

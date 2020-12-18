@@ -1,0 +1,1 @@
+ URL : "https://github.com/acm-uiuc/merch-hardware/issues/16" TITLE : floating gpio pins BODY : currently after making a digital keypress the pi's gpio pins take on ~1.3v when they should be low 0v . not known if this is a manufacturing issue or a design bug.

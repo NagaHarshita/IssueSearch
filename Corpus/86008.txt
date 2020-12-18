@@ -1,0 +1,1 @@
+ URL : "https://github.com/giuliaScalaberni/myApp/issues/80" TITLE : get person -> delete snap BODY : after deletion success, don't reload to index but re do php for snaps

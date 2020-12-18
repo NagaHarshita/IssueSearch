@@ -1,0 +1,1 @@
+ URL : "https://github.com/cupcake/sparklemotion/issues/2" TITLE : failed to detect buildback BODY : each time i attempt to push to heroku, i get an error stating: failed to detect app matching https://github.com/kr/heroku-buildpack-go.git buildpack any ideas why this might be or what i can do to successfully push the app to heroku?

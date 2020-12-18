@@ -1,0 +1,1 @@
+ URL : "https://github.com/uber/uReplicator/issues/23" TITLE : unable to build master BODY : error failed to execute goal com.mycila:license-maven-plugin:2.8:check default on project ureplicator: some files do not have the expected license header -> help 1

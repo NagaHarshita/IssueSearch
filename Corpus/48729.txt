@@ -1,0 +1,1 @@
+ URL : "https://github.com/ch11ng/exwm/issues/251" TITLE : single thread problem BODY : hello. i know that emacs is single threaded and it's a main issue which prevents me from using exwm as a default wm. maybe there is a list of tips and tricks which can help mitigate the problem?

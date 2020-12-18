@@ -1,0 +1,1 @@
+ URL : "https://github.com/jitpack/jitpack.io/issues/1380" TITLE : peek wrong version BODY : log https://jitpack.io/com/github/donalddu/imagecapture/0.9.12/build.log i want to build new version 0.9.12, but always build 0.9.11.1

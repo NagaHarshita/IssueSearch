@@ -1,0 +1,1 @@
+ URL : "https://github.com/FabricaDeSoftwareUNICENTRO/eDefensoriaPR/issues/3" TITLE : cadastro de pessoas BODY : evento para a próxima reunião deve: - permitir o cadastro de pessoas; - validar server side todos os inputs; - permitir a consulta básica de dados;

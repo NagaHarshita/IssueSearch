@@ -1,0 +1,1 @@
+ URL : "https://github.com/OfficeDev/office-js-docs/issues/866" TITLE : internet explorer issue BODY : hi! we have trubles using the api in internet explorer, is this a known issue and maybe a fix under way? the visio loads fine but we can't for instance detect what shape was clicked etc. problem goes away if you change the compatibility mode meta tag. br fredrik

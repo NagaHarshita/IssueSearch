@@ -1,0 +1,1 @@
+ URL : "https://github.com/BytesClub/chalk/issues/16" TITLE : refactor keyboard input BODY : read low-level keypresses from the keyboard in two separate functions like: editorreadkey : whose job will be to wait for one keypress and return it editorprocesskeypress : waits for a keypress and handles it and stop printing the keypress as of now

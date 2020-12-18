@@ -1,0 +1,1 @@
+ URL : "https://github.com/lairworks/nas2d-core/issues/13" TITLE : remove exception class BODY : remove the exception class and all references to it.

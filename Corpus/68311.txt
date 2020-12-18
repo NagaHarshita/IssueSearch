@@ -1,0 +1,1 @@
+ URL : "https://github.com/SNDjango/server/issues/124" TITLE : rest api to create post BODY : as a developer of integrated system, i want to have a rest api to create a post so that i can: - send a request with necessary input - get a success response - get a fail response.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/skeeto/elfeed/issues/224" TITLE : end of file during parsing BODY : this error is raised when exiting emacs after installing the newest version of elfeed, and emacs will not close.

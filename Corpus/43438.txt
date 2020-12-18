@@ -1,0 +1,1 @@
+ URL : "https://github.com/royJackman/No529/issues/3" TITLE : create django model s BODY : django uses models to represent data objects. each model represents a table in the db. create all the necessary models in the django app.

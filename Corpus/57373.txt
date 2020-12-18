@@ -1,0 +1,1 @@
+ URL : "https://github.com/masak/007/issues/224" TITLE : project has no license BODY : if you can choose a license and add a license field to your meta file, that would be great. i'm trying to get all ecosystem modules to have licenses in their meta files. full instructions here: https://design.perl6.org/s22.html license

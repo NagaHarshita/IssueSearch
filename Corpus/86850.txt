@@ -1,0 +1,1 @@
+ URL : "https://github.com/TheElectronWill/Night-Config/issues/8" TITLE : improve the checkedconfig BODY : - better checking of setvalue path, value : do a recursive check if the value is a config - apply checks on the map returned by asmap too.

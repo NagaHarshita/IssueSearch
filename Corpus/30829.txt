@@ -1,0 +1,1 @@
+ URL : "https://github.com/dylmye/pelleglobe/issues/22" TITLE : record problem form BODY : add a modal form that is displayed over <pellemap> when a user clicks 'report a problem' at the bottom of infowindow and allows the user to enter details about the current marker.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/intuit/QuickBooks-V3-Java-SDK/issues/19" TITLE : get deleted records BODY : no possibility to get ids of deleted records using this api, or i missed something

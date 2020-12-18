@@ -1,0 +1,1 @@
+ URL : "https://github.com/jwilder/nginx-proxy/issues/961" TITLE : nginx regex parsing buggy BODY : in nginx you can do things like this: server_name ~^auth\d{0,2}\.example\.pw$; this would match auth.example.pw, auth1.example.pw, ... until auth99.example.pw however nginx-proxy will cut after the , creating weird artifacts that do not at all behave as intended.

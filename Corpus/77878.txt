@@ -1,0 +1,1 @@
+ URL : "https://github.com/openhab/openhab-syno-spk/issues/59" TITLE : openhab user not created BODY : installing openhab-2.1.0.002-snapshot-dsm6-syno-noarch-0.001.spk on a ds214play no user openhab was created on install. although the package claims to be running it has permission issues.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/SysBioChalmers/GECKO/issues/6" TITLE : fix sbml errors BODY : when using http://sbml.org/validator/, 50 errors appear of the sort:

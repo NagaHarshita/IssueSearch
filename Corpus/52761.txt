@@ -1,0 +1,2 @@
+ URL : "https://github.com/binoymichael/cmpe202-uml-parser/issues/5" TITLE : create a deploy script BODY : - create a deploy script that will create the jar file from the source files and also create the command line script
+- explore options to build the script. check if build tools like ant can do this

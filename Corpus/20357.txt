@@ -1,0 +1,1 @@
+ URL : "https://github.com/caskroom/homebrew-cask/issues/38967" TITLE : cask request: fork BODY : cask details name: fork - git client homepage: https://git-fork.com download url: https://git-fork.com/update/files/fork.dmg description: a fast and friendly git client for mac. cool sourcetree alternative

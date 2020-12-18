@@ -1,0 +1,1 @@
+ URL : "https://github.com/ibmdb/node-ibm_db/issues/257" TITLE : write a knex adapter BODY : are there any plans to write a knex adapter for this project? it would be nice to use a knexfile for connecting to db2 databases and use knex for building db2 sql statements. knex already has support for postgres, mssql, mysql, mariadb, sqlite3, and oracle. see http://knexjs.org/

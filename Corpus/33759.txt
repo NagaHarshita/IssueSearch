@@ -1,0 +1,1 @@
+ URL : "https://github.com/floydhub/floyd-cli/issues/88" TITLE : api to refresh token BODY : can floyd add an api to refresh token? .floydconfig file has the token expiry date. prior to the expiry date, we want to refresh the token using an api call.

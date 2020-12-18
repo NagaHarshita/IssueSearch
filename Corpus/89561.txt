@@ -1,0 +1,1 @@
+ URL : "https://github.com/OliNightly/PipBoy-iOS/issues/1" TITLE : radio audio doesn't play. BODY : this is due to apple not allowing audio/videos to play in the background without the users consent in uiwebview's. i am working around a fix for this that actually looks good and that looks like something a pip-boy would have.

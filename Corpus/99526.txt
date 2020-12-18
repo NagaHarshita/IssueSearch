@@ -1,0 +1,1 @@
+ URL : "https://github.com/Screetsec/TheFatRat/issues/139" TITLE : monodevelop not installing BODY : so i tried everything looked at every problem repos and all that. when i tried apt-get install monodevelop says i need to install libgnome2.24 but then i need to install more packages? running linux mint mate

@@ -1,0 +1,1 @@
+ URL : "https://github.com/justeat/JustBehave/issues/24" TITLE : build this in .net core BODY : justbehave is used by justsaying's tests, and we want to build these in .net core.

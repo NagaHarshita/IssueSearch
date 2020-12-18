@@ -1,0 +1,1 @@
+ URL : "https://github.com/alexmore/MOne.Fx.ConsoleUtils/issues/2" TITLE : create command routing BODY : > i would like to register the commands without entry point and have possibility to extend commands set easily. - commandrouteattribute, similar to asp.net routeattribute - build commands hierarchy based on routes

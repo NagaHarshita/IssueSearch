@@ -1,0 +1,1 @@
+ URL : "https://github.com/ethereumproject/emerald-rs/issues/242" TITLE : import from mnemonic code BODY : emerald new --mnemonic ..... and from rpc

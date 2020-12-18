@@ -1,0 +1,1 @@
+ URL : "https://github.com/Vinchenso/PropertyManager/issues/23" TITLE : background and cron job BODY : add sidekiq and sidekiq cron to automatically perform rake tasks

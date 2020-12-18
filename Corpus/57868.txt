@@ -1,0 +1,1 @@
+ URL : "https://github.com/artudis-utils/artudis-oadoi-report/issues/2" TITLE : reorder output columns BODY : include field order in this way, the additional columns afterwards id,type,best location version, doi, best location url,title

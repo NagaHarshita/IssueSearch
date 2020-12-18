@@ -1,0 +1,1 @@
+ URL : "https://github.com/patrick-geisler/rideShareApp/issues/24" TITLE : trip form passengers BODY : the num passengers select input on the form is defaulted to 1 and if you dont go in and select it before submitting the form the server only receives an empty string.

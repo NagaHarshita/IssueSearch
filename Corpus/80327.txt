@@ -1,0 +1,1 @@
+ URL : "https://github.com/4refr0nt/ESPlorer/issues/50" TITLE : timeout error on connect BODY : after updating to rc5 the connection no longer gives connecting dots and i get a time out waiting answer from esp. i have to send node.heap to get a response. linux 64 os.

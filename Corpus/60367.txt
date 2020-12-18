@@ -1,0 +1,1 @@
+ URL : "https://github.com/kellerben/dudle/issues/73" TITLE : $conf.siteurl + pollurl BODY : i've defined a $conf.siteurl. after creating a survey i see on the page overview.cgi only the values of $conf.siteurl without a pollurl. i can not distribute the complete url with pollurl . please fix that, thank you very much.

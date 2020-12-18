@@ -1,0 +1,1 @@
+ URL : "https://github.com/status-im/status-go/issues/171" TITLE : log file for instabug BODY : - we need to keep it under 5mb - we need to make sure that intabug has permission to read the file or 777

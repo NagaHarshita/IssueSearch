@@ -1,0 +1,1 @@
+ URL : "https://github.com/swsheets/swsheets/issues/83" TITLE : case insensitive urls BODY : urls should be case insensitive. for instance, /u/username and /u/username should have the same result currently they do not

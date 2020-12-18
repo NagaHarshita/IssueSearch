@@ -1,0 +1,1 @@
+ URL : "https://github.com/Mirantis/kqueen/issues/61" TITLE : add gke provisioner engine BODY : implement gke provisioner: api reference https://cloud.google.com/container-engine/reference/rest/

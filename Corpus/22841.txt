@@ -1,0 +1,1 @@
+ URL : "https://github.com/yhuard/ecl-example/issues/2" TITLE : modify ignore file BODY : scope in atomium theme we commit the dist directory to our repo so, if possible, we would need the .gitignore file to be modified in the following way: temporary files .tmp .css.map ignore some folders node_modules logs logs .log editors .idea .c9 .env tasks - update ignore file

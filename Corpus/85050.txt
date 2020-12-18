@@ -1,0 +1,1 @@
+ URL : "https://github.com/dotnet/dotnet-docker-nightly/issues/468" TITLE : enable ci for 1709 images BODY : this may require creating windows server 2016 1709 vms to use - not sure if any exist.

@@ -1,0 +1,3 @@
+ URL : "https://github.com/teazean/learnings/issues/161" TITLE : hacking through images BODY : 1. <http://marcoramilli.blogspot.sg/2013/10/hacking-through-images.html>
+2. <https://blog.sucuri.net/2014/02/new-iframe-injections-leverage-png-image-metadata.html>
+3. 将恶意代码注入到图片里，可以有两种实现：1. 直接将代码插入到图片里，不管图片的展示，在页面解析图片；2 将恶意代码追加到图片字节的后面，以script的方式加载图片，后面的js代码会执行，还不会影响到图片的展示，如第一篇文章对bmp图片的hacking。

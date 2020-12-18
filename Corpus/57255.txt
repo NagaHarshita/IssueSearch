@@ -1,0 +1,1 @@
+ URL : "https://github.com/ThoraX-SVK/QuestEditor/issues/7" TITLE : prerobiť logiku čiar BODY : prerobiť logiku čiar, aby si vždy output pamatal do ktorého inputu ide, tým pádom sa bude dať zrušiť trieda line keďže vykreslovať sa bude prezretím každého outputu, ak nude mať svoj targetinput != null, vykreslíme čiaru. toto eliminuje vela zbytočného kódu okolo čiar.

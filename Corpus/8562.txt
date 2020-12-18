@@ -1,0 +1,1 @@
+ URL : "https://github.com/italia/cie-nis-objc-sdk/issues/2" TITLE : pkcs 11 support BODY : this library should support pkcs 11 too. example code for pkcs 11 can be found here https://github.com/italia/cie-middleware/tree/master/esempiopkcs11 : we need to turn this into a reusable library.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/skilld-labs/rundeck-kubernetes-nodes-plugin/issues/3" TITLE : add pod support BODY : it would be very useful to use a pod as a node rather than the actual node.

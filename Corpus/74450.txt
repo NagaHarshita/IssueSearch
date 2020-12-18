@@ -1,0 +1,1 @@
+ URL : "https://github.com/n1nj4z33/iqoption_app/issues/6" TITLE : error when trying to buy BODY : json: cannot unmarshal string into go struct field commanddata.price of type float64 kindly advice on how to solve the error above

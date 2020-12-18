@@ -1,0 +1,1 @@
+ URL : "https://github.com/SV-Zanshin/MCP7940/issues/7" TITLE : samd21 board support BODY : hi zanshin, nice job with the library. but it looks like the library doesn't compile for samd21 based boards such as arduino m0, or adafruit feather m0. i am not an expert, but i happen to be using these boards... br. newerbee

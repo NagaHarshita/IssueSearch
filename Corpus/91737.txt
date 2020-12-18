@@ -1,0 +1,1 @@
+ URL : "https://github.com/ICTatRTI/coconut-mobile/issues/189" TITLE : untraceable console error BODY : error occurs when pulling up an existing household question to complete: uncaught referenceerror: currentcase is not defined at eval coffeescript:3:18 at http://localhost:8089/bundle.js:47:949

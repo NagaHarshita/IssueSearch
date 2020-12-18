@@ -1,0 +1,1 @@
+ URL : "https://github.com/noplanman/wp-otp/issues/5" TITLE : show the entered otp-code BODY : currently the wp-otp hides the code that has been entered. it would be more convenient if the entered otp-code would be shown to check whether the code has been mistyped.

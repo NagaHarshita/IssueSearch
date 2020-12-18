@@ -1,0 +1,1 @@
+ URL : "https://github.com/smistad/OpenCL-Getting-Started/issues/3" TITLE : efficiency seems off BODY : hi, whilst testing i edited the program added a function for opencl called gpu i know opencl can be the cpu too , i did this to see how much more efficient it is compared to serial programming. i see an issue where the cpu is considerably faster using this code:

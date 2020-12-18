@@ -1,0 +1,1 @@
+ URL : "https://github.com/vientos/vientos-pwa/issues/36" TITLE : refactor handling of urls BODY : currently util.js has various helpers which need improvements.

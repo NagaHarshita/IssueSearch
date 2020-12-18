@@ -1,0 +1,1 @@
+ URL : "https://github.com/JeffreyBLewis/WebVoteView/issues/246" TITLE : view vote icon BODY : view vote ○ the icon is a little confusing because it kind of looks like a data download button. i’d try another solution for indicating that you can click on a vote box to see more details -- a slight grey rollover or ‘vote details’ as a link in the upper right corner.

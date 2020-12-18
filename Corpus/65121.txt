@@ -1,0 +1,1 @@
+ URL : "https://github.com/alainsahli/confluence-publisher/issues/10" TITLE : implement page ordering BODY : as for now the pages are ordered as per page creation order. it would be good to have a way to define the order of the pages. note: this could be difficult as the rest api of confluence does not provide a way to reorder pages.

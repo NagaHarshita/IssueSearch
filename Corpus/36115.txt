@@ -1,0 +1,1 @@
+ URL : "https://github.com/b0bst3r/Superstitions/issues/33" TITLE : game does not launch BODY : upon clicking 'play' the launcher closes then immediately re-opens, leaving the following console log. superstition crash.txt https://github.com/b0bst3r/superstitions/files/1157455/superstition.crash.txt

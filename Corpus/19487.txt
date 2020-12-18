@@ -1,0 +1,1 @@
+ URL : "https://github.com/SpineEventEngine/base/issues/31" TITLE : add dayofweek type BODY : ... similar to dayofweek https://docs.oracle.com/javase/8/docs/api/java/time/dayofweek.html from java 8.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/yasserg/crawler4j/issues/192" TITLE : crawler factory problem BODY : hi! i try to implement implements crawlcontroller.webcrawlerfactory but if i include the last jar 4.2 with dependance, the code not compile! it's not able to find webcrawlerfactory .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/koorchik/LIVR/issues/42" TITLE : add new erlang validator BODY : it is likely that the olifer erlang validator will no longer be supported because the developer has changed the stack. i completely rewrote it: https://github.com/erlangbureau/oliver can you add it to docs and playground?

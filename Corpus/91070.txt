@@ -1,0 +1,1 @@
+ URL : "https://github.com/panva/node-oidc-provider/issues/180" TITLE : supporting dynamic scopes BODY : i pull scopes first from other service before i create oidc-provider object but it looks scopes can't be updated once the provider created and initialized. is there any way to update scopes in config dynamically? thanks.

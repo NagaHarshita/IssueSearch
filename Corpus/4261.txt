@@ -1,0 +1,1 @@
+ URL : "https://github.com/cooervo/Algorithms-DataStructures-BigONotation/issues/11" TITLE : big o notation BODY : in big o notation page, bubble sort is presented as a linear time example ie. o n . however, it is o n^2 .

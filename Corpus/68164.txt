@@ -1,0 +1,1 @@
+ URL : "https://github.com/m-lab/scraper-sync/issues/40" TITLE : remove spreadsheet code BODY : once things are fully transitioned to using the json_status url, remove all the spreadsheet stuff.

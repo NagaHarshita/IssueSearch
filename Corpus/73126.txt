@@ -1,0 +1,1 @@
+ URL : "https://github.com/spress/Spress/issues/110" TITLE : composer install command BODY : this is just a request for an enhancement. i know that you can install composer.lock with bash spress spress upda:plug --prefer-lock --prefer-lock but it is not obvious. i would like to have a own command for it. at least a mention in the documentation.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/samuelsimoes/chrome-extension-webpack-boilerplate/issues/28" TITLE : webpack config broken BODY : hi, this line ...json.parse content.tostring in webpack.config that was recently added, breaks the build.

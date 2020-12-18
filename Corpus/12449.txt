@@ -1,0 +1,1 @@
+ URL : "https://github.com/AnoopAlias/XtendWeb/issues/212" TITLE : php system check BODY : 1. check php integration with apache - all modes 2. check secure mode for cluster compatibility 3. fix attempt_autofix if needed for secure mode

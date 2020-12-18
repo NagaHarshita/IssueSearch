@@ -1,0 +1,1 @@
+ URL : "https://github.com/puppetlabs/puppetlabs-pe_bulk_agent_install/issues/5" TITLE : manage the chloride gem BODY : it'd be good if there was built-in management of the chloride gem instead of having to manually install it.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ProgerXP/Notepad2e/issues/94" TITLE : new line inserts two lines BODY : document: x y z| 1. ctrl+d 2. ctrl+shift+up 3. ctrl+shift+enter new document error : x z | y z must be: x z | y z

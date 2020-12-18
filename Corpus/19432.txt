@@ -1,0 +1,1 @@
+ URL : "https://github.com/iancoleman/bip39/issues/140" TITLE : add bip-38 support BODY : feature request: when generating derived private keys, add the option to derive and then apply a bip38 passphrase for security. obviously this would add rendering time for each key, but would still be faster than performing it incrementally on each key .

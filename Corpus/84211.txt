@@ -1,0 +1,1 @@
+ URL : "https://github.com/dahak-metagenomics/dahak/issues/11" TITLE : create container for pear BODY : currently interleaving reads with k-hmer. bioconda doesn't have an image for pear.

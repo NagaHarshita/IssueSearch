@@ -1,0 +1,1 @@
+ URL : "https://github.com/ebeigarts/database_flusher/issues/1" TITLE : add schema support BODY : seems that there isn't any schema support at the moment. when attempting to clean post-spec, schema name is not included with the table name and it throws an activerecord error: ruby activerecord::statementinvalid: pg::undefinedtable: error: relation <table name> does not exist

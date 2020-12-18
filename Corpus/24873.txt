@@ -1,0 +1,1 @@
+ URL : "https://github.com/SOSML/SOSML/issues/61" TITLE : type inference bug BODY : fun test a, b = a + test b should be invalid, but gets evaluated as: > val test = fn: ∀ 'b . int int int int 'b → int;

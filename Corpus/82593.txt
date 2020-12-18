@@ -1,0 +1,1 @@
+ URL : "https://github.com/davestewart/laravel-sketchpad/issues/14" TITLE : allow a custom front page BODY : would be good to be able to edit the front page. this could be stored in the user views folder; perhaps replacing the default welcome, or even as an additional option.

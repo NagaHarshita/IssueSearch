@@ -1,0 +1,1 @@
+ URL : "https://github.com/tsl0922/ttyd/issues/68" TITLE : automate user login BODY : 你好作者，我想问一下用sudo ./ttyd login 怎么实现automatic user login，我想要用javascript自动填login and password for different user，然后login to the terminal.

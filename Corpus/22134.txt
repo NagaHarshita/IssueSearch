@@ -1,0 +1,1 @@
+ URL : "https://github.com/opbeat/opbeat_python/issues/168" TITLE : improve test setup BODY : the test setup is quite bad: do you plan to improve this, e.g. by using tox as a first class citizen, and not just wrapping setup.py test there?

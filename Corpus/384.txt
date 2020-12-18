@@ -1,0 +1,1 @@
+ URL : "https://github.com/Romm17/FriendTreasuryAPI/issues/15" TITLE : be 401 BODY : when we trying to send a request without token, we got 400 missing request header '${ft.token.header}' for method parameter of type string . when we trying to send request with expired token, we got 500 an authentication object was not found in the securitycontext please fix

@@ -1,0 +1,1 @@
+ URL : "https://github.com/gluon-lang/gluon/issues/365" TITLE : no output on command line BODY : there is no output 👍 $ cat t.glu --------------------- let prelude = import! std/prelude.glu let io = import! std/io.glu let run x : -> io = io.println gluon :h for help, :q to quit run -------------------- $ ./target/debug/gluon t.glu

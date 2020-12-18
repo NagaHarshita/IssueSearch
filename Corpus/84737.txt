@@ -1,0 +1,1 @@
+ URL : "https://github.com/zhuweiyou/blog/issues/15" TITLE : dns mac 刷新 dns 缓存 BODY : bash sudo dscacheutil -flushcache sudo killall -hup mdnsresponder

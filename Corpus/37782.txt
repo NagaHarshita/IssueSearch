@@ -1,0 +1,1 @@
+ URL : "https://github.com/sensu-plugins/sensu-plugins-opsgenie/issues/22" TITLE : move to alert v2 api BODY : the alert v1 api is deprecated and will stop working at the end of 6/2017. we need to switch to the v2 api: https://docs.opsgenie.com/v1.0/docs/alert-api

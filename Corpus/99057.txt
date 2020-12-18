@@ -1,0 +1,1 @@
+ URL : "https://github.com/BytesClub/Tabcalc/issues/6" TITLE : make app have fixed layout BODY : the app looks bad when it automatically rotates to adjust the orientation of the device. need a way to stop it from rotating altogether.

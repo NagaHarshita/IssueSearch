@@ -1,0 +1,1 @@
+ URL : "https://github.com/dansanti/l10n_cl_invoice/issues/11" TITLE : error al validar BODY : hola daniel cuando se valida una factura sin fecha de factura, da error y el correlativo de los folios aumenta en 1. saludos

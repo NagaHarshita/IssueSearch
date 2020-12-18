@@ -1,0 +1,1 @@
+ URL : "https://github.com/AlyValliani/AlzheimersResearch/issues/1" TITLE : nomodule named datasets BODY : hi i came acoss a problem when i ran 'python mri.py'. importerror: no module named pylearn2.datasets. could you please tell me how to resolve it?

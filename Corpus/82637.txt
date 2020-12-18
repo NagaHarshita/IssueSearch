@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/vscode/issues/23413" TITLE : always auto save settings BODY : settings should always be auto saved i ran into the issue too many times that my settings is dirty and that some ui can not write to it resulting in a bad user experience 1. example, autosave off, make some changes to your settings.json 2. try to change theme

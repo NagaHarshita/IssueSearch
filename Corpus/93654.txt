@@ -1,0 +1,1 @@
+ URL : "https://github.com/PushThePiece/chess/issues/89" TITLE : allowed to remain in check BODY : when in check, i moved an irrelevant piece and it was allowed i remained in check during my turn i.e. illegal

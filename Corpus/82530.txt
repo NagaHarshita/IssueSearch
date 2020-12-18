@@ -1,0 +1,4 @@
+ URL : "https://github.com/turingschool-projects/1611-remember-raphael/issues/2" TITLE : adjust root to /reminders BODY : client has changed their mind. when the user visits the root of the application, they should be redirected to '/reminders' and should see a list of all reminders on the page. hints : dig into the docs for notes on beforemodel .
+maybe look here https://guides.emberjs.com/v2.12.0/routing/redirection/ .
+your model hook should move out of routes/index.js, and your router.js will need adjustments.
+keep in mind that the structure of your router.js represents the file structure of the entire app. hot tip : this will make your previous test fail. make the necessary changes in the test s .

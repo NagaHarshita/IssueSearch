@@ -1,0 +1,1 @@
+ URL : "https://github.com/arocks/edge/issues/74" TITLE : editing signing up fields BODY : i want to edit the fields picture, bio and use my own fields so i add my new fields in forms.py and models.py but it doesn't work! what else should i change in order to add new fields?

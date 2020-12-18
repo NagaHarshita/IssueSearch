@@ -1,0 +1,1 @@
+ URL : "https://github.com/qutip/qutip.github.io/issues/34" TITLE : possible syntax error BODY : when running the example on http://qutip.org/docs/3.1.0/guide/guide-bloch.html bloch-config i encounter the syntaxerror: invalid syntax on the line ffmpeg -r 20 -b 1800 -i bloch_%01d.png bloch.mp4 .

@@ -1,0 +1,2 @@
+ URL : "https://github.com/preview-code/code-highlighter/issues/6" TITLE : match on / in diff BODY : <a href= https://github.com/eanker ><img src= https://avatars3.githubusercontent.com/u/5946438?v=3 align= left width= 96 height= 96 hspace= 10 ></img></a> issue by eanker https://github.com/eanker _monday mar 13, 2017 at 10:44 cet_
+_originally opened as https://github.com/preview-code-org/code-highlighter/issues/6_ ---- we should not always remove the first character. if we encounter /no newline at end of file we should remove the whole line.

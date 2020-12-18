@@ -1,0 +1,1 @@
+ URL : "https://github.com/adeliz/webcron/issues/1" TITLE : add running status BODY : add status field in database and set it when a job starts, ends and fails

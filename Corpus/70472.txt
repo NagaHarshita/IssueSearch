@@ -1,0 +1,1 @@
+ URL : "https://github.com/whatwg/html/issues/3037" TITLE : webassembly is in scope BODY : we currently have > the processing model for languages other than javascript is outside the scope of this specification. which is somewhat misleading as we definitely want to entertain adding the processing model for languages with broad support. found in 3024.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/entria/graphql-dataloader-boilerplate/issues/45" TITLE : improve loaders return BODY : https://github.com/facebook/dataloader/blob/master/src/index.js l13 dataloader originally returns a promise of an array of values or errors, while we return the value or null.

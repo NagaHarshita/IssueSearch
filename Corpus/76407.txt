@@ -1,0 +1,1 @@
+ URL : "https://github.com/wordpress-mobile/WordPress-iOS/issues/7469" TITLE : jetpack theme activation BODY : expected behavior to be able to activate a theme on a self hosted site with jetpack. actual behavior currently we can't even browse themes https://github.com/wordpress-mobile/wordpress-ios/issues/7468 so activating is a still a dream.

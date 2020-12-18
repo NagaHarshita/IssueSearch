@@ -1,0 +1,1 @@
+ URL : "https://github.com/prometheus/busybox/issues/9" TITLE : how to install gcc? BODY : i'd love to have a docker setup with gcc for building alt-lib applications, such as gcc for uclibc, gcc for musl, gcc for dietlibc, etc. does busybox offer a package manager?

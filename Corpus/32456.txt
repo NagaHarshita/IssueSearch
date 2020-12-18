@@ -1,0 +1,1 @@
+ URL : "https://github.com/ponylang/ponyc/issues/1837" TITLE : use lld for linking BODY : https://lld.llvm.org this would eliminate the compiler's dependence on a c compiler for linking on linux and on link.exe for linking on windows. lld could be used as a library rather than needing to shell out to it.

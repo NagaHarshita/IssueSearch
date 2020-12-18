@@ -1,0 +1,1 @@
+ URL : "https://github.com/akif999/prototypes/issues/1" TITLE : canlog implement stringer BODY : it is now implemented as printlog. it is better to change to stringer as library. i want to design that pass the function specify a format to argument.

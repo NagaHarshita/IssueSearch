@@ -1,0 +1,1 @@
+ URL : "https://github.com/susanBuck/dwa15-fall2017/issues/189" TITLE : error no such file BODY : i'm getting this error when i do php artisan migrate:fresh. illuminate\database\queryexception sqlstate hy000 2002 no such file or directory sql: show full tables whe re table_type = 'base table' pdoexception sqlstate hy000 2002 no such file or directory

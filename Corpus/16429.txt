@@ -1,0 +1,1 @@
+ URL : "https://github.com/solium/exit_distribution/issues/2" TITLE : initial gem setup BODY : the gem project needs to be set up: - .gitignore - .ruby-gemset .gitignored - .ruby-version - exit_distribution.gemspec - gemfile - readme.md - contributing.md - lib/exit_distribution/exit_distribution.rb

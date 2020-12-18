@@ -1,0 +1,1 @@
+ URL : "https://github.com/rclab-auth/gidopensees/issues/20" TITLE : typo in analyze.bas BODY : in file analyze.bas line 91: elseif strcmp intvdata control_node_direction , yz ==0 should read: elseif strcmp intvdata control_node_direction , uz ==0

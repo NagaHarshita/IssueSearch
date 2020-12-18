@@ -1,0 +1,1 @@
+ URL : "https://github.com/Krilliac/Insurgency/issues/5" TITLE : eos hc spawn issue BODY : eos is ran on the headless client, but the ai or anything simply won't spawn in the grid squares they immediately turn green due to lack of occupation forces

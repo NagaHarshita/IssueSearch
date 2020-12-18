@@ -1,0 +1,1 @@
+ URL : "https://github.com/jesstrux/loveartswebsite/issues/44" TITLE : support soft deleting BODY : use soft deleting as a technique to archive data i.e. instead of using archived_at, use deleted_at.

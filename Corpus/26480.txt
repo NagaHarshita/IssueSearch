@@ -1,0 +1,1 @@
+ URL : "https://github.com/ben-eb/postcss-discard-duplicates/issues/38" TITLE : bad check color bag BODY : pls normalize color values input: css .test{ color: fff;} .test{ color: fff;} output: css .test{ color: fff;} .test{ color: fff;}

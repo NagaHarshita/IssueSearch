@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpenAngelArena/oaa/issues/1249" TITLE : add cave comeback factor BODY : add a comeback factor which multiplies gold given by the cave. suggested value is: exp ln m t/ 1+|t| where m is the maximum multiplier and t is a scaling factor times the difference in wealth between the teams. exposing m and the scaling factor somewhere would be helpful.

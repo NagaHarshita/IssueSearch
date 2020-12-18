@@ -1,0 +1,1 @@
+ URL : "https://github.com/susanBuck/dwa15-fall2017/issues/119" TITLE : php coding style BODY : i was wondering if there is a way to automatically check the server side code against psr1 http://www.php-fig.org/psr/psr-1/ and psr2 http://www.php-fig.org/psr/psr-2/ rules?

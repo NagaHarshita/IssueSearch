@@ -1,0 +1,1 @@
+ URL : "https://github.com/mailcow/mailcow-dockerized/issues/334" TITLE : ratelimit bounce_to_ip BODY : setup mailcow behind proxy mail gateway, there's a lot of soft bounce mail from proxy server caused by rspamd ratelimit, try to disable ratelimit but no success, what config file that responsible for these rate limit?

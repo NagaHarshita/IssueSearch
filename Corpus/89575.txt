@@ -1,0 +1,1 @@
+ URL : "https://github.com/TeamUlysses/ulx/issues/92" TITLE : random server crashes ttt BODY : what happens: my ttt server crashes often when map is changed or round is over. it is a linux server. there are no errors in the console. i tried ulx svn and ulib svn but as soon as i join the server my game crashes. version ulx 3.71 ulib 2.61

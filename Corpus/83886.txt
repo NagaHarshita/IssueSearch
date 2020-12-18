@@ -1,0 +1,1 @@
+ URL : "https://github.com/tushar-rishav/code2pdf/issues/19" TITLE : compatibility with pyqt5? BODY : hi, i would like to know if there is any possibility to run this program with pyqt5? the latest version of anaconda is not allowing me to downgrade pyqt without messing the installation up. thanks!

@@ -1,0 +1,18 @@
+ URL : "https://github.com/Zimmi48/bugzilla-test-2/issues/1469" TITLE : bug report 1463 BODY : note: the issue was created automatically with bugzilla2github tool original bug id: bz 1469
+date: 2007-03-29 16:35:47 +0200
+from: laurent.hubert@irisa.fr
+reported version: 8.1 last updated: 2007-03-29 16:35:47 +0200 laurent.hubert@irisa.fr on 2007-03-29 16:35:47 +0200 bonjour, je n'ai pas trouvé comment modifié ou ajouter un commentaire à mon rapport, je vous l'envoie donc par e-mail. mon rapport étais le suivant:
+---
+subject: compilation and out-dated dependencies the problem can occur when one uses the option -j of make to compile coq. this
+option makes make to execute several commands at the same time useful with
+muti-core and multi-processor .
+the problem with the compilation of coq is that some dependencies are not
+up-to-date in the .depend and .depend.coq and they are not re-computed at
+compiltion time. i would suggest to add those two lines in makefile: %.v: dependcoq
+%.ml: depend so the dependencies are re-computed before compiling any .ml or .v file.
+---
+la note suivante a été ajouté:
+je ne suis pas pour intégrer cette modif: la compilation de n'importe quelle fichier va déclencher la compilation des dépendances, même lorsque c'est inutile... jmn. j'aimerai déjà remplacer les lignes à ajouter par;
+%.vo: dependcoq
+%.cmi %.cmo: depend la note précédente ne me semble valable que parce que les dépendances des cibles depend et dependcoq ne sont pas données. si elles étaient données, alors make ne ferait que vérifier qu'elle sont à jour d'après les dates sans rien recalculer. cordialement,
+laurent.

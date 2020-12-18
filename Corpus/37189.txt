@@ -1,0 +1,1 @@
+ URL : "https://github.com/wsOrg/wsm/issues/2" TITLE : left side navigation BODY : page 4-7 in the requirements doc provide the left side navigation links. currently, only few links are added. understand how the existing code works and add remaining links to the side navigation.

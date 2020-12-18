@@ -1,0 +1,1 @@
+ URL : "https://github.com/melloc/node-iamb/issues/20" TITLE : want visual mode BODY : vim has a visual mode that allows one to visually select a range of text and extend the selection using the movement keys. it would be nice to also support it when editing in iamb.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/wavelab/libwave/issues/26" TITLE : documentation for utils BODY : utils needs documentation. top priority are the wave:: typedefs mat3, vec3, etc , as these are used throughout other modules.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Lauratigerstark/teacozy/issues/1" TITLE : don't need these a-tags BODY : you don't need these a-tags with the section divs, just give the div itself the id. tags can have both an id and a class. <div id= mission class= misison > https://github.com/lauratigerstark/teacozy/blob/master/index.html l18

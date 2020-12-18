@@ -1,0 +1,1 @@
+ URL : "https://github.com/bokeh/bokeh/issues/6892" TITLE : peter's imgur of plots BODY : @pzwang suggested setting up a bokeh-user s3 bucket, and adding a simple publish api for standalone documents that would upload html files to it, and run the result through a link shortener no users, no logins .

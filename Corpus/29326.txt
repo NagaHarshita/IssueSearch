@@ -1,0 +1,1 @@
+ URL : "https://github.com/anazhd/eNgenie/issues/1" TITLE : lemp bash server ip BODY : bash get ip/domain server echo -n enter your server ip or domain and press enter : read ip can be like this for automation bash get ip/domain server ip=$ curl -4 icanhazip.com

@@ -1,0 +1,1 @@
+ URL : "https://github.com/samuelclay/NewsBlur/issues/1052" TITLE : android: grid view BODY : android is missing the grid-style story list mode that prioritizes thumbnails. we should modernize the itemslist activity to use a recyclerview that will allow us to support more novel layouts than the vertical lists of old.

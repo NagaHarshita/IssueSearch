@@ -1,0 +1,6 @@
+ URL : "https://github.com/w3c/wai-policies-prototype/issues/253" TITLE : new entry for norway BODY : new entry for norway submitted by dagfinn rømen mailto:dro@difi.no : ~~~yaml
+---
+country: en: norway manual enter other country names: updated: 2017-06-19
+updatemsg: related page:
+province: policies: - title: en: regulations on universal design of ict url: https://lovdata.no/dokument/sf/forskrift/2013-06-21-732 updated: 2013 wcagver: wcag 2.0, wcag 2.0 levels a and aa, with the exception of success criteria 1.2.3, 1.2.4 and 1.2.5. enactdate: 2013 type: law, non-discrimination law, ministries: - title: en: norwegian authority for universal design of ict, a part of the agency for public management and egovermnent difi url: en: https://uu.difi.no/om-oss/english webonly: false scope: standard: - title: en: desc: url: en: documents: - title: en: desc: url: en: ---
+~~~

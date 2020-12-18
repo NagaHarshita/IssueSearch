@@ -1,0 +1,1 @@
+ URL : "https://github.com/EyeSeeTea/QAApp/issues/152" TITLE : slowness/hanging in app BODY : when a significant amount of content is loaded in the app, ex. 1000-2000 questions , the app starts to slow down in terms of responsiveness and moving between screens.

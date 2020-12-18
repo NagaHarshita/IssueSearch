@@ -1,0 +1,1 @@
+ URL : "https://github.com/deeplearning4j/nd4j/issues/2094" TITLE : tf concepts parity BODY : right now we're missing few graph concepts on java side, which tf and probably others has: - conditional ops execution - multi-output operations

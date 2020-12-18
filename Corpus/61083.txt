@@ -1,0 +1,1 @@
+ URL : "https://github.com/mattstratton/bowie/issues/16" TITLE : add version information BODY : this should take the version from goreleaser and provide it via a flag to the command.

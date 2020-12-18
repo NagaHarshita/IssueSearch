@@ -1,0 +1,1 @@
+ URL : "https://github.com/AmpersandHQ/magento-ce-ee-config-corruption-bug/issues/9" TITLE : fixed in magento 1.9.3.1 BODY : thanks for all your work! you may want to add that this issue is fixed in magento 1.9.3.1. see https://github.com/openmage/magento-mirror/blob/magento-1.9/app/code/core/mage/core/model/config.php l260

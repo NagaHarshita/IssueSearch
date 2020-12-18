@@ -1,0 +1,20 @@
+ URL : "https://github.com/stevendelarwelle/remotejobs/issues/3350" TITLE : digital design engineer BODY : digital design engineer<br>
+http://ift.tt/2rniryj<br><p>at reconfigure.io, we're making reconfigurable hardware as easy to<br>
+develop and use as software. we do this though a platform that can<br>
+build &amp; deploy go code to run on fpgas in the cloud.</p>
+<br><p>we're looking for a digital design engineer to work on our go<br>
+compiler. you'd work on tools to lower the barrier to entry for high<br>
+performance computing, by developing the core fpga components our<br>
+compiler uses.</p>
+<br><p>some of the projects the digital design teams has worked on in the last quarter include:</p>
+<br><p> designing new low level fpga hardware components<br> reducing place &amp; route time for user code<br> developed go libraries allowing for efficient &amp; safe pipelined memory access</p>
+<br><p>you would work with a small, distributed team with varied skillsets,<br>
+that strives for empathy and inclusiveness in our work. we have folks<br>
+with experience in hardware design, compilers, backend, devops, and<br>
+machine learning.</p>
+<br><p>we use slack &amp; hangouts to keep in touch, and trello to track<br>
+work. building a great developer workflow is essential to our<br>
+products, so we use continuous integration &amp; continuous deployment.</p>
+<br><br>
+via remote jobr programming jobs http://ift.tt/1wipnmk<br>
+july 22, 2017 at 01:05am

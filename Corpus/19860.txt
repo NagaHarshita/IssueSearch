@@ -1,0 +1,8 @@
+ URL : "https://github.com/Zimmi48/bugzilla-test-2/issues/2640" TITLE : an assertion fails BODY : note: the issue was created automatically with bugzilla2github tool original bug id: bz 2640
+date: 2011-11-12 00:31:33 +0100
+from: @ vporton
+reported version: 8.3
+cc: @ herbelin last updated: 2011-11-17 23:52:07 +0100 @ vporton on 2011-11-12 00:31:33 +0100 created attachment 302
+a script which triggers the error coq 8.3pl2 $ coqc test.v
+file ./test.v , line 18, characters 4-27:
+anomaly: type_of: variable other unbound. please report. > attached file: test.v https://coq.inria.fr/bugfiles/attachment.cgi?id=302 text/x-verilog, 350 bytes > description: a script which triggers the error @ herbelin on 2011-11-17 23:20:39 +0100 thanks for reporting. the bug is now fixed in trunk r14676 and branch v8.3 r14677 . the bug is however minor: the using statement expects a tactic but a term has been given. it does not affect the use of the declarative mode, it only raises an anomaly instead of an error. @ vporton on 2011-11-17 23:51:06 +0100 note that my code uses ssreflect and gaia http://www-sop.inria.fr/apics/gaia/ . @ vporton on 2011-11-17 23:52:07 +0100 oh, sorry for my previous comment. i commented wrong bug. i reported an other independent bug.

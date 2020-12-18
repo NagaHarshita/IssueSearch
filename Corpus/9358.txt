@@ -1,0 +1,1 @@
+ URL : "https://github.com/lenchan139/NCBookmark/issues/2" TITLE : v2: use page=-1 BODY : usw page=-1 query param in order to disable pagination.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/WinGood/cordova-plugin-audio-interruption/issues/1" TITLE : please add to readme BODY : although in the global scope, it is not available until after the deviceready event.

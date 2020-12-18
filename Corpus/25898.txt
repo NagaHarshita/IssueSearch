@@ -1,0 +1,1 @@
+ URL : "https://github.com/CanopyTax/single-spa/issues/100" TITLE : add getappnames api BODY : similar to getmountedapps , except it gives you all of the apps that have ever been declared.

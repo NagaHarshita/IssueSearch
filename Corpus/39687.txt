@@ -1,0 +1,1 @@
+ URL : "https://github.com/fataly27/SINAH/issues/4" TITLE : spawn chez le client BODY : bug des unités spawnées par un bâtiment du client, qui semblent reset au bout de 5 secondes. ils ne sont alors plus contrôlables, parfois plus visibles, mais restent rouges leur ia fonctionne , et consomment de la nourriture.

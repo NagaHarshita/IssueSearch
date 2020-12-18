@@ -1,0 +1,1 @@
+ URL : "https://github.com/servo/servo/issues/15105" TITLE : audit the truetype crate. BODY : i just took a quick look, what i saw looks reasonable and i opened https://github.com/bodoni/truetype/issues/5 to see the thoughts of the author. this is just for tracking it, given it's a relatively exposed crate. cc @vvuk

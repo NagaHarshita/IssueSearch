@@ -1,0 +1,1 @@
+ URL : "https://github.com/SonarSource/sonar-csharp/issues/998" TITLE : reduce size of jar BODY : size of the jar should be reduced: https://jira.sonarsource.com/browse/mmf-1121 . we should: - shade and minimize the jar; - optimize protobuf with lite_runtime instead of speed . difference is 3.3mb to 1.4mb.

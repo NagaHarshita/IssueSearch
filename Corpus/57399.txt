@@ -1,0 +1,1 @@
+ URL : "https://github.com/kvandake/SCLAlertView-Xamarin/issues/1" TITLE : properties are missing BODY : //override top circle tint color with background color alert.tinttopcircle = no; //set custom corner radius for sclalertview alert.cornerradius = 13.0f; //overwrite sclalertview background color alert.backgroundviewcolor = uicolor cyancolor ;

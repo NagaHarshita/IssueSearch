@@ -1,0 +1,1 @@
+ URL : "https://github.com/GorlifSense/rocket-snake/issues/15" TITLE : package.json run commands BODY : change global call to local call: mocha --> ./node_modules/.bin/_mocha do for every package call

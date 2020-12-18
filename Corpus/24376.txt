@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/WindowsTemplateStudio/issues/900" TITLE : sql server support BODY : for new features: i think if there was an option to add a wcf service, that would be awesome as it would save so much time. if it was to the point where we only had to add our connection string and query that would be amazing too.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/YsuSERESL/iTrace/issues/94" TITLE : data format needed BODY : need to come to agreement on the data format that will be used to store eye tracking data generated from sessions. the change of the data format will impact fixation filters, visualization components, and anything else that uses the fixation and raw gaze data output by itrace core.

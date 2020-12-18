@@ -1,0 +1,1 @@
+ URL : "https://github.com/coin-or/CHiPPS-ALPS/issues/1" TITLE : default clock type BODY : the default clock type is cpu. the comment in the header file https://github.com/coin-or/chipps-alps/blob/master/alps/src/alpsparams.h l70 needs corrected.

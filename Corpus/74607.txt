@@ -1,0 +1,1 @@
+ URL : "https://github.com/Neriadok/SkyFires/issues/55" TITLE : extraer juego como clase BODY : se requiere que la lógica de juego de extraiga en una clase js a la que llamar posteriormente.

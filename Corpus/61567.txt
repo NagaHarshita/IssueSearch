@@ -1,0 +1,1 @@
+ URL : "https://github.com/reaver-project/vapor/issues/32" TITLE : basic i/o functionality BODY : basic i/o probably more o than i functionality, so that the black box tests can be made more interesting. depends on 23. rfc and specification implementation tests

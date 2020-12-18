@@ -1,0 +1,1 @@
+ URL : "https://github.com/Shenglian/WORK_TIP/issues/9" TITLE : scss paragraph BODY : scss // 計算段落用 @mixin paragraph $height,$many { height: $height $many; line-height: $height; overflow: hidden; }

@@ -1,0 +1,1 @@
+ URL : "https://github.com/slide-rs/specs/issues/289" TITLE : usage with nphysics2d? BODY : using the nphysics world as a resource doesnt work no send trait on 1 quintillion diffrent objects , what is the most efficient way to do it then?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/martinthomson/encrypted-content-encoding/issues/34" TITLE : move to cryptography ecdh BODY : since pyelliptic is no longer supported, and cryptography 1.1 added ecdh support https://cryptography.io/en/latest/hazmat/primitives/asymmetric/ec/ elliptic-curve-key-exchange-algorithm , that seems like a reasonable way to go.

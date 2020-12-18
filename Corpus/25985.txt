@@ -1,0 +1,1 @@
+ URL : "https://github.com/chrisburgin95/bands_of_yore/issues/7" TITLE : add more adjectives BODY : in /app/data/adjectives.js add more adjectives that might be used in the olden times. the adjectives are a held in an array. it will be very easy and simple to add them! requirements - have fun! - be creative!

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ivoarch/gnome-shell-TilixDropdown/issues/7" TITLE : often crash to gdm BODY : when i click on icon on panel to show tilix dropdown often crash whole gnome shell to gdm. i'm using archlinux with gnome 3.24.2. installed from gnome shell extensions webpage.

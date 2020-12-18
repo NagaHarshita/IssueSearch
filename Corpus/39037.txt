@@ -1,0 +1,1 @@
+ URL : "https://github.com/opsdroid/opsdroid-desktop/issues/2" TITLE : render images inline BODY : if the user or the bot sends a link to an image it should be downloaded and shown inline.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/KevinOConnor/klipper/issues/47" TITLE : unable to parse move BODY : happens on longer g-code files with the multistepper branch, tried two different gcode base files. log https://drive.google.com/file/d/1jzcg0m3zu-w2tgvkd8sckuctb5x0rh5e/view?usp=sharing

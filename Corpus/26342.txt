@@ -1,0 +1,1 @@
+ URL : "https://github.com/ctubio/php-proxy-keyserver/issues/2" TITLE : apache wrong config BODY : missed line: rewriterule ^ . $ /php-proxy-keyserver.php?$1 qsa,l

@@ -1,0 +1,1 @@
+ URL : "https://github.com/AnthonyBloomer/smartmove-api/issues/2" TITLE : improve charts endpoint. BODY : the charts endpoint could be improved. 1. allow users to create charts that can be used by other developers. 2. improve endpoints i.e. charts/1/ instead of charts/average-sale-price

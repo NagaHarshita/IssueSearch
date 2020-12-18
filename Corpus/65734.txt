@@ -1,0 +1,1 @@
+ URL : "https://github.com/socketio/socket.io-protocol/issues/16" TITLE : lack of version history BODY : there should be a branch for each version of the protocol, as there are branches on the socket.io repository for the various versions. i have found it extremely frustrating to develop a client implementation without this necessary information.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/n2cms/n2cms/issues/811" TITLE : email form and tls 1.2 BODY : hi my server is enabled only tls 1.2 and the tls 1.0 and tls 1.1 is disabled, its show error the client and server cannot communicate, because they do not possess a common algorithm

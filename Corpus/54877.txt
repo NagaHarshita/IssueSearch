@@ -1,0 +1,1 @@
+ URL : "https://github.com/dapphub/dapp/issues/29" TITLE : how to test modifiers? BODY : lets say i have: modifier onlyowner { if msg.sender != owner throw; _; } how do i test it?

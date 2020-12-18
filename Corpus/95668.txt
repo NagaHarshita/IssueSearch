@@ -1,0 +1,1 @@
+ URL : "https://github.com/electron/electron/issues/8387" TITLE : detecting network activity BODY : is there a way to detect if any network activity is going on in the background through electron? if not i would like to request it as a feature. thank you,

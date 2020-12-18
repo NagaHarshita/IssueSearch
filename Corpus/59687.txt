@@ -1,0 +1,1 @@
+ URL : "https://github.com/ZURASTA/cake/issues/3" TITLE : upgrade to elixir v1.5 BODY : - implement new child spec strategy. - utilise start_supervised/2 to cleanup how tests are being done. - update min elixir version requirement.

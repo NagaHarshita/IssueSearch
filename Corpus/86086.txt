@@ -1,0 +1,1 @@
+ URL : "https://github.com/Navdevl/Sage/issues/1" TITLE : global timezone is needed BODY : proposed issue please follow the general troubleshooting steps first: _put an x in the boxes that apply_ - bug fix ? - x new feature ? - deprecation error ? additional information: expected behavior : should sync with local timezone. current behavior : stays in utc.

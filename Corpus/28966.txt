@@ -1,0 +1,1 @@
+ URL : "https://github.com/gburtini/PHP-Hooks-System/issues/3" TITLE : improve test suite. BODY : review test suite for coverage and integrate with travisci for version validation.

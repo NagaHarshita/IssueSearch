@@ -1,0 +1,1 @@
+ URL : "https://github.com/marcobeierer/joomla-sitemapgenerator/issues/12" TITLE : ignore embedded content BODY : check if option ignore embedded content is enabled by default. that shouldn't be the case.

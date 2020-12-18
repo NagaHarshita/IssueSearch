@@ -1,0 +1,1 @@
+ URL : "https://github.com/rmarscher/virtual-module-webpack-plugin/issues/17" TITLE : fix webpack-1 example BODY : it looks like i copied the webpack 1.x example from a webpack 2 beta example. i'm in the process of getting a real webpack 1 example working again.

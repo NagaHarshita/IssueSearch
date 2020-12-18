@@ -1,0 +1,1 @@
+ URL : "https://github.com/openSUSE/software-o-o/issues/151" TITLE : new ui theme BODY : hello, i am making a new ui theme for opensuse sites. it is based on bootstrap 4 and applied opensuse design guidelines. https://github.com/guoyunhe/chameleon here are already some page demos. if you would like to add it to software.opensuse.org , i can make a pull request later.

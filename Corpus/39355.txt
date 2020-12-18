@@ -1,0 +1,1 @@
+ URL : "https://github.com/fcapano/Edit-This-Cookie/issues/183" TITLE : search does not work BODY : steps to reproduce: 1. open www.yandex.ru 2. click on editthiscookie icon 3. check that cookie zm includes text white - http://joxi.ru/82qmjp7u1vqly2 4. click on find button and try to search by white - http://joxi.ru/ea410npsdnjgbr result: nothing found

@@ -1,0 +1,1 @@
+ URL : "https://github.com/remy/nodemon/issues/1046" TITLE : spawn cmd enoent BODY : ! image https://user-images.githubusercontent.com/13918481/27038735-6b6ff52e-4fbe-11e7-8251-36a9998d7d85.png --- - node: - nodemon: 1.10.2 - windows: 10

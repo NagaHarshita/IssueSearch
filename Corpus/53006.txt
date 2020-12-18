@@ -1,0 +1,1 @@
+ URL : "https://github.com/sorich87/bootstrap-tour/issues/654" TITLE : cut a release for bs4? BODY : do you have a timeframe for cutting a release with the latest changes to support bs4? notably, removing bs3 dependency from bower.json

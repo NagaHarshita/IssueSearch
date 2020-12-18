@@ -1,0 +1,1 @@
+ URL : "https://github.com/BenjiLee/PoloniexAnalyzer/issues/46" TITLE : calculate fees are off BODY : polo mixes usdt and btc when returning you fees instead of always giving you btc as a fee. if given usdt, this value also has to be converted against the time of the trade. @criptonauta cc thanks for the info.

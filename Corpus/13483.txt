@@ -1,0 +1,1 @@
+ URL : "https://github.com/OCA/l10n-usa/issues/10" TITLE : us check writing BODY : improvements remove the dependency on l10n_us_check_writing add the dependency on account_check_printing_report_base relicense the module to agpl-3

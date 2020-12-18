@@ -1,0 +1,1 @@
+ URL : "https://github.com/RMerl/asuswrt-merlin/issues/1245" TITLE : ac68u - 380.65 sshd hangs BODY : after upgrade to 380.65 sshd server hangs and connection to port 22 times out. turning ssh off/on or reboot helps for some time, but it happens now all the time.

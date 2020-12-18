@@ -1,0 +1,1 @@
+ URL : "https://github.com/platformio/platformio-core/issues/910" TITLE : how to hide search panel? BODY : it seems that a lot of design mistakes in the ide. the simple example - it isn't possible to close search panel. i open chrome dev tool and remove the tag. stupid.

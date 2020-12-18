@@ -1,0 +1,1 @@
+ URL : "https://github.com/lisk-builders/lisk-buttons/issues/11" TITLE : add prop successtitle BODY : it would be nice to be able to pass a title of the button that needs to be shown if nano opened successfully. for example for voting: successtitle= done, click to cast vote again

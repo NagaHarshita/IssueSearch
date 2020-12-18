@@ -1,0 +1,1 @@
+ URL : "https://github.com/thotypous/mikroe-uhb/issues/7" TITLE : error in boot info field BODY : debug:mikroeuhb.device:recv data: 3801140008000000000008000300001004000002050000130600000000c0079d07636c69636b6572203220666f722050494333324d580000df3376d09b32a4f2 error:mikroeuhb.bootinfo:field 88 not recognized -- aborting parsing

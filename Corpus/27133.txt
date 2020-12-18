@@ -1,0 +1,1 @@
+ URL : "https://github.com/jiangwen365/pypyodbc/issues/57" TITLE : connect to teradata BODY : can anyone given an example script of connecting to teradata sql? i can make it work in pyodbc but not pypyodbc.

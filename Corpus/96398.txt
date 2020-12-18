@@ -1,0 +1,1 @@
+ URL : "https://github.com/CoatiSoftware/SourcetrailBugTracker/issues/467" TITLE : errors in qtcreator plugin BODY : produces following errors on launch after copying libsourcetrail.dylib in the plugins folder: those folders contain errors and cannot be loaded: unable to resolve dependency: core 4.2.0 unable to resolve dependency: cppedit 4.2.0

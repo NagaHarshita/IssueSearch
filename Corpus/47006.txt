@@ -1,0 +1,1 @@
+ URL : "https://github.com/akubera/bigdecimal-rs/issues/24" TITLE : no bitwise operators? BODY : traits like shl seems to be missing :open_mouth:

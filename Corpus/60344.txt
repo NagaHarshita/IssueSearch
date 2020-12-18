@@ -1,0 +1,1 @@
+ URL : "https://github.com/crapthings/lodash-form-collector/issues/13" TITLE : 支持 string to array BODY : input 中如果有规律的 支持 切成数组如 <input type='text name='toarray' value='a, b, c ,d ,e ,f' data-array /> { toarray: a, b, c, d, e, f } 支持 data-separator 决定分隔符，默认为 split 的默认 , 默认 textarea 是检测 回行 然后 再逗号

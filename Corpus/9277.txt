@@ -1,0 +1,1 @@
+ URL : "https://github.com/AgenciaImplementacion/umleditor/issues/1" TITLE : update ili file BODY : reload an .ili file or update it when source changes. useful to keep modularity between models

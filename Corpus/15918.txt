@@ -1,0 +1,1 @@
+ URL : "https://github.com/rick/linode/issues/38" TITLE : gem version 0.9.1 BODY : hi, issue 32 is breaking our chef infrastructure. would you mind releasing a new version of the gem for 0.9.1? in the meantime, we'll set an explicit git sha in our gemfile. it'll be a bit messy. thanks!

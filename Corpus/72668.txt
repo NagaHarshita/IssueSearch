@@ -1,0 +1,1 @@
+ URL : "https://github.com/cloudfoundry/diego-windows-release/issues/25" TITLE : cannot find generate.exe BODY : the documentation mentions a generate.exe tool, however, i cannot find it.

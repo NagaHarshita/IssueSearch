@@ -1,0 +1,1 @@
+ URL : "https://github.com/reflex-frp/reflex/issues/87" TITLE : incremental doc wrong? BODY : hi there it seems the documentation for incremental is just copy pasted from dynamic: https://github.com/reflex-frp/reflex/blob/develop/src/reflex/class.hs l219 i guess this is wrong?

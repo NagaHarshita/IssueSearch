@@ -1,0 +1,1 @@
+ URL : "https://github.com/DmitryBaranovskiy/raphael/issues/1086" TITLE : x-axis being inverted BODY : this statement leaves x-axis pointing towards right right: raphael.matrix 1, 0, 0, 1, xoffset, yoffset ; where as this: raphael.matrix 1, 0, 0, -1, xoffset, yoffset ; seems to invert the x-axis. from my understanding a b c d are rotation parameters where as e and f are offset.

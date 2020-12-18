@@ -1,0 +1,1 @@
+ URL : "https://github.com/kstep/vkrs/issues/63" TITLE : wip update dependencies BODY : i'm working on updating all dependencies to the latest versions firstly, to serde 1.0 . related 58

@@ -1,0 +1,1 @@
+ URL : "https://github.com/sindresorhus/create-dmg/issues/12" TITLE : feature request output dir BODY : hey, this is a great tool but it would be awesome if you could let us choose the output directory rather than creating the .dmg on the current directory. thanks!

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ShelterTechSF/askdarcel-web/issues/317" TITLE : add frontend tests BODY : we don't have a single line of test for the frontend code. this would help us catch a lot of errors before deploying to staging. cc @lexholden, since it sounded like he started work on this.

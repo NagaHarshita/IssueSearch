@@ -1,0 +1,1 @@
+ URL : "https://github.com/a-klimov/beehive-test-embedder/issues/2" TITLE : create testngstories class BODY : testng-runnable entry-point to run multiple stories specified by storypaths .

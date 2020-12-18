@@ -1,0 +1,1 @@
+ URL : "https://github.com/payfort/opencart2.0-payfort/issues/16" TITLE : name on card BODY : hello our customer get a 3d secure error when trying to pay, i thing this because some time they register in different name and the card have another name, is it possible to add name field to the beautiful js popup window?

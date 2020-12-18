@@ -1,0 +1,1 @@
+ URL : "https://github.com/DropMuse/DropMuse/issues/24" TITLE : fix encoding bugs BODY : some of the songs and lyrics have values that ascii / utf8 cannot decode. not sure if this is a db issue or if something in the app needs to be changed.

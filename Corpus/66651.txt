@@ -1,0 +1,1 @@
+ URL : "https://github.com/DubFriend/jquery.repeater/issues/59" TITLE : nested select top level BODY : i've set up a two-level repeater top level are 'a', inner level are 'b' . how can select top level like this : <div id= a 0 > ~~~~~ </div> i can select element in inner level 'b' <input name= a 0 b 1 description type= text >

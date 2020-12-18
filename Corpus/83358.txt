@@ -1,0 +1,1 @@
+ URL : "https://github.com/iamntz/carbon-fields-urlpicker/issues/1" TITLE : can't install w/ composer BODY : i think there needs to be a tagged release? > problem 1 > - the requested package iamntz/carbon-fields-urlpicker could not be found in any version, there may be a typo in the package name.

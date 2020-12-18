@@ -1,0 +1,1 @@
+ URL : "https://github.com/hizhangp/yolo_tensorflow/issues/3" TITLE : train my own pictures BODY : if i want to train this network on my own pictures, should i make my data the same format as voc?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/bootstrap-vue/bootstrap-vue/issues/1001" TITLE : dropdowns not working BODY : i am using bootstrap-vue and trying to implement dropdown but it is not working properly. i have also implemented popper.js in my project.

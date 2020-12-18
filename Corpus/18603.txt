@@ -1,0 +1,1 @@
+ URL : "https://github.com/ssh-vault/ssh-vault/issues/21" TITLE : trim extra spaces BODY : while specifying keys in a file that contain an extra space/line brakes probably: ssh-vault -k custom.pem -f outputs: use a public ssh key: illegal base64 data at input byte 0

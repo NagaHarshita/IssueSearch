@@ -1,0 +1,1 @@
+ URL : "https://github.com/zendawg/timeclock4j/issues/6" TITLE : date picker for ui BODY : the text field areas for date entry aren't ideal; take a look at https://github.com/lgooddatepicker/lgooddatepicker . it would be good to incorporate this into the clock-in and -out options swing panels.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Sentenai/solr-query/issues/3" TITLE : unary not ! operator BODY : i'm currently trying to write a query that negates a complex query and it seems the ! ... unary negation operator is not supported in solr-query. adding support for this would make life much easier.

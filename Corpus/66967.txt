@@ -1,0 +1,1 @@
+ URL : "https://github.com/marufhasan1/db_backup/issues/1" TITLE : null are converted to 0 BODY : $dbbackup->save generates a .sql file where null are replaced by 0

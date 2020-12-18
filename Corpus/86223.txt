@@ -1,0 +1,1 @@
+ URL : "https://github.com/jccapetown/networkdiagram/issues/1" TITLE : hav the following error.. BODY : > python networkdiagram.py file networkdiagram.py , line 26 print 'traceroute complete %s' % ip ^ syntaxerror: missing parentheses in call to 'print'

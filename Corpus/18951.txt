@@ -1,0 +1,1 @@
+ URL : "https://github.com/mbbuehler/CSFS/issues/4" TITLE : validation of job BODY : validate job specifically input csv and return message to user. so far an invalid csv results in a server error 500 .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/CSC322-Grinnell/curricular-planning/issues/25" TITLE : create landing page BODY : we define no root route, so we get a default rails landing page. this should probably be a signin page or an about page.

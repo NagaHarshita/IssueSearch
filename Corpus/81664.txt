@@ -1,0 +1,5 @@
+ URL : "https://github.com/lionheart/openradar-mirror/issues/16942" TITLE : 30592341: clang++ crashes BODY : description clang++ segfaults when attempting compilation of the attached c++ source. -
+product version: apple llvm version 8.0.0 clang
+created: 2017-02-18t17:59:12.305020
+originated: 2017-02-18t00:00:00
+open radar link: http://www.openradar.me/30592341

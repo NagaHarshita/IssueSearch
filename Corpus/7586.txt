@@ -1,0 +1,1 @@
+ URL : "https://github.com/scikit-learn-contrib/hdbscan/issues/106" TITLE : hdbscan on gpu? BODY : hi guys, will there be any plan to develop a gpu enabled version of this amazing algorithm/package? unfortunately i have to admit that i'm new to gpu so won't be able to contribute anytime soon... thanks.

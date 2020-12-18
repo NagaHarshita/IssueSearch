@@ -1,0 +1,1 @@
+ URL : "https://github.com/amberframework/amber/issues/294" TITLE : error pages generator BODY : description when first creating a new application, an error controller is provided but it isn't hooked up and doesn't do anything without some work. create a new generator that will provide the 3 views, the error controller, and the registry of the handler in the pipeline.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/CroPort/3DTouchManager/issues/2" TITLE : not importable from swift BODY : with cocoapods, this module starting with a number '3' can't be imported from swift. i manually dragged the files into my project to solve this and, for my own convenience, translated them into swift 3. you may like to change the module mane into 'cp3dtouchmanager' soon.

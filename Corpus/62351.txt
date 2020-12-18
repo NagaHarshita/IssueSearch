@@ -1,0 +1,1 @@
+ URL : "https://github.com/openshiftio/openshift.io/issues/388" TITLE : clean up che workspaces BODY : the number of workspaces tends to grow over time. https://screencast.com/t/gmfoy9zcrae besides the screen above, what is the technique for removing workspaces you no longer need? are there other places to go clean up?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Andromedans/andromeda/issues/379" TITLE : ml type printing with :> BODY : if i do let f :> forall a, a -> a = fun x => x it prints val f : forall a, a -> a , it should be :>

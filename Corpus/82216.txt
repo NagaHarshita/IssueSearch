@@ -1,0 +1,1 @@
+ URL : "https://github.com/igord/sendy-api/issues/7" TITLE : add name when subscribing BODY : as of today, there only exists an option to subscribe emails to lists. it would be a great improvement to add the name field as an optional field as well, like sendy supports via the web portal.

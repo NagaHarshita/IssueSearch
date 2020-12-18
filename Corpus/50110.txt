@@ -1,0 +1,1 @@
+ URL : "https://github.com/lukehsiao/CribSense/issues/55" TITLE : virtual camera source BODY : i'm running a virtual camera source instead of the camera in your tutorial. when i specify that camera which i can view via vlc so i know the virtual device is working , i get a invalid argument error from cribsense. any idea how to troubleshoot?

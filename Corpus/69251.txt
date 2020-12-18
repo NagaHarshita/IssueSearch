@@ -1,0 +1,1 @@
+ URL : "https://github.com/reactjs/react-autocomplete/issues/259" TITLE : support for css classes BODY : it would be nice to be able to style autocomplete with class names vs style objects. not sure of the best way to do this. perhaps let the caller pass in a wrapper class name and a menu class name.

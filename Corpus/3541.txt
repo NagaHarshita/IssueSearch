@@ -1,0 +1,1 @@
+ URL : "https://github.com/bchurchill/badi-cal/issues/17" TITLE : retire v1 api BODY : the v1 api is probably only used for the example code, so we could reasonably refactor it into the example itself and not need to worry about maintaining it.

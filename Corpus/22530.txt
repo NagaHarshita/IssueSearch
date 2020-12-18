@@ -1,0 +1,1 @@
+ URL : "https://github.com/jinyeom/neat/issues/3" TITLE : loading and saving BODY : is there a way to save and load prior trained models? forgive my ignorance as i am new but would it be as simple as serializing/deserializing the neat instance?

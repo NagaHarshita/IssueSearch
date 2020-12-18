@@ -1,0 +1,1 @@
+ URL : "https://github.com/google/gitiles/issues/106" TITLE : download raw file BODY : it seems like it's not possible to get a raw file from a repo with gitiles with a regular http url. this is a serious missing feature that currently makes us still need to use cgit.

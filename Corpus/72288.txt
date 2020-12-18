@@ -1,0 +1,1 @@
+ URL : "https://github.com/zendesk/samson/issues/2109" TITLE : boot samson as a service BODY : hello again, i was wondering if there was a standard way to run samson at boot, maybe with systemd... running bundle exec rails s -d will only run puma without the actual application... thanks vittorio

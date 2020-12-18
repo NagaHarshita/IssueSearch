@@ -1,0 +1,1 @@
+ URL : "https://github.com/sympy/sympy/issues/13169" TITLE : mod x 2, x is not always 0 BODY : when the base is not an integer, x 2 % x is not 0. the base is not tested to be an integer in mod's eval logic: if p == q or p == -q or p.is_pow and p.exp.is_integer and p.base == q or p.is_integer and q == 1 : return s.zero so >>> mod x 2, x 0 but >>> x = s 1.5 >>> mod x 2, x 0.75

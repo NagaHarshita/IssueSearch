@@ -1,0 +1,1 @@
+ URL : "https://github.com/istanbuljs/istanbuljs/issues/103" TITLE : hook code run with eval BODY : it would be very helpful to get coverage when eval ing code from a test file: js testcode = fs.readfilesync 'src-file.js', 'utf-8' ... eval testcode

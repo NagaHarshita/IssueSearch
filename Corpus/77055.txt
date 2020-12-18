@@ -1,0 +1,1 @@
+ URL : "https://github.com/atlarge-research/graphalytics-platforms-graphx/issues/11" TITLE : missing license headers. BODY : the build process with mvn clean package failed due to missing license headers.

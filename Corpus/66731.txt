@@ -1,0 +1,1 @@
+ URL : "https://github.com/reysam93/OMICRON-GNURadio/issues/3" TITLE : new snr limits required BODY : the snr values that control the use of the different modulation are to high, it is almost imposible to reach higher modulation even if the error rate allows it. these snr values should be redefined.

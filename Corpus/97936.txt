@@ -1,0 +1,1 @@
+ URL : "https://github.com/rintoj/angular2-virtual-scroll/issues/109" TITLE : ie demo sample not working BODY : i am try to check the performance in ie11 using this link http://rintoj.github.io/angular2-virtual-scroll/ samples sample is not working in ie11, please fix it

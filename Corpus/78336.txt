@@ -1,0 +1,1 @@
+ URL : "https://github.com/kangarko/ChatControl-Pro/issues/301" TITLE : problem editing chat.txt BODY : hello, i'm having a problem when i try to edit chat.txt, it says cannot define operator when nothing is beind created! file: ... line 0: ' strange thing ---... . i don't know what's wrong, can you help me? thanks.

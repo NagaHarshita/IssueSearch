@@ -1,0 +1,1 @@
+ URL : "https://github.com/BetKingIO/SampleApp/issues/5" TITLE : view bet details BODY : clicking on bet id should show a dialog with details of the bet. backend api needed to retrieve the details to display.

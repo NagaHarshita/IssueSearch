@@ -1,0 +1,1 @@
+ URL : "https://github.com/nginxinc/kubernetes-ingress/issues/177" TITLE : cluster wide controller? BODY : is there any way to run a non-namespace specific controller? i.e a controller that monitors the creation of ingress routes across all namespaces and then incorporates the service.namespace in its proxy settings?

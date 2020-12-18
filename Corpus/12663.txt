@@ -1,0 +1,1 @@
+ URL : "https://github.com/tidyverse/readr/issues/700" TITLE : read_ with n_max BODY : i have some big csv files where i need to check the first couple of rows. even though i use n_max = 5 it seems that the whole file is read in at least it takes forever . the base functions behave much better here as they only read in the required parts.

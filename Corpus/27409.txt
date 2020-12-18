@@ -1,0 +1,1 @@
+ URL : "https://github.com/jirmauritz/MapOfNews/issues/3" TITLE : cut title when long BODY : if the title does not fit on two lines, cut it and add three dots.

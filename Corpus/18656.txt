@@ -1,0 +1,1 @@
+ URL : "https://github.com/dgouramanis/OPTOCAPE/issues/1" TITLE : uart4 rx inverted BODY : the opto buffer for p9.11 inverts the incoming serial data. so an incoming start bit from external system should be high.

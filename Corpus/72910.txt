@@ -1,0 +1,1 @@
+ URL : "https://github.com/cloudant/nodejs-cloudant/issues/223" TITLE : citgm - cloudant failing BODY : citgm is failing running cloudant. test error: bash error: enoent: no such file or directory, open '.env' steps to recreate: bash npm install -g citgm citgm cloudant

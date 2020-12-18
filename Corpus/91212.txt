@@ -1,0 +1,1 @@
+ URL : "https://github.com/HabitRPG/habitica/issues/9425" TITLE : task error in group plans BODY : group plans: when you are viewing tasks in the guild’s task management page, if you try to complete a task there, you see the error message “task not found”. it should say something along the lines of “you need to claim this task and then complete it in your own task list”.

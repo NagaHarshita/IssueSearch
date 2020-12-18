@@ -1,0 +1,1 @@
+ URL : "https://github.com/bryanph/Geist/issues/72" TITLE : refactor graph code BODY : make all graph code run under same force graph, but swap in and out events and data. also makes sure animations are possible.

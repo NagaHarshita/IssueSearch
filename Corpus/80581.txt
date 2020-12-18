@@ -1,0 +1,1 @@
+ URL : "https://github.com/sahlhoff/react-native-pulse/issues/9" TITLE : unable to load image url BODY : hi there, is this support to load image from url with below code? <pulse color= orange numpulses={3} diameter={400} speed={20} duration={2000} image={{ source: { uri: http://www.freeiconspng.com/uploads/calendar-date-event-month-icon--19.png } }} />

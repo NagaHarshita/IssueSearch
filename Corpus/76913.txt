@@ -1,0 +1,1 @@
+ URL : "https://github.com/bdancer/blender-for-vray/issues/222" TITLE : matrix node doesn't work BODY : windows build 2a47a73 i tried to rotate hdri in world tab and noticed that matrix doesn't work. on older build 198a09a everything is fine

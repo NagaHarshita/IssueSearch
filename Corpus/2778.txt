@@ -1,0 +1,1 @@
+ URL : "https://github.com/Waffle/waffle/issues/478" TITLE : drop spring 3 BODY : see here https://spring.io/blog/2015/06/15/spring-framework-3-2-x-eol-on-dec-31-2016 essentially as tomcat6 is officially eol after the final cut coming soon, so too is spring 3. therefore we should go ahead and drop it then start planning for the future ie spring 5 which is java 8 .

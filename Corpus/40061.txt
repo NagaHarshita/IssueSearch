@@ -1,0 +1,1 @@
+ URL : "https://github.com/osTicket/osTicket/issues/3585" TITLE : task related queries BODY : running osticket ver. 1.10 1. task in the task list does not show ticket for which it is created for . 2. is there any way by which all tasks would not be visible to all currently all tasks visible to all ideally only tasks assigned to me should only be visible

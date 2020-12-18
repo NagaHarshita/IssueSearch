@@ -1,0 +1,1 @@
+ URL : "https://github.com/Biocaching/app/issues/26" TITLE : unexpected status 500 BODY : steps to reproduce: 1. browse to a species page in the popular taxonomy for example grønlandssel . 2. switch to scientific taxonomy. 3. switch back to popular taxonomy. now a 500 error is triggered.

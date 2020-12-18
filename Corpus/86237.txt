@@ -1,0 +1,1 @@
+ URL : "https://github.com/ethcore/parity/issues/4801" TITLE : health check api endpoint BODY : curl -v http://localhost:8080/api/status should return basic health of the node: number of peers, syncing status

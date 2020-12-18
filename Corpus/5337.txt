@@ -1,0 +1,20 @@
+ URL : "https://github.com/iotaledger/android-wallet-app/issues/65" TITLE : no data showed BODY : description:
+--- after login app remain in the initial data grabbing state device info:
+---
+<table>
+<tr><td>app version</td><td>0.6.5</td></tr>
+<tr><td>app version code</td><td>6500</td></tr>
+<tr><td>android build version</td><td>ww_z00a-ww_2.20.40.198_20160930_8756_user_rel-user-20160930</td></tr>
+<tr><td>android release version</td><td>5.0</td></tr>
+<tr><td>android sdk version</td><td>21</td></tr>
+<tr><td>android build id</td><td>lrx21v.ww-asus_z00a-2.20.40.198_20160930_8756_user</td></tr>
+<tr><td>device brand</td><td>asus</td></tr>
+<tr><td>device manufacturer</td><td>asus</td></tr>
+<tr><td>device name</td><td>z00a</td></tr>
+<tr><td>device model</td><td>asus_z00ad</td></tr>
+<tr><td>device product name</td><td>ww_z00a</td></tr>
+<tr><td>device hardware name</td><td>mofd_v1</td></tr>
+<tr><td>abis</td><td> x86, armeabi-v7a, armeabi </td></tr>
+<tr><td>abis 32bit </td><td> x86, armeabi-v7a, armeabi </td></tr>
+<tr><td>abis 64bit </td><td> </td></tr>
+</table>

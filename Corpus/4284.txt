@@ -1,0 +1,1 @@
+ URL : "https://github.com/malucooo/Otxserver-New/issues/212" TITLE : bug coal basin BODY : https://github.com/malucooo/otxserver-new/blob/master/data/movements/scripts/others/tombcoalbasin.lua ta errado, o certo é jogar no coal e o player entrar, se jogar e o player nao estiver em cima o scarab coin ta sumindo

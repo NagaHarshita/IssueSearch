@@ -1,0 +1,1 @@
+ URL : "https://github.com/janosrusiczki/japr/issues/28" TITLE : gemspec file updates BODY : update rubygems version remove trailing ' from the description include changelog.md in the files array

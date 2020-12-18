@@ -1,0 +1,1 @@
+ URL : "https://github.com/kronenthaler/mod-pbxproj/issues/149" TITLE : error by adding a folder BODY : valueerror: unknown file extension: .def. please add the extension and xcode type to projectfiles._file_types

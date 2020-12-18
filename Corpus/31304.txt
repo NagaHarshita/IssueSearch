@@ -1,0 +1,1 @@
+ URL : "https://github.com/dxx-rebirth/dxx-rebirth/issues/302" TITLE : self destruct crash BODY : this one is interesting. if the self destruct is counting down, and anyone dies in the mine. be it a robot, or the counter hitting 0, that person will crash. weird, i know. rebirth d1x version 0.60 have not recreated in d2x

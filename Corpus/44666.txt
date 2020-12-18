@@ -1,0 +1,1 @@
+ URL : "https://github.com/NixOS/nixpkgs/issues/31092" TITLE : firefox is pretty old BODY : issue description nix gives me firefox nightly 56.0.1 64-bit . shouldn't that be updated from time to time? technical details system: 17.09.1919.6698e68aee hummingbird nix version: nix-env nix 1.11.15 nixpkgs version: 17.09.1919.6698e68aee sandboxing enabled: build-use-sandbox = false

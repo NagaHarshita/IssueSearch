@@ -1,0 +1,1 @@
+ URL : "https://github.com/Neft-io/neft/issues/269" TITLE : <style> inside <component> BODY : document → <style> inside 'component' element detected; <style> needs to be defined as top-level element in your file or component

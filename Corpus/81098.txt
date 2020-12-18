@@ -1,0 +1,1 @@
+ URL : "https://github.com/Kimsoeon/SimpleDiary/issues/2" TITLE : view 객체의 참조값 BODY : - mainactivity 설정된 레이아웃에 사용된 view 객체의 참조값을 참조변수에 대입

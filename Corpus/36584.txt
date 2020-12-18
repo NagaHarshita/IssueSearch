@@ -1,0 +1,1 @@
+ URL : "https://github.com/goto-bus-stop/miniplug/issues/19" TITLE : http request backoff BODY : to prevent getting locked out of plug.dj because of rate limiting, api requests should be spaced out somewhat.

@@ -1,0 +1,8 @@
+ URL : "https://github.com/natenault/fullstack-jscms/issues/5" TITLE : create server-side routes BODY : /api/posts - get
+/api/posts/:userid - get
+/api/posts/:postid - get
+/api/posts/:postid - post
+/api/posts/:postid - put
+/api/posts/:postid - delete
+/api/users/signup - post
+/api/users/login - post

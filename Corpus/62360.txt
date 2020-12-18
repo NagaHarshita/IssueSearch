@@ -1,0 +1,1 @@
+ URL : "https://github.com/dedis/onet/issues/99" TITLE : clean up testing in app BODY : now: app/io.go is tested by app/config_test.go wanted: move all tests from app/config_test.go related to app/io.go to app/io_test.go .

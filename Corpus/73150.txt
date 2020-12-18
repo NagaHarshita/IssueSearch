@@ -1,0 +1,1 @@
+ URL : "https://github.com/tilezen/vector-datasource/issues/1160" TITLE : config for vector.mapzen BODY : do you know which config https://github.com/tilezen/vector-datasource/blob/v1.0.3/queries.yaml use vector.mapzen https://vector.mapzen.com/osm/all/14/9903/5135.topojson?api_key=vector-tiles-hquvidw ?

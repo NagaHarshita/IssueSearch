@@ -1,0 +1,1 @@
+ URL : "https://github.com/isobelsv/bbf/issues/2" TITLE : how to find synonyms BODY : can we generate closest synonyms for a word or phrase? maybe even by rank closest synonym > less close synonym? import ? def get_synonym word_one : do something that find the synonym return word_two return word_three?

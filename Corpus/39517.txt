@@ -1,0 +1,1 @@
+ URL : "https://github.com/NuGet/NuGetGallery/issues/4881" TITLE : show index lag graph BODY : we had removed the index lag graph from the status.nuget.org page when we did site refresh. we should bring it back.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Particular/docs.particular.net/issues/3158" TITLE : host upgrade guide BODY : performancecounters removed. see https://docs.particular.net/nservicebus/upgrades/externalize-perfcounters and obsolete on performancecounters profile in host codebase removal of configureloggingforprofile. instead configure in the constructor of iconfigurethisendpoint

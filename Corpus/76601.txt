@@ -1,0 +1,1 @@
+ URL : "https://github.com/RPCS3/rpcs3/issues/2255" TITLE : linux : no vulkan render BODY : hello, i just compiled rpcs3 from git on linux ubuntu and i don't have the vulkan render in the render list, only opengl. though libvulkan-dev is installed and i set the vulkan_prebuilt option to on .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/dgets/snag-eps/issues/12" TITLE : add rate limiting BODY : now that i see that _wget_ supports rate limiting, it would probably be a handy feature to include variable rate limiting. hell, maybe even time scheduled rate limiting, though that's probably overkill extreme.

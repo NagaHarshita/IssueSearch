@@ -1,0 +1,1 @@
+ URL : "https://github.com/danmindru/bower-consolidator/issues/1" TITLE : fix npm scripts BODY : shorthand not working on darwin, long form not working on windows :/

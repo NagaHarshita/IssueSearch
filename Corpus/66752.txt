@@ -1,0 +1,1 @@
+ URL : "https://github.com/mreitz/enkf-et-c/issues/2" TITLE : next steps --- 10/30/17 BODY : - how to incorporate model parameters as uncertain - distinguish between observed model inputs like t, pet, etc.: can we make them uncertain? vs. model parameters to be inferred like $c$ and $r_{ah}$

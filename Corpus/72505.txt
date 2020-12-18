@@ -1,0 +1,1 @@
+ URL : "https://github.com/larzw/Cake.Paket/issues/9" TITLE : cake.nuget nuget package BODY : just wanted to let you know that we now ship the cake.nuget assembly as a nuget package. you can find it here: https://www.nuget.org/packages/cake.nuget/ this would save you having to include the source code directly in your project.

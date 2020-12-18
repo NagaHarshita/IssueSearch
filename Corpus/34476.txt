@@ -1,0 +1,1 @@
+ URL : "https://github.com/olivaframework/olivajs/issues/34" TITLE : check library output BODY : currently when importing a class from the dist file, the whole library classes are imported instead just only one.

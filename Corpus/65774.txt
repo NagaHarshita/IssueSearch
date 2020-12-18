@@ -1,0 +1,1 @@
+ URL : "https://github.com/camilstaps/SODA-POP-source/issues/19" TITLE : leading zero on display BODY : i note that the leading zero on the frequency display is not shown. i think it may be helpful to display this as it helps remind you that there is an implied mhz ahead of it.

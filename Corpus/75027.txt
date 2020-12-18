@@ -1,0 +1,1 @@
+ URL : "https://github.com/robbiebarrat/rapping-neural-network/issues/8" TITLE : freezing on word-by-word BODY : using the following info i'm getting no progression waited several hours on a 300kb lyrics.txt file. line by line works fine. training = 0 epoch = 100 word_by_word = 1 any suggestions on changes i could make?

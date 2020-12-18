@@ -1,0 +1,1 @@
+ URL : "https://github.com/logzio/filebeat-docker/issues/7" TITLE : add a version tag? BODY : this image is currently using the latest tag only. so any time a new version is pushed, users will pull the latest version. this means that if a breaking change or a bug is introduced, users will get an uncontrolled upgrade. cheers

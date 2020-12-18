@@ -1,0 +1,1 @@
+ URL : "https://github.com/code4romania/sna-api/issues/4" TITLE : create db models BODY : create the laravel models for the db. help: https://laravel.com/docs/5.4/eloquent

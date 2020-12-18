@@ -1,0 +1,1 @@
+ URL : "https://github.com/devboard/bolt/issues/112" TITLE : add redis support BODY : support writing read data to redis instead of db: - add predis - add sncredisbundle - setup bundle - add redis to docker-compose - add redis to circleci

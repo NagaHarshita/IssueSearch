@@ -1,0 +1,1 @@
+ URL : "https://github.com/Galooshi/happo/issues/201" TITLE : add headless chrome target BODY : now that headless chrome is a thing, it probably shouldn't be too difficult to add chrome as a rendering target for happo.

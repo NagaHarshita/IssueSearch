@@ -1,0 +1,14 @@
+ URL : "https://github.com/Zimmi48/bugzilla-test/issues/2345" TITLE : misleading error messages BODY : note: the issue was created automatically with bugzilla2github tool bugzilla bug id: 2345
+date: 2010-06-25 19:09:14 +0200
+from: phercek@gmail.com
+to: cc: @_herbelin, @_matafou last updated: 2010-09-21 15:02:41 +0200 bugzilla comment id: 3520
+date: 2010-06-25 19:09:14 +0200
+from: phercek@gmail.com created attachment 196
+the example where the problems can be seen i used coq from svn:
+url: svn://scm.gforge.inria.fr/svn/coq/branches/v8.3
+check out time: 02 jun 2010 06:28 pm well probably few minutes earlier than that when trying to define a functional scheme before obligations are resolved i get error message: anomaly: . please report. see the attached file to reproduce the problem. also when you remove require import program. and modify the signature of treebind to: function treebind a b : type f : a -> ttreefn b m : ttreefn a {measure gettreefnsize m} : ttreefn b then you get this error message: error: no such section variable or assumption: treebind. which does not make sense to me.
+if the list argument cs is moved to the left of the arrow then treebind can be accepted as function in coq and there is no error message . > attached file: test.v text/plain, 1385 bytes > description: the example where the problems can be seen bugzilla comment id: 3544
+date: 2010-07-01 14:55:12 +0200
+from: @_herbelin actually the bug can be triggered in a much simpler way. the line functional scheme foo_ind := induction for foo sort prop. raises an anomaly in 8.2, 8.3 and trunk whenever foo does not exist. bugzilla comment id: 3688
+date: 2010-09-21 12:54:17 +0200
+from: @_matafou this is fixed in v8.3 and trunk.

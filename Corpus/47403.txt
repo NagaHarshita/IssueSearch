@@ -1,0 +1,1 @@
+ URL : "https://github.com/amazingSurge/jquery-slidePanel/issues/7" TITLE : pass variable to ajax BODY : $.slidepanel.show { url: 'ajax.html', settings: { method: 'get' } } ; any ideas?

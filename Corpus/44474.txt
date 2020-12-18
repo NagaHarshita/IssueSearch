@@ -1,0 +1,1 @@
+ URL : "https://github.com/minio/minfs-docker-plugin/issues/3" TITLE : explore alpine image. BODY : currently the dockerfile uses debian wheezy , need to explore on how to get it running with alpine image.

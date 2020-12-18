@@ -1,0 +1,1 @@
+ URL : "https://github.com/Andromedans/andromeda/issues/378" TITLE : check match exhaustivity? BODY : are there times when it makes sense to detect if and warn when a match is not exhaustive, and if so when is that exactly?

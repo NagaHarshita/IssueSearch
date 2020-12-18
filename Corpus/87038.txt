@@ -1,0 +1,1 @@
+ URL : "https://github.com/zotero/translators/issues/1423" TITLE : inter research translator BODY : e.g. http://www.int-res.com/abstracts/meps/v527/p1-12/ reported here: https://forums.zotero.org/discussion/67822/report-id-875776024-translator-issue-with-inter-research latest it looks like there is ris, which we should use rather than trying to awkwardly scrape.

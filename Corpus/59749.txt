@@ -1,0 +1,1 @@
+ URL : "https://github.com/brightway-lca/brightway/issues/1" TITLE : use appveyor miniconda BODY : see: https://github.com/appveyor/ci/issues/359 https://www.appveyor.com/docs/build-environment/ python

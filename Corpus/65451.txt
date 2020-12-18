@@ -1,0 +1,1 @@
+ URL : "https://github.com/unbit/uwsgi/issues/1658" TITLE : interrupted system call BODY : hi all, i am getting trying to implement a simple proxy in uwsgi+python. everything seems to work most of the time, however, from time to time i get:

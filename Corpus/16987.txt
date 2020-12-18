@@ -1,0 +1,1 @@
+ URL : "https://github.com/samsung-cnct/container-fluent-bit/issues/11" TITLE : move ci to gitlab BODY : remove jenkins ci in favor of gitlab ci - create a .gitlab-ci.yml - create gitlab account - set up ci pipeline helpful samples: https://github.com/samsung-cnct/cyklops-events/pull/7/files https://github.com/joejulian/chart-ingress-nginx/pull/1/files

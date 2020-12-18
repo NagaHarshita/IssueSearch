@@ -1,0 +1,1 @@
+ URL : "https://github.com/Clarkopus/Lotto-maddness-/issues/1" TITLE : number field checking BODY : currently the way startlotto works is that it only checks if the last random value doesn't equal to the next random value. this means that there is a possibility that we could have multiple of the same values in multiple fields. a solution is already planned and being worked on.

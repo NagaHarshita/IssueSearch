@@ -1,0 +1,1 @@
+ URL : "https://github.com/magit/magit/issues/3230" TITLE : do not show recent commits BODY : would it be possible not to show recent commits when they are already pushed upstream? i like the old behavior, it seems more intuitive to have clean status buffer when nothing needs to be pushed/committed, etc.

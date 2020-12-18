@@ -1,0 +1,1 @@
+ URL : "https://github.com/ActionFPS/ActionFPS-Game/issues/124" TITLE : disable appveyor bot BODY : appveyor keeps on spamming pull requests: https://github.com/actionfps/actionfps-game/pull/120 issuecomment-277452899 this is problematic because pointless successful build notifications get sent all over.

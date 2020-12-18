@@ -1,0 +1,1 @@
+ URL : "https://github.com/OSGeo/homebrew-osgeo4mac/issues/205" TITLE : build liblas with gdal2 ? BODY : > error: you must brew link gdal before liblas can be installed i have gdal2 installed from the osgeo4mac tap. is there a way to build liblas with gdal2 or completely change to gdal2 ?

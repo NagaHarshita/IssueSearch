@@ -1,0 +1,1 @@
+ URL : "https://github.com/martin-ger/esp_wifi_repeater/issues/74" TITLE : edit sta hostname BODY : hi, first of all great work. i use this a lot on 4 different esp8266 with max download speed of around 8mbps which is amazing. anyway just a suggestion, it would be great if we could change the hostname sta as well, instead of the net_ssid : thanks and good work

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mimmi20/BrowserDetector/issues/93" TITLE : wrong device detection BODY : ua: mozilla/5.0 linux; android 5.1; x6 build/lmy47i applewebkit/537.36 khtml, like gecko chrome/49.0.2623.105 mobile safari/537.36 detected as: unknown should be: nokia x6 maybe

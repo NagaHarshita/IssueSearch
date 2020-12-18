@@ -1,0 +1,1 @@
+ URL : "https://github.com/harishVarma45/Fabric/issues/3" TITLE : fabric integration test BODY : in some_crashed_method number of crashes: 0 impacted devices: 0 there's a lot more information about this crash on crashlytics.com: http://example.com/path/to/fabric/issue http://example.com/path/to/fabric/issue

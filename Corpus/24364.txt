@@ -1,0 +1,1 @@
+ URL : "https://github.com/topogigiovanni/dom-helper/issues/3" TITLE : split source files BODY : split source files and combine them in build. eg: - polyfills - core - ...etc

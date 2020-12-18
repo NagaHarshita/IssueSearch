@@ -1,0 +1,1 @@
+ URL : "https://github.com/pythonsul/pythonsul-site/issues/7" TITLE : atualizar o analytics BODY : o analytics foi desabilitado no arquivo _layouts/default.html porque está enviando dados para outro projeto. é necessário criar um novo analytics para a pythonsul e atualizar o código.

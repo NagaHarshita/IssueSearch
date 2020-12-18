@@ -1,0 +1,1 @@
+ URL : "https://github.com/DylanVann/react-native-fast-image/issues/77" TITLE : get size on fast image? BODY : is it possible to get the size of a fast image the same way to get size via react native's image.getsize https://facebook.github.io/react-native/docs/image.html getsize ?

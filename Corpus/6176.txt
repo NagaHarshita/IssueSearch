@@ -1,0 +1,1 @@
+ URL : "https://github.com/zaproxy/zaproxy/issues/3199" TITLE : zap wont start BODY : i am using the cross platform version when i try to start zap it gets stuck after creating root certificate wont go further and no errors in the log. any ideas thanx

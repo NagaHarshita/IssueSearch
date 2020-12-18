@@ -1,0 +1,1 @@
+ URL : "https://github.com/DataDog/dd-trace-go/issues/60" TITLE : add new version tag BODY : glide fetches the latest available tag to properly set a version 0.3.0 . this version doesn't provide all the features available in your documentation such as .setmeta on tracer . adding a new version tag on your latest stable commit should fix this issue.

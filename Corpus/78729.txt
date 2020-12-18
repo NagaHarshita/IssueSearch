@@ -1,0 +1,1 @@
+ URL : "https://github.com/sfstarter/SfsAdminBundle/issues/25" TITLE : redirect after an update BODY : as a backend developer, i want to ensure an object is not modified and its form are not submited twice. so after a valid edit form is submited and the data are processed, we need to add a redirection to the same page.

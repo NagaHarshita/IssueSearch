@@ -1,0 +1,1 @@
+ URL : "https://github.com/pivotalservices/cf-mgmt/issues/52" TITLE : shared private domains BODY : hi! i'm curious if you do or plan to support shared private domains? i'm using the private domains feature but i've also shared my private domains between a few different orgs. do you have a plan to support the sharing of private domains?

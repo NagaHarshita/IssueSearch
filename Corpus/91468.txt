@@ -1,0 +1,1 @@
+ URL : "https://github.com/buriburisuri/supervised_infogan/issues/3" TITLE : train.py line35 has error BODY : when i run train.py, it shows the error message: typeerror: expected int32, got list containing tensors of type '_message' instead. i'm wonder what's the problem is? i didn't modify any code, just run the downloaded package.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/weaviate/weaviate-swagger/issues/137" TITLE : add /log endpoint BODY : add /log endpoint for go-routine async requests. log is filled with errors based on user-key.

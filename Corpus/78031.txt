@@ -1,0 +1,1 @@
+ URL : "https://github.com/fingerpich/jalali-moment/issues/21" TITLE : parse persian digit date BODY : when its possible to use persian digits in formatted output, we should make it available to parse persian digits and make instance of moment from it.

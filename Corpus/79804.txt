@@ -1,0 +1,1 @@
+ URL : "https://github.com/WalshyDev/Discord-Spotify-RPC/issues/25" TITLE : stuck in the npm install BODY : c:\users\admin\discord-spotify-rpc>npm install ................. \ loadidealtree:loadalldepsintoidealtree: sill install loadidealtree keeps getting stuck right here and not progressing. waited like 30 minutes. i have the most recent version of node

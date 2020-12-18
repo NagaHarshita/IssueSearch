@@ -1,0 +1,1 @@
+ URL : "https://github.com/myrho/dive-svg/issues/3" TITLE : how can i run this project BODY : i try to run this project i run elm-reactor and open http://localhost:8000/index.html i get 2 error in developer console ! image https://user-images.githubusercontent.com/3953281/31863585-88bb987c-b779-11e7-80c8-2af9161c7050.png i'm not sure i missing to do some step or not

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mbeaudru/modern-js-cheatsheet/issues/44" TITLE : fold detailed explanations BODY : it's a long document, and maybe a bit more text than i would expect of a cheatsheet ; so it would be nice to use githubs folding syntax for all detailed explanations like so: <details> <summary>click to expand</summary> whatever </details>

@@ -1,0 +1,1 @@
+ URL : "https://github.com/nunit/nunit/issues/2327" TITLE : assert fails in my test BODY : assert.areequal text, getelement.getwebelementtext element ; 'text' and 'getelement.getwebelementtext element ' are same. but this step fails always. i am using nunit - 3.7.1, nunit3testadpater - 3.7.

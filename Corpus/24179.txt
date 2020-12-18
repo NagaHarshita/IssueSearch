@@ -1,0 +1,1 @@
+ URL : "https://github.com/captbaritone/redux-dropbox-middleware/issues/6" TITLE : setup eslint rules BODY : we should have some basic sanity checks. maybe extend something well known? ensure they play well with prettier. may require eslint-config-prettier .

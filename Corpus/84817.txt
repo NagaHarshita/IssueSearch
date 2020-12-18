@@ -1,0 +1,1 @@
+ URL : "https://github.com/snowplow/snowplow/issues/3371" TITLE : documentation mssing step BODY : https://github.com/snowplow/snowplow/wiki/3-create-a-bucket-for-cloudfront-logs i needed to also set permissions s3 log delivery group - write objects: yes for the log bucket

@@ -1,0 +1,1 @@
+ URL : "https://github.com/src-d/lapjv/issues/1" TITLE : pip install fail on mac BODY : hi, use pip to install but it failed: what i use: source activate root pip install lapjv <img width= 784 alt= screenshot 2017-04-08 21 22 55 src= https://cloud.githubusercontent.com/assets/15790176/24829304/92b3b88c-1ca1-11e7-86e6-966956511d78.png >

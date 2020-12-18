@@ -1,0 +1,1 @@
+ URL : "https://github.com/openlayers/openlayers/issues/7490" TITLE : geojson simplestyle spec BODY : mapbox extended the geojson spec to allow basic styling. https://github.com/mapbox/simplestyle-spec is this something that would be considered for inclusion in the geojson format?

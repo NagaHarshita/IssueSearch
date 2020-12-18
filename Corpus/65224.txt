@@ -1,0 +1,1 @@
+ URL : "https://github.com/ktraunmueller/Compositor/issues/61" TITLE : improve mouse selection BODY : mouse selection should also work when cursor is outside paragraph e.g., drag down along left border of paragraph; should select lines when mouse.y > line.y

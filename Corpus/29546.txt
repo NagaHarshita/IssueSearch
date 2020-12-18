@@ -1,0 +1,1 @@
+ URL : "https://github.com/NotionPod/NotionPod.github.io/issues/6" TITLE : make new posts easy BODY : when creating a new episode, you should not have to add player code or specify itunes params. maybe adding a .mp3 in the frontmatter is nice for flexibility, but if it's not specified, the episode number should be compared to the available mp3s and auto-reference.

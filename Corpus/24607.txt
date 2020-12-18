@@ -1,0 +1,1 @@
+ URL : "https://github.com/magnussolution/magnusbilling6/issues/47" TITLE : tabela de prefixos BODY : foi observado que ao carregar a tabela de venda/custo! se nao for adicionado o 55 antes do 55. exemplo: 5531 para funcionar terá de colocar 555531 testado na versao 6.0.4

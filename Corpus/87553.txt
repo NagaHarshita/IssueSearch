@@ -1,0 +1,1 @@
+ URL : "https://github.com/Radarr/Radarr/issues/2105" TITLE : log file table won't load BODY : i just noticed in table view for log files, the log file doesn't load. i am on release 0.2.0.852, running windows 10 pro.

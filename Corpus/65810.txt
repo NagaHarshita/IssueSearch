@@ -1,0 +1,1 @@
+ URL : "https://github.com/kasracodeforaustralia/wildlife-app-MASTER/issues/33" TITLE : license id verification BODY : the app needs to verify the shelter/rescue org license id in order to complete the registration process. for this, we need access to connect to licensing db and look for the license id.

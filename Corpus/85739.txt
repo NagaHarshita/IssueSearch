@@ -1,0 +1,1 @@
+ URL : "https://github.com/NLthijs48/GoCraftWebsite/issues/17" TITLE : fix scrolling performance BODY : - add transform: translate3d 0,0,0 ; to all scroll containers - don't change position of server page hero image when outside of the viewport

@@ -1,0 +1,1 @@
+ URL : "https://github.com/riboseinc/aws-codecommit-trigger-plugin/issues/8" TITLE : fix help document link BODY : help now link to old repo https://github.com/nickgrealy/aws-sqs-plugin/, this is not correct

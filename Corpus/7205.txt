@@ -1,0 +1,1 @@
+ URL : "https://github.com/NSLS-II-XPD/ipython_ophyd/issues/10" TITLE : enh: enable zmq BODY : would it be possible to set up a run engine zmq subscription at the beamline?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/realm/realm-object-store/issues/474" TITLE : offline client reset BODY : add support for resetting the realm file when an incompatiblehistories incompatible histories. nonupgradable history schema. exception is thrown as a result of an non-migratable upgrade.

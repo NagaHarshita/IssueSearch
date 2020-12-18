@@ -1,0 +1,1 @@
+ URL : "https://github.com/bgrevelt/FakeSwConstructionRepo/issues/69" TITLE : rename visit methods BODY : we don't implement the visitor pattern, so calling these methods visit will only make things less clear.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/gali8/Tesseract-OCR-iOS/issues/308" TITLE : swift 3 crash BODY : i have installed tesseract 4.0.0 version and the last eng.traineddata file https://github.com/tesseract-ocr/tessdata/blob/master/eng.traineddata , the error is: _actual_tessdata_num_entries_ <= tessdata_num_entries:error:assert failed:in file tessdatamanager.cpp, line 53_ how to resolve?

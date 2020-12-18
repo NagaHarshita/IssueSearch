@@ -1,0 +1,1 @@
+ URL : "https://github.com/getsentry/sentry/issues/6034" TITLE : dsymcache not working BODY : there is an issue currently with the dsym cache not working correctly. it looks like neither cleanup happens nor is timestamp bumping happening. we will need to fix both at once.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/appacademy/bluebird/issues/12" TITLE : likes redux loop BODY : incorporate create and request likes information from the front-end and put it in the redux store.

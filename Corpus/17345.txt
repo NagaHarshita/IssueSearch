@@ -1,0 +1,1 @@
+ URL : "https://github.com/dwbuiten/d2vsource/issues/33" TITLE : osx compile issue BODY : the way push_back is used in applyrff between lines 193 to 211 seem to cause issues with compiling on osx.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/DFRobot/DFRobot_SIM808/issues/6" TITLE : const char in parameters BODY : to minimize warnings, all public functions should accept const char as parameters instead of char

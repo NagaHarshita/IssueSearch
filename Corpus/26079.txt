@@ -1,0 +1,1 @@
+ URL : "https://github.com/segmentio/stack/issues/135" TITLE : add s3 vpc endpoint BODY : didn't see anything discussing this before, but having a s3 vpc endpoint is something to have as a default?

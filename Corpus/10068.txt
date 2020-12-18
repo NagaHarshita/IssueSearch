@@ -1,0 +1,1 @@
+ URL : "https://github.com/hurriyet/developers.hurriyet.com.tr/issues/33" TITLE : angular 2 client BODY : angular 2 client projesi oluşturarak ilgili api'lere direk request attığımda aşağıdaki hatayı alıyorum: response to preflight request doesn't pass access control check: no 'access-control-allow-origin' header is present on the requested resource nasıl bir yol izlemeliyim ?

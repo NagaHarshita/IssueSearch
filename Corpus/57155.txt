@@ -1,0 +1,1 @@
+ URL : "https://github.com/wphuman/WordPress-Settings-Module/issues/12" TITLE : plugin name not passed BODY : hey, this is a very good settings module. the only hard part is that we have to rename everything to match the plugin we put it on. is there any way to pass $plugin_name than handwriting it ? eg _settings_definition class

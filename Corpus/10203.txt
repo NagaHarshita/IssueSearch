@@ -1,0 +1,1 @@
+ URL : "https://github.com/rafaelpsouza/trelloq/issues/2" TITLE : board data cache BODY : - persist database data for sometime 30 minutes? - save it on configuration dir ~/.trelloq - cli option --no-cache - cli option --clean-cache

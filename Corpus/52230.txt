@@ -1,0 +1,1 @@
+ URL : "https://github.com/Bitcoin-ABC/bitcoin-abc/issues/35" TITLE : change address version BODY : i suggest to change the address version to something different, so it is obvious the address is a bitcoin cash address. it can start with c for example . don't forget to change also address version for p2sh!

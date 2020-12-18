@@ -1,0 +1,1 @@
+ URL : "https://github.com/root-systems/cobuy/issues/214" TITLE : order summary plumbing BODY : depends on 210 order summary component and story has already been created but no real data has been used. this ticket is to wire up the component to real data from feathers. related to 178

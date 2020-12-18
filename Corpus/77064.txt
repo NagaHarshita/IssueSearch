@@ -1,0 +1,1 @@
+ URL : "https://github.com/cyberkov/openhab-vim/issues/5" TITLE : missing syntax for locks BODY : can you add the syntax highlighting for locks?. see https://community.openhab.org/t/rules-cycling-despite-reentrant-lock/13669/3

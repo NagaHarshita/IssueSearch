@@ -1,0 +1,1 @@
+ URL : "https://github.com/argos-research/genode-Parser/issues/2" TITLE : xml format beautification BODY : the xml file which is transfered to the offline machine is not very usefull right now and a bit ugly. the format has to be improved.

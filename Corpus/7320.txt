@@ -1,0 +1,1 @@
+ URL : "https://github.com/gini/gini-vision-lib-ios/issues/52" TITLE : file type check BODY : apart form file extension, it is also necessary to check the file type inside the file itself.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/aib/opi2g-utils/issues/5" TITLE : ubifs data loss BODY : powering down and up, i noticed it has data loss. so maybe we need to mount ubifs with sync to prevent it? will test it today mount -o remount,rw,sync /

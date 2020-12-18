@@ -1,0 +1,1 @@
+ URL : "https://github.com/metacloud/molecule/issues/1025" TITLE : integrate azure driver BODY : issue type - feature request is it possible to integrate an azure driver? what are the steps to add another driver into molecule?

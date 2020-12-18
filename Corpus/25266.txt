@@ -1,0 +1,1 @@
+ URL : "https://github.com/APenketh/ap-backups/issues/9" TITLE : wget not installed BODY : on minimal installs wget is not installed by default /ap-backups-installer.sh: line 699: wget: command not found

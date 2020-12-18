@@ -1,0 +1,1 @@
+ URL : "https://github.com/hprose/hprose-php/issues/62" TITLE : 405: method not allowed BODY : php fatal error: uncaught exception: 405: method not allowed 使用如下代码时，会报错，服务端使用nginx加了一个重定向wus/v1/ => public/index.php?version=v1 $client = client::create 'http://xxxx/wus/v1/', false ; $client->xxx ; 不知道怎么处理？

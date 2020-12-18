@@ -1,0 +1,1 @@
+ URL : "https://github.com/mpdf/mpdf.github.io/issues/29" TITLE : escape | to prevent tables BODY : one | pipe-character or at least more | are interpreted as a table by the markdown parser. solution: escaping by \|

@@ -1,0 +1,1 @@
+ URL : "https://github.com/uservoice/uservoice-python/issues/16" TITLE : error with requests 2.18.4 BODY : this may be related to 11 the code below stopped working with requests 2.18.4. it was working fine with requests 2.11.1: uservoice.get /api/v1/support_queues.json?per_page=500 support_queues

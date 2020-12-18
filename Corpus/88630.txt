@@ -1,0 +1,1 @@
+ URL : "https://github.com/zwwill/yanxuan-weex-demo/issues/33" TITLE : npm run serve无法调试 BODY : 用 weex init 新创建的项目 在.vue文件中 打入 console 或者 debugger 在通过run serve预览时 是可以调试的， 可是在这个项目中缺不起作用 不知是您修改了哪里导致的？

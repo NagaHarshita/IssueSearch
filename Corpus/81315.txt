@@ -1,0 +1,1 @@
+ URL : "https://github.com/Limenius/LiformBundle/issues/11" TITLE : widget instead of format BODY : the bundle is working properly, but it returns widget instead of format. address : { type : string , title : email address , widget : email , propertyorder : 2 },

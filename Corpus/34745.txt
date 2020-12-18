@@ -1,0 +1,1 @@
+ URL : "https://github.com/danielsomerfield/authful/issues/11" TITLE : convert token to jwt BODY : current implementation is an opaque token that must be validated via the introspection endpoint. this should be changed to a jwt for more efficient cryptographic validation.

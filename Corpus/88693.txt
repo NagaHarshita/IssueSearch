@@ -1,0 +1,1 @@
+ URL : "https://github.com/William-Yeh/ansible-prometheus/issues/34" TITLE : old rules are not deleted BODY : if a rules file is removed from prometheus_rule_files it is not deleted from the remote directory on the next run.

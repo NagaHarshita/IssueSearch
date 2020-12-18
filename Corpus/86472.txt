@@ -1,0 +1,1 @@
+ URL : "https://github.com/cardigann/cardigann/issues/389" TITLE : how to specify conf path? BODY : what is the switch specify that path to the conf? i know the path is located @ c:\users\%username%\appdata\roaming\cardigann. however i am looking to specify the location as i am looking to specify the conf location outside of that directory.

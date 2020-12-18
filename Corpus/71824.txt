@@ -1,0 +1,1 @@
+ URL : "https://github.com/ksonnet/ksonnet/issues/122" TITLE : allow env to work with | BODY : for example, someone might want to do something like cat x.sh | ks env set initsh

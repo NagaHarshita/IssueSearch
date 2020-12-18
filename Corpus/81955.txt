@@ -1,0 +1,1 @@
+ URL : "https://github.com/ChildishGiant/perdola/issues/16" TITLE : add a global length limit BODY : this'd mean unless a preset has a specific maxlength that's higher than the global limit, passwords can't be longer. this'd stop people typing some high number then crashing their tab/browser.

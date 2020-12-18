@@ -1,0 +1,1 @@
+ URL : "https://github.com/vlladdrakk/TCRegistry/issues/3" TITLE : add authentication to site BODY : when going to site ask for a string as a key. the key will be sent on the invites.

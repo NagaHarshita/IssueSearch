@@ -1,0 +1,1 @@
+ URL : "https://github.com/mydnshost/mydnshost-api/issues/12" TITLE : better ordering of records BODY : records should be ordered better. currently we do name then type. this causes odd ordering at times ptr zones for example . we also want to probably ensure that ns records for example are always first.

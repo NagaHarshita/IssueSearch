@@ -1,0 +1,1 @@
+ URL : "https://github.com/guillep/python-grocery-list/issues/2" TITLE : missing yaml dependency BODY : my configuration : - osx el capitan - python 2.7 after cloning the repo, i tried to run python2.7 grocery-list.py , but got traceback most recent call last : file grocery-list.py , line 2, in <module> import yaml importerror: no module named yaml

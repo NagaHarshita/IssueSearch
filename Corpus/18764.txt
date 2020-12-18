@@ -1,0 +1,1 @@
+ URL : "https://github.com/lanl-ansi/GasModels.jl/issues/4" TITLE : update test usage BODY : as of julia v0.5, if version >= v 0.5.0-dev+7720 using base.test else using basetestnext const test = basetestnext end can be replaced with, using base.test basetestnext can then be removed from require.

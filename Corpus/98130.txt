@@ -1,0 +1,1 @@
+ URL : "https://github.com/santiment/SantimentMobile/issues/32" TITLE : improve fetching for feeds BODY : implement a way to fetch polo feed for specific asset pair. update the corresponding part of state.

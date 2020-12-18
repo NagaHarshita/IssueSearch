@@ -1,0 +1,1 @@
+ URL : "https://github.com/ant-design/ant-design/issues/6881" TITLE : when i fold the menu BODY : when i fold the menu from 'inline' to 'vertical',it always show automaticly,how do i prevent it.and when i unfold the menu from 'vertical' to 'inline',how do i drop the menu automaticly.

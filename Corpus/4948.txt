@@ -1,0 +1,2 @@
+ URL : "https://github.com/duhow/ProfesorOak/issues/272" TITLE : idea autoadmin BODY : si hay una setting en el grupo, por defecto true - piensa en el nombre:
+- si está puesto el admin_chat en ese grupo, todos los usuarios que pertenezcan al admin_chat serán admin por defecto se suman a los ya existentes . timeout de 24h sin hablar.

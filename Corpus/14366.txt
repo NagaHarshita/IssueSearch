@@ -1,0 +1,1 @@
+ URL : "https://github.com/Porucznik/Beta-Linux/issues/19" TITLE : add video drivers BODY : to get xorg working, we need to add video drivers. this drivers are absolute minimum: nouveau radeon intel vesa virtualbox

@@ -1,0 +1,1 @@
+ URL : "https://github.com/kodeine/laravel-acl/issues/201" TITLE : option to skip caching BODY : with the recent versions of this package caching is introduced. while its nice to have caching, for some projects its not so good to be forced to use caching. so an option on acl.php to disable caching completely would be awesome.

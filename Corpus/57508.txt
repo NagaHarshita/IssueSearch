@@ -1,0 +1,1 @@
+ URL : "https://github.com/amannocci/logbulk/issues/9" TITLE : qos for rabbitmq input BODY : describe the feature add support for qos in rabbitmq input

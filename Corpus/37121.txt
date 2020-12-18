@@ -1,0 +1,1 @@
+ URL : "https://github.com/Versent/saml2aws/issues/68" TITLE : keycloak mfa support BODY : when attempting to login with saml2aws using keycloak idp get error response did not contain a valid saml assertion when mfa is enabled.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/AtlantisHomeServer/Logbook/issues/1" TITLE : 업로드 파일 renaming BODY : 현재 업로드된 파일명이 해쉬값으로 저장됨. 원래 파일 이름으로 복호화해서 저장하도록 변경. 보기 편하게

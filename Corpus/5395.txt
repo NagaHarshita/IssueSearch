@@ -1,0 +1,1 @@
+ URL : "https://github.com/apollographql/subscriptions-transport-ws/issues/248" TITLE : old ie support BODY : hi, is this compatible with ie8 and ie9 ? i know these browsers d not support websocket, but i think clients like sockjs-client use some sort of fallback to ajax polling or other ? does subscriptions-transport-ws have the same type of feature ? thanks

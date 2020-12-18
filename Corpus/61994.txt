@@ -1,0 +1,1 @@
+ URL : "https://github.com/OSC/ood-fileexplorer/issues/148" TITLE : can't cd into directory BODY : the readme.md needs to be updated. in particular you need to remove the scl command from: sh scl enable git19 rh-ruby22 nodejs010 -- cd file-editor

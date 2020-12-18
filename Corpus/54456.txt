@@ -1,0 +1,1 @@
+ URL : "https://github.com/lloyd/yajl/issues/199" TITLE : generator only example BODY : could we please have a generator only example. the current example for creating a json file is converting a json file... i find that confusing. could we have a small c program which creates a simple json file without reading in another?

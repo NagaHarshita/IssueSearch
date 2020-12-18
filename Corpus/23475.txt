@@ -1,0 +1,1 @@
+ URL : "https://github.com/gefs-plugins/fmc-requirejs/issues/4" TITLE : port to knockoutjs BODY : port entire fmc to knockout for easier ui action bindings.

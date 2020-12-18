@@ -1,0 +1,1 @@
+ URL : "https://github.com/isoos/http_client/issues/1" TITLE : node io client BODY : just wanted to let you know that i’ve implemented http client for node io here: https://pub.dartlang.org/packages/node_interop/versions/0.1.0-beta.6 it follows interface from http package. just in case you’d be interested in integrating.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/elysium-project/bug-tracker/issues/207" TITLE : warlock: summon players BODY : while summoning a player and summoning is completed player get a prompt to accept . if the player heartstones first, then presses accept nothing happens.

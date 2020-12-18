@@ -1,0 +1,1 @@
+ URL : "https://github.com/4tXJ7f/CVC4/issues/1" TITLE : use enum for passresult BODY : currently the passresult is a struct but we should use an enum with conflict and no_conflict .

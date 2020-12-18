@@ -1,0 +1,1 @@
+ URL : "https://github.com/hashicorp/terraform/issues/15766" TITLE : store user in state BODY : it would be very useful to store the user in the terraform state the way it's done in the lock infos in order to find out who was responsible for applying a state.

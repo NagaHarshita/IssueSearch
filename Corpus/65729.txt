@@ -1,0 +1,1 @@
+ URL : "https://github.com/basisjs/basisjs/issues/162" TITLE : l10n: extend dictionary BODY : feature request for basisjs 2.0 json { _meta : { extend : app.l10n.dict1 , app.l10n.dict2 } }

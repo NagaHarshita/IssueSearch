@@ -1,0 +1,1 @@
+ URL : "https://github.com/paintballrefjosh/MaNGOSWebV4/issues/49" TITLE : forms should be escaped BODY : putting a single-quote when editing frontage link titles bring an sql error. these form fields should be protecter with either addslashes or mysqli_real_escape_string to avoid errors and also for security reasons.

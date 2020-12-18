@@ -1,0 +1,1 @@
+ URL : "https://github.com/Agile-IoT/agile-ci-scripts/issues/7" TITLE : dockerfile arg and from BODY : finally and silently arg before from made it to the dockerfile spec. see https://docs.docker.com/engine/reference/builder/ understand-how-arg-and-from-interact this means we can avoid using sed and use plain docker features for changing the baseimage.

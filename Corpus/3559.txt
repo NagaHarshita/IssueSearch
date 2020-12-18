@@ -1,0 +1,1 @@
+ URL : "https://github.com/ochinchina/supervisord/issues/16" TITLE : run as daemon BODY : is there a way to run as a daemon? seems like the child processes do not see the exit signal from the supervisor parent. if i kill the supervisor via kill -9 , the child processes continue to exist.

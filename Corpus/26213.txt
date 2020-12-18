@@ -1,0 +1,1 @@
+ URL : "https://github.com/pushandplay/cordova-plugin-apprate/issues/188" TITLE : adding plugin error BODY : error: cannot find plugin.xml for plugin yargs-parser . please try adding it again. error an error occurred while running cordova plugin add cordova-plugin-apprate --save exit code 1 .

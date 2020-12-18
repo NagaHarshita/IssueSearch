@@ -1,0 +1,1 @@
+ URL : "https://github.com/LibreCat/LibreCat/issues/193" TITLE : doi import make an error BODY : add publication wit example doi: 10.1371/journal.pbio.0020449 --> worked use edit button --> worked use home button --> an internal error occured http://demo.librecat.org/librecat? --> don't work

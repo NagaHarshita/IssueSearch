@@ -1,0 +1,1 @@
+ URL : "https://github.com/blenderskool/kaleidoscope/issues/15" TITLE : global color controls BODY : the hue slider of global controls does not work properly. when the color becomes red or hue reaches the max value 1.0, the hue does not change further, which is a problem that should be fixed

@@ -1,0 +1,1 @@
+ URL : "https://github.com/gitrkaplan/driving-game/issues/1" TITLE : user can see a their car. BODY : motivation user needs the ability to see their car on the screen in order to properly navigate it. implementation - find image asset for car. - render image to dom. - size image appropriately so it fits in a reasonable space on screen.

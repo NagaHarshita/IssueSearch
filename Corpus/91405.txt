@@ -1,0 +1,1 @@
+ URL : "https://github.com/theflowong/game/issues/6" TITLE : tiny game board on screen BODY : .container { width: 270px; margin: 0 auto; } but margin-left and margin-right expands to 355, making game board super tiny on screens

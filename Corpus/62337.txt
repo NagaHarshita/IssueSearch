@@ -1,0 +1,1 @@
+ URL : "https://github.com/bndr/pipreqs/issues/91" TITLE : clash with findpackages BODY : i'm using the findpackages packages to list my packages in config.py packages=find_packages exclude= 'docs', 'tests' , pipreqs results in an error: file <unknown> , line 9 packages=packages= 'noise' , ^ syntaxerror: invalid syntax

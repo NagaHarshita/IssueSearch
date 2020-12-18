@@ -1,0 +1,1 @@
+ URL : "https://github.com/linuxserver/docker-letsencrypt/issues/76" TITLE : use a port other than 443 BODY : it seems that it is not possible to use a port other than the 443 to validate the domain. it would come in handy in situations where we already have port 443 bind to the web container.

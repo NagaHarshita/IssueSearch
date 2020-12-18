@@ -1,0 +1,1 @@
+ URL : "https://github.com/rundis/elm-bootstrap.info/issues/5" TITLE : weird build failure BODY : with a fresh clone, i get: i cannot find module 'bootstrap.form.fieldset'. module 'page.form' is trying to import it. i'm afraid i don't know why - it's there in elm-stuff/packages/rundis/elm-bootstrap/1.1.0/src/bootstrap/form/fieldset.elm - and the rest of it seems fine. any ideas?

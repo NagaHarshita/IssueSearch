@@ -1,0 +1,1 @@
+ URL : "https://github.com/pythonindia/junction/issues/514" TITLE : update base libraries BODY : the libraries in requirements.txt are lacking behind the current master. for example, current all-auth version is 0.30 but we use 0.21 . upgrade all the libraries to latest version. this change may require code changes.

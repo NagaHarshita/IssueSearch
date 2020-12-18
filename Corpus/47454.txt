@@ -1,0 +1,1 @@
+ URL : "https://github.com/kubedb/project/issues/67" TITLE : pg : add postgres 9.6 BODY : _from @tamalsaha on may 24, 2017 2:55_ postgres 9.6 supports synchronous replication https://www.postgresql.org/docs/9.6/static/warm-standby.html synchronous-replication _copied from original issue: kubedb/operator 37_

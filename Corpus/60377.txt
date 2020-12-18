@@ -1,0 +1,1 @@
+ URL : "https://github.com/stella-emu/stella/issues/238" TITLE : 'save' causes i/o error BODY : i cannot save breaks, watches, traps to file xx using the debugger's _save_ command. the command always return i/o error . i suppose this is only happening in windows.

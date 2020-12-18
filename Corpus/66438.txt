@@ -1,0 +1,1 @@
+ URL : "https://github.com/sumeetsd700/sirus/issues/6" TITLE : monitoring user logouts BODY : when user logouts or clears the browser data or opens his/her account in incognito mode, it should make respective changes in database and data.json file.

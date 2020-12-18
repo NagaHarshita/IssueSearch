@@ -1,0 +1,1 @@
+ URL : "https://github.com/grailbio/rules_r/issues/2" TITLE : repository rules for r BODY : we currently use new_http_archive for external r packages, and explicitly list cran and bioc repo urls for the package. a new repository rule for r remote repositories should help.

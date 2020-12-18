@@ -1,0 +1,1 @@
+ URL : "https://github.com/arendst/Sonoff-MQTT-OTA-Arduino/issues/274" TITLE : alexa discovery issue BODY : cannot get alexa to consistently discover wemo or hue. it has worked at times other times not. have kakopappa git hub project kakopappa/arduino-esp8266-alexa-multiple- wemo-switch on another esp8266 module. alexa discovery works every time.

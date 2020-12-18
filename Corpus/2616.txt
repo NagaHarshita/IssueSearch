@@ -1,0 +1,1 @@
+ URL : "https://github.com/luggit/react-native-config/issues/80" TITLE : cannot link ? BODY : when i run react-native link react-native-config i get rnpm-install err! errpackagejson no package found. are you sure it's a react native project? cannot read property 'replace' of undefined the build works fine but the config returns an empty object {} any idea ?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/shadowsocks/shadowsocks-libev/issues/1848" TITLE : --no-delay 参数的疑问 BODY : 请问是不是必须在 server 和 client 两端都开启 --no-delay 这个参数，才会生效？

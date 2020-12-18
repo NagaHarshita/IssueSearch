@@ -1,0 +1,11 @@
+ URL : "https://github.com/Borgen1/achievements/issues/61" TITLE : k31 - coupling & cohesion BODY : coupling & cohesion _givet ett icke-trivialt program uppdelat i moduler som i ovanstående mål, resonera kring begreppen coupling och cohesion för några av modulerna._ termerna low coupling och high cohesion beskriver två
+egenskaper som krävs för att ett program skall anses
+välmodulariserat. med low coupling avses att två moduler endast
+skall vara löst sammanknutna, så att det är möjligt att byta ut en
+av dem utan att göra några egentliga förändringar i den andra. med
+high cohesion avses att alla delar som finns i en modul skall ha
+en hög grad av samhörighet , dvs. att alla delar av modulen avser
+samma aspekt av programmet. varför? termerna ovan är enkla att beskriva separat från faktisk kod, men
+för att förstå dem måste du kunna relatera dem till din egen kod,
+beskriva coupling mellan moduler, cohesion inom moduler, och
+eventuellt göra motiverade förändringar i den tidigare designen. ge gärna kommentarer och rapportera buggar https://github.com/ioopm-uu/achievements/commits/master/k31.md klicka på den senaste commiten

@@ -1,0 +1,1 @@
+ URL : "https://github.com/instance01/MinigamesAPI/issues/21" TITLE : mgsnake - errors BODY : 2 errors have come to light when playing mgsnake on my server 1. spawn locations can sometimes have 2 people inside them. 2. players can only see floating boots, and no wool being placed behind them.

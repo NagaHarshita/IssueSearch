@@ -1,0 +1,1 @@
+ URL : "https://github.com/cartologic/cartoview_storymap/issues/34" TITLE : the url is not wrapped BODY : the link that has been set for the story is wrapped and it has overflow, expected to be wrapped link ex: visit link <img width= 1368 alt= 2 src= https://user-images.githubusercontent.com/13452248/33998891-99ea37a6-e0f1-11e7-8851-3e18ec8dec2f.png >

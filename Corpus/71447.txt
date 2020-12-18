@@ -1,0 +1,1 @@
+ URL : "https://github.com/DeveloperPaul123/CMakeWizard/issues/5" TITLE : add json reading support BODY : add code that can read the packages.json file into a object list.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/WebBluetoothCG/web-bluetooth/issues/345" TITLE : adding nordic uart service BODY : is there any plans to add the nordic uart service? the idea being is it'd allow communication to arduino and other mcus, and even allow web based programming of them.

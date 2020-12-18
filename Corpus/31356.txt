@@ -1,0 +1,1 @@
+ URL : "https://github.com/aragon/node-aragon/issues/5" TITLE : set up devnet in ci BODY : we need to run a devnet in a docker container with websocket support. it should also deploy the contracts from aragon/aragon-core.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jens-maus/RaspberryMatic/issues/214" TITLE : unknown interface hmip-rf BODY : beim anlernen von ip passiert nichts. i homematic.cgi gibt folgendes zurück: { version : 1.1 , result : null, error : { name : jsonrpcerror , code : 500, message : unknown interface hmip-rf } } ist eine frische installation mit eingespieltem backup

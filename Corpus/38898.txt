@@ -1,0 +1,1 @@
+ URL : "https://github.com/dheles/ansible-role-sufia/issues/6" TITLE : refactor inotify fix BODY : inotify fix will presumably not be needed in all circumstances. refactor it, so that it can be included or not based on need

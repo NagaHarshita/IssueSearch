@@ -1,0 +1,1 @@
+ URL : "https://github.com/learn-co-curriculum/displaying-associations-rails/issues/13" TITLE : update spring gem version BODY : gemfile.lock has spring 1.6.1 , which throws an error https://github.com/rubygems/rubygems/issues/1551 . this error's been fixed in spring 1.6.4.

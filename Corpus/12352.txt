@@ -1,0 +1,1 @@
+ URL : "https://github.com/Dark-Hippo/zoe/issues/8" TITLE : open cv bug code BODY : if !ballocated || mom->nchannels == cvimage->nchannels && mom->depth == cvimage->depth {

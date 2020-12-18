@@ -1,0 +1,1 @@
+ URL : "https://github.com/mrlesmithjr/ansible-jenkins/issues/26" TITLE : fix pip install BODY : need to fix python pip install. the current method uses easy_install . this is failing because of dependencies so need to change to python-pip package.

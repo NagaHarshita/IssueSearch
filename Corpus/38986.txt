@@ -1,0 +1,1 @@
+ URL : "https://github.com/RolePlayGateway/roleplaygateway/issues/12" TITLE : remove inline styles BODY : our templates are littered with inline styles; we could use the following css to highlight where this is the case: css style { border: 5px solid red; / style to make the elements noticeable / } from linting html with css https://bitsofco.de/linting-html-using-css/ by @ireade.

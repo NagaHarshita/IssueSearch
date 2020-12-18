@@ -1,0 +1,1 @@
+ URL : "https://github.com/hanneskod/libmergepdf/issues/26" TITLE : php 7.2 support BODY : please fix page.php file to support php 7.2+ assert functions .

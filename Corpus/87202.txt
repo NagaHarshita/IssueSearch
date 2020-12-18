@@ -1,0 +1,1 @@
+ URL : "https://github.com/bespoken/virtual-device-sdk/issues/48" TITLE : issues with open synonyms BODY : the message parser, when checking for skill access, does not look for all the skill open synonyms. they are: launch tell ask also, they are being handled in a case-sensitive way - they should not be. open and open should both be accepted.

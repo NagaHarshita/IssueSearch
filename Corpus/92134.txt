@@ -1,0 +1,1 @@
+ URL : "https://github.com/acm-uiuc/arbor/issues/25" TITLE : verbose request reporting BODY : it'd be really nice to have a verbose mode where arbor would print request bodies in the log

@@ -1,0 +1,1 @@
+ URL : "https://github.com/american-art/aaa/issues/15" TITLE : missing local id field BODY : we are also missing the local id field for our objects the exist for our constituents . the desired mapping is: p1_is_identified_by -> e42_identifier with an aat:300404670 classification.

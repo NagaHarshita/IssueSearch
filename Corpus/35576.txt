@@ -1,0 +1,1 @@
+ URL : "https://github.com/tderrien/FEELnc/issues/7" TITLE : error msg in cleanup BODY : in cleanup can't call method close on an undefined value at /path/to/cpan/5.10.1/lib/perl5/bio/db/seqfeature/store/berkeleydb.pm line 1455. i'd be happy to provide some run info, if needed.

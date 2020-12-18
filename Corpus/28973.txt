@@ -1,0 +1,1 @@
+ URL : "https://github.com/devboosts/ob-dash/issues/14" TITLE : improve ui of store BODY : - move apps that can't be installed into the main list - show contact administrator for apps that can't be installed - add color to the store, particularly with buttons and using better icons possibly 2 icons per app - clean up: the store needs to use the shared module

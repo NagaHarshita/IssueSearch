@@ -1,0 +1,1 @@
+ URL : "https://github.com/chadaustin/sajson/issues/16" TITLE : validate utf-8 in strings BODY : it would be nice for sajson to guarantee that string values were encoded as utf-8. today we don't guarantee that in the case of a malformed utf-8 code in a string.

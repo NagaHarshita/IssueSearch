@@ -1,0 +1,1 @@
+ URL : "https://github.com/livepeer/protocol/issues/90" TITLE : dockerized geth and parity BODY : enable running integration tests using a dockerized geth poa node with fast block times and a dockerized parity running on an instant seal dev chain. this will be especially helpful for testing new byzantium features since testrpc does not yet support byzantium changes

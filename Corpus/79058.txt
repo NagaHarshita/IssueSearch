@@ -1,0 +1,1 @@
+ URL : "https://github.com/byrobots/multithread/issues/4" TITLE : retrieve process results BODY : implement a way for data to be passed from forked child processes to the parent.

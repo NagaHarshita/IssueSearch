@@ -1,0 +1,1 @@
+ URL : "https://github.com/summernote/django-summernote/issues/259" TITLE : fix coverage report BODY : codecov has omitted python files recent days, so i decided back to coveralls again.

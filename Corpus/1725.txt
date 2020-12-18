@@ -1,0 +1,1 @@
+ URL : "https://github.com/NYPL/design-toolkit/issues/35" TITLE : ems or rems? BODY : @mgiraldo, noticing in a couple places ems are being used instead of rems... is this intentional? could you explain? here's one place where i noticed... https://github.com/nypl/design-toolkit/blob/master/sass/_buttons.scss l29 obviously its not a major issue, just curious..

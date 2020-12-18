@@ -1,0 +1,1 @@
+ URL : "https://github.com/0x1ad2/ionic2-starter-google-maps/issues/2" TITLE : maps is blank in emulator BODY : repro: npm install ionic plugin add cordova-plugin-googlemaps --variable api_key_for_ios= .. ionic platform add ios ionic emulate ios --target= iphone-6

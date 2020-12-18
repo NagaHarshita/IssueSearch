@@ -1,0 +1,19 @@
+ URL : "https://github.com/xbmc-catchuptv-au/issue-reports/issues/1436" TITLE : nine user initiated report BODY : automatic bug report from end-user. environment add-on name: 9now add-on id: plugin.video.catchuptv.au.nine add-on version: 1.0.1 add-on url: ?action=sendreport kodi version: 17.6 python version: 2.7.13 default, nov 20 2017, 18:30:52 gcc 6.2.0 ip address: 220.239.186.101 hostname: n/a country: au isp: as4804 microplex network operations centre operating system: linux2 linux 3.10.108 armv7l python path: /storage/.kodi/addons/plugin.video.catchuptv.au.nine
+/storage/.kodi/addons/script.module.aussieaddonscommon/lib
+/storage/.kodi/addons/script.module.beautifulsoup4/lib
+/storage/.kodi/addons/script.module.certifi/lib
+/storage/.kodi/addons/script.module.chardet/lib
+/storage/.kodi/addons/script.module.drmhelper/lib
+/storage/.kodi/addons/script.module.idna/lib
+/storage/.kodi/addons/script.module.pycaption/lib
+/storage/.kodi/addons/script.module.requests/lib
+/storage/.kodi/addons/script.module.urllib3/lib
+/usr/lib/python27.zip
+/usr/lib/python2.7
+/usr/lib/python2.7/plat-linux2
+/usr/lib/python2.7/lib-tk
+/usr/lib/python2.7/lib-old
+/usr/lib/python2.7/lib-dynload
+/usr/lib/python2.7/site-packages
+/usr/lib/python2.7/site-packages/gtk-2.0
+/storage/.kodi/addons/plugin.video.catchuptv.au.nine/resources/lib full log https://gist.github.com/ba25a1ca5af6799896d9ec69c8d3304a

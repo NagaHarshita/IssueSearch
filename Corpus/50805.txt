@@ -1,0 +1,1 @@
+ URL : "https://github.com/rust-fuzz/libfuzzer-sys/issues/8" TITLE : add an example project BODY : in an examples/ directory so one can easily try fuzzing

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mgueury/html_validator/issues/15" TITLE : chrome: empty page BODY : got to https://chrome.google.com/webstore/search/html%20validator?hl=en change the about:blank to see the real page. nothing happens.

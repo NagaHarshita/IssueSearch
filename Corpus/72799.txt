@@ -1,0 +1,1 @@
+ URL : "https://github.com/JustinSchuyler/electron-sandbox/issues/4" TITLE : change native menu label BODY : the default native menu says electron . acceptance criteria: change electron to sandbox

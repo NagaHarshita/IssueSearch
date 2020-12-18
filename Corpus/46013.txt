@@ -1,0 +1,1 @@
+ URL : "https://github.com/Infinity-OS/infinity/issues/35" TITLE : kernel message writer BODY : module to print several types of messages with beautiful colors. examples: - kprint success , the kernel was loaded - kprint error , failed to load memory manager - kprint info , a context has been switched - kprint warning , low memory - kprint info , a context has been switched

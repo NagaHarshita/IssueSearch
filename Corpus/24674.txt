@@ -1,0 +1,1 @@
+ URL : "https://github.com/lerna/lerna/issues/578" TITLE : test case is wrong BODY : https://github.com/lerna/lerna/blob/3e7637e032fb54369079c4e2caa5d38786ac3258/test/updatedcommand.js l250 calls never get value 2 , you can console it in local.

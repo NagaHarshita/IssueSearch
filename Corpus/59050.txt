@@ -1,0 +1,1 @@
+ URL : "https://github.com/kamomil/CustomPiOS/issues/1" TITLE : task: set prepared img BODY : before running the build script do 'export $prepared_img_path' of and img already unzipped and extended. then this image can be moved to workspace and created again in background.

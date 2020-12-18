@@ -1,0 +1,1 @@
+ URL : "https://github.com/bontorhumala/untar/issues/43" TITLE : measure model accuracy BODY : from cluster model, try to compare rmse, kl div, energy difference, and mape against original traces

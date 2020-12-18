@@ -1,0 +1,1 @@
+ URL : "https://github.com/SailC/miyabi/issues/1" TITLE : finish reservation module BODY : design and implement the flow of : - the customers finish booking via dialog provided by conversational web form - web form sends post http request to the express server - express server responds by sending rest api calls to mailchimp - mailchimp sends emails to the customers

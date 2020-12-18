@@ -1,0 +1,1 @@
+ URL : "https://github.com/space-wizards/space-station-14/issues/155" TITLE : layers not zlevels BODY : how do we want to handle stacking of items. some things should be higher in priority than other, so that when you place an item on the floor, it should appear above blood. this can also be expanded to things like layers of space > station > pipe > floor > ent.

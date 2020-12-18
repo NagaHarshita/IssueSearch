@@ -1,0 +1,1 @@
+ URL : "https://github.com/state-of-the-dapps/sotd-www/issues/45" TITLE : upgrade to ssl BODY : when the user connects via http, we should upgrade to https.

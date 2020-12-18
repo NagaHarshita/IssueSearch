@@ -1,0 +1,1 @@
+ URL : "https://github.com/isaacs/github/issues/925" TITLE : add cloneevent to api BODY : currently, it does not appear that clones are a monitored event type according to the events api. this would be a great feature for auditing/security for example, one could see if someone cloned a lot of repositories at once, possibly indicating foul play.

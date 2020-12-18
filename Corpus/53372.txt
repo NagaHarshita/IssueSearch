@@ -1,0 +1,1 @@
+ URL : "https://github.com/ynop/pingu/issues/19" TITLE : document label mapping BODY : when writing a loader for a data set one has to decide how to map labels and where to put which information. we should document where one should put what.

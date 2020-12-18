@@ -1,0 +1,1 @@
+ URL : "https://github.com/Appliscale/xprof/issues/100" TITLE : document rest api BODY : as a starter it can be added to the cowboy handler module as edoc. this is essential for frontend contributors.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Artanidos/AnimationMaker/issues/1" TITLE : don't hardcode usernames BODY : https://github.com/artanidos/animationmaker/blob/3f9275cc254885cc92b5b5c5f4d3b2376c36cda7/deploy/appimage/create.sh there seems to be a username hardcoded in paths. please don't do that since it will not work except on your own machine.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/cyounes/ObservableConcurrentQueue/issues/4" TITLE : netstandard 2 version BODY : concurrentqueue's are coming to netstandard 2.0 https://blogs.msdn.microsoft.com/dotnet/2017/06/07/performance-improvements-in-net-core/

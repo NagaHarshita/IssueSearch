@@ -1,0 +1,1 @@
+ URL : "https://github.com/K-Phoen/rulerz/issues/85" TITLE : testing for null BODY : hello. i want to check field that a value _is null_ or _is not null_ . now i got error: _expected known function, got 'is' _ how can i do it?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/valor-software/ngx-bootstrap/issues/1998" TITLE : request dynamic modal BODY : please add feature to allow to create dynamic modal windows throw typescript code, like ng-bootstrap at angular 1.x

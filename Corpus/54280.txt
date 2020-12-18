@@ -1,0 +1,1 @@
+ URL : "https://github.com/learningequality/kolibri/issues/893" TITLE : flash of unstyled text BODY : somewhere in 871 we introduced a change that causes a flash of unstyled text on load. yuck.

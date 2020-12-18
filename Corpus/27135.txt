@@ -1,0 +1,1 @@
+ URL : "https://github.com/phoboslab/jsmpeg/issues/110" TITLE : connection time out BODY : i was try and the result from ffmpeg is connection time out, stream-server.js at server successfull running. i use raspi 3 for the local machine.

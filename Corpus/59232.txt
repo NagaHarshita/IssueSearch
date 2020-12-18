@@ -1,0 +1,1 @@
+ URL : "https://github.com/kriskbx/gitlab-time-tracker/issues/6" TITLE : time spent not showing BODY : i did /spend 7d inside a comment of an issue, but the output is not showing it i did /spend 1d in the same issue, new comment and it shows time records shows the 1d , but not the 7d

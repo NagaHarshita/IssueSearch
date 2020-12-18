@@ -1,0 +1,1 @@
+ URL : "https://github.com/alomvar/language-purebasic/issues/12" TITLE : add pureunit keywords BODY : purebasic is shipping with pureunit for automated testing. it adds a few keywords which are not part of the grammar definition yet.

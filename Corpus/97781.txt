@@ -1,0 +1,1 @@
+ URL : "https://github.com/dimsav/laravel-translatable/issues/391" TITLE : how to perform validation? BODY : hi. thank you for the wonderful package. i have a question, how to implement data validation for transaction requests? i'd like to use messages for validation errors.

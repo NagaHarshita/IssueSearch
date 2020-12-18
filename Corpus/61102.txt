@@ -1,0 +1,1 @@
+ URL : "https://github.com/RadioFreeAsia/rfa.kaltura/issues/104" TITLE : add/edit form very slow BODY : this is due to populating an enormous about of tags on the categorization tab: select from existing tags . so many are loaded, that the page gets extremely slow.

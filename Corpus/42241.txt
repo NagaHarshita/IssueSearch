@@ -1,0 +1,1 @@
+ URL : "https://github.com/winfinit/redis-prebuilt/issues/1" TITLE : any plan to build it? BODY : i would be interested in using redis-rebuilt package. the purpose is to start/shutdown a redis server instance in memory, without dependencies from the specific os where runnning. similarly to mongodb-in-memory package.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/vta/Open-Data-Portal/issues/51" TITLE : implement frontend repo BODY : the frontend and emails template can be loaded from a repo - given our deployment method this needs to be configured.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/JuliaReach/Systems.jl/issues/6" TITLE : parse systems expressions BODY : an expression like : x' = a x , could be automatically interpreted as the more verbose linearcontinuoussystem a . think of : x' = a x + u or more complicated right-hand sides -- it would simplify the definition of systems.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/collinbarrett/FilterLists/issues/70" TITLE : add to related property BODY : since moving from master / forks/combos model, there are many more lists that might be related to other lists. same author, same home page, etc. we need to define what related means.

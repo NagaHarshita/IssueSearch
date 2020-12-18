@@ -1,0 +1,1 @@
+ URL : "https://github.com/dylanvans/minor-ultimate/issues/6" TITLE : better code readablitiy? BODY : consider using 'request' instead of 'rp' for better readablitiy. this is a personal preference, so you decide. https://github.com/dylanvans/minor- ultimate/blob/7bb19b535b31e310c8377a80da9560f70e3ad9c0/controllers/gamecontroller.js l1

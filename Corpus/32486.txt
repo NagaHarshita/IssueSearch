@@ -1,0 +1,1 @@
+ URL : "https://github.com/GSystems/FIIMDb/issues/9" TITLE : user already exists BODY : when a new user tries to register, tell him if the username/ email already exists in database

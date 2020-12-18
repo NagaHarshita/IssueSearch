@@ -1,0 +1,1 @@
+ URL : "https://github.com/ceryle/RadioRealButton/issues/23" TITLE : another bug with vectors BODY : hi, great widget here ! just found one small bug, when using vector as button images there are artefacts after the growing upon selection. it is not related to xml vector size as they are far bigger than what is displayed and without issue outside of this case.

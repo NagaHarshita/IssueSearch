@@ -1,0 +1,1 @@
+ URL : "https://github.com/REVrobotics/blinkin/issues/5" TITLE : avr bypass caps BODY : > bart: avr bypass caps need to be before the device on vcc @ilamtitan is this not c13, c14 and c15? or is your concern the layout location?

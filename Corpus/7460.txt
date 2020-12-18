@@ -1,0 +1,7 @@
+ URL : "https://github.com/13719a93-7230-4e65-9c27-06a2db1715de/logicapps/issues/25" TITLE : from logic apps BODY : resourceid
+/subscriptions/ff34c8e1-e77a-4be8-9844-ffd177ceabf3/resourcegroups/miya-test-0-rg/providers/microsoft.network/publicipaddresses/miya-test-pip operationname
+microsoft.network/publicipaddresses/delete submissiontimestamp
+2017-10-24t07:30:10.3056237+00:00 eventtimestamp
+2017-10-24t07:29:50.5291708+00:00 status
+succeeded level
+informational

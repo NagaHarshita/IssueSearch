@@ -1,0 +1,1 @@
+ URL : "https://github.com/ToccataN/ChessAppRails/issues/1" TITLE : add invalid move messages BODY : it would be nice if, say when you were in check and tried to move a piece that doesn't take you out of check, the ui would indicate that the move is not valid and why

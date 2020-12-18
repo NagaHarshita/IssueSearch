@@ -1,0 +1,1 @@
+ URL : "https://github.com/mapbox/route-annotator/issues/11" TITLE : name is confusing BODY : the github project is route-annotator but the name in the package.json https://github.com/mapbox/route-annotator/blob/master/package.json l2 is route_annotator . should probably be route-annotator everywhere, right?

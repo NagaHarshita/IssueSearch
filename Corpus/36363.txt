@@ -1,0 +1,1 @@
+ URL : "https://github.com/defrur/tech-notes/issues/58" TITLE : hadoop 和 mapreduce BODY : 1. mapreduce 模型使用场景？有什么哪些优缺点 2. hadoop 集群搭建要考虑哪些问题 3. hadoop 生态系统中各产品的关系

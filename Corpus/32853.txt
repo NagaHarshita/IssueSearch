@@ -1,0 +1,13 @@
+ URL : "https://github.com/andybotting/xbmc-addon-afl-video/issues/998" TITLE : xbmcbot - exception BODY : automatic bug report from end-user. environment add-on name: afl video add-on id: plugin.video.afl-video add-on version: 1.7.3 kodi version: 16.1 git:c327c53 python version: 2.7.11 default, nov 26 2016, 10:52:44 gcc 5.3.0 operating system: linux2 linux 4.4.13 armv7l ip address: 101.182.134.23 cpe-101-182-134-23.lnse2.woo.bigpond.net.au isp: telstra internet kodi url: ?genre=sport&ooyalaid=m1cjk5ddpcy-kxbtstepbsioelhbksua&description=richmond+vs+adelaide+crows&title=%5bcolor+green%5d%5blive+now%5d%5b%2fcolor%5d+richmond+vs+adelaide+crows python path: /storage/.kodi/addons/plugin.video.afl-video
+/storage/.kodi/addons/script.module.beautifulsoup4/lib
+/storage/.kodi/addons/script.module.requests/lib
+/usr/lib/python27.zip
+/usr/lib/python2.7
+/usr/lib/python2.7/plat-linux2
+/usr/lib/python2.7/lib-tk
+/usr/lib/python2.7/lib-old
+/usr/lib/python2.7/lib-dynload
+/usr/lib/python2.7/site-packages
+/usr/lib/python2.7/site-packages/gtk-2.0
+/storage/.kodi/addons/plugin.video.afl-video/resources/lib traceback traceback most recent call last : file /storage/.kodi/addons/plugin.video.afl-video/resources/lib/play.py , line 42, in play 'afl' file /storage/.kodi/addons/plugin.video.afl-video/resources/lib/ooyalahelper.py , line 178, in get_m3u8_playlist embed_token = get_afl_embed_token login_token, video_id file /storage/.kodi/addons/plugin.video.afl-video/resources/lib/ooyalahelper.py , line 113, in get_afl_embed_token raise e
+exception full log https://gist.github.com/d2f644efb3f019453552c887940f58d1

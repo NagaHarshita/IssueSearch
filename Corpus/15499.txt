@@ -1,0 +1,1 @@
+ URL : "https://github.com/ClockVapor/rpi_gpio/issues/13" TITLE : emulation of gpio BODY : it'd be nice to be able to build this on other operating systems, and have it simply emulate gpio. for instance, you could set direction/value and read back from it. this would allow us to run unit tests against code using gpio without being on a raspberry pi or having gpio pins :

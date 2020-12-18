@@ -1,0 +1,1 @@
+ URL : "https://github.com/tom-dalton-fanduel/fdjangodog/issues/9" TITLE : memory usage middleware? BODY : seems like you might be able to integrate the memory usage middleware from here: https://github.com/krmboya/dj-datadog

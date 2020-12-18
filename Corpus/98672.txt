@@ -1,0 +1,1 @@
+ URL : "https://github.com/jawg/osm-contributor/issues/99" TITLE : junglebus add a note field BODY : add an extra note= osm tag in the bus stop edit panel. it should be at the very bottom of the panel. it's useful for adding extra comment that don't fit in the existing forms.

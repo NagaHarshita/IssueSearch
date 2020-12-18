@@ -1,0 +1,1 @@
+ URL : "https://github.com/hasadna/open_pension/issues/339" TITLE : fix nginx path BODY : in deployment mod, the nginx that serve the client static files can't start with path that isn't the root for example: /api or /blog .

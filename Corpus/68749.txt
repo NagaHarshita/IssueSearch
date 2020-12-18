@@ -1,0 +1,1 @@
+ URL : "https://github.com/SpaceManiac/discord-rs/issues/153" TITLE : sharded connections fix BODY : https://github.com/artemgr/discord-rs/commit/ce1a407fd2dff91301fb419e63580ba88a996d5b i don't know how to cherry pick it from my master to yours for a separate pull request, so there .

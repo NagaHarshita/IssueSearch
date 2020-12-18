@@ -1,0 +1,1 @@
+ URL : "https://github.com/McJty/TheOneProbe/issues/212" TITLE : high internet usage BODY : this mod causes high internet usage and sometimes even saturates the client upload. when tested with tickprofiler this mod uses even 3mb per player with 10'000 packet count tested with infinity lite 1.10.2

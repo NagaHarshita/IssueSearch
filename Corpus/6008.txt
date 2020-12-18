@@ -1,0 +1,1 @@
+ URL : "https://github.com/tensorflow/models/issues/1147" TITLE : updated to v.1 BODY : please let us know which model this issue is about specify the top-level directory all the scripts within preprocessing haven't been updated to work with tensorflow v.1 e.g. commands such as pack versus stack . . will this code be upgraded? cheers!

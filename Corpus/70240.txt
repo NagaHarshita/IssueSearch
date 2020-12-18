@@ -1,0 +1,1 @@
+ URL : "https://github.com/kYroL01/ConvNet/issues/6" TITLE : useless parts to delete BODY : maybe the lines https://github.com/kyrol01/convnet/blob/master/my_alexnet_cnn.py l211 must be delete, and int the lines https://github.com/kyrol01/convnet/blob/master/my_alexnet_cnn.py l218 run the sess with logits that return train logits is completely useless

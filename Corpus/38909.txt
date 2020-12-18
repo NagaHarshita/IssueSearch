@@ -1,0 +1,1 @@
+ URL : "https://github.com/belluccifranco/sic/issues/288" TITLE : refactoring de caja. BODY : - la lógica de los rangos de busquedas para pagos y gastos de una caja debe llevarse al backend.

@@ -1,0 +1,13 @@
+ URL : "https://github.com/novium/achievements/issues/15" TITLE : f14 - svansrekursion BODY : svansrekursion eng. tail recursion använd svansrekursion för rekursiva funktioner med potentiellt stort djup. svansrekursion är rekusion där varje rekursivt anrop kommer som
+det sista funktionen gör. beakta följande, icke-svansrekursiva funktion: c
+int sum int numbers , int num_siz { if num_siz > 0 { int rest = sum numbers+1, num_siz-1 ; return numbers + rest; } else { return 0; }
+} i detta fall används stacken som en temporär lagringsplats för
+alla temporära resultat. vi kan skriva om funktionen på detta
+svansrekursiva vis: c
+int sum int numbers , int num_siz, int acc { if num_siz > 0 { return sum numbers+1, num_siz-1, acc + numbers ; } else { return acc; }
+} i detta fall behövs ingen stack för att lagra tempoära värden varför? och som en konsekvens av detta kan en bra kompilator
+skriva om funktionen så att den kan köra i _konstant
+minnesutrymme_ mer eller mindre tranformera koden till en loop . kan en/din c-kompilator göra så-kallad tail call-optimisation ?
+under vilka omständigheter? hur kan du pröva det? om din kompilator inte _garanterar_ att svansrekursion
+transformeras till loopar -- kan det vara problematiskt? hur? för att bli godkänd på detta mål måste du även visa hur du skriver
+om en rekursiv funktion på svansrekursivt vis. ge gärna kommentarer och rapportera buggar https://github.com/ioopm-uu/achievements/commits/master/f14.md klicka på den senaste commiten

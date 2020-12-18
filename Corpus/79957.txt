@@ -1,0 +1,1 @@
+ URL : "https://github.com/iain-logan/jwt/issues/13" TITLE : support for scala 2.12.x BODY : this library can be used at the environment of scala 2.12.x? when i tried to build a sample application with this lib, it can't be loaded from build.sbt file. is there any solution or any plan to support 2.12.x?

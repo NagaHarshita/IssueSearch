@@ -1,0 +1,1 @@
+ URL : "https://github.com/Ziggeo/Android-Client-SDK/issues/12" TITLE : can't initialize callback BODY : callback callback; long maxvideoduration = 15000; ziggeo.createvideo getapplicationcontext , maxvideoduration, callback ; this doesn't work. what is the correct way to initialize callback? and what does it actually do? the docs are unclear about callback.

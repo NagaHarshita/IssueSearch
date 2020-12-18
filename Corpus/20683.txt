@@ -1,0 +1,1 @@
+ URL : "https://github.com/jayphodges/network_monitor/issues/1" TITLE : create ampq server BODY : all endpoints will communicate over a rabbitmq server.

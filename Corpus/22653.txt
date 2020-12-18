@@ -1,0 +1,1 @@
+ URL : "https://github.com/workmanw/ember-string-ishtmlsafe-polyfill/issues/1" TITLE : make true polyfill BODY : i suggest mimicking https://github.com/rwjblue/ember-getowner-polyfill/pull/6 so that ember.string.ishtmlsafe is the location of the polyfill instead of the import.

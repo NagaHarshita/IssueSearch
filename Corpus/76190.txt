@@ -1,0 +1,1 @@
+ URL : "https://github.com/MCUdude/MegaCore/issues/46" TITLE : installation of megacore BODY : i wanted to do the manual install but i don't have a ~/documents/arduino directory. i do have: ~/.arduino ~/.arduino15/packages/arduino/hardware/ ~/.arduino-create/ any suggestions? thanks, bob

@@ -1,0 +1,1 @@
+ URL : "https://github.com/gilf/st-login/issues/1" TITLE : why not use form submit? BODY : with: jsx <form class= login-form onsubmit={this.login }> login method could look like this: ts login { this.loginshouldoccur.emit { username: inputs 0 .value, password: inputs 1 .value } ; } and you can remove the @listen 'keydown.enter'

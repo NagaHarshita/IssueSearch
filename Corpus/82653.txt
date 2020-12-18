@@ -1,0 +1,1 @@
+ URL : "https://github.com/ornicar/lila/issues/3639" TITLE : analysis board fen string BODY : the generated fen strings for the analysis board are not correct. en passant target square field is always displayed as - .

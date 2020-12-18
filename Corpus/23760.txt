@@ -1,0 +1,1 @@
+ URL : "https://github.com/mikepenz/MaterialDrawer/issues/1697" TITLE : regarding fix id's BODY : hi i want to get the fix id's of the sub items but the identifier changes every time i have sub items with duplicate name so i can not differentiate which subitem belongs to which parent your library is very nice thanks for the great work

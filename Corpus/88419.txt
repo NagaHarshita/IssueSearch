@@ -1,0 +1,1 @@
+ URL : "https://github.com/bubenshchykov/ngrok/issues/94" TITLE : ngrok always reconnecting BODY : i have installed npm install ngrok with version 2.2.8. then i ran ngrok http 8080 , i am getting the following error. <img width= 630 alt= screen shot 2017-10-18 at 6 32 20 pm src= https://user-images.githubusercontent.com/19908047/31720039-0959a0fe-b433-11e7-88b8-8620cf7c4adc.png >

@@ -1,0 +1,1 @@
+ URL : "https://github.com/conorrfarrell/adproccw/issues/6" TITLE : scoping case statement BODY : currently scope to get the variables from pipe is fine. we need to work a tidy case/if statement that will allow us to access the type2, 3, 4, 5 for colour1, colour2, innerinsulation, and outerreinforcement

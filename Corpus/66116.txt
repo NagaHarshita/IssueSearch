@@ -1,0 +1,1 @@
+ URL : "https://github.com/mattwthompson/mtools/issues/6" TITLE : make_comtrj is too slow BODY : in hindsight it should be written to do all frames of a given residue at once instead of doing a residue loop inside of a frame loop

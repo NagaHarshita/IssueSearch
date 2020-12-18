@@ -1,0 +1,1 @@
+ URL : "https://github.com/devpaul/webserv/issues/4" TITLE : improve cli support BODY : add command-line flags to allow for quick configuration -f : folder to serve content -p : port --cache : http cache-control

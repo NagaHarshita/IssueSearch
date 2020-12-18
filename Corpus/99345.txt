@@ -1,0 +1,1 @@
+ URL : "https://github.com/ElementsProject/lightning/issues/216" TITLE : minor: error message wrong BODY : command_fail cmd, could add outputs to wallet ; should be: command_fail cmd, couldnt add outputs to wallet ; in walletrpc.c

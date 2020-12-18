@@ -1,0 +1,1 @@
+ URL : "https://github.com/satnogs/satnogs-db/issues/129" TITLE : track dead satellites BODY : it seems that by70 https://db.satnogs.org/satellite/41909/ re-entered the atmosphere. i think it makes sense to keep dead satellites on db for historical purposes. we should think how we could visualize that and if we should keep them on network too.

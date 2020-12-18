@@ -1,0 +1,1 @@
+ URL : "https://github.com/jaagr/polybar/issues/670" TITLE : module margin != 0 BODY : even though i select module-margin = 0 there's still a small gap of approximately 1 px between modules. it makes the bar look inconsistent as it is noticeable. is there any remedy for this? thank you.

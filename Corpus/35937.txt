@@ -1,0 +1,1 @@
+ URL : "https://github.com/cksource/mgit2/issues/36" TITLE : fix licensing issues BODY : in package.json we say this is mit while in every file we point to a non-existing license.md we should do like here: https://github.com/benderjs/benderjs/blob/master/lib/browsers.js

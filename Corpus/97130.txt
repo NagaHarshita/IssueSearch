@@ -1,0 +1,1 @@
+ URL : "https://github.com/cphyc/fortran-syntax/issues/1" TITLE : flip order in association? BODY : i think there is a small mistake in the readme. the association statements for precision have to be swapped, i.e. dp=>real64 instead of real64=>dp

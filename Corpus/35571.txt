@@ -1,0 +1,1 @@
+ URL : "https://github.com/rilwis/meta-box/issues/1076" TITLE : error in wp template BODY : i am getting this error with the gloria template when i go to edit a post. fatal error: call to undefined method rw_meta_box::get_class_name in /home/digit466/public_html/wp-content/themes/gloria/framework/meta-box-group/class-rwmb-group-field.php on line 61

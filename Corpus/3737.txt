@@ -1,0 +1,1 @@
+ URL : "https://github.com/NTU-ASH/tree-generator/issues/6" TITLE : tree xml file BODY : basic console program that: --takes up to 10 values from a user --takes one of three traversal types from the user --takes the name of the tree from the user --creates a string of xml data including: traversal type, nodes and node values --writes to an xml file of the name user selected

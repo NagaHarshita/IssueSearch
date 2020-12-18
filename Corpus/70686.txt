@@ -1,0 +1,1 @@
+ URL : "https://github.com/Southclaws/samp-redis/issues/3" TITLE : write proper unit tests BODY : i'll write actual unit tests for the desired api with y_testing. also i'll add pawnc compilation to makefile and do the compilation on linux.

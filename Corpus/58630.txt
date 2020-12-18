@@ -1,0 +1,1 @@
+ URL : "https://github.com/PebbleTemplates/pebble-spring-boot-starter/issues/15" TITLE : spring-boot v2 support BODY : i've been playing around with spring boot milestones for v2. for pebble to work there are some minor changes to make. here's the patch-set for 2.0.0.m4 https://github.com/robshep/pebble-spring-boot-starter/commit/7ffbf78aa0d6e1438d1a441dc120c5365273866f

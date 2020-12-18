@@ -1,0 +1,1 @@
+ URL : "https://github.com/FezVrasta/ark-server-tools/issues/895" TITLE : aberration update failure BODY : hey i get following error when i try to update ark to aberration: command: arkmanager update --validate copying ark world file aberration failed what can i do to update my server?

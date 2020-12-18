@@ -1,0 +1,1 @@
+ URL : "https://github.com/primefaces/primeng/issues/2413" TITLE : rename dialog events BODY : remove onafterhide and onaftershow, rename onbeforehide and onbeforeshow to onhide and onshow to align with other components.

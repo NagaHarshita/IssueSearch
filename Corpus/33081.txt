@@ -1,0 +1,1 @@
+ URL : "https://github.com/xehoth/xehoth-blog-comment/issues/240" TITLE : a+b problem | xehoth BODY : https://blog.xehoth.cc/a-b-problem/ a+b problem题目背景新手入门。 题目描述计算两个整数的和。 输入格式输入只有一行，包括两个整数 a,ba, ba,b，每个整数之间用一个空格分隔。 输出格式输出只有一行，包含一个整数为 a+ba + ba+b 的计算结果。

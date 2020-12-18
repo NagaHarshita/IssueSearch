@@ -1,0 +1,1 @@
+ URL : "https://github.com/jfsantos/dragan-pytorch/issues/1" TITLE : why x_hat reqires_grad? BODY : x_hat = variable alpha x.data + 1 - alpha x.data + 0.5 x.data.std torch.rand x.size , requires_grad=true i suppose we don't need the gradients x_hat right? since x_hat is only related to x.data.

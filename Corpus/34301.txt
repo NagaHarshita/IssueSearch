@@ -1,0 +1,1 @@
+ URL : "https://github.com/danielgindi/ChartsRealm/issues/10" TITLE : can't update the pod BODY : i am trying to update the pod with the last version 3.0.3 , but it is still downloading the 3.0.2 . maintaining the old one i have an error in realmbardataset . xcode tells me that the iterator should be a var and not a constant.

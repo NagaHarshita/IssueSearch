@@ -1,0 +1,1 @@
+ URL : "https://github.com/LSSTDESC/Twinkles/issues/426" TITLE : no disc space on travis BODY : the twinkles travis runs are failing again. it seems this is because the lsst software installs are taking up too much disc space on travis.

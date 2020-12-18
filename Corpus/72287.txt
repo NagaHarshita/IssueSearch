@@ -1,0 +1,1 @@
+ URL : "https://github.com/Taose/Vegastrike-taose/issues/27" TITLE : boost may need upgrading BODY : when running make -j2 in boost/1_53/boost/smart_ptr/detail/shared_count.hpp template<class> class std::auto_ptr is deprecated shared_ptr on line 247, 446, 459, 525.... obviously this is a bit of a problem.

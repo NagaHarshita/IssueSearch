@@ -1,0 +1,1 @@
+ URL : "https://github.com/hmemcpy/milewski-ctfp-pdf/issues/42" TITLE : fix \circ everywhere BODY : currently the symbol for white bullet ◦ is used everywhere instead of ring operator ∘ , because it won't render properly in pdf without using \ensuremath .

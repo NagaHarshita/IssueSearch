@@ -1,0 +1,1 @@
+ URL : "https://github.com/nuxt/nuxt.js/issues/992" TITLE : cookie del error BODY : on the middleware i use res.setheader 'set-cookie', 'token=abc' , { path: '/' } ; token :abc is work but the path set not work. and can not clear the cookie key token sometime have two cookie which have the same key token and have the deff path name. omg .

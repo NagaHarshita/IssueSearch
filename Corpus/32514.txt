@@ -1,0 +1,1 @@
+ URL : "https://github.com/SemanticMediaWiki/semantic-mediawiki.org/issues/25" TITLE : using fixed tables? BODY : using fixed properties $sespuseasfixedtables = 'true'; is recommended in the docs for sesp. in the light of https://github.com/semanticmediawiki/semantic-mediawiki.org/issues/14, however, i'm wondering if this is fine for smw 2.4.4.

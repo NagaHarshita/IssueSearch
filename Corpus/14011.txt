@@ -1,0 +1,1 @@
+ URL : "https://github.com/ktoso/sbt-jmh/issues/130" TITLE : add a notice file BODY : you are not due attribution when you use apache 2.0 unless you include a notice file with your copyright information. you should really add headers to your source code too, with your copyright notice and licence information.

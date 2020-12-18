@@ -1,0 +1,1 @@
+ URL : "https://github.com/FascinatedBox/lily/issues/294" TITLE : rewrite lily in rust BODY : zero-cost abstractions move semantics guaranteed memory safety threads without data races trait-based generics pattern matching type inference minimal runtime efficient c bindings

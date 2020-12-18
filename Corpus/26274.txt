@@ -1,0 +1,1 @@
+ URL : "https://github.com/groupe-sii/webpack-angular-dgeni-plugin/issues/4" TITLE : allow custom config BODY : this is almost useless without allowing an option for a custom config. please add an option to options object. it should probably negate all of the other options that can be passed, since those would live in a user's custom config.

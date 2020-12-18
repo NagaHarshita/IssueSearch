@@ -1,0 +1,1 @@
+ URL : "https://github.com/Blacklands/LinkedTreeMap-CPP/issues/5" TITLE : add some documentation BODY : there is currently no documentation attached to the project. i think this is mostly fine, because it is such a simple project. however, i would still like to try to add some documentation, probably using doxygen.

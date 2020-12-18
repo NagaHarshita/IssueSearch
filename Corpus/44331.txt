@@ -1,0 +1,1 @@
+ URL : "https://github.com/ItachiSan/linux_packaging/issues/3" TITLE : error with devscripts BODY : trying to install devscripts gives me a error: warning: failed to load external entity /usr/share/xml/docbook/xsl-stylesheets-1.79.1/manpages/docbook.xsl cannot parse /usr/share/xml/docbook/xsl-stylesheets-1.79.1/manpages/docbook.xsl make 1 : makefile:65: deb-reversion.1 error 4

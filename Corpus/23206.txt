@@ -1,0 +1,1 @@
+ URL : "https://github.com/elliotforbes/ng-diff-match-patch/issues/6" TITLE : null pointer error BODY : if the inputs, left or right, is null. it will thrown error error: null input. diff_main . can we handle it other than thrown error?

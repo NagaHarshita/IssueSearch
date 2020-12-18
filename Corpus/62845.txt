@@ -1,0 +1,1 @@
+ URL : "https://github.com/bspymaster/AirHaven-FrontEnd/issues/14" TITLE : create registraion page BODY : create a page for user registration. it needs to have username, email, and password verification and send the appropriate data to the back-end for verification and set-up.

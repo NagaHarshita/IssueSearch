@@ -1,0 +1,1 @@
+ URL : "https://github.com/justarrived/just-match-web/issues/299" TITLE : add global error handler BODY : comment: we need a unified way to handle errors in the frontend and to present the error sent from the api.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Trashy-Armadillos/Bangazon-API/issues/15" TITLE : create productorder table BODY : feature - create ability to input productorder data productid and orderid implementation - urls, models, views, and serializers will be altered so productorder table can interact directly with order table and product table. potential conflicts - none known at the moment

@@ -1,0 +1,1 @@
+ URL : "https://github.com/gorilla/rpc/issues/52" TITLE : error in server example BODY : the server example in doc.go imports http instead of net/http

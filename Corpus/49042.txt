@@ -1,0 +1,1 @@
+ URL : "https://github.com/esl/Pyrlang/issues/11" TITLE : support erlang/otp 20 BODY : seems to be getting this error: connection attempt to node '' aborted since it cannot handle utf8_atoms related: http://erlang.org/pipermail/erlang-questions/2017-july/092785.html

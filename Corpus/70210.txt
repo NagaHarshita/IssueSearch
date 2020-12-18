@@ -1,0 +1,1 @@
+ URL : "https://github.com/patperry/r-utf8/issues/1" TITLE : use lower default chars BODY : when chars = null, so looks good in a data frame. possibly chars = 60.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/fanhuan/AAF/issues/2" TITLE : raw_input → input BODY : raw_input was renamed to just input in python 3. https://github.com/fanhuan/aaf/blob/ef242d117af8df60221d68c073967c73b6fdb8ee/betaversion/aaf_phylokmer.py l120

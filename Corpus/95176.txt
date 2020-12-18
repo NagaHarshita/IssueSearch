@@ -1,0 +1,1 @@
+ URL : "https://github.com/ConnorLinfoot/CratesPlus/issues/334" TITLE : crates claim command error BODY : i don't think the config is required for this, but when players do /crates claim including op, it doesn't allow them to move the keys from the claim inventory. debug link https://mcdebug.xyz/cratesplus/3780 actions to reproduce if known : none

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ropenscilabs/eechidna/issues/15" TITLE : don't ignore news.md file BODY : i think this line https://github.com/ropenscilabs/eechidna/blob/master/.rbuildignore l1 is ignoring all .md files - including news.md - can you not rbuildignore news.md so that it shows up on the cran page? also, can you update news each time a version goes to cran? thx!

@@ -1,0 +1,1 @@
+ URL : "https://github.com/nnadeau/pybotics/issues/126" TITLE : implement travis ci stages BODY : expected behavior - testing is separate from linting and deployment - pip requirements for testing are separate from runtime requirements actual behavior - testing, deployment, and linting are all performed together - only python versions are separate

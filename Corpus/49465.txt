@@ -1,0 +1,1 @@
+ URL : "https://github.com/WIPACrepo/iceprod/issues/163" TITLE : track gpu utilization BODY : we run mostly on nvidia gpus, which can track gpu utilization from active jobs. if the overhead is not large, this should be tracked and stored in the task_stats. could also think of sending stats for each pilot to graphite, for real-time graphing.

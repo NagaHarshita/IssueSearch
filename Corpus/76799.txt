@@ -1,0 +1,1 @@
+ URL : "https://github.com/lmb-freiburg/flownet2/issues/26" TITLE : make fails with an error BODY : $ make -j 5 all tools pycaffe collect2: error: ld returned 1 exit status makefile:620: recipe for target '.build_release/tools/compute_image_mean.bin' failed make: .build_release/tools/compute_image_mean.bin error 1 anyone encountered this?

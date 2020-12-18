@@ -1,0 +1,1 @@
+ URL : "https://github.com/h2oai/h2o4gpu/issues/359" TITLE : new algo research BODY : figure out which algorithms to do next: 1 what algorithms heavily rely on svd? 2 benchmark algos used in dai 3 look into time series related algorithms

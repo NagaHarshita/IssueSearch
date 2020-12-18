@@ -1,0 +1,1 @@
+ URL : "https://github.com/bartavelle/language-puppet/issues/198" TITLE : support $facts hash BODY : this is a new feature in puppet4 https://docs.puppet.com/puppet/4.10/lang_facts_and_builtin_vars.html the-factsfactname-hash that is currently not supported in language-puppet.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/laradock/laradock/issues/1221" TITLE : all in one container ! BODY : is there any way to build an all in one container lemp container + project for example using laradock? the issue is about using laradock single project mode with minimum containers count.

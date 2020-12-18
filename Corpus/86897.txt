@@ -1,0 +1,1 @@
+ URL : "https://github.com/GDG-JSS-NOIDA/programmr/issues/6" TITLE : incomplete profile access BODY : on user signup, if the user skips filling his profile, he should be restricted to access all pages. atleast restriction to dashboard and questions

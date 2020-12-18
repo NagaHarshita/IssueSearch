@@ -1,0 +1,1 @@
+ URL : "https://github.com/SBU-BMI/quip_distro/issues/187" TITLE : fix browser detection BODY : window.opera is undefined. using window.isopera instead. isie was not defined. defined it. window.chrome returns true for both chrome and opera. modified to solution that works. current implementation of issafari returns true for firefox, but not safari! fixed it.

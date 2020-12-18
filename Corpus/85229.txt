@@ -1,0 +1,2 @@
+ URL : "https://github.com/KristofferC/BotTestingRepo/issues/62" TITLE : error tagging new release BODY : the repository does not have a .jl suffix.
+cc: @kristofferc

@@ -1,0 +1,1 @@
+ URL : "https://github.com/vluzko/Updatum/issues/79" TITLE : pull from github repos BODY : move packages out into github repos, install them with npm.

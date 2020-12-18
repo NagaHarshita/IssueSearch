@@ -1,0 +1,1 @@
+ URL : "https://github.com/pastorsj/node-fred/issues/6" TITLE : add full suite of tests BODY : acceptance criteria have at least two tests for every route, one for the success, one for failure - categories - release - releases - series - source - sources - tags - related tags

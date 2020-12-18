@@ -1,0 +1,1 @@
+ URL : "https://github.com/NickNaso/ghostscript4js/issues/9" TITLE : create execute method BODY : create the execute method that has the responsability to parse and execute the ghostscript command in asynchrnous way. function execute ghostscriptcommend, callback {} it's necessary to implement the javascript and c++ binding for the method. use nan:throwerror to dispatch errors.

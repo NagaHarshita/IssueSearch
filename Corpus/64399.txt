@@ -1,0 +1,1 @@
+ URL : "https://github.com/espruino/Espruino/issues/1292" TITLE : generate basic scaffold BODY : hi, i would like to know about how can i create a template project with live-reload, i run javascript from cli and it's very boring. at first time i found thingssdk https://github.com/thingssdk/thingssdk-cli , but it doesn't work. :thinking:

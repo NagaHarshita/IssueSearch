@@ -1,0 +1,1 @@
+ URL : "https://github.com/openseadragon/openseadragon/issues/1350" TITLE : get image dimensions BODY : this may be very silly, but how can i get the image dimensions after having loaded an image? i need them to do some calculations on the svg overlays.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/fpco/stackage/issues/3142" TITLE : fixed stb-image-redux BODY : 0.2.1.1 fixes the upstream bug that was making the test fail.

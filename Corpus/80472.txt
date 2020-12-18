@@ -1,0 +1,1 @@
+ URL : "https://github.com/MEP-LINCS/MEP_Processing/issues/99" TITLE : turn this into a package BODY : since dcic is dockerizing, turn into package to manage dependencies with mema in particular .

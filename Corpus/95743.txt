@@ -1,0 +1,1 @@
+ URL : "https://github.com/SebastianM/angular-google-maps/issues/1117" TITLE : disableautopan not working BODY : although i set disableautopan to true , the map scrolls to contain the infowindow. plnkr http://plnkr.co/edit/kwod4emv8msiscw9vxnw?p=preview

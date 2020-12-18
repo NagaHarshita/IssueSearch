@@ -1,0 +1,1 @@
+ URL : "https://github.com/RicterZ/BGmi/issues/41" TITLE : bgmi download 的输出 BODY : 不管当前有没有下载项，目前 bgmi download bgmi ver. 1.0.23 的输出都是： download status value: not downloaded: 0 / downloading: 1 / downloaded: 2 也许改成输出 bgmi download --list 或 bgmi download --help 会更有意义？

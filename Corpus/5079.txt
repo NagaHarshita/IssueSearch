@@ -1,0 +1,1 @@
+ URL : "https://github.com/openbmc/openbmc/issues/1288" TITLE : led: lamp test BODY : for lamp test we just need to define a single lamp test group that turns on all the leds in the system.

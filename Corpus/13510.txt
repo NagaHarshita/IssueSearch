@@ -1,0 +1,1 @@
+ URL : "https://github.com/phpmyadmin/docker/issues/136" TITLE : use mysql socket BODY : how to use mysql socket? -e pma_host= /var/run/mysqld/mysqld.sock not working. unknown mysql server host '/var/run/mysqld/mysqld.sock' -2

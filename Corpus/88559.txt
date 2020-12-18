@@ -1,0 +1,1 @@
+ URL : "https://github.com/noma4i/Redmine-Touch/issues/12" TITLE : not support redmine 3.3.x BODY : i tried it on redmine 3.3.x, and found it could not support it . i defined some condition with updated by , but it seems query nothing about the condition. or it support chinese as the condition? @noma4i , thanks.

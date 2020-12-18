@@ -1,0 +1,1 @@
+ URL : "https://github.com/greenrobot/greenDAO/issues/728" TITLE : how to save double list BODY : hi, i need an list<double> converter like that: public class doublelistconverter implements propertyconverter<list<double>, byte >. how can i do that ? or its there better way to do that ?

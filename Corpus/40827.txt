@@ -1,0 +1,1 @@
+ URL : "https://github.com/nicklockwood/Expression/issues/8" TITLE : variables with index BODY : it would be great if we could support myarray 1 as a symbol. if you don't think its a good idea for the main branch could you offer a pointer to the best way to implement it anyway? :- thanks.

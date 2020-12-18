@@ -1,0 +1,1 @@
+ URL : "https://github.com/tandg-digital/objection-filter/issues/4" TITLE : how to $or in a require? BODY : hello : it seems that require are working like and operators, and i'm wondering how to use it as or? for now, following the documentation, i just manage to apply an $or on properties, but it could be awesome to build bit more complex queries with it : thanks!

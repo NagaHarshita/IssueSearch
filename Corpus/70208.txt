@@ -1,0 +1,1 @@
+ URL : "https://github.com/roshangm1/places-in-nepal/issues/1" TITLE : use json instead of csv BODY : nice project. i think json will be a better format than csv for this because the columns can vary according to places. that's why it's not rendering on github. in json, it could be something like json { kathmandu, nepal : ktm , kathmandu , }

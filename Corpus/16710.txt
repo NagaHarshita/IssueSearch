@@ -1,0 +1,1 @@
+ URL : "https://github.com/strinking/statbot/issues/16" TITLE : load up role info BODY : right now roles are only updated when events are received. instead we should have all pre-existing roles from a guild loaded on startup.

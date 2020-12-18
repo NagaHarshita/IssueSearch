@@ -1,0 +1,1 @@
+ URL : "https://github.com/Erluke/teacozy/issues/3" TITLE : comments for organization BODY : great that you used comments in the html, it would be a good practice to have matching comments in the css. this makes it easier to switch back and forth between the two files and move quickly to the section you want to work on.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/asdine/storm/issues/144" TITLE : new go get issue BODY : ran go get github.com/asdine/storm just now and got back: ../github.com/asdine/storm/node.go:106: n.s.bolt.batch undefined type bolt.db has no field or method batch

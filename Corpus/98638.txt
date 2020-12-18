@@ -1,0 +1,1 @@
+ URL : "https://github.com/MD-Studio/MDStudio/issues/17" TITLE : javascript package manager BODY : the npm https://www.npmjs.com/ javascript package manager is not installed by default in unix systems. it should be added to the dependencies.

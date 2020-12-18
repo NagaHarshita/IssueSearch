@@ -1,0 +1,1 @@
+ URL : "https://github.com/MusicExMachina/MxM/issues/107" TITLE : rework core classes BODY : currently, count, beat, passage, and the like are all in flux. these must be fixed. done criteria: - mxm-core compiles

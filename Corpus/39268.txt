@@ -1,0 +1,1 @@
+ URL : "https://github.com/mschlenstedt/Loxberry/issues/286" TITLE : sample plugin v3 php BODY : - mit plugin-schnittstelle v2 - mit loxberry_system.php - mit loxberry_web.php - mit einbindung header/footer - mit multilingualer hilfe - mit restart des daemons im web über sbin-verzeichnis

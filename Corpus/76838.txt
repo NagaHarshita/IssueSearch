@@ -1,0 +1,1 @@
+ URL : "https://github.com/pacdiv/embedded-slack/issues/3" TITLE : make the core exportable BODY : the core should be exportable so that frameworks/libraries - as react, angular or other - can be used to render the chat.

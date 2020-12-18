@@ -1,0 +1,1 @@
+ URL : "https://github.com/LotusTM/Kotsu/issues/199" TITLE : jest-jspm issue BODY : current tests fails with newer jspm beta.41 and systemjs ^0.20.0 because of https://github.com/yoavniran/jest-jspm/issues/2

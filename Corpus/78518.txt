@@ -1,0 +1,1 @@
+ URL : "https://github.com/baldurk/renderdoc/issues/608" TITLE : pure offscreen rendering BODY : i'm using vulkan to perform pure offscreen rendering i.e. without a swapchain and surface to a framebuffer. how to use renderdoc to capture such kind of rendering?

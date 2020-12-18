@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpusCapita/auth/issues/117" TITLE : make email lowercase BODY : the email address username should be stored and compared on login in small letters.

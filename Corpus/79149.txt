@@ -1,0 +1,1 @@
+ URL : "https://github.com/travis-ci/travis-ci/issues/8977" TITLE : ruby 2.5.0 uses preview1 BODY : see https://travis-ci.org/rubygems/rubygems/jobs/321665352 l486 for an example. ruby 2.5 was released a few days ago, but specifying rvm: 2.5 uses 2.5.0preview1 instead of the final released version.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/crutchcorn/WMIControl/issues/43" TITLE : add command scheduling BODY : there should be built-in functionality to run wmicontrol commands during a certain scheduled time to do so

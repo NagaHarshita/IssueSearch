@@ -1,0 +1,1 @@
+ URL : "https://github.com/hawkular/hawkular-android-client/issues/173" TITLE : providing a search view. BODY : we can provide search view in the toolbar so that the user can search for metrics, triggers or alerts. if this is an intended function i would like to work on this.

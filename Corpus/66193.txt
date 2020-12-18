@@ -1,0 +1,1 @@
+ URL : "https://github.com/StefanRvO/PowerSocketController/issues/10" TITLE : mdns on both interfaces BODY : mdns should work on both ap and sta at the same time.

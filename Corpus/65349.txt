@@ -1,0 +1,1 @@
+ URL : "https://github.com/oh-my-fish/plugin-vcs/issues/3" TITLE : init_vcs event emitting BODY : trying to port this to a simple fish setup without oh-my-fish , and i can't figure some things out. when is the init_vcs event emitted?

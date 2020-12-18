@@ -1,0 +1,1 @@
+ URL : "https://github.com/hyperledger/quilt/issues/58" TITLE : create new ilp-core BODY : we need to pull some things out of ilp-core into their own modules. for example, codecs, ilqp, psk, spsp, etc should not be in ilp-core. see this commentary here https://gist.github.com/sappenin/386900a769318eeda56c16d8a5a49e5e for some more guidance:

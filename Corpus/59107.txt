@@ -1,0 +1,1 @@
+ URL : "https://github.com/tomascohen/koha-testing-docker/issues/29" TITLE : test_qa not set in env BODY : some tests are skipped due to the missing env variable.

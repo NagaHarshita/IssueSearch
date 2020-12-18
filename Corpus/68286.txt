@@ -1,0 +1,1 @@
+ URL : "https://github.com/d-m-bailey/cvc/issues/96" TITLE : rerouting min/max power BODY : currently min/max power is rerouted if one of the nets is non-terminal and the other is terminal. should check the next_net of the non-terminal instead.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/bjorn2404/jQuery-Store-Locator-Plugin/issues/188" TITLE : realtime store locator BODY : what would be the best way to call a redraw of the map when the json file has new locations? the page will know there's new data in the json file through websocket.

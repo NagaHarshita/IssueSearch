@@ -1,0 +1,1 @@
+ URL : "https://github.com/unicorn-engine/unicorn/issues/764" TITLE : build fails on arm64 BODY : using gcc6, see attached log. unicorn_aarch64_log.txt https://github.com/unicorn-engine/unicorn/files/799992/unicorn_aarch64_log.txt

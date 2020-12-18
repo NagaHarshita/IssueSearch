@@ -1,0 +1,1 @@
+ URL : "https://github.com/infinum/java-complexify/issues/2" TITLE : add builder pattern BODY : instead of having constructor with long parameter list, we should implement builder pattern

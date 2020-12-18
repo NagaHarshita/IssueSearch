@@ -1,0 +1,1 @@
+ URL : "https://github.com/SSilence/php-imap-client/issues/178" TITLE : bad message number again BODY : hi, i have read issue 92 but i have no warnings.. i have only wrong number of messages when call $imapclient->countmessages $imapclient->selectfolder 'friends/carl' ; $overallmessages = $this->imapclient->countmessages ; // bad number messages

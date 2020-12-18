@@ -1,0 +1,1 @@
+ URL : "https://github.com/parahumains/parahumains.github.io/issues/9" TITLE : local host links BODY : don't always work. annoying when serving with jekyll serve --drafts --host 0.0.0.0

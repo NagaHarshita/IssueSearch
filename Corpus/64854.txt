@@ -1,0 +1,1 @@
+ URL : "https://github.com/npanigrahy/Custom-Calendar-View/issues/26" TITLE : how to resize calendar? BODY : i want to resize design calendar in fragment of my app, height weight, height title layout,..: 22dp and i edited in xml: android:layout_height= 22dp in library. but, i run my app, it's do not resize. pls help me. p/s: sorry, my english is bad.

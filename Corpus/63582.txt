@@ -1,0 +1,1 @@
+ URL : "https://github.com/trendmicro/ais/issues/4" TITLE : encode_21 not in source BODY : the method encode_21 for a-to-n messages is not present in the code even tough it is called.

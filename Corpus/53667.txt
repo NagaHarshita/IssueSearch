@@ -1,0 +1,1 @@
+ URL : "https://github.com/Megabyte918/MultiOgar-Edited/issues/818" TITLE : error at updateclients BODY : i have an edited version of mo-e but i get this error when kick a player: > cannot read property 'playertracker' of undefined if this.clients i .playertracker.isremoved

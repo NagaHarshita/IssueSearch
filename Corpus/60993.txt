@@ -1,0 +1,1 @@
+ URL : "https://github.com/npm/ndm/issues/121" TITLE : add support for crontab BODY : add support for crontab on linux as node-autostart https://www.npmjs.com/package/node-autostart does. this is more simple to manage that systemd .

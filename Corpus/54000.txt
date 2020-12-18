@@ -1,0 +1,1 @@
+ URL : "https://github.com/arecvlohe/full-stack-purescript/issues/7" TITLE : feature branch - setup BODY : this issue addresses the need to setup a feature branch called setup in order to track our progress in setting up the fe with pux and the be with postgres.

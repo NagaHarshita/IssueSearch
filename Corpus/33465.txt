@@ -1,0 +1,1 @@
+ URL : "https://github.com/MonsieurV/PiPocketGeiger/issues/2" TITLE : add python 3 support BODY : to check if we have done a good work with 1 @richteel can you check if it works for you as it is now? if so, i will publish the new version to pypi

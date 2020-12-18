@@ -1,0 +1,1 @@
+ URL : "https://github.com/primeval-io/aspecio/issues/1" TITLE : import aspecio in primeval BODY : first step: rename packages, maven, bundles, etc integrate with primeval travis builds second step: use code from primeval-commons, potentially share code for other primeval projects that want super-fast dynamic invocations through code proxies rather than method invoke.

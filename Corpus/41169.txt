@@ -1,0 +1,1 @@
+ URL : "https://github.com/asrulhadi/mva/issues/15" TITLE : xss stored in signup BODY : ref: https://github.com/asrulhadi/mva/wiki/a3-cross-site-scripting- xss url-httplocalhostmvasignupphp url: http://localhost/mva/signup.php method: post parameter: username

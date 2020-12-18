@@ -1,0 +1,8 @@
+ URL : "https://github.com/SquireOfSoftware/Web-Tech-Assignment-2/issues/6" TITLE : mock ui - for login/view BODY : research:
+- a tool that everyone can use to create fake screens - tool should be free, should work on windows and linux
+- read up on best practices for ui design and user experience
+- how to display errors? create a mock up for:
+- login
+- login alerts - failed and success
+- view week
+- view week alerts - failed and success

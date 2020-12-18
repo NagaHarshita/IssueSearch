@@ -1,0 +1,1 @@
+ URL : "https://github.com/devallish/sports-club/issues/5" TITLE : image path population BODY : this needs to happen on the server. don't check that the file exists just create paths using a convention. should have a small, medium and a large image.

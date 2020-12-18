@@ -1,0 +1,1 @@
+ URL : "https://github.com/PHPfox-Official/phpfox-v4-issues/issues/2098" TITLE : issue during translation BODY : don't know if this is a bug but having this sometimes during saving translations with phrase manager: after press save i get the message: couldn't resolve host 'raw.githubusercontent.com'

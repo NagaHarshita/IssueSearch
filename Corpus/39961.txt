@@ -1,0 +1,1 @@
+ URL : "https://github.com/minodisk/sqlabble/issues/33" TITLE : support now function BODY : go: go stmt.newselect qb.now , sql: sql select now ;

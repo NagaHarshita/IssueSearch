@@ -1,0 +1,1 @@
+ URL : "https://github.com/TodoList-Group/starter-TodoList/issues/47" TITLE : 3. add store BODY : replace the store logic in your model with code to rebuild the collection as a simplexmlelement, and save it, overwriting the original. at this point, your webapp should behave exactly as it did last week, complete with maintenance, the only difference being the way it is persisted.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jnordberg/dsteem/issues/7" TITLE : missing get content BODY : the steemjs lib has a call api.getcontent author, permlink but i am not finding any equivalent call in the dsteem lib. this is a useful function for loading referenced posts. is it available via another call that i am just not finding?

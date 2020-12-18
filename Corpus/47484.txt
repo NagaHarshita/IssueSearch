@@ -1,0 +1,1 @@
+ URL : "https://github.com/Neest/todo_improved/issues/15" TITLE : pie chart hover hints BODY : pie chart gives away no information because it was created by the static way of sectors definition, when we have a real tasks array and we use the dynamic way, it's going to be need to make hints work

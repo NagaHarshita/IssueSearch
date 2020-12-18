@@ -1,0 +1,1 @@
+ URL : "https://github.com/pyfa-org/Pyfa/issues/1075" TITLE : graph still greyed out BODY : downloaded https://github.com/pyfa-org/pyfa/releases/tag/v1.28.1 but graph is still greyed out. tried to change the gui file in library zip , but 7zip refused this with an error. so no graphs for me?

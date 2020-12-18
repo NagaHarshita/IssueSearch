@@ -1,0 +1,1 @@
+ URL : "https://github.com/agoransson/NTPPlayGround/issues/1" TITLE : fix the dns problem BODY : when the network is reported as ok there might still be dns problems, and the inetaddress.getbyname method has too long timeout which cannot be changed .

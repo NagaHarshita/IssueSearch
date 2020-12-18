@@ -1,0 +1,1 @@
+ URL : "https://github.com/facn2/week1-Ba6e5-Developers/issues/39" TITLE : css is quite repetitive BODY : for example: your form-title, about-title, team-title css rules have a lot in common and could, for example, share a common class like 'title-section' https://github.com/facn2/week1-ba6e5-developers/blob/master/style.css l120-l126

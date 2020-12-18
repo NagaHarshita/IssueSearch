@@ -1,0 +1,1 @@
+ URL : "https://github.com/super-cache-money/make-runnable/issues/5" TITLE : add promise support BODY : in the scenario the function returns a promise, it would be nice if make-runnable waited on the promise and then printed out the final resolved value. i can submit a pr if this is okay!

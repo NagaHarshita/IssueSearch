@@ -1,0 +1,1 @@
+ URL : "https://github.com/CiscoDevNet/yang-explorer/issues/60" TITLE : cannot upload yang modules BODY : login as guest manage models -> workspace -> add -> browse -> select some yang modules -> ok -> upload leads to: ! yang-explorer - uploading yang models https://cloud.githubusercontent.com/assets/13176858/25041949/5e1b9f46-2114-11e7-8a1f-3d93a42328de.jpg

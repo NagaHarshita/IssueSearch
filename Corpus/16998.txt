@@ -1,0 +1,1 @@
+ URL : "https://github.com/kamilsk/dzone/issues/23" TITLE : move work outside BODY : https://github.com/kamilsk/dzone/blob/da716f89ffa1fd481342008a8a0af975f2ddbc69/pkg/api/work.go reason is that it is generic.

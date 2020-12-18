@@ -1,0 +1,1 @@
+ URL : "https://github.com/fuse-box/fuse-box/issues/233" TITLE : debug mode in context BODY : introduce a debug mode in the context for plugins context.debug myplugin , doing something awesome

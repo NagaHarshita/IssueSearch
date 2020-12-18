@@ -1,0 +1,1 @@
+ URL : "https://github.com/VisualComputingInstitute/triplet-reid/issues/3" TITLE : code does not utilize gpu BODY : after running your code i noticed that it does not run in gpu even after asking it explicitly with theano_flags=device=cuda0 python code.py could you please explain why this happens? thank you

@@ -1,0 +1,1 @@
+ URL : "https://github.com/AdamVig/stockpile-api/issues/34" TITLE : add tests for index.js BODY : currently, there are no tests for the main application file and its coverage is abysmal. add some tests to improve coverage.

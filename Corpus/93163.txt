@@ -1,0 +1,1 @@
+ URL : "https://github.com/3Blades/openapi/issues/77" TITLE : add headers to sample code BODY : requests need to include authentication headers and application type headers to work properly. therefore these headers need to be added to example code.

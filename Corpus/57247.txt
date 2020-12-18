@@ -1,0 +1,1 @@
+ URL : "https://github.com/splashblot/dronedb/issues/11" TITLE : prepare grapes dataset BODY : take the first steps towards creating a train/val dataset for our cnn treatment of grapes on the vine. feel free to edit this first comment to specify your goals for this milestone, @ivanprado.

@@ -1,0 +1,32 @@
+ URL : "https://github.com/cldi/CanLink/issues/105" TITLE : missing degree url BODY : the uri for m.m.s. could not be found to fix, comment below in the following format: msc http://purl.org/ontology/bibo/degrees/ms record:
+=ldr 01697ctm a2200397 a 4500
+=001 99213971702511
+=005 20170330204711.0
+=008 020913s2002\\\\xx\b\\\\\b\\\\000\0\eng\d
+=035 \\$a canfsm 1591139-01mun_inst
+=035 \\$a sirsi a1591139
+=035 \\$a ocolc 53540122
+=040 \\$acanfsm$beng$ccanfsm
+=043 \\$an-cn---$an-cnm--
+=055 \3$ash157.8$b.m37 2002
+=100 1\$amarch, chantal a.,$d1968-
+=245 14$athe impact of the marshall decision on fisheries policy in atlantic canada /$cby chantal a. march.
+=260 \\$c2002.
+=300 \\$av, 66 leaves :$bcolor map.
+=336 \\$atext$btxt$2rdacontent
+=337 \\$aunmediated$bn$2rdamedia
+=338 \\$aunspecified$bzu$2rdacarrier
+=500 \\$a october 2002. =502 \\$athesis m.m.s. --memorial university of newfoundland, 2002.
+=504 \\$abibliography: leaves 56-66.
+=530 \\$aalso available online.
+=600 10$amarshall, donald,$d1953-$vtrials, litigation, etc.
+=610 20$amarine institute st. john's, n.l. .$bmarine studies programme$xdissertations.
+=650 \0$afishery law and legislation$zcanada.$0http://id.loc.gov/authorities/subjects/sh2008120661
+=650 \0$afishery management$zmaritime provinces.
+=650 \0$afishery policy$zmaritime provinces.
+=650 \0$aindians of north america$xfishing$xlaw and legislation$zcanada.
+=650 \0$anatural resources$xgovernment policy$zmaritime provinces.
+=856 \\$uhttp://collections.mun.ca/u?/theses3,166201
+=852 8\$822310116050002511$bcns$cmicroform$hmicro fiche 5881
+=852 8\$822310116080002511$bcns$ctheses$hthesis-request by author's name & title
+=852 0\$822310116010002511$bmarine$cstacks$hsh157.8 .m37 2002 record file: c17850a313f74af677bc7b23423f19d8.mrc

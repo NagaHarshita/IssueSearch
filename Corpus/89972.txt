@@ -1,0 +1,1 @@
+ URL : "https://github.com/lsolniczek/mimus/issues/10" TITLE : response body as a string BODY : expectation response will have a body attribute that will be a string literal.

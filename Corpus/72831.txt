@@ -1,0 +1,1 @@
+ URL : "https://github.com/raysan5/raylib/issues/319" TITLE : changing opengl versions BODY : since my laptop only supports upto opengl 3.1 any way to change opengl versions raylib currently defaults to opengl 3.3.

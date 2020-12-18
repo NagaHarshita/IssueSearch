@@ -1,0 +1,1 @@
+ URL : "https://github.com/servo/webrender/issues/1027" TITLE : assert in max_texture_size BODY : see logs: https://treeherder.mozilla.org/logviewer.html ?job_id=87300231&repo=try&linenumber=3307 related pr 1025 didn't fix it. need to investigate. cc @nical @staktrace

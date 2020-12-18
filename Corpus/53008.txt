@@ -1,0 +1,1 @@
+ URL : "https://github.com/minetest-mods/moreblocks/issues/92" TITLE : cut wool descriptions. BODY : several wool blocks have shortened descriptions relative to other cut blocks. for example, a moreblocks:micro_cobble is described as cobblestone microblock , but a wool:micro_blue is described as blue wool instead of blue wool microblock .

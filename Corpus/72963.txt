@@ -1,0 +1,1 @@
+ URL : "https://github.com/gentics/mesh/issues/132" TITLE : cleanup schema diff code BODY : currently we have many code switches and some custom behavior for specific fields placed in common code. we should move the diff creation and diff apply code into dedicated classes for each field and thus avoid the switches.

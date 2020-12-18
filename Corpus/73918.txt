@@ -1,0 +1,1 @@
+ URL : "https://github.com/firebase/Firebase-Unity/issues/123" TITLE : disable firebase for ios BODY : there is no way to disable firebase for ios builds. for example for google play services plugin you can define no_gpgs. add please something similar.

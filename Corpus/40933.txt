@@ -1,0 +1,1 @@
+ URL : "https://github.com/dealii/dealii/issues/3996" TITLE : vs2013 not compiling BODY : i tried to compile the latest version of deal ii under vs2013 and all i get is this error > error c2899 - typename cannot be used outside a template declaration this occurs for the obj_fe_release project in line 443 of mapping_q_generic.cc any advise?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/avkom/PizzaStore/issues/1" TITLE : add transnational commands BODY : first alternative c cfg => { registerusercommand.execute resisterusermodel ; cfg.addrollback =>removeusercommand.execute resisterusermodel ; addprofilecommand.execute registerusermodel ; }

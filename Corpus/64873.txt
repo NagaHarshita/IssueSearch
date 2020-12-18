@@ -1,0 +1,1 @@
+ URL : "https://github.com/tiancj/bluedroid.for.linux/issues/2" TITLE : how to start using it ? BODY : hi, i am working on an embedded systems project where i want to use bluedroid for bluetooth control in linux environment. how can i use your project for this ? mainly how will i compile for the environment ?

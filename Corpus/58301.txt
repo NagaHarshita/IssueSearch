@@ -1,0 +1,2 @@
+ URL : "https://github.com/matt62king/Utils/issues/1" TITLE : service response model BODY : summary ---
+create service response model code --- java public class serviceresponse<model, ? extends exception> implements serializable

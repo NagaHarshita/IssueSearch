@@ -1,0 +1,1 @@
+ URL : "https://github.com/ytiurin/downscale/issues/1" TITLE : uglify fails to minify BODY : i'm using create-react-app and it fails to generate the build with this module because uglify does not support es6 template strings. ! downscale https://user-images.githubusercontent.com/4365542/33284852-90c585de-d397-11e7-8a1e-9b0068090eaa.png

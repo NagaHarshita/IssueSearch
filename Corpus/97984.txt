@@ -1,0 +1,1 @@
+ URL : "https://github.com/athampy/DBProject/issues/34" TITLE : implement /events endpoint BODY : this endpoint should allow users to list, search, create, update, and delete events, depending on the users' role

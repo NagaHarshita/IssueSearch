@@ -1,0 +1,1 @@
+ URL : "https://github.com/zeit/now-env/issues/4" TITLE : remove the .config method BODY : i know that this was done because the dotenv package has it. but since we provide no other options , i think we should convert: js nowenv.config ...into: js nowenv which looks even nicer and is shorter to write... 😊

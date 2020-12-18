@@ -1,0 +1,1 @@
+ URL : "https://github.com/duckpunch/godash/issues/27" TITLE : expose number of captures? BODY : i think a function that can return the number of captures made by a certain color can be rather useful. the signature could be: godash.captures board, color // => number

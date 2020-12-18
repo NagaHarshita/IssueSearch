@@ -1,0 +1,2 @@
+ URL : "https://github.com/NOAA-PMEL/Ferret/issues/692" TITLE : make a shade key only -- BODY : reported by ansley b manke on 25 may 2006 17:51 utc to put just one key for a number of viewports... we have shade/nokey shade/key
+could we have shade/key=justthekey which would suppress everything about the plot except the key migrated-from: http://dunkel.pmel.noaa.gov/trac/ferret/ticket/1415

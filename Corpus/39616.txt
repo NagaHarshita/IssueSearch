@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla-mobile/focus-android/issues/129" TITLE : snackbar not showing BODY : the browsing history erased snackbar doesn't show up anymore. i guess that's happening because we added a coordinatorlayout to browserfragment and the snackbar will automatically attach to it. however this fragment is removed and therefore the snackbar might never show up.

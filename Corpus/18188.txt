@@ -1,0 +1,1 @@
+ URL : "https://github.com/gravitational/teleport/issues/1153" TITLE : ssh dial can hang BODY : problem ssh dial can hang indefinitely even if connection timeout is specified. source: https://github.com/golang/go/issues/15113. proposed solution specify connection deadline.

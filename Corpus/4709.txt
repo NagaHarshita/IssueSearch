@@ -1,0 +1,1 @@
+ URL : "https://github.com/yeskunall/nyts/issues/28" TITLE : fix gulp build BODY : the build process is currently broken. need to fix this in order to test the library with the current node 6.x.x

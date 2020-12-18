@@ -1,0 +1,1 @@
+ URL : "https://github.com/DaveDavenport/rofi/issues/691" TITLE : using rasi themes? BODY : using version 1.4.1, how does one use a rasi theme? there doesn't seem to be a command line switch for that and nothing in the man pages tells me where to put the .rasi files or how to select one.

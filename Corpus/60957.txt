@@ -1,0 +1,1 @@
+ URL : "https://github.com/mattferris/fwkit/issues/1" TITLE : add service definitions BODY : - wake-on-lan; 9/udp - nfs service; 2049/tcp,udp 1024:65535/tcp,udp - apt-cacher-ng; 3142/tcp - atrt; 3738/tcp - rsyslog; 514/udp - nrpe service; 5666/tcp

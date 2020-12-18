@@ -1,0 +1,1 @@
+ URL : "https://github.com/tpruvot/yiimp/issues/67" TITLE : pos not merge mineable BODY : is it possible by design merge mine pos. ? the coin support both pow/pos however if i switch rpc encoding to pow. when block should be solved it through up error and exiting. and when i fill to the encoding pos, no coins are being mege mined.

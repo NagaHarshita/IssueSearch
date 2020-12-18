@@ -1,0 +1,1 @@
+ URL : "https://github.com/zrrrzzt/html-validator-cli/issues/31" TITLE : quiet and verbose modes BODY : html-validator --quiet returns only errors html-validator --verbose tells which line has which error

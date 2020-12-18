@@ -1,0 +1,1 @@
+ URL : "https://github.com/gitextensions/gitextensions/issues/3627" TITLE : git, merge two branches BODY : hi, i created second branch -> git checkout -b branch2 after it, created any file, add, commit and push to branch2. now i checkout to master branch. how can i added new_file from branch2 to master branch? any merge option -> your branch is up to date.

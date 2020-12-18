@@ -1,0 +1,1 @@
+ URL : "https://github.com/mpcjanssen/simpletask-android/issues/747" TITLE : parse markdown in tasks BODY : from mail: it would be nice if markdown in tasks is parsed for example a link can be entered as: projectx root://work/transport/. and is displayed as projectx

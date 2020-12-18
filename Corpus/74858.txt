@@ -1,0 +1,1 @@
+ URL : "https://github.com/satnogs/satnogs-rotator-firmware/issues/5" TITLE : fix firmware for new pcb BODY : change pin definitions for rotator controller https://github.com/satnogs/satnogs-rotator-controller/tree/master/satnogs_controller

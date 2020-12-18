@@ -1,0 +1,1 @@
+ URL : "https://github.com/josh-works/black_shop_of_horrors/issues/51" TITLE : partial issue 12 BODY : when i am logged in and i visit my cart and when i click “checkout” then the order should be placed and my current page should be “/orders” and i should see a message “order was successfully placed” and i should see the order i just placed in a table

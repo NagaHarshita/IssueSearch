@@ -1,0 +1,1 @@
+ URL : "https://github.com/PaddlePaddle/Paddle/issues/6430" TITLE : out of date comment BODY : the following comments are out of date. there are many parameters has a different name https://github.com/paddlepaddle/paddle/blob/a75437a20c450cd88f3f900d3b82a11b9ffb7c37/python/paddle/v2/dataset/common.py l194-l203

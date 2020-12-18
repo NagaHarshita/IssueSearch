@@ -1,0 +1,1 @@
+ URL : "https://github.com/dangvd/ksmoothdock/issues/71" TITLE : reserve space on screen BODY : hello, is it possible to reserve the space of the dock on the screen like e.g. cairo-dock does? i would like to not get ksmoothdock overlapped by other windows or other windows overlapped by ksmoothdock.

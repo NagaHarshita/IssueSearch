@@ -1,0 +1,1 @@
+ URL : "https://github.com/esp8266/Arduino/issues/3344" TITLE : accidently set baud rate BODY : i accidantly set my baudrate on my esp-12e to 100,000 using at+ciobaud and now i cannot do anything with it. i cannot even flash it, anyone has an idea how to resolve this? pc: windows 10 esp-12e

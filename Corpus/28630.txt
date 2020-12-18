@@ -1,0 +1,1 @@
+ URL : "https://github.com/cofonseca/ChatApp/issues/6" TITLE : heroku sql database BODY : we need a sql database that is compatible with heroku. the database will handle both user authentication and chat history.

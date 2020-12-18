@@ -1,0 +1,1 @@
+ URL : "https://github.com/NixOS/nixpkgs/issues/32266" TITLE : rename mbpfan to macfan BODY : it does not only work on macbook pros, but also on macbooks and probably other mac hardware. so i suggest to rename it to macfan, similar to thinkfan. cc @cstrahan

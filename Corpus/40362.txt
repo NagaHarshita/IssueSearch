@@ -1,0 +1,1 @@
+ URL : "https://github.com/rism-ch/verovio/issues/685" TITLE : tutorial page update BODY : on the page: http://www.verovio.org/tutorial.xhtml?id=topic01 the text: note that the options have to be passed as a string to the toolkit. no longer applies the javascript example is correct, passing the options as an object .

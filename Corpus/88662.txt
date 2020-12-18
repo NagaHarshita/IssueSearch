@@ -1,0 +1,1 @@
+ URL : "https://github.com/redacademy/spirit-winter-2017/issues/6" TITLE : obfuscate email addresses BODY : you have an email address in your footer.php. please wrap in the antispambot function to obfuscate it: https://codex.wordpress.org/function_reference/antispambot

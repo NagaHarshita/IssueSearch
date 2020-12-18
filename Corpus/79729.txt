@@ -1,0 +1,1 @@
+ URL : "https://github.com/roborescue/rcrs-server/issues/7" TITLE : start.sh arguments wrong BODY : the usage instructions to run the rcrs do no correspond exactly to the available options and required arguments.

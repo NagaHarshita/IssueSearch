@@ -1,0 +1,1 @@
+ URL : "https://github.com/mlwyatt/sudoku/issues/15" TITLE : add simple solve button? BODY : do take notes check for cells with only 1 note repeat until no notes or no cells with only 1 note found

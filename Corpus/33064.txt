@@ -1,0 +1,1 @@
+ URL : "https://github.com/pfalcon/micropython-ffigen/issues/2" TITLE : _bool or not _bool ? BODY : hi, what is the safe way to add bool to the mappings ? there was some ffi discussion about it here https://github.com/rust-lang/rfcs/pull/954 are those ok ? :_bool : b , :_bool : uctypes.uint8 , thanks a lot for this tool !

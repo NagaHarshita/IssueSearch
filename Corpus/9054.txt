@@ -1,0 +1,1 @@
+ URL : "https://github.com/tectonic-typesetting/tectonic/issues/61" TITLE : sync with xetex BODY : i’m not sure what version or git revision of xetex was used as the base here, but it seems to miss some of the new fixes in xetex e.g. some serious bugs in opentype math have been fixed in the last cycle which seems to be missing here .

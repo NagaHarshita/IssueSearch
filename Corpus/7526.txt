@@ -1,0 +1,1 @@
+ URL : "https://github.com/mdbs99/git-work/issues/17" TITLE : git work config BODY : let's create a new config command. this is related with 9. if the user type just git work config without any params, git-work will show all configurations.

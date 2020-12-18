@@ -1,0 +1,2 @@
+ URL : "https://github.com/NaturalHistoryMuseum/scratchpads2/issues/677" TITLE : empty biblio title fields BODY : - original id: 775 - added by laurence j livermore on tue mar 06 2012 16:06:55 gmt+0000 gmt - scratchpads url: http://ihs.myspecies.info/ description:
+biblio nodes can be imported but not newly created without title fields. this makes viewing the biblio node very hard. see http://ihs2.myspecies.info/biblio?f 0=im_biblio_contributor%3a47 for many examples.

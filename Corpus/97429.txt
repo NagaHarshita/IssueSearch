@@ -1,0 +1,1 @@
+ URL : "https://github.com/docker/docker.github.io/issues/3493" TITLE : got an error on dockerfile BODY : file: get-started/part2.md https://docs.docker.com/get-started/part2/ , cc @johndmulhausen adding following line copy . /app before workdir /app fixed it.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/goatcart/goat_cart_mqp/issues/5" TITLE : cart control protocol BODY : create and implement a simple protocol that allows the server to communicate with the raspberry pi controller.

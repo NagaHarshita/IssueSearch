@@ -1,0 +1,1 @@
+ URL : "https://github.com/prasadtalasila/TransportScheduler/issues/22" TITLE : code quality toolset BODY : a linter and static code analysis tool for elixir language. a web-based service that we can integrate with the github commits would be good as well.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/codeRIT/brickhack.io/issues/494" TITLE : cache email events BODY : sparkpost's api provides a very limited history of events - only up to 10 days or 1000 events, which we easily exceed when sending out bulk emails. we can easily track these events by opening a webhook that sparkpost notifies when new events come in.

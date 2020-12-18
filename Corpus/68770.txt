@@ -1,0 +1,1 @@
+ URL : "https://github.com/kanishka-linux/kawaii-player/issues/11" TITLE : shortcuts in input.conf BODY : shortcuts in input.conf in the directory ./config/kawaii-player/src/input.conf don't work i am adding my own shortcuts to that file.

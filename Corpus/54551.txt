@@ -1,0 +1,1 @@
+ URL : "https://github.com/rpherbig/dr-scripts/issues/1569" TITLE : go2 error with fatigue BODY : in aesry, go2 does not work properly because of fatigue issues. it'd be nice to have a fatigue check and for it to wait till you have enough fatigue to work

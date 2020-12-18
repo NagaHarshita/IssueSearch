@@ -1,0 +1,1 @@
+ URL : "https://github.com/Accenture/adop-sonar/issues/15" TITLE : ldap authentication issue BODY : the ldap authentication fails when there is a white space in any of the ldap variables. in our case there is a white space in ldap_bind_dn. please can we update the relevant scripts run.sh to cater for such cases with white spaces? thanks, zarif

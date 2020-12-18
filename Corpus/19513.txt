@@ -1,0 +1,1 @@
+ URL : "https://github.com/centrifugal/centrifuge-mobile/issues/1" TITLE : add event contexts BODY : like in javascript client: for example: go type disconnecthandler interface{ ondisconnect client, disconnectcontext } where disconnectcontext is struct like this: go type disconnectcontext struct { reason string reconnect bool } the same for other events

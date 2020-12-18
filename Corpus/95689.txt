@@ -1,0 +1,1 @@
+ URL : "https://github.com/RechercheTech/mss/issues/3" TITLE : dia not running in tc mode BODY : _from @cyberorg on december 31, 2016 7:58_ remove dia from the server: apt remove dia _copied from original issue: recherchetech/mss-doc 3_

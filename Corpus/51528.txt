@@ -1,0 +1,1 @@
+ URL : "https://github.com/neurobin/shc/issues/31" TITLE : argument list too long BODY : oracle@rdbms ~ $ shc -f ora.sh -o ora oracle@rdbms ~ $ ./ora tsfree ./ora: argument list too long: /bin/bash cat /etc/issue centos release 6.3 final

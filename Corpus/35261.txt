@@ -1,0 +1,1 @@
+ URL : "https://github.com/StephenClearyApps/DotNetApis/issues/50" TITLE : display enum members BODY : /src/components/doc/enum.tsx want to support: - name, decimal value, hexadecimal value. - sorting by value or name

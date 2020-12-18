@@ -1,0 +1,1 @@
+ URL : "https://github.com/takuya-fujii/prj-rev-bwfs-dasmoto/issues/2" TITLE : good use of inheritance BODY : this use of inheritance is a great way to set the font for the page. you should be able to remove font-family from the rest of your css selectors now. https://github.com/takuya-fujii/prj-rev-bwfs-dasmoto/blob/master/dasmotoartsandcrafts/resources/css/index.css l2-l4

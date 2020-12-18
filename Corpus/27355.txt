@@ -1,0 +1,1 @@
+ URL : "https://github.com/moeiscool/Shinobi/issues/233" TITLE : creating a new user BODY : html form.reset ; should be called after a successful user creation when the super user is creating multiple users so that the admin doesnt have to delete all the previous fields.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/schw4b/mdm/issues/6" TITLE : mdm diagnostics for delta BODY : mdm provides not only a complete network but also some additional parameters which need to be carefully investigated. we will add diagnostic features such as visualization of the deltas and warning messages if deltas are too high or too low.

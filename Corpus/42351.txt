@@ -1,0 +1,1 @@
+ URL : "https://github.com/sea-watch/SAR-Client/issues/2" TITLE : authservice and login BODY : implement authservice - login username, password - log in an existing user - getuser - return userinfo of current user. implement login and show login on startup if no session exists. - how do we proceed in case of no network connection on startup?

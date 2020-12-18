@@ -1,0 +1,1 @@
+ URL : "https://github.com/rmariano/compr/issues/22" TITLE : setup lint checking BODY : make lint should be part of the checklist, and should run linting checks automatically pycodestyle , pylint, etc. . if some issues are found on any of the files, it should fail with exit code 1.

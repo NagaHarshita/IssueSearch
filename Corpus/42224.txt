@@ -1,0 +1,1 @@
+ URL : "https://github.com/mathiasbynens/evil.sh/issues/68" TITLE : annonying is unusable BODY : $ grep '^evil_behaviour' evil.sh evil_behaviour=annoying $ . evil.sh $ destructive && echo 'yes' yes what's wrong ?

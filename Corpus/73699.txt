@@ -1,0 +1,1 @@
+ URL : "https://github.com/Daniel-Svensson/test/issues/50" TITLE : dbcontext & wizard issue BODY : if there are many dbcontexts with common tables in a project, then the create domain service wizard can find only one dbcontext. ef 6.1.1. this work item was migrated from codeplex codeplex work item id: '50' vote count: '1'

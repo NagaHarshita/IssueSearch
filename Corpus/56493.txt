@@ -1,0 +1,6 @@
+ URL : "https://github.com/w3c/wai-policies-prototype/issues/168" TITLE : new entry for zimbabwe BODY : new entry for zimbabwe submitted by robert mailto:jolly.robert@gmail.com : > just a test. ~~~yaml
+---
+country: en: zimbabwe manual enter other country names: updated: 2017-05-08
+updatemsg: related page:
+province: policies: - title: en: zimbabwe accessibility mandate zam! url: zam.za updated: 2017 wcagver: enactdate: 2017 type: ministries: - title: url: webonly: true scope: standard: - title: desc: url: documents: - title: desc: url: ---
+~~~

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mischnic/python-ci/issues/17" TITLE : service worker and /api BODY : the service worker recognizes /api as part of the single-page react app and serves index.html

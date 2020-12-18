@@ -1,0 +1,1 @@
+ URL : "https://github.com/yiisoft/yii2-queue/issues/129" TITLE : aws sqs driver BODY : has anyone worked on adding a driver for amazon simple queue service? are there any known pitfalls in trying to implement this?

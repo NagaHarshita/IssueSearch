@@ -1,0 +1,1 @@
+ URL : "https://github.com/ChasmSolutions/disciple-tools/issues/91" TITLE : locations import rewrite BODY : we need to rewrite the locations import using $wpdb for the creation of posts and not wp_insert, so that we can skip all the creation hooks that are slowing large imports down.

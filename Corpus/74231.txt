@@ -1,0 +1,1 @@
+ URL : "https://github.com/CMPUT301F17T21/StylePoints/issues/55" TITLE : elastic search for login BODY : the login page is done. now just need to check for username in db, and either create it or pull all habit info from existing username

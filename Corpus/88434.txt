@@ -1,0 +1,1 @@
+ URL : "https://github.com/abrochard/go-many-git/issues/3" TITLE : no check for invalid path BODY : while registering a path, go-many-git failed to throw an error for an invalid path. during git pull, go-many-git fails at the invalid path.

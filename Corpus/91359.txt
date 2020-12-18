@@ -1,0 +1,1 @@
+ URL : "https://github.com/wokste/FanfictionReader/issues/6" TITLE : threading database access BODY : this has several sub-steps: - locking of the database. - locking stories potentially with read/write access. - move add story to a future or something similar. - move update story to a future or something similar.

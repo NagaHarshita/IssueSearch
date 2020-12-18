@@ -1,0 +1,1 @@
+ URL : "https://github.com/mightyplugins/mighty-builder/issues/4" TITLE : move google font to header BODY : move google font to the header. i think creating a google font loader plugin will be best for this so anyone can load google font from there ends. it will solve overloading.

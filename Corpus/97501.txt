@@ -1,0 +1,1 @@
+ URL : "https://github.com/openremote/openremote/issues/21" TITLE : handle connectivity errors BODY : handle errors of main web view loading initial url by displaying native error message instead of letting the web view display the error handle device notifications for connectivity and display an error screen overlay when no connectivity is detected

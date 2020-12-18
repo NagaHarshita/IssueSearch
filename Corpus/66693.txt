@@ -1,0 +1,1 @@
+ URL : "https://github.com/RocketChat/Rocket.Chat.Java.SDK/issues/61" TITLE : new get user group list BODY : we need to add the method to get the user group list subscriptions via rest api.

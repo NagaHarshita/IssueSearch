@@ -1,0 +1,1 @@
+ URL : "https://github.com/Gustra/git-tasks/issues/4" TITLE : message line format option BODY : add a possibility to format the commit message line globally or by system in the configuration file, eg. message-line-format : %b %n %t format syntax should be shared across the commands.

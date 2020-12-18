@@ -1,0 +1,1 @@
+ URL : "https://github.com/tidyverse/purrr/issues/324" TITLE : else clause in map_if BODY : i fell that i order for the map_if function to be really useful should have the possibility of calling an else function if the outcome of .predicate is false. by default it should leave the object iterated alone, and not return anything.

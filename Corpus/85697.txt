@@ -1,0 +1,1 @@
+ URL : "https://github.com/Greenstand/treetracker-android/issues/2" TITLE : fix gps location tracking BODY : gps location tracking does not appear to be functional in the current source build.

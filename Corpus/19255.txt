@@ -1,0 +1,2 @@
+ URL : "https://github.com/25wes25/-include-dad-/issues/4" TITLE : 3 “contact us” BODY : description: a user should be able to see/ access “contact us” information that describes not only methods of contacting our development help team, but when they are able to.
+task: create the necessary ui elements that display and ensure the user is able to contact the necessary help. test: output the display priority: 7 estimation: 1 done: the information is displayed in a simple and easy to read manner.

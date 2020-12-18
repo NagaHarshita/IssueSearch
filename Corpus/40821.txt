@@ -1,0 +1,1 @@
+ URL : "https://github.com/Riverscapes/RiverscapesToolbar/issues/11" TITLE : validation on upload BODY : take the ideas here: https://github.com/riverscapes/program/blob/master/tools/validatexml.py and apply them to the uploader so people get a sense of what's wrong before they upload

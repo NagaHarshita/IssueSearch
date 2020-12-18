@@ -1,0 +1,1 @@
+ URL : "https://github.com/eddyxu/cpp-coveralls/issues/121" TITLE : failed to get coverage BODY : i'm a beginner with coveralls and try to fix my first project in c. i got 0 % coverage and can't restart a new build. i'm not sure why. the project is www.github.com/montao/bst

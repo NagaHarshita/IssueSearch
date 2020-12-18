@@ -1,0 +1,1 @@
+ URL : "https://github.com/sygo64/P4-Louvre/issues/2" TITLE : insight 1 BODY : - dependencies not installable - the composer.json file should be valid - symfony applications should not contain a config.php file - commented code should not be committed

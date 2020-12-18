@@ -1,0 +1,1 @@
+ URL : "https://github.com/moip/magento2/issues/3" TITLE : instalar via composer BODY : contribuição instalação via composer composer require moip/moip-sdk-php

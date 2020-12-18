@@ -1,0 +1,1 @@
+ URL : "https://github.com/malsup/cycle2/issues/817" TITLE : request: show on hover BODY : i see there is a pause-on-hover parameter, but i want the slideshow to only advance when the mouse hovers over it. is that possible?

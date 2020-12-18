@@ -1,0 +1,1 @@
+ URL : "https://github.com/xamgore/grade-student-profile/issues/8" TITLE : use svg icons BODY : it's better to get rid of the font awesome. we just use 4-5 icons and don't need the whole font pack. moreover svg is supported by all major browsers, they are more flexible and is meant for this purpose.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/turigeza/fold-navigator/issues/11" TITLE : open fold on search? BODY : we use atom's built-in search, would like to open folds if we search the item currently it finds it, does not open the fold or it's contents within . i know there is the fold navigator search, which is great, but using atom's built-in is a bit quicker and more natural for us.

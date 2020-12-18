@@ -1,0 +1,1 @@
+ URL : "https://github.com/pandas-dev/pandas/issues/16388" TITLE : tst: re-enable gbq tests BODY : https://github.com/pandas-dev/pandas/commit/6dcf2ed2706b00020f6a3be5530ff8dc121ba989 causing this tests to fail; seems some issues on the bq side see https://github.com/pydata/pandas-gbq/pull/40

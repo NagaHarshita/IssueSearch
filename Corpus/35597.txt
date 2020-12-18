@@ -1,0 +1,1 @@
+ URL : "https://github.com/CJT2325/CameraView/issues/105" TITLE : error quit not found BODY : hello, i add o gradle compile 'cjt.library.wheel:camera:1.1.9' but the quit not found in jcameralistener

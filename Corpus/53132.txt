@@ -1,0 +1,1 @@
+ URL : "https://github.com/gdelmas/IntelliJDashPlugin/issues/67" TITLE : define where to search BODY : hi, thanks a lot for this plugin. i have one question. is possible to define in which docs to search similarly like in sublimetext plugin e.g. 'python':'python3,numpy,scipy,matplotlib' ?

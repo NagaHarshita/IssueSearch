@@ -1,0 +1,1 @@
+ URL : "https://github.com/jefferyto/openwrt-slide-switch/issues/3" TITLE : release builds for lede BODY : the ar71xx package doesn't install cleanly on lede 17.01.1 because the architecture in opkg now seems to be called mips_24kc . using arch overrides in /etc/opkg.conf allowed me to install it, and it seems to work fine once installed.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/98edoardo/FabLab-Romagna-Auth/issues/2" TITLE : bug aggiornamento tabella BODY : quando l'utente tenta di registrarsi nuovamente nel caso in cui non abbia verificato l'account viene restituito un errore del database.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/0x00-0x00/crypt/issues/36" TITLE : keygen new features BODY : --to-path argument: specify the path where the new keys are going to be generated. this will support the future web service

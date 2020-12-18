@@ -1,0 +1,1 @@
+ URL : "https://github.com/LCAS/spqrel_tools/issues/32" TITLE : flex error on 14.04 BODY : the problem is that naoqi distribution does not include flex. so i manually added file flexlexer.h in pnpnaoqi\include 16.04 version you can try to replace this file with the 14.04 version /usr/include/flexlexer.h maybe we can try in transforming this file in a symbolic link.

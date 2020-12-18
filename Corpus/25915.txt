@@ -1,0 +1,1 @@
+ URL : "https://github.com/line72/dv8-api-server/issues/5" TITLE : add in cors support BODY : i'd like to add in cors support to make integration easier. slim framework has some documentation here: https://www.slimframework.com/docs/cookbook/enable-cors.html and to validate support, we can use this: https://test-cors.org

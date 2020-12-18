@@ -1,0 +1,1 @@
+ URL : "https://github.com/haffonist/igamt/issues/2162" TITLE : duplicated value sets BODY : for some versions we have the some hl7 value set duplicated. for the version 2.5.1 we have some hl7 value sets with an extension

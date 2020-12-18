@@ -1,0 +1,1 @@
+ URL : "https://github.com/Vetal-inside/FCl/issues/2" TITLE : auto start on load? BODY : ran into an issue. my rigs crashed due to a black out and the rigs couldn't connect because with your program, you need to physically click on listen for the proxy to start working. how would you make it automatically listen when the program loads if i add it to the start up folders?

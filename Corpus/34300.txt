@@ -1,0 +1,1 @@
+ URL : "https://github.com/opencpu/opencpu/issues/277" TITLE : can't update package BODY : i have package in private github repo so, i've updated it and tried to run it in ocpu but there are no changes. i think, i need to restart ocpu, but 'sudo apachect1 restart' doesn't solve my problem

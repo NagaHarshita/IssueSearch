@@ -1,0 +1,1 @@
+ URL : "https://github.com/StevenCopeland/Monopoly/issues/1" TITLE : start the js part BODY : after i finish the html i will start working on the js part. ideas: ctx.beginpath ; ctx.drawrect 10, 10, 0, 0 ; ctx.fill ; var keydown = function { if key.code === 13 { ctx.drawrect 10,10,0,0 ; } };

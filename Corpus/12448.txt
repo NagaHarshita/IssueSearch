@@ -1,0 +1,1 @@
+ URL : "https://github.com/atom/language-php/issues/265" TITLE : php syntax break BODY : with the release of language-php v0.41.0 the syntax is broke see this image: ! screen shot 2017-09-12 at 14 39 19 https://user-images.githubusercontent.com/1726914/30340369-adde68f8-97c8-11e7-8f07-e8a9bb57838e.png atom version v1.20.0

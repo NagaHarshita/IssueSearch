@@ -1,0 +1,1 @@
+ URL : "https://github.com/jorgenschaefer/circe/issues/310" TITLE : duplicate spec names BODY : $ ./scripts/test found duplicate spec names in suite: the state tracking handler for parting should remove a channel if we get kicked

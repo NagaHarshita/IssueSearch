@@ -1,0 +1,1 @@
+ URL : "https://github.com/ga-wdi-boston/ruby-object-model/issues/24" TITLE : typo under class or mixin BODY : diff class or mixin? when deciding whether to write a class or mixin, ask yourself if what you're - writing will need an initialze function. if you do, you should be writing a class. + writing will need an initialize function. if you do, you should be writing a class.

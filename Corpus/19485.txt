@@ -1,0 +1,1 @@
+ URL : "https://github.com/dbcollection/dbcollection/issues/55" TITLE : add dataset: kitti BODY : add the svhn streets view house number dataset to the list. required tasks: - object 2d default - stereo - flow purpose: object detection, stereo, optic flow, odometry, tracking. source: http://www.cvlibs.net/datasets/kitti/index.php

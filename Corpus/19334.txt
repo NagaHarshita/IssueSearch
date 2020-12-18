@@ -1,0 +1,1 @@
+ URL : "https://github.com/bem-site/bem-method/issues/668" TITLE : abem naming method BODY : this is a bem based naming convention i came up with that helps users that enjoy using atomic design principles. a/m/o -blockname__elementname -modifiername more details can be found in this css-trix article: https://css-tricks.com/abem-useful-adaptation-bem/

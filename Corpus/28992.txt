@@ -1,0 +1,1 @@
+ URL : "https://github.com/nihlaeth/user_config/issues/3" TITLE : incorrect exit code BODY : when using commandline parser options like -h and --generate-config, the exit code indicates failure even though nothing went wrong.

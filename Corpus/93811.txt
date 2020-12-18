@@ -1,0 +1,1 @@
+ URL : "https://github.com/dosomder/iovyroot/issues/47" TITLE : armv7 version of iovyroot? BODY : hi! would this tool work for armv7 arch armv7l, armeabi-v7a ? i could try to recompile it but don't know if that makes any sense at all. everytime when i execute iovyroot i'm getting /system/bin/sh: /data/local/tmp/iovyroot: not executable: magic 7f45

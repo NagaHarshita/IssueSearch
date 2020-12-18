@@ -1,0 +1,1 @@
+ URL : "https://github.com/rks-gov/arkep/issues/8" TITLE : login form frontend BODY : login form - username - password - forgot password - remember me - add translation al, en, sr for each label - login button - when trying to login, if they haven't been authorized yet, a message pops out saying: your request is still in the reviewing process for authorization!

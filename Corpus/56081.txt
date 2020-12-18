@@ -1,0 +1,1 @@
+ URL : "https://github.com/Zleub/rpgtest/issues/14" TITLE : mechanics and formulae BODY : archery number of hits = 1 + agility / 9 + joblv / 14 + sum of both melee prof. - 2 / 14

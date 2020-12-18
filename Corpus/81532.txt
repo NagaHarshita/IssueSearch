@@ -1,0 +1,1 @@
+ URL : "https://github.com/ChooseLicense/ChooseLicense.github.io/issues/1" TITLE : 建议:增加 url 参数 BODY : 比如 /since/2016/fullname/sloop@example.com 然后填充 license 主体中的字段 类似 https://github.com/remy/mit-license, 但是该项目要求 fork https://achun.mit-license.org/2016

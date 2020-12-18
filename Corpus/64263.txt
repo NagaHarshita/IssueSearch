@@ -1,0 +1,1 @@
+ URL : "https://github.com/nosir/cleave.js/issues/169" TITLE : format a password field BODY : so far, this has worked fine with text fields for me, but is it possible to get this to work with a password field? for example, if i wanted to be able to add hyphens to a private number but still keep it masked with asterisks so that as the user typed, it would appear as -

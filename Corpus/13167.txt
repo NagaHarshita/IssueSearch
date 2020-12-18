@@ -1,0 +1,1 @@
+ URL : "https://github.com/public-accountability/littlesis-rails/issues/295" TITLE : tag admin page 3 BODY : where admins can: - create tags - remove tags - edit tag names + descriptions - in the future edit tag permissions

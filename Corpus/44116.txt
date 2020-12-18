@@ -1,0 +1,1 @@
+ URL : "https://github.com/arunkumar9t2/chromer/issues/29" TITLE : editing a source code BODY : error:project :app declares a dependency from configuration 'compile' to configuration 'default' which is not declared in the descriptor for project :rxsuggestions:library.

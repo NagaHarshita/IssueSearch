@@ -1,0 +1,1 @@
+ URL : "https://github.com/Eusse/prospector-client/issues/63" TITLE : change alerts for modals BODY : deletion confirmation messages in status and interactions for now displays a confirm that do not work in responsive design view

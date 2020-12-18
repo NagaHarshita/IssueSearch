@@ -1,0 +1,1 @@
+ URL : "https://github.com/ducc/DiscrimFarmer/issues/10" TITLE : error after running? BODY : fata 0000 error getting user details error= http 401 unauthorized, {\ code\ : 0, \ message\ : \ 401: unauthorized\ }

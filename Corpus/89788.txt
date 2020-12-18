@@ -1,0 +1,1 @@
+ URL : "https://github.com/fassetar/Orchard/issues/8" TITLE : remove - linktofirstchild BODY : should be handled in a view specific view if need be but otherwise all links in the admin are dropdowns with a link instead.

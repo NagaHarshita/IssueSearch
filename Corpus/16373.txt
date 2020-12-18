@@ -1,0 +1,1 @@
+ URL : "https://github.com/lathoub/Arduino-AppleMidi-Library/issues/44" TITLE : implement midi cc BODY : is there any plan for implementing midi cc in the library? i would love to implement rtp in my project but i need both notes and cc. thanks

@@ -1,0 +1,1 @@
+ URL : "https://github.com/bredele/datastore/issues/48" TITLE : init proxy handler BODY : in the same way we can proxy setters and getters we should be able to proxy the construction of a store.

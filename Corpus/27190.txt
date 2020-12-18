@@ -1,0 +1,1 @@
+ URL : "https://github.com/nesbox/TIC-80/issues/470" TITLE : crash on tic-80 pro BODY : when i drag a tic file on my self compile tic-80, it will a white screen will appear and the game will crash. i am using visual studio 2015 professional to compile the program. will that happens on official release of tic-80 pro? it will not happen on non-pro version

@@ -1,0 +1,1 @@
+ URL : "https://github.com/puppetlabs/puppetlabs-image_build/issues/43" TITLE : add --tag option BODY : hey, thanks for the work on this module. it would be great to have a --tag option where one could specify a tag that should be applied to the output image if it builds successfully. much like the docker build -t option.

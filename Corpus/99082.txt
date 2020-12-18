@@ -1,0 +1,1 @@
+ URL : "https://github.com/gabemdev/GMDKit/issues/1" TITLE : make fromcolor func public BODY : current fromcolor function is static. need to update to public.

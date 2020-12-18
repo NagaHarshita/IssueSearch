@@ -1,0 +1,1 @@
+ URL : "https://github.com/oliverjam/workstream-website/issues/1" TITLE : set up a build pipeline BODY : - clean the /dist folder in preparation for new files - compile .scss files to a single .css file. - minify asset files. - copy asset files to /dist . - run a browsersync server from /dist .

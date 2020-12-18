@@ -1,0 +1,1 @@
+ URL : "https://github.com/civicrm/api4/issues/3" TITLE : too many get classes?? BODY : i can understand the need for 2 get classes i guess but is 3 really necessary? ./civi/api/v4/action/get.php:40:class get extends api\v4\action ./civi/api/v4/entity/entity/get.php:34:class get extends action ./civi/api/v4/entity/participant/get.php:34:class get extends \civi\api\v4\action\get

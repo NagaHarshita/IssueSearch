@@ -1,0 +1,1 @@
+ URL : "https://github.com/fossasia/badgeyay/issues/439" TITLE : no cache for travis build. BODY : current behavior: currently, travis doesn't have caching. so that it takes some time for the test expected behavior: adding caching to the travis build. so that the test will be done even quicker.

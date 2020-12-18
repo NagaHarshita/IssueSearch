@@ -1,0 +1,1 @@
+ URL : "https://github.com/databricks/scala-style-guide/issues/49" TITLE : automated checks for ci BODY : anyone knows of a good scala style checker that is flexible enough to incorporate this style guide? will be useful for automation / continuous integration. thanks!

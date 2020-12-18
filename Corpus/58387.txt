@@ -1,0 +1,1 @@
+ URL : "https://github.com/theodi/comma-chameleon/issues/144" TITLE : shortcuts throw errors BODY : a javascript error occurred in the main process uncaught exception: referenceerror: mainwindow is not defined at click

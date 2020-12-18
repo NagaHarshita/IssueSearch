@@ -1,0 +1,1 @@
+ URL : "https://github.com/FernbankLINKSRobotics/FRC2017/issues/4" TITLE : lift peg autonomous BODY : this is somewhat connected to 3 , but we need to implement that pid controller into the autonomous in order to end up with a solid lift peg auto.

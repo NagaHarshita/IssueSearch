@@ -1,0 +1,1 @@
+ URL : "https://github.com/epsylon/ufonet/issues/62" TITLE : missing dependency on docs BODY : hello, to install on debian-based systems ex: ubuntu it also needs the requests libs, so it's needed to run as follow: sudo apt-get install python-requests thanks in advance.

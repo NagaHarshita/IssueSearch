@@ -1,0 +1,1 @@
+ URL : "https://github.com/ga-wdi-boston/game-project/issues/769" TITLE : not being able to deploy BODY : once i type in grunt deploy it gives me two fatal messages saying that 'origin' does not appear to be a git repository and that it could not read from remote repository.

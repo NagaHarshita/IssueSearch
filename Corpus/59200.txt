@@ -1,0 +1,1 @@
+ URL : "https://github.com/trufae/Therm/issues/27" TITLE : therm crashes whit zsh BODY : hi @trufae therm crashes when executing zsh . while doing: ~~~bash jbono@macbook ~ > zsh ~~~ therm closes immediately and suggests to send a crash report. i don't know if this is useful for you but i pasted the report to paste.ee https://paste.ee/p/ishw7

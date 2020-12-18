@@ -1,0 +1,1 @@
+ URL : "https://github.com/serokell/tasty-hedgehog-lens/issues/1" TITLE : lens-laws on hackage BODY : send an email to the author of lens-laws asking them whether they were planning to publish lens-laws on hackage. we would like to depend on it and having it as a git submodule is pretty weird.

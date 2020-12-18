@@ -1,0 +1,1 @@
+ URL : "https://github.com/Linaro/OpenCSD/issues/9" TITLE : arm etmv3.3 isync decoding BODY : hello, i have been using opencsd to decode some arm etmv3.3 data, and i think there is an error when reading isync packets. the address does not seem to be read correctly. it appears that when reading the contextid, the index is updated twice. this causes junk to bread into the address.

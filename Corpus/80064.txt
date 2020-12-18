@@ -1,0 +1,1 @@
+ URL : "https://github.com/itchio/itch/issues/1284" TITLE : switch to typescript 2.4 BODY : blocked by https://github.com/microsoft/vscode/issues/28643 pretty much, because vscode is unusable with typescript 2.4 right now.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/xavierfoucrier/gmail-notifier/issues/38" TITLE : balloon notifications link BODY : when the user is clicking on a balloon notification for new email, the application must open the specified email in the browser.

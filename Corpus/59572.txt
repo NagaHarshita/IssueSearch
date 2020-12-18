@@ -1,0 +1,1 @@
+ URL : "https://github.com/MindorksOpenSource/android-mvp-architecture/issues/32" TITLE : update dagger to 2.10+ BODY : do you plan to update dagger to 2.10+ and the newly introduced dagger.android https://github.com/google/dagger/tree/dagger-2.10/java/dagger/android framework

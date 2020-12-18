@@ -1,0 +1,1 @@
+ URL : "https://github.com/cooperka/react-native-snackbar/issues/27" TITLE : add ondismiss callback BODY : it would be useful to be able to hook a callback when the snackbar is dismissed, both for automatic dismiss when duration reaches its end and when the user open another snackbar when the current is active

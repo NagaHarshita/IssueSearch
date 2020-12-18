@@ -1,0 +1,1 @@
+ URL : "https://github.com/ytet5uy4/expose-desktop/issues/29" TITLE : not use fog in development BODY : why unnecessary what - update config/initializers/carrierwave.rb - update app/uploaders/icon_uploader.rb - update app/uploaders/image_uploader.rb - update gemfile - update docker-compose.yml for data volume

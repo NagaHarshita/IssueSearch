@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpenDataDE/food-bank-sttp/issues/46" TITLE : analysis: violation filter BODY : - conduct background research on restaurant health violations and come up with a weight per violation - come up with a class to represent violations - construct a filter according to the criteria established in the first step

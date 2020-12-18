@@ -1,0 +1,1 @@
+ URL : "https://github.com/phoboslab/jsmpeg/issues/149" TITLE : jsmpeg just can not work BODY : webgl: invalid_operation: teximage2d: type unsigned_byte but arraybufferview not uint8array jsmpeg: possible garbage data. skipping. what is this mean???!!! i use the .mpg video.

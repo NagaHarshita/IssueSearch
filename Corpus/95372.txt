@@ -1,0 +1,1 @@
+ URL : "https://github.com/eweitnauer/gm-api/issues/2" TITLE : ctrl+z should trigger undo BODY : if the gm canvas is not the only element on the page, the keys should only be captured when the user is interacting with the canvas. it should work correctly with several gm canvases on the same page.

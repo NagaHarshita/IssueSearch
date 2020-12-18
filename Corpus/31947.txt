@@ -1,0 +1,1 @@
+ URL : "https://github.com/liqd/a4-opin/issues/841" TITLE : test user dashboard BODY : due to a bug found in release 2.4 0348be0ba51cda4b744db3a5448107b43f9684fd it seems there is now test that checks the user dasboard for private projects. also tests for the release branch itself are failing.

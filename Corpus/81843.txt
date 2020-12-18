@@ -1,0 +1,1 @@
+ URL : "https://github.com/Cosecha/redadalertas-api/issues/26" TITLE : a user is able to sign up BODY : post /user the user will need an invitationcode should take: phone email invitecode if the data matches... should respond sessiontoken

@@ -1,0 +1,1 @@
+ URL : "https://github.com/bpicode/fritzctl/issues/59" TITLE : fritzctl list switches BODY : fritzctl list switches is also listing thermostats. im pretty sure that shoulddn´t be.

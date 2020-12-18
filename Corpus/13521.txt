@@ -1,0 +1,1 @@
+ URL : "https://github.com/akveo/react-native-ui-kitten/issues/62" TITLE : use system font? BODY : this may be a silly question but how do i just have my theme use the default system font _ san francisco on ios, and roboto on android_ ? do i need to set that in my theme.js file? or does that just happen automatically if i don't set any font?

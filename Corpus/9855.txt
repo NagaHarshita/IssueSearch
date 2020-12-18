@@ -1,0 +1,1 @@
+ URL : "https://github.com/spring-cloud/spring-cloud-skipper/issues/118" TITLE : add list command BODY : the list command should only fetch latest release for whatever matches wrt to the release name if it is failed or deployed, not the full list of releases

@@ -1,0 +1,1 @@
+ URL : "https://github.com/underscoreio/advanced-scala/issues/65" TITLE : mistake in woding BODY : next define a method parseint that consumes an int and parses it as a string. this should be consumes a string and parses it as an int

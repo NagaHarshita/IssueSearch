@@ -1,0 +1,1 @@
+ URL : "https://github.com/kerryb/ytd/issues/3" TITLE : target gets forgotten BODY : sometimes the target reverts to being unset, even while you are still logged in. originally part of 1.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/JuliaLang/julia/issues/24749" TITLE : behavior of issort BODY : the method base.issorted seems giving incoherent results on arrays containing identical elements, for example with 0,0,1 : julia julia>issorted 0,0,1 , lt= < true however julia julia>issorted 0,0,1 , lt= <= false

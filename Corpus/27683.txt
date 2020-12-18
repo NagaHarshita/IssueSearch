@@ -1,0 +1,1 @@
+ URL : "https://github.com/mpociot/botman/issues/118" TITLE : driver returns null BODY : inside a conversation i have this in order to try to get the driver name: $driver = $this->bot->getdriver ; however it always returns null when being triggered from slack using slack events api.

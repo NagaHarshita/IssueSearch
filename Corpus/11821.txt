@@ -1,0 +1,1 @@
+ URL : "https://github.com/Guardeek/Java_lessons_2/issues/4" TITLE : lesson 8. person BODY : 1. создайте два объекта этого класса. один объект инициализируется конструктором person , другой - person fullname, age . 2. добавьте методы move и talk .

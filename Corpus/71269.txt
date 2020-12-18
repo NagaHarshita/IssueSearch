@@ -1,0 +1,1 @@
+ URL : "https://github.com/BeBadges/escobadges/issues/12" TITLE : add award form component BODY : contains: - name of the receiver req - e-mail of the receiver req - description of what the receiver did to earn this badge opt? needs 'next' button

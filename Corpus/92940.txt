@@ -1,0 +1,1 @@
+ URL : "https://github.com/KyleJHarper/tyche/issues/10" TITLE : adapt to wasted comp space BODY : we should track comp space and expand or reduce it based on hits. if <we're never maxing out comp space> reduce comp space so raw has more space if <we're regularly maxing out comp space && comp is initial_ratio> increase comp space to avoid faults

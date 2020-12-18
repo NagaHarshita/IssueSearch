@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpenZWave/node-openzwave-shared/issues/137" TITLE : setvalue too slow BODY : i noticed that when the number of sensors increases say 3 setvalue becomes very slow. i mean the sensor reacts too slowly.... this issue has been tested on two different raspberry. anyone had the same problem?

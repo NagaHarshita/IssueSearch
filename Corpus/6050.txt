@@ -1,0 +1,1 @@
+ URL : "https://github.com/enigo-rs/enigo/issues/20" TITLE : use streams :d BODY : in the gitter chat, me and @pythoneer lead dev decided using streams for this would be cool. imagine something like this: write! enigo::out, {}h{}ello {}w{}orld , enigo::shift_on, enigo::shift_off, enigo::shift_on, enigo::shift_off

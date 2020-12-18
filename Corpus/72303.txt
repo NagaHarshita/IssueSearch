@@ -1,0 +1,1 @@
+ URL : "https://github.com/gargium/IBM-Civic-Engagement-Bot/issues/4" TITLE : bot: error functionality BODY : when watson doesn't know what to do with an input, it should respond sorry, i don't know how to answer that yet. i can google it for you. with a link to lmgtfy.com for that query.

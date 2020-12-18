@@ -1,0 +1,1 @@
+ URL : "https://github.com/heroku/heroku-buildpack-ci-postgresql/issues/4" TITLE : does not support tls BODY : the build of postgres used in the buildpack does not support tls. if we're building from source, we need to pass the --with-openssl flag https://www.postgresql.org/docs/9.6/static/install-procedure.html . a build that supports tls is nice to have for dev/prod parity.

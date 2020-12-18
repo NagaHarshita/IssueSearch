@@ -1,0 +1,1 @@
+ URL : "https://github.com/timarney/react-app-rewired/issues/83" TITLE : babel-loader not found BODY : $ react-app-rewired start babel-loader not found os:windows fix: modify react-app-rewired/index.js return rule.loader && rule.loader.indexof babel-loader != -1 || rule.loader.indexof babel-loader/ != -1 ; soluction from https://segmentfault.com/q/1010000010933493

@@ -1,0 +1,1 @@
+ URL : "https://github.com/raaz-crypto/raaz/issues/298" TITLE : test against openbsd BODY : the recommended way for userspace programms to access system entropy on openbsd is arc4random. raaz currently has code for it but it has not been tested.

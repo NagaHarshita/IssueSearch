@@ -1,0 +1,1 @@
+ URL : "https://github.com/shagu/pfUI/issues/485" TITLE : dynamic health bar color BODY : i like how the current health text has a dynamic color depending on my current health. is there a way to drop the class dependent color for the health bar itself and use a dynamic health bar color exactly like the color of the text?

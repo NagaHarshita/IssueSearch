@@ -1,0 +1,1 @@
+ URL : "https://github.com/ianlin/react-native-firebase-crash-report/issues/16" TITLE : how can i see logs? BODY : i use these commands for making a log but i don't see it in firebase crash reporting panel, but if i use report method instead of log method i see it in that panel import firebasereort from 'react-native-firebase-crash-report'; firebasereort.log 'test'

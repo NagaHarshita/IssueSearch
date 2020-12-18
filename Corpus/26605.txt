@@ -1,0 +1,1 @@
+ URL : "https://github.com/JasonLG1979/gnome-shell-extensions-mediaplayer/issues/391" TITLE : broken in fedora 24 BODY : this last update no longer shows the media player in the system menu until the media player is running. is this a bug or 'feature'?

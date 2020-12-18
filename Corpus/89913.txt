@@ -1,0 +1,1 @@
+ URL : "https://github.com/duhow/ProfesorOak/issues/323" TITLE : report multicuenta vacios BODY : ignorar los que tengan strlen inferior a 4 para evitar crash.

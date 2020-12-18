@@ -1,0 +1,1 @@
+ URL : "https://github.com/gradle/gradle-native/issues/172" TITLE : assembler language support BODY : allow assembler source files to be included in a component.

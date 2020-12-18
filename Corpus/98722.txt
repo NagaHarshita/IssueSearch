@@ -1,0 +1,1 @@
+ URL : "https://github.com/exitshell/konnect/issues/10" TITLE : konnect engine: sort hosts BODY : summary - sort hosts after reading from yaml configuration. - return sorted host names in konnect.gethosts

@@ -1,0 +1,1 @@
+ URL : "https://github.com/circleci/circleci-docs/issues/1010" TITLE : mobile nav broken BODY : at some point, it looks like the background for the nav sidebar was removed. on mobile, the sidecar slides out with the menu items being very hard to see.

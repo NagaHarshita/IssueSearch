@@ -1,0 +1,1 @@
+ URL : "https://github.com/snoyberg/yaml/issues/112" TITLE : using yaml concurrently BODY : hello, i tried decoding a number of large yaml files using async mapconcurrently and saw no speedup over decoding those files sequentially. i am running on windows 64. is this expected behaviour? thanks for any help, grant

@@ -1,0 +1,1 @@
+ URL : "https://github.com/fatmai/cookiecutter-fmri/issues/4" TITLE : add a setup.py BODY : check other cookicutters how they handle this e.g. this https://github.com/audreyr/cookiecutter-pypackage/blob/master/%7b%7bcookiecutter.project_slug%7d%7d/setup.py

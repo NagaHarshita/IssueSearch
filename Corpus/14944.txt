@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/vstest/issues/454" TITLE : clean up eqttrace BODY : description > remove partial interfaces: this will require us to break from setupremoteeqttracelisteners functionality > remove tracelevel set,& get, or change them to platformtracelevel set,& get

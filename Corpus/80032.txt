@@ -1,0 +1,1 @@
+ URL : "https://github.com/KhaosT/homebridge-camera-ffmpeg/issues/119" TITLE : supported ffmpeg version BODY : on mac ffmpeg v3.4 fails for live streaming for this plugin and homebridge-camera-isight plugin. is there any version of ffmpeg that is known to work for live streams with d'link basic ipcams on mac with the latest versions of macos and ios?

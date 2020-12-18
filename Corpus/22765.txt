@@ -1,0 +1,1 @@
+ URL : "https://github.com/i40-Tools/SemCPS/issues/24" TITLE : migrate to psl 2.0 BODY : we need to perform the migration to psl 2.0 and to correct the pom file as it is in this https://github.com/eriq-augustine/psl/wiki/examples example.

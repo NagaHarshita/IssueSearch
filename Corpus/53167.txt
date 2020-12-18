@@ -1,0 +1,1 @@
+ URL : "https://github.com/NathanaelA/nativescript-exoplayer/issues/7" TITLE : demo project is broken BODY : hello, i'm trying to run demo project from repository, but it seems to be broken, following error raises: app/main-view-model.ts 5,23 : error ts2307: cannot find module 'nativescript-exoplayer'.

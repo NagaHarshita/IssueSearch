@@ -1,0 +1,1 @@
+ URL : "https://github.com/slamdata/slamdata/issues/1875" TITLE : visual filter card BODY : the visual filter card can be stacked on any card producing a dataset, and results in an output dataset that has been filtered by zero or more user-defined predicates. see here for mocks

@@ -1,0 +1,1 @@
+ URL : "https://github.com/chriskonnertz/DeepLy/issues/6" TITLE : problem with translation BODY : hi, i've a problem with the translations. e.g if i translate the word ciao form italian to english, it still returns ciao . but if i translate ciao amici miei it's correct. i'm using the lastest version of your class.

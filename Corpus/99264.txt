@@ -1,0 +1,1 @@
+ URL : "https://github.com/feelpp/feelpp/issues/1064" TITLE : merge hifimagnet toolboxes BODY : we need to have all the toolboxes in the same place to be able to: - merge the non-linear part of the thermoelectric toolbox of hifimagnet into the one of feelpp - update the magnetostatic toolbox of hifimagnet to match the other toolboxes of feelpp

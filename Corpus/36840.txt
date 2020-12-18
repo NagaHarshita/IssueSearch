@@ -1,0 +1,1 @@
+ URL : "https://github.com/Egregors/teamcity-docker-compose/issues/3" TITLE : include jdbc drivers BODY : manually downloading a jdbc driver into the tc container seems to be an unnecessary extra step, which should be provided. should be doable in a dockerfile extending the official image.

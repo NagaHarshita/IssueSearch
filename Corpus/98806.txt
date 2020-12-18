@@ -1,0 +1,1 @@
+ URL : "https://github.com/php79/stack/issues/37" TITLE : let's encrypt - auto renew BODY : 크론 데몬에서 매일 새벽 갱신? certbot-auto renew 인증서가 갱신된 경우만 nginx 재시작 - nginx 재시작전 nginx -t 성공시에만 재시작

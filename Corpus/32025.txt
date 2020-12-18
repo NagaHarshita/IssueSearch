@@ -1,0 +1,1 @@
+ URL : "https://github.com/Guite/MostGenerator/issues/932" TITLE : three comma missing BODY : fatalerrorexception in abstractappsettingstype.php line 423: parse error: syntax error, unexpected ''title'' t_constant_encapsed_string , expecting ' ' in this file 3 comma missing

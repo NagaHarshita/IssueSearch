@@ -1,0 +1,1 @@
+ URL : "https://github.com/jhuesser/bzu-jodel-clone/issues/103" TITLE : change to global values BODY : some functions require the apiroot and or config. make the value global

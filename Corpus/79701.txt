@@ -1,0 +1,1 @@
+ URL : "https://github.com/stephencelis/SQLite.swift/issues/629" TITLE : sqlite3.h file not found BODY : i have installed sqlite through cocoa pods. i am facing an error in : sqlite.swift>>standard>>fts3_tokenizer.h import sqlite3.h file not found

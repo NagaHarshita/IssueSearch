@@ -1,0 +1,1 @@
+ URL : "https://github.com/lagom/online-auction-java/issues/21" TITLE : provide a maven example BODY : we discussed converting this project to maven as an example for maven/java users. our current thinking is to have both build.sbt and pom.xml files on the master branch, and then to also have long lived sbt and maven branches that strip the opposite build files out.

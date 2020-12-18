@@ -1,0 +1,1 @@
+ URL : "https://github.com/HelixOS/HelixOS/issues/1" TITLE : data might get corrupted BODY : data might get corrupted once in a few month. the bug is probably somewhere in the ecryptfs subsystem.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/tricialeach/fogd-website/issues/3" TITLE : z-index of h2 not working BODY : the two h2s on the right side of page are partially working. one part of the phrase is sitting on top of the opaque bar, but there is one part of phrase behind it.

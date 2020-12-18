@@ -1,0 +1,1 @@
+ URL : "https://github.com/prebid/Prebid.js/issues/1807" TITLE : why gzip for prebid 1.0? BODY : i noticed there is a new requirement for prebid 1.0 for servers to return gzip response. why is this the case? i don't see the value in such a strict rule given that prebid does not even know the response format/size to begin with. would love to understand this better please.

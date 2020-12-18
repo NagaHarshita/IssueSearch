@@ -1,0 +1,18 @@
+ URL : "https://github.com/OCA/vertical-medical/issues/198" TITLE : migration to version 11.0 BODY : todo https://github.com/oca/maintainer-tools/wiki/migration-to-version-11.0 modules to migrate - medical
+- medical_agpl
+- medical_center
+- medical_disease
+- medical_insurance
+- medical_insurance_us
+- medical_medicament
+- medical_medicament_attributes
+- medical_medication
+- medical_medication_us
+- medical_patient_occupation
+- medical_pharmacy
+- medical_pharmacy_us
+- medical_practitioner
+- medical_prescription
+- medical_prescription_sale
+- medical_prescription_state
+- medical_prescription_thread

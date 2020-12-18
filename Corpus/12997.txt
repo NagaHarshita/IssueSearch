@@ -1,0 +1,1 @@
+ URL : "https://github.com/thtrieu/darkflow/issues/425" TITLE : speed on titan x BODY : hi, what speed can i expect when i run the darkflow yolov2 detector with input size 416x416 on titan x? for me, it is only running at ~30 fps. is it not supposed to run at 67 fps? is this normal or am i missing something? i am using yolo-voc.cfg and yolo-voc.weights.

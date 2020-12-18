@@ -1,0 +1,1 @@
+ URL : "https://github.com/Trikolon/pbz-uber/issues/35" TITLE : improve command history BODY : - store in config - allow navigation through history with arrow_up and arrow_down - add history-cmd that prints the history, optionally with ids to execute

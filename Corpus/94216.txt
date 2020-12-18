@@ -1,0 +1,1 @@
+ URL : "https://github.com/uf-cise-online-cop3530/PathSearchApp/issues/7" TITLE : bug when clicking run icon BODY : often the run icon has to be clicked twice before search will run most likely has to do with the way search state flags are handled. need to redesign the bit flag implementation for app and button states

@@ -1,0 +1,1 @@
+ URL : "https://github.com/DecipherNow/gm-fabric-dashboard/issues/558" TITLE : remove instances.scss BODY : instances.scss is unused in the app, so it should be deleted.

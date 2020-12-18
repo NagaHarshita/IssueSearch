@@ -1,0 +1,1 @@
+ URL : "https://github.com/opencontainers/runtime-spec/issues/864" TITLE : fix docs.oracle.com links BODY : the zoneadmd.1m and priv-str-to-set.3c docs.oracle.com links in config-solaris.md are broken. the zonecfg.1m link in config.md and config-solaris.md also points to the solaris 11.2 man page. all the links should be updated to point to the latest solaris 11.3 man pages.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/perfsonar/pscheduler/issues/447" TITLE : adjust httpd header output BODY : apply this to pscheduler's apache configuration: https://github.com/perfsonar/toolkit/commit/14dd23c043696ce3d9a0efae68fc19dd841b0e57

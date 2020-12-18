@@ -1,0 +1,1 @@
+ URL : "https://github.com/kbenoit/readtext/issues/88" TITLE : add excel import support BODY : through the readxl https://blog.rstudio.org/2017/04/19/readxl-1-0-0/ package. we would read all sheets in the workbook, check for rectangularity, issue a warning if needed.

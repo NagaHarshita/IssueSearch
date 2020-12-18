@@ -1,0 +1,1 @@
+ URL : "https://github.com/CMPUT301F17T30/HabitRabbit/issues/41" TITLE : change days due behavior BODY : what happens to the timesfailed and times completed stats when we change the days on which a habitevent is due? what happens to the stats if we change the habit start date to an earlier date?

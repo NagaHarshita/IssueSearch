@@ -1,0 +1,1 @@
+ URL : "https://github.com/eScienceCenter/Spacialist/issues/148" TITLE : context name change fails BODY : changing the name of a context throws error: $scope is not defined and achieves nothing

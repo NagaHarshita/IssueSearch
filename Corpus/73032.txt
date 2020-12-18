@@ -1,0 +1,1 @@
+ URL : "https://github.com/WLaney/Arduino_Animal_Tag/issues/23" TITLE : code with only sd writes BODY : similar to issue 22, but the opposite. i want a little code that does a lot of sd writing for power testing reasons.

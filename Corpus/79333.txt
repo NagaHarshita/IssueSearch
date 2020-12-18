@@ -1,0 +1,1 @@
+ URL : "https://github.com/solid/wac-allow/issues/1" TITLE : separate library or not? BODY : i wanted to have your opinion whether we should have wac-allow parsing and possible generation in a separate library or not. on the one hand, it doesn't satisfy the a least 3 separate uses criterion, but on the other hand, it does satisfy the obvious enough to reuse criterion.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Bashmug/Drivelert/issues/2" TITLE : add a splash screen BODY : actual behaviour there is no splash screen yet. expected behaviour a splash screen with the logo should be there steps to reproduce it > none logcat for the issue > none screenshots of the issue > none would you like to work on the issue? yes

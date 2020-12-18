@@ -1,0 +1,1 @@
+ URL : "https://github.com/vaadin/vaadin-themes/issues/39" TITLE : doesn't open on ff BODY : the demo https://cdn.vaadin.com/vaadin-themes/0.2.2/demo/valo/buttons.html doesn't work on ff due to an error

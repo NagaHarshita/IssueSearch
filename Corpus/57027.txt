@@ -1,0 +1,1 @@
+ URL : "https://github.com/andris155/TheOld-Crafters/issues/445" TITLE : pe szerverek poti hiba BODY : a pe szervereken ha van neked lassúság potid és azt ráadod egy játékosra akkor a player természetesen lelassul, de ha elkezd futni akkor a poti már nem használ utánna sétálhat rendes sebességel, futhat.

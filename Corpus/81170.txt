@@ -1,0 +1,1 @@
+ URL : "https://github.com/random-forests/WTM/issues/14" TITLE : warning about image size BODY : i tried to use my own image for fast style transfer and i kept getting killed . it was unclear how to debug that issue is there a command or log i can check? i reduced the image resolution and it worked. maybe add a warning regarding the maximum image resolution? thanks!

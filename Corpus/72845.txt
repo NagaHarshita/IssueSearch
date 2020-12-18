@@ -1,0 +1,1 @@
+ URL : "https://github.com/rrag/react-stockcharts/issues/215" TITLE : chart disappears on zoom BODY : branch: next one mobile pinch zooming in and out causes the whole canvas to disappear every now and again. touching and panning then seems to bring it back.

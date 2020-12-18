@@ -1,0 +1,1 @@
+ URL : "https://github.com/janhommes/o.js/issues/67" TITLE : how to use .batch ? BODY : i need to make multiple patch requests in single $batch , how to make them?

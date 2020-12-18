@@ -1,0 +1,1 @@
+ URL : "https://github.com/ipfs/ipfs/issues/258" TITLE : ipfs retrive files BODY : hi , i am creating one use case where i need to upload all kinds of files like .pdf,.ppt,.docx,.xl . i am able add and get files. but ppt,xl,docx file links downloading zip files which contains different folder structure. can anyone help in downloading all these kinds of files from ipfs?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/raxod502/straight.el/issues/17" TITLE : needs to self-manage BODY : straight.el needs to manage itself as a package. otherwise it remains unversioned in versions.el , and also pbl does not have its autoloads activated.

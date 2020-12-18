@@ -1,0 +1,1 @@
+ URL : "https://github.com/Dynatrace/Dynatrace-AppMon-TFS-Integration-Plugin/issues/5" TITLE : link to releases BODY : extend documentation to provide a link to available releases for those users that are not too familiar with using github. see e.g. jenkins plugin https://github.com/jenkinsci/dynatrace-plugin

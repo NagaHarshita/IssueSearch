@@ -1,0 +1,1 @@
+ URL : "https://github.com/panda-power/pandapower/issues/2" TITLE : tests for topology module BODY : there are no tests for the topology module. tests could be derived from the examples in the documentation

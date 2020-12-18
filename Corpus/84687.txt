@@ -1,0 +1,1 @@
+ URL : "https://github.com/igvteam/igv.js/issues/409" TITLE : disable call home feature BODY : why does igv.js automatically makes the following ajax? https://data.broadinstitute.org/igv/projects/current/counter_igvjs.php?version=beta

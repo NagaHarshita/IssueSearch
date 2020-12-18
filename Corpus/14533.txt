@@ -1,0 +1,1 @@
+ URL : "https://github.com/CrunchyData/crunchy-containers/issues/132" TITLE : atomic help files BODY : https://github.com/rhsyseng/container-rhel-examples/blob/master/starter/dockerfile l21 make sure each container has an atomic help file as noted above. this is for redhat certification.

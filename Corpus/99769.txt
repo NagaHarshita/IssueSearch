@@ -1,0 +1,1 @@
+ URL : "https://github.com/sylvinus/sketchfiddle/issues/8" TITLE : new sketchfiddle api layer BODY : a few functions could be quite useful: - smaller init code for the embed - parameters from url - ?

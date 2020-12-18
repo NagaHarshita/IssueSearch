@@ -1,0 +1,1 @@
+ URL : "https://github.com/jazzsequence/humanmade-franz/issues/3" TITLE : ask which p2 to default to BODY : when enabling the service, add a prompt for which p2/site to default to. this would allow the plugin to be reused for multiple p2s sites and/or default to the hub.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ootkagirl/prj-rev-bwfs-dasmoto/issues/3" TITLE : setting page font BODY : good use of inheritance here to set the font for the page. don't forget the ; on the end of the font-family line. https://github.com/ootkagirl/prj-rev-bwfs-dasmoto/blob/master/submission/submit.css l1-l3

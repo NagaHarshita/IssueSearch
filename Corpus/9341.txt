@@ -1,0 +1,1 @@
+ URL : "https://github.com/gib-bowden/Angular-Movie-History/issues/10" TITLE : user can logout BODY : story as a user, when i click logout, my user should be logged out. acceptance criteria when the user clicks the logout button then the user cookie should be killed and the site should navigate to /auth

@@ -1,0 +1,5 @@
+ URL : "https://github.com/francescovallone/wog-portal/issues/3" TITLE : create a desktop file BODY : in order for your application to be fully accessible on the desktop, you will need to provide a desktop file named com.github.francescovallone.wog-portal.desktop . this file lets everyone know what icon to use, what file to run, and any alternative actions that can be ran. for more information please look over these docs:
+- elementary getting started https://elementary.io/docs/code/getting-started the-desktop-file if you need help with this issue please stop by the gitter https://gitter.im/elementary/houston channel. affects : v1.0.1 release https://github.com/francescovallone/wog-portal/releases/tag/v1.0.1 <!--
+pipe: desktop
+pipe time: thu jul 20 2017 22:35:34 gmt+0000 utc houston version: 0.4.1 5078b4bc828d25929b77cf1311e42a5305a85729 houston env: production
+-->

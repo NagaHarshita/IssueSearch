@@ -1,0 +1,1 @@
+ URL : "https://github.com/Fjodor42/jottalib-ng/issues/2" TITLE : update naming in files BODY : could be as simple as find -type f -exec sed -i -e 's/jottalib/jottalib-ng/g' {} \; , but watch out for false replacements

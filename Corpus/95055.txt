@@ -1,0 +1,1 @@
+ URL : "https://github.com/Christopher-Chianelli/ccpa/issues/3" TITLE : convert as many files to c BODY : the compiler is rather slow by today's standards; converting source files to c would speed things up by quite a bit.

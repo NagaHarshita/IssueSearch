@@ -1,0 +1,1 @@
+ URL : "https://github.com/FAForever/faf-policy-server/issues/2" TITLE : use connection pool ? BODY : db connection handling is still foobar. main problem is that the policy server somehow locks the database for other applications, probably because the connection isn't closed? no idea.

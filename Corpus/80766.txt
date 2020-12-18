@@ -1,0 +1,1 @@
+ URL : "https://github.com/andreaskoch/allmark/issues/16" TITLE : update the documentation BODY : maintainers, please update the documentation, as it is not a make command now. whatever is there in readme is valid for previous tag, not the current one, hence i used earlier tag and couldn't exploit the newer functionalities.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/tgjones/HlslTools/issues/81" TITLE : support typedef semantics BODY : currently the following valid hlsl typedef is not recognized by this extension struct vs_output { float4 position_cs : sv_position; float2 texcoord : texcoord; }; typedef vs_output ps_input; currenlty 'typedef' is not recognized as a keyword and 'ps_input' is not recognized as a type.

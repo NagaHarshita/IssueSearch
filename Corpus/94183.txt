@@ -1,0 +1,1 @@
+ URL : "https://github.com/aziobrow/little_shop_of_tiny_animals/issues/3" TITLE : browsing items by category BODY : as a visitor, when i visit /:category_name, i see all items assigned to that category.

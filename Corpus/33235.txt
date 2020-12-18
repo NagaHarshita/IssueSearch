@@ -1,0 +1,1 @@
+ URL : "https://github.com/sebivenlo/MQTTWorkShop/issues/3" TITLE : add complete example BODY : the project is not usable as is because you leave out details like: where to find the broker or its url. then, the layout is a bit shabby, remove some hardcode dimensions from the fxml file.

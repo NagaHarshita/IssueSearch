@@ -1,0 +1,1 @@
+ URL : "https://github.com/inveniosoftware-contrib/ng2-json-editor/issues/434" TITLE : show conflicts in flags BODY : if there is a conflict in a flag, nothing is shown in the ui. <img width= 1679 alt= screen shot 2017-11-20 at 10 04 08 am src= https://user-images.githubusercontent.com/580727/33010252-2962d904-cdda-11e7-89fb-bc22cca87940.png > @stellach ideas for the ui?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/handsontable/handsontable/issues/4663" TITLE : tooltip on some cells BODY : i want to add tooltips to some cells: when we hover on a cell, we see a block of text appearing above. does anyone know how to do this?

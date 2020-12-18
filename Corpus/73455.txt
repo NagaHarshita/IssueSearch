@@ -1,0 +1,1 @@
+ URL : "https://github.com/uwblueprint/foe/issues/29" TITLE : create launcher activity BODY : store the most recently active activity in a sharedprefs variable. in the launcher, launch the correct activity.

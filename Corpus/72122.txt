@@ -1,0 +1,1 @@
+ URL : "https://github.com/hashicorp/terraform/issues/13455" TITLE : aws-sdk update to 1.8.10 BODY : aws-sdk needs to be updated to enable host-header alb routing. rlates to 13409

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mepda/tic-tac-toe/issues/3" TITLE : fix reload button BODY : not sure why location.reload isn't firing when the reload button is clicked

@@ -1,0 +1,1 @@
+ URL : "https://github.com/limo1996/PiStudio/issues/6" TITLE : rotation of the image BODY : rotation of the image has already been implemented in the background. however, no control for rotation it yet available. implement the control and connects it with existing code.

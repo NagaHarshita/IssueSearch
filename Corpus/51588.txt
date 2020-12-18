@@ -1,0 +1,1 @@
+ URL : "https://github.com/buildo/pubblico/issues/10" TITLE : auto embed with iframe BODY : requirements it should work for - more relevant/prioritary - tweets - youtube videos - less relevant - fb posts - instagram posts specs match the urls with a regex and replace with iframe misc {optional: other useful info}

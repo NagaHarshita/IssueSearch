@@ -1,0 +1,1 @@
+ URL : "https://github.com/datahq/datapackage-pipelines-datahub/issues/7" TITLE : publish to pypi BODY : i'm making use of this lib in a project that downloads dependencies from pypi. could this be published to pypi to make it easier to install and manage?

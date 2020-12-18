@@ -1,0 +1,1 @@
+ URL : "https://github.com/oblador/react-native-vector-icons/issues/437" TITLE : resizemode for icons ? BODY : react native's image component has a resizemode property. http://facebook.github.io/react-native/releases/0.43/docs/image.html resizemode i want an svg icon from react-native-vector-icons to automatically resize to fit the width of its container.

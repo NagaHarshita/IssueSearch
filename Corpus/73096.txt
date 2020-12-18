@@ -1,0 +1,1 @@
+ URL : "https://github.com/hyln9/VIKIROOT/issues/11" TITLE : compiled and not working BODY : compiled the latest source code, builds fine yet doesnt work zte blade blitz x64 , set permissions 777 and execute ./exploit but nothing happens. also happy to test on nougat

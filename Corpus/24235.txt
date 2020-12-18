@@ -1,0 +1,1 @@
+ URL : "https://github.com/bvaughn/personal-logger/issues/2" TITLE : shrink bundle size BODY : this app is 199.9 kb gzipped! let's make it smaller, perhaps by splitting code by route.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/levic92/LCExtractor/issues/2" TITLE : append label to path BODY : it would be nice if one could append label if it's set to path when extracting, eg. /path/to/dir/<label>/ so when one has enabled extract to subfolder it could look like this /path/to/dir/<label>/<torrent name> this would be great for sorting stuff

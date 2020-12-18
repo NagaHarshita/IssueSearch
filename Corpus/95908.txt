@@ -1,0 +1,1 @@
+ URL : "https://github.com/p-e-w/plotinus/issues/13" TITLE : does not open in wine gtk3 BODY : wine applications using staging feature doesn't seem to work, i wanted to bring it to the attention of development as i think wine apps would stand to be a single class of many apps that could benefit.

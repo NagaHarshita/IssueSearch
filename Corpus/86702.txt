@@ -1,0 +1,1 @@
+ URL : "https://github.com/twitter/reasonable-scala/issues/17" TITLE : implement ide integration BODY : once we get semanticdb generation going 10 , we would like to make use of the semanticdb-based lsp implementation https://github.com/scalameta/language-server to make sure that rsc has first-class ide support.

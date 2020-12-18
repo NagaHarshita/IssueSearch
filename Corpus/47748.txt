@@ -1,0 +1,1 @@
+ URL : "https://github.com/HuygensING/timbuctoo-gui/issues/8" TITLE : proper error handling BODY : a error prop is set on components using react-apollo, but it never gets handled.

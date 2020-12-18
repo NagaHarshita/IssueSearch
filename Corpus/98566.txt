@@ -1,0 +1,1 @@
+ URL : "https://github.com/seblucas/cops/issues/333" TITLE : issue with large pdf files BODY : hello, i just found out that when trying to display/download large pdf files from 150 to 300mb the cops server says 403 page not authorized. it works with smaller pdf files few mb or pdf converted to epub i checked the config and rights on files and everything is ok thank you

@@ -1,0 +1,1 @@
+ URL : "https://github.com/lvsti/CEF.swift/issues/23" TITLE : atomic ref count BODY : in cefbase.swift and cefmarshaller.swift. while pthread works, using atomics would be better. caveat, in 10.13 or even older , cef_atomicops_mac.h is deprecated. replacing with cef_atomicops_x86_gcc.h from linux works

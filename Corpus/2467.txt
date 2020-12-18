@@ -1,0 +1,1 @@
+ URL : "https://github.com/HERA-Team/hera_mc/issues/145" TITLE : add rfi plots BODY : nightly max-hold spectrum with known things labeled it can show up on a server somewhere as a png, or can use plotly. examples can be found at hera_mc.autocorrelations can grab data from nrao librarian or run as cronjob.

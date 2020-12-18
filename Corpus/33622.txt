@@ -1,0 +1,1 @@
+ URL : "https://github.com/lzachmann/sevilleta-workshop-tester/issues/5" TITLE : adjusting weights q1 BODY : from romn: > 1 i want to better understand the relationships between initial weights from the grts design output, our specific panel design, inclusion probabilities, and adjusted weights. and how the spsurvey function adjwgt does or does not account for all of that.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jpiper/pyDNase/issues/19" TITLE : atac-seq handling question BODY : would it be possible to provide explanations for why loffset and roffset of bamhandler for atacseq data needs to be set to -5 and 4, respectively?

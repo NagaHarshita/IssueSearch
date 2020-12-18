@@ -1,0 +1,1 @@
+ URL : "https://github.com/deanshub/web-pm2/issues/3" TITLE : only for windows? BODY : the web-pm2 bin entry in the package.json calls web-pm2.bat which will only run on windows. perhaps mention in the readme that it is a windows only tool? also, can it be made to be platform-generic?

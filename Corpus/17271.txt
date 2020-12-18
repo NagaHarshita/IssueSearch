@@ -1,0 +1,1 @@
+ URL : "https://github.com/360EntSecGroup-Skylar/excelize/issues/115" TITLE : number of columns BODY : hello, xuri. do i need to know the number of columns in a sheet? how can i find out? there is a function called gettotalrowscols, but it is not exported.

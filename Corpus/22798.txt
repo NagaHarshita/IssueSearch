@@ -1,0 +1,25 @@
+ URL : "https://github.com/cldi/CanLink/issues/142" TITLE : missing degree url BODY : the uri for m.ph.ed. could not be found to fix, comment below in the following format: msc http://purl.org/ontology/bibo/degrees/ms record:
+=ldr 01304nam a2200301 a 4500
+=001 99145135702511
+=005 20170330201703.0
+=008 880701s1978\\\ fc\\\\\\b\\\\00000\eng\c
+=035 \\$a canfsm 435417-01mun_inst
+=035 \\$a sirsi 76006107
+=035 \\$a ocolc 456451398
+=040 \\$acanfsm$beng$ccanfsm
+=100 1\$amurray, david anthony.$0http://id.loc.gov/authorities/names/nb2005010662
+=245 10$aeffect of varying 'reaction time' foreperiods upon overt performance, as measured by muscular power /$cby david anthony murray.
+=260 \\$c1978.
+=300 \\$a164 leaves :$billustrations
+=336 \\$atext$btxt$2rdacontent
+=337 \\$aunmediated$bn$2rdamedia
+=338 \\$avolume$bnc$2rdacarrier
+=500 \\$atypescript.
+=502 \\$athesis m.ph.ed. -- memorial university of newfoundland.
+=504 \\$abibliography : leaves 130-135.
+=530 \\$aalso available online.
+=610 20$amemorial university of newfoundland.$bschool of physical education and athletics$xdissertations.
+=650 \0$aphysical fitness$xtesting.$0http://id.loc.gov/authorities/subjects/sh85101544
+=856 41$uhttp://collections.mun.ca/u?/theses2,15352
+=852 8\$822327342960002511$bcns$cmicroform$hmicro fiche 383
+=852 8\$822327342980002511$bcns$ctheses$hthesis-request by author's name & title record file: 018ff4b886514edafede5cdbf75354c7.mrc

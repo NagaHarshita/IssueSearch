@@ -1,0 +1,15 @@
+ URL : "https://github.com/Shopkeepers/Shopkeepers/issues/470" TITLE : second trade failing BODY : migrated from: https://dev.bukkit.org/projects/shopkeepers/issues/530 originally posted by cindy_k jul 23, 2017 : we are having an issue with the second trade failing with the villagers.
+we are only using admin villager shops.
+the server is 1.12 with worldguard and griefprevention.
+the villagers are in worldguard protection region, but are not in a griefprevention area.
+â 
+when a player goes to trade, they can get the first trade to work. â if they try to do a second trade, they can't take the item out of the villager screen.
+i created a video of the issue.
+https://youtu.be/xwobmykv06w
+â 
+this is very frustrating since it looks like the trade are only working half the time.
+â 
+we have reviewed our config and can't find anything that would restrict players to only one trade at a time.â 
+â 
+thank you for your help!
+cindy_k

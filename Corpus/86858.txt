@@ -1,0 +1,1 @@
+ URL : "https://github.com/adempiere/adempiere/issues/1516" TITLE : improve window definition BODY : is nice if some fields can be hidden in cash window,it can be: - routing no - swift code - bank type cash account: - bban - iban - bank account type

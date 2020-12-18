@@ -1,0 +1,1 @@
+ URL : "https://github.com/akbaryahya/PokeBot/issues/64" TITLE : bot don't collect coins BODY : ! image https://cloud.githubusercontent.com/assets/24854765/24320586/99300a4a-1138-11e7-89dd-74681a0cc34c.png before with old versions the bot collect coin if one pokemon is on a gym. now it'seems only collect coin if you have 9 pokemons on gyms

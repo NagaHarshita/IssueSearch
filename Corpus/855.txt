@@ -1,0 +1,1 @@
+ URL : "https://github.com/d33con/tracklistr/issues/1" TITLE : to do list BODY : - save & load tracklist using local storage - manually add tracks to tracklist - export table as .txt file - query discogs for release details on each search result and add capability to add these instead of main release - style search box & results - general styling

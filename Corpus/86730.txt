@@ -1,0 +1,1 @@
+ URL : "https://github.com/jkettmann/universal-react-relay-starter-kit/issues/49" TITLE : implement session refresh BODY : currently the refresh token retrieved from cognito is not used.

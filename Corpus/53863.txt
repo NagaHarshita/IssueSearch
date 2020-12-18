@@ -1,0 +1,1 @@
+ URL : "https://github.com/ros-industrial/industrial_training/issues/149" TITLE : exercise 2.0- services BODY : when running the command rosrun myworkcell_core myworkcell_node ,i'm getting the error could not localize part . every other nodes are running fine.

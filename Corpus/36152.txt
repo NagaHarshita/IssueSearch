@@ -1,0 +1,1 @@
+ URL : "https://github.com/tensorflow/tensorflow/issues/12906" TITLE : generators in graphs BODY : i am wondering, is there any way to place a generator in a graph that would push values to lower parts of graph or asynchronous operations of this kind should be always placed aside of tensorflow?

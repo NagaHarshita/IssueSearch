@@ -1,0 +1,1 @@
+ URL : "https://github.com/heroku/heroku-cli-diff/issues/2" TITLE : add git hash BODY : if the app has any build component that depends on env vars, the checksum of the slug will be different, but it would be helpful to know if the user has indeed pushed the exact same commit if we have access to this information.

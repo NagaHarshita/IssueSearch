@@ -1,0 +1,1 @@
+ URL : "https://github.com/Archcry/stryker-webpack/issues/12" TITLE : webpack config path BODY : it would be nice if users were able to configure the path to their webpack configuration so it's loaded from that location in the default preset. make it default to projectroot.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/powerline/powerline/issues/1756" TITLE : no such file or directory BODY : i installed powerline but i got this error every time i open the terminal -bash: /library/python/2.7/lib/python/site-packages/powerline/bindings/bash/powerline.sh: no such file or directory how i can fix this problem?

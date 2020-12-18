@@ -1,0 +1,1 @@
+ URL : "https://github.com/awslabs/aws-sam-local/issues/72" TITLE : package to local BODY : it appears sam can only package to s3. it would be nice if to package locally so we could leverage our existing ci process and tools for artifacts.

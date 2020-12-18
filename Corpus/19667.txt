@@ -1,0 +1,1 @@
+ URL : "https://github.com/PHPMailer/PHPMailer/issues/1141" TITLE : add reply to issue BODY : is it possible to make if add reply to is blank then stop sending email via php mailer . i want to stop sending mail if reply to section is blank .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/AlexeyAB/darknet/issues/202" TITLE : save result to a textfile BODY : hello, thank you for all the work you put down into this awesome code! i would like to save the result from running object detection on a videoclip in a textfile to use in another script. can anyone help me out with how?

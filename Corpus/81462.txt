@@ -1,0 +1,1 @@
+ URL : "https://github.com/UAF-SuperDARN-OPS/SuperDARN_UHD_Server/issues/50" TITLE : x_postion in usrp_config BODY : check if it is used somewhere. delete it or check if values are correct

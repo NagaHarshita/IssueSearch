@@ -1,0 +1,2 @@
+ URL : "https://github.com/Octanis3/Octanis3-Firmware/issues/6" TITLE : operate st95 in tag mode BODY : - upon user input button pressed , switch to tag mode
+- during interrogation, provide stored data to the interrogator via nfc

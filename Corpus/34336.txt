@@ -1,0 +1,1 @@
+ URL : "https://github.com/nadavbar/node-spotify-webhelper/issues/9" TITLE : cannot play a track? BODY : hi, it seems that the play function only allows me to play playlists and only mine and not just a single track or a playlist/album url found on spotify. for instance i get an error with https://open.spotify.com/album/4m2880jivsbbyegakfitca version 0.0.6 thanks for your help

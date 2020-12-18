@@ -1,0 +1,1 @@
+ URL : "https://github.com/amittkSharma/extended-datetimepicker/issues/3" TITLE : open on dialog BODY : hi, can you add multiple: true in the $mddialog.show method? so it will allow to open the picker inside a modal. thanks

@@ -1,0 +1,1 @@
+ URL : "https://github.com/primefaces-extensions/primefaces-extensions.github.com/issues/505" TITLE : bad url for resources BODY : resources aren't loading due to bad url. as an example, ..../javax.faces.resource/ckeditor/plugins/a11ychecker/?ln=primefaces-extensions&v=6.1.1skins/moono-lisa/contents.css the query string is inserted in the middle of the path.

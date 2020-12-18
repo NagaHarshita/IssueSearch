@@ -1,0 +1,1 @@
+ URL : "https://github.com/nabinked/NToastNotify/issues/11" TITLE : cannot call viewcomponent BODY : i don't know if the problem only arises on my side but since i updated to 2.0.2, i get an argumentnullexception when invoking the vc.... could you verify on your side if it does the same?

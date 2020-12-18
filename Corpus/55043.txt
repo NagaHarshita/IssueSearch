@@ -1,0 +1,1 @@
+ URL : "https://github.com/refresh-bio/KMC/issues/16" TITLE : ignore n in the reads. BODY : i am looking to use kmc to filter rare k-mers pre-assembly and was wondering if there's a way to tell it to ignore n s in the reads which could be uncalled bases or masked low-quality bases . maybe kmc automatically does that?

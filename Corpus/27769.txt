@@ -1,0 +1,1 @@
+ URL : "https://github.com/xhesikaruci/BlockChain_Payment_Transact/issues/1" TITLE : empty answer string BODY : i just pressed the enter key after the question: do you want make another transaction? y/n . and got such error message: ./itmo: line 120: : !=: unary operator expected application still work. is it possible to fix it?

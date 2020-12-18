@@ -1,0 +1,1 @@
+ URL : "https://github.com/kubernetes/examples/issues/152" TITLE : issue with spark-ui-proxy BODY : hi, i followed all steps until step 2: $ kubectl get svc spark-ui-proxy -o wide name type cluster-ip external-ip port s age selector spark-ui-proxy loadbalancer 10.0.0.38 <pending> 80:31945/tcp 9m component=spark-ui-proxy i dont get the external ip, why is that?

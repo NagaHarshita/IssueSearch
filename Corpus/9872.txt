@@ -1,0 +1,1 @@
+ URL : "https://github.com/ClarityMoe/Sagiri/issues/6" TITLE : add more indexes BODY : we probably need to find more indexes for the wrapper since we might encounter users reporting the unknown index errors. - add possible missing indexes index 0, index 1 , index 2, etc.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/expo/expo/issues/205" TITLE : ipa file generated is huge BODY : after running exp build:ios the ipa file generated was 150 mb is this normal and is there anyway to reduce it? i'm using expo version 16.0.0 and exp version 41.0.0

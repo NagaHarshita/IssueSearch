@@ -1,0 +1,1 @@
+ URL : "https://github.com/malchun/remote_port_tester/issues/1" TITLE : silent ports processing BODY : add some processing for silent ports. script is waiting them forever solved by ^c for now .

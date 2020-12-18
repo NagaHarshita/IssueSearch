@@ -1,0 +1,1 @@
+ URL : "https://github.com/FReBOmusic/FReBO/issues/205" TITLE : exit saving changes BODY : in the event that the user navigates to the edit credit card modal, and selects the add card button. expected response : the system should return the user back to the wallet settings screen, committing any and all changes to the wallet settings screen.

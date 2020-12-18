@@ -1,0 +1,1 @@
+ URL : "https://github.com/w0rp/ale/issues/537" TITLE : add balloon support BODY : see :help balloon-eval . ale should support display messages in balloons. when a .detail message is set, the detailed versions of the message should appear beneath the short messages, possibly truncated by a number of lines. some messages are too large for balloons.

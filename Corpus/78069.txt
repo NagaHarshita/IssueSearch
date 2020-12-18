@@ -1,0 +1,1 @@
+ URL : "https://github.com/chrmarti/testissues/issues/9488" TITLE : peek editor doesn't quit BODY : peek editor doesn't quit on pressing escape steps to reproduce open peek preview press escape.

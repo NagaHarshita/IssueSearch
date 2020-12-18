@@ -1,0 +1,1 @@
+ URL : "https://github.com/wearereasonablepeople/ReRouter/issues/26" TITLE : move away from rxswift BODY : we need rxswift, because router internally uses it to listen to changes in the path. however, it would be great to make it frp frameworks ignorant. for this, we will need some basic streams functionality within the router.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/binhex/arch-delugevpn/issues/40" TITLE : logs web ui BODY : hi, is there a way to access log for deluge-web ? i just find logs for the daemon /config/deluged.log . i would like to map it to my host and use fail2ban. thanks !

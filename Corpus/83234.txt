@@ -1,0 +1,1 @@
+ URL : "https://github.com/media3-0/apki.org/issues/155" TITLE : c przypisywanie wartości BODY : pisze dobry kod ale wyskakuje error kod: int variable = 5; int variable_copy = variable;

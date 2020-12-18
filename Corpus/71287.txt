@@ -1,0 +1,1 @@
+ URL : "https://github.com/snordgren/hydrogen/issues/12" TITLE : add builder for sessions BODY : the session class currently doesn't have any proper builder class like request and response. a simple inner builder class with a fluent api with the fields matching the constructor fields would be great.

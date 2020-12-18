@@ -1,0 +1,1 @@
+ URL : "https://github.com/atemon/python-flipkart-affiliates-api/issues/1" TITLE : i was trying the example BODY : got an error self.category_names = self.category_dict.keys attributeerror: 'list' object has no attribute 'keys

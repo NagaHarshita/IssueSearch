@@ -1,0 +1,1 @@
+ URL : "https://github.com/eoin9408/simple-dbms/issues/7" TITLE : get all tables in database BODY : idatabase: table gettables list all tables in the database with schema. do not include table data.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Doncurt/Putit/issues/5" TITLE : use the => {} functions BODY : https://github.com/doncurt/putit/blob/0f8edfcda445288aedf150864ec768b24604ebfc/controllers/authen.js l19 you are mixing the old and new functions change them all to the => {} style.

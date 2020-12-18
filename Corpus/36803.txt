@@ -1,0 +1,1 @@
+ URL : "https://github.com/claviska/jquery-dropdown/issues/118" TITLE : improve build system BODY : - create gulp task for building scripts and styles - remove codekit config - add .editorconfig - switch from 4 - 2 spaces - add .eslintrc

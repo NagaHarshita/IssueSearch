@@ -1,0 +1,1 @@
+ URL : "https://github.com/wymsee/cordova-HTTP/issues/141" TITLE : cordova plugin fetch BODY : hi guys so since the latest version of cordova, it uses a node dependency management to fetch it dependancies. for this reason we cannot pull this repository since its missing a package.json file. see https://github.com/wymsee/cordova-http/blob/master/package.json

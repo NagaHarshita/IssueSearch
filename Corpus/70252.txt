@@ -1,0 +1,1 @@
+ URL : "https://github.com/ANMyers/BackEnd_Capstone/issues/2" TITLE : user can view home page BODY : once a user routes the url of the website and logs in: the user will land on a home page that displays: -navbar to includes links to 'about', 'my saved', 'algorithms', 'try it'. -splash page that will give an introduction to why the page was built and what purpose it serves.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/alvaro-prieto/colResizable/issues/81" TITLE : jquery 3.0 support BODY : hi, bower tags the library as only compatible with jquery v1 or v2, but not v3. can this be fixed?

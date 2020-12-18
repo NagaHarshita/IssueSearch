@@ -1,0 +1,1 @@
+ URL : "https://github.com/rkollataj/mcba_usb/issues/5" TITLE : failing to install BODY : hi, when i try to install i do sudo make install i get the error : no rule to make target install ... why this happens? thanks

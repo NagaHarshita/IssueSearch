@@ -1,0 +1,1 @@
+ URL : "https://github.com/googleads/googleads-mobile-android-examples/issues/61" TITLE : can't load rewarded ad BODY : hi, trying to run your example about rewarded ads but it's always failing to load it. listener called is onrewardedvideoadfailedtoload with error code 2. appid: ca-app-pub-9020278073797626~9034536795 bannerid: ca-app-pub-9020278073797626/1511269997

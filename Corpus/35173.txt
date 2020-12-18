@@ -1,0 +1,1 @@
+ URL : "https://github.com/Red-Pulse/neo-gui-rpx/issues/6" TITLE : deposit doesn't show BODY : just deposited to the wallet. in the blockexplorer everything ok, transaction went through, neo is there. wallet still shows 0 balance after more than an hour. wallet is 100% in sync. what am i doing wrong? participating in the tokensale will be impossible for me this way

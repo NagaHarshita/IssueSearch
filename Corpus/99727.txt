@@ -1,0 +1,1 @@
+ URL : "https://github.com/eMoflon/emoflon-ibex/issues/232" TITLE : network optimisation ideas BODY : 1. reuse of translation pacs in refinement networks 2. consequent usage of edgerule patterns for all edges in all patterns

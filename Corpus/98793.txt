@@ -1,0 +1,1 @@
+ URL : "https://github.com/simonclausen/dnscrypt-autoinstall/issues/106" TITLE : legacy branch instructions BODY : regarding the installation instructions, the word master should be changed for legacy for the following line: wget https://raw.github.com/simonclausen/dnscrypt-autoinstall/legacy/dnscrypt-autoinstall.sh

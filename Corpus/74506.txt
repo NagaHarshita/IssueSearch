@@ -1,0 +1,1 @@
+ URL : "https://github.com/thomasnwilson/scug-package/issues/10" TITLE : establish first function BODY : create .r/basic.r . make sure there's an empty last line not even a space or tab . r ' short title ' ' longer sentence description ' ' @param a integer. required ' @export ' @importfrom magrittr %>% ' @md ' basic <- function a { b <- a + 1 return b }

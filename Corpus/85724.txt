@@ -1,0 +1,1 @@
+ URL : "https://github.com/PayUppApp/PayUpp-AWS/issues/104" TITLE : fix path from api gateway BODY : - remove user and team from base path from apis in gateway

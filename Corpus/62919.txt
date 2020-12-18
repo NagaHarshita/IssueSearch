@@ -1,0 +1,1 @@
+ URL : "https://github.com/Vimux/Mainroad/issues/36" TITLE : css doesn't show <code> BODY : the css for mainroad doesn't have any rules to indicate code blocks such as code in markdown . this makes small quoted snippets blend in with the quoted text.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Moodleweb/project/issues/1" TITLE : guitar css file BODY : the footer section is in px , sould be in percentage. i tried to put it in % but does not display the footer correctly

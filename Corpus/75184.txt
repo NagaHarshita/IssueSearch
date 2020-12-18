@@ -1,0 +1,1 @@
+ URL : "https://github.com/DispatchMe/meteor-login-token/issues/9" TITLE : getting same login token BODY : when i am login with same id again and again each time i am getting same login-token. but when i did empty cashe and hard reaload i am getting different login-token. how to resolve this issue.

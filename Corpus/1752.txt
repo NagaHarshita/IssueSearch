@@ -1,0 +1,1 @@
+ URL : "https://github.com/djudman/evernote-telegram-bot/issues/16" TITLE : file too big BODY : telegram bot api. need to handle error 'file is too big' in getfile method for the moment, bots can download files of up to 20mb in size

@@ -1,0 +1,1 @@
+ URL : "https://github.com/choojs/choo/issues/548" TITLE : disturbing lack of trains BODY : expected behavior more trains. actual behavior only one small train above the fold. no trains below the fold. no train noises. steps to reproduce behavior visit choo.io. cheers, – evan

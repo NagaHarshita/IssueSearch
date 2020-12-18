@@ -1,0 +1,1 @@
+ URL : "https://github.com/armin-pfaeffle/atom-minify/issues/39" TITLE : inline file concatenation BODY : i am trying to find a solution so that i can have a js file when saved using the inline minifyonsave option concatenate the file i am using with another one. is this possible?

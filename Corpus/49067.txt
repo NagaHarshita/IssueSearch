@@ -1,0 +1,1 @@
+ URL : "https://github.com/gimli-org/gimli/issues/64" TITLE : support for g++ 7.x.x BODY : hi i tried to compile gimli again and it seems that arch linux latest compiler version is the problem. could you fix that? it would be great to work with gimli again. cheers :-

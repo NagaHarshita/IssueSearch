@@ -1,0 +1,1 @@
+ URL : "https://github.com/caskroom/homebrew-cask/issues/39500" TITLE : cask request: utorrent BODY : cask details utorrent for macos name: utorrent homepage: http://www.utorrent.com/ download url: http://download-hr.utorrent.com/track/stable/endpoint/utmac/os/osx description: torrent download manager

@@ -1,0 +1,1 @@
+ URL : "https://github.com/NG-ZORRO/ng-zorro-antd/issues/35" TITLE : layout 布局 样式问题 BODY : 使用layout 布局 时，当iscollapsed设置为false时，样式变成了如下情况 ： ! image https://github.com/david1025/images/blob/master/qq20170816-160744.png?raw=true

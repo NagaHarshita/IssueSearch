@@ -1,0 +1,1 @@
+ URL : "https://github.com/slaclab/lightpath/issues/23" TITLE : minimize epics traffic BODY : the lightpath is aggressive about checking device methods inserted and removed . this can be minimized by caching these somehow and instead trusting that we will receive updates via subscriptions. this will go a long way to making the ui more stable through the gateway e.t.c

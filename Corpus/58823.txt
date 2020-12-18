@@ -1,0 +1,1 @@
+ URL : "https://github.com/returncode13/Scar/issues/28" TITLE : summary: insight check BODY : insight flag check seems unaffected by whatever value the user puts in. this obviously needs to change

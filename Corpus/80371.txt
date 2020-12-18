@@ -1,0 +1,1 @@
+ URL : "https://github.com/OneiricArts/CustomizeNewTab/issues/25" TITLE : top sites: detect if < 5 BODY : currently in firefox, it shows 2 or whatever number of top sites, but then has 3 empty list items. if browser has less than 5 top sites, it should only show that number. later: can turn limit into an option show 5, 7, 10, all, etc.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/xoorath/urban-spork/issues/5" TITLE : create a demo editor view. BODY : we would like a first pass prototype grade implementation of the editor technology to be used. it should be a game view embeded into some editor ui technology. leading candidates are: - wpf windows c - electron web - cef web - imgui native

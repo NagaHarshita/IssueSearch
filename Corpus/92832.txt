@@ -1,0 +1,1 @@
+ URL : "https://github.com/telegramdesktop/tdesktop/issues/3223" TITLE : a error for windows client BODY : in readme you said : file > open > project/solution > d:\tbuild\tdesktop\telegram.sln but,int d:\tbuild\tdesktop\ i can't find the telegram.sln file. where can i find this file?

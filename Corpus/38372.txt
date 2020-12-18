@@ -1,0 +1,1 @@
+ URL : "https://github.com/bashrc/freedombone/issues/78" TITLE : peertube on the mesh BODY : currently it doesn't install due to what looks like a memory issue when trying to install webpack with yarn

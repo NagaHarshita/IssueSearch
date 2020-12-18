@@ -1,0 +1,1 @@
+ URL : "https://github.com/azazdeaz/react-gsap-enhancer/issues/42" TITLE : redux 'connect' and gsap BODY : hello, how can i use react-gsap-enhancer with redux in my react component? when i export my class with 'connect' for redux how can i put gsap? exemple: 'export default connect mapstatetoprops, mapdispatchtoprops component ' thanks :

@@ -1,0 +1,1 @@
+ URL : "https://github.com/lumio/wallboard/issues/9" TITLE : add theme options BODY : add an additional option for themes to enable/disable certain gimmicks. { theme : { disablepulse : true | false // should disable the pulse effect // ... } }

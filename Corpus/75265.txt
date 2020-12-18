@@ -1,0 +1,1 @@
+ URL : "https://github.com/yakworks/gorm-tools/issues/50" TITLE : gormdao needs more tests BODY : - test the event methods - test that a new binder can be injected into a dao to replace the default fastbinder. i think we should be programming to an interface or trait in order to do this -

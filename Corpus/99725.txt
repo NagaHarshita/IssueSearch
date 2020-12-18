@@ -1,0 +1,1 @@
+ URL : "https://github.com/aspnet/AspNetKatana/issues/105" TITLE : netstandard project compat BODY : adding the microsoft.owin package to a netstandard2.0 or netcoreapp2.0 project: ! image https://user-images.githubusercontent.com/3176632/29110555-e901463a-7cde-11e7-8a21-2ebeae59ef3b.png will compatibility for these tfm's be added?

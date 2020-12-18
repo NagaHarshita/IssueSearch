@@ -1,0 +1,1 @@
+ URL : "https://github.com/MineLittlePony/MineLittlePony/issues/31" TITLE : armor slots behaving oddly BODY : simply put, when i put on a piece of body armor, it doesn't display, but when i put on leggings, the body+legs display together, not separately. body slot armors are currently not displaying their graphic using the latest 1.11.2 version plus optifine

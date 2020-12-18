@@ -1,0 +1,1 @@
+ URL : "https://github.com/ovilab/atomify/issues/355" TITLE : improve shader performance BODY : it's time to revisit the shaders and see if we can reduce some gpu workload.

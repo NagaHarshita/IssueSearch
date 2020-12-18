@@ -1,0 +1,1 @@
+ URL : "https://github.com/developmentseed/mm-microsites-proxy/issues/1" TITLE : 2 recurring ical events. BODY : ical uses an rrule http://www.kanzaki.com/docs/ical/rrule.html object for representing recurring calendar events. to support recurring events, the proxy server would need to include helper functions to parse/figure out the timing of future instances of an event.

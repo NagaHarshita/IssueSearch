@@ -1,0 +1,1 @@
+ URL : "https://github.com/netliferesearch/losen/issues/109" TITLE : more uu for modal BODY : html <modal isopen={modalisopen} aria={{ labelledby: heading , describedby: full_description }}> <h1 id= heading >h1</h1> <div id= full_description > <p>description goes here.</p> </div> </modal>

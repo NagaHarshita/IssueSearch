@@ -1,0 +1,1 @@
+ URL : "https://github.com/PNHP/Regional_SDM/issues/9" TITLE : 'distance to' variables BODY : we need to clear the code the removes variables with extreme distances from model. we can probably do the same for the column in the sqlite db as well.

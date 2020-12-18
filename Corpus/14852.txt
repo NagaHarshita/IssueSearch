@@ -1,0 +1,1 @@
+ URL : "https://github.com/performancecopilot/pcp/issues/381" TITLE : cgroup v2 support BODY : now that the v2 cpu cgroup landed in 4.15, i'm creating this issue for cgroup v2 support. : i suppose the docs are here: https://github.com/torvalds/linux/blob/master/documentation/cgroup-v2.txt

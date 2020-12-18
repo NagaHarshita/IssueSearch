@@ -1,0 +1,1 @@
+ URL : "https://github.com/P2Pvalue/jetpad/issues/84" TITLE : error next comment BODY : after new comment is add, clicking next comment returns following exception captured typeerror: this.comments this.selectedcommentindex is undefined

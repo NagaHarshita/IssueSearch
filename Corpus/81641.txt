@@ -1,0 +1,2 @@
+ URL : "https://github.com/storybooks/storybook/issues/885" TITLE : 2 storyshots libraries??? BODY : <a href= https://github.com/pyros2097 ><img src= https://avatars3.githubusercontent.com/u/1687946?v=3 align= left width= 96 height= 96 hspace= 10 ></img></a> issue by pyros2097 https://github.com/pyros2097 _saturday mar 04, 2017 at 12:18 gmt_
+_originally opened as https://github.com/storybooks/storyshots/issues/82_ ---- why are there 2 storyshots libraries? which one should i use. its seems they are different versions also. npm i -d @kadira/storyshots npm i -d storyshots

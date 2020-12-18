@@ -1,0 +1,1 @@
+ URL : "https://github.com/olikraus/u8g2/issues/419" TITLE : how to write in russian??? BODY : good afternoon! i cannot understand how to write on cyrillic... i use the u8g2_font_cu12_t_cyrillic font. this command i set the u8g2.setfont u8g2_font_cu12_t_cyrillic font; can somewhere else what that needs to be added? tell me please!

@@ -1,0 +1,1 @@
+ URL : "https://github.com/libremesh/lime-app/issues/82" TITLE : speech on round numbers BODY : if the number ends in zero, you must say the complete number.

@@ -1,0 +1,6 @@
+ URL : "https://github.com/tpfinal-pp1/tp-final/issues/253" TITLE : recordatorios de citas BODY : _en principio los recordatorios son 2, uno cuando falten 24 horas para la cita y otro para cuando falte 1 hora.
+_en el popup de la campanita de recordatorios se abre un popup con una grilla de citas
+-la grid tiene :
+dia
+horario
+datos segun el tipo de cita pautado anteriormente

@@ -1,0 +1,1 @@
+ URL : "https://github.com/wieslawsoltes/BatchEncoder/issues/47" TITLE : add audio playback support BODY : require decoder tool support for streaming raw data to output pipe.

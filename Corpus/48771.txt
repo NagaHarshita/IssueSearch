@@ -1,0 +1,1 @@
+ URL : "https://github.com/shershen08/vue-styleguide-generator/issues/5" TITLE : small ui improvements BODY : - add option to open browser window automatically after creating guide - in component's props table show some not distracting but noticeable symbol instead of empty row, because it's unclear why it's empty - last row in generated preview may be not visible

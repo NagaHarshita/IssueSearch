@@ -1,0 +1,1 @@
+ URL : "https://github.com/MylesIsCool/ViaVersion/issues/662" TITLE : repo for openntb BODY : repo for openntb library is unreachable from/to spacehq-repo https://repo.spacehq.org/content/repositories/releases/ : repo.spacehq.org: unknown host repo.spacehq.org look in your jenkins job console, u have this same issue : but your jenkins is using local version of this lib :/

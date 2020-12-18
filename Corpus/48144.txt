@@ -1,0 +1,1 @@
+ URL : "https://github.com/uktrade/data-hub-leeloo/issues/361" TITLE : remove title metadata BODY : as the title metadata has been converted to free text field in the frontend, we can get rid: - the model - the api - the constants

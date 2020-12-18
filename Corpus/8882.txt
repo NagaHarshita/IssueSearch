@@ -1,0 +1,1 @@
+ URL : "https://github.com/stathissideris/spec-provider/issues/8" TITLE : sets are broken BODY : clojure > pprint-specs infer-specs {:a} :foo/stuff ns 's s/def :foo/stuff s/or

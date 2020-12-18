@@ -1,0 +1,1 @@
+ URL : "https://github.com/typicode/fetchival/issues/24" TITLE : unable to upload file BODY : i think the file object is losing when calling fetchival so the file will be post as string instead of file

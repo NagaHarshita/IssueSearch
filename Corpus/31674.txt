@@ -1,0 +1,1 @@
+ URL : "https://github.com/dantintle/webapi-project-3/issues/1" TITLE : subtle: line length BODY : https://github.com/dantintle/webapi-project-3/blob/master/server.js l242 typically, for readability purposes, you don't want the length of a line to extend too long the cutoff is generally 80 characters .

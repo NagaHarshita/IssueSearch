@@ -1,0 +1,1 @@
+ URL : "https://github.com/statsmodels/statsmodels/issues/3909" TITLE : please support python3 BODY : hi, the debian package of statsmodels received a bug report https://bugs.debian.org/cgi-bin/729956 requesting suport for python3. this was in end of 2013. i think it would be time to consider python3 for the next release of statsmodels. kind regards, andreas.

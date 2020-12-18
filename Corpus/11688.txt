@@ -1,0 +1,1 @@
+ URL : "https://github.com/openwrt/odhcpd/issues/99" TITLE : is pxe support ? BODY : i want to redirect to pxe server on odhcpd - it is possible ? config dhcp 'lan' allow booting; allow bootp; .... group { next-server 192.168.1.2; filename /tftpboot/pxelinux.0 ; }

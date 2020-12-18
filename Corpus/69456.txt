@@ -1,0 +1,1 @@
+ URL : "https://github.com/stephentuso/pubxml/issues/1" TITLE : test all resource types BODY : i remember thinking there's a resource type that this might not handle, but i didn't write it down and forget what it is... this needs to be tested with all types to make sure everything is supported

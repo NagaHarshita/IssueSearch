@@ -1,0 +1,1 @@
+ URL : "https://github.com/teropa/build-your-own-angularjs/issues/361" TITLE : p626 missing highlight BODY : in the first snippet, the response.data line should be highlighted as well.

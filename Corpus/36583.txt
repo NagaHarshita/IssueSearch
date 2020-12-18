@@ -1,0 +1,1 @@
+ URL : "https://github.com/sunny-g/web3/issues/1" TITLE : http provider module BODY : - figure out the purpose of the id property of the request objects - is it random? - do we need to use task.await and task.async to make the request? - which process is blocked with a request? - handle timeouts - utilize a base provider module/behaviour if appropriate

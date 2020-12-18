@@ -1,0 +1,1 @@
+ URL : "https://github.com/aFarkas/lazysizes/issues/365" TITLE : lazysizes + matchheight BODY : hello! i know that someone posted a question about lazysizes+masonry https://github.com/afarkas/lazysizes/issues/83 but i'm using matchheight https://github.com/liabru/jquery-match-height on my project. how do i fire up $.fn.matchheight._update after the image has been lazyloaded?

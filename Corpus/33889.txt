@@ -1,0 +1,1 @@
+ URL : "https://github.com/neilsustc/vscode-markdown/issues/29" TITLE : backticks in heading BODY : this: md make targets gets converted to this broken link in table of contents: md - make targets make -targets i believe it should be: - make targets make-targets

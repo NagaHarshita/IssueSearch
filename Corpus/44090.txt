@@ -1,0 +1,1 @@
+ URL : "https://github.com/BebeSparkelSparkel/functional_pipes/issues/11" TITLE : dynamic import method BODY : use __import__ to import the correct extension library with the pipe.load method

@@ -1,0 +1,1 @@
+ URL : "https://github.com/JasperFx/jasper/issues/247" TITLE : revisit transport logging BODY : the itransportlogger isn't used, so see if it's valuable. get some tracing into the sender & receiver callbacks. at a bare minimum, log exceptions in sending and receiving socket calls.

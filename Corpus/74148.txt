@@ -1,0 +1,1 @@
+ URL : "https://github.com/mk23/jmxproxy/issues/151" TITLE : drop support for java 7. BODY : dropwizard 1.0.5 has compilation issues with jdk7. remove from debian build/run depends.

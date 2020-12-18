@@ -1,0 +1,6 @@
+ URL : "https://github.com/NSI-IT/ATG/issues/47" TITLE : admin - view all trailers BODY : as an admin can view the total number of trailers parked under the yard so that i can get the current status anytime during the day. acceptance criteria verify that admin user can see total number of trailers parked under yard verify that admin user can see a list of all trailer numbers parked at yard verify that admin user can also see the status of all the trailers verify that admin user can see the trailers falling under a specific status: >- loaded
+>- empty
+>- loading
+>- unloading
+>- partial load
+>- bad order

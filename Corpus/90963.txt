@@ -1,0 +1,1 @@
+ URL : "https://github.com/jirwin/burrow_exporter/issues/8" TITLE : support for burrow v3 api BODY : burrow api upgraded to v3, while the client.go module reference v2 endpoints. new api https://github.com/linkedin/burrow/wiki/http-endpoint

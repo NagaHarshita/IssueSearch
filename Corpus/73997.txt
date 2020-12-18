@@ -1,0 +1,1 @@
+ URL : "https://github.com/docker/for-mac/issues/1942" TITLE : docker mac fail to start BODY : start docker fatal error received docker ask to reset to factory defaults and don't start. output of the diagnostics from diagnose & feedback failure: optional diagnostic: response is not valid json steps to reproduce the behavior

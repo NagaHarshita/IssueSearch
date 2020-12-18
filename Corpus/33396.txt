@@ -1,0 +1,1 @@
+ URL : "https://github.com/statianzo/webpack-livereload-plugin/issues/29" TITLE : add more watch paths BODY : can be added watch paths? like to watch files that are not webpack compiled?

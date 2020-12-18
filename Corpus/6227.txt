@@ -1,0 +1,1 @@
+ URL : "https://github.com/antest1/kcanotify/issues/14" TITLE : 2.3.2 rev1 bugs BODY : - 원정 보낼 때 타이머가 제대로 갱신되지 않음 모항 가면 갱신됨 - 대파회항 이후 요정님 계속 빨간 상태로 유지됨 - 현재 수행중인 임무 관련해서 일부가 갱신되지 않음 조건은 불명 위의 2개 버그는 rev2에서 수정할 예정 2017.5.3

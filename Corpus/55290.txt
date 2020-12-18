@@ -1,0 +1,1 @@
+ URL : "https://github.com/maestrith/AHK-Studio/issues/148" TITLE : indents after commands BODY : ahk studio beta automatically indents the next line after entering a command, etc after which you wouldn't normally indent when the file extension is different than .ahk but it is in my personal extensions list

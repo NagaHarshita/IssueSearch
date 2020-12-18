@@ -1,0 +1,1 @@
+ URL : "https://github.com/Veil-Framework/Veil/issues/129" TITLE : install and generate error BODY : os =linux parrot 4.13.0-parrot4-amd64 1 smp parrot 4.13.4-1parrot4 2017-10-09 x86_64 gnu/linux when i try to install veil, then

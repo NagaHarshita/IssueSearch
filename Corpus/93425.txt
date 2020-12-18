@@ -1,0 +1,1 @@
+ URL : "https://github.com/vbfox/stidgen/issues/39" TITLE : add support for validation BODY : i love the tool, but imho it could be better if we can validate the value. for example, i want a >=0 id, and throw an exception if a negative value is created. thanks!

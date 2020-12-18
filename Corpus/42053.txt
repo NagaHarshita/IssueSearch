@@ -1,0 +1,1 @@
+ URL : "https://github.com/boost-cmake/bcm/issues/6" TITLE : add warnings property BODY : this would be similar to the <warnings> feature in boost.build, which allows: off - disables all warnings. on - enables default warning level for the tool. all - enables all warnings.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/fatih/color/issues/80" TITLE : support ci clis BODY : colored output seems to be disabled because color package is not detecting the ci system clis. it looks like many is setting a ci env variable we can look for and enable colors on the known providers. also see the reference at https://github.com/chalk/supports-color/blob/master/index.js l66.

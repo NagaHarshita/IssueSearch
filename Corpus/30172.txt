@@ -1,0 +1,1 @@
+ URL : "https://github.com/Array-Huang/webpack-seed/issues/17" TITLE : npm run build报错 BODY : ! image https://cloud.githubusercontent.com/assets/16506726/22617389/f136f90c-eafe-11e6-803e-65e6c6a22b23.png ! image https://cloud.githubusercontent.com/assets/16506726/22617394/07563dd8-eaff-11e6-89b4-ca6ee89f9c8c.png 我在node_modules里面的webpack里确实找不到这个emitter文件，在下webpack新手一枚，请指教

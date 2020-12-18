@@ -1,0 +1,1 @@
+ URL : "https://github.com/nuxt/nuxt.js/issues/2422" TITLE : content security policy BODY : hi, is there a way to setup content security policy headers to avoid xss attacks? afaik nuxt injects inline js globals in production so at the moment this is not possible? some reference: https://medium.com/square-corner-blog/content-security-policy-for-single-page-web-apps-78f2b2cf1757

@@ -1,0 +1,1 @@
+ URL : "https://github.com/zweifel/Physis-Shard/issues/1" TITLE : number of subpopulation BODY : i the paper suna, the number of subpopulation can be larger than 1. why in the demo code you only use 1 define number_of_subpopulations 1

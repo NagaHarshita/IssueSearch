@@ -1,0 +1,1 @@
+ URL : "https://github.com/internetarchive/dweb-transport/issues/17" TITLE : support http url BODY : we should add support for http urls, this would be raw http - no knowledge of hash etc

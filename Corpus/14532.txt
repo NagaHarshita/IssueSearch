@@ -1,0 +1,1 @@
+ URL : "https://github.com/modelica/fmi-xc-scripts/issues/7" TITLE : atomic db commits BODY : currently as explained in 5 , writes of different data happen separately. this is not good because it could lead the database to be in an inconsistent state. so the database api needs to be rewritten to support a single commit.

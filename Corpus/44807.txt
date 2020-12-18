@@ -1,0 +1,1 @@
+ URL : "https://github.com/flurgle/CameraKit-Android/issues/27" TITLE : flash fires too early BODY : hi, when i use the flash for taking pictures it fires too early, so all my pictures get dark. i use this line of code to turn on the flash: cameraview.setflash camerakit.constants.flash_on ; and this to take the picture: cameraview.captureimage ; please help!

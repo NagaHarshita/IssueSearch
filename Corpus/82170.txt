@@ -1,0 +1,1 @@
+ URL : "https://github.com/sqlcipher/sqlcipher-android-tests/issues/23" TITLE : add licensing information BODY : neither the repo nor the source code seem to have any license information. technically speaking, as a result, nobody is allowed to use anything in the repo, since we don't have any rights to use it.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/soulfx/gmusic-playlist/issues/54" TITLE : no module named syslog BODY : i have an issue similar to this https://github.com/cve-search/cve-search/issues/143 it looks like syslog is specific to linux only. it would be better to make script more cross-platform.

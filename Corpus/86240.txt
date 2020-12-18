@@ -1,0 +1,1 @@
+ URL : "https://github.com/stone-payments/gcd/issues/6" TITLE : healthy is not very clear BODY : in the description of the remove-healthy-container parameter you use the term healthy . i don't know what this actually means and from my experience never heard of this term related to containers. i think you should explain better what this parameter does.

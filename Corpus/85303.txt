@@ -1,0 +1,1 @@
+ URL : "https://github.com/RcrsvSquid/express-starter/issues/1" TITLE : eslint script not running BODY : airbnb has not updated their config for eslint 4. the eslintrc config schema has changed slightly which breaks airbnb config. there are 2 solutions: 1. use eslint 3.19 1. wait for airbnb to update currently running the lint command doesn't do anything at all.

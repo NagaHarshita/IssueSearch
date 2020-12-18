@@ -1,0 +1,1 @@
+ URL : "https://github.com/Evenedric/stuff/issues/92" TITLE : shape data cleanup check BODY : make sure the old shape_ data gets deleted at the point when lua cleans up the userdata object and the __gc function invokes the shape destructor.

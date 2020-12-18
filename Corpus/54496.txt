@@ -1,0 +1,1 @@
+ URL : "https://github.com/zalando-incubator/solution-center-navigation/issues/58" TITLE : get unit tests working BODY : for tests that need to load a module pretty much all tests , things aren't working at the moment. try to get thing working.

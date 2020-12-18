@@ -1,0 +1,1 @@
+ URL : "https://github.com/seppaleinen/krog-rouletten/issues/1" TITLE : add health checks BODY : spring-boot-starter-actuator provides endpoints, among them /health that returns information about db-connection and other.

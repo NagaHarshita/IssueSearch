@@ -1,0 +1,1 @@
+ URL : "https://github.com/dsherret/ts-nameof/issues/11" TITLE : support current context BODY : it's far easier to be able to do the following when using nameof in the same class. it's also impossible to reference private properties when referring interfaces nameof this.x // x nameof this.x.y // y nameof.full this.x.y.z x.y.z

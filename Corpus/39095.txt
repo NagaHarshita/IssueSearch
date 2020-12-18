@@ -1,0 +1,1 @@
+ URL : "https://github.com/MyriadSoft/League-SDK/issues/66" TITLE : request onchat event BODY : would like to see a onchat event. args: cpp struct onchatargs { iunit source; // who sent the message std::string message; // message text bool process; // prevent the chat message to be shown };

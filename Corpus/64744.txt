@@ -1,0 +1,1 @@
+ URL : "https://github.com/arut/nginx-rtmp-module/issues/960" TITLE : hls_cleanup not working BODY : hello, first, let me thank you for your wonderfull plugin. it really is amazing! i have a minor issue. when > hls_path is set globally in > context: rtmp, server not in application > hls_cleanup is not working at all. is this a desirable behavior? thank you

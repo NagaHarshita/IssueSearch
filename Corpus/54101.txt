@@ -1,0 +1,1 @@
+ URL : "https://github.com/john-chapman/ApplicationTools/issues/29" TITLE : filesystem: glob match BODY : - implement unix-style glob pattern matching, expose as matches const char _pattern, const char _str on filesystem . - replace all uses of pathmatchspec in the windows impl which is basically broken .

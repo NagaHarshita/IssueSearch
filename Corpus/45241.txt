@@ -1,0 +1,1 @@
+ URL : "https://github.com/flutter/flutter/issues/11654" TITLE : hot reload deselected BODY : i am currently workin on intellij idea ide and in that i have connected a redmi device. the hot reload button is always deselected. is it only for fuschia or for every os? how do i enable it?

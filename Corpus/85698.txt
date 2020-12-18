@@ -1,0 +1,1 @@
+ URL : "https://github.com/lucas-clemente/quic-go/issues/911" TITLE : fix gquic version numbers BODY : deriving the gquic version from the version number only works for versions 30-39.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/18F/disa-eagency/issues/3" TITLE : deep dive of aub BODY : from the kick-off, the aub tab is a pretty meaty portion of the experience. doing a deep dive of the aub will enable us to understand _why_ the specific controls are there. this will enable us to identify how we can simplify / streamline this process.

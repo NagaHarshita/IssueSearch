@@ -1,0 +1,1 @@
+ URL : "https://github.com/daltoniam/SwiftHTTP/issues/270" TITLE : how to handle timeouts BODY : hi, i'm trying to send an http get or post request and then execute some code if the request timed out. i'm not sure if i can define a timeout handler with this library. anyone have any ideas?

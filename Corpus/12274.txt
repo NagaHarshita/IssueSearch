@@ -1,0 +1,1 @@
+ URL : "https://github.com/ga-wdi-boston/capstone-project/issues/531" TITLE : no-sql and scope BODY : i have created a parent child relation in express and i need children to be deleted when i delete the parent. i have spent certain amount of time to find out a solution. i would like to have one on one to talk about whether to scope down or how to approach the problem

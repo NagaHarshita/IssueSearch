@@ -1,0 +1,1 @@
+ URL : "https://github.com/SaskArtists/SaskArtists/issues/249" TITLE : travis file formatiing BODY : add file-formatting checks to travis to ensure codebase consistency. creating to change pr name.

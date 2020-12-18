@@ -1,0 +1,1 @@
+ URL : "https://github.com/TuranicTeam/Turanic/issues/188" TITLE : furnace not work BODY : 22:40:16 critical > could not tick level walls2 : argument 1 passed to pocketmine\utils\binarystream::putbyte must be of the type integer, null given, called in /root/x/src/pocketmine/network/mcpe/protocol/containersetdatapacket.php on line 55

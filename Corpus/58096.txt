@@ -1,0 +1,1 @@
+ URL : "https://github.com/wp-cli/wp-cli/issues/3929" TITLE : run phpcs before behat BODY : as both phpcs and behat will block a merge on failure, we should run the much faster phpcs first, and only run the complete behat test suite only if phpcs succeeded. this avoids scenarios where you let the entire test suite to run for an hour, only to then be blocked by a missing space.

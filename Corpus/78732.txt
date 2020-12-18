@@ -1,0 +1,1 @@
+ URL : "https://github.com/PanoptikumIO/pan/issues/3" TITLE : redirects to feed itself BODY : seem not to be captured test with: http://johnwdoyle.hipcast.com/rss/archive/sound_advice_with_john_w_doyle_podcast.xml ===

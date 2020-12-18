@@ -1,0 +1,1 @@
+ URL : "https://github.com/luci-gutoiu/cuca/issues/6" TITLE : domain separate settings BODY : make separate directories for each domain in which the configs will be saved.

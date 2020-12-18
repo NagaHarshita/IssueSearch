@@ -1,0 +1,1 @@
+ URL : "https://github.com/jonas747/dbstate/issues/6" TITLE : make logging configurable BODY : currently it's hardcoded in with logrus, logrus can still remain as a default but this should be configurable.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/zimmerman-zimmerman/OIPA/issues/422" TITLE : csv pagination broken BODY : guess pr 384 did cause side-effects, all csv calls now have just 1 row of results. https://dev.oipa.nl/api/activities/?format=csv&page_size=5

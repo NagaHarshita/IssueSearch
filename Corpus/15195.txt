@@ -1,0 +1,1 @@
+ URL : "https://github.com/YACS-RCOS/yacs/issues/250" TITLE : create test event BODY : us: as a developer, i would like to receive a notification that something in yacs has changed. ac: yacs should be able to send an event that a client can listen to. this event should have no body.

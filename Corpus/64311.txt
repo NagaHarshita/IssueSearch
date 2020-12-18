@@ -1,0 +1,1 @@
+ URL : "https://github.com/WULF-USA/Official-Website/issues/48" TITLE : french site translation BODY : description site buttons/static information should be translated into french and implemented using the r18n gem. language code: fr how to contribute see the wiki at redacted . supervisor @armmaster17

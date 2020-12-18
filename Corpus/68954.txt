@@ -1,0 +1,1 @@
+ URL : "https://github.com/njleonzhang/vue-data-tables/issues/31" TITLE : sort-method is not call BODY : i had el-table-column with sort-method works fine in el-table, after moved into data-tables it's not called.

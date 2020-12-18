@@ -1,0 +1,1 @@
+ URL : "https://github.com/park-bench/netcheck/issues/2" TITLE : netcheck runs as root BODY : this doesn't need to run as root, and it's generally bad practice. once we are using the api for networkmanager, we will have to add appropriate dbus permissions.

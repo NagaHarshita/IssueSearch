@@ -1,0 +1,1 @@
+ URL : "https://github.com/Melown/vts-browser-js/issues/86" TITLE : distance between coords BODY : hi! getdistance works just fine with wgs84 _coords_ is there a way how to use api to measure a distance between the camera position and _navcoords_, including heights?

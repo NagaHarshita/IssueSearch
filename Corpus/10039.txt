@@ -1,0 +1,1 @@
+ URL : "https://github.com/rekursivspace/blue_dream/issues/4" TITLE : album's api spec BODY : get /albums return all albums get /albums/:catalogue return a specific album get /albums/:catalogue/artist return all the artist in the album

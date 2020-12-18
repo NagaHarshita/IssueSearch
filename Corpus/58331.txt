@@ -1,0 +1,1 @@
+ URL : "https://github.com/ultimatedelman/autogrow/issues/37" TITLE : sets focus to textarea BODY : when i run autogrow it seems to change the focus to the textarea, causing my page to immediately scroll down. how can i prevent that?

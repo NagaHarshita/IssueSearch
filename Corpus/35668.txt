@@ -1,0 +1,1 @@
+ URL : "https://github.com/anthonytasca/pgrouting/issues/13" TITLE : example 3 discussion BODY : executing with the full sample data no multiplication select from pgr_turnpenaltygraph 'select id as id, source as source, target as target , cost, reverse_cost from edge_table' ;

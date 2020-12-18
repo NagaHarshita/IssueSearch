@@ -1,0 +1,1 @@
+ URL : "https://github.com/socialappslab/appcivist-platform/issues/475" TITLE : check for new users BODY : create a prediodic function that checks for new appcivist users who ha logged in with facebook and creates new snapp users for them

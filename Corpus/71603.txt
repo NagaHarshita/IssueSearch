@@ -1,0 +1,1 @@
+ URL : "https://github.com/speichs/Q2Project/issues/57" TITLE : add sign out to menu bar BODY : as a user i need to be able to sign out. use delete /token?

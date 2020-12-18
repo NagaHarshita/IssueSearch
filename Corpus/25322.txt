@@ -1,0 +1,1 @@
+ URL : "https://github.com/justy/node-express-heroku/issues/1" TITLE : windows batch file BODY : is there a windows version? i tried replicating but the batch file stops just before the line cd %1 alok

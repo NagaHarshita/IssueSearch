@@ -1,0 +1,1 @@
+ URL : "https://github.com/matthewfranglen/postgres-elasticsearch-fdw/issues/2" TITLE : exemple doc BODY : there is an issue with doc/example ... body and content that are mixed. replace content by body and everything will be fine ty

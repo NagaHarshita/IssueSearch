@@ -1,0 +1,1 @@
+ URL : "https://github.com/opensource-socialnetwork/SMTP/issues/4" TITLE : 502 gateway error BODY : i installed and activated smtp component in ossn . when i go to configure the smtp settings , then it says smtp connection failed before i enter the smtp settings . when i enter smtp settings then submit query then it takes sometime to load says 502 gateway error.

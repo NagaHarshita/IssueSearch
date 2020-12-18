@@ -1,0 +1,1 @@
+ URL : "https://github.com/google/aiyprojects-raspbian/issues/87" TITLE : installing on osmc BODY : can you help us install this on osmc? i thought osmc had raspbian behind the scenes. following these instructions, https://github.com/google/aiyprojects-raspbian/blob/master/hacking.md at this line scripts/install-deps.sh i get this error unable to locate package python-rpi.gpio

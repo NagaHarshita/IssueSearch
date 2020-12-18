@@ -1,0 +1,1 @@
+ URL : "https://github.com/nbs-system/php-malware-finder/issues/55" TITLE : whitelist not working BODY : i generate wordpress plugin folder using generate_whitelist.py and put it in whitelists folder, include the url in whitelist.yar. but, some file still detected as a malware. do i did something wrong? could you please tell me who to make proper whitelist? thank you

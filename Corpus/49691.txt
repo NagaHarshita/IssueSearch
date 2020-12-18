@@ -1,0 +1,1 @@
+ URL : "https://github.com/MarnoDev/AC-QRCode-RN/issues/1" TITLE : unmet peer dependency BODY : └─┬ ac-qrcode@1.0.1 └── unmet peer dependency react@>=15.4.0 npm warn react-native-camera@0.7.0 requires a peer of react@>=15.4.0 but none was installed.

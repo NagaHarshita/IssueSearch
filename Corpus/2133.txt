@@ -1,0 +1,1 @@
+ URL : "https://github.com/tjfoc/gmsm/issues/15" TITLE : test for sm4 BODY : i have noticed that the data used to encrypt in an4_test.go must be 16 or 16 n bytes long.and i have a try to use encryption function here to encrypt some data like hello world ,but it doesn't work with decryption function here.so,does it work in gm module in bccsp for sm4 now? thanks in advanced.

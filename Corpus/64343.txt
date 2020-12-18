@@ -1,0 +1,14 @@
+ URL : "https://github.com/pjefika/fulltestAPI/issues/82" TITLE : fulltest manobra facade BODY : - realizar bateria de validações corretivas de configurações lógicas. quebra 1 - validações corretivas de configurações lógicas. retorno validações: ok: - fazer acertações dslam. nok correção efetuada : - interromper fluxo, exibir mensagem: favor testar novamente. quebra 2 - acertações dslam validações de parâmetros do dslam :
+| acertações|
+|--|
+|possui sincronismo?|
+|rede confiável?|
+|resync < 300?|
+|resync < 50?|
+|resyn < 5?|
+|attn rate down > 21000? adsl |
+|attn rate up > 1100? adsl |
+|attn rate down > 100000? vdsl |
+|attn rate up > 49000? vdsl |
+|pacotes de down > 6000?|
+|pacotes de up > 4000?|

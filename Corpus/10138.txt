@@ -1,0 +1,1 @@
+ URL : "https://github.com/saralynnv/prj-rev-bwfs-tea-cozy/issues/2" TITLE : avoid using <br> BODY : <br> for spacing is not the best approach for your scenario. make sure to fix this! https://github.com/saralynnv/prj-rev-bwfs-tea-cozy/blob/master/teacozy/index.html l56-l87

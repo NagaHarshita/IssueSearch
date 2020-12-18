@@ -1,0 +1,1 @@
+ URL : "https://github.com/cockroachdb/docs/issues/1758" TITLE : restore doc update BODY : re: restore https://cockroachlabs.com/docs//v1.0/restore.html issue description there is an unfinished sentence in the restore targets sub section: however, because the restore feature is designed for disaster recovery, ... suggested resolution finish the sentence or remove it

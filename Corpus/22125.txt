@@ -1,0 +1,1 @@
+ URL : "https://github.com/mumuki/mumuki-laboratory/issues/859" TITLE : improve error name BODY : when an assignment has status :errored the actual message is: tu solución no se pudo ejecutar instead @laura.mangifesta proposed: tu solución no se puede ejecutar this new verbal tense improve the meaning of the message.

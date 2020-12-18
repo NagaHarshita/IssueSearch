@@ -1,0 +1,1 @@
+ URL : "https://github.com/over-pass/overpass-go/issues/68" TITLE : add failuretype err string BODY : if err is a failure, return err.type; otherwise empty string.

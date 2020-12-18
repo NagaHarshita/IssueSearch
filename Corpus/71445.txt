@@ -1,0 +1,1 @@
+ URL : "https://github.com/rnystrom/GitHawk/issues/287" TITLE : add issue/pr filter/sort BODY : should add a way to filter and sort the issues and pull requests after entering into the repository view. - filter open/closed/all - sort date asc/desc

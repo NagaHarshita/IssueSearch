@@ -1,0 +1,1 @@
+ URL : "https://github.com/Kwoth/NadekoBot/issues/1756" TITLE : .poll is broken again BODY : as subject. all votes / .pollstats / .pollend would spew out errors like no tomorrow

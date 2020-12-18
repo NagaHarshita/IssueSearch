@@ -1,0 +1,1 @@
+ URL : "https://github.com/royvbtw/beautyland-api/issues/3" TITLE : imgur url parsing error BODY : if the app try to parse http://imgur.com/a/qai8x it will return a wrong result. http://i.imgur.com/a expected result should be: http://i.imgur.com/qai8x

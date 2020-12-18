@@ -1,0 +1,1 @@
+ URL : "https://github.com/ccpgames/esi-issues/issues/362" TITLE : bulk ticker endpoint BODY : an endpoint similar to /universe/names/ for retrieving corporation/alliance tickers in bulk might be useful.

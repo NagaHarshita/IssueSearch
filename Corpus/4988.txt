@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpenKore/openkore/issues/1178" TITLE : iro loki crypt BODY : it seems they also apply renewal anti bot to classic. timeout on map server. i have try to use renewal crypt key, copy shuffle.txt, sync.txt, and recvpacket.txt. it doesn't work.

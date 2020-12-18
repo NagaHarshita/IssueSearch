@@ -1,0 +1,1 @@
+ URL : "https://github.com/dreadworks/dotfiles/issues/6" TITLE : revise dark theme BODY : have the dark theme defined independently from terminator and provide scripts to generate theme files for terminator, other terminal emulators and maybe - at some point - emacs.

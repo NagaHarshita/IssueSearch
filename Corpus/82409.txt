@@ -1,0 +1,1 @@
+ URL : "https://github.com/quantopian/pyfolio/issues/429" TITLE : add tests for fama-french BODY : we currently don't have tests for the fama-french betas: https://github.com/quantopian/pyfolio/blob/master/pyfolio/timeseries.py l550 we should have a few, including one that confirms the result is ok when insufficient data is passed.

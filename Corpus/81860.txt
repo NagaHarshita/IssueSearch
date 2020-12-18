@@ -1,0 +1,1 @@
+ URL : "https://github.com/Avira/raccoon/issues/11" TITLE : ability to select servers BODY : when running install and config a user should have the ability to select the servers defined in the metadata. by default all should be selected.

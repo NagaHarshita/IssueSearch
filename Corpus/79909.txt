@@ -1,0 +1,1 @@
+ URL : "https://github.com/felixge/node-stack-trace/issues/19" TITLE : support for all browsers BODY : hi, this module seems very interesting but unfortunately i'm not able to make it work with firefox chrome works . are there any plans to integrate other browsers like stack-trace.js? that would be awesome!

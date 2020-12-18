@@ -1,0 +1,1 @@
+ URL : "https://github.com/archzfs/archzfs/issues/205" TITLE : remove dkms pkgbuilds BODY : push.sh has added all dkms pkgbuilds to the main archzfs repository. possibly because dkms is not a submodule and not in the aur . we should either remove these commits from master, or push a new commit deleting those files.

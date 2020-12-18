@@ -1,0 +1,1 @@
+ URL : "https://github.com/prtksxna/leaflet-map-component/issues/36" TITLE : not working on polymer 2 BODY : unfortunately the map is not showing when i am using leaflet on polymer 2. should it work or are you just not supporting it?

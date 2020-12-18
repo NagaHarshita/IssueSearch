@@ -1,0 +1,1 @@
+ URL : "https://github.com/woowahan-techcamp/3team_OSGD.fling/issues/7" TITLE : 레시피 화면 api BODY : - 헤더 부분 : 타이틀, 사진, 레시피 url - 바디 재료 리스트 : 재료 상품 이름, 가격, 수량, 사진, 아이디 구체 재료검색 - 재료 - 상품 디비 연결

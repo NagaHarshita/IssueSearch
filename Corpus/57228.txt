@@ -1,0 +1,1 @@
+ URL : "https://github.com/elastic/logstash/issues/8840" TITLE : pq data replay tooling BODY : if for some reason the pq has issues processing it's data, there may be a need to replay the data still on disk. we should provide first class tooling to allow replaying the data from the pq. this tooling should make best attempts to replay data despite data corruption.

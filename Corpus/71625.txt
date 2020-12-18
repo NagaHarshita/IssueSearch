@@ -1,0 +1,1 @@
+ URL : "https://github.com/graze/monolog-extensions/issues/18" TITLE : add static code analysis BODY : we use phpcs elsewhere to ensure code matches our coding standards. we should do that for this project. useful links: - https://github.com/graze/standards - https://github.com/graze/skeleton-project

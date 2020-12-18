@@ -1,0 +1,1 @@
+ URL : "https://github.com/patrickwilmes/xena/issues/2" TITLE : basic management interface BODY : within the xena master: - interface showing the current status of the system list of agents - protected by htaccess / basic authentication

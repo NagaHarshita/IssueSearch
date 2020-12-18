@@ -1,0 +1,1 @@
+ URL : "https://github.com/dewittpe/sccm/issues/6" TITLE : expansion of a hull BODY : given a hull, expand by moving the vertices outward by a given value. the expansion will be along the vector splitting the internal angle in half.

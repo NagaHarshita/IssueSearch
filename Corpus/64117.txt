@@ -1,0 +1,1 @@
+ URL : "https://github.com/mlynarikj/Space-Mission-Manager/issues/43" TITLE : fix craftcomponent test BODY : craft component test uses a set time of 22. august - make the test runnable even after this date by using now plus some time

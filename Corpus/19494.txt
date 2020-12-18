@@ -1,0 +1,1 @@
+ URL : "https://github.com/crossbario/crossbar-fabric-docs/issues/6" TITLE : add docker example BODY : the example should demonstrate how to remotely call into the host docker daemon of a box running cf. eg list all running docker containers, start a new docker container, wait 10s, stop the docker container

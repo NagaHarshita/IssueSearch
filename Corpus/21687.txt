@@ -1,0 +1,1 @@
+ URL : "https://github.com/AFCStudio/BCRYExporter/issues/145" TITLE : generate lods icon BODY : __edit_vec__ icon is not available with blender 2.79. that cause the loading problem of __mesh utilities__. - change __edit_vec__ icon with __oops__.

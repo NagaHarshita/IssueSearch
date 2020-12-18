@@ -1,0 +1,1 @@
+ URL : "https://github.com/Lunik/tcloud/issues/68" TITLE : add salt on copy links BODY : to improve privacy on directdl url, we should add some salt to the base64 string.

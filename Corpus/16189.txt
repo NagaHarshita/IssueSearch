@@ -1,0 +1,6 @@
+ URL : "https://github.com/rnystrom/GitHawk/issues/639" TITLE : html loses styles BODY : probably from the change to selection. seems i some of the web view stuff isn’t styled anymore. noticeable on gothawk bug reports with collapsed <details> stuff. <details>
+<summary>bug report dump auto-generated </summary>
+<pre>
+version 1.12.0 1063 device: iphone 7 plus ios 11.0.3 testflight: false
+</pre>
+</details>

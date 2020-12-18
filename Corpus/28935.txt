@@ -1,0 +1,1 @@
+ URL : "https://github.com/nerdynick/guava-js/issues/2" TITLE : improve bower usage BODY : reduce what files are downloaded for bower installs and include compressed/uglified versions

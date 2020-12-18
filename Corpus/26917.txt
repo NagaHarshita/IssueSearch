@@ -1,0 +1,1 @@
+ URL : "https://github.com/adafruit/Adafruit-WS2801-Library/issues/19" TITLE : change order of rgb BODY : i have a ws2801 led strip. the problem is that it uses the rbg color order. can i change it from rgb to rbg in the library for it to work well?

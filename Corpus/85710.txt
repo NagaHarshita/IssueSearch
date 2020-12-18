@@ -1,0 +1,1 @@
+ URL : "https://github.com/glidernet/ogn-bootstrap/issues/5" TITLE : fix logging configuration BODY : logging is not properly configured. the files /var/log/rtlsdr-ogn/50000 and /var/log/rtlsdr-ogn/50001 show: /usr/bin/procserv: spawning daemon process: 32672 warning: no log file and no port for log connections specified.

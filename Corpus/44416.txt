@@ -1,0 +1,4 @@
+ URL : "https://github.com/webcompat/webcompat-tests/issues/1249" TITLE : example.com - unknown BODY : <!-- @browser: barfoo -->
+<!-- @ua_header: httpie/0.9.9 -->
+<!-- @reported_with: web --> url : http://example.com browser / version : barfoo operating system : foobar tested another browser : unknown problem type : unknown description : foo steps to reproduce :
+none _from webcompat.com https://webcompat.com/ with ❤️_

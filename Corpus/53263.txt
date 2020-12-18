@@ -1,0 +1,1 @@
+ URL : "https://github.com/ottogiron/gitremote/issues/2" TITLE : directories white list BODY : instead of allowing to execute git commands in any directory of the server all directories should be excluded by default. create a configuration to define which directories can be used, maybe based on regular expressions.

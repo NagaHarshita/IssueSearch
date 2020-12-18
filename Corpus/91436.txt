@@ -1,0 +1,1 @@
+ URL : "https://github.com/leo-project/leofs/issues/574" TITLE : tool scrub data regularly BODY : as there is no official tool to scrub kinda active anti entropy data, users who want to scrub regularly need to write a tool by using recover- file|node command.

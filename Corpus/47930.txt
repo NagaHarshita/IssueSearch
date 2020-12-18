@@ -1,0 +1,1 @@
+ URL : "https://github.com/fabianschuiki/llhd/issues/15" TITLE : re-export inst module BODY : re-export everything in the inst module. i.e. add the following to the crate root: rust pub use inst::

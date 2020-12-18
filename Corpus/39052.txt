@@ -1,0 +1,1 @@
+ URL : "https://github.com/openimaj/openimaj/issues/129" TITLE : replace green screen BODY : hi, i can run the backgroundsubtract code to hide the bakground, but i want to use a green screen and replace the background with an image. is there any code or idea how to do this? thanks.

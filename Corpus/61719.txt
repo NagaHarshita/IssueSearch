@@ -1,0 +1,1 @@
+ URL : "https://github.com/tschiemer/filmothek-kiosk-osx/issues/3" TITLE : blank screen on startup BODY : as pointed out in 1 a blank black or white can appear at startup. so far observed when app launched automatically at login. no webapp error conditions are checked within the app - which likely should solve the problem.

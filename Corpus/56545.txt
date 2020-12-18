@@ -1,0 +1,1 @@
+ URL : "https://github.com/hash-bang/angular-bs-confirm/issues/2" TITLE : ng-disabled is ignored BODY : if you are using ng-disabled on an element which also has the confirm directive, then the dialog is shown regardless

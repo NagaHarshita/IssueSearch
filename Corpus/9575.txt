@@ -1,0 +1,1 @@
+ URL : "https://github.com/audiojs/audio-speaker/issues/42" TITLE : 2.0 api proposal BODY : ideally api should be js const speaker = require 'audio-speaker' let write = speaker options write audiobuffer|data, callback

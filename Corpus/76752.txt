@@ -1,0 +1,1 @@
+ URL : "https://github.com/hipster-philology/pandora/issues/8" TITLE : main.py and tagger.train BODY : i am not sure this one is worth an issue, but since there might be something i am missing here: why do we use for i in range int params 'nb_epochs' : tagger.epoch tagger.save in main.py, instead of the existing tagger.train ?

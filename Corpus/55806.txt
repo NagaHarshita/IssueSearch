@@ -1,0 +1,1 @@
+ URL : "https://github.com/kurtrm/homeless_to_hearth/issues/92" TITLE : list view organization BODY : the home page should provide more of a list that provides crucial information about each resource than a narrow column. we should consider django pagination as more resources are entered.

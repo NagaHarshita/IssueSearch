@@ -1,0 +1,1 @@
+ URL : "https://github.com/conda-forge/pykml-feedstock/issues/6" TITLE : not ready for python3 BODY : the pypi.io version tries an import of urllib2 for urlopen. at least this version is not compatible yet with py3. there are many forks on github, not sure which one is activily maintained.

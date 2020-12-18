@@ -1,0 +1,1 @@
+ URL : "https://github.com/biocore/emperor/issues/621" TITLE : bug with tube radius BODY : if there are different shapes on screen, we need to recompute the default radius to make the size of the tubes something reasonable.

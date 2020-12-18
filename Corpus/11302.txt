@@ -1,0 +1,1 @@
+ URL : "https://github.com/fybwid/sidodi/issues/4" TITLE : generate ssh key BODY : bash ssh-keygen -t rsa -b 4096 -c your.mail@mail.com eval $ ssh-agent -s ssh-add ~/.ssh/id_rsa vim ~/.ssh/id_rsa.pub copy the key to github https://github.com/settings/keys

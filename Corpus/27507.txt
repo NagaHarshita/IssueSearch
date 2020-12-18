@@ -1,0 +1,1 @@
+ URL : "https://github.com/prontotools/zendesk-tickets-machine/issues/85" TITLE : deploy via circleci BODY : currently, we're using travis ci and it is quite slow. circleci 2.0 improves a lot and it does support open source. we should move to it. :

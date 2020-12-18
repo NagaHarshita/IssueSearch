@@ -1,0 +1,1 @@
+ URL : "https://github.com/tapestry-cloud/tapestry/issues/246" TITLE : add getenvironment helper BODY : often useful to know which environment e.g. local, development, staging, production the site has been generated in so that templates may switch things in response.

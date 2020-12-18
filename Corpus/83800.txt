@@ -1,0 +1,1 @@
+ URL : "https://github.com/pgRouting/pgrouting/issues/967" TITLE : codacy configuration file BODY : codacy tests are new, need to have a configuration file make codacy to ignore: - sql code on the test directory - reason: some non sql commands that are posgresql commands are used like \echo and because of that its marking merges with problems.

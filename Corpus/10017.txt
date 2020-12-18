@@ -1,0 +1,1 @@
+ URL : "https://github.com/ellioseven/de-drupal/issues/14" TITLE : add zip packages BODY : install the zip and bzip2 packages: sudo apt-get install --no-recommends zip bzip2

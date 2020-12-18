@@ -1,0 +1,1 @@
+ URL : "https://github.com/oerdnj/deb.sury.org/issues/734" TITLE : broken openssl libraries BODY : please refer to https://github.com/znc/znc/issues/1457 all i did was run update and upgrade/dist-upgrade on my ubuntu machine and it broke certain applications, the ssl versions got all messed up and according to that thread its broken openssl libraries?

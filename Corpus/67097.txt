@@ -1,0 +1,1 @@
+ URL : "https://github.com/unpkg/unpkg-website/issues/57" TITLE : option to minify output BODY : there are various packages, for example leaflet, who don't have minified versions of their files in their dist/ directory. so maybe unpkg can listen for a get parameter e.g. ?m = minifed version and it tries to minify the css and js?

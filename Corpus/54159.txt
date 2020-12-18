@@ -1,0 +1,1 @@
+ URL : "https://github.com/fossasia/accounts.susi.ai/issues/117" TITLE : fix app bar everywhere BODY : actual behaviour app bar also gets's scrolled when a user scrolls through the page. expected behaviour app bar should always stay at the top. would you like to work on the issue? yes

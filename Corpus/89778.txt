@@ -1,0 +1,1 @@
+ URL : "https://github.com/SEEK-Jobs/seek-style-guide/issues/79" TITLE : release process is manual BODY : it'd probably be worth automating releases with semantic-release https://github.com/semantic-release/semantic-release .

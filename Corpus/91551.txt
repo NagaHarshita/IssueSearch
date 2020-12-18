@@ -1,0 +1,1 @@
+ URL : "https://github.com/agronholm/sphinx-autodoc-typehints/issues/13" TITLE : type hint comment support BODY : this would allow using it under python 2.7 :+1:

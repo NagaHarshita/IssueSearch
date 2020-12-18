@@ -1,0 +1,1 @@
+ URL : "https://github.com/knipferrc/plate/issues/225" TITLE : move local state to redux BODY : now that we have this modules folder structure we can move the local state into redux and pass them as props from the container.

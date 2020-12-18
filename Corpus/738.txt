@@ -1,0 +1,1 @@
+ URL : "https://github.com/hearsid/ng-html-to-pdf-save/issues/19" TITLE : id is same BODY : uncaught in promise typeerror: cannot read property 'clientheight' of undefined at object.onrendered savehtmltopdf.min.js:1 at jspdf.debug.js:13681 onrendered @ savehtmltopdf.min.js:1 anonymous @ jspdf.debug.js:13681

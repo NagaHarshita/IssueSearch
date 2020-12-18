@@ -1,0 +1,1 @@
+ URL : "https://github.com/jamen/browser-window/issues/6" TITLE : window ipc with uuids BODY : i would like win.on evt, fn and win.send evt, ...params to operate on top of uuid or unique-string maybe win.native.id ? to have the events be per-window. for example, win.on 'foo', ... becomes 241$foo 4427b402-9921-4a03-ac2d-6841dcfbf2aa$foo

@@ -1,0 +1,1 @@
+ URL : "https://github.com/laithserhan/hcis-search/issues/1" TITLE : upup breaks db.xml BODY : after switching from sw to upup, db.xml does not load when offline, all other resources load correctly.

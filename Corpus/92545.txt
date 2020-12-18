@@ -1,0 +1,1 @@
+ URL : "https://github.com/Ahalhowidi/HW/issues/10" TITLE : your bonus solution works BODY : but it's probably a lot slower than a solution using array.indexof, you might want to look that function up. also the solution doesn't work for nan: theuniqe 'a','b', 'b', 'cd', dog , 'd', 'a', dog ,8,8,3,nan,nan, 'e', 'f', 'c'

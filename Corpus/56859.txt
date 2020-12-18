@@ -1,0 +1,1 @@
+ URL : "https://github.com/turnerhayes/quintro/issues/15" TITLE : optimize webpack build BODY : for production builds, compress js and css. split out common chunks.

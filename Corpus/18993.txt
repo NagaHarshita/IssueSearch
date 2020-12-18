@@ -1,0 +1,1 @@
+ URL : "https://github.com/BuildCraft/BuildCraft/issues/3751" TITLE : volume box broken BODY : the volume box's name has changed to _item.volume_box.name_ and it cannot be destroyed or resized. bc version: 7.99.5

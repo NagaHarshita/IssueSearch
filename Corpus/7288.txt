@@ -1,0 +1,1 @@
+ URL : "https://github.com/danigro77/NWKendo/issues/5" TITLE : faq footer link BODY : current behavior: the faq link on the footer leads to the resources and faq section, and has the general tab open. expected behavior: when clicking on the faq link in the footer, the link leads to the resources and faq section, but with the faq tab open instead of general.

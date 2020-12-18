@@ -1,0 +1,1 @@
+ URL : "https://github.com/CZ-NIC/turris-os/issues/48" TITLE : openssl path hardcoded? BODY : when i run make on open-wrt master it configures just fine on my system. but on the turris-os branch here it finds all deps except openssl? is there a way to configure this path?

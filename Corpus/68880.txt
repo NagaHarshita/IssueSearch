@@ -1,0 +1,1 @@
+ URL : "https://github.com/seanfagan/seanfagan.github.io/issues/10" TITLE : skips in heading levels BODY : the headings skip from h1 page title to h5 project titles . consider using h3 's for the project titles and adding an h2 at the top of the projects section.

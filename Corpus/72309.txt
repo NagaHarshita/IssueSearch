@@ -1,0 +1,1 @@
+ URL : "https://github.com/miguelhincapie/CustomBottomSheetBehavior/issues/24" TITLE : bottomsheet collapse bug BODY : hi - great lib!! i ran into the following bug: 1 fully expand the bottom sheet 2 scroll the bottom sheet up 3 collapse the bottom sheet using the x toolbar icon bug: the bottom sheet doesn't scroll to the top. please see video: https://vimeo.com/200454784

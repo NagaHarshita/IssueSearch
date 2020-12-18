@@ -1,0 +1,1 @@
+ URL : "https://github.com/functional-streams-for-scala/fs2-cats/issues/20" TITLE : support cats 1.0.0-mf BODY : this will eventually be needed in order to keep fs2-cats in the scala community build, which we want to move from cats 0.9 to 1.0 as soon as reasonably possible https://github.com/scala/community-builds/issues/549

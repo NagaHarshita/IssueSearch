@@ -1,0 +1,1 @@
+ URL : "https://github.com/fuzzy-ai/task-prioritization/issues/7" TITLE : text match agent BODY : include an agent for textual matches. inputs like description includes garage or description includes watermelon with the value being a count. initially range of 0,3 , maybe this grows over time? not sure if this is going to be important or not.

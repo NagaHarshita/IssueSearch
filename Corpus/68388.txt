@@ -1,0 +1,1 @@
+ URL : "https://github.com/nulib/avalon/issues/185" TITLE : rewrite handles to arks BODY : investigate writing handles to arks. either we do it and try and see if the provider can take over maintaining the handles once we decommission our server.

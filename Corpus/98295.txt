@@ -1,0 +1,1 @@
+ URL : "https://github.com/drewcode/TheCCompiler/issues/5" TITLE : initial parser discussions BODY : we need to decide on a grammar for the language and also the type of parser we are gonna use. i'd say the our options are either recursive top down parser without backtracking, non-recursive top down parser or bottom up parser of sufficient power to handle our grammar.

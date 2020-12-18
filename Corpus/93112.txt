@@ -1,0 +1,1 @@
+ URL : "https://github.com/sqybi/online-interview-tool/issues/14" TITLE : add document creation page BODY : - create new document by one click - document creating without visiting this page is not allowed - auto-assigning doc_id - auto-generating information of candidate in document

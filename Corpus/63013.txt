@@ -1,0 +1,1 @@
+ URL : "https://github.com/INN/Largo/issues/1417" TITLE : database update scripts BODY : there will be lots of database updates to run when upgrading to largo 1.0 some examples: - theme options will move to customizer settings - options framework will need to be parsed out and moved into customizer settings

@@ -1,0 +1,14 @@
+ URL : "https://github.com/andybotting/xbmc-addon-abc-iview/issues/2942" TITLE : end-user bug report BODY : automatic bug report from end-user. environment plugin name: abc iview plugin id: plugin.video.abc_iview plugin version: 1.8.0 xbmc/kodi version: 17.3 git:147cec4 python version: 2.7.13 default, may 19 2017, 16:40:18 gcc 6.2.0 operating system: linux2 linux 4.9.29 x86_64 ip address: 59.102.16.182 59-102-16-182.tpgi.com.au isp : tpg internet python path: /storage/.kodi/addons/plugin.video.abc_iview
+/storage/.kodi/addons/script.common.plugin.cache/lib
+/storage/.kodi/addons/script.module.beautifulsoup/lib
+/storage/.kodi/addons/script.module.requests/lib
+/usr/lib/python27.zip
+/usr/lib/python2.7
+/usr/lib/python2.7/plat-linux2
+/usr/lib/python2.7/lib-tk
+/usr/lib/python2.7/lib-old
+/usr/lib/python2.7/lib-dynload
+/usr/lib/python2.7/site-packages
+/usr/lib/python2.7/site-packages/gtk-2.0
+/storage/.kodi/addons/plugin.video.abc_iview/resources/lib traceback traceback most recent call last : file /storage/.kodi/addons/plugin.video.abc_iview/resources/lib/programs.py , line 31, in make_programs_list programs = comm.get_series_from_feed params 'series_url' , params 'episode_count' file /storage/.kodi/addons/plugin.video.abc_iview/resources/lib/comm.py , line 149, in get_series_from_feed return parse.parse_programs_from_feed feed, ep_count file /storage/.kodi/addons/plugin.video.abc_iview/resources/lib/parse.py , line 109, in parse_programs_from_feed jsondata = json.loads data file /usr/lib/python2.7/json/__init__.py , line 339, in loads file /usr/lib/python2.7/json/decoder.py , line 364, in decode file /usr/lib/python2.7/json/decoder.py , line 382, in raw_decode
+valueerror: no json object could be decoded full xbmc.log https://gist.github.com/0207534db822cd23fd3024a56f0be80f

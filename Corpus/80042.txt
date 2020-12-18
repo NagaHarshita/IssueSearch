@@ -1,0 +1,1 @@
+ URL : "https://github.com/FranciscoKnebel/ElasticSidebar/issues/1" TITLE : swap all ids for classes BODY : - sidebar.css should not include any id references, and all style should be class-defined. - readme.md should include a step-by-step process on how to create a menu using the defined classes, as well as presenting examples to the reader.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/osumb/challenges/issues/392" TITLE : get rid of needs_approval BODY : the entire approval process is going away. this work should include changing how spot switches happen. instead of happening on approval, a check will be run on each evaluation

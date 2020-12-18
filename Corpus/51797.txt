@@ -1,0 +1,1 @@
+ URL : "https://github.com/aichaos/rivescript-js/issues/232" TITLE : block comment support? BODY : is there a way to comment out a block of codes? like js / / / + hello - hi human + bye - bye bye human /

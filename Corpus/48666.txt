@@ -1,0 +1,1 @@
+ URL : "https://github.com/teracyhq-incubator/kubernetes-stack-cookbook/issues/10" TITLE : should release v0.1.0 BODY : - update release guide - add changlog - publish this cookbook to the chef market

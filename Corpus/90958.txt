@@ -1,0 +1,1 @@
+ URL : "https://github.com/platformio/platform-nordicnrf52/issues/4" TITLE : support for arduino primo BODY : i can't find anything online about platformio and the arduino primo. it's running on the nordic nrf52 processor so i guess this belongs here. product link: http://www.arduino.org/products/boards/arduino-primo

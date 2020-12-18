@@ -1,0 +1,1 @@
+ URL : "https://github.com/shogo82148/go-nginx-oauth2-adapter/issues/23" TITLE : support other log formats BODY : logrus supports some other log formatter https://github.com/sirupsen/logrus formatters

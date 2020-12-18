@@ -1,0 +1,1 @@
+ URL : "https://github.com/catamphetamine/react-phone-number-input/issues/71" TITLE : tabindex doesn't work BODY : hi : i tried setting the tabindex attribute so that the tab action activates the input, and it doesn't seem to work. have you implemented it ? thanks

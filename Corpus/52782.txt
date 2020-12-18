@@ -1,0 +1,1 @@
+ URL : "https://github.com/NLeSC/xenon-cwl/issues/12" TITLE : create admin interface BODY : we should add a simple admin interface to list jobs / reset the database, look at stats, etc.

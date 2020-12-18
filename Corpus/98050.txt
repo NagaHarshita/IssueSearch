@@ -1,0 +1,1 @@
+ URL : "https://github.com/mrbouncyhead/jipadvisor/issues/1" TITLE : implement register service BODY : - validate user json - add to dabase - create jwt token - return token to the user - user should be logged in

@@ -1,0 +1,1 @@
+ URL : "https://github.com/openrightsgroup/cmp-issues/issues/162" TITLE : dmoz website closed BODY : link from https://stage.blocked.org.uk/blocked-sites to the list of dmoz categories takes you to a site http://www.dmoz.org/ which is closed. the link should be to the static mirror at http://dmoztools.net/ instead.

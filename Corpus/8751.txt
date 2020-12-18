@@ -1,0 +1,1 @@
+ URL : "https://github.com/3846masa/upload-gphotos/issues/233" TITLE : retry to upload BODY : uploading is failed sometimes, so i'll implement the option of retry. when uploading, user can set the number of trial for retry uploading. see 229.

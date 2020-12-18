@@ -1,0 +1,1 @@
+ URL : "https://github.com/NikolaiLMS/PSE-Wahlverfahren-Implementierung/issues/3" TITLE : bug in c code generation BODY : when havin an exists_one phrase in either the post or pre properties, it leads to an error when trying to test the property.

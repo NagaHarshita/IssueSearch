@@ -1,0 +1,1 @@
+ URL : "https://github.com/NicolasPetton/Indium/issues/44" TITLE : add disable cache BODY : there is a useful checkbox in the devtools network tab -> disable cache which disable cache when devtools is opened. it would be nice to have this feature in the indium. https://chromedevtools.github.io/devtools-protocol/1-2/network/ method-setcachedisabled

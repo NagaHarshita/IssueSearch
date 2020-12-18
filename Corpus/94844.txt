@@ -1,0 +1,1 @@
+ URL : "https://github.com/typestyle/typestyle/issues/104" TITLE : code completion in editor? BODY : i'm using vscode and if i use typestyle i expected code completion for key and value. but i have only code completion for the key and not for the value? what i have to do, or to install? style {display:''} ; // there is no code completion for the value of display;

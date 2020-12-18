@@ -1,0 +1,1 @@
+ URL : "https://github.com/microsoftgraph/ios-objectivec-connect-sample/issues/8" TITLE : unable to run pod install BODY : the following error occurred after running pod install ! unable to find a specification for msgraphsdk i'm using pod v 1.1.1 with mac os 10.12 many thanks.

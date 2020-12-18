@@ -1,0 +1,1 @@
+ URL : "https://github.com/marcosfermin/pencilcrunch/issues/9" TITLE : docker work directory BODY : hey folks the project does not currently have a working directory to be able to edit project files from the host, we need them to mount a volume in the compilation of the image. > ref: https://docs.docker.com/engine/tutorials/dockervolumes/

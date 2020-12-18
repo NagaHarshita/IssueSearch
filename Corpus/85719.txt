@@ -1,0 +1,1 @@
+ URL : "https://github.com/rawhat/playlistr/issues/21" TITLE : fix navigation on refresh BODY : it just redirects to root page, which isn't ideal

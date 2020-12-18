@@ -1,0 +1,1 @@
+ URL : "https://github.com/rueckstiess/mtools/issues/546" TITLE : fix errors found by pep257 BODY : depends on 545 part of epic 542

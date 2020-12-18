@@ -1,0 +1,1 @@
+ URL : "https://github.com/Tulmot/Sklearn-Multilabel/issues/72" TITLE : compactar los notebooks BODY : al final tener 3 notebooks en total, uno sin iteraciones, otro con iteraciones y otro con datos reales. para diferenciar que clasificador queremos utilizar, instanciamos cada clasificador en una celda distinta, y después ejecutamos la celda del clasificador que queremos usar.

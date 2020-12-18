@@ -1,0 +1,1 @@
+ URL : "https://github.com/Gulden/gulden-official/issues/54" TITLE : rpc command for rescan BODY : instead of starting gulden with the -rescan flag, it would be great having a rescan rpc command

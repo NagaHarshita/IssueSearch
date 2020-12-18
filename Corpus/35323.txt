@@ -1,0 +1,1 @@
+ URL : "https://github.com/rust-lang-nursery/reference/issues/102" TITLE : document sized trait BODY : currently the section for the trait just says the sized trait indicates that the size of this type is known at compile-time. . should expand on that more. should pull in the information on https://doc.rust-lang.org/std/marker/trait.sized.html at a minimum.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ivandokov/rockety-cli/issues/3" TITLE : fix rockety proxy command BODY : most of the environments cannot use the rockety proxy command properly. this has to be fixed.

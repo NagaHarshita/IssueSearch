@@ -1,0 +1,1 @@
+ URL : "https://github.com/IonDen/ion.rangeSlider/issues/509" TITLE : camelcase format for data BODY : for some reason if you assign data attribute as data-extraclasses slider does not pick up the value, but if you change it to data-extra-classes or data-extraclasses within ion rangeslider script too. it works

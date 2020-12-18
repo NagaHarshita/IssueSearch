@@ -1,0 +1,1 @@
+ URL : "https://github.com/go-gl/example/issues/63" TITLE : examples are broken BODY : the examples contain references to external resources e.g. github.com/go-gl/examples/data/bitmap_font.png , which do not exist.

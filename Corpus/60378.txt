@@ -1,0 +1,1 @@
+ URL : "https://github.com/konlpy/konlpy/issues/131" TITLE : 'tagger' is not defined BODY : mecab.sh를 curl로 받아서 설치했는데 계속 mecab = mecab 부분에서 nameerror이 납니다 파이썬 3.5.2이고 우분투입니다 installation에 나와있는 내용 그대로 따라해도 문제가 발생합니다

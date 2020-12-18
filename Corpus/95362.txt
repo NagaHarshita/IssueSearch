@@ -1,0 +1,1 @@
+ URL : "https://github.com/Gymnasiast/Cyndaron/issues/49" TITLE : css kaartverkoop aanpassen BODY : button.aantalkaarten { margin-top: -2px; margin-bottom: 2px; }

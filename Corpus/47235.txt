@@ -1,0 +1,1 @@
+ URL : "https://github.com/plasticrake/hs100-api/issues/6" TITLE : only finding 1 device BODY : i have 2 lb120 us lightbulbs that work correctly in the kasa app. when i run this demo code, it only finds 1 of them: js const hs100api = require 'hs100-api' const client = new hs100api.client client.startdiscovery .on 'plug-new', p => console.log p.name

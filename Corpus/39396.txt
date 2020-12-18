@@ -1,0 +1,1 @@
+ URL : "https://github.com/segmentio/analytics-ios-iads-attribution/issues/2" TITLE : send event just once BODY : currently the event is sent every time the tracker is initialized. would be easier for clients to initialize it unconditionally and have the tracker do it only on the first run.

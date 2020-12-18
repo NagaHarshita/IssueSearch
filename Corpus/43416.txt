@@ -1,0 +1,1 @@
+ URL : "https://github.com/IFRCGo/cbs/issues/76" TITLE : create alert database BODY : variables: -alert uid -timestamp - escalation uid alert uid is attributed to alert uid variable in all related reports

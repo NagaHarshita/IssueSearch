@@ -1,0 +1,1 @@
+ URL : "https://github.com/grails3book/feedback/issues/10" TITLE : domain class book BODY : <!--- please do not attach the book or full examples --> what release of the book did you find the issue in? version 0.5 describe the issue or feedback. source code of the class book at http://localhost/grails3/ _book this line: price range 0..100000 should be: price range: 0..100000

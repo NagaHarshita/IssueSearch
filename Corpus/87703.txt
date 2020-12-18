@@ -1,0 +1,1 @@
+ URL : "https://github.com/embulk/embulk/issues/739" TITLE : make decisions on cleanup BODY : the cleanup subcommand may not be working for a long time. my tweet in japanese: https://twitter.com/dmikurube/status/885376651739017216

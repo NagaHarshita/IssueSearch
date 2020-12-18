@@ -1,0 +1,1 @@
+ URL : "https://github.com/modelica/Modelica/issues/2306" TITLE : very complex c code BODY : in modelicastandardtable.c, around line 4387 but possibly elsewhere, i find the construct __glibc__ << 16 + __glibc_minor__ >= 2 << 16 + 3 could that possibly be re-written as __glibc__ >= 2 && __glibc_minor__ >= 3 i'm all in favor of simple code.

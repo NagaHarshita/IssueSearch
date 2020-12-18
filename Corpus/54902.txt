@@ -1,0 +1,1 @@
+ URL : "https://github.com/arijs/prettier-miscellaneous/issues/30" TITLE : how to use with eslint BODY : the readme is from prettier, but i am not sure how to use the prettier-miscellaneous with eslint, could give me a .eslintrc config demo? thx!

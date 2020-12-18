@@ -1,0 +1,1 @@
+ URL : "https://github.com/LiXizhi/NPL/issues/12" TITLE : on def {} BODY : i see that indentation in def {} are the same. i think the better logic is to ignore content reformat in def{} what do you think @darrengzy

@@ -1,0 +1,1 @@
+ URL : "https://github.com/datacarpentry/sql-ecology-lesson/issues/145" TITLE : minor formatting nit pick BODY : https://github.com/datacarpentry/sql-ecology-lesson/blob/gh-pages/_episodes/03-sql-joins-aliases.md select count from surveys; should perhaps read select count from surveys;

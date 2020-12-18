@@ -1,0 +1,1 @@
+ URL : "https://github.com/airbnb/enzyme/issues/1129" TITLE : v3 memory leak BODY : looks like the latest beta has a memory leak. need to look into it, but this might be a blocker

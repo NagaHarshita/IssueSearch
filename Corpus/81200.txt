@@ -1,0 +1,1 @@
+ URL : "https://github.com/uzbl/uzbl/issues/371" TITLE : webkit2 network settings BODY : from the list of removed variables in 225 there's quite a few network related options that would be good to bring back. proxy support made a comeback in 2.16 https://webkitgtk.org/reference/webkit2gtk/unstable/webkitnetworkproxysettings.html

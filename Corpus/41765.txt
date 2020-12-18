@@ -1,0 +1,1 @@
+ URL : "https://github.com/sorrell/SQLitePCL.core.Functions/issues/2" TITLE : add hashing functions BODY : it would be nice to have different hashing functions available, like mssql: hashbytes '', { @input | 'input' } ::= md5 | sha1 | sha2_256 | sha2_512

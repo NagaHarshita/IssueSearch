@@ -1,0 +1,1 @@
+ URL : "https://github.com/dshop-sophia/booker/issues/2" TITLE : handle /book slack command BODY : - extract params from the message that the backend receives - perform verification on provided argument - use outlook api to create events

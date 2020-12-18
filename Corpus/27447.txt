@@ -1,0 +1,1 @@
+ URL : "https://github.com/yamujine/artmatch/issues/368" TITLE : db 스키마 변경 BODY : db 관리 - exhibitions : 지원가능여부 status 필드 추가 필요 - places : status 칼럼 제거

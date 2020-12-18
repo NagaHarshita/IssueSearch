@@ -1,0 +1,1 @@
+ URL : "https://github.com/node-js-libs/cli/issues/98" TITLE : options per a command BODY : options and commands are defined separately. so functionality is mixed. some commands does not have some functionality provided by options. if such functionality exists i can not find it at the documentation.

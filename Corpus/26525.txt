@@ -1,0 +1,1 @@
+ URL : "https://github.com/aliou/bats.vim/issues/4" TITLE : better error format BODY : :help compilerset :help errorformat see existing https://github.com/aliou/bats.vim/blob/3e3459e74942d8ad00b967084248de15f1095765/compiler/bats.vim l17-l21 .

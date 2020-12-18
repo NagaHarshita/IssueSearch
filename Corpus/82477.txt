@@ -1,0 +1,1 @@
+ URL : "https://github.com/azusaaz/WhatsTheFile/issues/1" TITLE : add way to get md5 digest BODY : we need a way to get the md5 digest https://en.wikipedia.org/wiki/md5 for a file at a given path. for example, given a path like /home/kim/mydata.txt , which contains the text the quick brown fox jumps over the lazy dog , it should return 9e107d9d372bb6826bd81d3542a419d6 .

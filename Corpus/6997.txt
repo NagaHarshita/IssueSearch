@@ -1,0 +1,1 @@
+ URL : "https://github.com/rburchell/literm/issues/10" TITLE : crash on resize BODY : start literm, get some data on screen maybe a single long line in a shell prompt . then resize the terminal until the cursor would go off the screen for both x & y . it will crash. this is probably one of the issues behind 8.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/google/boardgame.io/issues/38" TITLE : a board/dealer player BODY : some moves need to be executed by the board itself either for clean up or setting up state . this should work seamlessly across single player and multiplayer modes. in multiplayer mode, the board logic should execute only on the server.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/nettitude/PoshC2/issues/11" TITLE : domain fronting clr v2 BODY : when using shellcode or reflective dll, domain fronting doesnt work in clr v2

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ASU-CodeDevils/FlashCards/issues/14" TITLE : e-mail entry validation BODY : issue: e-mail input allows for any wildcard entry so long as it contains an @ symbol, should conform to a rigid email standard like: username @ subdomain . domain . tld where there are 0.. subdomains and 1 domain and 1 tld reproduction steps: reproducible on all branches.

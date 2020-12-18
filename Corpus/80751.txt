@@ -1,0 +1,1 @@
+ URL : "https://github.com/slipstream/SlipStreamClient/issues/351" TITLE : update setup.py for pypi BODY : - dependencies - add ss-login and ss-logout

@@ -1,0 +1,1 @@
+ URL : "https://github.com/kubernetes/kops/issues/2631" TITLE : master disk size BODY : hi, we have a problem with master node on aws cluster. is it possibile to increase disk size of running master node? and how? thank you.

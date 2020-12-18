@@ -1,0 +1,1 @@
+ URL : "https://github.com/Coyox/AnimatronicServer/issues/10" TITLE : set an admin user BODY : define a config that sets the admin user id. their id cannot have permissions changed by others

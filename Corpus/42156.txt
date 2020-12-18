@@ -1,0 +1,1 @@
+ URL : "https://github.com/marielLatellaBarros/WebEssentials/issues/2" TITLE : alert does not pop up BODY : jquery18: alert $ 'button' .length ; it works in the slides exercises but not in my code.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/lderse/prj-rev-bwfs-tea-cozy/issues/2" TITLE : good body tag styling BODY : good use of inheritance in the body tag to set font and base font size. glad you caught the padding and margin reset for the body tags defaults as well. https://github.com/lderse/prj-rev-bwfs-tea-cozy/blob/master/tea-cozy/resources/css/style.css l1-l8

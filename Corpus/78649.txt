@@ -1,0 +1,1 @@
+ URL : "https://github.com/Kwoth/NadekoBot/issues/1241" TITLE : random currency amounts? BODY : finally found the botconfig table in nadekobot.db , and pinned down i think that currencydropamount is how much currency can be picked up when it spawns. my question is how can i make it a random number within a set of numbers, like say, one to one hundred?

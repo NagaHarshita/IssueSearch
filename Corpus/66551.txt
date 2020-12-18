@@ -1,0 +1,1 @@
+ URL : "https://github.com/PEDIA-Charite/PEDIA-workflow/issues/6" TITLE : multivcf generation bug BODY : multiple times it happens, that ref and alt are the same allele: like: 12	112915524	.	a	a	.	.	hgvs= nm_002834.3:c.923g>a

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ASP-NET-MVC-Boilerplate/Templates/issues/149" TITLE : typo in instructions BODY : > 4. run dotnew new bapi --name 'mytemplate' along should be > 4. run dotnet new bapi --name mytemplate along

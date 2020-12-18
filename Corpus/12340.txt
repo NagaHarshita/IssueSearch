@@ -1,0 +1,1 @@
+ URL : "https://github.com/szastupov/aiotg/issues/33" TITLE : old get/post api BODY : after update to aiohttp 1.0.0, aiotg has deprecated syntax for get and post requests. it should use aiohttp.clientsession .

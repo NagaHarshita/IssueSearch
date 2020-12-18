@@ -1,0 +1,1 @@
+ URL : "https://github.com/hblumberg/elm-latex/issues/1" TITLE : comments & wildcard match BODY : hi, some things i found to be missing are the following: __single line comments.__ i added the following to detect them: morecomment= l {--} __wildcard match.__ resulted in errors i think with testchar, but not sure , i formatted it as a symbol to resolved them like this: {_}{{\_}}1

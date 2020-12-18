@@ -1,0 +1,1 @@
+ URL : "https://github.com/ZZUTK/Face-Aging-CAAE/issues/7" TITLE : test image problem BODY : @zzutk test the image, i used dlib to face the face, and then cut. but when the prediction, face reconstruction deformation, fuzzy can not see, where is the problem?

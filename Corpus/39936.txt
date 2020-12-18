@@ -1,0 +1,1 @@
+ URL : "https://github.com/libretro/beetle-psx-libretro/issues/194" TITLE : support for wayland? BODY : while the core works fine on xorg/x11, trying it on wayland just leads to a black screen and this error in logs: retroarch error :: failed to connect to wayland server. did i do something wrong or wayland isn't supported yet?

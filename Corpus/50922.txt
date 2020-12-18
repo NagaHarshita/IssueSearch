@@ -1,0 +1,1 @@
+ URL : "https://github.com/KickAssCommerce/KickAssCommerce/issues/6" TITLE : add fancy interceptors BODY : implement something like https://github.com/goaop/framework to have fancy interceptors that allow for project specific business logic

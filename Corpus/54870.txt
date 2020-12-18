@@ -1,0 +1,1 @@
+ URL : "https://github.com/winfinit/mongodb-prebuilt/issues/38" TITLE : how to shutdown server BODY : in the documentation you mention that via the mongodb helper the server can be started. is there any way to shutdown that server instance programatically?

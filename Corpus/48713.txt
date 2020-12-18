@@ -1,0 +1,1 @@
+ URL : "https://github.com/TransparencyToolkit/Project/issues/76" TITLE : similar documents tab BODY : elasticsearch supports finding similar documents using tf-idf https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-mlt-query.html we should add an option for a similar documents tab in lookingglass, that shows documents similar to the current one.

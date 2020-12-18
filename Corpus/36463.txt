@@ -1,0 +1,1 @@
+ URL : "https://github.com/UKHomeOfficeForms/hof-roadmap/issues/10" TITLE : hof component design BODY : hof component design requirements and considerations: what do we hope to solve with components? what would the interface for a component look like? how could a component integrate with hof? what elements of an app could a component replace? where do we start?

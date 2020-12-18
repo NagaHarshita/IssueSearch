@@ -1,0 +1,1 @@
+ URL : "https://github.com/ArduCAM/ArduCAM_USB_Camera_Shield/issues/4" TITLE : ar0134 no image BODY : i'm having trouble getting the program to output live image. sudo python sudo python ar0134.py returns device open success! transfer task create success! and nothing else. how do i get live feed from camera?

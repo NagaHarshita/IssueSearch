@@ -1,0 +1,1 @@
+ URL : "https://github.com/VATSIM-UK/core/issues/758" TITLE : music stops playing BODY : music stops playing on a mobile device when core dashboard is loaded. the issue has been observed when inputting a secondary password and the music stops on successful redirection to the dashboard. other instances of the issue may exist.

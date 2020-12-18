@@ -1,0 +1,1 @@
+ URL : "https://github.com/benhoyt/scandir/issues/82" TITLE : can't install with pip BODY : python version: 2.7 traceback: ... marker_expr = originaltextfor marker_expr marker typeerror: __call__ takes exactly 2 arguments 1 given it happend when i install jupyter with pip. i tried to download md5 file and install scandir using command 'python setup.py install'. but it can't work.

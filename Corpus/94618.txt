@@ -1,0 +1,1 @@
+ URL : "https://github.com/AxlLind/2D-platformer/issues/76" TITLE : change how the game starts BODY : currently when you press start the game instantly starts. could implement a count down of maybe 3 sec until the player starts jumping.

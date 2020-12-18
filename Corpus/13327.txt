@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/AirSim/issues/365" TITLE : travis auto test BODY : not sure if you guys noticed but currently the travis ci auto test has been failing for the past almost 20 build tests. all of them have an error on clang++ and libc++. @sytelus

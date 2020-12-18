@@ -1,0 +1,1 @@
+ URL : "https://github.com/dotCMS/core/issues/13149" TITLE : create container component BODY : 1. will receive a container id 2. print the name 3. print the notes in an overlay popup 4. emit an event when user click in the + button.

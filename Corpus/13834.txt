@@ -1,0 +1,1 @@
+ URL : "https://github.com/mattharrison/IllustratedPy3/issues/93" TITLE : 17.6 missing word BODY : i think it would be clearer for the last line to say: ... when the function _name_ is passed into the help function.

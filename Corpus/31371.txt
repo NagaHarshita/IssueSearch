@@ -1,0 +1,1 @@
+ URL : "https://github.com/xmrig/xmrig/issues/180" TITLE : setting hash limit! BODY : title has it all, is there any way i could set a hash limit, my servers could provide upto 300h/s but i want them to give me no more than 135h/s. i've tried -t and --max-cpu arguments both are either going wayyy up or wayy down. if there is any way please do tell me, thank you!

@@ -1,0 +1,1 @@
+ URL : "https://github.com/End-to-end-provenance/DDG-Explorer/issues/98" TITLE : show file values BODY : right clicking on a file node in a workflow and clicking show value should either display a message that the file does not exist if it has been overwritten or display the file.

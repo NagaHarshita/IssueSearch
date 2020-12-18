@@ -1,0 +1,1 @@
+ URL : "https://github.com/CorpGlory/grafana-progress-list/issues/31" TITLE : max value limit BODY : the case https://github.com/corpglory/grafana-progress-list/issues/13 i can't show 100% cuz not always you have 100% i need to set max value to auto which would work as it works now.

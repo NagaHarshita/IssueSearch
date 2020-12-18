@@ -1,0 +1,1 @@
+ URL : "https://github.com/piotrmurach/tty-prompt/issues/40" TITLE : add press_any_key prompt BODY : something like: any_key 'somethings about to happen, press any key to continue' and with countdown: any_key 'somethings about to happen, press any key to continue, continuing automatically in...', countdown: 10 which would continue automatically once the countdown reaches zero

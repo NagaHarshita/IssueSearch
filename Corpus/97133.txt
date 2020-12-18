@@ -1,0 +1,1 @@
+ URL : "https://github.com/mirage/ocaml-cstruct/issues/174" TITLE : float conversion functions BODY : introduce functions to handle float fields.

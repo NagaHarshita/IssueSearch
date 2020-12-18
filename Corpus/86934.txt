@@ -1,0 +1,1 @@
+ URL : "https://github.com/joomla/volunteers.joomla.org/issues/121" TITLE : indicator for team status BODY : the team records already have a status field which should presumably be used to set its status within the project. would it be possible to display this somehow outside of the edit page?

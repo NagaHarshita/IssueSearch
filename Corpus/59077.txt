@@ -1,0 +1,28 @@
+ URL : "https://github.com/jonathanpchan/openclassroom/issues/99" TITLE : test before deployment BODY : check each page.
+1 clone from scratch
+2 npm install in openclassroom
+3 npm install in angular-src
+4 register new user
+4a missing field
+4b resize the window
+4c actually register
+4d attempt to register with same credentials
+5 login
+5a missing information
+5b wrong information
+5c resize the window
+5d register with right credentials
+6 make sure button clicks go to the correct component on home page
+6a resize the window
+7 resize the window and check navbar
+8 make sure the navbar hides after you click a dropdown navbar item only find open classroom should not work 9 navigate to my schedule
+9a add a course, attempt to add early missing field 9c add a coures, fill out information, and say yes
+9d add a course, but then click back
+9e attempt to add same course
+9f add a course, fill out information, but say no make sure the added items are sorted by building & building 10 delete item
+10a delete remaining items you probably noticed that there's an issue with the alerts when you perform actions too quickly 11 find openclassroom
+11a all rooms
+11b find now
+11c by time
+11d shrink and grow the size of the by time
+11e resize to make sure the buttons stack

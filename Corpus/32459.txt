@@ -1,0 +1,1 @@
+ URL : "https://github.com/ceph/cn/issues/9" TITLE : use native s3 calls BODY : currently cn uses s3cmd as a wrapper this works, but a nice enhancement would be to do native s3 api calls instead.

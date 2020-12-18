@@ -1,0 +1,1 @@
+ URL : "https://github.com/Dadido3/D3hex/issues/16" TITLE : add statistics, math nodes BODY : statistics: - entropy chunk based and over all - mean, mode chunk based and over all - max, min chunk based and over all - histogram 1d, 2d, 3d, shifted signal processing: - crosscorrelation, autocorrelation - discrete fourier transformation - convolution math: - basic math operations

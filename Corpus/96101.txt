@@ -1,0 +1,1 @@
+ URL : "https://github.com/BirkbeckCTP/janeway/issues/112" TITLE : editing journal from press BODY : when editing a journal from a press and a user attempts to upload a thumb image there will be an error as there is no request.journal. the view should set request.journal in this instance and then unset it after.

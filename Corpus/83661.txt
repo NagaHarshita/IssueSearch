@@ -1,0 +1,1 @@
+ URL : "https://github.com/parttimenerd/WhileSemantic/issues/3" TITLE : check initial state early BODY : do not try to execute program and fail if the initial state's domain does not cover the set of used variables. <b := c, {}> --> this.value is undefined <{var x := 1; skip}, {}> --> funcs com.constructor.name is undefined only using ss semantics

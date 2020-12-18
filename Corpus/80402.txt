@@ -1,0 +1,1 @@
+ URL : "https://github.com/sciencefans/RSA-for-object-detection/issues/6" TITLE : training code is missing BODY : @sciencefans : dear sir, in your readme you have written that train/: training code for modules scale-forecast network and rsa but the train folder itself is missing on your repository, either you forgot to upload or its not public.

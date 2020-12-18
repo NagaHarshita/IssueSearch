@@ -1,0 +1,1 @@
+ URL : "https://github.com/bp74/StageXL/issues/277" TITLE : clipping occurs sometimes BODY : there's certainly an issue where sometimes displayobjects get clipped. it's as if the width and height properties are not correct. i'm going to try to give you an minimal case soon.

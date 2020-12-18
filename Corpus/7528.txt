@@ -1,0 +1,1 @@
+ URL : "https://github.com/nschloe/pygmsh/issues/77" TITLE : gmsh 3 features BODY : would you accept patches that work only with gmsh 3? i am thinking about opencascade boolean operations. of course those would be properly guarded to avoid errors with gmsh 2.

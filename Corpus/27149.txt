@@ -1,0 +1,1 @@
+ URL : "https://github.com/postlund/hass-config/issues/6" TITLE : control tv with cec BODY : since i have the ha rpi close to the tv now, maybe i should try to control the tv via cec instead of ir with broadlink. might be more stable.

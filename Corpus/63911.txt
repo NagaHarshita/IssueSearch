@@ -1,0 +1,1 @@
+ URL : "https://github.com/okfn/wikipediajs/issues/10" TITLE : fail to load over https BODY : i tried to use wikipedia.js in plunker of the example shown in the home page. here's the link https://plnkr.co/edit/m0dzbq2ogppkz116bu7e?p=preview url it works with http but fails with https. if i am not mistaken, is there a solution to that? best regards, yi

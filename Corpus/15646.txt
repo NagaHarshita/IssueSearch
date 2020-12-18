@@ -1,0 +1,1 @@
+ URL : "https://github.com/mrijk/speculaas/issues/15" TITLE : failing test case BODY : this doesn't work yet: it 'should handle list of values', => { s.def '::config', s.star s.cat ':prop', isstring, ':val', '::bool-or-string' ; expect s.conform '::config', '-server', 'foo', '-verbose', true, 'user', 'joe' .to.eql ; } ;

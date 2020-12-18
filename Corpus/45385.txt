@@ -1,0 +1,1 @@
+ URL : "https://github.com/apprenda/kismatic/issues/744" TITLE : http proxy, etcd play BODY : currently the proxy variables are defined at higher level plays _etcd.yaml , this is causing an issue when running etcd cluster health if the etcd ips are not specified in no_proxy . the proxy variables should only be set on the tasks that need it.

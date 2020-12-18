@@ -1,0 +1,1 @@
+ URL : "https://github.com/EightShapes/esds-build/issues/77" TITLE : rename config file BODY : currently eightshapes-build-tools-config.js|json - should at least be shortened to esds-build.js|json . decide a final name before 1.0.0 release.

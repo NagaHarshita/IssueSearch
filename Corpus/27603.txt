@@ -1,0 +1,1 @@
+ URL : "https://github.com/iulianstana/reddit-rpc/issues/1" TITLE : docker for services BODY : create docker containers to link mongo database with flask server and reddit controller.

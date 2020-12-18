@@ -1,0 +1,1 @@
+ URL : "https://github.com/callstack-io/linaria/issues/100" TITLE : rewire require statements BODY : currently only import statements are rewired. require calls should be rewired too. refer 49 for details.

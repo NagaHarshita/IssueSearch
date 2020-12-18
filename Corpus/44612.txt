@@ -1,0 +1,1 @@
+ URL : "https://github.com/baptistegendron/gulp-svg-inject/issues/1" TITLE : file cannot by found. BODY : i can't use it because the plugin won't file the svg file. error: could not find/read svg file img/menu.svg : error: enoent: no such file or directory, open './img/menu.svg' in my html i'm using: <img src= img/menu.svg alt= > i'm i missing something?

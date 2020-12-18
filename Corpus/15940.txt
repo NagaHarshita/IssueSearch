@@ -1,0 +1,1 @@
+ URL : "https://github.com/caperneoignis/moodle-php-apache/issues/6" TITLE : get git installed BODY : because running vendor calls with php in the container will throw an error within apache, since some cicd runners run in the image and not through exec calls.

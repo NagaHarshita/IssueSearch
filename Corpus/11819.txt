@@ -1,0 +1,1 @@
+ URL : "https://github.com/AlexeyTsukanov/Lessons/issues/7" TITLE : lesson 8 matrix1 BODY : 1. на вход метода plus пусть поступает другая матрица. 2. результатом методов plus and multiplication пусть будет тоже матрица. 3. а где создание объектов и вызов методов?

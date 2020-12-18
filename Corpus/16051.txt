@@ -1,0 +1,1 @@
+ URL : "https://github.com/Feodor2/Mypal/issues/1" TITLE : h264 video patch? BODY : > now you can watch h264 video, but with k-lite codecs or just lav splitter. it seems that this part is not included in restorexp.patch or portable.patch

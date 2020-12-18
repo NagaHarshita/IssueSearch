@@ -1,0 +1,1 @@
+ URL : "https://github.com/apache/incubator-mxnet/issues/8203" TITLE : how to release the gpu?! BODY : hi, i find that the mxnet use the model to training ,but afer training ,i want to know how to release the memory so i can do the task other? i find there is no api to release the gpu memory !!

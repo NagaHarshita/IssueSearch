@@ -1,0 +1,1 @@
+ URL : "https://github.com/fnoop/maverick/issues/695" TITLE : wifi ap mode broken BODY : setting ap mode doesn't work. hostapd service doesn't run.

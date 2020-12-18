@@ -1,0 +1,1 @@
+ URL : "https://github.com/pluginsGLPI/formcreator/issues/837" TITLE : errors in change ticket BODY : hi, when the form is destined for change type, the following errors occur: 1. it does not transfer the information from the form to the change ticket description box. 2. the destination name is modified to formcreator . in use: glpi 9.2.1 and formcreator 2.6.0

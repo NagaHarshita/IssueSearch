@@ -1,0 +1,1 @@
+ URL : "https://github.com/ORCID/ORCID-Source/issues/3608" TITLE : journal title in /works BODY : apiv1 allowed for you to get the name of journal/conference that a publication was presented at. doesn't seem to be similar functionality in the /works part of apiv2.0

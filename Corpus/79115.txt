@@ -1,0 +1,1 @@
+ URL : "https://github.com/ray-project/ray/issues/922" TITLE : rllib get rid of opencv2 BODY : it often causes problems during installation on linux. also on jenkins recently, see https://amplab.cs.berkeley.edu/jenkins/job/ray-prb/1759/console.

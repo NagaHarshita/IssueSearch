@@ -1,0 +1,1 @@
+ URL : "https://github.com/micropython/micropython-esp32/issues/15" TITLE : adding neopixel support BODY : opening this issue so i can commit and open a pr against it - the lca2017 open hardware kit has an esp32 and neopixels. now they work together in shiny harmony. actually, the leds are apa106, but other than the rgb/grb order, the apa106 seems to work with stock ws2812 code.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/kriasoft/react-starter-kit/issues/1351" TITLE : how can i remove hmr? BODY : hi all, the reason i want to do this. because i am not sure why but the hmr doesn't work on mobile ipad, tablet failed to load resource: the network connection was lost. with the link /__webpack_hmr

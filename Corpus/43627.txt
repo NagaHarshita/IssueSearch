@@ -1,0 +1,1 @@
+ URL : "https://github.com/robeio/robe-react-ui/issues/47" TITLE : custom urls for store BODY : robe react ui version: 1.1.18 robe react commons: version: 1.0.84 store should be able to take different custom urls and http methods. for crud operations.

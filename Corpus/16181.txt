@@ -1,0 +1,1 @@
+ URL : "https://github.com/facebook-atom/atom-ide-ui/issues/60" TITLE : how to use the ui BODY : i have installed the atom-ide-ui and ide-typescript package, now when i open a javascript file, i still get the same old ui, nothing new. am i doing something wrong?

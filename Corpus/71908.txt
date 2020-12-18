@@ -1,0 +1,1 @@
+ URL : "https://github.com/prody/ProDy/issues/365" TITLE : animation is not working BODY : hi, while trying to animate modes of my system, the slider bar in vmd main window is moving but nothing is happening in the display. for each modes, i see the arrows but not the motion. any help will be appreciated. thanks anjela.

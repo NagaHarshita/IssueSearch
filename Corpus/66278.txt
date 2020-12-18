@@ -1,0 +1,1 @@
+ URL : "https://github.com/mattimaier/bnote/issues/284" TITLE : migrate ui to bootstrap BODY : change the entire layout of the application to a bootstrap theme. responsive better navigation make better use of the space with folding sidebar

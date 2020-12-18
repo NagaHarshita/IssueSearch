@@ -1,0 +1,1 @@
+ URL : "https://github.com/betaflight/betaflight/issues/4213" TITLE : dshot commands buzzer BODY : i have tried to setup buzzer to beep when i failsafe but did not work. at betaflight it showed that it should beep but it does not. omnibus f3, x6b receiver, ibus, fs i6, betaflight 3.2 rc5

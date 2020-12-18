@@ -1,0 +1,1 @@
+ URL : "https://github.com/khaosdoctor/setup/issues/8" TITLE : close and reopen windows BODY : after installing, create another batch file to upgrade and install packages such as yarn, composer and gems because the path variable is not set on the last session and this gives an error during the process

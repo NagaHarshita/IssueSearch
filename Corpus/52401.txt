@@ -1,0 +1,1 @@
+ URL : "https://github.com/nfiles/bacc-website/issues/5" TITLE : cli usage/help message BODY : create a cli usage/help message. a tool like command-line-usage https://github.com/75lb/command-line-usage would be convenient because it integrates well with command-line-args https://github.com/75lb/command-line-args , which we are already using.

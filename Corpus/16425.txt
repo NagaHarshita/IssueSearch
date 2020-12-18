@@ -1,0 +1,1 @@
+ URL : "https://github.com/pedroelsner/force-regenerate-thumbnails/issues/9" TITLE : ingore .ico files BODY : .ico files should be exluded from the regeneration process because it throws an 'unknown failure' error.

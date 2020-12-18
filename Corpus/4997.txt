@@ -1,0 +1,1 @@
+ URL : "https://github.com/cs3157/recitations/issues/110" TITLE : is this right? BODY : can't you just directly modify the pointers of prevnode? why do you need to search the list? https://github.com/cs3157/recitations/blob/master/h-linked-lists/linked-lists.md adding-a-node-after-another-node

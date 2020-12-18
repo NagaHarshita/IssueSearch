@@ -1,0 +1,1 @@
+ URL : "https://github.com/dynamic/silverstripe-member-profiles/issues/12" TITLE : register - redirect BODY : seems to redirect back to itself on successful registration. should log user in and go to view profile

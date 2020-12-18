@@ -1,0 +1,1 @@
+ URL : "https://github.com/bennofs/nix-script/issues/4" TITLE : what is this good for? BODY : ...in the best possible way. ;- the readme describes a little bit of how it can be used, but not how it's superior to invoking nix-shell directly. since nix-shell is bundled with nix, and this is not, i think you need to at least add a feature matrix.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mgattozzi/github-rs/issues/72" TITLE : support async calls BODY : this can be done through reqwest's async client currently unstable . instead of responses, a future with the response is returned instead. it is up to the application to set up an event loop to handle the futures.

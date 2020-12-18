@@ -1,0 +1,1 @@
+ URL : "https://github.com/flexsurfer/re-frisk/issues/38" TITLE : metadata leak in re-frisk BODY : not sure if this should be put here, but re-frisk is possible the culprit for this metadata leak: https://github.com/day8/re-frame/issues/365 issuecomment-315356432 also, note the very large compile time introduced by re-frisk.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Financial-Times/upp-next-video-annotations-mapper/issues/3" TITLE : s3 bucket change BODY : we have recently changed the s3 bucket from ftvideo.prod.zencoder.outputs to a new one with a different name. is this something you need to be aware of?

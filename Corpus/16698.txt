@@ -1,0 +1,1 @@
+ URL : "https://github.com/DIBS-Payment-Services/Prestashop1_dibseasy/issues/2" TITLE : live - oops error BODY : ! screen shot 2017-07-25 at 15 03 19 https://user-images.githubusercontent.com/23499563/28573273-73f4ec06-714a-11e7-956b-f8f8fef3d6c4.png changed our module from test to live, and get this error. can you help investigate this?

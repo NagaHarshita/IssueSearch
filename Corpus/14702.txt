@@ -1,0 +1,1 @@
+ URL : "https://github.com/tanepiper/takeoff/issues/5" TITLE : build ci pipeline BODY : should be able to test that any release is stable between backend and frontend via end-to-end testing. do this via pipeline such as circleci

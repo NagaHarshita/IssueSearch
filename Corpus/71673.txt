@@ -1,0 +1,1 @@
+ URL : "https://github.com/oconnor663/os_pipe.rs/issues/9" TITLE : add the intohandle trait BODY : this will probably replace fromfile . the goal is to replace stdout_file etc. with stdout_handle , and have it take this trait bound. https://github.com/oconnor663/duct.rs/issues/35

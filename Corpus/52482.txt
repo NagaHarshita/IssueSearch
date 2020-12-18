@@ -1,0 +1,1 @@
+ URL : "https://github.com/GriddleGriddle/Griddle/issues/635" TITLE : columns doesn't update BODY : griddle version 1.2.0 expected behavior i should see the column b and hide column a. actual behavior column a is visible, but column b is not. steps to reproduce - set data {a:5} and column defs {id:'a'} ; - set data {b:5} and column defs {id:'b'} ;

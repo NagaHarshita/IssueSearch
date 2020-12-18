@@ -1,0 +1,1 @@
+ URL : "https://github.com/overturetool/vdm2c/issues/88" TITLE : finalise the tostring BODY : there is already some work on a pretty printer functions for tvps in prettyprinter.c. we need to finalise this function as we need it to test the alarm example. also, ensure that the top-level function is called tostring rather than printvdmbasicvalue .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/devops-s17-payments/payments/issues/110" TITLE : fix db design/connection BODY : refer to flask tutorial to get started http://flask.pocoo.org/docs/0.12/patterns/sqlalchemy/

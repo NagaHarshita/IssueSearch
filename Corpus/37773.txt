@@ -1,0 +1,1 @@
+ URL : "https://github.com/tgit23/RPieces-TableTopXYZ/issues/5" TITLE : motors don't release BODY : the grbl firmware for this project needs to be modified so that the motors will released after a certain amount of time see issue details at https://github.com/tgit23/grbl-28byj-48/issues/1

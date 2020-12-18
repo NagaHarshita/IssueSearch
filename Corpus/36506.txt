@@ -1,0 +1,1 @@
+ URL : "https://github.com/shkuznetsov/gulp-minify-inline/issues/14" TITLE : how to catch errors? BODY : i got error undefined:1555 throw new js_parse_error message, filename, line, col, pos ; ^ error when running gulp-minify-inline, but i have no idea which line and which file went wrong is there any way to catch errors?

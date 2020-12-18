@@ -1,0 +1,1 @@
+ URL : "https://github.com/imolorhe/altair/issues/136" TITLE : sign mac app BODY : <!--- provide a general summary of the issue in the title above --> the mac app binary file is unsigned, preventing some macbooks from being able to install it.

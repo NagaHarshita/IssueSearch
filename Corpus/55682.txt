@@ -1,0 +1,1 @@
+ URL : "https://github.com/usc-isi-i2/dig-etl-engine/issues/61" TITLE : large data file upload BODY : possible solutions for sync file upload: - in werkzeug, process data streamly while uploading. - split large file in front end, limit file size and timeout in nginx. solutions for async file upload: - add lock - limit thread number

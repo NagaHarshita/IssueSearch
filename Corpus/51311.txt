@@ -1,0 +1,1 @@
+ URL : "https://github.com/rostockahoi/choice-company/issues/8" TITLE : adjust body font color BODY : problem contrast of body copy is too low: - current body font color 959595 - current body background color: fff solution darken body font color to at least: 757575 to pass wcag aa web content accessibility guidelines

@@ -1,0 +1,1 @@
+ URL : "https://github.com/18F/omb-eregs/issues/304" TITLE : convert icons into a font BODY : once our icons are finalized, let's convert them into a font to reduce the number of http requests which leads to faster load times . cc @micahtaylor in case he knows 1. when we have a final icon list 2. how to create such a font :

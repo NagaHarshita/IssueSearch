@@ -1,0 +1,1 @@
+ URL : "https://github.com/FSA-JEFS/Grace-Shopper/issues/33" TITLE : fetch products thunk BODY : a thunk and action creator to fetch products into the state from the db, so that users can see products

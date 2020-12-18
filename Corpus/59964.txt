@@ -1,0 +1,1 @@
+ URL : "https://github.com/ZELLMECHANIK-DRESDEN/ShapeOut/issues/130" TITLE : video frame offset = 0 BODY : in a measurement where the first frame in the _imaq.avi file corresponds to the first line in the .tdms file the contours are not shown. in the para.ini file video frame offset = 0 is set.

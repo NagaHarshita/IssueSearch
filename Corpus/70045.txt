@@ -1,0 +1,1 @@
+ URL : "https://github.com/hannesmuehleisen/MonetDBLite-Python/issues/7" TITLE : update pypi with 0.2.0? BODY : pypi has still the 0.1.9 version i.e. without the fix for anaconda .

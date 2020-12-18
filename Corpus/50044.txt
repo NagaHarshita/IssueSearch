@@ -1,0 +1,1 @@
+ URL : "https://github.com/coala/coala-quickstart/issues/88" TITLE : validate user's input BODY : currently, the user inputs for the values of the settings are not validated and directly are directly written in the generated .coafile . we need a way to validate those inputs first. status/needs discussion

@@ -1,0 +1,1 @@
+ URL : "https://github.com/epnev/ca_source_extraction/issues/53" TITLE : bug in memmap_file BODY : memmap_file uses the function tiff_reader with 3 arguments filename, startingframe, num2read and gives an error. changing both instances lines 33 & 60 of tiff_reader to bigread2 solved the issue.

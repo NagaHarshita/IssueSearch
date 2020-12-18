@@ -1,0 +1,1 @@
+ URL : "https://github.com/nrc/rustw/issues/139" TITLE : doc links are incorrect BODY : e.g., string ought to be: https://doc.rust-lang.org/nightly/std/string/string.t.html , but is https://doc.rust-lang.org/nightly/alloc/string.t.html string.t . the crate is wrong, there is a missing string module and there should be no anchor.

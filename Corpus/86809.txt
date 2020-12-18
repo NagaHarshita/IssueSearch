@@ -1,0 +1,1 @@
+ URL : "https://github.com/nlindblad/confidential/issues/1" TITLE : improve cli flag handling BODY : create proper sub-commands using github.com/urfave/cli .

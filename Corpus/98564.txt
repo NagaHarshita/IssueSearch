@@ -1,0 +1,1 @@
+ URL : "https://github.com/bsamm/losdodgers/issues/1" TITLE : issue with gh pages deploy BODY : deployed to pages: https://bsamm.github.io/losdodgers/public/ but, the urls are wrong, and the links dont work. i think the 'public' folder needs to be the root.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/duo3d/duo3d_driver/issues/9" TITLE : 64bit arm binaries tx1 BODY : the newest linux4tegra 16.04 distribution finally ships a 64-bit userland. older versions had a 32-bit userland on top of a 64-bit kernel, a pretty painful setup. can you please provide aarch64 .so libraries that we can use on the tx1? i can provide the hardware for testing if needed.

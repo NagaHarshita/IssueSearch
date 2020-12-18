@@ -1,0 +1,1 @@
+ URL : "https://github.com/Tim-sdd-spring2017/Tim/issues/30" TITLE : buggy deleting taskblocks BODY : sometimes taskblocks won't be removed, doesn't always happen. might happen because getevents is called and it is reinserted. problem might be located in index.js or eventcontainer.js

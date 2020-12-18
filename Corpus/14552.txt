@@ -1,0 +1,1 @@
+ URL : "https://github.com/artf/grapesjs/issues/299" TITLE : autosave on keyup BODY : hi, currently autosave is working on element focus out, i want it to autosave on keyup as well. tia.

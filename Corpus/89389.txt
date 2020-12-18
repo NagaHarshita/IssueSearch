@@ -1,0 +1,1 @@
+ URL : "https://github.com/hpi-swa/animations/issues/8" TITLE : provide custom dependents BODY : since animations signal state-change via change/update, use a custom dependents array. might improve performance.

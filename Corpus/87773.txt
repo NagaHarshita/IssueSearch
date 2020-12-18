@@ -1,0 +1,1 @@
+ URL : "https://github.com/longboatio/longboat/issues/8" TITLE : manage ansible.cfg or not BODY : there should be an option in longboat.cfg , wether the ansible.cfg files should be managed or not. default should be true .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/containers-tools/cct/issues/101" TITLE : drop bash module BODY : bash modules with functions doesn't seem like a good fit now - drop it.

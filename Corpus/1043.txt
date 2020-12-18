@@ -1,0 +1,1 @@
+ URL : "https://github.com/arkverse/SwiftRecord/issues/28" TITLE : find method BODY : the function used to get one single object gives me ambiguous use of find in swift 3

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ctripcorp/apollo/issues/692" TITLE : .net core 2.0支持 BODY : .net core 2.0已经发布,编译apollo .net 客服端设置为netcore2.0后,有几个错误编译不过 不支持 system.runtime.remoting.messaging httpcontext需要改为使用system.net.http 不支持 synchronizedcollection 望能尽快支持

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Storj/bridge/issues/427" TITLE : list mirror issues BODY : - doesn't include the original contact that the data was uploaded to, see https://github.com/storj/bridge/issues/345 from @littleskunk - mirrors are not sorted in the correct order, see https://github.com/storj/bridge/issues/416 from @dxhome

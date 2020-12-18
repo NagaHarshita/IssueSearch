@@ -1,0 +1,1 @@
+ URL : "https://github.com/SAP/techne/issues/959" TITLE : design dropdown menu BODY : need a comparable dropdown to the bootstrap version. https://getbootstrap.com/docs/4.0/components/dropdowns/ this is used in the toolbar component and is similar to the contextual menu.

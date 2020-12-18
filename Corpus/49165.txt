@@ -1,0 +1,1 @@
+ URL : "https://github.com/phetsims/fractions-intro/issues/35" TITLE : switch default: break BODY : there looks like an empty default case in bucketnode. usually in this case we'd add a throw new error ... in this case, since it looks like it should never be reached.

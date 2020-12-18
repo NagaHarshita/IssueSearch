@@ -1,0 +1,1 @@
+ URL : "https://github.com/jadbox/mongoose-sql/issues/1" TITLE : tables are not created BODY : tables are not created automatically, so when i try to use mongoose-sql instead of mongoose, the app will crash on insert.

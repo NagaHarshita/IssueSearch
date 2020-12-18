@@ -1,0 +1,1 @@
+ URL : "https://github.com/Zehaos/TFSTN/issues/1" TITLE : tensorboard is blank BODY : i input tensorboard --logdir=/tmp/zehao/logs/stn/train and it shows: starting tensorboard 55 at http://han:6006 press ctrl+c to quit but when i input http://han:6006,there is nothing to show please help me~~~

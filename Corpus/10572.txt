@@ -1,0 +1,1 @@
+ URL : "https://github.com/joshua-fogg/gear-compare/issues/6" TITLE : convert to redux BODY : - npm i react-redux redux combine-reducer --save - index.js: - import createstore from redux - import provider from 'react-redux' - store = createstore state= initial state, action { return state } - wrap <app /> in a <provider>

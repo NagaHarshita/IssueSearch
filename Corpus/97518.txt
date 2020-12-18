@@ -1,0 +1,1 @@
+ URL : "https://github.com/sahlberg/libsmb2/issues/4" TITLE : handle unknown aces better BODY : we currently drop any aces we do not understand. we should probably keep these as-is as blobs so that we will be able to fetch/mutate-some-aces/store without loss of aces.

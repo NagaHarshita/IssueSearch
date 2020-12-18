@@ -1,0 +1,1 @@
+ URL : "https://github.com/concourse/concourse/issues/1257" TITLE : proposal: login error BODY : proposal for error feedback to users for invalid credentials when logging in. example ! login_error_01.png https://codetreeusercontent.s3.amazonaws.com/uploads/d01aaa13-1d44-408c-b443-56e8da50c62b/login_error_01.png

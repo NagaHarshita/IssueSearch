@@ -1,0 +1,1 @@
+ URL : "https://github.com/DmitryUlyanov/online-neural-doodle/issues/6" TITLE : run on cpu BODY : i want to generate images using cpu don't want to train . how do i modify the code to do this? seeing the results on likemo.net http://likemo.net/ isn't an option for me.

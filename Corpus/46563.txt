@@ -1,0 +1,1 @@
+ URL : "https://github.com/dwyl/process-handbook/issues/59" TITLE : milestone build order BODY : why do we build from top to bottom? when new issues are added to a milestone they are automatically added to the top of the list, but this doesn't work with our build flow - why not build bottom to top?

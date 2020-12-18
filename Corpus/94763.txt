@@ -1,0 +1,1 @@
+ URL : "https://github.com/bobbylight/climatediff/issues/11" TITLE : clean up city names in url BODY : convert spaces %20 s to underscores to clean up the bookmarkable urls.

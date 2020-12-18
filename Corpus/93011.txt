@@ -1,0 +1,1 @@
+ URL : "https://github.com/Kanma/MPQExtractor/issues/15" TITLE : add an overwrite function? BODY : could you add an overwrite function? so it overwrites files if there are multiple times the same file in different directories and we don't use the full path option. i tried without the -f option and it just said failed to extract

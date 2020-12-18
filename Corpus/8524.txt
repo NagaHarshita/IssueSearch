@@ -1,0 +1,1 @@
+ URL : "https://github.com/Zumata/generator-zumata-npm/issues/17" TITLE : patch is needed BODY : diff { extends : zumata , plugins : , + root : true, rules : { + camelcase : + error , + { properties : never } + , + no-bitwise : + error , + { allow : ^ } + , no-console : error , { allow : info , log , error , warn } } }

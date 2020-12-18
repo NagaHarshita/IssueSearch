@@ -1,0 +1,1 @@
+ URL : "https://github.com/runemadsen/rune.js/issues/27" TITLE : r.getel is undefined BODY : i did find it in one of the older commits. is r.el the preferred method to access the svg now?

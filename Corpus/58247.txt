@@ -1,0 +1,1 @@
+ URL : "https://github.com/ilastik/marching_cubes/issues/2" TITLE : segfaults on tiny data BODY : i've observed segfaults on pathologically tiny data, such as 1-voxel volumes.

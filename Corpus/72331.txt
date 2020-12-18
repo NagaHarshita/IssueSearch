@@ -1,0 +1,1 @@
+ URL : "https://github.com/gnomeontherun/gitbook-plugin-swagger/issues/5" TITLE : broken link to bundle.js BODY : the generated html pages have a reference to bundle.js: <script src= bundle.js type= application/javascript ></script> that js file isn't found in the built book. to debug, i've removed all of my other plugins, so this js link must be coming from this plugin.

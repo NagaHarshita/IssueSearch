@@ -1,0 +1,1 @@
+ URL : "https://github.com/baoyongzhang/android-ActionSheet/issues/31" TITLE : how to use it to fragment BODY : i cannot use it to fragment when i set actionsheet. it cannot find getsupportfragmentmanager .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/DistanceDevelopment/DSsim/issues/33" TITLE : cluster size bugs BODY : error in results$expected.size strat, c expected.s , se.expected.s , : replacement has length zero calls: run ... .local -> single.simulation.loop -> store.dht.results error in .local object, ... : no slot of name size.table for this object of class population.description

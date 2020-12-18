@@ -1,0 +1,1 @@
+ URL : "https://github.com/harvard-lil/perma/issues/2048" TITLE : vagrant and vpn BODY : we should come up with some way to use the vagrant dev box while logged into the harvard vpn. so that, for instance, we can tail the production logs all day

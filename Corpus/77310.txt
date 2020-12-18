@@ -1,0 +1,1 @@
+ URL : "https://github.com/electron/spectron/issues/220" TITLE : multiremote for spectron BODY : hi, i am trying to use multiremote of webdriver.io with spectron so i will be able to run multiple instances of my application in the same test. is there a solution for this? no matter what i tried, i cannot make it work. thanks thanos

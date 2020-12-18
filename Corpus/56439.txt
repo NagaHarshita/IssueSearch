@@ -1,0 +1,1 @@
+ URL : "https://github.com/termux/termux-packages/issues/1600" TITLE : need php-mysql package BODY : i try to develop the lamp stack and found that my php code which tried to access mysql actually mariadb throwed this call to undefined function mysqli_init so i think i should install something like 'php-mysql' but cound not found on 'pkg list-all'

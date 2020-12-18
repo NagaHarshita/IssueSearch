@@ -1,0 +1,1 @@
+ URL : "https://github.com/USGS-R/training-curriculum/issues/114" TITLE : sbtools: getting data BODY : parent: sbtools: accessing cloud-based data retrieving data - inspecting and downloading files - using sciencebase's web feature services to visualize spatial data

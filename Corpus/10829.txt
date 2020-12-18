@@ -1,0 +1,1 @@
+ URL : "https://github.com/kairen/kube-s3-portal/issues/1" TITLE : dockerfile of ui BODY : hi, kairen why do you add workdir /app on line 12 in dockerfile of ui ?

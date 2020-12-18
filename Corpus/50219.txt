@@ -1,0 +1,1 @@
+ URL : "https://github.com/karlmoritz/bicvm/issues/11" TITLE : where is the results? BODY : hi, i use the ./dbltrain to learns embeddings given two files of parallel, sentence aligned text i wonder where can i see the results? can i get the bilingual vectors? thanks!

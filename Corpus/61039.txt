@@ -1,0 +1,1 @@
+ URL : "https://github.com/miykael/nipype_tutorial/issues/5" TITLE : add tests for tutorials BODY : we should connect this with circle ci, so that we can check that the tutorial works cleanly as docker containers are updated.

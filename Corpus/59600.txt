@@ -1,0 +1,1 @@
+ URL : "https://github.com/soren/App-TimeClock/issues/23" TITLE : update main pod/readme BODY : use synopsis and arguments for headers, which seems more compliant. also extend the arguments section.

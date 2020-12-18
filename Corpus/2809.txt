@@ -1,0 +1,1 @@
+ URL : "https://github.com/cezardasilva/vuejs-snippets/issues/1" TITLE : error on load BODY : failed to load snippets from '/users/madhusudhanad/.atom/packages/vuejs-snippets/snippets/vue-components.cson' /users/madhusudhanad/.atom/packages/vuejs-snippets/snippets/vue-components.cson: unexpected newline vuejs-snippets: 0.1.0 atom: 1.19.0

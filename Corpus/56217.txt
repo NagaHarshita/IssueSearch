@@ -1,0 +1,1 @@
+ URL : "https://github.com/00alia00/hg_sdf_hlsl/issues/1" TITLE : missing mod definition BODY : this only covers the scalar case, but the version of mod in glsl is float mod float x, float y { return x - y floor x/y ; }

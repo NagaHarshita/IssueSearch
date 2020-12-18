@@ -1,0 +1,1 @@
+ URL : "https://github.com/wmedrano/rust-audio-io/issues/2" TITLE : decrease vec allocations BODY : reader and writer create a new vector each time new audio data comes into the picture. this happens around 22 times per second. could use something like recycler https://crates.io/crates/recycler or lifeguard https://crates.io/crates/lifeguard to reuse vectors.

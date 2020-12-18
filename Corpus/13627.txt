@@ -1,0 +1,1 @@
+ URL : "https://github.com/toji/chrome-webvr-issues/issues/158" TITLE : webgl hit a snag BODY : using aframe 0.6.1 and can't load the scene in this build. gives the webgl hit a snag error

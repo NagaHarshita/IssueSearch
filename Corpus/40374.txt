@@ -1,0 +1,1 @@
+ URL : "https://github.com/endangereddataweek/endangereddataweek.org/issues/4" TITLE : twitter card parsing BODY : currently the twitter card includes an extra {{ site.date }} doesn't appear as jekyll is rendering the data in this template correctly.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/friendica/friendica/issues/3812" TITLE : display of events BODY : with recent changes in events, their display is partially broken. in other themes then frio the display has 2 times a start label but no end the location label is present even if no location is given

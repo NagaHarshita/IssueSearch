@@ -1,0 +1,1 @@
+ URL : "https://github.com/goreleaser/goreleaser/issues/205" TITLE : provide a make install BODY : with the new folder layout it's not possible to do a simple go install on the top level anymore, so it would be nice if the makefile had a go install variant.

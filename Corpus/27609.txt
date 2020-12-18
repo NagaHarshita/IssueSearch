@@ -1,0 +1,1 @@
+ URL : "https://github.com/cb-cities/container-sc/issues/1" TITLE : dockerfile clean up BODY : point docker-hub to nested sierra-charlie dockerfile and remove this repo

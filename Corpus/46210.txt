@@ -1,0 +1,1 @@
+ URL : "https://github.com/deliciousbrains/serialized-editor/issues/11" TITLE : local storage support BODY : so data can be saved or is saved there by default and re-populated on next page load.

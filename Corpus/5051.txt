@@ -1,0 +1,1 @@
+ URL : "https://github.com/marmelab/json-graphql-server/issues/22" TITLE : json to schema BODY : can i use this to get a best guess graphql schema from a given json ? if yes i would love to add it on https://transform.now.sh/

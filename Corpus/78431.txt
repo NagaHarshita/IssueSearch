@@ -1,0 +1,1 @@
+ URL : "https://github.com/eclipse/che/issues/6369" TITLE : productise jdt.ls plugin BODY : the proof of concept jdt.ls based java plugin must be brought to production quality. this means testing/fixing, i18n, etc.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/DevotedMC/ExilePearl/issues/24" TITLE : exile bastion placement BODY : it is not prevented, but rather the bastion creation is prevented, wasting the bastion if lored. might be good to call one of the bastion break functions, to break & drop the lored bastion so its not destroyed.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/UM-USElab/gradecraft-development/issues/3368" TITLE : badges with points BODY : • badges with points aren't properly adding to a user's grade • when earned badges are deleted the user's score isn't recalculating

@@ -1,0 +1,1 @@
+ URL : "https://github.com/njsfield/chess/issues/10" TITLE : remove submit button BODY : - when position is selected, user clicks on piece again to confirm action. - update piece to have four states... 1. static. 2. selected. 3. targeted. 4. moved. class function deals with building classes based on two arguments, state, position

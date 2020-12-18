@@ -1,0 +1,1 @@
+ URL : "https://github.com/nightroman/Invoke-Build/issues/58" TITLE : error action override BODY : i understand the concept of keeping error action to stop, however, how can you override for 1 command and not a whole task? i've tried setting erroractionprefrence for the 1 command, and -erroraction and neither will set the behavior for only the command.

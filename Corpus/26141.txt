@@ -1,0 +1,1 @@
+ URL : "https://github.com/caseynbrock/harry_potter_german_words/issues/8" TITLE : add testing scripts BODY : the code needs test cases and sanity checks, especially for special characters or edge cases involving word hyphens. i would prefer to use py.test

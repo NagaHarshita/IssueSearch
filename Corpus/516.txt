@@ -1,0 +1,1 @@
+ URL : "https://github.com/gitkeyan/410-00p/issues/6" TITLE : checkin 3 BODY : hi victor, for checkin 3: the node classes for our functional programming asts are in file myfunctional_ast2.py we've added 5 new inputs for checkin 3: checkin3_input1 checkin3_input2 checkin3_input3 checkin3_input4 checkin3_input5 to run, do python checkin_test.py project3inputs/checkin3_input1

@@ -1,0 +1,1 @@
+ URL : "https://github.com/codem8s/autograph/issues/16" TITLE : documenting go code BODY : > godoc parses go source code - including comments - and produces documentation as html or plain text. https://blog.golang.org/godoc-documenting-go-code

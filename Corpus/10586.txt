@@ -1,0 +1,1 @@
+ URL : "https://github.com/gradle-guides/performance/issues/13" TITLE : cover worker api BODY : we should cover worker api under https://guides.gradle.org/performance/ parallel_execution cc @ghale @eskatos @oehme

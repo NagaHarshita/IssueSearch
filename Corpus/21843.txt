@@ -1,0 +1,1 @@
+ URL : "https://github.com/Way2CU/Ono-First-Degree-Site/issues/6" TITLE : header is too big. BODY : ! image https://user-images.githubusercontent.com/1911594/28879634-f9e0052c-77a2-11e7-8cf1-90a80e9266ec.png header is too big and needs to be reduced. also there's margin-top 10px which is not needed.

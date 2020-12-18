@@ -1,0 +1,1 @@
+ URL : "https://github.com/NBA-Team/nba-battle/issues/6" TITLE : speed of data BODY : right now the data speed is insanely slow. i think this is from the nba api. my thought was to use something like node-schedule https://github.com/node-schedule/node-schedule to schedule api calls every morning and then store that data in firebase. that is just a thought though.

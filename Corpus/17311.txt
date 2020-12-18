@@ -1,0 +1,1 @@
+ URL : "https://github.com/ByteHamster/PSE/issues/428" TITLE : opcua single read BODY : die single read funktion wird mittlerweile nicht mehr benutzt. soll sie drin bleiben die war sowieso eine änderung zum entwurf . finde aber generell könnte sie schon sinnvoll sein

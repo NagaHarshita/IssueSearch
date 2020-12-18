@@ -1,0 +1,1 @@
+ URL : "https://github.com/AdmitHub/admithub-site/issues/9" TITLE : decrease initial load time BODY : you can test the speed here: https://tools.pingdom.com/ !/cg10hr/admithub.com we should explore: - server-side rendering - server and client file caching options e.g. https://www.npmjs.com/package/filecache

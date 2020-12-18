@@ -1,0 +1,1 @@
+ URL : "https://github.com/ajfigueroa/ajfigueroa.github.io/issues/31" TITLE : update for ssl BODY : - since i've upgraded to use ssl via cloudflare as per this blog https://sheharyar.me/blog/free-ssl-for-github-pages-with-custom-domains/ - the config.yml and any outstanding http:// calls need to be updated

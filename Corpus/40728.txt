@@ -1,0 +1,1 @@
+ URL : "https://github.com/GoogleCloudPlatform/kube-metacontroller/issues/8" TITLE : use shared informers BODY : we need to maintain a map of sharedinformers, one for each type of resource. unlike most controllers, we'll want to make each informer use the dynamic client and work on objects of type unstructured . this way, we can generically handle any arbitrary objects.

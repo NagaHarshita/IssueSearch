@@ -1,0 +1,1 @@
+ URL : "https://github.com/lxc/lxd/issues/3273" TITLE : document macvlan scenario BODY : it would be extremely handy to document macvlan scenario for accessing containers from the lan. without knowing about macvlan it is hard to discover it, and without knowing about mac and nic concepts it is hard to configure. svg diagrams would greatly help.

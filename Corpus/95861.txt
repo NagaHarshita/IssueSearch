@@ -1,0 +1,1 @@
+ URL : "https://github.com/Jasonette/documentation/issues/48" TITLE : document image type button BODY : people try to attach action to images. perhaps we will support this in the future, but for now only button components can support actions. however buttons can be a label type or an image type, so you can just use button to display interactive images. this needs to be documented

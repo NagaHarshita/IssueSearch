@@ -1,0 +1,1 @@
+ URL : "https://github.com/adriansimmo/Dasher/issues/1" TITLE : load json into mysql db BODY : load some json into a mysql table with audit columns. schedule to run every hour.

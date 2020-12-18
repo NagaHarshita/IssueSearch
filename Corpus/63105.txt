@@ -1,0 +1,1 @@
+ URL : "https://github.com/picoriley/Turntable/issues/91" TITLE : delete playlist command BODY : currently, there is no way to delete a playlist after it has been created from within our program. please add a delete playlist command in order to remove playlists that are no longer desired.

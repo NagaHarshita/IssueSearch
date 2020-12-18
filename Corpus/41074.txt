@@ -1,0 +1,1 @@
+ URL : "https://github.com/brunnels/PCA9685/issues/4" TITLE : wire/wire.h > wire.h BODY : library was installed with the arduino library manager. library ony worked after wire/wire.h in line 12 of the pca9685.h file was changed to wire.h

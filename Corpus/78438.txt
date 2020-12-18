@@ -1,0 +1,1 @@
+ URL : "https://github.com/sascha-andres/webbuild/issues/9" TITLE : progress for npm install BODY : optionally make it prossible to run npm stuff without --no-progress

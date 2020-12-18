@@ -1,0 +1,1 @@
+ URL : "https://github.com/NerdWalletOSS/kinesis-python/issues/9" TITLE : no module named state BODY : hello, please note this >>> from kinesis.consumer import kinesisconsumer >>> from kinesis.state import dynamodb traceback most recent call last : file <stdin> , line 1, in <module> importerror: no module named state >>> regards,

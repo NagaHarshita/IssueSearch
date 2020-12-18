@@ -1,0 +1,1 @@
+ URL : "https://github.com/Esri/public-transit-tools/issues/66" TITLE : make a better installer BODY : @matt3274 says he knows of a better way to register transitevaluator.dll with arcmap. this is a real problem for a lot of users.

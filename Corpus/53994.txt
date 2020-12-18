@@ -1,0 +1,1 @@
+ URL : "https://github.com/deeplook/sparklines/issues/21" TITLE : feat: add scale option BODY : it would be great to be able to scale a series against a number. at the moment, i am adding a number to the end of the set, which makes everything scale against it, but also includes that number in the output.

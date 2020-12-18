@@ -1,0 +1,1 @@
+ URL : "https://github.com/trakt/script.trakt/issues/399" TITLE : don't sync adult titles BODY : i have a bunch of movies which are flagged as adult on but are not porn-porn and thus will never import into trakt. i would love to see an exclusion for them so that the sync movie count actually reflects the reality and log . they're distinguished by the genre adult in kodi.

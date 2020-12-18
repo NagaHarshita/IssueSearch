@@ -1,0 +1,22 @@
+ URL : "https://github.com/devtools-html/debugger.html/issues/2382" TITLE : l10n localize keyshortcuts BODY : we should localize the keyboard shortcuts keys like cmd , ctrl ... https://github.com/devtools-html/debugger.html/blob/master/docs/local-development.md l10n here is an example of localizing one of them: diff
+diff --git a/assets/panel/debugger.properties b/assets/panel/debugger.properties
+index 7b5b994..4ba220e 100644
+--- a/assets/panel/debugger.properties
++++ b/assets/panel/debugger.properties
+@@ -585,3 +585,6 @@ whypaused.debugcommand=paused on debugged function in a info block explaining how the debugger is currently paused on an event listener breakpoint set whypaused.other=debugger paused
++
++ localization note ctrl : the text that is used to describe a key shortcut
++ctrl=ctrl
+diff --git a/src/strings.json b/src/strings.json
+index a1ba26b..dcbc8ec 100644
+--- a/src/strings.json
++++ b/src/strings.json
+@@ -4,6 +4,7 @@ breakpoints.enable : enable breakpoints , breakpoints.disable : disable breakpoints , breakpoints.removebreakpointtooltip : remove breakpoint ,
++ ctrl : ctrl , callstack.header : call stack , callstack.notpaused : not paused , callstack.collapse : collapse rows ,
+diff --git a/src/utils/text.js b/src/utils/text.js
+index d81942a..6cff654 100644
+--- a/src/utils/text.js
++++ b/src/utils/text.js
+@@ -28,7 +28,7 @@ function formatkeyshortcut shortcut: string : string { .replace /commandorcontrol\+|cmdorctrl\+/g, \u2318+ .replace /alt\+/g, \u2325+ ; }
+- return shortcut.replace /commandorcontrol\+|cmdorctrl\+/g, ctrl+ ;
++ return shortcut.replace /commandorcontrol\+|cmdorctrl\+/g, l10n.getstr ctrl + ; }

@@ -1,0 +1,1 @@
+ URL : "https://github.com/docker/docker-py/issues/1747" TITLE : docker port ranges BODY : hello, after looking at: https://github.com/docker/docker-py/pull/1072 is it safe to assume that currently defining a range of ports to expose for a container is not implemented? if it is are there any examples that i could take a look at? thank you.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/oSoc17/rideaway-frontend/issues/4" TITLE : retrieve geojson route BODY : - use my location as origin - convert address to coordinates - use coordinates as destination - send coordinates to backend api - retrieve geojson? route

@@ -1,0 +1,1 @@
+ URL : "https://github.com/snaiperskaya96/test-import-repo/issues/73" TITLE : clean up log areas BODY : https://trello.com/c/imrztmhr/497-clean-up-log-areas there are lots of log areas which are now unused, it's currently very messy and confusing. a better approach might be to hard code the log areas you can filter by.

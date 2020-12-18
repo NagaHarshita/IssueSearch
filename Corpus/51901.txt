@@ -1,0 +1,1 @@
+ URL : "https://github.com/jeffoffutt/muJava/issues/13" TITLE : bug openjava oj parser BODY : file: mutantsgenerator.java method: private static compilationunit parse file file ; problem to parse the code bellow: int d = value + 1 13421772 >> 27; more specifically, the right shift operator. it translates to: int d = value + 1 13421772 > 27;

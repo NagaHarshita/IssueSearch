@@ -1,0 +1,1 @@
+ URL : "https://github.com/laravel/horizon/issues/104" TITLE : extend the backend BODY : is there currently no way to extend the backend with own functions? because i don t see any extra views / assets folder for horizon.

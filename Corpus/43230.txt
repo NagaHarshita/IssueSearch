@@ -1,0 +1,1 @@
+ URL : "https://github.com/intellij-rust/intellij-rust/issues/1649" TITLE : complex resolve fails BODY : i will try look into rust trait foo {} struct s<a: foo> { a: a } struct c; impl foo for c {} type sbla<a> = s<a>; impl s<c> { fn bind -> self { sbla{a:c} } } //x fn main { let a = sbla::bind ; } //^

@@ -1,0 +1,1 @@
+ URL : "https://github.com/hortonworks/registry/issues/220" TITLE : schema version diff ui BODY : provide a ui to check the diff between any two versions of a particular schema.

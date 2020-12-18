@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/pxt/issues/1137" TITLE : projects menu - search BODY : needs work - doesn't search over built-in projects, should have a way to get back to do another search without having to close the projects dialog. repro - projects - search: wallet - close

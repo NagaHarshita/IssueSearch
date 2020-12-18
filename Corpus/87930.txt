@@ -1,0 +1,1 @@
+ URL : "https://github.com/WP-API/rest-filter/issues/13" TITLE : meta query is not working BODY : something is wrong? meta query is not working with this filter plugin. /wp-json/wp/v2/posts/?filter meta_key =key&filter meta_value =value /wp-json/wp/v2/posts/?filter meta_query key =key&filter meta_query value =value

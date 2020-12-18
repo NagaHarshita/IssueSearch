@@ -1,0 +1,1 @@
+ URL : "https://github.com/alexieleauthaud/DeltaSigmaPipelineHSC/issues/15" TITLE : shape noise errors BODY : check this in delta_sigma.py we keep track of these for shape noise errors alexie: check, use e-weight here? check against melanie's code r 'ds_t_sq' = np.sum pprib 'e_t' 2 pprib 'e_weight' r 'ds_x_sq' = np.sum pprib 'e_x' 2 pprib 'e_weight'

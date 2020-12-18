@@ -1,0 +1,1 @@
+ URL : "https://github.com/mesos/chronos/issues/812" TITLE : high cpu utilization BODY : observed chronos is reaching 100% cpu utilization on a three node cluster on master node. once node is restarted, observed high cpu utilization on newly elected master node. i found nothing interesting from the logs.

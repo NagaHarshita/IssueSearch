@@ -1,0 +1,1 @@
+ URL : "https://github.com/SEMICeu/dcat-ap_shacl/issues/17" TITLE : older version of shacl? BODY : i see in the latest proposed recommendation 2017-01-19: removed sh:predicate in favor of using sh:path only issue-217 . this shacl file is still using sh:predicate

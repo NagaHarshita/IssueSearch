@@ -1,0 +1,1 @@
+ URL : "https://github.com/alex/what-happens-when/issues/246" TITLE : threads and processes BODY : hi, should this also include the threads that spin up when the process is started input, gui updates with keypress etc. ? seems to be an important part if we're looking to give a deep dive into the how 'key down' events are processed in the browser itself.

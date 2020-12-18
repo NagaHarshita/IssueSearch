@@ -1,0 +1,1 @@
+ URL : "https://github.com/TIGRLab/admin/issues/1270" TITLE : tigrsrv not a submit host BODY : symptoms: datman jobs failing with unable to run job: denied: host tigrsrv.camhres.ca is no submit host. cause: is this an oversight from the srv-sge upgrade? solution: add tigrsrv to list of submit hosts using qmon. just checking this isn't deliberate before i make the change.

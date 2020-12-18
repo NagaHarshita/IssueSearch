@@ -1,0 +1,1 @@
+ URL : "https://github.com/mattbk/npa/issues/33" TITLE : improve search results BODY : https://www.drupal.org/docs/7/modules/search-api/getting-started/search-forms-and-results-pages/search-api-views then include relevant information only, rather than post/updated date and author.

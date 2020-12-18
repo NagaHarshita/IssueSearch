@@ -1,0 +1,1 @@
+ URL : "https://github.com/omdbapi/OMDb-API/issues/9" TITLE : feature: popular movies BODY : i think we can all agree that imdb's 'movie meter' is really good, and their popular list http://www.imdb.com/chart/moviemeter is really good as well, is there a chance that this could also be an endpoint?

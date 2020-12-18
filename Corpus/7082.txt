@@ -1,0 +1,1 @@
+ URL : "https://github.com/sosedoff/pgweb/issues/242" TITLE : db dump support BODY : hello, ability to create sql dumps from databases would be very useful. i was using phppgadmin before and this is the only feature i am missing from pgweb. thanks, istván

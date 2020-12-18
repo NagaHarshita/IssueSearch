@@ -1,0 +1,1 @@
+ URL : "https://github.com/jooby-project/jooby/issues/627" TITLE : file watcher module BODY : java { use new filewatcher .register paths.get mydir , kind, path -> { log.info path {} has been {} , path, kind ; } ; ; } the file watcher module allows to efficiently react to fs event like create, modify or delete files.

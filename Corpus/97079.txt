@@ -1,0 +1,1 @@
+ URL : "https://github.com/MyEtherWallet/typ3-cli/issues/5" TITLE : fix output mapping exports BODY : exported modules should be done via export default not module.exports

@@ -1,0 +1,1 @@
+ URL : "https://github.com/sugarlabs/moon-activity/issues/7" TITLE : port to gtk+ 3 BODY : moon is dependent on gtk+ 2 api and must be ported to gtk+ 3 api. _ should anybody take this, please ask me for my work in progress. remaining changes are the cairo drawing. _

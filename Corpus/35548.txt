@@ -1,0 +1,1 @@
+ URL : "https://github.com/FAC-11/week4-3to5/issues/62" TITLE : error for api result BODY : we need to handle errors for the api somehow. so when we enter a. alive that doesn't exist it can be ignored, no errors will be made and a call to the api/backend is prevented. this will help efficiency

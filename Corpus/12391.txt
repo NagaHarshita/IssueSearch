@@ -1,0 +1,1 @@
+ URL : "https://github.com/wangwangwar/daily-notes/issues/82" TITLE : pact lang 笔记 BODY : pact lang 参考: http://pact-language.readthedocs.io/en/latest/pact-reference.html blog: http://kadena.io/blog/ 官网: http://kadena.io/ pact lang 是 kadena 公司开源的智能合约语言，创始人来自 jp morgan，用 haskell 写的。强类型，类型推导，解释型，事务，非图灵完备。

@@ -1,0 +1,1 @@
+ URL : "https://github.com/m-labs/artiq/issues/866" TITLE : installing artiq 3.1 BODY : trying to install artiq 3.1 from the conda channel on windows 7 gives the following error: conda install -c m-labs artiq-kc705-nist_qc2=3.1 packagenotfounderror: packages missing in current channels: - artiq-kc705-nist_qc2 3.1 -> artiq 3.1 py_0+git4c2f25e8 -> llvmlite-artiq 0.12.0

@@ -1,0 +1,1 @@
+ URL : "https://github.com/bi0h4ck/task-man/issues/1" TITLE : create model for user BODY : figure out what information should be stored along side a user , and create the associated case class.

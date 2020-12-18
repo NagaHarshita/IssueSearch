@@ -1,0 +1,1 @@
+ URL : "https://github.com/svendavison/maBlog/issues/4" TITLE : rebuild load-data page BODY : in the migration from php to jsp, we need to have the load data page pulling from the database again.

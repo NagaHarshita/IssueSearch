@@ -1,0 +1,1 @@
+ URL : "https://github.com/cquiroz/scala-java-time/issues/59" TITLE : update to scala.js 0.6.16 BODY : should update to the latest version of scala.js, seeing as 0.6.16 is also the last bin compatible version in the 0.6.x series of scala.js

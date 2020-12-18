@@ -1,0 +1,1 @@
+ URL : "https://github.com/MGX-metagenomics/MGX-client/issues/29" TITLE : job cancellation fails BODY : in gitlab by @sjaenick on mar 3, 2015, 15:25 job cancel fails e.g. on state 'verified' and 'running'

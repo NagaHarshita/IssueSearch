@@ -1,0 +1,1 @@
+ URL : "https://github.com/algolia/react-instantsearch/issues/20" TITLE : migrate to react 15.5 BODY : react 16 is coming. until then the facebook team plans to release react version that will help migrating to it. we need to migrate to react 15.5 and fix everything that is going to be deprecated.

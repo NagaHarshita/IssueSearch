@@ -1,0 +1,1 @@
+ URL : "https://github.com/cavaliercoder/mib2zabbix/issues/8" TITLE : if-mib hc entries? BODY : i've rendered if-mib and it looks fine, except i can't seem to figure out how to have the hc counters included. is there a trick to this?

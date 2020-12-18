@@ -1,0 +1,1 @@
+ URL : "https://github.com/numcard/Library/issues/2" TITLE : bad class librarybook BODY : во первых эта модель содержит simplelongproperty, simplebooleanproperty от них надо избавиться, это классы которые принадлежат java fx, и выносить такое в модель как минимум странно

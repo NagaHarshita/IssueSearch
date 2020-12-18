@@ -1,0 +1,1 @@
+ URL : "https://github.com/TolikPylypchuk/FlagsQuiz/issues/11" TITLE : statistics activity ui BODY : statistics activity must contain the following: - table for the statistics of completed quizes date and time, of questions, of attempts, score - total statistics at the bottom

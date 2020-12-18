@@ -1,0 +1,1 @@
+ URL : "https://github.com/kraiz/django-crontab/issues/52" TITLE : run method with arguments BODY : myapp/cron.py def my_scheduled_job value : print 'hello %s' % value i tried the flow code: cronjobs = ' /5 ', 'myapp.cron.my_scheduled_job world ' , ' /5 ', 'myapp.cron.my_scheduled_job python ' , return attributeerror: module 'myapp.cron' has no attribute 'my_scheduled_job world '

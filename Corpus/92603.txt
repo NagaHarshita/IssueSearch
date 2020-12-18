@@ -1,0 +1,1 @@
+ URL : "https://github.com/TheOpenCloudEngine/uEngine-cloud/issues/9" TITLE : 깃랩 ci 오토스케일 BODY : 문제 다수의 개발 팀에 의해 깃랩 ci 가 수행될 때, 하나의 깃랩 머신에서 처리하기 어렵다. 솔루션 docker-machine && openstack 을 사용한 깃랩 ci 작업의 오토스케일 환경이 필요. https://docs.gitlab.com/runner/configuration/autoscale.html https://docs.gitlab.com/runner/configuration/autoscale.html

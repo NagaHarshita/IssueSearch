@@ -1,0 +1,1 @@
+ URL : "https://github.com/iwillspeak/IronRure/issues/3" TITLE : add regex set support BODY : create a wrapper around rure_regex_set . this should be really useful as it minimises the number of managed/unmanaged transitions required to match the regex.

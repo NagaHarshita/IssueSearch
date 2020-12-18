@@ -1,0 +1,1 @@
+ URL : "https://github.com/vozlt/nginx-module-vts/issues/108" TITLE : cache is zero BODY : everything is normal, but not show cachezone and all cache fields is zero. nginx/1.10.2

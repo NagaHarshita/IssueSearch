@@ -1,0 +1,1 @@
+ URL : "https://github.com/lmfresneda/loggerage/issues/10" TITLE : test blob methods BODY : it is required to test the getblob and downloadblob methods of src/utils/utils.ts , but i do not understand it well

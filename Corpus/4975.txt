@@ -1,0 +1,1 @@
+ URL : "https://github.com/Donohue/testflight_invite/issues/15" TITLE : invalid app id BODY : always get this error regardless of how i'm running the python command: ie python testflight_invite.py login@email.com com.app.id emailtoadd@address.com python testflight_invite.py login@email.com com.app.id emailtoadd@address.com

@@ -1,0 +1,1 @@
+ URL : "https://github.com/RedPRL/sml-redprl/issues/252" TITLE : fix ambiguous grammar BODY : the grammar has always had some ambiguities, but it's been getting a bit worse. someone who enjoys parsers should take a look at fixing this—they would be free to make changes to the concrete notation if it helped.

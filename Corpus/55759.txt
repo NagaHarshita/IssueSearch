@@ -1,0 +1,1 @@
+ URL : "https://github.com/karlveskus/pizza-map/issues/2" TITLE : limit infowindows to 1 BODY : the maximum amount of infowindows should be 1. opening a new on should close/modify the old one.

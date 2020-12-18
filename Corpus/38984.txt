@@ -1,0 +1,1 @@
+ URL : "https://github.com/maxbrunsfeld/counterfeiter/issues/60" TITLE : remove fix directory BODY : if publish new version or tag a new release, remove the fix directory so tab completion works better.

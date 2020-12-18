@@ -1,0 +1,1 @@
+ URL : "https://github.com/michael-lazar/rtv/issues/389" TITLE : rtv won't start BODY : when starting rtv, i see the logging... box and i get the following error: invalid configuration! copy_permalink key is undefined i'm using rtv 1.16.0 on arch linux, installed via the aur.

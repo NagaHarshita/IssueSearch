@@ -1,0 +1,1 @@
+ URL : "https://github.com/bportaluri/WiFiEsp/issues/104" TITLE : crash after 2h BODY : we have use the libery to send data as tcp to a influx db. after 2h the arduino are crashes. the lib of wifiesp tell timeout for the esp-01. when we restart it it works correctly. we have try diffecence wifihotspots and less data more delays

@@ -1,0 +1,1 @@
+ URL : "https://github.com/victorcuervo/lineadecodigo_php/issues/8" TITLE : pdo last id BODY : recuperar el último id en un pdo de un campo que sea autoincremental. más ayuda en http://wiki.hashphp.org/pdo_tutorial_for_mysql_developers

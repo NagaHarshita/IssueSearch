@@ -1,0 +1,1 @@
+ URL : "https://github.com/mishoo/UglifyJS2/issues/1750" TITLE : pending fuzzer test cases BODY : 8 cases are reported over 5 megafuzz, 3 of which are function: __func_<<n>>__ so we've got 5 left to investigate.

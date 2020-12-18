@@ -1,0 +1,8 @@
+ URL : "https://github.com/sev101/export-test/issues/1" TITLE : gat-hut001-1 bug1 BODY : issue no : 1 device : device affected component s : test ---- bug description :
+actual results:-
+1 1 expected results:-
+1 other notes / error messages:-
+1http://bugs8.gatserver.com/uploads/3279e27f6fc25c20064c7942612e7c6e.jpg ---- reproduction steps :
+- step1 attached files :
+http://bugs8.gatserver.com/uploads/3279e27f6fc25c20064c7942612e7c6e.jpg additional info
+{ platform_info => device }

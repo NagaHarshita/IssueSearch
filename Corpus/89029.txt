@@ -1,0 +1,1 @@
+ URL : "https://github.com/cpriego/valet-linux/issues/43" TITLE : php-fpm is not running... BODY : i'm getting this message php-fpm is not running... nginx is not running... when i run valet status . dnsmasq is also not running, so valet is not working.

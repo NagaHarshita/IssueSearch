@@ -1,0 +1,1 @@
+ URL : "https://github.com/arduino/Arduino/issues/6284" TITLE : new library: tinysnore! BODY : https://github.com/connornishijima/tinysnore this is the simplest possible way to make an attiny25/45/85 enter deep sleep for a custom period, using only one simple function: snore sleep_ms

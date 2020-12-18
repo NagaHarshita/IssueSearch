@@ -1,0 +1,1 @@
+ URL : "https://github.com/cybertk/abao/issues/226" TITLE : es7 migration - changelog BODY : we should add a changelog.md to the project as it is the idiomatic way of displaying changes in a repository. the releases are great and should tie into it. open for discussion of course

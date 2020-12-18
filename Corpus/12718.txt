@@ -1,0 +1,1 @@
+ URL : "https://github.com/tadfisher/pass-otp/issues/19" TITLE : remove uri param BODY : accepting the uri as an argument is a security risk, which is why pass insert doesn't allow it. if users want to be insecure, they can still do echo $uri | pass otp insert .

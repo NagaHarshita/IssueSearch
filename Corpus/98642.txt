@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpenMake-Software/ReleaseEngineer/issues/176" TITLE : jenkins plugin can't login BODY : jenkins does not use normal http authentication, but rather expects you to use an api key: https://wiki.jenkins-ci.org/display/jenkins/authenticating+scripted+clients

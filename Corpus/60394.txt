@@ -1,0 +1,1 @@
+ URL : "https://github.com/fossasia/loklak_search/issues/404" TITLE : .m3u8 formats of videos BODY : videos from api response are sometimes in format of .m3u8 https://en.wikipedia.org/wiki/m3u files. question is how to aggregate these parts of videos and display it in one frame?

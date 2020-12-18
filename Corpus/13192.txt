@@ -1,0 +1,1 @@
+ URL : "https://github.com/google/python-adb/issues/66" TITLE : tcp only version BODY : is it possible to make a version that only has adb over network support without libusb and all the other libs?

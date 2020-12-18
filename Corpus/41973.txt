@@ -1,0 +1,1 @@
+ URL : "https://github.com/cshc/cshc_website/issues/221" TITLE : add support for react BODY : depends on 220 add support for react https://facebook.github.io/react/ apps. each react 'app' is a potentially reusable block of dynamic ui. we'll use react to build more interactive forms etc.

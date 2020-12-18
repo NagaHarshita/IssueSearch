@@ -1,0 +1,1 @@
+ URL : "https://github.com/mjordan/islandora_solution_pack_xml/issues/14" TITLE : add support for html objs BODY : this would involve allowing .htm as an uploadable obj file extension, and providing a viewer that rendered the content of the obj as is. however, if we can run the content through filters, that would be a good thing to do.

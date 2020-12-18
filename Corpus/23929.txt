@@ -1,0 +1,1 @@
+ URL : "https://github.com/swagger-api/swagger-codegen/issues/4966" TITLE : review ci coverage BODY : description currently, not all generates are tested and this thread aims to review what can be tested but not yet added to cis travis, appveyor, shippable swagger-codegen version latest master

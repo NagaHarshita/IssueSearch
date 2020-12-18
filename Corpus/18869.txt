@@ -1,0 +1,1 @@
+ URL : "https://github.com/LiskHQ/lisk-js/issues/139" TITLE : use new api specs BODY : the new api specifics as described here: https://app.swaggerhub.com/apis/liskhq/lisk/1.0.5 should be implemented into lisk-js before the 1.0 release to be prepared

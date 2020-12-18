@@ -1,0 +1,1 @@
+ URL : "https://github.com/pmick/RxAVFoundation/issues/10" TITLE : add support for tvos BODY : i believe its just adding s.tvos.deployment_target = '9.0' to the podspec file but i am not sure. i'm fairly certain ios and tvos use the same avfoundation. if thats the case im willing to open a pr.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/roryk/clojupyter/issues/44" TITLE : adding utf-8 support BODY : hi there, any cell containing not ascii code will fail. for instance the bellow code will fail. def hello-in-russian здравствуйте i am currently working on a fix. i will merge it soon. cheers, didier

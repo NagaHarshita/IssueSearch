@@ -1,0 +1,1 @@
+ URL : "https://github.com/TerraME/publish/issues/175" TITLE : report and select BODY : reports should be disconnected from the argument select of a view . currently, if one selects an attribute that is not unique, the reports will not work properly.

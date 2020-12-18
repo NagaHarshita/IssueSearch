@@ -1,0 +1,1 @@
+ URL : "https://github.com/landportal/drupal/issues/379" TITLE : cleanup the old top menus BODY : most of it is in the title remove 'sections' menus debate/book/library and cleanup the top one, next to the logo modules should be cleanup from code and db site admin where necessary.

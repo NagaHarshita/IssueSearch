@@ -1,0 +1,1 @@
+ URL : "https://github.com/andymikulski/nES6/issues/21" TITLE : publish to npm BODY : - need to publish an nes6 package - need to make sure plugins are accessible via nes6/plugins/ pluginname

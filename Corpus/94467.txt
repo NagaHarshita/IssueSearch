@@ -1,0 +1,1 @@
+ URL : "https://github.com/orizens/ng2-youtube-player/issues/12" TITLE : cannot find namespace 'yt' BODY : during compile on angular 4.0.1 service.d.ts and component.d.ts

@@ -1,0 +1,1 @@
+ URL : "https://github.com/wookieb/alpha-dic/issues/8" TITLE : easier service creation BODY : - ability to set dependency as setter - ability to set dependency as constant - ability to set dependency as property

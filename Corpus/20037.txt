@@ -1,0 +1,1 @@
+ URL : "https://github.com/RoofBreachTrading/Dockerimages/issues/1" TITLE : base image is huge BODY : even though image size was reduced by about 150mb lately, the base image still takes way too much space. an idea would be to use an multi-stage builds for building berkeley-db in a separate stage. basically the image should be no bigger than 200mb tops.

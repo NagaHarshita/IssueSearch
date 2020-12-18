@@ -1,0 +1,1 @@
+ URL : "https://github.com/athrane/bassebombecraft/issues/126" TITLE : fix double-click issue BODY : every click is registered twice or so it seems.

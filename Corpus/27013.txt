@@ -1,0 +1,1 @@
+ URL : "https://github.com/katadoka/reverse-file-text/issues/4" TITLE : clean up repository BODY : вилучити out.txt з репозиторію добавити його в .gitignore

@@ -1,0 +1,1 @@
+ URL : "https://github.com/powdahound/redis-collectd-plugin/issues/27" TITLE : no data on graphite BODY : i used the default configurations and i see a new redis_info:localhost entry but it's empty. any idea why?

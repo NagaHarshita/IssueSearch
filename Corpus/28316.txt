@@ -1,0 +1,1 @@
+ URL : "https://github.com/pantheon-systems/wp-redis/issues/212" TITLE : flush only our keys BODY : sometime there are more than one wordpress installation is using the same db: sprintf eval \ return redis.call 'del', unpack redis.call 'keys', argv 1 \ 0 %s: , wp_cache_key_salt ; would it make sense?

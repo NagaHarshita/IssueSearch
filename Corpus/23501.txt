@@ -1,0 +1,1 @@
+ URL : "https://github.com/uos3/firmware/issues/13" TITLE : power board driver BODY : the power board driver should: - retrieve power board sensor values - command power board rail switches - retrieve any appropriate diagnostic information

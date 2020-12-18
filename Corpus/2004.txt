@@ -1,0 +1,1 @@
+ URL : "https://github.com/marellocommerce/magento2-marello-bridge/issues/3" TITLE : only for ee? BODY : hello, i am not able to run your code in magento ce. you are using rma classes which i cannot find like magento\rma\model\rmarepository magento\rma\model\resourcemodel\item\collection magento\rma\model\resourcemodel\item\collectionfactory is this a ee module?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/marvis/pytorch-yolo2/issues/10" TITLE : huge bounding boxes BODY : trying to retrain, but getting results with huge bounding boxes. do you have any ideas of what this could be?

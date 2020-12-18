@@ -1,0 +1,1 @@
+ URL : "https://github.com/styled-components/styled-components-website/issues/64" TITLE : add tooling section BODY : we want to create a tooling section, where we are going to add: - babel-plugin-styled-components now under advanced, see: styled-components/styled-components-website/pull/62 - jest-styled-components

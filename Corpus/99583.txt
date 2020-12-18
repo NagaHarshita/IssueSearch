@@ -1,0 +1,1 @@
+ URL : "https://github.com/PowerShell/PowerShell/issues/4314" TITLE : move to visual studio 2017 BODY : https://www.appveyor.com/docs/build-environment/ pre-installed-software will allow use of docker for example to use httpbin

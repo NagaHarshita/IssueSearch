@@ -1,0 +1,1 @@
+ URL : "https://github.com/ralfw/groupbox/issues/14" TITLE : interaktion get box BODY : backend bekommt einen boxkey und liefert dafür das boxdto ans frontend. boxid mit boxkey ermitteln box laden box auf dto mappen

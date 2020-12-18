@@ -1,0 +1,1 @@
+ URL : "https://github.com/Fyrd/caniuse/issues/3901" TITLE : add dynamic module imports BODY : it's really new and might be added to system in near future. https://blog.chromium.org/2017/10/chrome-63-beta-dynamic-module-imports_27.html

@@ -1,0 +1,1 @@
+ URL : "https://github.com/krakenjs/xcomponent/issues/85" TITLE : how to handle load errors? BODY : is there a way to handle errors such as the iframe couldn't be loaded . i'm thinking an onerror prop on the in my case react component.

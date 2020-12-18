@@ -1,0 +1,1 @@
+ URL : "https://github.com/evansd/whitenoise/issues/129" TITLE : etag and if-none-match BODY : would you be willing to accept a contrib module or feature that implements etag and if-none-match conforming to rfc 7232 s. 2.3 https://tools.ietf.org/html/rfc7232 with a full test suite?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/LCfP/abm/issues/9" TITLE : market matching mechanism BODY : i think i found a bug in the market matching mechanism. it returned the wrong agent set. and it appended to a list of matched agents which i believe is no longer necessary. i added a todo there. mark could you have a look to check that i did not make any mistakes?

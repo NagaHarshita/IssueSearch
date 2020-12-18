@@ -1,0 +1,1 @@
+ URL : "https://github.com/missionpinball/mpf/issues/781" TITLE : improved logging controls BODY : the new logging is nice because it's so flexible, but we should still add back in command line -v support to maybe do full logs of everything, or other options like -v for light verbose, -vv for medium, -vvv for heavy, etc.

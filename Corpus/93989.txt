@@ -1,0 +1,1 @@
+ URL : "https://github.com/allure-framework/allure-bamboo/issues/37" TITLE : bamboo 6.2.1 compatibility BODY : hello allure plugin is compatible with bamboo 6.1.4 at this moment. is it possible to build allure plugin compatible with bamboo version 6.2.1? thanks

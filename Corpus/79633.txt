@@ -1,0 +1,1 @@
+ URL : "https://github.com/AmericanRedCross/sims-website/issues/10" TITLE : sortby - dashboard table BODY : @zibethin the way that the table sorts is not correct. need to edit this so that the sort is: - start date if no start date exists sort by year - year - response - country

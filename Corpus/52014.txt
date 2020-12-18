@@ -1,0 +1,1 @@
+ URL : "https://github.com/dokun1/Lumina/issues/17" TITLE : camera stats on screen BODY : there should be an elegant way to view all relevant information to the camera on the screen, such as resolution, fps, etc. additionally, this should involve a selective ui so that the user of lumina can make changes to these values at any time.

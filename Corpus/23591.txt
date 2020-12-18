@@ -1,0 +1,1 @@
+ URL : "https://github.com/df8oe/UHSDR/issues/1303" TITLE : ptt switch problem BODY : please help, when transmitting via ptt switch the radio does not transmit always rx , but if tranmitting via usb virtual rts the radio can transmit normally.

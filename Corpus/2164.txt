@@ -1,0 +1,1 @@
+ URL : "https://github.com/philipok-1/raspberry-slack/issues/1" TITLE : tidy up code BODY : - include slackbot object properties for dm channel self.dm - remove full name for user and allow choice of greeting style - pass config file to slackbot instead of repeating config items

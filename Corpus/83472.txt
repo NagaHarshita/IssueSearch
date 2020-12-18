@@ -1,0 +1,1 @@
+ URL : "https://github.com/NullTraining/www.null.training/issues/17" TITLE : cant access test database BODY : in order to create tables on test database for maintainers we need to define separate connection string that will only be used in test environment

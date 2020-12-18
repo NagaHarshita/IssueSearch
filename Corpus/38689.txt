@@ -1,0 +1,1 @@
+ URL : "https://github.com/jhuntwork/lightcube-bootstrap-musl/issues/4" TITLE : publish to dockerhub BODY : neat experiment! could this be packaged as a docker image, so that users can test and deploy lightcube more easily?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/axon-ml/axon/issues/16" TITLE : user profile page v0 BODY : implement simple version of user profiles that still pulls from server. requires writing some angular services for pulling from the user database, etc.

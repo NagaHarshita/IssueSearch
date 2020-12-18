@@ -1,0 +1,1 @@
+ URL : "https://github.com/auth0-samples/oidc-sso-sample/issues/1" TITLE : where is prompt=none? BODY : the only mention of the word prompt in the whole project is in the read me. how do you actually set this value correctly? this example seems completely wrong.

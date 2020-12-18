@@ -1,0 +1,1 @@
+ URL : "https://github.com/dperson/transmission/issues/32" TITLE : publish peer port BODY : the peer port is exposed, yet not published or at least not in the readme . if you add -p 51413:51413 to the docker create command transmission will report the port as open.

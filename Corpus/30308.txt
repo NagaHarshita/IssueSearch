@@ -1,0 +1,1 @@
+ URL : "https://github.com/sualeh/SchemaCrawler/issues/128" TITLE : output lints as csv BODY : hi sualeh, is there any proper way to export lint report as csv ? i'd like to play with lint reports from python/r to perform some stats on them ;-p

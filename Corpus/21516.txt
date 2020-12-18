@@ -1,0 +1,1 @@
+ URL : "https://github.com/anthonyjoeseph/Broccoli/issues/8" TITLE : fix language flags BODY : the current language flag should look like this: https://drive.google.com/open?id=0b8rufrevegjzegz5ndjaovhvywc and clicking it should make the other flags fan out left.

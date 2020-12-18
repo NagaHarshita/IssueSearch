@@ -1,0 +1,1 @@
+ URL : "https://github.com/lol2kpe/EDA397_Team3/issues/72" TITLE : add tabs to filteractivity BODY : this adds the possibility no filter by place and symptoms. so far, the symptoms tab doesn't have any functionality. this comes later. completed with bdd672cb8b687128c3ee239d4239f18185f8be05

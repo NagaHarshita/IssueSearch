@@ -1,0 +1,1 @@
+ URL : "https://github.com/MakeSchool-Tutorials/Intro-Functions-Swift-Playground/issues/16" TITLE : p4 custom functions typo BODY : under defining a function does not execute the code! - you still must call the function to execute it's code - the apostrophe here is unnecessary.

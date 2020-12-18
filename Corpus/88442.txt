@@ -1,0 +1,1 @@
+ URL : "https://github.com/dfinninger/lita-cmd/issues/20" TITLE : no gem path for ruby cmds BODY : bash based commands seem to work fine, but i have a few ruby based commands that work fine from the shell, but can't find gems when executed through lita-cmd. it's like they have no gem path.

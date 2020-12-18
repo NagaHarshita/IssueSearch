@@ -1,0 +1,1 @@
+ URL : "https://github.com/anvilresearch/jwt/issues/2" TITLE : json web encryption jwe BODY : cc anvilresearch/jose 18 @johnny90 did some work on this. is this a complete feature? either way i think this should be completed for the v0.1.0 release.

@@ -1,0 +1,5 @@
+ URL : "https://github.com/rkoesters/xkcd-gtk/issues/17" TITLE : create an appdata file BODY : appcenter dashboard could not find a com.github.rkoesters.xkcd-gtk.appdata.xml file for your project. please create one to provide additional data to application managers. --- for more information, see:
+- the appstream quickstart guide https://www.freedesktop.org/software/appstream/docs/chap-quickstart.html - the appstream metadata specification https://www.freedesktop.org/software/appstream/docs/chap-metadata.html if you need help with this issue please stop by the gitter https://gitter.im/elementary/houston channel. affects : 0.8.6 release https://github.com/rkoesters/xkcd-gtk/releases/tag/0.8.6 <!--
+pipe: appdata
+pipe time: sat jun 17 2017 19:21:57 gmt+0000 utc houston version: 0.4.1 8c2f660b04598b28143ed2e4208ab544fb192a31 houston env: production
+-->

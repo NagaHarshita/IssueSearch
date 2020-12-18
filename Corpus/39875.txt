@@ -1,0 +1,1 @@
+ URL : "https://github.com/square/go-jose/issues/134" TITLE : support ed25519 keys BODY : support the ed25519 signing method https://ed25519.cr.yp.to/ there is an x/crypto package at https://godoc.org/golang.org/x/crypto/ed25519 happy to contribute if needed.

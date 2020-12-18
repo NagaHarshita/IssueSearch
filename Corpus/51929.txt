@@ -1,0 +1,1 @@
+ URL : "https://github.com/divyagnan/react-format/issues/3" TITLE : build breaks on travis BODY : the money formatting seems to differ by browser. maybe using a library for the formatting is the way to go?

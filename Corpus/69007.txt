@@ -1,0 +1,1 @@
+ URL : "https://github.com/emoods/SpotiGrab/issues/1" TITLE : spotigrab not recording BODY : spotigrab version: 2017.05.14.01 spotify version: 1.0.60.492.gbb40dab8 it doesn't seem to be detecting the audio nor the song that's being played. fwiw, the original spotify recorder does, but i'd rather not rely on stereo mix or a virtual audio cable.

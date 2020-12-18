@@ -1,0 +1,1 @@
+ URL : "https://github.com/tlerma83/PixelPlacer/issues/21" TITLE : save x and y position BODY : given a user selects to save a project retrieve the projectvideoid, x position, and y position update projectvideos db table

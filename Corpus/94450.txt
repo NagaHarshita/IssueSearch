@@ -1,0 +1,1 @@
+ URL : "https://github.com/AdaCore/libadalang/issues/8" TITLE : cannot do node.children -1 BODY : python is great for pragmatic shortcuts, like getting the last item of list by doing my_list -1 unfortunately, it doesn't work with adanodelists as provided by libadalang so i have to do: node.children len node.children -1 and i hate that :

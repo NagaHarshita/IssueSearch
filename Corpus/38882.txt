@@ -1,0 +1,1 @@
+ URL : "https://github.com/rostockahoi/choice-company/issues/3" TITLE : reduce http requests BODY : problem by now there are approx. 20 js-related requests and even more than 30 css requests solution bundle js and css files into one file each

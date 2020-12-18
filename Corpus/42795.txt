@@ -1,0 +1,1 @@
+ URL : "https://github.com/Wilfred/remacs/issues/142" TITLE : can't commit in magit BODY : when trying to commit staged changes in magit , the following error is produced: > nothing staged or unstaged in regular emacs, this works correctly. unfortunately, i don't currently have a guess as to why this happens.

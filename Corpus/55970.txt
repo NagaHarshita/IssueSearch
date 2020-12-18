@@ -1,0 +1,1 @@
+ URL : "https://github.com/zavierboyd/ZScript/issues/28" TITLE : make every thing yield BODY : read each yield separately, not just turn the ‘next' into a table. after reading it, tent decide whether to; print it, append it to a list, or re-yield it. this depends on what the wrapper function purpose is the repl will print

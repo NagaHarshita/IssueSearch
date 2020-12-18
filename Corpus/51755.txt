@@ -1,0 +1,1 @@
+ URL : "https://github.com/johnzachary/simplecache/issues/2" TITLE : better variable naming BODY : there are some vestigial naming conventions from importing the code base from ing https://github.com/johnzachary/ing . we need to update all variables to use meaningful and general names.

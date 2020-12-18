@@ -1,0 +1,7 @@
+ URL : "https://github.com/kea-2017/kea-2017/issues/864" TITLE : 5.8 reflection ~ 15 mins BODY : 5.8 reflection ~ 15 mins reference the reflection resource https://github.com/dev-academy-programme/curriculum/tree/master/resources/nt-reflection-article to get the most out of this assignment. - start toggl.
+- using the command line, navigate to your cloned cohort repo and find the ee folder.
+- pull down any changes.
+- in your ee/yourname-lastname directory create a file called sprintnum -reflection , for example: 3-reflection.md .
+- open in atom and record your answers: - what did i do well this week? - what could i have done to improve?
+- stage and commit with a meaningful message. push to github.
+- post a link to your reflection file on github in the waffle card comments below.

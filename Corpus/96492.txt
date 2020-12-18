@@ -1,0 +1,1 @@
+ URL : "https://github.com/bcaudan/jasmine-spec-reporter/issues/156" TITLE : executed steps in nan hour BODY : it displays nan after running all the tests. see http://i.imgur.com/0w2b4yg.png

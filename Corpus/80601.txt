@@ -1,0 +1,1 @@
+ URL : "https://github.com/alex/what-happens-when/issues/260" TITLE : unclear it in dns lookup BODY : >if gethostbyname does not have it cached nor can find it in the hosts file then it makes a request to the dns server configured in the network stack. who is it here? the method gethostbyname make the request?

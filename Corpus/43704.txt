@@ -1,0 +1,1 @@
+ URL : "https://github.com/rendom/vue-virtual-list/issues/2" TITLE : debounce scroll event BODY : for example: https://lodash.com/docs/4.17.4 debounce probably with leading and trailing both set to true .

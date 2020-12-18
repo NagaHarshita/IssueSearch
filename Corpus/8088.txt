@@ -1,0 +1,1 @@
+ URL : "https://github.com/cldambrosio/firehose-splurty/issues/1" TITLE : mobile meta tag BODY : on mobile things don't look as good as they could be. one thing you could look into is to add the mobile meta tag to your app, so the responsive effect of bootstrap actually shows up on mobile. let me know in the comments once you figured that step out :

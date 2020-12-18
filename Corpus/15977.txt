@@ -1,0 +1,1 @@
+ URL : "https://github.com/firehol/blocklist-ipsets/issues/52" TITLE : github is blocked BODY : for file firehol_level3.netset github is being blocked on our network 192.30.253.112 . had to set that rule to deny_inbound only. was this on purpose? why? thanks

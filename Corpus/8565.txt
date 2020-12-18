@@ -1,0 +1,1 @@
+ URL : "https://github.com/dondonz/LadyProblemsBerlin/issues/3" TITLE : plan of attack: BODY : 1. load 10 fake users in tables with geo locations and other info 2. when i search one user, show me the similar ones

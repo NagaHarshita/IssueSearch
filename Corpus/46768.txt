@@ -1,0 +1,1 @@
+ URL : "https://github.com/indygreg/python-zstandard/issues/32" TITLE : move away from zstdmt BODY : the zstdmt api is superseded by the new advanced api and eventually all the functions will be made static . we will keep the zstdmt around for a few releases to give people time to update. the new advanced api is capable of multithreading, and supports the magicless format.

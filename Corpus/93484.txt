@@ -1,0 +1,1 @@
+ URL : "https://github.com/NJIT-CLASS/frontend/issues/16" TITLE : add user: roles aren't set BODY : the roles set on the add user page are not stored properly in the database.

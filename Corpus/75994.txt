@@ -1,0 +1,1 @@
+ URL : "https://github.com/juliushaertl/phpdoc-to-rst/issues/11" TITLE : improve index of methods BODY : tocextension should render a list of all methods with the phpdoc summary at the beginning of the page.

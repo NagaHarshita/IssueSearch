@@ -1,0 +1,1 @@
+ URL : "https://github.com/devongovett/pdfkit/issues/677" TITLE : clipping / unclipping BODY : is there a way of defining what conent will be clipped? right now this clips the entire document: clip: function rule { return this.addcontent 'w' + this._windingrule rule + ' n' ; },

@@ -1,0 +1,1 @@
+ URL : "https://github.com/CODARcode/TAU_PROF2JASON/issues/1" TITLE : question about units BODY : i am curious as to the units for the different time components aggr_execution_time : 12:22.279 , aggr_communication_time : 11:47.525 , idle_time : 11,132 the first two appear to be m:s, is that right? and the third is seconds?

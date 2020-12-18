@@ -1,0 +1,1 @@
+ URL : "https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks/issues/20" TITLE : webserver not work. BODY : hellom i can't acces to webserver, i only see a blue page. if i write http://ipdafang/cgi-bin/currentpic.cgi?width=1920&height=1080&nightvision=1 i can see photo and move motor too, but not work page.

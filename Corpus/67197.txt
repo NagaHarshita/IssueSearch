@@ -1,0 +1,1 @@
+ URL : "https://github.com/nexB/scancode-toolkit/issues/608" TITLE : parallel or distributed BODY : can this tool be parallelized or distributed? now the scanning speed is too slow ... not very practical？if it can,how should i do?

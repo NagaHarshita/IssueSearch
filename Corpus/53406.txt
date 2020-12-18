@@ -1,0 +1,1 @@
+ URL : "https://github.com/cmbkla/EntityFromDDL/issues/2" TITLE : doesn't recognize char BODY : could not determine java property type for column send_to_champs -- type char, is not recognized

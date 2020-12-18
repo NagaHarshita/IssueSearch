@@ -1,0 +1,1 @@
+ URL : "https://github.com/44670/NTRViewer/issues/3" TITLE : source code is old? BODY : why is this source code using the sdlv1 instead of sdlv2 from preview2's .zip? this source code is extremely different compared to preview2's version and gives a lot less stable fps.

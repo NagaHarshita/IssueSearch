@@ -1,0 +1,1 @@
+ URL : "https://github.com/mapbox/osm-comments-api/issues/88" TITLE : user not found BODY : - https://osm-comments-api.mapbox.com/api/v1/users/name/codeminion json { message : not found: user not found }

@@ -1,0 +1,1 @@
+ URL : "https://github.com/codeforprojects/kaideals/issues/9" TITLE : deal - individual page BODY : uri - /deals/1 a card which displays a single deal. built as a react component data required to display price food-category likes restaurant deal start time deal end time locations

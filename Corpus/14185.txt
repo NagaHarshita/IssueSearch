@@ -1,0 +1,1 @@
+ URL : "https://github.com/AppStateESS/systemsinventory/issues/19" TITLE : add laptop device BODY : move laptop specific settings out of pc. update should copy copy pc devices into laptop.

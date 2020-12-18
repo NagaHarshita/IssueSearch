@@ -1,0 +1,1 @@
+ URL : "https://github.com/CityOfZion/neo-gui-developer/issues/27" TITLE : gui window scaling BODY : this is extremely minor, but windows like the parameter editor should have field boxes that shrink the same way when the gui window is slaked. currently, the hex encode checkbox even vanishes when the window is too small. i noticed this when making the video.

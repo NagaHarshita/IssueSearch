@@ -1,0 +1,1 @@
+ URL : "https://github.com/Genoil/cpp-ethereum/issues/286" TITLE : cmake and cuda9.0 BODY : compute_20 is not used in cuda9.0 how to fix cmakelists.txt?

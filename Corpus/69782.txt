@@ -1,0 +1,1 @@
+ URL : "https://github.com/PeakTai/vue-html5-editor/issues/27" TITLE : two way bings in vue2.0 BODY : when i try to assign some text in content, the console said that error in callback for watcher content : i try use content.sync before, but i dosen't work in vue2.0 is there any way to solve it?

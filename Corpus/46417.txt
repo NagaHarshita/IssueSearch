@@ -1,0 +1,1 @@
+ URL : "https://github.com/BarbareBzhdev/jsonParse/issues/2" TITLE : makefile not portable BODY : makefile needs fixing in order to work under some platforms, especially mingw and cygwin. mingw32-make: no rule to make target 'obj/foreach.o', needed by 'libjson.a'. stop. the issue might be caused by this line : obj/%.o: src/%.c $ libft_path /libft.a $ parse_incs

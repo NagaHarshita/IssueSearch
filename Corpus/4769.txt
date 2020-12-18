@@ -1,0 +1,1 @@
+ URL : "https://github.com/ryutaudo/oni-on-cheese/issues/5" TITLE : game list page BODY : - a user can see a list of games. - each game has the number of joining member. - when a user selects a game, go to map page. - when an item has no member, remove it from the list.

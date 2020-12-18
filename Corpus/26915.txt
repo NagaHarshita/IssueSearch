@@ -1,0 +1,1 @@
+ URL : "https://github.com/platformio/platformio-atom-ide-terminal/issues/193" TITLE : change node version BODY : hi there, is there a way to change the default node version? as far as i can see is v4.4.7 and atom uses v4.4.5

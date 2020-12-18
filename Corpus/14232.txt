@@ -1,0 +1,1 @@
+ URL : "https://github.com/danutchindris/bbcv/issues/34" TITLE : add motto to user BODY : add new column to the user table and manage it in the user administration page. also retrieve it with the other properties where needed.

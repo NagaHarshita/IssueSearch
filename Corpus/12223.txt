@@ -1,0 +1,1 @@
+ URL : "https://github.com/dart-lang/angular/issues/565" TITLE : ng form validate BODY : when ng-controls does not validate the onsubmit does not fire. that ok, but if the inputs are empty using material-input the onsubmit function fires up while ng-form.valid is false.

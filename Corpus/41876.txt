@@ -1,0 +1,1 @@
+ URL : "https://github.com/paxorus/physi-creator/issues/2" TITLE : add orientation guide BODY : the user can get disoriented, so show a small cube showing the camera, its direction, and the origin.

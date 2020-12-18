@@ -1,0 +1,1 @@
+ URL : "https://github.com/wordpress-mobile/AztecEditor-iOS/issues/800" TITLE : not working on swift 4 BODY : i'm on xcode 9.1 beta and swift 4 i run pod install azteceditor-ios on the my project, and then open. but then when building, i get a lot of error and can't import aztec module. it not working for me, what should i do ?

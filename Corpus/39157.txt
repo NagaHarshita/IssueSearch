@@ -1,0 +1,1 @@
+ URL : "https://github.com/lixuelai/lixuelai.github.com/issues/1" TITLE : review for practice1 BODY : 布局做的很漂亮。 布局时中间主容器左右两端的间距如果相等会比较美观。 最外层容器高度随内容高度增加而增加的功能没有实现，是因为里层容器设置为浮动，脱离了文档流，应该给最外层容器添加 overflow: hidden 样式，使子类容器能够把父类容器的高度撑开。

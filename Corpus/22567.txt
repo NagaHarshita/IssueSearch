@@ -1,0 +1,1 @@
+ URL : "https://github.com/qchaseb/trackify/issues/33" TITLE : look into sift api BODY : website: https://developer.easilydo.com/ seems like this dope all the parsing we need for flights and packages. don't know the best spot to integrate but maybe in the lambda function with the node sdk?

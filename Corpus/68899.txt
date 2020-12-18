@@ -1,0 +1,1 @@
+ URL : "https://github.com/ParrotSec/parrot-raspberrypi-imgbuilder/issues/2" TITLE : small typon in makefile BODY : just to let the dev's know,.. there is a small typo at the end of the makefile wich causes errors.. at least for me at the last line write-and-resize: sudo ./image-writer-resizer.sh $ blockdevice there are spaces instead of tabulator..

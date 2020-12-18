@@ -1,0 +1,1 @@
+ URL : "https://github.com/WaDelma/bob/issues/4" TITLE : better error messages BODY : currently if builder requirements aren't met when trying to build somewhat confusing error messages result. figure if that can be improved.

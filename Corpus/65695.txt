@@ -1,0 +1,1 @@
+ URL : "https://github.com/derfelot/discussion/issues/5" TITLE : kernel version outdated BODY : we should try to patch the kernel as far as possible to the latest version 3.4.113 maybe we can use some of https://review.lineageos.org/ /c/174440/ will give it a try after pfingsten.

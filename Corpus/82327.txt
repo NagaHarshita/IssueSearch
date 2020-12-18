@@ -1,0 +1,2 @@
+ URL : "https://github.com/McTwist/Support_EventScript/issues/10" TITLE : add some sort of labeling BODY : to reduce the complexity of event numbering for some output events, implement some way to label each event or groups of events. platypi https://forum.blockland.us/index.php?topic=314701.msg9713710 msg9713710 suggested c-like labeling with python-like indexing. this would be totally possible and is a great addition to 5. quick example: onstart:
+onrelay -> self -> toggleevent onstart:onend onend:

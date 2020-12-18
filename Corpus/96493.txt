@@ -1,0 +1,1 @@
+ URL : "https://github.com/infosec-intern/textmate-yara/issues/5" TITLE : executerule fails silently BODY : instead of detecting errors like compilerule does, this just straight up fails with no good message <img width= 1389 alt= executerule failed src= https://cloud.githubusercontent.com/assets/15183688/24319229/b73cdad6-10e3-11e7-8272-11f1a4144abc.png >

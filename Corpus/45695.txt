@@ -1,0 +1,1 @@
+ URL : "https://github.com/google/github-issue-mover/issues/136" TITLE : incorrect time format BODY : seems to drop extra zeroes, e.g. an issue created at 13:08 displays as: > _from \<user\> on november 9, 2017 13:8_ e.g. https://github.com/silverstripe/silverstripe-cms/issues/2019

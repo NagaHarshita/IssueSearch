@@ -1,0 +1,1 @@
+ URL : "https://github.com/prettier/prettier/issues/2554" TITLE : scss minor space issue BODY : prettier adds a space when formatting this: diff -$map: map-merge $map, $key: $value ; +$map: map-merge $map, $key: $value ; thanks

@@ -1,0 +1,1 @@
+ URL : "https://github.com/OKTOTV/FLUX2/issues/280" TITLE : openstack icon ändern BODY : file: episodestackopen.html.twig zeile 24, translation: statt + bitte '<span class= glyphicon glyphicon-menu-right ></span>' einfügen. da man ja auf eine andere seite kommt und kein collapse nach unten aufgeht.

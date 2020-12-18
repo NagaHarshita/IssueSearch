@@ -1,0 +1,1 @@
+ URL : "https://github.com/d-m-bailey/cvc/issues/43" TITLE : change default cvcrc BODY : currently cvcrc.default proposed default.cvcrc interferes with new makefile

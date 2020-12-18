@@ -1,0 +1,1 @@
+ URL : "https://github.com/lynckia/licode/issues/1050" TITLE : mp3 sounds discontinuous BODY : when we test the basic example under extras, we notice the problem as the title describes. we just play a mp3 song close to the webcam with a mic , and hear discontinuous music from a headset without a mic . is there any way to solve it?

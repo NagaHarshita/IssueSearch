@@ -1,0 +1,1 @@
+ URL : "https://github.com/vilcabamba/batusay/issues/4" TITLE : endpoint para locales BODY : que retorne el local más cercano y lo asigne para que, de ese punto en adelante, las operaciones las realice el usuario dentro de ese local

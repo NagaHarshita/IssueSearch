@@ -1,0 +1,1 @@
+ URL : "https://github.com/Beat-Nick/erb2slim/issues/12" TITLE : invalid paretheses closing BODY : i tested my html on erb2slim.com and got following result. html: <p style= font-family: arial,sans-serif; font-size: 14px; >hoge</p> converted slim: p style= font-family: arial ,sans-serif; font-size: 14px; hoge

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Neilpang/acme.sh/issues/538" TITLE : why is root recommended ? BODY : this is not a bug report. the documentation states that you don't have to be root then, although it is recommended. . why is root recommended ?

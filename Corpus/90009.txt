@@ -1,0 +1,1 @@
+ URL : "https://github.com/NetKnights-GmbH/privacyidea-ldap-proxy/issues/17" TITLE : review exception handling BODY : seems like exceptions thrown in some methods are absorbed by twisted and never make it to the logs.

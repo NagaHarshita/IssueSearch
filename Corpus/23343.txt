@@ -1,0 +1,1 @@
+ URL : "https://github.com/bdlions/InventoryUI/issues/44" TITLE : page layout adjust BODY : - for each page show everything on the page at a glance. - if any item is added then include scrollbar or anything related to that section only. don't expand page main height.

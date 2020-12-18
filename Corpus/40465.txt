@@ -1,0 +1,1 @@
+ URL : "https://github.com/PRL-PRG/genthat/issues/56" TITLE : unable to trace rcpp BODY : the .onload fails loading genthat because it will trigger a cyclic loading dependency of rcpp.

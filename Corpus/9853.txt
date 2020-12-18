@@ -1,0 +1,1 @@
+ URL : "https://github.com/CMSgov/qpp-measures-data/issues/53" TITLE : add lint support BODY : it is really hard to speculate stringent formatting and coding styles. i recommend you create lint file so that editors will automatically pick it up. also, it will help external/internal contributors. see pr 51 @kencheeto

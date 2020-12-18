@@ -1,0 +1,1 @@
+ URL : "https://github.com/oasis-open/cti-python-stix2/issues/37" TITLE : create environment class BODY : this is an abstraction that will encompass a data source, data sink, and object factory, and potentially other state, in a unified interface for interacting with external stix repositories.

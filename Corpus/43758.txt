@@ -1,0 +1,1 @@
+ URL : "https://github.com/camunda/blog.camunda.org/issues/38" TITLE : delete stale branches BODY : blogs.camunda.org has quite a few stale ? branches that appear to have been used for one blogpost, merged but not deleted. can we agree to delete branches after merging if they're not needed any longer?

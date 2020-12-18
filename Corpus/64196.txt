@@ -1,0 +1,1 @@
+ URL : "https://github.com/sa-lee/plyranges/issues/21" TITLE : flank and ignore.strand BODY : it looks like the flank_ functions are assuming that ignore.strand defaults to true , but it defaults to false .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/pipelinedb/pipelinedb/issues/1835" TITLE : add debian 9 builds to ci BODY : it would be nice to have builds for debian 9

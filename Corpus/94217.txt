@@ -1,0 +1,1 @@
+ URL : "https://github.com/davemachado/Blackjack-Python/issues/1" TITLE : bug when dealer goes over. BODY : think there is still some work to be done here: your cards: q of hearts q of clubs total: 20 dealer's cards: 9 of hearts 6 of spades j of hearts total: 25 player total: 20 dealer total: 25 player loses

@@ -1,0 +1,1 @@
+ URL : "https://github.com/fubhy/graphql-drupal/issues/174" TITLE : url type: path and alias BODY : the url properties path and alias are always the same. for example, for a node, i would expect path to have a path like /node/2 and an alias like /about or /page/about . even with pathauto, the the alias and path are the same.

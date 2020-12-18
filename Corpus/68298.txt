@@ -1,0 +1,1 @@
+ URL : "https://github.com/Spiralwise/Foxcaster/issues/9" TITLE : resolve framerate issue BODY : textures cause a huge framerate drop. we can : - split horizontal raycast by n enlarge vertical stripes - find a faster method to draw textures

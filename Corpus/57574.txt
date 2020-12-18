@@ -1,0 +1,1 @@
+ URL : "https://github.com/Evgenius2020/Labs/issues/12" TITLE : rabin-karp code review BODY : branch '3.rabin-karp-algorithm' 17 тест не проходит, однако программа выполняется согласно документации.

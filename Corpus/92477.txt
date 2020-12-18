@@ -1,0 +1,1 @@
+ URL : "https://github.com/hemanth/jsfeatures.in/issues/113" TITLE : wrong example in es6 docs BODY : in es6 section, under computed property names example is incorrect. var obj = { foo + bar : o_0 , foo + baz : 0_o , foo: foo , bar: bar , baz: baz }; should be, var obj = { foo + bar : o_0 , foo + baz : 0_o , foo: foo , bar: bar , baz: baz };

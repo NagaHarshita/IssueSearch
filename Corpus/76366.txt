@@ -1,0 +1,1 @@
+ URL : "https://github.com/spappier/tmuxssh/issues/1" TITLE : it does not work on os x BODY : it throws: no server running on /private/tmp/tmux-73644679/default no current session no server running on /private/tmp/tmux-73644679/default

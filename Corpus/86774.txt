@@ -1,0 +1,1 @@
+ URL : "https://github.com/Interlock-Rochester/interlock-rochester.github.io.src/issues/1" TITLE : import wordpress database BODY : the native importer http://docs.getpelican.com/en/stable/importer.html for pelican works with: - wordpress xml export - rss/atom feed i'm thinking we can ether: - create local wp instance and import from that - find another tool

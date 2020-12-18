@@ -1,0 +1,1 @@
+ URL : "https://github.com/JULIELab/jcore-base/issues/24" TITLE : file-reader: fix tests BODY : the tests don't run because resource files are missing. i set the tests to ignore for the moment, which obviously shouldn't stay that way.

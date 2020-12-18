@@ -1,0 +1,1 @@
+ URL : "https://github.com/flyve-mdm/flyve-mdm-glpi/issues/20" TITLE : build ui for glpi BODY : glpi is a inventory and helpdesk tool first, and flyve mdm provides its own ui for a standalone usage. for those who use glpi the regular way, we need to provide a user interface to allow devices management from a unique place.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/dtu-compute/dtu-enote-website/issues/76" TITLE : take quiz issues BODY : i suspect the client-side javascript is not getting set up correctly, so all the actions aren’t getting set up properly. i don’t know why that would happen, but i have some ideas of how to add better logging to help figure it out.

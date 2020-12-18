@@ -1,0 +1,1 @@
+ URL : "https://github.com/izyware/izy/issues/1" TITLE : dochain on raw parts BODY : for parts that are modtask.uiconfig = 'raw', even though modtask.modcontroller.dochain is accessiable, the following won't work: modtask.modcontroller.dochain modtask, ... because certain properties i.e. logtransitions, etc. would be missing. what is the workaround?

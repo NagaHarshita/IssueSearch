@@ -1,0 +1,1 @@
+ URL : "https://github.com/spf13/hugo/issues/3500" TITLE : add solaris build BODY : we need this to be merged to get file watching working: https://github.com/fsnotify/fsnotify/pull/196

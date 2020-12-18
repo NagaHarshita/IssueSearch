@@ -1,0 +1,1 @@
+ URL : "https://github.com/Screetsec/TheFatRat/issues/98" TITLE : error :- require mingw32 BODY : after installing fatrat i got an error i.e. mingw32 required. i have tried reinstalling fatrat i have tried to update my repo and apt-get install mingw32 i have also tried wine to install mingw32 but failed please help thank you!!!

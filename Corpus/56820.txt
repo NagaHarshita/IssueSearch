@@ -1,0 +1,1 @@
+ URL : "https://github.com/react-dnd/react-dnd/issues/668" TITLE : opacity of dragpreview BODY : hi, is it possible to change the opacity of the drag preview? whenever, i drag something the preview is somewhat transparent. how do we change this?

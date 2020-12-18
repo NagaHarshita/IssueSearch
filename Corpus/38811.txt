@@ -1,0 +1,1 @@
+ URL : "https://github.com/panoptes/POCS/issues/203" TITLE : re-read targets file BODY : huntsman added the ability to re-read the targets file so that targets could easily be updated without restart pocs. want to merge that feature here.

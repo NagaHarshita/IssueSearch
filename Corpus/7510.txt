@@ -1,0 +1,1 @@
+ URL : "https://github.com/springer-math/Mathematics-of-Epidemics-on-Networks/issues/4" TITLE : get pip to work BODY : based on http://stackoverflow.com/questions/8247605/configuring-so-that-pip-install-can-work-from-github it should be possible to get pip to install this, but will require a setup.py file.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/voxpupuli/puppet-yum/issues/57" TITLE : concat dependency update BODY : update to < 5.0.0 since current release is 4.0.1

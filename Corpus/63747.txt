@@ -1,0 +1,1 @@
+ URL : "https://github.com/orbeon/orbeon-forms/issues/3378" TITLE : error with excel import BODY : xforms-submit-error - setattribute: non-serializable attribute oxf.xforms.state.async-submissions.d6e9fbb48aa88a688810a7e4d5f9b7553f733f8a start dispatching {name: xforms-submit-error , target: import-validate-submission }

@@ -1,0 +1,1 @@
+ URL : "https://github.com/debrief/limpet/issues/430" TITLE : fix adding two db values BODY : when adding/subtracting db values signal strength we should recognise that they're log values, and add them appropriately.

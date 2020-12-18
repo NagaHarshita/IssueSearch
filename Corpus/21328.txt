@@ -1,0 +1,1 @@
+ URL : "https://github.com/PistonDevelopers/freetype-rs/issues/201" TITLE : expose global bbox BODY : this is as easy as face.raw .bbox . useful for getting line height.

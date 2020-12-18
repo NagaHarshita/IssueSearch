@@ -1,0 +1,1 @@
+ URL : "https://github.com/rails/activestorage/issues/72" TITLE : fix variant-related tests BODY : they fail consistently in ci and on my machine, presumably due to platform differences. minimagick produces different images in ci, on my machine, and on david’s machine. i’ve temporarily skipped them in master. /cc @dhh

@@ -1,0 +1,1 @@
+ URL : "https://github.com/conan-io/conan/issues/992" TITLE : gcc 4.1 support BODY : i'm using conan in centos 5.2, that uses gcc-4.1, however, conan doesn't support this version, by default. i know that gcc-4.1 is ancient +10 years and is not supported by the community, however, it's really necessary in some old pbx servers.

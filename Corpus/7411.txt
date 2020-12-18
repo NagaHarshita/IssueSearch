@@ -1,0 +1,1 @@
+ URL : "https://github.com/aimalz/chippr/issues/48" TITLE : fix the sampler BODY : something has gone wrong, and the mean of the samples is not approaching the mmle.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla-services/pageshot/issues/2084" TITLE : measure time to first shot BODY : we want to understand more about the time between the install and the first time hitting the page shot button, or the first time successfully creating a shot. we believe we have this information in ga, but we aren't sure how to report on it. we might have to export.

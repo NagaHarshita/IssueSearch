@@ -1,0 +1,1 @@
+ URL : "https://github.com/enioka/jqm/issues/290" TITLE : queue status field BODY : hi! cold you add _status_ field to the queue object? we want to see current queue status from jqm client api: list<queue> getqueues ; is queue paused or no.

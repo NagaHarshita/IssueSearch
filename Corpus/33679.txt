@@ -1,0 +1,1 @@
+ URL : "https://github.com/highflyers/mavioso/issues/9" TITLE : already in air error BODY : sometimes, ardupilot reports that mav is in air, even though it is on ground. in this state, most of commands is rejected. - what is the reason of this behaviour? - perhaps it only occurs in simulator - can our code do anything about it?

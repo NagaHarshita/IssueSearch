@@ -1,0 +1,1 @@
+ URL : "https://github.com/openid/OpenYOLO-Android/issues/24" TITLE : proposal: track size BODY : a large library size may deter some from integrating. it would be great to have automatic check during pull requests that calculate and record the our size as well as gate code changes that regress too much.

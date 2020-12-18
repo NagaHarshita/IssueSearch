@@ -1,0 +1,1 @@
+ URL : "https://github.com/BitlyKit/BitlyKit/issues/4" TITLE : prepare 1.1.1 release BODY : - update version number - update changelog.md - run jazzy to update docs - update cocoapods spec - add tag to commit - lint cocoapods spec pod spec lint - push to cocoapods pod trunk push

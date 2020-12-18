@@ -1,0 +1,1 @@
+ URL : "https://github.com/bmewburn/vscode-intelephense/issues/35" TITLE : traits auto import BODY : am using version 0.8.1 of the extension and version 1.18.0 of vs code , when trying to autocomplete for traits so that they get imported it didn't work . ! peek 2017-11-17 01-38 https://user-images.githubusercontent.com/17250137/32921895-3156612a-cb38-11e7-9b68-1eb15a0c211e.gif

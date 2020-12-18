@@ -1,0 +1,1 @@
+ URL : "https://github.com/tagspaces/tagspaces/issues/613" TITLE : no thumbnails for mp4 BODY : tagspaces 2.9.0 win 64. ! sketch https://user-images.githubusercontent.com/30339709/28458083-b349f3be-6e08-11e7-9582-3402b3aa0041.png thumbnails are not generated for mp4 videos on surface 4 pro with windows 10 creators update. jpgs, pngs work.

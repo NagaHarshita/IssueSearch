@@ -1,0 +1,1 @@
+ URL : "https://github.com/flycheck/flycheck-haskell/issues/78" TITLE : very bad performance BODY : here's profiling results i checked it few times, results pretty identical : <img width= 734 alt= screen shot 2017-10-20 at 8 16 08 pm src= https://user-images.githubusercontent.com/2434691/31833646-ec6d9296-b5d3-11e7-87f8-fff96c5db1bf.png >

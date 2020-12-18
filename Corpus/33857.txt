@@ -1,0 +1,1 @@
+ URL : "https://github.com/me-next/menext-app/issues/41" TITLE : automated ui testing BODY : have automated ui testing which generates screenshots for all app pages on several common device sizes _ex_ ipad, ipad mini, iphone, android tablet, android phone relevant tutorial: https://developer.xamarin.com/guides/testcloud/uitest/intro-to-uitest/

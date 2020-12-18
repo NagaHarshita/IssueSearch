@@ -1,0 +1,1 @@
+ URL : "https://github.com/caseyyee/unity-webvr-export/issues/1" TITLE : 2d view not working BODY : probably because we are replacing with invalid view and projection matrices before entering vr.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/sanctuary-js/sanctuary/issues/353" TITLE : add s.sort and s.sortby BODY : add sanctuary version of r.sort http://ramdajs.com/0.23.0/docs/ sort and r.sortby http://ramdajs.com/0.23.0/docs/ sort .

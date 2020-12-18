@@ -1,0 +1,1 @@
+ URL : "https://github.com/obduk/cms/issues/709" TITLE : hide sequential ids BODY : hide sequential ids from public as some companies do not want people to know how large they are, e.g. number of users. replace with uuids. message url user id in views / rollbar

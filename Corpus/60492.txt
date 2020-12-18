@@ -1,0 +1,1 @@
+ URL : "https://github.com/Shippable/admiral/issues/629" TITLE : 8413 check console logs BODY : shippable/pm 8413 from 591: - remove all console.log statements from child_process calls in api - the output from stdout should be logged as logger.debug - the output from stderr should be logged as logger.error

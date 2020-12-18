@@ -1,0 +1,1 @@
+ URL : "https://github.com/tcr/corrode-but-in-rust/issues/44" TITLE : fill out all symbolic ops: BODY : for example, this is translated poorly without || being translated: let duplicatelhs = isjust op' || demand

@@ -1,0 +1,1 @@
+ URL : "https://github.com/aajmarshall/VinoCella/issues/13" TITLE : first use alertdialog BODY : the first tasting alertdialog flashes up very quickly without the user having a chance to read it. work out how to pause it so they can read about how a tasting works, or move it to as soon as they open their first tasting.

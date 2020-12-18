@@ -1,0 +1,1 @@
+ URL : "https://github.com/TechChris/prj-rev-bwfs-dasmoto/issues/5" TITLE : inheritance in css BODY : great! nice work with your concise css. i love your use of the body to allow all elements nested inside <body> to inherit the font-family: helvetica; style. https://github.com/techchris/prj-rev-bwfs-dasmoto/blob/master/dasmoto/resources/css/style.css l1-l3

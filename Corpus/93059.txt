@@ -1,0 +1,1 @@
+ URL : "https://github.com/EricCrosson/slack-wrap/issues/12" TITLE : add colors to slack output BODY : like the gitlab notification does: red for failure, green for success, gray for message

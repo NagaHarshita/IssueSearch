@@ -1,0 +1,1 @@
+ URL : "https://github.com/BNewing/geese-games/issues/3" TITLE : make mobile responsive BODY : at the moment, elements start overlapping when you shrink the screen down from a desktop view. need to design a mobile view and then implement it!

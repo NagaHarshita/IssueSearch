@@ -1,0 +1,1 @@
+ URL : "https://github.com/tryton-ar/party_ar/issues/6" TITLE : crash when migrate to 4.0 BODY : when migrate to 4.0 the module crash > file /home/luis/tryton/trytond/trytond/modules/party_ar/party.py , line 311, in __register__ > party_row = cursor.dictfetchone

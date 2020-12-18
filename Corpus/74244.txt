@@ -1,0 +1,1 @@
+ URL : "https://github.com/davidrosenblum/DB-CS330/issues/43" TITLE : email cookie, with chips BODY : client should store the email in a cookie if the login is successful. when display the login modal the client should search for the cookie and inject the email into the form.

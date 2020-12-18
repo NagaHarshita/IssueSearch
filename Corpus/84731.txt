@@ -1,0 +1,1 @@
+ URL : "https://github.com/mailcow/mailcow-dockerized/issues/443" TITLE : dkim, spf and the domains BODY : good morning everybody, i've got a question to the dns who gets which listings in the dns for dkim, srv, spf and _dmarc? my mailcow-server running under mail.maildomain.de my email-domain is other.de kind regards jm3west

@@ -1,0 +1,1 @@
+ URL : "https://github.com/rydurham/Sentinel/issues/228" TITLE : view home not found. BODY : when home url is added , we are facing this error. the home template is not available, but the package is depends on that.

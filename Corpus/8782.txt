@@ -1,0 +1,1 @@
+ URL : "https://github.com/Turistforeningen/leaflet-routing/issues/44" TITLE : routes on ocean BODY : is there a way to calculate route for ships? i mean, given two points on map, calculate shortest not mandatory path without touching ground.

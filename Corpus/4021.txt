@@ -1,0 +1,1 @@
+ URL : "https://github.com/alex3683/hal-http-client/issues/4" TITLE : add build step BODY : code in this repository uses es6 syntax and features. there should be an npm build step, compiling to es5 compatible code.

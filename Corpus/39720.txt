@@ -1,0 +1,1 @@
+ URL : "https://github.com/jlapeyre/Symata.jl/issues/73" TITLE : sqrt y^2 returns y^1 BODY : sqrt y^2 returns y^1 . this should be simplified to y

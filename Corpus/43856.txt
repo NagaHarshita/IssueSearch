@@ -1,0 +1,1 @@
+ URL : "https://github.com/somedayrainbows/black_thursday/issues/11" TITLE : directly test classes BODY : we test all or most of our classes by initializing sales engine. we need to test them directly.

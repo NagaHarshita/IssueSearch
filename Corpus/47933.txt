@@ -1,0 +1,1 @@
+ URL : "https://github.com/gladly-team/tab/issues/155" TITLE : react component tests BODY : add unit and snapshot tests for all components: https://facebook.github.io/jest/docs/tutorial-react.html

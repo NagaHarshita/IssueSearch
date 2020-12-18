@@ -1,0 +1,1 @@
+ URL : "https://github.com/ppts-odoo/odoo-oca/issues/1" TITLE : sale revision history BODY : when a quotation is duplicated from another quotation, the revision of the new quotation will use the old quotation number. this a problem. e.g. so014 is duplicated from so013, there are some itme changes. after making a revision for so014, the revision from so14 show so013-01.

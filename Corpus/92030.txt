@@ -1,0 +1,1 @@
+ URL : "https://github.com/ChrisJVoss/driving-game/issues/2" TITLE : user can start their car. BODY : motivation before the car can move it must be started. implementation - add a 'start' method to the car object

@@ -1,0 +1,1 @@
+ URL : "https://github.com/confluentinc/confluent-kafka-dotnet/issues/85" TITLE : seek to a timestamp BODY : hi, i tried to find an api that 1. finds offset for a given timestamp 2. seeks consumer to that offset and start reading from that offset. both of this doesn't exist. rdkafka has offset request, and i think it also has some kind of seek. will these be added in the future?

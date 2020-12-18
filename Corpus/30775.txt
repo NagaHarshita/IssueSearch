@@ -1,0 +1,1 @@
+ URL : "https://github.com/dokku/dokku-rabbitmq/issues/48" TITLE : ram and cpu's limit BODY : i have 4gb ram vps. i started dokku-rabbitmq, and i see 800gb memory limit ! 2017-08-01 2 17 28 https://user-images.githubusercontent.com/9336742/28802543-a5846d22-765f-11e7-983e-084d15c5426a.png how can i increase it? i want to utilize all 4gb.

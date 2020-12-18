@@ -1,0 +1,1 @@
+ URL : "https://github.com/dmetzgar/corewf/issues/17" TITLE : move from resx to restext BODY : resx files allow you to include other things such as images into your localized resources. that's not necessary for a library like wf. the resx format is a clunky, old xml format that was intended to be edited with a tool. restext, however, is much easier to read and less verbose.

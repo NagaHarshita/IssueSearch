@@ -1,0 +1,1 @@
+ URL : "https://github.com/OxfordAbstracts/elm-program-builder/issues/75" TITLE : remove initial sessions BODY : when the page loads on the main app, you briefly see the initial model for a few milliseconds before seeing the correct model for the event

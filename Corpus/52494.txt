@@ -1,0 +1,1 @@
+ URL : "https://github.com/openai/iaf/issues/2" TITLE : command line for mnist BODY : what command for the lasagne implementation was passed for the mnist experiment in the paper. in particular, what option modifies the fully connected layer to have 450 neurons?

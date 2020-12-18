@@ -1,0 +1,1 @@
+ URL : "https://github.com/schubergphilis/Seccubus/issues/610" TITLE : jit and ldap help BODY : @seccubus is there an exact guide for the jit / ldap configuration? do you have a suggestion how to implement the that? how is it supposed to work on seccubus? there are functions like login and create, how does it work? is created at create the user forever or only for the moment?

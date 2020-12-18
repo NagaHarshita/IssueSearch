@@ -1,0 +1,1 @@
+ URL : "https://github.com/TeamVenu/venu/issues/46" TITLE : user exhibit data BODY : save data in the user database about exhibits as an array containing an object with a property for zone, key, and id {zone: 'artisticalley', key: 0, id: 1200} . there should be three arrays in total corresponding to: recommended bookmarked itinerary visited

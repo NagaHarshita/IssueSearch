@@ -1,0 +1,11 @@
+ URL : "https://github.com/Zimmi48/bugzilla-test/issues/4930" TITLE : a debug tactic BODY : note: the issue was created automatically with bugzilla2github tool bugzilla bug id: 4930
+date: 2016-07-12 20:16:11 +0200
+from: jonathan leivent &lt;<jonikelee@gmail.com>&gt;
+to: last updated: 2016-07-12 20:24:51 +0200 bugzilla comment id: 13099
+date: 2016-07-12 20:16:11 +0200
+from: jonathan leivent &lt;<jonikelee@gmail.com>&gt; it would be nice to have a tactic that is morally equivalent to idtac, except that it doesn't print anything unless some debug level setting is high enough. something like: set debug level 5. ltac foo := .... debug 3 doing some stuff here ; .... debug 6 doing some other stuff here ; ..... would just print the first debug msg, not the second. note that debug 0 would be exactly the same as idtac. the closest i can get to this now is by doing: ltac debug_level := 5. tactic notation debug int_or_var level uconstr_list stuff := let dl := debug_level in tryif guard dl >= level then idtac stuff else idtac. require string.
+open scope string_scope. because uconstr_list, with string scope active, is the closest one can currently come to idtac's arg list. the differences are: the need to require string and for string_scope to be open in order to use strings; and strings print with quotes. bugzilla comment id: 13100
+date: 2016-07-12 20:24:51 +0200
+from: jonathan leivent &lt;<jonikelee@gmail.com>&gt; another difference is that idtac is globally-focused as long, as its args let it stay there, and so can print something even if there are no unsolved focused subgoals: goal true.
+constructor; idtac hello . prints hello, but: goal true.
+constructor; debug 0 hello . prints nothing, when one might desire it to still print.

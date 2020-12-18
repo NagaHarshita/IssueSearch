@@ -1,0 +1,1 @@
+ URL : "https://github.com/dain/leveldb/issues/81" TITLE : use the java.nio.path api BODY : this allows for testing with an in-memory filesystem like jimfs , for example.

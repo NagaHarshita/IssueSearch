@@ -1,0 +1,1 @@
+ URL : "https://github.com/studentenhuisDS4/ds4reboot/issues/96" TITLE : build sepa scanner BODY : construct a sepa field scanner, which allows users to quickly filter ajax all transactions and label them by the search query. the left over transactions should be then manually assigned to a label.

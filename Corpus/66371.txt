@@ -1,0 +1,1 @@
+ URL : "https://github.com/pytorch/pytorch/issues/2352" TITLE : mixed advanced indexing BODY : import numpy as np x = np.random.random 3,4 x 0,1 , 1: works import torch x = torch.randn 3,4 x 0,1 ,1: fails

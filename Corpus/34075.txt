@@ -1,0 +1,1 @@
+ URL : "https://github.com/jMahapatra/jigyasa-ias/issues/36" TITLE : bug in news category BODY : 1. can't remove a category which is not necessary. 2. can't add a category separately without adding a new post. 3. can't update a category name if there's any spell mistake

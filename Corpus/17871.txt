@@ -1,0 +1,1 @@
+ URL : "https://github.com/HERA-Team/hera_qm/issues/87" TITLE : rfi strategy memo BODY : pr 82 implemented a particular and very convoluted rfi strategy. we should document it and its performance in a memo.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/systemjs/builder/issues/813" TITLE : dynamic import support BODY : support dynamic import syntax through the babel compiler. this should probably disable rollup optimizations for that specific module as rollup doesn't support dynamic imports. then this should also be added to the plugin ecosystem as well.

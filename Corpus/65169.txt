@@ -1,0 +1,1 @@
+ URL : "https://github.com/sunlightpolicy/opendatapoliciesstatic/issues/99" TITLE : import data-portal urls BODY : from our various lists, including this one https://github.com/sunlightpolicy/opendata/blob/master/uslocalopendataportals.csv then include them in the portal_urls field for place s

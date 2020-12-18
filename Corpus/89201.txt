@@ -1,0 +1,1 @@
+ URL : "https://github.com/ruby-hyperloop/hyper-react/issues/231" TITLE : pre-render off by default BODY : its just adds another layer of problems so it should be turned on, after system is up and running.

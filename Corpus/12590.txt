@@ -1,0 +1,1 @@
+ URL : "https://github.com/Illumina/pyflow/issues/20" TITLE : python 3 support BODY : hi! this looks like a great library! i've been using pydoit and snakemake up to now. i noticed, that travis is configured to test only python 2.7. are there any plans to support python 3.x? best, ajasja

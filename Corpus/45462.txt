@@ -1,0 +1,1 @@
+ URL : "https://github.com/MatMercer/Sort-Algorithms-Compare/issues/1" TITLE : ideas for improvement BODY : as followup to reddit post: - try to avoid ide-specific files in repositories read about build systems like apache maven or gradle - seperate folders for c++ and java implementations

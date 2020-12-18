@@ -1,0 +1,1 @@
+ URL : "https://github.com/hexacta/sanata/issues/4" TITLE : add mocked db BODY : three things: 1. we should move the mongo connection string to an env variable 2. if no connection string is provided we should mock the db, something simple that mock the three functions that we use, empty functions should be enough 3. when using the mocked db: log a warning message

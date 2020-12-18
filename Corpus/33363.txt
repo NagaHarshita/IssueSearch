@@ -1,0 +1,1 @@
+ URL : "https://github.com/sebmartin/gitz/issues/5" TITLE : add list for stashes BODY : ... and make it the default if git stash is already on the command line

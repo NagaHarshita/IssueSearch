@@ -1,0 +1,1 @@
+ URL : "https://github.com/dotCMS/core/issues/12224" TITLE : create new vanityurlfilter BODY : in order to clean up the cmsfilter and separate responsibilities we need to move the current vanityurls logic into a new filter.

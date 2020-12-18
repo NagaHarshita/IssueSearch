@@ -1,0 +1,1 @@
+ URL : "https://github.com/Kloen/citra-android/issues/63" TITLE : add shaderc as external BODY : sharedc it's required for jit compilation of shaders during runtime.

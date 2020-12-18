@@ -1,0 +1,1 @@
+ URL : "https://github.com/butterproject/butter-android/issues/146" TITLE : add debug screen BODY : debug screen should be added in side drawer when building debug app that should allow to do switch from active provider implementation to mock providers and to show test player that is now in main screen.

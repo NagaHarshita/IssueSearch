@@ -1,0 +1,1 @@
+ URL : "https://github.com/stoffern/react-native-image-cropper/issues/39" TITLE : how to save to a file? BODY : crop returns a base64 encoded image how do i write this data into a valid format in a jpeg file. i'm using react-native-fetch-blob https://github.com/wkh237/react-native-fetch-blob : rnfb.fs.writefile cropfilepath, data, 'base64'

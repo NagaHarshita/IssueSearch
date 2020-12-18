@@ -1,0 +1,1 @@
+ URL : "https://github.com/gdeest/Folia/issues/1" TITLE : to build on windows BODY : hi , i am new to qt i am nto able to build this project either in windows or ubuntu, as imagemagick is not able to link with the current project. can you please guide me in the following building

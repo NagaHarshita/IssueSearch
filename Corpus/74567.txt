@@ -1,0 +1,1 @@
+ URL : "https://github.com/thelukester92/nnlib/issues/131" TITLE : exponential linear units BODY : https://arxiv.org/abs/1511.07289 these are shown to be better than relu, which appears to be better than tanh.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/visavi/rotor/issues/26" TITLE : fix avatar display BODY : avatar and <h1> tag on one line resources/views/pages/user.blade.php

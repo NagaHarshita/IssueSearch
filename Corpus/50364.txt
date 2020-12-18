@@ -1,0 +1,1 @@
+ URL : "https://github.com/googlevr/gvr-unity-sdk/issues/564" TITLE : x button does nothing BODY : with gvr 1.4 and unity 5.5.1: the x button top-left has no effect on android or ios - does not seem to even send an event to unity, nevermind close the app. what should it do?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/MinimalNoise/vente/issues/12" TITLE : add users service BODY : this service will be responsible for: - crud user relevant information - make sure all user actions respect roles system https://github.com/minimalnoise/vente roles-system

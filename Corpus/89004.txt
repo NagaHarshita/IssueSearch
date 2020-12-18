@@ -1,0 +1,1 @@
+ URL : "https://github.com/Faylixe/pygame_vkeyboard/issues/7" TITLE : persistant keyboard state BODY : uppercase and special char are not synchronized.

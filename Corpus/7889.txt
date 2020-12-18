@@ -1,0 +1,1 @@
+ URL : "https://github.com/aaronsace/MultiPoolMiner/issues/284" TITLE : lean log folder BODY : noticed the log folder gets bigger and bigger for no reason. seems like a good idea to add a clean up for logs older than a week.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/debutjs/debut/issues/4" TITLE : test coverage is poor BODY : currently we only have a few tests written. all of the code is very testable so we don't really have excuses for not having tests written.

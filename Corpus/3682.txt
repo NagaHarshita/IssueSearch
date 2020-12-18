@@ -1,0 +1,1 @@
+ URL : "https://github.com/NetzkyBot/test-repo/issues/12" TITLE : test issue 12 BODY : hola! me sale este error raro. : ayuda! traceback most recent call last : file <pyshell 0> , line 1, in <module> print hola nameerror: name 'potato' is not defined qué podría ser?

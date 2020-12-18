@@ -1,0 +1,1 @@
+ URL : "https://github.com/libpnet/libpnet/issues/289" TITLE : compilation without pcap BODY : i'm interested just in packet parsing. i would like to avoid including the pcap dependency. i've tried to disable all features but the datalink module i don't needed it either fails to compile. is there any way?

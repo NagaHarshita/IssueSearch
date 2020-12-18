@@ -1,0 +1,1 @@
+ URL : "https://github.com/SynEdit/SynEdit/issues/60" TITLE : support for golang BODY : lazarus 1.6.4 + fp 3.0 i'm surprised to see that go golang isn't among the list of supported synedit languages. are there any plans to support it in the future. alternatively are there any steps one could take with the existing components, possibly using the tsynanysyn component?

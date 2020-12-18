@@ -1,0 +1,1 @@
+ URL : "https://github.com/pywren/pywren/issues/64" TITLE : s3 key to key wrapper BODY : it seems a common idiom for running pywren on large datasets is mapping an s3 key to a new processed s3 key. right now how we do this is put the s3 reading/writing code inside the pywren function which is kind of cumbersome. it would be nice to have a native interface for this functionality.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mre/idiomatic-rust/issues/2" TITLE : add rust api guidelines BODY : the rust api guidelines https://github.com/brson/rust-api-guidelines just got published as part of the libz blitz https://blog.rust-lang.org/2017/05/05/libz-blitz.html . probably a good idea to include them. :smile:

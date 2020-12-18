@@ -1,0 +1,1 @@
+ URL : "https://github.com/CS2103AUG2017-T09-B1/main/issues/107" TITLE : untag command bug BODY : cannot executing untag command on a tag after using retrieve command on that tag due to the index change in filtered list.

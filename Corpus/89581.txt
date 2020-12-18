@@ -1,0 +1,1 @@
+ URL : "https://github.com/fpempresa/fpempresa/issues/22" TITLE : rapidez al enviar correos BODY : ahora al crear una oferta se envían todos los correos a los titulados, pero se tarda mucho en enviarlos. hacer que se envíen sin que paralice el proceso de guardar la oferta

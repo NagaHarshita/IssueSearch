@@ -1,0 +1,2 @@
+ URL : "https://github.com/scheinerman/SetOps.jl/issues/1" TITLE : error tagging new release BODY : the require file could not be found.
+cc: @scheinerman

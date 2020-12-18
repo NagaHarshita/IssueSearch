@@ -1,0 +1,1 @@
+ URL : "https://github.com/lodahl/Libo_PlantUML/issues/5" TITLE : enhange error handling BODY : implement general error handling method. current error handling switch to general error handling method. handle more errors.

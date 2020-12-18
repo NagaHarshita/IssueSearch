@@ -1,0 +1,1 @@
+ URL : "https://github.com/CodeForPoznan/volontulo/issues/663" TITLE : define backup procedure BODY : we need to define, how our crutial data will be backed up. or data consists of: - sql db - files uploaded by users

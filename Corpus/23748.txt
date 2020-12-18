@@ -1,0 +1,1 @@
+ URL : "https://github.com/Cognifide/gradle-aem-plugin/issues/56" TITLE : refactor aemconfig BODY : it should have constructor with project so that default values calculation will be more verbose.

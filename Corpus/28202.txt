@@ -1,0 +1,1 @@
+ URL : "https://github.com/justanotherdot/tardigrade/issues/8" TITLE : fitout test harness BODY : we'll need to wire up a proper test harness; want to use hedgehog and maybe tasty .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/the-synister/the-source/issues/16" TITLE : build script for linux BODY : make a build script in which juce dependencies are fetched if not available

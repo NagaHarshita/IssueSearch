@@ -1,0 +1,1 @@
+ URL : "https://github.com/usgs/earthquake-latest-earthquakes/issues/334" TITLE : better print styles BODY : map prints when list isn't shown. list prints first page when shown.

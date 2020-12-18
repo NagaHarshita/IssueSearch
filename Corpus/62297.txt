@@ -1,0 +1,1 @@
+ URL : "https://github.com/developit/preact-mdl/issues/28" TITLE : chips component missing BODY : the chips component https://getmdl.io/components/index.html chips-section is missing from the source code. if i can find the time i will try to implement it myself.

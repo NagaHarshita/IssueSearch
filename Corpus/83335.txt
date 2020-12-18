@@ -1,0 +1,1 @@
+ URL : "https://github.com/icetee/remote-ftp/issues/939" TITLE : can't create config files BODY : browsing to packages > remote-ftp > create ftp config file simply does nothing. i'm unable to create the file. no other menu items work either. macos sierra version 10.12.6 atom 1.18.0 x64 remote-ftp 1.1.3

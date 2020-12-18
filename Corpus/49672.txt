@@ -1,0 +1,1 @@
+ URL : "https://github.com/tomhoule/purescript-waterslide-rs/issues/40" TITLE : unify the two crates? BODY : seems to work fine for askama: https://github.com/djc/askama

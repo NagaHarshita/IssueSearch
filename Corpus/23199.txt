@@ -1,0 +1,1 @@
+ URL : "https://github.com/zuiidea/antd-admin/issues/213" TITLE : npm run dev 错误 BODY : failed to compile. error in ./src/index.js module build failed: referenceerror: unknown plugin dva-hmr specified in base at 2, attempted to resolve relative to /users/huguijian/desktop/antd-admin/src at array.map native @ multi index

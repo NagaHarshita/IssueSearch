@@ -1,0 +1,1 @@
+ URL : "https://github.com/react-community/create-react-native-app/issues/123" TITLE : can't connect to exp:// BODY : i've been fiddling with this problem since the release of crna, already tried setting my react_native_host_name environment variable to my actual ip address and also giving priority to my wifi connection

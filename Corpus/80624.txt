@@ -1,0 +1,1 @@
+ URL : "https://github.com/rbeezer/mathbook/issues/548" TITLE : unicode in pdf bookmarks BODY : this needs testing, and it seems the hyperref package has a solution. http://tex.stackexchange.com/questions/31549/option-unicode-true-with-hyperref

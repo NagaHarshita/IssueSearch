@@ -1,0 +1,1 @@
+ URL : "https://github.com/uTox/uTox/issues/663" TITLE : min window size limit BODY : utox window's minimum size is limited depending on dpi and it's ok, but imo it limited too much, because now at my normal dpi 110% it consumes almost whole my screen ~85% , which is nearly unusable in non-fullscreen mode. i don't know this is bug or feature, but it really frustrates me.

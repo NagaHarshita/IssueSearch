@@ -1,0 +1,1 @@
+ URL : "https://github.com/farrellit/ec2metadata-role-assumption/issues/13" TITLE : check time, alert on drift BODY : since time drift often causes issues, this system should check time drift and alert on it, providing a command to fix it. i don't htink it's worth running in privileged mode just so that it can fix it itself though maybe i'm wrong

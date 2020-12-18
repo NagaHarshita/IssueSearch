@@ -1,0 +1,1 @@
+ URL : "https://github.com/eppic-team/eppic/issues/204" TITLE : missing assembly in 1a2k BODY : there should be a {1,2} assembly a2b2 stoichiometry, c2 symmetry in 1a2k. as of 3.0.3, there's only {} and {1}.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/chbrown/xdoc/issues/1" TITLE : is fixltx2e needed? BODY : i tried this on a docx file i need to work with. i got this warning: > package fixltx2e warning: fixltx2e is not required with releases after 2015 > fixltx2e all fixes are now in the latex kernel. > fixltx2e see the latexrelease package for details. is there a reason that the package is added?

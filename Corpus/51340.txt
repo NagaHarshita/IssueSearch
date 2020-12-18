@@ -1,0 +1,1 @@
+ URL : "https://github.com/gnieboer/GNURadio_Windows_Build_Scripts/issues/23" TITLE : agc3 block fails tests BODY : qa_agc fails when testing agc3 block due to the values not being as expected. examined code for msvc related issues, added memory alignment and changed _finite if..then but no change.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/just-paja/improtresk-api/issues/155" TITLE : add payment type BODY : as we will have payments from more providers, we would need to add type of payment to identify them.

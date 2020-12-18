@@ -1,0 +1,14 @@
+ URL : "https://github.com/xbmc-catchuptv-au/issue-reports/issues/229" TITLE : sbs user initiated report BODY : automatic bug report from end-user. environment add-on name: sbs on demand add-on id: plugin.video.sbs add-on version: 1.1.2 kodi version: 15.2 python version: 2.7.3 default, feb 29 2016, 21:17:05 gcc 4.9.3 operating system: linux2 linux 4.1.18 armv7l ip address: 141.168.108.229 static.belong.com.au isp: telstra internet kodi url: ?action=sendreport python path: /storage/.kodi/addons/plugin.video.sbs/resources/lib
+/storage/.kodi/addons/plugin.video.sbs
+/storage/.kodi/addons/script.common.plugin.cache/lib
+/storage/.kodi/addons/script.module.aussieaddonscommon/lib
+/storage/.kodi/addons/script.module.beautifulsoup4/lib
+/storage/.kodi/addons/script.module.requests/lib
+/usr/lib/python27.zip
+/usr/lib/python2.7
+/usr/lib/python2.7/plat-linux2
+/usr/lib/python2.7/lib-tk
+/usr/lib/python2.7/lib-old
+/usr/lib/python2.7/lib-dynload
+/usr/lib/python2.7/site-packages
+/usr/lib/python2.7/site-packages/gtk-2.0 full log https://gist.github.com/53fe4398e2514a415713a8e40edbcb81

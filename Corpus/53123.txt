@@ -1,0 +1,1 @@
+ URL : "https://github.com/rixed/ramen/issues/38" TITLE : default_team is broken BODY : instead, either: broadcast the alert to all teams or force an editable flag default to one team? broadcasting seems to summon all kind of problems as it corner case the data model.

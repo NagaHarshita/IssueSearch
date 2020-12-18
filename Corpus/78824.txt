@@ -1,0 +1,1 @@
+ URL : "https://github.com/BakerJQ/Android-InfiniteCards/issues/7" TITLE : remove a card from stack BODY : how to remove a card from stack? is there any method for that? also can we get the current card-item/card-view in the cardanimationlistener

@@ -1,0 +1,1 @@
+ URL : "https://github.com/47deg/sbt-microsites/issues/222" TITLE : option to disable kazari BODY : hi, the kazari implementation is currently very huge 62 and has a rendering issue. a checkbox at the bottom the page is always displayed e.g. https://typelevel.org/cats/ . it would be nice to disable kazari if you don't make any use of it.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/GRIFFINCollaboration/GRSISort/issues/863" TITLE : get tppg in a tchain BODY : i want to look at the ppg in a bunch of analysis trees. i use tchain to chain all my files, but when i try to do a get tppg on the analysistree now a tchain i get the error: error: ‘class tchain’ has no member named ‘get’ any workaround for this?

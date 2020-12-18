@@ -1,0 +1,1 @@
+ URL : "https://github.com/tovic/rich-text-editor/issues/3" TITLE : error state on dialog exit BODY : add error state once on dialog exit when there is a value in the input field. ! error-state https://cloud.githubusercontent.com/assets/1669261/26275894/825d6c34-3d95-11e7-8d07-b81a51dd7a86.gif

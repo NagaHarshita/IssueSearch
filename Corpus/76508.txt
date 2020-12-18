@@ -1,0 +1,1 @@
+ URL : "https://github.com/alexa/alexa-avs-sample-app/issues/491" TITLE : launching truly headless BODY : hi, is it possible to start a process without loading gui? i mean get rid of vnc, and just start the process at boot time? alexa would be used only by a wake word.

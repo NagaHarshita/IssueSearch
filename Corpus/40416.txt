@@ -1,0 +1,1 @@
+ URL : "https://github.com/KSDaemon/wampy.js/issues/41" TITLE : typo in wampy.js:509 BODY : hi, i think this._options._authmethods needs to be changed to this._options.authmethods excess underscore before authmethods . 508: if this._options.authid { 509: options.authmethods = this._options._authmethods; ^^^^^^^^^^^^ 510: options.authid = this._options.authid; 511: }

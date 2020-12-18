@@ -1,0 +1,1 @@
+ URL : "https://github.com/VaTz88/FFCSonTheGo/issues/34" TITLE : custom names for tables BODY : allow user to name the added timetable. like 'morning', 'evening', etc. instead of generic names like 'table 1', 'table 2', etc. that'll be easy to remember for switching and also when user resumes back later sometime.

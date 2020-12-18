@@ -1,0 +1,1 @@
+ URL : "https://github.com/zserge/slide/issues/3" TITLE : export to pdf BODY : export to pdf doesn't seem to write to the pdf file. the slide::render happens but it's never written to file.

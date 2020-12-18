@@ -1,0 +1,1 @@
+ URL : "https://github.com/rs/cors/issues/38" TITLE : typo in the release tag BODY : i think it should be v1.1 not v.1.1 - because of typo dependency managers like glide have problems picking up latest version.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/qlicker/qlicker/issues/199" TITLE : remove cfs stuff BODY : in the main repo, need to type meteor remove cfs:gridfs meteor remove cfs:standard-packages to get rid of the bson error/warning

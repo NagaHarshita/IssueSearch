@@ -1,0 +1,1 @@
+ URL : "https://github.com/jmichelin/git-comments/issues/2" TITLE : storage in database BODY : comments should be stored in a database so they can be analyzed/filtered/etc for later use.

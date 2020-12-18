@@ -1,0 +1,1 @@
+ URL : "https://github.com/vaadin/vaadin-text-field/issues/163" TITLE : visible scrollbar on ie11 BODY : description: the scrollbar is visible by default in ie11 even while stretching the text-area. gif: ! scollbar https://user-images.githubusercontent.com/29372419/32719308-98cb3e3e-c868-11e7-99ed-3ad09c95326e.gif

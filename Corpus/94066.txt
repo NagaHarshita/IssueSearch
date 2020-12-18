@@ -1,0 +1,1 @@
+ URL : "https://github.com/fidelram/deepTools/issues/467" TITLE : bigwigcompare --ratio mean BODY : from the mailing list, it was requested to add a mean method to bigwigcompare. this would be pretty easy i think.

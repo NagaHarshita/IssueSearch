@@ -1,0 +1,1 @@
+ URL : "https://github.com/cbeust/klaxon/issues/65" TITLE : refactor tojsonstring BODY : using a boolean parameter to switch the behaviour of a method is widely regarded as an anti-pattern. so instead of tojsonstring true it would be much better to have a dedicated method toprettyjsonstring

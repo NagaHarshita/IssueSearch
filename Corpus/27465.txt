@@ -1,0 +1,1 @@
+ URL : "https://github.com/kmcarter/karaoke-song-lister/issues/15" TITLE : deep linking broken BODY : if you refresh the page after navigating to a page, it 404s.

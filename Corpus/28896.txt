@@ -1,0 +1,1 @@
+ URL : "https://github.com/txwkx/book-room/issues/24" TITLE : implement book form BODY : required fields: - title - room - date - start time - end time by default + 30 min once claiming a room update 2 collections: - meetings new record -> roomid, hostid, starttime, endtime - bookings find record by roomid & date -> update timeslots array

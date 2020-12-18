@@ -1,0 +1,1 @@
+ URL : "https://github.com/sunjay/turtle/issues/1" TITLE : support hex colors BODY : this is mostly implemented https://github.com/sunjay/turtle/blob/9de528226bbf7fb6477941e3100b3f1b18fd74e6/src/color.rs l94 . all we need to do is finish the code to parse both 3 and 6 digit hex numbers and add some tests.

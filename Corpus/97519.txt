@@ -1,0 +1,1 @@
+ URL : "https://github.com/armilam/google-assistant-ruby/issues/15" TITLE : handle user authentication BODY : i believe google assistant api sends some user information. let's make use of this somehow so that we can authenticate users in applications using this gem.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/cfparser/cfparser/issues/94" TITLE : offsets, we need offsets BODY : some things need offsets, and we're currently basically throwing them away, so instead of making other stuff re-read the sources to figure out locations lets pass an offset in addition to the line and column.

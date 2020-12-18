@@ -1,0 +1,1 @@
+ URL : "https://github.com/dnaf/k8000/issues/1" TITLE : improve error handling BODY : currently there's no easy way for a module to handle errors. there needs to be a standard error handler.

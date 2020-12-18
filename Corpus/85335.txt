@@ -1,0 +1,1 @@
+ URL : "https://github.com/rangle/typed-immutable-record/issues/27" TITLE : examples test file missed BODY : see https://github.com/rangle/typed-immutable-record/blob/master/src/typed.record.ts l32 > examples in test file: 'test/typed.record.test.ts' so, where is that file?! :smile: some examples + api documentation would be super-helpful!

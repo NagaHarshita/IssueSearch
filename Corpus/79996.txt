@@ -1,0 +1,1 @@
+ URL : "https://github.com/poulfoged/Elasticsearch-Inside/issues/12" TITLE : support of netcoreapp1.1 BODY : it's impossible to add elasticsearch-inside throw nuget. as i can see it supports net461 only. so, are you going to add support of netcoreapp1.1?

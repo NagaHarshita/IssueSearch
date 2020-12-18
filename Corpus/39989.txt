@@ -1,0 +1,1 @@
+ URL : "https://github.com/golang-bristol/beer-server/issues/14" TITLE : swap glide for godep BODY : it's looking like godep https://github.com/tools/godep is going to become the official dependency manager for go, so why not switch to it.

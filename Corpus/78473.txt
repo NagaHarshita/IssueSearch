@@ -1,0 +1,1 @@
+ URL : "https://github.com/uscensusbureau/citysdk/issues/324" TITLE : provide 1990 geographies BODY : the census api provides data going back to 1990 for sf3. it'd be great if 1990 geographies could also be provided so that long time series.

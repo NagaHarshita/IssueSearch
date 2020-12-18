@@ -1,0 +1,1 @@
+ URL : "https://github.com/BenFradet/RiotSharp/issues/385" TITLE : uniform unit test naming BODY : right now the naming of the unit tests is rather random. i suggest that we use this naming convention: function_stateundertest__expectedbehavior

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Pixplicity/HtmlCompat/issues/21" TITLE : htmlcompat with picasso BODY : how can i load images from <img> using picasso? i can get image url from source attribute and create drawable instance, but i can't return for method getdrawable

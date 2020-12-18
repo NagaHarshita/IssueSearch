@@ -1,0 +1,1 @@
+ URL : "https://github.com/IGITUGraz/spore-nest-module/issues/13" TITLE : make logos more portable BODY : our custom nest logos use a specific font courier new which is not necessarily installed on every system. we should convert those strings to plain svg shapes to provide better portability.

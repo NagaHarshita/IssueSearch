@@ -1,0 +1,1 @@
+ URL : "https://github.com/tendermint/tendermint/issues/866" TITLE : p2p: sentry mode BODY : - less bias for unvetted peers during book.pickaddress - use some multiple above 1 for bad behaviour ? - evolving random connections to each other as special subset of total peers - special incoming slot for validator and its backups

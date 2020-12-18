@@ -1,0 +1,1 @@
+ URL : "https://github.com/flynn/flynn/issues/4036" TITLE : controller api 404 BODY : hi there, has something changed, i just follow https://flynn.io/docs/api/controller update-route but i always get a 404 status, i really have checked my url many many times now... so is the documentation right? thanks, martin

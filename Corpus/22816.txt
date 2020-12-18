@@ -1,0 +1,1 @@
+ URL : "https://github.com/perl6/doc/issues/1252" TITLE : mistake in example BODY : found a mistake in the doc or a misfuncton of my brain on page http://docs.perl6.org/language/quoting at section 'word quoting: qw'. the first example uses the .words method at the end which i think should not be there for eqv to work. regards, marcel

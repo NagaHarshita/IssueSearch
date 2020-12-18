@@ -1,0 +1,1 @@
+ URL : "https://github.com/mobxjs/mobx/issues/1172" TITLE : rename esm output to .mjs BODY : basically; use .mjs file extension for module fields. pr 1131 already addresses this, and can simple be redone, once we are sure it works on the most common targets. for webpack it is known to work, for rn there is this pending question: https://github.com/facebook/metro-bundler/issues/59

@@ -1,0 +1,1 @@
+ URL : "https://github.com/sm00th/bitlbee-discord/issues/109" TITLE : backslashes get eaten BODY : when sending something like ¯\ '-' /¯ discord users will only see ¯ '-' /¯

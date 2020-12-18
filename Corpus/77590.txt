@@ -1,0 +1,1 @@
+ URL : "https://github.com/altLab/altBot/issues/12" TITLE : no external dependencies BODY : the code should run withou external dependencies of files like index.html and/or js files. a basic version should be included statically into the code.

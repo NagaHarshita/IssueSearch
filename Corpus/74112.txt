@@ -1,0 +1,1 @@
+ URL : "https://github.com/nokeya/direct-links-out/issues/25" TITLE : dosen't work with upwork BODY : for example on link https://www.upwork.com/leaving?ref=https%3a%2f%2fdevelopers.google.com%2fmy-business i've updated it also to else if /upwork/i.test loc anchor = 'leaving?ref=';

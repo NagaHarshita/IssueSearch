@@ -1,0 +1,1 @@
+ URL : "https://github.com/epochtalk/epochtalk-api-tests/issues/5" TITLE : node version requirements BODY : npm notice created a lockfile as package-lock.json. you should commit this file. this is because i'm probably on a newer version of npm/node. let's agree on using either node.js lts 6.x or current 8.x .

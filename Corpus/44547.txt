@@ -1,0 +1,1 @@
+ URL : "https://github.com/elementary/files/issues/104" TITLE : fails with newer glib BODY : glib 2.53.4 pantheon-files:26760 : gtk-warning : theme parsing error: <data>:7:43: the style property gtkwidget:focus-padding is deprecated and shouldn't be used anymore. it will be removed in a future version fatal 18:18:58.661498 glib g_strsplit: assertion 'string != null' failed

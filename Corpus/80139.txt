@@ -1,0 +1,1 @@
+ URL : "https://github.com/solus-project/3rd-party/issues/116" TITLE : teamviewer not launching BODY : neither the teamviewer 12 shortcut or the terminal command to launch teamviewer will launch the program. have tried stopping and restarting the service, uninstall and reinstall.

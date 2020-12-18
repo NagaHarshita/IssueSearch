@@ -1,0 +1,1 @@
+ URL : "https://github.com/pfefferle/atom-php-cs-fixer/issues/66" TITLE : keybinding fails on linux BODY : on linux, the keybinding 'ctrl-cmd-s' is shown as 'ctrl+s'. this doesn't work, because that's the keybinding for save. could a new keybinding be set as default without 'cmd'?

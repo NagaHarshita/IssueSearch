@@ -1,0 +1,1 @@
+ URL : "https://github.com/akka/alpakka/issues/595" TITLE : connector for orientdb BODY : this issue is created to propose the addition of connector for orientdb http://orientdb.com/orientdb/ in alpakka.

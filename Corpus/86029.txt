@@ -1,0 +1,1 @@
+ URL : "https://github.com/sk1418/zhuaxia/issues/50" TITLE : get_real_id : regex error BODY : /zhuaxia/xiami.py, line 463 possible_id = re.search regex , url .group 0 --> possible_id = re.search regex , url .group 0 .strip otherwise possible_id will not be identified.

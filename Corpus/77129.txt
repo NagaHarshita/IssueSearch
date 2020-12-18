@@ -1,0 +1,1 @@
+ URL : "https://github.com/valis/vclang/issues/80" TITLE : module gets loaded twice BODY : sometimes a module might be loaded twice, which results in an illegalstateexception when registering the class in the module namespace. test case: edgar’s lc/test/relation.vc .

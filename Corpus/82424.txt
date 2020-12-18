@@ -1,0 +1,1 @@
+ URL : "https://github.com/vivepandit24/visario/issues/4" TITLE : add to cart notifications BODY : 1. if order units exceed the units available - show notification as we have 30 in stock and you already have 30 in your cart. 2. after product added in cart more tha stock available notification as eg 300 units ready stock 30. backordered stock 270

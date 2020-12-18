@@ -1,0 +1,11 @@
+ URL : "https://github.com/h3len/acunetix_demo/issues/1" TITLE : acunetix - code execution BODY : | target url | http://10.199.252.80:8000/|
+------------ | -------------
+| severity | high| vulnerability description
+this script is possibly vulnerable to code execution attacks. code injection vulnerabilities occur where the output or content served from a web application can be manipulated in such a way that it triggers server-side code execution. in some poorly written web applications that allow users to modify server-side files such as by posting to a message board or guestbook it is sometimes possible to inject code in the scripting language of the application itself. attack details
+url encoded get input ip was set to set|set&amp;set possible execution result: <span class= bb-blue >path=/usr/local/bin:/bin:/usr/bin
+posixly_correct=y
+ppid=28308
+ps4=& x27;+ & x27;
+pwd= http request get /commandexec/example1.php?ip=set%7cset%26set http/1.1 abbb: x-forward-for: 127.0.0.1 cookie: xxxx=xxx host: 10.199.252.80:8000 connection: keep-alive accept-encoding: gzip,deflate user-agent: mozilla/5.0 windows nt 6.1; wow64 applewebkit/537.21 khtml, like gecko chrome/41.0.2228.0 safari/537.21 accept: / impact
+a malicious user may execute arbitrary system commands with the permissions of the web server. remediation
+your script should filter metacharacters from user input. ---- references: security focus - penetration testing for web applications part two http://www.symantec.com/connect/articles/penetration-testing-web-applications-part-two owasp php top 5 http://www.owasp.org/index.php/php_top_5

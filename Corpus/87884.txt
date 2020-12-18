@@ -1,0 +1,1 @@
+ URL : "https://github.com/cheat-engine/cheat-engine/issues/198" TITLE : memory view text encoding BODY : ascii utf-8 utf-16 codepage view add? utf8 -> codepage? ! bug https://user-images.githubusercontent.com/18622105/26894107-6a6ef2ac-4bf8-11e7-939e-de9740e9a2dc.png

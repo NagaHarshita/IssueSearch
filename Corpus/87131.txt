@@ -1,0 +1,1 @@
+ URL : "https://github.com/babel/babylon/issues/687" TITLE : is there something wrong? BODY : https://github.com/babel/babylon/blob/d0c7d7a8c7534f9f766d72435247339c0aa3d365/src/parser/statement.js l893 is it should to be : !this.hasplugin decorators2 ' ?

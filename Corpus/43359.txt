@@ -1,0 +1,1 @@
+ URL : "https://github.com/mantidproject/mantidimaging/issues/124" TITLE : crash on saving stack BODY : to reproduce: - load an image - attempt to save it back out again part of the issue is also the lack of conversion from exception to string for the error dialog.

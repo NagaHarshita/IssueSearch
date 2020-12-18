@@ -1,0 +1,1 @@
+ URL : "https://github.com/aravantv/mb-webapp/issues/17" TITLE : change of 124 to 12 BODY : change on client side of 124 to 12 . expected: a = { b = { c = id1 }, { c = id2 }, { c = id3 } } id1 = { name = _11_ , d = id4 } id2 = { name = vincent , d = id5 } id3 = { name = , d = id6 } id4 = { city = 456 } id5 = { city = 86153 } id6 = { city = 86150 }

@@ -1,0 +1,1 @@
+ URL : "https://github.com/orels1/Red-Portal/issues/52" TITLE : auth not working BODY : hey, if i click the github link in the navbar or go directly to https://cogs.red/api/v1/auth/github i get redirected to the homepage immediately, i can't login.

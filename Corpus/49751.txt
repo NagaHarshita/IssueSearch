@@ -1,0 +1,2 @@
+ URL : "https://github.com/timmybird/Elvira/issues/34" TITLE : update freekick class BODY : dod constructor takes ~~person~~ player
+chaining constructor takes team, creates player with team only and passes to default constructor.

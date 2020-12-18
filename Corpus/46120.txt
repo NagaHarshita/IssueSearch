@@ -1,0 +1,1 @@
+ URL : "https://github.com/haikuports/haikuports/issues/1420" TITLE : libsdl fails to build BODY : generating dependencies for ./src/main/dummy/sdl_dummy_main.c build-deps:218: missing separator. stop. full build log available at http://vmpkg.haiku-os.org/kitchen/ /build/20.

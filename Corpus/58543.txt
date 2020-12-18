@@ -1,0 +1,1 @@
+ URL : "https://github.com/CollectionFS/Meteor-cfs-ui/issues/23" TITLE : some example in react? BODY : it's good to have functional packages, however, currently meteor is working with both angular and react, maybe it's good to cover the react usage for this package as well?

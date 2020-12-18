@@ -1,0 +1,1 @@
+ URL : "https://github.com/zethon/arcc/issues/3" TITLE : set up travis ci support BODY : the c++ project should properly build and link in the travisci system.

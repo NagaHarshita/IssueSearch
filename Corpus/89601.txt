@@ -1,0 +1,1 @@
+ URL : "https://github.com/pyslackers/website/issues/3" TITLE : re-enable the auth routes BODY : these were commented out to reduce initial deploy - they should be re-enabled

@@ -1,0 +1,1 @@
+ URL : "https://github.com/NuGet/NuGetGallery/issues/4566" TITLE : remember me option BODY : when signing in to nuget, please remember my last sign-in state or show a remember me checkbox on the sign-in page. currently the sign-in lasts only per session, which is a bit annoying. the new design is gorgeous! thank y'all!

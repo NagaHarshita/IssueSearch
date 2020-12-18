@@ -1,0 +1,1 @@
+ URL : "https://github.com/philm/ansible_playbook/issues/5" TITLE : running local tasks BODY : hi! it's unclear from readme if this image will allow to run local tasks, not remote. e.g. i have doubts that from container it would be possible to create local users, folders, etc. please clarify this. i suggest adding to readme some comments on this as well. thanks!

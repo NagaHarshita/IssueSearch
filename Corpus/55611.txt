@@ -1,0 +1,1 @@
+ URL : "https://github.com/jakewski/mah/issues/55" TITLE : judge screen component BODY : -in the back, we wait for each answer to be submitted then send it to the front and render the choices for the host

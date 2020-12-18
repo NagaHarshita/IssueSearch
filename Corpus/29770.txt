@@ -1,0 +1,1 @@
+ URL : "https://github.com/jehoshua02/react-resize-sensor/issues/2" TITLE : module parse failed BODY : module parse failed: d:\projects\main ode_modules\react-resize-sensor\resizesensor.js unexpected token 9:6 you may need an appropriate loader to handle this file type. | render: function { | return | <iframe ref= iframe style={{ | height: '100%', | width: '100%',

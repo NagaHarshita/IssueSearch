@@ -1,0 +1,1 @@
+ URL : "https://github.com/miloyip/rapidjson/issues/914" TITLE : floating point diffs BODY : for my input, i have: zoom : 2.553, and output after write: zoom : 2.552, is there a way i can ensure that floating point values are consistent across read/write? i thought setting the decimal places to 3 would be sufficient but evidently not.

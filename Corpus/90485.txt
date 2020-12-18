@@ -1,0 +1,1 @@
+ URL : "https://github.com/ethereumproject/emerald-cli/issues/25" TITLE : shows password in console BODY : $ emerald transaction <....> enter passphrase: testtest password shouldn't be visible

@@ -1,0 +1,1 @@
+ URL : "https://github.com/bitsquare/bitsquare/issues/867" TITLE : keypair must not be null? BODY : i imported wallet from seed from bitsquare, then i tried to create a password and this happened: ! untitled-1 https://user-images.githubusercontent.com/29436760/28209546-4296239c-6893-11e7-8d15-a165909bf817.jpg

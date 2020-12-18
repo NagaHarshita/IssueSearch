@@ -1,0 +1,1 @@
+ URL : "https://github.com/schwal10/lunatic-fringe/issues/17" TITLE : fix slicer orbiting BODY : update the slicer ai so that it is smarter and will not orbit the player when the player is at low speeds or sitting still.

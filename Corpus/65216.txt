@@ -1,0 +1,1 @@
+ URL : "https://github.com/dwaring87/right-track-db/issues/7" TITLE : improve error reporting BODY : improve the reporting of failed sanity checks. use the post_compile script to email agencies that failed the sanity checks.

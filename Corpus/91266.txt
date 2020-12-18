@@ -1,0 +1,1 @@
+ URL : "https://github.com/flow123d/flow123d/issues/876" TITLE : test interpolation output BODY : - test that we can make output of 'pressure_p0' and 'velocity' in nodes and corners - test output of 'temperature' from dg heat in element centers and nodes - test output of 'conc' from fv transport in nodes and corners ... make a one or two tests in 03_generic_output

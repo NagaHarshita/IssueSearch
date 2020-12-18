@@ -1,0 +1,1 @@
+ URL : "https://github.com/martinnov92/React-Splitters/issues/7" TITLE : allow react 15 BODY : can you change your package.json dependency to support 15 and 16? peerdependencies : { react : ^15.0.0 || ^16.0.0 },

@@ -1,0 +1,3 @@
+ URL : "https://github.com/mysociety/alaveteli/issues/3906" TITLE : more flexible spam config BODY : individual config flags for each spam prevention measure enable_antispam turns them all on example ruby
+if alaveteliconfiguration.block_spam_domains || alaveteliconfiguration.enable_antispam spam prevention
+end need to decide what to do about alerting too. in the case of blocking spam domains, the alert noise for wdtk is pretty extreme, but might be more useful for smaller installs. i guess we could write to the log, but how to make this consistent across prevention measures?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/vielmetti/worksonarm-news/issues/68" TITLE : opnfv with ci BODY : see https://build.opnfv.org/ci/job/storperf-verify-build-aarch64-master/58/console and this tweet: https://twitter.com/markbeierl/status/904868381144305667 look for the source tree, and get a nice concise paragraph about what opnfv is and does.

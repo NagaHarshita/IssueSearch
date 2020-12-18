@@ -1,0 +1,1 @@
+ URL : "https://github.com/Woofie-Woof/Yoshi-Bot/issues/6" TITLE : change sendmessage to send BODY : this isn't really a issue but it was the only good place to post it. all new commands must use send instead of sendmessage since sendmessage is deprecated. it would probably be good to change all the current ones but it not necessary.

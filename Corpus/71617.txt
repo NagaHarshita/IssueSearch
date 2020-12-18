@@ -1,0 +1,1 @@
+ URL : "https://github.com/ruby/spec/issues/513" TITLE : add specs for tracepoint BODY : specs for tracepoint are currently missing, as discovered by 508. i am not sure why they were missed. a good way to start would be to run this in ruby/spec: bash mkspec -c tracepoint then to fill the templates :

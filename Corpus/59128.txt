@@ -1,0 +1,1 @@
+ URL : "https://github.com/chancancode/json_expressions/issues/40" TITLE : tests fail for ruby 2+ BODY : when tests are run against ruby versions > 2, there are some failures. see https://github.com/chancancode/json_expressions/pull/39 for the skipped tests.

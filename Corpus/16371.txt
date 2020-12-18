@@ -1,0 +1,1 @@
+ URL : "https://github.com/autocrypt/py-autocrypt/issues/17" TITLE : implement level 1 BODY : related to 15, the level 1 compliant repository using pgpy is https://github.com/juga0/pyac. it's missing better cli, main functionality is implemented.

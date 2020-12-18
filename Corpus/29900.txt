@@ -1,0 +1,1 @@
+ URL : "https://github.com/thredded/thredded/issues/561" TITLE : nav: flip the order BODY : usually, the user name is displayed in the top-right. it makes sense for private messages and notifications to be close to the user name. perhaps we should swap search and user nav, i.e. move search to the left and user nav to the right?

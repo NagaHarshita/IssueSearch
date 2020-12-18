@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpenKGB/webcode/issues/2" TITLE : set up docker for BODY : - check that fairly modern versions of docker and docker-compose are installed - create container configuration for django and postgres - create a docker-compose file to deploy the project as a whole

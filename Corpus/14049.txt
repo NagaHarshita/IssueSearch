@@ -1,0 +1,1 @@
+ URL : "https://github.com/VictoriaLacroix/game/issues/5" TITLE : add a save system BODY : this system should expose itself and it's vars all over the place, so it should be static maybe it could work by registering game vars by name and type generically

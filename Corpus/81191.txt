@@ -1,0 +1,1 @@
+ URL : "https://github.com/cmusatyalab/openface/issues/220" TITLE : web demo and python code BODY : hi, i am new to web design. so how did you connect your face recognition python code to the web page? for example, when you click the train button, your training function runs. how does this happen? which part should i look into in your web code? thanks!

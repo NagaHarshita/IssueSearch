@@ -1,0 +1,1 @@
+ URL : "https://github.com/fabric8-services/fabric8-auth/issues/2" TITLE : ci/cd for fabric8-auth BODY : build/test and deploy fabric8-auth to preview and prod

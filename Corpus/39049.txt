@@ -1,0 +1,1 @@
+ URL : "https://github.com/maputnik/editor/issues/79" TITLE : replace access token BODY : the urls can contain a key and it is interpolated by a key specified in the settings. @jirik will implement the functionality to specify a access key for openmaptiles when exporting to gist.

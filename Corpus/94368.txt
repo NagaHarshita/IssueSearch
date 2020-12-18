@@ -1,0 +1,1 @@
+ URL : "https://github.com/ForbesLindesay/throat/issues/32" TITLE : can you add more examples? BODY : can you add more examples? the featured examples are not actually working examples and i don't know how to implement them. i suggest something using settimeout and console.log so you can just copy and paste and have a functioning implementation from the start.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/itsthejoker/TranscribersOfReddit/issues/2" TITLE : testing suite for u/tor BODY : currently we have no unittests. this should change, preferably by using pytest with travis ci.

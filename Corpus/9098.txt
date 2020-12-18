@@ -1,0 +1,1 @@
+ URL : "https://github.com/vuejs/vue-test-utils/issues/156" TITLE : test slot scope BODY : we should add a way to test the scoped slots. for example, <slot v-for= ... :item= item :index= index /> ➡️ we should be able to test the values of item and index in the slot.

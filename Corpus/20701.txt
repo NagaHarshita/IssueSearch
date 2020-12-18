@@ -1,0 +1,1 @@
+ URL : "https://github.com/CSC322-Grinnell/volunteer-board/issues/8" TITLE : create event model BODY : create a model for events that includes fields for all the information about the event, reference the ppt + meeting notes

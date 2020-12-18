@@ -1,0 +1,1 @@
+ URL : "https://github.com/dpoetzsch/md-pickers/issues/14" TITLE : cancel button behavior BODY : the cancel button cancel the dialog which is normal but also clears the date, which is a little bit confusing, in my opinion. it might be a good thing to be able to cancel the dialog without setting the date to null. maybe just adding a clear button and stop reseting on cancel?

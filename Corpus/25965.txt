@@ -1,0 +1,1 @@
+ URL : "https://github.com/JuliaLang/Compat.jl/issues/313" TITLE : add min x and max x BODY : in julia 0.5 and 0.6, min and max can take a single argument: julia julia> min 3 3 this was not available in 0.4, so should probably be provided by compat.jl

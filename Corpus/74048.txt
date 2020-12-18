@@ -1,0 +1,1 @@
+ URL : "https://github.com/zmora-agh/zmora-server/issues/15" TITLE : dodanie pól do problemu BODY : do realizacji https://github.com/zmora-agh/zmora-ui/issues/40 potrzeba dodać pola zwracane przy pobieraniu listy problemów: category , deadline i points .

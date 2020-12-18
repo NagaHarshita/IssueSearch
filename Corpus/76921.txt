@@ -1,0 +1,1 @@
+ URL : "https://github.com/turt2live/matrix-appservice-minecraft/issues/9" TITLE : mc chat command: !matrix BODY : <turt2live> !matrix in-game chat command for getting information about the matrix bridge. number of matrix users, matrix.to link to join. do not relay command or response to matrix.

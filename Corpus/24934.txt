@@ -1,0 +1,5 @@
+ URL : "https://github.com/aawadall/PyProjMan/issues/25" TITLE : unused import uuid BODY : codacy https://www.codacy.com/app/aawadall/pyprojman/commit?cid=127541665 detected an issue: message: unused import uuid occurred on:
++ commit : d20f24efbb518f762b3e5b6fdfd9bf37912db4dd
++ file : pyprojman/test_task.py https://github.com/aawadall/pyprojman/blob/d20f24efbb518f762b3e5b6fdfd9bf37912db4dd/pyprojman/test_task.py + linenum : 1 https://github.com/aawadall/pyprojman/blob/d20f24efbb518f762b3e5b6fdfd9bf37912db4dd/pyprojman/test_task.py l1 + code : import uuid currently on:
++ commit : eb3a7e3d664d10dbb1bb2f4a690219bf16e72fa4
++ file : pyprojman/test_task.py https://github.com/aawadall/pyprojman/blob/eb3a7e3d664d10dbb1bb2f4a690219bf16e72fa4/pyprojman/test_task.py + linenum : 1 https://github.com/aawadall/pyprojman/blob/eb3a7e3d664d10dbb1bb2f4a690219bf16e72fa4/pyprojman/test_task.py l1

@@ -1,0 +1,1 @@
+ URL : "https://github.com/tkomiya24/upvote/issues/3" TITLE : add a registration page BODY : this will set up react router. the registration page doesn't have to actually register a user yet, it can be just the front end.

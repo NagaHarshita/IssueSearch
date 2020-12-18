@@ -1,0 +1,2 @@
+ URL : "https://github.com/GonzaloAlvarez/devops-tools/issues/27" TITLE : allow use of galaxy roles BODY : we can have simply pointers to them with empty file names with the role itself to be
+resolved on script creation time.

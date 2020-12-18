@@ -1,0 +1,1 @@
+ URL : "https://github.com/VahidN/EPPlus.Core/issues/33" TITLE : get/set excel rows indexes BODY : hi! is there a way to get the row's index so we can use it as pk? in your example you have the attribute id, but how can you associate it with the row's index?

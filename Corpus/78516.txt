@@ -1,0 +1,1 @@
+ URL : "https://github.com/IAops/flume-ng-sql-source/issues/3" TITLE : pure jdbc implementation BODY : prefer using jdbc only, no orm framework to avoid data copy

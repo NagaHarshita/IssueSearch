@@ -1,0 +1,13 @@
+ URL : "https://github.com/richelbilderbeek/travis_cpp_tutorial/issues/15" TITLE : use github lfs BODY : _from @richelbilderbeek on july 18, 2016 15:6_ my question, send to github help: > the description how to install git-lfs is straightforward, iff one has root rights.
+> > too bad that in my working environment, i do not have access to root rights:
+> > ./install.sh
+> install: cannot create regular file ‘/usr/local/bin/git-lfs’: permission denied
+> > would it be possible to describe the installation of git-lfs for a user without root rights?
+> > thanks, richel bilderbeek reply: > hi richel,
+> > thanks for getting in touch. in order to use git lfs, you'll need to install it somewhere that you can write to.
+> > setting a prefix in your home directory, either prefix=$home directly or prefix=$home/git-lfs , and then adding the resulting bin directory to your path is the best way to accomplish this without administrator access.
+> > if you've never modified your path before, this article gives an overview of how that works:
+> > http://www.computerhope.com/issues/ch001647.htm
+> > hope this helps!
+> > cheers,
+> jess _copied from original issue: richelbilderbeek/cer2016 89_

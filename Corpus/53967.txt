@@ -1,0 +1,1 @@
+ URL : "https://github.com/mm1ke/gentoo-scripts/issues/13" TITLE : false positive srctest BODY : i think this is a false positive: http://gentoo.levelnine.at/srctest/sort-by-maintainer/tex_at_g.o.txt dev-tex/latex2html|http://mirrors.ctan.org/support/latex2html/latex2html-2017.2.tar.gz|tex@gentoo.org:

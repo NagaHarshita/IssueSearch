@@ -1,0 +1,1 @@
+ URL : "https://github.com/alfredh/rew/issues/7" TITLE : remote role unclear BODY : now that we've switched from a boolean role controlling - yes/no to an explicit role using an enumerator, there's one open issue here https://github.com/alfredh/rew/blob/e5903f9f742db41aaafb16e98335a8addfe5d559/src/trice/stunsrv.c l234 : what should happen if remote_role == ice_role_unknown ?

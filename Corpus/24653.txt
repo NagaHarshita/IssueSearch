@@ -1,0 +1,1 @@
+ URL : "https://github.com/robertlevonyan/customFloatingActionButton/issues/1" TITLE : taking vector icon BODY : currently if i try to give a victor image source to the fabicon, it through an exception. it would be great if you can make such a change

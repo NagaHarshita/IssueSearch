@@ -1,0 +1,1 @@
+ URL : "https://github.com/resin-os/resin-edge/issues/4" TITLE : deprecate this device type BODY : add a new state of deprecated to the device type here https://github.com/resin-os/resin-edge/blob/master/edge.coffee l9 connects with https://github.com/resin-io/hq/pull/728 connects with https://github.com/resin-io/resin-ui/issues/912

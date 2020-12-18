@@ -1,0 +1,1 @@
+ URL : "https://github.com/vadi2/mudlet-lua/issues/28" TITLE : fix busted tests BODY : busted tests are, well, busted. apparently busted 2.0 redefines the -l parameter and in general the tests don't work as @keneanung discovered.

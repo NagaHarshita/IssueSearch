@@ -1,0 +1,1 @@
+ URL : "https://github.com/strapi/strapi/issues/184" TITLE : start using yarn? BODY : hi, it would be useful to have a yarn.lock file to minimize the bugs with different version of packages. strapi version : 3

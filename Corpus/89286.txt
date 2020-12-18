@@ -1,0 +1,1 @@
+ URL : "https://github.com/criticalstack/libevhtp/issues/20" TITLE : problem with installation BODY : running make install after compiling places headers in /usr/local/evhtp/ dir under ubuntu . using those global headers causes compilation to fail because evhtp.h includes files assuming they are installed in /usr/local/ dir instead.

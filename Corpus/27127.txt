@@ -1,0 +1,1 @@
+ URL : "https://github.com/evenset/react-native-mobx/issues/5" TITLE : confirm the license BODY : the readme currently says the license is mit. we need to confirm whether this is a true, then include a copy of the license in the repository.

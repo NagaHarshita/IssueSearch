@@ -1,0 +1,1 @@
+ URL : "https://github.com/DiscordDungeons/Bugs/issues/156" TITLE : an octopus vs a octopus BODY : catching an octopus produces the message: you have caught a octopus! as opposed to the grammatically correct an octopus . http://prntscr.com/ex9xxs reported by jad kheirallah 3398 http://prntscr.com/ex9wv3

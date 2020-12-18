@@ -1,0 +1,1 @@
+ URL : "https://github.com/Xenira/ts-express-template/issues/2" TITLE : add socket.io example BODY : example for socket.io implementation. - add server to index.ts - add handler in /src/sockets

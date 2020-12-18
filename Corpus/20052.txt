@@ -1,0 +1,1 @@
+ URL : "https://github.com/kontaktio/kontakt-ios-sdk/issues/41" TITLE : beacon mac address BODY : it is possible to get mac address from beaconmanager:didrangebeacons: inregion: delegate method. something equivalent with android getaddress http://kontaktio.github.io/kontakt-android-sdk/3.2.2/javadoc/com/kontakt/sdk/android/ble/device/beacondevice.html getaddress--

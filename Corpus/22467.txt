@@ -1,0 +1,1 @@
+ URL : "https://github.com/kuromike0629/genesis/issues/12" TITLE : license of genesis BODY : i forgot to write license of genesis. my suggestion is ... 1.gpl 2.mit 3.bsd in your source code in button.c license set gpl but i guess gpl is little too strong for genesis.

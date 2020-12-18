@@ -1,0 +1,1 @@
+ URL : "https://github.com/xodms1701/AudioTest/issues/3" TITLE : event programing switch BODY : - 스위치 위젯을 클릭했을 때 스위치가 on으로 선택된 상태이면 음악이 재생되게 - 스위치 위젯을 클릭했을 때 스위치가 off로 선택된 상태이면 음악이 일시정지되게 - 액티비티가 화면에 보이지않으면 음악이 증지되게 한다.

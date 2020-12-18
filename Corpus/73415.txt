@@ -1,0 +1,1 @@
+ URL : "https://github.com/parion/animal-rescvue/issues/3" TITLE : create dog and cat pages BODY : create sample dashboard pages for dogs and cats. the pages do not have to connect to firebase yet. information should include number of dogs/cats, dogs/cats that need medication, dogs/cats that were just brought in, etc.

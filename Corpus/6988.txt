@@ -1,0 +1,1 @@
+ URL : "https://github.com/lizeng614/SqueezeNet-Neural-Style-Pytorch/issues/3" TITLE : cpu only failed BODY : hi, i'm trying your model without gpu no cuda, either , but it dropped an cuda runtime error: shell runtimeerror: cuda runtime error 35 : cuda driver version is insufficient for cuda runtime version at torch/csrc/autograd/engine.cpp:353

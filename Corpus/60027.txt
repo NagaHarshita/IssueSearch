@@ -1,0 +1,1 @@
+ URL : "https://github.com/paritytech/parity/issues/6054" TITLE : wasm: proper unwinding BODY : for debugging purposes, runtime can handle much of the data passed to _rust_begin_unwind when contract code aborts on exception.

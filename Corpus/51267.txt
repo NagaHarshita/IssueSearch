@@ -1,0 +1,1 @@
+ URL : "https://github.com/DenisCarriere/mbtiles-offline/issues/3" TITLE : added nodejs 8 support BODY : automated the process to build the sqlite3 binaries and i've added nodejs 8 support to sqlite3-offline https://github.com/deniscarriere/sqlite3-offline which is now updated in mbtiles-offline . cc: @aaronlidman

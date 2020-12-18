@@ -1,0 +1,1 @@
+ URL : "https://github.com/2Toad/node-teradata/issues/37" TITLE : missing named parameter BODY : when an identically named parameter appears multiple times in a query, the error message missing named parameter is thrown. expected behavior all instances of an identically named parameter should be successfully parsed without error. workaround use anonymous parameters

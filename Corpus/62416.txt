@@ -1,0 +1,1 @@
+ URL : "https://github.com/nlesc-dirac/sagecal/issues/11" TITLE : code analysis is needed BODY : it is strange to have the following line in lib/dirac/dirac.h ifndef sagecal_h define sagecal_h a code analysis is needed. a simplest analysis can be performed using http://cppcheck.sourceforge.net/

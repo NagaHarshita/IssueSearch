@@ -1,0 +1,1 @@
+ URL : "https://github.com/dvrylc/discovery/issues/10" TITLE : maintain scroll position BODY : when navigating forward or backward in the browser, maintain the user’s scroll position. especially important in long comment threads. ! 61c8b5e2-f1dc-4b43-a3a9-bf6dccc43ae1 https://user-images.githubusercontent.com/6095637/32990851-bde3a096-cd6b-11e7-9954-a300606922ee.gif

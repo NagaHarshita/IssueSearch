@@ -1,0 +1,1 @@
+ URL : "https://github.com/TangoMan75/UserBundle/issues/1" TITLE : feature request: twig tag BODY : try something like {{ user login_form, 'template' }}

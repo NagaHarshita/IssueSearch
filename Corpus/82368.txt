@@ -1,0 +1,1 @@
+ URL : "https://github.com/silinternational/idp-id-broker-php-client/issues/19" TITLE : add support for new api's BODY : getting expiring users: https://github.com/silinternational/idp-id-broker/blob/develop/api.raml l589 getting new users: https://github.com/silinternational/idp-id-broker/blob/develop/api.raml l625

@@ -1,0 +1,8 @@
+ URL : "https://github.com/avalonmediasystem/avalon-planning/issues/154" TITLE : retro notes 131 BODY : - pull requests that do not have an associated story should have the milestone for the current sprint added in waffle
+- if a pr is not attached to a story and is substantial enough to be pointed, it should be pointed
+- if a pr is something very small less than 1 point , we won’t worry about it
+- prs should be attached to an issue if there is a suitable one available
+- milestones on issues should be changed to the current sprint milestone for issues which are carried over from one sprint to the next
+- pull request descriptions should be comprehensive
+- during sprint planning, if there are free floating pull requests we’ll determine if there are issues associated
+- on monday we'll have standup and decide whether to standup for the rest of the week

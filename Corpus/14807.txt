@@ -1,0 +1,1 @@
+ URL : "https://github.com/kiswa/TaskBoard/issues/353" TITLE : cannot run on iis BODY : it was working well on apache but when migrating to iis i just couldn't log in. am i missing something? sorry i'm a rookie

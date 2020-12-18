@@ -1,0 +1,1 @@
+ URL : "https://github.com/mastilver/nosqwal/issues/6" TITLE : handle $link operator BODY : js usercollection.query { where: { name: {$like: 'al%'} } }

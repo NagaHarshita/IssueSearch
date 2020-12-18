@@ -1,0 +1,1 @@
+ URL : "https://github.com/logaretm/vee-validate/issues/510" TITLE : min_value for locale/id.js BODY : i found the min_value in locale/id.js not yet defined its should sound like this more/less min_value: field, size => nilai ${field} minimal ${size}. ,

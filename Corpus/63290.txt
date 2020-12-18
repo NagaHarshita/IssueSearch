@@ -1,0 +1,1 @@
+ URL : "https://github.com/dannypsnl/rocket/issues/4" TITLE : do route's verification BODY : like the basic route, you can not write parameter at there. and / name can not append anything. because it's a file-path, everything following will be seems as file-path.

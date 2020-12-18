@@ -1,0 +1,1 @@
+ URL : "https://github.com/tropy/tropy/issues/131" TITLE : can't save an empty field BODY : if i enter text into a metadata field and then later try to delete it entirely, the change is not saved. i can only overwrite a field with a string.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/CodemoreLA/serverless-node-course/issues/1" TITLE : not an issue really... BODY : ...but, if you're invoking the added function on windows via the cmd line then the format should be: sls invoke local -f hello -d {\ first\ :2, \ second\ :10} i know it's not nice but that should stop your audience pulling their hair out ;-

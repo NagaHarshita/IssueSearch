@@ -1,0 +1,1 @@
+ URL : "https://github.com/mapbox/MapboxGeocoder.swift/issues/126" TITLE : adopt codable protocol BODY : now that this library is on swift 4, we should adopt the codable protocol in order to minimize manual json parsing and minimize opportunities for error when introducing support for a new geocode option or property. /cc @mapbox/ios

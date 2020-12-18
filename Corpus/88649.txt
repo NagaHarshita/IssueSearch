@@ -1,0 +1,1 @@
+ URL : "https://github.com/isovic/racon/issues/35" TITLE : number of working threads BODY : hi there ! i just wanted to confirm with you that as far as to now, racon runs only with one thread. thus, it is unfit to be used on an hpc for a genome wide job. thank you, anne-lise

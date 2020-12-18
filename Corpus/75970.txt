@@ -1,0 +1,1 @@
+ URL : "https://github.com/librenms/librenms/issues/6955" TITLE : improve apc rpdu support BODY : would be nice to have these sensors added too: rpdu2phasestatusloadstate rpdu2devicestatuspower rpdu2devicestatuspowersupplyalarm rpdu2devicestatusloadstate i'll do the code when @laf's current apc pr is merged.

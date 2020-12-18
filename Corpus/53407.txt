@@ -1,0 +1,1 @@
+ URL : "https://github.com/ElucidataInc/crispor-cli/issues/4" TITLE : doesn't run for indels BODY : if we want indel ouputs this code with fail.need to modify files in the bin directory.

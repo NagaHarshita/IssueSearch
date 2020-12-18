@@ -1,0 +1,1 @@
+ URL : "https://github.com/neo-project/neo-compiler/issues/32" TITLE : support jvm member field BODY : kotlin class contract : smartcontract { companion object { @jvmfield val something: int = 1 } fun main : any? { return something } } neo.compiler.jvm console app v2.0.3.0 convert error:system.exception: 找不到入口函数，请检查

@@ -1,0 +1,1 @@
+ URL : "https://github.com/tiffanyrzhou/Oasis/issues/22" TITLE : create worker class BODY : create a worker class that will extend the reporter class. do not incorporate unique methods for the worker class at this time.

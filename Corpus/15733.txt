@@ -1,0 +1,1 @@
+ URL : "https://github.com/rbunning/JABR-Project-3-Angular/issues/36" TITLE : fix chart display BODY : chart would load previous board, need more data for testing, but i believe that the chart stored in local storage needs to be cleared at some point.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/linesh-simplicity/linesh-simplicity.github.io/issues/154" TITLE : shell scripting with bash BODY : bash 擅长做什么事？ bash 不擅长做什么事？根据现在经验，似乎 bash 长于原生的文件、字符串操作，短于 bash 的最佳实践？ 有无 bash 的自动化测试或快速反馈手段？

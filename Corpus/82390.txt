@@ -1,0 +1,1 @@
+ URL : "https://github.com/apatters/spew/issues/2" TITLE : add support to detect eod BODY : we should be able to detect and/or specify eod when writing/reading from an existing file or device, e.g., $ spew -g -b 64k eod /dev/sda or alternatively, just assume eod if size is not specified, e.g., $ spew -g -b 64k /dev/sda

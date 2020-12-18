@@ -1,0 +1,1 @@
+ URL : "https://github.com/ephox/angular-textbox.io/issues/4" TITLE : module breaks form BODY : when i include this module my form work incorrectly. ng-submit and form default implementation doesn't work.

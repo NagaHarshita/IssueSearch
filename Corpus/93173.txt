@@ -1,0 +1,1 @@
+ URL : "https://github.com/BPMspaceUG/REPLACER/issues/7" TITLE : add id to replace function BODY : add the possibility to choose an id to be switched instead of a possible ambiguous and error attracting replace-pattern.

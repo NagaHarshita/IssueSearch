@@ -1,0 +1,1 @@
+ URL : "https://github.com/crazyhitty/Capstone-Project/issues/42" TITLE : show version badges BODY : 1. for google play. 2. for master branch. 3. for beta branch. use this to create a new badge: http://shields.io/ your-badge example badge: ! goolgle play badge https://img.shields.io/badge/google%20play-v0.36-green.svg

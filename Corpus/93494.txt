@@ -1,0 +1,1 @@
+ URL : "https://github.com/aspnet/Hosting/issues/1022" TITLE : add waitforshutdown method BODY : this makes it easy to start the server and wait for a signal ctrl+c/sigint by default .

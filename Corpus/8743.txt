@@ -1,0 +1,1 @@
+ URL : "https://github.com/574BandOfBrothers/memoriae/issues/44" TITLE : reset db script BODY : reset db script description this script is intended to use in development environment. drops all collections and creates new ones. for now collections are users stories annotations

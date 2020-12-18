@@ -1,0 +1,1 @@
+ URL : "https://github.com/seuros/capistrano-puma/issues/240" TITLE : custom puma.rb content BODY : hi @seuros, thank you for the nice work developing the gem! i was trying to find out how could i add custom config lines to the generated puma.rb. is there a way to do this? was not able to find. thank you in advance!

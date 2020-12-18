@@ -1,0 +1,1 @@
+ URL : "https://github.com/survivejs/site/issues/66" TITLE : tweak article sidebar BODY : ! image 2017-12-07 at 11 20 43 am https://user-images.githubusercontent.com/70067/33714979-44f6485c-db51-11e7-97c5-1064aa3af8ac.png - simplify search field replace header with placeholder - remove extra whitespace before the search field - fix line height in the heading - remove arrows

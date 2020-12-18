@@ -1,0 +1,1 @@
+ URL : "https://github.com/Gummibeer/facebook_group_manager/issues/4" TITLE : sync members in loader BODY : also save existing members if needed. load gender if possible. load age if possible.

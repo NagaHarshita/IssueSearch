@@ -1,0 +1,1 @@
+ URL : "https://github.com/Codepixl/codeOS2/issues/4" TITLE : how to solve it BODY : asm/startup.asm:27: warning: dword data exceeds bounds ld -o out/disk/boot/codek32 .o -t linker.ld -melf_i386 -map kernel.map rm .o ./copy.sh sudo password for njraj: sudo: c-x: command not found make: codeos2 error 1

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jaredleekatzman/DeepSurv/issues/21" TITLE : question on deep_surv.py BODY : on line 166: uncensored_likelihood = risk.t - log_risk why is there a .t what does that mean?

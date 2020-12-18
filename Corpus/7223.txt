@@ -1,0 +1,1 @@
+ URL : "https://github.com/david1983/eBtn/issues/2" TITLE : error in readme BODY : you wrote on press ,callbackfn ; i think you meant btn.on press ,callbackfn ;

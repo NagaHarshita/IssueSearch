@@ -1,0 +1,1 @@
+ URL : "https://github.com/sota1235/dotfiles/issues/60" TITLE : tmux.conf for macos BODY : some options are necessary for macos, but not necessary for linux. for example, this line https://github.com/sota1235/dotfiles/blob/master/tmux/tmux.conf l73 is not necessary for linux.

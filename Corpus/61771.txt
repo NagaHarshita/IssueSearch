@@ -1,0 +1,1 @@
+ URL : "https://github.com/playframework/play-json/issues/63" TITLE : branding and versioning BODY : seeing as how this library is no longer a part of the play release cycle, and is meant to be used outside play, is it worth rebranding it using a new name? if we change the artifact name we can also change the versioning scheme with minimal confusion.

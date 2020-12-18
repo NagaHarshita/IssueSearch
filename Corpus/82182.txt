@@ -1,0 +1,1 @@
+ URL : "https://github.com/hmacphail/pokemon-evolution/issues/49" TITLE : add logging for api calls BODY : add log files and logging to track all api calls and any other calls to server, so as not to rely on huge output from console

@@ -1,0 +1,1 @@
+ URL : "https://github.com/PerformanceVision/ramen/issues/49" TITLE : export on demand BODY : get rid of the export keyword, and let ramen change the outref files of a node directed by a tail query. like the temporary layers, the export should timeout after a while.

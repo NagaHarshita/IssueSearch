@@ -1,0 +1,1 @@
+ URL : "https://github.com/DotSpatial/DotSpatial/issues/1019" TITLE : selected line properties BODY : hi, just wanted to know is there any way to get the selected property details. i have a map loaded with shape file, now when i double click on node / conduit. how can we get the selected element properties

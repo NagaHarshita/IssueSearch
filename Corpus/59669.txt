@@ -1,0 +1,1 @@
+ URL : "https://github.com/crocodic-studio/crudbooster/issues/271" TITLE : updated_at not updated BODY : is there anyway that a table that has the updated_at field from another project is updated when something is changed from crudbooster ?

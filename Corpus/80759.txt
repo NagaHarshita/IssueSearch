@@ -1,0 +1,1 @@
+ URL : "https://github.com/oracc/nammu/issues/281" TITLE : update string formatting BODY : there is a mixture of string formatting used in the code at present. we should change code like this: self.logger.debug request sent ok with id %s , server_id to this: self.logger.debug request sent ok with id {} .format server_id for consistency, code readability and future proofing.

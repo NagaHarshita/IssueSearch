@@ -1,0 +1,1 @@
+ URL : "https://github.com/tsoding/Issuestant/issues/37" TITLE : implement permalink class BODY : split from 20 todo 1cdf1e3c-d19b-493d-9d33-f88c92ee24e3 --- don't forget to introduce dependencies that enable permalink with modifying comments, modifying issue descriptions and fileing issues.

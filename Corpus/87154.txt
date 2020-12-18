@@ -1,0 +1,1 @@
+ URL : "https://github.com/meownoid/face-identification-tpe/issues/10" TITLE : issue in preprocessing.py BODY : hello , i keep getting this error in preprocessing.py , line 18 image, , ^ syntaxerror: invalid syntax i'm using python 3.6 and installed all dependencies . i've been struggling all the day with this !

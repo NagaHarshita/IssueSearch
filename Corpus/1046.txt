@@ -1,0 +1,1 @@
+ URL : "https://github.com/dmitriytat/jedi-validate/issues/67" TITLE : fix ie bugs BODY : fix jedi-validate/example/bootstrap.html add polyfills or rewrite to support ie 11. change env preset targets to ie 11. look at usebuiltins option check work in ie 11.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/vscode-docker/issues/62" TITLE : maintainer is deprecated BODY : the lint alert when the maintainer is not defined but the docker docs said that is deprecaded and should use the label instead. more info: https://docs.docker.com/engine/reference/builder/ /maintainer-deprecated

@@ -1,0 +1,1 @@
+ URL : "https://github.com/DMDirc/DMDirc/issues/781" TITLE : event source property BODY : it would be nice for events to have a source property to say where the event came from, or why it was fired or so. for example, /notice, /msg, /raw etc commands should have the window that they were executed in. same for /whois - though this is a bit more icky given that /whois is async.

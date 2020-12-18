@@ -1,0 +1,1 @@
+ URL : "https://github.com/jupp0r/prometheus-cpp/issues/77" TITLE : make serializers public BODY : make json/text/protobuf... serializers public so that we can reuse them without using the exposer. use case is to add a /metrics method to an existing http server.

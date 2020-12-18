@@ -1,0 +1,1 @@
+ URL : "https://github.com/j6k4m8/GenomiK/issues/10" TITLE : sw can be improved BODY : smith-waterman https://github.com/j6k4m8/genomik/blob/master/cgg/cmd/align.go l25 can be improved by passing the cells into a channel for computation, dependent on their north and west neighbors.

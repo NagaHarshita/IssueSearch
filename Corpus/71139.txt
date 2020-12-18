@@ -1,0 +1,1 @@
+ URL : "https://github.com/hudl/fargo/issues/64" TITLE : about connect with feign BODY : description i want to visit go api by feign, but i can't find the go server by feign.but go api has been register in the euraka

@@ -1,0 +1,1 @@
+ URL : "https://github.com/DelegacionUC3M/prestamos/issues/2" TITLE : create model: penalty BODY : implementar modelo de sanción. - clase sanción - constructor: función __init__ - print: función __repr__ link a la wiki https://delegacion.uc3m.es/wiki/doku.php?id=comision_tic:apps:iasad:inicio

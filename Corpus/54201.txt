@@ -1,0 +1,1 @@
+ URL : "https://github.com/Norstone/norstone.github.io/issues/123" TITLE : fix double slash issue BODY : screaming frog is reporting two versions of the site. ex: http://www.norstoneusa.com/products http://www.norstoneusa.com//products determine what is causing the double slash in their search.

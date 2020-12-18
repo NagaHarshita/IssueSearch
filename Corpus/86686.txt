@@ -1,0 +1,1 @@
+ URL : "https://github.com/AdamMc331/PermissionsManager/issues/4" TITLE : implement default actions BODY : it would be nice to have default behaviors like showing a dialog with permission explanation for the user. we would need to architect a flexible solution that allows it to be overridable easily. this is beyond the scope of v1

@@ -1,0 +1,1 @@
+ URL : "https://github.com/appbaseio/dejavu/issues/98" TITLE : persist column order BODY : keeping track of columns using _meta so that we're able to keep a consistent order when rendering or updating the columns

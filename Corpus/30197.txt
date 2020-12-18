@@ -1,0 +1,1 @@
+ URL : "https://github.com/GwenaelCasaccio/smalltalk/issues/7" TITLE : object table stress BODY : c := orderedcollection new. 2 timesrepeat: 1_000_000 timesrepeat: c add: object new; add: object new; add: object new; add: object new . arround 2 000 000 4 object size + 2 000 000 4 object size in memory

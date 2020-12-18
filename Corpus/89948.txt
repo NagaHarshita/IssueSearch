@@ -1,0 +1,1 @@
+ URL : "https://github.com/aragon/aragon-core/issues/158" TITLE : required solidity version BODY : by requiring a fixed solidity version in all aragon-core files, we are forcing all app developers to use the same solidity version, which right now is set to 0.4.15 . at least we should allow 0.4 versions greater than 15 by changing it to ^0.4.15 .

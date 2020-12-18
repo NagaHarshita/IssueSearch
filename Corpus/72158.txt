@@ -1,0 +1,1 @@
+ URL : "https://github.com/BoletoNet/boleto2net/issues/23" TITLE : banco safra - carteira 2 BODY : essa versão aceita a carteira 2 do banco safra? preciso implementar em um portal, 2ª via de boleto do banco safra, mas sem a verificação do campo nossonumero .

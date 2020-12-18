@@ -1,0 +1,1 @@
+ URL : "https://github.com/squeemishly/workout-tracker/issues/7" TITLE : add lifts to workout BODY : as a user, when i am creating a new workout, then i see a list of all lifts, and if i click in the search field, and i type in a name, then the list will be filtered by my search.

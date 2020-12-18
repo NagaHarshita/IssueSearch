@@ -1,0 +1,1 @@
+ URL : "https://github.com/kubernetes/ingress/issues/739" TITLE : nginx enable caching? BODY : hello, i tried to find out by myself and failed : is there an easy way to enable caching for nginx? or i need to create a custom template for this? thanks!

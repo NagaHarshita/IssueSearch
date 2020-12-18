@@ -1,0 +1,1 @@
+ URL : "https://github.com/valderman/shellmate/issues/9" TITLE : capture a >> b hangs BODY : this is likely the result of both a and b wanting to access the same input stream. the proper solution might be to split the stream and feed it to both.

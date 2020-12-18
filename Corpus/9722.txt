@@ -1,0 +1,1 @@
+ URL : "https://github.com/UnityCommunity/UnityLibrary/issues/10" TITLE : add blur shaders BODY : glass, gaussian, radial, ... blur shaders. we can add complete blur shaders for using in ui and in game objects. you can find pre-made blur shaders on unity assetstore, but we needed a free and complete blur shader that everyone can use. any more suggestions are welcome. thanks.

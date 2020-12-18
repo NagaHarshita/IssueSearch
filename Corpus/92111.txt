@@ -1,0 +1,1 @@
+ URL : "https://github.com/apiaryio/drafter/issues/499" TITLE : validate urls with spaces BODY : i use such example: apib api name group users users get /hello world + response 200 i expect to receive a warning or an error about space in url /hello world because url should not contain any spaces, but drafter considers example as correct one.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/LiskFrance/lisk-transparency-reports/issues/42" TITLE : add logging process BODY : we need to implement logging on simple operations as registering, login, address confirmation, etc ... i suggest to use the express error handler 14 for all api response including success , and then log from this function.

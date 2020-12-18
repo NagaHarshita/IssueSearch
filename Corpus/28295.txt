@@ -1,0 +1,1 @@
+ URL : "https://github.com/Candihub/pixel/issues/47" TITLE : fix warnings pytest BODY : purpose test_admin.py must be corrected to remove warnings in pytest : runtimewarning: datetimefield pixeler.last_login received a naive datetime 2011-03-30 13:49:48 while time zone support is active. runtimewarning proposal - use timezone object

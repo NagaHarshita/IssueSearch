@@ -1,0 +1,1 @@
+ URL : "https://github.com/Dockerware/kicad/issues/6" TITLE : apply --env lang=$lang BODY : don't aply env lang bash docker run --rm \ --volume /tmp/.x11-unix:/tmp/.x11-unix \ --volume ~/workspace:/home/workspace \ --env lang=$lang \ ware/kicad

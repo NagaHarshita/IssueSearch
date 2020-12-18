@@ -1,0 +1,1 @@
+ URL : "https://github.com/gradle-clojure/gradle-clojure/issues/53" TITLE : add cloverage support BODY : add support for cloverage for testing coverage reports https://github.com/cloverage/cloverage

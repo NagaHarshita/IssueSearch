@@ -1,0 +1,1 @@
+ URL : "https://github.com/blowfeld/python-midi-io/issues/1" TITLE : fix typo in constants BODY : thirty-seconds is misspelled. also drop dashes.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/simvisage/bmcs/issues/1" TITLE : time stepping algorithm BODY : tloop and tstepper take care of the incremental iterative time-stepping. the current version needs to be reviewed and simplified in regard to the state-variable management and response tracing.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/espenbrondbo/cloudbleed-lastpass/issues/1" TITLE : needs tldextract installed BODY : i had to install with: pip install tldextract

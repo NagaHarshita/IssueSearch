@@ -1,0 +1,1 @@
+ URL : "https://github.com/georgewfraser/vscode-javac/issues/62" TITLE : bug with reindent lines BODY : if you have a comment in the code that contains a curly brace then reindentation gives wrong results. to reproduce: paste this somewhere in your code not at the bottom . // { // { // { and then use the reindent lines command. } has no problem for me.

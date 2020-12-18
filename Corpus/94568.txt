@@ -1,0 +1,1 @@
+ URL : "https://github.com/inspirehep/inspire-next/issues/2381" TITLE : centralization of matching BODY : currently the submission form is matching current form with existing record using a custom way independent than invenio-matcher used in the backend. we should centralize this and have one and only one way for matching.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/faisalman/ua-parser-js/issues/245" TITLE : os.name format error BODY : at iphone result.os.name == ios return false;

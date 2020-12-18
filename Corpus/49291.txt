@@ -1,0 +1,1 @@
+ URL : "https://github.com/davejamesmiller/laravel-breadcrumbs/issues/141" TITLE : testcase.php in 3.0.x BODY : could you rename the file/class or namespace it? having it the the global namespace forced me to rename my own testcase.php to something else to avoid the conflict.

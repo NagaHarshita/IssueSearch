@@ -1,0 +1,1 @@
+ URL : "https://github.com/marvis/pytorch-yolo2/issues/42" TITLE : region layer issue BODY : https://github.com/marvis/pytorch-yolo2/blob/7dc4e914e1bfb97c1f3cf156e3e103c9ff51586b/darknet.py l118-l122 this part is not reachable. is that a bug? thanks.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/EconomicSL/isle/issues/3" TITLE : include a requirements.txt BODY : it would be really helpful to include a file with all of the necessary dependencies, so it is as easy as possible to run this programme. normally, this is done through requirements.txt https://pip.readthedocs.io/en/1.1/requirements.html in python repos.

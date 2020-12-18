@@ -1,0 +1,1 @@
+ URL : "https://github.com/Maslosoft/IlmatarModuleUa/issues/31" TITLE : avatar need cache headers BODY : currently it has expire time of 24hrs, this need to be improved to some long time, as it's timestamped anyway

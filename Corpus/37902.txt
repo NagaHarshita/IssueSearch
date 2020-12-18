@@ -1,0 +1,1 @@
+ URL : "https://github.com/facebook/flow/issues/4275" TITLE : nested generic type? BODY : i want to do something like this: export default class validated<d, a> {} export type validator<validated<d, a>> = d, a => validated<d, a> is it possible in anyway in flow?

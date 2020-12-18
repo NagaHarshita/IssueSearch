@@ -1,0 +1,1 @@
+ URL : "https://github.com/natedrake/markdown/issues/23" TITLE : issue when using comments BODY : when parsing the attached markdown the following error occurs. php php fatal error: call to a member function type on null in e:\projects\markdown\src\parser.php on line 50 > test.txt https://github.com/natedrake/markdown/files/873850/test.txt

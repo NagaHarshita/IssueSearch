@@ -1,0 +1,1 @@
+ URL : "https://github.com/philhagen/sof-elk/issues/76" TITLE : enrich bro dns logs BODY : for any answer that is an ip, add to ips and grok to answer_ip for enrichment? passivedns makes this easy since each answer is its own log entry... may need to split the bro entry to multiple events for parallel handling?

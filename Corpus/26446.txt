@@ -1,0 +1,1 @@
+ URL : "https://github.com/plantuml/plantuml-server/issues/49" TITLE : avoid absolute urls BODY : plantuml is working behind a proxy and is accessible via http://somewhere.local/plantuml. all redirections fail since it assumes that the root directory is / . so you can get something like http://somewhere.local/uml/blabla instead of http://somewhere.local/plantuml/uml/blabla

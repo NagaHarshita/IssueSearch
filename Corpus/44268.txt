@@ -1,0 +1,1 @@
+ URL : "https://github.com/IOSD/YFHR_Android_App/issues/34" TITLE : error in uploading dp BODY : currently users have a default display picture. user can always change their dp in account settings activity. currently after choosing the desired dp , app crashes. expected behaviour: user should be able to select a picture, crop it and upload it successfully.

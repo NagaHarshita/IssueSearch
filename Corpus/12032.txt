@@ -1,0 +1,1 @@
+ URL : "https://github.com/univention/git-tools/issues/10" TITLE : migrate svn tags BODY : currently, the svn tags are ignored and need to be imported, as well.

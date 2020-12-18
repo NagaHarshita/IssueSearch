@@ -1,0 +1,1 @@
+ URL : "https://github.com/ouropencode/dachi-permissions/issues/1" TITLE : extra flags on user BODY : although we now have support for overriding of the modeluser. it would be very useful for us to add a few additional flags that developers may use: - is_active - is_banned - ban_reason - ban_time

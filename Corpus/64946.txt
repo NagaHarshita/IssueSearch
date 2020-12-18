@@ -1,0 +1,1 @@
+ URL : "https://github.com/yquake2/yquake2/issues/189" TITLE : hud and menu too bright BODY : with the new opengl 3 renderer, the hud and menu are too bright and washed out. the rest of the game looks great. the particles are really nice looking. is there a way to adjust the brightness of hud elements and menu?

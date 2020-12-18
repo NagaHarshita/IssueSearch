@@ -1,0 +1,1 @@
+ URL : "https://github.com/cbmarcum/mybusiness/issues/27" TITLE : add photos to domains BODY : current plan is to attach multiple photos to a domain instance by using the grails3 selfie plugin to store photos in a photocontainer and product will have a hasmany photocontainers.

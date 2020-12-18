@@ -1,0 +1,1 @@
+ URL : "https://github.com/lavary/crunz/issues/59" TITLE : supported for php 5.3 BODY : hi, i really like your library, it is super useful. i just wonder what is the reason for this library to require php 5.5? we have quite old server software and we can't upgrade to newer php version at the moment only has php5.3 . thank you.

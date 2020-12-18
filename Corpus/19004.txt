@@ -1,0 +1,1 @@
+ URL : "https://github.com/MichaelCereda/react-native-form-generator/issues/116" TITLE : warning on 0.46.+ BODY : this in separator.js warning: view.proptypes has been deprecated and will be removed in a future version of reactnative. use viewproptypes instead.

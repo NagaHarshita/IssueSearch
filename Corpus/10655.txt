@@ -1,0 +1,1 @@
+ URL : "https://github.com/Arquisoft/dashboard_i3b/issues/6" TITLE : create new tests BODY : we need more unit testing, at least one integration testing with cucumber and it would be good one gatling test at least.

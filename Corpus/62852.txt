@@ -1,0 +1,1 @@
+ URL : "https://github.com/UniRegensburg/marauders-map/issues/1" TITLE : create resources folder BODY : resources folder which contains a folder js and css. css contains a folder default. in the js folder we gonna have the file maraudersmapmain, in the css we want to have a file default.css in default the .gitkeep in resources the readme, the index, the gitignore and so on

@@ -1,0 +1,1 @@
+ URL : "https://github.com/lkesteloot/alice/issues/55" TITLE : bounce walls look wrong BODY : i think we might be seeing it from an angle not anticipated in the original code. perhaps draw all six walls and use backface culling?

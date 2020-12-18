@@ -1,0 +1,1 @@
+ URL : "https://github.com/Twipped/Kalendae/issues/215" TITLE : use npm scripts for build BODY : not everyone has make on the system. why not use npm scripts?

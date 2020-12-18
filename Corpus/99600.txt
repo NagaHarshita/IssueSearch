@@ -1,0 +1,1 @@
+ URL : "https://github.com/Chatie/wechaty/issues/979" TITLE : muilt instance support ？ BODY : currently, it is a singleton pattern. can multiple instances be supported to accommodate multiple accounts simultaneously?

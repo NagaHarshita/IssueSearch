@@ -1,0 +1,1 @@
+ URL : "https://github.com/netcarver/PW-SessionHandlerRedis/issues/2" TITLE : line 115 breaks the module BODY : line 115 seems to be using the wrong operator to check for the redis object: if null !== $this->redis should be: if null == $this->redis

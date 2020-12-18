@@ -1,0 +1,1 @@
+ URL : "https://github.com/gcp/leela-zero/issues/193" TITLE : greedy version of leela BODY : right now it's playing safe by maximizing the probability to win. do you know if there is a way to make it maximize territory without retraining the nn?

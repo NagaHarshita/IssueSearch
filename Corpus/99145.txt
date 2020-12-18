@@ -1,0 +1,1 @@
+ URL : "https://github.com/mapbox/mapbox-gl-directions/issues/143" TITLE : maneuver expansion + voice BODY : it would be great to add the maneuver -> announcement expansion work that @alianthes @mcwhittemore and @hdaymon are working on to this ui as a way to preview the results. we can also add voice announcements using polly like we using the navigation sdk.

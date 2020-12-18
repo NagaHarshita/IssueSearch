@@ -1,0 +1,1 @@
+ URL : "https://github.com/Erdk/gort/issues/7" TITLE : smarter job division BODY : right now each go-routine takes strip of pixels to compute and works only on it, if it finishes its work then exits. the idea is to divide viewport into fixed chunks 64x64 or 128x128 and thread pool of go-routines would work on it.

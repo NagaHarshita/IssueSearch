@@ -1,0 +1,1 @@
+ URL : "https://github.com/thomasdenecker/IronYeasts/issues/3" TITLE : add pytest and coverall BODY : pour augmenter la qualité du code, il faudrait ajouter des tests et la couvertures des tests dans travis ci.

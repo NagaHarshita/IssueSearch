@@ -1,0 +1,1 @@
+ URL : "https://github.com/spybaby1/360-react-pannellum/issues/2" TITLE : cannot import pannellum BODY : hi，thanks for this repository, but while building with webpack, i'm getting this error: ! image https://user-images.githubusercontent.com/19373581/31811710-2670db6c-b546-11e7-80de-623e681beb84.png here is my code: import pannellum from '360-react-pannellum/lib/index'

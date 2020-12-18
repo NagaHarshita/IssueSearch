@@ -1,0 +1,1 @@
+ URL : "https://github.com/PXgamer/cachent/issues/4" TITLE : authentication for api BODY : add authentication to the api. currently it'd be open to anyone. need to add some form of oauth or api keys. possibly using laravel's own passport https://laravel.com/docs/5.5/passport .

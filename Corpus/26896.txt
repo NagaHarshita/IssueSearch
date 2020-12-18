@@ -1,0 +1,1 @@
+ URL : "https://github.com/PBrockmann/multipleOceanStressors/issues/8" TITLE : change active class BODY : http://stackoverflow.com/questions/18600031/changing-the-active-class-of-a-link-with-the-twitter-bootstrap-css-in-python-fla at the bottom of your base/layout template just add this <script>$ document .ready function { $ {{request.endpoint}} .addclass active ;} </script>

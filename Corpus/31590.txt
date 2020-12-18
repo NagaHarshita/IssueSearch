@@ -1,0 +1,1 @@
+ URL : "https://github.com/fnordpipe/rescoo/issues/1" TITLE : sshd does not start BODY : see https://bugs.gentoo.org/637584 enewuser/enewgroup does not respect $root therefore the user/group will be installed to host/build system

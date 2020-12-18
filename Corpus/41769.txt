@@ -1,0 +1,1 @@
+ URL : "https://github.com/dariober/ASCIIGenome/issues/72" TITLE : add hep for getsamtag BODY : the awk function for getsamtag is not mentioned in the help from awk -h .

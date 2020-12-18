@@ -1,0 +1,1 @@
+ URL : "https://github.com/ManiacalLabs/WebVis/issues/7" TITLE : add cross-origin headers BODY : need cors headers to make sure it works when hosted.

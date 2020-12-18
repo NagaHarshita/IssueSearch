@@ -1,0 +1,1 @@
+ URL : "https://github.com/fcracker79/pycomb/issues/2" TITLE : boolean combinator missing BODY : would be really cool to have a combinator for boolean types python boolean = combinators.generic_object {}, bool

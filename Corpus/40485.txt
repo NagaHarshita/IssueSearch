@@ -1,0 +1,1 @@
+ URL : "https://github.com/busyorg/busy/issues/997" TITLE : unify html templates BODY : we currently have different types of index.html files for webpack-dev-server and development and production builds in two different folders. we should use only one.

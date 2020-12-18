@@ -1,0 +1,1 @@
+ URL : "https://github.com/ostreedev/ostree/issues/1139" TITLE : broken cookie path lookup BODY : saw this in a strace: pid 4354 stat /srv/repomirror/repo-corrupt-mirror/file:///srv/repomirror/repo-corrupt-bare.cookies.txt , 0x7ffdf9cd29f0 = -1 enoent no such file or directory

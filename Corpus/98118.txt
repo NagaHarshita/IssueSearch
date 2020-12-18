@@ -1,0 +1,1 @@
+ URL : "https://github.com/dannywillems/ocaml-influxdb/issues/4" TITLE : improve codes with caches. BODY : for example, we can keep tags and fields in memory when calling multiple times the get_points function.

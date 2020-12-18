@@ -1,0 +1,1 @@
+ URL : "https://github.com/juan-kabbali/testBackEnd/issues/1" TITLE : create relative url's BODY : i need to expose end points with relativa url's > end pont host/www/html/gettotalnotes router.get '/gettotalnotes', cors , service.gettotalnotes ;

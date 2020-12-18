@@ -1,0 +1,1 @@
+ URL : "https://github.com/KBNLresearch/jprofile/issues/3" TITLE : fix windows build BODY : after <https://github.com/kbnlresearch/jprofile/commit/43c8ddb0260f2740e099d81e378be509cc4d38ed> the windows builds don't work properly; also zip files are called jprofile_traceback.zip and jpylyzer doesn't appear to be imported.

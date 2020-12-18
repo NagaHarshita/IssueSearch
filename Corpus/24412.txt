@@ -1,0 +1,1 @@
+ URL : "https://github.com/thkl/homebridge-homematic/issues/124" TITLE : status low battery BODY : wäre es möglich die meldung batterieladezustand gering z.b. beim thermostat auszulesen und auf die characteristic statuslowbattery zu mappen?

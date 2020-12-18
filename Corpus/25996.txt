@@ -1,0 +1,1 @@
+ URL : "https://github.com/Alignak-monitoring-contrib/alignak-app/issues/127" TITLE : add more unit tests BODY : app grown and coverage decrease. we should add unit tests. check u.t. for files: - tick.py - action_manager.py - service.py - services_view.py - synthesis.py - status.py - about.py - actions_factory

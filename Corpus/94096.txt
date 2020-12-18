@@ -1,0 +1,1 @@
+ URL : "https://github.com/blockstack/blockstack/issues/289" TITLE : blockstack login gives 404 BODY : first hit on google when searching for 'blockstack login' gives https://blockstack.org/docs/login-paper which gives a 404 no redirect though, just a blank page

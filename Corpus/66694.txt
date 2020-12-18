@@ -1,0 +1,1 @@
+ URL : "https://github.com/RehabMan/OS-X-USB-Inject-All/issues/5" TITLE : new imac18,1 and others BODY : while testing sys def imac18,1 i realized that usb injection didn't work. i figured out that running generate_info_plist and recompiling the kext solved the issue. there are new imacs . cheers.

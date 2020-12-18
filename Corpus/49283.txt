@@ -1,0 +1,1 @@
+ URL : "https://github.com/pouchdb/pouchdb/issues/6831" TITLE : test suite very faily BODY : it looks like firefox tests are extremely flaky, and is hardcoded to 47 which is pretty old

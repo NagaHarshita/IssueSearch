@@ -1,0 +1,1 @@
+ URL : "https://github.com/devsummit/backend/issues/48" TITLE : api - beacon management BODY : description add api for: - create beacon - get beacons - delete beacon <br /> type - feature - x bug <br />

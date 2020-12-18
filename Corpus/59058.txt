@@ -1,0 +1,1 @@
+ URL : "https://github.com/kpfaulkner/azurecopy-go/issues/1" TITLE : temp cache os agnostic BODY : need to make file cache location os agnostic. currently only suitable for windows.

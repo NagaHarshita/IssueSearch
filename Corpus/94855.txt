@@ -1,0 +1,1 @@
+ URL : "https://github.com/discapp/discapp/issues/20" TITLE : codepipeline change branch BODY : @cruoti @todoubled711 @keeena i needed to change the branch for codepipeline to work on the javascript so it's been changed to javascript-code-updates at the moment.

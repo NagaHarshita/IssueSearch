@@ -1,0 +1,7 @@
+ URL : "https://github.com/NSI-IT/AUG-DEADDROP/issues/70" TITLE : ca > member history BODY : as a user i would like to view member history so that i may know what activities he is doing on the platform. - verify that i can see the member history of what actions have been made in a particular project by this member or for this member.
+- verify that trail will be maintained of the following actions:- 1.if this user has added a member
+2. if this user has delete a member
+3. if this user has edited a member change of role or any other details 4. if this user is added/edited/deleted by some other member of the project.
+5. if this user has downloaded the listing as excel
+6. if this user has searched for something. - verify that date/time stamp will always show next to the history of actions or the description.
+- verify that anything that has happened around this user in this project or this user has himself performed will be recorded in the history. - verify that order will always be recent to oldest. - verify that sort is needed to opt for oldest to recent though.

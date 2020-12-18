@@ -1,0 +1,1 @@
+ URL : "https://github.com/Evenedric/stuff/issues/17" TITLE : antenna pattern power BODY : show integrated power across boundary? but it should match the input power measure gain, scaled by total power integrated across abc. - check total power integrated across abc == input power

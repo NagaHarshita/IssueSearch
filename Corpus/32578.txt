@@ -1,0 +1,1 @@
+ URL : "https://github.com/kmark/XHangouts/issues/23" TITLE : version of hangouts BODY : public static final string tested_version_str = 21.0.162426697 ; if i replace this with the current hangouts version, will it going to work as much as possible with the latest hangouts build unless google changed a lot of things in hangouts itself?

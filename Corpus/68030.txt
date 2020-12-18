@@ -1,0 +1,1 @@
+ URL : "https://github.com/veltor/veltor-network/issues/5" TITLE : refactor some functions BODY : some functions, like manage , are a bit too big and could be refactored into smaller parts.

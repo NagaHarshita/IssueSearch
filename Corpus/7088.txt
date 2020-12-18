@@ -1,0 +1,1 @@
+ URL : "https://github.com/qcadoo/mes/issues/27" TITLE : debug with idea BODY : hi,i want to know how can i debug the qcadoo mes with idea?before this version,we use jetty:run.but this version i see you dont use the jetty again?so how can i debug with idea

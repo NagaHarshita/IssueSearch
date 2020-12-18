@@ -1,0 +1,1 @@
+ URL : "https://github.com/strataconsulting/pre-commit-terraform/issues/3" TITLE : add tests for tfrules BODY : python code should be tested with real cases.

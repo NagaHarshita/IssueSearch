@@ -1,0 +1,1 @@
+ URL : "https://github.com/ydbspin/f1-3-c2p1-colmar-academy/issues/1" TITLE : add links to your nav bar BODY : don’t forget to make these into links. remember when you add links to specify the target in the <a href= > . https://github.com/ydbspin/f1-3-c2p1-colmar-academy/blob/master/colmaracademy/index.html l38-l41

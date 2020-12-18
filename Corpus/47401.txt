@@ -1,0 +1,1 @@
+ URL : "https://github.com/hclarke/cmd_synth/issues/1" TITLE : pass commands as args BODY : first arg should be duration, as it is now. additional args should be treated as commands run before the program starts example: synth 1 440 sin , with an empty stdin, should produce a 1 second sound with a 440 hz sin wave

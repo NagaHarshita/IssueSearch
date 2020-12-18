@@ -1,0 +1,1 @@
+ URL : "https://github.com/gradle/gradle-script-kotlin/issues/386" TITLE : embedded-kotlin plugin BODY : - applies the kotlin plugin from the portal using the embeddedkotlinversion - adds pinned dependency to kotlin-stdlib and kotlin-reflect at embeddedkotlinversion

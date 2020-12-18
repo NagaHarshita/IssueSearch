@@ -1,0 +1,1 @@
+ URL : "https://github.com/csevere/alien-gamev2/issues/11" TITLE : create a database BODY : - login and registration - level, experience points, attack points - items, weapons, gear /8 each maybe update with level gains - companions / 8 total - figure out which one to use: mysql or something else

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Rsl1122/Plan-PlayerAnalytics/issues/63" TITLE : gender detection poll BODY : this issue will be used to attempt to gather how well gender detection works across servers. plan version: 2.9.0 description: please comment amount of detected genders vs unknown ones steps to reproduce: 1. /plan analyze 2. view demographics tab on analysis page

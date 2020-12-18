@@ -1,0 +1,1 @@
+ URL : "https://github.com/NCPN/invasives/issues/1" TITLE : add isdead species flag BODY : include species isdead flag for tbl_quadrat_species. include ability to add other states/flags make field int vs. byte .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Proyecto-EGC-G1/RecuentoVotos-EGC-G1/issues/23" TITLE : variables de entorno BODY : desde integración se ha pedido que los datos de conexión con la base de datos no estén directamente escritos en el código, si no que se establezcan desde docker mediante variables de entorno.

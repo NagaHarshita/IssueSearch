@@ -1,0 +1,1 @@
+ URL : "https://github.com/IIC2513-2017-1/syllabus/issues/26" TITLE : contraseñas entrega 3 BODY : hola, el manejo responsable de contraseñas se puede hacer con la gema bcrypt y el método has_secure_password ?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ethanhs/TranslucentTB/issues/19" TITLE : improve dpi awareness BODY : low priority, but things are blurry on hidpi displays, i think we want to use setprocessdpiawareness https://msdn.microsoft.com/en-us/library/windows/desktop/dn302122 v=vs.85 .aspx .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/TheCreationLab/Projet-M1-BigData/issues/48" TITLE : bdd / nouvelles tables BODY : pk : primary key auto_increment , fk : foreign key id_tablefk recipe_product {id:pk, url:text, id_product:fk} conditioning_product {id:pk, name:text, price:int, id_product:fk}

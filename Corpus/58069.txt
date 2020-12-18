@@ -1,0 +1,1 @@
+ URL : "https://github.com/angular/angular/issues/15097" TITLE : router: remainder path BODY : i cannot find in stackoverflow or the docs how to use a wildcard path, like this: typescript { path: 'github/:repo/ ', component: page }, to match: /github/my-project as well /github/my-project/any/as/long/i/want/path/an/match/it is it possible? i need to get a remained path.

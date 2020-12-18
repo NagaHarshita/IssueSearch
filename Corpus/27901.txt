@@ -1,0 +1,1 @@
+ URL : "https://github.com/diegoddox/react-redux-toastr/issues/129" TITLE : error icon svg path BODY : the path of error icon is defined to 24x24 whereas success icon and warning icon are around 32x32. it would be great if you could change your svg to scale to 32x32 so that the error icon looks same aligned as other icons.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/wawandco/fako/issues/12" TITLE : failed for aiases BODY : example: type datetime string runtime error: panic serving 172.20.0.1:33258: reflect.set: value of type string is not assignable to type datetime

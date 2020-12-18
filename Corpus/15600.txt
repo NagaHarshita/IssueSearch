@@ -1,0 +1,1 @@
+ URL : "https://github.com/timmolter/XChange/issues/1405" TITLE : example is wrong? BODY : the example on http://knowm.org/open-source/xchange/xchange-example-code/ the example page uses pollingmarketdataservice and getpollingmarketdataservice , but i've only found marketdataservice and getmarketdataservice in 4.2.0. is that a bug in the example code?

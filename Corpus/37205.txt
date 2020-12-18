@@ -1,0 +1,1 @@
+ URL : "https://github.com/embedthis/makeme/issues/91" TITLE : libs variable double BODY : what is the rationale behind having the variable 2 times? https://github.com/embedthis/makeme/blob/6a5c3429e56ece85d903ba6af410a5a26f2788c5/paks/me-os/gcc.me l12-l13

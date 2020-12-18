@@ -1,0 +1,1 @@
+ URL : "https://github.com/flix/flix/issues/556" TITLE : branches and labels BODY : there is probably a bug inside my jumpto reviews there probably should be another visitor.visitjumpinsn goto, endlabel right after compiling the expression because we don’t want the first branch to execute in case the expression doesn’t jump so if something fails, try this.

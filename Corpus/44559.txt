@@ -1,0 +1,1 @@
+ URL : "https://github.com/AFIT-R/ordr/issues/2" TITLE : faster bootstrap code BODY : will need to use rcpp or vectorize the truncated distribution functions; the latter might be the simpler approach.

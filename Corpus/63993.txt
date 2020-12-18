@@ -1,0 +1,1 @@
+ URL : "https://github.com/psandahl/light-weight-opengl/issues/1" TITLE : feature: vertex records BODY : vertex records of type: {position} {position, texcoord} {position, texcoord, normal} convenience functions to load vertex attributes from records.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/laserswald/nitro/issues/6" TITLE : window selection list BODY : one of the central ideas about nitro. i have the dlist client set up, but we are waiting on the ipc to implement it and test it.

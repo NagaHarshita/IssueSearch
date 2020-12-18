@@ -1,0 +1,1 @@
+ URL : "https://github.com/fabio-looker/looker_sso_tool/issues/4" TITLE : add host comparison mode BODY : ability to provide a second host and embed secret and to compare two side by side embeds. useful for testing releases and staging vs prod

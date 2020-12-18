@@ -1,0 +1,1 @@
+ URL : "https://github.com/randallreedjr/getto24-sinatra/issues/2" TITLE : use new gem syntax BODY : upgrade to math24 version 2.0.1 is broken until app is rewritten to take advantage of updated syntax

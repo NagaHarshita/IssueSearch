@@ -1,0 +1,1 @@
+ URL : "https://github.com/tendermint/tendermint/issues/523" TITLE : add megacheck to makefile BODY : extends the work done in 522

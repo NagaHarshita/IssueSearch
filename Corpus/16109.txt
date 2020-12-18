@@ -1,0 +1,1 @@
+ URL : "https://github.com/randonia/resistjam2017/issues/4" TITLE : history is broken BODY : repro steps: 1. launch game 2. start main game forget the command lol 3. type some commands 4. hit up arrow key expected: it will show the last command you typed actual: it says undefined

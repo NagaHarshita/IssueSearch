@@ -1,0 +1,10 @@
+ URL : "https://github.com/OCA/account-financial-reporting/issues/358" TITLE : migration to version 11.0 BODY : todo https://github.com/oca/maintainer-tools/wiki/migration-to-version-11.0 modules to migrate - account_chart_report
+- account_export_csv
+- account_financial_report
+- account_financial_report_horizontal
+- account_financial_report_qweb
+- account_journal_report_xls
+- account_move_line_report_xls
+- account_tax_balance
+- customer_activity_statement
+- customer_outstanding_statement

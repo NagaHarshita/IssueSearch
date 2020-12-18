@@ -1,0 +1,1 @@
+ URL : "https://github.com/craftpip/jquery-confirm/issues/259" TITLE : showing the message async BODY : is there a way to show the message asyncronous, something like this: $.confirm { async: false, title: 'warning!', content: 'tis that ok?', buttons: { confirm: function { self.swapaccounts ; }, cancel: function { $.alert 'canceled!' ; } } } ;

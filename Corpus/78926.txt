@@ -1,0 +1,1 @@
+ URL : "https://github.com/Nightfirecat/RealmEye-API/issues/44" TITLE : replace array calls with BODY : http://php.net/manual/en/language.types.array.php > as of php 5.4 you can also use the short array syntax, which replaces array with .

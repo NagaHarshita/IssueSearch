@@ -1,0 +1,1 @@
+ URL : "https://github.com/me-no-dev/ESPAsyncWebServer/issues/301" TITLE : spiffs editor 'save as' BODY : what would it take to add a 'save as' command to the spiffs editor? that way i could duplicate an existing file, and then modify it.

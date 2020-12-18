@@ -1,0 +1,1 @@
+ URL : "https://github.com/j2jensen/CallMeMaybe/issues/16" TITLE : no longer cls compliant BODY : with the shift to .net standard, it appears that the assembly is no longer marked cls compliant.

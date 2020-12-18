@@ -1,0 +1,1 @@
+ URL : "https://github.com/zhaoqige/ARNPerf/issues/12" TITLE : add timeline & replay BODY : - let user choose start & stop time; - add a replay button, so user can review log by its sequence.

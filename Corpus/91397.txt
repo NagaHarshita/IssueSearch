@@ -1,0 +1,1 @@
+ URL : "https://github.com/PrestaShop/gsitemap/issues/46" TITLE : timeout on shared hosting BODY : 2233 products x 4 languages + categories + blog module is time and resource consuming even under php 7 with litespeed server the whole process should be done faster without the need of creating the whole product object instance if the link_rewrite field is present in my opinion.

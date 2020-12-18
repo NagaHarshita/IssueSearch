@@ -1,0 +1,1 @@
+ URL : "https://github.com/tngan/express-saml2/issues/57" TITLE : not working example sp2 BODY : hi! when trying to log in with es2-idp to sp2, get this error: ! image https://cloud.githubusercontent.com/assets/18037236/24201385/eea63cca-0f20-11e7-9ed3-558caf19499b.png with sp1 everything is good.

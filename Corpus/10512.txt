@@ -1,0 +1,1 @@
+ URL : "https://github.com/zimbra-api/zimbra-api/issues/22" TITLE : client api acces BODY : hello, is it possible to access to the non-admin api in order to create/modify tasks for example ? if not, can i use a part of your code to implement this possibility ? thx

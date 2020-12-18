@@ -1,0 +1,1 @@
+ URL : "https://github.com/SOCR/SOCRAT-issues/issues/51" TITLE : learn about bootstrap BODY : go through w3schools bootstrap tutorial http://www.w3schools.com/bootstrap/ . after that you should be able to recognize bootstrap-specific classes in html, understand how grid works, how to create buttons, inputs, forms, etc.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ICTatRTI/coconut-mobile/issues/140" TITLE : delete application bug BODY : when deleting an application, it takes 2 or more attempts before the application is deleted.

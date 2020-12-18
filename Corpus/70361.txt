@@ -1,0 +1,1 @@
+ URL : "https://github.com/OakdaleInnovation/oi-beacon-request/issues/11" TITLE : verification function s BODY : the application shall contain functions that verify if the entered email and phone number are valid. the function must be created and tested, but does not yet need to be implemented into the current build.

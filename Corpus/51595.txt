@@ -1,0 +1,1 @@
+ URL : "https://github.com/kaushalmodi/eless/issues/6" TITLE : auto-detect ansi codes BODY : parse the first few lines may be 10? to see if the file contains ansi codes. if found, call the ansi-color-apply-on-region . probably remove the -ansi switch after that?

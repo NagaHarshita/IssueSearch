@@ -1,0 +1,1 @@
+ URL : "https://github.com/CLTracker/CLT-webapp/issues/13" TITLE : write /join route BODY : /join is only accessed once per user, and is the solution proposed for 10. the join page should be similar to the slack sign in https://slack.com/signin page, where we ask for their conference name and possibly another password to verify they are allowed to join the conference.

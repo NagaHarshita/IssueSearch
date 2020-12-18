@@ -1,0 +1,1 @@
+ URL : "https://github.com/reduxframework/redux-framework/issues/3439" TITLE : wordpress 4.9 issue BODY : hi, i'm using redux version 3.6.7.9. it works fine before i update the wordpress 4.9. after update the wordpress the color picker not works. thanks

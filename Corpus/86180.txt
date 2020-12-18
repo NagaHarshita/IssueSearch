@@ -1,0 +1,1 @@
+ URL : "https://github.com/multiformats/go-multiaddr/issues/55" TITLE : handle civ ipfs multiaddr BODY : the ipfs transcoder should be handling cidv1 as well as cidv0 correct? i can submit a pr to fix if necessary.

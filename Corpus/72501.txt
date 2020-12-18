@@ -1,0 +1,1 @@
+ URL : "https://github.com/lufinkey/react-native-spotify/issues/1" TITLE : caching for web requests BODY : in the initialization options, you should be able to set a cache size and expiration for web requests, to prevent spotify's api usage rates from kicking in

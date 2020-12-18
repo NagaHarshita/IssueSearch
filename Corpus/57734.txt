@@ -1,0 +1,1 @@
+ URL : "https://github.com/ohoachuck/wwdc-downloader/issues/62" TITLE : regex needs adjustment BODY : i think there's been some changes to the session pages, i had to adjust the regex for it to detect any sessions: from let pat = \\b. \\/videos\\/play\\/wwdc2016\\/ 0-9 \\/\ ><h5\\b to let pat = \\b. \\/videos\\/play\\/wwdc2016\\/ 0-9 \\/\ >. not sure if the regex could be better.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ePages-de/Mockify/issues/24" TITLE : incorrect dependency type BODY : minilla is listed as 'build' dependency in cpanfile. if it is not used in module installation, it should be listed as 'develop'. see https://metacpan.org/pod/cpan::meta::spec phases same for devel::cover and other modules.

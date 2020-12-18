@@ -1,0 +1,1 @@
+ URL : "https://github.com/gradle/kotlin-dsl/issues/578" TITLE : copy into multiple destdir BODY : https://github.com/gradle/kotlin-dsl/blob/f5d09f7d0aa227f4cf6942ce89dab318020ef391/samples/copy/build.gradle.kts l25 how can i copy into different multiple dest dir? thanks

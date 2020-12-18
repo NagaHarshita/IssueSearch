@@ -1,0 +1,1 @@
+ URL : "https://github.com/GreenlightIP/rd-tool/issues/14" TITLE : tu, status versus state BODY : i can see that there is logic in status field to change the corresponding state field unsolved, solved , however i think this would work better if we had on status field i.e. in top state ui, lets just have. 1. draft 2. unsolved 3. solved no status pulldown required.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/phalcon/docs/issues/1333" TITLE : forward olddocs to docs BODY : when i'm googling something, 100% of the official phalcon results point to olddocs - there are no results pointing to the new docs. i'd suggest putting a permanent redirect in that points to the new docs, so search results get updated.

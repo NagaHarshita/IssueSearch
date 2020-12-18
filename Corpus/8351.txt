@@ -1,0 +1,1 @@
+ URL : "https://github.com/cowboyd/therubyracer/issues/438" TITLE : no es6 support? BODY : error on compile js with es6 syntax, like let errormsg = {} : v8::error: unexpected token: name errormsg 1

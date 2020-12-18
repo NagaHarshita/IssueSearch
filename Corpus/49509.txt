@@ -1,0 +1,1 @@
+ URL : "https://github.com/amccreight/ipdl_parser/issues/13" TITLE : triage disabled tests BODY : mconley just added the ipdl basic unit tests, but some of them are disabled. i'll figure out why they aren't working. so far, it has mostly been things that use bridges/opens/spawns.

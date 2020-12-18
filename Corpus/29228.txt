@@ -1,0 +1,1 @@
+ URL : "https://github.com/ZigzagAK/ngx_dynamic_upstream/issues/3" TITLE : ketama hash support BODY : when upstream is defined with hash consistent, upstream server will be added via http api, but will not receive traffic. example config: upstream test { hash $arg_hash consistent; keepalive 16; zone test_upstream 10m; server 10.1.5.250 weight=100; }

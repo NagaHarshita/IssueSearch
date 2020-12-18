@@ -1,0 +1,1 @@
+ URL : "https://github.com/sysown/proxysql/issues/1034" TITLE : per connection rate limit BODY : we need to define a way to throttle bandwidth usage per connection/query, client side.

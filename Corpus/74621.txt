@@ -1,0 +1,1 @@
+ URL : "https://github.com/vector-im/riot-android/issues/1618" TITLE : fail to load the e2e lib BODY : reported by @ddd1:matrix.org https://github.com/matrix-org/riot-android-rageshakes/issues/1098 when tapping on the app after having updated it, it just crashed before showing its main screen. no apparent reason can be addressed as the cause

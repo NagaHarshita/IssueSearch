@@ -1,0 +1,1 @@
+ URL : "https://github.com/tananaev/traccar/issues/2944" TITLE : accuracy vs hdop BODY : what is the difference between accuracy i.e., position.setaccuracy and hdop ?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/GSA/recruiter/issues/34" TITLE : tests to write BODY : - browser testing -> ui https://circleci.com/docs/2.0/project-walkthrough/ install-and-run-selenium-to-automate-browser-testing - overlay tab loading/present - modal opens/loads - form successfully submits - analytics events successfully fire - cookie set when successful submit

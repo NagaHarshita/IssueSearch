@@ -1,0 +1,1 @@
+ URL : "https://github.com/eswick/appcenter/issues/45" TITLE : tweak compilation error BODY : after compilation i get the following error: clang++: error: invalid version number in '-miphoneos-version-min=10.2 is there any way to fix this error?

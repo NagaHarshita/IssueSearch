@@ -1,0 +1,1 @@
+ URL : "https://github.com/cyclejs/cyclejs/issues/506" TITLE : upgrade to snabbdom 6.1 BODY : i fixed a bug in the htmldomapi.ts in snabbdom that caused svg's to fail in ie11 when removing elements. this has been fixed, and a new version has been published, please update @cycle/dom to snabbdom 6.1 https://github.com/snabbdom/snabbdom/pull/210

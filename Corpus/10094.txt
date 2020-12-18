@@ -1,0 +1,1 @@
+ URL : "https://github.com/argos-ci/argos/issues/36" TITLE : api: get buckets BODY : - method: get - endpoint: /buckets?token&branch - response body: graphql { id name commit branch jobstatus }

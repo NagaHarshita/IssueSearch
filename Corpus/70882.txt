@@ -1,0 +1,1 @@
+ URL : "https://github.com/davx8342/meerkat_movies/issues/1" TITLE : .ds_store is not ignored BODY : need to impliment ignore_files to be able to specify files to ignore.

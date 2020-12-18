@@ -1,0 +1,1 @@
+ URL : "https://github.com/paulcbetts/trickline/issues/16" TITLE : make when selector typed BODY : when i do something like: js this.when 'channels' .map list: any => list.value.filter c: any => c.value.is_group .toproperty this, 'groups' ; i have to use any types for everything. this + the fact that everything is an updatable means that i always forget to add the value .

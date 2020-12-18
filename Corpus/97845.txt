@@ -1,0 +1,1 @@
+ URL : "https://github.com/leeyh0216/SparkDatapipeline/issues/2" TITLE : http lambda service 구현 BODY : 작업 개요 aws lambda https://aws.amazon.com/ko/lambda/details/ 와 같이 end point와 function을 등록하여 api를 생성하는 서비스 구현 상세 작업 내역 - http api system 설계 - endpoint, function, version 관리 기능 정의 - spring boot 도입 - uri filtering 구현 - 기존 spring의 @requestmapping이 아닌, 사용자가 api를 동적으로 등록할 수 있도록 기능 구현

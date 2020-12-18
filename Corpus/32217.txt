@@ -1,0 +1,1 @@
+ URL : "https://github.com/bramdejager/spcb/issues/27" TITLE : unable to open list BODY : when i right click and choose open in default browser i get a page not found, the url is wrong, it includes tenant-admin.sharepoint.com instead of tenant.sharepoint.com this work item was migrated from codeplex codeplex work item id: '57736' assigned to: 'bdejager' vote count: '1'

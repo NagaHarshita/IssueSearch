@@ -1,0 +1,1 @@
+ URL : "https://github.com/gundb/valMapEnd/issues/3" TITLE : not working with gun v0.9 BODY : javascript gun.path prop .val function val, key { ^ typeerror: gun.path is not a function

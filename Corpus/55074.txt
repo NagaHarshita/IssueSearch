@@ -1,0 +1,1 @@
+ URL : "https://github.com/JuliaStats/Klara.jl/issues/166" TITLE : implement amwg sampler BODY : implement the adaptive metropolis-within-gibbs amwg sampler by roberts and rosenthal. this will not be a job in klara terms, it will be a new sampler amwg . amwg will then be used by the new gibbs job if desired to sampler adaptively for some of the multivariate parameters.

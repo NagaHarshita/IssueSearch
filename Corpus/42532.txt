@@ -1,0 +1,1 @@
+ URL : "https://github.com/cswank/kcli/issues/6" TITLE : blows up if no topics BODY : i ran it against a fresh kafka and it panics.

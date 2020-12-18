@@ -1,0 +1,1 @@
+ URL : "https://github.com/sherlock-on-github/test-project/issues/10" TITLE : some duplicate issue BODY : installing highcharts works fine, but running yarn check right after the install fails. good: v0.24.6 bad: v0.27.1 package.json: json { dependencies :{ highcharts : 5.0.12 }} repro.sh: bash yarn && yarn check

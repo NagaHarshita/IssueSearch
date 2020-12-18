@@ -1,0 +1,1 @@
+ URL : "https://github.com/FRRouting/frr/issues/824" TITLE : init for debian stretch BODY : the provided init script does not work with debian stretch it hangs and gets terminated by systemd . there should be real systemd unit files.

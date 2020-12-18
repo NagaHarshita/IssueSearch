@@ -1,0 +1,1 @@
+ URL : "https://github.com/gsklee/ngStorage/issues/271" TITLE : too many dependencies BODY : i was shocked at how much npm modules this pulled in. there should be no need for all that for something like this.

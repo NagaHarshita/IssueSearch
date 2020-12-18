@@ -1,0 +1,1 @@
+ URL : "https://github.com/TommyB123/redcountyrp-bugs/issues/172" TITLE : bus eta bug BODY : the text at bus stops would say a bus isn't due even though the bus bot obviously drives 24/7. probably forgot to change it.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/stormmore/cluster-in-a-box/issues/1" TITLE : ubuntu preseed file BODY : create a preseed.cfg file that does a basic os install and installs git and ansible

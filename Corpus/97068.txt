@@ -1,0 +1,1 @@
+ URL : "https://github.com/nickedwards109/personal-site/issues/5" TITLE : fix image sizing on mobile BODY : currently, the same images are being used for desktop and mobile devices. these images are too big for mobile devices. i need to make a set of smaller images to display on mobile devices.

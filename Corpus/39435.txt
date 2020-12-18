@@ -1,0 +1,1 @@
+ URL : "https://github.com/edcarroll/ng2-semantic-ui/issues/197" TITLE : set locale globally? BODY : just a little usage question about the new localization service. do i have to set the locale separately in every component of my app that uses sui components or is there a way to set it on global scope?

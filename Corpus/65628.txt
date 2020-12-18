@@ -1,0 +1,1 @@
+ URL : "https://github.com/anshooarora/extentreports-java/issues/774" TITLE : jenkins var statusgroup BODY : jenkins does not like the declaration of the statusgroup var in the body. i dont know all the scope of this variable. however it could be included in the extent.js file.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/zeehio/parmap/issues/10" TITLE : update pypy package BODY : i'd love to use the new parmap_progress feature, all nice and integrated with pip instead of manually installing. could the package be updated to reflect the repo?

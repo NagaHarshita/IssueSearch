@@ -1,0 +1,1 @@
+ URL : "https://github.com/cockpit-project/system-api-roles/issues/42" TITLE : finish kdump api BODY : the kdump api is pretty close to being ready. x define varlink api integration tests across el 6, el 7 and fedora appropriately licensed and documented remove implementation specific kernel-crash-dump role.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/daisy/ace/issues/85" TITLE : page breaks not detected? BODY : i have page breaks in content files with that tagging: <span epub:type= pagebreak id= page_51 title= 51 /> and a page-list in nav file. but the ace.json report says: properties : { hasmathml : false, haspagebreaks : false },

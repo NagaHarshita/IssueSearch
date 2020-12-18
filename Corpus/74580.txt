@@ -1,0 +1,1 @@
+ URL : "https://github.com/cleanflight/blackbox-log-viewer/issues/51" TITLE : exported video file size BODY : taking gp4 file and rendering it to 966x540 60fps, that 5 min file comes out to 137mb import it into bblv and render at 720 and the file is 1.03 gig any hints on how to reduce exported file size?

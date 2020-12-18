@@ -1,0 +1,1 @@
+ URL : "https://github.com/Pure-D/code-d/issues/133" TITLE : option to disable dfmt. BODY : i don't think i've overlooked an option to disable dfmt. at the moment i don't have dfmt nor do i plan to installed and everytime vscode is started i get a message about it not being found. is there a way to disable this? apologies if i've overlooked it! thanks!

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Jerrkawz/GarageQTPi/issues/1" TITLE : not python3 compliant BODY : you don't need to make it python 3 compliant, but specifying that detail would be helpful. particularly as you're relating it to home-assistant, which is a python3 project.

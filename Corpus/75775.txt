@@ -1,0 +1,1 @@
+ URL : "https://github.com/krkeegan/insteon-mngr/issues/30" TITLE : identify duplicate links BODY : some links such as unknown and undefined should be fine. but duplicate modem links and possibly defined links are obscured

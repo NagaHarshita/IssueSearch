@@ -1,0 +1,1 @@
+ URL : "https://github.com/needim/wdt-emoji-bundle/issues/16" TITLE : sticky is buggy BODY : if stickers.length { for var i = 0; i < stickers.length; i++ { //sticky stickers i ; buggy } } this code is buggy after page reload. tabs don't work as should. also recent tab is not working after some clicks on tab.

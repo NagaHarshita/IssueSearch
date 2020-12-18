@@ -1,0 +1,1 @@
+ URL : "https://github.com/googlei18n/nototools/issues/459" TITLE : refresh udhr samples BODY : could we refresh the udhr samples? upstream had a couple additions such as adlam http://www.unicode.org/udhr/d/udhr_fuf_adlm.html . requested by @lemzwerg who uses parts of nototools for testing ttfautohint.

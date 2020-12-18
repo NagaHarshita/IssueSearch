@@ -1,0 +1,1 @@
+ URL : "https://github.com/255BITS/hypr/issues/55" TITLE : spike: firebase analytics BODY : description: several events are useful for tracking usage: first_open session_start choose_image - user uses existing photo camera_picture - user takes a photo from the camera share save purchase control_dropdown_changed slider_changed model_changed

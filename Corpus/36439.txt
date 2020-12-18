@@ -1,0 +1,1 @@
+ URL : "https://github.com/wch/R6/issues/122" TITLE : hide .__enclos_env__ BODY : by providing names.r6 method and also implementing length.r6 and str.r6 for consistency

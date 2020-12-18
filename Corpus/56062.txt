@@ -1,0 +1,1 @@
+ URL : "https://github.com/SpheMakh/Stimela/issues/158" TITLE : master cron is failing BODY : @sphemakh i see the cron job is failing again. something about the sofia pipeline missing. i've set jenkins up now to email you when this job fails.

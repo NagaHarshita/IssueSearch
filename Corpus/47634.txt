@@ -1,0 +1,1 @@
+ URL : "https://github.com/kubernetes-incubator/kube-arbitrator/issues/73" TITLE : preemption design doc BODY : the queue api doc contains the basic function description of preemption. need to provide a preemption design doc of details.

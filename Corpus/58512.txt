@@ -1,0 +1,1 @@
+ URL : "https://github.com/pachterlab/sleuth_paper_analysis/issues/1" TITLE : snakefile call to rsem BODY : the snakefile call to rsem to make simulations doesn't include the --deterministic flag. was that branch of rsem used to generate reads?

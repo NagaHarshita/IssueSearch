@@ -1,0 +1,1 @@
+ URL : "https://github.com/wiesr/telemetr-db/issues/8" TITLE : species & study tables BODY : species and study lookup tables to further normalize the data. animals.species_id and animals.studies_id will reference these tables.

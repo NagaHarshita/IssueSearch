@@ -1,0 +1,1 @@
+ URL : "https://github.com/go-sql-driver/mysql/issues/694" TITLE : please tag a new release BODY : there are 42 commits https://github.com/go-sql-driver/mysql/compare/v1.3...master since 1.3.

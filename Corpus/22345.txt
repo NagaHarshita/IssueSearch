@@ -1,0 +1,1 @@
+ URL : "https://github.com/jlgrossman/credits/issues/23" TITLE : js form validation BODY : add error messages from the js when entering form data that can be validated in the js min length, max length, required, number vs text, etc

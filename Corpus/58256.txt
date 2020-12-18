@@ -1,0 +1,1 @@
+ URL : "https://github.com/pelagios/peripleo2/issues/73" TITLE : select box refactoring BODY : the select box needs refactoring to contain only common elements; and then we'll use different 'cards' along the lines of recogito for different item types.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/rethinkdb/rethinkdb/issues/6502" TITLE : rethinkdb erlang driver BODY : forked the driver currently listen on the drivers page and made it available on hex.pm https://hex.pm/packages/erlang_rethinkdb see the project on github: https://github.com/eyedouble/erlang_rethinkdb

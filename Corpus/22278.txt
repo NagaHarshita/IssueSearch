@@ -1,0 +1,1 @@
+ URL : "https://github.com/artisaninweb/laravel-soap/issues/94" TITLE : is trace working ? BODY : i would like to monitor and troubleshoot my requests, maybe the $service->trace true could help. does it actually work ? where can i see the traces ?

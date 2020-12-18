@@ -1,0 +1,1 @@
+ URL : "https://github.com/dapphub/ethrun/issues/10" TITLE : add --version flag BODY : this would help with debugging user issues. maybe commit hash as well.

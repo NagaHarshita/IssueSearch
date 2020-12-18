@@ -1,0 +1,1 @@
+ URL : "https://github.com/cxong/cdogs-sdl/issues/485" TITLE : multiple body types BODY : ideas: - hazmat - skinny also: modify default body to have different feet colour include body type in player template, and player selection

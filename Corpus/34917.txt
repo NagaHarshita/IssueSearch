@@ -1,0 +1,1 @@
+ URL : "https://github.com/tmikeschu/air_bnb_clone/issues/4" TITLE : create profile model BODY : validate association - belongs_to :user attributes: description

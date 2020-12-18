@@ -1,0 +1,1 @@
+ URL : "https://github.com/snowplow/snowplow-rdb-loader/issues/55" TITLE : common: add ci/cd BODY : now travis publishes only loader. we need to embrace same approach as in snowplow/snowplwo : publish loader on rdb_loader/0.14.0 and shredder on rdb_shredder/0.13.0

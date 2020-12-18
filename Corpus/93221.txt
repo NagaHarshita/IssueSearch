@@ -1,0 +1,1 @@
+ URL : "https://github.com/dogoncouch/logdissect/issues/12" TITLE : add log file output module BODY : add output module for log file format same as input file, basically .

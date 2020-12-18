@@ -1,0 +1,8 @@
+ URL : "https://github.com/Zimmi48/bugzilla-test/issues/2720" TITLE : wrong error message BODY : note: the issue was created automatically with bugzilla2github tool bugzilla bug id: 2720
+date: 2012-02-28 09:53:26 +0100
+from: @_fblanqui
+to: cc: @_fblanqui, @_pirbo last updated: 2012-04-11 13:57:39 +0200 bugzilla comment id: 4854
+date: 2012-02-28 09:53:26 +0100
+from: @_fblanqui welcome to coq 8.3pl3 february 2012 coq < section s. variable f:nat->nat. f is assumed coq < fixpoint f x := match x with 0=>0|s y=>s f y end. anomaly: assert failure file pretyping/evarutil.ml , line 160, characters 2-8 . please report. here, coq should tell the user that f is already defined... bugzilla comment id: 4940
+date: 2012-04-11 13:57:39 +0200
+from: @_pirbo the expected behavior is in 8.4 but won't be backported.

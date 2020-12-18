@@ -1,0 +1,1 @@
+ URL : "https://github.com/socialwifi/jsonapi-requests/issues/23" TITLE : saving orm objects. BODY : add method .save it could guess if it should post or patch depending on presence of id, but it should have flag to force post.

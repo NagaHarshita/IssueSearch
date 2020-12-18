@@ -1,0 +1,1 @@
+ URL : "https://github.com/ONSdigital/rm-survey-service/issues/15" TITLE : handle os signals BODY : we need to handle the sigint and sigterm os signal to shutdown gracefully as this is the mechanism used in cloud foundry

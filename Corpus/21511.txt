@@ -1,0 +1,2 @@
+ URL : "https://github.com/PriceGuyS/pg-backend/issues/6" TITLE : fix initial import BODY : currently, there is a slight problem with importing the queried data into the database. it appears that there has to be a delay between generating the data into json and importing that data into the database. sometimes, there might not be an existing table and the import fails. - investigate delay between data generation and importing
+- execute fix

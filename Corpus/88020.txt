@@ -1,0 +1,1 @@
+ URL : "https://github.com/webappsuk/CoreLibraries/issues/53" TITLE : missing closing quotation BODY : in the sqlprogramcommand_setparameters_too_many_parameters error, the message is missing a quote after '{1} https://github.com/webappsuk/corelibraries/blob/f37c932812223f2e4542ac404c64a47fe1e29439/database/resources.resx l313

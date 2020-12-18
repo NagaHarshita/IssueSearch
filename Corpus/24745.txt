@@ -1,0 +1,1 @@
+ URL : "https://github.com/theia-ide/theia-apps/issues/3" TITLE : theia desktop apps BODY : latest and next theia-desktop app should be added. the auto build should be provided whenever a new @theia/core latest or next version is published.

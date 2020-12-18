@@ -1,0 +1,1 @@
+ URL : "https://github.com/KaramAbuaisha/Checkers-Project/issues/4" TITLE : brackets are wrong BODY : not all the open brackets in the conditions are closed. 90% of the compile errors are caused by bracketing.

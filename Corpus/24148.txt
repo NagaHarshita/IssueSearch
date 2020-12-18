@@ -1,0 +1,1 @@
+ URL : "https://github.com/bramp/ffmpeg-cli-wrapper/issues/94" TITLE : set input duration BODY : ffmpegbuilder has an option for input start offset, but not for input duration -t

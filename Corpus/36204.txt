@@ -1,0 +1,1 @@
+ URL : "https://github.com/jupyterlab/jupyterlab-git/issues/58" TITLE : git log and git diff BODY : use git log to obtain info for user to view previous commits; research git diff to design a user friendly interface to: 1. view differences 2. make changes? 3. solve file conflicts??

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Kilobyte22/libpart/issues/3" TITLE : create mbr partitions BODY : there's a way to write an mbr, but no way to add some partitions in it.

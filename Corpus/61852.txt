@@ -1,0 +1,1 @@
+ URL : "https://github.com/0xpr03/clantool/issues/2" TITLE : bug with name-re-change BODY : taking a name a, changing to b and then back to a leaves name b as last name to be used for all views. this can be surrogated by introducing a new column: last updated which is then used in this case.

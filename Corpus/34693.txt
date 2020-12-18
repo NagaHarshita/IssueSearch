@@ -1,0 +1,1 @@
+ URL : "https://github.com/Deep-Red/SongForThat/issues/2" TITLE : confirm new tagging. BODY : currently there is no user-facing confirmation when a tag has been added to a song. the user must leave the page and come back to see that their tag has been added. either a flash message or an automatic refresh should be added so that the new tag is showed.

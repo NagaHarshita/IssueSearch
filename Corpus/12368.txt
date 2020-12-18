@@ -1,0 +1,1 @@
+ URL : "https://github.com/pombase/curation/issues/1391" TITLE : ortholog pb xref BODY : write a pb_ref for the ones ortholog predictions don't have a specific publication to cite ....we should use use my old book chapter which describes in detail how the orthology calls are made

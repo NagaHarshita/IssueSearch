@@ -1,0 +1,1 @@
+ URL : "https://github.com/harmsm/PyCmdMessenger/issues/28" TITLE : c.readstringarg error BODY : error: array must be initialized with a brace-enclosed initializer char arr 128 = c.readstringarg ;

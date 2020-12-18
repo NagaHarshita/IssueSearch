@@ -1,0 +1,1 @@
+ URL : "https://github.com/telegram-rs/telegram-bot/issues/67" TITLE : add file.get_url method BODY : maybe it should return string .

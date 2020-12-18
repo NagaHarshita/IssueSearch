@@ -1,0 +1,1 @@
+ URL : "https://github.com/sergei-svistunov/gorpc/issues/73" TITLE : bad formed error message BODY : gorpc/transport/http_json/http_json.go:135 err: fmt.errorf % v %s , r, trace , please fix this awful error message. two mistakes in one line: 1 no prefix - hard to find this error generation 2 cast trace to string - nobody likes to see bytes arrays instead of strings

@@ -1,0 +1,1 @@
+ URL : "https://github.com/hamlim/babel-slot-fill/issues/1" TITLE : prepare alpha v1 release BODY : tl;dr: the code is ready for an alpha v1 release. need to: package up the code run it through babel package it up for distribution on npm add docs on how to add this to a project use on a side project

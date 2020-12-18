@@ -1,0 +1,1 @@
+ URL : "https://github.com/syedowaisali/crystal-range-seekbar/issues/41" TITLE : more control over steps? BODY : hi, is it possible to explicitly set the steps? i am doing an age range using your crystalrangeseekbar. my min is 18, max 100. i'd like the steps to be; 18, 20, 25, 30.... the in 5s ...95, 100. thanks a lot!

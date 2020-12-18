@@ -1,0 +1,1 @@
+ URL : "https://github.com/flask-restful/flask-restful/issues/684" TITLE : 0.3.6 docs broken link BODY : the following link is broken: http://flask-restful.readthedocs.io/en/0.3.6/ and although http://flask-restful.readthedocs.io/en/0.3.5/ works, it shows the following: ! image https://user-images.githubusercontent.com/4401006/26897851-4726327c-4ba0-11e7-84c1-6f85f8740164.png

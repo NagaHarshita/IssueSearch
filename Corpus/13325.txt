@@ -1,0 +1,1 @@
+ URL : "https://github.com/LBNL-UCB-STI/beam/issues/160" TITLE : transit not used BODY : when production of sf-light run, no one choose transit. this is due to some recent changes in mode choice which now distinguish between walk-transit and drive-transit.

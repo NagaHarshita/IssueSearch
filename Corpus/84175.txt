@@ -1,0 +1,1 @@
+ URL : "https://github.com/bounswe/bounswe2017group5/issues/72" TITLE : create a server in amazon BODY : about as discussed today, i'll create a server in amazon to deploy our application. to-do - create an ubuntu server in amazon ec2. - set up the server. - share the ssh key with the team.

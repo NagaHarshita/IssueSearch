@@ -1,0 +1,1 @@
+ URL : "https://github.com/codecasts/ambientum/issues/29" TITLE : interactive command line BODY : this is a idea for creating a command line tool that helps doing two things. 1 setting the user terminal to use ambientum commands. 2 generating docker-compose.yml files interactively given users the ability to chose the services they want.

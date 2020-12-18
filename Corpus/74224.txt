@@ -1,0 +1,1 @@
+ URL : "https://github.com/cyanskies/hades/issues/49" TITLE : editor isn't thread safe BODY : make tile_work and terrain_work thread safe, by only accessing the datamanger through const or by sharing a shared_ptr to a mutex they both use. current impl causes a race condition.

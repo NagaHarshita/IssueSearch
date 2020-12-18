@@ -1,0 +1,1 @@
+ URL : "https://github.com/uwescience/shablona/issues/63" TITLE : shablona website broken? BODY : i can't find it on rtd: https://readthedocs.org/projects/shablona/ since 32 is already an issue, maybe a good time to switch to gh-pages? i can make a pr setting up gh-pages to build with travis, then you could insert the uwescience github api in a subsequent pr?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/udacity/dlnd-issue-reports/issues/261" TITLE : lesson 11: page 11 typo BODY : typo in page 11 of lesson 11: out_height = ceil float in_height / float strides1 should be strides 1 same thing for out_height = ceil float in_height - filter_height + 1 / float strides1 should be stride 1

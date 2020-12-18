@@ -1,0 +1,1 @@
+ URL : "https://github.com/cassandrale179/lunarlander/issues/4" TITLE : accuracy of collision BODY : since picture is on a transparent background, but collision is dependent on x coordinate of the background, so sometimes it look like asteroid doesn't hit rocket but rocket still suffer damage.

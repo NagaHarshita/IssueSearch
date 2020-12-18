@@ -1,0 +1,1 @@
+ URL : "https://github.com/JuliaFEM/AbaqusReader.jl/issues/25" TITLE : aware of fileio.jl? BODY : similar to asterreader.jl, i am opening an issue to make sure you are aware of the fileio interface. it is great to be able to just rely on something like: julia using fileio load filename.extension save filename.extension , data and let the fileio package handle the file formats.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/al-develop/QuickNoteWidget/issues/4" TITLE : add a transperency slider BODY : it should be possible to control the windows transperency through a slider. the precentage should be safed to the settings, so it will be reloaded on startup. through a context menu entry, it should be possible to reset it back to 100%.

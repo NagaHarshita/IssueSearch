@@ -1,0 +1,1 @@
+ URL : "https://github.com/aturon/crossbeam/issues/111" TITLE : binaries are too generic BODY : when you do cargo install crossbeam , you end up having bench and stress-msq in your path. this is not very good idea. given that it's some bench things, probably it should be only built when running benches and never installed?

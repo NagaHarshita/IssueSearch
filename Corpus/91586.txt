@@ -1,0 +1,1 @@
+ URL : "https://github.com/MarlinFirmware/Marlin/issues/6590" TITLE : ubl not properly leveling BODY : so i have ubl setup and went through the phases up to phase 3. my mesh is saving and loading and looks correct based on my bed. however it is running my head into the bed on multiple sides. anyone else having this issue? ubl sound amazing in theory but in practice it is not.

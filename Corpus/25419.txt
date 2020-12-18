@@ -1,0 +1,1 @@
+ URL : "https://github.com/linuxmint/xreader/issues/166" TITLE : zoom in is limited BODY : xreader version: 1.4.4 distribution: mint 18.2 issue zoom in is limited too much. maybe the current limits for zooming are suitable for documents in dina4 or letter format, but for big documents like circuit diagrams or cad plans, i can not zoom in enough to see something!

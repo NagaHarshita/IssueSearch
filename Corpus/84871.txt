@@ -1,0 +1,1 @@
+ URL : "https://github.com/danrabbit/harvey/issues/3" TITLE : don't abuse the icon spec BODY : currently using icon names that don't match what i'm using them for. probably should bundle those icons to avoid looking stupid if they change in the future. might also make sense to file issue reports against icons to add names that make sense for this pass and fail use case.

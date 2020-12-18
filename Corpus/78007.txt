@@ -1,0 +1,1 @@
+ URL : "https://github.com/trailsjs/trailpack-bookshelf/issues/12" TITLE : pagination in footprints BODY : integrate pagination into the footprintservice.find method using bookshelf's fetchpage method http://bookshelfjs.org/ model-instance-fetchpage . to support queries like: ?limit=10&page=1

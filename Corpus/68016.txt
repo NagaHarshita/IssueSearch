@@ -1,0 +1,1 @@
+ URL : "https://github.com/EdwinvRooij/wholesale-rest-api/issues/16" TITLE : refactor customer views BODY : to use class-based views inheriting apiview from django rest framework.

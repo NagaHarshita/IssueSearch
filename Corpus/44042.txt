@@ -1,0 +1,1 @@
+ URL : "https://github.com/python/devinabox/issues/10" TITLE : drop coverage details BODY : once python/core-workflow 18 is dealt with, the instructions become superfluous. it would be better to point people at the travis file on how to run coverage than keep a separate set of instructions.

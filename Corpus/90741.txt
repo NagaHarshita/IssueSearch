@@ -1,0 +1,1 @@
+ URL : "https://github.com/opentraffic/reporter/issues/91" TITLE : start versioning releases BODY : in the future, let's consider versioning releases in: - docker hub tags https://hub.docker.com/r/opentraffic/reporter/tags/ - a changelog file - github releases/tags https://github.com/opentraffic/reporter/releases

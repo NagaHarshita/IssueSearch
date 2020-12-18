@@ -1,0 +1,1 @@
+ URL : "https://github.com/openshift/jenkins/issues/410" TITLE : why is user 1001 used? BODY : one question about the docker file. user 1001 , why need to use this? could user root be used? could you help to share design considerations? thanks very much.

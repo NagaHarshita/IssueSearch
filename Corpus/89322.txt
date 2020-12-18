@@ -1,0 +1,1 @@
+ URL : "https://github.com/esskar/Serialize.Linq/issues/88" TITLE : problems with uwp version BODY : i'd like to reopen issue 86 https://github.com/esskar/serialize.linq/issues/86 , please see comment there. uwp version behaves differently and does not work in the scenarios where .net 4.5 version works. thank you

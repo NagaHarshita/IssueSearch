@@ -1,0 +1,1 @@
+ URL : "https://github.com/18F/openFEC-web-app/issues/1912" TITLE : introduce version pinning BODY : described in before you ship https://pages.18f.gov/before-you-ship/infrastructure/pinning-dependencies/ . see, for example, https://github.com/18f/omb-eregs/blob/master/requirements.in l2.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/aws/aws-iot-device-sdk-cpp/issues/34" TITLE : resend client token BODY : when i initialize the shadow of the device, the sdk creates a default client token, however, as this client token does not change with each request, it is not sent when i perform a performupdateasync , how can i force the client token to be sent? thanks!

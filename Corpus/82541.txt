@@ -1,0 +1,1 @@
+ URL : "https://github.com/jasonmoore30/CinC/issues/25" TITLE : admin protected endpoints BODY : protect update points behind admin login. allow update to switch the approved column so that it will be shown in the main site.

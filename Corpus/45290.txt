@@ -1,0 +1,1 @@
+ URL : "https://github.com/crosswalk-project/cordova-plugin-crosswalk-webview/issues/149" TITLE : how to disable cache? BODY : cordova 6.3.1 when i run cordova run android . page is always cached. i delete my www folder. but it is always cached.

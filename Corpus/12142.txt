@@ -1,0 +1,1 @@
+ URL : "https://github.com/crystal-lang/crystal-mysql/issues/47" TITLE : mysql error code BODY : is there a way to get mysql error code when there's an exception? this would be easier when app needs to translate the error message to another language.

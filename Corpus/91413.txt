@@ -1,0 +1,1 @@
+ URL : "https://github.com/nhsuk/gp-data-etl/issues/20" TITLE : titleize the address? tbc BODY : in a similar way to the practice name, do we need to titleize the address too? e.g https://beta.nhs.uk/gp-surgeries/45267 https://beta.nhs.uk/book-a-gp-appointment/results?search=thorkhill cc / @mcgrathjoe

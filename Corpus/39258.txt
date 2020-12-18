@@ -1,0 +1,1 @@
+ URL : "https://github.com/aws/aws-sdk-java-v2/issues/19" TITLE : s3: 200 retry policy BODY : in some cases, s3 will return an http 200, but will request that the request be retried in the message payload. these cases should be automatically retried by the sdk.

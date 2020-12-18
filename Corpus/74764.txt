@@ -1,0 +1,1 @@
+ URL : "https://github.com/LBDonovan/image-builder/issues/14" TITLE : file system is too small BODY : /dev/mmcblk0p1 is 1.6g. let's aim for 3723493376bytes 3.7gb the size of the emmc on the black

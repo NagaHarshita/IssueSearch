@@ -1,0 +1,1 @@
+ URL : "https://github.com/mohamicorp/crucible-review-hook/issues/12" TITLE : rest api support BODY : we have a large number of repositories that will need to be configured to enable the plugin and map to the appropriate crucible settings. it would be great if there was a simple rest api that would help us to automate this process.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/vert-x3/vertx-proton/issues/43" TITLE : update to proton-j 0.18.0 BODY : proton-j 0.18.0 will be available tomorrow, we should update to it. in addition to just being the current version, this will help address https://github.com/vert-x3/vertx-amqp-bridge/issues/14 in concert with the earlier changes in 42.

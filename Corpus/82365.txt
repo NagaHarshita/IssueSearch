@@ -1,0 +1,1 @@
+ URL : "https://github.com/Azure/azure-extensions-cli/issues/17" TITLE : add support for key vault BODY : azure-extensions-cli should be able to fetch secrets from key vault. this would better support existing work flows.

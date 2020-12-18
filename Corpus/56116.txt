@@ -1,0 +1,1 @@
+ URL : "https://github.com/tastybento/askyblock/issues/544" TITLE : message encoding fail? BODY : hi, i have a little problem with the french traduction, because of the special caracter like éèàî etc. the plugin replace it with some sort of wierd caracter, i think it's because of the text encoding, but when i try to put the file in utf-8 i can't change the language to french.

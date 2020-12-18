@@ -1,0 +1,1 @@
+ URL : "https://github.com/palantir/tfjson/issues/6" TITLE : error parsing plan BODY : i am getting: gob: wrong type map string string for received field instancestate.meta when attempting to parse a .tfplan file. terraform v0.9.5

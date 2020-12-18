@@ -1,0 +1,1 @@
+ URL : "https://github.com/zooniverse/edu-api-front-end/issues/89" TITLE : join classroom bug BODY : sometimes the request to join a classroom happens twice.

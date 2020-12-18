@@ -1,0 +1,1 @@
+ URL : "https://github.com/TechGapItalia/angular-vertical-timeline/issues/1" TITLE : fix travis configuration BODY : travis configuration should - work - test latest node lts - test latest node stable tests still not work properly but at least we can check if everything compiles

@@ -1,0 +1,1 @@
+ URL : "https://github.com/smbrar/testingbugimport/issues/220" TITLE : peasant ignores orders BODY : when a selected peasant is inside the gold mine or town hall, it ignores any orders given.

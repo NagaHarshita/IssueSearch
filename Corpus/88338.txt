@@ -1,0 +1,1 @@
+ URL : "https://github.com/lavary/laravel-menu/issues/171" TITLE : nested resource parameter BODY : i am currently creating a menu with nested resource parameter like this: bash product: http://domain.com/orders/{orderid}/items invoice: http://domain.com/orders/{orderid}/invoices ... so is there anyway to pass the orderid parameter while create the menu?

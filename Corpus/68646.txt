@@ -1,0 +1,1 @@
+ URL : "https://github.com/k0pius/f1-3-c2p1-colmar-academy/issues/3" TITLE : semantic html5 elements BODY : https://github.com/k0pius/f1-3-c2p1-colmar-academy/blob/master/colmaracademy/index.html l14 good job using header and footer . some other ones to consider are nav , main , section , figure and figcaption . see what else you can use to make your code more semantic 👍

@@ -1,0 +1,1 @@
+ URL : "https://github.com/chrisWhyTea/heyhey/issues/2" TITLE : make old pages revertable BODY : should use the head_timestamp to determin, if a page is the current head page. the current head page should should be marked in the history page while the list of other page versions are orderd by timestamp

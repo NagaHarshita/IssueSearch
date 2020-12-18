@@ -1,0 +1,1 @@
+ URL : "https://github.com/JuliaGPU/CUDAnative.jl/issues/32" TITLE : macro versions of code_ BODY : similar to how base wraps code_llvm with @code_llvm , except that it should use the cudaconvert type conversion rules see how @cuda works , eg. mapping cuarray to cudevicearray .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/compiz-reloaded/compiz-plugins-main/issues/33" TITLE : bug or feature ? BODY : the opacity plugin makes the whole window transparent when set to 0. what it should be is that only the background of the window should be altered. why even have the 0 value then ? it's senseless to make a window fully transparent.

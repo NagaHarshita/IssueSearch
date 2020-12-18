@@ -1,0 +1,1 @@
+ URL : "https://github.com/CobaltFluoride/CobaltOS/issues/1" TITLE : uefi vs cobaltos BODY : some bios chips, specifically in uefi motherboards, will refuse to boot cobaltos. i don't know how to fix this. the os can however boot on most desktop computers and laptops that i have tried.

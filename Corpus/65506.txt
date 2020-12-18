@@ -1,0 +1,1 @@
+ URL : "https://github.com/nathanreyes/v-calendar/issues/1" TITLE : is there a year picker? BODY : i'm browsing through the examples and api but can't find it. is there a way to use the v-calendar to quickly set a particular year without manually setting it in the input field? for example, to set the date of my birthday without clicking the previous month 50 times.

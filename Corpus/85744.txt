@@ -1,0 +1,1 @@
+ URL : "https://github.com/fkie-cad/FACT_core/issues/4" TITLE : fix signature import path BODY : the generation of yara signature files is based on their plugin directories name, while the base plugin looks for them based on the plugin name. once directory name and plugin name deviate, the signature file is not found.

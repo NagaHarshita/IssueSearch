@@ -1,0 +1,1 @@
+ URL : "https://github.com/US-CBP/GTAS/issues/330" TITLE : data | email address BODY : i'm trying to update the data generator, but i can't find which segment the email address belongs to. i don't think the system is set up properly to parse and load this data. <!--- @huboard:{ order :1.2246706135358472, milestone_order :0.975335513863494} -->

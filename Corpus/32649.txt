@@ -1,0 +1,1 @@
+ URL : "https://github.com/cginternals/glbinding/issues/240" TITLE : vulkan api support? BODY : hello. will vulkan api version of glbinding i.e. vkbinding ? i mean not vk-hpp, but i mean vulkan structures and functions with default values and adapted original c api for c++.

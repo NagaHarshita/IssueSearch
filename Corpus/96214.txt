@@ -1,0 +1,1 @@
+ URL : "https://github.com/andlee90/ClientServerScheduling/issues/4" TITLE : enhance window positioning BODY : currently, new frames pop up in the top left hand corner. would be cool if the were centered or, better yet, determined based on the position of their parent frame.

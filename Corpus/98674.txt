@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/CNTK/issues/2659" TITLE : just building the evaldll? BODY : hello, i would like to evaluate cntk models in a 32-bit uwp program. there is a guide how to build cntk from source, however i really just need to evaluate a pretrained model. is it possible to just build the evaldll?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/hoppjs/hopp/issues/24" TITLE : add -j flag BODY : concurrency of tasks is currently achieved through asynchronous code but it would be effective to also add the option of truly parallel tasks similar to the way make has the -j flag.

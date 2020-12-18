@@ -1,0 +1,1 @@
+ URL : "https://github.com/r-lib/pkgdepends/issues/28" TITLE : more general package cache BODY : it could just support arbitrary fields. e.g. gh remotes would need user, repo, sha, etc., local remotes maybe a file modification date and/or md5, etc.

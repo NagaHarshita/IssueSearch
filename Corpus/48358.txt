@@ -1,0 +1,1 @@
+ URL : "https://github.com/swsnu/swpp17-team2/issues/30" TITLE : room sorting criteria BODY : 현재 구현된 방 목록은 sort 기준이 먼저 만들어진 방이 먼저 오는 식으로 정렬되는데, 이거에 대해서 정확하게 결정하는 과정이 필요하다

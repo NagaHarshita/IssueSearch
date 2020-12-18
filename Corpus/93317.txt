@@ -1,0 +1,1 @@
+ URL : "https://github.com/kpvdr/amqpAnalyze/issues/7" TITLE : add protocol filter option BODY : this would allow a user to print only packets containing the given protocol. in particular, amqp protocol would remove packets without amqp content from listing

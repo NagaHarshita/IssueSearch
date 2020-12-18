@@ -1,0 +1,1 @@
+ URL : "https://github.com/kemamanwebtech/ajakk/issues/2" TITLE : create database schema BODY : - create database named ajakk at kwt server - create tables using schema creation scripts in /trunk/database/schema. just run it on the kwt's mysql

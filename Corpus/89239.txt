@@ -1,0 +1,1 @@
+ URL : "https://github.com/statistics101/product2/issues/31" TITLE : print duration everywhere BODY : ===================== testing 'tests_62_drawdvsdhat' test parameters: size = 10 sigma = 1 psi = 0.5 mean = 0 result: diffmatrix = ,1 ,2 ,3 1, 0 0.2135369 0.06111625 2, 0 0.1856369 0.11054646 3, 0 0.0954636 0.37867594 end of test creatediffdmatrixvsdhatmatrix =====================

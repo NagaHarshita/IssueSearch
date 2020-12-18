@@ -1,0 +1,1 @@
+ URL : "https://github.com/Kitt-AI/snowboy/issues/250" TITLE : any ideas about aec? BODY : i try to wakeup snowboy when i playing the music. it seems that it only got detected when my voice loud enough as the music... is there any good idea to apply the aec acoustic echo cancellation ? thanks, lewis

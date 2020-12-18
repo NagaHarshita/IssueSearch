@@ -1,0 +1,1 @@
+ URL : "https://github.com/vincelwt/harmony/issues/132" TITLE : amd64 rpm build BODY : as there already are a harmony-0.4.4-amd64.deb and a harmony-0.4.4-ia32.rpm release, why not also add support for harmony-0.4.4-amd64.rpm ?

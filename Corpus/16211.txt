@@ -1,0 +1,1 @@
+ URL : "https://github.com/wearejust/laravel-amp/issues/3" TITLE : i couldnt install BODY : invalidargumentexception could not find package wearejust/laravel-amp at any version for your minimum-stability stable . check the package spelling or your minimum-stability

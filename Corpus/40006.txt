@@ -1,0 +1,1 @@
+ URL : "https://github.com/eklem/stopword-trainer/issues/21" TITLE : switch to file input BODY : people are probably interested in not posting their data online. just have a devdependency on the reuters lib for tests. https://www.npmjs.com/package/ndjson ndjsonparseopts

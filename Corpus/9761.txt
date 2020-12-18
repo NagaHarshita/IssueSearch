@@ -1,0 +1,1 @@
+ URL : "https://github.com/tonzo-studios/ProjectIrezumi/issues/6" TITLE : add dash attacks BODY : have the player do a special dash attack if he attacks while dashing. take into account the direction the player is looking at and the direction he is dashing towards to make different dash attacks: forward, side and backward.

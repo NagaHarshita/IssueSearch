@@ -1,0 +1,1 @@
+ URL : "https://github.com/dart-lang/build/issues/729" TITLE : new output is too dense BODY : looking at https://github.com/dart-lang/build/commit/8071849d3bd6eaaa1ccbf52ab213defe42c7c92e i miss the space after info <img width= 744 alt= screen shot 2017-12-15 at 4 08 06 pm src= https://user-images.githubusercontent.com/17034/34064969-2ee9e5d4-e1b2-11e7-8ffd-bfb74a04a2dc.png >

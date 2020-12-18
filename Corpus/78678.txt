@@ -1,0 +1,1 @@
+ URL : "https://github.com/mafintosh/lil-pids/issues/5" TITLE : read services from stdin BODY : eg. sh echo node index.js node dev.js | lil-pids do we want this? i can provide a pr if you'd like.

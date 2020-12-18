@@ -1,0 +1,1 @@
+ URL : "https://github.com/stanlemon/jGrowl/issues/68" TITLE : node 8 and npm 5 BODY : https://github.com/stanlemon/jgrowl/blob/master/package.json l9 isn't that src field actually be main . on node 8 and npm 5 i can't require the module because it can't find the main field.

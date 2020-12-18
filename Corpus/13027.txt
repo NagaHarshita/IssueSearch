@@ -1,0 +1,1 @@
+ URL : "https://github.com/FACG2/wrap/issues/36" TITLE : start new sprint BODY : in project page: - 'new sprint' button when clicking on 'new sprint': - if there is an unfinished sprint, app asks whether to close it or not - user cant create sprint of he didn't close the previous sprints - an input form to add sprint data appear if all sprints closed

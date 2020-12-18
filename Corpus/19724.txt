@@ -1,0 +1,1 @@
+ URL : "https://github.com/chronosis/uriel/issues/5" TITLE : add swap reporting BODY : use https://www.npmjs.com/package/systeminformation to perform reporting on swap space available.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mvaneerde/blog/issues/94" TITLE : createfile return value BODY : just a small issue. the function createfile returns in case of error invalid_handle_value and not null or nullptr. thank you for the code.

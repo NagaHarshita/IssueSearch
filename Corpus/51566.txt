@@ -1,0 +1,1 @@
+ URL : "https://github.com/jwkvam/bowtie/issues/140" TITLE : attach gifs to gallery BODY : this will be useful so the readers don't have to click thru to the websites. they can be slow since they are all hosted on free heroku dynos. - create repeatable gif making procedure small gifs - create gif for each site in the gallery - upload them and have them link to the website

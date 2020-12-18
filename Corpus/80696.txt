@@ -1,0 +1,1 @@
+ URL : "https://github.com/cockroachdb/docs/issues/1078" TITLE : update comparison matrix BODY : comparison matrix needs to be updated based on our new messaging. specifically, automated repair should be interpreted differently as cassandra does not support true automated repair. https://www.cockroachlabs.com/docs/cockroachdb-in-comparison.html

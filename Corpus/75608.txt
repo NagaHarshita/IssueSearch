@@ -1,0 +1,1 @@
+ URL : "https://github.com/tingwei628/database-note/issues/13" TITLE : how to move a big table? BODY : 1. split a table into small tables and build view => union all small tables + proper index 2. use store procedure to build temp table

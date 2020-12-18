@@ -1,0 +1,1 @@
+ URL : "https://github.com/EarthSystemCoG/COG/issues/1354" TITLE : yui mixed content BODY : who: katharina in my browser i get mixed content warnings in cog, e.g. for https://esgf-data.dkrz.de/search/esgf-dkrz/ --- loading mixed insecure display content “http://yui.yahooapis.com/2.3.1/build/assets/skins/sam/sprite.png” on a secure page --- would it be possible to fix this?

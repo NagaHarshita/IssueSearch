@@ -1,0 +1,1 @@
+ URL : "https://github.com/conveyal/trevorbot/issues/4" TITLE : add time zone support BODY : when asking where's trevor or what time is it for trevor we should return the current time in trevor's location.

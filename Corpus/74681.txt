@@ -1,0 +1,1 @@
+ URL : "https://github.com/jitsi/jitsi-meet/issues/1897" TITLE : feature disable gravatar BODY : hi, can we have a feature to disable gravatar in the profile toolbar? at the moment the only way it seems to work is if we remove the code from profile.js

@@ -1,0 +1,1 @@
+ URL : "https://github.com/SimpleMachines/SMF2.1/issues/3774" TITLE : drop mysql_ ? BODY : yoshi was so nice and place in his upgrade clean pr a logic which switch the database driver from mysql to mysqli automaticaly. i got now the question in my mind, if we not drop the support for mysql_ stuff?

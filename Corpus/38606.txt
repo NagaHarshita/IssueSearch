@@ -1,0 +1,1 @@
+ URL : "https://github.com/swimlane/ngx-charts-dag/issues/5" TITLE : problem with long id BODY : pretty sure it's not a ngx-charts-dag problem but with hiphens in id - it dont works: error is: exception: cannot read property 'line' of undefined

@@ -1,0 +1,1 @@
+ URL : "https://github.com/redox-os/libc/issues/39" TITLE : missing arch dependencies BODY : the gcc pkgbuild files have a dependency on an old version of autoconf. it would be helpful to have pkgbuilds for any dependencies that aren't available.

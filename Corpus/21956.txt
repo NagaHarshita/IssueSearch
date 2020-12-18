@@ -1,0 +1,1 @@
+ URL : "https://github.com/sakopzon/Compilation/issues/19" TITLE : how to reduce num? BODY : if num is a floating point number then it must be real. but if it's an integer then in may be integer or real, and we have to decide before putting it into the memory.

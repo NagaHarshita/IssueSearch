@@ -1,0 +1,1 @@
+ URL : "https://github.com/xpressengine/xpressengine/issues/411" TITLE : .htaccess 설정 문제 BODY : htaccess 에 default_charset utf-8 설정 추가 https://github.com/xpressengine/xpressengine/commit/a208cea380fa1c15dcf57ff67fe956cb0925bcb8 의 설정이 다른 서버 환경에서 오류를 발생시킬 수 있습니다. 기존의 설정을 그대로 유지하고 charter set 으로 인한 문제는 다른 방식으로 처리되야 합니다.

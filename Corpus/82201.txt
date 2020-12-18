@@ -1,0 +1,1 @@
+ URL : "https://github.com/ElliottSobek/Password-List-Generator/issues/23" TITLE : add minimum length option BODY : a user should be able to specify a minimum length smaller than the max to give them more flexibility when wanting to generate password permutations. maybe a -l <insigned int>

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mtymek/blast-base-url/issues/14" TITLE : get full url? question BODY : is it possible to get full url like http://url-site.com/ i am using it in expressive app and need full url to share page on social media like facebook. for eg. // this should return http://url-site.com/share-page-facebook $this->basepath '/share-page-to-facebook' ;

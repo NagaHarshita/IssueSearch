@@ -1,0 +1,1 @@
+ URL : "https://github.com/geneontology/go-ontology/issues/13264" TITLE : revise wobble term names BODY : for consistency could these be: go:0002127 wobble base cytosine methylation -> trna wobble base cytosine methylation go:0002136 wobble base lysidine biosynthesis - trna wobble base lysidine biosynthesis

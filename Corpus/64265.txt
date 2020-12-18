@@ -1,0 +1,1 @@
+ URL : "https://github.com/Mannjamin/Ducky-Mc-Duckerson/issues/28" TITLE : format events into json BODY : formatting event output into json so that other apps may hook onto stdout and catch events for their own use.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/drakeguan/vfx11spring_project2/issues/1" TITLE : error using save BODY : hi, @drakeguan i get this result when i run main.m how to solve this problem, thank you! error using save cannot create 'fx_01.mat' because 'mat' does not exist. error in main line 50 save sprintf 'mat/fx_%02d.mat', i , 'fx' ;

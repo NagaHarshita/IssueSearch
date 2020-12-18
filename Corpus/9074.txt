@@ -1,0 +1,1 @@
+ URL : "https://github.com/NovaSquirrel/NovaTheSquirrel/issues/72" TITLE : tall level bugs BODY : you can get trapped between two screens, quickly cycling between them. also the level exporter still doesn't handle this very well at all; enemies are in the wrong places, and it doesn't place barriers correctly. there's still that bug in level 2.

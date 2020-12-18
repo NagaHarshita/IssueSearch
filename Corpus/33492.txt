@@ -1,0 +1,1 @@
+ URL : "https://github.com/72Fest/72Server/issues/4" TITLE : add s3 functionality BODY : all team logos should be uploaded to s3 rather than reside on the ec2 instances.

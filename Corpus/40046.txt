@@ -1,0 +1,1 @@
+ URL : "https://github.com/FriendsOfSymfony/FOSHttpCacheBundle/issues/359" TITLE : taghandler on master BODY : i see here in documentation https://github.com/friendsofsymfony/foshttpcachebundle/blob/master/resources/doc/features/tagging.rst tagging-from-code url that taghandler is enabled to invalidate tags but the class is removed from previous version.

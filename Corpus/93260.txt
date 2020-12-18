@@ -1,0 +1,1 @@
+ URL : "https://github.com/Yggdroot/LeaderF/issues/40" TITLE : add navigating ctags files BODY : it would be amazing if it was possible to use leaderf as a fuzzy finder for ctags files, which would make jumping to specific functions a lot easier. taglist.vim is an example of a viewer supporting ctag files: https://github.com/vim-scripts/taglist.vim

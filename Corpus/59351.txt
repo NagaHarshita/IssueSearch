@@ -1,0 +1,1 @@
+ URL : "https://github.com/ualbertalib/avalon/issues/146" TITLE : travisci test flapping BODY : sometimes tests pass in travis, other times they don't if the travis build fails, just run it again and maybe it will pass the above statement describes the current ci workflow for avalon. this situation erodes confidence in the test suite.

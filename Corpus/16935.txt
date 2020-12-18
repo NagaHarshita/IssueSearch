@@ -1,0 +1,1 @@
+ URL : "https://github.com/chameleonbr/node-red-contrib-read-line/issues/3" TITLE : missing node type BODY : when i drag the read file by line node on to the canvas and hit deploy i get a warning dialog that says flows stopped due to missing node types. check logs for details. any idea what is wrong?

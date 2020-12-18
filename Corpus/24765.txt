@@ -1,0 +1,1 @@
+ URL : "https://github.com/j-bresson/symbolist/issues/6" TITLE : time and rendering BODY : => add a time attribute to the symbols + duration? => set a 'current-time' global variable displayed in the score - as a cursor-like graphic element, or - as a specific highlight on symbols at current time

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla/addons-frontend/issues/2687" TITLE : review form is too wide BODY : on desktop it looks like this one a large monitor: <img width= 2551 alt= add-ons_for_firefox src= https://user-images.githubusercontent.com/1514/27837768-2b3323c4-60de-11e7-9049-d07e0ced2a2b.png > the overlay's max width should be limited.

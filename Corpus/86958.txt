@@ -1,0 +1,1 @@
+ URL : "https://github.com/jotyGill/openpyn-nordvpn/issues/62" TITLE : initialise daemon on boot BODY : hi sorry to be stupid - how best would you recommend getting openpyn to run and start openvpn as a daemon. i have tried init.d script and crontab, neither work. thanks in advance. mike

@@ -1,0 +1,1 @@
+ URL : "https://github.com/barrysteyn/node-scrypt/issues/163" TITLE : new buffer is deprecated BODY : 'new buffer ' was deprecated since v6. use 'buffer.alloc ' or 'buffer.from ' use 'https://www.npmjs.com/package/safe-buffer' for '<4.5.0' instead. node/no-deprecated-api

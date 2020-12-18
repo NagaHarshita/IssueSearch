@@ -1,0 +1,2 @@
+ URL : "https://github.com/OpenNebula/one/issues/788" TITLE : vm template versioning BODY : --- author name: ondrej hamada ondrej hamada original redmine issue: 3081, https://dev.opennebula.org/issues/3081
+original date: 2014-07-22 --- it would be nice to have the vm templates versioned. requested features: - show differences between versions - make it possible to restore template to specific version - auditing of changes

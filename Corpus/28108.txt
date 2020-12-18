@@ -1,0 +1,4 @@
+ URL : "https://github.com/connectbot/connectbot/issues/489" TITLE : fcs when connecting BODY : after upgrading to the new material design version, connectbot fcs when ever i start to connect to any host. hosts that were created pre-upgrade and hosts that were created post-upgrade are effected. environment :
+samsung gs6
+android 5.0.2
+connectbot 1.9.2

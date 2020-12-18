@@ -1,0 +1,1 @@
+ URL : "https://github.com/DrFelder/exercises/issues/1" TITLE : tabwidth too small BODY : the tabwidth should be set to 32. a tabwidth of 8 is too small for a clang document.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/DevHunvee3/BD-Final/issues/1" TITLE : pasar ids a serial BODY : las ids estan como bigint, pasarlas a serial

@@ -1,0 +1,1 @@
+ URL : "https://github.com/18F/web-design-standards-docs/issues/269" TITLE : add site tests BODY : before we can proceed with 130, we need to put some tests in place to: - ensure that we don't break a list of known urls - ensure that our html is valid, and no images or links are broken

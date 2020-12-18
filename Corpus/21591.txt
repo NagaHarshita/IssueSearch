@@ -1,0 +1,1 @@
+ URL : "https://github.com/wix/wix-ui/issues/109" TITLE : fonts in storybook BODY : seem like the fonts are not loaded in storybook, so we can't get review from ben about the typography

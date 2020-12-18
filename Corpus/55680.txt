@@ -1,0 +1,1 @@
+ URL : "https://github.com/emrex-eu/elmo-schemas/issues/31" TITLE : language on attachment BODY : this is about the language of the attachment, not title or description, but file content. this can be solved in a couple of ways: 1. add a contentlanguage to attachment 2. have several files inside one attachment and have a language attribute on this.

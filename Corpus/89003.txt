@@ -1,0 +1,1 @@
+ URL : "https://github.com/brycemcd/nyctaxi-data-processing/issues/2" TITLE : persist values to a queue BODY : at some point having validated rows on a message queue would be helpful for the purposes of doing realtime analytics decide on a queue system after a row has been audited, write the row to a queue

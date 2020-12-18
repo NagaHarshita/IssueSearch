@@ -1,0 +1,1 @@
+ URL : "https://github.com/gwaldron/osgearth/issues/1020" TITLE : error in reading tiles BODY : with the readref file fixes, i am still seeing these kind of errors: wrn: osg warn error in reading file 10/1141/285.3.osgearth_engine_mp_tile : file not found wrn: osg warn this with osg and osgearth current master built with msys2.

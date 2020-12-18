@@ -1,0 +1,1 @@
+ URL : "https://github.com/lupoDharkael/flameshot/issues/3" TITLE : compilation on gentoo BODY : so i attempted to compile on gentoo linux and the compilation fails at make : ! 2017-07-02-16 54 08 https://user-images.githubusercontent.com/5037967/27770878-ea5b12be-5f46-11e7-932b-08ad5976883f.png any idea/hint what package/dependency could be missing?

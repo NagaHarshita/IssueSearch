@@ -1,0 +1,1 @@
+ URL : "https://github.com/tdon1713/Personal/issues/26" TITLE : order - cost for order BODY : need to add a cost field to orders. this would entail at least the followings tasks: - add field to table - update all stored procedures - update dl - update bl - update rest - update ui grids - add fields to add/update forms.

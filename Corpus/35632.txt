@@ -1,0 +1,1 @@
+ URL : "https://github.com/ritvikgautam/documentManagementSystem/issues/1" TITLE : error> notice: crypt BODY : notice: crypt : no salt parameter was specified. you must use a randomly generated salt and a strong hash function to produce a secure hash. in c:\...\register.php on line 9 fatal error: unable to insert into database

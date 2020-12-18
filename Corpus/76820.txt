@@ -1,0 +1,1 @@
+ URL : "https://github.com/HewlettPackard/mds/issues/10" TITLE : make namespaces iterable BODY : imported from hpe issue 42 namespaces need to be iterable, but cuckoo maps aren't.

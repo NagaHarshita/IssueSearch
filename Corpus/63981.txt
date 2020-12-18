@@ -1,0 +1,1 @@
+ URL : "https://github.com/opensyllabus/osp-pipeline/issues/59" TITLE : feature: dedupe syllabi BODY : dedupe syllabi at the point where its in a parquet dataframe on s3. @davidmcclure suggested minhash , @wearpants thinks there's a similar lsh algo in spark's mllib package. it was suggested to avoid the orm / models.py in favor of unix pipelines .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/GoogleCloudPlatform/google-cloud-java/issues/1543" TITLE : publisher might overflow BODY : the line linked might overflow. we should use math.floormod instead. https://github.com/googlecloudplatform/google-cloud-java/blob/db4908e82af4561127cc651f76978e8703d9ea64/google-cloud-pubsub/src/main/java/com/google/cloud/pubsub/publisherimpl.java l319

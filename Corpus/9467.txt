@@ -1,0 +1,1 @@
+ URL : "https://github.com/bbeeksma/Chow_do_you_do/issues/21" TITLE : wire up sign in BODY : function that checks if user table exists if not exists create insert user write user also to local storage

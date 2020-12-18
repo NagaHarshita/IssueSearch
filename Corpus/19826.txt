@@ -1,0 +1,1 @@
+ URL : "https://github.com/UKirsche/DemoMidgardScenes/issues/2" TITLE : ai: behaviour tree BODY : hierzu verwende ich panda. panda erlaubt das parallele skripten und die verhaltenssteuerung von unity gameobjects, die um die jeweiligen skripte ergänzt werden: https://github.com/ukirsche/demomidgardscenes.git

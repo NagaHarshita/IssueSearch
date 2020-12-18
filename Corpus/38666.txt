@@ -1,0 +1,1 @@
+ URL : "https://github.com/ioncodes/dnpatch/issues/32" TITLE : provide il by c code BODY : create a helper to convert c code to il via roslyn.

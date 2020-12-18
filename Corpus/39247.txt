@@ -1,0 +1,1 @@
+ URL : "https://github.com/mitodl/micromasters/issues/2349" TITLE : run lint tests first BODY : we noticed recently that linting runs last, which means that you can wait a long time just to find out that you don't pass linting.

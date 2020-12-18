@@ -1,0 +1,2 @@
+ URL : "https://github.com/waffleio/waffle.io/issues/3270" TITLE : fix graph service BODY : - heroku app isn't happy
+- embedded throughput graphs not working

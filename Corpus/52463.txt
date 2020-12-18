@@ -1,0 +1,1 @@
+ URL : "https://github.com/phil-davis/mautic/issues/34" TITLE : coding format standard BODY : mautic uses php-cs-fixer to check and apply symfony-level php coding standards to various parts of the app folder. - apply these to the test folder also in ci - fix format issues reported

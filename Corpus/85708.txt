@@ -1,0 +1,1 @@
+ URL : "https://github.com/pbelmans/gerby-website/issues/19" TITLE : fix list items in preview BODY : because jquery-bonsai changes the way all list items look, the preview of a search result is borked. i played around for a few minutes, but i couldn't figure out a good solution straightaway. maybe we should decorate all list items on which bonsai is supposed to act or something?

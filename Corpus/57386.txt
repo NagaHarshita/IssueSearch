@@ -1,0 +1,1 @@
+ URL : "https://github.com/SpoonX/aurelia-autocomplete/issues/19" TITLE : promise is not defined BODY : uncaught in promise referenceerror: promise is not defined looks like promise actually doesn't exist here: https://github.com/spoonx/aurelia-autocomplete/blob/master/src/component/autocomplete.js l246

@@ -1,0 +1,1 @@
+ URL : "https://github.com/elastic/elasticsearch/issues/25500" TITLE : remove _default_ type BODY : with the move to a single type, it no longer makes sense to provide a _default_ type as you can only every create one type. we should deprecate and remove the _default_ type.

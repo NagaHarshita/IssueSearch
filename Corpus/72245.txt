@@ -1,0 +1,1 @@
+ URL : "https://github.com/smart-dashboard/angular-dashboard/issues/48" TITLE : bind app info activities BODY : currently app info activities are broken. they must be connected to the real activity from store.

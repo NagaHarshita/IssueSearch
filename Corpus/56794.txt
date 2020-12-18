@@ -1,0 +1,1 @@
+ URL : "https://github.com/highflyers/highflyers-data-visualization/issues/10" TITLE : on-click coord display BODY : users should be able to click on a map and see a coordinate of a piont they clicked. probably a separate widget in a status pane will do, or a tooltip.

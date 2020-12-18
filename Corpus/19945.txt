@@ -1,0 +1,1 @@
+ URL : "https://github.com/yanncam/UnSHc/issues/15" TITLE : arm64 can not run. BODY : when i run unshc filename prompt: unable to define arc4 call address ... i am running on ubuntu xenial arm64. hope to support the arm architecture. . .

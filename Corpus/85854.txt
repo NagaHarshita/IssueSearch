@@ -1,0 +1,1 @@
+ URL : "https://github.com/firebase/firebase-js-sdk/issues/124" TITLE : fr: support shallow query BODY : is there any plan to have the javascript sdk support the shallow parameter https://firebase.google.com/docs/database/rest/retrieve-data shallow for queries?

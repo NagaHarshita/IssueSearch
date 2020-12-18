@@ -1,0 +1,1 @@
+ URL : "https://github.com/platformio/platformio-core/issues/1218" TITLE : home: platforms: registry BODY : pio core call error: extra data: line 3 column 1 - line 3 column 64 char 19416 - 19479

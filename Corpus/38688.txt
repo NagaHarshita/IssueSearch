@@ -1,0 +1,1 @@
+ URL : "https://github.com/djg/cubeb-rs/issues/3" TITLE : publish to crates.io BODY : what's involved with publishing to crates.io once the workspace reorganisation is finalized? issue 1

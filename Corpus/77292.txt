@@ -1,0 +1,1 @@
+ URL : "https://github.com/Ozzyboshi/AmigaFontEditor/issues/1" TITLE : multiple font resolution BODY : allow the user to select multiple resolution for the fonts. all the fonts must have the same resolution. resolution allowed for now are: horizontal : 8,16,24 and 32 pixels vertical : 8,16,24 and 32 pixels

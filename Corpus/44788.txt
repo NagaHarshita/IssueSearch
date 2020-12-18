@@ -1,0 +1,1 @@
+ URL : "https://github.com/opencb/opencga/issues/584" TITLE : fix vcf output format BODY : vcf writer fails when new format attributes are found in the data and not defined in the client. we should allow to easily setup this in the client side and also skip the new formats found in the server to avoid the crash.

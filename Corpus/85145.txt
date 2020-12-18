@@ -1,0 +1,1 @@
+ URL : "https://github.com/gurnec/HashCheck/issues/33" TITLE : error during installation BODY : an unexpected error occured during installation winxp sp3, 1gb ram, amd thunderbird with no sse instr. . clean install. may be the sse instruction the problem? is possible to compile without that?

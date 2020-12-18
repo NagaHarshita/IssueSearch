@@ -1,0 +1,1 @@
+ URL : "https://github.com/RaRe-Technologies/gensim/issues/1376" TITLE : sent2vec in gensim BODY : the epfl ml group have come up with a sentence embedding technique, sent2vec https://arxiv.org/abs/1703.02507 . the repo with the code can be found here https://github.com/epfml/sent2vec . it would be interesting to have this feature in gensim, either with a wrapper or otherwise.

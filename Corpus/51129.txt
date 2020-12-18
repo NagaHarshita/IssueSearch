@@ -1,0 +1,1 @@
+ URL : "https://github.com/RustCrypto/hashes/issues/6" TITLE : add security summaries BODY : it would be nice to have a short security summary in each crate documentation which would include known insecurities, applicability, etc.

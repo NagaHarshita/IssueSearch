@@ -1,0 +1,1 @@
+ URL : "https://github.com/zestedesavoir/zds-site/issues/4383" TITLE : mise à jour du readme BODY : le site n'étant plus basé sur django 1.8, il y a quelques trucs à mettre à jour dans le readme et la doc ;

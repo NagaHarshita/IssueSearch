@@ -1,0 +1,1 @@
+ URL : "https://github.com/US-CBP/GTAS/issues/381" TITLE : data | credit card sponsor BODY : i don't think the system is capturing the credit card sponsor correctly. can you please send me an example of a segment that should load properly? <!--- @huboard:{ order :0.6092814239945468, milestone_order :0.6115589990148457} -->

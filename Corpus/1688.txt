@@ -1,0 +1,1 @@
+ URL : "https://github.com/Nebo15/prm.api/issues/79" TITLE : crud doctors BODY : implement the doctors group of methods according to the spec http://docs.ehealthapi1.apiary.io/ reference/internal.-partnership-relations-management/doctors it should work with the prm.employee_doctor table

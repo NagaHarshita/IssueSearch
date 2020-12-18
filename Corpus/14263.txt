@@ -1,0 +1,1 @@
+ URL : "https://github.com/nicoulaj/rainbow/issues/51" TITLE : add profiling env BODY : tox -e profiling => would run the same tests as tox -e benchmarks , with cprofile output. see also snakeviz https://jiffyclub.github.io/snakeviz for results visualization.

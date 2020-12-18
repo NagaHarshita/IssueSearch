@@ -1,0 +1,1 @@
+ URL : "https://github.com/chrisbra/vim-autoread/issues/1" TITLE : deleted and remade files BODY : if a file is deleted and remade this plugin just starts appending to the end of the current buffer. would it be possible to make it automatically reload or provide an option to do so?

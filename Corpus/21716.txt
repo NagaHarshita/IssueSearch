@@ -1,0 +1,1 @@
+ URL : "https://github.com/Rastopyr/ember-cli-simple-grid/issues/4" TITLE : get highest column BODY : if grid.image-item was used, and we have randomized height of item's, columns not alike by height.

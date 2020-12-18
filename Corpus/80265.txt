@@ -1,0 +1,1 @@
+ URL : "https://github.com/merantix/picasso/issues/8" TITLE : the size of saliency map BODY : picasso version:1.0 python version:3.6 operating system:ubuntu description when l run the saliency map,l found the size of saliency map and original image are different. what i did so how can l know the reflect of the two images.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/nezamy/route/issues/15" TITLE : shortcode function url BODY : i am using xampp to run my project. here is my url for my project: http://localhost/cms when i used the function url to show domain url, then the result is http://localhost// . is there any way to make it show http://localhost/cms/

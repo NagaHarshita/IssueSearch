@@ -1,0 +1,1 @@
+ URL : "https://github.com/toblum/McLighting/issues/61" TITLE : port to other arduino? BODY : hello, i will try to port this to work with the arduino nanoesp pretzelboard . this also works with the esp8266. but i don´t get it to compile, also some libraries are not there, but all downloaded and installed.

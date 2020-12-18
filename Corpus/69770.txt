@@ -1,0 +1,1 @@
+ URL : "https://github.com/benyanke/unisonctrl/issues/2" TITLE : turn into terminal tool BODY : currently, there's only one command: run, which runs unisonctrl. i would like to turn it into a console tool which can accept various commands, give statistics about running unison instances, etc.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ng2-ui/map/issues/118" TITLE : marker label does not work BODY : marker directive ignores label. steps to reproduce and a minimal demo please take a look at this: https://plnkr.co/edit/mwhhrpjtboociozoatjy?p=preview current behavior it does not show the label a on the marker. expected/desired behavior i expect to see a on the marker.

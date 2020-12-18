@@ -1,0 +1,2 @@
+ URL : "https://github.com/skygear-demo/shotbot3/issues/28" TITLE : center align text in badge BODY : <a href= https://github.com/jimcky ><img src= https://avatars0.githubusercontent.com/u/10917056?v=4 align= left width= 96 height= 96 hspace= 10 ></img></a> issue by jimcky https://github.com/jimcky _monday feb 06, 2017 at 05:58 gmt_
+_originally opened as https://github.com/oursky/shotbot3/issues/157_ ---- currently, the text will be pushed 1 line further up when a new line is started. as a result, 1 extra line is left in the middle of the badge

@@ -1,0 +1,1 @@
+ URL : "https://github.com/pimoroni/hyperpixel/issues/8" TITLE : dual screen setup question BODY : hi, i was thinking to have a setup like: - a raspicam - hyperpixel to be used as a secondary display always on, using a framebuffer to push data to it - a tv attached to hdmi as the main screen do you think this is possible? thanks

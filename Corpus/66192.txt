@@ -1,0 +1,1 @@
+ URL : "https://github.com/mobdata/replication/issues/292" TITLE : md_home isn't installed BODY : md_home is necessary for each node to know its own name. it's been installed by hand until now, but it should be installed by the couchdb-mobdata rpm.

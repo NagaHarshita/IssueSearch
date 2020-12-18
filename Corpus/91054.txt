@@ -1,0 +1,1 @@
+ URL : "https://github.com/tangrams/tangram-es/issues/1746" TITLE : support size: % draw rule BODY : following up on work for density parameter for scene sprite textures, we can implement the use of the % scaling of the sprites using the density information. docs: https://github.com/tangrams/tangram-docs/blob/gh-pages/pages/draw.md size-

@@ -1,0 +1,1 @@
+ URL : "https://github.com/pymc-devs/pymc3/issues/1778" TITLE : stop advi dynamically BODY : advi is run for a fixed amount of iterations. better would be to assess convergence via a running-mean of the elbo and stop automatically if no meaningful change is found.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/peterfdej/record_peri/issues/2" TITLE : data-store not filled BODY : sometimes in the result of the html request it turns out that the 'data-store' is not filled, although there is a live broadcast. therefore, a recording will not start.

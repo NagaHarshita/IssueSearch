@@ -1,0 +1,6 @@
+ URL : "https://github.com/eclipse/vorto/issues/606" TITLE : eclipse kura generator BODY : generated output
+- osgi bundle
+- functionblock api
+- functionblock implementation for bosch iot suite
+- application using functionblock api
+- optional: bluetooth le support

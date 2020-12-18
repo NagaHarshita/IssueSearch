@@ -1,0 +1,1 @@
+ URL : "https://github.com/broccolijs/broccoli/issues/331" TITLE : cli config improvements BODY : - broccoli help and broccoli help serve should display various serve options --port --host and in the future more - build and serve should have more options, for example: - --output-path=

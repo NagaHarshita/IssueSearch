@@ -1,0 +1,1 @@
+ URL : "https://github.com/IntentService/android-chat-ui/issues/8" TITLE : message sent/seen status BODY : very grateful for such complete ui library, is there any way to set status of message sent/seen in the bubble. i have the code for message delivery and receipt, i just want to implement in the chatview. my app would be complete if i can do it. thanks.

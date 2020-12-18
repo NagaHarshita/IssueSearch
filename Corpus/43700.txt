@@ -1,0 +1,1 @@
+ URL : "https://github.com/ByteHamster/PSE/issues/453" TITLE : deadlock beim restart BODY : manchmal funktioniert der restart nicht: das programm hängt sich bei steptimer.cancel ; in startmainloop auf.

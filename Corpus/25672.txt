@@ -1,0 +1,1 @@
+ URL : "https://github.com/sharplispers/cl-jpeg/issues/28" TITLE : a little suggestion BODY : as we can see, there is no dct library written by common lisp. so if you can offer some inferface about dct, this project will be used more widely.

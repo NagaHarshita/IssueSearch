@@ -1,0 +1,1 @@
+ URL : "https://github.com/TheTorProject/ooni-probe/issues/741" TITLE : implement telegram test BODY : we should implement and ideally integrate into ooniprobe 2.2.0 a reachability test for telegram similar to the whatsapp and facebook messenger test.

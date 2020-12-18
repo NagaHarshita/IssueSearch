@@ -1,0 +1,1 @@
+ URL : "https://github.com/MCDMSociety/MOrepo/issues/7" TITLE : a common mip format? BODY : should be in free mps format or lp format so can be read be most solvers. multiple criteria could be added using dummy variables z1, z2, ..., zn and constraints zi = .... the objective could be z1 + z2 + ... + zn.

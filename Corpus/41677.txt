@@ -1,0 +1,1 @@
+ URL : "https://github.com/laurensmiers/emacs/issues/2" TITLE : add camelcase support BODY : when going to the next word, when using camelcase, it would be nice to just jump to the next capitalized sub-word instead of really jumping to the next word

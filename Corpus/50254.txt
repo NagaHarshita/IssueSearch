@@ -1,0 +1,1 @@
+ URL : "https://github.com/RedeMocambos/baobaxia/issues/213" TITLE : wiki is misconfigured BODY : links to the wiki use /wiki/ but instead the current installation is using /index.php/ which breaks many links and prevent people from finding their way around. please fix the configuration for https://wiki.mocambos.net/ to use /wiki/ again.

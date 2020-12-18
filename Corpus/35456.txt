@@ -1,0 +1,1 @@
+ URL : "https://github.com/tarek360/RichPath/issues/17" TITLE : editor. render error BODY : the following classes could not be instantiated: - com.richpath.richpathview open class, show exception, clear cache tip: use view.isineditmode in your custom views to skip code or show sample data when shown in the ide.

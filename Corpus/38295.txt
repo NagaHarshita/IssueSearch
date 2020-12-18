@@ -1,0 +1,1 @@
+ URL : "https://github.com/arakasi72/rtinst/issues/283" TITLE : package name changed BODY : for debian stretch: the package name changed in the repository from python-software-properties to python3-software-properties

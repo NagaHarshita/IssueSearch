@@ -1,0 +1,2 @@
+ URL : "https://github.com/tryashtar/minecraft-bugs/issues/1387" TITLE : rendering bug at torch BODY : mojira ticket mc-1486 https://bugs.mojang.com/browse/mc-1486 <img src= https://secure.gravatar.com/avatar/e7550104fc534e82b9e60e81ce1c809c?d=mm&s=24 width=20 height=20> ice trailer https://bugs.mojang.com/secure/viewprofile.jspa?name=icetrailer • oct 31, 2012 if you place a torch at the side of a block, there is a rendering bug. screenshot, sorry i thought i added that..
+http://i.imgur.com/ciox7.png

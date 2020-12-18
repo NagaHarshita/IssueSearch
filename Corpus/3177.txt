@@ -1,0 +1,1 @@
+ URL : "https://github.com/aaronsace/MultiPoolMiner/issues/792" TITLE : log file size BODY : it seems like the logs go on forever. is there a possibility they can be cut off at a certain size and a new log started? i dislike looking to see what has been going on and finding that i need to search through a gigantic log file. something along the lines of 2mb would be nice.

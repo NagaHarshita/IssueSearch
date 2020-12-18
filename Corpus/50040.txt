@@ -1,0 +1,1 @@
+ URL : "https://github.com/iocage/libiocage/issues/10" TITLE : validate names helper BODY : almost all of our name arguments have the same general format: perl /^ a-z0-9 a-z0-9-_\. /i given that many of our names are used as part of a path, we can further restrict the perl /^ a-z0-9 a-z0-9-_\. {0,254}/i to freebsd's name_max 255 .

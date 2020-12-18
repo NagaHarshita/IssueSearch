@@ -1,0 +1,1 @@
+ URL : "https://github.com/lesaff/serverpilot-letsencrypt/issues/27" TITLE : two apps not working BODY : have you tried this script with 2 apps on the same server? the certificate seems to generate correctly but both apps stop working when the ssl.conf file is created. after i delete it, they both start working again. didn't try creating 2 certificates for each app yet.

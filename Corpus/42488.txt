@@ -1,0 +1,1 @@
+ URL : "https://github.com/Tomash667/carpg/issues/180" TITLE : better items rotation BODY : continuation of 41 some items have bad angle when exported or need to change rotation angle for them: + bows + shields + frying pan + golden bar try to move from textures to meshes: + letter + parcel + key + wanted letter

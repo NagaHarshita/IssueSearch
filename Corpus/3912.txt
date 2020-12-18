@@ -1,0 +1,1 @@
+ URL : "https://github.com/spacetelescope/cubeviz/issues/90" TITLE : 2d moment maps BODY : @hcferguson cubetools can compute them. is the set of things complete enough for us? 1st 2nd etc . if all in spectral_cube then cubeviz needs an interface. if not, then we should put more functionality into cubetools. for example, how does it deal with masks and errors.

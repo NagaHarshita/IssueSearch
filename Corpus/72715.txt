@@ -1,0 +1,1 @@
+ URL : "https://github.com/raphw/byte-buddy/issues/291" TITLE : cant get example to work BODY : for the timer example you did i am using : public class hellotimed { public static void sayhello { system.out.println hello ; } } with the java-agent implemented yet its not printing the methods execution time, have i done anything wrong?

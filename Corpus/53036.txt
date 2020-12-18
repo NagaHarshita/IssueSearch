@@ -1,0 +1,1 @@
+ URL : "https://github.com/kimberly-bird/backpacker-tracker/issues/4" TITLE : dashboard - view trips BODY : given user sees dashboard with existing trips when user clicks a trip card then user will see details about that specific trip and the card will display the following: - country - date - photo

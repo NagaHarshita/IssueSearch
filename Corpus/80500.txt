@@ -1,0 +1,1 @@
+ URL : "https://github.com/siddk/entity-network/issues/5" TITLE : typeerror from reader.py BODY : file c:\ai\code\- entnet\siddk\preprocessor\reader.py , line 23, in parse vectorized_data.append pickle.load f typeerror: a bytes-like object is required, not 'str'

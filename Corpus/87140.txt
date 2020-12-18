@@ -1,0 +1,1 @@
+ URL : "https://github.com/np-maintain/global-tunnel/issues/2" TITLE : is this still maintained? BODY : hey, is this module still maintained? all the tests in travis are failing for node newer than 0.10: https://travis-ci.org/np-maintain/global-tunnel

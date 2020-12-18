@@ -1,0 +1,1 @@
+ URL : "https://github.com/appium/appium-desktop/issues/19" TITLE : error in ./main.js BODY : i pulled master today, and i got an error: error in ./main.js from uglifyjs syntaxerror: unexpected token punc «}», expected punc «:» ./~/electron-debug/index.js:23,32 the script that i use: npm run build untitled.txt https://github.com/appium/appium-desktop/files/699782/untitled.txt

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ganagus/JwtRefreshSample/issues/1" TITLE : how to get current user BODY : i'm trying to adopt your code samples and having problem in getting current logging user id in controller.do you know how to get current user id inside controller in .net core 2.0

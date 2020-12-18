@@ -1,0 +1,1 @@
+ URL : "https://github.com/esoteric-programmer/lemmings_3ds/issues/48" TITLE : lemmings are not faded out BODY : when the level fades out due to timeout, the remaining lemmings are not faded out.

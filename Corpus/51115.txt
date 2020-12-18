@@ -1,0 +1,1 @@
+ URL : "https://github.com/jdiazcano/cfg4k/issues/25" TITLE : add s3 config reloader BODY : reloader when s3 file is updated. polling? time reload? something else... ?

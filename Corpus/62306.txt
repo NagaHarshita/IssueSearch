@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla-lockbox/lockbox-datastore/issues/61" TITLE : chore clean up var uses BODY : there are some places where var is used and shouldn't be, or is used by ought to be ignored. remove all instances of var from lib/ and test/ check on var use in build-utils and either eslint-ignore or change to let / const remove no-var : off rule from

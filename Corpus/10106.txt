@@ -1,0 +1,1 @@
+ URL : "https://github.com/rilian-la-te/vala-panel/issues/59" TITLE : arm based builds BODY : just wanted to post a note, that vala-panel, will build on arm based cpu's under archlinux, and possibly others. limiting to x86/x64 based cpu's should be changed, to allow for building on other archs.

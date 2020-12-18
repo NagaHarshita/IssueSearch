@@ -1,0 +1,19 @@
+ URL : "https://github.com/Zimmi48/bugzilla-test/issues/1352" TITLE : bug avec les foncteurs BODY : note: the issue was created automatically with bugzilla2github tool bugzilla bug id: 229
+date: 2002-12-03 10:30:20 +0100
+from: claude.marche@lri.fr
+to: last updated: 2002-12-03 10:30:20 +0100 bugzilla comment id: 1338
+date: 2002-12-03 10:30:20 +0100
+from: claude.marche@lri.fr full_name: claude marché
+version: 7.3.1+ du 2 dec 2002
+os: linux
+submission from: serveur-demons.lri.fr 129.175.8.130 avec une savante combinaison de foncteurs, j'obtiens une anomalie search error . voici un script qui produit cette anomalie. inductive t x:set : set := t : x -> t x . module type mt.
+parameter x : set.
+end mt. module m1 s:mt .
+definition u := t s.x .
+end m1. module m2 s:mt .
+module m3 := m1 s . inductive h : m3.u -> prop := .
+end m2. module s.
+definition x := nat.
+end s. module m4 := m2 s . check m4.h t s.x o . bugzilla comment id: 1339
+date: 2007-07-04 17:03:19 +0200
+from: claude.marche@lri.fr fixed

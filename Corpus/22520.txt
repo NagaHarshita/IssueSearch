@@ -1,0 +1,1 @@
+ URL : "https://github.com/micro-a5k/microg-unofficial-installer/issues/5" TITLE : live setup failing BODY : in twrp 3.1.0 on samusng s7580 the 2 seconds delay to enable live setup are ignored. the message is displayed while flashing but the delay doesn't take place.

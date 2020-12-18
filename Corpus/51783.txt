@@ -1,0 +1,1 @@
+ URL : "https://github.com/chrisalbon/notes_on_data_science_machine_learning_and_artificial_intelligence/issues/109" TITLE : binning data in pandas BODY : you have not mentioned the command to create scoresbinned column. scoresbinned column in there when you printed the df. please update it

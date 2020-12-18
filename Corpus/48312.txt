@@ -1,0 +1,1 @@
+ URL : "https://github.com/podemos-info/census/issues/22" TITLE : review security guide BODY : - follow https://github.com/ankane/secure_rails - review configuration at https://github.com/podemos-info/census/blob/master/config/initializers/secure_headers.rb - document extra env variables required client_servers_ips , host_url

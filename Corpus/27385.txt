@@ -1,0 +1,1 @@
+ URL : "https://github.com/BaggedMilkStudios/Wipgate/issues/4" TITLE : culling build error BODY : error log on build https://i.imgur.com/doagt1g.png whenever a built gets made, you receive that error. disabling the culling plane in the unit_character seems to solve the issue

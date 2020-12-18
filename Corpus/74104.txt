@@ -1,0 +1,1 @@
+ URL : "https://github.com/rkmattern15/prj-rev-bwfs-dasmoto/issues/2" TITLE : don't use inline styling BODY : now that we have css as a tool we should no longer be using inline styling at all. it is inefficient and impossible to organize. https://github.com/rkmattern15/prj-rev-bwfs-dasmoto/blob/master/dasmoto/index.html l12

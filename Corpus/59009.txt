@@ -1,0 +1,1 @@
+ URL : "https://github.com/p51host/simply-cms/issues/1" TITLE : t-string error line 29 BODY : first issue is: line 29 define 'email', ''change_me@' . $_server 'http_host' ' ; _syntax error unexpected t_string expecting , or _ when i make this edit the page loads but no login or center content define 'email', 'change_me@' . $_server 'http_host' ;

@@ -1,0 +1,1 @@
+ URL : "https://github.com/justinmarentette11/TDWorld/issues/6" TITLE : platform specific code BODY : make interfaces for things like loading classes in a package and have the platform main classes implement them and pass themselves in a constructor for the game so that the core code just calls a method and it goes to the respective platform's method.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/typesafehub/conductr-doc/issues/393" TITLE : role config inconsistency BODY : the agent is now configured with conductr.agent.roles it was previously using akka.cluster.roles in earlier versions. this mixes the two and needs to use only conductr.agent.roles https://conductr.lightbend.com/docs/2.0.x/clusterconfiguration configuring-conductr-agent

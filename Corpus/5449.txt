@@ -1,0 +1,1 @@
+ URL : "https://github.com/aaronmueller/zsh-P4/issues/5" TITLE : pgrm cmd: back BODY : issue back has not been tested to see if it runs in the background. idea test options with waitpid -- one is likely to affect how the exec is done work done

@@ -1,0 +1,1 @@
+ URL : "https://github.com/MichalPaszkiewicz/cqrs-external-confirm/issues/3" TITLE : retry amount logic faulty BODY : what is this in requestqueue.post? javascript self._options.maxnumberofretries >= self._currentretry pathetic.

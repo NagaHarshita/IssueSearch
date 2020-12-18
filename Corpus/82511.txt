@@ -1,0 +1,1 @@
+ URL : "https://github.com/aesculus/EVTO-App-Feedback/issues/318" TITLE : additional charger errors BODY : if a user tries to access the additional charger icon without first defining a trip, the program will lock up and they will get a cryptic message with object/object in it.

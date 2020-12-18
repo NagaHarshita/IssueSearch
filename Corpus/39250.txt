@@ -1,0 +1,1 @@
+ URL : "https://github.com/empijei/wapty/issues/19" TITLE : run tests on windows BODY : wapty is not tested on windows but at least running make testvr on windows should be done.

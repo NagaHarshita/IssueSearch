@@ -1,0 +1,1 @@
+ URL : "https://github.com/kwsch/PKHeX/issues/1524" TITLE : bad word filter BODY : looks like gen < 5 legality in gen < 5 format is subject to bad word filtering, even though those games do not have it.

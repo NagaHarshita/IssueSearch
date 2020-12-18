@@ -1,0 +1,1 @@
+ URL : "https://github.com/developerforce/trailhead-code-samples/issues/2" TITLE : is body tag right? BODY : it looks like following body tag is failing. please check it. req.setbody '{ fill_me_in : fill_me_in , fill_me_in : fill_me_in }' ;

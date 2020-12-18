@@ -1,0 +1,1 @@
+ URL : "https://github.com/pivorakmeetup/pivorak-web-app/issues/274" TITLE : admin header navigation BODY : add admin navigation to header same as footer , but: - show only for desktops and hide for mobile devices - sidebar slidebar navigation show only for mobile devices and hide for the desktop.

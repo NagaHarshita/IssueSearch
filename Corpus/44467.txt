@@ -1,0 +1,1 @@
+ URL : "https://github.com/sinatra/mustermann/issues/61" TITLE : expand hash and array BODY : i don't know if this is a bug or just not supported but i tried this eariler: ruby pattern = mustermann.new /books/:id pattern.expand :append, id: 5, include: foo expected: => /books/5?include =foo actual: => /books/5?include=foo what do you guys say?

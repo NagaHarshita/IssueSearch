@@ -1,0 +1,1 @@
+ URL : "https://github.com/sul-dlss/sul-embed/issues/763" TITLE : uv: blank login screen BODY : this issue refers to the f branch of the source code, at commit bf416158ea920aab7abc51cf3fd7d2b7ceabcbbf ! screen shot 2017-06-26 at 11 31 43 am https://user-images.githubusercontent.com/3740294/27562546-d5907992-5a81-11e7-810f-1a651729c6bf.png the login screen is blank.

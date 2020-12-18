@@ -1,0 +1,1 @@
+ URL : "https://github.com/anderl80/ionic-teacherapp/issues/7" TITLE : unified storage handling BODY : storage of ressources students must be available in all pages. how can we achieve that? do we have do define a global storage or are we handling multiple storage instances to one database location?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/danvk/dygraphs/issues/830" TITLE : x axis labels calculation BODY : when zooming and paning fiddle http://jsfiddle.net/em2mg/ very often the x labels become broken, as at screenshot: ! image https://cloud.githubusercontent.com/assets/195610/22211586/25e90180-e196-11e6-90fb-534c09ee1428.png it displays 4.3000000000002 instead of 4.3

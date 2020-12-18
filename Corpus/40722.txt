@@ -1,0 +1,1 @@
+ URL : "https://github.com/containers/virtcontainers/issues/478" TITLE : use one proxy per vm BODY : modify code to launch one proxy instance per pod rather than relying on the single host-wide proxy instance.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Grom12/task.github.io/issues/5" TITLE : refactor like in comment BODY : http://prntscr.com/hpxa3r this.currentcity = this.predictionlist === null || this.predictionlist.length === 0 ? event.target.value : this.predictionlist this.selected .structured_formatting.main_text;

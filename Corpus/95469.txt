@@ -1,0 +1,1 @@
+ URL : "https://github.com/Elgg/Elgg/issues/11129" TITLE : databse seeds master tasks BODY : - add database seeds to upgrade travis build - add plugin seeds , database plugin hook and document it - register seeds via hook - move objects seed to blog plugin

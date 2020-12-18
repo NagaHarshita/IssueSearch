@@ -1,0 +1,1 @@
+ URL : "https://github.com/ExpeditionRPG/expedition-app/issues/394" TITLE : rename main files BODY : - rename main.tsx to something more sensical - react.tsx to main.tsx - expeditionapp to combinedreducers - advancedplay to tools

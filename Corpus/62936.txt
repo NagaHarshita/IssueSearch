@@ -1,0 +1,1 @@
+ URL : "https://github.com/ORNL-CEES/DataTransferKit/issues/308" TITLE : cuda 9.0 compile errors BODY : see build 513 https://cloud.cees.ornl.gov/jenkins-ci/job/datatransferkit-experimental/513/compiler=gcc54,slave=fetnat01/console on jenkins. intrepid2 seems to be causing them.

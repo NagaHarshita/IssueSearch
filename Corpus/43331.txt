@@ -1,0 +1,1 @@
+ URL : "https://github.com/adp0019/TFG/issues/12" TITLE : corrección de fallos BODY : tras realizar las pruebas con los escenarios creados, se detectan fallos en las ejecuciones, por lo que se ajusta el código de las clases de manera que el resultado sea el adecuado.

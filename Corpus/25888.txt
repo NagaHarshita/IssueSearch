@@ -1,0 +1,1 @@
+ URL : "https://github.com/Icinga/puppet-icingaweb2/issues/190" TITLE : add freebsd support BODY : the puppet-icinga2 module supports freebsd however, this project doesn't and i think that they should both support the same platforms since they will normally be used together.

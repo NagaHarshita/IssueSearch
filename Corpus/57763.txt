@@ -1,0 +1,1 @@
+ URL : "https://github.com/funkensturm/ember-local-storage/issues/277" TITLE : release recent changes BODY : any chance you can cut a release with some of the recent changes? i'm getting a deprecation warning from ember-inflector that was fixed on master within the last week, but the latest release is from june. thanks!

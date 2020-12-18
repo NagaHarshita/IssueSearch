@@ -1,0 +1,1 @@
+ URL : "https://github.com/larshp/abapOpenChecks/issues/375" TITLE : get reference, check 45 BODY : get reference of i_data into lo_data. can be replaced with lo_data = ref i_data

@@ -1,0 +1,1 @@
+ URL : "https://github.com/graphql/graphql-js/issues/764" TITLE : cut 0.9.2 release BODY : there's been at least one request to cut a new release that i know of this one https://github.com/graphql/graphql-js/pull/701 issuecomment-287320397 , and it has been a couple months since the last one so we should go ahead and do that.

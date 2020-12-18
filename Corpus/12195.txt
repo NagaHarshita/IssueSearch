@@ -1,0 +1,1 @@
+ URL : "https://github.com/pablopunk/healthi-app/issues/22" TITLE : new loading icon BODY : use this http://kyleamathews.github.io/react-spinkit/ to replace the current font-awesome loading spinner.

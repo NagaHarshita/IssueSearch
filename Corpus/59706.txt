@@ -1,0 +1,1 @@
+ URL : "https://github.com/DanielPullan/Thorium/issues/5" TITLE : upgrading doesn't work BODY : it asks for a password. potentially i will need to run the commands as the master server to upgrade the pi's, this will then need adding to the sudoers file.

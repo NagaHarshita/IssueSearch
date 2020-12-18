@@ -1,0 +1,1 @@
+ URL : "https://github.com/mertenats/Itead_Sonoff/issues/9" TITLE : latest sonof using esp8285 BODY : just a note, i received two sonoff basics today and, while they would flash, they wouldn't boot. turns out, sonoff have switched the basic's at least the one's that i received to the esp8285 chipset. now flash esp8285 with flash size at 1m 64k spiffs and it all works fine.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/hannob/httpstime/issues/1" TITLE : attacks only date tool? BODY : > in theory the server could try to attack the parser in the date tool. well… it could also attack grep, or bash. the data is passed to them, too.

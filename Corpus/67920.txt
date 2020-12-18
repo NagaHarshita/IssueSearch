@@ -1,0 +1,1 @@
+ URL : "https://github.com/mvs-org/lightwallet/issues/32" TITLE : raw transaction decoder BODY : we can have a function to decode a raw transaction and show the content in- and outputs ... in a human readable way.

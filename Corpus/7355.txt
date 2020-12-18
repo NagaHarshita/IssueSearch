@@ -1,0 +1,1 @@
+ URL : "https://github.com/prologin/stechec2/issues/3" TITLE : fix c generator BODY : > originally posted 2012-05-09 19:28 by prologin https://bitbucket.org/prologin/ on bitbucket c generator seems to segfault due to the new sandbox using threads.

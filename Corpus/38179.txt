@@ -1,0 +1,1 @@
+ URL : "https://github.com/netheril96/securefs/issues/39" TITLE : obfuscate file sizes BODY : when you obfuscate the directry structure, it makes sense to do the same with the file size. imo it's the only feature missing from securefs.

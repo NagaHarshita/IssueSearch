@@ -1,0 +1,1 @@
+ URL : "https://github.com/misskelly/teacozy/issues/2" TITLE : unneeded divs in header BODY : https://github.com/misskelly/teacozy/blob/master/index.html l10 https://github.com/misskelly/teacozy/blob/master/index.html l13 you can apply the css directly to the header section. the image and the nav section without enclosing them in divs would have been sufficient.

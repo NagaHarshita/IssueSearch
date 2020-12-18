@@ -1,0 +1,1 @@
+ URL : "https://github.com/PowerPointLabs/PowerPointLabs/issues/1247" TITLE : reorganise context menu BODY : it will get cluttered once synclab and pastelab are implemented. we could group features based on their labs, instead of having one powerpointlabs group.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/artheus/feedthebeast-docker-servers/issues/7" TITLE : cleaning up the repository BODY : right now the structure of the project in this repository is not really optimal. it is confusing and not very easily readable. i will also consider building using some other script-language.

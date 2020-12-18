@@ -1,0 +1,5 @@
+ URL : "https://github.com/jmbredal/NAV/issues/890" TITLE : chart widget unresponsive BODY : after adding a chart widget on the home screen, using the add widget button located on home screen i can not remove or edit its properties, i can only move it around on the screen.
+nav version 4.5.3
+browsers tried chrome, chromium, internet explorer
+error mesage in browser developer tools:
+vm162:4 uncaught syntaxerror: unexpected token , at eval <anonymous> at function.globaleval http://nav.lns.local/static/js/libs/jquery.js:2:2552 at ua http://nav.lns.local/static/js/libs/jquery.js:3:13119 at n.fn.init.append http://nav.lns.local/static/js/libs/jquery.js:3:14403 at n.fn.init.<anonymous> http://nav.lns.local/static/js/libs/jquery.js:3:15505 at k http://nav.lns.local/static/js/libs/jquery.js:2:30256 at n.fn.init.html http://nav.lns.local/static/js/libs/jquery.js:3:15186 at navletcontroller.handlesuccessfulrequest http://nav.lns.local/static/js/src/plugins/navlet_controller.js?bust=4.5.3:76:23 at object.<anonymous> http://nav.lns.local/static/js/src/plugins/navlet_controller.js?bust=4.5.3:65:22 at i http://nav.lns.local/static/js/libs/jquery.js:2:27065

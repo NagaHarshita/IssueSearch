@@ -1,0 +1,2 @@
+ URL : "https://github.com/OpenNebula/one/issues/734" TITLE : more actions on service BODY : --- author name: eole team eole team original redmine issue: 2720, https://dev.opennebula.org/issues/2720
+original date: 2014-02-07 --- hello, it could be interesting to add more actions at the service level, like we can do on “roles”. this would permit to manage services like vms or roles. regards.

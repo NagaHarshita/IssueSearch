@@ -1,0 +1,1 @@
+ URL : "https://github.com/zaproxy/zaproxy/issues/4032" TITLE : 2.7.0 rc issues tracker BODY : tracker bug for issues with the 2.7.0 rc releases. minor issues don't necessarily need a separate bug, they can just be recorded here. - finiosh java 8 changes 3470 - help icons still old ones 4024 - change help to not use the term 'intercepting proxy' 3980

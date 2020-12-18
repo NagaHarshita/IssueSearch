@@ -1,0 +1,1 @@
+ URL : "https://github.com/freshollie/monkeyboard-radio-android/issues/15" TITLE : heavy load in new version BODY : the new version has heavy cpu load, 122% on an octacore odroid xu4 old version beta 1.2.2 has 25-40%. pid user pr ni virt res shr s %cpu %mem time+ args 4648 u0_a78 10 -10 997m 81m 50m s 29.3 4.0 9:36.63 com.freshollie.monkeyboard.keystoneradio

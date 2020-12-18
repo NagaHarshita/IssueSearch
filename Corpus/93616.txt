@@ -1,0 +1,1 @@
+ URL : "https://github.com/MPBA/pyHRV/issues/28" TITLE : allow access to assets.ecg BODY : we need to access sample data for the tutorial not only for tests example: from pyphysio import assets ecg_data = assets.ecg

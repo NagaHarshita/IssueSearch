@@ -1,0 +1,1 @@
+ URL : "https://github.com/stopa323/VuEngine/issues/13" TITLE : unbind input action BODY : current state allows only action binding to concrete input event, unbinding has to be also possible

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ocket8888/maestroAnalyze/issues/8" TITLE : multiple monitor support BODY : i think that the underlying libgl only has access to the total framebuffer size i.e. the xrandr --framebuffer axb value pair , so it thinks the center of a multi-monitor desktop is between them. which, technically it is. but whatever.

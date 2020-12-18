@@ -1,0 +1,1 @@
+ URL : "https://github.com/em7/SmashKah/issues/3" TITLE : special screen support BODY : add a special screen support. most probably an interface for each spec. screen is needed. the interface needs to be easily reify-able in clojrue.

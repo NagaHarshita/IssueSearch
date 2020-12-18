@@ -1,0 +1,1 @@
+ URL : "https://github.com/sbates130272/p2pmem-test/issues/3" TITLE : fix perror issue BODY : right now there are several places we call perror but do not exit. handle these cases correctly via exit, return or goto as necessary.

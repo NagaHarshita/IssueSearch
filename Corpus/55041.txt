@@ -1,0 +1,1 @@
+ URL : "https://github.com/marcobeierer/linkchecker-webcomponents/issues/1" TITLE : ignore false positives BODY : implement a function to ignore false positives results. maybe use local session storage instead of database to store ignored links. this would also work in the web version and not just the cms plugins.

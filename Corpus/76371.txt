@@ -1,0 +1,1 @@
+ URL : "https://github.com/piotrwitek/react-redux-typescript-starter-kit/issues/49" TITLE : it's not working with ie BODY : hi, i'm trying to run this boilerplate. there are two issues: 1 it's not started after npm start npm err! missing script: start , but it's working after npm run dev 2 it's not working with ie 11 - i see endless square in the middle of screen

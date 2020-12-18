@@ -1,0 +1,1 @@
+ URL : "https://github.com/tidyverse/hms/issues/31" TITLE : need rounding functions BODY : e.g. r round_time <- function x, sec { hms::hms as.numeric x %/% sec sec }

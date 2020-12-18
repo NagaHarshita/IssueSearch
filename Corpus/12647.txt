@@ -1,0 +1,1 @@
+ URL : "https://github.com/rcdexta/react-event-timeline/issues/15" TITLE : react 16 support BODY : an older version of react is being loaded as a dependency: https://github.com/rcdexta/react-event-timeline/blob/31c91670c26322e03ba42b9b4cc267e3222be8c3/package.json l79-l82 i think it should be loaded as per dependency.

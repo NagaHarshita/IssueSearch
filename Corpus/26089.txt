@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla/testpilot-metrics/issues/21" TITLE : add sendevent tests BODY : just discovered that es6 default syntax was broken, passing category of undefined to ga. this wouldn't have happened if the tests were filled in!

@@ -1,0 +1,1 @@
+ URL : "https://github.com/doodyparizada/word2vec-spam-filter/issues/12" TITLE : implement get word vectors BODY : given a list of word indexes, return a list of word vectors. request get /word/vector/ids=1,2,3,4,5 response { words: 1: {vector: 0.1,0.2,0.3,.... }, 2: {vector: 0.1,0.2,0.3,.... }, ... }

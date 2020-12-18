@@ -1,0 +1,1 @@
+ URL : "https://github.com/procxx/kepka/issues/56" TITLE : show admins in chat BODY : this feature was added to upstream: ! image https://user-images.githubusercontent.com/92793/34338336-32266174-e99a-11e7-9c29-704f28055230.png i think it's a nice addition, and we should backport it.

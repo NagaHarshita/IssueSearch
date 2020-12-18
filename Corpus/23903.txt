@@ -1,0 +1,1 @@
+ URL : "https://github.com/IUNO-TDM/JuiceMachineService/issues/12" TITLE : rest route: /users BODY : we need a route to get user information from the server. this is used to show detail information about the recipe author on the machine frontend

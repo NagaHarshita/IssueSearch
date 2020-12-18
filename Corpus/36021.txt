@@ -1,0 +1,1 @@
+ URL : "https://github.com/flutter/flutter/issues/12242" TITLE : flutter doctor hangs BODY : flutter doctor downloading dart sdk 1.25.0-dev.11.0... % total % received % xferd average speed time time time current dload upload total spent left speed 100 60.5m 100 60.5m 0 0 805k 0 0:01:16 0:01:16 --:--:-- 1048k building flutter tool... hangs after this, it is hanging os:macos sierra

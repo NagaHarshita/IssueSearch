@@ -1,0 +1,1 @@
+ URL : "https://github.com/devnoname120/vhbb/issues/11" TITLE : add status to texture BODY : texture should have a status loading, loaded, error to avoid crashes when drawing an invalid texture.

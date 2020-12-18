@@ -1,0 +1,1 @@
+ URL : "https://github.com/aliparsai/LittleDarwin/issues/3" TITLE : using xtext grammar BODY : transform the antlr4 grammar with an equivalent xtext one, allowing for operations that are done using emf modelling stuff. the result is an emf tree.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/HiltonGiesenow/PoShMon/issues/24" TITLE : add jea configuration BODY : the commands we need are pretty well defined. if there's support for this let me know it would probably be quite easy to set up a jea package of these to more securely configure the remote servers being monitored, especially to, say, a dedicated monitoring service account

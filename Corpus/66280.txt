@@ -1,0 +1,1 @@
+ URL : "https://github.com/avocode/react-shortcuts/issues/29" TITLE : migrating to prop-types BODY : might need to use prop-types package instead of using react.proptypes

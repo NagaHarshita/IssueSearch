@@ -1,0 +1,1 @@
+ URL : "https://github.com/madrypiotr/SDD/issues/30" TITLE : i18n download error BODY : ! bug01 https://user-images.githubusercontent.com/12225333/29314247-5e7174ca-81bd-11e7-92ef-8c0f5eed9c60.jpg although the user is set to en, the data is taken from en.i18n.json

@@ -1,0 +1,1 @@
+ URL : "https://github.com/spectrum/spectrum/issues/60" TITLE : web3 inject account type BODY : autodetect web3 environment and populate with accounts metamask/mist/parity/imtoken

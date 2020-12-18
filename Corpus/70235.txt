@@ -1,0 +1,1 @@
+ URL : "https://github.com/bigwing/nest-starter-theme/issues/12" TITLE : use wp coding standards BODY : this is kind of a bigger task, with a bunch of little issues that add up. we can track them here, and use a single pr per task item: - whitespace - documentation - sanitized input - escaped output

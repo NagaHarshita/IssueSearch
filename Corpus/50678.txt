@@ -1,0 +1,1 @@
+ URL : "https://github.com/MVIG-SJTU/RMPE/issues/10" TITLE : a problem about opencv BODY : which opencv version do you support? my os is ubuntu 16.04 and i built opencv 3.1.0 in my computer, when i build the code an error as follow: build_release/lib/libcaffe.so：对‘cv::videocapture::set int, double ’未定义的引用 and there are some same contents omitted.

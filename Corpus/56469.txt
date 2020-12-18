@@ -1,0 +1,1 @@
+ URL : "https://github.com/hashtagcyber/bropy/issues/6" TITLE : netflow record support BODY : add support for parsing flow records in common formats to generate rules/ppsms. i need sample data for this one.

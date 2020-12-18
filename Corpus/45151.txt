@@ -1,0 +1,1 @@
+ URL : "https://github.com/vatlab/VariantTools/issues/30" TITLE : hdf5 stability issues BODY : perhaps it is worth noticing that hdf5 does not have error recovery mechanism and there are quite a few complaints if you google corruption hdf5 . cautions have to be used here if we decide to use hdf5 as the replacement.

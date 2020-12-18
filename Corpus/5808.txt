@@ -1,0 +1,1 @@
+ URL : "https://github.com/jeffreyscheng/Mewtagen/issues/2" TITLE : syntax error ? BODY : so, when trying to run mewtagen for the first time, i get this error: ! img_0232 https://user-images.githubusercontent.com/16909054/29006018-0a5a075e-7aa5-11e7-9bfa-04169aa586eb.png i tried importing dialgarithm from pip, but it doesn’t exist. am i doing something wrong?

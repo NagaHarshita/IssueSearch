@@ -1,0 +1,1 @@
+ URL : "https://github.com/gimli-rs/gimli/issues/243" TITLE : add newtype for strings BODY : currently we pass strings around as reader s, but it would be nicer to use a newtype instead. in particular, this newtype could implement debug to write the string instead of the raw bytes.

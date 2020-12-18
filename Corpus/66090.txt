@@ -1,0 +1,1 @@
+ URL : "https://github.com/douira/resolution-editor/issues/50" TITLE : make plaintext renderer BODY : to be used when normal rendering breaks or as a backup/legacy option. renders into plan indented text file with little styling for easy use in other environments.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/geoctrl/webpack-roboto/issues/1" TITLE : import not works BODY : it does not work javascript import roboto from 'webpack-roboto'; roboto.embed ; but if use require, everything gonna be alright: javascript let roboto = require 'webpack-roboto' ; roboto.embed ; hope you still support this project, thank you!

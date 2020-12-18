@@ -1,0 +1,1 @@
+ URL : "https://github.com/gergelypap/bowling/issues/10" TITLE : add reusable traits BODY : multiple models can be: - taggable - commentable - sluggable see 8 - etc?

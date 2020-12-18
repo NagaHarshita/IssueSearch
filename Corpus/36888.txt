@@ -1,0 +1,1 @@
+ URL : "https://github.com/AliceO2Group/AliceO2/issues/296" TITLE : install header files BODY : as a user i need to have header files installed possibly with make install in cmake_install_prefix so that my macros which refer to them can be run. unless i am missing something, this is not done at the moment.

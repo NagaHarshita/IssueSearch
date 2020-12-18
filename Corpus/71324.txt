@@ -1,0 +1,1 @@
+ URL : "https://github.com/privcount/privcount/issues/447" TITLE : add common torrent ports BODY : classify the following common bittorrent ports as p2p: 51413 transmission 45682 utorrent there are probably other defaults. bittorrent usually uses high random ports, so in general it is going to be very difficult to get them all.

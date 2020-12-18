@@ -1,0 +1,1 @@
+ URL : "https://github.com/comtihon/walrus/issues/12" TITLE : walrus c/c++ compilation BODY : make ability to compile c/c++ files to shared libraries. c files can contain headers and other c files, which should be linked in one library, as a result.

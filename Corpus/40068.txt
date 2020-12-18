@@ -1,0 +1,1 @@
+ URL : "https://github.com/crits/crits_services/issues/326" TITLE : taxii server problem BODY : when i try to poll feeds from the taxii server, i got the _insert takes at most 4 arguments 6 given error. any ideas about what have i done wrong? thanks.

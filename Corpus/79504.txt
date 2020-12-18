@@ -1,0 +1,1 @@
+ URL : "https://github.com/jetstack/tarmak/issues/21" TITLE : signal handling for wing BODY : currently we are not handling signals in wing properly. we should implement at least these signals: sighup : cause a node to be reconverged sigterm : forward sigterm to puppet subprocess if exists , make sure wing api server is updated accordingly before exiting

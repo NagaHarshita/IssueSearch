@@ -1,0 +1,1 @@
+ URL : "https://github.com/swanson/stringer/issues/453" TITLE : add a dockerfile BODY : i don't know if it's possible to run stringer in docker. if so, i suggest add a dockerfile.

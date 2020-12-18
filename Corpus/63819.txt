@@ -1,0 +1,1 @@
+ URL : "https://github.com/mattiaerre/react-open-weather-map/issues/3" TITLE : example, icon undefined BODY : i cloned this and then ran npm i npm run example when i went to port 3000 in browser i got back > typeerror: cannot read property 'icon' of undefined

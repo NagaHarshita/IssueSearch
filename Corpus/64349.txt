@@ -1,0 +1,1 @@
+ URL : "https://github.com/jlongster/prettier/issues/621" TITLE : function trailing comma BODY : i'm using prettier integration with vs code. when i set prettier.trailingcomma = true , prettier add function trailing comma to the formatted code. node 7 haven't supported this yet so i think it's better for prettier to not add function trailing comma.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/geoadmin/mf-geoadmin3/issues/3858" TITLE : add wmts zurich to import BODY : can you add in https://github.com/geoadmin/mf-geoadmin3/blob/dc88b10f1064953611570cc4dd3ae02f4952ddfc/src/js/importcontroller.js this master wmts for ogd of the little big city of zurich? http://www.gis.stadt-zuerich.ch/wmts/wmts-zh-stzh-ogd.xml

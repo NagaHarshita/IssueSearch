@@ -1,0 +1,1 @@
+ URL : "https://github.com/RxNT/react-jsonschema-form-conditionals/issues/9" TITLE : make ruleengine extensible BODY : rxnt might be switching to https://github.com/cachecontrol/json-rules-engine, it might be an overkill to support it for basic case, but we can make ruleengine mechanism extensible, to support it in the future, if needed.

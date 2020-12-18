@@ -1,0 +1,1 @@
+ URL : "https://github.com/manimaul/AndXtideLib/issues/3" TITLE : tests and ci BODY : add travisci integration and tests where appropriate. consider auto jcenter deployment of commits with version tags.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/DLR-TS/sumo/issues/3576" TITLE : cleanup unused pt stops BODY : when netconvert is called with --ptline-output offer an additional option --ptline-cleanup to cleanup all pt stops that are not served by any pt line.

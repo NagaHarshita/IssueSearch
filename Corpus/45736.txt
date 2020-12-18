@@ -1,0 +1,1 @@
+ URL : "https://github.com/gojeffcho/turingterminal/issues/1" TITLE : input: trailing space BODY : entering a command with a trailing space, e.g.: > create \b is parsed as a single input string $command - strings should be split/trimmed on parse.

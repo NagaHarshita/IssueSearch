@@ -1,0 +1,1 @@
+ URL : "https://github.com/roboticslab-uc3m/yarp-devices/issues/110" TITLE : spacenavigator todo tasks BODY : - move configuration parameters to .ini file - use color-debug macros or remove existing includes - let the user compile with x11 unix - add windows support

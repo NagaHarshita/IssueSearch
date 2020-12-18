@@ -1,0 +1,1 @@
+ URL : "https://github.com/iomad/iomad/issues/521" TITLE : overhaul of licenses BODY : allow licenses to be split to the new sub companies. license creation and allocation management to be added to webservices. events to be used to manage sending emails and tracking of used amounts for each license.

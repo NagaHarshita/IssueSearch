@@ -1,0 +1,1 @@
+ URL : "https://github.com/Naova/NaovaCodeRelease/issues/23" TITLE : how long is one tick BODY : le code fait mention à des ticks , pour une mesure de temps. combien ca vaut? src/modules/motioncontrol/specialactions.cpp -> convert mm/sec to mm/tick

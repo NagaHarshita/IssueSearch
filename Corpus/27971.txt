@@ -1,0 +1,1 @@
+ URL : "https://github.com/jaszhix/Cinnamenu/issues/11" TITLE : escape does nothing BODY : on 3.0.1 the pressing the escape key does nothing while the menu is open. i expected it to clear search input if there is any, else skip this close menu

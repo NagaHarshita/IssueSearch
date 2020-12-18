@@ -1,0 +1,1 @@
+ URL : "https://github.com/tendermint/basecoin/issues/131" TITLE : dump state and restart BODY : we need a way to dump state to a neutral format that can be included in a genesis.json so we can do upgrades where we throw away history

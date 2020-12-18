@@ -1,0 +1,1 @@
+ URL : "https://github.com/DigitalState/Camunda/issues/3" TITLE : timezone is incorrect BODY : the timezone set on the server/container is incorrect: ! screen shot 2017-08-26 at 9 42 57 pm https://user-images.githubusercontent.com/1994838/29746418-93ca8394-8aa7-11e7-8364-0cc5b8ab8366.png time should be aug 26, 9:41pm.

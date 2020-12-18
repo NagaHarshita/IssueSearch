@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/vcpkg/issues/1304" TITLE : port request: easyhook BODY : https://github.com/easyhook/easyhook a hooking library. is it feasible to have it among current packages? @spazzarama

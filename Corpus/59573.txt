@@ -1,0 +1,1 @@
+ URL : "https://github.com/xcatlkd/happygram/issues/2" TITLE : update database schema BODY : reorganize db tables to include a file table for storing image file location on the file system.

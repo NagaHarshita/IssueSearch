@@ -1,0 +1,1 @@
+ URL : "https://github.com/capnproto/capnp-ocaml/issues/27" TITLE : rename to ocaml-capnp BODY : other projects are called foo-capnp where foo is node and py thon and this is more consistent with the ocaml conventions as well.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jedisct1/dnscrypt-proxy/issues/602" TITLE : tcp or udp BODY : if dnscrypt is running on a router, is there a performance or security difference in choosing to use udp or tcp ?

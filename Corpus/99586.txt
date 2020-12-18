@@ -1,0 +1,1 @@
+ URL : "https://github.com/Theseus-Aegis/Olympus/issues/80" TITLE : movement course whiteboard BODY : - timer does not start on initial vault, but there is a countdown - timeout is set to 70 seconds, requirement to pass is <85 seconds set in init of interactable object where you start the timer

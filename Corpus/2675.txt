@@ -1,0 +1,1 @@
+ URL : "https://github.com/loveorigami/yii2-plugins-system/issues/11" TITLE : core event id BODY : 'id' => plugin::core_event, + 1 here https://github.com/loveorigami/yii2-plugins-system/blob/master/src/migrations/m170105_094917_plugins_plugin.php l27

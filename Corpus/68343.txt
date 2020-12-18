@@ -1,0 +1,1 @@
+ URL : "https://github.com/mlabouardy/dialogflow-go-client/issues/4" TITLE : return parameters order BODY : when you create a client you return error then the client. feels very odd compared to all the other libraries i've used. err, client := newdialogflowclient options{ accesstoken: <api.ai token goes here> , }

@@ -1,0 +1,1 @@
+ URL : "https://github.com/JohnSundell/Unbox/issues/162" TITLE : unbox directly to string BODY : is it possible to unbox directly to string ? i can't seem to figure out how. i'm using something like https://github.com/ryogak/moya-unbox, but one response is just a simple string object.

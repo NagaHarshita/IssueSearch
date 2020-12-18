@@ -1,0 +1,1 @@
+ URL : "https://github.com/ombegov/ITDB-schema/issues/116" TITLE : set cio rating operation BODY : name: ryan dougherty organization: booz allen, supporting ecpic pmo urgency: high description of issue: when attempting to submit a cio rating to the business case api, i am receiving the following error: unsupported operation: tns:setciorating i will email over my request file.

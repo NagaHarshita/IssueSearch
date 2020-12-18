@@ -1,0 +1,1 @@
+ URL : "https://github.com/lundregan/lundregan.github.io/issues/1" TITLE : contact form - validation BODY : the contact form should have validation. e-mail should be checked to be of a valid type. other inputs should be checked that they are populated with valid text.

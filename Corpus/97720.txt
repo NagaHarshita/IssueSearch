@@ -1,0 +1,1 @@
+ URL : "https://github.com/wise0704/SwcBuild/issues/5" TITLE : how to create swc for air? BODY : how to create swc for air? i use the file and the nativeprocess function to create an air project. it throw some error like this: error: can not find the type or type is not a compile-time constant: file.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/conda-forge/r-base-feedstock/issues/17" TITLE : missing import libraries BODY : it seems that the mingw64 build does not include the import libraries .dll.a or .a required to link external libraries with r.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Fl0pZz/Apipie/issues/4" TITLE : add path stacking BODY : for example: js { name: 'parent', url: '/parent', children: { name: 'children1', method: 'get', url: 'children1' }, // get: /parent/children1 { name: 'children2', method: 'get', url: '/children2' }, // get: /children1 }

@@ -1,0 +1,1 @@
+ URL : "https://github.com/shinesolutions/aem-orchestrator/issues/16" TITLE : missing snapshot name BODY : the snapshots that orchestrator creates currently have empty name. for consistency and to assist in filtering snapshot resources, please add the following name: aem <component> snapshot <instance_id> this can be done by adding name tag to the snapshot.

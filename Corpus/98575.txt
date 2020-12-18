@@ -1,0 +1,1 @@
+ URL : "https://github.com/Protocentral/Pulse_MAX30102/issues/2" TITLE : issue with reading of data BODY : hi, thanks for your hard work on this library, i have gy-max30102 i try your library and sketch, but output is not possible to understand only squares! i need to use it for test pulse of human then if it work i need to use it for egg pulse monitor if you can help

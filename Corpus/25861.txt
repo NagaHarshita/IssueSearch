@@ -1,0 +1,1 @@
+ URL : "https://github.com/sismics/docs/issues/160" TITLE : add document states BODY : - states: project, approved, obsolete - change manually or automatically with the approval workflow

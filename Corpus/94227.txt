@@ -1,0 +1,1 @@
+ URL : "https://github.com/acgessler/open3mod/issues/107" TITLE : bug: dae animation support BODY : severity: major environment: windows 10 x64 now: app is unable to play suggested dae file animation. steps to reproduce: 1. open file https://drive.google.com/open?id=0b7adkqj0y4dtowo1eexoshczqve 2. try to run animation suggested: investigate issue with animation

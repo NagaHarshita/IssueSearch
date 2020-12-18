@@ -1,0 +1,1 @@
+ URL : "https://github.com/jmc-figueira/rugo/issues/4" TITLE : implement basic items BODY : only items relevant to the deathmatch mode should be implemented for this version. this includes both items spawnable in-game as well as the inventory system to manage such items picked up by the player.

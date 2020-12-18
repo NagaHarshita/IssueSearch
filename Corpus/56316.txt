@@ -1,0 +1,1 @@
+ URL : "https://github.com/cloudalchemy/ansible-prometheus/issues/16" TITLE : more preflight checks? BODY : this was on todo list. @rdemachkovych do we need to check something more in preflight.yml?

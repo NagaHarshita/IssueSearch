@@ -1,0 +1,1 @@
+ URL : "https://github.com/camicroscope/caMicroscope/issues/80" TITLE : support box uploads BODY : may exist render already, but render items: https://developer.box.com/v2.0/reference get-a-folders-items for a given item, download it and load metadata

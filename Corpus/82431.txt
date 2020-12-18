@@ -1,0 +1,1 @@
+ URL : "https://github.com/Renascentinc/retina-api/issues/7" TITLE : add tool stored procedure BODY : - need to allow for nulls in price and datepurchased fields - need to start incrementing toolid at 1000 if tool table is empty

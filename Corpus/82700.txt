@@ -1,0 +1,1 @@
+ URL : "https://github.com/googlevr/chromium-webar/issues/8" TITLE : any update of chromiumar? BODY : the current version is really unstable and low fps, my test threejs scene is only around 5~15 fps and always crashes seems like memory leak issue . really need a stable and usable chromiumar.

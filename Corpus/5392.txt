@@ -1,0 +1,1 @@
+ URL : "https://github.com/GoogleCloudPlatform/ide-login/issues/42" TITLE : oauth or oauth BODY : turns out, there is a wide range of split opinions. seems like no one is able to or wants to force a certain policy. upper camel: oauthuser vs. oauthuser lower camel: oauthuser vs. oauthuser constant: o_oauth_user vs. oauth_user

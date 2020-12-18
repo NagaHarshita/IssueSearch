@@ -1,0 +1,1 @@
+ URL : "https://github.com/MarlinFirmware/Marlin/issues/8290" TITLE : fr g93 inverse time mode BODY : does marlin support inverse time mode? i know that grbl does and iirc marlin is based on grbl. see g93 in grbl here: https://github.com/grbl/grbl/blob/master/grbl/gcode.c l227 if it isn't supported, would this be a hard feature to add?

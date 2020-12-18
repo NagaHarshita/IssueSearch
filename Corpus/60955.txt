@@ -1,0 +1,1 @@
+ URL : "https://github.com/markyv18/lobby_shop/issues/43" TITLE : add separate login page BODY : since the user story requires a link to login in the cart if user is not logged in we will probably need to create a separate login page. for right now i'm leaving the href blank until it is implemented.

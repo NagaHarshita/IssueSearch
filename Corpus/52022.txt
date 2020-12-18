@@ -1,0 +1,1 @@
+ URL : "https://github.com/Bezirk-Bosch/party/issues/41" TITLE : can not rejoin a party BODY : after leaving a party, guest is not able to join it again steps to reproduce: device a hosts a party p device b joins party p device b leaves party p devices b clicks on join a party button again further info 1.15 https://bezirk.atlassian.net/wiki/display/z/app+testing

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Pmant/ioBroker.harmony/issues/20" TITLE : add manual discovery BODY : could you add the possibility to manually add a harmony hub by ip ... autodiscovery won't work if the network is a little bit more complex. best regards chris

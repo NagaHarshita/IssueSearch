@@ -1,0 +1,1 @@
+ URL : "https://github.com/EdwardBetts/osm-wikidata/issues/33" TITLE : two step overpass idea BODY : first search for all items with wikidata tags in selected area. check if they're a good match and exclude them from the second overpass query. maybe allows us to attempt bigger overpass areas if they already have good wikidata tag coverage.

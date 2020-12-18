@@ -1,0 +1,1 @@
+ URL : "https://github.com/christophergandrud/networkD3/issues/184" TITLE : add a hive plot type BODY : add a hive plot type, as described here: https://bost.ocks.org/mike/hive/ there's an open pr 110 from over a year ago that adds a hive plot type. at a minimum it would need to be rebased, and probably carefully reviewed. otherwise it could be recreated from scratch.

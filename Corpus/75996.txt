@@ -1,0 +1,1 @@
+ URL : "https://github.com/dnlup/do_provision/issues/1" TITLE : improve known_hosts code BODY : using somethig like this known_hosts: path=/etc/ssh/known_hosts name= {{ item }} key= {{ lookup 'pipe', 'ssh-keyscan -t 10 -h -t rsa ' + item }} state=present could be better. code taken from this discussion: https://github.com/ansible/ansible-modules-extras/issues/3002

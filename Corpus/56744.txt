@@ -1,0 +1,1 @@
+ URL : "https://github.com/dncuug/X.PagedList/issues/80" TITLE : nuget is in debug mode BODY : after installing xpagedlist and memory dumping in production x.pagedlist is in debug mode

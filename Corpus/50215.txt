@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla/mozilla-django-oidc/issues/163" TITLE : where is runtests.py? BODY : just reading through the source of this project and saw a number of references in the makefile about runtests.py , but i cannot seem to find that file in the project. am i missing something trivial my django noobness?

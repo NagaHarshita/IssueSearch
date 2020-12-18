@@ -1,0 +1,1 @@
+ URL : "https://github.com/DD-DeCaF/metabolica-ui-pathways/issues/13" TITLE : fix leaky css BODY : can't move https://github.com/biosustain/metabolica-ui/issues/35 to dd-decaf, so hear a duplicate. this needs to be fixed in all our modules actually.

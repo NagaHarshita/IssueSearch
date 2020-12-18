@@ -1,0 +1,1 @@
+ URL : "https://github.com/jefgodesky/thefifthworld/issues/32" TITLE : default field values BODY : add the ability to define a default value to a field. from get params as query.param from the current member member.name member.title member.email

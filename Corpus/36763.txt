@@ -1,0 +1,1 @@
+ URL : "https://github.com/TakuSemba/MultiSnapRecyclerView/issues/1" TITLE : import library issue BODY : sorry, i forgot to upload jar to jcenter. im adding this to jcenter now. after few hours you can import this library in gradle like below groovy dependencies { compile 'com.github.takusemba:multisnaprecyclerview:1.0.0' }

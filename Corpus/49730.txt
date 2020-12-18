@@ -1,0 +1,1 @@
+ URL : "https://github.com/icefox0801/materialize-autocomplete/issues/42" TITLE : update data on demand BODY : hi, i can't find a way to update the data list in the autocomplete. i've tried re-inicialize, re-render. i need something like updatedate method. is there something like that?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/BluStor/PasswordVault_OSX/issues/27" TITLE : database name option BODY : i think we need to hide the database setting... database name . since the database name is db.kdbx. if you enter test into the field, it will rename the database to test.kdbx.

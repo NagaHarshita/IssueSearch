@@ -1,0 +1,1 @@
+ URL : "https://github.com/digitalheir/java-probabilistic-earley-parser/issues/11" TITLE : question regarding gramma BODY : is it possible to write a gramma to parse the following pattern: ...anything rule1 anything rul2 anything... what i want is match the rules defined in the sentence, and ignore the noises anything -> may be any characters

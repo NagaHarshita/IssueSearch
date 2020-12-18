@@ -1,0 +1,1 @@
+ URL : "https://github.com/bodhiproject/bodhi-graphql/issues/16" TITLE : add txid to block model BODY : please add a txid in block model. this will help debugging in the future.

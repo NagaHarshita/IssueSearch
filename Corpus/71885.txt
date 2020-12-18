@@ -1,0 +1,1 @@
+ URL : "https://github.com/flutter/flutter/issues/13015" TITLE : android autofill support BODY : we should make sure our text fields trigger the autofill support: https://developer.android.com/guide/topics/text/autofill.html

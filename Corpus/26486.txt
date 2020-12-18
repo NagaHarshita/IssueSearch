@@ -1,0 +1,1 @@
+ URL : "https://github.com/DjordjePetrovic/react-native-camera-translator/issues/4" TITLE : bad request - error BODY : i referenced this source code on my expo project. i followed the index.ios.js and using only cloudvision feature. but i got bad request error when i run application. thanks for any help.

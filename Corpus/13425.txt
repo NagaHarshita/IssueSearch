@@ -1,0 +1,1 @@
+ URL : "https://github.com/jmcusick/currencyhft/issues/83" TITLE : update db schema BODY : efficienttrends can be removed profitabletrends should have expath as the primary key, and unused variables can be removed or just left null

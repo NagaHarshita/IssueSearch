@@ -1,0 +1,1 @@
+ URL : "https://github.com/kai-wegner/jshell/issues/1" TITLE : docker expose not enough BODY : need to run docker run -p 8080:8080 -i -t kawe/jshell to expose port 8080.

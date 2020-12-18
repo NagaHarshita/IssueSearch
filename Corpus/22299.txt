@@ -1,0 +1,1 @@
+ URL : "https://github.com/lampepfl/dotty/issues/2581" TITLE : issue with scoping BODY : not sure what the problem was exactly but see the workaround in https://github.com/lampepfl/dotty/pull/2579

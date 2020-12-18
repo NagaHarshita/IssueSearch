@@ -1,0 +1,1 @@
+ URL : "https://github.com/victorhahn/SCIM/issues/45" TITLE : global input validation BODY : require a check.js global file to all pages that need input validation example: isphonenum num { //code goes here } input: 4444444444 444 444 4444 444.444.4444 444-444-4444 output: 444-444-444

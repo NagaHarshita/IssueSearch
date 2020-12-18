@@ -1,0 +1,1 @@
+ URL : "https://github.com/bufferapp/k3/issues/1" TITLE : add records json BODY : we should include a sample of records and a way to test the lambda locally.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/dotnet/csharplang/issues/927" TITLE : il keyword BODY : this is a proposal to add new keyword to allow writing inline il code directly inside c code for example csharp using system; public void writemessage { var message = a message to console ; il { ldlocal.0 call void console::writeline string }; }

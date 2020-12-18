@@ -1,0 +1,1 @@
+ URL : "https://github.com/fabricadeideias/hub/issues/1" TITLE : api keys public BODY : i noticed you left your api keys in your repo when you committed. i suggest you remove the file and reset your tokens: https://github.com/fabricadeideias/hub/blob/889e89be46dcde61d6dc066db863e472f401c24e/spread/settings.json

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Techzindia/Kali-linux_For_Termux/issues/1" TITLE : does not start BODY : i downloaded it, configured my architecture, the i typed in ./startkali.sh then get this error ./startkali bash: ./startkali: no such file or directory

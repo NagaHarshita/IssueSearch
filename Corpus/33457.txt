@@ -1,0 +1,1 @@
+ URL : "https://github.com/Karma-Khameleons/bangazon-website/issues/2" TITLE : add product to order BODY : given the user wants to add a product to an order when the customer clicks on the “add to order” button on the product detail view then an order is created and the product is added or product is added to an existing order

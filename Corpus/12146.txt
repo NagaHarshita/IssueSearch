@@ -1,0 +1,1 @@
+ URL : "https://github.com/oneam/h264bsd/issues/10" TITLE : nal parcer error BODY : when decoder parce nal header, it not skip emulation prevention byte. test header 00 00 00 01 67 42 c0 1e d9 00 a0 2f f9 70 11 00 00 03 00 01 00 00 03 00 32 0f 16 2e 48 00 00 00 01

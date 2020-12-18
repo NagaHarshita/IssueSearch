@@ -1,0 +1,1 @@
+ URL : "https://github.com/bavc/qctools/issues/396" TITLE : frame tiles not working BODY : likely related to the new scalable window, but i just wanted to point out that frame tiles is not longer working properly. macos, version 0.8.2017522

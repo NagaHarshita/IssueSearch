@@ -1,0 +1,1 @@
+ URL : "https://github.com/trealla-lang/trealla/issues/104" TITLE : missing choice points BODY : for following code, some choice ponts are missing: :- initialization main . foo bar a , bar b , bar c , bar d . main :- foo bars , member bar bar , bars , write bar , nl, fail. main :- halt. output: trealla v0.1alpha, mar 1 2017 info: consulted 'foo.pl': 64 terms a b halted

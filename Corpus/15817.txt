@@ -1,0 +1,1 @@
+ URL : "https://github.com/Awalz/SwiftyCam/issues/6" TITLE : flash not working BODY : i am having issues getting the flash to work on the latest build. when i set flashenabled = true , it does nothing. any idea why this doesnt work?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/opengapps/opengapps-app-support/issues/100" TITLE : cannot install ap news app BODY : google play app closes when downloading the small ap news app. phone: sm-g530t rom: lineage 14.1 android: 7.1.1 opengapps: 4/7/2017 arm-32bit rom dev advises this is opengapps bug. logcat available if you need it.

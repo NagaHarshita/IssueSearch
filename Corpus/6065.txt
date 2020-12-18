@@ -1,0 +1,1 @@
+ URL : "https://github.com/juan-herrador/merapar-assessment/issues/2" TITLE : user story 1 - BODY : as a tech lead, i want a project scaffold on github, so the team can start working in parallel on the same repo. ac: new repo in github using spring boot java 8 and maven only scaffold, no logic added yet

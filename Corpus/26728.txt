@@ -1,0 +1,1 @@
+ URL : "https://github.com/Katzenpost/client/issues/23" TITLE : cache pki documents BODY : the client needs to cache pki documents locally and persist to disk.

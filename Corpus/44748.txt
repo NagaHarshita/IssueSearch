@@ -1,0 +1,1 @@
+ URL : "https://github.com/pluginkollektiv/antispam-bee/issues/114" TITLE : fix misaligned labels BODY : labels should appear side by side with their <select> elements as they did until 2.6.9 . ! vergleich-01 https://cloud.githubusercontent.com/assets/1038789/22626715/8f33e61e-ebb4-11e6-9a3c-2818fede618f.png

@@ -1,0 +1,1 @@
+ URL : "https://github.com/UTN-MDP/utn-chat/issues/1" TITLE : nombre de usuario BODY : el usuario debe elegir un nombre de usuario para poder enviar mensajes. este debe enviarse junto con el mensaje y debe ser recibido por todos los demás usuarios. además, cuando se muestre el mensaje en pantalla debe indicarse quien lo escribió.

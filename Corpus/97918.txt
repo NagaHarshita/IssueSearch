@@ -1,0 +1,1 @@
+ URL : "https://github.com/sullivan-wenger/ser316labcr/issues/11" TITLE : id: 33 category: cg5, cg7f BODY : class variables should be private private variables should be at bottom of the page accountserverfactory.java line: 6

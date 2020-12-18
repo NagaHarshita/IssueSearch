@@ -1,0 +1,1 @@
+ URL : "https://github.com/arusland/matebot/issues/3" TITLE : wrong notification in BODY : steps to reproduce: 1. send message 10:00 25: 2. bot sends message back with incorrect notification in 1 days 33 hours 3. expected 1 days 9 hours

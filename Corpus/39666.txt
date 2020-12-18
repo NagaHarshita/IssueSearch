@@ -1,0 +1,1 @@
+ URL : "https://github.com/DiemenDesign/summernote-image-attributes/issues/33" TITLE : sorry i'll come back BODY : referenceerror: can't find variable: else$img summernote-image-attributes.js:199 i got a error ,did i missing anything?

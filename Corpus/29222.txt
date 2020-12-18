@@ -1,0 +1,1 @@
+ URL : "https://github.com/javaee/hk2/issues/359" TITLE : keep a changelog.md BODY : i can't find information on what has changed in any given published release. it would be nice if hk2 kept a change log that conforms to http://keepachangelog.com/en/0.3.0/ specification

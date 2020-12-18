@@ -1,0 +1,1 @@
+ URL : "https://github.com/mattvb91/Subterminal/issues/60" TITLE : allow empty rig selection BODY : when user has added a rig he has no way of selecting an empty rig. for example doing a tandem with dropzone rig, allow user to select empty - as rig.

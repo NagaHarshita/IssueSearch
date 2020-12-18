@@ -1,0 +1,27 @@
+ URL : "https://github.com/Zimmi48/bugzilla-test/issues/1580" TITLE : inference de types BODY : note: the issue was created automatically with bugzilla2github tool bugzilla bug id: 92
+date: 2001-11-16 16:05:15 +0100
+from: eduardo.gimenez@trusted-logic.fr
+to: last updated: 2001-11-16 16:05:15 +0100 bugzilla comment id: 1611
+date: 2001-11-16 16:05:15 +0100
+from: eduardo.gimenez@trusted-logic.fr full_name: version: v7.1
+os: linux
+submission from: mailhost.trusted-logic.fr 194.250.150.5 la v6.3.1 arrivait à inférer le type dans cette définition: =====================================================================
+set implicit arguments.
+require polylist.
+section map_with_index.
+variables a,b,index :set.
+variable baseindex : index.
+variable newindex : index -> index.
+variable f : index -> a -> b.
+fixpoint mapindexfrom l: list a : index -> list b := i cases l of nil => nil b | cons a t => cons f i a mapindexfrom t newindex i end.
+definition mapindex : list a -> list b := l mapindexfrom l baseindex . variable p : a -> prop.
+inductive forall : list a -> prop := forallnil : forall nil a | forallcons : x:a p x -> l: list a forall l -> forall cons x l .
+end map_with_index. section forall_with_index.
+variable a : set.
+definition foralli a,p,l:? := forall p:nat a let i,v = p in p i v mapindex o s i,v i,v l .
+error: tried to define ?33 with a term using variable _unbound_rel_6
+which is not in its scope.
+============================================ si l'on donne le type, ça marche: definition foralli a:set;p:nat->a->prop;l: list a := forall p:nat a let i,v = p in p i v mapindex o s i,v i,v l .
+foralli is defined eduardo. bugzilla comment id: 1612
+date: 2007-07-04 17:03:00 +0200
+from: eduardo.gimenez@trusted-logic.fr fixed cf 91

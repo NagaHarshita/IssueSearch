@@ -1,0 +1,1 @@
+ URL : "https://github.com/lanl-ansi/PowerModelsAnnex.jl/issues/5" TITLE : clean up pglib tests BODY : these changes can be made, powermodelsannex.run_api_opf =>run_api_opf powermodelsannex.run_sad_opf => run_sad_opf once powermodels does not export such functions.

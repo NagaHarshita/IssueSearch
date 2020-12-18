@@ -1,0 +1,1 @@
+ URL : "https://github.com/kartoza/geonode/issues/277" TITLE : filter layers on maps page BODY : _from @mariasolovyeva on march 24, 2017 12:53_ map layers are not filtered. it should show only the layers related to the map. or, does it assume that the users know what they are doing? _copied from original issue: kartoza/geosafe 86_

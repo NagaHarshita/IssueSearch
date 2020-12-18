@@ -1,0 +1,1 @@
+ URL : "https://github.com/RasheedLewis/TripleX/issues/6" TITLE : classstanding view changes BODY : add some widgets to the view so that when adding a new student, you can get the class standing from the user. add to the grid in studenteditdialog.xml in some way to input the class standing.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/aspnet/MvcPrecompilation/issues/100" TITLE : n of views compiled. BODY : a bit silly but prior to vs17 i could see how many views where compiled in the output window during publish. can that be turned on? i found it useful somehow..

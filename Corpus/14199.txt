@@ -1,0 +1,1 @@
+ URL : "https://github.com/parabuzzle/craneoperator/issues/30" TITLE : add login feature BODY : need to replace the default registry login stuff with a per session login. this can be done by prompting for registry login and saving the login info in the session and using that to pass to the registry via basic auth.

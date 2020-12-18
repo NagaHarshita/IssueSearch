@@ -1,0 +1,1 @@
+ URL : "https://github.com/kimar/MagicKit-iOS/issues/1" TITLE : can not import project BODY : hi, i can not import the <magickit-ios/magickit.h> in my class. it always warn not found. and i do not see guide install in readme

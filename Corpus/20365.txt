@@ -1,0 +1,1 @@
+ URL : "https://github.com/peterLaurence/TrekAdvisor/issues/15" TITLE : center to position BODY : the center to position feature should not only center to the current position, but also zoom in if this is required to center the view to the current position.

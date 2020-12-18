@@ -1,0 +1,1 @@
+ URL : "https://github.com/hspang/JEnCo-Javabase/issues/1" TITLE : issue_ 01: project setup BODY : creation of the project setup the project setup is to create as a maven project with subprojects. the root project is to call javabase from project type pom . subprojects every subproject is to place as a module under the root project.

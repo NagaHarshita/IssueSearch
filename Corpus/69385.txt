@@ -1,0 +1,1 @@
+ URL : "https://github.com/Caleydo/lineage/issues/64" TITLE : table: add tooltip info BODY : ! githubissues_3 https://cloud.githubusercontent.com/assets/4534857/23229373/49c84d58-f8fd-11e6-89b2-22c0244d9f31.jpg categorical - column summaries: show /bar - data: show /container quantitative - column summaries: show /bin - data: show value id - data: show list of id's in container

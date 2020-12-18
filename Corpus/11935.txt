@@ -1,0 +1,1 @@
+ URL : "https://github.com/BiancaShurey/JobApplication-Tracker/issues/21" TITLE : main site server BODY : livesearch breaks when you type the thrid letter in anj . fix by removing the following lines from searchcompanies.php: } elseif $result->num_rows == 0 { //no companies were found $output = no suggestions ; echo $output; $conn->close ; exit;

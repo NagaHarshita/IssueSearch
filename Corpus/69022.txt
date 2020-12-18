@@ -1,0 +1,1 @@
+ URL : "https://github.com/linxcat/underworld/issues/19" TITLE : srv user authentication BODY : - if unauthenticated redirect from landing to login - password hashing - post endpoint on /login

@@ -1,0 +1,1 @@
+ URL : "https://github.com/thephpleague/flysystem-webdav/issues/32" TITLE : webdav connect to https BODY : hello how can i connect to https with this package? i am using laravel. i got this message: ssl certificate problem: unable to get local issuer certificate

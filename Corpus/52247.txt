@@ -1,0 +1,2 @@
+ URL : "https://github.com/k0shk0sh/FastHub/issues/835" TITLE : change invitation link BODY : fasthub version: 4.0.3 android version: 5.0.1 sdk: 21 device information: - manufacturer: lge
+- brand: lge - model: lg-f460l --- change join slack to join discord it is a quick fix, right?

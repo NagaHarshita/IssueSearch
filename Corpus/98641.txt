@@ -1,0 +1,1 @@
+ URL : "https://github.com/jeremy-donson/teladoc-exercise/issues/8" TITLE : jenkins as a docker image. BODY : this wil allow us to get jenkins itself into the ecs ecosystem.

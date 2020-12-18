@@ -1,0 +1,1 @@
+ URL : "https://github.com/domachine/penguin/issues/17" TITLE : missing info in wiki BODY : https://github.com/domachine/penguin/wiki/deployment- heroku-and-github-pages should also say, that you have to add a config var git_repo in heroku. looking like that: https://key@github.com/user/repo.git

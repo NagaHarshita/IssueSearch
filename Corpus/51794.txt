@@ -1,0 +1,1 @@
+ URL : "https://github.com/pixijs/pixi-haxe/issues/127" TITLE : blendmode / blendmodes BODY : can you double check the usage of blendmode / blendmodes? i see sprite.blendmode is a blendmode type, but graphics.blendmode is of type int there seem other cases where the blendmode field is int : https://github.com/pixijs/pixi-haxe/search?utf8=%e2%9c%93&q=blendmode&type=

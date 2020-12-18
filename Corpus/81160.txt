@@ -1,0 +1,1 @@
+ URL : "https://github.com/gocraft/work/issues/37" TITLE : wait for job to complete BODY : hi, i'm starting jobs with: go _, err := enqueuer.enqueue handle_tika , work.q{ pdf : bundle 0 , xml : bundle 1 } if err != nil { log.fatal err } this is called multiple times. i'd like to enque the jobs but let each of them wait for the running job. how can i achieve that?

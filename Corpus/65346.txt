@@ -1,0 +1,1 @@
+ URL : "https://github.com/orangesys/orangesys-blueprint/issues/1" TITLE : ingress voyager install BODY : - voyager install - move traefik to voyager - move nginx to voyager - cert manager to voyager

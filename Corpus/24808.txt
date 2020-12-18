@@ -1,0 +1,1 @@
+ URL : "https://github.com/bramus/router/issues/39" TITLE : too many redirects BODY : if we take the following code: $router->before 'get', '/. ', function { if !isset $_session 'user' { header 'location: /login' ; exit ; } } ; how would one stop a redirect loop when '/login' is requested?

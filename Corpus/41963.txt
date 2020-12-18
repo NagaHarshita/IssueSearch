@@ -1,0 +1,1 @@
+ URL : "https://github.com/launchdarkly/js-client/issues/40" TITLE : add support for bower BODY : please add support for bower as dependency manager. we need it for our project where is not sutiable to use npm. thanks!

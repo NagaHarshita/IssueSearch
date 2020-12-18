@@ -1,0 +1,1 @@
+ URL : "https://github.com/ahmednooor/halkaBox.js/issues/10" TITLE : can't use as a module BODY : hi, i suggest adding exports to use this as a module in webpack, this could be really really useful thanks in advance, fabio

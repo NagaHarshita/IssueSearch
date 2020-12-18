@@ -1,0 +1,1 @@
+ URL : "https://github.com/severndb/severn/issues/14" TITLE : markdownlint husky hook BODY : traits a husky https://github.com/typicode/husky/tree/dev hook. can configure to run on every commit. runs markdownlint https://github.com/davidanson/markdownlint on all project markdown files.

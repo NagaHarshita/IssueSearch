@@ -1,0 +1,1 @@
+ URL : "https://github.com/minio/minio-jenkins/issues/9" TITLE : missing file extensions. BODY : if i set source to .zip the file is saved as the name without .zip suffix.

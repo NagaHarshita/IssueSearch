@@ -1,0 +1,1 @@
+ URL : "https://github.com/FatherFoxxy/SteamToolkit/issues/1" TITLE : can not log in BODY : hey. what could be the problem? can not be authorized. login and password are correct, but from the steam comes such an answer: {\ success\ :false,\ requires_twofactor\ :false,\ clear_password_field\ :true,\ captcha_needed\ :false,\ captcha_gid\ :-1,\ message\ :\ incorrect login.\ }

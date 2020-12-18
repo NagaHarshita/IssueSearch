@@ -1,0 +1,6 @@
+ URL : "https://github.com/robertsanseries/karim/issues/4" TITLE : invalid appdata file BODY : appcenter dashboard ran appstreamcli validate on your project's .appdata.xml file and
+received the following errors: e - com.github.robertsanseries.karim.appdata.xml:~ could not parse xml data: entity: line 31: parser error : opening and ending tag mismatch: br line 29 and p </p> ^ entity: line 38: parser error : opening and ending tag mismatch: p line 28 and description </description> ^ entity: line 47: parser error : opening and ending tag mismatch: description line 21 and component entity: line 47: parser error : premature end of data in tag component line 3 validation failed: errors: 1 --- for more information, see:
+- the appstream quickstart guide https://www.freedesktop.org/software/appstream/docs/chap-quickstart.html - the appstream metadata specification https://www.freedesktop.org/software/appstream/docs/chap-metadata.html if you need help with this issue please stop by the gitter https://gitter.im/elementary/houston channel. affects : 0.1.0 release https://github.com/robertsanseries/karim/releases/tag/0.1.0 <!--
+pipe: appdata
+pipe time: mon jun 19 2017 19:02:23 gmt+0000 utc houston version: 0.4.1 6c6e214d7c4887e47dbb02bbd8972d3b5554da29 houston env: production
+-->

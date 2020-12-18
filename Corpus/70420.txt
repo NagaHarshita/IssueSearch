@@ -1,0 +1,1 @@
+ URL : "https://github.com/datawire/telepresence/issues/217" TITLE : vpn breaks telepresence BODY : see https://github.com/datawire/telepresence/issues/210 issuecomment-312868407 a priori i would expect starting a vpn after telepresence is started in vpn-tcp mode to break dns.

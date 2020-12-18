@@ -1,0 +1,1 @@
+ URL : "https://github.com/PomeloProductions/easy-products/issues/26" TITLE : add view orders admin task BODY : there needs to be a task setup for viewing all orders. this is going to need to order them by created_at, it will need to be able to page every 20, and it will need to show the name of the person the order is to, and whether or not it has been shipped.

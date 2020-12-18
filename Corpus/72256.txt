@@ -1,0 +1,6 @@
+ URL : "https://github.com/tryashtar/minecraft-bugs/issues/352" TITLE : block cracking animation BODY : mojira ticket mc-373 https://bugs.mojang.com/browse/mc-373 <img src= https://secure.gravatar.com/avatar/9910051d7a031fc8a5dc6f41091a6868?d=mm&s=24 width=20 height=20> chumps52 https://bugs.mojang.com/secure/viewprofile.jspa?name=chumps52 • oct 25, 2012 when you face directly/straight down or up, the cracking animation/stages glitch's. this happens to me 90% of the time, and it is not a graphics card problem as it has been tried on multiple different cards. what i expected to happen was...:
+the cracking animation/stages to appear. what actually happened was...:
+instead, the animation/stages either flicker or don't show at all. steps to reproduce:
+1. stand on or below a block.
+2. face directly down or straight up.
+3. start breaking the block. attachments: <img src= https://bugs.mojang.com/secure/attachment/11035/2012-10-25_08.27.08.png width= 240 height= 135 >

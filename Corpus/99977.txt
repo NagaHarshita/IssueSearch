@@ -1,0 +1,1 @@
+ URL : "https://github.com/apploft/ExpandableLabel/issues/47" TITLE : not working in uistackview BODY : the text gets truncated to one line, and only one character if numberoflines = 1

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jelmer/dulwich/issues/596" TITLE : get active branch BODY : there is dulwich.porcelain.branch_list but that will list all branches for a repo. how does one get the active branch? the one displayed when you run git status

@@ -1,0 +1,1 @@
+ URL : "https://github.com/reynir/ocaml-ssh-agent/issues/8" TITLE : ssh-agent protocol 1 blah BODY : ssh-add -d sends ssh_agentc_remove_all_identities and then ssh_agentc_remove_all_rsa_identities ssh_agent_reserved9 in the code .

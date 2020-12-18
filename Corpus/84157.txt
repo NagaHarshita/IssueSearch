@@ -1,0 +1,1 @@
+ URL : "https://github.com/truki/ArasaacBot/issues/5" TITLE : create \translate command BODY : create translate command: - input: a phrase with a limited number of words. - output: a translation into pictograms if is possible , of each of these words. if no pictograms exists for this word, maintain the word literally.

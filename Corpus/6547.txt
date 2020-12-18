@@ -1,0 +1,1 @@
+ URL : "https://github.com/fnielsen/scholia/issues/200" TITLE : add taxon pages BODY : please add page style for taxon instance of q16521 , similar to those for disease https://tools.wmflabs.org/scholia/disease/ use parent taxon p171 to build a taxonomic tree. link to the taxon author p405; often as a qualifier of taxon name, p225 , and to related papers.

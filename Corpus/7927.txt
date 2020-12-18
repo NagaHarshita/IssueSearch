@@ -1,0 +1,1 @@
+ URL : "https://github.com/sharmalab/TCIAPubHub/issues/9" TITLE : live search bar BODY : a user can type into a search element which does a live filter on everything on screen, by div. we could expect space delimited terms which can each appear. e.g. birmingham cancer should be able to search for anything by me that has the word cancer .

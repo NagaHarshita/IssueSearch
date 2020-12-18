@@ -1,0 +1,1 @@
+ URL : "https://github.com/fanjavatsara/prj-rev-bwfs-tea-cozy/issues/4" TITLE : flex-box and concise css BODY : great! nice job challenging yourself to use flex-box for your layout in css! here, consider using more group selectors for any repeated styles like display: flex; to make your css even more concise.

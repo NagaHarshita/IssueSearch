@@ -1,0 +1,1 @@
+ URL : "https://github.com/pelagios/recogito2/issues/357" TITLE : annotation on sorted table BODY : in table mode, when adding an annotation to a row while the table is sorted by a field, the annotation is not anchored correctly.

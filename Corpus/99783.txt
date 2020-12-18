@@ -1,0 +1,1 @@
+ URL : "https://github.com/AlexanderSoftman/battle_field/issues/4" TITLE : new_feature: add obstacles BODY : obstacle should not allow to tank see throw them, obstacles can be destroyed, but after destroying obstacle breaks up to other little obstacles.

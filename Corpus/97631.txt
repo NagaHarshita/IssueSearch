@@ -1,0 +1,1 @@
+ URL : "https://github.com/pbek/QOwnNotes/issues/474" TITLE : hook when the note is save BODY : hi all, i would like to have a hook which is called when a note is save into disk. is it something planned? or easy to do? thanks a lot in advance best regards sebas

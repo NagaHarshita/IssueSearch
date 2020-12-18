@@ -1,0 +1,1 @@
+ URL : "https://github.com/ceph-dovecot/dovecot-ceph-plugin/issues/101" TITLE : rmbtool -p default pool BODY : currently it is always required to call the rmb tool with the argument -p <poolname>. if no -p argument is given, the default pool mail_storage should be used.

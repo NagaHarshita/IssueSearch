@@ -1,0 +1,1 @@
+ URL : "https://github.com/c4milo/gsync/issues/9" TITLE : bufferpool memory leak ？ BODY : as i known, the sync.pool in golang , you must use get/put together. but the code below https://github.com/c4milo/gsync/blob/master/gsync_client.go l109 you only bufferpool.put bfp when the err is io.eof, is this ok?

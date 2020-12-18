@@ -1,0 +1,1 @@
+ URL : "https://github.com/crocodic-studio/crudbooster/issues/966" TITLE : message is not translating BODY : - crudbooster 5.4.0.10 - laravel 5.5 message your setting has been saved ! is hard coded in vendor/crocodicstudio/crudbooster/src/controllers/settingscontroller.php:137

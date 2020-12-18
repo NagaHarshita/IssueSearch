@@ -1,0 +1,1 @@
+ URL : "https://github.com/T-PWK/flake-idgen/issues/3" TITLE : min and max values ? BODY : hello, i would like to know if the generated id converted in decimal stay inside the range of the ? number.max_safe_integer https://developer.mozilla.org/enus/docs/web/javascript/reference/global_objects/number/max_safe_integer ? thank you and have a nice day.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/PoliteDoves/MasterMind/issues/78" TITLE : fix bug in memory game BODY : on reloading the game, it redraws everthing, but acts as if you are click on previously destroyed blocks instead of the new ones

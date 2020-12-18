@@ -1,0 +1,1 @@
+ URL : "https://github.com/WandiParis/gulp-images/issues/2" TITLE : drop babel dev dependency BODY : - use require / module.exports instead of impot / export - use object.assign instead of object spread operator the goal is to drop transpilation step since the majority of the es2015+ syntaxes used are already implemented by node

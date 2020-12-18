@@ -1,0 +1,1 @@
+ URL : "https://github.com/opencaching/opencaching-pl/issues/1147" TITLE : okapi fulldump is empty BODY : https://opencaching.pl/okapi/services/replicate/fulldump?consumer_key=... delivers an empty file. on other opencaching sites it works fine, so i guess it is a local configuration problem.

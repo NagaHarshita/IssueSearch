@@ -1,0 +1,1 @@
+ URL : "https://github.com/beto0329/CONINSY/issues/15" TITLE : crear bloqueos de agenda BODY : bloquear horarios de agenda para evitar asignacion de citas, los bloqueos tendran rango de fechas y horarios y motivo de bloqueo, el cual se podra consultar en la vista de disponibilidad de la agend consultada

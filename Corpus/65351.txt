@@ -1,0 +1,1 @@
+ URL : "https://github.com/Caleydo/lineage/issues/112" TITLE : initial poi state wrong BODY : see ! image https://cloud.githubusercontent.com/assets/2039375/24303886/3b7f4cb4-107d-11e7-9629-9f44a3481d58.png poi is set to bipolar - true. the filled nodes don't seem to be bipolar according to the table. after aggregation and also after de-aggregation it is correct.

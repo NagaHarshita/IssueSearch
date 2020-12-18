@@ -1,0 +1,1 @@
+ URL : "https://github.com/deepaligarg/Xamarin_CRUD_WebServices/issues/1" TITLE : please add new class BODY : private user _selecteduser = new users ;

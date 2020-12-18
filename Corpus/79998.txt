@@ -1,0 +1,1 @@
+ URL : "https://github.com/cxcsds/ciao-contrib/issues/77" TITLE : support offset pointings BODY : https://github.com/cxcsds/ciao-contrib/blob/291112c2c8f37f9f08e0f891a2a903cbf2632e08/ciao-4.9/contrib/bin/mktgresp l312-l314 the list of allowed ie expected zero order locations should include the adjacent chips to deal with large offset pointings. per mike nowak email re:full garf

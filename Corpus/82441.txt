@@ -1,0 +1,1 @@
+ URL : "https://github.com/4e6/stack2nix/issues/12" TITLE : add travis bootstrap test BODY : run bootstrap test on travis: - build stack2nix with stack - run stack2nix on the project stack file - run nix-build pros: checks integrity with latest nixpkgs cons: slow

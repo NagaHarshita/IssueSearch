@@ -1,0 +1,1 @@
+ URL : "https://github.com/williambailey/pacproxy/issues/2" TITLE : support for ssl proxy BODY : hello - firstly, thank you for this wonderful app. i was wondering if it'd be possible to add in support for ssl proxies specified in the pac file using https exampleproxy.com:443 instead of proxy exampleproxy.com:80 ? many thanks

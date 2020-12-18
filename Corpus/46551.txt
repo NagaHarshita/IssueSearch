@@ -1,0 +1,1 @@
+ URL : "https://github.com/OSSIA/score/issues/700" TITLE : midi timecode support BODY : as requested by @ofersmi. to do this we first have to handle going backwards in time in scenario correctly and finish all the play-from-here related issues.

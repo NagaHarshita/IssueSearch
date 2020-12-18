@@ -1,0 +1,1 @@
+ URL : "https://github.com/BrynNikoVince/starter-route66/issues/3" TITLE : charlie - subcontroller BODY : this will be a controller found by convention make the target link /charlie/brown we want this handled by a subcontroller, i.e. controllers/charlie::brown the body of that method should invoke the inherited show method, with the key 3

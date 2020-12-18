@@ -1,0 +1,1 @@
+ URL : "https://github.com/mike-goodwin/aws-vault-reference-application/issues/2" TITLE : add error handling BODY : for - invalid input e.g. attempted sqli - capital not found - internal errors like db connection problems

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mdalai/Deep-Learning-projects/issues/1" TITLE : number of epochs BODY : i think your neural network should iterate for a number of epochs. your current code is not making any use of number of epochs you can remove it and it will give the same result i guess

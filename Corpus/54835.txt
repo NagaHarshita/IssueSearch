@@ -1,0 +1,1 @@
+ URL : "https://github.com/AllenFang/react-bootstrap-table/issues/1012" TITLE : how to hide pagination BODY : hi, is there a way to hide pagination when the number of rows is less than 'sizeperpage'? thanks

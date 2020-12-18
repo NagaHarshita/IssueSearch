@@ -1,0 +1,1 @@
+ URL : "https://github.com/elmsln/elmsln/issues/1781" TITLE : uploading multiple images BODY : now that we can handle any size upload the server allows we should allow multiple uploads as well. the part that puts the response in the queue to send back to the server w/ the submission currently only supports 1 image as well in testing.

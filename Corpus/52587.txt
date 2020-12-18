@@ -1,0 +1,1 @@
+ URL : "https://github.com/mathworks/thingspeak-arduino/issues/31" TITLE : confirm upload of data BODY : i'm using the esp8266 and i've noticed that data uploads are missed if interrupts or timers ticker are used. is there functionality that checks whether data is uploaded successfully?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/linux-test-project/ltp/issues/191" TITLE : ltp-pan not found issue BODY : while running ltp on raspberry pi3 board getting error ltp-pan not found ... is raspberry device is compatible to ltp ?

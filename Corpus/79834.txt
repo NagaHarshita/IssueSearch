@@ -1,0 +1,1 @@
+ URL : "https://github.com/sajover/Tea_Cozy/issues/2" TITLE : subtle: duplicate namign BODY : https://github.com/sajover/tea_cozy/blob/master/index.html l82-l84 be careful when naming a class and an id the same thing. that will only confuse you down the line, so you might as well just give separate names to provide more clarity.

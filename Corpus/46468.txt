@@ -1,0 +1,1 @@
+ URL : "https://github.com/Slikey/EffectLib/issues/43" TITLE : maven repository down BODY : hey, the http://maven.elmakers.com/repository/ appears to be down. is it maybe possible to publish to the central repository so effectlib has near guaranteed availability? jerom

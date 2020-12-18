@@ -1,0 +1,1 @@
+ URL : "https://github.com/nfarina/homebridge/issues/1216" TITLE : home app losing connection BODY : every time i close the home app on my iphone it loses the connection and can't find the homebridge any more... forcing me to open the config.json and change the username or mac address . after changing works fine until the app closes or get sometime on standby mode.

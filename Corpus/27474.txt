@@ -1,0 +1,1 @@
+ URL : "https://github.com/carllerche/bytes/issues/69" TITLE : define api behavior BODY : what does bytes_vec do when remaining == 0 probably guaranteed to return 0 . can the argument to bytes_vec be an empty slice? yes buf::advance past remaining maybe panic?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/gpbl/webpack-cleanup-plugin/issues/30" TITLE : include linter config? BODY : @gpbl if you use eslint on the project, it might be a good idea to include the linter configuration and possibly run the linting along with the tests.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Hackerfleet/hfos/issues/233" TITLE : remove jquery usage BODY : angular + usage of jquery == bad there are a few issues 214, 168, 161 to solve before that can be completed, but also some possible standalone fixes.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/html5lib/html5lib-python/issues/330" TITLE : drop python 2.6 support BODY : see also 309. now that https://github.com/pypa/pip/pull/4343 has landed, we can probably start thinking again about dropping 2.6 support. as mentioned in 309, we probably want to wait until pip 10.0 actually ships, however.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/JohnSundell/Unbox/issues/204" TITLE : support for swift 3.0+ BODY : i could see in the cocoapods url https://cocoapods.org/pods/unbox for unbox, it s mentioned swift version as 3.0. will pod version 2.5.0 doesn't work with swoft 3.0+ ?

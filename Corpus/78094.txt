@@ -1,0 +1,1 @@
+ URL : "https://github.com/jwilger/chorizo_core/issues/9" TITLE : persist users and chores BODY : so that my data isn't lost every time i need to restart the application, as any user, i want the data to be persisted to a data store that survives reboots.

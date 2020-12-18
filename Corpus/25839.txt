@@ -1,0 +1,1 @@
+ URL : "https://github.com/kshvakov/clickhouse/issues/37" TITLE : add context support BODY : please correct me if i am wrong, but now the driver implements interfaces to support context, but actually it does not provide full support for context.context.

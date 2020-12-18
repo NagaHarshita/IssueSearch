@@ -1,0 +1,1 @@
+ URL : "https://github.com/PNHP/COA/issues/31" TITLE : fix data id values BODY : @christophertracey there are still sgcn records with missing data id values. also, we need to revamp this to make it unique. i thought that it was unique, but discovered today that one value can appear across multiple records.

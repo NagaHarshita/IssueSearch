@@ -1,0 +1,1 @@
+ URL : "https://github.com/CodeYellowBV/re-cy-cle/issues/34" TITLE : add default theme colors BODY : right now you need to define all theme colors in your app, like this: js const theme = { primary: ' 006b94', success: ' 58b96b', warning: ' d45352', dark: ' 4c4c4c', light: ' eee', }; perhaps we could add default colors; this way it's also easier to prevent breaking changes.

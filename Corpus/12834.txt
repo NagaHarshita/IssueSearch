@@ -1,0 +1,1 @@
+ URL : "https://github.com/nyaadevs/nyaa/issues/227" TITLE : search not found BODY : entering ovg 057 , returns 1 result of ovg-057 , while entering ovg 57 , returns no result. the same case happening when entering heyzo 0569 , returns 5 results of heyzo 0569 , while entering heyzo 569 , returns no result. would you please improve the search for this case.

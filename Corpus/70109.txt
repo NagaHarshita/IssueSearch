@@ -1,0 +1,1 @@
+ URL : "https://github.com/stellar/stellar-core/issues/1424" TITLE : upgrade basen.h library BODY : upgrade basen library from https://github.com/azawadzki/base-n/blob/master/include/basen.hpp . new version does not use undefined behavior in extract_partial_bits and extract_overlapping_bits,

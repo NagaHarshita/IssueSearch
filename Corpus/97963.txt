@@ -1,0 +1,2 @@
+ URL : "https://github.com/cockpit-project/cockpit/issues/6053" TITLE : image refresh for debian-8 BODY : image creation for debian-8 in process on cockpit-8.
+log: http://fedorapeople.org/groups/cockpit/logs/refresh-debian-8-2017-03-08/

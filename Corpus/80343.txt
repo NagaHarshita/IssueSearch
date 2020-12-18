@@ -1,0 +1,1 @@
+ URL : "https://github.com/wookayin/dotfiles/issues/7" TITLE : tmux installation script BODY : doesn't it require sudo in front of apt-get install on the tmux installation script? ubuntu-setup.sh l78: apt-get install -y libevent-dev libncurses5-dev libutempter-dev || exit 1; https://github.com/wookayin/dotfiles/blob/master/etc/ubuntu-setup.sh l78

@@ -1,0 +1,1 @@
+ URL : "https://github.com/TinkerBoard/debian_kernel/issues/1" TITLE : compile for tinkerboard BODY : sorry to ask as issue? how can we compile the kernel for tinkerboard? what is the board default config file? - rockchip_defconfig or - rockchip_linux_defconfig or - multi_v7_defconfig

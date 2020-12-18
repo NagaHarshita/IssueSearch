@@ -1,0 +1,1 @@
+ URL : "https://github.com/jsxc/jsxc/issues/606" TITLE : video chat in jsxc BODY : i have configured an xmpp and turn server for video chat. where should i place the java script code for the the example jsxc application. hard to find any proper step by step/ documentation for the same.

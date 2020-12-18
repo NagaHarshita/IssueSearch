@@ -1,0 +1,1 @@
+ URL : "https://github.com/tekezo/Karabiner-Elements/issues/538" TITLE : caps -> esc regression BODY : on a retina, 13-inch, early 2015 caps to esc remap stopped working after the last update. any ideas? javier

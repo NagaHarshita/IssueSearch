@@ -1,0 +1,1 @@
+ URL : "https://github.com/broadinstitute/gatk/issues/3929" TITLE : shrink the docker image BODY : our docker image is too big. make it smaller. ! image https://user-images.githubusercontent.com/4700332/33681285-15ff286c-da92-11e7-8389-da2171a3a862.png relates too 2720

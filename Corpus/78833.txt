@@ -1,0 +1,1 @@
+ URL : "https://github.com/nathantspencer/multi_minify/issues/8" TITLE : remove comments from xml BODY : comments should be removed from xml during minification.

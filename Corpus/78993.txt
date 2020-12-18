@@ -1,0 +1,1 @@
+ URL : "https://github.com/intljusticemission/react-big-calendar/issues/597" TITLE : request: mini-month view BODY : for date selectors etc it would be nice to have a mini month view, where events take up the entire day cell, sharing it for multiple events on the same day. selection would be limited to per-day, and to make a year calendar you'd just render multiple mini-months.

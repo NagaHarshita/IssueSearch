@@ -1,0 +1,1 @@
+ URL : "https://github.com/phpipam/phpipam/issues/1129" TITLE : allow duplicate subnets ? BODY : i have two private, non-routable subnets 192.168.0.0/24 on my networks. they are only reachable only via linux hosts with 2nd network interface to 192.168.0.0/24 subnet. can i somehow allowing this duplicate subnets on phpipam ? what is the bad consequence of doing so ?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/raphaelm/django-i18nfield/issues/12" TITLE : django 3.0 compatibility BODY : this is in the fairly far future, but it does not hurt to be prepared: lib/python3.6/site-packages/django/db/models/sql/compiler.py:992: removedindjango30warning: remove the context parameter from i18ntextfield.from_db_value . support for it will be removed in django 3.0.

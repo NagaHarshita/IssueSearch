@@ -1,0 +1,1 @@
+ URL : "https://github.com/hyojin/material-ui-datatables/issues/66" TITLE : bumping to mui 19 BODY : hey, it would be nice to get the dependency bumped to mui 19. we could remove the react-tap-event-plugin dependency with that as well. moreover, we would have react 16 compatibility although this would probably work as it is with react 16 thanks

@@ -1,0 +1,1 @@
+ URL : "https://github.com/yagajs/leaflet-ng2/issues/247" TITLE : tidy up script tasks BODY : remove unneeded script-tasks in package.json and enhance / refactor some tasks like dist . keep in mind to update the readme file also

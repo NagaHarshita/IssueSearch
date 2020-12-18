@@ -1,0 +1,1 @@
+ URL : "https://github.com/morningpee/mtf/issues/24" TITLE : autojoin doesn't work BODY : autojoining a room by url parameters no longer works. example: http://www.tetrisfriends.com/games/live/game.php?autojoinroomid=1234&autojoinroomname=room_n

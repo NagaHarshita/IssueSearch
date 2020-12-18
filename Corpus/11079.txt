@@ -1,0 +1,1 @@
+ URL : "https://github.com/logicmonitor/k8s-argus/issues/61" TITLE : feature: ha mode BODY : having one argus up and syncing resources with lm can cause false alerts in the case that a node running argus goes down, and the cluster's state changes before the new argus pod can come back up. argus should be able to run ha.

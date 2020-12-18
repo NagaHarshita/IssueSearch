@@ -1,0 +1,1 @@
+ URL : "https://github.com/intelliants/subrion/issues/402" TITLE : members page issues BODY : 1 amount of members is hardcoded now it's 20 and there is no way to change it via admin panel 2 there is no pagination on members page if there are more than 20 members on website.

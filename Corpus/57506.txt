@@ -1,0 +1,1 @@
+ URL : "https://github.com/chai2010/qingcloud-go/issues/41" TITLE : qcli 支持 lua 脚本 BODY : 配置文件为当前目录下的 qclifile.lua 文件， 用 lua 语法定义 请求的 json 和处理返回值。 需要为全部api生成一个表格，key是服务的字符串名称， 可以根据字符串名来调用服务 输入和输出为 proto.message 或 map string interface{} 或 json 字符串 。 参考 vagrantfile 的用法 vagrant 是 ruby 语法

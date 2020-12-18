@@ -1,0 +1,1 @@
+ URL : "https://github.com/opentargets/webapp/issues/186" TITLE : download button missing BODY : i seem to remember a comment from one of our meetings that we always provide a download for our widgets. one is missing for the protein interactions from the target page: https://www.targetvalidation.org/target/ensg00000139618 and batch search results.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/korma/Korma/issues/381" TITLE : empty set in update BODY : i have this clojure println k/sql-only k/update db/account k/set-fields {:name new-name :password new-password} k/where {:id :id current-user-info } which results in sql update account set where account . id = ? what am i doing wrong?

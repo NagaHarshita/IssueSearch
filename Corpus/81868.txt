@@ -1,0 +1,1 @@
+ URL : "https://github.com/museui/muse-ui/issues/476" TITLE : about issue submit format BODY : i suggest maybe we should format the issue a bit more clear in the following format - vue version: - muse-ui version: - package tools: description: - componments ? - error ? steps to reproduce https://jsfiddle.net/ :

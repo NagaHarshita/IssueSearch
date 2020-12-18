@@ -1,0 +1,1 @@
+ URL : "https://github.com/Ericsson/codechecker/issues/515" TITLE : show macro definitions BODY : if a bug path goes through a macro, it is impossible to understand the bug path, since macro definitions cannot be resolved. i suggest to show resolved macro definitions in a popup.

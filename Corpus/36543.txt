@@ -1,0 +1,1 @@
+ URL : "https://github.com/UgnisSoftware/ugnis/issues/2" TITLE : how to remove events BODY : see in the following screenshot. i added an event which sets foo = foo and now i want to remove it. how would i do that? ! remove https://user-images.githubusercontent.com/5035719/29433955-0b792732-8356-11e7-8e22-5960e9949386.png

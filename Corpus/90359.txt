@@ -1,0 +1,1 @@
+ URL : "https://github.com/redacademy/kin-summer-2017/issues/3" TITLE : services - social buttons BODY : great work with the flickity slider, that's intense! for the .social-button , it seems to break on smaller screens, you could try adding a min-width to fix this. not a major issue only affects very small screens but something to consider.

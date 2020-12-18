@@ -1,0 +1,1 @@
+ URL : "https://github.com/rsyslog/liblognorm/issues/251" TITLE : custom type not correct BODY : version=2 type=@timestamp:%date:date-iso% %time:time-24hr%\x2c%ms:number% rule=:%timestmap:@timestamp% - %logger:word% %msg:rest% ouput: timestmap : { ms : 210 , time : 17:50:43 , date : 2017-06-05 } expect: timestmap : 2017-06-05 17:50:43,210

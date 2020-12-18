@@ -1,0 +1,1 @@
+ URL : "https://github.com/fnc12/sqlite_orm/issues/40" TITLE : private field in class? BODY : maybe add support getter and setter for object class? like this: storage = make_storage db.sqlite , make_table players , make_column id , &player::getid, &player::setid, autoincrement , primary_key ;

@@ -1,0 +1,1 @@
+ URL : "https://github.com/samoconnor/AWSS3.jl/issues/15" TITLE : aws credential id exposed BODY : when i run the test of awss3, the credential id was printed out in terminal, even though the key was hidden. it might be better to hid the id too.

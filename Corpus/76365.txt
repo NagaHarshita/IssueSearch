@@ -1,0 +1,1 @@
+ URL : "https://github.com/jonorthwash/ud-annotatrix/issues/171" TITLE : issues with undo history BODY : i'm closing 39 and transferring the remaining issues with undo/redo here. feel free to add more. - add keyboard shortcut support ctrl+z and ctrl+y / ctrl+shift+z . - support for remembering the history when things are changed in the textbox.

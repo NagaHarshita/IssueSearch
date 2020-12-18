@@ -1,0 +1,1 @@
+ URL : "https://github.com/chrisgramberg678/ml-project/issues/14" TITLE : check for memory leaks BODY : there's a good chance that memory leaks are happening. set up valgrind and see about tracking those down. this https://stackoverflow.com/questions/20112989/how-to-use-valgrind-with-python should help.

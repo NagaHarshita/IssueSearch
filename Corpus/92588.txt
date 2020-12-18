@@ -1,0 +1,1 @@
+ URL : "https://github.com/bdemeshev/em_pset/issues/15" TITLE : убрать все float BODY : таблица и график должны приходиться на ту задачу, к которой они относятся. значит надо все float заменить на minipage или подобное :

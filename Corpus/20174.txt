@@ -1,0 +1,1 @@
+ URL : "https://github.com/Zehaos/MobileNet/issues/38" TITLE : bug in batch_delta BODY : the batch_delta function of mobilenetdet.py divides the delta_x by the box width instead of the anchor width, the ssd paper describes division by the anchor width and this is also used in interpre_detection.

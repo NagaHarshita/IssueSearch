@@ -1,0 +1,1 @@
+ URL : "https://github.com/CodeGrade/bottlenose/issues/38" TITLE : clamp, plural -> builtin BODY : these are both built in methods in ruby 2.4 we should pull out the custom versions.

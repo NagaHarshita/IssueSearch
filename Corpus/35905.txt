@@ -1,0 +1,1 @@
+ URL : "https://github.com/bazelbuild/rules_closure/issues/226" TITLE : fix ci status badges BODY : the status badges in readme.md that point to ci.bazel.io are currently pointing to dead links. can we update those? here's the page for that build: https://ci.bazel.io/job/rules_closure/

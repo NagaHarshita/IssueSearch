@@ -1,0 +1,1 @@
+ URL : "https://github.com/micjahn/ZXing.Net/issues/52" TITLE : how to generate svg file BODY : i found this https://github.com/micjahn/zxing.net/blob/master/source/lib/barcodewriter.svgimage.cs but i am not able to generate svg file is there any way?

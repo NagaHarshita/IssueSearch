@@ -1,0 +1,1 @@
+ URL : "https://github.com/ExtremeSensio/EasyWordpressBundle/issues/19" TITLE : get wp cli with composer BODY : i'm not sure about the state of this functionality where at the installation of the bundle we download and install wp-cli for easy implementation. need some digging in the scripts part of composer.json .

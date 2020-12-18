@@ -1,0 +1,1 @@
+ URL : "https://github.com/ssteinerx/pingparser/issues/7" TITLE : publish to pypi BODY : could you please publish pingparser to pypi.python.org? it would greatly simplify distribution of packages that depend on pingparser.

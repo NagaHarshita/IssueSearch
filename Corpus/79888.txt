@@ -1,0 +1,1 @@
+ URL : "https://github.com/keithschulze/llsm/issues/5" TITLE : support all imglib2 imgs BODY : currently llsm target only cell imgs. would be better to allow user to configure img factory.

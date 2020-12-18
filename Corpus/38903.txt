@@ -1,0 +1,1 @@
+ URL : "https://github.com/lipsumar/sail/issues/8" TITLE : refactor php backend BODY : the current php backend is working but very basic at the moment. rebuilding it with a framework like symfony is a must have before implementing new features. a secure login system and user management will clearly be needed soon.

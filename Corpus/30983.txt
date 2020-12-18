@@ -1,0 +1,1 @@
+ URL : "https://github.com/gebn/pullover/issues/10" TITLE : replace magic value BODY : as it stands, the default value could change, and if the code is buggy, it could still pass the test. https://github.com/gebn/pullover/blob/cb2a0b3b22d4d2479ee502aed64ac567dc843282/pullover/tests/test_message.py l145

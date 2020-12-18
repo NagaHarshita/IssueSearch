@@ -1,0 +1,1 @@
+ URL : "https://github.com/schrismartin/syllabus/issues/15" TITLE : refactor model relation BODY : - implement assignment/segment/course stores as idstring: entity dictionaries instead of a nested data structure for better organization

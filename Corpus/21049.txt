@@ -1,0 +1,1 @@
+ URL : "https://github.com/Maslosoft/KoBalin/issues/24" TITLE : dom nodes disposal BODY : when reloading data, especially on htmlvalue, it is probably leaking mem, check if can be mitigated by using node disposal mechanism from ko.

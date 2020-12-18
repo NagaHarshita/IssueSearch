@@ -1,0 +1,1 @@
+ URL : "https://github.com/nuxt-community/nuxtent-module/issues/48" TITLE : axios install error BODY : the error msg when install axios nuxtent@0.2.76 requires a peer of @nuxtjs/axios@^2.1.0 but none was installed

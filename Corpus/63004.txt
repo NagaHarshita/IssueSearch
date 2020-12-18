@@ -1,0 +1,2 @@
+ URL : "https://github.com/im-buff/bender/issues/72" TITLE : data structure and flow BODY : what data structure will we use for drawing, chat, etc... draw - array
+chat - array of objects

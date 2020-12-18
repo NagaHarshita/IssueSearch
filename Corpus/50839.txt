@@ -1,0 +1,1 @@
+ URL : "https://github.com/mitodl/open-discussions/issues/128" TITLE : add channel_admins api BODY : a privileged application like micromasters needs to be able to add and remove admins contributors and moderators on channels/subreddits. we'll need a rest api wrapper for the reddit api, that has similar authentication and authorization to the create_channel api.

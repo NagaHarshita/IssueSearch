@@ -1,0 +1,1 @@
+ URL : "https://github.com/SinisterRectus/Discordia/issues/66" TITLE : adding member to role BODY : hi, having trouble adding a member to a role, current code: author:addroles 352699813684314113 i take it i need to pass a role rather than the id, however i was unable to find a way to get all roles etc?

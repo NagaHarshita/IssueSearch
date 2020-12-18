@@ -1,0 +1,1 @@
+ URL : "https://github.com/aspnet/SignalR/issues/381" TITLE : enable api check BODY : when we release we need to generate a baseline and enable the api check

@@ -1,0 +1,1 @@
+ URL : "https://github.com/nical/lyon/issues/44" TITLE : make the apis elegant. BODY : by elegant i am referring to the conventions explained in this blog post about elegant apis in rust https://deterministic.space/elegant-apis-in-rust.html .

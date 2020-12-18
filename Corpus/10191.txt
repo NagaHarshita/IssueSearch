@@ -1,0 +1,1 @@
+ URL : "https://github.com/osycon/chingu-bears-temp/issues/46" TITLE : birth date reset BODY : the birth date in the profile always resets when editing the profile. cause is the startdate value in state that has a value of moment

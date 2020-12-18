@@ -1,0 +1,1 @@
+ URL : "https://github.com/appnexus/lucid/issues/839" TITLE : create lazyload component BODY : ac: - wrap any existing lucid data component - set a data max. if the data provided exceeds the data max, lazy load additional data into the data component. - lazy loan on scroll or on a trigger like click

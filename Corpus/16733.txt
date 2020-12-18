@@ -1,0 +1,1 @@
+ URL : "https://github.com/jstedfast/MailKit/issues/469" TITLE : login failed imap BODY : hello, i have 3 mail address configured in same server, same port and same password. i authenticate both of them, but i could not authenticate other one. can you help me, please?

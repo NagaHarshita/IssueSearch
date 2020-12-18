@@ -1,0 +1,1 @@
+ URL : "https://github.com/MahApps/MahApps.Metro/issues/2924" TITLE : titlebarheight in mvvm BODY : hi, i have short question: how can i change titlebarheight dynamically in mvvm? that's what i want to do: i have one main window and user control's in it, and title bar must be visible with one user control in different cases must be hided. how can i do it? thx for help

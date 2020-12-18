@@ -1,0 +1,1 @@
+ URL : "https://github.com/go-chef/chef/issues/95" TITLE : tag a new release BODY : the new dep https://github.com/golang/dep uses the latest semver http://semver.org/ tag by default. this means it downloads a very old version of github.com/go-chef/chef . it's possible to make dep use the master branch, but it would be easier you'd release versions more frequently.

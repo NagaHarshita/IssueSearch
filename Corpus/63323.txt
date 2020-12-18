@@ -1,0 +1,1 @@
+ URL : "https://github.com/dask/dask/issues/2238" TITLE : docs for imread missing BODY : currently am not seeing imread https://github.com/dask/dask/blob/0.14.1/dask/array/image.py l19 in the api documentation. would be good to get it added there. maybe it also should show up other places too.

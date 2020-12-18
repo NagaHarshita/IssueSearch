@@ -1,0 +1,1 @@
+ URL : "https://github.com/BookingSync/bookingsync-api/issues/110" TITLE : api zip problem BODY : moved from https://github.com/bookingsync/bookingsync-core/issues/2989 fetching zip attribute for rental via the api fields option causes to trigger the zip method and return an array of the object.

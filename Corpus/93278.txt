@@ -1,0 +1,1 @@
+ URL : "https://github.com/Dragontek/octobercms/issues/6" TITLE : add october_db_user option BODY : it would be nice if there was the option to pass the username for a db connection so i could setup some better limitations on different users that are there.

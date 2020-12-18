@@ -1,0 +1,1 @@
+ URL : "https://github.com/D-L-M/whsky/issues/11" TITLE : php 7.0 compatibility BODY : check for and fix bc changes in php 7.0: https://secure.php.net/manual/en/migration70.incompatible.php for v6 of the framework.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/dapassoftware/sbt-cxf/issues/1" TITLE : add support for sbt 1 BODY : cross sbt compilation for 0.13 and 1 should be added.

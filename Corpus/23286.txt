@@ -1,0 +1,1 @@
+ URL : "https://github.com/moira-alert/web2.0/issues/99" TITLE : optmize build size BODY : remove moment locales move library code to vendor.js with dllplugin build only used lodash functions ! image https://user-images.githubusercontent.com/2770182/32406541-4a2bcbea-c19c-11e7-83c2-e2675e26a6e4.png

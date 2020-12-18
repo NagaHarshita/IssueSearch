@@ -1,0 +1,1 @@
+ URL : "https://github.com/NYCPlanning/labs-community-portal/issues/30" TITLE : foundation console warning BODY : getting console warnings like…  js tried to initialize toggler on an element that already has a foundation plugin. …whenever route changes, because {{ initialize-foundation}} is trying to initialize stuff that foundation already knows about.

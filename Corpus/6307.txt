@@ -1,0 +1,1 @@
+ URL : "https://github.com/lastmjs/zwitterion/issues/89" TITLE : add --open flag BODY : it would be nice if you could run zwitterion --open or something similar and it would automatically open a browser window to localhost:8000 or wherever the site is being served. better yet, have this be the default behavior.

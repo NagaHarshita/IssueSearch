@@ -1,0 +1,1 @@
+ URL : "https://github.com/koalalorenzo/python-digitalocean/issues/210" TITLE : ansible package support? BODY : this seems to be more current than the older packages tied into ansible. is there any desire to implement this directly with the ansible modules? https://github.com/ansible/ansible/pull/25105

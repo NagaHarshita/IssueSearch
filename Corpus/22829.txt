@@ -1,0 +1,1 @@
+ URL : "https://github.com/facebook/jest/issues/3137" TITLE : mocha before hook? BODY : mocha supports the before hook. jest generates a fail for every instance

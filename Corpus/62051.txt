@@ -1,0 +1,1 @@
+ URL : "https://github.com/BoschSensortec/BMI160_driver/issues/15" TITLE : can't read bmm150 id??? BODY : hi bosch: how can i configure the bmi160 to read the id of bmm150? shall i need to read/write the register 0x7f? please give me some hints, or demo better.

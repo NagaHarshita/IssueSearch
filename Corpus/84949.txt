@@ -1,0 +1,2 @@
+ URL : "https://github.com/OpenBCI/OpenBCI_GUI/issues/140" TITLE : duplicate library problem BODY : the improt ddf.minim points to multiple libraries.
+what can i do?

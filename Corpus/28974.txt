@@ -1,0 +1,1 @@
+ URL : "https://github.com/joao-carloto/ChromeRobot/issues/2" TITLE : improve ui resizing BODY : the app will not always resize ,according to the browser window, in an appropriate manner.

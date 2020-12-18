@@ -1,0 +1,1 @@
+ URL : "https://github.com/godotengine/godot/issues/9339" TITLE : thread finished signal BODY : instead of having to poll a thread to see if it is finished, it would be very handy to have a signal emited when the thread is finished.

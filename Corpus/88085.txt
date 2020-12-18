@@ -1,0 +1,1 @@
+ URL : "https://github.com/Board-Explorer/board-explorer/issues/45" TITLE : mobile layout improvement BODY : in some resolutions, the drawer shows a gap of the board-viewer layer, also the panel is moving when the scroll is moving down or up: ! screenshot_20170814-161729 1 https://user-images.githubusercontent.com/8356225/29371378-d17c04f2-826d-11e7-9b27-6ef796a0c91d.png

@@ -1,0 +1,1 @@
+ URL : "https://github.com/emmetio/emmet/issues/507" TITLE : custom expand abbreviation BODY : hi ! i want change the result of expand abbreviation. if i type div 3, will be generate <div></div> <div></div> <div></div>. i want if i type div 3 generate div . div > p - > <div> <p> </p> </div> div > p -> div p my intetion, change <div> to div and </div> to .

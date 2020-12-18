@@ -1,0 +1,1 @@
+ URL : "https://github.com/tokio-rs/website/issues/44" TITLE : recenter top nav bar BODY : the top navigation bar is supposed to be centered over the content on desktop at least . it's possible that this was broken in the fixed for mobile https://github.com/tokio-rs/website/commit/8c78712901d3a430ebe0ec8e8147d5b92f3dd291 . we should fix it. cc @jefflembeck

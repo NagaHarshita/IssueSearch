@@ -1,0 +1,1 @@
+ URL : "https://github.com/googleads/googleads-ima-html5/issues/27" TITLE : wrapper tracking urls BODY : i've created an xml with one wrapper element, that redirect to other inline ad. both of them have one tracking event=start. vastv3_0 says that all ad server in chain should be pinged with tracking urls. but when the ad started only inline.tracking event will be pinged.

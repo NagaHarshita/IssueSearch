@@ -1,0 +1,5 @@
+ URL : "https://github.com/urban-idler/CRW_Dev/issues/24" TITLE : no newline at end of file BODY : codacy https://www.codacy.com/app/mdz/crw_dev/commit?cid=122359109 detected an issue: message: no newline at end of file occurred on:
++ commit : 0a0b1adb5450dcfc0418b2636031633f10be5096
++ file : src/utiltime.cpp https://github.com/urban-idler/crw_dev/blob/0a0b1adb5450dcfc0418b2636031633f10be5096/src/utiltime.cpp + linenum : 85 https://github.com/urban-idler/crw_dev/blob/0a0b1adb5450dcfc0418b2636031633f10be5096/src/utiltime.cpp l85 + code : } currently on:
++ commit : 9f5b6e1b0085ac59407d8117768bb252e5058bfa
++ file : src/utiltime.cpp https://github.com/urban-idler/crw_dev/blob/9f5b6e1b0085ac59407d8117768bb252e5058bfa/src/utiltime.cpp + linenum : 85 https://github.com/urban-idler/crw_dev/blob/9f5b6e1b0085ac59407d8117768bb252e5058bfa/src/utiltime.cpp l85

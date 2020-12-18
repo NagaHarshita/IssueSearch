@@ -1,0 +1,1 @@
+ URL : "https://github.com/chrmarti/testissues/issues/10350" TITLE : inline div resets cursor BODY : have a selection reveal the inline diff by clicking the cursor is now set to some other position which is unexpected ! dec-05-2017 12-48-09 https://user-images.githubusercontent.com/1794099/33605556-91ae0f1a-d9ba-11e7-8e12-a71abc34f6ae.gif

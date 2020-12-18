@@ -1,0 +1,1 @@
+ URL : "https://github.com/roukaour/pokecrystal/issues/125" TITLE : overgrow/etc doesn't work BODY : getthirdmaxhp is probably the culprit. noticed this when debugging type matchups -- lyra's chikorita was consistently dealing 11-12 damage when it should have dealt around 7-8. disabling overgrow fixed the issue, so it seems to proc even above 1/3 at the moment.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/aerospike/aerospike-client-rust/issues/7" TITLE : support batch requests BODY : implement support for batch read requests using the batch index protocol http://www.aerospike.com/docs/guide/batch.html batch-index .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/sweetboykk/docker-glusterfs/issues/1" TITLE : cannot use glusterfs BODY : hi, how to fix this problem docker-glusterfs-master/main.go:39: cannot use glusterfs type string as type int in argument to h.handler.serveunix thank you

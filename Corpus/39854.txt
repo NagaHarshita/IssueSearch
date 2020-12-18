@@ -1,0 +1,1 @@
+ URL : "https://github.com/Ayesh/php-timer/issues/3" TITLE : suggestion: get keys BODY : when reading a timer key that has not been started, an exception is thrown. maybe it's a nice addition to get all timer keys that have been started.

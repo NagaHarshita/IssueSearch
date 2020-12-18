@@ -1,0 +1,1 @@
+ URL : "https://github.com/django-notifications/django-notifications/issues/163" TITLE : tag version 1.2 in git BODY : the git tags only has tags up to version 1.1, so i can't checkout the latest stable release.

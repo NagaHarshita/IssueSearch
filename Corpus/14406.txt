@@ -1,0 +1,1 @@
+ URL : "https://github.com/DockStation/dockstation/issues/15" TITLE : after refresh bug BODY : exception. attempting to call a function in a renderer window that has been closed or released. function provided here: undefined

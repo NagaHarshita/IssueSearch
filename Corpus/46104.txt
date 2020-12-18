@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/vscode-css-languageservice/issues/46" TITLE : less validation error BODY : .px2rem @name, @px { @{name}: @px / @basesize; } 提示： less } expected less at-rule or selector expected 请支持less的这种写法，谢谢

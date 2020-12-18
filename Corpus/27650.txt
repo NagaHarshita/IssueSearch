@@ -1,0 +1,1 @@
+ URL : "https://github.com/tersejs/terse/issues/42" TITLE : don't stub console. BODY : if the user decides to do this, fine. but for our purposes, things can be too noisy. instead, someone should use import console from @terse/debug or something.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Robert8944/sqsg6/issues/43" TITLE : remove vestigial code BODY : there are some function calls, database executes, and other misc code that is left over from features we removed or over-wrote. there are also some helper files like 'docroottest.php' that need to be removed.

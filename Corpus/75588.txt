@@ -1,0 +1,1 @@
+ URL : "https://github.com/silas/node-jenkins/issues/46" TITLE : how to get build number? BODY : get build information. options name string : job name number integer : build number usage jenkins.build.get 'example', 1 , function err, data { if err throw err; console.log 'build', data ; } ;

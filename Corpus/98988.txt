@@ -1,0 +1,1 @@
+ URL : "https://github.com/MatiasVara/torokernel/issues/108" TITLE : loops consumes 100% of cpu BODY : we observed that loops consume 100% in hyperv and vmware. we should use relax the cpu in those cases. this is fixed by 105

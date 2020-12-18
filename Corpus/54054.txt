@@ -1,0 +1,1 @@
+ URL : "https://github.com/LeShoe/CorviOfChaos/issues/2" TITLE : fehler beim ausführen BODY : aufruf scheitert mit: traceback most recent call last : file main.py , line 178, in <module> lobby = room lobby , rooms/klassenzimmer_test_0.png file main.py , line 28, in __init__ self.background = pygame.image.load skin pygame.error: couldn't open rooms/klassenzimmer_test_0.png

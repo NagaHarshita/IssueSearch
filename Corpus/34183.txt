@@ -1,0 +1,1 @@
+ URL : "https://github.com/shuup/shuup/issues/1163" TITLE : cache product prices BODY : i believe caching product prices would greatly improve the front performance. this is also pretty much blocking the product price sorting without custom project specific hacks .

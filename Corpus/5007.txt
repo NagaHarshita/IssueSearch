@@ -1,0 +1,1 @@
+ URL : "https://github.com/mattes/migrate/issues/317" TITLE : issue with cli BODY : i have been trying to run migrate cli to run migrations but unfortunately it throws error: no scheme error: migrate -database $ cat db/config.json | jq '.database' -source db/migrations -verbose up

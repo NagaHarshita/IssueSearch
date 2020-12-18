@@ -1,0 +1,1 @@
+ URL : "https://github.com/ArcticaProject/arctica-greeter/issues/8" TITLE : packages not found BODY : no package 'libayatana-ido3-0.4' found no package 'ayatana-indicator3-0.4' found i have those installed in /usr/lib/ as indicator3 and ido3. is it looking for a lib file with libayatana et al

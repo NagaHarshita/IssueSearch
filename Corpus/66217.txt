@@ -1,0 +1,1 @@
+ URL : "https://github.com/3drepo/3drepobouncer/issues/224" TITLE : memory leak on genstash BODY : in bouncer tools, we are leaking memory in genstash function because we're not deleting the scene after it's done with it

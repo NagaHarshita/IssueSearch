@@ -1,0 +1,1 @@
+ URL : "https://github.com/vuetifyjs/vuetify/issues/636" TITLE : keyup event in text field BODY : <v-text-field append-icon= credit_card label= monto hide-details v-model= ammount @keyup.enter= processplay /> greetings, i have tried to place a keyup event and it does not take ¿ any idea ?, try with v-on and it does not work either

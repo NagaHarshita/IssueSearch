@@ -1,0 +1,1 @@
+ URL : "https://github.com/yshrkt/VuforiaSampleSwift/issues/33" TITLE : scn object shaky BODY : the plane and the cube are fairly stable, however when i add an scn object, it is very unstable i.e. it moves around with the camera. could you look into this? p.s. great project overall!

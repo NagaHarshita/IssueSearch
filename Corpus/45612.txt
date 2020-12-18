@@ -1,0 +1,1 @@
+ URL : "https://github.com/einsteinx2/iSub/issues/99" TITLE : improve drag and drop BODY : there are some random issues: 1. scrolling up and down the play queue when dragging seems to have some problems 2. sometimes pressing too hard with force touch seems to cancel the drag 3. investigate using ios 11 built in drag and drop for ios 11 devices and up.

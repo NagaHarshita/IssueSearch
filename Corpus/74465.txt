@@ -1,0 +1,1 @@
+ URL : "https://github.com/sloansparger/webpack-wordpress/issues/4" TITLE : error with npm run build BODY : module build failed: body { ^ invalid css after body { : expected } , was {}

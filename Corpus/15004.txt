@@ -1,0 +1,1 @@
+ URL : "https://github.com/JiangLiNSCC/eHPC/issues/25" TITLE : command api safty BODY : 目前为了方便使用 ， command api 采用了 bash -c -l xxx 的 简化处理方案。 现在觉得这种方案如果直接提供给用户进行命令拼接，可能会带来注入式攻击漏洞。 后面将提供不同的post 表单格式来给用户使用。

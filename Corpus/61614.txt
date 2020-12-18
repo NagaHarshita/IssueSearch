@@ -1,0 +1,1 @@
+ URL : "https://github.com/keboola/kbc-project-backup/issues/3" TITLE : better logging messages BODY : ! image https://user-images.githubusercontent.com/497675/30368523-ae02535e-9871-11e7-8503-8f8727f0a38b.png 1 table 0/4 .. 3/4 => 1/4 .. 4/4 2 no need for ok messages and they are in reverted order in events , eg. configurations ok => eg. downloading configurations

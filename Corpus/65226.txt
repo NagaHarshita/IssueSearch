@@ -1,0 +1,1 @@
+ URL : "https://github.com/elmot/cubemx-clion/issues/14" TITLE : improve openocd console BODY : - color console - log exit report - restart

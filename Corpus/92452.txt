@@ -1,0 +1,1 @@
+ URL : "https://github.com/conradev/plist-rs/issues/6" TITLE : write a custom xml parser BODY : see https://github.com/libimobiledevice/libplist/issues/83 the goal would be to mimic cfbinaryplist.c https://github.com/apple/swift-corelibs-foundation/blob/master/corefoundation/parsing.subproj/cfbinaryplist.c in behavior, and sidestep 4

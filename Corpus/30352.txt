@@ -1,0 +1,1 @@
+ URL : "https://github.com/fcanas/LiveStreamParser/issues/3" TITLE : parse iso8601 dates BODY : nsiso8601dateformatter may be problematic. and formatters are possibly slow. it may be nice to have injectable date parsing, since this is likely something that any project that wants to include hls parsing may have their own approach and requirements around date parsing.

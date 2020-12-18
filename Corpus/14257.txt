@@ -1,0 +1,1 @@
+ URL : "https://github.com/TSheetsTeam/ts-ui/issues/2" TITLE : add per branch ci BODY : need to add per branch ci that distinguishes which tasks need to be run. for example there's no need to publish on feature and develop branch.

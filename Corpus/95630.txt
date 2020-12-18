@@ -1,0 +1,1 @@
+ URL : "https://github.com/vaadin/vaadin-control-state-mixin/issues/26" TITLE : deprecate focused property BODY : the focused state should not end up in public api. instead document || shadowroot .activeelement standard dom api should be used to find focused element. focus change notification triggers standard focus events.

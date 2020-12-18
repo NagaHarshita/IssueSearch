@@ -1,0 +1,20 @@
+ URL : "https://github.com/iotaledger/android-wallet-app/issues/69" TITLE : mobile app closes BODY : description:
+--- mobile app jist crashes as you enter the seed. using latest app available from official iota app store for android device info:
+---
+<table>
+<tr><td>app version</td><td>0.7</td></tr>
+<tr><td>app version code</td><td>7000</td></tr>
+<tr><td>android build version</td><td>16054235401ba</td></tr>
+<tr><td>android release version</td><td>6.0</td></tr>
+<tr><td>android sdk version</td><td>23</td></tr>
+<tr><td>android build id</td><td>mra58k</td></tr>
+<tr><td>device brand</td><td>lge</td></tr>
+<tr><td>device manufacturer</td><td>lge</td></tr>
+<tr><td>device name</td><td>g4stylusn</td></tr>
+<tr><td>device model</td><td>lg-h635</td></tr>
+<tr><td>device product name</td><td>g4stylusn_global_com</td></tr>
+<tr><td>device hardware name</td><td>g4stylusn</td></tr>
+<tr><td>abis</td><td> armeabi-v7a, armeabi </td></tr>
+<tr><td>abis 32bit </td><td> armeabi-v7a, armeabi </td></tr>
+<tr><td>abis 64bit </td><td> </td></tr>
+</table>

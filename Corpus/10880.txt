@@ -1,0 +1,1 @@
+ URL : "https://github.com/lategoodbye/rpi-zero/issues/22" TITLE : dt: disable i2c0 BODY : the gpu firmware of the raspberry pi 3 uses i2c0 to communicate to the fxl6408 gpio expander. it is a bad idea to also use this interface from the arm side. so avoid any conflict by disabling it. please look at https://github.com/anholt/linux/issues/89 for any further details.

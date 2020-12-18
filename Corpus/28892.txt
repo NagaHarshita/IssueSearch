@@ -1,0 +1,1 @@
+ URL : "https://github.com/shadowsocks/shadowsocks-windows/issues/1058" TITLE : implement aes- -gcm BODY : is there any particular reason that this c port has only implemented chacha20- , but not aes- -gcm? especially since aes-128-gcm is the fastest among the aead schemes,

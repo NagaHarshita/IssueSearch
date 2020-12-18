@@ -1,0 +1,13 @@
+ URL : "https://github.com/Zimmi48/bugzilla-test/issues/1392" TITLE : library.ps, all-docs.tar ? BODY : note: the issue was created automatically with bugzilla2github tool bugzilla bug id: 786
+date: 2004-06-02 08:40:53 +0200
+from: puitg@imag.fr
+to: last updated: 2004-06-02 08:40:53 +0200 bugzilla comment id: 943
+date: 2004-06-02 08:40:53 +0200
+from: puitg@imag.fr full_name: françois puitg
+version: 8.0
+os: amd linux
+submission from: pc-puitg.imag.fr 147.171.130.109 il semble qu'il manque des bouts de doc sur le serveur ftp : le listing des
+fichiers gallina de la bibliothèque standard et all-docs.tar mentionné dans
+le readme des sources. bugzilla comment id: 944
+date: 2007-07-04 17:03:39 +0200
+from: puitg@imag.fr c'est le readme qui n'était pas à jour maj dans cvs v8-0-bugfix

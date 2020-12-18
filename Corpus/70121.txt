@@ -1,0 +1,1 @@
+ URL : "https://github.com/ataylorme/Advanced-WordPress-on-Pantheon/issues/63" TITLE : upgrade to circleci 2.0 BODY : benefits will include faster builds as well as parallel jobs/testing. migration guide https://circleci.com/docs/2.0/migrating-from-1-2/ workflows doc https://circleci.com/docs/2.0/workflows/

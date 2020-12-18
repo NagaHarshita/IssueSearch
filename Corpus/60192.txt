@@ -1,0 +1,1 @@
+ URL : "https://github.com/theJollySin/csv2map/issues/10" TITLE : works with python 3.x? BODY : i want to re-target the python versions > 3.2. i believe i wrote the project originally under python 2.7, but it's so small it should be easy to update.

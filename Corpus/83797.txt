@@ -1,0 +1,1 @@
+ URL : "https://github.com/cmip6dr/CMIP6_DataRequest_VariableDefinitions/issues/256" TITLE : cmip6dreq svn repo change BODY : it seems that the url to the subversion repo which used to be located at http://proj.badc.rl.ac.uk/svn/exarch/cmip6dreq/trunk is no longer working. has a remapping occurred? @nadeau4 @taylor13

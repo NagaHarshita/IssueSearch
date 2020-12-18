@@ -1,0 +1,1 @@
+ URL : "https://github.com/ChrisRockC/MyWiki/issues/170" TITLE : string <==> array BODY : 将string字符串转换为array数组 nsarray array = str componentsseparatedbystring:@ , ;--分隔符 将array数组转换为string字符串 nsstring str = array componentsjoinedbystring:@ , ;--分隔符

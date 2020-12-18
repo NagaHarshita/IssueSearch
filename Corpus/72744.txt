@@ -1,0 +1,1 @@
+ URL : "https://github.com/jaknu/registryfront/issues/17" TITLE : catch 401 ajax responses BODY : it would be nice if registryfront could catch 401's returned from backend and display a non-invasive message instead of the browser modal.

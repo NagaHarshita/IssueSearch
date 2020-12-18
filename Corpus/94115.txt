@@ -1,0 +1,1 @@
+ URL : "https://github.com/Noejoaquin/EventLite/issues/8" TITLE : bookmark events redux loop BODY : allow the front end to send requests to the backend so as to save/bookmark as well as unsave events. make sure this information is in the redux store

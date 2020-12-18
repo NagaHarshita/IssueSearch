@@ -1,0 +1,1 @@
+ URL : "https://github.com/skeate/Leaflet.buffer/issues/68" TITLE : npm package wont import BODY : i tried import your package as an es6 module, but it kept failing in webpack. had a dig in your package.json and your main property was index.js changed this main : index.js to main : dist/leaflet.buffer.min.js and all is working. thanks for the awesome plugin.

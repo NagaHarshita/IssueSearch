@@ -1,0 +1,1 @@
+ URL : "https://github.com/filipemeneses/fatec-api/issues/4" TITLE : scrap enrolled subjects BODY : create a method to account : .getenrolledsubjects to scrap data from: ! image https://user-images.githubusercontent.com/10226292/34017240-075b7c04-e10c-11e7-8609-1d71ebc60938.png available at /aluno/horario.aspx . > if had an recent scrap, return it. if not, scrap again.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/siwalikm/coffitivity-offline/issues/3" TITLE : tracks arent looping BODY : how to replicate: - open app - select 'morning murmur' - play until the end of the track ~20-30 minutes. - the track will finish and not start again.

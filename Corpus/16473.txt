@@ -1,0 +1,1 @@
+ URL : "https://github.com/egordorichev/blog/issues/3" TITLE : intro into love2d BODY : test todo lua function love.load end function love.draw end function love.update dt end function love.quit end

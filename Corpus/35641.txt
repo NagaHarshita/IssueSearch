@@ -1,0 +1,1 @@
+ URL : "https://github.com/sipcapture/hepipe.js/issues/10" TITLE : esl dirty db cleanup BODY : improve cleanup of dirty.db for esl to drop correlation or add expire to entries and do periodic drop

@@ -1,0 +1,1 @@
+ URL : "https://github.com/haxwell/eog-mobile/issues/5" TITLE : please wait dialogs.. BODY : need to test, and ensure, that if the api call which necessitated a please wait dialog, if it returns in error, the dialog is cleared, and the ui is still in a usable state.

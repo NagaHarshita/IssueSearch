@@ -1,0 +1,1 @@
+ URL : "https://github.com/MayBeTall/Alexa-PHP-Endpoint/issues/2" TITLE : sessions don't save? BODY : alexa::remember 'color', $color ; alexa::recall 'color' ; works fine, but once you stop talking to alexa, and try to talk to it again, it doesnt remember. what am i doing wrong?

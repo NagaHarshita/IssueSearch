@@ -1,0 +1,1 @@
+ URL : "https://github.com/griefly/griefly/issues/379" TITLE : posthtmlfor in chat class BODY : because various actions request a special html formatting me emote, medical analyzer and it is inconvenient to add a new function for every such action in char class.

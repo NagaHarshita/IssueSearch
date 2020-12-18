@@ -1,0 +1,1 @@
+ URL : "https://github.com/zaggino/brackets-eslint/issues/58" TITLE : dead link in readme BODY : the first link in the how to configure section in the readme is dead 404 not found . this one https://github.com/adobe/brackets/blob/master/.eslintrc.json

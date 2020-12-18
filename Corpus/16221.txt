@@ -1,0 +1,1 @@
+ URL : "https://github.com/shamshirz/dotfiles/issues/1" TITLE : i should use this BODY : standup = log --since yesterday --oneline --author caius http://blog.apiaxle.com/post/handy-git-tips-to-stop-you-getting-fired https://github.com/caius/zshrc/blob/master/dotfiles/gitconfig

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mindbender-studio/core/issues/164" TITLE : optimize alembic export BODY : goal to speed up the alembic export motivation having maya updating the view port for each frame makes the alembic export sometimes very slow even for light objects.

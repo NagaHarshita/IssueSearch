@@ -1,0 +1,1 @@
+ URL : "https://github.com/virajbdeshpande/AmpliconArchitect/issues/1" TITLE : data repo url seems broken BODY : wget https://googledrive.com/host/0byycg0axx7uddu0yt1fdz1dieuk/data_repo.tar.gz doesn't work for me it seems the url is wrong, am i doing something wrong?

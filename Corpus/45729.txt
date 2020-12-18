@@ -1,0 +1,1 @@
+ URL : "https://github.com/dunbarcyber/cyphondock/issues/34" TITLE : injest data from json BODY : hi team, i'm wanting to import an a json file on regular intervals into cyphon for intel... such as https://www.reddit.com/r/netsec/.json however, i'm hitting a brick wall.... can you point me in the right direction?

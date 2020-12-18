@@ -1,0 +1,1 @@
+ URL : "https://github.com/BebeSparkelSparkel/functional_pipes/issues/5" TITLE : __add__ pipes method BODY : be able to string pipes together. combined = pipe_1 + pipe_2 combined is now pipe_1 flowing into pipe_2

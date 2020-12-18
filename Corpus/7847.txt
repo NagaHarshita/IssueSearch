@@ -1,0 +1,1 @@
+ URL : "https://github.com/Tucker-Eric/EloquentFilter/issues/23" TITLE : just a heads up BODY : i just did a test upgrade to l5.4 and your package caused a few errors. i'm not going to be working on the latest version for my current project so don't have time at the mo to fix and submit a pr but figured i'd give you a heads up!

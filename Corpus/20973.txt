@@ -1,0 +1,1 @@
+ URL : "https://github.com/mriedmann/humhub-docker/issues/3" TITLE : disable debug mode BODY : in administration > information there is an alert: humhub is currently in debug mode. disable it when running on production! see installation manual for more details. it's possible to start without debug?

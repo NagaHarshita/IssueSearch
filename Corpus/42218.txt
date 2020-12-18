@@ -1,0 +1,1 @@
+ URL : "https://github.com/necolas/react-native-web/issues/351" TITLE : animated doesn't work BODY : what is the current behavior? https://codepen.io/anon/pen/lxravr?editors=0011 text should fade out. i am not sure if it's a react-native-web or animatedjs problem.

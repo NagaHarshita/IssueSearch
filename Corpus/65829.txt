@@ -1,0 +1,1 @@
+ URL : "https://github.com/bodymovin/bodymovin/issues/419" TITLE : linecap.json typo error BODY : javascript oneof : { standsfor : butt , //two butt value : 1 }, { standsfor : round , value : 2 }, { standsfor : butt , //two butt value : 3 }

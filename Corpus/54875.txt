@@ -1,0 +1,1 @@
+ URL : "https://github.com/andrewgaul/s3proxy/issues/198" TITLE : how to stub a response BODY : i am using this library in a java project and want to stub a response. something like do this when this happens . can you please point me to a documentation as to how to do it?

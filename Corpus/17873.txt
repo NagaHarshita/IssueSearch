@@ -1,0 +1,1 @@
+ URL : "https://github.com/drnobodyphd/DingViz/issues/4" TITLE : ring view feature BODY : when viewing nodes in ring ? mode, packets with greater rssi are set in towards the center more. perhaps automatic scaling over an adjustable distance? ie, you cant set the distance to the center via slider, nodes scale appropriately..

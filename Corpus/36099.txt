@@ -1,0 +1,1 @@
+ URL : "https://github.com/wagnerfilho1995/FolhaDePagamento/issues/2" TITLE : função 2 - remover BODY : static employee remove employee emp, int j { emp j .name = null; emp j .address = null; emp j .type = 0; emp j .payment = 0; emp j .payday = 0; emp j .workhours = 0; emp j .id = -1; / tag -1 para indentificar posição livre no array de empregados / return emp; }

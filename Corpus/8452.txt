@@ -1,0 +1,1 @@
+ URL : "https://github.com/Geodan/3dfier-tiles/issues/2" TITLE : offset in tiles BODY : the upperleft and lowerright corners of the tile show an offset due to reprojection because the bounding box is only given in lowerleft and upperright coordinates. this seems an issue with the 3d-tiles spec although it it hard to imagine that they oversaw this.

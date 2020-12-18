@@ -1,0 +1,1 @@
+ URL : "https://github.com/uksf/launcher-issues/issues/2" TITLE : add steam workshop support BODY : - add ability to whitelist mod names for steam workshop remote repo - add ability to use workshop version of mod if mod does not already exist in repo path local repo

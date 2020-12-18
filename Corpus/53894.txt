@@ -1,0 +1,1 @@
+ URL : "https://github.com/fawkesjs/fawkesjs/issues/7" TITLE : express route crashing BODY : using route /account/{accountid} and /account/me/ might cause /account/me to resolve to another route /account/{accountid}

@@ -1,0 +1,1 @@
+ URL : "https://github.com/saifelse/coffeelint-no-implicit-returns/issues/12" TITLE : add coffeescript 2 support BODY : we just upgraded to coffeescript 2 and now coffeelint-no-implicit-returns is failing with the following error: code.body.lastnoncomment is not a function .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/runartrollet/pdf_form_fill/issues/12" TITLE : roomsuggestions is broken BODY : main.js:5133 uncaught typeerror: this.remote.url.replace is not a function

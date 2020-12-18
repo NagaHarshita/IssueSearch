@@ -1,0 +1,1 @@
+ URL : "https://github.com/grahamcrowell/csv_profiler/issues/3" TITLE : file line count BODY : add get line count method to file class

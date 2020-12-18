@@ -1,0 +1,1 @@
+ URL : "https://github.com/b3log/symphony/issues/505" TITLE : 帖子使用 ipfs 保存 BODY : 使用 ipfs 来保存帖子 md（hexo 格式），用户可以永久访问到自己/其他人发布的帖子（还可通过 ipfs 导出）。 ipfs 存储路径 /ipns/{ipns_name}/{dir}/{user}/{article}.md {ipns_name}：绑定的域名或节点 id {dir}：在 sym.props 中配置的目录名，留空则表示不导出 ipfs {user}：用户名 {article}：帖子标题

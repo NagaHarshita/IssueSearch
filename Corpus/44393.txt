@@ -1,0 +1,1 @@
+ URL : "https://github.com/BuiltByBig/chimera-manager/issues/20" TITLE : event category filter BODY : allow hiding certain categories in the calendar by clicking a button to enable/disable them. store these settings in a flag and have buttons show current state.

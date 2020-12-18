@@ -1,0 +1,1 @@
+ URL : "https://github.com/FrozenDroid/FrozenGun/issues/13" TITLE : idea arena info BODY : add cmd /pluginname arena info <arena name> this will prompt: arena name arena creator specified in arena setup, as the one setting up might not be the arena creator win limit size amount of spawnpoints weapon reach fetch from selected gun

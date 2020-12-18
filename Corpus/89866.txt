@@ -1,0 +1,1 @@
+ URL : "https://github.com/52North/sensorweb-client-core/issues/14" TITLE : rename interface service. BODY : please rename interface service. there might be conflicts occuring when integrating more interface services. maybe 'n52timeseriesrestapiinterface'.

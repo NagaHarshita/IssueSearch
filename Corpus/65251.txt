@@ -1,0 +1,1 @@
+ URL : "https://github.com/jayhogan/clicklist-alexa/issues/3" TITLE : improve welcome message BODY : the welcome message is weak and not very helpful. add a few more details and use ssml tags to improve the speech quality.

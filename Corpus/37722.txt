@@ -1,0 +1,1 @@
+ URL : "https://github.com/eragonruan/text-detection-ctpn/issues/42" TITLE : model can't converge BODY : use the same dataset, after updating the newest code, it can't converge, why?

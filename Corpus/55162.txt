@@ -1,0 +1,1 @@
+ URL : "https://github.com/fliphub/fliplog/issues/14" TITLE : improve deps even more BODY : - localize some of them - interactive option when missing dep, or logging that it is missing with line to install - optionaldependencies and just safely require them all

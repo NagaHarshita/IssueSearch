@@ -1,0 +1,1 @@
+ URL : "https://github.com/Awalz/SwiftyCam/issues/49" TITLE : front flash bug BODY : when taking a front facing picture in the dark with flash on, the flash only shows for a brief second, and goes away before the picture is even taken, resulting in a dark photo. any way to make the flash last until the picture is taken?

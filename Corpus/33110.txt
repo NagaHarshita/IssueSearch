@@ -1,0 +1,1 @@
+ URL : "https://github.com/sergiusens/telegram-snap/issues/4" TITLE : accents doesn't work BODY : accents as produced by an es-traditional layout doesn't work in the text input of the chat and search. it shows the letter without the accent a instead of á and checking on the phone it doesn't show the accent on mobile either. other characters like the ñ show correctly.

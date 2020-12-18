@@ -1,0 +1,1 @@
+ URL : "https://github.com/udacity/robotics-beta-test-issues/issues/386" TITLE : pick and place project BODY : in the readme.md file , change $ ./safe_spawner to $ ./safe_spawner.sh

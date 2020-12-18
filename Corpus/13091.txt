@@ -1,0 +1,1 @@
+ URL : "https://github.com/lbolla/emacs-flycheck-flow/issues/29" TITLE : support for rjsx BODY : can you add support for rjsx-mode ? i'm using flycheck-flow for react with the rjsx-mode package. i tried it out and it seems to work fine. if you're okay with it, would you like me to issue a pr? thanks!

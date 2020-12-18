@@ -1,0 +1,1 @@
+ URL : "https://github.com/JeremyBakker/nss-backendCapstone/issues/21" TITLE : user can view negations BODY : given the user visits the homepage when the homepage renders and the user hovers over the earnings line graph then the user will be able to view the count of negations in the question and answer section of the earnings transcript identified by the hover

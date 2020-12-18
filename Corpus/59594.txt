@@ -1,0 +1,1 @@
+ URL : "https://github.com/dgvncsz0f/pydhcplib/issues/4" TITLE : update install process BODY : to install on centos7 i have to: - modify setup.py line 1 should be ' !/usr/bin/env python2.7. - install gcc yum install gcc - install python dev tools yum install python-devel - run setup /setup.py install

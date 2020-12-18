@@ -1,0 +1,1 @@
+ URL : "https://github.com/younata/Firmata/issues/1" TITLE : no package.swift found BODY : hi, younata. i import climate-0.3.0 file in package folder. and run all sudo command as per instruction but. when use swift build command show the error no package.swift found so how i resolve it. and thank for give suggestion for swift firmata

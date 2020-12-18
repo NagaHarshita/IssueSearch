@@ -1,0 +1,1 @@
+ URL : "https://github.com/coduno/docker-volume-gcs/issues/1" TITLE : fails to install on mac BODY : $ go get github.com/coduno/docker-volume-gcs package github.com/docker/docker/pkg/sockets: cannot find package github.com/docker/docker/pkg/sockets in any of: /usr/local/cellar/go/1.8.3/libexec/src/github.com/docker/docker/pkg/sockets from $goroot

@@ -1,0 +1,1 @@
+ URL : "https://github.com/eligantRU/CG/issues/37" TITLE : res для release BODY : вообще, хранить собранный проект на репозитории не стоит, но раз уж я это делаю, то .exe в release должен запускаться без проблем...чего не наблюдается из-за забытых ресурсов res в labyrinth/res стоит разместить debug/release версии dll, а их копирование настроить через post-build events

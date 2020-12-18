@@ -1,0 +1,1 @@
+ URL : "https://github.com/ihaveamac/screenshot-merge/issues/2" TITLE : error when running tool BODY : error: string ? :153: attempt to perform arithmetic on a nil value multiple screenshots on my sd card root from ntr with bot_xxxx.bmp and top_xxxx.bmp as file names, using n3ds on version 11.3 with luma & a9lh. it only creates the screenshots-merged folder.

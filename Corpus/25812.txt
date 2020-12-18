@@ -1,0 +1,1 @@
+ URL : "https://github.com/teamrsm/analytic-spraydown/issues/9" TITLE : add change tracking BODY : every time a user opens the app or triggers a refresh from mountain project whatever we decide to do , whatever new ticks are found should be added to the db

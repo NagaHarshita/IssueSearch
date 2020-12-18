@@ -1,0 +1,1 @@
+ URL : "https://github.com/jacobwilliams/bspline-fortran/issues/31" TITLE : fancier cmake config file BODY : update the cmake config file to enable more control of the build.

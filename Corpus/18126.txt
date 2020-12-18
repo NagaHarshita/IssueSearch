@@ -1,0 +1,1 @@
+ URL : "https://github.com/song940/node-escpos/issues/66" TITLE : slow image print? BODY : this seems to work well with my printer but there's nearly a minute of delay before it starts printing. is there a way to make it print as soon as i start the command? thanks!

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ibi8588/vagabond-STEPS-app/issues/45" TITLE : no auth for comments BODY : set admin class in comment model to auth comments by user for edit, new, and update methods.

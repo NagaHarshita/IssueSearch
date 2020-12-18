@@ -1,0 +1,1 @@
+ URL : "https://github.com/cs361fall2017/team21/issues/66" TITLE : test java classes BODY : card: as a developer, i want to confirm that the classes work as expected without having to play an entire game. conversation - test class methods confirmation: - 80% code coverage - tests pass and fail when expected

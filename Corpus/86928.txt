@@ -1,0 +1,1 @@
+ URL : "https://github.com/vspinu/polymode/issues/130" TITLE : indent-region not working BODY : within an inner mode c++ if i run 'indent-region' it doesn't appear to do anything, however if i indent each line one at a time it behaves as expected.

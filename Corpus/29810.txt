@@ -1,0 +1,1 @@
+ URL : "https://github.com/BD2KGenomics/toil-vg/issues/253" TITLE : move repo to vgteam BODY : since we're basically doing vg bindings and recommended cloud workflows for vg, ucsc wants vgteam to be in charge to this repo. @ekg, do you think this is a good idea?

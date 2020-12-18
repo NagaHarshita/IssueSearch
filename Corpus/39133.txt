@@ -1,0 +1,1 @@
+ URL : "https://github.com/bitfinexcom/bitfinex-api-node/issues/63" TITLE : rest post only order BODY : hi. is it possible to send 'is_postonly: true' via this rest api?

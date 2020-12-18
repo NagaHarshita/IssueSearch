@@ -1,0 +1,1 @@
+ URL : "https://github.com/opencaching/okapi/issues/454" TITLE : files with execute bit ? BODY : apparently some files get deployed with execute bit set. is this intentional or a mishap? ./services/caches/search/all.xml -rwxr-xr-x ./services/caches/search/searching.inc.php -rwxr-xr-x

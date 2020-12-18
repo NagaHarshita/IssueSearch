@@ -1,0 +1,1 @@
+ URL : "https://github.com/donwojtallo/ev3dev-snake-js/issues/4" TITLE : game won't play BODY : i am new to brickman and all of this so i apologize for my ignorance. i have the files installed but when i select to run the - run-game.sh the screen shows an error stating that fitle is not a directory or an executable. any idea on what i am doing wrong?

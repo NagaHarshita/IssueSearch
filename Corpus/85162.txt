@@ -1,0 +1,7 @@
+ URL : "https://github.com/exporl/apex3/issues/56" TITLE : error handling guidelines BODY : https://trello.com/c/tx4k8tdr/94-error-handling-guidelines - nearly never use qfatal as nobody is going to see your message on windows,
+- either use qccritical + return of safe value if you cannot throw an exception,
+- or throw an exception and make sure it is catched and added to the error log with qccritical
+- log weird conditions that are not worth aborting with qcwarning, and continue
+- log a message that should be user visible with qcinfo
+- log anything that can help debugging with qcdebug
+- never use assert if you can otherwise check the conditions, asserts are not included in release builds!

@@ -1,0 +1,1 @@
+ URL : "https://github.com/judge2020/BattleNetUpdateChecker/issues/1" TITLE : use new url format BODY : the current method may not be reliable enough, an example request currently: ! image https://cloud.githubusercontent.com/assets/8601934/22113700/2961aa6a-de35-11e6-911d-69b126f8c1ee.png the /connect/en/app/... may not work for the future

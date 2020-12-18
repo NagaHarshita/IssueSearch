@@ -1,0 +1,1 @@
+ URL : "https://github.com/QCoDeS/Qcodes/issues/751" TITLE : dont auto limit colorbar. BODY : the user may have done this on purpose to filter outlier replace wrappers in qdev-dk with call to new function make autolimit of colorbars optional or disable it completely

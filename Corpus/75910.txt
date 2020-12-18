@@ -1,0 +1,1 @@
+ URL : "https://github.com/SoftwareSyndicate/syndicate-ui/issues/3" TITLE : implement relative sizes BODY : the ui library should have a base font-size, then scale other sizes automatically with ems or rems, or whatever. i.e button.xs font size should be .8em or maybe a calculation on a default, or maybe it's own variable.

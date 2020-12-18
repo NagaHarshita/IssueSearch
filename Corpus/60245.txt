@@ -1,0 +1,1 @@
+ URL : "https://github.com/ovidiumihaibelciug/AdvancedBlogCMS/issues/1" TITLE : wrong vue.use location BODY : https://github.com/ovidiumihaibelciug/advancedblogcms/blob/a81fbe79bd76f9417273a17f216ed372e8d171b9/resources/assets/js/app.js l10-l14 you shouldn't be calling the vue.use method after creating a new vue instance.

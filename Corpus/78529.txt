@@ -1,0 +1,1 @@
+ URL : "https://github.com/Sixmorphugus/MAGE/issues/14" TITLE : put mage in a namespace? BODY : in gitlab by @sixmorphugus on nov 30, 2016, 01:57 created by: sixmorphugus most libraries are in namespaces. mage's class names are pretty generic - i could see them conflicting with other things. logically, this is a good idea. however, it'll be effort.

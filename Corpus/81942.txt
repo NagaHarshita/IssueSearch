@@ -1,0 +1,1 @@
+ URL : "https://github.com/kaitai-io/kaitai_struct/issues/167" TITLE : add 7-zip .7z file format BODY : documentation on the file format: see /doc/7zformat.txt within the latest sdk available for download at http://www.7-zip.org/sdk.html branch containing draft specification: https://github.com/davidhicks/kaitai_struct_formats/tree/7z

@@ -1,0 +1,1 @@
+ URL : "https://github.com/pupil-labs/PyAV/issues/6" TITLE : python 3.5 wheel BODY : considering pupil-labs developer docs are python 3.5 but the built-wheel is for python 2.7, is there a possibility to get a pre-built python 3.5 wheel in order to avoid the tedious build-steps ?

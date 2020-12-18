@@ -1,0 +1,1 @@
+ URL : "https://github.com/botanicus/now-task-manager/issues/94" TITLE : parse the review files BODY : extended markdown. ruby archive.first.day.review.expenses => <expense:id>, ... then create a template for review.

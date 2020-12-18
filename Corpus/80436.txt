@@ -1,0 +1,1 @@
+ URL : "https://github.com/jaxio/celerio-angular-quickstart/issues/30" TITLE : travis: make chrome work BODY : we need chrome to start when doing ci with travis

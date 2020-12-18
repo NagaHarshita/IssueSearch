@@ -1,0 +1,1 @@
+ URL : "https://github.com/gustavonovaes/SMR/issues/48" TITLE : tela para gerenciar jobs BODY : - jobby.php recebe --parametro que sincroniza os jobs com tabela do db mantendo seus status. - administradores alteram status via sistema.

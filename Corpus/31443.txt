@@ -1,0 +1,1 @@
+ URL : "https://github.com/ANSSI-FR/bootcode_parser/issues/2" TITLE : signing git commits BODY : with a project like this it may make sense to use git 's gpg singing feature to verify the integrity of the code itself. https://git-scm.com/book/en/v2/git-tools-signing-your-work just an idea.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jjwyse/jornet/issues/1" TITLE : add login ability BODY : description initial login page and functionality. should support only oauth'ing in with strava for now. this should create user session and for first time logins, create the user in our data store.

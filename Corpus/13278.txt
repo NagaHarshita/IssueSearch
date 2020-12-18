@@ -1,0 +1,1 @@
+ URL : "https://github.com/RandomComm3nt/SchoolSim/issues/79" TITLE : tiles out of map BODY : now that characters leave the map overnight, we need to handle characters off the map. added an outofmaptilecontroller class for now, but some things break because this isn't properly handled. e.g. currenttile returns null. need to consider how this should be handled.

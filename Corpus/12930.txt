@@ -1,0 +1,1 @@
+ URL : "https://github.com/doughensel/fitness/issues/7" TITLE : skipped week bug BODY : when a week s is skipped, the new weight should be compared to the last captured weight instead of duplicating current weight to missed entries.

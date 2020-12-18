@@ -1,0 +1,1 @@
+ URL : "https://github.com/BharatKalluri/Gifup/issues/27" TITLE : invalid url for screenshot BODY : https://github.com/bharatkalluri/gifup/blob/7e3b4dcd65ab99b016fa40298d21b9f83cfda8ab/data/com.github.bharatkalluri.gifup.appdata.xml l28 this should be https://raw.githubusercontent.com/bharatkalluri/gifup/master/screenshot.png

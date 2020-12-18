@@ -1,0 +1,1 @@
+ URL : "https://github.com/learn-co-curriculum/devise_lab/issues/32" TITLE : learn ide differences BODY : you should make a note in the instructions that the address for the oauth facebook app will be different for ide users. it won't be http://localhost:3000/users/auth/facebook/callback

@@ -1,0 +1,1 @@
+ URL : "https://github.com/sepehr-laal/livecam/issues/3" TITLE : streaming over internet BODY : i'm trying to use livecam to stream over the internet, i can see my video using router ip plus port while in network, but when i try to see the video using 4g or other network i can't see it. it has some problem to stream using tcp over internet?

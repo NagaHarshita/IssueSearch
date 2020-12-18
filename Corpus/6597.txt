@@ -1,0 +1,1 @@
+ URL : "https://github.com/thirtybees/elasticsearch/issues/29" TITLE : ajax read proxy BODY : this is for servers that can only connect to http://localhost:9200 . in order to keep the connection on localhost, provide an ajax endpoint that can be used on the frontend.

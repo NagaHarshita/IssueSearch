@@ -1,0 +1,1 @@
+ URL : "https://github.com/ch1c0t/clite/issues/4" TITLE : add a basic posix repl BODY : fork, exec the command, and print its output in the view.

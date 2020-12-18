@@ -1,0 +1,1 @@
+ URL : "https://github.com/svachmic/ios-url-remote/issues/2" TITLE : increase test coverage BODY : implement codecov usage and implement unit tests to cover at least 10% of the existing codebase.

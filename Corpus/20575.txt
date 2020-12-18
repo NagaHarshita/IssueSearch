@@ -1,0 +1,1 @@
+ URL : "https://github.com/qorelanguage/qore/issues/2106" TITLE : complex type error BODY : hash h = a : a : 1 , b : 1, 2 , ; hash val; h += a : val, -> runtime-type-error: parameter 'a' expects type 'hash', but got no value instead

@@ -1,0 +1,1 @@
+ URL : "https://github.com/matthieusb/clojure-simple-api/issues/11" TITLE : add an orm BODY : maybe korma would be better, using entities rather than jdbc+ handmade validation

@@ -1,0 +1,1 @@
+ URL : "https://github.com/PDP-10/its/issues/599" TITLE : its disk format BODY : document the its disk format. - tut - ntutbl - nusdl - mfd - ufds maybe write a unix tools to read/write a disk image.

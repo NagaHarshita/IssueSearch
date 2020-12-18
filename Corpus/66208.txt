@@ -1,0 +1,1 @@
+ URL : "https://github.com/camillarizzo/processoqa/issues/3" TITLE : melhoria tela de upload BODY : arquivo aparecer somente como concluído após finalizar a criação de todos os formatos de arquivos. hoje quando ele aparece como concluído na tela de upload, porém ao acessar a mídia ela ainda fica com status de processando

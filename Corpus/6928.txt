@@ -1,0 +1,1 @@
+ URL : "https://github.com/wessberg/SyncDB/issues/1" TITLE : clear must sync BODY : clearing a collection does not currently sync with other clients. it must

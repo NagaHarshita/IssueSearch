@@ -1,0 +1,1 @@
+ URL : "https://github.com/elevow/table/issues/1" TITLE : random number generator BODY : we need a random number generator to serve as a util. determine necessity of using a library. functions randomint max // 0 <= number < max randomint min, max // min <= number <= max

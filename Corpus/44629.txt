@@ -1,0 +1,1 @@
+ URL : "https://github.com/NetsBlox/NetsBlox/issues/647" TITLE : filter undefined rpcs BODY : some rpcs require environment variables to be defined for them to work. if these are not defined, they should just return undefined and the server should filter these rpc's out. ideally, these will also hide the supporting blocks from the services tab

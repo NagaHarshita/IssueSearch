@@ -1,0 +1,1 @@
+ URL : "https://github.com/manu-garcia/interpolate-sw-plugin/issues/1" TITLE : create changelog BODY : - extract git log metadata to generate the changelog with conventional-changelog - embrace/define a commit message convention - lint commit messages conventional-changelog-lint

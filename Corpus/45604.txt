@@ -1,0 +1,1 @@
+ URL : "https://github.com/joyeecheung/node-core-utils/issues/26" TITLE : improve code coverage BODY : hello! i just posted here: https://github.com/nodejs/automation/issues/4 issuecomment-340605917. i think a good way to get started and understand the code is play with it and make some tests. so, if it seems good to you, i can improve the code coverage. regards.

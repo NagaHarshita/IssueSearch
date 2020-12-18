@@ -1,0 +1,1 @@
+ URL : "https://github.com/NaamloosDT/DSharpPlus/issues/133" TITLE : implement emoji endpoints BODY : as per https://github.com/hammerandchisel/discord-api-docs/pull/373, it looks like bots will now be able to control guild emojis.

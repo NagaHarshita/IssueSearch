@@ -1,0 +1,1 @@
+ URL : "https://github.com/IIC2413-2017-2/Syllabus/issues/33" TITLE : duda password data.php BODY : en el archivo data.php que nos entregaron de ejemplo, ¿cuál clave hay que ingresar en $dbpassword? he intentado con la que elegimos, la por defecto y ninguna me funciona al probar mi index.php :

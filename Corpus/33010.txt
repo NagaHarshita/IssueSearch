@@ -1,0 +1,1 @@
+ URL : "https://github.com/monica001/leetcode/issues/5" TITLE : 28. implement strstr BODY : 這一題有點不敢相信的, 很快就完成了。 要找出needle字串的位置，使用indexof 這個api方法， 可以解題，但是效能不好。 public int strstr string haystack, string needle { if haystack==null || needle==null { return -1; } int index = haystack.indexof needle ; return index; }

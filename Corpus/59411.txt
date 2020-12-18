@@ -1,0 +1,1 @@
+ URL : "https://github.com/ForNeVeR/Kaiwa/issues/211" TITLE : typescript strict mode BODY : we need to set typescript to strict mode. i've already started work in the strict-mode branch https://github.com/fornever/kaiwa/tree/feature/strict-mode .

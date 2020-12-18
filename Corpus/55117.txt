@@ -1,0 +1,1 @@
+ URL : "https://github.com/sinfo/sinfo-webapp/issues/32" TITLE : implement team section BODY : we'll use the 4 column, round component template. on hover do the same effect we'll have on the speakers, just show the links to our social networks instead.

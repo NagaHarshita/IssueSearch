@@ -1,0 +1,1 @@
+ URL : "https://github.com/rakhimov/cppdep/issues/40" TITLE : include wrangler analysis BODY : incorporation of include-wrangler https://github.com/lukedodd/include-wrangler analysis - header file cost - include cost - translation unit cost - other features in collaboration with include-wrangler author @lukedodd

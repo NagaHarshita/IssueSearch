@@ -1,0 +1,1 @@
+ URL : "https://github.com/UnderwaterApps/overlap2d/issues/426" TITLE : 9patch usage in o2d? BODY : hello there, i used the built-in 9patch o2d plugin to create a 9patch item but i'm unsure about some things. can i use the 9patch inside o2d? like, create a button with the parts of the 9patch item? if i can, how? or do i must handle the 9patch via libgdx code? thanks in advance

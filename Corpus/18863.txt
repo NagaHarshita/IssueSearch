@@ -1,0 +1,1 @@
+ URL : "https://github.com/stvp/rollbar/issues/39" TITLE : use in middleware BODY : hi, i want propose add some rollbar in middleware usage for popular packages gin, echo and raw go usage. its will be helpful for new peoples in go.

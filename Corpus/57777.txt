@@ -1,0 +1,1 @@
+ URL : "https://github.com/daanhb/Domains.jl/issues/7" TITLE : remove + meaning union BODY : one would most likely to expect that arithmetic with intervals is interval arithmetic, not union.

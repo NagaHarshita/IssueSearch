@@ -1,0 +1,1 @@
+ URL : "https://github.com/tbeu/matio/issues/60" TITLE : append data on var BODY : hi there! is it possible to append data to an existing matlab variable? i'm creating the file using mat_open, creating a variable using mat_varcreate and finally writing data using mat_varwrite. unfortunately i cannot find a way to resize the variable in order to add new data. any suggestions?

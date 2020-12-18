@@ -1,0 +1,1 @@
+ URL : "https://github.com/bartongroup/RATS/issues/20" TITLE : gene plot y axis label BODY : as the top and bottom facets of the gene plots have different y axes, they should not share a label. a clearer way to label the axes is needed, or a different way to plot everything.

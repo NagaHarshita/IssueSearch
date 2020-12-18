@@ -1,0 +1,1 @@
+ URL : "https://github.com/PollardBanknote/cppbackport/issues/2" TITLE : thread should use bind BODY : runnable_wrapper in thread.h is basically identical to binder from functional.h. the thread class can probably drop runnable_wrapper and use the same mechanism that bind uses.

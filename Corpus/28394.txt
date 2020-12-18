@@ -1,0 +1,1 @@
+ URL : "https://github.com/rust-fuzz/targets/issues/94" TITLE : fuzz minidump crate BODY : https://twitter.com/tedmielczarek/status/943922075428941830 i saw the word 'parser' and the fuzzing portion of my brain lit up

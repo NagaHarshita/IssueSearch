@@ -1,0 +1,1 @@
+ URL : "https://github.com/slicebox/slicebox/issues/232" TITLE : add docker target in build BODY : build sbx docker image from sbt native packager

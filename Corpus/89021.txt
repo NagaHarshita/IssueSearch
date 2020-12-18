@@ -1,0 +1,1 @@
+ URL : "https://github.com/andreiz/bloomy/issues/11" TITLE : php 7 serialization error BODY : hello, on php 7 and 7.1 during the serialization of the bloomfilter object i get an error: php: symbol lookup error: /usr/local/lib/php/extensions/no-debug-non-zts-20160303/bloomy.so: undefined symbol: smart_str_appendl on php 5.6 everything works fine. is there any way to fix this?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mithrandi/txacme/issues/111" TITLE : raise default timeout BODY : it looks like there may be some 30 second timeouts server-side on le, we should probably raise ours a little above this.

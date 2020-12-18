@@ -1,0 +1,1 @@
+ URL : "https://github.com/Beotie/CoreBundle/issues/1" TITLE : return void php7.1 BODY : some return void annotations are not coded as it. it is needed to add : void and return; instructions to the code.

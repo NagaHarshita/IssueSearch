@@ -1,0 +1,1 @@
+ URL : "https://github.com/fireice-uk/xmr-stak/issues/4" TITLE : active self test BODY : all old miner versions contains a self test of the cpu miner. the code is currently not called and returned always true. todo activate and test the self test functionality.

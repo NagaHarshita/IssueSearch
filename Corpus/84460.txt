@@ -1,0 +1,1 @@
+ URL : "https://github.com/francoislaurent/syncacre/issues/9" TITLE : daemon option not running BODY : commandline option '-d' is documented but not implemented yet.

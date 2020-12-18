@@ -1,0 +1,1 @@
+ URL : "https://github.com/cthoyt/animated-barnacle/issues/2" TITLE : update readme format BODY : github makes readme files in markdown by default, but we need to use restructuredtext format for python projects.

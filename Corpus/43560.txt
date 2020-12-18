@@ -1,0 +1,1 @@
+ URL : "https://github.com/brianjking/homeassistant-config/issues/67" TITLE : crime reports sensors BODY : https://github.com/happyleavesaoc/my-home-automation/blob/master/homeassistant/sensors/crimereports.yaml yaml - platform: crimereports zone: 'neighborhood' exclude: 'community policing'

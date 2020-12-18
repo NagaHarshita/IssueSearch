@@ -1,0 +1,1 @@
+ URL : "https://github.com/DICE-UNC/jargon-extensions/issues/15" TITLE : switch to parent pom BODY : switch to utilize jargon-pom parent and clean out existing pom

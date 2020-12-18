@@ -1,0 +1,1 @@
+ URL : "https://github.com/arve0/markdown-it-attrs/issues/39" TITLE : doesn't work with tables BODY : i can't seem to get this to work with tables. is there any way to add a class to a markdown table?

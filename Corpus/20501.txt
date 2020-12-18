@@ -1,0 +1,1 @@
+ URL : "https://github.com/pelle/cloth/issues/12" TITLE : clojure tests fail BODY : lein test caused by: java.lang.runtimeexception: unable to resolve symbol: issuer in this context code fails here, because functions are not being defined https://github.com/pelle/cloth/blob/master/test/cloth/contracts_test.cljc l80

@@ -1,0 +1,1 @@
+ URL : "https://github.com/skyhover/Deckard/issues/17" TITLE : vec generator failure BODY : i've got a problem when doing clone detecting with my c codes. the feed back is like this error: problem in vec generator step. stop and check logs in times/ could you tell me what might be the problem? thanks a lot.

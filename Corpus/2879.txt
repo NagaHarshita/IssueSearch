@@ -1,0 +1,1 @@
+ URL : "https://github.com/UCSB-CS56-Projects/cs56-games-flood-it/issues/15" TITLE : fill the grid BODY : update the view files drawboard.java, flooditgrid.java, etc so that the gui is properly populated with random colored cells. currently the board is filled with a single background color. estimated points 350

@@ -1,0 +1,1 @@
+ URL : "https://github.com/onsetsu/reflective-js/issues/1" TITLE : active instance tracking BODY : enable select function for 'query-selector' as string: - calls to document.createelement function - mutation observer classes: - x new operator - calls to object.create function

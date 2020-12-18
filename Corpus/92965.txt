@@ -1,0 +1,1 @@
+ URL : "https://github.com/psychok7/django-yadpt-starter/issues/38" TITLE : add a db connection pooler BODY : consider adding something like https://github.com/pgbouncer/pgbouncer https://hub.docker.com/r/brainsam/pgbouncer/ alpine or https://hub.docker.com/r/kotaimen/pgbouncer/ debian

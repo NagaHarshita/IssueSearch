@@ -1,0 +1,1 @@
+ URL : "https://github.com/yiisoft/yii2-queue/issues/91" TITLE : have a flag for failed job BODY : can we have a flag in queue table for failed job after retries? this may helpful when you want to investigate on failed tasks.

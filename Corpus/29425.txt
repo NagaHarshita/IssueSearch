@@ -1,0 +1,1 @@
+ URL : "https://github.com/FReBOmusic/FReBO/issues/50" TITLE : location search bar BODY : in the event that the user selects the frebo search bar on the frebo search widget. expected response : the location search bar should be displayed right beneath the item search bar, on the search widget screen.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/izolate/html2pug/issues/15" TITLE : improve cli tool BODY : - create a help/man page - improve syntax - handle redirecting html2pug < example.html

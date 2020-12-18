@@ -1,0 +1,1 @@
+ URL : "https://github.com/Docter60/Vox-Visio-Planus/issues/11" TITLE : audio control pane BODY : create a working audio control pane containing: -previous -rewind -play/pause -stop -fast forward -skip -volume -song info? maybe in a separate view

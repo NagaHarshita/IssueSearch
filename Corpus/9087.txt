@@ -1,0 +1,1 @@
+ URL : "https://github.com/lanl-ansi/dwig/issues/20" TITLE : test case names BODY : consider removing __i__ from cases names as all outputs are now ising.

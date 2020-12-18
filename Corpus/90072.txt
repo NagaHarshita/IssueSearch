@@ -1,0 +1,4 @@
+ URL : "https://github.com/canonical-ols/build.snapcraft.io/issues/412" TITLE : robustness: proxy timeout BODY : the current network proxy timeout for snap builds is an hour, but there are some known builds that take longer than that on slower architectures. we don't want the timeout to be infinite, but we can probably afford to increase it further. comments: @colinwatson4 thanks, just trying to prioritise :- ,@jamiedawsonyoung yes,@colinwatson4 is this still relevant? ---
+creator: robin winslow
+assignees: copied from trello card: https://trello.com/c/h5uhtshe/68-robustness-proxy-timeout
+labels: copy to github

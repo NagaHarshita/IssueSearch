@@ -1,0 +1,1 @@
+ URL : "https://github.com/Charca/bootbot/issues/78" TITLE : how to iterate chat.say BODY : hi! this is a question more than an issue, but i was wondering how to iterate chat.say while guaranteeing that it runs in the right order i.e. synchronously? clearly the following doesn't work: for var i=0;i<arr.length;i++ { chat.say ${arr i .something} }

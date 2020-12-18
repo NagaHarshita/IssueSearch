@@ -1,0 +1,1 @@
+ URL : "https://github.com/jorilallo/react-native-emoji/issues/20" TITLE : issue with importing BODY : once i add the line import emoji from 'react-native-emoji'; at the top of my file and reload the app on ios, i start seeing an error: > cannot read property 'string' of undefined if i remove that import statement, the app builds and runs fine.

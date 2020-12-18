@@ -1,0 +1,1 @@
+ URL : "https://github.com/selenium-cucumber/selenium-cucumber-java/issues/9" TITLE : build fails on basic test BODY : need an upgraded driver for this to work again. if i get a chance i wouldn't mind contributing more to this project as it looks like we can really use it.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/graphcool/graphql-playground/issues/216" TITLE : allow custom logo BODY : when using the middleware packages on your own server the playground should not override the website logo.

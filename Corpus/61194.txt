@@ -1,0 +1,1 @@
+ URL : "https://github.com/Just-Some-Bots/MusicBot/issues/1381" TITLE : aiohttp module not seen BODY : no module named 'aiohttp' attempting to install dependencies... its installed but for some strange reason the bot isnt seeing it. its also taken two days to get a response from the help only to get accused of shitposting. others have waited longer and i think its stupid.

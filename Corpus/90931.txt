@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/vso-intellij/issues/94" TITLE : support check-in policies BODY : 1 there is no opportunity to create a check-in policy. 2 i have created a check-in policy via visual studio, but it is ignored in rider. check-in finishes successfully without any complaint.

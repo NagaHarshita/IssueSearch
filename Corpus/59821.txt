@@ -1,0 +1,1 @@
+ URL : "https://github.com/AndyBarron/app-dirs-rs/issues/27" TITLE : use the new winapi 0.3 BODY : i am porting my apps to the new winapi for better compile times, but i am still compiling the old winapi one for this dependency. can we get this updated? https://retep998.github.io/blog/winapi-0.3/

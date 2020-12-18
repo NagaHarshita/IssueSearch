@@ -1,0 +1,1 @@
+ URL : "https://github.com/m4b/scroll/issues/5" TITLE : add a pfile type BODY : ostensibly, it would be similar to scroll::buffer , but which wraps std::io::file , and also wraps the pread , pwrite libc calls on linux/osx, and fakes it on windows . this way, similar to a cursor/file, we can pass a buffer/pfile equally amongst generic functions if we like.

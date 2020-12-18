@@ -1,0 +1,1 @@
+ URL : "https://github.com/Learn-by-doing/crypto-terminal/issues/43" TITLE : monero wallet wrapper BODY : it seems really unpractical to pay using monero coins, especially if you need to use your laptop and the cli-wallet... it would be nice to get a wrapper which would accept our own protocol url encoded parameters .

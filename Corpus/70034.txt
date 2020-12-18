@@ -1,0 +1,1 @@
+ URL : "https://github.com/medic/medic-webapp/issues/3776" TITLE : update npm dependencies BODY : the 2.13.x branch has been taken so now is the perfect time to bump all our dependencies again.

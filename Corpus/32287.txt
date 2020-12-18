@@ -1,0 +1,1 @@
+ URL : "https://github.com/sanpoChew/LSDM-website/issues/1" TITLE : update contact form BODY : - add contact form to router - add google invisible recaptcha - add mailgun functions to send email containing contact form also when contact is added .

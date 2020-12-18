@@ -1,0 +1,1 @@
+ URL : "https://github.com/yegor256/tacit/issues/69" TITLE : margin before h1, h2, etc. BODY : top margin before headers is absent, but should be there.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/JesusFreke/smali/issues/550" TITLE : dexlib2 replace string ? BODY : i searched a lot, did not find any examples of how to change the string with dexlib2. how to replace string with ignore class: > hello to hello.test.getstr h please help me.

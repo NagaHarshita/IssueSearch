@@ -1,0 +1,1 @@
+ URL : "https://github.com/matthewmueller/joy/issues/57" TITLE : go get cmd/... fail BODY : bash $ go get -u github.com/matthewmueller/joy/cmd/... github.com/matthewmueller/joy/internal/cli github.com/matthewmueller/joy/internal/cli/cli.go:37:14: stats.client.set undefined type analytics.analytics has no field or method set

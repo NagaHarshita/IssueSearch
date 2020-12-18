@@ -1,0 +1,1 @@
+ URL : "https://github.com/jksdf/yellow-library/issues/7" TITLE : security of loan edits BODY : even common user can edit all loans can set that his load was returned or change the borrowing day through url http://localhost:8080/pa165/loan/{id}/edit .

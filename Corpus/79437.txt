@@ -1,0 +1,1 @@
+ URL : "https://github.com/rougeth/bottery/issues/103" TITLE : share bot functionality? BODY : i was thinking, some functionality like talking with jenkins or github could be shared with others so they can incorporate that functionality into their own bots, similar to how hubot https://hubot.github.com/ works. is this something we would like to have for bottery ?

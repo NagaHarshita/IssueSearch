@@ -1,0 +1,1 @@
+ URL : "https://github.com/serde-rs/json/issues/318" TITLE : in situ parsing BODY : rust pub fn from_mut_str<'a, t> s: &'a mut str -> result<t> where t: deserialize<'a>; strings with escape sequences are decoded in place! rust // before {\ msg\ :\ abc\ xyz\ } // after {\ msg\ :\ abc xyzz\ } ^^^^^^^^ output &str

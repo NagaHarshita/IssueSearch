@@ -1,0 +1,1 @@
+ URL : "https://github.com/TresysTechnology/setools/issues/179" TITLE : ftbfs on bigendian BODY : hi, 4.1.1 seems to ftbfs on some? bigendian architectures see: https://buildd.debian.org/status/package.php?p=setools&suite=unstable setools is using byteswap_32 which is defined in <byteswap.h> but that header is not included anywhere

@@ -1,0 +1,1 @@
+ URL : "https://github.com/SonarSource/sonar-csharp/issues/1009" TITLE : s2933 code fix bug BODY : description region test string teststring = null; endregion the s2933 code fix outputs broken code: readonly region test string teststring = null; endregion related information sonarc version latest visual studio 15.5.1

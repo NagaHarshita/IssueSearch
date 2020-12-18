@@ -1,0 +1,1 @@
+ URL : "https://github.com/nimbix/app-torch/issues/1" TITLE : push new build BODY : i get installation errors when trying to build cutorch on top of this image. the solution would be to trigger a build on docker hub.

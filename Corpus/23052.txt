@@ -1,0 +1,1 @@
+ URL : "https://github.com/localepp/localepp/issues/1" TITLE : no .mo file loader BODY : at present, there are no means of loading an mo file, only a po file

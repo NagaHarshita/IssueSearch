@@ -1,0 +1,1 @@
+ URL : "https://github.com/flynn/noise/issues/13" TITLE : add cipherstate rekey BODY : as per latest noise spec section 5.1 the cipherstate should have a rekey: http://noiseprotocol.org/noise.html the-cipherstate-object missing from here: https://github.com/flynn/noise/blob/master/state.go l16-l62 sad panda, want forward secrecy right now. why diverge from latest noise spec?

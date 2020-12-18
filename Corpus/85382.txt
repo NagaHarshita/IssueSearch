@@ -1,0 +1,1 @@
+ URL : "https://github.com/altmany/export_fig/issues/215" TITLE : export to eps not working BODY : hi, i am trying to export a figure using this program to eps and i cant open it in illustrator due to the error the operation cannot be completed due to an unknown error . i do have ghostscript and xpdfreader installed. other file formats export fine.

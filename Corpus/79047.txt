@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/BashOnWindows/issues/1669" TITLE : restrict infinity scroll BODY : scroll down on bash windows using a mouse or trackpad expect the scroll to stop when it hit the last line scrolls all the way to the bottom and shows a blank screen. 15025.1000 open bash -> scroll down

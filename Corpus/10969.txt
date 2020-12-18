@@ -1,0 +1,1 @@
+ URL : "https://github.com/viewflow/django-material/issues/248" TITLE : error in website BODY : i dont think this is the right place but in the website: http://forms.viewflow.io/ the code examples do not work. clicking on code button nothing happens. inspecting the pace i can see the code at the end of the page but the popup does not work on chrome 56

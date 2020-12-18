@@ -1,0 +1,1 @@
+ URL : "https://github.com/jakubgarfield/Bonobo-Git-Server/issues/696" TITLE : 5.2 is built as 5.0 BODY : the 5.2 release has bonobo.git.server.dll compiled as 5.0 version

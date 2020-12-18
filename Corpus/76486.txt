@@ -1,0 +1,1 @@
+ URL : "https://github.com/andremarcondesteixeira/currency/issues/2" TITLE : lacking currency symbols BODY : the library lacks a list of each currency symbol, e.g, $, r$, £, ¢, etc

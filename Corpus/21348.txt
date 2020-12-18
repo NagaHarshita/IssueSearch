@@ -1,0 +1,1 @@
+ URL : "https://github.com/CTSRD-CHERI/cheribsd/issues/242" TITLE : fabs -0 returns -0 BODY : fabs 3 for mips is defined in lib/libc/mips/gen/fabs.c as: double fabs double x { if x < 0 x = -x; return x ; } this obviously doesn't work if x is -0 because the if-test fails. one fix could be to make the if-test: x < 0 || x == -0 , which seems to work.

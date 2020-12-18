@@ -1,0 +1,1 @@
+ URL : "https://github.com/itslukej/zirc/issues/35" TITLE : allow multiple connections BODY : we have the connection manager, so the next step is actually supporting multiple servers. events would need to be rewritten to allow us to know to wich server to respond to.

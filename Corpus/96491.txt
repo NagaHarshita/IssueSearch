@@ -1,0 +1,1 @@
+ URL : "https://github.com/JPeer264/swallow/issues/1" TITLE : execute gulpfile via babel BODY : rename gulpfile.js to gulpfile.babel.js and use babel to prevent issues on other node version.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/dvajs/dva/issues/1213" TITLE : dva counter 例子优化 BODY : 我修改的代码对应的链接 https://stackblitz.com/edit/dva-example-count-hykf32 主要把下面的操作按钮抽离处理, 这样子做的好处是不跟页面更新的的count一起。 在setstate的时候其实下面的按钮是没必要做执行render的, 让redux的connect 帮我们进行 shouldcomponentupdate 对比。

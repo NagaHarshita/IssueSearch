@@ -1,0 +1,1 @@
+ URL : "https://github.com/roschaefer/story.board/issues/359" TITLE : bug tcs without trigger BODY : new tcs without trigger are not sorted in list as without trigger. as example see tc titled dieser baustein demonstriert einen fehler .

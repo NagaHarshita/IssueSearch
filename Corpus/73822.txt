@@ -1,0 +1,1 @@
+ URL : "https://github.com/twitter/heron/issues/2499" TITLE : design doc for scala api BODY : it will be nice to add a scala api for heron. api on heron fall into two categories - procedural low level and functional high level . it will be great to see a design doc that outlines the proposed api and interfaces.

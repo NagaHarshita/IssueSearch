@@ -1,0 +1,1 @@
+ URL : "https://github.com/casey-c/egg/issues/9" TITLE : tree copy constructors BODY : we need a function to copy treenodes and treestates. since they all work with pointers, we need to make sure we manage allocations properly so a change on one state doesn't affect a different state.

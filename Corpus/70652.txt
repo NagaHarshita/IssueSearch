@@ -1,0 +1,1 @@
+ URL : "https://github.com/orbisgis/orbiswps/issues/10" TITLE : wps values by reference BODY : in the wps specifications, the values can be pass by value itself or by reference, but only the value mode is managed. old issue : orbisgis/orbisgis 1143

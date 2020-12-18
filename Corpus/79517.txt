@@ -1,0 +1,1 @@
+ URL : "https://github.com/outlandishideas/wpackagist/issues/221" TITLE : simple custom post order BODY : the version for this is currently 2.3.2 and installing this via composer works. however it constantly thinks it hasn't updated and is still sitting on 2.3.1.

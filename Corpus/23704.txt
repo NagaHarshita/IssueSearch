@@ -1,0 +1,1 @@
+ URL : "https://github.com/elves/elvish/issues/548" TITLE : readline idle hook BODY : a readline idle hook would be cool. it would take a list of lambdas, and execute it when there is no action in the readline for a given time. specifying multiple time duration would be useful.

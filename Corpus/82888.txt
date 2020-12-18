@@ -1,0 +1,1 @@
+ URL : "https://github.com/ChristopherChudzicki/math3d/issues/48" TITLE : axis visibility not saved BODY : if you toggle off an axis then save url, loaded url will have axis visible.

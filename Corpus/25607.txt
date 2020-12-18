@@ -1,0 +1,1 @@
+ URL : "https://github.com/cohenadair/anglers-log/issues/224" TITLE : 24-hour time format BODY : problem no matter the devices settings, times are displayed in 12-hour format. solution tap into the device's date & time settings, and use the correct format.

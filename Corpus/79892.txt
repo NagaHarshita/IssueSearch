@@ -1,0 +1,1 @@
+ URL : "https://github.com/rust-av/avp/issues/2" TITLE : support audio resampling BODY : either use the sdl2 facility, or wrap/corrode avresample .

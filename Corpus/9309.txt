@@ -1,0 +1,1 @@
+ URL : "https://github.com/mattiaswirf/mysqlbackup/issues/1" TITLE : upload to cloud BODY : i want this to upload the backup file to a cloud service. the you can set up a cronjob, and leave it be. npt sure which one though. onedrive? google drive? spideroak? amazon?

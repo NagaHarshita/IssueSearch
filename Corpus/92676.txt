@@ -1,0 +1,1 @@
+ URL : "https://github.com/CSaratakij/i3wm-desktop-config/issues/1" TITLE : /home/csaratakij not found BODY : > /home/jacob/.zshrc:source:6: no such file or directory: /home/csaratakij/.oh-my-zsh/oh-my-zsh.sh when running /bin/zsh. looks like you left in your username and not set it to the current user variable ;_; i might make a pull request if i figure out how to fix it :

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ArcticaProject/nx-libs/issues/390" TITLE : clean up flexibility code BODY : in window.c one can find serveral locations where an unused flexibility variable can be removed. also, there are several functions in this context that never use their parameter s . so we should revisit that. see 378 for a discussion about that.

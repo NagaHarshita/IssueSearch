@@ -1,0 +1,1 @@
+ URL : "https://github.com/american-art/semantic-hosting/issues/5" TITLE : define prefix aat: BODY : define @prefix aat: <http://vocab.getty.edu/aat/> so that eg <http://vocab.getty.edu/aat/300404012> would be printed as aat:300404012.

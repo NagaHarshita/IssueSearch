@@ -1,0 +1,1 @@
+ URL : "https://github.com/sopel-irc/sopel/issues/1186" TITLE : ssl errors on startup BODY : https://sopel.chat/ ssl cert has expired, and find_updates.py pings it for updates, which results in errors. not that i expect any sopel updates soon. :^

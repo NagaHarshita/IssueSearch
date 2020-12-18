@@ -1,0 +1,1 @@
+ URL : "https://github.com/xifan2333/learn-node/issues/9" TITLE : mongodb | objectid BODY : objectid 是一个12字节 bson 类型数据，有以下格式： - 前4个字节表示时间戳 - 接下来的3个字节是机器标识码 - 紧接的两个字节由进程id组成（pid） - 最后三个字节是随机数。 mongodb中存储的文档必须有一个 _id 键。这个键的值可以是任何类型的，默认是个objectid对象。 在一个集合里面，每个文档都有唯一的 _id 值，来确保集合里面每个文档都能被唯一标识。 mongodb采用objectid，而不是其他比较常规的做法（比如自动增加的主键）的主要原因，因为在多个 服务器上同步自动增加主键值既费力还费时。

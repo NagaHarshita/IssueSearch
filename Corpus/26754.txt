@@ -1,0 +1,1 @@
+ URL : "https://github.com/codecae/betaflight-tx-lua-revised/issues/9" TITLE : can not save values BODY : can not save new values. goes through the actions, takes a while on save page then refreshes with the original values. running bff3, crossfire x9d.

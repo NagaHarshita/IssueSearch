@@ -1,0 +1,1 @@
+ URL : "https://github.com/e-oj/Fawn/issues/6" TITLE : typos in your readme BODY : you have some typo's in your readme the database is returned to it's initial state it's state before the transaction started . i have bolded them. it's = it is its = it belongs to you need its here :

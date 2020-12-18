@@ -1,0 +1,1 @@
+ URL : "https://github.com/ppwwyyxx/tensorpack/issues/163" TITLE : custom label for runs BODY : it would be nice to allow a custom label for a specific run rather than the timestamp when choosing new . this is particular helpful when dealing with different training-sets.

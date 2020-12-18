@@ -1,0 +1,1 @@
+ URL : "https://github.com/NixOS/nixpkgs/issues/26128" TITLE : add per-user services BODY : currently all systemd user services defined by systemd.user.services are activated for all users. it would be cool if we could toggle user services on a per-user basis. see improvements on user services in 26094 and per-user packages support from 25712.

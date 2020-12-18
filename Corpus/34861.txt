@@ -1,0 +1,1 @@
+ URL : "https://github.com/IBM-Blockchain/marbles/issues/158" TITLE : create backend tests BODY : create automated tests to verify the backend works appropriately. - run install script - run instantiate script - send invokes to create marbles - query marbles

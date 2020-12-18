@@ -1,0 +1,1 @@
+ URL : "https://github.com/iancoleman/multisig/issues/1" TITLE : support xpub and xprv BODY : allow the user to enter xpub and xprv keys into the parts field. the list of parts should allow the user to enter which index to derive the address from. it should be easy to set all extended keys to use the same index if desired.

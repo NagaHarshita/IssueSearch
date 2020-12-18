@@ -1,0 +1,1 @@
+ URL : "https://github.com/akrimpenfort/pir-radiostation-analyser/issues/14" TITLE : create graphs for stations BODY : currently the radio-stations song, title and count are being displayed in a sort-able table. it would be a betterment if they all could also be displayed in a graph in the index.html for easy overview and comparison.

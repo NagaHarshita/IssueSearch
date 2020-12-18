@@ -1,0 +1,1 @@
+ URL : "https://github.com/ethereum/remix/issues/173" TITLE : colours for tree view BODY : tree view should use colours similar to json explorers in browsers. for meta-information like the length of an array, we should also have a different colour for the key.

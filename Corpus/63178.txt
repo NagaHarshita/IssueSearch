@@ -1,0 +1,1 @@
+ URL : "https://github.com/sachinchoolur/lg-zoom.js/issues/1" TITLE : destroy is way too long BODY : i have a gallery with 700+ photos with the plugin enabled. when the gallery is closed, the destroy method takes a couple of seconds, and so block the process of closing the gallery. is there any way to speed it up ?

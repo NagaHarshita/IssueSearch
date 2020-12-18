@@ -1,0 +1,1 @@
+ URL : "https://github.com/FlashSystems/AvaCalc/issues/16" TITLE : store simulation result BODY : if the graph was not changed detect for eg. via a graph fingerprint the last simulation result should be cached to allow it to be shown again. this should also be saved if the graph is exported and loaded if it's imported again.

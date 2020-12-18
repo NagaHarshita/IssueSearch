@@ -1,0 +1,1 @@
+ URL : "https://github.com/dlord/spigot-docker/issues/5" TITLE : console command issue BODY : hi i have an issue when try to run command into container docker exec spigot-instance spigot console say hello everybody! like your example i got console command not supported on a dumb term. why happen like this?

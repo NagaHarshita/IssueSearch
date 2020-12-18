@@ -1,0 +1,1 @@
+ URL : "https://github.com/salsify/salsify_rubocop/issues/14" TITLE : salsify/styledig and ||= BODY : styledig should not suggest replacement on lhs of ||= .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/yjwen/org-reveal/issues/292" TITLE : katex support ? BODY : hi, it would be nice to have katex as faster alternative to mathjax https://github.com/j13z/reveal.js-math-katex-plugin how can org-reveal be configured to use katex instead ? thanks,

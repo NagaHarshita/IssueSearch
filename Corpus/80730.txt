@@ -1,0 +1,1 @@
+ URL : "https://github.com/embulk/embulk/issues/679" TITLE : update jruby to 9.1.11.0 BODY : jruby 9.1.11.0 http://jruby.org/2017/06/14/jruby-9-1-11-0 released. > 4658 - __dir__ won't work with embed paths such as uri:classloader: 4611 let's update jruby in the near future. this version will fix 586 and 627. se also 637.

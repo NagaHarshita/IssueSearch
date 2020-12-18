@@ -1,0 +1,1 @@
+ URL : "https://github.com/dwyl/library/issues/44" TITLE : nav bar links BODY : - dwyl logo should link to the home route - feedback link should link to github issues - search link should link to the the top of the page

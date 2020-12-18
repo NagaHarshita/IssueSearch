@@ -1,0 +1,1 @@
+ URL : "https://github.com/prologin/stechec2/issues/11" TITLE : implement generic loops BODY : > originally posted 2013-03-24 11:00 by serialk https://bitbucket.org/serialk/ on bitbucket reimplement server_loop, client_loop and spectator_loop for each game is redundant and could be generic in stechec2

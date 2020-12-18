@@ -1,0 +1,1 @@
+ URL : "https://github.com/sharpchi/moodle-mod_appearin/issues/1" TITLE : default size of the iframe BODY : it seems the iframe on the view.php page does not have any extra styling. it makes it being displayed really small on my browser.

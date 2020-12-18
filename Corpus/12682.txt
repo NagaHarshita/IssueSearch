@@ -1,0 +1,1 @@
+ URL : "https://github.com/vuejs/vue-hackernews-2.0/issues/251" TITLE : redirect to many BODY : 1：clone this repo 2：npm install & npm run dev 3：use chrome open localhost:8080 4：err_too_many_redirects

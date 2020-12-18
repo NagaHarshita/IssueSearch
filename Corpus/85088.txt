@@ -1,0 +1,1 @@
+ URL : "https://github.com/vipshop/Saturn/issues/141" TITLE : enhance the election code BODY : if job need a leader to do something, should launch the election, not to just wait. avoid the election event missed, and never to election.

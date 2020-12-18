@@ -1,0 +1,1 @@
+ URL : "https://github.com/TremendousPorcupines/bangazon_api/issues/24" TITLE : line item serializer BODY : expected behavior - convert line item model instance to python datatypes module suspected / relevant files - line_item_serializer.py related issues -

@@ -1,0 +1,1 @@
+ URL : "https://github.com/melair/seraph/issues/4" TITLE : add scaling layout. BODY : add a layout component which scales the size of the child. start with a simple 2x/3x first. do we want resampling or smoothing?

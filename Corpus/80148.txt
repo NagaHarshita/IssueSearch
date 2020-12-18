@@ -1,0 +1,1 @@
+ URL : "https://github.com/eggheads/eggdrop/issues/443" TITLE : telnet / terminal colors BODY : would it be possible to convert \003 to the proper format for terminals and consoles of \033 ..m ex \00304 would become \033 0;31m

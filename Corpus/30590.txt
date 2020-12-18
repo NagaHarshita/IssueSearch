@@ -1,0 +1,1 @@
+ URL : "https://github.com/wendykan/DeepLearningMovies/issues/5" TITLE : problem with kmeans BODY : hi, i try to run the code. but i got the error as followed: index 16792 is out of bounds for axis 0 with size 16792. how should i fix it?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/hashicorp/vault/issues/2961" TITLE : list mounts as user BODY : is it possible to list all mounts i have access to, as normal user? as root it is possible to read mounts with vault mounts , but what about a simple user without root access. is there a policy to become rights to do so? thanks, cheers, björn

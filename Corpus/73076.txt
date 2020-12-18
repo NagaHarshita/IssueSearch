@@ -1,0 +1,1 @@
+ URL : "https://github.com/knq/usql/issues/3" TITLE : common table expressions BODY : i could be wrong, but i don't think usql will work with https://technet.microsoft.com/en-us/library/ms190766 v=sql.105 .aspx since those statements do not start with an insert or select . am i wrong?

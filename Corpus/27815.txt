@@ -1,0 +1,13 @@
+ URL : "https://github.com/andybotting/xbmc-addon-abc-iview/issues/2681" TITLE : end-user bug report BODY : automatic bug report from end-user. environment plugin name: abc iview plugin id: plugin.video.abc_iview plugin version: 1.8.0 xbmc/kodi version: 17.3 git:c1d9c5c python version: 2.7.13 default, may 29 2017, 10:12:36 gcc 6.3.0 operating system: linux2 linux 4.9.30 armv7l ip address: 121.45.121.247 ppp121-45-121-247.bras2.adl6.internode.on.net isp : unknown lookup failure python path: /storage/.kodi/addons/plugin.video.abc_iview
+/storage/.kodi/addons/script.common.plugin.cache/lib
+/storage/.kodi/addons/script.module.beautifulsoup/lib
+/storage/.kodi/addons/script.module.requests/lib
+/usr/lib/python27.zip
+/usr/lib/python2.7
+/usr/lib/python2.7/plat-linux2
+/usr/lib/python2.7/lib-tk
+/usr/lib/python2.7/lib-old
+/usr/lib/python2.7/lib-dynload
+/usr/lib/python2.7/site-packages
+/usr/lib/python2.7/site-packages/gtk-2.0
+/storage/.kodi/addons/plugin.video.abc_iview/resources/lib traceback traceback most recent call last : file /storage/.kodi/addons/plugin.video.abc_iview/resources/lib/play.py , line 47, in play stream = comm.get_stream_url p.get_house_number , p.get_url file /storage/.kodi/addons/plugin.video.abc_iview/resources/lib/comm.py , line 108, in get_stream_url request.raise_for_status file /storage/.kodi/addons/script.module.requests/lib/requests/models.py , line 893, in raise_for_status raise httperror http_error_msg, response=self httperror: 404 client error: not found for url: http://iview.abc.net.au/auth/hls/sign?ts=1496148425&hn=nc1704h020s00&d=android-mobile&sig=894788745a15fe708327007bba05ffd689411962094cdd05b02ea4969adcf317 full xbmc.log https://gist.github.com/bc4b6c9a5d32c769e27de758eecc874b

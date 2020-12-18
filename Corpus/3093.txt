@@ -1,0 +1,8 @@
+ URL : "https://github.com/AppFolioOnboarding/image-sharer-EasterAndJay/issues/9" TITLE : images by tag BODY : as a user i want to view all images associated with a tag. __story__: now that we have added the ability for images to be associated with tags, let
+us provide the ability for users to filter images by a given tag. nana, who
+loves fast planes, will be delighted to see only images labeled with sr-71. __acceptance criteria__:
+- when i click on a tag, i see a filtered list of only the images that have the tag i clicked on.
+- the tag name, not its id, is used to perform the filtering. __discussion topics__:
+- where in the code should we implement this functionality?
+- what happens if a user tries to manually filter by a nonexistent tag? __dependencies__:
+- image tags

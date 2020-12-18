@@ -1,0 +1,1 @@
+ URL : "https://github.com/jonascarpay/apecs/issues/6" TITLE : missing test cases BODY : - every entity exists iff it is contained in the list of members - the slice of a,b should consist of the same entities as a slice of b,a , possibly in a different order.

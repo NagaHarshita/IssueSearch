@@ -1,0 +1,1 @@
+ URL : "https://github.com/lucsch/ToolMap/issues/360" TITLE : remove yahoo web rasters BODY : actually yahoo streets and satellite aren't working. thoses web rasters aren't working exactly as bing and google. for the moment being it's better to just remove them. _imported from trac ticket 360, created by lucsch on 01-08-2014 at 17:20, last modified: 01-08-2014 at 17:20_

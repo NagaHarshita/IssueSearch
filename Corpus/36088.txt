@@ -1,0 +1,1 @@
+ URL : "https://github.com/01org/zephyr.js/issues/1106" TITLE : fs add size to stats BODY : can we add the file size to the stat object returned by the statsync so that the following sample would work: js var fd = fs.opensync file, r ; var stats = fs.statsync file ; var buf = new buffer stats.size ; fs.readsync fd, buf, 0, stats.size, 0 ; node.js fs api has it.

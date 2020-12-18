@@ -1,0 +1,1 @@
+ URL : "https://github.com/martinbaciga/android-drawing-canvas/issues/3" TITLE : image not draw on canvas BODY : i am doing this by mdrawcanvas.drawbitmap bitmap, null, new rect 100, 100, 200, 150 ,mdrawpaint ; but it is not drawing drawable

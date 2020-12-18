@@ -1,0 +1,1 @@
+ URL : "https://github.com/ruslo/hunter/issues/1074" TITLE : add 'stb' package BODY : github repo: https://github.com/nothings/stb need to add cmake code header-only? @headupinclouds i've moved your fork to https://github.com/hunter-packages/stb-old because there is official github repo. i've created new fork: https://github.com/hunter-packages/stb

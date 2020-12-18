@@ -1,0 +1,1 @@
+ URL : "https://github.com/fedoraredteam/rpm2cpe/issues/1" TITLE : fix bin script BODY : doesn't point to correct location on macos. will have to test linux as well.

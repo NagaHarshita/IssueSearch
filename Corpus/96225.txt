@@ -1,0 +1,1 @@
+ URL : "https://github.com/scalacenter/scastie/issues/264" TITLE : ensime process supervision BODY : the ensimeactor should be responsible for doing health checks on the ensimeprocess. for example, if we kill ensime, the user should know the auto-completion is not available and a supervision strategy should be triggered restart at most 3 times, for example .

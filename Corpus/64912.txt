@@ -1,0 +1,1 @@
+ URL : "https://github.com/rubyjobsru/app/issues/29" TITLE : html entities in tweets BODY : hello! generated tweets has html entities, but twitter doesn't support them 😒 example https://twitter.com/rubyjobsru/status/840241708361211904 . i think the text for tweets need to be html-decoded. thanks!

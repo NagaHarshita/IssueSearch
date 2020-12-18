@@ -1,0 +1,1 @@
+ URL : "https://github.com/mootensai/yii2-enhanced-gii/issues/121" TITLE : error in actioncreate BODY : hi mootensai i have an error in actioncreate in method loadall method app\models\round::loadall does not exist' . since that loadall not exists as a yii native method nor a client method i can't resolve that. could you give me some help??? thanks in advance.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/qiuxiang/react-native-amap3d/issues/75" TITLE : pod install 失败 BODY : 你好，我pod配置中使用了 use_frameworks! 安装地图时提示： target has transitive dependencies that include static binaries: .../pods/amapnavi/amapnavikit.framework

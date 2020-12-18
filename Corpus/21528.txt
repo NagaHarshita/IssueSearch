@@ -1,0 +1,1 @@
+ URL : "https://github.com/Irubataru/phd-thesis/issues/1" TITLE : fix minor mistakes BODY : there are a couple of minor mistakes in the printed version of the thesis i have spotted: - page 38: $\lambda_i \sim u^{n n_t}$, with $n \leq 1$ , should be \geq - page 56: spurious =2mu - page 106: check the coefficient labelling of the faddeev-leverrier algorithm

@@ -1,0 +1,1 @@
+ URL : "https://github.com/michaldaniel/Ebook-Viewer/issues/30" TITLE : ebook bad ordering BODY : i have an ebook that when opened with ebook-viewer ends with files in the wrong order. you can test it with this epub i created in sigil. change the extension to .epub : test.txt https://github.com/michaldaniel/ebook-viewer/files/871253/test.txt

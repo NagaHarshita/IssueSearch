@@ -1,0 +1,1 @@
+ URL : "https://github.com/xyzz/acquisition/issues/438" TITLE : quad stash tab BODY : is it possible to make the item position hint red square, black background also work in quad stash tab? currently, it only shows the normal stash tab size, i.e. if the items are placed outside 12x12, the item hint won't show.

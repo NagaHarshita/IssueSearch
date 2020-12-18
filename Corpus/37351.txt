@@ -1,0 +1,1 @@
+ URL : "https://github.com/awjuliani/DeepRL-Agents/issues/38" TITLE : low rewards for drqn BODY : i tried with drqn code for both partial or full observability cases. however, i found it sometimes gets trapped into repeated actions and obtains very low rewards. do you have the same problems before ? thanks

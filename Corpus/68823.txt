@@ -1,0 +1,1 @@
+ URL : "https://github.com/ThrivingVentures/ServerGuard/issues/411" TITLE : silent console commands BODY : is there a way to run commands silently in the console, for example im making my noclip bind do this bind v say ~noclip ^;sg invisible jimmy but i dont want in the chat for it to say that i went invisible, help

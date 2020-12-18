@@ -1,0 +1,1 @@
+ URL : "https://github.com/Nirma/Default/issues/4" TITLE : hope to support rxswift BODY : for example userdefaults.standard.rx.observe usermodel.self, key .subscribe onnext: { model in print model } .disposed by: dis is not working. because observe is data , thx

@@ -1,0 +1,1 @@
+ URL : "https://github.com/sensu-plugins/sensu-plugins-pdns/issues/4" TITLE : add more metrics BODY : we need to enhance for more metrics not available by rec_control like queries/second qps

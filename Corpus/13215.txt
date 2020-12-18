@@ -1,0 +1,1 @@
+ URL : "https://github.com/subugoe/goefis/issues/125" TITLE : test with facets BODY : we need changes in config/feature.yml to adapt filter in the facets. but also a restart of the server i couldn't do this! . we should test it.

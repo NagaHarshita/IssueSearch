@@ -1,0 +1,1 @@
+ URL : "https://github.com/seanmcne/Microsoft.Xrm.Data.PowerShell/issues/232" TITLE : set lookup field to null BODY : how can we set lookup field to null for a record? the following code is not working: $importedtheme.logoid = $null $importedtheme.logoid_property = $null set-crmrecord -conn $connection -crmrecord $importedtheme the lookup field value remains non-empty

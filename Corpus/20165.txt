@@ -1,0 +1,1 @@
+ URL : "https://github.com/rsmontero/redmine_test/issues/11" TITLE : bug at host delete BODY : --- author name: abel miguez abel miguez original redmine issue: 34, https://dev.opennebula.org/issues/34 original assignee: tino vázquez --- when calling the one.hostdelete method through xmlrpc, in case of failing you get not information about the error.

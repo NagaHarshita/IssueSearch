@@ -1,0 +1,1 @@
+ URL : "https://github.com/OrchardCMS/Orchard/issues/7662" TITLE : jobsqueue has error BODY : when i stoped the jobs,it still in running; the bug is that public class jobsqueuesettingspart : contentpart { public jobsqueuestatus status { get { return this.retrieve x => x.status ; } set { this.store x => x.status, value ; } } } the status property was not used.

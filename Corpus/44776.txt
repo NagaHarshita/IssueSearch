@@ -1,0 +1,1 @@
+ URL : "https://github.com/h-sao/h-sao.com/issues/1" TITLE : fix template function BODY : https://discuss.gohugo.io/t/menu-weight-and-other-oddity/5653 hugo v0.9 doesn't support old template function for bug fix.

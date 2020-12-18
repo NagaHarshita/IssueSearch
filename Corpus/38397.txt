@@ -1,0 +1,1 @@
+ URL : "https://github.com/Optware/Optware-ng/issues/211" TITLE : php-fcgi no working! BODY : hi! i did everything on this article but the application does not work : https://www.hqt.ro/nginx-web-server-with-php-support-through-optware-ng/ go to http://192.168.59.1/info.php error: an error occurred. model: rt-ac88u firmware: 380.68_2

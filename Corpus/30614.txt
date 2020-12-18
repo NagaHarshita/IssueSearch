@@ -1,0 +1,1 @@
+ URL : "https://github.com/cameron314/concurrentqueue/issues/103" TITLE : producer can starve BODY : hi there, from what i can see the try_dequeue call will always pick the subqueue with the largest number of elements which can lead to starvation of other subqueues when a producer is consistently more active than others. is there a way to prevent starvation?

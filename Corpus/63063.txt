@@ -1,0 +1,1 @@
+ URL : "https://github.com/vthibault/roBrowser/issues/149" TITLE : default camera rotation BODY : the default height of the camera is a little bit too much high. i'm just guessing, but it seems to be at around 60°, where it should be around 45°.

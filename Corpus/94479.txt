@@ -1,0 +1,1 @@
+ URL : "https://github.com/aaugustin/django-sequences/issues/6" TITLE : cannot install due to bug. BODY : https://github.com/aaugustin/django-sequences/blob/master/sequences/__init__.py l15 why is there a in the middle of the method signature?

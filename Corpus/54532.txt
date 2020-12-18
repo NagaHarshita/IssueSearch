@@ -1,0 +1,1 @@
+ URL : "https://github.com/Kyubyong/tacotron/issues/49" TITLE : global steps vs epochs BODY : can someone explain to me the difference between epochs and global steps? i'm training a few thousand epochs, but the global steps stay low.

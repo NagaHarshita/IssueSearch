@@ -1,0 +1,1 @@
+ URL : "https://github.com/sconnellcom/BackupToS3/issues/1" TITLE : no empty folders on s3 BODY : update to create empty folders on s3 or create a file on s3 that lists the folders on the backup source.

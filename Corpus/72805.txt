@@ -1,0 +1,1 @@
+ URL : "https://github.com/devkeydet/Drupal8AzureWebAppSqlDb/issues/8" TITLE : change phpversion to 5.5 BODY : seems to be much faster install experience than 7.0 and is what https://github.com/sunbuild/drupalcms-azure uses.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/xmg-hhu/xmg-webgui/issues/3" TITLE : use random folders BODY : files are stored in folders with random name. their name can be used as permanent identifier of projects. this also enables one to upload and edit larger projects consisting of several files.

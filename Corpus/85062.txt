@@ -1,0 +1,1 @@
+ URL : "https://github.com/babel/babel-sublime/issues/312" TITLE : encoding isn't remembered BODY : hi, great work on this. i'm having an issue where whenever i quit sublime test, and re-open a babel file- it doesn't remember to show it in babel. it reverts back to javascript. is this a known bug?

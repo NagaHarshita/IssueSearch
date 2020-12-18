@@ -1,0 +1,1 @@
+ URL : "https://github.com/NathanWalker/angular-seed-advanced/issues/433" TITLE : how to get platform type ? BODY : i am basically running my app for web and mobile and i want to do some platform specific code. how to know the platform is web or mobile or desktop ?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ricksladkey/generateDS/issues/1" TITLE : order of children matters BODY : one should have control over the order of children. currently they are ordered in exportchildren by their generateds class. this is important, for example, for math prefix notation where / 1 2 is not the same as / 2 1.

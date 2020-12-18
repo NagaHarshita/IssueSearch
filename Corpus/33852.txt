@@ -1,0 +1,1 @@
+ URL : "https://github.com/Franknsten/EasyFitnessTracking/issues/2" TITLE : autofocus steps date BODY : autofocus the date picker to the day after the last step entry ideal flow is 1. log steps for day n 2. go back x days later 3. instead of the date picker focusing to n+x days, it autofocuses to n+1

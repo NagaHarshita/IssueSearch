@@ -1,0 +1,1 @@
+ URL : "https://github.com/Servir-Mekong/JRCFloodTool/issues/4" TITLE : add additional layers BODY : add additional layers on: - roads - settlements location, village location, etc. - administrative boundary layer and names - population by village, rrd will try to get from gov. departments

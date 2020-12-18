@@ -1,0 +1,1 @@
+ URL : "https://github.com/LosYakuza/jrpg-2017a-servidor/issues/9" TITLE : path de base de datos BODY : verificar que se lea en root y no en $home no crear si no existe, lanzar error

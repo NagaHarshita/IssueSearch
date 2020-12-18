@@ -1,0 +1,1 @@
+ URL : "https://github.com/retorquere/zotero-better-bibtex/issues/772" TITLE : copy-paste to latex BODY : i don't think the copy-paste feature works in current bbt version when i do ctrl+c in zotero and ctrl+v in texstudio the url of the article is copied when i drag the article with the mouse, a textual reference is copied

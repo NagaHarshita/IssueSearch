@@ -1,0 +1,1 @@
+ URL : "https://github.com/linagora/hublin/issues/62" TITLE : media stream not found BODY : installed local - works great. but on the server with self signed ssl i get an error: media stream not found : any ideas how to fix this?

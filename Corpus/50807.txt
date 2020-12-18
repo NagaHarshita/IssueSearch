@@ -1,0 +1,1 @@
+ URL : "https://github.com/ItsJimi/store-data/issues/13" TITLE : add an update function BODY : update take the same field than set but if there are same key in the 2 objects, replace only the old value. and si new key, add this key with her value.

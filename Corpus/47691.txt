@@ -1,0 +1,1 @@
+ URL : "https://github.com/vazco/uniforms/issues/279" TITLE : problem with inputref BODY : js componentdidmount { this.balanceref.focus ; } ------ <autofield name= balance inputref={ ref => { this.balanceref = ref }} /> get error js uncaught typeerror: this.balanceref.focus is not a function at orderpayment.componentdidmount

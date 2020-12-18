@@ -1,0 +1,1 @@
+ URL : "https://github.com/lingochamp/FileDownloader/issues/456" TITLE : https not support BODY : javax.net.ssl.sslhandshakeexception: java.security.cert.certpathvalidatorexception: trust anchor for certification path not found.

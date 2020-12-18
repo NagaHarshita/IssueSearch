@@ -1,0 +1,1 @@
+ URL : "https://github.com/openbmc/openbmc/issues/2165" TITLE : enable occ error detection BODY : openpower-occ-control had put the occ error detection code before but due to the hub fsi expectation, occ control now needs to wait till all the occs are bound before starting error detection and this needs change in the occ management code

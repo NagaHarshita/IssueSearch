@@ -1,0 +1,1 @@
+ URL : "https://github.com/rootzoll/konfetti-app/issues/94" TITLE : spring boot optimizing BODY : when looking at the test server ... we see a lot of java processes and memory is already maxed out. would be great if somebody can check if we can optimize here.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/dotConnection/newnews/issues/85" TITLE : drill down/zoom solution BODY : prevent map from reverting to original zoom level when onclick happens in drilled down view.

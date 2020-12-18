@@ -1,0 +1,1 @@
+ URL : "https://github.com/hadim/jupyter-kernel-jsr223/issues/4" TITLE : ij packages import BODY : i have added fiji.app/jars but i can't import ij related libs. do i need to do something else than adding jar files in the classpath to make them available ?

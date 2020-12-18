@@ -1,0 +1,1 @@
+ URL : "https://github.com/ros/ros_comm/issues/1231" TITLE : change color of rosconsole BODY : hello, could a feature be implemented to change the color of the various logger levels, or even a mode like ros_info_color where one could specify the color? thanks, nathan

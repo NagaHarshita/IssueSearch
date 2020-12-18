@@ -1,0 +1,1 @@
+ URL : "https://github.com/metabase/metabase/issues/5232" TITLE : the mb_db_ variables BODY : documentation: run java -jar metabase.jar reality: setup the mb_db_ variables first and only after this run the jar file. where is it described in the documentation if at all?

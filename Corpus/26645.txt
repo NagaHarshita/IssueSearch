@@ -1,0 +1,1 @@
+ URL : "https://github.com/cs480SnackOverflow/front-end/issues/27" TITLE : bug in testing mode BODY : in testing mode, if you say a definition of a different flashcard, the server will say it correct instead of incorrect.

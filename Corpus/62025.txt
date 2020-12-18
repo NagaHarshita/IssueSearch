@@ -1,0 +1,1 @@
+ URL : "https://github.com/lthurner/pandapower/issues/72" TITLE : can't import pandapower BODY : hi! i have problems importing pandapower. whenever i run import pandapower it starts running the code but nothing happens until i cancel it. i have anaconda and windows 10. please help me with your solution.

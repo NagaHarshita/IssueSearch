@@ -1,0 +1,1 @@
+ URL : "https://github.com/patrickkettner/cookie-change-events/issues/17" TITLE : delete behavior incorrect BODY : maplike<..>’s delete api is added to the cookiejar interface. the sample code cookie.delete should be changed to document.cookie.delete cookie

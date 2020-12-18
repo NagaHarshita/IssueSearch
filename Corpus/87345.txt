@@ -1,0 +1,1 @@
+ URL : "https://github.com/plouc/nivo/issues/72" TITLE : label and grid management BODY : we use the line component to render timeseries data ~1000 samples on the x-axes and would like to have a limited ~10 number of labels and gridlines on the x-axes. is this currently possible?

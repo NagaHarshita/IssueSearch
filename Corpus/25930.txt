@@ -1,0 +1,1 @@
+ URL : "https://github.com/keyboardDrummer/Blender/issues/3" TITLE : add jasmin language BODY : add the jasmin language as an example. jasmin is a simplified bytecode language, defined here: https://en.wikipedia.org/wiki/jasmin_ software it serves as a great intermediate language for java compilation.

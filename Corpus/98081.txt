@@ -1,0 +1,1 @@
+ URL : "https://github.com/Shadowss/TravianZ/issues/390" TITLE : implement voting postbacks BODY : incentive-voting is a feature where after voting for a server on some ranking website, that website will ping back a confirmation of the user who voted. this is then used to usually give away gold, but can be used to give resources or plus or plus bonuses .

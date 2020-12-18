@@ -1,0 +1,1 @@
+ URL : "https://github.com/linq2db/linq2db/issues/955" TITLE : how to do null conversion? BODY : create table orders orderid int, quantity int ; insert into orders values 1, null ; db .orders .where o => o.orderid == 1 .set o => o.quantity, o => sql.convert<int, int?> 0, x.quantity + 1 .update ; thank!

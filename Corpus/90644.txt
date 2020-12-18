@@ -1,0 +1,1 @@
+ URL : "https://github.com/asajeffrey/linjs/issues/30" TITLE : space leaks of heap boxes BODY : at the moment, we're heap-allocating heap objects, but never reclaiming the space, e.g. https://github.com/asajeffrey/linjs/blob/fd90f01ec1ce68b0258cb58c613471862e71c2ec/src/lib.rs l1144-l1146

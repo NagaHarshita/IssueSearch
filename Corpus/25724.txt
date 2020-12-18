@@ -1,0 +1,1 @@
+ URL : "https://github.com/feimosi/frameworks-code-comparison/issues/8" TITLE : add 'lists' section BODY : at least a simple example of using lists: - angularjs: ng-repeat , trackby - angular: ngfor - react: key preferably also with links to docs.

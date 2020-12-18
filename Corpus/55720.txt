@@ -1,0 +1,1 @@
+ URL : "https://github.com/Aleksey25/HomeWork/issues/3" TITLE : lesson 8 task 5 circle BODY : 1. изменить имя константы pi в соотв. с рекомендациями. 2. добавьте модификаторы доступа методам. 3. system.out.println длинна окружности: + length ; лучше перенести circlemain.

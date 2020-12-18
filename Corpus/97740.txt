@@ -1,0 +1,1 @@
+ URL : "https://github.com/cuMF/cumf_sgd/issues/1" TITLE : how to extract x and theta BODY : how and where do i extract x and theta after convergence? are these being written to a file on the host device?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ClosrCA/closr_server/issues/6" TITLE : get /promotions basic BODY : /promotions?page=3&page_size=30 get a list of promotions. - default page size: 10

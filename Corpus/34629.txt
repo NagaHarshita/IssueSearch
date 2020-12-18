@@ -1,0 +1,1 @@
+ URL : "https://github.com/azaroth42/museum-lod/issues/20" TITLE : commission for agent BODY : need to be able to distinguish payments as part of purchases/acquisitions where money goes to the agent as commission for carrying out the transaction. hopefully aat:commission vs aat:something else

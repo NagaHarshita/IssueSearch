@@ -1,0 +1,1 @@
+ URL : "https://github.com/bundler/gemstash/issues/143" TITLE : s3 storage backend BODY : hi there, i'm keen to write an s3 storage backend. that way a gemstash server could be easily deployed to providers like heroku, etc. given there is no plugin system yet , is this just a matter of providing my own s3 storage and resource classes?

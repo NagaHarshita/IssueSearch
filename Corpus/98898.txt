@@ -1,0 +1,1 @@
+ URL : "https://github.com/HubSpot/draft-convert/issues/35" TITLE : lists ul and ol are broken BODY : invariant violation: converttohtml: received block information without either a reactelement or an object with start/end tags this happens whenever there's an ordered or unordered list. adding the block types to the blocktohtml function has no effect. it still throws that error.

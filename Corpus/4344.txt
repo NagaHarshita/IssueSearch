@@ -1,0 +1,1 @@
+ URL : "https://github.com/reactql/cli/issues/36" TITLE : can't run dist BODY : 1.yarn build 2.cd ./dist 3.node server.js error: enoent: no such file or directory, open '/users/bobo/documents/bobo/democode/reactqldemo/firstreactql/dist/dist/manifest.json' what has many dist in path?

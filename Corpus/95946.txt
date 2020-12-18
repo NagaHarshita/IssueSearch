@@ -1,0 +1,1 @@
+ URL : "https://github.com/asac/openwrt-snap/issues/1" TITLE : doing the same with chroot BODY : hello! i'm a developer from the https://github.com/libremesh/ project. i'm trying to fasten the development, and your strategy seems interesting. i want to run init, but calling /sbin/init directly is not working. have you solved it? how? thanks!!!!

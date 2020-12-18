@@ -1,0 +1,2 @@
+ URL : "https://github.com/SIB-Colombia/biodiversity_catalogue_v2_API/issues/27" TITLE : get service for dispersal BODY : history / dispersal implement a service to get information for: javascript
+dispersal = { dispersalatomized: { purpose: '', type: '', structuredispersed: '', distance: '' }, dispersalunstructured: '', ancillarydata: }; the class specification can be found in https://github.com/tdwg/pliniancore/wiki/dispersalclass the general documentation of plinian core can be found in https://github.com/tdwg/pliniancore/wiki

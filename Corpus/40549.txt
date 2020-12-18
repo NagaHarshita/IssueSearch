@@ -1,0 +1,1 @@
+ URL : "https://github.com/Maato/thunar-dropbox/issues/9" TITLE : update for thunarx-3 BODY : thunar is currently being ported to gtk3 and during this process we had to bump thunarx to 3. it seems that all you need to do is to update wscript lines 20 and 32 to support thunar current master future 1.7.0 .

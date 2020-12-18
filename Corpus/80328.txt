@@ -1,0 +1,1 @@
+ URL : "https://github.com/nm-l2tp/network-manager-l2tp/issues/67" TITLE : timeout on debian jessie BODY : the vpn server i am connecting to uses legacy ciphers: phase 1: 3des-sha1-modp1024 phase 2: 3des-sha1

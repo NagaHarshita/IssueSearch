@@ -1,0 +1,1 @@
+ URL : "https://github.com/EFForg/privacybadger/issues/1373" TITLE : pb triggers grammarly ads BODY : see: https://github.com/easylist/easylist/issues/249 abp blocks the ads but leaves a placeholder . but if pb is active, the ads will show.

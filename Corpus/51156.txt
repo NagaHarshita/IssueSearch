@@ -1,0 +1,1 @@
+ URL : "https://github.com/CorfuDB/CorfuDB/issues/885" TITLE : add stream skipall api BODY : add a skipall api that seeks the stream's pointer to the global tail.

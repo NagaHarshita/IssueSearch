@@ -1,0 +1,1 @@
+ URL : "https://github.com/sensel/sensel-api-processing/issues/2" TITLE : examples don't start BODY : hi, i just downloaded the api and when i run any of the two examples, i only get two messages at the console opening com5 & opening com6 and no window opens. any ideas? i am on windows7, processing 2.2.1 thanks georgios

@@ -1,0 +1,1 @@
+ URL : "https://github.com/MPBA/pyHRV/issues/8" TITLE : load sample data for tests BODY : example: class asset object : asset = sample_data/ data = load 'medical.txt' def ecg : return data :,0 def eda : return 9etc etc

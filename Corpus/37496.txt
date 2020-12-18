@@ -1,0 +1,1 @@
+ URL : "https://github.com/nextcloud/android-library/issues/94" TITLE : maven plugin needed? BODY : https://github.com/nextcloud/android-library/blob/master/build.gradle l12 do we need this? @mario @andyscherzinger

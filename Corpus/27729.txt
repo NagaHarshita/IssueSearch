@@ -1,0 +1,1 @@
+ URL : "https://github.com/DRDD2016/api/issues/53" TITLE : edit existing event BODY : - endpoint put /events/:event:id - sql query

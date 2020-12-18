@@ -1,0 +1,1 @@
+ URL : "https://github.com/arkayenro/arkinventory/issues/931" TITLE : cpu spikes with 3.07.26 BODY : i am getting cpu spikes while my bag is open with 3.07.26. it happens on average once a second for a few frames. addonusage confirms that arkinventory is causing almost all the cpu usage. i downversioned to 3.07.25 and it seems to have fixed it.

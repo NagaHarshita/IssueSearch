@@ -1,0 +1,1 @@
+ URL : "https://github.com/Its-Alex/HyperTube/issues/22" TITLE : link other oauth account BODY : need to link others oauth account there are links here : 42 = http://localhost:3005/auth/42?token= token github = http://localhost:3005/auth/github?token= token facebook = http://localhost:3005/auth/facebook?token= token need to use javascript window.location.href

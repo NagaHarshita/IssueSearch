@@ -1,0 +1,1 @@
+ URL : "https://github.com/nomovok-opensource/cutedriver-agent_qt/issues/28" TITLE : children {} is broken BODY : it seems that we have a regression with children {} . noticed and verified the existence with a wip code for cutedriver-examples. i will fix this as soon as possible.

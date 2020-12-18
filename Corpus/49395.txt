@@ -1,0 +1,1 @@
+ URL : "https://github.com/emberjs/data/issues/4945" TITLE : throwing in serialize BODY : if i throw an error whilst serializing, i was expecting to be able to catch this with save .catch ... does this seem reasonable? https://ember-twiddle.com/e63e22ec26ced2171e2c53cc088af37c?openfiles=controllers.application.js%2c

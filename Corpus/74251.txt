@@ -1,0 +1,1 @@
+ URL : "https://github.com/MISP/MISP/issues/2078" TITLE : email template or sample BODY : hi, i set misp 2.4.56 version. i'm configuring the email right now and i see that the mail is send with all atributes. can i create some template???? i want to send the mail with out attributes, is it possible? thanks a lot

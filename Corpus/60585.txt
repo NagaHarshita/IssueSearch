@@ -1,0 +1,1 @@
+ URL : "https://github.com/pmem/pcj/issues/13" TITLE : actually document types BODY : none of the types seem to have documentation, see for example transaction https://github.com/pmem/pcj/blob/master/llpl/src/main/java/lib/llpl/transaction.java .

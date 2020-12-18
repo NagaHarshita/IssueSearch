@@ -1,0 +1,1 @@
+ URL : "https://github.com/HexadecimalPython/Amethyst/issues/10" TITLE : multiple owners is borked. BODY : id does not register unless bot is rebooted. id saves as int instead of string.

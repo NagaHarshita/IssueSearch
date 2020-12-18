@@ -1,0 +1,1 @@
+ URL : "https://github.com/SeismicGames/puppetdb_runner/issues/1" TITLE : add ssl support BODY : ssl support in java a mess. need to find a solution to make aes256-sha256 tlsv1.2 http requests work so they work with puppetdb.

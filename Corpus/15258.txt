@@ -1,0 +1,1 @@
+ URL : "https://github.com/davidjbradshaw/iframe-resizer/issues/475" TITLE : cut down version? BODY : i'd love to use this tool, but i can't justify 12k minified for it - especially when a lot of that appears to be flexible configuration i just want an iframe that doesnt collapse and extending jquery which we don't use . is there any possibility of a no-frills version?

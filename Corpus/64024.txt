@@ -1,0 +1,1 @@
+ URL : "https://github.com/carls-app/carls/issues/101" TITLE : fetch papercut balances BODY : bash $ curl https://papercut.stolaf.edu/rpc/api/rest/internal/webclient/users/rives { formattedbalance : $1.48 , username : rives , fullname : hawken m rives }

@@ -1,0 +1,1 @@
+ URL : "https://github.com/BartBucknill/local_weather/issues/2" TITLE : script blocked by browser BODY : script blocked by browser for security reasons chrome, firefox, safari . seemingly this is due to openweather api free version being hosted on http not https.

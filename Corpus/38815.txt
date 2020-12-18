@@ -1,0 +1,1 @@
+ URL : "https://github.com/HenrikJoreteg/webrtcsupport/issues/28" TITLE : react native support BODY : it would be nice if this module supported react-native-webrtc https://github.com/oney/react-native-webrtc in order to support projects using react-native. would a pr with this change be welcome?

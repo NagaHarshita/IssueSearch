@@ -1,0 +1,1 @@
+ URL : "https://github.com/NYPL-discovery/discovery-front-end/issues/251" TITLE : upgrade react version BODY : current version encumbers components with “span bloat” that makes supporting the toolkit and designing around it difficult: ! image https://cloud.githubusercontent.com/assets/133020/25680806/1faaf200-3020-11e7-94ce-35d703964730.png

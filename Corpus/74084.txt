@@ -1,0 +1,1 @@
+ URL : "https://github.com/MikeRogers0/LivePage/issues/104" TITLE : doesn't work with jekyll BODY : does not pull in the changes when jekyll serves the site with bundle exec jekyll serve .

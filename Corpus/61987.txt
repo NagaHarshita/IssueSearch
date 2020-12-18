@@ -1,0 +1,1 @@
+ URL : "https://github.com/xcodeswift/xcproj/issues/104" TITLE : can't build for testing BODY : context 🕵️‍♀️ try to run tests in master. what 🌱 have an errors: module 'xcproj' was not compiled for testing proposal 🎉 fix it!

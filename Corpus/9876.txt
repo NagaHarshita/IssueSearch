@@ -1,0 +1,1 @@
+ URL : "https://github.com/topepo/yardstick/issues/2" TITLE : add more metrics BODY : - kappa weighted and unweighted - somer's d - various log-losses, - c rand statistic - detection prevalence - bal accuracy - detection rate rate

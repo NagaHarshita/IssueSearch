@@ -1,0 +1,1 @@
+ URL : "https://github.com/tildetown/tilde-wiki/issues/3" TITLE : create /wiki skeleton BODY : - add compiled/ to .gitignore - add src/ - add src/{toc,header,footer}.md - add src/articles - add src/index.md

@@ -1,0 +1,1 @@
+ URL : "https://github.com/lsycxyj/vue-l-carousel/issues/4" TITLE : remove less dependancy? BODY : is is possible to remove the dependancy on less? the css wont compile on projects that don't use less. i'm sure vanilla css would work

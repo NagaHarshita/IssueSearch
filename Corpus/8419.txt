@@ -1,0 +1,1 @@
+ URL : "https://github.com/Duerno/SGM/issues/3" TITLE : nota de rodapé BODY : esconder nota de rodapé, caso nenhuma nota substitutiva possa ser visualizada. exemplo: existem notas substitutivas de determinado conjunto de avaliações, mas este não está configurado com show_in_pdf=default .

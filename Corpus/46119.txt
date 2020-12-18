@@ -1,0 +1,1 @@
+ URL : "https://github.com/AdrianToman1/uiBreadcrumbs/issues/17" TITLE : libs folder structure BODY : restructure files in the libs folder so that files are in sub-folders named after the library, include their version number. this will ease the identification of the exact library being used.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/polferrando98/Commando-by-Aperture-Wolves/issues/11" TITLE : respawn of the player BODY : expected behavior when the player respawns, should be looking always at the top of the screen. actual behavior the player looks at the last position it was before he died steps to reproduce the behavior dying with the character looking at any place but the top.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/pH-7/Obfuscator-Class/issues/4" TITLE : a fix for the <?php thing BODY : unfortunately removing <?php <? and ?> will not work. i am using this fix in your obfuscator class. public function __construct $sdata, $sname { $this->sname = $sname; $this->sdata = $sdata; if substr $this->sdata, 0, 5 == '<?php' { $this->sdata = substr $this->sdata, 5 ; }

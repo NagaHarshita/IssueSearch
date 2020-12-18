@@ -1,0 +1,1 @@
+ URL : "https://github.com/mocheng/react-and-redux/issues/32" TITLE : report error on page 13 BODY : 以下代码，混用了中文的 “” jsx <span id=“ clickcount”>{this.state.count}</span>

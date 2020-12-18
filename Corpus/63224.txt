@@ -1,0 +1,1 @@
+ URL : "https://github.com/vastgroup/vast-tools/issues/57" TITLE : diff --help not working BODY : vast-tools diff --help does not show help any more

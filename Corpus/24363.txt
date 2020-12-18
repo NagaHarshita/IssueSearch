@@ -1,0 +1,1 @@
+ URL : "https://github.com/JonasSyrstad/Stardust.Interstellar.Rest/issues/13" TITLE : split main package BODY : create a separate package for client proxy and controller generation

@@ -1,0 +1,1 @@
+ URL : "https://github.com/zhaoweicai/mscnn/issues/66" TITLE : something about the label BODY : i see the mscnn\mscnn-master\examples\kitti_car\mscnn-7s-384-2x trainval_1st.protxotxt,the label top: label_1_5x5 top: label_1_7x7 top: label_2_5x5 top: label_2_7x7 top: label_3_5x5 top: label_3_7x7 top: label_4_5x5 so many label for just one picture?

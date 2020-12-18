@@ -1,0 +1,1 @@
+ URL : "https://github.com/TileDB-Inc/TileDB/issues/126" TITLE : add mpi tests BODY : this perhaps requires rebuilding i.e., rerunning cmake with the mpi flags on in travis.

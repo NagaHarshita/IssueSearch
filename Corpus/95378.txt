@@ -1,0 +1,1 @@
+ URL : "https://github.com/jcu-eresearch/TDH-Research-Data-Catalogue/issues/2" TITLE : curation of external links BODY : redbox is attempting to curate external links in 'related data'. this fails and can cause curation to prevent records from being published. check that the flag local related data is being properly observed by the curation engine.

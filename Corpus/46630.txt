@@ -1,0 +1,1 @@
+ URL : "https://github.com/docker/docker/issues/30133" TITLE : missing command watch BODY : hello the command watch is missing. in docker: bash: watch: command not found in container: error opening terminal: unknown.

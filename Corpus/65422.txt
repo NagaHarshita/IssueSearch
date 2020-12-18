@@ -1,0 +1,1 @@
+ URL : "https://github.com/ppasieka/sparky-mine/issues/1" TITLE : integrate with firebase BODY : - create firebase account and project - manage user accounts through firebase api - store api keys for redmine

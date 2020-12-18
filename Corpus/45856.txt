@@ -1,0 +1,1 @@
+ URL : "https://github.com/HowardHinnant/date/issues/161" TITLE : is android supported? BODY : when i tried to build date on android, it reported a fatal error: tz.cpp:128:23: fatal error: wordexp.h: no such file or directory does date work on android? thanks!

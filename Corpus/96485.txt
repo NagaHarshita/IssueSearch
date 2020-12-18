@@ -1,0 +1,1 @@
+ URL : "https://github.com/pyload/pyload/issues/2745" TITLE : exclude files via sevenzip BODY : hello, in pyload it's possible to exclude some files. unrar extract this right but if i extract via sevenzip, i have this exclude files in directory. is sevenzipt not compatible with these option?

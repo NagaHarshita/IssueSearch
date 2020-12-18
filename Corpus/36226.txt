@@ -1,0 +1,1 @@
+ URL : "https://github.com/OfficeDev/microsoft-teams-template-bot/issues/4" TITLE : global vs local gulp BODY : this stack overflow article https://stackoverflow.com/questions/22115400/why-do-we-need-to-install-gulp-globally-and-locally makes a pretty strong case for installing gulp locally versus globally as recommended in the readme.md. thoughts?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/aspnet/SignalR/issues/1057" TITLE : disconnect / reconnect BODY : hi guys, are there javascript events available yet for disconnect and reconnect as was available in signalr 2? thanks

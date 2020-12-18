@@ -1,0 +1,1 @@
+ URL : "https://github.com/exercism/xelixir/issues/297" TITLE : isogram unicode testcase BODY : in exercism/x-common 428 there was found consens in not testing behaviour for something outside ascii for a couple of reasons. the current testsuite of isograms violates this rule by the last test case.

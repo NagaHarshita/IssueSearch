@@ -1,0 +1,1 @@
+ URL : "https://github.com/googollee/go-socket.io/issues/188" TITLE : socket.io 2.0 support? BODY : is there anything planned for it? i can't get it to work with js socket.io-client https://github.com/socketio/socket.io-client , the connection just never seems to happen.

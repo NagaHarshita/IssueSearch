@@ -1,0 +1,1 @@
+ URL : "https://github.com/rizvisarwar/SampleSPA_With_KnockoutJS/issues/3" TITLE : unique movie name BODY : right now, users can add multiple movies with the same name! which is okay in reality. but there must be a way to distinguish them. may be by year! or, by adding the directors name!

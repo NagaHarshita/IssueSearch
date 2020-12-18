@@ -1,0 +1,1 @@
+ URL : "https://github.com/WormBase/website/issues/5863" TITLE : pantherdb display patch BODY : hi, i put a patch to fix the display of the pantherdb version numbers here: ftp://ftp.ebi.ac.uk/pub/databases/wormbase/releases/ws261/acedb/patches/acedb/patches/pantherdb_analysis_fix.ace could you load that into the staging acedb ws261 database? thanks, m

@@ -1,0 +1,1 @@
+ URL : "https://github.com/m4tx/satori-enhancements/issues/11" TITLE : use visibility: collapse BODY : as chrome 62 supports visibility: collapse for table rows, we should use that instead of setting display: none when hiding the problems this will preserve column widths .

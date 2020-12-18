@@ -1,0 +1,1 @@
+ URL : "https://github.com/Lodifice/mfnf-pdf-export/issues/98" TITLE : retry for http errors BODY : there are often http errors and remoteconnectioerrors which interrupt the build. espacilly for long builds this is annoying. there should be a retry system for these kinds of errors.

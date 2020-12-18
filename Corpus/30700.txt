@@ -1,0 +1,1 @@
+ URL : "https://github.com/donkirkby/live-py-plugin/issues/158" TITLE : pycharm back button BODY : if you visit a function definition in pycharm, then go back, it hides the live coding display.

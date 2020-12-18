@@ -1,0 +1,1 @@
+ URL : "https://github.com/hwdsl2/setup-ipsec-vpn/issues/158" TITLE : not found module af_key? BODY : shell $: sudo modprobe af_key modprobe: error: ../libkmod/libkmod.c:586 kmod_search_moddep could not open moddep file '/lib/modules/4.9.15-x86_64-linode81/modules.dep.bin' modprobe: fatal: module af_key not found in directory /lib/modules/4.9.15-x86_64-linode81

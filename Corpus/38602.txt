@@ -1,0 +1,1 @@
+ URL : "https://github.com/SChAth/ScAthiop/issues/580" TITLE : problem with indexes BODY : http://betamasaheft.aai.uni-hamburg.de/keywords/ > http error 404 > > problem accessing /exist/apps/betmas/keywords/. reason: > > document /db/apps/betmas/keywords not found http://betamasaheft.aai.uni-hamburg.de/additions > 504 gateway time-out

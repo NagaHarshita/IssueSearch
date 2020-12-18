@@ -1,0 +1,1 @@
+ URL : "https://github.com/ma-zal/node-oracledb-autoreconnect/issues/2" TITLE : how about querystream? BODY : this package is really cool. how hard would it be to add support for querystream? looking at the code it seems like it could be done but thought i would ask if you guys had looked into it? ernie

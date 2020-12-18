@@ -1,0 +1,1 @@
+ URL : "https://github.com/prometheus/alertmanager/issues/734" TITLE : freshen up ui BODY : we've added bootstrap, now we need to get a rough draft of a ui going. doesn't need to be permanent, but what we currently have needs some love.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/vmware/vic-product/issues/76" TITLE : document docker cp support BODY : _from @stuclem on may 30, 2016 12:36_ document docker cp support, as per https://github.com/vmware/vic/issues/769. _copied from original issue: vmware/vic 819_

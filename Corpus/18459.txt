@@ -1,0 +1,1 @@
+ URL : "https://github.com/nnadeau/pybotics/issues/59" TITLE : test example code BODY : jupyter nbconvert --to script --execute --stdout example_calibration.ipynb | python3

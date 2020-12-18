@@ -1,0 +1,1 @@
+ URL : "https://github.com/congredi/congredi/issues/20" TITLE : osx on travis-ci BODY : since osx doesn't support python natively, use a workaround to provide the python binary and run tests.

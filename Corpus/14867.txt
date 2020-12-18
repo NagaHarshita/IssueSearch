@@ -1,0 +1,1 @@
+ URL : "https://github.com/HaitiData/haitidata/issues/37" TITLE : change page title BODY : the string exemple.com is always in the title. use haitidata.org instead. > <title> bienvenue! - example.com </title>

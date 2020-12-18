@@ -1,0 +1,1 @@
+ URL : "https://github.com/rails/webpacker/issues/69" TITLE : rails babel preset BODY : thoughts on creating a babel preset or a npm package with all the dependencies this needs? seems easier than managing this line: https://github.com/babel/babel/tree/master/packages/babel-preset-latest

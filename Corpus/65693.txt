@@ -1,0 +1,1 @@
+ URL : "https://github.com/Phoenix1747/arketo/issues/1" TITLE : kernel detection broken BODY : so apparently i didn't check anything and just noticed that arch doesn't even detect one kernel like it should neither does it find any available kernel package. have to look into this, in the meantime this script works fine for manjaro in which i tested initially , so yeah.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/bumptech/glide/issues/1850" TITLE : how to load https url BODY : when i show https url, there is exception:javax.net.ssl.sslhandshakeexception: java.security.cert.certpathvalidatorexception: trust anchor for certification path not found. how to fix it.

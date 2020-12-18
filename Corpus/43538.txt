@@ -1,0 +1,1 @@
+ URL : "https://github.com/Team065/FinalProject/issues/1" TITLE : create welcome screen BODY : as a user, when i launch the app, i want to see a welcome screen to give me options to either login or register a new account. acceptance criteria: -login button is present -login button leads to the login screen when clicked -register button is present

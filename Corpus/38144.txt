@@ -1,0 +1,1 @@
+ URL : "https://github.com/TheBestOrNothing/DistributedSystem/issues/3" TITLE : notice in lab3 - get BODY : when start to get op and leader changed and entry not apply to the new leader, we should make sure the commited entry applied. so we write get entry to new leader and let the entry applied.

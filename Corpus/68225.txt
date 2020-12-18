@@ -1,0 +1,1 @@
+ URL : "https://github.com/shiyuge/pic2str/issues/1" TITLE : replace pil with opencv BODY : investigate how to convert a django upload file object directly into numpy.array

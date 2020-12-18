@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/vcpkg/issues/1973" TITLE : port request: devil BODY : devil is a cross-platform image library that in it's last version has been reworked to fully work with cmake. i would love to see it integrated into vcpkg. the project url is http://openil.sourceforge.net thank you

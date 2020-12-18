@@ -1,0 +1,1 @@
+ URL : "https://github.com/DoSomething/gambit-conversations/issues/73" TITLE : outbound message status BODY : we're currently making a post to the converation medium's api to deliver our outbound messages to users, but there aren't any checks for failure.

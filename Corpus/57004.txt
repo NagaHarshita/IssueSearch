@@ -1,0 +1,1 @@
+ URL : "https://github.com/IBM/osslm-ucd-adaptor/issues/2" TITLE : passwords in plaintext BODY : the paswords for the ucd and ucdp users are stored in plaintext in the application.yaml file for the ucd driver. can we find some way to encrypt these passwords? or hide them somehow?

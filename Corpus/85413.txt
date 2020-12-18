@@ -1,0 +1,1 @@
+ URL : "https://github.com/jspaaks/kernel_tuner/issues/2" TITLE : extern c might be missing BODY : ben's equivalent code had an extern c here https://github.com/jspaaks/kernel_tuner/blob/5de8aee4559046a40ea5a5a50434e0c29009b783/kernel_tuner/kernelc.py l58

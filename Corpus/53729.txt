@@ -1,0 +1,1 @@
+ URL : "https://github.com/torchbox/gitlab-kube-deploy/issues/1" TITLE : error on deploy_review BODY : first of all thank you for automating this! i am struggling to get the deploy command working and it is spitting out the error --gitlab: cannot determine kubernetes ca certificate do you know how i can remedy this?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/GoogleChrome/workbox/issues/731" TITLE : add --verbose flag for cli BODY : can be used to log globbed files and additional info.

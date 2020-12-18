@@ -1,0 +1,2 @@
+ URL : "https://github.com/vaadin/vaadin-combo-box/issues/590" TITLE : fix the demos BODY : at least item template demos look quite broken:
+https://www.dropbox.com/s/a9uhc9ruy01k9tw/screenshot%202017-12-22%2009.36.22.png?dl=0

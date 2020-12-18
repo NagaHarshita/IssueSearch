@@ -1,0 +1,1 @@
+ URL : "https://github.com/mautic/mautic-wordpress/issues/39" TITLE : does not use https scheme BODY : despite having the correct scheme in the options panel, the script still loads http and gets blocked because the site and the mautic dashboard are https not sure how to make the plugin specify https schemes

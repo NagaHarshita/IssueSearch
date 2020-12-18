@@ -1,0 +1,1 @@
+ URL : "https://github.com/narcode/codeklavier/issues/8" TITLE : issues sha ck BODY : it crashes. was playing around with effects for ~hello.play and the ~ost.play stopped running. tried to re-evaluate lines 3 and 4 and whole thing crashed. i think it's a midi stacking thing.

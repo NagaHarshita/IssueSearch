@@ -1,0 +1,1 @@
+ URL : "https://github.com/grpc/grpc-java/issues/3633" TITLE : java 9 not supported yet? BODY : /root/grpc-kotlin-hello/proto/src/main/java/io/grpc/examples/helloworld/greetergrpc.java:23: error: cannot find symbol @javax.annotation.generated ^ symbol: class generated location: package javax.annotation 1 error failure: build failed with an exception.

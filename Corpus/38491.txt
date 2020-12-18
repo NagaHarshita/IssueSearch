@@ -1,0 +1,15 @@
+ URL : "https://github.com/NSI-IT/AUG-DDMOBILE/issues/173" TITLE : po > message history BODY : as a user i would like to view message history so that i may know what is happening on a message. - verify that i can see the message history of what actions have been made on a particular message by different users sender/responder/receivers - verify that trail will be maintained of the following actions:- 1. who sent the message <subject> to whom
+2. who read the message <subject>
+3. who saved the message <subject> as draft
+4. who trashed the message <subject> 5. who restored the message <subject>
+6. who tagged the message <subject> 7. who untagged the message <subject>
+8. who starred the message <subject> 9. who replied to the message <subject> to whom
+10. who forwarded the message <subject> to whom - verify that date/time stamp will always show next to the history of actions.
+- verify that i can filter history records by following:- 1. all message
+2. sent message
+3. read message
+4. replied message
+5. forwarded message
+6. starred message
+7. important message
+8. saved as draft

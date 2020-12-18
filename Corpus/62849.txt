@@ -1,0 +1,1 @@
+ URL : "https://github.com/sisbell/oulipo/issues/10" TITLE : create resource classes BODY : create resource classes for each of the associated classes: contentapi documentapi elementapi endsetsapi networkapi nodeapi userapi this will decouple the logic code from javaspark and make code more testable.

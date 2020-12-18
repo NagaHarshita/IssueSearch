@@ -1,0 +1,1 @@
+ URL : "https://github.com/tozti/tozti-store/issues/1" TITLE : formalize the object model BODY : we should formalize the object model described in the storage api draft https://pad.scryk.net/s/bksjx4zaw . this includes precisely defining how entities look like and how to create new entity types.

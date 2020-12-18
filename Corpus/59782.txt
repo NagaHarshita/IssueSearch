@@ -1,0 +1,1 @@
+ URL : "https://github.com/gcazaciuc/redux-fractal/issues/95" TITLE : use prop types package BODY : accessing react.proptypes is deprecated and gets removed in react v16 https://github.com/gcazaciuc/redux-fractal/blob/master/src/local.js l74 see https://reactjs.org/blog/2017/04/07/react-v15.5.0.html migrating-from-reactproptypes

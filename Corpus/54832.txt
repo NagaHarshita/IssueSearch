@@ -1,0 +1,1 @@
+ URL : "https://github.com/PhilJay/MPAndroidChart/issues/2739" TITLE : how to getx date value BODY : i have a graph which my xaxis is date, when i tap on a point i get i/point: entry, x: 1.4572404e12 y: 60.0 my question is how to convert this value x: 1.4572404e12 to the original date.

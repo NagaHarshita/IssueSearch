@@ -1,0 +1,1 @@
+ URL : "https://github.com/conveyal/analysis-ui/issues/372" TITLE : allow multimodal routing BODY : e.g. we need to allow bike, cat, bike-to-transit. this will be massively facilitated by the removal of browsochrones.

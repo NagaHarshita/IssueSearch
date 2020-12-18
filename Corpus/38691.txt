@@ -1,0 +1,1 @@
+ URL : "https://github.com/jaxon-php/jaxon-js/issues/8" TITLE : publish to packagist BODY : as a user of this library i would like to use composer to manage download/update the js files. otherwise one would have to use npm explicit just for this library. for me cdn is no option. if i can help with it just ping me.

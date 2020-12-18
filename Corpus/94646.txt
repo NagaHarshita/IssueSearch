@@ -1,0 +1,1 @@
+ URL : "https://github.com/source-foundry/Hack/issues/334" TITLE : change web font file paths BODY : to: build/web/fonts/ .woff 2 - modify build files for woff - modify build files for woff2 - modify build files for subsets

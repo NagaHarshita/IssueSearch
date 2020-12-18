@@ -1,0 +1,1 @@
+ URL : "https://github.com/n7a235/service.routing/issues/27" TITLE : respect osm way direction BODY : osm has a tag for way s which indicates whether or not a way is in one direction or in both. other values for specifying whether the way is in the opposite direction of the tags also exists <tag k= oneway v= yes />

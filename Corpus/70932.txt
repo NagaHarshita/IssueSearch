@@ -1,0 +1,1 @@
+ URL : "https://github.com/lao9/we_can_pickle_that/issues/74" TITLE : 15: admin user dashboard BODY : issuefifteen: title: admin user dashboard body: > as an admin when i visit /admin/dashboard i will see a heading on the page that says admin dashboard as a registered user when i visit /admin/dashboard i get a 404 as an unregistered user when i visit /admin/dashboard i get a 404

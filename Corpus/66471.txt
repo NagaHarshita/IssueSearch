@@ -1,0 +1,1 @@
+ URL : "https://github.com/Cooperate-Project/CooperateModelingEnvironment/issues/250" TITLE : move context menu entry BODY : the user can select in the diff view to which commit he wants to go back by opening the context menu and select reset to previouse state . the reset dialog should be removed.

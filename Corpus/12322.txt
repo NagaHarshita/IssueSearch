@@ -1,0 +1,1 @@
+ URL : "https://github.com/jmoenig/Snap--Build-Your-Own-Blocks/issues/1721" TITLE : number too small BODY : i wanted to make a constant variable, the gravitational constant that is 6.674 10^-11, sadly the program just printed 0, when i switched to 6.674 10^-10 it was able to print 1e-9. : probably not a bug, but i should still be able to have small variables.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/volatilityfoundation/volatility/issues/356" TITLE : manpage from debian BODY : hi, this is the manpage that i use under debian packaging. this manpage is updated to 2.6 version. feel free to include it in volatility if you want. cheers, eriberto manpage.zip https://github.com/volatilityfoundation/volatility/files/680226/manpage.zip

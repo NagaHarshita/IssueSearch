@@ -1,0 +1,1 @@
+ URL : "https://github.com/ejwaibel/squarrels/issues/31" TITLE : add timeout for player BODY : player's have 30s to draw a card & store them, timer resets whenever an action is taken.

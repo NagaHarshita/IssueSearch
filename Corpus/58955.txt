@@ -1,0 +1,1 @@
+ URL : "https://github.com/jenkinsci/nomad-plugin/issues/18" TITLE : support windows slaves BODY : we would love to use the nomad plugin to schedule agents in windows containers, however it looks like the current code only allows scheduling agents on linux given that it uses bash to start the slaves.

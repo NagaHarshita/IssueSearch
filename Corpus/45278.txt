@@ -1,0 +1,1 @@
+ URL : "https://github.com/tkach/PinCodeTextField/issues/3" TITLE : how to clear the text BODY : hi, i need to clear the text for user to retry, thus pincode.text = // or nil _ = pincode.becomefirstresponder but it does not work. it seems that clear text function is not supported? regards

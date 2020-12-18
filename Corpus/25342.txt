@@ -1,0 +1,1 @@
+ URL : "https://github.com/Madrapps/FloatingActionMenu/issues/6" TITLE : write animator api BODY : an animator api has to be written so that users can create their own animation effects. - create animator api - as a poc, create an animator corresponding to the verticalstackedlayout

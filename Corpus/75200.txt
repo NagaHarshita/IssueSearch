@@ -1,0 +1,1 @@
+ URL : "https://github.com/planet42/Laika/issues/55" TITLE : github flavored markdown BODY : add support for: fenced code blocks tables automatic links for urls strikethrough do not add support for features that only make sense for content on github: commit references issue references username @mentions task lists

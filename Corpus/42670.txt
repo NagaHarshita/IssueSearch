@@ -1,0 +1,1 @@
+ URL : "https://github.com/betaflight/betaflight/issues/4800" TITLE : bug? gps alt not used BODY : dont have a baro attached to my quad but im using a gps. the gps alt shows ok in the configurator but the osd shows 0 for altitude even though gps altitude is selected any way to fix it?

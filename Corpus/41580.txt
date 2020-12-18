@@ -1,0 +1,1 @@
+ URL : "https://github.com/mdyd-dev/marketplace-kit/issues/7" TITLE : add -v/--version flag BODY : just to know which version im using. also add this information when marketplace-kit without a command is invoked help screen

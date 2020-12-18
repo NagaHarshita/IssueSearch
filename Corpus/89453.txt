@@ -1,0 +1,1 @@
+ URL : "https://github.com/david-caro/python-autosemver/issues/47" TITLE : python 3.4 not supported? BODY : hey @david-caro! o/ it seems that python 3.4 is not supported. here's what i get when i try to install python-autosemver on that python version: https://travis-ci.org/jacquerie/flask-shell-bpython/jobs/300701330 l508. any idea why?

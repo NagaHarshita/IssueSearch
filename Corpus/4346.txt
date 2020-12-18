@@ -1,0 +1,1 @@
+ URL : "https://github.com/ornicar/chessground/issues/63" TITLE : cancel a move? BODY : i am using chess.js with this amazing chessboard. however, i can use the move event to validate the moves, but i do not know how to cancel an illegal move. how would i achieve that? this isn't an issue, but i don't know where else to ask this, sorry

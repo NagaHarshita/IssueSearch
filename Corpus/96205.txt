@@ -1,0 +1,1 @@
+ URL : "https://github.com/jkjk822/tests/issues/26" TITLE : enforcing warning messages BODY : https://github.com/jkjk822/tests/blob/17db52be5b3cfaf2ebecd0bfb13dfd322bfacde3/tests/scohen32_enum_spec.rb l138 i don't recall any indication in class or in the assignment that we need to match warning output; doesn't seem reasonable to deduct points for it.

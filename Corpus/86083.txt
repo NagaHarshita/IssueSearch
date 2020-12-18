@@ -1,0 +1,1 @@
+ URL : "https://github.com/unclead/yii2-multiple-input/issues/170" TITLE : global option enableerror BODY : for simple one attribute case; for global enabled and soma case disabled. для случая простого использования виджета на аттрибуте, дабы не обращатся снова к ярлыку атрибута и создавать массив. для случая, когда большая часть полей должна отображать ошибки.

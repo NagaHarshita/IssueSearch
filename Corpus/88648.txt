@@ -1,0 +1,4 @@
+ URL : "https://github.com/NSI-IT/NS-CHEETAH-Publish/issues/1" TITLE : number of returning users BODY : acceptance criteria: verify that the system is able to track the number of users that have the visited site under following scenarios:
+> within same day or 24 hours,
+> within 7 days, and
+> within a month.

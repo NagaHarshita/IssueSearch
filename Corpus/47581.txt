@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpenCL/GEGL-OpenCL/issues/11" TITLE : port to opencl cubism BODY : port the gegl operation cubism to opencl, with optimizations targeting the following:- - nvidia gpu - amd gpu - intel gpu - cpu

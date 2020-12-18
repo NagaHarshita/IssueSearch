@@ -1,0 +1,1 @@
+ URL : "https://github.com/JamieMason/syncpack/issues/2" TITLE : add sync-ranges command BODY : usage: syncpack sync-ranges options options: -p, --packages <glob...> location of packages. defaults to 'package.json' 'packages/ /package.json' -r, --range <value> semver range such as ^, ~, >= etc. defaults to none like npm install --save-exact -h, --help output usage information

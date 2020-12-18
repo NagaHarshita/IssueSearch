@@ -1,0 +1,1 @@
+ URL : "https://github.com/steemit/steem-python/issues/1" TITLE : dex api default_account BODY : hi, in the dex documentation http://steem.readthedocs.io/en/latest/convenience.html dex you mention option for using default_account it is not clear how you set default_account, so that i will not have to add it to the orders. please you please clarify this issue.

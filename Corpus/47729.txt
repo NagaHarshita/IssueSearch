@@ -1,0 +1,1 @@
+ URL : "https://github.com/Kixeye/janus/issues/7" TITLE : project doesn't build BODY : the dependency scout-eureka.jar:1.0.0 is not found in the maven repo, so the build fails.

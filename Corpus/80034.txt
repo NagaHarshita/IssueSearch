@@ -1,0 +1,1 @@
+ URL : "https://github.com/47deg/fetch/issues/142" TITLE : supporting cache backend BODY : cacheing resource request is a great feature. however, i was wondering if it would be nice to support cache backends such as redis or memcached.

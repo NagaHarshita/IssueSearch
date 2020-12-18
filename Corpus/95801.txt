@@ -1,0 +1,1 @@
+ URL : "https://github.com/MNicole1/SEPrin-Logic-Calculator/issues/3" TITLE : do long method refactoring BODY : refactor overly long methods using _extract method_ and other refactoring techniques. chapter 3 of refactoring handbook https://isbnsearch.org/isbn/9780321109293

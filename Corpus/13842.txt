@@ -1,0 +1,1 @@
+ URL : "https://github.com/NathanTan/ReactBoard/issues/1" TITLE : 2 pieces 1 square BODY : when you try to move a minor piece to a square that has a possible move for a piece of the same color, the move string doesn't work with chess.js. for example, 2 white knights that can move to the same square.

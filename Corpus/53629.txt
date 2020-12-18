@@ -1,0 +1,1 @@
+ URL : "https://github.com/QMCPACK/qmcpack/issues/298" TITLE : enforce c++11 in cmake BODY : after the soa merge, c++11 is required. the cmake configuration needs to be updated.

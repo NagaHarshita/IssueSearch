@@ -1,0 +1,1 @@
+ URL : "https://github.com/fabfabBesnard/Andalousian_Mapping/issues/1" TITLE : data folder: too big files BODY : some data are two big to be hosted by github: - the reference genome present in two versions, for bwa mapping and snpeff annotation - the mapping snps vcf file - the gvcf file of the mapping strain ju170 - find a way to release data separately

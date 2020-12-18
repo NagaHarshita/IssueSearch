@@ -1,0 +1,1 @@
+ URL : "https://github.com/Azure/azure-docs-cli-python/issues/231" TITLE : include more examples BODY : hi, please include more examples on querying where we can pull data out of results. here is an example of something i needed locations where i can deploy vms : az provider list --query ?namespace=='microsoft.compute' . resourcetypes ?resourcetype=='virtualmachines' .locations

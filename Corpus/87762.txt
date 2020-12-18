@@ -1,0 +1,1 @@
+ URL : "https://github.com/vlagrassa/Walkabout/issues/1" TITLE : makefile .o file creation BODY : the makefile is creating the object files in the src/ directory rather than the obj/ directory. program will still compile.

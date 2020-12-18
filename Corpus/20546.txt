@@ -1,0 +1,1 @@
+ URL : "https://github.com/opentoonz/opentoonz/issues/1316" TITLE : column toggle icon BODY : if user want change name column, preview visibility will be off. i think only when user click on icon, it should be on/off. ! toggle column icon https://user-images.githubusercontent.com/16509592/27837032-5d061cd0-60f7-11e7-8ae0-bc6da450115c.gif

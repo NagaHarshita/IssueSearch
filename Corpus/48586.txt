@@ -1,0 +1,2 @@
+ URL : "https://github.com/FrostyMorning/arctic/issues/82" TITLE : set black clear color BODY : void createmainwindow systeminfo system_info { ... glclearcolor 1.0f, 1.0f, 1.0f, 0.0f ; glclear gl_color_buffer_bit | gl_depth_buffer_bit ; glflush ;
+}

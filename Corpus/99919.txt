@@ -1,0 +1,1 @@
+ URL : "https://github.com/youtube/vitess/issues/2838" TITLE : not able to delete a shard BODY : there is a working shard test_keyspace/-80 and test_keyspace/80- mistakenly, i created test_keyspace/0 now, when i want to delete test_keyspace/0 it gives error e0509 23:41:11.703055 16742 main.go:43 remote error: rpc error: code = 2 desc = partial result

@@ -1,0 +1,1 @@
+ URL : "https://github.com/leecade/react-native-swiper/issues/689" TITLE : swiper index on ios BODY : when i pass an index to swiper component works on android very well but on ios it always shows the last page no matter what the index is.

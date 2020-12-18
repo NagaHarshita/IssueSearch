@@ -1,0 +1,1 @@
+ URL : "https://github.com/libremesh/lime-web/issues/37" TITLE : redirect 404 to homepage BODY : during the web site development we changed some urls and there are people confused by 404s, for example here https://lists.libremesh.org/pipermail/lime-users/2017-october/000904.html . we could it's just a proposal, let's discuss this redirect 404 to the homepage.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/pawal/tldmonitor-ui-go/issues/2" TITLE : text width in domain log BODY : many lines are from the log are too long to fit in the rightmost column. fix with some css magic, or reformat content.

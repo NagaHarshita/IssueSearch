@@ -1,0 +1,1 @@
+ URL : "https://github.com/mikeboers/PyAV/issues/270" TITLE : improve enum interface BODY : i'm not happy that i can't do more with strings and enums, e.g.: - skiptype.all == 'all' - skiptype 'all'

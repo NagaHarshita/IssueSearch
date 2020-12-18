@@ -1,0 +1,1 @@
+ URL : "https://github.com/jgarff/rpi_ws281x/issues/204" TITLE : max led count on rpi3 BODY : hi guys, i've connected a neopixel ring of 16 led's to gpio 10 spi and i only get 8 led's to work, i've tried to increase spidev.bufsiz but without luck, any ideas?

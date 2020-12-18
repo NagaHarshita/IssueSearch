@@ -1,0 +1,1 @@
+ URL : "https://github.com/goliatone/gsolver/issues/3" TITLE : enable self reference BODY : we want to be able to do the following: ${@this.entity}/id example: js let conf = { entity: 'user', url: '${@this.entity}/id' }; new solver conf console.log conf.url ; the output should be: entity/id

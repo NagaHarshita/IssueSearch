@@ -1,0 +1,1 @@
+ URL : "https://github.com/matrix-org/synapse/issues/1894" TITLE : slack compatible webhooks BODY : many tools, e.g. jenkins, gogs, support slack compatible webhooks for notifications. it would be create to use these easily. the slack bridge seems overly complicated and does more than just receive messages.

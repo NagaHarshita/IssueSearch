@@ -1,0 +1,1 @@
+ URL : "https://github.com/ionic-team/cordova-plugin-template/issues/4" TITLE : registry returned 404 BODY : cordova plugin add --link ~d:\ionic-practice\plugin-practice\cordova-plugin-template error: registry returned 404 for get on https://registry.npmjs.org/test-plugin-app here test-plugin-app is the project where i want to use this plugin. please suggest what to do.

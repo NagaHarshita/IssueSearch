@@ -1,0 +1,1 @@
+ URL : "https://github.com/rualark/MGen/issues/780" TITLE : ca1: fix c_len bug BODY : int c_len = cc.size ; should be member remove int

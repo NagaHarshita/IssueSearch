@@ -1,0 +1,1 @@
+ URL : "https://github.com/tboquet/python-alp/issues/96" TITLE : make master green BODY : the master is broken. from what i can see, the test utils argnames in keras have changed https://github.com/fchollet/keras/blob/master/keras/utils/test_utils.py so this is a start. maybe we should not rely on keras to generate test_data ? or freeze a dependency version ?

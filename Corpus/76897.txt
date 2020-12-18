@@ -1,0 +1,1 @@
+ URL : "https://github.com/mapsplugin/cordova-plugin-googlemaps/issues/1340" TITLE : marker click not working BODY : this listener not work: this.map.addmarker markeroptions .then marker: googlemapsmarker => { marker.addeventlistener googlemapsevent.marker_click .subscribe => alert ; } ;

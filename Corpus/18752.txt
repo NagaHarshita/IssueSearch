@@ -1,0 +1,1 @@
+ URL : "https://github.com/ukcp-data/UKCP18_CVs/issues/19" TITLE : update project cv BODY : change structure of project cv to a dictionary structure such as: { ukcp18 :{ label : ukcp18 , description : the uk climate projections project 2018 }

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Zamiell/keldon-hanabi/issues/72" TITLE : game result lobby notice BODY : when a game ends, all clients connected to the server should receive a text notification in chat with the - game id - score - player names

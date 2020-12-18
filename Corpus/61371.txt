@@ -1,0 +1,1 @@
+ URL : "https://github.com/BouKiCHi/language-assembler-pasmo/issues/1" TITLE : applying wrong comments BODY : when using <ctrl>+</> to toggle comments atom is using comments from c-language / ... / .

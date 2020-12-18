@@ -1,0 +1,1 @@
+ URL : "https://github.com/angoca/db2-repudiation/issues/13" TITLE : filter connection by time BODY : depending on the hour, it could block or allow a connection. also, depending on the day of the week. similar to a cron.

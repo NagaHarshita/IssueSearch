@@ -1,0 +1,1 @@
+ URL : "https://github.com/albertopolito/progettoAlgoritmi2017/issues/1" TITLE : controllo file aperto BODY : quando controlliamo se un file è aperto in un metodo che non è lo stesso che apre il file è meglio evitare if aprifileinput perchè ho notato che dà problemi se il file è già aperto. usiamo invece if _file_input.is_open

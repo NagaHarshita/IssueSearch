@@ -1,0 +1,1 @@
+ URL : "https://github.com/browscap/browscap/issues/1600" TITLE : macos high sierra BODY : mozilla/5.0 macintosh; intel mac os x 10_13_0 applewebkit/537.36 khtml, like gecko chrome/61.0.3163.100 safari/537.36 platform is wrong with mac os x should be macos . version should be 10.13 instead of 10.

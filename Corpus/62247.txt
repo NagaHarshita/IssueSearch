@@ -1,0 +1,1 @@
+ URL : "https://github.com/EasyFarm/EasyFarm/issues/243" TITLE : character keeps running BODY : if i try pausing while it's running it's route it'll keep running in that direction. i have to start ef again and pause it's fighting a mob to prevent this from happening.

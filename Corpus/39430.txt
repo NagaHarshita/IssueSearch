@@ -1,0 +1,1 @@
+ URL : "https://github.com/steemit/steem-js/issues/92" TITLE : set chain properties BODY : providing an api function to set the chain_id . expected behavior using the chain id or chain name. actual behavior using a hack.

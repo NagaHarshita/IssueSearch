@@ -1,0 +1,1 @@
+ URL : "https://github.com/angoca/monitor-db2-with-nagios/issues/49" TITLE : check event monitor state BODY : due to space or other reasons, an event monitor can be in a state off when wanting to be on. this check will respond the state of the event monitor.

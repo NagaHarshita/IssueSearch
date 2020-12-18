@@ -1,0 +1,1 @@
+ URL : "https://github.com/greenfox-academy/zodiac-hydra/issues/15" TITLE : refactor class names BODY : +.centercard1, .centercard2, .centercard3, .centercard4, .centercard5 { should have a single class name

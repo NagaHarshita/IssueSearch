@@ -1,0 +1,1 @@
+ URL : "https://github.com/ma6174/vim/issues/159" TITLE : got error on pyflakes BODY : got this error when trying to open a python file: error detected while processing ~/.vim/ftplugin/python/pyflakes.vim: line 28: error: the pyflakes.vim plugin requires vim to be compiled with +python anyone knows how to solve this ?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/krlv/service-skeleton/issues/8" TITLE : create config provider BODY : config provider should support different types of configuration drivers: - php files - yml files - consul kv

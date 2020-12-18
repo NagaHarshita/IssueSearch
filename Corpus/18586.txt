@@ -1,0 +1,1 @@
+ URL : "https://github.com/wulkano/kap/issues/143" TITLE : touch bar support BODY : depends on https://github.com/electron/electron/pull/8095. would be cool to display the elapsed recording time and a stop button in the touch bar. if you don't have a native touch bar, you can use: https://red-sweater.com/touche/

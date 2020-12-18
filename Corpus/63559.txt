@@ -1,0 +1,1 @@
+ URL : "https://github.com/enpit/chateau-buble/issues/8" TITLE : emojipicker misc issues BODY : - adding an emoji introduces a short delay - clicking an emoji dismisses the picker but the picker should remain opened, as the user may want to pick multiple emojis

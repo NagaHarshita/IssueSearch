@@ -1,0 +1,1 @@
+ URL : "https://github.com/ga-wdi-boston/ember-diagnostic/issues/51" TITLE : name and describe? BODY : naming layers seems too easy and not enough of an indicator of understanding. so maybe: diff - name at least two layers of an ember application 1.0 or 2.0 : + name and describe at least two layers of an ember application 1.0 or 2.0 :

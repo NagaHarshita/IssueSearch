@@ -1,0 +1,1 @@
+ URL : "https://github.com/healthlocker/oxleas-adhd/issues/16" TITLE : su: view medication notes BODY : + as a service user, i can read medication info. + as a service user, i can see who from my care team was the last to update the note. + as a service user, i can see a timestamp for the last time the medication notes were updated.

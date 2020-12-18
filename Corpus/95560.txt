@@ -1,0 +1,1 @@
+ URL : "https://github.com/WGBH/AAPB2/issues/1287" TITLE : default to show transcript BODY : if a record has a transcript, then the page loads with the transcript showing by default. done when: - record pages with transcripts load with transcripts showing

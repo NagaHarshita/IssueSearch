@@ -1,0 +1,1 @@
+ URL : "https://github.com/jspenguin2017/uBlockProtector/issues/309" TITLE : clean up whitelists BODY : the extension removed race condition, now it's time to clean up those whitelists.

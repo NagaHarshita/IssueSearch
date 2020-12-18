@@ -1,0 +1,1 @@
+ URL : "https://github.com/adibender/coalitions/issues/50" TITLE : add support for ltw BODY : includes - scrappers for ltw tables , e.g. http://www.wahlrecht.de/umfragen/landtage/niedersachsen.htm - impementation of dhondt compatible with new implementations.

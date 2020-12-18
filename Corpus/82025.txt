@@ -1,0 +1,1 @@
+ URL : "https://github.com/hejtmy/helpRs/issues/1" TITLE : add chekcing for is.empty BODY : should be true for 0 rows df should be true for empty strings shoudl be true for empty vectors

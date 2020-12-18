@@ -1,0 +1,1 @@
+ URL : "https://github.com/DavidBlasVazquez/IWVG.SwC.DavidBlas/issues/5" TITLE : mejora en la calse user BODY : añadir el método: public string fullinitials devuelve las iniciales del nombre y apellido, e.g. l.s.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Geonovum/respec/issues/50" TITLE : type in l10n figure BODY : there is a small type in the l10n.js for the dutch language at figure. it says: javascript fig: dien een melding in , and should be: javascript fig: figuur ,

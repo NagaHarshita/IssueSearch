@@ -1,0 +1,1 @@
+ URL : "https://github.com/lirios/qtaccountsservice/issues/4" TITLE : don't use qt private api BODY : in some places we use qobjectprivate or qabstractlistmodelprivate. remove any need for qt private apis.

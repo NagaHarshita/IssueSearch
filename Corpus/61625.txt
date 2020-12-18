@@ -1,0 +1,1 @@
+ URL : "https://github.com/howlowck/train-faces/issues/9" TITLE : better test page layout BODY : right now, the layout on the test page is really janky. the information is not logically laid-out. the api data should be moved to the white-spaces to the right.

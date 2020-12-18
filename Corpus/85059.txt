@@ -1,0 +1,1 @@
+ URL : "https://github.com/nextcloud/nextcloudpi/issues/254" TITLE : enable wifi at first boot BODY : hi, i want to install nextcloudpi at home and i want to know if as on raspbian it's possible to enable wifi by creating a wpa_supplicant.conf in the boot partition ? thanks.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/krober10nd/OceanMesh2D/issues/1" TITLE : dependencies on toolboxes BODY : currently, oceanmesh depends on the mapping toolbox, which is typically not distributed with standard matlab license. remove the call to interpm to remove this toolbox dependency.

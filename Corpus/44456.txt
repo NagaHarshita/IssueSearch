@@ -1,0 +1,1 @@
+ URL : "https://github.com/tesshucom/subsonic-connector/issues/60" TITLE : exclusive thread test BODY : tests that are impossible within multithread exist. temporarily remove it from the case, and then arrange the configuration later getscanstatuscontrollertests

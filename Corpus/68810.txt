@@ -1,0 +1,1 @@
+ URL : "https://github.com/4Quant/LungStageAnnotator/issues/12" TITLE : side-by-side vs overlay BODY : optional: gregor would prefer a side-by-side view of the ct and pet volumes rather than an overlay, but can accept the overlay system for now. {i understand this would probably be a major rework - so just reporting this here but do not expect it any time soon.}

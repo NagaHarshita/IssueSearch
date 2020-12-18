@@ -1,0 +1,1 @@
+ URL : "https://github.com/Wildhoney/Keo/issues/32" TITLE : react 16.0 support BODY : in react 16.0 createclass will no longer be a part of the react library but will still be available through the create-react-class library. i might be able to make prs for these changes in a few days when i'm less busy.

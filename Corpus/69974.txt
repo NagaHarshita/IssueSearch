@@ -1,0 +1,1 @@
+ URL : "https://github.com/godaddy/kubernetes-client/issues/140" TITLE : update configmap values BODY : how to update configmap? api.group json .ns.kind json .put { body:json.parse json.stringify json }, print ; the result like so: { error: the server does not allow this method on the requested resource}

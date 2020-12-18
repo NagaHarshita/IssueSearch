@@ -1,0 +1,1 @@
+ URL : "https://github.com/PolymerElements/app-layout/issues/478" TITLE : not found files BODY : i can't find some files <script src= ../../webcomponentsjs/webcomponents-lite.js ></script> <link rel= import href= ../../font-roboto/roboto.html > <link rel= import href= ../../iron-icons/iron-icons.html > <link rel= import href= ../../paper-icon-button/paper-icon-button.html >

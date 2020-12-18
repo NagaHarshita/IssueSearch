@@ -1,0 +1,1 @@
+ URL : "https://github.com/marcuswestin/store.js/issues/200" TITLE : large media file storage BODY : i'm really excited to find a library that solves cross-browser storage for all use cases . my use case is that i want to store media files for offline playback. can i use store.js for that now? if not, is that a use case that a future release could solve?

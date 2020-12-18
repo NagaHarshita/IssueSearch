@@ -1,0 +1,1 @@
+ URL : "https://github.com/Roomify/RfA/issues/165" TITLE : improve the price tester BODY : if i set prices per person, the price tester shows just the last one. we should display all rates consider offers . ! screen shot 2017-04-05 at 16 03 06 https://cloud.githubusercontent.com/assets/6781952/24709241/8cf24812-1a19-11e7-816e-46f9d5ba2237.png

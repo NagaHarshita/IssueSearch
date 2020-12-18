@@ -1,0 +1,1 @@
+ URL : "https://github.com/magfest/radius-uber-auth/issues/1" TITLE : fix ribbon handling BODY : ribbon_label: str is going to become ribbon_labels: list str

@@ -1,0 +1,1 @@
+ URL : "https://github.com/konigio/konig/issues/281" TITLE : multi-project data catalog BODY : as a data architect, i want to be able to build a data catalog that combines ontologies and shapes from multiple maven projects. the tool should merge the ontolgies and form the union of all shapes

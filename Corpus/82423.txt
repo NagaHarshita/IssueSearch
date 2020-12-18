@@ -1,0 +1,1 @@
+ URL : "https://github.com/joyent/pkgsrc/issues/37" TITLE : add tmate-slave to pkgsrc BODY : pkgsrc already has tmate client but the server is missing, tmate-slave provides this capability: https://github.com/tmate-io/tmate-slave https://tmate.io/

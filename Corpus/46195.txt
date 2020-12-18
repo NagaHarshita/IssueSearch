@@ -1,0 +1,1 @@
+ URL : "https://github.com/dmoney/hnvuer/issues/9" TITLE : load additional items BODY : you should be able to load items past what have been loaded so far. not necessarily infinite scrolling, but at least a button like load more items .

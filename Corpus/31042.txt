@@ -1,0 +1,1 @@
+ URL : "https://github.com/tekulvw/modularsecurity/issues/38" TITLE : resource /user/ get BODY : the oauth_id parameter needs to be optional and if not provided it should return the user information for the current logged in user

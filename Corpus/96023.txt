@@ -1,0 +1,1 @@
+ URL : "https://github.com/Vincit/objection.js/issues/342" TITLE : drop support for node < 4? BODY : i will drop the support for node versions below 4.0 in 0.8.0 release if i don't get too much objections. so speak now or forever hold your peace!

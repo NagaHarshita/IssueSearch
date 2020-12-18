@@ -1,0 +1,1 @@
+ URL : "https://github.com/mighty-titan/first-touch/issues/1" TITLE : use scss instead of css BODY : all styles should be within one big css file as the output. the source with scss should be separated by responsibility page, module, component - would be enough with separation just like current css files.

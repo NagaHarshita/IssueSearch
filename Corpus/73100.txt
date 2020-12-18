@@ -1,0 +1,1 @@
+ URL : "https://github.com/dmnsgn/gulp-frontend-boilerplate/issues/19" TITLE : compiling js separately? BODY : i couldn't find a way to separately compile and move js to /dist/scripts/. for example, i wanted to add <script src= scripts/modernizr.min.js ></script> in <head> but i can only add additional js in vendor.js which will be placed right before </body>.

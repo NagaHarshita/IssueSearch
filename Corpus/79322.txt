@@ -1,0 +1,1 @@
+ URL : "https://github.com/mattstyles/koa-socket/issues/38" TITLE : sending private messages BODY : there is a broadcast method to send messages to all connected users...what if i want people to chat privately? how can i implement that?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ekmett/lens/issues/759" TITLE : add getter = to alias BODY : getter would be in line with lens and prism , traversal = id . something prevents me of re-exporting to from our internal prelude, but we have getter . haskell foo :: getter bar fooo foo = getter $ \b -> b ^. fo <> b ^. oo i can make a pr if this change is ok.

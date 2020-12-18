@@ -1,0 +1,1 @@
+ URL : "https://github.com/contao/core/issues/8759" TITLE : send forms via ajax BODY : would it be possible to switch between normal sending and ajax in forms? sometimes it is necessary to send data via ajax, so it would be nice to have that functionality directly in contao 4.x :-d

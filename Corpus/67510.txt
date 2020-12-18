@@ -1,0 +1,1 @@
+ URL : "https://github.com/devopshq/tfs/issues/2" TITLE : prepare travis ci build BODY : dod: created setup.py and setup.cfg with local build process created .travis.yml with travis ci configuration success local and remote build badges added

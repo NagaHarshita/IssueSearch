@@ -1,0 +1,1 @@
+ URL : "https://github.com/andersao/l5-repository/issues/373" TITLE : postgresql native types BODY : i have columns in table with type json , i can't save my model with collection data. laravel can't use native postgresql types?

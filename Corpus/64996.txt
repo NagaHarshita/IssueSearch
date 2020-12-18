@@ -1,0 +1,1 @@
+ URL : "https://github.com/rotondozer/waitlist/issues/10" TITLE : idea for error handling BODY : create an error message state and div in the root of the component tree, as well has getter/setter to pass down to components. the message will always be displayed in the same place and this way i can pass one function around instead of making new ones.

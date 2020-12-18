@@ -1,0 +1,1 @@
+ URL : "https://github.com/yoon-gu/Mozart/issues/20" TITLE : make rectangle mesh BODY : 1. write code 1. check your result with matlab 's result in mozart-dev . 1. add test code. make sure that your python's result is same as your matlab's result - see https://github.com/yoon-gu/mozart/blob/master/tests/test_sample.py l90

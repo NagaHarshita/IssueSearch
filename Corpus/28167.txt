@@ -1,0 +1,3 @@
+ URL : "https://github.com/a-kolomiets/CraftProduct2/issues/164" TITLE : filter bar behavior BODY : use the filter bar to filter the talk according to mentions and hash tags. user can multi select between all the available @ and options, to clear all selections the user can click the all link at the beginning of the line. item toggle behavior: - each item toggles between on/off states
+- items can be multi selected except all - on click of each item - filter the list
+- clicking all will turn off all selections and clear all filters.

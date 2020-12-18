@@ -1,0 +1,1 @@
+ URL : "https://github.com/ivarni/ninno-client/issues/4" TITLE : run reducers as workers BODY : they're too damn slow at the moment, and it impacts how typing a year into the generator page behaves because it does a crap-ton of looping for every keystroke. potentially just debounce things but workers sound cooler.

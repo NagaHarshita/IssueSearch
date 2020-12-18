@@ -1,0 +1,1 @@
+ URL : "https://github.com/unfoldingWord-dev/gogs/issues/170" TITLE : update yaml viewer BODY : this is an update on 48 . it would be a lot friendlier if our yaml viewer worked liked githubs. see https://github.com/unfoldingword-dev/door43.org/blob/develop/.travis.yml . that is a lot easier to read than https://git.door43.org/door43/en-obs/src/master/manifest.yaml.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/sheldonucr/ucr-eecs168-lab/issues/23" TITLE : lab 4 issue BODY : hey guys, i keep getting an error with these commands! wget https://raw.githubusercontent.com/tkimva/ucr-eecs168/master/lab4/counter.v wget https://raw.githubusercontent.com/tkimva/ucr-eecs168/master/lab4/counter_tb.v i get error 404: not found any pointers? thanks!

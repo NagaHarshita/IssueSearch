@@ -1,0 +1,1 @@
+ URL : "https://github.com/ontohub/hets-ontohub-adapter/issues/7" TITLE : delete this repository BODY : as of the new architecture that we came up with through 6 , this repository is obsolete. instead, we only need an oms-indexer that post-processes data to enter it in the elasticsearch index.

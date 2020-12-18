@@ -1,0 +1,1 @@
+ URL : "https://github.com/craigh/Captcha/issues/14" TITLE : captcha fails in ssl mode BODY : with the major browsers starting to show insecure warnings on any form not in ssl mode, most web sites are starting to use https everywhere. the captcha module fails in https mode because the external urls used are all http://. i have a pull request that corrects this.

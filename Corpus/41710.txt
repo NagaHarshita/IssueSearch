@@ -1,0 +1,1 @@
+ URL : "https://github.com/alekoz47/hex-color/issues/3" TITLE : add date to hex value BODY : readd date as the first part of the hex value for red in order to make color changes more uniform. as month progresses, color gets more red.

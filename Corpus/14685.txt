@@ -1,0 +1,1 @@
+ URL : "https://github.com/j-faria/EPRVlnZ/issues/4" TITLE : bug in the kernel BODY : i had this c i, j = eta1 eta1 exp -0.5 pow t i - t j /eta2, 2 -2.0 pow sin m_pi t i - t j /eta3 /eta4, 2 ; should be this c i, j = eta1 eta1 exp -0.5 pow t i - t j /eta2, 2 -0.5 pow sin m_pi t i - t j /eta3 /eta4, 2 ; to match the model specification.

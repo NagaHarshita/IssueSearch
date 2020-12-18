@@ -1,0 +1,1 @@
+ URL : "https://github.com/eScienceCenter/Spacialist/issues/270" TITLE : unset string-sc values BODY : when a user picks an element in the string-sc dropdown, it is not possible to un-pick the selection.

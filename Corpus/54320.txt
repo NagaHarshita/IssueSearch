@@ -1,0 +1,1 @@
+ URL : "https://github.com/jamiemcg/Remarkable/issues/163" TITLE : footnotes not rendered BODY : i just installed remarkable from the .deb package on the official site , but it seems that footnotes are not working. here is my mwe: ! mwe https://cloud.githubusercontent.com/assets/1623542/26282952/4f5bf746-3e1d-11e7-8d2d-bf27c54e324e.jpg have i done something wrong or is it a bug?

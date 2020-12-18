@@ -1,0 +1,1 @@
+ URL : "https://github.com/vector-of-bool/vscode-cmake-tools/issues/188" TITLE : run without building BODY : i suspect this might be an option i overlooked but is it possible to run a target without doing a build first?

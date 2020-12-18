@@ -1,0 +1,1 @@
+ URL : "https://github.com/cloudflare/deadorbit/issues/3" TITLE : update sentry driver BODY : the sentry driver is really old, sentry is at version 8 now and the auth mechanism and apis are different. this needs to be updated.

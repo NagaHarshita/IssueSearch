@@ -1,0 +1,1 @@
+ URL : "https://github.com/ContainX/openstack4j/issues/973" TITLE : security group update BODY : hi, i would like to update security group name and description but i can not find implementation in openstack4j. just implemented get/delete/create/list. am i missing something or update do not implemented? thank you.

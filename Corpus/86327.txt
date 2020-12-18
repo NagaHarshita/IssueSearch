@@ -1,0 +1,1 @@
+ URL : "https://github.com/fuse-box/fuse-box/issues/481" TITLE : hot reload on json change BODY : hi, is it possible to hot reload a document on json change? i see that fusebox successfully rebundles my app, yet the hmr is not performed. thanks!

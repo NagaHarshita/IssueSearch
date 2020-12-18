@@ -1,0 +1,1 @@
+ URL : "https://github.com/NCIP/clinical-trials-search/issues/15" TITLE : use of parameters in url BODY : i have the following url: https://clinicaltrials.gov/search?term=bladder+cancer&recr=open&displayxml=true how can i include parameters like 'include','exclude', 'from' and 'size' ?

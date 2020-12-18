@@ -1,0 +1,1 @@
+ URL : "https://github.com/alexwhitman/node-pushbullet-api/issues/31" TITLE : link does not support body BODY : pushbullet.link deviceparams, name, url, callback the pushbullet api https://docs.pushbullet.com/ supports body for all i.e. link pushes pushes, but the node-pushbullet-api does not, as far as the documentation tells me.

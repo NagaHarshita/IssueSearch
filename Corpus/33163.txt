@@ -1,0 +1,1 @@
+ URL : "https://github.com/cyclejs-community/cycle-delayed-driver/issues/1" TITLE : add a sample project BODY : nothing like an actual use case. attaching a cycle-canvas to a canvas created using the dom driver should do nicely this was the reason i originally created this, after all .

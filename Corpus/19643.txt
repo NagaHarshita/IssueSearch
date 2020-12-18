@@ -1,0 +1,1 @@
+ URL : "https://github.com/dbrgn/ic880a-sensor-backplane/issues/7" TITLE : add pins for a fan BODY : add a mosfet and a flyback diode to be able to power a fan.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Evpok/fancy-bracket-matcher/issues/5" TITLE : broken in 1.19 beta 0 BODY : as of 1.19 beta 0 this doesn't work, i suspect that the changes documented in https://github.com/atom/atom/pull/14790/commits are responsible. if anyone has pointers on how to fix it it would be greatly appreciated.

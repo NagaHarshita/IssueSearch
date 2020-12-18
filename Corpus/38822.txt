@@ -1,0 +1,1 @@
+ URL : "https://github.com/openfoodfacts/openfoodfacts-server/issues/976" TITLE : read api status code BODY : reported by @pilu on slack: > read apis are always returning a 200 status code, even when the product is not found. is there a plan to upgrade the api to support the right http statuses?

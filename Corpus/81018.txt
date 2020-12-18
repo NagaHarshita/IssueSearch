@@ -1,0 +1,1 @@
+ URL : "https://github.com/digibib/kohadevbox/issues/206" TITLE : vagrant up stretch fails BODY : to reproduce: vagrant destroy jessie vagrant destroy xenial vagrant destroy stretch vagrant up jessie vagrant up xenial vagrant up stretch only stretch fails. any patch provided must produce not only a clean stretch, but clean jessie and xenial 'vagrant up's as well.

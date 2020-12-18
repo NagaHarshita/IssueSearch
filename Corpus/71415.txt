@@ -1,0 +1,1 @@
+ URL : "https://github.com/NickCarneiro/curlconverter/issues/54" TITLE : add generator for httpie BODY : httpie is a dev-friendly command-line tool to send requests with parameters, json request, custom headers, etc. and see the pretty-printed response.

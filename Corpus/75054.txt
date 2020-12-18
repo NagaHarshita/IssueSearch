@@ -1,0 +1,1 @@
+ URL : "https://github.com/USEPA/EnviroAtlas_JSApp/issues/59" TITLE : fullscreen widget issues BODY : there are two problems with the fullscreen widget in v2.5 that we need to address: - the left pane searchfilter widgets is completely hidden in fullscreen - make it visible. - when exiting fullscreen, the welcome banner is shown again - need to avoid this.

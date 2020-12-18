@@ -1,0 +1,1 @@
+ URL : "https://github.com/leoGalani/sherlock/issues/30" TITLE : fix version sql migration BODY : today there is no way to upgrade to a new version without recreating the data base of making the changes manually. maybe will use flask-migrate todo: - create the migration process - modify dockerfile to run the migrations before launching sherlock - update the documentation.

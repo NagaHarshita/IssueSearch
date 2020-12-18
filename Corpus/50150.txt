@@ -1,0 +1,1 @@
+ URL : "https://github.com/mkg0/jest-webpack-resolver/issues/4" TITLE : watch flag won't work BODY : test : jest --watch , my error message is: test suite failed to run unknown_option: unknown option: --watch

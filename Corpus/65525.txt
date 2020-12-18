@@ -1,0 +1,1 @@
+ URL : "https://github.com/nicoweb/TodoList/issues/6" TITLE : issue 6 : authorization BODY : - the user management page is accessible only for administrators. - tasks can be deleted only by the user who created the task. - the tasks associated with the anonymous user can only be deleted by the administrators.

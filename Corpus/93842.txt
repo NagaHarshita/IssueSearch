@@ -1,0 +1,1 @@
+ URL : "https://github.com/contentful-labs/contentful-go/issues/11" TITLE : asset interface conversion BODY : panic: interface conversion: interface {} is map string interface {}, not string asset.go: 93 if err := json.unmarshal byte payload sys . string , asset.sys ; err != nil { return err }

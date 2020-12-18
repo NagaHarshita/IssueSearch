@@ -1,0 +1,1 @@
+ URL : "https://github.com/sfkleach/scratch/issues/1" TITLE : this is not a bug report BODY : this is an issue to check if syntax highlighting works. javascript function fancyalert arg { if arg { $.facebox {div:' foo'} } }

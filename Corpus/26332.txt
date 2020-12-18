@@ -1,0 +1,1 @@
+ URL : "https://github.com/OOP2018/objectslab-wisaTong/issues/1" TITLE : answer in readme.md BODY : you wrote: because it doesn't belong to any object implying that: its a class attribute, so there is only one. each time an object assigns a value, they are setting value of the same variable. and each time they get the name, they are getting the same value.

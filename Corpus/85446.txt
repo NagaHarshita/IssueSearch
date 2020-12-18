@@ -1,0 +1,1 @@
+ URL : "https://github.com/vicariousinc/science_rcn/issues/3" TITLE : fail to reproduce results BODY : the experiments fails to achieve the announced accuracy: sh python science_rcn/run.py --train_size 100 --test_size 20 --parallel info:__main__:training on 10 images... info:__main__:testing on 20 images... total test accuracy = 0.1

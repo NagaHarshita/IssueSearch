@@ -1,0 +1,1 @@
+ URL : "https://github.com/rhjoerg/rhj-eve-issues/issues/7" TITLE : cleanup unused data. BODY : old price data is stored in memory and will sum up over time.

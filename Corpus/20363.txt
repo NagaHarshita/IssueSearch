@@ -1,0 +1,1 @@
+ URL : "https://github.com/spotify/luigi/issues/2140" TITLE : cdh tests too slow BODY : i see three recent builds failed at least partially because travis timed out while running py27-cdh or py36-cdh. - https://travis-ci.org/spotify/luigi/builds/237706572 - https://travis-ci.org/spotify/luigi/builds/236148084 - https://travis-ci.org/spotify/luigi/builds/235193403

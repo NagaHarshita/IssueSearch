@@ -1,0 +1,1 @@
+ URL : "https://github.com/pelrun/dtv2ser/issues/2" TITLE : add retries for transfers BODY : currently aborts an entire transfer if a single block fails checksum. needs to restart the transfer from the failed block.

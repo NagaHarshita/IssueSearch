@@ -1,0 +1,1 @@
+ URL : "https://github.com/calvinmetcalf/copyfiles/issues/25" TITLE : doesn't work on windows BODY : we have to use windows for builds at work, and this fails silently there while working perfectly the same files/structure on osx. using globbing to get a whole directory with a certain file extension and -u 2.

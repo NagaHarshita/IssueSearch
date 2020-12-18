@@ -1,0 +1,1 @@
+ URL : "https://github.com/bandwidthcom/node-bandwidth/issues/114" TITLE : bxml phone number verb BODY : for multi-transfer, you need to add phone number verb inside the transfer verb which isn't possible now with node-bandwith. http://ap.bandwidth.com/docs/xml/transfer/

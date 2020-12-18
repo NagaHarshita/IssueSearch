@@ -1,0 +1,1 @@
+ URL : "https://github.com/bedita/bedita/issues/1063" TITLE : implement object relations BODY : using information populated in relations and relation_types tables implement relations between bedita objects. in /objects or custom object type endpoint like /users and documents we should be able to handle objects relations in relationships data response.

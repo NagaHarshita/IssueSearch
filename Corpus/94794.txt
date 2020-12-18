@@ -1,0 +1,1 @@
+ URL : "https://github.com/aaronshaf/dynamodb-admin/issues/4" TITLE : clear install instructions BODY : would you provide more details on setting the aws_access_key_id, etc please? meaning do i set these as environment variables, parameters in a file, json file, etc. thanks

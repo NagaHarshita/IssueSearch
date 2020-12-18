@@ -1,0 +1,1 @@
+ URL : "https://github.com/emvicom/gondolier/issues/2" TITLE : allow model names in tags BODY : all tags are changed to lower case right now. this affects foreign keys, since the table name cannot be created from a lower case string using snake case. remove lower case from tags.

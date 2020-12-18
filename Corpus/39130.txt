@@ -1,0 +1,1 @@
+ URL : "https://github.com/nimerritt/muesli-tools/issues/2" TITLE : respect string enums BODY : muesli-schema allows enums to be defined. we should use string literals to enforce them when creating typescript interfaces.

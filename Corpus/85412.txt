@@ -1,0 +1,1 @@
+ URL : "https://github.com/turingschool-projects/1611-remember-splinter/issues/11" TITLE : extension: sort reminders BODY : user can sort reminders chronologically in either ascending or descending order by date or alphabet. sorting happens in the sidebar list of reminders. this state should be stored in a query param.

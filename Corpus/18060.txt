@@ -1,0 +1,1 @@
+ URL : "https://github.com/MatteoTurri/apiseed/issues/2" TITLE : setup sbt project BODY : sbt project: - folder structure - wiro - circe - scalatest - /helloworld route with test

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Katzenpost/client/issues/7" TITLE : add message padding api BODY : we need to pad messages with zero bytes. which message padding format shall we use? actually this will be used to pad the payload of blocks, since messages are fragmented into blocks.

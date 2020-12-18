@@ -1,0 +1,1 @@
+ URL : "https://github.com/danieljiang0415/android_root/issues/1" TITLE : how can i get root shell? BODY : it doesn't work! i compile your file like this: git clone https://github.com/danieljiang0415/android_root.git cd android_root make make root but i don't get root shell.. how can i get root shell i have galaxy s5 6.0.1 32bit and galaxy s6 7.0.1 64bit

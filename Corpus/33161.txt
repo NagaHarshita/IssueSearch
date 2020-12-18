@@ -1,0 +1,1 @@
+ URL : "https://github.com/bmvantunes/angular-cli-library-generator/issues/78" TITLE : add a refresh option BODY : we should be able to refresh the nglg folder without having to generate a new component

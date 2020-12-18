@@ -1,0 +1,1 @@
+ URL : "https://github.com/broven/canvas2image/issues/2" TITLE : download fails on ios BODY : hi, i love this script but on my iphone, i see the following error: http://i.imgur.com/qvxsjak.png url it seems that ios can't download data urls. can you help?

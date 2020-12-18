@@ -1,0 +1,1 @@
+ URL : "https://github.com/Valhalla-Gaming/Tracker/issues/9325" TITLE : black heart of flame BODY : quest doesn't change into turn-in phase after killing quest target mob. expected quest to proceed to turn-in step. steps to reproduce the problem : 1. begin the quest 2. find target 3. kill the target https://www.youtube.com/watch?v=bk1hjcdm_cc

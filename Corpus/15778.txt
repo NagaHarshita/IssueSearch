@@ -1,0 +1,1 @@
+ URL : "https://github.com/aspnetboilerplate/module-zero-template/issues/100" TITLE : fix script usages BODY : both in mpa and spa there are lib & scripts folders but some of them are not used.

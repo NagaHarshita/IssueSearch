@@ -1,0 +1,1 @@
+ URL : "https://github.com/eklem/norch-zapier-bookmarklet/issues/6" TITLE : id based on url BODY : to not get a duplicate it's good to add an id in the zapier-step, based on the url.

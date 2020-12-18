@@ -1,0 +1,1 @@
+ URL : "https://github.com/bakkenbaeck/Viewer/issues/117" TITLE : video is not working BODY : hi, i am using this library to show photos and videos, photos are working fine but video is not. all i can hear the audio with image but no audio. any idea why this is happening ? same video is working in viewer sample code. i am using pod version of viewer.

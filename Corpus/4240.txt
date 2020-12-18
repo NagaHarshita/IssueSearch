@@ -1,0 +1,1 @@
+ URL : "https://github.com/framework7io/Framework7-Vue/issues/256" TITLE : back not work. BODY : when we use vue router we can use back and forward buttons of browser but in f7-vue it doesn't work. please fix this issue.

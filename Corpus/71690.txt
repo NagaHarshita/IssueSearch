@@ -1,0 +1,1 @@
+ URL : "https://github.com/Airtable/airtable.js/issues/34" TITLE : add ts type definitions? BODY : it would be great to see type definitions added .d.ts files to support typescript typings.

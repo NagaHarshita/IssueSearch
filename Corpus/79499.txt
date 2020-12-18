@@ -1,0 +1,1 @@
+ URL : "https://github.com/liflab/labpal/issues/34" TITLE : sign experiments results BODY : in the gui or somewhere else , an author could provide its private key, and include in the saved lab an encrypted hash of the lab's results. see 4 for one possible use.

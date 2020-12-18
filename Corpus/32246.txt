@@ -1,0 +1,1 @@
+ URL : "https://github.com/django-stars/telega-mega-import/issues/5" TITLE : unique value option BODY : add to basecolumn 'unique' argument; raise an error, if duplicates met in this column.

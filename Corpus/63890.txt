@@ -1,0 +1,7 @@
+ URL : "https://github.com/wpengine/phpcompat/issues/109" TITLE : extreme resource usage? BODY : extreme resource usage?<br>
+http://ift.tt/2ku17jd<br><p>replies: 0</p>
+<p>i launched this plugin on a few websites simultaneously and it completely stucked my shared hosting plan. as far as the hoster said, it uses the &ldquo;wp-admin/admin-ajax.php&rdquo; api with almost no restriction.</p>
+<p>it&rsquo;s also incredibile that it&rsquo;s not possibile to stop a scan once it has begun&hellip;</p>
+<br><br>
+via wordpress.org forums &raquo; all topics http://ift.tt/2gps7vy<br>
+february 01, 2017 at 02:15am

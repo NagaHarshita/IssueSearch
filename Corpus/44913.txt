@@ -1,0 +1,1 @@
+ URL : "https://github.com/kizzen/Baller-Shot-Caller/issues/5" TITLE : general repo cleanup: BODY : + generate requirements.txt to establish a standardized python environment for users. + generate a development branch that all users will fork, to protect our master branch.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/p412726700/node-zookeeper-dubbo/issues/33" TITLE : 请问int 怎么传参 BODY : dubbo.interface.method java.array 'int', 1,2,3 ; 我这报错fail to decode request due to: rpcinvocation

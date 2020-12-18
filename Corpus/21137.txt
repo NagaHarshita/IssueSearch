@@ -1,0 +1,1 @@
+ URL : "https://github.com/volkanceylan/Serenity/issues/2079" TITLE : emaileditor on ios BODY : there's a problem about emaileditor mask input on ios devices. the validation fails even if the input string is correct.

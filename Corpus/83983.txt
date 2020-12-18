@@ -1,0 +1,1 @@
+ URL : "https://github.com/aybabtme/humanlog/issues/7" TITLE : consider using goreleaser BODY : as title says, i suggest you guys start using travis-ci with goreleaser https://github.com/goreleaser/releaser , it lets you cross build binaries to your releases.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/MusicGenerator/mumble-ruby-pluginbot/issues/197" TITLE : .duckvol 0 crashes bot BODY : .duckvol 0 error: an error occurred: missing interpolation argument :volume in ducking is set to %{volume} of normal volume. {:volume_relative=>0} given

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Schrolli91/BOSWatch/issues/294" TITLE : fehler bei installation BODY : fehler bei installation, nach apt-get update erscheint der fehler dass qt4 nicht gefunden werden konnte. unable to locate package qt4-default e: unable to locate package qt4-default action: download on stuff failed. exitcode: 100

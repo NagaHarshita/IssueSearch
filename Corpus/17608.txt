@@ -1,0 +1,1 @@
+ URL : "https://github.com/IBM/tensorflow-kubernetes-art-classification/issues/10" TITLE : python3 or python BODY : some commands in the readme specifically say python3. others say python. if there is a requirement for python3 it probably should be mentioned earlier. if the examples are just inconsistent then they probably should all use python.

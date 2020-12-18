@@ -1,0 +1,1 @@
+ URL : "https://github.com/jeelabs/esp-link/issues/286" TITLE : get com port on pc BODY : maybe i'm missing something but is there a way to use 2 esp 8266's to basically get the full experience. for instance if i had a second esp8266 with esp link that connects to the first host esp8266 receives that data and puts it through a rs232 to usb adapter? thankyou

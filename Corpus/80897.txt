@@ -1,0 +1,1 @@
+ URL : "https://github.com/FormidableLabs/react-progressive-image/issues/14" TITLE : use rollup for umd build BODY : rollup for libraries, webpack for apps.

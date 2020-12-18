@@ -1,0 +1,1 @@
+ URL : "https://github.com/gyscos/Cursive/issues/142" TITLE : termion backend is slow BODY : when running the lorem example with the termion backend in debug mode, a serious flickering can be observed. running in release mode seems to solve this. it may be caused by a slow backend. all the calls to print! have to lock individually the standard output.

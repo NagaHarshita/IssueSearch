@@ -1,0 +1,1 @@
+ URL : "https://github.com/emmetio/brackets-emmet/issues/121" TITLE : add loops support BODY : add angularjs-styled loops to emmet. for example section-$ in about, blog, contacts will give <div id= section-about ></div><div id= section-blog ></div><div id= section-contacts ></div>

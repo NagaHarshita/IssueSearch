@@ -1,0 +1,1 @@
+ URL : "https://github.com/redox-os/redox/issues/1081" TITLE : implementing copy paste BODY : copying files from folders to folders is difficult for normal users from the terminal, and copying or pasting some text from an app to an other or form a document to an other is impossible, so what about implementing it?

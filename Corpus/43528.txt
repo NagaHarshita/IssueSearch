@@ -1,0 +1,1 @@
+ URL : "https://github.com/ODM2/ODM2RESTfulWebServices/issues/43" TITLE : create units endpoint BODY : create units endpoint. see the odm2 rest api design document: https://docs.google.com/document/d/1hwur514gm5jlquugkowyf-llbwptapo62zyondf5zzg/edit bookmark=id.dogtoo8iqko0 this endpoint should use the odm2 python api getunits function.

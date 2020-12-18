@@ -1,0 +1,1 @@
+ URL : "https://github.com/cyChop/beverages-js/issues/130" TITLE : move to vue.js BODY : vue.js would allow to lower coupling on the view, lighten the bundle by dropping jquery. - rivets could be entirely dropped - should we keep backbone.model and backbone.collection? would still require underscore this would make 124 obsolete.

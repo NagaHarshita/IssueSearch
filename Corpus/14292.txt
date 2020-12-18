@@ -1,0 +1,1 @@
+ URL : "https://github.com/JetBrains/gradle-intellij-plugin/issues/167" TITLE : add rider support BODY : there are rider builds on https://www.jetbrains.com/intellij-repository/snapshots/ not on releases yet please support rider as possible intellij.type

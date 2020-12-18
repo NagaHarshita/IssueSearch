@@ -1,0 +1,1 @@
+ URL : "https://github.com/jxnblk/css-box-shadow/issues/1" TITLE : incorrectly captures color BODY : hey there, i love your work, however this didn't work in google chrome 58. here are my edits: const color_reg = /^ \w /; const color = parts.find p => color_reg.test p ; cheers

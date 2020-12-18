@@ -1,0 +1,1 @@
+ URL : "https://github.com/xvitcoder/spring-mvc-angularjs/issues/7" TITLE : crud functions do nothing BODY : the app looks great! when i click add, remove, removal car, the webservice does the job but the screen does not refresh with new data.

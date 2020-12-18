@@ -1,0 +1,1 @@
+ URL : "https://github.com/mcaule/d3_exploding_boxplot/issues/6" TITLE : dynamic height width BODY : how do we pass the height width dynamically, currently it is statically defined ?

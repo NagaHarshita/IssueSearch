@@ -1,0 +1,1 @@
+ URL : "https://github.com/lucastetreault/node-wii-v8/issues/1" TITLE : error on making the src BODY : after running npm -d install, make throws errors starting on line 35 in wiimote.h npm-debug.log https://github.com/lucastetreault/node-wii-v8/files/909282/npm-debug.txt

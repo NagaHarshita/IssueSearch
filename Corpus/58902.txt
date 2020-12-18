@@ -1,0 +1,1 @@
+ URL : "https://github.com/dweuthen/crx-c2d-url/issues/7" TITLE : support for tel: links BODY : the extension should detect tel: links like <a href= tel:01234 >01234</a> and provide the dial feature for it.

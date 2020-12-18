@@ -1,0 +1,1 @@
+ URL : "https://github.com/mxmssh/drltrace/issues/1" TITLE : drltrace for macos BODY : to be able to compile drltrace under macos, we have to add support of the dr_symbol_export_iterator group of functions we have them for windows and linux . right now, we disabled build in case of macos and should fix it in future.

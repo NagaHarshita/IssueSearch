@@ -1,0 +1,1 @@
+ URL : "https://github.com/gerardvh/ST3-sightly-language/issues/10" TITLE : add optional aem support BODY : - add settings to disable aem support - add completions for aem built-in bindings for sightly scripts. - add build system to push ui code to running dev server automatically or with an explicit build

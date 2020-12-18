@@ -1,0 +1,1 @@
+ URL : "https://github.com/ivoire/ReactOBus/issues/11" TITLE : matching in a list BODY : allow the matching value to be a list of values, not only one pattern.

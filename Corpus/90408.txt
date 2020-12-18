@@ -1,0 +1,1 @@
+ URL : "https://github.com/mikejuszkie/Plant_Logger/issues/1" TITLE : setup of basic interfaces BODY : setup and test interfaces using the built-in api. interfaces to set up. spi i2c rs232 ethernet gpio control adc

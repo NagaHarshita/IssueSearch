@@ -1,0 +1,1 @@
+ URL : "https://github.com/jergason/recursive-readdir/issues/54" TITLE : ignore files doesnt work BODY : recursive src/aura , '.css', '.xml' , function err, files { // } when i read files i anywhere see filed css and xml files

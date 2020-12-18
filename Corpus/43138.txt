@@ -1,0 +1,1 @@
+ URL : "https://github.com/GuessWhatGame/guesswhat/issues/13" TITLE : coco api not detected BODY : when i train the exxtract feature as well as train the oracle, i see this: coco api was not detected - advanced segmentation features cannot be used. how can i resolve this? also the latest commit is not able to recursively clone all the dependencies.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/nuitrcs/changing-tides/issues/55" TITLE : bug on measure events form BODY : on http://changingtides.rcs.northwestern.edu/measures/2/events: var event_subtype_map = {{ event_subtype_map|tojson }} typeerror: undefined is not json serializable

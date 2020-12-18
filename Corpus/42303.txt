@@ -1,0 +1,1 @@
+ URL : "https://github.com/alwsl/alwsl/issues/47" TITLE : arrow keys don't work BODY : after clean installing alwsl i found that the arrow keys don't work in arch. for example, i can't use left/right to move the text edit location on the command line.

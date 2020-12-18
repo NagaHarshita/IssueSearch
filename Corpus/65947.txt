@@ -1,0 +1,1 @@
+ URL : "https://github.com/Jcornmanhomonoff/Tic_Tac_Toe/issues/5" TITLE : log in creates new game BODY : upon logging in, a new game should be created for you. currently, a user has to click new game button. not user friendly.

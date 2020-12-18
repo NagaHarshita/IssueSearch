@@ -1,0 +1,1 @@
+ URL : "https://github.com/lenarakhmadeev/PHP-RSA/issues/1" TITLE : getting error in gmp class BODY : fatal error: call to undefined function gmp_add i got the above error. what should i do to solve this problem?

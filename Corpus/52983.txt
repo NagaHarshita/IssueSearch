@@ -1,0 +1,1 @@
+ URL : "https://github.com/liquibase/liquibase-hibernate/issues/153" TITLE : custom naming strategy BODY : what if i want to use my project's custom naming strategy? how could i pass it through liquibase configuration properties?

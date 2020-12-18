@@ -1,0 +1,1 @@
+ URL : "https://github.com/cms-gem-daq-project/cmsgemos/issues/89" TITLE : updates for uhal 2.5 BODY : in the 2.5 update to the uhal library, under the hood changes make write-only bitmasked registers invalid. need to update address tables where previously this was used to be rw rather than w

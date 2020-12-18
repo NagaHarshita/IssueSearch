@@ -1,0 +1,1 @@
+ URL : "https://github.com/turfeffect/AppDraft/issues/8" TITLE : socioeco results to rmd BODY : have the app pass the socioeconomic results results_soc to the rmd file by including it in params$socio or by doing a results <- rbind results_bio , results_socio

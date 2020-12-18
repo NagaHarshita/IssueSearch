@@ -1,0 +1,1 @@
+ URL : "https://github.com/ratmav/dotfiles/issues/12" TITLE : vim window resize BODY : set up leader keys to resize windows, and remove the golden-ratio plugin.

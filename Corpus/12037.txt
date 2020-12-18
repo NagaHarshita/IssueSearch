@@ -1,0 +1,1 @@
+ URL : "https://github.com/NineWorlds/serenity-android/issues/318" TITLE : migrate to glide BODY : remove the hardcoded use of android universal image library, and generalize to an interface that can be injected. implement an implementation of this interface that uses glide.

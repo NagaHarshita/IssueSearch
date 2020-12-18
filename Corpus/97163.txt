@@ -1,0 +1,1 @@
+ URL : "https://github.com/Nikschavan/bb-header-footer/issues/38" TITLE : footer with generate press BODY : when creating a footer page using generatepress, i select disable footer and the footer page doesn't show up. good! however, when i allow the footer the footer page shows up below the copyright bar. is there something i need to do?

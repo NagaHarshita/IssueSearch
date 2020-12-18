@@ -1,0 +1,1 @@
+ URL : "https://github.com/prodis/wannabe_bool/issues/9" TITLE : aliases for to_b method BODY : for sake of readability and personal choice : - to_bool - to_boolean given this example: ruby { one: 'value', two: 2, mobile?: params :mobile .to_b } it could be more readable like this: ruby { one: 'value', two: 2, mobile?: params :mobile .to_boolean }

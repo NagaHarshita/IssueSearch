@@ -1,0 +1,1 @@
+ URL : "https://github.com/craigsimps/gulp-wp-toolkit/issues/37" TITLE : add greenkeeper.io to repo BODY : https://greenkeeper.io/ - helps keeps on top of npm dependencies that change, with automatic prs etc. see https://github.com/wordpress-coding-standards/eslint-plugin-wordpress/pulls?utf8=%e2%9c%93&q=label%3agreenkeeper%20 for an example.

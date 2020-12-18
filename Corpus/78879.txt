@@ -1,0 +1,1 @@
+ URL : "https://github.com/icarus-consulting/Yaapii.Atoms/issues/28" TITLE : remove unchecked classes BODY : we can remove iochecked and iounchecked classes. these classes have been ported, but are irrelevant in .net: in java, exception throwing has two faces: checked or unchecked. in .net, this is not true.

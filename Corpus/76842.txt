@@ -1,0 +1,1 @@
+ URL : "https://github.com/quadre-code/quadre/issues/13" TITLE : make the tests run on ci BODY : atm some tests fails and others i think do not run at all :/

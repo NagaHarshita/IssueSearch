@@ -1,0 +1,1 @@
+ URL : "https://github.com/spree/deface/issues/175" TITLE : virtual_path wild card BODY : hi, is it possible to use some wild card like for virtual_path? i would like to e.g. wrap all h1 elements into some div. or add class to all buttons... e.g. in all spree/ templates. is it possible somehow?

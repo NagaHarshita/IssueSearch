@@ -1,0 +1,1 @@
+ URL : "https://github.com/laughedelic/atom-ide-scala/issues/17" TITLE : make an sbt-atom plugin BODY : things in apm.sbt are useful for any atom plugin made in scala.js with sbt. in particular for atom-sbt-client https://github.com/laughedelic/atom-sbt-client

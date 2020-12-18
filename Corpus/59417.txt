@@ -1,0 +1,1 @@
+ URL : "https://github.com/sergiotapia/magnetissimo/issues/70" TITLE : typo in debian install BODY : https://github.com/sergiotapia/magnetissimo/wiki/usage:-debian-7 sudo apt-get install portgresql redis-server nodejs esl-erlang exlixir git screen should be sudo apt-get install postgresql redis-server nodejs esl-erlang elixir git screen

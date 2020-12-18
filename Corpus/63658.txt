@@ -1,0 +1,1 @@
+ URL : "https://github.com/josx/aor-feathers-client/issues/8" TITLE : error for query filters BODY : just change query = { 'id': { ' $in ': ids } }; to 'query = { 'id': { '$in': ids } };'

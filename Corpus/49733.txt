@@ -1,0 +1,1 @@
+ URL : "https://github.com/18F/omb-eregs/issues/195" TITLE : update django version BODY : django 1.10.7 has been released and contains some security updates we should bring in.

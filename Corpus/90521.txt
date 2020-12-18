@@ -1,0 +1,1 @@
+ URL : "https://github.com/PolymerElements/iron-resizable-behavior/issues/31" TITLE : simply not working in 2.0 BODY : polymer.ironresizablebehavior not working. no documentation. app crashes when use it like this: polymer.mixinbehaviors polymer.ironresizablebehavior , polymer.element

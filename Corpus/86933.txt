@@ -1,0 +1,1 @@
+ URL : "https://github.com/JuliaLang/julia/issues/22072" TITLE : indextrema, findextrema ? BODY : we have minimum , maximum , indmin , indmax , findmin , findmax . we also have extrema , but so far as i can tell no equivalent of indextrema and findextrema . has this been decided against, or just not gotten around to?

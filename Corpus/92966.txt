@@ -1,0 +1,1 @@
+ URL : "https://github.com/amihaiemil/comdor/issues/29" TITLE : add a default docker image BODY : let's add a default dockerfile, used when the user doesn't specify their own via .comdor.yml

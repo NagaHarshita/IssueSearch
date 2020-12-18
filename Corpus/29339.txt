@@ -1,0 +1,1 @@
+ URL : "https://github.com/Dockerware/kicad/issues/8" TITLE : libraries not found BODY : the following libraries were not found: power.lib device.lib transistors.lib conn.lib linear.lib regul.lib 74xx.lib cmos4000.lib adc-dac.lib memory.lib xilinx.lib

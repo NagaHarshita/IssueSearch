@@ -1,0 +1,1 @@
+ URL : "https://github.com/xoreaxeaxeax/movfuscator/issues/16" TITLE : cannot find -lgcc -lc -lm BODY : whenever i try to compile something i got this: /usr/bin/ld: impossibile trovare -lgcc /usr/bin/ld: impossibile trovare -lc /usr/bin/ld: impossibile trovare -lm

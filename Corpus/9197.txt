@@ -1,0 +1,4 @@
+ URL : "https://github.com/dilawar/ncbs-hippo/issues/17" TITLE : tweaks in hippo BODY : - fix google calendar link.
+- generate pdf of all events, currently only last one is being generated.
+- different email for helpdesk queue.
+- don't show admin any button unless request is selected. - approveed -> approved

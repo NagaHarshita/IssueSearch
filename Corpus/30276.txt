@@ -1,0 +1,1 @@
+ URL : "https://github.com/tesshucom/subsonic-connector/issues/1" TITLE : organization of pom BODY : delete unnecessary settings. configuration that works with cobertura + spring boot + maven site.

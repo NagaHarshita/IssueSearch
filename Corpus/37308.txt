@@ -1,0 +1,1 @@
+ URL : "https://github.com/Prajaktcs/ansible-role-spark/issues/4" TITLE : log dirs in /var/log BODY : logs traditionally go in /var/log/${your app name here} . is there a reason to put it in the user's home? https://github.com/prajaktcs/ansible-role-spark/blob/master/defaults/main.yml l13

@@ -1,0 +1,1 @@
+ URL : "https://github.com/rmp135/generator-vue/issues/1" TITLE : add flow support BODY : add support for flow. this should remove annotations with babel https://flowtype.org/docs/running.html . as some sample types to the project.

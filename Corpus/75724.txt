@@ -1,0 +1,1 @@
+ URL : "https://github.com/googlesamples/easypermissions/issues/160" TITLE : i got this compile error BODY : error: 3610 error retrieving parent for item: no resource found that matches the given name 'theme.appcompat.daynight.darkactionbar'.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/shimt/pam-exec-oauth2/issues/1" TITLE : unable to build BODY : when building pam-exec-oauth2 this error appears: ./main.go:110: oauth2config.passwordcredentialstokenex undefined type oauth2.config has no field or method passwordcredentialstokenex

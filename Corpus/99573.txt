@@ -1,0 +1,1 @@
+ URL : "https://github.com/cfusting/arctic-browning/issues/2" TITLE : move tests over to pytest. BODY : we are adopting pytest for all testing. we need to move tests into this format and update travis accordingly.

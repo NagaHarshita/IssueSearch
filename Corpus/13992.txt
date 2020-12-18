@@ -1,0 +1,1 @@
+ URL : "https://github.com/morris/nito/issues/3" TITLE : add /dist folder? BODY : would make publishing the js files easier, e.g. with express.static.

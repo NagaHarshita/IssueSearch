@@ -1,0 +1,1 @@
+ URL : "https://github.com/solus-project/3rd-party/issues/180" TITLE : update anydesk to 2.9.3 BODY : fixed bugs - fixed a crash when using the backend filetransfer

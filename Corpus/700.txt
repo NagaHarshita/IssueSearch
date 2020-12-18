@@ -1,0 +1,1 @@
+ URL : "https://github.com/ros2/rviz/issues/35" TITLE : general ci BODY : - use mac test machine at open robotics ci - enable test coverage for ament see: nightly_linux_coverage - http://ci.ros2.org/view/nightly/job/nightly_linux_coverage/ - check ros 2 ci infrastructure https://github.com/ros2/ci - potentially create custom rviz.repos file with ros2 repos needed for rviz

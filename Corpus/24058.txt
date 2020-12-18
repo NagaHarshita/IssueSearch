@@ -1,0 +1,1 @@
+ URL : "https://github.com/ermig1979/Simd/issues/15" TITLE : scale buffer pixel BODY : hello, i have a buffer of pixels bgra of a 1920x1080 image. the length is 1920 1080 4. i would like to scale this buffer to 1280x720. how to do this using simd library ? i don't find any sample or documentation. thank you !

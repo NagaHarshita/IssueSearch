@@ -1,0 +1,1 @@
+ URL : "https://github.com/picostyle/PySideNodeGraph/issues/9" TITLE : center on selection BODY : need to implement center_on_selection method currently the f key only centers on one selected node item.

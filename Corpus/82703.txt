@@ -1,0 +1,1 @@
+ URL : "https://github.com/iarna/MooseX-Event/issues/7" TITLE : any::moose is deprecated. BODY : after installation this warning seems to appear everywhere once i start using the module. maybe the the any::moose dependency can be dropped out.

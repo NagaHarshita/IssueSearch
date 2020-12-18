@@ -1,0 +1,1 @@
+ URL : "https://github.com/TUM-LRR/era-gp-sim/issues/274" TITLE : crash when closing project BODY : reproduce: open the application and create a new project. add 0 to n additional projects. close any project. application crashes.

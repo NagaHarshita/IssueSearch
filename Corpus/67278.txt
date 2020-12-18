@@ -1,0 +1,1 @@
+ URL : "https://github.com/andy-portmen/country-flags/issues/37" TITLE : performance on start-up BODY : how much performance does it take to get the country code for every open tab on start-up, if the user has several hundred tabs open? is this stuff executed in the background, so that it doesn't matter? can it be delayed until the tab is actually used? or is that not necessary?

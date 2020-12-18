@@ -1,0 +1,1 @@
+ URL : "https://github.com/leifeld/tnam/issues/2" TITLE : outdegree producing na BODY : what might cause outdegree to always produce na in the model summary in the analysis of a weighted network? at the same time, outdegree.degree0 produces results.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Keats/gutenberg/issues/169" TITLE : yank version 0.0.1 BODY : being a stubborn cow, i insisted on trying to cargo install gutenberg and cargo happily installed version 0.0.1 . it would be nice to yank it to prevent other stubborn mammals from falling in the same trap.

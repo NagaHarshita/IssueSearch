@@ -1,0 +1,1 @@
+ URL : "https://github.com/rtfeldman/node-test-runner/issues/234" TITLE : --watch is broken BODY : after executing the tests, it dumps some nonsense: unhandled exception while running the tests: syntaxerror: unexpected end of json input at json.parse <anonymous> at stream.<anonymous> /node-test-runner/lib/supervisor.js:122:27 ... thanks to @iamvery for surfacing this on slack!

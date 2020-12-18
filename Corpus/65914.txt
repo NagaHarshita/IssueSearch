@@ -1,0 +1,1 @@
+ URL : "https://github.com/AWF-GAUG/gsgsim/issues/3" TITLE : load multiple countries BODY : shiny would allow to select multiple countries in the dropdown by adding the parameter multiple = true to the selectinput . however, only the first selected country is used. is it possible to adapt the load_boundary function such that we can use multiple polygons?

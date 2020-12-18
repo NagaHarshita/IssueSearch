@@ -1,0 +1,1 @@
+ URL : "https://github.com/albfan/bankscrap-santander/issues/2" TITLE : json date format BODY : although there's no default date format in json, a date with timezone is desired, like: 2012-04-23t18:25:43.511z taken from https://stackoverflow.com/a/15952652/848072

@@ -1,0 +1,1 @@
+ URL : "https://github.com/emartech/escher-keypool-js/issues/6" TITLE : shouldn't be ambigous BODY : key_pool: json.stringify { 'keyid': 'incentives_suite_v1', 'secret': 'secret', 'acceptonly': 0 }, { 'keyid': 'incentives_suite-dashboard_v1', 'secret': 'secret', 'acceptonly': 0 } suite_api_key_id: 'incentives_suite'

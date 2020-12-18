@@ -1,0 +1,1 @@
+ URL : "https://github.com/amadornes/SCM-Localization-Issues/issues/323" TITLE : rendering mode crash BODY : when i build a circuit over multiple tiles, and then try to switch the rendering mode of one of the tiles, the game crashes. it still works, but i have to log back in every time i do it.

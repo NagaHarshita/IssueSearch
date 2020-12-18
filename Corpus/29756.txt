@@ -1,0 +1,1 @@
+ URL : "https://github.com/pawel-marek/master/issues/5" TITLE : mock or tests data? BODY : those list are some mocks or data used by test? if it's date store it in external file. if it's mock, add some comment. https://github.com/pawel-marek/master/blob/3cf6a5c247fe796aa1e80c34ab8654a30b5c407a/testowanie_p/helpers/petclinicstructure.cs l13

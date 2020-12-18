@@ -1,0 +1,1 @@
+ URL : "https://github.com/input-output-hk/cardano-sl/issues/541" TITLE : csl-163 refactor smart-gen BODY : <blockquote>@flyingleafe</blockquote> right now smart-gen's main.hs is enormous prostynya. better fix it. <!--mirror_meta={ service : youtrack , id : csl-163 }-->

@@ -1,0 +1,1 @@
+ URL : "https://github.com/michael-hampton/workflow-engine/issues/39" TITLE : manual user assignment BODY : if the previous task was manually assigned then the user completing the next task needs to be that assigned user not the user from the task list

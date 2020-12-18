@@ -1,0 +1,1 @@
+ URL : "https://github.com/StabbyCutyou/generics/issues/14" TITLE : update for go 1.8 BODY : i'm sure there's something that happened with unsafe and garbage collection that completely break everything in this project. you must root out the evils to stay compliant.

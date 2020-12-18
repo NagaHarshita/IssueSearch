@@ -1,0 +1,1 @@
+ URL : "https://github.com/JLHOLM/BlueEye/issues/12" TITLE : testing for team model BODY : using rspec unit tests & factorygirl, setup basic tests for the team model. factorygirl factory will need to be setup as well as some helper methods. faker gem is provided.

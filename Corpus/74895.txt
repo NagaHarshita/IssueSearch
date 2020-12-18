@@ -1,0 +1,1 @@
+ URL : "https://github.com/translate/translate/issues/3620" TITLE : fix properties roundtrip BODY : after 3607 some changes need to be introduced in order to fix properties roundtrip. more details in https://github.com/translate/translate/pull/3607 issuecomment-291440437

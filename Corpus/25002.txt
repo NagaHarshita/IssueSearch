@@ -1,0 +1,1 @@
+ URL : "https://github.com/florian-vuillemot/homerV2/issues/33" TITLE : update step module BODY : step have to take a description and a name. this data is information about new feature of a project to do at this step. stepvalidation will valid informations.

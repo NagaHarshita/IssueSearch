@@ -1,0 +1,1 @@
+ URL : "https://github.com/zsiciarz/pixeldabble/issues/1" TITLE : fit to terminal width BODY : we can use one of these crates https://crates.io/search?q=terminal%20size to determine terminal size. needs proper resampling/decimating of the histogram vector.

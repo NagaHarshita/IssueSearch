@@ -1,0 +1,1 @@
+ URL : "https://github.com/opencypher/cypher-for-apache-spark/issues/138" TITLE : reuse filter code in udf BODY : try to share code with cypherfilter https://github.com/opencypher/cypher-for-apache-spark/blob/3afbaabb55d6ec808e7b181f80911e332fef8aa1/src/main/scala/org/opencypher/caps/impl/spark/udfs.scala l31

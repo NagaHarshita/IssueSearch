@@ -1,0 +1,1 @@
+ URL : "https://github.com/deejross/mydis/issues/2" TITLE : add blocking list pop BODY : add a function that blocks for a specified period of time if there are no items in a list to pop until an item is available or the timeout is reached.

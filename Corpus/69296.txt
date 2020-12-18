@@ -1,0 +1,1 @@
+ URL : "https://github.com/videojs/thumb.co.il/issues/11" TITLE : support media playlsits BODY : right now if you load a manifest that is not a master manifest, segments are not added to the manifest explorer

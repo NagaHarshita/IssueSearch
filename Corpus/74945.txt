@@ -1,0 +1,1 @@
+ URL : "https://github.com/laravel/framework/issues/17439" TITLE : flaw in str::is function BODY : - laravel version: 5.4 - php version: 5.6.28 description: there is small flaw in the function. as we are dealing with strings there we should do a strict check === instead of == . steps to reproduce: this function always returns true if one of the parameters is int 0.

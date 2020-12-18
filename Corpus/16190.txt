@@ -1,0 +1,3 @@
+ URL : "https://github.com/I2PC/scipion/issues/1308" TITLE : html report fixes BODY : - remove one defocus column from table and substitute it with resolution data
+- substitute defocus chart by resolution histogram
+- fix system monitor time axis and y axis label

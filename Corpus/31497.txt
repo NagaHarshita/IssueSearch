@@ -1,0 +1,6 @@
+ URL : "https://github.com/mcm-ham/dragsort/issues/5" TITLE : small error in code BODY : in version 0.4.1, line 188 reads:
+ 
+list.removeattr data-origstyle ; causing an error .
+ 
+but should be  
+list.draggeditem.removeattr data-origstyle ; this work item was migrated from codeplex codeplex work item id: '30203' vote count: '1'

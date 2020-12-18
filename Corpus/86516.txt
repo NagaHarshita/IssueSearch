@@ -1,0 +1,1 @@
+ URL : "https://github.com/iridium77/htpdate/issues/1" TITLE : htpdate accuracy question BODY : the accuracy of htpdate is at least -+0.5 seconds and better with multiple servers, but huw muc hbetter? the only way to improve the accuracy is this option? -b burst mode uses multiple polls for each web server to enhance accuracy.

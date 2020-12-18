@@ -1,0 +1,1 @@
+ URL : "https://github.com/tkoolen/RigidBodyDynamics.jl/issues/339" TITLE : new release checklist BODY : mostly because of https://github.com/tkoolen/rigidbodydynamics.jl/issues/332. - run tests of previous version on master to catch missing deprecation warnings - test notebooks esp. visualization stuff that is not tested on travis - news - release notes

@@ -1,0 +1,1 @@
+ URL : "https://github.com/wallabag/android-app/issues/463" TITLE : bug in tags BODY : wallabag app master branch 1 add one tag to one article 2 delete that article in the web interface, not in the app 3 sweep articles in the app 4 the tag is still there in the tag list but if you click it there aren't articles

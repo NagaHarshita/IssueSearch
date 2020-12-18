@@ -1,0 +1,1 @@
+ URL : "https://github.com/pathikrit/better-files/issues/139" TITLE : work around jdk-7133447 BODY : use https://github.com/gjoseph/barbarywatchservice in file.newwatchservice provided statically to get around https://bugs.openjdk.java.net/browse/jdk-7133447 see also https://github.com/playframework/play-file-watch/issues/8

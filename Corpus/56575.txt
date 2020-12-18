@@ -1,0 +1,1 @@
+ URL : "https://github.com/p-en-o-cw-2016/testbed-provided/issues/10" TITLE : no collision detection BODY : when testing milestone 2.1 our drone flies through an object without it dissapearing. thus we are unable to demonstrate milestone 2.1 with your testbed. and as mentioned in issue 8 we cannot demonstrate milestone 2.3, thus we cannot use your testbed for the demo.

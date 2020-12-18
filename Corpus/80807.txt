@@ -1,0 +1,1 @@
+ URL : "https://github.com/cfpb/ccdb5-ui/issues/25" TITLE : upgrade npm dependencies BODY : i would consider upgrading the npm dependencies, especially webpack, to the latest versions . there are some great features in webpack 2.x and 3.x. https://webpack.github.io/docs/roadmap.html.

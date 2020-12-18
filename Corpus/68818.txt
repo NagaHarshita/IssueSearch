@@ -1,0 +1,1 @@
+ URL : "https://github.com/bantenprov/kanekes/issues/38" TITLE : signin in regsiter page BODY : as ini https://github.com/bantenprov/kanekes/blob/master/resources/views/auth/register.blade.php sign in button at the register page used as navigation to sign in page or this is a missing component ?

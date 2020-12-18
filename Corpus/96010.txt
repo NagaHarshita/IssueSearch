@@ -1,0 +1,1 @@
+ URL : "https://github.com/punker76/gong-wpf-dragdrop/issues/279" TITLE : dragdrop without viewmodel BODY : is it possible to get an example without viewmodel but instead using the drop event of the datagrid?

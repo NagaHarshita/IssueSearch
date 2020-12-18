@@ -1,0 +1,1 @@
+ URL : "https://github.com/Ben12345rocks/VotingPlugin/issues/318" TITLE : vote party enhancement BODY : could you add a start delay feature? and a delay message? for example: start_delay: 10 delay_message: ''the vote party will start in 10 seconds!'' this will allows players to switch to the right world before the vote party starts.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Kinto/kinto-elasticsearch/issues/23" TITLE : forward 400 errors BODY : when submitting an invalid es query, we should get back the details about the error and not only return {}

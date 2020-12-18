@@ -1,0 +1,1 @@
+ URL : "https://github.com/EMICVL/3d-objects-for-lab/issues/3" TITLE : documentation file format BODY : all documentation in the team repository shall not be saved as office files .ppt, .doc , but prefebly edit in markdown format, or at least converted to pdf. please read: http://help.github.com/articles/working-with-advanced-formatting/

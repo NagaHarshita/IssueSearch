@@ -1,0 +1,1 @@
+ URL : "https://github.com/nwops/puppet-retrospec/issues/71" TITLE : add facter as a dependency BODY : although retrospec doesn't use facter, the vendored puppet gem does. without facter you can't use retrospec due to loading error.

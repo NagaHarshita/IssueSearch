@@ -1,0 +1,1 @@
+ URL : "https://github.com/ssnepenthe/soter/issues/16" TITLE : update uninstall hook BODY : uninstall hook should also delete any remaining posts of type soter_vulnerability and possibly plugin transients.

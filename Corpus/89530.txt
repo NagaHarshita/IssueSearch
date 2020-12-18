@@ -1,0 +1,1 @@
+ URL : "https://github.com/Hearst-DD/ObjectMapper/issues/743" TITLE : question with nested json BODY : can i use something like x <- map a b i have tried it has not an error. but it's return nil. i'm sure i have a data in b key

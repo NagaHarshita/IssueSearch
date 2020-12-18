@@ -1,0 +1,1 @@
+ URL : "https://github.com/timothycrosley/hug/issues/450" TITLE : how to auto reload BODY : i noticed that the code supports auto reloading when file changes, but i couldn't figure it out. the cli help doesn't state how to do it either.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/libmir/mir-algorithm/issues/51" TITLE : byelement was replaced by? BODY : git log -sbyelement shows eb7b255cf78ee6a2f1b420ae620a0e428f748fb6 but this doesn't seem to show the corresponding replacement

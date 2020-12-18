@@ -1,0 +1,1 @@
+ URL : "https://github.com/Ybalrid/Annwvyn/issues/104" TITLE : switch to vs2017 compiler BODY : vs2017 has vs2015 binary compability, so you don't need to rebuild all the dependencies, but the more the better

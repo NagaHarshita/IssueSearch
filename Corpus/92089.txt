@@ -1,0 +1,1 @@
+ URL : "https://github.com/far-almanac/airports-api/issues/10" TITLE : utc_offset isn't reliable BODY : the utc_offset field isn't reliable because of daylight savings time. to get the correct utc offset you also have to provide a date to get back the utc offset as of that date.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/anmonteiro/lumo/issues/311" TITLE : create a nixos package BODY : it would be awesome if we could use lumo on nixos, and maybe maintain a package. there was already some discussion in 48 about this and i just wanted to open an issue so that we keep track of it.

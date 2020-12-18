@@ -1,0 +1,1 @@
+ URL : "https://github.com/choman/vboxvdi/issues/29" TITLE : install.sh needs 22 BODY : after installation the firewall need port 22 open

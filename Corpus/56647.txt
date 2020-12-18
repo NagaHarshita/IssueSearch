@@ -1,0 +1,1 @@
+ URL : "https://github.com/openstreetmap/Nominatim/issues/686" TITLE : nominatim ansible role BODY : hello, not sure how to put this, so i'm opening an issue. my company has released an ansible role to deploy nominatim on a debian server. everything is there. https://github.com/synthesio/infra-ansible-nominatim hope it might help some people here.

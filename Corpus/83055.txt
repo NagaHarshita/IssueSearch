@@ -1,0 +1,1 @@
+ URL : "https://github.com/yagajs/docker-mapproxy/issues/6" TITLE : boto3 package integration BODY : hi, since version 1.10.0, mapproxy supports s3 backend. however, it requires the boto3 package to be installed https://mapproxy.org/docs/nightly/caches.html cache-s3 . it could be worth to intergrate it. what are your thoughts on this subject? thanks.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/pathespe/MarkerBot/issues/31" TITLE : max poll in markerbotjs BODY : put a max num on poll requests so it doesnt flog server if something bad happens

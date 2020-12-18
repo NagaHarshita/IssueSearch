@@ -1,0 +1,1 @@
+ URL : "https://github.com/AdrienKuhn/uebersicht-ethereum-usd-price/issues/2" TITLE : problem with curl BODY : trying to change currency, modifying the curl cur parameter from ethusd to etheur, reports back the same response, in ethusd. don´t know if this is an issue itself, but i´ve been trying different parameters with no result.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Aurora-Team/BitcoinExchangeFH/issues/82" TITLE : support for nats.io BODY : streaming market data to a target application via nats.io https://nats.io https://github.com/nats-io/python-nats https://github.com/nats-io/asyncio-nats

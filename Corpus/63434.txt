@@ -1,0 +1,1 @@
+ URL : "https://github.com/BennyKok/OpenLauncher/issues/40" TITLE : drawer backgroud colors BODY : currently openlauncher allows you to tweak the blackground color of the drawer but it still leaves a large area where the app icons are displayed, in white. i would like to suggest that this what area also be updated when a user selects a color change

@@ -1,0 +1,1 @@
+ URL : "https://github.com/trevorstephens/gplearn/issues/32" TITLE : include logic regression BODY : new estimator, needs much more research to see how/if it fits into gplearn 's api. no milestone yet. citation http://kooperberg.fhcrc.org/logic/documents/logic-regression.pdf add boolean/logical functions, conditional functions and potential to input a binary input dataset

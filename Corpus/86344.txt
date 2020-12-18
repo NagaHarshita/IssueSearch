@@ -1,0 +1,1 @@
+ URL : "https://github.com/zekunyan/TTGTagCollectionView/issues/36" TITLE : how can i select tag id ? BODY : hello, it's great! everything working is great displayed array names from server. now, in array names, each name having unique id. how to get id when i was selected name in collection ? json: { stid : 720 , name : vishali }, { stid : 732 , name : rajesh }, please help me.

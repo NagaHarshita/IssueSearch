@@ -1,0 +1,1 @@
+ URL : "https://github.com/azavea/raster-foundry/issues/1319" TITLE : disable http wire logging BODY : at least in ci, the logs are emitting org.apache.http.wire level debug logs that are flooding build logs to the point where it is difficult to tell what is going on. these should be disabled, ideally in an externally configurable way.

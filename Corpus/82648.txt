@@ -1,0 +1,1 @@
+ URL : "https://github.com/prometheus/alertmanager/issues/1028" TITLE : amtool basic auth support BODY : currently if you put alertmanager behind a basic http authentication url amtool is unable to specify credentials at least looking at https://github.com/prometheus/alertmanager/blob/master/cli/alert.go is it possible for amtool to support basic auth in the config file / flags ?

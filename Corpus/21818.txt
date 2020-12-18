@@ -1,0 +1,2 @@
+ URL : "https://github.com/matt62king/Widgets/issues/76" TITLE : had form interface BODY : summary ---
+add hasform interface implementation --- java public void bindinputs

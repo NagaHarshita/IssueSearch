@@ -1,0 +1,1 @@
+ URL : "https://github.com/SilentChaos512/SilentGems/issues/240" TITLE : suggestion sg shears BODY : i suggest adding shears using the following recipe: _g_ t_g _t_ g = gem, t = tool rod. super class shears can trim an entire tree at once max 40 leaves , or 3x3 area on non-trees. already chopped trees would probably use the 3x3 to make it easier on the tree detection code.

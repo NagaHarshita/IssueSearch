@@ -1,0 +1,1 @@
+ URL : "https://github.com/dmfrancisco/JS.coach/issues/672" TITLE : cli for js.coach BODY : example: $ jscoach --kind react-native --- output react-native packages ---

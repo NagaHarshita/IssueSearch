@@ -1,0 +1,1 @@
+ URL : "https://github.com/anchore/anchore/issues/33" TITLE : support rhel cves BODY : currently rhel cve feeds are not being used, so scanning rhel/scientific linux results in cannot perform cve scan: no cve data is currently available for the detected base distro type redhat:6,redhat:6.9 any plans to sync redhat distro cve feeds?

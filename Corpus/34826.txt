@@ -1,0 +1,1 @@
+ URL : "https://github.com/NIEM/Movement/issues/19" TITLE : create a github wiki BODY : possible items for the wiki include: overview of the tool setting up docker running all docker containers locally and/or in the cloud contributing guide / code of conduct tutorials app architecture and/or pipeline architecture diagrams code examples usage examples

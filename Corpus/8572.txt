@@ -1,0 +1,1 @@
+ URL : "https://github.com/linuxserver/docker-domoticz/issues/7" TITLE : please add curl BODY : could you please add curl to the image ? many custom scripts for domoticz use api calls via curl. thanks, team linuxserver.io

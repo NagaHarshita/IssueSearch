@@ -1,0 +1,1 @@
+ URL : "https://github.com/PangoSign/PangoSign/issues/141" TITLE : fix button styling BODY : current buttons dont look as they should; the core ui styling does not seem to be applied.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/datitran/jupyter2slides/issues/10" TITLE : not working on firefox BODY : trying to access the server with run always tries to download a bin file with names such as r+f86z9c.bin and such... using firefox 57.0.2 64 bits

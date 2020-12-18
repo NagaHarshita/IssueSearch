@@ -1,0 +1,1 @@
+ URL : "https://github.com/dartiss/timed-content/issues/7" TITLE : resolve wp debug errors BODY : notice: wp-content/plugins/simple-timed-content/simple-timed-content.php:54 - use of undefined constant offday - assumed 'offday' notice: wp-content/plugins/simple-timed-content/simple-timed-content.php:54 - use of undefined constant offday - assumed 'offday' ...possibly more

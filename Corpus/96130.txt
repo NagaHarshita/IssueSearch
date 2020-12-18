@@ -1,0 +1,1 @@
+ URL : "https://github.com/terascope/teraslice/issues/577" TITLE : elasticsearch slicer error BODY : if a slicer when instantiating and determinng interval and range ran a query that returned no results, it would throw a formatting error. this needs to be able to be run and marked as completed.

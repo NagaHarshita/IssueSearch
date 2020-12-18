@@ -1,0 +1,1 @@
+ URL : "https://github.com/js-padavan/atom-enhanced-tabs/issues/21" TITLE : menu stays after switching BODY : after pressing any of these keys, the menus stays. must press esc to hide the menu. ~/.atom/keymap.cson : 'body': 'ctrl-pageup': 'pane:show-next-recently-used-item' 'ctrl-pagedown': 'pane:show-previous-recently-used-item'

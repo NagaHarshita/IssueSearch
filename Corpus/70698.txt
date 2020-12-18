@@ -1,0 +1,1 @@
+ URL : "https://github.com/AtlasOfLivingAustralia/bie-index/issues/151" TITLE : wrong guid for ausfungi BODY : http://bie.ala.org.au/search?q=pycnoporus first hit shows: guid: 897f67c3-cea1-4355-9bf5-0899ab51e00c however, requesting that guid returns a 404. @charvolant says the guid should be urn:lsid:indexfungorum.org:names:18433 .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/bob-lee/ng-joanne-lee/issues/14" TITLE : server side rendering BODY : convert the app to do a server side rendering so that its content can be found on google search. currently lazy loading seems not supported so first to-do would be going back to eager-load.

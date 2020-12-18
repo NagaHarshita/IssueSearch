@@ -1,0 +1,1 @@
+ URL : "https://github.com/moo-dal/moodal-backend/issues/4" TITLE : aws 배포 고민 BODY : deploy <remote-repo-branch-name> 정도의 커맨드를 처리하는 스크립트가 있으면 편할 듯 현재 8000번 포트에 떠있는 django 프로세스 종료 인자로 넘긴 branch 에서 git pull 반영하지 않은 migration 이 있다면, migrate 8000번 포트에 django 프로세스 시작 지금 배포 작업은 위에 적힌 단계 정도로 구성됨 fabric 을 이럴때 활용하는걸까? 원격 머신에 접속해서 명령어 실행하는걸 python 스크립트로 작성하는..?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/guxiaobai/jenkins-tutorial/issues/2" TITLE : defining a pipeline BODY : groovy http://groovy-lang.org/index.html a basic pipeline can be created in either of the following warys: by entering a script directly in the jenkins web ui by creating a jenkinsfile which can be checked into a project's source control respository

@@ -1,0 +1,1 @@
+ URL : "https://github.com/VientoDigital/codegenerator/issues/2" TITLE : not working ne BODY : {table.columns} {if column.type ne 'varchar|nvarchar'} {map column.type} {/if}_{column.name}; {/table.columns} siempre imprime el tipo de dato, mientras que cuando se utiliza en eq solo imprime los varchar que entiendo que en ambos escenarios debería funcional igual.

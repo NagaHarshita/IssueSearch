@@ -1,0 +1,1 @@
+ URL : "https://github.com/webonyx/graphql-php/issues/189" TITLE : nested mutation resolvers BODY : hello, is there any way to build input objects with own resolvers, so they get executed first then arguments for them get replaced with the resolve return? thanks

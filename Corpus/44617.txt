@@ -1,0 +1,1 @@
+ URL : "https://github.com/PeterHall16/Irrational-Numbers/issues/1" TITLE : files - missing files BODY : simply add a .gitignore file with the following content, to reduce git size: /node_modules/ and save the required packages to the package.json file. :nerd_face:

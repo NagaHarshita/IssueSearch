@@ -1,0 +1,1 @@
+ URL : "https://github.com/balderdashy/sails.io.js/issues/116" TITLE : auto reconnect broken BODY : hii my friends, since version 1.1.0 included sails socket not trying to auto reconnect, please check that

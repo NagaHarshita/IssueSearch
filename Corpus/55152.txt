@@ -1,0 +1,1 @@
+ URL : "https://github.com/coe-google-apps-support/DriveTransfer/issues/36" TITLE : improve api validation BODY : api responses need more aggressive validation. the json that is passed could be helped by json schema http://json-schema.org/ . postman may help with setting up a test suite.

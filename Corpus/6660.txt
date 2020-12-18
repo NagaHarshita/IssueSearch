@@ -1,0 +1,1 @@
+ URL : "https://github.com/micro-os-plus/micro-os-plus-iii/issues/15" TITLE : atexit & newlib BODY : when linking against newlib , atexit is called using parameter types that are currently not supported. specifically assert type == __et_atexit inside __register_exitproc function fails.

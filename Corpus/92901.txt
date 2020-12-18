@@ -1,0 +1,1 @@
+ URL : "https://github.com/fdesjardins/paper-rulings/issues/1" TITLE : accept an options argument BODY : pagerulings 'college', { units: 'mm' }

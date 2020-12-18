@@ -1,0 +1,1 @@
+ URL : "https://github.com/edemaine/coauthor/issues/100" TITLE : log role changes BODY : role changes permissions aren't logged anywhere, but should be. who made that mistake?

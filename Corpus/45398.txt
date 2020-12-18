@@ -1,0 +1,1 @@
+ URL : "https://github.com/iclems/iOS-htmltopdf/issues/42" TITLE : hyperlink not working BODY : if we use <a> tag for hyperlink in html template and convert to pdf. link is not clickable in pdf file.

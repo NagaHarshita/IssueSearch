@@ -1,0 +1,1 @@
+ URL : "https://github.com/davodey/pearson-glp-pl/issues/61" TITLE : table sorting js BODY : for the sake of time, the table sorting code was found online, copied and refactored. lets re-write this using es syntax and see if we can trim it down.

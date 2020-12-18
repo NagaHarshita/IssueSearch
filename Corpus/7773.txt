@@ -1,0 +1,1 @@
+ URL : "https://github.com/devfd/react-native-google-signin/issues/247" TITLE : ios login issue BODY : i am getting issue in login. i got bellow error message: exception 'your app is missing support for the following url schemes: google id was thrown while invoking signin on target rngooglesignin with params

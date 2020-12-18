@@ -1,0 +1,1 @@
+ URL : "https://github.com/PRX/Infrastructure/issues/134" TITLE : ecs scaling for dovetail BODY : scale dovetail desired tasks count based on probably cpu utilization. but should investigate what makes the most sense. also, prevent cfn from resetting the service desired tasks.

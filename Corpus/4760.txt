@@ -1,0 +1,1 @@
+ URL : "https://github.com/mstum/Simplexcel/issues/14" TITLE : freeze top row BODY : it would be a nice feature if we can freeze top row of worksheet. it looks like it can be achieved by using the pane element inside sheetviews http://openxmldeveloper.org/discussions/formats/f/14/p/1034/2602.aspx . any implementation suggestions would be welcome.

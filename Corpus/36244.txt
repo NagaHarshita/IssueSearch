@@ -1,0 +1,1 @@
+ URL : "https://github.com/aelvan/Imager-Craft/issues/72" TITLE : google cloud storage BODY : we use google cloud buckets instead of aws s3 . i can only find references to aws in imager, am i correct that google cloud is not supported?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/simonsmith/postcss-at2x/issues/19" TITLE : postcss 6 output BODY : i'm using webpack with postcss-loader which is now pinned to use postcss 6. i get the following added to the output, but goes away if i remove the plugin: function before add {this.parent.insertbefore this, add ; return this}

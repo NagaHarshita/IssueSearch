@@ -1,0 +1,1 @@
+ URL : "https://github.com/all-bear/chrome.one-sound/issues/10" TITLE : stop all issue BODY : - add few adapters to chain - press stop chain - play on of them from frontend expected result: - chain should not be paused current result: - video is played but chain looks like it paused

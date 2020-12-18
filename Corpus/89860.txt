@@ -1,0 +1,1 @@
+ URL : "https://github.com/paris-saclay-cds/ramp-workflow/issues/19" TITLE : rename and single library BODY : we should rename ramp-workflow to ramp-sdk. existing starting kits will need to be updated. we should have a single repo ramp and subrepos ramp-board, ramp-backend, and ramp-sdk. then let users pip install those separately. testing and prs will be easier.

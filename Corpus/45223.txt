@@ -1,0 +1,1 @@
+ URL : "https://github.com/Mikuhl/css-layouts/issues/5" TITLE : holy grail using flex BODY : can you modify the holy grail layout to use flex instead of setting width and height properties? the layout should expand to the width of the browser.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/osate/osate2-core/issues/869" TITLE : goto instance reference BODY : for the fake elements in the instance editor etef and som elements , add actions to goto the actual instance object.

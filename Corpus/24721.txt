@@ -1,0 +1,2 @@
+ URL : "https://github.com/NathanNobert/HangmanTeam2/issues/7" TITLE : text file of words BODY : research common words, uncommon words, and rarer words as easy, medium, and hard. place these all into a text file where each word is on a separate line.
+then, inside of android studio, import this text file and be able to read a word in

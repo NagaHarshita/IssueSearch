@@ -1,0 +1,1 @@
+ URL : "https://github.com/glua/gm_voxelate/issues/48" TITLE : tie up texturing BODY : - add a batch script to install shaders for developers. - re-enable physical mesh generation. - improve atlas generator. - get perms to the repo. - always pad. - allow input textures of different sizes. - force explicit specification of dimensions. - rename cubeface -> sliceface

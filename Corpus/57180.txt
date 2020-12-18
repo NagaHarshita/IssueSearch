@@ -1,0 +1,1 @@
+ URL : "https://github.com/TimoSaemann/ENet/issues/14" TITLE : poor inference results BODY : thank you for publishing your code. but why does the algorithm work much better on the cityscape test set images than on random traffic images from the internet? is there some preprocessing necessary?

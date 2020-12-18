@@ -1,0 +1,1 @@
+ URL : "https://github.com/AppAndFlow/react-native-masonry-list/issues/11" TITLE : two footer views BODY : i have a masonrylist with 2 columns, and i defined a footer component in the list: listfootercomponent={ => <myfootercomponent /> } when i i run the code, i got 2 footer views on 2 columns. any ideas ?

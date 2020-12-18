@@ -1,0 +1,1 @@
+ URL : "https://github.com/porksmash/swarfarm/issues/61" TITLE : import not working BODY : i can't get past the queue been waiting an hour now, attempted on 2 different computers; chrome on windows and chrome on osx . console.log response.status, response.result ; is returning pending null , not sure if that helps.

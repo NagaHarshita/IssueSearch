@@ -1,0 +1,1 @@
+ URL : "https://github.com/japaric/2wd/issues/3" TITLE : line following mode BODY : the robot has 3 reflection sensor mounted near the ground. these can be used to look at the ground and differentiate white surfaces from dark ones. their main use is a line following mode for competitions.

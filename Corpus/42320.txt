@@ -1,0 +1,1 @@
+ URL : "https://github.com/BasicWolf/minicash/issues/5" TITLE : asset management view BODY : description a new assets management view should be introduced to allow a user managing assets. it should provide crud operations for assets. deleting assets which have records referring to them should be impossible. a behave test should be written for the view.

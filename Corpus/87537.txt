@@ -1,0 +1,1 @@
+ URL : "https://github.com/dynamic/silverstripe-locator/issues/140" TITLE : location - add versioning BODY : remove all references to showinlocator create a task to migrate from unpublished to published, based on showinlocator value

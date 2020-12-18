@@ -1,0 +1,1 @@
+ URL : "https://github.com/darlinghq/darling/issues/311" TITLE : socket is not connected BODY : bash: cd: /volumes/xcode_7.2.1: socket is not connected darling /volumes $ ls ls: xcode_7.2.1: socket is not connected darlingemulateddrive systemroot

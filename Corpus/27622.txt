@@ -1,0 +1,1 @@
+ URL : "https://github.com/bahmutov/have-it/issues/12" TITLE : does not handle bin BODY : if a package defines a bin https://docs.npmjs.com/files/package.json bin executable npm will symlink it under ./node_modules/.bin . currently have-it doesn't handle these, which means npm run scripts aren't supported amongst other things .

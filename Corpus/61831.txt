@@ -1,0 +1,1 @@
+ URL : "https://github.com/GOFAI/glasstone/issues/3" TITLE : bug in overpressure.py? BODY : thanks for the interesting code. is this a bug in the calculation of _altitude_sd? https://github.com/gofai/glasstone/blob/ec08b40f9902703096ff8daf01e29ee458f3a115/glasstone/overpressure.py l308 i'm thinking that should be return _altitude_sp alt -1.0/3

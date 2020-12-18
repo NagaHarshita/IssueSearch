@@ -1,0 +1,1 @@
+ URL : "https://github.com/nextcloud/nextcloudpi/issues/245" TITLE : request entity too large BODY : hi it's only me that can't upload big files in this case a 177mb zip using the web interface. it says file entity too large . i think that something is not configured right in my settings, or is something general. thanks

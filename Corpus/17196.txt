@@ -1,0 +1,1 @@
+ URL : "https://github.com/doomedraven/VirusTotalApi/issues/23" TITLE : no result on -rai BODY : hey! thanks for the great script. i'm getting results when i use -s <hash> but when any attempts at using the -rai option come up empty. have tried all of the following with no results. vt -s -rai <hash> vt -s --report-all-info <hash> vt -rai <hash> vt --report-all-info <hash>

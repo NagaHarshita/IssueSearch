@@ -1,0 +1,1 @@
+ URL : "https://github.com/ITS-UofIowa/signage.uiowa.edu/issues/7" TITLE : post migration tasks BODY : files to delete these files have been disabled and uninstalled and need to be removed from the repo signage.uiowa.edu repo. - cas -> module - cas_attributes -> module - ldap -> module - cas -> library

@@ -1,0 +1,1 @@
+ URL : "https://github.com/TomVeeDee/FoMo/issues/19" TITLE : morton curve in 2d BODY : the read_amrvac_file.cpp contains only reading in of 3d morton curves. for 2d they are different. i think we can easily fix it by including the header from https://github.com/forceflow/libmorton, or copying the code with attribution, of course .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/sussman/twisty/issues/85" TITLE : twisty crashes on rotate BODY : rotate your physical phone or an emulated one. the interface will rotate normally while on the main screen, but it will crash when an interpreter is running.

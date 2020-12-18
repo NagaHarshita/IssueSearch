@@ -1,0 +1,1 @@
+ URL : "https://github.com/rurseekatze/node-tileserver/issues/132" TITLE : make srid configurable BODY : add a config option to set the srid of the osm2pgsql database but only support 900913 and 3857 as a first step . this task was taken from 122.

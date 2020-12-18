@@ -1,0 +1,1 @@
+ URL : "https://github.com/comtihon/walrus/issues/15" TITLE : faster c/c++ compilation BODY : c/c++ files are compiled now with makefile from rebar3. i noticed, that erlang.mk compiles them several times faster.

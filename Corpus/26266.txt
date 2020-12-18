@@ -1,0 +1,1 @@
+ URL : "https://github.com/PhonologicalCorpusTools/SLP-Annotator/issues/70" TITLE : alignment on export BODY : not all exports are aligned correctly -- e.g., config. 2 in the exported version has the information that should have been for config. 1 but this is inconsistent

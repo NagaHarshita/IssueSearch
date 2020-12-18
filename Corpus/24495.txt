@@ -1,0 +1,1 @@
+ URL : "https://github.com/thegrb93/StarfallEx/issues/308" TITLE : support for addons BODY : we should add some hooks and maybe functions allowing to add stuff more easily from other addons. so you can request such things here. current todo: - hook after all libraries are initialized - hook after editor is initialized

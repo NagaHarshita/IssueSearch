@@ -1,0 +1,1 @@
+ URL : "https://github.com/LacledesLAN/map_picker/issues/10" TITLE : edge and ie double-tap bug BODY : when using the map picker on a touchscreen in edge or internet explorer, double-tapping zooms into the page. even if you wait longer to tap, it still will not turn the map green. the map picker does work in firefox, though.

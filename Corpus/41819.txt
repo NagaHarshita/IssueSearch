@@ -1,0 +1,1 @@
+ URL : "https://github.com/quanted/hem_app/issues/107" TITLE : add link to dashboard BODY : link to that chemical's page in comptox dashboard from chemical results page, using dtxsid to search the dashboard

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mschuurman/FMSpy/issues/40" TITLE : set initial populations BODY : for a model system, initial populations are currently limited to a single state. there should be a way of setting the initial populations from the input. need to distinguish between sampling both states or using something similar to virtual_basis for the initial conditions.

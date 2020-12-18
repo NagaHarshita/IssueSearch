@@ -1,0 +1,1 @@
+ URL : "https://github.com/kaltura/platform-install-packages/issues/586" TITLE : centos 7 and php 7 support BODY : hi, the centos 7 support has been great! how about php 7 support on centos 7? from what i could see, all is needed is to get rid of php-pecl-memcached dependency, perhaps a few others, but it seems minor. what say you @jessp01

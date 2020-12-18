@@ -1,0 +1,1 @@
+ URL : "https://github.com/slarse/cookiecutter-flask/issues/5" TITLE : add args to setup function BODY : setup.py currently does not install static and templates files. add install_package_data=true and zip_safe=false to the setup args.

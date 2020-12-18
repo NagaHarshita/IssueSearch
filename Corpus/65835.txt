@@ -1,0 +1,1 @@
+ URL : "https://github.com/mvdwg/telling-stories-site/issues/6" TITLE : link to a specific test BODY : it would be nice to have a different url for each test so you can share the link so the test start playing automatically. something like https://telling-stories-code-corps.herokuapp.com?testid=2039482 or similar.

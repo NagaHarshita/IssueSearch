@@ -1,0 +1,1 @@
+ URL : "https://github.com/thiagorossener/jekflix-template/issues/3" TITLE : can't start with gulp BODY : application can't load assets with 'sudo gulp' command. screenshot https://i.imgur.com/qr7iyx0.png works fine with 'bundle exec jekyll serve' but to refresh assets you need to run 'sudo gulp'

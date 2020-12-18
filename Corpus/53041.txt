@@ -1,0 +1,1 @@
+ URL : "https://github.com/grahamcrowell/PortfolioBackTester/issues/6" TITLE : data abstraction layer BODY : split of 3 abstracts away implementation of data as collection of scala collections.

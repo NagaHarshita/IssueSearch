@@ -1,0 +1,1 @@
+ URL : "https://github.com/galetahub/ckeditor/issues/754" TITLE : using ckeditor on rails 5 BODY : i'm trying to use ckeditor on my rails project but nothing show up in my textarea. i'm try to following this guide https://richonrails.com/articles/getting-started-with-ckeditor but ckeditor not work and doestn't give error in development. anyone have clue for this

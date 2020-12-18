@@ -1,0 +1,1 @@
+ URL : "https://github.com/fesch/Structorizer.Desktop/issues/463" TITLE : structurizer for java 1.7 BODY : @fesch hi bob, is it possible to get latest structurizer compiled for java 1.7? reason: with java 1.8 in a 32-bit virtual machine the vm will be killed imediatly after start structurizer - and so i can't find any error reports. fine regards rolf

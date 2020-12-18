@@ -1,0 +1,1 @@
+ URL : "https://github.com/Comandeer/rollup-plugin-real-babili/issues/6" TITLE : add support for options BODY : babili from version 0.0.10 supports passing options. it would be nice to support it in a plugin.

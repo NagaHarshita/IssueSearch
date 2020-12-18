@@ -1,0 +1,1 @@
+ URL : "https://github.com/apangin/async-profiler/issues/27" TITLE : add info command BODY : please to add jattach.sh -p xxxx -i - print info profile was not attached and any other information .

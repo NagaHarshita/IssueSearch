@@ -1,0 +1,1 @@
+ URL : "https://github.com/ropenscilabs/taxa/issues/36" TITLE : finish overview vignette BODY : i think we should have a solid introduction vignette that briefly demonstrates the main functionality of the package before cran. eventually, a few more vignettes that deal with things in more detail would be good, but those can be done later?

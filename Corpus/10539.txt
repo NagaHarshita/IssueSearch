@@ -1,0 +1,1 @@
+ URL : "https://github.com/FeatherCoin/Feathercoin/issues/140" TITLE : coins.cpp review BODY : review double ccoinsviewcache::getpriority in coins.cpp if coins->nheight < nheight { should be if coins->nheight <= nheight

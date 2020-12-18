@@ -1,0 +1,1 @@
+ URL : "https://github.com/katkamrachana/cng/issues/1" TITLE : implement django forms BODY : the models hold modelform classes defined but commented. need the ui form to render from these classes

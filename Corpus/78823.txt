@@ -1,0 +1,1 @@
+ URL : "https://github.com/DMOJ/judge/issues/290" TITLE : removal of resourceproxy BODY : should be inlined into baseexecutor , since there's no use for it outside of baseexecutor anymore, and only serves to confuse.

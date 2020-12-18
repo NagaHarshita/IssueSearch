@@ -1,0 +1,1 @@
+ URL : "https://github.com/HippoAR/react-native-arkit/issues/45" TITLE : feature group BODY : add a arkit.group that can contain multiple nodes. at start it should only be to organize multiple elements into one component, but later we can think about allowing position and rotation on that group that will affect every element inside.

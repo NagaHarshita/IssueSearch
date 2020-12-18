@@ -1,0 +1,1 @@
+ URL : "https://github.com/BlackSourceLabs/BlackNectar-Service/issues/23" TITLE : simply jdbc logic BODY : revamp the service so that it uses spring jdbc templates instead of raw jdbc. this paves the way for blacksourcelabs/blacknectar-service 22 https://zube.io/blacksourcelabs/blacknectar/c/71 .

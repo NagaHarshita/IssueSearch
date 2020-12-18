@@ -1,0 +1,1 @@
+ URL : "https://github.com/RobotiumTech/robotium/issues/871" TITLE : clickonscreen not working BODY : i am developing an app which will open google play store page in browser on button click. i want to click on a span element in webpage. if i try to clickontext, i am getting element not found. please help me with this issue.

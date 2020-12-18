@@ -1,0 +1,1 @@
+ URL : "https://github.com/IAAAIAAIA/svo/issues/3" TITLE : relaxation 2d alignment BODY : motion estimation 1. use 2d feature alignment to refine the motion estimate and the location, orientation estimates of features. 1. use nonlinear least-squares optimization for updates

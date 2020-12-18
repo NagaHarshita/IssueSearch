@@ -1,0 +1,1 @@
+ URL : "https://github.com/constelation/monorepo/issues/87" TITLE : export all flow prop types BODY : use syntax shown here: https://github.com/flowtype/flow-typed/blob/master/definitions/npm/react-flip-move_v2.9.x/flow_v0.31.x-/react-flip-move_v2.9.x.js l2

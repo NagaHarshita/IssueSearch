@@ -1,0 +1,1 @@
+ URL : "https://github.com/synergia/SCS/issues/9" TITLE : manual control view BODY : - rename debug to manual control - fix sending pwn only when slider finished moving - slider step 5 - implement checkbox

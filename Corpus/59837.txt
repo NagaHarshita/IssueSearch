@@ -1,0 +1,1 @@
+ URL : "https://github.com/TripHub/API/issues/2" TITLE : user email invitations BODY : we need a way for users to add their friends to trips. to begin with, email invitations would be a nice idea. we'll need to work out how to store a user's invitations and how users both on and off triphub receive and accept/reject invitations.

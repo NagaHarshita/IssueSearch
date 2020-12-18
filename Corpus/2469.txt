@@ -1,0 +1,1 @@
+ URL : "https://github.com/kieranjol/IFIscripts/issues/169" TITLE : add rsync log BODY : rsync can make its own logs a la https://github.com/mediamicroservices/mm/blob/643f67fc3e171ab76f921694c7cfde556f8b2e33/xdcamingest l164 maybe gcp can too? pry not.

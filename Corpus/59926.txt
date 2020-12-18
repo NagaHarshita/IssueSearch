@@ -1,0 +1,1 @@
+ URL : "https://github.com/victorhahn/SCIM/issues/82" TITLE : vendor expiration date BODY : the vendor table and design both have an expiration date attached, but it should really be on the document. remove

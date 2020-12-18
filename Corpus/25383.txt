@@ -1,0 +1,1 @@
+ URL : "https://github.com/wodby/docker4drupal/issues/175" TITLE : xdebug on phpstorm BODY : hi, i do have a question. can someone provide a detailed guide how to setup phpstorm with xdebug with use of docker4drupal?

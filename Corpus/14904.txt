@@ -1,0 +1,1 @@
+ URL : "https://github.com/juanAFernandez/fpd-memory/issues/2" TITLE : check out xelatex BODY : it can easily handle unicode. it's got some quirks, but it's eventually better.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/aminroosta/sqlite_modern_cpp/issues/136" TITLE : extract and print values? BODY : hi i tried but without no luck to select from my columns random text strings by choosing a random id but how exactly can i print in console a random quote inside available inside my db? this thing is driving me crazy >.<

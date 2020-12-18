@@ -1,0 +1,1 @@
+ URL : "https://github.com/BenSibley/Period/issues/4" TITLE : untranslated string: and BODY : hi, there's an untranslated string on line 15 of the content/post-categories.php file: $output .= ' and '; i wish i saw this before the 1.07 release :

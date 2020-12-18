@@ -1,0 +1,1 @@
+ URL : "https://github.com/sherzberg/graylog-plugin-s3/issues/10" TITLE : handle .gz files BODY : hi, most of the files that i push to s3 are in .gz format. how can we handle this?

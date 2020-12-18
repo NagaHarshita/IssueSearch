@@ -1,0 +1,1 @@
+ URL : "https://github.com/UTSA-ACM/rowdyhacks-2017/issues/4" TITLE : horizontal page scrolling BODY : allow users to have a horizontal scroll effect, enabling them to navigate between pages by going to the left or right, as requested by @nishantg95. needs to maintain parallax effect.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/sqlitebrowser/sqlitebrowser/issues/1014" TITLE : open sql file path BODY : open sql file dialog should default to the same path as the database; instead it opens home folder tested on windows .

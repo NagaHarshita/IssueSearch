@@ -1,0 +1,1 @@
+ URL : "https://github.com/NicoJuicy/Tagly/issues/27" TITLE : add a rating system BODY : add a new custom type --> rating system there should be a crawler that fetches the items score when submitted or every hour. when the type is added, make a crawler for amazon/bol.com/... that fetches the score.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/synechron-finlabs/quorum-maker/issues/15" TITLE : adding nodes post hoc? BODY : is there a simple way to add nodes after the initial nodes are up and running? if no, what is the correct way to approach this?

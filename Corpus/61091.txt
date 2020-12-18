@@ -1,0 +1,1 @@
+ URL : "https://github.com/openaustralia/ukraine_verkhovna_rada_deputies/issues/24" TITLE : add webhook to scraper? BODY : as we're using this scraper to feed everypolitician, it would be super-useful if you could set a webhook of https://everypolitician-rebuilder.herokuapp.com/rebuild/ukraine/verkhovna-rada/official to auto-trigger a rebuild if anything has changed…

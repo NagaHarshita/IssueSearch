@@ -1,0 +1,1 @@
+ URL : "https://github.com/StoneCypher/jssm/issues/250" TITLE : start and end nodes BODY : start nodes can specify in peg can specify which to start from in constructor config uses first in list as default no repetitions all states actually exist end nodes can specify in peg

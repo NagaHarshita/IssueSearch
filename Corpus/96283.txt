@@ -1,0 +1,4 @@
+ URL : "https://github.com/tpfinal-pp1/tp-final/issues/212" TITLE : error en renovar contratos BODY : hay un error en renovar contratos, seguir los siguientes pasos: 1. elegir un contrato vencido
+2. elegir la opción renovar
+3. elegir una fecha de celebración
+4. elegir guardar aparece el mensaje de guardado pero en realidad no se guarda la fecha de celebración

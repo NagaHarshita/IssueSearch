@@ -1,0 +1,1 @@
+ URL : "https://github.com/swill/kb_builder/issues/17" TITLE : cant build a 1x1 keyboard. BODY : it doesn't look like it is possible to build a 1x1 keyboard with the builder? i tried with {sm: cherry ,sb: gateron ,st: ks-3-tea ,a:7}, and got no drawing adn theese stats > width: 0.001mm > height: 0.001mm > surface area: -196.000mm2 > cut path length: 0.004mm

@@ -1,0 +1,1 @@
+ URL : "https://github.com/magefree/mage/issues/3837" TITLE : typo on ruin rat hou BODY : rules text for ruin rat reads when ruin rat dies, exile target card. , should read when ruin rat dies, exile target card from an opponent's graveyard.

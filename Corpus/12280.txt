@@ -1,0 +1,1 @@
+ URL : "https://github.com/inbo/dhcurve/issues/26" TITLE : nog te bespreken BODY : - naamgeving: q5k en q95k klassemidden van 2.5 en 97.5 % bi hernoemen? - databank: praktisch voor foutcontrole om 1 id te hebben - 'hoofdscript' misschien best uit package halen? --> eenvoudiger aan te passen basis hiervan staat ook in vignette

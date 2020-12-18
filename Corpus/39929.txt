@@ -1,0 +1,1 @@
+ URL : "https://github.com/Cheppers/robo-scss-lint/issues/9" TITLE : support for stdinput BODY : lint stdinput instead of file contents.

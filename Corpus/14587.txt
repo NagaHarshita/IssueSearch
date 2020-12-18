@@ -1,0 +1,1 @@
+ URL : "https://github.com/mapsplugin/cordova-plugin-googlemaps/issues/1486" TITLE : base64 icon issue BODY : map.addmarker { icon: 'data:image/svg+xml;base64, .....', title: 'marker name', position: new latlng } .then marker: marker => { marker.showinfowindow ; } ; the default marker icon displayed

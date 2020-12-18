@@ -1,0 +1,10 @@
+ URL : "https://github.com/PennyDreadfulMTG/perf-reports/issues/4741" TITLE : 500 error at /favicon.ico/ BODY : failed to execute select from _cache_card as c where 1 = 1 and 1 = 1 with because of 1146, table 'cards._cache_card' doesn't exist reported on decksite by logged_out
+--------------------------------------------------------------------------------
+request method: get
+path: /favicon.ico/?
+cookies: {'__cfduid': 'd3219866f05212cb18b2aae631794502f1489711241', '_ga': 'ga1.2.984397781.1509672556', '_gid': 'ga1.2.2137986365.1514262663', 'cf_ob_info': '502:3d3561890ddc54c8:ord', 'cf_use_ob': '0'}
+endpoint: favicon
+view args: {'rest': '.ico'}
+person: logged_out
+user-agent: mozilla/5.0 linux; android 7.0; sm-g930v build/nrd90m applewebkit/537.36 khtml, like gecko chrome/61.0.3163.98 mobile safari/537.36
+referrer: https://pennydreadfulmagic.com/

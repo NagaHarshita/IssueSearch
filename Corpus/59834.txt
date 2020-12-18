@@ -1,0 +1,1 @@
+ URL : "https://github.com/censof/saga-8.2-installation/issues/1" TITLE : user creation is wrong BODY : this: create users - name: create acct user user: name=acct should be this: create users - name: create acct user user: name=acct state=present

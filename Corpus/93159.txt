@@ -1,0 +1,1 @@
+ URL : "https://github.com/rfcx/rfcx-reporter/issues/8" TITLE : add goto gps functionality BODY : we can receive a new position that is sent to us through the api. google maps opens up and we can use it to go to the right gps coordinate.

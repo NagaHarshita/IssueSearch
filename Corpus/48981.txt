@@ -1,0 +1,1 @@
+ URL : "https://github.com/fluffyst/Surftimer/issues/35" TITLE : style wrcp menu issue BODY : if you are in the wrcp menu of a style and select a stage that does not have any records yet, you will be thrown back to the wrcp menu of normal times instead of to the one of the style.

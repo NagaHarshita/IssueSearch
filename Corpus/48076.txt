@@ -1,0 +1,1 @@
+ URL : "https://github.com/haskell/cabal/issues/4772" TITLE : release for ghc 8.2.2 BODY : ghc 8.2.2 is quickly approaching and @hvr had mentioned that there are some cabal fixes which should go in. can we get a release with these fixes by the end of this week?

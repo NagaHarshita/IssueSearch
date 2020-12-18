@@ -1,0 +1,1 @@
+ URL : "https://github.com/Lilja/timelog/issues/1" TITLE : work hours remaining BODY : given a week that the user has been inputted time logs the user should be able to see how many hours left the user have to work in order to reach the target work hours 40 hours default

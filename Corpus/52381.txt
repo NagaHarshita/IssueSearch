@@ -1,0 +1,1 @@
+ URL : "https://github.com/dojo/grunt-dojo2/issues/180" TITLE : clean up loader config BODY : we're including rxjs and maquette here, https://github.com/dojo/grunt-dojo2/blob/master/lib/load-dojo-loader.ts l11-l24 we need to revisit these packages and make sure we're only including ones that are relevant.

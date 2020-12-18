@@ -1,0 +1,1 @@
+ URL : "https://github.com/BlueHuskyStudios/Rent-Split-Calculator/issues/8" TITLE : add tests for ci BODY : circle ci builds keep failing, so we should add tests that it can actually run.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/M4telight/pyngpong/issues/4" TITLE : add enum support to states BODY : we should add python enums https://docs.python.org/3/library/enum.html to our code ;

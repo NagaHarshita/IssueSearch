@@ -1,0 +1,1 @@
+ URL : "https://github.com/mosra/toolchains/issues/3" TITLE : defiend != defined BODY : https://github.com/mosra/toolchains/blob/d7beaeddc68c5ee07603f1c87cef4d4323c6f0f4/generic/emscripten-wasm.cmake l17 hi, there is a typo if defiend env{emscripten} should be if defined env{emscripten} best, tomas

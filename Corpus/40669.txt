@@ -1,0 +1,1 @@
+ URL : "https://github.com/MarlinFirmware/Marlin/issues/7937" TITLE : upgrading from 1.1.6 BODY : hi, i have delta kossel xl. i want to upgrade from 1.1.6 just by copying mh configuration.h and configuration.adv.h to new 1.1.6. any reason not to ? regrds mario

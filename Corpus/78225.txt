@@ -1,0 +1,1 @@
+ URL : "https://github.com/AnalyticalGraphicsInc/cesium/issues/5175" TITLE : polygon jitter in 2d map BODY : browse to http://www.agi.com/contact zoom in a bit and scroll back and forth the polygons jitter this could be because the granularity is high, but i would still expect rte to avoid the jitter.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/oVirt/cockpit-machines-ovirt-provider/issues/14" TITLE : add to description after BODY : after this part: engine-config -s corssupport=true to turn on the cors support for the rest api engine-config -s corsallowdefaultorigins=true to allow cors for all configured hosts also the systemct restart ovirt-engine so it will not be forgotten

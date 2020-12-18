@@ -1,0 +1,1 @@
+ URL : "https://github.com/marcelnakamine/humor-graph/issues/1" TITLE : some weekday don't update BODY : the db are updated properly but in the chart still show the same unchanged value. e.g. i drag the tuesday plot from 3 to -4. the db is updated properly but when i refresh the page, the plot show on value 3.

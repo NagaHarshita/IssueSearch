@@ -1,0 +1,1 @@
+ URL : "https://github.com/brimstone/windows-ova/issues/3" TITLE : add qemu to depends BODY : add qemu to depends success. qemu-img resize c.img 107374182400 make: qemu-img: command not found makefile:33: recipe for target 'c.vmdk' failed make: c.vmdk error 127

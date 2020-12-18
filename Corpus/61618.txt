@@ -1,0 +1,1 @@
+ URL : "https://github.com/ngetchell/PSGitLab/issues/127" TITLE : better on boarding docs BODY : i want to try this out, and provide prs as i see the missing parts, but it isn't obvious what one should do to setup. you should update the docs to reflect this, mention save-gitlabapiconfig and friends and give few quick examples of usage.

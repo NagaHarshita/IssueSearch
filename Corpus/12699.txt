@@ -1,0 +1,1 @@
+ URL : "https://github.com/dry-rb/dry-inflector/issues/5" TITLE : release of 0.1.0 BODY : 1 merge 4 address singularization ? 2 will we have a constantize method? 3 will we have a foreign_key method? see comment https://github.com/dry-rb/dry-inflector/issues/1 issuecomment-343634079 and on. then @jodosha can fire a release tomorrow.

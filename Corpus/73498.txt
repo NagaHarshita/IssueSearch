@@ -1,0 +1,1 @@
+ URL : "https://github.com/bpbond/gcamdata/issues/21" TITLE : create progress function BODY : ...that makes dependency graph; gets finished chunks; appends to pre-existing data; graphs date versus chunks colored by module; saves to readme graphics folder.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/radovskyb/watcher/issues/19" TITLE : support for globs BODY : would it be possible for the watcher api to support globs as arguments to the add and ignore methods? this would make watching specific directories for only certain file types much easier: golang w.add ./ / .go or is there a way to achieve this with the current interface?

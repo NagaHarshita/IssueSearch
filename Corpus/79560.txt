@@ -1,0 +1,1 @@
+ URL : "https://github.com/troubling/hummingbird/issues/116" TITLE : slo / dlo ratelimiting ? BODY : the 1/sec limit in swift is way too high. people would want xlos for smaller objects too. i'm not adding any ratelimit right now but maybe we can come up with something decent later- and maybe in a higher level req / bw limit thing? idk. we could just not have it.

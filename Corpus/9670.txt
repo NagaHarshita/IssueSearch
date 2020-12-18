@@ -1,0 +1,1 @@
+ URL : "https://github.com/adafruit/Basic-Chat/issues/2" TITLE : adafruit git hub BODY : https://learn.adafruit.com/crack-the-code/overview i'm getting a build error trying to use the sample code for ble , apparently it needs to be updated to swift 4. any chance there is a swift 4 version so i can continue learning how to create an iphone app for my bluetooth arduino devices>

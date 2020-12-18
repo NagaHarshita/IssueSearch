@@ -1,0 +1,1 @@
+ URL : "https://github.com/wso2/msf4j/issues/427" TITLE : swagger and quotes BODY : when using msf4j-swagger the url http://localhost: port /swagger gives this response: { \ swagger\ : \ 2.0\ , \ info\ : { } } why it adds and \ characters? how can i remove them? maybe i can configure which jsonconverter to use?

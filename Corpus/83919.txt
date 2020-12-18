@@ -1,0 +1,1 @@
+ URL : "https://github.com/HealthSamurai/re-form/issues/1" TITLE : components internal state BODY : this is still a question - should be internal component state be global or local or configurable?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/LonamiWebs/Telethon/issues/185" TITLE : clien not authorized BODY : sometimes when i load other session, or even same session, then client says not authorized and resends a code, causing to have to relogin or sometimes a flood time ban from telegram

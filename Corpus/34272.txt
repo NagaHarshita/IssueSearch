@@ -1,0 +1,1 @@
+ URL : "https://github.com/wireservice/csvkit/issues/884" TITLE : can't install latest BODY : i see that latest csvkit is v1.0.2 however when i install n ubuntu as per the docs i get an older version 0.9 which doesn't seem to support the new --skip-lines flag. is the latest not published? if not is there any docs that tell how to install from git?

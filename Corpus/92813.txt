@@ -1,0 +1,1 @@
+ URL : "https://github.com/swagger-api/swagger-ui/issues/2708" TITLE : @api tags= tags is chinese BODY : i am using swagger ui 2.2.10 , and i met a problem is that i add a @api tags= tags is chinese when i click request url like 'post /api/upload/upload' is not open

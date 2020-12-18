@@ -1,0 +1,1 @@
+ URL : "https://github.com/bro/bro-osquery/issues/2" TITLE : status log to bro BODY : status messages info/warning/error should also be send to bro and logged via the osquery framework

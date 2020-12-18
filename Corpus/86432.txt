@@ -1,0 +1,1 @@
+ URL : "https://github.com/facebookincubator/create-react-app/issues/2203" TITLE : how to import external js BODY : for example add <script type= text/javascript > var test = 0; </script> in index.html when i use test in componentdidmount an error 'test' is not defined how to solve this problem?

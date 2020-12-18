@@ -1,0 +1,1 @@
+ URL : "https://github.com/RADAR-CNS/RADAR-RestApi/issues/20" TITLE : how to add new device BODY : we need to define a mechanism to easily integrate new device. a solution could be to use a yml with the device specification defining on board sensors, mongo db collections and dao interfaces.

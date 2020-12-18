@@ -1,0 +1,1 @@
+ URL : "https://github.com/IBM-Swift/swift-html-entities/issues/42" TITLE : podspec needs updating BODY : the .podspec needs an update on every release. currently, it's pointing at version 3.0.4

@@ -1,0 +1,1 @@
+ URL : "https://github.com/dpoulson/r2_control/issues/47" TITLE : improve logging of systems BODY : log debug data to usb stick for later analysis. saves having to have r2 powered up to connect to the pi. also reduces writes to sd card.

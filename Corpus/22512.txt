@@ -1,0 +1,1 @@
+ URL : "https://github.com/DevFestMed2017/KotlinBootcamp/issues/9" TITLE : lista delle città BODY : le città supportate sono presenti qui: http://openweathermap.org/help/city_list.txt possiamo usare firebase per sincronizzare questa lista per le nostre ricerche

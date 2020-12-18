@@ -1,0 +1,1 @@
+ URL : "https://github.com/jneen/rouge/issues/824" TITLE : ada language support BODY : your project is used by gitlab which seems to be disinterested in adding ada syntax highlighting. see: https://gitlab.com/gitlab-org/gitlab-ce/issues/37709 basic ada language support would be nice.

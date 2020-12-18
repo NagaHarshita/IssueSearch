@@ -1,0 +1,1 @@
+ URL : "https://github.com/nrobinson2000/homebrew-po/issues/5" TITLE : compiling .ino files? BODY : hey there, firstly, thank you so much for this! it's super handy... is there a way to compile .ino files? instead of having to split them up into .h . and .cpp ? thanks again!

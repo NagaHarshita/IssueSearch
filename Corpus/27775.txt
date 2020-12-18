@@ -1,0 +1,1 @@
+ URL : "https://github.com/shoeffner/pandoc-beamer-notes/issues/2" TITLE : enable a .py script BODY : for panflute to allow auto execution, this should place a .py-file in the path, not only an executable.

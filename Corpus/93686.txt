@@ -1,0 +1,1 @@
+ URL : "https://github.com/NodeBB/NodeBB/issues/5889" TITLE : analytics for ip blocklist BODY : in some cases, spammers get around spam-be-gone via manual intervention or mechanical turk style captcha solvers, etc ... so the last resort is ip blocklist. it'd be nice to gauge effectiveness of the blocklist by seeing the blocked login/register attempts via graph.

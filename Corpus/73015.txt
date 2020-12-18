@@ -1,0 +1,1 @@
+ URL : "https://github.com/rowoot/test-gh-pages/issues/1" TITLE : cname option not working BODY : hi, i've tried many things and searched through internet, but coundn't find an answer - could you please give an example how to use cname option using you package? gulp.task 'deploy', function { return gulp.src './dist/ / ' .pipe ghpages { cname: ? } ; } ; many thanks, n.

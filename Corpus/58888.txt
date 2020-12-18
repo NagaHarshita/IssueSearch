@@ -1,0 +1,1 @@
+ URL : "https://github.com/ruiqimao/qmkbuilder/issues/8" TITLE : support for permalinks BODY : have the editor automatically load a config from url parameters. one way this could be done would be to encode the config in base64.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/omnitekinc/AERA_MSS/issues/3" TITLE : edit membership & save BODY : after editing membership, and then click save button, the page reload and took me back to the membership listing page. expectation: after clicked save, it should show me the non-editing view of the member detail.

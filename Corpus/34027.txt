@@ -1,0 +1,1 @@
+ URL : "https://github.com/kubernetes/test-infra/issues/5948" TITLE : bot adding bad label BODY : i am guessing that changing owners files should not get the retest-not-required-docs-only label see https://github.com/kubernetes/kubernetes/pull/57178 that is technically code, which should be retested. thoughts? /cc @fejta /sig test /area prow

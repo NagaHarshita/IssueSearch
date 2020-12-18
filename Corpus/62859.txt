@@ -1,0 +1,1 @@
+ URL : "https://github.com/Deconimus/JarShrink/issues/4" TITLE : create some help output BODY : it is better practice to output some form of help if you do not something as instructed e.g. just running your application without any argument just crashes with java.lang.arrayindexoutofboundsexception

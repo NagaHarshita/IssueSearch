@@ -1,0 +1,1 @@
+ URL : "https://github.com/ryba-io/ryba/issues/94" TITLE : masson: migration script BODY : opening this issue to track the progress on migration commited services: hdf, hdp, test_user, zookeeper/ , hadoop/core hdfs_dn hdfs_jn db_admin ranger/admin + solr embeded in progress hdfs_nn

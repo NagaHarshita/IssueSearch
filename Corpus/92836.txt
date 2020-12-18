@@ -1,0 +1,1 @@
+ URL : "https://github.com/veraPDF/veraPDF-library/issues/831" TITLE : a in annotation dictionary BODY : verapdf 1.7.48 does not detect the violation of 6.4.1 of iso 19005-2:2011 in document converting to pdf_a.pdf of https://github.com/verapdf/verapdf-library/issues/708.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/MakeSchool-Tutorials/Drift-Unity-VR/issues/3" TITLE : 8. adding levels better BODY : private string levelnames; it must be declared as static, or else there will be compiler errors. the tutorial does not specify that you must make this a static declaration.

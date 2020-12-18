@@ -1,0 +1,1 @@
+ URL : "https://github.com/alexsanchez728/SWRPG-NPC-generator-and-tracker/issues/49" TITLE : battle: remove status BODY : as a user, status effects only last so long. when it is time to remove them there should be a 'x' delete button on each status as a developer: each state when printed to the page needs a delete button that deletes the state by id from the unit in firebase

@@ -1,0 +1,1 @@
+ URL : "https://github.com/m-labs/sinara/issues/312" TITLE : urukul clock sma grounds BODY : - iirc, we agreed that the default population option should directly connect sma grounds to the pcb grounds. thus, 100k resistors should be 0r by default. cf 311 for suggestions about schematic annotation for this.

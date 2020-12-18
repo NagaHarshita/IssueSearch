@@ -1,0 +1,1 @@
+ URL : "https://github.com/DiseaseOntology/HumanDiseaseOntology/issues/220" TITLE : doid:5520 is_a doid:1749 BODY : i believe doid:5520 head and neck squamous cell carcinoma should have an is_a edge to doid:1749 squamous cell carcinoma . thanks!

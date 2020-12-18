@@ -1,0 +1,1 @@
+ URL : "https://github.com/nodejs/node/issues/10595" TITLE : url empty passwords BODY : the spec was updated https://github.com/whatwg/url/pull/186 , so we should do so as well.

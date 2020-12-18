@@ -1,0 +1,1 @@
+ URL : "https://github.com/pedromvaz/bromak/issues/34" TITLE : improve url mappings BODY : use the following link to make url mappings more secure and user friendly: http://docs.grails.org/latest/guide/single.html urlmappings

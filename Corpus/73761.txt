@@ -1,0 +1,1 @@
+ URL : "https://github.com/mushorg/go-dpi/issues/42" TITLE : delay to detect protocol BODY : this issue happened sometimes i had delay to display logs .in my test just detected icmp protocol. i had this log could not identify for other protocols.

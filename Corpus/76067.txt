@@ -1,0 +1,1 @@
+ URL : "https://github.com/pbek/QOwnNotes/issues/724" TITLE : inconsistent font resize BODY : expected behaviour 1. modify note editor text size _via_ shortcuts or ui buttons 2. both, default and code fonts change actual behaviour when increased or decreased, only the default font change. code font remains as specified on settings.

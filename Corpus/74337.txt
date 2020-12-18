@@ -1,0 +1,1 @@
+ URL : "https://github.com/shaketbaby/directory-named-webpack-plugin/issues/9" TITLE : equivalent babel plugin? BODY : this plugin looks great! however in an isomorphic app it's a no-go unless you're webpacking your node code. if there's an equivalent babel plugin, that would be great! i had a good look around but couldn't find one.

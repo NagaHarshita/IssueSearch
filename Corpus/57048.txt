@@ -1,0 +1,1 @@
+ URL : "https://github.com/cwrc/HuViz/issues/115" TITLE : persisting edge labels BODY : consider adding the ability to expose edge labels rather than only allowing user to see one at a time by mousing over.

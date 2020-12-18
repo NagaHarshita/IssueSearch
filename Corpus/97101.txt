@@ -1,0 +1,1 @@
+ URL : "https://github.com/IMSmobile/app/issues/352" TITLE : fix slow webpack compiling BODY : npm run test takes a very long time

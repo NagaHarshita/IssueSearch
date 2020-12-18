@@ -1,0 +1,1 @@
+ URL : "https://github.com/mantrajs/mantra-cli/issues/114" TITLE : skip creation of routes BODY : i usually only use routes in core, because having routes in multiple modules may lead to re-renderings see https://github.com/mantrajs/mantra-core/issues/9 , so it would be cool to just be able to disable route generation in other modules than core maybe via setting

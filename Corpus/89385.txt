@@ -1,0 +1,1 @@
+ URL : "https://github.com/gobuffalo/buffalo/issues/243" TITLE : provide a csrf middleware BODY : csrf cross-site request forgery protection is often needed, and could be implemented as a core middleware. see a sample implementation for revel another go web framework here: https://github.com/cbonello/revel-csrf

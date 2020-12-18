@@ -1,0 +1,1 @@
+ URL : "https://github.com/KensoDev/terraform-example-with-modules/issues/2" TITLE : bug in base/outputs BODY : just a heads up that in base/outputs.tf there is a minor bug/typo: output aws_key_pair_id { source ${aws_key_pair.id.auth.id} } should be this: output aws_key_pair_id { value = ${aws_key_pair.id.auth.id} }

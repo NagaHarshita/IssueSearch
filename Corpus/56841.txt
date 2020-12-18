@@ -1,0 +1,1 @@
+ URL : "https://github.com/adab1ts/manifesto-api/issues/1" TITLE : operation hooks needed BODY : the following before save operation hooks are needed: - sanitize and capitalize signer's name - sanitize and lowercase signer's email - check uniqueness of email bear in mind we'll use pg - set signer's created_at property value

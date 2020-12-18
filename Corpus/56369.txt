@@ -1,0 +1,1 @@
+ URL : "https://github.com/weechat/weechat/issues/889" TITLE : multiline input issues BODY : i set multiline input based on the faq, but anytime the text enters the second line, the text of the first line, the title, and the buffer list all disappear and aren't fixed until the text is either deleted back to the first line or the tab is changed to a different buffer.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/12px/eddited/issues/1" TITLE : make footer cleaner BODY : i couldn’t hold myself back. ! selection_246 https://user-images.githubusercontent.com/11616378/29073489-758acab2-7c54-11e7-9ace-a7460cebc17a.png css .footer { border: 0; } .footer .col { border: 0; }

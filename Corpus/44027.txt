@@ -1,0 +1,1 @@
+ URL : "https://github.com/lter/deims/issues/151" TITLE : dpm call in pasta api BODY : i am guessing we did not clean the code as needed, there is a dpm call in line 40 of the pasta api library. remove it or else we will all end up with exceptions.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/sbt/zinc/issues/320" TITLE : analysismapper is private BODY : analysismapper looks like the right way to avoid needing to be aware of zinc analysis content https://github.com/sbt/zinc/issues/218 , but currently it is an sbt.internal.inc api.

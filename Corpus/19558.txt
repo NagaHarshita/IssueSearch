@@ -1,0 +1,1 @@
+ URL : "https://github.com/gofer/libbase64/issues/3" TITLE : add install script BODY : make install でインストールできるようにしたい。 makefile install: install -d ${install_prefix}/lib install -m 644 libbase64.a ${install_prefix}/lib/ install -m 644 include/base64.hpp ${install_prefix}/include/

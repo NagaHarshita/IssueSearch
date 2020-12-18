@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla/source-map/issues/275" TITLE : use built-in url BODY : source-map implements its own url parsing, but it seems to me that it would be better to just use the built-in url .

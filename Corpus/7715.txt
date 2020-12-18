@@ -1,0 +1,1 @@
+ URL : "https://github.com/WatchNature/watchnature_app/issues/2" TITLE : image exif data BODY : just a quick thought here, but we're going to be working with exif data quite a bit. if we do end up using imgix, we could utilize their endpoint for getting all that data from an uploaded image. 0 processing power required by us. https://docs.imgix.com/apis/url/format/fm

@@ -1,0 +1,1 @@
+ URL : "https://github.com/James-Yu/Atom-LaTeX/issues/124" TITLE : sync cursor position BODY : texstudio offers the options to sync the cursor position between both source/pdf documents. you can choose if you only want it in one direction or in both. i would love to see such a feaute in this plugin, any plans to do this?

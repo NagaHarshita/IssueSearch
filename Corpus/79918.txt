@@ -1,0 +1,1 @@
+ URL : "https://github.com/Azure/aci-connector-k8s/issues/85" TITLE : support for custom vnets BODY : not sure if aci itself supports this yet, but it would be great if we could deploy containers and put them into an existing vnet ideally the vnet could be in any resource group . thanks dan

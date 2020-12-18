@@ -1,0 +1,1 @@
+ URL : "https://github.com/DataResponsibly/DataSynthesizer/issues/3" TITLE : django data upload BODY : when i try to upload <any> dataset to the django app i get the following error: parsererror at _synthesizer_proc_data_dash_.pdf https://github.com/dataresponsibly/datasynthesizer/files/1489572/parsererror.at._synthesizer_proc_data_dash_.pdf

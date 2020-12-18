@@ -1,0 +1,1 @@
+ URL : "https://github.com/coala/landing-frontend/issues/127" TITLE : fix sorting by reviews BODY : sorting by reviews has probably nans at the top and rultor and gitmate bot in there. maybe add them extra for fun but the empty ones should be removed.

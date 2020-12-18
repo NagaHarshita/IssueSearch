@@ -1,0 +1,1 @@
+ URL : "https://github.com/unicode-org/full-icu-test/issues/2" TITLE : icu license link is broken BODY : in the readme it state >a copy of the icu license is in license.html or is available at https://ssl.icu-project.org/repos/icu/icu/trunk/license unfortunately that link is broken

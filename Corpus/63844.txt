@@ -1,0 +1,1 @@
+ URL : "https://github.com/claesenm/optunity/issues/92" TITLE : explicit parameter list BODY : is it possible to pass an explicit parameter list? instead of lower & upper bounds, passing a parameter with a finite set of values? for example, my_param only takes 1,5,20. thanks, ben

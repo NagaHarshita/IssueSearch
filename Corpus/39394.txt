@@ -1,0 +1,1 @@
+ URL : "https://github.com/TankTsai/RSCDrxRetry/issues/1" TITLE : send email funcation BODY : email function -> 1. use main.pl 2. get main the log to logback.xml

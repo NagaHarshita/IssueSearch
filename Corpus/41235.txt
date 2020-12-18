@@ -1,0 +1,1 @@
+ URL : "https://github.com/yamujine/artmatch/issues/222" TITLE : 댓글 버그 수정 BODY : - insert 시 append된 코멘트 수정 안되는 오류 - 코멘트 1개일 때 delete 시 오류 메세지 발생 삭제는 정상적으로 됨

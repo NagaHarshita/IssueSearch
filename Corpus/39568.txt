@@ -1,0 +1,1 @@
+ URL : "https://github.com/harvard-lil/website-static/issues/93" TITLE : sitemap not rsyncing BODY : http://lil.law.harvard.edu/sitemap.xml is old compare to contents of a fresh build; they are totally different hmmm.

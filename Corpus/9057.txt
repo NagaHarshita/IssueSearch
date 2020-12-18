@@ -1,0 +1,1 @@
+ URL : "https://github.com/react-community/react-navigation/issues/2065" TITLE : tab bar overlay BODY : dear all, i want to make the top tab bar overlay on other tabs in order to make the take bar auto hide when scrolling currently, the top tab bar is relative. it means the content view will begin from the bottom of tab bar there's any solution?

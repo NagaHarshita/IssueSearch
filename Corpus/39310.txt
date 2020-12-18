@@ -1,0 +1,1 @@
+ URL : "https://github.com/dbader/schedule/issues/142" TITLE : schedule job n times BODY : have anyone achieved success in scheduling job only certain amount of times? i've seen example from docs, 'execute job only once', but if there's any approach if i need to schedule job to run only, for example, 5 times?

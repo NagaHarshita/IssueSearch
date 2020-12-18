@@ -1,0 +1,1 @@
+ URL : "https://github.com/ayekat/dotfiles/issues/11" TITLE : clean up vimrc BODY : currently, the colour scheme is baked into the vimrc itself, rather than defined in a separate file. also, there is quite a lot of stuff in there that should be rearranged, or better just removed.

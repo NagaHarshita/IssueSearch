@@ -1,0 +1,1 @@
+ URL : "https://github.com/nearlg/greenPi/issues/1" TITLE : adapt the installation BODY : adapt the installation to _systemd_. check here https://www.axllent.org/docs/view/nodejs-service-with-systemd/ and here https://nodesource.com/blog/running-your-node-js-app-with-systemd-part-1/ to add the daemon to the system

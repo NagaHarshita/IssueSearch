@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/vscode-docker/issues/102" TITLE : allow custom file names BODY : right now, compose_file_glob_pattern and dockerfile_glob_pattern are hardcoded patterns https://github.com/microsoft/vscode-docker/blob/91a56df16058eaa134855eb2438be4216fa2b74d/dockerextension.ts l29-l30 . we'd need a way to configure those, either by user or by project. thanks!

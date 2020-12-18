@@ -1,0 +1,1 @@
+ URL : "https://github.com/argaen/aiocache/issues/286" TITLE : dockerize tests execution BODY : lets use docker to execute acceptance tests

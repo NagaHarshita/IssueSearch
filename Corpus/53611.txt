@@ -1,0 +1,1 @@
+ URL : "https://github.com/Azure/doAzureParallel/issues/66" TITLE : enable verbose logging BODY : allow users to enable 'verbose=true' in any api request to dump data to the screen

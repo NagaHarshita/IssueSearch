@@ -1,0 +1,1 @@
+ URL : "https://github.com/rabbotio/eyes-cli/issues/6" TITLE : cli add generic ssl test BODY : - provide scan capabilities from https://github.com/drwetter/testssl.sh via docker - export as json - template with html . - add as eyes-cli tool. - ensure html result is deploy to firebase hosting https://eyes-c4e79.firebaseapp.com/ .

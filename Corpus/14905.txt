@@ -1,0 +1,1 @@
+ URL : "https://github.com/worona/worona-wp-plugin/issues/28" TITLE : check php version BODY : the json rest api doesn't work in php <5.2 check php version and inform the user in case of a possible error.

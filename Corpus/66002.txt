@@ -1,0 +1,1 @@
+ URL : "https://github.com/MonsieurWong/3D-Geo-Coursework2/issues/3" TITLE : lots of copy paste code BODY : looks like for every part of the coursework, lots of code for computing the laplacian is just copied over. modifying the code or reuse is complicated by that. i suggest to put the computation of the laplacian into a seperate function.

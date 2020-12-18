@@ -1,0 +1,1 @@
+ URL : "https://github.com/areebbeigh/profanityfilter/issues/3" TITLE : remove a word? BODY : is there any way to remove a word from the list of bad words? for example, in my application that generates memes, i don't want to block damn because it's a key word in several memes.

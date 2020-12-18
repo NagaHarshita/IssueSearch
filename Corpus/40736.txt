@@ -1,0 +1,1 @@
+ URL : "https://github.com/verdaccio/verdaccio/issues/139" TITLE : use tokens for auth? BODY : i need to build an app in a ci pipeline, so the application must be built on the fly without human intervention. is it possible to get and pass a token as a header, or as part of the url? what is the method for ci builds without having a human perform npm login first?

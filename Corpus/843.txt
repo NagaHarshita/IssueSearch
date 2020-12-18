@@ -1,0 +1,1 @@
+ URL : "https://github.com/pingcap/tidb/issues/3685" TITLE : support \n BODY : mysql: mysql> select \n; +------+ | null | +------+ | null | +------+ 1 row in set, 1 warning 0.00 sec tidb: mysql> select \n; error 1105 hy000 : line 0 column 8 near n total length 9

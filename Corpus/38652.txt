@@ -1,0 +1,1 @@
+ URL : "https://github.com/PCMDI/cmip6-publication-site/issues/47" TITLE : projects for authors BODY : add a multi select of projects for authors. a author can have many projects. sort by project will now be based off this publication.author attribute

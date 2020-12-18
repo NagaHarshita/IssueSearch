@@ -1,0 +1,1 @@
+ URL : "https://github.com/xuyuan/pgf-umlsd/issues/31" TITLE : message to self BODY : it will be interesting to add a message to self that actually produces a good arrow placement, like the \call does, but without the return arrow. by the way, is it possible to achieve this with the \call command?

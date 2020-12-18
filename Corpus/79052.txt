@@ -1,0 +1,1 @@
+ URL : "https://github.com/symphonyoss/symphony-java-sample-bots/issues/7" TITLE : rethink design of runbot BODY : currently, runbot uses reflection to start each bot, but this is non-intuitive for newcomers to symphony and the symphony-java-client, and doesn't promote best practices in their own bots reflection being generally considered bad practice in java .

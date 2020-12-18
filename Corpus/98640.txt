@@ -1,0 +1,1 @@
+ URL : "https://github.com/Calysto/metakernel/issues/127" TITLE : jedi seems to have changed BODY : travis is no longer happy, and i think the issue is that jedi has rearranged their code so importing it as we do now fails, resulting in no completions for python, @blink1073 do you see this?

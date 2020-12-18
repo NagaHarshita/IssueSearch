@@ -1,0 +1,1 @@
+ URL : "https://github.com/kayhayen/Nuitka/issues/33" TITLE : switch to scons 3.0? BODY : seems like scons 3.0 is now python 3 compatible: https://bitbucket.org/scons/scons/src/rel_3.0.0/src/changes.txt?at=3.0.0&fileviewer=file-view-default this can simplify the requirements: https://github.com/kayhayen/nuitka requirements

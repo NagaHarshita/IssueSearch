@@ -1,0 +1,1 @@
+ URL : "https://github.com/andreasonny83/online-board/issues/7" TITLE : pwa support part 1/2 BODY : progressivewebapplication support. provide a manifes.json according to the mdn documentation https://developer.mozilla.org/en-us/add-ons/webextensions/manifest.json and google webfundamentals https://developers.google.com/web/updates/2015/12/getting-started-pwa

@@ -1,0 +1,1 @@
+ URL : "https://github.com/aimalz/qp/issues/77" TITLE : qp.pdf.integrate function BODY : the integrator function of the qp.pdf class has been blank for a long time and is necessary for the qq plots for the lsst-desc pz dc1 paper https://github.com/lsstdesc/pzdc1paper/issues/4 . now is the time to implement it!

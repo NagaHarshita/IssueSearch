@@ -1,0 +1,1 @@
+ URL : "https://github.com/AntonioParra/Arpa/issues/2" TITLE : login service + auth check BODY : servicio para hacer login & logout comprobaciones de autorización para todas las urls que no sean estáticas o para hacer login

@@ -1,0 +1,1 @@
+ URL : "https://github.com/IanPhilips/cs329e-collatz/issues/13" TITLE : make collatz_print work BODY : have collatz_print print the cycle length for every number processed in collatz_eval

@@ -1,0 +1,1 @@
+ URL : "https://github.com/sqlmapproject/sqlmap/issues/2710" TITLE : python library usage BODY : hi i have seen there is a python sqlmap library that can be installed with pip is there any documentation around on how to use this library? there is plenty of info about the cli but i have not found anything about the python library thanks

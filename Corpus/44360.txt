@@ -1,0 +1,8 @@
+ URL : "https://github.com/WikiSpaxe/openv/issues/52" TITLE : es hat funktioniert ! BODY : subject: es hat funktioniert ! wiki-page: vcontrold mit synology usb station 2 from: cc2004 <none> date: thu, 19 jan 2012 15:54:49 ut message-id: <49364134-49364134$openv.wikispaces> dem ersteller dieser dokumentation meinen herzlichsten dank ! bei mir hat alles bis zum punkt 10 funktioniert, d.h. ich kann mit telnet und den get-befehlen diverse daten meiner vitotronic 200 h01b auslesen. in der beschreibung hatte ich 3 kleiner probleme:
+1. punkt 7 : das usb-gerät wird nicht angezeigt, nur mein memory-stick. aber es funktioniert trotzdem alles weitere wie beschrieben.
+2. punkt 8: mkdir vcontrol
+cp /volumeusb1/usbshare/heizung/vcontrold-arm /volume1/vcontrol/
+cp /volumeusb1/usbshare/heizung/vclient-arm /volume1/vcontrol/
+cp /volumeusb1/usbshare/heizung/s99vcontrol.sh /usr/syno/etc/rc.d/ habe ich gemacht, aber im script wird ein verzeichnis vitoopen verlangt.
+ich habe also ein verzeichnis vitoopen erstellt und dorthin die dateien kopiert. 3. punkt 10 test der port lautet 3002 und nicht 2003 . ich freue mich dass ich jetzt schon einmal diverse daten aus der ferne auslesen kann und schau mal wie ich es mit der rrdb zurecht komme. viele grüße und vielen dank !
+rainer

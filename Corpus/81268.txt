@@ -1,0 +1,1 @@
+ URL : "https://github.com/rdfhdt/hdt-java/issues/54" TITLE : where are the cli tools? BODY : i've ran mvn install . then... what? where are the compiled binaries? the bin/ directories only have a bunch of .bat and .sh script, but the readme doesn't explain how to use them. i'd really appreciate any help or more info in the readme about how to use the cli tools after compilation.

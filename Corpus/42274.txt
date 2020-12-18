@@ -1,0 +1,1 @@
+ URL : "https://github.com/rogerthat-platform/rogerthat-android-client/issues/200" TITLE : app-wide private keys BODY : make it possible that an app-wide private key is created right after the registration process. the name and algorithm must come from the build constants. every time the user opens the app, he must enter his pin code in order to be able to use his app.

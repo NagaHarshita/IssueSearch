@@ -1,0 +1,1 @@
+ URL : "https://github.com/fade2g/reactnd-project-myreads-starter/issues/7" TITLE : input field on search page BODY : feature: does the search page have a search input that lets users search for books? test: the search page has a search input field. as the user types into the search field, books that match the query are displayed on the page.

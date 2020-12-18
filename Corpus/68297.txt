@@ -1,0 +1,1 @@
+ URL : "https://github.com/lavinrp/GameBackbone/issues/38" TITLE : resize view with window BODY : when the window resizes the view should expand to the new size. this will prevent stretching of items in the window. http://www.sfml-dev.org/tutorials/2.4/graphics-view.php

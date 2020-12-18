@@ -1,0 +1,1 @@
+ URL : "https://github.com/bada55-io/front-end/issues/4" TITLE : github link is broken BODY : the last line in the about box see 3 says: > find bada55.io on github https://github.com/dhoko/bada55 . the link points to https://github.com/dhoko/bada55, but should instead point to https://github.com/bada55-io.

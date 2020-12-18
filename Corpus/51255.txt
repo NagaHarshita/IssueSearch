@@ -1,0 +1,1 @@
+ URL : "https://github.com/jekylltools/jekyll-ideal-image-slider-include/issues/2" TITLE : add whitespace control BODY : add whitespace control to content index when liquid 4 ships hopefully in jekyll 3.5 https://shopify.github.io/liquid/basics/whitespace/ https://github.com/jekyll/jekyll/milestone/53

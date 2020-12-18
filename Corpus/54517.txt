@@ -1,0 +1,1 @@
+ URL : "https://github.com/modularity-modules/shared-userspace/issues/2" TITLE : git can't be installed BODY : debug: problem 1: conflicting requests debug: - nothing provides perl strict needed by git-2.13.0-2.module_1769159c.x86_64 not sure if the package is present in one of the perl's modules.

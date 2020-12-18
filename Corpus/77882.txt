@@ -1,0 +1,1 @@
+ URL : "https://github.com/prebid/prebid-server/issues/250" TITLE : openrtb support: metrics BODY : the /openrtb2/auction endpoints have no go-metrics yet. we'll want to add these before the endpoints get used in any prod scenario, so that we can make sure that similar number & prices of bids are coming back as they do for the /auction endpoint.

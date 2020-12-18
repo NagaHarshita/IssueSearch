@@ -1,0 +1,1 @@
+ URL : "https://github.com/adrianabreu/SIMDE-Simulator/issues/45" TITLE : rewrite interface markup BODY : for avoiding a high complicated styles rewrite, html of the application should be standarized using something like bem or a similar approach.

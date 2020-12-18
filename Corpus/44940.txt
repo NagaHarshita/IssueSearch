@@ -1,0 +1,1 @@
+ URL : "https://github.com/batfish/batfish/issues/638" TITLE : get aws working again BODY : bit rot has set in for aws code. i fixed some parsing issues in 637. now we get npe related to vrfs - make things for the attached rig - write tests so we keep things in shape dummy-repo-aws.zip https://github.com/batfish/batfish/files/1440165/dummy-repo-aws.zip

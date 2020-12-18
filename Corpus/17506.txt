@@ -1,0 +1,1 @@
+ URL : "https://github.com/egordorichev/LastTry/issues/29" TITLE : porting to libgdx BODY : slick2d is no longer in the development. we must move to libgdx. staring to port code on the libgdx branch.

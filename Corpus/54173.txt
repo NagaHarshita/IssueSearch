@@ -1,0 +1,1 @@
+ URL : "https://github.com/popcorn9499/chatBot/issues/7" TITLE : fix commands responses BODY : command responses get relayed to other services. should be a simple fix

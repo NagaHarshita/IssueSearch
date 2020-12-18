@@ -1,0 +1,1 @@
+ URL : "https://github.com/PaddlePaddle/Paddle/issues/3690" TITLE : add flag for a clean build BODY : sometimes build or test may stuck due to old build caches, adding this option may help resolve some weird behaviors.

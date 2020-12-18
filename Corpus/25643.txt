@@ -1,0 +1,10 @@
+ URL : "https://github.com/PennyDreadfulMTG/perf-reports/issues/4701" TITLE : 500 error at /bugs/ BODY : failed to execute select from _cache_card as c where 1 = 1 and 1 = 1 with because of 1146, table 'cards._cache_card' doesn't exist reported on decksite by logged_out
+--------------------------------------------------------------------------------
+request method: get
+path: /bugs/?
+cookies: {'__cfduid': 'd073f84486cb05895e3ac05685e9707851514248970', 'cf_use_ob': '0', 'cf_ob_info': '502:3d355c6fddf01da4:mel'}
+endpoint: bugs
+view args: {}
+person: logged_out
+user-agent: mozilla/5.0 windows nt 10.0; win64; x64; rv:57.0 gecko/20100101 firefox/57.0
+referrer: none

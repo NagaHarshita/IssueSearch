@@ -1,0 +1,1 @@
+ URL : "https://github.com/calvingerling/booktionator/issues/30" TITLE : search book to sell BODY : when the user wants to create a new offer, they must choose the target book for that offer. a search must be made to find the book he wants. if the book does not already exist, the option to create a new one and route it to the creation page should be displayed.

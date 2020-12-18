@@ -1,0 +1,1 @@
+ URL : "https://github.com/Silikonspray/BobTheBotmeister/issues/11" TITLE : change bot settings BODY : an admin should be able to change some bot settings. using setup should automatically start asking the user for the new settings settings the can be changed include: - prefix - name - playing status - locked channels channels, in which all commands are ignored

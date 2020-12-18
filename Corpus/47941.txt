@@ -1,0 +1,1 @@
+ URL : "https://github.com/cloudyr/aws.s3/issues/117" TITLE : read .gz file from s3 BODY : i've used get_object to get a gz file into raw vector. however, when i used memdecompress, it showed internal error. is there any solutions?

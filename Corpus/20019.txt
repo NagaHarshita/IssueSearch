@@ -1,0 +1,1 @@
+ URL : "https://github.com/blockstack/blockstack-portal/issues/477" TITLE : backup core wallet BODY : @jcnelson get http://localhost:6270/v1/wallet/keys returns a json object with private keys among other things. is this object all we need to back up to allow a user to restore their core wallet?

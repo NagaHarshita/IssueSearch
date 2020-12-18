@@ -1,0 +1,1 @@
+ URL : "https://github.com/FoundationMedicineInc/oracle-sage/issues/31" TITLE : rename _directset BODY : we've run into some use cases where we need to actually set a model property before converting it to json. consider removing the _ off it, or creating another method to set directly. cc @jpollard-cs

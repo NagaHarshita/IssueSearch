@@ -1,0 +1,1 @@
+ URL : "https://github.com/Esshahn/spritemate/issues/94" TITLE : refactor list view BODY : only redraw the sprite that is currently changed only redraw all sprites when a sprite is added or deleted handle active sprite outline in update_ui will probably eliminate the need for the update_only_one_sprite method

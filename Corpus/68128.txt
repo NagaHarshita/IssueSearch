@@ -1,0 +1,1 @@
+ URL : "https://github.com/Travix-International/frint-preset-travix/issues/6" TITLE : remove frint-test-utils BODY : frint-test-utils is used mainly internally in the monorepo of the project, and can be removed from this preset. do it when releasing v3.0 of this preset.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/poppa/Roxen-Application-Launcher/issues/8" TITLE : error handling on upload BODY : just had the server return a 401 response when uploading an edited file, but the applauncher didn't seem to care and reported that the upload went fine.

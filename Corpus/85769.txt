@@ -1,0 +1,1 @@
+ URL : "https://github.com/AVilezhaninov/STM32_IAR_ProjectManager/issues/4" TITLE : fix windows path divider. BODY : fix windows path divider for autocomplete.

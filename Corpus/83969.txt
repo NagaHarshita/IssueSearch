@@ -1,0 +1,1 @@
+ URL : "https://github.com/ebarreat/Google-Spreadsheet-JDBC/issues/2" TITLE : connection issue on mssql BODY : hi ebarreat, with the help of your code, i finally made my script working perfectly on mysql server. but it can not connect to mssql server with this url formula. dburl = 'jdbc:sqlserver://' + address + ':1433;databasename=' + querydb;

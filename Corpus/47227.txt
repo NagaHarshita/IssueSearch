@@ -1,0 +1,1 @@
+ URL : "https://github.com/Activisme-be/ACTIE-ontbinding-nato/issues/28" TITLE : omzet naar variablen. BODY : de nederlandse tekst momenteel is statisch geprogrammeerd dit zou moeten omgezet worden naar $lang variablen. ref 18

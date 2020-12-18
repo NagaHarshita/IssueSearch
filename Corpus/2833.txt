@@ -1,0 +1,1 @@
+ URL : "https://github.com/CodeAcademyP204/p204-07-11-2017-elnurah/issues/1" TITLE : evaluation 80 BODY : yaxşıdır, bəzi səhvlər var: - margin-top və margin-left 400px və ya 700-800px vermək düzgün deyil. - container div-dən istifadə etməli idin və width kimi 80% verə bilərdin. - yazılar tapşırıqda olduqları ölçülərdə və rənglərdə deyil.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Arizard/deathrun/issues/130" TITLE : unable to gain speed BODY : i changed the deathrun_autojump_velocity_cap setting to 1000 then tried bhoppinh, didn't gain speed, infact strafing lost speed. sv_airaccelerate is also at 1000, any help is appreciated.

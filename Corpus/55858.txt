@@ -1,0 +1,1 @@
+ URL : "https://github.com/boothj5/profanity/issues/948" TITLE : log filtered chat text BODY : when using a plugin to modify text in a room/chat stripping html from incoming messages it would be nice if the modified text is what is logged in the chatlogs so it matches what the user actually saw. is this already possible in some way? thx!

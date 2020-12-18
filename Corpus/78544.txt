@@ -1,0 +1,1 @@
+ URL : "https://github.com/katherinelitor/GAEuploader/issues/4" TITLE : python 3.x compatibility BODY : i dont understand why this wasnt written in python 3 unless there was some requirement by google. i can try to help by forking and doing a pull request but havent looked at the codebase yet at all.

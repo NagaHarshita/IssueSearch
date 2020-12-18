@@ -1,0 +1,1 @@
+ URL : "https://github.com/scg-unibe-ch/ese2017-team9/issues/15" TITLE : dropdown menu profile BODY : description: the drop down menu of the profile instruction wont go away, when losing focus and clicking on change password . todo: menu disappears when losing focus.

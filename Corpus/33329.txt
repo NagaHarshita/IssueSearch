@@ -1,0 +1,1 @@
+ URL : "https://github.com/data-cleaning/ValidatReport/issues/5" TITLE : add id field to rule BODY : for displaying the rule in user interfaces, it is useful to have a short label for a rule. suggestion: add an id to the rule object.

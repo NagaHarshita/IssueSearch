@@ -1,0 +1,1 @@
+ URL : "https://github.com/Dushistov/rust_swig/issues/22" TITLE : optimize work with jni BODY : 1. hold jnienv produced by attachcurrentthread in thread local storage 2. cache findclass, getfieldid etc in thread local storage or may be in lazy_static ?

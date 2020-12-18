@@ -1,0 +1,1 @@
+ URL : "https://github.com/exercism/typescript/issues/67" TITLE : add a npm pass to ci. BODY : currently we only test with yarn. we should add test for npm just in case they diverge. reference: https://github.com/exercism/typescript/issues/63

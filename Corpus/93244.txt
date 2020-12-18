@@ -1,0 +1,1 @@
+ URL : "https://github.com/aysylu/loom/issues/97" TITLE : add mincost flow algorithm BODY : i'm working on a clj/cljs port of networkx's network simplex implementation https://github.com/networkx/networkx/blob/master/networkx/algorithms/flow/networksimplex.py , which can be cleaned up and added as a pr if wanted as part of loom?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/DrSleep/tensorflow-deeplab-resnet/issues/94" TITLE : resume my training BODY : my training breaks up and i want to resume my training, but find three kind of .ckpt file, .meta file, .index file or the data-00000-of-00001 file.which one should i restore from? i restore the data-00000-of-00001 file, but got data loss error. what should i do?

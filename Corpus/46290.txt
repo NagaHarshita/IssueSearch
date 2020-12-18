@@ -1,0 +1,1 @@
+ URL : "https://github.com/wlwl2/open-file/issues/4" TITLE : mac and linux support BODY : tests for mac and linux support are not yet complete. on the mac the alt-w command works, but files with no default application are not opened/ nothing happens.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/purduesigbots/pros/issues/14" TITLE : improve speaker api BODY : some high level goals of this task are: - create lower level api to control the vex speaker to not limit users to playing rtttl sounds - make vex speaker thread safe

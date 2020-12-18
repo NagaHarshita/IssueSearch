@@ -1,0 +1,1 @@
+ URL : "https://github.com/adsabs/ADSMasterPipeline/issues/22" TITLE : fix metrics nulls BODY : currently nulls are ending up in the external, rds test metrics database table.

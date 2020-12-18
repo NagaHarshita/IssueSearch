@@ -1,0 +1,1 @@
+ URL : "https://github.com/slashmili/alchemist.vim/issues/84" TITLE : remote alchemist server BODY : i run my applications inside docker containers, which means that deps and _build aren't available to vim. is there a way to run this plugin, but ask it to speak to another alchemist server over a socket / port combination? thanks

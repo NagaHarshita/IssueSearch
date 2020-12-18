@@ -1,0 +1,1 @@
+ URL : "https://github.com/aurelia/fetch-client/issues/86" TITLE : csrf tokens in http-fetch BODY : does aurelia have a setting for generating csrf tokens in post requests? my use case in particular is using aurelia to post data back to an aspnet core web api which would verify the header. if there is no current functionality are there any plans to include this?

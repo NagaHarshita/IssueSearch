@@ -1,0 +1,1 @@
+ URL : "https://github.com/CNMAT/libo/issues/16" TITLE : comma missing error BODY : 9/10 times the problem with an expression is a missing comma -- it would be really really really useful to have an error message that tells you where the missing comma should be.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/fedora-modularity/depchase/issues/11" TITLE : also requires smartcols BODY : in the readme, under setup, it should also include python3-smartcols

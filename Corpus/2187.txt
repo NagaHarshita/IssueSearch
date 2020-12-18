@@ -1,0 +1,1 @@
+ URL : "https://github.com/Foundations-of-Applied-Mathematics/Labs/issues/3" TITLE : typo page 13 BODY : in the yellow box towards the bottom of the page, ￼ ￼>>> gym_members.intersection { lytle, josh , henriksen, amelia webb, jared ←􏰀 } should read: >>> gym_members.intersection { lytle, josh , henriksen, amelia , webb, jared ←􏰀 }

@@ -1,0 +1,1 @@
+ URL : "https://github.com/haskell/hackage-server/issues/640" TITLE : broken revisions link BODY : actions: 1. go to http://hackage.haskell.org/package/mtl-2.2.1 2. see that there was 1 revision 3. click on the revision link to go to https://hackage.haskell.org/package/mtl-2.2.1/mtl-2.2.1/revisions/ expected: see information on the revision actual: get a 404

@@ -1,0 +1,1 @@
+ URL : "https://github.com/itshanney/replicant/issues/1" TITLE : create screens concept BODY : screens are tied to a candidate tagged to a job. they allow for an arbitrary number of screens for a candidate with three main types: resume, phone and interview.

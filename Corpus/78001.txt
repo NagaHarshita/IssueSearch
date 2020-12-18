@@ -1,0 +1,1 @@
+ URL : "https://github.com/fiduswriter/biblatex-csl-converter/issues/62" TITLE : pages range missing data BODY : with this reference: @article{brahms_1965, pages = {c3-32--c3-35}} i get c3-35 as the range, but 32 isn't in the resulting parse tree.

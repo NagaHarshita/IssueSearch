@@ -1,0 +1,1 @@
+ URL : "https://github.com/barrycarey/Plex-Data-Collector-For-InfluxDB/issues/6" TITLE : what is request BODY : i cant seem to figure out what the request module is under the requirements. when i start the script i get file plexinfluxdbcollector.py , line 1, in <module> from urllib.request import request, urlopen importerror: no module named request

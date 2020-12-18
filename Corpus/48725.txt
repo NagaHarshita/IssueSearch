@@ -1,0 +1,1 @@
+ URL : "https://github.com/ridhoburger/f1-3-c2p1-colmar-academy/issues/4" TITLE : simplify. body margin BODY : https://github.com/ridhoburger/f1-3-c2p1-colmar-academy/blob/master/submission/index.html l8 body comes with a default margin, that becomes more obvious as your site gets smaller and smaller and messes with desgin, make sure to set the margin to 0.

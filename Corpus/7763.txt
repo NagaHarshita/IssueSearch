@@ -1,0 +1,1 @@
+ URL : "https://github.com/JanusGraph/janusgraph/issues/402" TITLE : instant support BODY : docs reflect that instant is not a supported graph property type http://docs.janusgraph.org/latest/schema.html _property_key_data_type but is a supported index backend type http://docs.janusgraph.org/latest/search-predicates.html mixeddatatypes . this is confusing and should be clarified.

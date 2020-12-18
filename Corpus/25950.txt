@@ -1,0 +1,1 @@
+ URL : "https://github.com/austb/terminal-setup/issues/8" TITLE : add logging support BODY : this install script is becoming more complex, and also performing more dangerous tasks via eval so it's time to add some logging support to make sure i'm not screwing up the whole computer.

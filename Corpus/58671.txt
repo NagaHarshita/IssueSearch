@@ -1,0 +1,1 @@
+ URL : "https://github.com/HECBioSim/GLASTool/issues/4" TITLE : start out with gromacs BODY : the original request was for gromacs however the extensive use of mdtraj makes this simple to extend.

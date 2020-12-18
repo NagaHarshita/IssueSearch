@@ -1,0 +1,1 @@
+ URL : "https://github.com/CareyLabVT/FCR-GLM/issues/4" TITLE : one day glm runs BODY : based on the initial testing of the enkf code it seems that glm produces na in the output when only running for 1 day. we need to confirm and fix if necessary

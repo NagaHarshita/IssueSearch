@@ -1,0 +1,1 @@
+ URL : "https://github.com/cjstehno/ersatz/issues/18" TITLE : publish to maven central BODY : configure project artifacts to be published in maven central repository as well as jcenter.

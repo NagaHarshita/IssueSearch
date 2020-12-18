@@ -1,0 +1,1 @@
+ URL : "https://github.com/freezer333/streaming-worker/issues/6" TITLE : supporting another type BODY : what do you think is the best approach in extending the sdk to support other data types? i'm fairly new to c++ and i'm confused if i'll just tweak the sdk to comply to my needs or just inherit the classes to my own addon like the message class ? thanks.

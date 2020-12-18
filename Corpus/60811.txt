@@ -1,0 +1,1 @@
+ URL : "https://github.com/CONPROSYS/linux-kernel_3.2.0.CONPROSYS/issues/25" TITLE : add ip filter defconfig BODY : add filter ipフィルタを使うのに下記の設定はonにしておいた方がよいとの指摘。 networking support networking options --> network packet filtering framework netfilter --> core netfilter configuration --> 全て

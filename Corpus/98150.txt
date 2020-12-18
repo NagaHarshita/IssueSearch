@@ -1,0 +1,1 @@
+ URL : "https://github.com/mjs/imapclient/issues/237" TITLE : improve pypi search weight BODY : when searching for imap on pypi, imapclient gets ranked lower than it should. figure out why.

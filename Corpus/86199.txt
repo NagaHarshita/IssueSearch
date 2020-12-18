@@ -1,0 +1,1 @@
+ URL : "https://github.com/Neovici/cosmoz-image-viewer/issues/9" TITLE : handle zero images better BODY : if no images are loaded, deactivate buttons etc.

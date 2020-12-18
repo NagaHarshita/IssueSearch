@@ -1,0 +1,1 @@
+ URL : "https://github.com/dart-lang/dartdoc/issues/1423" TITLE : roll dartdoc into the sdk BODY : we should update the version of dartdoc that's used by the sdk. among other things, this generates the hosted api docs for dartlang. looks like cherry-pick season starts wednesday 5/17. /cc @jcollins-g

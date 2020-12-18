@@ -1,0 +1,1 @@
+ URL : "https://github.com/argoproj/argo/issues/577" TITLE : support for gpu resources BODY : for machine learning workflows we would require to schedule jobs/pods on nodes with gpu resources. need support to mention gpu resources in workflow spec.

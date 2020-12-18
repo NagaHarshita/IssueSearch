@@ -1,0 +1,1 @@
+ URL : "https://github.com/CleanCocoa/InfiniteCanvas/issues/3" TITLE : load canvas from svg BODY : ignore and inform! about paths that the app cannot draw. closed paths, for example. or text.

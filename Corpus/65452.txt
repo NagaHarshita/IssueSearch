@@ -1,0 +1,1 @@
+ URL : "https://github.com/kettari/telegram-bundle/issues/12" TITLE : introduce /push command BODY : to send news and updates to bot users implement command /push. 1. ask the user which notification channel to use. 1. ask notification text. 1. allow to attach one url button to the message. 1. show preview, ask for confirmation 1. push the message.

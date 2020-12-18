@@ -1,0 +1,1 @@
+ URL : "https://github.com/Helias/AgentSim-Portal/issues/5" TITLE : backend improve routes BODY : - improve token handling upload - improve /register route, check if exists email and/or username. - make email_verify and nick_verify routes - make modify route

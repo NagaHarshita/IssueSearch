@@ -1,0 +1,1 @@
+ URL : "https://github.com/nexB/scancode-server/issues/11" TITLE : build the scan code api BODY : using scancode as a library in a web build a rest api that allows you to scan code on demand by entering a url and then store the scan results.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/qixianchuan/daily-log/issues/175" TITLE : 2017 09 15 BODY : puer组件有时候会不自动刷新了 解决方法： 先卸载： cnpm uninstall puer -g 然后再安装： cnpm install puer -g

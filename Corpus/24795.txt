@@ -1,0 +1,1 @@
+ URL : "https://github.com/Togn3K/kickbot.py/issues/4" TITLE : todo. stats system BODY : create a stats system that save in a save file all forbidden words discovered and numbers of times that someones uses one of them, command /stats that print in chat all saved data.

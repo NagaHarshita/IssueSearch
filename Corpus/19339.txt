@@ -1,0 +1,1 @@
+ URL : "https://github.com/CTFd/CTFd/issues/436" TITLE : about mail bombing BODY : there may be duplicate requests regarding the issue of password reset email, which will result in a mail bomb.thanks for your word.

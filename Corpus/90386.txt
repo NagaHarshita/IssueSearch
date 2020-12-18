@@ -1,0 +1,1 @@
+ URL : "https://github.com/language-learners/phpbb/issues/19" TITLE : set up https certificates BODY : i'd like to do this using some sort of auto-renewal system, either letsencrypt or the new aws certificate management system.

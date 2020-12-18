@@ -1,0 +1,1 @@
+ URL : "https://github.com/brianwp3000/impl_ops/issues/2" TITLE : impl index and indexmut BODY : i attempted this and was destroyed by lifetimes and the borrow checker--this might even be impossible with my current design.

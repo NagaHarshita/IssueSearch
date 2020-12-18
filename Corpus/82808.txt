@@ -1,0 +1,1 @@
+ URL : "https://github.com/cordova-plugin-camera-preview/cordova-plugin-camera-preview-sample-app/issues/17" TITLE : attach the preview in dom BODY : hello, is there a way to attach the preview at a dom element ? i want to use a bootstrap column and put the preview in it but i don't know how to do that thanks

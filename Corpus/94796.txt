@@ -1,0 +1,1 @@
+ URL : "https://github.com/pylover/restfulpy/issues/81" TITLE : cli serve does not working BODY : bash projname serve application object has no attribute root

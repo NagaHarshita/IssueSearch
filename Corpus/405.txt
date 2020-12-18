@@ -1,0 +1,1 @@
+ URL : "https://github.com/rust-unofficial/awesome-rust/issues/348" TITLE : add zap BODY : zap is a lightning fast web framework that is up to 2.8times faster than iron which is based on hyper. currently the 0.0.1 release had been done, and there will come a lot of future add-ons and optimizations to reach the 3times faster mark. url: https://github.com/oldaniel/zap

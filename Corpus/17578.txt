@@ -1,0 +1,1 @@
+ URL : "https://github.com/algernon/emacs.d/issues/10" TITLE : pull in eshell-up BODY : eshell-up https://github.com/peterwvj/eshell-up sounds like a convenient way to navigate around in eshell, especially when working with kaleidoscope's arduino-boards repo.

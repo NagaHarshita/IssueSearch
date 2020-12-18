@@ -1,0 +1,1 @@
+ URL : "https://github.com/pmem/pmemfile/issues/186" TITLE : preload: signal safety BODY : currently libpmemfile.so is not signal safe.

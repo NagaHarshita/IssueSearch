@@ -1,0 +1,1 @@
+ URL : "https://github.com/ryancramerdesign/AdminThemeUikit/issues/25" TITLE : red <em> style ? BODY : just wondering if this is intentional? em { color: f0506e; } it seems out of place to me. my dynamic description / notes module allows for html in descriptions along with pw field values and hanna code output , and now i am getting italic text showing up in that red/pink color.

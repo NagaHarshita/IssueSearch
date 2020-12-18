@@ -1,0 +1,1 @@
+ URL : "https://github.com/dethertech/dether.js/issues/24" TITLE : webpack import failing BODY : // failing import detherjs from 'detherjs/src/detherjs.js' import detheruser from 'detherjs/src/detheruser.js' // working import detherjs from 'detherjs'

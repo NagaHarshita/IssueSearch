@@ -1,0 +1,1 @@
+ URL : "https://github.com/perl6/doc/issues/1384" TITLE : fix travis timeout BODY : docs build sometimes takes so long travis times out. imo: the solution that involves the least work is to use rakudo binaries rather than building rakudo before building to docs.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/TheCBProject/ChickenChunks/issues/17" TITLE : problem with dependency BODY : chickenchunks is depends on codechickencore, but that is now integrated in codechickenlib and so not compatible anymore with current codechickenlib. any workaround? regards, drarcon.

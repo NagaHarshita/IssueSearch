@@ -1,0 +1,1 @@
+ URL : "https://github.com/xuset/planktos/issues/45" TITLE : cleanup stale snapshots BODY : snapshots should automatically be cleanup when they are stale or the cleanup functionality should be exposed in the api.

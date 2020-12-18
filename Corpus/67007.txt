@@ -1,0 +1,1 @@
+ URL : "https://github.com/rene00/penny/issues/4" TITLE : ofx imports are failing BODY : when trying to import latest bank ofx files, penny fails to import the file. bug has something to do with ofxparser.parse is failing to parse soup.prettify in is_ofx https://github.com/rene00/penny/blob/master/app/common/filetypes/__init__.py l53-l68 .

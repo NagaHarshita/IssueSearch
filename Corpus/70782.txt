@@ -1,0 +1,1 @@
+ URL : "https://github.com/pantsbuild/pex/issues/422" TITLE : zip64 extension for pex BODY : we have a pex need to include a bunch of files - and the number of files is exceeded 64k typical zip limit is it possible to get pex use zip64 extension?

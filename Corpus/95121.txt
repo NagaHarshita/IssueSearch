@@ -1,0 +1,1 @@
+ URL : "https://github.com/stuporglue/ssmap/issues/1" TITLE : could it be used remotely? BODY : hello, could it be possible to use it remotely, say doing something like this: <script src='http://from.remote.si.te/js/ssmap.js?div=floatydiv&amp;lat=-90&amp;lon=45'></script> overcoming cross site limitations? it would be very useful.

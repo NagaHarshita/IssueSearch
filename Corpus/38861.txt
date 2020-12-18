@@ -1,0 +1,1 @@
+ URL : "https://github.com/hdinsight/spark-eventhubs/issues/102" TITLE : receiver leaking bug BODY : https://github.com/hdinsight/spark-eventhubs/blob/master/core/src/main/scala/org/apache/spark/eventhubscommon/rdd/eventhubsrdd.scala l125 should be in finally block

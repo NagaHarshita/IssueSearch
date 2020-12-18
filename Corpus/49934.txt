@@ -1,0 +1,1 @@
+ URL : "https://github.com/dominikdosoudil/vue-timeliner/issues/1" TITLE : use em instead of rem BODY : since em is acquired from font-size element, it should be just fine to use it as responsive value. if someone wants to resize timeliner, nothing else than changing font-size of root element must be done. only it will be very important to keep the font-size same in the plugin.

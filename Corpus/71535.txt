@@ -1,0 +1,1 @@
+ URL : "https://github.com/blubin/JOpt/issues/9" TITLE : add package for modeling BODY : most major uses of jopt have built up a modeling package on top of the library to handle things like piecewise linear functions. we should promote this code up to jopt and include a standard set of useful modeling tools.

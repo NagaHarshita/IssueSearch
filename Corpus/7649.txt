@@ -1,0 +1,1 @@
+ URL : "https://github.com/FengyangZhang/caffe_roomnet/issues/2" TITLE : how to train？ BODY : @fengyangzhang thanks for your released code. i want to train a model for keypoints prediction, but i can't get the type of input data. will you offer the code for preparing data? or just release the type of 'train.txt' as in the train.prototxt?

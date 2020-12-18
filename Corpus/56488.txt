@@ -1,0 +1,1 @@
+ URL : "https://github.com/acquia-pso/cog/issues/103" TITLE : new cog stable release BODY : can we please get a new release? right now fresh installs of the latest stable version of cog throw linting errors, and all of the gulp tasks have to be manually updated to the latest dev version to fix them. it would be nice to be able to use a stable release that contains these fixes.

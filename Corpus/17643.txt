@@ -1,0 +1,1 @@
+ URL : "https://github.com/erizistable/prj-rev-bwfs-dasmoto/issues/3" TITLE : quote used in css BODY : color:white; <--- had a quote after this. this can break the css, please be wary of this.

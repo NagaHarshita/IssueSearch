@@ -1,0 +1,1 @@
+ URL : "https://github.com/bezlio/bezlio-recipes/issues/8" TITLE : sales by product group BODY : create a pie chart showing the sales by product group as represented as percentages. this project should first be written targeting excel with odbc and committed to 'master'. the it shoud be ported to epicor10, epicor905, and visual70.

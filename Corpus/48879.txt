@@ -1,0 +1,1 @@
+ URL : "https://github.com/cockroachdb/cockroach/issues/15005" TITLE : sql: support set role BODY : add support for the set role command and variants from postgresql. this command sets or resets the user for the current session. at least one client, flywaydb, requires support for this setting.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/akvo/akvo-flow-mobile/issues/789" TITLE : update sentry android sdk BODY : the sentry for android sdk has been updated and modified. we should update and make sure our code works with the newest version: https://docs.sentry.io/clients/java/modules/android/

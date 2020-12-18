@@ -1,0 +1,1 @@
+ URL : "https://github.com/jverzani/Mustache.jl/issues/45" TITLE : tag a release? BODY : could you tag a new release? julia 0.6 is in beta and it would be nice to get rid of deprecation warnings.

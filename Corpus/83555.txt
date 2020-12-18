@@ -1,0 +1,1 @@
+ URL : "https://github.com/frictionlessdata/dpm-py/issues/95" TITLE : change binary name to dpm BODY : it a pain to type dpmpy compared to dpm. i think it is also rare people have both node dpm and python dpm installed.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/astropy/ci-helpers/issues/188" TITLE : create custom skip tags BODY : e.g skip travis or docs only , etc. related issue astropy/astropy 3933

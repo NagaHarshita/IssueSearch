@@ -1,0 +1,1 @@
+ URL : "https://github.com/PaulSchrum/RM21SourceCore/issues/1" TITLE : fix the build BODY : at the moment, the project does not build. it may be required to go back to an earlier state that is known to build, or it may be better to work through the problem and move forward. this choice must be assessed as part of the fix.

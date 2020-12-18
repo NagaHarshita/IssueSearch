@@ -1,0 +1,1 @@
+ URL : "https://github.com/imbhargav5/react-universal-starter/issues/45" TITLE : npm run build:client BODY : what is this build script for? when i run it and go to localhost:8080 i get 'cannot get /' i assume this is supposed to run the client side only using webpack dev server without express based server side rending ? what is the expected behaviour?

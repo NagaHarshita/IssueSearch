@@ -1,0 +1,1 @@
+ URL : "https://github.com/newfishdev/indrukwekkend/issues/24" TITLE : fix brand logo BODY : case: on deploy, the theme searches for indrukwekkend.svg while the file name is indrukwekkend.svg . its case sensitive. fix: rename the file.

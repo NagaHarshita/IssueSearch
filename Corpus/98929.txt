@@ -1,0 +1,1 @@
+ URL : "https://github.com/sazaamout/volsd/issues/8" TITLE : loading the configurations BODY : it would be nice to load the configuration using map. this way, we dont need to make a struct that have all of the keys. with map, we can load all key and values to it, and search for the key when needed.

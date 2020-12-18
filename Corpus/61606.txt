@@ -1,0 +1,1 @@
+ URL : "https://github.com/BioroboticsLab/biotracker_core/issues/139" TITLE : better arena definition BODY : currently an arena is defined by a square or an ellipse. a polygon would be nice. this enables tracking in a t-maze, for instance, while having background noise.

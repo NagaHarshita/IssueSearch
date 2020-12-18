@@ -1,0 +1,1 @@
+ URL : "https://github.com/trailofbits/mcsema/issues/104" TITLE : fpu rounding control BODY : right now the fpu rounding control is not emulated. a correct emulation would be to use the functions from fenv.h to get/set the machine's rounding mode. this was approximately the approach that i took in remill. it was important for php to be able to print out floating point numbers.

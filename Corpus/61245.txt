@@ -1,0 +1,1 @@
+ URL : "https://github.com/ideascube/ideascube/issues/787" TITLE : allow uploading a media BODY : when writing a blog post, we can currently only insert a media by copy-pasting its url into the minislate/tinymce dialog. should we also be able to have an upload button, which would upload the media to the mediacenter, and then add it to the blog article?

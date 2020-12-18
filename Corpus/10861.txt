@@ -1,0 +1,1 @@
+ URL : "https://github.com/shadowmage45/SSTULabs/issues/457" TITLE : dos solar panels BODY : solar panels on dos modules will autoextend when you select a different version. the ui text will not update the status, and the panels will no longer respond to the ui command to open/close the panels.

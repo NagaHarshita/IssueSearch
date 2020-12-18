@@ -1,0 +1,1 @@
+ URL : "https://github.com/BBasile/Coedit/issues/191" TITLE : reset layout option BODY : sometime docking works very strange - it may lose windows, etc and then is not possible to see the lost window . and even if i saved default layout and then load it, it may work wrong. add default option which will reset the layout into default state, please.

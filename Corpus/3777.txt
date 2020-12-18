@@ -1,0 +1,1 @@
+ URL : "https://github.com/cgelon/master-notifications/issues/24" TITLE : update to es6 BODY : babel-plugin-uglify might be needed to upgrade to es6 due to webpack compilation issues .

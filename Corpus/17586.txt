@@ -1,0 +1,1 @@
+ URL : "https://github.com/bpampuch/pdfmake/issues/1227" TITLE : push to next page BODY : it would be great to have a feature that pushes a group of content to a new page if the entire group doesn't fit on the current page. for example, if i have a little paragraph of text and a table of data that goes with it, i'd like it to all stay together on the same page.

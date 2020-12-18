@@ -1,0 +1,1 @@
+ URL : "https://github.com/Sometrik/graphlib/issues/31" TITLE : add metadata to columns BODY : most important metadata is label, which means that the column is used for label. other is indexed.

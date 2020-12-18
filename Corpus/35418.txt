@@ -1,0 +1,1 @@
+ URL : "https://github.com/duniter/sakia/issues/715" TITLE : duplicate oneself tx BODY : when a compress source tx is send to oneself for send big amout after , the tx is duplicate in transfers view : ! sakia-issue-53 https://user-images.githubusercontent.com/22670546/27110871-8f651efc-50ac-11e7-9c6c-42c9a5384f5c.png

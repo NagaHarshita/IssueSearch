@@ -1,0 +1,1 @@
+ URL : "https://github.com/pishen/sbt-emr-spark/issues/11" TITLE : local and emr BODY : is it possible to have both a local spark version and an emr version in the same sbt file?

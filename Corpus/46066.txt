@@ -1,0 +1,1 @@
+ URL : "https://github.com/jfbercher/jupyter_latex_envs/issues/19" TITLE : latex_envs menu blank BODY : hi, thank you for developing this extension. it is pretty useful. however, the latex_envs menu show blank. i am using: jupyter 4.3.1 with python 3.60 and ipython 5.1.0. other things works like citation and auto completion except for the env menu and shortcut key.

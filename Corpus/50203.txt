@@ -1,0 +1,1 @@
+ URL : "https://github.com/kek91/ShowFileProperties/issues/3" TITLE : what metadata to show BODY : currently showing - last viewed date - last modified date - size other possibilities - file type symbolic link, binary, etc - file extension map array of 20-30 most used extensions? - user owner / group owner - permissions

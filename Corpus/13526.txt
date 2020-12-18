@@ -1,0 +1,8 @@
+ URL : "https://github.com/NSI-IT/AUG-DDMOBILE/issues/66" TITLE : user action logs BODY : as a user i would like to view audit logs to find out what actions have been taken in certain projects. - verify that information available includes what project changes have been made, when they were done, and who did them. - verify that logs will be maintained by following:- 1. date and time of action
+2. user name
+3. user's email id
+4. user's company
+5. user's project
+6. description of action some of the examples are attached from existing web view. - verify that records can be filtered by full name and email address.
+- verify that date filters can be applied to narrow down results from/to date will be selected .
+- verify that listing can be refreshed.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/seunggabi/excel-merge-tool/issues/14" TITLE : 실행이 되지 않음 BODY : 1. git clone 2. npm install 3. npm start 4. xlsx 모듈을 찾을 수 없음 5. npm install xlsx 6. npm start 7. files 디렉토리를 찾을 수 없음 -> ??

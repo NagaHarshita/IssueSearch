@@ -1,0 +1,1 @@
+ URL : "https://github.com/Mr-Berry/2D_Unity_Project/issues/5" TITLE : ability block prefab BODY : - needs to be interactable button - needs to store a type - needs to display an image based on type - onclick needs to do something depending on type

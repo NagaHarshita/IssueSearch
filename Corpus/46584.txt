@@ -1,0 +1,1 @@
+ URL : "https://github.com/mattlawiscool/f1-3-c2p1-colmar-academy/issues/2" TITLE : minor error. amp code BODY : https://github.com/mattlawiscool/f1-3-c2p1-colmar-academy/blob/master/colmaracademy/index.html l76 & is a special character in html, check here. http://rabbit.eng.miami.edu/info/htmlchars.html

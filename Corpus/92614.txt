@@ -1,0 +1,1 @@
+ URL : "https://github.com/itchio/itch-compatibility-watchlist/issues/521" TITLE : 🐧 luanoise ↔ v22.2.0 BODY : :rotating_light: tool luanoise https://trebuchette.itch.io/luanoise is broken for me. :book: here's the complete debug log https://gist.github.com/3bfe605613530dc547323f14a64aac54 . :running: any additional details can go here!

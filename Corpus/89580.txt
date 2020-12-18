@@ -1,0 +1,1 @@
+ URL : "https://github.com/kgish/assembla-to-jira-migration/issues/15" TITLE : rank ticket in bulk cloud BODY : rank tickets cloud in batches of fifty instead of individually, current each one is being done per request whereas the jira api supported doing this in bulk.

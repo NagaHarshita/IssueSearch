@@ -1,0 +1,1 @@
+ URL : "https://github.com/CenterForDigitalHumanities/TPEN28/issues/361" TITLE : no timeout for logins BODY : i can login, leave the browser up, walk away for days, come back and still be logged in. there should probably be a timeout.

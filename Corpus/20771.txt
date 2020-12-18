@@ -1,0 +1,1 @@
+ URL : "https://github.com/cloudfoundry/diego-release/issues/329" TITLE : cret scripts issue BODY : ./scripts/gen -.. certstrap version 1.0.1 missing code： certstrap --depot-path ./diego-certs init --passphrase '' --common-name xxxxx

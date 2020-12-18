@@ -1,0 +1,1 @@
+ URL : "https://github.com/jaegertracing/jaeger-kubernetes/issues/36" TITLE : job or cronjob BODY : create a job or cronjob for https://github.com/jaegertracing/spark-dependencies.

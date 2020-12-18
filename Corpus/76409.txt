@@ -1,0 +1,1 @@
+ URL : "https://github.com/AArnott/CodeGeneration.Roslyn/issues/19" TITLE : jit impact on build perf BODY : we jit roslyn, mef, and other assemblies repeatedly during a long build e.g. the pinvoke project . are we hosting the appdomain in such a way that the clr won't load ngen images?

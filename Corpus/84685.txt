@@ -1,0 +1,1 @@
+ URL : "https://github.com/dasariramacharan/100-days-of-code/issues/1" TITLE : direct url's doesn't work BODY : actual e.g http://localhost:49410/index.html/projects does not work but application loads this as default page and url. error is 404 expected: direct url's should work

@@ -1,0 +1,1 @@
+ URL : "https://github.com/NYPL-Simplified/Simplified-iOS/issues/551" TITLE : annotation / sync updates BODY : - make headers part of every network call add to devicemanager and analytics - hook up sync switch in account settings - updates to annotations json payload

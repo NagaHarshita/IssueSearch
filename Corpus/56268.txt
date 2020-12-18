@@ -1,0 +1,1 @@
+ URL : "https://github.com/Szpanerowski/car-racing-opengl/issues/7" TITLE : model fizyczny pojazdu BODY : zrobić model fizyczny pojazdu, by mógł przyjmować wektor działającej na niego siły np. z modelu sterowania klawiaturą i odpowiednio na niego reagować.

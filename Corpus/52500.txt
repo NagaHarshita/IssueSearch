@@ -1,0 +1,1 @@
+ URL : "https://github.com/1217950746/Arthas-WPFUI/issues/2" TITLE : command option support BODY : hi please add command binding option to this controls for example in wpf default button wa have: <button command= {binding logincommand} content= button </button> but in arthas controls none of them have this feature.

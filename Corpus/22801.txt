@@ -1,0 +1,26 @@
+ URL : "https://github.com/cldi/CanLink/issues/50" TITLE : missing degree url BODY : the uri for thèse could not be found to fix, comment below in the following format: msc http://purl.org/ontology/bibo/degrees/ms record:
+=ldr 01156cam a2200325 4500
+=001 001763595
+=003 caqmu
+=005 20111211222513.0
+=008 780418s1977\\\\quc\\\\\\bm\\\\\\\\\fre\c
+=035 \\$a ocolc 53504527
+=035 9\$acaqmub10803663
+=035 \\$a14545340
+=039 0\$a1/dh/0478
+=039 \\$a10517648
+=040 \\$acaqmu$bfre$ccaqmu
+=090 0\$apq/35/u54/1977/v.008$bts
+=090 0\$apq/35/u54/1977/v.008$bss$c2
+=100 1\$anepveu, pierre,$d1946-
+=245 10$apoésie et silence :$blecture de fernand ouellette, gaston miron et paul-marie lapointe /$cpar pierre nepveu.
+=260 0\$a montréal :$buniversité de montréal,$c1977.
+=300 \\$aiv, 315 f.
+=502 \\$athèse -- université de montréal.
+=503 \\$a thèse présentée à la faculté des études supérieures en vue de l'obtention du philosophiae doctor études françaises . =504 \\$abibliographie: ff. 310-315.
+=600 16$aouellette, fernand,$d1930-
+=600 16$amiron, gaston,$d1928-1996,
+=600 10$alapointe, paul-marie,$d1929-
+=650 \6$apoésie québécoise$y20e siècle.
+=730 0\$athèse. études françaises.
+=793 \\$atheseudem record file: bd74370ca45ec8ead21c448f334b6e90.mrc

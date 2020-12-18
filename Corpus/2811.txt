@@ -1,0 +1,1 @@
+ URL : "https://github.com/funkydude/BadBoy_Ignore/issues/3" TITLE : error on load BODY : the following error is captured on login or refresh: badboy_ignore\badboy_ignore-v7.3.0.lua:24: usage: bngetgameaccountinfobyguid guid

@@ -1,0 +1,1 @@
+ URL : "https://github.com/CIFASIS/qss-solver-mmoc/issues/12" TITLE : add ranges structure. BODY : add a ranges structure to handler begin and end vectors generic operations. 1. setrange 2. controlrange

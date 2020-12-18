@@ -1,0 +1,1 @@
+ URL : "https://github.com/henson/ProxyPool/issues/4" TITLE : proxy plugin model BODY : 对每个代理，应该定义一个interface，然后提供一个注册函数。这样只要别人实现了插件并进行注册，然后重新编译一下代码，就可以使用新的代理。这样方式，不用修改原包的代码，只需要添加一个导入语句即可，如： go import _ github.com/someone/proxy-pool-plugin

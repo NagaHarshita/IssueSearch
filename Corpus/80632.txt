@@ -1,0 +1,1 @@
+ URL : "https://github.com/evolaemp/online_cognacy_ident/issues/1" TITLE : unify string translation BODY : we should unify string translation into integers. currently it happens way to often. should be unified in data class

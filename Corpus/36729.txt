@@ -1,0 +1,1 @@
+ URL : "https://github.com/we-sh/42ShellTester/issues/20" TITLE : implement a time-out BODY : add test that can infinitively loop like: base64 /dev/urandom | head -c 1000

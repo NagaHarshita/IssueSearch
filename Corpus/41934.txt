@@ -1,0 +1,1 @@
+ URL : "https://github.com/ismailof/mopidy-podcast-ivoox/issues/1" TITLE : add search capability BODY : implement podcast search accesible by the backend - implement ivoox api search - access the search from the backend

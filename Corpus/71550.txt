@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/vcpkg/issues/1211" TITLE : add port for directxmath BODY : i'll try and create a pull request myself, but i don't know the process yet. i'm thinking this is an easy library someone else can create quicker then me.

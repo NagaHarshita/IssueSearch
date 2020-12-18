@@ -1,0 +1,1 @@
+ URL : "https://github.com/quantumgraph/ios-sdk/issues/1" TITLE : crash for <ios 9 builds BODY : experiencg crash for ios-sdk with <ios9 users. fatal exception: nsinvalidargumentexception - uitraitcollection forcetouchcapability : unrecognized selector sent to instance 0x170e6c4c0 - qgsdk appdidbecomeactive:

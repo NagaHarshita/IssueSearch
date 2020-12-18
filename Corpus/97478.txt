@@ -1,0 +1,1 @@
+ URL : "https://github.com/JeremyEnglert/JointsWP-Documentation/issues/2" TITLE : gulp.md update folder name BODY : in the gulp page you have in the compiling sass 'assets/sass' where it should be 'assets/scss' ?

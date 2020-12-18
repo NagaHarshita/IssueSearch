@@ -1,0 +1,1 @@
+ URL : "https://github.com/tomav/docker-mailserver/issues/488" TITLE : typo in readme BODY : hi, there is a typo in the readme. override_hostnae <-> override_hostname

@@ -1,0 +1,1 @@
+ URL : "https://github.com/chmorgan/sharppcap/issues/23" TITLE : wpcap dll not found BODY : i tried the examples at first on windows after installing winpcap and it worked fine. after that i installed libpcap-dev on my raspberrypi3 and it didnt work. it throws in libpcaplivedevicelist.cs a dllnotfoundexception for wpcap. any reasons for that?

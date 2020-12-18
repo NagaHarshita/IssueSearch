@@ -1,0 +1,1 @@
+ URL : "https://github.com/UserApplePie/UserApplePie-v4/issues/52" TITLE : user activation links BODY : apparently they aren't working. i did see that a friend of mine received the activation link as: https://domain.tld/activate/user/<username>/key/<activation_key> is this the correct layout even? can't really find the backend code which checks this.

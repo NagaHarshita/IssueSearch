@@ -1,0 +1,1 @@
+ URL : "https://github.com/cmbi/mrs/issues/66" TITLE : mrs core dumps BODY : the docker container, that runs mrs, doesn't generate core dumps. we need it to do so, in order to trace bugs.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/IQSS/dataverse/issues/4360" TITLE : version: update to v4.8.4 BODY : update project version to v4.8.4 in preparation for release. see: http://guides.dataverse.org/en/4.8.3/developers/making-releases.html?highlight=bump%20version

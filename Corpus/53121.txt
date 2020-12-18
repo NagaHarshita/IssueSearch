@@ -1,0 +1,1 @@
+ URL : "https://github.com/maikebing/GitLab.VisualStudio/issues/13" TITLE : default storage folder BODY : hi, modify default repo folder on visual studio. then try to duplicate or create new repo, default folder is always c:\users\mylogin\source\... new folder never used. regards,

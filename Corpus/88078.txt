@@ -1,0 +1,1 @@
+ URL : "https://github.com/peterxeno/ImbalancedBagR/issues/1" TITLE : mlp networks not training BODY : task 1 failed - 'x' has to be numeric, after a conversion to matrix ... must change input types later

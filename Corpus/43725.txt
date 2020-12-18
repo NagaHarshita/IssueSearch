@@ -1,0 +1,1 @@
+ URL : "https://github.com/w3c/payment-handler/issues/178" TITLE : default handler icon? BODY : i don't see a place in the spec defined for how one finds the default icon for a given handler. i suspect that strong brands will want their primary icon + name displayed. did i miss something?

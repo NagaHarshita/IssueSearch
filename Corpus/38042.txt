@@ -1,0 +1,1 @@
+ URL : "https://github.com/FilipDominec/python-meep-install/issues/5" TITLE : no module named meep BODY : hi after running the install command and trying to run the waveguide sample python throws an error saying no module named meep . python finds the meep_mpi module but can't find the meep module. any reason for this? thanks best yanni

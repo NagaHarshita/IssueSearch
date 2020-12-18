@@ -1,0 +1,1 @@
+ URL : "https://github.com/vjdorazio/TwoRavens/issues/33" TITLE : grpc service basic BODY : - call between django and grpc - ui initiated call json -> grpc - response potentially back to ui grpc resp -> json -> ui - integrate/spin-up with docker compose

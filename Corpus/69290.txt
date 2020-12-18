@@ -1,0 +1,1 @@
+ URL : "https://github.com/bmcfee/pumpp/issues/62" TITLE : support in-memory input BODY : currently, the core transform function and its object-wrapped version, pump.transform operate on on-disk files. sometimes you want to just process things in-memory though. this may take some refactoring and/or api changes.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mike-north/ember-oembed/issues/49" TITLE : error while getting videos BODY : i'm getting error: invalid url null?url=https://vimeo.com/.... randomly. also, is there a way to provide width/height per oembed element?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/DobyTang/LazyLibrarian/issues/999" TITLE : direct download providers BODY : version : a7136fdf9e16406be213d602a4177e25d0748205 os: linux interface : bookstrap api: goodreads, source: git think when downloading from 'libgen.io' it should stick to just the file types in the 'desired ebook file formats'. they post individual files there in most cases.

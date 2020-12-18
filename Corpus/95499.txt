@@ -1,0 +1,1 @@
+ URL : "https://github.com/soygul/crowner/issues/251" TITLE : db upgrades & schema check BODY : - db upgrade script. - db schema validator upon game start so we won't have to rely on window.onerror to catch errors related to db upgrades or corrupt data.

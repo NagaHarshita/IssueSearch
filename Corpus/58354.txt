@@ -1,0 +1,1 @@
+ URL : "https://github.com/waterfoul/grace-shopper/issues/2" TITLE : setup linter/travis ci BODY : setup eslint, also setup travis ci to run it

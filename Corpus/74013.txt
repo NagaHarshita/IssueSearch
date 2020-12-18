@@ -1,0 +1,1 @@
+ URL : "https://github.com/NetApp/netappdvp/issues/103" TITLE : document build procedure BODY : i'm having problems building from source and i'd like to build from source because the dockerized version is more complicated to troubleshoot . can the procedure be documented?

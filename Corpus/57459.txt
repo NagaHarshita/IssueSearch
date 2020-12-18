@@ -1,0 +1,1 @@
+ URL : "https://github.com/armaanaki/TwitterSMACKTest/issues/2" TITLE : push data to cassandra BODY : after retrieving data from a kafka broker, the spark application should be able to save it to cassandra. this may be tested by entering the database and retrieving the rows from the designated table.

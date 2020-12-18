@@ -1,0 +1,1 @@
+ URL : "https://github.com/biblia-arabica/zotero2bibl/issues/7" TITLE : bug in relations output BODY : dcterms:reference should be dcterms:references for manuscripts.

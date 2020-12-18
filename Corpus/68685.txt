@@ -1,0 +1,1 @@
+ URL : "https://github.com/jamesagnew/hapi-fhir/issues/738" TITLE : server side gzip answer BODY : hey, i get performances bottleneck when sharing the json between. i have not found any documented way to gzip the json/xml to the client. i only found a way for the client to gzip it's data passed to server thanks

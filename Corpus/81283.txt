@@ -1,0 +1,1 @@
+ URL : "https://github.com/itinance/react-native-fs/issues/332" TITLE : where to write files too BODY : i'm creating a .csv file from data in my app. where is the recommended place to store the file and retrieve it? i need to upload the file as an attachment for an email. the email api is from react-native nativemodules.

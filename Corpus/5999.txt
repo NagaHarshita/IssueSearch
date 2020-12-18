@@ -1,0 +1,1 @@
+ URL : "https://github.com/iOS-Connect/HackathonFeb2017/issues/41" TITLE : update openurl BODY : uiapplication.openurl _: is deprecated in ios 10. let's remove it from our app. the warning recommends that we change to: please use openurl:options:completionhandler: instead this should be fine for our purposes.

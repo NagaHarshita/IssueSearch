@@ -1,0 +1,1 @@
+ URL : "https://github.com/otiai10/chant/issues/256" TITLE : js api client BODY : responsibilities - log api request/response when node_env == 'development' - prompt users to reload if cookies are expired or new deployments are available

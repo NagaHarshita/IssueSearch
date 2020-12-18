@@ -1,0 +1,1 @@
+ URL : "https://github.com/byuitechops/planet-simulator/issues/85" TITLE : animations out of sync BODY : when there is more than one spotlight, the other animations fail to animate past their first stage.

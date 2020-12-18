@@ -1,0 +1,1 @@
+ URL : "https://github.com/NSI-IT/BPM-SITEWORK/issues/28" TITLE : search promo code BODY : as an administrator user, i can search for a promo code so i don't have to go through all the promo codes in order to find a particular promo code acceptance tests verify that admin user is able to search for a promo code by title and code

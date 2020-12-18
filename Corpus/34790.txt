@@ -1,0 +1,1 @@
+ URL : "https://github.com/Samuel-Harbord/Spectrite/issues/20" TITLE : crash in debug world BODY : minecraft has a debug world mode, https://minecraft.gamepedia.com/debug_mode spectite crashes when you enter this world: https://gist.github.com/mezz/495bf74c531aed0c184090dfc194b152

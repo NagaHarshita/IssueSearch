@@ -1,0 +1,1 @@
+ URL : "https://github.com/OSSHealth/ghdata/issues/8" TITLE : adding license identifiers BODY : hey all, i'd like to add spdx license identifiers to all source files spdx-license-identifier: mit

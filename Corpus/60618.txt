@@ -1,0 +1,1 @@
+ URL : "https://github.com/Keats/gutenberg/issues/67" TITLE : add a get_url global fn BODY : takes the site::permalinks and can build urls like in the markdown content from a path such as posts/something.md

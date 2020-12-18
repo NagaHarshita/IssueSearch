@@ -1,0 +1,1 @@
+ URL : "https://github.com/schiehll/react-alert/issues/33" TITLE : auto alert on page load BODY : thanks for creating this great project, i found it really useful! i was wondering how you recommend if i want to go about loading it directly as soon as the page loads instead of on button click . when i try loading it in componentwillmount i can't get it working. any advice?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/otac0n/Pegasus/issues/98" TITLE : support @using static BODY : i have a number of utility functions that would be very handy to be imported using something like @using static .... the functions would be available in actions.

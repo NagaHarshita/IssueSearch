@@ -1,0 +1,1 @@
+ URL : "https://github.com/Omar-Gonzalez/CYL/issues/23" TITLE : component life cycle BODY : implement life cycle methods for components : - component didstartupdating - component didfinishupdating - component isupdating

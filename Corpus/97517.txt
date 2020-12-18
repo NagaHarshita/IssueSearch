@@ -1,0 +1,1 @@
+ URL : "https://github.com/SingingBush/SDL/issues/1" TITLE : handle trailing semicolons BODY : the sdlang homepage has the following example that is not handled by the parser // trailing semicolons are optional title some title ; // they can be used to separate multiple nodes title some title ; author peter parker a new test needs to be added for this and the appropriate fix

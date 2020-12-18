@@ -1,0 +1,1 @@
+ URL : "https://github.com/alwsl/alwsl/issues/52" TITLE : pacman assertion failed BODY : pacman is a holdpkg in alwsl but after running pacman -syu, the ssl support broke. so i issued pacman -s pacman. after that, i get pacman: ../sysdeps/posix/getaddrinfo.c:2542: getaddrinfo: assertion in6_is_addr_v4mapped sin6->sin6_addr.s6_addr32 ' failed. occationally.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/maisano/react-router-transition/issues/84" TITLE : parceljs cannot compile BODY : server running at http://localhost:1234 🚨 /volumes/hdd/project/projects/lawson_event_frontend/node_modules/react-router-transition/lib/react-router-transition.js:117:27: cannot resolve dependency ' module.exports = require './factorywiththrowingshims' ; | ^ }

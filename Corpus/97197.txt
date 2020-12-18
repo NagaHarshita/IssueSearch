@@ -1,0 +1,1 @@
+ URL : "https://github.com/beaufortfrancois/unicode-chrome-app/issues/4" TITLE : fr: character combinations BODY : add support to character combinations so that they can be found the same way single characters can. so for example if i search for shruggie i would get ¯\_ ツ _/¯ a bunch could be included by default or sourced through a file somewhere or a ui to define your own.

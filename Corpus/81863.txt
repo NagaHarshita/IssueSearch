@@ -1,0 +1,1 @@
+ URL : "https://github.com/emostafa/garson/issues/8" TITLE : ability to use middleware BODY : create a new function that adds a middleware to the router. probably each router should have a way to add a before/after middleware to it.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/google/lovefield/issues/202" TITLE : add dynamic predicate BODY : example: let predicate = lf.op.and table.col1.eq true ; predicate = predicate.and table.col2.gt 2 ;

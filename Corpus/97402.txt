@@ -1,0 +1,1 @@
+ URL : "https://github.com/cedlemo/OCaml-GObject-Introspection/issues/12" TITLE : gnome modules to implement BODY : the order matter: glib2 : started. gobject atk gio gdk_pixbuf pango cairo gdk gtk

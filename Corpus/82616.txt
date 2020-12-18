@@ -1,0 +1,1 @@
+ URL : "https://github.com/AndreMiras/PyWallet/issues/43" TITLE : allow tab keys navigation BODY : make it possible to navigate through widgets using tab key. this should be enabled for the following screens: - send ethers - manage existing keystores - create new account

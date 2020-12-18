@@ -1,0 +1,1 @@
+ URL : "https://github.com/EnviroDIY/ModularSensors/issues/72" TITLE : clock is off by 30 years BODY : somewhere in the adaptations made for samd boards 68 , i messed up something with the ds3231 clock so it is reading years 30 years in the future. the date/hours/mins/seconds all seem perfect, it's just the years that are off.

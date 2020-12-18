@@ -1,0 +1,1 @@
+ URL : "https://github.com/JonnyPugh/WordpostBotAWS/issues/4" TITLE : implement profanity filter BODY : in case the wordnik api returns a profane word, implement a filter for this.

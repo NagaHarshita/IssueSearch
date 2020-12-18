@@ -1,0 +1,1 @@
+ URL : "https://github.com/dojo/cli-test-intern/issues/22" TITLE : test individual modules? BODY : discussion would we have the ability to test individual modules via the test command in a user friendly way? for example, should we support something like: dojo test -m unit/foobar to only run the specified tests instead of the entire unit or functional suite?

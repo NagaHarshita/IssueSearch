@@ -1,0 +1,1 @@
+ URL : "https://github.com/NextFaze/power-adapters/issues/40" TITLE : add kotlin modules BODY : add kotlin adapter modules to take advantage of kotlin idioms, such as: type-safe builders for adapters extension functions to add poweradapter and data methods easier compatibility with rxjava

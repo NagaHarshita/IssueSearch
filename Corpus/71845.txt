@@ -1,0 +1,1 @@
+ URL : "https://github.com/CrossRef/event-data-percolator/issues/20" TITLE : allow skip deduplication BODY : some actions are high-volume, low signal-to-noise ratio and can never repeat, e.g. wikipedia. allow deduplication to be skipped in these cases by not supplying an action id, or alternatively supplying a flag with the input package.

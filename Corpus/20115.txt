@@ -1,0 +1,1 @@
+ URL : "https://github.com/dvberkel/tdd-packrat/issues/1" TITLE : bootstrap a parser BODY : in order to parse the peg grammar we need a parser. we hand roll it, afterwards we will hoist it to the top

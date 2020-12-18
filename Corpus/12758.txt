@@ -1,0 +1,1 @@
+ URL : "https://github.com/kennychr/Valiant.Altis/issues/8" TITLE : rewrite main fsm BODY : rewrite it so it can execute .sqf also instead of only fsm's

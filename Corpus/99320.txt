@@ -1,0 +1,1 @@
+ URL : "https://github.com/CMSCompOps/WmAgentScripts/issues/223" TITLE : migration to the clone api BODY : all cloning should carefully be moved to using reqmgrclient.cloneworkflow as 221 suggests

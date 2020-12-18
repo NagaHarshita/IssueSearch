@@ -1,0 +1,1 @@
+ URL : "https://github.com/materialsvirtuallab/veidt/issues/2" TITLE : add polynomial describers BODY : add describers that can convert to polynomials. given input x1, x2, convert to polynomial descriptor up to certain power. e.g., for power 2, x1 ^2, x2 ^2, x1x2, x1 and x2.

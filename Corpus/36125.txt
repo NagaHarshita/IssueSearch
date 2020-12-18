@@ -1,0 +1,1 @@
+ URL : "https://github.com/raghunat/hotspot/issues/88" TITLE : gateway api new-user BODY : in gateway api acceptance criteria post /new-user -> with email and password on success returns {spotobject} approach - use superagent within the gateway api to create rest api calls to the other api

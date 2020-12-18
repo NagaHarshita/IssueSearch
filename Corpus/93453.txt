@@ -1,0 +1,1 @@
+ URL : "https://github.com/Gleamo/gleamo-python/issues/2" TITLE : add tests to the scheduler BODY : the scheduler should be covered by some tests, rather than having to rely on the integration.py file to check its validity.

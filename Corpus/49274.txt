@@ -1,0 +1,1 @@
+ URL : "https://github.com/PlasmaPower/ghcl/issues/1" TITLE : test git repositories BODY : it'd be nice to setup some tests, probably with tempdir , to test git repository cloning, fetching, etc.

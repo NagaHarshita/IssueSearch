@@ -1,0 +1,1 @@
+ URL : "https://github.com/mukel/telegrambot4s/issues/27" TITLE : wrong version in readme BODY : there seems to be an error in your readme, i guess the version for the sbt example should be 2.0.1 and not 2.1.0. best regards fabian

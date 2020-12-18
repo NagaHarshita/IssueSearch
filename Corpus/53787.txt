@@ -1,0 +1,1 @@
+ URL : "https://github.com/bbarreto/sinesp-api/issues/6" TITLE : error: read econnreset BODY : estou recebendo este erro, tanto no digital ocean quanto no heroku. no localhost, funciona. sabe dizer o que é?

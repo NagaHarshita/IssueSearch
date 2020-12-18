@@ -1,0 +1,2 @@
+ URL : "https://github.com/plierop/Applicatie-Urenportaal/issues/11" TITLE : users -unique user id BODY : elke account die nu word gecreert in de register pagina krijgt nu een unique id, waardoor je weet wie wie precies is.
+dit moest ik maken omdat je anders nie wist wie welke dagen heeft gekozen. hoe ik het heb gemaakt is door ene foreign key te gebruiken in het sql server zodat ik de data op het login tabel exact kon overnemen naar het weekstaat tabel.

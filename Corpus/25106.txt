@@ -1,0 +1,1 @@
+ URL : "https://github.com/purescript-node/purescript-node-buffer/issues/24" TITLE : use st for effects BODY : following data.array.st 's example, mutations could live in the st monad. then creation and reading would not require eff . this would be a very big change to the library's philosophy. thoughts?

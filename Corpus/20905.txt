@@ -1,0 +1,1 @@
+ URL : "https://github.com/japlatt/Physics301/issues/14" TITLE : deoptimize for 68c BODY : filter out transit model for 68b. optimize for best parameters of 68c.

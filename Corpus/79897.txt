@@ -1,0 +1,1 @@
+ URL : "https://github.com/myst729/Vuelog/issues/10" TITLE : support custom home page BODY : currently the only choice is between default home view vuelog introduction and the blog posts view. this requires two relevant features: 1. allow to hide page/post meta field. 2. allow to hide page/post from archive view and list view.

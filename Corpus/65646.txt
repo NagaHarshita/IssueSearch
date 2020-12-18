@@ -1,0 +1,1 @@
+ URL : "https://github.com/konigio/konig/issues/560" TITLE : join two or more shapes BODY : i want a tool that will materialize a data shape by joining properties from two or more underlying shapes. for instance, i want to be able to define an assessmentsession that joins information from a startassessment event and the corresponding completeassessment event.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/holisticon/annotation-processor-toolkit/issues/7" TITLE : enable checkstyle checks BODY : base functionality is working right now. so it's time to polish the code a bit by enabling checkstyle checks and by fixing existing checkstyle violations.

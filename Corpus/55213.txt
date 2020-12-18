@@ -1,0 +1,1 @@
+ URL : "https://github.com/Trouva/ember-algolia/issues/2" TITLE : improve search service BODY : improve search service by implementing the search and configure hooks. configure hook: - generalise filters per route implementation to automatically register filters used on the algolia search helper - provide a way to extend the search helper parameters

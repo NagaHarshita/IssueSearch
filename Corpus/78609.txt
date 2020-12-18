@@ -1,0 +1,1 @@
+ URL : "https://github.com/eclipsesource/tabris-js/issues/1192" TITLE : question: settings hooks BODY : does tabris.js 2 plan to support platform settings directly in cordova .xml? something similar with: https://www.npmjs.com/package/cordova-plugin-settings-hook url ?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Wiredcraft/jekyllpro-cms/issues/44" TITLE : slow search experience BODY : - user 1 creates a new entry in a collection - user 2 only shows that update in her list 4 minutes later - to be clarified on if refreshing helps - should we implement light polling

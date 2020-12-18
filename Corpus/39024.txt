@@ -1,0 +1,1 @@
+ URL : "https://github.com/curran/d3-component/issues/11" TITLE : rename data to props BODY : with the additional of local state 8 , it makes more sense to use the term props , for conceptual parity with react components.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/autozimu/LanguageClient-neovim/issues/1" TITLE : jump back from definition BODY : hi, great plugin, i have been waiting for a semi functional lsp plugin for vim. is there a way to jump back after using languageclient_textdocument_definition ? it doesen't appear to register anything in the tag stack, so i can't use the usual ctrl-t

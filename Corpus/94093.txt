@@ -1,0 +1,1 @@
+ URL : "https://github.com/parallaxinc/BlocklyProp/issues/927" TITLE : block request - get states BODY : requesting a get states block based on the get_states function of simpletools.h. need is not immediate, but early summer would be very nice.

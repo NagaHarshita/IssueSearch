@@ -1,0 +1,1 @@
+ URL : "https://github.com/BrodaNoel/devseverywhere/issues/33" TITLE : bug in metrics cache BODY : steps: open react wait for 200 open vue. you will see metrics... that's impossible. vue should be 0.

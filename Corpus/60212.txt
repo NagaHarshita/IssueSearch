@@ -1,0 +1,1 @@
+ URL : "https://github.com/g-benton/CSCI5622/issues/4" TITLE : write q matrix to file BODY : have a function that will write out our q-matrix to a file. along with this make it so we can read in a q matrix from a file in predator.

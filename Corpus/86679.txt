@@ -1,0 +1,1 @@
+ URL : "https://github.com/stepancheg/grpc-rust/issues/77" TITLE : implement cacheable calls BODY : when method is marked cacheable, call should use get instead of post . cacheable_unary https://github.com/grpc/grpc/blob/master/doc/interop-test-descriptions.md cacheable_unary

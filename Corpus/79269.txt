@@ -1,0 +1,1 @@
+ URL : "https://github.com/LDMW/app/issues/464" TITLE : search must include tags BODY : when a user searches for, for example, sleep deprivation - all items tagged with sleep deprivation should appear. currently search is only finding results that have sleep deprivation in the summary / pros and cons copy. search should find any instance of sleep deprivation .

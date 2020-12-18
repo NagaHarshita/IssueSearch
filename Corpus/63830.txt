@@ -1,0 +1,1 @@
+ URL : "https://github.com/titov-andrei/project-lvl1-s17/issues/1" TITLE : exec: exec format error BODY : failed to execute process '/usr/bin/brain-even'. reason: exec: exec format error the file '/usr/bin/brain-even' is marked as an executable but could not be run by the operating system.

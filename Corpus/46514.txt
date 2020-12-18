@@ -1,0 +1,1 @@
+ URL : "https://github.com/ZeroK-RTS/Zero-K/issues/2185" TITLE : menu: camera settings BODY : - in settings / camera there's a regular camera radiobutton and a separate old camera hotkeys submenu with everything duplicated. remove the extra submenu and make the radiobutton work properly. - camera roster is outdated. for example total war cam was removed, spring cam was added.

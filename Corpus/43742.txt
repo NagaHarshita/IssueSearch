@@ -1,0 +1,1 @@
+ URL : "https://github.com/expo/expo-docs/issues/202" TITLE : delete apk from cloud BODY : hello, i have build the apk via exp build:android. and i get an url where to download the apk-file. but this is publicly available. how do i remove this apk from the cloud? havent found anything in the docs.

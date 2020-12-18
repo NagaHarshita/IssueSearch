@@ -1,0 +1,1 @@
+ URL : "https://github.com/YidingOu/FindMed/issues/1" TITLE : aws access key is public BODY : i just found your aws access key and the secret key is public and this causes your aws account to be hacked. the best way to prevent this is to delete aws access key from aws and get new aws access key. because you already committed to github, your access key is not removed from github.

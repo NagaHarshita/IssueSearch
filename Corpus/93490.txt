@@ -1,0 +1,1 @@
+ URL : "https://github.com/pornel/imgref/issues/3" TITLE : add vertical mutable split BODY : horizontal split is not safe due to _padded methods :

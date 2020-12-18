@@ -1,0 +1,1 @@
+ URL : "https://github.com/robbiev/two-factor-auth/issues/3" TITLE : base32 decode or endcode BODY : i see you're using decodestring . is that intentionally or you it supposed to say encodestring key, err := base32.stdencoding.decodestring inputnospacesupper thanks much

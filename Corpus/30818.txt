@@ -1,0 +1,1 @@
+ URL : "https://github.com/mgp4/prague-transport-2017/issues/21" TITLE : real server testing BODY : just many tests targeting the production server, reading input / expected output from json files. not to be run from ci.

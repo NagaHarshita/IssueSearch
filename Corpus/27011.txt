@@ -1,0 +1,1 @@
+ URL : "https://github.com/thunderbotsfc/software/issues/15" TITLE : clean up navigation BODY : the idea is to nuke navigator and 'hl primitives' and move all the logic into actions.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/vuejs/vue/issues/4968" TITLE : vue 2.1.10 filter bug BODY : template varname | filter_name when varname value 0 or undefined or null filter_name report undefined this filter. i try set varname = 1 , then ok

@@ -1,0 +1,1 @@
+ URL : "https://github.com/lucasvanlierop/dotfiles/issues/7" TITLE : slack can't play audio BODY : alsa lib pcm_dmix.c:1052: snd_pcm_dmix_open unable to open slave maybe this can be fixed by linking pulseaudio like jessica frazelle does with skype: https://github.com/jessfraz/dotfiles/blob/master/.dockerfunc l711

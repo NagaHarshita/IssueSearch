@@ -1,0 +1,1 @@
+ URL : "https://github.com/pklaus/brother_ql_web/issues/5" TITLE : no empty lines BODY : labels can not contain empty lines. if there is a completely empty line on the label, the server returns a 500 error. if the empty line contains a space character or any other character , the label is generated correctly. fails: x y works: x y

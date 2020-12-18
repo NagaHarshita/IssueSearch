@@ -1,0 +1,1 @@
+ URL : "https://github.com/firepear/cephkit/issues/11" TITLE : revise partition layout BODY : make the system partition smaller, and add a partition for mounting /var/lib/ceph. this enables reimaging without destroying mon/mds keyrings and such. osds will continue to be their own parts, as they are now.

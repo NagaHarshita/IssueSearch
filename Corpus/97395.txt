@@ -1,0 +1,1 @@
+ URL : "https://github.com/kadli01/splendexexpenses/issues/34" TITLE : global - set up .gitignore BODY : 1. delete everything from the uploads folder 2. add a new file: .gitignore in the project's root 3. add the following line to the file: /public/uploads

@@ -1,0 +1,1 @@
+ URL : "https://github.com/MartinAltmayer/pokerserver/issues/52" TITLE : improve join table logic BODY : avoid player.load_by_name in match.join . it should be replaced by a new method player.load_by_name_and_table_id .

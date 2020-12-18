@@ -1,0 +1,1 @@
+ URL : "https://github.com/neelsmith/greek/issues/22" TITLE : accept unicode 787 and 788 BODY : 787|788 + upperchase char -> + char + in ascii

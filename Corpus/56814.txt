@@ -1,0 +1,1 @@
+ URL : "https://github.com/FAForever/fa/issues/1888" TITLE : onscreen selection bug BODY : when using the select all land/air/navy onscreen keybind you also select the respective factories https://github.com/faforever/fa/blob/develop/lua/keymap/keyactions.lua l306-l308 adding an exception for facs might do the trick

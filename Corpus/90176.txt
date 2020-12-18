@@ -1,0 +1,1 @@
+ URL : "https://github.com/Cloud-CV/cvfy-frontend/issues/35" TITLE : save results into dropbox BODY : right now results are only displayed in browser. we should allow easy download of these results either into google drive / dropbox or download a compressed file containing all the output in the session.

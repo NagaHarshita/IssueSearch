@@ -1,0 +1,1 @@
+ URL : "https://github.com/asfernandes/node-firebird-driver-native/issues/1" TITLE : support for blob datatype BODY : currently it's not supported to fetch or pass blobs as input parameters.

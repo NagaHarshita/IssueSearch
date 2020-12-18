@@ -1,0 +1,1 @@
+ URL : "https://github.com/ornicar/lila/issues/2506" TITLE : store each blur as a bit BODY : as of programfox idea. does not change db size, offers more information

@@ -1,0 +1,1 @@
+ URL : "https://github.com/richardghirst/PiBits/issues/80" TITLE : controlling by time task BODY : dear friend, is it possible to use servo-blaster for this kind task: it needs to control servo automatically, for example 09:00 servo go forward about 90 degree and 20:00 go back again 90 degree

@@ -1,0 +1,1 @@
+ URL : "https://github.com/llipio/algorithms/issues/20" TITLE : largest sum in an array BODY : return the largest sum of 2 consecutive numbers given an array. i: 1,2,9,0,10 o: 11

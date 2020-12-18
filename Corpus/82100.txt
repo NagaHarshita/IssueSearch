@@ -1,0 +1,1 @@
+ URL : "https://github.com/malinink/easy-tests/issues/130" TITLE : add findbysubject methods BODY : реализовать методы findbysubject в topicsservice, написать тесты на них

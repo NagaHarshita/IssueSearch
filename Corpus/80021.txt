@@ -1,0 +1,1 @@
+ URL : "https://github.com/TG9541/stm8ef/issues/58" TITLE : support the stm8s001j3m3 BODY : the chip is very similar to the stm8s003f3, so not much is needed but support for stm8s uart1 half-duplex mode issue 57 .

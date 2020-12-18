@@ -1,0 +1,1 @@
+ URL : "https://github.com/sunjay/turtle/issues/26" TITLE : test windows support BODY : as far as i know, there is nothing platform specific in the code. that being said, is a good idea to check if the examples run on windows. we already test the build on windows using appveyor. we just want to make sure the examples look and feel how they should on all platforms.

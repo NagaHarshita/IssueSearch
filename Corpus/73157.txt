@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozillacampusclubs/issue_parser_backend/issues/4" TITLE : configure mysql database BODY : right now the app is using a sqllite3 database. configure it to use mysql.

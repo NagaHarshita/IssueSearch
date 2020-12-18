@@ -1,0 +1,1 @@
+ URL : "https://github.com/SocialiteProviders/Microsoft-Graph/issues/1" TITLE : mail.send scope necessary? BODY : is it possible to override the mail.send scope as is set by default? i don't want my users to see send mail as you when they log in.

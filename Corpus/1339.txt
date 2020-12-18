@@ -1,0 +1,1 @@
+ URL : "https://github.com/mongo-express/mongo-express/issues/323" TITLE : run at boot BODY : is there a way to run a command like mongo-express -a -u superuser -p password on boot for ubuntu? i tried setting it in the crontab as well as making a conf for it in /etc/init but neither did work i was hoping there was a way to make sure the interface runs at all times

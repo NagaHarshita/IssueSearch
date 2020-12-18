@@ -1,0 +1,1 @@
+ URL : "https://github.com/kriscross07/atom-gpp-compiler/issues/152" TITLE : about atom editor BODY : i compiling a program and when i press f5 it shows 'gpp' could not be spawned. is it installed and on your path? if so please open an issue on the package spawning the process. please solve this problem

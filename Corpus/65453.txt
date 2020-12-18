@@ -1,0 +1,1 @@
+ URL : "https://github.com/lidel/ipfs-firefox-addon/issues/212" TITLE : introduce async / await BODY : async / await support was introduced in firefox 52: - https://blog.nightly.mozilla.org/2016/11/01/async-await-support-in-firefox/ - https://discourse.mozilla-community.org/t/anyone-else-has-ff-52-issues/14253?u=lidel

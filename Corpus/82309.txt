@@ -1,0 +1,1 @@
+ URL : "https://github.com/messagetemplates/messagetemplates.org/issues/3" TITLE : add semantics for @ and $ BODY : currently the specification calls out @ and $ prefixes, but their semantics are not specified. it would be nice to have at least an indication of how they are commonly used, even if the specifics are implementation-dependent.

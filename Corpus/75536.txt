@@ -1,0 +1,1 @@
+ URL : "https://github.com/gregmuellegger/django-sortedm2m/issues/98" TITLE : how make field is blank? BODY : in model: pictures = sortedmanytomanyfield picture, verbose_name='список картинок', blank=true but in admin panel this field is required. how i fix it?

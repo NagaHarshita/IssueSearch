@@ -1,0 +1,1 @@
+ URL : "https://github.com/bwmarrin/urlib/issues/5" TITLE : add encryption option BODY : allow single resources or all resources to be encrypted with user key.

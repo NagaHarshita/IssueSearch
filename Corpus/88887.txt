@@ -1,0 +1,1 @@
+ URL : "https://github.com/UmbraSpaceIndustries/MKS/issues/1336" TITLE : pal manipulator arm 1.3.1 BODY : wrist tilt and wrist rotate servos don't seem to be doing anything anymore. all other servos on the part seem to be behaving as expected.

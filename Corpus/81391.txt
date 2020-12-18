@@ -1,0 +1,1 @@
+ URL : "https://github.com/shnupta/bric/issues/75" TITLE : write contributing guide BODY : the guide should provide a first base for all new contributors the basics such as finding an issue and making a pr and also contain guidelines on style and code preference. unless we decide to use a code beautifier .

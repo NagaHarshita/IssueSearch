@@ -1,0 +1,1 @@
+ URL : "https://github.com/arthurlockman/plonky/issues/2" TITLE : fix fitness calculation BODY : calculate fitness for entire phrase instead of just certain measures: - calculate measure 0 fitness - assign 0 fitness = 0 - calculate fitness for 0 and 1 - assign 1 fitness = 01 - 0 and so on.

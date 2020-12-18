@@ -1,0 +1,1 @@
+ URL : "https://github.com/vmcilwain/myrails/issues/16" TITLE : fix ui path in navigation BODY : path for ui is set to /ui when it should be set to /ui/index

@@ -1,0 +1,1 @@
+ URL : "https://github.com/gslib/gslib/issues/3" TITLE : add a pusherrorhandler BODY : sets a user routine to be called on detection of errors. currently we just call exit .

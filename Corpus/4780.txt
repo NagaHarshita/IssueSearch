@@ -1,0 +1,1 @@
+ URL : "https://github.com/sunoc/pycparser/issues/1" TITLE : get rid of cpp BODY : since the target is to avoid precompilation, cpp is no longer useful in the __init__.py code; it is never used at all anyway for my case. the dependency of this program will no longer be required on the system that runs pycparser.

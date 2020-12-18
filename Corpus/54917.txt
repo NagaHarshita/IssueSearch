@@ -1,0 +1,1 @@
+ URL : "https://github.com/LotusTM/Kotsu/issues/286" TITLE : html standards testing BODY : we would be safer if we will always test our html to ensure that it conforms standards. do not confuse with linting. this can be part of larger tester, or we can use directly some tool like html_codesniffer http://squizlabs.github.io/html_codesniffer/

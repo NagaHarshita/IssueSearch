@@ -1,0 +1,1 @@
+ URL : "https://github.com/Alex-Railean/best-game-project-back/issues/4" TITLE : bsg-003 creating table BODY : bsg-003 creating table given i am in back-end and i have default user when i receive a request to create a table then a table is saved in db and the username is saved to table

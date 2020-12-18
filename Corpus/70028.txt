@@ -1,0 +1,1 @@
+ URL : "https://github.com/MainNerve/NetforceDefender/issues/32" TITLE : update logstash filters BODY : lots of grok filters already have a variable name. use that common name instead of a custom one. filebeat also has a lot of parsers for known log file formats, use them.

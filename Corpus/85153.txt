@@ -1,0 +1,1 @@
+ URL : "https://github.com/FACN3/al-forum/issues/66" TITLE : error first callbacks !!! BODY : this was mentioned tons of time.... callbacks take an error as the first argument and the second one would be something like result or something https://github.com/facn3/al-forum/blob/master/src/adduserhandler.js l9 what if the database threw an error ?

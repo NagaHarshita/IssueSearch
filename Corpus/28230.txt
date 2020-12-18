@@ -1,0 +1,1 @@
+ URL : "https://github.com/giantswarm/aws-operator/issues/265" TITLE : fix decoding errors BODY : the operator, while functional, prints out a lot of errors like e0523 09:46:41.130525 1 streamwatcher.go:109 unable to decode an event from the watch stream: unable to decode watch event: no kind aws is registered for version cluster.giantswarm.io/v1

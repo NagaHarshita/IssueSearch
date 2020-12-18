@@ -1,0 +1,1 @@
+ URL : "https://github.com/php-integrator/atom-base/issues/322" TITLE : linter too aggressive BODY : the linting is great in general, but it would be nice if it would only occur on save . i'm constantly seeing red lines and dots jump around the screen while typing, super distracting.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/lcarranco/theme_lc/issues/7" TITLE : change text when clicked BODY : add functionality to update text when <a> tag is clicked. for example, change from read more to read less when <a> tag is clicked in links page page-links.php

@@ -1,0 +1,1 @@
+ URL : "https://github.com/pr1ntf/iohyve/issues/280" TITLE : allow cloning of snapshots BODY : i'd like to be able to clone old snapshots of vms with iohyve clone ; for instance, i take a snapshot of a freshly-installed vm, and then clone that snapshot whenever i want another vm running the same os. right now i can only clone the current version of a vm.

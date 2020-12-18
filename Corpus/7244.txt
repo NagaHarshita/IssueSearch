@@ -1,0 +1,1 @@
+ URL : "https://github.com/docker/hub-feedback/issues/1057" TITLE : errors on build BODY : hello, since yesterday i can't build images, always with the same error: bash failed to decode response: zlib_decode : data error this error is raised after composer update command. i can't build the same dockerfile in mi local machine without errors.

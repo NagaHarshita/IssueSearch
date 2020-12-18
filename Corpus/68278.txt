@@ -1,0 +1,1 @@
+ URL : "https://github.com/digitalocean/netbox/issues/982" TITLE : request: vrf rd sorting BODY : would it be possible to look at sorting the rd column within the vrf list numerically. currently is sorting it from first to last, rather than its numerical value. current: 1 100 1000 2 200 2000 preferred: 1 2 100 200 1000 2000

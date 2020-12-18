@@ -1,0 +1,1 @@
+ URL : "https://github.com/revmischa/cloudcam/issues/6" TITLE : srtp janus support BODY : goal: allow clients to stream to janus with srtp-encrypted streams implementation: see notes @ https://github.com/revmischa/cloudcam/wiki/janus will likely need to write a custom janus plugin 5

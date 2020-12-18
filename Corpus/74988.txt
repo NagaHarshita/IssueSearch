@@ -1,0 +1,1 @@
+ URL : "https://github.com/JakeDluhy/redux-dialog/issues/4" TITLE : forked from and packages BODY : it seems the repo you forked from has all your updates/changes now. plus it now has react 16 support....but that repo has not published npm updates. any chance you could bring the original you were forked from to get the latest changes and publish a react 16 compatible version?

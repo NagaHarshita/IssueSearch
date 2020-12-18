@@ -1,0 +1,1 @@
+ URL : "https://github.com/aurora-pro/apex-sigma-core/issues/21" TITLE : update check on ready BODY : a module that will check the version of self-hosted sigma instances and warn them if a new version is available to be pulled from the repository.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/prettier/prettier-python/issues/3" TITLE : add python tests suite BODY : i had started a small repo with a python test suite here: https://github.com/patrick91/prettier-python-tests now that we have a separate repo we could add these tests here, instead of having a separate repo.

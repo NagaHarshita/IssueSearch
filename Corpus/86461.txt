@@ -1,0 +1,1 @@
+ URL : "https://github.com/thomaschaaf/node-ftdi/issues/25" TITLE : how to send break signal? BODY : hi, i need to send break for my device to get it working but i'm not able to do that with this lib. what am i doing wrong? official ftdi docs says that there are methods ft_setbreakon and ft_setbreakoff which would be great for this. thank you for help.

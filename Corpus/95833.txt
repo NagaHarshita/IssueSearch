@@ -1,0 +1,1 @@
+ URL : "https://github.com/mrfoh/docker-laravel/issues/1" TITLE : docker-compose up -d error BODY : setup: windows 7 64bit, docker 17.04.0 docker-composer installed with pip install docker-compose when i run docker-compose up -d i get: error: yaml.scanner.scannererror: mapping values are not allowed here in .\docker-compose.yml , line 27, column 18

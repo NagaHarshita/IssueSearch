@@ -1,0 +1,1 @@
+ URL : "https://github.com/TTimo/GtkRadiant/issues/519" TITLE : coding style guideline BODY : can we have a coding style guideline for radiant? should we use recommendations like http://geosoft.no/development/cppstyle.html tab char or spaces for indentation?

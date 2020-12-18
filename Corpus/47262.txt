@@ -1,0 +1,1 @@
+ URL : "https://github.com/amauryleclerc/sprint-graph/issues/30" TITLE : ops create a basic ci BODY : as a developer, i need to build the jar of the application automatically and to deploy it on a ftp server url would be : ftp://pedrocloud.freeboxos.fr/fr/aleclerc/sprint-graph/2.0.0-snapshot/ jenkins use pipeline script stored within the git repository build.pipeline

@@ -1,0 +1,1 @@
+ URL : "https://github.com/eclipse/dirigible/issues/95" TITLE : long living git folders BODY : during the simplified git management operations, currently a temporary directory is created every time and it is cleaned at the end of the operation. the process to be optimized by managing a long living git directory per user / per workspace / per project.

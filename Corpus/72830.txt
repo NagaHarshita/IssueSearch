@@ -1,0 +1,1 @@
+ URL : "https://github.com/react-community/react-navigation/issues/2226" TITLE : changing drawer position BODY : hello guys, is there any method to change the current drawer position? drawer position is left for most of the times, but i want to change it to right in some cases, and then change it back to left. thanks!

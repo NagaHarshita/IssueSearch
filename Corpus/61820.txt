@@ -1,0 +1,1 @@
+ URL : "https://github.com/chylex/TweetDuck/issues/138" TITLE : bug custom columns size BODY : when you put more than 400px custom the size is placed to wide 350px . you can't set custom values above 400px.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/amunategui/Feedback/issues/19" TITLE : flask app apache BODY : hey, quick question. i did everything you listed, and when i go to the ip address, my flask application shows up. when i go to the url that i have pointed at that address however, i get the ubuntu apache default page. do you know why this is happening? best, conor

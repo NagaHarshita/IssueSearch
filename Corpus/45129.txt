@@ -1,0 +1,1 @@
+ URL : "https://github.com/nteract/improved-spark-viz/issues/3" TITLE : handle streaming data BODY : spark structured streaming is the future, but the future does work today. however, we should totally design viz for it. 🎉 🌮

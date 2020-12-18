@@ -1,0 +1,1 @@
+ URL : "https://github.com/mmw/react-password-strength/issues/32" TITLE : focus on mount BODY : i would like the component to focus on mount. how can i do that ? if it's not possible with the current component, i can create a pr to add this feature.

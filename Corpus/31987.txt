@@ -1,0 +1,1 @@
+ URL : "https://github.com/danmademe/express-vue/issues/22" TITLE : the head meta place BODY : hi, now headregex is default /<\/head>/igm, could use {{{head}}} or {{{meta}}} replace ？. i would like to put some analyze script code in the layout.

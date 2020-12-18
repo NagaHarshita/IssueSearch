@@ -1,0 +1,1 @@
+ URL : "https://github.com/johnbillion/revisions-feed/issues/1" TITLE : needs a better name BODY : revisions feed sounds like the plugin only provides a feed, but it'll likely provide feeds, a rest api endpoint, email notifications, and dashboard features too.

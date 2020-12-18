@@ -1,0 +1,1 @@
+ URL : "https://github.com/ePascalC/bbp-API/issues/26" TITLE : edit topic or reply BODY : update or edit topic/reply. on the front end of my app i would be cross referencing the author id with the current logged in user's id to know whether or not to enable the edit function of a topic or reply. of course an admin should be able to edit or even spam/delete a topic or reply.

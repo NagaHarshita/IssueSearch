@@ -1,0 +1,1 @@
+ URL : "https://github.com/ozgrozer/dasper/issues/3" TITLE : undefined mixin vendor BODY : after updating scss i try to generate the css but get an error in dev/reset.scss line 24: undefined mixin 'vendor1'.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/c2nes/javalang/issues/36" TITLE : full and flattened tree BODY : is there a way i can just get the full tree flattened without having to reconstruct it with the paths and nodes from each iteration?

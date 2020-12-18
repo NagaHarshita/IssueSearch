@@ -1,0 +1,1 @@
+ URL : "https://github.com/KevinMackenzie/incubator-trafficcontrol/issues/16" TITLE : create ui integration BODY : this integration will allow for the user of traffic ops to see the data that we are storing. this data should be stored in an appropriate part of the ui. perhaps that would be under servers , or parameters , or misc .

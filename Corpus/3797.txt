@@ -1,0 +1,1 @@
+ URL : "https://github.com/migueldeicaza/TensorFlowSharp/issues/52" TITLE : use of models BODY : can you please provide guidance on how i could access syntaxnet dragnn from c either directly from or by extending tensorflowsharp? https://github.com/tensorflow/models/tree/master/syntaxnet/examples/dragnn thanks

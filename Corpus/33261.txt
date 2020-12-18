@@ -1,0 +1,1 @@
+ URL : "https://github.com/elixirschool/extracurricular/issues/56" TITLE : add default link css BODY : the elixir school link in the footer, as well as the difficulty filter buttons/badges lack a styling. add in some nice defaults.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/UniversityOfNottingham/D3-components/issues/3" TITLE : add javascript linting BODY : add gulp-eslint to ensure all components are written to the same standards.

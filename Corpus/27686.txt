@@ -1,0 +1,1 @@
+ URL : "https://github.com/mami-project/pathspider/issues/117" TITLE : drop the tls plugin BODY : currently this plugin is broken, there's no point carrying it around for now. we should drop it and readd it later when we do it using gnutls.

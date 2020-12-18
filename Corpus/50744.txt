@@ -1,0 +1,1 @@
+ URL : "https://github.com/soumith/ganhacks/issues/20" TITLE : adam in the generator? BODY : there is a little problem with the using of the adam optimizer in generator. from my experience, the using of optimizer with momentum may cause instability in training. actually, i think the rmsprop is a better choice. this is my personal view and experience , discussion is welcomed.

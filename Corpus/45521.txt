@@ -1,0 +1,1 @@
+ URL : "https://github.com/BeatPlus/Protonmail/issues/114" TITLE : implement bug tracker BODY : we should implement sentry https://sentry.io , or similar, to track errors and crash reports quickly. sentry can create gh issues based on tracked errors. which can be a great ground to build a nice user experience.

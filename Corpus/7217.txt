@@ -1,0 +1,1 @@
+ URL : "https://github.com/heisters/ofxVideoPipe/issues/1" TITLE : error from pipe BODY : of 0.9.8 just get tones of these errors in console from the of app: error pipe has been closed, attempting to reopen. ffmpeg works fine

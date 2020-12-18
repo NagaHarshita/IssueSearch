@@ -1,0 +1,1 @@
+ URL : "https://github.com/freedombox/Plinth/issues/1160" TITLE : clients apps improvements BODY : following from discussion in https://github.com/freedombox/plinth/pull/1112: - change desktop/mobile buttons color to indicate that they are links. - consider re-arrangement of clients for usability and space efficiency.

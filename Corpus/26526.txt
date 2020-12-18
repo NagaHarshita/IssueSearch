@@ -1,0 +1,1 @@
+ URL : "https://github.com/picidaejs/picidaejs/issues/5" TITLE : better error thrown BODY : 1. compare the expect config object's shape theme/picidae, like webpack and the actual 2. the error of transformer, need to print better which transformer , and don't have side effect.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ntop/nDPI/issues/346" TITLE : free expiring flow struct BODY : 4-tuple <src_ip, src_port, dst_ip, dst_port> indentifies uniqle connection. but it may be reused by another protocol after a long time. does ndpi free flow struct if flow expires?

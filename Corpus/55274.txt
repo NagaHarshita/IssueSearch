@@ -1,0 +1,1 @@
+ URL : "https://github.com/ManageIQ/manageiq-providers-lenovo/issues/33" TITLE : increase code coverage BODY : according to code climate https://codeclimate.com/github/manageiq/manageiq-providers-lenovo this provider's test coverage is 13%, compared with amazon 71%, vmware 60%, and azure 64%.

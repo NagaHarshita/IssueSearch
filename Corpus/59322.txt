@@ -1,0 +1,1 @@
+ URL : "https://github.com/lukaswagner/AudioReader/issues/21" TITLE : transfer data over usb BODY : use usb to transfer data without relying on wireless connectivity, check out existing protocols and implement one

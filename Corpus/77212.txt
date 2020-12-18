@@ -1,0 +1,1 @@
+ URL : "https://github.com/alanclarke/time-input/issues/21" TITLE : more flexible formatting BODY : @mattbasta and @murrios have expressed requirements to handle more diverse time formats, including: - non-leading zeros - 59:59:59

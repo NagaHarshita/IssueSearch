@@ -1,0 +1,1 @@
+ URL : "https://github.com/mwillsey/crossbot/issues/12" TITLE : log scale enhancements BODY : log scale should be symlog to support the negative numbers in the normalized plots. also, log scale should disable clipping but preserve reasonable y-axis ticks.

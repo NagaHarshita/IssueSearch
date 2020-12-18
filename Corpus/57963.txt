@@ -1,0 +1,1 @@
+ URL : "https://github.com/Perlmint/webpack-game-asset-plugin/issues/2" TITLE : resource list template BODY : in current implementation, only emit my custom format - using in my work. make available other custom template.

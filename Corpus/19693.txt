@@ -1,0 +1,1 @@
+ URL : "https://github.com/latteware/marble-seed/issues/45" TITLE : add sentry support BODY : add sentry as a flag for api https://docs.sentry.io/clients/node/integrations/koa/

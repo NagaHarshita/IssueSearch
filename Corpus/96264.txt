@@ -1,0 +1,1 @@
+ URL : "https://github.com/flarum/core/issues/1144" TITLE : error 404 for missing tags BODY : the missing tags show a 200 ok status code. i think these links should use a 404 not found code. ! image https://cloud.githubusercontent.com/assets/1769227/23631979/7eac6b9a-02c0-11e7-900a-343c68abfedd.png

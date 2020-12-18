@@ -1,0 +1,1 @@
+ URL : "https://github.com/curationexperts/chf-sufia/issues/23" TITLE : determine caching strategy BODY : offline lookup e.g. lcsh is down, need to look up names is a goal of the project. to serve this, plan caching strategy, pre-warming, and scale of cache cache all of lcsh? .

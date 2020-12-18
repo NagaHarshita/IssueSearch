@@ -1,0 +1,1 @@
+ URL : "https://github.com/MachoThemes/modula-lite/issues/5" TITLE : get link from image id. BODY : get the image link from image id, because after you change the site url the imagepath will not be updated.

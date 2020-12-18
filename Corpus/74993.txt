@@ -1,0 +1,3 @@
+ URL : "https://github.com/Tiny-Hands/tinyhands/issues/300" TITLE : form removal and exports BODY : story
+when a form irf or vif is deleted, the form should be removed from the google export sheets. technical
+in the vif and irf detail view's destroy function, a signal is being sent which gets used in the gs work queue but it is not being handled separately in order to actually remove the row from the sheet.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/wfi/maeden/issues/6" TITLE : error on grab w/ no item BODY : when keyboardcontroller attempts grab in cell with no items other than self , simulator gets error: grab: mygrid.cellhastool returns false for tool 'a'

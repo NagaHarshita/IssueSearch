@@ -1,0 +1,1 @@
+ URL : "https://github.com/feathersjs/feathers-demos/issues/26" TITLE : hooks for sub-apps BODY : hi, i'm using sup-apps but would like to use hooks for authentication in the main app. is there a way to do it in the same way as if the service didn't had a sup-app? using the example: https://github.com/feathersjs/feathers-demos/blob/master/examples/app-structure/sub-apps/app.js

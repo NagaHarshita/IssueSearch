@@ -1,0 +1,1 @@
+ URL : "https://github.com/bosch-ros-pkg/usb_cam/issues/64" TITLE : release for kinetic BODY : the current development version f80cff39db58a4ab884a9dad4bf4413a22555d75 is building and running successfully on ros kinetic ubuntu 16.04 . can this package be released to the official rosdistro for kinetic ? this would also solve issues 56 53 .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ezhao7/cs2340_group16/issues/79" TITLE : clean out log.d statements BODY : log.d string, string ; ^ system.out.println ; equivalent. there are a good amount of these in the code that need to be removed.

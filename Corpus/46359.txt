@@ -1,0 +1,1 @@
+ URL : "https://github.com/TJDevClub/website/issues/4" TITLE : make an archives page BODY : make an archives page with a list of all of the previous lectures, and have the read more button in the lectures section link to that page instead of the github page. styling is important! you'll probably want to use the main.css file that's already present. 20 points.

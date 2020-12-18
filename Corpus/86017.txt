@@ -1,0 +1,1 @@
+ URL : "https://github.com/bkthomps/ValleyOfDeath/issues/6" TITLE : get rid of the middle man BODY : currently, dragonfiresdk is used to convert c++ code to objective-c. however, dragonfiresdk will no longer need to be used if the code base itself is converted into objective-c.

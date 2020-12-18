@@ -1,0 +1,1 @@
+ URL : "https://github.com/buttonwoodcx/bcx-aurelia-reorderable-repeat/issues/1" TITLE : does not respond to push BODY : if an element is pushed onto the model array after initial templating nothing happens. the standard aurelia-repeat supports push, splice, pop methods and reflects them. https://github.com/aurelia/binding/issues/245

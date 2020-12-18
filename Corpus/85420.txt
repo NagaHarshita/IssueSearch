@@ -1,0 +1,1 @@
+ URL : "https://github.com/llvm-hs/llvm-hs/issues/52" TITLE : extra-libraries: tinfo, z BODY : for some reason i need this when i am compiling on debian stable. but maybe llvm-config should handle that?

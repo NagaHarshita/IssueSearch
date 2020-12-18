@@ -1,0 +1,25 @@
+ URL : "https://github.com/Zimmi48/bugzilla-test-2/issues/1627" TITLE : tactics in modules BODY : note: the issue was created automatically with bugzilla2github tool original bug id: bz 937
+date: 2005-03-17 15:57:19 +0100
+from: @ spitters
+reported version: 8.1 last updated: 2008-04-18 11:54:31 +0200 @ spitters on 2005-03-17 15:57:19 +0100 full_name: bas spitters
+version: cvs today
+os: debian
+submission from: vacuumcleaner.cs.kun.nl 131.174.33.69 there is something strange going on with the matching of unit at the bottom of
+the following file. set implicit arguments.
+module type monad.
+parameter m : set->set.
+parameter unit : forall a:set, a->m a.
+end monad. module monad_tac m:monad .
+import m.
+ltac test := match goal with | |- context unit _ => idtac yes end.
+end monad_tac. module option_monad <: monad.
+definition m := option.
+definition unit:=some.
+end option_monad. export option_monad.
+module option_tac := monad_tac option_monad.
+export option_tac. goal forall a:set, forall a:a, unit a = unit a .
+intros.
+match goal with | |- context unit _ => idtac yes end.
+test. coq cvs 17 march: user error: no matching clauses for match goal
+coq 8.0pl2 just output yes @ spitters on 2007-07-04 17:04:46 +0200 wish for a local keyword for not unfolding constants at functor application in
+coq post 8.0 version elie soubiran &lt;<elie.soubiran@gmail.com>&gt; on 2008-04-18 11:54:31 +0200 constants are not unfolded anymore at functor application unless you use the keyword inline.

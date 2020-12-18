@@ -1,0 +1,1 @@
+ URL : "https://github.com/ropenscilabs/available/issues/20" TITLE : google search ranking BODY : google doesn't provide an api for this, and has some measures in place like captcha's to prevent automated searches if it thinks you are a non-human, but we can probably open a browser window with a search query at least.

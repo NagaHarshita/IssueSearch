@@ -1,0 +1,1 @@
+ URL : "https://github.com/soravux/scoop/issues/66" TITLE : scoop memory leak 2 BODY : this is in the master branch. and is caused by an incorrect deletion from the inprogress set in the function future._delete . the future should be deleted, not its id.

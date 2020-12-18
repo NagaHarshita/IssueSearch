@@ -1,0 +1,1 @@
+ URL : "https://github.com/kucoe/kucoe/issues/14" TITLE : link based shared room BODY : as a guest user of kucoe i want have an option to create temporary room without providing email. such room will be available to anyone with a special link. room will be automatically deleted after 5 days of inactivity.

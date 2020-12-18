@@ -1,0 +1,1 @@
+ URL : "https://github.com/facebook/redex/issues/204" TITLE : document global g_redex BODY : there's no documentation that to use libredex you need to instantiated a redexcontext and set it to the global g_redex . this should at least be documented, or refactored around. at least now i can find out if i can do the thing i'm trying to do! :-

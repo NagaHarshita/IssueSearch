@@ -1,0 +1,1 @@
+ URL : "https://github.com/minibhati93/core-concepts/issues/2" TITLE : optimise the code BODY : the problem https://github.com/minibhati93/core-concepts/blob/master/data-structures/arrays/checkpair.c here is to find two elements in array a which add up to another number x. the current code takes o n2 time complexity. how can i optimize this?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/fritzing/fritzing-app/issues/3355" TITLE : files just disappear BODY : when i close out of fritzing, some files just completely vanish. currently, it's qt5svg.dll, qt5widgets.dll, git2.dll, andqt5printsupport.dll. the first few times, re-extracting the files from the .zip worked, but now the files have also vanished from the .zip.

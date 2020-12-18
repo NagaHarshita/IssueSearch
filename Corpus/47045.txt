@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/Dynamics-AX-Integration/issues/41" TITLE : no p3p policy defined BODY : getting this error: cp=\ no p3p policy defined. read the microsoft privacy statement at https://go.microsoft.com/fwlink/?linkid=271135\ any idea what this means, and how to fix it ?

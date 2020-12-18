@@ -1,0 +1,1 @@
+ URL : "https://github.com/wordpress-mobile/WordPress-Aztec-iOS/issues/404" TITLE : heading: lost content BODY : steps: 1. launch the empty editor 2. toggle h1 style 3. type heading 4. switch to html mode as a result, the following html will be onscreen: <h1>eading</h1>

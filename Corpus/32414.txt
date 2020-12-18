@@ -1,0 +1,1 @@
+ URL : "https://github.com/opensemanticsearch/open-semantic-search/issues/21" TITLE : upgrade to python 3 BODY : upgrade code and packages to python 3, to use new features and be compatible with new django developments. will solve problems with special chars in filenames while using rest-api https://github.com/opensemanticsearch/open-semantic-search-appliance/issues/4

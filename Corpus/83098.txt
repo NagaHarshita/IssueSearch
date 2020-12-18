@@ -1,0 +1,1 @@
+ URL : "https://github.com/florianbouvot/aperitif/issues/4" TITLE : browsersync reload failed BODY : reload doesn't work very well with html task. i think i need to use a function with callback for the reload, like before.

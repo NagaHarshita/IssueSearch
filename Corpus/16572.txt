@@ -1,0 +1,1 @@
+ URL : "https://github.com/jacobp100/react-server-process/issues/1" TITLE : jsx in components BODY : managed to run this successfully! however, it would be great to introduce jsx to the mix as react.createelement is just not great when things get complicated. i tried many things with no luck unfortunately.

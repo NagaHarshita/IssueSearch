@@ -1,0 +1,1 @@
+ URL : "https://github.com/olifolkerd/tabulator/issues/556" TITLE : how to sort byte BODY : hello, i would like to sort byte by scending and descending properly in tabulator.js. i receive data like 363.96 mb or 4.07 gb . i saw the issue 477 but there is no answer in it. thanks you a lot.

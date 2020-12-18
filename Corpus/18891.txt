@@ -1,0 +1,1 @@
+ URL : "https://github.com/reactopt/reactopt/issues/72" TITLE : use with electron BODY : it would be excellent if this could be used from within an electron app after reading over the docs i couldn't find a way to do this.

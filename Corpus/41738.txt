@@ -1,0 +1,1 @@
+ URL : "https://github.com/dabapps/eslint-config-dabapps/issues/33" TITLE : add failing test file BODY : create a javascript file that fails the linting to ensure the linter works correctly. split from 17

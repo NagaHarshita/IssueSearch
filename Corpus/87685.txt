@@ -1,0 +1,1 @@
+ URL : "https://github.com/bigpopakap/google-assistant-bus-times/issues/53" TITLE : make a translation module BODY : it should: - localize languages with ssml responses - handle responding with variations of the same response - maybe handle responding with increasing verbosity each time

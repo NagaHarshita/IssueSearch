@@ -1,0 +1,1 @@
+ URL : "https://github.com/acquia/acquia-sdk-php/issues/78" TITLE : upgrade to symfony 3 BODY : are you planning to upgrade this sdk to later versions eventually? i'd like to integrate this into my drd module https://www.drupal.org/project/drd which runs on drupal 8.4 and there i can't install this sdk which requires symfony ~2

@@ -1,0 +1,1 @@
+ URL : "https://github.com/leutloff/bergcms/issues/80" TITLE : pex: empty headline BODY : subject of the issue empty heading leads to an error message. >3 l your environment pex.pl, v2.13/20.04.2016 perl 5.022001 steps to reproduce enter >3 invoker make expected behaviour empty heading should be ignored. actual behaviour meaningless internal error is reported.

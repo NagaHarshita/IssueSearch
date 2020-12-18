@@ -1,0 +1,1 @@
+ URL : "https://github.com/bungle/lua-resty-route/issues/2" TITLE : what self demo BODY : route /users function self end what self functions? self :to ? self :render?

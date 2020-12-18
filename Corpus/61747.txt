@@ -1,0 +1,1 @@
+ URL : "https://github.com/phhusson/Superuser/issues/69" TITLE : bootloop on miui 7.4.27 BODY : dear, i tried installing https://superuser.phh.me/superuser-r310-beta.zip on miui 7.4.27 http://bigota.d.miui.com/7.4.27/miui_hmnote4global_7.4.27_2bf4fe8e73_6.0.zip and got the bootloop. unfortunately no logcat fresh rom . installing supersu.zip on top fixed the loop.

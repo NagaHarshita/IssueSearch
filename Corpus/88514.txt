@@ -1,0 +1,1 @@
+ URL : "https://github.com/ricky6982/tabs-js/issues/1" TITLE : nombre en tab muy extenso BODY : la cantidad de tabs determina el tamaño de cada tab y si el texto del tab es muy largo se corta y rompe el diseño. ! image https://user-images.githubusercontent.com/1660635/34085539-3dbca306-e371-11e7-8a4f-3d98dae0b6cb.png

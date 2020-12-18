@@ -1,0 +1,1 @@
+ URL : "https://github.com/SAP/techne/issues/952" TITLE : pkg: layout mixin BODY : tbd should be able to include layout into components without using the layout classes.

@@ -1,0 +1,2 @@
+ URL : "https://github.com/data61/fp-course/issues/81" TITLE : closed bind argument order BODY : <a href= https://github.com/tonymorris ><img src= https://avatars.githubusercontent.com/u/210558?v=3 align= left width= 96 height= 96 hspace= 10 ></img></a> issue by tonymorris https://github.com/tonymorris _monday sep 09, 2013 at 04:31 gmt_
+_originally opened as https://github.com/nicta/course/issues/13_ ---- the order of arguments to some of the intro data types is too apologetic. put them in the correct order.

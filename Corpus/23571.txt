@@ -1,0 +1,1 @@
+ URL : "https://github.com/xonsh/xonsh/issues/2338" TITLE : prompt update call BODY : add an api call for xontribs to force the prompt to update. use case: xontrib that automatically does things in the background on file change and updates the prompt with the results.

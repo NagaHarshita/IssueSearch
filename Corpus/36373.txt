@@ -1,0 +1,1 @@
+ URL : "https://github.com/djordon/polygon-partitioner/issues/7" TITLE : handle match warning BODY : there is a match may not be exhaustive warning issued when compiling. make it go away.

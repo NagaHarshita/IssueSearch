@@ -1,0 +1,1 @@
+ URL : "https://github.com/pygobject/pycairo/issues/66" TITLE : current stable version? BODY : based on https://github.com/pygobject/pycairo/releases i cannot tell if 1.15.0, 1.14.1, or something else besides either of them, is the current stable version. which version should be in homebrew's stable spec? thanks!

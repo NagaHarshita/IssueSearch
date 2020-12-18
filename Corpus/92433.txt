@@ -1,0 +1,1 @@
+ URL : "https://github.com/goodjoblife/WorkTimeSurvey-backend/issues/340" TITLE : workings get 進行重構 BODY : 將現階段dev/4.x的workings進行重構 ，主要有以下兩個工作。 1. 將workings.js 根據我們route結構，移置到 workings/index.js。 2. 將workings.js裡的db處理程式碼，拉置model層。

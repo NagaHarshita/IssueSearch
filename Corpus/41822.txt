@@ -1,0 +1,1 @@
+ URL : "https://github.com/cybergreen-net/stats-new/issues/262" TITLE : add links on asn page BODY : on stats.cybergreen.net/asn, there are no links associated with the country names in the first column. i think when we click on united states it should take us to http://stats.cybergreen.net/country/united-states/ right?

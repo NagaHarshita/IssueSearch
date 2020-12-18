@@ -1,0 +1,1 @@
+ URL : "https://github.com/HUB4NGI/NGI-map/issues/3" TITLE : delete an actor BODY : when users edit an existing actor via the unique link sent to them they should also be able to delete this actor after confirmation with an alert window . if they delete the actor, the database entry should be removed and their email address should be removed from the mailing list of 2 .

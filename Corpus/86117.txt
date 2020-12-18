@@ -1,0 +1,1 @@
+ URL : "https://github.com/Cognexa/cxflow-tensorflow/issues/77" TITLE : gradient clipping support BODY : basemodel._create_train_ops should be configurable to perform _gradient clipping_. this will allow us to implement and train more advanced models such as seq2seq etc.

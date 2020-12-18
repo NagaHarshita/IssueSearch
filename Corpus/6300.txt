@@ -1,0 +1,1 @@
+ URL : "https://github.com/FormidableLabs/victory/issues/738" TITLE : access to index BODY : i try to get index in x prop datum, idx => idx + 1 , but sometimes it is undefined. is it normal?

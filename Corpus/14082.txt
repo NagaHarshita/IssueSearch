@@ -1,0 +1,1 @@
+ URL : "https://github.com/soundasleep/statgit2/issues/12" TITLE : add blame metrics BODY : this was in statgit 1 and it was super useful. show who owns how much % of the codebase, who owns the most todos etc

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Tsoha/tsoha.github.io/issues/2" TITLE : virhe viikon 4 ohjeessa BODY : tämä kohta: // tämä ei toimi! : array_merge $errors, $validator_errors ; // tämä toimii : $errors = array_merge $errors, $validator_errors ; alemmalla tavalla en saanut toimimaan, se loi taulukon jonka sisällä oli taulukko. ylemmällä tavalla sen sijaan toimi.

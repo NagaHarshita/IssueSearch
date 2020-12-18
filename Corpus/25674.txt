@@ -1,0 +1,1 @@
+ URL : "https://github.com/Keypirinha/Keypirinha/issues/228" TITLE : a newline character BODY : i found that when copying a few lines with newline character , only the first appears in kp. try copy and paste in kp: line 1 line 2 line 3 i suggest that in such cases, change the to space .

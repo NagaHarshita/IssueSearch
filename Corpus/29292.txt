@@ -1,0 +1,1 @@
+ URL : "https://github.com/hmottestad/rdf4j/issues/9" TITLE : late index creation BODY : indexes could be created dynamically when needed, rather than when inserting data. this way the access patterns dictate which indexes are created. better yet would be support for partial indexes with a known lower and upper bound. eg. an index created as part of a scan query.

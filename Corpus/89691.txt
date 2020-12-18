@@ -1,0 +1,1 @@
+ URL : "https://github.com/astro4dev/toolkit_website/issues/5" TITLE : redunant dropdown results BODY : the two dropdown menus in toolkit.php work independent of each other, causing multiple results to show up. i think the code in gettopic.php has to be changed. basically the two drop downs need to be linked.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/iris-edu/pyweed/issues/30" TITLE : refactoring rm 5492 BODY : ported from redmine 5492 created 2016-12-21 closed 2017-03-02 several things needed here: - modularization too many interdependencies - decomposition lots of different pieces thrown into a few files - organization should separate out the qt uic files, for example - code style pep8 vs qt

@@ -1,0 +1,1 @@
+ URL : "https://github.com/GoogleCloudPlatform/cloud-sdk-docker/issues/76" TITLE : 'compute ssh' gives error BODY : with the latest build executing docker run -ti google/cloud-sdk:latest gcloud compute --project ... returns error error: gcloud.compute.ssh your platform does not support ssh.

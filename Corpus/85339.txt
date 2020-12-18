@@ -1,0 +1,1 @@
+ URL : "https://github.com/swarmcity/sc-terminal/issues/128" TITLE : exchange some swt for eth BODY : the user needs some ether to pay for gas. when the ether balance reaches less than 0.2 eth, the app suggests to exchange a small amount of swt for the gas.

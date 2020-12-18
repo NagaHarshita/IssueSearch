@@ -1,0 +1,1 @@
+ URL : "https://github.com/UV-CDAT/vcs/issues/277" TITLE : vcs gettextextent broken BODY : does not work if viewport or worldcoordinate are not 0,1,0,1 anything not centered/valign does not work rotation does not work

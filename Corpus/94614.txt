@@ -1,0 +1,1 @@
+ URL : "https://github.com/fahminlb33/Moviebase/issues/4" TITLE : change from winform to wpf BODY : in order to have a better user experience and more maintainable code, i think that migrating from winforms to wpf is necessary. using mvvm pattern might be a good jump for a more maintainable code and it could open more further improvement.

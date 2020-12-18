@@ -1,0 +1,1 @@
+ URL : "https://github.com/arquillian/smart-testing/issues/74" TITLE : smart testing user guide BODY : for the first release we have to provide lean user guide explaining core concepts and usage of our tool. ideally we should have it in asciidoc with similar build process to other arquillian projects.

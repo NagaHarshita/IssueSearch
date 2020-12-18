@@ -1,0 +1,1 @@
+ URL : "https://github.com/barryvdh/laravel-dompdf/issues/308" TITLE : laravel 5.4 update BODY : not able to update to 5.4 since - installation request for barryvdh/laravel-dompdf locked at v0.7.0, required as ^0.7.0 -> satisfiable by barryvdh/laravel-dompdf v0.7.0 .

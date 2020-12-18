@@ -1,0 +1,1 @@
+ URL : "https://github.com/oliver006/redis_exporter/issues/96" TITLE : where to specify flags? BODY : the readme doesn't explain where flags should be specified. i'm using docker, how can i specify flags?

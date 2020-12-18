@@ -1,0 +1,1 @@
+ URL : "https://github.com/gbrod94/f1-3-c2p1-colmar-academy/issues/1" TITLE : side scroll on mobile BODY : this padding on .text on mobile and the padding on the mobile image is what is causing that side scroll effect on mobile sized screens. https://github.com/gbrod94/f1-3-c2p1-colmar-academy/blob/master/colmar_capstone/resources/css/stylesheet.css l438

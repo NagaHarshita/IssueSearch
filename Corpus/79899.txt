@@ -1,0 +1,1 @@
+ URL : "https://github.com/nitin42/terminal-in-react/issues/44" TITLE : support debug %coloring% BODY : way to support or prevent visionmedia's debug 's %c in console output. also, report: enabled terminal-in-react broke debug log 's coloring in chromium developer tools

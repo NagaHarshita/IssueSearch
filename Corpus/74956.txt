@@ -1,0 +1,1 @@
+ URL : "https://github.com/Magestore/Bannerslider-Magento2/issues/98" TITLE : flexslider 4 not working BODY : hello, i tried use slider's mode 4 and doesnt work, in the html render well all divs with image inside and in the browser doesnt work the image appear with a size 0px x 0px. if i put size with inspector browser neither work any way, thank and regards

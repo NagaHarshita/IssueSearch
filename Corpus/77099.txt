@@ -1,0 +1,1 @@
+ URL : "https://github.com/blowfishpro/B9PartSwitch/issues/61" TITLE : mod does not load at all BODY : so i noticed that the actual mod doesn't work at all... from what i saw in the logs, despite the fact it was in the gamedata folder, it did not load at all, as if it didn't exist... ksp.log.txt https://github.com/blowfishpro/b9partswitch/files/1424722/ksp.log.txt

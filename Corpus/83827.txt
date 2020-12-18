@@ -1,0 +1,1 @@
+ URL : "https://github.com/measurement-kit/measurement-kit/issues/1428" TITLE : collect low level metrics BODY : this is about collecting low level metrics during measurements. on systems based on linux, we can for example use the tcp_info api to collect tcp level info.

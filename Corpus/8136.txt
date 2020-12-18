@@ -1,0 +1,1 @@
+ URL : "https://github.com/helix-toolkit/helix-toolkit/issues/483" TITLE : names of models BODY : hi, i'm new with helixtoolkit and i have an issue. i have a model with different small models and names on it. now i have model viewer. i want to search small models and highlight it. how to do this? i didn't found any name parameter in model3d.

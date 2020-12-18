@@ -1,0 +1,1 @@
+ URL : "https://github.com/graphql/express-graphql/issues/385" TITLE : npm deploy not working BODY : v0.6.8 deployment failed: https://travis-ci.org/graphql/express-graphql/jobs/269612343 l872 > rm -rf dist/ && babel src --ignore __tests__ --out-dir dist && npm run build:flow sh: 1: babel: not found

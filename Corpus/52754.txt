@@ -1,0 +1,1 @@
+ URL : "https://github.com/Trexsaurus/tam-bien-choir-website/issues/7" TITLE : create a contact table BODY : columns: - first_name - last_name - phone_number - phone_number_type - email_address - profile_image_url - created - updated - deleted

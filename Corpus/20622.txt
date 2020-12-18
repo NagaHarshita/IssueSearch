@@ -1,0 +1,1 @@
+ URL : "https://github.com/ltupin/kubernetes-cloudstack/issues/1" TITLE : copy ssh file fail BODY : find and fix why the copy file don't work on the first launch: ansible-playbook k8s.yml error: msg : file /root/.ssh/id_rsa_k8s is absent, cannot continue , workaround: re-launch the playbook.

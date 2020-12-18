@@ -1,0 +1,1 @@
+ URL : "https://github.com/jdgwf/battletech-tools/issues/32" TITLE : gauss weapon property BODY : when you get to it, instead of using .explosive on the gauss weaponry, use a new property called .gauss remember this property doesn't have to exist in every entry, just needs to be true or non-empty for the handful of gauss weapons this is for bv value calc . thanks!

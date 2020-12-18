@@ -1,0 +1,1 @@
+ URL : "https://github.com/swagger-api/swagger-core/issues/2161" TITLE : fix npe in composedmodel BODY : interfaces can be null in io.swagger.models.composedmodel.setinterfaces list<refmodel> . add null checks to avoid npe.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/riboseinc/rvc/issues/58" TITLE : rename 'rvcd' to 'rvd' BODY : rvd == ribose vpn daemon : @jjr840430 could you please rename rvcd to rvd in the sources and destination please? cheers

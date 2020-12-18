@@ -1,0 +1,1 @@
+ URL : "https://github.com/laravel/internals/issues/806" TITLE : collection pad method BODY : hello, it would be nice to have the php array_pad http://php.net/manual/es/function.array-pad.php equivalent for laravel collections https://laravel.com/docs/5.5/collections available-methods .

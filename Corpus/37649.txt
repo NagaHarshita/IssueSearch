@@ -1,0 +1,1 @@
+ URL : "https://github.com/sumansrid/newssite/issues/3" TITLE : missing closing tags BODY : important for errors - after line 93, you are missing a closing </div> tag. forgetting to close tags can lead to unintended results and increased time spent debugging.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/francoislaurent/syncacre/issues/16" TITLE : status message at startup BODY : at startup, syncacre is silent if no files are to be transferred. in such a situation, a status message would be helpful so that a user knows that everything is alright.

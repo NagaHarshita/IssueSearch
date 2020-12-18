@@ -1,0 +1,1 @@
+ URL : "https://github.com/StamusNetworks/KTS5/issues/4" TITLE : question about logstash BODY : hello, i'm newbie on elk but i dont have clear how i can transmit suricata logs to elasticsearch. do you use logstash? any other way? thank you

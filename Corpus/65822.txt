@@ -1,0 +1,1 @@
+ URL : "https://github.com/kiliankoe/apodidae/issues/39" TITLE : limit amount of results BODY : only show the first ~10 on searching. add a flag/message like cargo ... and 41 crates more use --limit n to see more .

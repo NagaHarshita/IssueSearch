@@ -1,0 +1,1 @@
+ URL : "https://github.com/bAndie91/logwall/issues/4" TITLE : config file inclusion BODY : new action keyword: include=user.rules – jump rule processing onto user.rules file in the same folder as the current file is include=/var/run/dynamic.logwall – absolute path

@@ -1,0 +1,5 @@
+ URL : "https://github.com/WikiSpaxe/openvtest/issues/31" TITLE : temperatur raumanzeige ? BODY : subject: temperatur raumanzeige ? from: wikiwitt <userid-16028987$openv.wikispaces> date: thu, 9 dec 2010 10:09:18 ut message-id: <31443343-31443343$openv.wikispaces> hallo bei openv,
+habe folgendes problem beim betrieb mit v-control:
+die anzeige der raumtemperatur ist nicht korrekt.
+bei tag-betrieb wird konstant der wert 5,14 und bei nachtabsenkung 2,58 angezeigt. anlage: vitodens 333-f typ ws3c mit vitotrol 300 unter folgendem link habe ich screenshots der anzeige abgelegt:
+https://www.wuala.com/wittiupload/vitodens?key=txmthpoogvoj

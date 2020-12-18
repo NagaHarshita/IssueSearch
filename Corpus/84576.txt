@@ -1,0 +1,1 @@
+ URL : "https://github.com/InFact-coop/YiMovi/issues/142" TITLE : delete package lock again BODY : because it's causing problems on heroku, let's delete the package-lock again

@@ -1,0 +1,1 @@
+ URL : "https://github.com/elementary/houston/issues/534" TITLE : rebuild old apps BODY : in the short term, if a project hasn't been released in the past month, we should automatically trigger a new build to ensure it still works. in the long term, we should only do this for apps that need it, like golang and nodejs apps.

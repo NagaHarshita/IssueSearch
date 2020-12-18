@@ -1,0 +1,1 @@
+ URL : "https://github.com/Naimikan/angular-mapboxgl-directive/issues/22" TITLE : markers with popups BODY : when i create a marker with a popup, it thorws an error: 'lnglatlike' argument must be specified as a lnglat instance, an object {lng: <lng>, lat: <lat>}, or an array of <lng>, <lat>

@@ -1,0 +1,1 @@
+ URL : "https://github.com/CCI-Tools/cate-desktop/issues/32" TITLE : 3d globe error on os x BODY : expected behavior 3d globe should work. actual behavior get error message from cesiumwidget . steps to reproduce the problem just run cate desktop, zoom in/out. specifications mac os x yosemite, 10.10.5 cate 0.9.0-dev.2

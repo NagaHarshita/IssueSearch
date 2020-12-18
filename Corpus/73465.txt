@@ -1,0 +1,1 @@
+ URL : "https://github.com/yo09975/Clue-less/issues/16" TITLE : create main gui graphics BODY : create a jpg which will be used for the main gui screen once a player has joined a game. the jpg should contain graphical representations of: 1. main game board rooms, halls, starting spots 2. message center 3. note card matrix 4. suggestion button 5. accusation button

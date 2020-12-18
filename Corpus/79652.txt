@@ -1,0 +1,11 @@
+ URL : "https://github.com/vinnyrangel/testeApi/issues/37" TITLE : spa correção de saldos BODY : motivo
+clientes abriram chamados solicitando correções de saldo. updates - chamado 1: safecon - adm.services@safecon.com.br sql
+update bankbalance set balance = 55.9 where bank_id = 7675903 and id in select id from bankbalance where bank_id = 7675903 and enddate = 'sat may 27 2017 00:00:00 gmt-0300 brt ' ;
+update bankbalance set balance = 49.5 where bank_id = 7675903 and id in select id from bankbalance where bank_id = 7675903 and enddate = 'sun may 28 2017 00:00:00 gmt-0300 brt ' ;
+update bankbalance set balance = 120 where bank_id = 7675903 and id in select id from bankbalance where bank_id = 7675903 and enddate = 'mon may 29 2017 00:00:00 gmt-0300 brt ' ; - chamado 2: coad - adm@coad.com.br sql
+update bankbalance set balance = 49.9 where bank_id = 874789 and id in select id from bankbalance where bank_id = 874789 and enddate = 'tue jun 06 2017 00:00:00 gmt-0300 brt ' ;
+update bankbalance set balance = 128 where bank_id = 874789 and id in select id from bankbalance where bank_id = 874789 and enddate = 'wed jun 07 2017 00:00:00 gmt-0300 brt ' ;
+update bankbalance set balance = 345 where bank_id = 874789 and id in select id from bankbalance where bank_id = 874789 and enddate = 'thu jun 08 2017 00:00:00 gmt-0300 brt ' ; - chamado 3: contaazul - adm@contaazul.com.br sql
+update bankbalance set balance = 320 where bank_id = 65464 and id in select id from bankbalance where bank_id = 65464 and enddate = 'fri jun 09 2017 00:00:00 gmt-0300 brt ' ;
+update bankbalance set balance = 7.9 where bank_id = 65464 and id in select id from bankbalance where bank_id = 65464 and enddate = 'mon jun 12 2017 00:00:00 gmt-0300 brt ' ;
+update bankbalance set balance = 22 where bank_id = 65464 and id in select id from bankbalance where bank_id = 65464 and enddate = 'tue jun 13 2017 00:00:00 gmt-0300 brt ' ;

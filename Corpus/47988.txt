@@ -1,0 +1,1 @@
+ URL : "https://github.com/devsummit/backend/issues/383" TITLE : redeem code too short BODY : description the current redeem code is too easily predictable, add extra length to our redeem code from 6 to 8 characters <br /> type - feature - x bug <br />

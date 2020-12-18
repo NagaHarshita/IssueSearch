@@ -1,0 +1,1 @@
+ URL : "https://github.com/franciscojavierlm/practica21-lopezmorales/issues/6" TITLE : agregar el campo servicios BODY : agregar el campo servicios tipo texto de 250 caracteres que permita capturar los servicios que cuenta cada sala. ejemplo: servicios: interconexión internet, internet2 e isdn

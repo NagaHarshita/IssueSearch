@@ -1,0 +1,1 @@
+ URL : "https://github.com/CasparCG/Server/issues/638" TITLE : disable initial media scan BODY : currently caspar will scan all media on startup which is a very bad idea when the media folder contains thousands of files. make media scanning lazy.

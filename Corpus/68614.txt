@@ -1,0 +1,1 @@
+ URL : "https://github.com/arendst/Sonoff-Tasmota/issues/1056" TITLE : second flash fried. wtf BODY : i just fried my second flash chip trying to flash a sonoff unit. first was a dual unit and now my 10a th unit. prob not the place to ask but what the hell. ttl-232r-3v3. is it using 5v0 signaling???!? why do i keep cooking these chips? also, can i solderer and jtag a new one?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/simnalamburt/vim-mundo/issues/53" TITLE : disable gundo deprecation BODY : what about people making the transition? seems wrong that a plugin invalidates other. is gundo incompatible with mundo in some way. if not you should about nasty things like disable other plugin

@@ -1,0 +1,1 @@
+ URL : "https://github.com/wheybags/freeablo/issues/329" TITLE : implement save files BODY : let's start work on the file format that diablo 1 uses so that we at least have the file head and the immediate character body able to be loaded in. this is more of a self assign thing, but i think this would be a great addition to carry on more of the building up of stats and menus.

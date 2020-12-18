@@ -1,0 +1,1 @@
+ URL : "https://github.com/resin-os/resin-up-board/issues/26" TITLE : no gpu acceleration BODY : the latest 2.2.0+rev1 does not seem to have gpu acceleration. as tested by @curcuz, every gpu flag is disabled and no hw acceleration is detected by chromium.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/sstone0/bwa-u3-jammming-prj/issues/1" TITLE : subtle: code alignment BODY : https://github.com/sstone0/bwa-u3-jammming-prj/blob/master/jammming/src/components/app/app.js l36-l41 be careful that all your functions are consistently aligned; this one should match up with the rest.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/renskiy/fabricio/issues/127" TITLE : docker stacks support BODY : it would be very useful to add support of docker stacks https://docs.docker.com/get-started/part5/ . this also will add support of docker compose to fabricio.

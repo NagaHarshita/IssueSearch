@@ -1,0 +1,1 @@
+ URL : "https://github.com/pypa/pypi-legacy/issues/711" TITLE : built-in functions max bug BODY : >>> l = 4 , 2 , 3 , 111 >>> print max l 得到的结果是：4

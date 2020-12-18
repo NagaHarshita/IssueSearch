@@ -1,0 +1,1 @@
+ URL : "https://github.com/mvantellingen/python-zeep/issues/445" TITLE : using zeep without lxml BODY : hi, i'm looking to build a few aws lambda functions that use zeep and act as a sort of rest<->soap gateway. zeep relies on lxml, which requires native code extensions, which are troublesome to use with lambda. is it possible to use zeep without lxml?

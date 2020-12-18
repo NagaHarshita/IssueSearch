@@ -1,0 +1,1 @@
+ URL : "https://github.com/zenofewords/zenofewords/issues/12" TITLE : add premapped se/nve BODY : - determine each moves se/nve, store as strings in a dedicated table, mtm to move - determine se/nve considering pokemon type s and store as strings in a dedicated table, mtm to pokemon

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Tinysymphony/react-native-drawer-menu/issues/19" TITLE : drawer ref is undefined BODY : i need to send drawer ref as props, unfortunately setting ref to variable is async it will be assigned after completion of component render. how can i send drawer ref as props?

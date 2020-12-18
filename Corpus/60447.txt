@@ -1,0 +1,1 @@
+ URL : "https://github.com/dghubble/oauth1/issues/19" TITLE : 2-legged oauth1 support BODY : should there be a way to do two-legged oauth1 ? looking at the fork network, it seems at least one person needed such a feature: https://github.com/athornz/oauth1/commit/cdb32072051dc45f6b4754d0d685a81aaf8d45da hi @athornz what do you think ?

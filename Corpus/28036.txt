@@ -1,0 +1,1 @@
+ URL : "https://github.com/hoschi/postcss-load-config-issue-73-config/issues/1" TITLE : export a function : BODY : diff - module.exports = { + module.exports = => { plugins: prefixer , - }; + } ;

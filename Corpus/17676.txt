@@ -1,0 +1,1 @@
+ URL : "https://github.com/YvesR/mod_authn_ntlm/issues/25" TITLE : readme file typos BODY : in the read me there is loadmodule ldap_module modules/mod_ldap.s loadmodule rewrite_module modules/mod_rewrite.s each time the file extension is ,so not only ,s

@@ -1,0 +1,1 @@
+ URL : "https://github.com/raulmur/ORB_SLAM2/issues/262" TITLE : the camera's trajectory BODY : when the handheld camera movement, the camera's trajectory is easy to stick together.then the rotating in one spot.how should solve?

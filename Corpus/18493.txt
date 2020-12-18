@@ -1,0 +1,1 @@
+ URL : "https://github.com/landscapeio/pylint-django/issues/107" TITLE : tests not running BODY : since https://github.com/pycqa/pylint/commit/2fa1375777a1314051ae5f7945ef4e189f30a5e4 diff-08a33e30cbe1275c00410d2ae41028e1 removed make_tests in pylint.testutils, the tests don't run anymore.

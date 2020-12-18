@@ -1,0 +1,1 @@
+ URL : "https://github.com/joewalnes/websocketd/issues/280" TITLE : wrong binary for arm64 BODY : the websocketd-0.2.12 release download for arm64 platform contains the binary for x86-64 instead.

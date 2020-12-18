@@ -1,0 +1,1 @@
+ URL : "https://github.com/livejs/REanalyserNode/issues/1" TITLE : refactor into module BODY : right now we only have a single function that doesn't work on it's own. it would be perfect to refactor it: module so that it can be installed via npm parameters

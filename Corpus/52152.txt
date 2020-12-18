@@ -1,0 +1,1 @@
+ URL : "https://github.com/bradmartin/nativescript-videoplayer/issues/63" TITLE : cannot open local file BODY : i download a file, and save it in the path '/users/wos/library/developer/coresimulator/devices/f5c257d2-62f8-4e14-bc43-5bd659f501a8/data/containers/data/application/90044531-7176-439e-aa88-768721406a9a/documents/burpees.mp4'. the videoplayer can not play this.

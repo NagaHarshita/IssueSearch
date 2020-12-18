@@ -1,0 +1,1 @@
+ URL : "https://github.com/EDMdesigner/knobjs/issues/130" TITLE : knob tabs bug BODY : tabs cannot take vm properties as label parameters. <knob-tab params= label: 'overview' > works <knob-tab params= label: labels.overview > throws error

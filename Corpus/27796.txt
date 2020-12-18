@@ -1,0 +1,13 @@
+ URL : "https://github.com/xbmc-catchuptv-au/plugin.video.sbs/issues/710" TITLE : end-user bug report BODY : automatic bug report from end-user. environment plugin name: sbs on demand plugin id: plugin.video.sbs plugin version: 1.1.0 xbmc/kodi version: 15.2 git:02e7013 python version: 2.7.3 default, feb 29 2016, 21:17:05 gcc 4.9.3 operating system: linux2 linux 4.1.18 armv7l ip address: 121.45.207.40 ppp121-45-207-40.lns20.cbr1.internode.on.net isp : iinet limited python path: /storage/.kodi/addons/plugin.video.sbs
+/storage/.kodi/addons/script.common.plugin.cache/lib
+/storage/.kodi/addons/script.module.beautifulsoup/lib
+/usr/lib/python27.zip
+/usr/lib/python2.7
+/usr/lib/python2.7/plat-linux2
+/usr/lib/python2.7/lib-tk
+/usr/lib/python2.7/lib-old
+/usr/lib/python2.7/lib-dynload
+/usr/lib/python2.7/site-packages
+/usr/lib/python2.7/site-packages/gtk-2.0
+/storage/.kodi/addons/plugin.video.sbs/resources/lib traceback traceback most recent call last : file /storage/.kodi/addons/plugin.video.sbs/resources/lib/play.py , line 43, in play stream_url = comm.get_stream p.id file /storage/.kodi/addons/plugin.video.sbs/resources/lib/comm.py , line 277, in get_stream resp = fetch_protected_url config.stream_url % program_id file /storage/.kodi/addons/plugin.video.sbs/resources/lib/comm.py , line 110, in fetch_protected_url return fetch_url url, headers file /storage/.kodi/addons/plugin.video.sbs/resources/lib/comm.py , line 77, in fetch_url raise fail_exception
+httperror: http error 400: bad request full log https://gist.github.com/2af5293e8e47c685c0764f45f488604c

@@ -1,0 +1,1 @@
+ URL : "https://github.com/dillonkearns/elm-electron-starter/issues/1" TITLE : chrome devtools support BODY : it would be nice if this template is ready to be used from devtools. if i open devtools, sources' shows only index.html'. i suppose, by using source maps, .elm files and corresponding .js files are recognized by devtools.

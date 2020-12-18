@@ -1,0 +1,1 @@
+ URL : "https://github.com/whatthedrunk/allthemods/issues/420" TITLE : scripts serverstart.sh BODY : if the server crashes the script presents the user with > server will restart in ~10 seconds. no input needed... restart now y or exit to shell n ? n ping to google dns successfull ping to l4 successfull rebooting now! pressing n has no effect and the server restarts anyway

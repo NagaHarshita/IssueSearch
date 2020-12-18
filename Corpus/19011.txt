@@ -1,0 +1,1 @@
+ URL : "https://github.com/reimertz/wcal/issues/2" TITLE : wcal help command BODY : hello! i found one minor bug on wcal help command output. this command wcal <int:month> <int:year> show wcal not works. the correct command is wcal list <int:month> <int:year> works fine. regards,

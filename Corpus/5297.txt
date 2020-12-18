@@ -1,0 +1,1 @@
+ URL : "https://github.com/kodnaplakal/psutil.cr/issues/2" TITLE : need better ci BODY : i think need better ci with different linux distr and architectures. - centos - debian - redhat - archlinux

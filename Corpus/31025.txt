@@ -1,0 +1,1 @@
+ URL : "https://github.com/violentmonkey/violentmonkey/issues/304" TITLE : require local files BODY : can i load local files? if i can what should i do for it. because by default, this line does nothing // @require file:///home/username/script.js

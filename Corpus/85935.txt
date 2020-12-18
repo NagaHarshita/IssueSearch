@@ -1,0 +1,1 @@
+ URL : "https://github.com/bitnami/sealed-secrets/issues/45" TITLE : gcp auth provider missing BODY : @santinoncs reports: $ kubeseal <mysecret.json >mysealedsecret.json panic: no auth provider found for name gcp

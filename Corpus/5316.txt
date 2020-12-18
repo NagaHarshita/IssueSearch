@@ -1,0 +1,1 @@
+ URL : "https://github.com/roxma/nvim-completion-manager/issues/49" TITLE : new line issue BODY : when i wanted to add a newline i have to press enter twice, first is to exit the suggestion window, the next one is to enter a new line, how do i prevent this from happening?

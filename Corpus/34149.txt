@@ -1,0 +1,1 @@
+ URL : "https://github.com/foreverYoungGitHub/MTCNN/issues/37" TITLE : bulk detect version? BODY : mtcnn detect slow in mobile device, only cpu, 720p image avg 500ms samsung s7 edge maybe we cant implements a bulk version, it can be more faster ?

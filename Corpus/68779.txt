@@ -1,0 +1,1 @@
+ URL : "https://github.com/Engelberg/instaparse/issues/161" TITLE : should throw exception? BODY : hi - i noticed that when there is a parse failure instaparse returns an instance of instaparse.gll.failure instead of throwing an exception. it seems it would be easier to process errors if they resulted in a normal exception subclass. is this not something you wish to use? alan

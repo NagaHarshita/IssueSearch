@@ -1,0 +1,1 @@
+ URL : "https://github.com/backdrop-contrib/oembed/issues/2" TITLE : possible namespace issue. BODY : hey @bwpanda, if this is not a straight port of https://www.drupal.org/project/oembed to backdrop, then this will most likely cause namespace issues when/if people decide to actually port the d7 module over to backdrop. care to clarify please? thanks

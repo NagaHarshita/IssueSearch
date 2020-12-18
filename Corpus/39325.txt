@@ -1,0 +1,1 @@
+ URL : "https://github.com/duvaljd/SI507-F17-FinalProject/issues/12" TITLE : scrape data for sets BODY : http://wiki.dominionstrategy.com/index.php/sets follow link for each item in releases section on set page, get type, number of cards, themes, release date, cover artists, link to rulebook, description

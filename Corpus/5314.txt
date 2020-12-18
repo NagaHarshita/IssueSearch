@@ -1,0 +1,1 @@
+ URL : "https://github.com/googlei18n/libphonenumber/issues/1761" TITLE : new lao format BODY : we had complaints from a customer that claims he has the number: +856 20 52\d{6} current metadata doesn't allow this. could someone please add this valid number pattern to lao?

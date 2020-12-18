@@ -1,0 +1,1 @@
+ URL : "https://github.com/ciena-blueplanet/pr-bumper/issues/83" TITLE : next major release BODY : a place to collect what we'd like to include in the next major release of pr-bumper breaking changes please include links to individual issues we'd like to include, specifically the breaking changes, since any minor/patch changes don't have to go into the major bump.

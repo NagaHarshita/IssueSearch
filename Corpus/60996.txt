@@ -1,0 +1,1 @@
+ URL : "https://github.com/archilogic-com/aframe-gblock/issues/5" TITLE : add support for gltf v2 BODY : older models originally from vr.google.com domain use gtlf v1 while newer models on poly.google.com use gltf v2 issue: a-frame lib from v7 on supports only gltf v2. solution: 1. load gtlf file 2. check glf version 3. if required load legacy loader for gltf v1

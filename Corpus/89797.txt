@@ -1,0 +1,1 @@
+ URL : "https://github.com/FormidableLabs/victory/issues/592" TITLE : remove data size warnings BODY : users are annoyed by this is an empty dataset and victoryline needs at least two data points to render etc. these seem to be more annoying than helpful, and they should be removed.

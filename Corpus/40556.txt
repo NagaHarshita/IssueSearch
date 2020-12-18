@@ -1,0 +1,1 @@
+ URL : "https://github.com/smooch/react-native-smooch/issues/29" TITLE : update ios to v5 sdk BODY : right now the podspec file limits to v4 of the smooch ios sdk: s.dependency 'smooch', '~> 4.0' ...while the sdk is as of this writing on version 5.8.1. what would it take to update this to use the latest sdk?

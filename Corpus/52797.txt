@@ -1,0 +1,8 @@
+ URL : "https://github.com/thektan/taste/issues/10" TITLE : create base components BODY : components: - icon
+- button
+- avatar
+- placecard
+- input
+- form
+- pagination
+- searchinput

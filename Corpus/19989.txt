@@ -1,0 +1,1 @@
+ URL : "https://github.com/OKTOTV/FLUX2/issues/383" TITLE : autor in blogposts BODY : snippetblog.html.twig: hier müsste man in der zeile 33 den autor auslesen. das ist leider ein muss von google. kann man den poster dort auslesen lassen? bzw. den user der das eingetragen hat.

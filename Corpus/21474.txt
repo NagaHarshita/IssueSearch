@@ -1,0 +1,1 @@
+ URL : "https://github.com/jonathanrz/myexpenses-android/issues/253" TITLE : fix account screen BODY : showing transactions of two has being causing a lot of problems. a better approach is to show only the current month transactions and fix the balance.

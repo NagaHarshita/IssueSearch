@@ -1,0 +1,1 @@
+ URL : "https://github.com/mcderdav/CMPEN-275-Final/issues/3" TITLE : c interface for rs232c BODY : project created as c serial, currently can write strings to serial but cannot do anything else. next is to read from serial, and configure ports

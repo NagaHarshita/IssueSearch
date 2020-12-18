@@ -1,0 +1,1 @@
+ URL : "https://github.com/jovanni-hernandez/petrichor-dashboard/issues/3" TITLE : implement dynamic layout BODY : instead of always statically defining how widgets will be arranged on the dashboard, support an option that will utilize their minimum sizes to determine an optimal layout.

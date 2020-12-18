@@ -1,0 +1,1 @@
+ URL : "https://github.com/paul-buerkner/brms/issues/233" TITLE : pp_check for sn model BODY : error in qskew_normal c 0.78334285897678, 0.929325148078576, 0.964127189825317, : could not find function qskew_normal currently running a truncated regression model y | trunc 1,7 ~ predictors , and pp_check gives the above error.

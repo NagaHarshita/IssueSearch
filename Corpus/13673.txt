@@ -1,0 +1,1 @@
+ URL : "https://github.com/ergonomica/ergonomica/issues/46" TITLE : windows 10 error BODY : >no module named '_curses' after installation windows 10 bash - works well after linux way of installation. but the native support will be perfect.

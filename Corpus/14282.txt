@@ -1,0 +1,1 @@
+ URL : "https://github.com/Mailu/Mailu/issues/348" TITLE : add relay servers BODY : there should be the possibility to add server ips for relaying. those ips should be not checked against spf, spam, uribl etc. and all mails should be relayed. this is usefull for acting as a smarthost for other servers.

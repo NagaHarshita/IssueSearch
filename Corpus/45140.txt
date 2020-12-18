@@ -1,0 +1,1 @@
+ URL : "https://github.com/pbnl/ScoTooBo/issues/44" TITLE : hardcoded stamm names BODY : the stamm names should be dynamic. aka usercontroller->adduser see todo possible solutions: - config-datei - datenbank - mit hilfe des ldap auslesen but first we have to discuss which solution is the best.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/epics-base/website/issues/3" TITLE : switch site to https BODY : testsite.epics7.org only works through unsecure http and doesn't answer to https requests. instead, http requests should be forwarded to the appropriate https url.

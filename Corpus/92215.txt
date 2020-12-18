@@ -1,0 +1,1 @@
+ URL : "https://github.com/vtl-sdmx-task-force/sdmx-vtl/issues/97" TITLE : vtl code - paste function BODY : reporter issue reference|document um/rm/ebnf |page|line :--|:--|--:|--: sn-9|um|83-84|2850 - 2853 - 2856 issue description the vtl code uses the function “paste” which is not defined anywhere. proposed solution document paste function or replace with documented function.

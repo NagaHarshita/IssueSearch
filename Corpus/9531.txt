@@ -1,0 +1,1 @@
+ URL : "https://github.com/eclipse/january/issues/145" TITLE : & and && problem BODY : in some examples like numpy, the system.out.println display sometimes & and sometimes &&

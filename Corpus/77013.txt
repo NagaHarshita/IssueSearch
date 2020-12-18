@@ -1,0 +1,1 @@
+ URL : "https://github.com/micrometer-metrics/micrometer/issues/61" TITLE : min and max request time BODY : hi, is is currently possible to capture the minimum and maximum request time for an endpoint with @timed? if not, does it make sense to implement something like this? thanks

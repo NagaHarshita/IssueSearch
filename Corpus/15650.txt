@@ -1,0 +1,1 @@
+ URL : "https://github.com/UB-Mannheim/zotkat/issues/48" TITLE : fails to add date BODY : the addition of dates fails, as the quotation marks are not needed. instead of for example : last	p577 +2008-09-08t00:00:00z/11 please use: last	p577	+2008-09-08t00:00:00z/11 without quotation marks.

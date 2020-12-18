@@ -1,0 +1,1 @@
+ URL : "https://github.com/safenetwork/safenetwork/issues/9" TITLE : safe app libs for clojure BODY : it'd be awesome if we had client libraries to make it easy for people to build apps with clojure. take some inspiration from the node javascript safe app libraries https://github.com/maidsafe/safe_app_nodejs .

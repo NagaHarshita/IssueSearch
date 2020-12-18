@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla-lockbox/lockbox-datastore/issues/16" TITLE : support two-stage delete BODY : 1. support a disabled state for items 2. provide a purge operation disabled items are: not included in list by default ignored when searching searching tbd

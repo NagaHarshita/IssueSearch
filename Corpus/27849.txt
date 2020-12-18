@@ -1,0 +1,1 @@
+ URL : "https://github.com/schuhbacca/Game/issues/2" TITLE : enemy state machine BODY : create a state machine for the blue enemy to detect when it is falling. possibly include this in the red enemy?

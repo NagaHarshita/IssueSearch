@@ -1,0 +1,1 @@
+ URL : "https://github.com/DanielPollithy/TransliterationApplication/issues/17" TITLE : heatmap by query BODY : 1. select tokens by cypher query build that query in the neo4j console 2. normalize the positions of the tokens 3. display a heatmap using d3.js

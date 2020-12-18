@@ -1,0 +1,1 @@
+ URL : "https://github.com/SanderBouwman/ConstructAndDestroy/issues/68" TITLE : spawning new units BODY : - units take time to spawn, should be visualized in the building panel - building units take resources

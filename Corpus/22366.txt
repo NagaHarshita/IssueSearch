@@ -1,0 +1,1 @@
+ URL : "https://github.com/lnoor/sphinx-jsonschema/issues/8" TITLE : keep keys in order BODY : use an ordereddict when decoding json so that the keys are maintained in the order the appear in the json file.

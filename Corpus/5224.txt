@@ -1,0 +1,1 @@
+ URL : "https://github.com/mapbox/missed-issues/issues/4" TITLE : missing dotenv BODY : when trying missed-issues i'm getting this error bash $ npm install -g @mapbox/missed-issues $ npm link @mapbox/missed-issues $ missed-issues module.js:471 throw err; ^ error: cannot find module 'dotenv' fix - add dotenv to package.json

@@ -1,0 +1,1 @@
+ URL : "https://github.com/kamilsk/semaphore/issues/59" TITLE : add fix util BODY : $ go get bitbucket.org/kamilsk/semaphore package bitbucket.org/kamilsk/semaphore: code in directory $gopath/src/bitbucket.org/kamilsk/semaphore expects import github.com/kamilsk/semaphore

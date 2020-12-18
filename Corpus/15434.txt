@@ -1,0 +1,1 @@
+ URL : "https://github.com/qinwf/jiebaR/issues/59" TITLE : doubt on idf_dict BODY : @qinwf hi,xuefeng, in my mind, $$tf-idf= \frac{\frac{length wordsingroup}{length unique wordsingroup }}{\frac{log length docs }{length involveddoc }}$$ why not u use this method but idf.dict to find keywords ?

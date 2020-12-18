@@ -1,0 +1,1 @@
+ URL : "https://github.com/PathagarBooks/pathagar/issues/79" TITLE : upgrade to django 1.8 lts BODY : we're currently on 1.4.5 which is pretty old. documentation for this version isn't even available on the official django site. 1.10.x is the current version but 1.8 is considered the long term support version so i suggest moving to 1.8.

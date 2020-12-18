@@ -1,0 +1,1 @@
+ URL : "https://github.com/Robbatron/drag-relative-path/issues/4" TITLE : drag to other than html BODY : can you modify this so that it will drag to css, sass, pug jade files as well? is it possible also to allow selection of multiple files from the file tree and drag them all at once? that would be rad.

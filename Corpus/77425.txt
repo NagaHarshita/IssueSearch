@@ -1,0 +1,1 @@
+ URL : "https://github.com/brunofvalli/NewGuidVSExtension/issues/1" TITLE : need support for vs 2017 BODY : installed product versions attempting vs 2017 description this is not working with the latest version of vs 2017 steps to recreate 1. try to install on vs 2017 current behavior does not install expected behavior should be able to install this on vs 2017

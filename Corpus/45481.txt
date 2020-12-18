@@ -1,0 +1,1 @@
+ URL : "https://github.com/dotansimha/graphql-code-generator/issues/174" TITLE : ignore commented code BODY : currently when a string with the gql tag exists but is commented, there will be an exception: { graphqlerror: syntax error ./xxxx/container-component.tsx 2:1 cannot parse the unexpected character / . 1: 2: // query overviewquery { ^ 3: //

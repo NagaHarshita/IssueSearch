@@ -1,0 +1,1 @@
+ URL : "https://github.com/VCVRack/Rack/issues/519" TITLE : feature request cv to midi BODY : it will be interesting to get cv to midi module in the core package. lots of hardware semi modular synths are also working with midi and it is far easier than cv/gate from an audio interface. be able to send at least note and gate on a given midi device should be very handy.

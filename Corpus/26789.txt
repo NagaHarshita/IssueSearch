@@ -1,0 +1,1 @@
+ URL : "https://github.com/rmccue/Requests/issues/290" TITLE : can't post raw data BODY : in documentation it states that you can pass a string instead of array to post raw data, but it doesn't work. passing array works fine but passing a string results in many errors.

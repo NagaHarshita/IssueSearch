@@ -1,0 +1,1 @@
+ URL : "https://github.com/DataDog/heroku-buildpack-datadog/issues/19" TITLE : python path conflicts BODY : there's currently an issue when running python apps and the new buildpack where your app may fail to load modules because it will look in the datadog agent's embedded version of python.

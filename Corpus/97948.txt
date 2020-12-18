@@ -1,0 +1,1 @@
+ URL : "https://github.com/IgniteUI/help-topics/issues/337" TITLE : igupload - broken api link BODY : go here https://staging.igniteui.local/help/16.2/igupload-using-server-side-events open the link to addstartinguploadeventhandler this link is opened, which is broken https://staging.igniteui.local/help/16.2/infragistics.infragistics.web.mvc~addstartinguploadeventhandler

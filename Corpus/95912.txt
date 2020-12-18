@@ -1,0 +1,1 @@
+ URL : "https://github.com/google/automation-inspector/issues/15" TITLE : does not walk into iframes BODY : steps: 1. open a document with an iframe 2. inspect notice that the contents of the iframe are not shown in the inspector tree view.

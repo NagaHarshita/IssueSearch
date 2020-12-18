@@ -1,0 +1,1 @@
+ URL : "https://github.com/multiarch/fedora/issues/2" TITLE : not pushed to docker hub BODY : it looks like the current configurations are no longer being pushed to docker hub: https://hub.docker.com/r/multiarch/fedora/tags/

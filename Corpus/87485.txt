@@ -1,0 +1,1 @@
+ URL : "https://github.com/cynthia/pyflann3/issues/6" TITLE : linux build doesn't work. BODY : seems like some messed up intel library dependency i missed.

@@ -1,0 +1,5 @@
+ URL : "https://github.com/NSI-IT/ATG/issues/60" TITLE : admin - view last record BODY : as an admin user, i can see all the records of the trailer from ingate to outgate so that i can see the in time and out time of the trailer at various points within the yard. acceptance criteria verify that admin user is getting a search bar to enter the trailer number to view it's details. verify that admin user is getting is following details about the trailer: >- trailer number >- ingate date/time/user >- ingate truck number
+>- ingate truck company
+>- outgate date/time/user >- outgate truck number
+>- outgate truck company
+>- status >- date/time/user >- location >- date/time/user >- shunt pending >- date/time/user >- shunt confirmed >- date/time/user >- trip number >- date/time/user >- seal number >- date/time/user >- notes >- date/time/user

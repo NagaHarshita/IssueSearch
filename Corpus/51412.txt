@@ -1,0 +1,1 @@
+ URL : "https://github.com/jwilder/nginx-proxy/issues/886" TITLE : allow upstream options BODY : in some scenarios, upstream options are needed, like when you have to always route the same user to the same host, like socketio with ip_hash .

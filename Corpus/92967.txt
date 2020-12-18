@@ -1,0 +1,1 @@
+ URL : "https://github.com/KazuCocoa/ex_parameterized/issues/14" TITLE : add a describe_with_params BODY : there would be useful to parameterise many tests at once. described_with_params would reduce the amount of boilerplate required to use

@@ -1,0 +1,1 @@
+ URL : "https://github.com/koajs/send/issues/81" TITLE : trailing slash redirect BODY : there should be a way to redirect foo/bar requests to foo/bar/ path to proper relative links handling. example: <img src='hello.png' /> placed in bar won't load when you open foo/bar .

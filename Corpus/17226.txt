@@ -1,0 +1,1 @@
+ URL : "https://github.com/nztim/logger/issues/2" TITLE : non static method BODY : now im getting this: non-static method nztim\\logger\\logger::info should not be called statically

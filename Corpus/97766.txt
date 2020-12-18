@@ -1,0 +1,1 @@
+ URL : "https://github.com/fancyapps/fancybox/issues/1423" TITLE : how to ignore mouse slide? BODY : i use latest fancybox with image slider/carousel when user slides the image fancybox catch a click and opens how can i catch only single clicks with fancybox and ignore clicks with slides?

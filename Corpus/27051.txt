@@ -1,0 +1,1 @@
+ URL : "https://github.com/lob/instagram-postcard/issues/2" TITLE : code does not work. BODY : hello i have been trying to work on this example but it can not create a postcard when create potcard button is pressed. it shows error 422 back is required in the dashboard api logs. please help solving this issue.

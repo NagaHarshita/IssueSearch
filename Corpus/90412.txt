@@ -1,0 +1,1 @@
+ URL : "https://github.com/Shagbark/jteam-erp/issues/1" TITLE : setup the project context BODY : 1. create basic configuration for maven, spring, hibernate. 2. add jetty plugins. 3. add ci

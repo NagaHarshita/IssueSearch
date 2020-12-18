@@ -1,0 +1,1 @@
+ URL : "https://github.com/StanfordAHA/CGRAFlow/issues/2" TITLE : remove travis-timer hack BODY : filing an issue on myself - i will get rid of my timer and bypass hacks in favor of a cleaner travis script also i think the existing script is sufficiently agile that i don't need it anymore anyway which is the preferred solution .

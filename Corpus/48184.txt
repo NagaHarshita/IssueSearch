@@ -1,0 +1,1 @@
+ URL : "https://github.com/NUFC16/django-schedule/issues/21" TITLE : render slobodnog dana BODY : ako slobodni dan ne prikažemo u rasporedu onda neće postojati način da se radnici mijenjaju za slobodne dane. riješenje koje se nameće je postavljanje all-day eventa koji ima opis slobodan dan

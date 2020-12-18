@@ -1,0 +1,1 @@
+ URL : "https://github.com/infolk11/btw17/issues/33" TITLE : using sql variables in qt BODY : using sql variables in qt should be quite simple. https://doc.qt.io/qt-5/qsqlquery.html bindvalue

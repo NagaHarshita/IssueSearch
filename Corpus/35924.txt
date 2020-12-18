@@ -1,0 +1,1 @@
+ URL : "https://github.com/LeagueSandbox/GameServer/issues/491" TITLE : fix formating issues BODY : big number of methods don't follow formating guidelines. example: public virtual void update float diff { move diff ; }

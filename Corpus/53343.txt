@@ -1,0 +1,1 @@
+ URL : "https://github.com/rfit/jumbotron-ci/issues/1" TITLE : docker on circleci 2.0 BODY : current implementation of build-and-push doesn't work with the recommended docker integration. docker isn't available from the node environment.

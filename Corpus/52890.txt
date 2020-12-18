@@ -1,0 +1,1 @@
+ URL : "https://github.com/CtrlGames/Wake/issues/5" TITLE : create the help dialog BODY : create the help dialog, including a button in the header and a global command to open it. it should pop open an over-layed card with some basic information about how to interact with the world.

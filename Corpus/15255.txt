@@ -1,0 +1,1 @@
+ URL : "https://github.com/eclipsesource/J2V8/issues/342" TITLE : cut a new release BODY : with the isolate fixes and the new build system, we should cut a new j2v8 release. some questions: 1. what version of node / v8 should we use 2. what platforms should we release for i have access to appveyor for windows builds 3. what version should j2v8 be. cc: @matiwinnetou @drywolf

@@ -1,0 +1,1 @@
+ URL : "https://github.com/vuil/harbor/issues/69" TITLE : notary/clair deep dive BODY : deep dive into upstream code, in particular the notary/clair features. investigate into the impact of supporting them in pc

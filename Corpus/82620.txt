@@ -1,0 +1,1 @@
+ URL : "https://github.com/exadra37-bash/package-manager/issues/12" TITLE : allow to run it from path BODY : instead of relying on an alias to run bash package manager we should add it to our path /home/$user/bin .

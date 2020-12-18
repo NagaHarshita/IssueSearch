@@ -1,0 +1,1 @@
+ URL : "https://github.com/codemirror/CodeMirror/issues/4886" TITLE : mode/meta.js missing modes BODY : handlebars and yaml-frontmatter are missing in codemirror.modeinfo .

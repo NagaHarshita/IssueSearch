@@ -1,0 +1,1 @@
+ URL : "https://github.com/otavanopisto/muikku/issues/3312" TITLE : mathjax cdn retired error BODY : going to workspace front page we get the following message in browser console chrome . warning: cdn.mathjax.org has been retired. check https://www.mathjax.org/cdn-shutting-down/ for migration tips.

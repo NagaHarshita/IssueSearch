@@ -1,0 +1,1 @@
+ URL : "https://github.com/zrrrzzt/tfk-api-unoconv/issues/42" TITLE : preserve hapi server log BODY : for debug where the file could not be converted & return shell { statuscode :500, error : internal server error , message : an internal server error occurred }

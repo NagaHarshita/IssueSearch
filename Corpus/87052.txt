@@ -1,0 +1,1 @@
+ URL : "https://github.com/leonardvandriel/Tosti/issues/9" TITLE : interpretation of classes BODY : i have observed the tosti interprets the code as a global scope. how do i declare and define classes and methods i want to be interpreted?

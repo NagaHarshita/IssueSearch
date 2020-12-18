@@ -1,0 +1,1 @@
+ URL : "https://github.com/flarum/core/issues/1203" TITLE : design issue on 4k screens BODY : hey, there is an issue on the responsive design for 4k screens. i'm attaching a screenshot from your demo, to make sure it wasn't our css messing it up. thanks, ! flarum https://user-images.githubusercontent.com/14328642/27706865-d4fbfc84-5d30-11e7-9e5f-c20b8614e40c.png

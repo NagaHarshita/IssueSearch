@@ -1,0 +1,1 @@
+ URL : "https://github.com/jmurphyau/ember-truth-helpers/issues/62" TITLE : add npm owner? BODY : @jmurphyau - a while back you gave me access to help maintain this addon, but it looks like we forgot to add me to npm. can you run the following: npm owner add rwjblue ember-truth-helpers thanks!

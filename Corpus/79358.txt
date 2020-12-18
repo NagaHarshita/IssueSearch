@@ -1,0 +1,1 @@
+ URL : "https://github.com/ioos/catalog/issues/22" TITLE : service monitor sync bug BODY : for example, gcoos has a large inconsistency between the sos services published in ckan and the services shown in ckan. https://monitor.ioos.us/services/filter/gcoos/sos https://data.ioos.us/organization/81073df6-f052-491a-b68e-ea76f6591389?res_format=sos

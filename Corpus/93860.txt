@@ -1,0 +1,1 @@
+ URL : "https://github.com/platformio/platformio-atom-ide-terminal/issues/288" TITLE : at-symbol @ not recognized BODY : if i open cmd.exe i can use the at-sign, which is alt+q on my german keyboard. once i start up cmder as explained in issue 272, alt+q does not produce any output, while for example alt+0 still produces a }. if i open cmder standalone, i do not have this issue.

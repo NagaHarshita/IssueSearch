@@ -1,0 +1,1 @@
+ URL : "https://github.com/firebase/firebase-jobdispatcher-android/issues/143" TITLE : lifecycle aware jobservice BODY : i'm using jobservice where i want to use my viewmodel from the android architecture components library. that means the jobservice needs to be lifecycleowner . i hoping to have an lifecyclejobservice or how can one write their own?

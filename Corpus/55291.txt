@@ -1,0 +1,1 @@
+ URL : "https://github.com/xda/XDA-Labs-Store-UI/issues/14" TITLE : index tweaks and fixes BODY : - title to align with top of icon - allocate a minimum 2 lines for title to keep each card consistent - enforce maximum 2 lines for categories

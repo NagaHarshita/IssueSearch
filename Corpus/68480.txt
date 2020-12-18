@@ -1,0 +1,1 @@
+ URL : "https://github.com/bridgedotnet/Bridge/issues/2479" TITLE : runtime convert c to js BODY : please, explain me. how can i convert string with c or file with c code to javascript and how can i get a syntax tree from a string with c code. for example: string code = int i =5 ; string jscode = bridgeconverter.convert code ; console.writeline jscode ; // output: var i =5;

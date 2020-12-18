@@ -1,0 +1,11 @@
+ URL : "https://github.com/andybotting/xbmc-addon-plus7/issues/1881" TITLE : end-user bug report BODY : automatic bug report from end-user. environment plugin name: plus7 plugin id: plugin.video.plus7 plugin version: 3.1.1 xbmc version: 17.3 git:20170525-1789806-dirty python version: 2.7.9 default, sep 17 2016, 20:55:23 gcc 4.9.2 operating system: linux2 linux dietpi 4.9.27-v7+ 2 smp thu may 11 18:50:36 utc 2017 armv7l ip address: 118.210.136.78 ppp118-210-136-78.bras1.adl6.internode.on.net isp : iinet limited python path: /root/.kodi/addons/plugin.video.plus7
+/root/.kodi/addons/script.module.simplejson/lib
+/usr/lib/python2.7
+/usr/lib/python2.7/plat-arm-linux-gnueabihf
+/usr/lib/python2.7/lib-tk
+/usr/lib/python2.7/lib-old
+/usr/lib/python2.7/lib-dynload
+/usr/local/lib/python2.7/dist-packages
+/usr/lib/python2.7/dist-packages
+/usr/lib/python2.7/dist-packages/pilcompat
+/root/.kodi/addons/plugin.video.plus7/resources/lib traceback traceback most recent call last : file /root/.kodi/addons/plugin.video.plus7/resources/lib/series.py , line 31, in make_series_list series_list = comm.get_index file /root/.kodi/addons/plugin.video.plus7/resources/lib/comm.py , line 77, in get_index series_data = json_data 'query' 'results' 'json' 'show_data' typeerror: 'nonetype' object has no attribute '__getitem__'

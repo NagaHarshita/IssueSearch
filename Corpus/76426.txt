@@ -1,0 +1,1 @@
+ URL : "https://github.com/JetBrains/Exposed/issues/127" TITLE : json b data type support BODY : databases which support json b columns: 1. mysql 5.7+ 2. postgresql 3. oracle

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jung-digital/react-ringa/issues/3" TITLE : tests: write unit tests BODY : this task should not be too difficult, but we need to write jest unit tests to get to full coverage.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/bleenco/abstruse/issues/230" TITLE : feat : deploy steps BODY : - deploy only if build was successful critical - right sequence for deploy scripts high

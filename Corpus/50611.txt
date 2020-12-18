@@ -1,0 +1,1 @@
+ URL : "https://github.com/Automattic/wp-desktop/issues/358" TITLE : 2fa text fails to send BODY : when logging into the app, it fails to send a verification text to my phone. i was forced to go to use my internet browser to wordpress.com/me/security and request a new code. the code worked to log in.

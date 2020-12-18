@@ -1,0 +1,1 @@
+ URL : "https://github.com/GrahamCampbell/Laravel-HTMLMin/issues/78" TITLE : lot of @break in views BODY : i have integrated grahamcampbell/laravel-htmlmin in my project and i get lot of @break in my page please check attached image ! screenshot from 2017-07-05 09-09-25 https://user-images.githubusercontent.com/10618104/27848856-b5b7d886-6161-11e7-950f-21bbe14e650a.png

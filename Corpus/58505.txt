@@ -1,0 +1,1 @@
+ URL : "https://github.com/sjl/necro/issues/1" TITLE : small typo in makefile BODY : hello, i noticed this small typo in your makefile, do you mean shell find ... ? https://github.com/sjl/necro/blob/d72e8e894ceaeb14ce2e1199b5ba7d74f7812b47/makefile l10

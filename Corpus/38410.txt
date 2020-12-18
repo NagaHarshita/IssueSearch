@@ -1,0 +1,1 @@
+ URL : "https://github.com/stan-dev/example-models/issues/93" TITLE : pilot model misfiled BODY : the pilot model is in example_models/arm/ch.14, but it's an example from chapter 13.

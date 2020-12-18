@@ -1,0 +1,1 @@
+ URL : "https://github.com/Baltoli/peggo/issues/28" TITLE : better error recovery BODY : currently a lot of errors will just cause the parser to segfault, which is rather obviously not the desired behaviour. as well as this, an incomplete parse can end up with __plus_end symbols in a parse tree which is also not good.

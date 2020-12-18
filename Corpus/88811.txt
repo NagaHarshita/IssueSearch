@@ -1,0 +1,1 @@
+ URL : "https://github.com/hyperledger/composer/issues/1410" TITLE : our readme.md is outdated BODY : the getting started with building an application section in the readme.md on https://github.com/hyperledger/composer is outdated! quickstart is no longer & you get a 404! ! image https://user-images.githubusercontent.com/25635381/27684344-8b19f748-5cc1-11e7-987e-4dd6c043d665.png

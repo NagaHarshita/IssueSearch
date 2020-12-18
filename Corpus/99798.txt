@@ -1,0 +1,1 @@
+ URL : "https://github.com/dna2github/dna2oslab/issues/10" TITLE : nginx without http-rewrite BODY : i find that the when i write rewirte in nginx.conf, i get this error, nginx: emerg unknown directive rewrite in ./conf/nginx.conf:5 , and when i find the nginx configure, i find that --without-http_rewrite_module .

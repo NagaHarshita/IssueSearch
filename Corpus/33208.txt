@@ -1,0 +1,1 @@
+ URL : "https://github.com/ibm-watson-iot/node-red-contrib-ibmpush/issues/1" TITLE : add by userid's type BODY : add ability to send notifications to devices by their user id; this is already a feature of bluemix push notifications service.

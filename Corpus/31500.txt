@@ -1,0 +1,1 @@
+ URL : "https://github.com/limo1996/PiStudio/issues/26" TITLE : small image drawing BODY : small images are resized beyond their size. as an result of this, svgsaver thinks that they were smaller than their original size. he draws line on a bigger width and height. indexoutofrangeexception is triggered because bound are smaller.

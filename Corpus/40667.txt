@@ -1,0 +1,1 @@
+ URL : "https://github.com/dasmikko/simple-react-template/issues/1" TITLE : upgrade to webpack 3 BODY : almost done upgrading to webpack 3, but the extractor plugin, needs to be fixed. waiting for them to fix it.

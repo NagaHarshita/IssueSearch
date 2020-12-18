@@ -1,0 +1,1 @@
+ URL : "https://github.com/Sarah-Seo/Inpad/issues/30" TITLE : change latex syntax BODY : how? $$ -> $ $$$ -> $$ why? $\alpha$ is default on latex and only few parsers support $$ as a inline. check the below link also. https://github.com/cben/mathdown/wiki/math-in-markdown

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Eric-Arellano/ngsc-service-hours/issues/1" TITLE : style the footer BODY : on the footer branch, we need to add styling to the footer component. specifically, it should be a sticky footer, meaning that it always appears at the bottom of the page. there are some guides online for how to do this.

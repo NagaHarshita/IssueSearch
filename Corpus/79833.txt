@@ -1,0 +1,1 @@
+ URL : "https://github.com/CRYTEK/CRYENGINE/issues/201" TITLE : substance plugin crashes BODY : when i create and instance of substance archive and generate textures, the editor crashes. i haven't been able to generate any textures so far. same thing happens to all three of my computuers.

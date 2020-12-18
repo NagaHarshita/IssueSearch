@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla/addons/issues/548" TITLE : display installed addon BODY : describe the problem and steps to reproduce it: install any addon from amo and visit the same page what happened? n/a what did you expect to happen? something should indicate this addon has been installed anything else we should know? perhaps upgrade button if any newer version

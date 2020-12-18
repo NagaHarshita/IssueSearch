@@ -1,0 +1,1 @@
+ URL : "https://github.com/ryami333/react-accessible-tooltip/issues/7" TITLE : add a js:next entrypoint BODY : should compile the main entrypoint down to es5, and have a separate js:next endpoint for the current es6 specific bundle.

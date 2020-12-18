@@ -1,0 +1,1 @@
+ URL : "https://github.com/mcMMO-Dev/mcMMO/issues/3102" TITLE : mcmmo issue no idea BODY : info caused by: java.lang.nosuchmethoderror: org.bukkit.event.entity.entitydamagebyentityevent.<init> lorg/bukkit/entity/entity;lorg/bukkit/entity/entity;lorg/bukkit/event/entity/entitydamageevent$damagecause;i v

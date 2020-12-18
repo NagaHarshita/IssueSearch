@@ -1,0 +1,1 @@
+ URL : "https://github.com/HriBB/react-mdl-extra/issues/22" TITLE : slider tick increments BODY : is there any way to set the tick increments for the slider to a specific value? e.g. min = 500, max = 5000, tick = 100

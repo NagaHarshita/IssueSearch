@@ -1,0 +1,1 @@
+ URL : "https://github.com/IdentityModel/oidc-client-js/issues/356" TITLE : documentation - log levels BODY : the home page in the wiki mentions several log levels, but debug is missing.

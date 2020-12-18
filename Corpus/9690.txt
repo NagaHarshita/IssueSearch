@@ -1,0 +1,1 @@
+ URL : "https://github.com/MixedEmotions/up_emotions_audio/issues/1" TITLE : add a dockerfile BODY : we should add a dockerfile so people can make adjustments then recreate their own docker image.

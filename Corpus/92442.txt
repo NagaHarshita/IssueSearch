@@ -1,0 +1,1 @@
+ URL : "https://github.com/DanyBoss/olympics-visualization/issues/1" TITLE : world map multi selection BODY : - it must be possible to select multiple countries at once max 5 - shift clicking must allow this on the map - if selecting a single country after a multiple selection has been made the multi selection but be emptied.

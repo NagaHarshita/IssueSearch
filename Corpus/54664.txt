@@ -1,0 +1,1 @@
+ URL : "https://github.com/moebrowne/BitBucket-Team-Issue-Manger/issues/9" TITLE : handle issueless repos BODY : currently the json fetcher will throw an exception if a repository in a team doesn't have the issue tracker enabled

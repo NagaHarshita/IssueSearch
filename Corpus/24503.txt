@@ -1,0 +1,1 @@
+ URL : "https://github.com/faustinoaq/vscode-crystal-lang/issues/3" TITLE : support for darwin BODY : @akzhan i added your binary, but i don't know if my crystalmain.ts is well configured to support this. can you confirm me that this extension work with the darwin binary? btw, thanks you!

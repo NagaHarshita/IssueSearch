@@ -1,0 +1,1 @@
+ URL : "https://github.com/jibone/spty-rb/issues/21" TITLE : remove deprecated comands BODY : there are a number of commands marked as deprecated. remove the code to make way for the refactor.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/brianc/node-libpq/issues/53" TITLE : getting error as of 1.8.6 BODY : libpq@1.8.6 install /users/scamden/creditiq/api/functions/services/broadcast/node_modules/libpq > node-gyp rebuild cxx target release/obj.target/addon/src/connection.o clang: error: invalid deployment target for -stdlib=libc++ requires os x 10.7 or later

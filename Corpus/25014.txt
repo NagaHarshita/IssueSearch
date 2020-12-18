@@ -1,0 +1,1 @@
+ URL : "https://github.com/jonasschmidt/ex_json_schema/issues/24" TITLE : update to draft 06 BODY : draft 06 of the json schema has been released, here's a summary of the changes http://json-schema.org/draft-06/json-schema-migration-faq.html . i might work on a pull request time permitting , but wanted to get an issue up.

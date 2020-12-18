@@ -1,0 +1,1 @@
+ URL : "https://github.com/lainchan/lainchan/issues/111" TITLE : image resize failure BODY : tried to post the attached image, got this error: > failed to resize image! details: gm convert: ztxt: crc error /tmp/phpagjtrl . ! personalfinance_uk https://user-images.githubusercontent.com/75235/27201427-8e25d058-5215-11e7-8de4-1f789d8c2c19.png

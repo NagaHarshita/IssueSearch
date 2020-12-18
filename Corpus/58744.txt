@@ -1,0 +1,1 @@
+ URL : "https://github.com/strongloop/loopback/issues/3488" TITLE : storing file in ms sql BODY : i am using loopback-component-storage to upload file to file system. i wants to store the files directly into ms sql database. please let me know how can i achieve it.

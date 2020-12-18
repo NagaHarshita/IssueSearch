@@ -1,0 +1,1 @@
+ URL : "https://github.com/The-Dank-Network/TDN-API/issues/10" TITLE : fix register m1 BODY : register isn't working and endpoint returning 401, but register url is being mapped and with permitall attribute. - fix register

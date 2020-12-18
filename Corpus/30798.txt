@@ -1,0 +1,1 @@
+ URL : "https://github.com/dlrandy/note-issues/issues/25" TITLE : react best practice BODY : 命令编程和声明编程的区别： 命令是如何完成某件事（call waitress to hold glass and pout beer in it then give me），详细地指出step；声明是直接要某件事的结果。 beer please 。 声明式编程的代码简洁 易于维护 声明式编程不需要使用变量也不需要在执行的时候追踪value更新。本质上声明式的编程就是避免创建和修改state的。

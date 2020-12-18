@@ -1,0 +1,1 @@
+ URL : "https://github.com/VIDALYCONTRERASLIMITADA/jquery.textboxvalora.js/issues/41" TITLE : problema de instancias BODY : cuando instanciamos dos veces con diferente verificador id, class o name toma para todos los _tesboxvalora_ la ultima instanciación.

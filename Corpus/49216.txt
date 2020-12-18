@@ -1,0 +1,1 @@
+ URL : "https://github.com/IIC2133-PUC/2017-1/issues/52" TITLE : tarea 2 fe de erratas BODY : en el item restricción de largo , mu se refiere a cantidad de notas, no de elementos, asi que donde dice |alpha| >= mu debe decir cantidad de notas en alpha >= mu

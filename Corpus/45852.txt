@@ -1,0 +1,1 @@
+ URL : "https://github.com/mailwatch/1.2.0/issues/560" TITLE : ipv6 in functions.php BODY : not urgent but seems some codes in functions.php have hard ip coded routine not compatible ipv6 and not using the new ipset.php library.

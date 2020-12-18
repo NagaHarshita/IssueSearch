@@ -1,0 +1,1 @@
+ URL : "https://github.com/epate/masonic-lodge/issues/1" TITLE : header image size BODY : in index.php, changed the left and right size widths from 64 to 120 and from 40 to 60 to accommodate wider graphics.

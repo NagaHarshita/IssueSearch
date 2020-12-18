@@ -1,0 +1,1 @@
+ URL : "https://github.com/jedahan/zr/issues/10" TITLE : no license specified BODY : i'm trying to package this for nix, and when i went to add the metadata, i couldn't find a license. could you specify one and record it somewhere? it looks like clap is using mit, perhaps that would be a good choice. you might also want to check with @sx91 about their contributions, but ianal.

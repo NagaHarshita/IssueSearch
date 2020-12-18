@@ -1,0 +1,1 @@
+ URL : "https://github.com/into-cps/hybridCosimulation-framework/issues/4" TITLE : is_close should be bool BODY : the function is_close in hyfmath should return a bool and not an int.

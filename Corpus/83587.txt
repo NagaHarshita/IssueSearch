@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpenAADL/ocarina/issues/114" TITLE : change os specific macros BODY : rtems reserves rtems_pure macro for specific compiler configuration, it conflicts with polyorb-hi/c macro that uses it to specify we use rtems classic api. as a consequence, we should update all os specific macro names to use __po_hi_ prefix.

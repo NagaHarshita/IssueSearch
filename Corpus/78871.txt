@@ -1,0 +1,1 @@
+ URL : "https://github.com/Dyvil/Dyvil/issues/337" TITLE : remove the 'nil' literal BODY : drop compiler support for nil expressions. the keyword stays reserved for future use.

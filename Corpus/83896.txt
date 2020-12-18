@@ -1,0 +1,1 @@
+ URL : "https://github.com/ripple/ripple-lib/issues/824" TITLE : compiled js with releases BODY : can you attach the compiled full and min js files with each release? it is a bit cumbersome to set up node.js and github each time to get the latest ripplelib file.

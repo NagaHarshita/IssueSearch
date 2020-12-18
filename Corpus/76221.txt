@@ -1,0 +1,1 @@
+ URL : "https://github.com/softsam/docker-android-emulator/issues/3" TITLE : interactions not working BODY : i'm on api v23 and no input device including mouse or keyboard works. i'm connecting using tigervnc because vnc viewer or mac's builtin vnc client both fail to connect

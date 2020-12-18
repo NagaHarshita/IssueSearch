@@ -1,0 +1,1 @@
+ URL : "https://github.com/bistaray/odoo-apps/issues/2" TITLE : doesn't work as intended BODY : example i have on res.partner 1 three followers. when i open email wizard, only res.partner 1 email pops up. does it work for v10??

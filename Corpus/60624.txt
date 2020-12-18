@@ -1,0 +1,1 @@
+ URL : "https://github.com/FezVrasta/ark-server-tools/issues/776" TITLE : add a log delete option BODY : hi, is it possible to add a string to remove logs every x days ? like : removelogfiles: 2 that means every two days the log folder /shootergame/saved/logs will be emptied thanks

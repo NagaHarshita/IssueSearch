@@ -1,0 +1,1 @@
+ URL : "https://github.com/jeanpaulattard/json-to-properties/issues/1" TITLE : does not work on linux BODY : the directories are built by inserting \\ which is working only on windows instead of / which is working everywhere also on windows

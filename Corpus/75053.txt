@@ -1,0 +1,1 @@
+ URL : "https://github.com/mapbox/mapbox-gl-js/issues/5492" TITLE : fullscreen does not work BODY : when mapbox-gl-js version : 0.41.0 macbook air 2017 macos high sierra chrom dev 63 steps to trigger behavior 1. https://jsfiddle.net/jingsam/fwonyptc/1/ 2. click fullscreen control expected behavior map is fullscreened actual behavior a black screen was shown.

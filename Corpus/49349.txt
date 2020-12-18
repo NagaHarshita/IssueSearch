@@ -1,0 +1,1 @@
+ URL : "https://github.com/cypw/DPNs/issues/3" TITLE : the op of slice_axis? BODY : hi, i have check the json file of your model, and i found that there is a slice-axis op,but i can't find the implementation of this operation in mxnet/src/operator

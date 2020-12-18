@@ -1,0 +1,1 @@
+ URL : "https://github.com/smallstone-uk/Framework/issues/1" TITLE : aliases for routes BODY : something like: cfc route .get '/user/settings', 'usercontroller@settings' .alias 'user.settings' ; and then later on if the url needs to be changed you can just change it in one file such as: cfc route .get '/my-profile/settings', 'usercontroller@settings' .alias 'user.settings' ;

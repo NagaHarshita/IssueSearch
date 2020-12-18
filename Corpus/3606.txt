@@ -1,0 +1,1 @@
+ URL : "https://github.com/resin-io-modules/hubot-prevent-repeat/issues/1" TITLE : should work ! BODY : i'm creating this ticket to hold initial development. what i'm writing is a bit of middleware to intercept responses and parse them for recent similar responses.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ros-industrial/universal_robot/issues/333" TITLE : next kinetic release BODY : i submitted a pr a few months ago that has not been released to the debian packages yet, can a maintainer please make a new ros buildfarm release?

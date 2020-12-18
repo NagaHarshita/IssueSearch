@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpenJML/OpenJML/issues/538" TITLE : exceptions in constructors BODY : if a pure constructor throws an exception, the invariants should not have to hold.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/frontend/toolbox-utils/issues/13" TITLE : better components list BODY : use config file toolbox.json ? to list the component on toolbox:generate to optimize the prepare task.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jakubgarfield/Bonobo-Git-Server/issues/736" TITLE : afds broke on 6.3.0 BODY : after updating to 6.3.0 adfs has stopped working. on login you do not get redirected to the adfs page. it simply shows the login form, entering details in that form does not log you on either. reverting to 6.2.1.588

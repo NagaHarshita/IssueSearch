@@ -1,0 +1,1 @@
+ URL : "https://github.com/wix/react-native-interactable/issues/144" TITLE : cannot install on windows BODY : cannot install the plugin on windows app, get an error each time i tried, 'ln -s' not recognised as an internal or external command, any help please

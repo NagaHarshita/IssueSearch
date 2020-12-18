@@ -1,0 +1,1 @@
+ URL : "https://github.com/vainglorygame/meta/issues/31" TITLE : joblib: load too high BODY : joblib is overloading the database trying to acquire jobs, a service that is idling must not create significant cpu usage on the db

@@ -1,0 +1,1 @@
+ URL : "https://github.com/radare/radare2/issues/8033" TITLE : fix the completion hints BODY : - rename it to cfg.comphint - fix the regression tests for travis - fix the crashes and related memleaks @maskray this is your part it seems.

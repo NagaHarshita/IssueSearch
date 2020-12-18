@@ -1,0 +1,1 @@
+ URL : "https://github.com/mattanger/ckb-next/issues/209" TITLE : no device detected BODY : i have put in the quirks into my grub under arch linux, but it shows both my k70r and corsair scimitar don't work. this has worked fine under ubuntu, but i compiled from source and it didn't work under manjaro arch.

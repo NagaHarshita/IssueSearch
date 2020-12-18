@@ -1,0 +1,1 @@
+ URL : "https://github.com/eecs395rust/SimpleProxy/issues/2" TITLE : ignoring results is bad BODY : this code, for example: pub fn write &self, buf: vec<u8> { let _ = self.tx.send message::csdata self.port_id,buf ; } it should probably return a result rather than , so that it can indicate failure.

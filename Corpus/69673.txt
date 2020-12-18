@@ -1,0 +1,1 @@
+ URL : "https://github.com/Noiredd/PEGAS/issues/2" TITLE : too many infinite loops BODY : instead of using until false...break loops, it is a much better programming practice to use proper until <condition> loops. not only that, but it saves memory by not making the computer constantly create and delete the same process repeatedly.

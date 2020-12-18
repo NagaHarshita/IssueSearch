@@ -1,0 +1,1 @@
+ URL : "https://github.com/CowTard/SocialNetworkGenerator/issues/1" TITLE : error division by zero BODY : hello i'm trying using source but i'm getting division by zero. error is coming form this file population.py this line 59 percentageofpopulation : number_of_people / len self.group

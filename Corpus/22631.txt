@@ -1,0 +1,1 @@
+ URL : "https://github.com/0x00pf/STAN/issues/1" TITLE : make install error BODY : interesting project i'd like to test it but during installation ./configure; make; make install i get an error: /usr/bin/install: cannot create regular file '/usr/local/lib/libstan.so.0.0.0': permission denied even if i run installation with sudo

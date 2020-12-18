@@ -1,0 +1,1 @@
+ URL : "https://github.com/cohenadair/anglers-log/issues/210" TITLE : smaller table cell icons BODY : right now, on ios and android, the thumbnails in table views are quite large. during item selection, such as selecting baits or catches, or even searching through the list, users should be able to see more than 4-6 items. simply make the rows/thumbnails smaller.

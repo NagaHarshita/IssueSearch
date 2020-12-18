@@ -1,0 +1,1 @@
+ URL : "https://github.com/wikihouseproject/wikihouse.cc/issues/34" TITLE : fixup sass deprecations BODY : remote: sass 3.6 will change the way css variables are parsed. instead of being parsed as remote: normal properties, they will not allow any sass-specific behavior other than {}. remote: for forwards-compatibility, use {}: remote: --variable: {rgba 0, 0, 0, 0.38 };

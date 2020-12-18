@@ -1,0 +1,1 @@
+ URL : "https://github.com/Wats0ns/intra-crawler/issues/3" TITLE : add some ci service BODY : currently there is no units tests. we would need someone to add some basic units tests and a ci config, like travis

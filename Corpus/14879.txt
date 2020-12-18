@@ -1,0 +1,1 @@
+ URL : "https://github.com/researchgate/grunt-changed/issues/41" TITLE : changed first run BODY : hello, we are experiencing an issue where changed tasks will not execute on a clean source directory on first run. is this expected behavior? what will changed do if there is not a last run ?

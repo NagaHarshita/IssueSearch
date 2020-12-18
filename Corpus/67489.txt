@@ -1,0 +1,1 @@
+ URL : "https://github.com/nightroman/Mdbc/issues/12" TITLE : powershell core support BODY : module does not work on .net core and thus mac and linux .

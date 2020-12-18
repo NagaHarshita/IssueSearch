@@ -1,0 +1,1 @@
+ URL : "https://github.com/linzihb/networkfx/issues/4" TITLE : search bar iteration BODY : ! image https://cloud.githubusercontent.com/assets/8693416/25536373/db297aa4-2c3a-11e7-98dc-f2665573046a.png - after clicked in the field, it should be white instead of blue - total height to 66px - red analyze button hover effect: transition 0.17s ease-in opacity 0.7

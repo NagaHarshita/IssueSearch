@@ -1,0 +1,1 @@
+ URL : "https://github.com/nicgirault/circosJS/issues/36" TITLE : importing for angular2 BODY : i'm trying to use circosjs in a angular2 project but i am struggling with getting it to import. have installed the library using npm which seem to be successful. any suggestions/solution?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/CorfuDB/CorfuDB/issues/1112" TITLE : complete server reset BODY : overview feature request. a server reset api that flashes the server and removes the data log and the local datastore, which includes information about the node/cluster id. deliverables - server reset api

@@ -1,0 +1,1 @@
+ URL : "https://github.com/puuu/MQTT433gateway/issues/6" TITLE : why avoid gpio pins? BODY : the code says const int receiver_pin = 12; //avoid 0, 2, 15, 16 why is this? i'm testing the code with a esp-01 and want to use gpio2.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/8bitguys/prj-rev-bwfs-tea-cozy/issues/3" TITLE : main banner flex-direction BODY : add a flex-direction: column; for this, or better yet, don't use flexbox on this. you don't need it, you can just text-align center the text;

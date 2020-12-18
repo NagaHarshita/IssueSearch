@@ -1,0 +1,1 @@
+ URL : "https://github.com/swanwish/blog/issues/32" TITLE : new angular project BODY : ng new nodeservice ln -s /volumes/projects/common/node_modules node_modules

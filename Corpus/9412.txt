@@ -1,0 +1,1 @@
+ URL : "https://github.com/sharkdp/insect/issues/106" TITLE : web text result BODY : hey, i have an idea. change web version that returns the result by a clear text. $ curl https://insect.sh/sqrt 9 return this result: > 3 this can be useful!

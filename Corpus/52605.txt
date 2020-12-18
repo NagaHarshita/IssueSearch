@@ -1,0 +1,1 @@
+ URL : "https://github.com/pymssql/pymssql/issues/494" TITLE : connection not closing BODY : i just got a message from a dba that my query is causing blocks. the query is run through a python script using pymssql. the script completed over an hour ago. does the pymssql connection close when the script it's in finishes, or do i have to close the connection manually? thanks.

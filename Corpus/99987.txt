@@ -1,0 +1,1 @@
+ URL : "https://github.com/jolly-roger/gulp-ngc/issues/9" TITLE : not working with angular 5 BODY : just tried to upgrade a project to angular 5 but i got stuck. seems like the arguments format is diferent.

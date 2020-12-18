@@ -1,0 +1,1 @@
+ URL : "https://github.com/oyvindln/deflate-rs/issues/21" TITLE : port fast mode from miniz BODY : miniz has a special fast compression function that's used when max_hash_checks is set to one. it seems to provide something in-between normal compression using hash_checks = 1 and rle mode.

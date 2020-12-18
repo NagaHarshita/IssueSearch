@@ -1,0 +1,1 @@
+ URL : "https://github.com/GSA/code-gov-api/issues/118" TITLE : delete stale branches BODY : there are a number of stale branches that will not be relevant with the changes being made to support multiple schema versions. these should be deleted so we have a cleaner repo.

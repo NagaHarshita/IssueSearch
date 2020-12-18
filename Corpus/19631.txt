@@ -1,0 +1,1 @@
+ URL : "https://github.com/vexe/VFW/issues/101" TITLE : add obj.hidepicker BODY : i define a variable like so ! http://i.imgur.com/cmhyekf.png which works to disable the picker, just as described by the name but i initially thought it would hide it completely. ! http://i.imgur.com/wvudcva.png i would like to completely hide the part i highlighted, just to be clear.

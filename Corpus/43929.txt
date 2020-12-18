@@ -1,0 +1,1 @@
+ URL : "https://github.com/simpeg/simpeg/issues/549" TITLE : docs aren't deploying BODY : ! image https://cloud.githubusercontent.com/assets/6361812/23485398/18fc5c12-fe90-11e6-91f2-65be52922063.png we are on 0.5.0! i had to update the google app engine deploy in em geosci as well. i can take care of this tonight.

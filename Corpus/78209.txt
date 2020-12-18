@@ -1,0 +1,1 @@
+ URL : "https://github.com/wpscanteam/wpscan-v3/issues/5" TITLE : plugin scans not working BODY : plugin enumeration options vp, p, ap result in the scan completing but then coming back with an error scan aborted: undefined method 'confidence' for <array:0x00563a3550ec98>

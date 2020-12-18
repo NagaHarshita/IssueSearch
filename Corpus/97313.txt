@@ -1,0 +1,1 @@
+ URL : "https://github.com/geoffreypetri/nesos/issues/13" TITLE : get a particular water log BODY : request get /logs/water/:id response 200 ok {source}

@@ -1,0 +1,1 @@
+ URL : "https://github.com/StansAssets/Development/issues/75" TITLE : test mobile social plugin BODY : есть попдозрени что лпагин крашит если сипользовать spshareutility.sharemedia т.к. в plist не добавляется nsphotolibraryusagedescription

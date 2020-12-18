@@ -1,0 +1,1 @@
+ URL : "https://github.com/crisidev/holysee/issues/14" TITLE : implement rant command BODY : implement a new command which disable the transport between irc and telegram. !rant something

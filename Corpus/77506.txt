@@ -1,0 +1,1 @@
+ URL : "https://github.com/burtenshaw/movie-chatter/issues/3" TITLE : new imdb logic adapters. BODY : each person working in the 'core' group should check out logic_adapters.py , and implement their own logic adapter class to handle imdb data. there are two existing examples that use utils/movies.py . i think we will need between 6 and 8 of these.

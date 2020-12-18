@@ -1,0 +1,1 @@
+ URL : "https://github.com/kinbiko/dotfiles/issues/6" TITLE : move to neovim BODY : or somehow take advantage of the async behaviour in vim 8 for linting, tagging etc.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/transferwise/comparison-components/issues/19" TITLE : fetch should be polyfilled BODY : at the moment, we're getting errors from people whose browsers do not support fetch . a polyfill should be added.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Viva-con-Agua/sluice/issues/5" TITLE : jwt for shared session BODY : sluice signs the token and stores permisson's for the micros in it.

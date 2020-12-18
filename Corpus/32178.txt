@@ -1,0 +1,1 @@
+ URL : "https://github.com/jfraire/Device-Modbus-TCP/issues/2" TITLE : typo in next_trn_id BODY : it seems there is typo in the range check ? $trans_id = 1 if $trans_id > 65_535; above probably was meant to be: $trans_id = 1 if $trans_id > 65535;

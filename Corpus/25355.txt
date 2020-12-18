@@ -1,0 +1,1 @@
+ URL : "https://github.com/stax76/staxrip/issues/204" TITLE : wrong aspect ratio BODY : latest unstable build 1.5.1.2, using provided nvenc. the resulting rip is properly sized but has the wrong vertical aspect ratio. seems a regression from a couple weeks ago.

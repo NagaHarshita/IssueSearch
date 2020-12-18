@@ -1,0 +1,1 @@
+ URL : "https://github.com/BjerknesClimateDataCentre/QuinCe/issues/351" TITLE : tab separator in export BODY : work out what the correct entry for a tab separator will be in the export config file, and add it to the sample config and javadoc exportconfig .

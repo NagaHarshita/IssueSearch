@@ -1,0 +1,1 @@
+ URL : "https://github.com/Seed-Up/rust-fuse/issues/10" TITLE : return error on bad opt BODY : if we get bad opt, return error instead of none in fuse_opt_parse

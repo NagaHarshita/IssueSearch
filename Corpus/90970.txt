@@ -1,0 +1,1 @@
+ URL : "https://github.com/CookPete/react-player/issues/217" TITLE : support for end parameter BODY : the youtube embedded player supports a end parameter, which specifies the time when the player should stop playing the video. now the library supports a start parameter and i wonder if it was intentional to drop the support for end parameter.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/finc/docker-vufind2/issues/2" TITLE : outdated php version BODY : hi, i have tried to install your container but i get a lot of errors due to: problem 1 - this package requires php >=5.6 but your php version 5.4.45 does not satisfy that requirement. can you update the php version?

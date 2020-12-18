@@ -1,0 +1,1 @@
+ URL : "https://github.com/egor045/T5_worldgen/issues/6" TITLE : reimporting exported json BODY : system.as_json should be reimportable with system.json_import . looks like this is a problem ... as_json-json_import-error.txt https://github.com/egor045/t5_worldgen/files/1085602/as_json-json_import-error.txt

@@ -1,0 +1,1 @@
+ URL : "https://github.com/status-im/status-go/issues/386" TITLE : add missing unit tests BODY : problem there are package methods that are not covered by tests. implementation - go over the existing files and identify the methods that are not covered by tests. - implement the test. acceptance criteria - all the methods must be covered by tests. - all the tests should pass.

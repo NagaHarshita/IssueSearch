@@ -1,0 +1,1 @@
+ URL : "https://github.com/spotify/scio/issues/422" TITLE : revert java.time changes BODY : since beam is still using joda-time everywhere. the conversion overhead and complication is not worth it.

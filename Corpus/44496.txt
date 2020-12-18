@@ -1,0 +1,1 @@
+ URL : "https://github.com/danutchindris/bbcv/issues/38" TITLE : extend image handling BODY : the images are currently related only to articles. we need to extend the mechanism to be able to store images for other objects, such as tags.

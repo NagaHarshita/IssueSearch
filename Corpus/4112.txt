@@ -1,0 +1,1 @@
+ URL : "https://github.com/f-f/googlica/issues/6" TITLE : add some tests BODY : right now lots of stuff is tested including repl outputs as comments, let's move this into actual tests.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/christiaan/tinymce-codemirror/issues/29" TITLE : esc should close the popup BODY : i think esc, when pressed inside codemirror, should close the editing popup, as it does in any other tinymce popup. i'm leaving this issue here as a reminder. i'll send you a pr if/when i manage to look into it.

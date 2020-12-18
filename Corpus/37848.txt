@@ -1,0 +1,1 @@
+ URL : "https://github.com/girder/girder_worker/issues/123" TITLE : name of ansible role BODY : in the readme, it says the name of the role is girder.girder_worker , but in ansible galaxy the role name is girder.girder-worker . easy enough to fix in the readme, but since this is already under the girder namespace, would it be better to have the role name of girder.worker ?

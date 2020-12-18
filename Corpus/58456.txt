@@ -1,0 +1,1 @@
+ URL : "https://github.com/bartvle/synthacc/issues/133" TITLE : site and sites classes BODY : we should have classes for a site and multiple sites. we can just rename the point/cloud classes, or keep these for any point and add site/sites classes for points on/near the surface.

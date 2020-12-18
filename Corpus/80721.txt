@@ -1,0 +1,1 @@
+ URL : "https://github.com/sky-uk/toolkit/issues/205" TITLE : update font-face sources BODY : expected behavior fonts should point to sky.com/assets current behavior fonts point to assets.sky.com context masthead depreciation will remove the current font hosting

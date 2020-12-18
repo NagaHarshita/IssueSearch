@@ -1,0 +1,1 @@
+ URL : "https://github.com/lagom/lagom/issues/1003" TITLE : use a java formatter BODY : same thing we apply a scala formatter it'd be good to have a java formatter run on every compilation. i just stumbled upon https://github.com/typesafehub/sbt-java-formatter which may be enough for our initial needs.

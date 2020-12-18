@@ -1,0 +1,1 @@
+ URL : "https://github.com/byt3bl33d3r/chrome-decrypter/issues/6" TITLE : password not defined BODY : + opening logindata - -2146893813, 'cryptunprotectdata', 'key not valid for use in specified state.' traceback most recent call last : file <string> , line 39, in <module> nameerror: name 'password' is not defined

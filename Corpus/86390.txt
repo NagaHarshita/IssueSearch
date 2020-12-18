@@ -1,0 +1,1 @@
+ URL : "https://github.com/Esri/arcgis-runtime-demos-android/issues/46" TITLE : how to cache the basemap? BODY : when i load my basemap by internet first,when i re-open my app,it needs download the data from server agian.how to cache the loaded data of basemap???? i do not found the api about this! so is a question or issue?

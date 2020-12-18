@@ -1,0 +1,1 @@
+ URL : "https://github.com/twmilli/OpenBar/issues/1" TITLE : memory store replacement BODY : i saw you using a no more mantained in-memory store module for the express-session. i recommend to switch to a fully-tested one, check it out: memorystore https://github.com/roccomuso/memorystore

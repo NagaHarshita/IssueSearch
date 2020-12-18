@@ -1,0 +1,1 @@
+ URL : "https://github.com/Alok/notational-fzf-vim/issues/4" TITLE : local ./notes folder BODY : it would be great if i could store per-project notes in ./notes folder. i have tried to do it like this: let g:nv_directories = '~/notes', './notes' but it didn't work. maybe some function that would run expand and overwrite g:nv_directories when vim starts would help?

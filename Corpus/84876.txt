@@ -1,0 +1,1 @@
+ URL : "https://github.com/compulim/vscode-closetag/issues/8" TITLE : don't close void elements BODY : void elements like <img> technically can be closed, but i think the extension should avoid that, since in the end becomes confusing. for example, if i have this code: <div> <div> <img> </div> if i try to close that, i end with: <div> <div> <img> </div> </img> wich is incorrect.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/malinink/easy-tests/issues/161" TITLE : finish the solution BODY : - добавить метод для сохраения списка solutions - реализовать solutionserviceinterface - реализовать solutionoptions и интерфейс - добавить методы с solutionoptions в сервис - дописать на это тесты остальное из раздела сущностей, мапперов и моделей уже реализовано.

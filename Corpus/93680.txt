@@ -1,0 +1,13 @@
+ URL : "https://github.com/Zimmi48/bugzilla-test-2/issues/1461" TITLE : an anomaly in apply ... in BODY : note: the issue was created automatically with bugzilla2github tool original bug id: bz 1461
+date: 2007-03-26 14:50:05 +0200
+from: emakarov@lix.polytechnique.fr
+reported version: 8.1 last updated: 2007-03-26 14:50:05 +0200 emakarov@lix.polytechnique.fr on 2007-03-26 14:50:05 +0200 full_name: yevgeniy makarov
+version: trunk revision: 9700
+os: linux
+submission from: sphinx.lix.polytechnique.fr 129.104.11.1 the following code: lemma test : true -> forall n : nat, n = n -> true -> 0 = 0.
+proof.
+intros h1 h2.
+apply h1 in h2. produces an error message: anomaly: type_of: this is not a well-typed term.
+please report . apparently, this is related to the fact that in the first
+assumption true -> forall n : nat, n = n , the dependent premise n follows an
+independent premise true. emakarov@lix.polytechnique.fr on 2007-07-04 17:04:32 +0200 fixed in v8.1 branch r9801 and trunk r9802 hh 27/4/07

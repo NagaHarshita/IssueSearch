@@ -1,0 +1,1 @@
+ URL : "https://github.com/blocshop/sockets-for-cordova/issues/40" TITLE : socket stuck closing BODY : running this on ios my socket frequently gets stuck in the closing state. is there any way to destructively close a socket.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/cmrigney/node-sftp-s3/issues/13" TITLE : tests are failing BODY : tests are failing with the following exception: 1 sftp should write and read and delete correctly: uncaught typeerror: cannot read property '_log' of undefined at lib/node-sftp-s3.js:29:2873 at test/s3stub.js:99:28

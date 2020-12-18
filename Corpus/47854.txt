@@ -1,0 +1,1 @@
+ URL : "https://github.com/pairshaped/elm-firebase/issues/7" TITLE : query builder example BODY : given a collection, allow the user to add records of a known structure, specify query functions and the order they occur, and to see both all the records and the filtered records.

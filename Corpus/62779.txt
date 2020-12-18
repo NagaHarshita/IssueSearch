@@ -1,0 +1,1 @@
+ URL : "https://github.com/byuoitav/av-api/issues/104" TITLE : create cgi microservice BODY : the sony projector exposes rudimentary volume control via a cgi interface. currently we need to build out a microservice with endpoints for 1. volume up 1. volume down but leave the architecture such that it is extensible to other cgi endpoints, if needed.

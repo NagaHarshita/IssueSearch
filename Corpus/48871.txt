@@ -1,0 +1,1 @@
+ URL : "https://github.com/Ysurac/FlightAirMap/issues/291" TITLE : spotter damon stopped BODY : today the spotter daemon stopped. the last messages were : error: socket.select gives this error translated from german the process was stopped successfully. restarting ... shutdown all sockets... restart all connections... i'm using windows and a radarcape receiver.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/rogue-hack-lab/rhl-new/issues/2" TITLE : slide out menu stays open BODY : desktop, chrome when the slide out menu is opened by the user, it remains open even while :hover is false or other page interactions are happening

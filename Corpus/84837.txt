@@ -1,0 +1,1 @@
+ URL : "https://github.com/katsew/logotron/issues/14" TITLE : does not start- tsc error BODY : > assets/js/code-runner/index.ts 52,23 : error ts2695: left side of comma operator is unused and has no side effects. worked around with: diff - debug delta: ${now, this.lasttimemilli} ; + debug delta: ${now}, ${this.lasttimemilli} ;

@@ -1,0 +1,1 @@
+ URL : "https://github.com/r1ft1/FlappyNeuralNetwork/issues/2" TITLE : init unnecessary BODY : can be removed. also check if reset needs to be called for both sets of pipes as reset affects both odd and even anyway.

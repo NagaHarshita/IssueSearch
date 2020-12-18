@@ -1,0 +1,1 @@
+ URL : "https://github.com/Eusth/HoneySelectVR/issues/52" TITLE : pov mods don't work in vr BODY : with togglepov and shortcutplugin pressing the key to toggle the point of view ends up changing lighting in weird ways and/or gaze control. i haven't seen this addressed anywhere else - should it work like this? running without vr on the desktop they appear to work fine.

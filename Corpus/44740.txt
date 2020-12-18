@@ -1,0 +1,1 @@
+ URL : "https://github.com/libremesh/lime-web/issues/36" TITLE : fix lime-example link BODY : in this page: http://libremesh.org/docs/en_config.html this link doesn't work: https://github.com/libremesh/lime-packages/blob/develop/packages/lime-debug/files/etc/config/lime-example

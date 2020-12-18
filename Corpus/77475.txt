@@ -1,0 +1,1 @@
+ URL : "https://github.com/WizardFactory/TodayWeather/issues/1883" TITLE : new api - geo coord2addr BODY : client, tw-service가 사용한 coord2addr api seoul region에 셋업 api gateway + lambda + dynamodb로 지원 cdn을 사용한 공유형 cache가 됨 추후 addr2coord 에서 town.js 및 google address, 자동완성을 커버할 예정임

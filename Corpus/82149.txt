@@ -1,0 +1,1 @@
+ URL : "https://github.com/surveyjs/surveyjs/issues/844" TITLE : add isrequried into panel BODY : add two properties: panel.isrequried and panel.requirederrortext. if all questions are empty and isrequires = true, then the error should be shown,

@@ -1,0 +1,6 @@
+ URL : "https://github.com/emacs-evil/evil-surround/issues/33" TITLE : closed change keybindings BODY : <a href= https://github.com/mygnu ><img src= https://avatars3.githubusercontent.com/u/4723535?v=3 align= left width= 96 height= 96 hspace= 10 ></img></a> issue by mygnu https://github.com/mygnu _monday jun 16, 2014 at 13:58 gmt_
+_originally opened as https://github.com/timcharper/evil-surround/issues/33_ ---- hi all
+i use dvorak keyboard, and have s key already binded. how to change s to k in visual mode.
+i've tried evil-define-key 'operator surround-mode-map k 'surround-edit evil-define-key 'visual surround-mode-map k 'surround-region evil-define-key 'visual surround-mode-map k 'surround-region and define-key evil-visual-state-map k 'surround-region with no success.
+can anyone please help.
+thanks

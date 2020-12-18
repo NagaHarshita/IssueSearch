@@ -1,0 +1,1 @@
+ URL : "https://github.com/googlecreativelab/teachable-machine/issues/5" TITLE : issue with yarn BODY : i typed yarn in terminal. but this error popes out. error: there are no scenarios; must have at least one. do i have to install some other thins? ps: i run the code on my ubuntu 16.04 system locally. thanks:-

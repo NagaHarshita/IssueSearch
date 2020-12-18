@@ -1,0 +1,1 @@
+ URL : "https://github.com/byteball/byteball/issues/117" TITLE : move user folder BODY : as usual, byteball stores a lot of data in the c:\users folder. i don't want to store a lot of random data in my c:\users folder because my c:\ drive is small and reserved for my os. how do i move this to a different drive?

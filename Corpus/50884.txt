@@ -1,0 +1,1 @@
+ URL : "https://github.com/DRDD2016/native/issues/32" TITLE : add datepicker android BODY : _from @heron2014 on december 14, 2016 18:6_ depending on the platfiorm render specific datepicker: - datepickerandroid https://facebook.github.io/react-native/docs/datepickerandroid.html _copied from original issue: drdd2016/sparkn2 42_

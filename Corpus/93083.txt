@@ -1,0 +1,1 @@
+ URL : "https://github.com/cburgmer/rasterizeHTML.js/issues/193" TITLE : add coordinate in options? BODY : more like a feature request. rasterize html string in a canvas of width and height at coordinate x,y

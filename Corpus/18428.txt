@@ -1,0 +1,1 @@
+ URL : "https://github.com/Rainbow-Sprinkles/starter-todo4/issues/49" TITLE : task 3: add store BODY : replace the store logic in model with code to rebuild collection as a simplexmlelement and save it by overwriting the original.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/michaelghaben/ece1186/issues/93" TITLE : dropdown choices of track BODY : problem when the dropdown choices are for redline/section h, the blocks appear in dropdown out of numerical order. start with 32 and goes to 40-something then shows 24 through 31. not major so can be fixed later.

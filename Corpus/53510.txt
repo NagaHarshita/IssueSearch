@@ -1,0 +1,1 @@
+ URL : "https://github.com/NicolasPetton/Indium/issues/97" TITLE : duplicated repl buffer BODY : elisp m-x indium-run-chrome ret -- close chrome m-x indium-run-chrome ret in this case indium will make a js repl <2> buffer which is unusable.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/HippoAR/react-native-arkit/issues/74" TITLE : qusetion - display plane BODY : hi there, in my project i show a text that displays all information from a detected plane using the function onplanedetected of the arkit component. is there a way to display the plane somehow? thanks in advance. cheers, tom

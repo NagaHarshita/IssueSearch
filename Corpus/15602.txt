@@ -1,0 +1,1 @@
+ URL : "https://github.com/markround/tiller/issues/46" TITLE : exec per template BODY : it would be great to have support to be able to execute an exec-command per template. this is especially useful when you have several services on a e.g. docker container, which tiller is configuring. thank you for all the effort!

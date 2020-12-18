@@ -1,0 +1,1 @@
+ URL : "https://github.com/ninenines/erlang.mk/issues/666" TITLE : nif building wrong linker BODY : when using erlang.mk to build nifs cc is used to link the files. this is fine as long as you use only c files. when using cpp you will get undefined symbol errors on load. https://github.com/ninenines/erlang.mk/blob/master/plugins/c_src.mk l102 not sure on the way forward.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/shuhei/shuhei.github.com/issues/16" TITLE : recover link color BODY : when a link on the header is clicked, it stays in the active link color. it should go back to the normal one.

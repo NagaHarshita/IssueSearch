@@ -1,0 +1,1 @@
+ URL : "https://github.com/floswald/cumulus-setup/issues/6" TITLE : ssh key for login node BODY : i cannot log in to the login node using ssh. from my terminal, running ssh to the login node i am asked to enter a password, despite having updated the ssh key on the dashboard settings.

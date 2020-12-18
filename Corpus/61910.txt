@@ -1,0 +1,1 @@
+ URL : "https://github.com/react-native-training/react-native-elements/issues/673" TITLE : button support children BODY : button should display child components! for example i made an component witch displays a rotating icon and like to have it set as the value for a a time

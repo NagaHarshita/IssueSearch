@@ -1,0 +1,1 @@
+ URL : "https://github.com/MaxGavr/MemoryManager/issues/1" TITLE : void ... define BODY : c language, in opposite to c++, supports implicit cast to void , so there is no need in such casts.

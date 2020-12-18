@@ -1,0 +1,1 @@
+ URL : "https://github.com/avast-tl/retdec/issues/45" TITLE : compilng back llvm ir BODY : hi there and congratulations with open-sourcing such a useful tool. : as an experiment, i tried to compile back generated .bc file. and got many undefined reference errors on _asm_smth , pseudo_smth calls and many unknown_smth symbols. is there any future possibility to recompile binaries?

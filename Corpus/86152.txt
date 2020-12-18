@@ -1,0 +1,1 @@
+ URL : "https://github.com/libgit2/objective-git/issues/637" TITLE : gtrepository leaks memory BODY : hi, i'm using this library in my swift project and i noticed that my app is leaking memory because of it. to test it out i created a new project with three lines in it.

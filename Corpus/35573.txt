@@ -1,0 +1,1 @@
+ URL : "https://github.com/veredrec/The-Magic-VASS/issues/46" TITLE : error loading data : BODY : currently im getting an error loading data when i select two currencies. typeerror: cannot read property 'price' of undefined on src/handler.js: 51

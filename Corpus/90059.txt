@@ -1,0 +1,1 @@
+ URL : "https://github.com/clauderic/react-sortable-hoc/issues/256" TITLE : right click triggers sort BODY : at least for me, even when trying to stoppropagation on the contextmenu event it starts dragging the element. not sure if contextmenu clicks also trigger normal click, and if that is true, how to disable the second regular event from firing.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ain/.vim/issues/48" TITLE : docu update fixes BODY : required dependencies: - vim 7.4.1578+. sudo port install vim +python33 to install from macports nb! powerline font needs to installed and selected to fully benefit from vim-airline .

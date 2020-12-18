@@ -1,0 +1,1 @@
+ URL : "https://github.com/evandromoura/itm/issues/12" TITLE : uc - thread financeira BODY : - gerar o boleto mensal por cliente - verificação de pagamento aviso sms e email - 15 dias em atraso = somente aviso de diminuição de velocidade - 30 dias em atraso = bloqueio - reativação de usuário 24 horas a partir do pagamento

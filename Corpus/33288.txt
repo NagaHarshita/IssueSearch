@@ -1,0 +1,1 @@
+ URL : "https://github.com/nerdenough/shoot/issues/2" TITLE : add file not working BODY : currently disconnected from the paste/upload system, the add file button just browses for a file and attempts to upload it to an old, non-existing endpoint.

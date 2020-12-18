@@ -1,0 +1,1 @@
+ URL : "https://github.com/sedyh/console-approximator/issues/1" TITLE : add fake console BODY : console buffer, cursor position and coloring features isn't available without third paty libs e.g jansi, jline etc. so i need to do fake console via swing paintcomponent . console isnt real, but hey, its 100% pure java.

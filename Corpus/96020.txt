@@ -1,0 +1,1 @@
+ URL : "https://github.com/dsavransky/EXOSIMS/issues/54" TITLE : drm output is inconsistent BODY : some things have units and some don't. also, most things are lists, whereas they'd be more useful as ndarrays. suggestion: standardize so that everything with multiple values is an ndarray and that everything that has a unit retains a unit.

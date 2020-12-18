@@ -1,0 +1,1 @@
+ URL : "https://github.com/honza889/cordova-plugin-kiosk/issues/20" TITLE : add npm package.json BODY : cordova 7.0.0 can't install this plugin because it doesn't contain package.json. example: https://github.com/ngocdaothanh/cordova-plugin-intent-action/blob/master/package.json

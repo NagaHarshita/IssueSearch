@@ -1,0 +1,1 @@
+ URL : "https://github.com/faustbrian/Laravel-Friendable/issues/21" TITLE : cancel friend request BODY : i don't see a way to cancel a friend request. example: 1. user a asks user b to be friends. 2. user b ignores this request. 3. some time in the future user a looks at the list of open friendship requests and decides to cancel the request to user b. is this currently possible?

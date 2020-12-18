@@ -1,0 +1,1 @@
+ URL : "https://github.com/preichelt/base-node/issues/21" TITLE : fix build gulp task BODY : change to es6 gulp.task 'build', 'lint' , callback => { gulp.src paths.allsrcjs .pipe babel .pipe gulp.dest 'lib' .on 'end', function { callback } }

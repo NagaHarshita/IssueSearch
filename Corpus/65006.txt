@@ -1,0 +1,1 @@
+ URL : "https://github.com/fancyapps/fancybox/issues/1689" TITLE : iframe & dynamic height BODY : hi. what is the best solution so that iframe height is calculated based on iframe content? also in some cases content height is adjusting, for example: in content you have login and thank you page redirect which height is different. kind regards.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/CroceRossaItaliana/jorvik/issues/487" TITLE : uso di target= _new BODY : @alfioemanuelefresta c'è qualche motivo per cui è usato target= _new anziché target= _blank ? il primo non ha ovviamente nessun significato specifico, c'è semplicemente da rimandare ad una nuova finestra, ma sempre la stessa qualunque sia la provenienza anziché aprirne n-mila?

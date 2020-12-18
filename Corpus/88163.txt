@@ -1,0 +1,1 @@
+ URL : "https://github.com/TheNeuronProject/ef.js/issues/7" TITLE : mount option modification BODY : before and after is sort of ambiguous, consider change to append and prepend while before and after could do other things.

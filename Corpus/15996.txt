@@ -1,0 +1,1 @@
+ URL : "https://github.com/u-root/u-root/issues/391" TITLE : godoc and exports BODY : clean up unnecessary exports and document intended exports so https://godoc.org/github.com/u-root/u-root reads cleaner and ci can gate on linter complaints about exports/comments.

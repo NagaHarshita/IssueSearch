@@ -1,0 +1,1 @@
+ URL : "https://github.com/dwyl/learn-offline-first/issues/9" TITLE : add tests to example. BODY : we need to add tests to our example to make sure it is reliable. testing some of the functionality will be okay, but the online/offline stuff may be a little more difficult so we need to explore.

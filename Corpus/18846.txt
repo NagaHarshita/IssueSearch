@@ -1,0 +1,1 @@
+ URL : "https://github.com/semibran/n-gon/issues/1" TITLE : use array vectors BODY : the lib would still do its thing in two dimensions, but the resulting polygons would be more flexible

@@ -1,0 +1,1 @@
+ URL : "https://github.com/cycloidio/raws/issues/2" TITLE : improve go documentation BODY : following https://github.com/cycloidio/raws/pull/1 issuecomment-313203385 it could be good to have better comments in the code respecting go convention, in order to have auto-generated go-compliant documentation of this package/library.

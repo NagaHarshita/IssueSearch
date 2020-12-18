@@ -1,0 +1,1 @@
+ URL : "https://github.com/arizz96/remind-o-matic/issues/30" TITLE : sanitizzare parametri api BODY : sanitizzare i parametri sostituendo caratteri speciali che potrebbero creare problemi con la codifica corretta ad esempio \' al posto di '

@@ -1,0 +1,1 @@
+ URL : "https://github.com/googlesamples/android-AutofillFramework/issues/10" TITLE : autofill hints values BODY : hi, is it possible to get a list of values for the hints in the doc? there is username and password in the exemple but is mail correct? i guess it depends on the providers, but then it's not standardized? removes a bit the point of the api then, no... ? thanks,

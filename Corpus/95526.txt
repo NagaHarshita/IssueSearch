@@ -1,0 +1,2 @@
+ URL : "https://github.com/M157q/m157q.github.io/issues/30" TITLE : debugging netlink requests BODY : link https://t.co/e4nrbatsh2 strace + pyroute2 可以 decode netlink 的 message
+也可以用用看 ip monitor 或 nltrace $

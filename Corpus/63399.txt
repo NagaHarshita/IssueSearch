@@ -1,0 +1,1 @@
+ URL : "https://github.com/liuwons/rScreen/issues/1" TITLE : dont support codec h264 BODY : avcodec_find_encoder dont return codec with av_codec_id_h264

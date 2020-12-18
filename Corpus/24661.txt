@@ -1,0 +1,1 @@
+ URL : "https://github.com/ISLab4Group30/group-30-starter-routes/issues/7" TITLE : task seven - bingo BODY : title | information ------------ | ------------- link |	/wise/bingo location |	lower middle author image expected result |	socrates' quote routing strategy |	regular expression routing required |	routing rule, leading to /bingo new controller

@@ -1,0 +1,1 @@
+ URL : "https://github.com/01org/linux-sgx/issues/103" TITLE : ipp crypto libs BODY : hi, can you please provide some example script illustrating how to use the ipp libraries within an sgx enclave? the examples provided at the ipp link don't work with sgx because of bignumber issues. more specifically, i am looking to run ippsrsa_encrypt and ippsrsa_decrypt . thanks!

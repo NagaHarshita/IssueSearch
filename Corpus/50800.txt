@@ -1,0 +1,1 @@
+ URL : "https://github.com/Intel-bigdata/SSM/issues/528" TITLE : add alluxio design doc BODY : it would be good to add alluxio as a new storage/data system for ssm ongoing to support. @taojieterry how would you like the idea? looks like pretty much progress we've made!

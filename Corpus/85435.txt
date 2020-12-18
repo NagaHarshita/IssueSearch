@@ -1,0 +1,1 @@
+ URL : "https://github.com/coders-for-labour/dashboard-for-labour/issues/1" TITLE : facebook auth in dev mode BODY : currently if you try to authenticate with facebook, and you're not a developer, it errors. need to put the facebook app in production mode.

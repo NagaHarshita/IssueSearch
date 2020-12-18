@@ -1,0 +1,1 @@
+ URL : "https://github.com/brave/browser-laptop/issues/10508" TITLE : .net libs in package BODY : didn't use brave some time... ls it needed .net installed in the system now? just to use it portably and be independent of instance .net or not - would like to suggest including needed for brave .net libs in the package !!! thank you in advance.

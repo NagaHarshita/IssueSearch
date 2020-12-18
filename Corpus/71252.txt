@@ -1,0 +1,11 @@
+ URL : "https://github.com/NSI-IT/AUG-DDMOBILE/issues/70" TITLE : add and manage companies BODY : as a ca i would like to manage companies so that i can create projects and users under a particular company. - verify that i can add company by adding a unique name.
+- verify that i can see company's listed when added.
+- verify that company's will be listed by following details:- 1. company name
+2. status
+3. added on date
+4. added by
+5. delete operation
+6. edit operation - verify that i can search company record by typing in or by choosing the name from the filter.
+- verify that i can disable a company record which then becomes de-active.
+- verify that i wont be able to delete a company which has projects associated.
+- verify that all active companies will show binded in the company droplist used to filter projects.

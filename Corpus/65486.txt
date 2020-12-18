@@ -1,0 +1,1 @@
+ URL : "https://github.com/SimonSimCity/Xamarin-CrossDownloadManager/issues/68" TITLE : ios fail start download BODY : when i try to start download. it failed. from sample project. downloadmanager add -> new items: 1 at -1 || old items: 0 at -1 thread started: 8 failed canceled. failed downloadmanager remove -> new items: 0 at -1 || old items: 1 at -1

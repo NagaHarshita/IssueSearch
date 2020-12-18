@@ -1,0 +1,1 @@
+ URL : "https://github.com/feathersjs/feathers-mongoose/issues/169" TITLE : lean and populate BODY : should i be able to use lean and populate together, i'm pretty sure you normally can with mongoose but i'm finding that population only works when lean is set to false on the model that's being populated.

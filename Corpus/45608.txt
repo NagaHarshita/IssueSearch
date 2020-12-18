@@ -1,0 +1,1 @@
+ URL : "https://github.com/sandersky/react-frost-core/issues/6" TITLE : improve demo app menu BODY : make sure menu is fixed width on smaller devices switch to a hamburger style menu where when you click on it, it expands

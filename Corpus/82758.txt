@@ -1,0 +1,1 @@
+ URL : "https://github.com/salt-formulas/salt-formula-salt/issues/62" TITLE : arch package is just salt BODY : i have seen that the package referenced by this formula is salt-zmq , this shouldn't be like that, as it was replaced by salt package in the arch linux repo. https://www.archlinux.org/packages/community/any/salt/

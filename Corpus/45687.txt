@@ -1,0 +1,1 @@
+ URL : "https://github.com/Ultimaker/Cura/issues/2291" TITLE : incorrect bq profiles BODY : hi, i have detected that bq profiles are incorrect. filament diameter should be 1.75mm. besides, the profiles are not well adjusted temperature, retraction... . if you want i can send you some good and tested profiles. thanks!

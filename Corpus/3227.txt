@@ -1,0 +1,1 @@
+ URL : "https://github.com/RSuter/MyToolkit/issues/93" TITLE : memory leak ? BODY : with uwp, i used mytoolkit.datagrid. after i show the datagrid, memory usage is increased. after close the view, it is not removed by gabage collection. is there memory leak ? how to clear memory ?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/PredixDev/px-code-design/issues/2" TITLE : wrong import in demo BODY : in the demo the sass import says: @import 'px-input-group-design/_objects.input-group.scss'; it should say: @import 'px-code-design/_base.code.scss;

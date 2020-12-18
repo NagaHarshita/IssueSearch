@@ -1,0 +1,1 @@
+ URL : "https://github.com/zalando/shop-api-documentation/issues/31" TITLE : etag seems to be missing BODY : i did get an etag earlier when i tried the api, as far as i can remember, but now i can't see any, not even in swagger.

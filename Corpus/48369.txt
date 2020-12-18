@@ -1,0 +1,1 @@
+ URL : "https://github.com/airburst/maps/issues/2" TITLE : route planner app mvp BODY : 1. consolidate dispatches in actions. 2. shouldcomponentupdate

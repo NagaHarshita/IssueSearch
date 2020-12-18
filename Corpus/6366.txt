@@ -1,0 +1,1 @@
+ URL : "https://github.com/RMHogervorst/badgecreatr/issues/32" TITLE : add cran badges BODY : cran downloads http://cranlogs.r-pkg.org/badges/{summary}/{package} cran version including date http://www.r-pkg.org/badges/version-last-release/{package} https://cranlogs.r-pkg.org/ https://r-pkg.org/services badges

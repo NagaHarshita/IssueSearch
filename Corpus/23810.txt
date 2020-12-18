@@ -1,0 +1,1 @@
+ URL : "https://github.com/cryptocoinjs/ecdsa/issues/25" TITLE : remove npm package BODY : if this is deprecated api module remove it from npm registry or mark it as deprecated like this one.

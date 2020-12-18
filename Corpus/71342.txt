@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla/network/issues/679" TITLE : add csp header in django BODY : unity has removed the need for cloudfront, and so we don't need to use lambda@edge to add security headers. we should add these in using a python module in the django project.

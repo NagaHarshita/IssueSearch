@@ -1,0 +1,1 @@
+ URL : "https://github.com/IllinoisCogComp/saul/issues/454" TITLE : property minor bug BODY : in this line: https://github.com/illinoiscogcomp/saul/blob/050f14ee9401db21dee68de34e581c90b63d6027/saul-core/src/main/scala/edu/illinois/cs/cogcomp/saul/datamodel/datamodel.scala l248 !ordered has to be changed to ordered .

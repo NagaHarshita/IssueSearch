@@ -1,0 +1,1 @@
+ URL : "https://github.com/HateNexus/text_preprocessing/issues/1" TITLE : initial pipeline setup BODY : goal - define text preprocessing pipeline deliverables - set text schema and required fields - prep text for both word and syntactic dependency embedding models

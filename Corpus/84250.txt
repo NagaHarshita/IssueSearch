@@ -1,0 +1,1 @@
+ URL : "https://github.com/Saiyato/volumio-snapcast-plugin/issues/2" TITLE : create librespot settings BODY : create librespot settings - find out how to enable the pipe backend - patch existing settings files / plugin index to prevent saves to break snapcast output

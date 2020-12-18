@@ -1,0 +1,1 @@
+ URL : "https://github.com/janastu/ncbs-modular/issues/121" TITLE : menu button: click issues BODY : when you click on an option on menu page, it open in the background. but it doesn't hide the menu page automatically. menu should auto-close when an option has been selected from the page.

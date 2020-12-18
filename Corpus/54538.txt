@@ -1,0 +1,1 @@
+ URL : "https://github.com/gbif/portal16/issues/295" TITLE : glyphicon for feedback BODY : the current glyphicon for feedback uses bootstrap comment , which is being used by many websites to link to chat or message section/feature. this is somehow misleading. i'd suggest for feedback we should use bullhorn instead.

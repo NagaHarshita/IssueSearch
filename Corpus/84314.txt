@@ -1,0 +1,1 @@
+ URL : "https://github.com/nathan-russell/hashmap/issues/9" TITLE : creating an empty hashmap BODY : dear nathan russel, is there a way to create a empty hashmap? if not, would it be handy to have a hashmap::hashmap accept leaving keys and values empty? or some syntactic sugar ? i end up doing this which isn't too bad : h = hashmap::hashmap temp = 1 h$clear

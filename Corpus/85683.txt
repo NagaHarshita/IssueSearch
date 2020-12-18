@@ -1,0 +1,1 @@
+ URL : "https://github.com/LibCrowds/vue-pybossa-frontend/issues/40" TITLE : fix current user handling BODY : the log out/log in functionality is a mess at the moment, fix it.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/adamwathan/bootforms/issues/136" TITLE : html in label? BODY : in version 0.8.4 i can add html to label and it's work fine: {!! bootform::text 'price <span class= label label-info >discount</span>','discount_price' !!} now in 0.8.5 it output html with htmlentities as a string. any ideas?

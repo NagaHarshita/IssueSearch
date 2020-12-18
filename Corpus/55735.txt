@@ -1,0 +1,1 @@
+ URL : "https://github.com/BitcoinUnlimited/BitcoinUnlimited/issues/240" TITLE : libpng errors on start BODY : i'm getting two libpng errors when launching qt from command line. libpng warning : iccp: known incorrect srgb profile chrm chunk does not match srgb

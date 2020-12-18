@@ -1,0 +1,1 @@
+ URL : "https://github.com/openscad/openscad/issues/2195" TITLE : tan 90 is defined BODY : run this code echo tan 90 ; result: 1.63312e+16 expected result: undef

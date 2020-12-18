@@ -1,0 +1,1 @@
+ URL : "https://github.com/VapourApps/va_master/issues/16" TITLE : backuppc overview panel BODY : data are available in /var/lib/backuppc/log/status.pl this file is auto updated by backuppc.

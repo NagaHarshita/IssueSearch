@@ -1,0 +1,1 @@
+ URL : "https://github.com/PushThePiece/chess/issues/74" TITLE : turn_logic 2 branch BODY : this branch has turn logic working. restricting moves is next. issue: rspec testing fails 4 tests.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ARMmbed/mbed-os/issues/4005" TITLE : disco-f769ni mbed os 5 BODY : just confused about mbed os support for this platform? on the mbed platform pages, its not listed as mbed-os platform. in mbed-cli it is listed to support mbed os? able to compile with mbed os in mbed-cli

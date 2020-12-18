@@ -1,0 +1,1 @@
+ URL : "https://github.com/kkozlik/iquest-wr/issues/17" TITLE : chroust ignores game_name BODY : ; name of the game. used in title of all screens and also as alt text for the logo ; default: i.quest game_name=viribus unitis had no effect on site title or alt text for logo.

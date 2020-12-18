@@ -1,0 +1,1 @@
+ URL : "https://github.com/kmelve/sanity-plugin-podcast/issues/2" TITLE : add dependency richdate BODY : richdate is not a part of the default sanity distro and should be added as a dependency here. it is provided by the npm-package @sanity/rich-date-input and should be in the package.json and also enabled by adding plugins : @sanity/rich-date-input in sanity.json.

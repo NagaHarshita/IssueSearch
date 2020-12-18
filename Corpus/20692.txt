@@ -1,0 +1,1 @@
+ URL : "https://github.com/facn2/path-18/issues/7" TITLE : create career card BODY : as a user i want to... - view card with job and decide if i like / dislike it - create view and route for career swiping - query database for careers - style card with css - implement swipe functionality - tests

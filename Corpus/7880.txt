@@ -1,0 +1,1 @@
+ URL : "https://github.com/awslabs/amazon-ecs-nodejs-microservices/issues/1" TITLE : lambda and ecs? BODY : would it be possible to build a backed with microservices using ecs and then run them through lambda and api gateway? would that be recommended for a startup with a couple engs?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mapsme/omim/issues/5358" TITLE : error on clone repo BODY : i am trying to clone the repo with git clone --recursive but i get an error: error: rpc failed; curl 56 sslread return error -980600 kib/s fatal: the remote end hung up unexpectedly fatal: early eof fatal: index-pack failed

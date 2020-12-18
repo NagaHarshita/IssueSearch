@@ -1,0 +1,1 @@
+ URL : "https://github.com/CPSB/nato.activisme.be/issues/13" TITLE : taal vlaggen onderbreken. BODY : voor nu ontbreken de vlaggen in de vertalings dropdown. dit komt omdat in npm flag-icon-css niet word binnengetrokken. dit zou moeten gebeuren omvervolgens de scss files in de app.scss te koppelen.

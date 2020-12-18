@@ -1,0 +1,1 @@
+ URL : "https://github.com/zyamusic/APIPerformaceTesting/issues/10" TITLE : consolidate config files BODY : need to move and reference dataset.csv and config.jmx into static dir only

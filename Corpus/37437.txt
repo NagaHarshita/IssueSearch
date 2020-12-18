@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla/network-api/issues/118" TITLE : make signup optional BODY : either - non-require field nullable - checkbox to include a signup at all - ??? - profit

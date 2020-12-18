@@ -1,0 +1,1 @@
+ URL : "https://github.com/tudortimi/prog_assert/issues/1" TITLE : add stacktrace for fails BODY : ius allows printing a stacktrace using the _$stacktrace_ system task. not sure about other simulators, though.

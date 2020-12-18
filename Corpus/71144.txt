@@ -1,0 +1,1 @@
+ URL : "https://github.com/ankitpatial/mongodb-promises/issues/6" TITLE : about mongodb dependency BODY : when i try to install this project npm install i found > mongodb-promises@0.2.0 requires a peer of mongodb@>=1.4.8 but none was installed. then how?

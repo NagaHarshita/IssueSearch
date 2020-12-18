@@ -1,0 +1,1 @@
+ URL : "https://github.com/ubbdst/protege-owl-plugin/issues/9" TITLE : add timestamp widget BODY : it will be possible to perform incremental updates if we have a timestamp property e.g http://purl.org/dc/terms/modified that would be updated on instance change.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/artemgurzhii/TravisCI-Telegam-Bot/issues/7" TITLE : prettify build message BODY : hey! thx for useful bot : maybe build messages could be a little bit more evident? something like this: ! default https://cloud.githubusercontent.com/assets/7067080/24237385/1afc2a1e-0fb7-11e7-9462-f8464e4c4bdc.png it's possible to use markdown for links.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/TravelModellingGroup/XTMF/issues/38" TITLE : close option disables BODY : in xtmf.gui if you edit a model system and try to close it you will be prompted by a dialog to see if you want to save. if you select cancel, you will no longer be able to close the dialog and it will be disabled in the menu.

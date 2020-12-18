@@ -1,0 +1,1 @@
+ URL : "https://github.com/CIRCL/AIL-framework/issues/112" TITLE : how to reset the platform? BODY : hello, is there a script or an easy way to remove the data from the platform? i have tried to remove the directory level_db and clear the data in the redis server but i have broken some functionalities and some data is still present. thank you.

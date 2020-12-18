@@ -1,0 +1,1 @@
+ URL : "https://github.com/RemoteDebug/remotedebug-ios-webkit-adapter/issues/59" TITLE : can debug wkwebview? BODY : in a uiwebview app can be normal debug. but in the wkwebview, dos not work ios_webkit_debug_proxy 1.7.1 libimobiledevice v1.2.1 libplist v1.12

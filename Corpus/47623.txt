@@ -1,0 +1,1 @@
+ URL : "https://github.com/coelckers/gzdoom/issues/178" TITLE : powerdamage is broken BODY : if the player has a powerup based on powerdamage, and he tries to attack an enemy, the game will crash. example pk3: damagepowerup.zip https://github.com/coelckers/gzdoom/files/682110/damagepowerup.zip . i've replaced the chainsaw with a double damage powerup pickup via mapinfo.

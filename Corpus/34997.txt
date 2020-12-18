@@ -1,0 +1,1 @@
+ URL : "https://github.com/CodeTheChangeUBC/reBOOT/issues/15" TITLE : csv parsing back-end BODY : this issue depends on 14. take the front-end request, parse the csv file with a library of your choice and insert into the db. csv library: https://docs.python.org/2/library/csv.html probably the best option

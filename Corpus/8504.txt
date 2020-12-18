@@ -1,0 +1,1 @@
+ URL : "https://github.com/yiigist/www/issues/11" TITLE : page contact us BODY : page contact us on url https://yiigist.com/support not working. after submiting form data i see json data - { name : bad request , message : , code :0, status :400} .

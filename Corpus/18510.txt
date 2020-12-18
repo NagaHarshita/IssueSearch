@@ -1,0 +1,1 @@
+ URL : "https://github.com/simakovEvgen/theHam/issues/12" TITLE : the react project BODY : при нажатии на икноку удаления в верхнем правом углу панели сообщения, оно удаляется не только со страницы, но также из массива messages .

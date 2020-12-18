@@ -1,0 +1,1 @@
+ URL : "https://github.com/libcthorne/rcollate/issues/49" TITLE : remove cron_trigger input BODY : just use a default cron trigger until 37 is done. this is to simplify 18

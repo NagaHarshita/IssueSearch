@@ -1,0 +1,1 @@
+ URL : "https://github.com/M-Bab/linux-kernel-amdgpu-binaries/issues/15" TITLE : amdgpu_dri.so is missing BODY : /usr/lib/x86_64-linux-gnu/dri/amdgpu_dri.so is missing. how can i solve this? _/usr/lib/i386-linux-gnu/dri/amdgpu_dri.so exists._

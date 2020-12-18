@@ -1,0 +1,1 @@
+ URL : "https://github.com/security-force-monitor/sfm-cms/issues/120" TITLE : minor api error BODY : a test user flagged an error and reported the api call in the error message: https://basetracker.securityforcemonitor.org/api/countries//map/?tolerance=0.01&at=2017-04-27

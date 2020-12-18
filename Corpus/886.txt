@@ -1,0 +1,1 @@
+ URL : "https://github.com/OWASP/owasp-mstg/issues/100" TITLE : 0x6b - typo BODY : in basic security testing ios , the 'the' word is repeated twice: such blatant tampering of course invalidates the the code signature .

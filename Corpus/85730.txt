@@ -1,0 +1,1 @@
+ URL : "https://github.com/r888888888/listbooru/issues/4" TITLE : fix process.daemon output BODY : same issue as https://github.com/r888888888/archives/issues/5 - without parameters, daemonized process redirects everything to /dev/null .

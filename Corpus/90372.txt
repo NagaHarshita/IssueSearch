@@ -1,0 +1,1 @@
+ URL : "https://github.com/pagarme/javascript-style-guide/issues/10" TITLE : set max-len to 80 columns BODY : airbnb's uses 100 columns as max length of a line however our experience using github tells that 80 columns still the best setting. it also ensures max readability and forces developers to write clean code.

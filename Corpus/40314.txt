@@ -1,0 +1,1 @@
+ URL : "https://github.com/Kamnitsask/deepmedic/issues/54" TITLE : training gives nan's BODY : hi i have problems training on my own dataset. some batches gives nan's in dice score. have you experienced this before? is it possible to incorporate gradient clipping? if so which script am i supposed to change.

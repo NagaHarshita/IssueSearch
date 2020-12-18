@@ -1,0 +1,1 @@
+ URL : "https://github.com/laravel-enso/Core/issues/31" TITLE : add translations service BODY : create a translationscontroller the handle ajax requestes for json translations the route doesn't need to be under verify-route-access and action-logger middlewares

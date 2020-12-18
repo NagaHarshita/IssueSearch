@@ -1,0 +1,1 @@
+ URL : "https://github.com/palladium-group/IQTools/issues/18" TITLE : missed appointment report BODY : missed appointment report is not updated for the green card. its referencing visit name ' initial and follow up visit ' instead of 'clinical encounter'

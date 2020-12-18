@@ -1,0 +1,1 @@
+ URL : "https://github.com/dachcom-digital/pimcore-formbuilder/issues/56" TITLE : formbuilder2 tag field BODY : create a custom form type for some simple html elements: yaml parameters: tag_field_types: - h1 - h2 - h3 - p - span - label this will generate a valid form element, for example: twig <h3>field label</h3>

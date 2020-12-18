@@ -1,0 +1,1 @@
+ URL : "https://github.com/dotnet/docfx/issues/2108" TITLE : improve template system BODY : 1. mustache -> handlebars for semantic syntax support 2. support razor?

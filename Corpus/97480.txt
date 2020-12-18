@@ -1,0 +1,1 @@
+ URL : "https://github.com/markeissler/gvm2/issues/4" TITLE : gvm2 messes with my prompt BODY : wes at wes-outreach-macbook in ~ ⌚ 11:55:59 ‹ruby-2.3.3› $ source $home/.gvm/scripts/gvm magenta wes at yellow wes-outreach-macbook in green ~ ⌚ red 11:56:01 red ‹ruby-2.3.3› $

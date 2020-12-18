@@ -1,0 +1,1 @@
+ URL : "https://github.com/zurb/foundation-sites/issues/10716" TITLE : make jquery an optional BODY : i was looking at frontend frameworks and had hoped foundation wouldn't list jquery as a required dependency. please move towards making jquery an optional piece instead of being required!

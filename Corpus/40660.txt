@@ -1,0 +1,1 @@
+ URL : "https://github.com/avalanche123/AvalancheImagineBundle/issues/208" TITLE : upgrade to symfony 3 BODY : your bundle specifically requires symfony/framework-bundle . any way you could upgrade the requirement so we can also use symfony 3 or 4?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/UWPCommunityToolkit/issues/1334" TITLE : text editor component BODY : it would be nice to have a text editor component with syntax highlight, line numbers, autocompletion. i'll probably give it a shot if someone can give an overview of how to implement this efficiently in uwp.

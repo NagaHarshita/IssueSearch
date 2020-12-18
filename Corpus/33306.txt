@@ -1,0 +1,1 @@
+ URL : "https://github.com/elliotchance/c2go/issues/40" TITLE : add go fmt to travis BODY : this is to make sure the codebase is always formatted correctly. the build should fail if go fmt finds files to format.

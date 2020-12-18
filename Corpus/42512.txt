@@ -1,0 +1,1 @@
+ URL : "https://github.com/PeterTh/gedosato/issues/392" TITLE : black frame insertion BODY : more of a feature request, but while using vsync presumably with present-interval set to 2? , black frame insertion may help 60fps-locked games look better on 120hz panels.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/iJargon/HopN/issues/14" TITLE : create login page BODY : user can create a new login info or login to an existing account check if username & pass match after either two, then be redirected to /cs480/events

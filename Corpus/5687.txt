@@ -1,0 +1,1 @@
+ URL : "https://github.com/davisking/dlib/issues/496" TITLE : set gpu to use BODY : is there a way to set which gpu to use? right now it uses gpu 0 by default.

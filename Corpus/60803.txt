@@ -1,0 +1,1 @@
+ URL : "https://github.com/epruesse/ymp/issues/8" TITLE : add init-project helper BODY : have a command that creates ymp.yml with defaults and/or adds projects to it.

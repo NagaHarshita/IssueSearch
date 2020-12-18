@@ -1,0 +1,1 @@
+ URL : "https://github.com/ganguli-lab/twpca/issues/20" TITLE : append to obj_history BODY : when calling fit , we should append to obj_history instead of reinitializing it if reinitialize is set to false

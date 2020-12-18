@@ -1,0 +1,1 @@
+ URL : "https://github.com/stepmania/stepmania/issues/1601" TITLE : crashes on start up BODY : hey guys im new to openitg and im having this problem video driver: intel r hd graphics 620 initializing direct3d... setvideomode failed: createdevice failed: 'd3derr_invalidcall'initializing opengl... setvideomode failed: couldn't set screen mode can you guys tell me how to fix this?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/vmonaco/general-hough/issues/1" TITLE : create python package BODY : there's been some renewed interest here, so it may be worth packaging this up and uploading to pypi, creating some proper examples, and updating the readme.

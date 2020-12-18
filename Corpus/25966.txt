@@ -1,0 +1,1 @@
+ URL : "https://github.com/ezekielchentnik/rollup-plugin-uglify-es/issues/2" TITLE : add minifier option BODY : if it would be possible to add the minifier option to rollup-plugin-es, developers could use any version they want.

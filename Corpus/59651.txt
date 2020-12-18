@@ -1,0 +1,1 @@
+ URL : "https://github.com/ni/nimi-python/issues/107" TITLE : update todos in readme BODY : the readme does not show correct information on python compiler and operating system support. there is also missing information marked with todo . we need to keep this updated as it affects documentation on read the docs http://nimi-python.readthedocs.io/en/docs-build_docs/index.html .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/necx-org/necx/issues/3" TITLE : set up file structure BODY : set up the basic file structure for this repository. create a place for nodes, scripts, ci, docs, etc. contemplate jekyll behavior.

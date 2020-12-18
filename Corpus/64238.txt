@@ -1,0 +1,1 @@
+ URL : "https://github.com/abogushov/django-admin-json-editor/issues/2" TITLE : fontawesome4 not loaded BODY : since you auto set the iconlib to fontawesome4, can you also add the django-fontawesome or django-font-awesome? dependency to the plugin ? icons aren't showing to the user if he doesn't have the font installed on his system.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jsdom/webidl-conversions/issues/12" TITLE : native type checks BODY : currently, many type checks are implemented as instanceof , which isn't exactly foolproof or standard-compliant. we could use v8is https://github.com/evanlucas/v8is instead, but it is a native module which might pose installation difficulties.

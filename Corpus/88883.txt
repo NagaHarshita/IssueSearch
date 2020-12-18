@@ -1,0 +1,1 @@
+ URL : "https://github.com/Cal-CS-61A-Staff/ok/issues/1151" TITLE : paginate extensions table BODY : as of now the extensions page admin/course/<cid>/extensions is not paginated and will grow rather large for certain courses.

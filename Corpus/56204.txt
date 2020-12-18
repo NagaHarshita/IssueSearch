@@ -1,0 +1,1 @@
+ URL : "https://github.com/gibs75/cpp_kun/issues/1" TITLE : missing extern library BODY : to make it easier to get and test the framework, would that be ok to integrate rapidjson as an extern dependency in this repository ?

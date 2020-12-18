@@ -1,0 +1,1 @@
+ URL : "https://github.com/fiduswriter/biblatex-csl-converter/issues/54" TITLE : question: marks on text BODY : are marks always of the form marks: { type: 'sup'}, { type: 'nocase'} or can they have more info than the type? if not, would marks: { sup: true, nocase: true } not be simpler?

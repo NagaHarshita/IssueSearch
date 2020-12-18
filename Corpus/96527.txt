@@ -1,0 +1,1 @@
+ URL : "https://github.com/saagie/gradle-saagie-plugin/issues/3" TITLE : export individuals jobs ko BODY : in windows environnement, gradle 4.3 and 2.0.5 plugin, when exporting a list of jobs in an archive only the last one is saved in the archive. attached an example of build.gradle build.zip https://github.com/saagie/gradle-saagie-plugin/files/1453334/build.zip

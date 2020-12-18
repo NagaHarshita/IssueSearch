@@ -1,0 +1,1 @@
+ URL : "https://github.com/BBasile/yatol/issues/19" TITLE : add ternary expressions BODY : the colon being used for type things, the c syntax is not possible. two options: - python-ish d a = b if condition else c; - c condition and else d a = condition ? b else c;

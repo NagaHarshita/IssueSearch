@@ -1,0 +1,1 @@
+ URL : "https://github.com/kbwood/datepick/issues/46" TITLE : scroll offset to calendar BODY : hi i have a calendar on the middle of the page www.example.com/location when i come on this page from another page the scroll is middle of the page where is my calendar instead of the top of the page as normal behavior. i check with option i can not get offset 0

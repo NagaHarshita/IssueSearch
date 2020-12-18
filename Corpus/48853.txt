@@ -1,0 +1,1 @@
+ URL : "https://github.com/jbcoe/ffig/issues/56" TITLE : speed up docker build BODY : external dependencies at given commits won't change as often as the code if at all , so it's best we move it further up in the dockerfile. it will speed up building containers, using docker build cache.

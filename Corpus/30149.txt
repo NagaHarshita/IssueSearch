@@ -1,0 +1,1 @@
+ URL : "https://github.com/anoved/OctoPrint-EmailNotifier/issues/29" TITLE : nothing on settings BODY : hi, i installed the plugin. i did registering yagmail. however, there is nothing on email notifier settings page. it is basically a blank page. no error messages in logs. what did i possibly miss?

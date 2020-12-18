@@ -1,0 +1,1 @@
+ URL : "https://github.com/fcaviggia/hardening-script-el6/issues/86" TITLE : unable to ssh remotely BODY : i am unable to ssh remotely unless coming from same subnet. please advise me of fix action or things to try

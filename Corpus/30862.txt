@@ -1,0 +1,1 @@
+ URL : "https://github.com/AgnieszkaKurek/WordWarI/issues/45" TITLE : reformat html files BODY : html files are ugly - they are not formatted. closing elements should be at the same line as opening elements. apart from that i have a feeling, that some of them are not closed.

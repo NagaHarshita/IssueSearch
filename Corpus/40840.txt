@@ -1,0 +1,1 @@
+ URL : "https://github.com/react-bootstrap/react-router-bootstrap/issues/205" TITLE : version 0.24 in npm? BODY : i'm in the process of updating to react-router 4 and looks like this library is ready but not published in npm. any reason? btw: i have a pr in definitely typed to update the typescript type definitions to 0.24

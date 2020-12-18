@@ -1,0 +1,1 @@
+ URL : "https://github.com/Lodifice/mfnf-pdf-export/issues/12" TITLE : parsing of references BODY : references with the code <ref>...</ref> need to be properly parsed. in the first version these elements can be ignored in the final pdf.

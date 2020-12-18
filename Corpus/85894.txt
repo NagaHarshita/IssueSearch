@@ -1,0 +1,1 @@
+ URL : "https://github.com/fstudio/clangbuilder/issues/15" TITLE : full utf-8 output support BODY : console output to utf8 $env:vslang=1033

@@ -1,0 +1,1 @@
+ URL : "https://github.com/shiffman/NOC-S17-2-Intelligence-Learning/issues/53" TITLE : wrong instance of dna BODY : dna line 15: function dna total, order { ... } sketch line 30: population i = new dna totalcities ; the constructor function has 2 parameters and, when you create the object, only pass one.

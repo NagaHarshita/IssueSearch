@@ -1,0 +1,1 @@
+ URL : "https://github.com/Traderain/Wolven-kit/issues/72" TITLE : fix build target BODY : currently irrlicht and vlc.net doesn't really like each other so the whole project has to be x86. this needs to be fixed so we can switch of the prefer 32bit and go back to anycpu.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/HaxeFoundation/neko/issues/174" TITLE : releasing neko 2.2.0 BODY : we have again accumulated quite a few fixes https://github.com/haxefoundation/neko/blob/master/changes , mostly on cmake/packaging. let's release a version? @ncannasse if you agree, and don't have anything to adjust, i will take care of releasing it.

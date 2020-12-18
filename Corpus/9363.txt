@@ -1,0 +1,1 @@
+ URL : "https://github.com/vapor-community/auth-example/issues/3" TITLE : vapor 2 support BODY : i tried to follow this example. my project built with vapor 2, but this example is built with vapor 1.x as most of the vapor-community examples . could anyone update this example to use vapor 2.x?

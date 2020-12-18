@@ -1,0 +1,1 @@
+ URL : "https://github.com/ProfessorProspector/Traverse/issues/1" TITLE : crash on startup BODY : https://pastebin.com/f8ngqt5b caused by: java.lang.nullpointerexception at prospector.traverse.config.traverseconfig.reloadversionconfig traverseconfig.java:105 traverse{1.11.2-1.1.1-20} fml forge-1.11.2-13.20.0.2314-universal.jar

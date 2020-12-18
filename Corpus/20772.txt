@@ -1,0 +1,1 @@
+ URL : "https://github.com/yktoo/indicator-sound-switcher/issues/59" TITLE : cri context failed BODY : i've been messing around with jack recently and now indicator-sound-switcher will not launch. verbose log: inf configuration file /home/jake/.config/indicator-sound-switcher.json not found, falling back to defaults cri context failed

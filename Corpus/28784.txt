@@ -1,0 +1,1 @@
+ URL : "https://github.com/KevinMackenzie/MyOneDriveClient/issues/2" TITLE : http error handling BODY : all of the methods in onedriveremotefilestoreconnection use the same authenticatedhttprequestasync method, but do no real error checking. this is a must in the future.

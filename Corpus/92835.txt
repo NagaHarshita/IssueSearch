@@ -1,0 +1,1 @@
+ URL : "https://github.com/Kotlin/dokka/issues/173" TITLE : a header for samples block BODY : quick javadoc in idea shows a header for samples block, it would be great if dokka did the same. at the moment it shows only contents of the samples.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/bengtmartensson/IrpTransmogrifier/issues/44" TITLE : speed up decoding BODY : presently takes slightly less than 100ms per decode, in comparison with < 1ms for decodeir.

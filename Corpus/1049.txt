@@ -1,0 +1,1 @@
+ URL : "https://github.com/brotherlogic/cardserver/issues/85" TITLE : fix the bug BODY : cardserver: no process found traceback most recent call last : file buildandrun.py , line 40, in <module> output.write out typeerror: expected a character buffer object

@@ -1,0 +1,2 @@
+ URL : "https://github.com/chillarnanda/foobar/issues/28" TITLE : app extends webviewclient BODY : the default handling of webviewclient should handle the
+onreceivedsslerror properly, which might break certificate validation 1:webviewclient is extended in class com.facebook.internal.webdialog$dialogwebviewclientnaive ssl error handling is implemented. this webviewclient breaks certificate validation. 2:webviewclient is extended in class com.flipkart.android.fragments.webviewfragment$bnaive ssl error handling is implemented. this webviewclient breaks certificate validation.

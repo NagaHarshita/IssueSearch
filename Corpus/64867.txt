@@ -1,0 +1,1 @@
+ URL : "https://github.com/idehub/react-native-google-analytics-bridge/issues/119" TITLE : how to set user traits? BODY : hi, usually with these libs there's an identify method where you pass not only a userid, but also a dictionary of traits for that user. i see setuser just takes a userid. how do i send user traits?

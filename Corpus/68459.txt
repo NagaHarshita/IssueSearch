@@ -1,0 +1,1 @@
+ URL : "https://github.com/akka/reactive-kafka/issues/362" TITLE : run tests with akka 2.5 BODY : to ensure the correct behaviour when using reactive-kafka with akka 2.5 all tests should be run against akka 2.4 and 2.5 as suggested by @johanandren in https://github.com/akka/reactive-kafka/issues/309.

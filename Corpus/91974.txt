@@ -1,0 +1,1 @@
+ URL : "https://github.com/graphcool/feature-requests/issues/220" TITLE : use meta fields in filter BODY : right now the _xmeta field is not included in the filter input type. i think it would be super useful in certain situations. for example, lets say i want to get all users that have created at least one post: query { allusers filter: { _postsmeta: { count_gt: 0 } } }

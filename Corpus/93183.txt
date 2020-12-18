@@ -1,0 +1,1 @@
+ URL : "https://github.com/SergeyFrolov/gotapdance/issues/49" TITLE : add indicators to the repo BODY : - x build status - test coverage - constant nagging reminder to write tests - generate godoc - esp useful since for external users - go report card - general code quality

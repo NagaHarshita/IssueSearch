@@ -1,0 +1,1 @@
+ URL : "https://github.com/JellevanCampen/j-site/issues/8" TITLE : implement a robust footer. BODY : implement a robust footer that scales correctly across different devices. - determine what information is needed in the footer - include the footer on each page, using the method decided in 5 - make the footer responsive to the device resolution

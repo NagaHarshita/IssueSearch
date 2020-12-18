@@ -1,0 +1,1 @@
+ URL : "https://github.com/probot/probot/issues/217" TITLE : thinking about our linter BODY : eslint-config-probot https://github.com/probot/eslint-config-probot is yucky and not well standardized. speaking of standardizing 😜, @bkeepers and i discussed switching over to use standard https://standardjs.com/ . any thoughts about linting and linters in the js world welcome :

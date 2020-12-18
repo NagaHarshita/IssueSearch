@@ -1,0 +1,1 @@
+ URL : "https://github.com/Happy0/ssb-chess/issues/30" TITLE : don't depend on sqlite3 BODY : it makes installation a pain, since electron doesn't like it being a dependency for some reason.

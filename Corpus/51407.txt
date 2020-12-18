@@ -1,0 +1,1 @@
+ URL : "https://github.com/webslides/WebSlides/issues/74" TITLE : allow scroll .ws-ready BODY : at the moment, if you want to create websites there is no way to scroll naturally. you should include the webslides element in your html. it's frustrating. the next release will automatically add .ws-ready to the html element. 😊

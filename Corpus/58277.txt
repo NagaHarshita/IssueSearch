@@ -1,0 +1,1 @@
+ URL : "https://github.com/fimassuda/overtime-app/issues/13" TITLE : send sms message daily BODY : check to see if an employee has logged time from the day before m-f , if they have no logged their time by 8am, send a sms.

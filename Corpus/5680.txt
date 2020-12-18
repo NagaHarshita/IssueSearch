@@ -1,0 +1,1 @@
+ URL : "https://github.com/Erluke/colmar/issues/2" TITLE : section 3 grid BODY : https://github.com/erluke/colmar/blob/d8df40bd09c7fd48a05b16d200b254ce52b4b8c1/index.html l190-l233 an alternative way to do this would be taking out the rows and having flex wrap the divs.

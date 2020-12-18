@@ -1,0 +1,1 @@
+ URL : "https://github.com/dbrockman/reformat-markdown-table/issues/3" TITLE : error format with chinese BODY : test case: | 姓名 | 电话 | 邮箱 | | --- | :---: | ---: | | 王顶 | 13582027613 | 408542507@qq.com | | 郭玉朝 | 15703277652 | baldy@163.com | output: ! bug-of-reformat-markdown-table https://user-images.githubusercontent.com/1182720/34460008-65284636-ee3c-11e7-8b90-5526e74b5e38.png

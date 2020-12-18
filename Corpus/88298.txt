@@ -1,0 +1,1 @@
+ URL : "https://github.com/tcpd/surf/issues/8" TITLE : need a help page for surf BODY : surf needs to have a help page explaining at least: - the different algorithms - how to use buttons like select as done, select up to here as done - the different merging algorithms, with some examples - surf.properties - add other topics here

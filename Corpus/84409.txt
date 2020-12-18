@@ -1,0 +1,1 @@
+ URL : "https://github.com/neilj/Squire/issues/264" TITLE : current element at cursor BODY : if i called getpath , i get p even when the 2nd paragraph has the cursor. i would like to know the current element where the current cursor lies. is there a way to getelementatcursor without having to modify the source code? thanks

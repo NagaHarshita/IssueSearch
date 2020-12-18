@@ -1,0 +1,1 @@
+ URL : "https://github.com/scalefocus/internship-link/issues/10" TITLE : crate company controller BODY : create company controller with the standard actions: index, details, create, edit and delete and the required views. the create controller functionality and scaffolding in visual studio can be used.

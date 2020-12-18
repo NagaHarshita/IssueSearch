@@ -1,0 +1,1 @@
+ URL : "https://github.com/CinemaVision/script.cinemavision/issues/34" TITLE : ratings bumper module BODY : remove the ratings bumper configuration from the feature module, and move it to a new ratings bumper module.

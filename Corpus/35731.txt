@@ -1,0 +1,1 @@
+ URL : "https://github.com/transferwise/tw-currency-select/issues/25" TITLE : extending the plugin BODY : is it possible to add new flags into this plugin. i have a requirment of showing country + currency. issue is for currency euro, it displays same flag for different countries. is there any way to solve this?

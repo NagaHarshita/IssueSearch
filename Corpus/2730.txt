@@ -1,0 +1,1 @@
+ URL : "https://github.com/REAANDREW/fake-winter-fuel-benefit-service/issues/1" TITLE : deploy to aws BODY : deploy the application to aws on a single instance behind an elb. ensure the instance can be queried and that hello, world! is returned. the makefile should have rules to deploy and destroy.

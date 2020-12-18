@@ -1,0 +1,1 @@
+ URL : "https://github.com/kubernetes/kompose/issues/814" TITLE : --volumes is not validated BODY : if you run kompose convert --volumes foobar pvc is created and no error is raised. this should error out as an invalid value for --volumes . currently, only possible values are persistentvolumeclaim and emptydir

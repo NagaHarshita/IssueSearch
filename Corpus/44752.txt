@@ -1,0 +1,1 @@
+ URL : "https://github.com/csf-dev/CSF.Data.NHibernate/issues/23" TITLE : fix nuget project url BODY : the project url points to a github pages path for the wrong project and not this project's url.

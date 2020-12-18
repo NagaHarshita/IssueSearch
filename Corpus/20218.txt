@@ -1,0 +1,1 @@
+ URL : "https://github.com/NEU-Libraries/cerberus/issues/1106" TITLE : bulk move of files BODY : give admin user s the ability to move multiple files to a collection. could work similarly to the set sentinel feature add files to set, click manage set , select move tab, enter destination collection pid

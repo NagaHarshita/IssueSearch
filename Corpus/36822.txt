@@ -1,0 +1,1 @@
+ URL : "https://github.com/cybergreen-net/stats-new/issues/221" TITLE : improve swagger docs BODY : currently when arriving on https://cybergreen-staging.herokuapp.com/api-docs it says default and only it's hard to understand what's going on there change default to some meaningful tags reference data , counts , rankings

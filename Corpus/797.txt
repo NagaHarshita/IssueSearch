@@ -1,0 +1,1 @@
+ URL : "https://github.com/Nedomil/Secret/issues/1" TITLE : npc vs npc BODY : npc's können aktuell nur den spieler angreifen. müssen auch fähig sein, andere npc's anzugreifen. vorgehen: 1. flexibler gegner public gameobject opponent . 2. npc's müssen erkennen, wen sie angreifen dürfen. 3. das kampfende muss ohne exp geschen, falls zwei npc's kämpfen.

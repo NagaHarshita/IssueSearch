@@ -1,0 +1,11 @@
+ URL : "https://github.com/toshi0383/cmdshelf/issues/26" TITLE : cat command BODY : new feature request sample use case $ cmdshelf run my/script
+hoge
+hage awesome! i want to see the implementation!
+$ cmdshelf cat my/script !/bin/bash
+echo hoge
+echo hage it may bahave exactly like unix cat command. $ cmdshelf cat > my/new-script !/bin/bash
+hello
+world^d
+$ cmdshelf cat my/new-script !/bin/bash
+hello
+world

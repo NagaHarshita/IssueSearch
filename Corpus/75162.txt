@@ -1,0 +1,1 @@
+ URL : "https://github.com/vbence86/giftassistant-client/issues/45" TITLE : get rid of the mock data BODY : as a developer, i'd like to purge the code from mock data and test code so that integration can take place and maintainability increases. a/c - no mock data can be found in the source code.

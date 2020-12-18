@@ -1,0 +1,1 @@
+ URL : "https://github.com/matthew-a-thomas/gps-logger/issues/51" TITLE : refactor away task.run BODY : since refactoring a lot of stuff to async/await, there are lots of task.run in the code. these are slow. see if http://itl.tc/generalized-async-return-types/ will help

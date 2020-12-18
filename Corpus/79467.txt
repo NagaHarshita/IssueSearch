@@ -1,0 +1,1 @@
+ URL : "https://github.com/dmsurti/reynolds-blender/issues/29" TITLE : show blockmesh obj files BODY : run blockmesh -blocktopology after blockmesh command is executed and display the blocktoplogy.obj file in layer 1.

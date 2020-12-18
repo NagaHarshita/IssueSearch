@@ -1,0 +1,1 @@
+ URL : "https://github.com/xesscorp/KiPart/issues/29" TITLE : fails under python2.7 BODY : the last commit included a python 3.0 only feature, the extended destructuring _ in common.py:79.

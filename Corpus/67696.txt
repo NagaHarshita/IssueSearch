@@ -1,0 +1,1 @@
+ URL : "https://github.com/Automattic/vip-go-mu-plugins/issues/517" TITLE : public repo out of date BODY : hi, saw issue 194 and it looks like the public repo https://github.com/automattic/vip-mu-plugins-public should still be around? fwiw it is a ~month behind on commits. only happen to notice because we had an old env pointed at public.

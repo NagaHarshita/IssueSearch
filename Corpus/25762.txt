@@ -1,0 +1,1 @@
+ URL : "https://github.com/blockstack/blockstack-core/issues/362" TITLE : add a utxo endpoint BODY : add a utxo endpoint to core for portal and other clients' to use. don't repeat yourself ;

@@ -1,0 +1,1 @@
+ URL : "https://github.com/log2timeline/dfvfs/issues/229" TITLE : fix dfvfs dependencies BODY : - change python-pysqlite to match upstream name python-pysqlite2 - make python-backports.lzma an optional dependency

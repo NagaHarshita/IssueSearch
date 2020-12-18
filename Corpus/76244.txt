@@ -1,0 +1,1 @@
+ URL : "https://github.com/openshift/openshift-ansible/issues/3901" TITLE : invalid release 3.4.67-1 BODY : description when pulling an older tag openshift-ansible03.4.67-1, we find code for 3.6.17. version https://github.com/openshift/openshift-ansible/blob/openshift-ansible-3.4.67-1/openshift-ansible.spec contains change history for 3.6.17.

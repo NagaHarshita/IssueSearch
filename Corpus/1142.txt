@@ -1,0 +1,1 @@
+ URL : "https://github.com/farsidesign/yii2-sbadminrtl/issues/1" TITLE : help to use BODY : سلام خسته نباشید ممنون از زحمتی که کشیدید. لطفاً راهنمایی بفرمایید این کد را در کجا قرار دهم؟ 'view' => 'theme' => 'pathmap' => '@app/views' => '@vendor/farsidesign/yii2-sbadminrtl/views/yiisoft', , , ,

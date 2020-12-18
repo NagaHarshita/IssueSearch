@@ -1,0 +1,1 @@
+ URL : "https://github.com/jptlightx005/DTRBiometrics/issues/20" TITLE : leave credits validation BODY : validate leave credits before adding if possible, check for the latest month and calculate the supposed credit the employee is going to receive. prevent adding of negative credits

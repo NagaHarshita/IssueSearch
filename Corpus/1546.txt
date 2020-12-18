@@ -1,0 +1,1 @@
+ URL : "https://github.com/RxSwiftCommunity/RxMediaPicker/issues/11" TITLE : add basic ci BODY : this repo could definitely use a basic travis implementation so future prs are guaranteed to not break the basic functionality. not sure will have time to do this soon but it's good to capture this being a need :

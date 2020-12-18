@@ -1,0 +1,1 @@
+ URL : "https://github.com/dgraph-io/badger/issues/223" TITLE : stable api timeline? BODY : when will the api and disk format be stable? i don't want to start integrating this and recommending people use it if things are changing as often as they are now.

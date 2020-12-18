@@ -1,0 +1,1 @@
+ URL : "https://github.com/adacode/babbage/issues/2" TITLE : add ci build BODY : use travis ci to run a build on each pull request.

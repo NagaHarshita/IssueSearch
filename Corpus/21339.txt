@@ -1,0 +1,1 @@
+ URL : "https://github.com/webpack/webpack/issues/4919" TITLE : externals not work BODY : i do a plugin, use exteranls exclude react： externals: { react: 'react' }, when i use this plugin，tell me the react is undefined，i use this plugin like this: import react from 'react'; window.react = react; import {fullmodal} from '../dist/cmui.min';

@@ -1,0 +1,1 @@
+ URL : "https://github.com/meltdown95/random-events/issues/1" TITLE : webhook для discord BODY : webhook для discord не работает. на данный момент на все реквесты дается следующий ответ: { code : 50006, message : cannot send an empty message } необходимо понять, в чем причина данного поведения и починить хук.

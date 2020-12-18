@@ -1,0 +1,1 @@
+ URL : "https://github.com/travistakai/CreditPreserve/issues/4" TITLE : add meta tags for seo BODY : on the master layout we should include a section to put meta tags so we can customize each pages search appearance on the popular search engines. then in each detailed page where we extend the master layout, fill in the details of the meta tags.

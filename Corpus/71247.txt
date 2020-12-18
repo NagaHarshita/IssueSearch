@@ -1,0 +1,1 @@
+ URL : "https://github.com/Nully/LaravelGenerators/issues/12" TITLE : add a type class skelton BODY : add a type class skelton. type class it is a pseudo enum class. example sutb file. php <?php namespace dummynamespace; use carbon\carbon; use laravelgenerators\types\enumabstract; class dummyclass extends enumabstract { // write your code. }

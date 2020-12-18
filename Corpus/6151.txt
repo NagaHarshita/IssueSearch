@@ -1,0 +1,1 @@
+ URL : "https://github.com/kartik-v/yii2-sortable-input/issues/10" TITLE : work with pjax BODY : i have some sortableinput widgets inside pjax widget. after showing a new sortableinput the js don't work. i understand, that i need re-initialize sortableinput js. can you give an example? thanks.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/pytorch/pytorch/issues/4292" TITLE : lua/torch to pytorch BODY : is there a mapping resource - document/website page between libraries and its methods of torch and pytorch? i'm trying to translate a lua/torch code https://github.com/mdtux89/amr-eager/blob/master/nnets/classify.lua to python with pytorch/numpy.

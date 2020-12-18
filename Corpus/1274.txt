@@ -1,0 +1,1 @@
+ URL : "https://github.com/CSAILVision/places365/issues/24" TITLE : no gpu used BODY : i run cuda_visible_devices=0 python run_placescnn_basic.py on my server . but i found the program runs on cpu. how can i use gpu to do test?

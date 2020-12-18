@@ -1,0 +1,1 @@
+ URL : "https://github.com/fmadio/fmad20_issues/issues/101" TITLE : packetscope 10tb analysis BODY : needs to detect when the page has moved away e.g. analysis cancel due to web page back button . it will current run until completion, which can be a very long time.

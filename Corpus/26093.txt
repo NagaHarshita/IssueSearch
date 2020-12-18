@@ -1,0 +1,1 @@
+ URL : "https://github.com/nodejs/citgm/issues/457" TITLE : add shot to the mix BODY : shot has been broken twice by node 8, i think it is doing some stuff very close to the internals, and it might be good to have them on board. https://github.com/hapijs/shot on node 8.2.0 shots tests aborts: https://github.com/nodejs/node/issues/14386 cc @hueniverse

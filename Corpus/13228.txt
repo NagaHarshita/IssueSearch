@@ -1,0 +1,1 @@
+ URL : "https://github.com/power-assert-js/power-assert/issues/75" TITLE : tests are failed BODY : probably because of breaking changes of dependencies. https://travis-ci.org/falsandtru/power-assert/jobs/193616863 https://travis-ci.org/twada/power-assert-keeper/jobs/193616232

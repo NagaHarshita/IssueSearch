@@ -1,0 +1,1 @@
+ URL : "https://github.com/DockStation/dockstation/issues/34" TITLE : docker machine support BODY : when i start the application i get the failwhale, because dockerstation doesn't know about my docker machine virtual machine.

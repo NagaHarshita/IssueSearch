@@ -1,0 +1,1 @@
+ URL : "https://github.com/mercadopago/sdk-php/issues/101" TITLE : ejemplo de ipn BODY : hola! alguno tiene un ejemplo que funcione de ipn? trabajo con este código de ejemplo sdk-php/examples/instant-payment-notifications/receive-ipn.php pero no logro recibir las notificaciones. gracias.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/virtool/virtool/issues/166" TITLE : account email field BODY : add an account email field. the email address will be passed to ncbi when using their api. things to do: - add email field to account client view - add email settings api endpoints - global email address for ncbi - disable ncbi functions if no email address is available ie. stop using ours!

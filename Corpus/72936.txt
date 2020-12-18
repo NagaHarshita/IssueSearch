@@ -1,0 +1,1 @@
+ URL : "https://github.com/heigeo/cordova-plugin-tensorflow/issues/6" TITLE : classify batch of images BODY : hello is it possible to classify batch of images ? classifying them one by one is much slower. thank you for answer

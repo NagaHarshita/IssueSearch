@@ -1,0 +1,1 @@
+ URL : "https://github.com/react-community/react-navigation/issues/922" TITLE : navigate back re-render BODY : default navigate back in stacknavigator doesnt fire render or componentmount,componentwillfocus,componentwillfocus bla bla bla how can i fire render method back is pressed

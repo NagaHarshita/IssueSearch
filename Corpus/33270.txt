@@ -1,0 +1,1 @@
+ URL : "https://github.com/airbnb/react-sketchapp/issues/112" TITLE : add docs for symbols BODY : here's an example https://github.com/airbnb/react-sketchapp/blob/master/examples/symbols/src/my-command.js to go by — need to document makesymbol and injectsymbols

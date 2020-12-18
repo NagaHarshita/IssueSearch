@@ -1,0 +1,1 @@
+ URL : "https://github.com/74th/vscode-vim/issues/54" TITLE : support 'j' to join lines BODY : would it be possible to support the 'j' command, which joins two or more lines http://vimdoc.sourceforge.net/htmldoc/change.html j ?

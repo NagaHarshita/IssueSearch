@@ -1,0 +1,1 @@
+ URL : "https://github.com/mhcapture01/cozy.tea/issues/1" TITLE : important - br tags BODY : https://github.com/mhcapture01/cozy.tea/blob/master/index.html l29-l30 try to avoid using br tags to increase space between elements. check out some more info here on when its appropriate to use those tags - http://html.com/tags/br/

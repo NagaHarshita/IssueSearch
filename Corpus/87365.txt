@@ -1,0 +1,1 @@
+ URL : "https://github.com/igvteam/igv/issues/374" TITLE : largedata dir for testing BODY : i'm trying to run the junit tests for igv and there is a directory missing that is causing some tests for fail: test/largedata/ can you tell me where i can find this test data? thanks, david mead mayo clinic

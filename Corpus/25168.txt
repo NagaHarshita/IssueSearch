@@ -1,0 +1,1 @@
+ URL : "https://github.com/Netflix/vector/issues/166" TITLE : vector on https:// BODY : while i had vector on http all is working fine. once placed it on https some script were blocked by chrome browser. can you please make sure that it is calling all scripts with // only instead of http://

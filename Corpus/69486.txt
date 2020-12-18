@@ -1,0 +1,1 @@
+ URL : "https://github.com/arventurers/shared-testing/issues/4" TITLE : test server reliability BODY : lets crash test the server running 15 pages with ar stuff running at the same time. to get an idea of how this will deal with traffic and whether we need a beast server or can get away with the cheap stuff.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/xdevelsistemas/js-data-dao/issues/6" TITLE : normalizar os erros BODY : algumas mensagens de erros não estão normalizadas devemos ter o seguinte formato: message => mensagem objetiva do erro objectresponse => objeto com o erro estruturado , ideal para casos de validação de modelos de dados

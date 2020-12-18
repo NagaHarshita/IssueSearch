@@ -1,0 +1,1 @@
+ URL : "https://github.com/erikdmitchell/fantasy-cycling/issues/15" TITLE : points in race go to team BODY : a team earns points in a race, those points should go to their team budget. this would help with the gamify aspect. note: we need to remove the non negative team score and allow negative scores.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/yandex/ClickHouse/issues/1016" TITLE : query with chinese BODY : - does clickhouse support query with chinese? - like this: sql select from xxx where city = '北京' - in my test, it seems not.

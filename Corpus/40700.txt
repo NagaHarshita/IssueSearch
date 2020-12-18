@@ -1,0 +1,1 @@
+ URL : "https://github.com/cb-geo/mpm-point-generator/issues/12" TITLE : use boost filesystem BODY : use boost filesystem to handle files and working directory

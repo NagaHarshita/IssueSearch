@@ -1,0 +1,1 @@
+ URL : "https://github.com/kand/dev-env/issues/21" TITLE : fix install steps for mac BODY : 1. need to install homebrew https://brew.sh/ before anything 2. apt-get is not a thing in mac, show mac steps for: 1. zsh: need to use curl command 2. tmux: need to install via brew 3. youcompleteme: https://github.com/valloric/youcompleteme mac-os-x

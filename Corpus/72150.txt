@@ -1,0 +1,2 @@
+ URL : "https://github.com/bilydr/test_issues/issues/38" TITLE : backup deleted contracts BODY : originally reported by: longyi bi bitbucket: bily https://bitbucket.org/bily , github: bily https://github.com/bily - - -
+the user deletes a contract app reaction: move deleled contract to a separate table in db log the user name and time of deletion bitbucket: https://bitbucket.org/bily/airhub/issue/6 ┆card is synchronized with this github issue https://github.com/bilydr/test_issues/issues/37

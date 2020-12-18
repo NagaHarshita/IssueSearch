@@ -1,0 +1,1 @@
+ URL : "https://github.com/juju-solutions/layer-filebeat/issues/30" TITLE : fix repo description BODY : filebeat is part of the elastic beats suite, and allows you to ship files to logstash or kibana could be filebeat is part of the elastic beats suite, and provides lightweight way to forward and centralize logs and files.

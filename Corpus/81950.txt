@@ -1,0 +1,1 @@
+ URL : "https://github.com/ANierbeck/Karaf-Vertx/issues/28" TITLE : add a docker-compose file BODY : with a docker compose file it's easier to test a cellar-hazelcast based vertx cluster.

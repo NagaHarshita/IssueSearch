@@ -1,0 +1,1 @@
+ URL : "https://github.com/sundflux/webvaloa/issues/105" TITLE : migrate to phpmailer BODY : since composer is used, add phpmailer to the requirements like most software do and allow configuration via config.php this also fixes 7 and 103 implementing 2 is potentially also easier.

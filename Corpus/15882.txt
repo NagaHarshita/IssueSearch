@@ -1,0 +1,1 @@
+ URL : "https://github.com/aufishgrp/istype/issues/11" TITLE : full type support BODY : there are some types in the erlang type spec that cannot be parsed, validated against, or converted into. it needs to be determined how these components are lacking and the deficits resolved.

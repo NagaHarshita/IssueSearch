@@ -1,0 +1,1 @@
+ URL : "https://github.com/yannickl/QRCodeReader.swift/issues/89" TITLE : overlayview and rotation BODY : if you rotate the device after having started the acquisition the overlayview is not updated. you can test it using your own example.

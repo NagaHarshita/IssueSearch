@@ -1,0 +1,1 @@
+ URL : "https://github.com/smooch/smooch-ruby/issues/3" TITLE : api is not authorizing BODY : after generating my jwt and going through the steps, i still get a non authorized error or a not found error: https://github.com/smooch/smooch-ruby/blob/master/docs/conversationapi.md post_message 2017-05-24 22:18:18 - smoochapi::apierror - not found:

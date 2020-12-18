@@ -1,0 +1,1 @@
+ URL : "https://github.com/BerrangeTaylor/bwa-u3-jammming-prj/issues/2" TITLE : spotify.getaccesstoken ; BODY : in order to get the accesstoken before the app renders, we can wrap spotify.getaccesstoken ; in componentwillmount. you can read up on that here; https://reactjs.org/docs/react-component.html

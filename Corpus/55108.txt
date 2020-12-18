@@ -1,0 +1,1 @@
+ URL : "https://github.com/DanwareCreations/S3MultipartUploader/issues/8" TITLE : implement part uploads BODY : implement the actual part uploads. whether synchronous or asynchronous calls are used should be determined by the advanced options. any exceptions that occur should be added to the log treeview.

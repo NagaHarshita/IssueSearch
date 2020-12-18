@@ -1,0 +1,1 @@
+ URL : "https://github.com/altimetrik-onboarding-uy/aasensio/issues/5" TITLE : set post status to ready BODY : as a user's manager when the post status change to ready i want to trigger an email for the post's writer.

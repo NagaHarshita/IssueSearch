@@ -1,0 +1,1 @@
+ URL : "https://github.com/Tickaroo/tikxml/issues/75" TITLE : default namespace error BODY : @xml writenamespaces = http://www.w3.org/2005/atom data class feed ... produces the following error: error: @xml annotated class feed contains an illegal namespace definition: http://www.w3.org/2005/atom because it contains more than 1 equals sign = character

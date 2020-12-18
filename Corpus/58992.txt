@@ -1,0 +1,1 @@
+ URL : "https://github.com/zeit/next.js/issues/3000" TITLE : switch to react 16 now BODY : since the official react 16 package is released, it's time for next.js 4.0 to slip out too! let's merge to react 16 and react-dom-stream!

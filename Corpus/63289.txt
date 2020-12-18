@@ -1,0 +1,1 @@
+ URL : "https://github.com/Tkanos/go-rest-api-sample/issues/3" TITLE : do repository unit test BODY : account_repository does not have unit test. we should unit test it, cf how to mock mgo.v2 and mgo.v2/bson

@@ -1,0 +1,1 @@
+ URL : "https://github.com/oney/react-native-webrtc/issues/314" TITLE : loud speaker support BODY : is this supported ? how can we increase the gain from the stream to output to device speaker? platform information os : android / ios

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Tidwell/node-challonge/issues/22" TITLE : add jsformat and jshint BODY : should have consistent code styles throughout. create npm scripts and add to travis integration test.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/niosus/EasyClangComplete/issues/257" TITLE : not recognizing bool type BODY : ecc highlights all bool declarations with error: unknown type name 'bool' . i have clang 4.0.0 installed in ubuntu. i have verified that code compiles under clang.

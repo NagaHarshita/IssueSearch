@@ -1,0 +1,1 @@
+ URL : "https://github.com/dbuscombe-usgs/DGS/issues/1" TITLE : dgs gui matlabr2016a BODY : just an fyi - to get the gui to bulk process images in matlabr2016a i had to remove continue from line 54 in the dgs_gui_swopsimages.m subfunction. cheers, christy

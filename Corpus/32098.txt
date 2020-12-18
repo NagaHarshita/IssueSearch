@@ -1,0 +1,1 @@
+ URL : "https://github.com/AKSHAYUBHAT/DeepVideoAnalytics/issues/34" TITLE : train indexer model BODY : hi, i want to train new indexer, how can i do it. example fine-tune inception model network.pb with my data

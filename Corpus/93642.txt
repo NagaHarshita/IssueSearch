@@ -1,0 +1,1 @@
+ URL : "https://github.com/kellyselden/ember-cli-update/issues/50" TITLE : allow semver hint versions BODY : should allow ember update --to 2.14 to resolve to '2.14.2'

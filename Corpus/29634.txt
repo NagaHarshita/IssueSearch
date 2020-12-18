@@ -1,0 +1,1 @@
+ URL : "https://github.com/parflow/parflow/issues/13" TITLE : memroy leak testing BODY : it would be highly desirable to have memory leak/out-of-bounds/etc testing added to the testing framework and run on some regular bases. can this be added to the travisci testing?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/square/tape/issues/183" TITLE : is it thread safe? BODY : i was looking into the description of tape but couldn't find if this queue is thread safe or not. i want to use the queue in a multi-threaded environment where concurrent reads and writes will happen. so i'm confused if i can use this queue in such situations or not.

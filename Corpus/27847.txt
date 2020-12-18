@@ -1,0 +1,1 @@
+ URL : "https://github.com/lyokato/graceful_stopper/issues/1" TITLE : endpoint of phoenix BODY : phoenix_1.3.0-rc.0 で使っているものでは、以下の部分だけこんな感じで変更を加えて使ってます。 def ranch_listener_sup_pids endpoint do endpoint_server = module.concat endpoint, server for {{:ranch_listener_sup, _}, pid, _, _} <- which_children endpoint_server , do: pid end

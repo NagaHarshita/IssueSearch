@@ -1,0 +1,1 @@
+ URL : "https://github.com/airbnb/lottie-ios/issues/386" TITLE : contrast / blur BODY : hi we're looking to add a liquid motion effect and need blur/contrast filters via ae. the exports works but then the filters don't work. any chance you'll be supporting these filters with future releases?

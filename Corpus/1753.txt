@@ -1,0 +1,1 @@
+ URL : "https://github.com/webcomponents/webcomponents.org/issues/861" TITLE : filter by v1 BODY : it would be nice to have a way to filter out v0 components. i don't have a good idea for how this could work other than having people tag their component as v1 vs v0. 😐

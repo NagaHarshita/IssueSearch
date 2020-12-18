@@ -1,0 +1,1 @@
+ URL : "https://github.com/maxcountryman/flask-seasurf/issues/74" TITLE : cors and csrf BODY : if i have specified 3rd party origins cors access to particular views, wouldn't the referrer checking in https always return a 403 because the origins would never match? in short, i would have to disable csrf protection for those views

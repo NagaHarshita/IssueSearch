@@ -1,0 +1,1 @@
+ URL : "https://github.com/krisk/Fuse/issues/144" TITLE : numbers not getting match BODY : i'm not sure if this is a bug or not part of fuse's scope, but numbers doesn't seem to be matching. var data = { name : 'john', age : 75 } ; var fuse = new fuse data, { shouldsort: false, threshold: 0.2, minmatchcharlength: 1, keys: 'name', 'age' } ; fuse.search 75

@@ -1,0 +1,1 @@
+ URL : "https://github.com/vuejs/vue/issues/6239" TITLE : router 动态 view BODY : vue有动态组件 <component :is= currentview ></component> 但是当它和router组合时， <router-view></router-view> 对应一个 <component :is= currentview ></component> 再对应具体的组件，这个嵌套层太多 <xxx></xxx> 我是想如果可以动态 router-view 的话 就可以这样 <router-view :is= currentview ></router-view> 再对应具体的组件，这样可以少嵌套一层，整个思路就清晰多了 <xxx></xxx>

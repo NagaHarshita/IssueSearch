@@ -1,0 +1,1 @@
+ URL : "https://github.com/bilalakil/brunch-map/issues/5" TITLE : initial zoom and focus BODY : when a map is loaded the zoom and focus of the map should be set to some relevant values, perhaps to encompass all of the existing entries.

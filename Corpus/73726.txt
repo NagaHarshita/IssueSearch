@@ -1,0 +1,1 @@
+ URL : "https://github.com/jongacnik/lilcss/issues/1" TITLE : decrease regex verbosity BODY : right now regex is verbose, was working on this too late at night. something more along the lines of currently not working : js /class= ?: ^ +? |' ^ +? '|\$\{ ^ +? \} /ig to match tagged template stuff like: js <div class=${true ? 'beep' : 'boop'}>

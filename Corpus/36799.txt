@@ -1,0 +1,1 @@
+ URL : "https://github.com/CDCgov/MicrobeTRACE/issues/103" TITLE : improve alignment ui BODY : microbetrace is not an alignment application, but it will do alignments if you really, really need it to. even so, there's no reason it shouldn't look good doing it.

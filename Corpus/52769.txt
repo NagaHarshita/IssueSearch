@@ -1,0 +1,1 @@
+ URL : "https://github.com/CrowdHailer/elixir-on-docker/issues/7" TITLE : create a nice homepage BODY : the homepage template is incredibly bare bone. https://github.com/crowdhailer/elixir-on-docker/blob/master/www/lib/www/home_page.html.eex it should be extended and receive some simple styling.

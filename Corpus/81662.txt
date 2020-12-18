@@ -1,0 +1,1 @@
+ URL : "https://github.com/snu-sf-class/swpp201701/issues/10" TITLE : 3/21 숙제 확인 방법 BODY : 1. python3 manage.py runserver 를 하여 polls 가 동작하는지 확인 2. python3 manage.py test polls 를 실행하였을 때 정상적으로 작동하는지 확인

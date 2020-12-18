@@ -1,0 +1,1 @@
+ URL : "https://github.com/docpad/docpad-plugin-pug/issues/2" TITLE : travis build failing BODY : @balupton everything works as expected but the travis build is failing. i'm not sure what the issue is but happy to fix it if you can point me in the right direction.

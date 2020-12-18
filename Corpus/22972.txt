@@ -1,0 +1,1 @@
+ URL : "https://github.com/ilikenwf/nestedSortable/issues/109" TITLE : nest to empty list BODY : hi i'm using bootstrap .panel-group as the container for the sortable/nestable elements, the thing is i can't nest an element to empty list whilst i can remove all the nested element from any list. any help please

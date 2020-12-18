@@ -1,0 +1,1 @@
+ URL : "https://github.com/ebiwd/EBI-Style-lab/issues/8" TITLE : add print guidance BODY : we should add some words on making better print experiences: - emulate print styles - media queries - .hide-for-print and .show-for-print

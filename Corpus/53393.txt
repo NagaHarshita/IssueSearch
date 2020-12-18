@@ -1,0 +1,1 @@
+ URL : "https://github.com/mviereck/x11docker/issues/15" TITLE : does not run on mac os BODY : when i run it, i got: x11docker error could not find user 'eussam' in /etc/passwd.

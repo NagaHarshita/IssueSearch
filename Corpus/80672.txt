@@ -1,0 +1,1 @@
+ URL : "https://github.com/spatie/laravel-server-monitor/issues/23" TITLE : unused migration imports BODY : in both create_checks_table.php.stub and create_hosts_table.php.stub , non-existing classes are imported copy/paste from uptime monitor hmm? :p : php use spatie\servermonitor\models\enums\certificatestatus; use spatie\servermonitor\models\enums\uptimestatus;

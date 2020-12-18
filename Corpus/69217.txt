@@ -1,0 +1,1 @@
+ URL : "https://github.com/sinesc/radiant-rs/issues/7" TITLE : support builder pattern BODY : as an alternative, support the builder pattern for display, font, texture and possibly sprite which currently doesn't use the info struct either

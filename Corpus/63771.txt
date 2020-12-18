@@ -1,0 +1,1 @@
+ URL : "https://github.com/HGustavs/LenaSYS/issues/3817" TITLE : errors in navheader.php BODY : this file should be validated. checked it against a validator and got some errors that might couse errors on the site. for example, stray end tags and such.

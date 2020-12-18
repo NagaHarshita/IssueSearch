@@ -1,0 +1,1 @@
+ URL : "https://github.com/PRL-PRG/R-dyntrace/issues/97" TITLE : indentation broken again BODY : when tracing testex1 function from the example set, the indentation does not add up. there are now many promise lookups which we have not seen before due to added instrumentation couldn't that break something?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/FAC10/week5-SoFLY-newsfeedAPI/issues/71" TITLE : npm module require? BODY : i might be missing something, but i've never seen 'require' specified in the package.json. is this a special module? if you're only using the 'require' feature to import modules, that's an in-built node feature.

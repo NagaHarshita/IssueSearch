@@ -1,0 +1,1 @@
+ URL : "https://github.com/manifoldco/torus-cli/issues/288" TITLE : repo is not signed BODY : i keep getting sh w: the repository 'https://get.torus.sh/ubuntu xenial release' is not signed. n: data from such a repository can't be authenticated and is therefore potentially dangerous to use. when i do apt-get update how can i solve this !?

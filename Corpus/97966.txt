@@ -1,0 +1,1 @@
+ URL : "https://github.com/benjreinhart/react-native-aws3/issues/57" TITLE : image resolution on upload BODY : hi, is there a way to change the resolution of the image when it's uploaded? i'm uploading images that about reasonably high quality but are being compressed into a really low resolution on upload. any suggestions?

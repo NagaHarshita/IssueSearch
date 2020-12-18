@@ -1,0 +1,1 @@
+ URL : "https://github.com/instabot-py/instabot.py/issues/479" TITLE : like a specific media BODY : is there any way to like a specific media? i mean i want to like media id number that i declare. bot.like mediaid doesn't work

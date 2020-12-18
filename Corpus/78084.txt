@@ -1,0 +1,1 @@
+ URL : "https://github.com/jlewi/mlkube.io/issues/83" TITLE : periodic test is failing BODY : periodic test is failing exit status 1 command output: running: rzp-tfjob-test-gzbl8t failed: rzp-tfjob-test-gzbl8t, run kubectl logs rzp-tfjob-test-gzbl8t --namespace default for more info i think we need to fix 82 so that we have the stdout/stderr so we can debug it.

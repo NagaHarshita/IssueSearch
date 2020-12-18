@@ -1,0 +1,1 @@
+ URL : "https://github.com/atlassian/react-beautiful-dnd/issues/235" TITLE : es module build BODY : bug or feature request? feature request could you provide es module build, which make tree-shaking available in build tools like webpack and rollup ?

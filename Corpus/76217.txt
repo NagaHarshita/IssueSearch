@@ -1,0 +1,1 @@
+ URL : "https://github.com/lemoeb/RegCashLinux/issues/5" TITLE : integration with sqllite BODY : currently the program uses a mysql database. it is necessary to allow the use of both mysql and sqllite

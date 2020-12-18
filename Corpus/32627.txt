@@ -1,0 +1,1 @@
+ URL : "https://github.com/peckadesign/Monitoring/issues/37" TITLE : vlastní user agent BODY : aby se provoz z monitoringu dal sledovat, navrhuji udělat vlastní user agent pro všechny requesty. něco ve stylu peckamonitoringbot/1.0 .

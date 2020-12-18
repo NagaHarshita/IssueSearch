@@ -1,0 +1,1 @@
+ URL : "https://github.com/jzhangnu/Leetcode-JS-solutions/issues/111" TITLE : 66. plus one BODY : javascript var plusone = function digits { var stop = false, i = digits.length - 1; digits i ++; while digits i == 10 || stop { digits i = 0; digits i-1 === undefined ? digits.unshift 1 : digits i-1 ++; digits i-1 !== 10 ? stop = false : stop = true; i-- } return digits };

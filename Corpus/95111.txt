@@ -1,0 +1,1 @@
+ URL : "https://github.com/lew13010/OC-PP-P5-Blog/issues/7" TITLE : correction security breach BODY : check that there is no security breach in the application: - xss - include - sql - csrf - crlf estimated time : 0.5 day --- vérification qu'il n'existe pas de faille de sécurité dans l'application : - xss - include - sql - csrf - crlf temps estimé : 1 jour

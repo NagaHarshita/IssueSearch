@@ -1,0 +1,1 @@
+ URL : "https://github.com/purescript/purescript-const/issues/8" TITLE : bind instance dodgy? BODY : i was surprised to see this existed. it's not compatible with apply .

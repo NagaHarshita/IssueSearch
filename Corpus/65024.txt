@@ -1,0 +1,1 @@
+ URL : "https://github.com/claeis/ili2db/issues/123" TITLE : ili2mssql: support uuid BODY : make use of uniqueidentifier and newid

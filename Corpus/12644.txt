@@ -1,0 +1,1 @@
+ URL : "https://github.com/ryanseddon/react-frame-component/issues/94" TITLE : react 16 portals BODY : since portals introduced in react, are there any benefits to use react-frame-component instead of reactdom.createportal ? for example: https://gist.github.com/robertgonzales/b1966af8d2a428a8299663b92fb2fe03

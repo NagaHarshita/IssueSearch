@@ -1,0 +1,1 @@
+ URL : "https://github.com/lainsce/quilter/issues/16" TITLE : invalid appstream metadata BODY : each screenshot should be its own screenshot tag and not have multiple image tags. see tomato https://github.com/luizaugustomm/tomato/blob/master/data/com.github.luizaugustomm.tomato.appdata.xml l13 as an example

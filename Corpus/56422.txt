@@ -1,0 +1,1 @@
+ URL : "https://github.com/RPCS3/rpcs3/issues/2436" TITLE : native resolution game BODY : hi i have offer to every game boot in self native resolution by default we can read resolution of param.sfo if do maybe we don't have error e {rsx::thread} rsx: nv3089_image_in_size:unknown origin 0

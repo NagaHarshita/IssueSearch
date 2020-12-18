@@ -1,0 +1,1 @@
+ URL : "https://github.com/morganthomas/freecat/issues/35" TITLE : break up core.hs BODY : suggestion: three files, core.hs, digest.hs, evaluate.hs. digest and evaluate depend on core. digest depends on evaluate.

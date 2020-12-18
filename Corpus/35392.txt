@@ -1,0 +1,1 @@
+ URL : "https://github.com/consulo/consulo/issues/308" TITLE : drop nanoxml library BODY : drop nanoxml library since we already have xml stream api in java and nano slower

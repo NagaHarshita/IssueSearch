@@ -1,0 +1,1 @@
+ URL : "https://github.com/wimg/PHPCompatibility/issues/364" TITLE : 5.4 and use of ::class BODY : seems that the use of the ::class class name resolution via ::class is not cached for: phpcs --standard=phpcompatibility --runtime-set testversion 5.4 path/to/the/file.php where in my file i have remove_filter 'theme_filter', \namespace\myclass::class, 'methodname' , 30 ;

@@ -1,0 +1,1 @@
+ URL : "https://github.com/devopsdays/devopsdays-cli/issues/45" TITLE : create addtalk function BODY : adds a talk to a program. used by the add talk command.

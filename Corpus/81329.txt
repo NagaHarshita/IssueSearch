@@ -1,0 +1,1 @@
+ URL : "https://github.com/ksuther/KSImageNamed-Xcode/issues/95" TITLE : will it support xcode 8? BODY : hello, i'm currently using xcode 8.3. i compiled the project and reopened xcode. but xcode crashes every time it prompts auto completion.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/AskNowQA/LC-QuAD/issues/1" TITLE : template 9 and 3 BODY : fix template 9 from { <% e_in_in s> <% e_in_in_to_e_in s> ?x . ?x <% e_in_to_e s> ?uri } to { <% e_in_in s> <% e_in_in_to_e_in s> ?x . ?x <% e_in_in_to_e_in s> ?uri } also interchange 3 and 303

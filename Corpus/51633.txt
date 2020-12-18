@@ -1,0 +1,1 @@
+ URL : "https://github.com/g0tmi1k/os-scripts/issues/28" TITLE : axiom theme url change BODY : line 741 returns 403 as the website hosting this file has changed their link naming format. i was successful with changing the link to https://dl.opendesktop.org/api/files/download/id/1461767736/90145-axiom.tar.gz

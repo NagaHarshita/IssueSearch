@@ -1,0 +1,1 @@
+ URL : "https://github.com/jboss-outreach/junit-get-started/issues/41" TITLE : codacy file name BODY : the name of the codacy configuration file is currently _codacy.yml_, when it should be _.codacy.yml_ to make it a hidden file. pr 40 fixes this issue.

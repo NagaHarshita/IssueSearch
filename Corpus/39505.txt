@@ -1,0 +1,1 @@
+ URL : "https://github.com/tersejs/terse/issues/22" TITLE : should params use _? BODY : currently, pages like /pages/users/_id/index.js are converted to /users/:id routes. i've already noticed that i've gotten confused with not knowing if the property would be req.params._id or req.params.id . i'm not using /pages/users/:id/index.js because it's only supported on macos .

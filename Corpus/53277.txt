@@ -1,0 +1,1 @@
+ URL : "https://github.com/SortableJS/Vue.Draggable/issues/189" TITLE : disallow drag and drop BODY : how can i prevent dragging a specific element or elements? using the code: > :move= checkmove there is still a visual dragging of the element

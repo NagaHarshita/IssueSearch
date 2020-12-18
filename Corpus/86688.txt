@@ -1,0 +1,1 @@
+ URL : "https://github.com/openbadges/badgecheck/issues/106" TITLE : implement email validator BODY : basically, we should only determine if there is an @ in it and that there is a local part and a remote part. anything more complex is likely to reject an email address that is technically valid.

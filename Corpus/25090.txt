@@ -1,0 +1,1 @@
+ URL : "https://github.com/jeremyboggs/jekyll-linkeddata/issues/4" TITLE : use linkeddata gem BODY : the linkeddata https://rubygems.org/gems/linkeddata gem is a metadistribution of rdf.rb, and include other parsers and serializers.

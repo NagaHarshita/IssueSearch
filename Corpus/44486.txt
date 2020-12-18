@@ -1,0 +1,1 @@
+ URL : "https://github.com/Cacti/plugin_gexport/issues/8" TITLE : export timing problem BODY : gexport is working from both the command line and also using graph export plugin using export now function. what does not work is export timing with timing method periodic/polling cycle or hourly/daily. gexport status is on idle green and next start remains in the past.

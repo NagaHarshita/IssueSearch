@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla/activity-stream/issues/1921" TITLE : typo in activitystream.js BODY : initializepreviewprovier should be initializepreviewprovider https://github.com/mozilla/activity-stream/blob/master/addon/activitystreams.js l118 https://github.com/mozilla/activity-stream/blob/master/addon/activitystreams.js l189

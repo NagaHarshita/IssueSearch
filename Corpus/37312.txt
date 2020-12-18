@@ -1,0 +1,1 @@
+ URL : "https://github.com/Incapsula/logs-downloader/issues/14" TITLE : log retention period BODY : i remember previous we had log retention period for logs which are stored locally in windows setup module . can this feature be added to this script, to delete old logs after certain time.

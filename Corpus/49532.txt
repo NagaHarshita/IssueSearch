@@ -1,0 +1,1 @@
+ URL : "https://github.com/jd-team-193/led-pathways/issues/53" TITLE : tune location updates BODY : location updating to the server works correctly, but we need to tune the frequency of these updates.

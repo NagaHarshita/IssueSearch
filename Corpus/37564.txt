@@ -1,0 +1,1 @@
+ URL : "https://github.com/thierry-martinez/pyml/issues/11" TITLE : meta file incomplete BODY : i think the meta file should have a dependency on stdcompat - on my machine at least, linking raises an error stating that the corresponding cmx is not found using jbuilder . the error doesn not occur once the dep. is added.

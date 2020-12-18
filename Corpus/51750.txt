@@ -1,0 +1,1 @@
+ URL : "https://github.com/evilhero/mylar/issues/1537" TITLE : better safe start mode BODY : i am noticing a few areas where safe start is not being respected. on start of course it can take you to manage, but for other actions, such as deleting a comic, it goes to home. can this be made more consistent to avoid the costly queries across the board?

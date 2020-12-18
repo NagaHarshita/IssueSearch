@@ -1,0 +1,1 @@
+ URL : "https://github.com/MarlinFirmware/Marlin/issues/7956" TITLE : wrong tempreature on lcd BODY : my problem is that the shown temp is fault from room temp and it is stable even when the arduino is connected to the pc only tevo black widow arduino mega 2560 mks gen v1.4 firmware uploaded marlin tevo black widow rc8

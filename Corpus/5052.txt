@@ -1,0 +1,1 @@
+ URL : "https://github.com/apache/incubator-mxnet/issues/8175" TITLE : julia ci build BODY : ref: https://github.com/apache/incubator-mxnet/pull/7741 issuecomment-328028136 i can help for adding julia ci build. any tips for how to start?

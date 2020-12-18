@@ -1,0 +1,1 @@
+ URL : "https://github.com/akera-io/loopback-discovery/issues/2" TITLE : cannot run correctly BODY : c:\working\loop>loopback-discovery ? data sources lis cannot read property 'name' of undefined c:\working\loop>

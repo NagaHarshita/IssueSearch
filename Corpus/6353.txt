@@ -1,0 +1,1 @@
+ URL : "https://github.com/mossmatters/HybPiper/issues/26" TITLE : add bwa options BODY : add the ability to adjust the bwa parameters, like seed length, mismatch penalty, and the score required for a read to be sorted.

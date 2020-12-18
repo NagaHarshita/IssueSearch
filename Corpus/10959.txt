@@ -1,0 +1,1 @@
+ URL : "https://github.com/16EAGLE/moveVis/issues/15" TITLE : error in example BODY : move_data$dt <- as.posixct strptime move_data$dt, \%y-\%m-\%d \%h:\%m:\%s , tz = utc gives this: error: '\%' is an unrecognized escape in character string starting \% move_data$dt <- as.posixct strptime move_data$dt, %y-%m-%d %h:%m:%s , tz = utc does not

@@ -1,0 +1,1 @@
+ URL : "https://github.com/danlls/snake-pygame/issues/12" TITLE : add snake head indication BODY : currently, the entire snake uses the same color, size and shape. add indicator to differentiate between the snake head and tail because the head is the main point of focus.

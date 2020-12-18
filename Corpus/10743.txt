@@ -1,0 +1,1 @@
+ URL : "https://github.com/vrana/notorm/issues/130" TITLE : delete all query BODY : how to run delete all this works for single row $row = $db->table $id ; $affected = $row->delete ; but how to run the equivalent delete all query in notorm delete from table where id >100

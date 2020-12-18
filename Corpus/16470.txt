@@ -1,0 +1,1 @@
+ URL : "https://github.com/laracasts/Lets-Build-a-Forum-in-Laravel/issues/16" TITLE : intersect on l5.5 BODY : hi jeffrey, i tried to migrate the forum to l5.5 and its complaining about the intersect method, do you know if it was renamed to something else? https://github.com/laracasts/lets-build-a-forum-in-laravel/blob/master/app/filters/filters.php l64

@@ -1,0 +1,1 @@
+ URL : "https://github.com/dirmeier/rnai-utilities/issues/3" TITLE : symbols and params BODY : currently i hardcoded which features should be used/disregarded/etc. this should maybe done with a dynamic config file, maybe in xml . e.g. global added_columns is terrible.

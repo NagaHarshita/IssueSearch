@@ -1,0 +1,1 @@
+ URL : "https://github.com/hall-lab/svtools/issues/231" TITLE : lsort file error handling BODY : we've encountered an issue where input files don't exist and errors weren't reported. ensure that non-existent files throw an error.

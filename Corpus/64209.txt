@@ -1,0 +1,1 @@
+ URL : "https://github.com/koekeishiya/chunkwm/issues/164" TITLE : float on per app basis? BODY : hello, apologies if this has been brought up before but i was unable to find anything. is there a way to configure chunkwm to always float certain apps/windows e.g. system preferences ? if so how would i go about that? thanks

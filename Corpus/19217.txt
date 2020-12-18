@@ -1,0 +1,1 @@
+ URL : "https://github.com/PKief/vscode-material-icon-theme/issues/122" TITLE : .http icon request BODY : you can use .http files with this extension https://marketplace.visualstudio.com/items?itemname=humao.rest-client should be for .http and .rest files. in terms of what the icon should be, i am unsure, but maybe an up down arrow pair to symbolise request response?

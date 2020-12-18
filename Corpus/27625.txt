@@ -1,0 +1,1 @@
+ URL : "https://github.com/marksatt/DistCode/issues/14" TITLE : does zeroconf work? BODY : i build the distcc/distccd, it works with hosts file contains ip, when i tried +zeroconf it failed to distribute to the slave. just want to know does zeroconf work on mac? thanks

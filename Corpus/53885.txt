@@ -1,0 +1,1 @@
+ URL : "https://github.com/steemit/steem-js/issues/103" TITLE : export the ecc package BODY : allows access to lower level objects like privatekey, publickey, etc.. import {ecc} from 'steem' const {privatekey} = ecc; there are over 30 files in steemit that use this syntax..

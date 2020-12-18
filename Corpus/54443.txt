@@ -1,0 +1,1 @@
+ URL : "https://github.com/icttuwien/acona/issues/4" TITLE : generalize read method BODY : change the syntax that the agentname is part of the read address with the format agent:datapoint. if no agentname is present, the current agentname is the default agent name. public list<datapoint> read list<string> datapointaddress, string agentname, int timeout throws exception {

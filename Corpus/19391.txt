@@ -1,0 +1,1 @@
+ URL : "https://github.com/escape-hatch/escape-hatch-node/issues/10" TITLE : add a license file BODY : code projects should be properly licensed to indicate their terms of use. a good open source license is the mit license, which basically lets people do anything they want with the source code so long as they credit this project and don't hold you accountable for anything.

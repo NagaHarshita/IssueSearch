@@ -1,0 +1,1 @@
+ URL : "https://github.com/TG9541/stm8ef/issues/12" TITLE : bug in countdown do +loop BODY : : foo 1 4 do i . -1 +loop ; should print 4 3 2 1 . instead, it just prints 4 .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/dotnet/corefx/issues/23304" TITLE : error running build-tests BODY : > csc : error cs1504: source file 'd:\dotnet\corefx\microsoft.xmlserializer.generator.tests.xmlserializers.cs' could not be opened 'the system cannot find the file specified. ' d:\dotnet\corefx\src\microsoft.xmlserializer.generator\tests \microsoft.xmlserializer.generator.tests.csproj

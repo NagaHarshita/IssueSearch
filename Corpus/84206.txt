@@ -1,0 +1,1 @@
+ URL : "https://github.com/lesspass/lesspass/issues/186" TITLE : create clipboard-js async BODY : for our workflow and to fix a lot of issue, we need the promise support for clipboard-js.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/BhavyaLight/kaggle-predicting-Red-Hat-Business-Value/issues/6" TITLE : preprocessing of dates BODY : - in red_hat_business_value.ipynb right now the date column has not been pre-processed. write code to preprocess the dates.

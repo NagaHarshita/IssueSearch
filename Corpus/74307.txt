@@ -1,0 +1,1 @@
+ URL : "https://github.com/lambdaisland/clj-parse/issues/6" TITLE : enhance the readme a bit BODY : i'd move the intro of the design document to the readme and maybe some other parts of it and link to the document from there. otherwise people checking out the project might omit a lot of interesting and important information about it.

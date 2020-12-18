@@ -1,0 +1,1 @@
+ URL : "https://github.com/ibogicevic/timeslice-chronometer/issues/22" TITLE : bug in file open dialog BODY : path of selected folder/file in video file open dialog is not considered only default path is taken

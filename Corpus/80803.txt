@@ -1,0 +1,1 @@
+ URL : "https://github.com/jooby-project/jooby/issues/831" TITLE : upgrade akka dep to 2.12 BODY : i was going to create a pr myself, but i am not able to successfully build from master. akka-actor_2.12 version 2.4.19 is the latest. looks like only a few lines to update

@@ -1,0 +1,1 @@
+ URL : "https://github.com/goldhat/QuizMaster/issues/14" TITLE : answer type support BODY : pass acf field data for answers to the answer data objects when loading questions, based on which type of answer.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/nicolai86/github-rebase-bot/issues/38" TITLE : prioritize approved prs BODY : it happens very often that we have 10 prs all marked as lgtm but only one of them is approved and ready to be merged. since most ci systems have limited concurrency this may result in 9 prs being rebased and re-run ci then 1 gets merged and all 9 have to run again.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/conveyal/modeify/issues/401" TITLE : stormpath joined okta BODY : since it is not possible to register to stormpath anymore, maybe it is a good idea to change the authentication management to to okta http://developer.okta.com/code/javascript/okta_auth_sdk ?

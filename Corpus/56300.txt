@@ -1,0 +1,1 @@
+ URL : "https://github.com/clauderic/react-infinite-calendar/issues/97" TITLE : months are overlapping BODY : from the demo: ! image https://cloud.githubusercontent.com/assets/1774266/24491017/046080f6-1571-11e7-8148-b8ccbba62a08.png the last week of july 2017 and first week of august 2017 are overlapping.

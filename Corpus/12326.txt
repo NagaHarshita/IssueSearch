@@ -1,0 +1,1 @@
+ URL : "https://github.com/nuxt/todomvc/issues/7" TITLE : nuxt build fails BODY : nuxt build fails didn't found header.vue and footer.vue quick fix: for windows builds, replace: import todoheader from '~components/header' import todofooter from '~components/footer' to import todoheader from '~/components/header' import todofooter from '~/components/footer'

@@ -1,0 +1,1 @@
+ URL : "https://github.com/amfranz/terraform-provider-xenserver/issues/7" TITLE : xen orchestra provider? BODY : using xen orchestra api as an endpoint for terraform would allow you to control multiple pools at once, using a dedicated api that hide the inherent xapi complexity. if you need assistance on doing that, let me know we got also a cli .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/w3c/wai-wcag-quickref/issues/148" TITLE : ms edge – test urls BODY : https://www.w3.org/wai/wcag20/quickref/?showtechniques=243 navigation-mechanisms-focus-order i got reports that our permalinks are not working in edge. this has to be tested and then see what we can do.

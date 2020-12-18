@@ -1,0 +1,1 @@
+ URL : "https://github.com/hallard/WeMos-RN2483/issues/6" TITLE : free d0 for deep sleep BODY : in a future revision, i'd like to see the opportunity to wire d0 to rst for deep sleep with a jumper / solder bridge on the board. this would mean moving the ws2812 led to another pin such as d16

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ibmalo95/Neighborhood-Map/issues/1" TITLE : map images don't load BODY : it looks like you're using http instead of https for the flicker api request so all the images in the popup are coming back as the default.

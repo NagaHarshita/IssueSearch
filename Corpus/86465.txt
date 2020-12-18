@@ -1,0 +1,1 @@
+ URL : "https://github.com/LonamiWebs/Telethon/issues/328" TITLE : how to set online status? BODY : some script actions join channel, send message, etc. don't makes him online. how to send online state to server?

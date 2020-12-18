@@ -1,0 +1,1 @@
+ URL : "https://github.com/tigerhawkvok/asm-mammal-database/issues/80" TITLE : move 'data generated with' BODY : put at top of taxon entry as 'citations' to highlight it more. data citation entry should be multiline rather than single line.

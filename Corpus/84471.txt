@@ -1,0 +1,1 @@
+ URL : "https://github.com/Mangopay/mangopay2-python-sdk/issues/99" TITLE : data is returned as bytes BODY : it seems that this library does not properly decode the data it gets from the api. i'm getting a unicodedecodeerror 'ascii' codec can't decode byte 0xc3 in position 1: ordinal not in range 128 when trying to render a firstname which has the value sébastien .

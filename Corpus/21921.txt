@@ -1,0 +1,1 @@
+ URL : "https://github.com/dtcooper/raspotify/issues/12" TITLE : how can this work? BODY : i thought it was no longer possible to obtain a spotify key, required to use libspotify. i never properly saved my key so now i don't have spotify connect on my raspberry anymore : your solution seems so simple, does it rely on the new beta web api from spotify?

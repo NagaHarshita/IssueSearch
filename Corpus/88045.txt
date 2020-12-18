@@ -1,0 +1,1 @@
+ URL : "https://github.com/darold/ora2pg/issues/386" TITLE : missing no logging tables BODY : how do you get table ddl for oracle non logging tables? right now, i only get tables that have logging enabled.

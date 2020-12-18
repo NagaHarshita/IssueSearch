@@ -1,0 +1,1 @@
+ URL : "https://github.com/commercetools/commercetools-sync-java/issues/34" TITLE : decrease pmd rule priority BODY : decrease pmd rule priority https://github.com/commercetools/commercetools-sync-java/blame/5d7509c7efc4349bad2241a15eaabc522c245bf3/build.gradle l54 to 1 and make the build pass.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/eldar/pose-tensorflow/issues/45" TITLE : how many fps？ BODY : can “articulated multi-person tracking” algorithm proposed here be implemented in real-time？ how many fps can it achieve？ can it achieve above 20 fps？

@@ -1,0 +1,1 @@
+ URL : "https://github.com/aws/aws-iot-device-sdk-arduino-yun/issues/52" TITLE : beyond aws iot? BODY : i'm looking for tutorial suggestions for the next steps, like - how to store data from arduino yun to dynamodb or any other database. - is lambda or kinesis necessary and how configure them with yun? what applications would need these two services?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/squizlabs/PHP_CodeSniffer/issues/1483" TITLE : extend a common standard BODY : is there an easy way to extend a common standard, like psr-2? something i love about eslint is how easy it is to just take an existing standard and add your own tweaks. is there an equivalent with phpcs? if not, can we make one?

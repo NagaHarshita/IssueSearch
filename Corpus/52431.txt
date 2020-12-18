@@ -1,0 +1,1 @@
+ URL : "https://github.com/pmalecka/chrome-shortkeys/issues/15" TITLE : cmd+⇑ for go forward BODY : i wanted to bind the shortcut cmd+⇑ to the command go forward and have tried the following combinations for the shortcut: cmd+↑ cmd+⇑ ⌘+⇑ ⌘+↑ nothing worked for me. can you please give me a hint how to bind this shortcut?

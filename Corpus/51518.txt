@@ -1,0 +1,1 @@
+ URL : "https://github.com/moosefs/moosefs/issues/38" TITLE : archive delay in hours BODY : it would be nice to have option to set delay time for archive in hours, not only in days ; this will allow f.ex. to create/keep data during the day and archive it at night.

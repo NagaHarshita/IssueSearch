@@ -1,0 +1,14 @@
+ URL : "https://github.com/andybotting/xbmc-addon-abc-iview/issues/2310" TITLE : end-user bug report BODY : automatic bug report from end-user. environment plugin name: abc iview plugin id: plugin.video.abc_iview plugin version: 1.8.0 xbmc/kodi version: 16.1 git:20160424-c327c53 python version: 2.7.8 default, jun 30 2014, 16:03:49 msc v.1500 32 bit intel operating system: win32 ip address: 210.185.83.129 isp : tpg internet python path: c:\users\allison\appdata\roaming\kodi\addons\plugin.video.abc_iview
+c:\users\allison\appdata\roaming\kodi\addons\script.common.plugin.cache\lib
+c:\users\allison\appdata\roaming\kodi\addons\script.module.beautifulsoup\lib
+c:\users\allison\appdata\roaming\kodi\addons\script.module.requests\lib
+c:\program files x86 \kodi\system\python\dlls
+c:\program files x86 \kodi\system\python\lib
+c:\program files x86 \kodi\python27.zip
+c:\program files x86 \kodi\system\python\lib\plat-win
+c:\program files x86 \kodi\system\python\lib\lib-tk
+c:\program files x86 \kodi
+c:\program files x86 \kodi\system\python
+c:\program files x86 \kodi\system\python\lib\site-packages
+c:\users\allison\appdata\roaming\kodi\addons\plugin.video.abc_iview\resources\lib traceback traceback most recent call last : file c:\users\allison\appdata\roaming\kodi\addons\plugin.video.abc_iview\resources\lib\series.py , line 35, in make_series_list series_list = comm.get_programme_from_feed category file c:\users\allison\appdata\roaming\kodi\addons\plugin.video.abc_iview\resources\lib\comm.py , line 142, in get_programme_from_feed shows = parse.parse_programme_from_feed feed, keyword file c:\users\allison\appdata\roaming\kodi\addons\plugin.video.abc_iview\resources\lib\parse.py , line 58, in parse_programme_from_feed for section in jsondata u'index' :
+typeerror: list indices must be integers, not unicode full xbmc.log https://gist.github.com/360f248eb276bd5e69af89ba66436ee7

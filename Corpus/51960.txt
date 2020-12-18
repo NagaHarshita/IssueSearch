@@ -1,0 +1,1 @@
+ URL : "https://github.com/videojs/videojs-vimeo/issues/101" TITLE : built script missing ? BODY : the source and build it using npm run build which built script are you referring to please? there is none in the package.json ~~~> https://github.com/videojs/videojs-vimeo/blob/master/package.json l7

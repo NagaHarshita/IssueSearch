@@ -1,0 +1,1 @@
+ URL : "https://github.com/KantaraInitiative/CISWG/issues/64" TITLE : make cr id format explicit BODY : consent receipt id': recommend 'must' be a uuid rather than leaving implementation details optional specify that the cr id shall be a uuid-4 including relevant references to define that

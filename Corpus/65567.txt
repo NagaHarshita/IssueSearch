@@ -1,0 +1,10 @@
+ URL : "https://github.com/broadinstitute/cromwell/issues/2876" TITLE : issue with wdltool 0.4? BODY : @eddiebroad commented on wed aug 10 2016 https://github.com/broadinstitute/wdltool/issues/12 i try to use wdltool validate on a wdl and it seems to _not_ catch
+an error in the wdl. in the example bad wdl attached the call to vcf_to_maf_task
+has the line inputvcf=inputvcf but the inputvcf exists only
+in the task but not at the workflow level but invoking wdltool 0.4 on it seems to _not_
+cause an error. shouldn't it be saying the wdl has an error
+because inputvcf does _not_ exist at the workflow level? i downloaded the wdltool from the latest release
+https://github.com/broadinstitute/wdltool/releases/download/0.4/wdltool-0.4.jar the two wdls are attached. wdl_files.zip https://github.com/broadinstitute/wdltool/files/412067/wdl_files.zip wm8b1-75c:red_bug esalinas$ find .wdl -exec java -jar wdltool-0.4.jar validate {} \; wm8b1-75c:red_bug esalinas$ diff good.wdl bad.wdl 188c188
+< inputvcf=invcf, ---
+> inputvcf=inputvcf,
+wm8b1-75c:red_bug esalinas$

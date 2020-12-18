@@ -1,0 +1,1 @@
+ URL : "https://github.com/Fishrock123/proposal-const-function-arguments/issues/2" TITLE : what about destructuring? BODY : for example: function f { foo, bar: {xyz} } { console.log foo, xyz ; } i suppose it should be like this: function f const { foo, bar: {xyz} } { console.log foo, xyz ; // both are const }

@@ -1,0 +1,1 @@
+ URL : "https://github.com/antanasbruzas/abGate/issues/2" TITLE : makefile has mistakes BODY : cppflags should be cxxflags prefix = should be prefix ?= make should be $ make g++ should be $ cxx -g -o3 shouldn't be hardcoded. it's better: cxxflags ?= -g -o3 ... $ cxxflags ... so that users will be able to set optimization flags.

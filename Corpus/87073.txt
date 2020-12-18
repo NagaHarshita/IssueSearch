@@ -1,0 +1,1 @@
+ URL : "https://github.com/seregazhuk/php-pinterest-bot/issues/295" TITLE : invite someone to a board BODY : request url:https://www.pinterest.de/resource/boardemailinviteresource/create/ request method:post data:{ options :{ board_id : 462393155430890611 , emails : bobunir@getapet.net }, context :{}}

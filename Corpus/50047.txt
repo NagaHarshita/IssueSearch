@@ -1,0 +1,1 @@
+ URL : "https://github.com/ppwwyyxx/tensorpack/issues/249" TITLE : validation on the cpu BODY : is there a way such that the training happens on the gpus and the validation happens on the cpus. for large batch sizes, i find that i get oom during the validation stage after the training is done for an epoch .

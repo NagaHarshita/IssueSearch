@@ -1,0 +1,1 @@
+ URL : "https://github.com/excalibur1234/pacui/issues/23" TITLE : maintain system option BODY : when only packer installed an error is thrown searching orphans ... /usr/bin/pacui: line 82: yaourt: command not found

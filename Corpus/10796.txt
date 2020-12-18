@@ -1,0 +1,1 @@
+ URL : "https://github.com/y13i/sgviz/issues/8" TITLE : detect vpc peers BODY : peered networks can be detected based on if the route table endpoint is a peer, so that ip pool can be marked different external as that is still in a vpc just not necessary under the same account, the name tag of the peer can be used for the network label.

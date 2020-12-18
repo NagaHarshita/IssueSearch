@@ -1,0 +1,1 @@
+ URL : "https://github.com/anthlubic/listify/issues/7" TITLE : component: track list BODY : component that takes an array of track objects? e.g. { url, artist, songtitle } ??? show in a list and they must be clickable to jump ahead/behind in the playlist. probably need a way to scroll up and down in the list because we'll only show x amount at a time.

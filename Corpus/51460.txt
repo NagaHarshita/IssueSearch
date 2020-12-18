@@ -1,0 +1,1 @@
+ URL : "https://github.com/rarmatei/progress-tracker/issues/9" TITLE : anthony: gettopics api BODY : create api/gettopics.js and add logic for handling get requests and returning all the topics in the database.

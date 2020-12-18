@@ -1,0 +1,1 @@
+ URL : "https://github.com/mapping-elections/site/issues/20" TITLE : flash on zooming BODY : there is a flash on zooming. probably one of the map divs has a grey background which should be set to white.

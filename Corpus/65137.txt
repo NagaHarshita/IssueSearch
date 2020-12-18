@@ -1,0 +1,1 @@
+ URL : "https://github.com/Milen-Tanev/BikeTrips/issues/2" TITLE : implement service layer BODY : use services in controllers, not repositories

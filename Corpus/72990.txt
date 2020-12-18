@@ -1,0 +1,1 @@
+ URL : "https://github.com/whoshuu/cpr/issues/197" TITLE : client side certificates BODY : in python requests, i can do _requests.get 'https://kennethreitz.org', cert= '/path/client.cert', '/path/client.key' _ to have the client identify itself using a certificate to the web server. does cpr support the same capability?

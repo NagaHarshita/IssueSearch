@@ -1,0 +1,5 @@
+ URL : "https://github.com/schwabe/ics-openvpn/issues/728" TITLE : block outside dns BODY : to make issues more manageable, i would appreciate if you fill out the details if applicable general information
+1. android version
+7 2. android vendor/custom rom
+honor 3. device
+honor 5c 4. version of the app version number/play store version/self built latest description of the issue unrecognized option or missing or extra parameter s in /data/user/0/de.blinkt.openvpn/cache/android.conf:36: block-outside-dns 2.5_master

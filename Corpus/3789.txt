@@ -1,0 +1,1 @@
+ URL : "https://github.com/atdyer/d3-chart/issues/11" TITLE : use d3 colors BODY : as the default color scheme and as an option for the chart, i.e. chart.color https://github.com/d3/d3-scale category-scales

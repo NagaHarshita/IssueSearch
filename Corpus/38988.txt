@@ -1,0 +1,1 @@
+ URL : "https://github.com/sreid8/EasyEventBusLib/issues/1" TITLE : remove magic numbers BODY : eventlistenerregisty.queuemagmtrunnable run has a magic number for the sleep value. this should be removed and made a default, but configurable value.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/dokspot/dokspot/issues/10" TITLE : ability to create a user BODY : data: - email unique, required controller should: - create the user unit tests: - attributes not empty - email is unique functional test: - should create user

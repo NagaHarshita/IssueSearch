@@ -1,0 +1,1 @@
+ URL : "https://github.com/mhacks/mhacks-web/issues/340" TITLE : edit profile upload resume BODY : bug expected function first upload box should say upload resume like the profile pic upload box says upload profile picture actual function currently says upload which is ambiguous steps to reproduce the bug

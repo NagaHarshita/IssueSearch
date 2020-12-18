@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozmar/basket/issues/24" TITLE : basket https only BODY : let's do this. steps: - switch health-checks to https - remove code relying on is_secure - setup redirector service in k8s clusters - add https redirector in basket for deis v1 clusters

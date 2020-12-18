@@ -1,0 +1,1 @@
+ URL : "https://github.com/vladfaust/core.cr/issues/7" TITLE : schema table do BODY : table name is essential, so make it schema https://vladfaust.com/core.cr/core/model/schema.html schema-macro 's argument just like crecto ? :thinking:

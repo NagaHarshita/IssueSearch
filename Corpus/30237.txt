@@ -1,0 +1,1 @@
+ URL : "https://github.com/madebymats/FieldtypeLeafletMapMarker/issues/17" TITLE : open popup via link BODY : hello, does anyone know how to open the info window of the marker when a link is clicked? i want to list a bunch of clickable buttons that open the map at different points, basically a 'view on map' button. best, connor

@@ -1,0 +1,1 @@
+ URL : "https://github.com/leonardothibes/node-cpf-cli/issues/5" TITLE : copiar para o clipboard BODY : se possível, já copiar o valor gerado para o clipboard do usuário. obrigatoriamente deve funcionar no linux e no mac. funcionar no windows é opcional.

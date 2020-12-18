@@ -1,0 +1,1 @@
+ URL : "https://github.com/Sommerregen/grav-plugin-toc/issues/14" TITLE : error on multlingual site BODY : we got an error on multilingual site e_warning - array_keys expects parameter 1 to be array, string given

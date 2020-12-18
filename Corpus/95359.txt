@@ -1,0 +1,1 @@
+ URL : "https://github.com/moztw/www.moztw.org/issues/557" TITLE : css grid demo 用字修正 BODY : 把 https://github.com/moztw/www.moztw.org/pull/530 issuecomment-299624490 拉出來成 issue @petercpg http://www-stage.moztw.org/demo/css-grid/ 「這是個沒有框架的排版框架」如果改成「這是個無需框架的排版框架」會不會更好些？ 「css 格線格線簡化了當今的設計模式 並 開創了平面設計的可能性。」裡面的那個「並」會變成斜體，在中文改成粗體強調會更好。

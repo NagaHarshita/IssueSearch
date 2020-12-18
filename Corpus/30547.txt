@@ -1,0 +1,1 @@
+ URL : "https://github.com/jupyterhub/oauthenticator/issues/89" TITLE : prepare 0.6 release BODY : - update changelog - double check readme docs - run through the release checklist and release - notify jupyter mailing list cc/ @minrk

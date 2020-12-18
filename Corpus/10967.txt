@@ -1,0 +1,1 @@
+ URL : "https://github.com/hydrabolt/discord.js/issues/1302" TITLE : error in typings BODY : typings : sendmessage => promise<message | message > actually : sendmessage => promise<message> incorrect typing causes errors on compiling: ! image https://cloud.githubusercontent.com/assets/10401817/24316942/fbecbb06-1124-11e7-9294-1f7fc117ac26.png
