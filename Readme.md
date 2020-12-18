@@ -1,6 +1,6 @@
 Implemented a cosine similarity ranking for the github issues document collection(100k docs).
 
-Corpus-QWERT-Part2.zip - contains all the documents 
+github link - https://github.com/NagaHarshita/IRProject
 
 ## Overview
 The code performs the following functions for document retrieval on the GitHub issues documents collection. 
@@ -63,32 +63,32 @@ Class DataPreProcessing:
 
 Class InvertedIndex:
 
-    ####1.updateTokensData:
+    #### 1.updateTokensData:
     - Calculates the total no. of docs, tokens 
 
-    ####2.InvIndex:
+    #### 2.InvIndex:
     - Calculates the inverted index with the dict and stores in the posting list 
     - Merges after every 50 docs 
 
-    ####3. TermFrequency
+    #### 3. TermFrequency
     - Calculates the doc frequency for each word 
     - format in storing the inverted index in posting 
     word(doc frequency): [docname(term freq), docname(term freq), ---]
  
 Class Query:
 
-    ####1. preProcess
+    #### 1. preProcess
     Preprocessing 
         a. tokenizes and removes puntuations
         b. removes stop words
         c. stems words
         d. removes stop words after stemming and words shorter than 2 characters
 
-    ####2. Scores
+    #### 2. Scores
     - Computes the scores for the tokens present in the query after preprocessing 
     - This uses tf-idf to compute the scores 
     - Performs cosine similarity 
 
-    ####3. printScores
+    #### 3. printScores
     - Prints the top 10 docs with their score 
     - Gives the url of the github issue matching the query 
