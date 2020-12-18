@@ -1,0 +1,1 @@
+ URL : "https://github.com/PolaricServer/webapp2/issues/10" TITLE : user defined layers BODY : allow users to add their own overlay layers. local files or internet services. store in local storage we may at a later stage, allow users to upload files e.g. gpx to a server and share with other users .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/howtographql/graphene/issues/3" TITLE : assertionerror at /graphql BODY : createuser fields must be a mapping dict / ordereddict with field names as keys or a function which returns such a mapping.

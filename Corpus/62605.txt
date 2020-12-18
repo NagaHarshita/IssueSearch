@@ -1,0 +1,1 @@
+ URL : "https://github.com/cncf/devstats/issues/32" TITLE : contributors by release BODY : similar to the top comments dashboard, it would be very beneficial for easily accessible data on who contributed to each release by their handle, including of prs, and the repo that they went into. we can then filter by the repo and the release date/number.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/frappe/erpnext/issues/8677" TITLE : healthcare module cleanup BODY : - merge appointment, service unit appointment - merge all settings - billing for patient - remove spaces in naming series - medical terms loaded in complaints - remove routine observation / service task - module groups - lab, patient registration, consultation, inpatient, setup -

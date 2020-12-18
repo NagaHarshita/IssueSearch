@@ -1,0 +1,1 @@
+ URL : "https://github.com/0xd4d/dnlib/issues/147" TITLE : support mdb files BODY : are there any plans to support loading/writing mdb files? i know that dnlib is kind of similar to cecil. i've been looking into mono.cecil.mdb but it doesn't seem to be easily portable to dnlib but i don't know the dnlib internals good enough.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/cyanogen/uchroma/issues/8" TITLE : hook up blend modes BODY : most of the code is there, but it's not properly passed from the commandline client.

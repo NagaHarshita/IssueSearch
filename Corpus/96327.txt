@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/google-play-vsts-extension/issues/72" TITLE : error on vsts task install BODY : hi i'm getting an undefined error occurred while attempting to connect to the server. status code 0: error. when i try and add to my vsts. any ideas? regards dave

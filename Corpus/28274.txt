@@ -1,0 +1,1 @@
+ URL : "https://github.com/steemit/steem/issues/1569" TITLE : fix static analysis BODY : steemd supporting linting via clang-tidy see 1445 . we should fix any problems found via linting.

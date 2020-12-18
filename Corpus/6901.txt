@@ -1,0 +1,1 @@
+ URL : "https://github.com/deeplearning4j/deeplearning4j/issues/3740" TITLE : check tsne docs BODY : this ticket came in, https://github.com/deeplearning4j/deeplearning4j/issues/2001 event-1179676201 looks like tsne has been improved and works with the ui in some way. verify/update the docs, build an example for this.

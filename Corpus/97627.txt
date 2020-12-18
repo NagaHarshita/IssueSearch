@@ -1,0 +1,2 @@
+ URL : "https://github.com/OpenNebula/one/issues/897" TITLE : homogeneous hybrid drivers BODY : --- author name: ruben s. montero @rsmontero original redmine issue: 3670, https://dev.opennebula.org/issues/3670
+original date: 2015-03-11 --- this is to: 1. use public_cloud in all drivers and deprecate ec2 1. use a common and more flexible procedure to configure credentials 1. use a common monitorization attribute name space 1. add cost information to use it in scheduling decisions

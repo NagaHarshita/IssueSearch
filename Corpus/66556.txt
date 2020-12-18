@@ -1,0 +1,1 @@
+ URL : "https://github.com/abjur/tpur/issues/2" TITLE : must read level 0 nodes BODY : html_table seems to ignore td's like this <td colspan= 5 style= background-color: 4c83c8;color:white; ><b>direito administrativo e outras matérias de direito público</b></td> maybe we'll need to implement a special html_table for this problem :

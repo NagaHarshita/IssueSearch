@@ -1,0 +1,1 @@
+ URL : "https://github.com/Nickersoft/push-fcm-plugin/issues/7" TITLE : location of mainifest file BODY : is it possible to change the location, similar to the serviceworkerlocation ? or just simply loading it in the html with whatever path it has work? i'm building this into a wordpress site and can't access the root directly

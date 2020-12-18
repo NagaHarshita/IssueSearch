@@ -1,0 +1,1 @@
+ URL : "https://github.com/begriffs/postgrest/issues/806" TITLE : allow url prefix for api BODY : allow using either server-proxy-uri = '/api' setting or other setting to put all api under prefix.

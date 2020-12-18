@@ -1,0 +1,1 @@
+ URL : "https://github.com/pandy06269/blue-twilight/issues/43" TITLE : include chart.js locally BODY : currently, chart.js is included as a reference from their cdn - we need to include this as part of blue-twilight.min.js .

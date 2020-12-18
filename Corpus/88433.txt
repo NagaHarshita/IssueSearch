@@ -1,0 +1,1 @@
+ URL : "https://github.com/singapore/renovate/issues/445" TITLE : no binaries are installed BODY : if i install the module globally or locally no link is added into the .bin directory. should the bin field in package.json be updated to bin/renovate.js from dist/ ?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/KernelDeimos/mines-python-pygame/issues/2" TITLE : no trigger for winning BODY : currently you can't actually win the game. well, you can, but the game doesn't know it.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/noerw/ttn-ogcswe-integration/issues/2" TITLE : add integration tests BODY : one of the harder tasks as we have two big 3rd party apis. - tooling for ttn: cli https://www.thethingsnetwork.org/docs/network/cli/ , or node-sdk.. - tooling for sos: requires enhancement of the transactional interface client to support get requests

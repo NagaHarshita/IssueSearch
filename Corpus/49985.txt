@@ -1,0 +1,1 @@
+ URL : "https://github.com/JMSwag/PyUpdater/issues/88" TITLE : user path with accent BODY : hello, i recently noticed that after a update with a user which have an accent on windows, pyupdater can't find and launch invis.vbs. there is a setting with sys to use utf-8 instead of ascii. import sys reload sys sys.setdefaultencoding 'utf-8' thank you for your help

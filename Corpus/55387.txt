@@ -1,0 +1,1 @@
+ URL : "https://github.com/PhonologicalCorpusTools/SLP-Annotator/issues/5" TITLE : interface with blender BODY : see if we can embed the blender gui interface into slpannotator so that people can get a 3d rotatable model of the handshape within slpannotator and then export a still image

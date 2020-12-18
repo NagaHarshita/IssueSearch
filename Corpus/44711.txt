@@ -1,0 +1,1 @@
+ URL : "https://github.com/BjerknesClimateDataCentre/QuinCe/issues/612" TITLE : fix date/time pickers BODY : the date/time pickers for gas standards and sensor calibrations don't use the inline mode because of a bug in primefaces. this will be fixed in the 6.2 release https://github.com/primefaces/primefaces/issues/472 , so when that happens we can fix the pickers.

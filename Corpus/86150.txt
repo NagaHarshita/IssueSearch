@@ -1,0 +1,1 @@
+ URL : "https://github.com/PromInc/organic-search-analytics/issues/60" TITLE : gsc import does not work BODY : all domains show 0 imported records for each day, eve that i know it was importing correctly before upgrade to 2.5.0 / 2.5.1 and that data exists as verified in the gsc for those domains

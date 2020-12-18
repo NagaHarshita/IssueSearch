@@ -1,0 +1,1 @@
+ URL : "https://github.com/BenjaminBrandmeier/angular2-image-gallery/issues/34" TITLE : migrate to angular 4 BODY : migrate to angular 4 and ensure that everything especially animations are still working on all major browsers + mobile. when using the project currently in an angular 4 environment with angular-cli 1.0.0 ie 11 is broken.

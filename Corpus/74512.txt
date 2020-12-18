@@ -1,0 +1,1 @@
+ URL : "https://github.com/kqyao/LemonDB/issues/1" TITLE : evaluate condition early BODY : condition evaluation using existing evalcondition is time consuming as string parse slows down the process

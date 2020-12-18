@@ -1,0 +1,1 @@
+ URL : "https://github.com/n4af/TR4W/issues/225" TITLE : alt-d clear problem BODY : tune across k1ccc on second radio and if in b.m. he spots into alt-d window. now tune to n4dw spot freq on second radio. the alt-d window erroneously loads 'n4dwc' because the window was not cleared before loading the new call.

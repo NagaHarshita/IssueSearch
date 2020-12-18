@@ -1,0 +1,1 @@
+ URL : "https://github.com/mschm/node-red-contrib-homekit/issues/28" TITLE : basic help is needed BODY : i'm a complete noob when it comes to this. if i would like the payload of { on : 1 } to be changed to on and { on : 0 } to be changed to off in order for my mqtt relays to change state. how do i do this? i don' understand how to write functions.

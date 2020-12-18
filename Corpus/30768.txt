@@ -1,0 +1,2 @@
+ URL : "https://github.com/gap9269/SDDSound/issues/354" TITLE : rabbit quest sounds BODY : - place_carrot
+- bunny_hop individual sound every time the rabbit hits the ground and hops again - take_rabbit optional, already makes the found item sound <!--- @huboard:{ order :1.9146009774684505e-33, milestone_order :4.292371029080688e-19} -->

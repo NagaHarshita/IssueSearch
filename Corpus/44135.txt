@@ -1,0 +1,1 @@
+ URL : "https://github.com/BlaineMoore/sendy-webhooks/issues/13" TITLE : elaborate on document BODY : hello, can someone tell me what does the following sentence in documentation mean? what should i do for it? > once you have done that, then you can just point your mailing service's webhooks api call to the appropriate service.

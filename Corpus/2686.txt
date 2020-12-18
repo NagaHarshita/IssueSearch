@@ -1,0 +1,1 @@
+ URL : "https://github.com/hackrushT/CPP-2048/issues/4" TITLE : create a grid BODY : create a 4x4 grid, something like this +------+------+------+------+ | | | | 2 | +------+------+------+------+ | | | | | +------+------+------+------+ | | | 2 | | +------+------+------+------+ | | | | | +------+------+------+------+ which is populated by two 2's at random places

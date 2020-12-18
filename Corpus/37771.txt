@@ -1,0 +1,1 @@
+ URL : "https://github.com/brownad/homebridge-doorbird/issues/4" TITLE : motion sensor issues BODY : noticed it can drop out over a day or so, so no events seen tracking this issue now: https://github.com/khaost/hap-nodejs/issues/418

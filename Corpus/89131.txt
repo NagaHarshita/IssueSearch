@@ -1,0 +1,1 @@
+ URL : "https://github.com/Co0sh/BetonQuest/issues/585" TITLE : points in a message event BODY : is it possible to display the amount of a point object in a message event? for example: event: message 'you habe ' points ' points!'

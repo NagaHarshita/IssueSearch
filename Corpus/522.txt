@@ -1,0 +1,1 @@
+ URL : "https://github.com/ApolloAuto/apollo/issues/1403" TITLE : em and dp BODY : hi apollo team, i would like to ask two questions. what is the role of em expectation maximization here? i couldn't find its implementation in planning layer. also, it seems that dp dynamic programming is being used in planning, what is the problem that dp is used to solve? thank you!

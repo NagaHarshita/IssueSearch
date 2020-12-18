@@ -1,0 +1,1 @@
+ URL : "https://github.com/manjaro/iso-profiles/issues/12" TITLE : kde apps BODY : should we replace pure qt apps with kde base apps? 16.12 has these kf5 ported. qpdfview -> okular qupzilla -> konqueror etc

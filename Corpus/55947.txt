@@ -1,0 +1,1 @@
+ URL : "https://github.com/qetuop/viral_wars/issues/1" TITLE : make a gameboard class BODY : - make it know what it's indicies are --> 0,0 , 0,1 , etc so that you can query if the mouse is in a valid tile should the board ever not be square ex: cross 0,0 would be empty or invalid - other stuff

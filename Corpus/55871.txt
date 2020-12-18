@@ -1,0 +1,1 @@
+ URL : "https://github.com/spring-cloud/spring-cloud-gateway/issues/104" TITLE : logging filter support BODY : support of the access log like nginx/tomcat

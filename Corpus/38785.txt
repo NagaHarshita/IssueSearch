@@ -1,0 +1,1 @@
+ URL : "https://github.com/adab1ts/veinapp/issues/32" TITLE : radius button review BODY : radius selection shouldn't trigger a search. the only events that can trigger a search are _enter key pressed_ and _search button click_.

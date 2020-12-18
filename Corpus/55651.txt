@@ -1,0 +1,1 @@
+ URL : "https://github.com/XCSoar/xcsoar-data-repository/issues/73" TITLE : kobo can't do ssl urls BODY : i noted that the kobo wget binary is built without ssl. this is problematic as it cannot download repo content via https. currently all the urls have been changed to http until https://bugs.xcsoar.org/ticket/3842 is resolved

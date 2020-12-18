@@ -1,0 +1,1 @@
+ URL : "https://github.com/Right2Drive/ease/issues/86" TITLE : create status for peer BODY : a small circle that is red when no peers are connected, and green when peer connected. additionally for host, should specify a number for how many peers are connected.

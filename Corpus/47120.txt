@@ -1,0 +1,1 @@
+ URL : "https://github.com/HoraceAndTheSpider/UAGS/issues/1" TITLE : not scraping artwork! BODY : im trying to scrape my amiga collection on retropie i am running with command sudo python3 uags.py while it scrapes the titles ok it is not saving any artwork to snaps,wheel etc and i cannot see them being saved to anywhere else is it broken or am i doing something wrong?

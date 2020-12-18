@@ -1,0 +1,1 @@
+ URL : "https://github.com/stormpath/stormpath-express-react-example/issues/34" TITLE : social login doesn't work BODY : using exact same stormpath.yml in this app and express-stormpath-sample-project . there i get a social login button, here i don't.

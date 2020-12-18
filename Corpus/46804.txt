@@ -1,0 +1,1 @@
+ URL : "https://github.com/CWSpear/hyperterm-visor/issues/29" TITLE : multi monitor support BODY : previously, with multiple monitors, i was able to hide my terminal on one then open it on another by moving my mouse. introduced sometime around the switch to hyperterm-register-shortcut . probably not high priority, but something to look into.

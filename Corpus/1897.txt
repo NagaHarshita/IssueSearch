@@ -1,0 +1,1 @@
+ URL : "https://github.com/77abe77/Collaborative-Denoising-Autoencoder/issues/3" TITLE : lack of code BODY : test文件夹中 ----------------------------------------------------- def test_variable_packing self : x = tf.constant with -----------------------------------------------------

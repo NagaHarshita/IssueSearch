@@ -1,0 +1,1 @@
+ URL : "https://github.com/openpreserve/fido/issues/98" TITLE : bad repeat interval BODY : pronom definitions v88 cause bad repeat interval messages. tracked down to the signatures for fmt/797 and fmt/798 which have {4,0} and {344,0} respectively in the regex. the maximum repeat cannot be smaller than the minimum repeat.

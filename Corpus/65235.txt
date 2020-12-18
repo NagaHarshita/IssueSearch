@@ -1,0 +1,1 @@
+ URL : "https://github.com/aaronduino/snippet-manager/issues/4" TITLE : improve snippet storage BODY : at the moment, snippets are stored in a json file. this should be probably be changed to a series of text files in a flat directory.

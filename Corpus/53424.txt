@@ -1,0 +1,1 @@
+ URL : "https://github.com/ubcfoss/ubc-orgs/issues/2" TITLE : don't have push access BODY : i'd like to add a description to code the change, but i can't push to the repo in order to make a pull request. perhaps members can be given write access to repos, with the master branch being protected?

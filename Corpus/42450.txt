@@ -1,0 +1,1 @@
+ URL : "https://github.com/FluxML/NNlib.jl/issues/19" TITLE : batchnorm and dropout BODY : does it make sense to put functional forms of batchnorm and dropout https://github.com/fluxml/flux.jl/blob/86097e76fdaa149b2caf815d5404c77d16c4f754/src/layers/normalisation.jl into nnlib so that other packages could simply import them from here?

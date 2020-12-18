@@ -1,0 +1,1 @@
+ URL : "https://github.com/Zvax/capture/issues/4" TITLE : allow stuff reordering BODY : stuff can need to be done in a certain order - add order field to db and unique index on id and order - allow for drag and drop of the elements of the same level

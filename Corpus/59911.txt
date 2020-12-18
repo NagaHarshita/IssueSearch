@@ -1,0 +1,1 @@
+ URL : "https://github.com/ethereum/cbc-casper/issues/141" TITLE : validator deepcopy bug BODY : issue currently, in the new genesis block implementation, when making a deep copy of a validator, there is a recursive error. todo: add error. proposed implementation discover what's up!

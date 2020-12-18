@@ -1,0 +1,1 @@
+ URL : "https://github.com/daviddarnes/alembic/issues/26" TITLE : various testing bugs BODY : - exclude 404 from default nav - readme contents needs indentation to match heading levels - switch margin on nav items to the right, so if there is only 1 item the margin gets cancelled out - make sure gemfile configs are all ok - more bugs to follow

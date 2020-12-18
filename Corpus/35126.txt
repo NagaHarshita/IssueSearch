@@ -1,0 +1,1 @@
+ URL : "https://github.com/tlgkccampbell/ultraviolet/issues/66" TITLE : default window color BODY : by default the window is plain white but i'd like to be able to choose a custom color i checked sdl doc and all i could find is something related to when the sdl2_renderer is created but you don't seems to rely on it so i'm a bit lost

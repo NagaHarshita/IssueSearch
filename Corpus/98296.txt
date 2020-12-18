@@ -1,0 +1,1 @@
+ URL : "https://github.com/benchflow/benchflow/issues/400" TITLE : initial semantic check dsl BODY : - check that at least one workload is defined - check that if goal is exploration or configuration then configuration.goal.explorationspace is defined

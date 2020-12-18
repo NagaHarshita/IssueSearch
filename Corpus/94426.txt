@@ -1,0 +1,1 @@
+ URL : "https://github.com/rsummers618/HTPC_Alexa_Skill/issues/25" TITLE : can't seem to create skill BODY : whenever i try to create the skill and get to the point where i have to fill in the endpoint, amazon tells me that i have to set the alexa skill set in lambda or something, i'm not really sure what i'm doing wrong here

@@ -1,0 +1,1 @@
+ URL : "https://github.com/lunet-io/scriban/issues/24" TITLE : comparing bool with bool BODY : hi, when evaluating an expression like true==true or myobject.is_true == true i get: unsupported types true/system.boolean == true/system.boolean for binary operation thanks.

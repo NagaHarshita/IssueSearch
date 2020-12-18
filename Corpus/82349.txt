@@ -1,0 +1,1 @@
+ URL : "https://github.com/BrandonHoffman/instance/issues/1" TITLE : add support for databases BODY : make it so models can be be saved to a database easily. possibly through syntax like so. @db.mongo '127.0.0.1:55555', 'username', 'password' class car schema : model: str year: int car = car model= mustang , year=2007 car.save

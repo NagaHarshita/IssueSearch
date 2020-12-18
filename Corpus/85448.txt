@@ -1,0 +1,1 @@
+ URL : "https://github.com/YunoHost-Apps/limesurvey_ynh/issues/27" TITLE : failed for corrupt source BODY : limesurvey échoue à l'installation en raison d'une erreur avec la somme de contrôle ! warning: yunohost.hook <lambda> - 746.1 corrupt source

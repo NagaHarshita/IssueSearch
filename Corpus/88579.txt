@@ -1,0 +1,1 @@
+ URL : "https://github.com/marmelroy/Localize-Swift/issues/65" TITLE : not working localization! BODY : hello! i installed by cocoapods, this is my code: let langs = kk , ru , en if i > 0 && i < langs.count { localize.setcurrentlanguage langs i let langstr = locale.current.languagecode print yazik: \ langstr and it is prints: only english, whenever i set other language:

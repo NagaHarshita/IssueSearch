@@ -1,0 +1,1 @@
+ URL : "https://github.com/indigofeather/laima/issues/415" TITLE : build '_' folder BODY : build 完後有一個 _ 的資料夾，內容應該是 css file-loader 處理過的 img 檔， 好奇是 _ 是哪個插件設定的？可以更換名稱嗎？

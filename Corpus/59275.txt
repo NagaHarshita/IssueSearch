@@ -1,0 +1,1 @@
+ URL : "https://github.com/hoburg/d8/issues/69" TITLE : too many boolean flags BODY : we have too many boolean flags for different aircraft types. this worked well when we only had two aircraft, but now we have many. i think what needs to happen is each airplane just has it's own submodels built just for it...thoughts?

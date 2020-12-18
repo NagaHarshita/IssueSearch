@@ -1,0 +1,1 @@
+ URL : "https://github.com/akka/akka-http/issues/1133" TITLE : symlink for 10.0 docs BODY : should we have the same kind of symlinks as for akka? for example, i expected this to work: http://doc.akka.io/docs/akka-http/10.0/security/2017-05-03-illegal-media-range-in-accept-header-causes-stackoverflowerror.html we don't want links directly to 10.0.6

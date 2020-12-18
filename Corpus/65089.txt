@@ -1,0 +1,1 @@
+ URL : "https://github.com/tstana/cubes-sw/issues/4" TITLE : implement command queue BODY : at least while the software is being used for cubes, a command queue should be implemented. this is a means of making sure the user can issue commands to the fpga while the fpga is replying to another command.

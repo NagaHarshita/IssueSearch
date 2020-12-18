@@ -1,0 +1,1 @@
+ URL : "https://github.com/TracksApp/tracks/issues/2090" TITLE : empty? to !exists? BODY : https://github.com/tracksapp/tracks/blob/0c18ebecc52c26e3356ab68ebea1791a1444b82c/app/models/project.rb l106 empty? will issue select oount exists? will issue select 1 instead

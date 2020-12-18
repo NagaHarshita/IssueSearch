@@ -1,0 +1,1 @@
+ URL : "https://github.com/dotnet/core-setup/issues/1548" TITLE : port rid fix for 1504 BODY : this is to track port the fix for https://github.com/dotnet/core-setup/issues/1504 once it gets checked into master via https://github.com/dotnet/core-setup/pull/1505. we will take this fix post 1.1.1 release.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/arduino/arduino-create-agent/issues/182" TITLE : project hub sso failing BODY : the crossover link to project hub seems to be failing at the sso point for login this leaves users unable to move to project hub from arduino.cc.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/kubernetes-helm/monocular/issues/365" TITLE : update the dev doc BODY : hi: please, update your dev doc at https://github.com/kubernetes-helm/monocular/blob/master/src/ui/readme.md before make the app you need to install node dependencies with npm install

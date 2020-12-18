@@ -1,0 +1,1 @@
+ URL : "https://github.com/codacy/codacy-find-sec-bugs/issues/7" TITLE : update fsb to 1.7.1 BODY : there were many important updates to fsb https://github.com/codacy/codacy-find-sec-bugs/blob/master/build.sbt l34 latest cli package: https://github.com/find-sec-bugs/find-sec-bugs/releases/download/version-1.7.1/findsecbugs-cli-1.7.1.zip

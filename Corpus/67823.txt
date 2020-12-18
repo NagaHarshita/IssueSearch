@@ -1,0 +1,2 @@
+ URL : "https://github.com/QualiSystems/Azure-Shell/issues/404" TITLE : qualix - caching issues BODY : in an azure environment, have qualix configured. 1. create a linux vm. 2. connect via the new ssh controller.
+3. connect via the old rdp controller. bir if you connect once more via the ssh controller.

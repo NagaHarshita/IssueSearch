@@ -1,0 +1,1 @@
+ URL : "https://github.com/equella/Equella/issues/245" TITLE : flag to enable blind ssl BODY : we should not use blind ssl by default, as it reduces the security for production environments with ca certificates. there should be a setting in optional-config to enable blind ssl. you can name it whatever makes sense :

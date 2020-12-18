@@ -1,0 +1,1 @@
+ URL : "https://github.com/faustbrian/Laravel-Chartist/issues/13" TITLE : database multi bar chart BODY : when using the database multi bar chart on the group by the whatever column name the chart returns wrong data mixing up the groups it’s grouped by.

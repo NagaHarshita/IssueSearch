@@ -1,0 +1,1 @@
+ URL : "https://github.com/okinawarb/haml_i18n_lint/issues/1" TITLE : support hash rocket BODY : haml %meta{content: 'text/html; charset=utf-8', 'http-equiv' => 'content-type'}/

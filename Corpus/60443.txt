@@ -1,0 +1,1 @@
+ URL : "https://github.com/aberezkin/ng2-image-upload/issues/31" TITLE : 2 components concurency BODY : if you have 2 component on one page and they have different urls one component will not work because service has only one url

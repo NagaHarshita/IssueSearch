@@ -1,0 +1,2 @@
+ URL : "https://github.com/davidanthoff/ReadStat.jl/issues/31" TITLE : error tagging new release BODY : the url of this package does not match that stored in metadata.jl.
+cc: @davidanthoff

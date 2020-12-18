@@ -1,0 +1,1 @@
+ URL : "https://github.com/digioz/php/issues/27" TITLE : xss in index.php BODY : here is a xss vulnerability in index.php about parameter order. poc: http://your-web-root/indexer/1.2/index.php?order= ><script>alert 1 ;</script>< this poc will pop a window in firefox browser.

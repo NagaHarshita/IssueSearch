@@ -1,0 +1,1 @@
+ URL : "https://github.com/tbrugz/ribge/issues/1" TITLE : error in r 3.4 BODY : error: dependency 'dplyr' is not available for package 'ribge' removing 'c:/users/adilson/documents/r/win-library/3.4/ribge' installation failed: command failed 1

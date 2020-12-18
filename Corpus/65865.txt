@@ -1,0 +1,1 @@
+ URL : "https://github.com/brave/browser-laptop/issues/8557" TITLE : list in redux component BODY : describe the issue you encountered: we sometimes need to pass in immutable list into redux component props, because we need to display a list of x items for example tabs . for that reason we need to do a list check in reduxcomponent .

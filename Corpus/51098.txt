@@ -1,0 +1,1 @@
+ URL : "https://github.com/kostya/benchmarks/issues/130" TITLE : add pypy3.5 to testing BODY : there was a first pypy3.5 beta release with python 3.5 support, maybe include it as well?

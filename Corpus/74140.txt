@@ -1,0 +1,1 @@
+ URL : "https://github.com/activelylazy/chrono-web/issues/4" TITLE : driver selector ordering BODY : fix driver selector ordering - currently by racing number. best would be by previous championship order. alternatively either by current championship order or race order.

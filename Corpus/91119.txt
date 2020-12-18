@@ -1,0 +1,1 @@
+ URL : "https://github.com/raptorjit/raptorjit/issues/13" TITLE : switch to lua-mode dynasm BODY : raptorjit should switch from the c-hosted dynasm to the lua-hosted dynasm. this requires reformulating the vm source vm_x64.dasm and replacing dasm/ with the code from luajit/luajit 108.

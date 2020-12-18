@@ -1,0 +1,1 @@
+ URL : "https://github.com/m-labs/sinara/issues/163" TITLE : spaces in wiki page names BODY : @hartytp please don't include spaces in names of wiki pages. the resulting url's are difficult to cross reference. for example. https://github.com/m-labs/sinara/wiki/zotino%2032-channel%20dac better is a single word or camelcase. for example, https://github.com/m-labs/sinara/wiki/zotino

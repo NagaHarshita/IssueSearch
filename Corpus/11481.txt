@@ -1,0 +1,1 @@
+ URL : "https://github.com/thu-ml/zhusuan/issues/79" TITLE : hmc sampling bug BODY : hmc_bug.txt https://github.com/thu-ml/zhusuan/files/1503668/hmc_bug.txt hmc sampling cannot even run for one step. but if setting yprec=zs.gamma 'yprec', 6., 6., n_samples=n_particles in bnn and changing corresponding variance shape to be n_chains , then it can sample well.

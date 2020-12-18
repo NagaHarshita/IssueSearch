@@ -1,0 +1,1 @@
+ URL : "https://github.com/marcelmay/hadoop-hdfs-fsimage-exporter/issues/8" TITLE : update hfsa lib to 1.1 BODY : apart from bugfixes, the new version 1.1 https://github.com/marcelmay/hfsa/releases/tag/release-1.1 brings major performance improvements.

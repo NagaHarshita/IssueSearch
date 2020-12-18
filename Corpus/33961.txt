@@ -1,0 +1,1 @@
+ URL : "https://github.com/esaude/esaude-emr-poc/issues/104" TITLE : bi format validation BODY : currently we are using more that one format for bi, the system only validates for one format. format 1: 0-9 {9} a-z {1} format 2: 0-9 {12} a-z {1}

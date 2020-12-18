@@ -1,0 +1,1 @@
+ URL : "https://github.com/irontec/ivozprovider/issues/204" TITLE : doc: queue strategies BODY : add some documentation explaining different call distribution strategies supported by queues.

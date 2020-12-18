@@ -1,0 +1,1 @@
+ URL : "https://github.com/AllTheMods/ATM-1/issues/62" TITLE : ruby duplication glitch BODY : the ruby block has 2 different craft recipe : one with 4 rubies, and one with 9 rubies, but if we put the ruby block in the crafting table, it gives 9 rubies. so you can get 4 rubies, craft a block, and get 9 rubies at the end, and repeat the process to get infinite rubies.

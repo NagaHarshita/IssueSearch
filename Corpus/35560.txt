@@ -1,0 +1,1 @@
+ URL : "https://github.com/df8oe/mchf-github/issues/840" TITLE : error in include.mak BODY : backslash \ on last line in include.mak will break the mingw build. drivers/usb/device/class/composite \ should be: drivers/usb/device/class/composite

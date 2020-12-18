@@ -1,0 +1,1 @@
+ URL : "https://github.com/sant0ro/chocolatey/issues/50" TITLE : translating the cms BODY : i ripped the language .json fi.json from habbo.fi and i renamed it to com.blade.php and all i get is 'whoops, looks like something went wrong.' also i copied the bottom 4 lines rss, twitter, facebook and hotel uri to the new one

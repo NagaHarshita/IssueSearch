@@ -1,0 +1,1 @@
+ URL : "https://github.com/twbs/bootstrap/issues/21527" TITLE : broke tabs with tables BODY : when i put div tab-content inside of a table, the tabs no longer work. i reproduced it from my application to a codepen. - browser and version chrome: 55.0.2883.95 - test case: http://codepen.io/imcodingideas/pen/obnmqw?editors=1000

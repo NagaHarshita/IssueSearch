@@ -1,0 +1,1 @@
+ URL : "https://github.com/ThemeBoy/SportsPress/issues/211" TITLE : additional player fields BODY : player objects should have additional fields for contact information. it's pretty common to have separate contact information for a player. think in case of emergency contacts or if the player is a child.

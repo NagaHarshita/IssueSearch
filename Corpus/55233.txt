@@ -1,0 +1,1 @@
+ URL : "https://github.com/Syndaryl/DFRPGRandomDungeonGenerator/issues/3" TITLE : improved door handling BODY : we'd like to completely rewrite the door routines to make all 3 special characteristics locked, secret and trapped on the same door. the way it's handled now those can't stack.

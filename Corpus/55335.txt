@@ -1,0 +1,1 @@
+ URL : "https://github.com/openhab/openhab-docs/issues/229" TITLE : install doc correction BODY : on page http://docs.openhab.org/installation/linux.html installation change sudo apt-get update && sudo apt-get install oracle-java8-jdk to sudo add-apt-repository ppa:openjdk-r/ppa sudo apt-get update sudo apt-get install openjdk-8-jre

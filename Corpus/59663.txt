@@ -1,0 +1,1 @@
+ URL : "https://github.com/DeligenceTechnologies/PanoplyCMS/issues/6" TITLE : update your .gitignore BODY : track your package.json file but add /node_modules to your .gitignore files

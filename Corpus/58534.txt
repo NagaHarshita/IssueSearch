@@ -1,0 +1,2 @@
+ URL : "https://github.com/NaturalHistoryMuseum/scratchpads2/issues/1662" TITLE : solr indexing problems BODY : - original id: 2264 - added by dimitrios koureas on wed jan 30 2013 11:34:39 gmt+0000 gmt - scratchpads url: null description:
+indexing errors in migrated site. added literature and images in media galleries are not visible re-indexing solr returns empty screen. http://s2.lauraceae.myspecies.info/

@@ -1,0 +1,1 @@
+ URL : "https://github.com/futurepress/epub.js/issues/565" TITLE : what does pagerange mean? BODY : can someone explain what this value refers to in an epub. i'm looking at the console and when i click the next button, sometimes i'll get an array that is like 3, 3 , but then other times, i'll get an array that is 5, 6 . not sure what this means. thanks!

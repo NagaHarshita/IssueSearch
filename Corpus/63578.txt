@@ -1,0 +1,1 @@
+ URL : "https://github.com/bensku/Skript/issues/948" TITLE : enabling error particle BODY : yop, when skript start, this error appear error occurred while enabling skript v2.2-dev32 is it up to date? java.lang.noclassdeffounderror: org/bukkit/particle and followed by https://pastebin.com/raw/74daxfci

@@ -1,0 +1,1 @@
+ URL : "https://github.com/xpressSong/xpressSong.github.io/issues/65" TITLE : 重构 — xpress song BODY : http://xpresssong.ga/2017/08/07/%e9%87%8d%e6%9e%84/ replace-constructor-with-factory-method%e4%bb%a5%e5%b7%a5%e5%8e%82%e5%87%bd%e6%95%b0%e5%8f%96%e4%bb%a3%e6%9e%84%e9%80%a0%e5%87%bd%e6%95%b0 重构是不改变软件可观察行为的前提下改善其内部结构 在代码写好之后改进它的设计 如果在最初开发和整个开发过程中一直遵循一些良好的设计原则，那么重构过程会更轻松，软件的进化会更容易

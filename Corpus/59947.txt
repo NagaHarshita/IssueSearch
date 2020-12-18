@@ -1,0 +1,1 @@
+ URL : "https://github.com/AndrewKeig/passport-azure-oauth2/issues/2" TITLE : version mismatch issue BODY : this is the error i got. aadsts50020: we are unable to issue tokens from this api version for a microsoft account. please contact the application vendor as they need to use version 2.0 of the protocol to support this.

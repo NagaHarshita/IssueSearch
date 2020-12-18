@@ -1,0 +1,1 @@
+ URL : "https://github.com/galaxyproject/galaxy-hub/issues/274" TITLE : broken wiki link BODY : https://galaxyproject.org/admin/data-integration/ includes a link to which appears broken. near the top of the page: fetch alignment tools data prep: reference mafs https://galaxyproject.org/admin/data-integration/admin%2freferencemafs

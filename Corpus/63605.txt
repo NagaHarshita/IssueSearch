@@ -1,0 +1,1 @@
+ URL : "https://github.com/eproxus/pad.zsh-theme/issues/6" TITLE : enhance vcs information BODY : - remote branch ahead/behind see http://eseth.org/2010/git-in-zsh.html - stash count see http://eseth.org/2010/git-in-zsh.html

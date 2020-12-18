@@ -1,0 +1,1 @@
+ URL : "https://github.com/WatchDogZZ/server/issues/13" TITLE : user is connected twice BODY : if the user performs 2 login request he will be added twice in the database. store the user token and test it.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/AndrewBurian/powermux/issues/17" TITLE : path params not saved BODY : accidentally clobbered path param saving in 14 with this commit https://github.com/andrewburian/powermux/commit/3f30443320f4a32a8e6e03a2e739ca407987561f diff-576803eb92caa3eefb60a6957a2e11d5l85 need to re-add that logic and cover more thoroughly in regression tests

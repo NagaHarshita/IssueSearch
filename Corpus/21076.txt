@@ -1,0 +1,1 @@
+ URL : "https://github.com/cch5ng/image-edit/issues/1" TITLE : draw lines on drag BODY : currently shape only drawn on mouse up should get shape outlines drawn on drag event challenge is that click and drag is not considered until the mouse position diff is at least 5px

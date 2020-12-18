@@ -1,0 +1,1 @@
+ URL : "https://github.com/HPI-SWA-Teaching/SWT17-Project-10/issues/20" TITLE : variance and covariance BODY : related epic: 15 i want to calculate variance over each dimension and covariance over both dimensions in order to get insights of the distribution of data. acceptance criteria: - tba

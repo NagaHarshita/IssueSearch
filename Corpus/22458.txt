@@ -1,0 +1,1 @@
+ URL : "https://github.com/mushorg/tanner/issues/121" TITLE : lfi false positive BODY : if we pass urls like ?file=/etc/pas , emulator still shows a similar result to ?file=/etc/passwd

@@ -1,0 +1,1 @@
+ URL : "https://github.com/google/built_value.dart/issues/198" TITLE : can't call a field result BODY : due to a clash with a local variable name in generated code.

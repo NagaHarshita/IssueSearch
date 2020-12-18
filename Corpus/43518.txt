@@ -1,0 +1,1 @@
+ URL : "https://github.com/riboseinc/retrace/issues/147" TITLE : create tests for exec BODY : currently we have an issue with execle which results in a hanging retrace, see: issue. https://github.com/riboseinc/retrace/issues/146 please create some sane test cases for exec , i suppose the best test case is to run 'env' to catch the environment variables we set in envp.

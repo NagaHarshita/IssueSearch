@@ -1,0 +1,1 @@
+ URL : "https://github.com/sansible/datadog/issues/10" TITLE : add gunicorn integration BODY : add ability to monitor gunicon -> https://docs.datadoghq.com/integrations/gunicorn/

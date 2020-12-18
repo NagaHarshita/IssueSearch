@@ -1,0 +1,1 @@
+ URL : "https://github.com/otcshare/iotivity-node/issues/117" TITLE : automated npm upload? BODY : it would be great if there would be an automatic upload to the npm repository after the travis builds finish, since that way people don't need to set up scons etc before they can try out iotivity-node.

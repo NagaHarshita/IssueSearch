@@ -1,0 +1,1 @@
+ URL : "https://github.com/Architech-Silica/Designing-a-Custom-AXI-Slave-Peripheral/issues/1" TITLE : page 5, s_axi_wvalid BODY : s_axi_wvalid figure says: valid signal, asserting that the s_axi_rdata can be sampled by the master. this is a copy of the figure for read transactions on page 4, s_axi_rvalid: valid signal, asserting that the s_axi_rdata can be sampled by the master.

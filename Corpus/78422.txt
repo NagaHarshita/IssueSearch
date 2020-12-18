@@ -1,0 +1,1 @@
+ URL : "https://github.com/xchem/XChemExplorer/issues/17" TITLE : processed folder parsing BODY : 'get new results from autoprocessing': the code which parses the processed folder is straight out of hell and can be made much simpler; ideally one could configure it so that other synchrotron sites could use it too

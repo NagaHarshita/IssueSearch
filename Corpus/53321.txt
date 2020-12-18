@@ -1,0 +1,1 @@
+ URL : "https://github.com/aybassiouny/OpenFaceCpp/issues/19" TITLE : dlib compilation issue BODY : i have got following error while building cmake error at cmakelists.txt:26 include : include could not find load file: openfacecpp/lib/dlib-18.18/dlib/cmake/ can you tell me how to resolve the same? dlib cmake config file missing?

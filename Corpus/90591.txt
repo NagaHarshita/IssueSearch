@@ -1,0 +1,1 @@
+ URL : "https://github.com/HJBGH/robotGame/issues/6" TITLE : solver on unwalkable node BODY : removing a node that has a solver on it doesn't remove the solver. the solver, i don't know if this is just on the view or if it's a problem in the model.

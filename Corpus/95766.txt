@@ -1,0 +1,1 @@
+ URL : "https://github.com/wojtekmaj/react-pdf/issues/68" TITLE : display pdf in full screen BODY : hello, is there a more convenient way to display a pdf in full screen than to calculate the width based on the file's aspect ratio and the window size? thank you! nicolai

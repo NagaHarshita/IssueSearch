@@ -1,0 +1,1 @@
+ URL : "https://github.com/htmlacademy/demo-console/issues/31" TITLE : make object graph lazy BODY : refactor visitors to make them lazy implemented. showing only one level of nodes at a time

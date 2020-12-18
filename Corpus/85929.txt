@@ -1,0 +1,1 @@
+ URL : "https://github.com/livepeer/protocol/issues/48" TITLE : gas accounting statistics BODY : we should run through the protocol, especially the job-claim-verify loop, and see what the total gas costs given realistic gas price dynamics are. additionally, we should check how much each step costs to find any bottlenecks where we can optimize gas usage

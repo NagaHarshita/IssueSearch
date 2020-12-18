@@ -1,0 +1,1 @@
+ URL : "https://github.com/jackmellis/vuenit/issues/54" TITLE : stub directives option BODY : like components and filters: js mount c, { directives : { foo : { bind {} }, bah : => {}, zoo : true } } ;

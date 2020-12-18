@@ -1,0 +1,1 @@
+ URL : "https://github.com/johnachor/movie-history/issues/10" TITLE : initialize firebase app BODY : story as a developer, when i start my app, it should initialize with firebase. acceptance criteria when the page loads then firebase is initialized technical notes test if your app is initialized with console.log firebase apps? , firebase.apps ;

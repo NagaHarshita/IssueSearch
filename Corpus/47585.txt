@@ -1,0 +1,1 @@
+ URL : "https://github.com/duckduckgo/firefox-zeroclickinfo/issues/83" TITLE : port to webextensions BODY : support for xul extensions will be removed in firefox 57. this extension needs to be ported to webextensions before then, otherwise it will no longer work.

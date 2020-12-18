@@ -1,0 +1,1 @@
+ URL : "https://github.com/rosflight/firmware/issues/164" TITLE : no nvidia tx1 usb support BODY : currently, i am finding that the silicon labs cp210x driver for the naze32/flip32 board is not supported by the kernel that is compiled for the tx1. it is best to use the uart on the naze32 and connect that to an ftdi usb cable or go directly to uart1 on the tx1.

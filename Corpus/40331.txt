@@ -1,0 +1,1 @@
+ URL : "https://github.com/deepchem/deepchem/issues/877" TITLE : travis ci timing out BODY : our builds are currently timing out due to our docs build h/t @lilleswing . we should fix this soon, possibly by moving all docs building over to jenkins. i believe @lilleswing is taking point on this, but wanted to open the issue to let people know we are working on it :

@@ -1,0 +1,1 @@
+ URL : "https://github.com/cameronevans/camper/issues/4" TITLE : add metadata to tracks BODY : tracks only have metadata if they were uploaded with them in the first place. there is a commented line for scraping the artwork. could maybe use something like https://github.com/parshap/node-ffmetadata

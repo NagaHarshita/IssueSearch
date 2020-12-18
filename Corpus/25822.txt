@@ -1,0 +1,1 @@
+ URL : "https://github.com/georgd/EB-Garamond/issues/87" TITLE : add coloured glyphs BODY : this is suitable for ebgaramond-initials and similar fonts. the implementation can be based on cpal/colr table.

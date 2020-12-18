@@ -1,0 +1,1 @@
+ URL : "https://github.com/jaggygames/thai-words/issues/2" TITLE : load words from a json BODY : add a json that stored the values and can be automatically loaded and read upon run-time.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/pete-kelly/MCN-bugs-and-issues/issues/10" TITLE : product dropdown weird BODY : if you don't select something from the tiny dropdown, the add to cart button is greyed out, but you can click it, and if so you get a dialog that says please select some product options before adding this product to your cart. wow

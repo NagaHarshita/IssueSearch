@@ -1,0 +1,1 @@
+ URL : "https://github.com/PushThePiece/chess/issues/78" TITLE : issue with check? method BODY : game check? false if white king in check failure/error: square_under_attack? color, king.x, king.y nomethoderror: undefined method x' for nil:nilclass

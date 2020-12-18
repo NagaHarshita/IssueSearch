@@ -1,0 +1,1 @@
+ URL : "https://github.com/jonblack/arduino-menusystem/issues/61" TITLE : don't use string BODY : string requires a lot of memory. try to find a way to remove it.

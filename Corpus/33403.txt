@@ -1,0 +1,1 @@
+ URL : "https://github.com/AyranIsTheNewRaki/Herodot/issues/104" TITLE : add myheritages page BODY : users should be able too see cho's added by themselves on a seperated page at path /myheriages. only logged in users should be able to access to this pages. if a user does not have any cho objects, an info message should be shown

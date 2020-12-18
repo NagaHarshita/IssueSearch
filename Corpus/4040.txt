@@ -1,0 +1,1 @@
+ URL : "https://github.com/fengzilong/regular-router/issues/25" TITLE : add enter hook BODY : because now using the cached component instance, init hook won't be called everytime the component appears in view add an enter hook to solve this

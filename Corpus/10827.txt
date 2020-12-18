@@ -1,0 +1,1 @@
+ URL : "https://github.com/rabbitmq/rabbitmq-autocluster/issues/39" TITLE : docker image tag BODY : hey guys, can we please have the docker image https://hub.docker.com/r/pivotalrabbitmq/rabbitmq-autocluster/tags/ tagged with the version of the release on github? we don't want to keep pulling the latest image in case it breaks.

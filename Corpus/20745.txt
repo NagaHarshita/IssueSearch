@@ -1,0 +1,1 @@
+ URL : "https://github.com/alexpanter/FSharpRemarks/issues/2" TITLE : create proper path BODY : - so that the executable can be located in a different folder than the target .mrk file!

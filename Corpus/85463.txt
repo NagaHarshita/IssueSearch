@@ -1,0 +1,1 @@
+ URL : "https://github.com/lennym/eslint-plugin-implicit-dependencies/issues/1" TITLE : fails on dynamic requires BODY : where the argument passed to require is a variable and not a string then it blows up.

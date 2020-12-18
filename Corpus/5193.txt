@@ -1,0 +1,1 @@
+ URL : "https://github.com/bluejamesbond/TextJustify-Android/issues/133" TITLE : max line limit BODY : greetings, the documentview has a limited amount of lines when ext:documentview_textformat= formatted is selected. can't increase the maxline.

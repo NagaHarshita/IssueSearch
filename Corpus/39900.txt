@@ -1,0 +1,1 @@
+ URL : "https://github.com/ihorvitruk/buddysearch/issues/9" TITLE : support for flowable BODY : hello, this project is very nice for learning purposes, but i encountered an blocking issue. i need to use flowable on a stream of data and the use case of the domain interactor relies only on observable. how do you recommend to approach this limitation?

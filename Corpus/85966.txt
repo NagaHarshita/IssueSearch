@@ -1,0 +1,1 @@
+ URL : "https://github.com/ProgTools2017HeatGroup/2D-Heat-Convection-by-FDM/issues/41" TITLE : generate points functions BODY : the functions generate_x_points , and generate_y_points , are identical. why have two of them? why not simply have one and call it with different input and output parameters. please make it a single function.

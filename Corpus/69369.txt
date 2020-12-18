@@ -1,0 +1,1 @@
+ URL : "https://github.com/trailofbits/manticore/issues/356" TITLE : syscall fault injection BODY : one way to increase the coverage achieved by manticore would be to analyze code related to error handling via fault injection. when manticore emulates a syscall, it could be possible to fork state and return error conditions from the syscall in some states.

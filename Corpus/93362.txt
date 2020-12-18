@@ -1,0 +1,1 @@
+ URL : "https://github.com/tbiering/hugo-slider-shortcode/issues/10" TITLE : add simple example project BODY : add a hugo example project that uses the shortcode. tasks: include around 5 images non-copyrighted use .github -directory? link as example in readme

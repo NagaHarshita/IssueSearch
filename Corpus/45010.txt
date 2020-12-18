@@ -1,0 +1,1 @@
+ URL : "https://github.com/ThemeFuse/Unyson/issues/2963" TITLE : gmaps retired version BODY : please update https://github.com/themefuse/unyson-shortcodes-extension/blob/master/shortcodes/map/static.php l7 https://developers.google.com/maps/documentation/javascript/error-messages retired-version latest is 3.28

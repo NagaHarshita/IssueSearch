@@ -1,0 +1,1 @@
+ URL : "https://github.com/facebook/prophet/issues/334" TITLE : valueerror when sigma=0 BODY : in sample_model function noise is calculated as: noise = np.random.normal 0, sigma, df.shape 0 self.y_scale this results in a valueerror because of numpy which is natural. but i think this shouldn't prevent the forecasting. noise could simply be zero in that case. thank you

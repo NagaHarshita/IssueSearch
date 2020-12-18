@@ -1,0 +1,1 @@
+ URL : "https://github.com/UnquietCode/JState/issues/10" TITLE : randomized state router BODY : create a basic state router which uses a simple 0.0 -> 1.0 probability value to randomly determine whether the transition will proceed or not.

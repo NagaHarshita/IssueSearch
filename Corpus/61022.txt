@@ -1,0 +1,1 @@
+ URL : "https://github.com/SonarSource/SonarTS/issues/118" TITLE : add symbol highlighting BODY : current implementation of plugin relies on inputfile content which is not available on lts.

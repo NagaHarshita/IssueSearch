@@ -1,0 +1,1 @@
+ URL : "https://github.com/bbc/unicode-bidirectional/issues/17" TITLE : normalize is es5 BODY : src/main.js: string.prototype.normalize is es5. very old browsers will not support this. find a way to gracefully degrade and/or add a note in readme.

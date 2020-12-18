@@ -1,0 +1,1 @@
+ URL : "https://github.com/NIHOPA/NLPre/issues/26" TITLE : dry parenthesis nesting BODY : the class parenthesis_nester in identify_parenthetical_phrases.py is almost identical to the code block used in remove_parenthesis.py. the class could be imported and used in remove_parenthesis to reduce repetition.

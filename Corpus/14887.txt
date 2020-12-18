@@ -1,0 +1,1 @@
+ URL : "https://github.com/dcrystalj/hx711py3/issues/3" TITLE : channel b support BODY : is it planned to support 2 loadcells? first on channel a and second on channael b? i found out, that channel a is gain 128 and 64 channel b is gain 32

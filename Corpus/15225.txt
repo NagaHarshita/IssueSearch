@@ -1,0 +1,1 @@
+ URL : "https://github.com/theocodes/vue-brunch/issues/33" TITLE : css compile issue BODY : 1. check this https://github.com/netzkern/brunch-demo out 2.start with npm start 3. open http://localhost:3333/ 4. remove app style in app.vue => nothing happens but if you just change the color it works.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/guzzle/guzzle/issues/1733" TITLE : v6 unit testing clients BODY : how to do uniti testing of my clients using guzzle v6? i found http://docs.guzzlephp.org/en/latest/testing.html using-the-test-server on your guide, but the class guzzlehttp\tests\server is missing from the vendor.

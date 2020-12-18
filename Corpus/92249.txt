@@ -1,0 +1,1 @@
+ URL : "https://github.com/kalepeterson/InetSysDev-GH-Community-Health/issues/15" TITLE : watchers longevity metric BODY : how long have most watchers been watching a repo? also could do a tableau-like view where you can group by year, month, week, etc. and see the number of watchers added in that time frame.

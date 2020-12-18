@@ -1,0 +1,1 @@
+ URL : "https://github.com/harisaamin/Open-Data-API/issues/18" TITLE : wrong link in readme. BODY : _from @harisaamin on january 26, 2017 6:58_ the following base url in readme at line 4 is broken: base url http://104.131.115.46:555/api/v1/open_data/ _copied from original issue: codeforpakistan/open-data-api 13_

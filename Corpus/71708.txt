@@ -1,0 +1,1 @@
+ URL : "https://github.com/cjstehno/gradle-site/issues/2" TITLE : add versioneddir support BODY : the version update and checking config supports adding single files, but should also allow directories. groovy versioneddir 'some/dir' would call: groovy ant.replace dir: 'src/docs/asciidoc', token: oldversion, value: newversion

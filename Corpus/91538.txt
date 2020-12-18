@@ -1,0 +1,1 @@
+ URL : "https://github.com/Ellpeck/ActuallyAdditions/issues/794" TITLE : tweak water bowl spilling BODY : save the player's last position to the bowl's nbt and then compare those maybe?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/xm-online/xm-online/issues/19" TITLE : entity location bug BODY : on the screen of entity view for location: long: 30.51411 lat: 50.4372 location doesn't pops up http://compass.test.xm-online.com.ua/application/account.customer/1060

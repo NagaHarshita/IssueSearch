@@ -1,0 +1,1 @@
+ URL : "https://github.com/hunjixin/ShootGame/issues/8" TITLE : add group game object BODY : the purpose of adding group objects is to be able to use group effects, such as the enemy aircraft cluster, the cluster of bullets, and so on, and further support the particle effect in the future.

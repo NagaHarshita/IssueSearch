@@ -1,0 +1,1 @@
+ URL : "https://github.com/mahmoudaboc/java-script/issues/1" TITLE : function without arguments BODY : https://github.com/mahmoudaboc/java-script/blob/7c00350e35f9c5238e1d2a20fd929a5468170325/homework-week2/home%20work%20js%20week%202.js l2 this function takes 0 arguments. the declaration should be like: function f a, b, c { return a + b + c; }

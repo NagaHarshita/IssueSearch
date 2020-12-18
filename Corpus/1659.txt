@@ -1,0 +1,1 @@
+ URL : "https://github.com/liuzhuan/webnotes/issues/9" TITLE : cards on git BODY : 拉取远程代码到本地，git 报错 fatal: refusing to merge unrelated histories ，如何处理？ 使用 --allow-unrelated-histories 强制合并，但是会有不可预知的后果。

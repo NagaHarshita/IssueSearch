@@ -1,0 +1,1 @@
+ URL : "https://github.com/orc-lang/orc/issues/212" TITLE : multiple versions of dorc BODY : there are currently two versions of dorc. one in orcscala and one in porce. these should be deduplicated as best we can and then if the orcscala version is too large it should be removed to avoid bit-rotted code in the repo. we can always resurrect it later.

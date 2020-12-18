@@ -1,0 +1,1 @@
+ URL : "https://github.com/contiki-os/contiki/issues/2370" TITLE : simulation time in cooja BODY : hello, there i wanted to get the simulation time like it shows in the cooja interface in my code. but i can't seem to find where it comes from. can somebody help me? thank you.

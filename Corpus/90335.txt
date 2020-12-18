@@ -1,0 +1,1 @@
+ URL : "https://github.com/figdice/figdice/issues/21" TITLE : serialized view optimizer BODY : detect and consolidate large series of static data tags that have no fig directives nor adhoc attributes .

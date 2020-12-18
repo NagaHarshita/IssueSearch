@@ -1,0 +1,1 @@
+ URL : "https://github.com/Schlipak/nozzle/issues/2" TITLE : add ui configuration BODY : extract stylesheet, add more options and use setstylesheet with template qstring. c++ qstring stylesheet .arg settings.value style/something , default .tostring ; move styling options from panel to style .

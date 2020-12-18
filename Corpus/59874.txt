@@ -1,0 +1,1 @@
+ URL : "https://github.com/gatsbyjs/gatsby/issues/3105" TITLE : using react components BODY : guys, great project, a newb question, couldn't find the answer after initial search/testing. can i make use of regular react components, for example, something like fullpage-react, to provide dynamic functionality rather than having the output static generated?

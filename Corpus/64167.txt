@@ -1,0 +1,1 @@
+ URL : "https://github.com/malept/thermite/issues/38" TITLE : fix rubocop lint errors BODY : rubocop is a moving target. also might want to consider adding weekly? cron jobs in travis ci https://docs.travis-ci.com/user/cron-jobs/ to catch these quicker.

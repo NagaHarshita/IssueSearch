@@ -1,0 +1,2 @@
+ URL : "https://github.com/mwasilew/squad/issues/113" TITLE : sort metadata on emails BODY : imported from https://projects.linaro.org/browse/qa-1744
+right now the metadata items will be more or less displayed in random order, based on the sorting in python dictionaries. we should probably pre-sort those and return a list of tuples think .items . however we need to take into account that custom templates might be assuming metadata is a dict so there will be a api break there.

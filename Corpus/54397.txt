@@ -1,0 +1,1 @@
+ URL : "https://github.com/SoftwareEngineeringDaily/software-engineering-daily-api/issues/75" TITLE : further refactor votes BODY : currently the implementation is not ideal. here is an example on one idea on how to make it a bit cleaner: https://github.com/softwareengineeringdaily/software-engineering-daily-api/pull/72

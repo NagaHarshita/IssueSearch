@@ -1,0 +1,1 @@
+ URL : "https://github.com/larshp/abapOpenChecks/issues/391" TITLE : check 59, parser errors BODY : abap if new zcl_foo ->bar = 'moo'. if new zcl_foo ->bar . if conv integer lv_date lt 1000. if cond when lv_var cs iv_text then abap_true when lv_var cs iv_text then abap_true = abap_true. if value lt_tab id = 'blah' optional is initial.

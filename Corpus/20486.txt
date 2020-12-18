@@ -1,0 +1,1 @@
+ URL : "https://github.com/invenia/Memento.jl/issues/31" TITLE : cleanup filter api BODY : looks like i removed https://github.com/invenia/memento.jl/commit/829f784d481818869dd4cf9795f302d27862184f diff-46ed174b15e7a87714aaa0c48d1ef3a1 the add_filter method for a handler, but didn't replace it with something else.

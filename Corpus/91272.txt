@@ -1,0 +1,1 @@
+ URL : "https://github.com/GoogleCloudPlatform/google-cloud-ruby/issues/1320" TITLE : test pub/sub example code BODY : also known as: snippets testing provide automated testing in the rake ci task for the pub/sub documentation examples yard's @example tag using the yard-doctest https://github.com/p0deje/yard-doctest library, as discussed in 226.

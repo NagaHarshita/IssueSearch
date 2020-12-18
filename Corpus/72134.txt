@@ -1,0 +1,1 @@
+ URL : "https://github.com/deweylab/MetaSRA-website-frontend/issues/26" TITLE : back button doesn't work BODY : to reproduce: add a couple terms, delete a couple terms from the query, and then press the back button. the url changes in the status bar, but the application doesn't update what's shown on the page.

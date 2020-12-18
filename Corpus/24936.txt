@@ -1,0 +1,1 @@
+ URL : "https://github.com/NCRN/VegShiny/issues/2" TITLE : unwanted map zooms BODY : when you are looking at the map, and you have it zoomed it, it will zoom out when you change what you are looking at. this should be fixed.

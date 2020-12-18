@@ -1,0 +1,1 @@
+ URL : "https://github.com/ant-design/ant-design/issues/4737" TITLE : table filters language BODY : on the table demo page, ok and reset are in english. however, in the package those two words display as chinese.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/coala/meta/issues/86" TITLE : 100% coverage in all repos BODY : all repos should have: 1. 100% coverage, and then 2. 100% branch coverage, and then 3. very limited use of pragma: no cover' - coala-utils https://gitlab.com/coala/coala-utils/issues/7 - coala-quickstart - 61% for 2 june 2017 https://circleci.com/gh/coala/coala-quickstart/211

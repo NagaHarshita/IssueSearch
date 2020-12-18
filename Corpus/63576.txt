@@ -1,0 +1,1 @@
+ URL : "https://github.com/ethereum/mist/issues/2896" TITLE : enable whisper on start BODY : version: 0.9.0 os & version: windows/linux/osx node type: geth number of blocks synchronized: 0 need ssh for my dapps.

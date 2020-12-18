@@ -1,0 +1,1 @@
+ URL : "https://github.com/bascht/omemo-top/issues/70" TITLE : chatsecure is not 100% BODY : chatsecure doesn't support omemo in muc: https://github.com/chatsecure/chatsecure-ios/issues/580 and has issues with omemo file transfer it is not working : https://github.com/chatsecure/chatsecure-ios/issues/810

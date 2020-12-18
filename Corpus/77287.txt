@@ -1,0 +1,1 @@
+ URL : "https://github.com/pommes-frites/piwigo-facetag/issues/4" TITLE : multiple bug in facetag. BODY : multiple sql injection and stored xss bug found by me. for detailed ..follow this http://touhidshaikh.com/blog/poc/facetag-ext-piwigo-stored-xss/ http://touhidshaikh.com/blog/poc/facetag-extension-piwigo-sqli/

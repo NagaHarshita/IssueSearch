@@ -1,0 +1,1 @@
+ URL : "https://github.com/hemavkulkarni/DTVersion3Task/issues/2" TITLE : record insert issue BODY : in spring-hibernate integration maven project table got created automatically. but not able to insert record through junit testcase.

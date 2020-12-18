@@ -1,0 +1,1 @@
+ URL : "https://github.com/OwlCarousel2/OwlCarousel2/issues/1739" TITLE : dots not showing BODY : everythiing on my project went fine but stuck with this the nav dots are not showing. i used dot:true, and dots:true none seems to work. $ '.portfolios-carousel' .owlcarousel { items:3, nav:true, loop:true, margin:10, autoplay:true, autoplaytimeout:2500 } ;

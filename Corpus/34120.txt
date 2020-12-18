@@ -1,0 +1,1 @@
+ URL : "https://github.com/newsboat/newsboat/issues/66" TITLE : build docs on travis BODY : at the moment, our travis jobs build the code but not the docs. since we now have some custom logic for doc generation i.e. doc/generate.cpp , sed invocations in the makefile , it's be useful to build the docs on all platforms during ci.

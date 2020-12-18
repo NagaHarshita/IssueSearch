@@ -1,0 +1,1 @@
+ URL : "https://github.com/chauncy-crib/tagprobot/issues/44" TITLE : unify function comments BODY : possible convention: / general overview of function, making sure to mention, in english, the return value if it exists @param a: description of a @param b: description of b @return: description of return value / function example a, b { } now accepting other convention nominations!

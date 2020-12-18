@@ -1,0 +1,1 @@
+ URL : "https://github.com/objorke/PropertyTools/issues/165" TITLE : clear enum values BODY : press delete on a cell containing an enum value. expected: the default value of the type actual: no change fails when trying to set to null

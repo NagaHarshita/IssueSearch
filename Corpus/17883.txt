@@ -1,0 +1,1 @@
+ URL : "https://github.com/sarahbe/BudgetManagement/issues/13" TITLE : rollback on error BODY : default account is created when creating a new user, if an error occurs during creating user, rollback should be done to both user and account.

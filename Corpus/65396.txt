@@ -1,0 +1,1 @@
+ URL : "https://github.com/ferrarimarco/open-development-environment-ansible/issues/26" TITLE : install sshpass package BODY : this package is needed to support keyless authentication. this kind of authentication can be useful when you have to bootstrap a node and no public keys are installed.

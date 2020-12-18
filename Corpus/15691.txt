@@ -1,0 +1,1 @@
+ URL : "https://github.com/ramyyahari/JobSchedulerUI/issues/16" TITLE : file upload limit BODY : add client_max_body_size 200m; client_body_buffer_size 200m; to nginx conf, if using port forwarding

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mattkretz/wg21-papers/issues/31" TITLE : talk about noexcept? BODY : @jensmaurer: should the wording talk about noexcept? afaics all datapar and mask functions should be noexcept . but do we want to / have to mandate this in the wording?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/CityOfPhiladelphia/taskflow/issues/7" TITLE : concurrency not enforced BODY : the concurrency property on tasks and workflows is not currently enforced. the will not run more than one at a time, but this is needed for on-demand use.

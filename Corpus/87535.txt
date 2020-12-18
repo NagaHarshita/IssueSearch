@@ -1,0 +1,1 @@
+ URL : "https://github.com/tridentli/pitchfork/issues/96" TITLE : localize struct functions BODY : structmoda for instance is only called by structmod as it is the recursive part. same for structvarsa, structdetailsa, structtaga, structmenua, structgeta and objpermcheck. drop doignore from structvarsa as it is not actually needed.

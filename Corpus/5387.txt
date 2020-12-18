@@ -1,0 +1,1 @@
+ URL : "https://github.com/thu-pacman/GeminiGraph/issues/3" TITLE : number of cpus BODY : hi, i'm using gemini and find out that the number of threads is set to the number of hardware threads. this is suboptimal in my experiment. it's better to set it to an entire core. can you confirm if it will work ok if i set number of threads to number of cores or is there any side effect ?

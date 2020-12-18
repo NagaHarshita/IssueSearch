@@ -1,0 +1,1 @@
+ URL : "https://github.com/scala/scala-dev/issues/299" TITLE : trailing commas followup BODY : todo: - pr an update to the sip document with the final implementation details - pr an update the spec - pr intellij-scala - pr scalariform - pr scala.meta - pr scalaparse lihaoyi/fastparse

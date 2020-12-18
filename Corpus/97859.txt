@@ -1,0 +1,1 @@
+ URL : "https://github.com/openT2T/cloud/issues/17" TITLE : hubcobtroller tests broken BODY : 7 pass 3 fail today: 1. subscribeverify failed with cannot set property 'verificationrequest' of undefined 2:02 2. translateplatforms failed with cannot read property 'key' of undefined 2:03 3. translateplatformsinvalidhmac failed with cannot read property 'key' of undefined

@@ -1,0 +1,1 @@
+ URL : "https://github.com/xavierfoucrier/gmail-notifier/issues/100" TITLE : mono unit test BODY : use mono on travis-ci to run base unit tests for the application.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mountetna/rtemis/issues/7" TITLE : add regression analysis BODY : we should be able to do basic linear regression, given a matrix, a set of factors defining columns, and some model. we can easily do this in r with limma.

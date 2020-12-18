@@ -1,0 +1,1 @@
+ URL : "https://github.com/KimiNewt/pyshark/issues/195" TITLE : packet count variable? BODY : is there a variable that stores the number of frames/packets? i know i can find the count by iterating through all the packets, but that solution doesn't scale well with bigger captures - the processing time starts to become significant.

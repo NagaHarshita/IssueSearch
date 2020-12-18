@@ -1,0 +1,1 @@
+ URL : "https://github.com/solson/rust-nightly-nix/issues/16" TITLE : cargo has moved BODY : cargo-dist is no longer useful. see my comments in https://github.com/nixos/nix/issues/1166. unclear what the solution is.

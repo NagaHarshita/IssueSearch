@@ -1,0 +1,1 @@
+ URL : "https://github.com/davidmball/online_ros/issues/10" TITLE : limit user docker run time BODY : eg stop users from being able to start several windows and run lots of while loops. probably need fingerprinting / or sessions to track users and step down their cpu usage.

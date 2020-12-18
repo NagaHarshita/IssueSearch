@@ -1,0 +1,1 @@
+ URL : "https://github.com/jd/tenacity/issues/74" TITLE : multiple stop conditions BODY : is it possible? for example, 7 attempts with 10 seconds timeout each. the documentation is unclear of it. :c

@@ -1,0 +1,1 @@
+ URL : "https://github.com/valor-software/ng2-dragula/issues/597" TITLE : delay before dragging BODY : is it possible to set delay before dragging? because on tablet we cant scroll over the drag section, because the drag event kicks in.

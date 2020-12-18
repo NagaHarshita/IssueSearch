@@ -1,0 +1,1 @@
+ URL : "https://github.com/Storj/android-libstorj/issues/5" TITLE : x86 and x86_64 support BODY : it would be great to have the library support x86 and x86_64. while this may seem like it only adds a small amount of physical devices, it would greatly help with other developers using this library. the arm emulator is very slow and the x86 is hugely beneficial in this area.

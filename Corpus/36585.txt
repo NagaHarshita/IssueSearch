@@ -1,0 +1,1 @@
+ URL : "https://github.com/jsforce/jsforce/issues/618" TITLE : http request timeout BODY : when the network is down, a jsforce login attempt can take many minutes to timeout. please expose a timeout option for those who don't want to wait so long.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/SciTools-incubator/python-stratify/issues/5" TITLE : explore pspline option BODY : it would be super interesting to develop a pspline interpolator/extrapolator. for example: http://pypspline.sourceforge.net/ one major complexity is that interpolators/extrapolators currently assume that the input x,y are the same as the target x,y.

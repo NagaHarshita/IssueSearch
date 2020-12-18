@@ -1,0 +1,1 @@
+ URL : "https://github.com/vapurrmaid/Quizzr/issues/39" TITLE : feed state is duplicating BODY : if one navigates to feed, away, then back - duplicate posts show up w console warning due to duplicate keys.

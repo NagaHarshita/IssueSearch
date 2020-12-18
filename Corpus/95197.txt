@@ -1,0 +1,1 @@
+ URL : "https://github.com/cobaltpet/swl-tool/issues/16" TITLE : create a global utc object BODY : create a global utc object with year, month, day, weekday, hour, and minute properties to consolidate date/time lookups within the script.

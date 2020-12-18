@@ -1,0 +1,1 @@
+ URL : "https://github.com/twilio/starter-php/issues/2" TITLE : stuck at logging in .... BODY : i can get the chat configured correctly but then when i launch the chat web app, i see: logging in... you have been assigned a random username of: abrasiveowendavenport and i am not able to send any message. what am i doing wrong?

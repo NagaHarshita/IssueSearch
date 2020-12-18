@@ -1,0 +1,1 @@
+ URL : "https://github.com/spring-cloud/spring-cloud-contract/issues/501" TITLE : improve the nodejs story BODY : continue working on https://github.com/marcingrzejszczak/bookstore/pull/1 potential improvements: - the whole contract stuff packed in a docker container - the logic packed in a npm module so that even gradle is not required

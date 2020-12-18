@@ -1,0 +1,1 @@
+ URL : "https://github.com/mariuszkerl/AspNetCoreSubdomain/issues/12" TITLE : defaults for subdomain BODY : currently defaults do not work for a subdomain. it also generates issues while you try to use html helper. it will generate different link than expected.

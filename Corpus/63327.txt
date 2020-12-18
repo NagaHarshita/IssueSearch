@@ -1,0 +1,1 @@
+ URL : "https://github.com/hreeder/botbot/issues/22" TITLE : docstrings for commands BODY : the following is a list of commands that don't have any docstring: - broadcasts.py - bunny command in bunny.py - buttmaster.py - cats.py - dogs.py - excuses.py - giphy.py - some of internals.py - shipit.py

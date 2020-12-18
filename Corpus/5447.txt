@@ -1,0 +1,1 @@
+ URL : "https://github.com/ThaddeusJiang/Perl-Demo/issues/2" TITLE : perl qw 功能 BODY : perl qw 功能 生成字符串数组，其实就是语法糖。 my @names = 'kernighan', 'ritchie', 'pike' ; > 等价于 my @names = qw kernighan ritchie pike ;

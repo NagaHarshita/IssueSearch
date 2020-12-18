@@ -1,0 +1,1 @@
+ URL : "https://github.com/RocketChat/Rocket.Chat.Electron/issues/529" TITLE : handshake error in 2.9.0 BODY : after the update rocket.chat+ does not react anymore, even in the browser where it throws websocket' failed: error during websocket handshake: unexpected response code: 400 .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/DBCDK/serviceprovider/issues/633" TITLE : creator should be author BODY : in the example response of /user https://openplatform.dbc.dk/v1/ !/status/get_user endpoint it says creator under orders. it should be author: orders : { orderid : 24181913 , title : morder-anders og hans venner , creator : jonasson, jonas , status : in process } ,

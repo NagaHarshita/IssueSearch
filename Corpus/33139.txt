@@ -1,0 +1,1 @@
+ URL : "https://github.com/maryvilledev/codesplainUI/issues/331" TITLE : add 404 for bad urls BODY : if a user enters a url that does not match any route, show her a 404.

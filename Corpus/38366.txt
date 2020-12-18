@@ -1,0 +1,1 @@
+ URL : "https://github.com/bpampuch/pdfmake/issues/850" TITLE : pdf cuts some colums BODY : hi, we have fixed sized page so if i have lets say 10 or 15 colums it will cut out some colums and its content. is there a way i can do something about that? like by default all the columns should show on page?

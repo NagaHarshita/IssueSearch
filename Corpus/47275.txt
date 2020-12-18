@@ -1,0 +1,1 @@
+ URL : "https://github.com/jkettmann/universal-react-relay-starter-kit/issues/48" TITLE : optimize session data BODY : currently accesstoken and idtoken are set to session cookie. both contain partly the same data. extract the necessary data and set to session token directly

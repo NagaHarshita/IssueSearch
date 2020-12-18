@@ -1,0 +1,1 @@
+ URL : "https://github.com/mattimaier/bnote/issues/262" TITLE : benutzer löschen bug BODY : folgende warnung kommt beim löschen eines benutzers immer noch: warning: rmdir data/share/users/ : das verzeichnis ist nicht leer in /www/htdocs/w0100375/www.orga.bigband-uh.de/bnote-3.1.5/bnote/src/data/modules/userdata.php on line 132

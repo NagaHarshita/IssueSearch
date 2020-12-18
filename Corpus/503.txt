@@ -1,0 +1,1 @@
+ URL : "https://github.com/foobaar/kafka-offset-manager/issues/6" TITLE : add a ui? BODY : i think it'd be a good way to enhance usability. you could have it let you input cluster info and give you back topic info maybe? seems like some more brainstorming could be done.

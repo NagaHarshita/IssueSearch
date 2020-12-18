@@ -1,0 +1,1 @@
+ URL : "https://github.com/zappybiby/SimShift/issues/8" TITLE : no cars being tracked BODY : reason: https://github.com/zappybiby/simshift/blob/xbox/simshift/simshift/dialogs/dldebuginfo.cs l218 is returning false more debug info: https://i.imgur.com/iwbbuua.png

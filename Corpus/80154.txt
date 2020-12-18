@@ -1,0 +1,1 @@
+ URL : "https://github.com/audreyr/cookiecutter/issues/886" TITLE : tempfiles aren't removed BODY : after cleaning my /tmp directory, then running cookiecutter several times, it appears as though the temp files from run_script_with_context https://github.com/audreyr/cookiecutter/blob/master/cookiecutter/hooks.py l115 aren't removed. is this intended behavior?

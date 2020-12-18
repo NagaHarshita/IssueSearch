@@ -1,0 +1,1 @@
+ URL : "https://github.com/moozer/ansible-role-nagios/issues/20" TITLE : add host spceific checks BODY : currently everything is centrered around groups - there should be a way to add checks to specific hosts.

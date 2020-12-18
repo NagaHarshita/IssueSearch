@@ -1,0 +1,1 @@
+ URL : "https://github.com/mpmdean/pyrixs/issues/22" TITLE : cleaning tiff images BODY : add function for thresholding. background subtraction? plus perhaps copying more sophisticated cleaning functions from.

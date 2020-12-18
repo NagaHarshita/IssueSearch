@@ -1,0 +1,1 @@
+ URL : "https://github.com/threatstream/mhn/issues/360" TITLE : 504 gateway time-out BODY : when i try to access the mhn main page i am getting an 504 gateway time-out nginx/1.4.6 ubuntu error. my sensors are getting data and are forwarding that data to our splunk setup. i just cannot access the main gui.

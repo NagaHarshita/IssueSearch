@@ -1,0 +1,1 @@
+ URL : "https://github.com/to-boldly-go/tbg-shipdesigner/issues/32" TITLE : 'delete save' inverted BODY : the 'delete save' button appears to be deleting all _other_ saves instead. as far as i can tell it's due to the lambda in local_saves_delete_selected of design-import-export.vue , which returns only the current design, rather than all-but-current.

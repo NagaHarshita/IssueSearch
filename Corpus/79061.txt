@@ -1,0 +1,2 @@
+ URL : "https://github.com/mschae16/idea-box/issues/6" TITLE : return key functionality BODY : it's triggering the 'save' button to run.
+-need conditional to check if input values are empty save btn disabled in input values

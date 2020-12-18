@@ -1,0 +1,1 @@
+ URL : "https://github.com/meetfranz/franz/issues/184" TITLE : franz helper memory hog BODY : https://imgur.com/a/x5kar franz helper is using absurdly amounts of memory. services used: gmail x 2 outlook 365 slack x 2 messenger google calendar

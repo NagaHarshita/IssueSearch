@@ -1,0 +1,1 @@
+ URL : "https://github.com/SkullTech/apk-payload-injector/issues/1" TITLE : cannot open original apk BODY : simply the script cannot decompile the original apk, so it fails. caused by: java.util.zip.zipexception: invalid end header bad central directory offset

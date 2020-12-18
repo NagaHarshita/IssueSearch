@@ -1,0 +1,5 @@
+ URL : "https://github.com/Shopkeepers/Shopkeepers/issues/338" TITLE : problem in 1.8.8 BODY : migrated from: https://dev.bukkit.org/projects/shopkeepers/issues/337 originally posted by res83 aug 15, 2015 : what steps will reproduce the problem?
+1.shopkeepers spawn
+2.shopkeepers no aparecen no anda bienwhat is the expected output? what do you see instead?what version of the product are you using?
+spigot 1.8.8
+shopkeepers v1.63do you have an error log of what happened?please provide any additional information below.

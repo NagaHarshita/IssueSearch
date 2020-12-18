@@ -1,0 +1,1 @@
+ URL : "https://github.com/datalad/datalad/issues/1853" TITLE : basic search crashes BODY : $> datalad search haxby error sequence item 0: expected string, dict found search.py:<dictcomp>:70 typeerror whoosh 2.7.4 datalad 0.8.1-346-g6a4a0d54 1630

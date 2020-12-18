@@ -1,0 +1,1 @@
+ URL : "https://github.com/mlimberg/snip-it/issues/37" TITLE : event listener maxed out BODY : on key up, we add too many event listeners, need to remove and avoid error.

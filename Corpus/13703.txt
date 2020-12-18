@@ -1,0 +1,1 @@
+ URL : "https://github.com/forkcms/forkcms/issues/2280" TITLE : write more tests BODY : type - enhancement problem description we have a rather low test coverage at the moment. useful tests that can make us more confident that everything is working as it should be are more than welcome

@@ -1,0 +1,1 @@
+ URL : "https://github.com/kinvolk/habitat-operator/issues/41" TITLE : handle ring key BODY : either our operator should auto-generate a ring key or/and user can provide one. this was all the containers are secured at the gossip layer.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/GitbookIO/feedback/issues/445" TITLE : alias for glossary entries BODY : category feature request gitbook.com gitbook-cli what is the desired behavior? the glossary.md should allow to define aliases for entries. they should behave the same way as the original entry, and display the same tooltip text.

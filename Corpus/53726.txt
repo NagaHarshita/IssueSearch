@@ -1,0 +1,1 @@
+ URL : "https://github.com/backdrop-contrib/metatag/issues/2" TITLE : error on config import BODY : fatal error: cannot use object of type config as array in backdrop/modules/contrib/metatag/metatag.module on line 400

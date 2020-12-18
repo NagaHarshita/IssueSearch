@@ -1,0 +1,1 @@
+ URL : "https://github.com/wulkano/kap/issues/260" TITLE : improve trim handles BODY : sometimes when i drag the trim handles i end up dragging the window instead, this should not happen :+1: maybe we should do like how we handle these kinds of issues in mobile: - add a transparent box that acts as the handle, and have the thin white one just for looks

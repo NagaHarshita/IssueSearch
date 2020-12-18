@@ -1,0 +1,1 @@
+ URL : "https://github.com/SiliconStudio/YEBIS-plugins/issues/3" TITLE : very large bloom ghosting BODY : bloom tends to leave a lot of ghosting behind itself. sometimes it leaves ghosting for about a second, but it can also leave a 5 second ghosting from the same source. it's immensely large. can we have a feature to control ghosting effect?

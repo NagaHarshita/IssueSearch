@@ -1,0 +1,1 @@
+ URL : "https://github.com/jestersunborn/evening-autodeploying/issues/4" TITLE : view for newspaper BODY : create view for newspaper page: - ~~header~~ - section 1 - - title - - image - - description - section 2 - - 7 columns title, description - section 3 - - 9 adverts simple text - ~~footer~~

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Linuxbrew/homebrew-core/issues/1625" TITLE : brew install mono fails BODY : hello, here is a summary of the problem. execution of brew install mono fails with recipe for target 'libmini.la' failed. below is the failed output, the results of brew config ; brew doctor , and brew gist-logs mono

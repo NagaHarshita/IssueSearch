@@ -1,0 +1,1 @@
+ URL : "https://github.com/tkardi/eoy/issues/12" TITLE : clickable map legend BODY : a click on any of the transit icons in the legend should filter to include/exclude the visibility of that type of transit on the map. on/off state should be understandable in the legend.

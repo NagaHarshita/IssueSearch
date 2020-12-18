@@ -1,0 +1,1 @@
+ URL : "https://github.com/dlinknctu/OpenNet/issues/107" TITLE : propagartion loss model BODY : hi, i wanted to ask which propagation loss model did you use in wifi_roaming.py which of the ns3 loss models and where can i read the specification for that kind of model ? i also wonder what is the packet loss model? thank you very much

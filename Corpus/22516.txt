@@ -1,0 +1,1 @@
+ URL : "https://github.com/react-community/react-navigation/issues/425" TITLE : listview in tabbar BODY : when a listview contains several elements enough to scroll outside the maximum height of the device , the tabbar is hidden by the lisview

@@ -1,0 +1,1 @@
+ URL : "https://github.com/react-component/tabs/issues/107" TITLE : render tab contents BODY : would be great to render the content of each tab on click, rather than just hiding with a bit of css. it feels a bit hacky old school, jquery-esque to use css to show and hide it rather than utilising the real power of react. thanks

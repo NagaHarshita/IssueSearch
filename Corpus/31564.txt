@@ -1,0 +1,1 @@
+ URL : "https://github.com/vmware/vic/issues/3969" TITLE : spike: vapp restart BODY : we need to figure out what happens on vapp restart, specifically do we restart just the appliance or the container vms as well.

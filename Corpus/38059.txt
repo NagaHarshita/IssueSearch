@@ -1,0 +1,1 @@
+ URL : "https://github.com/jiren/filter.js/issues/150" TITLE : no rendering no json BODY : i was wondering if is possible to use filter.js on an already rendered html, with no json, only dom elements.

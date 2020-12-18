@@ -1,0 +1,1 @@
+ URL : "https://github.com/baidu/speech-samples/issues/2" TITLE : use baidu android asr BODY : is there a way to use this in my app without a chinese phone number? i was trying to register on the baidu platform but my number does not work. and is there a way to send a wav file for recogniztion throw this sdk ?

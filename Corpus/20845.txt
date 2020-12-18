@@ -1,0 +1,1 @@
+ URL : "https://github.com/ai212983/android-spinnerwheel/issues/79" TITLE : data display error BODY : when setcyclic is true, if there are multiple data sources, there will be confusion between the data switches. that is to say, the first data source will be displayed in the second data.

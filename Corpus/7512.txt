@@ -1,0 +1,1 @@
+ URL : "https://github.com/IdeaSpaceVR/IdeaSpace/issues/41" TITLE : get rid of .env BODY : because of possible security issue when using eg. nginx as webserver ignoring .htaccess!

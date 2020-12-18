@@ -1,0 +1,1 @@
+ URL : "https://github.com/Electrum9/RustTest1/issues/5" TITLE : no exit mechanism BODY : program keeps looping constantly, never terminates without ctrl+c

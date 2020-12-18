@@ -1,0 +1,1 @@
+ URL : "https://github.com/Vector35/binaryninja-api/issues/872" TITLE : pdb 2.0 support BODY : currently binary ninja supports the pdb 7.0 format but not the older pdb 2.0 format.

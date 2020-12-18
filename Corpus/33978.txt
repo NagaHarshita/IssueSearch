@@ -1,0 +1,1 @@
+ URL : "https://github.com/RxSwiftCommunity/contributors/issues/22" TITLE : binding to viewmodel BODY : hi there, i'm trying to bind to a viewmodel variable of type variable<rxgesturetypeoption> . what would be correct to set as a default value?

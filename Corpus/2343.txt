@@ -1,0 +1,1 @@
+ URL : "https://github.com/ScatmanCSGO/PotionVouchers/issues/1" TITLE : a few changes BODY : hello, after inspecting you src, i notice that in the /src/me/scatman/potionvouchers/tokens/ it shows you dispatch broadcast and manuaddp it is possible the server does not have thoses commands.

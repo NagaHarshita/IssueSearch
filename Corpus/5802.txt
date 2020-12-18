@@ -1,0 +1,1 @@
+ URL : "https://github.com/Sylius/PluginSkeleton/issues/22" TITLE : switch to yarn BODY : getting yarn to work on travis-ci is a bit tough, let's wait for @pamil. :

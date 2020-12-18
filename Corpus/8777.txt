@@ -1,0 +1,1 @@
+ URL : "https://github.com/jacknlliu/development-issues/issues/7" TITLE : ros sleep block BODY : i met a very oddball question， ros::rate 10 .sleep can't work as expected, it blocks. i replace it with usleep 100000 . this case is in the following os environment ubuntu: 16.04 ros: kinect docker: 17.09.0-ce, build afdb6d4 this should be a low-level library broken in os.

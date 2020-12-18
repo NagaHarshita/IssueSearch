@@ -1,0 +1,1 @@
+ URL : "https://github.com/HelloZeroNet/ZeroMe/issues/38" TITLE : show orphan comments BODY : if someone deletes a post, then we can't see the comments under this post, but it still takes up space. so i think zerome needs a way to see orphan comments.

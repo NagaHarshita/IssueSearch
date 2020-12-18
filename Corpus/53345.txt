@@ -1,0 +1,1 @@
+ URL : "https://github.com/pehapkari/pehapkari.cz/issues/198" TITLE : docker probably broken BODY : i'm not using docker so i can't test it at the moment but i assume that this https://github.com/pehapkari/pehapkari.cz/blob/master/.docker/dockerfile l17 won't work correctly, right? not sure if it's enough to change sculpin to statie.

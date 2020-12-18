@@ -1,0 +1,1 @@
+ URL : "https://github.com/wagnerf42/Jimn/issues/12" TITLE : treap code is complex BODY : can we factorize traits constraints ? could we use borrow traits ? cut into files ?

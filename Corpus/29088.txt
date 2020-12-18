@@ -1,0 +1,1 @@
+ URL : "https://github.com/darrenstarr/cWebManagementService/issues/3" TITLE : ip and port binding BODY : it seems that changing the ip address and port bindings for web management service doesn't require doing anything than altering the registry keys and restarting the service. i'll investigate this as an option if the needs arise.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Kcchouette/LessPass-Helper/issues/2" TITLE : add html5 element BODY : some problems when adding the required attributes for the input. onclick doesn't check the validation of the input; only onsubmit do that, but it reload all the page and so refresh all the content.

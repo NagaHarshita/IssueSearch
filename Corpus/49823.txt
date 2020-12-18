@@ -1,0 +1,1 @@
+ URL : "https://github.com/petrarchy/arctype/issues/11" TITLE : update to webpack 2.0 BODY : webpack 2.0 potentially gives us rollup capability and allows individual modules to be exported out in a lightweight fashion.

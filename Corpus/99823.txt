@@ -1,0 +1,1 @@
+ URL : "https://github.com/Homebrew/brew/issues/2867" TITLE : no available sqlitebrowser BODY : hi all. i'm trying to install sqlitebrowser but got this message error: no available formula with the name sqlitebrowser it was migrated from homebrew/core to caskroom/cask. you can access it again by running: brew tap caskroom/cask please take a look and give me advise. thanks.

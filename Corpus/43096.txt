@@ -1,0 +1,1 @@
+ URL : "https://github.com/psrc/soundcast/issues/294" TITLE : clean up input_config BODY : maybe get ride of simple_input_config? and move some usually unchanged parameters into emme_config like base_year and master_project

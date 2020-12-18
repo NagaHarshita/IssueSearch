@@ -1,0 +1,1 @@
+ URL : "https://github.com/tigercosmos/node-color-log/issues/2" TITLE : logger.log enhance BODY : i want to extend it as: logger.log 'some message' .color 'red' .feature 'bold' ; something like this.

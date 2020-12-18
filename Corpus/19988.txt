@@ -1,0 +1,1 @@
+ URL : "https://github.com/obduk/cms/issues/732" TITLE : automate aws setup BODY : automate aws setup. try using aws opsworks first to create rds / s3 / cloudfront.

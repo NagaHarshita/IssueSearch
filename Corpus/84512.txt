@@ -1,0 +1,1 @@
+ URL : "https://github.com/nickboucher/nova/issues/12" TITLE : dates are converted wrong BODY : ! screen shot 2017-02-01 at 7 48 51 pm https://cloud.githubusercontent.com/assets/728084/22532789/8197c0ac-e8b7-11e6-9425-392dd3038a8a.png i entered 01/01/2017 as the start and end date on qualtrics, yet nova thinks i entered 12/31/2016. maye something wrong with time zones?

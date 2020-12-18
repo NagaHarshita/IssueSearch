@@ -1,0 +1,1 @@
+ URL : "https://github.com/MakerBox-NZ/pygame_bluwattl/issues/2" TITLE : complete flip function BODY : on line 36, you forgot the parentheses at the end of your function call: pygame.display.flip

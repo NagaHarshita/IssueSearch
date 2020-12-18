@@ -1,0 +1,1 @@
+ URL : "https://github.com/dftlibs/numgrid/issues/6" TITLE : avoid copying python api BODY : check how this is done in https://github.com/bast/balboa.

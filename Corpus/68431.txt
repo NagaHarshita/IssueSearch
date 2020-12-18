@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla/rr/issues/1952" TITLE : rr broken in kvm guests BODY : we get ticks divergence in various async-signal testcases. rr revision 73ee8002b88b236d95a3001ad2e3a84cdd6a9e85 is the first bad changeset.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/rust-lang-deprecated/time/issues/145" TITLE : add support for serde BODY : being able to optionally have serde support for time like the existing rustc_serialize would be nice.

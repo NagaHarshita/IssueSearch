@@ -1,0 +1,1 @@
+ URL : "https://github.com/sumit3203/GOOGLESUMMERCODE2016/issues/6" TITLE : check for image opened BODY : there is no way to check if new session being performed a new image is opened, when clicked on compute button of filters, it is an idle state, but if an image is opened it will perform the respective tasks

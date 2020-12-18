@@ -1,0 +1,1 @@
+ URL : "https://github.com/BlackToppStudios/Jagati/issues/7" TITLE : add install targets BODY : not every wants to builds their workflow around cmake. add install targets, that install build libraries, headers and testers so that a simple make install or ninja install will make all of the mezzanine available in a more sdk like style.

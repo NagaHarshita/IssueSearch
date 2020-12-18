@@ -1,0 +1,1 @@
+ URL : "https://github.com/mibk/dupl/issues/16" TITLE : serious memory leak BODY : there are two places where there was a serious memory leak： - 1.https://github.com/mibk/dupl/blob/master/suffixtree/dupl.go l34 - 2.https://github.com/mibk/dupl/blob/master/main.go l166

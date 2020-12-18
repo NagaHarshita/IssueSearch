@@ -1,0 +1,1 @@
+ URL : "https://github.com/corna/me_cleaner/issues/128" TITLE : dg45id unknown image isue BODY : using uefi tool rom was extracted from bios image idg4510h.86a.0135.eb.exe which works on dg45id motherboard. after running me_cleaner.py command the error presented was unknown image looking for a workaround.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/PX4/Firmware/issues/7513" TITLE : rc yaw calibration BODY : it seems as if the yaw calibration has a deadzone, but only applied to one side. ! yaw_deadzone https://user-images.githubusercontent.com/13449161/27691948-c6c19b38-5ce5-11e7-998f-cc9953ef30c3.png

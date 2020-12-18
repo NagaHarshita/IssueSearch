@@ -1,0 +1,1 @@
+ URL : "https://github.com/mVax-app/mVax/issues/31" TITLE : search page format BODY : must decide how search page should be formatted. we don't want to automatically download the whole database. i propose we only have a search bar and download queries only. define a default sort for list of records.

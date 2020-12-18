@@ -1,0 +1,1 @@
+ URL : "https://github.com/prasadtalasila/JavaAutolab/issues/99" TITLE : update json documentation BODY : the json documentation page https://github.com/prasadtalasila/javaautolab/wiki/v0.2-beta-json-files-documetation needs to be updated with information on the following json objects. 1. deploy/configs/main_server/courses.json 1. deploy/configs/main_server/apikeys.json

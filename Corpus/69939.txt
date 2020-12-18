@@ -1,0 +1,1 @@
+ URL : "https://github.com/ReliSA/SPADe/issues/27" TITLE : unnasigned jako default BODY : u všech výčtů při nevyplnění zadávat unassigned, aby v databázi nebyly null.

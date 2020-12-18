@@ -1,0 +1,1 @@
+ URL : "https://github.com/devkitPro/libnds/issues/22" TITLE : avoid nand init by default BODY : would it be possible to avoid nand init by default? that beaks no$gba dsi mode, this is useless to most homebrews that needs only need sd access and i prefer also to not touch nand at all for safety reason

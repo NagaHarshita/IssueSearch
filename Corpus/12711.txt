@@ -1,0 +1,1 @@
+ URL : "https://github.com/RowanACM/ACMApp/issues/11" TITLE : remove ios pods/ BODY : too big, people should use pod install to get the pod dependencies

@@ -1,0 +1,1 @@
+ URL : "https://github.com/uilianries/conan-osip/issues/1" TITLE : build on mingw BODY : the project should be built on windows + mingw

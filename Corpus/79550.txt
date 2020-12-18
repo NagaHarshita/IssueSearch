@@ -1,0 +1,1 @@
+ URL : "https://github.com/apsislabs/slayer_rails/issues/14" TITLE : slayer generate scaffold BODY : generate the full scaffold for a command. this should generate a command, and the form for a command. it should also take type parameters that are used to generate the form.

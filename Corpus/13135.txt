@@ -1,0 +1,1 @@
+ URL : "https://github.com/tactycal/agent/issues/3" TITLE : switch to api v2 BODY : a new version of the api will be rolled out soon. breaking changes: 1. error responses { error : 10} changes to { error : token_expired }

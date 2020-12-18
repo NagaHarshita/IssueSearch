@@ -1,0 +1,1 @@
+ URL : "https://github.com/wendorf/wikipedia-time-machine/issues/5" TITLE : chosen date is imprecise BODY : the date selector does not specify time zone and nothing in the code is time zone aware , and day granularity is potentially too large. if day granularity is not too large, we should at least communicate when in the day we're time travelling is it midnight? noon? .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/tarantool/doc/issues/188" TITLE : adjust manual for 1.6 BODY : strip off all features related to version 1.7 from docs on branch 1.6.

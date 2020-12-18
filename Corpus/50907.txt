@@ -1,0 +1,1 @@
+ URL : "https://github.com/CUNYTech/JobQuest/issues/44" TITLE : add end to end testing BODY : it's getting tedious to manually test the features after merges. need to add selenium tests.

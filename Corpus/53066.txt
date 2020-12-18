@@ -1,0 +1,1 @@
+ URL : "https://github.com/jmeas/moolah/issues/798" TITLE : date picker on desktop BODY : i should use something like react-pikaday in desktop. the media query js api can be used to toggle the behaviors

@@ -1,0 +1,11 @@
+ URL : "https://github.com/Zimmi48/bugzilla-test/issues/1236" TITLE : make doc fails BODY : note: the issue was created automatically with bugzilla2github tool bugzilla bug id: 1236
+date: 2006-10-02 16:26:54 +0200
+from: matthes@irit.fr
+to: last updated: 2006-10-02 16:26:54 +0200 bugzilla comment id: 1462
+date: 2006-10-02 16:26:54 +0200
+from: matthes@irit.fr full_name: ralph matthes
+version: 8.1beta trunk r9195 os: suse 10.0
+submission from: extra.irit.fr 141.115.28.2 make doc fails due to \texttt{ring_polynom.v} on line 300 in
+doc/refman/polynom.tex _ has to be replaced by \_ . bugzilla comment id: 1463
+date: 2007-07-04 17:04:20 +0200
+from: matthes@irit.fr c'est fait r9203

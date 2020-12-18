@@ -1,0 +1,1 @@
+ URL : "https://github.com/LUGM/TechTatva-16/issues/11" TITLE : fix autolayout constraints BODY : some views don't have constraints, and some are breaking as of now.

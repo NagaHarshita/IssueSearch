@@ -1,0 +1,1 @@
+ URL : "https://github.com/thefrontside/ember-impagination/issues/174" TITLE : add migration guide BODY : the upgrade from v.0.2.x to v1.0.0 contains some breaking changes. we need to outline them in the readme for new users as well as a migration guide for existing users!

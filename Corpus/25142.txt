@@ -1,0 +1,1 @@
+ URL : "https://github.com/d3/d3-request/issues/21" TITLE : using es6 imports? BODY : with d3-selection, i can do: import { select } from 'd3-selection' but i'm having trouble doing the same kind of thing with d3-request. i'd like to be able to do somethin like: import { json } from 'd3-request' what am i missing?

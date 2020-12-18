@@ -1,0 +1,1 @@
+ URL : "https://github.com/appbaseio/gem/issues/7" TITLE : add support for docker BODY : similar to dejavu's https://github.com/appbaseio/dejavu/blob/dev/.docker/dockerfile, create a dockerfile to run gem via docker.

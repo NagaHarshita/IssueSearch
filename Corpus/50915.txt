@@ -1,0 +1,1 @@
+ URL : "https://github.com/mapbox/pagerduty/issues/3" TITLE : add events api wrapper BODY : in addition to their rest api, pagerduty has an events api https://v2.developer.pagerduty.com/docs/events-api-v2 that allows for monitoring system integration. it would be great to expose a function to interact with this endpoint as well.

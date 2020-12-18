@@ -1,0 +1,1 @@
+ URL : "https://github.com/aeliton/cut2d-sa/issues/3" TITLE : reorganize source code BODY : refactor the current code to better accommodate the change to 2d cut probem: 1 - create solution class? 2 - callbacks: perturba, s_diff f s1 - f s0 , initial_solution, objective_function 3 - create class for parameters? p, l, m, a.. 4 - create class simulatedannealing

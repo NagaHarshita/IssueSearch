@@ -1,0 +1,1 @@
+ URL : "https://github.com/P0cL4bs/WiFi-Pumpkin/issues/304" TITLE : wifi-pumpkin need pyqt4 : BODY : my problem is that when i start wifi-pumpkin i get the error wifi-pumpkin need pyqt4 : . i have already tried to reinstall it, and also reinstall python, without results. could someone give me a solution? i use kali linux.

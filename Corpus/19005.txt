@@ -1,0 +1,1 @@
+ URL : "https://github.com/owainlewis/sendgrid-hs/issues/6" TITLE : warnings on build BODY : you have some unused imports utils.hs that cause build to fail when building with --pedantic .

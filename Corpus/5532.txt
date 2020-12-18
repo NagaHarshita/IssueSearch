@@ -1,0 +1,1 @@
+ URL : "https://github.com/igorprado/react-notification-system/issues/131" TITLE : publish to npm BODY : i'm receiving the following warning react-notification-system@0.2.15 has incorrect peer dependency react@0.14.x || ^15.0.0 . it appears you have already fixed this in package.json, but the change has not been published to npm yet. can you publish a new version?

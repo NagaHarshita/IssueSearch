@@ -1,0 +1,1 @@
+ URL : "https://github.com/fijijavis/wdio-mochawesome-reporter/issues/11" TITLE : missing browser in report BODY : i'm not certain if this is an issue that requires downstream updates, but looking at the generated .json file, there is no mention of the browser a test-file was run in. this makes the generated reports a little useless when run across multiple browsers.

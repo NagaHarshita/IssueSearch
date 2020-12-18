@@ -1,0 +1,1 @@
+ URL : "https://github.com/pantographe/capistrano-procfile/issues/2" TITLE : manage capistrano rollback BODY : on capistrano rollback, check that the services installed and who are running are the goods ones.

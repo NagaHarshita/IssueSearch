@@ -1,0 +1,1 @@
+ URL : "https://github.com/WPO-Foundation/wptagent/issues/39" TITLE : connecting to socket issue BODY : websocket connection issue. not able to connect websocket. in my web application first browser make a socket connection then all http requests sending across this websocket. but when i run my application through wpt browser its not creating a socket connection.

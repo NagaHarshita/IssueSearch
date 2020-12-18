@@ -1,0 +1,1 @@
+ URL : "https://github.com/CodersOfTheNight/meowth/issues/1" TITLE : tcp stream support BODY : tcp input is more common than zeromq, actually it would be possible to simulate logstash entirely by having this

@@ -1,0 +1,1 @@
+ URL : "https://github.com/firemacs/FiremacsWE/issues/95" TITLE : not implemented: savepage BODY : name: savepage case: common keyx: c-xc-s body: this._sfun.pagesave e ; desc: save page type:

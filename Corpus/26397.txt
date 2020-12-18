@@ -1,0 +1,1 @@
+ URL : "https://github.com/lowrank/femm/issues/4" TITLE : assembler class wip BODY : finally, such class cannot be avoided. now standard code looks like: builder = assember ; a = form p, v,v ; m = builder.assemble a ; b = form q, v ; l = builder.assemble b ; c = form p, v, v, subdomain ; d = form q, v, subdomain ;

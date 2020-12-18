@@ -1,0 +1,1 @@
+ URL : "https://github.com/Cloud-CV/EvalAI/issues/558" TITLE : navigation link changes BODY : we need to do following changes in the client side: - logout button on homepage navigation bar at top right - change password on home page when user is logged in - change password on sidebar of dashboard

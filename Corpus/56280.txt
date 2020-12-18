@@ -1,0 +1,1 @@
+ URL : "https://github.com/chateauferret/calenhad/issues/28" TITLE : module name validation BODY : needs to be compatible with the glsl code composition methods in what will be graph/graph.cpp. the name must be something valid in glsl, which is to say a valid c variable name, and not a duplicate.

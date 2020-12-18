@@ -1,0 +1,1 @@
+ URL : "https://github.com/marianperca/laravel-neo4j-php-client/issues/1" TITLE : allow bolt protocol BODY : hi, your lib assumes there will be only http clients, however neo4j and the graphaware client supports both http and bolt. also in version 5 of the client, http will disappear

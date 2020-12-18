@@ -1,0 +1,1 @@
+ URL : "https://github.com/traildb/traildb/issues/139" TITLE : flag to dump version BODY : it'd be useful have a flag to dump out the version of traildb installed on the system esp. useful when testing against multiple local versions e.g tdb --version

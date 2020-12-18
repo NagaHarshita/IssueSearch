@@ -1,0 +1,1 @@
+ URL : "https://github.com/joonhocho/react-native-google-sign-in/issues/4" TITLE : npm install issue BODY : new version of rn is out. running npm install gives following react-native-google-sign-in@0.0.9 requires a peer of react-native@^0.40.0 but none was installed.

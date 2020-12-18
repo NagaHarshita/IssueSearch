@@ -1,0 +1,1 @@
+ URL : "https://github.com/antoine77340/Youtube-8M-WILLOW/issues/1" TITLE : error in file_averaging.py BODY : $ python file_averaging.py traceback most recent call last : file file_averaging.py , line 64, in <module> avg = read_models model_weights1 nameerror: name 'model_weights1' is not defined

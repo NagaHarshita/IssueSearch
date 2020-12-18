@@ -1,0 +1,1 @@
+ URL : "https://github.com/exercism/exercism.io/issues/3616" TITLE : problem with api key BODY : i keep getting the following error when trying to fetch new problems even though i have configured the cli with my api key: unable to fetch problems http: 401 - please provide your exercism.io api key

@@ -1,0 +1,1 @@
+ URL : "https://github.com/alexcrichton/gcc-rs/issues/234" TITLE : a new release? BODY : @alexcrichton can you cut a new release? need the method get_compiler in the main branch but not release yet.

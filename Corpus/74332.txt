@@ -1,0 +1,1 @@
+ URL : "https://github.com/rism-ch/verovio/issues/465" TITLE : equal width of all bars? BODY : would it be possible for verovio to make all bars/measure of equal width, regardless of how many notes they contain. there is command --even-note-spacing but not sure what this is doing?

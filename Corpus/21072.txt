@@ -1,0 +1,1 @@
+ URL : "https://github.com/developit/preact/issues/557" TITLE : drag n drop events BODY : attaching a function to ondragstart is working but ondragover and ondrop don't. do i miss something?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/siacs/Conversations/issues/2454" TITLE : lock screen support BODY : would it be possible to allow conversations to be used as the lock screen, so children need to ask permission to unlock their phone? maybe an automatic request sent on swipe? and then the parent can answer over xmpp with a keyword or something...?

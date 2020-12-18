@@ -1,0 +1,1 @@
+ URL : "https://github.com/kodeflex/wp-artisan/issues/29" TITLE : wp init path BODY : if we use wp init my wordpress site in this manner as mentioned in the docs, an error is shown initializing... creating directory structure '/home/azeela/projects/my wordpress site'. ✖ fetching wordpress latest release... failed.

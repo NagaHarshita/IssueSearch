@@ -1,0 +1,1 @@
+ URL : "https://github.com/ReneHerthel/ConveyorBelt/issues/2" TITLE : code smells in hal BODY : @reneherthel bitte korrigieren: 1. einrückung 2. default-konstruktoren entfernen 3. kommentar bitte auf englisch 4. methodennamen fangen immer mit einem kleinbuchstaben an

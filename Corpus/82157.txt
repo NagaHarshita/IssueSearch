@@ -1,0 +1,1 @@
+ URL : "https://github.com/samsung-cnct/k2cli/issues/70" TITLE : add k2cli cluster upgrade BODY : now that k2 has master node upgrade functionality, users should be able to run k2cli cluster upgrade to fire off upgrade.sh

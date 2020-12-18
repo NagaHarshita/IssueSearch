@@ -1,0 +1,1 @@
+ URL : "https://github.com/devopsdays/devopsdays-theme/issues/345" TITLE : create custom 404 page BODY : expected behavior when we hit a 404 on devopsdays.org, we should get a nice looking page that might even point people to events, etc. actual behavior we get the cloudflare or netlify 404 page. reproduction steps visit https://www.devopsdays.org/matt-rules to see the 404 page.

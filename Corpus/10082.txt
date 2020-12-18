@@ -1,0 +1,1 @@
+ URL : "https://github.com/Promact/md2/issues/160" TITLE : aot build errors BODY : datepicker/month-view.ngfactory.ts:113:42 property 'date' does not exist on type 'date'. maybe problem in file ../datepicker/month-view.html in this line activecell = activedate.date - 1 and ../datepicker/year-view.html in this line activecell = activedate.month too.

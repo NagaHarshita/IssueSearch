@@ -1,0 +1,1 @@
+ URL : "https://github.com/yingjerkao/uni10/issues/24" TITLE : set degeneracy to qnum BODY : hello, here i am using uni10 to write a u 1 symmetric dmrg program. so, i think i need to assign degeneracy to quantum number. is it possible to do it in uni10? i didn't find anywhere. thanks very much.

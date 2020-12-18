@@ -1,0 +1,1 @@
+ URL : "https://github.com/AyuntamientoMadrid/agendas/issues/28" TITLE : admin organizations index BODY : what ==== administrator users can access to admin/organizations index how ==== create admin/organizations index controller and action. create paginated index view. only administrator users should be able to view this page. screenshots ========= pending

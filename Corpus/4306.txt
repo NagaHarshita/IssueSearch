@@ -1,0 +1,11 @@
+ URL : "https://github.com/jecelyin/920-text-editor-v2/issues/815" TITLE : bugreport null BODY : memory: 244 mb / 897 mb
+logcat error: exception ========================== package: com.jecelyin.editor.v2
+version code: 26
+version name: v2.17.2.13
+android: 10.0.1
+android build: 14a403 manufacturer: xiaomi
+model: 2014817
+thread: main-1
+crashreporter key: 04de9ef5-d806-7f6c-bce9-b01a247c71c486998dad
+start date: thu mar 30 08:26:02 gmt+07:00 2017
+date: thu mar 30 08:31:15 gmt+07:00 2017 java.lang.nullpointerexception at com.jecelyin.android.file_explorer.io.rootfile$1.onfinish rootfile.java:97 at com.jecelyin.android.file_explorer.util.rootutils$rootcommand.commandcompleted rootutils.java:58 at com.stericson.rootshell.execution.command$commandhandler.handlemessage command.java:318 at android.os.handler.dispatchmessage handler.java:102 at android.os.looper.loop looper.java:136 at android.app.activitythread.main activitythread.java:5113 at java.lang.reflect.method.invokenative native method at java.lang.reflect.method.invoke method.java:515 at com.android.internal.os.zygoteinit$methodandargscaller.run zygoteinit.java:796 at com.android.internal.os.zygoteinit.main zygoteinit.java:612 at de.robv.android.xposed.xposedbridge.main xposedbridge.java:132 at dalvik.system.nativestart.main native method

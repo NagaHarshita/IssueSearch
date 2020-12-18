@@ -1,0 +1,1 @@
+ URL : "https://github.com/astrooman/paf/issues/4" TITLE : record start time BODY : recording start time will be send as a part of the configuration. start recording at a given utc time, instead of waiting for the 27s boundary that wastes 27s in the worst-case scenario .

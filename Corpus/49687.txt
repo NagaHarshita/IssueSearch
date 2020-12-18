@@ -1,0 +1,1 @@
+ URL : "https://github.com/React-Components-Organization/react.video/issues/3" TITLE : unknown props warning BODY : warning: unknown props cls , source , posterurl , notsupportedmessage on <video> tag. remove these props from the element. for details, see https://fb.me/react-unknown-prop in video created by reactvideo

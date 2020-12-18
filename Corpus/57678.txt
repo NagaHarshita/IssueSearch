@@ -1,0 +1,1 @@
+ URL : "https://github.com/kittenswolf/WikiTextBot/issues/5" TITLE : redirect pages ignored BODY : looks like the bot just prints the this is a redirection page... instead of follow the redirection and print the final page instead. example: https://www.reddit.com/r/emacs/comments/7iqebj/does_emacs_violate_the_unix_philosophy_of_doing/dr1a49o/

@@ -1,0 +1,1 @@
+ URL : "https://github.com/punkyoon/coding-night-live/issues/1" TITLE : 채팅 기능 구현 BODY : 1. nodejs+socketio로 분리해서 구현 -> 인증문제? 2. django + redis + channel + websocket -> 다른 프로젝트의 채팅 예제를 따라해봤으나, 계속적으로 실패 이유는 확인하지 못함 3. django + tornado / twisted / ... -> 세부적으로 확인 필요

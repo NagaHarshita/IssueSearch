@@ -1,0 +1,1 @@
+ URL : "https://github.com/shibatch/sleef/issues/29" TITLE : xtan at -0.0 BODY : https://github.com/shibatch/sleef/blob/master/src/libm/sleefdp.c l1192 should be if !xisinff d && xisnegzerof d || fabsfk d > trigrangemaxf u = -0.0f; right? i don't get tan -0.0 = -0.0 similarly for the float version

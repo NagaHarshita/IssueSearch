@@ -1,0 +1,1 @@
+ URL : "https://github.com/KhronosGroup/SPIRV-Tools/issues/700" TITLE : global value numbering. BODY : should eliminate duplicate computed values, e.g. in constants section. cover undef cases as well. extra undefs could be introduced by type2undef method in https://github.com/khronosgroup/spirv-tools/pull/691

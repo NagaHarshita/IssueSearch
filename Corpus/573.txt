@@ -1,0 +1,1 @@
+ URL : "https://github.com/obartra/picturebook/issues/5" TITLE : set up ci BODY : - create test project that exercises the public api - set up ci to test it and publish it

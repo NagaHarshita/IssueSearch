@@ -1,0 +1,1 @@
+ URL : "https://github.com/zy31415/boozoo/issues/2" TITLE : add a book BODY : add a book: 1. use file dialog to point to a file 2. copy the file to the storage 3. rename the file 4. assign a short-cut.

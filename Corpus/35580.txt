@@ -1,0 +1,1 @@
+ URL : "https://github.com/rafaeljusto/toglacier/issues/35" TITLE : error on file backup BODY : today the tool only accepts directories for backups, but the user could be interested on saving just 1 file.

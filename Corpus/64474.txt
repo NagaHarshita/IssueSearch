@@ -1,0 +1,1 @@
+ URL : "https://github.com/mootools/mootools-core/issues/2782" TITLE : gettags , striptags bug BODY : what happens: <b>test</b><br> .striptags b returns test <b>test</b><br> .gettags b returns <b> , </b> , <br> _this also happens with i and input tags._ tried on versions 1.2 and 1.6.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/openwrt/openwrt/issues/439" TITLE : lantiq xway images missing BODY : on trunk any xway not xway_legacy device added to legacy_devices list in target/linux/lantiq/image/makefile do not get created eg. dgn3500 n.b. the entire xway profile is missing from current snapshot; generic contains duplicates of xrx200

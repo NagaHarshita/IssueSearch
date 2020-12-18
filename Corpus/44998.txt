@@ -1,0 +1,1 @@
+ URL : "https://github.com/SemanticWebBuilder/SWBSearch/issues/1" TITLE : gitignore for eclipse BODY : al trabajar con eclipse se generan las carpetas .classpath, .project y .settings. sería bueno agregarlas al gitignore para evitar que se suban por error.

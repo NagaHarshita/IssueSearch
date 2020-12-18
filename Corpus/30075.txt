@@ -1,0 +1,1 @@
+ URL : "https://github.com/sathishmscict/Searchable-Spinner/issues/1" TITLE : no substring search BODY : cannot search substrings. if the string to search contains a delimiter that is not a space. let's say africa/libya , it fails to show suggestions unless you start to search a character that is at string.charat 0 .

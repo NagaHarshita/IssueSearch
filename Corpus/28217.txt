@@ -1,0 +1,1 @@
+ URL : "https://github.com/thewondertwins/learngo/issues/25" TITLE : fix code formatting BODY : issue type fix formatting of code after bullet list item language global issue in pointers and reference types lesson there is invalid formatting of code after the bullet list item. i fixed it in my pr for czech translation, will be happy to fix that in all the others as well

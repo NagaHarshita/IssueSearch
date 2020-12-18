@@ -1,0 +1,1 @@
+ URL : "https://github.com/restrictcontentpro/restrict-content-pro/issues/1367" TITLE : update authorize.net sdk BODY : it looks like we're on an ancient version of the authnet php sdk. the methods we're using are deprecated in their documentation. we should update it before doing 1239, 1366, 1236, etc.

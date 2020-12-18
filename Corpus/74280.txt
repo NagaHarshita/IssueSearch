@@ -1,0 +1,1 @@
+ URL : "https://github.com/cassandrale179/graderank/issues/4" TITLE : enclose array in bracket BODY : given { id: 15 , class: cs 164 , grade: 2 , year: 2013 } need to fix to: { id : 15 , class : cs 164 , grade : 2 , year : 2013 } so json can be hosted online and parsed.

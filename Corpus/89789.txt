@@ -1,0 +1,1 @@
+ URL : "https://github.com/Abazhei/Framework/issues/1" TITLE : remove .idea from project BODY : remove .idea from the project and add this folder to a .gitignore file.

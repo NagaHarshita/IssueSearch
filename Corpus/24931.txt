@@ -1,0 +1,1 @@
+ URL : "https://github.com/corbinlc/gnuroot/issues/90" TITLE : unpacking a rootfs BODY : i've just installed gnuroot and gnuroot wheezy on my xiaomi mi box mdz-16-ab running android 6.0.1. i can't get past the create new rootfs stage, though: my device says unpacking a rootfs , thinks for a few seconds then stops. can you help? thanks, zoran

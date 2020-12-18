@@ -1,0 +1,1 @@
+ URL : "https://github.com/snowkit/hxcpp-guide/issues/6" TITLE : tear down call for hxcpp? BODY : i would like to know corresponding tear-down calls for the following setup calls? cpp extern c void hxcpp_set_top_of_stack ; extern c const char hxrunlibrary ;

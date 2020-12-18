@@ -1,0 +1,1 @@
+ URL : "https://github.com/dalmatinerdb/dalmatinerdb-datasource/issues/22" TITLE : add group by BODY : the grafana gui query constructor does not have the ability to express a group by select avg derivate 'cpu' from 'server' where kstat:'key' = 'cpu_nsec_user' group by $kstat:host using avg , 30s as $kstat:host last 1h

@@ -1,0 +1,1 @@
+ URL : "https://github.com/pattrn-project/pattrn/issues/60" TITLE : minify and compress .js BODY : on the build for production, the .js file is greater than 8mb. this causes an extremely slow load time. i think this could be minified and uglified for the production build.

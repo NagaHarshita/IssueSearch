@@ -1,0 +1,1 @@
+ URL : "https://github.com/gcushen/hugo-academic/issues/198" TITLE : lf or return in abstract? BODY : greetings, i am trying to use markdown in the abstract field. is this permissible? the specific issue is that i want to use two paragraphs but i don't know how to break them. i have tried and \s\s . i don't know where to go with this.

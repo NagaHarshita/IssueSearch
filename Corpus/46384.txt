@@ -1,0 +1,1 @@
+ URL : "https://github.com/chewxy/gorgonia/issues/164" TITLE : make node great again BODY : the earliest design had node implement tensor.tensor . time to make that happen again. h/t @docmerlin for suggesting that

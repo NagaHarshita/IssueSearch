@@ -1,0 +1,1 @@
+ URL : "https://github.com/spesmilo/electrum/issues/2640" TITLE : lost seed and 2fa BODY : hello, i recently created a wallet in which i deposited an amount in btc. after that, they stole my iphone with seed and 2fa generator in it. is there a way to recover the amount? i can access private keys and master public key of the wallet

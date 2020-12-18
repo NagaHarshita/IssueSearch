@@ -1,0 +1,1 @@
+ URL : "https://github.com/diplomit-dtu/Matador_GUI/issues/2" TITLE : fejl i setcar BODY : når en bil er blevet vist med setcar for en spiller på et felt, vil hascar altid returnere true, selv hvis bilen bliver fjernet for den pågældende spiller.

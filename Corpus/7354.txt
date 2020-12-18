@@ -1,0 +1,1 @@
+ URL : "https://github.com/elastic-rs/elastic/issues/270" TITLE : fix build error BODY : looks like nightly isn't compiling because the raw async sample uses dependencies, which is bad. i might just remove that example completely. it's quite contrived and was mostly so i could play with ideas for an async client.

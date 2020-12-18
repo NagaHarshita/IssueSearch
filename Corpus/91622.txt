@@ -1,0 +1,1 @@
+ URL : "https://github.com/bentglasstube/Net-MPD/issues/9" TITLE : unable to delete stickers BODY : documentation says to use an undefined value to delete a sticker. so i tried $mpd->sticker_value song , $_ , rating and also $mpd->sticker_value song , $_ , rating , , but both don't work what is the proper way to do this?

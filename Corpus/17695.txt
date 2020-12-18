@@ -1,0 +1,1 @@
+ URL : "https://github.com/Logi-CE/fmup/issues/1" TITLE : redis cache issue BODY : reproduced on 6.14.1 : command 'delete' is not a registered redis command.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/thirtybees/cronjobs/issues/1" TITLE : cron jobs never run BODY : i have setup in plesk the cron job to run this module, however none of them get ran. i run it in plesk and the task runs with no errors. i run each task in my cron task manager, and each of them runs fine.

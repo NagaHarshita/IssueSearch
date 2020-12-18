@@ -1,0 +1,1 @@
+ URL : "https://github.com/wasabifx/wasabi/issues/114" TITLE : interceptor flow control BODY : refactor from boolean to calling next on interceptors or throw exception to clean up the implementation.

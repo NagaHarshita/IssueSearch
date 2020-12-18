@@ -1,0 +1,2 @@
+ URL : "https://github.com/inonit/django-chemtrails/issues/20" TITLE : evaluation of access rules BODY : look into if the current access rule model suits our needs.
+can we create any required rule based on this model?

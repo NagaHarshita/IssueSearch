@@ -1,0 +1,1 @@
+ URL : "https://github.com/iPuTTY/iPuTTY/issues/17" TITLE : linux 빌드 실패 BODY : iputty 패치가 들어오면서, unix code쪽을 배제하여 각종 빌드 에러 발생. 특히 cygterm branch에서 cygterm patch시에 고려하지 못한 부분이 많음.

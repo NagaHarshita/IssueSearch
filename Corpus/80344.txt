@@ -1,0 +1,1 @@
+ URL : "https://github.com/spacetelescope/stak-notebooks/issues/41" TITLE : to-do: for tables.ttools BODY : tdiffer needs to be added once it's released in astropy. i'm working on pr now: https://github.com/astropy/astropy/pull/6443 look into trebin. do we want to add this to astropy?

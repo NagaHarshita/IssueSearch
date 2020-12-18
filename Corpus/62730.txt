@@ -1,0 +1,2 @@
+ URL : "https://github.com/spaghetti-racers/word_assassins/issues/36" TITLE : create a 5x5 game board BODY : as a guesser, i can view a 5x5 board filled with words with no colors
+as a spymaster, i can see 5x5 board filled with words and colors, that serves as a map. the guessers cannot see the initial map.

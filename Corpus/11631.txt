@@ -1,0 +1,1 @@
+ URL : "https://github.com/babel/babel/issues/6178" TITLE : improve node api BODY : promise-based support directory input, like the cli does see babel-transform-dir https://npmjs.com/babel-transform-dir .

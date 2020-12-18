@@ -1,0 +1,1 @@
+ URL : "https://github.com/Kowbell/Battleship-UE4/issues/5" TITLE : add turn recording BODY : we should be able to record all turns taken and save them to allow for game comparison and analysis. this also paves the way to pre-computing turns and compacting everything into structs - the first step towards multithread support.

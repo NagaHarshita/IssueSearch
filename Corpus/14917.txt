@@ -1,0 +1,1 @@
+ URL : "https://github.com/mitchellh/vagrant/issues/8856" TITLE : chmod not working BODY : ! image https://user-images.githubusercontent.com/10583423/29015996-0361cbd8-7b83-11e7-8829-efe8489718ce.png vagrant version 1.9.1 host operating system windows 10 guest operating system ubuntu

@@ -1,0 +1,6 @@
+ URL : "https://github.com/nickedwards109/little-shop/issues/23" TITLE : admin item creation BODY : as an authenticated admin: i can create an item. an item must have a title, description and price.
+an item must belong to at least one category.
+the title and description cannot be empty.
+the title must be unique for all items in the system.
+the price must be a valid decimal numeric value and greater than zero.
+the photo is optional. if not present, a stand-in photo is used. paperclip

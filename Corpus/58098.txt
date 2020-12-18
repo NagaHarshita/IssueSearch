@@ -1,0 +1,1 @@
+ URL : "https://github.com/trinker/pacman/issues/95" TITLE : run tests on travis ci BODY : right now the package tests aren't being run on travis. let's change that so they are and we fail if the tests fail.

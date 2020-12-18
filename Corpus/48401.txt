@@ -1,0 +1,1 @@
+ URL : "https://github.com/harvard-vpal/bridge-adaptivity/issues/65" TITLE : running tests locally BODY : @idegtiarov how should i run flake8 tests locally? currently i just use flake8 . it seems like there are errors that get caught during the travis build on github push but not during my local run.

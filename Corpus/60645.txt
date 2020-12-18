@@ -1,0 +1,1 @@
+ URL : "https://github.com/jimrazmus/c7n-policies/issues/6" TITLE : add a testing framework BODY : perhaps use cloud formation templates to create test scenarios.

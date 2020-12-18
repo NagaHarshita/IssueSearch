@@ -1,0 +1,1 @@
+ URL : "https://github.com/asmsuechan/jquery_push_notification/issues/2" TITLE : images not working BODY : hello @asmsuechan, i have tried your demo and there the images work fine. but in my project images won't work. i even tried the same snippet you have on the demo page. all i get is the notification without the image: https://github.com/hhirsch/memento-mori

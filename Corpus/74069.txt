@@ -1,0 +1,1 @@
+ URL : "https://github.com/yurovsky/swo-tracer/issues/3" TITLE : does not work on windows BODY : no rule to make target tracer-windows_nt.o', needed by swo-tracer'. stop. where i get this file.

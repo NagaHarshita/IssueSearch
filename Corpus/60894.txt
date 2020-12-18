@@ -1,0 +1,1 @@
+ URL : "https://github.com/brushm/identity/issues/1" TITLE : add password encryption BODY : currently, the password for the user is hashed which is ok, but it would be nice if it were also encrypted. please update the environment to allow for hashed/encrypted passwords.

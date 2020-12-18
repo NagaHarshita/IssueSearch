@@ -1,0 +1,1 @@
+ URL : "https://github.com/TEAMMATES/teammates/issues/8150" TITLE : upgrade selenium to 3.x BODY : with java 8 not being a blocking issue anymore, we are ready to migrate to selenium 3.

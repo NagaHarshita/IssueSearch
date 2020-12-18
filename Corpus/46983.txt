@@ -1,0 +1,1 @@
+ URL : "https://github.com/rstudio/tutor/issues/8" TITLE : next tutorial button? BODY : jj, is it possible to include an easy way to insert a centered bootstrap button at the bottom of the tutorial that the developer could link to another tutorial e.g. the next tutorial ? {r echo = false, results = 'asis'} button label = next lesson , link = /tutorial2.html

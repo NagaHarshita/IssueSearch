@@ -1,0 +1,1 @@
+ URL : "https://github.com/Motion-Path-Polyfill/motion-path-js/issues/40" TITLE : we should use strict BODY : at the top of our source and test javascript, we should add > 'use strict'; to request strict mode https://developer.mozilla.org/en-us/docs/web/javascript/reference/strict_mode .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/webmatze/hyperborder/issues/31" TITLE : add better test coverage BODY : we need more tests to prevent releases with bugs in the future. this should include - at least one test per function - pull requests should contain tests for new features - establish better code quality through linting rules

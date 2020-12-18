@@ -1,0 +1,1 @@
+ URL : "https://github.com/anb0s/eclox/issues/213" TITLE : support doxygen 1.8.13 BODY : see doxygen configuration https://www.stack.nl/~dimitri/doxygen/manual/config.html add all supported configuration tags by version 1.8.13

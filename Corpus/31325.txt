@@ -1,0 +1,1 @@
+ URL : "https://github.com/Dev-Int/glsr/issues/78" TITLE : separation of units BODY : in the articles, it is necessary to distinguish storage and working. - storage, in relation to the orders; - working, in connection with manufacture. --- we start with the creation of a unit table, whose will depend on unitstorage and unitworking .

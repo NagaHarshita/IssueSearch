@@ -1,0 +1,1 @@
+ URL : "https://github.com/nfc-tools/libnfc/issues/444" TITLE : add reset nfcdevice BODY : sometime the nfc reader already connected but nfc_open is failed or i get nfc_list_devices =0 my bad solution is to get out the reader from the pc and then get in, i offer to put on libnfc function that reset the reader

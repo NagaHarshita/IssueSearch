@@ -1,0 +1,1 @@
+ URL : "https://github.com/jamrizzi/react-gantt/issues/4" TITLE : not work with react 16. BODY : dependency react-window-resize-listener uses react features which is dropped from react 16 such react.proptypes and react.createclass methods.

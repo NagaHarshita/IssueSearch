@@ -1,0 +1,1 @@
+ URL : "https://github.com/systemd/systemd/issues/6336" TITLE : improve dep cycle logging BODY : whenever we hit a dep cycle, and start dropping jobs, we should log about this in a structured way that links up the full log message with all units involved in the cycle, so that the information about such cycles is easy to find via systemctl status on any of the units involved.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Maatwebsite/Laravel-Excel/issues/1333" TITLE : support for laravel 5.5 BODY : the package does not work in laravel 5.5, please update composer dependencies :

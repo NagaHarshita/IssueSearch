@@ -1,0 +1,1 @@
+ URL : "https://github.com/01org/opa-ff/issues/9" TITLE : source for 10.6? BODY : release 10.6 is available on the intel website and appears to solve a couple of issues we've been seeing, but no source rpms are provided to allow us to build for our kernel. will sources for 10.6 be made available?

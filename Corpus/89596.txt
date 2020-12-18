@@ -1,0 +1,1 @@
+ URL : "https://github.com/rundeck/rundeck-cli/issues/109" TITLE : rd system info support -% BODY : similar to other subcommands, the system info command should support the format specifier.

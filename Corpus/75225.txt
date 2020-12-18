@@ -1,0 +1,1 @@
+ URL : "https://github.com/melonproject/oyente/issues/96" TITLE : global timeout parameter BODY : add a global timeout parameter. terminate the symbolic execution after the timeout and do the analysis with all the explored paths so far.

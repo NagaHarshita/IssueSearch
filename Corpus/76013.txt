@@ -1,0 +1,1 @@
+ URL : "https://github.com/skeggse/pyaquaero/issues/1" TITLE : improve report interface BODY : too much of the underlying implementation ctypes shows through. additionally, no clear mechanism for getting specific sensors e.g. temperature sensor 5 . no mechanism to normalize units for values, e.g. celsius for temperature.

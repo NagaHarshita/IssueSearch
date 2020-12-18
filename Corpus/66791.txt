@@ -1,0 +1,1 @@
+ URL : "https://github.com/miyosuda/TensorFlowAndroidDemo/issues/15" TITLE : no implementation found BODY : error java.lang.unsatisfiedlinkerror: no implementation found for int ph.com.spamast.mliapp.tensorflowclassifier.initializetensorflow

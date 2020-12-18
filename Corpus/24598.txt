@@ -1,0 +1,1 @@
+ URL : "https://github.com/pombase/website/issues/487" TITLE : synonyms on ncrnas BODY : /systematic_id= spsnorna.20 has synonym spncrna.906 but this is not searchable /systematic_id= spncrna.82 has /synonym= spncrna.727 spsnorna.07 has /synonym= spncrna.723 but these are not findable queried by jurg

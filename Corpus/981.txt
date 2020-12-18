@@ -1,0 +1,1 @@
+ URL : "https://github.com/VSCodeVim/Vim/issues/1684" TITLE : bug with gq BODY : i messed up on my gq fix from here: https://github.com/vscodevim/vim/pull/1596 now it sometimes deletes an extra space. i'll fix this sometime soon.

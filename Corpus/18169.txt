@@ -1,0 +1,1 @@
+ URL : "https://github.com/shakyink/sandbox/issues/2" TITLE : spec out features BODY : this project will require feature specs. writing documentation will help me isolate: - what features will need to be developed - vm constraints - opportunities for improvement - roadmap

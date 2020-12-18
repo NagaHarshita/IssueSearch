@@ -1,0 +1,1 @@
+ URL : "https://github.com/arbolista-dev/generator-spike/issues/11" TITLE : fix server side redirects BODY : react router redirects will be caught by renderreact , but this is currently leading to infinite redirect. recreate issue: - run isomorphic=1 npm run dev . - navigate to / . login. refresh page.

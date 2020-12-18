@@ -1,0 +1,4 @@
+ URL : "https://github.com/synergyi/backlog-check/issues/33" TITLE : group by rules BODY : - the only way to unselect any grouped by choice is by sorting a column
+- items cannot be dragged and dropped unless:
+- items are sorted by sprints
+- items are grouped by sprints sort by . group by sprint reflects product items prioritization order equivalent to product items today

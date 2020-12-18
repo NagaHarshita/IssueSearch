@@ -1,0 +1,1 @@
+ URL : "https://github.com/devanooga/devanoobot/issues/11" TITLE : purge inactive channels BODY : - come up with a list of reasons why inactive for $x months, less than $y users . - delete the channel - confirm/log it to the admin log?

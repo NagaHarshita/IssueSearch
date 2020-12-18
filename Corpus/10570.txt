@@ -1,0 +1,1 @@
+ URL : "https://github.com/gelodgreat/CEU-TLTD-Scheduling-System/issues/6" TITLE : continue my work BODY : please continue my work by putting this line of code to every subs, functions timers, threadstart, threadabort and threadstop events on the system: logger <short understandable detail about the event> this code will help us for future debugging.

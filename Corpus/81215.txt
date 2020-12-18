@@ -1,0 +1,1 @@
+ URL : "https://github.com/stephpenn1/PSR_paleo/issues/3" TITLE : week of july 3 checklist BODY : - set seed for pseudoprox_psr_sp.r and re-generate timeseries - pull out only marine sediment data and save as separare csv for filtering - research data smoothing & weighted moving averages - figure out how to code weighted moving avg with filter in r

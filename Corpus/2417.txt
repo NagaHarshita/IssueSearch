@@ -1,0 +1,1 @@
+ URL : "https://github.com/apinf/platform/issues/2120" TITLE : add good data BODY : we should add some good apis to our apinf.io instance. one decent-looking source is https://github.com/apis-guru/openapi-directory, which even has an api that we can integrate: https://apis.guru/api-doc/

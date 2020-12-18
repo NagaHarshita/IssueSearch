@@ -1,0 +1,1 @@
+ URL : "https://github.com/appbaseio/abc/issues/59" TITLE : report storage in mb BODY : small enhancement: we should show the label for storage as storage mb . currently, i believe it is reported in kb, we can translate the values as well to mb.

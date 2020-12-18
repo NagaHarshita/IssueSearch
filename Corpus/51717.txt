@@ -1,0 +1,1 @@
+ URL : "https://github.com/Carpetsmoker/battray/issues/6" TITLE : battray make no effect BODY : battray error: org.freedesktop.dbus.error.unknownmethod: method getall with signature s on interface org.freedesktop.dbus.properties doesn't exist ubuntu 14.04 gnome2 metacity mode python3.4 virtualenv

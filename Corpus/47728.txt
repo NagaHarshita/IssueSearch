@@ -1,0 +1,1 @@
+ URL : "https://github.com/karel-brinda/prophyle/issues/267" TITLE : prohibited node names BODY : there are two names that should not be used as node ids: a 0 they have a special meaning in the kraken representation, so assignments to them would be interpreted incorrectly. each tree should be tested on not containing these names.

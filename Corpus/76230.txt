@@ -1,0 +1,1 @@
+ URL : "https://github.com/sdtaylor/phenology_dataset_study/issues/5" TITLE : interpolate budburst doy BODY : as suggested by gerst et al. 2016, instead of using the first date when budburst was observed, make it the midpoint between that date and the most previous observation - npn - harvard - hubbard brook

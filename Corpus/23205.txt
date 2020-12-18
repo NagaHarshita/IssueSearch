@@ -1,0 +1,1 @@
+ URL : "https://github.com/versioneye/versioneye-core/issues/117" TITLE : nuget version next BODY : it seems that next is special keyword or version for nuget packages. can you please double check that how to handle that correctly? ! screen shot 2017-07-20 at 09 36 28 https://user-images.githubusercontent.com/652130/28406141-91fad1d0-6d2f-11e7-8592-cb7ba21b4b05.png

@@ -1,0 +1,1 @@
+ URL : "https://github.com/BD2KGenomics/toil/issues/1900" TITLE : monitoring and logging BODY : this is a general pr to track needed improvements in monitoring and logging. - add more fine-grained logging, e.g. run time of individual jobs - add more information on job status, e.g. where things are stuck - make jobstore more accessible.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/lpryszcz/redundans/issues/38" TITLE : use for iontorrent data BODY : i want to modify this to use for iontorrent data. should i do that or it is a no-go because some dependencies work only with paired-end data?

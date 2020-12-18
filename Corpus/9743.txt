@@ -1,0 +1,1 @@
+ URL : "https://github.com/jibone/spty-rb/issues/23" TITLE : add command play BODY : implement play command spty play if player state is mute, it will increase the volume to 60 if player is pause, it will start playing the current track

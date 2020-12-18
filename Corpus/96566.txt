@@ -1,0 +1,1 @@
+ URL : "https://github.com/hatzel/vorleser-server/issues/17" TITLE : extra database for testing BODY : currently cargo test also uses the vorleser database. this means you have to discard data before test runs.

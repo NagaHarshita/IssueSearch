@@ -1,0 +1,1 @@
+ URL : "https://github.com/strongloop/loopback-next/issues/637" TITLE : docs: extending loopback 4 BODY : as the top level of the lb4 documentation, there should be a section for extending loopback4 . creating component should be part of the extension developer guide. /cc @raymondfeng @virkt25

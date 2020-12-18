@@ -1,0 +1,1 @@
+ URL : "https://github.com/bbilger/jrestless-examples/issues/12" TITLE : upgrade to junit 5 BODY : upgrade the few tests we have here to junit 5, as well as the mockito library

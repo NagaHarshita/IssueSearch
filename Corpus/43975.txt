@@ -1,0 +1,1 @@
+ URL : "https://github.com/spree-contrib/spree_braintree_vzero/issues/169" TITLE : doesn't work on 3.3.0 BODY : adding it on gem and updating doesn't give any error, but when you checkout a product it gives an heroku error something went wrong

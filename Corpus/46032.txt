@@ -1,0 +1,1 @@
+ URL : "https://github.com/google/kubeflow/issues/44" TITLE : kubeflow or kubeflow? BODY : i'm confused of the project name. is it kubeflow or kubeflow? personally speaking, kubeflow is better because kube and flow are individually selected from two communities, which are kubernetes and tensorflow can be extended to ml community in the future .

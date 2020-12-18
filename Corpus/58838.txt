@@ -1,0 +1,1 @@
+ URL : "https://github.com/okv/east/issues/20" TITLE : support async function BODY : utils.js l3 https://github.com/okv/east/blob/53651708f8bfafa6edf37513ee381e5d49384d4c/lib/utils.js l3 limit cannot use async function js exports.migrate = async client, done => {} bash > tostring.call async function {} ' object asyncfunction ' > tostring.call async =>{} ' object asyncfunction '

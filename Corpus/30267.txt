@@ -1,0 +1,1 @@
+ URL : "https://github.com/jh3y/driveway/issues/9" TITLE : order columns items BODY : issue summary order different like masonry. the items is attached to the dom in column1 and down, column2 and down expected behavior first item must be the first in the first column ok , second item -> first item in the second colum bad browser used chrome, safari, firefox thanks!!

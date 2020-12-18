@@ -1,0 +1,1 @@
+ URL : "https://github.com/Activiti/Activiti/issues/1124" TITLE : user authentication issue BODY : hi, in activiti6, when i create a new user with a camel case user id, user gets created but when i try to login with the newly created user, login fails. it works though for user id's in all small case.

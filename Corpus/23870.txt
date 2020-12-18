@@ -1,0 +1,1 @@
+ URL : "https://github.com/intermine/redgenes/issues/46" TITLE : report page tables BODY : make configurable to be either imtables or light tables depending on user preference. we've had strong feelings on both sides

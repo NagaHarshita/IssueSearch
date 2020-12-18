@@ -1,0 +1,1 @@
+ URL : "https://github.com/Comandeer/rollup-plugin-babel-minify/issues/55" TITLE : move to testing source BODY : currently tests are run against bundled, built version of the library. it would be nice to change that and run tests against es6 source with only modules transpiled.

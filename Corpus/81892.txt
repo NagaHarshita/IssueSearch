@@ -1,0 +1,1 @@
+ URL : "https://github.com/webdriverio/wdio-cucumber-framework/issues/63" TITLE : access world in afterstep BODY : hey there, i got a problem to access the world instance from afterstep or other hooks. is this possible? best regards philipp

@@ -1,0 +1,1 @@
+ URL : "https://github.com/VasiliosKalogirou/Save-layer-in-MongoDB/issues/4" TITLE : error installing it BODY : when i install this addon, i get the following message: this addon is broken: name 'iface' is not defined. can you solve it? my qgis versions: ! image https://cloud.githubusercontent.com/assets/1479066/25889815/72f9e074-356b-11e7-8697-950e3233f75b.png

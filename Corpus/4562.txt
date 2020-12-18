@@ -1,0 +1,1 @@
+ URL : "https://github.com/AccessMap/sidewalkify/issues/1" TITLE : draw crs error BODY : draw now takes a crs as a parameter, but the crs format of the default crs = 4326 should really be crs = {'init': 'epsg:4326'} if the crs is set by saying gdf.crs = crs. the error occurs because gdf.crs = 4326 is not a valid format.

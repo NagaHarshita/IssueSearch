@@ -1,0 +1,1 @@
+ URL : "https://github.com/felixrupp/user_cas/issues/3" TITLE : problem user_cas oc 9.1.4 BODY : hello, i've tried to install user_cas on owncloud 9.1.4. user_cas configuration is ok. after the successful cas login oc show the login page again. my configuration : - ubuntu 16.04 - php-fpm 7.0.15 - nginx 1.10.3 - mariadb 10.1.22 - owncloud standard 9.1.4 any idea? thanks.

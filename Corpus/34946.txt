@@ -1,0 +1,1 @@
+ URL : "https://github.com/CorwinBurton/NetMap/issues/29" TITLE : create testing class BODY : create a class to verify database population 1. import an xml file 2. validate device objects in the database against this file

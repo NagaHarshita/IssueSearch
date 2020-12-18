@@ -1,0 +1,1 @@
+ URL : "https://github.com/CAS-eResearch/TAOImport/issues/12" TITLE : parallel mode filenames BODY : the filenames written by the different ranks should be absolute paths rather than relative.

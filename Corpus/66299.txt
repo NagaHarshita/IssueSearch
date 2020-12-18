@@ -1,0 +1,1 @@
+ URL : "https://github.com/meetalva/alva/issues/107" TITLE : minimum app window size BODY : set a minimum app window, e.g. 780x380px so that the interface is not broken when a user resizes it smaller.

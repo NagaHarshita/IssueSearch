@@ -1,0 +1,1 @@
+ URL : "https://github.com/tsayen/dom-to-image/issues/94" TITLE : skip image fetch error BODY : use case: description, code is it possible to skip fetch error on image files? expected behavior actual behavior stack traces, console logs etc library version browsers - chrome 49+ - firefox 45+

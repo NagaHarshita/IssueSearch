@@ -1,0 +1,1 @@
+ URL : "https://github.com/vatesfr/xo-web/issues/2310" TITLE : home pagination bug BODY : steps: - go to page 2 - change filter so it only needs 1 page to display the items - the view becomes empty and the pagination disappears

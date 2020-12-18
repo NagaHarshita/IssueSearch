@@ -1,0 +1,1 @@
+ URL : "https://github.com/shurans/SUNCGtoolbox/issues/2" TITLE : rendering yields 0 maps BODY : i followed the instructions to render images from opengl, the color images look fine, but several maps are simply 0 depth, kinect, material, ... . is there anything i could be missing?

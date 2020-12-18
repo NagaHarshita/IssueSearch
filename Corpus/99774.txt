@@ -1,0 +1,1 @@
+ URL : "https://github.com/allenai/allennlp/issues/287" TITLE : new tokenindexer: pos tags BODY : this is really common in parsing work, and in some srl / other tagging. also really easy to add, once the tokenizer is reworked to return a token object. the corresponding tokenembedder is just an embedding that uses a different vocab namespace.

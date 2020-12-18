@@ -1,0 +1,1 @@
+ URL : "https://github.com/TensorMSA/tensormsa_docker/issues/14" TITLE : django orm to erd tools BODY : sudo apt-get install python-pydot pip install django-extensions pip install pydotplus ./manage.py graph_models -a -o hoyai.png

@@ -1,0 +1,1 @@
+ URL : "https://github.com/aws/chalice/issues/552" TITLE : define lambda function vpc BODY : it would be nice that in the config file it was possible to define a vpc id for the lambda function. i require this functionality to connect to some private resources in a vpc and have to manually update the vpc after chalice deploy.

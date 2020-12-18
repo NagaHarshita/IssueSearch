@@ -1,0 +1,1 @@
+ URL : "https://github.com/ulisesbocchio/spring-boot-security-saml/issues/22" TITLE : jwt and saml 2.0 BODY : with this spring security extension can we mix with jwt authentication ?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/use-adapt/adapt/issues/19" TITLE : test urls in data.json BODY : whether 16 is complete or not, we should add tests to make sure all these urls respond with a status of 200 ok .

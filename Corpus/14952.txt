@@ -1,0 +1,1 @@
+ URL : "https://github.com/DocNow/docnow/issues/6" TITLE : clean up warnings BODY : latest version of redux is throwing warnings about the sloppy way i've imported actions. ! screen shot 2017-06-21 at 5 32 20 pm https://user-images.githubusercontent.com/33829/27407744-a31fb226-56a7-11e7-9b54-573bf1005b47.png

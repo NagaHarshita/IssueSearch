@@ -1,0 +1,1 @@
+ URL : "https://github.com/low-sky/degas/issues/20" TITLE : wrong hcn/hcop frequency BODY : hi, in postprocess.py, the frequencies for hcn and hcop are not correct in line52 and line55. line 52: for hcn, rest_value=89.18852 u.ghz should be 88.631847 ghz instead; line 55: for hcop, rest_value=88.63394 u.ghz should be 89.188518 ghz instead. jialu

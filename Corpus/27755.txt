@@ -1,0 +1,1 @@
+ URL : "https://github.com/yaweiw/elk-managed-service-poc/issues/14" TITLE : elk version upgrade BODY : when elk is upgraded, how are we going to notify users to update docker images?

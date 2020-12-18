@@ -1,0 +1,1 @@
+ URL : "https://github.com/gnea/grbl/issues/272" TITLE : spindle pwm calibration BODY : any way to calibrate the pwm to match real world values? i only read 4.7v instead of 5 nominal, so the spindle is running 2-400rpm below what is is programmed to do. what is the best way to calibrate this so software matches the hardware?

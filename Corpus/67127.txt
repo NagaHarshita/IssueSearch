@@ -1,0 +1,1 @@
+ URL : "https://github.com/legramsch/repositator/issues/19" TITLE : otro error ! ahora sii! BODY : traceback most recent call last : file <stdin> , line 1, in <module> nameerror: name 'asfdasdf' is not defined

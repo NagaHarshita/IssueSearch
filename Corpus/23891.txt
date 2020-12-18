@@ -1,0 +1,1 @@
+ URL : "https://github.com/amankagarwal/info201-finalproject/issues/2" TITLE : reshaping the data BODY : currently, the data in the csv files are in a weird format. for example, under the column bbarons, the values provided is a list of times, like 24:38, 38:21 which would make it difficult while analyzing.

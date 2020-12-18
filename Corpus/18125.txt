@@ -1,0 +1,1 @@
+ URL : "https://github.com/melistik/vaadin-sliderpanel/issues/36" TITLE : slider under grid BODY : seems like if the slider is sliding over a grid it slides under it. it seems to work fine with all other components i've tried so far.

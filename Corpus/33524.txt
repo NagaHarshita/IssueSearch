@@ -1,0 +1,1 @@
+ URL : "https://github.com/Southclaws/samp-redis/issues/12" TITLE : add support for auth BODY : possibly the cause for 11 as the un-authenticated client would not be able to perform an blpop and would result in an unexpected response. this case should be handled.

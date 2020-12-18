@@ -1,0 +1,1 @@
+ URL : "https://github.com/victorcoder/dkron/issues/247" TITLE : orphan plugin processes BODY : after restarting dkron process the plugin processes continue to execute and dkron creates duplicate ones dkron-processor-files, dkron-processor-log, dkron-processor-syslog

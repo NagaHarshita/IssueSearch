@@ -1,0 +1,1 @@
+ URL : "https://github.com/cjburkey01/ClaimChunk/issues/14" TITLE : automatic chunk claiming BODY : after a certain amount of valuable blocks are placed in a chunk. unclaim if removed, and do not allow unclaiming by user to prevent free money.

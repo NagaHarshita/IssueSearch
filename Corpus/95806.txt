@@ -1,0 +1,1 @@
+ URL : "https://github.com/oskca/gopherjs-vue/issues/11" TITLE : do not include vue library BODY : including the library makes it impossible to import something else in the browser between vue and my code. to preserve bc if you care , a noinclude build tag could be a good solution.

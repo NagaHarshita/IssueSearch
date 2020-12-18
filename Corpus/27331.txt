@@ -1,0 +1,1 @@
+ URL : "https://github.com/UnixJunkie/parany/issues/2" TITLE : create run function BODY : run: nprocs: int -> demux: -> 'a -> work: 'a -> 'b -> mux: 'b -> -> algo: - create 2 nprocs pipes - fork nprocs workers - fork one feeder - continue the main program muxing results

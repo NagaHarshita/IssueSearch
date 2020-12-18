@@ -1,0 +1,1 @@
+ URL : "https://github.com/cyberwarriorx/lang3/issues/8" TITLE : bug in dialogue text BODY : any time code 0xf6000000 dieharte's chosen name is used and it's set to an odd number of characters a space is inserted.

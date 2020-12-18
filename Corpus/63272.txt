@@ -1,0 +1,1 @@
+ URL : "https://github.com/lvarayut/github-date-of-creation/issues/1" TITLE : displays incorrect date BODY : i noticed that the date is incorrect for this repo, https://github.com/graphql/graphql-js. te date displayed is august 2017, which is obviously incorrect. this issue also occurs on https://github.com/graphql/graphql-js.

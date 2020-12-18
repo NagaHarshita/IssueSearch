@@ -1,0 +1,1 @@
+ URL : "https://github.com/jacko11031/PersonalEngine/issues/2" TITLE : old input manager BODY : the old input manager which doesn't incorporate events is still present within the engine the scenemanager is still using it for it's debugging needs to be taken out and replaced with the input handlers

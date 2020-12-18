@@ -1,0 +1,1 @@
+ URL : "https://github.com/Gepardec/Hogarama/issues/31" TITLE : adapt angular root path BODY : since we deploy the application as root deployment angular root context must be adapted accordingly.

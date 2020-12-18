@@ -1,0 +1,1 @@
+ URL : "https://github.com/faiface/pixel/issues/49" TITLE : clearing part of a batch BODY : not really an issue, but is it possible to clear part of a batch so that if i remove a block from a tilemap, i wouldn't need to rebuild the whole batch ? i am asking that because i want to build a tilemap with transparent parts so that it is possible to superpose multiple tilemaps.

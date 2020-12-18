@@ -1,0 +1,1 @@
+ URL : "https://github.com/ruckus/quickbooks-ruby/issues/386" TITLE : roxml is unmaintained BODY : this gem is dependent on roxml https://github.com/empact/roxml , but it hasn't been updated in 5 years. ruby 2.4.1 is raising a deprecation warning from inside of the roxml gem.

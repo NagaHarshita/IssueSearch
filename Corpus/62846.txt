@@ -1,0 +1,1 @@
+ URL : "https://github.com/pdumais/vspkgenerator/issues/1" TITLE : create release for $tag BODY : create a release on github and in nuget gallery for vspk $tag

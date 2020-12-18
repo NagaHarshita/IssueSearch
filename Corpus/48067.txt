@@ -1,0 +1,1 @@
+ URL : "https://github.com/byashimov/django-controlcenter/issues/19" TITLE : release a new version BODY : the last commits you merged from my pull request 15 permit controlcenter to works with django 2.0. please bump a new version of controlcenter with this commits and release it on pypi. thank you

@@ -1,0 +1,1 @@
+ URL : "https://github.com/adafruit/Adafruit_BME280_Library/issues/28" TITLE : register struct issues BODY : refer to this code inside the .h file: unsigned int get { return t_sb << 5 | filter << 3 | spi3w_en; } unsigned int get { return osrs_t << 5 | osrs_p << 3 | mode; } i'm sure the bit shift 3 should be 2, otherwise, it will overlap the t_sb and osrs_t bits values.

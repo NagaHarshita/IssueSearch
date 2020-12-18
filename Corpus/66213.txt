@@ -1,0 +1,1 @@
+ URL : "https://github.com/BenJuan26/OpenSkyStacker/issues/1" TITLE : memory issue on windows BODY : with images bigger than a certain size about 4000x2000 , allocation of the workingimage fails consistently, at least on my machine. it works on my macbook. need to look into whether we're implementing something wrong, or whether it is simply my system that was misbehaving.

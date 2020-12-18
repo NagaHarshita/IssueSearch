@@ -1,0 +1,1 @@
+ URL : "https://github.com/NotSoSuper/NotSoBot/issues/19" TITLE : sqlalchemy import error BODY : i've downloaded all the requirements for notsobot, yet when i attempt to launch bot.py/bot0.py, i get an error code that says the following: line 7 in <module> importerror: no module named 'sqlalchemy' and yes, i _do_ have sqlalchemy. flask-sqlalchemy as well.

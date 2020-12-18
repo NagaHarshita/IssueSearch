@@ -1,0 +1,1 @@
+ URL : "https://github.com/lucapette/fakedata/issues/23" TITLE : more date formats BODY : right now, we have only a date generator for the format yyyy-mm-dd . i'd use this issue to collect more formats and probably? add more date formats all at once.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/guillaumechereau/goxel/issues/54" TITLE : export as layered bmp BODY : that is, a sprite sheet where each sprite represents a layer. this is possible through vox2png https://github.com/stijnbrouwer/vox2png and gimp, but it would be easier if it was possible to do directly in goxel.

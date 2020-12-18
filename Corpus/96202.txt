@@ -1,0 +1,1 @@
+ URL : "https://github.com/leerob/Space_Invaders/issues/4" TITLE : enemyposition is not reset BODY : on a new game, so the enemies start at whatever level they were on the previous game. so if you were really good, they start pretty low and its pretty hard

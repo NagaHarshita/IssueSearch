@@ -1,0 +1,1 @@
+ URL : "https://github.com/g-souka/Apophenia/issues/2" TITLE : feedback can distort audio BODY : when at values near 1.0, the delay feedback tends to distort the audio too much. a limiter in each of the tracks might be a feasible solution to this issue.

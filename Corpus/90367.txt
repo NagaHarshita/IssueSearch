@@ -1,0 +1,1 @@
+ URL : "https://github.com/sermons/reveal-skel/issues/46" TITLE : set default editor to vim BODY : set editor system-wide: where? in /etc/profile.d/ ? select-editor only sets locally for each user, in ~/.selected_editor

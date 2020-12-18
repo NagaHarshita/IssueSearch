@@ -1,0 +1,1 @@
+ URL : "https://github.com/NordicSemiconductor/pc-ble-driver-py/issues/46" TITLE : support for bonding BODY : class bleadapter does not support bonding. note that method authenticate in ble_adapter calls driver.ble_gap_authenticate with sec_params.bond set to false

@@ -1,0 +1,1 @@
+ URL : "https://github.com/MEH-Design/frix-gui/issues/4" TITLE : add express hosting BODY : for now, frix pages should be served directly in this package.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/adobe/xdm/issues/46" TITLE : typo in gpsaltituderef BODY : https://github.com/adobe/xdm/blob/jsonschema2md-example/docs/reference/assets/asset.schema.md exifgpsaltituderef-known-values missing a backtick in meta:enums

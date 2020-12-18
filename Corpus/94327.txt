@@ -1,0 +1,1 @@
+ URL : "https://github.com/briggySmalls/ithemes-exchange-digital-variants/issues/6" TITLE : call to undefined function BODY : a misnamed function causes the plugin to break when attempting to checkout with a digital variant. this should be fixed.

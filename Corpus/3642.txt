@@ -1,0 +1,13 @@
+ URL : "https://github.com/phildkim86/CS_08_BASEBALL/issues/6" TITLE : story point 4 BODY : as a user, i want to be able to see the list of national league stadiums sorted by team name in alphabetical order so that i can easily and quickly find the national league stadiums i want. acceptance criteria:
+list should include all the names of national league stadiums
+list should have correct names of national league stadiums
+list should be sorted by team name
+list should be displayed in alphabetical order definition of done: the user should be able to click on a button to view a list of all the national league stadiums on the graphical user interface gui . then, a new window should pop up containing the names of all the the national league stadiums. the list should be displayed and sorted by the national league team names. the list should also be in ascending alphabetical order. tasks:
+create a list of all the national league stadiums
+sort the list by the national league team names
+alphabetize the list of national league stadiums
+implement the button for the list of national league stadiums on gui tests:
+clicking the national league stadiums button should display a list of all the national league stadiums check if the national league stadiums displayed are correct
+check if the national league stadiums are sorted by team names instead of the stadium names
+check if the national league stadiums are alphabetized
+the list should be displayed in a new window which will pop up

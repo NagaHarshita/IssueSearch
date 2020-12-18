@@ -1,0 +1,2 @@
+ URL : "https://github.com/HippieStation/HippieStation/issues/1814" TITLE : cryo ui is broken BODY : in-game report from cacogen:
+revision info: when clicking on cryo tubes, instead of the regular ui displaying, you get this message: the requested interface hippiecryo was not found. does it exist?

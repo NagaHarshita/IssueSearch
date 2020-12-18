@@ -1,0 +1,1 @@
+ URL : "https://github.com/lavv17/lftp/issues/395" TITLE : 2 tests fail on lftp 4.8.1 BODY : when running tests on alpine linux with musl libc and libressl 2 tests fail. log of failed tests: http://tpaste.us/nr6p note: previously 4.8.0 build just fine with our local libressl patch.

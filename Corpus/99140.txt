@@ -1,0 +1,25 @@
+ URL : "https://github.com/pinpong/equalizer-issue-tracker/issues/438" TITLE : man kann nichts einstellen BODY : sent by benjaminlbahner@gmail.com mailto:benjaminlbahner@gmail.com description:
+--- ich kann den equalizer nur einschalteten aber mehr nicht. device info:
+---
+<table>
+<tr><td>app version</td><td>2.0.3</td></tr>
+<tr><td>app version code</td><td>203002</td></tr>
+<tr><td>android build version</td><td>8053e4bba5</td></tr>
+<tr><td>android release version</td><td>7.1.2</td></tr>
+<tr><td>android sdk version</td><td>25</td></tr>
+<tr><td>android build id</td><td>lineage_klte-userdebug 7.1.2 njh47b 8053e4bba5</td></tr>
+<tr><td>device brand</td><td>samsung</td></tr>
+<tr><td>device manufacturer</td><td>samsung</td></tr>
+<tr><td>device name</td><td>klte</td></tr>
+<tr><td>device model</td><td>sm-g900f</td></tr>
+<tr><td>device product name</td><td>lineage_klte</td></tr>
+<tr><td>device hardware name</td><td>qcom</td></tr>
+<tr><td>abis</td><td> armeabi-v7a, armeabi </td></tr>
+<tr><td>abis 32bit </td><td> armeabi-v7a, armeabi </td></tr>
+<tr><td>abis 64bit </td><td> </td></tr>
+</table> extra info:
+---
+<table>
+<tr><td>connected audio devices</td><td></td></tr>
+<tr><td>loudness enhancer warning read</td><td>no</td></tr>
+</table>

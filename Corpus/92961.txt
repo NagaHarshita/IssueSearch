@@ -1,0 +1,1 @@
+ URL : "https://github.com/koaning/sushigo/issues/6" TITLE : add a command line utility BODY : things the command line needs to do: - allow you to play a game against a few bots - automatically simulate a certain environment and dump logs somewhere

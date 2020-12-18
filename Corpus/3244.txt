@@ -1,0 +1,1 @@
+ URL : "https://github.com/Ovyerus/knife-bot/issues/17" TITLE : move to redis BODY : using redis could have some speed benefits for the bot, as well as being able to have it handle caching instead of having to do it ourselves. also i believe that more platforms have support for redis over rethink.

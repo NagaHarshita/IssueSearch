@@ -1,0 +1,1 @@
+ URL : "https://github.com/anorudes/redux-easy-boilerplate/issues/97" TITLE : deploying to azure web app BODY : hi, is there anyone who successfully deploy this boilerplate to azure web app? i keep getting 500 internal error when i'm trying to deploy an app with this boilerplate. thanks.

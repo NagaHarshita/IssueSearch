@@ -1,0 +1,1 @@
+ URL : "https://github.com/mitaffinity/core/issues/5" TITLE : new submission format BODY : we have changed kaggle competition to dud-e, and now need a default script to write a new submission format for kaggle's auc calculations.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/GoogleCloudPlatform/cloud-sdk-docker/issues/69" TITLE : bigtable emulator image BODY : it would be useful for testing if the bigtable emulator were distributed as an image. something along the lines of: from google/cloud-sdk expose 8086 cmd gcloud , beta , emulators , bigtable , start

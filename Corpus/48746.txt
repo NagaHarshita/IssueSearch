@@ -1,0 +1,1 @@
+ URL : "https://github.com/skvark/Textractor/issues/17" TITLE : skip image processing BODY : is it possible to completely skip the image processing? send the image directly to tesseract? thank you for your work, cosmin popescu.

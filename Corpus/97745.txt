@@ -1,0 +1,1 @@
+ URL : "https://github.com/phax/ph-css/issues/43" TITLE : how to get a simple style? BODY : hi i am a newbie in you library, i have style.css as : .qsign { color:red; } i read a css using this : var cssstring = utils.readstringfromassets context, style.css css=cssreader.readfromstring cssstring,ecssversion.css30 now how can i get color of qsign class?

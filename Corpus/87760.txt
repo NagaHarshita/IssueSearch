@@ -1,0 +1,1 @@
+ URL : "https://github.com/DigiArt-project/WordpressUnity3DEditor/issues/77" TITLE : make webgl compile faster BODY : it takes too long. try - not deleting library folder - change some parameters in the compile function

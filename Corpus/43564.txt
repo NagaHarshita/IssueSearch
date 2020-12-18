@@ -1,0 +1,1 @@
+ URL : "https://github.com/kairos666/moodys/issues/14" TITLE : cross browser testing BODY : - wasn't working at all on iphone 4, ios7 safari & chrome + ie seems related to > vuex requires a promise polyfill in this browser.

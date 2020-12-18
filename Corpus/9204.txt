@@ -1,0 +1,1 @@
+ URL : "https://github.com/phillyai/X86Sharp/issues/3" TITLE : type of operand BODY : 1 에서 해결된 줄 알았지만 문제가 더 있다. - 1. uint 말고도 ushort, byte를 받을 수 있어야 한다. - 2. 파라미터를 2개 이상 받는 경우 각각 다른 타입에 따라 디스패칭이 되야 한다. - 3. 상수를 파라미터를 넘기는 경우 변수를 따로 만들어서 ref로 넘기는 것이 귀찮다. 역시 operand의 추상화는 피할 수 없을 것 같다.

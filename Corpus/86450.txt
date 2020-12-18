@@ -1,0 +1,1 @@
+ URL : "https://github.com/android10/Android-CleanArchitecture/issues/226" TITLE : how to query another api? BODY : following the s.o.l.i.d principles, who you would extends the functionallity of the app to query another api with different base_url? which classes should be created?

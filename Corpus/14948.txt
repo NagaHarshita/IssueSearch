@@ -1,0 +1,1 @@
+ URL : "https://github.com/hoburg/gpfit/issues/63" TITLE : clean up pylintrc BODY : - ensure consistency with gpkit especially in method / class naming - put fixme in the command-line flags - remove duplicate-code from the disable

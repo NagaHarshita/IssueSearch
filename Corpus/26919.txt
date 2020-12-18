@@ -1,0 +1,1 @@
+ URL : "https://github.com/gwils/money/issues/2" TITLE : change package name BODY : i would like to see this lib on {h,st}ackage. alas, money is taken, as is simple-money and safe-money . some ideas: - money-wrapped - money-arithmetic - moneta https://en.wiktionary.org/wiki/money etymology

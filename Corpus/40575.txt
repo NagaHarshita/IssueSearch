@@ -1,0 +1,1 @@
+ URL : "https://github.com/essepuntato/rash/issues/106" TITLE : update ol list style BODY : add new rules in rash.css to manage nested ol list-style, maximum deepness 3.

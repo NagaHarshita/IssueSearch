@@ -1,0 +1,1 @@
+ URL : "https://github.com/OHBA-analysis/osl-core/issues/24" TITLE : make osl_shutdown script BODY : to support common usage of osl for preprocessing within a fieldtrip pipeline. osl startup should save the path, and osl_shutdown should restore it and clean up

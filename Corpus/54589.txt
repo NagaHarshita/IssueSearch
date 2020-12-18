@@ -1,0 +1,1 @@
+ URL : "https://github.com/rawrtc/rawrtc/issues/56" TITLE : graceful sctp shutdown BODY : to avoid scenarios where we receive an sctp packet after the transport has been deref'ed, we use sctps non-graceful shutdown. however, we could wait until all packets have been delivered and close gracefully. low priority for me though.

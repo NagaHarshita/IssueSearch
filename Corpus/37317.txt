@@ -1,0 +1,1 @@
+ URL : "https://github.com/thecodingmachine/DBFaker/issues/1" TITLE : logging from console BODY : dbfaker class should use a psr3 compatible logger. then, you can turn the symfomy/console output object into a psr3 logger and object it into dbfaker. to do this cleanly without relying on a setter for the logger, you will have to use a dbfakerfactory.

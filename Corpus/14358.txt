@@ -1,0 +1,1 @@
+ URL : "https://github.com/Wats0ns/intra-api/issues/4" TITLE : add units support BODY : add support to the units api. there is several methods to implement non-exhaustive list : - fetch units - register/unregister this should be of course done in units.js

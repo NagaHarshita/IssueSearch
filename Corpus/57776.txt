@@ -1,0 +1,1 @@
+ URL : "https://github.com/astropy/pytest-remotedata/issues/5" TITLE : remotedata rst handler BODY : not sure if this would be a good fit for this package but is it possible to make a code-block-like skip-remote directive that would work like the decorator for the pytest functions, i.e. only runs the doctest if --remote-data has been specified?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/agarun/foton/issues/3" TITLE : pa review: user follows BODY : - users can follow other users - back-end: psql table, associations - front-end: relevant slices of state - followers modal & following modal

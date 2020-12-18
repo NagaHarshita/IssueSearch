@@ -1,0 +1,1 @@
+ URL : "https://github.com/TuneOSS/sdk-release/issues/29" TITLE : errors with xcode 8.3 BODY : tune/tune/tune/module.modulemap:1:18:error: redefinition of module 'tune' framework module tune { ... } this error is preventing us from building the sdk as is

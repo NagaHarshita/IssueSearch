@@ -1,0 +1,1 @@
+ URL : "https://github.com/richardszalay/fastlane-plugin-act/issues/5" TITLE : not possible to set arrays BODY : i'm trying to set an array in a plist like so act ipa: ipapath, plist_file: info.plist , app_name: some.app , plist_values: { :cfbundlelocalizations => en , fr , de } and that does not work. i think the array needs to be mapped somehow before it's passeed to plistbuddy

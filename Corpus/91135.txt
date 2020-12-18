@@ -1,0 +1,1 @@
+ URL : "https://github.com/bond-agency/docker-wpbp/issues/3" TITLE : sync php & nginx timeouts BODY : drop the php max_execution_time to 120 and set the nginx proxy_read_timeout to the same value 120s . currently a php script can run for 20 minutes but the upstream will drop the request after one minute.

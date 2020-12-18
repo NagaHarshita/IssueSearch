@@ -1,0 +1,1 @@
+ URL : "https://github.com/JakaKokosar/orange3-vaccinesurvey/issues/3" TITLE : change type of columns BODY : hi, could you please change the type of the following variables: study_code: meta birth_date: date sex: discrete ethnicity: discrete entry_date: date village_code: discrete

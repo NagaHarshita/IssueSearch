@@ -1,0 +1,1 @@
+ URL : "https://github.com/globalpolicy/CSArp-Netcut/issues/2" TITLE : myipaddress not updating BODY : for some reason, if the connected network is changed, the capturedevice's ip address doesn't update without quitting the application first.

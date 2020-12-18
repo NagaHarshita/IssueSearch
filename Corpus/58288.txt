@@ -1,0 +1,1 @@
+ URL : "https://github.com/sequelize/sequelize/issues/7584" TITLE : sequelize + cassandra? BODY : hello. i'm using sequelize with mariadb in my node.js application. however i most likely migrate to cassandra http://cassandra.apache.org/ database in the future to store distibuted data. is there a way to use sequelize with cassandra? thanks

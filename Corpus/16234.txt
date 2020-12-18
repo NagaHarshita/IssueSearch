@@ -1,0 +1,1 @@
+ URL : "https://github.com/reactide/reactide/issues/65" TITLE : ide isn't loading BODY : i just cloned the repo, installed the dependencies using <code>yarn</code> and ran a <code>yarn run dev</code> on it, but this is what i see: ! image https://cloud.githubusercontent.com/assets/11232965/24568264/b3bc36fa-1637-11e7-85cc-8867edf108ad.png am i missing something?

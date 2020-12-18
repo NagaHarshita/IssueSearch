@@ -1,0 +1,1 @@
+ URL : "https://github.com/nfarina/homebridge/issues/1162" TITLE : no response after updating BODY : hello i just updated my homebridge and accessory plugins. after the update i get no response in homekit. all devices are visible just no response. i attempted to delete the persist and remove and re add the homebridge in homekit. any ideas?

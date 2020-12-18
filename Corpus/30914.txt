@@ -1,0 +1,1 @@
+ URL : "https://github.com/scoopex/puppet-kitchen_template/issues/3" TITLE : remove all warnings BODY : ---- $ kitchen converge .... warning: /tmp/kitchen/hiera.global.yaml: use of 'hiera.yaml' version 3 is deprecated. it should be converted to version 5 ... $ kitchen verify .... could not find gem 'yarjuf' in any of the gem sources listed in your gemfile. .... ----

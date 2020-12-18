@@ -1,0 +1,1 @@
+ URL : "https://github.com/byrobots/multithread/issues/3" TITLE : limit concurrent processes BODY : it should be possible for a user of the package to limit the number of processes that will be forked, so, for example, only 2 processes run concurrently. at the moment there is no limit, as such, except for that or the host machine's hardware.

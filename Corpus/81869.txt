@@ -1,0 +1,1 @@
+ URL : "https://github.com/kbwood/svg/issues/25" TITLE : about jquery end function BODY : when i import jquery svg dom ,$.fn.end is not work

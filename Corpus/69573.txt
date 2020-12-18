@@ -1,0 +1,1 @@
+ URL : "https://github.com/mingyuliutw/UNIT/issues/2" TITLE : the svhn mnist examples BODY : could you please provide the source code of domain adaption from svhn to mnist? i guess there are some differences with the trick training face attribute transformation or other tasks. thanks very much!

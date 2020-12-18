@@ -1,0 +1,1 @@
+ URL : "https://github.com/KochIK/KVTimer/issues/1" TITLE : change current time. BODY : there is no way that i see to edit the current time programmatically. if you will move the @property nonatomic nsinteger currenttime from the m to the h file it will enable this edit.

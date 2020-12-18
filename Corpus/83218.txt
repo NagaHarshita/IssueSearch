@@ -1,0 +1,1 @@
+ URL : "https://github.com/Firebottle/Firebot/issues/25" TITLE : button configuration save BODY : the last change to the button form validation made some weird animations when saving button settings. sometimes it animates it just nicely away and other times it just pushes you back to the start page of the application with a white flash.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/dsmorse/gridster.js/issues/98" TITLE : widget layout is broken BODY : i have tried to attach file, but failed. there is https://jsfiddle.net/1z7x63l0/2/ code for source i have edit resize.html , that show, that widget, that should be displayed at position 16, 1 , showed in first row after layout.

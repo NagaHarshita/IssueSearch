@@ -1,0 +1,1 @@
+ URL : "https://github.com/hagansmith/meet-here/issues/9" TITLE : authentication - login BODY : when a user visits the page they should have the ability to login using googleauth by clicking login in the menu bar. and the login button should change to a logout button. acceptance criteria: users uid should be stored in the local application storage.

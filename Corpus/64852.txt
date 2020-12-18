@@ -1,0 +1,1 @@
+ URL : "https://github.com/nnattawat/flip/issues/111" TITLE : how to reinitiate flip? BODY : hello, i need to know if it is possible to reinitiate .flip namespace on a selector after i have turned it off with $ this .off .flip ; i have already tried $ this .flip { trigger: 'hover' } ; but with no success.

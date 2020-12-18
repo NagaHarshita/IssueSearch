@@ -1,0 +1,1 @@
+ URL : "https://github.com/GoogleCloudPlatform/google-cloud-node/issues/2670" TITLE : pubsub .pull deprecation BODY : hello, looks like in pubsub-0.14.0 the subscription.pull function was deprecated. what replaces it in case i want to get all pending messages in a subscription? thanks

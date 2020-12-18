@@ -1,0 +1,1 @@
+ URL : "https://github.com/Kode/Kha/issues/502" TITLE : android-native on linux BODY : i've been using ndk for a while in cocos2d-x and haxeflixel .. should i export some sort of environment variable ? failure: build failed with an exception. what went wrong: a problem occurred configuring project ':app'. > ndk not configured. download it with sdk manager.

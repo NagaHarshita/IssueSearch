@@ -1,0 +1,1 @@
+ URL : "https://github.com/larshp/abapOpenChecks/issues/356" TITLE : check 25 - false positives BODY : select single p_field from tab into lv_data where p_where . perform p_form in program zfoobar. bad use of selection parameters, however should not give an error, s_field-low

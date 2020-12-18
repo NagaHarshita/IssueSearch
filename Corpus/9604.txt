@@ -1,0 +1,1 @@
+ URL : "https://github.com/reiinakano/fast-style-transfer-deeplearnjs/issues/5" TITLE : 404 on bundle.js BODY : i went to https://reiinakano.github.io/fast-style-transfer-deeplearnjs/, but it didn't load at all. i checked the console, and there was a 404 on https://reiinakano.github.io/fast-style-transfer-deeplearnjs/bundle.js.

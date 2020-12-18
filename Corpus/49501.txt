@@ -1,0 +1,1 @@
+ URL : "https://github.com/hwdtech/ember-login-flow-sample/issues/3" TITLE : travis ci integration BODY : create travis ci configuration and make sure that build: - runs all tests, - runs code analysis, - collects code coverage.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ashishsinha14/mykitchen/issues/1" TITLE : create middletier setup BODY : as discussed please create middle tier project using node and express connecting to mysql. middle tier should provide restfull api to ui layer.

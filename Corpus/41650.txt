@@ -1,0 +1,1 @@
+ URL : "https://github.com/DanielSiepmann/automated-typo3-update/issues/46" TITLE : add automated testing BODY : should be easy. just add two php files for each test. one with non migrated code, one with fixed code. run phpcbf against the non migrated and compare both files. for warnings we can add one non migrated code and check the cli output.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/s-u/rJava/issues/96" TITLE : using rjava code directly BODY : is there a way of using rjava code without the need of installing it. i mean in the same way that i develop my r code, could i import the r files of this package?

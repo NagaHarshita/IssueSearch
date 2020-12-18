@@ -1,0 +1,1 @@
+ URL : "https://github.com/inchingforward/gopherjs-asteroids/issues/2" TITLE : get a game loop working. BODY : requestanimationframe vs. timer. what's common in the gopherjs world?

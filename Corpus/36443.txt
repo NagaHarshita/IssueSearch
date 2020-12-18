@@ -1,0 +1,1 @@
+ URL : "https://github.com/GraphCMS/Feature-Requests/issues/91" TITLE : hide relation fields BODY : similar to hiding system fields, hiding relation fields would be helpful for isolating a model's direct field:value pairs. mostly, this would be helpful following the implementation of custom asset fields, since the list of relations can quickly get lengthy.

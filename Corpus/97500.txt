@@ -1,0 +1,1 @@
+ URL : "https://github.com/jhlink/reactnd-project-myreads-starter/issues/1" TITLE : handle books without links BODY : image links don't exist for certain books. make sure to add this fix in the book.js component.

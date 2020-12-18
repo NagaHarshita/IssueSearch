@@ -1,0 +1,1 @@
+ URL : "https://github.com/lostintangent/azjs/issues/2" TITLE : adding env var support BODY : add the ability to specify environment variables both at deploy time, but also, at arbitrary points. additionally, add the ability to place a .env file in the project directory, and use that to set one or more env vars for an app deployment.

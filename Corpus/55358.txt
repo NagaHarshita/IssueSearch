@@ -1,0 +1,1 @@
+ URL : "https://github.com/git-ftp/git-ftp/issues/375" TITLE : installation on ubuntu BODY : having issue in getting the latest version on node docker image using apt-get , trying to follow the installation guide i need to do this in a pipeline for continous integration purpose

@@ -1,0 +1,1 @@
+ URL : "https://github.com/redxdev/imquery/issues/47" TITLE : shared library support BODY : support for loading native shared libraries that can provide additional functionality by registering native functions and types qobject types with the imquery vm.

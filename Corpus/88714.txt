@@ -1,0 +1,1 @@
+ URL : "https://github.com/chmln/flatpickr/issues/605" TITLE : onmonthchange not working BODY : hello, chmln! onmonthchange event not working properly, got: hooks i is not a function looks like you forget to add onmonthchange to default config and to hooks in parseconfig method.

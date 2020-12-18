@@ -1,0 +1,1 @@
+ URL : "https://github.com/google/timesketch/issues/442" TITLE : vagrant install issue BODY : hello, using vagrant wiki install docs, i've done : $ cd timesketch/vagrant $ vagrant up .. wait until the installation process is complete $ vagrant ssh $ tsctl runserver -h 0.0.0.0 <-- error : tsctl: command not found thanks for your help.

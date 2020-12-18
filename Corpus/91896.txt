@@ -1,0 +1,1 @@
+ URL : "https://github.com/UlfS/ghmm/issues/14" TITLE : upgrade to stackage lts-8 BODY : stackage lts-8 https://www.stackage.org/diff/lts-7.19/lts-8.0 was just released. diff to 7 here https://www.stackage.org/diff/lts-7.19/lts-8.0 .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mostjs/core/issues/16" TITLE : remove timestamp ? BODY : anyone use it regularly? the only place it's used internally is in its own unit test. is there a compelling reason to keep it?

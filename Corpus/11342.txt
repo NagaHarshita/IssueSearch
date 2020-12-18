@@ -1,0 +1,1 @@
+ URL : "https://github.com/racer-rust/vim-racer/issues/86" TITLE : go to definition BODY : go to definition works great :100: with https://github.com/ebfe/vim-racer and not with this plugin. does anyone know why?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/argos-ci/argos/issues/244" TITLE : do not run diffs on master BODY : as a user, my master merge commits aren't red whenever there is changes, also my quotas aren't wasted on master.

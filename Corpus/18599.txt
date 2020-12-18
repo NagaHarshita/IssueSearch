@@ -1,0 +1,1 @@
+ URL : "https://github.com/nccgroup/image-checker/issues/10" TITLE : treatment of svgs BODY : svgs are being higlighted in red when they should perhaps be excluded? ! imagecheckersvg https://cloud.githubusercontent.com/assets/5479712/25440075/3499806c-2a96-11e7-82cf-8ed8fef8ba77.png

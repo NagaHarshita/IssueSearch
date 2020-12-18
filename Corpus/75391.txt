@@ -1,0 +1,1 @@
+ URL : "https://github.com/radare/sdb/issues/123" TITLE : hashtable depends on sdb BODY : there should be an independent ht implementation on sdb. right now everything must be an string in order to work properly, but the idea would be to have an agnostic ht and sdb must use a specialized version setting parameters in sdbhash for its need. another example in sdbhash

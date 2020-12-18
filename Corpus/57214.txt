@@ -1,0 +1,1 @@
+ URL : "https://github.com/zalando-incubator/solution-center-login/issues/76" TITLE : post migration cleanup BODY : following the business partner migration, we should remove any feature or switches that were only needed during the transition.

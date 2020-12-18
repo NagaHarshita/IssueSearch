@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/vscode/issues/29708" TITLE : no find history BODY : testing 29479 the find widget in the editor provides a find history alt+up/alt+down , there is currently no such support in the terminal.

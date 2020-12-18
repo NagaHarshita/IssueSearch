@@ -1,0 +1,1 @@
+ URL : "https://github.com/scaleway/api.scaleway.com/issues/50" TITLE : document api rate limit BODY : there is no documentation about rate limit errors. the usage of 429 too many request should be documented, with details such as retry-after header format and usage, as well as json payload.

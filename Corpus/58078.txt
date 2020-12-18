@@ -1,0 +1,1 @@
+ URL : "https://github.com/contiki-os/contiki/issues/2040" TITLE : rpl maximum node limit BODY : hello, theoretically we can add unlimited node but what about practically. what about 50 000 node. is rpl will work on 50 000 node smoothly ? what will be the response time of the ping in 50 000 node network ?

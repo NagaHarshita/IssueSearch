@@ -1,0 +1,1 @@
+ URL : "https://github.com/bengranett/minimask/issues/6" TITLE : draw n samples BODY : mask.sample n should return n points but it does not.

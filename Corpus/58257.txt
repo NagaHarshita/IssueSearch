@@ -1,0 +1,1 @@
+ URL : "https://github.com/dcortes92/vs-freemarker/issues/14" TITLE : selected element issue BODY : when clicking a div, every other div on the page is being highlighted. please can you fix it so that the when you select an opening div, only the matching closing div is selected?

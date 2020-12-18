@@ -1,0 +1,1 @@
+ URL : "https://github.com/jsroznic/CritterKart/issues/16" TITLE : unity 5.5+ breaks physics BODY : fishing boat breaks in 5.5+. possibly related to concave colliders.

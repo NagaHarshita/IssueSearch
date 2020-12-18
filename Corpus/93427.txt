@@ -1,0 +1,1 @@
+ URL : "https://github.com/measurement-kit/measurement-kit/issues/1452" TITLE : add support for websockets BODY : the immediate need is to be able to run ndt over websockets on port 80 http and 443 https . but we may possibly find other ways in which this could be useful.

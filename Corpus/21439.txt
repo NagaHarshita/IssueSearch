@@ -1,0 +1,1 @@
+ URL : "https://github.com/mne-tools/mne-bids/issues/4" TITLE : file type suffixes BODY : what's the consensus on handling suffixes like -cov , -epo , or ave in the bids file naming scheme? looks like we'd have to use the _proc label e.g., _proc-cov_meg.fif

@@ -1,0 +1,1 @@
+ URL : "https://github.com/stelligent/mu/issues/82" TITLE : cleanup iam policies BODY : review the iam policies and lock down. for sure the service roles for codebuild and codepipeline are too loose at the moment.

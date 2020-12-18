@@ -1,0 +1,1 @@
+ URL : "https://github.com/rudrakshpathak/angular2-google-login/issues/6" TITLE : good to rename authservice BODY : authhservice is a very generic name and could easily conflict with some other npm module. perhaps googleauthservice . up to you of course. just a suggestion.

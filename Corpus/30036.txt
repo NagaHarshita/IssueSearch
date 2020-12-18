@@ -1,0 +1,1 @@
+ URL : "https://github.com/NLincoln/ember-cli-ion-rangeslider/issues/1" TITLE : no default onchange BODY : i'm trying to use your fork of rangeslider, but from and to values doesn't seem to be changed. i see that you removed the _sliderdidchange method and binding, and there's no default onchange method. how do you use it?

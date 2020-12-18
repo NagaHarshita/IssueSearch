@@ -1,0 +1,1 @@
+ URL : "https://github.com/zdenekpribyla/test-project/issues/1" TITLE : add inputs validation BODY : -allow used to input just numeric values - warn user if he insert some nonsense 0 passengers leads to: everybody will pay infinity czk

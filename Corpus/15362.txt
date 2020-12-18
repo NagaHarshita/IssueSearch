@@ -1,0 +1,1 @@
+ URL : "https://github.com/MediaBrowser/Emby.ApiClient.Java/issues/21" TITLE : deploy to jcenter BODY : it would make consuming this easier in android applications if this was available from jcenter. i'm starting to work on this again for serenity, and it would just make it easier to consume if i could just add a dependency to gradle to bring it down.

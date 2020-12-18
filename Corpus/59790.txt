@@ -1,0 +1,1 @@
+ URL : "https://github.com/kendallejackson/colmaracademy/issues/2" TITLE : use proper html & sign BODY : use the html & sign instead of just &, which is &amp; https://github.com/kendallejackson/colmaracademy/blob/master/index.html l151

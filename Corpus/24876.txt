@@ -1,0 +1,1 @@
+ URL : "https://github.com/ispoleet/misc/issues/1" TITLE : typo error in code BODY : hi there, i've noticed a minor typo in the following commented line: https://github.com/ispoleet/misc/blob/master/my%20file%20system/main.cpp l187 and just thought to let you know in case you wish to fix it.

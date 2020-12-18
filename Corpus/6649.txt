@@ -1,0 +1,1 @@
+ URL : "https://github.com/Jung-hyelim/SimpleQuoridor/issues/7" TITLE : apply swagger 2 BODY : api를 문서로 일일이 정의하기 보다는 swagger라는 툴을 이용해 세팅하는것이 좋을것 같습니다. rest api 관련하여 같이 고민할 부분이 생길 것입니다. + 패키지 및 코드 아키텍처 까지.. @jung-hyelim 님, 현재 swagger2 버전이 나온것으로 알고 있는데, 설정 부탁드립니다 ^^ 언제든지 궁금한점 연락주시면 되용~ 실제로 본 프로젝트에서는 api서버를 따로 두고 돌리는 것은 아니지만, 향후 사용법을 알아둔다면 유용할 수 있습니다.

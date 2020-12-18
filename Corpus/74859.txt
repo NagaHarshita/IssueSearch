@@ -1,0 +1,1 @@
+ URL : "https://github.com/openstates/admintools/issues/32" TITLE : fix for bad_counts issue BODY : discovered in 26 we had a misunderstanding about bad counts, adding this issue so we don't forget :

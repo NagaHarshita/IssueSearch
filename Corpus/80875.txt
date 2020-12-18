@@ -1,0 +1,1 @@
+ URL : "https://github.com/pinojs/hapi-pino/issues/41" TITLE : use hapi pino externally BODY : i am correct to assume that if i need to use pino outside the server/request in my case inside a mongo model i need to import the main pino library directly?

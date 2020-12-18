@@ -1,0 +1,1 @@
+ URL : "https://github.com/bobthecow/psysh/issues/452" TITLE : custom command on exit BODY : i would like to run $driver->quit whenever i quit|exit the shell. is that possible? i using psysh with selenium standalone server and w/o the $driver->quit i have browser windows scattered around.

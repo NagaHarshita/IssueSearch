@@ -1,0 +1,1 @@
+ URL : "https://github.com/nodejs/abi-stable-node-addon-examples/issues/14" TITLE : bug in napi folder BODY : there in .js file must be simply require without 'addon' . segmentation fault.

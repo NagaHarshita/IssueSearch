@@ -1,0 +1,1 @@
+ URL : "https://github.com/stanford-ppl/spatial-lang/issues/127" TITLE : iterate over sram dims? BODY : would something like this be possible to support? i put about 5 minutes into trying to support it but stopped because it isn't super critical def init val s: sram1 t : unit = { foreach s.cols by 1 { i => s i = 0 } }

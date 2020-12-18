@@ -1,0 +1,1 @@
+ URL : "https://github.com/phpbb-extensions/ad-management/issues/84" TITLE : ad blocker fixes BODY : if user is in a group that does not have to see ads, then user also should not see the ad blocker warning message anymore.

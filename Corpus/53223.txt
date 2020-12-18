@@ -1,0 +1,1 @@
+ URL : "https://github.com/Huddle/Resemble.js/issues/92" TITLE : detect browser support BODY : while testing the library i found that it does not work on safari 10.0.3. is there any way to detect the support of the browser before running the test? file api is available on safari, buy maybe there is other dependency. http://caniuse.com/ feat=fileapi

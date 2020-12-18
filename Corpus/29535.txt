@@ -1,0 +1,1 @@
+ URL : "https://github.com/Altenius/LuaDisAss/issues/3" TITLE : make error on macos BODY : i tried to compile install on macos. i ran cmake then make the debug info is here: debug.txt https://github.com/altenius/luadisass/files/1489413/debug.txt

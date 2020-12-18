@@ -1,0 +1,1 @@
+ URL : "https://github.com/zotero/web-library/issues/64" TITLE : tag selector component BODY : the following features are not yet ported/implemented: - styling - tag selector container component - dialog to specify a new color for a tag - dialog to rename/delete a tag - dialogs configure advanced features display automatic, display all tags _ potentially beyond 1.0 scope_

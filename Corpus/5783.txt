@@ -1,0 +1,1 @@
+ URL : "https://github.com/bodhiproject/bodhi-graphql/issues/21" TITLE : store bn in db BODY : bn in solidity is uint256 , int for mongo is 32 bit, long is 64 bit

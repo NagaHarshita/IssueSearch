@@ -1,0 +1,1 @@
+ URL : "https://github.com/OneDrive/onedrive-api-docs/issues/722" TITLE : microsoft graph issue BODY : hello, i'm having an issue while trying to access my onedrive items through graph api. endpoint: https://graph.microsoft.com/v1.0/me/drive/items/{myitemid}/workbook/worksheets error: message : general exception while processing thanks in advance

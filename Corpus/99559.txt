@@ -1,0 +1,1 @@
+ URL : "https://github.com/mitls/hacl-star/issues/4" TITLE : move code/lib up one level BODY : we need to move code/lib up one level. there's also some discussion of changing it's name common , util or etc have been suggested . though i would stick with lib .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/avocode/avocode/issues/1302" TITLE : last row - menu view bug BODY : ! capture https://cloud.githubusercontent.com/assets/24889982/23361492/3ff56ac0-fcf1-11e6-89c3-ba7664cbd32b.png when multiple rows of desing are being shown the last row has problem with view-port, meaning that part of settings menu won't appear as you can see in the screenshot

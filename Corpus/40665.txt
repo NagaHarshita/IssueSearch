@@ -1,0 +1,1 @@
+ URL : "https://github.com/thetric/ng-seed/issues/5" TITLE : upgrade to webpack 3 BODY : the upgrade is blocked by some webpack plugins: https://github.com/webpack-contrib/extract-text-webpack-plugin/milestone/3

@@ -1,0 +1,1 @@
+ URL : "https://github.com/josdejong/mathjs/issues/824" TITLE : ie 11.0 hangs on math.ceil BODY : calling this method causes the ie 11.0 hangs: math.ceil math.random 10000000000000 ;

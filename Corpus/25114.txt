@@ -1,0 +1,1 @@
+ URL : "https://github.com/walkermatt/ol3-layerswitcher/issues/49" TITLE : use with requirejs BODY : @walkermatt could you please provide an example on how to load this library using requirejs. i get undefined object when i try to do so:- require ./ol3-layerswitcher ,function layerswitcher { }

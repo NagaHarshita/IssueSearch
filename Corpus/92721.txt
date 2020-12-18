@@ -1,0 +1,1 @@
+ URL : "https://github.com/numixproject/numix-core/issues/3688" TITLE : 16px circle template issue BODY : icon size is 15x15 which causes bluriness. moreover we probably should ditch the 22px size and increase the 24px icon to 22x22

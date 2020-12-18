@@ -1,0 +1,1 @@
+ URL : "https://github.com/baianat/vee-validate/issues/1070" TITLE : how to combine rules BODY : versions: - vuejs: 2.5.2 - vee-validate: 2.0.0-rc.27 description: how to combine alpha_dash, alpha_num and alpha_spaces in one rule? i need to validate something like 'some text - word99 привет' steps to reproduce:

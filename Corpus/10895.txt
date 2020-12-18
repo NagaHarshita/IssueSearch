@@ -1,0 +1,1 @@
+ URL : "https://github.com/NSI-IT/2WU-WOOCLUBS/issues/4" TITLE : edit an interest BODY : as an admin, i want the ability to edit interest, so that i can update it anytime if required acceptance criterias: verify that the user is able to edit interest title and change image verify that the title and image, both are mandatory

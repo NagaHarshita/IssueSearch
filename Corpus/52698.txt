@@ -1,0 +1,1 @@
+ URL : "https://github.com/jdogresorg/freewallet/issues/15" TITLE : counterparty uri issue BODY : clicking a counterparty uri both windows 10 / ubuntu work, as intended, on first attempt. subsequent clicks do not register. user must quit freewallet for another click to register properly.

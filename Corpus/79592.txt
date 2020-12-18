@@ -1,0 +1,1 @@
+ URL : "https://github.com/rhemon/food_rec/issues/8" TITLE : softmax for output layer BODY : use softmax in output layer to predict the item.

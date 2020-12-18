@@ -1,0 +1,1 @@
+ URL : "https://github.com/tenders-exposed/elvis-ember/issues/274" TITLE : email validation is wrong BODY : it seems our email validation frontend based fails to recognize perfectly valid addresses. see the image: ! image https://user-images.githubusercontent.com/1579997/28770630-91220b2c-75e8-11e7-9a25-f259836a9a4e.png

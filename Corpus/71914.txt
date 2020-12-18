@@ -1,0 +1,6 @@
+ URL : "https://github.com/Zimmi48/bugzilla-test-2/issues/2086" TITLE : anomaly matching bad var BODY : note: the issue was created automatically with bugzilla2github tool original bug id: bz 2086
+date: 2009-04-05 00:28:05 +0200
+from: ethan.aubin@gmail.com
+reported version: 8.2 last updated: 2010-01-14 14:32:13 +0100 ethan.aubin@gmail.com on 2009-04-05 00:28:05 +0200 a program like program fixpoint foo : prop := match unit with | tt => true end. gives anomaly: uncaught exception not_found. please report. instead of error: in environment
+foo : prop
+the term unit has type set while it is expected to have type unit @ mattam82 on 2010-01-14 14:32:13 +0100 fixed in the trunk, it warns that the type of unit, that is set is not an inductive type.

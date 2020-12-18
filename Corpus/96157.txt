@@ -1,0 +1,1 @@
+ URL : "https://github.com/randombit/botan/issues/1140" TITLE : embedding in cmake project BODY : is it possiblre to embed botan 2.x into cmake project?

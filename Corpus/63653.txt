@@ -1,0 +1,1 @@
+ URL : "https://github.com/madskristensen/BundlerMinifier/issues/238" TITLE : error during minifying. BODY : https://raw.githubusercontent.com/mikemcl/decimal.js/master/decimal.js error bundler & minifier can't have 'break' outside of loop: break other minifiers works fine.

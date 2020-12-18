@@ -1,0 +1,1 @@
+ URL : "https://github.com/nitroshare/nitroshare-chrome/issues/1" TITLE : support for webextensions BODY : support for firefox is fairly trivial. the html and js are identical and most of the manifest is the same.

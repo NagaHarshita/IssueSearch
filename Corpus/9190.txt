@@ -1,0 +1,1 @@
+ URL : "https://github.com/GreenlightIP/rd-tool/issues/17" TITLE : tu color coding BODY : in multi-tags, lists, tree's etc. any interface displaying the tu would like to have a standard color coding this will slightly improve the ui as follows: 1. red unsolved tu 2. green resolved 3. grey draft 4. yellow blocked 5. black abandoned

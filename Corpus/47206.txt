@@ -1,0 +1,1 @@
+ URL : "https://github.com/konrad-garus/classycle-gradle-plugin/issues/4" TITLE : obtain the xml report BODY : it would be valuable to capture the xml report from the analyser http://classycle.sourceforge.net/usageanalyser.html of a class hierarchy for use by other tools. is it possible to have this report generated from this plugin?

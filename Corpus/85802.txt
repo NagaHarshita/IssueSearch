@@ -1,0 +1,1 @@
+ URL : "https://github.com/riderkick/FMD/issues/516" TITLE : fmd update file not found BODY : the new update is not linked correctly, it's at https://github.com/riderkick/fmd/releases/download/0.99.0/fmd_0.9.99.0_win64.7z instead of the bump https://github.com/riderkick/fmd/releases/download/0.9.99.0/fmd_0.9.99.0_win64.7z

@@ -1,0 +1,1 @@
+ URL : "https://github.com/msiemens/tinydb/issues/156" TITLE : get or insert question BODY : hi what's the recommended way to implement get_or_insert key, val that is insert something if such a key isn't there yet ? is it just db.search / db.get followed by db.insert? thanks

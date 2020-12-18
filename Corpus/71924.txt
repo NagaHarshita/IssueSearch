@@ -1,0 +1,1 @@
+ URL : "https://github.com/acarl/pg-restify/issues/9" TITLE : any acl recommendations? BODY : we need to limit pg-restify with acl. so public apps that uses pg-restify will be limited and will not be able to access restricted resources. any idea?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/twosigma/git-meta/issues/268" TITLE : add meta branch BODY : for completeness users may not realize that git branch does the job and to allow it to be run anywhere in the tree

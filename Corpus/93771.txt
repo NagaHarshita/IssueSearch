@@ -1,0 +1,1 @@
+ URL : "https://github.com/n8fr8/orbot/issues/108" TITLE : app selection is not saved BODY : clicking the back button in the vpn mode for tor enabled apps deselects the apps more than four, which are shown in ui bottom of the app. the changes are not saved.

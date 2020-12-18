@@ -1,0 +1,1 @@
+ URL : "https://github.com/MrKepzie/Natron/issues/1676" TITLE : new build error BODY : distro: manjari 64 libs fontconfig: 2.12.6 qt: 4.8.7.22 python2-pyside: 2.4.6 shiboken: 2.4.3 boost: 1.65.1 cairo: 1.15.8 openimage-io 1.7.17 opencv 3.3.0 pixman: 0.34 expat: 2.2.4 natron version: 2.3.2 buildlog https://p.teknik.io/raw/ha1p6

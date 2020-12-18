@@ -1,0 +1,2 @@
+ URL : "https://github.com/NOAA-PMEL/Ferret/issues/452" TITLE : ferret crash on xsequence BODY : reported by andrew wittenberg on 21 sep 2004 17:22 utc the following is a simplified version of a crash that occurred when i was
+working with the sequence functions to manipulate axis bounds: noaa/pmel tmap ferret v5.70 linux g77 2.4.18 - 06/30/04 21-sep-04 13:21 yes? list xsequence xsequence {1,2,3} + xsequence {2,3,4} stop gcf_get_axis_srcs statement executed migrated-from: http://dunkel.pmel.noaa.gov/trac/ferret/ticket/988

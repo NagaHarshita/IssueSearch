@@ -1,0 +1,1 @@
+ URL : "https://github.com/LiamKenneth/ArchaicQuest/issues/63" TITLE : add stand command BODY : stand is used to cancel out rest and sleep. from resting: message you stand up. to room: {playername} stands up from sleeping: message you wake and stand up to room: {playername } wakes and stands up player status gets set to standing

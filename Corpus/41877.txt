@@ -1,0 +1,1 @@
+ URL : "https://github.com/zpm-project/zpm-zsh/issues/21" TITLE : add os x to travis ci BODY : run test suite on os x.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/saltstack/release-mgmt/issues/107" TITLE : document new salt master BODY : - document which branch to submit new sls files for these boxes. - document the new salt master

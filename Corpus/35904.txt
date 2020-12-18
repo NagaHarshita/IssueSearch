@@ -1,0 +1,1 @@
+ URL : "https://github.com/Drupal4Gov/Drupal-GovCon-2017/issues/352" TITLE : fix checkbox styling BODY : checkbox styling not currently working during validation, will need to be investigated, and styled.

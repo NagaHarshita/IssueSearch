@@ -1,0 +1,1 @@
+ URL : "https://github.com/dret/I-D/issues/54" TITLE : remove hal as example BODY : the last published draft mentions hal as a possible example format. this example should be removed changed to something more appropriate , since hal is not capable of representing links where the source anchor is different from the link context.

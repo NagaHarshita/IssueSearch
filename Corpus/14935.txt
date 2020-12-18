@@ -1,0 +1,1 @@
+ URL : "https://github.com/camilleknop/prj-rev-bwfs-dasmoto/issues/1" TITLE : class vs id usage BODY : nice job using classes to style the page! i would suggest turning brushes, frames, and paint into ids rather than classes since they only each appear once in the html. check out this page for a full explanation https://css-tricks.com/the-difference-between-id-and-class/

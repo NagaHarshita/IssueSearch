@@ -1,0 +1,1 @@
+ URL : "https://github.com/criscod/CrowdWorkCV/issues/2" TITLE : ontology not available BODY : the crowdworkcv ontology is not available at the given iri, http://west.uni-koblenz.de/ontologies/crowdworkcv http://west.uni-koblenz.de/ontologies/crowdworkcv . this means that it can't contribute to the semantic web because agents especially machine agents can't access it.

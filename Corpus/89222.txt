@@ -1,0 +1,1 @@
+ URL : "https://github.com/tersejs/terse/issues/46" TITLE : prettier, linkable errors BODY : starting from 31, i'd like if the errors were my like symfony's error messages. shell yarn example runtime-error

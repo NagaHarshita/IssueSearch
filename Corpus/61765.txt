@@ -1,0 +1,1 @@
+ URL : "https://github.com/oblador/angular-scroll/issues/207" TITLE : bower file has an error BODY : please update bower.json file and set proper version. right now we have 1.0.2 and the file still have 1.0.0. thx! :-

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jinzhu/gorm/issues/1676" TITLE : ignore composed structs BODY : maybe i've overlooked the answer to this question, but how instruct gorm to not create tables for composite structs. i've tried something like this: type book struct { gorm.model foo sql: - title string } gorm complains about missing table foo, however i want gorm to ignore foo

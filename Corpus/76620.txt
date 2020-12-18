@@ -1,0 +1,1 @@
+ URL : "https://github.com/react-native-community/react-native-video/issues/461" TITLE : list of supported codecs BODY : hi, quick question: is there a list of codecs supported by react-native-video ? like, is mpeg-4 / xvid supported etc pp. what is this project built on?

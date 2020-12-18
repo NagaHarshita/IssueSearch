@@ -1,0 +1,1 @@
+ URL : "https://github.com/mpv-android/buildscripts/issues/6" TITLE : can't build on mac os BODY : this error: when execute ./buildall.sh , got this: target mpv-android not found

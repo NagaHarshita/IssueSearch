@@ -1,0 +1,1 @@
+ URL : "https://github.com/AKSW/LIMES-dev/issues/98" TITLE : relative paths for files BODY : as of right now, the endpoint tag must be set to the absolute path for file sources, which hampers the portability of linkspecs. i suggest allowing relative paths as well.

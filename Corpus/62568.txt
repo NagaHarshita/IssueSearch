@@ -1,0 +1,1 @@
+ URL : "https://github.com/bureado/jmpstart/issues/1" TITLE : consider moving to heml BODY : v1 went out with 931 words. the goal is for v2 to be 750 words, but even then we need to optimize layout. to do so, heml http://heml.io/docs/getting-started/usage might make sense. consider moving to a heml template.

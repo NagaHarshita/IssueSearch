@@ -1,0 +1,1 @@
+ URL : "https://github.com/ULHPC/puppet-multipath/issues/1" TITLE : what version of puppet? BODY : hello, i am trying to use 0.1.4 with puppet 4.10 and a simple 'include multipath' yields what looks to be a variable scope error e.g. undefined $::multipath_ensure . what version s of puppet are supported with this module? thanks, == k+ ==

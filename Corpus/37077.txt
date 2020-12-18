@@ -1,0 +1,1 @@
+ URL : "https://github.com/mapsforge/mapsforge/issues/941" TITLE : jp2 and .xml support BODY : hello there, i need to use offline maps in android app. i have .jp2 and .xml files. can i use mapsforge library with this?

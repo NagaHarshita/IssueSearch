@@ -1,0 +1,1 @@
+ URL : "https://github.com/Arijoolianto/talentbandung.id/issues/1" TITLE : review tugas sesi 1 BODY : 1. struktur htmlnya dibenerin lagi ya. 2. tag <head> tidak boleh ada di dalam body. 3. tag <font>, <center> sudah tidak digunakan lagi di html5, dihapus ya. 4. validasi ulang setelah di revisi di https://validator.w3.org/

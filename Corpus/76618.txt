@@ -1,0 +1,1 @@
+ URL : "https://github.com/GFDRR/geonode/issues/30" TITLE : list of available styles BODY : please show list of available styles in alphbetical order: @ http://www.geonode-gfdrrlab.org/gs/hazard:<layername>/style/manage e.g., http://www.geonode-gfdrrlab.org/gs/hazard:eq_ke_pgarp_100/style/manage it is currently impossible to find existing styles by name.

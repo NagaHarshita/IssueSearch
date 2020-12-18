@@ -1,0 +1,1 @@
+ URL : "https://github.com/JuliaFEM/NodeNumbering.jl/issues/8" TITLE : fix docstring for function BODY : in here https://github.com/juliafem/nodenumbering.jl/blob/master/src/create_adjacency_graph.jl l24 , function should have docstring. 1 https://docs.julialang.org/en/release-0.5/manual/documentation/

@@ -1,0 +1,1 @@
+ URL : "https://github.com/moj-analytical-services/xltabr/issues/47" TITLE : improve number detection BODY : ideas: look at numbers in column - if max num > 1000, use a different format to eg. if the max is 1. choose decimal places accordingly

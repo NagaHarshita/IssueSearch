@@ -1,0 +1,1 @@
+ URL : "https://github.com/ridi/eslint-config/issues/5" TITLE : upgrade jsx-a11y to 6.0.2 BODY : ... after upgrading airbnb-eslint-config package with its peer dependencies. ref: https://github.com/airbnb/javascript/pull/1482

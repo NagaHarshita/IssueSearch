@@ -1,0 +1,1 @@
+ URL : "https://github.com/osmcode/node-osmium/issues/96" TITLE : dead link to libosmium BODY : > for large extracts or planet processing we recommend leveraging the libosmium c++ api instead of using node-osmium. at this paragraph the link gives 404

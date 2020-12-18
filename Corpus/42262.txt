@@ -1,0 +1,1 @@
+ URL : "https://github.com/Kaniwani/kw-backend/issues/317" TITLE : api reset level param BODY : allow user to select a level to reset to, included in reset endpoint request. if they select level 10, everything > reset to srs rank 0. everything <= 10 would remain at current srs.

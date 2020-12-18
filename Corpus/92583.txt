@@ -1,0 +1,1 @@
+ URL : "https://github.com/htmlacademy/intensive-ecmascript-criteria/issues/6" TITLE : запретить delete BODY : delete добавляет неявность в код if answercheckbox.checked { useranswer answerid = answercheckbox.dataset.right; } else { delete useranswer answerid ; }

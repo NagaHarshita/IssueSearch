@@ -1,0 +1,1 @@
+ URL : "https://github.com/wix/import-cost/issues/46" TITLE : ubunto cpu high use BODY : when the extension is enabled, the cpu is running extremely high. 80% - 100% . os: ubuntu 16.04

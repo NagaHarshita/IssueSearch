@@ -1,0 +1,1 @@
+ URL : "https://github.com/graphcool/get-graphql-schema/issues/1" TITLE : error while installing BODY : /root └── get-graphql-schema@1.0.1 npm warn enoent enoent: no such file or directory, open '/root/package.json' npm warn root no description npm warn root no repository field. npm warn root no readme data npm warn root no license field.

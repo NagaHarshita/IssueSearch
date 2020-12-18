@@ -1,0 +1,1 @@
+ URL : "https://github.com/JuliaLang/julia/issues/24238" TITLE : typeof 2 pi 1f0 BODY : i was recently bitten by this behaviour: julia> typeof 2 1f0 float32 julia> typeof pi 1f0 float32 julia> typeof 2 pi 1f0 float64 julia> typeof 2 1f0 pi float32 i wonder if float64 is according to design or is it a bug?

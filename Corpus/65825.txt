@@ -1,0 +1,1 @@
+ URL : "https://github.com/RedHatInsights/insights-core/issues/85" TITLE : limits conf combiner 70 BODY : @paulway you need to create a back-port pr for the 1.x branch for 70

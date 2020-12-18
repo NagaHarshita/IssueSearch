@@ -1,0 +1,1 @@
+ URL : "https://github.com/RoboJackets/robocup-software/issues/1027" TITLE : grsim headless mode BODY : a lot of people are having issues with performance on vm's due to grsim. we actually need a headless mode now.

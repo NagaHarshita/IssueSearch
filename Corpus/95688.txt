@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpenNebula/addon-context-linux/issues/86" TITLE : dhcp configured interfaces BODY : there are situations where both statically and dynamically e.g. when using just ethernet ranges configured network interfaces are used. currently, the scripts can work fine with one or the other, but not well with both at the same time.

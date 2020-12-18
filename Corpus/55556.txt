@@ -1,0 +1,1 @@
+ URL : "https://github.com/justhis01010101/SimpleCalculator/issues/2" TITLE : java event programming BODY : - 참조변수에 위젯 객체의 참조 값을 반환받아서 대입 findviewbyid - 입력된 값을 반환 받아서 변수에 대입 - event programming:버튼이 클릭 되었을 때 입력된 2개의 값을 사용해서 연산을 실행 결과 값을 결과 testview에 설정

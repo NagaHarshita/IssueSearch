@@ -1,0 +1,1 @@
+ URL : "https://github.com/climu/openstudyroom/issues/76" TITLE : get rid of the game class BODY : it appear the game class is not needed. it's just a valid sgf related to an event. i will add foreignkeys to link a sgf to black and white users instead of keeping the kgs_usernames. then i will create a view that will update all valid sgfs.

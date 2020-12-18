@@ -1,0 +1,1 @@
+ URL : "https://github.com/oeb25/boieng/issues/1" TITLE : clear wire buffer BODY : when reading from wire, arduino/ic2 has a tendency to overflow the internal buffer of the arduinos memory. this can be fixed by manually clearing the buffer, see related forum post https://forum.arduino.cc/index.php?topic=403098.0 .

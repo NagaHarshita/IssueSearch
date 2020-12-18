@@ -1,0 +1,1 @@
+ URL : "https://github.com/sant0ro/chocolatey/issues/341" TITLE : findretros on chocolatey? BODY : is there any way of implementing the findretros api to force votes either on the cms or client itself? tried to myself but wherever i put the api it stops the website from loading.

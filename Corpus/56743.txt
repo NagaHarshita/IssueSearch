@@ -1,0 +1,1 @@
+ URL : "https://github.com/samcook/RedLock.net/issues/23" TITLE : nuget and core version BODY : hi, how can i install library redlock.net from nuget to project based on asp.net core, because is not available in nuget? best regards krzysztof

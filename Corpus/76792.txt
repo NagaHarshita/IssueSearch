@@ -1,0 +1,1 @@
+ URL : "https://github.com/marcolindner/dashboard/issues/27" TITLE : make develop green again BODY : - fix tslint errors - fix failing unit tests

@@ -1,0 +1,1 @@
+ URL : "https://github.com/segmentio/nightmare/issues/1036" TITLE : install not working BODY : when i enter: npm install nightmare in an empty directory, i get this error: npm warn enoent enoent: no such file or directory, open <directory_i'm_in/package.json> . why is this happening?

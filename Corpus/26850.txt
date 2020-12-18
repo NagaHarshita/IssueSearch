@@ -1,0 +1,1 @@
+ URL : "https://github.com/TheDigitalNinja/Ninja-Jekyll/issues/9" TITLE : canonical url wrong BODY : <link rel= canonical href= http://localhost:4000/ninja-jekyll/ > should be the site url

@@ -1,0 +1,1 @@
+ URL : "https://github.com/marcgarreau/accelerator/issues/13" TITLE : css not rendering BODY : when running the development server, no css assets are rendered and the page is broken as a result i.e. the react-md assets. when i run the production build, no css assets are produced within the /build dir. any thoughts or guidance on how to fix this would be appreciated.

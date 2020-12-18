@@ -1,0 +1,1 @@
+ URL : "https://github.com/sampl/firefly/issues/65" TITLE : explore server side auth BODY : https://firebase.google.com/docs/auth/web/google-signin see near bottom - advanced: authenticate with firebase in node.js

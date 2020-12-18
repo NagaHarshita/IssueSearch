@@ -1,0 +1,1 @@
+ URL : "https://github.com/bbc/bbc-a11y/issues/172" TITLE : standard json reporter BODY : so that it's easy to integrate with other tools, bbc-a11y should ship with a built-in json reporter. mentioned here https://github.com/bbc/bbc-a11y/pull/168

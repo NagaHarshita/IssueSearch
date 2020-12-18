@@ -1,0 +1,1 @@
+ URL : "https://github.com/facg3/memegames/issues/26" TITLE : don't push your config.env BODY : along with node modules, you have not to push your config.env file.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/vgrem/Office365-REST-Python-Client/issues/37" TITLE : oauth not implemented yet BODY : it looks like the repo has oauth file in runtime/auth, but not implemented. or at least it seems that way would there be any interest in the community for this feature?

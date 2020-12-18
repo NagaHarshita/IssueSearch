@@ -1,0 +1,1 @@
+ URL : "https://github.com/saltstack-formulas/syslog-ng-formula/issues/9" TITLE : facility with and and not BODY : default sl 6x/7x syslog-ng config has this type of syntax. how do i mimic that in the pillar? filter f_default { level info..emerg and not facility mail or facility authpriv or facility cron ; };

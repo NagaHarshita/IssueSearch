@@ -1,0 +1,1 @@
+ URL : "https://github.com/heutagogy/heutagogy-frontend/issues/11" TITLE : mark bookmark as read BODY : problem: when i read on my android device, i can't mark the bookmark as read. solution: implement mark as read functionality similar to chrome extension.

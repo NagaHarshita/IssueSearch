@@ -1,0 +1,1 @@
+ URL : "https://github.com/Ensembles/ert/issues/1447" TITLE : memory leaks in eclsum BODY : the following example leads to un-freed memory. python import ert.ecl as ecl import gc eclcases = 'case1.data', 'case2.data', ..., 'casen.data' for eclcase in eclcases: eclcase_sum = ecl.eclsum eclcase eclcase_sum = none del eclcase_sum gc.collect print len gc.garbage

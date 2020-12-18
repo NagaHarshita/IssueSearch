@@ -1,0 +1,1 @@
+ URL : "https://github.com/azavea/raster-vision/issues/129" TITLE : construct vrts locally BODY : when scripts are given lists of tiff files, construct vrts for them locally.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/infielddigital/aem-webpack-example/issues/7" TITLE : npm not found issue BODY : when building again on a remote ci server , i ran into an issue where npm is not installed. locally it works fine because i have npm installed on my machine, but it's not set up on the remote server. i think switching over to npm instead of yarn may resolve the issue.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/kamorin/DHCPig/issues/12" TITLE : correct help targets BODY : hello ! help targets return none due to invalid docstring positioning. the pull request 10 correct the bug. cheers,

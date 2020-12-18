@@ -1,0 +1,1 @@
+ URL : "https://github.com/yeasy/docker-hyperledger-fabric-base/issues/3" TITLE : container support for arm BODY : hey, is there any plan to create a version of this container that supports other architectures such as arm?

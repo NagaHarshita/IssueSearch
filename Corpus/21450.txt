@@ -1,0 +1,1 @@
+ URL : "https://github.com/sapmentors/SITregParticipant/issues/23" TITLE : filter events list BODY : currently the events list is filled up with entries of past events. the app should start up with all events that are in the future. this could be done via a filter in the master list.

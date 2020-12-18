@@ -1,0 +1,1 @@
+ URL : "https://github.com/icecc/icecream/issues/300" TITLE : build conftest.c locally BODY : to avoid blocking of hosts and long stale times during the execution of autoconf scripts, conftest.c should be forced to compile on the local system. see https://github.com/distcc/distcc/blob/848e4be57bd1c3db30bd1b767660736d77585ca9/src/filename.c l293

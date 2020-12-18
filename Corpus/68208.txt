@@ -1,0 +1,1 @@
+ URL : "https://github.com/cortex-lab/alyx/issues/62" TITLE : reorder admin home page BODY : ideally we should probably style and skin this to look a bit nicer, but at the very least let's define a custom order so the most common fields are nearer the top.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/martinohanlon/flightdata/issues/1" TITLE : wrong path in piaware 3.5 BODY : this is the url in the source code dump1090dataurl = http://localhost:8080/data.json this is the url needed for piaware 3.5 don't know from 3.0 up to 3.5 dump1090dataurl = http://localhost:8080/dump1090-fa/data/aircraft.json

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jasonmerino/react-native-simple-store/issues/27" TITLE : clear the store BODY : is there any way to clear the store in one go ? i want to clear the store on a button click e.g. logout button . how can i clear the whole store in one go ? if not, i think it's a pretty frequent use case and should be included in the api ? humble suggestion :

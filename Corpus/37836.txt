@@ -1,0 +1,1 @@
+ URL : "https://github.com/odoo/odoo/issues/21794" TITLE : mypy on the hotspots BODY : look here: http://mypy-lang.blogspot.com.co/2017/11/dropbox-releases-pyannotate-auto.html optional static typing on the accounting and stock hotspots for example on constrains and creates logic... nice idea. sorry to bother you with my procrastination efforts... :smile: /cc @odony @rco-odoo

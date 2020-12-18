@@ -1,0 +1,1 @@
+ URL : "https://github.com/pygeo/geoval/issues/12" TITLE : testing with basemap BODY : problems were not found as obviously basemap based tests are incomplete. see https://github.com/pygeo/geoval/pull/11 todo: implement test that uses baseman as backend and does different kinds of plotting

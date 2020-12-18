@@ -1,0 +1,1 @@
+ URL : "https://github.com/llaville/php-compat-info/issues/232" TITLE : support class constants BODY : class constants of extensions are stored in php-compatinfo-db https://github.com/llaville/php-compatinfo-db , but they are not analysed in php-compat-info yet. can we also analysis class constants ?

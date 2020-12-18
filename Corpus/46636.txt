@@ -1,0 +1,1 @@
+ URL : "https://github.com/wagn/wagn/issues/788" TITLE : missing gem colorize? BODY : i ran the following wagn new mysite -d postgresql cd mysite wagn seed which resulted in rake aborted! loaderror: cannot load such file -- colorize after adding gem 'colorize' to the gemfile and rerunning bundle install the wagn seed command now works. fwiw i'm using ruby 2.3.2

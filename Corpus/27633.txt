@@ -1,0 +1,1 @@
+ URL : "https://github.com/brigand/react-zeroclipboard/issues/43" TITLE : doesn't work at all BODY : this package doesn't appear to work at all. i'm on the latest react. js import zeroclipboard from 'react-zeroclipboard'; ... <zeroclipboard text={link.shareid}> <button>copy</button> </zeroclipboard> clicking copy has no effect.

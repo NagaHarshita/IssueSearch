@@ -1,0 +1,1 @@
+ URL : "https://github.com/khaosdoctor/setup/issues/4" TITLE : download from git BODY : rewrite setup.sh to download the ini files from git, so instead of cloning the whole repo this would just be a single file

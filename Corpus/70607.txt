@@ -1,0 +1,1 @@
+ URL : "https://github.com/karulis/pybluez/issues/156" TITLE : winsock implement l2cap BODY : i've posted a request for the ability to create l2cap sockets through winsock msbt.py https://wpdev.uservoice.com/forums/110705-universal-windows-platform/suggestions/19644025-winsock-support-l2cap-sockets you might want to upvote it

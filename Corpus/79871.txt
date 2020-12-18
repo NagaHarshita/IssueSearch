@@ -1,0 +1,1 @@
+ URL : "https://github.com/cybertec-postgresql/postgres-showcase/issues/2" TITLE : suggestion: omit domains BODY : i just have this impression, from vague recollection of list emails and some fading first-hand experience, that the implementation details of domains when used in casting/functions makes using them potentially problematic.

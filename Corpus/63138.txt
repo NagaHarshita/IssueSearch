@@ -1,0 +1,1 @@
+ URL : "https://github.com/pixijs/pixi-filters/issues/27" TITLE : deprecate bower support BODY : bower support has been dropped in favor of using npm/yarn in pixijs. should drop support for it here and undo the complex publish process.

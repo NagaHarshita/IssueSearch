@@ -1,0 +1,1 @@
+ URL : "https://github.com/dusterio/lumen-passport/issues/19" TITLE : passport vue components BODY : passport comes originally with three vue components for a default frontend. => https://laravel.com/docs/5.3/passport frontend-quickstart is there a simple way to integrate these components for lumen?

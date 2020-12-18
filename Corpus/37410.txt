@@ -1,0 +1,1 @@
+ URL : "https://github.com/SpineEventEngine/gae-java/issues/32" TITLE : make ci build fester BODY : currently, the ci build runs for near 5 minutes. to make it faster, we may add caches for the gradle dependencies. also, to make the log more informative, we may want to grep the output of the execution.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/riboseinc/ribose-iso/issues/9" TITLE : generate word output BODY : for pasting into iso word template, or at least to generate a word document for iso consumption. default pathway would be iso xml to docbook via xslt. 1. asciidoc -> iso-xml the format we're doing -> docbook -> word

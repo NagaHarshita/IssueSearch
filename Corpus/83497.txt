@@ -1,0 +1,1 @@
+ URL : "https://github.com/genotrance/px/issues/14" TITLE : capturing error responses BODY : is there any reason why you are capturing the error response and sending back an error from simplehttp? this has been causing some issues in certain programs that are expecting a specific error to come back from a service. would it be possible to make this a toggleable configuration?

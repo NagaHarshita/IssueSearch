@@ -1,0 +1,1 @@
+ URL : "https://github.com/Mashape/kong/issues/2356" TITLE : req http/2 push manifest BODY : summary it would be awesome if this could read an http/2 push manifest https://github.com/googlechrome/http2-push-manifest and generate necessary link headers

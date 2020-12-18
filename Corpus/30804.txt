@@ -1,0 +1,1 @@
+ URL : "https://github.com/skeeto/elisp-ffi/issues/16" TITLE : reading from arrays BODY : is there a good way to do this currently? if not, how does this look: c int get_foo void ; lisp setq ptr ffi-call libfoo.so get_foo :pointer ffi-read-offset ptr 0 ffi-read-offset ptr 4 this should also allow resolving 6.

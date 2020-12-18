@@ -1,0 +1,1 @@
+ URL : "https://github.com/ChallengesApp/ChallengesFrontend/issues/9" TITLE : clean up the testcomponent BODY : in 8 we got up and running with the server on the web client, but the code isn't pretty or modern. clean this up and make a more sturdy platform. maybe make it prettier too!

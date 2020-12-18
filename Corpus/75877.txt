@@ -1,0 +1,1 @@
+ URL : "https://github.com/FTSRG/ingraph/issues/170" TITLE : implement dml operations BODY : extracted from 51: _data manipulation_ x create merge set delete detach delete remove ~ triggers for merge ~ ~ on create ~ ~ on match ~

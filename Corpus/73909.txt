@@ -1,0 +1,1 @@
+ URL : "https://github.com/jberthault/MIDILab/issues/5" TITLE : directories not retained BODY : last directory visited should be used systematically. this should hold across sessions. concerning configurations, priority should be given to the directory containing the current configuration. - browsing files for player - browsing soundfonts - browsing configurations

@@ -1,0 +1,1 @@
+ URL : "https://github.com/unfoldingWord-dev/door43.org/issues/548" TITLE : add navigation for ta BODY : after 546, add a right hand navigation system that provides access to all manuals and modules based on the projects array in manifest.yaml and the toc.yaml files in each manual directory. the structure may already be handled by how the files are organized, based on 546.

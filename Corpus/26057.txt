@@ -1,0 +1,1 @@
+ URL : "https://github.com/Azure/spark-eventhubs/issues/202" TITLE : add pyspark support BODY : feature request please add support for pyspark. developers using the python api would also like to receive events from azure event hubs!

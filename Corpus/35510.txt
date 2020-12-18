@@ -1,0 +1,1 @@
+ URL : "https://github.com/CS2103AUG2017-T10-B1/main/issues/66" TITLE : enhance add function BODY : make the fields in 'add' optional. eg. n/name p/phone a/address allow email to be missing

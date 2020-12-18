@@ -1,0 +1,1 @@
+ URL : "https://github.com/AtomLinter/linter-eslint/issues/990" TITLE : what are the keybinds? BODY : question what are the keybindings for next/previous warning and next/previous error? and what are their identifiers for customizing them in the atom keymap?

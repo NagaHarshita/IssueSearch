@@ -1,0 +1,1 @@
+ URL : "https://github.com/AlexNastin/NCC-OrderEntry/issues/2" TITLE : fix api in all controllers BODY : @requestmapping value = /api/v1/catalog/categories -> @requestmapping value = /catalog/categories

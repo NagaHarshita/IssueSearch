@@ -1,0 +1,1 @@
+ URL : "https://github.com/sethjuarez/numl/issues/76" TITLE : how to load saved models? BODY : after using > void save string file ; to save the trained model, how to load the model again?

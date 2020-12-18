@@ -1,0 +1,1 @@
+ URL : "https://github.com/Kronuz/Kronuz-Theme/issues/5" TITLE : strange color scheme BODY : ! image https://user-images.githubusercontent.com/16699909/30162902-6ff739ee-93df-11e7-8bfd-5453bd41e37c.png config: { color_scheme : packages/user/sublimelinter/kronuz sl .tmtheme , theme : theme - kronuz.sublime-theme } what am i doing wrong?

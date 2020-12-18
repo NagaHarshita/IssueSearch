@@ -1,0 +1,1 @@
+ URL : "https://github.com/immortal/immortal/issues/34" TITLE : question - log throughput BODY : when i run my app via immortal with yml config, if i don't specify the log option, i don't see any logs in my console, apart from process starts and exists. is it possible to have the logs sent to the console from a running process?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/datosgobar/geoandino-theme/issues/43" TITLE : campos del datajson BODY : hay campos que no son obligatorios en geonode y hace que el data.json no valide de primera.

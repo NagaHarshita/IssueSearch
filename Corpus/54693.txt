@@ -1,0 +1,1 @@
+ URL : "https://github.com/sobhe/hazm/issues/110" TITLE : hazm-0.5.3 & stopwords BODY : بسم الله الرحمن الرحیم با سلام بنده نسخه جدید هضم رو نصب کردم ولی خطای زیر رو میده: from hazm import stopwords importerror: cannot import name 'stopwords' نسخه هضم موجود: successfully installed hazm-0.5.3 با تشکر فراوان

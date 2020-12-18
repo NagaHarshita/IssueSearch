@@ -1,0 +1,1 @@
+ URL : "https://github.com/youyongsong/uam/issues/38" TITLE : uam expose function BODY : use uam expose <app name> <entrypoint> to expose external app's the entrypoint.

@@ -1,0 +1,6 @@
+ URL : "https://github.com/NSI-IT/FDI-ECOMSITE/issues/46" TITLE : recently viewed products BODY : as a user i would like to view recently viewed products listed so that i can quickly navigate back to products which i wish to purchase. - verify that i will see recently viewed products listed in a carousal view.
+- verify that products will be listed by:- 1. name
+2. image
+3. price
+4. link to redirect to product's detail page
+5. call to action- add to cart

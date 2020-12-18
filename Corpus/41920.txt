@@ -1,0 +1,1 @@
+ URL : "https://github.com/servocoder/RichFilemanager/issues/215" TITLE : add refresh ui button BODY : add refresh button to the ui header and create appropriate method. should update content of the currently open folder

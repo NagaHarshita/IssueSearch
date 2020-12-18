@@ -1,0 +1,1 @@
+ URL : "https://github.com/justimmo/php-sdk/issues/56" TITLE : remove v1 namespaces BODY : remove v1 namespaces as php-sdk major version is bound to a specific major api version

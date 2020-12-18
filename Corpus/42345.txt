@@ -1,0 +1,1 @@
+ URL : "https://github.com/mawlle/Stagecast-ios-spotify/issues/2" TITLE : autentication of user BODY : - authenticate the user if she has not been logged in before - make the user stay authenticated if she has logged in once

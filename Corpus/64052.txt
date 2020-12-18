@@ -1,0 +1,1 @@
+ URL : "https://github.com/tebjan/VVVV.Audio/issues/162" TITLE : filestream error output BODY : when the filestream doesn't work because the file is corrupt, it cannot play the codec, it cannot find the file or the file is locked it doesn't tell me what's wrong. tty is the only solution so far. maybe a boolean error pin is enough as well.

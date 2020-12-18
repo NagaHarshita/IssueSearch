@@ -1,0 +1,1 @@
+ URL : "https://github.com/leachim6/hello-world/issues/395" TITLE : list langs.py doesn't work BODY : unless you're a python junkie. it uses structures only available in python 3.6 released december 2016. normal users may be using lts versions that can easily be two years old python 3.4 . the oldest _currently supported_ linux lts versions are of at least 2012 vintage python 3.2

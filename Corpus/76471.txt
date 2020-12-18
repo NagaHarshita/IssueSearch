@@ -1,0 +1,1 @@
+ URL : "https://github.com/leo7044/StArPl/issues/1" TITLE : kurztext - sonderzeichen BODY : wie üblich kracht es bei den sonderzeichen beim kurztext. vermutung: das &-zeichen lösung: .serialize nur für alle anderen vars verwenden, die kurztext-var per data{}-json übertragen vermutlich eine extra-abfrage - mal guckseln

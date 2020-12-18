@@ -1,0 +1,1 @@
+ URL : "https://github.com/NCEAS/metacatui/issues/255" TITLE : add titles to taxa tables BODY : each taxa table should have a title above it, such as species 1, species 2, etc. to indicate why there are multiple tables. during ux testing, it was not obvious what the second table was for once it appeared. there is some help text that explains it, but that is not always noticed.

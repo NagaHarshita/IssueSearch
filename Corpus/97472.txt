@@ -1,0 +1,2 @@
+ URL : "https://github.com/ISISComputingGroup/IBEX/issues/1941" TITLE : gui: bundle jre on windows BODY : to make life easier we can bundle the jre with the gui. it makes the disk footprint bigger by about 30% but it might make life easier for users as they don't need to install java and all the associated crud .
+and it makes our life easier as we can ensure the correct jre is being used. it only requires a top-level folder called jre adding with the standard jre layout; eclipse will then use that by default.

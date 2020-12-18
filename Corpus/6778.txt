@@ -1,0 +1,1 @@
+ URL : "https://github.com/coreos/etcdlabs/issues/204" TITLE : cache with etcd BODY : currently user-facing cluster state has separate in-memory cache implementation. for the sake of fun, store this in a separate single-node etcd cluster.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/chocolatey/ChocolateyGUI/issues/527" TITLE : search only on enter BODY : if i enter something in the search box, search is started, after a very short amount of time after stopping typing. this can be disruptive for the user. i would suggest to either only search on enter plus add a search button or increase the time to start the search.

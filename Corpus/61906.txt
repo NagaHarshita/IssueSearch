@@ -1,0 +1,1 @@
+ URL : "https://github.com/ioBroker/ioBroker.s7/issues/7" TITLE : bump node-snap7 version BODY : since version 0.4.0 node-snap7 supports a set of platforms and node versions as prebuilt binaries that are automatically downloaded on installation. compilation is now the fallback. maybe this is interesting for you.

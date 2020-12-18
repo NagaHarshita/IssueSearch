@@ -1,0 +1,1 @@
+ URL : "https://github.com/fugazi-io/webclient/issues/67" TITLE : http get fails BODY : executing the following: get http://www.mocky.io/v2/5185415ba171ea3a00704eed results in: > http request failed 0 : seems that the response returned is undefined , but it works using other ways in a new tab in chrome and in paw

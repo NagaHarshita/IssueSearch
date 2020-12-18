@@ -1,0 +1,1 @@
+ URL : "https://github.com/vuejs-templates/pwa/issues/130" TITLE : caching external resource BODY : hi guys, i want to cache external resource, an image from dropbox or s3, but don't know where to include it in the service-worker-prod file. please i need help with this

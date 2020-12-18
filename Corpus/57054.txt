@@ -1,0 +1,1 @@
+ URL : "https://github.com/tiilt-a-team/finemotor/issues/7" TITLE : peyetribe and eyetribe BODY : work with python 3 package, peyetribe, to connect to eyetribe and get tracking data - currently getting block on server from eyetribe, looking into connection interface

@@ -1,0 +1,1 @@
+ URL : "https://github.com/pulsedemon/git-switch/issues/5" TITLE : implement remove command BODY : the remove command should prompt the user for information relevant to the user that they want to remove. it would be a full name, partial name, email address, etc. as long as the input has a unique match to something in the config, it qualifies for removal.

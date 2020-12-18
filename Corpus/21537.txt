@@ -1,0 +1,1 @@
+ URL : "https://github.com/WatPi/WatPi/issues/58" TITLE : fix rover movement BODY : currently input from site to rover is broken, with error 500 global name move_rover is not defined. <img width= 1384 alt= screen shot 2017-10-13 at 12 29 20 am src= https://user-images.githubusercontent.com/18458620/31546325-b76656d4-afd7-11e7-9f70-18fa49018e0c.png >

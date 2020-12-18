@@ -1,0 +1,1 @@
+ URL : "https://github.com/django-compressor/django-compressor/issues/867" TITLE : add support brotli BODY : simillar like compressor.storage.gzipcompressorfilestorage add brotli compression. on python you can use brotlipy https://pypi.python.org/pypi/brotlipy/0.7.0 library.

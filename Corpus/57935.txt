@@ -1,0 +1,1 @@
+ URL : "https://github.com/mschwemer/static_info_tables_de/issues/1" TITLE : require section broken BODY : the version constraint of typo3 is broken in the current version, this preventing an install of the extension via composer. solution: fix it :-

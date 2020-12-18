@@ -1,0 +1,1 @@
+ URL : "https://github.com/zslayton/cron/issues/10" TITLE : support @ shorthand BODY : support expressions like @hourly and @weekly .

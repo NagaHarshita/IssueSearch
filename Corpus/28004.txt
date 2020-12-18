@@ -1,0 +1,1 @@
+ URL : "https://github.com/christophergandrud/networkD3/issues/165" TITLE : example not working BODY : on http://christophergandrud.github.io/networkd3/, you have the url for the flare data as ending master/jsondata//flare.json . i believe it should be master/jsondata/flare.json one forward slash

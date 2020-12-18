@@ -1,0 +1,1 @@
+ URL : "https://github.com/veloce/lichobile/issues/694" TITLE : improve api/status BODY : - store in localstorage already prompted warnings to no show at every start - send app version, hardware, os, etc maybe just user agent - handle server response for a specific version like a broken version

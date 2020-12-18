@@ -1,0 +1,1 @@
+ URL : "https://github.com/bricelam/ImageResizer/issues/47" TITLE : unfreeze the ui BODY : may i suggest to add some application.doevents in the loop to help unfreeze explorer.exe ui when we ask to resize a lot of images.

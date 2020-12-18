@@ -1,0 +1,1 @@
+ URL : "https://github.com/simulationcraft/simc/issues/3923" TITLE : wrong dps simulation BODY : when i sim when i sim feet=softstep_boots_of_tracking,id=150528,bonus_id=3589/3590 i get way less dps then when i sim feet=corruptionfused_stompers,id=144490,bonus_id=3418/1557/3337. as the corruption feets is 915 and with the stats it has it should be more dps output.

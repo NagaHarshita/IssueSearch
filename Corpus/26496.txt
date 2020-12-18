@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/BashOnWindows/issues/1901" TITLE : bash hangs on mv .. BODY : any mv command that involves a .. in the path hangs bash every time: $ mv scripts_general/ ../scripts/azure

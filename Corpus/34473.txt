@@ -1,0 +1,1 @@
+ URL : "https://github.com/erikdmitchell/fantasy-cycling/issues/47" TITLE : check if team active BODY : a new db col active marks if one is active or not. only active teams should be displayed. this allows a user to delete a team, but we retain it for historical purposes.

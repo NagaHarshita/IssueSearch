@@ -1,0 +1,1 @@
+ URL : "https://github.com/laravel/framework/issues/20828" TITLE : laravel new appname issue BODY : - laravel version: 5.5.0 - php version: 7.1 - database driver & version: na description: when using larval new appname command getting the following error https://cl.ly/mfjk steps to reproduce: larval new appname

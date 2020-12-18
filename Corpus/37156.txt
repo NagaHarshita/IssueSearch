@@ -1,0 +1,1 @@
+ URL : "https://github.com/dschnelldavis/angular2-json-schema-form/issues/147" TITLE : large output bundles BODY : x bug report the build seems to be including several of the large peer dependencies e.g. @angular/material into the generated bundles and creating unnecessarily large js file ~2mb . this is currently still an issue as of 49481d9.

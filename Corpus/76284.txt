@@ -1,0 +1,1 @@
+ URL : "https://github.com/jakob/Postico/issues/368" TITLE : is distinct from -filter BODY : is distinct from should be available as a filter. i can't really think of a use for is not distinct from over the available filters is null and simple equality.

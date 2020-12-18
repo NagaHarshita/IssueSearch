@@ -1,0 +1,1 @@
+ URL : "https://github.com/NLeSC/root-conda-recipes/issues/28" TITLE : python 3.6 builds? BODY : in the ci for rootpy i'd like to run tests against python 3.6 where there have been some bytecode changes. could you provide root builds for 3.6?

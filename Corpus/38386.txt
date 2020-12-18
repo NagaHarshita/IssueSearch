@@ -1,0 +1,1 @@
+ URL : "https://github.com/zoff-music/zoff/issues/162" TITLE : persistent user base BODY : use mongodb for checking what lists users are in, and if they're offline. same with checking the total number of listeners, names and unique ids. this would enable clustering and such.

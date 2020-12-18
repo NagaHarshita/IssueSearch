@@ -1,0 +1,1 @@
+ URL : "https://github.com/jsoverson/grunt-open/issues/34" TITLE : open file only if exists BODY : i generate a html report tests fail case , and then want to open it, only if its generated. i want to ignore the open skip with success , in case there is no report-file. tests success case is there a simple way without pull-request or another npm package?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ruslanys/vkmusic/issues/20" TITLE : need to upgrade decrypt.js BODY : вк изменил алгоритм шифрования адресов, необходимо обновить скрипт decrypt.js для восстановления функциональности приложения.

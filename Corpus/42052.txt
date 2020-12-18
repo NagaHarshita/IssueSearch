@@ -1,0 +1,1 @@
+ URL : "https://github.com/adownard/Mandelbrot/issues/6" TITLE : add vpa functionality BODY : if scale between double and quad precision, use quad. if more, use variable. also implement for explore_click.

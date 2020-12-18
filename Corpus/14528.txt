@@ -1,0 +1,1 @@
+ URL : "https://github.com/dastyk/SE/issues/306" TITLE : async in managers BODY : make sure that the renderable and material manager loads resources with async

@@ -1,0 +1,1 @@
+ URL : "https://github.com/GIPAT-Polyshaper/PolyShaper_inkscape/issues/20" TITLE : change cut border BODY : cut border should be specified in terms of a margin around the axis-aligned bounding rectangle of the path to cut, not of distance from workpiece border. change ui accordingly: checkbox is add margin and editbox is margin thickness

@@ -1,0 +1,1 @@
+ URL : "https://github.com/stmorgan/pythonNNexample/issues/2" TITLE : runtime error line 82 BODY : this line produces a syntax error on my machine: 82 | print error: + str np.mean np.abs l2_error

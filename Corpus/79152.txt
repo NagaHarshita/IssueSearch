@@ -1,0 +1,1 @@
+ URL : "https://github.com/ColdeGarage/RunRRR-iOS/issues/1" TITLE : rule of naming variables BODY : please follow the rule to name the variable 1. the first character of class should always be capital 2. the first character of the variable should always be lower case 3. variable should be camel-case . i.e. randomnum, userid

@@ -1,0 +1,1 @@
+ URL : "https://github.com/xmos/lib_tsn/issues/29" TITLE : spelling error in avb.xc BODY : there are 8 references to stream_mutlicast_filter in avb.xc https://github.com/xmos/lib_tsn/blob/master/lib_tsn/src/avb/avb.xc . try as i might, i can't find the word mutlicast in the dictionary... 😉 should be stream_multicast_filter .

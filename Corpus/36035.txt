@@ -1,0 +1,1 @@
+ URL : "https://github.com/rexpan/choco-noto/issues/1" TITLE : font zip url changed BODY : hi, installing via choco, i noticed that this package refers to an old url, with .zip of about 500mb, while the main page drives to: https://noto-website-2.storage.googleapis.com/pkgs/noto-hinted.zip of about 1.1gb. can you update, please? :

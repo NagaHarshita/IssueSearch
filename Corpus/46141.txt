@@ -1,0 +1,1 @@
+ URL : "https://github.com/CyclopsMC/IntegratedDynamics/issues/362" TITLE : limit nbt value sizes BODY : large nbt tags can cause network issues when sent from server to client. so make sure we limit the size somehow.

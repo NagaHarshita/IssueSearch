@@ -1,0 +1,1 @@
+ URL : "https://github.com/gdoenlen/apexstruct/issues/4" TITLE : style & mutability BODY : update all of the files to fix the style of the code and mutability of final/non-final variables and method parameters.

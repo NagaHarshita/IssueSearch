@@ -1,0 +1,1 @@
+ URL : "https://github.com/mbesancon/WebFuncs.jl/issues/2" TITLE : robust error handling BODY : handle possible failures: server status failing function: add attributes to response? invalid input: return status 400 + explanation

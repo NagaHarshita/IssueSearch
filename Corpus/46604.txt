@@ -1,0 +1,1 @@
+ URL : "https://github.com/brightcove/videojs-overlay/issues/47" TITLE : missing build version BODY : i am working on a project that does not use npm anywhere in the dev environment. the environment would be kept clean if we could have a built version of the js/scss files to directly include in the browser. may we?

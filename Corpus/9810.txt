@@ -1,0 +1,1 @@
+ URL : "https://github.com/webtorrent/webtorrent-cli/issues/40" TITLE : add iina support BODY : iina https://github.com/lhc70000/iina is getting a lot of traction recently. it would be nice to have an option for streaming to it. it also supports picture in picture which i think is not supported by vlc.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jmcph4/timekeeper/issues/5" TITLE : ranged aggregate reports BODY : specifying a start and an end date for category-level aggregate reports would make quick dissemination of time usage information the goal of having reports in the first place feasible. for example, the aggregates for the past week-to-date.

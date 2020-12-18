@@ -1,0 +1,1 @@
+ URL : "https://github.com/sixty-north/cosmic-ray/issues/206" TITLE : add exception mutations BODY : one of the common issues i've seen in code is the exception handling which tends to be non selective. this can be verified with mutation over the exceptions which are raised. what do you say about adding it to cr?

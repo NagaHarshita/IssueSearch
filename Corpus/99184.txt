@@ -1,0 +1,1 @@
+ URL : "https://github.com/suchprogramming/doge_blog_rails_5/issues/7" TITLE : markdown support for posts BODY : i'd like to add markdown support with a preview pane for posts. looks like there are several good options for parsers. will likely extend this functionality to the future comments system.

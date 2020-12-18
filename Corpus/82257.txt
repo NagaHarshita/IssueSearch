@@ -1,0 +1,1 @@
+ URL : "https://github.com/cjoudrey/graphql-schema-linter/issues/10" TITLE : add plugin to graphql-cli BODY : we should add a plugin to graphql-cli https://github.com/graphcool/graphql-cli to expose the schema linter as graphql schema lint or graphql lint --schema or something of that nature.

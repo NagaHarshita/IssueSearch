@@ -1,0 +1,1 @@
+ URL : "https://github.com/ReadyTalk/cukefarm/issues/45" TITLE : deprecate cukefarm 2.x BODY : per this comment https://github.com/readytalk/cukefarm/issues/40 issue-168934182 , only the current and previous two major versions are supported.

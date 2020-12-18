@@ -1,0 +1,1 @@
+ URL : "https://github.com/NickBellamy/Testing-Grounds/issues/7" TITLE : add crouching ability BODY : the input bindings are already there, but the functionality needs to be implemented. animations blends will need to be configured on the third person character to get the player's character to animate correctly while crouching.

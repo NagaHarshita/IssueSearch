@@ -1,0 +1,1 @@
+ URL : "https://github.com/clcarwin/convert_torch_to_pytorch/issues/23" TITLE : lua/torch to pytorch BODY : could someone help convert torch files with .lua extension like this https://github.com/mdtux89/amr-eager/blob/master/nnets/classify.lua into pytorch?

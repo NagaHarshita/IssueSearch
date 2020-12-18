@@ -1,0 +1,1 @@
+ URL : "https://github.com/quizlet/android-javascript-performance-testing/issues/4" TITLE : how to debug j2v8? BODY : hi! i have read article about javascript engines for android. could you tell how are you debugging j2v8 environment javascript on a native app? is it possible to debug via “chrome://inspect”? thanks in advance!

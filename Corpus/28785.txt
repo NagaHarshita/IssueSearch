@@ -1,0 +1,1 @@
+ URL : "https://github.com/platforg/adobe-connect/issues/7" TITLE : http not supported! BODY : first of all thanks for your elegant library. as i mentioned in title, cause of hard coding https in request class's constructor, then i cannot use this library by http !

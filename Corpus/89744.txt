@@ -1,0 +1,1 @@
+ URL : "https://github.com/JuliaLang/PkgDev.jl/issues/130" TITLE : register: update git url? BODY : i ran pkgdev.register after i renamed a github repo, but neglected to change the local remote origin. as a result, it points to a bad url. is there any way to update this?

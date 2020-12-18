@@ -1,0 +1,1 @@
+ URL : "https://github.com/Aqu1nt/ng-next/issues/4" TITLE : create jsnext:main version BODY : use babel without browserify and babel-preset-latest, modules: false to create a directory of es-import modules. this allows rollup and webpack to perform tree-shaking

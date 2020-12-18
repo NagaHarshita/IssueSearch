@@ -1,0 +1,1 @@
+ URL : "https://github.com/zeit/next.js/issues/1014" TITLE : can not run next start BODY : even though i run next build , i am not able to run next start . i can confirm that a .next folder is created, but i get the following error - could not find a valid build in the '.next' directory! try building your app with 'next build' before starting the server.

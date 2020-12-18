@@ -1,0 +1,1 @@
+ URL : "https://github.com/pearcem0/aws-quick-ssh/issues/3" TITLE : integrate with ssh aliases BODY : add feature to integrate with ssh aliases in ssh config file instead of external file

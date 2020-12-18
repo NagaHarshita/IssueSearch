@@ -1,0 +1,1 @@
+ URL : "https://github.com/optick/vueform/issues/22" TITLE : empty grouped value issue BODY : don't create an array of values for named groups when the element doesn't have a value.

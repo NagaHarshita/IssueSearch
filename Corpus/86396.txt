@@ -1,0 +1,1 @@
+ URL : "https://github.com/vedderb/bldc-tool/issues/22" TITLE : how to center the servo ? BODY : hi, i am using servo-out enabled firmware. can you help me to understand how to take care of the centering of the signal that go to the servo ? my car is turning left in its zero mode

@@ -1,0 +1,1 @@
+ URL : "https://github.com/almende/vis/issues/2548" TITLE : graph3d get y-axis range BODY : hello, is it possible to get the y-axis range for a graph? if not, i would like to request it please be added. i think the ideal place for it would be in the graph2d.getwindow function. thanks

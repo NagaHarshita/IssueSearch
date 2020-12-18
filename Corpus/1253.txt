@@ -1,0 +1,8 @@
+ URL : "https://github.com/node-gh/gh/issues/516" TITLE : my name bil BODY : __uid_title__ uid-__uid_identifier__ https://acmsviseo.atlassian.net/browse/__uid_jira_identifier__ __user_story__ __user_story_identifier__ https://acmsviseo.atlassian.net/browse/__user_story_jira_identifier__ . what to expect? we expect to find specifications related to the user story https://acmsviseo.atlassian.net/browse/__user_story_jira_identifier__ in __playground_page_name__ playground page into __module_name__ playground https://github.com/a-cms/mycms-ios/blob/develop/__module_name__/__playground_page_name__.playground/pages/ . implementation should be stored into __viper_prefix__ folder https://github.com/a-cms/mycms-ios/tree/__branch_name__/__module_name__/__module_name__/__viper_prefix__ . checklist - create __playground_page_name__ playground page
+- add related issue to github issues section in __playground_page_name__ playground page
+- fill the __playground_page_name__ playground page with known specs
+- ⛔️ validate storyboard specification zeplin - ⛔️ validate endpoint specification - create storyboard issue
+- create endpoint issue
+- ⛔️ validate all scenarios from pos - ⛔️ validate the app workflow prott - define business logic protocols protocol planning - create all necessary viper files prefixed by __viper_prefix__ - update overview playground page in __module_name__ playground
+- create user interface issue
+- create business logic issue ⚠️ specification issues none related github issue none

@@ -1,0 +1,1 @@
+ URL : "https://github.com/zdzhaoyong/Map2DFusion/issues/5" TITLE : core dumped issue BODY : i am unable to solve core dumped issue. i am changing to qt4 like this qmake -qt=qt4 --version. then i run make file again. it executes. but main program again gives core dumped issue.

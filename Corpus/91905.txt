@@ -1,0 +1,1 @@
+ URL : "https://github.com/CreativeDream/jQuery.filer/issues/171" TITLE : upload all in one request BODY : it's obvious that jquery filer send separate request for each file to upload it. is that possible to send all drop or selected files information in one request?

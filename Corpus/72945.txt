@@ -1,0 +1,1 @@
+ URL : "https://github.com/LeftySolara/ncmpclone/issues/6" TITLE : clean up main event loop BODY : we should probably find a cleaner and more scalable way to handle the main event loop. a long switch statement is fine for now, but will likely become a problem later on.

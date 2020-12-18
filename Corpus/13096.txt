@@ -1,0 +1,1 @@
+ URL : "https://github.com/verilog-to-routing/vtr-verilog-to-routing/issues/205" TITLE : support for vpr5 BODY : is there any reason to keep support for vpr5 for odin? right now setting -dvpr6 to -dvpr5 in odin cmake file prevent successfull compilation.

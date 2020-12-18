@@ -1,0 +1,1 @@
+ URL : "https://github.com/hexagon06/MediaManager/issues/4" TITLE : add to current playlist BODY : - if a playlist is in edit mode, show option add to playlist when right clicking in a group or single file of media - if selected, add to the current playlist

@@ -1,0 +1,1 @@
+ URL : "https://github.com/42ity/FTY/issues/1" TITLE : new agent fty-metric-snmp BODY : agent for creating metrics using snmp and generally with anything possible in lua or script https://github.com/thalman/fty-metric-snmp this way we can monitor not only snmp enabled servers, disk-arrays. not only power devices.

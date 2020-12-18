@@ -1,0 +1,1 @@
+ URL : "https://github.com/puppetlabs/pdk/issues/247" TITLE : include erb/epp validators BODY : since templates are pretty important erb and epp should both include validators

@@ -1,0 +1,1 @@
+ URL : "https://github.com/efim1382/kids-world-frontend/issues/10" TITLE : equals password fields BODY : в ветке refactore-fields исправить баг: если добавить данные в поле с паролем, потом добавить в поле с повторным паролем и снова изменить данные в первом поле с паролем, второе поле не покажет ошибку на неравенство

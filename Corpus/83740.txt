@@ -1,0 +1,1 @@
+ URL : "https://github.com/istio/proxy/issues/423" TITLE : cleanup proxy_debug image BODY : debug is good, kitchen sink is bad now that we have sudo apt-get install working we don't need to install everyone's random editor and other huge footprint packages

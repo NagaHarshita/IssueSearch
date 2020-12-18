@@ -1,0 +1,1 @@
+ URL : "https://github.com/mapbox/mapbox-gl-draw/issues/608" TITLE : deploy 0.16.1 to the cdn BODY : 0.16.1 is tagged as a release https://github.com/mapbox/mapbox-gl-draw/releases and appears in the changelog.md however it's not on the cdn https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-draw/v0.16.1/mapbox-gl-draw.css

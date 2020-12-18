@@ -1,0 +1,1 @@
+ URL : "https://github.com/redbadger/website-honestly/issues/328" TITLE : make dev-static is broken BODY : the change to this line: https://github.com/redbadger/website-honestly/blob/master/webpack.dev.static.config.js l9 results in the output not being written to /dev-static/index.js which then fails the make dev-static build. @dstodolny this is what i mentioned yesterday.

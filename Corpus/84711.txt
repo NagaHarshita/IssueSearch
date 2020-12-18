@@ -1,0 +1,1 @@
+ URL : "https://github.com/guillermomartinez/filemanager-php/issues/5" TITLE : display _thumbs directory BODY : hello, since is possible to generate thumbnails of different sizes, it is possible to show the _thumbs directory in filemanager. since are being generate anyway, would be nice to make use of them. thank you

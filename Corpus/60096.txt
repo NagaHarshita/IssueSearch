@@ -1,0 +1,1 @@
+ URL : "https://github.com/ArnoRob1/Wordpress-OAI-PMH/issues/1" TITLE : what data does it use? BODY : hello! i'm trying to implement oai-pmh data provider service on a journal web-site based on wordpress. and i would like to ask you what data does this plugin use and where does it take from? i briefly looked through the code, but couldn't find the answer.

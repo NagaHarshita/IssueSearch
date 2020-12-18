@@ -1,0 +1,1 @@
+ URL : "https://github.com/DNS-OARC/dnscap/issues/100" TITLE : ia_str is not thread safe BODY : uses a function only static buffer.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/lmenezes/cerebro/issues/175" TITLE : self signed certificates BODY : hi, is there an option for host auth to add certificates root ca, ca, key and the possibility to add something like validate_certs: false ?

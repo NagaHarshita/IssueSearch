@@ -1,0 +1,1 @@
+ URL : "https://github.com/8BitPimp/scummvm/issues/3" TITLE : add true overlay support BODY : overlay functionality is very much hacked in at the moment. add a true overlay buffer to render into, and add a blend step to the output stage. - use alpha masking vs alpha blending - make modern skins work correctly

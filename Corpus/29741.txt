@@ -1,0 +1,1 @@
+ URL : "https://github.com/berzerk0/Probable-Wordlists/issues/14" TITLE : mix of line endings BODY : it seems to me everything under dictionary-style has crlf line endings. imho every file should have lf endings, so people don't end up with a mix of line endings after concatenating files.

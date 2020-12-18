@@ -1,0 +1,1 @@
+ URL : "https://github.com/adamski/soap-everywhere/issues/1" TITLE : invalid child type BODY : i try this wsdl : https://svn.apache.org/repos/asf/airavata/sandbox/xbaya-web/test/calculator.wsdl but got the error invalid child type at line 341 , wsdl.js

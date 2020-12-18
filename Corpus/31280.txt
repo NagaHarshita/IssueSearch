@@ -1,0 +1,1 @@
+ URL : "https://github.com/iaincollins/nextjs-starter/issues/41" TITLE : secure path example BODY : i was trying to figure out how would a path that needs authentication would work with this approach. for instance, if there's an admin area /admin/ , how could all that path get protected by the nextjs-starter approach?

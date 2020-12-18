@@ -1,0 +1,1 @@
+ URL : "https://github.com/learn-co-curriculum/javascript-intro-to-functions-lab/issues/44" TITLE : intro to functions lab BODY : for now, open up index.js in your text editor. you should see, well, nothing. we'll fix that soon. now open up test/index-test.js. hey, there's something! what's all of this stuff doing? switch test/index-test.js with root.js

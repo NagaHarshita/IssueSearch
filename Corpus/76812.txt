@@ -1,0 +1,1 @@
+ URL : "https://github.com/canjs/can-event/issues/30" TITLE : make lifecycle mixinable BODY : so that you can provide your own base addeventlistener and still get all of the goodness that lifecycle provides.

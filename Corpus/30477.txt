@@ -1,0 +1,1 @@
+ URL : "https://github.com/zoonproject/zoon/issues/390" TITLE : plot workflow issue BODY : plot workflow produces a blank plot before the workflow 'diagram' plot. causes unnecessary white space in rmarkdown documents

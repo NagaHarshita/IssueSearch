@@ -1,0 +1,1 @@
+ URL : "https://github.com/cernanalysispreservation/cap-client/issues/48" TITLE : cli: clean output BODY : by default client shouldn't display all the debug information, with info or debug at the beginning, we want to just see the output. make possible to see more verbose output with --verbose flag.

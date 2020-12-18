@@ -1,0 +1,1 @@
+ URL : "https://github.com/mailjet/mailjetBundle/issues/10" TITLE : send mail in command BODY : hi, i want to send an email within a command, and it doesn't seem to work. don't know why. did i miss something ? it works perfectly in a controller. thanks.

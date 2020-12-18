@@ -1,0 +1,1 @@
+ URL : "https://github.com/dfrencham/ms-signalr-client/issues/9" TITLE : jquery v3 support BODY : hello, have you considered supporting jquery 3.x? i am using webpack on my project and i just realized that jquery is been duplicated because your dependencies are set to stop on version 2 jquery : ^2.2.0 . is there any reason why jquery 3.x is not supported? thanks,

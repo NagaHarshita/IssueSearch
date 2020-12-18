@@ -1,0 +1,1 @@
+ URL : "https://github.com/juliarLang/juliarFuture/issues/9" TITLE : add support for database BODY : in fastcgi mod, it is important to get some type of database so that the information can be stored.

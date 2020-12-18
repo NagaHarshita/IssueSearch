@@ -1,0 +1,1 @@
+ URL : "https://github.com/primus/primus/issues/585" TITLE : chaning the query string BODY : version: 7.0.1 environment: - operating system: win 10 - browser: chrome - node.js: 7.10.0 is it possible to change the query string? so instead of /primus?_primuscb=lm5zlj_ something like primus?_websocket=lm5zlj_ ?

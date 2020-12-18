@@ -1,0 +1,13 @@
+ URL : "https://github.com/Zimmi48/bugzilla-test/issues/2458" TITLE : minor typo in code sample BODY : note: the issue was created automatically with bugzilla2github tool bugzilla bug id: 2458
+date: 2010-12-15 18:26:34 +0100
+from: luc traonmilin &lt;<luc.traonmilin@gmail.com>&gt;
+to: cc: @_herbelin, @_pirbo last updated: 2011-05-03 16:09:23 +0200 bugzilla comment id: 3857
+date: 2010-12-15 18:26:34 +0100
+from: luc traonmilin &lt;<luc.traonmilin@gmail.com>&gt; in the classical reasoning section 1.3.4 this line fails: coq < require import classical. i believe classical should be capitalized. thanks. bugzilla comment id: 3864
+date: 2010-12-18 17:18:27 +0100
+from: @_herbelin the pdf file at http://coq.inria.fr/distrib/current/files/tutorial.pdf is ok. the html file produced by compiling the coq archive is ok too. the problem only occurs on the web site, what is very strange. i forward the problem to our webmaster. bugzilla comment id: 4005
+date: 2011-04-06 14:47:14 +0200
+from: @_pirbo still remain !
+how can we act ? bugzilla comment id: 4099
+date: 2011-05-03 16:09:23 +0200
+from: jean-marc notin &lt;<notin@lix.polytechnique.fr>&gt; fixed.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/barteksc/AndroidPdfViewer/issues/189" TITLE : bookmarks in pdf file BODY : please is there a proper procedure to get the bookmarks in a pdf file. because it is not working. here is my code. pdfview.fromassets pdf_file .load ; pdfview.gettableofcontents .size ; // returns 0. zero

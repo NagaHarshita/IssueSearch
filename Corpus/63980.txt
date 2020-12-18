@@ -1,0 +1,1 @@
+ URL : "https://github.com/mvetsch/JWT4B/issues/17" TITLE : feature: cookie support BODY : cookies can be used to transfer jwt's too: https://de.wikipedia.org/wiki/json_web_token .c3.9cbertragung_mit_http featue: add cookie support nice to have: check for secure and httponly flags too

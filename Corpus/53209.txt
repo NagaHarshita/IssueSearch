@@ -1,0 +1,1 @@
+ URL : "https://github.com/AdrianCollado/Solum/issues/23" TITLE : design input interface BODY : the basic input interface should be designed. at a minimum, it needs to support querying of both the keyboard and mouse. additional support for other peripherals such as multiple dof degree-of-freedom devices such as joysticks and 3d mice can be added optionally.

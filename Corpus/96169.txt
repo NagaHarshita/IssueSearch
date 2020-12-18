@@ -1,0 +1,1 @@
+ URL : "https://github.com/alexzaitsev/apk-dependency-graph/issues/26" TITLE : empty list of dependencies BODY : hello. i'm trying to build a graph for my app, but i get an empty dependency array. var dependencies = {links: }; p.s. i'm use apktool 2.3.0.

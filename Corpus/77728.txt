@@ -1,0 +1,1 @@
+ URL : "https://github.com/peeringdb/peeringdb/issues/221" TITLE : notes: consider newlines BODY : please consider the newlines in the notes section, currently, newlines are scrambled: https://www.peeringdb.com/asn/20811 replace: with: <br /> while preparing the content for the browser in the code path where html is escaped .

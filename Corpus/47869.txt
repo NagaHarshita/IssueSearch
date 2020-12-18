@@ -1,0 +1,1 @@
+ URL : "https://github.com/resfilter/aldl/issues/9" TITLE : question about config BODY : sorry to open a new issue on an old project but i do have a quick question. does the aldl interface have the ability to display fuel level? if not i can always use the gpio pins on an rpi to get a number, but if it can read fuel level it can save me some work.

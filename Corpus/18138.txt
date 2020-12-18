@@ -1,0 +1,1 @@
+ URL : "https://github.com/TobiahRex/nj2jp/issues/7" TITLE : social media btns BODY : social media btns need an inner <span> inside the <button> with display: flex . safari only issue

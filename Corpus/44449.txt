@@ -1,0 +1,1 @@
+ URL : "https://github.com/sunng87/handlebars-iron/issues/66" TITLE : examples are outdated BODY : there is a problem with the examples for watching templates https://github.com/sunng87/handlebars-iron/blob/master/examples/watch_server.rs . no method named watch found for type std::sync::arc<hbs::handlebarsengine> in the current scope

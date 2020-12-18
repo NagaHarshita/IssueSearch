@@ -1,0 +1,1 @@
+ URL : "https://github.com/learn-co-curriculum/swift-math-readme/issues/9" TITLE : let r = y % x BODY : // if y and x are doubles let r = y % x // does not work let r_double = y.truncatingremainder dividingby: x // truncatingremainder dividingby: works fine though

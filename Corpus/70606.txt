@@ -1,0 +1,1 @@
+ URL : "https://github.com/KraigM/homebridge-wink/issues/82" TITLE : wink connection details BODY : i am trying to get wink client_id for that . they use website for this https://developer.wink.com/login listed below are required info . any one know what will be website & redirect uris? name of application : homebridge-wink website : ? redirect uris: ?

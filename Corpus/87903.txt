@@ -1,0 +1,1 @@
+ URL : "https://github.com/proot-me/PRoot/issues/132" TITLE : merge link2symlink brench BODY : when will the link2symlink option be added into the master brench? it's a useful feature that could help users who can't create hardlinks on restricted environments

@@ -1,0 +1,1 @@
+ URL : "https://github.com/pulp-platform/ri5cy_gnu_toolchain/issues/5" TITLE : support for std::thread? BODY : i am trying to build a project that works on both amd64 and arm, but with this toolchain i get this error: error: 'thread' in namespace 'std' does not name a type std::thread::id _call_thread_id; is there a way to enable this feature? best regards, michele

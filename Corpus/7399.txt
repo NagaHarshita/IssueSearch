@@ -1,0 +1,1 @@
+ URL : "https://github.com/charly3pins/checker/issues/1" TITLE : fix result mail BODY : currently it's sending email with invalid text from old project. we need to fix this text and send it to an email from a properties file instead of hardcoded one.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ParticipaPY/civic-crowdanalytics/issues/73" TITLE : add state to dataset BODY : add state to dataset draft, completed . when a dataset is created, it has a draft state. when we add all his related attributes and when we create the project, the dataset state is changed to completed

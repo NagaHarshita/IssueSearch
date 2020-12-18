@@ -1,0 +1,1 @@
+ URL : "https://github.com/SaloCreative/salo-cms/issues/9" TITLE : add basic products system BODY : fields: - title - slug - meta - content - featured image - gallery images - price - sku

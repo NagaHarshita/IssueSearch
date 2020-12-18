@@ -1,0 +1,1 @@
+ URL : "https://github.com/ebmdatalab/openprescribing/issues/685" TITLE : set up coveralls BODY : use https://coveralls.io/ to generate reports on builds. consider making a reduction in coverage a failure.

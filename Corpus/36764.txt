@@ -1,0 +1,1 @@
+ URL : "https://github.com/leafo/scssphp/issues/496" TITLE : import not working ? BODY : somehow my import does not import the variables leafo\scssphp\exception\compilerexception undefined variable $gray-base: line: 3 @import bootstrap/variables ; body { font-family: $gray-base; } -bootstap -- _variables.scss any suggestions ?

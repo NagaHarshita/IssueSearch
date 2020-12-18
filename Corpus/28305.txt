@@ -1,0 +1,1 @@
+ URL : "https://github.com/YunoHost-Apps/flarum_ynh/issues/44" TITLE : flarum sur jenkins. BODY : bonjour, comme le jenkins officiel est un peu occupé, j'ai décidé de créer un instance sur le jenkins du groupe apps : https://jenkins-apps.nohost.me/jenkins/ si l'app a besoin d'un test, on peut donc me demander ou demander à maxime.

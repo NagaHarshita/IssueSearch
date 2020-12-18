@@ -1,0 +1,1 @@
+ URL : "https://github.com/nhr/swn/issues/6" TITLE : revised world tags BODY : is it as simple as updating swn_data.sql ? or will there need to be some type of migration file to update the db? i'd be willing to write out the 40 new tags.

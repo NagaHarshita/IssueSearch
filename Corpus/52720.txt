@@ -1,0 +1,1 @@
+ URL : "https://github.com/gitpoint/git-point/issues/636" TITLE : crash when visited 528 BODY : our familiar error message, > views nested within a <text> must have a width and height

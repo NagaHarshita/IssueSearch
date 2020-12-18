@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpenShot/openshot-qt/issues/1110" TITLE : little translation mistake BODY : system details: operating system / distro: windows 10 pro openshot version: 2.4.1 the german translation de needs to be changed at the introduction video preview from ihre videovorschau kann hier ansehen werden. to ihre videovorschau kann hier angesehen werden. .

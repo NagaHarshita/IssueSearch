@@ -1,0 +1,1 @@
+ URL : "https://github.com/mohanagy/iLearn/issues/15" TITLE : too many eslint disable BODY : change the rule in your config to not check parameters. if eslint is being too strict, change a rule. https://github.com/mohanagy/ilearn/blob/master/src/server/server.js l1 http://eslint.org/docs/rules/no-unused-vars

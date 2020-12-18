@@ -1,0 +1,1 @@
+ URL : "https://github.com/libremesh/lime-sdk/issues/31" TITLE : --update-feeds by default? BODY : in my opinion cooker should update the feeds --update-feeds by default, and having a --no-update-feeds required for avoiding this. this would limit situations where users compile broken formware like here https://lists.libremesh.org/pipermail/lime-users/2017-october/000911.html .

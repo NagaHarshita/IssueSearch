@@ -1,0 +1,1 @@
+ URL : "https://github.com/carteiro/ceps/issues/6" TITLE : criar testes unitários BODY : para manter as informações armazenadas no banco de dados padronizadas, precisamos criar testes unitários, buscando verificar se todos os arquivos descritos estão conforme os padrões exigidos.

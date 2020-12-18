@@ -1,0 +1,1 @@
+ URL : "https://github.com/pocke/mry/issues/3" TITLE : support master version BODY : bash $ mry --target master .rubocop.yml this means unreleased .

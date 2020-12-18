@@ -1,0 +1,1 @@
+ URL : "https://github.com/fernandohackbart/bikeride-lagom/issues/179" TITLE : docker local registry BODY : configure a local registry for images built in the platform. use kubernetes and dc/os to run the local registry https://hub.docker.com/_/registry/ https://github.com/kubernetes/kubernetes/tree/master/cluster/addons/registry

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jbn/pathsjson/issues/15" TITLE : add reload operation BODY : this is useful in general, but it should also reload on reimport, if possible.

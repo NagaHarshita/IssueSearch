@@ -1,0 +1,1 @@
+ URL : "https://github.com/inconshreveable/go-update/issues/32" TITLE : bug in example? BODY : for... func doupdate url string error { resp, err := http.get url if err != nil { return err } defer resp.body.close err := update.apply resp.body, update.options{} if err != nil { // error handling } return err } i get: no new variables on left side of :=

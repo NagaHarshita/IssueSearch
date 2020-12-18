@@ -1,0 +1,1 @@
+ URL : "https://github.com/pyca/bcrypt/issues/131" TITLE : change bcrypt's tagline? BODY : current tag is modern password hashing for your software and your servers but we should be recommending scrypt over bcrypt and in the future potentially argon2id .

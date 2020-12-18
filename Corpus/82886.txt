@@ -1,0 +1,1 @@
+ URL : "https://github.com/ParsePlatform/parse-server-example/issues/331" TITLE : aws deploy, noob question BODY : i have my url http://sample-env.xxxx.us-west-2.elasticbeanstalk.com/ running but how can i get some response from parse server? http://sample-env.xxxx.us-west-2.elasticbeanstalk.com/parse is not working, any idea? thanks

@@ -1,0 +1,1 @@
+ URL : "https://github.com/marcusklaas/lisp-parser/issues/4" TITLE : list only lisp? BODY : could we write a lisp that has no integers, but only lists? where we would internally represent ints as ordinals maybe? we would have to do the recursion in the heap instead of the stack though, because it will probably overflow very quickly.

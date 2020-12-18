@@ -1,0 +1,1 @@
+ URL : "https://github.com/mischnic/python-ci/issues/76" TITLE : /latest not working BODY : also /api/--/latest/diff/5d1804bdab056dd6155a7877146c33bc returns 500

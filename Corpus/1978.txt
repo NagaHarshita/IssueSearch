@@ -1,0 +1,1 @@
+ URL : "https://github.com/JonathanAquino/apacheck/issues/1" TITLE : no date n.d. BODY : on line 9: year: ' \\d\\d\\d\\d|n\.d\. ', don't the two '.' need an extra escape? i tried: > references > > smith, j., & tree, t. n..d. ice cream and the state. elsevier, ny: new york. and the checker did not detect the incorrectly formatted date. thanks!

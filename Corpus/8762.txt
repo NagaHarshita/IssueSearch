@@ -1,0 +1,1 @@
+ URL : "https://github.com/appendonlylog/freelance0x/issues/13" TITLE : rewrite ui code BODY : use react and redux in a proper way, i.e. don't use connect in each component, use refs instead of document.getelementbyid , etc.

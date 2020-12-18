@@ -1,0 +1,1 @@
+ URL : "https://github.com/spring-projects/spring-petclinic/issues/267" TITLE : mismatch in mapping BODY : when you visit /owners you get a list of all owners. each owner is a link to its detail page e.g., owners/1 . when you visit /owners/ mind the trailing slash you get the same list. each owner, however, has the wrong link to its detail page i.e., owners/owners/1 .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/perfsonar/pscheduler/issues/532" TITLE : consider moving http logs BODY : consider moving the http logs for /pscheduler to another file and rotating them separately. the heavy use of it by the rest interface makes them grow quickly.

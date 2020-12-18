@@ -1,0 +1,1 @@
+ URL : "https://github.com/flix/flix/issues/323" TITLE : improve string support BODY : add support for string concatenation and other string operations from the java standard library.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/SkyLined/BugId/issues/51" TITLE : create dev branch BODY : development of new features should happen in a separate dev branch, so regular users do not experience wildly unreliable code.

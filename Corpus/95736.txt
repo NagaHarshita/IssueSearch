@@ -1,0 +1,1 @@
+ URL : "https://github.com/mindbender-studio/core/issues/86" TITLE : disable refresh on publish BODY : goal optimise publishing. motivation exporting animations can sometimes take longer than necessary due to viewport updates.

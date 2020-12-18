@@ -1,0 +1,1 @@
+ URL : "https://github.com/Drupal4Gov/Drupal-GovCon-2017/issues/537" TITLE : time zone display BODY : schedules on the user's account page shouldn't use local time zone. if someone presenting at 9am eastern, but their personal account time zone is central, it shows the wrong time for the presentation.

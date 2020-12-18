@@ -1,0 +1,1 @@
+ URL : "https://github.com/Viyom/ns-3-dev-git/issues/3" TITLE : track delivered data BODY : requirement: this will be required by prr algorithm. proposed approach: return change in sacked data from update of tcptxbuffer class. this summed up with change in change in headsequence can track delivered data and will be passed in dorecovery .

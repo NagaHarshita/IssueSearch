@@ -1,0 +1,1 @@
+ URL : "https://github.com/dwmkerr/docker-dynamodb/issues/5" TITLE : not working with aws cli BODY : hi, have you had any problems when using this with the aws cli? i'm able to work against the dynamodb instance from my code .net sdk but the cli does not return any data: aws dynamodb list-tables --endpoint-url http://localhost:8000 returns: { tablenames : } despite having tables.

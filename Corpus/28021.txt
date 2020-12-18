@@ -1,0 +1,1 @@
+ URL : "https://github.com/wekan/wekan-mongodb/issues/2" TITLE : excessive cpu usage BODY : https://github.com/wekan/wekan/issues/718 this issue also happened on your docker env. downgrading from node 6.10.0 to v4.8.1 solved the 100% cpu issue

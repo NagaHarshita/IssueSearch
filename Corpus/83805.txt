@@ -1,0 +1,1 @@
+ URL : "https://github.com/phalcon/phalcon-devtools/issues/1153" TITLE : code hints are incomplete BODY : phalcon is a very good framework, and i like it for it. when i use phalcon-devtools to generate prompt, there is no return value and no parameter explanation. can strengthen it?

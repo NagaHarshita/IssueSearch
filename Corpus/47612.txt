@@ -1,0 +1,1 @@
+ URL : "https://github.com/AlexanderFalk/hackernews_backend/issues/44" TITLE : post-methods as async BODY : trying to get rid of the readtimeout error. my theory is that our inputstream blocks requests if they appear too fast. async methods should fix this.

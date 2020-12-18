@@ -1,0 +1,1 @@
+ URL : "https://github.com/simphony/simphony-remote/issues/371" TITLE : implement image realms BODY : we should be able to have images belonging to one or more realms, so that we can have multiple instances at once, and provide for a list of available images without passing through the sqlite database.

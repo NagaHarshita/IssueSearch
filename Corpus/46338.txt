@@ -1,0 +1,6 @@
+ URL : "https://github.com/boss-developers/oblivion/issues/1477" TITLE : magic spell perks.esp BODY : <http://www.nexusmods.com/oblivion/mods/43268/?> requires:
+oblivion patch 1.2.0.214 official 1.2 patch obse 2.0 or higher recommended magic spell perks.esp
+crc: 50fa7b0d magic spell perks balanced.esp
+crc: d1b28cf9 magic skill perks nerfed.esp
+crc: 3baab9ae magic skill perks godlevel.esp
+crc: c2b56c8c no detected itm/udr's.

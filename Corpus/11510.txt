@@ -1,0 +1,1 @@
+ URL : "https://github.com/Minitour/AZTabBarController/issues/26" TITLE : how to set badge BODY : i have a tab named notification. i have to set badge count if i get the notification. how can i set the badge from appdelegate?

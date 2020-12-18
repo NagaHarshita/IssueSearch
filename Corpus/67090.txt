@@ -1,0 +1,1 @@
+ URL : "https://github.com/haml/haml/issues/924" TITLE : option :ugly is invalid BODY : env: development case: haml::template.options :ugly = true error: haml::templeengine: option :ugly is invalid thanks

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Kupoman/blendergltf/issues/61" TITLE : minify exported json BODY : the generated identifiers are quite verbose, producing larger than necessary files. i propose a setting that would compact all the identifiers in the file while preserving the necessary links. perhaps it could share an option with pretty-print json ?

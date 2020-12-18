@@ -1,0 +1,1 @@
+ URL : "https://github.com/The-Lounge/TheLounge/issues/47" TITLE : posting price field BODY : a price range should be associated with each posting to give buyers and indication of how much they will pay - postings have a minimum price and maximum price property - at least one must be defined, but both are optional - both properties are non-negative floats

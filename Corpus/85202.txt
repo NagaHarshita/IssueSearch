@@ -1,0 +1,1 @@
+ URL : "https://github.com/tolu360/react-native-google-places/issues/91" TITLE : error on current position BODY : typeerror: cannot read property 'getcurrentplace' of undefined when i try the example in the readme? the feature is not longer supported?

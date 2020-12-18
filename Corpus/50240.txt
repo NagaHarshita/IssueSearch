@@ -1,0 +1,1 @@
+ URL : "https://github.com/zieckey/etcdsync/issues/4" TITLE : why ignoring errors ? BODY : i don't understand why you ignore errors in new function https://github.com/zieckey/etcdsync/blob/master/mutex.go l45 i think it would be better to return error in new function with mutex: func new key string, ttl int, machines string mutex, error

@@ -1,0 +1,1 @@
+ URL : "https://github.com/css-modules/css-modules/issues/244" TITLE : question: tilde selector BODY : hi how do i reference a local class in the pcss file .myclass { &.selected ~ .myclass { } } should that be &.selected ~ :local .myclass or something?

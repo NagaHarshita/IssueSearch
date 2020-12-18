@@ -1,0 +1,1 @@
+ URL : "https://github.com/Pterodactyl/Panel/issues/837" TITLE : service file push/check BODY : either have the panel force the daemon to pull new/updated service files or have the daemon regularly check for updated service files. would make it easier for people making custom services.

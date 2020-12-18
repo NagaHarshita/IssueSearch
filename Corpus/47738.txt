@@ -1,0 +1,1 @@
+ URL : "https://github.com/Smurf-IV/Elucidate/issues/1" TITLE : project not buildable BODY : hi, there are multiple problems with sln and csproj. tried to get it working but some references to shared and win7progress files inside csproj does not have their source files in the main branch. btw: where can i grab the latest build for windows until this is fixed ?

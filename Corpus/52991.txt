@@ -1,0 +1,1 @@
+ URL : "https://github.com/NJDaeger/EssentialCommands/issues/3" TITLE : custom title commands. BODY : create commands like - ./bossbar <color> <timespan> percentagefilled <message> - ex. /bossbar red 10:s 50% hi there - ./title <timespan> <message> - ex. /title 15:s hi there - ./subtitle <timespan> <message> - ex. /subtitle 15:s hi there

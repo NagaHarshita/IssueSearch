@@ -1,0 +1,1 @@
+ URL : "https://github.com/irungentoo/toxcore/issues/1641" TITLE : run with debugger. BODY : how can i run a test with debugger? i want to build toxcore with debug options, and run build/tox_test with debugger in macos. please help me.

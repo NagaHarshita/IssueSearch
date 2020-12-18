@@ -1,0 +1,1 @@
+ URL : "https://github.com/zserge/webview/issues/41" TITLE : ie javscript compatibility BODY : is it possible tu use microsoft edge webview to execute javascript instead of mshtml or use a polyifill for common js _documents_ methods?

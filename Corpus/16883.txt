@@ -1,0 +1,1 @@
+ URL : "https://github.com/emjotde/Marian/issues/30" TITLE : merge with amunmt BODY : a shallow merge for now. amun and marian communicate through the model file, which should be ok as long as we do not have a marian scorer in amun. what should we do with the repos? new repo? new organization?

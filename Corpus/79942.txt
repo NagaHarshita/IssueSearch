@@ -1,0 +1,1 @@
+ URL : "https://github.com/igorklopov/enclose/issues/135" TITLE : support for node v4.4.7? BODY : hello, is this working on node v.4.x? or only works on v.4.2.x? our develop environment is node v4.4.7. we can make a binary but it doesn't work. i wonder enclosejs is only working on the specific node versions. thanks,

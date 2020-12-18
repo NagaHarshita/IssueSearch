@@ -1,0 +1,1 @@
+ URL : "https://github.com/robeio/robe-react-ui/issues/38" TITLE : can't load i18n data BODY : if i18n is not loaded in the project it gives the following error inside components. <img width= 708 alt= screen shot 2017-01-16 at 12 20 03 src= https://cloud.githubusercontent.com/assets/17153637/21977294/37388a68-dbde-11e6-816b-fa0bdd94d99c.png >

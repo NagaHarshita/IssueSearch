@@ -1,0 +1,1 @@
+ URL : "https://github.com/Brewskey/spark-server/issues/234" TITLE : can't get it works.... BODY : i have done a clean install from your repository... and i get this error: typeerror: cannot read property '0' of undefined at object.<anonymous> ~/tmp/test_spark-server/spark-server/node_modules/spark-protocol/dist/lib/firmwaremanager.js:95:3

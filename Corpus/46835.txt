@@ -1,0 +1,1 @@
+ URL : "https://github.com/yam655/bittyband/issues/59" TITLE : mutate selected notes BODY : we need to have an infrastructure to mutate a set of selected notes. - reverse - up-octave - down-octave those three will do for a first-pass, but we need to be able to extend the infrastructure later.

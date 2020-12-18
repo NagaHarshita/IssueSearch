@@ -1,0 +1,1 @@
+ URL : "https://github.com/aspnet-contrib/AspNet.Security.OpenId.Providers/issues/36" TITLE : update nuget package BODY : the current update with support for the updates for asp.net core 2.0 is not live on nuget. could this be published?

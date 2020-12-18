@@ -1,0 +1,1 @@
+ URL : "https://github.com/littlebizzy/index-autoload/issues/1" TITLE : use of undefined constant BODY : seeing this in my debug log: php notice: use of undefined constant idxautoload_schedule - assumed 'idxautoload_schedule' in /var/www/wordpress/wp-content/plugins/index-autoload-littlebizzy/index-autoload.php on line 33

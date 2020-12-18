@@ -1,0 +1,1 @@
+ URL : "https://github.com/HackerExperience/HELF/issues/11" TITLE : create pre-hook for event BODY : elixir overridable, defaults to struct, any :: {:cont, struct} before_emit struct, handler_count :: non_neg_integer :: {:cont, struct} | :halt

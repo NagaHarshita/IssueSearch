@@ -1,0 +1,1 @@
+ URL : "https://github.com/MycroftAI/MycroftCore-Android/issues/1" TITLE : building the apk BODY : i have downloaded the code, unzipped it, imported it into android studio, but every time i build either a signed or unsigned apk it fails. ! android studio https://cloud.githubusercontent.com/assets/25230527/22120051/046d5878-de4c-11e6-8b01-fe0d6f0ed1b4.jpg

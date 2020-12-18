@@ -1,0 +1,1 @@
+ URL : "https://github.com/paboyle/Grid/issues/94" TITLE : high precision norms BODY : all norms and innerproducts are no high precision norms using intermediate double. the code guido has written with a differentiated normhp should just call norm. these should be bandwidth limited anyway, so there is no reason to not make default.

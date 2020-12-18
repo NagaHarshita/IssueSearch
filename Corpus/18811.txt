@@ -1,0 +1,1 @@
+ URL : "https://github.com/OnApp/SolusVM-WHMCS-Module/issues/11" TITLE : upgrade dont work BODY : the module does not support upgrade any individual server cpu, ram, hdd setting at this time. the customer orders a ram upgrade from 1g to 2g and the module write the default plan in the vm ressources.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jonakoudijs/ansible-xen-orchestra/issues/1" TITLE : support for centos/redhat BODY : add support for centos/redhat. create an setup-os tasks include.

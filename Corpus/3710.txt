@@ -1,0 +1,1 @@
+ URL : "https://github.com/lorddev/RevScrob/issues/7" TITLE : time zone bug BODY : ! screenclip https://cloud.githubusercontent.com/assets/2220085/24888632/924434d4-1e19-11e7-8d6a-f3f1a447f227.png after running, it set the play time for light through the veins to 11:48 am , which was when i listened to it. so my guess is it's a display issue in the output as opposed to bad logic.

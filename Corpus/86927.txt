@@ -1,0 +1,1 @@
+ URL : "https://github.com/andreyan-andreev/node-excel-export/issues/22" TITLE : incredible huge file size BODY : i encountered some weird situation. when i first write the buffer into file it show up the file size like 100mb. but then it reduced to 15mb after i've open it at excel and save it without any modification. any idea of this?

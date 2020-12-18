@@ -1,0 +1,1 @@
+ URL : "https://github.com/zhoubear/open-paperless/issues/12" TITLE : running on localhost BODY : after installation its running on localhost. how to run on '0.0.0.0:8000'

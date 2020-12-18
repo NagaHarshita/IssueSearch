@@ -1,0 +1,1 @@
+ URL : "https://github.com/Joel-James/404-to-301/issues/37" TITLE : conflict with bbpress? BODY : latest wp, 404-to-301, and bbpress installed with defaults. anyone visits site /forums/users/ anything non-admin gets a 404, which redirects to homepage. adding 404-to-301 exception for /forums/users stops the problem... which shouldn't happen in the first place, right?

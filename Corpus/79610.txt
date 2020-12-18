@@ -1,0 +1,1 @@
+ URL : "https://github.com/suzuki-0000/SKPhotoBrowser/issues/243" TITLE : some methods needs @objc BODY : i use skphotobrowser v4.1.1 in xcode9 with cocoapods, but there are some errors in new xcode. like argument of ' selector' refers to instance method 'handledoubletap' that is not exposed to objective-c etc... i use v4.1.0 well, what's happen? thank you.

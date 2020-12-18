@@ -1,0 +1,1 @@
+ URL : "https://github.com/ysugimoto/aws-lambda-image/issues/126" TITLE : support nodejs v6.10 BODY : now aws lambda support v6.10! https://aws.amazon.com/jp/about-aws/whats-new/2017/03/aws-lambda-supports-node-js-6-10/ we need to test that our code works fine in v6.10

@@ -1,0 +1,4 @@
+ URL : "https://github.com/alan-turing-institute/science-gateway-cluster/issues/2" TITLE : add continuous integration BODY : tasks
+- add tests for initial contents of repo
+- add travis.yml to trigger ci build.
+- restrict commits to master branch to require tests passing on travis and appveyor

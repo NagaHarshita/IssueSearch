@@ -1,0 +1,1 @@
+ URL : "https://github.com/gluster/glusterfs/issues/318" TITLE : add support for kernel tls BODY : linux 4.13 adds support for tls in the kernel. more details can be found at: https://github.com/torvalds/linux/blob/master/documentation/networking/tls.txt it would be nice to consume this feature to augment our existing ssl implementation for in flight encryption.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jpillora/cloud-torrent/issues/205" TITLE : downloads folders view BODY : by default,all of the files and subfolders are listed completely.it causes browsing files to be inconvenient and even browser crashes,when i have thousands of files and subfolders.so，how about folding every torrents' master folder,making paths be loaded only when needed?

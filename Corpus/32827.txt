@@ -1,0 +1,1 @@
+ URL : "https://github.com/ARMmbed/sal-nanostack-driver-k64f-eth/issues/17" TITLE : wrong include guard BODY : the k64f ethernet driver uses the same include guard as the atmel rf driver... yikes. https://github.com/armmbed/sal-nanostack-driver-k64f-eth/blob/dafa84646b48287273c57d0f677ccc39e33c4cb3/sal-nanostack-driver-k64f-eth/nanostackethernetphyk64f.h l17

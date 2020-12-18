@@ -1,0 +1,1 @@
+ URL : "https://github.com/openego/eTraGo/issues/10" TITLE : pf after lopf BODY : - develop a functionality to couple lopf and pf in order to simulate q and line losses after having done the linear optimization. - implement the cosphi assumptions based on the lopf results - calculate the additional costs

@@ -1,0 +1,1 @@
+ URL : "https://github.com/github/fetch/issues/591" TITLE : does not fetch in mobiles BODY : in get-requests working on desktop browsers are normally safari, chrome but... when i use app in mobiles safari, chrome then got nothing and can't catch error example here https://foryoutube.com/

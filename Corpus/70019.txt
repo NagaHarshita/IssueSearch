@@ -1,0 +1,1 @@
+ URL : "https://github.com/apache/distributedlog/issues/155" TITLE : update home page banner BODY : why? currently distributedlog is a subproject of bookkeeper. it might be good to update the banner of the home page. action update the banner to say 'apache distributedlog is graduated as a subproject of apache bookkeeper.'

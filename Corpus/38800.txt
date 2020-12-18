@@ -1,0 +1,1 @@
+ URL : "https://github.com/EvictionLab/eviction-maps/issues/324" TITLE : ranking ui component BODY : contains the ui components for determining the active tab, region, area type, and data property. any changes to selected items are emitted to the rankingtoolcomponent .

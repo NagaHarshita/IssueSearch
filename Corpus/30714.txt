@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/Win2D/issues/569" TITLE : q: win2d with mvvm? BODY : hi! is it possible to use win2d.uwp with mvvm no-code-behind ? i was looking for example code in examples but i haven't found any. thanks for sharing any simple example code for canvasanimatedcontrol with mvvm. it would help many beginners like me :-

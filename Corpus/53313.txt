@@ -1,0 +1,1 @@
+ URL : "https://github.com/LeafletBomb/leafletbomb/issues/118" TITLE : distribution list bugs BODY : - editing distribution list sometimes doesn't catch the name of the list. thus the system adds when it should edit. - new distrobution lists / influencers dialog needs to be cleared of text.

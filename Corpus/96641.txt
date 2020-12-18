@@ -1,0 +1,1 @@
+ URL : "https://github.com/pmem/issues/issues/683" TITLE : feat: fixed benchmark time BODY : in some cases it could be more convenient to specify the maximum time of benchmark execution instead of fixed number of operations. let's add an option for pmembench to specify the max. time of execution of a single run i.e. -t 10s .

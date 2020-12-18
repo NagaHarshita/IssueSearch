@@ -1,0 +1,1 @@
+ URL : "https://github.com/itereshchenkov/jest-teamcity/issues/3" TITLE : jest --coverage support BODY : it would be nice to output coverage data to team city as well. see https://github.com/winterbe/jest-teamcity-reporter/issues/14 issuecomment-313716217.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/kroitor/asciichart/issues/5" TITLE : need more y-axis digits BODY : https://github.com/madnight/bitcoin-chart-cli/issues/9 issuecomment-350505659 > the y-axis only shows four digits of precision, so you can't see the tens of thousands.

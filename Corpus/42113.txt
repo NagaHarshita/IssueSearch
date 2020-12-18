@@ -1,0 +1,5 @@
+ URL : "https://github.com/NSI-IT/ATG/issues/68" TITLE : admin - view trailers BODY : as an admin user, i can see a list of trailers came in and went out from the midway between a selected date range. acceptance criteria verify that an admin user can see total number of trailers parked under midway zone verify that an admin user can select a date range to view the reports. verify that admin user can see a list of all trailer numbers parked at midway zone within the selected date range with following details:
+> date and time when it was parked.
+> name of the shunt driver who parked it in the midway zone. verify that admin user can see a list of all trailer moved out from the midway zone within the selected date range with following details:
+> date and time when it was taken out from the midway zone.
+> name of the shunt driver who moved the trailer out from the midway zone.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/apidoc/apidoc/issues/692" TITLE : the chinese garbled BODY : there is chinese in the annotation, and the chinese garbled code will appear after executing apidoc -i src/ -o des/ ! image https://user-images.githubusercontent.com/10397513/31813943-ada44834-b5ba-11e7-9a0b-0d8a53fccbca.png

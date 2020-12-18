@@ -1,0 +1,1 @@
+ URL : "https://github.com/Jack-Works/schema2tscode/issues/1" TITLE : nov 2017 roadmap BODY : 1. named interface support definitions in swagger2 2. response header 3. post form basic 4. muti response code, and select the correct and fail cases by semantics 5. request header 6. default value for query parameters

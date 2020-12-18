@@ -1,0 +1,1 @@
+ URL : "https://github.com/hydrabolt/discord.js/issues/1104" TITLE : detect region change BODY : currently when you change the server region while the bot is connected to the voice, will cause it to continue streaming to the old audio channel. i don't know if it is possible, it but would be useful to emit an event when this change occur.

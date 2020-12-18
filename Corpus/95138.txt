@@ -1,0 +1,1 @@
+ URL : "https://github.com/radare/radeco-lib/issues/93" TITLE : coveralls report is broken BODY : seems to be a bug in travis-cargo. see travis-cargo 72.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/SugawaraS/prj-rev-bwfs-dasmoto/issues/1" TITLE : overly repetitive css BODY : font-family: helvetica; you are using this multiple times. css has built in elements to reduce how much you type and improve your efficiency. for example in this case you could select the whole page font-family using a body selector. body { font-family: helvetica; }

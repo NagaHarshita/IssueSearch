@@ -1,0 +1,1 @@
+ URL : "https://github.com/Tenma11/Chef/issues/1" TITLE : chef search query issue BODY : i want to use variable inside chef search query. for ex :- a 0 = 'frs' result = search :node, frs:on => working result = search :node, a 0 :on => not working

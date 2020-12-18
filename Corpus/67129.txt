@@ -1,0 +1,1 @@
+ URL : "https://github.com/caskroom/homebrew-cask/issues/36769" TITLE : outdated cask: sonic pi BODY : sonic pi https://github.com/caskroom/homebrew-cask/blob/master/casks/sonic-pi.rb new version can be found here: http://sonic-pi.net/files/releases/v3.0/sonic-pi-for-mac-v3.0.dmg

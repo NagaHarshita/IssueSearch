@@ -1,0 +1,1 @@
+ URL : "https://github.com/Sharpjaws/SharpSK/issues/31" TITLE : cannot spawn a mythicmob BODY : i can't get the right syntax for spawning a mythic mob. the mob i have is called horseman and that is the string too for mythicmobs. i am doing this: spawn a mythicmob horseman at player and it is saying it cannot understand it, i am using sharpsk-1.6.3

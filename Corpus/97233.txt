@@ -1,0 +1,1 @@
+ URL : "https://github.com/jhkst/dlface/issues/2" TITLE : ftp protocol not supported BODY : the ftp protocol is currently not supported. there will be also problem with getting file size by ftpurlconnection class in java api. consider using commons-net for ftp connection

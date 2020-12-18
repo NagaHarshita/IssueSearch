@@ -1,0 +1,1 @@
+ URL : "https://github.com/grpc/grpc-java/issues/3502" TITLE : add ci for bazel BODY : while users are good at noticing when bazel breaks, i suspect they'd appreciate it to compile without their intervention. this probably should be on kokoro.

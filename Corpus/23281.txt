@@ -1,0 +1,1 @@
+ URL : "https://github.com/radare/radare2/issues/7139" TITLE : optimize step back BODY : find ways to optimize the stepback and avoid copying all the memory all the time, add more dts subcommands to handle all the states and dump them to disk in case of interest, use esil to determine the memory accesses and restore the minimum of memory, etc

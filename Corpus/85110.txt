@@ -1,0 +1,1 @@
+ URL : "https://github.com/vtl-sdmx-task-force/sdmx-vtl/issues/118" TITLE : enumerated in user manual BODY : reporter issue reference|document um/rm/ebnf |page|line :--|:--|--:|--: lv2-14|rm|24,25|438,524 issue description isenumerated is mandatory in the user manual proposed solution decide if this should be mandatory or optional

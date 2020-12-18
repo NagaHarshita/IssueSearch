@@ -1,0 +1,1 @@
+ URL : "https://github.com/BrianGladman/gsl/issues/14" TITLE : ode2 run-time error BODY : occurs for x64 builds except dll/x64/debug

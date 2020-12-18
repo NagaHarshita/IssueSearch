@@ -1,0 +1,1 @@
+ URL : "https://github.com/luyang-liu/SEBC/issues/13" TITLE : test hdfs -new BODY : hdfs testing user reilly: time hadoop jar /opt/cloudera/parcels/cdh/jars/hadoop -examples.jar teragen -dmapred.map.tasks=12 -ddfs.block.size=33554432 -dmapreduce.map.memory.mb=1024 65536000 /user/reilly/tgen

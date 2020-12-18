@@ -1,0 +1,1 @@
+ URL : "https://github.com/ConchobarMacNessa/mmedium-OAuth/issues/31" TITLE : make test run faster BODY : if you shorten the database idling time, the tests will run faster, i.e. 2 seconds instead of 30 seconds. you can achieve this by adding this line to db_connect.js options: const options = { // add line below idletimeoutmillis: process.env.env === 'testing' ? 1000 : 30000 };

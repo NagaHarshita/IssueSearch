@@ -1,0 +1,1 @@
+ URL : "https://github.com/snayrouz/little-shop/issues/11" TITLE : user can log out BODY : as a logged in user when i click “logout” then i should see see “login” and i should not see “logout”

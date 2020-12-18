@@ -1,0 +1,1 @@
+ URL : "https://github.com/azyobuzin/rust-oauthcli/issues/7" TITLE : hyper integration removal BODY : i updated hyper from 0.9 to 0.10 in oauthcli 1.0.3, but because of cargo's behavior the dependencies would be broken. so i think it is very difficult to support both hyper 0.9 and 0.10.

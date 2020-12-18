@@ -1,0 +1,1 @@
+ URL : "https://github.com/lampepfl/dotty/issues/2539" TITLE : sams & term refinements BODY : object foo { val f: function0 int { def foo : int } = => 42 } should not compile. => 42 does not implement both foo and apply . while object foo { val f: function0 int { def apply : int } = => 42 } should

@@ -1,0 +1,1 @@
+ URL : "https://github.com/conveyal/analysis-ui/issues/439" TITLE : logout button does nothing BODY : in current scenario-editor-staging, if i click the logout button the page just reloads and the projects in the project list change order, but i can't log in as another user.

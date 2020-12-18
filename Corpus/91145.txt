@@ -1,0 +1,1 @@
+ URL : "https://github.com/appuio/appuio-pruner/issues/2" TITLE : syntax error in pruner.sh BODY : using v1.0.3 🚀 oc logs appuio-pruner-8-czsxi tue mar 14 16:08:29 cet 2017 pruning old deployments namespace name appuio-infra appuio-pruner-2 pruning old builds ---------------------------------------- /tmp/pruner.sh: line 26: 75 - 08: value too great for base error token is 08

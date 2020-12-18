@@ -1,0 +1,1 @@
+ URL : "https://github.com/openshift/origin/issues/13741" TITLE : oc adm diagnostics BODY : oc adm diagnostics for ocp enterprise uses containers from docker.io in most on-prem installations docker.io are blocked or not even available. network test container should be hosted in rh registry when installing enterprise version.

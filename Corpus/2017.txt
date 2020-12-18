@@ -1,0 +1,1 @@
+ URL : "https://github.com/Zet0rz/nzombies/issues/443" TITLE : pairs error. BODY : error addons/nzombies-master-workshop/gamemodes/nzombies/gamemode/weapons/sh_wep_modifiers.lua:616: bad argument 1 to 'pairs' table expected, got nil 1. pairs - c :-1 2. unknown - addons/nzombies-master-workshop/gamemodes/nzombies/gamemode/weapons/sh_wep_modifiers.lua:616

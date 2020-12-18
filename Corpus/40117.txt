@@ -1,0 +1,1 @@
+ URL : "https://github.com/codeclimate/codeclimate/issues/704" TITLE : test coverage option BODY : is there an option to enable test coverage? or is that something not available in docker/cli version?

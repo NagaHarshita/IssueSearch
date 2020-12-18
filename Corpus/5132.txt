@@ -1,0 +1,1 @@
+ URL : "https://github.com/wagner-lab/spm12w/issues/6" TITLE : logging on osx BODY : while preprocessing seems to run correctly on osx sierra nothing is actually output to the preprocessing log file. i can try to track this down later, just wanted to note it here so i remember to do it.

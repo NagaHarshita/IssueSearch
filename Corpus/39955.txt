@@ -1,0 +1,1 @@
+ URL : "https://github.com/dgw/plex-pushover/issues/7" TITLE : support music tracks BODY : i don't see any technical reason not to support music aside from pushover's api limit being a potential limiting factor if users play _a lot_ of tracks . could be spammy, so this capability should be gated behind an environment variable and default to off unless specifically enabled.

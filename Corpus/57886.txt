@@ -1,0 +1,1 @@
+ URL : "https://github.com/diffblue/cbmc/issues/1316" TITLE : replace partial inline BODY : @tautschnig, @kroening, why is https://github.com/diffblue/cbmc/blob/develop/src/cbmc/cbmc_parse_options.cpp l825 done? this makes the coverage goal instrumentation non-compositional, which is troublesome.

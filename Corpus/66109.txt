@@ -1,0 +1,1 @@
+ URL : "https://github.com/nino/mood-tracker/issues/31" TITLE : make ui more responsive BODY : on a 2000px wide screen, it's not really necessary to stretch a 10-button row across the entire screen. in that case, adapt by putting two metrics next to each other.

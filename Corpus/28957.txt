@@ -1,0 +1,1 @@
+ URL : "https://github.com/DOMjudge/domjudge/issues/267" TITLE : improve rest import BODY : on differences, ask interactively if the internal data should be overwritten with the internal data also check timelimits ideally, the import configuration only consists of credentials and contest id

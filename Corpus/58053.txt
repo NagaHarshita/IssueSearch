@@ -1,0 +1,1 @@
+ URL : "https://github.com/jarv/cmdchallenge/issues/98" TITLE : rm -rf on delete_files BODY : summary rm -rf should work on question delete_files steps to reproduce: 1. visits https://cmdchallenge.com/ /delete_files 2. rm -rf ./ was failed, but find . delete success.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/iNavFlight/blackbox-log-viewer/issues/6" TITLE : rccommand mapped to dps BODY : rccommand is mapped to dps, while should stay unitless. this creates confusion. either map rccommand to dps or remove unit

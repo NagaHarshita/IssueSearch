@@ -1,0 +1,1 @@
+ URL : "https://github.com/ipa320/setup_cob4/issues/116" TITLE : extend ddwrt docu BODY : in https://github.com/ipa320/setup_cob4/blob/master/manual_administrator/readme_ddwrt.md - activate ssh deamon after flashing with ddwrt - apt-get install sshpass - accept ssh key in script

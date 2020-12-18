@@ -1,0 +1,1 @@
+ URL : "https://github.com/buehler/typescript-hero/issues/283" TITLE : feat: multi-root support BODY : feature multi root support support multi root workspaces in typescript hero. suggested behaviour: root path is set for each instance

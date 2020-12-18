@@ -1,0 +1,1 @@
+ URL : "https://github.com/udacity/sdc-issue-reports/issues/1092" TITLE : fusa - ldw example flawed BODY : ldw shakes steering wheels with a vibration motor. this is not done by actuating the steering motors, as this would be wildly dangerous.

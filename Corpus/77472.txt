@@ -1,0 +1,1 @@
+ URL : "https://github.com/lloydst/rekenmachine/issues/19" TITLE : never use document.write BODY : <script>document.write '<base href= ' + document.location + ' />' ;</script>

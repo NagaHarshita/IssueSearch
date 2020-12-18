@@ -1,0 +1,1 @@
+ URL : "https://github.com/nyclagniappe/phpjazz/issues/6" TITLE : create samples directory BODY : the purpose is to define a samples directory that includes basic setup of a variety of classes/interfaces that can be applied to the library or tests. the samples directory should include a sub-directory for the primary library and the two tests directories test, mock .

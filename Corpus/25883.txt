@@ -1,0 +1,4 @@
+ URL : "https://github.com/alanbsmith/koine/issues/7" TITLE : add flexrow element BODY : ac:
+• should be a semantic html div
+• should use flexbox styles
+• should be fully tested

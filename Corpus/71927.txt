@@ -1,0 +1,1 @@
+ URL : "https://github.com/pupil-labs/pyglui/issues/71" TITLE : any prebuilt windows whl BODY : i have a visual studio 2017 and it keeps giving me this error pyglui/cygl/utils.cpp 482 : fatal error c1083: cannot open include file: 'numpy/arrayobject.h': no such file or directory could someone plesae help out?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/blinksh/blink/issues/258" TITLE : password prompt keyboard BODY : currently the app does not seem to use password prompt api, thus the keyboard does not change, which means if you're using some 3rd party keyboard, you maybe storing the password locally or even send it remotely.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/benaadams/System.Ben/issues/66" TITLE : add async support BODY : i'm planning to call this library from a gui but i've noticed awkward slowdowns where the app becomes unresponsive, is there any plan to add async support?

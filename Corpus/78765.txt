@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/vscode/issues/26020" TITLE : reference search broken? BODY : open vs/base/common/strings.ts go to line 296 and search for references of getleadingwhitespace 🐛 it shows no result tho there are usages search for references of other types class members, locals seems to work

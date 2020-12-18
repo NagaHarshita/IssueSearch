@@ -1,0 +1,1 @@
+ URL : "https://github.com/Automattic/monk/issues/241" TITLE : how to login my db by monk BODY : my db set use and pwd，must login in and can readwrite, how to login in by monk

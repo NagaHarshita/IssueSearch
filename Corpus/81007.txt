@@ -1,0 +1,1 @@
+ URL : "https://github.com/coligo-io/file-uploader/issues/5" TITLE : ux reset file input form BODY : script: if user select the same file s to upload again, the app doesn't response anything. solution: i found the reason, just reset file input to empty, change event will be fired whenever user select file to upload.

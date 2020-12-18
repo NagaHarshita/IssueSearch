@@ -1,0 +1,1 @@
+ URL : "https://github.com/freshworkstudio/ChileanBundle/issues/2" TITLE : bug on short example rut BODY : if you enter a short example rut i.e. 1-9, 2-7 or 3-5 it returns invalid format. si ingresas un rut corto de ejemplo 1-9, 2-7 o 3-5 devuelve formato invalido.

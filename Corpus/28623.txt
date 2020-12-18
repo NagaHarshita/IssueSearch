@@ -1,0 +1,1 @@
+ URL : "https://github.com/dalepontz/Macy-s-Queries/issues/11" TITLE : herald square vpsms BODY : select r.external_id ,r.first_name ,r.last_name ,r.job_code ,r.company_name ,r.title ,l.name from registry r join location l on r.location_id = l.id where r.job_code = 'es0004' and r.locked = 0 and r.district_id = 71910

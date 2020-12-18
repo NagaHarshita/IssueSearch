@@ -1,0 +1,1 @@
+ URL : "https://github.com/openalea/eartrack/issues/22" TITLE : add unit tests BODY : there is currently only a large test. there is a need to add small unit test to test each function independantly. this can be linked to pr 4

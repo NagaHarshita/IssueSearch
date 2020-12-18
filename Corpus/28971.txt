@@ -1,0 +1,1 @@
+ URL : "https://github.com/mapbox/mapbox-navigation-android/issues/265" TITLE : improve turn arrows BODY : let's use the turn arrows from the paintcode files that ios uses: https://github.com/mapbox/navigation-ui-resources cc @danesfeder @frederoni

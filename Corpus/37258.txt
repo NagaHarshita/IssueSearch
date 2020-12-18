@@ -1,0 +1,1 @@
+ URL : "https://github.com/Keats/gutenberg/issues/64" TITLE : list of things to do BODY : that i found out while working on a site for tera: - index page is not rendered if there is no _index.md - add a short code that adds a title to a code block 63

@@ -1,0 +1,1 @@
+ URL : "https://github.com/inakianduaga/react-native-demo/issues/13" TITLE : add movie selector event BODY : - when clicking on a movie, we want to fire an event that gets picked up by the native application to indicate a movie has been selected - native application should change views to a separate application

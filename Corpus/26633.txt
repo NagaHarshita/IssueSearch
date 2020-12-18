@@ -1,0 +1,1 @@
+ URL : "https://github.com/anchorcms/anchor-cms/issues/1231" TITLE : bug in add new page BODY : i'm trying to add new page with invalid redirect url and i got below error: undefined variable: page the error has been logged in /anchor/errors.log trace anchor/routes/pages.php on line 222 - anchor version: 0.12.3 - server setup: nginx - url admin/pages/add

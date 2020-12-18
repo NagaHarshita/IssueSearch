@@ -1,0 +1,1 @@
+ URL : "https://github.com/Sjeiti/invoice/issues/28" TITLE : pagebreaks on long pages BODY : long pages should have a top padding in the print stylesheet. if possible, pages should always be 100% height so the footer sticks to bottom on pages >1

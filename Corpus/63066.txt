@@ -1,0 +1,1 @@
+ URL : "https://github.com/tomekwi/elm-live/issues/94" TITLE : default host to 0.0.0.0 BODY : i find myself adding --host=0.0.0.0 to almost every project, to be able to test my stuff on other computers in the network. i think this would make for a reasonable default, especially that it doesn’t break the current defaults works with http://localhost and the local ip .

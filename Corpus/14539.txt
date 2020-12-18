@@ -1,0 +1,1 @@
+ URL : "https://github.com/fubarhouse/ansible-role-golang/issues/55" TITLE : audit the exports BODY : basically just check over the following: goroot declaration in shell exports gopath declaration in shell exports path=gopath declaration in shell exports path=gopath/bin declaration in shell exports

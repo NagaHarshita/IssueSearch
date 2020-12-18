@@ -1,0 +1,1 @@
+ URL : "https://github.com/Jintin/syndle/issues/2" TITLE : dynamic dependency version BODY : package compose in parameter like this: implementation 'com.android.support:support-annotations:' + androidsupportversion

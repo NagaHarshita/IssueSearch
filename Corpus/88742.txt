@@ -1,0 +1,1 @@
+ URL : "https://github.com/part-up/part-up/issues/856" TITLE : optimize chat for tablets BODY : now we show the download the app placeholder, but the app is not optimized for tablets. we should make this responsive for tablet screens.

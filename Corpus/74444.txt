@@ -1,0 +1,1 @@
+ URL : "https://github.com/terryyin/lizard/issues/215" TITLE : error when occur symlink BODY : serverconfig.h is a symlink whose real file is not exist. ! image https://user-images.githubusercontent.com/11549103/34150975-e5e5a28e-e4e4-11e7-9b86-0587e26bddd9.png

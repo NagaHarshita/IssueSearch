@@ -1,0 +1,2 @@
+ URL : "https://github.com/Code4SocialGood/c4sg-services/issues/37" TITLE : implement travis ci BODY : <a href= https://github.com/code4socialgood ><img src= https://avatars3.githubusercontent.com/u/24813620?v=3 align= left width= 96 height= 96 hspace= 10 ></img></a> issue by code4socialgood https://github.com/code4socialgood _thursday dec 29, 2016 at 23:12 gmt_
+_originally opened as https://github.com/code4socialgood/c4sg/issues/26_ ---- implement travis ci to run tests on both the server, client, and end to end.

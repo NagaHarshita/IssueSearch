@@ -1,0 +1,1 @@
+ URL : "https://github.com/spolu/warp/issues/27" TITLE : error for warp open BODY : warp cannot work now 9/7/2017 , when i type warp open , the terminal shows: error connection error: x509: certificate has expired or is not yet valid but what happend? there is no document mention it.

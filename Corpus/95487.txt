@@ -1,0 +1,1 @@
+ URL : "https://github.com/icebob/vue-form-generator/issues/111" TITLE : datetimepicker not worked! BODY : error text bootstrap datetimepicker library is missing. please download from https://eonasdan.github.io/bootstrap-datetimepicker/ and load the script and css in the html head section! what can i do to work? vue 2.0

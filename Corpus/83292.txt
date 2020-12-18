@@ -1,0 +1,1 @@
+ URL : "https://github.com/jas-/node-libnmap/issues/45" TITLE : can i get the os version? BODY : i want to use the nmap to detect the class c ip. but i want to get the os version of host. this lib can get the os information? thank you for your help~

@@ -1,0 +1,1 @@
+ URL : "https://github.com/rakslice/proxy-mesh/issues/10" TITLE : add stop api request BODY : there's no convenient way to interrupt the process on windows without leaving the stale zeroconf entry around. add an api request to stop the proxy.

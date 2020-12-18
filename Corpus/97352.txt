@@ -1,0 +1,1 @@
+ URL : "https://github.com/mathiask88/node-snap7/issues/24" TITLE : getagblockinfo not working BODY : i tried to use this function to get the db size on a siemens s7-300, using the callback it doesn't enter into it at all. without the callback it just returns false with no errors. new 2.txt https://github.com/mathiask88/node-snap7/files/865039/new.2.txt

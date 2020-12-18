@@ -1,0 +1,1 @@
+ URL : "https://github.com/danielpopdan/drupal-community-cluj/issues/128" TITLE : translatable markup error BODY : bug critical: invalidargumentexception: $string must be a string. in drupal\core\stringtranslation\translatablemarkup->__construct line 140 of /var/www/html/drupal-community-cluj/docroot/core/lib/drupal/core/stringtranslation/translatablemarkup.php .

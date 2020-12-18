@@ -1,0 +1,1 @@
+ URL : "https://github.com/sirnewton01/rpi-9front/issues/2" TITLE : include a termrc.orig ? BODY : https://github.com/sirnewton01/rpi-9front/blob/master/custom/termrc ...can you please leave an unmodified termrc in the image for those who only want dhcp without the 169. . . stuff?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/k0shk0sh/FastHub/issues/666" TITLE : public gists not opening BODY : app version: 3.1.0 os version: 23 model: lenovo-lenovo k50a40 when clicking the link to the gist in the browser, the fasthub app opens automatically and says no gist found . while the gist is opening just great in the browser when checked without auto launch to fasthub, in the browser.

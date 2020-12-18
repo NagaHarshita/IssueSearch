@@ -1,0 +1,1 @@
+ URL : "https://github.com/wysohn/TriggerReactor/issues/3" TITLE : add worldguard support BODY : 1. hook worldguard event for area trigger if possible

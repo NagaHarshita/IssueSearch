@@ -1,0 +1,1 @@
+ URL : "https://github.com/sympy/sympy/issues/12868" TITLE : support for \ x = \pm 1\ BODY : i have a latex \ x = \pm 1\ , that means x could be +1 or -1, but i could not find the class mathor， instead i only find the logic or class, could you please add support for that?

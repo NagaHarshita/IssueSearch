@@ -1,0 +1,1 @@
+ URL : "https://github.com/karollewandowski/aem-intellij-plugin/issues/100" TITLE : fix jacoco plugin BODY : it's broken since junit 5 was introduced.

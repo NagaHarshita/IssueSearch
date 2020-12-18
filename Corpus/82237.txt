@@ -1,0 +1,1 @@
+ URL : "https://github.com/rehive/service-notifications/issues/3" TITLE : add notification settings BODY : add an api endpoint for disabling/enabling notifications on a user level. this should work in the same manner and preferably have the same api structure to how the rehive notifications are handled.

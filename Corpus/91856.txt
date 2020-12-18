@@ -1,0 +1,1 @@
+ URL : "https://github.com/sothmann/typescript-gradle-plugin/issues/27" TITLE : update typescript options BODY : some newer options are not yet supported: - strict - strictnullchecks - noimplicitthis - alwaysstrict - nounusedlocals - nounusedparameters these are the ones i need : there are surely others, there are a lot of options in typescript these days

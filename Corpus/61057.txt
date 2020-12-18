@@ -1,0 +1,1 @@
+ URL : "https://github.com/3Blades/react-frontend/issues/135" TITLE : add toast functionality BODY : currently, we don't have a consistent way of alerting the user to things, e.g. they successfully saved their file. we need to implement a globally-integrated toast/snackbar/whatever to achieve this.

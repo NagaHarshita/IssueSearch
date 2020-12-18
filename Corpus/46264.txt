@@ -1,0 +1,1 @@
+ URL : "https://github.com/Alsciende/netrunnerdb/issues/82" TITLE : longer login sessions BODY : the timeout after login is currently pretty short a day or less? i propose making the session last for 30 days. i occasionally run into the problem of getting logged out with unsaved data. lengthening the duration of the session would minimize this.

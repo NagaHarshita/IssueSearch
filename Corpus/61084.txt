@@ -1,0 +1,1 @@
+ URL : "https://github.com/pyconsk/django-konfera/issues/295" TITLE : add view for volunteers BODY : frontend view, that shows info about volunteers. name, photo, short bio ? , contact/github/linkedin/twt, company/school ? maybe something like pyconcz : https://cz.pycon.org/2016/about/team.1.html short&simple.

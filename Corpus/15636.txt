@@ -1,0 +1,1 @@
+ URL : "https://github.com/iZettle/Lift/issues/4" TITLE : failed to install BODY : running swift package update returns an error: 'error: unsatisfiable'. my package.swift file: swift // swift-tools-version:3.1 import packagedescription let package = package name: swift-lean , dependencies: .package url: https://github.com/izettle/lift.git , majorversion: 1

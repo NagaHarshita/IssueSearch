@@ -1,0 +1,1 @@
+ URL : "https://github.com/vorner/eveboros/issues/8" TITLE : running on top of tokio BODY : allow running on top of tokio as an alternative to running our own event loop. it is to easy up integration with other projects. this is inverse to 2.

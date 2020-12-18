@@ -1,0 +1,1 @@
+ URL : "https://github.com/io7m/r2/issues/95" TITLE : document no-lbuffer path BODY : document the fact that it's possible to render a lit image directly to an r2imagebuffer instead of using an intermediate light buffer.

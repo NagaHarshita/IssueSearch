@@ -1,0 +1,1 @@
+ URL : "https://github.com/nickoala/telepot/issues/244" TITLE : orderwebhook not work BODY : when i use orderedwebhook on openshift, on_chat_message not work. but when using deprecated message_loop this function run and work just fine.

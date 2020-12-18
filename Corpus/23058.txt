@@ -1,0 +1,1 @@
+ URL : "https://github.com/rafaelpimpa/buefy/issues/85" TITLE : no button snackbar BODY : it would be great if the snackbar was usable without a button. i know that toasts exist for this purpose, but i am using snackbars for other parts of the project and i would greatly prefer to keep all notifications looking the same so as not to confuse the user.

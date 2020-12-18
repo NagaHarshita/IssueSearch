@@ -1,0 +1,1 @@
+ URL : "https://github.com/aldryn/aldryn-mailchimp/issues/19" TITLE : cms_apps.py file needed BODY : the app can't get apphooked with the latest django-cms versions. i think that a cms_apps.py file should be added and maybe keeping the cms_app.py file as well for backwards compatibility?

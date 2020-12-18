@@ -1,0 +1,1 @@
+ URL : "https://github.com/ansman/validate.js/issues/234" TITLE : notgreaterthan not working BODY : https://jsfiddle.net/zndzra48/ producing undefined validation messages const rules = { total_minutes: { numericality: { notgreaterthan: 600000 } } }; const msg = validate {total_minutes: 900000000000000}, rules ; console.log msg ;

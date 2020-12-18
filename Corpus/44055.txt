@@ -1,0 +1,1 @@
+ URL : "https://github.com/hwi/HWIOAuthBundle/issues/1271" TITLE : dropbox v1 is retired BODY : the endpoints for the dropbox adapter no longer work https://blogs.dropbox.com/developers/2017/09/api-v1-shutdown-details/

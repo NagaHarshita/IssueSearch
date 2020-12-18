@@ -1,0 +1,1 @@
+ URL : "https://github.com/json-iterator/go/issues/213" TITLE : unquoted keys support BODY : there doesn't seem an option for parsing such bad json { time: 1234 , cod:200, url: /users } could it be supported?

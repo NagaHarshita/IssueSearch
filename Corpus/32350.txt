@@ -1,0 +1,1 @@
+ URL : "https://github.com/maciejtreder/serverless-apigw-binary/issues/1" TITLE : update stack breaks BODY : works great during createstack first time . later if add new binary media type - breaks create stack: ======== custom: apigwbinary: types: - 'application/json' update stack ===== custom: apigwbinary: types: - 'application/json' - 'application/text'

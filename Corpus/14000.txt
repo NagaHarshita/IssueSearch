@@ -1,0 +1,1 @@
+ URL : "https://github.com/dhetman/javascript-session-refresh/issues/2" TITLE : add a clock/timer BODY : it would be really good to have a clock/timer on the page where users can see when the session expires. this clock/timer should update when session is refreshed by user interaction with the page based on the triggers - mouse movement, scrolling etc.

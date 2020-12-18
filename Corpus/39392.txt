@@ -1,0 +1,1 @@
+ URL : "https://github.com/oncojs/lolliplot/issues/28" TITLE : semantic class names BODY : can't safely style elements via css due to class names being mutation-circle-mu4429592 could currently work around this by using class^= mutation-circle but that's quite brittle as it depends on mutation-circle-${id} always being the first class

@@ -1,0 +1,1 @@
+ URL : "https://github.com/salvoguastella/cardMaster/issues/2" TITLE : summary array filters BODY : currently card.has in summary array population takes attribute/trigger's name instead of selector, leading to wrong results in card filtering

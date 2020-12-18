@@ -1,0 +1,1 @@
+ URL : "https://github.com/MaxGavr/QtGraphEditor/issues/1" TITLE : focusing new tab BODY : instruments don't work within new tabs. switching tabs ignores mainwindow qactions. signals-slots reconnections are required while switching to a new tab.

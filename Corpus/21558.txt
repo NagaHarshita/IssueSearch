@@ -1,0 +1,1 @@
+ URL : "https://github.com/NYPL-Simplified/android/issues/436" TITLE : fix vanilla target BODY : this stopped working when the multi-library work was done. we need to get this working again so that people without access to the drm binaries can build and run the application.

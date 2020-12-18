@@ -1,0 +1,1 @@
+ URL : "https://github.com/averagesecurityguy/ptnotes/issues/2" TITLE : mention nmap 7.0+ required BODY : might just want to mention nmap 7.+ ?? is required i had an old version of nmap 6.40 that was not adding the <!doctype nmaprun> to the xml output. took me a bit to figure out why some scans would import and others wouldnt :-

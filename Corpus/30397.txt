@@ -1,0 +1,1 @@
+ URL : "https://github.com/jadamburke/gs-code/issues/3" TITLE : per project configs BODY : setup logic to look for configs in each project and add or overwrite the studio defaults. - need a flag or option that sets whether the config should append, or replace the studio default config

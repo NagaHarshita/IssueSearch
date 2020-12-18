@@ -1,0 +1,1 @@
+ URL : "https://github.com/mapbox/md-react-transformer/issues/5" TITLE : interpolate within links BODY : right now interpolating within a markdown link does not work. e.g. go there { prefixurls '/there/' } . we need to make it work.

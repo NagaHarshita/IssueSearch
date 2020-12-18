@@ -1,0 +1,1 @@
+ URL : "https://github.com/skomputer/oligrapher/issues/59" TITLE : fix self-pointing arrows BODY : if an entity has relationships to itself, there is a circular arrow that looks wierd. eg: trump donating to himself.

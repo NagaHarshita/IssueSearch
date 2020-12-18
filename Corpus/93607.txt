@@ -1,0 +1,1 @@
+ URL : "https://github.com/mixpanel/mixpanel-swift/issues/97" TITLE : all events are not sending BODY : enabled debug logging and see this all over the place: mixpanel - jsonhandler.swift - func serializejsonobject warning - object isn't valid and can't be serialzed to json xcode version: 8.3.3

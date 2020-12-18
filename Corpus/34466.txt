@@ -1,0 +1,1 @@
+ URL : "https://github.com/Open-Systems-Pharmacology/OSPSuite.Core/issues/105" TITLE : charts missing lines BODY : charts with high density of data points will be drawn with missing lines. open-systems-pharmacology/mobi 67

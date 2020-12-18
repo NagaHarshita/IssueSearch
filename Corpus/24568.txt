@@ -1,0 +1,1 @@
+ URL : "https://github.com/intel/ccloudvm/issues/6" TITLE : support vm cloning BODY : once we support multiple instances it will be nice to be able to create a new instance by cloning an existing one.

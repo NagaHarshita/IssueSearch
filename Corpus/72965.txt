@@ -1,0 +1,1 @@
+ URL : "https://github.com/velotaf/api/issues/8" TITLE : cleanup tag builds in ci BODY : when building a tag eg: 1.2.3 on travis, the associated docker tag should be 1.2.3 , not branch-1.2.3 . source: https://docs.travis-ci.com/user/environment-variables

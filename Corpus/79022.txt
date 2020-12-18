@@ -1,0 +1,1 @@
+ URL : "https://github.com/astropy/halotools/issues/790" TITLE : resolve unicode warnings BODY : after updating to astropy-helpers v2.0 in 788, there are now many warnings that appear during the test suite that will need to be resolved. most seem to be unicodewarning , but there are others.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/piper-audio/ugly-duckling/issues/20" TITLE : ugly progress spinner BODY : related to 19, the current spinner displayed when calculating features or decoding an audio file is displayed over the top of the timeline grid - which is pretty ugly.

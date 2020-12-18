@@ -1,0 +1,1 @@
+ URL : "https://github.com/nextcloud/server/issues/3356" TITLE : nc 11.0.1 show version bug BODY : after the upgrade to the latest version nextcloud have info in config.php have 'version' => '11.0.1.2', ! nt-ver https://cloud.githubusercontent.com/assets/7813646/22549892/e2721814-e94d-11e6-9afb-0eb52834a27a.jpg

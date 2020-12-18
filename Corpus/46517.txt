@@ -1,0 +1,1 @@
+ URL : "https://github.com/mitodl/edx-sga/issues/196" TITLE : merge duplicate tests BODY : there are many duplicate tests between test_sga.py and integration_tests.py . we should figure out how to merge the two

@@ -1,0 +1,1 @@
+ URL : "https://github.com/LakMoore/InfiniTiC/issues/5" TITLE : molten liquid texture bug BODY : i found a bug, when you have multiple config files, read the molten liquid texture is only one, usually using the first config texture（use the first letter to determine the first config）

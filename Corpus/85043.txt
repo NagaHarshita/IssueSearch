@@ -1,0 +1,1 @@
+ URL : "https://github.com/openshiftio/openshift.io/issues/1296" TITLE : enable 2fa for osio login BODY : as a user, i wan't my osio account to be protected by 2fa so that simple loss of my password does not compromises my account. also, it would be great if a 'capcha' is implemented on the login page to protect from dictionary/scripted brute-force attack.

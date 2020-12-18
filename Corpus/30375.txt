@@ -1,0 +1,1 @@
+ URL : "https://github.com/bazelbuild/bazel/issues/4196" TITLE : patch release 0.8.1 BODY : apparently 4173 is a regression in 0.8.0 3772 . this issue tracks the progress of 0.8.1 patch release to address it.

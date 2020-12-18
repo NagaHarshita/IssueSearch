@@ -1,0 +1,1 @@
+ URL : "https://github.com/millert/sudo/issues/2" TITLE : add sudo to homebrew? BODY : is there a reason why sudo is not available to install via homebrew? it's available via macports.

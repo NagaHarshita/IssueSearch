@@ -1,0 +1,1 @@
+ URL : "https://github.com/jukkae/rascal/issues/35" TITLE : game state stack BODY : needed states: - gameplaystate - mainmenustate - levelupmenustate or some more generic alternative, such as overlaymenu - inventorymenustate or, again, some generic alternative - pickatilestate for ranged weapons etc - gameoverstate

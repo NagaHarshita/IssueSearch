@@ -1,0 +1,1 @@
+ URL : "https://github.com/freizl/js-vd/issues/5" TITLE : rewrite the bin/vd file BODY : - invoke the madge execution directly by passing all supported parameters - override format to be json if no format specified

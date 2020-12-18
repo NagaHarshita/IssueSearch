@@ -1,0 +1,1 @@
+ URL : "https://github.com/dcos/dcos-cli/issues/1129" TITLE : install package timeout BODY : dcoscli.version=0.5.7 dcos.version=1.10.2 centos 7 > dcos package install tunnel-cli --cli request to url http://192.168.0.123/package/describe timed out. 192.168.0.123 is my master node

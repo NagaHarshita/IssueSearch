@@ -1,0 +1,1 @@
+ URL : "https://github.com/hanovruslan/binary-symlink/issues/20" TITLE : add bash wrapper generator BODY : add bash wrapper generator: use vars with defaults from env use bash code guidelines use docker

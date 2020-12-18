@@ -1,0 +1,1 @@
+ URL : "https://github.com/Roblox/Core-Scripts/issues/1039" TITLE : rfc diceroll chat command BODY : how about a /roll chat command for roleplaying? since we already have the /me command . syntax : /roll number defaults to 100 if ommited output in chat : player rolled a random number out of number . example : stillunt1tled rolled a 49 out of 100.

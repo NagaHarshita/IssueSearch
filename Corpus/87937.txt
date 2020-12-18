@@ -1,0 +1,1 @@
+ URL : "https://github.com/rust-lang/rust/issues/46315" TITLE : method push on vec struct BODY : i started learning rust recently and i was checking the source code for reference so bear with me please. isn't this a bug https://github.com/rust-lang/rust/blob/master/src/liballoc/vec.rs l971 ? we are casting the length which is defined as usize to isize ? if not why so?

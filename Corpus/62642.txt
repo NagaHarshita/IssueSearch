@@ -1,0 +1,15 @@
+ URL : "https://github.com/Zimmi48/bugzilla-test/issues/1924" TITLE : coq_makefile: make html BODY : note: the issue was created automatically with bugzilla2github tool bugzilla bug id: 1924
+date: 2008-08-14 05:03:38 +0200
+from: david nowak &lt;<pgh1velx7sto66y@jetable.net>&gt;
+to: last updated: 2014-06-30 18:14:34 +0200 bugzilla comment id: 2422
+date: 2008-08-14 05:03:38 +0200
+from: david nowak &lt;<pgh1velx7sto66y@jetable.net>&gt; in v8.2beta3, the command make html was generating html documentation with all the links. in v8.2beta4, only the links to the standard library are generated : bugzilla comment id: 2424
+date: 2008-08-19 17:59:43 +0200
+from: jean-marc notin &lt;<notin@lix.polytechnique.fr>&gt; i made some tests to reproduce the bug, but i did not experienced the problem you describe. it may be useful if you give us more information, e.g. the options you passed to coq_makefile when generating the makefile or the log of the execution of 'make html' to see the options passed to coqc and to coqdoc . bugzilla comment id: 2436
+date: 2008-09-02 04:08:55 +0200
+from: david nowak &lt;<pgh1velx7sto66y@jetable.net>&gt; in reply to comment 1 i pass the following options: coq_makefile -o makefile -i coqlib -i lib .v coqlib/ .v lib/ .v bugzilla comment id: 2442
+date: 2008-09-03 16:57:20 +0200
+from: jean-marc notin &lt;<notin@lix.polytechnique.fr>&gt; the bug happens only with projects that contains subdirectories and without a -r option. in this case, there is a mismatch between the module name in the .glob file and the one guessed by coqdoc... i intend to fix it very soon; it should be available in the next beta|stable release of coq 8.2. in the meantime, you can use a -r option instead of -i to avoid the problem... bugzilla comment id: 7230
+date: 2014-06-30 18:14:34 +0200
+from: @_pirbo in coq trunk -i lives in the caml world and you should use -q if you want non recursive include of a directory of coq files.
+coqdoc undertand -q and therefore i think this bug is finally closed.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/danionita/e3tools/issues/93" TITLE : fraud value conversion bug BODY : when a fraud model containing hidden transfers is converted to a value a model, only the transfers are removed but not their end ports

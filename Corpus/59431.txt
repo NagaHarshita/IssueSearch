@@ -1,0 +1,1 @@
+ URL : "https://github.com/quark-mcu/qmsi/issues/24" TITLE : uart over dma on c1000 BODY : running the uart example on c1000 causes it to reset when it reaches the dma transfer method.

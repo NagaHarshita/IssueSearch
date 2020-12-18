@@ -1,0 +1,1 @@
+ URL : "https://github.com/Chaitanyaperavali/Demo_team/issues/4" TITLE : add method sindhu BODY : 1.create branch_<<your_name>> from master clone it to local machine. 2. add method<<your_name>> in file helloworld.java 3.this method should print hello <> . 4.create pull request to merge branch_<<your_name>> with master.

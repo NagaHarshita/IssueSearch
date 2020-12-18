@@ -1,0 +1,1 @@
+ URL : "https://github.com/codedellemc/rexray/issues/972" TITLE : virtualbox docker plugin BODY : summary build of a virtualbox docker plugin new feature docker plugin for virtualbox is missing. the plugin should be useful on the developer pc to be as near as the production environnement thanks

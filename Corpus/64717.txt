@@ -1,0 +1,1 @@
+ URL : "https://github.com/zeit/hyper/issues/1475" TITLE : hide menu bar on debian BODY : hey guys . i am using hyper on linux-debian. i dont need any menu bars and any buttons and i set showwindowcontrols: 'false' , and showhamburgermenu: 'false', but i have both of them yet on hyper window. how can i fix it?

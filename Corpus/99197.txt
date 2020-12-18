@@ -1,0 +1,1 @@
+ URL : "https://github.com/angular/material2/issues/8605" TITLE : mat-table row delete issue BODY : when we delete all rows in the 2nd page index of mat-table, it automatically redirects to the 1st page index, but it will be empty. ! mat-table empty issue https://user-images.githubusercontent.com/25928557/33162299-ddf48f72-d04e-11e7-93d7-cb4eaab5e1b2.jpg

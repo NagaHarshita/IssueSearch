@@ -1,0 +1,1 @@
+ URL : "https://github.com/jakob/Postico/issues/365" TITLE : scrollbar visual glitch BODY : some even/odd striping is showing in the sidebar when dragging the scrollbar. version 1.1.2 1619 macos 10.12.4 <img width= 229 alt= screen shot 2017-04-06 at 4 50 22 pm src= https://cloud.githubusercontent.com/assets/578557/24760519/30222780-1ae9-11e7-9ec9-455e699f7b4c.png >

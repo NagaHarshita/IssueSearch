@@ -1,0 +1,1 @@
+ URL : "https://github.com/penberg/ustat/issues/4" TITLE : softirq stats collection BODY : linux has a /proc/softirqs file that exports softirq stats. the format of the file is similar to /proc/interrupts .

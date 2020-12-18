@@ -1,0 +1,1 @@
+ URL : "https://github.com/uboslinux/ubos-toyapps/issues/12" TITLE : wrong data type somewhere BODY : ubos-admin createsite, specify wollmilchsau with both accessories. for acc wollmilchsau-two , boolean8 , enter value false . then: error: appconfiguration a1a1a34e843b3c0f417a2d868eca84fd305f67358, package wollmilchsau-two, must be true or false: boolean8, is json::pp::boolean

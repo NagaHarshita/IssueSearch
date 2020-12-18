@@ -1,0 +1,1 @@
+ URL : "https://github.com/joaomneto/TitanCompanion/issues/63" TITLE : crash in st combat BODY : start a combat in st, fill in only one value for your opponent either skill or strength , then immediately tap ok. ffcompanion crashes. this only occurs with st as far as i can tell !

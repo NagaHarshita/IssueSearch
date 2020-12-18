@@ -1,0 +1,1 @@
+ URL : "https://github.com/Unidata/MetPy/issues/387" TITLE : handling of no lfc BODY : currently when there is no lfc we return none, none . is that the behavior we want to stick with? we could throw an exception.

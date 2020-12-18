@@ -1,0 +1,1 @@
+ URL : "https://github.com/xshellinc/iotit/issues/69" TITLE : make iotit scriptable BODY : main idea is to make this tool scriptable to allow it to be used inside other automation tools. and as an additional feature it will allow users to resume their work if previous run failed.

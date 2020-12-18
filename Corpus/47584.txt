@@ -1,0 +1,1 @@
+ URL : "https://github.com/klemens/ff-flashdisable/issues/12" TITLE : port to webextensions BODY : is this add-on possible to port to webextensions api? if there are no apis for flash plugin state manipulation, maybe it can block downloading of all flash content instead, which should have the same effect if flash plugin is enabled in the add-ons manager.

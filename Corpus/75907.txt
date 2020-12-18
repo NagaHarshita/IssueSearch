@@ -1,0 +1,1 @@
+ URL : "https://github.com/markgreenwood/task-service/issues/8" TITLE : implement put /task/{id} BODY : expected behavior put /task/{id} updates the specific task with id id with the task details in the request body and returns a copy of the updated task object.

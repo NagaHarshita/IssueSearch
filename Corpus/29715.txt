@@ -1,0 +1,1 @@
+ URL : "https://github.com/wesbos/keycodes/issues/141" TITLE : missing keycode 172 BODY : linux chrome 55.0.2883.87 key: home icon on top row above f1-f12; row consists of volume keys and suspend key

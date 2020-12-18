@@ -1,0 +1,1 @@
+ URL : "https://github.com/jenslind/minira/issues/21" TITLE : cannot close the app BODY : hey @jenslind ! thanks for the app, works really nice. i couldn't find a way to close it though, except using activity monitor to do that. it would be nice to either have a close button in the interface or implement a context menu. i will try to make time to make a pull request for it.

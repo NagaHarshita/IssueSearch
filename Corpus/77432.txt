@@ -1,0 +1,1 @@
+ URL : "https://github.com/tylert/packer-build/issues/13" TITLE : needed to fix dd command BODY : running the xenial build failed for me when the dd command eventually errors out due to lack of diskspace. i had to add || true or ||: to make this work for me. - dd if=/dev/zero of=/zerofill bs=4m , + dd if=/dev/zero of=/zerofill bs=4m ||: ,

@@ -1,0 +1,1 @@
+ URL : "https://github.com/PSservers15/OCPU/issues/24" TITLE : auth color & room founder BODY : the auth color with the /auth is broken. either we go back to the default auth list, or we somehow fix it. room founder currently does not exist for some reason.

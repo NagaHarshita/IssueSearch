@@ -1,0 +1,1 @@
+ URL : "https://github.com/jmakeig/markdown-annotations/issues/36" TITLE : limit selections to table BODY : selections outside of and across the edge of the table cause errors and confusion.

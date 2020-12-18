@@ -1,0 +1,2 @@
+ URL : "https://github.com/k0shk0sh/FastHub/issues/1210" TITLE : subscribe on issue/pr? BODY : fasthub version: 4.5.1 android version: 7.1.2 sdk: 25 device information: - manufacturer: xiaomi - brand: xiaomi - model: redmi note 4 --- in github.com mobile version you can scroll to bottom in issue/pr page, then you will see a button to subscribe.
+but how can i do this in fasthub?

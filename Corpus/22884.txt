@@ -1,0 +1,1 @@
+ URL : "https://github.com/katiekoschland/my_weather_app/issues/4" TITLE : move styles to css BODY : having your styles outside of the html and in a css file will make the code more maintainable https://github.com/katiekoschland/my_weather_app/blob/10603348cf7ca64067e8b097fa207b47333cd002/views/layouts/main.html l20

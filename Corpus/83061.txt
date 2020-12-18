@@ -1,0 +1,1 @@
+ URL : "https://github.com/nkbt/react-debounce-input/issues/69" TITLE : bower install not working BODY : running bower install like featured in the docs returns: bower bower ehttp status code of 404 obviously coming from an invalid url: https://unpkg.com/react-debounce-input/bower.zip which redirects to https://unpkg.com/react-debounce-input@3.0.0/bower.zip

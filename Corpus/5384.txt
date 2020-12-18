@@ -1,0 +1,1 @@
+ URL : "https://github.com/patrickbusch/homebridge-docker/issues/19" TITLE : npm: not found BODY : i jsut ran ./homebridge.sh build on ubuntu 16.04 server and i get this error step 10/18 : run npm install -g homebridge ---> running in 0feae76d7c2c /bin/sh: 1: npm: not found the command '/bin/sh -c npm install -g homebridge' returned a non-zero code: 127

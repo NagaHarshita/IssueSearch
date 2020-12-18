@@ -1,0 +1,1 @@
+ URL : "https://github.com/desktop/desktop/issues/3686" TITLE : 2fa started failing BODY : could not authenticate this morning, get username or passphrase you entered is incorrect switched to sms, code still failing. osx, i have no logs where specified, nor a github desktop folder even. v 1.0.11 osx 10.13.2

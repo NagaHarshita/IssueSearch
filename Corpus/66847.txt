@@ -1,0 +1,1 @@
+ URL : "https://github.com/dondi/GRNsight/issues/384" TITLE : node rectangles overlap BODY : when the graph is settling its layout, the node rectangles can overlap. ideally, they shouldn't; they should repel each other like the way nodes can't get too close to the edge of the bounding box.

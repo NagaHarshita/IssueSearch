@@ -1,0 +1,1 @@
+ URL : "https://github.com/stephanenicolas/toothpick/issues/205" TITLE : quality checks don't run BODY : we had a few checkstyle issues. the right way to fix this would be to upgrade gradle and use newer quality tasks.

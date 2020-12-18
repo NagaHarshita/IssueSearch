@@ -1,0 +1,1 @@
+ URL : "https://github.com/kondoSoft/Rigde-Unam/issues/40" TITLE : parche para rutas BODY : se necesita crear un parche para la diferencia de rutas que existe en el servidor mussi y el local. ejemplo: servidor local html <link href= /css/bootstrap.min.css rel= stylesheet > servidor mussi html <link href= /mussi/public/css/bootstrap.min.css rel= stylesheet >

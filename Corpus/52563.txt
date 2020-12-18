@@ -1,0 +1,1 @@
+ URL : "https://github.com/rzl-ds/gu511/issues/1" TITLE : conda win installation BODY : be explicit: don't update path for windows install. will bork

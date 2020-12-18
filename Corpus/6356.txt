@@ -1,0 +1,1 @@
+ URL : "https://github.com/versioneye/crawl_r/issues/36" TITLE : add cargo links BODY : @timgluz every rust package is available through a unique url. https://crates.io/crates/<package> for example: https://crates.io/crates/aseprite the crawler should create this links automatically so that we can display it on the versioneye pages.

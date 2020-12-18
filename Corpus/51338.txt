@@ -1,0 +1,1 @@
+ URL : "https://github.com/matb33/meteor-collection-hooks/issues/226" TITLE : after.insert is async? BODY : hi this is really amazing and useful meteor pkg congrats @matb33 ! i'm using it to perform caching operations for subfields of documents i was wondering if if any collection.update ... ; inside the after.insert callback is an asynchronous operation or not.

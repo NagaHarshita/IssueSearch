@@ -1,0 +1,1 @@
+ URL : "https://github.com/travis-ci/travis-ci/issues/7174" TITLE : can't deactivate webhook BODY : tried deactivating the travis hook through the web interface for vmalloc/dessert , but it won't switch off. i have since removed the hook from the github settings themselves. how can i restore things to a working state?

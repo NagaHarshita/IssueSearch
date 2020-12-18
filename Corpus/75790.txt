@@ -1,0 +1,1 @@
+ URL : "https://github.com/ppodgorsek/docker-httpd-custom-configuration/issues/5" TITLE : ignore development files BODY : when importing the project in eclipse, some files are automatically generated but shouldn't be committed. instead, those files should be ignored by git.

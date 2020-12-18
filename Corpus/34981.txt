@@ -1,0 +1,1 @@
+ URL : "https://github.com/eduardocompiani/jogopoo/issues/3" TITLE : criar tela de placar BODY : criar tela com placar utilizando sqlite. critérios de aceite: placar sendo utilziado localmente placar apresentando no máximo 10 registros com a maior pontuação placar apresentando as colunas: posição pontuação nome

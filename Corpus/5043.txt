@@ -1,0 +1,1 @@
+ URL : "https://github.com/mlonn/EDA397-Team-9/issues/65" TITLE : join table bug BODY : more than 1 player cannot join. and the second player is joined with the same username as the other player.

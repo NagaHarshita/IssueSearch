@@ -1,0 +1,1 @@
+ URL : "https://github.com/bkimminich/juice-shop/issues/264" TITLE : name field of challenge BODY : does this need to be camelcase? could it be made prettier for humans? alternatively, could a prettier version be created for use in ctf mode https://github.com/bkimminich/juice-shop/issues/166 .

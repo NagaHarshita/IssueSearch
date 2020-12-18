@@ -1,0 +1,1 @@
+ URL : "https://github.com/CreateUNSW/createunsw.github.io/issues/13" TITLE : no www incorrect redirect BODY : http://createunsw.com.au redirects to a 404 via http://www.createunsw.com.au/destroy/pmwiki.php which doesn't exist

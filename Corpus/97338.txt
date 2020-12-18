@@ -1,0 +1,1 @@
+ URL : "https://github.com/HackingBaidu/BaiduPanApi/issues/9" TITLE : get rid of httpwebrequest. BODY : i previously use httpwebrequest because i didn't know restsharp can work with download/upload. i'll migrate to restsharp for getdownloadrequest and getuploadrequest .

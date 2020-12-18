@@ -1,0 +1,1 @@
+ URL : "https://github.com/FIDATA/gradle-packer-plugin/issues/21" TITLE : don't create validate task BODY : it's too general. i think we should use validatepacker task.

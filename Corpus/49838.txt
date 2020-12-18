@@ -1,0 +1,1 @@
+ URL : "https://github.com/flagbug/ClickOnceToSquirrelMigrator/issues/5" TITLE : update.exe not found? BODY : the squirrel app has included both update.exe and squirrel.exe, the clickonce app has both as well. but the are in the same directory as the app, it appears that it is looking for them in the parent directory which doesn't exist from what i can tell in clickonce .

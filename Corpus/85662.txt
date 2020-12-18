@@ -1,0 +1,1 @@
+ URL : "https://github.com/composer/xdebug-handler/issues/10" TITLE : fix color output handling BODY : xdebughandler only recognizes --ansi and --no-ansi command-line options, so we need to incorporate some of the other commonly used options: --color , --colors , --color=... , --colors=... i'll keep the changes small and simple.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpenWIS/openwis4/issues/33" TITLE : 33. v4 acc - owasp BODY : mg - owasp - an automatic report on library vulnerabilities is now included in the routine build. reporting some high and medium priority issues at present, which will need to be investigated. tc to review - may need to remove some libs. lm - outcome of owasp might need a review.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/255BITS/HyperGAN/issues/37" TITLE : 'z' should be in 'encoder' BODY : 'z' is on the main scope of the config file, move it to the encoder section.

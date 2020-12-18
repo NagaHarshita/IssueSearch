@@ -1,0 +1,1 @@
+ URL : "https://github.com/tzutalin/dlib-android/issues/63" TITLE : clang or gcc 4.9 BODY : i was wondering why @tzutalin had chosen clang over 4.9? are the pre built libraries for opencv using clang? can i also know the impact of chosing gnustl_static over c++-static? assuming opencv pre-built libraries are built with gnustl_static option. thanks

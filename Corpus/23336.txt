@@ -1,0 +1,1 @@
+ URL : "https://github.com/intel-aero/meta-intel-aero/issues/117" TITLE : packages to remove BODY : there are few packages which can be removed from the build. for example recipes-core/images/intel-aero-image.bb has opkg & opkg-utils lets keep the possible packages list to remove.

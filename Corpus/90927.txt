@@ -1,0 +1,1 @@
+ URL : "https://github.com/bzdeck/bzdeck/issues/420" TITLE : support bmo elasticsearch BODY : depends on bug 1362222 - allow trying api requests using elasticsearch https://bugzilla.mozilla.org/show_bug.cgi?id=1362222

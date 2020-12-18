@@ -1,0 +1,1 @@
+ URL : "https://github.com/kubernetes/community/issues/921" TITLE : steering committee label? BODY : there are issues like https://github.com/kubernetes/community/issues/402 that need a sig label, but they fit under the steering committee more than one sig. should we add a label for them? cc: @kubernetes/steering-committee @grodrigues3

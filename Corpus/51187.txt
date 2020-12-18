@@ -1,0 +1,1 @@
+ URL : "https://github.com/Fylipp/placeholder.js/issues/1" TITLE : add support for tables BODY : tables will have to be dealt with separately since they will contain a row for the header names even if they are empty.

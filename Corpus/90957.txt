@@ -1,0 +1,1 @@
+ URL : "https://github.com/jcassee/django-analytical/issues/110" TITLE : support for amp analytics BODY : in accelerated mobile pages, regular javascript is prohibited. instead, it provides an amp-analytics tag with a lot of customizability. are you planning on supporting this? https://www.ampproject.org/docs/reference/components/amp-analytics

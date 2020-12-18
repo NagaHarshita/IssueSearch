@@ -1,0 +1,1 @@
+ URL : "https://github.com/mupen64plus-ae/mupen64plus-ae/issues/625" TITLE : ds4 analog unmapable BODY : the ps4 ds4 controller analog sticks are unmappable. they are recognized in the controller diagnostics and to navigate menus but will not assign when mapping the control pad. i also tried bringing in a mapped set from mupen64ae and they would not function in game.

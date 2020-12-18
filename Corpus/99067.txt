@@ -1,0 +1,1 @@
+ URL : "https://github.com/HGustavs/LenaSYS/issues/3084" TITLE : make changes in grouped.js BODY : the end of the ajaxservice needs to change from result to group. the reason is because grouped.js needs to use grouedservice.php instead of resultedservice.php. the function returnedresults function needs to change name to returnedgroup to match dugga.js

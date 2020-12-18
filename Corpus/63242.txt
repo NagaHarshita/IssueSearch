@@ -1,0 +1,1 @@
+ URL : "https://github.com/ipfs/go-ipfs/issues/3761" TITLE : disable linux on travis BODY : currently we run linux and osx on travis, and it just love to fail randomly. i suggest we run just osx on travis so when we see a failure it is osx and we should investigate.

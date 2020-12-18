@@ -1,0 +1,1 @@
+ URL : "https://github.com/Brulath/fitbit-php-oauth2/issues/14" TITLE : refresh token expires BODY : for a small percent of users i am seeing refresh tokens expired exception. does anyone have any insight on how this is happening??

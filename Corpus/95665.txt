@@ -1,0 +1,1 @@
+ URL : "https://github.com/jojobyte/githoard/issues/5" TITLE : detect missing directories BODY : currently, if a directory is moved / deleted, the repo remains in the list without any way to update the directory or remove the repo. should have some indication that the directory is missing and possibly the ability to update the entry to the new directory if there is one.

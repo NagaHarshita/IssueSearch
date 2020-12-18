@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla-services/screenshots/issues/3220" TITLE : enable fxa on dev BODY : this requires setting $user_settings to true

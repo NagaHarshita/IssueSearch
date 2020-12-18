@@ -1,0 +1,1 @@
+ URL : "https://github.com/jaric-de/laravel-learn/issues/5" TITLE : folder for models BODY : move users and games models to 'model' dir and change namespaces

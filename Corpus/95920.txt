@@ -1,0 +1,1 @@
+ URL : "https://github.com/mlibrary/fishrappr/issues/311" TITLE : does not work with rsolr 2 BODY : description: blacklight on its own will pull in rsolr 2.x , which breaks fishrappr --- nameerror uninitialized constant blacklight::solr::repository::rsolr acceptance criteria: - able to update to newer versions of rsolr

@@ -1,0 +1,1 @@
+ URL : "https://github.com/phalt/swapi/issues/76" TITLE : species schema broken BODY : i pulled the species schema and had a devil of a time with it. it looks like the list of required fields got corrupted. here is is the schema fixed based on the actual data ... species.schema.fixed.json https://www.dropbox.com/s/6fuh1ebfpzp8epa/species.schema.fixed.json?dl=1 thanks, nick

@@ -1,0 +1,1 @@
+ URL : "https://github.com/CCExtractor/ccextractor/issues/778" TITLE : need to update libgpac BODY : lots of warnings in debian 9 comes with a newer gcc, as and usual, that breaks stuff .

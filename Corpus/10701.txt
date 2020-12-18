@@ -1,0 +1,1 @@
+ URL : "https://github.com/porres/pd-cyclone/issues/207" TITLE : cycle~ phase bug BODY : it's buggy - sig~ should overwrite arg

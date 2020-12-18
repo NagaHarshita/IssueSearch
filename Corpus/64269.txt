@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla-services/screenshots/issues/2999" TITLE : format stack for sentry BODY : our stacks are kind of annoying. some newlines and removing the ... in moz-extension://{..}/ would help.

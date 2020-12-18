@@ -1,0 +1,1 @@
+ URL : "https://github.com/lxd-nomad/lxd-nomad/issues/17" TITLE : add a 'status' action BODY : it'd be interesting to have an action allowing to get the statuses of the containers of a project running / poweroff /... .

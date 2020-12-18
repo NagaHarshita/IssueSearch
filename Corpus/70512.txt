@@ -1,0 +1,1 @@
+ URL : "https://github.com/lgraubner/sitemap-generator-cli/issues/15" TITLE : what about ping option? BODY : i was wondering if we have an option to ping to google and bing for newly created sitemap and thus encourage crawlers to crawl update ones. this is an example: http://www.google.com/webmasters/sitemaps/ping?sitemap=http://www.yourdomain.com/sitemap.xml

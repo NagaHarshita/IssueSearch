@@ -1,0 +1,1 @@
+ URL : "https://github.com/gem/oq-engine/issues/2664" TITLE : update images in doc BODY : following https://github.com/gem/oq-engine/pull/2661 the animated gifs avalable in the documentation need to be updated. a general update of images would be a good idea i.e. the ones with the windows installer

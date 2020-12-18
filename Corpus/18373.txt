@@ -1,0 +1,1 @@
+ URL : "https://github.com/anishathalye/dotbot/issues/118" TITLE : switch to python3 BODY : hello, dotbot currently doesn't work on systems where only python3 is installed, as it looks for the python binary. this means that dotbot doesn't work out of the box on a modern and minimal system like a minimal debian stretch . it's probably time to switch to python3.

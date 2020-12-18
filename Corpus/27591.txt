@@ -1,0 +1,1 @@
+ URL : "https://github.com/AdeleD/react-paginate/issues/190" TITLE : do not display next BODY : is there a way to disable the next value if the user is currently in the last page?

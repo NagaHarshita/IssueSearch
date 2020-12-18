@@ -1,0 +1,1 @@
+ URL : "https://github.com/drummingjack2/prj-rev-bwfs-tea-cozy/issues/1" TITLE : html5 semantic tags BODY : don't forget about semantic tags: <header>, <footer>, <main>, <section>, <nav>' instead of using id= header just use the tag, this is the popular convention right now. https://github.com/drummingjack2/prj-rev-bwfs-tea-cozy/blob/master/tea-cozy/index.html l11

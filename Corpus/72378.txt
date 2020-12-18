@@ -1,0 +1,1 @@
+ URL : "https://github.com/ManageIQ/manageiq-pods/issues/82" TITLE : bug in miq-template.yaml BODY : line 91 - image: manageiq/manageiq-pods:{application_img_tag} missing a $ -> - image: manageiq/manageiq-pods:${application_img_tag}

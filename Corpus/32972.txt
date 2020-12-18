@@ -1,0 +1,1 @@
+ URL : "https://github.com/django/asgi_redis/issues/63" TITLE : 1.4.3 release notes? BODY : both github and pypi show there is a 1.4.3 release of asgi_redis, but don't see any changelog details for it. can you share or update the changelog with what's new in 1.4.3? thanks!

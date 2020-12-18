@@ -1,0 +1,1 @@
+ URL : "https://github.com/dib-lab/khmer/issues/1738" TITLE : improved hyperloglog paper BODY : an interesting paper claiming to have a better hll: http://cse.seu.edu.cn/personalpage/csqjxiao/csqjxiao_files/papers/infocom17.pdf https://news.ycombinator.com/item?id=14636699 https://github.com/axiomhq/hyperloglog

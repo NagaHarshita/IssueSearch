@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/WinObjC/issues/2351" TITLE : complete nsscanner stubs BODY : we have several methods stubbed out.

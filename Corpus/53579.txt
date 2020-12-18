@@ -1,0 +1,1 @@
+ URL : "https://github.com/gorgonia/tensor/issues/4" TITLE : embed ap instead of ap BODY : _from @chewxy on august 30, 2017 23:31_ was doing an allocation analysis to improve the package in general. things can be improved very slightly by embedding ap instead of ap in cs and dense _copied from original issue: chewxy/gorgonia 145_

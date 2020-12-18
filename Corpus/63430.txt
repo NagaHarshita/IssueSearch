@@ -1,0 +1,1 @@
+ URL : "https://github.com/resin-io/etcher/issues/1230" TITLE : drag and drop is broken BODY : when dropping an image, nothing happens. it seems that we're passing the file path to imageselectioncontroller.selectimage , which expects an image object instead.

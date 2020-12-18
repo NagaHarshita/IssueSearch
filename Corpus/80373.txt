@@ -1,0 +1,1 @@
+ URL : "https://github.com/dotnet/corefx-standup/issues/14" TITLE : topic: test runs 5 votes BODY : talking points: automation: ci jenkins, eventually migrating to helix helix eventually to have public access goal to stay clean.

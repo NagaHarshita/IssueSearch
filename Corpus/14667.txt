@@ -1,0 +1,1 @@
+ URL : "https://github.com/Astrydax/SWEotE-Discord-Dice-Roller/issues/31" TITLE : broke my modifier BODY : line 76 + total = r - modifier; needs to be total = r + +modifier;

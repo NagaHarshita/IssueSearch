@@ -1,0 +1,1 @@
+ URL : "https://github.com/dominictracey/hangboard/issues/26" TITLE : add state schema field s BODY : so when we change, we can default new values/upgrade old values, etc.

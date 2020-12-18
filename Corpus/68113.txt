@@ -1,0 +1,1 @@
+ URL : "https://github.com/zsh-users/antigen/issues/518" TITLE : remove cache on upgrade BODY : for example https://github.com/zsh-users/antigen/issues/517 . antigen should check cache version before loading it.

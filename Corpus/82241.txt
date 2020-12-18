@@ -1,0 +1,1 @@
+ URL : "https://github.com/cfe-lab/Kive/issues/692" TITLE : add oom state to slurmlib BODY : there's a new possible state for jobs in the latest version of slurm. review the full list to check that we can translate them all. list : https://github.com/schedmd/slurm/blob/c7d35eb97e6cfee7257f591901e1837d89d6a54a/slurm/slurm.h.in l204

@@ -1,0 +1,1 @@
+ URL : "https://github.com/PatrickRBailey/ChurchPlanning/issues/3" TITLE : create basic views BODY : todo: - create a base layout page in views/shared that contains the html boilerplate - create a viewstart file that uses the baselayout on all views - create landing pages based on the site map

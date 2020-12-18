@@ -1,0 +1,1 @@
+ URL : "https://github.com/dtdicker/ser316labcr/issues/48" TITLE : major blue BODY : dtdicker issue 24 serversolution.java line 114 out.writeobject writes only nulls in place of actual accounts onto file fd major

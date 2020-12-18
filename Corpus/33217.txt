@@ -1,0 +1,1 @@
+ URL : "https://github.com/python-social-auth/social-core/issues/161" TITLE : add chatwork support BODY : add support to authenticate against chatwork oauth2 backend. ref: http://developer.chatwork.com/ja/oauth.html

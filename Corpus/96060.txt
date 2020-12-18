@@ -1,0 +1,1 @@
+ URL : "https://github.com/thombergs/budgeteer/issues/167" TITLE : duplicate title not caught BODY : if i accidentally or intentionally name a budget the way another budget is already named, this action results in an internal error. a proper error should occur or the action should just work ok as appropriate.

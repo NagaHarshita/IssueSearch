@@ -1,0 +1,1 @@
+ URL : "https://github.com/idb-project/the-idb/issues/319" TITLE : locations table is broken BODY : redmine 4524<br/>fix it, or choose another kind of display for the locations. maybe: the closure tree gem can generate dotfile output. render svg, with the nodes linking to the location details pages.

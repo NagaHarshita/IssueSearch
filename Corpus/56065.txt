@@ -1,0 +1,1 @@
+ URL : "https://github.com/cb-geo/mpm/issues/4" TITLE : material point handler BODY : this class manages the storage and handling of particles. it provides the data structures necessary to store particles efficiently, accessor functions to iterate over particles and find particles, and algorithms to distribute particles in parallel domains.

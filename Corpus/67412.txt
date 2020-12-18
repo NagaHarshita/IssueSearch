@@ -1,0 +1,1 @@
+ URL : "https://github.com/nanlabs/econsole/issues/7" TITLE : please upgrade momentjs BODY : following https://nodesecurity.io/advisories/55, momentjs 2.6.0 has a security vulnerability. please upgrade to at least 2.11.2 in order to fix this.

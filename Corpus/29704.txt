@@ -1,0 +1,1 @@
+ URL : "https://github.com/ppplinday/vgg16-by-ARM-Compute-Library/issues/2" TITLE : miss file input.csv BODY : do you forget to include your test input file? when i try to run your project, i find that there is no input.csv in the folder. thanks.

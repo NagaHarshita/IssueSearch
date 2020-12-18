@@ -1,0 +1,1 @@
+ URL : "https://github.com/Reactive-Extensions/RxCpp/issues/378" TITLE : support for skip_while BODY : please add support for the skip_while operator this one http://reactivex.io/documentation/operators/skipwhile.html .

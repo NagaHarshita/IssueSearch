@@ -1,0 +1,1 @@
+ URL : "https://github.com/jgfoster/Jade/issues/74" TITLE : runtime cannot log in BODY : with 2.0.19 we are no longer able to login using a runtime. i believe that this is related to a new package that is not being included in the runtime.

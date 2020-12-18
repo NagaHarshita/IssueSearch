@@ -1,0 +1,1 @@
+ URL : "https://github.com/Team-SDIoT/EazyExit/issues/30" TITLE : dns server issues BODY : first time setup must not include ip address configuration , it should be independent of the server ip address , the node must be configured state to reach server if the ip address of the server is changed

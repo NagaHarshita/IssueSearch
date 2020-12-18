@@ -1,0 +1,1 @@
+ URL : "https://github.com/liam-pk/Chapter4_Liam-Sunny/issues/2" TITLE : issue with 6 fruitfull BODY : your program adds 5 to the number entered. the exercise reads: write a fruitful function sum_to n that returns the sum of all integer numbers up to and including n. so sum_to 10 would be 1+2+3...+10 which would return the value 55.

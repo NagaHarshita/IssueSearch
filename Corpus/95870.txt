@@ -1,0 +1,1 @@
+ URL : "https://github.com/w3c/web-platform-tests/issues/8286" TITLE : document the use of labels BODY : i can't find any documentation of the labels in use in this repo. i'd like to write that documentation, and based on that work out some triage process for groups of labels. @tobie, where is the code that automatically creates labels for each directory?

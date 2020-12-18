@@ -1,0 +1,1 @@
+ URL : "https://github.com/mkronenfeld/WP-Image-Color-Palette/issues/31" TITLE : add integration tests BODY : - create post - add attachement - save post - api call check for modified headers

@@ -1,0 +1,1 @@
+ URL : "https://github.com/malucooo/Otxserver-New/issues/235" TITLE : warlock wrong attack BODY : <attack name= fire interval= 2000 chance= 20 range= 7 radius= 3 target= 1 min= -50 max= -180 > <attribute key= shooteffect value= burstarrow /> muda para: <attribute key= shooteffect value= fire />

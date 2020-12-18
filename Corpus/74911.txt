@@ -1,0 +1,1 @@
+ URL : "https://github.com/coopdevs/coopdevs-provisioning/issues/10" TITLE : fix tcp/ip db connection BODY : el 15 de noviembre dejo de funcionar el servicio por problemas de conectividad con la base de datos: add to the pg_hba.conf line to ipv6 connection.

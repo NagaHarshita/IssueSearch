@@ -1,0 +1,1 @@
+ URL : "https://github.com/Toqe/Downloader/issues/7" TITLE : download speed controlling BODY : did you ever considered to implement some trigger or variable which would allow user to control download speed? multi-part downloader due to way of how is working is supposed to maximize download speed, but at same time can consume completly user bandwitch. that would be nice feature.

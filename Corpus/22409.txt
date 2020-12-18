@@ -1,0 +1,1 @@
+ URL : "https://github.com/OnsenUI/OnsenUI/issues/2279" TITLE : landscape iphone x BODY : onsen fails to detect the iphone x platform if the app is started in landscape. the isiphonex function should include both portrait and landscape options h 812 && w 375 || w 812 && h 375 .

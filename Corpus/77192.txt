@@ -1,0 +1,1 @@
+ URL : "https://github.com/kfpotts1/mp.Me/issues/24" TITLE : mommy ui template parent BODY : this class acts as the parent class for the contents of each screen. done: each screen can display text, images, and buttons from the parent class.

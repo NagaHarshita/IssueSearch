@@ -1,0 +1,1 @@
+ URL : "https://github.com/NeXTs/Clusterize.js/issues/92" TITLE : get & set for the rows BODY : thank you for this awesome plugin ! for a project, i had to be able to modify the rows to add/remove a class when the row is selected . i therefore added two functions : self.getrows = function { return rows; } self.setrows = function r, idx { rows idx = r; }

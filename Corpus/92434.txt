@@ -1,0 +1,1 @@
+ URL : "https://github.com/Steven-N-Hart/vcf-miner/issues/6" TITLE : works @home without proxy BODY : hi, just letting you know i retried the docker version with the current commits and it works at home, no proxy . thanks for this! colin

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ghchinoy/awstool/issues/1" TITLE : sg assigned to eni BODY : running the tool with with-delete option returned delete matches for security groups that are in use! these sg appear to be ones that are are not assigned at an ec2 instance level but at the eni level i.e. assigned under 'network interfaces' of the aws ec2 web console.

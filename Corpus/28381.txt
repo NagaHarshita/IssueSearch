@@ -1,0 +1,9 @@
+ URL : "https://github.com/DSpace/dspace-angular/issues/75" TITLE : full item view page BODY : add a component for the full item view page
+its route should be /item/:id/full it should contain a table that lists the key, value and language for all the item's metadata fields, sorted alphabetically by key
+use bootstrap's responsive table styles https://v4-alpha.getbootstrap.com/content/tables/ responsive-tables to make the table responsive for now, we may replace it with something a little more useable on smaller screens later it should also contain a file section that shows the following fields for each bitstream in the original and license bundles
+- thumbnail: reuse the component from the simple item view page
+- name
+- size: reuse the pipe from the simple item view page
+- format
+- description
+- a download link it should also contain a list of the collections the item is a direct descendant of, with a link and their short description.

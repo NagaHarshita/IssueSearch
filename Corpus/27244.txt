@@ -1,0 +1,1 @@
+ URL : "https://github.com/lcnetdev/marc2bibframe2/issues/18" TITLE : create an ant build BODY : articulating from 13 - the goal here was to have a build that runs tests and produces an artifact, independent of a ci tool. the ci tool can leverage this to get repeatable builds, just like the developers.

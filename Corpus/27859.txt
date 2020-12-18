@@ -1,0 +1,1 @@
+ URL : "https://github.com/gojuno/composer/issues/62" TITLE : enhance suite page. BODY : - reduce paddings t,b for test item. - enlarge test item duration text. - create color mapping for each test device and apply color to device name label. - set suite $id as page title.

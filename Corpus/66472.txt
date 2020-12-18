@@ -1,0 +1,1 @@
+ URL : "https://github.com/intel/tpm2-tools/issues/616" TITLE : move from 3.x to master BODY : take commits fixing issues 305 and 306 to master after the 3.x pr is merged: https://github.com/intel/tpm2-tools/pull/613

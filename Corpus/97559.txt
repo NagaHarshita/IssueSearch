@@ -1,0 +1,1 @@
+ URL : "https://github.com/BaderLab/EnrichmentMapApp/issues/294" TITLE : heatmap: compress by class BODY : currently the heat map can only compress by data set, add the option to compress by class if classes are available .

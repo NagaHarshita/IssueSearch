@@ -1,0 +1,1 @@
+ URL : "https://github.com/dbouwman/torii-provider-arcgis/issues/28" TITLE : upgrade to latest torii BODY : as per https://medium.com/@bantic/torii-vulnerability-disclosure-dd98b6d88ec3, torii < 0.9.1 has a possible exploit if the default redirecturi is used. while this provider does not use the default, it would still be good to upgrade to latest

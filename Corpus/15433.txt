@@ -1,0 +1,1 @@
+ URL : "https://github.com/tobymao/rolling_stock/issues/78" TITLE : double submit fix BODY : $ 'form :submit' .click function { $ this .prop disabled , true .closest 'form' .append $ '<input/>', { type: 'hidden', name: this.name, value: this.value } .submit ; } ;

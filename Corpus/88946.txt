@@ -1,0 +1,2 @@
+ URL : "https://github.com/SMRFoundation/NodeXLBasic/issues/363" TITLE : patch for nodexl download BODY : here's a fix for nodexl download issues. you have to rename the config file, download visual studios tool, and then download nodexl. step by step instructions are here:
+http://support.dataeverywhere.com/article/48-error-the-value-of-the-property-type-cannot-be-parsed this work item was migrated from codeplex codeplex work item id: '65201' vote count: '1'

@@ -1,0 +1,1 @@
+ URL : "https://github.com/maateen/avro/issues/112" TITLE : avro installation problem BODY : siful@siful:~$ sudo gdebi avro_2.0-1_all.deb sudo password for siful: reading package lists... done building dependency tree reading state information... done reading state information... done this package is uninstallable cannot install 'libibus-1.0-dev' siful@siful:~$

@@ -1,0 +1,1 @@
+ URL : "https://github.com/HenryAWilliams/School-Stuff/issues/1" TITLE : fix age replace BODY : when user requests age replace, it doesn't find the selected user and outputs 404 not found . fix it when you have a chance

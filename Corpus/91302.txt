@@ -1,0 +1,1 @@
+ URL : "https://github.com/ham0903/private-space/issues/5" TITLE : textarea click select all BODY : <textarea> 클릭시 모든 영역 선택 textarea내 <textarea onclick= this.select ; >

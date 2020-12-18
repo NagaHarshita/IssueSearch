@@ -1,0 +1,1 @@
+ URL : "https://github.com/smk291/Insider/issues/88" TITLE : consider using typedarrays BODY : when arrays contain primitives, consider converting them to typedarrays for performance. this is just for practice and learning.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/udibr/headlines/issues/16" TITLE : provide trained weights BODY : i am trying to train the model but it is taking a lot of time since i am doing this on cpu, so can anyone provide the trained weights if anyone has successfully trained and saved the weights ?

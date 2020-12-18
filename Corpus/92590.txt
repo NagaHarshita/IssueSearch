@@ -1,0 +1,1 @@
+ URL : "https://github.com/jasnig/ZJScrollPageView/issues/49" TITLE : 不支持新的 timer api BODY : 现象： 调用接口 nstimer scheduledtimerwithtimeinterval:repeats:block: 后闪退。 提示错误 ： nstimer scheduledtimerwithtimeinterval:repeats:block: : unrecognized selector sent to class 0x3995ced4 建议： 应该是没有适配新的 api （ios 10），楼主可以考虑适配下就更完美了。

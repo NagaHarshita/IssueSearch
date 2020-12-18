@@ -1,0 +1,1 @@
+ URL : "https://github.com/kinderly/axiomus_api/issues/5" TITLE : convert order id to okey BODY : hi! how i can convert order id ex. 5453755 to okey ex. fbe9c5b7b98ec639df6a5ad5e8db1111 ? in axiomus api for it used get_okey method, but as understanf, axiomusapi don't support it? what's best way do it? best, stan

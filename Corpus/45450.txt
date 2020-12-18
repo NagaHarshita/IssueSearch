@@ -1,0 +1,1 @@
+ URL : "https://github.com/mate-desktop/mate-panel/issues/614" TITLE : icon spacing too wide BODY : on ubuntu 16.04 i upgraded to mate-panel 1.18.3-0ubuntu1~16.04.york0 from 1.16 and expected the icon spacing to remain the same. they don't fit on the bar anymore. is there a way to adjust the spacing?

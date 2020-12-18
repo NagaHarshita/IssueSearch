@@ -1,0 +1,1 @@
+ URL : "https://github.com/unrolled/secure/issues/20" TITLE : support for echo 2 BODY : cannot use securemiddleware.handler type func http.handler http.handler as type echo.middlewarefunc in argument to e.use

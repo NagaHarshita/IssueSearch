@@ -1,0 +1,1 @@
+ URL : "https://github.com/mariusor/mpris-scrobbler/issues/13" TITLE : fix queue scrobbling BODY : currently the queue management is shit. - fix tracks being added multiple times in the queue when play/pause. - implement a proper queue structure. - move away from submitting each track to the api, since all services support sending the full queue in one call.

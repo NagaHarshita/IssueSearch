@@ -1,0 +1,1 @@
+ URL : "https://github.com/mkobit/jenkins-pipeline-shared-libraries-gradle-plugin/issues/16" TITLE : codenarc rules generation BODY : generate various codenarc rules to aid in validation of library code before testing.

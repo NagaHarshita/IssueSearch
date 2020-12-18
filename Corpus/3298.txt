@@ -1,0 +1,1 @@
+ URL : "https://github.com/MeetmeLeave/ng-canvas-gauges/issues/11" TITLE : no lib folder BODY : i can't find lib folder inside. so import {gaugesmodule} from 'ng-canvas-gauges/lib'; fails. thanks

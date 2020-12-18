@@ -1,0 +1,1 @@
+ URL : "https://github.com/forkcms/forkcms/issues/1960" TITLE : profiles: password field BODY : type - enhancement problem description > the fork cms addpassword field is missing the correct classes form-control fork-form-text steps to reproduce > when you look at the profiles register action and profiles loginbox widget , you will see that these get the wrong old classes

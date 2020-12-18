@@ -1,0 +1,1 @@
+ URL : "https://github.com/m4rcelogyn/jovanna-lima-api/issues/3" TITLE : período de vendas BODY : criar um cadastro de período de vendas para ser consumido pelo aplicativo mobile. deverá possuir os seguintes métodos: get todos / único registro s post put delete regras de negócio a definir.

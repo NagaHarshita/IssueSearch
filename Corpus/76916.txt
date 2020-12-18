@@ -1,0 +1,1 @@
+ URL : "https://github.com/DeviationTX/deviation-manual/issues/25" TITLE : max scale value mistaken BODY : in the complex mixer definitions the max value for scale is noted to 100% instead of 125 % text note that while the scale value is limited to 100%, the mixer may provide a value larger than 100% if an offset is set or if the trim value is non-zero.

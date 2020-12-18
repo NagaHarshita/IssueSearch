@@ -1,0 +1,1 @@
+ URL : "https://github.com/nicolasbeauvais/vue-social-sharing/issues/63" TITLE : unknown custom element BODY : hi there, i would like to add social network custom element icons in the network tap i.e. <network network= facebook > <facebook-icon size= 30 ></facebook-icon> </network> i import the cusotm element correctly. when i use it outside of network it works. any help?

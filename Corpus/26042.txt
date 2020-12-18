@@ -1,0 +1,1 @@
+ URL : "https://github.com/3D-e-Chem/knime-3d-e-chem/issues/2" TITLE : add preference page BODY : some of the 3d-e-chem nodes will need their own preference page. the specific page should be nested under the 3d-e-chem preference page.

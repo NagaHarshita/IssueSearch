@@ -1,0 +1,1 @@
+ URL : "https://github.com/M42/mikrokosmos/issues/13" TITLE : avoid double definitions BODY : writing a = \x.x a = \x.x makes the interpreter identify twice the term, as in λx.x => a,a this is unnecessarily verbose.

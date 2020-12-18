@@ -1,0 +1,1 @@
+ URL : "https://github.com/mantidproject/mslice/issues/123" TITLE : slice plot title BODY : slice plots should have a title string showing which dataset is plotted. at present, there is no title string, and if multiple slices are plotted from different datasets it can become confusing.

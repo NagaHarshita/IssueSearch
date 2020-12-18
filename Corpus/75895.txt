@@ -1,0 +1,1 @@
+ URL : "https://github.com/calmor15014/HA-Component-mythtv-frontend/issues/11" TITLE : implement media position BODY : getstatus reports the current and total time - use this to indicate position of playback

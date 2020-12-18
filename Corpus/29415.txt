@@ -1,0 +1,1 @@
+ URL : "https://github.com/magento/magento2/issues/10968" TITLE : load time for 2.1.9 BODY : when we use the 2.1.5 , after the varnish, redis, pre-warming of cache configuration, the load time is around 2 seconds, but after we upgrade to 2.1.9, it become around 6 seconds which is below the average load time, we did not make any change.

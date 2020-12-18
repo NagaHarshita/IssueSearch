@@ -1,0 +1,1 @@
+ URL : "https://github.com/Fantasmos/NetworkAlertSystem/issues/1" TITLE : posting too many balloons BODY : if the threshold is reached whilst a balloon is still up, the program will post another balloon. although this is intentional, this can cause the balloons to keep being posted for several seconds after

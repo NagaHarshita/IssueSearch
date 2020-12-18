@@ -1,0 +1,1 @@
+ URL : "https://github.com/halcy/MastodonToTwitter/issues/49" TITLE : doesn't with systemd BODY : hi, i started mastodontotwitter and configured it. it started without problems, then i quit, started it with the systemd service but it doesn't start because it wont to configured again, but i can't configure it because i havnt any prompt. best, patrick

@@ -1,0 +1,1 @@
+ URL : "https://github.com/zenwalker/opencart-webapi/issues/6" TITLE : getting error message BODY : { success :false, code :10, message : api is disabled } when trying to fetch category -> http://rationatmydoor.com/?route=feed/web_api/category&id=1

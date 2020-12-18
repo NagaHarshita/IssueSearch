@@ -1,0 +1,1 @@
+ URL : "https://github.com/Kodkollektivet/kodkollektivet.se/issues/16" TITLE : github webhook not working BODY : when posting data to https://kodkollektivet.se/en/github/webhook the application should go to github and get all out kodkollektivet repos and contributors. we get a 500 response when running it.

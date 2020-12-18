@@ -1,0 +1,1 @@
+ URL : "https://github.com/phrase/phraseapp-ruby/issues/29" TITLE : add travis build BODY : can we add a travis build, and add check for build with ruby 2.4 as in ice

@@ -1,0 +1,1 @@
+ URL : "https://github.com/eldarerathis/Simple-Chess-Clock/issues/2" TITLE : cannot access the settings BODY : in the code i see a menu that provides access to the app settings, like e.g. the game time. i cannot access this menu. i guess that's because of the menu button missing since android 3.0 https://android-developers.googleblog.com/2012/01/say-goodbye-to-menu-button.html .

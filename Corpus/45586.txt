@@ -1,0 +1,1 @@
+ URL : "https://github.com/EvelinaLarsson/f1-3-c2p1-colmar-academy/issues/3" TITLE : important: unique ids BODY : https://github.com/evelinalarsson/f1-3-c2p1-colmar-academy/blob/master/capstone/index.html l137-l171 be aware that ids should be unique, not reused. if you need to reuse a selector, make it a class.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/lbusett/MODIStsp/issues/71" TITLE : problem install modistsp BODY : why does this error come out? it is the internet? > library devtools > install_github lbusett/modistsp error in curl::curl_fetch_disk url, x$path, handle = handle : timeout was reached

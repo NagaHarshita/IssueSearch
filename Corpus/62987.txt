@@ -1,0 +1,1 @@
+ URL : "https://github.com/jakezatecky/d3-funnel/issues/72" TITLE : d3funnel is not defined BODY : hello, trying out the library, if i include the js script dist/d3-funnel.min.js, the js file loads in the browser i can see it in chrome debugger but the dbfunnel object doesn't seem to exist. what am i missing? thank you very much.

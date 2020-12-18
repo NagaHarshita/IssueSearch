@@ -1,0 +1,1 @@
+ URL : "https://github.com/Conrad2134/qunit-coverage/issues/3" TITLE : use absolute path first BODY : if an absolute path to a file is passed, we should use that first before looking for it from the current working directory.

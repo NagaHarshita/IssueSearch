@@ -1,0 +1,1 @@
+ URL : "https://github.com/ssell/noisegen/issues/38" TITLE : broken random generation BODY : identical results are being generated when creating a pure noise texture irregardless of algorithm and seed.

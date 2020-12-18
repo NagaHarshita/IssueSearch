@@ -1,0 +1,1 @@
+ URL : "https://github.com/WestchesterPublicLibrary/Ansible-Ubuntu-Classroom/issues/1" TITLE : add support for 17.10 BODY : ensure that 17.10 works with the deployment this should not break 16.04

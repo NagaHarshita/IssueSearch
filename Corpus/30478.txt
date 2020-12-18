@@ -1,0 +1,1 @@
+ URL : "https://github.com/JuliaPlots/StatPlots.jl/issues/64" TITLE : plots export broken BODY : https://github.com/juliaplots/statplots.jl/pull/50 broke plots exports. mwe: julia using statplots histogram randn 1000 error: undefvarerror: histogram not defined cc @chrisrackauckas

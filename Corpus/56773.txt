@@ -1,0 +1,1 @@
+ URL : "https://github.com/otevrena-data-mfcr/CityVizor/issues/107" TITLE : oddělit cron a server BODY : 1 kvůli omezení rizika, ža cron sestřelí server 2 kvůli možnosti spustit více instancí serveru issue 53

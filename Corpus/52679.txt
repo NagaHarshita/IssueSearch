@@ -1,0 +1,1 @@
+ URL : "https://github.com/japlatt/Physics301/issues/12" TITLE : corner plot aesthetics BODY : for corner plots, we want to make sure that it is aesthetically pleasing. to this end, update the mcmc corner plotting code so that the 2d histogram may not be seen, and contours are drawn at the 68 and 95% confidence levels. also, make sure the number of bins is ~50.

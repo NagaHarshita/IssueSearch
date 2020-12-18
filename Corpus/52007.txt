@@ -1,0 +1,1 @@
+ URL : "https://github.com/ibackus/pbmov/issues/5" TITLE : camera coordinates bug BODY : some bug is going on here, when do something like: python in 64 : frame 'cam', 0, 80, 75 , 40 ; frame 'target', 0,-20,0 , 40 ; mov.preview 40 i get what i would expect for a camera at y=-80, rather than y=+80

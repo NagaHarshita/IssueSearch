@@ -1,0 +1,1 @@
+ URL : "https://github.com/jmkuehn/ACMWsite/issues/5" TITLE : date format for json BODY : the date format in the json should most likely be changed to a reliable format to avoid errors like having march 23rd, 2016 bugging out the events page. i'd recommend iso 8601 yyyy-mm-dd which javascript's date function expects even though it can accept other formats

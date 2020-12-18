@@ -1,0 +1,1 @@
+ URL : "https://github.com/couchbaselabs/mobile-testkit/issues/950" TITLE : investigate hanging test BODY : run the same configuration as this job - http://uberjenkins.sc.couchbase.com/job/listener-client-client/27/ the test test_peer_2_peer_sanity hung for 9 hours. i'm guessing it is a deadlock scenario. please try to repro in a loop.

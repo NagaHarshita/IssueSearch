@@ -1,0 +1,1 @@
+ URL : "https://github.com/craigsimps/genesis-starter-theme/issues/9" TITLE : drop use of bower BODY : bower is still maintained, however, the creators recommend yarn https://yarnpkg.com/ and webpack https://webpack.js.org/ for new front end projects. my knowledge of those is sparse, so for the moment i'm going to leave the bower.json file in place and use it where necessary.

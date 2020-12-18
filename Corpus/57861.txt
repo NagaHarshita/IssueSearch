@@ -1,0 +1,1 @@
+ URL : "https://github.com/VKoskiv/c-ray/issues/9" TITLE : render image in stages BODY : render each sample into a buffer, then average with previous sample. this way user gets more immediate feedback. currently each pixel is rendered fully before being stored to buffer

@@ -1,0 +1,1 @@
+ URL : "https://github.com/duydao/Text-Pastry/issues/62" TITLE : feature from x to y BODY : using the number in the first selection as the x and then numbering from there. func 4 ; func 4 ; func 4 ; becomes func 4 ; func 5 ; func 6 ;

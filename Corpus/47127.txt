@@ -1,0 +1,1 @@
+ URL : "https://github.com/nodemcu/nodemcu-firmware/issues/1922" TITLE : not support spi slave BODY : i can see there are some slave-related codes in app/driver/api.c, but why platform_spi_setup hardcode spi_master_init ? also the document shows that spi.slave - not supported currently is there any known serious issues on spi slave implementation? thanks

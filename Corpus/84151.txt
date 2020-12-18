@@ -1,0 +1,1 @@
+ URL : "https://github.com/cecylopez/inventario-web/issues/5" TITLE : creación de loginservlet BODY : creación de servlet en el proyecto web para exponer métodos para login y logout. estos métodos del servlet podrán ser llamados por medio de una url directa a cada método y delegarán a la lógica del proyecto inventario.

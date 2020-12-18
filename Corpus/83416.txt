@@ -1,0 +1,1 @@
+ URL : "https://github.com/rogpeppe/godef/issues/65" TITLE : cannot compile on windows BODY : when compile on win64 platform, show this error: github.com/rogpeppe/godef/vendor/9fans.net/go/plan9/client compile: reading input: eof platform : windows 10 64-bit go : 1.7.6.windows-amd64 \ 1.8.3.windows-amd64 \ 1.8.3.windows-386 i tried 3 versions

@@ -1,0 +1,1 @@
+ URL : "https://github.com/gecgooden/chunkgen/issues/58" TITLE : fix percentage display. BODY : progress updates are off by a factor of 100. so, instead of showing 99.546%, it shows 0.99546%.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/emicklei/go-restful/issues/331" TITLE : jwt auth question BODY : hello, is it possible to use jwt auth using github.com/dgrijalva/jwt-go library? if so, could you please help me to implement such middleware for go-restful library? thanx a lot!

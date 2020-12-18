@@ -1,0 +1,1 @@
+ URL : "https://github.com/WICG/gesture-delegation/issues/9" TITLE : origin vs. domain BODY : > outside of the current domain. i don't know what current domain is defined as, technically. etld+1 is a concept i don't understand but at least have seen in specs; domain is not apart from document.domain . it seems better to be stricter and restrict to origin, anyway.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/TALP-UPC/FreeLing/issues/54" TITLE : error path for include: BODY : thre file: src\libtreeler\treeler\algo\perceptron-v0.1.h has the following include: include treeler/learn/perceptron-v0.1.tcc which doesn't exist anymore, i think it should be include treeler/algo/perceptron-v0.1.tcc

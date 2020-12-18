@@ -1,0 +1,1 @@
+ URL : "https://github.com/future-architect/vuls/issues/407" TITLE : go get not get BODY : go get github.com/kotakanbe/go-cve-dictionary package github.com/labstack/echo/engine/standard: cannot find package github.com/labstack/echo/engine/standard ubuntu 16.04 4.4.0-64-generic 85-ubuntu smp go version go1.8 linux/amd64 thanks

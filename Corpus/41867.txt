@@ -1,0 +1,1 @@
+ URL : "https://github.com/miratronix/rapport-reconnect/issues/6" TITLE : add onreconnect event BODY : add a onreconnect event to the reconnect socket to allow for code execution when a reconnect occurs.

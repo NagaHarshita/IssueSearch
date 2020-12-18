@@ -1,0 +1,1 @@
+ URL : "https://github.com/nning/imgshr/issues/41" TITLE : qrcode not shown BODY : if i open the gallery info modal for the first time i visited a gallery, there is only shown qr instead of an actual qrcode. if i close the modal window and open it again, the qrcode is shown as expected. this only affects the normal qrcode for sharing a gallery link.

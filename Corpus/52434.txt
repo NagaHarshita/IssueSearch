@@ -1,0 +1,1 @@
+ URL : "https://github.com/Wittelab/orchid/issues/5" TITLE : cnv feature conversion BODY : there is the /code/etc/parse_cnv.sh script to prepare cnv data for annotation. if it doesn't take too long to run, it may be better to have this in the annotation process itself so a user doesn't have to call it manually before running the orchid-db workflow

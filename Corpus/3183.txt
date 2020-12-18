@@ -1,0 +1,1 @@
+ URL : "https://github.com/kentmoreland/jobster/issues/21" TITLE : login bug fix BODY : $http.post .success is not a function

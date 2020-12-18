@@ -1,0 +1,1 @@
+ URL : "https://github.com/yugandhargangu/JspMyAdmin2/issues/11" TITLE : utf-8 when export BODY : there are '?????' characters when exporting utf-8 database. i fix it: in exportlogic.class change line 106: outputstreamwriter = new outputstreamwriter fileoutputstream ; to: outputstreamwriter = new outputstreamwriter fileoutputstream, utf-8 ;

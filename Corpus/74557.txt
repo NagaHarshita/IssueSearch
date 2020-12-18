@@ -1,0 +1,1 @@
+ URL : "https://github.com/HazyResearch/snorkel/issues/697" TITLE : expand lf helper library BODY : make the weak supervision dsl so that common lf patterns--regexes, word matches, distant supervision over potentially hierarchical ontologies, etc.--are all one liners!

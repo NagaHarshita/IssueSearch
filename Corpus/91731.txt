@@ -1,0 +1,1 @@
+ URL : "https://github.com/iron/iron-sessionstorage/issues/11" TITLE : unsetting session values? BODY : is there an idiomatic way to do this? the only way i can discern is to basically have a this has been unset sentinel value, like an empty string.

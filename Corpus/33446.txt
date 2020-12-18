@@ -1,0 +1,1 @@
+ URL : "https://github.com/Oxygem/canaryd/issues/19" TITLE : add plugin: packages BODY : + rpm packages + deb packages + global pip packages + global npm packages + global gem packages

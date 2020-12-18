@@ -1,0 +1,1 @@
+ URL : "https://github.com/forecastxl/prototype/issues/208" TITLE : check clientside imports BODY : shouldn't be importing all import as . but do use this in tests. make sure it's consistent everywhere.

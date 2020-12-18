@@ -1,0 +1,1 @@
+ URL : "https://github.com/jbucaran/clor/issues/10" TITLE : v5 broke colors BODY : i am on windows, on v4 everything worked fine, on v5 however, the following: js console.log c <inverse>hey ho, <bold>lets go!</bold></inverse> renders js hey ho, lets go!undefinedundefined

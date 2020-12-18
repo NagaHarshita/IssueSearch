@@ -1,0 +1,1 @@
+ URL : "https://github.com/greenplum-db/gpdb/issues/4167" TITLE : psql gives fatal error BODY : i have install greenplum on my server and create gpadmin user. after i try to run this command $ghome/bin.psql but it gives below error psql: fatal: could not open relation 1664/0/1260: no such file or directory can any one help to find reason for this error

@@ -1,0 +1,1 @@
+ URL : "https://github.com/lou/multi-select/issues/266" TITLE : optgroups not hiding BODY : whenever you hide display: none an optgroup and you refresh the multiselect, it still shows the optgroups but without any child options.

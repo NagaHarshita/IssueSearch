@@ -1,0 +1,1 @@
+ URL : "https://github.com/Forum-Informationsfreiheit/OffenesParlament/issues/146" TITLE : change login behaviour BODY : only use verification_hash for initial login, then start a session & invalidate the hash

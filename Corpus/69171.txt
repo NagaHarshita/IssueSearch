@@ -1,0 +1,1 @@
+ URL : "https://github.com/schmete/dasmoto/issues/2" TITLE : subtle: duplicate names BODY : https://github.com/schmete/dasmoto/blob/master/dasmoto/index.html l15-l16 while you're application of classes and ids here is great, i don't recommend giving a class and an id the same name because that can only get confusing as you work on bigger and more complex projects.

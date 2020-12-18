@@ -1,0 +1,1 @@
+ URL : "https://github.com/yanana/agni/issues/77" TITLE : make a simple function BODY : i want to make to a function with implicit, rather than kleisli. because i think that difficult to use with only the kleisli interface.

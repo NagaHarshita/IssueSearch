@@ -1,0 +1,1 @@
+ URL : "https://github.com/42shpimanmls/42sh/issues/215" TITLE : bad output echo -m5 oul BODY : $ echo -m5 oul bad argument: m5 vs >echo -m5 oul -m5 oul

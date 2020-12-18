@@ -1,0 +1,1 @@
+ URL : "https://github.com/airyland/vux/issues/1279" TITLE : npm run build error BODY : <!--维护该项目耗费大量时间精力并且只有极少同学愿意捐赠，如果你既不能帮忙贡献代码也不会捐赠，请认真提问题，否则就是在浪费彼此时间。 --> npm v3.0.0 error in ./src/main.js module not found: error: can't resolve './demos/checkicon.vue' in '/users/bloodspasm/downloads/vux-2/src' @ ./src/main.js 628:4-47

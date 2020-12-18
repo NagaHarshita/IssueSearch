@@ -1,0 +1,1 @@
+ URL : "https://github.com/cginternals/gloperate/issues/359" TITLE : loader for color gradients BODY : - create a loader for linearcolorgradient or abstractcolorgradient the loader could decide on the actual class it uses based on the file type - create a loader for colorgradientlist - support colorbrewer2 format

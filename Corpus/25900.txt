@@ -1,0 +1,1 @@
+ URL : "https://github.com/panux/package-builder/issues/1" TITLE : add git for sources BODY : should use git clone when a git url is provided

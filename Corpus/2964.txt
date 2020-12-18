@@ -1,0 +1,1 @@
+ URL : "https://github.com/facebook/fresco/issues/1861" TITLE : fresco bitmap BODY : it can get a bitmap synchronize use imageloader bitmap bitmap = imageloader.getinstance .loadimagesync medicalrecordimage.getpath ; so how to use fresco to get a bitmap synchronize?

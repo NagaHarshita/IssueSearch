@@ -1,0 +1,6 @@
+ URL : "https://github.com/millerp/chamados/issues/176" TITLE : chamado 1670681 BODY : dados do chamado
+| gravidade | urgência | tendência | gut |
+|-----------|----------|-----------|-----|
+| 5 | 5 | 5 | 125 | criação : 311 - marcely matos - 27/10/2016 15:57:40 descrição do chamado :
+está acontecendo no sistema de crm, o erro de quando as atendentes tentam registrar uma informação em um atendimento já aberto, o sistema informa que é necessário escolher a central de entregas. só que a central de entregas já foi selecionada na abertura do atendimento, então esse erro não poderia aparecer, além da mensagem ele não salva as informações, então a atendente precisa sair do atendimento entrar novamente para fazer novos registros, isso demanda tempo e pode ocorrer de esquecer alguma informação importante e deixar de registrar. esse erro não ocorre com todos os atendimentos, em alguns. não conseguimos identificar nenhum parâmetro. descrição da tarefa
+\ espaço destinado às especificações/requisitos da tarefa levantados durante a análise

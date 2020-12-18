@@ -1,0 +1,1 @@
+ URL : "https://github.com/leamas/ddupdate/issues/1" TITLE : --user installs are broken BODY : indeed. the linux support will always need a syetm-wide installation to get e. g., the systemd support in place. however, besides this a use installation makes sense and is required to be a dedent pypi citizen.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/xupefei/Locale-Emulator/issues/296" TITLE : legui crash with no error BODY : legui always crashes without errors if these 2 files don't exist in program directory: lecommonlibrary.dll lecontextmenuhandler.dll you need to run leinstaller.exe first to create these 2 files. then you can start legui without errors.

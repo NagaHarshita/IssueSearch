@@ -1,0 +1,1 @@
+ URL : "https://github.com/simondlevy/EM7180/issues/1" TITLE : give credit to kris BODY : you should really give more credit to kris. much of your code, particularly in the examples, are straight-up copies of his code. there's another github library for the em7180 based on kris' code that comes right out and says so: https://github.com/andrewadare

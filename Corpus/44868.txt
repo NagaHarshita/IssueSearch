@@ -1,0 +1,1 @@
+ URL : "https://github.com/meetecho/janus-gateway/issues/965" TITLE : frequent server crash BODY : at least once a day. usually on peak times. built from master 15 days ago client based on the example, same date. using as webrtc2sip server fedora 24 gbd / bt full: https://pastebin.com/dk1djwtw

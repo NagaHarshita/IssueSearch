@@ -1,0 +1,1 @@
+ URL : "https://github.com/ga-wdi-boston/ember-auth/issues/12" TITLE : form fields not clearing BODY : brought up by @coffeeeisamazing and confirmed by me : the change password and sign-up input fields aren't being cleared after use for the ember auth template.

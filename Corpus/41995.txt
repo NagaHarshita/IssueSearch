@@ -1,0 +1,1 @@
+ URL : "https://github.com/WIPACrepo/pyglidein/issues/77" TITLE : add tarballs to cvmfs BODY : since the tarballs are getting fairly large, add them untarred to cvmfs. https://github.com/wipacrepo/cvmfs/issues/39 this ticket is to add the ability to read from cvmfs instead of the local directory.

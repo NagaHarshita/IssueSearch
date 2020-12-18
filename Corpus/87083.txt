@@ -1,0 +1,1 @@
+ URL : "https://github.com/Bartalog/cool-maze/issues/288" TITLE : ios handle alien qr-codes BODY : when the freshly scanned data doesn't have the expected format, display nice error message sorry, the only valid qr-code is at coolmaze.net . then re-open camera for scan.

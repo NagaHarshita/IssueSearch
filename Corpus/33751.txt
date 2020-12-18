@@ -1,0 +1,1 @@
+ URL : "https://github.com/vgteam/vg/issues/1077" TITLE : apache spark support BODY : hi, does the vg tool have any support for apache spark? i would like to make a variation graph using the tool and then be able to export the graph to use with apache spark. if no support is currently available, is there a way to export the variation graph with nodes, edges and paths ?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/JetBrains/teamcity-docker-server/issues/7" TITLE : upgrade to 10.0.5 version BODY : hi! 10.0.5 version released about 20 days ago. seems released version is minor update, i think rebuilding of this image shouldn't be a very hard task, so please, upgrade it

@@ -1,0 +1,1 @@
+ URL : "https://github.com/parasyte/asm6/issues/1" TITLE : error in linux BODY : gcc asm6.c -o asm6 asm6 nesflix_mmc3.asm temp.bin pass 1.. error nesflix_mmc3.asm 76 : invalid immediate value. error nesflix_mmc3.asm 77 : divide by zero. this codigo works on wine with asm6.exe

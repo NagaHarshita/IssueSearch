@@ -1,0 +1,1 @@
+ URL : "https://github.com/terasolunaorg/guideline/issues/2518" TITLE : support tomcat 8.5 BODY : description tomcat 8.5をサポートするにあたり、ガイドラインへの影響を調べて必要に応じて反映する。 possible solutions tbd affects version/s - 5.3.0 fix version/s - 5.3.0 issue links n/a changelog no

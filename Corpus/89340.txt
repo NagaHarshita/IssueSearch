@@ -1,0 +1,1 @@
+ URL : "https://github.com/J1marotta/ROR-Koalified/issues/8" TITLE : profiles controller error BODY : profiles_path vs profile path error on profiles controller when you get to the show page, no use of profiles_path in entire code base, but it asks for profile_path. i believe it is because it doesn't have the right params somewhere but i'm unsure of where

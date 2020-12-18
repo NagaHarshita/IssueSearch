@@ -1,0 +1,1 @@
+ URL : "https://github.com/OnABikeOnFire/COMP4711Lab5/issues/27" TITLE : lab 7 job 6 BODY : add a tasklisttest class to verify that your collection of tasks has more uncompleted tasks than completed ones. this is an arbitrary business rule which is an excuse to have more than one test.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/weaviate/weaviate-swagger/issues/11" TITLE : get event by id BODY : an event should be gettable by id

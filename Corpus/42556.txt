@@ -1,0 +1,1 @@
+ URL : "https://github.com/maratonime/contestwatcher/issues/15" TITLE : bot.js is too crowded BODY : the code is starting to get too big and messy we could break it into submodules at least for the codeforces related functions

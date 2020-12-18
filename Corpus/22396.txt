@@ -1,0 +1,1 @@
+ URL : "https://github.com/quintilesims/layer0/issues/225" TITLE : l0-setup cli tests BODY : add unit tests for refactored l0-setup cli add smoketest s for l0-setup commands that require aws and/or terraform

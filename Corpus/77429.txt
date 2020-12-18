@@ -1,0 +1,1 @@
+ URL : "https://github.com/JuliaMatrices/LowRankApprox.jl/issues/5" TITLE : need to update metadata? BODY : the travis build is currently unknown. https://travis-ci.org/klho/lowrankapprox.jl also, @dlfivefifty, attobot has made tagging packages as simple as pointing and clicking. https://github.com/attobot/attobot

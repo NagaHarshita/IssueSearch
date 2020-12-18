@@ -1,0 +1,1 @@
+ URL : "https://github.com/eclipsesource/jsonforms/issues/589" TITLE : jsonforms siblings on root BODY : if we have multiple jsonforms elements as siblings on the root, they cannot be configured independently.

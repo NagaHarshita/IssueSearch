@@ -1,0 +1,1 @@
+ URL : "https://github.com/chianti-atomic/ChiantiPy/issues/130" TITLE : remove ionweb class BODY : the ionweb https://github.com/chianti-atomic/chiantipy/blob/master/chiantipy/core/ion.py l3211 appears to be unused and outdated. i think it can be safely removed.

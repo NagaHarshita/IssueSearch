@@ -1,0 +1,1 @@
+ URL : "https://github.com/tdgrubbs/CC-Expresso/issues/2" TITLE : great! setting variables BODY : https://github.com/tdgrubbs/cc-expresso/blob/master/api/employees.js l59-l66 i like how you set variables here so that the actual db.run call looks cleaner and easier to interpret.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/uvic-auvic/RedHerring/issues/125" TITLE : create weight dropper node BODY : similar to 124, create a simple node which just waits around and sends commands to the weight dropper. follow all of the usual ros stuff. place this node in a new package called peripherals

@@ -1,0 +1,1 @@
+ URL : "https://github.com/grpc/grpc-go/issues/1220" TITLE : godoc improvement needed BODY : what version of go are you using go version ? master what did you expect to see? descriptions in https://godoc.org/google.golang.org/grpc/health need clarification. serverhttp in server.go doesn't have description.

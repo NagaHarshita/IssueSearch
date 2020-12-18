@@ -1,0 +1,1 @@
+ URL : "https://github.com/abperiasamy/rtl8812AU_8821AU_linux/issues/218" TITLE : update to v4.3.20 BODY : hi. this driver is based on v4.3.14 have you considered create a new branch with a newer version https://github.com/grawp/rtl8812au_rtl8821au/blob/4.3.20/include/rtw_version.h v4.3.20 ?

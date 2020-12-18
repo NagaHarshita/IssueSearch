@@ -1,0 +1,1 @@
+ URL : "https://github.com/DamnWidget/anaconda_rust/issues/32" TITLE : can rustfmt be disabled? BODY : i don't have rustfmt installed, so every i save a rust file, a tmp .rs file is generated, and then the formatting fails without cleaning it up. this means that my project ends up littered with dozens of these useless files.

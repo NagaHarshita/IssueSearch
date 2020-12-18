@@ -1,0 +1,1 @@
+ URL : "https://github.com/sgharms/amaJSON/issues/1" TITLE : first copy sometimes fails BODY : particularly when the page first loads, the export sometimes fails. we should handle this better than with a hokey alert .

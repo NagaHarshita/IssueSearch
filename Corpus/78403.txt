@@ -1,0 +1,1 @@
+ URL : "https://github.com/arthurgregorio/web-budget/issues/269" TITLE : problemas depois do save BODY : ao salvar um movimento que acabou de ser incluído o sistema não esta limpando a sessão e o objeto entra em um estado inconsistente dentro da cache l1 do hibernate

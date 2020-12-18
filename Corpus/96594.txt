@@ -1,0 +1,1 @@
+ URL : "https://github.com/Diorite/Diorite/issues/97" TITLE : fail on compile with maven BODY : i got this message after run maven error failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.6.0:compile default-compile on project annotations: fatal error compiling: invalid target release: 9 -> help 1 any idea?

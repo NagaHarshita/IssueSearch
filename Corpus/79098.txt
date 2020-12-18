@@ -1,0 +1,1 @@
+ URL : "https://github.com/jerkar/jerkar/issues/96" TITLE : rework plugin mechanism. BODY : make it much simpler as public interface jkbuildplugin2<t extends jkbuild> { / plugin should modify the specified build / void apply t build ; }

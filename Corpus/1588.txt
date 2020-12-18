@@ -1,0 +1,1 @@
+ URL : "https://github.com/serokell/universum/issues/25" TITLE : add vararg . BODY : maybe introduce some .: , where f .: g applies f to result of g , g accepts several arguments and returns monadic action? for example lift .: seems to be handy

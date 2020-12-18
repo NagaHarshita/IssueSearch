@@ -1,0 +1,1 @@
+ URL : "https://github.com/tutulino/Megaminer/issues/223" TITLE : 5.2 - mkxminer BODY : i tried the new mkxminer, powerfull lyra2v2 miner for amd, now the red team has a good one,too. the json file needs little correction. it should be -i 23 . from what i noticed it can't be used in algoswitching mode, only dedicated. or did i miss something?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Cloudstek/docprint/issues/6" TITLE : fix displaying enum types BODY : enum types are not displayed correctly, instead the members are displayed as example and object .

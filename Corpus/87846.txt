@@ -1,0 +1,1 @@
+ URL : "https://github.com/ethereum/mist/issues/2581" TITLE : max gas fee not respected BODY : system information version: 0.0.0 os & version: windows/linux/osx node type: eth/geth default my tx gas fee needs to be limited to 200,000. nonetheless, the tx is done with ~240,000 gas, even though i rewrote the blue number to 200,000

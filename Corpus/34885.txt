@@ -1,0 +1,1 @@
+ URL : "https://github.com/CalBenefits/compass/issues/17" TITLE : create feedback page BODY : this page will be a form asking our users for feedback. you will need to create an object to store the data from the user. kellan will create a firebase project and slack out the code so that you can copy and paste that into your file. this page will have the nav bar at the top.

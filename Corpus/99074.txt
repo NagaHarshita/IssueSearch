@@ -1,0 +1,1 @@
+ URL : "https://github.com/NaamloosDT/DSharpPlus/issues/81" TITLE : make discordemoji key-able BODY : override .equals and .gethashcode on discordemoji, perhaps implement some other changes.

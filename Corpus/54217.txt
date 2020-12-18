@@ -1,0 +1,1 @@
+ URL : "https://github.com/amoedoamorim/penderclient/issues/7" TITLE : fix js console warning BODY : the following warning shows in the js console on the items list page: > warning: each child in an array or iterator should have a unique key prop. check the render method of medialist . see https://fb.me/react-warning-keys for more information.

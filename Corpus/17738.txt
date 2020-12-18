@@ -1,0 +1,1 @@
+ URL : "https://github.com/moziot/gateway/issues/45" TITLE : remove dummy data BODY : now that we can add real adapters and things we should remove the default dummy foo adapter and default things.

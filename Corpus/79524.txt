@@ -1,0 +1,1 @@
+ URL : "https://github.com/jplisk03/prj-rev-bwfs-tea-cozy/issues/2" TITLE : simplify: duplicate code BODY : https://github.com/jplisk03/prj-rev-bwfs-tea-cozy/blob/master/tea%20cozy/resources/style.css l18-l23 https://github.com/jplisk03/prj-rev-bwfs-tea-cozy/blob/master/tea%20cozy/resources/style.css l33-l38 careful not to duplicate code!

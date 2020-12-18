@@ -1,0 +1,1 @@
+ URL : "https://github.com/Flatzs/GameJam_acm_2017/issues/3" TITLE : create zombie class BODY : private vars - health - damage public functions - health {get;} - attack - gotoclosestplayer - takedamage int dmg

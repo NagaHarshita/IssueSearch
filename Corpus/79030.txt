@@ -1,0 +1,1 @@
+ URL : "https://github.com/didip/tollbooth_gin/issues/2" TITLE : response headers not set BODY : @didip seems that response headers x-rate-limit- aren't getting sent. any ideas?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Blueteak/QuiVrReporting/issues/25" TITLE : head shot hit box BODY : the head shot hit box is not always registering if arrows in the eye area are an indication of a head shot. especially on teleportation shaped minions. it would be nice to have the ability to hit those particular minions in the head from directly above.

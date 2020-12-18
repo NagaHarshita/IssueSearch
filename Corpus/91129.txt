@@ -1,0 +1,1 @@
+ URL : "https://github.com/colinmollenhour/modman/issues/122" TITLE : symbolic links .gitignore BODY : how do i add all symbolic links created by modman automatically in .gitignore?

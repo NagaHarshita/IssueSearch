@@ -1,0 +1,1 @@
+ URL : "https://github.com/Starcounter/Home/issues/177" TITLE : data fetching error BODY : i am running a count query like this db.sql<int64> select count ca from adfenix.database.ecommerce.seller ca where publicationowner = ? and name like ? , adfenixuser as publicationowner , % + searchtext + % ;

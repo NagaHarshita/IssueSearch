@@ -1,0 +1,1 @@
+ URL : "https://github.com/carpedm20/fbchat/issues/104" TITLE : support for pages - bots. BODY : hi, can we add support to pages ? so that fbchat can be used to talk to bots. clients.py and models.py has a check to throw exception if its not an user. we can relax that and add a new class to handle pages.

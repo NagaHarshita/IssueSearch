@@ -1,0 +1,1 @@
+ URL : "https://github.com/GreyRook/gown.js/issues/75" TITLE : refresh project structure BODY : make a first release 0.1.0 based on current master make a second release, 0.2.0 based on stabilized dev branch and merge it back into master finalize api strcture npm release ci + coverage test

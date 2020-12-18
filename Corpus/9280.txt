@@ -1,0 +1,1 @@
+ URL : "https://github.com/andy-shi88/qiscus-sdk/issues/2" TITLE : update room api BODY : handle post /api/v2/rest/update_room endpoint required: - functionality - error handling - good docstring - tests

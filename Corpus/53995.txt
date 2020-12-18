@@ -1,0 +1,1 @@
+ URL : "https://github.com/Smartling/smartling-cli/issues/48" TITLE : feat: homebrew formula BODY : it would be nice to have homebrew formula to use it locally on macos. example : https://github.com/fitbit/homebrew-tap/blob/master/smartling.rb

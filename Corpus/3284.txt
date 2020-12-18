@@ -1,0 +1,1 @@
+ URL : "https://github.com/kekeh/mydatepicker/issues/406" TITLE : ng build prod BODY : hi ! how to solve this issue ? ! image https://user-images.githubusercontent.com/11018110/29763966-083fa93e-8bde-11e7-855e-5f076b8c65ae.png steps 1. create project via angular cli 2. npm install mydatepicker --save 3. ng build --prod thanks !

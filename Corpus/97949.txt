@@ -1,0 +1,1 @@
+ URL : "https://github.com/LateRoomsGroup/bootstrap/issues/2" TITLE : iis .net framework version BODY : https://github.com/lateroomsgroup/bootstrap/blob/master/iis-site.ps1 l6 we still have some sites that run on .net 3, this should prob be a variable defaulting to 4?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/NanoHttpd/nanohttpd/issues/442" TITLE : serve a file with suffix BODY : hi i have problem in return response.newfixedlengthresponse status.ok, application/octet-stream , inputstream,ll ; i have to send an exe file to client, but in browser i download file wirh no suffix. how can client download file with suffix?

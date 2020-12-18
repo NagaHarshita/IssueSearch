@@ -1,0 +1,1 @@
+ URL : "https://github.com/dmlc/dlpack/issues/12" TITLE : tag release 0.1 BODY : the dltensor structure is stablized for a while and since one major reason of dlpack is to be used across frameworks, i would recommend we tag release for major abi version. the first release is only going to be stable dltensor structure.

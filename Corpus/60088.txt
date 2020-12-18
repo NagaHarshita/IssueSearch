@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla/DeepSpeech/issues/796" TITLE : wer on librispeech-100 BODY : has anyone gotten good wer on just the librivox-clean-100 data set? i am not able to get anything better than 43%.

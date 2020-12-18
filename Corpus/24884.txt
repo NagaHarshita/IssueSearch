@@ -1,0 +1,1 @@
+ URL : "https://github.com/globocom/react-native-draftjs-render/issues/15" TITLE : typo in the readme BODY : from: install react native draft.js render on your reat native project, using npm or yarn: to: install react native draft.js render on your react native project, using npm or yarn:

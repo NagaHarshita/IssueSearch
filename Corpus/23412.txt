@@ -1,0 +1,1 @@
+ URL : "https://github.com/gunthercox/ChatterBot/issues/894" TITLE : pip install failed BODY : running setup.py install for pymongo ... error \pip\compat\__init__.py , line 75, in console_to_str return s.decode 'utf_8' unicodedecodeerror: 'utf-8' codec can't decode byte 0xa1 in position 42: invalid start byte

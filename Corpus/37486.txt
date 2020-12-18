@@ -1,0 +1,1 @@
+ URL : "https://github.com/src-d/proteus/issues/58" TITLE : master doesn't build BODY : cloning into '/home/mvdan/go/land/src/gopkg.in/src-d/go-parse-utils.v1'... error: rpc failed; http 301 curl 22 the requested url returned error: 301 reproducible via git clone https://gopkg.in/src-d/go-parse-utils.v1

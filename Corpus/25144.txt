@@ -1,0 +1,1 @@
+ URL : "https://github.com/tiangolo/uwsgi-nginx-flask-docker/issues/15" TITLE : using root as user BODY : why do you not change user? is it secure to run uwsgi with root privileges?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Shisheyu/AfterBrasse/issues/46" TITLE : dads beer bug BODY : si on active l'item en même temps que l'on marche, cela block isaac dans cette direction. ex: j active l item en même temps que je me dirige a droite, le deplacement d isaac est bloquer et il se dirige a droite. et le post it n'est pas changer.

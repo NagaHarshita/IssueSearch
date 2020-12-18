@@ -1,0 +1,1 @@
+ URL : "https://github.com/PX4/Firmware/issues/7406" TITLE : cpu temperature reporting BODY : when playing with navio2 on rpi3, i experienced a sudden reset which i believe is caused by high temperature. is there a message where we could inject the cpu temperature so we can monitor it from gcs?

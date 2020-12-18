@@ -1,0 +1,1 @@
+ URL : "https://github.com/Bartzi/stn-ocr/issues/15" TITLE : compiling on windows BODY : hi. i want to know can the code running on a windows platform. since it is not clearly declared that the code can't run on windows. i had tried to run the code, but the warp-ctc can't be compiled on windows. how can i make it?

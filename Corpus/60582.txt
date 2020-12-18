@@ -1,0 +1,5 @@
+ URL : "https://github.com/tbeu/Modelica/issues/1070" TITLE : activepower not inlined BODY : reported by sjoelund& x2e;se on 10 apr 2013 07:13 utc modelica.electrical.multiphase.functions.activepower is declared with inline=true, but has more than 1 statement an assertion .
+i would suggest something closer to this: mo
+function activepower input real v : ; input real i size v,1 ; output real p;
+algorithm p := sum v . i ;
+end activepower; then it is also possible for the compiler to type-check v . i is ok without adding an extra runtime check or having special rules for assertions of input sizes meaning the same as dimensions being constrained. of course, if it is inlined, the runtime check could be omitted . sum v ix i ix for ix in 1:size v,1 should be faster since it does not create a temporary array just for calling sum. but this probably depends on which compiler optimisations are used so it can safely be skipped. ---- migrated-from: https://trac.modelica.org/modelica/ticket/1070

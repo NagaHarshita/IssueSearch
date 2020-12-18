@@ -1,0 +1,1 @@
+ URL : "https://github.com/emsr/tr29124_test/issues/64" TITLE : make test_kelvin.cpp work BODY : make work: test_kelvin.cpp functions __psi, __factorial, etc. __gnu_cxx::__fpinteger i needed three internal headers even though i had c++17 and cmath and -i.

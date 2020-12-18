@@ -1,0 +1,1 @@
+ URL : "https://github.com/belluccifranco/sic-api/issues/233" TITLE : refactoring de gasto BODY : refactoring para aplicar lo siguiente a gastos: - no debe permitir negativos en el monto. - el campo concepto debe ser obligatorio - controlar monto mayor a 0

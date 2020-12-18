@@ -1,0 +1,1 @@
+ URL : "https://github.com/w9jds/Galaxytracker/issues/14" TITLE : fix map rendering of names BODY : when you add a signature, or edit a signature that creates a system on the map. the signatures id and the class aren't displayed until you either refresh, or swap tabs.

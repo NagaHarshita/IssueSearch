@@ -1,0 +1,1 @@
+ URL : "https://github.com/Jesterjke/schedule.bsuir/issues/7" TITLE : clean up branches BODY : fix-schedule-api now is production except new widget-feature, still not delivered delete another branches and merge all in master. create dev branch

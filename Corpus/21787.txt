@@ -1,0 +1,1 @@
+ URL : "https://github.com/MindBuffer/nannou/issues/15" TITLE : graphics use cases BODY : - render 2d basic shapes _ellipse, triangle, line_ - clear frame with colour - render text _basic println! style with coordinates and width / height, wraps on newline_

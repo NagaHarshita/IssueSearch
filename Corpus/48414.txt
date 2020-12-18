@@ -1,0 +1,1 @@
+ URL : "https://github.com/tonyp13/DragonDisk/issues/3" TITLE : s3 bucket not listed. BODY : i'm trying to access s3, where i have access to a single bucket, i've created a new account with those creds and the bucket to which i have access is not listed.

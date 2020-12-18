@@ -1,0 +1,1 @@
+ URL : "https://github.com/NBISweden/MrBayes/issues/53" TITLE : error in sumt vstat file BODY : the sumt vstat file erroneously outputs the psrf values for each of the runs instead of presenting them for the ensemble sample just once. this causes a mismatch with the header, which causes problems with reading the file in r etc.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/shopgun/graphql-erlang/issues/54" TITLE : n+1 sql queries BODY : the following query will require 1 sql query to get the books and n queries to get each author. { books genre: comedy { title author { name } } } is there a way to make only 1 or 2 sql queries with graphql-erlng?

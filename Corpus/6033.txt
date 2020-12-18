@@ -1,0 +1,1 @@
+ URL : "https://github.com/rfleming71/JungleQueue/issues/5" TITLE : use batch apis BODY : currently the queue sends messages one at a time. to reduce the number of api hit, the queue should use the batch send api calls.

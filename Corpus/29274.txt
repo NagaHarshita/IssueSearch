@@ -1,0 +1,1 @@
+ URL : "https://github.com/laravel/dusk/issues/30" TITLE : laravel 5.3 support BODY : composer.json declares that dusk is supporting laravel 5.3 but problem is that laravel/framework: 5.3 requires symfony/console: 3.1 and laravel/dusk requires symfony/console: 3.2

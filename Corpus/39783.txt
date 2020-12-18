@@ -1,0 +1,1 @@
+ URL : "https://github.com/konstantin-ciklum/test-waffle-repo-stories/issues/2" TITLE : story 002 - sign out BODY : user story as a user i must have an ability to log out from the application acceptance criteria: 1. sign out button should correspond to design 2. sign out button should have only one functionality - to sign me out without any extras

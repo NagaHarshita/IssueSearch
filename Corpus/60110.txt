@@ -1,0 +1,1 @@
+ URL : "https://github.com/nglibs/meta/issues/38" TITLE : where are old versions BODY : which commit number was version 0.2 rc4. this version worked just fine for me, with 0.4rc1 i have problem with aot compilation and lodash. it is a bad practice to unpublish old versions from npm.

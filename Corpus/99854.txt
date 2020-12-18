@@ -1,0 +1,1 @@
+ URL : "https://github.com/foreverest/mobile-center-cli/issues/19" TITLE : no options in choices list BODY : we should decide what to do in case of empty list of choices. we should either fail or ask user to type the answer manually. from my perspective it should be fail.

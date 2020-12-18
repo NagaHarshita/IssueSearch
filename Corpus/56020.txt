@@ -1,0 +1,1 @@
+ URL : "https://github.com/zetkin/organize.zetk.in/issues/418" TITLE : mangle uglified output BODY : an issue with componentclassnames __proto__ is null is preventing us from mangling output from uglifyjsplugin . at some point, try to figure out a solution for the actual problem so that mangle can be switched back on.

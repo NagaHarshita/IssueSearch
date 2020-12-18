@@ -1,0 +1,1 @@
+ URL : "https://github.com/openseadragon/openseadragon/issues/1345" TITLE : canvas fallback text BODY : i'm trying to apply fallback text to the canvas for accessibility purposes: <canvas>my fall back text</canvas> but it looks like open sea dragon does not close the canvas tag, or have a fallback text option in the documentation?

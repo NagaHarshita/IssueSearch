@@ -1,0 +1,1 @@
+ URL : "https://github.com/baynezy/Html2Markdown/issues/71" TITLE : fix appveyor badge links BODY : the badge links always link to the whole repo. they should link to the latest build for that branch

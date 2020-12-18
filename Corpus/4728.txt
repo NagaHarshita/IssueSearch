@@ -1,0 +1,1 @@
+ URL : "https://github.com/Kademi/kademi-dev/issues/3723" TITLE : fix the stream BODY : - remove aggregation of events - find out why sometimes doesnt display

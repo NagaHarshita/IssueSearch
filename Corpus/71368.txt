@@ -1,0 +1,1 @@
+ URL : "https://github.com/DeclareDesign/DeclareDesign/issues/57" TITLE : add dplyr to suggests... BODY : quitting from lines 208-216 declaredesign.rmd error: processing vignette 'declaredesign.rmd' failed with diagnostics: there is no package called 'dplyr'

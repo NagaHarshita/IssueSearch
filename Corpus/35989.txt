@@ -1,0 +1,1 @@
+ URL : "https://github.com/nickstanisha/CIFAR-10_data/issues/1" TITLE : fixed encoding issue BODY : @guenteru @lewiz i just fixed an encoding issue for this data -- if you've downloaded it already, you should download it again to have data that exactly matches the cifar dataset. it's a little bit bigger now ~240 mb

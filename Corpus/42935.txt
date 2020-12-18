@@ -1,0 +1,1 @@
+ URL : "https://github.com/MacGyer/yii2-materializecss/issues/30" TITLE : ceckbox not clickable BODY : i managed to display the checkbox, but not it is not clickable ? echo $form->field $model, 'rememberme' ->checkbox ,false ;

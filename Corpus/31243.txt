@@ -1,0 +1,1 @@
+ URL : "https://github.com/krux/postscribe/issues/474" TITLE : script inside a div BODY : hi can you tell if postscriibe can support delivery of adtag which has script inside a div e.g a tag which works is <script src blah > </script> but if the ad tag is <div id= myid > <script src blah > </script> </div> regards hirohanin

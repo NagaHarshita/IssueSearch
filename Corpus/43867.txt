@@ -1,0 +1,1 @@
+ URL : "https://github.com/DavidAnson/vscode-markdownlint/issues/23" TITLE : disable the bulb icon BODY : is there any way to disable the lightbulb icon and just have the errors underlined? i find the bulb to be distracting and would prefer the more subtle warning especially when i am typing longer documents and will go back to reformat afterward.

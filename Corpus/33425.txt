@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/vcpkg/issues/1135" TITLE : add package sundials BODY : sundials: suite of nonlinear and differential/algebraic equation solvers sundials is implemented with the goal of providing robust time integrators and nonlinear solvers that can easily be incorporated into existing simulation codes. https://computation.llnl.gov/projects/sundials

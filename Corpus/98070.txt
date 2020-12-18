@@ -1,0 +1,1 @@
+ URL : "https://github.com/alexandertrefz/essence/issues/14" TITLE : implement template strings BODY : format: normal string with an inlined {expression}. text and {expressions} can be mixed freely.

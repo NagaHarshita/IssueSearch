@@ -1,0 +1,16 @@
+ URL : "https://github.com/ShipSamples/ci-min-node/issues/128" TITLE : build 23 :: mocha report BODY : overall report <table>
+<tr> <td>passed</td> <td>2</td>
+</tr>
+<tr> <td>failed</td> <td>2</td>
+</tr>
+<tr> <td>total</td> <td>4</td>
+</tr>
+</table> --- report --:open_file_folder: __animal module__
+----:x: should have 5 senses
+----:open_file_folder: __dog module__
+--------:white_check_mark: should bark
+--------:x: should use linux
+----:open_file_folder: __cat module__
+--------:white_check_mark: should meow failed tests <ol> <li>animal module should have 5 senses <pre><code>expected: 5, actual: 4
+assertionerror: out of sense at context.&lt;anonymous&gt; tests/dummy.js:24:12 </code></pre> </li> <li>animal module dog module should use linux <pre><code>
+error: dog says no idea ! at context.&lt;anonymous&gt; tests/dummy.js:12:13 </code></pre> </li> </ol>

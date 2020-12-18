@@ -1,0 +1,1 @@
+ URL : "https://github.com/fengyuanchen/datepicker/issues/103" TITLE : show method didn't work BODY : i want the datepicker to apear when i click on a button, i used $ .datepicker 'show' but the datepicker stay hidden

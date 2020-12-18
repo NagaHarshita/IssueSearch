@@ -1,0 +1,1 @@
+ URL : "https://github.com/allenai/hierplane/issues/47" TITLE : add a removetree method BODY : would be nice to have a built-in way to destroy a tree if need be.

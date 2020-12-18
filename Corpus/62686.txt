@@ -1,0 +1,1 @@
+ URL : "https://github.com/nlohmann/json/issues/521" TITLE : crash on empty ifstream BODY : if file is empty, parsing crashes.

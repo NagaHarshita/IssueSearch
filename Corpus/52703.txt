@@ -1,0 +1,1 @@
+ URL : "https://github.com/duffyjp/duffy/issues/4" TITLE : cpu load for each core BODY : this is one place i don't think there is a way around a native extension... i wrote a small c program which extracts the info for mac os. see https://github.com/duffyjp/duffy/tree/multi_cpu_load no actual integration has been done yet.

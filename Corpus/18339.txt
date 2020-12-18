@@ -1,0 +1,1 @@
+ URL : "https://github.com/sys-bio/roadrunner/issues/379" TITLE : support sbml l3v2 BODY : need to implement: rateof only applies to floating species or anything with a rate rule, evaluates to zero otherwise min / max - return the min or max value of the arguments don't crash for assignment rules with no math in the test suite need to bundle libsbml 5.15.0 in deps.

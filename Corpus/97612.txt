@@ -1,0 +1,1 @@
+ URL : "https://github.com/neurodata/meda/issues/27" TITLE : hmctree plot method colors BODY : colors wrap around after 8. this should be fixed.

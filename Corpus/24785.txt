@@ -1,0 +1,1 @@
+ URL : "https://github.com/malcommac/SwiftDate/issues/383" TITLE : todate has changed BODY : hi i had this code in swift2.3: if let date = datestring.todate dateformat.custom yyyy-mm-dd { //code } but in swift 3.0 the todate method has dissapeared, how can i do the same with the latest swiftdate version?

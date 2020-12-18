@@ -1,0 +1,1 @@
+ URL : "https://github.com/justinmarentette11/Tower-Defense-Galaxy/issues/40" TITLE : window that takes focus BODY : need to create an actor or window that overrides the hit method and returns itself to block input from the parent actor.

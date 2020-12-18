@@ -1,0 +1,1 @@
+ URL : "https://github.com/raxityo/BrowserActivity/issues/1" TITLE : icons don't show up BODY : hey, nice project. however when including the pod and opening an activity sheet with browseractivity.compatibleactivities, the open in safari icon is blank.

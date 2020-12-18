@@ -1,0 +1,3 @@
+ URL : "https://github.com/mariastlouis/headcount/issues/9" TITLE : iteration 3: search BODY : - users should search for title and have only matching results display on screen
+- search should fire on each key press
+- search should be case insensitive use districtrepository class

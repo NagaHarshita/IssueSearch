@@ -1,0 +1,1 @@
+ URL : "https://github.com/benwbrum/fromthepage/issues/883" TITLE : table export enhancements BODY : get rid of table button – conditionalize it only show if table data available . make it not a button. include an option for exporting table data across an entire collection.

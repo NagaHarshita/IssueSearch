@@ -1,0 +1,1 @@
+ URL : "https://github.com/magdalena19/ratMap/issues/492" TITLE : add poi via address search BODY : zwei issues hier: - fix federal state <-> city confusion - suche nach städten ist buggy: wenn ich nach einer stadt suche bekomme ich als result lat/lon der stadtmitte. im formular werden dann jedoch die search results der letzten address-suchanfrage eingefügt

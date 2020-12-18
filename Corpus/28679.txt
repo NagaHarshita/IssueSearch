@@ -1,0 +1,1 @@
+ URL : "https://github.com/adefirmanf/snail-gateway/issues/1" TITLE : hot reload a server BODY : the main problem, express needs to restart the server when there's any change of files in routes.json. we need some library and implementation into our code.

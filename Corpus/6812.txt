@@ -1,0 +1,1 @@
+ URL : "https://github.com/jerryandco/gshopper/issues/10" TITLE : candy get route BODY : for features, please specify at least minimal requirements, e.g.: as a developer i want a candy route that gets all candy --- issue description here… need to make a file for candy routes, make a get request within that and show that data on /api/candy

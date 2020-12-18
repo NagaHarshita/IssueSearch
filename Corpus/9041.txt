@@ -1,0 +1,1 @@
+ URL : "https://github.com/thoughtbot/Curry/issues/40" TITLE : swift 4 support BODY : hi is the current version of curry support swift 4 ? i've tried updating my project today and keep having this error: ambiguous use of 'curry' . thanks

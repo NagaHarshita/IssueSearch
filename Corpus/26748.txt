@@ -1,0 +1,1 @@
+ URL : "https://github.com/toshi0383/TVMLKitchen/issues/128" TITLE : can it play videos? BODY : hello, i use samplerecipe in my swift tvos app. it can load tvml file from raw xml string, however it can't play videos? anyone knows how to solve it? thanks!

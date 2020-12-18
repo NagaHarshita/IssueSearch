@@ -1,0 +1,1 @@
+ URL : "https://github.com/moravianlibrary/kramerius/issues/193" TITLE : kramerius chyby 500 BODY : hodně requestů padá do 500, viz kibana http://bit.ly/2tqsvuq . nutné průběžně řešit. https://blog.codinghorror.com/exception-driven-development/

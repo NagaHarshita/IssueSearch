@@ -1,0 +1,1 @@
+ URL : "https://github.com/rvosa/bio-phylo-megatree/issues/7" TITLE : make cpan package BODY : steps: - create a makefile.pl - decide on cpan package name see 2 - enable re-distribution of database files see 4 - write documentation see 5 - re-factor the scripts see 6 - upload to cpan

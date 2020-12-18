@@ -1,0 +1,1 @@
+ URL : "https://github.com/Serpent999/ESP32_Touch_LED/issues/1" TITLE : use builtin led BODY : change uint8_t led = 2; then it uses the on board led on my esp32 board.

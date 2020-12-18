@@ -1,0 +1,1 @@
+ URL : "https://github.com/ElemeFE/element/issues/6794" TITLE : popover 销毁dom BODY : 一个页面 table 每一行有一个popover 打开一个 页面中就会增加一个dom 最后页面dom 变得特别臃肿 不能保持页面dom 中只有一个 popover 的dom么 不能自销毁么

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Stilyan-Kangalov/Hungry-Panda/issues/1" TITLE : can't load file BODY : hi, trying to load a file using the choose file dialog on a ubuntu linux pc. i select a text file using the choose file picked but when i click open file it does not return me to the panda window dialog, and when i manually open the panda window dialog there is no file chosen.

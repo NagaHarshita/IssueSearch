@@ -1,0 +1,1 @@
+ URL : "https://github.com/philipkorsika/webchat/issues/14" TITLE : plugin local history BODY : implement a local history plugin which stores previously seen messages in a room in localstorage, and includes timestamps for messages.

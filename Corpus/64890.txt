@@ -1,0 +1,1 @@
+ URL : "https://github.com/Haroenv/holmes/issues/93" TITLE : how to use it with vue. BODY : it seems not work with vue's 'v-for'. simple example: <div class= result > <blockquote v-for= item in items > {{ item }} </blockquote> </div> <script> data:{items: 'aaa','bbb','ccc','abc' } </script>

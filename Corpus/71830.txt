@@ -1,0 +1,1 @@
+ URL : "https://github.com/sonm-io/core/issues/34" TITLE : allow json output in cli BODY : this is very helpful for monitoring robots, as they can easily parse json, while having problems with the current human-readable output. cc @sshaman1101.

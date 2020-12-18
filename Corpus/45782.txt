@@ -1,0 +1,1 @@
+ URL : "https://github.com/DGh0st/Nerd/issues/3" TITLE : interface sound class BODY : implement the sound interface class that is called to play the sound. the interface should have the one method: java play ;

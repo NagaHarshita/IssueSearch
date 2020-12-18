@@ -1,0 +1,1 @@
+ URL : "https://github.com/mdedetrich/scalajson/issues/40" TITLE : missing git tags BODY : i'm looking for the sources of org.mdedetrich %% scala-json-ast % 1.0.0-m6 . did you delete the old tags? could you at least document what shas they were associated with?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/wernerkarlheisenberg/plex-vrt_nu_live/issues/1" TITLE : no configuration possible BODY : the plugin doesn't provide an interface to configure the user credentials. however, this repository seems to have some urls's for the stream that doesn't require a login. https://github.com/pietje666/plugin.video.vrt.nu

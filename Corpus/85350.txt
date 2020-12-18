@@ -1,0 +1,1 @@
+ URL : "https://github.com/ionhaccp/Client.web/issues/12" TITLE : existing lambda functions BODY : need your suggestion we have some existing lambda functions and api gateway for fhms promotional website. shall we consume same or we need to redeploy into new aws environment.

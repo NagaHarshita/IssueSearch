@@ -1,0 +1,1 @@
+ URL : "https://github.com/jimeh/rubocopfmt/issues/7" TITLE : improve test suite BODY : the test suite is almost purely integration based. let's give the project some unit test love too.

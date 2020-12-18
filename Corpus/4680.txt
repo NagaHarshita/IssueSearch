@@ -1,0 +1,1 @@
+ URL : "https://github.com/toblum/McLighting/issues/69" TITLE : file not found BODY : after uploading to esp8266 then reboot and connecting to wifi with wifimanager no problem i get the following ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ file not found uri: / method: get arguments: 0 ~~~~~~~~~~~~~~~~~~~~~~~~~~~ have you seen this before?

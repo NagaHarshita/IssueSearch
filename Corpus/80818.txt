@@ -1,0 +1,1 @@
+ URL : "https://github.com/kevin-civic/civic_news/issues/10" TITLE : upgrade to modern django BODY : - django 1.11 is the last that supports python 2.7 - django 2.0 is the current version of django you depend on django==1.10.8 recommendation: - upgrade to django 2.0

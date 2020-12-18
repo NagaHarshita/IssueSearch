@@ -1,0 +1,1 @@
+ URL : "https://github.com/arut/nginx-rtmp-module/issues/1134" TITLE : disconnect hls clients BODY : is it possible to disconnect hls clients after a period of time?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/JuliaNLSolvers/OptimTestProblems.jl/issues/3" TITLE : use this pkg in optim BODY : let's use this for real soon, so we can remove the problems in optim itself.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/joefitzgerald/go-plus/issues/550" TITLE : navigate to failed test BODY : if a test fails, this is shown nicely in the test panel. but is there an easy way to navigate to that failed test? i was expecting that i could click on that error to jump to the correct file/position, but that doesn't work.

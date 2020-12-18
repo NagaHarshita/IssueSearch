@@ -1,0 +1,1 @@
+ URL : "https://github.com/ChillMagic/TinyGC/issues/3" TITLE : const and mutable BODY : suppose we have a class class someclass: public gcobject { const gcobject reachable; public: void gcmarkallsub override { gcmarksub reachable ; // error, const qualifier dropped } }; we might need this: class gcobject { mutable bool _mark; / ... / };

@@ -1,0 +1,1 @@
+ URL : "https://github.com/php-vcr/phpunit-testlistener-vcr/issues/20" TITLE : phpunit 6 support? BODY : are there plans to support phpunit 6? the phpunit code is now namespaced https://github.com/sebastianbergmann/phpunit/wiki/release-announcement-for-phpunit-6.0.0 .

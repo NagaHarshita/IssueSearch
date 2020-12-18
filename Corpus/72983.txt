@@ -1,0 +1,1 @@
+ URL : "https://github.com/intelliants/subrion/issues/293" TITLE : click based quick search BODY : sometimes we need a button for search filter block to set filters active. it might be annoying to have results updated on click, etc. keep both ways, but implement an easy way to choose a way via code in templates directly.

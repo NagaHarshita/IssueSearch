@@ -1,0 +1,1 @@
+ URL : "https://github.com/stefan-langenmaier/brother-overlay/issues/44" TITLE : make repoman happy BODY : the current travis script is not up-to-date and ebuilds have changed. do a small cleanup and make the travis build stricter.

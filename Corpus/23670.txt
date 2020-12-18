@@ -1,0 +1,1 @@
+ URL : "https://github.com/PRL-PRG/R-dyntrace/issues/102" TITLE : r interface for db BODY : make an r interface so that we can query analyses directly from r and compare them with the static analysis.

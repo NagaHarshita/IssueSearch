@@ -1,0 +1,1 @@
+ URL : "https://github.com/Minescratcher452/empire-mil-calc/issues/5" TITLE : .jar file path issue BODY : the .jar file is unable to access the result description files. there's probably a path error somewhere. update 1: need to change filereader to inputstreamreader, temporary workaround has been uploaded. put the description .txt files in the same folder as the .jar file.

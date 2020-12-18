@@ -1,0 +1,1 @@
+ URL : "https://github.com/pycontribs/jira/issues/486" TITLE : unable to fetch comments BODY : python version: 3.6.3 jira library : 1.0.10 when fetching an issues that does have issues and doing issue.fields.comment i get an attribute error. also doing issue.raw 'fields' 'comment' fails as well. any ideas?

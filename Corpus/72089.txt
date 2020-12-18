@@ -1,0 +1,1 @@
+ URL : "https://github.com/HasKha/GWToolboxpp/issues/78" TITLE : automated /stuck sending BODY : add an option to automatically send the /stuck command every x seconds, this interval time should be customisable. reason for this is to improve the bad guild wars netcode and high latencies. sometimes you don't know you are stuck and than it's to late to unstuck.

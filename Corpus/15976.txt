@@ -1,0 +1,1 @@
+ URL : "https://github.com/dctmz/hello/issues/1" TITLE : git 添加ssh key BODY : 1. 生成key 2. 复制key 3. 打开github并登陆 4. 点击头像-setting-ssh and gpg keys-new ssh key 5. 把复制过来的key黏贴到这里 6. title自己填，默认也可以 7. add ssh key 完成

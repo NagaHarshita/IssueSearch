@@ -1,0 +1,1 @@
+ URL : "https://github.com/reactnativecn/react-native-custom-keyboard/issues/5" TITLE : android select all bug BODY : select all will show system keyboard. androidversion: 6.0.2 rnversion: 43.2 @tdzl2003

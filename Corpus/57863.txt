@@ -1,0 +1,1 @@
+ URL : "https://github.com/vishnubob/pyscad/issues/1" TITLE : render stl now working BODY : hello, i am trying to render the rods example and am getting the following error: return str.join ' ', cmd typeerror: sequence item 0: expected string, nonetype found not sure if this is something i have done of if anyone has encountered it before. any advice appreciated. thanks.

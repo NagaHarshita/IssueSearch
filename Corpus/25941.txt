@@ -1,0 +1,1 @@
+ URL : "https://github.com/Homebrew/homebrew-portable/issues/47" TITLE : add linux travis ci BODY : this would at least run brew portable-package ruby on linux and ideally exercise the dockerfile here too.

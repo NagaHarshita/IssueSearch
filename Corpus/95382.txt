@@ -1,0 +1,1 @@
+ URL : "https://github.com/flask-admin/flask-admin/issues/1522" TITLE : custom batch actions help? BODY : how can i create buttons for setting selected fields to true and another one for false. i'm aware of customizing batch actions just not sure in the action code itself

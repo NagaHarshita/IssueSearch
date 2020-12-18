@@ -1,0 +1,1 @@
+ URL : "https://github.com/helun/Ektorp/issues/276" TITLE : changes feed stopped BODY : hello i am using ektorp in my java app and i have created a thread listening changes on couchdb; it was working till i get this message on log : changes feed stopped. reason: eof what does eof refer to ? how to fix this issue please?

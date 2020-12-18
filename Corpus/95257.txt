@@ -1,0 +1,1 @@
+ URL : "https://github.com/hpicgs/openll-asset-generator/issues/15" TITLE : create general image class BODY : standardized interface, can - width, height, channels, bitdepth data type , pitch / alignment - import png, freetype bitmap, etc. - export png - sub view x, y offset

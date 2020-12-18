@@ -1,0 +1,1 @@
+ URL : "https://github.com/verlok/lazyload/issues/119" TITLE : default image src BODY : is there any way to place default image for img tags? so when an image can not be load, the default image shown instead of nothing.

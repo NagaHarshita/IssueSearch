@@ -1,0 +1,1 @@
+ URL : "https://github.com/tockins/fresh/issues/7" TITLE : create a docker image BODY : create a docker image on docker hub and add a docker-compose.yml file to work with fresh in a contained environment.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/freekode/bikelife/issues/105" TITLE : add ui tests BODY : tests can be written on selenium docs: https://docs.travis-ci.com/user/gui-and-headless-browsers/ https://saucelabs.com/open-source

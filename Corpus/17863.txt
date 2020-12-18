@@ -1,0 +1,1 @@
+ URL : "https://github.com/an3m0na/hadoop/issues/64" TITLE : rewrite chapter 4 BODY : - send implementation details to section 5.2 - focus on adaptations made for mr - refer back to goals in each section - outline contribution somehow

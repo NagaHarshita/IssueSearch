@@ -1,0 +1,1 @@
+ URL : "https://github.com/CocoaPods/Xcodeproj/issues/523" TITLE : remove file from a target BODY : i just found a method for adding new files to a target. it would be great if we have another for removing. thanks.

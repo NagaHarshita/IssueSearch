@@ -1,0 +1,1 @@
+ URL : "https://github.com/greenstone/keadatabase-back/issues/12" TITLE : write stage function BODY : based on calculated age from birthday : 0 to 1 years: fledgling 1 to 2 years: juvenile 2 to 3 years: sub-adult 3+ years: adult add tooltip: life stages are estimated based on age.

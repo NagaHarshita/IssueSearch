@@ -1,0 +1,1 @@
+ URL : "https://github.com/pintsized/ledge/issues/141" TITLE : support for redis 3.x.x BODY : hello, i'm just wondering what the plan is for supporting redis 3.x.x and the clustering features the newer versions offer?

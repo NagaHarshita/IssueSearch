@@ -1,0 +1,1 @@
+ URL : "https://github.com/vicision/nyc-today-cli-app/issues/2" TITLE : categorize event objects BODY : need to devise best way to organize objects by event type for menu. need to be able to list events in each event type with number for menu and allow selection of the event's number by user to scrape that event's page and then display price and event info.

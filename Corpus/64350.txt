@@ -1,0 +1,1 @@
+ URL : "https://github.com/eiriktsarpalis/QuotationCompiler/issues/15" TITLE : function with arguments BODY : is this the only and ideomatic way to compile a function which can be passed arguments? fsharp let a = quotationcompiler.todynamicassembly <@ fun x -> x + 1 @> let f = a.invoke null, || :?> int -> int f 2 is it efficient i'm worried about the invoke a bit ?

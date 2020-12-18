@@ -1,0 +1,1 @@
+ URL : "https://github.com/Prytoegrian/check-break/issues/4" TITLE : cb by ast BODY : building an ast https://en.wikipedia.org/wiki/abstract_syntax_tree , language dependent, will allow to deeply understand nature of changes, depending on languages. doing that will make us more accurate, for excluding false positive and providing detailed explanation.

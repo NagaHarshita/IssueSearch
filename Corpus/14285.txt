@@ -1,0 +1,1 @@
+ URL : "https://github.com/anttilip/evento-server/issues/11" TITLE : add request tests BODY : request tests should test that api returns wanted status code and body. more can be found here http://matthewlehner.net/rails-api-testing-guidelines/ . i can't figure out a reason to also test controllers and serializers so this closes 4 5.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/broadinstitute/imaging-platform-terraform/issues/1" TITLE : s3 backend is hard coded BODY : is should be possible to configure this with variables through the -backend-config flag of terraform init . however, initial attempts have returned errors.

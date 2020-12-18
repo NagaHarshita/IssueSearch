@@ -1,0 +1,1 @@
+ URL : "https://github.com/Zepheus/ESP8266-rf-mqtt-bridge/issues/1" TITLE : incorrect pulse length BODY : incorrect pulse length nodemcu fix: myswitch.setprotocol protocol,pulselen ; insted of: myswitch.setpulselength pulselen ; myswitch.setprotocol protocol ;

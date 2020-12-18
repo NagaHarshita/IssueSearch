@@ -1,0 +1,1 @@
+ URL : "https://github.com/geonetwork/core-geonetwork/issues/2343" TITLE : related service broken BODY : { message : illegalannotationsexception , code : runtime_exception , description : 2 counts of illegalannotationexceptions } due to xmlresponse class adding. fixing it.

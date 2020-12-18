@@ -1,0 +1,1 @@
+ URL : "https://github.com/ballchi72/prj-rev-bwfs-dasmoto/issues/2" TITLE : simpify - font-family BODY : https://github.com/ballchi72/prj-rev-bwfs-dasmoto/blob/master/arts-crafts-store/resources/css/index.css l1 consider using a more general selector to apply this font-family styling to the whole page with just one selector.

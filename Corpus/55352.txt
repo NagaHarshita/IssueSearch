@@ -1,0 +1,1 @@
+ URL : "https://github.com/Mindera/muton/issues/7" TITLE : installation is broken BODY : installing with npm produces broken imports with non-amd environments like transpiled typescript . affected versions: v0.3.1 node version: v6.9.2

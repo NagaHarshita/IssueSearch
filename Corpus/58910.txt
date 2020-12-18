@@ -1,0 +1,1 @@
+ URL : "https://github.com/leonsoft-kras/transmisson-remote-gui/issues/971" TITLE : support free pascal v3 BODY : i tried to update the makefile via fpcmake but failed: processing makefile.fpc error: target linux , package rtl not found

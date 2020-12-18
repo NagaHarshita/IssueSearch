@@ -1,0 +1,1 @@
+ URL : "https://github.com/Pliohub/Plio/issues/600" TITLE : upgrade react to v16 BODY : what this will do: - reduce bundle size 32% size decrease - help with performance debugging now shows components render time in chrome devtools - better error handling - async rendering in future - many other things

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Hydrospheredata/mist/issues/131" TITLE : building with scala 2.11 BODY : the examples in git reference scala 2.11 but on my machine scala 2.10 is generated.

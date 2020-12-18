@@ -1,0 +1,1 @@
+ URL : "https://github.com/CityOfBoston/311/issues/399" TITLE : support reduced motion BODY : don't do flying and other animation effects when reduced motion is enabled. https://css-tricks.com/introduction-reduced-motion-media-query/

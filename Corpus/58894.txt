@@ -1,0 +1,1 @@
+ URL : "https://github.com/grails/grails-data-mapping/issues/940" TITLE : support for rxjava 2.x BODY : currently only rxjava 1.x is supported in the grails-datastore-gorm-rx module. this code should be ported to rxjava 2.x

@@ -1,0 +1,1 @@
+ URL : "https://github.com/checkstyle/sonar-checkstyle/issues/117" TITLE : upgrade to checkstyle 8.0 BODY : http://checkstyle.sourceforge.net/releasenotes.html release_8.0 , upgrade version at https://github.com/checkstyle/sonar-checkstyle/edit/master/pom.xml l88

@@ -1,0 +1,4 @@
+ URL : "https://github.com/coala/coala/issues/3987" TITLE : add strict .coafile mode BODY : some of coala warnings indicate .coafile has problems.
+warnings are also useful in tty mode, but have lesser value in ci mode.
+some ci users might like to have only warnings for config related problems, such as missing bears, so that their ci doesnt turn red regularly, and the rest of their ci works.
+other ci users would see a config error as a regression that must be fixed. so a strict mode cant equal ci mode. opened via gitter https://gitter.im/coala/coala/?at=58d58df15231ebb865b24ae8 by @jayvdb

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Supadog/DB_iti/issues/115" TITLE : bug with plets BODY : when you select one semester from stl and one from mmf, the wrong degree name is printed.

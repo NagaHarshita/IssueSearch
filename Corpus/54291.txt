@@ -1,0 +1,1 @@
+ URL : "https://github.com/GarrettFleischer/PoloniexTradingBot/issues/6" TITLE : float division by zero BODY : i keep on getting error messages such as this one for every currency pair: usdt_eth an error occurred: 'float division by zero',

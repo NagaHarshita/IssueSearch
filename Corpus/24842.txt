@@ -1,0 +1,1 @@
+ URL : "https://github.com/jodiw01/BF-editor/issues/5" TITLE : treatment of notes BODY : rda has lots and lots of note fields many of these continue into the editor, but they all map to http://id.loc.gov/ontologies/bibframe/note and their display proliferates throughout the editor, which makes it look messy

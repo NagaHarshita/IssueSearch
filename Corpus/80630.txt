@@ -1,0 +1,1 @@
+ URL : "https://github.com/ransford/sllurp/issues/59" TITLE : unify command-line tools BODY : into a single sllurp command. click http://click.pocoo.org/ can help with the cli heavy lifting. in the process, fix setup.py doc http://setuptools.readthedocs.io/en/latest/setuptools.html and use an entry_point . all this grooming will help with 6.

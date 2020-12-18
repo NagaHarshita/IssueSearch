@@ -1,0 +1,1 @@
+ URL : "https://github.com/digitalcraftsman/hugo-material-docs/issues/74" TITLE : .now throws an error BODY : since hugo v0.21 .now is deprecated and throws an error .

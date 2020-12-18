@@ -1,0 +1,1 @@
+ URL : "https://github.com/luckymls/editor/issues/48" TITLE : bookmarks & nightmode BODY : creazione dei bookmark in nightmode: aggiungere colore globale per fg e bg, che venga preso sul momento dalla funzione draw - aggiungere nightmode per tutte le finestre secondarie, menu contestuale compreso

@@ -1,0 +1,1 @@
+ URL : "https://github.com/fatcerberus/minisphere/issues/117" TITLE : implement a path api BODY : something like .net's path namespace would be a nice addition to the sphere v2 api. this would allow extracting filename and directory information from a path string, which would be quite useful for synthesizing paths, especially in cellscripts.

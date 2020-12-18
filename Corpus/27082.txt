@@ -1,0 +1,1 @@
+ URL : "https://github.com/laravel-zero/laravel-zero/issues/80" TITLE : command not defined BODY : hello! i can't run the hello command in a fresh package instalation. symfony\component\console\exception\commandnotfoundexception command hello is not defined. i've created a new command and happens the same thing. somebody can help me?

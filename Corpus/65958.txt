@@ -1,0 +1,1 @@
+ URL : "https://github.com/sales-ls21/myFayette/issues/15" TITLE : login and sign up views BODY : two views should be created with the options for users to authenticate via email/password/name combos or with fb, twitter, or google. the functionality is an enhancement.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/m1kola/shipsterbot/issues/13" TITLE : ignore service messages BODY : we need to ignore service messages people added or removed from the group, etc. , because the bot currently reacts with a i don't understand you message.

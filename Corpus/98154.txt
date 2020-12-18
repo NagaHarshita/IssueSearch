@@ -1,0 +1,1 @@
+ URL : "https://github.com/arojunior/awesome-feed/issues/27" TITLE : improve request for events BODY : now it is fetching all events for all following list. we need to find a way to fetch just the lasts events and fetchinh more when user scroll the page.

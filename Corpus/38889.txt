@@ -1,0 +1,1 @@
+ URL : "https://github.com/clorofila-league/secret_grinch/issues/21" TITLE : refactor & tech debt BODY : the code was written on a hackathon… by no elixir/phoenix expert… it needs a lot of refactoring and restyling.

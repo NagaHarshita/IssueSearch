@@ -1,0 +1,1 @@
+ URL : "https://github.com/4e6/stack2nix/issues/1" TITLE : support cabal flags BODY : parse cabal flags from stack.yaml file, and produce appropriate nix overrides. https://docs.haskellstack.org/en/stable/guide/ cabal-flag-management https://docs.haskellstack.org/en/stable/yaml_configuration/ flags

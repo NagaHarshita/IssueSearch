@@ -1,0 +1,1 @@
+ URL : "https://github.com/uber/go-torch/issues/68" TITLE : -lines has no effect BODY : passing -lines does not have any effect, the output seems to be function based instead. this is not the case if i directly call go tool pprof myself.

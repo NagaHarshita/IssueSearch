@@ -1,0 +1,1 @@
+ URL : "https://github.com/pywren/pywren/issues/205" TITLE : remove numpy dependency BODY : we actually only need numpy for tests, so we should be able to remove it from the setup requirements.

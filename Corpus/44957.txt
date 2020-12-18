@@ -1,0 +1,1 @@
+ URL : "https://github.com/Databasserne/HackerNews-Requirements/issues/4" TITLE : get posts update json BODY : add votes , hasdownvoted , hasupvoted to posts return json

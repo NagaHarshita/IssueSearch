@@ -1,0 +1,1 @@
+ URL : "https://github.com/twbs/bootstrap/issues/24856" TITLE : use font size array BODY : $font-size-base: 1rem !default; // assumes the browser default, typically 16px $font-sizes: !default; $font-sizes: map-merge base : $font-size-base, sm : $font-size-base 1.25 , lg : $font-size-base .875 , , $font-sizes ; div { font-size: font-size sm }

@@ -1,0 +1,1 @@
+ URL : "https://github.com/EdilsonCichon/Vagrant-Setup/issues/4" TITLE : atualizar o readme BODY : detalhar o uso no readme: modificação do arquivo de hosts da máquina hospedeira, o virtual que foi criado por padrão, comando vhost para criar novos virtualhost's, etc.

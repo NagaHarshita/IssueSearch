@@ -1,0 +1,1 @@
+ URL : "https://github.com/stella3d/AR-Clips/issues/11" TITLE : convert to use arinterface BODY : right now this is arcore-only. switch it to use arinterface

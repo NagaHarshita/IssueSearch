@@ -1,0 +1,1 @@
+ URL : "https://github.com/ec-europa/oe-poetry-client/issues/2" TITLE : create message components BODY : all message component objects need to be create. for each message componentes we need: the object with validation on all properties test coverage for the validation template

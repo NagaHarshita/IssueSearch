@@ -1,0 +1,1 @@
+ URL : "https://github.com/ucb-art/Chisel3DSPExample/issues/11" TITLE : fixed pt functions BODY : -trim rounding modes -floor, round -check +, , := work as expected w.r.t. binary point

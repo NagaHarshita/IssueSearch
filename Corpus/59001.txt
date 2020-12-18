@@ -1,0 +1,1 @@
+ URL : "https://github.com/met-office-lab/jade-dask/issues/2" TITLE : sync work environments BODY : in the first instance pin/sync the dask and dask distributed versions. but also think about work environment syncing more generally

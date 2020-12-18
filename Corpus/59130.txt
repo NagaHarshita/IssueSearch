@@ -1,0 +1,1 @@
+ URL : "https://github.com/fronzbot/blinkpy/issues/26" TITLE : tests for token reauth BODY : add tests to verify we can reauthorize and don't get stuck in loops if authorization not working

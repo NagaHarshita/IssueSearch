@@ -1,0 +1,1 @@
+ URL : "https://github.com/mseemann/angular2-mdl-ext/issues/995" TITLE : datepicker - ok and cancel BODY : i don't know if you can help, but i'm using the date-picker and need to call a different dialog when the user clicks ok, how can i do that with this component?

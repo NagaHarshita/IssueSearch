@@ -1,0 +1,1 @@
+ URL : "https://github.com/davidtheclark/react-aria-modal/issues/26" TITLE : 2 modals at the same time BODY : i tried displaying two modals at the same time but the click events on one of the modals are not firing. is it possible or do you have any suggestion? thank you.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/m1ga/ti.animation/issues/25" TITLE : click event not firing BODY : either attaching it with alloy markup or using addeventlistener the click event never fires

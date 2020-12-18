@@ -1,0 +1,1 @@
+ URL : "https://github.com/harshit-tiwari/Talend-/issues/1" TITLE : illegal argument exception BODY : it occurs when we give some wrong argument type to a function. talenddate.comparedate takes date as arguments in the format yyyy/mm//dd hh:mm:ss or yyyy/mm//dd if yyyy-mm-dd or anything other than the slash / is provided, it gives an illegal argument exception.

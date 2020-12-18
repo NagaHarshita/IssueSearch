@@ -1,0 +1,1 @@
+ URL : "https://github.com/yii2tech/html2pdf/issues/3" TITLE : mpdf 7. is not supported BODY : in 7. branch mpdf use namespaces and this is producing class not found error. exception 'error' with message 'class 'mpdf' not found' in / /vendor/yii2tech/html2pdf/converters/mpdf.php:39

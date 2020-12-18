@@ -1,0 +1,1 @@
+ URL : "https://github.com/nathan-fiscaletti/synful/issues/43" TITLE : remove standalone option BODY : remove the option to run the api as a standalone. it's unnecessary.

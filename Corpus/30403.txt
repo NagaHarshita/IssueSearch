@@ -1,0 +1,1 @@
+ URL : "https://github.com/graywolf336/CasinoSlots/issues/80" TITLE : permission per type BODY : no idea if this is me being a lobotomite or if this isn't a feature. i'm trying to set permissions based on slot machine type. i.e. casinoslots.use.slot3 however they can use it regardless of the permissions.

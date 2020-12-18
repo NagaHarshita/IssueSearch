@@ -1,0 +1,2 @@
+ URL : "https://github.com/PnX-SI/TaxHub/issues/114" TITLE : cd-ref dans bib_noms ? BODY : a supprimer ?
+car si le cd-ref change dans taxref alors bib_noms ne sera plus à jour ?

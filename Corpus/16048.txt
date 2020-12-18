@@ -1,0 +1,1 @@
+ URL : "https://github.com/Vivastream/spring-security-oauth2-dynamodb/issues/1" TITLE : guidance on usage BODY : hi, i am attempting to use oauth2 to secure my springboot rest apis. the datastore for the apis is dynamodb. i would like to use vivastream's dynamodbtokenstore for token management. is this project hosted somewhere so i can reference the jar in my project?

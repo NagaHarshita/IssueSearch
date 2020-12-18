@@ -1,0 +1,1 @@
+ URL : "https://github.com/lrkwz/mssql-docker/issues/1" TITLE : allow sql files BODY : allow .sql files in /docker-entrypoint-initdb.d

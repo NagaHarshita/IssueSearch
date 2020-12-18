@@ -1,0 +1,1 @@
+ URL : "https://github.com/wurstmineberg/systemd-minecraft/issues/3" TITLE : refactor start method BODY : now that commands use rcon, the world.start method should be refactored. we probably don't need all of this forking and socket stuff anymore, but i don't really understand any of the code ¯\_ ツ _/¯

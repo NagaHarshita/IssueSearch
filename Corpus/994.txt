@@ -1,0 +1,1 @@
+ URL : "https://github.com/elastacloud/parquet-dotnet/issues/110" TITLE : ci on linux BODY : create continuous integration for linux builds.

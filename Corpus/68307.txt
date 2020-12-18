@@ -1,0 +1,1 @@
+ URL : "https://github.com/eklogi/idb/issues/64" TITLE : response error wrapping BODY : add support to wrap json with a decorator that swallows any exception and creates a user-friendly response out of it. example { success : false, data: { error : valueerror , message : ... }}

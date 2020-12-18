@@ -1,0 +1,1 @@
+ URL : "https://github.com/lucasjkr/learning-laravel/issues/1" TITLE : password maker api page BODY : getting ajax response by making a get request to password-maker-api, i'd rather this be done through a post request.

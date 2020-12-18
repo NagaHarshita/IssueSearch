@@ -1,0 +1,1 @@
+ URL : "https://github.com/pguso/jquery-plugin-circliful/issues/148" TITLE : animateinview not working BODY : hi i download the plugin. i made to the demo a small change , i add to a circle animateinview: true and in chrome not working but in firefox works fine

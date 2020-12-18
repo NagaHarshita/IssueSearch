@@ -1,0 +1,1 @@
+ URL : "https://github.com/mpizenberg/elm-tensor/issues/2" TITLE : write matrices fuzzers BODY : - arrangedmatrix : fuzzer generating matrices with arranged views. - matrix : fuzzer generating randomly raw, transposed or arranged matrices. - matrix of a given size

@@ -1,0 +1,1 @@
+ URL : "https://github.com/bdscharf/crypto-scrape/issues/3" TITLE : edge case fixes BODY : fix edge cases for things like: - no currencies in cryptos.txt - no subreddits in include.txt - ...etc.

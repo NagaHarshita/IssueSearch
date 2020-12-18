@@ -1,0 +1,1 @@
+ URL : "https://github.com/brave/browser-laptop/issues/7527" TITLE : add vimium support BODY : this task is to add muon and browser-laptop support for vimium. this does not cover fixing missing functionality. cc @jonathansampson

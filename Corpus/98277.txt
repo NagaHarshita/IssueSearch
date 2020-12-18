@@ -1,0 +1,1 @@
+ URL : "https://github.com/leecade/react-native-swiper/issues/329" TITLE : infinite scroll possibile? BODY : i was able to monitor the index change to determine whether or not i need to download the next 'page', however the control doesn't update with the new data. is this possible?

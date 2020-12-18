@@ -1,0 +1,1 @@
+ URL : "https://github.com/brillout/website-dependency-tree/issues/5" TITLE : hash is not stripped out BODY : the parser show a warning like this: warn can't read ... /www/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.eot? iefix but it has been found to be a dependee it should remove the ? ... part before resolving files.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/RocketMap/RocketMap/issues/1966" TITLE : disable search switch BODY : on the left menu we have a search switch, that allows anybody with access to the map to disable the search process. some people, by accident, touch it when looking at the map from mobile, so i want to hide it in the same way that the set location button can be hided.

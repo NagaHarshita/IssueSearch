@@ -1,0 +1,1 @@
+ URL : "https://github.com/open-ideas/IDEAS/issues/699" TITLE : bug in borefield BODY : - the beta variable of singleutuberesistances is used before being calculated in the algorithm section. it should be moved up. - twall seems not to be connected to all borehole element when boreholes in series are used. i'll propose a pull request.

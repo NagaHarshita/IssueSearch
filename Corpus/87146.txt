@@ -1,0 +1,1 @@
+ URL : "https://github.com/Jumpaku/JumpakuCurves/issues/31" TITLE : iseven, isodd for integer BODY : kt fun int.isodd : boolean = this & 1 == 1 fun int.iseven : boolean = !isodd

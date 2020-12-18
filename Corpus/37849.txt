@@ -1,0 +1,1 @@
+ URL : "https://github.com/unitystation/unitystation/issues/286" TITLE : name select problems BODY : if your name contains a space or any symbol ';/^ it becomes invisible, also, if your name contains the letter t, the chatbox is opened and the input is restarted. ! image https://cloud.githubusercontent.com/assets/22187456/26274343/bbc851c4-3d3f-11e7-9c73-07d43385ae6f.png

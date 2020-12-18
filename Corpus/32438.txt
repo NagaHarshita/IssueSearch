@@ -1,0 +1,1 @@
+ URL : "https://github.com/stufisher/freeboard-flot-extended/issues/4" TITLE : usage with dweet v2 BODY : does this have the ability to be used with dweet datasources? i can get it working fine with static data for the value, but it doesn't display anything when that is changed to a dweet source

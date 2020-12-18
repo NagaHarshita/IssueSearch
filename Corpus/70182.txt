@@ -1,0 +1,1 @@
+ URL : "https://github.com/muoncore/muon-node/issues/46" TITLE : use an alternate logger BODY : currently outputting global is deprecated on most invocations due to loading sexylog. sexylog isn't actively developed, and something like pinolog would be better to use.

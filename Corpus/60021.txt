@@ -1,0 +1,1 @@
+ URL : "https://github.com/csepulv/electron-with-create-react-app/issues/1" TITLE : warn no env file found BODY : thanks for the blog post and this repo! after i run dev i'm using yarn but it happens with npm too , i get the warning no env file found . should i add one? what's your suggestion here?

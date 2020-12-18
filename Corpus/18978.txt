@@ -1,0 +1,1 @@
+ URL : "https://github.com/DeligenceTechnologies/Intruder-detector-with-Raspberry-Pi-and-Pushbullet/issues/1" TITLE : video not sending BODY : typeerror: not all arguments converted during string formatting logged from file motion_main.py, line 92 i am getting above error after running motion_main.py and video is not sending.

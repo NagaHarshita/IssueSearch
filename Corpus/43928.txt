@@ -1,0 +1,1 @@
+ URL : "https://github.com/ComponentFactory/Krypton/issues/66" TITLE : docking panel resize? BODY : how can one resize a docking panel programmatically? my page docked at the bottom of my app needs to be taller or shorter depending on some variables. i want to do this programmatically so that all controls on this bottom page are always visible. thanks, darren

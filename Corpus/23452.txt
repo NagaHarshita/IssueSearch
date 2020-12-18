@@ -1,0 +1,1 @@
+ URL : "https://github.com/lmotta/catalogpl_plugin/issues/1" TITLE : plugin not working BODY : the plugin seems to have stopped working, as it is returning no found images for all searches. i have tested it on mac 10.11.6 and windows 10 with qgis 2.18.2, with a working api key.

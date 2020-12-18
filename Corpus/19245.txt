@@ -1,0 +1,1 @@
+ URL : "https://github.com/int-index/slay/issues/16" TITLE : 100% cpu when idle BODY : profiling didn't reveal anything interesting, so it's going to be difficult to nail down.

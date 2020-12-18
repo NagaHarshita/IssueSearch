@@ -1,0 +1,1 @@
+ URL : "https://github.com/silexlabs/Silex/issues/666" TITLE : webdav without ssl BODY : i am trying to get a webdav connection but i am always getting invalid access codes when trying the same on https://preprod.silex.me/ i get the server message: cannot get /cloud-explorer/internal%20server%20error what am i doing wrong?

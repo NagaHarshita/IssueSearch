@@ -1,0 +1,1 @@
+ URL : "https://github.com/mattr-/slate/issues/86" TITLE : default binding for grid BODY : there is no default binding for grid behavior in default.slate. even though it was not hard to configure, seeing as this is intended as a replacement application for divvy, it would be ideal for users with less programming experience to have a default binding for the grid.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jumpsuit/jumpstate/issues/31" TITLE : a typo in readme BODY : it seems there is a typo in the following line inside readme.md : > a common patter in redux is to export your actioncreators and bind/utilize them in your components.

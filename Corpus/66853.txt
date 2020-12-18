@@ -1,0 +1,1 @@
+ URL : "https://github.com/joshaber/SwiftBox/issues/30" TITLE : nodeimpl not recognised BODY : hi, i am getting > use of undeclared type 'nodeimpl' in my project. i have copied all the files and i am able to navigate to nodeimpl file through xcode. not sure whats causing the error. please help me. thanks, kanishka

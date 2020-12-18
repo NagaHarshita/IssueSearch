@@ -1,0 +1,1 @@
+ URL : "https://github.com/dlespiau/dax/issues/2" TITLE : add a codebeat badge BODY : while some of those metrics are bound to produce false positive, it may be a good idea to give codebeat a go.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/benubah/control/issues/1" TITLE : error using step function BODY : using the step function to plot the step response of a transfer function gives this error message. > error error in balance bap$z, s : blas/lapack routine 'dgebal' gave error code -3

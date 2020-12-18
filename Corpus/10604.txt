@@ -1,0 +1,1 @@
+ URL : "https://github.com/sayterdarkwynd/FrackinUniverse/issues/773" TITLE : crash on startup BODY : hello, i can't launch starbound with the commit dbb66c85034bbc0d1013a7774fff3cd4b398fa75 . apparently the game can't parse the fu_armorsmith.collection, resulting in a crash. here's the full log: https://pastebin.com/jh8efv1f

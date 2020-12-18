@@ -1,0 +1,1 @@
+ URL : "https://github.com/sjurba/rebase-editor/issues/16" TITLE : add syntax highlighting BODY : just a suggestion that syntax highlighting would be nice. vim normally does this for me and it's the one thing i'm missing after trying rebase-editor. i may try to hack together a pr myself with some simple colours.

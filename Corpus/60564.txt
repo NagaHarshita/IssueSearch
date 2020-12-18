@@ -1,0 +1,1 @@
+ URL : "https://github.com/mapbox/top-issues/issues/4" TITLE : accessing private repos BODY : thanks @lucaswoj nice tool. might be worth to mention in the readme that accessing private repos also requires an access token: https://mapbox.github.io/top-issues/?github_username=username&github_access_token=access_token !org/private_repo

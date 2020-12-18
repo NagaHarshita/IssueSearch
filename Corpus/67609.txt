@@ -1,0 +1,1 @@
+ URL : "https://github.com/Leowrin/Drone/issues/9" TITLE : probléme de variables? BODY : tes variables : byte pitch; byte righta; etc.... sont des byte et tu veux que ça soit égale à des string. du coup c'est normal ou pas ? si c'est normal , alors il te manque une fonction pour faire ça. sinon faut corriger. <3 avec amitié

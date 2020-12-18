@@ -1,0 +1,1 @@
+ URL : "https://github.com/froala/vue-froala-wysiwyg/issues/30" TITLE : how to set set size . BODY : hello: i want to init set size , like this: <froala :tag= 'textarea' :autosize= {minrows: 10,maxrows: 20} :config= config v-model= form.description ></froala> but it do not work .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/sandeepmistry/bleno/issues/349" TITLE : osx and 128bit uuid BODY : as the battery example does not work anymore with the short uuid 180f on osx, it should work using the long uuid: 'use strict'; module.exports = function uuid { return '0000' + uuid + '-0000-1000-8000-00805f9b34fb'; }; any input?

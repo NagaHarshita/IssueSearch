@@ -1,0 +1,1 @@
+ URL : "https://github.com/Assassins-adlm/assassins-firebase/issues/7" TITLE : create store for player BODY : store should store player name, initiate a geolocation watch function , and contain all of a players 'targets'

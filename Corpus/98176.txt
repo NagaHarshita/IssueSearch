@@ -1,0 +1,1 @@
+ URL : "https://github.com/LiskHQ/lisk-nano/issues/277" TITLE : improve unit test coverage BODY : partially due to https://github.com/liskhq/lisk-nano/issues/276 test coverage is dropping. let's get it back above 90%.

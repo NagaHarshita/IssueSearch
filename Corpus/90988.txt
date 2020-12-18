@@ -1,0 +1,1 @@
+ URL : "https://github.com/rawstudio/rawstudio/issues/32" TITLE : support for newer cameras BODY : there have been some new cameras which don't have proper rawstudio support; i specifically noticed the panasonic gh5, but i'm sure that there are others. it might make sense to migrate in some of the documentation to the github wiki so that users with those models can assist.

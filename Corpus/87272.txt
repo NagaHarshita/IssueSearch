@@ -1,0 +1,1 @@
+ URL : "https://github.com/m-labs/artiq/issues/800" TITLE : jtag for sayma/ultrascale BODY : 563 openocd ultrascale support clean up, consolidate, push to openocd dual flash or 32 bit address support clean up, push to openocd

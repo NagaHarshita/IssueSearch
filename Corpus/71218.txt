@@ -1,0 +1,1 @@
+ URL : "https://github.com/catdad/json-cli-toolkit/issues/33" TITLE : add a 'deepfill' command BODY : this would provide a whitelist of properties to allow. it takes a list of properties, which can be nested if necessary. bash json fill -rim --attrs prop,nested.prop,super.nested.prop this will output a new json object that contains only the provided properties.

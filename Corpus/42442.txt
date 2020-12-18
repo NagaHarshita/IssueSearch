@@ -1,0 +1,1 @@
+ URL : "https://github.com/owncloud/announcementcenter/issues/83" TITLE : basic text formatting BODY : would be nice to have some sort of basic text styling features like: - bold, - underline, - text indent - links like href in html or simply allow html tags or markdown in the text field.

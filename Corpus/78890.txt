@@ -1,0 +1,1 @@
+ URL : "https://github.com/alphagov/accessible-typeahead/issues/83" TITLE : rename .jsx files to .js BODY : it seems like the community is moving away from .jsx with popular https://github.com/zeit/next.js/ frameworks https://github.com/facebookincubator/create-react-app using the .js extension.

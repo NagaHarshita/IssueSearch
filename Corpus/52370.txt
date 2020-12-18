@@ -1,0 +1,1 @@
+ URL : "https://github.com/Juanpe/Swift-VIPER-Module/issues/2" TITLE : clean folder structure BODY : it would be nice to create a folder structure when add files - protocols -viewcontrollers -interactors -presenter also add xibs to base.lproj

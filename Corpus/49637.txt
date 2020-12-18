@@ -1,0 +1,1 @@
+ URL : "https://github.com/facebook/mysql-5.6/issues/638" TITLE : unable to start mysql BODY : successfully integrated mysql with rocksdb but unable to start mysql terminal.

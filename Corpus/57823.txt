@@ -1,0 +1,1 @@
+ URL : "https://github.com/naums/PiOS/issues/4" TITLE : remove newlib entirely BODY : newlib was nice, but creates more problems, than it solves e.g. printf regularly crashes my code . could investigate, but it's easier to just throw it our and write my own c-library when i need it.

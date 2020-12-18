@@ -1,0 +1,1 @@
+ URL : "https://github.com/lovasko/libdes/issues/2" TITLE : property testing: crypt 3 BODY : the posix set of standards define the crypt 3 function, which is a des implementation a set of randomly generated keys and blocks should be fed into crypt and des_encrypt functions and compare the results the same for des_decrypt

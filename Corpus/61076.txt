@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpusCapita/bnp/issues/146" TITLE : add user administration BODY : should be in menu administration/users visible to both buyers, suppliers. use shared component from user service.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Whalen207/WH/issues/4" TITLE : dead nametags disappear BODY : after some time name cursorobject/cursortarget is replaced by error: no unit. i may be able to dig into ace nametags and find a solution to this.

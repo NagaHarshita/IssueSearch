@@ -1,0 +1,1 @@
+ URL : "https://github.com/TheFirewarior/Hanse/issues/1" TITLE : turns erase trades BODY : if a new turn starts while you are creating a trade request or didn't accept the request yet it will get deleted.

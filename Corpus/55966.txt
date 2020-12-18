@@ -1,0 +1,1 @@
+ URL : "https://github.com/jorshi/sieve/issues/11" TITLE : make db selects better BODY : db select functions are all over the code base right now -- this sucks. would be great to centralize the way objects are created using the model system.

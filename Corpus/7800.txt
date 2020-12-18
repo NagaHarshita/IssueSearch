@@ -1,0 +1,1 @@
+ URL : "https://github.com/tootsuite/mastodon/issues/3915" TITLE : issue with 3616 BODY : not sure what happened, but after this update - i now see the fail masto while on web. the /about and login screen works fine, but once you log in, the fail masto appears. the timelines do load properly within apps though.

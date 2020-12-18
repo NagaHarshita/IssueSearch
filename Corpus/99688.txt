@@ -1,0 +1,1 @@
+ URL : "https://github.com/litdevelopers/tinder/issues/24" TITLE : need help getting started. BODY : so i downloaded the repository tinder-master.zip . unzipped tinder-master.zip and ran cd desktop/tinder-master and ran npm install but it returned -bash: npm: command not found what am i doing wrong?

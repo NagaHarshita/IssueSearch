@@ -1,0 +1,1 @@
+ URL : "https://github.com/zrrrzzt/html-validator-cli/issues/51" TITLE : push the git tags BODY : please don't forget to create and push git tags for each release. there is no way to see the changes since there's no changelog and comparing the tags can help a lot.

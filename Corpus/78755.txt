@@ -1,0 +1,4 @@
+ URL : "https://github.com/MarcManiez/babol/issues/15" TITLE : refactor post controller BODY : create findorcreate for a piece of content.
+break it down to a few basic operations per service:
+- get id
+- findorcreate

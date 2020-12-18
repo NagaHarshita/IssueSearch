@@ -1,0 +1,1 @@
+ URL : "https://github.com/Azure/azure-webjobs-sdk-script-samples/issues/2" TITLE : 0 functions generated BODY : i'm just trying to use this sample but it's impossible for me, first thing i found is a dependency error with documentdb version, changing to 1.6.3 it compile. once run the project, it shows generating 0 job function s , what i'm doing wrong?

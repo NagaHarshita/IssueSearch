@@ -1,0 +1,1 @@
+ URL : "https://github.com/t3kit/t3kit/issues/154" TITLE : internal links in ces BODY : internal links in ces are broken if user logged in to be. internal links are working if its inside bullet list though! maybe its related to frontend editing!

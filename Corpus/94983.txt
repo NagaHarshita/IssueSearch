@@ -1,0 +1,1 @@
+ URL : "https://github.com/MattyJacques/BacklogManager/issues/5" TITLE : configurable database path BODY : we should implement the database path to be configurable, this would allow the users to choose where they want the database located instead of defaulting to the exe path

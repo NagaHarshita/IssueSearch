@@ -1,0 +1,1 @@
+ URL : "https://github.com/s1lentq/ReGameDLL_CS/issues/198" TITLE : block jump/landing sound BODY : в fm_emitsound не блокируются звуки прыжка и приземления, если можно то сделать какую-то замену или как-то решить эту проблему

@@ -1,0 +1,1 @@
+ URL : "https://github.com/swimlane/ngx-dnd/issues/5" TITLE : cancel after drop? BODY : hi, are there any plans or documentation to be able to cancel an ongoing drop from code? e.g when the underlying logic that handles the drop event goes wrong, and you want to put the item back to its original place/container

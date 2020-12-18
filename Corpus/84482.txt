@@ -1,0 +1,1 @@
+ URL : "https://github.com/etienne-martin/Mapify/issues/37" TITLE : data-group-id not working BODY : jquery.mapify.js line:28 uncaught typeerror: a ... .siblings ... .andself is not a function

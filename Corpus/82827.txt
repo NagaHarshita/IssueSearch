@@ -1,0 +1,1 @@
+ URL : "https://github.com/MetaMask/metamask-extension/issues/2032" TITLE : audit crypto dependencies BODY : the crypto js implementations we use are widely adopted but may not have received an official audit. we should consider sponsoring an audit.

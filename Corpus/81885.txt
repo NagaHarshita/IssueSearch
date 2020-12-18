@@ -1,0 +1,1 @@
+ URL : "https://github.com/YOURLS/YOURLS/issues/2322" TITLE : acces detailed click logs BODY : hello ozh, i'm not a plugin writer and don't know php. it's very interesting not to have a such plugin. i've checked the list. can you point me to a plugin that does this job of accessing all clicks details such as agent-info, referrer, ip address etc? br,

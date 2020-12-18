@@ -1,0 +1,1 @@
+ URL : "https://github.com/mathisdt/sdb2/issues/26" TITLE : add image slide show BODY : there should be a new presentation mode: display images from a directory defined by a new option as slide show. the time every picture is shown should also be defined by a new option.

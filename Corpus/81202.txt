@@ -1,0 +1,1 @@
+ URL : "https://github.com/radioman/WebRtc.NET/issues/44" TITLE : webrtc.net to webrtc.net BODY : hi i'm struggling to get webrtc working on both ends. do you have any guidance? or should i show you the code so far. i'm creating the offer and passing it over with ice candidates but only one side seems to generate the ice candidates.

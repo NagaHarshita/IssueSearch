@@ -1,0 +1,1 @@
+ URL : "https://github.com/networknt/json-schema-validator/issues/40" TITLE : add custom message BODY : how to add custom message for validators. below is my sample schema. { $schema : http://json-schema.org/draft-04/schema , definitions : {}, properties : { active : { type : boolean }, name : { type : string , requirederrorcode : name is required } }, required : name }

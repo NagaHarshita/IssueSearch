@@ -1,0 +1,1 @@
+ URL : "https://github.com/blackknight75/wabi_sabi/issues/87" TITLE : 22 admin edits an item BODY : background: an existing item as an admin when i visit admin/items and i click edit then my current path should be /admin/items/:item_id/edit and i should be able to upate title, description, image, and status

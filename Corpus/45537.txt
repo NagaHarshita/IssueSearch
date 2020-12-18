@@ -1,0 +1,1 @@
+ URL : "https://github.com/gtk-rs/glib/issues/186" TITLE : implement io channels BODY : https://developer.gnome.org/glib/stable/glib-io-channels.html currently only available via manually utilizing glib_sys

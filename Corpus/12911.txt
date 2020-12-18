@@ -1,0 +1,1 @@
+ URL : "https://github.com/dennis-classes/se2832-lab-01-isosceles-mystikyl/issues/2" TITLE : side of length 0 BODY : when a = 0 b = 0 c = 0 the program reports a valid triangle when it should be invalid triangles

@@ -1,0 +1,1 @@
+ URL : "https://github.com/sratatata/space-invaders/issues/4" TITLE : wprowadzic nadzorce gry BODY : nadzorca gry pozwoli na wyodrebnienie ogolnych zasad gry. 1. warunek konca a. przegrana b. wygrana 2. zliczanie punktow 3. restart rozgrywki 4. poruszanie wrogami.

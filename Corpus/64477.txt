@@ -1,0 +1,1 @@
+ URL : "https://github.com/facebook/fb.resnet.torch/issues/174" TITLE : getting auc performance BODY : in order to test the validation set with auc in the case of binary classification , what should i do to the computescore function? can i get some tips?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/twitter/heron/issues/1777" TITLE : heron/config/ cleanup BODY : do we use this directory any more https://github.com/twitter/heron/tree/master/config ? if we don't use it, we may remove/cleanup it

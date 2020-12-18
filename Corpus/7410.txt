@@ -1,0 +1,1 @@
+ URL : "https://github.com/BlickLabs/Begona/issues/3" TITLE : fix the gallery BODY : the images that the client uploads are displayed from the oldest to the newest, we have to change that. also safari it's not working.

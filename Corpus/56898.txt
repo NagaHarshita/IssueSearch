@@ -1,0 +1,1 @@
+ URL : "https://github.com/EyeSeeTea/pictureapp/issues/849" TITLE : out of stock is yes/no BODY : the dataelement 'zeopap6tqn4' is boolean in the server, but the app send yes/no as text.

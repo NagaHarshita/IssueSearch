@@ -1,0 +1,1 @@
+ URL : "https://github.com/Geigerkind/ModifiedPowerAuras/issues/50" TITLE : b53 not saving auras BODY : i just created an aura without any fancy settings for slice and dice, activated timer. after reloading the ui, and opening /mpowa the aura is gone.

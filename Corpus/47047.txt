@@ -1,0 +1,1 @@
+ URL : "https://github.com/lumien231/Bloodmoon/issues/17" TITLE : no red moon when full BODY : setting the chance to 0 and full moon to true will not color the moon red during the event. i have all visuals disabled exept the mooncolor. using 1.11.2

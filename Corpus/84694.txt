@@ -1,0 +1,1 @@
+ URL : "https://github.com/begriffs/postgrest/issues/804" TITLE : disable openapi interface BODY : is't possible to disable openapi in postgrest configuration file?

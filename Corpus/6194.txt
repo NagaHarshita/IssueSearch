@@ -1,0 +1,1 @@
+ URL : "https://github.com/eversign/eversign-node-sdk/issues/3" TITLE : 'fs' not found? BODY : getting this error repeatedly when trying to use next.js + eversign for poc. error failed to compile with 2 errors 11:02:45 this dependency was not found: fs in ./node_modules/eversign/lib/request.js, ./node_modules/request/lib/har.js fs is definitely installed.

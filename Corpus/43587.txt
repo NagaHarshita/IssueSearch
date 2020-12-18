@@ -1,0 +1,1 @@
+ URL : "https://github.com/soyaine/JavaScript30/issues/4" TITLE : css variables problem BODY : 问题 javascript function sethanld { const suffix = this.dataset.sizing || ''; // console.log suffix ; .... } inputs.foreach input => input.addeventlistener mousemove ,sethanld ; 当鼠标只要经过 input 就会执行 sethanld ,性能上会不会有点问题

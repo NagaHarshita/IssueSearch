@@ -1,0 +1,1 @@
+ URL : "https://github.com/cornflourblue/mean-angular2-registration-login-example/issues/2" TITLE : error in middleware BODY : i got error in the middle ware while running node server.js error at middleware /home/../desktop/testapp/server/node_modules/express-jwt/lib/index.js:80:21

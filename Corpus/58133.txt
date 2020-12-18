@@ -1,0 +1,1 @@
+ URL : "https://github.com/towerofnix/bantisocial/issues/9" TITLE : sanitize channel names BODY : should probably be kept to a-za-z0-9_- + , like usernames are.

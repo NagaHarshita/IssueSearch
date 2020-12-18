@@ -1,0 +1,1 @@
+ URL : "https://github.com/MetaMask/metamask-extension/issues/2523" TITLE : add a prefix to window.log BODY : could you please add a prefix for window.log ? i know you can do what you want, but this object is used by projects. thanks.

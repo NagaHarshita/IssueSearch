@@ -1,0 +1,1 @@
+ URL : "https://github.com/b1naryth1ef/dscord/issues/22" TITLE : voice reconnect broken BODY : i believe this has been a bug for a while, but currently changing voice regions does not allow voice to reconnect.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ashbc/tgrsite/issues/15" TITLE : message duplication bug BODY : this is a big bug! it seems to be linked to double-clicking the send button. it may be ameliorated by ajaxifying the message form?

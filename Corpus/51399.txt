@@ -1,0 +1,1 @@
+ URL : "https://github.com/LemonBoy/bar/issues/204" TITLE : allow for always-below BODY : currently lemonbar always makes itself always on top, however that messes up with fullscreen windows since the bar is always above them. _net_wm_state_below looks like what is necessary to force the bar window to the bottom. and this is not a wm issue. bar is an unmanaged window.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/felipefs/tinycnode/issues/10" TITLE : renderer for primitives BODY : the renderer for primitives need to accept: - set transformation matrix - x set rendering color - x rendering lines - rendering triangles - rendering rectangles - rendering ellipses

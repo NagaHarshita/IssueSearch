@@ -1,0 +1,1 @@
+ URL : "https://github.com/oklai/koala/issues/644" TITLE : auto prefix does not work BODY : koala version 2.2 windows 7 64bit i am using display:flex and transition . in options i have activated autoprefix for sass. but in the css file there are no prefix for both.

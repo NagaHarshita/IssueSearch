@@ -1,0 +1,1 @@
+ URL : "https://github.com/Dreamscapes/skipper-better-s3/issues/23" TITLE : use original filename BODY : when i do a file upload, the uploaded file doesn't keep the original name. how can i force it? example: i upload file myfile1.bmp and the file uploaded gets the name 0d05a338-80c9-4683-b040-9caf9e387240.bmp thanks in advance

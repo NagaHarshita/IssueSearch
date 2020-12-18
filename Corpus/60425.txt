@@ -1,0 +1,1 @@
+ URL : "https://github.com/aidancbrady/Mekanism/issues/4668" TITLE : 1.12 mcmultipart issues BODY : mcmp: 2.2.2 mekanism: 334fe1cd59285cf735fa58523f9f896a060c12fc forge: 14.22.0.2446 - glow panel bounding box incorrect when placed on transmitter - cable & glow panel invisible after world reload

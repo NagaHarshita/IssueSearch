@@ -1,0 +1,1 @@
+ URL : "https://github.com/amimoto-ami/jin-kei/issues/49" TITLE : move upgrade dir BODY : add following userdata in launch config. create workdir for upgrade install -d -o nginx -g nginx /tmp/upgrade , rm -rf /var/www/html/wp-content/upgrade , ln -sf /tmp/upgrade /var/www/html/wp-content/upgrade ,

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Complex-Portal/complex-portal-view/issues/16" TITLE : add loading bar BODY : the details page gets bigger and bigger. we should have a loading bar or sign, which tells the user that we're loading the page. people with a slower internet connection, might wait for a bit before the page is loaded.

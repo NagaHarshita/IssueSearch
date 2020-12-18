@@ -1,0 +1,1 @@
+ URL : "https://github.com/kdietrich/homebridge-devolo/issues/13" TITLE : install 0.1.4 dev version BODY : i would use the rules and scenes in 0.1.4 dev version but can't manage to install it. npm show homebridge-devolo@ version return 0.1.0, 0.1.1, 0.1.2, 0.1.3 but no 0.1.4 any insight ?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/duckduckgo/zeroclickinfo-goodies/issues/4008" TITLE : radare2 cheat sheet: BODY : hello! i was looking for r2 debug mode commands, and i realized they're not in the cs so i added them : ------ ia page: http://duck.co/ia/view/radare2_cheat_sheet maintainer http://docs.duckduckhack.com/maintaining/guidelines.html : @therealkbhat

@@ -1,0 +1,1 @@
+ URL : "https://github.com/velikanov/SwiftPasscodeLock/issues/46" TITLE : no 1.0.3 version available BODY : swift 3 support is not live. pod keeps downloading older 1.0.2 version

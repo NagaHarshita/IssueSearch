@@ -1,0 +1,1 @@
+ URL : "https://github.com/GreyCompany/mithlond-engine/issues/3" TITLE : install laravel auth BODY : since most code is already there it only will take only few minutes to change view linking. converting bootstrap to materialize is not that hard either assuming landing page layout's ready. only hard pard would be adding vue, since by default laravel-auth uses static forms.

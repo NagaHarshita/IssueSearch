@@ -1,0 +1,1 @@
+ URL : "https://github.com/CuleX/lm/issues/3" TITLE : fix server tracking BODY : i claimed ircu would send squits for the leaves taken out by a squit in lm.c . turns out, no, no it doesn't. this needs fixing because it affects user tracking.

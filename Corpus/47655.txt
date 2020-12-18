@@ -1,0 +1,1 @@
+ URL : "https://github.com/amend/servicely/issues/6" TITLE : prevent ratings abuse BODY : think of solution to prevent abuse of ratings. maybe store on firebase a timestamp of when they last rated and prevent them from rating too often. allow two ratings a day?

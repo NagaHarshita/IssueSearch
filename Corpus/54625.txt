@@ -1,0 +1,1 @@
+ URL : "https://github.com/dndx/pitot/issues/3" TITLE : gs conversion is wrong BODY : gs was read as mm/s from ublox, however, when converting to kts the incorrect conversion function was used and as a result ft/s is being displayed. this should be fixed.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/indented-automation/PSToolbox/issues/7" TITLE : mvp: capturing output BODY : a gui component needs to be developed to capture output. initially this can be limited to the output pipeline and exception trapping. as the feature is developed it should cater for each of the individual output streams including information .

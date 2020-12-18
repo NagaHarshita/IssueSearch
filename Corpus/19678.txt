@@ -1,0 +1,1 @@
+ URL : "https://github.com/mapbox/mapbox-navigation-android/issues/16" TITLE : add rxjava support BODY : similar to how we have created a module for rxjava specific support in mapbox-java, we should consider doing the same for the navigation sdk.

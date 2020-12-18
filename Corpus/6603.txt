@@ -1,0 +1,1 @@
+ URL : "https://github.com/parse-community/parse-server/issues/4170" TITLE : allow custom id BODY : issue description i want to be able to set custom objectid when saving new parse objects. steps to reproduce js let obj = new parse.object 'country' ; obj.set 'objectid', 'vr' ; obj.set 'name', 'virtual reality' ; expected results a parse with the objectid vr.

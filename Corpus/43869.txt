@@ -1,0 +1,1 @@
+ URL : "https://github.com/hashicorp/docker-vault/issues/50" TITLE : disabling core dumps? BODY : according to the best practices guide https://www.vaultproject.io/guides/production.html , hashicorp is recommending that core dumps are disabled. could this be optionally? added to this image?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/himelbrand/react-native-ble-peripheral/issues/2" TITLE : does not build. BODY : hi. thanks for writing this library. while building error indicating following killed it - @override lineno- 139 in rnblemodule.java - no method found to override. i tried to comment it out. and build was successful. please see if this is right!

@@ -1,0 +1,1 @@
+ URL : "https://github.com/fuhsjr00/bug.n/issues/150" TITLE : cygwin/x not managed BODY : when i run xterm from cygwin/x, the result windows is not managed by bug.n. why are some windows not managed? is there a workaround for this? thank you! john

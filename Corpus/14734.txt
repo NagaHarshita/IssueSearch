@@ -1,0 +1,1 @@
+ URL : "https://github.com/jellelicht/borderless-exact/issues/13" TITLE : cache per session BODY : add a cache per session so that not all the data has to be retrieved from exact when the page is opened twice

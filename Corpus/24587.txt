@@ -1,0 +1,1 @@
+ URL : "https://github.com/Semantic-Org/Semantic-UI/issues/5278" TITLE : switch to lato 2.0 BODY : please consider switching to lato-font https://github.com/betsol/lato-font , because version 2.0 sup­ports 100+ latin-​​based lan­guages, 50+ cyrillic-​​based lan­guages as well as greek and ipa pho­net­ics. it can be fetched as bower/npm dependency just like jquery is

@@ -1,0 +1,1 @@
+ URL : "https://github.com/DEIB-GECO/PyGMQL/issues/4" TITLE : add support for gsea BODY : using gseapy enable the extraction of set of genes from the data structures of the system and give to the user routines for enrichment analysis.

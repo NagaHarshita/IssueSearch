@@ -1,0 +1,1 @@
+ URL : "https://github.com/kkroening/ffmpeg-python/issues/28" TITLE : sample rate -ar option BODY : could we have a sample rate option to modify the sample rate of the output file? eg. converting a 48000khz audio file to 44100khz. ffmpeg.input 'in.mp4' .encode_ samplerate=44100 .output 'out.mp4 .run

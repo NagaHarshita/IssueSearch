@@ -1,0 +1,1 @@
+ URL : "https://github.com/katsparrow/homework/issues/1" TITLE : git register flow BODY : 1. git init // do changes 2. git add -a 3. git commit -m what you have done //go github and create new repo, // copy link with git remote add origin .... => paste to console // copy second link with git push -u origin master => paste to console

@@ -1,0 +1,1 @@
+ URL : "https://github.com/cloudamatic/mu/issues/94" TITLE : bare metal masters BODY : see branch the_goog . remove final minor dependencies on running inside a specific cloud provider, validate that a master can be run anywhere.

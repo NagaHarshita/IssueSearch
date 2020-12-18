@@ -1,0 +1,1 @@
+ URL : "https://github.com/jimgoo/caffe-oxford102/issues/8" TITLE : can you tell me ? BODY : i use the same way as you and obtained a good performance,but when i use a single picture to test the model it only obtained 0.0098 accuracy.....please tell me why？

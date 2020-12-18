@@ -1,0 +1,1 @@
+ URL : "https://github.com/lexoyo/CloudExplorer2/issues/16" TITLE : cannot install via npm BODY : when installing the lib via npm , i get an error with the postinstall script: cp: cannot stat 'node_modules/font-awesome/fonts/ ': no such file or directory cp: cannot stat 'node_modules/npm-font-open-sans/fonts/ ': no such file or directory

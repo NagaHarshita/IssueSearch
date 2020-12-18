@@ -1,0 +1,1 @@
+ URL : "https://github.com/Datanexus/postgresql/issues/7" TITLE : update ssh key BODY : ssh key title should be closer to what's in core, eg include project. current version isn't unique enough for multiple deployments.

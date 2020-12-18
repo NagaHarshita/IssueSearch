@@ -1,0 +1,1 @@
+ URL : "https://github.com/Squidex/squidex/issues/189" TITLE : swagger export typo BODY : when exporting a swagger.json api definition the title will look like this in the json document: title : suidex api for {app name} app expected behavior: it should say squidex api instead of suidex api .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpenAgInitiative/openag_brain_box/issues/4" TITLE : data logging not happening BODY : the data logger created data files on the first day that it was installed but, currently, is not writing new files. in a couple of cases it makes a file with the correct date but then doesn't put any data into it.

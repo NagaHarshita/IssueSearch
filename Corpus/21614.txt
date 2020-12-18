@@ -1,0 +1,1 @@
+ URL : "https://github.com/israelvergara/ejercicio-reloj/issues/2" TITLE : formato del tiempo BODY : el tiempo que regresa el reloj siempre debe utilizar 4 dígitos, por ejemplo la medianoche debería ser 00:00 y no 0:0 .

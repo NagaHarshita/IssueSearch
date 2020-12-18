@@ -1,0 +1,1 @@
+ URL : "https://github.com/revbayes/revbayes/issues/115" TITLE : error: clade not found! BODY : when trying to compile a maximum a posteriori tree in windows, error: clade not found! is produced in windows. i.e. following the command - maptree tt, ... . help would be appreciated. cheers, tom

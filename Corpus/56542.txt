@@ -1,0 +1,1 @@
+ URL : "https://github.com/RPISEC/MBE/issues/28" TITLE : next step after lab1c? BODY : i just complete lab1c, and gained euid of lab1b. however to examine lab1b i need at least a egid of lab1b to execute the file. is there a trick i'm missing in the ctf?

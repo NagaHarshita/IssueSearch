@@ -1,0 +1,17 @@
+ URL : "https://github.com/curationexperts/mahonia/issues/58" TITLE : add orcid id term to etds BODY : acceptance criteria - when i look at the label for the field it should read degree name - attribute name is documented in the spreadsheet - predicate should be http://vivoweb.org/ontology/core academicdegree
+- i have a way to select valid choices for the degree name
+- i can only choose something that's on the list, i cannot type something else in
+- the data type is a string - i can only select one degree name
+- when i look at the catalog search results page i should see the degree name for each etd
+- i should see the degree name on the single item view
+- i should be able to facet on degree name
+- when i look at the .ttl view i should be able to find the degree name controlled vocab for degree name d.n.p.
+m.a.
+m.b.i.
+m.m.i.
+m.n.
+m.n.a.
+m.p.h.
+m.s.
+m.s.n.
+ph.d. spreadsheet https://docs.google.com/spreadsheets/d/1hzpxyvm8xazz9me2uzsbumwkbcd6nyjtesorpqema18/edit gid=0

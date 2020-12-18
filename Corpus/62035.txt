@@ -1,0 +1,1 @@
+ URL : "https://github.com/MrLeeh/Flask-MQTT/issues/3" TITLE : can't install on ubuntu BODY : its possible to install on ubuntu? i am getting: vitor@miti:~/desktop$ pip install flask-mqtt collecting flask-mqtt could not find a version that satisfies the requirement flask-mqtt from versions: 0.0.1.macosx-10.12-x86_64 no matching distribution found for flask-mqtt

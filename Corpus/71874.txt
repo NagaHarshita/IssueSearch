@@ -1,0 +1,1 @@
+ URL : "https://github.com/VivaPayments/API/issues/296" TITLE : amex card is not working BODY : we are getting 502 error for when we are using amex card. same apis are working on visa/master card. would you please let us know what could be the issue?

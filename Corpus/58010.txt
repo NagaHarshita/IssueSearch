@@ -1,0 +1,1 @@
+ URL : "https://github.com/gravitational/teleport/issues/1140" TITLE : reverse tunnel timeout BODY : problem teleport does not specify a timeout when dialing to remote servers which causes problems for applications built on-top of teleport. proposed solution set a timeout when dialing back to the main cluster.

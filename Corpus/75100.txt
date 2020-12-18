@@ -1,0 +1,1 @@
+ URL : "https://github.com/ACSLaboratory/pheeno_ros_sim/issues/2" TITLE : generate a testbed world BODY : attempting to create a static testbed to contain all of the pheenos. i have gone through many processes, but it seems to not work well with the urdf_spawner node. instead, creating a model that will generate with the world will be the best bet to get a functioning world.

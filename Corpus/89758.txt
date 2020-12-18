@@ -1,0 +1,1 @@
+ URL : "https://github.com/rdbyk/balisc/issues/61" TITLE : reimplement os_wcstod ... BODY : ... and take care of exponentiation letter d d in a more efficient way

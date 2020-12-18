@@ -1,0 +1,1 @@
+ URL : "https://github.com/jufkes/bittrexBot/issues/3" TITLE : institute a 'sell blocker' BODY : setting a 'sellblock' or something of the like in the config file prevents the bot from selling, even on an uptick. not sure just how this logic would work. the bot would need to still be able to track the market so that it could adjust a buy price.

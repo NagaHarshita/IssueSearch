@@ -1,0 +1,1 @@
+ URL : "https://github.com/CZMoodyDev/DesktopDungeonBot/issues/4" TITLE : allow variable runs BODY : allow for program to run indefinitely until a keystroke keystroke triggers the run to finish so as not to waste resources and triggers the report. it would also be nice to have one that ends abruptly as well.

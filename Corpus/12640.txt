@@ -1,0 +1,1 @@
+ URL : "https://github.com/julianfrank/rq4d/issues/2" TITLE : rdb no such host BODY : getting the following when i try to run the container root@toto ~ docker run -it rq4d 2017/01/10 19:03:30 error during dns host lookup -> lookup rdb on xx.xxx.xx.xx:53: no such host alex

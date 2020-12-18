@@ -1,0 +1,1 @@
+ URL : "https://github.com/OneSignal/emoji-picker/issues/75" TITLE : new line in text area BODY : hi ! i does not need single line in textarea. i am trying to add new line via enter key...in text area its showing new line but when it got saved in database...its come in single line.. how can i solve that issue ? thanks

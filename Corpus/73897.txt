@@ -1,0 +1,1 @@
+ URL : "https://github.com/ankurp/Dollar/issues/250" TITLE : difference with iterator BODY : let array1 = {id: 'x', username: 'xx'},{id: 'y', username: 'yy'} let array2 = {id: 'x', username: 'xx'},{id: 'z', username: 'zz'} let array = $.difference array1, array2 how do i use difference to find difference by specific iteratee?

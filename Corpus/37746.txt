@@ -1,0 +1,1 @@
+ URL : "https://github.com/blockpress/blockpress.me/issues/7" TITLE : module loading issue BODY : probably need to turn modules into javascript object prototypes with commonly named functions to stop the href loading error that occasionally stops the menu from loading. maybe also need to ensure modules have loaded before creating the menu.

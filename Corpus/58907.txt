@@ -1,0 +1,1 @@
+ URL : "https://github.com/gvaldambrini/storybook-router/issues/11" TITLE : support for vue-router BODY : now that storybook supports vue, does this project have any interest in supporting vue-router? link: https://github.com/vuejs/vue-router related: https://github.com/storybooks/storybook/issues/1657

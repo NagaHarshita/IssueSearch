@@ -1,0 +1,1 @@
+ URL : "https://github.com/armory3d/armory_examples/issues/5" TITLE : sound example crash BODY : hi @luboslenco, sound example crashes when trying to play in viewport or in krom. only browser works. it crashes because it cannot find .ogg files even though .wav files are used. kind regards, martin

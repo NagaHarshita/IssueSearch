@@ -1,0 +1,1 @@
+ URL : "https://github.com/fluent/fluent-plugin-rewrite-tag-filter/issues/35" TITLE : support for 0.14? BODY : 1.5.6 specifically excludes fluent 0.14 in the gemspec. 1.5.5 appears to work for me with fluentd, although my usage is probably far from a complete test case. is there a release planned with 0.14 support?

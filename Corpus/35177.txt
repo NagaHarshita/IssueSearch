@@ -1,0 +1,1 @@
+ URL : "https://github.com/brianc/node-postgres/issues/1317" TITLE : deprecate pg.connect BODY : deprecate pg.connect with a warning, to be removed fully in pg@8.0

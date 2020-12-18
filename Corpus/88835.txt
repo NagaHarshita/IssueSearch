@@ -1,0 +1,1 @@
+ URL : "https://github.com/nilearn/nilearn/issues/1492" TITLE : overlay connectome plots? BODY : also, is there an easy way to overlay connectome plots on a glass brain in nilearn? if not, what would be the easiest way to achieve this without having to manually color scheme the nodes e.g. by community as some have done using the seaborn color libraries ?

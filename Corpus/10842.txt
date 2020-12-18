@@ -1,0 +1,1 @@
+ URL : "https://github.com/brettcannon/importlib_resources/issues/36" TITLE : document the abc BODY : we should really document the resourcereader abc too.

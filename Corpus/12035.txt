@@ -1,0 +1,1 @@
+ URL : "https://github.com/kuangche-james/QuantLib/issues/1" TITLE : migrate to c++11 BODY : - clang-format - clang-tidy - clang-modernize

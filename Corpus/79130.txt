@@ -1,0 +1,1 @@
+ URL : "https://github.com/colingeniet/prisoners-dilemma/issues/4" TITLE : rounding in population.c BODY : it's not obvious what is the best way to do rounding in the populations simulation.

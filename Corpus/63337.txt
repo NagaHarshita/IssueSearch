@@ -1,0 +1,1 @@
+ URL : "https://github.com/getquill/quill/issues/923" TITLE : document option t usage BODY : document usages of the following option t methods: - exists - forall - isdefined - isempty - nonempty - contains and the following use cases: - 887 - 624 - 514 - 490 @getquill/maintainers please add if i forgot something.

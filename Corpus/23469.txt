@@ -1,0 +1,1 @@
+ URL : "https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts/issues/14" TITLE : pooling for sites? BODY : safebooru http://safebooru.org/index.php?page=pool&s=show&id={code} e621 and e926 https://e621.net/pool?query={search} and https://e621.net/pool/show/{code} rule34 https://rule34.xxx/index.php?page=pool&s=show&id={code}

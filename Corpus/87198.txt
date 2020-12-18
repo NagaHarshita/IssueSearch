@@ -1,0 +1,1 @@
+ URL : "https://github.com/muccg/rdrf/issues/376" TITLE : issues with form progress BODY : the interconnection in form progress of the selected completion cdes to the patient data, to the gui output the % number is all correct, but there are corner cases where what is actually computed will give misleading results

@@ -1,0 +1,1 @@
+ URL : "https://github.com/argman/EAST/issues/55" TITLE : missing of nms BODY : hi, @argman , i have a littlt question. i cannot found the nms procedure in the training process. so you didn't use the nms to filter the predicted boxes when computing loss ? thank you.

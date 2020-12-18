@@ -1,0 +1,1 @@
+ URL : "https://github.com/iCalcreator/iCalcreator/issues/38" TITLE : don't append host to uid BODY : the rfc spec does not require a host to be appended to the uid. how do i tell your framework to not do so? i want just the uuid value set there.

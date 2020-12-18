@@ -1,0 +1,1 @@
+ URL : "https://github.com/carllerche/slab/issues/45" TITLE : api addition: key_for BODY : this will allow getting the key from a value owned by the slab. it is unsafe because if the value is not owned by the slab it returns at best bogus keys. rust unsafe fn key_for val: &t -> usize; since values are stored in the vector the key is address of val minus start of vector.

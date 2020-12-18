@@ -1,0 +1,1 @@
+ URL : "https://github.com/akveo/ng2-smart-table/issues/315" TITLE : add style in a cell BODY : hi, i want to add style dynamically in a cell. for exemple valuepreparefunction : cell, row => { return <span class= myclass style= background-color: yellow !important; >${cell}</span> ; } no problem for my class but the style is ignore. do you know why ?

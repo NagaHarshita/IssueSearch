@@ -1,0 +1,1 @@
+ URL : "https://github.com/pytorch/pytorch/issues/1932" TITLE : relu on rnns BODY : hello, i would really like the functionality to use a different activation function on the output of the rnns. i have found relu more useful in classification models because, for instance, tanh output from an lstm makes it easy for a subsequent softmax-linear layer to produce values near .999.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/react-community/react-navigation/issues/830" TITLE : navigation after login BODY : hi. react-native-router-flux allows authenticated users to be navigated to a main scene bucket from the login screen after login. can that be achieved with react-navigation? if so, possible to advise how to achieve this using react-navigation? tq

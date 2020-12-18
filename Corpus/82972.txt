@@ -1,0 +1,1 @@
+ URL : "https://github.com/agentrickard/domain/issues/321" TITLE : better field installation BODY : if we can, we should replace domain_confirm_fields and domain_access_confirm_fields with dynamic field installation from the field yml files. see https://www.drupal.org/node/2849888

@@ -1,0 +1,1 @@
+ URL : "https://github.com/lballabio/QuantLib-SWIG/issues/72" TITLE : check latest swig version BODY : the last few releases were generated with swig 3.0.10. swig 3.0.12 is available and could be used. this probably doesn't require any modifications in the code.

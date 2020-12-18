@@ -1,0 +1,1 @@
+ URL : "https://github.com/palmerhart/loaping/issues/11" TITLE : add delete exercise BODY : as a user, i want to delete an exercise program i created. difficulty 1, 2 hours create controller action and update views.

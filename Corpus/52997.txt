@@ -1,0 +1,1 @@
+ URL : "https://github.com/intinfosystem/MobileApp/issues/6" TITLE : customer feedback page BODY : create new customer feedback page with following input fields name mandatory district mandatory mobile optional feedback 140 characters on submit send email couple of emails for now, we will change it later.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/pivotal/LicenseFinder/issues/296" TITLE : add support for nuget 3.x BODY : nuget 3.x switches to using a project.json system for defining dependencies and a project.lock.json file that captures a snapshot of the resolved dependencies and versions.

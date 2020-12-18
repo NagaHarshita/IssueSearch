@@ -1,0 +1,1 @@
+ URL : "https://github.com/eviltik/evilcluster/issues/5" TITLE : tests are too complex BODY : i missed something with node-tap and cluster tests. plenty of race conditions. let's refactor tests so only stdout is important.

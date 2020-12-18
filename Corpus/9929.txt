@@ -1,0 +1,1 @@
+ URL : "https://github.com/whiterook6/Faceoff/issues/1" TITLE : add reset method BODY : the reset method would empty the gui, empty any selected images, and prompt the user to choose a source directory, a winner's directory, and a loser's directory. to do: - add reset method - clears any existing progress - prompts for directories

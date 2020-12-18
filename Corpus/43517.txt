@@ -1,0 +1,1 @@
+ URL : "https://github.com/kt3k/kocha/issues/9" TITLE : create testhook class BODY : hooks are not just callbacks. they have timeouts, retries maybe and events. we need to handle them as first class citizen in testnode tree.

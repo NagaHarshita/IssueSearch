@@ -1,0 +1,1 @@
+ URL : "https://github.com/Fazzani/Synker2/issues/33" TITLE : purge elastic batch BODY : - remove not used indices - purge sitepack index

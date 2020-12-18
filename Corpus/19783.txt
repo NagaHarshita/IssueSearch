@@ -1,0 +1,1 @@
+ URL : "https://github.com/SpineEventEngine/base/issues/28" TITLE : add yearmonth type BODY : ... similar to yearmonth https://docs.oracle.com/javase/8/docs/api/java/time/yearmonth.html type from java 8.

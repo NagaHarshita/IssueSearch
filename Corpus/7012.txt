@@ -1,0 +1,1 @@
+ URL : "https://github.com/tehpug/Ares/issues/18" TITLE : create a league BODY : admin user can create a league league attributes: - title - description - number of participants - registration starting time - registration end time - starting time - end time - game engine

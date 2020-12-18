@@ -1,0 +1,1 @@
+ URL : "https://github.com/nulib/avalon/issues/50" TITLE : nu avalon: responsive ui BODY : description make the nu avalon responsive initially without major structural updates to the avalon templating. note: there is only so much which is possible give avalon's default markup. the scope of this ticket is to fix/update any ui issues which are major after applying nu brand assets.

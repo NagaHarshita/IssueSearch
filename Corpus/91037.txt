@@ -1,0 +1,1 @@
+ URL : "https://github.com/zestyping/q/issues/49" TITLE : support output to stdout? BODY : sometimes it's impractical to read files in the system e.g. when running in docker , but the console is still functional. can q support a flag that will allow it to print the output to stdout rather than to a file?

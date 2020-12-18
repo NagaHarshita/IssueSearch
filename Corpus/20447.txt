@@ -1,0 +1,1 @@
+ URL : "https://github.com/callumW/stream_analyzer/issues/2" TITLE : check packet flags BODY : add checking and printing of packet flags. we should also omit prints for data that isn't there, e.g. pcr.

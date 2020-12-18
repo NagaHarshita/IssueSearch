@@ -1,0 +1,1 @@
+ URL : "https://github.com/firasdib/Regex101/issues/923" TITLE : no match for valid regex BODY : regex: ^\. 0-9 +\. +$ test data valid : .1. .13.323. .32.32.321.5. test data invalid : ..34. .2.. .dsa.34. .3.dasdas

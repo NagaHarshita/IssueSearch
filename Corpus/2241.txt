@@ -1,0 +1,1 @@
+ URL : "https://github.com/yahoo/intl-messageformat/issues/154" TITLE : values for 0 BODY : var intlmessageformat = require 'intl-messageformat' ; var msg = new intlmessageformat 'number is {n}.', 'en-us' ; msg.format {n:0} ; // expect number is 0. but got number is .

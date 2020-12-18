@@ -1,0 +1,1 @@
+ URL : "https://github.com/nolimits4web/Framework7/issues/1465" TITLE : use dom7 on server side BODY : this is a multiple allowed : bug enhancement x feature-discussion rfc what you did include framework7 with require '...' in node code. expected behavior framework7 could be used with dom7 to manipulate html strings in the normal way. actual behavior warning window not defined .

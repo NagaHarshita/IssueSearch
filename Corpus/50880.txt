@@ -1,0 +1,1 @@
+ URL : "https://github.com/grepthink/grepthink/issues/19" TITLE : add custom error pages BODY : https://devcenter.heroku.com/articles/error-pages customize-pages have fun with it, use a silly gif; anything over the heroku default error pages. contact me if you don't have heroku cli and need help setting the error pages.

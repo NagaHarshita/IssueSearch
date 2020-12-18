@@ -1,0 +1,1 @@
+ URL : "https://github.com/Mhynlo/readynas-docker-cli/issues/4" TITLE : support for intel atom? BODY : any chance for support for readynas on intel atom chip? intel r atom tm cpu d405 uname -a linux gasgiant 4.4.79.x86_64.1 1 smp mon jul 31 15:14:40 pdt 2017 x86_64 gnu/linux

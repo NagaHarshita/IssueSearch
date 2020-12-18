@@ -1,0 +1,1 @@
+ URL : "https://github.com/bjansen/pebble-intellij/issues/11" TITLE : support for code style BODY : hi i'm experimenting with pebble and found your plugin. i saw you already had an issue about autocompletion, thx for working on it! i was wondering if it would be possible for the peb and .html.peb, ... -extension to use the same code style's as html? kind regards, yannick

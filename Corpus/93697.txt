@@ -1,0 +1,1 @@
+ URL : "https://github.com/aritchie/bluetoothle/issues/11" TITLE : android connection cleanup BODY : @ajchacko i'll fix this for beta4 tonight. i've posted this here for you to track. disconnect is not enough. close cleans up all of the left over junk. it wasn't a problem in later android releases.

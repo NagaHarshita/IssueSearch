@@ -1,0 +1,1 @@
+ URL : "https://github.com/docker-library/php/issues/437" TITLE : improve apache security BODY : would it make sense to add this commit to the apache version here: https://github.com/piwik/docker-piwik/pull/63/commits/202fd013a11ab060287f72ea9349b8cb9153b9f3 related to https://github.com/piwik/docker-piwik/pull/63

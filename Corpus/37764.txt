@@ -1,0 +1,1 @@
+ URL : "https://github.com/miku/zek/issues/3" TITLE : more stats per node. BODY : currently, only a few examples are collected https://github.com/miku/zek/blob/83570a9892d9b053c08259a27448138e7a4d87ca/node.go l75-l78 . it would be interesting to count the number of occurrences of nodes and also occurrences of values per node. length stats.

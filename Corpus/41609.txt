@@ -1,0 +1,1 @@
+ URL : "https://github.com/trinker/sentimentr/issues/47" TITLE : add a parallel option BODY : a parallel option that runs sentiment and sentiment_by on multiple cores

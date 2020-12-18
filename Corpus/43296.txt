@@ -1,0 +1,1 @@
+ URL : "https://github.com/sblask/webextension-simple-form-fill/issues/22" TITLE : context menu disabled BODY : the commit of 20 disabled the context menu, even the new option context menu is checked. the only way to enable it is to uncheck and check it again. this workaround works till closing the browser. simple form fill 2.1.5 firefox 56 and 57 kubuntu 17.10 64bit

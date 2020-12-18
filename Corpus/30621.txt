@@ -1,0 +1,1 @@
+ URL : "https://github.com/swarmcity/SwarmCitySite/issues/144" TITLE : profile backup flow BODY : - /download-success-profile/ - /email-success-profile/ both of these pages's button has to state 'back to profile' and route accordinlgy

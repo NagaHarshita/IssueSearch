@@ -1,0 +1,1 @@
+ URL : "https://github.com/CoolProp/CoolProp/issues/1419" TITLE : issue octave wrapper BODY : i am having troubles with the octave wrapper. with the version octave 4.0.3 the wrapper does not work. how can i solve this problem? does anyone have a new wrapper compatible with the new version of octave 4.0.3 ? thanks

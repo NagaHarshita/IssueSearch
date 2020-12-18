@@ -1,0 +1,1 @@
+ URL : "https://github.com/dfridovi/mininet/issues/5" TITLE : save/restore a network BODY : implement some sort of saving/restoring functionality for networks. maybe later add snapshotting in the trainer.

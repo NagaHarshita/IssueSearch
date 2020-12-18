@@ -1,0 +1,1 @@
+ URL : "https://github.com/jtarchie/pullrequest-resource/issues/70" TITLE : speed up checking? BODY : i have a working configuration - thank you so much for this project. is there a way to reduce the delay between pr submission and detection? also, how is pr status checked? does it poll the github api, or does it subscribe to a webhook?

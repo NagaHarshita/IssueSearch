@@ -1,0 +1,1 @@
+ URL : "https://github.com/shatran/card-react/issues/37" TITLE : redux bad formatting BODY : when used with redux fields, the formatting is glitchy. when i type in the credit card number, for example, on the 5th digit the numbers get deleted while typing.

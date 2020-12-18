@@ -1,0 +1,1 @@
+ URL : "https://github.com/jchromik/tuk2-exercise1/issues/4" TITLE : filter by age BODY : add the possibility to filter by age before performing further analysis. example: bmi by state for people aged between 30 and 60 years

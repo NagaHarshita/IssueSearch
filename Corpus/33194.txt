@@ -1,0 +1,1 @@
+ URL : "https://github.com/spectresystems/commandline/issues/6" TITLE : add argument support BODY : this will be somewhat restricted though since microsoft.extensions.commandlineutils doesn't seem to support multiple arguments to multiple commands. we can however add support for arguments to the leaf command. see aspnet/common 247 for more information.

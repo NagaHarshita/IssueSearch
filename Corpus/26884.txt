@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpenLiberty/open-liberty/issues/242" TITLE : cdi 2.0: fat test - BODY : write tests to use http://docs.jboss.org/cdi/spec/2.0/cdi-spec.html configurators

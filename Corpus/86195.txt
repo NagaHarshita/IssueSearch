@@ -1,0 +1,1 @@
+ URL : "https://github.com/ArthurCose/AlarmManager/issues/3" TITLE : handle system time change BODY : qtimers should be deleted and reconstructed when a change in time is detected

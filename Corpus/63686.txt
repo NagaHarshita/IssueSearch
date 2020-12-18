@@ -1,0 +1,1 @@
+ URL : "https://github.com/drone-plugins/drone-downstream/issues/22" TITLE : error info is lost here BODY : https://github.com/drone-plugins/drone-downstream/blob/e6e5010d3459f7d18190ae3735362fbb4fc928d7/plugin.go l62 the actual error is ignored and the resulting error message in build log is not informative. the only way to see the actual error is to see in drone server logs.

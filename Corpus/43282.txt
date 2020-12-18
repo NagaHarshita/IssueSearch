@@ -1,0 +1,1 @@
+ URL : "https://github.com/Orresho/ed-calendar/issues/7" TITLE : construct event model BODY : event model containing: - image binary, required - heading string, required - content string, required - location string, required - date date, required

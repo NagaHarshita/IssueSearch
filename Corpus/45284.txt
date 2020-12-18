@@ -1,0 +1,1 @@
+ URL : "https://github.com/FreshRSS/FreshRSS/issues/1426" TITLE : how to cron the feeds BODY : i have 30 feeds. is it possible that each one of them keep updating every 25minutes. but not all at once. i mean every 4-5 min atleast two feed keep updating. so whole day i can keep updated with the feeds.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/bobintetley/asm3/issues/297" TITLE : holds ending today BODY : the alert and the holds ending today search should show holds where the holdunitdate is tomorrow. otherwise, the auto_cancel_holds method runs and removes the ishold flag before the alert can be shown.

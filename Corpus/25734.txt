@@ -1,0 +1,1 @@
+ URL : "https://github.com/danmarshall/google-font-to-svg-path/issues/4" TITLE : add <desc> to group BODY : add option to take add <desc> to group with either custom string or the entered value. not sure if this helps with screen readers. https://developer.mozilla.org/en-us/docs/web/svg/element/desc

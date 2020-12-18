@@ -1,0 +1,1 @@
+ URL : "https://github.com/coreos/etcd/issues/8386" TITLE : run etcd benchmark tool BODY : i'm trying to run the benchmark tool of etcd. it's not obvious for me in the doc https://github.com/coreos/etcd/blob/master/documentation/op-guide/performance.md can someone help me with the command? thanks in advance!

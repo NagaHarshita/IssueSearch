@@ -1,0 +1,1 @@
+ URL : "https://github.com/babab/DisPass/issues/60" TITLE : remove logic from ui code BODY : to allow multiple front-ends, some logic in the ui code needs to be refactored and placed into the core modules.

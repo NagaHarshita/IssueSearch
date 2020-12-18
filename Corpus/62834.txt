@@ -1,0 +1,1 @@
+ URL : "https://github.com/rmap-project/rmap/issues/35" TITLE : create parent maven pom BODY : create a parent maven pom allowing builds to occur from the root level. also allows easier ide integration, opening a single project instead of multiple projects.

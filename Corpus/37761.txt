@@ -1,0 +1,1 @@
+ URL : "https://github.com/htdebeer/paru/issues/26" TITLE : more of one argument BODY : hi! guess it's not a bug : , simply my low ruby skills. how can i pass arguments from command line to a filter?

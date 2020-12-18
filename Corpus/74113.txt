@@ -1,0 +1,1 @@
+ URL : "https://github.com/christianvoigt/argdown/issues/27" TITLE : dot layout configuration BODY : i had to add some additional parameters to the dot file in order to generate a reasonable layout, i.e. concentrate=true; ratio= fill ; size= 10,10 ; it would be cool if such additional settings could be stored in a configuration that is used by the argdown programm.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/yhoiseth/writeitdown/issues/40" TITLE : remember me not working BODY : 1. log in with remember me checked. 2. visit the page the next day. expected result: still logged in actual result: have to login again.

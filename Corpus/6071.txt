@@ -1,0 +1,1 @@
+ URL : "https://github.com/valentine-ezugu/onlinestore/issues/5" TITLE : utils and bean BODY : i don't understand why you need static methods in the classes with @component https://github.com/valentine-ezugu/onlinestore/blob/5ad397bfe9c3659e17effb034992990c2052526c/bookstore/src/main/java/com/bookstore/utility/securityutility.java l10-l17

@@ -1,0 +1,1 @@
+ URL : "https://github.com/surajssd/kapp/issues/89" TITLE : our build story BODY : i have not thought this through at all, but if we ever decide to have a build story in kapp, then we can make use of projectatomic/buildah https://github.com/projectatomic/buildah

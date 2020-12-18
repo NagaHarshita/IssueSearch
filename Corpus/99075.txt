@@ -1,0 +1,1 @@
+ URL : "https://github.com/iscoe/pytri/issues/20" TITLE : make dockerfile use volume BODY : modify dockerfile to use a docker volume to allow writes from the docker container

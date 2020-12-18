@@ -1,0 +1,1 @@
+ URL : "https://github.com/channelcat/sanic/issues/530" TITLE : mypy type annotations BODY : as this is a python >= 3.5 library, it would be easy for callers of this library to support or ignore type annotations if they were added.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/IgorPereira98/ProjetoBinho/issues/8" TITLE : coisas estranhas na label! BODY : no commit 44e0889716070832662bcb4bc5b2d8e9709419c7, só faltou dizer de qual input cada label é! eu faria algo do tio assim! html <p> <label for= campo_1 >campo1:</label> <input id= campo_1 class= campo_1 type= number > </p>

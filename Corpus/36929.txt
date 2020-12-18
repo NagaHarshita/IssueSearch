@@ -1,0 +1,4 @@
+ URL : "https://github.com/brandonlujan/exchange/issues/12" TITLE : invalid desktop file BODY : appcenter dashboard ran desktop-file-validate on your project's .desktop file and received the following errors: repository/data/com.github.brandonlujan.exchange.desktop: error: action group desktop action aboutdialog exists, but there is no matching action aboutdialog --- for more information, see the desktop entry specification https://standards.freedesktop.org/desktop-entry-spec/latest/ar01s05.html if you need help with this issue please stop by the gitter https://gitter.im/elementary/houston channel. affects : 1.1.0 release https://github.com/brandonlujan/exchange/releases/tag/1.1.0 <!--
+pipe: desktop
+pipe time: sun jul 09 2017 01:29:13 gmt+0000 utc houston version: 0.4.1 ee9f0ce05e2d4e7d4834fc65b7a29b7a92f76b7e houston env: production
+-->

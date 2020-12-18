@@ -1,0 +1,1 @@
+ URL : "https://github.com/the-control-group/voyager/issues/2296" TITLE : one question about bread BODY : - laravel version: 5.5 - voyager version: 1.0.6 - php version: 7 - database driver & version: description: can i make bread where browser list would only show status = 1 row steps to reproduce:

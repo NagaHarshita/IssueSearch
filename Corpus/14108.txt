@@ -1,0 +1,1 @@
+ URL : "https://github.com/mattwebdev/commerce_usps/issues/1" TITLE : add composer file BODY : need the file to download via composer. also makes it easier to fetch the dependency.

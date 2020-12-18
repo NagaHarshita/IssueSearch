@@ -1,0 +1,1 @@
+ URL : "https://github.com/vlasovskikh/funcparserlib/issues/49" TITLE : tutorial not working BODY : hi! i'm getting an error at line 47: return reduce lambda s, f, x : f s, x , list, z it complains about the before f

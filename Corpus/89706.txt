@@ -1,0 +1,1 @@
+ URL : "https://github.com/DecipherNow/gm-fabric-dashboard/issues/731" TITLE : refactor jvm thread table BODY : refactor threadstable.scss into styled-components. related to 730

@@ -1,0 +1,1 @@
+ URL : "https://github.com/raulmur/ORB_SLAM2/issues/292" TITLE : orb computation code BODY : hi, i have noticed that orb descriptor computation and matching algorithm is coded by you. what was the intentions ? why not to use orb from opencv? thx

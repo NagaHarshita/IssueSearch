@@ -1,0 +1,1 @@
+ URL : "https://github.com/airbnb/react-native-maps/issues/1756" TITLE : bug 0.17.2 map not moving BODY : hello! after upgrade from 0.16.2 github:kesha-antonov/react-native-maps fix_fire_twice_onregionchangecomplete to 0.17.2 map does not respond to my tap gestures. map not moving. has anyone experienced same or fixed it?

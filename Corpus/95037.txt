@@ -1,0 +1,1 @@
+ URL : "https://github.com/ajshort/vscode-include-autocomplete/issues/5" TITLE : continue after back space? BODY : this works really nicely, except that that if i make a mistake and need to press backspace the completion stops working - i have to delete back to the quotes to restart?

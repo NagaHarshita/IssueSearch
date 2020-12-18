@@ -1,0 +1,1 @@
+ URL : "https://github.com/codingteam/euclid/issues/5" TITLE : add terminal support BODY : currently, we have only rot.js support. we need to add support for ordinary terminals.

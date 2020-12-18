@@ -1,0 +1,9 @@
+ URL : "https://github.com/PennyDreadfulMTG/Penny-Dreadful-Tools/issues/3599" TITLE : 500 error at /decks/6095/ BODY : failed to execute insert into card layout values %s with 'normal' because of 1205, 'lock wait timeout exceeded; try restarting transaction' reported on decksite by logged_out
+--------------------------------------------------------------------------------
+request method: get
+path: /decks/6095/?
+cookies: {}
+endpoint: decks
+view args: {'deck_id': '6095'}
+person: logged_out
+user-agent: mozilla/5.0 compatible; yandexbot/3.0; +http://yandex.com/bots referrer: none

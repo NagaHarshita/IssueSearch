@@ -1,0 +1,1 @@
+ URL : "https://github.com/rg3/youtube-dl/issues/14638" TITLE : ctl-c doesn't kill BODY : version 2017.10.29 ubuntu server 16.04 run via ssh putty ctl-c doesn't stop download. will stop conversion to mp3, but process continues to run in background.

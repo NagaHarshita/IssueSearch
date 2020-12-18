@@ -1,0 +1,1 @@
+ URL : "https://github.com/LearnTeachCodeSeoul/todo/issues/60" TITLE : hide archived todos BODY : hide a todo from the screen if it has status of archived without deleting it from the database

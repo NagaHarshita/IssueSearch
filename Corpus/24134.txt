@@ -1,0 +1,1 @@
+ URL : "https://github.com/espressif/arduino-esp32/issues/325" TITLE : server ota updates BODY : it is possible to update my esp32 via ota from a server like the esp8266. i have read this page http://esp8266.github.io/arduino/versions/2.0.0/doc/ota_updates/ota_updates.html http-server but the function can't be compile with esp32

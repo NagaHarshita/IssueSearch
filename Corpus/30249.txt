@@ -1,0 +1,1 @@
+ URL : "https://github.com/vojtatom/vddt/issues/15" TITLE : operace s binárkou BODY : při nahrávání binárky se binárka nahraje ale nezobrazí se úspěšnost operace žádná odezva pro uživatele . a taky chybí /app/templates/binary/delete.latte

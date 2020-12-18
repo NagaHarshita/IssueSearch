@@ -1,0 +1,20 @@
+ URL : "https://github.com/AppFolioOnboarding/image-sharer-jalexanderqed/issues/2" TITLE : save image link BODY : as a user i want to save a link to an image. __story__: now that we have an awesome landing page for our users to experience it is time
+to introduce our first feature! in general, we want to deliver value to our
+customers as fast as possible. as a result, we have decided that we want our
+users to be able to save links to images, and immediately see that we have
+saved the url to the image. one could argue that simply saving the image, and not showing it, provides some
+value. yes, you could split this story here. however, because saving image urls
+and viewing those images are both relatively small additions that work well
+together, it is acceptable to complete them together. note, on the other hand,
+that we do not yet want to implement the image index. its addition adds too
+much complexity, so we’ll save that for a future story. in general, feature addition, or stories, should be split into the smallest
+deliverable chunk that provides value to your users with the caveat that it
+might make sense to combine two, sometimes more, tiny and related features into
+a single story. __acceptance criteria__:
+- the landing page links to the image link submission form.
+- the link is entered through a form.
+- after the form is saved, the link is persisted in the database.
+- after the form is submitted, the user is redirected to a page displaying the image. __dependencies__:
+- deployment environment __note__: many image sharing sites will permit one to upload images, or
+download images when provided a link. for this project we will only work with
+the link, i.e., url, to various images.

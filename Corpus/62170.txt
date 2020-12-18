@@ -1,0 +1,1 @@
+ URL : "https://github.com/opengisch/quick_attribution/issues/1" TITLE : causes multiple crashes BODY : this plugin causes qgis 2.18.12 to crash frequently, in particular when closing the program.

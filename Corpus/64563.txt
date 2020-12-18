@@ -1,0 +1,1 @@
+ URL : "https://github.com/sous-chefs/graphite/issues/284" TITLE : graphite 1.0.1 support? BODY : so far this is not working out of the box for graphite 1.0.1. anyone got a fix in their wrapper cookbook?

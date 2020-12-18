@@ -1,0 +1,1 @@
+ URL : "https://github.com/The-Lounge/TheLounge/issues/11" TITLE : view posting details BODY : users should be able to view posting details - viewable at ng route /posting/:id/ - should display name, description, user, category - other fields should be hidden

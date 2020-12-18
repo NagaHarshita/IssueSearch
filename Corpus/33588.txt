@@ -1,0 +1,1 @@
+ URL : "https://github.com/VISTAS-IVES/pyvistas/issues/21" TITLE : add zonal statistics BODY : being able to calculate stats based on a polygon from either selected polygon from a user shapefile or from a user-defined region using selection capabilities .

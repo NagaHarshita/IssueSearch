@@ -1,0 +1,1 @@
+ URL : "https://github.com/zapier/parquetr/issues/2" TITLE : s3 code is proprietary BODY : how we hook in and out of s3 is a chunk of code that is zapier proprietary. we need to isolate that code, clean it up, and release it open source. until that is done, the package is only useful as a starting point for other folk.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/wangshuangkc/WSE-Homework/issues/6" TITLE : generate output files BODY : as a searchengine user, i need instructions in a readme file, so that output of each ranker can be generated. assumptions: - rankers; acceptance criteria: - ranking results are shown in separate files

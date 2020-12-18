@@ -1,0 +1,1 @@
+ URL : "https://github.com/gregwhitaker/jqflag/issues/1" TITLE : it slowly moves downward BODY : when i put the flag into jq mode, i have to unplug it from power or else it slowly moves back into gsd mode. is this a bug?

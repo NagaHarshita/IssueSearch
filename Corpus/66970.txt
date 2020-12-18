@@ -1,0 +1,1 @@
+ URL : "https://github.com/clarketm/TableExport/issues/87" TITLE : number converts to text BODY : brazilian number format is nn.nnn,nn ex: 1.234,56 instead of 1,234.56 . where how can i change to export to excel format? when i export to excel, it converts to text. thanks, lee

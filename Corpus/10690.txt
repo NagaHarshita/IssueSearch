@@ -1,0 +1,1 @@
+ URL : "https://github.com/BCN3D/BCN3DSigma-Profile-Generator/issues/9" TITLE : cura 3.1 support BODY : to allow the sigma to show up in cura 3.1 the variants 'setting_version' needs to be updated to 4. metadata ... setting_version = 4

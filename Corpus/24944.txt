@@ -1,0 +1,1 @@
+ URL : "https://github.com/18F/atf-eregs/issues/560" TITLE : update atf api url BODY : the related documents api is being updated, and its url will change to https://www.atf.gov/api/v1.1/ereg/ we should change our code accordingly.

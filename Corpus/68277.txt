@@ -1,0 +1,1 @@
+ URL : "https://github.com/souffle-lang/souffle/issues/414" TITLE : request: static linking BODY : we're building for a couple architectures, and we'd like to be able to build the binaries once and move them around. currently when we try this we get the following error: $ ~/tmp/sean-souffle/souffle -c db.dl error: failed to locate souffle preprocessor

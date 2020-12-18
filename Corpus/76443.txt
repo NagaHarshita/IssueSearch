@@ -1,0 +1,4 @@
+ URL : "https://github.com/davidsowerby/krail-jpa/issues/33" TITLE : kaytee build: tag failed BODY : failure: build failed with an exception. what went wrong:
+execution failed for task ':tag'.
+> failed to apply tag try:
+run with --stacktrace option to get the stack trace. run with --info or --debug option to get more log output.

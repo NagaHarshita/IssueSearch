@@ -1,0 +1,1 @@
+ URL : "https://github.com/matriex/System_Extractor-Linux/issues/2" TITLE : not working on macos BODY : the script is not working on mac os. when i run it,its says that couldn't find the tools folder...while the tools folder is in the same as the exec file. is this fixable?

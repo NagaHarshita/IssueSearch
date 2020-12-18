@@ -1,0 +1,1 @@
+ URL : "https://github.com/MisterTaki/vue-table-with-tree-gird/issues/2" TITLE : templates doesnt work BODY : <template slot= likes scope= scope > {{ scope.row.likes.join ',' }} </template> is deprecated!? how to use it right instead?

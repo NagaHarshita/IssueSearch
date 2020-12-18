@@ -1,0 +1,1 @@
+ URL : "https://github.com/nextcloud/documentation/issues/336" TITLE : ldap provisioning api BODY : @blizzz could you please properly document the ldap provisioning api from https://github.com/nextcloud/server/pull/3162 cc @karlitschek

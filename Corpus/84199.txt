@@ -1,0 +1,1 @@
+ URL : "https://github.com/advancetoolchain/advance-toolchain/issues/10" TITLE : create at 11.0 config set BODY : create the config set 11.0 based on next. be careful with the contents of base.mk on both config sets.

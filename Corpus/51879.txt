@@ -1,0 +1,1 @@
+ URL : "https://github.com/JdeGuise/object_oriented/issues/7" TITLE : bug - enemy destroying BODY : fix bug where white square will not take over enemies and put them back into the pen.

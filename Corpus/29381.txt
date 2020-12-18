@@ -1,0 +1,1 @@
+ URL : "https://github.com/Fiware/dataModels/issues/186" TITLE : linter for markdown BODY : we could explore as well the linting of md docs: https://www.npmjs.com/package/markdownlint

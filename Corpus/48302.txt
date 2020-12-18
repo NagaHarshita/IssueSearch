@@ -1,0 +1,1 @@
+ URL : "https://github.com/utwente-fmt/vercors/issues/61" TITLE : returning null in pvl BODY : one can currently not return null in a method body in pvl. this results in an exception with a message that looks like: cannot declare variable __flatten_? of <<null>> type. with ? some integer . minimal example program in pvl : java class list { list nothing { return null; } }

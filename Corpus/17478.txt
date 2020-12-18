@@ -1,0 +1,1 @@
+ URL : "https://github.com/mvayngrib/rn-nodeify/issues/33" TITLE : please update npm BODY : the buffer package in npm is outdated. buffer@3.3.0 does not have buffer.alloc function. after using the latest version of buffer, i'm able to use webtorrent now.

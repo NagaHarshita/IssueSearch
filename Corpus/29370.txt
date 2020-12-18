@@ -1,0 +1,1 @@
+ URL : "https://github.com/AdeleD/react-paginate/issues/181" TITLE : link on li vs text? BODY : thank you for this great package. thoughts on moving the link to the <li> vs the <a> ? i have had a few users tell me the pagination is broken because they are clicking on the page box vs the page number. i can create a pr if others see value in the change.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/leosac/leosac/issues/81" TITLE : libscrypt as dependency BODY : libscrypt is a dependency of the project, but it isn't checked in the cmakelists.txt file. building the project on a system w/o libscrypt will throw an error mid compilation.

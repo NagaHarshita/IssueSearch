@@ -1,0 +1,4 @@
+ URL : "https://github.com/vaadin/vaadin-context-menu/issues/61" TITLE : add performance tests BODY : things we're interested in:
+- how much time it adds to first paint?
+- how much time it adds to time-to-interactive?
+- what is the full payload size?

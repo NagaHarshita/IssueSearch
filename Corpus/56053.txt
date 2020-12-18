@@ -1,0 +1,1 @@
+ URL : "https://github.com/catapult-project/catapult/issues/3266" TITLE : mark feature is broken BODY : click a slice. press 'm'. what i see: ! image https://cloud.githubusercontent.com/assets/412396/23270605/32ced0fc-f9a9-11e6-83fc-2b78376e942f.png what i should see is that the mark lines extend all the way vertically over the screen.

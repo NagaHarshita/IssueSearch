@@ -1,0 +1,1 @@
+ URL : "https://github.com/Promises/DjangoMovieHd/issues/2" TITLE : rewrite old code. BODY : alot of the old code in views and apigrabber is years old, written before i learned proper python. should be a loooong easy fix.

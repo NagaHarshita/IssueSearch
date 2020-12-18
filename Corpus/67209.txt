@@ -1,0 +1,1 @@
+ URL : "https://github.com/KUHacks/TigerHacks/issues/2" TITLE : parse_headlines is slow BODY : the method takes a few seconds to evaluate 1 page of headlines for a given topic segment. this could be improved by changing the tree parser.

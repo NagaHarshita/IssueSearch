@@ -1,0 +1,1 @@
+ URL : "https://github.com/flaviotordini/minitube/issues/72" TITLE : functions.js not found BODY : when i try to play a video on minitube, i get: cannot write no such file or directory /home/myusername/.local/share/flavio tordini/minitube/functions.js i'm using manjaro and i get same error when installed from aur and when compiled from source.

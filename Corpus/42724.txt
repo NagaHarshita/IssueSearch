@@ -1,0 +1,1 @@
+ URL : "https://github.com/svanimpe/around-the-table/issues/18" TITLE : button overlaps input BODY : when requesting a number of seats, the button overlaps the disabled input. ! screenshot https://s18.postimg.org/uvr2cg1pl/p_y8_k0.png

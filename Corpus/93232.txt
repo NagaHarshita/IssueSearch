@@ -1,0 +1,1 @@
+ URL : "https://github.com/simonnagl/netdata-plugin-java-daemon/issues/23" TITLE : add maven integration test BODY : we need to test if after mvn package the plugin starts. for this we need an automated maven integration test. at least it should test the startup of the plugin.

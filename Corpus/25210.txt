@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/vscode/issues/31102" TITLE : visual studio code BODY : - vscode version: code 1.13.1 379d2efb5539b09112c793d3d9a413017d736f89, 2017-06-14t18:21:47.485z - os version: windows_nt ia32 10.0.10240 - extensions: the listing length exceeds browsers' url characters limit --- steps to reproduce: 1. 2.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Lucas-C/pre-commit-hooks-nodejs/issues/1" TITLE : no repository persistence BODY : im trying to use dockerfile linter but, every time i run git commit it installs the repository again.

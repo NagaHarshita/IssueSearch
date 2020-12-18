@@ -1,0 +1,1 @@
+ URL : "https://github.com/ipapusha/amnet/issues/4" TITLE : tf eval testing error BODY : https://github.com/ipapusha/amnet/blob/2b906834e911705a1f09cc2b0ea498ad95b76180/tests/test_tf.py l109 should this be nn.eval image instead?

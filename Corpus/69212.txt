@@ -1,0 +1,1 @@
+ URL : "https://github.com/ath0s/IntelliAstrix/issues/5" TITLE : support astrix profiles BODY : currently the plugin ignores astrixincludedbyprofile and astrixexcludedbyprofile, so an astrix bean that is exposed as a service in the default profile, but as a library in a test profile might be indicated as a library.

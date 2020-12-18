@@ -1,0 +1,1 @@
+ URL : "https://github.com/shadowsocks/simple-obfs/issues/21" TITLE : wrong version number BODY : when i build simple-obfs in ./simple-obfs-0.0.2/, the version of obfs-server is still 0.0.1 root@hk-az:~ /usr/local/bin/obfs-server --help simple-obfs 0.0.1

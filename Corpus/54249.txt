@@ -1,0 +1,1 @@
+ URL : "https://github.com/CandN/eliscore/issues/21" TITLE : fix styling for footer BODY : the footer is overlaying button to add new match. fix footer styling and should be okay : screenshot: https://i.imgur.com/g2ajlpl.png

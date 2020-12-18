@@ -1,0 +1,1 @@
+ URL : "https://github.com/sanjorgek/sails-hook-routes-permissions/issues/4" TITLE : regex partial match BODY : when adding a new route to routes permission file it is possible that it never gets matched because of a partial match on a previous registered route. suggestion: const routematcher = new regexp '^' + pattern + '/?$' ;

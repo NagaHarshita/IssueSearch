@@ -1,0 +1,1 @@
+ URL : "https://github.com/confluentinc/kafka-connect-storage-cloud/issues/79" TITLE : support aws kms and sse-c BODY : currently the only option for server-side encryption is aws sse-s3, it would be great to support kms and sse-c.

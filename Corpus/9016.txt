@@ -1,0 +1,1 @@
+ URL : "https://github.com/z0mt3c/hapi-swaggered/issues/169" TITLE : support pattern BODY : currently joi.object.pattern is not supported and leads to an empty model.

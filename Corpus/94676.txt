@@ -1,0 +1,1 @@
+ URL : "https://github.com/rubycorns/rorganize.it/issues/520" TITLE : check all <ul>s for styles BODY : the weird markdown problem was solved by removing the default list-style: none on all ul+ol elements. so now: check all %ul and set their list-styles individually.

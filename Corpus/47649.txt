@@ -1,0 +1,1 @@
+ URL : "https://github.com/tkjone/pretty-logs/issues/22" TITLE : preserve line numbers BODY : right now when we log it is going to always show the source code line number of this lib, but we want to show the line number in the developers source code.

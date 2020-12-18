@@ -1,0 +1,1 @@
+ URL : "https://github.com/intellij-rust/intellij-rust/issues/1366" TITLE : autoimport of missing use BODY : is it possible to have autoimport of missing 'use' statements with alt-enter? right now it gives the suggestion in the error message but doesn't seem to have the auto fix option.

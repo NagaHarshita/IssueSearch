@@ -1,0 +1,1 @@
+ URL : "https://github.com/ahonor/sudo-command-step/issues/1" TITLE : typo in -e switch BODY : hi, you're missing an 'i' from environment. i've fixed it in this clone, and also added the ability to run the login shell of the destination user: https://github.com/falloutphil/sudo-command-step-enhanced

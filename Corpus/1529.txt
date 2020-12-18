@@ -1,0 +1,1 @@
+ URL : "https://github.com/whole-tale/dashboard/issues/33" TITLE : add a footer BODY : can we add a footer to the dashboard that would say e.g. © wholetale . i would additionally inject build information to it during deployment, like branch / commit etc.

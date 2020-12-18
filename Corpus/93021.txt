@@ -1,0 +1,1 @@
+ URL : "https://github.com/MoZhouqi/KMPlaceholderTextView/issues/39" TITLE : add attributed placeholder BODY : it would be cool to have the option to add an attributed placeholder like this: @ibinspectable open var attributedplaceholder: nsattributedstring? { didset { placeholderlabel.attributedtext = attributedplaceholder } } thanks!

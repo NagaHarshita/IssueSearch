@@ -1,0 +1,1 @@
+ URL : "https://github.com/TimelordUK/node-sqlserver-v8/issues/44" TITLE : date off by one day BODY : i'm having an issue pulling the correct datetime value. for example, the value in the database is 2009-05-27 00:00:00.000 but when i view the query results, the value is tue may 26 2009 20:00:00 gmt-0400 eastern daylight time . how can i pull exactly what is in the database?

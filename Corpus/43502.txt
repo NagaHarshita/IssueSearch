@@ -1,0 +1,1 @@
+ URL : "https://github.com/atk4/ui/issues/82" TITLE : create release script BODY : we need a script which will prepare release: - compile js - update branch name in the demo - update stability settings in dependencies

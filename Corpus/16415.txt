@@ -1,0 +1,1 @@
+ URL : "https://github.com/cf-platform-eng/concourse-pypi-resource/issues/2" TITLE : in: /version file BODY : could we please add a version file in the resource folder so it can be consumed by subsequent steps in the pipeline? an example of another resource having this behaviour is https://github.com/concourse/github-release-resource in-fetch-assets-from-a-release

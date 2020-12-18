@@ -1,0 +1,1 @@
+ URL : "https://github.com/tmrowco/electricitymap/issues/516" TITLE : split coal by coal type. BODY : coal varies too much in co2 output to lump it all together. coal should be split into black and brown coal, and co2e intensity calculated by generator.

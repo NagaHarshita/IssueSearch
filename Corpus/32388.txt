@@ -1,0 +1,16 @@
+ URL : "https://github.com/NSI-IT/DVH-MOBILITY/issues/23" TITLE : update user details BODY : as an admin user, i should be able to update the member's account so that i can make changes in any of the member's profile fields. acceptance tests: - verify that an admin user is getting an option to update the member's personal details.
+- verify that an admin user can make update following fields of any of the members: > first name mandatory field > middle name
+> last name mandatory field > company name
+> address line 1 text
+> address line 2 text
+> address line 3 text
+> address city name mandatory field > address regional area code
+> address postal code
+> address alpha 2 country code
+> address country name
+> main phone number
+> mobile phone number mandatory field > birth date mandatory field > alias name
+> account status active/suspended > password - verify that an admin user is getting an option to save the changes he has made. - verify the changes gets saved in the database
+- verify that password should be hashed before getting saved suspend an account - verify that admin user can suspend an account of a member
+- verify that a member cannot login to the app using his details once his account gets suspended by the admin
+- verify that suspending an account will not delete the previous records of the member. activate an account - verify that admin user can re-activate any of the susupend member's account by changing the status of the account - verify that member can sign in to his account once his account has been re-activated by the admin

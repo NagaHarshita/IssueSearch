@@ -1,0 +1,1 @@
+ URL : "https://github.com/Gbuomprisco/ng2-tag-input/issues/174" TITLE : add tags from controller? BODY : as of now, tags are added when user interact with the ui. is it possible to programmatically add tags from controller? for example, if i want to load some default tags in the input box on refresh.

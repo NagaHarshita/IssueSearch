@@ -1,0 +1,1 @@
+ URL : "https://github.com/slightlynybbled/engineering_notation/issues/1" TITLE : add unit parsing BODY : example: >>> d0 = engnumber '10k' >>> print d0 10k >>> print d0.unit none >>> d1 = engnumber '10khz' >>> print d1 10khz >>> print d1.unit hz

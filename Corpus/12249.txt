@@ -1,0 +1,1 @@
+ URL : "https://github.com/chack1172/eqFTP/issues/1" TITLE : no icon on linux BODY : installation on linux does not result in an icon on the right-hand toolbar. i installed from the github.com url in both windows and linux. in windows, the icon appears after installation. in linux, installation succeeds , but no icon is shown.

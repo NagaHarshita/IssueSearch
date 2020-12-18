@@ -1,0 +1,1 @@
+ URL : "https://github.com/mweser/BlackjackSimulator/issues/34" TITLE : cleanup global booleans BODY : clean up so easier to test switches

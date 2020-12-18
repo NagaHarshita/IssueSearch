@@ -1,0 +1,1 @@
+ URL : "https://github.com/wordpress-mobile/WordPress-Aztec-iOS/issues/275" TITLE : implement the more tag BODY : at the moment the more tag doesn't have a visual representation. it should be parsed and displayed visually.

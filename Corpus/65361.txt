@@ -1,0 +1,1 @@
+ URL : "https://github.com/scttcper/koa2-swagger-ui/issues/15" TITLE : initoauth is not called BODY : subj, it's not being called during ui init

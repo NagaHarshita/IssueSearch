@@ -1,0 +1,1 @@
+ URL : "https://github.com/ComputationalRadiationPhysics/mallocMC/issues/143" TITLE : cuda 9.0 compatebility BODY : deprecated in cuda 9.0 due to the new cooperative groups: __ballot replace in cuda 9.0+ with __ballot_sync . note: also affected but not used in mallocmc : __all / all , __any / any , __shfl

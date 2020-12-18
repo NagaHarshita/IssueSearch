@@ -1,0 +1,1 @@
+ URL : "https://github.com/18F/omb-eregs/issues/685" TITLE : basic pdf import BODY : import a pdf and dump its text into the database. full textual accuracy is not anticipated. ui is not required for this issue, as this iteration will probably be via the command line.

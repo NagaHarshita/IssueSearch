@@ -1,0 +1,1 @@
+ URL : "https://github.com/khornberg/elasticpypi/issues/61" TITLE : quoted filenames fail BODY : when a file is uploaded to s3 with quoted characters i.e. + gets stored quoted as %2b and quoted filenames can not be pulled by pip.

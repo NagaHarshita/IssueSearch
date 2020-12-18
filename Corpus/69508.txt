@@ -1,0 +1,1 @@
+ URL : "https://github.com/kyuupichan/electrumx/issues/133" TITLE : testnet node econnreset BODY : @petrkr i'm using electrum-btc-testnet.petrkr.net which is the only testnet electrum server i could find which has a electrumx running for app testing, but suddenly it stopped working, throwing econnresets events. more testnets servers out there?

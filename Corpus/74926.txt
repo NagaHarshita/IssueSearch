@@ -1,0 +1,1 @@
+ URL : "https://github.com/nickworks/TreeOfLife/issues/39" TITLE : fix/rebuild core prefabs BODY : 1. rename /prefabs/cameratarget to /prefabs/camerarig 1. remove rigidbody2d, boxcollider2d, and pawnaabb from /prefabs/player 1. add pawnaabb3d to /prefabs/player

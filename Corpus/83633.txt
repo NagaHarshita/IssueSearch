@@ -1,0 +1,1 @@
+ URL : "https://github.com/TheOdinProject/theodinproject/issues/772" TITLE : chat icon: click to close BODY : expected chat icon in lower right corner to be toggle chat window. currently, the icon does not close the chat window if open

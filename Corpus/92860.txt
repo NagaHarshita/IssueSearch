@@ -1,0 +1,1 @@
+ URL : "https://github.com/Carthage/Carthage/issues/2183" TITLE : ability to cancel fetching BODY : since somewhat version, i see carthage introduced parallel fetching. it's great, but control + c doesn't cancel these asynchronous tasks. it should be cancellable.

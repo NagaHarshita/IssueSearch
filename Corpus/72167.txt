@@ -1,0 +1,1 @@
+ URL : "https://github.com/SeleniumHQ/docker-selenium/issues/387" TITLE : base is 2.53.1 in 2.53.0 BODY : i noticed in my tests that there were conflicting versions in a stack trace. i checked on my end and i have everything pointed at 2.53.0, but i see here that base is updated 2.53.1. that doesn't seem right. https://github.com/seleniumhq/docker-selenium/tree/2.53.0

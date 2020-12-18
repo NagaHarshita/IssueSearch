@@ -1,0 +1,1 @@
+ URL : "https://github.com/google/cloudprint_logocert/issues/135" TITLE : local api creatjob BODY : our printer fails localprinting. google cloud print logo certification tool version2 does not set 'content-type' of request header in creatjob . i think 'content-type' of request header should be set because there is cjs of request body

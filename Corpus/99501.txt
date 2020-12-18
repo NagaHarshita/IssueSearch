@@ -1,0 +1,1 @@
+ URL : "https://github.com/jfritzbarnes/billigt-mq/issues/4" TITLE : modify .incoming directory BODY : the current design using a .incoming directory introduces a reserved word. if we used incoming instead of .incoming ; i think this would avoid the reserved billigtmq name.

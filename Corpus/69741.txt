@@ -1,0 +1,1 @@
+ URL : "https://github.com/StagPython/StagPy/issues/20" TITLE : treatment of 3d results BODY : 3d files can already be read. what is missing is: - treatment of 3d spherical cases to go from the yin-yang grid to a r-theta-phi space. - iso-surfaces and slices both in cartesian and spherical geometry.

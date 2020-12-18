@@ -1,0 +1,1 @@
+ URL : "https://github.com/eafon0611/groupnewspaper/issues/6" TITLE : export python table to csv BODY : hi mates, i had a good time with you guys in 19th november discussion. df.to_csv 'example.csv' https://stackoverflow.com/questions/16923281/pandas-writing-dataframe-to-csv-file

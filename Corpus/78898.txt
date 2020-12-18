@@ -1,0 +1,1 @@
+ URL : "https://github.com/fnoop/maverick/issues/260" TITLE : rename maverick services BODY : rename maverick-dev-sitl to maverick-sitl. rename maverick-mavproxy- to maverick-mavlink-

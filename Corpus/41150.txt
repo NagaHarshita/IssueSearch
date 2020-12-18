@@ -1,0 +1,1 @@
+ URL : "https://github.com/danvk/source-map-explorer/issues/47" TITLE : wrong size displayed BODY : is it alright that source-map-explorer shows / 545 kb 100.0 % whereas the size of the file is 940 kb? i'm using rollup for compilation and creating source map file. thanks in advance for any ideas on what might be wrong here.

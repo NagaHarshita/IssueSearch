@@ -1,0 +1,9 @@
+ URL : "https://github.com/PennyDreadfulMTG/perf-reports/issues/3703" TITLE : 500 error at /resources/ BODY : failed to execute select from _cache_card as c where 1 = 1 and 1 = 1 with because of 1146, table 'cards._cache_card' doesn't exist reported on decksite by logged_out
+--------------------------------------------------------------------------------
+request method: get
+path: /resources/?
+cookies: {}
+endpoint: resources
+view args: {}
+person: logged_out
+user-agent: mozilla/5.0 macintosh; intel mac os x 10_10_1 applewebkit/600.2.5 khtml, like gecko version/8.0.2 safari/600.2.5 applebot/0.1; +http://www.apple.com/go/applebot referrer: none

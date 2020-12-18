@@ -1,0 +1,1 @@
+ URL : "https://github.com/TheOriginalJosh/nativescript-swiss-army-knife/issues/11" TITLE : please verify the demo BODY : it is giving error in main.ts file. > found peer typescript 1.8.10 app/main-page.ts 17,62 : error ts2339: property 'androidstatusbar' does not exist on type 'iscreenhei ght'.

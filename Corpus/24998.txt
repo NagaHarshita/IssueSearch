@@ -1,0 +1,1 @@
+ URL : "https://github.com/opsdroid/opsdroid/issues/159" TITLE : update skills hook BODY : it would be nice to be able to update all skills by talking to the bot itself. this would require a hook to update all skill repos and then reload the skills. requires 157

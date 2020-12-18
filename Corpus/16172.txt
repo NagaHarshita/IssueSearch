@@ -1,0 +1,1 @@
+ URL : "https://github.com/ycszen/pytorch-ss/issues/7" TITLE : how to train gcn? BODY : how to train my own dataset on gcn? is there some best practices to train the model? learning rate multiplication gets better accuracy?

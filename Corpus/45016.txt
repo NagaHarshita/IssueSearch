@@ -1,0 +1,1 @@
+ URL : "https://github.com/prody/ProDy/issues/439" TITLE : going from nmd to npz BODY : i am currently doing pca on a protein. i have generated nmd files using nmw's prody extension, but i have a dcd and psf file so the ensemble tutorials are a little confusing. is there a simple way to generate a .npz file from .nmd file and psf and dcd?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/MZaidA/Travelendar/issues/7" TITLE : entitas atau atribut BODY : mau bertanya untuk skema database 4 yang telah dibuat. mengapa start_time, end_time, start_date dan end_date harus dibuat menjadi entitas tersendiri tidak menjadi sebuah atribut? terima kasih

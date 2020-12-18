@@ -1,0 +1,1 @@
+ URL : "https://github.com/c3d/build/issues/12" TITLE : how to move from autoconf? BODY : say i want to build strace https://github.com/strace/strace/ with build ... strace uses autoconf, so what would be the steps to get there?

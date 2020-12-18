@@ -1,0 +1,1 @@
+ URL : "https://github.com/Samadler23/prj-rev-bwfs-dasmoto/issues/4" TITLE : header tags bold BODY : header tags h1, h2, ... default to bold, so no need to add it. https://github.com/samadler23/prj-rev-bwfs-dasmoto/blob/master/dasmoto/resources/css/index.css l8

@@ -1,0 +1,1 @@
+ URL : "https://github.com/eliasts/Ocean_Community_Next_Gen/issues/2" TITLE : unity 5.6 shader broken BODY : hey, the ocean shaders worked great in 5.5 but since upgrading to unity 5.6.0p4 the specular and reflection has gone completely crazy. any idea what's going on?

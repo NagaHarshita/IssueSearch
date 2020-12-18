@@ -1,0 +1,1 @@
+ URL : "https://github.com/SubtitleEdit/subtitleedit/issues/2526" TITLE : enhancing rtl mode BODY : thought i'd leave it here what's left is: 1. prevent list view from returning to the beginning of the file when switching to rtl and back. 2. apply rtl language auto-detection for list view and waveform if possible

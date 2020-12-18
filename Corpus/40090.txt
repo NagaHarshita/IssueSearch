@@ -1,0 +1,1 @@
+ URL : "https://github.com/Tendrl/documentation/issues/74" TITLE : tendrl build process BODY : there should be a document to understand the build process exactly. it should have details about build details, jenkins ci, fedora copr details and package availability details and also like what our jenkins does and what copr does and how both work together.

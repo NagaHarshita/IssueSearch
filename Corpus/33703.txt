@@ -1,0 +1,1 @@
+ URL : "https://github.com/amonapp/amonagent/issues/11" TITLE : amon repository down BODY : http://packages.amon.cx/repo/ returns nosuchkey it's also only reachable on legacy ip, so newer nodes that are v6-only may not be able to reach it, but that's probably a separate issue.

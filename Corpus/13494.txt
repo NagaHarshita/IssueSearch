@@ -1,0 +1,1 @@
+ URL : "https://github.com/fcrepo4-labs/fcrepo-api-x/issues/114" TITLE : use authn in its BODY : currently, its are based on non-authenticated fedora. use auth + webac to provide access control to some resources e.g. the registries that api-x uses , and verify that everything still works.

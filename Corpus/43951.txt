@@ -1,0 +1,1 @@
+ URL : "https://github.com/Semantic-Org/Semantic-UI-React/issues/1590" TITLE : documentation is down BODY : your documentation is down. http://react.semantic-ui.com/ errors from the console : vendor.efab3c6822920f9f6af1.js:1 uncaught syntaxerror: unexpected token < app.d0cf20c18c32b5eeee50.js:1 uncaught syntaxerror: unexpected token <

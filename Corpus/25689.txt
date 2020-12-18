@@ -1,0 +1,1 @@
+ URL : "https://github.com/AllenFang/react-bootstrap-table/issues/1401" TITLE : about deleting rows BODY : is there any command that after deleting a row or a set of rows will return me the list of all the deleted rows? not just their respective indexes?

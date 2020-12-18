@@ -1,0 +1,1 @@
+ URL : "https://github.com/ubclaunchpad/cumulus/issues/45" TITLE : create cobra scaffolding BODY : refactor main.go code into a cobra app

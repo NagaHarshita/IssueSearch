@@ -1,0 +1,1 @@
+ URL : "https://github.com/ox-vgg/keypoint_matlab_demo/issues/1" TITLE : how to train this model BODY : the net contains several loss layers, i am very courious about how to train this kind effiectively. from the readme it seems there was an tutorial for that, though the link has dead.

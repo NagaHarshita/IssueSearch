@@ -1,0 +1,1 @@
+ URL : "https://github.com/JackyAndroid/AndroidChromium/issues/17" TITLE : app crashes on x86 devices BODY : dear concern, thank you for your project. it's perfectly works on arm devices, but when i tried to run this app on x86 device it crashes. may be we need jnilib files for x86 devices also. how can i/we fixed this? thanks again.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/pybel/pybel-tools/issues/83" TITLE : switch over to blueprints BODY : for the interfaces that use the manager probably all of them use the current_app proxy in flask to get it. see: https://stackoverflow.com/questions/18214612/how-to-access-app-config-in-a-blueprint

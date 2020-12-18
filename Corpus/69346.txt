@@ -1,0 +1,1 @@
+ URL : "https://github.com/mbkarle/ball-game/issues/5" TITLE : switch movement to tilt BODY : movement currently applies forces to player object – instead we should tilt the world objects; create accelerometer integration

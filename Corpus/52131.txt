@@ -1,0 +1,1 @@
+ URL : "https://github.com/ShayBox/USB-MC/issues/1" TITLE : cannot find main class BODY : cannot find main class error. solution: don't use default-jre on linux use the official oracle jre. if you get this error on any other os, try uninstalling your java and getting it from java.com

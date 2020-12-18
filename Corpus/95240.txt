@@ -1,0 +1,1 @@
+ URL : "https://github.com/TechnionYP5777/SmartCity-ParkingManagement/issues/151" TITLE : create db classes - driver BODY : create driver class according to the architectural change we agreed on. the class will not change the db directly, but will activate functions from dbmanager class. note - implementation of tests is also necessary

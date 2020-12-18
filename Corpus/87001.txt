@@ -1,0 +1,1 @@
+ URL : "https://github.com/linbox-team/givaro/issues/45" TITLE : installation on mac os x? BODY : ./configure command doesn't seem to detect gmp, which headers is in /opt/local/include. i can't figure out what should i type in --with gmppath /gmp-x-y-z. it is a stupid question, but i'm really stuck with it.

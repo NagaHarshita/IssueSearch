@@ -1,0 +1,1 @@
+ URL : "https://github.com/henrypp/memreduct/issues/28" TITLE : crash with server 2012 r2 BODY : the software is nice, but crash on windows 2012r2 operating system after cleaning. we have a 128 gb ram server and if the memory is used arround or more than 30%, your software do the job and crash . if the memory is low, no any problem

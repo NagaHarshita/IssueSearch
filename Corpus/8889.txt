@@ -1,0 +1,1 @@
+ URL : "https://github.com/sosy-lab/llvm-j/issues/1" TITLE : setup travis ci BODY : setup a travis ci environment running findbugs, checkstyle, eclipse compile, future unit tests and other useful things.

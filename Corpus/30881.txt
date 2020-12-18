@@ -1,0 +1,1 @@
+ URL : "https://github.com/kronenthaler/mod-pbxproj/issues/147" TITLE : release 2.0 on pypi BODY : why has the new version not been released to pypi? pip install mod_pbxproj gives you the old version.

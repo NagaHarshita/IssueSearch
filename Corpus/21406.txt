@@ -1,0 +1,1 @@
+ URL : "https://github.com/ramirezd42/vst-js/issues/6" TITLE : feature: add tests BODY : would love to have some level of unit and/or integration testing going on. the problem is i need to learn how to write tests in c++ first :sweat_smile:

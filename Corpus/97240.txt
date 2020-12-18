@@ -1,0 +1,1 @@
+ URL : "https://github.com/jprichardson/node-suppose/issues/34" TITLE : function as response value BODY : because of https://github.com/jprichardson/node-suppose/blob/master/lib/suppose-stream.js l75, this will do nothing: js .when something .respond match => response is there some other reason that the code supports a function value?

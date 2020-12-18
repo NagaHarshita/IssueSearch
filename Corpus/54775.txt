@@ -1,0 +1,1 @@
+ URL : "https://github.com/subenksaha/react-redux-universal/issues/1" TITLE : hot reload throw error BODY : when i change component files and i got error of uncaught rangeerror: maximum call stack size exceeded

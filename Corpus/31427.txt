@@ -1,0 +1,1 @@
+ URL : "https://github.com/arimorty/floatingsearchview/issues/171" TITLE : show menuitem title BODY : when a menuitem showasaction attribute is set to ifroom, but has no icon show it's title instead of vertical dots

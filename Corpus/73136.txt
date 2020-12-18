@@ -1,0 +1,1 @@
+ URL : "https://github.com/njch5/teacozy/issues/4" TITLE : concise css and flex-box BODY : great! awesome work with your use of flex-box in css. i also love your use of the body selector to make your css more concise. here, consider using group selectors for any repeated styles like display: flex; to make your css even more concise.

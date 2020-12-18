@@ -1,0 +1,1 @@
+ URL : "https://github.com/Magdoll/Cogent/issues/5" TITLE : no module named ssw_wrap BODY : hello! i'am trying to run cogent, but i not sure where to find the python module ssw_wrap . neither ssw-0.3.1 nor complete-striped-smith-waterman-library-1.1 helps.

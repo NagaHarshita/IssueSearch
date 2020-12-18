@@ -1,0 +1,1 @@
+ URL : "https://github.com/wix/detox/issues/129" TITLE : get coordinate of element BODY : hi there, thanks again for this awesome piece of code! i would like to test if a selected element has certain absolute x and y coordinates. a matcher for this would be cool, but i can't figure out how to do it. can you point me in the right direction, so that i may do a pr?

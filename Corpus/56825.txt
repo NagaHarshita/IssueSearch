@@ -1,0 +1,1 @@
+ URL : "https://github.com/RocketChat/Rocket.Chat.Electron/issues/599" TITLE : open menu on alt+shift BODY : fedora 26 x86_64 rocketchat-2.10.0-650.x86_64 when i type message and switch keyboard layout by alt+shift combination, application menu opens. on rocketchat-2.9.0-538.x86_64 there is no problems.

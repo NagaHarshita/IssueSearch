@@ -1,0 +1,1 @@
+ URL : "https://github.com/pjbgf/dotnet-ildasm/issues/31" TITLE : invalid il for properties BODY : current il il_0001: ldfld string dotnet_ildasm.sample.classes.publicclass::<property1>k__backingfield expected il il_0001: ldfld string dotnet_ildasm.sample.classes.publicclass::'<property1>k__backingfield'

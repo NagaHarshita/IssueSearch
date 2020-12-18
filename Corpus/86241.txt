@@ -1,0 +1,1 @@
+ URL : "https://github.com/ofek/depq/issues/6" TITLE : heap based priority queue BODY : heaps can reduce insertion cost to log n . besides, is it possible to pass on a flag-alike argument to the object, so that i can use the depq without lock?

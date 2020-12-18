@@ -1,0 +1,1 @@
+ URL : "https://github.com/dtaht/Gnugol/issues/8" TITLE : ? insert-string is void? BODY : hello, i've tried gnugol but i got the error that the function insert-string is void. i've have the issue by using insert .... instead of insert-string ... in the gnugol.el file. is the insert-string function doing something better ?

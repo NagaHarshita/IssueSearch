@@ -1,0 +1,1 @@
+ URL : "https://github.com/bobbo/spotify-connect-scrobbler/issues/6" TITLE : publishable to crates.io BODY : currently crate is not publishable to crates.io de to some unacceptable dependenices some git hashes, some private crates etc. . ideally we want to publish s-c-s to crates.io

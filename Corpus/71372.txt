@@ -1,0 +1,1 @@
+ URL : "https://github.com/elastic-rs/elastic/issues/175" TITLE : add elastic cloud sample BODY : add a sample that connects to an elastic cloud cluster with tls and user credentials. these can be passed to the sample as command line args so nothing needs to be persisted anywhere.

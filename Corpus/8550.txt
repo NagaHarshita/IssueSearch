@@ -1,0 +1,1 @@
+ URL : "https://github.com/Exeu/apai-io/issues/152" TITLE : php fatal error BODY : php fatal error: call to undefined function guzzlehttp\\handler\\curl_reset i have no idead what to do with this.

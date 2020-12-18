@@ -1,0 +1,1 @@
+ URL : "https://github.com/podlove/podlove-web-player/issues/401" TITLE : web player analytics BODY : - post endpoint to publisher tbd - transmit data: - quantile - stop/pause - timestamp - audiosettings - chapters jump - sharing

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Pes8/android-material-color-picker-dialog/issues/24" TITLE : support palette mode BODY : i suggest to add a feature to show a predefined list of colors, as in many cases the users do not need one very specific color, but selecting from some is often sufficient. only in some cases it may be needed to adjust the color exactly.

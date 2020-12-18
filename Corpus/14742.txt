@@ -1,0 +1,1 @@
+ URL : "https://github.com/geniusgithub/AndroidDialer/issues/5" TITLE : calling an intent BODY : how can i call an intent to the dialer from a different app and override the default sim selected and let it ask for user to choose sim card to call with.

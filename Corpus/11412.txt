@@ -1,0 +1,1 @@
+ URL : "https://github.com/kaymckelly/program-editor/issues/96" TITLE : handle url entry BODY : it should be possible to enter urls for the paper from springer and the talks from the general chair . ideally the springer data would be fetched by an api call, and the talks about be uploaded by the authors.

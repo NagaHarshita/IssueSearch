@@ -1,0 +1,1 @@
+ URL : "https://github.com/luruke/barba.js/issues/177" TITLE : barba.js with anime.js BODY : i'm having basic problems integrating barba with anime.js. does anyone have an online example of this integration working ? i can't figure it out how to integrate anime.js animation with promises in the barba transitions. help ? :

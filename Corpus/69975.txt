@@ -1,0 +1,1 @@
+ URL : "https://github.com/unhcr/dataviz-styleguide/issues/70" TITLE : update css in test page BODY : ! image https://user-images.githubusercontent.com/68416/30052617-ad273956-9243-11e7-9e5e-a37ff5aeeb3b.png i think something changed in terms of the classes used for the things at the top of the page. let's update it to match the main /index.html .

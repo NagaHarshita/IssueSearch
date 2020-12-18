@@ -1,0 +1,1 @@
+ URL : "https://github.com/nikola-lisac/priority-tasks-backend/issues/14" TITLE : get all tasks BODY : implement getting all tasks from the db. /tasks -> method get

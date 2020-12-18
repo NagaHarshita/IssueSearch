@@ -1,0 +1,1 @@
+ URL : "https://github.com/queenplay-associates/coquill/issues/17" TITLE : style the text editor BODY : - stylize each component per type - figure out why this error use of mutation events is deprecated. use mutationobserver instead.

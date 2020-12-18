@@ -1,0 +1,1 @@
+ URL : "https://github.com/jistol/tm-store/issues/6" TITLE : h2 batch 성능 검증 BODY : 가치산정 수행 api 실행 방법 결정을 위한 poc를 진행합니다. - 측정 항목 : 3000 row insert 성능 측정 - 측정 방법 : batch query를 실행하여 3000 row를 insert - 측정 기준 : 허용범위 10초이내 - 기준 초과시 : 해당 api는 별도 스케줄잡을 통해 일단위로 호출하도록 설계 - 기준 충족시 : 해당 api는 시스템 관리자에 의해 호출 되어 바로 실행하도록 설계

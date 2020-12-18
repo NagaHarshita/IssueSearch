@@ -1,0 +1,6 @@
+ URL : "https://github.com/NSI-IT/CLG-DLHPORTL/issues/22" TITLE : form builder validations BODY : as an admin, i would like to add validations to various fields in the form builder acceptance criteria verify that admin will select whether each field is mandatory or not verify that admin will enter default values for the field if any verify that admin will admin will select validations for the text fields from the following:
+> phone
+> email
+> website
+> number
+> text

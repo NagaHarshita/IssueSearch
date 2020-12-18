@@ -1,0 +1,9 @@
+ URL : "https://github.com/Zimmi48/bugzilla-test/issues/1785" TITLE : type in rtauto error BODY : note: the issue was created automatically with bugzilla2github tool bugzilla bug id: 1785
+date: 2008-01-28 17:41:41 +0100
+from: andrew mccreight &lt;<mccreigh@pdx.edu>&gt;
+to: last updated: 2012-09-10 12:04:13 +0200 bugzilla comment id: 2020
+date: 2008-01-28 17:41:41 +0100
+from: andrew mccreight &lt;<mccreigh@pdx.edu>&gt; in 8.1pl3, when rtauto fails it produces the error message user error: rtauto could'nt find any proof
+which should be user error: rtauto couldn't find any proof bugzilla comment id: 2021
+date: 2008-01-29 11:32:45 +0100
+from: jean-marc notin &lt;<notin@lix.polytechnique.fr>&gt; the bug is now fixed both in v8.1 and trunk branches r10478 . thank you for reporting this bug.

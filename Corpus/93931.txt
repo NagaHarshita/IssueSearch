@@ -1,0 +1,1 @@
+ URL : "https://github.com/ethcore/parity/issues/4194" TITLE : automatic dapps refreshing BODY : currently you have to restart parity to get any new local dapps listed or the details of existing ones updated . would be nice if this were automated - ideally just by watching the dapps path.

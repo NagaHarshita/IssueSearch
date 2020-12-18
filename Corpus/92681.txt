@@ -1,0 +1,1 @@
+ URL : "https://github.com/Develop-Team/DevelopFreedomMod/issues/24" TITLE : /toggle crashes the server BODY : so, i haven't been able to reproduce this glitch. there's some way to crash a server using /toggle. i'm requesting a bounty. any user can do it that aren't effected by a command block.

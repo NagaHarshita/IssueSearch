@@ -1,0 +1,4 @@
+ URL : "https://github.com/tryashtar/minecraft-bugs/issues/35" TITLE : cant kill slimecubes BODY : original ticket: mc-47 https://bugs.mojang.com/browse/mc-47 by phantomvision https://bugs.mojang.com/secure/viewprofile.jspa?name=phantomvision you can not kill slimecubes in swamps what i expected to happen was...:
+killing the cubes to gain experience what actually happened was...: i got killed steps to reproduce: 1.going to swamps to kill cube
+2. take a swipe with the iron sword
+3. ...

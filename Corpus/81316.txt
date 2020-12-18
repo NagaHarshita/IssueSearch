@@ -1,0 +1,1 @@
+ URL : "https://github.com/ajenti/ajenti/issues/1095" TITLE : widget power state blank BODY : hello guys. i don't know if it's just me, but my power state widget is blank/empty. i have the power plugins installed and it's working, but i can't do anything power related from the dashboard. i'm running debian 9 stretch. ajenti core 2.1.24 power management 0.19

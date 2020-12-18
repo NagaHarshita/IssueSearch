@@ -1,0 +1,1 @@
+ URL : "https://github.com/plexinc-plugins/FOX.bundle/issues/5" TITLE : skip locked videos BODY : the fox channel lists all the videos for each show in the all shows section. since locked videos will not play, we need to add code to skip these locked videos so they will not show up in the listings for each show and only unlocked free videos will be listed.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/georgf/probe-scraper/issues/9" TITLE : validate probe data BODY : we need to validate the probe data for correctness, e.g. by manually cross-checking the history of a few probes of each type.

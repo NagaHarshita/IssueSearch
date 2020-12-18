@@ -1,0 +1,1 @@
+ URL : "https://github.com/pluginsGLPI/formcreator/issues/600" TITLE : impossible to upgrade BODY : glpi9.1.2 formcreator 2.4.0 php warning: fopen c:\inetpub\wwwroot\glpi\plugins\formcreator\install/mysql/plugin_formcreator_empty.sql : failed to open stream: no such file or directory in c:\inetpub\wwwroot\glpi\inc\dbmysql.class.php at line 477

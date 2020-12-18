@@ -1,0 +1,1 @@
+ URL : "https://github.com/cdriehuys/ansible-role-security/issues/3" TITLE : perform safe upgrades BODY : the first step of securing the server should be performing all safe upgrades.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/IntellexApps/blcheck/issues/10" TITLE : problem with shebang BODY : some syntax in the script is incompatible with /bin/sh, e.g. ${} or $ shebang has to be something like /bin/bash --- a/blcheck +++ b/blcheck @@ -1,4 +1,4 @@ - !/bin/sh + !/bin/bash

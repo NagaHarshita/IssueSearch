@@ -1,0 +1,1 @@
+ URL : "https://github.com/Kode/Kha/issues/492" TITLE : d3d11 blank window BODY : hey ; here is i have a small example. it's working fine on gl and d3d9 targets, but not working on d3d11 target. i got just a blank screen. windows 10 / gtx970 https://www.dropbox.com/s/jvatgck7eid2wme/d3d11_issue.zip?dl=0

@@ -1,0 +1,1 @@
+ URL : "https://github.com/FallingSnow/lightdm-webkit2-material2/issues/10" TITLE : changing user icon BODY : i've placed my png in /var/lib/accountsservice/users/mike/ and set permissions to 755 for both the png and dir, but i'm still getting the default user icon on the login screen. any tips for troubleshooting this?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/roggmatsz/Jefe/issues/5" TITLE : use case: add a new bill BODY : 1. get bill information value, barcode, slot number from the client application. package into json object. 2. post: domain/bills/new?slot= id + body: json object. 3. returns 201 created + json data received.

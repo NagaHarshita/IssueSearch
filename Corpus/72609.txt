@@ -1,0 +1,1 @@
+ URL : "https://github.com/ParsePlatform/Parse-SDK-iOS-OSX/issues/1113" TITLE : can't install the 1.14.3 BODY : hi there, i wonder why i can't install the last version through cocoapods the version on cocoapods is still on 1.14.2 https://cocoapods.org/pods/parse and can't install this version https://github.com/parseplatform/parse-sdk-ios-osx/releases/tag/1.14.3 thanks.

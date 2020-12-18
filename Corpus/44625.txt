@@ -1,0 +1,1 @@
+ URL : "https://github.com/dadi/docs/issues/63" TITLE : filter event callback BODY : the filter events documentation shows the callback as just taking the filterobject e.g. callback filterobj and not taking an error as first param callback null, filterobj . is this incorrect or has this changed with a more recent version of web? @jimlambie?

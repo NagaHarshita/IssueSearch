@@ -1,0 +1,1 @@
+ URL : "https://github.com/tidwall/redcon/issues/9" TITLE : question: tls support BODY : @tidwall , i have added tls support on a fork because i needed it for a project i'm working on, is there any interest for that feature to be merged into this repo?

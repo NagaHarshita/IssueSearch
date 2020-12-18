@@ -1,0 +1,1 @@
+ URL : "https://github.com/spring-guides/gs-validating-form-input/issues/19" TITLE : missing xml namespace? BODY : shouldn't templates/form.html have the xml namespace defined to properly use th ? <html xmlns:th= http://www.thymeleaf.org >

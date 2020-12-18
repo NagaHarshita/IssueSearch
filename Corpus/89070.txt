@@ -1,0 +1,1 @@
+ URL : "https://github.com/bleehu/CXDocs/issues/64" TITLE : player armor system borks BODY : both player armor and player armor smithy return 500s if an armor is submitted that hasn't been validated. so we should add some validation for armor input. turtle, if you're up for a challenge, want to tackle this tonight?

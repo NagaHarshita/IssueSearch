@@ -1,0 +1,1 @@
+ URL : "https://github.com/sole27/TopMusic/issues/6" TITLE : sacar y null BODY : https://github.com/sole27/topmusic/blob/master/topmusic/topmusic.java l60 fallaría si el arraylist es null, verdad??

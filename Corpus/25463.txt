@@ -1,0 +1,1 @@
+ URL : "https://github.com/postalservice14/vuejs-plugin/issues/11" TITLE : .vue eslint support BODY : hi, it's possible to add the eslint support into webstorm to the vue files ? in the js file, eslint works fine but it does not work actually in the js part of the vue files. thanks a lot

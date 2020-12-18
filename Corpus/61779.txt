@@ -1,0 +1,1 @@
+ URL : "https://github.com/fahrenheit-marketing/jquery-canvas-area-draw/issues/24" TITLE : breaks on latest jquery BODY : jquery.fn.load is deprecated. can be fixed by changing $ ... .load func to $ ... .on load , func ;

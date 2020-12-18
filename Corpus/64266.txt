@@ -1,0 +1,1 @@
+ URL : "https://github.com/Adobe-Consulting-Services/aem-epic-tool/issues/9" TITLE : format exported reports BODY : it would be more user-friendly if reports were pre-formatted as follows: 1 freeze header row and also leftmost column for some reports 2 alternate colors every other column 3 enable gridlines by default 4 adjust column width to reasonable defaults where possible

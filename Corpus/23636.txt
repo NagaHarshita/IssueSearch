@@ -1,0 +1,1 @@
+ URL : "https://github.com/macromancer/chatcheck/issues/2" TITLE : python3 로 변경 BODY : hangul-utils 가 python2 에서는 지원을 안한다. 이 기회에 python3 에서 돌아가도록 환경 구성해보자. - python3 환경 구성 for crawling & preprocessing - python3 환경 구성 for tensorflow & keras - comment_crawler.py 수정

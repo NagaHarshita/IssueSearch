@@ -1,0 +1,1 @@
+ URL : "https://github.com/thecoder75/liveme-tools/issues/25" TITLE : chat time funky BODY : chat time is actual seconds into the broadcast, not utc time. need to come up with a practical way of showing/referencing it.

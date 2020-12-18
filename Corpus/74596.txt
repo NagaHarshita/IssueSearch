@@ -1,0 +1,1 @@
+ URL : "https://github.com/andrekirst/ValidationFramework/issues/10" TITLE : extension for isallvalid BODY : extension for isallvalid description create extension for ienumerable<validationresponse> named isallvalid to check, that no error occured. tests test with two errors. expect: false test with zero errors. expect: true

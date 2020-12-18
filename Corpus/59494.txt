@@ -1,0 +1,1 @@
+ URL : "https://github.com/hsyyid/Polis/issues/45" TITLE : unclaiming not working BODY : i have an issue when doing /polis unclaim unclaims the chunk but then doing /polis info town the claim amount has not went down and does not allow me to claim anymore if it was max before unclaiming this was when using /polis adminunclaim but both have the issue if that made sense

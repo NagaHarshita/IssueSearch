@@ -1,0 +1,1 @@
+ URL : "https://github.com/outcobra/outstanding-cobra/issues/256" TITLE : discuss exam-task usage BODY : to implement the exam feature i need to know how we are going to use the exam-task entity. in my opinion there are two possible ways. 1. learning goals, the content of the exam. 2. a task to learn for the test. i prefer the first option. what do you think @outcobra/developers?

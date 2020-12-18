@@ -1,0 +1,1 @@
+ URL : "https://github.com/AtlasOfLivingAustralia/doi-service/issues/22" TITLE : add list api endpoint BODY : add an api endpoint to list all dois. this endpoint should also provide the ability to: sort results page results filters results filtering should allow: title text search minted date range search other? endpoint address: get /api/doi

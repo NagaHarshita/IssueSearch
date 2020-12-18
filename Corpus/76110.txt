@@ -1,0 +1,1 @@
+ URL : "https://github.com/kjellmorten/integreat/issues/13" TITLE : indicate arrays in paths BODY : this is especially useful when mapping back to a source, otherwise there would not be a way to tell if source is expecting an array when the data has only one item. suggestion: path: 'data.items '

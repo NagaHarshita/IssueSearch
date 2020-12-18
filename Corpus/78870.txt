@@ -1,0 +1,4 @@
+ URL : "https://github.com/FreeUKGen/MyopicVicar/issues/1113" TITLE : remove stats from footer BODY : currently we display the stats for yesterday in the footer. this requires a lookup of the information every time a page is displayed.
+we have tried loading the information into the session cookie but that has to be checked and reloaded if absent.
+the statistics for yesterday are already displayed in the transcriptions page.
+it is proposed that we eliminate the stats in the footer. we could add a statement that the stats are available in the transcriptions page

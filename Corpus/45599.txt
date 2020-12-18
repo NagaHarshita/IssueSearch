@@ -1,0 +1,1 @@
+ URL : "https://github.com/Screenly/wizard.screenly.io/issues/2" TITLE : improve build process BODY : the tool is currently just a big html page. needless to say, that's not ideal. given that we host this on github pages, it makes sense to move to jekyll instead for building the actual web page.

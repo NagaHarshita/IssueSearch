@@ -1,0 +1,1 @@
+ URL : "https://github.com/pixelspark/catena/issues/91" TITLE : add 'alter table' support BODY : not really supported by sqlite in the sense that we need to do a backup, then drop+create, the restore of the data .

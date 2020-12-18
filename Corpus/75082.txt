@@ -1,0 +1,1 @@
+ URL : "https://github.com/brettbode/GamessQ/issues/12" TITLE : gamess path always empty BODY : every time i launch gamessq, i need to re-enter the gamess path. no matter how many times i fill it, next relaunch, it's empty again. i have already tried reinstalling gamessq, but the bug is still on. gamessq 1.2.1, running on macos sierra 10.12.3 .

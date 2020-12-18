@@ -1,0 +1,1 @@
+ URL : "https://github.com/ethanli83/LinqRunner/issues/2" TITLE : issue with intellisense BODY : intellisense is trying to suggest the plural employees instead of employee query: db.orders .where o => o.orderid > 10200 .include o => o.customer .include o => o.<ctrl+space>

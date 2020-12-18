@@ -1,0 +1,1 @@
+ URL : "https://github.com/tkf/emacs-jedi/issues/285" TITLE : jedi consumes all ram BODY : sometimes jedi start using all ram, i cannot replicate the bug, it just happens when i have emacs open for a while for example while i'm doing other stuff . any clues?

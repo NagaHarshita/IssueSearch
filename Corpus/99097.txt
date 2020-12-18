@@ -1,0 +1,1 @@
+ URL : "https://github.com/LukasKalbertodt/mauzi/issues/4" TITLE : make matcher more powerful BODY : we might want to increase the expressiveness of the language/region matcher. the most interesting syntax is probably: rust de | en gb => ..., to enter this body if either of those two matches.

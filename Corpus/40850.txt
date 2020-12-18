@@ -1,0 +1,1 @@
+ URL : "https://github.com/LiamBindle/vesc/issues/2" TITLE : vesc uses big endian BODY : this should be a fairly easy fix however test.py will need to be updates specifically in the corruption testing to account for the endian switch.

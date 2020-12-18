@@ -1,0 +1,1 @@
+ URL : "https://github.com/magneticstain/Inquisition/issues/9" TITLE : add parser stats BODY : parsers should log their stats, such as logs read per sec, etc, on a regular basis. that 'regular basis' should be settable via cfg file.

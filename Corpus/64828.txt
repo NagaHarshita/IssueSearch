@@ -1,0 +1,1 @@
+ URL : "https://github.com/sjlevine/atom-slime/issues/62" TITLE : how to eval expression? BODY : how do you send an expression in an editor tab to the repl for evaluation? does atom-slime have an equivalent for any of these slime commands? https://common-lisp.net/project/slime/doc/html/evaluation.html many thanks.

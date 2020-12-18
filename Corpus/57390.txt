@@ -1,0 +1,1 @@
+ URL : "https://github.com/aleksandr-m/gitflow-maven-plugin/issues/42" TITLE : prompt for new version BODY : in interactive mode, by default, mvn gitflow:release asks/prompts for the released version, but not for the new development version. is it possible to also ask the user to enter the version number for the next development version?

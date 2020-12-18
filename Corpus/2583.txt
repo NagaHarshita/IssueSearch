@@ -1,0 +1,9 @@
+ URL : "https://github.com/Zimmi48/bugzilla-test-2/issues/1105" TITLE : bug avec info BODY : note: the issue was created automatically with bugzilla2github tool original bug id: bz 136
+date: 2002-02-08 16:10:17 +0100
+from: @ barras
+reported version: 8.1 last updated: 2002-02-08 16:10:17 +0100 @ barras on 2002-02-08 16:10:17 +0100 full_name: bruno barras
+version: cvs 8 fev 2002
+os: submission from: mailhost.trusted-logic.fr 194.250.150.5 submitted by: barras inductive n: nat -> prop := c: let x = o in n x . lemma inv1: i:nat n i ->i=o.
+intros.
+info inversion h. anomaly: search error. please report. @ barras on 2007-07-04 17:03:07 +0200 probleme du changement de semantique de prterm
+repare par jcf

@@ -1,0 +1,1 @@
+ URL : "https://github.com/tiagoheliob/vehicle-sales/issues/7" TITLE : autenticação do usuário BODY : integrar o usuario usando jwt e mongo, como já vem definido no boilerplate, conforme definido no escopo anterior.

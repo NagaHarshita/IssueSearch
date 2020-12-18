@@ -1,0 +1,1 @@
+ URL : "https://github.com/fossasia/susi_iOS/issues/98" TITLE : crash on login BODY : actual behaviour app crashes on login. expected behaviour user should be able to login to start chatting. steps to reproduce it run the app and try logging in. would you like to work on the issue? yes.

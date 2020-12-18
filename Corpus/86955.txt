@@ -1,0 +1,1 @@
+ URL : "https://github.com/ember-engines/babel-plugin-compact-reexports/issues/2" TITLE : initial release checklist BODY : - add tests for module options loose, strict, nointerop - confirm ember-cli default re-exports work as expected - add end-to-end smoke test

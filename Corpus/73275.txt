@@ -1,0 +1,1 @@
+ URL : "https://github.com/idahobean/npm-resource/issues/1" TITLE : correspond to stdout/err BODY : currently, cmd.stdout/err is throwing away. in this case, it's difficult to examine because the state of cmd is unknown. so, should modify to output cmd.stdout/err into console os.stdout/err

@@ -1,0 +1,1 @@
+ URL : "https://github.com/PittayutSothanakul/GuessingGame/issues/4" TITLE : refactor the code BODY : should not use while true . could you refactor it out ? https://github.com/pittayutsothanakul/guessinggame/blob/master/src/guessinggame/gameconsole.java l24-l33

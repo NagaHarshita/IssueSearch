@@ -1,0 +1,1 @@
+ URL : "https://github.com/akka/akka/issues/22792" TITLE : deferred is too lazy BODY : deferred is creating the underlying behavior on first message, which is probably an accidental change when prestart was removed.

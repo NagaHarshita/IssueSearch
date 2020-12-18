@@ -1,0 +1,1 @@
+ URL : "https://github.com/mehmetkose/react-websocket/issues/28" TITLE : index.jsx missing code BODY : sendmessage message { let websocket = this.state.ws; websocket.send message ; }

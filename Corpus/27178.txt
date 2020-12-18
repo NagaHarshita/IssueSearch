@@ -1,0 +1,1 @@
+ URL : "https://github.com/weaveworks/scope/issues/2727" TITLE : cpu sudden increase BODY : platform: openshift we also installed sch_netem kernel module for additional latency monitoring. we are experiencing sudden cpu increase when we install and cpu went down after we uninstalled. may it be possible to decrease the frequency?

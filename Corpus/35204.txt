@@ -1,0 +1,1 @@
+ URL : "https://github.com/poma/hotsapi/issues/9" TITLE : detect upload method BODY : save which channel was used to upload a replay app/web uploader/other for stats. can be extracted from referer and user-agent headers. this is a low priority task.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/tdgunes/ExampleAgent/issues/29" TITLE : competition folder address BODY : i want to create folder with class , that will be used by agent. how should i address it? for example, i have folder bin and the class calcbid.class in it. how should i access it?

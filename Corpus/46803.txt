@@ -1,0 +1,1 @@
+ URL : "https://github.com/acpaquette/Project_Ransom/issues/5" TITLE : multi direction shots BODY : modify player control script to shoot objects in multiple directions. look at hammerwatch for a hold direction example and old loz games for movement based aiming. - works with all fireable objects - feels good

@@ -1,0 +1,1 @@
+ URL : "https://github.com/cjmling/findings/issues/1" TITLE : image vs container BODY : image is like class with some settings. container is like instance of that image. so to create container you need image.

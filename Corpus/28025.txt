@@ -1,0 +1,1 @@
+ URL : "https://github.com/jfurrow/flood/issues/555" TITLE : expand eslint rules BODY : let's have better eslint rules. i think i'd like to use eslint-config-airbnb https://www.npmjs.com/package/eslint-config-airbnb for the client-side js and eslint-config-airbnb-base https://www.npmjs.com/package/eslint-config-airbnb-base for server-side. any thoughts?

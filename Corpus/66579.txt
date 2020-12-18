@@ -1,0 +1,1 @@
+ URL : "https://github.com/yaml/yaml-test-suite/issues/10" TITLE : n782 should be an error BODY : this test https://github.com/yaml/yaml-test-suite/tree/master/test/n782.tml should result in an error, since c-forbidden http://www.yaml.org/spec/1.2/spec.html c-forbidden in the spec forbids these markers everywhere in the document, including in flow mode. opinions?

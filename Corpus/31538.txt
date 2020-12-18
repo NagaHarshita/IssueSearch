@@ -1,0 +1,1 @@
+ URL : "https://github.com/tgstation/tgstation/issues/27525" TITLE : sortmerge is broken BODY : 889fca61cae919f315f011f4169361a3be55811f there is a bug which occurs during sortmerge within mergeat2 i in code\__helpers\sorts\__main.dm sortmerge skips elements on the rhs run sortmerge sorts are not stable

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mmp/pbrt-v3/issues/106" TITLE : i'm confused at some codes BODY : is bsdf::sample_f ... { ... bool reflect = dot wiworld, ng dot woworld, ng > 0; ... } can instead by bsdf::sample_f ... { ... bool reflect =wo.z wi.z> 0; ... }

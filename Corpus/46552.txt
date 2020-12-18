@@ -1,0 +1,1 @@
+ URL : "https://github.com/angel-dart/barback/issues/1" TITLE : might push this back. BODY : turns out that the barbackserver capability is within pub , so i'd wind up copy-pasting a lot of code. might have to stick with angel_proxy . not a bad alternative, though.

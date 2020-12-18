@@ -1,0 +1,1 @@
+ URL : "https://github.com/FortAwesome/Font-Awesome/issues/10470" TITLE : remove old font formats BODY : in favor of woff and woff 2 it makes sense to deprecate and remove the old font formats in the near future to improve loading times. http://caniuse.com/ feat=woff http://caniuse.com/ feat=woff2

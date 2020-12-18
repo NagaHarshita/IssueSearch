@@ -1,0 +1,1 @@
+ URL : "https://github.com/dirkschumacher/ompr/issues/137" TITLE : check with dplyr 0.6.0 BODY : see if the most recent development version of dplyr causes any problems. think about dropping dplyr in a future release.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/earowang/hts/issues/27" TITLE : add prediction intervals BODY : the equations are given in the csda 2011 paper. can we add prediction intervals as an optional output to forecast.gts?

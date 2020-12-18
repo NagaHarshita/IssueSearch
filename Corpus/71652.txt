@@ -1,0 +1,1 @@
+ URL : "https://github.com/zendtech/IbmiToolkit/issues/99" TITLE : add support for pdo_odbc BODY : what the name says, it shouldn't be too hard. i've created a wrapper around the class currently to deal with this problem, but it'd be nice if it was supported natively.

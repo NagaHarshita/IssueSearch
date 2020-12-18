@@ -1,0 +1,1 @@
+ URL : "https://github.com/american-art/cbm/issues/69" TITLE : cbm constituent id BODY : cbm constituent id is not mapped. eg http://data.americanartcollaborative.org/page/cbm/constituent/1067 should have p1 with value 1067 . @workergnome needs it for the app

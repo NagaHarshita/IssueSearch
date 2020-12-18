@@ -1,0 +1,1 @@
+ URL : "https://github.com/mosheG770/GithubZoomableReference/issues/13" TITLE : remove 'size canvas' BODY : remove the size canvas and the csv and all that, everyone should use the manager window instead. this make it very hard for backward compatibility. because it's csv file.

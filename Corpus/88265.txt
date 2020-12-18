@@ -1,0 +1,1 @@
+ URL : "https://github.com/codenvy/codenvy/issues/1475" TITLE : mysql dockerfile location BODY : in the java-mysql stack, i noticed you use a tailored mysql docker image for which i am unable to locate the dockerfile in https://github.com/codenvy/dockerfiles; where can i find it? the goal being to do something similar for postgres .

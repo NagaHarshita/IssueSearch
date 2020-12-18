@@ -1,0 +1,1 @@
+ URL : "https://github.com/status-im/status-nodejs/issues/5" TITLE : setup travis to run tests BODY : travis needs to do the following steps: 1. install go, 2. checkout status-go and run make statusgo-library , 3. copie files from status-go in here to bin/ , 4. run npm run build , 5. run tests with npm test .

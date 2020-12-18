@@ -1,0 +1,1 @@
+ URL : "https://github.com/fantix/gino/issues/84" TITLE : why inherit task locals? BODY : hello! is there a reason to do task.task_local = get_local or {} instead of just task.task_local = {} ? because now if you spawn a task inside of another task, you get the same local context for both tasks ant this may cause very strange errors.

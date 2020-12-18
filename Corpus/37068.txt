@@ -1,0 +1,1 @@
+ URL : "https://github.com/freedomotic/freedomotic/issues/259" TITLE : jfrontend freeze bug BODY : when freedomotic runs as an icon in os traybar, freedomotic's gui, the jfrontend doesn't update freedomotic objects status, so there is an out of synchro between objects status and their representation in the gui when the framework pops up from the traybar. we called this bug freeze

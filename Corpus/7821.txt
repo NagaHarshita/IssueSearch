@@ -1,0 +1,1 @@
+ URL : "https://github.com/imgix/levee/issues/36" TITLE : iterate on http BODY : goals: - have another take on the api. the current api is painful - decouple writing / reading requests and responses from each other - decouple writing / reading from an actual conn - make use of the case insensitive hash map for headers - remove usage off :send with it's buffered iovec writer

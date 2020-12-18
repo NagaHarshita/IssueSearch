@@ -1,0 +1,1 @@
+ URL : "https://github.com/invoiceninja/invoiceninja/issues/1344" TITLE : customer id in invoice id BODY : hello. i'd like to format my invoice id like this: {year} - {customer id} - {counter for this customer }. is that possible with invoice ninja?

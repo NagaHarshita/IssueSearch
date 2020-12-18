@@ -1,0 +1,1 @@
+ URL : "https://github.com/frc4911/ScoutingApp/issues/24" TITLE : get shot location working BODY : we need to be able to map a touched point on the map into a field point represented by a coordinate pair. the zero point is the boiler of the team the bot belongs to red boiler if scouting red, blue boiler if scouting blue , and the unit is feet.

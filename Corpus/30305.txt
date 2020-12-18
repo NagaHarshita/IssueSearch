@@ -1,0 +1,1 @@
+ URL : "https://github.com/nathanboktae/mocha-phantomjs/issues/252" TITLE : output file no data BODY : hi, i try outping the result into file with following command mocha-phantomjs -r spec -f output index.html the output file is created, but its empty and the output also appear in console.

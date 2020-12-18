@@ -1,0 +1,5 @@
+ URL : "https://github.com/snaiperskaya96/test-import-repo/issues/46" TITLE : data validator task BODY : https://trello.com/c/svu3ufu5/644-data-validator-task this task's responsibility is to validate the data that exists in the database. we can set a rule base for it to detect things which shouldn't happen under any circumstance. validations: - brightpearl product case pack size can not be 0
+- brightpearl product must have a supplier removes need for report in reorder level calculator - brightpearl product asins
+- brightpearl product barcode
+- asin matches between amazon and brightpearl
+- sku matched between amazon and brightpearl

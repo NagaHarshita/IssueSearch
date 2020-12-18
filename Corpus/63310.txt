@@ -1,0 +1,1 @@
+ URL : "https://github.com/levlaz/Pong/issues/6" TITLE : docker no longer builds BODY : when trying to use the deploy instructions, swiftenv is not able to find that old snapshot.

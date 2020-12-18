@@ -1,0 +1,1 @@
+ URL : "https://github.com/ForNeVeR/Vacuum/issues/24" TITLE : port to .net core BODY : it looks like a good idea to make the software available across different platforms. currently we're tied to windows, but i'd like to make it more easy to port.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/nathan-fiscaletti/synful/issues/55" TITLE : add api key update command BODY : add a command that will allow you to generate a new key for an api key listing.

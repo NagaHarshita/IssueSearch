@@ -1,0 +1,1 @@
+ URL : "https://github.com/facn2/week1-tubby-rangers/issues/20" TITLE : branches naming and use BODY : when creating a branch name it according to its purpose, for example, if you want to style things call it style-page. once a branch is merged, the person who merged it should also delete it, once you're done working the only open branch should be master.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/WLACore/BugTracker/issues/179" TITLE : misión: viejos enemigos BODY : /script default_chat_frame:addmessage \124cffffff00\124hquest:24814:5\124h viejos enemigos \124h\124r ; vol´jin npc=38225 interactua pero no te permite iniciar la conversación y terminar la misión para matar al objetivo

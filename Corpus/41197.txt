@@ -1,0 +1,1 @@
+ URL : "https://github.com/ofeneo/ofeneo/issues/5" TITLE : zmiana adresu e-mail BODY : moduł do obsługi edycji adresu e-mail wejście - adres e-mail. - token. wyjście - zapisanie nowego adresu e-mail. błędy kod: 400 > nieprawidłowy adres e-mail. błędy kod: 401 > brak dostępu.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/utPLSQL/utPLSQL-cli/issues/21" TITLE : prepare release process BODY : the release process should upload the binaries to github release. you may see how we upload on release of utplsql project.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/merantix/picasso/issues/23" TITLE : refactor web app BODY : following the merge of 18, we need to split up the cumbersome picasso.py into views.py and api.py , representing the current webapp and the new api

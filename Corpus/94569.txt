@@ -1,0 +1,1 @@
+ URL : "https://github.com/mapd/mapd-crossfilter/issues/31" TITLE : centralize all sql writing BODY : all sql writing logic should be in one file. a start has been made by extracting all the dimension sql writing logic into dimensionsqlwriter.

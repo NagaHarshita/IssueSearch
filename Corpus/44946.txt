@@ -1,0 +1,1 @@
+ URL : "https://github.com/NullDesk/NullMailer/issues/81" TITLE : get exception on send BODY : is there any way to get the exception or allow it to bubble up when doing a sendallasync? i see how to check issuccess and to see the exceptionmessage in the deliveryitem, but i'm not sure that's ideal.

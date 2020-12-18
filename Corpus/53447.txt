@@ -1,0 +1,1 @@
+ URL : "https://github.com/BucklerBot/buckler/issues/6" TITLE : doubling bot responses BODY : it seems to be 2 bot instances after deploy. these bots overkill each other, and businesslogic fails

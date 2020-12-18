@@ -1,0 +1,1 @@
+ URL : "https://github.com/Azure/azure-quickstart-templates/issues/3761" TITLE : typehandlerversion : 1.5 BODY : you should consider changing this property as follows: <b> typehandlerversion : 1.5 </b> version 1.4 is no longer compatible with the arm portal.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mmottl/lacaml/issues/30" TITLE : get rid of num_type? BODY : when using merlin, types such as lacaml_float64.num_type pop up instead of float which make signatures harder to read. since we already perform substitutions, how about to remove it the type num_type would remain ? this would be done in the public .mli files only.

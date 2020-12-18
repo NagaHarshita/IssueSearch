@@ -1,0 +1,1 @@
+ URL : "https://github.com/dotnsf/node-red-contrib-dotnsf-mynode/issues/1" TITLE : why not enhance the msg ? BODY : rather than replace msg.payload would it not be more useful to add msg.hash and return both the hash and the original payload ? as more often you would want both in the next stage of processing.

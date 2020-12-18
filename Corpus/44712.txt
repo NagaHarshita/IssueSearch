@@ -1,0 +1,1 @@
+ URL : "https://github.com/enketo/timepicker-basic/issues/3" TITLE : fix default value bug BODY : empty value shows up as 0:00 the second time you click the input field

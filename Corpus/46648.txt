@@ -1,0 +1,1 @@
+ URL : "https://github.com/watterott/ATmega328PB-Testing/issues/15" TITLE : missing pins on 328pb BODY : the pins_arduino.h file does not appear to define pb6, pb7, and pc6. these pins didn't exist on the 328p.

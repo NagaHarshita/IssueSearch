@@ -1,0 +1,1 @@
+ URL : "https://github.com/magma-labs/magmonitor/issues/14" TITLE : create alerting system BODY : integrate different channels of sending alerts - email - sms messages - slack notifications - potential other messaging systems like telegram

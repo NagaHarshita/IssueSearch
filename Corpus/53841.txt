@@ -1,0 +1,1 @@
+ URL : "https://github.com/saltstack-formulas/salt-formula/issues/309" TITLE : example of ext_pillar? BODY : hello, i'd like to set up my master to pull from external pillars but i don't know how to write that up in the pillar file. could you please provide an example? thanks!

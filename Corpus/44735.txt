@@ -1,0 +1,1 @@
+ URL : "https://github.com/clowdfish/ttg-outlook/issues/8" TITLE : fix issue with router BODY : the router doesn't work when we embed our addin in iframe. we need to replace it by tradition way no router, just show up the component when user clicks on the header

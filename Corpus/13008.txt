@@ -1,0 +1,1 @@
+ URL : "https://github.com/spring-cloud/spring-cloud-contract/issues/422" TITLE : spring 5 support BODY : hi, spring 5 uses webclient instead of resttemplate for async web request, which mockmvc does not support. it will be great if we can add support for webtestclient in the generated tests in place of mockmvc for spring 5. thanks, peter

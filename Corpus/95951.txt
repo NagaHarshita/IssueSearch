@@ -1,0 +1,1 @@
+ URL : "https://github.com/rderoldan1/md_simple_editor/issues/4" TITLE : dom ready events clobbered BODY : the coffeescript $ document .on 'turbolinks:load page:load ready', -> line clobbers existing dom ready events assigned in feature coffeescript files, ie. app/assets/javascripts

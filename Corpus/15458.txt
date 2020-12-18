@@ -1,0 +1,1 @@
+ URL : "https://github.com/nanopool/Claymore-Dual-Miner/issues/175" TITLE : dual mine eth+xvg BODY : hello, i'm interested in dual mining eth + xvg… i suppose it should be possible, since you can mine xvg using the blake2s algorithm same as siacoin . i have tried mining to an blake2s xvg pool with -dcoin sc but it rejected all my shares. any help would be greatly appreciated.

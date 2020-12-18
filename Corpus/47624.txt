@@ -1,0 +1,1 @@
+ URL : "https://github.com/lanl-ansi/PowerModels.jl/issues/182" TITLE : powermodel form names BODY : instead names like acppowermodel how about shorter names like acp while renaming models, probably the qc model name should be updated to reflect the w+l space.

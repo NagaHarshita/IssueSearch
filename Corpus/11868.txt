@@ -1,0 +1,1 @@
+ URL : "https://github.com/phempshall/http-headers/issues/6" TITLE : live headers tab BODY : utilize the fetchheaders.html header sniffing function for a live headers tab. - add link to app header: http headers ++ live headers - trigger liveheaders.html in new tab - pass fetchheaders if liveheaders === true

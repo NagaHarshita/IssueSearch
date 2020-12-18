@@ -1,0 +1,1 @@
+ URL : "https://github.com/alexgwolff/MQL/issues/4" TITLE : feature text.padstart BODY : text.padstart syntax <!---code sytax here--> javascript text.padstart sourcetext, length, optionalpad = '' ; example javascript text.padstart xyz , 5, a ; result javascript aaxyz as string

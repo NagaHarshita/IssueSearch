@@ -1,0 +1,1 @@
+ URL : "https://github.com/Udanite/FEND-Reviewer-Library-ZH_CN/issues/25" TITLE : p6 js elem BODY : 把 elem 的初始化放在 for 循环的外面，这样就不会在每次执行循环时都执行初始化。 javascript var elem; for var i = 0, i < 24; i++ { elem = document.createelement 'img' ; // 其他语句 }

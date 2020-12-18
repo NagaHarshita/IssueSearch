@@ -1,0 +1,1 @@
+ URL : "https://github.com/mkermani144/wanna/issues/190" TITLE : snackbar blocks fab BODY : as material design guidelines suggest, snack bars should not block fab. at this time, if snack bar is full width, it blocks fab.

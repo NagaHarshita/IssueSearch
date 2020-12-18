@@ -1,0 +1,1 @@
+ URL : "https://github.com/gramps-graphql/gramps-express/issues/34" TITLE : add tests for the cli BODY : the cli currently doesn't have any tests written. we'll probably need a light refactor to make it easier to test.

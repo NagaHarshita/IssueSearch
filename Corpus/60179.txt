@@ -1,0 +1,1 @@
+ URL : "https://github.com/Lewiscowles1986/WordPressSVGPlugin/issues/3" TITLE : wordpress 4.7.1 breaks BODY : well done wp core team... it's likely related to pdf works for media, need to dig in but uploads broken likely some new mechanism media ui broken likely template strings problem

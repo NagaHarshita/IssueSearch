@@ -1,0 +1,1 @@
+ URL : "https://github.com/theoutlander/testerbot/issues/54" TITLE : test: image optimization BODY : optimization: all images are optimized to be rendered in the browser. webp format could be used for critical pages like homepage imagesbest practices

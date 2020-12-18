@@ -1,0 +1,1 @@
+ URL : "https://github.com/apache/bookkeeper/issues/356" TITLE : release notes for 4.5.0 BODY : write a release notes for 4.5.0. do it manually this time because: - it is a release that accumulated big changes. - issue tracking is at the middle of moving from jira to github

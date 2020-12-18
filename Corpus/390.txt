@@ -1,0 +1,1 @@
+ URL : "https://github.com/FACG2/Blog/issues/2" TITLE : task 1 BODY : @samerelaila create folder structure like: database folder, for build database and connection public folder, for the client side src folder, for the server side and tests folder for test

@@ -1,0 +1,1 @@
+ URL : "https://github.com/argoproj/argo/issues/593" TITLE : support for emptydir BODY : argo v2 workflow templates do not support emptydir. there are several cases where using emptydir as some sort of scratch space is useful e.g. dind .

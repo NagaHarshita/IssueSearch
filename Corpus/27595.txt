@@ -1,0 +1,1 @@
+ URL : "https://github.com/slumpsand/linklist/issues/1" TITLE : do some refactoring BODY : delete the dockerfile - or use it? move that stuff from util.go into main.go refactor the content of main.go

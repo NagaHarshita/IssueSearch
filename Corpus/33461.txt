@@ -1,0 +1,1 @@
+ URL : "https://github.com/mssun/passforios/issues/108" TITLE : add protected fields BODY : in addition to having the passcode hidden, it would be cool to have additional fields hidden as well. i was thinking that if the key for an additional field had a in the beginning of it, then the value would be protected like a passcode visually.

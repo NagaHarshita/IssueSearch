@@ -1,0 +1,1 @@
+ URL : "https://github.com/ldlac/La_LifeRP/issues/176" TITLE : bug with death BODY : if you take the money and reconnect then everything will remain, but if you die before that, everything will be gone. all money and user coordinates not save

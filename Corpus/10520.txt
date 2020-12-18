@@ -1,0 +1,1 @@
+ URL : "https://github.com/mc1379/teacozy/issues/2" TITLE : closing div tags BODY : always put your closing div tags on their own line, makes your code much more readable and organized. you want to quickly be able to locate where sections of code end. </div> https://github.com/mc1379/teacozy/blob/master/index.html l20

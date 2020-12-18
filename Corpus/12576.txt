@@ -1,0 +1,1 @@
+ URL : "https://github.com/Silvenga/Cake.EntityFramework/issues/2" TITLE : publish to nuget BODY : i was looking for an exact project like this for cake and entity framework 6. i looked on nuget and could not find any packages that reference the project name. are you actively working on this project? if not, are you looking for a maintainer?

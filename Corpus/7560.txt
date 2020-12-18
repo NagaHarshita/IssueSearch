@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpenNos/OpenNos/issues/1906" TITLE : grid system bug BODY : i am getting an error on startup from map.cs > loadzone . i haven't done any changes to grid system. ! devenv_2017-07-01_13-48-18 https://user-images.githubusercontent.com/29287377/27761419-2fd435c0-5e64-11e7-8573-88b455c6bd4b.png

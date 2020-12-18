@@ -1,0 +1,1 @@
+ URL : "https://github.com/Shopify/slate/issues/123" TITLE : using sass underscore BODY : i cannot link my theme.scss to partials sass file like _mixings.scss i receive this terminal message cannot find file 'settings/deprecation-warnings' . there is a way to import file with sass underscore?

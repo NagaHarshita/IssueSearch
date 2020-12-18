@@ -1,0 +1,1 @@
+ URL : "https://github.com/NorthArrowResearch/champ-workbench/issues/1" TITLE : import custom queries BODY : updating the workbench database orphons custom user queries. it would be nice to import user queries from another workbench database. this way users can bring forwards any old custom queries they wrote for an earlier version.

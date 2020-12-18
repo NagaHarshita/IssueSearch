@@ -1,0 +1,1 @@
+ URL : "https://github.com/CMU-Perceptual-Computing-Lab/openpose/issues/112" TITLE : how to get time points BODY : issue summary i get json output files less than number of frames for a face video. how to get the information of timestamps when each json file is calculated? type of issue - question

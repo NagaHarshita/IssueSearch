@@ -1,0 +1,1 @@
+ URL : "https://github.com/kingjane/Blog/issues/7" TITLE : ssh keys authentication BODY : https://www.digitalocean.com/community/tutorials/how-to-use-ssh-keys-with-digitalocean-droplets 公钥是锁 私钥是钥匙 客户端目录~/.ssh/ id_rsa 私钥 id_rsa.pub 公钥 服务端目录~/.ssh/authorized_keys 公钥列表 服务端配置/etc/ssh/sshd_config

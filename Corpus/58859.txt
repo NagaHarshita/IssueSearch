@@ -1,0 +1,1 @@
+ URL : "https://github.com/angular-redux/router/issues/20" TITLE : support for angular 5+ BODY : this is a... x feature request bug report usage question additional notes: currently this project does not support angular 5.0. is there any pre-release that does? what do we need to change to implement the support?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/alexheyd/atom-jump-to-import/issues/17" TITLE : don't open folder/index.js BODY : it doesn't open a file if the file has name index.js and the import contains only the folder: import something from './something'; // doesn't work : import something from './something/index' // work!!!

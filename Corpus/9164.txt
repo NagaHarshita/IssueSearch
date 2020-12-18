@@ -1,0 +1,1 @@
+ URL : "https://github.com/spotbugs/spotbugs/issues/506" TITLE : too loud output BODY : whenever i run spotbugs, there's billions of lines like: scanning archives 58 / 218 ... pass 1: analyzing classes 22 / 201 - 10% complete pass 1: analyzing classes 23 / 201 - 11% complete ... is is possible to somehow suppress this output? this can be seen when using gradle --console=plain .

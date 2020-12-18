@@ -1,0 +1,1 @@
+ URL : "https://github.com/arumoy-shome/UWNerdist/issues/36" TITLE : create a subject model BODY : we want to save all the subjects offered in a given term. attributes code --> string description --> string relations subject --has_many--> courses api endpoint codes/subjects https://github.com/uwaterloo/api-documentation/blob/master/v2/codes/subjects.md

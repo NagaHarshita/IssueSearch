@@ -1,0 +1,1 @@
+ URL : "https://github.com/dracula/sublime/issues/9" TITLE : themed title bar BODY : as of build 3127 sublime supports theming for the title bar on osx 10.10+. any chance this could be added to the dracula theme for sublime? official documentation: http://www.sublimetext.com/docs/3/themes.html elements-windows

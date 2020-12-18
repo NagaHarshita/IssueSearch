@@ -1,0 +1,1 @@
+ URL : "https://github.com/xwb1989/sqlparser/issues/12" TITLE : not supported offset BODY : i got an error for a query which contain offset. it should be a valid query. syntax error at position 42 near offset for query - select from accesstoken limit 10 offset 13

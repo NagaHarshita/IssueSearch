@@ -1,0 +1,1 @@
+ URL : "https://github.com/ajaykumarsampath/DwnController/issues/16" TITLE : remove certain files BODY : the following files need to be removed: - unittestheader.cuh - unittest.cu - stupid.txt

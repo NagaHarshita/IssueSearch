@@ -1,0 +1,1 @@
+ URL : "https://github.com/dib-lab/khmer/issues/1762" TITLE : ship manylinux1 wheel BODY : having a wheel is becoming a requirement: example: pydoc.io is only building docs for projects in pypi with a wheel: http://blog.readthedocs.com/moss-final-report/

@@ -1,0 +1,1 @@
+ URL : "https://github.com/gov-ithub/infotranspub-backend/issues/55" TITLE : get all stops by agency BODY : for stations editing tabular we need a new rest api to get stops by agency.

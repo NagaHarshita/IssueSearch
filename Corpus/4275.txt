@@ -1,0 +1,1 @@
+ URL : "https://github.com/nss-evening-cohort-06/chatty-better-than-butter/issues/12" TITLE : bonus - emojis BODY : 1. can include emojis in the text of your message 1. user types in :smile: your code interprets that and puts in the appropriate unicode.

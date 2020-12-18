@@ -1,0 +1,1 @@
+ URL : "https://github.com/SolveSmartCities/SolveSmartCities.App/issues/109" TITLE : error on memberpersonal BODY : root cause is in the state object, refreshstate method. bad logic on generating cm entity. ! image_uploaded_from_ios_1024 https://user-images.githubusercontent.com/3121908/27095279-b23dc278-5032-11e7-9075-44207b448f88.jpg

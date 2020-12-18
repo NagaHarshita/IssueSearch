@@ -1,0 +1,1 @@
+ URL : "https://github.com/BrewinFreshCode/PagingMemory/issues/2" TITLE : job page tracking BODY : program lacks tracking of the individual pages belonging to each job. this renders the program unable to tell the user information of the form page 3 of job x is in chunk 7.

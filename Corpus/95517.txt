@@ -1,0 +1,1 @@
+ URL : "https://github.com/yoonkim/CNN_sentence/issues/29" TITLE : dealing with unknown words BODY : does anyone know how words present in dataset, but absent in pre-trained word2vec embedding were treated? in the paper is not clear.

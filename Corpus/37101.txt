@@ -1,0 +1,1 @@
+ URL : "https://github.com/waterslideLTS/waterslide/issues/19" TITLE : kafka_out is missing BODY : the kafka_in and kafka_multi_in kids are present, but the kafka_out and kafka_multi_out kids are missing.

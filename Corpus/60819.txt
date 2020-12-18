@@ -1,0 +1,1 @@
+ URL : "https://github.com/phetsims/ohms-law/issues/49" TITLE : add keyboard navigation BODY : we are going to start adding keyboard navigation to this sim. it is a relatively simple sim, but the first to use sun/hslider type. as we go through, we should see if the implementation for the sliders can be generalized somehow or possibly moved directly to hslider.

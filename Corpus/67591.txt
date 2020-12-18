@@ -1,0 +1,1 @@
+ URL : "https://github.com/sbt/sbt-assembly/issues/283" TITLE : problem with sbt 1.0.4? BODY : hi all i am using sbt 1.0.4 and want to create a fat jar from my project with sbt-assembly. i create the file project/assembly.sbt and sbt keep running in intellj. what am i doing wrong? thanks

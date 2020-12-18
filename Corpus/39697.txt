@@ -1,0 +1,1 @@
+ URL : "https://github.com/citrix/ShareFile-PowerShell/issues/32" TITLE : speed up sync-sfitem BODY : is there a way currently to download multiple files at a time with sync-sfitem? or any plans for the future?

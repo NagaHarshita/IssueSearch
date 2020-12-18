@@ -1,0 +1,1 @@
+ URL : "https://github.com/bogdan-hepting/menu_item_extras/issues/32" TITLE : body field in 8.x-2.x BODY : - replace rendering of body field by rendering an entity at all. - replace body field definition in the module. - add 1.x to 2.x upgrade path.

@@ -1,0 +1,8 @@
+ URL : "https://github.com/wiziwizi/MageDuel/issues/7" TITLE : gebruik een state BODY : je hebt feedback gekregen van silvandomino op: c
+startgame.press = => { gamescene.visible = true; mainmenu.visible = false; gameoverscreen.visible = false; tutscreen.visible = false;
+}
+explanation.press = => { tutscreen.visible = true; gameoverscreen.visible = false; mainmenu.visible = false; gamescene.visible = false;
+}
+backtomain.press = => { mainmenu.visible = true; gamescene.visible = false; gameoverscreen.visible = false; tutscreen.visible = false;
+} function gameover { gameoverscreen.visible = true; gamescene.visible = false; mainmenu.visible = false; tutscreen.visible = false;
+} url: https://github.com/wiziwizi/mageduel/blob/master/public/menu.js feedback: gebruik een state in plaats van al deze booleans. als er nog een scherm bijkomt bijvoorbeeld wil je dat snel kunnen aanpassen, je wilt niet nog 5 boolean statements schrijven. loop door een array met alle screen en zet ze allemaal op false. zet alleen de screen aan die overeenkomst met de huidige state. http://www.studiozoetekauw.nl/codereview-in-het-onderwijs/ ' cr:{ sha : 89211e8c274a98a0bcff1fe74a389de2e9641667 , path : public/menu.js , reviewer : silvandomino }'

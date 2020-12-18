@@ -1,0 +1,1 @@
+ URL : "https://github.com/baruchvlz/angular-font-awesome/issues/27" TITLE : console.log 'hi' ; BODY : please remove console.log from component file. ngoninit { console.log 'hi' ; if !this.name { throw new error 'missing name property for angular2 font awesome component' ; } thank you!

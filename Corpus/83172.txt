@@ -1,0 +1,1 @@
+ URL : "https://github.com/siddharthkp/cost-of-modules/issues/45" TITLE : build errors in travis ci BODY : reference: https://travis-ci.org/siddharthkp/cost-of-modules/jobs/265179931 sh > ava test/dist/ .js -s --no-cache module.js:491 throw err; ^ error: cannot find module '../../../lib/helpers'

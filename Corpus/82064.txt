@@ -1,0 +1,1 @@
+ URL : "https://github.com/williamdjones/protein_binding/issues/6" TITLE : add default functionality BODY : need to add safegaurds for the case when molecular descriptors are not specified, when summary features are not specified, etc;

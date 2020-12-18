@@ -1,0 +1,1 @@
+ URL : "https://github.com/benlowry/node-geoip-native/issues/9" TITLE : publish latest version BODY : hi and thank you for your great work! <3 here is the great news: geoip-native still runs on node v6.10.3 the current published version still makes use of the deprecated sys -- can you publish an updated version? thanks and all the best from germany!

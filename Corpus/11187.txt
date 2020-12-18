@@ -1,0 +1,1 @@
+ URL : "https://github.com/jrhackett/dnd-5e-spells/issues/6" TITLE : fix mobile views BODY : the mobile version of the site is not great. it'd be nice if things scaled properly. i'd suggest moving certain things to use flex boxes.

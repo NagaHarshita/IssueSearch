@@ -1,0 +1,1 @@
+ URL : "https://github.com/dxinteractive/react-google-auth/issues/1" TITLE : missing dependancy stampy BODY : hi, the lib looks great and i really want to use it. package.json is missing stampy and i would also recommand setting react as a peerdependancy since you use it internally. if you don't have the time to do so, i would be happy to submit a pr. thanks!

@@ -1,0 +1,1 @@
+ URL : "https://github.com/igrigorik/videospeed/issues/226" TITLE : invalid url on s key. BODY : sometimes pressing the s key to slow down the video will open a dialog saying invalid url . this problem will continue to occur until the page is reloaded.

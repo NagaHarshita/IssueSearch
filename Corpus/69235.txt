@@ -1,0 +1,1 @@
+ URL : "https://github.com/documentationjs/documentation/issues/662" TITLE : support enum of strings BODY : hey, would you consider supporting @param enum of strings like those in this proposal: https://github.com/jsdoc3/jsdoc/issues/629. thanks!

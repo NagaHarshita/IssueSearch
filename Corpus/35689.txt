@@ -1,0 +1,1 @@
+ URL : "https://github.com/SOSML/SOSML/issues/65" TITLE : exception ids in let BODY : the following code should not be able to catch the exception. exception e fun evil _ = let exception e in raise e end val y = let exception e of int in evil 2 handle e 0 => true end ; val z = let exception e of int in evil 2 handle e n => n end ;

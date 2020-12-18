@@ -1,0 +1,1 @@
+ URL : "https://github.com/cmsdaq/daqview-react/issues/19" TITLE : add daqdev setup BODY : hi, could you please add a setup for daqdev to the list of available snapshot services? the daqdev setup runs from cmsrc-daqdev, port 31000 and uses the same lases as the cdaq setup. thanks, remi

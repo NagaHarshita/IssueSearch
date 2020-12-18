@@ -1,0 +1,1 @@
+ URL : "https://github.com/python/bedevere/issues/15" TITLE : validate the bpo number BODY : the bpo number provided in https://github.com/python/cpython/pull/1798 is not valid 46895 https://bugs.python.org/issue46895 is a 404 maybe bedevere can also validate whether the issue number is correct :

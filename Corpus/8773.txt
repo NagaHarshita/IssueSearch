@@ -1,0 +1,1 @@
+ URL : "https://github.com/dlunion/mtcnn/issues/6" TITLE : roi loss 很高 BODY : ! image https://user-images.githubusercontent.com/30039455/28070828-d851b640-6680-11e7-8091-dfa6abcf81ff.png 谢谢您，提供的训练方法，但是我训练的roi loss一直很高，这是啥原因啊

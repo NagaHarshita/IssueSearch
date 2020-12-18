@@ -1,0 +1,1 @@
+ URL : "https://github.com/KeyKy/mobilenet-mxnet/issues/10" TITLE : about training speed BODY : i use mxnet-mobilenet for train, but for my gpu 1080ti, the input is 224 224,my training speed is about 50 sample/second,so is something wrong for my training, i can't find the reason, looking forward your reply

@@ -1,0 +1,1 @@
+ URL : "https://github.com/gem/oq-libs/issues/12" TITLE : upgrade rtree to 0.8.3 BODY : version 0.8.2 has some bugs in bulk loading

@@ -1,0 +1,1 @@
+ URL : "https://github.com/IORoot/WP-Dante-PKGen-Child-Theme/issues/1" TITLE : styles not uniform BODY : need to fix all of the primary styles so that they are uniform across the board. at the moment there are lots of overwrites and !important tags. need to sort this out.

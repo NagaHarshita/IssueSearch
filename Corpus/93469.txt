@@ -1,0 +1,1 @@
+ URL : "https://github.com/FightForSub/ffs-zera/issues/58" TITLE : add twitter authentication BODY : zerator needs to have easy access to twitter for every participants. so, add second authentication on twitter, cumulative with twitch also, check twitter api for better integration

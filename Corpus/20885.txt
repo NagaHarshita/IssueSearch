@@ -1,0 +1,1 @@
+ URL : "https://github.com/thomasf/vfs/issues/4" TITLE : define error types BODY : there should probably at least be a binderror type and/or something which can contain enough information to know in which vfs and/or mount point the error is coming from.

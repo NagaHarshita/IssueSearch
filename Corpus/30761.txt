@@ -1,0 +1,1 @@
+ URL : "https://github.com/Radiuscollege/knb/issues/81" TITLE : quiz c wrong answer BODY : 3. c fundamentals series: rekenen++ 1. fout int a, b; a = 1; b = a; a = b 6 + a + 3 - b ; console.writeline a ; // 9 2. goed 3. goed 4. fout int dispint = 0; console.writeline dispint + 3 ; console.writeline dispint-- ; // 3 en 0

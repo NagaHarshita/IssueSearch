@@ -1,0 +1,1 @@
+ URL : "https://github.com/CONTROLLINO-PLC/CONTROLLINO_Library/issues/6" TITLE : typo on readme.md BODY : > please note that rs485 interface is present ony in maxi and mega variants. should read > please note that rs485 interface is present only in maxi and mega variants.

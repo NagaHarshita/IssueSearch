@@ -1,0 +1,1 @@
+ URL : "https://github.com/agrc/forklift/issues/204" TITLE : parallelize git updates BODY : use lessons learned from 203 to parallelize the git update code.

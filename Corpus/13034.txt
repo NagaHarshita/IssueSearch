@@ -1,0 +1,1 @@
+ URL : "https://github.com/ivajloip/rust-lorawan/issues/1" TITLE : status of crate? BODY : hello, i was wondering if you'll continue with the development of this crate. i'll soon be working with some lora radios and i want to do it in rust. if you are not continuing this library, i might take over myself. can we discuss the direction of the crate somewhere? cheers.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/wxWidgets/wxPython/issues/17" TITLE : contexthelp fails on macos BODY : clicking the '?' in the contexthelp example leads to the spinning beach ball of death on macos. the app has to be force-quit.

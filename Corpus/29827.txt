@@ -1,0 +1,1 @@
+ URL : "https://github.com/NCAR/VAPOR/issues/245" TITLE : mpas data core dump BODY : attempting to load an mpas data set throws an exception. to reproduce: 1. import data/mpas//mpas_v4.0/x1.40962.output.2012-05-25_00.00.00.nc platforms tested: mac

@@ -1,0 +1,1 @@
+ URL : "https://github.com/sauhaardac/pytorch-neural-z2color/issues/6" TITLE : switch to epoch training BODY : train the network by epoch, and check the cross validation on 10% of the data after each epoch. make a decision on whether to continue training or stop.

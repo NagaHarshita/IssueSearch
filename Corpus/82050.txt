@@ -1,0 +1,1 @@
+ URL : "https://github.com/cecomp64/quote-book/issues/12" TITLE : add context to each quote BODY : > it's about as warm here as at my home, back in the states. - janelle, in california allow for a context with every author. create a context object. if left blank, then null.

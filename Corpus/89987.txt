@@ -1,0 +1,1 @@
+ URL : "https://github.com/stratisproject/Breeze/issues/148" TITLE : restrict input of 'field' BODY : as i suggested on the slack channel breezewallet https://stratisplatform.slack.com/archives/c5f5gglc8/p1499129535356492 allow only numerical input in the 'amount' field when sending coins. as of now, any input can be entered,

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Cylix/cpp_redis/issues/110" TITLE : vs build config BODY : hi! i see add visual c++ build config for pull requests. i wander if vs2013/2015 is support. can you write make/link for windows. i know cmake ,it can compile for msvc. vs2017 is new,and few people reuse. thank you for cylix.

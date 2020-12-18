@@ -1,0 +1,1 @@
+ URL : "https://github.com/cozy/cozy-ui/issues/197" TITLE : spinner acts weirdly BODY : as shown on the styleguide : https://ptbrowne.github.io/cozy-ui/react/ spinner it does not show its true color : https://github.com/cozy/cozy-ui/pull/196 discussion_r141883085 sometimes size is not working property width/height being shadowd by .coz-spinner nomargin seems to do nothing.

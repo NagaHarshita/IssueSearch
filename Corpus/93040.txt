@@ -1,0 +1,1 @@
+ URL : "https://github.com/elytra/Correlated/issues/86" TITLE : add bootup gui to terminal BODY : when right clicking the terminal before it's ready, it does not open a ui, and thus i eventually have to right click again !

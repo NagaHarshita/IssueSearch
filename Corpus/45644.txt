@@ -1,0 +1,1 @@
+ URL : "https://github.com/ballerinalang/ballerina/issues/3673" TITLE : improve syntax errors BODY : current error strategy doesn't give meaningful syntax errors most of the time, it's better if we can improve that to print a meaningful error in such cases.

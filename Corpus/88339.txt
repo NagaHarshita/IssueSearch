@@ -1,0 +1,1 @@
+ URL : "https://github.com/piyush0101/jenkins-view-builder/issues/22" TITLE : nested view doesn't work. BODY : it does create the nested structure but all the newly created views are unroutable. all urls point to the root.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/socketio/socket.io-client-java/issues/435" TITLE : battery drain issue BODY : i am using socketio for android and working properly. now getting issue is that battery drain quickly when app used. how can i resolved that issue.

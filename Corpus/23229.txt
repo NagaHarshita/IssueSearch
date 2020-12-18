@@ -1,0 +1,1 @@
+ URL : "https://github.com/karmaradio/karma/issues/195" TITLE : offer rejected bug BODY : in our offer show page it shows the message you have rejected this offer! when offer.accepted != true this needs to be changed to offer.accepted == false ! image https://cloud.githubusercontent.com/assets/28431542/26573648/7ebeb960-4516-11e7-9df1-dcd5d370cd51.png

@@ -1,0 +1,2 @@
+ URL : "https://github.com/dickschoeller/gedbrowser/issues/256" TITLE : divide up dateparser BODY : it's a god class. move basic calendar parsing and manipulation into a helper.
+keep estimation processing here.

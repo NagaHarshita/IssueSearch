@@ -1,0 +1,1 @@
+ URL : "https://github.com/streamroot/videojs-quality-picker/issues/13" TITLE : publishing to npm BODY : we need to publish this to https://www.npmjs.com/. it's used via npm in https://github.com/streamroot/videojs5-hlsjs-source-handler. and this is a proper way to distribute this plugin as it requires manual integration.

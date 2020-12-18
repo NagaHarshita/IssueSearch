@@ -1,0 +1,1 @@
+ URL : "https://github.com/jedwards4b/CCCG/issues/1" TITLE : layout of tool BODY : the main window should have a menu of case's under a given caseroot-parent, the tool should make it easy to manipulate groups of cases, to switch contexts between cases and to create new cases.

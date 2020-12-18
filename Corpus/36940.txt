@@ -1,0 +1,1 @@
+ URL : "https://github.com/Pterodactyl/Panel/issues/275" TITLE : invalid regex on ark BODY : ark settings/control panel has an invalid regex, /^ \w\. $/ , both on the server and admin password field. that regex limits the input to a single character only. a will work aa will fail .

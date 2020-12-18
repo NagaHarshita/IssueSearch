@@ -1,0 +1,1 @@
+ URL : "https://github.com/Ultimaker/Cura/issues/2240" TITLE : cura does not read stl BODY : cura does not read stl created in kompas 3d v.17 conts_v2.zip https://github.com/ultimaker/cura/files/1216001/conts_v2.zip 1. cura 2.6.1-2.7 - does not read 2. simplify3d v3-4 - read 3. autodesk netfabb - read

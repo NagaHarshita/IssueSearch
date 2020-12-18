@@ -1,0 +1,1 @@
+ URL : "https://github.com/Lucas-GitHub-Challenge/challenge-Repo-Master/issues/16" TITLE : create monitor script BODY : this would likely need monitoring from the users stand point. a small nagios monitor script would be helpful. monitoring the port usage and process would be a great start.

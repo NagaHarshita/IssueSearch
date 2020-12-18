@@ -1,0 +1,1 @@
+ URL : "https://github.com/yhatt/marp/issues/152" TITLE : table of contents BODY : what if marp can create a table of contents with a special html comment directive where it takes the name of each slide and create an anchor link in the pdf document generated. it's sounding a useful feature for educational presentation.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/genome/arvados_trial/issues/103" TITLE : clean up docker-cle BODY : this issue really belongs in docker-cle, but i'm making one here so this task is not lost. we need to go back and clean up the larger, merged docker-cle dockerfile.

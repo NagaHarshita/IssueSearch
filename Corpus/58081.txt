@@ -1,0 +1,1 @@
+ URL : "https://github.com/steveohara/j2mod/issues/51" TITLE : rs485 echo in rtu mode BODY : i have echo turned on rs485 with echo and using rtu coding. now not the whole eche gets ignored. the crc of the master-request is taken as slave response. the problem is in the class modbusrtutransport:

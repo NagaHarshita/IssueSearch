@@ -1,0 +1,1 @@
+ URL : "https://github.com/ppy/osu-web/issues/2138" TITLE : mobile reply box break ime BODY : here's screencast screencast_2017-12-30-02-08-15.mp4.zip https://github.com/ppy/osu-web/files/1593660/screencast_2017-12-30-02-08-15.mp4.zip if you scroll down to the buttom, then click on the reply box, ime will open but suddenly close

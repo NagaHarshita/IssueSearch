@@ -1,0 +1,1 @@
+ URL : "https://github.com/libretro/RetroArch/issues/4376" TITLE : reicast 32-bit build BODY : is there a reicast 32-bit version for retroarch ? at this https://github.com/libretro/reicast-emulator/commit/4467d7f1f16d9da8cf09f6790ac4f599f8288e2b look like can be compiled but not available at https://buildbot.libretro.com/nightly/windows/x86/latest/ ?

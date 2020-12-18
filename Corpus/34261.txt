@@ -1,0 +1,1 @@
+ URL : "https://github.com/NovelSense/ath9k_csi_kernel/issues/1" TITLE : can't generate ath9k BODY : hi there, i followed your steps but i wasn't able to generate the ath9k .ipk. did you add any target in another makefile? best regards, adnane

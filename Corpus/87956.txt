@@ -1,0 +1,1 @@
+ URL : "https://github.com/asmodehn/pyros-msgs/issues/2" TITLE : migrating to catkin_pip ? BODY : catkin_pip has stabilized quite a bit, and already seem a better option to handle python ros packages... at least to me.

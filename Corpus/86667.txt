@@ -1,0 +1,1 @@
+ URL : "https://github.com/Shopify/FunctionalTableData/issues/54" TITLE : implement a reusable case BODY : what right now, updateview is not enough clear enough about reusability. suggested approach @robinsenior mentioned http://khanlou.com/2017/03/that-one-optional-property/ : enum usecase { case prepareforreuse case update labelstate }

@@ -1,0 +1,1 @@
+ URL : "https://github.com/MikeTheCanuck/WhoDidITalkTo/issues/105" TITLE : add smoke tests BODY : each of the react components should include the kinds of smoke tests prescribed by facebook here: https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/readme.md testing-components

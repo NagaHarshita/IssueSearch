@@ -1,0 +1,1 @@
+ URL : "https://github.com/andreoliwa/python-dontforget/issues/92" TITLE : validate snooze times BODY : right now, any message is accepted on alarm.snooze , and the alarm goes to an invalid state, with an invalid time.

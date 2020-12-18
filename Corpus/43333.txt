@@ -1,0 +1,1 @@
+ URL : "https://github.com/uber-go/cadence-client/issues/147" TITLE : correct panic handler BODY : this change https://github.com/uber-go/cadence-client/pull/117 needs to be reverted and the change should go to the panic handler for dispatcher.

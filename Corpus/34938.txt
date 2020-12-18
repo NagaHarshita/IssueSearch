@@ -1,0 +1,1 @@
+ URL : "https://github.com/intel-hpdd/srcmap-reverse/issues/3" TITLE : create srcmap server BODY : instead of being included as a dependency, srcmap-reverse should run as a stand-alone server. this will allow other processes to send over source map data over an http request, where it will be processed, and the results will be returned in json format.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/frisch-raphael/Serpico/issues/20" TITLE : créer une class image BODY : plutôt qu'avoir une classe attachments et une classe charts , il faudrait avoir une classe images , avec une propriété renseigner s'il s'adit d'un attchament ou d'un chart.

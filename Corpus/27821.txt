@@ -1,0 +1,15 @@
+ URL : "https://github.com/andybotting/xbmc-addon-abc-iview/issues/2928" TITLE : end-user bug report BODY : automatic bug report from end-user. environment plugin name: abc iview plugin id: plugin.video.abc_iview plugin version: 1.8.0 xbmc/kodi version: 17.0-beta6 git:unknown python version: 2.7.6 default, mar 22 2014, 23:03:41 gcc 4.8.2 operating system: linux2 linux 4.2.8 x86_64 ip address: 101.166.235.205 isp : telstra internet python path: /share/cachedev1_data/.qpkg/mykodi17/homes/newkodi17/.kodi/addons/plugin.video.abc_iview
+/share/cachedev1_data/.qpkg/mykodi17/homes/newkodi17/.kodi/addons/script.common.plugin.cache/lib
+/share/cachedev1_data/.qpkg/mykodi17/homes/newkodi17/.kodi/addons/script.module.beautifulsoup/lib
+/share/cachedev1_data/.qpkg/mykodi17/homes/newkodi17/.kodi/addons/script.module.requests/lib
+/usr/lib/python2.7
+/usr/lib/python2.7/plat-x86_64-linux-gnu
+/usr/lib/python2.7/lib-tk
+/usr/lib/python2.7/lib-old
+/usr/lib/python2.7/lib-dynload
+/usr/local/lib/python2.7/dist-packages
+/usr/lib/python2.7/dist-packages
+/usr/lib/python2.7/dist-packages/pilcompat
+/usr/lib/python2.7/dist-packages/gtk-2.0
+/share/cachedev1_data/.qpkg/mykodi17/homes/newkodi17/.kodi/addons/plugin.video.abc_iview/resources/lib traceback traceback most recent call last : file /share/cachedev1_data/.qpkg/mykodi17/homes/newkodi17/.kodi/addons/plugin.video.abc_iview/resources/lib/series.py , line 35, in make_series_list series_list = comm.get_programme_from_feed category file /share/cachedev1_data/.qpkg/mykodi17/homes/newkodi17/.kodi/addons/plugin.video.abc_iview/resources/lib/comm.py , line 142, in get_programme_from_feed shows = parse.parse_programme_from_feed feed, keyword file /share/cachedev1_data/.qpkg/mykodi17/homes/newkodi17/.kodi/addons/plugin.video.abc_iview/resources/lib/parse.py , line 58, in parse_programme_from_feed for section in jsondata u'index' :
+typeerror: list indices must be integers, not unicode full xbmc.log https://gist.github.com/f6f7943b26d89453982ed54267ccbd24

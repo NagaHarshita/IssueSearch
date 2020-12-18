@@ -1,0 +1,4 @@
+ URL : "https://github.com/JimmyLv/reading/issues/531" TITLE : context - react BODY : context - react<br>
+edit on github context note: react.proptypes has moved into a different package since react v15.5. please use the prop-types library instead to define&hellip;<br><br>
+july 25, 2017 at 10:23pm<br>
+via instapaper http://ift.tt/1mkslwk

@@ -1,0 +1,1 @@
+ URL : "https://github.com/DSContEd/IntroWebDevelopment/issues/31" TITLE : javascript assignment 12 BODY : 1 write a javascript function that accepts a string as a parameter and find the longest word within the string. example string : 'web development tutorial' expected output : 'development' 2 show this on a simple html page.

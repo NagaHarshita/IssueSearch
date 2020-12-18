@@ -1,0 +1,1 @@
+ URL : "https://github.com/weaveworks/scope/issues/2576" TITLE : update to go1.8 BODY : so we can update weaveworks/common to latest 2570 it has not yet been officially released in weaveworks/scope-backend-build s base image: https://launchpad.net/ubuntu/yakkety/+source/golang-1.8

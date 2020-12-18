@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/iis-docker/issues/51" TITLE : iis docker image usage BODY : hi, i have a doubt here. can i spin up n number of iis containers in a windows machine? is that a violation of the windows license terms?

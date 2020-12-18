@@ -1,0 +1,1 @@
+ URL : "https://github.com/voidlinux/void-packages/issues/9714" TITLE : missing package freedts BODY : when trying to install calligra i get the error error: trans failed to download freetds-1.00.67_1' package from https://repo.voidlinux.eu/current': not found

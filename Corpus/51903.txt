@@ -1,0 +1,1 @@
+ URL : "https://github.com/lakb248/vue-chartist/issues/3" TITLE : bug plugin not working BODY : dude, chartist amd registers as chartist not chartist . you have changed first letter case and now it's broken. please look at chartist code: https://github.com/gionkunz/chartist-js/blob/develop/dist/chartist.js define 'chartist', , function { can you fix it asap? i cannot work :/

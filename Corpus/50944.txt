@@ -1,0 +1,1 @@
+ URL : "https://github.com/pspeter3/pspseter3.com/issues/3" TITLE : add git precommit hook BODY : this should run npm run fix && npm run fmt

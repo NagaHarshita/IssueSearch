@@ -1,0 +1,1 @@
+ URL : "https://github.com/Henriettas-Army/CodeUp/issues/85" TITLE : make '/' a private route BODY : take user to loading page while profile is being generated, and redux store is being updated with user's username. redirect user to own profile page when done

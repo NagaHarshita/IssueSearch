@@ -1,0 +1,1 @@
+ URL : "https://github.com/senior7515/smf/issues/93" TITLE : revisit exception safety BODY : we are breaking some laws regarding exception safety. see all the noexcept methods for instances.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/zyra/cordova-plugin-stripe/issues/38" TITLE : can we use 3ds ? BODY : hello, your plugin is wonderfull but unfortunatelly we have many fraudulent payments. so we would use the 3d secure but to do this i think we need a source connector : https://stripe.com/docs/sources/three-d-secure is it possible to add it to use 3ds ? thank's for your great job !

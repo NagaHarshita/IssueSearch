@@ -1,0 +1,1 @@
+ URL : "https://github.com/codeskyblue/go-sh/issues/24" TITLE : can i use this expression? BODY : diff < echo string1 < echo string2

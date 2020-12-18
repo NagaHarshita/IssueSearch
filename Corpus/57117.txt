@@ -1,0 +1,1 @@
+ URL : "https://github.com/quicklisp/quicklisp-projects/issues/1416" TITLE : please add cl-ntriples BODY : please add cl-ntriples. it was added before: 428 but probably got removed due to being hosted on sourceforge. new repository is mercurial https://bitbucket.org/vityok/cl-ntriples thanks

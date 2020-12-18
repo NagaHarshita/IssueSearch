@@ -1,0 +1,1 @@
+ URL : "https://github.com/kharland/distributed_dart/issues/14" TITLE : clean up _socketsplitter BODY : rename childid to nextchildid consider moving this logic to another class?

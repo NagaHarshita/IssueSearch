@@ -1,0 +1,1 @@
+ URL : "https://github.com/cg-cnu/vscode-remind-me/issues/5" TITLE : make reminders persistent BODY : don't loose reminders on closing vscode. make them persistent by saving to disk.

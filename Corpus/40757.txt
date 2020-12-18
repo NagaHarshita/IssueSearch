@@ -1,0 +1,1 @@
+ URL : "https://github.com/newpro/flaskboost/issues/39" TITLE : user login/out error BODY : in chrome, sometimes logout causes all other account logout as well. also, incognito can not be used to log in a different user. this is worth investigate. this maybe caused by use function from flask-login instead of user manager in flask-user.

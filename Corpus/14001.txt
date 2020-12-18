@@ -1,0 +1,1 @@
+ URL : "https://github.com/marklogic/marklogic-data-hub/issues/418" TITLE : add a code editor BODY : add the ability to edit the plugins within the quickstart tool. use the work that @ryanjdew did on se-pitch.

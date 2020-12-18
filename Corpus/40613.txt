@@ -1,0 +1,1 @@
+ URL : "https://github.com/CartoDB/cartoframes/issues/234" TITLE : update tqdm to 4.19+ BODY : tqdm had some changes that used multiprocessing that required the initializing of an internal lock. since tqdm is installed as >= 4.14.0 in the setup.py, we should update that to >=4.19 not yet released on pip instead. ref 227 cc @michellemho

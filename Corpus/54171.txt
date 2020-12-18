@@ -1,0 +1,1 @@
+ URL : "https://github.com/berkano/katsu/issues/35" TITLE : fix co-ordinate system BODY : - http://stackoverflow.com/questions/7708379/changing-the-coordinate-system-in-libgdx-java - look for funky co-ordinate inversion stuff in the code - load font flipped if needed - ensure the following work correctly: font rendering, console rendering, tiled map load

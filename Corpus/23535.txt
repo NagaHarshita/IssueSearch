@@ -1,0 +1,1 @@
+ URL : "https://github.com/ocornut/imgui/issues/1459" TITLE : problem with fonts BODY : i managed to integrate the imgui in my custom opengl platform, but i can't get the fonts to render properly. can you please point me in the right direction? this is what i see when i try to use the demo in my environment: https://www.dropbox.com/s/btjcevq6zqxw8dq/imgui_problem.png?dl=0

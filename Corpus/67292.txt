@@ -1,0 +1,1 @@
+ URL : "https://github.com/olegjo/Tickr/issues/7" TITLE : permissions not working BODY : there are some users skrusjef that should have access to some parts of the admin menu like change user permissions which they now do not. temporary fix: they have been made superusers.

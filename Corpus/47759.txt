@@ -1,0 +1,1 @@
+ URL : "https://github.com/dotnet/csharplang/issues/768" TITLE : proposal: smart casts BODY : kotlin https://kotlinlang.org/docs/reference/typecasts.html smart-casts has an even shorter version of if input is myclass xxx {...} that looks like: if obj is myclass { //obj is automatically cast to myclass obj.methodthatexistsonmyclass ; } proposal add this small syntactic sugar in c

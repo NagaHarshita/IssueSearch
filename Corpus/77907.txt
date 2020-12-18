@@ -1,0 +1,1 @@
+ URL : "https://github.com/XenHat/SublimeLinter-contrib-lslint/issues/7" TITLE : optional lslint switches BODY : following 6 i plan to add support for enabling and disabling some lslint switches through configuration and command palette. i have concerns about the amount of work require to implement the feature how i intend but i created this issue to track the progress on it.

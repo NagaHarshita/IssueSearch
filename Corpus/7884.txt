@@ -1,0 +1,2 @@
+ URL : "https://github.com/azavea/tilejson.io/issues/75" TITLE : layer box order BODY : move base layer to bottom of the list, and prepend layers to top of list
+improve appearance of base layer element - experiment with not having it on the screen initially, add once another layer is added

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Mangopay/cardregistration-js-kit/issues/42" TITLE : no diners check BODY : https://github.com/mangopay/cardregistration-js-kit/blob/c7c96336ee37893468a8984523439a60bf1e4974/kit/mangopay-kit.js l301 here should check for diners card also. if cardtype === maestro || cardtype === bcmc { if cardtype === maestro || cardtype === bcmc || cardtype === diners {

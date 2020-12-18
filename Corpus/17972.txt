@@ -1,0 +1,1 @@
+ URL : "https://github.com/isaacjkim/codecademy-project/issues/1" TITLE : search term state BODY : the state for the search term should be added to the class constructor of searchbar.js like so this.state = { term: '' }; also when calling the search method, pass the state like so search { this.props.onsearch this.state.term ; }

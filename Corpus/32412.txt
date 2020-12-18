@@ -1,0 +1,1 @@
+ URL : "https://github.com/dthpham/butterflow/issues/48" TITLE : upgrade to opencv 3 BODY : can you upgrade this project to opencv 3? opencv 2 is deprecated on arch linux and i need opencv 3 for my study and other programs that depend on it. i also can't install both version 2 and 3 alongside each other, so it would be pretty nice if you could upgrade to version 3.

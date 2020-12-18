@@ -1,0 +1,1 @@
+ URL : "https://github.com/nextcloud/android/issues/812" TITLE : preview non working image BODY : 1. create a test.jpg with 0 byte 2. open it in app -> could we get the system bar back and make the bars blue? wished by @andyscherzinger

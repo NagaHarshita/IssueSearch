@@ -1,0 +1,1 @@
+ URL : "https://github.com/Parth/dotfiles/issues/32" TITLE : a smarter deploy script BODY : + be smarter about platform and package manager + be smarter about installation location

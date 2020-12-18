@@ -1,0 +1,1 @@
+ URL : "https://github.com/micc83/acf-fonticonpicker/issues/11" TITLE : how to add icons? BODY : this documentation doesn't explain how to actually add icons to the selector. i installed the plugin via composer but when i add the icon picker field, it says no icons found. any help is appreciated

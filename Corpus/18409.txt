@@ -1,0 +1,1 @@
+ URL : "https://github.com/getsentry/sentry-laravel/issues/97" TITLE : tag a new release BODY : hi! recently you added laravel auto-discovery, but users can't use it because you didn't tag a release after that. could you tag a new release? thank you!

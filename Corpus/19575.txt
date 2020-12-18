@@ -1,0 +1,1 @@
+ URL : "https://github.com/curly-brace/godot_force_shield_shader/issues/1" TITLE : add licensing info BODY : on the godot assetlib you mentioned that the addon is under the mit license, but nothing confirms it in the source code. see https://choosealicense.com/ for information on how to apply a license to your work.

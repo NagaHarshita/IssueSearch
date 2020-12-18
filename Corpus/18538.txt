@@ -1,0 +1,6 @@
+ URL : "https://github.com/glenranson/test/issues/14" TITLE : this is the title BODY : <div class= form-item webform-component webform-component-display webform-component--textfield-1 > <label for= edit-submitted-textfield-1 >textfield 1 </label> <span class= field-prefix ></span> textfield 1 <span class= field-suffix ></span>
+</div>
+<div class= form-item webform-component webform-component-display webform-component--textfield-2 > <label for= edit-submitted-textfield-2 >textfield 2 </label> <span class= field-prefix ></span> textfield 2 <span class= field-suffix ></span>
+</div>
+<div class= form-item webform-component webform-component-display webform-component--email > <label for= edit-submitted-email >email </label> glenranson@gmail.com
+</div>

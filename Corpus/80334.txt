@@ -1,0 +1,1 @@
+ URL : "https://github.com/IntegralSoftware/flysystem-pdo-adapter/issues/4" TITLE : timestamp is not updated BODY : related to https://github.com/thephpleague/flysystem/issues/836 if timestamp is supposed to be modified timestamp, then the timestamp should be updated to the current time on each write.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/renegadexx/T4.Helper/issues/14" TITLE : remove user files BODY : the last commit https://github.com/renegadexx/t4.helper/commit/306a233015dbe9deb6433e9b24fdd0410b8c61e4 adds user related files .suo - soluton options and obj/debug/designtimeresolveassemblyreferencesinput.cache to repository. remove them and add them to .gitignore file.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/KVM-VMI/kvm-vmi/issues/4" TITLE : small issue fix. BODY : hi i'm new to github, usually i work with the git send-email to the kernel mailing list. so i'm attaching the patch here. 0001-fix-wrong-assignment.patch.zip https://github.com/kvm-vmi/kvm-vmi/files/786738/0001-fix-wrong-assignment.patch.zip

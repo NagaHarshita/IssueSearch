@@ -1,0 +1,1 @@
+ URL : "https://github.com/extr0py/oni/issues/436" TITLE : init.vim on windows BODY : hi, i noticed that on windows oni.exe looks for the init file by looking at ~\oni\$myvimrc instead of ~\oni\init.vim assuming oni.exe lives in ~\oni . is this know behavior to scare users off? :

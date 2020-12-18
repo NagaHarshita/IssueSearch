@@ -1,0 +1,1 @@
+ URL : "https://github.com/Becksteinlab/MDPOW/issues/91" TITLE : make boxtype selectable BODY : - setup keyword in runinput.yml - make sure it is propagated properly

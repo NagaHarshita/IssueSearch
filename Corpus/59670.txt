@@ -1,0 +1,1 @@
+ URL : "https://github.com/JuliaEditorSupport/Julia-sublime/issues/45" TITLE : updates for julia v0.6 BODY : in particular: - immutable -> struct - type -> mutable struct - where -syntax highlight where as a keyword?

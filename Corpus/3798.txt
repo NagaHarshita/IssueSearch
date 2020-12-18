@@ -1,0 +1,1 @@
+ URL : "https://github.com/WizardMac/ReadStat/issues/89" TITLE : use of stderr BODY : unfortunately this isn't allowed in r. it only seems to be used in one place readstat_sav_date_string and i think this must be new.

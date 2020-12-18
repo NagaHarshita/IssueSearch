@@ -1,0 +1,8 @@
+ URL : "https://github.com/Zimmi48/bugzilla-test/issues/1088" TITLE : faux fixpoints qui ralent BODY : note: the issue was created automatically with bugzilla2github tool bugzilla bug id: 34
+date: 2001-06-19 16:07:37 +0200
+from: @_letouzey
+to: last updated: 2001-06-19 16:07:37 +0200 bugzilla comment id: 988
+date: 2001-06-19 16:07:37 +0200
+from: @_letouzey full_name: pierre letouzey
+version: v7
+os: submission from: ppc8-117.lri.fr 129.175.8.117 fixpoint titi n:nat : nat := o. anomaly: no recursive definition. please report.

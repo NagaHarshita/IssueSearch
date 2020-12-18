@@ -1,0 +1,1 @@
+ URL : "https://github.com/instedd/aida-ui/issues/7" TITLE : create channels storage BODY : create a channel entity id | bot_id | type | config . when creating a bot, add a single facebook channel that will be updated later via api

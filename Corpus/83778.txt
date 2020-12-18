@@ -1,0 +1,1 @@
+ URL : "https://github.com/JeroenVanGelder/ThemaOpdracht4/issues/5" TITLE : close a file input stream BODY : the file input stream in bedrijfservice at line 34 is not closed properly.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/guyonroche/exceljs/issues/362" TITLE : clear empty sheet by name? BODY : i use exceljs to read a log file and convert log to different sheet.i want clear empty sheet.has any api like delete or remove sheet by name?

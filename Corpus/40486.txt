@@ -1,0 +1,1 @@
+ URL : "https://github.com/CityOfBoston/311/issues/718" TITLE : unindex hidden cases BODY : 311 indexer needs to track when cases come back as 404s e.g. blocked cases and remove them from the index.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/sourcegraph/javascript-typescript-langserver/issues/146" TITLE : no test for references BODY : textdocument/references is not covered at all. this is a core feature and needs a test. i almost broke it in a refactor because all tests were passing. https://codecov.io/gh/sourcegraph/javascript-typescript-langserver/src/master/src/typescript-service.ts l265

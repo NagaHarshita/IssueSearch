@@ -1,0 +1,1 @@
+ URL : "https://github.com/stronny/nails/issues/4" TITLE : current nail detection BODY : right now the detection mechanism requires the file to exist inside the __nails_path, symlinks resolved. to detect a nail anywhere in filesystem there has to be a way to link a directory with a nail, which raises a question: what is a nail anyway? no ideas right now, suggestions welcome.

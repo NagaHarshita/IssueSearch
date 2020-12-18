@@ -1,0 +1,1 @@
+ URL : "https://github.com/NUKnightLab/openlab.knightlab.com/issues/11" TITLE : remove /dist directory BODY : we don't need this directory since the build process is run on the stg and prod servers.

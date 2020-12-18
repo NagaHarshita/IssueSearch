@@ -1,0 +1,1 @@
+ URL : "https://github.com/zerobandwidth-net/android-coryat/issues/12" TITLE : implement a tweeter. BODY : implement a control and operation to construct and dispatch a tweet about a selected game. the basic format of this would be something like: > i scored _score_ playing along with jeopardy on _date_ android-coryat

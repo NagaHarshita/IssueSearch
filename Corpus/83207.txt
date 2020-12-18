@@ -1,0 +1,1 @@
+ URL : "https://github.com/osaaoui/grapher/issues/6" TITLE : bulles qui se superposent BODY : les bulles ordonnée à l'intérieur du graphe se superposent. si on bouge la courbe, l’ancienne bulle reste et la nouvelle se superpose à l’ancienne.

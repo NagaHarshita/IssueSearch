@@ -1,0 +1,1 @@
+ URL : "https://github.com/frontyardprojects/a-non-cash-assets-library/issues/8" TITLE : move to noncash.space BODY : make is work without the 'www.' change all references in app and in mail system: i just tried to sign up as a new user and got a fail 'cos it still talks to the old dns

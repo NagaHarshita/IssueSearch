@@ -1,0 +1,1 @@
+ URL : "https://github.com/solinor/react-native-bluetooth-status/issues/7" TITLE : listening to status change BODY : is it possible to expose a function to listen to the status change instead of having to check every time?

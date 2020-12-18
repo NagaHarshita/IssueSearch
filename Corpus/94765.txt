@@ -1,0 +1,1 @@
+ URL : "https://github.com/syncthing/docs/issues/359" TITLE : clean up deadlock env vars BODY : reflect changes from syncthing/syncthing 4598 in docs. it would be great if this information could be generated from main.go, but that's a bigger issue.

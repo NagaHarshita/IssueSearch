@@ -1,0 +1,1 @@
+ URL : "https://github.com/Cobbleopolis/MonsterTruckBot/issues/287" TITLE : common module repackage BODY : change the base package of the common module from com.cobble.bot.common to just common

@@ -1,0 +1,1 @@
+ URL : "https://github.com/TheCatCoders/loginService/issues/6" TITLE : connect to database BODY : currently the user are coming from a map in memory, should be loaded from the database

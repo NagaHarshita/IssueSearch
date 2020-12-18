@@ -1,0 +1,1 @@
+ URL : "https://github.com/cloudant/CDTDatastore/issues/386" TITLE : rest api support? BODY : good day, i am hoping to upgrade from couchbase lite to cdtdatastore, since we are using couchdb on the backend, and cdtdatastore seems to support couchdb better hopefully couchdb 2.0 . but does it support/intercept like in the old touchdb? thanks.

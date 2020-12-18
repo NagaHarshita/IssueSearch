@@ -1,0 +1,1 @@
+ URL : "https://github.com/no5ix/no5ix.github.io/issues/56" TITLE : epoll扼要总结 | 烫 BODY : https://no5ix.github.io/2015/06/22/epoll%e6%89%bc%e8%a6%81%e6%80%bb%e7%bb%93/ 水平触发与边缘触发 epoll 编程接口 epoll与select的区别 口诀 : 校内树 水平触发与边缘触发在深入讨论多种可选的m机制之前，我们需要先区分两种文件描述符准备就绪的通知模式。 水平触发通知：如果文件描述符上可以非阻塞地执行i/o系统调用，此时认为它已经就绪。 边缘触发通知：如果文件描述符自上次状态检查以来有了新的i/o活动（比如新的输入），此时需要触发通知。 表63-1

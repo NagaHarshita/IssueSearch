@@ -1,0 +1,1 @@
+ URL : "https://github.com/sinatra/mustermann/issues/55" TITLE : readme is broken BODY : the readme on the repo assumes all the different mustermann- directories and links to readmes for all the different patterns. with the move to mustermann-contrib, all these broke.

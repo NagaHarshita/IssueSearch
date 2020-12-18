@@ -1,0 +1,1 @@
+ URL : "https://github.com/deis/jenkins-jobs/issues/351" TITLE : containerize windows agent BODY : the windows agent previously used in some projects came in the form of a vm w/ dependencies set up by hand. moving forward, we should containerize this agent so it may be deployed in a repreatable manner via a k8s cluster equipped with windows nodes.

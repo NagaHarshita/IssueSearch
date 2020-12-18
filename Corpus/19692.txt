@@ -1,0 +1,1 @@
+ URL : "https://github.com/thkruz/keeptrack.space-Issues/issues/24" TITLE : add sensors to map BODY : still not sure how to do this. either need to make another point shader at an x, y, z that matches the earth and is static or edit the .jpg for the map.

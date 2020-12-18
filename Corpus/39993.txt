@@ -1,0 +1,1 @@
+ URL : "https://github.com/ferranabello/Viperit/issues/32" TITLE : swift 3 syntax error BODY : starting a project from scratch xcode and added my fork of this repo as a development pod xcode complains about swift 3 syntax, i perform the automatic conversion and raises about 94 errors, what i'm doing wrong?

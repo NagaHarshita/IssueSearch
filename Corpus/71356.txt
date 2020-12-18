@@ -1,0 +1,1 @@
+ URL : "https://github.com/gastonlucero/NoUniversity/issues/3" TITLE : add dedicated dispatcher BODY : - add properties to application.conf for a handling blocking ops. - refactor routes, for give implicitly support dispatcher

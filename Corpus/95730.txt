@@ -1,0 +1,1 @@
+ URL : "https://github.com/summernote/summernote/issues/2347" TITLE : disable insert files value BODY : every time i submit , always show unknown column 'files' in 'field list' is it possible to disable files parameter? i don't want to upload any files into my database. thanks you

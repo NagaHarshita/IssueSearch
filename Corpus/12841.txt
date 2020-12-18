@@ -1,0 +1,1 @@
+ URL : "https://github.com/azure-appservice-samples/NodeJS-ExpressSiteTemplate/issues/4" TITLE : seems to use php BODY : https://github.com/azure-appservice-samples/nodejs-expresssitetemplate/blob/56b16198463b7146563f641c7184f6d28b153cba/azuredeploy.json l89 this is a node.js example, so php should not be needed.

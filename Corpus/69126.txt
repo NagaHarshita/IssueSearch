@@ -1,0 +1,1 @@
+ URL : "https://github.com/PromisePay/promisepay-php/issues/72" TITLE : strict ssl should be on BODY : an excerpt from getdebugdata : strict_ssl => bool false

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ggomaeng/react-native-facebook-ui/issues/2" TITLE : your animation header BODY : your animation does not work that good when you scroll through the list. you should use the native driver and position instead.

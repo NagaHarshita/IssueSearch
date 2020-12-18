@@ -1,0 +1,1 @@
+ URL : "https://github.com/godofredoninja/Mapache/issues/41" TITLE : code injection theme bug BODY : <!-- theme grey--> <link rel= stylesheet href= /assets/css/themes/grey.css /> this bug because the theme path change. you can change path to <!-- theme grey --> <link rel= stylesheet href= /assets/styles/themes/grey.css />

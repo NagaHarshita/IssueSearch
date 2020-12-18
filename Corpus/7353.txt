@@ -1,0 +1,1 @@
+ URL : "https://github.com/vikkio88/ascoota-web/issues/28" TITLE : fix bug on seek BODY : the total width should be calculated on the container.

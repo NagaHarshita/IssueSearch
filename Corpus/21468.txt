@@ -1,0 +1,1 @@
+ URL : "https://github.com/alphagov/openregister-location-picker/issues/7" TITLE : firefox 45 support BODY : hi - could you please update the accessible-autocomplete version to 1.2.1 and publish a new version? v1.2.1 has changes to make progressive enhancement work in firefox 45. thanks

@@ -1,0 +1,1 @@
+ URL : "https://github.com/palladium-group/IQTools/issues/1" TITLE : iqtools db refresh error BODY : ! 3 8 0 3 error 2 https://user-images.githubusercontent.com/31725448/30153611-e27f5eee-93bf-11e7-9d78-994d605819d0.jpg this is the error generated when refreshing the iqtools db and its making tmp_clinicalenconters & tmp_ois not have data

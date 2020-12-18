@@ -1,0 +1,1 @@
+ URL : "https://github.com/jcphlux/XamarinAudioManager/issues/19" TITLE : ios sounds folder BODY : what is the build action needed for ios sound files? for android, androidasset seems to work, but not sure what is needed for the ios files. thank you

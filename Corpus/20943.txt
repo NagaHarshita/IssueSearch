@@ -1,0 +1,1 @@
+ URL : "https://github.com/uidaho/smartsettia/issues/31" TITLE : device table split BODY : device table has to many attributes and some need to be moved to either new tables or other previously created tables.

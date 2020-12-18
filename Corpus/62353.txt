@@ -1,0 +1,1 @@
+ URL : "https://github.com/shuhei/typed-recompose/issues/2" TITLE : clean up file structure BODY : - remove duplicated files - organize test files

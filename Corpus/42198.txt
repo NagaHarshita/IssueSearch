@@ -1,0 +1,1 @@
+ URL : "https://github.com/jasonwynn10/MurderMysteryPMMP/issues/6" TITLE : an error is occurring BODY : error: call to undefined method jasonwynn10\murder\main::getcommandmap file: /plugins/murdermysterypmmp-master/src/jasonwynn10/murder/main line: 16 type: notice

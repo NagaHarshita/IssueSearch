@@ -1,0 +1,1 @@
+ URL : "https://github.com/alexylem/jarvis/issues/724" TITLE : erreur 13 sur jarvis api BODY : bonjour j'ai un erreur 13 quand je lance la requête http://192.168.1.45:8080/?say=coucou { error : errno 13 permission denied }

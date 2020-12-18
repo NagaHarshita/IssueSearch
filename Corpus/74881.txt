@@ -1,0 +1,1 @@
+ URL : "https://github.com/X-DataInitiative/tick/issues/141" TITLE : fix mac builds on travis BODY : since this weekend something has changed to result in travis builds failing within the travis part of the code. we don't have access to this so the only real solution is to add set +e

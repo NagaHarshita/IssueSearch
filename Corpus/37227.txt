@@ -1,0 +1,1 @@
+ URL : "https://github.com/chjj/blessed/issues/319" TITLE : lines not showing up BODY : i'm using zsh and iterm2. i also use the built-in terminal in mac osx. in terminal, it looks fine but in iterm2, it looks like this - https://i.imgur.com/cmhphib.png what am i missing?

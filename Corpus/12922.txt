@@ -1,0 +1,1 @@
+ URL : "https://github.com/servo/download.servo.org/issues/24" TITLE : site not updated BODY : there is https://download.servo.org/ and https://dl.servo.org/. while the latter has the download link, the first one is not yet updated.

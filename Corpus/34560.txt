@@ -1,0 +1,1 @@
+ URL : "https://github.com/WhereToday/api/issues/19" TITLE : clonnection time out BODY : mysql server time out으로 인한 2006번 에러 https://dev.mysql.com/doc/refman/5.7/en/gone-away.html 로 api 요청시 500번 에러가 나타납니다.

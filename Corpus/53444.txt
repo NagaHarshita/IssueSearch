@@ -1,0 +1,1 @@
+ URL : "https://github.com/days4dreams/VolumeOfShapes/issues/1" TITLE : double need exceptions BODY : currently just one shared double for length, radius, width etc. could specify these per object could allow user input

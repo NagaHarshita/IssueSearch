@@ -1,0 +1,1 @@
+ URL : "https://github.com/shenv/shenv/issues/17" TITLE : fish fish builds BODY : package name should be fish-version , not fish-version

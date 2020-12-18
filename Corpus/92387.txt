@@ -1,0 +1,1 @@
+ URL : "https://github.com/spotify/web-api/issues/487" TITLE : wildcard for redirect uri BODY : my application includes local server and localtunnel.me integration - user gets random localtunnel domain to share with others . i cannot add wildcard in redirect uri on the my applications https://developer.spotify.com/my-applications/ page. is this possible? or can it be added?

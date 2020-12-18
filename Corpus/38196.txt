@@ -1,0 +1,16 @@
+ URL : "https://github.com/semihalf-berestovskyy-andriy/test4/issues/7" TITLE : ofp .configure error BODY : i've run the successfully below command to make odp: ./bootstrap
+./configure --prefix=/usr/local/odp
+make
+make install the build configuration fails for ofp with the below commands: ./bootstrap
+./configure --prefix=/usr/local/ofp --with-odp=/usr/local/odp --enable-cunit error displayed: checking for pkg-config... /usr/bin/pkg-config
+checking pkg-config is at least version 0.9.0... yes
+checking for odp... no
+checking for odp... no
+checking for odp... no
+checking for odp... no
+checking for odp... no
+checking for odp... no
+checking for odp... no
+checking for odp... no
+checking for odp_packet_alloc in -lodp... no
+configure: error: this package needs opendataplane libodp.a installed

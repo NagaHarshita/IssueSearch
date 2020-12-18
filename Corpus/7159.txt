@@ -1,0 +1,1 @@
+ URL : "https://github.com/DynamoRIO/drmemory/issues/2059" TITLE : dr memory crash BODY : ! 20171012drmemorycrash https://user-images.githubusercontent.com/10351479/31526312-42f32ccc-af83-11e7-930a-9f278c06e322.png attempted to debug a fairly large windows 32-bit application with memory heap corruption issues. drmemory died on startup. hope the report helps.

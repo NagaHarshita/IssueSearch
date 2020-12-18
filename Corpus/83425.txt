@@ -1,0 +1,1 @@
+ URL : "https://github.com/nim-lang/Nim/issues/6479" TITLE : cannot disable nil checks BODY : i want to disable nil checks, they do seem to appear in c generated code even when compiling with -d:release the only possible way to disable them is to pass --checks:off but i dont want to disable all checks, just the nil checks, so --nilchecks:off is missing.

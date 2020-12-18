@@ -1,0 +1,1 @@
+ URL : "https://github.com/Tat5ato/Codeday-Project/issues/7" TITLE : ending the game BODY : the script for ending the game does not trigger when the player crosses the boundary at the exit. the game should end when going past said boundary, but i guess the code doesn't recognizes it.

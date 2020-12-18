@@ -1,0 +1,1 @@
+ URL : "https://github.com/brod/mongoose-track/issues/5" TITLE : _find , _findone statics BODY : integrate with 1 as a _soft_ delete feature. no plans to overwrite the builtin find or findone like other libraries are doing.

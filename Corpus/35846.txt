@@ -1,0 +1,1 @@
+ URL : "https://github.com/PufferPanel/PufferPanel/issues/735" TITLE : files already exist? BODY : when running the auto deploy script, i get: mkdir: cannot create directory ‘/var/lib/pufferd’: file exists mkdir: cannot create directory ‘/etc/pufferd’: file exists deleting these files resulted in the script working

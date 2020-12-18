@@ -1,0 +1,1 @@
+ URL : "https://github.com/bitcrowd/bitstyles/issues/272" TITLE : .o-link can be dryer BODY : .o-link could share code via a mixin in tools/ with the base/ anchor styles.

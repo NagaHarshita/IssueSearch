@@ -1,0 +1,1 @@
+ URL : "https://github.com/kunass2/ForegroundNotification/issues/21" TITLE : not working in foreground BODY : is there a method to call when the app is in a foreground and is there a way for notifications not to show when the app is in use?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/nozzle/react-static/issues/105" TITLE : no doctype ? BODY : hello, react-static forget to include a <!doctype html> in the first line of all html pages. it's not useless, if you dont put a doctype declaration, browsers at least desktop 'quirks mode' will interpret your page as the oldiest version of html or undeterminated... how can i add it ? thanks !

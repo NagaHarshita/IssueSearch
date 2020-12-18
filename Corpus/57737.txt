@@ -1,0 +1,1 @@
+ URL : "https://github.com/strophe/strophejs/issues/258" TITLE : register a new account BODY : when i use strophe.register.js register a account to ejabberd, result : <error code='403' type='auth'><forbidden xmlns='urn:ietf:params:xml:ns:xmpp-stanzas'/><text xml:lang='en' xmlns='urn:ietf:params:xml:ns:xmpp-stanzas'>denied by acl</text></error>

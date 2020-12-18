@@ -1,0 +1,1 @@
+ URL : "https://github.com/XiaoFaye/WooCommerce.NET/issues/91" TITLE : update by sku number? BODY : this statement only updates by productid . is there a way to update by sku number? await wc.updateproduct 128, new product { name = test 9 } ; thank you,

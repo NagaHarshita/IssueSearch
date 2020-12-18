@@ -1,0 +1,1 @@
+ URL : "https://github.com/ibc/mediasoup/issues/93" TITLE : implement tmmbr or not BODY : it seems that chrome does not properly implement it and even worse, they may remove support for it. https://bugs.chromium.org/p/webrtc/issues/detail?id=2213 https://bugs.chromium.org/p/webrtc/issues/detail?id=7103

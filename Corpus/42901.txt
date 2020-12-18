@@ -1,0 +1,1 @@
+ URL : "https://github.com/hyperion-project/hyperion.ng/issues/367" TITLE : cant save led layout? BODY : this is with the latest pull from master. i can now save the led controller settings, but the layout doesnt save.

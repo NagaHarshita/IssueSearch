@@ -1,0 +1,1 @@
+ URL : "https://github.com/azavea/cac-tripplanner/issues/910" TITLE : create event type in cms BODY : similar to destinations, create an event type in the content management system/django interface that can be associated with an existing destination though not required , and which has start and end dates.

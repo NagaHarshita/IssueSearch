@@ -1,0 +1,1 @@
+ URL : "https://github.com/almibe/naps/issues/10" TITLE : add dev mode BODY : there should be a gradle task that starts up a static web server and also begins watching the template and content directories for changes.

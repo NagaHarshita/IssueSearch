@@ -1,0 +1,1 @@
+ URL : "https://github.com/couchbase/sync_gateway/issues/3123" TITLE : log _sync:seq on startup BODY : it's often useful to know the current value of _sync:seq on startup when attempting to diagnose issues. having that explicitly written to the logs would be useful.

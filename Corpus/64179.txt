@@ -1,0 +1,1 @@
+ URL : "https://github.com/yutannihilation/kokudosuuchi/issues/44" TITLE : fix test errors on cran BODY : https://cran.rstudio.com/web/checks/check_results_kokudosuuchi.html maybe i have to change this line; r cache_dir <- ../../cached_zip

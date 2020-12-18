@@ -1,0 +1,1 @@
+ URL : "https://github.com/michielbdejong/ilp-node/issues/24" TITLE : set up interfaucet BODY : rather than setting an initialbalance, set up a faucet website where you put in an interledger address and a fulfillment, and then it will pay out 1,000,000 ledger units on clp.

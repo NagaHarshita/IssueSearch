@@ -1,0 +1,12 @@
+ URL : "https://github.com/jecelyin/920-text-editor-v2/issues/590" TITLE : bugreport null BODY : memory: 838 mb / 2863 mb
+logcat error: exception ========================== package: com.jecelyin.editor.v2
+version code: 26
+version name: v2.17.2.13
+android: 4.4.4
+android build: ktu84p
+manufacturer: xiaomi
+model: mi 4lte
+thread: main-1
+crashreporter key: d2a560a9-a10b-6306-2eb2-cb66f4cdaa06e1e28416
+start date: thu feb 16 09:02:45 gmt+08:00 2017
+date: thu feb 16 09:04:38 gmt+08:00 2017 java.lang.outofmemoryerror at com.jecelyin.editor.v2.core.util.arrayutils.newunpaddedchararray arrayutils.java:46 at com.jecelyin.editor.v2.core.text.spannablestringbuilder.<init> spannablestringbuilder.java:81 at com.jecelyin.editor.v2.core.text.spannablestringbuilder.<init> spannablestringbuilder.java:69 at com.jecelyin.editor.v2.core.widget.textview.settext textview.java:4019 at com.jecelyin.editor.v2.core.widget.textview.settext textview.java:3960 at com.jecelyin.editor.v2.core.widget.jecedittext.settext jecedittext.java:184 at com.jecelyin.editor.v2.core.widget.textview.settext textview.java:3935 at com.jecelyin.editor.v2.ui.document.ondone document.java:179 at com.jecelyin.editor.v2.ui.document$readfiletask.onpostexecute document.java:262 at com.jecelyin.editor.v2.ui.document$readfiletask.onpostexecute document.java:238 at android.os.asynctask.finish asynctask.java:632 at android.os.asynctask.access$600 asynctask.java:177 at android.os.asynctask$internalhandler.handlemessage asynctask.java:645 at android.os.handler.dispatchmessage handler.java:102 at android.os.looper.loop looper.java:136 at android.app.activitythread.main activitythread.java:5072 at java.lang.reflect.method.invokenative native method at java.lang.reflect.method.invoke method.java:515 at com.android.internal.os.zygoteinit$methodandargscaller.run zygoteinit.java:793 at com.android.internal.os.zygoteinit.main zygoteinit.java:609 at dalvik.system.nativestart.main native method

@@ -1,0 +1,1 @@
+ URL : "https://github.com/cmb69/foldergallery_xh/issues/31" TITLE : don't require ext/fileinfo BODY : apparently, ext/fileinfo is not rarely unavailable, appears to be highly system specific and somewhat error-prone, and actually isn't needed to detect an image – after all we call getimagesize anyway.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/leebyron/testcheck-js/issues/34" TITLE : ava-check and tape-check BODY : i cannot install either tape-check or ava-check. i tried both npm install and yarn install but they are both failing.

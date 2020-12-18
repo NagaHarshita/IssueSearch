@@ -1,0 +1,1 @@
+ URL : "https://github.com/flyve-mdm/flyve-mdm-ios-inventory/issues/89" TITLE : version client string BODY : a fi’s version client string versionclient helps identify which agent is being used, what version, and on which operating system. inventory agent/0.2.0 iphone; cpu iphone os 7_0 like mac os x; flyve mdm /cc @g-bougard

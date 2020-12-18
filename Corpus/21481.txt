@@ -1,0 +1,1 @@
+ URL : "https://github.com/kdlong/UWVV/issues/3" TITLE : fix b-jet counters BODY : b-jet counters currently run on the uncleaned jet collection. as a result, if a fake passes both the b-jet identification and the lepton id loose in the fr case it gets counted as a b-jet. this should not be the case.

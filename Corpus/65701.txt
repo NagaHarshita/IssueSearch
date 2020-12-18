@@ -1,0 +1,1 @@
+ URL : "https://github.com/PeterStaev/NativeScript-Drop-Down/issues/126" TITLE : keyboard next tab focus BODY : hi there is is possible to focus the dropdown from the keyboard next button? on a standard form, natively or html, tabbing would put a box around it. at the moment, next button just goes to the textfield below the dropdown. thanks

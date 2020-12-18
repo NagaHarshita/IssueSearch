@@ -1,0 +1,1 @@
+ URL : "https://github.com/soggybag/Orange-Tree/issues/2" TITLE : impulse vector is low? BODY : not sure how scenekit works, but i had to multiply the impulse vector by at least 3 to get a reasonable amount of throw. however i was using the sun image since there was no orange , and i'm not sure if maybe the speed is lower because of the increased size.

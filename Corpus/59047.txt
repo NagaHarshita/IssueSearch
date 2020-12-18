@@ -1,0 +1,1 @@
+ URL : "https://github.com/pkp/pkp-lib/issues/3133" TITLE : task list enhancements BODY : when working with long task lists, a couple of changes would be helpful: 1. include a select all button to quickly check all tasks. 2. include the date the task was posted

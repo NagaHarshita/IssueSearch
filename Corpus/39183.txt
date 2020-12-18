@@ -1,0 +1,1 @@
+ URL : "https://github.com/jsok/hiera-vault/issues/27" TITLE : rewrite for hiera 5? BODY : hi, have you had any thoughts about rewriting this for hiera 5? it looks like it would it make it much simpler and eliminate the need for the additional patches to keep it from going through the entire vault backend for every class call . ...dave

@@ -1,0 +1,1 @@
+ URL : "https://github.com/yi-editor/yi-editor.github.com/issues/14" TITLE : config file not loaded BODY : i made some changes to ~/.config/yi/yi.hs cua mode, vty frontend but they don't seem to be loaded when i start yi. i've looked around a bit and it sounds like i need to kickstart the dynamic recompilation - how exactly do i do this?

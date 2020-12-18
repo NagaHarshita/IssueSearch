@@ -1,0 +1,1 @@
+ URL : "https://github.com/medic/medic-webapp/issues/3858" TITLE : favicon is not cached BODY : observed from restricted user on standard.app: <img width= 759 alt= screen shot 2017-08-31 at 17 48 55 src= https://user-images.githubusercontent.com/191496/29932492-baed6b1e-8e74-11e7-9561-3cd5ae411916.png > expected favicons should be cached. ----- ref 3837

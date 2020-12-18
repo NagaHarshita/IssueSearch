@@ -1,0 +1,1 @@
+ URL : "https://github.com/everything2/everything2/issues/439" TITLE : replytocb is busted BODY : somehow in history, replytocb said it got merged into default javascript, but it doesn't look like it actually got merged. i need to pull it out of git history and put it back

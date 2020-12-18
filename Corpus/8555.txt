@@ -1,0 +1,1 @@
+ URL : "https://github.com/swimlane/ngx-charts/issues/524" TITLE : pie grid issues BODY : i need to use single grid eg: 1. i have a grid named my contracts, total number of contacts is 100 my contracts is 10 so the percentage is 10% and total is 100 or i need to toggle total label at bottom of the pie grid and toggle center percentage, may you please look into this? thanks.

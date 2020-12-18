@@ -1,0 +1,1 @@
+ URL : "https://github.com/hobby-kube/guide/issues/6" TITLE : consider securing etcd BODY : compromised containers could access and leak important data stored in etcd. related comment on hacker news: https://news.ycombinator.com/item?id=14291817

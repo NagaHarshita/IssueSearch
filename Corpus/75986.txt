@@ -1,0 +1,1 @@
+ URL : "https://github.com/brainly/html-sketchapp/issues/16" TITLE : improve folder structure BODY : as @jeroenransijn suggested https://github.com/brainly/html-sketchapp/pull/10 discussion_r150292702 - create parsers folder in html2asketch and put all parsers in there some of the parsers will need to be extracted from the nodetosketchlayers.js

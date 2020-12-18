@@ -1,0 +1,1 @@
+ URL : "https://github.com/pddawson/Subfragium/issues/3" TITLE : limit management sources BODY : address an access control list or similar to limit where hosts can connect to the controller from. maybe only for r/w requests?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/wcandillon/react-native-responsive-ui/issues/26" TITLE : ref not accessible BODY : when using @responsive annotation, the component ref does not have methods accessible anymore

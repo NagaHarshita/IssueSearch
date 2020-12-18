@@ -1,0 +1,1 @@
+ URL : "https://github.com/FACN3/al-shams/issues/48" TITLE : api key on github BODY : api keys should _never_ be pushed to github. they should be in a config.env file and then use a module such as env2 https://www.npmjs.com/package/env2 so you can read them in your project.

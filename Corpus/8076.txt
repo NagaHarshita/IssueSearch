@@ -1,0 +1,1 @@
+ URL : "https://github.com/stumash/CoursePlanner/issues/123" TITLE : minor api fixes BODY : - put requests/responses into uniform sub-objects, update wiki accordingly edited - add some api request/response sample json files into docs/ folder that are pretty-printed and link to them in the api wiki instead of just linking to https://jsonformatter.curiousconcept.com/

@@ -1,0 +1,1 @@
+ URL : "https://github.com/outstack/enveloper/issues/12" TITLE : implement mjml support BODY : if a html version of an email is named something.mjml.twig , it should be passed through twig first, and then converted into html. see https://mjml.io/

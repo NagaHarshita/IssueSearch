@@ -1,0 +1,1 @@
+ URL : "https://github.com/openastroproject/openastro/issues/203" TITLE : release process for 1.2.0 BODY : build source release build on osx build latest libasicamera, libuvc-0.6.0 and oacapture packages on: fedora 25 fedora 26 ubuntu 14.04 x64 ubuntu 16.04 x64 ubuntu 14.04 arm raspian 7 arm raspian 8 arm update known bugs page update oacapture page release announcement

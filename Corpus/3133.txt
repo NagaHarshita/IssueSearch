@@ -1,0 +1,1 @@
+ URL : "https://github.com/lmdbjava/lmdbjava/issues/42" TITLE : jdk 9 support BODY : gave a quick try to lmdbjava with jdk 9 and wanted to record the findings here. due the the class access restrictions imposed by jigsaw, the following jvm arguments have to be specified: --add-opens java.base/java.nio=all-unnamed --add-opens java.base/sun.nio.ch=all-unnamed

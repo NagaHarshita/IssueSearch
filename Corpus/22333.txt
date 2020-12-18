@@ -1,0 +1,1 @@
+ URL : "https://github.com/grimly/Toolbox/issues/7" TITLE : jmx jaxrs resource BODY : jmx is a usefull feature to manage properties but rmi is hard to use out of the java world. provide a jaxrs api to access and modify properties as well as to call operations.

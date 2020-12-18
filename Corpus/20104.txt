@@ -1,0 +1,1 @@
+ URL : "https://github.com/jchromik/tuk2-exercise1/issues/1" TITLE : bmi data generator BODY : implement a data generator for _average bmi by state_. the table transcript contains bmi information, but has to be linked with patient table.

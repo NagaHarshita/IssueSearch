@@ -1,0 +1,1 @@
+ URL : "https://github.com/SkippyZA/lambda-lib/issues/5" TITLE : custom error response json BODY : supply a function, either globally or per handler, to map error objects to http error responses.

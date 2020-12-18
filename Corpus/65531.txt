@@ -1,0 +1,1 @@
+ URL : "https://github.com/pspete/psPAS/issues/34" TITLE : issue in new-passession BODY : hi, it seems there is a small issue in new-passession.ps1 line 139 $boundparameters = $psboundparameters | get-pasparameter s -parameterstoremove credential get-pasparameter s -> get-pasparameter kr konstantin

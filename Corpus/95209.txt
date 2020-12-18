@@ -1,0 +1,1 @@
+ URL : "https://github.com/oneofthem999/I-love-Baseball-CS-008/issues/19" TITLE : create a user friendly gui BODY : description: create a gui that is simple and easy to use story points: 2 tasks: print the information of the major league stadiums to the gui. tests: priority: low done: when gui is fully functional assignee:

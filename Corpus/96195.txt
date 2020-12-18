@@ -1,0 +1,1 @@
+ URL : "https://github.com/codebuddiesdotorg/codebuddies/issues/549" TITLE : end hangout button grammar BODY : when you end a hangout, an alert box pops up. the option to end the hangout reads yes end it! ; there should be a comma between yes and end it .

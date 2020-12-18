@@ -1,0 +1,1 @@
+ URL : "https://github.com/zalando/skipper/issues/348" TITLE : gix github badges BODY : - use the official license url - generate coverate for the sub packages and publish it with codecov.io

@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpenBazaar/openbazaar-go/issues/511" TITLE : very slow compilation BODY : openbazaar-go used to take a couple seconds on my computer to compile. now it takes a minute.

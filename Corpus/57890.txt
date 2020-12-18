@@ -1,0 +1,1 @@
+ URL : "https://github.com/sammwas/Java-IP2/issues/2" TITLE : repo naming convetions BODY : use a repo name that developers and non-developers can relate to. make sure that it's descriptive enough. here are some tips http://gravitydept.com/blog/devising-a-git-repository-naming-convention on how to go about it.

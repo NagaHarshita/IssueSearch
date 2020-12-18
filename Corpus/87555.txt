@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/CNTK/issues/2510" TITLE : log learning rate changes BODY : is it possible to log learning rate / momentum changes to the log file? i find it very incovinient not beeing able to know what parameters were in use at the specific training stage. thanks, nikola

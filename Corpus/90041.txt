@@ -1,0 +1,1 @@
+ URL : "https://github.com/freerjm/wedding.jonfreer.com/issues/30" TITLE : rewrite exception logging BODY : - need to introduce a new infrastructure for logging exceptions. - first draft simply logged the java.lang.exception class, which is extremely limiting. - will solve this by creating a higher abstraction, such as a log class.

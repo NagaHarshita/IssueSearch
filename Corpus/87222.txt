@@ -1,0 +1,1 @@
+ URL : "https://github.com/patrickmn/go-cache/issues/74" TITLE : iteration based on prefix BODY : is it possible to iterate item with just providing prefix of the key. just like badger - https://github.com/dgraph-io/badger prefix-scans

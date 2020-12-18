@@ -1,0 +1,1 @@
+ URL : "https://github.com/The4thLaw/demyo/issues/35" TITLE : define a browser config BODY : see https://msdn.microsoft.com/en-us/library/dn320426 v=vs.85 .aspx we already have manifests for the other browsers so it shouldn't be too hard.

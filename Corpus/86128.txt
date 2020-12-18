@@ -1,0 +1,1 @@
+ URL : "https://github.com/dastyk/SE/issues/211" TITLE : graphics resource handler BODY : implement a graphics resource handler. this handler keeps track of vertex buffers, shader resource view, constant buffers, etc.

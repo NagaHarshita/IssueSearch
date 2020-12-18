@@ -1,0 +1,1 @@
+ URL : "https://github.com/Geoportail-Luxembourg/geoportailv3/issues/1726" TITLE : focus lost in searchbox BODY : when clicking on the x in the searchbox the focus gets lost. you have to click again in the box to enter new search parameters

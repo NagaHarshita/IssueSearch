@@ -1,0 +1,1 @@
+ URL : "https://github.com/kamaln7/ansible-swapfile/issues/16" TITLE : no longer idempotent? BODY : it seems like this role is tearing down and setting up the swapfile every time i run my playbook. i am pretty sure that it left the swapfile alone if it was already appropriate in the last version. is it possible to fix the check as to whether it needs to do anything or not?

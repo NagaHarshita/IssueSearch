@@ -1,0 +1,1 @@
+ URL : "https://github.com/jonosmith/react-flexbox-view/issues/1" TITLE : convert to typescript BODY : would be good to convert to using typescript and provide a typescript definitions file to make maintaining and using this component much easier and safer

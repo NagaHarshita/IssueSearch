@@ -1,0 +1,1 @@
+ URL : "https://github.com/nafundi/odk-codebook/issues/7" TITLE : update note date type BODY : the note var type in xlsform produces static text in the xml. the codebook lists these as user entered text as if it were a text variable. maybe have it say static text or informational text .

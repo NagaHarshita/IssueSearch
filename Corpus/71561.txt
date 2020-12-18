@@ -1,0 +1,1 @@
+ URL : "https://github.com/tsongstad/120-/issues/1" TITLE : add proper lexer errors. BODY : lexical errors don't work well right now. just need to add an error code to lexerr, and switch on that to get the proper handling one for no include, one for invalid token, etc .

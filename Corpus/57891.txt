@@ -1,0 +1,1 @@
+ URL : "https://github.com/RegOpz/RegOpzAPI/issues/17" TITLE : report aggregation api BODY : report aggregation api to generate reports with required parameters. it should take parameters through the ux screen and pass it to the api for processing.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/friendsofagape/mt2414/issues/108" TITLE : wedges on header BODY : the translation module is putting the wedges >>> <<< around the elements of the header section. \id >>>pro<<< \id >>>utf-8<<< the module should not attempt to translate any of the elements in the header section \id, \ide, \rem etc

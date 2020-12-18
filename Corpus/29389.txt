@@ -1,0 +1,1 @@
+ URL : "https://github.com/rapydo/issues/issues/62" TITLE : list elements in do BODY : we need to list things in rapydo with a specific do command. possibilities that come to mind: bash list running services rapydo list services list env var instead of rapydo env rapydo list env list submodules available and which one is downloaded rapydo list submodules

@@ -1,0 +1,1 @@
+ URL : "https://github.com/quicwg/base-drafts/issues/763" TITLE : ack-only frames BODY : 4.4 references ack only frames -- i suspect this should be ack-only packets , or perhaps more generally, packets which don't contain anything retransmittable. i'm also a little confused as to why this is, but that could just be my lack of familiarity with the congestion control space.

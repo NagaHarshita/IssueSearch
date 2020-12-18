@@ -1,0 +1,1 @@
+ URL : "https://github.com/RickPack/fbadstats/issues/5" TITLE : clean-up code fbadgstats BODY : ensure alignment of fbadgstats function code with hadley wickham's style guide at http://adv-r.had.co.nz/style.html, such as: 1. lines generally 80 characters or less 2. more consistent indentation

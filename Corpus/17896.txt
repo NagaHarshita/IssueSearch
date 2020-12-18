@@ -1,0 +1,1 @@
+ URL : "https://github.com/databio/epihet/issues/8" TITLE : rpim optimization BODY : for a given pair of samples, rpim currently calculates the score for both samples relative to one another ... it would be more efficient to do this once

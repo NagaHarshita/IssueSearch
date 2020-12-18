@@ -1,0 +1,1 @@
+ URL : "https://github.com/webcompat/webcompat.com/issues/1594" TITLE : implement alexa webhook BODY : this is the final part of 1533. use the result db from 1591 and put the label from 1592 to created issue.

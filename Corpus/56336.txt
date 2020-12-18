@@ -1,0 +1,1 @@
+ URL : "https://github.com/japanoise/kusanagi/issues/9" TITLE : move ordering: tt move BODY : if we've already searched this position before, then the best move for that search is probably also the best move for this one. requires: - 7 - 8

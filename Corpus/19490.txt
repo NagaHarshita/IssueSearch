@@ -1,0 +1,1 @@
+ URL : "https://github.com/WordPress/gutenberg/issues/130" TITLE : add delete button? BODY : it is currently not possible to delete a block without having to select the contents. a delete button has been added to the single instance tinymce prototype. it will replace the contents with an empty slot and set the selection there. https://wordpress.github.io/gutenberg/tinymce-single/

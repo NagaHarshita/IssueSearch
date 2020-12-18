@@ -1,0 +1,1 @@
+ URL : "https://github.com/influxdata/chronograf/issues/1483" TITLE : set warning level alerts BODY : would be great to be able to create warning alerts in kapacitor from chronograf.

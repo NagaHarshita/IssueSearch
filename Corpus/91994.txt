@@ -1,0 +1,1 @@
+ URL : "https://github.com/MLTSHP/mltshp/issues/74" TITLE : use retina-friendly icons BODY : right now, none of the icons on the site are retina quality, making the site look weird on retina screens. let's replace all the 1x resources for things like the heart icon with either 2x resources or better yet svg files.

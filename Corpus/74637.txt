@@ -1,0 +1,1 @@
+ URL : "https://github.com/vlead/translators/issues/7" TITLE : failing when repo exists BODY : strategy - update the experiment, i.e., add the new resource files make another api called /update_experiment in the app

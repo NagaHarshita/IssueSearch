@@ -1,0 +1,1 @@
+ URL : "https://github.com/maxkoryukov/MK.Lib/issues/5" TITLE : migrate to codecov BODY : coveralls io had updated, and became ugly. it is time to use codecov

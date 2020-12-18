@@ -1,0 +1,1 @@
+ URL : "https://github.com/ep-friedel/foodplanner/issues/9" TITLE : specific error handling BODY : acceptance criteria - a message is displayed when a api call fails with a specific explenation - all api-endpoints provide error information

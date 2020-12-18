@@ -1,0 +1,1 @@
+ URL : "https://github.com/Hearst-DD/ObjectMapper/issues/897" TITLE : swift 4 errors BODY : hello, do you think to support swift 4 since the method tointmax will not available if t.self == int.self, let x = int exactly: number.int64value ?.tointmax { return t.init x }

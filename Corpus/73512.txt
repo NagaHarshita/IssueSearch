@@ -1,0 +1,1 @@
+ URL : "https://github.com/Chaitanyaperavali/iHealthCare/issues/2" TITLE : create registration page BODY : create registration page, add activity_register as a layout file. add registeractivity as registration page. add all possible validations. make sure the elements are properly aligned in both orientations.

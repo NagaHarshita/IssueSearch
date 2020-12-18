@@ -1,0 +1,1 @@
+ URL : "https://github.com/contentful-labs/contentful.ex/issues/9" TITLE : hardcoded end point BODY : the endpoint is hard-coded to cdn.contentful.com which only shows entries that have been published. by making it a run-time config, one can set the endpoint to preview.contentful.com and retrieve entries that are in draft state.

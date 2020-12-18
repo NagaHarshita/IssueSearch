@@ -1,0 +1,1 @@
+ URL : "https://github.com/NewSpring/Excavator/issues/178" TITLE : error after health check BODY : i keep getting this: 6/29/2017 10:52:19 pm,transform data, system.componentmodel.win32exception 0x80004005 : the network path was not found i am trying to upload csv files match column for column as instructed connection to database ok fails after the health check. suggestions?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/gerbenjacobs/HabboAPI/issues/39" TITLE : habboparser 'de' ? BODY : hey! when i edit the habboparser to the german habbo, i have a blank website? code: $habboparser = new habboparser 'de' ; the habboname exists.. can anyone help?

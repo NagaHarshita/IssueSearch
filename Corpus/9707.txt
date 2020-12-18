@@ -1,0 +1,1 @@
+ URL : "https://github.com/gnosis/heimdall-android/issues/61" TITLE : add address book BODY : - add possibility to add and remove entries to an address book address and name should be mandatory . also add screen that lists all stored entries - show if an address is stored and display the name e.g. when performing transactions or displaying owners of a safe

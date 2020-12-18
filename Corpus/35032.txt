@@ -1,0 +1,1 @@
+ URL : "https://github.com/luetkemj/aglet-timekeeper/issues/10" TITLE : customize hour count BODY : an edge case feature request, but not all worlds assume a 24 hour day. being able to specify our own non-zero number of x hours would be useful! thanks for a great, clean tool!

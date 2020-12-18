@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla/addons-frontend/issues/2433" TITLE : limit code to 80 chars BODY : we should add a lint rule to keep code under 80 chars. it's just too hard to use split screen without it. the patch to fix everything will be annoying but worth it.

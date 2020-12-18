@@ -1,0 +1,1 @@
+ URL : "https://github.com/CoolerVoid/heap_detective/issues/2" TITLE : add loop detector function BODY : neet to use loop array to detect loop input in code and write in struct element... https://github.com/coolervoid/heap_detective/blob/master/src/detective.h l41

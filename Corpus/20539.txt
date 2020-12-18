@@ -1,0 +1,1 @@
+ URL : "https://github.com/timtrice/rrricanes/issues/93" TITLE : color name mistake BODY : in the code ggplot data = map_data world , aes long, lat, group = group , color = grey10 + geom_path + theme_bw the color grey10 do not exist

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jenkinsci/gogs-webhook-plugin/issues/9" TITLE : the branch is ignored BODY : i setup gogs + jenkins + this plugin. i have a job that builds master . currently, when i push a commit in test branch, jenkins build is triggered, and master branch is build. there's a way to have a more smarter trigger, that specify the branch to avoid that?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/inconshreveable/ngrok/issues/415" TITLE : failed tunnel connection BODY : the callback url is showing errors while setting up webhooks like callback verification failed and url coulcn't be valdated. the terminal is showing error 502 bad gateway.

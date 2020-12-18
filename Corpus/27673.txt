@@ -1,0 +1,1 @@
+ URL : "https://github.com/jonathanKingston/sea-containers/issues/9" TITLE : drag and drop fixes BODY : as mentioned in 5 there are other drag and drop issues like index 0 dragging being an issue. @jodiwarren also suggested making the drag, just the icon too.

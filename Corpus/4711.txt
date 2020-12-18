@@ -1,0 +1,1 @@
+ URL : "https://github.com/oatot/oatot/issues/25" TITLE : fix known bugs BODY : - vid_restart results in oatot info being invisible in the user interface - while playing spectators can not return from follow mode - check if log info overlaps 'on red' heading

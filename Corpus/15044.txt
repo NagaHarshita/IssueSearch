@@ -1,0 +1,1 @@
+ URL : "https://github.com/nidayand/node-red-contrib-tradfri/issues/12" TITLE : control rgb bulbs BODY : it seems like the tradfri bulb e27 cws opal 600lm color bulb can't be controlled with the current release. would it be possible to support these bulbs as well? thank you

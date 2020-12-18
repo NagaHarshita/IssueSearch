@@ -1,0 +1,1 @@
+ URL : "https://github.com/literat/gamee-mission/issues/7" TITLE : čistě php řešení BODY : •	u hodně věcí by mu framework nette vyšel vstříc, on bohužel a zbytečně používá čistě php řešení superglobals, filter_var, header, etc

@@ -1,0 +1,1 @@
+ URL : "https://github.com/dominik-zeglen/oink/issues/1" TITLE : add object management BODY : need to do: - api - create object - read object - show objects being children of xxx container - show objects belonging to xxx module - show objects sorted by name / creation date / visibility - change data storage from string to int unix epoch - panel view

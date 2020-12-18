@@ -1,0 +1,1 @@
+ URL : "https://github.com/CCOMIT/Shared-Libraries/issues/2" TITLE : implement support for... BODY : - communication.customtemplate - communication.custompopulation - batches.communication i.e., get communication from url

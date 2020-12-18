@@ -1,0 +1,1 @@
+ URL : "https://github.com/airbnb/lottie-web/issues/774" TITLE : minify eval'd js BODY : is there any current support for minifying the stringified js output in data.json ?

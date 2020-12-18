@@ -1,0 +1,1 @@
+ URL : "https://github.com/ardata-fr/mschart/issues/5" TITLE : detail in readme example BODY : hi! i tried to replicate the example but i had an error in the line: r doc <- ph_with_chart doc, value = linec and seeing the documentation, the arg is called chart instead of value . thanks for the packages, looks good.

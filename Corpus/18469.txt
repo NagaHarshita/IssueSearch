@@ -1,0 +1,1 @@
+ URL : "https://github.com/openrecordz/openrecordz-web-console/issues/23" TITLE : test plan /report BODY : foglio excel test plan <use_case_number> | <test> | <valore_atteso> test report <use_case_number> | <numero_test_case> | <esito> | <versione>

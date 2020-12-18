@@ -1,0 +1,1 @@
+ URL : "https://github.com/typicode/husky/issues/168" TITLE : 0.14.3 seems broken BODY : a basic setup that works with 0.13.3 doesn't run at all with 0.14.3. json { name : husky-test , version : 1.0.0 , main : index.js , license : mit , devdependencies : { husky : ^0.14.3 }, scripts : { precommit : echo 'hello' } }

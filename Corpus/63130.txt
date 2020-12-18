@@ -1,0 +1,1 @@
+ URL : "https://github.com/ETHLend/DAPP/issues/21" TITLE : deploy to kovan testnet BODY : 1. pass new _currentusdtoethrate parameter $330 as default 1. try to call new method getethtousdrate and isneedtoupdateethtousdrate 1. try to call updateethtousdrate with at least 0.05 eth

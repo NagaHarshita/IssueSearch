@@ -1,0 +1,1 @@
+ URL : "https://github.com/wix/wml/issues/9" TITLE : cannot start watching BODY : i just installed the latest version of wml and i added a link. but when running the start command i get an error error: unable to resolve root looks like the error occurs here: fb-watchman/index.js:95:23

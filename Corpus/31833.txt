@@ -1,0 +1,1 @@
+ URL : "https://github.com/RxSwiftCommunity/Action/issues/117" TITLE : switch to circle ci BODY : travis builds are taking hours just to queue, we need to switch to circle to get faster feedback. i'll get to this eventually, if someone else wants to take it on, by all means 😄

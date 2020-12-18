@@ -1,0 +1,1 @@
+ URL : "https://github.com/ivanthelad/ansible-azure/issues/34" TITLE : install.sh for docker BODY : the line https://github.com/ivanthelad/ansible-azure/blob/master/docker/install.sh l45 is not correct it seems you have to do it cp /exports/inventory.$temp /ansible-azure/ansible-azure/inventory.$temp

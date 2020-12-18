@@ -1,0 +1,1 @@
+ URL : "https://github.com/udalrich/jdibug/issues/27" TITLE : add package to melpa? BODY : would you be interested in adding the package to melpa.org so it could be installed using emacs' built-in package manager?

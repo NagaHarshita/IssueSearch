@@ -1,0 +1,1 @@
+ URL : "https://github.com/pangeo-data/pangeo/issues/29" TITLE : feedback on sphinx site BODY : i have a skeleton of a sphinx site set up here: https://pangeo-data.github.io/pangeo/ right now the css is not working...a subdirectory issue i think. once that is resolved, we can use this issue to give feedback and discuss how we actually want the site to look.

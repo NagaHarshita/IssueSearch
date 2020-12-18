@@ -1,0 +1,1 @@
+ URL : "https://github.com/saketmehta/steam-appmanifest-generator/issues/3" TITLE : convert to spa BODY : currently vue.js is used but in an ad-hoc manner. refactor into an idiomatic single-page application.

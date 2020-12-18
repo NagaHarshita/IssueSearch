@@ -1,0 +1,1 @@
+ URL : "https://github.com/openai/go-alias/issues/1" TITLE : add click stats BODY : whenever the server serves a redirect, should increment a counter

@@ -1,0 +1,1 @@
+ URL : "https://github.com/kurtlewis/OrganizationManager/issues/8" TITLE : meeting sign in changes BODY : remove the option for iso card swipes at meetings. and then make the lookup against our own database, not a dumb call to an api at tribunal.uc.edu when we have perfectly good data on the server

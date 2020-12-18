@@ -1,0 +1,1 @@
+ URL : "https://github.com/redox-os/ion/issues/245" TITLE : substrings & arrays BODY : it should be possible to obtain a substring from a variable. splitting a variable by characters, and by words: bash $ let var = this is a string $ echo ${var:0:4} this $ echo ${var:5:2} is $ echo ${var 3 } string

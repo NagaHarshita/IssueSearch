@@ -1,0 +1,1 @@
+ URL : "https://github.com/JeffreyWay/laravel-mix/issues/61" TITLE : webpack-hmr - https BODY : we can start webpack-dev-server in https mode by adding -https but the files loading in always come from http , is this because of webpack or something you've setup in mix?

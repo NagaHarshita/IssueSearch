@@ -1,0 +1,1 @@
+ URL : "https://github.com/akkornel/syncrepl/issues/10" TITLE : configure coverity scan BODY : coverity can scan python code, so we should have it scan ours! if there's a badge, add it at this time. related to 9, in that we can link travis and coverity.

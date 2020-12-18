@@ -1,0 +1,1 @@
+ URL : "https://github.com/ActionFPS/ActionFPS-Game/issues/170" TITLE : remove the bot BODY : so that we have less code to maintain. any future bot should be external.

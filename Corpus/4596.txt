@@ -1,0 +1,1 @@
+ URL : "https://github.com/DatTardisDoh/bobscorekeeper/issues/6" TITLE : endless loop 2 BODY : elif pointsrewarded == 'n' : print better luck next time? timer break else: print say that again? another endless loop to fix

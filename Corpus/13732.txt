@@ -1,0 +1,1 @@
+ URL : "https://github.com/QuantStack/xtensor/issues/546" TITLE : xadapt or adapt? BODY : the docs state that it's xt::adapt but the function is currently called xt::xadapt .

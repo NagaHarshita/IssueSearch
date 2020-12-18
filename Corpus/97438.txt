@@ -1,0 +1,1 @@
+ URL : "https://github.com/bastibl/gr-ieee802-11/issues/66" TITLE : gr-ieee802-11 on usrp e !@ BODY : any idea if this will work on the new usrp embedded radio, the e312? i talk to the e312 over lan. my computer runs ubuntu 16.04 lts on a virtualbox. i use grc 3.7.9. regards, vincent

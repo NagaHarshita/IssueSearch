@@ -1,0 +1,1 @@
+ URL : "https://github.com/maw/trst/issues/1" TITLE : copy rg's -w flag BODY : -w, --word-regexp only show matches surrounded by word boundaries. it looks like a useful feature.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/fwinkelbauer/Cake.Mug/issues/9" TITLE : fix bug in mstest task BODY : the list of test dlls is created before the mstest tasks runs. this means that the mstest task is skipped if the build artifacts folder is empty which it always is on an initial run

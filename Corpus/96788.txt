@@ -1,0 +1,1 @@
+ URL : "https://github.com/andreaphobia/conjugator/issues/2" TITLE : finish porting godan verbs BODY : godan verbs need to be ported to the new term format, and also vetted for correctness/accuracy.

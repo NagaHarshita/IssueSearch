@@ -1,0 +1,1 @@
+ URL : "https://github.com/zurb/foundation-sites/issues/10038" TITLE : card - docs issue BODY : http://foundation.zurb.com/sites/docs/card.html the edit in browser link under card divider links to https://codepen.io/zurbfoundation/pen/xrbzym?editors=1000 .. which is a slider example, not a card divider example.

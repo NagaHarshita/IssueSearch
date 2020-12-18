@@ -1,0 +1,1 @@
+ URL : "https://github.com/CartoDB/cartoframes/issues/201" TITLE : add tests for geopandas BODY : there are a couple of unit tests that need to be run for reading into and writing from a geodataframe geopandas . @michellemho, could you identify those cases, list them here, and open a pr with tests on those?

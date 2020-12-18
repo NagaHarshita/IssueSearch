@@ -1,0 +1,1 @@
+ URL : "https://github.com/bbarker/nixos-in-docker/issues/2" TITLE : systemd not fully running BODY : root@nixos:/ systemctl status failed to connect to bus: no such file or directory this seems to be related to /run/user/0 not existing, which is supposed to be tmpfs and created by pam_systemd .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/http-builder-ng/http-builder-ng/issues/135" TITLE : add more usage examples BODY : downloading a file also document the download helper other helper class documentation and testing those have been neglected other recipe style examples at the end of the user guide

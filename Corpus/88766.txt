@@ -1,0 +1,1 @@
+ URL : "https://github.com/heptio/vscode-jsonnet/issues/3" TITLE : option to preview in yaml BODY : most of kubernetes resources are 'hand-written' in yaml. an preview in yaml may help users to get a quicker diff with what they are used to see.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/bit-team/backintime/issues/766" TITLE : separate log file BODY : i've looked through the issues and comments here, as well as general online searches, and haven't been able to find this particular question addressed: is there a way to have bit log to a separate logfile? that is, separate from /var/log/syslog. bit 1.0.34 linux mint 17.3

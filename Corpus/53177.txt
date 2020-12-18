@@ -1,0 +1,1 @@
+ URL : "https://github.com/aspnet/SignalR/issues/698" TITLE : deploy in azure failed BODY : hello, i updated the packages version of signalr from 1.0.0-preview3-25939 to one available now 1.0.0-alpha1-26583 or 1.0.0-alpha1-26423 or 1.0.0-alpha1-26381 . but i can't deploy it again on azure. the packages 1.0.0-preview3-25939 are not available anymore. what can i do? thanks, adrien.

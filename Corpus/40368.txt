@@ -1,0 +1,1 @@
+ URL : "https://github.com/Draccoz/twc/issues/103" TITLE : twc not trace errors BODY : - i forgot to configure includes in tsconfig and twc does not generated element and does not trace any error - i forgot to include @customelement decorator and twc generates a wrong element without tracing any error

@@ -1,0 +1,1 @@
+ URL : "https://github.com/DukeLivingHistory/RLH-Site-Code/issues/38" TITLE : improve site search BODY : site search searches on title and description and returns a list of interviews that match. it would be an improvement if matches were also highlighted on that return page. what would it take to do this?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/pattex/jekyll-tagging/issues/68" TITLE : broken for jekyll 3.5.2 BODY : this is similar to 56 but for jekyll 3.5.2 {{ site | tag_cloud }} outputs: jekyll::drops::sitedrop

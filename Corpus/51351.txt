@@ -1,0 +1,1 @@
+ URL : "https://github.com/RK4000/RK-s-Explosions/issues/6" TITLE : ahwassa wrong variable BODY : similar as in 5 there's a wrong variable https://github.com/rk4000/rk-s-explosions/blob/master/hook/units/xsa0402/xsa0402_script.lua l26 change it to self.lastdamageeffectthreshold = 1 and see if it breaks as the czar

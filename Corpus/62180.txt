@@ -1,0 +1,1 @@
+ URL : "https://github.com/voxpupuli/puppet-sslcertificate/issues/44" TITLE : certificate for testing BODY : is it possible for you to provide the certificate used to run the tests? i would like to use it since i'm adding new arguments to the module and i would like to reuse the tests.

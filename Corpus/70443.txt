@@ -1,0 +1,1 @@
+ URL : "https://github.com/RxSwiftCommunity/RxSwiftExt/issues/79" TITLE : warnings with xcode 8.3 BODY : ../pods/rxswiftext/source/cascade.swift:28:21: static method should not be declared public because its generic requirement uses an internal type ../pods/rxswiftext/source/cascade.swift:14:12: type declared here

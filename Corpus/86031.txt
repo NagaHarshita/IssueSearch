@@ -1,0 +1,1 @@
+ URL : "https://github.com/gyde/MySQL-Object-Model/issues/14" TITLE : getbyid no exception flow BODY : if using getbyid 'some id', false which should result in a no exception flow, mombase will fail due to mysqlexception from a wrongly constructed query.

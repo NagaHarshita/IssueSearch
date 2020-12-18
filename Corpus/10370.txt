@@ -1,0 +1,1 @@
+ URL : "https://github.com/marco3211/tt-music-search/issues/1" TITLE : can't read param BODY : for some reason, i can't read the param from the container only from component. therefore, i can't load the album lists. i can't find a solution to this problem. this.props.match.params.id should get it?

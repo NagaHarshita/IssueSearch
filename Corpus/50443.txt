@@ -1,0 +1,1 @@
+ URL : "https://github.com/itchio/itch-compatibility-watchlist/issues/527" TITLE : 🐧 raft ↔ v22.2.0 BODY : :rotating_light: game raft https://raft.itch.io/raft is broken for me. :book: here's the complete debug log https://gist.github.com/580a7ba03433161b4e624960c7bb02fb . :running: any additional details can go here!

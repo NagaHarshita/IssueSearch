@@ -1,0 +1,1 @@
+ URL : "https://github.com/mattn/emmet-vim/issues/390" TITLE : quick tutorial not ok BODY : i new a indel.html file, and hit 'html:5_', and then '<c-y>,' but it shows: <html5:_></html5:_> not the tutorial as told. html <!doctype html> <html lang= en > <head> <meta charset= utf-8 > <title></title> </head> <body> _ </body> </html>

@@ -1,0 +1,1 @@
+ URL : "https://github.com/francescosche/Progetto-RC/issues/7" TITLE : integrazione con rabbitmq BODY : bisogna aggiungere una funzione che implementi mqtt _rabbitmq_ , in modo da gestire le code, come richiesto dalle specifiche del progetto.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/opendata-stuttgart/metaEFA/issues/10" TITLE : 502 on efa-api.asw.io BODY : metaefa is running fine on my local machine, but i get an 502 on the hosted version https://efa-api.asw.io any chance to fix this? :-

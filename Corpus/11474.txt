@@ -1,0 +1,1 @@
+ URL : "https://github.com/StefanMcCready/stefanmccready.co.uk/issues/19" TITLE : heroku app setup BODY : i want to be able to setup a pipeline to ensure nothing gets through to the production app that shouldn't do.

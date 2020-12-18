@@ -1,0 +1,1 @@
+ URL : "https://github.com/willowtreeapps/spruce-ios/issues/91" TITLE : skip some views BODY : hi, didn't find the way to skip some subviews from animating. is possible somehow? for example in a collectionview how do i skip the first row to animate? thanks so much, it's an awesome library by the way.

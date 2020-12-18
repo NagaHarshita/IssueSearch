@@ -1,0 +1,1 @@
+ URL : "https://github.com/kelvintaywl/banners/issues/3" TITLE : sanitize user inputs BODY : need to ensure that user inputs are santized e.g., pg_escape_string before persisting to the database

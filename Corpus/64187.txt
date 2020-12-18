@@ -1,0 +1,1 @@
+ URL : "https://github.com/paulcbetts/VirtualDesktopPlus/issues/15" TITLE : fix window focus issues BODY : we're still getting scenarios where we're picking the desktop as our window to focus, probably because our heuristic sucks, we need to traverse the windows in z-order

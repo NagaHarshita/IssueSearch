@@ -1,0 +1,1 @@
+ URL : "https://github.com/ARTEIACO/migrations-flow/issues/2" TITLE : make migrations generic BODY : make migrate.js script accept some config file or username passed as an argument in running the script

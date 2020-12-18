@@ -1,0 +1,1 @@
+ URL : "https://github.com/geektimecoil/react-native-onesignal/issues/349" TITLE : conflict with third party BODY : hi, i met a problem that onesignal has conflict issue with third parties what i used. one is bugsnag, the other one is rnshare. did anyone had met this issue and got some solutions?

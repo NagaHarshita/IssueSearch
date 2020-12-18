@@ -1,0 +1,1 @@
+ URL : "https://github.com/initbar/hmdc/issues/2" TITLE : pattern not compiling BODY : the following pattern does not output constructed matrix: bash compiles a	b a +3b +4e @f does not compile a	b a +3b|+3c d +4e @f

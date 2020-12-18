@@ -1,0 +1,1 @@
+ URL : "https://github.com/fvumbaca/ArtBox/issues/4" TITLE : image url support BODY : download and save images from urls. ?? optional to just save the url, and load the image from the web each time to save space ??

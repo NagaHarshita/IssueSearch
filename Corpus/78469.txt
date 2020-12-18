@@ -1,0 +1,1 @@
+ URL : "https://github.com/appium/java-client/issues/706" TITLE : protocol handshake issue BODY : description org.openqa.selenium.remote.protocolhandshake createsession info: detected dialect: oss exception in thread main java.lang.nosuchmethoderror: org.openqa.selenium.support.ui.webdriverwait.until lcom/google/common/base/function; ljava/lang/object;

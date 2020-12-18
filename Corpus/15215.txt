@@ -1,0 +1,1 @@
+ URL : "https://github.com/Jumpscale/zerorobot/issues/16" TITLE : create zrobot cli BODY : a cli needs to be create to interact with a zerorobot from the terminal. todo: define interface and possible commands

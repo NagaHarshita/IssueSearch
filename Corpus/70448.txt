@@ -1,0 +1,1 @@
+ URL : "https://github.com/Frames-Proj/frames/issues/88" TITLE : watch page improvements BODY : running list of things to do: - paginate comments - support nested comments - prevent user from submitting blank comment or comment whilst not logged in

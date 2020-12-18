@@ -1,0 +1,1 @@
+ URL : "https://github.com/reheda/Tpad/issues/5" TITLE : throw in coalesce BODY : expr: coalesce a 3366 .value.extractdecimals .last , throw error msg: you shoudn't throw like this: 'coalesce .last , throw ' valid stucture: 1 'throw' 2 'throw new correctclassname '

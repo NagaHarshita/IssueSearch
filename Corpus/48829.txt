@@ -1,0 +1,1 @@
+ URL : "https://github.com/Monty/WhatsStreamingToday/issues/10" TITLE : sort switch backwards BODY : sorted & unsorted work fine, but i got the switch backwards. -u should be unsorted not the other way around.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/redox-os/ion/issues/574" TITLE : crash with large git-show BODY : for i in $ seq 2000 ; echo 12345678901234567890 >> test; end git init && git add test && git commit -am init git show exiting from git show crashes with ion: process ended by signal . scrolling to the bottom before exiting does not crash.

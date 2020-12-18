@@ -1,0 +1,1 @@
+ URL : "https://github.com/JohnDeere/JDLinkMachineDataAPI-OAuth-Java-Client/issues/2" TITLE : remove json support BODY : we need to switch the sample app over to xml.

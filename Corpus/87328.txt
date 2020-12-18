@@ -1,0 +1,1 @@
+ URL : "https://github.com/bugsnag/bugsnag-js/issues/244" TITLE : known performance issues? BODY : i'm debugging slowness in our application and as soon i replaced the bugsnag script url with an url pointing to an empty script the app performance dramatically improved. are you aware of any performance bottlenecks or issues with this script and react applications?

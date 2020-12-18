@@ -1,0 +1,1 @@
+ URL : "https://github.com/phonegap/phonegap-plugin-barcodescanner/issues/460" TITLE : ios gs1 is not recognize BODY : does plugin support gs1 data bar? so far what's working in gs1 databar is the is gs1-128. to test this barcodes just go to this barcode generator http://barcode.tec-it.com/en/rss14?data=0123456789012 . thanks, moiz

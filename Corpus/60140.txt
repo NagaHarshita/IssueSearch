@@ -1,0 +1,1 @@
+ URL : "https://github.com/max-barry/google-drive-cms/issues/9" TITLE : why request failed ??? BODY : request failed for https://mygoocms.firebaseio.com/posts.json returned code 400. truncated server response: { error : invalid data; couldn't parse key beginning at 1:58. key value can't be empty or contain $ / or . } use mutehttpexceptions option to examine full response .

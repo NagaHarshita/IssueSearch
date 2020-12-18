@@ -1,0 +1,1 @@
+ URL : "https://github.com/cmseaton42/Jukebox/issues/1" TITLE : no .env example included BODY : hey we've tried to install this and found we had to go through the codebase to figure out what .env variables it was looking for : any chance of including an example .env ?

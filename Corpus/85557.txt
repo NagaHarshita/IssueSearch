@@ -1,0 +1,1 @@
+ URL : "https://github.com/nens/ars-globe-visualisation/issues/1" TITLE : fetch not supported in ie BODY : the fetch api is used to query the api but no polyfill is used to cover ie. see https://github.com/nens/ars-globe-visualisation/blob/master/src/components/app.jsx l162 can be solved easily by including this polyfill https://github.com/matthew-andrews/isomorphic-fetch .

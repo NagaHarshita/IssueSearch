@@ -1,0 +1,1 @@
+ URL : "https://github.com/naftulikay/aws-env/issues/3" TITLE : publish to pypi BODY : eggs and source distributions for all python versions we support should be published to pypi and a signed set of packages should be produced and hosted here on the releases page. - python 2.7 - python 3.4 - python 3.5 - python 3.6?

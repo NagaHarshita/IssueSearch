@@ -1,0 +1,1 @@
+ URL : "https://github.com/ivanvermeyen/laravel-google-drive-demo/issues/6" TITLE : error when upload BODY : i have follow your instructions but i have still error message like this { error : { errors : { domain : global , reason : required , message : login required , locationtype : header , location : authorization } , code : 401, message : login required } }

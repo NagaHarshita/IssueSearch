@@ -1,0 +1,1 @@
+ URL : "https://github.com/attaswift/BigInt/issues/27" TITLE : xcode 9, swift 3 BODY : the new version 3.0.0 of bigint doesn't compile on xcode 9, are there any chance to support swift 3.2 ?

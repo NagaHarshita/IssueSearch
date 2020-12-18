@@ -1,0 +1,1 @@
+ URL : "https://github.com/Ruby-IF081/heroes_team_app/issues/64" TITLE : create tab analytics BODY : using chartkick show charts: - companies created by date for last 3 months - top 10 active users of current tenant by sign_in_count - top 10 active users by number of companies created - top 10 popular industries for companies

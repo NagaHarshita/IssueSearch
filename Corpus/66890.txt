@@ -1,0 +1,1 @@
+ URL : "https://github.com/ajshort/vscode-latex-preview/issues/12" TITLE : not opening preview.pdf BODY : at each saving / update, the compilation occurs there: appdata\local\temp\tmp-1912abxy3tgja2w1\preview.pdf but nothing is displayed in the preview windows since recent vscode update, 1.9.0 date 20017-01-27t10:46:43.625z

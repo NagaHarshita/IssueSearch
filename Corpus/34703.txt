@@ -1,0 +1,1 @@
+ URL : "https://github.com/start-angular/ani-angular-2/issues/14" TITLE : connecting to an api BODY : how do i connect to an api based on the string value given in the environment config? trying to create a login http request for token authentication.

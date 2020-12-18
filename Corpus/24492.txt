@@ -1,0 +1,1 @@
+ URL : "https://github.com/laamella-gad/parameter-source/issues/23" TITLE : support data sizes BODY : like 10kb 123gb etc. case insensitive b and b are both byte and no extension means bytes.

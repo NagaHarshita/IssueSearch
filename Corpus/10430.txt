@@ -1,0 +1,2 @@
+ URL : "https://github.com/voidlinux/void-packages/issues/5713" TITLE : change dunst src BODY : dunst has been opened to a group and is now frequently updated again: https://github.com/dunst-project/dunst template is still from knopwob
+https://github.com/voidlinux/void-packages/blob/master/srcpkgs/dunst/template

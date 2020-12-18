@@ -1,0 +1,1 @@
+ URL : "https://github.com/adventistchurch/alps/issues/232" TITLE : link colors in tables BODY : when links are presented in a table, the links, aren't colored or underlined. the a styles should be extended to include href's inside a table. ! 2017-11-13 at 3 08 pm https://user-images.githubusercontent.com/132864/32746779-b75fbd04-c884-11e7-92cc-d978091875d9.png

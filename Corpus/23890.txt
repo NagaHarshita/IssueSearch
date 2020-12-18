@@ -1,0 +1,1 @@
+ URL : "https://github.com/SIGSEV/KeyCode/issues/12" TITLE : reset test ability BODY : not sure because it might conflict with system commands, but having something to prevent us from <kbd>ctrl</kbd> + <kbd>r</kbd> the page manually could be neat.

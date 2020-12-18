@@ -1,0 +1,1 @@
+ URL : "https://github.com/ajgb/crypt-nacl-sodium/issues/5" TITLE : aes256-gcm does not work BODY : when i try to use this module, it says aes256-gcm is not supported by this cpu.

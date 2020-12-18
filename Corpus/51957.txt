@@ -1,0 +1,1 @@
+ URL : "https://github.com/aspnet/Universe/issues/650" TITLE : buildgraphof is broken BODY : currently when you try to use the /p:buildgraphof property you'll get a failure when it doesn't find the packages for the given repos dependencies within universe. we should fix this scenario to make it easier for people to fix universe-only problems.

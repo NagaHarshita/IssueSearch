@@ -1,0 +1,1 @@
+ URL : "https://github.com/tomchadwin/qgis2web/issues/446" TITLE : allow export over ssh BODY : now exporting to an ftp server is implemented. it will be good to add also the same for ssh. thanks @nyalldawson

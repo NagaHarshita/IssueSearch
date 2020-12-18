@@ -1,0 +1,1 @@
+ URL : "https://github.com/Adslot/adslot-ui/issues/664" TITLE : fix eslint on docs BODY : eslint is not running on the docs. whilst we don't care about coverage on these files it'd be nice to have syntax consistency until we can get prettier in. - exclude examples because of formatting issues.

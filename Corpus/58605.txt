@@ -1,0 +1,1 @@
+ URL : "https://github.com/magento/magento2devbox-web/issues/38" TITLE : speed up unison checks BODY : in check-unison.sh the loop will sleep for 10 seconds. this is a long time to wait for file changes to be picked up. was there a particular reason for 10 seconds? i'd propose dropping it as low as possible 1-2 seconds?

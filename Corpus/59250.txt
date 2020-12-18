@@ -1,0 +1,1 @@
+ URL : "https://github.com/UNFPAInnovation/GetIn_Mobile/issues/54" TITLE : title for mapping_form BODY : title attribute for the mapping form should probably be something more user friendly than mappng_form . the value can be changed without affecting any references in the database since those use the uuid.

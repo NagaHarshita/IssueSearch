@@ -1,0 +1,1 @@
+ URL : "https://github.com/ekmett/profunctors/issues/51" TITLE : why there is star BODY : does it has different instances than kleisli ? we should clarify that in haddocks.

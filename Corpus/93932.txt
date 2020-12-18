@@ -1,0 +1,1 @@
+ URL : "https://github.com/instrumentisto/mol-app-example/issues/8" TITLE : automatic locales building BODY : mam builder supports locales building from modules. you can add files with names like bench.locale=ru.json https://github.com/eigenmethod/mol/blob/master/bench/bench.locale%3dru.json , that will be bundled to web.locale=ru.json

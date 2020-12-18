@@ -1,0 +1,1 @@
+ URL : "https://github.com/juliangruber/url-to-screenshot/issues/21" TITLE : getting error ssl BODY : phantomjs --ignore-ssl-errors=true --ssl-protocol=sslv3 how to fix that error.

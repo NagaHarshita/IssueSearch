@@ -1,0 +1,1 @@
+ URL : "https://github.com/DanThrane/tekvideo.sdu.dk/issues/131" TITLE : improve db performance BODY : quite a lot of controllers have a tendency of firing off a linear amount of db reads. these are really bad for performance, let's fix those :-

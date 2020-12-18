@@ -1,0 +1,1 @@
+ URL : "https://github.com/vinkla/laravel-gitlab/issues/8" TITLE : php 5 compatibility BODY : hi, just noticed that the serviceprovider has a return type declaration, which is a php7 feature. could this possibly be reverted? laravel itself is still supporting php5.6 for now . will currently revert to 2.5.5. thanks, sven

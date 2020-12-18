@@ -1,0 +1,1 @@
+ URL : "https://github.com/dallaylaen/potracheno/issues/6" TITLE : cyrillic tag multiplies BODY : steps to reproduce checkout the devel version post and issue with cyrillic tag тест see the issue expected result tag appears once actual results tag appears multiple times need fix

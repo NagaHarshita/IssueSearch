@@ -1,0 +1,1 @@
+ URL : "https://github.com/jgm/peg-markdown/issues/40" TITLE : indentation level is wrong BODY : this input - foo - bar baz results in this output: <ul> <li><p>foo</p> <ul> <li><p>bar</p></li> </ul> <p>baz</p></li> </ul> baz should be in the inner list, not outer.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ashwinkm/Boomerang-app-support/issues/43" TITLE : wrong data shown in tabs BODY : when i select an existing request, it sends with no authentication, but the authentication tab is showing data filled in. i've also had it show the request data preview when i've had body selected

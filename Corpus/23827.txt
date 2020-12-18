@@ -1,0 +1,1 @@
+ URL : "https://github.com/ianstormtaylor/heroku-logger/issues/6" TITLE : remove trace level BODY : having both trace and debug seems superfluous. in 99% of cases you're never going to need to have that level of granularity in what you're doing i think. this also makes it match the browser's console levels better which people are very used to.

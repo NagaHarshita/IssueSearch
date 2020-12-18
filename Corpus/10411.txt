@@ -1,0 +1,1 @@
+ URL : "https://github.com/martinbean/bootstrap-3-card/issues/10" TITLE : card with header BODY : hello when i use card card with a header i got some wrong margin. i solved this by setting margin 0 at .card-header. you can see how it's looks like on web page. ! selection_001 https://user-images.githubusercontent.com/18144554/30740909-89e55b48-9f9b-11e7-9be1-bd04f5964d24.png

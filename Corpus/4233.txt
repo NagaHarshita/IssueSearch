@@ -1,0 +1,1 @@
+ URL : "https://github.com/ros-industrial-consortium/godel/issues/209" TITLE : automated mode BODY : we'd like to be able to run the system in a fully automated mode where it scans the cell, segments surfaces, and executes paths without operator intervention. we could do this through user interface automation or through adding a capability to the gui backend .

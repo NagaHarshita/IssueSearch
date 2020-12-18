@@ -1,0 +1,1 @@
+ URL : "https://github.com/cviebrock/eloquent-sluggable/issues/347" TITLE : define 'save_to' in model? BODY : since updating, i can no longer define the save_to in my model to define what field i want the slug to be on.

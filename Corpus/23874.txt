@@ -1,0 +1,1 @@
+ URL : "https://github.com/MalumaDiego/workshop2017/issues/13" TITLE : req 3 - historia 2 BODY : definición importancia : _alta_ prioridad : _70_ narrativa como : vendedor quiero : que el sistema me permita anular una factura de forma que : esta no afecte a la contabilidad. diseño descripción : base de datos : _ventas, anulacion_ven_

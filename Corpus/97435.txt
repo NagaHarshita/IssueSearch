@@ -1,0 +1,1 @@
+ URL : "https://github.com/qnikst/kbdd/issues/48" TITLE : gplv3+ or gplv2+ for kbdd. BODY : all almost source code files have headers for gplv2+, but copying file says gplv3+. please clarify it.

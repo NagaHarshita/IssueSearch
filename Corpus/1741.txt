@@ -1,0 +1,1 @@
+ URL : "https://github.com/SectorLabs/django-postgres-extra/issues/3" TITLE : extend .join BODY : - allow adding new joins rather than just mutating existing joins - support __gt etc. - ensure that it can be used with many-to-many relationships.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/lologarithm/netgen/issues/28" TITLE : id based on hash of struct BODY : use a hash of the name for the id of a message -- this will allow for the same object to be deserialized no matter what package imported it.

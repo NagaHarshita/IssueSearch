@@ -1,0 +1,1 @@
+ URL : "https://github.com/ncopiy/suricata_widget/issues/8" TITLE : cmb template fix BODY : if we aren't use the template and don't write something in the text field we can not checkout to some template to use it

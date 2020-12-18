@@ -1,0 +1,1 @@
+ URL : "https://github.com/jaagr/polybar/issues/715" TITLE : cmus module issue BODY : cmus-sh-new.zip https://github.com/jaagr/polybar/files/1254330/cmus-sh-new.zip i know it's user contributed, but i found an issue. when cmus is not playing music, errors occur. i've made a slightly more complex but easier to edit version. is a drop-in replacement for the old script.

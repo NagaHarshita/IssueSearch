@@ -1,0 +1,1 @@
+ URL : "https://github.com/ekgame/storasbot/issues/3" TITLE : things to fix BODY : - allow to remove restricted players from trackers - change notification messages to custom embeds - change beatmap examiner ressage to custom embed - allow non-ascii characters in the database

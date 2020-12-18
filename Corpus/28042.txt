@@ -1,0 +1,1 @@
+ URL : "https://github.com/bghgary/glTF-Tools-for-Unity/issues/8" TITLE : export leaks memory BODY : a large chunk of memory is leaking on every export

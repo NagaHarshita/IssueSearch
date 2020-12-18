@@ -1,0 +1,1 @@
+ URL : "https://github.com/pivotal-cf/pcfdev/issues/210" TITLE : pcf dev start fails BODY : after cf dev start comes this message: dial tcp 127.0.0.1:62863: socket: ein ungültiges argument werde angegeben invalid argument given latest pcf dev and cf cli vbox 5.0.24 tries also 5.1.8

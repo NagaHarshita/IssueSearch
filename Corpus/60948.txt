@@ -1,0 +1,1 @@
+ URL : "https://github.com/WhiteHatCP/wrath-ctf-framework/issues/38" TITLE : add self-balancing mode BODY : every question starts at the same point value, and then drops be a certain increment based on the number of people who have solved a challenge. should be a toggle in the config.

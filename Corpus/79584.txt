@@ -1,0 +1,1 @@
+ URL : "https://github.com/MunifTanjim/minimo/issues/16" TITLE : social links not visible BODY : added following parameters to config.toml, but social links are not visible on this https://ribice.gitlab.io/blog/ page. hidesocialmenu = false author.social github = ribice is there anything else i need to add?

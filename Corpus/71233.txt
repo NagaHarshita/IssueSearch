@@ -1,0 +1,1 @@
+ URL : "https://github.com/perrig/scionlab/issues/6" TITLE : add a maximum sleep time BODY : fix sleep time to be max of c -> s and s -> c times + graceperiod

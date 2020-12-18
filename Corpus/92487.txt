@@ -1,0 +1,1 @@
+ URL : "https://github.com/wastaz/fable-redux/issues/2" TITLE : wrong link to react-redux BODY : hi your link to react-redux binding has been linked to react-redux library itself https://github.com/reactjs/react-redux , please amend that to https://github.com/wastaz/fable-reactredux . thanks.

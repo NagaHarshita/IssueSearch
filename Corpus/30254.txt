@@ -1,0 +1,1 @@
+ URL : "https://github.com/janastu/iihs_curation_dashboard/issues/80" TITLE : optimising db calls BODY : use of indexing caching request use of bulk get annos in case of anno for id ref: https://pouchdb.com/api.html bulk_get

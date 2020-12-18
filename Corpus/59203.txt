@@ -1,0 +1,1 @@
+ URL : "https://github.com/paulgibbs/behat-wordpress-extension/issues/152" TITLE : things to break in 1.0 BODY : only do this in master branch after all other changes for 1.0, as these'll be technically breaking and i'm not 100% confident we can safely remove these before then. rawwordpresscontext->spins -- remove.

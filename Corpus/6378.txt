@@ -1,0 +1,1 @@
+ URL : "https://github.com/adamcaudill/yawast/issues/115" TITLE : add dns command BODY : add a new command that only runs the dns checks.

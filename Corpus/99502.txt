@@ -1,0 +1,1 @@
+ URL : "https://github.com/salcode/ssh-into-local-by-flywheel/issues/3" TITLE : modify directory detection BODY : currently, if we're in the /app or /app/public directory on the host machine i.e. my mac , we do not properly __cd__ into the correct directory inside the guest machine.

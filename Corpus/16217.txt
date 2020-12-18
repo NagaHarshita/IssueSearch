@@ -1,0 +1,1 @@
+ URL : "https://github.com/FXServer-ESX/fxserver-es_extended/issues/11" TITLE : i have this error BODY : 893218 error running system event handling function for resource es_extended: citizen:/scripting/lua/scheduler.lua:41: failed to execute thread: citizen:/scripting/lua/messagepack.lua:830: missing bytes

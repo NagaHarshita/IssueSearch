@@ -1,0 +1,1 @@
+ URL : "https://github.com/everything2/everything2/issues/564" TITLE : get rid of nltext BODY : the nltext column of nodelet represents relying on a behavior that isn't feasible anymore. we need to grep it out of the repository and stop using it.

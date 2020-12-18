@@ -1,0 +1,1 @@
+ URL : "https://github.com/PixelVision8/GameCreator/issues/318" TITLE : fix tilemap parser BODY : tilemaps are not being calculated correctly. the gba demos have the wrong tilemap size and it's messing up collision. this may be because they are defaulting to a specific size so need to took into how to fix that.

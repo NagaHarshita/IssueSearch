@@ -1,0 +1,1 @@
+ URL : "https://github.com/tananaev/traccar/issues/3005" TITLE : error in md5 checksums BODY : while installing traccar-macos-3.10 in mac it shows an error called error in md5 checksums: d41d8cd98f00b204e9800998ecf8427e is different from bf7a8ddec10dc91618276bbeb1532592

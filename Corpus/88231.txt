@@ -1,0 +1,1 @@
+ URL : "https://github.com/hcronk/oco2_modis_vistool/issues/2" TITLE : multiple ground locations BODY : change ground location data type from a point to a list of points

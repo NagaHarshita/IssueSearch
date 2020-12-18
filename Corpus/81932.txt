@@ -1,0 +1,1 @@
+ URL : "https://github.com/ONSdigital/sdc-global-design-patterns/issues/19" TITLE : add 'table' to components BODY : take the tabular data style from ras and create a core component for wider use. add variant for 'data dense' - tbc

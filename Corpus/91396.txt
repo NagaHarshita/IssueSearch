@@ -1,0 +1,1 @@
+ URL : "https://github.com/almende/vis/issues/3735" TITLE : timeline: unbounded range BODY : hi, i would want to add unbounded range with no end. aks : when we put the value 'unbounded' on end properties, i want vis to draw a range with a start and an unlimited end, always drawing when user scroll on right. is it possible? thank's for this great lib

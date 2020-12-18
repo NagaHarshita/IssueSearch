@@ -1,0 +1,1 @@
+ URL : "https://github.com/cleverness/cleverness-to-do-list-plugin/issues/18" TITLE : polish completed date BODY : hi, i think there's a problem in displaying completed_date as a polish date format. i set a default date format to l, j f y and it is displayed in polish language as creation date, but in english in completed date.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/wakatime/vim-wakatime/issues/48" TITLE : no catch activity BODY : current master https://github.com/wakatime/vim-wakatime/commit/df845c3709ec3f8292e1a5abae5eb2bbf931d3e9 branch can't catch the code activity. i do not yet debug, but test on https://github.com/wakatime/vim-wakatime/commit/eb862c880a1ddfc673c5961b56ca3bdeea571edc works fine.

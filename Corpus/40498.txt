@@ -1,0 +1,1 @@
+ URL : "https://github.com/ashhitch/vs-code-css-comments/issues/6" TITLE : unknown language jsx BODY : i get this out of the blue: /ide/microsoft vs code/resources/app/out/vs/workbench/workbench.main.js:9 users\ \.vscode\extensions\ashhitch.vs-code-css-comments-1.0.3 : unknown language in contributes.vs-code-css-comments.language . provided value: jsx

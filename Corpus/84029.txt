@@ -1,0 +1,1 @@
+ URL : "https://github.com/2graphic/sinap-ide/issues/197" TITLE : continuous numeric inputs BODY : it would be really cool if you could have a slider input safe for circuit design where you control the input voltage and as you slide it you can dynamically watch voltages at probe points change

@@ -1,0 +1,1 @@
+ URL : "https://github.com/gimli-org/gimli/issues/59" TITLE : support python 3.6 BODY : py3.6 is making its way into the scientific community and is already the new standard for the anaconda/miniconda distributions. we should test the manual build/curl script with py3.6 and provide conda py3.6 packages for pygimli 1.0.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/hepcat72/codonHomologizer/issues/8" TITLE : generate usage table BODY : create a histogram containing the codons, their original usages, and the number of times they were included in each output sequence. make this a suffix option for a usage histogram.

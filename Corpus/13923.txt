@@ -1,0 +1,1 @@
+ URL : "https://github.com/hacktoberfest17/programming/issues/1777" TITLE : a 32 bit register BODY : it's a verilog code which uses 32 memory cells that stores 32 bit data. basically each memory cell is a master-slave d flip flop.

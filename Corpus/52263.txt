@@ -1,0 +1,1 @@
+ URL : "https://github.com/mickael-kerjean/nuage/issues/4" TITLE : change react to preact BODY : just for philosophical reasons as react is a facebook product. i digged a bit there and it seems some libraries nuage is using will be causing issues.

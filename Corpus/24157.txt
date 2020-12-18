@@ -1,0 +1,1 @@
+ URL : "https://github.com/gregsdennis/Manatee.Json/issues/117" TITLE : set up build on pr BODY : currently the build i use is on myget, which is fine for packaging and release. i think i may need to set something up so that it can build on prs as well. it would be nice to know that tests pass before i merge code.

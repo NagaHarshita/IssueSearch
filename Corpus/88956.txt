@@ -1,0 +1,1 @@
+ URL : "https://github.com/diegomartin010/100tifiko/issues/31" TITLE : patán rompió la agenda. BODY : básicamente antes los eventos se cargaban sin ningún problema, ahora al cambiar de mes en la agenda, no se muestran los eventos. la carga de eventos en la agenda solo funciona cuando recargamos la página, pero solo se muestra el mes actual.

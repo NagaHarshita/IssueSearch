@@ -1,0 +1,1 @@
+ URL : "https://github.com/prism/Prism/issues/75" TITLE : item use tracking BODY : i'm trying to use this on a whitelisted modded server but it can't track throwables, it would be really cool if tracking item uses was an option because i want to keep no items banned but prism can't track throwable explosives, it just logs the blocks they break as broken by the environment

@@ -1,0 +1,1 @@
+ URL : "https://github.com/rhalp10/Calculator/issues/1" TITLE : spliting math operator BODY : all input data in 1 input box must be split and parse into int data type while operator must use to solve the converted value,

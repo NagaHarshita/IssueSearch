@@ -1,0 +1,1 @@
+ URL : "https://github.com/crystal-lang/sublime-crystal/issues/17" TITLE : removes lines on save BODY : i don't know if i am the only one experiencing this, but when i press save the plugin removes all the empty lines in my program.. the indentation is useful. but i want some whitespace between some of my code blocks. does anyone have a solution for this?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/camptocamp/terraboard/issues/6" TITLE : add a compare view BODY : add a compare view to compare two versions of a given path. this means adding an api/compare/<path>?from=<v1>&to=<v2> api point returning a json of the processed comparison, and displaying the result in a new compare/<path>?from=<v1>&to=<v2> page.

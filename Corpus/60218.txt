@@ -1,0 +1,1 @@
+ URL : "https://github.com/edsperanto/stratospeer/issues/145" TITLE : write to file using fs BODY : instead of electron or redux, just write file using fs.writefile and give it a local path. hopefully that will follow the build

@@ -1,0 +1,1 @@
+ URL : "https://github.com/rmhsawyer/EC601-Final-Project/issues/27" TITLE : emotion 2 not used BODY : https://github.com/rmhsawyer/ec601-final-project/blob/874055bd07443f7a51d2ca022c200a1cf506b154/tfdroid-master/emoji.py l72 you can delete this line . its declared and not returned

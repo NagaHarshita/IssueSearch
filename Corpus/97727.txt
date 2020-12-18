@@ -1,0 +1,1 @@
+ URL : "https://github.com/eureka2/ab-datepicker/issues/22" TITLE : how to disable datepicker? BODY : having trouble disabling the datepicker here. i am able to disable the input field but the calender glyphicon will still open the picker when click on the calender glyphicon. basically, i want to calender glyphicon is not clickable also disable the input filed. is this possible?

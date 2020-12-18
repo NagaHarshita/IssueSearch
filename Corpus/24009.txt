@@ -1,0 +1,1 @@
+ URL : "https://github.com/ahmetalpbalkan/go-linq/issues/64" TITLE : rxgo + go-linq = ? BODY : https://github.com/jochasinga/rxgo provides reactive extensions for go. i wonder how it can be combined with go-linq and if one can augment the other. leaving this issue around here to see if anyone can come up with something creative.

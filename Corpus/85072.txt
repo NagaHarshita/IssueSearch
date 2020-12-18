@@ -1,0 +1,1 @@
+ URL : "https://github.com/droidkfx/KeepMyTime/issues/5" TITLE : enforce file log location BODY : currently, the log file exists wherever the shell executes from. this needs to change to be localized by settings

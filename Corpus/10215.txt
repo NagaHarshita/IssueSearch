@@ -1,0 +1,1 @@
+ URL : "https://github.com/arzon4dt/bot-experiment/issues/2" TITLE : bots not picking BODY : bots not picking with the latest changes on hero_selection.lua, i modify the values of maxplayerid but still the same; bots not picking, i got back to the previous version. regards

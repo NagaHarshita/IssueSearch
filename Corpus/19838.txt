@@ -1,0 +1,1 @@
+ URL : "https://github.com/Guilouf/AgenDjang/issues/2" TITLE : all day event drop BODY : when an event is dropped as an all day, the change is not posted. also, the even have to be droped to another day to function properly again after beeing in all day zone.

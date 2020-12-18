@@ -1,0 +1,1 @@
+ URL : "https://github.com/facebook/reason/issues/929" TITLE : underscore in numbers BODY : ocaml and reason supports underscores in numbers - usually used for readability - 3_000_000 . when you refmt, these underscores get removed. is this intentional? it seems like these underscores should be preserved if possible to maintain readability and intent.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/BlogoText/blogotext/issues/247" TITLE : lecteur de flux rss cassé BODY : salut ! depuis la mise à jour vers blogotext 3.7 mon lecteur de flux rss n'affiche plus rien, n'actualise plus rien et ne supprime plus rien. ne serait-ce pas ma version de libxml 2.7.6 qui ne serait plus compatible ?

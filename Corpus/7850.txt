@@ -1,0 +1,1 @@
+ URL : "https://github.com/jas-chen/atom-live-server/issues/75" TITLE : just a question BODY : there are a way to set it up with php? actually i can work with html files, but when i try to run php files ask me for save the file, and i know that means the server it's not configured to run php files.

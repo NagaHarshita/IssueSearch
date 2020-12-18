@@ -1,0 +1,1 @@
+ URL : "https://github.com/containous/traefik/issues/1460" TITLE : bad v1.2.x changelog BODY : https://github.com/containous/traefik/pull/784 is missing from change changelog.md . /cc @lewisheadden

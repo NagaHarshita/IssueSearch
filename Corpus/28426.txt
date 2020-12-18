@@ -1,0 +1,1 @@
+ URL : "https://github.com/NetoDevel/cli-spring-boot-scaffold/issues/24" TITLE : generate html files BODY : default is thymeleaf. generate thymeleaf pages.. generate angular pages.. - index.html - form.html - view.html spring scaffold -n user name:string -t thymeleaf or angular

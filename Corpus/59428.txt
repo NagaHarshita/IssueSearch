@@ -1,0 +1,1 @@
+ URL : "https://github.com/esl/MongooseIM/issues/1331" TITLE : typos in documentation BODY : mongooseim version: latest there are lots of typos in documentation like > matches inifnity or positive integer, default: 30 : maxmimum search results to be returned to the user. how can i correct them sometime i want to do so ^_^ ?

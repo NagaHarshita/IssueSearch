@@ -1,0 +1,1 @@
+ URL : "https://github.com/krakenjs/swaggerize-hapi/issues/71" TITLE : bump up version BODY : would it be possible to bump up the version to account for this commit https://github.com/krakenjs/swaggerize-hapi/commit/b42dde37ff598b189408e7f8716ce8655169a749 ? anyone using yarn, node 5+, and swaggerize-hapi gets an error.

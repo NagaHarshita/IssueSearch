@@ -1,0 +1,1 @@
+ URL : "https://github.com/lee-dohm/language-generic-config/issues/10" TITLE : new highlight blocks BODY : hello, would it be possible to highlight text between or {} as some configuration files use it defaults also text before and after an = sign like sendto = root

@@ -1,0 +1,1 @@
+ URL : "https://github.com/matrix-hacks/matrix-puppet-facebook/issues/27" TITLE : two factor authentication BODY : i have tfa enabled on facebook and that seems to not be handled at all when logging in.

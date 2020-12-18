@@ -1,0 +1,1 @@
+ URL : "https://github.com/sapcc/openstack-audit-middleware/issues/10" TITLE : audit mapping for neutron BODY : provide a neutron_audit_map.yaml to create audit events from neutron calls. requires 9

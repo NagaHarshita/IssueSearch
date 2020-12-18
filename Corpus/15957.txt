@@ -1,0 +1,1 @@
+ URL : "https://github.com/andresriancho/w3af/issues/16101" TITLE : getting pip error BODY : hi, i am getting we recommend you install pip before continuing. http://www.pip-installer.org/en/latest/installing.html error on running ./w3af_console however pip is already installed and i can verify that by running which pip

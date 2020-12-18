@@ -1,0 +1,1 @@
+ URL : "https://github.com/Johnny850807/Coding-GYM/issues/9" TITLE : max : 終極密碼 建議 BODY : 1 命名毫無章法 身為一個程式設計師 你自己能容忍嗎= =+ 類別一律首字大寫 屬性函數一律小寫 !! 2 繼承的涵義 = is a 玩家 並不是 一個 ai 玩家不應該繼承ai 你的關係圖 有點不具可讀性 真正的抽象類別是 player 大家都是玩家 只是有些是人類 有些是ai 3 為啥程式碼有些地方跟我那麼像xdddddddddddddddddddddddd

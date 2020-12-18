@@ -1,0 +1,1 @@
+ URL : "https://github.com/RobertFont/AlphaProject/issues/50" TITLE : add a farm animation BODY : add an animation to the farm, that indicates when the farm is working, the wheat grows slowly and the windmill blades rotate. expected result: _an animation made by code in farmbehaviour.cs https://github.com/robertfont/alphaproject/blob/master/assets/scripts/farmbehaviour.cs ._

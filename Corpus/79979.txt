@@ -1,0 +1,1 @@
+ URL : "https://github.com/HaxeFoundation/dox/issues/225" TITLE : support inline functions BODY : the dox seems to omit inline functions, is there a way to include them as normal functions? / this function will be omitted in documentation. / public inline function test1 { // do some important stuff ... }

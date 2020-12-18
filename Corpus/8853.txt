@@ -1,0 +1,1 @@
+ URL : "https://github.com/ray-project/ray/issues/772" TITLE : segfault on osx BODY : the following simple code leads to a segfault on osx. import ray ray.init ray.put k i do see the builds passing so it may be a user-specific issue.

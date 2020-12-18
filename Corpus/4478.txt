@@ -1,0 +1,1 @@
+ URL : "https://github.com/Nurrl/LocaleKeyboard.js/issues/37" TITLE : danish: alt gr BODY : hello, all alt gr symbols doesn't work. example: alt gr + 4 = $ but in this code: alt gr + 4 = 4

@@ -1,0 +1,1 @@
+ URL : "https://github.com/metrue/fx/issues/108" TITLE : api/google/ and gitignore BODY : with commit https://github.com/metrue/fx/commit/5b233491f032aca176b38be6d88fc05e3a1be09b the makefile was enhanced to clone the google apis. these files will be visible in git status. is there an entry in gitignore missing?

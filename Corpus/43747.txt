@@ -1,0 +1,1 @@
+ URL : "https://github.com/iqrfsdk/iqrf-daemon-webapp/issues/9" TITLE : delete iqrf app level BODY : delete iqrf app level and leave on the main dashboard send raw iqrf packet. this way we go straight to the macros page from main dashboard.

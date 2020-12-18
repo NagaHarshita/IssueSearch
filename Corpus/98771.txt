@@ -1,0 +1,1 @@
+ URL : "https://github.com/bgryszko/react-native-circular-slider/issues/22" TITLE : layout broken with rn 0.48 BODY : using the example code or any custom implementation the slider displays like this: ! simulator screen shot - iphone 8 - 2017-10-04 at 17 30 43 https://user-images.githubusercontent.com/616956/31187465-f17f5e60-a929-11e7-9fce-2ae72eff432c.png

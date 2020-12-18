@@ -1,0 +1,1 @@
+ URL : "https://github.com/emonney/QuickApp/issues/68" TITLE : roles cannot be empty BODY : 1 login as admin and create a new role name: usermanager with only the user permissions checked 2 create a new user manager and asign it the new usermanager role 3 login with the new manager user and try to create a new user on save it will show an error roles cannot be empty

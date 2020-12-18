@@ -1,0 +1,1 @@
+ URL : "https://github.com/tightenco/jigsaw/issues/106" TITLE : jigsaw build and watch BODY : do we always use jigsaw build every time we change something in blade files? do we have option like watching the changes and build it automatically? ex: jigsaw watch

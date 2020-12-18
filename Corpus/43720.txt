@@ -1,0 +1,1 @@
+ URL : "https://github.com/Laralum/Laralum/issues/5" TITLE : decoupling the assets BODY : i noticed in https://github.com/laralum/laralum/blob/master/src/views/layouts/master.blade.php that it directly links to gitcdn for many of the assets, why not include this directly into the package to make it customization? perhaps this is already an item on your todo list 😄

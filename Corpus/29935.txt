@@ -1,0 +1,1 @@
+ URL : "https://github.com/flant/loghouse/issues/36" TITLE : negation in queries BODY : sometimes need to use global negation in queries like not expr1 and expr2

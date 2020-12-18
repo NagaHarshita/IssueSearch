@@ -1,0 +1,1 @@
+ URL : "https://github.com/sugarcrm/thorn/issues/149" TITLE : lint fails on fresh clone BODY : bash % npm install /users/rhogg/src/thorn/tests/metadata-fetcher.js 20:35 error unable to resolve path to module '../dist/metadata-fetcher.js' import/no-unresolved the reason is that the dist files aren't built yet, so we are referencing something that doesn't exist.

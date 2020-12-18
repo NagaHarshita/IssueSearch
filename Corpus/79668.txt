@@ -1,0 +1,1 @@
+ URL : "https://github.com/rintoj/chai-spec-generator/issues/1" TITLE : spec file not generating BODY : vs code: 1.18.1 version chai-spec-generator: 0.4.0. i am not getting any context option to generate component test in vs code. i have tried ctrl+m and ctrl+shift+p and chose generate test spec . none of these worked. could you please guide me if i am missing anything here?

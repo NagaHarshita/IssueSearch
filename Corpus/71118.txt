@@ -1,0 +1,1 @@
+ URL : "https://github.com/JuliaPraxis/Naming/issues/4" TITLE : a question about acronym BODY : can you explain why for package, module or type names with an initial acronym write the acronym in uppercase then use camelcase .

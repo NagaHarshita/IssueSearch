@@ -1,0 +1,1 @@
+ URL : "https://github.com/Foxboron/devtools-repro/issues/7" TITLE : handle existing snapshot BODY : create a snapshot of '/mnt/msata/repro/root' in '/mnt/msata/repro/build1/root' error: cannot snapshot '/mnt/msata/repro/root': file exists this probably needs a bash trap because the build might fail or the script might fail and we would like to clean up nicely afterwards.

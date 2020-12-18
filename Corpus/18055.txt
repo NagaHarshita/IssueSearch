@@ -1,0 +1,1 @@
+ URL : "https://github.com/xogroup/union/issues/36" TITLE : setup ci services BODY : things to do: - decide on a ci service. some options: - circle ci - ~~travis~~ i chose circle because: - it took less than 10 minutes to set up - is used by other xo projects - create pull request build

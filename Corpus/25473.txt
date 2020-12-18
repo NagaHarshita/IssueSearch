@@ -1,0 +1,1 @@
+ URL : "https://github.com/SpongePowered/SpongeForge/issues/1416" TITLE : /tellraw to console BODY : could you make it possible to /tellraw something to the console only? like tellraw @c {\ text\ :\ for admin overview in log and live console\ ,\ color\ :\ gold\ } @c or - for the console.

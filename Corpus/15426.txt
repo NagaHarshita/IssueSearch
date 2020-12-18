@@ -1,0 +1,1 @@
+ URL : "https://github.com/rackerlabs/ebs_snapper/issues/45" TITLE : don't be so noisy BODY : send sns notifications to a different topic.

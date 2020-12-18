@@ -1,0 +1,1 @@
+ URL : "https://github.com/renatomarinho/laravel-gitscrum/issues/189" TITLE : error on showing sprint BODY : errorexception in helpers.php line 532: htmlspecialchars expects parameter 1 to be string, object given view: {path to project}/resources/views/sprints/show.blade.php

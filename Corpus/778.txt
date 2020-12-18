@@ -1,0 +1,1 @@
+ URL : "https://github.com/novoda/simple-chrome-custom-tabs/issues/35" TITLE : min sdk 15 BODY : hi, i'm trying to implement your library but my app is for > 15 sdk while your library is for > 16 sdk. i have to use tools:overridelibrary= com.novoda.simplechromecustomtabs to force usage why don't you support all versions?

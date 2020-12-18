@@ -1,0 +1,1 @@
+ URL : "https://github.com/vphantom/pyriteview/issues/59" TITLE : broaden user selector BODY : do not filter user selector for a specific role, but instead offer users matching that role above those who don't.

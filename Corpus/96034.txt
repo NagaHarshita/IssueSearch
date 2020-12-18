@@ -1,0 +1,1 @@
+ URL : "https://github.com/thephpleague/flysystem-sftp/issues/45" TITLE : dsa and putty keys support BODY : flysystem-sftp depends on phpseclib, which already have a dsa implementation. there is any limitation preventing to update the phpseclib and using dsa?

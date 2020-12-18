@@ -1,0 +1,1 @@
+ URL : "https://github.com/openfl/lime/issues/959" TITLE : create harfbuzz bindings BODY : we should expose the harfbuzz api to haxe, similar to other native libraries we use

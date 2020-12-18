@@ -1,0 +1,1 @@
+ URL : "https://github.com/elkarte/Elkarte/issues/3034" TITLE : bbcode not disabled? BODY : maybe i do not understand how this works and it's not a mistake ... elk 1.1 http://.../index.php?action=admin;area=postsettings;sa=bbc i disable the bbcode and it is no longer in the editor, but it still works when viewing the topic!

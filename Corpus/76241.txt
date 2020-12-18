@@ -1,0 +1,1 @@
+ URL : "https://github.com/gitsense/insight/issues/11" TITLE : invalid permission error BODY : when using free gitsense server, private repo could be cloned and indexed successfully. however, when clicking master branch or analyze branches, nothing shows. console log has invalid permission. no read permission for github:xxx/yyy error message

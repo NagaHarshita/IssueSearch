@@ -1,0 +1,1 @@
+ URL : "https://github.com/ZuInnoTe/hadoopcryptoledger/issues/24" TITLE : drop support for jdk 7 BODY : jdk7 has been out of maintenance since a long time, hence we need to drop support for it. this also means we need to check new features of jdk8, such as lambdas for the spark examples in java, unsigned longs, and where applicable parallel collections

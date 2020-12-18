@@ -1,0 +1,1 @@
+ URL : "https://github.com/terascope/teraslice/issues/572" TITLE : log the job_id BODY : not having the job_id logged along with the ex_id makes it hard to search for things since some endpoints give you both and some only give you the job_id. we should add job_id into the logs.

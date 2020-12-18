@@ -1,0 +1,1 @@
+ URL : "https://github.com/hwdsl2/docker-ipsec-vpn-server/issues/43" TITLE : monitor vpn tunnel BODY : hi, is there a way to monitor the status of several l2tp channels programmatically? when several vpn clients are connected to the server, i need to detect in real-time when a client lost the vpn connection. thanks

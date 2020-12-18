@@ -1,0 +1,1 @@
+ URL : "https://github.com/sinnerschrader/BlueantJS/issues/2" TITLE : links in readme 404 BODY : all links inside the readme.md direct to a 404. please remove the links and define as path or use a full path to give better access to the resources. also there is a mention of web-inf/conf/axis2.xml which i could not find in this project.

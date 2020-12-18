@@ -1,0 +1,1 @@
+ URL : "https://github.com/getsentry/probot-report/issues/16" TITLE : ignore wip pull requests BODY : either by label or by wip in title

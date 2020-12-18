@@ -1,0 +1,28 @@
+ URL : "https://github.com/cldi/CanLink/issues/87" TITLE : missing university url BODY : the uri for groupe d'etudes pour la traduction automatique grenoble france could not be found to fix, comment below in the following format: http://dbpedia.org/resource/wikipedia_university_uri record:
+=ldr 01361cam a2200349 a 4500
+=001 9916778402511
+=005 20170330174911.0
+=008 950901s1995\\\ fca\\\\\b\\\\00000\fre\d
+=035 \\$a canfsm 1048794-01mun_inst
+=035 \\$a sirsi 76245820
+=035 \\$a ocolc 455852472
+=040 \\$anfsm$beng$cnfsm
+=043 \\$ae-fr---
+=100 1\$alingard, tammie diane,$d1968-
+=245 13$ala traduction assistée par ordinateur tao à grenoble /$cpar tammie diane lingard.
+=260 \\$c1995.
+=300 \\$axi, 164 leaves :$billustrations
+=336 \\$atext$btxt$2rdacontent
+=337 \\$aunmediated$bn$2rdamedia
+=338 \\$avolume$bnc$2rdacarrier
+=500 \\$arestricted until may 1996.
+=500 \\$atypescript.
+=502 \\$athesis m.a. --memorial university of newfoundland.
+=504 \\$abibliography: leaves 146-156.
+=530 \\$aalso available online.
+=535 \\$atext on p. 8 is incomplete.
+=610 20$amemorial university of newfoundland.$bdepartment of french and spanish$xdissertations.
+=650 \0$amachine translating$zfrance$zgrenoble.
+=710 2\$agroupe d'etudes pour la traduction automatique grenoble, france. =856 41$uhttp://collections.mun.ca/u?/theses2,125672
+=852 8\$822290401490002511$bcns$cmicroform$hmicro fiche 2707
+=852 8\$822290401510002511$bcns$ctheses$hthesis-request by author's name & title record file: aae2dabd46d79a7beaa73098c9f40941.mrc

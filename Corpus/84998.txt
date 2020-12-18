@@ -1,0 +1,1 @@
+ URL : "https://github.com/WoltLab/WCF/issues/2370" TITLE : editor: unsafe html issue BODY : clicking twice on the unsafe html buttons results in an empty source code box.

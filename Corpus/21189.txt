@@ -1,0 +1,1 @@
+ URL : "https://github.com/gojuno/composer/issues/59" TITLE : enhance test page. BODY : - increase font size on test name. - add line with green/red color. - remove label from device name. - redesign test duration. - print test name as page title.

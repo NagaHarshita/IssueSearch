@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/vscode/issues/24737" TITLE : terminal ui mess BODY : <!-- do you have a question? please ask it on http://stackoverflow.com/questions/tagged/vscode --> - vscode version: >1.11.0 - os version: win10 steps to reproduce: 1. open vscode 2. ctrl + show terminal ! http://chuantu.biz/t5/64/1492130566x2890171870.png

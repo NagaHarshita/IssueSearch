@@ -1,0 +1,1 @@
+ URL : "https://github.com/BytesClub/Rhythm/issues/2" TITLE : not working on my machine BODY : error log: defaultserviceprovider::requestservice : no service found for - org.qt-project.qt.mediaplayer libgl error: couldn't dlopen libudev.so.1 or libudev.so.0, driver detection may be broken. rhythm: ../../../../src/loader/loader.c:129: asserted_dlsym: assertion result' failed.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ComThings/PandwaRF/issues/8" TITLE : bug value in specan tab BODY : when you are in the specan tab, the start freq changes regularly for -1.275mhz which then indicates an error.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mitchelsellers/AvidyneFlightDataSplitter/issues/1" TITLE : remove non-flight entries BODY : when creating the output, if a particular power cycle does not contain any gps data it should be moved to a non-flight folder. this will help those looking to process flight only entries.

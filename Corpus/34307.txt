@@ -1,0 +1,1 @@
+ URL : "https://github.com/Storj/libstorj/issues/260" TITLE : cancel shard hashing BODY : add handle for cancelling shard hash. we currently wait for it to finish, which can take quiet a long time for large files

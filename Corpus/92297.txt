@@ -1,0 +1,1 @@
+ URL : "https://github.com/tkuanlun350/Tensorflow-SegNet/issues/8" TITLE : weighted loss for classes BODY : hi, thank you for sharing your code and helping us learn about segnet. 👍 . i had a small question. in the model.py file method: def cal_loss logits, labels , how is the array of the weights generated? thank you.

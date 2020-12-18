@@ -1,0 +1,1 @@
+ URL : "https://github.com/dotstrap/ansible-fish/issues/1" TITLE : add config support BODY : - add fisherman https://github.com/fisherman/fisherman support via this role or it's own role?

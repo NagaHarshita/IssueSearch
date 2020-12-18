@@ -1,0 +1,9 @@
+ URL : "https://github.com/jisenber/DEVolunteer/issues/8" TITLE : developer detail view BODY : system will provide a detail view of each developer. detail view will provide:
+- image
+- name
+- email
+- sites git hub, personal, etc - description
+- services offered
+- languages known
+- rating
+- contact for a quote button selection of the quote button will either launch native email client or will display contact form.

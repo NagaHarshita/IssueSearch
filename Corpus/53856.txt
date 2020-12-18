@@ -1,0 +1,1 @@
+ URL : "https://github.com/PistonDevelopers/find_folder/issues/10" TITLE : exclude .git directory BODY : the find_folder currently does not regard .git as a special directory. the ability to exclude certain directories from the search would be nice.

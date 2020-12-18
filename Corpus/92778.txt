@@ -1,0 +1,9 @@
+ URL : "https://github.com/PennyDreadfulMTG/perf-reports/issues/3769" TITLE : 500 error at /export/1483/ BODY : failed to execute select from _cache_card as c where 1 = 1 and 1 = 1 with because of 1146, table 'cards._cache_card' doesn't exist reported on decksite by logged_out
+--------------------------------------------------------------------------------
+request method: get
+path: /export/1483/?
+cookies: {}
+endpoint: export
+view args: {'deck_id': '1483'}
+person: logged_out
+user-agent: mozilla/5.0 compatible; ahrefsbot/5.2; +http://ahrefs.com/robot/ referrer: none

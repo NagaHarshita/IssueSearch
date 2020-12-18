@@ -1,0 +1,1 @@
+ URL : "https://github.com/yahoo/kafka-manager/issues/386" TITLE : don't use simpleconsumer BODY : https://github.com/yahoo/kafka-manager/blob/master/app/kafka/manager/actor/cluster/kafkastateactor.scala l393 this code is incompatible with a secured cluster old consumer api , which explains why people are getting: https://github.com/yahoo/kafka-manager/issues/368

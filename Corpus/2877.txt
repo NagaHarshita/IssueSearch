@@ -1,0 +1,1 @@
+ URL : "https://github.com/jrnewell/jmate/issues/1" TITLE : file not save BODY : the save path will direct to 127.0.0.1 not remote address for jmate, but rmate works fine.

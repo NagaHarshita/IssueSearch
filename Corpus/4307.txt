@@ -1,0 +1,12 @@
+ URL : "https://github.com/jecelyin/920-text-editor-v2/issues/1392" TITLE : bugreport null BODY : memory: 527 mb / 2694 mb
+logcat error: exception ========================== package: com.jecelyin.editor.v2
+version code: 26
+version name: v2.17.2.13
+android: 7.0
+android build: nrd90m
+manufacturer: xiaomi
+model: mi 5
+thread: main-1
+crashreporter key: b0c1a604-60a0-40d7-e268-a3e764b9b8c3d0bd5dc6
+start date: mon jul 31 14:27:32 gmt+08:00 2017
+date: mon jul 31 14:28:19 gmt+08:00 2017 java.lang.stringindexoutofboundsexception at com.jecelyin.editor.v2.core.text.spannablestringbuilder.<init> spannablestringbuilder.java:79 at com.jecelyin.editor.v2.core.text.spannablestringbuilder.subsequence spannablestringbuilder.java:1027 at com.jecelyin.editor.v2.ui.editordelegate.getselectedtext editordelegate.java:214 at com.jecelyin.editor.v2.ui.dialog.finderdialog.showfinddialog finderdialog.java:83 at com.jecelyin.editor.v2.ui.editordelegate.docommand editordelegate.java:321 at com.jecelyin.editor.v2.ui.mainactivity.docommand mainactivity.java:609 at com.jecelyin.editor.v2.ui.mainactivity.onmenuclick mainactivity.java:541 at com.jecelyin.editor.v2.ui.mainactivity.onmenuitemclick mainactivity.java:427 at com.jecelyin.editor.v2.adapter.mainmenuadapter$1.onclick mainmenuadapter.java:95 at android.view.view.performclick view.java:5620 at android.view.view$performclick.run view.java:22297 at android.os.handler.handlecallback handler.java:754 at android.os.handler.dispatchmessage handler.java:95 at android.os.looper.loop looper.java:163 at android.app.activitythread.main activitythread.java:6327 at java.lang.reflect.method.invoke native method at com.android.internal.os.zygoteinit$methodandargscaller.run zygoteinit.java:877 at com.android.internal.os.zygoteinit.main zygoteinit.java:767

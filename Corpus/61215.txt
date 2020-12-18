@@ -1,0 +1,1 @@
+ URL : "https://github.com/1707-grace-shopper-sh/grace-shopper/issues/100" TITLE : all: checkout component BODY : audience: all story: see a checkout page with shipping information implementation: react component

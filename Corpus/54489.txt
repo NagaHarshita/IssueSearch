@@ -1,0 +1,1 @@
+ URL : "https://github.com/Yellowen/Faalis/issues/106" TITLE : get ride of turbolinks BODY : turobolinks is awesome, but right now we have several problems with it. it would be better to remove it for 3.x version and create a solid base for faalis and then add an spa facility on top of it.

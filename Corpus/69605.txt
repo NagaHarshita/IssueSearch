@@ -1,0 +1,1 @@
+ URL : "https://github.com/omerblink/base/issues/3" TITLE : thumbnail theme support BODY : theme supports. add_theme_support 'post-thumbnails' ;

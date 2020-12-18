@@ -1,0 +1,1 @@
+ URL : "https://github.com/coagmano/meteor-stylus/issues/2" TITLE : globbing seems to work BODY : the readme says that globbing doesn't work. i've tested it and it seems to work. am i missing something?

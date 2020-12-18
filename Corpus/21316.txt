@@ -1,0 +1,1 @@
+ URL : "https://github.com/raysect/source/issues/140" TITLE : expand unit tests. BODY : our unit tests are currently quite minimal outside the core, and we also don't have full coverage in the core. this needs to be addressed before v1 is released.

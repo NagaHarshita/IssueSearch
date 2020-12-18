@@ -1,0 +1,1 @@
+ URL : "https://github.com/oneEyedBunny/Crop-Swap-2/issues/25" TITLE : function- complete swap BODY : enter a qty in the reserve qty field and click swap button to complete transaction. ensure the available qty updates once they've clicked the button write both data points to the swap_history table in db

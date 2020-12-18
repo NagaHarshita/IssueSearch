@@ -1,0 +1,1 @@
+ URL : "https://github.com/nlintz/TensorFlow-Tutorials/issues/82" TITLE : error in 07_lstm BODY : 1. x_split = tf.split xr, time_step_size, 0 should be x_split = tf.split 0, time_step_size, xr 2. tensorflow.contrib.rnn.basiclstmcell is out of date

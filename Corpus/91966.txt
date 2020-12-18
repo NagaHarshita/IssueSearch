@@ -1,0 +1,1 @@
+ URL : "https://github.com/petr-stety-stetka/gnome-usage/issues/9" TITLE : use gnome-like versioning BODY : according to the official documentation https://developer.gnome.org/programming-guidelines/stable/versioning.html.en , most gnome apps follow a versioning convention, so i think that gnome usage should not be an exception, isn't it?

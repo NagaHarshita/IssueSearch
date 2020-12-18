@@ -1,0 +1,1 @@
+ URL : "https://github.com/DreaminginCodeZH/DoubanYearProgress/issues/2" TITLE : key 和 secret 问题 BODY : 您好，我看到配置文件里有 key: '', secret: '', 这两项。 我也看到消息说 2015 年后豆瓣关闭了个人开发者的申请，而您的 yearprogerss 是 2017 年才创建。 我也想做一个试试，所以想请教下您这个 key 验证是怎么搞到的？ :

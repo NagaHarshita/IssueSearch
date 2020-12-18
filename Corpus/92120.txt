@@ -1,0 +1,1 @@
+ URL : "https://github.com/NSW-OEH-EMS-KST/grid-garage/issues/172" TITLE : values - raster to points BODY : error message.. replicated in: c:\data\grid-garage-small-tests\raster-values-to-points\raster-values-to-points.mxd you'll need to pull in the following two reppos: c:\data\grid-garage-small-tests c:\data\grid-garage-sample-data for input grids

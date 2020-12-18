@@ -1,0 +1,1 @@
+ URL : "https://github.com/ngx-kit/ngx-kit/issues/68" TITLE : icons: add size param BODY : icons-register should handle one name with several sizes.

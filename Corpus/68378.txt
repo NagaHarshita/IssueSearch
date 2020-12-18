@@ -1,0 +1,1 @@
+ URL : "https://github.com/car-chase/amoebots/issues/11" TITLE : revise interprocess api BODY : the current api is not sufficient for the data we are receiving from the bots.

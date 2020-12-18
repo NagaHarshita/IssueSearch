@@ -1,0 +1,1 @@
+ URL : "https://github.com/jtblin/kube2iam/issues/87" TITLE : iam roles with custom path BODY : i'v tried kube2iam with a non default path in the role like arn:aws:iam::123456789012:role/team-a/s3access . the credentials endpoint will return s3access instead of team-a/s3access . i made https://github.com/jtblin/kube2iam/pull/86 to fix this.

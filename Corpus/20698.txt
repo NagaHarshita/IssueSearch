@@ -1,0 +1,1 @@
+ URL : "https://github.com/mhhoban/dukedoms_fields/issues/5" TITLE : create deck object BODY : object that: - has array of a given instance of a card object - has method for returning a given number of cards as a draw - boolean storing whether the deck is empty or not

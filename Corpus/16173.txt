@@ -1,0 +1,1 @@
+ URL : "https://github.com/flowtype/flow-typed/issues/645" TITLE : how to type sagas BODY : i am trying to type sagas: export function fetchusers : generator<ioeffect, void, any> { const users = yield call userapi.list yield put fetchusersucc users } but flow keeps complaining: > identifier ioeffect could not resolve name what am i doing wrong?

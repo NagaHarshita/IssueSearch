@@ -1,0 +1,1 @@
+ URL : "https://github.com/opbeat/opbeat-node/issues/134" TITLE : https request with opbeat BODY : @watson this is not an issue, but i'd like to make a question. i'm developing a project with node and opbeat but this is not logging https requests only, does opbeat supports https request? how can i to do this in my project? thank you for your advices.

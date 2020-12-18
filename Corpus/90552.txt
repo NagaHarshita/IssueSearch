@@ -1,0 +1,1 @@
+ URL : "https://github.com/aquaaerobic/AquaNereda/issues/55" TITLE : sludge buffer: quantities BODY : currently, equipment buildout for the sludge buffer system selects the quantity based on the number of ags reactors, instead of the number of sludge buffer basins.

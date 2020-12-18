@@ -1,0 +1,1 @@
+ URL : "https://github.com/oelmekki/activerecord_any_of/issues/41" TITLE : new release for rails 5 BODY : in my gemfile, i do put : gem 'activerecord_any_of', :git => 'https://github.com/oelmekki/activerecord_any_of.git', :ref => '22b3bfb4614c2223242dc496328356923a239bed'

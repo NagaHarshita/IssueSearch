@@ -1,0 +1,1 @@
+ URL : "https://github.com/yar229/WebDavMailRuCloud/issues/61" TITLE : 400 bad request BODY : пробую использовать wdmrc + davfs2, но при любой попытке маунта и в различных конфигурациях получаю: /sbin/mount.davfs: mounting failed. 400 bad request при этом неясно, проблема в моих конфигах, в wdmrc или на стороне облака. нельзя ли поподробнее мануал о маунте таким способом?

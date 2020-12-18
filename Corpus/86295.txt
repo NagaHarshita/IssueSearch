@@ -1,0 +1,1 @@
+ URL : "https://github.com/ducompsoc/website/issues/77" TITLE : hiredgrad modal too short BODY : the bottom part of the hiredgrad modal is cropped off. not our fault i don't think, but we can probably fix it with javascript hackery. ! hiredgrad modal problem https://user-images.githubusercontent.com/17937099/30772608-919bf28c-a056-11e7-9c11-9759e2341895.png

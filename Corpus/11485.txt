@@ -1,0 +1,1 @@
+ URL : "https://github.com/playwilmington/playwilmington.org/issues/6" TITLE : home page slider BODY : ability to add pictures to home page for a carousel - add carousel support to home tab - add slider table - fields: - add photo field attachment - add title field string - add subtitle field string - add position field string - add order field number

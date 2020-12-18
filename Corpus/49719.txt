@@ -1,0 +1,1 @@
+ URL : "https://github.com/emfoundation/ce100-app/issues/1191" TITLE : update challenge view BODY : currently, underneath the challenge title it says shared by <org name> . could this be updated to shared by <creator name> at <org name> , where the creator name links to the user profile and the org name links to the org profile?

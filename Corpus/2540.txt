@@ -1,0 +1,1 @@
+ URL : "https://github.com/dedis/student_17_pop/issues/3" TITLE : app org merge BODY : when starting to merge parties, app org merge needs to return the final statement of the merged party. every organizer that calls app org merge after the first merge will only get the merged final statement without starting a new merge.

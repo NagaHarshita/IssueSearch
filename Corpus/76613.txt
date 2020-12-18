@@ -1,0 +1,1 @@
+ URL : "https://github.com/pbek/QOwnNotes/issues/473" TITLE : list depth > 5 not shown BODY : when writing a list the preview renderer doesn't show list depth > 5. here's a test to reproduce: - test1 - test2 - test3 - test4 - test5 - test6 - test7 - test8 no list anymore at test 6

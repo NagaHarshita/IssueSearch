@@ -1,0 +1,1 @@
+ URL : "https://github.com/CuBoulder/express/issues/1192" TITLE : 2.5.0 post express steps BODY : bundle updates: - https://github.com/cuboulder/cu_video_hero_unit_bundle update to current hash of master branch - https://github.com/cuboulder/cu_digital_campaign_bundle update to current hash of master branch and move tag from beta -> public_addons

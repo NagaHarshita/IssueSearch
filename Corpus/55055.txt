@@ -1,0 +1,1 @@
+ URL : "https://github.com/american-art/ccma/issues/20" TITLE : image urls drop commas BODY : noticed in talking about 12 that the most recent mapping strips commas from the url in imagepath so https://iiif.museum.colby.edu/image/2013.003_001/full/512,/0/default.jpg resolvable becomes https://iiif.museum.colby.edu/image/2013.003_001/full/512/0/default.jpg sad trombone .

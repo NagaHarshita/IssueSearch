@@ -1,0 +1,1 @@
+ URL : "https://github.com/GoodBoyDigital/mini-runner/issues/3" TITLE : can't run benchmarks BODY : following the benchmarks https://github.com/goodboydigital/mini-runner/blob/33449501430fa359f45e6fa189dc0157c3a31b64/readme.md benchmarks instructions to run the benchmarks results in error of missing script: start using macos 10.12.3 node v6.9.1 npm v3.10.8

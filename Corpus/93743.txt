@@ -1,0 +1,1 @@
+ URL : "https://github.com/mesosphere/dcos-commons/issues/1676" TITLE : api authentication support BODY : dcos services should authenticate incoming api requests using the oauth token forwarded by the admin router. this would prevent an end-run around the router which normally validates the token by other processes running in the cluster e.g. low-privilege jobs .

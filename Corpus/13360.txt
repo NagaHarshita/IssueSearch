@@ -1,0 +1,1 @@
+ URL : "https://github.com/samtools/hts-specs/issues/211" TITLE : typo in bcf spec BODY : when looking into the bcf spec i found a few typo's. from 6.4.4 the 1element string is encoded as 0x 19 , while this should be encoded as 0x 17 search for 0x19 gives 9 hits, all of them incorrect this is in a 3 versions of vcfv4.x.tex

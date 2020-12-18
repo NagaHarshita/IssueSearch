@@ -1,0 +1,1 @@
+ URL : "https://github.com/gradle/gradle/issues/2762" TITLE : war plugin bug? BODY : apply plugin: 'war' <img width= 733 alt= _20170821103530 src= https://user-images.githubusercontent.com/11865760/29501666-e7180278-865c-11e7-9da6-83890ae92350.png > webapp are not automatically generated?

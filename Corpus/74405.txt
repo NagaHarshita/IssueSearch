@@ -1,0 +1,1 @@
+ URL : "https://github.com/forknote/forknote-pool/issues/17" TITLE : error loading index.html BODY : i am getting this error: uncaught syntaxerror: block-scoped declarations let, const, function, class not yet supported outside strict mode on line 317 in index.html please change this line form: let title = $ .navbar-brand .text ; to var title = $ .navbar-brand .text ;

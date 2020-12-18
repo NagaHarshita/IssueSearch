@@ -1,0 +1,1 @@
+ URL : "https://github.com/makotot/react-scrollspy/issues/72" TITLE : coloring the anchor tag? BODY : hi, i tried to change the color of the anchor tags when it's active, but it didn't work since the styling is passed to the <li> tag? so is there a way where i can pass the class to the <a> tags? thanks

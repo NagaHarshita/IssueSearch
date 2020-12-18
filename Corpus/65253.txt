@@ -1,0 +1,1 @@
+ URL : "https://github.com/fossasia/loklak_scraper_js/issues/41" TITLE : improve youtube scraper BODY : issue type : enhancement short description implement the scraping logic of youtube scraper in es 6 by extending the scraper from baseloklakscraper using request-promise-native for sending get requests. the current implementation is written in es5.1 and uses synchronous request.

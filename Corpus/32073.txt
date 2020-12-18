@@ -1,0 +1,1 @@
+ URL : "https://github.com/shen100/treehash/issues/4" TITLE : too many open files BODY : ! image https://user-images.githubusercontent.com/2443162/28752442-e917a504-7551-11e7-8252-7bef9af090f8.png 打开文件后， 操作完后，已关闭，但报错too many open files

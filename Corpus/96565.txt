@@ -1,0 +1,1 @@
+ URL : "https://github.com/DQM4HEP/dqm4hep-core/issues/8" TITLE : externalize plug-in system BODY : the dqm4hep plug-in system is generic enough to be pushed in an external stand-alone package. todo : implement a new package with the plug-in system only

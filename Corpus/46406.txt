@@ -1,0 +1,1 @@
+ URL : "https://github.com/FlorinPeter/ose-registry-proxy/issues/2" TITLE : make this a s2i image BODY : if you redo this container image as an s2i image, you could externalize x509 cert generation and use some provided certs. this way the container integrates well with any x509 cert management process.

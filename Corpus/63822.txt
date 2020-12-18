@@ -1,0 +1,1 @@
+ URL : "https://github.com/EvanBalster/TiddlyWikiFormula/issues/10" TITLE : exception in to_tw_date BODY : the to_tw_date function throws an error due to a defect and cannot be used.

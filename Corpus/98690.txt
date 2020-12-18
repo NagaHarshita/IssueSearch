@@ -1,0 +1,1 @@
+ URL : "https://github.com/vishnubob/silhouette/issues/3" TITLE : kernel driver blocks usage BODY : on elmentary im getting a resource busy error because the kernel driver has taken control of the device

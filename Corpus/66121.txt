@@ -1,0 +1,1 @@
+ URL : "https://github.com/mangaki/mangaki/issues/304" TITLE : mal testing in circleci BODY : question: do we want to maintain mangaki with and without mal, as introduced per 301 remove buttons when mal is not available ? if yes, then, should we do testing w/o mal creds?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/googlecartographer/cartographer_ros/issues/298" TITLE : add imu issue BODY : when i change the trajectory_builder_2d.use_imu_data = false into true,i just find my cartographer can't run well. there is no map formed. i don't know what to do if i want to add the imu data into cartographer node

@@ -1,0 +1,1 @@
+ URL : "https://github.com/KhalidRich/Deckcraft/issues/6" TITLE : create sign-up form BODY : when a user enters the sign-up page: 1. they see a form with required user information username, email, password 2. when the submit button is pressed, the form fields are validated.

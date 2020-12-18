@@ -1,0 +1,1 @@
+ URL : "https://github.com/alexcrichton/toml-rs/issues/195" TITLE : add toml! macro BODY : let's shamelessly copy the json! macro from serde_json, but for a subset of toml.

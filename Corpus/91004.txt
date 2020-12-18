@@ -1,0 +1,1 @@
+ URL : "https://github.com/micropython/micropython-esp32/issues/154" TITLE : support for ulp processor BODY : there's no support for the ulp processor yet. api docs: https://github.com/espressif/esp-idf/blob/master/docs/api-guides/ulp.rst

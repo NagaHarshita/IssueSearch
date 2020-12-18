@@ -1,0 +1,1 @@
+ URL : "https://github.com/Baekalfen/PyBoy/issues/33" TITLE : make a screen recorder BODY : it would be useful to implement a feature in a gamewindow, which allows to record the game frame-by-frame. contrary to regular screen-capture, this would allow perfectly timed frame-rates. the output formats would preferably be gif and mp4.

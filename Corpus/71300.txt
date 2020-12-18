@@ -1,0 +1,1 @@
+ URL : "https://github.com/proofit404/dependencies/issues/7" TITLE : add celery task example. BODY : we can build injector attribute or class decorator which will register task and dispatch it to the injector.run args, kwargs .

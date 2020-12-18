@@ -1,0 +1,1 @@
+ URL : "https://github.com/47deg/sbt-org-policies/issues/243" TITLE : fix maven central badge BODY : for scala projects, we should append the scala version to the library version without the patch suffix for sbt plugins, we need to append the 2.10 scala version and sbt version without the patch suffix

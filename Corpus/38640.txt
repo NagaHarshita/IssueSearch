@@ -1,0 +1,1 @@
+ URL : "https://github.com/phonegap/phonegap-roadmap/issues/194" TITLE : progressive web apps BODY : create a path between publishing to an app store apache cordova and deploying to the web pwa . - 3 sample apps support deploying as a pwa - basic pwa support in apache cordova ios - 1 community app is published to an app store and deployed as a pwa

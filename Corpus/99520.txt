@@ -1,0 +1,1 @@
+ URL : "https://github.com/PropertyUX/nubot-connect-mongo/issues/1" TITLE : mongo bug in travis builds BODY : every few builds on travis seem to fail tests due to lag clearing or setting up mongo collections. no time to investigate now, just rebuild and it works. should look at the services settings though, maybe slow down the time between tests.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/bascht/omemo-top/issues/83" TITLE : add won't happen indicator BODY : some apps are highly unlikely to get omemo support anytime soon see for example https://github.com/redsolution/xabber-android/issues/540 . it would be nice to have a visual indicator that tells the user that omemo is not going to be implemented at all.

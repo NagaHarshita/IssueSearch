@@ -1,0 +1,1 @@
+ URL : "https://github.com/atipugin/telegram-bot-ruby/issues/97" TITLE : what is this error ? BODY : telegram api has returned the error. ok: false , error_code: 409 , description: conflict: terminated by other long poll or webhook how can i fix this error ?

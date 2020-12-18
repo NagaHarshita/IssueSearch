@@ -1,0 +1,1 @@
+ URL : "https://github.com/hrydgard/ppsspp/issues/10193" TITLE : daxter force close BODY : when finish 1st mission in daxter the game force close.. i am using latest ppsspp on s7 edge exynos mali gpu and vulkan backend.. i try 4 latest build same issue on all

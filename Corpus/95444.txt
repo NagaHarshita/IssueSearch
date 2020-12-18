@@ -1,0 +1,1 @@
+ URL : "https://github.com/wso2/carbon-dashboards/issues/588" TITLE : dashboard creation support BODY : we need to allow users to create dashboards by providing dashboard name, dashboard url and dashboard description.

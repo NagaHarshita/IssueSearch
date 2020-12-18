@@ -1,0 +1,1 @@
+ URL : "https://github.com/objectrocket/python-client/issues/46" TITLE : get database statistics BODY : i believe the method for getting database statistics in objectrocket/instances/mongodb.py needs to be updated since the url for what i believe this is getting looks to be /mongodb/<instance_name>/databases/ instead of /mongodb/<instance_name>/aggregate_database_stats/

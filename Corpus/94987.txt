@@ -1,0 +1,1 @@
+ URL : "https://github.com/graffen/NLog.Targets.Syslog/issues/73" TITLE : configure appveyor webhook BODY : hi @graffen, it would be nice if you could configure appveyor http://help.appveyor.com/discussions/questions/203-auto-run-tests-on-pull-requests i do not have access to repo settings . thanks!

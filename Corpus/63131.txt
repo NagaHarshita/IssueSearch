@@ -1,0 +1,1 @@
+ URL : "https://github.com/stheves/denon4j/issues/12" TITLE : deploy to maven central BODY : all artifacts of each release must be deployed to maven central for maximum availability.

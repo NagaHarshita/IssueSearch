@@ -1,0 +1,1 @@
+ URL : "https://github.com/8p/GuzzleBundle/issues/96" TITLE : deprecate php 5.x? BODY : i would like to use php7 features like type hinting. therefore we have to require php >= 7. it would be nice to get some feedback here.

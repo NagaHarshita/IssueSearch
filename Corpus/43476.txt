@@ -1,0 +1,1 @@
+ URL : "https://github.com/Daivuk/onut/issues/72" TITLE : create model resource BODY : be able to load an fbx model and render it. should also be able to specify a shader, or loop through sub-meshes and render them using custom shader. a default 3d shader should be provided, and setupfor3d from the renderer

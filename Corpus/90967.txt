@@ -1,0 +1,1 @@
+ URL : "https://github.com/govCMS/ui-kit-base-theme/issues/75" TITLE : support for crumbs module BODY : drupal crumbs module is included in saas as the only option for the custom breadcrumb. proposed solution: add code from crumbs_theme_breadcrumb function into theme_breadcrumb function to apply the ui kit layout.

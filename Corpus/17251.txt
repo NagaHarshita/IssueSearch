@@ -1,0 +1,1 @@
+ URL : "https://github.com/copygirl/WearableBackpacks/issues/29" TITLE : npe on world join BODY : https://github.com/copygirl/wearablebackpacks/blob/master/src/main/java/net/mcft/copy/backpacks/proxycommon.java l188 not much more info in the crashlog, it is an npe after all.

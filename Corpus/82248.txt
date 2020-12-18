@@ -1,0 +1,1 @@
+ URL : "https://github.com/J3RN/minecraft-manager/issues/13" TITLE : add os name to image list BODY : presently, several images have nondescriptive names in the image dropdown like 6.7 x32, which doesn't tell you which os it is. the os name should be included in the image names in the image dropdown.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/JoshuaLicense/testSQL/issues/15" TITLE : improved select validation BODY : using the 'shadow' database, fill the 'main' database with _dummy_ data, that's all random but follows the same structure. this means the user cannot manipulate the results.

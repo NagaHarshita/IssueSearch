@@ -1,0 +1,1 @@
+ URL : "https://github.com/3Blades/openapi/issues/27" TITLE : add version management doc BODY : create version doc to dictate how and when versions should be bumped.

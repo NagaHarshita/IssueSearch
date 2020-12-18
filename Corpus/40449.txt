@@ -1,0 +1,1 @@
+ URL : "https://github.com/WordPress/gutenberg/issues/3295" TITLE : unable to apply bold BODY : reported via feedback form by @jeffpaul: when editing a paragraph block, a bold bulleted item is unable to have a link added to it. note that switching to the html view, adding the a href tag, and then switching back to the text view shows a bold bulleted hyperlinked item as expected.

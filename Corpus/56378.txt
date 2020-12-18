@@ -1,0 +1,1 @@
+ URL : "https://github.com/reyk/httpd/issues/70" TITLE : multiple index options BODY : this may be featuritis but i would like to suggest allowing the following as a global option: directory index index.html, index.php, index.htm.

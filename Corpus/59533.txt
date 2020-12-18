@@ -1,0 +1,1 @@
+ URL : "https://github.com/unitycoder/UnityLauncher/issues/4" TITLE : unity launch arguments BODY : it could be nice to have an option to specify launch arguments for different projects. an use case could be having both a pro and personal projects on one machine and have unity run the latter with '-force-free' argument

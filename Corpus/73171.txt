@@ -1,0 +1,1 @@
+ URL : "https://github.com/springer13/hptt/issues/9" TITLE : conjugation flag for 'a' BODY : would it make sense to have a conjugation flag for a ; you'd already need this if you would like to use this library to implement hermitian conjugation.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/dgraph-io/tutorial/issues/1" TITLE : contents to fix BODY : - change all geq to eq . missing link at the end - basic/5 needs to be complete - basic/8 - basic/11 - blocksvars/9 - schema/9 query is not runnable - blocksvars/2 returns no result - blocksvars/3

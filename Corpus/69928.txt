@@ -1,0 +1,1 @@
+ URL : "https://github.com/Rhodesia/HolyDynamo/issues/2" TITLE : unknown 2 second videos BODY : ! image https://user-images.githubusercontent.com/24946811/31312928-e3160f18-ab9f-11e7-9fbf-b2bf0114c872.png for some reason the m3u8 is detected and the bot records a 2 second video, i believe that actual logging will be able to help us squash this bug

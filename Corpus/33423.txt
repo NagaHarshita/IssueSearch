@@ -1,0 +1,1 @@
+ URL : "https://github.com/kugimiya/brodieja/issues/5" TITLE : add overlays for db. BODY : 1. so, we need overlay over query builder, for easy build queries. now we must create new instance of db\query class. 2. and, we also need pretty single-function overlay at db\pdomysql instance for getting data as assoc-arrays. 3. research about mixing 1. and 2.

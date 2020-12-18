@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpenBazaar/openbazaar-desktop/issues/832" TITLE : xss from search provider BODY : the client will execute javascript provided by the search api. example: options :{ test :{ label : <script>alert \ test\ ;</script> } } this may or may not have security implications for the user. could it be used to deanonymize tor users? tested on v2.0.11.

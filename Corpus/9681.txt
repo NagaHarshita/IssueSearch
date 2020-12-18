@@ -1,0 +1,1 @@
+ URL : "https://github.com/it-novum/ansible-role-openitcockpit/issues/5" TITLE : add 3.2 features BODY : - satellite gui - grafana module - pagerduty module

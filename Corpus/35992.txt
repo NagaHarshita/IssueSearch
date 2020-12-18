@@ -1,0 +1,2 @@
+ URL : "https://github.com/sumotest2/sumo/issues/22" TITLE : fixing typos trac 22 BODY : migrated from http://sumo.dlr.de/ticket/22 json
+{ status : assigned , changetime : 2017-07-07t17:05:41 , description : for small changes in the code typos , reporter : dkrajzew , cc : , resolution : , _ts : 1499447141814932 , component : other also unclassified , summary : fixing typos , priority : major , keywords : , time : 2009-01-30t09:59:12 , milestone : , owner : meta , type : meta }

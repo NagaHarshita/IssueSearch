@@ -1,0 +1,1 @@
+ URL : "https://github.com/nurupo/rootkit/issues/1" TITLE : file operation function BODY : hi i'm a student to study rootkit i have a question after file operation hooking, i am not find root_iterate or root_xxxx function content because i am making rootkit for study.. after inline function hooking, origin function in root_xxxx is error... --> my code.. please teach me..

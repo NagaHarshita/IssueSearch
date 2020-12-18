@@ -1,0 +1,1 @@
+ URL : "https://github.com/clickstorm/cs_seo/issues/90" TITLE : support for fb meta-tags BODY : i couldn't find any information about how to render fb: meta-tags with cs_seo , so i propose to integrate this feature. specifically it would be nice to configure and render those tags: fb:admins fb:app_id

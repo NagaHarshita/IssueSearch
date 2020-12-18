@@ -1,0 +1,1 @@
+ URL : "https://github.com/Galarzaa90/NabBot/issues/54" TITLE : nabbot getting down BODY : i have recently re-installed succesfully the bot on a new server. however, it is constantly getting down after a while. i ran the command python3 restart.py & and after a few minutes it gets down again. any advice?

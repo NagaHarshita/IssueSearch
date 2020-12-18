@@ -1,0 +1,1 @@
+ URL : "https://github.com/Whillikers/Hell-Lighting/issues/24" TITLE : code review of pot class BODY : we should do a code review of the pot class before we expand to using the same model other places. i think it needs tweaking before it will fit our current application.

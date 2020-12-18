@@ -1,0 +1,1 @@
+ URL : "https://github.com/arteria/cmsplugin-contact-plus/issues/55" TITLE : form as .p? BODY : hey this is probably dumb question, but how can i style an individual element when form is rendered in the contact template? would adding a css attribute box to the cms content editor make sense for this plug in?

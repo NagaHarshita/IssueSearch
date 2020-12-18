@@ -1,0 +1,1 @@
+ URL : "https://github.com/weprovide/valet-plus/issues/59" TITLE : error in readme example BODY : in general the readme is excellent. i found one typo, however that is a quick fix. where it reads: 3. echo <?php echo 'valet+ at your service' > index.php it should read 3. echo <?php echo 'valet+ at your service'; > index.php the only difference is the semicolon after service' .

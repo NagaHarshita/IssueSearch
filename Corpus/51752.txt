@@ -1,0 +1,1 @@
+ URL : "https://github.com/ShaneTWill/AutoNet/issues/10" TITLE : better string building BODY : the current way that the strings are built is acceptable but ugly there has to be a better way.

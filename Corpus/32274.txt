@@ -1,0 +1,1 @@
+ URL : "https://github.com/mhartl/rails_tutorial_4th_edition_gemfiles/issues/10" TITLE : update 'listen' gem BODY : the gem _listen_, in the gemfiles, is at 3.0.8, and the bundler threw an error that listen was not updated. i had to run bundle update listen and then bundle install --without production to run.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/turban/Leaflet.Sync/issues/37" TITLE : plugin loses sync BODY : here is a simpe jsfiddle demo: https://jsfiddle.net/91up4tje/ the second map is synced to the first map. however, if you zoom in/out and then drag the map, the second map will be off . if not with the first try, it will happen for sure, if you try it some more times.

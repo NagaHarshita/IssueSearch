@@ -1,0 +1,1 @@
+ URL : "https://github.com/devtools-html/perf.html/issues/358" TITLE : load profile from url BODY : the old cleopatra could load profiles from any url, which allowed me to load it with profiles hosted in other places that had cors enabled. i want to use this for linking to profiles hosted on s3 in a project i am working on as a prototype; and it might have other interesting uses.

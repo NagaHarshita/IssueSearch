@@ -1,0 +1,1 @@
+ URL : "https://github.com/miromarszal/phase_ret3/issues/16" TITLE : clean up errf_cuda BODY : there are many intermediate arrays used. perhaps some operations could be done in place.

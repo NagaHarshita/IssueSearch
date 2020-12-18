@@ -1,0 +1,1 @@
+ URL : "https://github.com/AdeebDoliie/prj-rev-bwfs-tea-cozy/issues/1" TITLE : tea of the month section BODY : these should not be split into separate rows. i'll go into the css side more in another issue, but these should just be combined into one tea of the month div. https://github.com/adeebdoliie/prj-rev-bwfs-tea-cozy/blob/master/teacosy/index.html l39-l63

@@ -1,0 +1,1 @@
+ URL : "https://github.com/LLNL/Jekyll-LLNL-Theme/issues/6" TITLE : convert to gem based theme BODY : rather than all the content in a site that needs to be cloned as the starting point for a new site, let's instead make this a gem based theme that we can reuse in various places: https://jekyllrb.com/docs/themes/

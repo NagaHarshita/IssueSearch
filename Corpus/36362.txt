@@ -1,0 +1,1 @@
+ URL : "https://github.com/zenhack/haskell-capnp/issues/18" TITLE : haddock buid failure BODY : we're getting a build failure from haddock: https://hydra.angeldsis.com/build/63403/nixlog/1 i poked around a bit and haven't figured it out, and don't have the time to spend on it just this moment, so opening this so i don't forget.

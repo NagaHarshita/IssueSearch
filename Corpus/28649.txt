@@ -1,0 +1,1 @@
+ URL : "https://github.com/videojs/videojs-vimeo/issues/97" TITLE : hide vimeo controls BODY : can you hide the vimeo controls and just use the videojs controls? the ytcontrols parameter does not seem to work.

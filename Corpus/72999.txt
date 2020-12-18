@@ -1,0 +1,1 @@
+ URL : "https://github.com/benknoble/Dotfiles/issues/62" TITLE : clone instructions wrong BODY : bash $ mkdir ~/dotfiles && cd ~/dotfiles $ git clone <url> will clone dotfiles to ~/dotfiles/dotfiles --not what we want. change to bash $ mkdir ~/dotfiles $ git clone <url> ~/dotfiles $ cd ~/dotfiles

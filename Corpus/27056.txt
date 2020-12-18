@@ -1,0 +1,1 @@
+ URL : "https://github.com/Pankratov-Daniil/DeltaCom/issues/1" TITLE : code review example BODY : public class md5encoder { public static string encodepassword string password { why did you add empty line here?

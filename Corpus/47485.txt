@@ -1,0 +1,1 @@
+ URL : "https://github.com/wutu/pimatic-piblaster/issues/1" TITLE : pimatic 0.9 readyness BODY : some work may be required to get the plugin ready for pimatic 0.9 update peerdependency add destroy method as part of device implementation testing

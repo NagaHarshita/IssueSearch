@@ -1,0 +1,1 @@
+ URL : "https://github.com/vlucas/phpdotenv/issues/231" TITLE : add boolean support BODY : add processing of boolean variables. for example, i can write in .env: app_debug=false but this code return true in any case: getenv 'app_debug' in the end, i have to write something like: getenv 'app_debug' == true

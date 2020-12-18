@@ -1,0 +1,1 @@
+ URL : "https://github.com/cfeclipse/cfeclipse/issues/87" TITLE : add support for dark theme BODY : eclipse now has a built in dark theme which can be set in preferences -> general -> appearance -> theme. this doesn't take effect in the cfeclipse editor. it would be nice to support this option.

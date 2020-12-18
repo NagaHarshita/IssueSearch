@@ -1,0 +1,1 @@
+ URL : "https://github.com/FadeCloudNW/issue-tracker/issues/40" TITLE : global autosell chests BODY : adding a /autosell list command that will locate the signs. this is very helpful for if the player lost his/her signs. this happens more and more. don't make other players to be able to see the list so coords don't show.

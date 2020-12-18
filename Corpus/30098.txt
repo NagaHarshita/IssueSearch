@@ -1,0 +1,1 @@
+ URL : "https://github.com/sigma-dev/sigma/issues/265" TITLE : nomad eats up space BODY : after running the integration tests, nomad uses 10gb of data... is there a way to trim this?

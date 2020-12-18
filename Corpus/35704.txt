@@ -1,0 +1,1 @@
+ URL : "https://github.com/pixelspark/catena/issues/35" TITLE : expire orphan blocks BODY : when index << current index and/or timestamp << current time

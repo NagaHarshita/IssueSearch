@@ -1,0 +1,1 @@
+ URL : "https://github.com/jazzband/django-debug-toolbar/issues/977" TITLE : chinese localization error BODY : hi, author, i'm using django 11, when i set language_code = 'zh-hans' this is the correct value in settings, django will display chinese language, but toolbar displays in english until i set lang code to 'zh-cn'. please correct it.

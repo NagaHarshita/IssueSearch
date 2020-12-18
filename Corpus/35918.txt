@@ -1,0 +1,1 @@
+ URL : "https://github.com/CS2103JUN2017-T2/main/issues/66" TITLE : fix edit command bug BODY : currently : after editting name of an entry, it disappears from the currently shown list on the ui. ideally : list remains the same as previous, so that user can compare the changes he made directly

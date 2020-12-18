@@ -1,0 +1,1 @@
+ URL : "https://github.com/SBU-BMI/SlicerPathology/issues/89" TITLE : need little info dialog BODY : when you save a zip in slicer, there's nothing to indicate that it's done saving. other than python output.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/nulldevelopmenthr/nemesis/issues/318" TITLE : add cs-fixer support BODY : all generated files should be beautified with cs-fixer to allign with current projects cs fixer rules

@@ -1,0 +1,1 @@
+ URL : "https://github.com/FabioZumbi12/RedProtect/issues/143" TITLE : mysql - leaders disappear BODY : hello, i have problem. spigot 1.11.2 / redprotect-7.1.2-b308 via mysql when i use /rp addleader <player> leaders disappear from the database when i use /rp addmember <player> admins overwrite leaders from the database any suggestions?

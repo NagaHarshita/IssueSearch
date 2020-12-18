@@ -1,0 +1,1 @@
+ URL : "https://github.com/ibasco/Isabella-Basco-prototype/issues/1" TITLE : update homepage filename BODY : be sure not to use spaces in html, css or javascript filenames. also, it's generally best practice to do all lowercase letters for filenames.

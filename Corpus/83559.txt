@@ -1,0 +1,1 @@
+ URL : "https://github.com/fullcalendar/fullcalendar-scheduler/issues/290" TITLE : change day name rendering BODY : my code: http://jsbin.com/xozadofije/1/edit?js,output how to change day name rendering? i want to achive sometnig like this: <div class= dayname >fri</div> <div class= daynumber >31</div>

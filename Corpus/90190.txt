@@ -1,0 +1,14 @@
+ URL : "https://github.com/xbmc-catchuptv-au/issue-reports/issues/100" TITLE : sbs user initiated report BODY : automatic bug report from end-user. environment add-on name: sbs on demand add-on id: plugin.video.sbs add-on version: 1.1.0-11-g581dfcd kodi version: 17.3 python version: 2.7.11 default, jan 16 2016, 16:21:17 msc v.1900 32 bit intel operating system: win32 ip address: 108.68.108.144 108-68-108-144.lightspeed.sntcca.sbcglobal.net isp: at&t u-verse kodi url: ?action=sendreport python path: c:\users\pjpwo\appdata\roaming\kodi\addons\plugin.video.sbs\resources\lib
+c:\users\pjpwo\appdata\roaming\kodi\addons\plugin.video.sbs
+c:\users\pjpwo\appdata\roaming\kodi\addons\script.common.plugin.cache\lib
+c:\users\pjpwo\appdata\roaming\kodi\addons\script.module.aussieaddonscommon\lib
+c:\users\pjpwo\appdata\roaming\kodi\addons\script.module.beautifulsoup4\lib
+c:\users\pjpwo\appdata\roaming\kodi\addons\script.module.requests\lib
+c:\program files x86 \kodi\system\python\dlls
+c:\program files x86 \kodi\system\python\lib
+c:\program files x86 \kodi\python27.zip
+c:\program files x86 \kodi\system\python\lib\plat-win
+c:\program files x86 \kodi\system\python\lib\lib-tk
+c:\program files x86 \kodi
+c:\program files x86 \kodi\system\python
+c:\program files x86 \kodi\system\python\lib\site-packages full log https://gist.github.com/f0a589b87cfe4d357b3d6dc065d128c4

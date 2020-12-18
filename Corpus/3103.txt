@@ -1,0 +1,1 @@
+ URL : "https://github.com/matthew-thor/lunchrun/issues/19" TITLE : invite a user BODY : as an admin, i want to be able to invite a user to my group by their email so that they can join the group. i want this invitation to come in the form of an email with a unique link and invitation code.

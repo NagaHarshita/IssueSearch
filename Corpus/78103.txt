@@ -1,0 +1,1 @@
+ URL : "https://github.com/blockstack/blockstack-portal/issues/250" TITLE : pgp key overlay as proof BODY : @shea256 writes in 137 > i'm actually thinking we could have an overlay that displays the pgp key in the app itself. the pgp key can be loaded directly, unlike with other proofs.

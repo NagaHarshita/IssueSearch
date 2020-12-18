@@ -1,0 +1,1 @@
+ URL : "https://github.com/ospatil/generator-node-typescript/issues/24" TITLE : readme jasmine typo BODY : in readme.md it says: test runs the jasmine test specs build but it is not actually jasmine , it is mocha , isn't it.

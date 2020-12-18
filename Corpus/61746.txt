@@ -1,0 +1,1 @@
+ URL : "https://github.com/www42/BaseVHDX-WindowsServer/issues/1" TITLE : boot order of gen 2 vms BODY : see john howard https://blogs.technet.microsoft.com/jhoward/2013/10/25/hyper-v-generation-2-virtual-machines-part-2/ $vm = get-vm -name foo get-vmfirmware -vm $vm | % bootorder

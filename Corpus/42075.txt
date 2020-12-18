@@ -1,0 +1,1 @@
+ URL : "https://github.com/TMCGroup/WhatsAppSync/issues/16" TITLE : added workspace model BODY : added a workspace model for storing details of the workspace that will be used for receiving the whatsapp messages so that the external channel link is read from the database instead of hard coding it in models.py or settings.py which was the previous setup.

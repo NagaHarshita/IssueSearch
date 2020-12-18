@@ -1,0 +1,1 @@
+ URL : "https://github.com/dragonrollers/thoughtbubble-app/issues/19" TITLE : lower priority bugs BODY : - firebase authentication: on sign-in sometimes does not auto-redirect, need to hit back button

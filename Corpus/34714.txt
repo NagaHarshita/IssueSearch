@@ -1,0 +1,1 @@
+ URL : "https://github.com/briansmith/ring/issues/559" TITLE : constant time base64 BODY : this is needed to avoid a timing leak when reading and writing pem encoded structures.

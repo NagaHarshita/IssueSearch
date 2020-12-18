@@ -1,0 +1,1 @@
+ URL : "https://github.com/zmap/zlint/issues/50" TITLE : fix the execute api BODY : we need to fix the zlint api to actually use the execute function properly and not throw errors.

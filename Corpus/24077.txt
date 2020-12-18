@@ -1,0 +1,1 @@
+ URL : "https://github.com/falldowngoboone/falldowngoboone.github.io/issues/26" TITLE : scroll to sections BODY : i would like to animate the scroll to the different sections, taking the current page header height into account. i would like to do this without the aid of any libraries whatsoever, at least at first.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/lekoala/silverstripe-debugbar/issues/92" TITLE : composer require error BODY : hi if you use as suggested install method - it throws error like this because it is gonna try to add 1.1-dev composer require --dev lekoala/silverstripe-debugbar lekoala/silverstripe-debugbar 1.1.x-dev requires silverstripe/framework ~3.2 my silverstripe is 4.0.0

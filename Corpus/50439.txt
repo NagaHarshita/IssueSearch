@@ -1,0 +1,1 @@
+ URL : "https://github.com/itchio/itch/issues/1368" TITLE : 🏁 feedback v23.4.2 BODY : event log: error: enospc: no space left on device, write at object.<anonymous> c:\users\galli\appdata\local\itch\app-23.4.2\resources\app.asar\appsrc\util\sf.ts:135:21 at generator.next <anonymous> at fulfilled c:\users\galli\appdata\local\itch\app-23.4.2\resources\app.asar\app\util\sf.js:4:58

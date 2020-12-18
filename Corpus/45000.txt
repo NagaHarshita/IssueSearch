@@ -1,0 +1,1 @@
+ URL : "https://github.com/appleboy/server-configs/issues/6" TITLE : gitlab relatives urls BODY : during a recent gitlab upgrade, be-ware of the warning on line 127 block, here: https://github.com/appleboy/server-configs/blob/master/nginx/sites-available/gitlab.conf l127 my assets didn't load fully, commenting-out this block solved my issue on debian omnibus installation.

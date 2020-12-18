@@ -1,0 +1,1 @@
+ URL : "https://github.com/remonlam/rpi-arch-builder/issues/15" TITLE : 64 bit packages BODY : the packages/ files are 32 bit, it kernel panics on rpi 3 at least.

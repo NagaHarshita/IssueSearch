@@ -1,0 +1,1 @@
+ URL : "https://github.com/coredns/perf-tests/issues/10" TITLE : new k8s perf test BODY : @chrisohaver how hard/easy is it to do a new k8s performance test with the current coredns master branch or the v008 release ? because i think we should redo it: new cache, singleinflight gone from the proxy. also how hard is it to do this on a continuous basis?

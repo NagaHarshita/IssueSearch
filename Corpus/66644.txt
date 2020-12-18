@@ -1,0 +1,1 @@
+ URL : "https://github.com/sebthedev/PrincetonCourses/issues/81" TITLE : negative search filters BODY : was talking to someone earlier who thought having negative search filters would be good. some syntax like '- filter ' would probably work well in the searchbar -- e.g. 'cos -npdf' for cos classes that are not npdf.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jbavari/cordova-plugin-video-editor/issues/133" TITLE : video trimming error ios BODY : video is not trimming when selecting video from gallery, but working correctly for videos captured with camera. error - the operation could not be completed

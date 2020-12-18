@@ -1,0 +1,1 @@
+ URL : "https://github.com/ARMataTeam/ARMata/issues/69" TITLE : yaml template view BODY : when armtemplate/jsonfile is large mayby it will be good to add new view, which allow to view template in yaml format. we can use json2yaml https://www.npmjs.com/package/json2yaml or something similar. it's only proposition for version 2 or 3 :-

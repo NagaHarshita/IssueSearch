@@ -1,0 +1,1 @@
+ URL : "https://github.com/polserver/polserver/issues/29" TITLE : wearable items & corpses BODY : npc with a human graphic has wearable items in his backpack but not equipped! . when npc dies these items are equipped on his corpse. did not tested it with player characters atm, will do it later.

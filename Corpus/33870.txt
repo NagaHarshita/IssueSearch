@@ -1,0 +1,1 @@
+ URL : "https://github.com/biokit/bioconvert/issues/97" TITLE : avoid scipy function BODY : i will copy/paste the gmean function from scipy in the core/benchmark to avoid the scipy dependency

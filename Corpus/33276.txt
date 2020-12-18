@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla/normandy/issues/977" TITLE : add end-to-end tests BODY : adding e2e tests to verify all ui functions against real services dev, stage, prod, and duo .

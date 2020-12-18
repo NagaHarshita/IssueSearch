@@ -1,0 +1,1 @@
+ URL : "https://github.com/ChrisALee/twitch-stocks/issues/61" TITLE : fix and improve travis ci BODY : i've added a temporary fix that does a cd to /client before installing. the goal is for travis ci to be able to do all three directors /client , /server , /twitch and also have the added features from 45.

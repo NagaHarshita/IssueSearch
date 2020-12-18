@@ -1,0 +1,1 @@
+ URL : "https://github.com/Flowpack/Flowpack.Listable/issues/21" TITLE : routing seems not to work BODY : according to the routes.yaml which should be auto-included, i should be able to use urls like /de/news~p2.html , correct? this seems to be broken.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/dhimmel/hetio/issues/4" TITLE : py2neo 3 compatibility BODY : i'm working on upgrading hetio to be compatible with py2neo 3. since many parts of the rephetio pipeline use hetio , what do you think the easiest way would be to test them all? so far i've managed to get hetio to load nodes into neo4j 3.1.1.

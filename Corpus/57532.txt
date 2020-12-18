@@ -1,0 +1,1 @@
+ URL : "https://github.com/MarieLBernard44/just_api/issues/5" TITLE : question : ajax ou pas BODY : https://github.com/marielbernard44/just_api/blob/6f792091c3caabcefa79f48d6a99c3a573f0e858/view/login.pug l21 l'action suivante est-elle catché via une requête ajax où cela redirige t-il vers une autre page ?

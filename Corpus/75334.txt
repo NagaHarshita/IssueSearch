@@ -1,0 +1,1 @@
+ URL : "https://github.com/JohannDesobry/hetic-p2020-11/issues/3" TITLE : gulp > declaration order BODY : be careful about the order of your code inside the gulpfile. you add the task with listing the function before declare it. try to reorder to a more logical order.

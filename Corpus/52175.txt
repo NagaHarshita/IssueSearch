@@ -1,0 +1,1 @@
+ URL : "https://github.com/dr4ke616/MMM-Voice-Control/issues/8" TITLE : cant detect microphone BODY : the microphone is detected by the arecord -1 command and works when it is recording sound. but when using this module it cannot turn on and detect sound, im using a logitech webcam c170 as a microphone

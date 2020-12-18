@@ -1,0 +1,1 @@
+ URL : "https://github.com/futurechimp/awrence/issues/1" TITLE : support for acronym keys BODY : in some case one needs {:site_url => ... , :user_id => 1} to be {siteurl => ... , userid => 1} . this is not possible. what about adding something like: rb bad name but you get the idea awrence.mappings = { :url => url , ... } ❓

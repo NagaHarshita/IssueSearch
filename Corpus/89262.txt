@@ -1,0 +1,1 @@
+ URL : "https://github.com/Eastrall/Hellion/issues/32" TITLE : problem recieving packets BODY : there is an error when recieving and dispatching registered packets: error : exception has been thrown by the target of an invocation. first thoughts: it could be an inter-thread problem. a problem with ether.network library. this problem needs to be solved asap.

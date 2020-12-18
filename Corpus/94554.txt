@@ -1,0 +1,1 @@
+ URL : "https://github.com/RMonica/ros_kinfu/issues/11" TITLE : catkin_make complile error BODY : hi: when i try to make the code.i got that error. 80% built target kinfulargescalecpp makefile:138: recipe for target 'all' failed make: all error 2 invoking make -j8 -l8 failed looking forward to your reply.

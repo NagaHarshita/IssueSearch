@@ -1,0 +1,1 @@
+ URL : "https://github.com/jayphelps/core-decorators.js/issues/100" TITLE : async function support BODY : throttle/debounce won't work for async functions, hope could work with functions return a promise. idea: https://github.com/sindresorhus/promise-fun

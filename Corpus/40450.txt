@@ -1,0 +1,1 @@
+ URL : "https://github.com/MindscapeHQ/gulp-raygun-sourcemaps/issues/4" TITLE : unable to chain task BODY : i want to do cleanup after running this task, it appears that it doesn't handle this step.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ntzwrk/beacon/issues/4" TITLE : code coverage checks BODY : there are services to check the code quality, test coverage, duplicate codes and so on out there. one example is codecov https://codecov.io/ . this might help to keep the overall code quality high. also applies to beacon.js https://github.com/ntzwrk/beacon.js

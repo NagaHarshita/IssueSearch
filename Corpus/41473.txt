@@ -1,0 +1,1 @@
+ URL : "https://github.com/Thakugan/machine-learning-notebooks/issues/35" TITLE : 5: compare to sklearn BODY : 10 points compare the performance of your mlp training procedure to scikit-learn. which implementation is better in terms of generalization performance, computation time, and memory used while training?

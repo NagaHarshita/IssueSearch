@@ -1,0 +1,1 @@
+ URL : "https://github.com/igvteam/igv/issues/418" TITLE : cannot remove hg19 genome BODY : i can't remove the hg19 genome using manage genome list . it just won't go away. in general genome removal is a bit flaky. tested in master branch.

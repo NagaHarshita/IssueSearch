@@ -1,0 +1,1 @@
+ URL : "https://github.com/threatgrid/ctim/issues/130" TITLE : clean up observedrelation BODY : we should probably remove :origin and :origin_uri.

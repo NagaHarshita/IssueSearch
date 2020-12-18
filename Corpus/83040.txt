@@ -1,0 +1,1 @@
+ URL : "https://github.com/onfido/onfido-sdk-ui/issues/264" TITLE : bootstrap 3 styling issue BODY : seems that the css does not play nicely with bs3 bs4 is fine , see https://jsfiddle.net/4xqtt6fl/112/ as an example based on your own original fiddle

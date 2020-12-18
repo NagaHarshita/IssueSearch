@@ -1,0 +1,1 @@
+ URL : "https://github.com/nextcloud/polls/issues/235" TITLE : add labels to repository. BODY : for better clearence of the status of a pr, we could adopt the labels, which are used by the server repo. 0. needs riage 1. to develop 2. developing 3. to review 4. to release opinions?

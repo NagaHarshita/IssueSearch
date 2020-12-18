@@ -1,0 +1,1 @@
+ URL : "https://github.com/Massey-7-Wonders-project-team/Massey_Project_7_Wonders/issues/156" TITLE : user doesn't exist BODY : when we reset the database a logged in person no longer exists we need to make sure this clears the localstorage token and redirects to the login/register screen

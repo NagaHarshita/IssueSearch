@@ -1,0 +1,1 @@
+ URL : "https://github.com/ably/ably-python/issues/96" TITLE : pycrypto --> pycryptodome BODY : pycrypto is not actively maintained https://blog.sqreen.io/stop-using-pycrypto-use-pycryptodome/ . it has no new commits since 2014. pycryptodome https://github.com/legrandin/pycryptodome is a compatible, actively maintained fork of pycrypto.

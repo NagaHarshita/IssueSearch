@@ -1,0 +1,1 @@
+ URL : "https://github.com/dweng0/doccadefinitions/issues/1" TITLE : syntax tree reader BODY : take the syntax tree as defined by the docca definitions and convert it into a typescript ast

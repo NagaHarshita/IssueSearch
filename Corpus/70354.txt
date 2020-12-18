@@ -1,0 +1,1 @@
+ URL : "https://github.com/konsolas/AAC-Issues/issues/651" TITLE : velocity false positive BODY : floating about a block above water and getting hit by an iron golem causes for false velocity flags. i was able to reproduce this on 1.8 - 1.11, on the most recent aac version. https://youtu.be/y6kzm02xgh4

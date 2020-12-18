@@ -1,0 +1,1 @@
+ URL : "https://github.com/d0k3/GodMode9/issues/277" TITLE : essentials not updated BODY : so i just found out the movable in my essentials.exefs on the sysnand virtual drive does not match my currently used movable shas aren't identical, even after confirming the cmacs were fine . verified the movables create different id0s. is there a way to update those files?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/victoriarobotics/victoria_platform/issues/3" TITLE : timeout for cmd_vel BODY : when the teensy is listening for cmd_vel, it needs to have a timeout where if it doesn't receive a new command within 200 ms, it commands the motors to stop.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/KonstantinSimeonov/fluent-schemer/issues/1" TITLE : image schema validator BODY : implement an image base64 data validator. features: - verify mime type png , jpeg , garbage - check for dimensions hxw - verify file size doesn't exceed x bytes

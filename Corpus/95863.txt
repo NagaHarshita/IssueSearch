@@ -1,0 +1,1 @@
+ URL : "https://github.com/arapidhs/scry/issues/2" TITLE : document mobygames engine. BODY : add better documentationto for the mobygames scrapper, provide end-to-end example of parsing a sample .dat file, and importing to launchbox xml. standalone parsing from cli.

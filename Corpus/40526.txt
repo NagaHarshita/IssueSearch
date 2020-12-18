@@ -1,0 +1,1 @@
+ URL : "https://github.com/ciena-frost/ember-frost-core/issues/456" TITLE : update color palette BODY : to address some isssue on monitors without proper calibration $frost-color-lgrey-1 > e2e2e2 $frost-color-lgrey-2 > dbdbdb $frost-color-lgrey-3 > f0f2f4 $frost-color-lgrey-4 > f5f6f7

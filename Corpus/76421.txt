@@ -1,0 +1,1 @@
+ URL : "https://github.com/lehins/hip/issues/11" TITLE : jpeg writer false colors BODY : when loading a png image and storing it as a jpeg results in false colors. writing as png is fine. command: readimagergb vu in.png >>= writeimage out.jpg example image: images.zip https://github.com/lehins/hip/files/815267/images.zip

@@ -1,0 +1,1 @@
+ URL : "https://github.com/lao9/we_can_pickle_that/issues/27" TITLE : 9: viewing past orders BODY : body: > background: an existing user that has multiple orders as an authenticated user when i visit /orders then i should see all orders belonging to me and no other orders

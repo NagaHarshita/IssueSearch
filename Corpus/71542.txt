@@ -1,0 +1,1 @@
+ URL : "https://github.com/jpmorganchase/constellation/issues/15" TITLE : add peer management apis BODY : - ability to trigger immediate resynchronization - ability to add a peer which for whatever reason isn't reaching out to us, e.g. empty initial config at runtime

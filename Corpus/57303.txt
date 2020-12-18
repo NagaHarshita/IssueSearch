@@ -1,0 +1,1 @@
+ URL : "https://github.com/Wi5/odin-wi5/issues/30" TITLE : problem starting agent BODY : we see this issue while starting the agent 2016-02-29t14:10:24z|00002|reconnect|info|unix:/var/run/db.sock: connected configuring openvswitch router.cli:16: 'odinagent :: odinagent' input 2 unused router could not be initialized!

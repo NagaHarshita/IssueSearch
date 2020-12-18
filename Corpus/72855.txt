@@ -1,0 +1,1 @@
+ URL : "https://github.com/derUli/ulicms-clean-up/issues/13" TITLE : check for unused modules BODY : modul welches ermittelt, welche embed-module nicht mehr genutzt werden. das modul - wird nicht als inhaltstyp modul verwendet - auch nicht per embed code anschließend: - liste der ergebnisse - checkbox zum löschen des moduls in jeder zeile

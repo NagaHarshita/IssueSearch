@@ -1,0 +1,1 @@
+ URL : "https://github.com/roundcube/roundcubemail/issues/5832" TITLE : support sieve mime tests BODY : i would like to see support for the mime test extension https://tools.ietf.org/html/rfc5703 to sieve.

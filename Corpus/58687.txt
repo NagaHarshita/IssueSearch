@@ -1,0 +1,1 @@
+ URL : "https://github.com/JSQLParser/JSqlParser/issues/418" TITLE : statement deep cloning BODY : hello.i can't seem to find a way to deep-clone an already parsed statement. does such functionality exist?

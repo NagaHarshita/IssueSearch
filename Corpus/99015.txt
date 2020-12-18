@@ -1,0 +1,1 @@
+ URL : "https://github.com/ZoomerAnalytics/xlwings/issues/652" TITLE : mac: visible=false invalid BODY : hi, when i use xlwings xlsx file operation, set up the app = xlwings.app visible = false but in mac will automatically open the excel.app, and would not automatically open the excel in win10. mac os 10.12.4 windows10 pycharm python3.6 xlwings last version from pypi

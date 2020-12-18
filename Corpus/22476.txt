@@ -1,0 +1,1 @@
+ URL : "https://github.com/TurtleWolf/360timestamp/issues/1" TITLE : line 39 app.listen BODY : //app listening app.listen $port, function { console.log omg ; } i think this is related to being on cloud 9. i've tried 8080 8081 8082 & process.env.port there's something about it i'm just not getting?

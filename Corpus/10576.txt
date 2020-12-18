@@ -1,0 +1,1 @@
+ URL : "https://github.com/albertpastrana/test-issues/issues/1" TITLE : cool new feature BODY : with some description and some code as well scala def main args: array string : unit = { println hola world! }

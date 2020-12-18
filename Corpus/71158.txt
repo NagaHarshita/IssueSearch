@@ -1,0 +1,1 @@
+ URL : "https://github.com/patrickmichalina/fusebox-angular-universal-starter/issues/32" TITLE : abstract injection tasks BODY : instead of the current ad-hoc injections, lets make an abstraction so we can bundle injections with a fluent api

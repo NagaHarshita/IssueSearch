@@ -1,0 +1,1 @@
+ URL : "https://github.com/Chatatata/iyzico/issues/3" TITLE : card family error BODY : when we try debit cards we get the following system error. elixir caseclauseerror no case clause matching: neo lib/model/card.ex:154: iyzico.card.get_card_family/1 the card numbers we use. https://dev.iyzipay.com/tr/test-kartlari debit cards

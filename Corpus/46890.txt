@@ -1,0 +1,1 @@
+ URL : "https://github.com/isleofcode/ember-cordova-splash/issues/8" TITLE : needs corber updates? BODY : using with corber... ember install ember-cordova-splash ... results in ... npm: installed ember-cordova-splash installing ember-cordova-splash ember-cordova plugin error: can not install cordova-plugin-splashscreen as ember-cordova is not installed

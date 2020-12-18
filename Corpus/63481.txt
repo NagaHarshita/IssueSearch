@@ -1,0 +1,1 @@
+ URL : "https://github.com/anajauregui/Palette-Pickr/issues/13" TITLE : duplication of palettes BODY : need to adjust where certain calls are being made to avoid appending repeat palettes or projects.

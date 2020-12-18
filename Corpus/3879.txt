@@ -1,0 +1,1 @@
+ URL : "https://github.com/derv82/wifite2/issues/41" TITLE : --dict not set BODY : when i captured the handshake wifite says not cracking because --dict not set.. how do i solve this? when i run wifite.py --dict it says it is not a command. iam running one plus one kali nethunter wifite2

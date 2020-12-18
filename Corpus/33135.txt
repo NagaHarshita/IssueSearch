@@ -1,0 +1,1 @@
+ URL : "https://github.com/hjeti/vue-skeleton/issues/3" TITLE : add 'name' to routes BODY : should we add a name by default to the routes? this makes it simple to use the localised router-link.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/yunity/karrot-backend/issues/431" TITLE : fix frontend urls BODY : when signing up, the e-mail contains an url that is only valid for the angular frontend: http://localhost:8000/ !/verify-mail?key=vqz1drqvb69exdqqlkcwclwvosoquco6tbzxhssy need to identify and rename the urls for the new quasar frontend. bonus points if it can be decoupled somehow.

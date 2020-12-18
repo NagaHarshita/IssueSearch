@@ -1,0 +1,1 @@
+ URL : "https://github.com/Lucky38i/SDI/issues/14" TITLE : write method 'second' BODY : takes a parameter a stack object and returns the second element of the stack. the original stack remains unchanged.

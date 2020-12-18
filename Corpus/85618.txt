@@ -1,0 +1,2 @@
+ URL : "https://github.com/unitb/literate-unitb-complete/issues/22" TITLE : find and remove dead code BODY : from literate-unitb created by aminb https://github.com/aminb : unitb/literate-unitb 21 originally reported by: simon hudon bitbucket: cipher2048 https://bitbucket.org/cipher2048 , github: unknown --- ... use ghc code coverage features also find untested code and add test cases for it ---
+- bitbucket: https://bitbucket.org/literateunitb/literate-unitb/issue/21

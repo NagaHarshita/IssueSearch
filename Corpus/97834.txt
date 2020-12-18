@@ -1,0 +1,1 @@
+ URL : "https://github.com/chrmarti/testissues/issues/3593" TITLE : html add multiroot support BODY : adopt the html language server to support multi roots: - support folder specific formatter and suggest settings

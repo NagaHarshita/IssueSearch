@@ -1,0 +1,1 @@
+ URL : "https://github.com/kkroening/ffmpeg-python/issues/22" TITLE : add logger to ffmpeg call BODY : it would be very useful to have a logger for the ffmpeg call. it would be easier to integrate in a system of loggers. is it possible to have in the future?

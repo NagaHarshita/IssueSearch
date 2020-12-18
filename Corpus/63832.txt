@@ -1,0 +1,1 @@
+ URL : "https://github.com/FLAMEGPU/FLAMEGPU/issues/84" TITLE : execution without 0.xml BODY : with host-based agent creation can execute a sim without 0.xml, would need to be a conditional arg. this would need to output files to some location, need to be careful and document this. assign this to twin when possible

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jeffbourdier/scwal/issues/21" TITLE : hyperlink individual urls BODY : if a table cell contains multiple urls, they are hyperlinked as if they are all one url together. each url should be hyperlinked individually. for example, see techminology_links view in personal data.

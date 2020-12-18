@@ -1,0 +1,1 @@
+ URL : "https://github.com/bitraf/infrastructure/issues/2" TITLE : make ipv6 work BODY : @trygvis and i tried to make ipv6 available to all the machines on bitraf's network, with autoconfiguration by dhcp6, but we have failed

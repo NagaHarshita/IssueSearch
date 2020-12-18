@@ -1,0 +1,1 @@
+ URL : "https://github.com/laravel/passport/issues/476" TITLE : url for asset BODY : file: authorized.blade.php origin: <link href= /css/app.css rel= stylesheet > suggestion: <link href= {{ asset '/css/app.css' }} rel= stylesheet >

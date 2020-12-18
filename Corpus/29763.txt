@@ -1,0 +1,1 @@
+ URL : "https://github.com/r-simmer/simmer/issues/130" TITLE : modify an attribute BODY : r now trajectory %>% set_attribute parts , function get_attribute env, parts + 1 proposal trajectory %>% mod_attribute parts , 1, op= +

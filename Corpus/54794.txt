@@ -1,0 +1,1 @@
+ URL : "https://github.com/nWidart/laravel-modules/issues/426" TITLE : how does routes work ? BODY : hello, thanks for the nice package. i am triyin to figure out how to open the module in the browser. i created a module from the console after that i tried to open in the browser but it throws 404. i didn't find anything in docs btw... thanks in advance

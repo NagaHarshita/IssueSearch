@@ -1,0 +1,1 @@
+ URL : "https://github.com/Frederikam/FredBoat/issues/139" TITLE : fix persistent queues BODY : we have a persistent queue system, only that's it's broken and thus disabled. i'm thinking of rewriting this, but with an sql table instead of the filesystem. thoughts?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/CodersOfTheNight/oshino-redis/issues/1" TITLE : redis sentinel support BODY : it would be nice to have possibility using sentinel framework. in config define all sentinels and tell name of master, it would automatically retrieve current master's info

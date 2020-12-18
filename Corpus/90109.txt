@@ -1,0 +1,1 @@
+ URL : "https://github.com/hardware/mailserver/issues/165" TITLE : rspamd learning retention BODY : i'm wondering where the spam/ham statistics are actually kept. i just need assurance that a reboot of the mailserver is not going to make it a baby again. also, is there a way to import these statistics from https://rspamd.com/rspamd_statistics/ ?

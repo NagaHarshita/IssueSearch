@@ -1,0 +1,1 @@
+ URL : "https://github.com/devgc/EventMonkey/issues/15" TITLE : add libxml to dependencies BODY : for windows can be found here: http://www.lfd.uci.edu/~gohlke/pythonlibs/ lxml

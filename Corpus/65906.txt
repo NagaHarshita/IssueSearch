@@ -1,0 +1,1 @@
+ URL : "https://github.com/IdentityServer/IdentityServer4/issues/648" TITLE : load balance for idsvr4 BODY : implementing the interface ipersistedgrantstore that could persist refreshtoken, is there any way to store the access token, so that support load balance.

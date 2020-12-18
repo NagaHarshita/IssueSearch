@@ -1,0 +1,1 @@
+ URL : "https://github.com/Learn-by-doing/hobobar/issues/49" TITLE : app - cache map view BODY : the map view shouldn't be re-rendered on every navigation.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/awesto/djangoshop-paypal/issues/5" TITLE : correct readme versions? BODY : i'm guessing these version numbers are supposed to be different? installation for django-shop version 0.10.x: pip install djangoshop-paypal==0.1.4 for django-shop version 0.10.x: pip install djangoshop-paypal==0.2.0

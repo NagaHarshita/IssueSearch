@@ -1,0 +1,1 @@
+ URL : "https://github.com/aeternity/testnet/issues/10" TITLE : javascript light wallet BODY : we need javascript libraries for downloading the headers from the blocks, and finding the longest chain of headers. for now only the experimental branch has headers for the blocks.

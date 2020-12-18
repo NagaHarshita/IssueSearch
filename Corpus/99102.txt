@@ -1,0 +1,1 @@
+ URL : "https://github.com/jtpereyda/boofuzz/issues/160" TITLE : make new primitives easier BODY : seems like you should be able to make a new primitive by just defining a function that returns arbitrary data. why bother with all the boilerplate when all you're doing is returning stuff? iterators may be a good choice for this.

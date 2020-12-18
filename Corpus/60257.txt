@@ -1,0 +1,1 @@
+ URL : "https://github.com/nymag/clay-kiln/issues/779" TITLE : wysiwyg newline issues BODY : newlines between text are removed on save not sure if this is quill or the paragraph's fault extra newlines are added to multi-line inputs when the form opens blockquote

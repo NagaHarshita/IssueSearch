@@ -1,0 +1,1 @@
+ URL : "https://github.com/psfinaki/ChordinaryWorld/issues/65" TITLE : save songs in pascal case BODY : problem currently the songs in the top are shown as-is. all small letters do not look nice. better to have artist and title in pascal case, like _the pogues - dirty old town_.

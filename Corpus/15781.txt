@@ -1,0 +1,1 @@
+ URL : "https://github.com/Pindar/pindar.github.io/issues/7" TITLE : fix slides module BODY : currently the slides module doesn't work because it's embedded without ssl.

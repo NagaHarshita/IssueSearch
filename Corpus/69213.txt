@@ -1,0 +1,1 @@
+ URL : "https://github.com/jhanstra/snipster/issues/7" TITLE : support atom plain text BODY : plain text in atom is text.plain.null-grammar scope, for example, a .flowconfig file

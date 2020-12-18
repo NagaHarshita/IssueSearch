@@ -1,0 +1,1 @@
+ URL : "https://github.com/Magdain/msubs_wpf/issues/16" TITLE : fix seeking bug BODY : if you manually seek while the video is playing, shit gets wonky. the video stutters until it catches up. why does this happen?

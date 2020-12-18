@@ -1,0 +1,1 @@
+ URL : "https://github.com/idaholab/mastodon/issues/50" TITLE : create mastodon block BODY : slaughter, andrew edward created issue: @bolic @veers @numaoa @hoffwm @colejl use this to define what the mastodon block should do. mastodon ./siteresponse foo = true what kernels, bcs, auxkernels, outputs etc. should this enable ../

@@ -1,0 +1,1 @@
+ URL : "https://github.com/react-community/react-navigation/issues/978" TITLE : close drawer then navigate BODY : i'm using drawernavigator parent with stacknavigator child , when i press back button or using goback function in stacknavigator page to drawernavigator page , the drawer is still open i tried to use goback routename but it doesn't work.

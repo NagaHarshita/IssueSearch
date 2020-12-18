@@ -1,0 +1,2 @@
+ URL : "https://github.com/TTFG-Analytics/commonground/issues/24" TITLE : add and view comments BODY : user should be able to add and view comments. - comments should save to the database
+- upon adding a comment, the user should be able to see their comment

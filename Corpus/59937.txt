@@ -1,0 +1,1 @@
+ URL : "https://github.com/jesstrux/loveartswebsite/issues/15" TITLE : verify syntax for urls BODY : use regex or something similar to verify that all urls entered such as facebook, soundcloud links and twitter lurls are valid.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/parallaxinc/Simple-Libraries/issues/81" TITLE : occasional 2 tick error BODY : this sequence sometimes finishes 2 ticks from where it started. drive_goto 128, 128 ; drive_goto 26, -26 ; drive_goto -52, 52 ; drive_goto 26, -26 ; drive_goto -128, -128 ; drive_goto 128, 192 ; drive_goto -128, -192 ; drive_goto 192, 128 ; drive_goto -192, -128 ;

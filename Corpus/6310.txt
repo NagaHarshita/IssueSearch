@@ -1,0 +1,1 @@
+ URL : "https://github.com/Financial-Times/n-es-client/issues/6" TITLE : add .tag method BODY : the existing api client supports fetching an individual tag, or thing . we should also support this feature for now, knowing that when capi v1 is switched off in a few months we can remove it.

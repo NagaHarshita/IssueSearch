@@ -1,0 +1,1 @@
+ URL : "https://github.com/airblade/vim-rooter/issues/64" TITLE : i need new mode BODY : i always start vim under folder which is project's root folder. there are tags and cscope.out under this folder. while i read code, current folder will be change current file. this will cause ctag no work. my requirement is simple no need find vcs ,just folder open by vim is enough

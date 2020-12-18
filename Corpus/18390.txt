@@ -1,0 +1,1 @@
+ URL : "https://github.com/katana-dev/docs/issues/3" TITLE : sysex system area BODY : the system area 00 00 00 00 - 00 00 04 29 i have not researched yet. the last addresses are documented in https://github.com/snhirsch/katana-midi-bridge/blob/master/doc/katana_sysex.txt the beginning might match up with the gt-100 spec.

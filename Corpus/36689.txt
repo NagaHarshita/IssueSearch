@@ -1,0 +1,1 @@
+ URL : "https://github.com/bupy7/js-cropbox/issues/8" TITLE : image loading issues BODY : in chrome and safari, when a particular image has been selected, and then reset button is pressed, if the user wants to select the same image again, the image will not appear for cropping.

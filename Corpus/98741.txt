@@ -1,0 +1,1 @@
+ URL : "https://github.com/wrouesnel/postgres_exporter/issues/47" TITLE : lack of connection pooling BODY : the exporter process keeps connecting/disconnecting every time it fetches some metric. this results in new postgres forking all the time, which can cause serious problems in production environment as it leads to memory fragmentation.

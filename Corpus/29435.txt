@@ -1,0 +1,1 @@
+ URL : "https://github.com/SalesforceFoundation/mrbelvedereci/issues/62" TITLE : log info duplicated BODY : log info is duplicated between builds and buildflows, i.e. build logs contain all the lines of its buildflow logs.

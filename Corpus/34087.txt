@@ -1,0 +1,1 @@
+ URL : "https://github.com/pillont/ArcheryManager/issues/30" TITLE : bug remove mutiligne BODY : ajouteer plusieurs fleches pour avoir plusieurs lignes supprimer une fleche selection ou remove last -> les fleches autre que celles de début de ligne sont manquantes faire test sans slider ?

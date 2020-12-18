@@ -1,0 +1,1 @@
+ URL : "https://github.com/NPBruce/valkyrie/issues/50" TITLE : add linux build BODY : shouldn't be hard to add a linux build, however ffg doesn't support their apps on linux, so import would have to be manual copy from another platform . this would be solved by: https://github.com/npbruce/valkyrie/issues/13

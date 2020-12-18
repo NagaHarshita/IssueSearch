@@ -1,0 +1,1 @@
+ URL : "https://github.com/manveru/ver/issues/17" TITLE : terminal only version? BODY : i have ruby and irb working on microsoft/nanoserver as a docker image. https://github.com/woodie/nanoserver-ruby/ sadly, nonoserver has no terminal-based text editors. do you think ver could work?

@@ -1,0 +1,6 @@
+ URL : "https://github.com/OCA/runbot-addons/issues/143" TITLE : migration to version 11.0 BODY : todo https://github.com/oca/maintainer-tools/wiki/migration-to-version-11.0 modules to migrate - runbot_build_instructions
+- runbot_gitlab
+- runbot_pylint
+- runbot_secure
+- runbot_skip_tests
+- runbot_travis2docker

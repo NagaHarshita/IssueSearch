@@ -1,0 +1,1 @@
+ URL : "https://github.com/sanduhrs/drupal-openid_connect/issues/8" TITLE : nothing on login page BODY : hi, i tried to configure your module, it seems to be ok, but nothing appears on drupal's login page to login with openid connect. i may have forgotten something but i'm unable to know what since there is no readme. any idea please ? thank you !

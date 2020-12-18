@@ -1,0 +1,1 @@
+ URL : "https://github.com/dirkraft/getprofile/issues/4" TITLE : add diff command BODY : it's not just a git diff . it would show the differences between local copies and the current head of the clone. so more like for each file, diff it with the latest git show head -- file/path

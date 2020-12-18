@@ -1,0 +1,1 @@
+ URL : "https://github.com/preemptive/PPiOS-Rename/issues/7" TITLE : double obfuscation issue BODY : have used ppios-rename for my project and observed double obfuscation detected. to fix this issue, the documentation says that make sure that source tree is always reset to an unmodified state. could you please explain in detail, what is that need to be taken care here.

@@ -1,0 +1,2 @@
+ URL : "https://github.com/waffleio/waffle.io/issues/2954" TITLE : fix forever coupon BODY : when a coupon has a duration of forever, we currently show a date ending 47 years in the future rather than forever ac:
+- fix forever coupon duration text to be 'forever' instead of some erroneous date

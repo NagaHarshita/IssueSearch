@@ -1,0 +1,1 @@
+ URL : "https://github.com/JosiahKunz/Beamline-Architect/issues/47" TITLE : common popup units BODY : popup units should be underneath. to implement, use newline character in popup commands i.e., . below: top and bottom look good, but middle does not! ! image https://user-images.githubusercontent.com/26817935/33579525-25a87c4e-d918-11e7-98e6-1acc4ab7ac2c.png

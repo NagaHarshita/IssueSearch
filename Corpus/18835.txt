@@ -1,0 +1,1 @@
+ URL : "https://github.com/MagicTheGathering/mtg-api/issues/25" TITLE : urza's saga error BODY : when searching by set name, urza's sage returns a 500. https://api.magicthegathering.io/v1/cards?setname=urza%27s%20saga

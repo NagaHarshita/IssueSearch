@@ -1,0 +1,1 @@
+ URL : "https://github.com/PonderingGrower/rbackup/issues/1" TITLE : first stable release BODY : before i can release something like 0.1 i will need: unit tests functional tests proper dependencies in setup.py better defined logging sane restore mode checks & confirmations probably some others.

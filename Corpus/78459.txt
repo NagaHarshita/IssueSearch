@@ -1,0 +1,1 @@
+ URL : "https://github.com/SimplrJS/scss-bundle/issues/25" TITLE : properly publish typings BODY : a few things i noticed recently dist/ and @types/ are published inside of github. @types folder is not published within npm

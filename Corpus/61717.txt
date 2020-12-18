@@ -1,0 +1,1 @@
+ URL : "https://github.com/the-control-group/voyager/issues/1351" TITLE : blank after admin login BODY : - laravel version: 5.4 - voyager version: 0.10.12 - php version: 7 - database driver & version: description: i installed voyager clean on laravel now when i log in the screen goes blank and shows error 500 can anyone help ? steps to reproduce:

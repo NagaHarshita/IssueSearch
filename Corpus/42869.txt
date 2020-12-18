@@ -1,0 +1,1 @@
+ URL : "https://github.com/wbkd/dsv-loader/issues/12" TITLE : cannot find module... BODY : hi there, i'm getting a cannot find module 'dsv!./data.csv' error using node v8.1.1, npm 5.0.3 i have the data.csv file in the dir am i missing something ? cheers

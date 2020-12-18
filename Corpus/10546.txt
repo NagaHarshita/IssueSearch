@@ -1,0 +1,1 @@
+ URL : "https://github.com/busterwood/Serverless/issues/4" TITLE : command line api BODY : command line tools to: add job cancel job list running job list complete jobs, list job results list jobs waiting to run list failed jobs etc

@@ -1,0 +1,1 @@
+ URL : "https://github.com/hashicorp/terraform/issues/16687" TITLE : print range of resources BODY : assuming a resource with a count of 5, is there a way i can get the last 3 or the first 2?

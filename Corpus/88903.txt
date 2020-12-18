@@ -1,0 +1,1 @@
+ URL : "https://github.com/libretro/Lakka-LibreELEC/issues/196" TITLE : parallei on lakka 2.1 rc4 BODY : it breaks when loading from states sometimes/often, it worked in 2.1 rc3 and some buttons on my pad have switched places for some reason?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ProjectCopilot/mailroom/issues/98" TITLE : emails are marked as spam BODY : whenever we send emails from sendgrid, we get classified as a spammer. fix our communications module and email authentication/signing to allow for verified emails that go through every time.

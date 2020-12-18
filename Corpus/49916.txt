@@ -1,0 +1,1 @@
+ URL : "https://github.com/PunkIslamist/WorkTime/issues/3" TITLE : use a functional core BODY : try rewriting the program with a functional core, where the state is moved to an outside layer. see: https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell

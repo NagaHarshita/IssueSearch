@@ -1,0 +1,1 @@
+ URL : "https://github.com/massix/TrollsGamesServer/issues/80" TITLE : fix fuzzy search for games BODY : if an user types 7 won d he should have at least the following results: 1. 7 wonders 1. 7 wonders duel

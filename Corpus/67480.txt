@@ -1,0 +1,1 @@
+ URL : "https://github.com/kittn/generator-kittn/issues/23" TITLE : postcss custom function BODY : search for a other keyword, rs is to short. otherwise it triggers with background-image: url data:image/svg+xml;charset=utf-8, . js if decl.value.match /rs/ { decl.value = spacer parsefloat decl.value / base + 'rem' }

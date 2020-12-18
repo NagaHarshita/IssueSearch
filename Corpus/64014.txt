@@ -1,0 +1,1 @@
+ URL : "https://github.com/netgen/NetgenRemoteMediaBundle/issues/13" TITLE : feedback when uploading BODY : when uploading a file in the administration, there is no feedback to the editor that anything is happening. there should probably be some loader at least.

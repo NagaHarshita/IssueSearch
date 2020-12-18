@@ -1,0 +1,1 @@
+ URL : "https://github.com/ukdtom/WebTools.bundle/issues/388" TITLE : logon and bad string BODY : the string: plex.tv is not connected to pms should be: pms is not connected to plex.tv see: https://poeditor.com/projects/po_edit?order=&filter=&id=119295&id_language=39&search=connected prioritized due to translators

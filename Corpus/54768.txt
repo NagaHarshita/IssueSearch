@@ -1,0 +1,1 @@
+ URL : "https://github.com/fancyapps/fancybox/issues/1577" TITLE : horizontal touch slide BODY : how to disable horizontal touch sliding? if i set modal:true option, then close outside option not working. i tried to combine both option: modal:true and clickoutside:'close', but it's not working.

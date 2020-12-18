@@ -1,0 +1,1 @@
+ URL : "https://github.com/vuejs/vue/issues/4891" TITLE : filters and v-if BODY : have filter that returns boolean depends on value. doesn't work in v-if. v-if= value | filtername

@@ -1,0 +1,1 @@
+ URL : "https://github.com/webcamoid/webcamoid/issues/52" TITLE : build without pulseaudio BODY : in some distributions, users are accustomed to do without pulseaudio. possible build options: use_gstreamer: 0, 1; default: 0

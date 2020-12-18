@@ -1,0 +1,1 @@
+ URL : "https://github.com/getgrav/grav-plugin-admin/issues/1144" TITLE : no modal image preview BODY : admin 1.5.0 rc3: in media manager clicking the eye view button of an image - opens the image in a new browser tab clicking the i metadata button - opens modal should be modal for the view button too.

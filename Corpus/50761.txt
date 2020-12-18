@@ -1,0 +1,1 @@
+ URL : "https://github.com/uxmal/reko/issues/462" TITLE : add 64 bit reko builds BODY : having 64bit reko builds will avoid exceptions related to the clr heap limit that 32bit builds have

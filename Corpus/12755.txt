@@ -1,0 +1,1 @@
+ URL : "https://github.com/coreos/jetcd/issues/88" TITLE : rework lease api BODY : - add tests to grant - add tests to revoke - add tests to keepalive - add timetolive api with tests - add tests keepaliveonce

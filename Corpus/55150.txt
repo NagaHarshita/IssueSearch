@@ -1,0 +1,1 @@
+ URL : "https://github.com/comichron-data/longbox/issues/22" TITLE : improve a11y support 2 BODY : figure out how to make comic's script available to users with screen readers. it doesn't necessarily have to render visually, but having it in the markup somewhere would be cool. before that figure out how to markup the script to demarcate pages, panel descriptions, dialogue and sfx

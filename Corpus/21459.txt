@@ -1,0 +1,1 @@
+ URL : "https://github.com/dwyl/ignored/issues/10" TITLE : find .gitignore up BODY : so that this works in subdirectories. i would use this for the job: https://www.npmjs.com/package/find-up

@@ -1,0 +1,1 @@
+ URL : "https://github.com/blockstack/daily-scrum/issues/44" TITLE : fri, may 5, 2017 BODY : yesterday: troubleshooting core price look up, added profile lookup endpoint to explorer api, published blockstack.js as a bower package so that it can be used in explorer. today: more explorer work.

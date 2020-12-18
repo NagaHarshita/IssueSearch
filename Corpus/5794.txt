@@ -1,0 +1,1 @@
+ URL : "https://github.com/ibarraespinosa/vein/issues/5" TITLE : support for sf BODY : sf is an r package of spatial features. vein needs to migrate its dependencies from sp to sf

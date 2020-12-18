@@ -1,0 +1,1 @@
+ URL : "https://github.com/rbuckton/reflect-metadata/issues/84" TITLE : date type is object BODY : using reflect-metadata with typescript. on a parameter of type date the type a get through the reflect-metadata library is object. is there no possibility to get date back ?

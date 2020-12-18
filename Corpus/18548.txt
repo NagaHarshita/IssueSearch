@@ -1,0 +1,1 @@
+ URL : "https://github.com/thecyberd3m0n/ngRuflix/issues/1" TITLE : time slider hangs BODY : after user changes slider position, it hangs. it also uses wrong values to change track time

@@ -1,0 +1,1 @@
+ URL : "https://github.com/DefrostedTuna/scouter/issues/23" TITLE : sanitize model data BODY : transform the following fields to sanitize the input parts: part_number device: serial_number model number: model_number size manufacturer type location: bin

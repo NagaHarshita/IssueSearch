@@ -1,0 +1,1 @@
+ URL : "https://github.com/kubernetes-client/java/issues/57" TITLE : propose release 0.1.0 BODY : @mbohlool @brendandburns i'm thinking not jumping to 1.0.0 directly gives us more leeway in applying early fixes.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ELENA-LANG/elena-lang/issues/307" TITLE : explicit literal constants BODY : similar to c++ operator , elena should support an explicit literal constants: struct octalnumber { int value. implicit o &literal:s value := intconvertor convert &literal:s &base:8. ... } program = ... var o := 12o. .

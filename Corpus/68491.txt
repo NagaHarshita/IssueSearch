@@ -1,0 +1,1 @@
+ URL : "https://github.com/mfoody/akka-boot-starter/issues/38" TITLE : s3 bucket name - unique BODY : concatenate application name with bucket name to make unique.

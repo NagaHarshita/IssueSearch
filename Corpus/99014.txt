@@ -1,0 +1,1 @@
+ URL : "https://github.com/ryanoasis/vim-devicons/issues/208" TITLE : mac/win instructions tweak BODY : you can use _ instead of \<space> in set guifont= . justthesmallthings

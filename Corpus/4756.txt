@@ -1,0 +1,1 @@
+ URL : "https://github.com/redhat-developer/vscode-java/issues/220" TITLE : format on save BODY : i've been playing around with the format document command and i was wondering if it would be possible to configure it to format the document whenever i save.

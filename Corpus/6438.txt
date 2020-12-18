@@ -1,0 +1,1 @@
+ URL : "https://github.com/stakater/bugs/issues/114" TITLE : add log rotator BODY : each instance must run log rotator; which should zip logs and upload them to some sort of storage.

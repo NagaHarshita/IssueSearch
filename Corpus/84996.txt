@@ -1,0 +1,1 @@
+ URL : "https://github.com/DigitalNZ/supplejack_docker/issues/9" TITLE : editing the record schema BODY : hi everyone, i was wondering what the best way of editing the record schema was. i had thought that you could just edit the record_schema.rb file, and then rebuild the api image in docker, but that didn't work. thanks for the help! -matt

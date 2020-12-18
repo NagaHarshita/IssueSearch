@@ -1,0 +1,1 @@
+ URL : "https://github.com/tranleduy2000/javaide/issues/3" TITLE : crash on file delete. BODY : when i click x in project directory it crashes. it can be fix by asking android for storage permission. i think the crash occur only on android 6 or higher versions. _sent from my huawei ale-l21 using fasthub https://play.google.com/store/apps/details?id=com.fastaccess.github _

@@ -1,0 +1,1 @@
+ URL : "https://github.com/snowflakedb/pdo_snowflake/issues/116" TITLE : need c unittest framework BODY : as we have more test cases as examples, we need better test framework and runners to run tests automatically, detect and aggregate errors. i'm thinking of adding this: https://libcheck.github.io/check/doc/check_html/

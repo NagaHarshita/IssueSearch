@@ -1,0 +1,1 @@
+ URL : "https://github.com/cfwheels/cfwheels/issues/758" TITLE : should .root use .format? BODY : in the new routing system if you do this: drawroutes .root to= main index .end ; you get two routes, /. format and / that seems odd to me?

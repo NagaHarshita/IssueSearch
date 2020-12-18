@@ -1,0 +1,1 @@
+ URL : "https://github.com/Donmanu/SysProg/issues/4" TITLE : hashing / inserting boost BODY : if we save the plain hash before modulo with all identifiers ad keywords, we can accelerate re- inserting and searching inside the hashtable.

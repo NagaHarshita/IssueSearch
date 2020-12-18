@@ -1,0 +1,1 @@
+ URL : "https://github.com/w3c/csswg-drafts/issues/2132" TITLE : css2 typo BODY : https://drafts.csswg.org/css2/syndata.html color-units > users agents may perform higher quality mapping of colors from one gamut to another. it seems me that user agents is correct.

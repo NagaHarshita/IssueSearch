@@ -1,0 +1,1 @@
+ URL : "https://github.com/gfitzp/fitzflix/issues/1" TITLE : fix parallel --return BODY : somehow broke the --return option in one of the last changes so now files aren't returning from remote hosts.

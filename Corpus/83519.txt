@@ -1,0 +1,1 @@
+ URL : "https://github.com/osv-team/ccad/issues/3" TITLE : ccad needs another viewer BODY : currently, some examples are more conveniently visualized using the aocutils viewer based on wx. merging the best of both viewers in ccad would be an improved solution.

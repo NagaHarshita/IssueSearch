@@ -1,0 +1,1 @@
+ URL : "https://github.com/Snowda/MPU9250/issues/7" TITLE : mpu9250 connection failed BODY : initializing i2c devices... testing device connections... mpu9250 connection failed could you specify the connections for the arduino uno & also any changes in the code for the arduino uno? could this be a result of not using external pull-up resistors for the i2c lines?

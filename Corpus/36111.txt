@@ -1,0 +1,1 @@
+ URL : "https://github.com/mtazzari/galario/issues/95" TITLE : galario cmake module BODY : every project that uses cmake can make it very easy for other cmake projects to pick it up, we should just provide a findgalario.cmake or something

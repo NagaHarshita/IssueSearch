@@ -1,0 +1,1 @@
+ URL : "https://github.com/PagerDuty/ZenPacks.PagerDuty.APINotification/issues/3" TITLE : api v2 support BODY : it looks like this zenpack uses the old v1 pagerduty api, which is being deprecated in feb 2018. is someone looking at updating this zen pack?

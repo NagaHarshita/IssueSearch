@@ -1,0 +1,1 @@
+ URL : "https://github.com/kamranahmedse/git-standup/issues/75" TITLE : support git submodules BODY : if repo has submodules, the commits are not found

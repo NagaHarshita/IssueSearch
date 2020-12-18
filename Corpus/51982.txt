@@ -1,0 +1,1 @@
+ URL : "https://github.com/indigo-dc/oidcc/issues/186" TITLE : cache invalidation bug BODY : cached http request are not deleted properly

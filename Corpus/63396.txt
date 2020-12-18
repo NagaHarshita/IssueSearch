@@ -1,0 +1,1 @@
+ URL : "https://github.com/expo/videoplayer/issues/11" TITLE : don't work with expo 23 BODY : invalid version: undefined warning > @expo/videoplayer@0.1.13 has incorrect peer dependency expo@^22.0.0 .

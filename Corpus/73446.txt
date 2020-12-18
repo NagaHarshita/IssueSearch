@@ -1,0 +1,1 @@
+ URL : "https://github.com/OrangeIguanas/bangazon-api/issues/35" TITLE : create initial migration BODY : description: what, why after creating our data models, we need to sync the database for the first time by creating a migration. where: file path migration command executed in the terminal pertinent information: each class/model must be included in this migration

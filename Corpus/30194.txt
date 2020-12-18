@@ -1,0 +1,1 @@
+ URL : "https://github.com/nafundi/congenial-enigma/issues/21" TITLE : oauth token storage BODY : see 3. currently congenial enigma saves oauth tokens to the database. tokens are definitely less risky than other credentials, especially since the gmail tokens seem to expire every hour. however, maybe there are more secure ways to store these credentials?

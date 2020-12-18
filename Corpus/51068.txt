@@ -1,0 +1,1 @@
+ URL : "https://github.com/softleader/repository-package-manager/issues/2" TITLE : add options to install BODY : - -y, --yaml-file - path to a yaml file, default './package.yaml' - -r, --repos-dir - path to the repository dir, default './repositories'

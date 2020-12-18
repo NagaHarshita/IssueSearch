@@ -1,0 +1,1 @@
+ URL : "https://github.com/MatthiasLohr/docker-f5fpc/issues/1" TITLE : reduce image size! BODY : e.g. use alpine linux. run apk update && apk add bash file iproute2 iptables iputils libc6-compat libgcc libstdc++ net-tools wget run mkdir -p /lib64 && ln -s /lib/ld-linux-x86-64.so.2 /lib64/ld-linux-x86-64.so.2

@@ -1,0 +1,1 @@
+ URL : "https://github.com/appium/appium-desktop/issues/88" TITLE : fix windows ux issues BODY : don't download updates on first run see: https://github.com/electron/electron/issues/4306 sign windows app so it doesn't say it's from an 'unknown publisher' add missing file menu 'about appium' missing in linux too and 'check for updates'

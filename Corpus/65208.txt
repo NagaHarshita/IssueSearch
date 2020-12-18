@@ -1,0 +1,1 @@
+ URL : "https://github.com/libundo/Sublundo/issues/3" TITLE : improve cursor handling BODY : the current strategy is to record the cursor's position when either undo or redo is called and then restore it later it's saved with each node : https://github.com/libundo/sublundo/blob/28e05a7ef88d3a40f0153945372979a23879147b/main.py l204-l207 but this doesn't always seem to work great.

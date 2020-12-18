@@ -1,0 +1,1 @@
+ URL : "https://github.com/Manuel83/craftbeerpi/issues/188" TITLE : sudo git pull BODY : why can i not use sudo git pull to update all small and big bugs? example: ssr flickering and autotune pid. here i have to edit some .py files to get it to work. will it take some time to implement this into git pull?

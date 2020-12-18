@@ -1,0 +1,1 @@
+ URL : "https://github.com/caktus/django-timepiece/issues/873" TITLE : no module example_project BODY : ive tried to do something with the django-timepiece but im having trouble running python manage.py syncdb error: no module named example_project and i can see the folder there please i really need you guys to help me

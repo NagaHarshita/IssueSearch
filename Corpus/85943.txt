@@ -1,0 +1,1 @@
+ URL : "https://github.com/JonnySCG/RoskMiddleEarth/issues/28" TITLE : general create json tutto BODY : make a function that return a json string containing info about the state of the match, including: stato giocatore del turno giocatore's properties

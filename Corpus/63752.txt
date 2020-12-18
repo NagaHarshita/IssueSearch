@@ -1,0 +1,1 @@
+ URL : "https://github.com/OwlCarousel2/OwlCarousel2/issues/1700" TITLE : error with jquery 3.1.1 BODY : i am getting the error typeerror: t ... .find ... .andself is not a function with jquery version 3.1.1.

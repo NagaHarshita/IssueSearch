@@ -1,0 +1,1 @@
+ URL : "https://github.com/pascaldekloe/colfer/issues/27" TITLE : timezone offset for go BODY : it would be great if this could be supported. right now i have to serialise extra fields to rematerialize it correctly. i think, unless it is very hard, that i can give it a stab if you point me in the right direction.

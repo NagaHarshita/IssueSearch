@@ -1,0 +1,1 @@
+ URL : "https://github.com/cannawen/metric_units_reddit_bot/issues/9" TITLE : convert acres to km^2 BODY : acres should be converted to km^2 see this commit ../commit/e0eb7f637d8703c9251de70794d117438f9d8fe1 for an example of how to add a new conversion

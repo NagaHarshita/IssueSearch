@@ -1,0 +1,1 @@
+ URL : "https://github.com/ethant765/SDI/issues/9" TITLE : 3. declare consts BODY : which methods could/should be const? declare them and tidy up the implementation file. what happens if you try to modify the object in these const methods?

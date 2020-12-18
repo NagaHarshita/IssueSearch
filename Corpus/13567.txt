@@ -1,0 +1,1 @@
+ URL : "https://github.com/dgraph-io/badger/issues/60" TITLE : value size limit BODY : is there a hard coded value size limit for badger? since badger saves keys and pointer to values, it seems it would not have problems with a large value size - say 2 mb.

@@ -1,0 +1,8 @@
+ URL : "https://github.com/novium/achievements/issues/4" TITLE : a3 - informationsgömning BODY : informationsgömning _demonstrera förståelse för designprincipen informationsgömning i ett c-program med hjälp av .c och .h-filer._ informationsgömning på engelska översätts till information
+hiding . en viktig insikt här är att informationsgömning är en
+princip som är programspråksagnostisk och inte knuten till några
+speciella nyckelord. i haskell kunde ni uppnå informationsgömning
+med hjälp av moduler som bara exporterade en del av sitt
+gränssnitt. samma princip fungerar i c, men då är gränssnitt och
+implementation separerade i .h respektive .c -fil. relatera gärna till koncept från java, som gränssnitt respektive
+implementation. ge gärna kommentarer och rapportera buggar https://github.com/ioopm-uu/achievements/commits/master/a3.md klicka på den senaste commiten

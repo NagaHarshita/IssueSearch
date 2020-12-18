@@ -1,0 +1,1 @@
+ URL : "https://github.com/luiscoms/release/issues/6" TITLE : make update patch BODY : given a compose.json file make tests to update major when run: vendor/bin/release bump --patch 1.1.1

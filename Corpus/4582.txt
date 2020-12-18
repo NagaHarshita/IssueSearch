@@ -1,0 +1,1 @@
+ URL : "https://github.com/x-team/unleash/issues/465" TITLE : editing a step BODY : when hovering a step, the ellipsis should appear. when clicking it, the step name changes into an editable input. ! image https://cloud.githubusercontent.com/assets/7212882/26694572/26bc508a-4708-11e7-8109-9bac6af2fe35.png

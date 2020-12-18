@@ -1,0 +1,1 @@
+ URL : "https://github.com/swagger-api/swagger-codegen/issues/5699" TITLE : apex support salesforce dx BODY : description the coming, preferred deployment mechanism in salesforce is salesforce dx. for that it needs to be configurable swagger-codegen version master

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ndmitchell/weeder/issues/25" TITLE : use less meory BODY : currently on big projects weeder uses lots of ram. two obvious improvements: use packed strings in the hi data structure. only parse hi files by need, rather than the full directory in advance.

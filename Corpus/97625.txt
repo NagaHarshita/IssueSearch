@@ -1,0 +1,1 @@
+ URL : "https://github.com/nikkiam/seed-demo/issues/4" TITLE : homepage top bar is broken BODY : in one of the recent commits to the website, someone made an edit that removed the presence of the top navigation bar. this causes the page to appear incorrectly when one logs in with a user account. @dekelv did you make any changes recently to those files?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ckim2013/skybnb/issues/17" TITLE : lodgings search backend BODY : db: add new columns in the lodgings latitude and longitude model: lodging controller: :lodgings - added a custom lodgingssearch query action in the controller

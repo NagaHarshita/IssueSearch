@@ -1,0 +1,1 @@
+ URL : "https://github.com/bio2bel/ec/issues/6" TITLE : enrich belgraph function BODY : would like a function that takes a given bel graph, finds all proteins in it, annotates their ec parents all the way up to root

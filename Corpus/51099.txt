@@ -1,0 +1,1 @@
+ URL : "https://github.com/spiral-project/ihatemoney/issues/253" TITLE : add python 3.6 support BODY : we should add python 3.6 support as it starts to be used as the default python3 interpreter in recent distributions e.g. fedora 26

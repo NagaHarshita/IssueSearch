@@ -1,0 +1,1 @@
+ URL : "https://github.com/zhenyanghua/MeasureTool-GoogleMaps-V3/issues/13" TITLE : zoom control issue BODY : if the default zoom control is set to hidden zoomcontrol: false on map, it will show up right away after pressing the first point again to close the area i.e. after the total distance message .

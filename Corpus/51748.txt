@@ -1,0 +1,1 @@
+ URL : "https://github.com/kirel/intelligent-zoning-engine/issues/16" TITLE : better future handling BODY : found http://stackoverflow.com/questions/41610354/calling-a-shiny-javascript-callback-from-within-a-future/42864532 42864532 which improves on the way i handle background processing with futures.

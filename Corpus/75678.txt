@@ -1,0 +1,1 @@
+ URL : "https://github.com/shamelin/noctin-server/issues/43" TITLE : http routing integration BODY : we need to improve the system flexibility about the http routing: spark java has features which are'nt implemented in the system, like service.before and service.after routing methods.

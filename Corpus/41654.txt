@@ -1,0 +1,1 @@
+ URL : "https://github.com/blevesearch/bleve/issues/591" TITLE : add badger db support BODY : https://github.com/dgraph-io/badger i am proposing that this db be supported by bleve. badger on this outperforms rocksdb, which is outstanding. here is a blog post with the benchmarks https://open.dgraph.io/post/badger/ my understanding is that they will be adding snapshotting also.

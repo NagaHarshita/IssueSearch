@@ -1,0 +1,1 @@
+ URL : "https://github.com/convoo/file-fire/issues/4" TITLE : don't keep original image BODY : add a boolean property to only upload resized images but not upload the original image size.

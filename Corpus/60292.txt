@@ -1,0 +1,1 @@
+ URL : "https://github.com/fmaturel/angular-weekly-scheduler/issues/8" TITLE : year 2016 has 53 weeks BODY : i checked the number of weeks in 2016 , it's supposed to be 52 as shown in here http://www.epochconverter.com/weeks/2016 and here http://week-number.net/calendar-with-week-numbers-2016.html too. i think it's moment.js's mistake but is it possible to fix it ?

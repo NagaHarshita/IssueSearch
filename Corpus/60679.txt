@@ -1,0 +1,1 @@
+ URL : "https://github.com/smartcat-labs/facelyzr/issues/5" TITLE : add batch normalization BODY : implement batch normalization that will accelerate learning. https://arxiv.org/abs/1502.03167

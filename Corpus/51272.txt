@@ -1,0 +1,1 @@
+ URL : "https://github.com/GwenaelCasaccio/smalltalk/issues/9" TITLE : adding a safe compiler BODY : the compiler only works with global environment instead it should accepts them as arguments

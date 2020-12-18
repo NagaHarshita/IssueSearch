@@ -1,0 +1,1 @@
+ URL : "https://github.com/Irrelon/ForerunnerDB/issues/233" TITLE : docs distinct typo BODY : usage distinct docs contains similar value.. { $distinct: { field: 1 } } .. result.. val: 1, val: 4

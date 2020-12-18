@@ -1,0 +1,1 @@
+ URL : "https://github.com/Devlight/NavigationTabBar/issues/103" TITLE : can't show bridge BODY : because the with > height on onmeasure,in fact i am only have three tab cause the function get wrong result

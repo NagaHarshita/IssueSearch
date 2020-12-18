@@ -1,0 +1,1 @@
+ URL : "https://github.com/skoro/curl/issues/4" TITLE : add logger facility BODY : proposal. attach logger to curl and multi and log each request, for example: $curl->setlogger $logger ; then request from the $curl will be logged to logger handler. drawback: dependency of psr\logger will be added.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/raids/brag-backend/issues/4" TITLE : update api routes BODY : change root from example.com/ to example.com/brags and let it accept both get and post methods for getting list of brags and creating new brags.

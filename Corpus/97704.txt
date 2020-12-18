@@ -1,0 +1,1 @@
+ URL : "https://github.com/dparlevliet/node.bittrex.api/issues/40" TITLE : how to calculate % change? BODY : ! image https://user-images.githubusercontent.com/12594740/31065039-def86f78-a75f-11e7-880f-e39c3397f466.png i am using getmarketsummary api. how to calculate % change for this market? thanks in advance

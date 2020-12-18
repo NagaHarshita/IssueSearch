@@ -1,0 +1,1 @@
+ URL : "https://github.com/mastashake08/laravel-web-push/issues/1" TITLE : demo site not working BODY : seems that your ssl certificate expired or sm other issue, thus demo push notifications are not testable.

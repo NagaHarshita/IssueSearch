@@ -1,0 +1,1 @@
+ URL : "https://github.com/gionkunz/chartist-js/issues/872" TITLE : issues with requirejs BODY : if i use version 0.1.0 i have problems with chartist. it seems that the module does not resolve in require.js get chartist undefined when trying to access chartist.plugins . if i drop the version back to 0.9.7 everything works fine. note i am also using chartist-plugin-fill-donut

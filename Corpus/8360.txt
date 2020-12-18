@@ -1,0 +1,1 @@
+ URL : "https://github.com/infusion/Fraction.js/issues/15" TITLE : no license file BODY : absence of an explicit license file causes webjar deployment script to fail. please consider adding one.

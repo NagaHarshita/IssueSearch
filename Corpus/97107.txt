@@ -1,0 +1,1 @@
+ URL : "https://github.com/warappa/XamlCSS/issues/28" TITLE : fix square-bracket parsing BODY : selectors like element prop=value are currently not supported.

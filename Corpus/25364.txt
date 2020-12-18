@@ -1,0 +1,1 @@
+ URL : "https://github.com/digipolisgent/robo-digipolis-package/issues/9" TITLE : wrong gulp is used BODY : @matthijs-va commented on fri sep 29 2017 https://github.com/digipolisgent/robo-digipolis-drupal8/issues/27 robo uses /bin/gulp instead of the packaged gulp binary.

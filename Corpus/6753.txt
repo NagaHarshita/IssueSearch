@@ -1,0 +1,1 @@
+ URL : "https://github.com/aimacode/aima-csharp/issues/7" TITLE : build is broken BODY : it appears there are java language constructs e.g. list<? extends sentence> sprinkled throughout the code base, as well as missing assemblies and class definitions for referenced types. how is anyone else building this solution? seems like it's been this way all year if not longer.

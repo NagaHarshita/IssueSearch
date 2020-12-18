@@ -1,0 +1,1 @@
+ URL : "https://github.com/QwertygidQ/Flask_Stuff/issues/1" TITLE : dreadful user database BODY : i am going to contain password strings inside of the user database, which is an awful security error. most likely not going to fix.

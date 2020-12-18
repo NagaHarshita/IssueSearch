@@ -1,0 +1,1 @@
+ URL : "https://github.com/imagemin/gifsicle-bin/issues/77" TITLE : alternate binary locations BODY : due to proxy issues we can't download the binaries via the install script. is there anyway to provide an alternate path to retrieve the binaries from an internal repo or npm/artifactory location?

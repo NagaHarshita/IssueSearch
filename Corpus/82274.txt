@@ -1,0 +1,1 @@
+ URL : "https://github.com/farizrahman4u/keras-contrib/issues/194" TITLE : add randomized leaky relu BODY : randomized leaky relu rrelu should be added to advanced activations. several papers suggest its performance is superior to parametric leaky relu prelu .

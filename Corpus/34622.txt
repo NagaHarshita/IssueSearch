@@ -1,0 +1,1 @@
+ URL : "https://github.com/Krzmbrzl/SQDev/issues/128" TITLE : command update fails BODY : when trying to update the commands it fails at the first one because of a missing : at ýparamý or something like that

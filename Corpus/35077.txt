@@ -1,0 +1,1 @@
+ URL : "https://github.com/callakrsos/Gargoyle/issues/31" TITLE : database 탭 수정. BODY : to-be databse 탭 클릭시 비동기로 접속 여부를 확인후 접속 가능하면 팝업창이 열릴 수 있게 수정할것. as-is 데이터베이스 접속이 불가할경우 어플리케이션에 락이 걸려 다운되는식의 반응 처리됨.

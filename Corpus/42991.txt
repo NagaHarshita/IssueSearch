@@ -1,0 +1,1 @@
+ URL : "https://github.com/mdirector/mdirector/issues/4" TITLE : change props from ue4 BODY : send update props from ue4. e.g. move actor and send new location to tcp server

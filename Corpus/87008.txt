@@ -1,0 +1,1 @@
+ URL : "https://github.com/metaa/mixer-keyboard/issues/2" TITLE : installing does not work. BODY : i have tried installing mixer-keyboard using npm install -g mixer-keyboard but am unable to run the command mixer-keyboard at all, keeps saying the command does not exist. os windows server 2012 r2, node js v6.10.2

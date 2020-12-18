@@ -1,0 +1,1 @@
+ URL : "https://github.com/qingmang-team/docs/issues/22" TITLE : duplicate api key found BODY : 在 hasmore 的 response，我使用 nexrurl 获取下一页返回 json { message : duplicate api key found } ，请问这是什么问题？另外，为什么错误不是按照文档说明放在 error，而是 message？开发环境可以看到具体 json 内容，在正式环境就不知道应该显示 error 还是 message 了，这令人困惑。

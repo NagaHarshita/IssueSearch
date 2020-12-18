@@ -1,0 +1,1 @@
+ URL : "https://github.com/thradams/CPrime/issues/6" TITLE : init for arrays BODY : this case was not implemented. struct x { int i 10 ; };

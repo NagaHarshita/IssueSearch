@@ -1,0 +1,1 @@
+ URL : "https://github.com/matrix-org/go-neb/issues/184" TITLE : create a gitlab bot BODY : having a gitlab bot like the github one would be great. gitlab offers webhooks that would form the base of it: https://gitlab.com/help/user/project/integrations/webhooks.md

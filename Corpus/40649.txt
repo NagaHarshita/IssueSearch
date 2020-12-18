@@ -1,0 +1,1 @@
+ URL : "https://github.com/mojohaus/appassembler/issues/59" TITLE : upgrade to jsw 3.5.x BODY : upgrade to jsw 3.5.x to provide access for newer jsw configuration features like auto restart after jvm hang . if there are restrictions on jsw binary distribution then please add an option for plugin to use locally provided jsw binaries.

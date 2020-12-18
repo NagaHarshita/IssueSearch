@@ -1,0 +1,1 @@
+ URL : "https://github.com/ekg/smithwaterman/issues/14" TITLE : please add release tags BODY : hi, as you might know this library is packaged for debian. to detect new versions it would help a lot if you would consider release tags. kind regards, andreas.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ClusterM/retroarch-clover/issues/97" TITLE : scanlines and filtering BODY : as far as i can tell scanlines only work with the bilinear filter enabled. if its disabled scanlines also get disabled. can we have a look at that please? thanks

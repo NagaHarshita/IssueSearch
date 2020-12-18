@@ -1,0 +1,1 @@
+ URL : "https://github.com/kimdir/GeneticAlgorithm/issues/6" TITLE : design variables output BODY : need a method to output the design variables associated with the most fit population member. should be a member class function.

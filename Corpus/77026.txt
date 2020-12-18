@@ -1,0 +1,1 @@
+ URL : "https://github.com/chmln/flatpickr/issues/503" TITLE : minor flatpickr.css typo BODY : line ~349 of dist/flatpickr.css: display: inline-block; display: inline-block\9;

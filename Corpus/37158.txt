@@ -1,0 +1,1 @@
+ URL : "https://github.com/dmlc/mxnet/issues/5038" TITLE : lastest lstm version BODY : what is the latest version of lstm implementation? i'm still using the old one in warpctc example? is there any new implementation after nnvm? @feiyulv my image iter can outputs 1600 samples per second while the lstm only able to process 100 per second. the gpu is almost idle all the time.

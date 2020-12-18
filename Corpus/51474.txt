@@ -1,0 +1,1 @@
+ URL : "https://github.com/skycoin/teller/issues/80" TITLE : api for start/end time BODY : add api to backend exposing configuration such as start/end time frontend will use this api to show the information, replacing the hardcoded config settings, so there is no need to recompile the frontend to change the parameters.

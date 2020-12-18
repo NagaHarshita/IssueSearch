@@ -1,0 +1,1 @@
+ URL : "https://github.com/Filipe-Rodrigues/O-Manicomio-De-Zulu/issues/3" TITLE : coesão - classe jogador BODY : o método criarambientes da classe jogador está com baixa coesão. assim como a própria classe jogador em si.

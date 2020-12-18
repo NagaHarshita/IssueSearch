@@ -1,0 +1,1 @@
+ URL : "https://github.com/pyslackers/website/issues/103" TITLE : fix deploy to slack BODY : the deploy to slack functionality is broken because the format changed of their token they want. this requires an admin to do it

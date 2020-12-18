@@ -1,0 +1,1 @@
+ URL : "https://github.com/ArcadeRenegade/SidebarDiagnostics/issues/170" TITLE : remote desktop issues BODY : 1. windows 2. version 3.4.5 3. dock right, reserve space, always on top 4. remote desktop onto a server, you'll notice that the toolbar doesn't reserve space like it should and instead is over the top of the screen

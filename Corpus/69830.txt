@@ -1,0 +1,1 @@
+ URL : "https://github.com/zulip/zulip-android/issues/421" TITLE : ui bug while logging in BODY : read our guide on bug reports here ./issues_guide.md actual behaviour right now the sign in and log in text is not center aligned expected behaviour the text of sign in and log in should be center aligned would you like to work on the issue? yes i would love to work on this issue

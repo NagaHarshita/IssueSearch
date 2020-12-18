@@ -1,0 +1,1 @@
+ URL : "https://github.com/sveneisenschmidt/yay/issues/7" TITLE : use php 7.1 features BODY : http://php.net/manual/de/migration71.new-features.php - nullable return types in yay\component\entity

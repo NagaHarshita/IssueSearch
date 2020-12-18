@@ -1,0 +1,1 @@
+ URL : "https://github.com/nserguier/Git-Yesterday/issues/2" TITLE : add login logic BODY : use bitbucket rest api and oauth to make the login functional link here for api https://confluence.atlassian.com/bitbucket/use-the-bitbucket-cloud-rest-apis-222724129.html

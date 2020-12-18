@@ -1,0 +1,7 @@
+ URL : "https://github.com/OpenFastPath/ofp/issues/29" TITLE : ipv6 socket api BODY : note: the issue was created automatically with bugzilla2github tool bugzilla bug id: 29
+date: 2015-06-03 09:06:38 +0200
+from: bogdan pricope &lt;<bogdan.pricope@enea.com>&gt;
+to: bogdan pricope &lt;<bogdan.pricope@enea.com>&gt; last updated: 2015-07-27 12:53:33 +0200 bugzilla comment id: 34
+date: 2015-06-03 09:06:38 +0200
+from: bogdan pricope &lt;<bogdan.pricope@enea.com>&gt; ipv6 socket api assigned: bogdan status:
+ongoing

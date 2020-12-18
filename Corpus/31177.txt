@@ -1,0 +1,1 @@
+ URL : "https://github.com/JeffreyWay/laravel-mix/issues/139" TITLE : sass rounding error BODY : due to a rounding error the scss/sass file won't get compiled properly e.g. bootstrap 3 . is it possible to set the sass precision value manually? otherwise it would be nice to set a higher precision by default e.g. sass-loader?sourcemap&precision=8

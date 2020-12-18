@@ -1,0 +1,1 @@
+ URL : "https://github.com/nadavbar/node-cntk/issues/3" TITLE : add web server sample BODY : add a sample that shows how to serve the model in a webserver. one option is to have a website that lets you draw digits on a canvas and then sends it to the server for evaluation on the sample mnist model.

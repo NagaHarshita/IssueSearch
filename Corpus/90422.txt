@@ -1,0 +1,1 @@
+ URL : "https://github.com/tsu-complete/taylorfit/issues/55" TITLE : shadow on settings drawer BODY : when the drawer is open, the candidates look like they're being cut off. i think a box shadow would make it clearer that the candidates aren't being cut off and that the settings drawer isn't fixed.

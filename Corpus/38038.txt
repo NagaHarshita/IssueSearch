@@ -1,0 +1,1 @@
+ URL : "https://github.com/jazzband/django-debug-toolbar/issues/978" TITLE : no module named apps BODY : i get this error when i try to run my app with django debug toolbar: file /home/peter/.virtualenvs/decker/local/lib/python2.7/site-packages/debug_toolbar/toolbar.py , line 10, in <module> from django.apps import apps importerror: no module named apps any thoughts?

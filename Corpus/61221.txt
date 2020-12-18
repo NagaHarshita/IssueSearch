@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla/redash_client/issues/32" TITLE : allow building just src BODY : currently, the build script builds all dependencies and the scipy and statistics dependencies take a long time. it should be possible to just build the stuff in the directory src/ so it's faster.

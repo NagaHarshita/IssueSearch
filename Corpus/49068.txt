@@ -1,0 +1,1 @@
+ URL : "https://github.com/frankiethekneeman/puppet-gitlab-ci-multi-runner/issues/38" TITLE : support for gitlab 10 BODY : seems that the packages url has changed with version 10 of gitlab.

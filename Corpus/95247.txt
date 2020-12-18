@@ -1,0 +1,1 @@
+ URL : "https://github.com/adam-iris/stl-test/issues/238" TITLE : create doi url base rm 775 BODY : ported from redmine 775 created 2013-06-15 closed 2013-07-19 http://www.iris.edu/doi should map to a doi redirect service. the initial implementation should support mapping http://www.iris.edu/doi/net/xx to mda.

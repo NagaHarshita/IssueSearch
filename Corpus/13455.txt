@@ -1,0 +1,1 @@
+ URL : "https://github.com/Dyvil/Dyvil/issues/364" TITLE : update to java 9 BODY : update the build process and code base to java 9. includes modules, updates to classes that use proprietary packages, private interface methods and others.

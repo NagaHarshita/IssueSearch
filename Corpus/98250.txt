@@ -1,0 +1,1 @@
+ URL : "https://github.com/tootsuite/mastodon-api/issues/23" TITLE : incorrect timeline options BODY : this gem's document says . _timeline takes following options: @option options :max_id integer @option options :since_id integer @option options :limit integer but timeline api cannot take max_id, since_id and limit. do you have any plans to implement it?

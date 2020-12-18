@@ -1,0 +1,1 @@
+ URL : "https://github.com/coala/dockerfile-builder/issues/1" TITLE : github pages support BODY : https://coala.github.io/dockerfile-builder/ fails. probably caused by the /dockerfile-builder/ in the url

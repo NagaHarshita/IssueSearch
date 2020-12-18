@@ -1,0 +1,1 @@
+ URL : "https://github.com/NYTimes/video-captions-api/issues/70" TITLE : cancel a caption job BODY : ability to cancel a job even if 3play keeps processing , allowing for a user to re-run captions job with different settings/video.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/engintron/engintron/issues/591" TITLE : ip dedicated error BODY : my settings for nginx rules for one dedicated ip dedicated but i have a lot of cpanel account have ip dedicated so i added set $ proxy_domain_or_ip for some ip it made an error. how to dedicated ip works well ??

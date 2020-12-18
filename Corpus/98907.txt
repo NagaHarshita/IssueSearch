@@ -1,0 +1,1 @@
+ URL : "https://github.com/PowerShell/Win32-OpenSSH/issues/460" TITLE : lls e:\test is not working BODY : lls e:\test is not working c:\>lls e:\test parameter format not correct - test .

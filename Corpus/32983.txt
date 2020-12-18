@@ -1,0 +1,1 @@
+ URL : "https://github.com/schrum2/MM-NEATv2/issues/266" TITLE : 1d tetris substrates BODY : when tetris is played using hyperneat and hand-designed features, 1d substrates are used. as a result, the y coordinate inputs are completely unnecessary. this is a small redundancy that should be removed.

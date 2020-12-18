@@ -1,0 +1,1 @@
+ URL : "https://github.com/nijikokun/stripe-mock-data/issues/6" TITLE : webhooks inside an array BODY : hi, is it normal that all the webhooks fixtures are inside an array? i think the stripe events are just objects. currently i use the mocks like this: var event = stripemocks.webhooks 'invoice.payment_succeeded' 0 ;

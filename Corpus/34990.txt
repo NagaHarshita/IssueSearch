@@ -1,0 +1,1 @@
+ URL : "https://github.com/mathesond2/workspace/issues/1" TITLE : crud text capability BODY : click on view clicking creates a textarea type in text on keyup, the text content and its x,y position on the page are saved to db.

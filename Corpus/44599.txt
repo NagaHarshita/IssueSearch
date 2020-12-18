@@ -1,0 +1,1 @@
+ URL : "https://github.com/FAC10/week5-jajascript/issues/58" TITLE : fetch error handlings BODY : your fetch function in the frontend doesn't handle the onerror https://developer.mozilla.org/en-us/docs/web/api/xmlhttprequesteventtarget/onerror event. it's probably fine here because you've hardcoded your endpoint, but might be worth making sure you handle in future.

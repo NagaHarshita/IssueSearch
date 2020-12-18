@@ -1,0 +1,1 @@
+ URL : "https://github.com/fritzsedlazeck/Sniffles/issues/26" TITLE : --genotype undefined info BODY : using a current build adding --genotype flag produces af entries in info but they aren't defined in the header. i assume this is allele frequency so am adding info=<id=af,number=.,type=integer,description= allele frequency. > is that right?

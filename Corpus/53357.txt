@@ -1,0 +1,1 @@
+ URL : "https://github.com/spf13/hugo/issues/2968" TITLE : docs: tooltips missing BODY : certain items result in significant functionality when clicked, yet lack tooltips: 1. hamburger 1. logo and version 1. github buttons

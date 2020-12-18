@@ -1,0 +1,1 @@
+ URL : "https://github.com/userfrosting/UserFrosting/issues/681" TITLE : authexpired status code BODY : status code after an authexpired redirection should be something other than 302. maybe: 401 unauthorized

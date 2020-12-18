@@ -1,0 +1,1 @@
+ URL : "https://github.com/m000/dtracker/issues/7" TITLE : an issue of libdft BODY : hi, cmpxchg r/m32, r32 -- compare eax with r/m32,if equal,r32 is loaded into r/m32,else.... so, i think the function definition of _cmpxchg_m2r_opl_fast and _cmpxchg_r2m_opl_slow in libdft is wrong, how do you think about it? thanks for you reply!

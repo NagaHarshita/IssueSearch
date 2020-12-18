@@ -1,0 +1,1 @@
+ URL : "https://github.com/misterunknown/ifm/issues/33" TITLE : not following symlinks BODY : symlinks show up as regular folders, but when clicked on there is no follow. note: apache has been set up to allow symlink following

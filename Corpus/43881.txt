@@ -1,0 +1,1 @@
+ URL : "https://github.com/cornflourblue/angular2-pagination-example/issues/7" TITLE : display first 3 pages BODY : hi , instead of displaying the total number pages. i want to display in first 3 pages. then next 3 pages. for example: total no of pages 50 1 2 3 presses next 4 5 6. presses last 48 49 50

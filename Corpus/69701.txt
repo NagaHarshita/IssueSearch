@@ -1,0 +1,1 @@
+ URL : "https://github.com/conjure-up/conjure-up/issues/653" TITLE : traceback in conjure-up BODY : i had finished snap install conjure-up --classic --beta traceback most recent call last : file /snap/conjure-up/54/bin/conjure-up , line 7, in <module> from conjureup.app import main importerror: no module named 'conjureup' snap --version snap 2.21 snapd 2.21 series 16 ubuntu 16.04

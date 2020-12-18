@@ -1,0 +1,1 @@
+ URL : "https://github.com/nextgis/buildbot/issues/1" TITLE : update to buildbot 9.x BODY : https://docs.buildbot.net/current/manual/installation/nine-upgrade.html upgrading-to-nine - add buildbot master container - add github/gitlab status api hooks - fix ldap plugin to support new buildbot api

@@ -1,0 +1,1 @@
+ URL : "https://github.com/themarshallproject/klaxon/issues/81" TITLE : search the diffs BODY : a reporter asked me yesterday if there was a way to search through the collected snapshots to find the first appearance of a word or phrase. right now, i do this by manually diffing two snapshots. it would be great to make this searchable in some way.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/canonical-webteam/generator-canonical-webteam/issues/27" TITLE : add version to ./run BODY : provide a ./run --version or ./run -v option.

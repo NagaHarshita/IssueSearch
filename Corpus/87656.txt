@@ -1,0 +1,1 @@
+ URL : "https://github.com/gonetz/GLideN64/issues/1669" TITLE : macos graphics are broken BODY : i don't know what the problem is, graphics stay broken... running high sierra with radeon pro 560, opengl 4.1. tested angrylions and gliden64, both bring same problems. any hint is welcome.... https://github.com/m64p/mupen64plus-gliden64/issues/38

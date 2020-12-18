@@ -1,0 +1,1 @@
+ URL : "https://github.com/anka-213/webcomic_reader/issues/72" TITLE : eatmanga url change BODY : hi, the url for eatmanga had changed from eatmanga.com to eatmanga.me. adding an include for eatmanga.me with the same scripting as eatmanga.com fixes it. i suck at git though and can't find how to do pull push? requests. thanks.

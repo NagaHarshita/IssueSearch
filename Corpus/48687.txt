@@ -1,0 +1,1 @@
+ URL : "https://github.com/freaktechnik/justintv-stream-notifications/issues/359" TITLE : show uptime in extras BODY : it would be nice if the panel could display the uptime in the extra infos. this will require adding a went live timestamp to each channel object. the time should be formatted by the intl formatter and always be hh:mm or equivalent.

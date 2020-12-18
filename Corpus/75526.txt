@@ -1,0 +1,1 @@
+ URL : "https://github.com/jgaskins/clearwater_ruby_benchmarks/issues/1" TITLE : how do i install rerun ? BODY : dev script file is using rerun command: bash bundle check || bundle && rerun -i 'assets/ / ' 'rackup -p 3000' do i need to install https://rerun.github.io/rerun/ ?

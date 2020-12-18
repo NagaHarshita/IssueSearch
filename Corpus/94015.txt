@@ -1,0 +1,1 @@
+ URL : "https://github.com/ynishi/influxdb-cluster-extend/issues/3" TITLE : basic design of clustering BODY : make picture and update readme. container base. 3 tier: nat, instance computing and data. simply use docker, not use docker management tools at now . multi node support. focus on availability, service continuity.

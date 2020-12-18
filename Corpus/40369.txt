@@ -1,0 +1,1 @@
+ URL : "https://github.com/optimizely/oui/issues/838" TITLE : tweak card component BODY : - add shadow prop and copy .shadow-box style from v2 - if title + close is missing, don't render the header

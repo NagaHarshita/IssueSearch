@@ -1,0 +1,1 @@
+ URL : "https://github.com/AquiGorka/kickoff/issues/12" TITLE : soccer game object BODY : define game parameters: - size - players - duration - start setup game properties: - game state event emitter interval - physics simulation world - game begin/end events

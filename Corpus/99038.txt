@@ -1,0 +1,1 @@
+ URL : "https://github.com/Samsung/WATT/issues/10" TITLE : main page connection issue BODY : after log-in, page is just re-directed to project whenever i try to connect ip:3000 main page. - expected : move to watt main

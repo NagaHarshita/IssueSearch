@@ -1,0 +1,1 @@
+ URL : "https://github.com/Floris497/mac-pixel-clock-patch-V2/issues/172" TITLE : coredisplay keep sip off? BODY : you said that > sip can safely be enabled after the patch of the iokit, if you also want to use an nvidia/amd driver that has been patched you need to keep sip disabled. what about coredisplay. can we also keep sip off or can we sip on?

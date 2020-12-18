@@ -1,0 +1,1 @@
+ URL : "https://github.com/brettinternet/minimaless/issues/6" TITLE : fix 100vh on mobile BODY : make landing content pages work on mobile devices without 100vh since headers stick with safari and chrome on palm devices.

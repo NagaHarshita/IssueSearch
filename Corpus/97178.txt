@@ -1,0 +1,1 @@
+ URL : "https://github.com/PaddlerApp/paddler-ios/issues/66" TITLE : format dates in match view BODY : use the date formatter from twitter to show the timestamp

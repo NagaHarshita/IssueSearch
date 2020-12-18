@@ -1,0 +1,1 @@
+ URL : "https://github.com/junkblocker/codesearch/issues/1" TITLE : skipping long lines BODY : first, i'd like to thank you for the work you have put into expanding codesearch. one question, though: what's the reason for skipping the entire file if a long line is encountered, instead of just ignoring the line?

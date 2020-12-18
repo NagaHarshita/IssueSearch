@@ -1,0 +1,1 @@
+ URL : "https://github.com/Stevenlee731/reactnoows/issues/7" TITLE : user can view home page. BODY : motivation - create a landing page for users to see when they open the app implementation - create wireframe. - create cover. - create actions for api to populate articles on home page. - map through article arrays.

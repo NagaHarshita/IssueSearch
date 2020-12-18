@@ -1,0 +1,1 @@
+ URL : "https://github.com/v-l-m/vlm/issues/964" TITLE : perte date pilototo BODY : en cas de modification d'un ordre du pilototo la date est nan,nan l'heure aussi, en cliquant sur aujourd'hui , on remet la date du moment, mais il faut la rerégler

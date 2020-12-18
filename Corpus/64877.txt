@@ -1,0 +1,1 @@
+ URL : "https://github.com/bareos/bareos-contrib/issues/21" TITLE : how to test the plugins BODY : when i am trying to write some plugins ,how can import the module bareosdir. dose the bareosdir module only can get by bareos director?

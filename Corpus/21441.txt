@@ -1,0 +1,1 @@
+ URL : "https://github.com/linnovate/root/issues/522" TITLE : file upload issues BODY : files upload provide the return proxy url - not the external dns one we should have a generic document provider configuration and if it's abscent disable the edit button

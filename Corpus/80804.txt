@@ -1,0 +1,1 @@
+ URL : "https://github.com/playframework/play1/issues/1113" TITLE : upgrade hibernate to 5.x BODY : currently play1 uses hibernate 4.2.19 which is pretty old. need to upgrade to hibernate 5.2.5 or later . see https://play.lighthouseapp.com/projects/57987-play-framework/tickets/1818-hibernate-need-to-be-updated-to-v435 ticket-1818-6

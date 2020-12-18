@@ -1,0 +1,1 @@
+ URL : "https://github.com/rushtongarth/SRG-utils/issues/4" TITLE : smbprinter is broken BODY : recent modification of smbprinter srg-utils/.utils/scripts/smbprinter has caused issues in the printto function. see line 86 srg-utils/.utils/scripts/smbprinter l86 for the source of the error perhaps a file generation function or _perhaps_ prompting and using user's password.

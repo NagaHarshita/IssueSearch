@@ -1,0 +1,1 @@
+ URL : "https://github.com/cdown/srt/issues/39" TITLE : personal access key BODY : shouldn't personal access key be added to travis ci settings page? i mean you are exposing it in plain text if your repository is public. ! img https://i.imgur.com/rfgao6v.png

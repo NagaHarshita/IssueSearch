@@ -1,0 +1,1 @@
+ URL : "https://github.com/owncloud/core/issues/29330" TITLE : use post for logout BODY : otherwise browsers / proxies prefetching urls might lock users out. see https://stackoverflow.com/a/14587231

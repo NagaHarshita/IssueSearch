@@ -1,0 +1,1 @@
+ URL : "https://github.com/kennethreitz/bucketstore/issues/14" TITLE : can't set content-type BODY : i'm allowed to set custom metadata, but there's no way to set the actual content-type for s3. i'll try to submit a pull request with a fix when i get a chance, as it should be pretty straightforward.

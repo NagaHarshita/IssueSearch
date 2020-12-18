@@ -1,0 +1,1 @@
+ URL : "https://github.com/cbourjau/alice-dashboard/issues/8" TITLE : theming of dashboard BODY : currently, the dashboard looks quite crude. it would be great to add some css based theming. i would recommend going with the bootstrap framework. it is well established and i have a bit of experience with it. never the less, i'm open for any other suggestion!

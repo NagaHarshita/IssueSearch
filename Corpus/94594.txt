@@ -1,0 +1,1 @@
+ URL : "https://github.com/udhos/update-golang/issues/7" TITLE : change /usr/local/go check BODY : in my local machine /usr/local/go is a directory, not a symlink. so the script fails with rm: cannot remove '/usr/local/go': is a directory you can handle it and move the dir to /tmp or ~ and continue the script.

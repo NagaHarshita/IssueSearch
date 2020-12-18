@@ -1,0 +1,1 @@
+ URL : "https://github.com/lmouelle/433sharedtests/issues/4" TITLE : add this to p2 BODY : @test public void testsimplerun { int numcustomers = 1; int numcooks = 1; int numtables = 1; int machinecapacity = 1; boolean randorders = false; validate.validatesimulation simulation.runsimulation numcustomers, numcooks, numtables, machinecapacity, randorders ; }

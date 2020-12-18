@@ -1,0 +1,1 @@
+ URL : "https://github.com/bustlelabs/shep-logger/issues/1" TITLE : doesn't log nested errors BODY : eg an array of errors show up as an array of empty objects.

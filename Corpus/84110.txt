@@ -1,0 +1,1 @@
+ URL : "https://github.com/mrchechay/mobileAppDev/issues/13" TITLE : crash - calendar fragment BODY : needs a default date / no date to be sent to the add event class when the + button is clicked currently is trying to read which date has been clicked

@@ -1,0 +1,1 @@
+ URL : "https://github.com/bradleyboehmke/learningAnalytics/issues/1" TITLE : r table markdown issue BODY : tables don't show up and have to continuously refresh page, but it refreshes to top of training. try this: in help tutorial, change {r} mtcars to: {r table, results='asis'} library pander pandoc.table mtcars, style= rmarkdown

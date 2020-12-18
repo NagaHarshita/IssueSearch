@@ -1,0 +1,1 @@
+ URL : "https://github.com/gocql/gocql/issues/977" TITLE : tag semver releases BODY : hello. it looks like gocql doesn't have any tagged releases. would you please add semver -compatible release tags? this will greatly help users of dep , glide , etc. sanely manage their reliance on gocql apis. thanks! semver : http://semver.org/

@@ -1,0 +1,1 @@
+ URL : "https://github.com/sourceboat/pug-lint-vue/issues/6" TITLE : added to syntastic BODY : hello, just wanted to let you know that pug-lint-vue has been added https://github.com/vim-syntastic/syntastic/pull/2072 as a checker for syntastic https://github.com/vim-syntastic/syntastic syntax checked plugin for vim for .vue files. thanks for your work on this project

@@ -1,0 +1,1 @@
+ URL : "https://github.com/skorokithakis/django-loginas/issues/53" TITLE : can't install loginas BODY : hello, i installed loginas with pip, then put in installed apps in settings, then i change my admin url, i remove admin.site.urls and i wrote include 'loginas.urls' , but that doesn't work, could you help me to install it? thanks

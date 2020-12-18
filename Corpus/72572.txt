@@ -1,0 +1,1 @@
+ URL : "https://github.com/jason-tratta/SwitchJSS/issues/1" TITLE : can't compile in xcode 8 BODY : thanks to apple's habit of making older code not compatable this can't be compiled on the current xcode. any chance of getting it updated to work?

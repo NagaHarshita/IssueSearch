@@ -1,0 +1,1 @@
+ URL : "https://github.com/modmore/ClientConfig/issues/126" TITLE : fix namespace assets path BODY : summary just take a look at the namespace assets path after install. environment clientconfig 1.4.1, modx 2.5.5

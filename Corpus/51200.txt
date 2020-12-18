@@ -1,0 +1,1 @@
+ URL : "https://github.com/aaugustin/websockets/issues/180" TITLE : add tests for 2466e74b BODY : coverage has fallen below 100% since 2466e74b. as a consequence, continuous integration fails. tests are needed to cover these code paths.

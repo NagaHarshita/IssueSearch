@@ -1,0 +1,1 @@
+ URL : "https://github.com/Talej/BinanceAPI/issues/1" TITLE : 1101 error w/ new orders BODY : receiving the following error message when attempting an ordertest or order: -1101: duplicate values for a parameter detected. all other signed functions seem fine.

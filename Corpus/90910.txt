@@ -1,0 +1,1 @@
+ URL : "https://github.com/CIOS-Digital/flight-planning/issues/28" TITLE : superfluous map scrolling BODY : when right-clicking to add a waypoint and then left clicking scroll the map. repo steps: 1 right click popup window opens 2 click outside window 3 map moves in reference to where it is clicked

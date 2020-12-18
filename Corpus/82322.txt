@@ -1,0 +1,1 @@
+ URL : "https://github.com/jmrcodes/wp-variables/issues/4" TITLE : add social media function BODY : add a function to output an array of social media links with parameters that cover: - whether to include an icon - whether to wrap in a list or nav

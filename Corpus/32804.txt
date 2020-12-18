@@ -1,0 +1,1 @@
+ URL : "https://github.com/Trsmorales/td-pubg/issues/41" TITLE : world should scroll BODY : all players and buildings should have a world position. each players game.js will render them based on there screen position relative to its world position,

@@ -1,0 +1,1 @@
+ URL : "https://github.com/IRNAS/PiRa-zero/issues/9" TITLE : signal diodes for gpio BODY : add serial zener diodes to the signals: rtc_en_5v timer_en_5v because the pinput voltage is high for the rpi

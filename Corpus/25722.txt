@@ -1,0 +1,1 @@
+ URL : "https://github.com/SenseNet/sensenet/issues/53" TITLE : ad sync - logrotate BODY : now it stores logs for every sync. there should be an option to logrotate... save the last 24 detailed logs only

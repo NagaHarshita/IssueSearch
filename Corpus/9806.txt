@@ -1,0 +1,1 @@
+ URL : "https://github.com/akvo/akvo-flow-mobile/issues/798" TITLE : add help section BODY : the help section will be accessible from the hamburger menu. the help will display this page http://flowsupport.akvo.org/container/show/akvo-flow-app. the help page will be a web view. if the user is not online we need an error message to display.

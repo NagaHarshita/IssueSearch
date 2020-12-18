@@ -1,0 +1,1 @@
+ URL : "https://github.com/1up-lab/contao-j2b/issues/1" TITLE : contao 4.4 managed edition BODY : leider bekomme ich die extension unter contao 4.4.5 managed edition nicht zum laufen. es tut sich einfach nichts. ich habe die extension über den contao manager installiert. kann es sein, dass der hook gar nicht greift? wie könnte ich das prüfen?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/buttercup/buttercup-mobile/issues/65" TITLE : handle hardware back arrow BODY : the hardware or general android back arrow should be handled in-app. it should: dispatch a route-back action when touched on any page 1 level deep or more close the app if possible? if at the root page

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jhuesser/bzu-jodel-clone/issues/119" TITLE : new posts can't be created BODY : new posts aren't saved in db, reputation still gets updated.

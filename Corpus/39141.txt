@@ -1,0 +1,1 @@
+ URL : "https://github.com/LDMW/app/issues/414" TITLE : results vs resources BODY : as a user, when i come onto the site having not performed a search, i expect to see 'showing x resources' rather than 'showing x results', as it is confusing to see 'results' for a search i have not done. change 'results' to 'resources' if a search has not been performed

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Praqma/git-phlow/issues/236" TITLE : fix config for windows BODY : from issue 233 point 5, there is an issue with config so the url is not correctly read

@@ -1,0 +1,1 @@
+ URL : "https://github.com/pennmem/ptsa_new/issues/99" TITLE : add edf reader BODY : mne's implementation here https://github.com/mne-tools/mne-python/blob/maint/0.15/mne/io/edf/edf.py l1160-l1235 better, use pyedflib https://github.com/holgern/pyedflib which has a package on conda-forge. cc: @ctw, @loganjf

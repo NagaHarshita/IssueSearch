@@ -1,0 +1,1 @@
+ URL : "https://github.com/nmunro/azathoth/issues/48" TITLE : simplify emotion system BODY : simplify emotion system, many to many relationships would probably be best, made the code easier to maintain and generally be better to work with.

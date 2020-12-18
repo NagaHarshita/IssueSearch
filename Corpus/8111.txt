@@ -1,0 +1,1 @@
+ URL : "https://github.com/shamit6/backgammon/issues/7" TITLE : move styles out BODY : it doesn't look good that your css is within the components move them into css files and require them using webpack's css-loader and style-loader. it's also usefull to use post-css and classnames

@@ -1,0 +1,1 @@
+ URL : "https://github.com/garncarz/arduino/issues/1" TITLE : mouse: read deltas BODY : maybe calibration and mapping to an absolute float range is unnecessary, maybe simple comparison to the last value will feel more natural.

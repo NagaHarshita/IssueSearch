@@ -1,0 +1,1 @@
+ URL : "https://github.com/slamdata/slamdata/issues/1654" TITLE : less task is missing BODY : i have installed everything but now gulp task less is failing. gulp is complaining less task is not present. please help.

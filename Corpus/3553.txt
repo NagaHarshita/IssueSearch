@@ -1,0 +1,1 @@
+ URL : "https://github.com/ros/ros-overlay/issues/278" TITLE : ros without x BODY : all, trying to install ros on a headless robot, so no point in installing gtk or x or cairo or... just emerging ros-base wants to install all that. i have -x -gtk in my global use flag. any idea? fred

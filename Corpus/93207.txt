@@ -1,0 +1,1 @@
+ URL : "https://github.com/skarpushin/pgpvault/issues/48" TITLE : add license to the project BODY : it seem that gpl is an appropriate license http://www.gnu.org/copyleft/gpl.html todo: add license to installer preamble to each source file

@@ -1,0 +1,1 @@
+ URL : "https://github.com/AndreaCensi/mcdp/issues/50" TITLE : improvements to js editor BODY : andare a capo di 4 spazi: se la prima comincia con 'mcdp {' se la precedente comincia con 4 spazi in caso come a = b + c , la regola è: indentazione di inizio statement + 2

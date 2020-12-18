@@ -1,0 +1,1 @@
+ URL : "https://github.com/vuematerial/vue-material/issues/925" TITLE : v-on:click on table-row BODY : is it possible to add a click listener for a md-table-row ? maybe an alternative way to do it ?

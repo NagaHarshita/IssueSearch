@@ -1,0 +1,1 @@
+ URL : "https://github.com/codeforsanjose/findahome/issues/10" TITLE : fix linting errors BODY : bundle exec rubocop . vomits everywhere probably should clean up all that output.

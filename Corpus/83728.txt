@@ -1,0 +1,1 @@
+ URL : "https://github.com/mor1/dommage/issues/1" TITLE : clean should do just that BODY : ...and not create and possibly install a fresh container in case none exists

@@ -1,0 +1,1 @@
+ URL : "https://github.com/astorm/pestle/issues/187" TITLE : better way to display help BODY : we've gotten a few comments on the current truncate the doc block behavior. <img width= 512 alt= screen_shot_2017-02-15_at_1 08 06_pm_1024 src= https://cloud.githubusercontent.com/assets/184372/22993445/e9d01b0e-f377-11e6-98cd-f550aa0d1fa4.png > there's probably a better way here.

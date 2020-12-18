@@ -1,0 +1,1 @@
+ URL : "https://github.com/maghoff/bart/issues/2" TITLE : fix html escaping BODY : html escaping fails when the source string ends with a char that should be escaped, for example <' renders to &lt;&apos;&apos; .

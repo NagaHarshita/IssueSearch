@@ -1,0 +1,1 @@
+ URL : "https://github.com/wind-rider/broadlink-dotnet/issues/1" TITLE : do not run the project BODY : when it runs out an exception from 'system.objectdisposedexception' in mscorlib.dll

@@ -1,0 +1,1 @@
+ URL : "https://github.com/raamana/neuropredict/issues/4" TITLE : cli doesnt run BODY : traceback most recent call last : file /users/john/anaconda3/bin/neuropredict , line 11, in <module> load_entry_point 'neuropredict==0.2.4.5', 'console_scripts', 'neuropredict' file /users/john/anaconda3/lib/python3.5/site-packages/neuropredict/__main__.py , line 6, in main neuropredict.run

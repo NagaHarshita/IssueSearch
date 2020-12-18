@@ -1,0 +1,1 @@
+ URL : "https://github.com/xorann/BigWigs/issues/7" TITLE : first sweep timer for ouro BODY : the first sweep should occur 40s after the pull, a timerbar for this would be nice.

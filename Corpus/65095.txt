@@ -1,0 +1,1 @@
+ URL : "https://github.com/Beamanator/RIPS-Validation-CExt/issues/9" TITLE : implement data recovery BODY : when rips times out, saving a page causes rips to log out, so all of the data is lost. this is needed for the following pages: add action high cbi low registration low

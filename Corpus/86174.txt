@@ -1,0 +1,1 @@
+ URL : "https://github.com/Dylan-DPC/guzzle-client/issues/2" TITLE : hacktoberfest stuff to do BODY : todo: 1 add docblocks to each function 2 format it, removing whitespaces, etc. no need of integration with any third-party service for this 3 add a readme for it you can submit a pr to master branch.

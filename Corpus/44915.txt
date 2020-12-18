@@ -1,0 +1,1 @@
+ URL : "https://github.com/osu-cascades/falcon-time/issues/17" TITLE : generate devise views BODY : per its setup instructions rails g devise:views

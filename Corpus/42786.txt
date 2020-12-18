@@ -1,0 +1,1 @@
+ URL : "https://github.com/Jaykul/Jupyter-PowerShell/issues/11" TITLE : can't build on linux? BODY : @knoxyca reports he can't compile, getting errors in dotnet restore and build

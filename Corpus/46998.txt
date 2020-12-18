@@ -1,0 +1,1 @@
+ URL : "https://github.com/ebfull/pcap/issues/82" TITLE : nightly build failure BODY : i think this is due to the line saying env: flags= --features clippy,tokio when it should be env: flags= --features \ clippy tokio\ or something like that, modulo different escaping rules

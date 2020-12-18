@@ -1,0 +1,1 @@
+ URL : "https://github.com/gabrielbull/react-router-server/issues/11" TITLE : support with rails server BODY : hey, i like the library a lot, but i have rails as my server bundled by webpack provided by react_on_rails gem, not express. is there any way you can facilitate that with an example?

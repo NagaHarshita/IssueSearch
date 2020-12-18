@@ -1,0 +1,1 @@
+ URL : "https://github.com/razagill/react-phone-input/issues/57" TITLE : getting validity state BODY : is there any way to determine if the number entered in the field is valid? i.e., is there a callback or a prop or something that is aware of whether the number currently entered is correctly formatted with 10 digits, etc.?

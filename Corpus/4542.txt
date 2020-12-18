@@ -1,0 +1,1 @@
+ URL : "https://github.com/derhansen/sf_event_mgt/issues/404" TITLE : doc update faq BODY : example: only use categories which are saved in the pages with id 12 and 34 tceform.tx_sfeventmgt_domain_model_event.categories.page_tsconfig_idlist = 12,34

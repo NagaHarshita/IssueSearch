@@ -1,0 +1,1 @@
+ URL : "https://github.com/popul/eslint-plugin-reselect/issues/19" TITLE : missing selector functions BODY : missing case: js export default state, ... => { ... }

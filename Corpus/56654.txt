@@ -1,0 +1,1 @@
+ URL : "https://github.com/proxysh/Safejumper-for-Android/issues/4" TITLE : not able to build code BODY : i cloned the code from repository, but getting this error error:project :app declares a dependency from configuration 'normalcompile' to configuration 'normaldebug' which is not declared in the descriptor for project :main. can you please help me in building the code?

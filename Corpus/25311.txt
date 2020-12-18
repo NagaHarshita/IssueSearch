@@ -1,0 +1,1 @@
+ URL : "https://github.com/maddox/dasher/issues/103" TITLE : wifi does not work BODY : wifi will find the button while running the finder script but when you run the actual dasher script it will not trigger the reaction however it does work over ethernet. is there any way to get this working over wifi? thanks

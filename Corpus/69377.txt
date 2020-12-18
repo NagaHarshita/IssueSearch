@@ -1,0 +1,1 @@
+ URL : "https://github.com/mbraak/jqTree/issues/493" TITLE : tab index for root node BODY : how can i assign a different tabindex attribute value to the span tag of the root node? for all other nodes, passing a function for oncreateli works but the root node always has a tabindex value of 0

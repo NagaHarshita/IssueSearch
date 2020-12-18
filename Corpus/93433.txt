@@ -1,0 +1,1 @@
+ URL : "https://github.com/williamokano/kow/issues/2" TITLE : add support to middlewares BODY : add support to simple middleware, like zend expressive, but simpler.

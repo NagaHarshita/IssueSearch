@@ -1,0 +1,1 @@
+ URL : "https://github.com/keppelen/react-facebook-login/issues/184" TITLE : permission cancel fail BODY : when i click cancel button on permission request page, it continue login success and return data as i click ok button how can i do?

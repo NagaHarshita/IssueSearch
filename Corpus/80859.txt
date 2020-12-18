@@ -1,0 +1,1 @@
+ URL : "https://github.com/docker-library/tomcat/issues/60" TITLE : use arg instead of env ? BODY : for some build-time variables, it would be good to use just arg instead of env . > unlike an arg instruction, env values are always persisted in the built image. for example, the variables like tomcat_major , tomcat_version , tomcat_tgz_url , tomcat_asc_url .

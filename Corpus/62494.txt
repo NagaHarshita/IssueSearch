@@ -1,0 +1,1 @@
+ URL : "https://github.com/lanl/bml/issues/144" TITLE : compilation without omp BODY : when bml_omp is set to no the compilation fails cause omp.h is still included in the source code and not protected with ifdefs

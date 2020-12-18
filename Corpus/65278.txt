@@ -1,0 +1,2 @@
+ URL : "https://github.com/NICTA/cogent/issues/179" TITLE : include orlov allocator BODY : <a href= https://github.csiro.au/ahixon ><img src= https://github.csiro.au/avatars/u/257? align= left width= 96 height= 96 hspace= 10 ></img></a> issue by ahixon https://github.csiro.au/ahixon _thu apr 9 17:40:58 2015_
+_originally opened as https://github.csiro.au/ts-filesystems/cogent/issues/74_ ---- should be fairly simple, now that we update directory counts for super and block groups. need to port allocator from linux code, which is only one or two functions.

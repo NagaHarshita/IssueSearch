@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpenDataDE/food-bank-sttp/issues/62" TITLE : break down components BODY : - going to begin pulling apart components into small more manageable parts - specifically - the product-list component is too large, the orderform is also doing too much - will also remove unused imports / methods and files

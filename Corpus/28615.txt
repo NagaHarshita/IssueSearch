@@ -1,0 +1,1 @@
+ URL : "https://github.com/nrbrook/NBUIKitMainThreadGuard/issues/2" TITLE : help on how to use! BODY : sorry, i'm new to this. how do i do this? add a preprocessor macro in build settings for the debug build: debug=1 and in other swift flags: -ddebug

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Genoil/cpp-ethereum/issues/161" TITLE : invalid shares on linux BODY : hello, i get only invalid shares on linux. is dag file always generated on startup, or stored somewhere ? what's strange is on windows dag generation takes about 5-10mn but on linux it's less than one minute.

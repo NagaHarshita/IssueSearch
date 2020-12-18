@@ -1,0 +1,1 @@
+ URL : "https://github.com/nextstrain/auspice/issues/451" TITLE : async script loading BODY : leaflet.css and react-select.css are loaded from unpkg.com these are requested before the bundle and are blocking. sometimes these take 10s - so the page load is around 11s! they should be made async.

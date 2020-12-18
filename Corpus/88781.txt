@@ -1,0 +1,1 @@
+ URL : "https://github.com/googlevr/webvr-ui/issues/13" TITLE : options.color not applied BODY : we have a options.color property but are not currently applying it to the styles.

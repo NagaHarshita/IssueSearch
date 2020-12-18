@@ -1,0 +1,1 @@
+ URL : "https://github.com/kyledinh/journ/issues/5" TITLE : look into timezone support BODY : the fs.atime maybe reading a utm time, affecting the journ new for seeing age of today.md file

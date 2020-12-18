@@ -1,0 +1,1 @@
+ URL : "https://github.com/adamreisnz/replace-in-file/issues/28" TITLE : typo in cli.js BODY : console.errir isn't working obviously : https://github.com/adamreisnz/replace-in-file/blob/2aa5eea1e0cd5856cdb4e8f7a41f7d2963d87d1a/bin/cli.js l125

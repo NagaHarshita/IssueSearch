@@ -1,0 +1,1 @@
+ URL : "https://github.com/vision-it/vision-jenkins/issues/2" TITLE : remove legacy code BODY : after the refactor to docker there's some old code left. should be deleted.

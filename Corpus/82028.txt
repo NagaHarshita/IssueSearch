@@ -1,0 +1,1 @@
+ URL : "https://github.com/mapbox/mapbox-cli-py/issues/93" TITLE : add cli for analytics api BODY : based on analytics sdk https://github.com/mapbox/mapbox-sdk-py/issues/153 , add support for analytics api mapbox analytics args -- resource_type -- username -- id -- start -- end -- mapbox_access_token cc @sgillies @perrygeo @batpad

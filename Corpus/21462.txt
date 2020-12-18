@@ -1,0 +1,1 @@
+ URL : "https://github.com/fwinkelbauer/Cake.Mug/issues/2" TITLE : find test projects BODY : cake.mug could find test projects based on the presence of a test dll. a function to do this is already contained in cake, though it currently cannot deal with the visual studio test library. a fix is already contained in cake.incubator

@@ -1,0 +1,1 @@
+ URL : "https://github.com/OndraM/ci-detector/issues/12" TITLE : detect git branch property BODY : add git branch property detection currently we only have getgitcommit .

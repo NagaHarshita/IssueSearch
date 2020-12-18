@@ -1,0 +1,1 @@
+ URL : "https://github.com/superphy/backend/issues/208" TITLE : genome quality control BODY : we should only accept genomes that are in genbank format otherwise we could accidentally parse the headers incorrectly. a quality control step should be added to this effect.

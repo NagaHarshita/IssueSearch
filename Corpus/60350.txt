@@ -1,0 +1,1 @@
+ URL : "https://github.com/beautifularea/articles/issues/17" TITLE : 知识 vim 设置tab=4 BODY : sudo vim /etc/vim/vimrc set ts=4 set expandtab set autoindent

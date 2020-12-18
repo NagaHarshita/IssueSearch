@@ -1,0 +1,1 @@
+ URL : "https://github.com/hylang/hy/issues/1417" TITLE : completion not complete. BODY : hy.completer.completer misses many hy builtins such as: accumulate, reduce, return, cons, constantly, ... . there also does not seem to be support for completions with modules. with both we should have full autocompletion support.

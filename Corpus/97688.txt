@@ -1,0 +1,1 @@
+ URL : "https://github.com/PeterScott/streql/issues/4" TITLE : how is this constant time? BODY : for i = 0; i < xlen; i++ result |= x i ^ y i ; https://github.com/peterscott/streql/blob/master/streql.c l8 the for depends on the length of the strings. how is this constant time? or what do you refer to with constant-time?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/lukasz-wronski/vscode-ftp-sync/issues/182" TITLE : ignore option regex BODY : i'm really bad at regular expressions, and i just cant figure out how to ignore a root 'vendor' directory but not 'vendor' subfolders. can someone help me?

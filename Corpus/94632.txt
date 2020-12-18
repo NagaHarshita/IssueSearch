@@ -1,0 +1,1 @@
+ URL : "https://github.com/Tazinho/snakecase/issues/95" TITLE : change r-dependency to 3.2 BODY : is it really necessary that snakecase requires r >= 3.3.3? if possible, it would be great to change any such code-requirements to allow at least r 3.2, because it prevents many people from using it and hence, all other packages that depend on snakecase .

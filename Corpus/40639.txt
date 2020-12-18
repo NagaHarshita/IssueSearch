@@ -1,0 +1,1 @@
+ URL : "https://github.com/18F/docker-ruby-ubuntu/issues/6" TITLE : upgrade ruby version BODY : https://github.com/18f/docker-ruby-ubuntu/blob/master/dockerfile is set to 2.3.1 and blocking builds set to 2.3.3 .

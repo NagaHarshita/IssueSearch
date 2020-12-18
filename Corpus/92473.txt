@@ -1,0 +1,1 @@
+ URL : "https://github.com/zagortenay333/Harmattan/issues/37" TITLE : wrong current temperature BODY : it keeps displaying 25c, 24 hours a day. i did put in the right api key in the conkyrc and also the right city id. it does update the forecast, however. how to solve this? os: solus conky: 1.10.x conky harmattan: latest git master

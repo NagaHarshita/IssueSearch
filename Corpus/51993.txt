@@ -1,0 +1,1 @@
+ URL : "https://github.com/DynaSim/DynaSim/issues/83" TITLE : calcfr 1bin and suffix BODY : 1 breaks with 1 bin, for overall firing rate 2 added suffix option, permitting calculation of different bin sizes/shifts without overwriting variables

@@ -1,0 +1,17 @@
+ URL : "https://github.com/Zimmi48/bugzilla-test/issues/4432" TITLE : destruct raises not_found BODY : note: the issue was created automatically with bugzilla2github tool bugzilla bug id: 4432
+date: 2015-11-18 15:28:46 +0100
+from: françois pottier &lt;<francois.pottier@inria.fr>&gt;
+to: duplicates: 4395
+last updated: 2015-11-18 16:00:48 +0100 bugzilla comment id: 11273
+date: 2015-11-18 15:28:46 +0100
+from: françois pottier &lt;<francois.pottier@inria.fr>&gt; created attachment 630
+repro case. let foo := fresh in destruct foo causes an anomaly.
+not a problem for me i don't know what this would do
+anyway , but i thought i would report it.
+coq 8.5beta2. > attached file: essai.v application/octet-stream, 116 bytes > description: repro case. bugzilla comment id: 11274
+date: 2015-11-18 15:32:10 +0100
+from: @_maximedenes hi françois, did you try with beta 3? it seems to say: error: foo binds to h which is neither a declared or a quantified hypothesis. does that make sense? modulo the or which should be a nor i guess. bugzilla comment id: 11275
+date: 2015-11-18 15:37:00 +0100
+from: @_maximedenes this bug has been marked as a duplicate of bug 4395 bugzilla comment id: 11277
+date: 2015-11-18 16:00:48 +0100
+from: @_maximedenes changed or to nor . feel free to try out beta 3, françois :

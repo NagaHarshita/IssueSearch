@@ -1,0 +1,1 @@
+ URL : "https://github.com/dmpop/sonnenhut/issues/24" TITLE : add .ini file BODY : move all user-defined settings to a separate .ini file. use configparser to use them.

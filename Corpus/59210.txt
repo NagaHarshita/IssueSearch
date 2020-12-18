@@ -1,0 +1,1 @@
+ URL : "https://github.com/plotly/plotly.js/issues/1948" TITLE : this mesh won't render BODY : see https://codepen.io/etpinard/pen/pkjmgz?editors=0010 a mesh with: js x: 1, 1, 1, 1 y: 0, 1, 1, 0 x: 0, 0, 1, 1 fails to render. note that perturbing x to 1, 1, 0.99, 0.99 makes it appear.

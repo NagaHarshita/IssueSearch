@@ -1,0 +1,1 @@
+ URL : "https://github.com/Radarr/Radarr/issues/1251" TITLE : indexers keep stopping BODY : the rarbg indexer stop working some times and manually refreshing the capture token fixes it. therefore, could you please add the ability to auto refresh the capture token.

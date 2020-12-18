@@ -1,0 +1,1 @@
+ URL : "https://github.com/faustbrian/Laravel-Omnipay/issues/6" TITLE : laravel 5.3 compatible BODY : is it posible to use onmipay with laravel 5.3? seems like all of them are breking because of the symfony/http-foundation componen!

@@ -1,0 +1,1 @@
+ URL : "https://github.com/therickys93/barorder/issues/10" TITLE : log di sistema BODY : l'applicazione non mostra cosa gli utenti chiedono quindi bisogna impostare dei log di sistema... guardare documentazione ufficiale restlet https://restlet.com/open-source/documentation/user-guide/2.3/core/services/log

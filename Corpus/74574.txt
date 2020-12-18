@@ -1,0 +1,1 @@
+ URL : "https://github.com/Restream/redmine_cut_tag/issues/12" TITLE : export pdf occured error BODY : export pdf file with error information like these error executing the cut_start macro missing partial issues/_redmine_cut_tag_start with {:locale=> :zh, :en , :formats=> :pdf , :variants=> , :handlers=> :erb, :builder, :raw, :ruby, :haml, :rsb }

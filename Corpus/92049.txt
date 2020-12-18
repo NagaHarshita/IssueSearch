@@ -1,0 +1,1 @@
+ URL : "https://github.com/jhsu802701/rails_neutrino_5/issues/11" TITLE : user model public section BODY : the public section label should be immediately after class user < applicationrecord . revise unit 9 chapter 5 to reflect this.

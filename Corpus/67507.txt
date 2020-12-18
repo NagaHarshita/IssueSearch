@@ -1,0 +1,1 @@
+ URL : "https://github.com/spring-cloud-stream-app-starters/app-starters-release/issues/121" TITLE : prepare for celcius.rc1 BODY : as a developer, i'd like to update the relevant bom dependencies and prep the celcius release-train for rc release.

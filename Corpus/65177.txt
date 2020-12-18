@@ -1,0 +1,1 @@
+ URL : "https://github.com/biocommons/hgvs/issues/403" TITLE : import needed in readme BODY : i believe import hgvs.assemblymapper needs to be added to the readme as without it i am getting attributeerror: 'module' object has no attribute 'assemblymapper'

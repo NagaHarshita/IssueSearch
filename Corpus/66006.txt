@@ -1,0 +1,1 @@
+ URL : "https://github.com/nationofmakers/nationofmakers.github.io/issues/95" TITLE : lowercase email address BODY : this uppercasing is a stylistic legacy from the launch version of the site: info@nationofmakers.us ...while that may actually deliver correctly, there are corner cases where it won't, it disagrees with rfc822 anyway, and we really ought to lowercase it.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/drupalironcamp/website/issues/110" TITLE : valid site email BODY : site tries to send mails from admin@example.com. set valid email address e.g. info@drupalironcamp.com

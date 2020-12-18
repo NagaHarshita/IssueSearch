@@ -1,0 +1,1 @@
+ URL : "https://github.com/redpelicans/peep2/issues/153" TITLE : notes : edit && add BODY : display 'person' or 'company' for entityid's label formik initialvalues must have prop entityid not person and company what is assignee's prop ? assigneesids must be an array made of ids, not made of object { value, label } !

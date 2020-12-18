@@ -1,0 +1,1 @@
+ URL : "https://github.com/frappe/frappe/issues/2601" TITLE : gantt chart printing error BODY : attempting to print a gantt chart results in this error: ! gantt error https://cloud.githubusercontent.com/assets/20559059/22028883/1ae6111a-dcaf-11e6-811e-f4a87f6900b1.png it's the same error if you click assign to in the menu drop down. erpnext 7.2.13 production

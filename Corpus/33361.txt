@@ -1,0 +1,1 @@
+ URL : "https://github.com/KVSun/kvs-icons/issues/5" TITLE : add linting for svgs BODY : add testing code to verify that all svg icons will work as <symbol> s - do not allow style attribute - require viewbox attribute - do not allow embedded images - setup travis-ci testing - make sure all existing icons pass test

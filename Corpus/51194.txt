@@ -1,0 +1,1 @@
+ URL : "https://github.com/InQuest/ThreatKB/issues/1" TITLE : add tags functionality BODY : use something like this to add functionality that will allow the team to tag signatures, c2 dns, and c2 ip addresses. http://mbenford.github.io/ngtagsinput/ the tags should be displayed in the table view page.

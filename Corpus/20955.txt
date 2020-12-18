@@ -1,0 +1,1 @@
+ URL : "https://github.com/programGrupo7/grupo7/issues/10" TITLE : diagrama de clases BODY : - relacionar persona con parte - completar asociaciones - 1..0 ; 1..1 ; 0.. - texto descriptivo - quitar categoria. info duplicada

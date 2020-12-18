@@ -1,0 +1,9 @@
+ URL : "https://github.com/PennyDreadfulMTG/perf-reports/issues/2611" TITLE : 500 error at /people/183/ BODY : head_to_head reported on decksite by logged_out
+--------------------------------------------------------------------------------
+request method: get
+path: /people/183/?
+cookies: {}
+endpoint: person
+view args: {'person_id': '183'}
+person: logged_out
+user-agent: mozilla/5.0 compatible; yandexbot/3.0; +http://yandex.com/bots referrer: none

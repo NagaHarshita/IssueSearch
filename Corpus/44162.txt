@@ -1,0 +1,1 @@
+ URL : "https://github.com/egovova11/HomeBarman2/issues/20" TITLE : enable cors in webapi BODY : as be and fe are going to be hosted in different domains, we need to enable calls from client to server. this requires the following: - add settings in be to enable calls from specific origins - add server location settings to fe

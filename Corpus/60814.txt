@@ -1,0 +1,1 @@
+ URL : "https://github.com/java-deobfuscator/deobfuscator/issues/137" TITLE : add javavalue charvalue BODY : nearly all primitives have their existance in value methods, jsut chars not.

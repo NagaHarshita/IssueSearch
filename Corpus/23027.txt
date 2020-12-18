@@ -1,0 +1,12 @@
+ URL : "https://github.com/AndroidTamer/Tools_Repository/issues/267" TITLE : new: release super BODY : super 0.4.1<br>
+/superandroidanalyzer/super/releases/tag/0.4.1<br><p>fixed a small issue that prevented <code>results</code> and <code>dist</code> directory creation if they didn't exist.</p>
+<h2>changelog</h2>
+<h3>internal changes</h3>
+<ul>
+<li>upgraded <code>abxml</code> to <strong>0.2.0</strong>.</li>
+</ul><h3>bug fixes</h3>
+<ul>
+<li>super now properly creates <code>dist</code> and <code>results</code> directories if they do not exist.</li>
+</ul><br><br>
+via release notes from super https://github.com/superandroidanalyzer/super/releases<br>
+june 24, 2017 at 03:48pm

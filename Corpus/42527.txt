@@ -1,0 +1,1 @@
+ URL : "https://github.com/djsegal/julia_observer/issues/3" TITLE : blog link not working BODY : on my profile https://juliaobserver.com/users/blegat , the blog link is missing the http:// hence the link is not working, it points to https://juliaobserver.com/users/perso.uclouvain.be/benoit.legat . however, on my github profile https://github.com/blegat , the http:// is present.

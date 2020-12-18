@@ -1,0 +1,1 @@
+ URL : "https://github.com/jojoe77777/FormAPI/issues/14" TITLE : bug in 1.2.5 BODY : okay, i did some research and found some bugs which are happening because of 1.2.5. 1. two plugins, depending on formsapi, will conflict 2. wont send commands, when click button wont carry out task. id be grateful if you find a fix to this @jojoe77777 or @dktapps thanks

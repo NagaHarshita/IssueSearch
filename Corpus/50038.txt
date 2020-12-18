@@ -1,0 +1,1 @@
+ URL : "https://github.com/triforce/shoppeJs/issues/4" TITLE : validate _server vars BODY : add some validation to the _server vars before trying to use them.

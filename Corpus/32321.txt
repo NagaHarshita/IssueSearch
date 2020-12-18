@@ -1,0 +1,1 @@
+ URL : "https://github.com/idb-project/the-idb/issues/362" TITLE : update nokogiri gem BODY : redmine 4952<br/>several cves have been fixed in latest 1.7.2: https://github.com/sparklemotion/nokogiri/blob/master/changelog.md

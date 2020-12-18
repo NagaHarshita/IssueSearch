@@ -1,0 +1,1 @@
+ URL : "https://github.com/j3k0/ganomede-events/issues/14" TITLE : pushing events in client BODY : client can only listen, and not add events. fix asap.

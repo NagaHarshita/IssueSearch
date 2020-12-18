@@ -1,0 +1,1 @@
+ URL : "https://github.com/vdenotaris/spring-boot-security-saml-sample/issues/38" TITLE : adfs with spring saml BODY : hi vdenotaris, first of all thank you very much your saml implementation helped me a lot. i want to use adfs as my idp. i got the idp metdata. now how to use that like you did for ssocircle? any help would be appreciated.

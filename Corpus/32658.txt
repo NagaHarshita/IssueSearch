@@ -1,0 +1,1 @@
+ URL : "https://github.com/openalea-incubator/WALTer/issues/8" TITLE : walter command line BODY : add a command line that will execute the model for a given set of parameters. walter -n project cd project walter -i sim_scheme.csv

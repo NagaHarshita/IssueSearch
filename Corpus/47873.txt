@@ -1,0 +1,1 @@
+ URL : "https://github.com/Crinsane/LaravelShoppingcart/issues/307" TITLE : question about search BODY : $cart->search function $cartitem, $rowid { return $cartitem->id === 1; } ; how to pass id to closure . i want to search with id from input , thank you !

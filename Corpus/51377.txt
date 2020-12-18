@@ -1,0 +1,1 @@
+ URL : "https://github.com/pwnbus/scoring_engine/issues/349" TITLE : ajaxify /services page BODY : the team place and points is not ajax, so it won't update automatically on the /services page unless we refresh the page. this should query the api periodically to update.

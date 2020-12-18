@@ -1,0 +1,14 @@
+ URL : "https://github.com/Zimmi48/bugzilla-test/issues/990" TITLE : coqide and loadpaths BODY : note: the issue was created automatically with bugzilla2github tool bugzilla bug id: 990
+date: 2005-08-01 15:41:33 +0200
+from: @_roconnor
+to: last updated: 2005-08-01 15:41:33 +0200 bugzilla comment id: 1012
+date: 2005-08-01 15:41:33 +0200
+from: @_roconnor full_name: russell o'connor
+version: 8.0pl1
+os: linus
+submission from: n032252.cs.kun.nl 131.174.32.252 1. bind a directory with something like -r . corn'' when editting a file in
+coqide coqide -r . corn algebra/cordfields.v in coqide run print loadpath. if the file algebra/cordfields.vo exists then the load path is proper.
+if the file algebra/cordfields.vo does not exist then the path .../corn/algebra <none> is unbound as you can see. this is bad. .../corn/algebra should remain bound
+correctly whether cordfields.vo exists or not. bugzilla comment id: 1013
+date: 2007-07-04 17:04:09 +0200
+from: @_roconnor fixé r8877 appel à add loadpath dans activate

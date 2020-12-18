@@ -1,0 +1,1 @@
+ URL : "https://github.com/kalliope-project/kalliope/issues/278" TITLE : snowboy as dependency BODY : the snowboy team has made a setup.py for snowboy https://github.com/kitt-ai/snowboy/issues/73 and the package should be available soon in pypi. time for us to implement snowboy as a lib.

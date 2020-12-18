@@ -1,0 +1,1 @@
+ URL : "https://github.com/jonkemp/node-qunit-phantomjs/issues/25" TITLE : upgrade qunitjs package BODY : upgrade the qunitjs npm package to the latest, which is currently is 2.4.0.

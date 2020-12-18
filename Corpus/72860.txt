@@ -1,0 +1,1 @@
+ URL : "https://github.com/davidfarmer/Sage_in_French/issues/2" TITLE : check if images are okay BODY : images worked some of them anyway in the direct to html conversion. chapter 4 opens with an image immediately after the first sage cell. if the markup needs to be changes, i can do that globally.

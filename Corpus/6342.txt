@@ -1,0 +1,1 @@
+ URL : "https://github.com/ejolly/pymer4/issues/12" TITLE : add anova table BODY : most of the code is there to perform this, but it would be convenient to force check of orthogonal contrasts, and auto-reparameterize if not. maybe not worth it?

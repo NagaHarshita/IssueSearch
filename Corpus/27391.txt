@@ -1,0 +1,1 @@
+ URL : "https://github.com/chartjs/Chart.js/issues/4489" TITLE : curve filling issue BODY : hi, i am not sure if this changed after i made an upgrade. now the curves are filled below the graph in the label area.. not ok in this way? ! untitled https://user-images.githubusercontent.com/7629996/28163583-174eafaa-67cc-11e7-99c1-9bf367a5e9f1.png br, ilkka

@@ -1,0 +1,1 @@
+ URL : "https://github.com/bigchaindb/github-projects/issues/4" TITLE : needs auto deployment BODY : ain't nobody got time for manual deployments. deploy to zeit's now automatically upon changes to master via github / travis / potato / something

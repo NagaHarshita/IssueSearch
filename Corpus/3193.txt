@@ -1,0 +1,1 @@
+ URL : "https://github.com/CamB17/Terminal-Containment/issues/5" TITLE : lots 'o' divs BODY : put a for loop in at line 58 to pump out those divs: for i=0; i<20; i++ { newdiv ; } otherwise code looks pretty tight to me!

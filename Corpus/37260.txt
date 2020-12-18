@@ -1,0 +1,1 @@
+ URL : "https://github.com/pvinis/colortools/issues/1" TITLE : list tests available BODY : currently i have to visit the readme in order to know what tests are available from colortest. it would be handy to have the command colortest print out the available tests with a text description.

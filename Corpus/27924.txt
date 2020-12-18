@@ -1,0 +1,1 @@
+ URL : "https://github.com/Atomgamer/JoinChat1/issues/1" TITLE : error in plugin.yml BODY : main: joinchat\main needs to be corrected to: main: joinchat1\main

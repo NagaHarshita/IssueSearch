@@ -1,0 +1,1 @@
+ URL : "https://github.com/sozu-proxy/sozu/issues/85" TITLE : change default buffer size BODY : in gitlab by @geal on nov 4, 2016, 23:15 the default is 12000 bytes. haproxy uses 16384 bytes 4 4096 , which can be conveniently aligned to pages. can memory aligned buffers be used here?

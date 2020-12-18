@@ -1,0 +1,1 @@
+ URL : "https://github.com/HaxeFoundation/hashlink/issues/79" TITLE : no output driver available BODY : with the haxe 4.0 preview build, hashlink 1.2, and latest pull from heaps, any heaps samples i build and subsequently run with hl.exe <sample name.hl> produce this message in the console: no output driver available.

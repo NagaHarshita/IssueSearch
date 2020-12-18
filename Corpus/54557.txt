@@ -1,0 +1,1 @@
+ URL : "https://github.com/engineersmy/lookie/issues/6" TITLE : golang - report object BODY : struct representing report should contain - link to the data store - type of the report - description of the report the metadata will be separated later.

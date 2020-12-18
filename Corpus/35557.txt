@@ -1,0 +1,1 @@
+ URL : "https://github.com/grinsted/gwmcmc/issues/7" TITLE : error in ex_breakfit BODY : running ex_breakfit from git head yields <elided> gwmcmc 99.3% · 00:00:00 75% rejected 0.311 1.85 1.87e+03 -111 3.36 elapsed time is 7.448054 seconds. index exceeds matrix dimensions. error in ex_breakfit line 129 ycount ybin jj ,jj =ycount ybin jj ,jj +1; matlab r2016b .

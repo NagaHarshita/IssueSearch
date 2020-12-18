@@ -1,0 +1,1 @@
+ URL : "https://github.com/Cfmeier/PSoC_ErikaOS/issues/1" TITLE : no support for mono stack BODY : in the change context assembler file, only multi stack is defined. it is not accepting defines from outside this file. because of this multi stack was manually defined. will be fixed with automatic code generation.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Pkmmte/PkRSS/issues/39" TITLE : image is always null BODY : i have tried several rss feed links and i always get null in the image field. e.g http://www.androidcentral.com/feed/. can you help

@@ -1,0 +1,1 @@
+ URL : "https://github.com/codekitchen/fsevents_to_vm/issues/8" TITLE : retry on error BODY : ssh timeout errors specifically appear to be more common now on high sierra, see https://github.com/codekitchen/dinghy/issues/262 we might want to retry a couple times with a backoff timer when we hit an error like this, so events aren't missed.

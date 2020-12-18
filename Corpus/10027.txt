@@ -1,0 +1,1 @@
+ URL : "https://github.com/tendermint/ethermint/issues/167" TITLE : adjust log level BODY : the log level should be closer to geth and not produce all the redundant information of ethermint. make info level usable.

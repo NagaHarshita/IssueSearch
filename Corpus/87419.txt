@@ -1,0 +1,1 @@
+ URL : "https://github.com/stripe/stripe-dotnet/issues/978" TITLE : level 2 - feature request BODY : the current interface works great. however, we now have customers requesting level 2 processing. have you expanded your code to include level 2 transactions? do you have plans to expand the code base include level 2 transactions? thank you, pat

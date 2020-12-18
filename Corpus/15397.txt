@@ -1,0 +1,1 @@
+ URL : "https://github.com/ddiguy/ddi-check-script-rfe/issues/3" TITLE : dns anycast alert BODY : date opened - 8/8/2017 description - to send snmp traps to the pollers when a downed lo:1 interface is detected.

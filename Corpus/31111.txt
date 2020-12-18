@@ -1,0 +1,1 @@
+ URL : "https://github.com/nealrea/collisionViz/issues/16" TITLE : route zooming issue BODY : on first page load, generating the first route via the search box causes issues with the way the route overlays the map. to reproduce: 1 launch localhost 2 create a route using search box 3 zoom in and out on map 4 notice the route does not properly overlay the map

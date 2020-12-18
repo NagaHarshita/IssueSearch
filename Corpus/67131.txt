@@ -1,0 +1,1 @@
+ URL : "https://github.com/paypal/bootstrap-accessibility-plugin/issues/115" TITLE : outdated package on npm BODY : when installing this with npm you get version 1.0.2 from 2014 https://www.npmjs.com/package/bootstrap-accessibility-plugin is this something that can be fixed so we get the latest version?

@@ -1,0 +1,2 @@
+ URL : "https://github.com/NaturalHistoryMuseum/scratchpads2/issues/1472" TITLE : implement reference picker BODY : - original id: 2040 - added by alice heaton on thu dec 13 2012 10:28:31 gmt+0000 gmt - scratchpads url: null description:
+we need to be able to pick and insert references in text areas. this means we need to: 1. have an interface to picking and inserting the references in the text area ; 2. have a reference field that keeps track of the references that were used.

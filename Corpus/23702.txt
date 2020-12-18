@@ -1,0 +1,1 @@
+ URL : "https://github.com/floripasat/obdh/issues/27" TITLE : read data from imu BODY : read all the 14 bytes from the imu 6 from accelerometer 6 from gyroscope 2 from temperature

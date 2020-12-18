@@ -1,0 +1,1 @@
+ URL : "https://github.com/cloudfoundry/docs-dev-guide/issues/179" TITLE : query on documentation BODY : the documentation states: authorization token grace period is minimum 20 minutes. is it supposed to be minimum 20 minutes or maximum 20 minutes? if the minimum time for the authorization is 20 minutes. what is the maximum time? thanks

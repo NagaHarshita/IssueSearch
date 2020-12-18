@@ -1,0 +1,1 @@
+ URL : "https://github.com/SebastianM/angular-google-maps/issues/1058" TITLE : meteor angular 2 issue BODY : i ran into issue when i try to use @agm/core with meteor angular2. everything is fine when i was with angular2-google-maps. but after @agm/installation i get an issue. help please !

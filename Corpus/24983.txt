@@ -1,0 +1,1 @@
+ URL : "https://github.com/jshjohnson/Choices/issues/172" TITLE : update npm version BODY : hi, in npmjs.com choices version is 2.8.0, and in this version don't work searchenabled: false .

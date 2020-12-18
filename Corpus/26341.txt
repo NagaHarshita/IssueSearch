@@ -1,0 +1,1 @@
+ URL : "https://github.com/ngrunwald/datasplash/issues/16" TITLE : apache beam support BODY : hey guys, just ran my first job on dataflow using datasplash today, and it worked great. thanks for the library! any plans to migrate to beam? any idea how big a change it would be to datasplash? cheers!

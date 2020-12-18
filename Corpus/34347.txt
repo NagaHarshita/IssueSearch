@@ -1,0 +1,1 @@
+ URL : "https://github.com/Anthonyzou/react-native-html-to-text/issues/3" TITLE : cannot truncate text BODY : even though htmltext is meant to have the same properties as a text component, it doesn't make a difference when adding numberoflines={1} to make the text show the ... if it is too long for its container.

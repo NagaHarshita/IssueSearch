@@ -1,0 +1,1 @@
+ URL : "https://github.com/swarmcity/sc-boardwalk/issues/223" TITLE : rep not shown correctly BODY : actual behavior: shows more rep than i have, shows less rep than i heve. expected behavior: 1 rep per succesfull transaction seeker 1, provider 1 steps to reproduce the problem: check rep saldo

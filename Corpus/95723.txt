@@ -1,0 +1,1 @@
+ URL : "https://github.com/procxx/kepka/issues/49" TITLE : disable cloud translations BODY : completely remove cloud translations support. use bundled instead.

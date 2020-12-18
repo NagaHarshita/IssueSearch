@@ -1,0 +1,1 @@
+ URL : "https://github.com/srl447/KermitRepo/issues/4" TITLE : inversion of controls BODY : save key inputs as strings instead of keycode and just edit the strings

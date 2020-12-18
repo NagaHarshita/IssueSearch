@@ -1,0 +1,1 @@
+ URL : "https://github.com/DSchau/gatsby-blog-starter-kit/issues/4" TITLE : add carets on package.json BODY : are these tildes https://github.com/dschau/gatsby-blog-starter-kit/blob/master/package.json l7 ? they are forcing you to use an older version of gatsby. thanks

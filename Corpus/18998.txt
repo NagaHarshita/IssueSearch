@@ -1,0 +1,1 @@
+ URL : "https://github.com/tgstation/tgstation/issues/23800" TITLE : vv add organ bugs BODY : adding an eye cybernetic implant overwrites whatever they had before, even when they're supposed to be able to hold both.

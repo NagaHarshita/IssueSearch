@@ -1,0 +1,1 @@
+ URL : "https://github.com/skilion/onedrive/issues/141" TITLE : unknown item id seg fault BODY : i'm currently running the version from commit 203062f and just had this error: http://paste2.org/9acknid4 line 9 onwards now occurs every time i attempt to run the onedrive client.

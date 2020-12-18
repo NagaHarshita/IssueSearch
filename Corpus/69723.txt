@@ -1,0 +1,1 @@
+ URL : "https://github.com/nodeschool/discussions/issues/2030" TITLE : translation review flow BODY : i suggest we should have localization team like @nodejs/nodejs-ja because if someone sends a pr for japanese translation but there is no people to review and no way to let them know. what do you think ?

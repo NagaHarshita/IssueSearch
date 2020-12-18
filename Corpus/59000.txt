@@ -1,0 +1,1 @@
+ URL : "https://github.com/stchang/typed-rosette/issues/32" TITLE : sync with rosette head BODY : tests are currently using a fork that is a few commits behind. fix them to work with current rosette head.

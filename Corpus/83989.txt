@@ -1,0 +1,1 @@
+ URL : "https://github.com/hasura/support/issues/230" TITLE : console ui responsiveness BODY : currently, on reducing the width of the browser, at a certain threshold the ui gives up. <img width= 735 alt= screen shot 2017-04-19 at 9 42 47 am src= https://cloud.githubusercontent.com/assets/13097323/25163010/9911ba62-24e4-11e7-8da6-f598761196b4.png >

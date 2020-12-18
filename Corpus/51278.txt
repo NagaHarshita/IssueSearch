@@ -1,0 +1,1 @@
+ URL : "https://github.com/ricmoo/ethers-meow/issues/10" TITLE : adding existing wallet BODY : i notice the account.json creates a new account, but how do we add an existing account?

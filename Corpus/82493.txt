@@ -1,0 +1,1 @@
+ URL : "https://github.com/pnnl/atlas/issues/22" TITLE : adding deduplication step BODY : what do you think of adding a deduplication step. especially when using a pcr library this could remove bias. in the bbmap suite there is the script clumpify https://jgi.doe.gov/data-and-tools/bbtools/bb-tools-user-guide/clumpify-guide/ which also reduces file size of the fastq.gz

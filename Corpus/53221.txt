@@ -1,0 +1,1 @@
+ URL : "https://github.com/conda-forge/xorg-xcb-proto-feedstock/issues/2" TITLE : destroy this feedstock BODY : the work here should be merged into xcb-proto-feedstock and then this package should be removed so as not to creating naming confusion with packages provided in defaults .

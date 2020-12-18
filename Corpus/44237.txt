@@ -1,0 +1,1 @@
+ URL : "https://github.com/alfss/zabbix-redis/issues/7" TITLE : error comes at zabbix BODY : error received value /etc/zabbix/script/redis/redis-status.sh: line 28: nc: command not found is not suitable for value type numeric unsigned and data type decimal

@@ -1,0 +1,1 @@
+ URL : "https://github.com/SC5/sc5-styleguide/issues/1063" TITLE : disable css section BODY : it would be nice to add to build options boolean which will depends if there should be generated css section

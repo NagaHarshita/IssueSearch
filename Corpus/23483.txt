@@ -1,0 +1,1 @@
+ URL : "https://github.com/SDIsl/odoo-pos/issues/1" TITLE : pos reprint ticket BODY : al reimprimir el ticket no coge la fecha del ticket sino que imprime la fecha de cuando haces la reimpresion, esto es un problema para el tema de las garantias, etc.. tambien cambia el agente de venta por el que hace la reimpresion, cuando deberia conservar el agente que hizo la venta

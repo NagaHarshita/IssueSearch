@@ -1,0 +1,1 @@
+ URL : "https://github.com/falkTX/Carla/issues/548" TITLE : final polishing for beta6 BODY : this bug will contain a list of tiny things to do before beta6 is considered ready - macos plugin window with close button - macos-old hylia disabled message on make features - macos bridges no longer working? - macos discovery/backend endwith .vst/ with last slash

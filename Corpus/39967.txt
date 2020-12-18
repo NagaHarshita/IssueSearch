@@ -1,0 +1,1 @@
+ URL : "https://github.com/danyaPostfactum/modx-ace/issues/52" TITLE : support php 7 syntax BODY : from what i can tell, ace added support for php 7 syntax parsing about a year ago october 2016 . it would be nice to get an updated version of this code to support it. alternately, is there an easy way to drop in the latest ace version to add support and/or keep up to date?

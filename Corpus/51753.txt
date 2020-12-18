@@ -1,0 +1,1 @@
+ URL : "https://github.com/poggit/poggit/issues/133" TITLE : better submit response BODY : submitmodule takes too long to respond sometimes taking up to 5 seconds because a lot of data from github need to be prepared . consider making it a static page that loads the submitdata and the submitformtoken from an ajax request.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/metalx1000/Radio-Power-Viewer/issues/13" TITLE : add generic model BODY : add generic model cell tower for projects without 3d data. this model should be scaleable xy and z the model is 6 ft wide at the bottom and 300ft tall in its original state. ideally, a user could input the height and radius of their tower if know to make it look realistic.

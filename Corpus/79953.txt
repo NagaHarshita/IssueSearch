@@ -1,0 +1,1 @@
+ URL : "https://github.com/axiomzen/go-mc/issues/2" TITLE : support for reconnecting BODY : i cannot see the reconnecting support in case client drops connection. is it implemented? could you implement it?

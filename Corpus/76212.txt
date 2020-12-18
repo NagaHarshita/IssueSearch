@@ -1,0 +1,1 @@
+ URL : "https://github.com/feathersjs/generator-feathers/issues/188" TITLE : integration with graphql BODY : it seems to me that it would be useful when generating a service with the yo feathers:service command one would be able to specify if a graphql layer should be generated in addition to the database templates i hope this makes sense, if not let me know.

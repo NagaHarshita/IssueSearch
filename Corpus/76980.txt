@@ -1,0 +1,1 @@
+ URL : "https://github.com/c-ruttkies/MetFrag/issues/10" TITLE : metfragcl timeout option BODY : dear christoph, once in a while we have the unfortunate situation that metfragcl hangs when fetching compounds from pubchem. would it be possible to have a global timeout setting? thanks, rick

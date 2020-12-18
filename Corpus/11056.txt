@@ -1,0 +1,1 @@
+ URL : "https://github.com/Foxboron/iii/issues/7" TITLE : fails on windows BODY : >go get -v github.com/foxboron/iii github.com/foxboron/iii github.com/foxboron/iii ..\src\github.com\foxboron\iii\main.go:105: undefined: syscall.mkfifo maybe there is a better model for user communication? perhaps nc and local socket with /in being just a text file with the address of the port?

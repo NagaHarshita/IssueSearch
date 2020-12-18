@@ -1,0 +1,1 @@
+ URL : "https://github.com/ukdtom/WebTools.bundle/issues/320" TITLE : uas and installed bundles BODY : seems like the install date is not showing in the interface, but is returned by also date field is empty on installed bundles, but are returned by /api/v3/git/list

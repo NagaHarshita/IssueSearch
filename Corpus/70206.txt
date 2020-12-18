@@ -1,0 +1,1 @@
+ URL : "https://github.com/prasadtalasila/BITS-Darshini/issues/58" TITLE : use ioc in session.java BODY : the session.java in commit a8364dd has hard-coded object creations. replace them with spring autowired annotation. lines 86 - 92 of session.java also need to be removed.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jetsonhacks/installTensorFlowTX2/issues/3" TITLE : from v1.0.1 to v1.1.0? BODY : if i change the follow files, can it works? 1. clonetensorflow.sh git checkout v1.1.0 2. packagetensorflow.sh mv /tmp/tensorflow_pkg/tensorflow-1.0.1-cp27-cp27mu-linux_aarch64.whl $home/

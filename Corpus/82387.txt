@@ -1,0 +1,1 @@
+ URL : "https://github.com/librariesio/bibliothecary/issues/158" TITLE : add support for yarn.lock BODY : will likely need a separate rest service for parsing them running in node

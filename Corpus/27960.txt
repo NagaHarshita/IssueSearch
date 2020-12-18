@@ -1,0 +1,1 @@
+ URL : "https://github.com/engintron/engintron/issues/474" TITLE : error with visitors BODY : in awstats i have 1 visitor with 400.000 pageviews. that visitor is the ip address that is on that account. could you please help med fix this problem, i want visitors to be shown in statistics not just the webserver. i belive this might be with the proxy of some sort?

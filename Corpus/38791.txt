@@ -1,0 +1,1 @@
+ URL : "https://github.com/tomMoral/loky/issues/60" TITLE : random bug in travis BODY : this jobs failed here https://travis-ci.org/tommoral/loky/jobs/241767842 it should be carefully investigated.

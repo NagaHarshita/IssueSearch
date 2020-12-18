@@ -1,0 +1,1 @@
+ URL : "https://github.com/naturomics/CapsNet-Tensorflow/issues/46" TITLE : norm with reduce_mean BODY : in the distributed version, this line https://github.com/naturomics/capsnet-tensorflow/blob/master/dist_version/capsnet_slim.py l49 use reduce_mean to calculate the norm. is that correct?

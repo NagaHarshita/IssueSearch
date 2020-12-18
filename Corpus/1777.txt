@@ -1,0 +1,1 @@
+ URL : "https://github.com/JohnLaTwC/PyPowerShellXray/issues/1" TITLE : for nix box? BODY : hey john, any ideas on how to port this over for use on a nix platform? i see you are pulling the api dictionary of hashes from creation based on local binaries. could we get this another way or pre-make the dictionary? i would like to run your tool on a nix platform.... thanks!!

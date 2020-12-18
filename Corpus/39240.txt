@@ -1,0 +1,1 @@
+ URL : "https://github.com/TechnikEmpire/HttpFilteringEngine/issues/112" TITLE : run as administrator BODY : i had to run cmd as administrator to build. i just wanted to make a note here in case anybody else is trying to build it.

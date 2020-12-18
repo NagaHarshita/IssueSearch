@@ -1,0 +1,1 @@
+ URL : "https://github.com/qwertymodo/foo_input_msu/issues/1" TITLE : bml parsing for playlists BODY : any chance of parsing bml files and then using the entries in that as a playlist entry? also, in regards to seeking, i thought the fb2k sdk had examples for an input component, which had seeking.

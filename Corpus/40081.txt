@@ -1,0 +1,1 @@
+ URL : "https://github.com/milczwski/selecao_aliens/issues/5" TITLE : tela criar novo post BODY : esta página terá dois input texts e dois botões: - input text título; - input text descrição; - botão salvar: direciona para a página logado; - botão cancelar: direciona para a página logado; campos obrigatórios

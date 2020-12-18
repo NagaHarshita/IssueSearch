@@ -1,0 +1,1 @@
+ URL : "https://github.com/ThingsElements/things-scene-stomp/issues/1" TITLE : data binding 방법 변경 BODY : datasource 컴포넌트의 data binding 방법을 아래와 같이 변경한다. 1. datasource 컴포넌트가 데이터 receive 1. datasource 컴포넌트에서 data spread 기능을 이용하여 데이터 분배

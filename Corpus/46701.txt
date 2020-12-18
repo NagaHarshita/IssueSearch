@@ -1,0 +1,1 @@
+ URL : "https://github.com/tholman/elevator.js/issues/112" TITLE : module is not defined BODY : uncaught referenceerror: module is not defined at elevator.js:265 anonymous @ elevator.js:265

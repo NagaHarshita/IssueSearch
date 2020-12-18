@@ -1,0 +1,1 @@
+ URL : "https://github.com/govau/uikit/issues/119" TITLE : add automated a11y testing BODY : suggested tools: - pa11y https://github.com/pa11y/pa11y we used this in 1.x - axe cli http://www.deque.com/blog/introducing-axe-2-1-7/ from deque

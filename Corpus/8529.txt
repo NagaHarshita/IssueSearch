@@ -1,0 +1,1 @@
+ URL : "https://github.com/cloudfoundry-community/stackdriver-tools/issues/125" TITLE : pcf 2.0 support BODY : - use dynamic_ips instead of static_ips in tile https://github.com/cloudfoundry-community/stackdriver-tools/blob/master/tile.yml.erb l23 - use bosh2 to create releases: 111 - create release with --sha2

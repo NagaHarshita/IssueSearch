@@ -1,0 +1,1 @@
+ URL : "https://github.com/Artur-/date-picker/issues/2" TITLE : display format dd/mm/yyyy BODY : hello i am trying to use the dtp.setdateformat dd/mm/yyyy ; in order to have this style of display the selected date but always the display is mm/dd/yyyy what i am doing wrong ? i have tried also several locale. thanks

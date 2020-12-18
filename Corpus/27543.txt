@@ -1,0 +1,2 @@
+ URL : "https://github.com/Ohmnibus/quick-dice-roller/issues/7" TITLE : dice pool modifiers BODY : some games shadowrun apply modifiers to the pool size.
+currently adding a bonus can be emulated easily enough by adding another dice roll, but removing dice is a different story. my best workaround at the moment is to ignore a random die selected by rolling a die in meatspace

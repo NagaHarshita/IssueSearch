@@ -1,0 +1,1 @@
+ URL : "https://github.com/hvenables/wrecclesham_fc/issues/11" TITLE : fixture table width BODY : fixtures table currently has percentage widths set, this doesnt look good on mobile. try and get columns working although this seems awkward try giving minimum width try giving them fixed widths would prefer the first but eh

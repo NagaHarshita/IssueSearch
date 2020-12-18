@@ -1,0 +1,1 @@
+ URL : "https://github.com/roothaan/jotihunt-site/issues/5" TITLE : php notice op scores.php BODY : notice: only variables should be passed by reference in /2013/scores.php on line 7

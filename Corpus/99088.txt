@@ -1,0 +1,1 @@
+ URL : "https://github.com/erikvanbrakel/terraform-provider-sumologic/issues/25" TITLE : make http source updatable BODY : currently any change will force a rebuild.

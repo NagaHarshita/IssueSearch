@@ -1,0 +1,1 @@
+ URL : "https://github.com/kroodle/cordova-plugin-heartbeat/issues/1" TITLE : package not found BODY : hi i just installed this plugin on ionic 3 and tried on android. it starts the camera and flash but then it gives an error message “package not found “ could you please help

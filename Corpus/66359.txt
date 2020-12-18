@@ -1,0 +1,1 @@
+ URL : "https://github.com/iqrfsdk/iqrf-daemon/issues/74" TITLE : missing systemd service BODY : when update.sh script is running, it is not possible to install a service because systemd service is missing - it was deleted in this commit iqrfapp https://github.com/iqrfsdk/iqrf-daemon/commit/86a96c690da4a45f7cfdcb0b0c48e973f11d21f6 diff-3753c4c43ad751fe2980bb8916810cee

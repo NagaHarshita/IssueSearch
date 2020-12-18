@@ -1,0 +1,1 @@
+ URL : "https://github.com/w3c/html/issues/949" TITLE : missing global attributes BODY : it seems that the class and id attributes have disappeared from the global attributes list. they're present in html5.1 https://www.w3.org/tr/html/ but not in html5.2 https://w3c.github.io/html/ .

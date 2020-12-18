@@ -1,0 +1,1 @@
+ URL : "https://github.com/xombiemp/ec2-purge-snapshots-lambda/issues/6" TITLE : getting timezone error BODY : when i try to run this script to delete snapshot. giving error : 'time': keyerror traceback most recent call last : file /var/task/ec2-purge-snapshots.py , line 174, in main now = parser.parse event 'time' .astimezone tz.gettz timezone keyerror: 'time'

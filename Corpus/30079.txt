@@ -1,0 +1,1 @@
+ URL : "https://github.com/omni-compiler/omni-compiler/issues/199" TITLE : no type declaration BODY : the decompiler doesn't generate the type declaration for posx. as a result, posx is declared implicitly as a default integer even though the original implicit statement as follows. fortran program test implicit real 8 a-h,o-z do i = 1, 10 posx = 0 end do end

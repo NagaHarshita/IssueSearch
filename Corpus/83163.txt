@@ -1,0 +1,1 @@
+ URL : "https://github.com/Xion/gisht/issues/5" TITLE : build & run ci on windows BODY : appveyor is similar to travis and runs on windows. use this as template: https://github.com/burntsushi/ripgrep/blob/master/appveyor.yml note that it's most likely not worth it to try to get invoke working on windows, so we'll test with cargo test .

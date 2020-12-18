@@ -1,0 +1,1 @@
+ URL : "https://github.com/burkmarr/QGIS-Biological-Recording-Tools/issues/12" TITLE : spaces in grid references BODY : the biological records tool does not currently cope with grid references that have spaces in them. this is a common occurrence, e.g. 'sj 123 789' and the tool should cope with them.

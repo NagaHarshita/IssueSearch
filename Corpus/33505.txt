@@ -1,0 +1,2 @@
+ URL : "https://github.com/weihanli101/workspace/issues/57" TITLE : add signup component BODY : - create the component
+- set up routing from login -> signup

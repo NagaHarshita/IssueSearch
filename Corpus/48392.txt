@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/vscode-go/issues/1003" TITLE : run test | debug test BODY : ! image https://cloud.githubusercontent.com/assets/863731/26193264/06c3d40a-3bb5-11e7-9174-7abfcaec7364.png the run test | debug test appearing when writing test is really annoying for me and can't figure out how to disable it?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ReactionMechanismGenerator/RMG-website/issues/147" TITLE : mathjax cdn shutting down BODY : https://www.mathjax.org/cdn-shutting-down/ not sure if we were using this cdn or not should check but even if not we might want to consider the alternatives mentioned in the announcement

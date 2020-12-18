@@ -1,0 +1,1 @@
+ URL : "https://github.com/eq-3/occu/issues/44" TITLE : rega pong support BODY : rega always logs an error no exists device object with address= central when receiving a pong.

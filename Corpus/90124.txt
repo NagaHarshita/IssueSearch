@@ -1,0 +1,1 @@
+ URL : "https://github.com/Necrobot-Private/CoreBot/issues/6" TITLE : run bot over localwebsite BODY : .netcore can capable to run website on consoleapp kestrel http server . so every configuration can be changeable on localbot website also localdb . without formgui implementation bot can be displaying on localwebsite. maybe we can configure botserver for various features

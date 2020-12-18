@@ -1,0 +1,1 @@
+ URL : "https://github.com/paulgclark/waveconverter/issues/6" TITLE : command line interface? BODY : i understand that this uses gnuradio blocks to process the data, in python files. how could you use the shell to automate the demod and decode stages given an iq file and protocol?

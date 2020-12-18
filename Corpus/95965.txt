@@ -1,0 +1,1 @@
+ URL : "https://github.com/qlicker/qlicker/issues/200" TITLE : don't save empty questions BODY : if you click new question twice, the first empty question gets saved. it should only get saved once there has been a first change.

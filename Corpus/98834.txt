@@ -1,0 +1,1 @@
+ URL : "https://github.com/unitystation/unitystation/issues/297" TITLE : lighting and fov version 2 BODY : build a lighting and fov system that does not destroy fps. @necromunger if tiles are needed to be reused let me know and i will implement object pool earlier then planned.

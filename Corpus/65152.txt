@@ -1,0 +1,1 @@
+ URL : "https://github.com/sztn/turtle/issues/1" TITLE : implement the pen modes BODY : the paint, erase, and reverse modes are parseable but the turtle methods that handle them do not currently do anything. these methods will be easier to implement once the canvas and palette methods are completed.

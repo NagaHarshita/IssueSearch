@@ -1,0 +1,1 @@
+ URL : "https://github.com/knod/read_plugin/issues/68" TITLE : some pages not being read BODY : some pages that could be read are not being read because of the way language detection is being handled. either hack another way to do this or edit the code of the detect-lang module itself to be lazy find after a certain amount of certainty after a certain amount of text .

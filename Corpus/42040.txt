@@ -1,0 +1,1 @@
+ URL : "https://github.com/parkr/auto-reply/issues/28" TITLE : add update-docs label BODY : not every pr needs documentation, but it would be nice to at least have such a label for pr lacking documentation update. similar to https://probot.github.io/apps/update-docs/

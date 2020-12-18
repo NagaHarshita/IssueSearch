@@ -1,0 +1,1 @@
+ URL : "https://github.com/ElucidataInc/ElMaven/issues/152" TITLE : look into mass slicing BODY : it happens all the time that the result of untargeted peak detection includes a bunch of peaks that overlap absolutely perfectly in m/z - rt space. i would like to try to understand why this happens and if it could be improved.

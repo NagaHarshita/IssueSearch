@@ -1,0 +1,1 @@
+ URL : "https://github.com/busbud/gitbook-plugin-link-targets/issues/2" TITLE : update links on compile BODY : overview currently this plugin updates link in the browser. i'd be much nicer if it did it on compile instead.

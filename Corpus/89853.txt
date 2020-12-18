@@ -1,0 +1,1 @@
+ URL : "https://github.com/jaagr/polybar/issues/424" TITLE : removing compiled polybar BODY : i've installed it via sudo make install provided by tutorial on readme file. how do i undo and remove polybar?

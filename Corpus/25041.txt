@@ -1,0 +1,1 @@
+ URL : "https://github.com/dotnet/windows-sdk-for-google-analytics/issues/23" TITLE : upgrade to vs 2017 BODY : projects are currently using vs 2015 we should upgrade to 2017.

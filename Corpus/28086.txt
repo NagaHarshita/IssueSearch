@@ -1,0 +1,1 @@
+ URL : "https://github.com/mganss/HtmlSanitizer/issues/120" TITLE : failing to sanitize BODY : failing to sanitize through online demo! ' >> > @gmail.com<isindex formaction=javascript:alert /xss/ type=submit>'--> ></script> > <img/id= confirm&lpar;1 /alt= / src= / onerror=eval id >' >

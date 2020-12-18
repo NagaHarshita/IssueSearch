@@ -1,0 +1,1 @@
+ URL : "https://github.com/cadwallion/temper/issues/2" TITLE : rubygems name issues BODY : hello cadwallion, thanks for the gem..hope to use it a lot soon. you might consider changing the name of the lib/.rb file or the gem itself. albeit bundle will avoid conflicts one might have their 'require' mixed up with the 'temper' gem.

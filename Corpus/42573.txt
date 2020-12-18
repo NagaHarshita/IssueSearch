@@ -1,0 +1,1 @@
+ URL : "https://github.com/HookyQR/VSCodeBeautify/issues/116" TITLE : breaks jsx formatting BODY : operating system +version : macos 10.12.3 vs code version : 1.10.1 beautify version : 0.8.9 before installing vscodebeautify the default beautifier handles react components mixed with jsx quite well. after, the jsx formatting breaks.

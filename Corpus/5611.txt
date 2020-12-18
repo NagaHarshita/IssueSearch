@@ -1,0 +1,1 @@
+ URL : "https://github.com/CoderDojoPotsdam/labyrinth/issues/2" TITLE : render a level BODY : when you render a level, read a csv file from 1 e.g. form the levels directory. then, display it be embedding svg files and placing them at the right locations. you can be sure: - each svg file has the same dimensions - each svg file has the same wall thickness

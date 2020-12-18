@@ -1,0 +1,1 @@
+ URL : "https://github.com/Gabriel439/Haskell-Dhall-Library/issues/104" TITLE : list/concatmap is missing BODY : it appears in dhall.tutorial . neither ipfs nor prelude have it.

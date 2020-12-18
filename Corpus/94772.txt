@@ -1,0 +1,1 @@
+ URL : "https://github.com/USGS-WiM/sparrow-greatlakes-js/issues/35" TITLE : clean up rendering display BODY : experiment with show/hide and how the renderer is applied to smooth out the render and re-render

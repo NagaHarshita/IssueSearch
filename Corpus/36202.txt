@@ -1,0 +1,1 @@
+ URL : "https://github.com/sinalpha/sinalpha.github.io/issues/224" TITLE : git folder too large BODY : how to shrink the .git folder http://stackoverflow.com/questions/5613345/how-to-shrink-the-git-folder shell git gc --aggressive --prune

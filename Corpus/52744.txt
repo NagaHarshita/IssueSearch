@@ -1,0 +1,1 @@
+ URL : "https://github.com/Stevenhr/Interventoria/issues/35" TITLE : crear visita a bodegas BODY : - se debe tener la vista para la creación de la mis visitas a bodegas similar a la vista de mis visitas a sedes . - la tabla para realizar dicha asignación de visita a bodega es la siguiente: vfn_tbl_visita_bodega. - al interventor le deben salir solo las bodegas asignadas.

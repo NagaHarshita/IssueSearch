@@ -1,0 +1,1 @@
+ URL : "https://github.com/skulumani/system_setup/issues/11" TITLE : modify paths for mac BODY : need logic in bashrc, .paths, bashprofile, zshrc to check for linux vs. mac use if uname darwin

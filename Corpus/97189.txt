@@ -1,0 +1,1 @@
+ URL : "https://github.com/kripken/emscripten/issues/5553" TITLE : fortran support with flang BODY : hi, there has been a recent effort to compile fortran with llvm target https://github.com/flang-compiler/flang . can we expect emscripten also support fortran in the future? thank you. best regards h.

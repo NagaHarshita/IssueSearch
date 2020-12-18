@@ -1,0 +1,1 @@
+ URL : "https://github.com/zumwald/oss-attribution-generator/issues/3" TITLE : error: 'name' of undefined BODY : when executing 'generate-attribution' i get this error: typeerror: cannot read property 'name' of undefined nothing is created. any idea?

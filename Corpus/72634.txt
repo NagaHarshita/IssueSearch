@@ -1,0 +1,1 @@
+ URL : "https://github.com/domaindrivendev/Swashbuckle.AspNetCore/issues/278" TITLE : can't using this package BODY : tried upgrade from 6.0.0-beta902 to this package. doing exactly what is documented in the get started page, no swagger.json file created, and can't run the swagger-ui. what additional data can i add, or how can i debug the problem? i'm working on asp.net core 1.1

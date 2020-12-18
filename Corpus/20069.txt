@@ -1,0 +1,1 @@
+ URL : "https://github.com/exoframejs/exoframe/issues/25" TITLE : better list output BODY : currently list command only shows service name and status. it'd be better to display it as a table, e.g. sh 1 deployment found on http://exoframe.dev project | domain | status test_html_project | http://html.dev | up 1 day

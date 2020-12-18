@@ -1,0 +1,2 @@
+ URL : "https://github.com/milesmcc/LibreNews-Server/issues/5" TITLE : minify api result BODY : i have made an api request an got an answer with 7.9k. i have removed unneeded spaces and reduced it that way to 5.9k.
+when removing linebreaks even more traffic can be saved. this is, when sync every 5 minutes, about 17mb per month.

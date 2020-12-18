@@ -1,0 +1,1 @@
+ URL : "https://github.com/aarongustafson/jekyll-webmention_io/issues/29" TITLE : build out the testing code BODY : - determine the best way to handle tests rendered liquid vs method - determine testing framework - write tests

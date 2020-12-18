@@ -1,0 +1,1 @@
+ URL : "https://github.com/golang/gddo/issues/518" TITLE : duplicate search results BODY : when i search for mongodb https://godoc.org/?q=mongodb , i see gopkg.in/mgo.v2 showing up twice in the result set, but with different import numbers. both results lead to the same docs.

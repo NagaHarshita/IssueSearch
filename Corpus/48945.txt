@@ -1,0 +1,1 @@
+ URL : "https://github.com/slow-is-fast/blog/issues/5" TITLE : stop postgresql query BODY : like mysql procedure: sql show processlist; kill {pid}; here is how to do so in postgresql sql select from pg_stat_activity where state = 'active'; select pg_cancel_backend <pid of the process> -- cancel the query select pg_terminate_backend <pid of the process> -- force quit

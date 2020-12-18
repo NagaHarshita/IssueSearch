@@ -1,0 +1,1 @@
+ URL : "https://github.com/mtusk/wpf-currency-textbox/issues/4" TITLE : string format n0 BODY : when string format is setted to n0 on backspace press zero add to value i.e. value = 1,200 + backspace pressed = 12,000

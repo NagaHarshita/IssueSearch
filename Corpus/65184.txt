@@ -1,0 +1,1 @@
+ URL : "https://github.com/Azure/azure-iot-remote-monitoring/issues/415" TITLE : import/export of device BODY : it would be useful to be able to bulk import or export devices from the management interface rather than visit the portal. this is especially helpful with an example application as it is necessary to completely refresh the simulated devices.

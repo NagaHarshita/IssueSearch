@@ -1,0 +1,1 @@
+ URL : "https://github.com/radiasoft/rszgoubi/issues/1" TITLE : build runner code BODY : the runner is bash script that will take path with zgoubi input file. it will create a results directory where all the data for the run will be stored. inputs: - input path -    directory to hold results -  command to execute to start the simulation.

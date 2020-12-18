@@ -1,0 +1,1 @@
+ URL : "https://github.com/atom-deps/zlog/issues/7" TITLE : binary log support BODY : provide binary log support in addition to json.

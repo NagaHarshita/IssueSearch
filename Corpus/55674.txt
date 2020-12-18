@@ -1,0 +1,1 @@
+ URL : "https://github.com/Woldt/WaterGo/issues/5" TITLE : lag jsonhandler klasse BODY : jsonhandleren skal brukes til å hente ut informasjonen fra jsonobjektene resten av applikasjonen trenger.

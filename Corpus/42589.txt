@@ -1,0 +1,1 @@
+ URL : "https://github.com/phpmyadmin/phpmyadmin/issues/13133" TITLE : broken links in setup BODY : steps to reproduce 1. open setup 2. add server 3. try to edit or delete it expected behaviour the broken link /setup/&page... is used. actual behaviour editing and deleting should work. server configuration phpmyadmin version: 4.7.0

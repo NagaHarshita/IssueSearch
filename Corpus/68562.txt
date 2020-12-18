@@ -1,0 +1,1 @@
+ URL : "https://github.com/xxks-kkk/shuati/issues/3" TITLE : scraper.py stop working BODY : the content with <div id= question-detail-app ></div> seems to be dynamically loaded by javascript and beautifulsoup cannot get the content anymore.

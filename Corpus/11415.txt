@@ -1,0 +1,1 @@
+ URL : "https://github.com/z0mt3c/hapi-swaggered/issues/166" TITLE : hapi v17 support BODY : hapi recently released a new version v17, see the release notes https://github.com/hapijs/hapi/issues/3658 which introduces many breaking changes. will this plugin support the new version?

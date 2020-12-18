@@ -1,0 +1,1 @@
+ URL : "https://github.com/ConSol/sakuli/issues/274" TITLE : json file output BODY : to be able to read out the sakuli test results from the admin ui, write out the resulsts as json to log.folder/result_<timestamp>.json . it be should be enabled by default

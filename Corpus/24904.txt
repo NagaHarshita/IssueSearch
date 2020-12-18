@@ -1,0 +1,1 @@
+ URL : "https://github.com/andreagrance/tpAndrea/issues/2" TITLE : un poco de lógica BODY : no está mal estructuralmente pero por ejemplo el total no tiene sentido que sea ingresado ya que sería el resultado de la multiplicacion del precio por la cantidad, por lo tanto te recomiendo que dejes el espacio en blanco o bien que pongas un input pero con la propiedad disable

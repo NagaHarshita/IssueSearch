@@ -1,0 +1,1 @@
+ URL : "https://github.com/Noctem/Monocle/issues/79" TITLE : webhooks not working? BODY : i can't get the webhooks to work. i've tried adding a slack and a discord webhook to the config. the console output from scan.py says it's sent alerts, but nothing showed up in the channels i set the webhooks up for.

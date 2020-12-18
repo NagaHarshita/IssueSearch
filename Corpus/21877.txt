@@ -1,0 +1,1 @@
+ URL : "https://github.com/City-of-Helsinki/digihel/issues/136" TITLE : hero image scaling BODY : use cropped image for mobile layout. use wagtail focal point feature to enhance cropping.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/exercism/csharp/issues/370" TITLE : normalize string topics BODY : at the moment, we use both the strings and text formatting topics. i was thinking that perhaps we should just use the strings topic, as the distinction is very small and might just confuse people.

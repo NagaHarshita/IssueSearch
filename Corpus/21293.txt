@@ -1,0 +1,1 @@
+ URL : "https://github.com/vuejs/vuejs.org/issues/782" TITLE : event handling bug BODY : :keyup.tab doesn't work. the other modifiers work fine except the tab

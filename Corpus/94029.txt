@@ -1,0 +1,1 @@
+ URL : "https://github.com/lvapeab/nmt-keras/issues/19" TITLE : be confused about ctx mean BODY : hi @lvapeab i am reading your code line by line, and now be some confused with the ctx mean. in here https://github.com/lvapeab/nmt-keras/blob/master/model_zoo.py l323 regards!

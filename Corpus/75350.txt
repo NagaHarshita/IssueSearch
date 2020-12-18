@@ -1,0 +1,1 @@
+ URL : "https://github.com/littlekernel/lk/issues/199" TITLE : halt == spinning forever BODY : when close using poweroff , it does not close the qemu socket

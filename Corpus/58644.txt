@@ -1,0 +1,1 @@
+ URL : "https://github.com/codenvy/codenvy/issues/2179" TITLE : ssh and openshift 1247 BODY : i need to clone an openshift repo in codenvy. i have seen in other issues that you need to open the ip of openshift.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/medic/medic-webapp/issues/3525" TITLE : wrap text in tasks list BODY : currently if a task has a long title, it gets truncated and … appended. instead this text should be wrapped.

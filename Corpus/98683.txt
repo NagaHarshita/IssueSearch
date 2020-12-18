@@ -1,0 +1,1 @@
+ URL : "https://github.com/pqrs-org/KE-complex_modifications/issues/241" TITLE : karabiner 11.3.10 vim mode BODY : i've imported vi style arrows to my complex modifications for a vim mode change fn + h/j/k/l to arrows but it doesn't work. does anyone know what extra steps i need to take in order to get it to work?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/elementary/installer/issues/196" TITLE : check for root permissions BODY : installation fails without root permissions so installer shouldn't proceed without them.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/AuroraWright/Luma3DS/issues/492" TITLE : rename the v8.0 release BODY : the current v8.0 release name luma3ds v8.0 somewhat breaks the luma updater. i guess a rename to just v8.0 would fix the more or less visual bug.

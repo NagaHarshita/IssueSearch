@@ -1,0 +1,1 @@
+ URL : "https://github.com/Kaizeras/ng2-redux-app/issues/4" TITLE : top level reducer BODY : https://github.com/kaizeras/ng2-redux-app/blob/step-2/src/app/common/reducers/index.ts l55 if we have many reducers in the top level reducer, then we will create a bunch of selector function for each state in the reducers?

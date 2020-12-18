@@ -1,0 +1,1 @@
+ URL : "https://github.com/kernox/Mastodon-Share-for-WordPress/issues/13" TITLE : url longues tronquées BODY : il semble que, si une url est trop longue, elle est tronquée par le plug-in. exemple ici: https://framapiaf.org/@alias/99256678487864816 lien originel: https://alias.erdorin.org/futur-nest-plus-quil-etait-conference-de-charles-stross/

@@ -1,0 +1,1 @@
+ URL : "https://github.com/livepeer/go-livepeer/issues/148" TITLE : new broadcast workflow BODY : we should separate out the broadcasting action from the onchian job creation. optionally, we can also allow users to transcoder the video.

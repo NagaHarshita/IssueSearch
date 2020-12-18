@@ -1,0 +1,1 @@
+ URL : "https://github.com/96boards/mezzanine-community/issues/6" TITLE : motor controller mezz BODY : a dual/quad h-bridge config supporting upto 2/4 bidirectional motors probably using 1 or 2 l298n or better yet vnh2sp30 for low profile. this would probably require some uni-directional logic level shifting.

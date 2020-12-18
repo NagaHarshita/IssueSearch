@@ -1,0 +1,1 @@
+ URL : "https://github.com/Jasius/Windows-theme/issues/168" TITLE : highlight gilded comments BODY : .comment.gilded, .res-commentboxes .commentarea .comment.gilded .comment.gilded>.entry .expand:hover { background-color: e2c737!important; text-decoration: none; }

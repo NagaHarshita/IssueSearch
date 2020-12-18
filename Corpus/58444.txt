@@ -1,0 +1,1 @@
+ URL : "https://github.com/smithna84/TeaCozy/issues/2" TITLE : simplify: unused class BODY : https://github.com/smithna84/teacozy/blob/master/index.html l64 you never use the locations class, so i don't think it's necessary to have here.

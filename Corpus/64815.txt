@@ -1,0 +1,1 @@
+ URL : "https://github.com/tomatau/type-to-reducer/issues/14" TITLE : how to combine actions? BODY : one thing that i like about the switch statement is the ability to stack actions. with this library, i don't see a good way to do it besides creating a bunch of helper functions. any thoughts on how to make it easier?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jccguimaraes/atom-project-viewer/issues/132" TITLE : can't remove project color BODY : 1. edit project -> enable color -> select color -> save 2. edit projest again -> disable color -> save the color for the project will be still, but shouldn't :

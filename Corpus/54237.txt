@@ -1,0 +1,1 @@
+ URL : "https://github.com/ofbeaton/db-ping/issues/8" TITLE : fix problems with pr 7 BODY : - introduces a php 7 only strings type hint making phpcs fail - changes the test running from phing to composer - unit test regex only works on unix, not windows or mac - travis-only variables used in test runner, won't be available on dev boxes

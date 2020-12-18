@@ -1,0 +1,1 @@
+ URL : "https://github.com/biglotteryfund/blf-alpha/issues/298" TITLE : store files securely BODY : some applications require an external filestore eg. for bank statements . we need a secure and reliable method of doing this, with timely deletion for data protection.

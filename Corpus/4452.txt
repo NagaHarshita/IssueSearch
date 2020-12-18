@@ -1,0 +1,1 @@
+ URL : "https://github.com/JProtyp/PGPI-P8_KilltheVentana/issues/1" TITLE : crea una bomba BODY : - la bomba tiene que tener una cuenta regresiva desde 10 - cuando explote debe mostrar un mensaje: boom!! - acto seguido debe crear una nueva bomba.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mit-plv/fiat-crypto/issues/205" TITLE : intel mulx intrinsics BODY : https://software.intel.com/sites/landingpage/intrinsicsguide/ text=_mulx_u64&expand=3755 we probably want to output these instead -- while compilers do recognize our shifts as mul, they output mul, not mulx, which significantly increases register pressure.

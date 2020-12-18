@@ -1,0 +1,1 @@
+ URL : "https://github.com/osu-cass/smarter-balanced-item-viewer/issues/52" TITLE : logs for cloudwatch BODY : have aws point to item viewer service log file to update cloudwatch log group

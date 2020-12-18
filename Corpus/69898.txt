@@ -1,0 +1,1 @@
+ URL : "https://github.com/ghosh/hyper-solarized-dark/issues/9" TITLE : uneven background color BODY : ! image https://cloud.githubusercontent.com/assets/7796074/22620557/68efec38-eadc-11e6-979e-79eac3ceeaa9.png the background behind text is different than the background without text. it actually blinks back to normal if i hover over the top tab bar.

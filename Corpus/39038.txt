@@ -1,0 +1,1 @@
+ URL : "https://github.com/jpe442/dodateweb/issues/25" TITLE : render loading wheel BODY : - wire up loading functionality through ui channel - use material ui icon - only render under certain conditions i.e. we don't want the loading icon coming on whenever we want to move an item because doing so calls the backend

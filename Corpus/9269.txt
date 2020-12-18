@@ -1,0 +1,1 @@
+ URL : "https://github.com/projeto-spider/planning-poker/issues/69" TITLE : update ci tests BODY : - x mix - credo - eslint

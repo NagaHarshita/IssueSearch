@@ -1,0 +1,1 @@
+ URL : "https://github.com/NSI-IT/AUG-DDMOBILE/issues/167" TITLE : po > search messages BODY : as a user i would like to get a dedicated search for messages module so that only messages db can be searched. - verify that a dedicated search will be given on messages listing screen. - verify that this search will look for data from the messages listing only.

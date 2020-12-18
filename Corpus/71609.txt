@@ -1,0 +1,1 @@
+ URL : "https://github.com/rpeshkov/vscode-go-tests-outline/issues/15" TITLE : add skipped test handler BODY : example: === run testcaseinsentitivegopath --- skip: testcaseinsentitivegopath 0.00s /users/rpeshkov/go/src/github.com/golang/dep/context_test.go:353: skip this test on non-windows

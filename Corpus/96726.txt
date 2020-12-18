@@ -1,0 +1,1 @@
+ URL : "https://github.com/vatesfr/xo-web/issues/1878" TITLE : file level restore for lvm BODY : we need to use losetup then lvscan then mount.

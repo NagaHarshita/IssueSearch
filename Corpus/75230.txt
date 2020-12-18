@@ -1,0 +1,1 @@
+ URL : "https://github.com/franglais125/no-title-bar/issues/30" TITLE : gnome 3.26 session crash BODY : when no-title-bar extension is active, session is crashing when closing a maximized window from the activities overview.

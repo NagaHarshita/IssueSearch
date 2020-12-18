@@ -1,0 +1,1 @@
+ URL : "https://github.com/bdmac/strong_password/issues/15" TITLE : bump version number? BODY : is there any reason we're stuck at pre 0.1.0 or 1.0.0? given there hasn't been much development here, it might be worth considering. my biggest hesitation for using this in production is that the version number doesn't suggest much stability. ;

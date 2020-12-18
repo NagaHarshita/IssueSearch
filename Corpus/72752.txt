@@ -1,0 +1,1 @@
+ URL : "https://github.com/girder/girder_worker/issues/136" TITLE : celery integration tests BODY : mocking is only going to get us so far. we are going to need tests that actually run celery tasks. particularly for more complex workflows.

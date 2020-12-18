@@ -1,0 +1,1 @@
+ URL : "https://github.com/RENCI-NRIG/ahab/issues/7" TITLE : create maven archetype BODY : in relation to 6, create a maven archetype https://maven.apache.org/guides/introduction/introduction-to-archetypes.html to help generate sample applications using ahab.

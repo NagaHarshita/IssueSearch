@@ -1,0 +1,1 @@
+ URL : "https://github.com/pyserial/pyserial/issues/256" TITLE : high / low state of rx? BODY : is it possible to get the high / low state of rx pin?

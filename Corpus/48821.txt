@@ -1,0 +1,1 @@
+ URL : "https://github.com/AmadeusITGroup/sonar-coverage-evolution/issues/7" TITLE : sonar 6.7 lts support BODY : hi, does it work with 6.7 lts sonar version? is there any instructions to run both sonar-stash analysys -dsonar.analysis.mode=issues and this plugin -dsonar.analysis.mode=preview? . or preview is mistake? regards, oleg

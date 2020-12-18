@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/TypeScript/issues/13254" TITLE : object.keys to use keyof BODY : typescript version: 2.1.1 code with the latest keyof feature in typescript, i'd expect object.keys to return them. in code: typescript interface objectconstructor { ... keys<t> o: t : array<keyof t>; }

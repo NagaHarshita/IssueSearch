@@ -1,0 +1,1 @@
+ URL : "https://github.com/lakshay365/itians/issues/1" TITLE : modify loader div BODY : loader pushes the content below itself. rather it should just cover the whole content and vanish as soon as the content is done loading. - gabru-md

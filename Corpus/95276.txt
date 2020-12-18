@@ -1,0 +1,1 @@
+ URL : "https://github.com/MISP/PyMISP/issues/158" TITLE : create mispsightings class BODY : content: { 'value': 'bla', 'source': 'blabla' 'type': 1, 'timestamp': 11111111 } everything optional except value . value can be an uuid to update the sighting of a specific entry

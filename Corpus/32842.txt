@@ -1,0 +1,1 @@
+ URL : "https://github.com/pief/python-netsnmpagent/issues/29" TITLE : wrong rfc in readme BODY : as far as i understand correct rfc for snmp agentx protocol is rfc2741 and not rfc2747 as mentioned in readme.

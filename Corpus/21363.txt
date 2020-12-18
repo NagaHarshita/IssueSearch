@@ -1,0 +1,1 @@
+ URL : "https://github.com/facebook/prepack/issues/537" TITLE : failed to optimize BODY : using https://prepack.io/repl.html, ran the code on https://cdnjs.cloudflare.com/ajax/libs/vue/2.3.2/vue.js , threw this error null or undefined typeerror at repl:541:23 at repl:9:16 at repl:6:2

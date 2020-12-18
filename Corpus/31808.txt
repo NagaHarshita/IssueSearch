@@ -1,0 +1,1 @@
+ URL : "https://github.com/c9/core/issues/417" TITLE : support this syntax BODY : right now this syntax is being flagged as invalid: export default from './mymodule';

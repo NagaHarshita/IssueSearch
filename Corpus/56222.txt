@@ -1,0 +1,1 @@
+ URL : "https://github.com/danpoltawski/moodle-php-apache/issues/8" TITLE : missing php extensions BODY : we're currently missing extensions for: memcache mongodb

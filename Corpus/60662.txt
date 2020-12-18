@@ -1,0 +1,1 @@
+ URL : "https://github.com/nical/half_edge/issues/3" TITLE : add an example program. BODY : adding an example program that generates some geometry using the half-edge data structure and renders it with gfx-rs? would be useful to give an overview of what the crate is about.

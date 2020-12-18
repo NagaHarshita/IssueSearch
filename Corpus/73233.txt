@@ -1,0 +1,1 @@
+ URL : "https://github.com/vvo/gifify/issues/96" TITLE : convert dependency issue BODY : i am running 10.12.6 and followed https://github.com/vvo/gifify requirements exactly. ➜ gifify movie.mp4 -o movie.gif could not find convert. is it installed? more info: https://github.com/vvo/gifify requirements

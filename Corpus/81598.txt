@@ -1,0 +1,1 @@
+ URL : "https://github.com/pllk/cphb/issues/27" TITLE : 0-indexing or 1-indexing? BODY : this is the eternal question. c++ uses 0-indexing, but 1-indexing is used in algorithm theory.

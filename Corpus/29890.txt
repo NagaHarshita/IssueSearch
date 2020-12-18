@@ -1,0 +1,1 @@
+ URL : "https://github.com/probot/probot/issues/126" TITLE : namespace env vars? BODY : would it make sense to namespace the vars? e.g.: probot_integration_id=foo probot_private_key=alsjkfhjkadsjhfs probot_webhook_secret=okajsujdfniusxdyafk

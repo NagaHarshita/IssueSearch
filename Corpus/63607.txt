@@ -1,0 +1,1 @@
+ URL : "https://github.com/NodeBB/NodeBB/issues/5336" TITLE : enhancement ban reasons BODY : add the ability to add a ban reason when banning a user. the admin/moderator doing the work can either select a predefined reason that can support translations, or the admin/moderator can write a custom reason. predefined reasons can be: - spam - abuse

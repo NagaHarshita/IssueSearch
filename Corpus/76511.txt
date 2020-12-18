@@ -1,0 +1,1 @@
+ URL : "https://github.com/kKn00077/UserDialog/issues/1" TITLE : layout 수정 및 추가 BODY : - mainactivity의 레이아웃 수정 : activity_main.xml - dialog 레이아웃 추가 : dialog.xml - toast 레이아웃 추가 : toast.xml

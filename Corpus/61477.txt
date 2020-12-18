@@ -1,0 +1,1 @@
+ URL : "https://github.com/contributte/di/issues/2" TITLE : autoload - improvements BODY : - drop interface autoload - support multiple items per extension

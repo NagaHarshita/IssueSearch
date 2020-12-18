@@ -1,0 +1,1 @@
+ URL : "https://github.com/stelligent/mu/issues/88" TITLE : custom tags on stacks BODY : allow specifying custom tags in mu.yml for environments, pipelines and services

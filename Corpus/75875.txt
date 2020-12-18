@@ -1,0 +1,1 @@
+ URL : "https://github.com/phenomnomnominal/ineeda/issues/4" TITLE : implement default tojson BODY : if i do json.stringify on proxy it fails: uncaught in promise : error: tojson is not implemented. please, add default implementation of tojson as: tojson { return { prop1, prop2, ... } }

@@ -1,0 +1,1 @@
+ URL : "https://github.com/BarcampPraha/prazskybarcamp.cz/issues/3" TITLE : create registration form BODY : speakers registration form - creates the user account and talk record with defined category - send a confirmation email to the user - talk is created as waiting for approval

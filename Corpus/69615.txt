@@ -1,0 +1,1 @@
+ URL : "https://github.com/SpriteV1/foundation-core/issues/5" TITLE : tidy up command classes BODY : just make the command classes look and work much more simple. hopefully this will help with adding features in later on.

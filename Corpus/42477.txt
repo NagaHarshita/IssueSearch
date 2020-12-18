@@ -1,0 +1,1 @@
+ URL : "https://github.com/LourensVeen/simple-cwl-xenon-service/issues/25" TITLE : better error handling BODY : goal: no exceptions come out no matter what you put in. except the ones produced by cwltool in the output, those are not my responsibility.

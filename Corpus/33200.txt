@@ -1,0 +1,1 @@
+ URL : "https://github.com/FertigLab/CoGAPS/issues/3" TITLE : add basic benchmarks BODY : currently there are no performance benchmarks. it would be helpful for all development to have some top-level benchmarks we can use to track how our changes are effecting performance. more detailed benchmarks can be done on a case-by-case basis.

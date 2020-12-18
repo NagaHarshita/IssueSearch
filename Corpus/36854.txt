@@ -1,0 +1,1 @@
+ URL : "https://github.com/Te-k/pygreynoise/issues/3" TITLE : increase result size BODY : from @andrew-morris : there's a hidden feature that allows you to include an api key post param to increase the amount of results you get from 500 to 5,000. i'll add a config file.

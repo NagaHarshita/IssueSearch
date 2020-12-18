@@ -1,0 +1,1 @@
+ URL : "https://github.com/RestyaPlatform/board/issues/1308" TITLE : chat ui needs improvement BODY : current behavior currently chat ui is confusing as it displays only the status message in initial tab. expected behavior better to combine both tab and remove tabs. if tab needs to be displayed, it can be rooms/boards -- instead of just boards

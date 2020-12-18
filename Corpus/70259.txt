@@ -1,0 +1,1 @@
+ URL : "https://github.com/CCI-Tools/cate-desktop/issues/31" TITLE : user defined geometries BODY : in addition to placemarks, cate should provide means to let users create and manage draw line-strings, rectangles, and polygons. https://github.com/leforthomas/cesium-drawhelper users should be able to reuse these geometries whenever an operation requires a geometry input.

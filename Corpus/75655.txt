@@ -1,0 +1,1 @@
+ URL : "https://github.com/dpolivy/hbs-utils/issues/8" TITLE : how to use with import ? BODY : hi there, i love hbs-utils and it's an integral part of my workflow and boilerplates. i've recently started using import but i am unsure how to convert const hbsutils = require hbs-utils hbs ; to something i can import. any ideas?

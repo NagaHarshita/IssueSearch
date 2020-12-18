@@ -1,0 +1,1 @@
+ URL : "https://github.com/lima1/PureCN/issues/6" TITLE : full support for gatk4 BODY : - parsing coverage - parsing log-ratios - mutect2 tumor-only - mutect2 tumor/normal - callablebases equivalent

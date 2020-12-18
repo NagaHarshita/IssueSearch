@@ -1,0 +1,1 @@
+ URL : "https://github.com/elastic-coders/serverless-webpack/issues/192" TITLE : es6 in webpack config BODY : hi and thanks for the module ! it seem that using es6 in webpack's config file by naming it webpack.config.babel.js along with a .babelrc file http://www.romanfilippov.com/webpack-config-babel-js/ does not work with this plugin. am i missing something

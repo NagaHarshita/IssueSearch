@@ -1,0 +1,1 @@
+ URL : "https://github.com/dmitrizzle/Analog.Cafe/issues/434" TITLE : browser caching headers BODY : - fonts are to be cached for as long as possible - images are to be cached for as long as possible new images would have new names - bundle is to be cached for as long as possible

@@ -1,0 +1,1 @@
+ URL : "https://github.com/dmd2588/idb/issues/99" TITLE : reduce home page size BODY : the home page is 70mb! due to 3 20mb gifs that load. this provides a very bad user experience because it grinds the browser to a halt while it is loading 70mb worth of gifs

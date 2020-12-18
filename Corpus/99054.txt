@@ -1,0 +1,1 @@
+ URL : "https://github.com/ibericode/mailchimp-for-wordpress/issues/482" TITLE : make all errors searchable BODY : from https://secure.helpscout.net/conversation/439038313/11728/?folderid=253120 i should look at making all error messages returned by the plugin searchable. or maybe even make them clickable as well or output kb links with the error?

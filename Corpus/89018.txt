@@ -1,0 +1,1 @@
+ URL : "https://github.com/tsbischof/photon_correlation/issues/3" TITLE : photon_gn -h is incorrect BODY : -y, --pulse: the pulse limits for an axis, following the format: lower, number of bins, upper with no spaces, and the extrema in picoseconds. extrema are not in units of picoseconds but number of pulses

@@ -1,0 +1,1 @@
+ URL : "https://github.com/CalderaWP/Caldera-Forms/issues/1123" TITLE : bug version 1.4.7 BODY : hello, after last update version 1.4.7, i found 2 bugs : - confirmation message doesn't appear anymore just a small loading icon that disappear quickly . - the form is sent twice. please fix this bugs.

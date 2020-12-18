@@ -1,0 +1,1 @@
+ URL : "https://github.com/raspberrypi/linux/issues/1942" TITLE : problem with bootcode.bin BODY : my pi 1 model b+ won't boot blank screen, no disk activity with the latest commit e5ca26f bootcode.bin.

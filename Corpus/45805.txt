@@ -1,0 +1,1 @@
+ URL : "https://github.com/Travix-International/frint/issues/184" TITLE : introduce app.getname BODY : app names are very frequently used, and an integral part of inter-app communication. instead of doing: js app.getoption 'name' ; it's worth giving it a dedicated method: js app.getname ; since name in options is a required key.

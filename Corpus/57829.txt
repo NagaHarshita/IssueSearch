@@ -1,0 +1,1 @@
+ URL : "https://github.com/CherryMan/CherryEngine/issues/3" TITLE : remove pimpl for state BODY : there is no reason for this to exist.

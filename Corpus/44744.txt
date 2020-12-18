@@ -1,0 +1,1 @@
+ URL : "https://github.com/GSA/api-documentation-template/issues/43" TITLE : fix logo on home page BODY : the gsa logo is returning 404. it may need to be added to the repo instead of an outside reference.

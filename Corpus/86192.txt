@@ -1,0 +1,1 @@
+ URL : "https://github.com/doesdev/scrud/issues/2" TITLE : handle preflight requests BODY : need to take care not to simply 404 on preflight requests.

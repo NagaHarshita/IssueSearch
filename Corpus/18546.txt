@@ -1,0 +1,1 @@
+ URL : "https://github.com/VCVRack/Rack/issues/219" TITLE : tidal not working BODY : os if applicable : fedora 26 version or dev if compiling from source : dev, current master tidal should begin cycling as soon as it's instantiated. currently, with a fresh build, it simply does nothing. no errors are printed to stdout.

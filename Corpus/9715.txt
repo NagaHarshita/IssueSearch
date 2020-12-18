@@ -1,0 +1,1 @@
+ URL : "https://github.com/F5Networks/f5-common-python/issues/1119" TITLE : add apm endpoint BODY : as indicated in https://github.com/f5networks/f5-ansible/issues/131 , there is some interest in apm modules, we will start by implementing in sdk with the 2 features: apm policy apm sso

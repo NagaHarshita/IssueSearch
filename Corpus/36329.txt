@@ -1,0 +1,1 @@
+ URL : "https://github.com/jbaysolutions/vue-grid-layout/issues/16" TITLE : griditem drag handle BODY : in the react grid layout there is the option to create a drag handle in the item, such as a span within the griditem element. is there such a feature here?

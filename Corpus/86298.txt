@@ -1,0 +1,1 @@
+ URL : "https://github.com/NativeScript/NativeScript/issues/3534" TITLE : hold and release gestures BODY : press&hold and release, are not being exposed for the ui elements. any suggestion on how to implement these with current gestures ? thanks

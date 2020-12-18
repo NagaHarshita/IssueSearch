@@ -1,0 +1,1 @@
+ URL : "https://github.com/nicksenger/graphql-arcgis/issues/11" TITLE : top level queries BODY : queries for several aspects of the sharing api still need to be exposed at the top level with args groupitems, useritems, itemcomments, portalcollaborations, portalroles, collaborationworkspaces, collaborationparticipants, collaborationinvitations, etc

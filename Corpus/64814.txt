@@ -1,0 +1,1 @@
+ URL : "https://github.com/socketio/socket.io/issues/3042" TITLE : how to clear the room ? BODY : like io.to chat .clear , all socket in room chat will leave

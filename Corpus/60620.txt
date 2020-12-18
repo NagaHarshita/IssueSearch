@@ -1,0 +1,1 @@
+ URL : "https://github.com/OperationCode/operationcode_infra/issues/26" TITLE : add a heapster manifest BODY : adding heapster will allow horizontal pod autoscaling, and support kubectl top commands. docs: https://github.com/kubernetes/heapster

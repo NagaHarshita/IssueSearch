@@ -1,0 +1,7 @@
+ URL : "https://github.com/OCA/donation/issues/28" TITLE : migration to version 11.0 BODY : todo https://github.com/oca/maintainer-tools/wiki/migration-to-version-11.0 modules to migrate - donation
+- donation_bank_statement
+- donation_base
+- donation_direct_debit
+- donation_recurring
+- donation_sale
+- donation_thanks

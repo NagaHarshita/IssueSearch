@@ -1,0 +1,1 @@
+ URL : "https://github.com/openbmc/openbmc-test-automation/issues/680" TITLE : fix errorlog test BODY : - x no keyword with name 'should be true ${time_stamp2} > ${time_stamp1}' found. - x use utils delete errorlog

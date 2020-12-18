@@ -1,0 +1,1 @@
+ URL : "https://github.com/broesamle/clip_8/issues/118" TITLE : implement learner feedback BODY : + clip_8 engine needs to provide info about executed instructions, moved objects + callback on error and termination + a script on the tutorial page evaluates the exec info and gives feedback to the learner.

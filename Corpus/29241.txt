@@ -1,0 +1,1 @@
+ URL : "https://github.com/hazelcast/hazelcast-simulator/issues/1312" TITLE : kill -9 not locally BODY : if in local mode; don't call kill -9.

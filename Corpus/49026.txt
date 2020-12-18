@@ -1,0 +1,1 @@
+ URL : "https://github.com/QKaiser/cottontail/issues/4" TITLE : support amqp over ssl BODY : see https://robomq.readthedocs.io/en/latest/ssl/ for amqps connections with pika.

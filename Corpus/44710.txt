@@ -1,0 +1,1 @@
+ URL : "https://github.com/CCAFS/MARLO/issues/839" TITLE : fix database problems BODY : yesterday we had to restart the database and the server as marlo was loading very slow. it seems there is a problem with the number of connections that are waiting. in addition, each time that a report is produced in the summaries section, the whole system get lagged.

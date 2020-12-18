@@ -1,0 +1,1 @@
+ URL : "https://github.com/HackCU/sheet2sms/issues/2" TITLE : add cache to gsheets BODY : retrieving and parsing gsheets takes a while. it may be a good idea to cache parsed results in django cache.

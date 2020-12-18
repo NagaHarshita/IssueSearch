@@ -1,0 +1,1 @@
+ URL : "https://github.com/markaduol/UROP/issues/1" TITLE : binaries on repository BODY : please remove from git all binaries and compile-time artifacts. this clutters the repository and makes configuration/compilation harder on other machines.

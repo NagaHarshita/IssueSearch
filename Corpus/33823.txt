@@ -1,0 +1,17 @@
+ URL : "https://github.com/Zimmi48/bugzilla-test/issues/4226" TITLE : assumption not found BODY : note: the issue was created automatically with bugzilla2github tool bugzilla bug id: 4226
+date: 2015-05-07 21:36:32 +0200
+from: @_vzaliva
+to: cc: @_aspiwack, @_ppedrot last updated: 2016-02-17 19:45:59 +0100 bugzilla comment id: 10333
+date: 2015-05-07 21:36:32 +0200
+from: @_vzaliva 3 subgoals, subgoal 1 id 1159 a : type ae : equiv a az : zero a a1 : one a aplus : plus a amult : mult a aneg : negate a ale : le a ato : totalorder ale aabs : abs a ar : ring a asro : semiringorder ale a, b : a e : a = b h : a ≤ 0 ============================ ring a applying 'assumption' gives error 'error: no such assumption.' workaround: 'apply ar' works. bugzilla comment id: 10346
+date: 2015-05-10 19:15:51 +0200
+from: @_ppedrot do you have a reproducible test-case? bugzilla comment id: 10349
+date: 2015-05-11 00:21:51 +0200
+from: @_vzaliva created attachment 585
+script demonstrating the problem. > attached file: test1.v application/octet-stream, 1784 bytes > description: script demonstrating the problem. bugzilla comment id: 10350
+date: 2015-05-11 00:22:05 +0200
+from: @_vzaliva i temporary switched back to 8.4 branch, so i could not test this example with most recent svn, but i am attaching a code which is couple days old. in last lemma 'apply ar' was 'assumption' under 8.4 as described in the original report. bugzilla comment id: 10461
+date: 2015-06-16 11:58:22 +0200
+from: @_aspiwack i'm guessing it's a case of implicit arguments in ar being convertible but not syntactically equal to the implicit arguments in the conclusion. and therefore not a bug. can you confirm? bugzilla comment id: 11901
+date: 2016-02-17 19:45:59 +0100
+from: @_ppedrot in absence of further answer, and following arnaud's comment, i close this bug.

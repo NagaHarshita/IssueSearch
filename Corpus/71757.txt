@@ -1,0 +1,1 @@
+ URL : "https://github.com/PhyloStar/PyBayes/issues/25" TITLE : adjacency list to newick BODY : fix the adjacency list to newick for writing to files.

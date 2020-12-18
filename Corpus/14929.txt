@@ -1,0 +1,1 @@
+ URL : "https://github.com/SwagArch/swagarch-build/issues/33" TITLE : ckbcomp and pamac BODY : hi mike; there is a new build of ckbcomp 1.162 i think the new pamac does not require yaourt/package-query both can be removed from swagarch repo

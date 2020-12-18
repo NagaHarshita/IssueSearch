@@ -1,0 +1,1 @@
+ URL : "https://github.com/zoe-1/reactstartup/issues/1" TITLE : lab detected memory leak BODY : leaks corejs global var fbjs dependency solved issue with ignore flag: -i '__core-js_shared__' benefit of not using lab is you can just pretend leaks d/n exist. test : lab -a code -t node_modules/lab-babel -t 100 -l -v -i '__core-js_shared__' ,

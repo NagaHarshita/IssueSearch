@@ -1,0 +1,1 @@
+ URL : "https://github.com/GPlay97/EVNotify/issues/32" TITLE : load icons locally BODY : add support to load icons over local ressources instead of fetching them over the internet - no connection prevents evnotify currently to fire the deviceready event which causes to the behavior that bluetooth connection will not be established until all resources and icons are loaded.

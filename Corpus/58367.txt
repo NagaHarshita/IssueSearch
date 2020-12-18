@@ -1,0 +1,1 @@
+ URL : "https://github.com/Jasonette/JASONETTE-Android/issues/97" TITLE : share to jasonette app BODY : i would like to be able to share a pdf document for example received by email to a jasonette app. is that possible? so far i just found the possibility to share things from a jasonette app using the $util.share action but i haven't found a solution for the other way around.

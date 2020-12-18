@@ -1,0 +1,1 @@
+ URL : "https://github.com/darryd/vanslam_live/issues/2" TITLE : red lights staying on BODY : sometimes when entering scores during times of poor internet connectivity, the lights will remain red even after the request to the server has been successful.

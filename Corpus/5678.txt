@@ -1,0 +1,1 @@
+ URL : "https://github.com/yuzoolcode/pulsecms-tracking/issues/8" TITLE : search tidy up BODY : 4. search, finds the search text, writes unwanted code data. on both servers i have a phpinfo file in the root directory. on ivarosoft.wz.sk/mistake/ are broken text files,   blog.txt, contact.txt, social.txt and blog-search.png http://ivarosoft.wz.sk/blog

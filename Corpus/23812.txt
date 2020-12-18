@@ -1,0 +1,1 @@
+ URL : "https://github.com/pingcap/tidb/issues/4779" TITLE : remove old planner BODY : to remove old planner, we need remove the local store. to remove the local store, we need to resolve the dependency between tidb and store/tikv pkg. to resolve this dependency, we need put gc_worker into an individual package. excellent !

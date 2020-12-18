@@ -1,0 +1,1 @@
+ URL : "https://github.com/jersey/jersey/issues/3641" TITLE : jersey 2.26-b09 user guide BODY : the chapter 1.1. 1,.2 , 1.3 instructions lead to an error. the error iemerges when you try the run the demo with > git jersey:run maven alerts that a main class is missing from the configuration.

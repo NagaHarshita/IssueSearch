@@ -1,0 +1,1 @@
+ URL : "https://github.com/standard-things/esm/issues/135" TITLE : async generators bug BODY : scripts/node9-test.js async function generator { yield 42; } node --harmony scripts/node9-test.js node --harmony -r @std/esm scripts/node9-test.js async function generator { ^ syntaxerror: unexpected token at startup bootstrap_node.js:191:16 at bootstrap_node.js:613:3

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Oakland-University/translations/issues/7" TITLE : switch log dir BODY : currently uses $tomcat_home, it should be $catalina_home

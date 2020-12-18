@@ -1,0 +1,1 @@
+ URL : "https://github.com/yesodweb/yesod/issues/1362" TITLE : missing '+' in post param BODY : when running a test suite, i found that the text read from post param lost all '+', but if i just send a useless file in the same request in the test suite, none of '+' was losted.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/vrom911/hs-init/issues/16" TITLE : improve installation file BODY : if ~/.local/bin doesn't exist then add it.

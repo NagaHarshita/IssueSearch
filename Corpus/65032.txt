@@ -1,0 +1,1 @@
+ URL : "https://github.com/technation-sama/intranet/issues/28" TITLE : image handling for post BODY : we need to handle the image in the post. either using paperclip gem or carrierwave. right now its just a string

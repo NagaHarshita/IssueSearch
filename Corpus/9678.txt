@@ -1,0 +1,1 @@
+ URL : "https://github.com/tristan-ohlson/pyadmin/issues/2" TITLE : add .ban command BODY : .ban <user> <channel> <duration> . repeatedly kicks user from channel for given duration.

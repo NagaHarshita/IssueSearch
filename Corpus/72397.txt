@@ -1,0 +1,1 @@
+ URL : "https://github.com/ForgeEssentials/ForgeEssentials/issues/2291" TITLE : bug with a mode voxelmap BODY : if you do not install on the forgeessentials server, then nobody can use the teleport through the map, and if you set forgeessentials and voxelmap, then any player can be teleported using a card, i would like to fix this bug as can be fixed?

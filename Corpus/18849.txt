@@ -1,0 +1,1 @@
+ URL : "https://github.com/janpio/ionic-epubjs/issues/33" TITLE : use book metadata BODY : book.getmetadata .then function meta {   document.title = meta.booktitle+ – +meta.creator;  } ; from view-source:http://futurepress.github.io/epub.js/examples/promises.html where could we use this metadata?

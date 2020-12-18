@@ -1,0 +1,1 @@
+ URL : "https://github.com/coreos/etcdlabs/issues/184" TITLE : deploy with docker BODY : just contain all the frontend dependencies for easier deployment

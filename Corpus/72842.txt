@@ -1,0 +1,1 @@
+ URL : "https://github.com/w3c/input-events/issues/73" TITLE : character is not defined BODY : from addison phillips https://w3c.github.io/input-events/ interface-inputevent-attributes in section 5.1.2 there are multiple places where the term character is used without definition. it would be better to clearly define this to mean a unicode code point.

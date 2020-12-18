@@ -1,0 +1,1 @@
+ URL : "https://github.com/servo/webrender/issues/994" TITLE : tiled image updates BODY : tiled images don't support updates as in renderapi::update_image yet. this should not be difficult to implement probably just a little bit of code to write in resourcecache::finalize_image_request .

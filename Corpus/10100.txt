@@ -1,0 +1,1 @@
+ URL : "https://github.com/lelandjansen/fatigue/issues/105" TITLE : app refresh time BODY : the history table time does not refresh at the beginning of every day. therefore, yesterday will still appear as today .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/lipis/bootstrap-social/issues/166" TITLE : fontawesome 5 support BODY : icons from fontawesome 5 are not properly centered removing top: 0; bottom: 0 from .btn-social>:first-child fixed it for me with fa5. have not tested it with fa4.

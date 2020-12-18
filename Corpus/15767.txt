@@ -1,0 +1,1 @@
+ URL : "https://github.com/romanresh/vscode-testcafe/issues/10" TITLE : fix output colors BODY : as i see in animation in the readme, we output the testcafe results without colors. i think we should fix it.

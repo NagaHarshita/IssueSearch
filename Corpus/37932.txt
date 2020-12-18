@@ -1,0 +1,1 @@
+ URL : "https://github.com/bartavelle/language-puppet/issues/192" TITLE : new important change BODY : commit 91e4bc2622784b4ac8ffe56e7274c7c6d3156852 changes the behaviour of failed lookups in hashes. it returns pundef instead of the string undef . can anyone check if it breaks stuff for him?

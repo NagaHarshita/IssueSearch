@@ -1,0 +1,1 @@
+ URL : "https://github.com/rohmanhm/new-egghead-downloader/issues/9" TITLE : should we fix the app? BODY : hello, @rohmanhm. seems that _ehd_ is broken, cause the egghead has changed the pages structure. i can make a pull request fixing the issue, but the problem is that it will be possible to download _all_ videos, even if you don't have a pro account. is it ok?

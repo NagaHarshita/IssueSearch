@@ -1,0 +1,1 @@
+ URL : "https://github.com/mistershad0w/Kubista-Momenta/issues/5" TITLE : camera post processing BODY : use: https://github.com/unity-technologies/postprocessing/wiki - antialiasing - ambient occlusion - screen space reflection - depth of field - motion blur - eye adadaption - bloom - color grading - user lut - chromatic abberation - grain - vignette

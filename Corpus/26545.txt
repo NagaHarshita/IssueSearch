@@ -1,0 +1,1 @@
+ URL : "https://github.com/wc-catalogue/blaze-elements/issues/115" TITLE : bl-input api issues BODY : few things that we found during pr of 114 - bl-input needs to support only change event so we have consistent api - so oninput needs to be stoped so user cannot use unsupported oninput event api

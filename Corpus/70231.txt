@@ -1,0 +1,1 @@
+ URL : "https://github.com/gitomator/gitomator/issues/16" TITLE : use ssh for clone-repos BODY : i have an ssh key set up for github, and i also have a .gitomator file with an api key. but gitomator-clone-repos uses https, which means i have to enter my password 100 times. is there a way to use ssh, preferably using the github ssh key i already installed?

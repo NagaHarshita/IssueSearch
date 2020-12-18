@@ -1,0 +1,1 @@
+ URL : "https://github.com/dyindude/squashfs-live-build/issues/3" TITLE : isohybrid for gpt/mbr BODY : - example here: https://help.ubuntu.com/community/installcdcustomization building_the_iso_image - better example here: https://unix.stackexchange.com/questions/312789/making-a-uefi-bootable-image-with-mkisofs-and-eltorito-boot-efiboot-img

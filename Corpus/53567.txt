@@ -1,0 +1,1 @@
+ URL : "https://github.com/chitezh/react-native-svg-image/issues/3" TITLE : eliminate extra margin BODY : there is an extra margin when using svgimage compared to using image . the following patch should fix the issue. @@ -37,6 +37,7 @@ max-height: 100%; margin: 0 auto; } + body { margin: 0; } </style> </head> <body>

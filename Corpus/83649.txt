@@ -1,0 +1,1 @@
+ URL : "https://github.com/Lunderberg/embeddable-server/issues/2" TITLE : check for asio_standalone BODY : right now, i assume that asio_standalone is being used, with std::error_code and asio in the root namespace. i should instead check for its definition, and use boost::error_code and boost::asio if it is not present.

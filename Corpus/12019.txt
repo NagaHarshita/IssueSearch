@@ -1,0 +1,1 @@
+ URL : "https://github.com/google/draco/issues/29" TITLE : mesh stream read BODY : https://github.com/google/draco/blob/master/io/mesh_io.h line 59 - shouldn't the read occur at the initial tellg position since we are using that position to determine read size?

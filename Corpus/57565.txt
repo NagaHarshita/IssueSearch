@@ -1,0 +1,4 @@
+ URL : "https://github.com/udacity/dlnd-issue-reports/issues/353" TITLE : quiz for or perceptron BODY : the answer for quiz on or perceptron is wrong.
+answer should be increase weights and increase bias.
+to test this out, i used the example from and perceptron which had weights weight1 = 1.0 and weight2 = 0.2 and bias = -1.2 since i needed to convert and to an or, i started altering the weights. the combination that worked for me of course you need to set the correct_outputs to false, true, true, true combination 1: weight1=6.0, weight2=6.2, bias=-1.2
+combination 2: weight1=1.0, weight2=0.2, bias=-0.2 in other words, in combination 1, you ended up increasing weights and in combination 2, you ended up keeping weights the same and increased bias slightly.

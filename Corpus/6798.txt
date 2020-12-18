@@ -1,0 +1,1 @@
+ URL : "https://github.com/learn-co-curriculum/welcome-to-cpb-video/issues/1" TITLE : can't fork this BODY : it's giving a nameerror. learn open ttt-3-display_board-example-cb-gh-000 nameerror: undefined local variable or method ttt' for main:object from irb :12 from /usr/local/rvm/rubies/ruby-2.3.1/bin/irb:11:in <main>'

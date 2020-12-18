@@ -1,0 +1,1 @@
+ URL : "https://github.com/rails/jbuilder/issues/388" TITLE : rails 5.1 beta BODY : it seems that the current gemspec doesn't allow for trying out the new rails 5.1 beta in apps that use this gem with bundler, if i'm not mistaken. might the restriction be loosened? or, do you have an alternative solution?

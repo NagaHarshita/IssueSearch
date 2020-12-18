@@ -1,0 +1,1 @@
+ URL : "https://github.com/OraOpenSource/apex-frontend-boost/issues/189" TITLE : configurator is broken BODY : need to update configurator dependency. current build is broken because it doesn't parse json correctly.

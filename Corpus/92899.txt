@@ -1,0 +1,1 @@
+ URL : "https://github.com/GBTAmmoniaSurvey/GAS/issues/156" TITLE : abstract out gridding code BODY : i've been developing a stand-alone installable version of the gbt pipeline here https://github.com/low-sky/gbtpipe/ including the definitive gridding code. the gas gridding code should be abstracted out and we should call the gbtpipe as a submodule.

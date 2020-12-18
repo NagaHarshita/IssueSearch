@@ -1,0 +1,1 @@
+ URL : "https://github.com/haskell-foundation/foundation/issues/348" TITLE : add semigroup instances BODY : at least for string, on newer base versions. probably for arrays too.

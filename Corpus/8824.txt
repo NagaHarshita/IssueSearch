@@ -1,0 +1,1 @@
+ URL : "https://github.com/ponyii/The-favorite-pocket-world-of-Nebuchadnezzar-III-The-Rhino-in-exile/issues/1" TITLE : saving the game BODY : create functions to stringify and parse objects: 1. world_map 1.1. each cell and worlds_end in it 1.1.1. each unit it contains 1.1.2 each sea 1.1.3. each forest 2. each player also saving menu should be added

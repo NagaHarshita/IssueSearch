@@ -1,0 +1,1 @@
+ URL : "https://github.com/domrout/python-twitter-wrapper/issues/7" TITLE : python 3 testing needed BODY : i need to check that unit tests pass on python 3, and if not, upgrade them.

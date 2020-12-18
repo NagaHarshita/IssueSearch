@@ -1,0 +1,1 @@
+ URL : "https://github.com/zaproxy/zaproxy/issues/4124" TITLE : pretty-printing json body BODY : it's great that json responses are auto-detected and syntax highlighted. i wish it could be taken one step further and pretty-printed with newlines and indentation; the output of 'jq .' would be suitable.

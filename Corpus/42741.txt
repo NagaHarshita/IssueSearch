@@ -1,0 +1,1 @@
+ URL : "https://github.com/shanev/mbot/issues/2" TITLE : cache cmc api results BODY : cmc api is often really slow, and frequently returns error code 420.

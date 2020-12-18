@@ -1,0 +1,1 @@
+ URL : "https://github.com/ThoughtWorksInc/DeepDarkFantasy/issues/179" TITLE : abs function has a error BODY : instance dbi eval where z = eval m.fst s eval a = eval $ a . m.snd abs eval f = eval $ \a h -> f h, a the correct abs function is defined in follow: abs eval f = eval $ \a h -> f a, h

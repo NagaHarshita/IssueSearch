@@ -1,0 +1,1 @@
+ URL : "https://github.com/crossbario/iotcookbook/issues/16" TITLE : http call/publish via cbor BODY : this depends on https://github.com/crossbario/crossbar/issues/1120 see also: https://github.com/crossbario/autobahn-c/issues/15

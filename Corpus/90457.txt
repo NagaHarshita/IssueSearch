@@ -1,0 +1,1 @@
+ URL : "https://github.com/infinum/dox/issues/13" TITLE : show all response headers BODY : eventually add a config option to ignore certain headers a blacklist , but i can live without having that option for now.

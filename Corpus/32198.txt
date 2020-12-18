@@ -1,0 +1,1 @@
+ URL : "https://github.com/eclipse/che/issues/5557" TITLE : ugly text rendering BODY : this is a rare bug i encountered while i was testing my dockerfile os and version: codenvy 5.14.0 on codenvy.io

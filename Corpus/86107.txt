@@ -1,0 +1,1 @@
+ URL : "https://github.com/zeit/next.js/issues/1865" TITLE : google pagespeed insights BODY : we get an error for our nextjs app but only when run in pagespeed: _toconsumablearray is not a function in commons.js

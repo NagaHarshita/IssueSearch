@@ -1,0 +1,4 @@
+ URL : "https://github.com/IntelligentTrading/telegram-bot/issues/20" TITLE : user current settings BODY : description the user is able to get its own settings with the /settings command possible solution - use a dedicated button to get the message
+- add it to the initial description message
+- add a check icon to the current option in the submenus to do - api to get the user profile
+- menu / messages

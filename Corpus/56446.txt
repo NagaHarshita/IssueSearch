@@ -1,0 +1,1 @@
+ URL : "https://github.com/anti0/Discord-YouTube-Feed-BOT/issues/1" TITLE : need to include pyyaml BODY : the bot won't start without pyyaml. install with python -m pip install pyyaml

@@ -1,0 +1,2 @@
+ URL : "https://github.com/NOAA-PMEL/Ferret/issues/301" TITLE : add -server startup mode BODY : reported by ansley b manke on 8 aug 2003 15:45 utc add a new command line option such as >ferret -script scriptname.jnl probably requires changes to fermain_c.c and maybe
+ferret_dispatch_c.c to dummy up a ferret go command using the argument to the -script qualifier. in get_command.f when the input command file is finished we'd want to terminate ferret. migrated-from: http://dunkel.pmel.noaa.gov/trac/ferret/ticket/590

@@ -1,0 +1,1 @@
+ URL : "https://github.com/yambo-code/yambo-aiida/issues/50" TITLE : please make a release BODY : hi guys, we've already added the aiida plugins of fleur, siesta, qe and cp2k in the marvel vm. could you please make a release of aiida-yambo so that we can add it as well? as a starting point, a release on github would be sufficient. bonus points for a release on pypi :-

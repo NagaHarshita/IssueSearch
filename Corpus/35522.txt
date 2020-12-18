@@ -1,0 +1,1 @@
+ URL : "https://github.com/Qinka/Glob/issues/10" TITLE : entrypoint.py failed BODY : the function in the entrypoint.py to eval the environment variable in the environment variable do not work. entrypoint.py 文件中将环境变量内的环境变量替换成对应的内容的功能，并不有效

@@ -1,0 +1,1 @@
+ URL : "https://github.com/developit/babel-preset-preact/issues/3" TITLE : push new version to npm BODY : hi! i noticed the published version does not include the added dependencies. could this be pushed to npm? thanks!

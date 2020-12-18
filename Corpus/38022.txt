@@ -1,0 +1,1 @@
+ URL : "https://github.com/widdix/aws-s3-virusscan/issues/22" TITLE : no exports found for BODY : cloud formation build from this template fails. no export named parentvpc found

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Looking4Group/L4G_Core/issues/3745" TITLE : elemental mastery bug BODY : if you use elemental mastery while a lightning bolt is in the air, it will fade when the bolt hits the target and not crit. thats it

@@ -1,0 +1,8 @@
+ URL : "https://github.com/JackJoeKul/cities-in-need/issues/11" TITLE : breaking down the problem BODY : problem can be broken down into two parts: 1. how do we define which cities uber should enter?
+- what percentage of a city’s population depends on cars.
+- what portion of the population is young.
+- the standard costs of maintaining a car.
+- local weather conditions. - average commute times. 2. what are the effects of uber entering this city?
+- unemployment decrease.
+- population increase.
+- disposable income increase. - etc.

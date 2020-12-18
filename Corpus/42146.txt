@@ -1,0 +1,1 @@
+ URL : "https://github.com/aio-libs/aiohttp/issues/1922" TITLE : aiohttp 2.1.0 release BODY : let's just make it. i want to finish 1915. 1910 worth to be finished too. but both are no show-stoppers, we could publish a bugfix release as soon as theses fixups will be ready. looks like people want for already merged prs publishing and we have pretty long list of them. @fafhrd91 ?

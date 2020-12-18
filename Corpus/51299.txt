@@ -1,0 +1,1 @@
+ URL : "https://github.com/techgurupezza/simple_form_materialize/issues/4" TITLE : additional v1.1.0 work BODY : - upgrade circleci to v2.0 - add additional github repo structure - upgrade gem dependencies - upgrade rubocop - upgrade ruby version to 2.4.1

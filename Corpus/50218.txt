@@ -1,0 +1,1 @@
+ URL : "https://github.com/MultiPath/CopyNet/issues/4" TITLE : where is the dataset? BODY : many paths in build_dataset.py are not valid and i am having some trouble in finding the datasets described in your paper. thanks.

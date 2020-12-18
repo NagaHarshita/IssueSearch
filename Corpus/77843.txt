@@ -1,0 +1,1 @@
+ URL : "https://github.com/infernojs/inferno/issues/668" TITLE : onchange with file input BODY : i am using inferno-compat. i have used onchange on file input <input type= file onchange={this.handlechange}/> this works fine with react. handlechange method is invoked. but on using inferno-compat, onchange doesn't work

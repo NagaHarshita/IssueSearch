@@ -1,0 +1,1 @@
+ URL : "https://github.com/MegaMek/megameklab/issues/47" TITLE : ba lb-x crit space bug BODY : ba lb-x has 0 crit space instead of 2, though the weight is correct and it still can be assigned to a location in which it does not take any crit space .

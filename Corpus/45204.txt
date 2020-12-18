@@ -1,0 +1,1 @@
+ URL : "https://github.com/HubSpot/NioSmtpClient/issues/24" TITLE : high concurrent tests BODY : just to expose potential race conditions, it might be nice to try a few operations pipelined and non pipelined sends with a lot of threads concurrently on the same connection. it should send one after another without issue, but it's worth testing out.

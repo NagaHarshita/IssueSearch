@@ -1,0 +1,1 @@
+ URL : "https://github.com/graphflow/graphflow/issues/30" TITLE : use snapshot version BODY : this makes it easier for projects that depend on graphflow to update their dependency. https://www.tutorialspoint.com/maven/maven_snapshots.htm > maven checks for a new snapshot version in a remote repository for every build.

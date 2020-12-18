@@ -1,0 +1,1 @@
+ URL : "https://github.com/wummel/dosage/issues/112" TITLE : looking for group BODY : lookingforgroup> error: patterns '<\\s aa \\s+ ?: ^> \\s+ ? hh rr ee ff \\s =\\s http\\:\\/\\/www\\.lfgcomic\\.com\\/page/ -0-9 +/ ^> feature-item-link ^> >' not found at url http://www.lfgcomic.com/.

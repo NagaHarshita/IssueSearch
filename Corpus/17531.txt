@@ -1,0 +1,1 @@
+ URL : "https://github.com/subins2000/logSys/issues/32" TITLE : problem in ls.php BODY : hallo, i think i found a mistake in row 949 of ls.php. now is: $this->sendresetpasswordtoken $cols 'id' ; but the correct row is: $this->sendresetpasswordtoken $cols $this->config 'db' 'columns' 'id' ; bye, simone

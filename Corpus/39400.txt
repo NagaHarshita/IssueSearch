@@ -1,0 +1,1 @@
+ URL : "https://github.com/psi-4ward/psitransfer/issues/43" TITLE : send password in sms BODY : hi , it's possible to add option to send the encrypt password in sms from the web ? we have a sms gateway that can recieve massage in get protocol . i want when user upload a file and set a password he put the cellular number of the recipient and the racipient get the password in sms .

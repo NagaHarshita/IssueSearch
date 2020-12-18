@@ -1,0 +1,1 @@
+ URL : "https://github.com/PDAL/PDAL/issues/1724" TITLE : conda install option BODY : installing via conda would be a nice option for me. i see that someone has already setup a conda recipe https://anaconda.org/mathieu/pdal for pdal but it is only for pdal=1.5, python=3.5, and numpy=1.12

@@ -1,0 +1,1 @@
+ URL : "https://github.com/thaoho21294/bsn_web/issues/4" TITLE : can't save new stop BODY : steps to reproduce: - click the pencil button on nav bar. - select a point on map. - don't see anything happen. - click on plan - enter name of the stop - click lưu - nothing happens.

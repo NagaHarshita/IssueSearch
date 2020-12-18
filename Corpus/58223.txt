@@ -1,0 +1,1 @@
+ URL : "https://github.com/nextcloud/server/issues/3253" TITLE : search mimetype filter BODY : i would like to be able to search the files in addition to a mime type filter. use case: - i want to fetch all images/videos/documents/whatever in a flat list use case 2: - i want to fetch all images whose name contains bla in a flat list

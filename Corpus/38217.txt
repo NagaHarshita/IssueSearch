@@ -1,0 +1,1 @@
+ URL : "https://github.com/RubaXa/Sortable/issues/1179" TITLE : onmove in the vue.js BODY : when i used onmove return data,the first data is __ob__: observer ,i can t console.log ,the first data.

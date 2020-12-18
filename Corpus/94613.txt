@@ -1,0 +1,1 @@
+ URL : "https://github.com/ryal/ryal/issues/17" TITLE : change from mock to bypass BODY : the problem here is that mock is always going to run code synchronously and it also gets in the way of excoveralls. we need to remove this dependency.

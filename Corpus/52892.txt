@@ -1,0 +1,1 @@
+ URL : "https://github.com/steinarsa/RunmakerApp/issues/6" TITLE : create the time screen BODY : create a new screen, pretty much identical to the screen currently named profile , except it will show different data race times . set up the components so that they can be used in both screens without too much hazzle.

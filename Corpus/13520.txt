@@ -1,0 +1,1 @@
+ URL : "https://github.com/picluster/picluster/issues/76" TITLE : use sass for css BODY : we should switch to using sass http://sass-lang.com/guide for css. this will make it more maintainable and potentially easier to read. this is currently blocked on 33

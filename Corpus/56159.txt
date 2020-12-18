@@ -1,0 +1,1 @@
+ URL : "https://github.com/DeathlyPlays/Exiled/issues/79" TITLE : migrating essb from c9 BODY : due to the fact i suck at coding, there is a list of things i need migrated from the c9. this includes: formats.js, moves.js, abilities.js, scripts.js, and items.js

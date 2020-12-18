@@ -1,0 +1,1 @@
+ URL : "https://github.com/openhab/openhab-docs/issues/226" TITLE : update demo tutorial BODY : the demo tutorial on http://docs.openhab.org/tutorials/demo.html is not matching the current distro anymore and thus would need to be updated. @thomdietrich is this already planned some where? if not, i can try to take care of it.

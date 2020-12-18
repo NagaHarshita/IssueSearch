@@ -1,0 +1,1 @@
+ URL : "https://github.com/neilogd/Engine/issues/13" TITLE : expose resource barriers. BODY : at the moment it's automatic for transitions not uavs , but rather than rely on this to do the right thing it should probably be exposed. the render graph can work out where to insert barriers.

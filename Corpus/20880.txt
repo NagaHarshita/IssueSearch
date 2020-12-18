@@ -1,0 +1,1 @@
+ URL : "https://github.com/tananaev/traccar-manager-android/issues/48" TITLE : default server url BODY : i would like there to be a default value for the server field. is there an easy way to have a string defined in app/src/main/res/value/strings.xml and used to preset the server field on initial setup? - jss

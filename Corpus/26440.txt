@@ -1,0 +1,1 @@
+ URL : "https://github.com/dotspencer/videos-cs3810/issues/1" TITLE : autoplay next video BODY : when the current video ends, the next one should automatically start as long as it is not the last video in the group.

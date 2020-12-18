@@ -1,0 +1,1 @@
+ URL : "https://github.com/vmware/harbor/issues/2056" TITLE : ci drone integration. BODY : 1, enable drone as the ci per pr on harbor. 2, implement the drone.yml

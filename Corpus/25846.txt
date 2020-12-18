@@ -1,0 +1,1 @@
+ URL : "https://github.com/macchina/docs/issues/20" TITLE : add custom 404 page BODY : the standard github pages 404 page has no navigation back to the guide so users would need to manually fiddle with the url if they encounter a broken link. we should add a custom 404 page that either automatically redirects to the home page or is styled and has navigation.

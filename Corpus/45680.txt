@@ -1,0 +1,1 @@
+ URL : "https://github.com/rancher/rancher-cloud-controller-manager/issues/2" TITLE : include godeps folder BODY : i tried to use this project as a template specifically, the dependency version by doing a godep restore but it is not possible due to lack of the godeps folder. a godeps folder or similar, depending on what you're using for vendoring would be great to include!

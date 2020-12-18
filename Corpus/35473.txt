@@ -1,0 +1,6 @@
+ URL : "https://github.com/convox/rack/issues/1856" TITLE : elb logs to app logs BODY : data: {u'text': u'https://github.com/convox/rack/issues/1819', u'list': {u'name': u'rack', u'id': u'5899e3224255b666d6e7d9e9'}, u'board': {u'shortlink': u'xxvweicx', u'id': u'587425638297353d93b2d4af', u'name': u'roadmap'}, u'card': {u'idshort': 74, u'shortlink': u'feiuddi0', u'id': u'5876d86a56a102c7d4cef3d5', u'name': u'elb logs to app logs'}}
+date: 2017-02-08t13:17:02.200z
+id: 589b1a4e216efc8cdf25fe5f
+idmembercreator: 4f3c59c1d9d3e56b446861d8
+membercreator: {u'username': u'ddollar', u'fullname': u'david dollar', u'avatarhash': u'4b941446da3c56990164d470ea22bb2f', u'id': u'4f3c59c1d9d3e56b446861d8', u'initials': u'dd'}
+type: commentcard https://trello.com/c/feiuddi0/74-elb-logs-to-app-logs

@@ -1,0 +1,6 @@
+ URL : "https://github.com/ServUO/ServUO/issues/2036" TITLE : hit area damage amount BODY : according to videos hit area weapons should give 50% of the delivered damage after resists to main combatant as area damage. range is not effects the damage. 1. fire area weapon. dark father takes 270, rotting corpse 30% fire resist takes 94 area damage
+270 / 2 100 - 30 resist / 100 = 94
+second hit of double strike
+255 / 2 100 - 30 resist / 100 = 88 attach=full 8776 /attach media=youtube mwm_zojsfmm /media 00:35 3. fire area weapon. wraith/ghoul takes 165, other wraiths/ghouls both 0% fire resist takes 82 area damage
+165 / 2 100 - 0 resist / 100 = 82 attach=full 8777 /attach media=youtube q4qlxvj2wmc /media 00:54 3. fire area weapon. wraith/ghoul takes 187, other wraiths/ghouls both 0% fire resist takes 93 area damage
+187 / 2 100 - 0 resist / 100 = 93 attach=full 8778 /attach media=youtube dtvgm4nzyye /media 00:16 reported by: equinox report thread: http://servuo.com/threads/hit-area-damage-amount.7180/

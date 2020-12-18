@@ -1,0 +1,1 @@
+ URL : "https://github.com/pelletier/go-buffruneio/issues/1" TITLE : go vet fail BODY : $ go vet ./... vendor/github.com/pelletier/go-buffruneio/buffruneio.go:52: method readrune rune, error should have signature readrune rune, int, error vendor/github.com/pelletier/go-buffruneio/buffruneio.go:89: method peek n int rune should have signature peek int byte, error

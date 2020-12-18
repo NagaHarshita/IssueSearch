@@ -1,0 +1,1 @@
+ URL : "https://github.com/Princeton-CDH/mep-django/issues/12" TITLE : content editor group BODY : create a fixture & migration to create a content editor group and assign the appropriate permissions.

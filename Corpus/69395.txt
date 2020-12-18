@@ -1,0 +1,4 @@
+ URL : "https://github.com/department-of-veterans-affairs/caseflow/issues/1824" TITLE : tags | index db by text BODY : we currently do not index our tags table by text. we need to either:
+1 index the tags table by text
+or
+2 pass the tag id when assigning an existing tag

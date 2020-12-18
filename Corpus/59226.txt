@@ -1,0 +1,1 @@
+ URL : "https://github.com/LiskHQ/lisk-js/issues/189" TITLE : tidy up test common.js BODY : currently we have exports and globals that are used inconsistently.

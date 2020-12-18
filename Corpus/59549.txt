@@ -1,0 +1,1 @@
+ URL : "https://github.com/socketio/socket.io-client/issues/1161" TITLE : unminified source code BODY : where can i get unminified socket.io-client js code? repository contains only minified js files and source map files. thank you.

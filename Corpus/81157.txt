@@ -1,0 +1,1 @@
+ URL : "https://github.com/vyos/vyos-cloudinit/issues/8" TITLE : vyos post-update advice? BODY : vyos 1.1.8 is out. any advice concerning what to do after an image update? naturally, vyos-cloudinit gets blown away. is there a manual install procedure?

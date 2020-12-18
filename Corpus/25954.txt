@@ -1,0 +1,1 @@
+ URL : "https://github.com/FrantisekHrdina/historical-timeline/issues/62" TITLE : add mapping service BODY : beanmappingservice.java beanmappingserviceimpl.java conf/serviceconfiguration.java

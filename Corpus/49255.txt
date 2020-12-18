@@ -1,0 +1,1 @@
+ URL : "https://github.com/udacity/sdc-issue-reports/issues/785" TITLE : term 2 lidar coverage BODY : much of term 2 coverage uses lidar as sensor but there was no mention in the course of how lidar point cloud can be converted to trackable features. would appreciate if this could be covered in the course as well.

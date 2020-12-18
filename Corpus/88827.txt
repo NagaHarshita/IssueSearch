@@ -1,0 +1,1 @@
+ URL : "https://github.com/gitkeyan/410-00p/issues/7" TITLE : output to checkin4_input3 BODY : let a1 = 1 in let 'a', 'c', 'b', 'd' = if a == 0 then let a = b + 1 in let b = a + 1 in let b = b b in a, c, b, d else let a = b + 1 in let c = c + 1 in let d = c c in a, c, b, d in let b2 = 2 in a, c, b, d, a1, b2

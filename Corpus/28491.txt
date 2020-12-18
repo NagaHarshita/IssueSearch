@@ -1,0 +1,1 @@
+ URL : "https://github.com/cawilliamson/ansible-gpdpocket/issues/112" TITLE : gnome3 slow as hell BODY : ubuntu 17.10 with gnome3 gnome-shell eats all cpu when i e.g. use touch display to move window around or click to start any app. when i click with mouse it goes ok. is it normal behaviour? i've used ubuntu budgie with respin scripts before, the speeds was ok

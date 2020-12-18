@@ -1,0 +1,1 @@
+ URL : "https://github.com/scrumbock/GroupCollab/issues/14" TITLE : make gallery responsive BODY : on smaller screens the gallery's images shrink weirdly, probably just their relative width needs to change

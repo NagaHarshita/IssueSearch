@@ -1,0 +1,1 @@
+ URL : "https://github.com/jaketame/ansible-plexstack/issues/7" TITLE : implement movie upload BODY : implement the movie upload script with couchpotato its not easy to add post scripts so this will be every x hours with watcher you can execute post_scripts which i think will be better suited

@@ -1,0 +1,1 @@
+ URL : "https://github.com/davidjungman/charita/issues/1" TITLE : session vs cookies BODY : you should use php session feature instead of using cookies for user authenitaction. it is more safety than this way you are using right now.

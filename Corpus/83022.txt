@@ -1,0 +1,1 @@
+ URL : "https://github.com/AngusG/tensorflow-xnor-bnn/issues/2" TITLE : bn after xnor not working BODY : error: valueerror: 'input has undefined rank:', tensorshape none

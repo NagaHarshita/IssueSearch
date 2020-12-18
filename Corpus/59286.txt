@@ -1,0 +1,1 @@
+ URL : "https://github.com/igraph/rigraph/issues/204" TITLE : topological sort error BODY : r graph_edge <- c 1l, 2l, 1l, 5l, 2l, 3l, 2l, 4l, 2l, 6l, 3l, 4l, 3l, 5l, 3l, 6l, 5l, 6l graph_temp <- igraph::graph graph_edge igraph::topological.sort graph_temp this returns five vertices, even if the graph consists of six.

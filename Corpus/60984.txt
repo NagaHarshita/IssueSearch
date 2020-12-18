@@ -1,0 +1,1 @@
+ URL : "https://github.com/fmadio/voip_issues/issues/17" TITLE : add status check script BODY : add a status check script in /opt/fmadio/analytics/voip_ which reports the current status. self checking to confirm operation is running correctly

@@ -1,0 +1,1 @@
+ URL : "https://github.com/rcuello/Patton/issues/4" TITLE : manejo de cookies BODY : que permita especificar cookies en una peticion que las cookies retornadas por el servidor en una petición anterior se mantengan en las siguientes peticiones.

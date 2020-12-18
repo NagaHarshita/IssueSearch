@@ -1,0 +1,1 @@
+ URL : "https://github.com/threema-ch/threema-web/issues/274" TITLE : invert enter key behaviour BODY : text is being submitted by pressing the enter key and adding a new line by pressing shift+enter . some people may want to invert this behaviour. request from https://threema-forum.de/thread-3299.html

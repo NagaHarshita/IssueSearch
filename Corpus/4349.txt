@@ -1,0 +1,1 @@
+ URL : "https://github.com/mvetsch/JWT4B/issues/15" TITLE : cant edit jwt? BODY : plugin loaded normally i see the decoded message but there is no way to edit the contents to perform a replay attack. im a missing something here?

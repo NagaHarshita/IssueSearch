@@ -1,0 +1,1 @@
+ URL : "https://github.com/garyd203/flying-circus/issues/80" TITLE : clean up labels for issues BODY : our github project has lots of labels hanging around. remove the unused ones and merge others as necessary

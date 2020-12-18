@@ -1,0 +1,1 @@
+ URL : "https://github.com/Mrigank11/embetacloud/issues/27" TITLE : google drive problem BODY : google_redirect_url it should be <server address>/oauthcallback by default i just set http://domain.com/oauthcallback as redirect url but comes to end like http://domain.com/oauthcallback?code=4/ii1zorld5fxdp_xbdcnui1vtbcx2qq7dcjeik3orggg shows error

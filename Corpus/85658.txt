@@ -1,0 +1,1 @@
+ URL : "https://github.com/ca-cwds/case-management/issues/27" TITLE : fix broken jenkins builds BODY : the ci jobs are running against the branch hello-world . building against master fails the build log http://jenkins.dev.cwds.io:8080/view/cm/job/cm-stable/2/console . fix the build plz

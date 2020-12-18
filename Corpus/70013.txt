@@ -1,0 +1,1 @@
+ URL : "https://github.com/gomoob/grunt-phpdocumentor/issues/21" TITLE : update grunt dependency BODY : this package still requires grunt 0.4 which is quite old and issues warnings when using grunt 1.0. would it possible to update the dependency? i've been using it with grunt 1.0 for quite some time and it seems to be totally compatible.

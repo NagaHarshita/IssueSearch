@@ -1,0 +1,1 @@
+ URL : "https://github.com/ResearchSoftwareInstitute/BRAIN-I/issues/7" TITLE : metadata prep load tool BODY : - update metadata templates in the irods tool - fix directory structure to associate the right channel with the dye @jasonlouisstein @michael-conway to meet friday, june 23 goal: have it done by early next week milestone: 2

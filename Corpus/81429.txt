@@ -1,0 +1,1 @@
+ URL : "https://github.com/ronanguilloux/IsoCodes/issues/116" TITLE : wrong iban length for se BODY : hello, the rule for validating sweden iban are wrong because the length without se is 22 characters https://en.wikipedia.org/wiki/international_bank_account_number

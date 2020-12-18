@@ -1,0 +1,1 @@
+ URL : "https://github.com/maqquettex/sps_async/issues/2" TITLE : add tests for project BODY : - aiohttp tests structure research - testing sub-apps - end to end tests in main folder - way to run rests via simple command research

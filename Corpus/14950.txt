@@ -1,0 +1,1 @@
+ URL : "https://github.com/jnfrye/local_plants_book/issues/1" TITLE : clean up the code BODY : before i work on any new features, i want to clean the code up a bunch. i'll use this issue to keep track of what needs cleaning up. - re-organize file layout - refactor similar code into submodules - examine the code with pylint and coala

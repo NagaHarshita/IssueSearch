@@ -1,0 +1,1 @@
+ URL : "https://github.com/geneontology/go-ontology/issues/14468" TITLE : ntr: midbody abscission BODY : def: cleavage of the midbody formed during mitotic cytokinesis. biological process relationships: part_of go:0000281 mitotic cytokinesis is_a child of go:0009838 abscission pmid: 12737809

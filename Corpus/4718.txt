@@ -1,0 +1,1 @@
+ URL : "https://github.com/sunny-b/opening_act/issues/3" TITLE : fix naming bug BODY : if someone creates a project with an _ in the name, such as test_app , the main project file in the created template will be test_a instead of test_app.rb . write tests to make cover the bug as well.

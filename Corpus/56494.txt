@@ -1,0 +1,1 @@
+ URL : "https://github.com/polsys/Ref/issues/9" TITLE : new entry type: inbook BODY : matching the bibtex inbook type, for parts of a book. the fields are mostly same as in books, but with page/chapter information.

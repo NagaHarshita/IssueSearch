@@ -1,0 +1,1 @@
+ URL : "https://github.com/kubernetes/gengo/issues/79" TITLE : clean up examples BODY : examples should contain only 100% general things. deep copy, defaulter, proto need to move to the kube-generator repo. import boss can probably be deleted, since we enforce that w/ bazel now.

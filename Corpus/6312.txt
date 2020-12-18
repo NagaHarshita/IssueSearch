@@ -1,0 +1,1 @@
+ URL : "https://github.com/carlthome/python-audio-effects/issues/10" TITLE : add 1.1 to pypi BODY : i'm trying to use pysndfx with windows, installed via pip. the version on pip at the moment is 1.0 , which lacks the windows compatibility fix. is it possible to publish this new version, to avoid manually running the library from source?

@@ -1,0 +1,9 @@
+ URL : "https://github.com/OCA/bank-statement-import/issues/126" TITLE : migration to version 11.0 BODY : todo https://github.com/oca/maintainer-tools/wiki/migration-to-version-11.0 modules to migrate - account_bank_statement_import_camt
+- account_bank_statement_import_move_line
+- account_bank_statement_import_mt940_base
+- account_bank_statement_import_mt940_nl_ing
+- account_bank_statement_import_mt940_nl_rabo
+- account_bank_statement_import_ofx
+- account_bank_statement_import_qif
+- account_bank_statement_import_save_file
+- base_bank_account_number_unique

@@ -1,0 +1,1 @@
+ URL : "https://github.com/coolfriends/oil/issues/6" TITLE : set up ci BODY : with all of the goodies like making a virtual environment, setting it up, and verifying tests can run. future support for docs building would be great.

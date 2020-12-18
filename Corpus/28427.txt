@@ -1,0 +1,1 @@
+ URL : "https://github.com/vendi-advertising/vend-rotary-flyer/issues/19" TITLE : generate pdf button BODY : now that the pdf view for the admin has been re-purposed as a editing tool, there needs to be a way to generate the pdf from a button. this shouldn't be too hard, but it would be a good idea to refactor some code in the process.

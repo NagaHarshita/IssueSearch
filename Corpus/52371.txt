@@ -1,0 +1,1 @@
+ URL : "https://github.com/labsquare/fastQt/issues/29" TITLE : clean quazip reference BODY : in some comment we can see reference to quazip but we replace this by karchive. i little clean up and check if commented code do important think is require.

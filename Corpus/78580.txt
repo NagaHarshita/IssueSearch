@@ -1,0 +1,1 @@
+ URL : "https://github.com/fcitx/fcitx5/issues/4" TITLE : question about code base BODY : this question is part curiosity and part a desire to build an ime for myself. i see that the codebase is almost 32000 lines. are there any pointers to how one can build a bare bones ime? handling x etc. how many lines of c++ would that be?

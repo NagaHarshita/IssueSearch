@@ -1,0 +1,1 @@
+ URL : "https://github.com/tsenart/vegeta/issues/241" TITLE : bytes out incorrect BODY : echo get http://open.stage.bbc.co.uk/loadtest/2kb | vegeta attack -duration=1m -rate=10000 | tee results.bin | vegeta report bytes out total, mean 0, 0.00

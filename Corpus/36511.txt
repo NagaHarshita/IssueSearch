@@ -1,0 +1,1 @@
+ URL : "https://github.com/zeit/hyper/issues/1405" TITLE : how to close browser BODY : i didn't even realise hyper had a built-in browser, until i accidentally opened a page in it just now. i can't figure out how to close it and return to the session - so this is either a request for better documentation/visibility in menu, or to implement such a thing.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Suor/django-cacheops/issues/257" TITLE : 4.0.2 not on pypi BODY : looks like 4.0.2 was just completed, but i don't see it on pypi to pip install.

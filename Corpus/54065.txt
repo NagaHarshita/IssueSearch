@@ -1,0 +1,1 @@
+ URL : "https://github.com/seal-dota/server/issues/19" TITLE : fetch mmrs after login BODY : this requires using a steam bot, surprisingly, if we want to fetch from in-game. probably easier to scrape for now unless opendota maybe has an api for this.

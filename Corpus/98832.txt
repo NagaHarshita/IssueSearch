@@ -1,0 +1,1 @@
+ URL : "https://github.com/tonsky/FiraCode/issues/520" TITLE : ligature request +- and -+ BODY : quite often in comments i have plus-minus as +- , it would be nice to render this as a proper plus-minus symbol a la latex's \pm and for completeness -+ could map to minus-plus respectively \mp .

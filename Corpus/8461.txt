@@ -1,0 +1,1 @@
+ URL : "https://github.com/callmecavs/bricks.js/issues/48" TITLE : on resize sizes BODY : hi guys, can you provide work example of resize method? i have catalog and filter that opens at the left of catalog. so on page load i have 3 columns, if filter box opened it whould be changed to 2 columns. and sure this example should be with breackpoints : thanks

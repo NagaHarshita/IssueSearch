@@ -1,0 +1,1 @@
+ URL : "https://github.com/stadler/pyrocket/issues/7" TITLE : interface not working BODY : running on debian jessie from .deb downloaded from ppa. the controls do not appear to be working fully. right/left do not work at all. fire once fires continuously. launcher is the dream cheeky model although from the command line it is identified as the blue rocket launcher .

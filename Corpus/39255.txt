@@ -1,0 +1,1 @@
+ URL : "https://github.com/SybilleCaffiau/TaskModelReader/issues/5" TITLE : répétition du 'ou' BODY : pour le cas de plusieurs tâches alternatives, la phrase qui les donne est de la forme : t1,t2 ou t3. le 'ou' entre t1 et t2 n'est alors pas explicite pour les lecteurs.

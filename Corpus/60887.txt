@@ -1,0 +1,1 @@
+ URL : "https://github.com/argonautproject/provider-directory/issues/7" TITLE : add org example on home BODY : can we add an example search for organization on the home page? i don't think its explicitly clear what data we would receive/the purpose of querying for an organization.

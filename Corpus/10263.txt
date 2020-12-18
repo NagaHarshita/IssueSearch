@@ -1,0 +1,1 @@
+ URL : "https://github.com/DigitalDW/proginter_projet_G3/issues/8" TITLE : bug écran event BODY : reproduction du bug en appuyant sur enter pour ajouter évènement si appuyé de nouveau sur enter à l’écran de l’event, un event vide se crée et on en sort plus.

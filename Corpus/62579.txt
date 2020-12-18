@@ -1,0 +1,1 @@
+ URL : "https://github.com/Winetricks/winetricks/issues/882" TITLE : consolas font name typo BODY : ms consolas console font is mistakenly registered as consoleas here https://github.com/winetricks/winetricks/blob/389d1ed6810cab5a54be2d68c2c6b4752a04f272/src/winetricks l10133-l10136 .

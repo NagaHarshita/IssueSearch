@@ -1,0 +1,1 @@
+ URL : "https://github.com/loadimpact/homebrew-k6/issues/2" TITLE : add 0.17.2 release BODY : hello, would it be possible to create a 0.17.2 release? we need to make use of the new client certificate feature https://github.com/loadimpact/k6/releases/tag/v0.17.2 thanks!

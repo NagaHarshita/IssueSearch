@@ -1,0 +1,1 @@
+ URL : "https://github.com/kirigayakazushin/deepin-topbar/issues/22" TITLE : deepin topbar and dock BODY : arch-deepin system tray shortcuts do not work if topbar is enabled. if the topbar is active the dock system tray does not open the programs.

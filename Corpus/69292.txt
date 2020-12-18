@@ -1,0 +1,1 @@
+ URL : "https://github.com/datanucleus/datanucleus-core/issues/182" TITLE : support join on map key BODY : although the jpa spec does not cover this, a join on a key expression should be possible. the following query should work select a from entity e join e.map m join key m .association a

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Mythos-Softworks/Arbeiterbiene/issues/13" TITLE : modules aren't distinct BODY : !scion works just as well as $scion , which means they're probably not using distinct command namespaces. little weird; not exactly a dealbreaker, but we should fix it if we get a chance.

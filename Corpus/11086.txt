@@ -1,0 +1,1 @@
+ URL : "https://github.com/neurodata/ndmg-paper/issues/8" TITLE : figure 5 updates BODY : - consider adding a 10x10 plot for mean d within block, and another with variance. - use shangsi's discriminability code. - compute the p-value for discriminability of 0.632. - consider computing over several atlases, to see which minimizes discriminability.

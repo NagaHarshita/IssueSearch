@@ -1,0 +1,1 @@
+ URL : "https://github.com/mdklatt/cookiecutter-python-app/issues/5" TITLE : import not used BODY : hello, at this line https://github.com/mdklatt/cookiecutter-python-app/blob/master/%7b%7bcookiecutter.project_name%7d%7d/src/%7b%7bcookiecutter.app_name%7d%7d/core/_logger.py l9 is getlogger imported but never used. thank you for your template, this is just a minor issue :

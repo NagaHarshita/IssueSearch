@@ -1,0 +1,1 @@
+ URL : "https://github.com/fredrikaverpil/pyside2-wheels/issues/57" TITLE : put qt.conf on path BODY : for all builds, make sure qt.conf of the qt installation is on path.

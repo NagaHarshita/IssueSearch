@@ -1,0 +1,1 @@
+ URL : "https://github.com/tunnckoCore/new-release/issues/8" TITLE : v3 is on the way BODY : - more generalized - include the boilerplate stuff that is from new-relase-app - fix bugs in parse-commit-message - include the next release of detect-next-version - etc..

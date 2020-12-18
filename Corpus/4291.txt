@@ -1,0 +1,1 @@
+ URL : "https://github.com/zrax/pycdc/issues/121" TITLE : bug in unicode BODY : welcome if string in unicode arabic show string \xd8\xb1\xd8\xb3\xd8\xa7\xd9\x84\xd8\xa9 please fix this

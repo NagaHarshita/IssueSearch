@@ -1,0 +1,1 @@
+ URL : "https://github.com/foursixnine/opaws/issues/4" TITLE : flash briefing skill BODY : to add flash briefing skill, some handling seems to be needed due to let's encrypt not working seemingly for this: https://community.home-assistant.io/t/problem-with-cert-in-alexa-flash-briefings/5282/4

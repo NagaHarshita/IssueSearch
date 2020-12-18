@@ -1,0 +1,1 @@
+ URL : "https://github.com/AngryJayFox/ffmpeg-libs-makescript/issues/9" TITLE : use xml parser BODY : it's not good idea to check xml output just like: if '<format>' in o: please use some xml parser component instead e.g. minidom

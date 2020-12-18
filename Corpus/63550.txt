@@ -1,0 +1,1 @@
+ URL : "https://github.com/diegomura/react-pdf/issues/104" TITLE : embed links inside text BODY : text rendering phase should support many children, and not just a text string as it is right now

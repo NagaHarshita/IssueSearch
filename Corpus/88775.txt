@@ -1,0 +1,1 @@
+ URL : "https://github.com/ARCANEDEV/Localization/issues/86" TITLE : optional route parameters BODY : hi @arcanedev-maroc i have a route with 2 parameters, but i would like to make those parameters optional. when there are no parameters i show a different view. i can't find anything in your documentation about optional route parameters. how can i do that?

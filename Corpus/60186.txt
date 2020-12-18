@@ -1,0 +1,1 @@
+ URL : "https://github.com/gabime/spdlog/issues/397" TITLE : worker thread priority BODY : hi, could you please consider adding an option to configure async logger working thread priority. thanks, alex

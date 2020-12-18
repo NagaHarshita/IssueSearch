@@ -1,0 +1,1 @@
+ URL : "https://github.com/ghosh/micromodal/issues/8" TITLE : not a11y in safari BODY : after opening the modal, the intro says about accessibility and try hitting tab key. it's not working as expected in safari

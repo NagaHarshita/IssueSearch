@@ -1,0 +1,1 @@
+ URL : "https://github.com/libffi/libffi/issues/292" TITLE : add libffi to oss-fuzz BODY : google is offering free fuzzing of widely-used open source projects with their oss-fuzz initiative. https://github.com/google/oss-fuzz given that libffi is widely used, i think it would make sense to take advantage of that offer and see what they find? :

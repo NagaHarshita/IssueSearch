@@ -1,0 +1,1 @@
+ URL : "https://github.com/beltoforion/muparserx/issues/82" TITLE : fix warnings of 64 bit BODY : compiling the code with visual studio 2017 community edition, some warings about size_t/int conversion are displayed.

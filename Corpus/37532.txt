@@ -1,0 +1,1 @@
+ URL : "https://github.com/u10int/Kinetic/issues/31" TITLE : memory leak in tween BODY : you have a memory leak in your tween module. it impacts tweenobjects and transformproperties ! image https://user-images.githubusercontent.com/9988890/28458780-408234d8-6e0b-11e7-9ce6-c123d30bef74.png

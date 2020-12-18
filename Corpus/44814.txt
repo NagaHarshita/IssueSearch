@@ -1,0 +1,1 @@
+ URL : "https://github.com/objectivehtml/FlipClock/issues/318" TITLE : flipclock console log BODY : i'm using flipclock in angular 2 as a clock. how do i stop clock from console.log current time out. the source line on log in the console is unknown .

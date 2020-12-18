@@ -1,0 +1,1 @@
+ URL : "https://github.com/matdumsa/jQuery.threesixty/issues/15" TITLE : max amount of frames BODY : hello, is somewhere set max amount of frames? when i put into array more than 266 frames, rotation doesn't works. thank you regards zajdan

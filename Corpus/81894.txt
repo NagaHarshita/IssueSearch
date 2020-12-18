@@ -1,0 +1,1 @@
+ URL : "https://github.com/AmirHosseinifar/aloha/issues/5" TITLE : accessibility - tab index BODY : it may be worth while to spend time tabbing through elements on your page to decide which ones you'd like the user to be able to tab to, and which you'd like them to skip over. the tabindex rule can be used for this.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ninenines/erlang.mk/issues/662" TITLE : docs archlinux install BODY : at 1.1.1. linux you suggest $ pacman -sy erlang git make . but using -sy is a terrible idea https://bbs.archlinux.org/viewtopic.php?id=89328 .

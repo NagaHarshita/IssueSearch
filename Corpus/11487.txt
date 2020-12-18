@@ -1,0 +1,1 @@
+ URL : "https://github.com/srm985/mok-project/issues/25" TITLE : honor input type BODY : many inputs beyond the common type of 'text' are not well catered for when entering information. both 'tel' and 'number' only allow the characters 0-9, but no special characters.

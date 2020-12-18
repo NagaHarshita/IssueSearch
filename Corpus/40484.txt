@@ -1,0 +1,1 @@
+ URL : "https://github.com/CWaYNe/master-touch-typing/issues/1" TITLE : unicode file reading BODY : after reading unicode characters from file to std::wstring and assigned to sf::text , it still cannot output the text properly, however when assign string literal int the code std::wstring l unicode , it can be printed correctly.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/SenseNet/sn-resources/issues/34" TITLE : test process migration BODY : migrate the old test process from the old system. we need to be able to generate test documents after each release.

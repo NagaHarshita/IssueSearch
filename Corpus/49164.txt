@@ -1,0 +1,1 @@
+ URL : "https://github.com/pcolby/libqtaws/issues/17" TITLE : switch build systems? BODY : options: stick with qmake cmake qbs cmake is used by aws-sdk-cpp, so that may be advantageous in terms of applying a similar model . see also https://wiki.qt.io/qt_build_systems_at_qtcon_2016 thoughts?

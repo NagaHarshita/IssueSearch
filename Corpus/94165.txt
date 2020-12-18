@@ -1,0 +1,1 @@
+ URL : "https://github.com/Sitecore/Media-Framework-Brightcove-Edition/issues/2" TITLE : brightcove api deprecation BODY : will this module be affected by the breaking changes described in this article: https://support.brightcove.com/en/service-changes i'm assuming the upload functionality as well as the export functionality may be disrupted.

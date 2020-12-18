@@ -1,0 +1,1 @@
+ URL : "https://github.com/flarroca/sql-datatables-portlet/issues/4" TITLE : upgrade for liferay 7 BODY : i generally build portlets using spring and i am not familiar with mvcportlet, could you please upgrade this portlet for liferay 7 or provide instructions to do it. much thanks!

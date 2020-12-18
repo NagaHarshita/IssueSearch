@@ -1,0 +1,1 @@
+ URL : "https://github.com/vingorius/pug-beautify/issues/3" TITLE : update the npm package. BODY : please update the npm package. otherwise it argues that 'i is not defined'. i can see it's fixed here https://github.com/vingorius/pug-beautify/blob/master/index.js l77 but still in issue on npm

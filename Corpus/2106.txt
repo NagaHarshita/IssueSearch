@@ -1,0 +1,1 @@
+ URL : "https://github.com/ungleich/dynamicweb/issues/294" TITLE : ssh key name BODY : problem currently the key names are randomly generated in this form: dcl-priv-key-%s % ''.join random.choice string.ascii_lowercase for i in range 7

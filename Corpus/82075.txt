@@ -1,0 +1,1 @@
+ URL : "https://github.com/igameproject/Breakout/issues/4" TITLE : add different level maps. BODY : the idea is to add different level maps and to load them if the user finishes the previous map.in such case, we also need to keep track of score variable and discuss what would contribute to this score.

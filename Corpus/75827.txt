@@ -1,0 +1,1 @@
+ URL : "https://github.com/froala/wysiwyg-editor-java-sdk/issues/1" TITLE : image upload not working BODY : when i try to upload image with the exmaple given in the froala java sdk, the picture is stored in local storage but the picture not inserted and message something went wrong. please try again. is shown

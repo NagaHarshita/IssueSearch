@@ -1,0 +1,1 @@
+ URL : "https://github.com/mailcow/mailcow-dockerized/issues/304" TITLE : end users creating alias BODY : at present it doesn't seem possible for end users to create permanent alias in the end user panel, only in the admin panel. it would be nice if end users could create alias themselves up to the limit set for their domain.

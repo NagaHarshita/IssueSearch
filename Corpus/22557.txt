@@ -1,0 +1,1 @@
+ URL : "https://github.com/twin/tm-api/issues/1" TITLE : login & privileges BODY : - members should be able to log in - one member is the president and can manage privileges of other members - members have privileges based on their role in the club e. g. vice president for membership

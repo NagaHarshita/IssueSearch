@@ -1,0 +1,1 @@
+ URL : "https://github.com/DOREMUS-ANR/marc2rdf/issues/59" TITLE : pp keys with final dots BODY : sometimes the keys end with a final dot. example: fa majeur. @fr http://data.doremus.org/expression/b1d12b34-46a1-3d26-a6ad-efef75b1db7a/key/fa_majeur. this prevent the converter to match with the controlled vocabulary.

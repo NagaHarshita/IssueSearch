@@ -1,0 +1,1 @@
+ URL : "https://github.com/grahamegrieve/delphi-markdown/issues/1" TITLE : range check error BODY : try convert string with a lone bracket mark at the beginning of the line: some text < other text this raised range check exception

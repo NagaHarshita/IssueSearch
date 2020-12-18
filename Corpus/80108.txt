@@ -1,0 +1,1 @@
+ URL : "https://github.com/scalaz/scalaz/issues/1386" TITLE : tags should be covariant BODY : the current tag is @@ a, t , which is invariant. as a result, parallelfuture string is not parallelfuture any , even if future string is a future any . is it possible to change the signature to @@ +a, t ?

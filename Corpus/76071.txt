@@ -1,0 +1,1 @@
+ URL : "https://github.com/BIDS-Apps/niak/issues/16" TITLE : incorrect argument order BODY : according to the minimal bids app spec http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005209 sec013 the analysis level should be the third positional argument instead of currently first.

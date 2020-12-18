@@ -1,0 +1,1 @@
+ URL : "https://github.com/OliverGengenbach/CapstoneProjectColmarAcademy/issues/7" TITLE : .logo on both divs? BODY : you have this logo class on both the logo div and the nav div. just have it on the logo div and have flex-grow on the logo only. https://github.com/olivergengenbach/capstoneprojectcolmaracademy/blob/master/resources/css/colmaracademystyle.css l30-l34

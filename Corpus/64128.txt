@@ -1,0 +1,1 @@
+ URL : "https://github.com/joshuawhite929/spmia_feedback/issues/201" TITLE : fix env variable export BODY : you have: export build_name=”testmanualbuild it should be: export build_name=testmanualbuild the quoted value breaks the build.

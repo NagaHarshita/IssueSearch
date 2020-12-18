@@ -1,0 +1,1 @@
+ URL : "https://github.com/hdmy/blog/issues/17" TITLE : ios 时间计算 nan BODY : // end_time : 2017-11-28 16:20:23 end_time = end_time.replace /-/g, '/' ; // ios坑：不能解析2010-11-29 var diff = date.parse new date end_time - +new date + 5000;

@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpenKitten/BSON/issues/27" TITLE : subdocument cache issue? BODY : if a document's subdocument gets extracted, the original document gets this subdocument mutated and the subdocument copy is read. what happens to the cache?

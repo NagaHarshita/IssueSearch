@@ -1,0 +1,1 @@
+ URL : "https://github.com/dwyl/dwylbot/issues/42" TITLE : save public repositories BODY : on the endpoints /repo the user can see her list of public repositories. the list is automatically updated and save in postgres each time the endpoint called

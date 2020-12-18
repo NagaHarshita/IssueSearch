@@ -1,0 +1,1 @@
+ URL : "https://github.com/vikoadi/indicator-kdeconnect/issues/55" TITLE : ubuntu 16.04 ppa issue BODY : suddenly started getting this error when doing apt-get update the repository 'http://ppa.launchpad.net/varlesh-l/indicator-kdeconnect/ubuntu xenial release' does not have a release file. please fix

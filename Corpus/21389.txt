@@ -1,0 +1,1 @@
+ URL : "https://github.com/mlpack/mlpack/issues/1090" TITLE : faster cover trees BODY : is there an implementation for faster cover trees here ? https://izbicki.me/public/papers/icml2015-faster-cover-trees.pdf

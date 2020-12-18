@@ -1,0 +1,1 @@
+ URL : "https://github.com/GenisysPro/GenisysPro/issues/281" TITLE : netherrack wont drop BODY : as of latest commit 0510ed1 when breaking netherrack while in survival mode, block does not drop. the block disappears as if player were in creative mode.

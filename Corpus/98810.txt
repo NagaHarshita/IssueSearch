@@ -1,0 +1,1 @@
+ URL : "https://github.com/NiceThings/ShinShikaku/issues/70" TITLE : level storage/iap strategy BODY : - how should levels be stored? - should additional levels beyond, say, an initial 15 or so be offered as an iap? initial thought: server costs being non-trivial, i am inclined to store all levels locally, and allow access to increasing levels through in-app purchases

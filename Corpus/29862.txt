@@ -1,0 +1,3 @@
+ URL : "https://github.com/NewSpring/Apollos/issues/161" TITLE : music: player views BODY : acceptance criteria - when playing music or music is queued, there should be a mini-player docked at the bottom of the screen
+- can play/pause from mini-player
+- tapping on minimized player opens full-screen now playing - full screen has ability to skip back or forward, play/pause, seek, shuffle, repeat, and open song contextual menu

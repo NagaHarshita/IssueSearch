@@ -1,0 +1,1 @@
+ URL : "https://github.com/cmu-db/peloton-test/issues/38" TITLE : recursive element type BODY : the original three element types provided by the ast package is not natural to use for expressions found in the where clause. it is better to provide a new abstract type that deals with recursive types.

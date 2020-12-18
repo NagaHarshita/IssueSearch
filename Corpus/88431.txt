@@ -1,0 +1,1 @@
+ URL : "https://github.com/rossdargan/monzo-hass-sensor/issues/5" TITLE : no balance refresh/update BODY : i had someone deposit £30 into my account this morning however there's no balance update on home assistant, perhaps because the balance isn't stored as a state? my balance showing in home assistant is the same as when i restarted home assistant last night.

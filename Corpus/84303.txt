@@ -1,0 +1,1 @@
+ URL : "https://github.com/stil4m/elm-analyse/issues/137" TITLE : create unit test for docs BODY : in 0.13 a rule was relaxed, which broke the dynamic tests, which on its turn broke the documentation. we should create a unit test to not allow this to happen anymore.

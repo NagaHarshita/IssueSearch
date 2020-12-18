@@ -1,0 +1,1 @@
+ URL : "https://github.com/wkuckro/dotfiles/issues/3" TITLE : log passwords once BODY : log passwords from genpass one time in case they don't save but then delete from bash history

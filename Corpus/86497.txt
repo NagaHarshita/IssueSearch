@@ -1,0 +1,1 @@
+ URL : "https://github.com/GeroldSetz/Mailinator-Domains/issues/2" TITLE : how to use with rails app BODY : this would be great to add to a rails app i am building. i am not sure how to go about implementing it. right now i have a list of emails i am blocking using a regex but i am not sure how to go about it adding a shah hashed list like this. any tips?

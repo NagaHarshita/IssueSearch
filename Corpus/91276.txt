@@ -1,0 +1,1 @@
+ URL : "https://github.com/MICDSRobotics/Technomaric5190Website/issues/12" TITLE : test timelogging accuracy BODY : overview i'm not totally convinced that the timelogging is super accurate. for example, if someone joins late in a minute >~40 then it will count a minute 20 seconds later when it should really just be 20 seconds solution - check the way the dates are subtracted

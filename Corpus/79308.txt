@@ -1,0 +1,1 @@
+ URL : "https://github.com/fluentsprings/ExpressMapper/issues/131" TITLE : self registering mappers BODY : hi, i'd like to have self registering mappers. so i'd like to know if there is any solution out there? if not i would create a generic base class where the constructor calls register . the question is, do i have to expect any problems with it? regards

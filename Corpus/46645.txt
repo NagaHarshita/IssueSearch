@@ -1,0 +1,1 @@
+ URL : "https://github.com/boundlessgeo/qgis-webappbuilder-plugin/issues/395" TITLE : missing metadata file BODY : when i try to enable the webappbuilder in boundless qgis, i get an error saying that there is a missing metadata file. i downloaded the zip from this repository and placed it in my .qgis/python/plugins folder and got the same result.

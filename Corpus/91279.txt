@@ -1,0 +1,1 @@
+ URL : "https://github.com/dart-lang/sdk/issues/28362" TITLE : test uses obsolete syntax BODY : the test language/mixin_illegal_syntax_test.dart uses an old style of syntax in which a typedef is used to create a mixin application. i think we should remove tests that test obsolete features.

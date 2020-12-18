@@ -1,0 +1,1 @@
+ URL : "https://github.com/polar-engine/polar/issues/86" TITLE : find alternative to typeid BODY : we should investigate whether or not there's a clean alternative to typeid that we can use to convey what kind of thing something. from what i understand, typeid doesn't necessarily always resolve to a unique value, but i may be wrong.

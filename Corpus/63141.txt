@@ -1,0 +1,1 @@
+ URL : "https://github.com/pimcore/pimcore/issues/1294" TITLE : deprecated less support BODY : ... will be removed in v5. please use well known toos like gulp or grunt to use less in your projects.

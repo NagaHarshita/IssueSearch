@@ -1,0 +1,1 @@
+ URL : "https://github.com/hnarayanan/kubernetes-django/issues/12" TITLE : no external ip for service BODY : - when i ran kubectl get svc , i got all services but their was no external ip assigned to my service. - so how can i ran the dev server of my app ? app 10.0.0.204 <pending> 80:31987/tcp 17h

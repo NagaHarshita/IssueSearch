@@ -1,0 +1,1 @@
+ URL : "https://github.com/xamarin/Xamarin.PropertyEditing/issues/113" TITLE : type selector core BODY : for the type tree, we'll need an api to provide a hierarchy assembly/namespace for relevant types.

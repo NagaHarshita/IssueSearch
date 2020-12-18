@@ -1,0 +1,1 @@
+ URL : "https://github.com/TurboVNC/turbovnc/issues/101" TITLE : popup issue in kde BODY : vnc version :- turbovnc 2.1 os : rhel 7.2 desktop manager : kde error : popup authentication is required to create a color managed device coming is there any way to fix this popup coming every time when users log into their vnc session using kde as desktop manager.

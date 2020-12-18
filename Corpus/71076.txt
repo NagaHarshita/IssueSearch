@@ -1,0 +1,4 @@
+ URL : "https://github.com/webcompat/web-bugs/issues/14105" TITLE : 80.lv - design is broken BODY : <!-- @browser: firefox mobile 59.0 -->
+<!-- @ua_header: mozilla/5.0 android 7.1.2; mobile; rv:59.0 gecko/59.0 firefox/59.0 -->
+<!-- @reported_with: mobile-reporter --> url : https://80.lv/ browser / version : firefox mobile 59.0 operating system : android 7.1.2 tested another browser : yes problem type : design is broken description : incorrect design scale on firefox mobile steps to reproduce :
+nothing steps, the problem is on all mobiles with firefox ! screenshot description https://webcompat.com/uploads/2017/12/23323621-ae16-4b2a-ac26-8475d4edb14b-thumb.jpg https://webcompat.com/uploads/2017/12/23323621-ae16-4b2a-ac26-8475d4edb14b.jpg _from webcompat.com https://webcompat.com/ with ❤️_

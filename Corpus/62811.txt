@@ -1,0 +1,1 @@
+ URL : "https://github.com/bunsenapp/bunsen/issues/3" TITLE : create initial services BODY : it would be nice to have a set of initial services that will allow development of the other requirements to be completed. currently, this includes the following: user service organisation service authentication service

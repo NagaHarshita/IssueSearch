@@ -1,0 +1,1 @@
+ URL : "https://github.com/json-schema-org/json-schema-spec/issues/311" TITLE : type: integer problem BODY : section 5.26 http://json-schema.org/latest/json-schema-validation.html rfc.section.5.26 of the validation spec has an example using type : integer which should presumably be type : number .

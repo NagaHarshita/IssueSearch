@@ -1,0 +1,1 @@
+ URL : "https://github.com/khlieng/dispatch/issues/8" TITLE : mobile: blank ui BODY : when accessing a dispatch instance via mobile safari ios you just get a blank page.

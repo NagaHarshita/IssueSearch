@@ -1,0 +1,1 @@
+ URL : "https://github.com/mvdwg/ember-cli-updater/issues/7" TITLE : show available versions BODY : show somehow when showing command help? the available versions of ember-cli based on the current version of the addon/app. only show newer versions and _dim_ the alpha/beta versions. show a happy message when the user is using the latest one.

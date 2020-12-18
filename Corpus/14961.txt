@@ -1,0 +1,1 @@
+ URL : "https://github.com/kekeh/mydatepicker/issues/136" TITLE : clear date picker BODY : solution porposed in 134 is not helping my cause, i want to clear the date picker on click of a different button having it's own implementation setting the variable binded to seldate of type imdate object to null inside that different button implementation is not helping thanks in advance

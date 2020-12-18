@@ -1,0 +1,1 @@
+ URL : "https://github.com/netblue30/firejail/issues/1603" TITLE : allow nesting of sandboxes BODY : i believe that we should be able to nest sandboxes. this could allow sandbox of more lower programs

@@ -1,0 +1,1 @@
+ URL : "https://github.com/White-Tiger/T-Clock/issues/109" TITLE : numeric day of week BODY : we have work week with the wu and similar format string. allowing ww33 wed using wwwu ddd . i would like to request an enhancement to add the numeric day of week to create ww33.3 . love this clock over all. thank you.

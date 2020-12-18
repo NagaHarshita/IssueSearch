@@ -1,0 +1,1 @@
+ URL : "https://github.com/grnet/flowspy/issues/14" TITLE : support port ranges BODY : the user should be able to specify a port range instead of single ports when adding rules. any discussion / implementation details will be mentioned here.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/nkolban/ESP32_Explorer/issues/21" TITLE : time since boot BODY : how it is possible that time which is in milliseconds is displayed in microseconds? last 3 digits should be 0 and only 0. free heap memory: 123932 time: 485.793623 esp idf version: v3.0-dev-1248-g7e8c2a9 cores: 2 revision: 0

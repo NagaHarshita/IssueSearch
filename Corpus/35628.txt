@@ -1,0 +1,1 @@
+ URL : "https://github.com/indieamy/colmar-academy-/issues/2" TITLE : error. absolute path BODY : https://github.com/indieamy/colmar-academy-/blob/master/index.html l30-l32 these are absolute paths, which in this case means you're looking in the wrong place, you want a relative path, ./images/image-name.jpg http://www.coffeecup.com/help/articles/absolute-vs-relative-pathslinks/

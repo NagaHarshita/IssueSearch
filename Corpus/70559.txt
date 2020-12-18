@@ -1,0 +1,1 @@
+ URL : "https://github.com/tencentyun/cos-python-sdk-v4/issues/42" TITLE : why max_num is only 199 BODY : i change the cos_request.py -listfolderrequest def __init__ self, bucket_name, cos_path, num=10000, prefix=u'', context=u'' you can see ,i changed num = 10000 then {u'message': u'error_cgi_param_list_num_error', u'code': -5966, u'request_id': u''}

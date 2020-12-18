@@ -1,0 +1,1 @@
+ URL : "https://github.com/glimsil/effective-waddle/issues/4" TITLE : 4 add menu with tool bar BODY : na classe que representa a apresentação, inclua um menu e uma barra de ferramentas, com os itens file | new..., file | exit e help | about.

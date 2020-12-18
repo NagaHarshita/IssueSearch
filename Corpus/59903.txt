@@ -1,0 +1,1 @@
+ URL : "https://github.com/PhilCowart/raingauge/issues/8" TITLE : validate phone numbers BODY : when user adds a phone number, they need to verify it with a 6 digit code before it becomes active.

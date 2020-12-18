@@ -1,0 +1,1 @@
+ URL : "https://github.com/olikraus/u8g2/issues/286" TITLE : reduce data size BODY : is there a way to reduce this library size by dropping fonts i don't use ?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Rust-Mikrocontroller-Praktikum-2017/sd-card-party/issues/1" TITLE : specify/model dma hal api BODY : specify and model an api that suits the purpose of the dma hal and makes all relevant features easily accessible.

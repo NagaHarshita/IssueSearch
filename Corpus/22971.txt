@@ -1,0 +1,1 @@
+ URL : "https://github.com/viliampucik/nepi-jano/issues/21" TITLE : nepi jano - chrome BODY : when installing an add-in to chrome, it installs it, but when it starts again chrome will block it with the add-on not from google.

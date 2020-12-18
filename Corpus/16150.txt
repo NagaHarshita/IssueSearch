@@ -1,0 +1,1 @@
+ URL : "https://github.com/360EntSecGroup-Skylar/excelize/issues/83" TITLE : how to copy rows? BODY : hi! i am using pre-created .xlsx file as a report template. sometimes i need repeat set of rows. would be nice to have a method what can receive startrow, endrow and by able insert that row before nrow. what do you think? is it possible now? thx regards, robert

@@ -1,0 +1,1 @@
+ URL : "https://github.com/bit-docs/website/issues/6" TITLE : add contribution guide BODY : the contribution guide should have the same structure as the donejs contribution guide https://donejs.com/contributing.html . it shouldn’t copy all of the content, rather point to that guide where appropriate and have bit-docs -specific content.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/kebernet/shortyz/issues/77" TITLE : zoom at start BODY : the zoom at startup zooms before the google keyboard is loaded, so it zooms to full screen instead of the visible area after the keyboard is loaded.

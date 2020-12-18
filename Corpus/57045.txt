@@ -1,0 +1,1 @@
+ URL : "https://github.com/marxsk/zobro2/issues/7" TITLE : permissions on android BODY : the application is requesting permissions for everything when it is loaded. it should ask for permissions only when they are needed.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/maraf/Money/issues/31" TITLE : caching summary state BODY : when selecting an item from main menu, there is no need for pocesing a whole navigation.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/pleerock/class-transformer/issues/90" TITLE : support for string enums BODY : string enums are now supported in typescript since v2.4 . are there any plans that this will be supported?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/dgraph-io/dgraph4j/issues/19" TITLE : update to grpc-java 1.7.0 BODY : here's what's changed since grpc-java 1.2.0 the current dependency version to 1.7.0: https://github.com/grpc/grpc-java/releases

@@ -1,0 +1,1 @@
+ URL : "https://github.com/hyperic/sigar/issues/99" TITLE : macos make error BODY : ./autogen.sh && make && make install no targets specified and no makefile found. stop. how issues?

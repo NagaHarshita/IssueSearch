@@ -1,0 +1,1 @@
+ URL : "https://github.com/FaradayRF/Faraday-Software/issues/59" TITLE : sanitize user input BODY : this is present in most places but we should sanitize user input. i realized this when i could program a default gps location onto faraday with an extra number and it caused erroneous operation. things like this. everywhere.

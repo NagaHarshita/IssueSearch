@@ -1,0 +1,1 @@
+ URL : "https://github.com/shehzan10/arrayfire-windows-scripts/issues/9" TITLE : dependencies for vs 2015 BODY : could you update the link for the dependencies package? the current version of af doesnt build with vs2013, the ci builds are done using vs2015 with updated dependencies. thank you

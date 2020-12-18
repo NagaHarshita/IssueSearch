@@ -1,0 +1,1 @@
+ URL : "https://github.com/chrislusf/seaweedfs/issues/525" TITLE : leader election problem BODY : hi, when i start 3 master server, one of them is elected as a leader. if i kill two of them including leader, the last master server cannot elect itself as a leader. master server is alive but there is no leader, so volume servers cannot connect to master server.

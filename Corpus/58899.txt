@@ -1,0 +1,1 @@
+ URL : "https://github.com/netheril96/StaticJSON/issues/26" TITLE : support for std::array BODY : please can you confirm if it is possible to add support for std::array. it should have same semantics to iterator the list. e.g. std::vector, std::list etc

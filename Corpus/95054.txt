@@ -1,0 +1,1 @@
+ URL : "https://github.com/ericnorris/striptags/issues/23" TITLE : convert argument to string BODY : thank you for the great product! one small issue: coffee striptags = require 'striptags' console.log striptags 890 an empty string will be outputed. to solve it: console.log striptags string 890 - would be nice if it does inside library.

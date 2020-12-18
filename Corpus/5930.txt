@@ -1,0 +1,1 @@
+ URL : "https://github.com/ablanleuil/SHAUN/issues/4" TITLE : trucs à faire BODY : moins de raw pointers moins de conflits entre les namespace shaun et std getdefault pour retourner une valeur par défaut si le champ n'existe pas pas d'exception

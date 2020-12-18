@@ -1,0 +1,1 @@
+ URL : "https://github.com/pnalexander/refab_v2/issues/19" TITLE : admin login cookie BODY : currently all admin info is set in session variables upon login. change this to an array within a cookie. this cookie should expire in 30 days or when the admin logs out, whichever happens first.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/EddyVerbruggen/nativescript-bluetooth/issues/38" TITLE : device not detected BODY : when i try to run the demo app in my phone redmi note 3 android version 6.0.1 , i am not able to detect any other device, provided both the location and bluetooth are enabled in all the devices. kindly help.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/quicklisp/quicklisp-projects/issues/1255" TITLE : please add cl-httpsqs BODY : cl-httpsqs is a client library for common lisp, to interact with the httpsqs, which is a simple message queue service. this lib wraps most apis provided by httpsqs. it's useful when a program written in common lisp needs a message queue for decoupling or other simple usages

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jorotenev/restart_heroku_dyno/issues/1" TITLE : email on fail BODY : it should be possible to send an email if the api request to restart the dyno fails.

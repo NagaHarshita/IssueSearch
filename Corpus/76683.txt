@@ -1,0 +1,1 @@
+ URL : "https://github.com/mattupstate/flask-security/issues/680" TITLE : loginform. striping data BODY : flask_security/forms.py:230 loginform.validate : ... ... self.user = _datastore.get_user self.email.data ... ... i replace it to self.user = _datastore.get_user self.email.data. strip

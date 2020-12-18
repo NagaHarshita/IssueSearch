@@ -1,0 +1,1 @@
+ URL : "https://github.com/uob-spe-1617-namenotfound/IOTPlatform/issues/66" TITLE : fix set_attributes methods BODY : why does motionsensor have a method set_attributes but thermostat set_device_attributes. choose one approach and be consistent.

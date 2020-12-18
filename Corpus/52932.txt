@@ -1,0 +1,1 @@
+ URL : "https://github.com/mxe/mxe/issues/1924" TITLE : cross-compile gnu make BODY : from https://github.com/mxe/mxe/tree/master/plugins/examples/host-toolchain make: > make is difficult to cross-compile so it is downloaded from the source recommended by the gnu make team https://git.savannah.gnu.org/cgit/make.git/tree/readme.w32.template we really should build this ourselves;

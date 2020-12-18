@@ -1,0 +1,1 @@
+ URL : "https://github.com/tefra/navgoco/issues/41" TITLE : checkbox doesn't work BODY : i added a checkbox like the following code. but it doesn't work. when i click the checkbox and it never check. <li><a><input type= checkbox id= test /> setting up the adt bundle</a></li>

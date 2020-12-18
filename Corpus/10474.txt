@@ -1,0 +1,1 @@
+ URL : "https://github.com/BlueLightJapan/BlueLight/issues/217" TITLE : class not found! BODY : pocketmine-mp-derivedversion crash dump sat apr 8 16:17:31 edt 2017 error: class pocketmine\utils\range not found file: /src/spl/baseclassloader line: 144 type: notice

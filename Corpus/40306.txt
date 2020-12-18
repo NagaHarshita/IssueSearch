@@ -1,0 +1,1 @@
+ URL : "https://github.com/istio/manager/issues/62" TITLE : tracking udp support BODY : proxy manager should be in charge of routing udp traffic. there are many pieces needed for this to work: envoy udp routing support ip tables rules to trap udp traffic code to handle udp protocol in the manager services model

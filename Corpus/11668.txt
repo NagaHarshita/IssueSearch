@@ -1,0 +1,1 @@
+ URL : "https://github.com/tenbergen/Airborne-CPS/issues/6" TITLE : ip address range BODY : tcas gets no altitude data when ip address is out of range. over 100 does not seem to work and lower numbers may not as well.

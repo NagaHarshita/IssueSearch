@@ -1,0 +1,1 @@
+ URL : "https://github.com/KiCad/kicad-symbols/issues/29" TITLE : issues with dsp libraries BODY : see https://github.com/kicad/kicad-symbols/pull/9 issuecomment-349467054: missing or wrong default footprints, broken fpfilters, etc.

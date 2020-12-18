@@ -1,0 +1,1 @@
+ URL : "https://github.com/klevu/productsearch/issues/9" TITLE : too late for the schedule BODY : hello, we set europe/stockholm in both php configuration as well as in server system tzdata setup. however the cron klevu_search_product_sync is schedule with 1h in advanced always and is receiving all the time the message too late for the schedule .

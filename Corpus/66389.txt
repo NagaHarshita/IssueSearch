@@ -1,0 +1,1 @@
+ URL : "https://github.com/contiki-os/contiki/issues/2341" TITLE : mobility in contiki 3.0 BODY : hi, i have tried the mobility plugin on contiki 2.7 and it is successful. however, when i use it for contiki 3.0, it does not work. can anyone advise how to implement the mobility plugin in contiki 3.0? regards,

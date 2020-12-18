@@ -1,0 +1,1 @@
+ URL : "https://github.com/xmrig/xmrig/issues/84" TITLE : low hash rate? BODY : hello, i am using xmrig with amd fx-8350. sadly i am getting a hash rate of only 90 h/s on the 64 bit variant and 40 h/s on the 32 bit variant. using 6 out 8 threads. anyone has any idea why?

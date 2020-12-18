@@ -1,0 +1,1 @@
+ URL : "https://github.com/thieman/dagobah/issues/183" TITLE : is it distributed? BODY : can it run jobs on different machines? if yes, where is the data stored? some remotely accessed database? or filesystem?

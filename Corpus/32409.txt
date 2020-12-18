@@ -1,0 +1,1 @@
+ URL : "https://github.com/dkd/php-cmis-client/issues/32" TITLE : upgrade to guzzle 6 BODY : new typo3 and drupal versions require guzzle 6. we are still using guzzle 5 which needs to be upgraded.

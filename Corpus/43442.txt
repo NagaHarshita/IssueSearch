@@ -1,0 +1,1 @@
+ URL : "https://github.com/Clearsight-github/DictionaryWithTime/issues/8" TITLE : create executable jar BODY : configure maven so that mvn package creates an executable jar one that has a manifest pointing to your main class: https://maven.apache.org/shared/maven-archiver/examples/classpath.html make

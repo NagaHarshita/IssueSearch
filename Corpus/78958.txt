@@ -1,0 +1,4 @@
+ URL : "https://github.com/canonical-ols/build.snapcraft.io/issues/409" TITLE : repository state caching BODY : at the moment we query the github api for repository data on every request. this prevents us from having stateful interfaces, and storing data on the presence of snapcraft.yaml files. cjwatson suggested caching this information in memcached as a basic first-step in making the application stateful. comments: @katie_fenn is this still relevant? ---
+creator: robin winslow
+assignees: copied from trello card: https://trello.com/c/rzqp8vtu/87-repository-state-caching
+labels: question,copy to github

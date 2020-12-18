@@ -1,0 +1,1 @@
+ URL : "https://github.com/bsavery/PRMan-for-Blender/issues/495" TITLE : multiple uv maps BODY : i have spent hours 20 minutes scouring the vast reaches of the internet using google in an attempt to find a way to take advantage of blender's multiple uv maps system or st maps? . is it possible to use two different uv maps in the same shader? if so how?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/iiab/iiab-admin-console/issues/37" TITLE : remove xsce legacy BODY : xsce_base is no longer needed probably cmsrv/tasks/packages is not needed

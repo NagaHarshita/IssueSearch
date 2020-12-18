@@ -1,0 +1,1 @@
+ URL : "https://github.com/graphcool/console/issues/543" TITLE : meta regression bugs BODY : enable delete permission: 465 422 query variables are lost: 498 523 json escaping: 528

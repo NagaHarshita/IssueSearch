@@ -1,0 +1,1 @@
+ URL : "https://github.com/jscraft-org/mentoring-project-4/issues/21" TITLE : changes to database.js BODY : rename db_host to url remove else { console.log success }

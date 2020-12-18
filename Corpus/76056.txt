@@ -1,0 +1,1 @@
+ URL : "https://github.com/firebirdberlin/nightdream/issues/61" TITLE : include the roboto fonts BODY : on some devices e.g. samsung s5 mini, android 6 the roboto thin font is not available. as a solution the fonts needs to be packaged within the apk.

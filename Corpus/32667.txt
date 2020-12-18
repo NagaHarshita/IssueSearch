@@ -1,0 +1,1 @@
+ URL : "https://github.com/NCAR/rwrfhydro/issues/85" TITLE : water year function BODY : create a function to calculate water year and remove instances of manual water year calculation

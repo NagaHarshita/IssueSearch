@@ -1,0 +1,1 @@
+ URL : "https://github.com/LiskHQ/lisk/issues/649" TITLE : inconsistent undo logic BODY : the line listed below should be revised to match other logic https://github.com/liskhq/lisk/blob/development/logic/transaction.js l772 this line here has the correct logic: https://github.com/liskhq/lisk/blob/development/logic/transaction.js l855

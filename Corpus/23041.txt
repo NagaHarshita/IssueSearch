@@ -1,0 +1,1 @@
+ URL : "https://github.com/jitsi/jitsi/issues/401" TITLE : nginx install fail BODY : i got an error about my nginx and i fixed it but it still didn t work so i uninstalled it but whenever i try to install it is says that it s already installed but i can t see what path and the webserver isn t running either

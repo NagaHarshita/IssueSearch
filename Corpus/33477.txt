@@ -1,0 +1,1 @@
+ URL : "https://github.com/unfetter-analytic/unfetter/issues/16" TITLE : add red team testing BODY : look at https://github.com/redcanaryco/atomic-red-team or something similar to build red team executions into the windows test systems

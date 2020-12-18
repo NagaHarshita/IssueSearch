@@ -1,0 +1,1 @@
+ URL : "https://github.com/hackern0v1c3/MacMon/issues/7" TITLE : clean up logging BODY : i'm using console.log all over the place. that needs to go.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jennminerva/iamnobird/issues/33" TITLE : clean up portrait images BODY : - better titles to give them context if just looking at the _img dir - consistently ending in .jpg - optimize their file size for web

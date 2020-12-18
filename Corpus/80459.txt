@@ -1,0 +1,1 @@
+ URL : "https://github.com/lucasfogliarini/gonet/issues/2" TITLE : trycatch para authorize. BODY : mudar a assinatura do método: de: trycatch para: authorize, ou algo do tipo. https://github.com/lucasfogliarini/gonet/blob/dev/authentication/authorizationservice.cs l24

@@ -1,0 +1,1 @@
+ URL : "https://github.com/vmware/clarity-seed/issues/65" TITLE : how to test clr-modal? BODY : please add a jasmine test in about.component.spec.ts that demonstrates how to test a clarity modal.

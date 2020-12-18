@@ -1,0 +1,1 @@
+ URL : "https://github.com/exyte/Macaw/issues/170" TITLE : parse style css BODY : support text/css style type in svg parser/renderer/serializer, for example: <style type= text/css > .mystyle{fill:none;stroke: 000000;stroke-width:1.5;stroke-miterlimit:10;} </style> rect class= mystyle x= 48.2 y= 54 class= st0 width= 16.8 height= 91.8 />

@@ -1,0 +1,1 @@
+ URL : "https://github.com/oliverlee/phobos/issues/203" TITLE : add imu class BODY : imu communicates via spi and is on the same bus as the absolute encoders.

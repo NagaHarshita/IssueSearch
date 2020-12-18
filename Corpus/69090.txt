@@ -1,0 +1,1 @@
+ URL : "https://github.com/jdhorne/pycarwings2/issues/11" TITLE : stop charging remotely? BODY : do you know if it's possible to stop charging remotely? i.e., add a stop_charging call to the api. would be useful e.g., to charge to 80% via the library.

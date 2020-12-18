@@ -1,0 +1,1 @@
+ URL : "https://github.com/cayleygraph/cayley/issues/656" TITLE : google datastore backend BODY : we support gae for quite some time now, but it was not updated since v0.5 and lacks most new features. since 652 is nearly done it makes sense to port gae to it. this should will minimize maintenance effort in the future.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Linkurious/documentation/issues/6" TITLE : bad json in admin examples BODY : json given in example are not well-formed, e.g. geographic tiles in the admin doc. ! image https://cloud.githubusercontent.com/assets/177962/21996813/48b81b7a-dc2c-11e6-8815-16bf474147e4.png

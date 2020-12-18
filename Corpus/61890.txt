@@ -1,0 +1,1 @@
+ URL : "https://github.com/bpmn-io/dmn-js/issues/261" TITLE : build tabbing prototype BODY : create a prototype that show cases editor tab switching and updating: update available views on drgelement creation and removal be able to switch between views _consistent_ dirty state tracking?

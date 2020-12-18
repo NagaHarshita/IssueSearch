@@ -1,0 +1,1 @@
+ URL : "https://github.com/jugg1024/Text-Detection-with-FRCN/issues/7" TITLE : cpu only train BODY : i'm trying to run the model on cpu mode , why i run make on libs i got the error : environmenterror: the nvcc binary could not be located in your $path. either add it to your path, or set $cudahome

@@ -1,0 +1,1 @@
+ URL : "https://github.com/FreeOpcUa/python-opcua/issues/433" TITLE : client alarm receive BODY : hello, all. i know that pythonopcua can not implement the alarm function of the server yet. if i have an opc ua server with an alarm function implemented, can i receive alarms via the pythonopcua client? i am wondering if pythonopcua has implemented the function to receive alarms.

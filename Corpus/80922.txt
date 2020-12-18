@@ -1,0 +1,1 @@
+ URL : "https://github.com/mattheworr/ExTransSQL/issues/6" TITLE : user adds reference data BODY : user should be able to add an overview paragraph then a description of each column's data. 3 row examples should be randomly selected to add to the reference data. everything will be saved as a .txt file.

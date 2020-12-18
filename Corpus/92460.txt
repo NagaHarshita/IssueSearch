@@ -1,0 +1,1 @@
+ URL : "https://github.com/cwru-hvz-core/cwru-hvz-source/issues/102" TITLE : write site status monitor BODY : right now, we have no way of knowing if the site goes down. i'd like to write a simple utility that runs either on our vm or somewhere else and sends us an email if the site is unreachable or returns a 502.

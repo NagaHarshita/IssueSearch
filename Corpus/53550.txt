@@ -1,0 +1,1 @@
+ URL : "https://github.com/artsoftecos/SCB-BACK/issues/14" TITLE : editar por segunda vez BODY : se ve en: editar fase.. probablemente editar conv al editar la fase, la info se guarda bn, pero si le vuelvo a editar, me muestra el objeto anterior.. como si no hubioera editado. se debe refrescar el objeto para que tenga el nuevo objeto.. tal vez un onchanges.

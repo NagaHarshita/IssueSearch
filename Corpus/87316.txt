@@ -1,0 +1,3 @@
+ URL : "https://github.com/mpreiner/bugzilla_migration_test/issues/453" TITLE : kind metadata bugzilla 56 BODY : imported from bugzilla reporter: morgan deters status: resolved severity: enhancement assigned to: morgan deters component: {internals} expression package milestone: --- version: master platform: pc os: linux on 2010-03-11 13:56:10 -0800, morgan deters wrote:
+> mkkind should support the ability to specify things like \ permitted children for automatic assertions. on 2010-03-30 23:56:18 -0700, morgan deters wrote:
+> done as of revision 351.

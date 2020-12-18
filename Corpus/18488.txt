@@ -1,0 +1,1 @@
+ URL : "https://github.com/kaliber-scala/GitHubRawFileProxy/issues/2" TITLE : tests are failing BODY : run 'sbt test' and you will see failing tests

@@ -1,0 +1,1 @@
+ URL : "https://github.com/thinkshout/mailchimp-api-php/issues/57" TITLE : lists null intermittently BODY : when i run this code locally, most of the time i get null in $mylists but sometimes i get the lists $list = new mailchimp\mailchimplists $key ; $mylists = $list->getlists 'count'=>30 ;

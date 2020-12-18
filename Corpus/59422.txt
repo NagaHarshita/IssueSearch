@@ -1,0 +1,1 @@
+ URL : "https://github.com/ecliptic/wepback-blocks-copy/issues/1" TITLE : typo in repo name 😉 BODY : the easter bunny left some easter eggs to find... 🐰 ecliptic/wepback-blocks-copy => ecliptic/webpack-blocks-copy the github repo link in the package.json is correct, though.

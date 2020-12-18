@@ -1,0 +1,1 @@
+ URL : "https://github.com/deepgram/kur/issues/70" TITLE : dataset file checksum fail BODY : md5 checksum is failing on all four dataset files. ganga$md5 lsc100-10p-train.tar.gz md5 lsc100-10p-train.tar.gz = 16139ef9fc3c58035ee225fc22eb95be

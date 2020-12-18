@@ -1,0 +1,1 @@
+ URL : "https://github.com/anguyen27/prj-rev-bwfs-dasmoto/issues/1" TITLE : html special chars BODY : check out this article that explains why you need to care about using special characters in html: http://text-symbols.com/html/encode/ https://github.com/anguyen27/prj-rev-bwfs-dasmoto/blob/master/project1/index.html l9 the ampersand should be written as: &amp;

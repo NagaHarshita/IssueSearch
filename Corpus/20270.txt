@@ -1,0 +1,1 @@
+ URL : "https://github.com/yanghuan/CSharp.lua/issues/10" TITLE : can't convert enum BODY : public enum side_type { self = 0, partner = 1, self_team = 2, enemy_team = 3, all = 4 }

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mattgodbolt/compiler-explorer/issues/689" TITLE : update the arm gcc to 7 BODY : hi! the arm-none-eabi-gcc 7.2.1 was just release on https://launchpad.net/gcc-arm-embedded would it be possible to add the updated compiler to try c++17 features on embedded? current version is 6.3.0. thanks!

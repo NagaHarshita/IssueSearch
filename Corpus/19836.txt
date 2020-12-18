@@ -1,0 +1,1 @@
+ URL : "https://github.com/marverenic/Jockey/issues/286" TITLE : album covers cache BODY : after clearing app cache album covers are blank in the album tab and on album pages. they show up fine on the now playing screen. refreshing the library doesn't help. i opened another music app, scrolled through all albums and that solved it.

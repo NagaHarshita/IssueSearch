@@ -1,0 +1,1 @@
+ URL : "https://github.com/grailbio/rules_r/issues/8" TITLE : create an r_binary rule BODY : rule analogous to sh_binary but for the rscript interpreter. will have attributes srcs, data and r_pkg_deps.

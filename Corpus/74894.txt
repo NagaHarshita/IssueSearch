@@ -1,0 +1,1 @@
+ URL : "https://github.com/klpdotorg/tada-frontend/issues/194" TITLE : fix position of nav tree BODY : the nav tree on the left is positioned absolutely and doesn't scroll with the contents of the browser.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/cassandrale179/graderank/issues/11" TITLE : width css problem BODY : when resize screen, there are white gaps on the right hand side since width is hard-coded into the stylesheet. need to have width automatically resize according to user's screen.

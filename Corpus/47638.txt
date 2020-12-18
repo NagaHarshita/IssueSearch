@@ -1,0 +1,1 @@
+ URL : "https://github.com/liminaab/modelizor/issues/4" TITLE : prefix to model names BODY : would be nice to be able to add prefix to model names when database naming convention differs from the model ones e.g. for hibernate projects where model names should start with jpa

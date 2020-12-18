@@ -1,0 +1,1 @@
+ URL : "https://github.com/quchen/prettyprinter/issues/33" TITLE : add printf support BODY : text.printf would be a nice addition to the prettyprinter toolbox. the documentation makes it look fairly simple to implement this: https://hackage.haskell.org/package/base-4.9.1.0/docs/text-printf.html g:2

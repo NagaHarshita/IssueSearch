@@ -1,0 +1,6 @@
+ URL : "https://github.com/Raheem-ai/dashboard-rails/issues/8" TITLE : draft api spec BODY : ~~~~
+get /search location: string city, st race_id: int gender_id: int age: string int range incident_type_id: int
+returns: { incident_report: { incident_report_id: int city: city, st , city_population: int, incident_count: int, positive_incident_count: int, negative_incident_count: int, incidents: latitude: float longitude: float rating: int incident_type: { incident_type_id: int, name: string } incident_id: int } } get /incident id
+returns: whatever is not included in short-form incidents that we want to show possible enhancements: get /cities
+to populate list of cities for chatbot/autocomplete
+~~~~

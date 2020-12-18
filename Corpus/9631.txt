@@ -1,0 +1,1 @@
+ URL : "https://github.com/io-developer/js-resizable/issues/1" TITLE : a typo in readme BODY : there is a typo in the example inside readme.md : > user-select': none; ' should be removed.

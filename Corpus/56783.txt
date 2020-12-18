@@ -1,0 +1,1 @@
+ URL : "https://github.com/Themekraft/wc4bp/issues/57" TITLE : old redirect is broken BODY : if the plugin is activated and you visit the old my-account pages it not redirects you to the profile! for example: domain.com/my-account should be redirected to my profile if i'm logged in. it was working in the older versions but is broken for all my account pages in the 3.0 version

@@ -1,0 +1,1 @@
+ URL : "https://github.com/TeamPneumatic/pnc-repressurized/issues/75" TITLE : block orientation bug BODY : 1.12.2 14.23.1.2559 0.2.0-85 when i place a heat sink on the bottom of a block the orientation of this is not correct ! 2017-12-12_18 10 59 https://user-images.githubusercontent.com/10050172/33898348-6c2d12d2-df68-11e7-94c7-6138d47772f5.png

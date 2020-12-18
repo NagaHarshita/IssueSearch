@@ -1,0 +1,1 @@
+ URL : "https://github.com/linuxmuster/linuxmuster-webui/issues/7" TITLE : single-sign-on for webui BODY : if there are no security concerns it would be nice if you don't have to login to the webui after logging in to a computer. so after logging in on a computer and you open the webui, you are automatically logged in.

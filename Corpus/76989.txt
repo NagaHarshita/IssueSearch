@@ -1,0 +1,1 @@
+ URL : "https://github.com/mwitkow/grpc-proxy/issues/13" TITLE : middleware in grpc_proxy BODY : hi, i hava used github.com/grpc-ecosystem/go-grpc-middleware in mysql grpc-server，it's very good，when i want to use grpc_proxy，how can i add github.com/grpc-ecosystem/go-grpc-middleware to grpc_proxy. thank you very much.

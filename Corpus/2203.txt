@@ -1,0 +1,1 @@
+ URL : "https://github.com/mikron-ia/rpg-hub/issues/279" TITLE : use js files BODY : js code should not be inline in views; good practices suggest placing them in external assets loaded in the footers. this becomes increasingly important as amount of js code grows and registerjs does not offer syntax highlighting - which in turn makes writing ajax calls awkward.

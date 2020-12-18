@@ -1,0 +1,1 @@
+ URL : "https://github.com/material-foundation/material-roboto-font-loader-ios/issues/12" TITLE : fallback font for roboto BODY : roboto does not have characters for arabic languages. it seems that the fallback font used in this case does not care about the style used, i.e. when using medium font, it is displayed as regular font.

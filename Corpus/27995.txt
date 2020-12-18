@@ -1,0 +1,1 @@
+ URL : "https://github.com/BlueRidgeLabs/kimball/issues/108" TITLE : event: multi person BODY : convert v2:events so that they are multi-person. - remove some time slot validations - change where event info lives, from invitation to event - enable people to be added to an event - enable people to be removed from an event - tag events on create and update tags

@@ -1,0 +1,1 @@
+ URL : "https://github.com/euBusinessGraph/eubg-data/issues/1" TITLE : missing domain for l5, l6 BODY : @fsesintef, add this: ttl ebg:adminunitl5 schema:domainincludes ebg:lauregion; ebg:adminunitl6 schema:domainincludes ebg:lauregion;

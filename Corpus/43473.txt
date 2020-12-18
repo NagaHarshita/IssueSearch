@@ -1,0 +1,1 @@
+ URL : "https://github.com/CollectiveLearning/slack-clone/issues/3" TITLE : create messages model BODY : message - attributes --- | column | type | attribute | |------------|-----------|------------| | content | string | | | type | string | presence | | user_id | integer | presence | | channel_id | integer | presence | - relations - belongs to - user - channel

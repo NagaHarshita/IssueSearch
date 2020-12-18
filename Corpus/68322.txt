@@ -1,0 +1,1 @@
+ URL : "https://github.com/fabric8-analytics/gremlin-docker/issues/9" TITLE : resulting image is huge BODY : the resulting image is huge ~2.7gb due to layers that are present. even though there is a clean up done at the end in the dockerfile, note that all files are present in the layers where they were introduced/downloaded.

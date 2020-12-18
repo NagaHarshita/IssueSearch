@@ -1,0 +1,1 @@
+ URL : "https://github.com/elm-tools/parser/issues/28" TITLE : parsing two ints fails BODY : my code: elm > parser = parser.succeed , |= parser.int |. parser.symbol x |= parser.int > parser.run parser 1x1 expected output: elm 1, 1 : int, int actual ouput: elm err { row = 1, col = 2, source = 1x1 , problem = badint, context = } : result.result parser.error int, int

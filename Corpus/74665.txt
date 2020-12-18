@@ -1,0 +1,1 @@
+ URL : "https://github.com/backdrop-contrib/similar/issues/1" TITLE : fatal error on cron runs BODY : fatal error: call to undefined function config_clear in backdrop/modules/contrib/similar/similar.module on line 63

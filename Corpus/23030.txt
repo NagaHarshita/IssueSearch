@@ -1,0 +1,1 @@
+ URL : "https://github.com/datasert/datasert/issues/4" TITLE : newer api versions BODY : i see the list of api versions to choose from but they end at 28, is there a way to allow newer versions? specifically i am attempting to query an sobject and getting an error... select ... from fielddefinition where entitydefinition.qualifiedapiname = 'account'

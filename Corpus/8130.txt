@@ -1,0 +1,1 @@
+ URL : "https://github.com/InternetProject/Thing1/issues/56" TITLE : my profile page BODY : my profile page could use a few enhancements: - ability to change profile used to exist under my account link - maybe not hard coding the class years/programs? this will require yearly updates to the actual source code, which will be hard to maintain over time.

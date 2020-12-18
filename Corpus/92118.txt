@@ -1,0 +1,1 @@
+ URL : "https://github.com/mrmlnc/vscode-apache/issues/2" TITLE : value options highlighted BODY : options gets highlighted when used as a value in header set x-content-type-options nosniff ! apache_conf_wrong_options_highlight https://cloud.githubusercontent.com/assets/1234522/22885721/f557f146-f1fa-11e6-9430-4016a1ca3fb4.png plugin 1.1.0, vscode 1.9.1

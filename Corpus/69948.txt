@@ -1,0 +1,1 @@
+ URL : "https://github.com/CostaPrimo/RaidBot/issues/2" TITLE : unstable remove command BODY : command remove needs revision. -upon removal of a person all people listed after that person needs a notification that their number has gone down by 1. -potential crash when trying to remove a person from an undefined position

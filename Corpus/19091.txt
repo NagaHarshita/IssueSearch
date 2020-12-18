@@ -1,0 +1,1 @@
+ URL : "https://github.com/adamyaxley/Pineapple/issues/14" TITLE : windows x64 build BODY : - fix warnings in x64 - link with x64 third party libraries - add win64 ci build - add instructions for building on main page

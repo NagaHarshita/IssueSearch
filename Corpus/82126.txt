@@ -1,0 +1,1 @@
+ URL : "https://github.com/blakeoxx/MosaicMaker/issues/4" TITLE : add google images support BODY : when collecting subimages for the mosaic, the program uses tineye, which has a limited image library. the end user may want a larger image library, such as one provided by google images. add the option to use either of these search engines.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/dc-js/dc.graph.js/issues/70" TITLE : support focus in edge BODY : the .focus method is not available for anchor elements in svg on edge. however, there is a workaround: https://allyjs.io/tutorials/focusing-in-svg.html focusing-svg-elements

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Masterminds/glide/issues/751" TITLE : setting working directory BODY : there is no way to set the working directory. there needs to be a way to set working directory through a flag like other cli tools. i can work on this if this is not already in progress

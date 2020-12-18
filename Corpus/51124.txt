@@ -1,0 +1,1 @@
+ URL : "https://github.com/spyder-ide/spyder-plugin-cookiecutter/issues/12" TITLE : add scrutinizer config BODY : .scrutinizer.yml checks: python: code_rating: true duplicate_code: true filter: excluded_paths: - ' /tests/ ' - ' /external/ ' - ' /versioneer.py' - ' /{{ cookiecutter.repo_name }}/_version.py' https://scrutinizer-ci.com/docs/configuration

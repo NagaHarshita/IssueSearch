@@ -1,0 +1,1 @@
+ URL : "https://github.com/Arie/serveme/issues/30" TITLE : move to https BODY : ok really not critical due to the nature of the site, but its 2017 and we have letsencrypt https://letsencrypt.org/ for free certs nowadays.

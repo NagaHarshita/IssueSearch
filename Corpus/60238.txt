@@ -1,0 +1,1 @@
+ URL : "https://github.com/wireapp/bot-sdk-node/issues/14" TITLE : wrong media type: null BODY : i was experimenting with the echo text example. when running the dev bots command test bot <mybot> it returns the message wrong media type: null this can be fixed by adding a content type when returning data.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/thomsonreuters/CM-Well/issues/167" TITLE : play 2.6 upgrade BODY : we should try to upgrade + benchmark to see no perf regression since default backend is akka-http instead of netty. this will most likely to affect all stream apis hoping for perf improvements

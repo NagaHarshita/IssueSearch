@@ -1,0 +1,1 @@
+ URL : "https://github.com/scoopinstaller/versions/issues/21" TITLE : unable to install php 5.6 BODY : i am unable to install php 5.6. here is the output when running install command: shell $ scoop install php56 installing 'php56' 5.6.29 . the remote server returned an error: 404 not found.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/emsr/tr29124_test/issues/77" TITLE : crach in test_kelvin.cpp BODY : test_kelvin.cpp ed@bad-horse:~/tr29124_test$ ./test_kelvin > test_kelvin.txt terminate called after throwing an instance of 'std::runtime_error' what : _basicsum: bad term aborted core dumped

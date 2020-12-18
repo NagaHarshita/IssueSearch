@@ -1,0 +1,1 @@
+ URL : "https://github.com/Sengoku11/prj-rev-bwfs-dasmoto/issues/2" TITLE : img tag self close BODY : you don't need the </img> because image tags are self closing. same with link tags. https://github.com/sengoku11/prj-rev-bwfs-dasmoto/blob/master/dasmotosarts/index.html l14

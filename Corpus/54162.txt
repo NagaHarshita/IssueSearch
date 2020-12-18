@@ -1,0 +1,1 @@
+ URL : "https://github.com/BartBucknill/interstellar-soulmates-b/issues/2" TITLE : fix authorisation bugs BODY : currently 401s occur occasionally for no obvious reason; this may be due to the use of the development only memory store with express-session. look into changing this to a production grade solution.

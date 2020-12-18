@@ -1,0 +1,1 @@
+ URL : "https://github.com/trolldbois/ctypeslib/issues/31" TITLE : pdb parsing refresh BODY : can llvm-pdbutil be used to do a pdb-> yaml -> python ? https://github.com/llvm-mirror/llvm/blob/master/tools/llvm-pdbutil/yamloutputstyle.cpp

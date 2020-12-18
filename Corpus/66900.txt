@@ -1,0 +1,1 @@
+ URL : "https://github.com/pycurl/pycurl/issues/460" TITLE : not support https proxy BODY : c.setopt pycurl.proxy, 'https://www.xxx.com:xxx' error: 7, unsupported proxy scheme for 'https://www.xxx.com:xxx' http and socks5 was support

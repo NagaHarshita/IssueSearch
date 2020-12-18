@@ -1,0 +1,1 @@
+ URL : "https://github.com/djalmaaraujo/spotifube/issues/6" TITLE : implement matches text BODY : ! found https://user-images.githubusercontent.com/3402/33328914-2eb6a942-d453-11e7-8a62-16703d790a94.png we need to: - call the cli - look for the generated .txt file - read all the lines - count them and show like the image above

@@ -1,0 +1,1 @@
+ URL : "https://github.com/fnc12/sqlite_orm/issues/63" TITLE : vs2017 x86 build failed BODY : hello, i have the following errors when building sqlite_orm https://i.gyazo.com/95587fceec7f7af8269a1b3d6f8bc1e2.png sqlite_version 3.21.0

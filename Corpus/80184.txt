@@ -1,0 +1,1 @@
+ URL : "https://github.com/rbastic/dyndao/issues/91" TITLE : test latest mysql driver BODY : go-sql-driver/mysql has had a lot of changes. upgrade and test.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/MarvellousSoft/MarvInc/issues/81" TITLE : check code consistency BODY : when loading code for a puzzle from a file, check its consistency number of lines, maximum characters in line , to avoid errors when we change the line limit of something. the solution can be as simple as ignoring everything that doesn't fit

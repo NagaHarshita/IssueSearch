@@ -1,0 +1,1 @@
+ URL : "https://github.com/sashaouellet/SDMTools/issues/3" TITLE : auto check for updates BODY : currently the dialog menu shows the option, but the toolset doesn't actually perform the automatic check. this needs to be implemented on startup somehow without getting stuck behind the houdini splash screen.

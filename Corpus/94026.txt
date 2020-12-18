@@ -1,0 +1,1 @@
+ URL : "https://github.com/PathwayCommons/sbgnml-to-cytoscape/issues/4" TITLE : bbox data should be better BODY : bbox data is present in the sbgnml that the renderer uses to make the height/width of shapes. this should either be more accurate/documented/defined somewhere.

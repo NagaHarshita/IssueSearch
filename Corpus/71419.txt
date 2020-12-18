@@ -1,0 +1,1 @@
+ URL : "https://github.com/googlei18n/noto-source/issues/69" TITLE : add glyphsdata.xml files BODY : @marekjez86, mind uploading monotype’s custom glyphsdata.xml files to the noto sources? thanks to @punchcutter, fontmake can now take a command-line argument with a custom glyphsdata.xml file. see https://github.com/googlei18n/glyphslib/pull/150.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/cookpad/styleguide/issues/39" TITLE : python style guide BODY : we use python for machine learning and data mining a lot. i'd like to compile a style guide for python. some questions to python users: 1. do you depend on python 2 or can we make python 3 default? 1. do you use pep8 or similar linter? 1. what testing framework do you use?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ghubnz/ghubd/issues/1" TITLE : implement the monitor BODY : the hub should report the devices which don't send out the heartbeat properly.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/uwblueprint/help-lesotho/issues/41" TITLE : dockerize the app BODY : - easier to setup dev envs - helps set up a testing and prod envs - dockerize - documentation - knowledge transfer

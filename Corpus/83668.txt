@@ -1,0 +1,1 @@
+ URL : "https://github.com/google/python-fire/issues/37" TITLE : check pylintrc in travis. BODY : travis should catch and report lint errors.

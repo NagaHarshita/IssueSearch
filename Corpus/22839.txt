@@ -1,0 +1,1 @@
+ URL : "https://github.com/kaitai-io/kaitai_struct_cpp_stl_runtime/issues/13" TITLE : modern c++ support BODY : hi! is there any plan to support c++14 and/or c++17? probably as cpp14_stl and cpp17_stl runtimes? c++ supports optionals and other useful things now.

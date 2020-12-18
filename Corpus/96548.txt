@@ -1,0 +1,1 @@
+ URL : "https://github.com/WikiWatershed/rapid-watershed-delineation/issues/71" TITLE : expose unsimplified result BODY : provide a way for users to get the unsimplified geojson results. the mmw geoprocessing api would like to expose them.

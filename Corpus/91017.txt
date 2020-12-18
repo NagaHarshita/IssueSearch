@@ -1,0 +1,1 @@
+ URL : "https://github.com/codelibs/gitbucket-fess-plugin/issues/12" TITLE : support incremental crawl BODY : add apis to tell fess files that were updated after the last crawl

@@ -1,0 +1,1 @@
+ URL : "https://github.com/carldata/purescript-timeseries/issues/14" TITLE : prepare performance tests BODY : rename benchmarks to performance measure time taken by function add assert for functions executing to long? what about ci?

@@ -1,0 +1,3 @@
+ URL : "https://github.com/NSI-IT/AUG-DDMOBILE/issues/132" TITLE : milestone start reminder BODY : as a user i would like to receive milestone reminder so that i may be aware of its due date. - verify that notification should be sent to all members of the project. - verify that the notification is sent a day before the scheduled date that a milestone is due tomorrow.
+- verify that a notification is sent the moment a milestone is created.
+- verify that following details will be shared:- dear______________, a milestone is scheduled for <date>. milestone name: project name: company name: from and to date

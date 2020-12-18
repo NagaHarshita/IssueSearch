@@ -1,0 +1,1 @@
+ URL : "https://github.com/mars/create-react-app-buildpack/issues/26" TITLE : insert additional proxy BODY : it is possible to insert addional node.js proxy that will take the request and either forward to static webserver or do-other-specific-stuff? i tried to create procfile web: node ./proxy/server but it did not help me. any ideas? thanks in advance.

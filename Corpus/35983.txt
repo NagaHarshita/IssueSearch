@@ -1,0 +1,1 @@
+ URL : "https://github.com/ugnelis/tensorflow-rnn-ctc/issues/6" TITLE : fix travis ci config BODY : need to fix travis ci failed error. basically, .travis.yml is missing.

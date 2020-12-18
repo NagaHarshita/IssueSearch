@@ -1,0 +1,1 @@
+ URL : "https://github.com/cassinius/GraphiniusJS/issues/11" TITLE : negative cycle detection BODY : implement a graph method which checks for negative cycles 1. do a o |e| check for the presence of negative edges => if none exist, there can't be any neg.cycles. 2. in case a negative edge exists, run the bellman ford algorithm to check for neg.cycles.

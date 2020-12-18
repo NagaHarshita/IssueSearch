@@ -1,0 +1,1 @@
+ URL : "https://github.com/rauchg/chat-example/issues/32" TITLE : jquery src link BODY : <script src= http://code.jquery.com/jquery-1.11.1.js ></script> it should be served over https.

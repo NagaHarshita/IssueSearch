@@ -1,0 +1,1 @@
+ URL : "https://github.com/ericdesj/KRUSH/issues/42" TITLE : user account sign up BODY : a user, tutor and student, can sign in to the application. - create a view for sign up - have toggle for student or tutor - create form based on the db schema erd - add form validation

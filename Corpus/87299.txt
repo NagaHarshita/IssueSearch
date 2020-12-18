@@ -1,0 +1,1 @@
+ URL : "https://github.com/internetee/registry/issues/549" TITLE : keep track of sent emails BODY : - separate database api_log? - message body not needed - metadata to save: - time - recipient - ui in admin area do you think it's still needed to send mail-related logs to syslog once we have this ticket done?

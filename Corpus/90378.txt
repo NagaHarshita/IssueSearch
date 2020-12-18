@@ -1,0 +1,1 @@
+ URL : "https://github.com/liquidinvestigations/liquidinvestigations/issues/96" TITLE : set shell for liquid user BODY : the liquid system user is created without a shell entry in /etc/passwd .

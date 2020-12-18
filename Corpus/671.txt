@@ -1,0 +1,2 @@
+ URL : "https://github.com/WolfFire404/Plslwerk/issues/15" TITLE : dit is oud BODY : je hebt feedback gekregen van jherster op: c
+application.loadlevel destination ; url: https://github.com/wolffire404/plslwerk/blob/master/assets/scripts/menu.cs feedback: gebruik scenemanager.loadscene http://www.studiozoetekauw.nl/codereview-in-het-onderwijs/ ' cr:{ sha : 39fb17c65d0bcdd86ceae21ec944367e13053a8e , path : assets/scripts/menu.cs , reviewer : jherster }'

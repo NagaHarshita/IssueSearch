@@ -1,0 +1,1 @@
+ URL : "https://github.com/DMOJ/site/issues/594" TITLE : pdf print controls BODY : built-in support for things like page breaks when pdf printing, in cases where we actually care about how nice the pdf looks e.g., contest statements .

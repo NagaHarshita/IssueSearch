@@ -1,0 +1,1 @@
+ URL : "https://github.com/opensheetmusicdisplay/opensheetmusicdisplay/issues/106" TITLE : angular 2 module BODY : create an angular 2 module that is - installable over npm, - exports opensheetmusicdisplay as an angular 2 component - takes xml/mxl data as @input

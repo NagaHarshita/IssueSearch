@@ -1,0 +1,1 @@
+ URL : "https://github.com/ankane/chartkick/issues/369" TITLE : refreshdata not working BODY : i have the following code: var chart = chartkick.charts piedb chart.refreshdata and im using action cable to run it every time the calllog model is updated. the problem is, nothing changes... ive tried for hours to figure it out and nothing works. possible bug?

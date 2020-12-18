@@ -1,0 +1,1 @@
+ URL : "https://github.com/opcon/turnt-ninja/issues/22" TITLE : add update checker BODY : for non-store itch, steam and non-squirrel distributions, simply call the github releases api and check if there's a newer version? if so, notify the user so they can download it. maybe add in a line about how to get easier updates through e.g. itch, squirrel releases

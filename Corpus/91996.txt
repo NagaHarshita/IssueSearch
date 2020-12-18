@@ -1,0 +1,1 @@
+ URL : "https://github.com/FictionalDevelopers/interview-web/issues/5" TITLE : use routing in auth pages BODY : improve /auth page currently it is a single page with different states to be separate auth routes: - login - reset password - registration

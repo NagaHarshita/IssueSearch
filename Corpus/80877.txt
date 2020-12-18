@@ -1,0 +1,1 @@
+ URL : "https://github.com/spyder-ide/website-spyder/issues/41" TITLE : use i18n for translation BODY : as @goanpeca suggested in 36 the standard way to translate content pis using i18n there is a plugin for lektor https://github.com/numericube/lektor-i18n-plugin/ although is outdated and not working. what we should do?

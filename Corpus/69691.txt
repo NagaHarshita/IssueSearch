@@ -1,0 +1,1 @@
+ URL : "https://github.com/simpliko/wpjobboard-snippets/issues/3" TITLE : tos - full registration BODY : use this filter: add_filter wpjr_form_init_resume , mod_wpjb_tos_field ; instead of: add_filter wpjr_form_init_register , mod_wpjb_tos_field ; when full registration snippet is activated

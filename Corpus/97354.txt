@@ -1,0 +1,1 @@
+ URL : "https://github.com/JuliaArrays/StaticArrays.jl/issues/129" TITLE : getindex with tuple broken BODY : from the quickstart guide: julia v1 = svector 1, 2, 3 v1 3,2,1 === @svector 3, 2, 1 now results in error: argumenterror: invalid index: 3, 2, 1 stacktrace: 1 getindex ::staticarrays.svector{3,int64}, ::tuple{int64,int64,int64} at ./abstractarray.jl:875

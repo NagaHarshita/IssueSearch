@@ -1,0 +1,1 @@
+ URL : "https://github.com/ElementsProject/elements/issues/125" TITLE : 0.13.1 high-hash BODY : failure of a block to have a correct scriptsig results in a high-hash error message when submitted via rpc. replace with something more correct.

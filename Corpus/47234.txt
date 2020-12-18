@@ -1,0 +1,1 @@
+ URL : "https://github.com/jamesevickery/xunit-to-nunit/issues/7" TITLE : only convert cs files BODY : at the moment, all files in a directory are converted - only .cs files should be converted

@@ -1,0 +1,1 @@
+ URL : "https://github.com/PlasmaPy/SpectroscoPy/issues/2" TITLE : add travis and coveralls BODY : currently travis and coveralls don't find the package, we need to fix this.

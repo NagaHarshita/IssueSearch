@@ -1,0 +1,1 @@
+ URL : "https://github.com/queryluke/masseffect-5e/issues/18" TITLE : fix {{ site.baseurl }} BODY : should need to use it in the urls

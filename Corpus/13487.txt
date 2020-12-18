@@ -1,0 +1,1 @@
+ URL : "https://github.com/callemall/material-ui/issues/7988" TITLE : usage of pattern BODY : i believe this pattern is nice to be used in material-ui — it gives a good level of flexibility. it's a proposal for a discussion. if someone feels that is make sense to apply in material-ui? your thoughts? downshift and react-toggled are build with that and it looks very powerful.

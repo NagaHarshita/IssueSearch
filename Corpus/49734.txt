@@ -1,0 +1,1 @@
+ URL : "https://github.com/azavea/raster-foundry/issues/1958" TITLE : update docker to v17. BODY : bump docker version to v17. in development & ci in preparation to update ecs ami version.

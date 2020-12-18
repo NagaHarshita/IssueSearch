@@ -1,0 +1,1 @@
+ URL : "https://github.com/lukas2511/dehydrated/issues/356" TITLE : allow othernames aliases BODY : use this diff to allow signing of working xmpp s2s certs. others.diff.txt https://github.com/lukas2511/dehydrated/files/783140/others.diff.txt

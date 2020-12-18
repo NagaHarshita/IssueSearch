@@ -1,0 +1,1 @@
+ URL : "https://github.com/variadico/xpsarch/issues/1" TITLE : time zone isn't set BODY : after the install, the time is set to utc. i'm guessing tzselect isn't creating that symlink.

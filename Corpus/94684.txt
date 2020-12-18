@@ -1,0 +1,2 @@
+ URL : "https://github.com/vaskaloidis/mail-funnel-client/issues/37" TITLE : check navbar / sync or fix BODY : the navbar because of shopify api limitations cannot properly highlight the selected page's nav-bar button, when the navbar is centrally abstracted into a partial. because of this, we had to manually copy the code for the navbar onto the header of each page. - we need to either sync all the various navbar code to make sure they all match
+- or we need to find a solution to this issue

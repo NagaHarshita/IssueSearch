@@ -1,0 +1,1 @@
+ URL : "https://github.com/quicklisp/quicklisp-projects/issues/1317" TITLE : please add cl-mixed BODY : this is a bindings library to libmixed https://github.com/shirakumo/libmixed which allows simple audio mixing and processing. author: nicolas hafner source: https://github.com/shirakumo/cl-mixed documentation: https://shirakumo.github.io/cl-mixed/

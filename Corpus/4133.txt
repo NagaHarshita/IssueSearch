@@ -1,0 +1,1 @@
+ URL : "https://github.com/twosigma/beakerx/issues/6214" TITLE : add ui options BODY : in same tab as the jvm options, add the following ui options: 1 checkbox to disable the auto parenthesis typing. 2 checkbox to allow wide code cells. 3 checkbox to make our font changes. by default all are checked. status saved in beakerx.json.

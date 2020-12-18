@@ -1,0 +1,1 @@
+ URL : "https://github.com/nette/docs/issues/649" TITLE : composer - page BODY : - mention hirak/prestissimo https://github.com/hirak/prestissimo - composer init to create library

@@ -1,0 +1,1 @@
+ URL : "https://github.com/fulldecent/html-website-template/issues/13" TITLE : update macos instructions BODY : perhaps the macos instructions should also include: 1. install homebrew 2. brew install ruby i need to make sure this works on a stock macos system.

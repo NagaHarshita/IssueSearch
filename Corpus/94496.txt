@@ -1,0 +1,1 @@
+ URL : "https://github.com/auth0/lock/issues/1151" TITLE : cannot run project locally BODY : how do i run the lock locally? npm start or npm run dev says webpack-dev-server on port 3000 webpack-dev-server task... but http://localhost:3000 does not serve anything i.e. the server does not start.

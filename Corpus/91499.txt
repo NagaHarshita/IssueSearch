@@ -1,0 +1,1 @@
+ URL : "https://github.com/raptorbox/raptor-ui/issues/12" TITLE : tree management interface BODY : tree nodes allow to group devices, apps, users and other nodes to receive real-time updates from subscription. currently the ui does not expose any interface to handle them

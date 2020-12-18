@@ -1,0 +1,1 @@
+ URL : "https://github.com/nx-js/framework/issues/12" TITLE : npm install issues BODY : nx relies heavily on peer dependencies and semver internally, because of its modular nature. if you find issues with the npm install please post them here. thx!

@@ -1,0 +1,1 @@
+ URL : "https://github.com/SparkPost/node-sparkpost-cli/issues/29" TITLE : update the user agent BODY : another nice thing to have is the user agent be different so we can see what calls are coming in from the cli.

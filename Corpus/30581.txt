@@ -1,0 +1,1 @@
+ URL : "https://github.com/bensku/Skript/issues/714" TITLE : problem skript 1.11 BODY : loop all players: if loop-player is in world world : send diamond sword <3 to loop-player give a diamond sword to loop-player _can't compare a player with 'in world world ' onbeast.sk, line 33: if loop-player is in world world :' skript encountered 1 error while reloading all scripts!_ help! :

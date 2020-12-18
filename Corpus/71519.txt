@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/vscode-docker/issues/104" TITLE : add node inspect command BODY : show results in an editor as json

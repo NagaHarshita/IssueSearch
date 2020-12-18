@@ -1,0 +1,1 @@
+ URL : "https://github.com/haikuports/haikuports/issues/1419" TITLE : jpeg fails to build BODY : .deps/jddctmgr.plo:1: missing separator. stop. full build log at http://vmpkg.haiku-os.org/kitchen/ /build/20.

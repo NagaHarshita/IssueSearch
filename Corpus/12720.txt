@@ -1,0 +1,1 @@
+ URL : "https://github.com/duyluonglc/adonis-lucid-mongodb/issues/21" TITLE : rename _id to id BODY : hi, is it possible to rename _id to id? i've tried, but without any effect: static get primarykey { return 'id' }

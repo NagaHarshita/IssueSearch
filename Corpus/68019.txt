@@ -1,0 +1,1 @@
+ URL : "https://github.com/DecipherNow/gm-fabric-dashboard/issues/788" TITLE : refactor getstatuscount BODY : in utils/selectors - use _.countby - create explicit else in case computestatus doesn't work as expected.

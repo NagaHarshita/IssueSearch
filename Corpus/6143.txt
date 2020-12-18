@@ -1,0 +1,1 @@
+ URL : "https://github.com/andreeavas/testingprocess101/issues/5" TITLE : wing is broken BODY : prerequisites: have a paper plane. steps: 1. take the plane. 2. point it to you actual results: see the plane is broken on the left wing. expected results: the plane should have both wings intact.

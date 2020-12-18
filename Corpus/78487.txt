@@ -1,0 +1,1 @@
+ URL : "https://github.com/yii2mod/yii2-cart/issues/10" TITLE : public function getvat { BODY : it seems that you forgot to specify that getvat needs to be implemented in your docs

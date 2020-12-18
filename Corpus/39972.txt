@@ -1,0 +1,1 @@
+ URL : "https://github.com/jb55/ratio-cli/issues/1" TITLE : support real numbers BODY : i would be nice to approximate real numbers such as 1.2342345234123243523452345 by converting them to the equivalent rational form: 2468469046824648704690469 / 2000000000000000000000000 haskell example: https://github.com/jb55/money/blob/803743374a168f3d64b3369211491ff3467a0951/money.hs l47

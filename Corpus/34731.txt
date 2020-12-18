@@ -1,0 +1,1 @@
+ URL : "https://github.com/digitalbazaar/bedrock-ledger-consensus-continuity/issues/46" TITLE : context for manifest BODY : manifests are currently being stored and transmitted with a json-ld context. should we have the webledger context on these? samples: https://gist.github.com/mattcollier/44589d331141de4fb762cc2bf4cb8ed1

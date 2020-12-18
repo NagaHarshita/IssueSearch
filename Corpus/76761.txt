@@ -1,0 +1,1 @@
+ URL : "https://github.com/SumaqIdeas/cordova-plugin-google-sheets/issues/3" TITLE : major interface redesign BODY : make every method described in the google sheets api documentation available on the javascript interface.

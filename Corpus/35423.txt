@@ -1,0 +1,1 @@
+ URL : "https://github.com/Right2Drive/ease/issues/80" TITLE : duration in controls BODY : implement time / duration in controls. both are already being tracked by the controls, just a matter of implementing the ui

@@ -1,0 +1,1 @@
+ URL : "https://github.com/coreos/dex/issues/764" TITLE : grant types question BODY : hi, what are the different grant types supported by dex ? does it support resource owner password grant type and client credential ?

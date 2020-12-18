@@ -1,0 +1,1 @@
+ URL : "https://github.com/YACS-RCOS/yacs-admin/issues/81" TITLE : recreate schools table BODY : the old schools table can be found in yacs-admin/app/views/layouts/tables/_schools.html.erb . migrate this code into src/app/school/schools-list.component.html . add unit tests where appropriate. note: this issue may be dependent on a future issue adding dummy school data

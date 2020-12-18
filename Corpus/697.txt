@@ -1,0 +1,1 @@
+ URL : "https://github.com/callbackrun/callback-ruby/issues/3" TITLE : find a job BODY : as a developer i should be able to find a job by sending a get request to /jobs/:id so i can get details about the job

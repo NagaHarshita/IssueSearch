@@ -1,0 +1,1 @@
+ URL : "https://github.com/jamesacampbell/2fa.party/issues/1" TITLE : update https cert BODY : cert is expired, setup cron to auto-gen lets-encrypt hands-free

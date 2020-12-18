@@ -1,0 +1,1 @@
+ URL : "https://github.com/testcontainers/testcontainers-java/issues/404" TITLE : migration to gradle BODY : guys, have you considered to migrate this project from maven to gradle?

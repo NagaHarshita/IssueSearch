@@ -1,0 +1,1 @@
+ URL : "https://github.com/mapbox/rio-mbtiles/issues/33" TITLE : add 512x512 tile option BODY : 512x512 tiles play better with the mapbox platform and are a win for users that want to upload mbtiles and make mapbox tilesets.

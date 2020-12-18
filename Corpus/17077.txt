@@ -1,0 +1,1 @@
+ URL : "https://github.com/jupyterhub/kubespawner/issues/95" TITLE : never orphan pods BODY : right now, if we start a pod but it doesn't successfully launch in the launch timeout, we just sort of let it exist forever, in an orphaned state. this is very problematic! we should make sure we clean up after ourselves if we do not launch in time.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/BADF00D/InternalsVisibleToFixer/issues/4" TITLE : make settings configurable BODY : the following settings should be configurable: - number of suggested other projects - predefined references to non-solution projects

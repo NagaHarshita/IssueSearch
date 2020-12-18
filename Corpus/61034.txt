@@ -1,0 +1,1 @@
+ URL : "https://github.com/igeligel/personal-site/issues/6" TITLE : add testing + coveralls BODY : after adding tests with jest and jest-vue-preprocessor integrate the ci setup with coveralls https://coveralls.io/ to secure a good testing coverage.

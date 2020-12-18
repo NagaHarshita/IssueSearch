@@ -1,0 +1,1 @@
+ URL : "https://github.com/datamade/openness-project-nmid/issues/96" TITLE : edits to races pages BODY : - make race detail page a table with the following attributes: - candidate - funds raised bar chart - money spent - cash on hand - scale bar charts on race list page to fit min/max for that race group - scale bar charts on splash page, too

@@ -1,0 +1,1 @@
+ URL : "https://github.com/baloyan/cachecash-demo/issues/2" TITLE : caches selection algorithm BODY : so, currently cp selects cache or caches random, but we would like to select caches in a logical way. for example, select the nearest cache. current issue is more research and algorithms design rather than implementation. ph.d students participation is encouraged

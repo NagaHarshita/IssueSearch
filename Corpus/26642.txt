@@ -1,0 +1,1 @@
+ URL : "https://github.com/aggie-coding-club/carpool/issues/27" TITLE : bug in simplemap.js BODY : issue description : typeerror: _this2.props.onhoverkeychange is not a function error occurs every time that somebody hovers over a vehicle element. issue dependencies :

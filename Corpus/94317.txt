@@ -1,0 +1,1 @@
+ URL : "https://github.com/ChasinHues/fine-ants/issues/6" TITLE : calculate income after tax BODY : as a user i may want to enter my income either before or after tax. i want the application to be smart enough to calculate my income after tax if i get taxed and use that number instead of the before tax income i entered.

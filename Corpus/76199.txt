@@ -1,0 +1,1 @@
+ URL : "https://github.com/serde-rs/json/issues/221" TITLE : integer keys in to_value BODY : the to_string function supports integer map keys but to_value does not.

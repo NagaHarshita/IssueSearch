@@ -1,0 +1,1 @@
+ URL : "https://github.com/KindKitty/OGARio-KITTY-mod/issues/5" TITLE : copy token is broken BODY : all tokens are missing the id when copied, like so: http://agar.io/

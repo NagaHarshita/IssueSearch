@@ -1,0 +1,1 @@
+ URL : "https://github.com/TadasBaltrusaitis/OpenFace/issues/249" TITLE : seems to be a bug BODY : landmarkdetectorparameters.cpp https://github.com/tadasbaltrusaitis/openface/blob/master/lib/local/landmarkdetector/src/landmarkdetectorparameters.cpp line 156: the line should be deleted.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/holgersindbaek/Vendor/issues/6" TITLE : after complete the buy BODY : objective-c stub for message verifytransactionreceipt:password:success:failure:' type v@:@@@?@?' not precompiled. make sure you properly link with the framework or library that defines this message. process 1200 exited with status = 0 0x00000000 terminated due to signal 6

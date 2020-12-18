@@ -1,0 +1,1 @@
+ URL : "https://github.com/tarantool/doc/issues/349" TITLE : add value ranges BODY : need to add value ranges to table formats on that page https://tarantool.org/doc/1.7/reference/reference_lua/pickle.html?highlight=pickle index

@@ -1,0 +1,1 @@
+ URL : "https://github.com/MelonSmasher/chef_tissues/issues/1" TITLE : typo in resource type? BODY : https://github.com/melonsmasher/chef_tissues/blob/master/recipes/default.rb l77 says msu_package i think it is meant to say msi_package ?

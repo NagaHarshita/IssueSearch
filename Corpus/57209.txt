@@ -1,0 +1,1 @@
+ URL : "https://github.com/inveniosoftware/requirements-builder/issues/19" TITLE : possible yapf defaults BODY : - coalesce_brackets = true - dedent_closing_brackets = true - space_between_ending_comma_and_closing_bracket = true - split_penalty_after_opening_bracket cc @greut

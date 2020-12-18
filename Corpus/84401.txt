@@ -1,0 +1,1 @@
+ URL : "https://github.com/jonathanslenders/python-prompt-toolkit/issues/479" TITLE : ctrl-d ctrl-d then ctrl-y BODY : in emacs this will eat the next two words then paste them both. in mycli which uses python-prompt-toolkit it eats two words then pasts only the last one eaten.

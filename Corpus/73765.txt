@@ -1,0 +1,1 @@
+ URL : "https://github.com/hendraanggrian/socialview/issues/29" TITLE : delete mentionned person BODY : i have created custom adapter for mentioned users if i try to delete some characters of the mentioned person this one still in customautocomplete.getmentions how can i handle that and remove this one from customautocomplete.getmentions ??

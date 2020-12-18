@@ -1,0 +1,1 @@
+ URL : "https://github.com/mirumee/saleor/issues/1364" TITLE : heroku deploy button BODY : hi! i was testing out the heroku deploy button on readme page of saleor. everything was going fine until it produced this error in fourth step run scripts & scale dynos . commanderror: unknown command: 'search_index' i believe that it's caused by updated dependencies, any ideas?

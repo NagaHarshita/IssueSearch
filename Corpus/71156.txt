@@ -1,0 +1,1 @@
+ URL : "https://github.com/XDY1003/BootstrapTemplate/issues/1" TITLE : absolute path for images BODY : .body{ background: url c:/users/administrator/desktop/bootstrap/img/1.png ; should be .body{ background: url img/1.png ;

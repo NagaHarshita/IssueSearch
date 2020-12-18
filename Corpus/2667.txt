@@ -1,0 +1,1 @@
+ URL : "https://github.com/Zendq1998/Xueer-Muxi/issues/1" TITLE : code review i BODY : 1、导航栏垂直居中布局：使用vertical-align属性控制 参考文章 http://zxc0328.github.io/2015/07/23/vertical-align-middle/ more 2、避免在子元素中把宽度和高度写死，导航栏和中间课程列表都有这个问题

@@ -1,0 +1,1 @@
+ URL : "https://github.com/MajorMajor0/Robin/issues/1" TITLE : tabbed database window BODY : add tab for each database in database window. add database interface to support. clean up controls in database window, reduce buttons etc.

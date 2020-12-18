@@ -1,0 +1,1 @@
+ URL : "https://github.com/mrsmkl/spec/issues/4" TITLE : popcnt, ctz, clz BODY : implement popcnt, ctz and clz operations in solidity.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/wemake-services/wemake-vue-template/issues/153" TITLE : sync with django template BODY : things to sync: - gitlab ci - docker-compose - readme - template version link

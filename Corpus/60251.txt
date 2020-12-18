@@ -1,0 +1,4 @@
+ URL : "https://github.com/webcompat/webcompat-tests/issues/1184" TITLE : www - design is broken BODY : <!-- @browser: firefox 55.0 -->
+<!-- @ua_header: mozilla/5.0 macintosh; intel mac os x 10.11; rv:55.0 gecko/20100101 firefox/55.0 -->
+<!-- @reported_with: web --> url : www browser / version : firefox 55.0 operating system : mac os x 10.11 tested another browser : unknown problem type : design is broken description : www steps to reproduce :
+for example, 1. i've tried to log in. 2. i've filled out the form details. 3. i clicked on the submit button. 4. nothing happened. _from webcompat.com https://webcompat.com/ with ❤️_

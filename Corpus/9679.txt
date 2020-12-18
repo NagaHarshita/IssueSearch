@@ -1,0 +1,1 @@
+ URL : "https://github.com/PugliaSOS/howsweather/issues/8" TITLE : add .eslint file BODY : please add a .eslint file to tell contributors which style should the code follow. airbnb https://www.npmjs.com/package/eslint-config-airbnb provides a very good one.

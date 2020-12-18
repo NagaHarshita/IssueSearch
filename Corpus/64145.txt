@@ -1,0 +1,7 @@
+ URL : "https://github.com/unicef/etools-issues/issues/900" TITLE : fix list old data issue BODY : when loading list data deleted records are not being removed from dexie, so if for example you delete an entry from a different browser it will still appear until the data is manually refreshed. steps to reproduce:
+- go to partners list, leave the window open
+- log into the application from a different browser or incognito mode
+- from incognito, delete a partner
+- wait 6 hours
+- go back to the original browser, search for the partner expected: after the data has been refreshed, deleted partner has disappeared
+result: the deleted partner is still present in the list

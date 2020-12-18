@@ -1,0 +1,1 @@
+ URL : "https://github.com/sindresorhus/ora/issues/37" TITLE : update npm package BODY : latest version available on npm doesn't support .warn yet.

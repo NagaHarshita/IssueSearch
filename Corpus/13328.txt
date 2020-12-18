@@ -1,0 +1,1 @@
+ URL : "https://github.com/espressif/ESP8266_RTOS_SDK/issues/78" TITLE : travis ci config BODY : does anyone have a travis ci job config to be able to build this sdk and examples? i'd like to use that as a template for some projects based on this sdk.

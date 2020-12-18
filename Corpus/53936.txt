@@ -1,0 +1,1 @@
+ URL : "https://github.com/ckrack/scrollsnap-polyfill/issues/21" TITLE : fail with external css BODY : when using an external css, chrome display the cross origin requests are only supported for protocol schemes: http, data, chrome, chrome-extension, https. message, and it doesn't work.

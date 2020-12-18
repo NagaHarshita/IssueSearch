@@ -1,0 +1,1 @@
+ URL : "https://github.com/tuupola/slim-api-skeleton/issues/23" TITLE : probably a typo erro BODY : mika, in file slim-api-skeleton-master\routes\todos.php , line 199 throw new preconditionfailedexception todo has been modified , 412 ; as precondition failed, i suppose that the reason should be spelled todo has not been modified laurent

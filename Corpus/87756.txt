@@ -1,0 +1,6 @@
+ URL : "https://github.com/Zimmi48/bugzilla-test/issues/5596" TITLE : make timed=1 fails on osx BODY : note: the issue was created automatically with bugzilla2github tool bugzilla bug id: 5596
+date: 2017-06-09 23:29:58 +0200
+from: @_jasongross
+to: cc: coq-bugs-redist@lists.gforge.inria.fr last updated: 2017-06-09 23:29:58 +0200 bugzilla comment id: 16762
+date: 2017-06-09 23:29:58 +0200
+from: @_jasongross this is because the mac os time does not accept the -f argument. the solution is to brew install gnu-time and use gtime , but how can this be made portable?

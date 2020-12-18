@@ -1,0 +1,1 @@
+ URL : "https://github.com/hmartiro/redox/issues/58" TITLE : redox and multi BODY : i have a single program that set hundreds of keys each second. is calling rdx.set key, value for each key ok or should i use the multi https://redis.io/commands/multi redis command? in the background, is redox bulking the commands?

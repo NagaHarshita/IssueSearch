@@ -1,0 +1,1 @@
+ URL : "https://github.com/claudioDcv/Tabl3/issues/5" TITLE : callback after render BODY : podría existir una opción para pasar un callback que corra después de que el render de la tabla ha terminado?

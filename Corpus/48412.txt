@@ -1,0 +1,1 @@
+ URL : "https://github.com/JohnHexCarter/screechdragon/issues/86" TITLE : s-0086 - current_cart BODY : have methods to be able to reference the current_cart that should be stored in the session. reliably create an order and have current_cart point to it even if user isn't logged in.

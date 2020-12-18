@@ -1,0 +1,1 @@
+ URL : "https://github.com/toggl/mobileapp/issues/32" TITLE : create database models BODY : a possibly not exhaustive list of models needed: - user - workspace preferences? - client - project - task - tag - time entry these should possibly be added in separate prs, and tested appropriately.

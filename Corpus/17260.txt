@@ -1,0 +1,1 @@
+ URL : "https://github.com/giladgray/dash-handlebars-docset/issues/2" TITLE : npm install fails BODY : npm install is failing with a message this is most likely a problem with the sqlite3 package here is the debug log. npm-debug.txt https://github.com/giladgray/dash-handlebars-docset/files/759167/npm-debug.txt

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ukscone/set_overscan/issues/9" TITLE : function not found BODY : i know this is dated and maybe no longer works, but i though i'd give it a shot. i'm getting: set_overscan.sh: 42: set_overscan.sh: function: not found when i try to run this. am i doing something wrong? does this no longer work? is there a better way now?

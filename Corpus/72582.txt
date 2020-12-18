@@ -1,0 +1,1 @@
+ URL : "https://github.com/liquidinvestigations/liquidinvestigations/issues/217" TITLE : can't disable matrix app BODY : the reconfigure agent prints the following ansible error: task matrix : remove configuration files for disabled service thursday 16 november 2017 15:42:01 +0000 0:00:00.023 0:00:05.115 fatal: localhost : failed! => { failed : true, msg : 'item' is undefined }

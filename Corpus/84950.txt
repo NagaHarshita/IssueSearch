@@ -1,0 +1,1 @@
+ URL : "https://github.com/InseeFr/Eno/issues/64" TITLE : duplicate of lang files ? BODY : lang conf files are duplicated in both src/lang/fr and src/resources/lang/fr, should keep only one copy of it.

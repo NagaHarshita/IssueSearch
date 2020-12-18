@@ -1,0 +1,1 @@
+ URL : "https://github.com/ckim2013/skybnb/issues/12" TITLE : bookings redux cycle BODY : need to create the actions, reducers, and util for bookings. planning to have '/bookings' reveal all the bookings of the current user also planning to have a bookings show page although it might not be necessary.

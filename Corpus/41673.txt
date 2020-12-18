@@ -1,0 +1,1 @@
+ URL : "https://github.com/jerryscript-project/jerryscript/issues/1794" TITLE : add c api for promise BODY : now we've got es6 promise support from within .js, i think it's a good time to add the c api as well :

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mcphoton/Photon-Server/issues/16" TITLE : new chatmessage system BODY : proposal replace the current chatmessage class and its associated classes by a cleaner, scala system. goals - better consistency with the new scala code. - fluent api - support scala string formatting scala val s = ${blue}this is ${bold}good

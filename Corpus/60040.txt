@@ -1,0 +1,1 @@
+ URL : "https://github.com/TouchInstinct/code-quality-ios/issues/12" TITLE : weak outlet collection BODY : swiftlint ругается на отсутствие weak в outlet collection. weak ставить нельзя, т.к. outlet collection это массив.

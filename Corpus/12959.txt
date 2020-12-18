@@ -1,0 +1,1 @@
+ URL : "https://github.com/forcecore/yupgi_alert0/issues/15" TITLE : softer rad beams BODY : hmmmm dunno the best way to do it. https://github.com/openra/openra/blob/285e9a803067ddf8bbfee3b89f487029d6118833/openra.game/graphics/rgbacolorrenderer.cs my current guess is that flood fill do the best for this job.

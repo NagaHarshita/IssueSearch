@@ -1,0 +1,1 @@
+ URL : "https://github.com/jusleg/soen341/issues/66" TITLE : verify email for student BODY : - check if it is a valid concordia email - send a message to the email with a token aes-256 to authenticate

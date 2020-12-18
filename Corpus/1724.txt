@@ -1,0 +1,1 @@
+ URL : "https://github.com/LekamDeveloper/youtuberpage/issues/19" TITLE : emojis an ie BODY : los emojis de material design en ie no se llegan a verse correctamente. para ello hay un metodo en el cual un emoji como <i class= material-icons >done_all</i> se debería cambiar a <i class= material-icons >& xe877;</i>

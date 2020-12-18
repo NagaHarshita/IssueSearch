@@ -1,0 +1,1 @@
+ URL : "https://github.com/dnanexus/dx-toolkit/issues/265" TITLE : add emacs mode BODY : it'd be great to have emacs extensions supporting dnanexus. simplest would be to be able to browse and modify projects using dired. ideally, one would also be able to monitor jobs running on dnanexus with something like the proced emacs command.

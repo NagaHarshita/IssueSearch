@@ -1,0 +1,1 @@
+ URL : "https://github.com/eigenfoo/otto-othello/issues/4" TITLE : maint implement bitboards BODY : bitboards are very compact representations of the board, and allow for an efficient legal move function. this will require a major overhaul of board.cpp and possibly other files, but will probably be worth it.

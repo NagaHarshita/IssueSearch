@@ -1,0 +1,1 @@
+ URL : "https://github.com/wepublic/backend/issues/25" TITLE : news title is missing BODY : when loading news from the /news/ endpoint there is no title included.

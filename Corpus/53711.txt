@@ -1,0 +1,1 @@
+ URL : "https://github.com/khanrc/tf.gans-comparison/issues/3" TITLE : error in the readme.md BODY : in the usege part: $ python download.py celeba arrording to the download.py, this should be: $ python download.py celeba

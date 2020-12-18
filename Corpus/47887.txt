@@ -1,0 +1,1 @@
+ URL : "https://github.com/Mysfer/mdbd/issues/9" TITLE : questão 4 verção 2 BODY : select dicionario.id_dicionario, count palavras.id from dicionario inner join pertence on dicionario.id_dicionario = pertence.table1_id_dicionario inner join palavras on pertence.palavras_id = palavras.id group by dicionario.id_dicionario

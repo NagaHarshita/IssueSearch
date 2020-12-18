@@ -1,0 +1,1 @@
+ URL : "https://github.com/ioBroker/ioBroker.discovery/issues/19" TITLE : support for rpi2 adapter BODY : it would be very nice if i run the discovery on a raspberry pi, the list of suggested adapters would also show rpi2.

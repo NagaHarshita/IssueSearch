@@ -1,0 +1,1 @@
+ URL : "https://github.com/web-mech/badwords/issues/25" TITLE : legal words also filtered BODY : illegal words filter all words which contain these words. for example: tit is a banned word but it also filtered title

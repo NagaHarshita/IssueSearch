@@ -1,0 +1,1 @@
+ URL : "https://github.com/default-settings/invoicr/issues/45" TITLE : credit terms dropdown BODY : can there be a drop down for the number of days / term that automatically updates the due date? e.g. select 7 days and it picks invoice date + 7

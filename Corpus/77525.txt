@@ -1,0 +1,1 @@
+ URL : "https://github.com/CodeforHawaii/ACLU/issues/73" TITLE : new restrictions button. BODY : a restrictions button should show that takes the user to a restrictions list. it should be styled from the uservalid state in vuex. ! screen shot 2017-11-08 at 8 36 54 pm https://user-images.githubusercontent.com/949055/32588661-3aabf466-c4c5-11e7-92eb-ae5a623815f0.png

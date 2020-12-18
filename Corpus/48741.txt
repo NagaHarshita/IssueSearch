@@ -1,0 +1,1 @@
+ URL : "https://github.com/mono/SkiaSharp/issues/214" TITLE : skcamera helper class BODY : i've seen that the original skia library has a helper class for the projection transformation matrix called skcamera . please implement this in skiasharp too: https://skia.org/user/api/skmatrix

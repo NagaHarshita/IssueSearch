@@ -1,0 +1,1 @@
+ URL : "https://github.com/ercanersoy/DOS-Coreutils/issues/4" TITLE : typos in readme BODY : the program must be compiled with djgpp and optionally should compressed with upx. compreesing with upx is default.

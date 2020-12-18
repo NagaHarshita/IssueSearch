@@ -1,0 +1,1 @@
+ URL : "https://github.com/ariatemplates/git-release-notes/issues/37" TITLE : html is without stress BODY : when i generate the command to create the html, it looks strange and renders with ├º├ those special characters.

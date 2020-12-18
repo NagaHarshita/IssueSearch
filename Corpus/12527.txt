@@ -1,0 +1,1 @@
+ URL : "https://github.com/babel/babel-standalone/issues/95" TITLE : prebuilt 7 beta? BODY : can we have prebuilt 7 beta or updated instructions how to build it? with this move to main babel repo everything changed but readme not updated and i'm getting lost between the old docs and the new babel. want to test this typescript support :- thanks, daniel.

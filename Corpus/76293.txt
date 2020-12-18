@@ -1,0 +1,1 @@
+ URL : "https://github.com/z-song/laravel-admin/issues/1524" TITLE : is it slow for everyone? BODY : it works like a charm, a very neat, clean way to write code. i feel like it is a bit slow, not sure whether it is only for me. i'm using different docker containers for nginx, php & mysql. just wanted to check if someone already facing the same thing? thanks

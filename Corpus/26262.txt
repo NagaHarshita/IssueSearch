@@ -1,0 +1,1 @@
+ URL : "https://github.com/vuejs-pt/vue-alert/issues/1" TITLE : alert stays visible BODY : hi! i like this plugin but it seems that the alert stays visible after alerting the user with some information. it fades out and then the start alert-info mode is there with an empty message. is this by design?

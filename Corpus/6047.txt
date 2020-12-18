@@ -1,0 +1,1 @@
+ URL : "https://github.com/Financial-Times/next-a11y/issues/83" TITLE : use pa11y wait BODY : we only use timeout, but there are pages that may benefit from using wait where pa11y tests sometimes jump the gun and run before everything we want on screen is there https://github.com/pa11y/pa11y wait-number

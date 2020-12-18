@@ -1,0 +1,1 @@
+ URL : "https://github.com/Korko/SecretSanta.fr/issues/37" TITLE : add sms states BODY : the new sms company used provide informations about the sms send state received, opened? so we should add an option to allow secretsanta to keep the informations required to track it phone number i guess and an internal id if the organizer wants it.

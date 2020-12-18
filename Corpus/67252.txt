@@ -1,0 +1,1 @@
+ URL : "https://github.com/justinbot/timecard/issues/7" TITLE : pay periods and pay day BODY : minor features of the user and admin panel along with some backend configuration need to be rewritten such that navigation and display is in terms of pay period and pay day, rather than by week.

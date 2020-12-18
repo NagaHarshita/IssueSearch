@@ -1,0 +1,1 @@
+ URL : "https://github.com/mikeywaites/kim/issues/156" TITLE : default string to unicode BODY : instead of calling str on the output of the string pipeline instead call unicode . i can't think of any reason to not do this over having a specific unicode field although perhaps the type called on the pipeline can be configurable?

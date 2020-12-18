@@ -1,0 +1,1 @@
+ URL : "https://github.com/swagger-api/swagger-core/issues/2163" TITLE : fix npe in modelimpl BODY : required can be null in io.swagger.models.modelimpl.setrequired list<string> . add null checks to avoid npe.

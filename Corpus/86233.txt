@@ -1,0 +1,1 @@
+ URL : "https://github.com/rvfam/Teacozy/issues/2" TITLE : header logo/nav alignment BODY : the spec visually not specifically calls for the header to have the nav and logo aligned vertically. all we'd have to do is add this style to the header class. align-items: center

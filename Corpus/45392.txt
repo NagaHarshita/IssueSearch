@@ -1,0 +1,1 @@
+ URL : "https://github.com/github/hub/issues/1632" TITLE : hub create impossible BODY : hello, i have a problem xhan i want to create a repo on github from shell: $ hub create i have this response => post https://api.github.com/user/repos: dial tcp 192.30.253.117:443: i/o timeout my ssh are ok. do you know what happens? thanks, matt

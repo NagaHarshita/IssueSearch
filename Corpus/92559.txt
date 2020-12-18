@@ -1,0 +1,1 @@
+ URL : "https://github.com/zabbix/zabbix-docker/issues/114" TITLE : zabbix-server cannot ping BODY : currently the user zabbix in the zabbix-server environment cannot ping a host because of permission problems: $ docker run --rm -it --user=100 zabbix/zabbix-server-mysql -c ping 8.8.8.8 ping 8.8.8.8 8.8.8.8 : 56 data bytes ping: permission denied are you root?

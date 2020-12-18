@@ -1,0 +1,1 @@
+ URL : "https://github.com/meetfranz/plugins/issues/67" TITLE : deploy travis ci BODY : service travis ci https://travis-ci.org link to your repository https://github.com/danielbayley/franz-recipe-travis-ci additional information the badge count is based on any current builds that have not yet passed.

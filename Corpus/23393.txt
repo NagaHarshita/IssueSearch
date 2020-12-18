@@ -1,0 +1,1 @@
+ URL : "https://github.com/FXServer-ESX/fxserver-esx_garage/issues/4" TITLE : perte de véhicule BODY : bonjour, lorsqu'un joueurs à son véhicule dehors et deconnecte ou crash , le véhicule disparaît, il reste dans la base de donnée mais impossible de le récupérer.

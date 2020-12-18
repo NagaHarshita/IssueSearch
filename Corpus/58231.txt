@@ -1,0 +1,1 @@
+ URL : "https://github.com/Integreat/app-cross_platform/issues/106" TITLE : secret api url setting BODY : use the location search to set the api url. api_url=https://domain.tld/rest/api/ and api_url=reset this would be very helpful for debugging the cms.

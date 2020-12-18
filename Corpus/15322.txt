@@ -1,0 +1,1 @@
+ URL : "https://github.com/MediaTek-Labs/BlocklyDuino-for-LinkIt/issues/24" TITLE : default ip , port BODY : ! image https://cloud.githubusercontent.com/assets/23159280/26397558/4c4fd9ee-40a9-11e7-8a13-c46941225880.png ip 192.168.1.2 port : 3000

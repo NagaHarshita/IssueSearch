@@ -1,0 +1,1 @@
+ URL : "https://github.com/php-opencloud/openstack/issues/107" TITLE : returning empty reponse BODY : parsemetadata function inside metadatatrait.php file returning empty response.

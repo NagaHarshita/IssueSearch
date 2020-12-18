@@ -1,0 +1,1 @@
+ URL : "https://github.com/pvvx/RtlDuino/issues/8" TITLE : wifi ap/clinet at 166mhz BODY : hi if i setup freq to 166mhz wifi begin or apbegin ends witj hardfault and cpu stops

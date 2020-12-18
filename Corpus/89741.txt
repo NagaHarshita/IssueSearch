@@ -1,0 +1,1 @@
+ URL : "https://github.com/tesshucom/subsonic-connector/issues/75" TITLE : register default observer BODY : 74 optional function does not use callback function but uses default observer registered in advance omission of coding

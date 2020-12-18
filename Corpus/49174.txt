@@ -1,0 +1,1 @@
+ URL : "https://github.com/ivanoung/the-store-hk-shopify-theme/issues/19" TITLE : switching msrp to rrp BODY : under section -> product. liquid line 230 changes from msrp to rrp: <span class= msrp-wrapper ><i>msrp:</i> to <span class= msrp-wrapper ><i>rrp:</i>

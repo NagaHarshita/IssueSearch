@@ -1,0 +1,1 @@
+ URL : "https://github.com/marcoraddatz/homebridge-docker/issues/41" TITLE : build for raspberry pi BODY : the readme says the docker image works for raspberry pi, but as far as i can see there’s only a build for the amd64 architecture. do i have to build my own to get it going on an arm device or did i miss something?

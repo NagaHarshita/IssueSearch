@@ -1,0 +1,1 @@
+ URL : "https://github.com/ChanatipSaetia/PatternProject/issues/1" TITLE : trial and error BODY : not work - anomaly detection isolation forest unsupervised got 0.09 - blagging classifier got 0.98 on train but 0.12 on test <- test performance is not constant.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mcheung63/netbeans-antlr/issues/4" TITLE : please specify license BODY : hello, i see licenseheader.txt is empty. some files mention gpl v3 while i see commits where the gpl v3 header has been removed. so -- what is the license of this project?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/UCSB-CS56-Projects/cs56-games-gomoku/issues/45" TITLE : change game screen layout BODY : currently game screen layout is flow layout and a lot of values include the board and buttons are hardcoded in. make it less tightly coupled maybe make the board a panel and then implement grid layout

@@ -1,0 +1,1 @@
+ URL : "https://github.com/SpeakData/minimarketo/issues/4" TITLE : support bulk endpoints BODY : currently minimarketo only supports rest endpoints. provide support for bulk endpoints.

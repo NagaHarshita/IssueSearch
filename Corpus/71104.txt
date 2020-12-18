@@ -1,0 +1,1 @@
+ URL : "https://github.com/byjg/mailwrapper/issues/5" TITLE : \byjg\util\uri not found BODY : hello, thanks for this library, however it throws 2 errors, \byjg\mail\mailerfactory not found -> i downloaded it directly and \byjg\util\uri not found -> i couldn't find it anywhere. thanks

@@ -1,0 +1,1 @@
+ URL : "https://github.com/crisayala16/Inventory-Manager-Hospital/issues/13" TITLE : organize file structure: BODY : htmlroutes inlcudes all the routes for the project, they should be organized as login-routes, user-routes, product-routes, and eventually service-routes

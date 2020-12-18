@@ -1,0 +1,1 @@
+ URL : "https://github.com/iotfap/iotfapos-core/issues/3" TITLE : enable busybox httpd BODY : enable busybox httpd with cgi support add empty /etc/httpd.conf to fs skel

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mlutze/MC-Macros/issues/9" TITLE : edit created macro BODY : we can consider creating a new sub-command edit to allow editing of single lines in macros. we can also use tab completion to fill the user's chat with the current line to make small edits easier.

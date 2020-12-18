@@ -1,0 +1,1 @@
+ URL : "https://github.com/rtomayko/ronn/issues/101" TITLE : cannot render circumflex BODY : the following markdown snippet contains a circumflex but it is discarded in the conversion to roff. there does not appear to be a way to render a circumflex. test - render a circumflex ========================= description we are trying to render a circumflex. y = 2^x

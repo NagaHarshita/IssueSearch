@@ -1,0 +1,1 @@
+ URL : "https://github.com/theappleman/mail/issues/12" TITLE : dovecot: create /mail dir BODY : lib/nmail.pm : diff + file /mail , + ensure => directory , + owner => dovecot , + group => mail , + mode => 0770 ; +

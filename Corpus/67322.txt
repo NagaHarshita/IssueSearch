@@ -1,0 +1,1 @@
+ URL : "https://github.com/matplotlib/matplotlib/issues/8599" TITLE : pie chart from csv file BODY : hi guys, how i can make pie chart from csv file include the activites/label too? csv file if open with excel : used free -> column 100000 50000 -> row thanks :

@@ -1,0 +1,1 @@
+ URL : "https://github.com/VcDevel/Vc/issues/159" TITLE : abi types for arm neon BODY : arm neon defines a lot of intrinsic simd types float32x4_t, and etc. and operations. which ones should be implemented? what's the corresponding abi?

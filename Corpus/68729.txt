@@ -1,0 +1,1 @@
+ URL : "https://github.com/alwex/php-casperjs/issues/45" TITLE : setting up a proxy host BODY : hi, i would love to see if there is any possibility to have a proxy function to use the setproxy function from phantomjs. javascript phantom.setproxy host, port, 'manual', '', '' ;

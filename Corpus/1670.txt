@@ -1,0 +1,1 @@
+ URL : "https://github.com/spammy23/NFTP/issues/4" TITLE : cleanup code BODY : the code may be slightly messy. make sure variable names are descriptive, methods aren't left unused etc.

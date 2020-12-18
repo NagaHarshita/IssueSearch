@@ -1,0 +1,1 @@
+ URL : "https://github.com/tylerreckart/odin/issues/10" TITLE : option to hide user@host? BODY : is there a way to hide the username@host part in the prompt? i did it by forking the theme and editing the theme, is there a better way?

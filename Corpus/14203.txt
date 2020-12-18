@@ -1,0 +1,1 @@
+ URL : "https://github.com/pfertyk/mauve/issues/9" TITLE : add macos release BODY : it might be possible to create an .app file for macos on a linux machine using electron-installer-zip . if so, proper build script should be added to package.json.

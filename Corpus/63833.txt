@@ -1,0 +1,1 @@
+ URL : "https://github.com/huangmingchuan/Cpp_Primer_Answers/issues/13" TITLE : exercise 2.29 有疑问 BODY : 练习 2.29 b 为什么const指针不能赋值给普通指针？http://www.cnblogs.com/mylinux/archive/2013/04/27/3047719.html 网页上有“_指针可以赋值给一个普通指针_”； d e f 为什么是正确的？ https://github.com/mooophy/cpp-primer/tree/master/ch02 与英文版冲突？ 求解。

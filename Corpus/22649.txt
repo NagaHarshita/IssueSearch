@@ -1,0 +1,1 @@
+ URL : "https://github.com/akiross/trellobot/issues/12" TITLE : make the bot async BODY : switch to telepot and have the bot made async. with it, run a server for web commands.

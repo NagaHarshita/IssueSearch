@@ -1,0 +1,1 @@
+ URL : "https://github.com/clcarwin/SFD_pytorch/issues/2" TITLE : padding size of fc6 BODY : hi @clcarwin, why do you set the padding size of fc6 to 3? this is inconsistent with the original paper. see https://github.com/clcarwin/sfd_pytorch/blob/master/net_s3fd.py l42 best,

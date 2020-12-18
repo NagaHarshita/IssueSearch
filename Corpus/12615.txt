@@ -1,0 +1,1 @@
+ URL : "https://github.com/thinksaydo/donorperfect-php/issues/1" TITLE : query size limit BODY : there is a superficial limit of 1000 characters in the library. it should be extended to 8000, the sql server limit.

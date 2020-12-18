@@ -1,0 +1,11 @@
+ URL : "https://github.com/andybotting/xbmc-addon-afl-video/issues/436" TITLE : end-user bug report BODY : automatic bug report from end-user. environment plugin name: afl video plugin id: plugin.video.afl-video plugin version: 1.6.4 xbmc/kodi version: 17.0 git:20170201-a10c504 python version: 2.7.11 default, jan 16 2016, 16:21:17 msc v.1900 32 bit intel operating system: win32 ip address: 49.177.190.156 c49-177-190-156.chirn2.vic.optusnet.com.au isp : optus python path: c:\users\larry\appdata\roaming\kodi\addons\plugin.video.afl-video
+c:\users\larry\appdata\roaming\kodi\addons\script.module.beautifulsoup\lib
+h:\kodi\system\python\dlls
+h:\kodi\system\python\lib
+h:\kodi\python27.zip
+h:\kodi\system\python\lib\plat-win
+h:\kodi\system\python\lib\lib-tk
+h:\kodi
+h:\kodi\system\python
+h:\kodi\system\python\lib\site-packages
+c:\users\larry\appdata\roaming\kodi\addons\plugin.video.afl-video\resources\lib traceback traceback most recent call last : file c:\users\larry\appdata\roaming\kodi\addons\plugin.video.afl-video\resources\lib\videos.py , line 34, in make_list videos = comm.get_videos category file c:\users\larry\appdata\roaming\kodi\addons\plugin.video.afl-video\resources\lib\comm.py , line 191, in get_videos video = parse_json_live video_asset file c:\users\larry\appdata\roaming\kodi\addons\plugin.video.afl-video\resources\lib\comm.py , line 114, in parse_json_live video.title = ' color green live now /color {0}'.format video_data.get 'title' unicodeencodeerror: 'ascii' codec can't encode character u'\u2013' in position 12: ordinal not in range 128 full log https://gist.github.com/cee294397e6dc759e2e3a5b7738d7d87

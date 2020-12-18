@@ -1,0 +1,1 @@
+ URL : "https://github.com/RobinBuschmann/sequelize-typescript/issues/77" TITLE : usage in multi sql schema BODY : in my case , there's one user model in 2 different mysql server or schema. a and b how to use a.user.or b.user explicitly?

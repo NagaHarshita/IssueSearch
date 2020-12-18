@@ -1,0 +1,1 @@
+ URL : "https://github.com/callemall/material-ui/issues/7020" TITLE : typos in palette.js BODY : problem description the following file in the next branch has a couple of typos: https://github.com/callemall/material-ui/blob/next/src/styles/palette.js typo: placeholderrext 2 places intended text: placeholdertext

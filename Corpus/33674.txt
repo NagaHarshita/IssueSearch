@@ -1,0 +1,1 @@
+ URL : "https://github.com/rosszurowski/micro-airtable-api/issues/2" TITLE : allow read-only apis BODY : by default, with the api key users get full write access. this is fine if you want a read-write api, but if you're looking to use airtable as a cms/db, you'll likely want something read-only.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/UnaviaMedia/unaviamedia/issues/36" TITLE : import mvc code BODY : import the mvc portion of the php_api repository for use. this will enable simple blog urls as well as prettified page urls.

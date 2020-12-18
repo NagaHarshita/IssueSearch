@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/XmlNotepad/issues/18" TITLE : error loading a schema BODY : hi, i'm getting the error the 'http://www.w3.org/2001/xmlschema:assert' element is not supported in this context. the file is saftpt1.04_01.xsd http://info.portaldasfinancas.gov.pt/apps/saft-pt04/saftpt1.04_01.xsd . thanks

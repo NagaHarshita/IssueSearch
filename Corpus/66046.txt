@@ -1,0 +1,1 @@
+ URL : "https://github.com/spacetag/html5-mulg/issues/10" TITLE : make a .lev import tool BODY : for now, i think the .pdb file reading should be a low priority. the .pdb files are not trivial to parse. the .lev files, look pretty easy to parse, in comparison. see a .lev file here: https://gist.github.com/artskydj/6e1a5527ae64753d99f6d31e515239c1

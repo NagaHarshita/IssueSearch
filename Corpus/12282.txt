@@ -1,0 +1,1 @@
+ URL : "https://github.com/plenarius/iota-promoter/issues/1" TITLE : non html version BODY : can you create a standalone js that runs without the html stuff? basically like that autorun which happens after you open the page. this way, you can run it on a server using nodejs

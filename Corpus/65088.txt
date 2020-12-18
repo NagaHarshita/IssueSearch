@@ -1,0 +1,1 @@
+ URL : "https://github.com/cfpb/hmda-platform/issues/841" TITLE : implement cluster roles BODY : add cluster roles so that a node spinning up the application starts up the necessary components associated with defined role i.e. filing api, public api, seed node, etc.

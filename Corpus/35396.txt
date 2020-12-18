@@ -1,0 +1,1 @@
+ URL : "https://github.com/api-platform/core/issues/1149" TITLE : drop twig dependency BODY : i think this library mostly aims api first or api only projects. twig is an unnecessary dependency with enable_swagger_ui: false but still needed for api_platform.swagger.action.ui service.

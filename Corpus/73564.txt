@@ -1,0 +1,1 @@
+ URL : "https://github.com/su1s/e2m3u2bouquet/issues/31" TITLE : cron job not set in v0.6 BODY : in the ipk i set the automatic bouquet update schedule : to yes and update interval to 6 hours but i do not see any additional lines added to /etc/cron/crontabs/root file as would be expected

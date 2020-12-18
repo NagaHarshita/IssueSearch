@@ -1,0 +1,1 @@
+ URL : "https://github.com/aelve/guide/issues/214" TITLE : warn on empty links BODY : https://gist.github.com/cmcdragonkai/fab0980b3325e8a788c9 – this link will look like a “good” link but will lead to the current page. we should warn editors about such links.

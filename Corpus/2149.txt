@@ -1,0 +1,1 @@
+ URL : "https://github.com/pwalsh/pipenv.el/issues/1" TITLE : tests and ci BODY : description the code is currently a spike solution for my needs. before it is inflicted on others, there needs to be reasonable test coverage, and ci. tasks - basic tests - configure circleci

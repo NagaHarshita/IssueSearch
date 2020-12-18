@@ -1,0 +1,1 @@
+ URL : "https://github.com/ralarcon/test-git/issues/3" TITLE : build 24231 failed BODY : build 24231 https://winappstudio.visualstudio.com/web/build.aspx?pcguid=a4ef43be-68ce-4195-a619-079b4d9834c2&builduri=vstfs%3a%2f%2f%2fbuild%2fbuild%2f24231 failed + powershell exited with code '1'. check build log files by downloading c:\users\ralarcon\appdata\local\temp\24231_logs.zip

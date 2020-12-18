@@ -1,0 +1,1 @@
+ URL : "https://github.com/mgdm/Mosquitto-PHP/issues/66" TITLE : disconnect response code 7 BODY : hi i got a problem about code = 7. i use $client->loopforever 3600 ; but mqtt still disconnect and the response code is 7 what is the meaning about 7 of broker? thank you

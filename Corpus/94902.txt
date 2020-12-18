@@ -1,0 +1,1 @@
+ URL : "https://github.com/r888888888/danbooru/issues/2884" TITLE : comment unvoting is broken BODY : unvote link doesn't show when attempting to vote on already voted comment. introduced in 5445b341bcd77dee941623ed7e36e751fa2b64a1 at file app/views/comment_votes/create.js.erb , needs a fix similar to 51df14f07a35ad656cbcc5bb1879d0cb3c3d06ed.

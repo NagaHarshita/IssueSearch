@@ -1,0 +1,1 @@
+ URL : "https://github.com/recycletravel/website/issues/5" TITLE : fix tours scene BODY : currently, the tours scene does not display nicely at various resolutions. also, not all of tour data is being properly displayed. we also need to be able to handle the links from the hero component when parsing the query parameters and filtering the displayed tours.

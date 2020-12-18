@@ -1,0 +1,1 @@
+ URL : "https://github.com/LucasClarkson/Nutritionist/issues/5" TITLE : build weight logging api BODY : we need an api for logging a user's weight and body measurements. this should probably wait on the user api to be completed.

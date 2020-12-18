@@ -1,0 +1,1 @@
+ URL : "https://github.com/adamhenson/foo.software/issues/22" TITLE : docker: make ports private BODY : the majority of services are unnecessarily exposing the port in docker-compose.yml ie: 8080:8080 .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/BoiteAWeb/secupress/issues/61" TITLE : php notice on activation BODY : notice: undefined index: move-login_login-access in /home/ /public_html/content/plugins/secupress-pro/core/modules/users-login/callbacks.php on line 246

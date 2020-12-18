@@ -1,0 +1,1 @@
+ URL : "https://github.com/Tefalk/Codea_Craft_Inspector/issues/1" TITLE : hard coded to 1 BODY : currently it is necessary to change an entry in the code in order to inspect a different craft object. this should be expanded to cycle through the a set of available craft objects in the asset library.

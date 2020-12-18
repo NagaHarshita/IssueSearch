@@ -1,0 +1,1 @@
+ URL : "https://github.com/CUAHSI/HydroServerLite/issues/53" TITLE : default location on map BODY : <b>rohitkh codeplex </b> <br />when the map loads, in case there are no sites, it just points in the middle of nowhere. make it either zoom on the world or user's location.

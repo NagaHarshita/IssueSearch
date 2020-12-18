@@ -1,0 +1,1 @@
+ URL : "https://github.com/rockchip-linux/rk-rootfs-build/issues/17" TITLE : libmali for arm64? BODY : hello, i am attempting to get the mali drivers working for the rk3399, however in the rockchip.sh, i see these lines: dpkg -i /packages/libmali/lib mali-rk-midgard-4th-r13p0_ .deb dpkg -i /packages/libmali/libmali-rk-dev_ .deb but i cannot find the r13p0 debs anywhere.

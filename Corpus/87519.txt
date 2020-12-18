@@ -1,0 +1,1 @@
+ URL : "https://github.com/Brok-Bucholtz/ADL-Beta/issues/2" TITLE : load pretrained vgg model BODY : in main.py load_vgg sess, vgg_path the instructions state _load pretrained vgg model into tensorflow_. are these files supposed to be provided in the repo? they are ignored in data/.gitignore and are therefore not uploaded to github.

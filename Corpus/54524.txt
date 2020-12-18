@@ -1,0 +1,1 @@
+ URL : "https://github.com/inspirehep/record-editor/issues/262" TITLE : give feedback on merge BODY : currently, after clicking on the merge button, there is no feedback that anything is happening. a merge is a potentially expensive operation, so there is some delay a few seconds . there should be some feedback that something is happening in the background.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/markdtw/tensorflow-queue-example/issues/1" TITLE : issue with loss and labels BODY : hi labels are getting shuffled during training. i am following the way you have written the code. loss is not converging due to the labels problem. what could be the reason?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/makestuff/libfpgalink/issues/34" TITLE : error in running flcli BODY : libreadline.so.6: cannot open shared object file: no such file or directory when i run flcli for my platform. also please update links in the wiki. we have a project we need to submit for which this is used, please help asap.

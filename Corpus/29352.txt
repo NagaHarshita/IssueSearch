@@ -1,0 +1,1 @@
+ URL : "https://github.com/jakesgordon/javascript-state-machine/issues/118" TITLE : lifecycle unobserve BODY : your state machine framework allows to be observed by other components. it would be very useful if there was a possibility to unobserve the events again so that i am able to unload by registered component.

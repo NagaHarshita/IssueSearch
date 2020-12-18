@@ -1,0 +1,1 @@
+ URL : "https://github.com/Canim44/simpleserver/issues/6" TITLE : client - ssdigest bonus BODY : ssdigest machinename tcpport secretkey value ssdigest returns the result of this invocation: sh -c 'echo /bin/hostname value | /usr/bin/md5sum' . the result is guaranteed to be 100 bytes or less. the client prints the result it receives from the server or fails.

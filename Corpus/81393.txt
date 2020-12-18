@@ -1,0 +1,1 @@
+ URL : "https://github.com/HeliumEdu/platform/issues/3" TITLE : write deployment scripts BODY : write ansible scripts so the project is wholly deployable to arbitrary environments.

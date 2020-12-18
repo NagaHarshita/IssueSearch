@@ -1,0 +1,1 @@
+ URL : "https://github.com/ravibpatel/AutoUpdater.NET/issues/57" TITLE : check update on startup BODY : hi, i try to use this updater on startup. but it doesn't work. the parent applicatio is starting and the downloadwindow ist closing. am i able to use this updater on startup of my application!?

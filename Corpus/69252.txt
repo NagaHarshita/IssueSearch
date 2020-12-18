@@ -1,0 +1,1 @@
+ URL : "https://github.com/gosu/gosu/issues/378" TITLE : support for drag & drop BODY : as requested here - https://www.reddit.com/r/gosu/comments/5revuf/drop_files_into_gosu_window/ can be implemented cross-platform using sdl 2: https://wiki.libsdl.org/sdl_dropevent not sure if it will work from within command-line apps on macos, though? there's no info.plist to edit :

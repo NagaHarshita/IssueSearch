@@ -1,0 +1,1 @@
+ URL : "https://github.com/blargoner/jshue/issues/17" TITLE : npm package please BODY : please have an npm wrapper for use with webpack/browserify. npm packages are then managed for updates and devs can use the npm cdns out there. 😀

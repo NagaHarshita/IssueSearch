@@ -1,0 +1,1 @@
+ URL : "https://github.com/davezuko/react-redux-starter-kit/issues/1283" TITLE : global redux variables? BODY : i'm looking for a way to set a global variable in the redux datastore. my use case is that i want to track some session information about the current logged in user and i do not want to use localstorage as some of this information will be sensitive.

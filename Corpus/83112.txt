@@ -1,0 +1,1 @@
+ URL : "https://github.com/Openarl/PathOfBuilding/issues/216" TITLE : bug conversion above 100% BODY : when picking physical to lightning on a wild strike build the 50% physical converted to lightning is treated like added damage, instead of squishing the 150% conversion down to 100% so the build should have 33% lightning and 67% of whatever element procced.

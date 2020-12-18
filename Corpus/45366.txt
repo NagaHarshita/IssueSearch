@@ -1,0 +1,1 @@
+ URL : "https://github.com/spatie/array-to-xml/issues/14" TITLE : howto change encoding BODY : hi is it possible to set an encoding when converting array . like this <?xml version= 1.0 encoding= utf-8 ?>

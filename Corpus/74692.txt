@@ -1,0 +1,1 @@
+ URL : "https://github.com/michaelmcarthur/GoogleGeocode-HASS/issues/11" TITLE : feature request gravatar BODY : check out this file https://github.com/home-assistant/home-assistant/blob/d29bdddaa790908fbe611e65eab33a2bc61a4b9f/homeassistant/components/device_tracker/__init__.py then port over to google_geocode

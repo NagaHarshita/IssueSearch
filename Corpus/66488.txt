@@ -1,0 +1,2 @@
+ URL : "https://github.com/craigiswayne/round-robin/issues/6" TITLE : move widgets to tf-core BODY : so there's a specific area for widgets in tf-core
+move the search widget and the most recent entries widget there. additionally extend the recent posts widget to pull from a specific category and or custom post type. also name space these bad boys

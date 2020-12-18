@@ -1,0 +1,1 @@
+ URL : "https://github.com/substance/substance/issues/1108" TITLE : problems in firefox BODY : we have found a number of problems/regressions related to contenteditable handling in firefox recently, which appeared without any related changes in our implementation. for now, we recommend using chrome primarily. on the long run we want to bring back firefox support.

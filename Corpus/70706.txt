@@ -1,0 +1,1 @@
+ URL : "https://github.com/LAL/openstack-lease-it/issues/38" TITLE : wrong path in readme.md BODY : in configuration file and test section of readme.md : bash cp openstack-lease-it/lease-it.cfg.example /etc/openstack-lease-it/config.ini ... should be replaced by: bash cp openstack_lease_it/lease-it.cfg.example /etc/openstack-lease-it/config.ini

@@ -1,0 +1,1 @@
+ URL : "https://github.com/piwik/piwik/issues/11975" TITLE : yandex url not recognized BODY : https://yandex.ru/ as the referrer - without any keyword in url - not recognized as yandex se traffic by piwik

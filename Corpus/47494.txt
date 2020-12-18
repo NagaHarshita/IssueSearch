@@ -1,0 +1,1 @@
+ URL : "https://github.com/jw156605/SingleSplice/issues/2" TITLE : pipeline without ercc BODY : hi, i'm working on single cell rna-seq samples that do not have ercc in it. i was wondering if the singlesplice pipeline also works in this case? thank you! kevin

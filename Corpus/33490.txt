@@ -1,0 +1,1 @@
+ URL : "https://github.com/ethereum/web3.py/issues/511" TITLE : add retry middleware BODY : what was wrong? it's not uncommon for requests sent over the network to fail due to network interruptions, and in most cases retrying the request will resolve the issue. how can it be fixed? implement simple retry middleware to handle retry on http errors automatically.

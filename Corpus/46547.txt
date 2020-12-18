@@ -1,0 +1,1 @@
+ URL : "https://github.com/hejcz/mow/issues/5" TITLE : miary jakości modelu BODY : należy napisać metody wyznaczające miarę jakości modelu: - błąd klasyfikacji - macierz pomyłek ang. confusion matrix

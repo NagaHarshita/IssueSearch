@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/azure-tools-for-java/issues/1094" TITLE : can't get azure manager BODY : intellij users have this issue when they run projects with run configuration after the login info expires.

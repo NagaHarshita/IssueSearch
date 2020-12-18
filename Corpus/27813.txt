@@ -1,0 +1,14 @@
+ URL : "https://github.com/xbmc-catchuptv-au/plugin.video.sbs/issues/759" TITLE : end-user bug report BODY : automatic bug report from end-user. environment plugin name: sbs on demand plugin id: plugin.video.sbs plugin version: 1.1.0 xbmc/kodi version: 17.0-rc4 python version: 2.7.9 default, aug 13 2016, 18:15:29 gcc 4.9.2 operating system: linux2 linux 4.4.27-7-osmc armv7l ip address: 27.32.55.104 27-32-55-104.static.tpgi.com.au isp : tpg internet python path: /home/osmc/.kodi/addons/plugin.video.sbs
+/home/osmc/.kodi/addons/script.common.plugin.cache/lib
+/home/osmc/.kodi/addons/script.module.beautifulsoup/lib
+/usr/lib/python2.7
+/usr/lib/python2.7/plat-arm-linux-gnueabihf
+/usr/lib/python2.7/lib-tk
+/usr/lib/python2.7/lib-old
+/usr/lib/python2.7/lib-dynload
+/usr/local/lib/python2.7/dist-packages
+/usr/lib/python2.7/dist-packages
+/usr/lib/python2.7/dist-packages/pilcompat
+/usr/lib/python2.7/dist-packages/gtk-2.0
+/home/osmc/.kodi/addons/plugin.video.sbs/resources/lib traceback traceback most recent call last : file /home/osmc/.kodi/addons/plugin.video.sbs/resources/lib/entries.py , line 30, in make_entries_list programs = comm.get_entries params 'entries_url' file /home/osmc/.kodi/addons/plugin.video.sbs/resources/lib/comm.py , line 263, in get_entries resp = fetch_cache_url url file /home/osmc/.kodi/addons/plugin.video.sbs/resources/lib/comm.py , line 83, in fetch_cache_url return cache.cachefunction fetch_url, url file /home/osmc/.kodi/addons/script.common.plugin.cache/lib/storageserver.py , line 570, in cachefunction ret_val = funct args file /home/osmc/.kodi/addons/plugin.video.sbs/resources/lib/comm.py , line 77, in fetch_url raise fail_exception
+urlerror: <urlopen error errno -2 name or service not known> full log https://gist.github.com/4364708cee3e529dc02c9fc39872f9da

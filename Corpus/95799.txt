@@ -1,0 +1,1 @@
+ URL : "https://github.com/vijaykatam/django-cache-manager/issues/27" TITLE : do i understand correctly? BODY : 1. if i changed an object, the whole cached objects related to the same table will be invalidated. 2. when we invalidate table, we just change the namespace, we will keep the stale cached objects in the memory, but no one will get that stale objects.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/nlopes/slack/issues/187" TITLE : how do i handle mentions? BODY : as in the title how could i handle mentions against the bot? means check if bot is mentioned and get the text after the mention a bit like commands

@@ -1,0 +1,1 @@
+ URL : "https://github.com/amol-/depot/issues/43" TITLE : any example for django? BODY : is there any example where to configure the middleware depotmanager.make_middleware ... , to use public_url for django? thanks.

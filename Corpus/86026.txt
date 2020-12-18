@@ -1,0 +1,1 @@
+ URL : "https://github.com/infolab-csail/WikipediaBase/issues/294" TITLE : get-types raises keyerror BODY : $ telnet <host> 8023 get-types bill clinton :error keyerror :message get-types i assume this is because integration between whoami and wikipediabase is currently broken. after we fix that see https://github.com/infolab-csail/whoami/issues/75 , test and see.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/2017SummerLinuxGameDevTeam/playground/issues/3" TITLE : sdl hummingbird plugin BODY : we need a sdl2 hummingbird plugin that wraps the sdl functionality and exposes it so that the framework can use it. the functionality i can come up with right now are: rendering input handling audio ?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/riscy/shx-for-emacs/issues/3" TITLE : shx-mode in eshell BODY : is there anyway to use shx-mode with eshell ? when i run shx-mode in shell , i get this when i hit return which makes it unusable: shx-point-on-input-p: wrong type argument: processp, nil

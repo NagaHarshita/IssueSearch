@@ -1,0 +1,1 @@
+ URL : "https://github.com/react-native-material-design/react-native-material-design/issues/170" TITLE : update proptypes library BODY : you're still using import react, {component, proptypes} from react ; . this is deprecated, and will be removed completely in react 16. you need to import proptypes from the separate library prop-types.

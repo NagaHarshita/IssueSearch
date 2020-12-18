@@ -1,0 +1,1 @@
+ URL : "https://github.com/CoolestProjects/ios/issues/62" TITLE : enable estimote analytics BODY : - install the cocoapods keys plugin to handle api keys and secrets - setup empty app in the estimotecloud for the bundle id to get the api key and secret - setup keys - do not commit the keys in the repo - estimote sdk setup in the appdelegate

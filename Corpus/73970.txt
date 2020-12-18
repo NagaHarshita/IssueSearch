@@ -1,0 +1,1 @@
+ URL : "https://github.com/duckduckgo/zeroclickinfo-spice/issues/3452" TITLE : dns spice is not working BODY : there is no ia return with mx records or dns records. ------ ia page: http://duck.co/ia/view/dns maintainer http://docs.duckduckhack.com/maintaining/guidelines.html : @ondronr

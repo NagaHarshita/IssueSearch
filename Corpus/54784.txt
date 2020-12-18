@@ -1,0 +1,1 @@
+ URL : "https://github.com/chrisranderson/beholder/issues/41" TITLE : how can color be used? BODY : it could be useful to use hue and value instead of just value. what would hue represent? i could constrain hue to a certain range to keep the visualization from getting too noisy.

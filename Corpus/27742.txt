@@ -1,0 +1,1 @@
+ URL : "https://github.com/TryGhost/Ghost/issues/8292" TITLE : editor title issues BODY : there are issues with the title: - 1. the ::after psuedo element is sitting on top of the cursor - 2. on key press the title looses the .empty class even if it has no content.

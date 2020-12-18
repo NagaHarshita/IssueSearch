@@ -1,0 +1,1 @@
+ URL : "https://github.com/oaeproject/3akai-ux/issues/4116" TITLE : improve tenant logo upload BODY : tenants can now upload logos via the skinning layout on the admin site, but this feature works differently from the rest of the skinning. we should make the approach more coherent.

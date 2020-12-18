@@ -1,0 +1,1 @@
+ URL : "https://github.com/chrisheninger/rental-resume.com/issues/67" TITLE : styling / scss refactor BODY : code refactor checklist mostly focused on scss - remove unnecessary scss code - remove, or update bourbon / bourbon neat - move towards newer standards such as flexbox - drop any old browser support in favor of ie11+ and modern browsers

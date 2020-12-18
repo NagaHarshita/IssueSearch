@@ -1,0 +1,1 @@
+ URL : "https://github.com/ProjectMessenger/MessengerBackEnd/issues/2" TITLE : make message send api BODY : expected behavior when the client need new message then server send new message data to client. actual behavior not working. steps to reproduce the behavior program printed log

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Esri/coordinate-conversion-addin-dotnet/issues/335" TITLE : save as functionality BODY : a user needs the ability to save the batched features to the following file types: csv, txt, xls, kml, gdb table, feature class, point shapefile, feature service

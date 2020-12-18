@@ -1,0 +1,1 @@
+ URL : "https://github.com/opencollab/jlatexmath/issues/36" TITLE : °c doesn't work BODY : °c gets changed to \\circc suggested fix: parsestring.replace pos, pos + 1, ^\\circ ; needs to be changed to this in texparser.java parsestring.replace pos, pos + 1, ^{\\circ} ; test-case: \rotatebox{90.0}{ \text{ temperature  °c } }

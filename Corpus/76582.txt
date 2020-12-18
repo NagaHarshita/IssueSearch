@@ -1,0 +1,1 @@
+ URL : "https://github.com/leonardishere/COEN-174L/issues/7" TITLE : link front and back ends BODY : if someone can write examples of how to send http requests, then i can get started writing more of them. just write the logic for /web/src/app/course.service.ts

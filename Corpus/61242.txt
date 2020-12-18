@@ -1,0 +1,1 @@
+ URL : "https://github.com/valo/melodica-inventory/issues/47" TITLE : allow to archive events BODY : allow to archive old events, so that they don't appear in the event dropdown and on the events page. this can be a flag in the events table.

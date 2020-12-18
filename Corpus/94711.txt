@@ -1,0 +1,1 @@
+ URL : "https://github.com/stdevel/katprep/issues/22" TITLE : choose shorter class names BODY : it would be handy to have shorter class names - to shorten lines like this: from katprep.client.basicicinga2apiclient import basicicinga2apiclient to this: from katprep.client.icinga2 import icinga2client

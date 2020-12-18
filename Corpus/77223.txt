@@ -1,0 +1,1 @@
+ URL : "https://github.com/coburnw/bbb-pwm/issues/2" TITLE : more specific class name BODY : perhaps rename pwm to pwm4_4 this would allow addition of classes for other kernels with other behaviors. import bbb_pwm pwm = bbb_pwm.pwm4_4 'ehrpwm0a' or from bbb_pwm import pwm4_4 as pwm pwm = pwm 'ehrpwm0a'

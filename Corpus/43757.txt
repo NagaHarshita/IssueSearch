@@ -1,0 +1,1 @@
+ URL : "https://github.com/bep/s3deploy/issues/10" TITLE : delete source options BODY : it seems like this lib will delete the s3 data if the uploading data is not matching with s3 current data. can you add an options to toggle this feature? i think most of the user will not think of this package will delete their data.

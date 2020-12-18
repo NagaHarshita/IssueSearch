@@ -1,0 +1,1 @@
+ URL : "https://github.com/wellsjo/JSON-Splora/issues/74" TITLE : filters are broken in mac BODY : this is because of relative paths for tmp directory introduced in https://github.com/wellsjo/json-splora/pull/72

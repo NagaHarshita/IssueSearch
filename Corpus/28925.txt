@@ -1,0 +1,1 @@
+ URL : "https://github.com/ernestio/ernest/issues/239" TITLE : import nat gateways BODY : given that tags are not supported on nat gateways, being able to filter out nat gateways by service name will be impossible. to get around this, we will have to infer what gateways to import via references from networks that are using nat gateways,

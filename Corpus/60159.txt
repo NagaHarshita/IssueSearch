@@ -1,0 +1,1 @@
+ URL : "https://github.com/intelsdi-x/snap-plugin-lib-cpp/issues/42" TITLE : will grpc v1.1.0 work? BODY : i have the error described here https://github.com/grpc/grpc/issues/9923. the fix is in https://github.com/grpc/grpc/pull/9340. has anyone else moved to grpc v1.1.0 or have an estimate on the amount of work required to bump grpc versions?

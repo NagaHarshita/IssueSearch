@@ -1,0 +1,1 @@
+ URL : "https://github.com/srobins259/InternetSystemsDevelopment/issues/5" TITLE : merge with new ghdata BODY : finally got the better install of ghdata commands are git clone {repolink} sudo pip3 install -upgrade . ghdata {edit config file} ghdata graphs populated. moving on to merging content.

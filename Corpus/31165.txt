@@ -1,0 +1,1 @@
+ URL : "https://github.com/chartjs/Chart.js/issues/3867" TITLE : samples not working BODY : it appears the samples pages are not working due to broken file links. please fix this as it's nice to use for templating.

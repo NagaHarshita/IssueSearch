@@ -1,0 +1,1 @@
+ URL : "https://github.com/JuliaGraphics/Colors.jl/issues/267" TITLE : hex to color? BODY : is there any reason that there isn't an inverse function for hex ? that is, a way to convert hex triplets to a color object. something like: color 7aa457 or color ihex 7aa457

@@ -1,0 +1,1 @@
+ URL : "https://github.com/duanjinqiu/practice/issues/1" TITLE : review for practice1 BODY : 三栏布局 放置零散元素的容器应当适当地留有一些 padding ，如左边盛放图片的容器，这样在布局时不需要额外的为小物件添加边距，底部也会有适当的留白。 布局主要内容时（如文章），应考虑主题部分与两端装饰元素的边距，一般以边距相等为宜。 布局大段文本时，可以给文本容器增加样式 text-align: justify 使文本平均分布，这样比较美观。如果感觉文字字符之间间距太小，可以使用 letter-spacing: n px 调整字符间距，但要注意这个样式会影响到缩进距离。

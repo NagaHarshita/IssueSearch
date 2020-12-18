@@ -1,0 +1,1 @@
+ URL : "https://github.com/PalouseRobosub/robosub_simulator/issues/82" TITLE : add hydrophone noise BODY : the simulator should add noise to the hydrophone time delta readings.

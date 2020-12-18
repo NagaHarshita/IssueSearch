@@ -1,0 +1,1 @@
+ URL : "https://github.com/sifive/openocd/issues/24" TITLE : can we get rid of preexec BODY : preexec adds a lot of hw complexity. can we rewrite openocd to not use it.

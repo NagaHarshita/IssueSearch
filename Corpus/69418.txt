@@ -1,0 +1,1 @@
+ URL : "https://github.com/GatorGauge/GatorGauge/issues/32" TITLE : team 1 nlp for comments BODY : this task is to use nlp to extract keywords and commonly used phrases from the commented text. there could also be some light sentiment analysis for the comments if we have time.

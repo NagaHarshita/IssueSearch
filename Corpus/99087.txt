@@ -1,0 +1,1 @@
+ URL : "https://github.com/devgeniem/dustpress/issues/34" TITLE : make helper data cacheable BODY : provide a means to cache the data and/or markup in helpers. this should be done in the cache-class branch https://github.com/devgeniem/dustpress/tree/cache-class .

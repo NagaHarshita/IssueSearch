@@ -1,0 +1,1 @@
+ URL : "https://github.com/crystalin/drawki/issues/1" TITLE : integrer un canvas html BODY : il faut rajouter a la page index.html un html tag canvas il faut rajouter a la librairie drawki.js une fonction qui récupère l'image du canvas sous forme: getcanvasimage { ... }

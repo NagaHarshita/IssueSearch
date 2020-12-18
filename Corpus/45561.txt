@@ -1,0 +1,1 @@
+ URL : "https://github.com/linz/linz_bde_copy/issues/19" TITLE : implement usage tests BODY : right now the application has no automated tests. this ticket is to add them.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/react-component/progress/issues/21" TITLE : circle no longer animates BODY : when the value of percent changes from 0 to 100 it no longer animates when before it did: <circle percent={percent} strokewidth= 8 strokecolor= fff trailwidth= 8 trailcolor= 6b6767 />

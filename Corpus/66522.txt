@@ -1,0 +1,1 @@
+ URL : "https://github.com/MidwestFurryFandom/rams/issues/205" TITLE : multiple badge printers BODY : when running multiple badges printers today, i ran into an issue where they started to print the same badge at the same time. possibly devise something where we can set one badge printer to print even number and another to print odd number badges.

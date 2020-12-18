@@ -1,0 +1,1 @@
+ URL : "https://github.com/Spooky-Mingos/spookymingos/issues/5" TITLE : create 503 page BODY : during updates there's a whoops page. this is going to change to a 503 maintenance window. however we first need 503 page created. it should follow the standard error page's used by laravel.

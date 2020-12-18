@@ -1,0 +1,1 @@
+ URL : "https://github.com/bengt-games/curves/issues/14" TITLE : reduce mutable state? BODY : we need to take an overview of how to handle state, mutability, and how to keep pixi.js in check

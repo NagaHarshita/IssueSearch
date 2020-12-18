@@ -1,0 +1,1 @@
+ URL : "https://github.com/Boostport/kubernetes-vault/issues/3" TITLE : rfi: init container logs BODY : hi, i'm trying to use this project. my sample app pods are stuck in initilizing state. when i try to look at the logs of the init container nothing is printed. is there a way to increase the log verbosity of the init containers? or can this feature be added?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jaredpalmer/formik/issues/51" TITLE : validate values method BODY : is it possible to expose a validate fields/values method that can be run within the hoc? right now it looks like validation is run on all fields when a value changes or on submit and it would be nice to run it whenever.

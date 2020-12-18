@@ -1,0 +1,1 @@
+ URL : "https://github.com/home-assistant/homebridge-homeassistant/issues/269" TITLE : support for input_number BODY : would it be possible to add support for the input_number https://home-assistant.io/components/input_number/ of hass? i am using one to control the volume for my sonos speakers. would be nice to be able to change the volume via homekit. thanks!

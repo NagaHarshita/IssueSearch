@@ -1,0 +1,1 @@
+ URL : "https://github.com/suyogduttjain/fusionseg/issues/4" TITLE : training prototxt file BODY : can you share your prototxt file for training appearance and motion stream, i am facing issues in loss layer for training appearance stream.

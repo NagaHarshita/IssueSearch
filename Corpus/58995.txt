@@ -1,0 +1,1 @@
+ URL : "https://github.com/DataSF/open-data-explorer/issues/295" TITLE : symbol is undefined ie BODY : looks like something is going on with ie 10/11 re: babel polyfills. haven't had time to look into it deeply, bu there are some others who have had and solved this issue. i thought cra already took care of the polyfills so i just want to make sure i'm not missing something.

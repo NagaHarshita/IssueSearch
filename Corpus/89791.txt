@@ -1,0 +1,1 @@
+ URL : "https://github.com/ZackeesInc/Turn-Signal-Glove-Firmware-2.0/issues/7" TITLE : remove battery warn state BODY : degrade indicator intensity with low battery voltages. eventually only blink the low battery led. see zach's code for reference implementation.

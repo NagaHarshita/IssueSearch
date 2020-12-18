@@ -1,0 +1,1 @@
+ URL : "https://github.com/ericmjl/nxviz/issues/75" TITLE : label for the nodes BODY : nxviz version: current version as of july 31 2017 python version: 3.6 operating system: linux description is there a way for labels for the nodes to show up in the plot? thanks!

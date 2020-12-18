@@ -1,0 +1,1 @@
+ URL : "https://github.com/BPSD-2017-P1702BT/game-of-life/issues/8" TITLE : fix code smell 2 BODY : in gridreader class, method splitintocells : replace the type specification in this constructor call with the diamond operator <>

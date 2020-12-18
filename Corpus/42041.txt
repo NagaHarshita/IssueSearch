@@ -1,0 +1,1 @@
+ URL : "https://github.com/lbryio/spee.ch/issues/165" TITLE : add uptime monitoring BODY : as a system admin, i want to have a tool that monitors spee.ch and notifies me if the site/server is down. grin prefers uptime robot even free plan is ok

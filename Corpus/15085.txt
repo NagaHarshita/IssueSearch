@@ -1,0 +1,1 @@
+ URL : "https://github.com/xebd/accel-ppp/issues/16" TITLE : crash on snmpwalk BODY : if activ ppp interface > 0 comand: snmpwalk -m +accel-ppp-mib -v 2c -c xxxxx xxxxx accel-ppp-mib::accelpppstat say: error in packet. reason: generror a general failure occured failed object: accel-ppp-mib::statpppoeactive.0 and crash accel-ppp im use pppoe server

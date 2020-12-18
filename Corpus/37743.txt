@@ -1,0 +1,1 @@
+ URL : "https://github.com/idodin/HelveticOsu-Bot/issues/6" TITLE : modularize code more BODY : modularize code for better readability and easier review. ie. more functions! .

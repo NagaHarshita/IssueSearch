@@ -1,0 +1,1 @@
+ URL : "https://github.com/vanilla-music/vanilla/issues/687" TITLE : poor mpc support BODY : you can play mpc files via the file browser, but albums are not automatically created and you cannot even create a playlist from musepack files, no matter how hard you try. note that mpc uses apev2 tags.

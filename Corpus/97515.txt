@@ -1,0 +1,1 @@
+ URL : "https://github.com/dotnet/corefx/issues/22935" TITLE : handle the errors from csc BODY : handle the errors from csc, need let customer know either warnings or errors if fail to generate the cs file, fail to compile

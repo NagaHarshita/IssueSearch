@@ -1,0 +1,1 @@
+ URL : "https://github.com/nihgwu/react-native-flanimatedimage/issues/16" TITLE : issue with xcode 9 BODY : hi there, it appears this particular dependancy is unsupported on xcode 9. it would be great if this could be addressed as i would imagine it's causing issues on a lot of plugins that rely on your great work. thanks :

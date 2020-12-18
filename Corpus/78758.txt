@@ -1,0 +1,1 @@
+ URL : "https://github.com/offa/danek/issues/60" TITLE : refactor test cmakelists BODY : refactor test cmakelists: - improve addition of source files - improve linking of libraries - merge single tests into one executable

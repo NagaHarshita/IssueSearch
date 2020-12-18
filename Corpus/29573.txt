@@ -1,0 +1,1 @@
+ URL : "https://github.com/matikin9/mapbox-studio-102/issues/11" TITLE : map loading is slow BODY : the maps with data take a long time to load and interacting with them navigating, clicking is very slow as well. maybe we should try to reduce the size of the datasets being used.

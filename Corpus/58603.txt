@@ -1,0 +1,1 @@
+ URL : "https://github.com/aubio/aubio/issues/110" TITLE : spectrogram demo locks BODY : i have noticed that the spectogram crashed in while loop: specgram = vstack specgram,pv samples .norm any idea's why this could cause python to fall over?

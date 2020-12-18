@@ -1,0 +1,1 @@
+ URL : "https://github.com/metosin/jsonista/issues/11" TITLE : return type hints BODY : write-value-as-string etc. should mark it's return types to avoid reflection on the client side

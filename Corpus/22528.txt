@@ -1,0 +1,1 @@
+ URL : "https://github.com/bumptech/glide/issues/1692" TITLE : load picture error BODY : glide 3.6.1 use android 4.3 will report: could not find class 'android.support.v4.app.fragmentactivity', referenced from method com.bumptech.glide.manager.requestmanagerretriever.get but android 5.1 will not

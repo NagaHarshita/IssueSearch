@@ -1,0 +1,1 @@
+ URL : "https://github.com/harvard-lil/cap-api/issues/60" TITLE : downloading single case BODY : ignoring kwargs in download: check out kwargs = {u'slug': u'morrison-v-broadway-seventh-avenue-railroad-9449'}

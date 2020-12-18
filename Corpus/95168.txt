@@ -1,0 +1,1 @@
+ URL : "https://github.com/CoFH/Feedback/issues/66" TITLE : crash when rotating hopper BODY : when i try to rotate a hopper with the crescent hammer it crashes the client and returns this crash log: http://pastebin.com/3m367hkh modpack used: ftb beyond foamfix was not present in this crash forge: 12.18.3.2254 te: 5.0.1.73 tf: 2.0.1.68 cofhcore: 4.0.1.137

@@ -1,0 +1,1 @@
+ URL : "https://github.com/rxtrax/tracking/issues/33" TITLE : 2 delivery status field BODY : single status field to communicate delivery status delivered, cancelled, rescheduled, archived, etc.

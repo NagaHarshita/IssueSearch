@@ -1,0 +1,6 @@
+ URL : "https://github.com/UKHomeOffice-test/bau-test/issues/6" TITLE : kubernetes token request BODY : requested by: @jits | field | value provided |
+| ---: | -------------- |
+| namespace | dev-induction |
+| pgp key | kjkkl |
+| slack id | jits |
+| are you sure you have permission to access this namespace? | true |

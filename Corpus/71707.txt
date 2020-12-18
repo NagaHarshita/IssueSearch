@@ -1,0 +1,1 @@
+ URL : "https://github.com/arout/diamondphp/issues/2" TITLE : add vendor to .gitignore BODY : since composer.json and composer.lock . will keep your dependencies up-to-date i would recommend ignoring the vendor directory with .gitignore . see here for more information on this: https://getcomposer.org/doc/faqs/should-i-commit-the-dependencies-in-my-vendor-directory.md

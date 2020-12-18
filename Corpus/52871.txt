@@ -1,0 +1,1 @@
+ URL : "https://github.com/Jen-Harris/portfolio/issues/1" TITLE : create router & server BODY : - use express to set up server - include handlebars as a templating engine this will need to serve 3 pages: - landing page - timeline - portfolio - contact

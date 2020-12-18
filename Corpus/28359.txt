@@ -1,0 +1,1 @@
+ URL : "https://github.com/ampproject/amphtml/issues/9423" TITLE : fr: infinite scroll BODY : thinking through this, but first idea is allowing scroll events to trigger amp-list src update if a w/in certain distance of bottom of document and b target amp-list element is last child of <body> though there may be a better approach e.g. w/ an entirely custom element

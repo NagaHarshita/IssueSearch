@@ -1,0 +1,1 @@
+ URL : "https://github.com/Amebis/atlex/issues/2" TITLE : relicense to gplv2+ BODY : hi, i'm a student working on a project in reactos. we want to use this library, however, reactos is gplv2+ thus we can't use gplv3 libraries without relicensing the whole codebase. since it seems small i decided to ask you to relicense it as gplv2+ so it could be used in the project :

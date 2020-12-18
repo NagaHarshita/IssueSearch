@@ -1,0 +1,1 @@
+ URL : "https://github.com/FAC-11/AllAboutMe/issues/188" TITLE : mobile styling issue BODY : trying the site on mobile the home page has a white bar along the bottom - maybe we're using viewport height? as the white bar looks like it's the height of the url bar on my phone

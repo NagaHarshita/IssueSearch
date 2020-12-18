@@ -1,0 +1,1 @@
+ URL : "https://github.com/usgs/nshmp-haz-ws/issues/41" TITLE : include version in build BODY : related to nshmp-haz 203 https://github.com/usgs/nshmp-haz/issues/203 . add cods and model version information to json usage and result responses.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/telenordigital/gocongress/issues/2" TITLE : embed congress for testing BODY : so you don't have to run against production, creating a bunch of applications and devices that are tedious to clean up. and so you don't have to spin up a local congress.

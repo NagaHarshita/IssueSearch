@@ -1,0 +1,1 @@
+ URL : "https://github.com/hellochick/PSPNet-tensorflow/issues/7" TITLE : prediction always zero BODY : i am training the model with 480x360 images and 3 classes gray-scale labels with values 0,1,2 . during the training the loss decreases and everything seems to work but during inference the model always predicts 0. does anybody have the same problem?

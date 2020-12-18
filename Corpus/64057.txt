@@ -1,0 +1,1 @@
+ URL : "https://github.com/lennyomg/VsAutoDeploy/issues/2" TITLE : filter out vshost files BODY : hi, could you add an option of blacklisting certain files? for example i do not want any of vshost files copied, but at the same time i want to copy every other file.

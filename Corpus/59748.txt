@@ -1,0 +1,1 @@
+ URL : "https://github.com/kvark/obj/issues/2" TITLE : use an external parser BODY : current parsing is rather crude, and we could do better with using pom , nom , combine , and such. cc @csherratt @vitvakatu

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jrummyapps/colorpicker/issues/5" TITLE : listeners in fragment BODY : listeners are forced to be included inside activity... inside fragment it gives force close on dismiss and select

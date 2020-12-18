@@ -1,0 +1,1 @@
+ URL : "https://github.com/sybila/biodivineGUI/issues/39" TITLE : explorer, parameter value BODY : explorer.parameter deg_x .up | explorer.parameter deg_x .up when increasing value of parameter rapidly, gui results in cycle of changes

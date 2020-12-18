@@ -1,0 +1,1 @@
+ URL : "https://github.com/codedellemc/libstorage/issues/483" TITLE : document attachment states BODY : summary provide detailed descriptions of the existing attachment states. these are currently documented in the code at https://github.com/codedellemc/libstorage/blob/master/api/types/types_model.go l129-l149

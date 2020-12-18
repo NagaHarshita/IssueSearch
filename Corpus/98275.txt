@@ -1,0 +1,1 @@
+ URL : "https://github.com/ElucidataInc/ElMaven/issues/490" TITLE : infinite loop in alignment BODY : while doing alignment using loess fit alignment algorithm and setting minimum peak intensity to a high value leads to infinite loop.

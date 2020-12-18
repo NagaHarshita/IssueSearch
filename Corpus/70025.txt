@@ -1,0 +1,1 @@
+ URL : "https://github.com/MoonchildProductions/Pale-Moon/issues/1439" TITLE : update libvpx to 1.6.x? BODY : firefox has updated their bundled libvpx to 1.6.0, see https://bugzilla.mozilla.org/show_bug.cgi?id=1223692 i wonder if palemoon will follow as well?

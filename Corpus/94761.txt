@@ -1,0 +1,1 @@
+ URL : "https://github.com/ampproject/amphtml/issues/9072" TITLE : clean up amp-ad-ui.js code BODY : no need to manage a state in this class now, since custom-element supports render-start natively now.

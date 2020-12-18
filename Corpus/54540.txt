@@ -1,0 +1,1 @@
+ URL : "https://github.com/sugarlabs/Gmail/issues/1" TITLE : gmail not in list view BODY : sugar-install-bundle gmail-6.xo succeeded with no errors reported. ubuntu 16.04 sucrose restarted. activity not shown in list view. activity ran successfully with sugar-launch - but no record in log activity.

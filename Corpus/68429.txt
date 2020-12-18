@@ -1,0 +1,1 @@
+ URL : "https://github.com/woook/moka-fe/issues/258" TITLE : rpkm for fh and alports BODY : the data for rpkm of the control sites is shifted one cell to the left as there is no gene number as there is for the fh exons. is there any way of ensuring that the data for the control sites is correctly aligned under the approprirate sample.

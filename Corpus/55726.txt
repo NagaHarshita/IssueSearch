@@ -1,0 +1,1 @@
+ URL : "https://github.com/opendatabio/opendatabio-r/issues/1" TITLE : level of user control? BODY : should we export only end functions such as odb_get_taxons , or should we export base functions such as odb_send_get ?

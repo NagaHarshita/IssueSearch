@@ -1,0 +1,1 @@
+ URL : "https://github.com/ESSS/qmxgraph/issues/5" TITLE : enable py27 build BODY : i had some crashes when i first tried them. we have to see if they are still happening and, if so, why we can do to fix them.

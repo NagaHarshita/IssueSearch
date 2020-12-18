@@ -1,0 +1,1 @@
+ URL : "https://github.com/MapCreatorEU/api-wrapper/issues/85" TITLE : sorting doesn't work BODY : - sorting works only for organisations and users. - when the sorted list goes on the next page, the sorting breaks down.

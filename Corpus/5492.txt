@@ -1,0 +1,1 @@
+ URL : "https://github.com/pypingou/fedora-owner-change/issues/5" TITLE : port to pagure BODY : the script is still using pkgdb topics for queries, so it's no longer returning relevant results last email reported 0 changes, which is unlikely to be true

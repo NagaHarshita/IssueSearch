@@ -1,0 +1,1 @@
+ URL : "https://github.com/vodik/repose/issues/47" TITLE : repose failed to parse BODY : i'm getting several issues with packages failing like repose: failed to parse pkginfo on sdl2_mixer-2.0.1-1-x86_64.pkg.tar.xz these are from the official repos on arch.

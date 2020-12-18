@@ -1,0 +1,1 @@
+ URL : "https://github.com/bwpearre/printimage/issues/9" TITLE : rescale doesn't work BODY : changing the print zoom controls should force a re-voxelisation.

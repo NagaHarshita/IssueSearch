@@ -1,0 +1,1 @@
+ URL : "https://github.com/spotboard/spotboard/issues/13" TITLE : star a team BODY : add a new feature to star teams. - the database is stored in the html5 local storage. its context binds to contest, distinguished by its contest title. - be able to sort out only starred teams, and trigger desktop notification for the starred teams only.

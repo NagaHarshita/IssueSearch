@@ -1,0 +1,1 @@
+ URL : "https://github.com/meandmax/lory/issues/628" TITLE : add 'initialindex' option BODY : it would be useful to initialize a lory slider with an initial index value, instead of just '0'. ex: js lory sliderelement, { initialindex: 2 } ;

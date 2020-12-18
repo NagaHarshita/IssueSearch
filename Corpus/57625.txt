@@ -1,0 +1,1 @@
+ URL : "https://github.com/devin-la/ionic-video-chat-v2-issues/issues/22" TITLE : read and unread status BODY : store an array of read messages on the server. send read receipts to others in chat.

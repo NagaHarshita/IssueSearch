@@ -1,0 +1,1 @@
+ URL : "https://github.com/haxetink/tink_anon/issues/6" TITLE : splat fields of fields? BODY : haxe var o:{a:foo, b:foo}; splat o, o.foo ; // becomes: var a = o.a.foo; var b = o.b.foo;

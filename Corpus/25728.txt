@@ -1,0 +1,1 @@
+ URL : "https://github.com/esikachev/project-411/issues/6" TITLE : add .gitignore file BODY : we need .gitignore file to automatically ignore files we would like to like .idea/ or __pycache__/

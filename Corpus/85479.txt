@@ -1,0 +1,1 @@
+ URL : "https://github.com/vimeo/psalm/issues/190" TITLE : false positive: imagewebp BODY : with vimeo/psalm:dev-master, b4542316faf1a46801e8874ee8b02bfa20e4e53c php imagewebp $im, $tmp ; > toofewarguments - src\transformer.php:65 - too few arguments for method imagewebp param 3 is optional integer for quality related to phpstan/phpstan 389

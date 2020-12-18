@@ -1,0 +1,1 @@
+ URL : "https://github.com/Yelp/pgctl/issues/188" TITLE : logs should be rotated BODY : pgctl does not currently rotate the log that it writes in playground/$service/log from the service's stdout. this means that the files can become huge with time. since that's undesirable, it's probably worth using something like s6-log to rotate the log files.

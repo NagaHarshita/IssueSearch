@@ -1,0 +1,12 @@
+ URL : "https://github.com/AppFolioOnboarding/image-sharer-zldavis/issues/13" TITLE : required tag association BODY : as a user i want all images to have at least one tag. __story__: the tag feature has been a hit. our users love being able to filter images by
+cats, sr-71s, and appfolio tshirts to name a few. in fact, we have discovered
+that images without any tags receive significantly less views than those with
+tags. as a result, we have decided to require all images to have at least one
+tag. __acceptance criteria__:
+- i cannot save an image without adding at least one tag.
+- an error message is associated with the appropriate input field when a
+tag is not provided.
+- all images have at least one tag. __discussion topic__:
+- what do you do about existing images that have no tags? __dependencies__:
+- image tags
+- refactor flow tests to use page objects

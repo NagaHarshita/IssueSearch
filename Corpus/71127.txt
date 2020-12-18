@@ -1,0 +1,1 @@
+ URL : "https://github.com/gorhill/uBlock/issues/3241" TITLE : aak-cont is discontinued BODY : aak-cont has been discontinued. https://gitlab.com/xuhaiyang1234/aak-cont/commit/e7ba251c5853eb541376fd9a393983934b7d0ef1 the replacement seems to be adblock protector 2; however, while the filterlist has been released, the actual extension has not.

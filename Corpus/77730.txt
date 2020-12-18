@@ -1,0 +1,1 @@
+ URL : "https://github.com/directus/directus/issues/1465" TITLE : nothing to see on filter BODY : when changing filters, if you get no results it should show nothing to see here example: 1. viewing published only item listing 2. check all items and make draft 3. you will see no results, but still have a table header and no nothing to see here

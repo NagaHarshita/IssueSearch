@@ -1,0 +1,1 @@
+ URL : "https://github.com/qntfy/kazaam/issues/24" TITLE : add require option BODY : add functionality to require source fields to be present in the input json. otherwise throw an error.

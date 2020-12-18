@@ -1,0 +1,1 @@
+ URL : "https://github.com/Cobbleopolis/MonsterTruckBot/issues/138" TITLE : common message util BODY : the common messageutil should be changed so that it is a common class that both the discordmessageutil and twitchmessageutil inherit from

@@ -1,0 +1,1 @@
+ URL : "https://github.com/LibertyPaul/LostFilmUpdatesBot/issues/26" TITLE : keep track of update_id. BODY : store this values among with text in 'messageshistory' table and do not respond twice to same message.

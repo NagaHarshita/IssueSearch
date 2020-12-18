@@ -1,0 +1,1 @@
+ URL : "https://github.com/cvra/uwb-beacon-board/issues/1" TITLE : no way to enter dfu BODY : it would be nice to be able to program the board using only the usb connection, through built in dfu bootloader. adding a small switch or button for this would be nice.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/FaridSafi/react-native-google-places-autocomplete/issues/144" TITLE : only appearing for ios BODY : right now we're using the autocomplete in an exponent project and it appear fine in ios but the autocomplete doesn't show in android. is there some kind of additional setup for android? thanks!

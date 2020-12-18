@@ -1,0 +1,1 @@
+ URL : "https://github.com/dlang-snaps/dmd.snap/issues/11" TITLE : publish in a store BODY : why this snap is not published yet? instructions https://snapcraft.io/docs/build-snaps/publish are pretty simple, or are there other problems? as package for archlinux got orphaned, i am looking for alternatives and snap package is the best one.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Ppgtjmad/SimpleShops/issues/15" TITLE : admin not working on dedi BODY : now wont work on my dedi and error from server rpt error undefined variable in expression: hg_fnc_parsegear file mpmissions\__cur_mp.altis\hg\setup\fn_playerserverinitialization.sqf, line 98

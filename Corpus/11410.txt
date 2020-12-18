@@ -1,0 +1,1 @@
+ URL : "https://github.com/sdementen/piecash/issues/52" TITLE : handle iso dates BODY : hm, as a matter of fact, gc 2.7.2 already stores the dates in iso format. the new records have 1970-01-01 00:00:00 values in the field. hence i'm getting valueerror: couldn't parse datetime string: '1970-01-01 00:00:00' errors on any table that has records with the new format.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Radarr/Radarr/issues/870" TITLE : bug on filters BODY : bug on filters hi guys you have a filter that says missing only but is also shows not monitored. the filter needs to do as it says just show me missing only please

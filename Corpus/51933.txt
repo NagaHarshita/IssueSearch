@@ -1,0 +1,1 @@
+ URL : "https://github.com/tzutalin/dlib-android/issues/43" TITLE : build error: no opencv BODY : hey, i was trying to build following your tutorial exactly with python build.py but an error indicates the opencv is not present. can you give any explanations on how to add it? make: no rule to make target '/home/ezequiel/dlib-android/third_party/opencv/jni/opencv.mk'. stop.

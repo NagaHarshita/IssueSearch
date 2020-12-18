@@ -1,0 +1,1 @@
+ URL : "https://github.com/lbertz02/rfc4006bis/issues/30" TITLE : conform to rfc2119 BODY : replace section 1.1 with: the key words must , must not , required , shall , shall not , should , should not , recommended , may , and optional in this document are to be interpreted as described in rfc 2119.

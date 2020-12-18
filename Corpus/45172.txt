@@ -1,0 +1,1 @@
+ URL : "https://github.com/Exerro/Sheets/issues/33" TITLE : help for build system BODY : the command sbs help command is required to show information on a specific command or just general help. the phrase sbs help using <command> could also be useful for showing tutorial-like help on a command rather than just documentation/usage.

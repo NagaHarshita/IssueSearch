@@ -1,0 +1,1 @@
+ URL : "https://github.com/erikras/postmessage-client-server/issues/2" TITLE : exception thrown in client BODY : hello, please remove the exception thrown in client or add a param to make it silent because i can't catch it. if i use promise.catch it isn't working because it's part from the window.addeventlistener 'message' event thanks

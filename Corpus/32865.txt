@@ -1,0 +1,1 @@
+ URL : "https://github.com/ogema/ogema/issues/14" TITLE : xss in security-gui BODY : poc: 1. create a user with xss payload in username /><script>alert 1 </script> 2. visit /security-gui/index.html 3. assign user to localappdirectory. 4. click on appstore information.

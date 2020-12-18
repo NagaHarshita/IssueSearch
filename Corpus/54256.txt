@@ -1,0 +1,1 @@
+ URL : "https://github.com/JuergenGutsch/graphql-aspnetcore/issues/6" TITLE : fix the appveyor build BODY : currently the appveyor build is not running, because of an path issue. this need to be fixed asap

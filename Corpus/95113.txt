@@ -1,0 +1,1 @@
+ URL : "https://github.com/Syl2010/ModoBot/issues/4" TITLE : corrections pour plus tard BODY : - modifié le temps de suppressions pour le message de mute et/ou de démute - manque l'info <user> pour la commande 'mute' dans l'help

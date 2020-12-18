@@ -1,0 +1,1 @@
+ URL : "https://github.com/ArthurClemens/polythene-mithril-rewrite-branch-starter/issues/1" TITLE : can't build project BODY : error in ./src/index.js module not found: error: can't resolve 'polythene-material-design' in 'h:\proj\polythene-mithril-rewrite-branch-starter\src' @ ./src/index.js 3:0-69

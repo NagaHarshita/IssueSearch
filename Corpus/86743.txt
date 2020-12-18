@@ -1,0 +1,1 @@
+ URL : "https://github.com/rapid7/ruby_smb/issues/87" TITLE : implement tree disconnect BODY : the tree class needs to have a method to properly disconnect the tree

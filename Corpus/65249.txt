@@ -1,0 +1,1 @@
+ URL : "https://github.com/MercerU-TCO/CTS/issues/10" TITLE : improve visit simulator BODY : 1 enable start-date parameter visits start on this date and go from there to the lesser of present or x days 2 enable configuration of disease diagnosis frequencies to test reports 3 enable others?

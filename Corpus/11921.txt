@@ -1,0 +1,1 @@
+ URL : "https://github.com/xamarin/Xamarin.PropertyEditing/issues/97" TITLE : mac group editor BODY : - core: - x view model - x tests - editor: - design - localized - behavior: - keyboard control - accessibility - selection - theming: - light themed - dark themed - high contrast

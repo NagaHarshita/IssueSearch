@@ -1,0 +1,1 @@
+ URL : "https://github.com/Hagibaer/uni/issues/1" TITLE : plot decision region BODY : take a look at mlxtend https://github.com/rasbt/mlxtend . it has functions like plot decision regions built in. ;- best

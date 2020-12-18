@@ -1,0 +1,1 @@
+ URL : "https://github.com/telecmi/TeleCMI-Support/issues/22" TITLE : analysis details tab BODY : in the analysis details section, the agent name is showing the agent's pstn number . but for another agent it is showing the agent name. note: i have created 2 agents.

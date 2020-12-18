@@ -1,0 +1,1 @@
+ URL : "https://github.com/nwoodthorpe/Load-Balancer-Golang/issues/2" TITLE : better config errors BODY : when missing fields in config, we should give a more descriptive error. we should also have functionality for optional fields in the config.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/italo-batista/SIGA/issues/55" TITLE : criar usuário adm default BODY : atualmente é preciso criar um primeiro usuário pelo postman, ou de outro modo nunca será possível fazer login. é preciso criar um login default, a partir do qual sejam criadas as primeiras contas

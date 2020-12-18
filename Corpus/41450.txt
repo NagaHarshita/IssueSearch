@@ -1,0 +1,1 @@
+ URL : "https://github.com/fhightower/test-repo/issues/33" TITLE : 4.4 batch api updates BODY : original issue 15 associations are now possible via the batch api upload and there may be others... ping integrations about jira tc-612 for more details on the changes

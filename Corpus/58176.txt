@@ -1,0 +1,1 @@
+ URL : "https://github.com/sqlcollaborative/dbatools/issues/728" TITLE : schemazen as a library BODY : adding figure out building schemazen https://github.com/sethreno/schemazen/tree/master/model/models as a library in a reproducible manner to @constantinek's todo 👍

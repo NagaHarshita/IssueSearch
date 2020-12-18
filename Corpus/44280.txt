@@ -1,0 +1,1 @@
+ URL : "https://github.com/Donerkebap13/DonerECS/issues/2" TITLE : error messages system BODY : - create a system to log info about errors/warnings related to donerecs. - populate the code with the proper errors/warnings when needed.

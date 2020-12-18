@@ -1,0 +1,1 @@
+ URL : "https://github.com/cmdmnt/commandment/issues/11" TITLE : authentication via sso BODY : there is currently no authentication. auth should be provided to access protected resources in the api via sso. flask-oauthlib already provides an oauth2 service, but this may be overkill.

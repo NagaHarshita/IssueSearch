@@ -1,0 +1,1 @@
+ URL : "https://github.com/Automattic/wp-calypso/issues/13740" TITLE : explore deploy using pkg BODY : interesting idea to use pkg and docker multi-stage build: https://medium.com/@marcosnils/reducing-nodejs-docker-images-size-by-50-using-multi-sage-builds-and-zeit-pkg-360ab8b6c6d2

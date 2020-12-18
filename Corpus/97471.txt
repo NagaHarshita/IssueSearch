@@ -1,0 +1,1 @@
+ URL : "https://github.com/mandelbulb-4d/mandelbulb-4d/issues/1" TITLE : gui start issue on windows BODY : the procedure entry point could not be located in the dynamic link library c:\windows\system32\ig9icd64.dll process seems to happen alright according to terminal, but the gui fails to start with above message.

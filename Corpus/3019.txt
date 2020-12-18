@@ -1,0 +1,1 @@
+ URL : "https://github.com/maximgatilin/weathernow/issues/25" TITLE : hide api keys BODY : weatherapiid спрятать в .env, а .env кинуть в .gitignore dotenv-webpack https://www.npmjs.com/package/dotenv-webpack to the rescue

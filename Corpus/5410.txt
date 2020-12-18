@@ -1,0 +1,1 @@
+ URL : "https://github.com/turingmachine/omxplayer-sync/issues/64" TITLE : option -u loop BODY : just figured out this issue since the new gapless script: when starting omxplayer-sync without the -u flag it does not loop but when starting omxplayer-sync -o local it loops but it should not! -o local stands for the audio output there must be an issue in forwarding the flags.

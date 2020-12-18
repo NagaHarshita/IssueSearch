@@ -1,0 +1,1 @@
+ URL : "https://github.com/dmonopoly/gtest-cmake-example/issues/9" TITLE : makefile is not created BODY : i was trying to run this sample. but after cmake .. command, no makefile is created thus unable to run make command. please help? i am new to this.

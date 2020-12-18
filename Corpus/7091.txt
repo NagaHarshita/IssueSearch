@@ -1,0 +1,1 @@
+ URL : "https://github.com/sweIhm/sweiproject-tg2b-3/issues/13" TITLE : delete activity BODY : name | role | description | use | acceptance criteria -- | -- | -- | -- | -- delete activity | admin | the admin can delete activities requested from users. | the admin has to decide whether this activity is completed or the request is valid. | request from user for deleting.

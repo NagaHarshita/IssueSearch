@@ -1,0 +1,1 @@
+ URL : "https://github.com/brianbunke/ConfluencePS/issues/45" TITLE : support of new apis BODY : i am finding a lot of limitations of the rest api. i am creating the tickets and tagging them. however.... that makes me think: how will we handle a function that uses an api that does not work on all confluence versions?

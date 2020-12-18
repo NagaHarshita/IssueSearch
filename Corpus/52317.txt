@@ -1,0 +1,1 @@
+ URL : "https://github.com/Queens-Physics/qexpy/issues/32" TITLE : check that python is 3 BODY : pip python 2 let me install qexpy without complaining. when importing qexpy in a python2 notebook, it gives an obscure error not at all clear that the issue is the version of python .

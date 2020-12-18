@@ -1,0 +1,1 @@
+ URL : "https://github.com/cyclerdan/Projtrack3/issues/105" TITLE : re-write report generator BODY : the current version of the report generator is obnoxiously slow, inefficient, and just plain badly-written. i'm going to write a new version that should improve on the old one considerably.

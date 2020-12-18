@@ -1,0 +1,1 @@
+ URL : "https://github.com/badoo/Chatto/issues/285" TITLE : circle user avatar BODY : i install chatto with pods : pod 'chatto', '~> 3.0.1' pod 'chattoadditions', '~> 3.0.1' i need useravatar imageview show circle ? witch class must be override ? thanks

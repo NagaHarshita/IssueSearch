@@ -1,0 +1,1 @@
+ URL : "https://github.com/StellarFw/stellar/issues/114" TITLE : remove docs folder BODY : when the general.generatedocumentation and the previously generated docs folder exist we must remove it. otherwise, the user will think that the docs aren't accessible at all and that it's true.

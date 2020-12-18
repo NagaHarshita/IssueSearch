@@ -1,0 +1,1 @@
+ URL : "https://github.com/euvl/vue-js-modal/issues/18" TITLE : resizing on touchscreens BODY : make resizing work on the touchscreens. resizer component should be using touch events as well ass mouse events

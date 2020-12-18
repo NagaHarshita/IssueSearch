@@ -1,0 +1,1 @@
+ URL : "https://github.com/alvarogzp/clock-bot/issues/30" TITLE : improve locale parsing BODY : if a territory-specific locale eg. en-ir cannot be found, try to get the language only locale en . it is a better option than using the default locale in this case.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/EionRobb/purple-discord/issues/57" TITLE : direct messages repeat BODY : commit 4c4c480 introduced a change that causes direct messages to be fetched from the discord server multiple times. looks like a fix would entail either setting those messages as read on the discord server or not refetching them.

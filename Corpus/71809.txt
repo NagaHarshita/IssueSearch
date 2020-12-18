@@ -1,0 +1,1 @@
+ URL : "https://github.com/jhmvin/neko-sql/issues/2" TITLE : all connection no commit BODY : all connections that came from the app instance should be auto commit false

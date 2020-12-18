@@ -1,0 +1,1 @@
+ URL : "https://github.com/vatesfr/xo-web/issues/2178" TITLE : storage vhd chain health BODY : we should be able to show a view like xapi-explore-sr but just for non-healthy chains.

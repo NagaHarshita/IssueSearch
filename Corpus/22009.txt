@@ -1,0 +1,1 @@
+ URL : "https://github.com/megies/obspyck/issues/41" TITLE : hypo2000 and nlloc BODY : what is the default path for obspyck to find these plug-ins? i was looking through past questions and these talked about setting --pluginpath, but this option doesn't seem to be there any more ... thanks

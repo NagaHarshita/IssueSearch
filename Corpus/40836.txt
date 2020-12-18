@@ -1,0 +1,1 @@
+ URL : "https://github.com/CERNDocumentServer/cds/issues/518" TITLE : verify access rights BODY : - if we have a record that is restricted but contains a bucket that is not restricted, we need to test that a user who doesn't have access to the record doesn't have access to the files. - decide if we merge _deposit.owners with _access

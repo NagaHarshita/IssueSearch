@@ -1,0 +1,1 @@
+ URL : "https://github.com/GetStream/vg/issues/16" TITLE : go list incorrect BODY : using 0.6.5 the output of go list ./... is incorrect eg. github.com/goadapp/goad is listed as _/users/tommaso/src/go_development/src/github.com/goadapp/goad

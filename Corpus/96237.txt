@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpenDroneMap/WebODM/issues/92" TITLE : entwine + grayhound plugin BODY : it would be cool to add the ability to link an external entiwine/grayhound server to webodm so that point cloud results can be automatically added and merged into the index.

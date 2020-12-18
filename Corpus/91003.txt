@@ -1,0 +1,1 @@
+ URL : "https://github.com/MaicolBen/twilio_mock/issues/4" TITLE : support for twilio-ruby 5 BODY : what are the plans to support the new twilio-ruby gem? the 4.x version will be end of life soon. here is the migration guide with more details. https://github.com/twilio/twilio-ruby/wiki/ruby-version-5.x-upgrade-guide

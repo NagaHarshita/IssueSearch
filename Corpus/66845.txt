@@ -1,0 +1,1 @@
+ URL : "https://github.com/patrio/eslint-config-react/issues/6" TITLE : no-labels appears twice BODY : https://github.com/patrio/eslint-config-react/blob/master/index.js l77 https://github.com/patrio/eslint-config-react/blob/master/index.js l88 one of those probably should be removed

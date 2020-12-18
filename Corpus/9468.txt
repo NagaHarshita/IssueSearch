@@ -1,0 +1,1 @@
+ URL : "https://github.com/ericboehs/smartthings-roku-tv/issues/1" TITLE : wol not working BODY : i have added this device handler for my tcl roku tv and i love having it as one of my smart things in the smartthings app. my only issue is that if the tv has fallen asleep the wake on lan isn't working. is there any way for me to see what is causing this not to work?

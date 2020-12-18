@@ -1,0 +1,1 @@
+ URL : "https://github.com/arusahni/git-req/issues/6" TITLE : add python 3 support BODY : when trying to utilize python 3.6, the following error spits out: python file <string> , line 1 from __future__ import print_function; import sys, re; print re.search ur' http s ?|ssh :\/\/ ? \s+@ ? ^:\/ + ', sys.stdin.read .group 4 ^ syntaxerror: invalid syntax

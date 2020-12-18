@@ -1,0 +1,1 @@
+ URL : "https://github.com/marcosmoura/vue-material/issues/715" TITLE : modify scss file BODY : hi, i would like to know how modify a scss file like mdselect.scss and compile to update vue-material.css? in fact i would change the size of the list generate when you clik on select box. thanks

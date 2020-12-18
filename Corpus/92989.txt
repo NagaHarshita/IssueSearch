@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla-services/lua_sandbox_extensions/issues/92" TITLE : add a tz conversion module BODY : since the lua_sandbox only runs using a utc timezone a tz conversion module would be useful for logs that aren't in utc or outputting an offset in the log.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/RadeonOpenCompute/ROCm/issues/119" TITLE : kernel build failure caffe BODY : hi, not sure where this belongs but i can't complete caffe's opencl branch's test due to a kernel crash. more details here: https://github.com/bvlc/caffe/issues/5610

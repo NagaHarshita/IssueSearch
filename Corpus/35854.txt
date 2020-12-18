@@ -1,0 +1,2 @@
+ URL : "https://github.com/alexbanister/2dobox-pivot-3/issues/16" TITLE : filter by importance BODY : the application should allow users to filter the todo list based on level of importance. your application should have 5 buttons corresponding to each level of importance critical, high, normal, low, and none .
+when one of the filter buttons is clicked, the todo list should only display todos with the selected importance.

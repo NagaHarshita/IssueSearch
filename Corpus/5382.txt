@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/powerbi-visuals-enhancedscatter/issues/4" TITLE : npm test fails BODY : chrome 57.0.2987 mac os x 10.12.3 error uncaught referenceerror: exports is not defined at test/_references.js:27

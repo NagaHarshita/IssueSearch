@@ -1,0 +1,1 @@
+ URL : "https://github.com/sinergi/php-browser-detector/issues/89" TITLE : wrong chrome version BODY : i have newest chrome version 62.0.3202 but this package gives me version 10 . $browser = new \sinergi\browserdetector\browser ; $browserversion = $browser->getversion ;

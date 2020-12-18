@@ -1,0 +1,1 @@
+ URL : "https://github.com/miczed/knub-web/issues/11" TITLE : show profile view BODY : - show inputs fields with profile stuff - save button - change password auth - change mail auth - save other stuff to firebase db users/id/

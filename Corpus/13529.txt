@@ -1,0 +1,1 @@
+ URL : "https://github.com/tlerma83/Video-Asp.Net-MVC/issues/2" TITLE : user can log out BODY : given a user is currently logged in when user selects option to log out then user is logged out and redirected to welcome home page

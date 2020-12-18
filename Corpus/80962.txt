@@ -1,0 +1,1 @@
+ URL : "https://github.com/Licenser/orgtool2/issues/3" TITLE : users can edit themselfs BODY : when a user has the 'active' permissiojn then can edit their player even if they don't have player edit permission. that way non admin users can edit themselfs.

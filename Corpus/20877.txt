@@ -1,0 +1,1 @@
+ URL : "https://github.com/apaganobeleno/authentic/issues/9" TITLE : default login page BODY : currently if a login page is not passed by the setup time, the app will break without one when redirected, we need to provide a default one.

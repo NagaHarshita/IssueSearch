@@ -1,0 +1,1 @@
+ URL : "https://github.com/novus/nvd3/issues/1975" TITLE : error bars for line charts BODY : it would be great to have the option to specify yerr for line charts as well in order to display error bars. does that make sense? is that easy to implement?

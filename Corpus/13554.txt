@@ -1,0 +1,1 @@
+ URL : "https://github.com/y32/rlsrb/issues/11" TITLE : v1.0 code review BODY : refactor: - improve dry of api - add any other helpful high level methods to client review: - documentation - code style consistency

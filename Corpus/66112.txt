@@ -1,0 +1,1 @@
+ URL : "https://github.com/silviomoreto/bootstrap-select/issues/1740" TITLE : make width to have auto BODY : hello, i would like to make the width of the select to have auto width but it doesn't work. what part am i missing? i'm using bootstrap v3 with bootstrap-select demo: http://jsbin.com/fedusazilo/edit?html,output thank you!

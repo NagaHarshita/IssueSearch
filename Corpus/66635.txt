@@ -1,0 +1,1 @@
+ URL : "https://github.com/ybashir/pycon_web/issues/44" TITLE : need speakers ui tweaks BODY : - the images of the speakers should not be animated. - make them all monochrome for a better outlook. - fix speakers placement, no empty blocks in between. ! fix placement https://user-images.githubusercontent.com/14196678/31536618-c27fac50-b018-11e7-8305-acadc7769307.png

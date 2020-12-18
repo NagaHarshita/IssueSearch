@@ -1,0 +1,1 @@
+ URL : "https://github.com/alesmit/jquery-hortree/issues/2" TITLE : bad arrows positioning BODY : hi! i think there is a bug with arrows positioning. it always calculate position from left corner of window, not container. ! image https://cloud.githubusercontent.com/assets/5075100/25599512/4399e284-2ee5-11e7-9bba-ba375e6150f9.png

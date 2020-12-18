@@ -1,0 +1,1 @@
+ URL : "https://github.com/topjohnwu/magisk-module-template/issues/31" TITLE : magisk 14.0 template BODY : updated from 13.3 to 14.0 update my module to updated template. when i flash from magisk manager it tells me this /data/magisk isn't setup properly! please install magisk 14.0+ failed installation error!

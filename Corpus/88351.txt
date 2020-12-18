@@ -1,0 +1,1 @@
+ URL : "https://github.com/42ity/FTY/issues/3" TITLE : new agent fty-fty-mdns-sd BODY : this new agent manages network announcement mdns and discovery dns-sd . it collects information from fty-info agent, then it publishes it to avahi-deamon mdns . for now, discovery is not yet implemented https://github.com/geraldguillaume/fty-mdns-sd

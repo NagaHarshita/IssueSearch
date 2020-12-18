@@ -1,0 +1,1 @@
+ URL : "https://github.com/xuset/planktos/issues/8" TITLE : make the cli more usable BODY : the cli currently does not conform to the expected user interface. specific concerns: - installing the library should be one command - bundling files into a torrent should be a separate command

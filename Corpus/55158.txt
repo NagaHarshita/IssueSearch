@@ -1,0 +1,1 @@
+ URL : "https://github.com/commercialprogression/jekyll-brochure/issues/1" TITLE : improve color contrast BODY : in order for the template to have good a11y compliance, address places in the s css where the text/foreground color does not have sufficient contrast with the background.

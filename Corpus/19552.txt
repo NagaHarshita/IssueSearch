@@ -1,0 +1,1 @@
+ URL : "https://github.com/CornerstoneIO/cornerstone-ui/issues/8" TITLE : add in more routes BODY : add in the following routes: index / login /login dashboard /dashboard organization /organization/:id /organization/:id/church behind authentication

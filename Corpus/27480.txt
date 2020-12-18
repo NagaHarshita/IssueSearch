@@ -1,0 +1,1 @@
+ URL : "https://github.com/EyeSeeTea/dataset-configuration-blessed/issues/71" TITLE : delay on data entry BODY : adding the ultimate data set forced out some issues: delay on data entry. i'm guessing the js works in the background and re-draws everything for each change and that gives the big data set a delay for each entry? see gif in comment.

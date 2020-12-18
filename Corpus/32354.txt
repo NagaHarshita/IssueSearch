@@ -1,0 +1,1 @@
+ URL : "https://github.com/RoboJackets/igvc-software/issues/251" TITLE : update system stats BODY : there is a system stats node that exists in the repository igvc/src/system_stats and a custom message at igvc_msgs/msg/system_stats.msg. we would like this node to publish more information than just cpu and memory usage.

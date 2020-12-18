@@ -1,0 +1,1 @@
+ URL : "https://github.com/spring-projects/spring-data-build/issues/417" TITLE : downgrade to cdi 1.0 BODY : downgrade to cdi to build against the previous java ee 6 baseline and to not accidentally require java ee 8 api. related ticket 416

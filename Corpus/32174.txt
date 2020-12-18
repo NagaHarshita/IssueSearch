@@ -1,0 +1,1 @@
+ URL : "https://github.com/cocos-creator/creator-docs/issues/186" TITLE : typo in english doc BODY : en/animation/scripting-animation.md this document page refers to method: getcomopnent .. but shouldn't it be: getcomponent ?

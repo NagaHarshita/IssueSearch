@@ -1,0 +1,1 @@
+ URL : "https://github.com/GitbookIO/licenses-utils/issues/2" TITLE : improved detection engine? BODY : fyi, i maintain https://github.com/nexb/scancode-toolkit ... it could help for the license detection side. this is python code, but it returns json so should be easy to plug in imho

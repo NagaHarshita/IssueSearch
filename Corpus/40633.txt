@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla/delivery-dashboard/issues/43" TITLE : upgrade flow to 0.54 BODY : this will need a migration and an update to https://www.npmjs.com/package/eslint-plugin-react which is currently 7.3.0 not supporting it .

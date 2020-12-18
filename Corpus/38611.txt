@@ -1,0 +1,1 @@
+ URL : "https://github.com/masasam/emacs-easy-jekyll/issues/1" TITLE : problem with preview BODY : hi when doing a preview for a post, it is trying to execute jekyll serve . it is exiting abnormally. but for my system i need to do bundle exec jekyll serve . how do i go about fixing this?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/pfefferle/wordpress-webmention/issues/119" TITLE : custom post types BODY : i'm experimenting with custom post types and they don't seem to be sending webmentions. regular posts work just fine. are custom posts supported? if so, any idea where i should look to see why they aren't sending?

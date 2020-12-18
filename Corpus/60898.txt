@@ -1,0 +1,1 @@
+ URL : "https://github.com/rasodu/DLEMP/issues/84" TITLE : add php language server BODY : it is already released as docker image on docker server: https://hub.docker.com/r/felixfbecker/php-language-server/

@@ -1,0 +1,1 @@
+ URL : "https://github.com/aeonix/aeon/issues/64" TITLE : error @ 45% during make BODY : makelog.txt https://github.com/aeonix/aeon/files/1058103/makelog.txt logs are attached from ubuntu:16.04 run apt-get update && apt-get install -y cmake g++ libboost-all-dev run mkdir /opt/git &&\ cd /opt/git &&\ git clone https://github.com/aeonix/aeon.git &&\ cd aeon &&\ make

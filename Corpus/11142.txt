@@ -1,0 +1,1 @@
+ URL : "https://github.com/PolarisTeam/PolarisCore/issues/42" TITLE : fix broken tests BODY : merge requests are blocked due to failing tests. @alama could you help investigate, i'll take a look at them when i get a chance otherwise.

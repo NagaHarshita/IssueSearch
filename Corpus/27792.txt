@@ -1,0 +1,13 @@
+ URL : "https://github.com/andybotting/xbmc-addon-abc-iview/issues/2888" TITLE : end-user bug report BODY : automatic bug report from end-user. environment plugin name: abc iview plugin id: plugin.video.abc_iview plugin version: 1.8.0 xbmc/kodi version: 17.1 git:fc1619b python version: 2.7.13 default, mar 2 2017, 11:37:04 gcc 6.2.0 operating system: linux2 linux 4.9.13 armv7l ip address: 103.27.226.14 isp : zero 2 infinity, llc python path: /storage/.kodi/addons/plugin.video.abc_iview
+/storage/.kodi/addons/script.common.plugin.cache/lib
+/storage/.kodi/addons/script.module.beautifulsoup/lib
+/storage/.kodi/addons/script.module.requests/lib
+/usr/lib/python27.zip
+/usr/lib/python2.7
+/usr/lib/python2.7/plat-linux2
+/usr/lib/python2.7/lib-tk
+/usr/lib/python2.7/lib-old
+/usr/lib/python2.7/lib-dynload
+/usr/lib/python2.7/site-packages
+/usr/lib/python2.7/site-packages/gtk-2.0
+/storage/.kodi/addons/plugin.video.abc_iview/resources/lib traceback traceback most recent call last : file /storage/.kodi/addons/plugin.video.abc_iview/resources/lib/play.py , line 47, in play stream = comm.get_stream_url p.get_house_number , p.get_url file /storage/.kodi/addons/plugin.video.abc_iview/resources/lib/comm.py , line 113, in get_stream_url request.raise_for_status file /storage/.kodi/addons/script.module.requests/lib/requests/models.py , line 893, in raise_for_status raise httperror http_error_msg, response=self httperror: 403 client error: forbidden for url: http://iviewhls-i.akamaihd.net/i/playback/_definst_/_video/bangedupabroad_08_07_197c24b0_,1500000,1000000,650000,500000,220000,.mp4.csmil/master.m3u8?hdnea=st=1500554045~exp=1500561245~acl=/ ~hmac=c69973a290f003da7a90805b53c8abf497d3aa6c0b4a623cc02c0d3cd28ce2ea full xbmc.log https://gist.github.com/fe0a8b9112d95447d3d3b9a5cdb074da

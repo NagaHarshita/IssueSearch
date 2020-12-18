@@ -1,0 +1,9 @@
+ URL : "https://github.com/rm3l/maoni/issues/39" TITLE : maoni sample app ggv 5 BODY : ggv 5 context - device language : english
+- device : sm-j710mn
+- screen size : 720 x 1280
+- device type : phone
+- manufacturer : samsung
+- native platform : armeabi-v7a, armeabi - screen density : 320 dpi
+- version code : 311
+- application id : org.rm3l.maoni.sample
+- android version : android 6.0.1 sdk 23 - version name : 3.1.1

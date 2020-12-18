@@ -1,0 +1,1 @@
+ URL : "https://github.com/ZoneMR/homebridge-gpio-blinds/issues/3" TITLE : relay duration control? BODY : i plan to use this but need the control to run through a relay and need to have a set length of time for each button press does the open and stop command hold down the button for the duration of the opening/closing event or does it just press it for a second or less?

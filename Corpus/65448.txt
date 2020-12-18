@@ -1,0 +1,1 @@
+ URL : "https://github.com/oracle/terraform-provider-baremetal/issues/164" TITLE : internal loadbalancer ? BODY : how to create private load balancer ? from api i see that private lb support just one network subnet + get ip from requested subnet.

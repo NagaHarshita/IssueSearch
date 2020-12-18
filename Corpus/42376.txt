@@ -1,0 +1,1 @@
+ URL : "https://github.com/Gapminder/dollar-street-pages/issues/947" TITLE : autoscroll to the top BODY : context weird autoscroll appears on the matrix page steps to reproduce 1. go to matrix page 2. scroll the page expected result the scroll position remains in the same position where the user left it current result autoscroll to top of the page platform any browsers any

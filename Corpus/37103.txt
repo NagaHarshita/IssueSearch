@@ -1,0 +1,1 @@
+ URL : "https://github.com/AlesTsurko/kano/issues/1" TITLE : kano -v doesn't work BODY : it gives the next output on run: exception: nil does not respond to 'at' --------- nil at namespaces.io 44 object call kano.io 19 kano run kano 3 cli dofile z_cli.io 140 cli run iostate_runcli 1

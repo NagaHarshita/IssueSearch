@@ -1,0 +1,1 @@
+ URL : "https://github.com/r-lib/revdepcheck/issues/45" TITLE : test on linux BODY : in particular, work out how the locally built binary packages should be cached. this is a crancache issue as well.

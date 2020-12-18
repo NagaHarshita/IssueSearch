@@ -1,0 +1,1 @@
+ URL : "https://github.com/ktquez/pickout/issues/22" TITLE : utilizar com vue BODY : eu tenho um select normal, que quando seleciono um nova opção atraves do v-on-change é disparado um evento, entretanto quando uso o pickout o mesmo evento não é disparado,existe algo que eu possa fazer para conseguir usar ou fazer com q o vue veja que mudou algo?

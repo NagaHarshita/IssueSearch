@@ -1,0 +1,1 @@
+ URL : "https://github.com/sendgrid/rest/issues/36" TITLE : add go report card BODY : issue summary add the following to the readme badges, right after the godoc badge ! go report card https://goreportcard.com/badge/github.com/sendgrid/rest https://goreportcard.com/report/github.com/sendgrid/rest

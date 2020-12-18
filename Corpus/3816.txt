@@ -1,0 +1,1 @@
+ URL : "https://github.com/thephpleague/plates/issues/175" TITLE : v4 block func BODY : add a block func that will allow the following semantics: php <?php if $v->block 'section-name' : ?> // define the default block here <?php endif; ?> if the section exists, it should echo the content and return false. if it does not exist, it should just return true.

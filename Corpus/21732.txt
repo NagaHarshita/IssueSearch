@@ -1,0 +1,1 @@
+ URL : "https://github.com/tutRPi/Raspberry-Pi-Heartbeat-Pulse-Sensor/issues/1" TITLE : getting wrong data BODY : the sensor is always giving me data with finger or without . do you think the sensor is defected or is there a problem regarding the voltage? the raspberry pi 3.3v pin is giving actually 4v. could this be the problem? thank you.

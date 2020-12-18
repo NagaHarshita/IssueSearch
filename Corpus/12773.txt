@@ -1,0 +1,1 @@
+ URL : "https://github.com/drewminns/slack/issues/16" TITLE : round file sizes BODY : it would help to quickly see how large a file is if there were no numbers after the '.' until it can be filtered / sorted by file size, that would help quickly spotting the mb files over the kb files.

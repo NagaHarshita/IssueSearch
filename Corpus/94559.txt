@@ -1,0 +1,1 @@
+ URL : "https://github.com/bird-house/hummingbird/issues/9" TITLE : cdo conflicts with netcdf4 BODY : conda netcdf4 lib expects jpeg=8 while cdo>=1.7.1 expects jpeg=9. currently i install libjpeg8 into the system and jpeg=9 from conda.

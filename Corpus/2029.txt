@@ -1,0 +1,1 @@
+ URL : "https://github.com/getnano/nano-framework/issues/5" TITLE : pre and code BODY : <pre> and <code> do we want syntax highligting? if yes, what theme? easiest theme to mock up would be the github flavoured one. and if yes, how do we do it? do we pull in prismjs or highlight.js? we probably want syntax highligting on our demo aswell.

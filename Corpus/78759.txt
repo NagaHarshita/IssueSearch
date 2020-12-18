@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/ApplicationInsights-Kubernetes/issues/67" TITLE : refactor the list entity BODY : all list entities can be merged using generics. - entitylist<t> : ienumerable<t> should do. - in the http client, we accepts parameter like getasync<tentity> serialize the object into entitylist<tentity>, return it as ienumerable<tentity>. - unit tests.

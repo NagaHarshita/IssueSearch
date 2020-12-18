@@ -1,0 +1,1 @@
+ URL : "https://github.com/Smithay/smithay/issues/28" TITLE : data device handler BODY : we'll need to do it at some point. for now, i don't really know what it is and how it works, i've never studied it yet. afaik it's linked to drag'n'drop behavior, possibly with copy/paste too. all is still do be done here.

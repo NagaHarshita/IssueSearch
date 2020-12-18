@@ -1,0 +1,1 @@
+ URL : "https://github.com/niutech/showModalDialog/issues/33" TITLE : not working in ie browser BODY : issue: unable to get property 'close' of undefined or null reference in this line parent.document.getelementsbytagname 'dialog' 0 .close ;

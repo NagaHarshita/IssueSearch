@@ -1,0 +1,1 @@
+ URL : "https://github.com/chvndb/keycloak-spring-vaadin-demo/issues/1" TITLE : wrong docker command BODY : should it not be dofirst { exec docker network create demo } instead of dofirst { exec docker network add demo }

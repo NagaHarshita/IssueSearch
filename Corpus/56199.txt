@@ -1,0 +1,1 @@
+ URL : "https://github.com/emgee3/meteor-ad-sso/issues/13" TITLE : missing app name error BODY : hi , i installed your meteor ad sso , and everything was fine . but today i cant logon to my website via ad login . in logs i found: missing app name or malformed request { app : auth , authid : default } what does this mean? please help!

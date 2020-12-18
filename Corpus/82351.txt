@@ -1,0 +1,1 @@
+ URL : "https://github.com/mhart/kinesalite/issues/45" TITLE : add support for debug log BODY : right now i published data on stream but i am not able to consume it, but the same code works in kinesis. it would be great to enable log debug in order to check/monitor messages in/out from kinesalite.

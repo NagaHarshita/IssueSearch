@@ -1,0 +1,1 @@
+ URL : "https://github.com/nteract/commuter/issues/135" TITLE : hide certain files BODY : in particular, don't show .ipynb_checkpoints , maybe other hidden files.

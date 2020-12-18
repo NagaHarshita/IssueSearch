@@ -1,0 +1,1 @@
+ URL : "https://github.com/DesignEngrLab/MIConvexHull/issues/13" TITLE : missing tolerance in api BODY : while convexhull.create has an overload which accepts tolerance, triangulation.createdelaunay does not. would be nice to have that.

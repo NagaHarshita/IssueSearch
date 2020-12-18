@@ -1,0 +1,1 @@
+ URL : "https://github.com/adamdruppe/arsd/issues/107" TITLE : utf8 support on windows? BODY : i know that i might ask for too much but it seems that it's impossible to have utf8 chars on windows command prompt... or there is something that i am missing?

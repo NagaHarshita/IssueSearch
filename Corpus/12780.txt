@@ -1,0 +1,1 @@
+ URL : "https://github.com/likethemammal/daisywheeljs/issues/23" TITLE : rt does not work BODY : lt switches letters to numbers, and rt is supposed to switch lowercase to uppercase. what i see is no reaction to rt whatsoever. is there a way to check for if rt is registered at all?

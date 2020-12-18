@@ -1,0 +1,1 @@
+ URL : "https://github.com/mzdaniel/pybay_front_end/issues/9" TITLE : change conference date BODY : current conference date on the site is october 3rd to 5th but the should be august 10-13, 2017. notice that the cfp page http://pyconsf.com/cfp also has the incorrect dates. extra points if done in a dry way so next year we dont have to find/replace in 20 different places :

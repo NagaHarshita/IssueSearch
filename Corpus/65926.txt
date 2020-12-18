@@ -1,0 +1,1 @@
+ URL : "https://github.com/steemit/steem/issues/1339" TITLE : local system time check BODY : because the interface for pushing new blocks has been moved to the chain plugin, the check for new blocks against the system time should be moved from the p2p plugin to the chain plugin.

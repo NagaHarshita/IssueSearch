@@ -1,0 +1,1 @@
+ URL : "https://github.com/LazoCoder/Pokemon-Terminal/issues/32" TITLE : osascript not found BODY : on my linux system elementary os , the run.sh file asks for osascript. it seems like osascript is not usable on linux based systems. do you know an alternative or a workaround?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/cottiAC/zombidleBot/issues/5" TITLE : add debug switch BODY : add a debug switch in privatesettings to activate debug mode and not accidentally commit debug settings in the release version

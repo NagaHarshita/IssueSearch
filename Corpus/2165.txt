@@ -1,0 +1,1 @@
+ URL : "https://github.com/elistone/tycoonKit/issues/3" TITLE : time / speed BODY : the kit should have a concept of time & speed, this can then be used to speed up and slow down in game actions and events. the time should be able to do the following: - pause - play - x 2 speed - x 3 speed - sync with real time this will not have pause/play/speed increase

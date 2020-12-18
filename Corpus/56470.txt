@@ -1,0 +1,1 @@
+ URL : "https://github.com/RetroPie/RetroPie-Setup/issues/1897" TITLE : netplay support update BODY : update retropie netplay components to work with the newer retroarch netplay functionality. see https://retropie.org.uk/forum/topic/7913/retroarch-1-4-1-netplay/20

@@ -1,0 +1,1 @@
+ URL : "https://github.com/prateekbh/preact-material-components/issues/405" TITLE : theme - radio buttons BODY : radio buttons are using the primary color theme whereas the mdc docs https://github.com/material-components/material-components-web/tree/master/packages/mdc-radio user-content-theming say they should use the secondary color theme

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ccrisan/motioneyeos/issues/864" TITLE : auto brightness flashing BODY : not sure if this is a motioneyes or camera issue but when i enable auto brightness the image flashes from bright to dim continually. i'm using the raspberry pi camera v 2 in the pi zero case.

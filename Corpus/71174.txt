@@ -1,0 +1,1 @@
+ URL : "https://github.com/tectonic-typesetting/tectonic/issues/64" TITLE : accessing a custom style BODY : just tried giving tectonic a whirl, and hit my first bump. i am using a custom style .cls file. when i run xelatex, it can find the style happily. what do i need to do so that tectonic can find the style file?

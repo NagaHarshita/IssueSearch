@@ -1,0 +1,1 @@
+ URL : "https://github.com/gorhill/uBlock/issues/2360" TITLE : sharedworker sibnet.ru BODY : ubo 1.11.0 google chrome 56.0.2924.76 64-bit ublock filters easylist ru adlist 1. disable hiding filters: @ .da_adp_teaser @ .directadvert-block sibnet.ru @ right_place_wrapper 2. open http://www.sibnet.ru/ and wait 2-3 seconds 3. ads appears at the top of the page.

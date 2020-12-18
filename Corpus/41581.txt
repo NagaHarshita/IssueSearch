@@ -1,0 +1,1 @@
+ URL : "https://github.com/staticafi/llvm-instrumentation/issues/28" TITLE : add -version argument BODY : for example like here: https://github.com/mchalupa/dg/blob/master/tools/cmakelists.txt l4, https://github.com/mchalupa/dg/blob/master/tools/llvm-slicer.cpp l975 we would like to do integrity check to symbiotic

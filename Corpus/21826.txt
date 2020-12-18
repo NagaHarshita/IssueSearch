@@ -1,0 +1,1 @@
+ URL : "https://github.com/evanp/tags-pub/issues/14" TITLE : handle undo follow BODY : when a tag receives an undo follow activity, remove that user from the list of followers.

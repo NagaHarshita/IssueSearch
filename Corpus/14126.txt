@@ -1,0 +1,1 @@
+ URL : "https://github.com/deeplearning4j/deeplearning4j/issues/3776" TITLE : add dropout decay BODY : issue description it would be nice to be able to decay hyper parameters over time, for example starting with 40% dropout and slowly reducing it over the epochs to 10%.

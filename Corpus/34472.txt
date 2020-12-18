@@ -1,0 +1,1 @@
+ URL : "https://github.com/auth0-samples/auth0-aspnet-owin-webapi-sample/issues/6" TITLE : check for the issuer BODY : the authorization sample that uses the scope attribute should check for the issuer when looking for the claim.

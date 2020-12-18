@@ -1,0 +1,1 @@
+ URL : "https://github.com/papaolabs/papao-server/issues/35" TITLE : 상태 수정 api 작성 BODY : 1. 이용자가 선택 박스 n-1 를 통해 시스템에 등록한 포스트의 포스트 상태를 수정한다. 2. 시스템은 포스트가 수정되면 수정되었음을 알려준다. 1 수정 오류 시 오류메시지를 보여준다. n-1 상태 반환 return 자연사 naturaldeath 안락사 euthanasia 입양 adoption

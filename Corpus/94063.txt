@@ -1,0 +1,1 @@
+ URL : "https://github.com/iswunistuttgart/latex-templates/issues/4" TITLE : bibliography and citations BODY : correctly support different formats for citation and different types of citation i.e, \cite as well as \citep , \citeauthor etc.. some of these are currently producing plain ??

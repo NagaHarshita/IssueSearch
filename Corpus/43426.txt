@@ -1,0 +1,1 @@
+ URL : "https://github.com/rp-opensource/badgesales-frontend/issues/3" TITLE : create cnpj component BODY : i'm submitting a ... bug report feature request question about the decisions made in the repository the application needs a cnpj component that receives the form-group as its input. it needs a mask in order to match the existing patterns for cnpj and cpf

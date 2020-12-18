@@ -1,0 +1,1 @@
+ URL : "https://github.com/mmadhavan/Peer2Peer/issues/1" TITLE : unable to upload new file BODY : while adding/removing any new file to the 'files' folder, the indexingserver.py stops working. it throws an error. also the peer.py stops working showing unable to send notification to server

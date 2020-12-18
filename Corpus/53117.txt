@@ -1,0 +1,1 @@
+ URL : "https://github.com/Iristyle/PerfTap/issues/19" TITLE : default config invalid BODY : the included default config in the release does not work - the service fails to start. removing the hostname key in the config file will resolve the issue. it will then just use the hostname as given by windows, which should be fine for most use cases.

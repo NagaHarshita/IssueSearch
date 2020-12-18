@@ -1,0 +1,1 @@
+ URL : "https://github.com/coreos/kube-aws/issues/261" TITLE : fix node pools on master BODY : i believe the node pools feature is broken since merging 226. please consider not to use binaries built from master if you'd like to use node pools. see https://github.com/coreos/kube-aws/pull/226 issuecomment-273343076 for more information.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/PArns/ioBroker.amazon-dash/issues/13" TITLE : 0.2.1 not working BODY : release 0.2.1 is not working any more. the created objects have very strange names - like the mac with some sourcecode attached, and no signals are set any more.

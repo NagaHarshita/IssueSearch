@@ -1,0 +1,1 @@
+ URL : "https://github.com/dskoglund/ImportDash/issues/5" TITLE : user can run extractor BODY : motivation users need to be able to run their extractor from the ui. - check import.io api docs for proper implementation.

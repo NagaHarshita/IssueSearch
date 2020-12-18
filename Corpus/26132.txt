@@ -1,0 +1,1 @@
+ URL : "https://github.com/tmclaugh/serverless-zombo.com/issues/2" TITLE : add t-shirt feature BODY : the original zombo.com would show a link to buy a t-shirt if site was played long enough. this would be an interesting promotional feature. perhaps cloudfront logs could be tracked and a service could verify if the session was old enough to warrant a t-shirt?

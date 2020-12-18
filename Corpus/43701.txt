@@ -1,0 +1,1 @@
+ URL : "https://github.com/divs1210/functional-core-async/issues/1" TITLE : deadlocking go blocks BODY : this code appears to deadlock: user=> def c chan 'user/c user=> go println got <! c object java.util.concurrent.arrayblockingqueue 0x2e49f199 user=> go >! c 42 println sent object java.util.concurrent.arrayblockingqueue 0x70cdcbe1 user=>

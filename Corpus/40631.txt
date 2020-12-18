@@ -1,0 +1,1 @@
+ URL : "https://github.com/unfetter-discover/unfetter/issues/414" TITLE : upgrade api to http2 BODY : currently nginx is using http2, but the api to nginx connection is still in http1.1

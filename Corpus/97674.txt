@@ -1,0 +1,1 @@
+ URL : "https://github.com/ParsePlatform/Parse-SDK-JS/issues/413" TITLE : how do you use master key? BODY : i want to use my master key, however none of the documentation even mentions it. how can i use it to call .save and over-ride permissions on an object

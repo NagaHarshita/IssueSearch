@@ -1,0 +1,1 @@
+ URL : "https://github.com/juliuste/deutsche-post/issues/1" TITLE : make it offline-capable BODY : would be great to have a build script that downloads the data, so that the module can be used/bundled in apps that don't need an internet connection. if you would like to keep the module as is, i will create a module on top instead. 🎉

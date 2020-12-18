@@ -1,0 +1,1 @@
+ URL : "https://github.com/interactive-instruments/ldproxy/issues/73" TITLE : umlaut in page links BODY : filter: https://www.ldproxy.nrw.de/kataster/flurstueck/?gemeinde=dü%2a next page link changes the umlaut encoding

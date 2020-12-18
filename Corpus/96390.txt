@@ -1,0 +1,1 @@
+ URL : "https://github.com/rdp/ffmpeg-windows-build-helpers/issues/235" TITLE : error: libmysofa not found BODY : okok, daily changes in libmysofa / git thats not so pretty. compiling with gcc 4.9.4 - sometimes with fatal erros and sometimes compiling goes right, but now i got error: libmysofa not found libmysofa.a still exists in the sandbox/crossxxxx directory

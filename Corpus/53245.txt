@@ -1,0 +1,6 @@
+ URL : "https://github.com/NSI-IT/FDI-ECOMSITE/issues/23" TITLE : diamond aficiando blog BODY : as a user i would like to read blogs about the product so that i may know more details about it and the comments people are posting on it. - verify that admin will mark which blog posts he want to feature on home page footer. - verify that featured blogs will show on home page with a clickable title.
+- verify that each blog post is a dedicated page.
+- verify that view all will redirect users to blog listing page.
+- verify that blog listing is a single page blog format that houses blurbs from each blog post with a link to a dedicated page blog detail page for each post.
+- verify that blog post is a mix of textual content and images.
+- verify that content will be managed by the admin. - verify that few of the examples of blog posts are:- about a recent business trip about a diamond you recently acquired about a diamond you recently sold about a recent diamond auction

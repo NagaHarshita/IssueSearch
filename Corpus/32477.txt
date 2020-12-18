@@ -1,0 +1,1 @@
+ URL : "https://github.com/purpleears/eggdrop_weather/issues/3" TITLE : use the right queue BODY : using eggdrop 1.8, putquick doesn't work. the right queue is puthelp . replaced, and the script works beautifully. thanks for providing it. :-

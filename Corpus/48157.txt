@@ -1,0 +1,6 @@
+ URL : "https://github.com/commandlineparser/commandline/issues/73" TITLE : removed where t : new BODY : <a href= https://github.com/creepygnome ><img src= https://avatars3.githubusercontent.com/u/935891?v=4 align= left width= 96 height= 96 hspace= 10 ></img></a> issue by creepygnome https://github.com/creepygnome _wednesday jun 15, 2016 at 17:00 gmt_
+_originally opened as https://github.com/gsscoder/commandline/pull/323_ ---- removed where t : new from the parsearguments<t> factory method as it
+shouldn't be required if convention is followed of only mutable classes
+required a default constructor, and immutable classes are supported and
+do not have this requirement, so the new restriction is blocking
+immutable classes which should typically not have a default constructor. this resolves 310 ---- _ creepygnome https://github.com/creepygnome included the following code: https://github.com/gsscoder/commandline/pull/323/commits_

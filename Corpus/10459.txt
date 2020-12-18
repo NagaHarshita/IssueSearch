@@ -1,0 +1,1 @@
+ URL : "https://github.com/DmitriyGordon/iteaNoughtsAndCrosses/issues/2" TITLE : check field size BODY : create function to make sure that field size is enough big for win quantity that was set.

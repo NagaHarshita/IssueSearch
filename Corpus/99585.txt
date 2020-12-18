@@ -1,0 +1,1 @@
+ URL : "https://github.com/kieranjol/IFIscripts/issues/151" TITLE : moveit - add batch options BODY : sometimes a folder can have several subfolders that contain manifests that must be moved seperately. a proposition: add an optional -o to declare an output, and then all other preceding arguments form a list of inputs that are looped through.

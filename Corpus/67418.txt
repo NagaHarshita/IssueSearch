@@ -1,0 +1,1 @@
+ URL : "https://github.com/mlewand/generator-ckeditor4/issues/12" TITLE : plugin create generator BODY : it would be nice to create a ckeditor4 plugin generator, so that it's super easy to make a new plugin. it would also be lovely to be able to publish it in add-ons repo from the cli, however it seems like too much effort for the benefit.

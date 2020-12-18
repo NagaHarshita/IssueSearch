@@ -1,0 +1,1 @@
+ URL : "https://github.com/spacetelescope/gwcs/issues/97" TITLE : pixel area computation BODY : add a function to compute the area of a pixel in certain coordinate frame.

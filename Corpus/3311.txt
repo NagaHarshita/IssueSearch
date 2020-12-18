@@ -1,0 +1,1 @@
+ URL : "https://github.com/tmburnell/ng2-json-schema-builder/issues/2" TITLE : no unit tests BODY : need to create some kind of tests that prove changes dont break stuff.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mautilus/sdk/issues/45" TITLE : bug in webos player BODY : please, add this.el.play ; after this.el.load ; in line 569. without that, the player element will never start. regards.

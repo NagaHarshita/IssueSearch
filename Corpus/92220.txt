@@ -1,0 +1,1 @@
+ URL : "https://github.com/vmware/harbor/issues/2905" TITLE : vulnerability color error BODY : v1.1.2-564-g9582637 it seems that the medium use a yellow and low use orange ! vulvul https://user-images.githubusercontent.com/23101283/28706968-0ba1f1ce-73a9-11e7-8a7b-ccc49b800885.png

@@ -1,0 +1,1 @@
+ URL : "https://github.com/nanopool/ewbf-miner/issues/16" TITLE : 2nd gpu wont load BODY : hey guys im having trouble getting my 2nd gpu to hash, the card reads on my computer so its there here tried using --solver 0 1 2 3 as well as --cuda_devices 0 1 2 3. what am i doing wrong here??

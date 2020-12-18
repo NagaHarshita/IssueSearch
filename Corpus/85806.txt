@@ -1,0 +1,1 @@
+ URL : "https://github.com/KnoP-01/krl-for-vim/issues/1" TITLE : folding is case sensitive BODY : folding should be case insensitive. maybe foldmethod=syntax is the solution.

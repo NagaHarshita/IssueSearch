@@ -1,0 +1,1 @@
+ URL : "https://github.com/CodeForFloripa/dicionariomanezes/issues/25" TITLE : navegação dos verbetes BODY : na página dos verbetes , ao clicar em _voltar_, o app deveria voltar para a página anterior, porém atualmente ele sempre volta para a home .

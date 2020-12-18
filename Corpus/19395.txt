@@ -1,0 +1,1 @@
+ URL : "https://github.com/sdpeyton/contact-management-example/issues/2" TITLE : add a load spinner BODY : if the contacts list were to scale up and a more legit api endpoint were used, there may be a delay, in which case a load spinner would be necessary to provide feedback to the user.

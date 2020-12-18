@@ -1,0 +1,1 @@
+ URL : "https://github.com/davideast/angular-universal-express-firebase/issues/16" TITLE : angular 5 support BODY : i have just tried to update my angular project to the latest version and when updating the dependencies it says: warning angular-universal-express-firebase@0.0.4 has incorrect peer dependency is there an update planned for the angular 5 release?

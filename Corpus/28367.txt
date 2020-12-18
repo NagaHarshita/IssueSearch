@@ -1,0 +1,1 @@
+ URL : "https://github.com/nnolan-open/playless/issues/1" TITLE : freebsd mpg123 1.24 BODY : functions don't work correctly for this version of mpg123 workaround: uninstall and use mpg321 playless relies on exit codes, so it's likely to do with that. hope to fix this week.

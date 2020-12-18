@@ -1,0 +1,1 @@
+ URL : "https://github.com/DemocracyClub/EveryElection/issues/90" TITLE : fix libdemnewbies scraper BODY : seems to be pulling details of multiple different elections into the description of a single election. see https://elections.democracyclub.org.uk/election_radar/?pk=243

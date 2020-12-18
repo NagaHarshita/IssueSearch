@@ -1,0 +1,1 @@
+ URL : "https://github.com/csf-dev/CSF.Screenplay/issues/26" TITLE : create nuget packages BODY : nuget packages should be created for the various projects which are created. screenplay, the web driver factory, screenplay.web and the nunit/specflow integrations.

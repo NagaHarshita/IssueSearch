@@ -1,0 +1,1 @@
+ URL : "https://github.com/ObjectProcessMethodology/OPCloud-client/issues/53" TITLE : opcloud bug 8 BODY : if user try to add second link between the same objects: do popup window with 2 options: replace exist link to the new one or cancel @natalilevi @ahmadjbara @dovdori

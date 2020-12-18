@@ -1,0 +1,1 @@
+ URL : "https://github.com/vitcon-iot/VitconCommon/issues/1" TITLE : math.h in vitconntc.h BODY : unix systems linux, bsd, etc , are case sensitive, so compilation fails because it can't find math.h. it should be math.h in lowercase.

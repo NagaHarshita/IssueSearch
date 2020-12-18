@@ -1,0 +1,1 @@
+ URL : "https://github.com/G33kLabs/gulp-inline-base64/issues/7" TITLE : @font-face url problem BODY : i have a issue about css @font-face. when url, e.g. url 'myfont-webfont.eot? iefix' have suffix ? iefix , i get error: file not found . any solution, please?

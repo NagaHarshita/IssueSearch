@@ -1,0 +1,1 @@
+ URL : "https://github.com/atom/language-ruby/issues/221" TITLE : missing scope on commas BODY : commas aren't scoped as punctuation. ruby def initialize template, format @options = { template: template, format: format } end initialize 'template', 'format'

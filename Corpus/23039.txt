@@ -1,0 +1,1 @@
+ URL : "https://github.com/keenwon/koa-subdomain/issues/1" TITLE : nginx conf example BODY : can you give me a config example of nginx? conf server { listen 80; server_name .example.com; location / { proxy_pass http://127.0.0.1:3000/; proxy_redirect off; } } can this one work perfectly?

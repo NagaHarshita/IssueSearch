@@ -1,0 +1,1 @@
+ URL : "https://github.com/ethanresnick/json-api/issues/128" TITLE : add strategy for hapi BODY : i wonder if it would also be possible to implement a strategy for hapi https://hapijs.com/ or if there is already a solution available.

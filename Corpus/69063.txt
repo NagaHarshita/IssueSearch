@@ -1,0 +1,1 @@
+ URL : "https://github.com/javahippie/clj-groups/issues/7" TITLE : state should be avoided BODY : right now, we patronise the user of the lib, storing the channels inside an atom. we should just return it to the user and provide functions for sending, so the user can decide how they want to manage the state.

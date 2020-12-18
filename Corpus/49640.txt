@@ -1,0 +1,1 @@
+ URL : "https://github.com/pedroSG94/rtmp-rtsp-stream-client-java/issues/8" TITLE : unable to stop stream BODY : hi, thanks for such a great library. when i am trying to stop the stream its not able to stop the stream when i have integrated the project through gradle. but when i have try with downloaded code it working great. thank you.

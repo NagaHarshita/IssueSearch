@@ -1,0 +1,1 @@
+ URL : "https://github.com/migueldemoura/istsi/issues/11" TITLE : remove duplicate files BODY : most students use the cv and/or cm for all proposals they apply for, meaning we store the exact same file multiple times. a better approach would be to store a hash of the file associated with the submission and store the files themselves just once.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/altair-viz/altair/issues/411" TITLE : altair 2.0 decisions BODY : a running list of some decisions we need to make in altair 2.0 - how to handle config, which is only valid at the top-level of a compound chart and should be thought of as a theme for all the underlying charts

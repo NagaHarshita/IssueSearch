@@ -1,0 +1,1 @@
+ URL : "https://github.com/ember-fastboot/fastboot/issues/178" TITLE : always needs vendor.js BODY : using ember-cli-concat to concatenate all js to a single app.js is not respected by fastboot. it always requires a vendor.js file to be present

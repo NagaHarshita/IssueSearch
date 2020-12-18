@@ -1,0 +1,1 @@
+ URL : "https://github.com/mhewedy/spwrap/issues/2" TITLE : create database classes BODY : create database abstract class with subclass for concert databases hsql, sqlserver, mysql, oracle, etc . the purpose is to provide database specific behaviours see the hsql check in caller call method

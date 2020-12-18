@@ -1,0 +1,1 @@
+ URL : "https://github.com/Andreyco/slido-clone/issues/1" TITLE : failed to compile. BODY : failed to compile. error in ./src/configurestore.js module not found: 'redux-thunk' in /users/trinhbaloi/1appdoing/slido/src @ ./src/configurestore.js 9:18-40

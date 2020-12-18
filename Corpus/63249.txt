@@ -1,0 +1,1 @@
+ URL : "https://github.com/Kraigie/nostrum/issues/23" TITLE : discord api deprecation BODY : discord api and gateway versions 3, 4, and 5 are deprecated, and will be discontinued on october 16th. there is discord api and gateway version 6. have you considered updating the discord api version on this library to 6?

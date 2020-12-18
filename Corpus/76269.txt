@@ -1,0 +1,1 @@
+ URL : "https://github.com/alibaba/weex/issues/3125" TITLE : ios universal frameowork BODY : hi, we are not able to create universal framework for ios as we don't have cocoa pods in our project. i tried out using files directly but could not succeed in that. their are commands to create the universal framework but they doesn't work over here. please help.

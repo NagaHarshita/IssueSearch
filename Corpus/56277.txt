@@ -1,0 +1,1 @@
+ URL : "https://github.com/GabrielSturtevant/homestead_installer/issues/1" TITLE : modularize the program BODY : split the program up into modules that can be downloaded and run separately. similar to how the program scrapes for the vagrant link.

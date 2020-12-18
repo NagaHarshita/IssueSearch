@@ -1,0 +1,1 @@
+ URL : "https://github.com/thedillonb/CodeBucket/issues/25" TITLE : middle endian date BODY : the date format used in the application is not the one chosen in the ios preference panel. such a format should be configurable. not everyone in the world use the strange way people in the usa write date. 2017-08-27 22:15:00

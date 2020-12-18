@@ -1,0 +1,1 @@
+ URL : "https://github.com/broeckho/stride/issues/6" TITLE : how volatile is puq? BODY : are new releases frequent? puq was integrated into stride-std. however, puq itself is a framework in which simulators can/should be integrated. check if this might become a problem when puq is updated.

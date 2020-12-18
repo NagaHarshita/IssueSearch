@@ -1,0 +1,1 @@
+ URL : "https://github.com/dlang-bots/dlang-bot/issues/141" TITLE : prevent double posts BODY : maybe the gh api lags? ! image https://user-images.githubusercontent.com/4370550/28247729-d30fd388-6a36-11e7-8400-e985c846ce55.png https://github.com/dlang/dmd/pull/5855

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Instabug/Instabug-iOS/issues/137" TITLE : leak in the sdk? BODY : hello there, profiling my app, i'm noticing a bunch of leaks, caused by your sdk... is this a known issue? best, ludovic ! screen shot 2017-03-13 at 16 10 35 https://cloud.githubusercontent.com/assets/87777/23873237/b5e86518-0807-11e7-97e6-95f5d7faaac4.png

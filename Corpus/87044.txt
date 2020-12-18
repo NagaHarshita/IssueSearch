@@ -1,0 +1,1 @@
+ URL : "https://github.com/jeremyong/Selene/issues/174" TITLE : interface complex classes BODY : it's really unclear how to interface between c++ and lua with complex classes like std::vector . an example might help.

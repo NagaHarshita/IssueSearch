@@ -1,0 +1,1 @@
+ URL : "https://github.com/chinchang/web-maker/issues/118" TITLE : v. 2.6.0 console.clear ; BODY : vm470 screenlog.js:53 uncaught typeerror: cannot set property 'innerhtml' of undefined caused by console.clear ;

@@ -1,0 +1,1 @@
+ URL : "https://github.com/EDCD/EDDI/issues/165" TITLE : capi efficiency tweaks BODY : make capi queries more efficient by breaking into two parts: 1. current ship /profile query made at eddi startup and updates. 2. station services /commodities, /outfitting & /shipyard queries made only when docked, instantiated as a separate thread to improve eddi performance.

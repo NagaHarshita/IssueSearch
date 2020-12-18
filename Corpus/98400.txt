@@ -1,0 +1,1 @@
+ URL : "https://github.com/mmichler/meetling-android/issues/17" TITLE : introduce agenda item view BODY : tasks: introduce proper ellipsis in agenda view for item titles and descriptions that are too long on click, expand the agenda item to a full view of the item texts put button on item view to switch over to edit fragment

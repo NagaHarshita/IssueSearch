@@ -1,0 +1,1 @@
+ URL : "https://github.com/Abhi2424shek/img_checker/issues/21" TITLE : add automatic deployment BODY : we need to automatically deploy it. currently we are using rultor, but its not working. also we're having a api file, which is publically available which is not good either. i propose to use travis again, as it supports variable and is in my view much easier to use.

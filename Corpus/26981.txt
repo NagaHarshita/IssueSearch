@@ -1,0 +1,1 @@
+ URL : "https://github.com/brayniac/shuteye/issues/14" TITLE : ci: target coverage BODY : more target triples need coverage as part of ci, even if it's just build.

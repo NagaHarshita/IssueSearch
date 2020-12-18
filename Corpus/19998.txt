@@ -1,0 +1,1 @@
+ URL : "https://github.com/coreos/tectonic-forum/issues/129" TITLE : aws kms encryption BODY : environment aws desired feature option for terraform to either create a new kms key or use an existing one specified in the config and encrypt the ebs volumes with it. maybe even encrypt the assets zip in s3 as well since it contains things like the license key? other information -

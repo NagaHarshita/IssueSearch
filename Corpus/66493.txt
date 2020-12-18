@@ -1,0 +1,1 @@
+ URL : "https://github.com/mkeeter/fstl/issues/23" TITLE : moving to qopenglwidget BODY : just to share my finding that moving to qopenglwidget, from qglwidget. the changes is quite straight forward by replacing qglwidget --> qopenglwidget, .. . to make it work, the tricky part is to replace paintevent with paintgl to avoid issue with display.

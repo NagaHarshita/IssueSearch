@@ -1,0 +1,1 @@
+ URL : "https://github.com/endoze/mina-multistage/issues/27" TITLE : :environment is deprecated BODY : the documentation for mina-multistage, for example ruby task setup: :environment do ... conflicts with mina best practice bash ! :environment is deprecated! please use local_environment and remote_environment

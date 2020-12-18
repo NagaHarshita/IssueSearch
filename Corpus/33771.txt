@@ -1,0 +1,1 @@
+ URL : "https://github.com/reloni/SimpleTodo/issues/2" TITLE : app skip some errors BODY : for example app skips http 400 error code and do nothing

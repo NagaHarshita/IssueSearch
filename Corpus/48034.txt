@@ -1,0 +1,1 @@
+ URL : "https://github.com/slumpsand/test-yacc/issues/13" TITLE : refactor the typedefs BODY : use typedef struct exampletag example; and create a predef header

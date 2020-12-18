@@ -1,0 +1,1 @@
+ URL : "https://github.com/michael-christen/import-finder/issues/1" TITLE : fix ignore stdlib BODY : update stdlib to ignore all packages found here: https://docs.python.org/2/library/index.html

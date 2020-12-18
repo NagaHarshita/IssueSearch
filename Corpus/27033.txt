@@ -1,0 +1,1 @@
+ URL : "https://github.com/fukamachi/prove/issues/45" TITLE : clisp and run-prove BODY : i can't get the clisp downloaded using roswell to run run-prove . it seems that the function call to asdf::with-asdf-cache is the problem.

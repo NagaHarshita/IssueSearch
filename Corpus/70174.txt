@@ -1,0 +1,1 @@
+ URL : "https://github.com/Misfittech/nano_stepper/issues/11" TITLE : usbserial not available BODY : through the usb serial, i can upload the firmware with arduino. and the nano_stepper is working well except the usb serial, i sent :>help\r and other commands , but no response.

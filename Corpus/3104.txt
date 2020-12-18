@@ -1,0 +1,1 @@
+ URL : "https://github.com/aliyun/alicloud-ios-demo/issues/210" TITLE : ios 11 警告 BODY : maniosdemo.m: runtime: ui api called from background thread: - uiapplication delegate must be maniosdemo.m:的pagehit方法中获取appdelegate必须要在主线程中获取 appdelegate appdelegate = appdelegate uiapplication sharedapplication .delegate; - uiapplication delegate must be used from main thread only

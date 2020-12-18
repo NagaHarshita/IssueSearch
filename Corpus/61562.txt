@@ -1,0 +1,1 @@
+ URL : "https://github.com/ghidoz/angular2-jsonapi/issues/70" TITLE : baseurl of parse server BODY : i have my parse server running in app-engine. after initializing parse i could't fetch the objects, no idea how to move further. is their any alternative jsonapi to sync parse sdk classes? thanks in advance

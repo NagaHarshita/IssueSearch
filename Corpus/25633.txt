@@ -1,0 +1,1 @@
+ URL : "https://github.com/redbox-mint/website-redboxresearchdata/issues/1" TITLE : 404 on github pages BODY : while the link works correctly in dev, once published the url is incorrect. to see behaviour, go to current github pages website. then click 'about' you should see a 404 - it should go to the about page.

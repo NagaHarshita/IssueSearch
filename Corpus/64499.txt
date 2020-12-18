@@ -1,0 +1,1 @@
+ URL : "https://github.com/CodersOS/create/issues/20" TITLE : github logo not visible BODY : the logo of the link to the github page is not visible on the main website. please make is visible. hint: - use relative paths so that the logo is visible with a local jekyll run and a served website for github pages.

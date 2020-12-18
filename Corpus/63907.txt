@@ -1,0 +1,1 @@
+ URL : "https://github.com/pytorch/pytorch/issues/1861" TITLE : factorized output layer BODY : does pytorch provide a factorized output layer https://arxiv.org/pdf/1412.7091.pdf in nn module? it computes the gradient much faster in sparse output space. this will benefit a lot in nlp experiments. i can propose such a layer if there don't exist one.

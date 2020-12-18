@@ -1,0 +1,1 @@
+ URL : "https://github.com/hpi-epic/pyHANA/issues/8" TITLE : cannot get connection id BODY : we receive the connection id via the connectoptions part but never save it. however, this id is useful when creating hana traces.

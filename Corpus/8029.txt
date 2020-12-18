@@ -1,0 +1,2 @@
+ URL : "https://github.com/mgrowan/tfs-working-on/issues/5" TITLE : map start field BODY : allow the start and finish fields to be mapped with the configuration of the project work item types.
+when start working on occurs, if start date is empty, populate it. this work item was migrated from codeplex codeplex work item id: '5963' vote count: '2'

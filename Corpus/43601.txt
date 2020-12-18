@@ -1,0 +1,1 @@
+ URL : "https://github.com/alexylem/jarvis/issues/575" TITLE : curl is not installed BODY : hi @alexylem, i just spotted that curl is not in the dependency list as it was not installed on my virtual machine.

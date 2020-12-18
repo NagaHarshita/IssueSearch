@@ -1,0 +1,1 @@
+ URL : "https://github.com/elastic/beats/issues/4540" TITLE : beats doc updates in 6.0 BODY : work in progress....just getting this started.... beta 1 - document new command line with sub-commands. see https://github.com/elastic/beats/issues/4490 ga - update dashboards for 6.0

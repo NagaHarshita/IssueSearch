@@ -1,0 +1,1 @@
+ URL : "https://github.com/McNopper/Vulkan/issues/46" TITLE : split up vkts_binaries BODY : goal is still to keep the large assets not in github. but assets like shaders, especially the source code, should go into github.

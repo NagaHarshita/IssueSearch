@@ -1,0 +1,1 @@
+ URL : "https://github.com/thomaskuestner/CNNArt/issues/22" TITLE : merging of views + calling BODY : merge viewed data into one cell of the nxm grid + enable call to patching and cnn from that cell

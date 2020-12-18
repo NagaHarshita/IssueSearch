@@ -1,0 +1,1 @@
+ URL : "https://github.com/RF1000community/Repetier-Firmware/issues/19" TITLE : hliebscher bug mit anzeige BODY : wenn der digit wert über 10.000 geht ,macht der drucker kurz geräusche und im display verschwindet die anzeige ich weiß, dass ich beim rf2000 ein paar mal eine leere anzeige hatte. aber bisher habe ich das der statischen entladung am usb-masse-kabel zugeschrieben.

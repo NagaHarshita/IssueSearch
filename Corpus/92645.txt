@@ -1,0 +1,1 @@
+ URL : "https://github.com/paulray/NICERsoft/issues/10" TITLE : --ultraclean in psrpipe.py BODY : the --ultraclean option mentioned in the description of psrpipe.py is actually undefined. i guess, it is supposed to say --dark instead of --ultraclean

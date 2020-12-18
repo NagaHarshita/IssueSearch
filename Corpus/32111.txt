@@ -1,0 +1,1 @@
+ URL : "https://github.com/gov-ithub/socent-frontend/issues/52" TITLE : travis build broken BODY : expected behavior travis tests to pass actual behavior travis tests don't pass: https://travis-ci.org/gov-ithub/socent-frontend steps to reproduce the problem. npm test specifications version of the project: operating system: npm version: node version:

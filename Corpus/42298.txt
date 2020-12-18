@@ -1,0 +1,1 @@
+ URL : "https://github.com/patmigliaccio/mann/issues/1" TITLE : args are being logged BODY : remove fmt.println args from addcommand

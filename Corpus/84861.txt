@@ -1,0 +1,1 @@
+ URL : "https://github.com/speccode/acf-field-price/issues/3" TITLE : doesn't work with acf 4.x BODY : plugin enqueues input.js that doesn't exist. no input field appears in admin.

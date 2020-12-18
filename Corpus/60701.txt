@@ -1,0 +1,1 @@
+ URL : "https://github.com/exercism/xtypescript/issues/11" TITLE : add ci for package code BODY : add a make command that tests to make sure all common files are the same across all problems. this will ensure not edits get introduced in individual problems.

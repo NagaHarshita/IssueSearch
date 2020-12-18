@@ -1,0 +1,1 @@
+ URL : "https://github.com/SparkPost/sparkpost-api-documentation/issues/46" TITLE : max uri length is 4096 BODY : this is often asked by users of message events api. putting the limit in the docs will help support when these questions get asked. note: this is enforced by nginx, which returns a 4xx if it's too long

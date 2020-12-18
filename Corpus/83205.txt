@@ -1,0 +1,1 @@
+ URL : "https://github.com/kwsch/PKHeX/issues/714" TITLE : building on windows fails BODY : since 1 or 2 weeks i can't build pkhex anymore. whenever i use msbuild it says the process was successful but there is no .exe generated. at least not in the bin folder. probably my fault but i just don't know what i could have done wrong.

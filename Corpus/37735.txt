@@ -1,0 +1,1 @@
+ URL : "https://github.com/nicklondhe/pixiedust_peacetech/issues/40" TITLE : modify date handling BODY : - change date picker to single date say seldate - disruption dashboard views dates unto a week in future i.e. seldate to seldate + 6 - indicator dashboards see four weeks in past i.e. seldate to seldate - 27

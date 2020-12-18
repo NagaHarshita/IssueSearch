@@ -1,0 +1,1 @@
+ URL : "https://github.com/amueller/word_cloud/issues/286" TITLE : word cloud error BODY : no module named 'wordcloud' it is showing this. while installing through conda, this error is shown. unsatisfiableerror: the following specifications were found to be in conflict: - python 3.6 - wordcloud -> python 3.4

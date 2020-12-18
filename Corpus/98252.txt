@@ -1,0 +1,1 @@
+ URL : "https://github.com/eleme/geohash/issues/4" TITLE : incorrect values on decode BODY : for example: u17e7 will turn into 0 => float 52.6 1 => float 5.1 but encoded again turns into a u17eh it should return: 0 => float 52.62451171875 1 => float 5.07568359375

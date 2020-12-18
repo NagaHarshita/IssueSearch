@@ -1,0 +1,1 @@
+ URL : "https://github.com/UCF/UCF-Degree-Search-Plugin/issues/37" TITLE : create default stylesheet BODY : a default stylesheet needs to be created for this plugin to support the default layouts that are used for the typeahead and angular degree searches.

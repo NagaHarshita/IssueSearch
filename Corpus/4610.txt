@@ -1,0 +1,1 @@
+ URL : "https://github.com/GuntharDeNiro/BTCT/issues/11" TITLE : error in 3.3.3 BODY : error on strategy bb for btc-ltc on bittrex while getting ema1 -\ error: cannot read property 'sma' of undefined when running on windows or linux for bittrex.

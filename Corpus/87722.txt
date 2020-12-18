@@ -1,0 +1,1 @@
+ URL : "https://github.com/angelika-mamchych/blogmaker/issues/11" TITLE : make multi language pages BODY : - create new table in the database; - add rows and columns for each page; - show page content from the database instead of hard code; - create admin interface to edit and create pages; - enjoy! :

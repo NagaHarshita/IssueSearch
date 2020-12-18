@@ -1,0 +1,1 @@
+ URL : "https://github.com/IBM-Swift/kitura-cli/issues/13" TITLE : improve test coverage BODY : we have basic tests for kitura -v and kitura init . expand these to cover kitura create , kitura kit etc.

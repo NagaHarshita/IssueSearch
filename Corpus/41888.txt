@@ -1,0 +1,1 @@
+ URL : "https://github.com/EL2425/Drone_Project_2017-/issues/4" TITLE : add pddl for planning BODY : brief description of how we used pddl github.com/laperss/wasp_search_and_rescue/blob/master/readme.md required packages: https://github.com/kcl-planning/rosplan https://github.com/ros/actionlib

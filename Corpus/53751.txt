@@ -1,0 +1,1 @@
+ URL : "https://github.com/agentejo/cockpit/issues/609" TITLE : error uploading assets BODY : i'm getting a 500 when uploading assets. jpg 2mb and the image doesn't show. however the file gets uploaded. i can see the file browsing with the finder. also uploading with the finder works. since it's basically working i assume permissions are fine?!? any other ideas?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/SpatDIF/SpatDIFPlayerIssues/issues/43" TITLE : rewind button function BODY : if position is not in the beginning -> go to the beginning of the piece if position is at the beginning -> go to previous piece

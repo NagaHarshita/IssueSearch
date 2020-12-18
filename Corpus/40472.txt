@@ -1,0 +1,1 @@
+ URL : "https://github.com/unison-code/unison/issues/24" TITLE : unclear help message BODY : the help message for the export phase could make it clearer that the ordinary file argument should be the output file from the augment phase, and that the output file from the solver should be indicated using --solfile.

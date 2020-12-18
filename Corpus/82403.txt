@@ -1,0 +1,1 @@
+ URL : "https://github.com/montrealrb/Montreal.rb/issues/262" TITLE : add talk format attribute BODY : should be a dropdown with those possible values: - long - short - lightning

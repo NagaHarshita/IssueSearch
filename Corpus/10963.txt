@@ -1,0 +1,1 @@
+ URL : "https://github.com/eddydn/XamarinChatApp/issues/2" TITLE : error in project BODY : whenever i run the xamarin chat application it says default firebase app is not initialized call the firebaseapp.initializeapp context method pls help

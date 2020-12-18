@@ -1,0 +1,1 @@
+ URL : "https://github.com/elshobokshy/SnowTricks/issues/12" TITLE : twig : base.html.twig BODY : app\resources\base.html.twig this is the main base template for twig, where i'll be creating all the backbone of the website in it. note : all css/js/img.. etc will be in the \web directory

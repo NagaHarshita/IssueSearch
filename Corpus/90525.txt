@@ -1,0 +1,1 @@
+ URL : "https://github.com/Caleydo/ordino/issues/3" TITLE : single entity entry point BODY : in the current version, each session starts with a list of entities. however, starting with a single one would also be beneficial. like adding a search interface for ids and then showing a first view with detail information + the item is selected

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/vscode/issues/39641" TITLE : filter log calls in js BODY : testing 39572 from looking at the code, i think it would be better if the loglevel would be checked in the js side of things to save a string.format call and a c++ call .

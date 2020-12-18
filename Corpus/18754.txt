@@ -1,0 +1,1 @@
+ URL : "https://github.com/unkrich/rails-saas-starter/issues/2" TITLE : update readme ssl BODY : heroku offers free ssl with any of their paid dynos. pairing this with letsencrypt is another, much better way to get affordable ssl for a project.

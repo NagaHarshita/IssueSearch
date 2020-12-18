@@ -1,0 +1,1 @@
+ URL : "https://github.com/tpae/node-repl/issues/10" TITLE : add execution time BODY : as a developer, it would be nice to see how long it took to execute a certain snippet. i'm guessing we can use this: https://nodejs.org/api/console.html console_console_time_label

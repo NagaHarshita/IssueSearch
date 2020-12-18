@@ -1,0 +1,1 @@
+ URL : "https://github.com/wal-e/wal-e/issues/365" TITLE : release for postgresql 10 BODY : it would be great to get a release containing the postgresql 10 support that landed in https://github.com/wal-e/wal-e/pull/339

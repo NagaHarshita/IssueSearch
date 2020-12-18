@@ -1,0 +1,1 @@
+ URL : "https://github.com/metachris/vue-highlightjs/issues/11" TITLE : highlight in vue component BODY : how to use this package if my to be highlighted source codes are in a vue component, loaded with vue-router? btw it works in the root template index.php but that's no my target. thanks

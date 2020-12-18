@@ -1,0 +1,1 @@
+ URL : "https://github.com/jaypipes/ghw/issues/6" TITLE : create simple cli program BODY : mostly to serve as example usage of the library, create a simple cli program that can be used to print information about the host hardware.

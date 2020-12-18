@@ -1,0 +1,1 @@
+ URL : "https://github.com/simakovEvgen/theHam/issues/9" TITLE : the react project BODY : при нажатии на изображение выполняется переход по пути '/id', где id - id новости. на открывшейся странице отображается дата и текст новости ?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/wspr/fontspec/issues/277" TITLE : normalise all indentations BODY : the current indentation scheme comes from the transition from \foo_bar:n { \some_thing } to \foo_bar:n { \some_thing } this minimised line changes at the time but in the long run is obviously inconsistent with expl3 in general. time to sort it all out.

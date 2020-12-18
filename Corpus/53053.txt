@@ -1,0 +1,1 @@
+ URL : "https://github.com/akokai/camelid/issues/41" TITLE : database design issues BODY : current design is not optimal, and possibly introduces ambiguity or erratic behaviour. rebuild making use of pk/fk constraints and without merging everything to a single table. possibly wait for new release of epa data and/or rdkit 2017.03.

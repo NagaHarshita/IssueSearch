@@ -1,0 +1,1 @@
+ URL : "https://github.com/aljen/spaghetti/issues/9" TITLE : new value type: vec2 BODY : - constvec2 - float2vec2 - others?

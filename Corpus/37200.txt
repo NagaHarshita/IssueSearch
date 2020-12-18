@@ -1,0 +1,1 @@
+ URL : "https://github.com/tigercosmos/node-color-log/issues/1" TITLE : level logging filter BODY : add a filter that can only log the level message according to config logger.error , logger.info , logger.debug , logger.warn

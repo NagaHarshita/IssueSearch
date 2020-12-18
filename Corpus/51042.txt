@@ -1,0 +1,1 @@
+ URL : "https://github.com/mkdo/kapow-theme/issues/18" TITLE : add more template tags BODY : there are several template tags that we have developed on recent projects that need to be introduced to the build to reduce the amount of code that needs to be written for popular features. here's a list of suggestions. - responsive image markup

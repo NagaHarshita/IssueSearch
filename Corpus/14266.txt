@@ -1,0 +1,1 @@
+ URL : "https://github.com/Weysan/alexa-request/issues/6" TITLE : add proper phpdoc BODY : we should add proper phpdoc in the classes to help ide to work properly with the library.

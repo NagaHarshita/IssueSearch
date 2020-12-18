@@ -1,0 +1,1 @@
+ URL : "https://github.com/Metatavu/kunta-api-www-mikkeli/issues/107" TITLE : routes in separate files BODY : as a developer i would like that routes would be split into separate files to avoid index.js from groving too complex

@@ -1,0 +1,1 @@
+ URL : "https://github.com/middle2tw/whackpad/issues/3" TITLE : index: show more BODY : 首頁 index show more 按鈕按下去後： - 只會 load 一次 - 網頁會滑回上面（定位）

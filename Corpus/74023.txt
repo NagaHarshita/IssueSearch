@@ -1,0 +1,1 @@
+ URL : "https://github.com/code-corps/code-corps-api/issues/619" TITLE : document reset and setup BODY : problem we need documentation for mix ecto.reset and mix ecto.setup

@@ -1,0 +1,1 @@
+ URL : "https://github.com/copious-cookbooks/nginx/issues/12" TITLE : package fails to upgrade BODY : when running rhel/centos and nginx version 1.10, yum fails to upgrade the nginx package to 1.11.

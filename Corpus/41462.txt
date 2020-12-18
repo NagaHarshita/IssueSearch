@@ -1,0 +1,1 @@
+ URL : "https://github.com/Unity-Technologies/NavMeshComponents/issues/12" TITLE : 5.6.0b4 not supported BODY : in your readme page here you state that a unity 5.6.0b2 an up is sufficient to run this project but this is not the case. i run 5.6.0b4 and got this error. assertion at ..\mono\mini\unwind.c:616, condition cfa_reg != -1' not met and nothing new shows up.

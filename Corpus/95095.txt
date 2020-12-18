@@ -1,0 +1,1 @@
+ URL : "https://github.com/karlliang/dma/issues/11" TITLE : core framework enhancement BODY : 1. split insert operation from core.c to func.c 2. in dma_func_issue_block, - simplify the pre-calculation process - modify fulfill data process 3. add struct block as parameter to dma_func_init_config

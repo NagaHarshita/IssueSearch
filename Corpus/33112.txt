@@ -1,0 +1,1 @@
+ URL : "https://github.com/evanp/evancoin/issues/25" TITLE : acceptbid -> makeask BODY : don't need separate methods for this.

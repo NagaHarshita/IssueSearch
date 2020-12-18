@@ -1,0 +1,1 @@
+ URL : "https://github.com/ykokw/niftycloud-auth/issues/17" TITLE : add err.text property BODY : add err.text that include xml data of error response

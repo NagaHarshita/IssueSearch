@@ -1,0 +1,1 @@
+ URL : "https://github.com/Myl0g/pythondatabase/issues/1" TITLE : searching is broken BODY : searching will only work until no results are found for that query. only restarting the program will remedy the issue.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/GoogleCloudPlatform/datastore-ndb-python/issues/285" TITLE : ndb put is working async BODY : when i'm putting a new entity in ndb table and counting the number of all entities in the table. i'm getting one number lesser than what actually should be. the put is working asynchronously. then, what's the difference between put and put_async ?

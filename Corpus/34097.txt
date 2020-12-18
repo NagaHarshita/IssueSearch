@@ -1,0 +1,1 @@
+ URL : "https://github.com/PoringUniverse/OpenkoreManager/issues/7" TITLE : bug when adding bots BODY : there should be a validation when adding bots. empty string value does not create a folder but copies the content of control folder to the root directory of bots folder

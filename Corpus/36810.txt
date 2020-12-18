@@ -1,0 +1,1 @@
+ URL : "https://github.com/CslaGenFork/CslaGenFork/issues/35" TITLE : improve enum display BODY : instead of displaying editableroot, display editable root on propertygrids, project panel, etc.

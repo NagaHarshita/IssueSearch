@@ -1,0 +1,1 @@
+ URL : "https://github.com/CGAL/cgal/issues/1903" TITLE : missing links in wiki BODY : https://github.com/cgal/cgal/wiki/examples-and-demo-programs see sections sec:examples_subdirectory 4.3 and sec:demo_subdirectory 4.4 i guess that there should be hyperlinks to the corresponding sections.

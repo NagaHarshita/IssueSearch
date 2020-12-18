@@ -1,0 +1,1 @@
+ URL : "https://github.com/pretix/pretixdroid/issues/11" TITLE : allow to checkout tickets BODY : add a button to the gui that removes the checkin-mark on a position after scanning a barcode. useful when you accidentally scanned someone's merch-voucher instead of the admission-voucher.

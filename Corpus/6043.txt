@@ -1,0 +1,1 @@
+ URL : "https://github.com/tobibeer/tw5-appear/issues/4" TITLE : use in headers BODY : if i try to use appear next to heading, allowing me to collapse the section, the entire section gets rendered as a header. the only way around this is to put the appear on a new line below the header, but its not as visually appealing.

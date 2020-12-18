@@ -1,0 +1,8 @@
+ URL : "https://github.com/Zimmi48/bugzilla-test-2/issues/1815" TITLE : coqide and wrong filenames BODY : note: the issue was created automatically with bugzilla2github tool original bug id: bz 1815
+date: 2008-03-20 15:02:40 +0100
+from: jean-marc notin &lt;<notin@lix.polytechnique.fr>&gt;
+reported version: 8.5 last updated: 2008-11-07 19:02:21 +0100 jean-marc notin &lt;<notin@lix.polytechnique.fr>&gt; on 2008-03-20 15:02:40 +0100 when called with a wrong filename coqide fails with an obfuscating error meesage. eg.: sh-3.1$ ls
+sh-3.1$ $coqbin/coqide tmp/toto
+fatal error: exception invalid_argument index out of bounds it also happens when the user cannot create a new file in the directory: sh-3.1$ chmod -w .
+sh-3.1$ $coqbin/coqide toto
+fatal error: exception invalid_argument index out of bounds @ herbelin on 2008-11-07 19:02:21 +0100 fixed in trunk revision 11555 and v8.2 revision 11557 .

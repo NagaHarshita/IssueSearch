@@ -1,0 +1,1 @@
+ URL : "https://github.com/MuraraAllan/Postarei/issues/12" TITLE : create post page BODY : create a page post create a container and component to page post. wrap they to users reducer. receive users in container and pass to component as props. the postcontainer must call the usersavailable component passing what are the available users to post. arrange it in a div with flexbox.

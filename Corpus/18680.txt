@@ -1,0 +1,1 @@
+ URL : "https://github.com/fidelisrafael/ajax-long-polling-chat/issues/4" TITLE : unable to connect BODY : fatal error: class 'chat\database' not found in d:\xampp\htdocs\ajax-long-polling-chat-master\lib\message.php on line 28

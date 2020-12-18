@@ -1,0 +1,2 @@
+ URL : "https://github.com/dali-lab/seabird/issues/110" TITLE : prepare for dali demo BODY : - clean up app finalized/implemented designs, no typos, correct transitions and module names, update all icons/images, etc. - create presentation w/ team
+- clean up the database remove/change unnecessary info, add necessary info

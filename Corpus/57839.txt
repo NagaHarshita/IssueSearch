@@ -1,0 +1,1 @@
+ URL : "https://github.com/yogodoshi/cansei/issues/25" TITLE : remove the test folder BODY : since the project is using rspec i think we can remove this.

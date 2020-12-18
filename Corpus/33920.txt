@@ -1,0 +1,1 @@
+ URL : "https://github.com/millette/verra/issues/26" TITLE : batch upload of urls BODY : take a json file as an argument source urls, title, description, category, etc. and upload each file waiting between each upload .

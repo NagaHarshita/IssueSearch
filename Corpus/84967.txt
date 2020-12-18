@@ -1,0 +1,1 @@
+ URL : "https://github.com/plumbis/roku-screensaver/issues/2" TITLE : dynamically resize images BODY : images aren't resized and are presented at full size. for images larger than the screen they are cut off. figure out how to resize them.

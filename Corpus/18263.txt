@@ -1,0 +1,1 @@
+ URL : "https://github.com/Yubico/python-u2flib-host/issues/28" TITLE : struct pack error BODY : apdu_data = struct.pack 'b b b b b b b %is b b' % size,0, ins, p1, p2, l0, l1, l2, data, 0x04, 0x00 it shows that struct.error: required argument is not an integer

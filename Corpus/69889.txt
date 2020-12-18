@@ -1,0 +1,1 @@
+ URL : "https://github.com/ubuntudesign/snapcraft.io/issues/254" TITLE : unclear directory /snap BODY : http://snapcraft.io/docs/snaps/metadata as in the executables contained under /snap, ==> as in the executables contained under /snap/bin,

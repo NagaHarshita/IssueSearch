@@ -1,0 +1,1 @@
+ URL : "https://github.com/itsmikechu/memorable-password/issues/8" TITLE : fix hyphenated words BODY : scenarios like _up-to-date_ should produce _u-t-d_ but aren't

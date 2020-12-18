@@ -1,0 +1,1 @@
+ URL : "https://github.com/liuderchi/atom-i18n/issues/32" TITLE : translate into dutch BODY : files require translation: - def/nl/context.cson - def/nl/menu_darwin.cson - def/nl/menu_linux.cson - def/nl/menu_win32.cson - def/nl/settings.cson for more info please checkout contributing.md https://github.com/liuderchi/atom-i18n/blob/master/contributing.md

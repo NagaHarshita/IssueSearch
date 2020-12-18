@@ -1,0 +1,1 @@
+ URL : "https://github.com/libcthorne/edictweb/issues/8" TITLE : expose data over api BODY : django rest framework should be used to expose dictionary entries and search functionality via a json api.

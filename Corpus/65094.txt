@@ -1,0 +1,1 @@
+ URL : "https://github.com/Bebersohl/hp-redux/issues/43" TITLE : implement damage action BODY : damage reduces the health of selected characters. action creator should take amount and one or more character minion or hero id's. use rest operator like freeze . it's ok if the character's health drops below zero. minions and heroes reducer should handle damage .

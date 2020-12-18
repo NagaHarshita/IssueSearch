@@ -1,0 +1,1 @@
+ URL : "https://github.com/Clinical-Genomics/scout/issues/525" TITLE : sanger validate feature BODY : https://clinical-db.scilifelab.se:8083/cust003/17052 i think the sanger validate feature should appear only for variants where the sanger has been ordered, not in pinned variants. it makes is a bit confusing otherwise

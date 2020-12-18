@@ -1,0 +1,1 @@
+ URL : "https://github.com/fr3x31dev/nugOS-pr/issues/31" TITLE : memory managment error BODY : the theming ui bug fix caused another bug, where the screen is reset after the command is issued.

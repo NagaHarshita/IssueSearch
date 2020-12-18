@@ -1,0 +1,1 @@
+ URL : "https://github.com/dmlc/dlpack/issues/10" TITLE : framework adoption status BODY : this issue is used to status from framework side on adopting the data structure. so far during gtc @mli have talked to @yangqing and @soumith and they declared joint effort on this.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Goomeo/hapi-kong-endpoints/issues/2" TITLE : how does it work? BODY : i have a hapi server project which adds all my routes from hapi plugin projects. if i include this plugin on hapi server project , will all the routes get registered on the kong server?

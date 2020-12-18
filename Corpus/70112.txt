@@ -1,0 +1,1 @@
+ URL : "https://github.com/mstefaniuk/graph-viz-d3-js/issues/38" TITLE : upgrade d3 to version 4 BODY : i've started to adapt graph-viz-d3-js to d3 version 4.7.4. i will send you a pull request when i'm done. if you want to do it yourself or have some reason why it shouldn't be done, please stop me soon, before i've put too much work into it.

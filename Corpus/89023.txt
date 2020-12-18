@@ -1,0 +1,1 @@
+ URL : "https://github.com/Trexology/laravel-reviewRateable/issues/2" TITLE : php artisan migrate error BODY : symfony\component\debug\exception\fatalerrorexception class 'createratingstable' not found

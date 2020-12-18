@@ -1,0 +1,1 @@
+ URL : "https://github.com/ohager/burst-autoplotter/issues/9" TITLE : allow 19 digit burst ids BODY : from pm: >> hello, i am trying to use your burst auto plotter and i can't because my numeric id is only 19 digits long, not 20. can you provide a fix for this? <<

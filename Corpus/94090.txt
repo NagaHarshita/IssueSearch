@@ -1,0 +1,1 @@
+ URL : "https://github.com/slyak/spring-data-jpa-extra/issues/7" TITLE : blob or clob mapping error BODY : in the process of using this sql template, we found that the resultset with byte mapped by blob or string mapped by clob might cause errors, is there a solution to solve?

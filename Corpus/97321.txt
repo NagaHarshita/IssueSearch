@@ -1,0 +1,1 @@
+ URL : "https://github.com/stevegraham/slanger/issues/233" TITLE : get channel info endpoints BODY : looks like the endpoints to get channel info and subscriber counts aren't implemented anywhere from what i can see? it would be nice to get number of connections from slanger api in the same way as you can from pusher

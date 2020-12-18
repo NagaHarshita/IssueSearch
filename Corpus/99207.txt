@@ -1,0 +1,1 @@
+ URL : "https://github.com/mavlink/mavlink/issues/693" TITLE : mavlink 2 c headers broken BODY : the api for mavlink_msg_mission_count_pack_chan now has an extra function param for mav_mission_type. but the api for mavlink_msg_mission_count_encode does not. they should both have the new function argument shouldn't they?

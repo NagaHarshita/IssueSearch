@@ -1,0 +1,1 @@
+ URL : "https://github.com/rhempel/umm_malloc/issues/8" TITLE : dbglog.h is missing BODY : compiler build error! there was a comment somewhere in the commits that macros from dbglog.h are moved to umm_malloc.c. it is not the case. the folder c-helper-macros is emply in the original repo.

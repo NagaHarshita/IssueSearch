@@ -1,0 +1,1 @@
+ URL : "https://github.com/senior7515/smf/issues/41" TITLE : use log_ _if BODY : look for all the simple if log... and change them to log_ _if to capture the conditional

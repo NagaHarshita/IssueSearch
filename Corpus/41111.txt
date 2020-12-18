@@ -1,0 +1,1 @@
+ URL : "https://github.com/GenericMappingTools/gmt-python/issues/43" TITLE : wrapper for gmt info BODY : create a wrapper function for gmt info . data input should be a file name data='some_file.txt' . doesn't really make much sense to read in numpy arrays for this because most of it can be done using numpy functions.

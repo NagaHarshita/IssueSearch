@@ -1,0 +1,1 @@
+ URL : "https://github.com/iGitScor/webpack-content-replacer-plugin/issues/32" TITLE : improve node compatibility BODY : hi, it would be great to be compatible with node 4. see lts documentation https://github.com/nodejs/lts for version support timeline. acceptance - travis

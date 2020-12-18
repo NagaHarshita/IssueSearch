@@ -1,0 +1,1 @@
+ URL : "https://github.com/rethinkdb/rethinkdb/issues/6254" TITLE : data got deleted. BODY : hi, i'm using rethinkdb in nodejs app. data got deleted over night. any one can guess the reason? i've just restart the server.

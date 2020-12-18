@@ -1,0 +1,1 @@
+ URL : "https://github.com/mrvautin/typewrite/issues/2" TITLE : add class or insert html BODY : how i can add class or insert html code? for example i want to write a bold text. actions: {type: 'hello <b>world</b>'}, {type: 'hello <span class= red >world</span>'},

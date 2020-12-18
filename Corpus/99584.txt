@@ -1,0 +1,1 @@
+ URL : "https://github.com/MatiasVara/torokernel/issues/37" TITLE : move tools to tools folder BODY : tools like boot.bin, build.pas and other tools should be in tools folder. update the projects in examples to point to the right tools. this ticket should be done after 27

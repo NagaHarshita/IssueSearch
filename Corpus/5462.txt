@@ -1,0 +1,1 @@
+ URL : "https://github.com/kiteco/atom-plugin/issues/136" TITLE : plan is cached BODY : @abe33 it looks like we are caching the plan object in the plugin? this can be problematic because if the user starts their pro trial or purchase pro from the website they have to restart atom before they see pro results.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/moeiscool/Shinobi/issues/134" TITLE : password reset docs BODY : it would be great if there was documentation on how to reset the password if you forget or lose it. perhaps just a simple one-line mysql command or some such. add it to the installation docs maye or troubleshooting or faq?

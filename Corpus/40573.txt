@@ -1,0 +1,1 @@
+ URL : "https://github.com/mmaitre314/MediaReader/issues/14" TITLE : update nuget package BODY : could you please refresh nuget on nuget.org? the latest available version is 2.1.6 which seems to lack uwp support.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/icholy/ttygif/issues/84" TITLE : error on centos7 BODY : when i excute this command $ ttygif myrecording the error information is : failed to execute: xwd -id 31457286 -out /tmp/ttygif.ln1nqw/0.xwd

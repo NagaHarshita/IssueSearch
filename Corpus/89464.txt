@@ -1,0 +1,1 @@
+ URL : "https://github.com/mottosso/Qt.py/issues/219" TITLE : qdesktopservices in qt.py BODY : i could not find a way to import qdesktopservices using qt.py . while they were missing in the earlier versions of pyside2, it seems that now they added those under qtgui. also, they are available in pyqt5.qtgui . would it be possible to update the shim accordingly? thanks.

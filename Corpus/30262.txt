@@ -1,0 +1,1 @@
+ URL : "https://github.com/yoshuawuyts/bankai/issues/129" TITLE : options to watchify BODY : i want to plug in https://github.com/traducer/browserify-livereload but don't see an easy way to get options to watchify.

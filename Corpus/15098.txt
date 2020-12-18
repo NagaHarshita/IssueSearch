@@ -1,0 +1,1 @@
+ URL : "https://github.com/varnishcache/libvmod-example/issues/6" TITLE : create 5.2 branch BODY : we need to create a 5.2 branch/tag for this vmod. the last working commit is here: 58f0c6d7ce42dc2be5bf505c2afc3cb2d565ab74

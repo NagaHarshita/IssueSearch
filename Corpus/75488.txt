@@ -1,0 +1,1 @@
+ URL : "https://github.com/trufflesuite/ganache/issues/17" TITLE : hook up electron-builder BODY : https://github.com/electron-userland/electron-builder should take care of building for all platforms.

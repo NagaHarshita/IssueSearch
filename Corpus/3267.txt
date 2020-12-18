@@ -1,0 +1,1 @@
+ URL : "https://github.com/keiffster/program-y/issues/108" TITLE : new client id BODY : hi, i am working on a bot and while hosting it on the web, i am not able to delete the temporary information of the previous session. what is the procedure to send a new client id, so that refreshing the page starts a new session? thanks in advance ps: i am new to python coding

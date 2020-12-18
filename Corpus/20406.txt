@@ -1,0 +1,1 @@
+ URL : "https://github.com/lucarebuffi/ShadowOui/issues/173" TITLE : change in new silx BODY : silx 0.5 to be released next week requires in ...oasys_ve/oasys1/oasys/widgets/gui.py change from silx.gui.plot.backendmatplotlib import backendmatplotlibqt to from silx.gui.plot.backends.backendmatplotlib import backendmatplotlibqt

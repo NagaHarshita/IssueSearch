@@ -1,0 +1,1 @@
+ URL : "https://github.com/Intevation/intelmq-mailgen-release/issues/1" TITLE : file markup format BODY : my suggestion is to use markdown in the github variant with short headers, aka heading2 by default, because it is shorter and easier to remember. and rename the files to have .md suffix, so that github directly shows the formatted version. - news.md - update.md - todo.md

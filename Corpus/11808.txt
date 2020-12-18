@@ -1,0 +1,1 @@
+ URL : "https://github.com/JCharante/kodiak/issues/9" TITLE : lazy load images BODY : it currently takes forever to load the library page, because all the videos & pictures are downloaded from the start. instead they shouldn't be downloaded until needed.

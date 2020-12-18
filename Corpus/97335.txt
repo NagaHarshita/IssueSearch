@@ -1,0 +1,1 @@
+ URL : "https://github.com/gspangler/weight-tracker/issues/23" TITLE : get real data from backend BODY : currently, the application has been dealing with dummy data. let's bridge the gap and get the data from a rest endpoint.

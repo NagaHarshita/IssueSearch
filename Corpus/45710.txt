@@ -1,0 +1,1 @@
+ URL : "https://github.com/vsergeev/c-periphery/issues/6" TITLE : info in documentation BODY : i need to know wether this library depends on rt_preempt. couldn't find anything in the docs.

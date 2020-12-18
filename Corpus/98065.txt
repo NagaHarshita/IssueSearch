@@ -1,0 +1,1 @@
+ URL : "https://github.com/tkucic/AutoSteamBoiler/issues/75" TITLE : implement steam dump valve BODY : steam dump valve will dump automatically the steam that is not been able to get used up by the consumer. seeming it is a closed system the steam will start to over pressure. the steam dump will open at 8.2 bars and keep it there even though the steam will increase.

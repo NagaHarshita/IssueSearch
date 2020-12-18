@@ -1,0 +1,1 @@
+ URL : "https://github.com/tz0/game/issues/66" TITLE : different wall types BODY : not all walls should kill you. there should be regular walls, which you can bounce off of, and lethal walls maybe lasers that end the game immediately if you touch them. - implement lethal walls - implement non-lethal walls

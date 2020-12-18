@@ -1,0 +1,1 @@
+ URL : "https://github.com/red/red/issues/2914" TITLE : browse a file BODY : on macos, the following code will not open a browser, but open visual studio code. on windows, it won't open anything at all. red browse file:///users/jenniferlee/flower.red

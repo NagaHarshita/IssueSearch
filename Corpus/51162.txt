@@ -1,0 +1,1 @@
+ URL : "https://github.com/loudbinary/pantheon_site_management/issues/9" TITLE : add summary to reports BODY : currently both --reportoudated=html --reportoutdated=pdf produce a report that is rather plain. it would be very useful if we summarized service_level types to how many updates behind sites are presently.

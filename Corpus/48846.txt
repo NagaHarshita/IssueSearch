@@ -1,0 +1,1 @@
+ URL : "https://github.com/clojure-vim/acid.nvim/issues/19" TITLE : specify :connect port BODY : i can send a pull request and would appreciate some pointer. how can we enable specifying a port number manually ala $ lein repl :connect 5555 ?

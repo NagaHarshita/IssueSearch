@@ -1,0 +1,1 @@
+ URL : "https://github.com/ethereumproject/etcommon-rs/issues/1" TITLE : fill in basic types bigint BODY : take advantage of parity's bigint https://github.com/paritytech/parity/tree/master/util/bigint which is apache-2 licensed. - copy the hash mod. - bring algorithms from it to make the current u256 etc implementation more efficient.

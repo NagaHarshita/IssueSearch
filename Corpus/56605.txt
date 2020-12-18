@@ -1,0 +1,1 @@
+ URL : "https://github.com/stuertz/parse_type-feedstock/issues/1" TITLE : no osx python 36 build BODY : the generated .travis.yml does not include a py36 build. the comment says that i should have a look at conda-forge.yml and/or the recipe/meta.yaml. but i don't have a clue why conda smithy thinks this is excluded. could anyone give me a hint?

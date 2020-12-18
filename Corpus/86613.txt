@@ -1,0 +1,1 @@
+ URL : "https://github.com/otacke/h5p-essay/issues/11" TITLE : ie 11 doesn't know append BODY : object doesn't support property or method 'append' e.g. solution.append solutiontitle ;

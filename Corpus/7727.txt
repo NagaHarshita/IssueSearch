@@ -1,0 +1,1 @@
+ URL : "https://github.com/reasonml-editor/reason-mode/issues/26" TITLE : imenu not works BODY : in ‘imenu’ source: ‘helm-imenu-candidates’ imenu-unavailable this buffer cannot use ‘imenu-default-create-index-function’

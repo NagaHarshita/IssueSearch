@@ -1,0 +1,1 @@
+ URL : "https://github.com/w3c/i18n-drafts/issues/115" TITLE : wrong rfc link BODY : in https://www.w3.org/international/techniques/authoring-html sec_langvalues, rfc 5646 tags for the identification of languages links to rfc 4646.

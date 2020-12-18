@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla/servicebook/issues/14" TITLE : case insensitve sorting BODY : right now the sorting is case sensitive so some projects starting with lower cases appears at the end it would be nice to have them sorted on a case insensitive way - see https://github.com/jfinkels/flask-restless/issues/626

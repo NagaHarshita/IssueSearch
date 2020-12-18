@@ -1,0 +1,1 @@
+ URL : "https://github.com/PistonDevelopers/VisualRust/issues/283" TITLE : installed. and now? BODY : i installed visualrust via the latest msi installer from appveyor. it has been installed successfully, but if i open visual studio, i can't see any templates for rust if i open the project wizard.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/LinkedDataFragments/Server.js/issues/43" TITLE : setting up ssl BODY : is the ca required as done in the example or is the key and cert enough? and are there errors thrown or logs created when the keys/certs are not found?

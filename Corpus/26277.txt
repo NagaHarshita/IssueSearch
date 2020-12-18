@@ -1,0 +1,1 @@
+ URL : "https://github.com/CyclopsMC/IntegratedDynamics/issues/311" TITLE : allow escaping of \ BODY : as suggested by @josephcsible in 296: > if we're going to make be a newline, we should also make \\ be a literal backslash so that it's possible to display a literal .

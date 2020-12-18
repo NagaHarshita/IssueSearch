@@ -1,0 +1,1 @@
+ URL : "https://github.com/jselbo/leffen/issues/32" TITLE : cli - auto upload BODY : currently recording and each each match i produce a new video, the cli should be watching the folder and once the video finishes processing it should auto kick off and start uploading to youtube. it can have defaulted values for properties name, playlist, and privacy rules .

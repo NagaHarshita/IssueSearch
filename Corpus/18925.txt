@@ -1,0 +1,1 @@
+ URL : "https://github.com/SUSE/stratos/issues/50" TITLE : user uaa features BODY : console user.. not the cf user associated with an endpoint log out view details about the logged in user uaa info including 'groups' edit details about the logged in user given name family name change password top right drop down menu as before?

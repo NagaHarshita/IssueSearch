@@ -1,0 +1,1 @@
+ URL : "https://github.com/PavelTyk/sendgrid-rails/issues/29" TITLE : rails 5 issue BODY : there was an error while trying to load the gem 'sendgrid-rails'. gem load error is: undefined method alias_method_chain' for actionmailer::base:class did you mean? alias_method

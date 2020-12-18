@@ -1,0 +1,1 @@
+ URL : "https://github.com/wraithgar/lift.zone/issues/6" TITLE : move to pug BODY : jade has long since rebranded and we need to change over to pug so we can get on all the latest libraries, especially since jadeify does not seem to want to work with the latest version of browserify

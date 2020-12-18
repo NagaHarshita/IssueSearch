@@ -1,0 +1,1 @@
+ URL : "https://github.com/cloudfoundry-incubator/cli-plugin-repo/issues/177" TITLE : support sha 256 checksums BODY : now that sha 1 collisions have been reported, sha 256 is preferable.

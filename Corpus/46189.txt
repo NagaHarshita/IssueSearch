@@ -1,0 +1,1 @@
+ URL : "https://github.com/ipython/disp/issues/3" TITLE : lists of displayables BODY : ! do you know what this is? it looks like a list. wrong! it's a list. https://media3.giphy.com/media/l2jhzs7drlnbgewy8/giphy.gif wouldn't it be neat if we could display a list of items if small enough as their rich repr version? in 1 : image , image , image out 1 : image, image, image

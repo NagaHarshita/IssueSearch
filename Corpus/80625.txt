@@ -1,0 +1,1 @@
+ URL : "https://github.com/zTrix/webpage2html/issues/36" TITLE : unicode symbols handling BODY : some symbols are handled incorrectly. for example: original: “smoking kills.” result: γç£smoking kills.γç¥ original: lawyers’ result: lawyersγçö

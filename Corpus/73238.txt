@@ -1,0 +1,1 @@
+ URL : "https://github.com/TonyRippy/north-castle-veterans-site/issues/12" TITLE : convert templates to jsp BODY : ...or another server-side rendering engine. i realized last night that the client-side rendering of templates may prevent the pages from being indexed properly by search engines.

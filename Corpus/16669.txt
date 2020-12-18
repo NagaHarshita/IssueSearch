@@ -1,0 +1,1 @@
+ URL : "https://github.com/Vitens/DBM-Desktop/issues/23" TITLE : limit date picker BODY : limit date picker to one week after today datetimepicker.maxdate property . dbm can't generate reliable predictions beyond that.

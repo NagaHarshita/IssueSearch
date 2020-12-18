@@ -1,0 +1,1 @@
+ URL : "https://github.com/joomlatools/joomlatools-vagrant/issues/90" TITLE : php7 & xdebug BODY : when i setup for php7 the box xdebug:enable command does not seem to do anything. it says it disables / enables but xdebug is not shown in php_info.

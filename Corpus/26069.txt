@@ -1,0 +1,1 @@
+ URL : "https://github.com/buggy/generator-shopify-react-app/issues/53" TITLE : add redux dev tools BODY : look at adding support for redux dev tools. which one is better? https://github.com/zalmoxisus/redux-devtools-extension https://github.com/gaearon/redux-devtools

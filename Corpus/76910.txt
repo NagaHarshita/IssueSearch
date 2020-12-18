@@ -1,0 +1,1 @@
+ URL : "https://github.com/huningxin/opencv/issues/171" TITLE : mat range is not exposed BODY : it is used in mat.colrange range .

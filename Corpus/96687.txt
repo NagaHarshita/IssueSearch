@@ -1,0 +1,1 @@
+ URL : "https://github.com/iocage/iocage/issues/430" TITLE : feature: list all datasets BODY : hi, it would be nice to have iocage list -a that lists all known iocage datasets including its type; pretty much a sum of iocage list iocage list -r and iocage list -t regards, abelbabel

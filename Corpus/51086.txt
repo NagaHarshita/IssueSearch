@@ -1,0 +1,1 @@
+ URL : "https://github.com/onhernandes/soundman/issues/9" TITLE : add post-update action BODY : if 'update_file' is set on put and is true, the api does delete local file and download again, if is set to false, does not. also, change file_name to _id because two musics can have the same name, so we need to avoid duplicates and such problems.

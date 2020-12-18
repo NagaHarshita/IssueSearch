@@ -1,0 +1,1 @@
+ URL : "https://github.com/datahq/core-datasets-tools/issues/17" TITLE : add norm function BODY : we want to have a function to normalize core data packages acceptance criteria i have index.js norm command to normalize data packages tasks create function to normalize data packages

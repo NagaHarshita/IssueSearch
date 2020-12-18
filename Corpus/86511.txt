@@ -1,0 +1,1 @@
+ URL : "https://github.com/mit-cml/appinventor-sources/issues/985" TITLE : html tagged being escaped BODY : updating the google closure compiler appears to have broken some of our error messages in the blocks editor. forum post for reference https://groups.google.com/d/msg/app-inventor-open-source-dev/mma-v33cwz8/h7_l4rylcaaj

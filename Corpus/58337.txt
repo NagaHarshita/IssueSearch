@@ -1,0 +1,1 @@
+ URL : "https://github.com/Ortus-Solutions/docker-commandbox/issues/14" TITLE : setting jvm heap sizes BODY : how does one adjust the heap size when running a container?

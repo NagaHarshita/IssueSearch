@@ -1,0 +1,1 @@
+ URL : "https://github.com/pkg/rock/issues/7" TITLE : add ability to remove tag BODY : i have managed to bump the wrong revision a couple of times now and i know it is a two liner with git to kill the local and remote tag but i'd love to be able to do this with rock as well.

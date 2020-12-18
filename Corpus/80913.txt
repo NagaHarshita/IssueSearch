@@ -1,0 +1,1 @@
+ URL : "https://github.com/saberespoder/sepcontent-v2/issues/65" TITLE : use travis ci for builds BODY : since this project is a kind of open source it is no reason to keep using circle ci and waste its capacity for static pages building needs. besides, there is rumor that travis has some cool features that circle doesn's support.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/tinesoft/ng-scrollreveal/issues/32" TITLE : update for angular 4 BODY : could you please upgrade package.json to also accept angular 4.x? maybe something similar to peerdependencies : {   @angular/common : ^2.3.1 || >=4.0.0 ,   @angular/compiler : ^2.3.1 || >=4.0.0 ,   @angular/core : ^2.3.1 || >=4.0.0 ,  },

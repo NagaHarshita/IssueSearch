@@ -1,0 +1,1 @@
+ URL : "https://github.com/easydigitaldownloads/easy-digital-downloads/issues/5427" TITLE : member has private access BODY : re: https://github.com/easydigitaldownloads/edd-commissions/issues/159 in the edd_batch_export class we are defining $file as private, but attempting to access it in extensions. this should be made protected.

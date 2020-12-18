@@ -1,0 +1,1 @@
+ URL : "https://github.com/yeti-platform/yeti/issues/90" TITLE : add yara hash module BODY : possible to add compatibility for the yara hash module? currently adding any rules with import hash defined will return a general error - yara compilation error: line 2: unknown module hash thank you!

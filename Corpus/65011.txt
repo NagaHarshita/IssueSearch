@@ -1,0 +1,1 @@
+ URL : "https://github.com/djdt/pyparens.nvim/issues/7" TITLE : ignore vim fold markers BODY : i'd like the ability to have highliting enabled for { parens, but not have it trigger on {{{ patterns.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/RWTH-EBC/TEASER/issues/503" TITLE : kühllast in teaser BODY : bisher ist die berechnung der kühllast in teaser nicht möglich. p_cooler immer auf null, auch bei großen non_residential gebäuden. wird die kühllastberechnung bald in teaser integriert?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/lucasdavid/wikiart/issues/5" TITLE : cannot download the images BODY : hi lucas, i have run your script but i did not find any downloaded images in the /images folder although getting the metadata is fine. i'm using python 3.6. thanks.

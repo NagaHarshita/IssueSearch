@@ -1,0 +1,1 @@
+ URL : "https://github.com/ThisIsntTheWay/arduino_wordclock/issues/1" TITLE : occassional led flicker BODY : occassional led flickering after led pattern changes. this is most likely either due to poor physical connections or emi.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/hackclub/monolith/issues/152" TITLE : rename frontend to web BODY : right now the division between codebases isn't clear because api contains hackbot's logic, which is arguably part of frontend . this could get confusing to newcomers. i think we can make a better distinction by renaming frontend to web .

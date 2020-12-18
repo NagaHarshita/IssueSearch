@@ -1,0 +1,1 @@
+ URL : "https://github.com/rhevm-qe-automation/python-rrmngmnt/issues/81" TITLE : automate release proccess BODY : travis-ci can do it for us, follow https://docs.travis-ci.com/user/deployment/pypi/

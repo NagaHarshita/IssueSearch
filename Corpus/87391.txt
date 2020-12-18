@@ -1,0 +1,1 @@
+ URL : "https://github.com/jonas747/yagpdb/issues/84" TITLE : leaking redis connections BODY : the bot is leaking redis connections, this results results in running into the max open files limit after a while.

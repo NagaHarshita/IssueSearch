@@ -1,0 +1,1 @@
+ URL : "https://github.com/mcandre/arrcheck/issues/6" TITLE : check for more bashisms BODY : use of source instead of . use of bash-specific variable names

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ev3dev-lang-java/ev3dev-lang-java/issues/156" TITLE : remove device classes BODY : the concept device is not used currently.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/nusmodifications/nusmods/issues/382" TITLE : migrate to react router v4 BODY : whole new api. upgrade funness. while at it, implement async component loading / code splitting.

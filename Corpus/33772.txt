@@ -1,0 +1,1 @@
+ URL : "https://github.com/n8fr8/orbot/issues/68" TITLE : app vpn tor over tor BODY : using the app vpn mode to torify all apps seems to create a tor over tor situation as described here https://trac.torproject.org/projects/tor/wiki/doc/torifyhowto i noticed as soon as i turn it on in the notification two to three more relays instantly appear.

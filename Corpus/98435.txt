@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpenSRP/opensrp-server/issues/298" TITLE : investigate syncing issues BODY : - occasionally, the app shows sync complete status before all children are synced to the tablet. if you hit the sync button again, more kids will sync. please add to this issue if people notice anything else.

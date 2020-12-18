@@ -1,0 +1,1 @@
+ URL : "https://github.com/Workiva/w_transport/issues/289" TITLE : stomp over sockjs? BODY : i don't see in the docs nor the api of a way to connect to a stomp message broker with sockjs. am i missing something or does w_transport not support this yet ?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/scoutnet/public/issues/48" TITLE : bechreibung bei caldav BODY : wenn ich mir den kalender über https://webcal.scoutnet.de/webcal/ hole dann bestehen für mich die beschreibungen der termine aus einem json-objekt das nur unter anderem die beschreibung enthält thunderbird 46.7.1 mit lightning 4.7.7.1

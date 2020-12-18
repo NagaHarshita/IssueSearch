@@ -1,0 +1,1 @@
+ URL : "https://github.com/SynBioDex/SBOL-Validator/issues/88" TITLE : more info link is broken BODY : the more info link on the live distribution is broken, going to: http://www.async.ece.utah.edu/tools/sbol-validatorconverter i believe that it should be going to the github page instead: http://synbiodex.github.io/sbol-validator/

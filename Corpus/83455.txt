@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla/network-api/issues/229" TITLE : cannot read env variables BODY : the following code in settings.py does not read .env file at the right location. read in the environment if os.path.exists '.env' is true: environ.env.read_env '.env' else: environ.env.read_env

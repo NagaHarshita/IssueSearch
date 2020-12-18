@@ -1,0 +1,1 @@
+ URL : "https://github.com/phako/gtkterm/issues/4" TITLE : lockfile support broken BODY : it is possible to run two instances of gtkterm on the same serial port

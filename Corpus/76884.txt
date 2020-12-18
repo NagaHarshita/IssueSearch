@@ -1,0 +1,1 @@
+ URL : "https://github.com/bdelville/bohurt-mapper/issues/2" TITLE : map: click on the marker BODY : clicking on the marker shall allow to display a map-popup with event information opening the details page shall require a further button to click, so the user can keep exploring the map

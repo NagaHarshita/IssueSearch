@@ -1,0 +1,1 @@
+ URL : "https://github.com/mrmcnerd/Google-Maps-API-Demo/issues/3" TITLE : style search menu BODY : the search engine code has been copy & pasted from the original udacity exercises. it's not a great fit for this new layout, so some css adjustments will be necessary.

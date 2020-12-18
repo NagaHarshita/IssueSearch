@@ -1,0 +1,1 @@
+ URL : "https://github.com/markbirbeck/sidewinder-viewer/issues/2" TITLE : unable to load trello BODY : using: shell sidewinder http://trello.com we get the 'your browser was unable to load all of trellos resources' error, outlined here: http://help.trello.com/article/771-loading-resources-from-trellos-cdn

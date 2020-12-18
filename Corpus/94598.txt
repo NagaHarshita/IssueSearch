@@ -1,0 +1,1 @@
+ URL : "https://github.com/thomasjbradley/spritebot/issues/5" TITLE : change button focus styles BODY : instead of using outline try using box-shadow to make a much more subtle button focus style.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/anhaidgroup/py_entitymatching/issues/100" TITLE : new labeler appveyor bug BODY : appveyor fails for both python versions 2.7 and 3.4. for some reason the new labeler test cases are not skipped for these versions of python for the appveyor tests on windows.

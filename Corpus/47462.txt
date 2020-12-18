@@ -1,0 +1,1 @@
+ URL : "https://github.com/dompdf/dompdf/issues/1341" TITLE : php 7.0 compatability BODY : hello, i see that the readme is not updated and the title of the repo still says php5 , but from what i know, there are issues with php 7.1 only?! does this means that the library is actually ok tested with php 7.0 or it's not yet tested fully?

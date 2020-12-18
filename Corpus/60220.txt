@@ -1,0 +1,1 @@
+ URL : "https://github.com/taylor-peterson/longest-duplicated-substring/issues/3" TITLE : writeup o n^4 approach BODY : basically, generate all possible substrings and compare each for equality.

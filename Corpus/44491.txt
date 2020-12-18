@@ -1,0 +1,1 @@
+ URL : "https://github.com/krischer/instaseis/issues/50" TITLE : export velocity model BODY : feature proposal: - a routine to export the velocity model - preferably with a direct route to create a taupymodel object in obspy from it. does anyone else think, it's a good idea? should be pretty straightforward, and i can implement it in the next weeks.

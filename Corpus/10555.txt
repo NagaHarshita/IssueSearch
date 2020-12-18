@@ -1,0 +1,1 @@
+ URL : "https://github.com/GinnyCobbett/ColmarAcademy/issues/1" TITLE : comments in html BODY : subtlety for errors! almost all of your html looks as though it's commented out. this is because most of your comments are using the incorrect syntax. make sure that each comment starts with <!-- and ends with --> . there should only be two dashes, not three.

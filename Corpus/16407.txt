@@ -1,0 +1,1 @@
+ URL : "https://github.com/NoMore201/googleplay-api/issues/5" TITLE : improve test file BODY : test.py should include the following cases: test list test reviews test browse test detail

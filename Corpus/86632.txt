@@ -1,0 +1,1 @@
+ URL : "https://github.com/dnGrep/dnGrep/issues/265" TITLE : image background treeview BODY : hi, i have a question about treeview panel. i would show a image in background pannel when the dngrep start. furthmore i would remove this when i click the search button. remove it until next restart of the app . anyone have a suggetion to improve this? thank you, regards

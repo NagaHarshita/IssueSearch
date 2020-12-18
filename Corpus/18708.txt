@@ -1,0 +1,1 @@
+ URL : "https://github.com/sagemathinc/cocalc/issues/1988" TITLE : unit test the api BODY : relevant code goes here: https://github.com/sagemathinc/cocalc/tree/master/src/smc-hub/test/api to run, you need postgres setup e.g., source dev/project/postgres-env and do cd src/smc-hub mocha test/api

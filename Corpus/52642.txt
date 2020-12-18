@@ -1,0 +1,1 @@
+ URL : "https://github.com/jcapoduri/SI2-Rlyeh/issues/3" TITLE : control de asistencias BODY : el sistema debe proveer un control de asistencias informatizado: preguntas: - se requiere alertar cuando se pase un threshold de inasistencias - la carga es online al momento de tomar asistencias o se totalizan desde las planillas fisicas? - quien es el encargado?

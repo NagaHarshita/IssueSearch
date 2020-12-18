@@ -1,0 +1,1 @@
+ URL : "https://github.com/BEEmod/BEE2-items/issues/1700" TITLE : cutout tiles cause leaks BODY : when placed in the corner of a map, sometimes they can leak. ! hammer_2017-03-11_17-08-34 https://cloud.githubusercontent.com/assets/6296061/23833736/9387595a-0728-11e7-8880-8bb30020021c.png

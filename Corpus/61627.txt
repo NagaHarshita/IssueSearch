@@ -1,0 +1,1 @@
+ URL : "https://github.com/mkg20001/js-libp2p-websocket-star/issues/8" TITLE : better value validation BODY : currently it's easy to crash signaling by sending invalid/malformed requests. e.g. send null instead of an object

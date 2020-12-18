@@ -1,0 +1,1 @@
+ URL : "https://github.com/petterh/react-europe-demo/issues/4" TITLE : include sources in pom BODY : this allows a much better experience from the host app development environment. original sources beat decompiled sources any day.

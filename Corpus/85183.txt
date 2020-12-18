@@ -1,0 +1,1 @@
+ URL : "https://github.com/peter-iakovlev/Telegram/issues/122" TITLE : error in tgcallsession.mm BODY : it shows the error: no visible @interface for 'atomic' declares the selector 'initwith value: recursive:'

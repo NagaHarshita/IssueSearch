@@ -1,0 +1,1 @@
+ URL : "https://github.com/keathley/nerves_camera_ui/issues/4" TITLE : connect to the picam BODY : the ui needs to connect to the associated picam so it can interact with it.

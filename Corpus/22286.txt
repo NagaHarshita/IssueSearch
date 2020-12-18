@@ -1,0 +1,1 @@
+ URL : "https://github.com/Va1erii/TicTacToe/issues/1" TITLE : issue of ai player BODY : sometimes when the game is ended, ai player turns step, but it must not do it. i think threads case this problem.

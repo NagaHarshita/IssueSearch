@@ -1,0 +1,5 @@
+ URL : "https://github.com/whatdacode/go-url-shortener/issues/1" TITLE : type url should be url BODY : codacy https://www.codacy.com/app/awcodify/go-url-shortener/commit?cid=134603895 detected an issue: message: type url should be url occurred on:
++ commit : b5c21215bd01c4f71a458ec831892e3bbb8e3ed5
++ file : main.go https://github.com/whatdacode/go-url-shortener/blob/b5c21215bd01c4f71a458ec831892e3bbb8e3ed5/main.go + linenum : 17 https://github.com/whatdacode/go-url-shortener/blob/b5c21215bd01c4f71a458ec831892e3bbb8e3ed5/main.go l17 + code : type url struct { currently on:
++ commit : 6ad462303a17850b91a98e76942563db161dc55d
++ file : main.go https://github.com/whatdacode/go-url-shortener/blob/6ad462303a17850b91a98e76942563db161dc55d/main.go + linenum : 27 https://github.com/whatdacode/go-url-shortener/blob/6ad462303a17850b91a98e76942563db161dc55d/main.go l27

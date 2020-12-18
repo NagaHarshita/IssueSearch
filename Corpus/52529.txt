@@ -1,0 +1,1 @@
+ URL : "https://github.com/JohnnyCrazy/SpotifyAPI-NET/issues/189" TITLE : compatibility with uwp BODY : i don't know if anyone was able to use spotifyapi-net with an universal windows platform uwp app but every time i try to install nuget packages in my uwp project i get an error. is it possible right now? if not, any chances of seeing it in the future? thanks!

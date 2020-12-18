@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpenSlides/OpenSlides/issues/3391" TITLE : autoupdate on user login BODY : i'm doing some performance testing and i see autoupdates on every login from oswstest https://github.com/ostcar/oswstest . i need to check, if the oswstest does this, or os.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/tdukart/codevember-meteor-retro-board/issues/22" TITLE : create user roles BODY : administrators should be able to adjust individuals' user roles. power users should be able to modify settings on boards for example, view creators/plus-oners users are just users

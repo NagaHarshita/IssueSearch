@@ -1,0 +1,1 @@
+ URL : "https://github.com/ongr-io/ElasticsearchBundle/issues/809" TITLE : inner hits with _source BODY : hi how can i build next query using ongr: { has_parent : { parent_type : user_document , query : { match_all : }, inner_hits :{ _source : awards } } }

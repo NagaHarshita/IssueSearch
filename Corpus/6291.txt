@@ -1,0 +1,1 @@
+ URL : "https://github.com/flexVDI/launcher-mobile/issues/8" TITLE : about ios build BODY : i run this command ./cerbero-uninstalled -c config/cross-ios-universal.cbc build spiceglue but warning: using default configuration because /users/x1aohey/.cerbero/cerbero.cbc is missing error running 'build' command: recipe 'spiceglue' not found so what can i do?

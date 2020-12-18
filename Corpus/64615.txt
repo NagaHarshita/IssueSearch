@@ -1,0 +1,1 @@
+ URL : "https://github.com/tegg89/SRCNN-Tensorflow/issues/12" TITLE : h5 file doesn't shuffle BODY : when generating h5 files both in training and testing, the order of training samples still remains the order of extracting from images. in conventional implementation of srcnn's matlab code, they shuffled the training samples before training.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/withspectrum/react-app-rewire-styled-components/issues/1" TITLE : npm build is broken BODY : dist/index.js contains a sum function and nothing else. use strict ; object.defineproperty exports, __esmodule , { value: true } ; const sum = exports.sum = a, b => { return new promise res => res a + b ; };

@@ -1,0 +1,1 @@
+ URL : "https://github.com/flowner1998/Pong-hal/issues/1" TITLE : known bugs 08-03-2017 BODY : -ball goes through paddle at high speeds. -ball angle doesn't adjust with speed when hitting a paddle. -ball seems glitchy, may have something to do with the framerate.

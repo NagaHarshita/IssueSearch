@@ -1,0 +1,1 @@
+ URL : "https://github.com/spipu/html2pdf/issues/252" TITLE : character encoding problem BODY : i have utf-8 charset html code which contains turkish characters. when i convert it to pdf in place of all turkish characters question marks is displayed. my settings are: $html2pdfobject = new html2pdf 'p', 'a4', 'tr', true, 'utf-8' ; $html2pdfobject->setdefaultfont 'arial' ;

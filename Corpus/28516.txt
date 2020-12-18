@@ -1,0 +1,1 @@
+ URL : "https://github.com/kelvinlawson/pykaraoke/issues/21" TITLE : gp2x stil relevant? BODY : i'm in the process of porting pykaraoke to gstreamer 1.0. and later gtk3 wxpython/phoenix. gp2x will probably brake in the process and i'm wondering if it's still relevant to support this platform or if the code could be removed?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/highsource/ogc-schemas/issues/187" TITLE : add support for eompom/1.1 BODY : support earth observation metadata profile of observations & measurements 1.1 schema files schema files: http://schemas.opengis.net/eompom/ reference document: http://www.opengeospatial.org/standards/om resp.http://docs.opengeospatial.org/is/10-157r4/10-157r4.html

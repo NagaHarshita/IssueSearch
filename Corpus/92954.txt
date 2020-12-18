@@ -1,0 +1,1 @@
+ URL : "https://github.com/protViz/protViz/issues/4" TITLE : add 2+ example in man page BODY : ion2c <- function b, y { hydrogen <- 1.007825 oxygen <- 15.994915 nitrogen <- 14.003074 yo <- fi$y - oxygen - hydrogen - hydrogen c <- b + nitrogen + 3 hydrogen z <- y - nitrogen + 3 hydrogen b2 <- b + hydrogen / 2 y2 <- y + hydrogen / 2 return cbind b, y, b2 ,y2 }

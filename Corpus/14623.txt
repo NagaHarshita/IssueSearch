@@ -1,0 +1,1 @@
+ URL : "https://github.com/elixir-lang/elixir/issues/6424" TITLE : binread and lines BODY : i wonder if it is correct for io.binread/2 to have the option line_or_chars . is the idea of lines meaningful when reading in binary?

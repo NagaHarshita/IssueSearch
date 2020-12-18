@@ -1,0 +1,1 @@
+ URL : "https://github.com/VanHackathon2017HueBR/presentation-builder/issues/2" TITLE : split pdf into images BODY : create js component to split pdf into images. receives a file and returns a array of bytes

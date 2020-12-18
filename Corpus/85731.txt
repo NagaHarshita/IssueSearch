@@ -1,0 +1,1 @@
+ URL : "https://github.com/victoriarobotics/victoria_mechanical/issues/11" TITLE : fix r200 cover bolt holes BODY : the bolt/screw hole on the r200 covers don't align, resulting in not all screws installed. widen cover holes to be slots.

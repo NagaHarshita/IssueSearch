@@ -1,0 +1,1 @@
+ URL : "https://github.com/Andu2/FEH-Mass-Simulator/issues/35" TITLE : def/atk ploy 3 BODY : def ploy and atk ploy 3 are initiating for defender at 5 or less res instead of 1 or less res. these are the conditions for def/atk ploy 1 not 3.

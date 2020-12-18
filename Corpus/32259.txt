@@ -1,0 +1,1 @@
+ URL : "https://github.com/quicwg/base-drafts/issues/233" TITLE : unknown frame types BODY : the draft currently says: > frames of unknown types are ignored. which is basically impossible. the only option an endpoint has when it encounters an unknown frame type is to throw out the entire frame or terminate the connection. we should pick the latter.

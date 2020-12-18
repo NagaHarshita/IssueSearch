@@ -1,0 +1,1 @@
+ URL : "https://github.com/MagicCarpetSoftware/pure-angular-date-range-picker/issues/1" TITLE : upgrade bundle tool chain BODY : use webpack instead of gulp to bundle

@@ -1,0 +1,1 @@
+ URL : "https://github.com/erikboto/monark-ant/issues/4" TITLE : support for lc6 BODY : some firmware versions of the lc6 seem to identify themselves as their firmware version rather than lc when sending the id command. eg: mec3v11r18 the detection method monarkconnection.cpp is then unable to detect the bike. all other serial commands are the same.

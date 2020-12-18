@@ -1,0 +1,1 @@
+ URL : "https://github.com/sul-dlss/hyrax-terraform/issues/14" TITLE : fix variable names BODY : once we're done with integration of the modules and we're not needing to look as much at the .yaml files for comparison, start some major search and replacing to rename the variables from studleycaps to lowercase+underscore.

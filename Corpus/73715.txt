@@ -1,0 +1,1 @@
+ URL : "https://github.com/c3js/c3/issues/1977" TITLE : debugger works for c3js? BODY : looks like we can't insert debugger to any c3js code. any solution to this?

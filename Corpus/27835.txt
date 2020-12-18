@@ -1,0 +1,15 @@
+ URL : "https://github.com/andybotting/xbmc-addon-abc-iview/issues/2967" TITLE : end-user bug report BODY : automatic bug report from end-user. environment plugin name: abc iview plugin id: plugin.video.abc_iview plugin version: 1.8.0 xbmc/kodi version: 16.1 git:2016-04-24-b08ce71-dirty python version: 2.7.9 default, sep 17 2016, 20:55:23 gcc 4.9.2 operating system: linux2 linux 4.4.26-v7+ armv7l ip address: 76.120.153.184 c-76-120-153-184.hsd1.pa.comcast.net isp : comcast cable python path: /home/pi/.kodi/addons/plugin.video.abc_iview
+/home/pi/.kodi/addons/script.common.plugin.cache/lib
+/home/pi/.kodi/addons/script.module.beautifulsoup/lib
+/home/pi/.kodi/addons/script.module.requests/lib
+/usr/lib/python2.7
+/usr/lib/python2.7/plat-arm-linux-gnueabihf
+/usr/lib/python2.7/lib-tk
+/usr/lib/python2.7/lib-old
+/usr/lib/python2.7/lib-dynload
+/usr/local/lib/python2.7/dist-packages
+/usr/lib/python2.7/dist-packages
+/usr/lib/python2.7/dist-packages/pilcompat
+/usr/lib/python2.7/dist-packages/gtk-2.0
+/home/pi/.kodi/addons/plugin.video.abc_iview/resources/lib traceback traceback most recent call last : file /home/pi/.kodi/addons/plugin.video.abc_iview/resources/lib/series.py , line 35, in make_series_list series_list = comm.get_programme_from_feed category file /home/pi/.kodi/addons/plugin.video.abc_iview/resources/lib/comm.py , line 141, in get_programme_from_feed feed = get_feed keyword file /home/pi/.kodi/addons/plugin.video.abc_iview/resources/lib/comm.py , line 135, in get_feed feed = cache.cachefunction fetch_url, url file /home/pi/.kodi/addons/script.common.plugin.cache/lib/storageserver.py , line 570, in cachefunction ret_val = funct args file /home/pi/.kodi/addons/plugin.video.abc_iview/resources/lib/comm.py , line 68, in fetch_url raise e
+httperror: 404 client error: not found for url: http://iview.abc.net.au/api/iview?device=hbb&hbr=1&sort=az full xbmc.log https://gist.github.com/61e5fb0b6cf8334e44ef4932ef097335

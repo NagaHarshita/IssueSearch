@@ -1,0 +1,1 @@
+ URL : "https://github.com/MahdiMajidzadeh/bootstrap-v4-rtl/issues/8" TITLE : text align left/right? BODY : https://github.com/mahdimajidzadeh/bootstrap-v4-rtl/blob/v4.0.0-beta/dist/css/bootstrap-rtl.css l126 body { ... text-align: left; ... } should this be text-align: right; ?

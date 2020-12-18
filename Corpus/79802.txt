@@ -1,0 +1,1 @@
+ URL : "https://github.com/CartoDB/cartodb/issues/12612" TITLE : stuck dark matter labels BODY : context coming from https://github.com/cartodb/support/issues/927 dark matter labels are stuck in the layers panel despite what basemap is selected steps to reproduce 1. select dark matter 2. select positron lite 3. current result dark matter labels is still shown

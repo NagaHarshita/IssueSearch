@@ -1,0 +1,1 @@
+ URL : "https://github.com/fnichol/docker-rust/issues/14" TITLE : nightly not nightly? BODY : somehow, when i use your image nightly-slim , i end up with rustc --version yielding 1.15.0-nightly , whereas rustup gives me 1.16.0-nightly on my mac. shouldn't it be always fetching the latest upon build? thanks for the great images btw!

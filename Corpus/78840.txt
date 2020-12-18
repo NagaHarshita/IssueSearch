@@ -1,0 +1,1 @@
+ URL : "https://github.com/kakao/n2/issues/16" TITLE : remove duplicated codes. BODY : after https://github.com/kakao/n2/pull/14 is merged, there are lots of duplicated code on benchmark codes because of my laziness. : we need to remove it.

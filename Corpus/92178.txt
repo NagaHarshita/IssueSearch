@@ -1,0 +1,1 @@
+ URL : "https://github.com/chrmarti/testissues/issues/2467" TITLE : view invisible characters BODY : - vscode version: 1.14.1 - os version: arch linux i just want a way to view invisible characters like zero width joiners and separate emojis that are combining. like 👨‍💻 being separated into 👨 box for zero width joiner 💻

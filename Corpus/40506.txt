@@ -1,0 +1,1 @@
+ URL : "https://github.com/intesso/new-line/issues/1" TITLE : unusable with rollup BODY : this backward compatibility fragment makes package unusable with packaging frameworks, like rollup : if !stream.transform { stream = require 'readable-stream' ; }

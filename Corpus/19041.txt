@@ -1,0 +1,1 @@
+ URL : "https://github.com/tlerma83/Video-Asp.Net-MVC/issues/3" TITLE : welcome home page BODY : given a user is not registered or logged in when a user visits the url then the user is presented with a welcome message and a log in or register option

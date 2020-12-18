@@ -1,0 +1,1 @@
+ URL : "https://github.com/deved-it/grav-plugin-google-maps/issues/14" TITLE : google maps and minify BODY : the map will not come up if minifiers are enabled. css and js grav 1.1.12

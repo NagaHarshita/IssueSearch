@@ -1,0 +1,1 @@
+ URL : "https://github.com/shizzard/cloak/issues/3" TITLE : private vs protected keys BODY : cloak will probably need a support of protected read-only keys. for now only private keys are supported.

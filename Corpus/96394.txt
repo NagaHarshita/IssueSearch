@@ -1,0 +1,1 @@
+ URL : "https://github.com/GoogleCloudPlatform/google-cloud-eclipse/issues/2519" TITLE : errordialog --> statusutil BODY : there are currently four places in the repo where we use errordialog: https://github.com/googlecloudplatform/google-cloud-eclipse/search?utf8=%e2%9c%93&q=errordialog&type= we should replace these with statusutil.seterrorstatus instead

@@ -1,0 +1,1 @@
+ URL : "https://github.com/transomdesign/TransomGrid/issues/10" TITLE : add row media queries BODY : // custom mqs $mq-row: min-width: { em-calc $row-max-width } ; $mq-row-max: max-width: { em-calc $row-max-width } ;

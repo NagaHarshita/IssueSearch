@@ -1,0 +1,1 @@
+ URL : "https://github.com/golang/go/issues/18532" TITLE : doc: explain vendoring BODY : how to write go code https://golang.org/doc/code.html remote should mention vendoring feature under remote packages section. we also need to replace all the mentions of go15vendorexperiment on the wiki with the proper official document.

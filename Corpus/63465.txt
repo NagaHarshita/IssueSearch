@@ -1,0 +1,1 @@
+ URL : "https://github.com/kosho/flight-track/issues/1" TITLE : dump1090 option --quiet BODY : hi kosho, i was wondering why the latest dump1090 does not support the --quiet option that seems to be needed to run with the elk. has anyone else had success with elk and ads-b?

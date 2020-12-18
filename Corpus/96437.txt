@@ -1,0 +1,1 @@
+ URL : "https://github.com/Xandaros/evolve/issues/161" TITLE : ev_isusergroup not working BODY : hi, i am building a script which needs the ability to read and give ranks but when i use ply:ev_isusergroup rank it returns attempt to call method 'ev_isusergroup' a nil value maybe the function is not working of the wiki is outdated idk i just wanted to inform you.

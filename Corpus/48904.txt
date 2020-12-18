@@ -1,0 +1,1 @@
+ URL : "https://github.com/RaspberryPiFoundation/projects-desktop/issues/9" TITLE : starred projects menu BODY : starred projects are working and being saved in state, but we need a native menu that... allows us to star/unstar the current project shows a list of our starred projects allows us to click to navigate to that starred project

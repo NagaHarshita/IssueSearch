@@ -1,0 +1,1 @@
+ URL : "https://github.com/llSourcell/tensorflow_image_classifier/issues/15" TITLE : docker can't run. BODY : why connect network? ioerror: errno url error invalid proxy for http: 'docker.for.mac.localhost:54321'

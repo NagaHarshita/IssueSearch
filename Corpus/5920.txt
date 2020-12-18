@@ -1,0 +1,1 @@
+ URL : "https://github.com/statgen/pheweb/issues/21" TITLE : top hits table BODY : in the top hits table, give users the option: 1 to hide/unhide columns 2 to sort columns also, add the following columns: 1 add or/beta column 2 add an annotation column for example: intronic; exonic-nonsynonymous; exonic-splice; exonic-synonynmous; intergenic; 5' utr; 3' utr

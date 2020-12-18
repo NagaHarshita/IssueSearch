@@ -1,0 +1,1 @@
+ URL : "https://github.com/RevatureBAM/BAMPhoenix/issues/477" TITLE : template editor styling BODY : height is hard coded to a pixel value in order to allow for individual scroll bars on each column. however, this causes a obvious scaling problem.

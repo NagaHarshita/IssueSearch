@@ -1,0 +1,1 @@
+ URL : "https://github.com/KrunalLathiya/ReactJSLaravel5.5/issues/1" TITLE : how to delete table row? BODY : i understood how to make request ajax to delete item from the db when clicked delete button. but i don't understand how to delete item from the table after delete from the db.

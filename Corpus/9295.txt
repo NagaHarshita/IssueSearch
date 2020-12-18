@@ -1,0 +1,1 @@
+ URL : "https://github.com/conda-forge/flex-feedstock/issues/11" TITLE : update to 2.6.3 BODY : this version fixes a bug that affects compiling doxygen and other projects.

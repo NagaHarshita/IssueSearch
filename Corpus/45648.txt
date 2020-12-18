@@ -1,0 +1,1 @@
+ URL : "https://github.com/jelmer/xandikos/issues/37" TITLE : improve test coverage BODY : test coverage is pretty poor at the moment; integration-testing wise we're reasonably covered, but unit tests are missing - especially for corner cases.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/fusionapp/fusion-fab/issues/38" TITLE : remove diamond_prod envar BODY : diamond doesn't use the environment variable diamond_prod for anything anymore.

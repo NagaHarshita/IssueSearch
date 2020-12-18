@@ -1,0 +1,1 @@
+ URL : "https://github.com/SemanticWebBuilder/SWBBundle/issues/5" TITLE : detached head submodules BODY : each submodule is detached from any branch, so one have to manually attach every submodule to get latest changes or a particular branch. posible solution: http://stackoverflow.com/questions/18770545/why-is-my-git-submodule-head-detached-from-master

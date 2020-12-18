@@ -1,0 +1,1 @@
+ URL : "https://github.com/xieziyu/ngx-echarts/issues/1" TITLE : angular cli 打包问题 BODY : { scripts : // ... // add this: ../node_modules/echarts/dist/echarts.js or ../node_modules/echarts/dist/echarts.min.js , } 不用压缩的echarts.js打包根本就不能看。。。打包完script.js 2m多 要介绍一下吧

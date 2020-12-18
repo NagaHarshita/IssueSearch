@@ -1,0 +1,1 @@
+ URL : "https://github.com/oduwsdl/ipwb/issues/197" TITLE : ipfs webui link is broken BODY : per 196, call to ipwb config endpoint is not functioning, which prevents us from obtaining the link to the webui. the latter link may be dynamic e.g., custom port based on ~/.ipfs/config , so a call to obtain this information is necessary over hard-coded assumptions.

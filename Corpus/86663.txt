@@ -1,0 +1,1 @@
+ URL : "https://github.com/elysium-project/bug-tracker/issues/45" TITLE : immolate cast glitch 3198 BODY : from old bug-tracker: > i noticed while playing any warlock that when i cast immolate after i already have the targets attention, the cast timer resets causing the cast to be 1.5 times longer than it should be. it visually restarts after it gets half way through the cast.

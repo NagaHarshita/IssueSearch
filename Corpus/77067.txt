@@ -1,0 +1,1 @@
+ URL : "https://github.com/dakk/letchain/issues/69" TITLE : missing utxo on rollback BODY : the rollback procedure doesn't restore the deleted spent utx of the rolled back block. while rolling back we can restore utx if the transaction is still present; in pruned mode the problem persists

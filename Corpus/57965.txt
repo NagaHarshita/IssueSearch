@@ -1,0 +1,1 @@
+ URL : "https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs/issues/184" TITLE : response intent to avs BODY : i want use lambda to response json data content intent imformation to avs. and then i can handle it on my device

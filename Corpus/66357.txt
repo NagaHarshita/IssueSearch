@@ -1,0 +1,5 @@
+ URL : "https://github.com/jwds1978/jwds1978.github.io/issues/30" TITLE : missing semicolon. semi BODY : codacy https://www.codacy.com/app/jwds1978/jwds1978-github-io/commit?cid=73518082 detected an issue: message: missing semicolon. semi occurred on:
++ commit : 6744e87d7c6bd2f42cde6b4e2c0055687719dc7f
++ file : resources/js/overview-widget.js https://github.com/jwds1978/jwds1978.github.io/blob/6744e87d7c6bd2f42cde6b4e2c0055687719dc7f/resources/js/overview-widget.js + linenum : 80 https://github.com/jwds1978/jwds1978.github.io/blob/6744e87d7c6bd2f42cde6b4e2c0055687719dc7f/resources/js/overview-widget.js l80 + code : return a.stargazers_count === b.stargazers_count ? 0 : a.stargazers_count > b.stargazers_count ? -1 : 1 currently on:
++ commit : 1faeba659704e8702c1352c692e6473d913ab4c8
++ file : resources/js/overview-widget.js https://github.com/jwds1978/jwds1978.github.io/blob/1faeba659704e8702c1352c692e6473d913ab4c8/resources/js/overview-widget.js + linenum : 80 https://github.com/jwds1978/jwds1978.github.io/blob/1faeba659704e8702c1352c692e6473d913ab4c8/resources/js/overview-widget.js l80

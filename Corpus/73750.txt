@@ -1,0 +1,1 @@
+ URL : "https://github.com/jodosha/vim-godebug/issues/15" TITLE : define godebug arguments BODY : hey there, i was wondering how i can archive the following over vim dlv debug main.go -- version for example ? thanks a lot.

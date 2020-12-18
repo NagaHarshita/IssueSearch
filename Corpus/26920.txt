@@ -1,0 +1,1 @@
+ URL : "https://github.com/phax/ParserGeneratorCC/issues/3" TITLE : change package name BODY : use com.helger.pgcc instead of the legacy org.javacc

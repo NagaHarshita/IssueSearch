@@ -1,0 +1,1 @@
+ URL : "https://github.com/odota/ui/issues/987" TITLE : show database schema BODY : provide a link to https://github.com/odota/core/blob/master/sql/create_tables.sql or render a graphical representation of the schema using the data from: https://api.opendota.com/api/schema the first might be a stopgap measure until someone implements the second.

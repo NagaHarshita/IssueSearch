@@ -1,0 +1,1 @@
+ URL : "https://github.com/Unicen-Tupar/bomberos/issues/188" TITLE : ci y cd BODY : - crear un entorno de integración continua integrado a github - bloquear merge si no pasan los tests - crear entornos de develop, stage user acceptance test - uat , y production - automatizar el pipeline

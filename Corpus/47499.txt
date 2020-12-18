@@ -1,0 +1,1 @@
+ URL : "https://github.com/stencila/stencila/issues/271" TITLE : plan for data caching BODY : in many cases large sheets / documents may not be processed in memory. you need to efficiently handle this keeping in might that some might want to use this for hard real time applications.

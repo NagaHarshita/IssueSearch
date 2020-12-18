@@ -1,0 +1,1 @@
+ URL : "https://github.com/gcarq/rusty-blockparser/issues/17" TITLE : speed decreasing to 0 BODY : speed is decreasing from x to 0 and the process get killed at the second phase. how can i increase the debug level to 2. i can't put a option on flag -v ?

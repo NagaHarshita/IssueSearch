@@ -1,0 +1,1 @@
+ URL : "https://github.com/google/fonts/issues/1067" TITLE : stable font file urls? BODY : @zachleat has an idea detailed in https://github.com/zachleat/idea-book/issues/15 about how the fonts api could offer predictable font file urls; filing this here for future discussion :

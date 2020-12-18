@@ -1,0 +1,1 @@
+ URL : "https://github.com/wix/wix-style-react/issues/687" TITLE : flaky eyes.it test BODY : this test is commented out since it is flaky. this test should be modified or something because it fails on ci quite a lot. ! image https://user-images.githubusercontent.com/18248989/29042304-0bb1cafe-7bbf-11e7-9012-79e69fd8e5eb.png

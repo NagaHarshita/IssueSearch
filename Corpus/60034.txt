@@ -1,0 +1,1 @@
+ URL : "https://github.com/abhishek-rs/portfolio-2017/issues/2" TITLE : way too long functions BODY : this could be split for better code readability. https://github.com/abhishek-rs/portfolio-2017/blob/24067ad298fffd0e5504620c6bdb96ac547e8753/src/components/designproject.jsx l75

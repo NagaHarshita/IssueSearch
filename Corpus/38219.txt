@@ -1,0 +1,1 @@
+ URL : "https://github.com/coderfe/vscode-open-in-browser/issues/10" TITLE : open a previous file BODY : if you view file1.html in browser then open file2.html and press either ctl-alt-o or ctl-k d, the extension open the last open-in-browser file file1.html .

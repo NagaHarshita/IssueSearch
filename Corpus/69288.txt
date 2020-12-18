@@ -1,0 +1,1 @@
+ URL : "https://github.com/opentsdb-js/url/issues/2" TITLE : support https protocol? BODY : is there any flag/setting to use http s ? ! image https://cloud.githubusercontent.com/assets/1396559/21623105/b814370a-d1b5-11e6-8fe3-24e740bb32c5.png https://github.com/opentsdb-js/url/blob/master/lib/index.js l68

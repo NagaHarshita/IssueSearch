@@ -1,0 +1,1 @@
+ URL : "https://github.com/featurist/browser-pdf-support/issues/1" TITLE : wrong result in iphone BODY : we used this library and it works well everywhere. only on my iphone both safari and chrome it returns false pdf not supported but in practice, i can preview the pdf files there.

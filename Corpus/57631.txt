@@ -1,0 +1,1 @@
+ URL : "https://github.com/byuoitav/kramer-microservice/issues/4" TITLE : reading telnet message BODY : on the old matrix's, it doesn't send a welcome message after creating a connection. the new ones do - we need a way to decide whether or not to read the welcome message, or else we won't get the correct responses from the device.

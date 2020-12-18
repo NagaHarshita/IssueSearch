@@ -1,0 +1,1 @@
+ URL : "https://github.com/neffets/redmine-stuff-to-do-plugin/issues/3" TITLE : time grid not working BODY : since migration to rails3 the time grid does not work any longer. options enable time grid time grid: shows spent hours of a week, pageable one week prev, one week next, date search

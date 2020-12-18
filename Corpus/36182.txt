@@ -1,0 +1,1 @@
+ URL : "https://github.com/Code4HR/okcandidate-platform/issues/176" TITLE : get started behavior BODY : - if there is only one survey: go to that survey. - if there are multiple surveys and no surveys are region locked: go the list of surveys - if there are multiple surveys and at least one survey is region locked: go to user locator

@@ -1,0 +1,1 @@
+ URL : "https://github.com/nikibrown/barbell-calculator/issues/8" TITLE : change bar weight BODY : if you change the bar weight after adding plates, the numbers in the tooltip next to each plate button don't disappear, but the weight is reset to the bar weight until you add another plate.

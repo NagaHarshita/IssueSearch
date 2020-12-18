@@ -1,0 +1,1 @@
+ URL : "https://github.com/NixOS/nixpkgs/issues/26800" TITLE : what does it mean? BODY : issue description option for example - networking.wireguard.interfaces.<name>.peers. .allowedips get error - error: syntax error, unexpected ' ', expecting id or or_kw or dollar_curly or ' ', . . - what is it?

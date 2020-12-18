@@ -1,0 +1,1 @@
+ URL : "https://github.com/GluuFederation/replication-mgr/issues/2" TITLE : central log management BODY : it would be nice if you could also manage logs from this console. for example, configure activemq, postgress, and messageconsumer.

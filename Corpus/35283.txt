@@ -1,0 +1,1 @@
+ URL : "https://github.com/zenhob/hcl/issues/85" TITLE : dns resolution error BODY : looks like harvest may have changed something between oct 20 2017 and today. running hcl e.g. hcl show , hcl start ... gives me connection failed. getaddrinfo: nodename nor servname provided, or not known

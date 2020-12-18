@@ -1,0 +1,5 @@
+ URL : "https://github.com/DemandaFacil/DemandaFacil/issues/13" TITLE : média móvel ponderada BODY : entrada:
+arraylist de consumo
+opção de quantidade de prazo curto, medio, longo, valorinformado saída:
+valor calculado int contexto: eu como máquina, recebo um arraylist de consumo de um produto, chamo um método para ele achar todos os períodos recentes e recebo um novo arraylist com os valores que serão usados para o calculo.
+consumos = {id, data, quantidade}, ...} os pesos serão padrão nesse inicio de projeto, utilizar valores crescentes entre 0 até 1, sendo que quanto mais próximo ao consumo final mais próximo será do peso 1. a partir desse arraylist eu calculo a média móvel ponderada de acordo com o prazo especificado e retorno o valor calculado. <!--- @huboard:{ milestone_order :0.9989006597141001, order :0.4996001799400165} -->

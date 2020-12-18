@@ -1,0 +1,1 @@
+ URL : "https://github.com/soton-data-mining/job-salary-prediction/issues/6" TITLE : cleaning: location raw BODY : locations are a mess too. needs to be generalized and cleaned. e.g: london city of london central london should this be different than those two ? maybe we can have two features. one for city, one for central or not central etc. ?

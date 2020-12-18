@@ -1,0 +1,1 @@
+ URL : "https://github.com/zeit/async-retry/issues/36" TITLE : types for typescript BODY : are you interested in types? we made some for using your library and i can share them. i can make a pull request, otherwise i can try and toss it up on definitelytyped. thanks!

@@ -1,0 +1,1 @@
+ URL : "https://github.com/cgkineo/jquery.resize/issues/3" TITLE : refactor and fix BODY : fix event detachment + expando ids rewritten to make more readable

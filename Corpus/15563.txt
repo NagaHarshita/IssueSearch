@@ -1,0 +1,1 @@
+ URL : "https://github.com/substack/node-findit/issues/36" TITLE : error on symlinks BODY : hello i've found an error that happens when the option followsymlinks is enabled. to solve i changed line 69 from this: onstat err, stat ; to that: onstat dir, stat ; i don't know if this is the proper way but i hope this will be correct very soon. enjoy!

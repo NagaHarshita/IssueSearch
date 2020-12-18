@@ -1,0 +1,1 @@
+ URL : "https://github.com/endernewton/tf-faster-rcnn/issues/213" TITLE : train customized dataset BODY : can i use this model to train more detailed classification model? will the pre-trained model influence the result?

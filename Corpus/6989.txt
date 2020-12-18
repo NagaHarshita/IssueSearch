@@ -1,0 +1,1 @@
+ URL : "https://github.com/Bone-Project/BoneOS/issues/139" TITLE : cpuid for uname BODY : in shared/x86 probably, or might do it in each dependant archs arch/i386 arch/amd64 .... contain very specific instruction sets and some cpu's dont even support this instruction.

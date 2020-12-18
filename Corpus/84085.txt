@@ -1,0 +1,1 @@
+ URL : "https://github.com/gmantele/taplib/issues/34" TITLE : could union be supported? BODY : apparently the union operator is not supported by your grammar. would it be possible to add it? thanks, alberto

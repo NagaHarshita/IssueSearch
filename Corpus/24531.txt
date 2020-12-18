@@ -1,0 +1,1 @@
+ URL : "https://github.com/proteusthemes/one-click-demo-import/issues/116" TITLE : support for wp-cli BODY : register commands for so the import can be triggered via wp-cli. how to do it https://make.wordpress.org/cli/handbook/commands-cookbook/ include-in-a-plugin-or-theme .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ShekharGupta1988/AppLensV2/issues/394" TITLE : pulse api thread leak BODY : i believe it is caused by repeated attempts to reconnect to redis, when there was an exception but the connection did not fail.

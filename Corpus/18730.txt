@@ -1,0 +1,1 @@
+ URL : "https://github.com/sapier/adv_spawning/issues/8" TITLE : update config api BODY : minetest's config api changed ; using the previous api gives a lot of warnings. the attached patch fixes the warnings. update_config_api.txt https://github.com/sapier/adv_spawning/files/1360921/update_config_api.txt

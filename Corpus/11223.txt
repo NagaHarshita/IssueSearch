@@ -1,0 +1,1 @@
+ URL : "https://github.com/dathinaios/spacemacs-supercollider/issues/9" TITLE : flet is obsolete BODY : nothing to worry about, it just seems that things might have shifted a bit in current versions of spacemacs. flet seems to be obsolete, so i changed it to cl-flet this probably might be worth of checking for new versions. i changed mine and it seems alright so far.

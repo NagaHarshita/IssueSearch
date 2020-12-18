@@ -1,0 +1,1 @@
+ URL : "https://github.com/Lukasa/hyper/issues/304" TITLE : https proxy support BODY : is this planned? i see that proxy support for http is included, but since almost every host only serves http2 on https it seems kind of useless.

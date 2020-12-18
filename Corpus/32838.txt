@@ -1,0 +1,1 @@
+ URL : "https://github.com/rzaluska/deoplete-rtags/issues/1" TITLE : wrong python import BODY : currently the plugin crashes upon startup. this is due to from deoplete.sources.base import base , which should be from deoplete.source.base import base

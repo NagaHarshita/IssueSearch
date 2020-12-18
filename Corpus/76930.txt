@@ -1,0 +1,1 @@
+ URL : "https://github.com/darklordabc/Legends-of-Dota-Redux/issues/1212" TITLE : meepo 'divided we stand' BODY : trying to pick 'divided we stand' at the hero selection screen returns the following message: 'divide we stand' does not belong to a valid category of skills. you will only see this error if redux has been configured incorrectly.

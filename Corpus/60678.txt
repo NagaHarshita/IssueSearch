@@ -1,0 +1,1 @@
+ URL : "https://github.com/wp-cli/find-command/issues/11" TITLE : add basic test coverage BODY : at a minimum, we should test: identify a wordpress install in a subdirectory. miss a wordpress install stored in an ignored path, then find it when --skip-ignored-paths is supplied. use of --verbose flag.

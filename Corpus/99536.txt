@@ -1,0 +1,2 @@
+ URL : "https://github.com/valhalla/valhalla/issues/38" TITLE : more formats for base data BODY : 2016-01-08t14:13:03z @kevinkreiser : originally created valhalla/skadi 37 need to think about data scripts making geotiffs, particularly: -double resolution to account for potential higher res sources
+-mercator projected tiles for some selected zoom levels

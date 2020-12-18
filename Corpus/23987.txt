@@ -1,0 +1,1 @@
+ URL : "https://github.com/whitequark/parser/issues/346" TITLE : ruby 2.4.1 release BODY : similar to 344 and 326, we're getting a warning when running ruby 2.4.1. warning: parser/current is loading parser/ruby24, which recognizes warning: 2.4.0-compliant syntax, but you are running 2.4.1. warning: please see https://github.com/whitequark/parser compatibility-with-ruby-mri.

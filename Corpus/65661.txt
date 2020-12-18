@@ -1,0 +1,1 @@
+ URL : "https://github.com/elmatica/openpcbXML/issues/2" TITLE : json rather than xml ;- BODY : json is much nicer than xml: lighter-weight, easier to read. and it is a better fit for a web-oriented world -- natively parseable in the browser.

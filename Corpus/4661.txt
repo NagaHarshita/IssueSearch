@@ -1,0 +1,1 @@
+ URL : "https://github.com/alvarotrigo/fullPage.js/issues/2775" TITLE : fb-nav on left BODY : hi, how can i force the nav to be on the left side on my page? my container is max-width:800px when i added to the fp-nav the declaration left:0% it move to left but out from the container

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jung-digital/ringa/issues/20" TITLE : ringaevent: add cancel BODY : ringa events right now have: event.done event.fail they should also have event.cancel . all abstractcommands should have a _cancel method as well so that commands can roll back their most recent operation if someone calls _cancel on the event.

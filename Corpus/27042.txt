@@ -1,0 +1,1 @@
+ URL : "https://github.com/sammengler/prj-rev-bwfs-dasmoto/issues/2" TITLE : closing </div> tags BODY : important for errors - lines 17, 23, and 29 are meant to be closing </div> tags. we want to make sure to have the proper closing tags for any opening elements. read more here: https://developer.mozilla.org/en-us/docs/web/html/element/div

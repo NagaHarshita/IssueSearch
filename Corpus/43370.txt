@@ -1,0 +1,1 @@
+ URL : "https://github.com/SirVer/ultisnips/issues/840" TITLE : crashes git merge_msg BODY : after vim opens and prompts you to write your merge message, i get the following error on every keystroke after i enter insert mode: error detected while processing function ultisnips trackchange: file <string> , line 1, in <module> nameerror: name 'ultisnips_manager' is not defined

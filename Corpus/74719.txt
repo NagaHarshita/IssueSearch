@@ -1,0 +1,1 @@
+ URL : "https://github.com/mmogo/mmo/issues/5" TITLE : feature: gui for patcher BODY : the patcher should have a gui; this can either be a canvas like what pixel gives us, or a simpler gui window with text and buttons to explain to the user what's happening while the patcher runs as well as to display any errors the patcher might encounter .

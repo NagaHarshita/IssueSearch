@@ -1,0 +1,1 @@
+ URL : "https://github.com/bjornstar/Tumblr-Savior/issues/51" TITLE : copy blacklist to tumblr BODY : many users have lots of entries on their tumblr savior blacklist. it would be nice if they could easily copy those entries to their tumblr blacklist. it looks like a simple rest api, let's see if we can make it work.

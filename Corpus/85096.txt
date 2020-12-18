@@ -1,0 +1,1 @@
+ URL : "https://github.com/xbmc/Kore/issues/489" TITLE : enhancement: lan autoscan BODY : hello, every time i start my kodi box, its local ip change, and i have to select/configure it manually. it's totally non-intuitive for beginners so it would be nice to do it automatically.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Riptawr/nixos-desktop/issues/10" TITLE : fix python virtualenv BODY : lsb_release is required by pip, leading to failures when using pip install -r requirements.txt in imperative virtualenv

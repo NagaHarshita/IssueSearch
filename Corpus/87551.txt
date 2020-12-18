@@ -1,0 +1,1 @@
+ URL : "https://github.com/awesomeWM/awesome/issues/1893" TITLE : log errors in awful.spawn BODY : i think we should log errors in case awful.spawn fails and returns a string with the error message . this would help when debugging, e.g. when awful.spawn xterm is used in tests, but xterm is not installed.

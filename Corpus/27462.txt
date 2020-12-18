@@ -1,0 +1,6 @@
+ URL : "https://github.com/cmacaulay/folio-share/issues/123" TITLE : debug file download BODY : - adding require zip to the application controller
+- changing line 13 of zip_generator.rb to ::zip::file.open temp_file.path, ::zip::file::create do |zipfile| - this makes it so that:
+-- i can download an image successfully
+-- i can download a nested folder from its show page with it's contents also downloads parent folders
+-- i can download the root folder from the folder show page
+-- i can download the root folder from /home but cannot open the file

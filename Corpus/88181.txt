@@ -1,0 +1,1 @@
+ URL : "https://github.com/computerquest/NEAT/issues/1" TITLE : move mutations to species BODY : leave the bulk of the mutation creation to the species level

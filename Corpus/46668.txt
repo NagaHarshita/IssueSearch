@@ -1,0 +1,1 @@
+ URL : "https://github.com/westes/flex/issues/294" TITLE : mkskel.sh & apple sed BODY : since 3f2b9a4 it only works with gnu sed. on apple sed bsd too? it breaks lines at r , producing invalid c file.

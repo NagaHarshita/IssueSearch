@@ -1,0 +1,1 @@
+ URL : "https://github.com/airbnb/superset/issues/2520" TITLE : explore fix js error BODY : uncaught typeerror: cannot read property 'error' of null ! screenshot 2017-03-29 17 55 42 https://cloud.githubusercontent.com/assets/130878/24482830/01810982-14a9-11e7-80fd-d265412f70c0.png

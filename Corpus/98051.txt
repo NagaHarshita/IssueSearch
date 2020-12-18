@@ -1,0 +1,1 @@
+ URL : "https://github.com/ReactiveX/RxPY/issues/188" TITLE : implement replay operators BODY : it would be swell to implement rxjava's replay operators, which return a connectableobservable and allows more fine-tuned control of caching initialization and disposal. you can also cache x number of items or m milliseconds of items.

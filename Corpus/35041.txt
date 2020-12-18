@@ -1,0 +1,1 @@
+ URL : "https://github.com/cytoscape/cytoscape.js/issues/2019" TITLE : cytoscape v4 changes BODY : brainstorming of improvements that would cause breaking changes for v4 - ele.json returns classes as an array

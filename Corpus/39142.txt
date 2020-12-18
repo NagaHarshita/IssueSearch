@@ -1,0 +1,1 @@
+ URL : "https://github.com/experiencor/basic-yolo-keras/issues/51" TITLE : retraining the model BODY : can i retrain the model by loading my already trained weights? or i should add my new images and train the entire image set again?

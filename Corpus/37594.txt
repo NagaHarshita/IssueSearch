@@ -1,0 +1,1 @@
+ URL : "https://github.com/maratonime/contestwatcher/issues/14" TITLE : migrate to superchat BODY : change id of user when he changes from a chat to a superchat. in the node_telegram_bot_api, there is a 'migrate_to_chat_id' event on the message which is useful for that.

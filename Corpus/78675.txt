@@ -1,0 +1,1 @@
+ URL : "https://github.com/leafo/lapis/issues/537" TITLE : reactive apps with lapis BODY : is it possible to have the views auto-update themselfs from the databse? similar to what meteorjs or emberjs pr reactjs do.. reactive one-page-apps. i'd like to create something similar to a chat.

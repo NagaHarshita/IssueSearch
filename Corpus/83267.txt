@@ -1,0 +1,1 @@
+ URL : "https://github.com/eclipsesource/J2V8/issues/284" TITLE : call a node event in java BODY : hi. how can i call a node.js event from a java code? for example i want to call on event of below node.js from java code : var obj = require 'my-module' , ... myvar.on text , message => { ... }

@@ -1,0 +1,1 @@
+ URL : "https://github.com/kottamam/StJosephChurch/issues/3" TITLE : ie 11 loading issue BODY : site is not loading in ie 11. boot animation will show. but no files will be loaded. we can find error in the _inspect element_ window.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Fourdee/DietPi/issues/1038" TITLE : nzbget not running BODY : moved all userdata to my usb stick then installed nzbget ps -a | grep nzbget shows nothing cannot connect to port 6789 made a config file out of the template but it seems to be not running. in htop i see nothing.

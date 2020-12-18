@@ -1,0 +1,1 @@
+ URL : "https://github.com/underscoreio/essential-scala/issues/37" TITLE : addition to code 6.4.1 BODY : 6.4.1 option, some, and none def readint str: string : option int = if str matches \\d+ some str.toint else none int can be negative. change regex mask to -?\\d+

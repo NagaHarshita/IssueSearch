@@ -1,0 +1,1 @@
+ URL : "https://github.com/TechieQian/HARQ/issues/6" TITLE : creating database layer BODY : creating all sequel models, make sure each model is its own file. combine them into index.js.

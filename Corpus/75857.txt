@@ -1,0 +1,1 @@
+ URL : "https://github.com/trasa/watchmud-client/issues/3" TITLE : implement 'quit' command BODY : does the same thing that /q does.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/shpasser/GaeSupportL5/issues/73" TITLE : call to undefined method BODY : hi, after install i get this error: symfony\component\debug\exception\fatalerrorexception call to undefined method shpasser\gaesupportl5\queue\queueserviceprovider::registerlistencommand

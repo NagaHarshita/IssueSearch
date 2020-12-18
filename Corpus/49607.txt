@@ -1,0 +1,1 @@
+ URL : "https://github.com/inakianduaga/kafka-image-processor/issues/16" TITLE : ui: v1 vs v2 selector BODY : related to 15 we want to introduce a toggle to select the filter to be applied. if it's not enabled, we will has toggle to distinguish between v1 or v2. when v2 is chosen, it will forward the filter type to be used to process the image

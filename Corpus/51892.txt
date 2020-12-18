@@ -1,0 +1,1 @@
+ URL : "https://github.com/ServiceStack/Issues/issues/516" TITLE : bug in execluashaasint BODY : args.length should probably be 0 public long execluashaasint string sha1, params string args { return base.evalshaint sha1, args.length, args.tomultibytearray ; } regards

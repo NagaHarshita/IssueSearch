@@ -1,0 +1,1 @@
+ URL : "https://github.com/RoboJackets/roboracing-software/issues/65" TITLE : high-level route selection BODY : implement a high-level planner which picks which route we will take through the course. should be able to answer questions from the path-planner when multiple paths are detected.

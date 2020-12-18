@@ -1,0 +1,1 @@
+ URL : "https://github.com/Laravel-Backpack/CRUD/issues/614" TITLE : translatable fake fields. BODY : at the moment i dont think there is a way to make a fake field translatable. it is something that is being developed ? the pagemanager is very multilingual unfriendly because of this.

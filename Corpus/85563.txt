@@ -1,0 +1,1 @@
+ URL : "https://github.com/Intel-FFmpeg-Plugin/Intel_FFmpeg_plugins/issues/3" TITLE : ffmpeg decode hevc failed BODY : hi, i get some hevc decode problems： 1， ffmpeg and mss sample decode 10bit hevc failed； 2， i have a 8bit hevc, mss sample decode success, but ffmpeg decode failed; below is the 8bit hevc: http://pan.baidu.com/s/1hsomdu0 url

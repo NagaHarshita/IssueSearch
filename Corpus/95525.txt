@@ -1,0 +1,1 @@
+ URL : "https://github.com/devtools-html/debugger.html/issues/3050" TITLE : debugging chrome is broken BODY : it can find one of the redux middlewares. ! screen shot 2017-05-31 at 3 27 38 pm https://cloud.githubusercontent.com/assets/792924/26636949/0f056cda-4616-11e7-83a6-a844a2502230.png it might be due the redux middleware using es6 export

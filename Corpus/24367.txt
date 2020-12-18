@@ -1,0 +1,1 @@
+ URL : "https://github.com/a-mcf/DnnLab/issues/2" TITLE : split the projects BODY : split this into two projects 1 dsc configurations that install dnn 2 a vagrant configuration that consumes it. the intent of this is to make it easier to use and test the dnn dsc configuration, and to improve flexibility on the vagrant end of things.

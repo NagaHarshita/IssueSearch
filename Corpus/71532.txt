@@ -1,0 +1,1 @@
+ URL : "https://github.com/uilianries/conan-resiprocate/issues/1" TITLE : add optional build flags BODY : --enable-ipv6 --with-ssl --with-geoip --with-tfm --with-repro --with-mysql --with-popt cxxflags= -i pwd /contrib/cajun/include

@@ -1,0 +1,1 @@
+ URL : "https://github.com/briandfoy/rakudo-star-chocolatey/issues/9" TITLE : create a makefile BODY : codify the steps in make and let this be a single command bit of work.

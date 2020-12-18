@@ -1,0 +1,1 @@
+ URL : "https://github.com/DennisSnijder/BunqWeb/issues/8" TITLE : single payment view BODY : context a user should be able to view a payment its details. acceptance criteria should contain the following information: - amount - location info - description - which card it used

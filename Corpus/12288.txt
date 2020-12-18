@@ -1,0 +1,1 @@
+ URL : "https://github.com/tseemann/nullarbor/issues/100" TITLE : not enough cpus? BODY : trying to run nullarbor on a cloud instance with 2vcpus and 8gb of ram, user received the following error message: megahit: num_cpu_threads should be at least 2. make: ck0001/contigs.fa error 2

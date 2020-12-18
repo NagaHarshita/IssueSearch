@@ -1,0 +1,1 @@
+ URL : "https://github.com/yairodriguez/gridmovies/issues/25" TITLE : about page and seo BODY : description create the about page and add seo to website. --- issue checklist - create the jade template. - create the correct sass styles. - add the necessary tests . --- assigness - final assign @yairodriguez

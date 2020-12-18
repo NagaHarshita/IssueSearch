@@ -1,0 +1,1 @@
+ URL : "https://github.com/mhulse/dotfizzles/issues/174" TITLE : git bash aliases BODY : bash alias gs= git status alias ga= git add alias gc= git checkout alias gcb= git checkout -b alias gcm= git checkout master alias c= git commit -m alias push= git push origin alias pull= git pull

@@ -1,0 +1,1 @@
+ URL : "https://github.com/nsarno/knock/issues/197" TITLE : time sensitive token BODY : hey can you tell me the logic to add a expiry period for the tokens, like facebook/google api's have? this would be a good security feature.

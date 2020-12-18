@@ -1,0 +1,1 @@
+ URL : "https://github.com/PHPOffice/PHPExcel/issues/1250" TITLE : read csv file BODY : does this lib can read data from csv file, i've tried and successfully upload the file, but there's a problem when read and convert the data into array. if it possible, how's the code? thanks

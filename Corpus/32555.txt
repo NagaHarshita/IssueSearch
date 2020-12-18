@@ -1,0 +1,1 @@
+ URL : "https://github.com/typelevel/scala/issues/164" TITLE : valueof in scala.js BODY : i'd like to use scala.predef.valueof in scala.js but it is not present on their scala.predef since it follows the lb compiler would it be possible to have another implementation of valueof as a library perhaps? /cc @sjrd

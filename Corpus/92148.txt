@@ -1,0 +1,1 @@
+ URL : "https://github.com/sarcastrophe/MysqlDatabaseVersioner/issues/30" TITLE : version fixture migration BODY : currently needs a new filename as it overrides fixture.sql.

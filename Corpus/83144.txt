@@ -1,0 +1,1 @@
+ URL : "https://github.com/xolox/vim-session/issues/164" TITLE : bug: cmd window stretches BODY : sometimes when i open session my cmd window gets a large height. set cmdheight=1 not working, only closing all horizontal splitted windows except one and res 100 helps, but it's not comfortable

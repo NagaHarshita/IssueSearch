@@ -1,0 +1,1 @@
+ URL : "https://github.com/cortex-lab/alyx/issues/360" TITLE : reports all in one email BODY : if you specify one user, it successfully puts the reports all in one email. but if you leave out the -u flag, to send to everyone, then it does not - instead you get three separate emails.

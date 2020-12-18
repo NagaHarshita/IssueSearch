@@ -1,0 +1,1 @@
+ URL : "https://github.com/erikdmitchell/uci-results/issues/9" TITLE : results cut off at 10 BODY : when running regular cron the results appear to cut off at 10. when done via wp cli it works well. it is possible it's some sort of time out. this may relate to the excessive length of scripts running. however, its separate from the fc logic. therefore it shouldn't be a factor.

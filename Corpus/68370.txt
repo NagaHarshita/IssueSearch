@@ -1,0 +1,1 @@
+ URL : "https://github.com/privacyidea/privacyidea-appliance/issues/30" TITLE : review service restarts BODY : restarting services does not always work, e.g. after restoring a backup or generating a new private key. see 29

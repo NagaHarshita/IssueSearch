@@ -1,0 +1,1 @@
+ URL : "https://github.com/apache/incubator-mxnet/issues/8480" TITLE : cannot recognize intel mpi BODY : the mpi launcher dmlc-core/tracker/dmlc_tracker/mpi.py in dmlc-core can not recognize intel mpi. it reports ''unknown mpi version''

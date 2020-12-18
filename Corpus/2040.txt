@@ -1,0 +1,1 @@
+ URL : "https://github.com/yiisoft/yii2/issues/15374" TITLE : razor in yii BODY : is it possible to add asp.net razor https://docs.microsoft.com/en-us/aspnet/core/mvc/views/razor in yii? specially this constructions @foreach var item in items { <span>@item.prop</span> } @if foo { <text>some text</text> }

@@ -1,0 +1,1 @@
+ URL : "https://github.com/gahansen/Albany/issues/61" TITLE : clean up dashboards BODY : we need to get our dashboards to the all-green point. the public dashboard is here: http://my.cdash.org/index.php?project=albany&date= and today it looks quite green, but i think this is misleading.

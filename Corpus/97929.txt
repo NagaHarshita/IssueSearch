@@ -1,0 +1,1 @@
+ URL : "https://github.com/richorama/nuget-tree/issues/8" TITLE : identify missing packages. BODY : it would be great if this tool could be used to identify missing dependent packages. e.g. if some package is referenced, but not in the packages directory, show it red. otherwise, great tool : !

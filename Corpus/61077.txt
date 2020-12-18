@@ -1,0 +1,1 @@
+ URL : "https://github.com/pbnl/ScoTooBo/issues/64" TITLE : add user default groups BODY : as a user who adds a user, i want to be able to choose if a user has access to the wiki or not. for that i want to be able to check a box. then the user should be in the group wiki and nordlicht.

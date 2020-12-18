@@ -1,0 +1,1 @@
+ URL : "https://github.com/w3c/wai-tutorials/issues/443" TITLE : page regions - more space BODY : medium editors discretion add a bit more space around the code samples in the page regions in html 4 using wai-aria https://w3c.github.io/wai-tutorials/page-structure/regions/ accessupport section. they are a little to tight together and would be easier to read with a bit more space.

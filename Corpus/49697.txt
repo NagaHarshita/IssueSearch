@@ -1,0 +1,1 @@
+ URL : "https://github.com/radare/radare2/issues/6619" TITLE : unrecognized type int BODY : 0x00000000 > td int foo int bar ; 0x00000000 > td int foo int bar ; unrecognized type int 0x00000000 >

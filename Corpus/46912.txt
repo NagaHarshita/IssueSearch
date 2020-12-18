@@ -1,0 +1,1 @@
+ URL : "https://github.com/contactlab/ikonograph/issues/38" TITLE : new 'color' parameter BODY : we need a 'color' parameter. if not specified, the default value must be 'currentcolor'

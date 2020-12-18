@@ -1,0 +1,1 @@
+ URL : "https://github.com/parlance/ctcdecode/issues/38" TITLE : rename to ctcdecode BODY : this library may bindings to other learning systems, so rename to properly reflect that it is, first, a c++ ctc decoding implementation.

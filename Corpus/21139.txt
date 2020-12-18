@@ -1,0 +1,1 @@
+ URL : "https://github.com/tecbot/gorocksdb/issues/94" TITLE : embed build broken BODY : commit 0c8578d6d39ca2b703779607454b1a7cb6614e61 adds an option from rocks 5.4.0, but it looks like the cockroachdb embedded rocks build https://github.com/cockroachdb/c-rocksdb is now deprecated, and hasn't been updated to 5.4

@@ -1,0 +1,1 @@
+ URL : "https://github.com/vovadoma/laravel-to-do/issues/3" TITLE : the user model BODY : - - отдельной миграцией добавить к модели поля: - phone_number - slack_channel - slack_web_hook посмотреть - https://laravel.com/docs/5.5/notifications slack-notifications нужен ли канал и/или хука достаточно

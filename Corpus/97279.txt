@@ -1,0 +1,1 @@
+ URL : "https://github.com/duhow/ProfesorOak/issues/286" TITLE : generador semilla pokémon BODY : pokemon: 1-700 , 12 bits, 1.5 byte 4095 lv 1-40 con steps, x 2 entero + medio bool 1 byte 8 bits . primer bin indica medio. lvl 0 -> 127 + 0.5 iv: atk, def, sta 0 - 15 = 4 bits 12 bits 1.5 byte total: 4 bytes 24 bits .

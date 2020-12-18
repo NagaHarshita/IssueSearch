@@ -1,0 +1,1 @@
+ URL : "https://github.com/dkpro/dkpro-lab/issues/105" TITLE : clean up dependencies BODY : - run dependency:analyze - add exclusions for xml libraries provided by jres: xerces, xalan, xml-apis - add exclusions for commons-logging not commons-logging-api

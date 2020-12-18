@@ -1,0 +1,1 @@
+ URL : "https://github.com/CGastrell/onboarding/issues/12" TITLE : save user data BODY : when ver reporte button is clicked 6 data should be saved to the api data is, as for now, the whole app.state

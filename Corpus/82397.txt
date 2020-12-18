@@ -1,0 +1,1 @@
+ URL : "https://github.com/RxNT/react-jsonschema-form-pagination/issues/20" TITLE : add tab ordering override BODY : current tabs order relies on the tab appearance in uischema, this approach might lead to errors, since fields can appear in different order, based on the browser js engine. we need to have a deterministic way to define order of tabs

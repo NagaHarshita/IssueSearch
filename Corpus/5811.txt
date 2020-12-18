@@ -1,0 +1,1 @@
+ URL : "https://github.com/jeroennijhof/pam_tacplus/issues/89" TITLE : tacc not found BODY : seems that tacc is not compiled. could not found the program after installing pam_tacplus.

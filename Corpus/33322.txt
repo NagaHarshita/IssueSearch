@@ -1,0 +1,1 @@
+ URL : "https://github.com/Quramy/typed-css-modules/issues/43" TITLE : add hover to a class BODY : what is the best way to add .input:hover { -- some css code here --} ? right now i have svolved it with creating an own .inputhover:hover class that i append to my react component trough classnames. just wondering if there is a more elegant way to achieve this. thanks for this!

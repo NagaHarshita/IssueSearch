@@ -1,0 +1,1 @@
+ URL : "https://github.com/DoveDoof/PiE_Serious_Maze/issues/14" TITLE : event: loop over een getal BODY : er moeten dingen gebeuren als je over een getal loopt van vector level::maze naar vector player::collected_numbers

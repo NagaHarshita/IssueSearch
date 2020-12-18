@@ -1,0 +1,1 @@
+ URL : "https://github.com/Pingry-Java/PracticeClassesMatthews/issues/1" TITLE : todouble not working BODY : you need to cast the numerator or denominator, or both to double before dividing. as your code is currently written, it performs an integer division, then casts to double. for for example 7/4 would be divided to 1 first, then cast to 1.0 .

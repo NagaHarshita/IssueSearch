@@ -1,0 +1,1 @@
+ URL : "https://github.com/goodtft/LCD-show/issues/21" TITLE : end kernel panic BODY : i followed the exact instructions on the main page and it crashed my device. i now get: end kernel panic - not syncing: vfs: unable to mount root fs on unknown-block 179,6

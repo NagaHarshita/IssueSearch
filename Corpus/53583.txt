@@ -1,0 +1,1 @@
+ URL : "https://github.com/status-im/status-go/issues/131" TITLE : embed static resources BODY : - nothing fancy, https://github.com/omeid/go-resources is good enough - embed web3.js

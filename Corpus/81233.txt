@@ -1,0 +1,1 @@
+ URL : "https://github.com/markup-app/markup/issues/7" TITLE : weird rendering of \frac BODY : the \frac{}{} latex command appears to be improperly formatted <img width= 634 alt= frac src= https://user-images.githubusercontent.com/8570077/30448426-9b20c978-9943-11e7-9ec0-1a3dd68e39da.png >

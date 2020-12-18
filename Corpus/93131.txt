@@ -1,0 +1,1 @@
+ URL : "https://github.com/CausticLab/rgon-proxy/issues/36" TITLE : add fancy shields.io pills BODY : http://shields.io/ add pills for: - travis - docker-pulls - docker-build - license

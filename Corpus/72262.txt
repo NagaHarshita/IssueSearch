@@ -1,0 +1,1 @@
+ URL : "https://github.com/tezos/tezos/issues/99" TITLE : blocks with 0 operations BODY : i found multiple blocks with no operations. for example, this one: ./alphanet.sh client rpc call /blocks/bmgjfegajdmnxznmpfvefu6vbypmlgx8l7rspphxrf1ux3q9d9u with '{ operations :true}'

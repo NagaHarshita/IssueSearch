@@ -1,0 +1,1 @@
+ URL : "https://github.com/SKA-ScienceDataProcessor/FastImaging/issues/20" TITLE : error when compiling BODY : fastimaging-master/src/stp/imager/imager.h:112:87: error: cannot convert ‘std::complex<double> ’ to ‘double ’ for argument 3’ to ‘void cblas_zdscal blasint, double, double , blasint ’ and other same errors in imager.h

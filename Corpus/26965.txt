@@ -1,0 +1,1 @@
+ URL : "https://github.com/sonata-nfv/son-gkeeper/issues/945" TITLE : check password save BODY : it is not working when put http://sp.int3.sonata-nfv.eu:32001/api/v2/users?username=<username> is used

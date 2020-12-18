@@ -1,0 +1,1 @@
+ URL : "https://github.com/mlp6/ADPL/issues/251" TITLE : gas valve logic BODY : the gas valve relay seems to be running opposite from the standard. and also is unresponsive to raising t3 above the threshold. this is on cal/fatlibmigration .

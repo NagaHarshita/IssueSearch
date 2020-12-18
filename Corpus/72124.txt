@@ -1,0 +1,1 @@
+ URL : "https://github.com/18F/a11y-metrics/issues/17" TITLE : axe collector is fragile BODY : if axe somehow fails on a website, as is the case with the sites we blacklisted, it just crashes the whole process. some fault tolerance would be nice.

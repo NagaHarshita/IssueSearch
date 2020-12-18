@@ -1,0 +1,1 @@
+ URL : "https://github.com/FAC-11/theLibrary/issues/58" TITLE : refactor out dom function BODY : currently the dom function is very large! some of the code can be refactored into separate functions eg setclassattributes, and called inside for ease of reading!

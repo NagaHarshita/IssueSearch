@@ -1,0 +1,1 @@
+ URL : "https://github.com/okonet/react-dropzone/issues/472" TITLE : feature request: disable BODY : it would be grand if there was an option to disable the dropzone entirely, so that it only renders, but has no functionality. that is useful for tasks done in a particular order - to have the dropzone disabled until some configuration steps on the webpage are complete.

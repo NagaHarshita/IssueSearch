@@ -1,0 +1,1 @@
+ URL : "https://github.com/goavki/apertium-apy/issues/73" TITLE : end python 3.2 support? BODY : python 3.2's flake and mypy malfunction. this makes our build process and imports somewhat nasty introduced in https://github.com/goavki/apertium-apy/pull/69 . should we stop supporting py3.2? cc @unhammer

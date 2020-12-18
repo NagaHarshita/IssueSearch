@@ -1,0 +1,1 @@
+ URL : "https://github.com/jahertor/android-social-share/issues/1" TITLE : what is context BODY : my new learn android what is context ? final socialshare socialshare = new socialshare context ; socialshare.setsubject i am a subject ; socialshare.setmessage and i am a really interesting message for share ; error context veriable how to fixed

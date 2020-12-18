@@ -1,0 +1,1 @@
+ URL : "https://github.com/jakeday/linux-surface/issues/6" TITLE : compilation fails : BODY : also i've tried to compile the kernel in fc26 but i get this error make 1 : no rule to make target 'firmware/intel/ipts/ipts_fw_config.bin', needed by '__fw_modbuild'. stop. -- maybe i'm doing somethig wrong because i've never compile kernel before

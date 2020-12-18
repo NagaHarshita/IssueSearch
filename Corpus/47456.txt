@@ -1,0 +1,1 @@
+ URL : "https://github.com/MutonUfoAI/pgina/issues/74" TITLE : pgina to use for 2fa? BODY : hi all, i am looking for a solution to use azure 2fa and need a cp for that. unfortunately pgina is authenticate the use vs domain and therefore not running through radius plugin. is there anyway to configure to use radius plugin first? than authenticate against domain? thx neb

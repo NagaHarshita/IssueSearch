@@ -1,0 +1,1 @@
+ URL : "https://github.com/resamsel/translatr/issues/89" TITLE : admin: merge users BODY : allow admin users to merge other users. select them on the overview page, then merge, then choose target user.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/TwUxTLi51Nus/spark-standalone-docker/issues/1" TITLE : run a jon BODY : how can i run a job? i run your two scripts which are master and worker. then i run following script docker exec -it <masternode container id> bash in the master node, i can not run spark-shell !!

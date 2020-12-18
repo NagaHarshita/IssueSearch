@@ -1,0 +1,1 @@
+ URL : "https://github.com/request/request/issues/2820" TITLE : get the remote address BODY : hello i can get the remote address as follows: const http = require 'http' ; http.get 'https://github.com/request/request', function res { console.log res.socket.remoteaddress } ; and how can i get the remote address with 'request'

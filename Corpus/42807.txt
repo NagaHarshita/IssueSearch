@@ -1,0 +1,1 @@
+ URL : "https://github.com/particl/partgui/issues/517" TITLE : can't find mac client BODY : hi, i can't find the mac build in your release :-s you write particl-1.0.0-mac.zip in the shasum list but don't link the file. am i missing something ?

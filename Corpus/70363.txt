@@ -1,0 +1,1 @@
+ URL : "https://github.com/jumpinjackie/mapguide-react-layout/issues/303" TITLE : version stamping script BODY : when we need to set a new version for release we have to manually edit the new version number in various places and commit these before we can start the release process. we should have a simple version stamping script to automate this.

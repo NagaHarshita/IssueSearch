@@ -1,0 +1,2 @@
+ URL : "https://github.com/hurryfox/taxi-drive-app/issues/28" TITLE : install cassandra on prod BODY : install cassandra on prod, using docker
+add authentication to cassandra db

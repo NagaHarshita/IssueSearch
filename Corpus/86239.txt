@@ -1,0 +1,1 @@
+ URL : "https://github.com/emblica/halti-server/issues/14" TITLE : healthchecks for services BODY : new feature for doing health checks of the containers. optionally could use http, tcp or custom shell-command to check service/container is healthy.

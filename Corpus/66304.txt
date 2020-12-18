@@ -1,0 +1,1 @@
+ URL : "https://github.com/savannahc/ColmarAcademy/issues/3" TITLE : minor error. video size BODY : https://github.com/savannahc/colmaracademy/blob/master/desktop/projects/colmaracademy/index.html l208-l210 the video size should grow with the screen size and be as a big as possible within its block. check width: 100%;

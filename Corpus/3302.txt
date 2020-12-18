@@ -1,0 +1,1 @@
+ URL : "https://github.com/egnyte/ax/issues/2" TITLE : no more panic BODY : currently ax happily panic s whenever something unexpected happens, this should be handled properly with error s instead.

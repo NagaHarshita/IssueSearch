@@ -1,0 +1,1 @@
+ URL : "https://github.com/hypermodules/hyperamp/issues/271" TITLE : odd/even scroller slice BODY : right now the n-th child will switch back and forth depending on if the scroller slices on the list on an even or odd index. fix it

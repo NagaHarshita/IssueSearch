@@ -1,0 +1,1 @@
+ URL : "https://github.com/getsentry/sentry-elixir/issues/165" TITLE : support in-app frames BODY : to distinguish which frames are in the application vs. libraries or elixir core

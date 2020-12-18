@@ -1,0 +1,1 @@
+ URL : "https://github.com/mljs/kmeans/issues/9" TITLE : centroid value is nan BODY : sometimes kmeansresult centroids value is nan for both x,y two-dimensional array and for this centroid error is nan.

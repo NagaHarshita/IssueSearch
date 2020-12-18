@@ -1,0 +1,1 @@
+ URL : "https://github.com/astropy/astropy/issues/6426" TITLE : nddata leak test failure BODY : @mhvk reported a failing test test_leak here https://github.com/astropy/astropy/pull/6176 issuecomment-320479364 . @mhvk do you have a link to the log where it failed? it would be interesting to know what the exception message was.

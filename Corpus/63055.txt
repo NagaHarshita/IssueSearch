@@ -1,0 +1,1 @@
+ URL : "https://github.com/jupyter-widgets/ipywidgets/issues/1672" TITLE : declare more ts typings BODY : the current typescript code has a lot of anys both explicit and implicit . these should be more explicitly typed, at least on the exported functions. a more explicit typing, maybe together with strict null checks might also reveal some bugs.

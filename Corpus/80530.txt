@@ -1,0 +1,1 @@
+ URL : "https://github.com/marist-projects/ssh-honeypot/issues/7" TITLE : ubuntu doesn't echo hpid BODY : even after putting the environment variable in <code>/etc/environment</code>, after reboot, it still doesn't recognize <code>$hpid</code>. it displays in the logs however.

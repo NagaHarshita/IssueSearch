@@ -1,0 +1,1 @@
+ URL : "https://github.com/highsource/vbb-stops/issues/1" TITLE : check out vbb-stations BODY : it might be easier to use vbb-stations to get the list of stops https://github.com/derhuerst/vbb-stations usage . js const stops = object.values require 'vbb-stations/full.json' .reduce stops, station => stops.concat station.stops ,

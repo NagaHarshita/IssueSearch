@@ -1,0 +1,1 @@
+ URL : "https://github.com/matrix-org/go-neb/issues/174" TITLE : add a sed bot for typos BODY : in some of my chats a sed regex for improving typos got established for example s/search/replace/ . there's a github bot https://github.com/marmelab/sedy that does this and i saw such bots already in irc chats. would be really cool and nerdy and useful! to have in matrix too 🤓

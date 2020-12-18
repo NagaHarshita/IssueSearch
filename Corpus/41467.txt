@@ -1,0 +1,9 @@
+ URL : "https://github.com/PennyDreadfulMTG/Penny-Dreadful-Tools/issues/3627" TITLE : 500 error at /report/ BODY : failed to execute insert into card layout values %s with 'normal' because of 1213, 'deadlock found when trying to get lock; try restarting transaction' reported on decksite by logged_out
+--------------------------------------------------------------------------------
+request method: get
+path: /report/?
+cookies: {}
+endpoint: report
+view args: {}
+person: logged_out
+user-agent: mozilla/5.0+ compatible; uptimerobot/2.0; http://www.uptimerobot.com/ referrer: http://pennydreadfulmagic.com/report/

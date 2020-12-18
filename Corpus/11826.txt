@@ -1,0 +1,1 @@
+ URL : "https://github.com/JohnLonginotto/pybam/issues/5" TITLE : letting you know BODY : file pybam.py , line 265 print 'pybam error: odd bzgip block detected! the author of pybam didnt think this would ever happen... please could you let me know?'

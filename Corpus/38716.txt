@@ -1,0 +1,1 @@
+ URL : "https://github.com/eriklindernoren/ML-From-Scratch/issues/2" TITLE : python code standard BODY : it would be nice if project would follow common python coding standards $ pep8 . | wc -l 1080 $ pep257 . 2>&1 | wc -l 264

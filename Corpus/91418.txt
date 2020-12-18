@@ -1,0 +1,1 @@
+ URL : "https://github.com/IcicleNetworks/IcicleBot/issues/10" TITLE : todo alias or replacement BODY : we've noticed that usually people are typing !task or !tasks instead of !todo . it's more comfotable to type it. probably we should look into either replacement of trigger, or implementing alias for command.

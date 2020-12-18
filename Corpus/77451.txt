@@ -1,0 +1,1 @@
+ URL : "https://github.com/CogComp/cogcomp-nlpy/issues/77" TITLE : ner not working properly BODY : 1. soccer - japan get lucky win , china in surprise defeat . 2. china soccer - japan get lucky win , china in surprise defeat . 3. al-ain , united arab emirates 1996-12-06 all three sentences get no named entities. is it because of mentions being in caps? @danyaljj

@@ -1,0 +1,1 @@
+ URL : "https://github.com/YACS-RCOS/yacs/issues/208" TITLE : add c/u operations to api BODY : add edit and create put, post actions to courses, sections, departments, schools resources. batch update methods should also be added - details to come. write api actions should be secured with a token authentication system - details to come.

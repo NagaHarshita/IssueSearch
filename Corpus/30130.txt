@@ -1,0 +1,1 @@
+ URL : "https://github.com/zeromq/netmq/issues/659" TITLE : not suport on linux BODY : environment netmq version: 4.0.0.1 operating system: centos7 .net version: .netcore1.1 expected behaviour exception:opertaion is not suport on linux platform at asyncio.dotnet.nativesocket.iocontrol actual behaviour steps to reproduce the behaviour

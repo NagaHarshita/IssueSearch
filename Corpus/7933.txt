@@ -1,0 +1,1 @@
+ URL : "https://github.com/ActiveAgeingHKR/JavaFXunit/issues/21" TITLE : loading of tabs BODY : tabs are initialized all at once, so any changes of data in some tabs cannot be loaded on another tab.

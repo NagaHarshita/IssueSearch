@@ -1,0 +1,1 @@
+ URL : "https://github.com/lexrus/LTFinderButtons/issues/14" TITLE : 关于 item 2 按钮 BODY : ltfinderbuttons/iterm2finderbutton.app/contents/resources/scripts/main.scpt 应为： var iterm2 = application 'iterm2' 而不是 var iterm2 = application 'iterm'

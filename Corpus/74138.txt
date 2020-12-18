@@ -1,0 +1,1 @@
+ URL : "https://github.com/alchemsynergy/alchem/issues/16" TITLE : drawer button highlights BODY : when a section from side drawer is selected home , dashboard or all features it is highlighted when mouse is entered on the button. but it must stay highlighted when that section is opened and being worked upon.

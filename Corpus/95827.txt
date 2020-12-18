@@ -1,0 +1,1 @@
+ URL : "https://github.com/SpaceTime-IoT/presence-sample/issues/1" TITLE : docker erlang-alpine image BODY : hi, where did you get the ' tsloughter/erlang-alpine:20.0.1' ? i would like to see the dockerfile. i think that i have the same issue as https://github.com/c0b/docker-erlang-otp/issues/57 https://github.com/spacetime-iot/presence-sample/blob/master/dockerfile l1

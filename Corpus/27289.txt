@@ -1,0 +1,1 @@
+ URL : "https://github.com/schell/odin/issues/7" TITLE : create layer widget BODY : a layer widget is a composite of a bunch of other widgets, fenced off by a boundary. it only receives events when the user is interacting with that layer within the boundary.

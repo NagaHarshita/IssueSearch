@@ -1,0 +1,1 @@
+ URL : "https://github.com/Z3Prover/z3/issues/1038" TITLE : wheel builds for osx BODY : i see builds for linux, any idea if osx builds could be offered? travis-ci could be used to make them

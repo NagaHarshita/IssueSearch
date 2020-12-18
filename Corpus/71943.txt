@@ -1,0 +1,1 @@
+ URL : "https://github.com/IQSS/dataverse/issues/3817" TITLE : api: dataverses endpoint BODY : hi, i am trying to this endpoint: post http://$server/api/dataverses/$id?key=$apikey to create a dataverse for a user which is $id, however, it is returning null and the dataverse is not being created.

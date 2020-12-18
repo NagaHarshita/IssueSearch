@@ -1,0 +1,1 @@
+ URL : "https://github.com/dtjohnson/xlsx-populate/issues/84" TITLE : request: print settings BODY : i need set print settings but there are no functions on this api to achieve it. i think that the implementation could be like worksheet.tabcolor function. exceljs https://github.com/guyonroche/exceljs has implemented this by this pr: https://github.com/guyonroche/exceljs/pull/105

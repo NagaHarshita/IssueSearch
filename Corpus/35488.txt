@@ -1,0 +1,1 @@
+ URL : "https://github.com/choria-io/mcollective-choria/issues/186" TITLE : emit graphite events BODY : make a helper around the current webhook task that emits graphite events as a task http://graphite.readthedocs.io/en/latest/events.html

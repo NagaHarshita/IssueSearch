@@ -1,0 +1,1 @@
+ URL : "https://github.com/nwops/puppet-debugger/issues/53" TITLE : list puppet types BODY : i want to see a list of all the puppet types available in the current environment. puppet resource --types augeas computer cron exec file filebucket group host nagios_hostdepend

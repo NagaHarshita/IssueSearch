@@ -1,0 +1,1 @@
+ URL : "https://github.com/nanopool/ewbf-miner/issues/5" TITLE : api data request BODY : thank you for providing an api for your miner! it makes writing tools to support your miner so much easier. there are just a couple more things that i would like to get in the api response, if possible: version of the miner runtime of the miner gpu fan speeds thank you!

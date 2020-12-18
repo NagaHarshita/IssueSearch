@@ -1,0 +1,1 @@
+ URL : "https://github.com/Mailu/Mailu/issues/214" TITLE : weak diffie-hellman issue BODY : it seems mailu suffers from weak diffie-hellman security problem. more info: https://weakdh.org/

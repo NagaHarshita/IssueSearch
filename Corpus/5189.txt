@@ -1,0 +1,1 @@
+ URL : "https://github.com/acdh-oeaw/dig_ed_cat/issues/92" TITLE : map search bug BODY : the search box of the big map view cuts off input suggestions. for example 'e.g. edition hu-' and 'e.g. università-'.

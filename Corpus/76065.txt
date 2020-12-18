@@ -1,0 +1,1 @@
+ URL : "https://github.com/johnbywater/quantdsl/issues/11" TITLE : incomplete test coverage BODY : coverage is good, but lots of little things are missed, largely error conditions that raise exceptions.

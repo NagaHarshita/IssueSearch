@@ -1,0 +1,1 @@
+ URL : "https://github.com/GPflow/GPflow/issues/418" TITLE : install gpflow on heroku BODY : i want to deploy a web application on heroku. i used gpflow for this web application. does anyone know to install gpflow on heroku? thanks!

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Staffbase/plugins-sdk-nodejs/issues/5" TITLE : test sdk with tags BODY : tags support was adde din the latest sso version. it has not yet been tested by integrating it with back-end server.

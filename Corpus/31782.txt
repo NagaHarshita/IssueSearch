@@ -1,0 +1,1 @@
+ URL : "https://github.com/datawire/forge/issues/15" TITLE : support helm charts BODY : forge can output helm charts, and not just the deployment manifests

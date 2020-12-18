@@ -1,0 +1,1 @@
+ URL : "https://github.com/symfony/symfony-demo/issues/622" TITLE : locale in url BODY : hello, is there a way to have in url : ....app_dev.php/pt-br/admin/post/ instead of : app_dev.php/pt_br/admin/post/ there are some recommendations in seo to not use underscore symbol and avoid uppercase thank you,

@@ -1,0 +1,1 @@
+ URL : "https://github.com/whatwg/streams/issues/734" TITLE : stream. writerequest BODY : https://streams.spec.whatwg.org/commit-snapshots/e7bf9293d3e0b26f9221dada3723e31707db8c32 writable-stream-finish-erroring > stream\.\ \ writerequest\ \ should be stream writerequest s .

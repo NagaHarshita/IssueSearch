@@ -1,0 +1,1 @@
+ URL : "https://github.com/ewsterrenburg/python-otrs/issues/35" TITLE : ticket pendingtime state BODY : otrs ticket state as a reminder, how to set the reminder datetime t = ticket state='pending reminder',priority='3 normal', queue='it helpdesk', title=computer + 'add administrator', customeruser=samid,timeunit='10', type='alert',service='alert::administrator'

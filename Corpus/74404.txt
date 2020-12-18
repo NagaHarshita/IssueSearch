@@ -1,0 +1,1 @@
+ URL : "https://github.com/asticode/go-astilectron/issues/67" TITLE : error loading index.html BODY : i get the error not allowed to load local resource when trying to load the index.html . my file structure is resources/app containing my index.html and the static directory. i declare the homepage in my boostrapper with homepage: index.html i'd appreciate any help resolving this.

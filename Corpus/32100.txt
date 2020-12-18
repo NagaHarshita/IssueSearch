@@ -1,0 +1,1 @@
+ URL : "https://github.com/1228337123/tensorflow-seq2seq-chatbot/issues/4" TITLE : training gets stuck BODY : while running execute.py with mode=train, program gets stuck at reading data 18135. anyone encountered the same issue? i have come across this issue on multiple codes of seq2seq models

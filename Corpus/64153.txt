@@ -1,0 +1,1 @@
+ URL : "https://github.com/Gabriel-p/catalog_match/issues/1" TITLE : fix moved matched stars BODY : currently matched stars are moved to the coordinates 0., 0. to avoid being matched again without messing with the indexes. this should be generalized to move stars far away from the field's center.

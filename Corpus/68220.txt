@@ -1,0 +1,1 @@
+ URL : "https://github.com/loot/loot-api/issues/16" TITLE : replace boost.log usage BODY : now that the loot api just logs to a callback set by the client, there's no need for such a heavyweight logging library as boost.log which is probably doing something that causes loot/loot 835 . spdlog https://github.com/gabime/spdlog seems like a popular, lightweight alternative.

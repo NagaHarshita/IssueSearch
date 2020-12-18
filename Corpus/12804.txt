@@ -1,0 +1,1 @@
+ URL : "https://github.com/eqrion/cbindgen/issues/86" TITLE : rustfmt on code? BODY : it would be nice if code would be formatted with rustfmt-nightly https://github.com/rust-lang-nursery/rustfmt as currently it seems to contain custom ascii-art-indentation which somewhat unnecessary raises complexity of contribution process.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/in-toto/in-toto.github.io/issues/3" TITLE : consider using jekyll BODY : as our project website is getting more complex we might want to consider making use of github's static site generator jekyll https://jekyllrb.com/ . this would help us to reduce redundancy in our static html pages and better separate content from layout/style.

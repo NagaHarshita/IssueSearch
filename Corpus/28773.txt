@@ -1,0 +1,1 @@
+ URL : "https://github.com/cucumber/docs.cucumber.io/issues/30" TITLE : html proofer retry? BODY : sometimes the build fails due to randomly failing external links. it would be nice if we could configure html proofer to retry 2-3 times if a check on a particular links fails

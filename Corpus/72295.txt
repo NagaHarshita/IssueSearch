@@ -1,0 +1,1 @@
+ URL : "https://github.com/vmware/harbor/issues/3184" TITLE : bosh release for harbor. BODY : for pks and pcf integration, we'll need a bosh release for harbor: https://bosh.io/docs/release.html 1 investigation 2 ... todo. this will fall out of the scope of pks 1.0.

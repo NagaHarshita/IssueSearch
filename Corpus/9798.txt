@@ -1,0 +1,1 @@
+ URL : "https://github.com/chrissalij/summariser/issues/9" TITLE : add full binding BODY : avoided figuring out how to use guice binding to make local dev faster. currently implemented with a static binding of @implementedby classof _ see https://www.playframework.com/documentation/2.5.x/scaladependencyinjection

@@ -1,0 +1,1 @@
+ URL : "https://github.com/gfx-rs/gfx/issues/1282" TITLE : texture stride support BODY : we need explicit texture stride for texture initialization and updates. cc @zakorgy

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mitodl/micromasters/issues/2350" TITLE : more build workers BODY : the whole team is wasting time waiting for travis when there are lot of jobs in queue. we should look to see if we can pay for more workers.

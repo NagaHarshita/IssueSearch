@@ -1,0 +1,1 @@
+ URL : "https://github.com/ibmdb/node-ibm_db/issues/305" TITLE : syntax error in installer BODY : hi, team installer/driverinstall.js:381 syntax error: you wrote cosole there, which should be console

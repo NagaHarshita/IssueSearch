@@ -1,0 +1,1 @@
+ URL : "https://github.com/digitalroute/terraform-nanny/issues/1" TITLE : use correct exit code BODY : make sure terraform-nanny returns an exit code

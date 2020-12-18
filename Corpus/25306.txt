@@ -1,0 +1,1 @@
+ URL : "https://github.com/parisjs/parisjs-website/issues/131" TITLE : widget next meetup BODY : on the homepage, we should have a widget with information about the next meetup. data should be get from meetup api with at least title, date, where, seat reaming and link to rsvp

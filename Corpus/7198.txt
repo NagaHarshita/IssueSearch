@@ -1,0 +1,1 @@
+ URL : "https://github.com/rogierschouten/async-lock/issues/10" TITLE : empty the queue BODY : hello, first of all, thanks for this module. i was wondering if there is any way to empty the queue of pending locks. at some point, i don't care anymore about what is pending so i would like to cancel everything that is pending in the queue. thanks :

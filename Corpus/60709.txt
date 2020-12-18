@@ -1,0 +1,1 @@
+ URL : "https://github.com/jamesroseman/elo-ranking-app/issues/3" TITLE : add codeclimate support BODY : add support for codeclimate or some other linting tool with pull request webhooks .

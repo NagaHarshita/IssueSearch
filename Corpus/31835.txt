@@ -1,0 +1,1 @@
+ URL : "https://github.com/xfiveco/generator-chisel/issues/251" TITLE : switch to gulp-twig BODY : looks that the original package gulp-twig is actively maintained again so we could switch to it https://github.com/zimmen/gulp-twig/issues/26 issuecomment-328550389

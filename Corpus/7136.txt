@@ -1,0 +1,1 @@
+ URL : "https://github.com/algolia/vue-instantsearch/issues/170" TITLE : doc <ais-input> BODY : can we document <ais-input> in my case i don't want to have the buttons that comes with <ais-search-box> also can we document how to bind to an existing input

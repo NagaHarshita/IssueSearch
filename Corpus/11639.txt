@@ -1,0 +1,1 @@
+ URL : "https://github.com/cafebabel/cafebabel.com/issues/87" TITLE : info-bulle en fr BODY : page : /article/proposal/new/ type : ux contexte : lorsque je valide le formulaire ; quand un champ obligatoire n'est pas rempli alors une info-bulle s'affiche - veuillez compléter ce champ problème : la page est en anglais, et l'info-bulle en français.

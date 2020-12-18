@@ -1,0 +1,1 @@
+ URL : "https://github.com/procore/blueprinter/issues/45" TITLE : lets test optimizer BODY : although optimizer is a private class, we should at least test the public method to be sure that it is working. the reason why we need to test this is because whether optimizer runs correctly or whether it fails to run, it won't fail existing tests.

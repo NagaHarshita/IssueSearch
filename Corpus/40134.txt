@@ -1,0 +1,1 @@
+ URL : "https://github.com/angrykoala/yerbamate/issues/39" TITLE : test tilde expansion BODY : tilde expansion has been implemented in 35 , but for testing it requires mocking a funcion untildify which is not easy to mock with sinon.js so currently this feature hasn't been added to the unit tests

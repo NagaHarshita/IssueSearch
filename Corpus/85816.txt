@@ -1,0 +1,1 @@
+ URL : "https://github.com/bigxixi/Font-Packer/issues/4" TITLE : fonts exported in italics BODY : i am encountering an issue that when i run the tool, all the fonts collected are the italics variant which i am not using in the source file.

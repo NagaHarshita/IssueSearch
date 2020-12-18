@@ -1,0 +1,1 @@
+ URL : "https://github.com/steemit/steem/issues/1763" TITLE : add scrypt to fc BODY : we are going to use the scrypt hash algorithm for pow mining. this needs to be added to fc after fc is vendored in to steem. 1301

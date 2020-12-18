@@ -1,0 +1,1 @@
+ URL : "https://github.com/LeagueVoice/LeagueVoice/issues/2" TITLE : champion gg counters BODY : some weird cases with backend data from champion gg zyra: no values returned annie: return values but formatting may be wrong because zed shows up as counter

@@ -1,0 +1,1 @@
+ URL : "https://github.com/maximebourreau/play-reactjs-es6-seed/issues/5" TITLE : uglyfy&minify for prod BODY : hi, i am trying to get reactjs minified for production. any idea how to make browserifytask dependent on whether stage or dist was executed? i would be also happy with getting the setting from the configuration. not sure if the browserifytask can access that.

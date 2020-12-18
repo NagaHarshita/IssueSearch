@@ -1,0 +1,1 @@
+ URL : "https://github.com/hyperapp/hyperapp/issues/494" TITLE : rewrite in typescript? BODY : it's difficult to keep typings.d.ts up to date. if we rewrite the entire library in typescript it would solve that issue, but beginners may be confused and think that because the project is written in typescript it can't be used with javascript.

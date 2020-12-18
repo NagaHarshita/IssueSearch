@@ -1,0 +1,1 @@
+ URL : "https://github.com/cheungpat/fluentd-es-aws/issues/1" TITLE : http 400 errors BODY : i'm trying to use this with k8s 1.5, and aws es 5.1. i'm getting: error_class= elasticsearch::transport::transport::errors::badrequest error= 400 plugin_id= object:3fa2aa70cbf0 from the logging pods. is this due to version issues?

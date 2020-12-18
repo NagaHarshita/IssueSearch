@@ -1,0 +1,1 @@
+ URL : "https://github.com/wandersonwhcr/zend-romans/issues/13" TITLE : optimize module test BODY : tests into moduletest use the same behavior to analize if the services were configured with correct identifiers and aliases. create a protected method to center the foreach verification inside each test method.

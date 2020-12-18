@@ -1,0 +1,1 @@
+ URL : "https://github.com/SuperNETorg/Agama/issues/119" TITLE : error ps -p BODY : ps -p $ pidof iguana | grep -i iguana exec error: error: command failed: ps -p $ pidof iguana | grep -i iguana pidof iguana expands to nothing, since the name of the app is not iguana, but npm in case of npm start, or agama, when using the installer version of agama

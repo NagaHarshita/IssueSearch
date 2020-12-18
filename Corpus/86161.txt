@@ -1,0 +1,1 @@
+ URL : "https://github.com/marinhoOliv/Gulp-copy/issues/1" TITLE : gulp - object open/closed BODY : adicionar o metódo plumber. stop na task images-optimize gulp.task 'images-optimize', function { return gulp .src images.in .pipe image optionsimage .pipe plumber { handleerror: function error { console.log error ; } } .pipe plumber.stop .pipe gulp.dest images.out ; } ;

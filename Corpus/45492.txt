@@ -1,0 +1,2 @@
+ URL : "https://github.com/cockpit-project/cockpit/issues/6680" TITLE : image refresh for ipa BODY : image creation for ipa in process on verifymachine4.
+log: http://fedorapeople.org/groups/cockpit/logs/refresh-ipa-2017-05-23/

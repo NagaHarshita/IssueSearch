@@ -1,0 +1,1 @@
+ URL : "https://github.com/ayalmit/BluesListApp/issues/6" TITLE : 3 add new buttons BODY : on the right side of the main windows there are 3 buttons: - add new song - add new concert - add new club when the user click on one of them, an empty edit form is open

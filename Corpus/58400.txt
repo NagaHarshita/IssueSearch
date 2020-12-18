@@ -1,0 +1,1 @@
+ URL : "https://github.com/Giveth/giveth-dapp/issues/12" TITLE : show pending donations BODY : when viewing the donations my-donations, a dac/campaign we should show incoming/pending donations. a donation is pending if donation.noteid === 0

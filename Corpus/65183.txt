@@ -1,0 +1,1 @@
+ URL : "https://github.com/tpaviot/pythonocc-core/issues/412" TITLE : import step with colors BODY : hi, i'm trying to test the step file import with colors, but it does not seem to work for me. ! screenshot_2017-04-07_15-45-50 https://cloud.githubusercontent.com/assets/2725009/24802796/81f66efc-1ba9-11e7-8fe4-1fa67447f53f.png i must be doing something wrong. thanks, hinko

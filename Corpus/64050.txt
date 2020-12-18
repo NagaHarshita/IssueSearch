@@ -1,0 +1,1 @@
+ URL : "https://github.com/elastic/beats/issues/3385" TITLE : filebeat 5.1.2 apt repo BODY : due to the release of filebeat 5.1.2 the old release was deleted from the apt repo. this is a problem because chef cookbooks and other scripts include version constraints. please keep the old releases published in order to allow a smooth upgrade.

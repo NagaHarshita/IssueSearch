@@ -1,0 +1,1 @@
+ URL : "https://github.com/roquie/ansible-kontena-agent/issues/8" TITLE : make role idempotence BODY : this code needs to be refactored https://github.com/roquie/ansible-kontena-agent/blob/master/tasks/main.yml l18 i don't khow how install packege w/o interactive mode, somehow different than there is now. p.s. pr are welcome! ;

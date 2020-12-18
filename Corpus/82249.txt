@@ -1,0 +1,1 @@
+ URL : "https://github.com/DenisCarriere/geocoder-geojson/issues/4" TITLE : add osm support nominatim BODY : hi, i would suggest the support of openstreetmap with nominatim geocoder. http://wiki.openstreetmap.org/wiki/nominatim the limits are not so restrictive, it is about 1 request per sec. useful for fallback https://wiki.openstreetmap.org/wiki/nominatim_usage_policy

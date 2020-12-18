@@ -1,0 +1,1 @@
+ URL : "https://github.com/conjure-up/conjure-up/issues/631" TITLE : add support for dreamcloud BODY : tracking bug as this is a work-in-progress. marco's got us working on dreamcloud but we need to work with them on getting the right metadata in their cloud: - https://github.com/dreamhost/dreamcloud-docs/issues/67 - https://asciinema.org/a/7ba3snjdkxybmgisbm8430c34

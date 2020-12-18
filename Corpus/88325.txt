@@ -1,0 +1,1 @@
+ URL : "https://github.com/cloudevelops/stackconf/issues/1" TITLE : need to see puppet errors BODY : when running puppet, only stdout is displayed. need to display also stderr, by opening one more channel to parent.

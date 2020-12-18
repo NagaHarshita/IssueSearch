@@ -1,0 +1,1 @@
+ URL : "https://github.com/mitodl/odl-video-service/issues/16" TITLE : reorganize unit tests BODY : currently all test files are in a separate tests folder, they should be moved and renamed in emulation of micromasters so that for instance under each app folder there is a test_views.py, test_models.py, etc.

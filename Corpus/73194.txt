@@ -1,0 +1,1 @@
+ URL : "https://github.com/georchestra/georchestra/issues/1824" TITLE : console - localize dates BODY : ! capture du 2017-12-01 12-00-38 https://user-images.githubusercontent.com/265319/33479942-48be48fc-d68f-11e7-9716-eea0dddee83b.png expected: french dates when ui is in french

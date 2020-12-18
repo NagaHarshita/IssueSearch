@@ -1,0 +1,1 @@
+ URL : "https://github.com/barrucadu/dejafu/issues/169" TITLE : readmvars are dependent! BODY : whoops! as reads and takes both get turned into synchronisedread , they're not distinguished by dependentactions . need to either add a new constructor to actiontype , or add a flag to synchronisedread indicating whether it is a take or not.

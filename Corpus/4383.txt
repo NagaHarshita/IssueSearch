@@ -1,0 +1,1 @@
+ URL : "https://github.com/sormuras/bach/issues/9" TITLE : chmod u+x .jsh BODY : ...and remove - chmod u+x test.jsh build.jsh demo.jsh from .travis.yml

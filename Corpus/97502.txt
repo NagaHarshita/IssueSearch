@@ -1,0 +1,1 @@
+ URL : "https://github.com/jimjkelly/printen/issues/14" TITLE : handle custom date formats BODY : datetime fields automatically set to date but it is not clear what the date format will be. how about having a setting that allows you to specify your date formats rather than having to override each one?

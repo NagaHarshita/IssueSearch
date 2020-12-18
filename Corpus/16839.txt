@@ -1,0 +1,1 @@
+ URL : "https://github.com/BenPetkovsek/GAMES/issues/22" TITLE : map scrolling bug BODY : while attacking can still move past max/min if moving backwards attack -> move opposite direction -> scroll solution: make map scrolling use dx instead of facingright var

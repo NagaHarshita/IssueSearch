@@ -1,0 +1,1 @@
+ URL : "https://github.com/appirio-tech/arena-web/issues/739" TITLE : offline mode error BODY : when i get disconnected to internet, it regularly pops the message now running in offline mode . but i think it should happen only once. and it should pop up again when the connection is reestablished. i think what is happening is every time it tries to reconnect, it shows the alert.

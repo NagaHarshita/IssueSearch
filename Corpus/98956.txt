@@ -1,0 +1,1 @@
+ URL : "https://github.com/jhu7235/chiMEra/issues/80" TITLE : login catch for oauth user BODY : when a user with an oauth account, signs in through our form. they should be redirected to google sign in or we update their password

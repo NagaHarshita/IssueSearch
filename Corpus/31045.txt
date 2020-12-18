@@ -1,0 +1,1 @@
+ URL : "https://github.com/AllanJeremy/esomo-upgrade/issues/28" TITLE : resource upload bug BODY : when uploading resources, we don't get a message showing whether or not the upload was successful, even though it does actually upload

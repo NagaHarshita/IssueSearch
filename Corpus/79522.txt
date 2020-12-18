@@ -1,0 +1,1 @@
+ URL : "https://github.com/sapiensoup/sapiensoup.com/issues/17" TITLE : simplify author metadata BODY : there is no need for and pages. replace the former with front matter in the latter. doing so will simplify things like the logic necessary to render html titles. see also 14.

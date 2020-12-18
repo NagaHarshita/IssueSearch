@@ -1,0 +1,1 @@
+ URL : "https://github.com/cehfisher/a11y-style-guide/issues/63" TITLE : add more image examples BODY : add more image examples to image component, including images with text, complex images, etc. see https://www.w3.org/wai/tutorials/images/ as reference

@@ -1,0 +1,1 @@
+ URL : "https://github.com/turt2live/matrix-dimension/issues/98" TITLE : review travis ci ux BODY : it is lacking currently, but it works. would be nice to have a rich editor for the variables and a way to set the template before adding the repo

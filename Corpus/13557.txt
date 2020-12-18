@@ -1,0 +1,1 @@
+ URL : "https://github.com/happiness9721/line-bot-sdk-swift/issues/1" TITLE : v2.0.0 todo list BODY : - 補完其他的reply message api - reply video message - reply audio message - reply location message - reply sticker message - reply imagemap message - reply template message - 加入push message的方法 - 完成驗證channel secret的方法

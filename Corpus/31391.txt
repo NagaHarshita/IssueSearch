@@ -1,0 +1,1 @@
+ URL : "https://github.com/lirios/meta-liri/issues/2" TITLE : setup systemd units BODY : - replace systemd-networkd with network-manager

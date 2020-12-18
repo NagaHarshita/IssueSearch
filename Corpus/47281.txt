@@ -1,0 +1,1 @@
+ URL : "https://github.com/rust-lang/cargo/issues/4511" TITLE : optional dev build.rs BODY : build.rs can be used for optional checks such as skeptic https://crates.io/crates/skeptic . in that case it isn't convenient especially for the library to run it each time. so it will be useful to have dev build.rs similar to dev-dependencies .

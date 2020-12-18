@@ -1,0 +1,1 @@
+ URL : "https://github.com/intellij-rust/intellij-rust/issues/1272" TITLE : unresolved types examples BODY : feel free to add isolated code snippets here, where the plugin fails to infer types correctly.

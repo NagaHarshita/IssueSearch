@@ -1,0 +1,1 @@
+ URL : "https://github.com/Studio-42/elFinder/issues/2008" TITLE : option bind doesn't work. BODY : hi there! i tried bind my custom function to upload action, but it doesn't work. i did like this http://stackoverflow.com/questions/26460264/resizing-uploaded-elfinder-images . can some one show me example how should i do that right for use in laravel please.

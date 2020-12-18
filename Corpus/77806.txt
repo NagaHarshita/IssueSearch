@@ -1,0 +1,1 @@
+ URL : "https://github.com/hmrc/self-assessment-api/issues/340" TITLE : obligation grace period? BODY : in the released apis the obligation resource just contains the two dates; start and end. is there no concept of grace period at the moment? or should we communicate a grace period to customers, but allow them a fixed period post end-date to submit their data?

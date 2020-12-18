@@ -1,0 +1,1 @@
+ URL : "https://github.com/alibaba/terraform-alicloud-vpc/issues/6" TITLE : add repo description BODY : can you please add a short repo description so that it can be seen in the icon view of within the terraform registry. once you've add a description, you'll need to create a new version/tag in order for the registry to pull the edited repository information. thanks, chris

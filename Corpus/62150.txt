@@ -1,0 +1,1 @@
+ URL : "https://github.com/pluralsight/design-system/issues/25" TITLE : card: responsive limits BODY : card l - max: 680px - min: 440px card m - max: 440px - min: 240px card s - max: 240px - min: 120px

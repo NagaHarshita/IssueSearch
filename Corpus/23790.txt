@@ -1,0 +1,1 @@
+ URL : "https://github.com/ivanilves/lstags/issues/91" TITLE : remote config file BODY : do we need to support loading config files from remote sources http://user:pass@host.domain.tld/file.yaml gif ! https://media.giphy.com/media/7k3p2z8hh9qoi/giphy.gif

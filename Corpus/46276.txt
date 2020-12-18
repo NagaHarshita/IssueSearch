@@ -1,0 +1,1 @@
+ URL : "https://github.com/kakysha/HonorSpy/issues/10" TITLE : lost the minimap icon BODY : i have missclicked the minimap icon and now its gone. if i try to get it back by: /hs standby i get an error: interface\framexml\chatframe.lue:2170:aceconsole-2.0: aceconsole-2.0: option handler isactive not found. anything to solve that problem. reinstalling does nothing.

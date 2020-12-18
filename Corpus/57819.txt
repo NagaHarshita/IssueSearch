@@ -1,0 +1,1 @@
+ URL : "https://github.com/eclipsesource/jsonforms/issues/693" TITLE : remove linter warnings BODY : remove all linter warnings or, if necessary, come up with good reasons to change the linter config.

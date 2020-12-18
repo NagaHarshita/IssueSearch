@@ -1,0 +1,1 @@
+ URL : "https://github.com/gradle/gradle-script-kotlin/issues/300" TITLE : javaexec task example BODY : are there any examples of creating a task that is of type javaexec so as to run a class just built.

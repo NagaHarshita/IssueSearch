@@ -1,0 +1,1 @@
+ URL : "https://github.com/VoIPGRID/click-to-dial/issues/73" TITLE : add proxy state emitter BODY : this is useful when we decide to switch to components/vdom. it basically is a store object that can be shared across scripts popup, bg, tab, etc.

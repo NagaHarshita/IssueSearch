@@ -1,0 +1,1 @@
+ URL : "https://github.com/bip-team/humoto/issues/19" TITLE : size of gh-pages branch BODY : project web-page branch gh-pages is quite heavy. consequently, cloning and pulling after update of gh-pages takes time and space. we may want to create a separate project for documentation, or find some other workaround.

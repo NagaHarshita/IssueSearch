@@ -1,0 +1,1 @@
+ URL : "https://github.com/carldata/purescript-timeseries/issues/1" TITLE : load data from csv string BODY : use purescript-csv to load csv data from csv. expect at 2 columns: datetime in the first column in utc format value with numbers in the second column

@@ -1,0 +1,1 @@
+ URL : "https://github.com/chrisgramberg678/ml-project/issues/10" TITLE : build issues on ubuntu BODY : 1. have to manually specify where eigen headers are 2. gcc errors with c++11 keywords

@@ -1,0 +1,5 @@
+ URL : "https://github.com/ahmedahamid/temp-after/issues/567" TITLE : wpf mvvm image croper BODY : we are looking for an example of a good way to create an image cropping feature in wpf mvvm. the functionality would be:
+1 select an image
+2 draw a rectangle on the image, keeping an aspect ratio
+3 show the preview cropped version
+4 press a button to save the cropped image. this work item was migrated from codeplex codeplex work item id: '10985' vote count: '1'

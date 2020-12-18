@@ -1,0 +1,1 @@
+ URL : "https://github.com/ciena-frost/ember-frost-date-picker/issues/27" TITLE : stop the bower madness BODY : replace this https://github.com/ciena-frost/ember-frost-date-picker/blob/master/bower.json l10-l11 with ember shims and stop this madness https://github.com/ciena-frost/ember-frost-date-picker/blob/master/addon/components/frost-date-picker.js l14-l17 .

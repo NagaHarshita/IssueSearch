@@ -1,0 +1,1 @@
+ URL : "https://github.com/Azure/MachineLearningSamples-ChurnPrediction/issues/7" TITLE : out of date transforms BODY : the tutorial must have been written on a pre public preview build as the names and capabilities of some of the transforms in data prep are not correct.

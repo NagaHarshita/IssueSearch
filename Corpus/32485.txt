@@ -1,0 +1,1 @@
+ URL : "https://github.com/nicksagona/pop-spider/issues/1" TITLE : user agent not used BODY : in file pop-spider/app/src/model/crawler.php on line 54, change it to: $this->context 'http' =

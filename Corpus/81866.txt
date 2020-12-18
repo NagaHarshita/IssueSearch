@@ -1,0 +1,1 @@
+ URL : "https://github.com/android/platform_frameworks_base/issues/137" TITLE : about android api testing BODY : hi,guys. i have a question there， how to do api testing with android? i tried some api testing tools，such as soapui,postman,etc. but them just couldn't work:

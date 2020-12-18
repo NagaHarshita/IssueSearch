@@ -1,0 +1,1 @@
+ URL : "https://github.com/bendalab/animal_keeping/issues/26" TITLE : changes don't show up BODY : e.g. deleting a person does nothing to the displayed data. i don't want to have to call the refresh method everytime something happens, when that's actually the default. maybe caching was a bad idea?

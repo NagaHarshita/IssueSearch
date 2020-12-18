@@ -1,0 +1,1 @@
+ URL : "https://github.com/jpuri/react-draft-wysiwyg/issues/157" TITLE : add target to links BODY : it would be cool if we could optionally pass a target key to the link entity. for instance: target= _blank on the anchor tag in the link decorator.

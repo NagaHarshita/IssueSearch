@@ -1,0 +1,1 @@
+ URL : "https://github.com/sparkfun/OpenScale/issues/17" TITLE : temp and humidity BODY : your make article mentions the htu21d, but in the schematic here i only see a place to hook up a ds18b20. can you explain?

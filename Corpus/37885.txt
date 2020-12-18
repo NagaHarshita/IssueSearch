@@ -1,0 +1,1 @@
+ URL : "https://github.com/Yoctol/seq2vec/issues/31" TITLE : need new release !!! BODY : - modified readme - since the version on pip is 0.6.0, but the released version is 0.4.0. - new new pip version and new release for fixed keras version.

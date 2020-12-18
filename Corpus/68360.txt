@@ -1,0 +1,1 @@
+ URL : "https://github.com/Pathoschild/FluentHttpClient/issues/36" TITLE : review design decisions BODY : the next version will be 3.0 since we have breaking changes as part of 22 and 31. since we're already incrementing the major version, review the design decisions taken in earlier versions in case there are other breaking changes we should consider.

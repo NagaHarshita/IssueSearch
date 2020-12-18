@@ -1,0 +1,1 @@
+ URL : "https://github.com/dmwm/WMCore/issues/7543" TITLE : fix following unittest BODY : wmcore_t.services_t.logdb_t.logdb_t.logdbtest:test_thread_name changed from error to failure wmcore_t.workqueue_t.workqueue_t.workqueuetest:testprocessingwithpileup changed from error to failure

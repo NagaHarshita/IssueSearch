@@ -1,0 +1,1 @@
+ URL : "https://github.com/chrisamiller/fishplot/issues/3" TITLE : a small typo BODY : fishplot fish,shape= spline ,title.btm= 633734 , vlines=sample.times, vlab=sample.times, cex.title=0.5, bg.type= solid should be fishplot fish,shape= spline ,title.btm= 633734 , vlines=timepoints, vlab=timepoints, cex.title=0.5, bg.type= solid a very nice package

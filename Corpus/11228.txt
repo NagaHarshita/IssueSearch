@@ -1,0 +1,1 @@
+ URL : "https://github.com/openMVG/openMVG/issues/1110" TITLE : focal in kmatrix BODY : in openmvg ,intrinsic parameters -k|–intrinsics kmatrix: “f;0;ppx;0;f;ppy;0;0;1”. you use focalpix f repesent k 0,0 and k 1,1 but i think they aren't equal. fx isn't equal to fy precisely. kmatrix could be fx;0ppx;0;fy;ppy;0;0;1 . how can i change kmatrix?

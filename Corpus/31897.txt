@@ -1,0 +1,1 @@
+ URL : "https://github.com/jferard/py4lo/issues/9" TITLE : target dir creation BODY : python py4lo run crashes if the target directory does not exist. the creation should be automatic when needed.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/SUSE/kiwi/issues/436" TITLE : bump lzma2=dict size BODY : dracut defaults to 1mb, maybe kiwi should bump its default value too? https://github.com/dracutdevs/dracut/blob/295194ee42c2e5b67484010b78908b76113a8291/dracut.sh l816 this would generate a slightly smaller file :

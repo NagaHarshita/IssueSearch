@@ -1,0 +1,1 @@
+ URL : "https://github.com/sics-iot/lwm2m-contiki/issues/14" TITLE : dtls fully standalone BODY : the dtls implementation needs to be fully able to run over a serial link that is without any ip-connectivity - but that might have separate ways of sending over ip-address information local ipv4/6 address, etc .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/circleci/circleci-images/issues/95" TITLE : node 9.0 issue BODY : circleci/ruby:2.4.2-node-browsers seems to have picked up node 9.0. but this new version is not compatible yet for many major projects: https://github.com/sass/node-sass/issues/2129 any way we can either downgrade or specify our own version?

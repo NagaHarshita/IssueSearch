@@ -1,0 +1,1 @@
+ URL : "https://github.com/canjs/can-component/issues/102" TITLE : remove empty docs BODY : these pages shouldn’t be generated: - https://canjs.com/doc/component.html - https://canjs.com/doc/component.prototype.html - https://canjs.com/doc/component.static.html their existence causes them to be in search results.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/unetbootin/unetbootin/issues/148" TITLE : persistence doesn't work BODY : setting persistence for ubuntu should add a menuentry to grub or modify the existing 'try ubuntu without installing' one that has a persistent flag, otherwise persistency will not work. it does not currently work until this is done manually.

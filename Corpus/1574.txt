@@ -1,0 +1,1 @@
+ URL : "https://github.com/jgarzik/cpuminer/issues/81" TITLE : add new pool BODY : prompt a command for python for adding a pool on api. all attempts are unsuccessful {u'status': {u'status': u'e', u'msg': u'missing addpool details', u'code': 52, u'when': 1513160307, u'description': u'cgminer 3.6.6'} , u'id': 1}

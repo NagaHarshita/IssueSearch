@@ -1,0 +1,1 @@
+ URL : "https://github.com/LukeSmithxyz/voidrice/issues/14" TITLE : help transparency BODY : could you please explain to me how did you manage to get transparency on your urxvt windows without using these 2 lines on your config : urxvt transparency: true urxvt shading: 35 thx.

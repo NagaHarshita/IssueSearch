@@ -1,0 +1,1 @@
+ URL : "https://github.com/QuantGen/BGData/issues/47" TITLE : fix signature of rayols BODY : rayols should have a signature that starts with x to not confuse apply etc. i don't think this is causing an issue right now because we are explicitly passing y which takes y out of the rotation, but it may bite back in the future.

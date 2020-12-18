@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/opengcs/issues/146" TITLE : docker doesn't use gid/uid BODY : docker run memcached complains that it cannot run as root user without the -u flag. it looks like the uid + gid aren't being filled in the oci spec.

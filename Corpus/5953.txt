@@ -1,0 +1,1 @@
+ URL : "https://github.com/adafruit/LPD8806/issues/23" TITLE : typo in readme BODY : just a small issue - the readme says: place the lpd8806 library folder your <arduinosketchfolder>/libraries/ folder, i think the word in is missing before your, and also the <arduinosketchfolder> part isn't showing up in the markdown.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/fatiz1997/LiftManager/issues/1" TITLE : code review 1 BODY : 1. variable busyplaces can be greater than variable maxplaces https://github.com/fatiz1997/liftmanager/blob/2f7c6d6f5c062674c85656a51e6fd90e3ff3793d/src/liftapi/lift.java l72

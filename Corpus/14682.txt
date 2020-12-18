@@ -1,0 +1,1 @@
+ URL : "https://github.com/MarkGhabbour/asu_math_lab/issues/12" TITLE : bug in create_mat BODY : a wrong output appeared while testing this input c 1;a;b ; 1 2 a b

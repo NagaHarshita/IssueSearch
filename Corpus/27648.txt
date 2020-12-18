@@ -1,0 +1,1 @@
+ URL : "https://github.com/box/etcdb/issues/23" TITLE : don't include tests BODY : etcd database driver version: 1.2.0 description etcdb installs tests in /usr/lib/python2.7/site-packages/tests which it shouldn't do.

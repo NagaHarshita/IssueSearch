@@ -1,0 +1,1 @@
+ URL : "https://github.com/joseoyoung/DBEx/issues/6" TITLE : update button handling BODY : - layout에 수정 버튼 추가 - 아이돌 그룹명을 실제 저장되어 있는 이름으로 입력한 후 수정할 인원 수를 입력한다. => 수정 버튼을 클릭했을 때 인원수가 변경되게 한다.

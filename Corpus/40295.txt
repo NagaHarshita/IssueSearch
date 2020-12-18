@@ -1,0 +1,1 @@
+ URL : "https://github.com/golang/tour/issues/337" TITLE : tour: missing return BODY : context: https://tour.golang.org/moretypes/18 after run this error appear: tmp/sandbox056513425/main.go:6:1: missing return at end of function if i run it in offline tour that package is not found error appears.

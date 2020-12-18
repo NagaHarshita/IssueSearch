@@ -1,0 +1,1 @@
+ URL : "https://github.com/jhjzzang14/HanjulApp/issues/2" TITLE : jsp 서버 연동 BODY : 상황에 따라 유연하게 대처해야 함 ex key : { key : value } 와 같은 형식을 사용하기 위해서는 @post key jsonobejct jsonobject로 보내면 key 값 안에 ison을 실어서 보낼수 있음

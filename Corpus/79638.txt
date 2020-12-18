@@ -1,0 +1,1 @@
+ URL : "https://github.com/magefree/mage/issues/3137" TITLE : soulstinger dies trigger BODY : soulstinger died and gave a -1/-1 counter to an opponent's creature. soulstinger had no -1/-1 counters on it, but the opponent's creature did, so maybe checking quantity of counters on the wrong creature?

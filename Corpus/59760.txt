@@ -1,0 +1,1 @@
+ URL : "https://github.com/egnha/valaddin/issues/55" TITLE : use eval not eval_bare BODY : in rlang 0.1.2, certain expressions are not correctly evaluated by eval_bare . example: r eval_bare quote invisible 0 > 1 0 this appears to be fixed in the devel version 0.1.2.9000. to avoid dependence on the devel version, use eval instead of eval_bare .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/malucooo/otxserver-global/issues/22" TITLE : depot doesn't save BODY : using a function to send items to the players depot, example: item:moveto player:getdepotchest 1, true if the player doesn't open the depot box, the items disappear when they logout.

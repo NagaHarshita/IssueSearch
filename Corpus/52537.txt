@@ -1,0 +1,1 @@
+ URL : "https://github.com/haakonnessjoen/MAC-Telnet/issues/32" TITLE : compile issue on rhel5 BODY : hi, i'm trying to compile under rhel5, but the automake version is very old 1.9 vs 2.68 . can you help me? thanks.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/NREL/EnergyPlus/issues/6228" TITLE : followup to 6158 BODY : - unify use of condenserinletairtemp between parent and child both use same information - change function call to use int's - revise input field name? to minimum condenser inlet air temperature for compressor operation - others?

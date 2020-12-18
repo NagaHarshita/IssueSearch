@@ -1,0 +1,1 @@
+ URL : "https://github.com/antonpup/Aurora/issues/874" TITLE : fortnite memory leak BODY : i'm on version v0.6.1-dev3 and i've noticed that when im running fornite the app just start eating ram and the icon from the taskbar disappears as well. ! image https://user-images.githubusercontent.com/18433196/32993619-aa928af4-cd28-11e7-83d4-aad1eb0ca211.png

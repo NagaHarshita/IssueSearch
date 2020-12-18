@@ -1,0 +1,1 @@
+ URL : "https://github.com/randomir/envie/issues/2" TITLE : python3 venv support BODY : is it possible to use python3 -m venv approach when creating virtualenv for python3? it is much faster 0.936s vs 2.464s on my system . i see it is at least not straight-forward to implement, but it would be a nice feature.

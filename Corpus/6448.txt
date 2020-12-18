@@ -1,0 +1,1 @@
+ URL : "https://github.com/calmor15014/HA-Component-mythtv-frontend/issues/17" TITLE : add media image BODY : implement media_image_url with image from api call to dvr/getrecordedlist using title from frontend/getstatus see also: https://forum.mythtv.org/viewtopic.php?f=33&t=2128&p=10538 p10538

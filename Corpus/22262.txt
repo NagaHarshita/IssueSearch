@@ -1,0 +1,1 @@
+ URL : "https://github.com/leftstick/splash-screen/issues/2" TITLE : is destory a typo? BODY : in the old version, it's splash.destroy . after upgrade to the latest version on the master tree , all usage become splash.destory . it should be destroy , doesn't it?

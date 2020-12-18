@@ -1,0 +1,1 @@
+ URL : "https://github.com/StanfordBioinformatics/loom/issues/321" TITLE : reduce time to submit run BODY : currently ~9s for hello_world when running locally with cloudsql database.

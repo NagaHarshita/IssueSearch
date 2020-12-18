@@ -1,0 +1,1 @@
+ URL : "https://github.com/the-control-group/voyager/issues/763" TITLE : url for pages infrontend BODY : - laravel version: 5.4 - voyager version: 0.10.13 - php version: - database driver & version: hi i created a page in admin panel. i want to know what the url is. do i have to create controller for this issue or there is a way to show this page in frontend. thank you. :

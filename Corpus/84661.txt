@@ -1,0 +1,1 @@
+ URL : "https://github.com/twbs/bootstrap/issues/22668" TITLE : dialog width - media rule BODY : current css @media min-width: 576px .modal-dialog { max-width: 500px; margin: 30px auto; } dialog's width is too small on bigger screens. i think it should be: @media max-width: 576px .modal-dialog { max-width: 500px; margin: 30px auto; }

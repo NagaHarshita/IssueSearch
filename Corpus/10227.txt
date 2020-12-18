@@ -1,0 +1,1 @@
+ URL : "https://github.com/probot/probot/issues/190" TITLE : broken docs link BODY : reading through: https://probot.github.io/docs/ the link to the robot class is 404'ing, is it meant to be: https://github.com/probot/probot/blob/master/lib/robot.js or is there reference docs somewhere?

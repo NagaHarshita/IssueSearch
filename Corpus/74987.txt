@@ -1,0 +1,1 @@
+ URL : "https://github.com/SimplaElements/simpla-richtext-behavior/issues/28" TITLE : fork this into js module BODY : this shouldn't be a simpla behavior, it's really just a general inline-editing richtext plugin. @bedeoverend thoughts? can live either in simplaio repo or your personal one imo.

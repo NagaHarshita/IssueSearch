@@ -1,0 +1,1 @@
+ URL : "https://github.com/sbtqa/cucumber-runner/issues/6" TITLE : trim error messages BODY : we need to trim factoryruntimeexception out.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/matuskropuch/rappo/issues/4" TITLE : install assets locally BODY : project assets should not be required from a cdn. please install them using npm or yarn. list of assets: - bootstrap.min.css - bootstrap.min.js - jquery-3.1.1.min.js

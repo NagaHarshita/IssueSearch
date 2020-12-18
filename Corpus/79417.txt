@@ -1,0 +1,1 @@
+ URL : "https://github.com/codalab/codalab-competitions/issues/1924" TITLE : setup new staging server BODY : - take down docker-server and the ec2 server. - put up a new server using our azure subscription. - dump https://codalab.lri.fr and move to staging server

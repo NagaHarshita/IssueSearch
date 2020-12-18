@@ -1,0 +1,1 @@
+ URL : "https://github.com/alex18881/JsonL18nResourcesEditor/issues/4" TITLE : improve tab key behavior BODY : when i'm adding a new key at the end of file, it puts empty quotes into i18n files. imagine the scenario: when i've finished writing translation key, and pressing tab key, if the quotes are empty - put the cursor into the quotes. what do you think?

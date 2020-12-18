@@ -1,0 +1,1 @@
+ URL : "https://github.com/reactioncommerce/reaction-cli/issues/24" TITLE : meteor command not found BODY : hey guys while trying to do reaction init i have an error that meteor command has been not found, i know that i can try to install meteor manually, but shouldn't this be somewhere pointed out? or this is not a common issue? macbook pro, latest osx

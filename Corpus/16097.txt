@@ -1,0 +1,1 @@
+ URL : "https://github.com/justb3a/processwire-simplecontactform/issues/9" TITLE : hidden date field BODY : i've just installed this module and rendered it without modifications. i noticed a label for the hidden scf-date field. labels are not allowed to reference hidden fields via for . besides that it doesn't make sense, too. why this dead label and how can i remove it?

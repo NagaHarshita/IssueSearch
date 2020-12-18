@@ -1,0 +1,1 @@
+ URL : "https://github.com/cincheo/jsweet/issues/224" TITLE : support webcomponent ? BODY : the jsweet.dom.element support the web components like custom element, shadow dom ? search the doc, could not find the methods like createdcallback on jsweet.dom.element.

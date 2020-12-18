@@ -1,0 +1,1 @@
+ URL : "https://github.com/platisd/indoor-navigation-system/issues/77" TITLE : low ins-app coverage BODY : description the ins-app is not covered well enough from our tests. definition of done the code coverage is raised to at least 70%. this could require some code refactoring.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/OWASP/owasp-mstg/issues/126" TITLE : 0x4 - typo? 'that' BODY : as i did not really understand the meaning, i did not want to change directly the source, but it seems that there is one useless 'that' statement in which did not go that down that well with saurik. . i guess it should better be which did not go down that well with saurik.

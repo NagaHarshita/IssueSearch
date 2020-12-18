@@ -1,0 +1,1 @@
+ URL : "https://github.com/VladislavChernykh/StarTracking/issues/1" TITLE : commandor status screen BODY : to delevelop a screen with status of 3 officers and 2 sergeants. subtasks: 1 add swipes to control the status; 2 add new units; 3 print the status of exact person to log window.

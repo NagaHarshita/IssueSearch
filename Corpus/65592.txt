@@ -1,0 +1,1 @@
+ URL : "https://github.com/BioPhoton/angular-star-rating/issues/25" TITLE : it doesn't work in ie11 BODY : i think the reason is that the tsconfig has been configured to generate es6 code.

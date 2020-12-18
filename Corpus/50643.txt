@@ -1,0 +1,1 @@
+ URL : "https://github.com/w3c/Micropub/issues/94" TITLE : 5.3.5: broken sentence BODY : > the client looks for a <link rel= micropub > tag in the html head of the url used to authenticate, or sends an http link header with a rel value of micropub. or sends an is out of place here. could be changed to or if the server sends an .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/intellifactory/websharper/issues/651" TITLE : support for use strict BODY : almost conforming already, i see no point in opt-out, js inline parser +js writer already do not allow offending syntax

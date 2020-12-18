@@ -1,0 +1,1 @@
+ URL : "https://github.com/harryttd/online-bling/issues/47" TITLE : add catches to all routes BODY : double check to see if all routes have .catch

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Conrad2134/qunit-coverage/issues/8" TITLE : pass coverage thresholds? BODY : should we allow the user to pass coverage thresholds, where we fail the process if the thresholds aren't met? these can be for function / line / branch coverage. or, should we let the user handle it themselves with the results that get passed back?

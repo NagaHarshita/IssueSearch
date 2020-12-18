@@ -1,0 +1,1 @@
+ URL : "https://github.com/fyhao/electron-wf/issues/105" TITLE : explore parallel workflow BODY : explore parallel workflow such that: - the entry must only single workflow execution context. - in the middle the workflow execution context can branch out into two parallel workflows. - those two parallel workflows can then be merged back into same workflow again.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/UW-Hydro/MetSim/issues/43" TITLE : advanced logging control BODY : the current metsim code base prints to standard out using simple print statements. this doesn't leave the user with any control over how much gets printed. we should use the logging module and allow for users to specify the verbosity in the configuration file.

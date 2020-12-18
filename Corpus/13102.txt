@@ -1,0 +1,1 @@
+ URL : "https://github.com/jeaye/color_coded/issues/151" TITLE : support llvm 4.0 BODY : as mentioned in 149 and 150, the api for the compilation database has changed. so far, we haven't ever juggled multiple llvm versions at once. depending on what llvm 4.0 offers, in terms of features and performance, it may be worth it. for now, i'm leaving this open for reference.

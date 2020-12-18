@@ -1,0 +1,1 @@
+ URL : "https://github.com/interactive-pioneers/iptools-jquery-modal/issues/74" TITLE : $modal null on close BODY : cannot read property 'removeclass' of null $modal is null in hidemodal method. could not find out why.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/starkandwayne/goutils/issues/12" TITLE : add trace level BODY : it's not a standard syslog level, but trace should be higher than debug . trace messages can be dispatched to syslog with a prio of debug.

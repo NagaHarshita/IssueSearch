@@ -1,0 +1,1 @@
+ URL : "https://github.com/zikaa/devMemo/issues/132" TITLE : fix favoritedat issue BODY : description when memo is updated, favoritedat gets buggy and does not get removed even when you unfavorite them. this is because transform is not being reactive

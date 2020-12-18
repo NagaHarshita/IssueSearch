@@ -1,0 +1,1 @@
+ URL : "https://github.com/CS2103JAN2017-F12-B2/main/issues/36" TITLE : fix travis issues BODY : travis are catching a lot of bugs right now - gradle due to manual import of libraries - syntax trailing white spaces

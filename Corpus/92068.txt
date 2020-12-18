@@ -1,0 +1,1 @@
+ URL : "https://github.com/WhisperSystems/Signal-Desktop/issues/1648" TITLE : uses 10% of cpu when idle BODY : x i have searched open and closed issues for duplicates this might be an electron bug, but it is still probably something you should look into.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/FTL13/FTL13/issues/2689" TITLE : mac cannon bug BODY : when i upgraded the mac cannon with a bluespace rped, then i placed an unloaded shell, then close, then open, it throws out the shell and the parts that i used to upgrade it. steps on reproducing bug: 1.upgrade the mac cannon anything higher than t1 parts 2.load empty shell in the cannon 3.open it

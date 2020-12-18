@@ -1,0 +1,1 @@
+ URL : "https://github.com/johnlees/seer/issues/71" TITLE : add maf and af into header BODY : makes plots easier from output, and current header incorrectly has maf when af is displayed.

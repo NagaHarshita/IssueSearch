@@ -1,0 +1,1 @@
+ URL : "https://github.com/euvl/vue-js-modal/issues/5" TITLE : bug of this.$modal.hide BODY : when i use this.$modal.hide , the hidden modal will also show up. i guess the bug lies in the trigger function.

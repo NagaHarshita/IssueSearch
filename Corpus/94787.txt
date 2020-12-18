@@ -1,0 +1,1 @@
+ URL : "https://github.com/minio/mc/issues/2305" TITLE : cleanup of functional test BODY : 1. change the function name fail to show_on_failure 2. add another function called show_on_success to handle certain failure assert scenarios 3. add missing log success message for test_config_host_add and test_config_host_add_error functions.

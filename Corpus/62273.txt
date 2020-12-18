@@ -1,0 +1,1 @@
+ URL : "https://github.com/RNT-Forest/CORE/issues/42" TITLE : check locales on system BODY : http://www.binarytides.com/php-get-list-of-locales-installed-on-system/ achtung das müsste auch noch mit den verfügbaren sprachen abgeglichen werden!

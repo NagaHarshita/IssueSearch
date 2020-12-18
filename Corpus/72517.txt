@@ -1,0 +1,1 @@
+ URL : "https://github.com/sindresorhus/p-any/issues/2" TITLE : call to p-some is broken BODY : due to the changed made a few days ago to p-some, p-any calls p-some with parameter 1 instead of {count:1}

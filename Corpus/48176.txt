@@ -1,0 +1,1 @@
+ URL : "https://github.com/opesci/devito/issues/221" TITLE : rename tensorfunction BODY : the name for this class is not very informative nor intuitive about what the class does. maybe a name like tensorsymbol is better.

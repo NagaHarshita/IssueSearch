@@ -1,0 +1,1 @@
+ URL : "https://github.com/vbraun/ExportSageNB/issues/14" TITLE : attached files data dir BODY : files from data dir attached to sagenb notebooks are not saved. there is a solution in sws2rst, namely for each name there is a directory created with _files suffix and internal links are also updated.

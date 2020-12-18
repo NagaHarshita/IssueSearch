@@ -1,0 +1,2 @@
+ URL : "https://github.com/Euricom/case-mjrcenter-mjr/issues/25" TITLE : payment deployment BODY : - docker image
+- docker deploy to azure

@@ -1,0 +1,1 @@
+ URL : "https://github.com/department-of-veterans-affairs/caseflow/issues/810" TITLE : integration bug with admin BODY : trying to create an end product task manually on admin/establish_claim causes a 500 because the integration code isn't quite correct.

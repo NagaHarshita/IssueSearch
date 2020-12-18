@@ -1,0 +1,1 @@
+ URL : "https://github.com/jwilcurt-salesforce-com/gus-markdown/issues/33" TITLE : bug: product tag missing BODY : > found a bug with it. if you go to work manager and open up the modal you will notice the product tag will be removed from the existing record. this only happens when using this extension. \- nick mcduffie

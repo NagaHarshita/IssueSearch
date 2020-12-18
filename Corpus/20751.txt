@@ -1,0 +1,1 @@
+ URL : "https://github.com/Per-Morten/cellular_automata_fire_simulation/issues/17" TITLE : create sdl wrapper BODY : create function that initializes sdl, in general we don't want to have much overlap with our sdl code and our opencl code, so it would be nice if we in general could wrap up a lot of the functionality with our own abstraction layer.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/gerane/language-todotxt/issues/10" TITLE : archive completed tasks BODY : function to archive completed items in todo.txt to done.txt in same directory, similar to behaviour of todo-txt archive . ideally, it'd have a keystroke associated with it.

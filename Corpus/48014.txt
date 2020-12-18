@@ -1,0 +1,1 @@
+ URL : "https://github.com/darthtoad/Jammming/issues/1" TITLE : redundant .html files BODY : there is no need for files like app.html because app.js already renders the html to the dom

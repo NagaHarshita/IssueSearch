@@ -1,0 +1,1 @@
+ URL : "https://github.com/ga4gh/ga4gh-client/issues/44" TITLE : implement attributes field BODY : implement the new attributes field to go with https://github.com/ga4gh/schemas/pull/700.

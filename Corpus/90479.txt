@@ -1,0 +1,1 @@
+ URL : "https://github.com/humodev/trascendence/issues/5" TITLE : show updated life counter BODY : category - x feature - bug description we need a counter number to show how many life points we are adding or removing from the player. if we are removing life we should see a negative number, otherwise a positive number. priority - x high - medium - low

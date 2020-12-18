@@ -1,0 +1,1 @@
+ URL : "https://github.com/mjacobus/field-service/issues/44" TITLE : fix order of housenumber BODY : it is a string and as such 4 goes after 12. perhaps should add one more column that will be the integer version of it. househnumber_as_int

@@ -1,0 +1,1 @@
+ URL : "https://github.com/sfackler/rust-openssl/issues/630" TITLE : verify x509 signature BODY : as verify.rs in x509 is empty, is there a way to verify the signature of an x509 certificate using sign::verifier?

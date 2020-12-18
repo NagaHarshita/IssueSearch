@@ -1,0 +1,1 @@
+ URL : "https://github.com/devinlukianto/TokoRotiBariton/issues/4" TITLE : menambah keterangan produk BODY : pada halaman our product, jika product diklik maka akan menampilkan detil keterangan dari produk terkait. detil product akan diisi dengan data dummy terlebih dahulu, lalu setelah database selesai, data dummy akan diganti dengan data dari database.

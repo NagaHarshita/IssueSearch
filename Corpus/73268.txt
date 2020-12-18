@@ -1,0 +1,1 @@
+ URL : "https://github.com/PavloMazhuha/HomeWorkGmailXpath/issues/3" TITLE : correct access modifiers BODY : https://github.com/pavlomazhuha/homeworkgmailxpath/blob/58c23d6b93c15f70be5dcce7535d72013740539f/src/test/java/pages/loginpage.java l11 watch for access modifiers private should be used here

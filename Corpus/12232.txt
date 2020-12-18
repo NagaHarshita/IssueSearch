@@ -1,0 +1,1 @@
+ URL : "https://github.com/oculus42/short-uuid/issues/8" TITLE : no ./dist in npm BODY : it doesn't look like ./dist is in the npm build anymore. if i do a fresh npm install short-uuid , its not there.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/frostschutz/MyBB-PluginLibrary/issues/9" TITLE : php 7 compabilty BODY : i get a blank page on php 7 with this error log file: inc/plugins/phptpl.php line no. 92 message preg_replace : the /e modifier is no longer supported, use preg_replace_callback instead

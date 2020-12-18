@@ -1,0 +1,1 @@
+ URL : "https://github.com/lantonov/asmFish/issues/25" TITLE : please review new patch BODY : during the weekend, i applied the latest sf patch simplify tt penalty stat 980 which consisted of only deleting 2 lines searchmacros.asm:1653-54 involving the condition on alpha. bench corresponds 5941174 . @muxel, @tthsqe12, please review if this is correct and sufficient.

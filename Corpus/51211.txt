@@ -1,0 +1,1 @@
+ URL : "https://github.com/dh1tw/remoteAudio/issues/4" TITLE : add timeout for server BODY : currently the server has to started and stopped through the web interface. when a client disconnects, the server continues streaming. a timeout should be added to the server to automatically stop streaming when there is no more client listening to the server.

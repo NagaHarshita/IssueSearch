@@ -1,0 +1,1 @@
+ URL : "https://github.com/piotrulos/MSCModLoader/issues/28" TITLE : add an onsave BODY : would be nice if we could have an onsave that runs before the game saves. i'm having problems with items not saving the correct location using the gamehook many mods use to save custom items, normal items seem to not always save properly. you know what i mean? :d

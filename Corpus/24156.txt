@@ -1,0 +1,1 @@
+ URL : "https://github.com/valomedia/aldo/issues/119" TITLE : set up a prod env. BODY : a production version of the app should exist, that is optimized for performance and does not leak stacktraces to the user.

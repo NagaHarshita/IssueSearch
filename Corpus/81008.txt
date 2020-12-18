@@ -1,0 +1,1 @@
+ URL : "https://github.com/matfish2/vue-formular/issues/17" TITLE : v-date can not disabled? BODY : when i want to add the attribute disabled to a v-date , it can still be a white blank . no matter i set it by html or js ,it might give the user a wrong info . is there a way to change the css ?

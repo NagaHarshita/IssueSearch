@@ -1,0 +1,1 @@
+ URL : "https://github.com/sant0ro/chocolatey/issues/106" TITLE : chocolatey blade variables BODY : change the global variables from array's unto objects. this will simplify the way of interacting with the global variables. also improve the access of the user variable.

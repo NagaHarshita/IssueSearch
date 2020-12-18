@@ -1,0 +1,1 @@
+ URL : "https://github.com/RoboCup-Humanoid-TC/GameController/issues/49" TITLE : pushing used spl code BODY : the physical contact penalty used the code from the spl and therefore had the problem of giving 45 instead of 30 seconds penalty.

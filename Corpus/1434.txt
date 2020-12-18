@@ -1,0 +1,1 @@
+ URL : "https://github.com/JamesP6000/WsprryPi/issues/5" TITLE : vnc vs wspr BODY : hello, since i updated vnc 6.0.2, after wprs transmission, vnc server logs off and is no longer possible to connect remotely, vnc server goes wrong asking an account, but even with that you must restart the raspberry pi 2

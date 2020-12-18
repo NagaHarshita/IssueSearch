@@ -1,0 +1,1 @@
+ URL : "https://github.com/luser/rust-gdb-remote-protocol/issues/24" TITLE : support qxfer packets BODY : i think at least qxfer:exec-file:read is desirable. these packets require advertising the feature to gdb.

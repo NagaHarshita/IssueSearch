@@ -1,0 +1,1 @@
+ URL : "https://github.com/Metatavu/shady-messages/issues/3" TITLE : exit process on disconnect BODY : when connection to ampq server fails, the process should be exited at once

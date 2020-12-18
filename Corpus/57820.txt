@@ -1,0 +1,1 @@
+ URL : "https://github.com/bryanph/Geist/issues/32" TITLE : remove main navigation BODY : instead, replace with a global way to switch between collections and node contexts should be simpler - when coming from collectiondetail, focus the active collection and vice-versa needs an animation - when coming from nodeexplore, just show the collection graph and vice-versa

@@ -1,0 +1,1 @@
+ URL : "https://github.com/rpanah/tlsparser/issues/10" TITLE : fix sni parsing BODY : sni parsing doesn't support list format and won't show name type

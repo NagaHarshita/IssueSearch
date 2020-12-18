@@ -1,0 +1,1 @@
+ URL : "https://github.com/ros-industrial/industrial_ci/issues/162" TITLE : document ci.sh usage BODY : i should've noticed while reviewing 159, but the change there should be documented. i'm willing to, but might not work on it until later this month. so if someone can open a pr that'd be great.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Alexpux/MINGW-packages/issues/2880" TITLE : how to install plplot? BODY : i tried: pacman -ss plplot but i got nothing!

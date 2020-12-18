@@ -1,0 +1,1 @@
+ URL : "https://github.com/FPtje/DarkRP/issues/2704" TITLE : error logs tipjar BODY : lua errors error gamemodes/darkrp/gamemode/modules/tipjar/cl_communication.lua:29: attempt to call method 'donated' a nil value 1. func - gamemodes/darkrp/gamemode/modules/tipjar/cl_communication.lua:29 2. unknown - lua/includes/extensions/net.lua:32 version: github last

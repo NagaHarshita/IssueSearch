@@ -1,0 +1,1 @@
+ URL : "https://github.com/Kiuryy/Bookmark_Sidebar/issues/10" TITLE : mark last used bookmark BODY : highlight the last bookmark which was clicked from the sidebar. highlighting will disappear after hovering, like the highlighting of the search result in the tree list.

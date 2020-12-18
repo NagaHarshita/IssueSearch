@@ -1,0 +1,1 @@
+ URL : "https://github.com/rodrigodpl/GameEngine/issues/3" TITLE : a - writing on json file BODY : if you click an option that creates modifies the config.json file the engine crashes. it also crashes on exit.

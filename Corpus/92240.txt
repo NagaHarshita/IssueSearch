@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/cppwinrt/issues/254" TITLE : warning non-agile factory BODY : i'm getting this warning on all my xaml subclasses. is there something new i need to do? if !factory.template try_as<iagileobject> { winrt_trace warning non-agile factory: %ls , name_v<class> ; return factory; }

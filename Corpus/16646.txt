@@ -1,0 +1,1 @@
+ URL : "https://github.com/kumoregdev/kumoreg/issues/82" TITLE : legal name fields BODY : to attendees, add legal name fields: - first name on id - last name on id not printed on badges, only stored in system. but must be searchable display as columns on attendee search page must be imported with prereg importer.

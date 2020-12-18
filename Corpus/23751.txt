@@ -1,0 +1,1 @@
+ URL : "https://github.com/mikeshultz/ansible-geth/issues/1" TITLE : refactor into role BODY : would probably be best to refactor this entire thing into a role. would be easier for users to monkeypatch and define vars that affect the deploy.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/CoherentRamanNIST/CRIkit2/issues/37" TITLE : reduce model memory usage BODY : creating the model clearly doubles or triples the necessary memory needed. lots of copies going on.

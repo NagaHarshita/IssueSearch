@@ -1,0 +1,1 @@
+ URL : "https://github.com/Creeperface01/Nukkit/issues/53" TITLE : xuid is null BODY : the methode p.getloginchaindata .getxuid return null

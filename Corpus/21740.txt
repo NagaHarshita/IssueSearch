@@ -1,0 +1,1 @@
+ URL : "https://github.com/ChadGoymer/githapi/issues/2" TITLE : git data functions BODY : implement functions to wrap the git data api https://developer.github.com/v3/git/ - gh_blob - gh_commit - gh_reference - gh_references - gh_tags - gh_tag - gh_tree - gh_tree

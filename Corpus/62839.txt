@@ -1,0 +1,1 @@
+ URL : "https://github.com/CedricF67/Simple-PHP-Blog/issues/23" TITLE : create post update page BODY : create the post update page, including content and using a template. this page will allow the visitor to edit a post based on it's id.

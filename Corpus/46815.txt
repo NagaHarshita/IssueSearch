@@ -1,0 +1,1 @@
+ URL : "https://github.com/puppetlabs/puppetlabs-aws/issues/481" TITLE : multiple aws profiles BODY : i have multiple accounts to use with aws and with the aws cli i can use a profile to call a certain config from the aws config and credential files. i do not see a way to do that with the puppet apply|resource|etc command. it would be great if this feature could be added.

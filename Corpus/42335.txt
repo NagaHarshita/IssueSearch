@@ -1,0 +1,1 @@
+ URL : "https://github.com/VatsalJagani/Battleship-Game/issues/6" TITLE : attacks and responses BODY : handling attacks and responses from server. 1. player sends attack position to the server. 2. server determines hit or miss. 3. server sends the response to both the players. 4. player's gui will be changed accordingly.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/tmikeschu/air_bnb_clone/issues/6" TITLE : create room model BODY : validates belongs_to :host user attributes: description

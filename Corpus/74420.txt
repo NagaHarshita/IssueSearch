@@ -1,0 +1,1 @@
+ URL : "https://github.com/aksonov/react-native-xmpp/issues/52" TITLE : error on react-native 44 BODY : it seem react-native-xmpp dosnt wrok on react-native 44 , i already used in react-native 40 it worked fine , but now i upgraded my react-native

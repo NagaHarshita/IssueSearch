@@ -1,0 +1,1 @@
+ URL : "https://github.com/daniv/selenium-boot/issues/20" TITLE : logback system default BODY : currently thge default log , is logging to a rollingappenderfile

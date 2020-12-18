@@ -1,0 +1,1 @@
+ URL : "https://github.com/osism/ansible-monitoring/issues/1" TITLE : add ceph dashboards BODY : the existing ceph dashboards for digitalocean/ceph_exporter should be used as a base.

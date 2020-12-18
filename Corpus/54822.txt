@@ -1,0 +1,1 @@
+ URL : "https://github.com/channelcat/sanic/issues/1070" TITLE : how to enforce tlsv1.2 BODY : when starting a sanic server with ssl, is there a way to enforce a specific version? specifically, tls v1.2?

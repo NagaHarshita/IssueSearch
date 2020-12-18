@@ -1,0 +1,1 @@
+ URL : "https://github.com/itsalexyue/iot-inspector/issues/1" TITLE : sample unencrypted http BODY : if a tcp stream contains unencrypted traffic, it would be nice if the tcp logger took samples of the plaintext.

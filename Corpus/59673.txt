@@ -1,0 +1,1 @@
+ URL : "https://github.com/adventistchurch/alps-wordpress/issues/127" TITLE : updates to the cdn url BODY : we need to switch out the cdn url from cdn.adventist.io to cdn.adventist.org . both will continue to work, but we want to ensure that all future development will be done in the most up-to-date way.

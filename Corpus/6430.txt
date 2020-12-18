@@ -1,0 +1,1 @@
+ URL : "https://github.com/geometalab/Vector-Tiles-Reader-QGIS-Plugin/issues/30" TITLE : add layer gone? BODY : i feel rather stupid, but i've just upgraded to 0.6.1, and i now don't know how to use the plugin. the only option in plugins > vector tiles reader is about . how do i import a vt mbtiles file?

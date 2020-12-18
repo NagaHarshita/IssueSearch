@@ -1,0 +1,1 @@
+ URL : "https://github.com/mumuki/mumuki-bibliotheca/issues/51" TITLE : server side login BODY : login should occur server-side: 1. when user goes to the home page, if there is no cookie present, it should redirect to server login 2. after login, serve should redirect to original referrer

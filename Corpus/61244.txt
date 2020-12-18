@@ -1,0 +1,1 @@
+ URL : "https://github.com/scalacenter/scastie/issues/235" TITLE : allow trying out macros BODY : macros have to be compiled in separate unit from where they are used perhaps if we can split the paste into two sbt projects this might allow tinkering with macros

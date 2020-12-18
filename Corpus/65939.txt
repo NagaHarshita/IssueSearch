@@ -1,0 +1,2 @@
+ URL : "https://github.com/NaturalHistoryMuseum/scratchpads2/issues/913" TITLE : locations have no title BODY : - original id: 1014 - added by irina brake on thu may 03 2012 14:23:10 gmt+0100 bst - scratchpads url: http://diptera.myspecies.info/ description:
+there is no title field for locations. i can save a location by just adding a point to the map. this shouldn't be allowed because i will have no way to link to this location via the specimen node. i can actually save a location without even adding a point to the map. there is no required field.

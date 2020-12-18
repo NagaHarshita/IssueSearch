@@ -1,0 +1,1 @@
+ URL : "https://github.com/d180cf/tsumego.js/issues/23" TITLE : switch to es6 modules BODY : this can be useful with async imports.

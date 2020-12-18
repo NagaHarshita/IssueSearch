@@ -1,0 +1,1 @@
+ URL : "https://github.com/fabienvauchelles/scrapoxy/issues/39" TITLE : set user agent BODY : set user agent at instance creation, not at started status. in fact, instances are always created / deleted. never start/stop

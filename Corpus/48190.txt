@@ -1,0 +1,1 @@
+ URL : "https://github.com/jim-moody/tic-tac-toe/issues/15" TITLE : reorganize scss files BODY : currently there is css in auth that has nothing to do with auth, there is also css in the typography that has nothing to do with typography. would be nice if the colors in the colors file had comments describing what the color was, or had more explicit names.

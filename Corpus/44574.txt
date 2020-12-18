@@ -1,0 +1,1 @@
+ URL : "https://github.com/sky-uk/toolkit/issues/178" TITLE : feature gradient text BODY : moved from https://github.com/sky-uk/toolkit-ui/issues/215 to ease with toolkit 2.0 monorepo tracking --- context more designs are cropping up with gradient-filled text could we provide mixins/components to support this?

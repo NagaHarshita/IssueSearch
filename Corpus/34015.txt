@@ -1,0 +1,1 @@
+ URL : "https://github.com/SlidyBat/Timer/issues/5" TITLE : bonus start zone bug BODY : when pressing bonus bind, sm_b, from inside main start zone, your timer will count up on main timer, until you leave bonus start zone. at that point it becomes bonus timer.

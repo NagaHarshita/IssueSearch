@@ -1,0 +1,1 @@
+ URL : "https://github.com/Candihub/pixel/issues/10" TITLE : add front-end stack BODY : purpose we need to setup a front-end stack to ease app styling and rich ui development. proposal set up a base node8/yarn environment use sass with the foundation framework use webpack to built assets

@@ -1,0 +1,1 @@
+ URL : "https://github.com/stuvusIT/postgresql/issues/20" TITLE : path to initdb BODY : please add initdb to the path on ubuntu systems otherwise you pin the version by passing initdb in

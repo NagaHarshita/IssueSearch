@@ -1,0 +1,1 @@
+ URL : "https://github.com/vaadin/vaadin-input/issues/22" TITLE : infinite loop in firefox BODY : script if working for 20 seconds and then unresponsive script alert is shown in firefox/linux: ! recorded https://cloud.githubusercontent.com/assets/6059356/23123599/b58aa74e-f771-11e6-81ed-5c4dcdd0aa90.gif

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Nuand/bladeRF/issues/500" TITLE : airprobe and yatebts BODY : hello, in the wiki, i see that airprobe is not mentioned. is it not required ? i also see that yatebts is not mentioned. when using yatebts, do we still use the same gnu radio sniffing capabilities with wireshark or do we use yatebts sniffing capabilities ? thanks a lot, ranchu

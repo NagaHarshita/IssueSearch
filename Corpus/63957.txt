@@ -1,0 +1,1 @@
+ URL : "https://github.com/h0tk3y/better-parse/issues/5" TITLE : feature bind combinator BODY : is there a reason there's no bindcombinator ? i tried to add one but parser.remainder is internal. also, is there a reason parser.remainder is internal? i'd prefer the ability to add combinators

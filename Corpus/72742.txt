@@ -1,0 +1,1 @@
+ URL : "https://github.com/finiteautomata/tp2-prochabla/issues/3" TITLE : caso feliz de estoy bien BODY : caso de uso: 1. usuario pide a chatbot que le pregunte si está bien en x tiempo 2. chatbot le dice que le va a consultar en x tiempo 3. en x tiempo, chatbot le pregunta la clave a usuario 4. usuario contesta la clave 5. chatbot le informa que está todo en orden

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jsk-ros-pkg/jsk_robot/issues/837" TITLE : cannot ping pr1040 BODY : cannot connect to red pr2. ping pr1040 returns from pc.jsk.imi.i.u-tokyo.ac.jp 133.11.216.118 icmp_seq=1 destination host unreachable

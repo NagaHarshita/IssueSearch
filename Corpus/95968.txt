@@ -1,0 +1,1 @@
+ URL : "https://github.com/timgrossmann/InstaPy/issues/558" TITLE : don't work with virtualenv BODY : run _pip install ._ in virtualenv. after deactivate, activate actions there is no _instapy_ module.

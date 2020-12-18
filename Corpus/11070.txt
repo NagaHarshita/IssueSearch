@@ -1,0 +1,1 @@
+ URL : "https://github.com/AuburnSounds/dplug/issues/147" TITLE : faster mutex osx BODY : _pthread_mutex_policy_firstfit should be faster in some cases by abandoning fairness

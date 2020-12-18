@@ -1,0 +1,1 @@
+ URL : "https://github.com/geektrust/go-mqmail/issues/1" TITLE : send emails as batch BODY : in case of email providers like gmail, it is not possible to send more than 14 emails a second. need a facility to batch the sending of emails

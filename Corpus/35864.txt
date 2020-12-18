@@ -1,0 +1,1 @@
+ URL : "https://github.com/docksal/docksal/issues/301" TITLE : fin diagnose command BODY : add fin diagnose command to help detect most common issues, like insufficient disk space or memory.

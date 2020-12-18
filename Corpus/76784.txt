@@ -1,0 +1,1 @@
+ URL : "https://github.com/jni/skan/issues/38" TITLE : make combined excel file BODY : it will help for provenance tracking to save outputs to an excel file with multiple sheets: - image level statistics - branch level statistics - configuration parameters

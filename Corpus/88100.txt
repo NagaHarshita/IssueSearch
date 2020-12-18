@@ -1,0 +1,1 @@
+ URL : "https://github.com/objectcomputing/OpenDDS/issues/451" TITLE : modeling sdk no .mwc file BODY : hey guys, am i doing something wrong or does the opendds modeling sdk codegen function not generate a .mwc file which is needed for building with mwc? thanks.

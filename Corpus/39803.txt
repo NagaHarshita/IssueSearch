@@ -1,0 +1,1 @@
+ URL : "https://github.com/nusmodifications/nusmods-api/issues/20" TITLE : strip &nbsp; in text BODY : e.g. http://api.nusmods.com/2016-2017/modules/en2202.json you'll see weektext : everyâ week , due to a &nbsp in the html page https://myaces.nus.edu.sg/cors/jsp/report/moduledetailedinfo.jsp?acad_y=2016/2017&sem_c=2&mod_c=en2202

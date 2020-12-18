@@ -1,0 +1,1 @@
+ URL : "https://github.com/jekyll/jekyll-import/issues/295" TITLE : issue with tumblr export BODY : i see this extract_json': undefined method +' for nil:nilclass nomethoderror any ideas?

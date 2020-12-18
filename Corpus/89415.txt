@@ -1,0 +1,1 @@
+ URL : "https://github.com/ember-redux/ember-redux-shim/issues/6" TITLE : publish messages to slack BODY : update https://github.com/ember-redux/ember-redux-shim/blob/master/.travis.yml l72 so messages show up in e-redux channel on ember slack community.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/xpressengine/xpressengine/issues/556" TITLE : laravel 5.5 적용 BODY : laravel 5.5 lts 기반으로 xe core 가 동작될 수 있도록 수정합니다.

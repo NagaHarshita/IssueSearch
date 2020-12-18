@@ -1,0 +1,1 @@
+ URL : "https://github.com/openfarmcc/OpenFarm/issues/932" TITLE : make spread clearer BODY : right now it is not clear that spread is a diameter. can we update the crop edit and crop show pages to indicated that spread is a diameter? i'm thinking we just update the spread string to read as spread diameter

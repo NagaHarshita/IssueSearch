@@ -1,0 +1,1 @@
+ URL : "https://github.com/Phynix/uniphy/issues/26" TITLE : setup release process BODY : this can be used as an overview for the release process. - api docs - running examples - changelog - deployment pip, conda? - release pipeline

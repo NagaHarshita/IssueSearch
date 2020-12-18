@@ -1,0 +1,1 @@
+ URL : "https://github.com/tarrnobi/jslacker/issues/1" TITLE : build csv to json parser BODY : for complex comparisons to work, design / implement a method to read in data from csv files stored as part of the project and then convert them to json.

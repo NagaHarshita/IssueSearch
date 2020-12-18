@@ -1,0 +1,1 @@
+ URL : "https://github.com/zdevito/ATen/issues/33" TITLE : scalars behave weirdly BODY : this always prints out an integer: auto x = at::cpu at::kfloat .rand {500} ; std::cout << x.sum .to<float> << ' '; this doesn't compile: std::cout << 100.0f x.sum << ' '; i can add to this issue if i find any more

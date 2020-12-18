@@ -1,0 +1,1 @@
+ URL : "https://github.com/RedHatInsights/insights-client/issues/43" TITLE : implement acls properly BODY : need to check that acls are working as expected when client rpm is installed _imported from trello_

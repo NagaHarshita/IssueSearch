@@ -1,0 +1,1 @@
+ URL : "https://github.com/hyperapp/hyperapp/issues/145" TITLE : optimize hyperapp h calls BODY : hi, friend. it is possible to create a plugin in babel to optimize the call of h . example. js // h function invocation h 'div' ; //optimized { tag: tag, data: data || {}, children: children }

@@ -1,0 +1,1 @@
+ URL : "https://github.com/abegong/great_expectations/issues/52" TITLE : cla / travisci BODY : these are more admin than code changes, but i'm putting them here so they don't get forgotten. migrate repo add cla hook up travis

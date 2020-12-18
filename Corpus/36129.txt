@@ -1,0 +1,1 @@
+ URL : "https://github.com/ccxt-dev/ccxt/issues/405" TITLE : gdax returns strings BODY : need to cast string to float to make math operations work precision = { - 'amount': -math.log10 amountlimits 'min' , - 'price': -math.log10 pricelimits 'min' , + 'amount': -math.log10 float amountlimits 'min' , + 'price': -math.log10 float pricelimits 'min' , }

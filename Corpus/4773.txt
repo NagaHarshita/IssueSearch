@@ -1,0 +1,1 @@
+ URL : "https://github.com/ZeroK-RTS/Zero-K/issues/2427" TITLE : game start lag BODY : the game lags/freezes for a few seconds as all the new resources are loaded. these resources as things such as the command spawn ceg, commander model and the commander selection/confirmation sound. we should preload these things.

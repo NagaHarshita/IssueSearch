@@ -1,0 +1,1 @@
+ URL : "https://github.com/kubernetes/kops/issues/1865" TITLE : map docker 1.12.6 BODY : let's define the package mappings for docker 1.12.6 - or figure out if we can avoid having to map them. it looks like 1.12.6 is going to be validated: https://github.com/kubernetes/kubernetes/issues/40061

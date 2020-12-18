@@ -1,0 +1,1 @@
+ URL : "https://github.com/d4t4x/data-selfie/issues/5" TITLE : d3 package is missing. BODY : > error in ./js/views/me.js module not found: error: cannot resolve module 'd3' in $home/source/data-selfie/src/js/views @ ./js/views/me.js 10:9-22

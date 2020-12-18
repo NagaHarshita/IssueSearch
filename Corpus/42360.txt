@@ -1,0 +1,1 @@
+ URL : "https://github.com/mattbourke/proof-of-lunch/issues/2" TITLE : auto update blockhash BODY : the blockhash is loaded only when the proof of lunch component is first ready. add some code that will constantly check for the latest bitcoin hash and update the code, perhaps also alert the user that the hash has updated.

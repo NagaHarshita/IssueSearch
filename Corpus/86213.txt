@@ -1,0 +1,1 @@
+ URL : "https://github.com/winder/Universal-G-Code-Sender/issues/775" TITLE : hard alarm blocks ugs jog BODY : every time there is a alarm hiting end stops, you reset arduino and jog buttons become grey cant acess jog unless you close ugs platform and open again, its very annoying

@@ -1,0 +1,1 @@
+ URL : "https://github.com/novastone-media/MQTT-Client-Framework/issues/405" TITLE : push notification using BODY : internally this library is using push notification to reconnect after app killed... how to reconnect mqtt client after app killed? is their any way to stay connected with web-socket?

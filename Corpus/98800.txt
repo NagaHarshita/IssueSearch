@@ -1,0 +1,1 @@
+ URL : "https://github.com/inferal/yura_pogorelov/issues/19" TITLE : lesson 19 classwork task 3 BODY : для передачи чисел в качестве свойств компонента лучше использовать одинарные скобки <component num1={10} num2={12} />

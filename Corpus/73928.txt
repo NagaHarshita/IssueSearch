@@ -1,0 +1,1 @@
+ URL : "https://github.com/numerai/contract/issues/13" TITLE : disbursement on schedule BODY : peter suggests instead of resetting the disbursement every week, be able to mint the amount that should be available by the second. currently, missing a mint in a given week prevents us from being able to get back on schedule with total supply.

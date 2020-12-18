@@ -1,0 +1,1 @@
+ URL : "https://github.com/RocketChat/Rocket.Chat/issues/5421" TITLE : saml merge accounts BODY : your rocket.chat version: develop if you've already created an account manually, and then hook up saml. when you try to login it'll reject and say the username is already taken. we need to add the option to merge the accounts.

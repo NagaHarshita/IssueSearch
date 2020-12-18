@@ -1,0 +1,1 @@
+ URL : "https://github.com/nebula-orchestrator/nebula-python-sdk/issues/4" TITLE : auto push to pypi BODY : there should be a full ci\cd travisci based most likely that autopushes the sdk to the pypi whenever an update is made to the repo.

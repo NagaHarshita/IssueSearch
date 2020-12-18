@@ -1,0 +1,1 @@
+ URL : "https://github.com/partials-dev/tour-planner/issues/4" TITLE : implement multiple stops BODY : allow the user to enter multiple tour dates. exhaustively search all the permutations of those tour dates to find the optimal order, then show that to the user.

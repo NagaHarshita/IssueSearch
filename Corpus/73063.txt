@@ -1,0 +1,1 @@
+ URL : "https://github.com/bmeg/protograph/issues/4" TITLE : command line description BODY : program should have a -h or --help option to explain command line parameters.

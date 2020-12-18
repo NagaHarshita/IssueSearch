@@ -1,0 +1,1 @@
+ URL : "https://github.com/markfisher/sk8s/issues/6" TITLE : add trigger resource BODY : a trigger instance would emit messages to a topic could be scheduled, subscribed to k8s events, etc this should be a user extension point, but we could provide some implementations also

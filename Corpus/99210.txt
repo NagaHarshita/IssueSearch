@@ -1,0 +1,1 @@
+ URL : "https://github.com/valor-software/ng2-file-upload/issues/738" TITLE : max file size by mime type BODY : would we be able to use max file size with a key value pair list. so that each mime type can have its own max file size? eg. var maxfilesizes= { 'image/png': 2048, 'image/jpeg': 1024 };

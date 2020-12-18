@@ -1,0 +1,1 @@
+ URL : "https://github.com/HelmutLeitner/SemanticCompoundQueries/issues/1" TITLE : does not work with ajax BODY : since maps got the possibility to do ajax requests see here https://github.com/semanticmediawiki/semanticmaps/pull/52 , the semanticcompoundqueries need to be enhanced to work with ajax too.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/kedoska/engine-roulette/issues/6" TITLE : implement number to tag BODY : engine should be able to tag a specific number. given a number it should return the maximum number of labels for that value.

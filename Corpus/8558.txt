@@ -1,0 +1,1 @@
+ URL : "https://github.com/ArchiveLabs/dweb_gateway/issues/21" TITLE : pinning on ipfs BODY : the content on ipfs doesnt appear to be pinned ... restarted the server and old material missing i tried switching v0/add for v0/pin/add but it gave an error {'code': 0, 'message': invalid 'ipfs ref' path } email sent to kyle but not sure he is available.

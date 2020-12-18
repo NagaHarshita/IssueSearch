@@ -1,0 +1,1 @@
+ URL : "https://github.com/dotphiles/dotvim/issues/14" TITLE : base16-default isn't found BODY : in colors.vim https://github.com/dotphiles/dotvim/blob/master/plugin/settings/colors.vim are defined a base16 colorscheme. but that scheme isn't delivered per default. what can i do?

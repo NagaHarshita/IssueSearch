@@ -1,0 +1,1 @@
+ URL : "https://github.com/SundeepK/CompactCalendarView/issues/218" TITLE : swipe issue in viewpager BODY : i wish that viewpager + fragments is swipe. however, with this scheduler in fragment i can not swipe viewpager. how do i do swipe?

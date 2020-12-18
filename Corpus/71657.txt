@@ -1,0 +1,1 @@
+ URL : "https://github.com/CharlesJeremy/Schedulr/issues/15" TITLE : add support for sections BODY : - when user adds a class on the calendar page, if there are sections associated with the class, have a box pop up where the user can select the corresponding section -add both the lecture and the section to the calendar as events

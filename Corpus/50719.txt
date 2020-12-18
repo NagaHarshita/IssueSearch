@@ -1,0 +1,1 @@
+ URL : "https://github.com/PierreBougon/ExistenZIA/issues/1" TITLE : abstract module naming BODY : module: - il faudrait rename ahttpmodule en abasicmodule ou asimplemodule, dans le sens ou un module ne fait pas forcément du http snake

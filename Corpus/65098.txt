@@ -1,0 +1,1 @@
+ URL : "https://github.com/cocoaheadsru/server/issues/15" TITLE : implement event methods BODY : /event/before/:timestamp - events before given time /event/after/:timestamp - events after given time /event/:id - specific event /event/:id/speech - list of speeches for specific event

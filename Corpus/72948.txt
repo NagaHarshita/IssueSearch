@@ -1,0 +1,1 @@
+ URL : "https://github.com/redbluegames/unity-bulk-rename/issues/87" TITLE : clean up objectstorename BODY : this should probably be a container class with an api. it would clean up sorting rules a bit, as the container would automatically sort each addition according to its rules.

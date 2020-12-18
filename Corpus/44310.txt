@@ -1,0 +1,1 @@
+ URL : "https://github.com/stolksdorf/naturalcrit/issues/48" TITLE : error saving a brew : BODY : error: request has been terminated possible causes: the network is offline, origin is not allowed by access-control-allow-origin, the page is being unloaded, etc.

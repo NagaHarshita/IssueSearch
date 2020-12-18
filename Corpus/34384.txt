@@ -1,0 +1,1 @@
+ URL : "https://github.com/akgulebubekir/Xamarin.Forms.DataGrid/issues/35" TITLE : catching sort errors BODY : how to handle sorting errors? for example a datagridcolumn with a stacklayout which contains date and time picker.

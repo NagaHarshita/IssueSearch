@@ -1,0 +1,1 @@
+ URL : "https://github.com/Spoupovitch/CashReg/issues/10" TITLE : format printreceipt method BODY : explore options for formatting receipt output similar to real receipt. left justify name of item, right justify quantity.

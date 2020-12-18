@@ -1,0 +1,1 @@
+ URL : "https://github.com/cristijora/vue-tabs/issues/11" TITLE : private path in dist file BODY : in dist/vue-tabs.js there is one line with private path: i.options.__file= c:\\work\\github\\vue-tabs\\src\\components\\tabcontent.vue i think it's confusing when you install npm package in different path and than you get vue message with such path.

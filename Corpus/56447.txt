@@ -1,0 +1,1 @@
+ URL : "https://github.com/vn09/rental-helper/issues/20" TITLE : need to refactor tests BODY : as we follow test driven development, some initialised test won't work with the newest code. so, we need to refactor all the test to pass the code.

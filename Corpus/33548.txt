@@ -1,0 +1,1 @@
+ URL : "https://github.com/resamsel/translatr/issues/79" TITLE : add tags to messages BODY : messages should be made taggable to allow grouping them. for example, when a review is needed, a tag review should be added. prepared tags: - wip - reviewed todos - add tag to message - show messages by tag

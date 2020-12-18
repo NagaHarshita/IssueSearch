@@ -1,0 +1,1 @@
+ URL : "https://github.com/zserge/slide/issues/1" TITLE : add images support BODY : implement @image.jpg 0x0+100+100 kind of a syntax for images. this requires implementing a new token type, modifying the parser and the renderer and page implementations. to support remote images like mobile version does it requires to add some http client dependency like libcurl.

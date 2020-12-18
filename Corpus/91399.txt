@@ -1,0 +1,1 @@
+ URL : "https://github.com/hydroshare/hydroshare-jupyterhub/issues/104" TITLE : timeseries notebook fails BODY : it looks like the timeseries utilities need to be updated for the latest version of odm2tools.

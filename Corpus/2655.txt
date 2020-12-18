@@ -1,0 +1,1 @@
+ URL : "https://github.com/UWSEDS-aut17/uwseds-group-nw-climate-crew/issues/11" TITLE : clean up repo BODY : - delete redundant/outdated files - reorganize model directory, move data files to data , etc. consult ori/jen first so we don't break any code - also update any dependent file links mapping, data processing, etc.

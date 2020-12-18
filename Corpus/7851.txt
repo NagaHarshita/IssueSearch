@@ -1,0 +1,1 @@
+ URL : "https://github.com/parallels-cookbooks/confluence/issues/144" TITLE : just a question BODY : is ownership not important on the install_path directories and files? i see they are mostly root:root except a select few modified in the configuration.rb.

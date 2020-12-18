@@ -1,0 +1,1 @@
+ URL : "https://github.com/andrewjstone/amy/issues/24" TITLE : channelerror type private BODY : the type amy::channel::channelerror is unexposed by the crate, making it difficult to properly handle errors created by the channel types.

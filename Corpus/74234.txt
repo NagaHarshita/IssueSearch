@@ -1,0 +1,1 @@
+ URL : "https://github.com/voytekresearch/fooof/issues/58" TITLE : elegant fail if scipy<19 BODY : if scipy version isn't 19+ fooof fails in... non-obvious... ways. just spent 10 minutes troubleshooting before i had an ooooh wait moment.

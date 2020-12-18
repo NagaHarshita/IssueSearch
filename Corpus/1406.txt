@@ -1,0 +1,1 @@
+ URL : "https://github.com/jupyterlab/jupyterlab/issues/3479" TITLE : typo in faq BODY : there is a typo in how stable is jupyterlab? https://github.com/jupyterlab/jupyterlab/blob/master/packages/faq-extension/faq.md how-stable-is-jupyterlab section of faq. > developer apis that are approaching stability but stil undergoing significant changes.

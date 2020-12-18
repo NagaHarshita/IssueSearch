@@ -1,0 +1,1 @@
+ URL : "https://github.com/grittygrease/tls-exported-authenticator/issues/17" TITLE : context may not be unique BODY : clarify the language about when it should be unique, and what advantage that brings.

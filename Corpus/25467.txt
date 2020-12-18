@@ -1,0 +1,1 @@
+ URL : "https://github.com/piqueserver/piqueserver/issues/100" TITLE : /deaf does not work BODY : deaf is supposed to stop relaying chat messages from other users, but this seems to have been broken in pyspades at some point.

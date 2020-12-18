@@ -1,0 +1,1 @@
+ URL : "https://github.com/NixOS/nixpkgs/issues/23744" TITLE : two monitors with a BODY : issue description steps to reproduce technical details system: nixos: nixos-version , ubuntu/fedora: lsb_release -a , ... nix version: run nix-env --version nixpkgs version: run nix-instantiate --eval '<nixpkgs>' -a lib.nixpkgsversion

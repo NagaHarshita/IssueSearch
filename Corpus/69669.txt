@@ -1,0 +1,1 @@
+ URL : "https://github.com/chrisboulton/collectd-python-mysql/issues/24" TITLE : too long variable value BODY : trying to gather more galera metrics and have a problem with wsrep_provider_options. the value gets truncated at 997 probably 1000 characters. the reason to look at wsrep_provider_options is to get the configured gcache.size.

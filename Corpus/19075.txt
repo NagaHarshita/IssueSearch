@@ -1,0 +1,1 @@
+ URL : "https://github.com/thaapasa/calculators/issues/2" TITLE : wider rgb sliders BODY : rgb sliders are currently 140px wide. this causes quantization of values to steps of 2-3. sliders could be made to at least 256px wide so that a precise rgb value could be entered by dragging the sliders.

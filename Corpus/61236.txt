@@ -1,0 +1,1 @@
+ URL : "https://github.com/CWorm/zspussfoot/issues/19" TITLE : allow phasing on slopes BODY : you can't phase if you're stuck between a turret and anything else. a turret is essentially a slope, causing :isonground not to return true.

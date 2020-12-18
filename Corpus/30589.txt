@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozman/dxfgrabber/issues/1" TITLE : problem with import BODY : i had to make a few changes. - tags.py : from io import stringio => from stringio import stringio - __init__.py : import io => import _io as io now it works. sorry but i don't have error messages from previous version... cheers

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Zenika/zenika-formation-framework/issues/188" TITLE : tests end 2 end BODY : faudrait des test e2e sur les slides, histoire d'être certain que les pdfs se génère bien et que reveal comporte l'ensemble du contenu des markdown. pourra être bien pratique pour vérifier que chrome headless marche aussi bien que phamtom :

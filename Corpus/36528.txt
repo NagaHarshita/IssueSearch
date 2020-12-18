@@ -1,0 +1,1 @@
+ URL : "https://github.com/libp2p/go-libp2p/issues/198" TITLE : how to install deps? BODY : i'm trying to run ./examples/http-proxy, but it seems like gx-go hasn't rewrote the package paths. i have run in the go-libp2p folder: make deps make gx-go rewrite yet all imports are still of the form gx/impfs/hash/package_name

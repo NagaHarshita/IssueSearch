@@ -1,0 +1,1 @@
+ URL : "https://github.com/sagivba/MachineLearningUtils/issues/14" TITLE : add to modelutis BODY : from sklearn.metrics import classification_report from sklearn.metrics import accuracy_score

@@ -1,0 +1,1 @@
+ URL : "https://github.com/leoj3n/donejs-plugin-codemirror/issues/3" TITLE : utilize javascript hint BODY : http://codemirror.net/doc/manual.html addon_javascript-hint perhaps we could create a hint plugin for codemirror that utilizes the bit-docs @tags ?

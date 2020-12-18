@@ -1,0 +1,1 @@
+ URL : "https://github.com/webdriverio/webdriverio/issues/2349" TITLE : can i use the post method? BODY : the url method default is get , can i use post to send some data to my application?

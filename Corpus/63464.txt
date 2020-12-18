@@ -1,0 +1,1 @@
+ URL : "https://github.com/IIC2233/Syllabus/issues/527" TITLE : duda mouse sobre qlabel BODY : ¿como puedo saber cuando el mouse está sobre un qlabel? estoy usando un mousemoveevent y obteniendo para obtener las coordenadas del mouse, pero cuando paso por sobre el qlabel no las retorna.

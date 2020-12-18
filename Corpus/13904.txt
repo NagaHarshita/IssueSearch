@@ -1,0 +1,1 @@
+ URL : "https://github.com/Monster52/angular_blocjams/issues/6" TITLE : 6 create services BODY : don't want the controllers getting bloated. create services to keep them slim.

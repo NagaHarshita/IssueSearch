@@ -1,0 +1,1 @@
+ URL : "https://github.com/elyctech/websy/issues/4" TITLE : add request logging BODY : log requests with relevant information, including time stamp, request uri, and response status code and message.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/108adams/smogbozowa/issues/1" TITLE : private api key exposed BODY : in the smog component https://github.com/108adams/smogbozowa/blob/master/src/app/smog/smog.component.ts l38 there's a line with your private api key exposed to the public :- 👍

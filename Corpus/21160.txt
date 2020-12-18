@@ -1,0 +1,1 @@
+ URL : "https://github.com/a66as/StateBasedTestCaseGeneration/issues/1" TITLE : empty test methods BODY : while generating test cases for all transition coverage, the tool generates some extra empty test methods.

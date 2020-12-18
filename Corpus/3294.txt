@@ -1,0 +1,1 @@
+ URL : "https://github.com/halfo/lambda-mod-zsh-theme/issues/17" TITLE : no git plugin BODY : hi! i use this theme on my desktop and laptop, but the git plugin does not appear on my desktop. it works on my laptop. if i use another theme like powerlevel9k, then i have a working git plugin on the command line. does anybody know why this happen? regards, jonas

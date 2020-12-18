@@ -1,0 +1,1 @@
+ URL : "https://github.com/JihongJu/keras-fcn/issues/28" TITLE : a simple implementation BODY : hi, i am new at these topics. i just run the train.py and reached %76 accuracy. i guess the network predicts everything as person, i don't know why. could anybody look at this? fcn_vgg16.txt https://github.com/jihongju/keras-fcn/files/1463908/fcn_vgg16.txt

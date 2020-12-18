@@ -1,0 +1,1 @@
+ URL : "https://github.com/rjh622/datavis-airpollution/issues/10" TITLE : paging / limit on json BODY : limit max rows of the json by 1500 or 2000. 2 months of hourly data is within 1488 rows, 5 years is ~1826 days. so i think we wont ever need higher resolution than 2000 rows, or maybe not even 1500. if we do then it's probably a sign of server-side calculation needed.

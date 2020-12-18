@@ -1,0 +1,1 @@
+ URL : "https://github.com/arnesson/cordova-plugin-firebase/issues/279" TITLE : this repo isn't tagged. BODY : this repo has no tags. $ git tag -l | wc -l 0 this makes it difficult to identify what is in each released version. as of this writing 0.1.20 is the latest release, but there's no clear reference to what that is.

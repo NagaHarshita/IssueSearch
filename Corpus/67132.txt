@@ -1,0 +1,2 @@
+ URL : "https://github.com/devtools-html/debugger.html/issues/2902" TITLE : outlineview style panel BODY : we'd like to style the panel so that it is clear that the user is looking at an outline view. this involves two things: 1. adding an outline label in the header
+2. switching the footer toggle button to tabs

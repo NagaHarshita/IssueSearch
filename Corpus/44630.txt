@@ -1,0 +1,1 @@
+ URL : "https://github.com/desktop/desktop/issues/2183" TITLE : filter/search changes BODY : it would be great if there was a way to live filter the changes file list on path. something like having a filter textbox at just below the x changed files that would live-filter the file list using literal text or regular expression searching the entire file path.

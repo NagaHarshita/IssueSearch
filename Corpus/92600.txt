@@ -1,0 +1,1 @@
+ URL : "https://github.com/zyfworks/steam-key/issues/2" TITLE : 请求提高 次数上限 BODY : 服务器: https://cn1.stkey.win/ 描述: 发现激活超过10个key会显示 次数上限 然后激活失败. 图1 实际上我的账户并没有 ratelimited. 我用小号测试, 激活了11个key, 其中有一个重复的, 最后激活失败的第11个key 第二次激活也成功了. 图2 所以, 能否看一下是什么造成了次数限制, 并且提高一下呢? 截图: 1. http://imgur.com/a/44rho 2. http://imgur.com/a/6kzjl

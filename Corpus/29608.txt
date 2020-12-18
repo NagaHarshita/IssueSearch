@@ -1,0 +1,1 @@
+ URL : "https://github.com/8573/irc-bot.rs/issues/4" TITLE : maybe use app_dirs? BODY : maybe use the app_dirs crate, which was once twir crate of the week.

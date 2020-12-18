@@ -1,0 +1,1 @@
+ URL : "https://github.com/Crazyht/ngx-tree-select/issues/68" TITLE : support for angular 5 BODY : i think you can update @angular/core : >=4.0.0 <5.0.0 || >=4.0.0-beta <5.0.0 , @angular/forms : >=4.0.0 <5.0.0 || >=4.0.0-beta <5.0.0 to include angular5. do you need to update something in your code to work with angular 5? it really prevents updating angular to 5.0

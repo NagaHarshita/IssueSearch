@@ -1,0 +1,1 @@
+ URL : "https://github.com/calebkw/slmc/issues/4" TITLE : create unit testing script BODY : tests for: - extracting image file inputs - script for writing classification file - script for submitting api request - mogodb schema class

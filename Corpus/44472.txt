@@ -1,0 +1,1 @@
+ URL : "https://github.com/francium/microURL/issues/7" TITLE : expired link handling BODY : currently the database cleaner is scheduled to run every x minutes, but link expiration time is per second. implement a expired link check when retrieving links so that such links are marked as expired and either deleted on the spot or not returned.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/MFlisar/EverywhereLauncher/issues/70" TITLE : icon from gallery bug BODY : icons from gallery only work once and then only as long as they are cached => because the uri is not persistant; icons need to be copied into internal folder + deleted if not used anymore

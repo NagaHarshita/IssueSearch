@@ -1,0 +1,1 @@
+ URL : "https://github.com/SPlanzer/nzgoal_audit_script/issues/4" TITLE : layer vs table identifiers BODY : can you double check that layer and table identifiers are unique? like can you have ../table/1234 and ../layer/1234? and will that cause a problem with your python script?

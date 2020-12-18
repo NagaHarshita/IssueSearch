@@ -1,0 +1,1 @@
+ URL : "https://github.com/jonathanslenders/ptpython/issues/188" TITLE : change mapping of fn keys BODY : this is a feature request. currently menu is mapped to <kbd>f2</kbd>, and history is mapped to <kbd>f3</kbd>. i wish to change the mapping in config.py file, for example to <kbd>f7</kbd> and <kbd>f8</kbd> respectively.

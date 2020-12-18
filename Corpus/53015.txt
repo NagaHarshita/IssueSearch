@@ -1,0 +1,1 @@
+ URL : "https://github.com/TheoryInPractice/CONCUSS/issues/19" TITLE : d-1 and 1 weight edges BODY : recent proofs indicate that when adding the dth dtfa, we can only consider transitive and fraternal pairs whose weights are d-1 and 1 rather than any pair that sums to d. we should double check that this maintains the correctness of the coloring and, if so, implement this change

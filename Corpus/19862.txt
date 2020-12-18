@@ -1,0 +1,1 @@
+ URL : "https://github.com/polyverse/binary-entropy-visualizer/issues/6" TITLE : analyze core dumps BODY : analyzing core dumps completes this tool and allows us to analyse runtime entropy - tools that protect/defend binaries at either load time, or even in-proc, can be studied by visualizing core dumps of running processes.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ankeetmaini/react-infinite-scroll-component/issues/28" TITLE : scroll doesn't work fine BODY : hi i used your component and when i scroll down it worked fine once but at the second time i should scroll up and down to perform loading data and it doesn't work if i just scroll down

@@ -1,0 +1,1 @@
+ URL : "https://github.com/roblanf/SRHtests/issues/1" TITLE : iqtree fails on fong BODY : solution: re-run the fong dataset through the script, using the -safe option added to the tree comparison part of run_iqtree.sh

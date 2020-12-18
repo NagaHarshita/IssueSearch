@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpenNeuroOrg/openneuro/issues/254" TITLE : add limited safari support BODY : looks like a decent number of the client side errors we are seeing are from safari users. safari does not support all of the apis required for the upload feature but it should be easy to fix crashes for safari users so that they can at least browse the entire site.

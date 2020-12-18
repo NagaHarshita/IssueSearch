@@ -1,0 +1,1 @@
+ URL : "https://github.com/openstack-packages/rdopkg/issues/96" TITLE : handle v style git tags BODY : nfs-ganesha uses tags of the form vx.y.z capital v instead of lower-case v . rdopkg should detect this tag style and use it when generating the patch series.

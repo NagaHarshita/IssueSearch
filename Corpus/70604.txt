@@ -1,0 +1,1 @@
+ URL : "https://github.com/thielj/MetroFramework/issues/91" TITLE : winform maximized issue BODY : my system connected in 17 monitor. i selected the extended screen option. if i maximize the metro form, in my form some of the controls are hiding. metro form taking the width as total of both screen. please help me to fix this

@@ -1,0 +1,1 @@
+ URL : "https://github.com/prometheus/prometheus/issues/3501" TITLE : rule http api BODY : it seems like there is no rule http api,i have to add rules throw rule files? is there any other ways to register rules like reading from db or api?.it will be very awesome if we can add rules from api.

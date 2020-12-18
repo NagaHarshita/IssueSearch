@@ -1,0 +1,1 @@
+ URL : "https://github.com/naver/egjs-movablecoord/issues/8" TITLE : refactor plugin structure BODY : description movablecoord supports pointer, mouse, touch using hammer.js i proposes the structure supported a number of types we add some types like orientationchange, keyboard, wheel,...etc.

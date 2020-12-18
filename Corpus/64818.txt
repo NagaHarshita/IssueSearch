@@ -1,0 +1,1 @@
+ URL : "https://github.com/leehomyc/High-Res-Neural-Inpainting/issues/10" TITLE : how to create mask.png? BODY : hi, how can i change the mask location used in blend,lua? ex: i want to make the square mask to mask the top left of the image instead of the center? can u help

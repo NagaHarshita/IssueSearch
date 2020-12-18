@@ -1,0 +1,1 @@
+ URL : "https://github.com/AssociazionePrometeo/gianomanager/issues/50" TITLE : inactive user can login BODY : user with no verified email and activation can bypass the checks and login when requesting a password reset. register → ask password reset → create new password → magically logged in!

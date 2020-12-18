@@ -1,0 +1,1 @@
+ URL : "https://github.com/joelgombin/banR/issues/14" TITLE : sf objects? BODY : in addition to the coordinates, should we send back an sf object? i.e. a tibble with a geometry column?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/w3c/webrtc-pc/issues/1162" TITLE : type of maxframerate BODY : in media capture, mediatrackcapabilities.framerate is defined as double. however, the typoe of rtcrtpencodingparameters.maxframerate is defined as unsigned long. shouldn't this be double?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/goavki/phenny/issues/287" TITLE : unified message breaking BODY : the more module implements a clean message breaking function https://github.com/goavki/phenny/blob/master/modules/more.py l10 . meanwhile other modules implement their own breaking or sometimes truncating 286 . unifying this logic would also resolve 213.

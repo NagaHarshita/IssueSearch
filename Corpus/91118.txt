@@ -1,0 +1,1 @@
+ URL : "https://github.com/simplabs/ember-simple-auth/issues/1313" TITLE : switch to greenkeeper 2.0 BODY : i feel i'm drowning in greenkeeper notifications - to a point where i simply ignore them. as using greenkeeper doesn't make sense if we ignore the messages we should switch to 2.0 which should presumable create fewer issues and prs.

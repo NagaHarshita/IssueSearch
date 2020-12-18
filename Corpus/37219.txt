@@ -1,0 +1,1 @@
+ URL : "https://github.com/ExpeditionRPG/expedition-app/issues/253" TITLE : lighthouse use https BODY : also redirect http traffic to https should be straightforward w/ s3 free place to get ssl certs: https://letsencrypt.org/

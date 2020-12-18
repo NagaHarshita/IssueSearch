@@ -1,0 +1,1 @@
+ URL : "https://github.com/SamyaDaleh/CL-Toolbox/issues/34" TITLE : add cyk for c2f BODY : it should be a simple extention of cyk for cnf. maybe just convert a grammar to c2f in this stage if general cyk parsing is not available yet.

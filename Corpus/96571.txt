@@ -1,0 +1,1 @@
+ URL : "https://github.com/clappr/clappr/issues/1512" TITLE : extract hls.js from clappr BODY : hey, i was wondering if it will be somehow possible to extract hls.js from clappr so that we can use a different version of hls.js when needed. the main reason for that is that updates for hls.js takes a long time before reaching clappr, and some of the fixes are crucial for us.

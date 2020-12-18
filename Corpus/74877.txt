@@ -1,0 +1,1 @@
+ URL : "https://github.com/UnitedRPMs/minidlna/issues/1" TITLE : fix ip address detection BODY : i am forced to restart the service, after logging into the desktop to get the network module to find the adapter. i have changed config, and added waits in the service startup file, to no avail. can the code be changed to wait for a valid ip, before the service loads and exits.

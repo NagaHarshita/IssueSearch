@@ -1,0 +1,1 @@
+ URL : "https://github.com/crohrandt/simulation/issues/4" TITLE : enable rna simulation BODY : as of now only dna can be simulated with a decent quality so that it will pass the ont albacore quality filter. one of the next steps will be to fine tune simulation parameters to be able to simulate rna runs as well.

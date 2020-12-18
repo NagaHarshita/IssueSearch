@@ -1,0 +1,1 @@
+ URL : "https://github.com/KhronosGroup/glTF-WebGL-PBR/issues/5" TITLE : don't modify gl BODY : it seems bad form to modify the webgl context itself: https://github.com/khronosgroup/gltf-webgl-pbr/blob/d8c3e333a13d5abb2e3b52221f5ecd211fb1a003/main.js l140-l142

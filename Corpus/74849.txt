@@ -1,0 +1,1 @@
+ URL : "https://github.com/nemoDreamer/atom-nemodreaming-theme/issues/4" TITLE : fix deprecated selectors BODY : starting from atom v1.13.0, the contents of atom-text-editor elements are no longer encapsulated within a shadow dom boundary. this means you should stop using :host and ::shadow pseudo-selectors, and prepend all your syntax selectors with syntax-- .

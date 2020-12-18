@@ -1,0 +1,1 @@
+ URL : "https://github.com/Chicago/RSocrata/issues/129" TITLE : increase paging capacity BODY : the socrata api returns 1000 rows at a time by default, and rsocrata currently leaves the default in place. increasing it to return 50,000 rows will allow for faster paging through large datasets. https://dev.socrata.com/docs/paging.html

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mstauff/cwf-ios/issues/27" TITLE : appdelegate glue code BODY : in the app delegate instantiate datasource goodrive , lds.org protocol, calling manager service and load up cms with data

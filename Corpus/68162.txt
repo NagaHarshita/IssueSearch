@@ -1,0 +1,1 @@
+ URL : "https://github.com/roberthamel/r-doc/issues/50" TITLE : remove revision control BODY : ultimately, instead of trying to save revision information in the database with all of the different relationships, i would like to save the data to a json file. i would still have a revisions table in the database, but it would keep track of all of the different files.

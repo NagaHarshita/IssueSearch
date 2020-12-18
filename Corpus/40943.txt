@@ -1,0 +1,1 @@
+ URL : "https://github.com/sustrik/libdill/issues/122" TITLE : wait for a coroutine BODY : if i fire a coroutine and i hold the handle how can i wait for it to complete.

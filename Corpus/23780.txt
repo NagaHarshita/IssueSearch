@@ -1,0 +1,1 @@
+ URL : "https://github.com/puma/puma/issues/1188" TITLE : release puma 3.7.0 BODY : the changelog says puma 3.7.0 was released see https://github.com/puma/puma/blob/master/history.md 370--2017-01-04 . but there is nothing on rubygems.org see https://rubygems.org/gems/puma/

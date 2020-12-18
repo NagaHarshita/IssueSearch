@@ -1,0 +1,1 @@
+ URL : "https://github.com/MitchC97/CP1406-Semester-1-Assignment-2/issues/3" TITLE : email regex validation BODY : function validateemail input { var rx = /^ a-za-z0-9_.+- +\@ a-za-z0-9- +\. + a-za-z0-9 {2,4} +$/; return rx.test input ; }

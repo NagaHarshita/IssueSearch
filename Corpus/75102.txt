@@ -1,0 +1,1 @@
+ URL : "https://github.com/RENCI/cmaq-exposure-api/issues/9" TITLE : generate api server code BODY : - stub from swagger codegen for python-flask using swagger.yaml definition - run over https - use gevent as web server - provide docker option in addition to python3 - will be similar to nih-exposures-api server https://github.com/renci/nih-exposures-api/tree/master/server

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Wh1teRabbitHU/VirtualDataGrid/issues/23" TITLE : adding and deleting rows BODY : beside the edit functionality it should be allowed to add or delete rows in the table. the design and the implementation are not clear yet, need some testing and research

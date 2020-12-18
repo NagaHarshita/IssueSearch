@@ -1,0 +1,1 @@
+ URL : "https://github.com/krishraghuram/mess/issues/17" TITLE : submodule head detached BODY : mess-rpisetup head is detached when cloning mess and updating submodules. need to figure out why this is happening.

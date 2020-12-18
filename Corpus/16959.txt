@@ -1,0 +1,1 @@
+ URL : "https://github.com/btimby/cloudstrype/issues/2" TITLE : model unit tests. BODY : models need extensive testing. specifically around directory/file creation/filtering and cascading deletes. also, capture some fixtures for testing.

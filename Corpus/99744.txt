@@ -1,0 +1,1 @@
+ URL : "https://github.com/ilpianista/arch-audit/issues/24" TITLE : new endpoint for json feed BODY : hey, i would like to announce the new endpoint to get the json data, please switch to it and maybe do an update to the earliest convenience. the old endpoint will be kept for a while for compatibility. https://security.archlinux.org/issues/all.json

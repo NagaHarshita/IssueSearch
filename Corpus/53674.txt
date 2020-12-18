@@ -1,0 +1,1 @@
+ URL : "https://github.com/seiyria/bootstrap-slider/issues/682" TITLE : error compilation sass BODY : ! image https://cloud.githubusercontent.com/assets/6001723/21638186/eeac64dc-d272-11e6-944c-f568d38a5d25.png solution: remove } on line 157

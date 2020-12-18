@@ -1,0 +1,1 @@
+ URL : "https://github.com/danm-de/pcsc-sharp/issues/56" TITLE : support for ct-api BODY : hey, i am using your library for communication with smartcards pc/sc and it works great! what about the ct-api interface for communication with simple memory cards, for example sle4442? is it possible to use pcsc-sharp for this purpose? thanks!

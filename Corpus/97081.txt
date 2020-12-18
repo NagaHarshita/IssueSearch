@@ -1,0 +1,1 @@
+ URL : "https://github.com/Chewbacca96/Vicky/issues/3" TITLE : fix payload encoding error BODY : wrong code: 'payload' => '{ type : message , text : '.$message.' , channel : '.$channel.' }' please encode by json_encode by payload array

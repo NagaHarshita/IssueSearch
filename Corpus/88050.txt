@@ -1,0 +1,1 @@
+ URL : "https://github.com/puifais/biomedical_python/issues/2" TITLE : missing quotes in command BODY : hey puifai, in your stitching guide, you have a teraconverter command at the bottom that is missing some quotation marks around the xml_merging.xml just wanted you to know the command fails without them.

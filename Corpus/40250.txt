@@ -1,0 +1,1 @@
+ URL : "https://github.com/funcool/promesa/issues/51" TITLE : timeouts on clojure? BODY : i noticed the timeout function is behind a cljs reader conditional and there is no java clojure implementation. i realise you can use deref with a timeout but it's a bit jarring when considering the existing promise chaining design. is there an alternative option i'm not seeing?

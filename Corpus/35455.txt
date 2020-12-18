@@ -1,0 +1,1 @@
+ URL : "https://github.com/sybila/biodivineGUI/issues/44" TITLE : editor, reload model BODY : editor.browsemodel xyz -> editor.model.change -> editor.browsemodel xyz after blanking or editing model, user can't load same model. so you actually can't reload model without loading other model in the process.

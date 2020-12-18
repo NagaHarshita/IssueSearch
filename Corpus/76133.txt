@@ -1,0 +1,1 @@
+ URL : "https://github.com/Return-To-The-Roots/s25client/issues/703" TITLE : ingame window open delay BODY : when opening a window in game e.g. map, messages etc. the first time the window is opened the game lags for a moment. this happens with all windows when they are shown first. after that everything works fine but it feels extremly strange and annoying.

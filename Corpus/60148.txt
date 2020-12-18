@@ -1,0 +1,1 @@
+ URL : "https://github.com/lelylan/websockets/issues/17" TITLE : why you filter events? BODY : websockets only publish update-property events: https://github.com/lelylan/websockets/blob/master/lib/loop.js l14

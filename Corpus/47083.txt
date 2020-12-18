@@ -1,0 +1,1 @@
+ URL : "https://github.com/sdcc-i-coop-portal/zoom109/issues/7" TITLE : non running functions BODY : modify running functions in case of wrong input: icpr_posting - ok int_sd_posting - ok int_td_posting - ok sc_due_posting - ok sd_icpr_deduction_posting - ok ok since 2017-07-13 dm_due_posting - ok ok since 2017-07-14

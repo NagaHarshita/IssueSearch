@@ -1,0 +1,1 @@
+ URL : "https://github.com/jkomoros/boardgame/issues/562" TITLE : get rid of package doc BODY : it's duplicative and confusing. things should either be in the tutorial or in documentation close to the actual objects.

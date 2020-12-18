@@ -1,0 +1,1 @@
+ URL : "https://github.com/jarcoal/httpmock/issues/33" TITLE : allow some http request BODY : as far i know, httpmock.activate will block all http request that go out from the project. can you make a method to not block some http request?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Cheesy0314/DrunkBot/issues/1" TITLE : integrate youtube api BODY : priority should be allowing youtube search/links to play music in voice channel. songs will be queued, and permissions may need to be checked. need to also find out the best integration method with discord4j

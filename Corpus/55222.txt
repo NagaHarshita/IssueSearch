@@ -1,0 +1,1 @@
+ URL : "https://github.com/jacopofar/flask-typed-mounter/issues/3" TITLE : improve style of pydoc BODY : when a get reaches an endpoint, a page describing the function is returned. a screenshot of such a page is visible in the readme. it isn't particularly beautiful, and probably could be more readable.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ankita132/notes_app/issues/21" TITLE : truncating of notes BODY : since the declaration of text is done with 255 varchar. the notes saved in the database are till 255th character and rest are been truncated.

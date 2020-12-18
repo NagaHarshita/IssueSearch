@@ -1,0 +1,1 @@
+ URL : "https://github.com/openstates/openstates/issues/1812" TITLE : ga missing votes BODY : the ga state senate is missing votes e.g., gav00006507 doesn't have a single vote and the state assembly is missing votes e.g., gav00006524 doesn't have a single vote . this appears quite widespread for the current term in ga, that votes seem to be missing on nearly every motion.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/dargasea/gefion/issues/6" TITLE : database model maximums BODY : currently all fields do not have specifications of their max lengths. this should be added accordingly.

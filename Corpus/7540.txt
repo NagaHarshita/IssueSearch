@@ -1,0 +1,1 @@
+ URL : "https://github.com/jsmodules/angular-material-calendar/issues/123" TITLE : goto today date BODY : for example, when i press next month button, i want to have today button, that changes month and selected current date, how can i achieve this ? there is no examples in documentation.

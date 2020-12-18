@@ -1,0 +1,1 @@
+ URL : "https://github.com/MoOx/pjax/issues/85" TITLE : a little console issue... BODY : so i see this error code when i traverse on your demo page: uncaught referenceerror: pjax is not defined at vanilla.js:2 just wanted to let ya know. :

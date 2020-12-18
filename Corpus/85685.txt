@@ -1,0 +1,1 @@
+ URL : "https://github.com/raspibo/eventman/issues/174" TITLE : fix date and time pickers BODY : with the update of ui-bootstrap, the date and time pickers are broken.

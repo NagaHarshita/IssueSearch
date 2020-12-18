@@ -1,0 +1,1 @@
+ URL : "https://github.com/algolia/algoliasearch-laravel/issues/145" TITLE : error handling and queues BODY : i wonder if i can use some sort of error handling when using $contact->pushtoindex ; eg try catch also, is it possible to use ->pushtoindex ; in a queue worker?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/alkis/decimal/issues/38" TITLE : sin / cos / tan methods BODY : the calculate crate would benefit from using d128 instead of f64 for calculating floats accurately. the ion shell uses calculate for it's built-in calc command. the methods above are required by calculate though, and are missing here.

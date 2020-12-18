@@ -1,0 +1,1 @@
+ URL : "https://github.com/wix/react-native-interactable/issues/43" TITLE : how to catch ondrag ? BODY : hello, i'm wondering how i can possibly catch an ondrag event on my interactable.view because i want my ui to change when the user is dragging. i didn't saw any prop that could do this in the doc.

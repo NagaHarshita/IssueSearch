@@ -1,0 +1,1 @@
+ URL : "https://github.com/JetBrains/kotlin-native/issues/705" TITLE : must rely on java? BODY : when i do cmds on windows,its show some thing like need java or javahome.... dose kotlin native must rely on java?

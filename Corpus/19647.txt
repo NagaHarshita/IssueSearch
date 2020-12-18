@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpenLiveWriter/OpenLiveWriter/issues/680" TITLE : add pre as a style BODY : while some plugins work, there are certainly cases where a language doesn't work well. it would be great to just have a pre tag as a style in addition to h1, h2, etc.

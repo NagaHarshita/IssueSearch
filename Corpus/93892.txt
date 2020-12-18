@@ -1,0 +1,1 @@
+ URL : "https://github.com/fgpv-vpgf/fgpa-apgf/issues/37" TITLE : authoring tool config file BODY : this will determine how the authoring tool is built, such as: - auto populate selectable or static values when required based on high level themes ex; fgp theme would have specific geometry server

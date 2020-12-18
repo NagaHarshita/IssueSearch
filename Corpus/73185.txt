@@ -1,0 +1,1 @@
+ URL : "https://github.com/WebPlatformTest/HTML5test/issues/506" TITLE : consider adding nomodule BODY : html5 has added the nomodule attribute to script to allow backwards compatibility with browsers that don't support es modules https://html.spec.whatwg.org/multipage/scripting.html the-script-element:dom-script-nomodule

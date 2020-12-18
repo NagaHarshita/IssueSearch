@@ -1,0 +1,1 @@
+ URL : "https://github.com/react-community/react-navigation/issues/1301" TITLE : drawer pan mask BODY : is it currently possible to set some sort of pan mask for the drawer to open when the swipe gesture is initiated anywhere but solely from the edge of the screen?

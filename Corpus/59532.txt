@@ -1,0 +1,1 @@
+ URL : "https://github.com/3drepo/3drepo.io/issues/631" TITLE : unity error in console BODY : probably passing some null variable into one of the unityutil functions at some point. need to just log them all out and figure out which one. argumentnullexception: argument cannot be null. parameter name: key filename: currently not available on il2cpp line: -1

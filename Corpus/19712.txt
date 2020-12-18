@@ -1,0 +1,1 @@
+ URL : "https://github.com/volatiletech/abcweb/issues/5" TITLE : add sqlite support BODY : once sqlboiler supports sqlite it will allow abcweb to function out of the box by utilizing its own sqlite database, instead of having the requirement to set up or configure postgres or mysql. we will also need to add sqlite to the mig package.

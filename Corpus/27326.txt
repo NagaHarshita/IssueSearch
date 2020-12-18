@@ -1,0 +1,1 @@
+ URL : "https://github.com/watzek/brainbow/issues/5" TITLE : create request form BODY : needs to accept image id in url params so it can be linked to. write some tests for this, as well.

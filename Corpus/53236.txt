@@ -1,0 +1,1 @@
+ URL : "https://github.com/siggame/ophelia/issues/35" TITLE : devops - setup vagrant BODY : set up vagrant so that windows/mac users can easily deploy the webserver in a test environment.

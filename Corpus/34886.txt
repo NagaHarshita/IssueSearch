@@ -1,0 +1,1 @@
+ URL : "https://github.com/zhaowenlan1779/cgxfs/issues/8" TITLE : create file comments BODY : a file should be able to have comments. comment model is already present, but we currently have no views & controllers to handle it. so i'm creating this issue to remind myself

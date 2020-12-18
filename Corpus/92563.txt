@@ -1,0 +1,1 @@
+ URL : "https://github.com/Larsg7/pdfcreator/issues/8" TITLE : zeichensatz-fehler in csv BODY : ist es möglich, zeichensatzfehler vorher abzufangen und nicht erst beim generieren der serie? kann man den zeichensatz eigentlich auslesen und automatisch konvertieren bzw. nach utf-8 casten?

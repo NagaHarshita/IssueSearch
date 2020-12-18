@@ -1,0 +1,1 @@
+ URL : "https://github.com/NYPL-Simplified/Simplified-iOS/issues/652" TITLE : book detail cover size BODY : when loading the new book detail, the auto-generated covers will be smaller and shrink down the layout on the rest of the page.

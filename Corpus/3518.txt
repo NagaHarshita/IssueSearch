@@ -1,0 +1,1 @@
+ URL : "https://github.com/dyerk/mepp/issues/1" TITLE : rasp pi error BODY : after running for 4-6 hours the program fails. believe it is tied to memory overflow - investigate further so it can be deployed on pi and run 24/7.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/amphp/artax/issues/114" TITLE : put progress updates back BODY : there should be some mechanism for watching state, timing, redirects etc..

@@ -1,0 +1,10 @@
+ URL : "https://github.com/Zimmi48/bugzilla-test/issues/3091" TITLE : memory leak on os x BODY : note: the issue was created automatically with bugzilla2github tool bugzilla bug id: 3091
+date: 2013-07-18 07:41:32 +0200
+from: jens gerlach &lt;<jensgerlach@posteo.de>&gt;
+to: cc: coq-bugs-redist@lists.gforge.inria.fr, jensgerlach@posteo.de, @_ppedrot last updated: 2013-07-26 17:09:26 +0200 bugzilla comment id: 5993
+date: 2013-07-18 07:41:32 +0200
+from: jens gerlach &lt;<jensgerlach@posteo.de>&gt; when running coqide 8.4 built through opam on osx 10.8.4,
+i regularly see warnings such as: objc 762 : object 0x7fd2c1ce1a10 of class nsconcretemaptable autoreleased with no pool in place - just leaking - break on objc_autoreleasenopool to debug for large coq files , the ide crashes from time to time.
+in particular when jumping to the end of the file. bugzilla comment id: 5994
+date: 2013-07-18 10:28:31 +0200
+from: @_ppedrot saint google tells us of many memory leaks on this particular object, which hints us at the fact that is none of our business, but gtk's one.

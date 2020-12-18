@@ -1,0 +1,1 @@
+ URL : "https://github.com/facebook/reason/issues/1031" TITLE : rename refmt to refmt.exe BODY : from @bobzhang > in case we support windows later on. i've forgotten how node works on windows. do all the npm binaries that don't add .exe not work on windows? @jordwalke @yunxing

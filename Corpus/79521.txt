@@ -1,0 +1,1 @@
+ URL : "https://github.com/PythonNut/sage-config/issues/4" TITLE : simplification is broken BODY : unfortunately, a change in sage seems to have broken simplification, as it never terminates.

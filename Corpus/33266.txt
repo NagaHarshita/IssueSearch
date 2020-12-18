@@ -1,0 +1,1 @@
+ URL : "https://github.com/hackclub/api/issues/47" TITLE : add development mode BODY : the current cors configuration makes local testing a pain. we should have some sort of flag which removes cors when we are doing local development.

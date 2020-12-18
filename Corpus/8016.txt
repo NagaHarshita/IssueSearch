@@ -1,0 +1,1 @@
+ URL : "https://github.com/aderhol/Clock_Synchronization/issues/11" TITLE : make gps_1 work BODY : the gps_1 module does not find satellites so it cannot acquire the position and the time.

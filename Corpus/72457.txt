@@ -1,0 +1,1 @@
+ URL : "https://github.com/conda-forge/snappy-feedstock/issues/5" TITLE : build with optimizations BODY : snappy in conda-forge is not being built with compiler optimizations. i propose to set -o2 or -o3 in cxxflags

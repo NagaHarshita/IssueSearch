@@ -1,0 +1,1 @@
+ URL : "https://github.com/melninie/QRCodeProjet/issues/1" TITLE : package.json pas à jour BODY : il manque des modules au fichier package.json et notamment : - moment - async

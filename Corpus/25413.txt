@@ -1,0 +1,1 @@
+ URL : "https://github.com/ChalkyBrush/roshpit-bug-tracker/issues/89" TITLE : zhonik comet punch BODY : not sure if it is a bug. comet punch's additional effect the damage is amplified post-mitigation by 1% for each movespeed point that zhonik has over his target's. does not affect runes that have comet punch as base ability.

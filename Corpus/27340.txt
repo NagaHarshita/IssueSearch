@@ -1,0 +1,1 @@
+ URL : "https://github.com/lcabrini/sokms/issues/6" TITLE : create student list BODY : we need a student list view, with associated controller method and route. it should show a list of all students.

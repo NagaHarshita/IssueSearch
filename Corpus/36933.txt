@@ -1,0 +1,4 @@
+ URL : "https://github.com/babluboy/bookworm/issues/41" TITLE : invalid desktop file BODY : appcenter dashboard ran desktop-file-validate on your project's .desktop file and received the following errors: repository/data/com.github.babluboy.bookworm.desktop: error: value 0.4.3 for key version in group desktop entry is not a known version --- for more information, see the desktop entry specification https://standards.freedesktop.org/desktop-entry-spec/latest/ar01s05.html affects : 0.4.3 release https://github.com/babluboy/bookworm/releases/tag/0.4.3 <!--
+pipe: desktop
+pipe time: thu apr 20 2017 07:43:44 gmt+0000 utc houston version: 0.3.0 05b9e66b000b53f5b1e8bd408d4ddd8da6f86b98 houston env: production
+-->

@@ -1,0 +1,1 @@
+ URL : "https://github.com/shapeshiftingrabbits/Shooter-MVP/issues/45" TITLE : setup build pipeline BODY : - must build pull request with tests - must run on each push on develop and master with tests - must deploy to testers - must create a deliverable - must provide a bug report - server push build to github

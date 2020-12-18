@@ -1,0 +1,1 @@
+ URL : "https://github.com/GeoNet/fdsn/issues/67" TITLE : update mseed liib BODY : update the mseed lib and remove string trimming from this code.

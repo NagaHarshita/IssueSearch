@@ -1,0 +1,2 @@
+ URL : "https://github.com/pingcap/tispark/issues/185" TITLE : add hint for index BODY : <a href= https://github.com/birdstorm ><img src= https://avatars1.githubusercontent.com/u/15857134?v=4 align= left width= 96 height= 96 hspace= 10 ></img></a> issue by birdstorm https://github.com/birdstorm _tue dec 5 07:12:38 2017_
+_originally opened as https://github.com/pingcap/tikv-client-lib-java/issues/180_ ---- should add an option to use index as priority.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/skydiver/october-plugin-forms/issues/75" TITLE : a better example for usage BODY : in documentation step 2 usage , there is a link for override component html with your form . but that does not help. can you give an example for overriding component html for general ajax form.

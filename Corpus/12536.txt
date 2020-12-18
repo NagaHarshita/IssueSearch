@@ -1,0 +1,1 @@
+ URL : "https://github.com/tkellehe/noodel/issues/103" TITLE : print true false BODY : have where turns falsy to a string that says false and same with truthy.

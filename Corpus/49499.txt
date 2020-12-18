@@ -1,0 +1,1 @@
+ URL : "https://github.com/CPSB/ActivismeBE-database-layering/issues/24" TITLE : travis allow failures BODY : voor nu onze ci triggerdt errors op php hhvm. maar aangezien we dit niet gebruiken. mag die in onze ci staan als allow failure

@@ -1,0 +1,1 @@
+ URL : "https://github.com/kcigeospatial/DelDOT-ES2M/issues/8" TITLE : date field format BODY : on the inspection forms, the date format in the submitted date field is dd/mm/yyyy. is this correct? see example below: ! date issue 2 https://user-images.githubusercontent.com/16418393/32060324-6a73164a-ba3c-11e7-97e7-a61a8c304854.png

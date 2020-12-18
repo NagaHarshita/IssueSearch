@@ -1,0 +1,1 @@
+ URL : "https://github.com/armon/go-chord/issues/14" TITLE : gob decoder error BODY : i'm getting these errors when running tests. 2017/10/15 20:50:06 err error checking predecessor: eof 2017/10/15 20:50:06 err failed to decode tcp body! got gob: type mismatch: no fields matched compiling decoder for tcpbodyfindsuc

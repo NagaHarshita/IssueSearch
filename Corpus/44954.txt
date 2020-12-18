@@ -1,0 +1,1 @@
+ URL : "https://github.com/Yoctol/messaging-apis/issues/212" TITLE : get pageid from token BODY : we can get pageid directly using graph api: https://graph.facebook.com/v2.11/me?access_token=<token> will get response: { name : bot demo , id : 1895382890692545 }

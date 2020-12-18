@@ -1,0 +1,1 @@
+ URL : "https://github.com/LiskHQ/lisk-docker/issues/68" TITLE : do not expose redis port BODY : the docker-compose.yml files should not expose any port for their redis containers; it is unnecessary.

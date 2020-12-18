@@ -1,0 +1,1 @@
+ URL : "https://github.com/Gubaer/josm-scripting-plugin/issues/56" TITLE : how to launch tests? BODY : i tried to run ./gradlew test but nothing seems to be run -- what's the proper approach to launch all tests that are present for the plugin?

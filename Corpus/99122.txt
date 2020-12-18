@@ -1,0 +1,1 @@
+ URL : "https://github.com/obriencj/python-sibilant/issues/23" TITLE : make symbol interning weak BODY : convert the interning of symbols to a weakvaluedictionary so that they may be gc'd. there are a huge number of symbols that only need to be available at compile-time.

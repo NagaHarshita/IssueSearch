@@ -1,0 +1,1 @@
+ URL : "https://github.com/StoneyJackson/git-intro-activity/issues/11" TITLE : fix numbering in github BODY : numbering shows up correctly through pandoc, but not through github. all numbers are now 1.

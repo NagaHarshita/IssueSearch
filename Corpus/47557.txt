@@ -1,0 +1,1 @@
+ URL : "https://github.com/DevrexLabs/memstate/issues/16" TITLE : point in time loading BODY : replay to a specific recordnumber or point in time, state should then be read only.

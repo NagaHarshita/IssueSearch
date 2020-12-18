@@ -1,0 +1,1 @@
+ URL : "https://github.com/kul-forbes/scs/issues/4" TITLE : export more progress info BODY : export more progress information such as 1. the value of how progress_mode 2. number of line search iterations progress_ls or the accepted step progress_step

@@ -1,0 +1,1 @@
+ URL : "https://github.com/yahoo/crow/issues/5" TITLE : there might be a bug BODY : i think line 86 in crow.py should be fixed by: return sknormalize x.reshape 1,-1 , copy=copy

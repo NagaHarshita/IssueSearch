@@ -1,0 +1,1 @@
+ URL : "https://github.com/chentsulin/electron-react-boilerplate/issues/992" TITLE : jest .only not working BODY : i can't seem to get .only working in describe or it blocks on the latest version... anyone else having this problem?

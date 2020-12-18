@@ -1,0 +1,1 @@
+ URL : "https://github.com/AppStateESS/systemsinventory/issues/18" TITLE : bug with refresh BODY : sometimes clicking through views appears to prevent other devices from appearing. one view may not be resetting. test further.

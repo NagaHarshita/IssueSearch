@@ -1,0 +1,1 @@
+ URL : "https://github.com/digitaljosh/payitforward/issues/111" TITLE : manage claimed users bug BODY : in manage claimed users, if a user is marked as completing the opportunity, they shouldn't appear in the list the next time b/c they've already completed the opp .

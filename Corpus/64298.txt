@@ -1,0 +1,1 @@
+ URL : "https://github.com/peterkhayes/multisort/issues/3" TITLE : fr: number as parameter BODY : hi, i don't think we can have index number as parameter. it seems to only works on items named property or array key, but not child array index in case you have a master array containing other arrays . let me know if i miss something. thanks :

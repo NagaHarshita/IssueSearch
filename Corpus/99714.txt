@@ -1,0 +1,1 @@
+ URL : "https://github.com/ashish-chopra/angular-gauge/issues/48" TITLE : negative ranges are broken BODY : i recently found that using negative value for min and positive value for max , then gauge does not render at correct position for the current value . fix needed.

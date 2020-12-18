@@ -1,0 +1,1 @@
+ URL : "https://github.com/nmsmith22389/CandyUI/issues/76" TITLE : engie tooltip error BODY : if you hover over the go to button of the engineer bots you get an error saying: getflavor is deprecated. gettooltips should be used instead. ! candyui_bug_bots https://cloud.githubusercontent.com/assets/26235155/23753171/afe67ad8-04d8-11e7-8801-0c46d9e3d4ba.png

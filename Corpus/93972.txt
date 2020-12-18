@@ -1,0 +1,1 @@
+ URL : "https://github.com/mnielsen/neural-networks-and-deep-learning/issues/76" TITLE : backprop2 module not found BODY : the module backprop2 seems to be missing. see for example https://github.com/mnielsen/neural-networks-and-deep-learning/blob/master/src/old/deep_learning.py

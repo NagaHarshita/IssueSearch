@@ -1,0 +1,1 @@
+ URL : "https://github.com/LeonardoNve/dns2proxy/issues/10" TITLE : can't run dns2proxy.py BODY : hi i'm trying to run dns2proxy.py and get an error python dns2proxy.py file dns2proxy.py , line 175 print str ^ syntaxerror: missing parentheses in call to 'print' yes...i'm trying to run it on an android terminal, hope i don't look that noob, till now sslstrip2 has worked fine :

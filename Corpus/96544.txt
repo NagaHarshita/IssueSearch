@@ -1,0 +1,1 @@
+ URL : "https://github.com/zeke/marky-markdown-lite/issues/1" TITLE : expose markdown-it options BODY : stumble with the opportunity to replace marky-markdown with marky-markdown-lite but needed the underlying markdown-it options. i think it will be useful to have access to the options without changing the actual api

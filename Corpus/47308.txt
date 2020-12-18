@@ -1,0 +1,1 @@
+ URL : "https://github.com/sindresorhus/username/issues/13" TITLE : os.userinfo .username BODY : why doesn't this use os.userinfo .username if available?

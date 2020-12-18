@@ -1,0 +1,1 @@
+ URL : "https://github.com/cballenar/slideshare-to-pdf/issues/2" TITLE : slides out of order BODY : issue: output is not sorted out properly on output. solution: get slides from beautifulsoup in order or sort slides_markup. it's necessary to sort them at this point in order to be able to use the markup outside of the script slidegrubber web feature .

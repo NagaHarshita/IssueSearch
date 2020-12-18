@@ -1,0 +1,1 @@
+ URL : "https://github.com/luberda-molinet/FFImageLoading/issues/452" TITLE : android : no svg on screen BODY : hello, my configuration is : ffimageloading 2.2.7, xamarin 2.3.3.175, xamarin stable, vs 2015. all svg are correctly displayed on ios but nothing on android. could you have a look about this major issue please ? regards

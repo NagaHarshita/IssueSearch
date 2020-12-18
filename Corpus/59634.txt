@@ -1,0 +1,1 @@
+ URL : "https://github.com/mongodb/morphia/issues/1205" TITLE : update to 3.5.0 driver BODY : this is important primarily in order to pick up https://jira.mongodb.org/browse/java-2442

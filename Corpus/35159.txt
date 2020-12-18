@@ -1,0 +1,1 @@
+ URL : "https://github.com/itinero/routing-api/issues/2" TITLE : demo url cause error BODY : i am trying http://localhost:3467/belgium/routing?profile=car&loc=51.055207,3.722992&loc=50.906497,4.194031 but get error: nancy.requestexecutionexception: oh noes! ---< system.argumentexception: view name and model parameters cannot both be null. how to fix this?

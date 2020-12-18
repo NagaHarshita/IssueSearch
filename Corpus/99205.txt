@@ -1,0 +1,1 @@
+ URL : "https://github.com/JaysGitLab/cs5666-spr17-javatrix-coffee/issues/43" TITLE : matrix random int m, int n BODY : public static matrix random int m, int n generate matrix with random elements parameters: m - number of rows. n - number of colums. returns: an m-by-n matrix with uniformly distributed random elements.

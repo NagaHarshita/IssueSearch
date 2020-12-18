@@ -1,0 +1,1 @@
+ URL : "https://github.com/StaplerSharpener/apple-juice/issues/2" TITLE : change css framework. BODY : the current css framework, material-design-lite, feels a bit overkill for what should be a lightweight boilerplate for personal flask projects. consider changing it to something lighter like pure.css.

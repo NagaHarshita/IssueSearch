@@ -1,0 +1,1 @@
+ URL : "https://github.com/parnurzeal/gorequest/issues/159" TITLE : add doc for appendheader BODY : according to @edentsai pr 154 to add appendheader to support multiple values, we should also add doc about this too.

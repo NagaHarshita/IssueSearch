@@ -1,0 +1,1 @@
+ URL : "https://github.com/Dasha-V/HomeTask/issues/22" TITLE : do not repeat code BODY : https://github.com/dasha-v/hometask/blob/a4df4d728c51b1d7384edf7d2a4078ec42c2bbff/src/scheduletask/two/arrcheck.java l6-l9 if you use any code more than once - it requires refactoring. always!!!!!!!! in this case it is arr1.length - it should be extracted variable.

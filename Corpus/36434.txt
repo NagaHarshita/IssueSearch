@@ -1,0 +1,1 @@
+ URL : "https://github.com/Thinkful-C15/capstone-translation-app/issues/2" TITLE : heroku: css variance BODY : display from heroku-deployed app is different from localhost deployed app. css file is identical upon comparison between the 2 sources.

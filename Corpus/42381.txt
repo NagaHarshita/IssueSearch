@@ -1,0 +1,1 @@
+ URL : "https://github.com/govau/dta-uikit-base-theme/issues/6" TITLE : avoid hardcoded crest BODY : the base theme will need a crest. because we want to distribute this theme, the end users need a way to select their own crest. this functionality has already been created in https://github.com/govau/govcms8-ui/tree/logo-admin-ui and needs to be pulled over.

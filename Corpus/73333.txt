@@ -1,0 +1,1 @@
+ URL : "https://github.com/lisawray/groupie/issues/135" TITLE : crash with same layoutid BODY : i run in to a rare crash. when i use the same layout with differrent items in the same list, it crashes upon recycling. i investigated, groupie use layoutid at getviewtype. i think it's not a good solution. it's very common when the same layout is used with different item types.

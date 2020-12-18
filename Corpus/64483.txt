@@ -1,0 +1,1 @@
+ URL : "https://github.com/trapp/ethereum-bip44/issues/4" TITLE : getting the private key BODY : wallet.getaddress 0 gives you the wallet address which looks good. however wallet.getprivatekey 0 gives a buffer object. how do you get the private key in the regular string? format?

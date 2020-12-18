@@ -1,0 +1,1 @@
+ URL : "https://github.com/ZoranPandovski/al-go-rithms/issues/665" TITLE : fix dir structures BODY : a lot of files inside data_structures are out of language folder. the structure should be: e.g data_structures/arrays/java/arrays.java

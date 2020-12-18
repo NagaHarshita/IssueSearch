@@ -1,0 +1,1 @@
+ URL : "https://github.com/gandm/language-babel/issues/333" TITLE : jsdoc mixin attribute BODY : @mixin is not being recognized as a jsdoc attribute.

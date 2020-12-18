@@ -1,0 +1,1 @@
+ URL : "https://github.com/NSLS-II/ophyd/issues/467" TITLE : bug: no mover BODY : it seems to mover got lost in the move from bluesky to ophyd. it is still referenced in all the examples though. can we please get a shim for this?

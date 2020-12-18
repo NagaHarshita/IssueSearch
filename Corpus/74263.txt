@@ -1,0 +1,1 @@
+ URL : "https://github.com/iqbalansari/emacs-emojify/issues/32" TITLE : emojify inhibit function BODY : hi iqbal, thank you for the wonderful package. i'm pretty new to the customization part. can you help me write a function to prevent, for example, the text 8 from being converted to emoji in the org-mode. thank you

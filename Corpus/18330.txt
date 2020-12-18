@@ -1,0 +1,1 @@
+ URL : "https://github.com/WPTRT/WordPress-Coding-Standards/issues/139" TITLE : support phpcs 3.x BODY : once wpcs 0.13.0 has been released next week, i would like to propose to do a back-merge again and to update the existing code within the trtcs to be in line with wpcs. this includes support for phpcs 3.x, using namespaces and more.

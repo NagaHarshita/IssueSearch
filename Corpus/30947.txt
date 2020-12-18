@@ -1,0 +1,1 @@
+ URL : "https://github.com/AppBakerZ/FinanceBakerZ/issues/53" TITLE : remove sub category BODY : if a registered user deletes a sub category,when this user logged in again then this sub category should not be shown.

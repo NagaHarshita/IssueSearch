@@ -1,0 +1,1 @@
+ URL : "https://github.com/jitsi/jitsi-meet/issues/2000" TITLE : safari 11 webrtc support BODY : there is no need for plugins in latest safari on desktop and mobile but it still shows a notification that safari requires a plugin.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/box/box-salesforce-sdk/issues/33" TITLE : improved error messaging BODY : tried to push revision and submit pull request but received 403. the custom error messages in boxapirequest lines 134, 136 provide no useful information. messaging should utilize response.getbody to provide useful debugging info. if you approve me, i can submit pr for your review.

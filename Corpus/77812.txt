@@ -1,0 +1,1 @@
+ URL : "https://github.com/odoo/odoo/issues/21026" TITLE : odoo 10 unable print pdf BODY : impacted versions: 10 steps to reproduce: 1 - generate an invoice 2 - print it 3 - open pdf file current behavior: pdf is generated but is empty and cannot be open with adobe reader. get failed to load pdf document expected behavior: get a valid pdf file video/screenshot link optional :

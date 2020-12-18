@@ -1,0 +1,1 @@
+ URL : "https://github.com/valor-software/ng2-select/issues/681" TITLE : setting default value BODY : hi i am not able to set the default value in <ng-select> . tried using initdata which i think is no longer supported. any alternatives? thanks.

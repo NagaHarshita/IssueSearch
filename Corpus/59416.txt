@@ -1,0 +1,1 @@
+ URL : "https://github.com/w3c/ttml2/issues/487" TITLE : typo in backgroundclip BODY : the table defining backgroundclip https://www.w3.org/tr/ttml2/ style-attribute-backgroundclip has an extra | .

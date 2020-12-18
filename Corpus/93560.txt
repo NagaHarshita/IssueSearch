@@ -1,0 +1,1 @@
+ URL : "https://github.com/Aatu/FieryVoid/issues/473" TITLE : advanced armor and effects BODY : advanced armor should be immune to effects from weapons like armor ignoring or reducing. this, however, needs to be done from weapons' end: effect should check for aa and disable itself if appropriate.

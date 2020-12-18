@@ -1,0 +1,1 @@
+ URL : "https://github.com/zielu/GitToolBox/issues/43" TITLE : git extender integration BODY : when git extender is also installed provide option to select which action should be invoked when 'update project' is clicked in notification popup

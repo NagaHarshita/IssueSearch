@@ -1,0 +1,1 @@
+ URL : "https://github.com/artsy/force/issues/1031" TITLE : introduce a linter BODY : a linter with settings to enforce strict-mode rules would prevent potential production crashes, such as the one fixed in https://github.com/artsy/force/pull/1030.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/sobolevn/git-secret/issues/108" TITLE : merge ci folders into one BODY : can these folders be merged? <img width= 486 alt= 2017-09-27 21 29 39 src= https://user-images.githubusercontent.com/4660275/30930711-2daf6aec-a3cb-11e7-90eb-551b1a319c12.png > i guess existing .ci/ folder is fine, isn't it?

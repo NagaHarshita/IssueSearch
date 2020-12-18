@@ -1,0 +1,1 @@
+ URL : "https://github.com/NSI-IT/2WU-WOOCLUBS/issues/135" TITLE : add - bio - website BODY : as a registered user, i want the ability to add my bio, so that other people can know more about me acceptance criterias: 1. verify that the user is able to add the bio. 2. verify that this step is not mandatory. 3. verify that the 100 characters are only allowed to be added under bio.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/checkedc-clang/issues/276" TITLE : implement bundled blocks BODY : this work item is to implement the bundled blocks described in section 3.5 of the checked c version 0.6 specification. this will needed for static checking of bounds declarations for assignments to structure members.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/anderflash/sypave/issues/3" TITLE : criar novo projeto BODY : quando o usuário executar sy new <projeto> , crie os seguintes arquivos: - src/ - app/ - app.module.ts - app.component.ts - index.html - styles/ - base/reset.scss - \<projeto\>.scss - sypave.json - tslint.json - package.json

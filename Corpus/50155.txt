@@ -1,0 +1,1 @@
+ URL : "https://github.com/ThreeMinuteLearning/my3ml/issues/76" TITLE : web integration tests BODY : need some end-to-end testing to detect breakage in the ui and other things . can hopefully use the haskell webdriver library and selenium server. may also be possible to integrate with browserstack.

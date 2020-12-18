@@ -1,0 +1,1 @@
+ URL : "https://github.com/robisim74/angular-library-starter/issues/2" TITLE : no npm link support? BODY : is there any reason why the build seems to be structured to require the use of npm pack and then npm install .tgz in client applications? this makes developing libraries pretty cumbersome as compared to the npm link method.

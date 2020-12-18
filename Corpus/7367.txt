@@ -1,0 +1,1 @@
+ URL : "https://github.com/hadley/lazyeval/issues/98" TITLE : fix for r devel BODY : from @kalibera the problem is in lazy.c, promise_as_lazy. if named promise < 2 set_named promise, 2 ; instead you could do just mark_not_mutable promise

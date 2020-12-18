@@ -1,0 +1,1 @@
+ URL : "https://github.com/pimoroni/hyperpixel/issues/17" TITLE : can't install drivers BODY : pi@retropie:~ $ git clone https://github.com/pimoroni/hyperpixel/archive/master.zip cloning into 'master.zip'... remote: not found fatal: repository 'https://github.com/pimoroni/hyperpixel/archive/master.zip/' not found

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Datanexus/postgresql/issues/11" TITLE : private key required BODY : possibly more a documentation issue than anything else, but the ansible scripts assume a private key exists with a specified filename.

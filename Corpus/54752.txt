@@ -1,0 +1,1 @@
+ URL : "https://github.com/BarathArivazhagan/spring-security-oauth2sso/issues/1" TITLE : hi，i have a question BODY : spring boot security oauth2 has two part：1.server 2.client how config server and client？as tow project and runing alone

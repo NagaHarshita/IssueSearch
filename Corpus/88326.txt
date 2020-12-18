@@ -1,0 +1,1 @@
+ URL : "https://github.com/wravery/ConversationFiler/issues/1" TITLE : need to update the styles BODY : it should use office fabric for react controls instead of raw html/react components. the style looks very out of date.

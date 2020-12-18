@@ -1,0 +1,1 @@
+ URL : "https://github.com/ElucidataInc/ElMaven/issues/250" TITLE : multithread mass slicing BODY : it seems like some aspects of untargeted peak picking at least the mass slicing part would be very amenable to multithreading. would be great to see if this is viable.

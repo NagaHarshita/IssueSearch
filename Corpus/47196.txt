@@ -1,0 +1,1 @@
+ URL : "https://github.com/shadowsocks/go-shadowsocks2/issues/6" TITLE : obfu plugin interface BODY : you want to export one such interface type obfuplugin func conn net.conn obfsconn net.conn, err error see https://github.com/shadowsocks/shadowsocks-org/issues/28

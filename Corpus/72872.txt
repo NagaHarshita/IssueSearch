@@ -1,0 +1,1 @@
+ URL : "https://github.com/bucardo/check_postgres/issues/130" TITLE : check_version 10.1 fails BODY : https://github.com/bucardo/check_postgres/blob/a4a1d23a63a54ef0c7e4fe8850b423a7098dd060/check_postgres.pl l8354 10.1 is a fullversion, but the above line unsets the variable $warnfull .

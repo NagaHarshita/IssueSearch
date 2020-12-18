@@ -1,0 +1,1 @@
+ URL : "https://github.com/RadeonOpenCompute/ROCK-Kernel-Driver/issues/27" TITLE : gigabyte am4 bug in kernel BODY : i'm hitting same bug as reported here https://bugs.launchpad.net/ubuntu/+source/linux/+bug/1671360/+index?comments=all on my gigabyte am4 board - can that fix please be backported in?

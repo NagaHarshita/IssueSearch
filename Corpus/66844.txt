@@ -1,0 +1,1 @@
+ URL : "https://github.com/hypriot/rpi-noip/issues/3" TITLE : no-ip2.conf not created BODY : step 2 readme is able to pick up the hostname registered in my no-ip.com account, and i get the message new configuration file '/usr/local/etc/no-ip2.conf' created. . however, the file is not created.

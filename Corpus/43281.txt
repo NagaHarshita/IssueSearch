@@ -1,0 +1,1 @@
+ URL : "https://github.com/DynasoftBr/poseidon/issues/6" TITLE : constants to defaults BODY : allow the default value to have a constant. initially only ' now ' to be replaced with the current moment of insertion.

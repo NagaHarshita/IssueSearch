@@ -1,0 +1,1 @@
+ URL : "https://github.com/wadewegner/deploy-to-sfdx/issues/17" TITLE : support for sfdx pull BODY : ability to pull from a scratch org and generate a pull request in the repo!

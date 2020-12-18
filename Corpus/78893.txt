@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla/network-pulse-api/issues/13" TITLE : rename creator to author BODY : based on https://github.com/mozilla/network-pulse/issues/257 issuecomment-271641837 we will need to rename our creator model to author and rename corresponding props/funcs

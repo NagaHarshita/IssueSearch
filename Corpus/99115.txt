@@ -1,0 +1,1 @@
+ URL : "https://github.com/micheloosterhof/cowrie/issues/514" TITLE : make sessionid more unique BODY : it would be nice if sessionid be unique enough to be used for searching for specific session. at this moment i have two sessions in 6 months period with the same sessionid,

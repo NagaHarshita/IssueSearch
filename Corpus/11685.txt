@@ -1,0 +1,1 @@
+ URL : "https://github.com/springlobby/springlobby/issues/768" TITLE : is not writeable BODY : screenshot: https://lut.im/b2axv1o28y/yrexx7zytamr3r9m.png happened after moving springlobby.conf out of the way and starting springlobby again to register another bot. there was another springlobby.conf with -f pathtootherconf running if that matters.

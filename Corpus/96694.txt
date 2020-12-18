@@ -1,0 +1,1 @@
+ URL : "https://github.com/Azure/mmlspark/issues/69" TITLE : featurize needs api review BODY : the featurize module has a strange api, namely it takes a map from a string to a sequence of strings as a parameter.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Elezovic/prj-rev-bwfs-dasmoto/issues/3" TITLE : css naming convention BODY : css selector names usually split words with - or _ .brush-heading .paint-heading makes it more readable. https://github.com/elezovic/prj-rev-bwfs-dasmoto/blob/master/dasmoto's/resources/css/index.css l23

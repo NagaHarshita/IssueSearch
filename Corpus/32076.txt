@@ -1,0 +1,1 @@
+ URL : "https://github.com/mushorg/glutton/issues/65" TITLE : too many open files BODY : glutton eventually fails with: user.tcp accept tcp :: :5000: accept4: too many open files

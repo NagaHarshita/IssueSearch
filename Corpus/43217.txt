@@ -1,0 +1,1 @@
+ URL : "https://github.com/HotelCalifornia/rusty-pros/issues/4" TITLE : compiling and linking BODY : presumably we can set the proper target architecture, but linking might not be so easy

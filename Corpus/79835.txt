@@ -1,0 +1,1 @@
+ URL : "https://github.com/sbmof/teacozy/issues/2" TITLE : subtle: duplicate naming BODY : https://github.com/sbmof/teacozy/blob/master/index.html l61 be careful not to give a class and an id the same name--that will only confuse you!

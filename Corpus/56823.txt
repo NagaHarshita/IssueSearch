@@ -1,0 +1,1 @@
+ URL : "https://github.com/indrimuska/angular-moment-picker/issues/144" TITLE : open at specific month BODY : i use this library as a date range picker. when user select the from date much in the past say 5 months ago , i would like the to picker to open at the same month as the from value. currently, the default view shows the current month. is this possible?

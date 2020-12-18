@@ -1,0 +1,1 @@
+ URL : "https://github.com/xbmc/Kore/issues/402" TITLE : bug sort is case sensitive BODY : sorting tv shows by name is case sensitive. this means that i lowercase appears after z uppercase . i would expect it to be case insensitive.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/CDrummond/cantata/issues/955" TITLE : support for avahi BODY : mpd can be and usually is built with avahi. it would be great to have in cantata, what for to manually set connection if it can be done automagically?

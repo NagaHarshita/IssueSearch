@@ -1,0 +1,1 @@
+ URL : "https://github.com/markwainwright/atom-linter-coffee-variables/issues/16" TITLE : ignore cson files BODY : this should skip .cson files…

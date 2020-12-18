@@ -1,0 +1,1 @@
+ URL : "https://github.com/npm/etcetera/issues/137" TITLE : fix for node 7 BODY : this doesn't pass install correctly on node 7 on travis. @nexdrew has pointed out that it is likely due to https://github.com/abbr/deasync/issues/73 we should put in a pr for node-etcd to update with a new deasync and then get tests passing

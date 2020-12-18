@@ -1,0 +1,1 @@
+ URL : "https://github.com/fgpv-vpgf/fgpv-vpgf/issues/2215" TITLE : space in datagrid title BODY : should be a space after the colon in the datagrid title. e.g. features:existing cycling network really should be features: existing cycling network

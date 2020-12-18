@@ -1,0 +1,1 @@
+ URL : "https://github.com/osate/osate-ge/issues/197" TITLE : improve binding support BODY : if the elements involved in the bindings are not shown in could be helpful to show the bindings as being connected to their containers?

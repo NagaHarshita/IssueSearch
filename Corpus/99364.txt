@@ -1,0 +1,1 @@
+ URL : "https://github.com/gnosis/dutch-exchange/issues/86" TITLE : missing closing of auction BODY : https://github.com/gnosis/dutch-exchange/blob/bde981624709412732ed3761acc96229c2f1e636/contracts/dutchexchange.sol l663 if the sell volume of the opposite auction is zero, we still have to close the auction.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/kunalsin/EMV2/issues/14" TITLE : nuke db after 24hr period BODY : - nuke all the children data from the db since all zones refresh every 24hrs - everything clears out at midnight and starts fresh at 12:01am - need to generate new secret codes for each active zone every 24hrs

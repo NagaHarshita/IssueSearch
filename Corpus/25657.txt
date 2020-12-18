@@ -1,0 +1,1 @@
+ URL : "https://github.com/MakeSchool-Tutorials/Peeved-Penguins-SpriteKit-Swift3-V2/issues/30" TITLE : 9. catapult physics BODY : action add the following to the end of your didmovetoview ... method: i foresee this being confusing for students. instead of saying to add it to the end, tell them to add it after the didmovetoview ... method.

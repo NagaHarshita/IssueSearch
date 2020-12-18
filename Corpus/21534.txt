@@ -1,0 +1,1 @@
+ URL : "https://github.com/burzyk/ShakaDB/issues/80" TITLE : fix pyshaka issues BODY : more meaningful exceptions if failed to connect fix library path issue

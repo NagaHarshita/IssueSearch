@@ -1,0 +1,1 @@
+ URL : "https://github.com/ActionFPS/ActionFPS-Game/issues/92" TITLE : codeblocks -> eclipse BODY : include eclipse project rather than codeblocks. code::blocks is deprecated, and keeps crashing on my linux.

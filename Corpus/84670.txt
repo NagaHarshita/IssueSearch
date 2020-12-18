@@ -1,0 +1,1 @@
+ URL : "https://github.com/rust-embedded/fixedvec-rs/issues/12" TITLE : difference from arrayvec? BODY : this crate is well written, and i've looked through the document, but i can't tell the difference from arrayvec, which even support intoiterator and drain. is this crate a alternative for the same purpose?

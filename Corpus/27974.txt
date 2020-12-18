@@ -1,0 +1,1 @@
+ URL : "https://github.com/fogleman/FeedNotifier/issues/91" TITLE : escaping in filters BODY : is escaping in filters supporting eg what if i want to filter by the literal text +cross if not can this be added if already can it be documented in https://www.feednotifier.com/support/keyword-filtering-guide/ could there just be an advanced option for regex in text ? thanks

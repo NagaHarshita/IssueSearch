@@ -1,0 +1,1 @@
+ URL : "https://github.com/docker/for-win/issues/400" TITLE : can't run - windows 10 BODY : expected behavior docker launches actual behavior error thrown information 3587b5ac-bb75-4f2a-9138-418f6747141c/2017-01-18_21-53-37 log.txt https://github.com/docker/for-win/files/715571/log.txt steps to reproduce the behavior 1. attempt to run 2. fail

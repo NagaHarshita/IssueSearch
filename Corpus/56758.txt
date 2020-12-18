@@ -1,0 +1,1 @@
+ URL : "https://github.com/ACEmulator/ACE/issues/287" TITLE : object streaming issue BODY : we need to key it off of more than just movement keys... example: @telepoi holtburg objects should already be there when you come out of portal, but don't appear until after you rematerialize.

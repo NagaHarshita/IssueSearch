@@ -1,0 +1,1 @@
+ URL : "https://github.com/tylerjbainbridge/MessagingApp/issues/11" TITLE : socket error handling BODY : handle errors if a message save goes wrong.

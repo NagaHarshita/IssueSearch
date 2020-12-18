@@ -1,0 +1,1 @@
+ URL : "https://github.com/HemantNegi/jquery.sumoselect/issues/233" TITLE : sels is not defined error BODY : in the settext function, sels will error out with a not defined error in typescript along with the for loop because i is not explicitly typed in typescript.

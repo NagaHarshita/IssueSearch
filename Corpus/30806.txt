@@ -1,0 +1,1 @@
+ URL : "https://github.com/lucsch/ToolMap/issues/55" TITLE : reading jpeg raster BODY : !toolmap should support reading jpeg raster. actually only tiff and esri's binary grid are supported. to limit file size user need to be able to work with jpeg rasters. _imported from trac ticket 55, created by lucsch on 08-27-2009 at 10:31, last modified: 09-03-2009 at 12:33_

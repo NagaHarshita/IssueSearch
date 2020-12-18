@@ -1,0 +1,1 @@
+ URL : "https://github.com/airbnb/react-native-maps/issues/1554" TITLE : map markers remain on map BODY : on zoom, my markers groupping changed, so, markers count and positions changed while zooming, or changing map region. some markers which must be shown disappeared, and callouts for them remains on map. screenshot https://ibb.co/kxadpv

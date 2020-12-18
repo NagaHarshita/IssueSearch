@@ -1,0 +1,1 @@
+ URL : "https://github.com/FacilMap/facilmap2/issues/82" TITLE : improve iframe api BODY : - do not focus search field when in iframe - provide parameters to hide toolbox and search - add method to connect location hash

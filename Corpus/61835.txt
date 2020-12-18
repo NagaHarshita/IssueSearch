@@ -1,0 +1,1 @@
+ URL : "https://github.com/AnoopAlias/XtendWeb/issues/272" TITLE : bug in template 5026.j2 BODY : i get an issue using cornerstone from themeco on the fastcgi microcache wp plans only way i can resolve it is do this: } try_files $uri $uri/ /index.php?$args; try_files $uri $uri/ /index.php?q=$uri&$args; } as the system works in the regular wordpress template, which has that code.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/CongWeilin/mtcnn-caffe/issues/1" TITLE : diff to original impl BODY : hi, thank you very much for making it available! i'm curious what is the difference between this and original impl? i see that you dont use roi regression in 12/24 nets and only apply it in 48net, what is the reason for that?

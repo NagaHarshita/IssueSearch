@@ -1,0 +1,1 @@
+ URL : "https://github.com/meszaros-lajos-gyorgy/brackets-scroll-past-eof/issues/1" TITLE : support for mac BODY : https://github.com/meszaros-lajos-gyorgy/brackets-scroll-past-eof/blob/master/main.js l8 doesn't give back any values on the mac version of brackets. on mac you have .codemirror instead of .codemirror-wrap as the root element

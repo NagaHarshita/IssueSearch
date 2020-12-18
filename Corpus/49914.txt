@@ -1,0 +1,1 @@
+ URL : "https://github.com/avh4/elm-format/issues/361" TITLE : use <| when possible? BODY : should this code: elm currentnamespace.class if showlabels then else labeltext automatically become: elm currentnamespace.class <| if showlabels then else labeltext

@@ -1,0 +1,1 @@
+ URL : "https://github.com/kldgarrido/flowoverstack/issues/12" TITLE : anular voto respuesta BODY : el usuario ingresa a los detalles de la pregunta y, si está autenticado y previamente ha votado por esa respuesta, hace click sobre los votos y es redireccionado a los detalles del producto nuevamente los votos de la respuesta cambian a su color original .

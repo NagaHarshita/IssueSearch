@@ -1,0 +1,1 @@
+ URL : "https://github.com/Instabug/instabug-xamarin/issues/9" TITLE : xamarin android binding BODY : maybe an idea to add the following nuget to the android binding file: https://github.com/mattleibow/xamarin.android.bindings.generators https://github.com/mattleibow/xamarin.android.bindings.generators this nuget will add te parameter names to all the methods.

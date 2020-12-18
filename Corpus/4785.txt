@@ -1,0 +1,1 @@
+ URL : "https://github.com/kamilsk/shared/issues/160" TITLE : git flow alias BODY : git flow 'message' should be git commit -m ' branch message'

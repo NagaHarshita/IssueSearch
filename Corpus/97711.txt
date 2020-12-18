@@ -1,0 +1,1 @@
+ URL : "https://github.com/dotansimha/angularjs-dropdown-multiselect/issues/371" TITLE : how to change hover color? BODY : how do i change the color on hover? the current hover style is managed by bootstrap. i could use angular.element to change that style but wanted to check if there is a better option.

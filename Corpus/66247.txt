@@ -1,0 +1,1 @@
+ URL : "https://github.com/mrstampy/Stampy/issues/14" TITLE : message data is changed BODY : when the message listener is fired stampy has removed all the ' ' characters from the message body.

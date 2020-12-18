@@ -1,0 +1,1 @@
+ URL : "https://github.com/HarryW96/INSE_Development/issues/11" TITLE : implement event searching BODY : events should be searchable by users likely by storing events in their own database, and then having a search through the table server-side and then display the event that searches the name of the event

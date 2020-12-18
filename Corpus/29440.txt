@@ -1,0 +1,1 @@
+ URL : "https://github.com/influxdata/influxdb/issues/8656" TITLE : log timeout queries BODY : feature request similar to 6429, will be useful to log which queries have crossed the query-timeout parameter and killed.

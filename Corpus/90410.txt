@@ -1,0 +1,1 @@
+ URL : "https://github.com/facebook/redex/issues/229" TITLE : setup redex error message BODY : i will get the error message as below when i run this command: ==>autoreconf -ivf && ./configure && make unable to open output file 'liblocator/.libs/locator.o': 'operation not permitted' anyone can help? thx

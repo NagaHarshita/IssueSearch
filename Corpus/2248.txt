@@ -1,0 +1,1 @@
+ URL : "https://github.com/CIRCL/AIL-framework/issues/156" TITLE : vm to update BODY : - remove auto-start in bashrc - git pull - start the web via launch

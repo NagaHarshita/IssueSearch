@@ -1,0 +1,1 @@
+ URL : "https://github.com/475Cumulus/TBone/issues/8" TITLE : api schema support BODY : add automatic schema declaration for modelresource based on model's serialisation rules. this is useful for clients who wish to declare their models and collections dynamically based on fields serialized in the resource

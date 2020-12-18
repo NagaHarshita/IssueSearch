@@ -1,0 +1,1 @@
+ URL : "https://github.com/RocketChat/Rocket.Chat/issues/8880" TITLE : minify live chat files BODY : hi! the files for /packages/rocketchat_livechat/assets/rocket-livechat.js and /packages/rocketchat_videobridge/client/public/external_api.js should really be minified for better performance; google pagespeed points it out as possible to compress.

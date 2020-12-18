@@ -1,0 +1,1 @@
+ URL : "https://github.com/JrGoodle/clowder/issues/314" TITLE : check git version BODY : determine minimum required git version and exit with error message if requirement not satisfied

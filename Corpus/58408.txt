@@ -1,0 +1,1 @@
+ URL : "https://github.com/Librerouter/Librekernel/issues/270" TITLE : shutdown again clogged BODY : after changes in /etc/rc.local moving some apps to background my qotom still shutdown ok in time, but enrique qotom again show the previous error.

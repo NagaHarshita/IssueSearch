@@ -1,0 +1,1 @@
+ URL : "https://github.com/ruanformigoni/OC2_MIPS_Processador_Pipeline/issues/3" TITLE : tratamento de hazards BODY : unidades de tratamento de hazards com stall e forwarding, devidamente testados

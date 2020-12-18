@@ -1,0 +1,1 @@
+ URL : "https://github.com/torch/torch7/issues/1031" TITLE : merge amd-hip port BODY : amd has just released their port for torch7 to amd gpus, to be found here https://github.com/rocmsoftwareplatform/cutorch_hip . please merge that code, so torch7 works on both nvidia and amd hardware.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/UM-USElab/gradecraft-development/issues/3600" TITLE : log client-side errors BODY : we currently log server-side exceptions on rollbar but not client-side. we should investigate doing this with the tools that rollbar provides.

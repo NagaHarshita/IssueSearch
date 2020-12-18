@@ -1,0 +1,1 @@
+ URL : "https://github.com/plone/plone.restapi/issues/281" TITLE : endpoint to manage history BODY : the workflow endpoint does contain the history of all workflow transition but doesn't include all revisions. the new endpoint should return all the revisions and it should also be possible to get the content of a specific revision and to restore a specific revision.

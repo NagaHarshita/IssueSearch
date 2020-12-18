@@ -1,0 +1,1 @@
+ URL : "https://github.com/juandesi/email4j/issues/5" TITLE : publish library to maven BODY : possibilities include using bintray/jcenter: https://www.jfrog.com/knowledge-base/why-should-i-use-jcenter-over-maven-central/ https://inthecheesefactory.com/blog/how-to-upload-library-to-jcenter-maven-central-as-dependency/en

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ueno/ruby-gpgme/issues/103" TITLE : release version 2.0.14? BODY : hi @ueno is it possible to release a new version of the gem containing the fix from master that solves the issue for installing this gem on ubuntu? thx!

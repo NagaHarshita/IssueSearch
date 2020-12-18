@@ -1,0 +1,1 @@
+ URL : "https://github.com/fernnando/PlanBuilder/issues/2" TITLE : refactor to use dagger 2 BODY : refactor the project to use the dagger 2 library for dependency injection.

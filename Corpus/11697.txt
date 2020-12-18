@@ -1,0 +1,1 @@
+ URL : "https://github.com/cerberustesting/cerberus-source/issues/1211" TITLE : is xpath on page BODY : hello, is it possible to implement as an extra option on conditions for executing step something like if the element is present taking as argument some xpath? this could be really handy for apk testing as i cant execute any js with appium.. thanks, best regards

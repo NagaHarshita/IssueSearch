@@ -1,0 +1,1 @@
+ URL : "https://github.com/selahattinunlu/laravel-api-query-builder/issues/18" TITLE : support for orwhere BODY : are you planning to add support for an orwhere parameter with the same operators as the where statement. its not uncommon to need a where or where query so it should be a nice addition in my opinion.

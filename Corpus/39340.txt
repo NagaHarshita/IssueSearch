@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla-services/screenshots/issues/3876" TITLE : scroll in local file BODY : normally on any webpage you can drag and scroll to take a screenshot, but this isn't working when opening a local pdf file. i can drag and take a screenshot to whatever is visible, but not scroll to include other parts of the pdf in the screenshot.

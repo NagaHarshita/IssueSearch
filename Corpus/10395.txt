@@ -1,0 +1,1 @@
+ URL : "https://github.com/megamsys/nilavu/issues/1236" TITLE : cant copy .hooks BODY : was using this command cp ./hooks ./git/.hooks and it returned me cp: cannot stat './hooks': no such file or directory

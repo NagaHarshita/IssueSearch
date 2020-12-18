@@ -1,0 +1,1 @@
+ URL : "https://github.com/rstephan/ArtnetnodeWifi/issues/4" TITLE : number of universe BODY : hello, i was not careful last time. qlab show 0 universe but i can't change it to other num... artnetnode.setstartinguniverse 2 ; - don't working, always 0 universe show :

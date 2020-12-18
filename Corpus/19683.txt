@@ -1,0 +1,1 @@
+ URL : "https://github.com/ES-DOC/esdoc-py-client/issues/11" TITLE : add scope drs info BODY : add scope drs info about dataset id, directory and filename format, through the manifest: example: cmip6 = pyesdoc.cv.load_scope 'wcrp', 'cmip6' print cmip6.data.dataset_id_template print cmip6.data.directory_format print cmip6.data.filename_format

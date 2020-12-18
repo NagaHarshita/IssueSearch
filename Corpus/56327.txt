@@ -1,0 +1,1 @@
+ URL : "https://github.com/instedd/ask/issues/552" TITLE : move auth to coherence BODY : - sign up - sign in - landing works without auth - audios are downloadable without auth - interactions with nuntium and verboice work as expected - forgot your password flow - remember me flow

@@ -1,0 +1,5 @@
+ URL : "https://github.com/crobinson42/therms-public/issues/120" TITLE : location duty entry save BODY : this is an in-app submitted user bug report user: hubbard, riley 59fb7135f07d3db5043fc972
+email: rlyhubbard@gmail.com
+organization: pro-serve protection services 59faaa40f07d3db5043fc3a6 user browser/device: useragent: mozilla/5.0 windows nt 10.0; win64; x64 applewebkit/537.36 khtml, like gecko chrome/61.0.3163.100 safari/537.36 issue described: after i fill out the necessary boxes to enter a new duty at a location, i click save and it does nothing. steps to reproduce: fill out new location duty.
+press save.
+nothing happens.

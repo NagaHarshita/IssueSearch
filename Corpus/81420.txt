@@ -1,0 +1,1 @@
+ URL : "https://github.com/nodejs/node/issues/15157" TITLE : wrong arm version number BODY : in node v8.4.0 installed from node-v8.4.0-linux-armv7l.tar.xz on armv7l raspberry pi 3 process.config.variables.arm_version = '6' should be 7

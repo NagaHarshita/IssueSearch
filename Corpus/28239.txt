@@ -1,0 +1,1 @@
+ URL : "https://github.com/piascikj/imdone/issues/481" TITLE : fix email addresses BODY : issue created with imdone.io ---- todo: fix email addresses id:92 public/lib/ace-builds/mode-svg.js:1302 https://github.com/piascikj/imdone/blob/master/public/lib/ace-builds/mode-svg.js l1302 @imdone issue creator . the developer's task board. imdone.io http://imdone.io

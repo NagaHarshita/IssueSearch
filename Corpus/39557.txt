@@ -1,0 +1,1 @@
+ URL : "https://github.com/80-20/milepost/issues/25" TITLE : simply the file name BODY : when you print to pdf, it includes the repo owner and repo name. that's unnecessary. just include the repo name. the date is in the file too, but that doesn't make it's way into the suggested name for print to pdf, so leave that as is.

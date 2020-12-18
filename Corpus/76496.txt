@@ -1,0 +1,1 @@
+ URL : "https://github.com/MartinWolke/lsp-julia/issues/6" TITLE : language server crashing BODY : i am trying to make this work, but get the following errors: https://github.com/juliaeditorsupport/languageserver.jl/issues/240

@@ -1,0 +1,1 @@
+ URL : "https://github.com/upm-space/dO2s/issues/24" TITLE : user management checklist BODY : - check that an admin can't delete another admin - do we send user a warning that the password was changed by the admin? - add roles support - decide if we allow users in the trash to log in.

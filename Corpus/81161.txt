@@ -1,0 +1,1 @@
+ URL : "https://github.com/SpookyJS/SpookyJS/issues/223" TITLE : wait for simulated click BODY : is there a way i can wait for a simulated click? so that the javascript gets executed first? with this.click '.cover' it should click on the div.

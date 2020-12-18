@@ -1,0 +1,1 @@
+ URL : "https://github.com/samuelmelkovic/SequenceSearch/issues/1" TITLE : buffer data structure BODY : since std::queue is not iterable, usage of std::deque is needed. in case if std::deque is not appropriate, i'll try implement my own data structure and compare results later.

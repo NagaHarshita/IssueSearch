@@ -1,0 +1,1 @@
+ URL : "https://github.com/reuterbal/photobooth/issues/3" TITLE : can't identify image file BODY : takes pictures then crashes despite photobooth_00.jpg existing serious error: ioerror cannot identify image file '/tmp/photobooth_00.jpg' , error: serious error!

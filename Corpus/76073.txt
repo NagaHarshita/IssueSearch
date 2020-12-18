@@ -1,0 +1,1 @@
+ URL : "https://github.com/leanprover/lean/issues/1377" TITLE : incorrect error position BODY : here is a small repro lean meta def f x : nat : nat := tt check nat -- type error is being reported here at the check if we remove meta , then the error is reported in the correct place.

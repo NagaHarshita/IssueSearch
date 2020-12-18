@@ -1,0 +1,1 @@
+ URL : "https://github.com/nextcloud/spreed/issues/412" TITLE : search for users BODY : the search for users to add to the video chat shows not only the name, but also the mail. a login can be brute forced . this is very bad.

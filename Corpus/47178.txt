@@ -1,0 +1,1 @@
+ URL : "https://github.com/Nicotine-Plus/nicotine-plus/issues/49" TITLE : ntfs support on linux BODY : n+ seems to have problems with files names on ntfs. need to investigate and find a common way to handle this with all os / filesystems. see https://github.com/nicotine-plus/nicotine-plus/issues/48

@@ -1,0 +1,1 @@
+ URL : "https://github.com/GoogleCloudPlatform/google-cloud-dotnet/issues/1314" TITLE : review ratelimiter api BODY : looking into the rate limiter test failures, i'm worried by the ratelimiter.getinstance method's semantics. i don't know whether this is related to the problem or not, but i think we should look at it again. cc @iantalarico

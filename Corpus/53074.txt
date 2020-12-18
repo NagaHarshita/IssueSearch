@@ -1,0 +1,1 @@
+ URL : "https://github.com/CodeTheCity/city-consult/issues/1" TITLE : db typo - yourdesicion BODY : yourdesicion should be yourdecision this is an artefact of an old typo. its consistent throughout the code based, so if it's fixed check for bugs.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/terascope/teraslice/issues/593" TITLE : date range slicer error BODY : between 0.16.0 and 0.17.0 some range jobs started throwing slicer errors, from 0.17.0 , could not initialize slicers, error: typeerror: updatedopconfig.start.format is not a function at updatejob /opt/teraslice/lib/readers/elasticsearch_date_range/slicer.js:161:59

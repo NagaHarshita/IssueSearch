@@ -1,0 +1,1 @@
+ URL : "https://github.com/excaliburjs/Excalibur/issues/762" TITLE : update typescript to BODY : context typescript 2.2 https://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-2.html has been released with support for mix-in classes, which would simplify the work needed for 410. proposal - update typescript to 2.2 - update typedoc

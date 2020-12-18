@@ -1,0 +1,1 @@
+ URL : "https://github.com/DistributedComponents/verdi-runtime/issues/1" TITLE : use safe string mode BODY : everything should work even when string and bytes are considered different.

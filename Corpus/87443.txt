@@ -1,0 +1,1 @@
+ URL : "https://github.com/fullflu/manzai_db/issues/4" TITLE : likes.destroy is repeated BODY : ・「自分がいいねしてない状態→いいねする→いいね取り消す→いいねする…」は正しく動く ・「自分がいいねしてる状態→いいね取り消す→いいねする」でもうまくいってほしいが、以下のエラーが表示されて画面は動かない。リロードするといいねが取り消された状態になる。つまり、いいねをdestroyしたあとでいいねボタンを押してもcreateメソッドが呼ばれていない nomethoderror undefined method destroy' for nil:nilclass : app/controllers/likes_controller.rb:17:in destroy'

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jdauphant/ansible-role-nginx/issues/161" TITLE : always_run is deprecated BODY : it is required to prefer check_mode: no

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ReactTraining/react-router/issues/4715" TITLE : actions file missing error BODY : after taking update i.e react-router-redux@next i am getting error ./actions missing from react-router-redux index.js please help

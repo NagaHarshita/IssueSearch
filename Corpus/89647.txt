@@ -1,0 +1,1 @@
+ URL : "https://github.com/subgraph/subgraph-os-issues/issues/248" TITLE : rebase subgraph on ubuntu BODY : with ubuntu going back to gnome it seems advantageous for subgraph to rebase off ubuntu and have fresher packages than debian offers in many cases plus a host of other improvements including security in the short term those usually do make it upstream to debian eventually .

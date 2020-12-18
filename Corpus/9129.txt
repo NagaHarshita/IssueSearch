@@ -1,0 +1,1 @@
+ URL : "https://github.com/craffel/theano-tutorial/issues/8" TITLE : theano.in error BODY : hi i tried to run this code but i am getting error,can you look into this issue? linear_mix = theano.function a, x, theano.in b, default=b_default , y, z typeerror: __init__ got an unexpected keyword argument 'default'

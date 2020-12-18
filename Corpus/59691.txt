@@ -1,0 +1,1 @@
+ URL : "https://github.com/enonic/xp/issues/4562" TITLE : upgrade to jetty 9.4.x BODY : upgrade to jetty 9.4.x. this will mean some rework around websockets.

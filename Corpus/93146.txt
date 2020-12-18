@@ -1,0 +1,1 @@
+ URL : "https://github.com/PAIR-code/deeplearnjs/issues/245" TITLE : add functionality for svd. BODY : we can add this under a linalg file, just like numpy does. see: https://docs.scipy.org/doc/numpy-1.13.0/reference/generated/numpy.linalg.svd.html

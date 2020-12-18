@@ -1,0 +1,1 @@
+ URL : "https://github.com/ESGF/esgf-node-manager/issues/27" TITLE : add compute to api BODY : the api should expose information about a node/site's compute capabilities. review with jason. maybe use the properties file or some other file?

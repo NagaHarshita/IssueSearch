@@ -1,0 +1,1 @@
+ URL : "https://github.com/ubuntu/ubuntu-make/issues/434" TITLE : nodejs lts version old BODY : fresh install of ubuntu 16.04 lts. installed umake version 17.03. then installed nodejs with --lts. nodejs version installed is v4.8.1. i would expect at least v6.9.1.

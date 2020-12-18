@@ -1,0 +1,1 @@
+ URL : "https://github.com/ymherklotz/YAGE/issues/5" TITLE : adding mesh support BODY : mesh a mesh is produced by dividing a sprite up into triangles, that can then be drawn more easily by the game engine, as it will not have to draw transparent pixels. this can also be combined with 4 for very efficient draw calls.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/oscarfonts/som-mapa/issues/4" TITLE : reducir tiempo de carga BODY : estamos bajando dos datasets enormes en geojson, mezclándolos en cliente, etc. estamos procesando todo el geojson también en cliente. optimizar datos. seguramente implique generar vector tiles, al vuelo o precocinadas.

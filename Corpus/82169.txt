@@ -1,0 +1,1 @@
+ URL : "https://github.com/vlabo/Godot_rope_addon/issues/1" TITLE : add licensing information BODY : you mentioned that the addon is under the mit license on https://godotengine.org/asset-library/asset/edit/235, but it's not visible in the downloaded files. please add a license file with the license text, see https://choosealicense.com/

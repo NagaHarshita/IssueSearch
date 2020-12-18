@@ -1,0 +1,1 @@
+ URL : "https://github.com/julsam/VineScript/issues/4" TITLE : allow escaping tags BODY : escaping those characters should be allowed: - {{ and }} print - {% and %} code statements - { and } block comment 1 - {? and ?} block comment 2 - \ or \ inline comment

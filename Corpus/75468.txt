@@ -1,0 +1,1 @@
+ URL : "https://github.com/brianwernick/ExoMedia/issues/428" TITLE : hls dvr playback problem BODY : in defualt exoplayer, dvr starts end of the dvr. for the first time opening, i can backward the stream. this version i only backward the watched scenes.

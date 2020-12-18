@@ -1,0 +1,1 @@
+ URL : "https://github.com/ebanx/woocommerce-gateway-ebanx/issues/390" TITLE : payments with instalments BODY : we need to check the payments with instalments. some customers are reporting that their payments are processing in cash 1x . this is very important thing to consider. we need to check if the libjs may be related.

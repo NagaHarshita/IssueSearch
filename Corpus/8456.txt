@@ -1,0 +1,4 @@
+ URL : "https://github.com/CjMoore/Weasley-wizarding-wheezes/issues/124" TITLE : on admin orders BODY : - change button from sort orders to filter
+- fix order status table to display canceled
+- fix link to admin_order_path
+- link on admin order detail link to admin items not items

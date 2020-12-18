@@ -1,0 +1,1 @@
+ URL : "https://github.com/kumabook/bebop/issues/39" TITLE : handle multiple candidates BODY : some command delete tabs can work for multiple candidates. - shift+up, shift+down - ctrl+space + up, down

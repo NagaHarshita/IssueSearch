@@ -1,0 +1,1 @@
+ URL : "https://github.com/bahmutov/next-update-travis/issues/7" TITLE : make pure function BODY : if just loading postinstall.js via require, make sure it does not exit the process!

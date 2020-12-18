@@ -1,0 +1,1 @@
+ URL : "https://github.com/MaslowCNC/GroundControl/issues/362" TITLE : goto number entry BODY : the goto button opens a number entry, but there is no explicit close button for those that might be using a touch screen an easy way to cancel to action by clicking a button would be convenient.

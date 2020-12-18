@@ -1,0 +1,1 @@
+ URL : "https://github.com/MozillaCZ/mozilla-latest-version/issues/46" TITLE : generate product archive BODY : - stable versions with release dates https://product-details.mozilla.org/1.0/firefox_history_major_releases.json - minor versions with release dates https://product-details.mozilla.org/1.0/firefox_history_stability_releases.json note the data do not include file size.

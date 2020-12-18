@@ -1,0 +1,1 @@
+ URL : "https://github.com/IEMLdev/ieml/issues/36" TITLE : remove print calls BODY : not persistent, should use logs instead. moreover, raise an error on aws as the python process is not bound to a terminal.

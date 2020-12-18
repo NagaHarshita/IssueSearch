@@ -1,0 +1,1 @@
+ URL : "https://github.com/golemfactory/homebrew-golem/issues/6" TITLE : warning c++ standard BODY : warning: golemfactory/golem/golem dependency golemfactory/hyperg/hyperg was built with a different c++ standard library libstdc++ from clang . this may cause problems at runtime.

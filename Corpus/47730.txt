@@ -1,0 +1,5 @@
+ URL : "https://github.com/NSI-IT/AUG-DDMOBILE/issues/39" TITLE : project files history BODY : as a user i would like to view folder/files history so that i may know what is happening on a folder/file. - verify that trail will be maintained of the following actions:- 1. <who> created a folder <folder> and when.
+2. <who> moved a folder <folder> and when.
+3. <who> modified a folder <folder> and when. - verify that i can filter history records by following:- 1. all 2. created
+3. modified
+4. moved

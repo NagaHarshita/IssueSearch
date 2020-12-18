@@ -1,0 +1,1 @@
+ URL : "https://github.com/orionhealth/XBDD/issues/34" TITLE : highlight gherkin keywords BODY : it would be great if xbdd could highlight the gherkin keywords ie given, when, then - even if bolded. this would make it much easier to read. the html already has class wrappers around them.

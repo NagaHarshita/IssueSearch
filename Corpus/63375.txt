@@ -1,0 +1,1 @@
+ URL : "https://github.com/hidroh/materialistic/issues/989" TITLE : doesn't work from china BODY : the hn website works just fine from mainland china, but the materialistic app doesnt work at all for some reason. maybe it relies on fetching something from google? like javascript let me know if i can help debug this

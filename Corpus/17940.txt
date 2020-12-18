@@ -1,0 +1,1 @@
+ URL : "https://github.com/Diamondshell/CS546Final/issues/17" TITLE : save to favorites BODY : when the user clicks save to favorites, a request should be sent to the server. the server should add the recipe to the users favorites, and respond with some sort of ok message. on reciept of ok, the recipe page should change save to favorites to saved to favorites

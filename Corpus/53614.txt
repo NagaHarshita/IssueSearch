@@ -1,0 +1,1 @@
+ URL : "https://github.com/ebergam/halley2RSS/issues/4" TITLE : enclosure tags missing BODY : from albopop specs: http://albopop.it/specs/ tag-enclosure. it's a recommended tag, so it's mandatory if there is an attachment on the original source.

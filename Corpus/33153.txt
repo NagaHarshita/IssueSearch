@@ -1,0 +1,1 @@
+ URL : "https://github.com/PythonNut/virtualbox-remote-snapshots/issues/30" TITLE : add a migrate action BODY : instead of using a transient snapshot, just save the vm state to disk and power it down. no cleanup needed afterward.

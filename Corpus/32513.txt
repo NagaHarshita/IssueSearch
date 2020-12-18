@@ -1,0 +1,1 @@
+ URL : "https://github.com/ecb-home/ecb/issues/35" TITLE : using ecb with helm BODY : add helm\\. to ecb-compilation-buffer-names doesn't have effect. i noticed there's a helm-display-function can be customized. is there some ecb functions i can use as helm-display-function , that will always show helm in ecb compilation buffer? thanks.

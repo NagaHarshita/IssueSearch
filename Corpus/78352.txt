@@ -1,0 +1,1 @@
+ URL : "https://github.com/xabre/xamarin-bluetooth-le/issues/203" TITLE : problem of speed reading BODY : hello, size = 32 when i do await sock.inputstream.readasync buffer2, 0, size ; i receive the data but not in real time, there is a delay, as if the buffer was long to get empty. maybe the emitter send too much of data ? could you help ? thank you, christophe

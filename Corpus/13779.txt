@@ -1,0 +1,1 @@
+ URL : "https://github.com/wangfupeng1988/wangEditor/issues/598" TITLE : 按 enter 换行 BODY : 编辑器里按 enter 换行，默认加入的是 <p></p> 中间的空比较大。怎么样让他默认用<br />换行。

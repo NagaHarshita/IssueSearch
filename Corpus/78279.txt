@@ -1,0 +1,1 @@
+ URL : "https://github.com/open-power/op-build/issues/1430" TITLE : ppc64_cpu in petitboot ? BODY : there might be good reason for this. but in power8 or power9 servers barreleye i can't seem to get ppc64_cpu frequency or smt to get out an meaningful output looks different cores are different smt states . can someone please explain the reason for this, in a bit of detail ?

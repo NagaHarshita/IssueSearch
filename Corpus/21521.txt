@@ -1,0 +1,1 @@
+ URL : "https://github.com/buttercup-pw/buttercup-browser-extension/issues/53" TITLE : fix linting errors BODY : there's a huge number of linting errors. fix these and or update the rules to something sensible.

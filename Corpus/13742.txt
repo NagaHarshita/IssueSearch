@@ -1,0 +1,1 @@
+ URL : "https://github.com/andriyshevchenko/FastXml/issues/23" TITLE : xml comment node BODY : xml comment node should be added only if it's located inside some other tag, for example the following: csharp <node> <!--comment--> </node> should be added, and: csharp <?xml version= 1.0 ?> <!--comment--> <node/> should be ignored by the parser.

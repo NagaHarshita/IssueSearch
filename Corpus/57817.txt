@@ -1,0 +1,1 @@
+ URL : "https://github.com/digitallinguistics/spec/issues/116" TITLE : remove lexicon schema? BODY : forcing users to rely on the language schema means that the lexicon will always have related language data included along with it.

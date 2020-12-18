@@ -1,0 +1,1 @@
+ URL : "https://github.com/chaosbot/chaos/issues/237" TITLE : indent bug in chaos.py BODY : when i run python3 chaos.py, i have this error: root@vagrant-ubuntu-trusty-64:/vagrant python3 chaos.py file chaos.py , line 61 logging.getlogger requests .propagate = true ^ indentationerror: unindent does not match any outer indentation level

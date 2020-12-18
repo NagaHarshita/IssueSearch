@@ -1,0 +1,1 @@
+ URL : "https://github.com/ihhub/penguinV/issues/52" TITLE : image borders in cuda BODY : we use only one dimension in cuda kernels to execute operations on image but according cuda specification for devices lower than 3.0 computation version maximum resolution per x axis is only 65535 .

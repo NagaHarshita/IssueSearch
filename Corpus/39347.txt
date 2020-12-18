@@ -1,0 +1,1 @@
+ URL : "https://github.com/ddalthorp/GenEst/issues/40" TITLE : se_model_fit $kmodel BODY : when the k value is fixed at a particular value 0.7, say , the function now returns $kmodel = k ~ 1 at the top of the list and $fixed_k = 0.7. the k ~ 1 is not correct and should either be corrected or removed entirely.

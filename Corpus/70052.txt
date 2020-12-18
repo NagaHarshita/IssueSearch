@@ -1,0 +1,1 @@
+ URL : "https://github.com/kiwix/kiwix-js/issues/270" TITLE : update require to 2.3.3 BODY : tested and working in edge and firefox. see rationale and drawbacks in 268.

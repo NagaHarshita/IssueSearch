@@ -1,0 +1,1 @@
+ URL : "https://github.com/featherplain/amethyst/issues/183" TITLE : remove deprecated tags BODY : theme check 20160523.1 says: warning: the tag white has been deprecated, please remove it from your style.css header. warning: the tag responsive-layout has been deprecated, please remove it from your style.css header. we should remove white and responsive-layout .

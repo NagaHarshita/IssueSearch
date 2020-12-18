@@ -1,0 +1,1 @@
+ URL : "https://github.com/archco/cosmos-css/issues/98" TITLE : new module - chip BODY : chip inline-block 으로 작은 정보를 표시 contact, tag 에 주로 쓰인다. close 가 구현되야하므로 js module로 한다.

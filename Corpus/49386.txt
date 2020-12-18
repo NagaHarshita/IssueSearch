@@ -1,0 +1,1 @@
+ URL : "https://github.com/tiredpixel/postgres-xl-docker/issues/6" TITLE : thought: pooler ports BODY : what is the role of the pooler ports, and do they work properly?

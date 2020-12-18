@@ -1,0 +1,1 @@
+ URL : "https://github.com/pennmush/pennmush/issues/1124" TITLE : strreplace help file BODY : the help file is unclear and makes the function appear to act just like lreplace. the example used is very confusing and does not follow example used in other str functions. i think replacing the example using an abc string would make things less confusing.

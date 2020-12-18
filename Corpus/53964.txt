@@ -1,0 +1,1 @@
+ URL : "https://github.com/vikeri/react-native-background-job/issues/14" TITLE : fallback for api < 21? BODY : hey, is there any chance to implement a fallback for api < 21, i belive it is alarmmanager? https://developer.android.com/reference/android/app/alarmmanager.html

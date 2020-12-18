@@ -1,0 +1,1 @@
+ URL : "https://github.com/larkintuckerllc/futusign-wordpress/issues/19" TITLE : possible memory leak BODY : observed that after 5 days of operation, the computer running the screen unexpectedly locked up. monitoring memory usage appears to show that there is a slow memory leak. a temporary work-around is to have the computer reboot on a cycle; say nightly.

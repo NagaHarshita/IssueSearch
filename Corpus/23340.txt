@@ -1,0 +1,1 @@
+ URL : "https://github.com/griffinfoster/fundamentals_of_interferometry/issues/95" TITLE : page 6.2 is broken BODY : page 6.2 on clean introduction does not load. > notjsonerror 'notebook does not appear to be json: u\'{\ cells : \ {\ cell_type : ...',

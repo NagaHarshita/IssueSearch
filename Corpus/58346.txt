@@ -1,0 +1,1 @@
+ URL : "https://github.com/open-austin/influence-texas/issues/20" TITLE : setup database backups BODY : now that we are storing information in a central location, we should ensure that regular backups are occurring to enable disaster recovery.

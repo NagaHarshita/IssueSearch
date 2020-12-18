@@ -1,0 +1,1 @@
+ URL : "https://github.com/dartmouth-cs52-17S/project-api-roommatefinder/issues/4" TITLE : implement user controller BODY : actions: sign in - signs a user into the app and returns a token sign up - signs up a new user into the app

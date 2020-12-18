@@ -1,0 +1,1 @@
+ URL : "https://github.com/danfrz/PLEBTracker/issues/14" TITLE : refactor byt/seg BODY : bytes per row is exactly what the number is, bytes is vague. hold on. it's only bytes per row for 8 bit implementation. shouldn't it be samples per row? regardless. refactor this.

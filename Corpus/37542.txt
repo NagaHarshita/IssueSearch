@@ -1,0 +1,1 @@
+ URL : "https://github.com/CalebJohn/potential-fortnight/issues/77" TITLE : menu buttons signals BODY : why are the menu buttons connected through script instead of using signals in the editor? if it's a preference thing that's fine, i just want to make sure i follow the same way in the future.

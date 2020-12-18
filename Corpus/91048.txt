@@ -1,0 +1,1 @@
+ URL : "https://github.com/ethereum/solidity/issues/1601" TITLE : support returning structs BODY : - modify type system to allow functions that return structs - write the struct encoder

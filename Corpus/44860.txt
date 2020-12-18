@@ -1,0 +1,1 @@
+ URL : "https://github.com/josepharhar/MeleeAuthority/issues/8" TITLE : frame strip numbering BODY : frame strip numbers are starting at zero, but by convention they should start at 1

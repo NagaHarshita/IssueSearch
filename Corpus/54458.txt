@@ -1,0 +1,1 @@
+ URL : "https://github.com/agladstein/SimPrily/issues/6" TITLE : genome or pseudo array BODY : if -sample -discovery and -daf are not included in model file, correctly run without doing any ascertainment stuff. basic code is written - need to check that it works correctly.

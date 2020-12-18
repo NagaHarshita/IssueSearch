@@ -1,0 +1,1 @@
+ URL : "https://github.com/IdanCo/ng1bs4/issues/6" TITLE : new component - tooltip BODY : create a tooltip component based on http://v4-alpha.getbootstrap.com/components/tooltips/ get inspired by - https://angular-ui.github.io/bootstrap/ ! tooltip http://mgcrea.github.io/angular-strap/ /tooltips https://ng-bootstrap.github.io/ /components/tooltip/api

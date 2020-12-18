@@ -1,0 +1,1 @@
+ URL : "https://github.com/CanopyTax/single-spa-examples/issues/33" TITLE : create ember example BODY : see https://medium.com/@tomsoderlund/bret-i-must-say-single-spa-is-the-best-solution-for-micro-frontends-ive-seen-so-far-fb1693b485de. we should add an ember example, which may include publishing a single-spa-ember helper library.

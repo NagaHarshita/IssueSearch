@@ -1,0 +1,1 @@
+ URL : "https://github.com/sensortower/sidekiq-throttled/issues/41" TITLE : allow extend lock's life BODY : something like: ruby class myjob include sidekiq::worker include sidekiq::throttled::worker sidekiq_throttled :concurrency => { :limit => 1, :ttl => 11.minutes } def perform 5.times do sleep 10.minutes ping! end end end

@@ -1,0 +1,1 @@
+ URL : "https://github.com/JeffDarchuk/SCTokenManager/issues/14" TITLE : eliminate inline js BODY : e.g. <script>var tmdatasource='{79abf833-6af1-4cbe-a9b3-16e7b978faa0}';</script> this is generally objectionable to csp.

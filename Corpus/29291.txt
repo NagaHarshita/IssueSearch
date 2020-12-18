@@ -1,0 +1,1 @@
+ URL : "https://github.com/alexjlockwood/gcm/issues/19" TITLE : lastest gcm version BODY : key google.sent_time expected string but value was a java.lang.long. the default value <null> was returned.

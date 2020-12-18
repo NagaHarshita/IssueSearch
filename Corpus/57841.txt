@@ -1,0 +1,1 @@
+ URL : "https://github.com/raster-foundry/raster-foundry/issues/2568" TITLE : remove unused dropdown BODY : problem description the dropdown in the lab is not functional yet -- comment it out for now. ! remove-these https://user-images.githubusercontent.com/898060/30863165-552b2198-a29e-11e7-88a2-2eeb45a095d0.png

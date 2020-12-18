@@ -1,0 +1,1 @@
+ URL : "https://github.com/python-mode/python-mode/issues/769" TITLE : old version of pylint BODY : good day. maybe i misunderstood something, but how can you use pylint version 1.4.4 ? it doesn't work at all with python3 . maybe it should be updated? or we can try to use git submodules instead of copy and paste pylint source code. thanks!

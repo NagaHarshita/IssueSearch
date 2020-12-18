@@ -1,0 +1,1 @@
+ URL : "https://github.com/opesci/devito/issues/362" TITLE : verison for pip BODY : shouldn't the version in the setup.py be the stable release one like v3.0.3 currently instead of latest master?

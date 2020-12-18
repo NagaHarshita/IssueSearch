@@ -1,0 +1,1 @@
+ URL : "https://github.com/SirLagz/raspap-webgui/issues/3" TITLE : add routing web interface BODY : add something to allow users to select which is the 'wan' interface and which is the 'lan' interface. write page to set up iptable rules

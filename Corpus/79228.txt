@@ -1,0 +1,1 @@
+ URL : "https://github.com/Przemol/seqplots/issues/25" TITLE : scaling data on profiles BODY : hi, i would need to scale the y-axis between 0 and 1 on the profiles modifying the values not just changing the scale . is there a way to modify the data? or could you provide an option for this? thank you very much.

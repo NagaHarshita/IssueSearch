@@ -1,0 +1,1 @@
+ URL : "https://github.com/simpeg/discretize/issues/57" TITLE : pinned sphinx version BODY : in 601, we pinned to sphinx version 1.5.6 as there was a change in the sphinx api that is incompatible with the most recent sphinx gallery. once sphinx-gallery/sphinx-gallery 241 closes, we can release that and move to the updated sphinx.

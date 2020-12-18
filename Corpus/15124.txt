@@ -1,0 +1,1 @@
+ URL : "https://github.com/bijou/bijou-server/issues/3" TITLE : create api server BODY : - create aiohttp.web application - connect with graphql graphene schema as aiohttp.web.middleware - basic support for static content - support configuration coming from all sources

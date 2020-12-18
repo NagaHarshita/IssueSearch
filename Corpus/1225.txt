@@ -1,0 +1,1 @@
+ URL : "https://github.com/akyuujs/akyuu-schedule/issues/2" TITLE : log no task BODY : using akyuu.logger not console.log . 2017-03-15 16:03:37.554 info controller-loader - directory / loaded. no task 2017-03-15 16:03:37.555 info plugin-loader - after_controller plugin akyuu-schedule plugged.

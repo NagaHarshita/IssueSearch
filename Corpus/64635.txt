@@ -1,0 +1,1 @@
+ URL : "https://github.com/mycloudrevolution/VmConfigTrigger/issues/2" TITLE : handle vm poweron error BODY : in case of a problem with vm start task a error should be written.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jmball/Automated_PV_Measurement/issues/5" TITLE : refactor labview program BODY : the codebase has been written on an ad hoc basis, which makes it difficult to read. it should be refactored to improve readability.

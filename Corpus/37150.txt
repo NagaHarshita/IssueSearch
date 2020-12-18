@@ -1,0 +1,1 @@
+ URL : "https://github.com/SocialiteProviders/Providers/issues/124" TITLE : laravel 5.5 question BODY : i see in the docs that you, you may need to remove laravel\socialite\socialiteserviceprovider but by default in laravel 5.5 the socialiteserviceprodiver is being loaded... how can i disabled it then?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/auroraboreibis/blackjack-cli/issues/1" TITLE : dealer hand prints twice BODY : example output: do you want to h it or s tay? s you've chosen to stand. dealer's hand: seven of hearts ten of hearts dealer's hand: seven of hearts ten of hearts your hand: queen of diamonds seven of clubs it's a tie, the dealer wins.

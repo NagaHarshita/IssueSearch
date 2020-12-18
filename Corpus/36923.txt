@@ -1,0 +1,1 @@
+ URL : "https://github.com/dereuromark/cakephp-ide-helper/issues/2" TITLE : introspect the class BODY : find all $this->loadmodel calls and also append them into the annotations for controllers and shells.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/fga-gpp-mds/Falko-2017.2-FrontEnd/issues/289" TITLE : arrumar o alerta de sprint BODY : comportamento esperado a sprint deveria alertar somente se a retrospectiva não tivesse sido criada após o fim da sprint. comportamento atual a sprint alerta só quando acaba a sprint. checklist - x a issue possui labels. - x a issue possui nome significativo.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/gerryai/pddl-parser/issues/3" TITLE : import into eclipse BODY : hi, i'm trying to import your work in eclipse but it doesn't work because, after importing, eclipse can't resolve com.google dependencies. can you help me please? thanks

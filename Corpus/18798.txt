@@ -1,0 +1,1 @@
+ URL : "https://github.com/codeforamerica/intake/issues/789" TITLE : update user mocks BODY : move user mocks from fixtures to factories.

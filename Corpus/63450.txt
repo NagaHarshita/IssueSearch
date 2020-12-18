@@ -1,0 +1,1 @@
+ URL : "https://github.com/akabekobeko/npm-cross-conf-env/issues/20" TITLE : drop transpile by babel BODY : es 2015 support improved in node v 6 and later. since this npm uses only the function of es2015, transpile by babel is unnecessary. however, as import is not supported, it is necessary to change to require .

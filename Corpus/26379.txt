@@ -1,0 +1,1 @@
+ URL : "https://github.com/ros-infrastructure/mirror/issues/7" TITLE : arm64 not supported BODY : i think this is an issue upstream to be tracked down: https://github.com/ros-infrastructure/mirror/commit/3fbb8315bdb4cf683360cfba197e41c5617fd692

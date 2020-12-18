@@ -1,0 +1,1 @@
+ URL : "https://github.com/ContinuumIO/anaconda-issues/issues/7860" TITLE : navigator reset error BODY : the log of anaconda-navigator --reset is: anaconda navigator configuration reset... anaconda navigator configuration reset failed!!! error 32 : u'c:\users\wangzizhen.anaconda avigator\logs avigator.log

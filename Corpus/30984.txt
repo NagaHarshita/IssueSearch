@@ -1,0 +1,1 @@
+ URL : "https://github.com/internet4000/radio4000-api/issues/29" TITLE : replace stripe keys BODY : with the firebase cli we'll have to replace the stripe keys to the live version. also for that we need a valid legal status of an organisation or private person in one country that stripe supports.

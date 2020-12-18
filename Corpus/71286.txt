@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla/addons-frontend/issues/2459" TITLE : add build step to travis BODY : since jest side-steps webpack we should add a build step to the list of travis tasks so that we know if the build breaks.

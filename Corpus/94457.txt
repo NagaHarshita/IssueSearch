@@ -1,0 +1,1 @@
+ URL : "https://github.com/cfce/chilin/issues/3" TITLE : cannot find command chilin BODY : hi everyone, i followed all of the steps to install chilin. however, after i source the virtual environment, when i try to run chilin -h, it says chilin_env ccag@ares bin $ chilin -bash: chilin: command not found what might have happened here?

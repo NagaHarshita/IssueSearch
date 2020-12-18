@@ -1,0 +1,1 @@
+ URL : "https://github.com/talonframework/talon/issues/38" TITLE : add travis to the project BODY : configure the project on travis to run tests.

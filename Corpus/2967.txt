@@ -1,0 +1,1 @@
+ URL : "https://github.com/topepo/caret/issues/752" TITLE : gafs too slow BODY : hi i'm trying to use gafs for feature selection and it's really too slow. i want to know the speed of others to check whether it is the package's fault. also it would be great if there's a counter to print out the current iteration so i can know the current progress.

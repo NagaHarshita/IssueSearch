@@ -1,0 +1,1 @@
+ URL : "https://github.com/bristolcrypto/SPDZ-2/issues/9" TITLE : online vs offline phase BODY : i saw in the code that in online phase i can make a simple sum between two parties. but i want to make this against to malicious attackers... this is only possible in offline phase mascot right? how can i do this?

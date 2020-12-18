@@ -1,0 +1,8 @@
+ URL : "https://github.com/nadcock/CSC478-SOC-Game/issues/24" TITLE : game play template BODY : - layout for how the game looks
+-- game.jinja2
+- add fields for:
+-- resources
+-- players
+-- gate stats
+- consider bootstrap template for managing the css
+-- bootswatch.com has a lot of templates for free

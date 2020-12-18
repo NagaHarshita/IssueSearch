@@ -1,0 +1,1 @@
+ URL : "https://github.com/PaddlePaddle/Paddle/issues/2952" TITLE : naming in tensor_types.h BODY : 1. struct ttype ==> struct eigen 1. remove flat , which is identical to vec . 1. rename vec to complete word vector .

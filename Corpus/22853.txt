@@ -1,0 +1,1 @@
+ URL : "https://github.com/FS1360472174/nosql-mongo/issues/41" TITLE : mongo remove index BODY : org.springframework.dao.invaliddataaccessapiusageexception: command execution failed: error collection or index disappeared when cursor yielded: operationfailed: operation aborted because: index 'ttl' dropped ,

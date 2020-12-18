@@ -1,0 +1,1 @@
+ URL : "https://github.com/USGS-Astrogeology/PySAT/issues/36" TITLE : windows ci testing BODY : as a developer, all of my prs are tested using pytest on a windows continuous integration env. dod: the appveyor environment is setup up and running on all prs.

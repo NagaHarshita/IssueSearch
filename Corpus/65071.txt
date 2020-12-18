@@ -1,0 +1,1 @@
+ URL : "https://github.com/timeeeee/secure-chat/issues/4" TITLE : implement aes utilities BODY : check aes_encrypt and aes_decrypt in crypt_utils.py. these were implemented years ago and i do not know how key length works here. write tests and make sure they're passing.

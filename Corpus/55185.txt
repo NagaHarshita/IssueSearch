@@ -1,0 +1,1 @@
+ URL : "https://github.com/Giswater/giswater_qgis_plugin/issues/166" TITLE : improve error messages BODY : error messages will appear in the form instead of the strip on the top of a map.

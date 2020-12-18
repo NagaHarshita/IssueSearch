@@ -1,0 +1,1 @@
+ URL : "https://github.com/archesproject/arches/issues/1942" TITLE : modify v3 skos exporter BODY : modify/create new skos exporter in arches v3 that exports skos that preserves valueids and conceptids from v3 and can be imported by v4.

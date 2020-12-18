@@ -1,0 +1,1 @@
+ URL : "https://github.com/k2workflow/Chasm/issues/144" TITLE : c 7.2 features BODY : optimize sha1 methods in parameters a couple of small bugs nuget see reference semantics with value types https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-7-2 reference-semantics-with-value-types

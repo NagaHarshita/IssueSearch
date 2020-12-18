@@ -1,0 +1,1 @@
+ URL : "https://github.com/veox/python3-krakenex/issues/57" TITLE : pip3 for python3? BODY : hi, i'm new to python and struggled following the installations https://github.com/veox/python3-krakenex/blob/master/readme.rst installation . i figured out though, that using pip3 install krakenex instead of pip ... worked out. is this normal? has the readme to be edited? thanks :-

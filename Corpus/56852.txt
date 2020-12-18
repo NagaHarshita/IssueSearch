@@ -1,0 +1,1 @@
+ URL : "https://github.com/JeevanJames/web-themer/issues/5" TITLE : optimize asset copying BODY : instead of copying all assets on every build, which can hit performance, copy only newer or changed assets. make this the default, but provide an option to delete the output folder and copy everything again.

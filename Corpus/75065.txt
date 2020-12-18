@@ -1,0 +1,14 @@
+ URL : "https://github.com/computerjazz/sentrytest/issues/8" TITLE : fwd: testing sentrybot 2 BODY : new alert from async hma-mobile.
+view on sentry image:
+sentry new alert from async hma-mobile issue
+fatal
+error testing sentrybot: 2017-07-15t00:31:45.198z
+id: fd775c44f83c491c86b69a31d83f5bda
+july 15, 2017, 12:31:45 a.m. utc
+exception error: testing sentrybot: 2017-07-15t00:31:45.198z file app:///index.ios.bundle , line 150550 file app:///index.ios.bundle , line 2089, in calltimer file app:///index.ios.bundle , line 2118, in calltimers file app:///index.ios.bundle , line 1973, in __callfunction file app:///index.ios.bundle , line 1833
+... 2 additional frame s were not displayed user
+ip address: 65.203.133.225
+tags - app.device = 9122caf9bc302e96cd0ec7f38dade2a6f5bae08b - device = iphone9,1 - device.family = ios - environment = test - level = fatal - logger = javascript - os = ios 10.3 - os.name = ios - os.rooted = no - sentry:dist = 139 - sentry:release = dev.hyundai.drive-1.13.0 - sentry:user = ip:65.203.133.225 you are receiving this email due to matching rules: event is first seen home notification settings · unsubscribe
+<br><br>
+via email <br>
+july 17, 2017 at 11:43am

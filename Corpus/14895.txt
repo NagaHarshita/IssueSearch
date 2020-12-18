@@ -1,0 +1,1 @@
+ URL : "https://github.com/conan-io/conan/issues/1828" TITLE : check deb package BODY : module text seems to fail

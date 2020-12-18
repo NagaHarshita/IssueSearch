@@ -1,0 +1,1 @@
+ URL : "https://github.com/hkraal/ssht/issues/7" TITLE : handle parser timeouts BODY : when using the mysql parser which connects to a host which isn't reachable from other locations ssht will stall without feedback to the user, this needs to be improved.

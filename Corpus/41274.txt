@@ -1,0 +1,1 @@
+ URL : "https://github.com/jwilm/alacritty/issues/341" TITLE : -e command cli option BODY : it would be convenient to have this option for launching console apps tmux, mc, etc .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/HansomGuys/netrouter/issues/19" TITLE : close the port BODY : after restarting spring frame work, the port 9123 should be restarted.

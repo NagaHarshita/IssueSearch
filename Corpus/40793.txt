@@ -1,0 +1,1 @@
+ URL : "https://github.com/sociomantic-tsunami/flounder/issues/151" TITLE : utils remove microbe BODY : i ❤️ µ, but tbh it's only in utils and only as the http. it would be better to move away from µ and embrace fetch as the standard way of url retreival. since ie has no fetch support we can include whatwg-fetch as a polyfill

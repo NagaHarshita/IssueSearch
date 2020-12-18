@@ -1,0 +1,1 @@
+ URL : "https://github.com/rocknsm/rock/issues/99" TITLE : root not disabled BODY : the current documents have the new user as being added to the wheel group and root disabled. i did not find that to be the case in a fresh install from the iso today.

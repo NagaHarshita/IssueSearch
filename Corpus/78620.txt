@@ -1,0 +1,1 @@
+ URL : "https://github.com/CZ-NIC/python-rt/issues/9" TITLE : queue like functionality BODY : rt 4.4.2 now supports a like for queue names. might be a nice intermediate between queue='blorp' and queue=rt.all_queues. if i get time i'll fork and add.

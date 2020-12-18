@@ -1,0 +1,1 @@
+ URL : "https://github.com/intel-cloud/cosbench/issues/371" TITLE : driver hanging during boot BODY : i recently installed cosbench version 0.4.2.3 on debian jessie vm. cosbench hangs after starting cosbench, using script start-all.sh, the screen-log is - launching osgi framwork ... successfully launched osgi framework! booting cosbench driver ... is it a known issue? any fix?

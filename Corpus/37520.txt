@@ -1,0 +1,1 @@
+ URL : "https://github.com/marqs85/db9_gpio_rpi/issues/1" TITLE : mega drive 6 buttons BODY : hi super work fine thanks i have a problem with the 6 button joystick the butons xyz y mode dont work . im using options db9_gpio_rpi map=6,6 the others butons work fine

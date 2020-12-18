@@ -1,0 +1,1 @@
+ URL : "https://github.com/karlliang/dma/issues/8" TITLE : variable type is wrong BODY : register read/write function is unsigned. define write_reg_qword reg,val { \ - reg = _int64_t val; } + reg = _uint64_t val; } define read_reg_byte reg,var { \ - var = int8_t reg; } + var = uint8_t reg; }

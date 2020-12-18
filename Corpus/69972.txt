@@ -1,0 +1,1 @@
+ URL : "https://github.com/silverstripe/cwp-core/issues/1" TITLE : update codebase for ss4 BODY : use namespace silverstripe\cwpcore . sub-tasks can be added separately or as items in a checklist on this issue.

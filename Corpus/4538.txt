@@ -1,0 +1,1 @@
+ URL : "https://github.com/DCC-org/documents/issues/217" TITLE : doc session 10 BODY : 4.3 datenvisualisierung in der ziellösung von diesem projekt ist ein rein lesender datenhaltungszugriff für die weboberfläche vorgesehen. dies wird durch den datenhaltungssystemadministrator gewährleistet. der satz stimmt nicht mehr . wir arbeiten über reine api.

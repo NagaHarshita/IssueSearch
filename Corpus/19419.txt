@@ -1,0 +1,1 @@
+ URL : "https://github.com/angelleye/wp-paypal-marketing-solutions/issues/15" TITLE : add analytics tags BODY : looks like we're missing some fields in the request that we need to add, highlighted in green: ! image https://user-images.githubusercontent.com/629241/33349752-1da7b5ca-d461-11e7-8369-ddb1284f599d.png

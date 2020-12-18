@@ -1,0 +1,1 @@
+ URL : "https://github.com/fervisa/cerberus/issues/1" TITLE : handle redirect url BODY : when trying to access restricted contents, redirect to original url after successfully logging in

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ampproject/amp-by-example/issues/851" TITLE : playground throws a 404 BODY : when you visit https://ampbyexample.com/playground/ https://ampbyexample.com/playground/ the right side just shows 404 page not found .

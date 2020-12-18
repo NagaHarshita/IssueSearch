@@ -1,0 +1,1 @@
+ URL : "https://github.com/wangshuangkc/HeadFirstDesignPatterns/issues/13" TITLE : activate the remote serice BODY : as a remote proxy, i want to set up the stubs and skeletons, start the registry, so that the remote service is available for clients. acceptance criteria - generate stubs and skeletons - start the rmi registry - start the remote service

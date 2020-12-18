@@ -1,0 +1,1 @@
+ URL : "https://github.com/agraubert/agutil/issues/121" TITLE : improve socket handshakes BODY : the protocol identification scheme has always felt a little weak to me. i'd like to improve it a bit, mainly by defining one end as the server and the other end as the client. hopefully this will help with some edge-case race conditions when sockets are opened rapidly

@@ -1,0 +1,1 @@
+ URL : "https://github.com/desktop/desktop/issues/1686" TITLE : large file diffs freeze BODY : description when you click on the filename on the left, to look at diff, and if the diff is really large for example, compiled javascript bundle the application will freeze for 30-60 seconds. version github desktop version: 0.5.5 os version: 10.12.4

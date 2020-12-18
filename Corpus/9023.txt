@@ -1,0 +1,1 @@
+ URL : "https://github.com/coosto/ShortcutJS/issues/24" TITLE : support tab key BODY : tab key keycode 9 is not currently supported as a trigger

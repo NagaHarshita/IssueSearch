@@ -1,0 +1,1 @@
+ URL : "https://github.com/QuiverlyRivalry/CRcore/issues/2" TITLE : you stole my task? BODY : really, you could have asked. anyway, to use it, you must call it somewhere in the main.php like $this->getserver ->getscheduler ->schedulerdelayedtask new task $player ;

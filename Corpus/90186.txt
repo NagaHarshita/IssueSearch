@@ -1,0 +1,1 @@
+ URL : "https://github.com/ioBroker/ioBroker.ping/issues/4" TITLE : saving with active filter BODY : when saving with an active filter for a room results in lost of all entered devices of other rooms. i didn't test the other filters - but i guess it results in the same problem.

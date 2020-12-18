@@ -1,0 +1,1 @@
+ URL : "https://github.com/workflo/shaback/issues/20" TITLE : shorter xattr key BODY : currently we save sha1 hash and modification time in two xattributes: user.shaback.sha1 and user.shaback.mtime . save time and space by storing both pieces of information in one xattribute: user.shaback1 = ${sha1_hash}:${mtime}

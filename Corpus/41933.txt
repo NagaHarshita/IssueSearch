@@ -1,0 +1,1 @@
+ URL : "https://github.com/fedoraredteam/cyber-test-lab/issues/5" TITLE : add scoring mechanism BODY : create a new data analysis class and add scoring logic to produce a per-binary risk value.

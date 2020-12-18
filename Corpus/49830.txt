@@ -1,0 +1,1 @@
+ URL : "https://github.com/maliMirkec/Classily.js/issues/1" TITLE : update url on change? BODY : hi is there a way to use the url to drive the action of changing classes? so for instance _xyz.com?color=green_ can show the element with the class changed so a text element appears in green, for example?

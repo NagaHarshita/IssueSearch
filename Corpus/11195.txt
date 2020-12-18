@@ -1,0 +1,1 @@
+ URL : "https://github.com/MasterChief-John-117/Cortana/issues/4" TITLE : fix quote system BODY : something like public aysnc task quote ulong mainid, ulong secondid = 1 { if secondid == 1 { context.channel.getmessageasync mainid .result; } else { context.client.getchannelasync mainid .result.getmessageasync secondid .result; } }

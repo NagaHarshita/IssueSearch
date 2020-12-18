@@ -1,0 +1,1 @@
+ URL : "https://github.com/deic-dk/gossamer/issues/2" TITLE : edit user password BODY : 1. if global then all user passwords can be changed. 2. if db or net admin only see its own user profile.

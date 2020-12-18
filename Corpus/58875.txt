@@ -1,0 +1,1 @@
+ URL : "https://github.com/GoogleChrome/tasklets/issues/11" TITLE : support for generators BODY : can we do support for generators? i feel like to support generators we should ideally have native support for async generators in chrome... cc @bfgeek

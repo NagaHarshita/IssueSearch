@@ -1,0 +1,1 @@
+ URL : "https://github.com/unicef/etools-issues/issues/159" TITLE : pca ref number generation BODY : currently the year in the pca generation logic is: year=self.created.year however, the year should be taken from the unicef signed date field.

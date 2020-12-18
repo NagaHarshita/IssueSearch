@@ -1,0 +1,1 @@
+ URL : "https://github.com/beanumber/nyctaxi/issues/22" TITLE : lyft etl_load error BODY : error in scan file = file, what = what, sep = sep, quote = quote, dec = dec, : line 43 did not have 10 elements

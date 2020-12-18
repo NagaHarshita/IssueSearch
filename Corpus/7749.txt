@@ -1,0 +1,1 @@
+ URL : "https://github.com/gnea/grbl-Mega/issues/22" TITLE : inches is evil! BODY : when g20 is commanded, grbl starts reporting in inches no meter if $13 flag is set to 0!

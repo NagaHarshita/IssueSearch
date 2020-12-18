@@ -1,0 +1,1 @@
+ URL : "https://github.com/stelligent/mu/issues/169" TITLE : support for aws inspector BODY : install aws inspector agent and configure the ec2 instances for daily assessments for ecs and ec2 providers

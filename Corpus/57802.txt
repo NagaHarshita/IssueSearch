@@ -1,0 +1,1 @@
+ URL : "https://github.com/vutran/zel/issues/16" TITLE : remove failfast option BODY : i'm being indecisive but i think we should remove the failfast option and just make it terminate early by default. this will simplify the resolver and keep things smaller.

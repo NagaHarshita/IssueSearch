@@ -1,0 +1,1 @@
+ URL : "https://github.com/backup/backup/issues/828" TITLE : periodic github commits BODY : in order to backup our code on github or even bitbucket we normally use periodic scripts to commit. is it a feasible function to expect from this project? is there any existing method for this?

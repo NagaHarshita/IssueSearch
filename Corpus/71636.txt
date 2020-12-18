@@ -1,0 +1,1 @@
+ URL : "https://github.com/bbc/enzyme-adapter-inferno/issues/3" TITLE : add support for attachto BODY : we need to add support for the attachto method provided by enzyme. this option allows you to pass a dom element that mount will attach to. inferno caches root nodes inside inferno.config.roots , so we need to clear that before attaching to a new element.

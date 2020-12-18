@@ -1,0 +1,1 @@
+ URL : "https://github.com/typicode/json-server/issues/637" TITLE : ci/cd automated tests BODY : are we able to run this during a ci/cd tests on the build server? not certain if we can spin up the json-server during a test run and shut it down in an automated fashion. how are others doing this?

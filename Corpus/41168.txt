@@ -1,0 +1,1 @@
+ URL : "https://github.com/votca/xtp/issues/44" TITLE : xqmmm error handling BODY : if dft fails, do not attempt gwbse, but fail gracefully.

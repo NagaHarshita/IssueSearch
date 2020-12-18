@@ -1,0 +1,1 @@
+ URL : "https://github.com/TotalFreedom/TotalFreedomMod/issues/2070" TITLE : optimize for cpu usage BODY : cpu usage is currently a bigger issue than memory or storage usage. that said, any optimizations to decrease cpu usage even at the cost of memory usage would help reduce lag.

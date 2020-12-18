@@ -1,0 +1,1 @@
+ URL : "https://github.com/yegor256/0pdd/issues/103" TITLE : parent issue link BODY : it will be handy if pdd bot puts a link to parent task in puzzle issue comment. e.g. if i create a puzzle: / @todo 1:30min add more unit tests. / i want to see a link to 1 issue in a new puzzle.

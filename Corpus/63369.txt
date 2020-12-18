@@ -1,0 +1,1 @@
+ URL : "https://github.com/UnsignedInt8/LightSwordX/issues/5" TITLE : doesn't build on sierra BODY : /users/mark/code/lightswordx/lightswordx/viewcontroller.servers.swift:10:8: module file was created by an older version of the compiler; rebuild 'sinq' and try again: /users/mark/code/lightswordx/sinq.framework/modules/sinq.swiftmodule/x86_64.swiftmodule

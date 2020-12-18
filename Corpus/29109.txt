@@ -1,0 +1,1 @@
+ URL : "https://github.com/src-d/go-git/issues/304" TITLE : is reset supported? BODY : hi, i want to do git reset --hard with go-git but i can't find it but i can't find any info. is reset command supported? if not, are there any workarounds? thanks!

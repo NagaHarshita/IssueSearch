@@ -1,0 +1,1 @@
+ URL : "https://github.com/iview/iview/issues/710" TITLE : typo: modal line 5 BODY : error parsing a meta element's content: ';' is not a valid key-value pair separator. please use ',' instead.

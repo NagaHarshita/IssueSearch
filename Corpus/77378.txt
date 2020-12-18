@@ -1,0 +1,1 @@
+ URL : "https://github.com/yeuai/yeuai-nodejs-client/issues/4" TITLE : named entity recognition BODY : add named entity recognition utility. yeuai: 0.10 node: >= 4.4 os: supported nodejs and npm

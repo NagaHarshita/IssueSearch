@@ -1,0 +1,1 @@
+ URL : "https://github.com/kangarko/ChatControl-Pro/issues/198" TITLE : nametags prefix/suffix bug BODY : hi, me again and thank you for putting nametags in the plugin but there is a bug when i change my prefix it goes into {nametags_prefix} but also goes into {nametags_suffix} and when i set my suffix it doesn't go into {nametags_suffix}

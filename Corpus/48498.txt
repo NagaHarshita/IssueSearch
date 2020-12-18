@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla-tw/Zerda/issues/541" TITLE : search engine setting BODY : let's follow our desktop settings and use google as default https://dxr.mozilla.org/mozilla-central/source/browser/locales/search/list.json id : { default : { visibledefaultengines : google , yahoo-id , ddg , wikipedia-id } },

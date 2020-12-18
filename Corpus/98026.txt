@@ -1,0 +1,1 @@
+ URL : "https://github.com/csnover/scummvm-docker/issues/14" TITLE : implement host-based locks BODY : currently a single master lock is used, which seems to actually behave as a per-worker lock, which is not good, since multiple workers can run on the same host and they need to block each other.

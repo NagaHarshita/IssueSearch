@@ -1,0 +1,1 @@
+ URL : "https://github.com/okgosu/hello-aqua/issues/6" TITLE : 모바일 웹 ui 개발 BODY : 화면 요소 - 디바이스 상태 및 제어 컨트롤 - 스샷/ 동영상 스트리밍 - 동접자수 접근 방법 - 백엔드는 nodejs api로 되어 있으니, node js 웹서버에 모바일웹 코드 배포 - 나중에 앱으로도 배포할 수 있게 react 로 해볼 생각

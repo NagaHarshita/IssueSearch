@@ -1,0 +1,1 @@
+ URL : "https://github.com/attr-encrypted/attr_encrypted/issues/258" TITLE : key must be 32 bytes BODY : after migrate from ruby 2.3.3 to ruby 2.4.0 i've got an exception when i try to fetch my decoded data argumenterror: key must be 32 bytes from /home/oleg/.rvm/gems/ruby-2.4.0/gems/encryptor-3.0.0/lib/encryptor.rb:72:in key='

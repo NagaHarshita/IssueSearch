@@ -1,0 +1,1 @@
+ URL : "https://github.com/JuliaPOMDP/DiscreteValueIteration.jl/issues/14" TITLE : action type stability BODY : i don't think that action ::valueiterationpolicy, s is type stable. i think we should parameterize the policy type to make it stable

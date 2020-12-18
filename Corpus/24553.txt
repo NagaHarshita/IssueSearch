@@ -1,0 +1,1 @@
+ URL : "https://github.com/Financial-Times/o-comments/issues/15" TITLE : support o-icons v5 BODY : currently, o-comments depends on o-icons : ^4.0.0 . would it be possible to extend this to o-icons : >=4.0.0 < 6 ? for reference, o-buttons supports both v4 and v5 https://github.com/financial-times/o-buttons/blob/master/bower.json .

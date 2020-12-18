@@ -1,0 +1,1 @@
+ URL : "https://github.com/crmarsh/discord-linux-bugs/issues/161" TITLE : minor bug korean crash BODY : ! image https://cloud.githubusercontent.com/assets/10960326/21611810/cc0e2e3a-d211-11e6-98b1-e3123f521dca.png as you can see, some korean in case, 만나서 has been crashed.

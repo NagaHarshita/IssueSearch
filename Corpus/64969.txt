@@ -1,0 +1,1 @@
+ URL : "https://github.com/idyll-lang/idyll/issues/102" TITLE : i tag is causing errors BODY : i is in our list of valid html tags, but it is throwing errors when used. em is doesn't throw errors.

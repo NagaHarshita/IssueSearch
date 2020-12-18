@@ -1,0 +1,1 @@
+ URL : "https://github.com/GeoscienceAustralia/BAL/issues/13" TITLE : code tests require python BODY : difficulties in setting python paths for locked down computers - tests require python path to set location of python.exe

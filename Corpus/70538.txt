@@ -1,0 +1,1 @@
+ URL : "https://github.com/python-openxml/python-docx/issues/369" TITLE : where is wd_row_height? BODY : i am reading https://python-docx.readthedocs.io/en/latest/api/enum/wdrowheightrule.html but i can't find wd_row_height. what happened?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Waffle/waffle/issues/522" TITLE : review jna 4.3.0+ changes BODY : in relation to springboot which runs on 4.2.2, our latest code base is suggested to no longer work on that revision. review code changes made with that upgrade and determine if there is anyway to solve for this in nicer way.

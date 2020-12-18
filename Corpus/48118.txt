@@ -1,0 +1,1 @@
+ URL : "https://github.com/resin-io/etcher-homepage/issues/76" TITLE : remove generated css? BODY : @lurch highlighted in 75 that we have generated css in the repository, could we remove this, or is it better kept? @craig-mulligan

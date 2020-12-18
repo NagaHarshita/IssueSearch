@@ -1,0 +1,1 @@
+ URL : "https://github.com/iqrfsdk/iqrf-daemon-webapp/issues/33" TITLE : drop php 5.6 support BODY : drop php 5.6 support and use new features https://secure.php.net/manual/en/migration70.new-features.php from php 7.0 e.g. strict scalar type declarations, return type declarations .

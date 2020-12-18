@@ -1,0 +1,1 @@
+ URL : "https://github.com/2340Project/Team-Project/issues/61" TITLE : m9 implementation pt.1 BODY : we will finally implement persistence. your application should now be able to load and save the data so that you don't have to re-enter it each run. you may choose whatever method of persistence that you wish to use.

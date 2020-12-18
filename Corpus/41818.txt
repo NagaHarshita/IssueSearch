@@ -1,0 +1,1 @@
+ URL : "https://github.com/lambdasoup/btcscalingsim/issues/3" TITLE : add lightning network BODY : add lightning network with checkbox. add slider for lightning network settle interval. if lightning network is activated, only count settlements on-chain.

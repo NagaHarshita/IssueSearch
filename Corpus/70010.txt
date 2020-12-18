@@ -1,0 +1,1 @@
+ URL : "https://github.com/northbaypython/website/issues/81" TITLE : update google analytics BODY : do not track traffic from admin-types, register account creation, proposal submission, and ticket purchase as events/goals

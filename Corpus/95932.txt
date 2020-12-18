@@ -1,0 +1,1 @@
+ URL : "https://github.com/seanpdoyle/ember-cli-rails-deploy-redis/issues/10" TITLE : doesn't support railties 5 BODY : hey, just wondering if this is still a valid restriction? ember-cli-rails >= 3, so works happily with 5. ember-cli-rails-deploy-redis < 5, so does not.

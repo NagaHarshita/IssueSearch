@@ -1,0 +1,1 @@
+ URL : "https://github.com/pforemski/ara/issues/1" TITLE : no values displayed BODY : hi i am using this with 2.2.5 and i can see there are no values displayed in radcheck table. if i am not mistaken the new db for this version of freeradius has different table names or something to that extent.

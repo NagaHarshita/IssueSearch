@@ -1,0 +1,1 @@
+ URL : "https://github.com/jaxxstorm/sensu-wrapper/issues/22" TITLE : support no timeouts BODY : currently if you don't specify a timeout, the default timeout is set for you, at 5. this isn't really optimal for long running tasks, so if timeout isn't set, it should be unlimited.

@@ -1,0 +1,8 @@
+ URL : "https://github.com/tryashtar/minecraft-bugs/issues/35" TITLE : sigsegv on exit BODY : original ticket: mc-146 https://bugs.mojang.com/browse/mc-146 on exit minecraft prints out an error in terminal of sigsegv. this generates a .log file with more information. these log files pile up each time i play, so it'd be nice if it didn't crash. what i expect:
+minecraft exits gracefully what does happen:
+{noformat}
+$ java -jar ~/games/minecraft/minecraft.jar 27 achievements
+208 recipes
+setting user: <removed>
+lwjgl version: 2.4.2 starting up soundsystem...
+initializing lwjgl openal the lwjgl binding of openal. for more information, see http://www.lwjgl.org openal initialized. stopping! soundsystem shutting down... author: paul lamb, www.paulscode.com a fatal error has been detected by the java runtime environment: sigsegv 0xb at pc=0x00007fb29789ec58, pid=20185, tid=140405235873536 jre version: 6.0_24-b24 java vm: openjdk 64-bit server vm 20.0-b12 mixed mode linux-amd64 compressed oops derivative: icedtea6 1.11.4 distribution: ubuntu 12.04 lts, package 6b24-1.11.4-1ubuntu0.12.04.1 problematic frame: c libx11.so.6+0x33c58 xqueryextension+0x28 an error report file with more information is saved as: /home/steven/.minecraft/hs_err_pid20185.log if you would like to submit a bug report, please include instructions how to reproduce the bug and visit: https://bugs.launchpad.net/ubuntu/+source/openjdk-6/ aborted core dumped {noformat} steps to reproduce: start minecraft via terminal. java -jar path/to/minecraft.jar login exit minecraft exit button or top x button observe crash text and new .log file

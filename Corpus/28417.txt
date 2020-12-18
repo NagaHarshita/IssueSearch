@@ -1,0 +1,1 @@
+ URL : "https://github.com/ericniebler/stl2/issues/355" TITLE : gb 5: missing shall BODY : comment missing 'shall' in 7.1p10 implementations provide a mechanism to resolve this ambiguity in favor of the overload that takes two ranges. proposed resolution add 'shall' after 'implementations'

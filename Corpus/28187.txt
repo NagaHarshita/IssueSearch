@@ -1,0 +1,1 @@
+ URL : "https://github.com/nathandunn/grails-graph-test/issues/4" TITLE : finish gorm mapping BODY : - create editing ability in gorm for the mapped - map the rest of the properties

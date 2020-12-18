@@ -1,0 +1,1 @@
+ URL : "https://github.com/Themekraft/wc4bp/issues/27" TITLE : turn off 'checkout' tab BODY : if checkout tab is enabled the checkout should be redirected to the profile/shop/checkout if the member is logged in.

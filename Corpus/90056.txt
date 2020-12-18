@@ -1,0 +1,1 @@
+ URL : "https://github.com/Noah-Huppert/Trak/issues/1" TITLE : rider pathing in stations BODY : rider should take shortest path possible to destination. should also try to avoid other riders by extrapolating where they are going and adjusting their path.

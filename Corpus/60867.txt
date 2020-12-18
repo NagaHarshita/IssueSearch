@@ -1,0 +1,1 @@
+ URL : "https://github.com/kentcdodds/asts-workshop/issues/12" TITLE : add new eslint exercise BODY : i propose the addition of a new exercise as part of the eslint challenges. this new exercise checks for new variables that refer to previously assigned variables with the console object.

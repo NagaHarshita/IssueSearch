@@ -1,0 +1,1 @@
+ URL : "https://github.com/kvasir-io/HardwareDescriptionFileGenerator/issues/10" TITLE : io to gpio BODY : talked to @odinthenerd today. and we both think that naming kvasir::io io is wrong. we think kvasir::gpio is much better. this would mean that io.hpp needs to be renamed to gpio.hpp

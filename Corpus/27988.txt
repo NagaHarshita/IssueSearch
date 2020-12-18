@@ -1,0 +1,1 @@
+ URL : "https://github.com/khjin001010/userDialong/issues/3" TITLE : event programming 2 BODY : - dialog positivebutton을 클릭했을 때 액티비티의 textview 에 다이얼로그에서 입력한 것을 설정한다. - dialog negativebutton을 클릭했을 때 toast가 보여지게 설정한다.

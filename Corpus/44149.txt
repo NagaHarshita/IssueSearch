@@ -1,0 +1,1 @@
+ URL : "https://github.com/Drillster/drone-email/issues/17" TITLE : email with attachment BODY : hi there i used done-email to notify my ci result and go test result，and i used goreporter to generate a report.html too, how can i use dron-email to send report.html as a attachment？

@@ -1,0 +1,1 @@
+ URL : "https://github.com/argoproj/argo/issues/210" TITLE : fix secret management v1 BODY : the decryption code is not taken effect due to recent change in axmon.

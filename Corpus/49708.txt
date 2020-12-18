@@ -1,0 +1,1 @@
+ URL : "https://github.com/adiwg/mdEditor/issues/72" TITLE : update api docs theme BODY : we use yuidoc for the api documentation. we need a better theme and structure for documenting the api than the default one. here's a starting point: https://github.com/offirgolan/yuidoc-ember-theme

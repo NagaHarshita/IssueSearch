@@ -1,0 +1,4 @@
+ URL : "https://github.com/coala/coala-bears/issues/1900" TITLE : bear proposal https bear BODY : use urlbear to convert http to https if the https url works.
+cache the status of the proposed https url, as the same http link may occur many times.
+difficulty/low
+opened by @jayvdb

@@ -1,0 +1,1 @@
+ URL : "https://github.com/PDP-10/its/issues/429" TITLE : chives - dns resolver BODY : mc: chives; https://www.hactrn.net/hacks/chives/ this is interesting, because it's substantial pdp-10 program written in c. by @sraustein. depends on 419.

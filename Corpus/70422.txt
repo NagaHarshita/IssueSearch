@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/BotBuilder/issues/3537" TITLE : vs2013 project template BODY : sdk platform: .net sdk version: 3.8 active channels: skype for business issue description visual studio project template does not seems to be working i always get a http 500 error. is there a separate template for vs2013?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/davidmckenzie/pagermon/issues/14" TITLE : break out configuration BODY : have a configuration file that feeds many of the main variables. db file db type duplicate message filtering duplicate message limit default 10 log level authentication defaults page limit, etc rotation settings

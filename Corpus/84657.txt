@@ -1,0 +1,1 @@
+ URL : "https://github.com/sbugert/react-native-admob/issues/128" TITLE : dfp multiple size support BODY : as per the dfp spec https://developers.google.com/mobile-ads-sdk/docs/dfp/android/banner multiple_ad_sizes > multiple ad sizes > > dfp allows you to specify multiple ad sizes which may be eligible to serve into a publisheradview.

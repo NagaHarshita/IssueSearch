@@ -1,0 +1,1 @@
+ URL : "https://github.com/jeysal/node-template/issues/2" TITLE : migrate to typescript BODY : once babel 8 is stable, replace flow with ts for type-checking but still transpile with babel

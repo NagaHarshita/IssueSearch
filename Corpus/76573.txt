@@ -1,0 +1,1 @@
+ URL : "https://github.com/truqu/elm-base64/issues/15" TITLE : limited charater support BODY : the documentation states: > for the moment only works with the characters : > !\ $%&\' +,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz \\ ^_ abcdefghijklmnopqrstuvwxyz{|}~ out of curiosity, why is this the case? how could this restriction be removed?

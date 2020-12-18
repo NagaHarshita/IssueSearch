@@ -1,0 +1,1 @@
+ URL : "https://github.com/bucharest-gold/license-reporter/issues/153" TITLE : build failing with node 4x BODY : https://travis-ci.org/bucharest-gold/license-reporter/jobs/276058546 l903 i suspect this is related to promises + tape etc.

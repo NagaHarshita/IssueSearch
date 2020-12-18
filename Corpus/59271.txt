@@ -1,0 +1,1 @@
+ URL : "https://github.com/rbeezer/mathbook/issues/702" TITLE : toggleable sage output BODY : from questions at sage days 88: in html output include expected output of a sage cell. but have it toggle show/hide as reader desires. and perhaps have a page-wide switch that toggles all the outpuut.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/LDVTech/hacienda/issues/14" TITLE : optimize data fetching BODY : optimize the way on how the queries are being sent to the database

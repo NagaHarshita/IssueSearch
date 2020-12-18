@@ -1,0 +1,1 @@
+ URL : "https://github.com/kofno/maybeasy/issues/4" TITLE : add lazy getorelse BODY : the default value in getorelse is always computed. but maybe you don't want that. maybe it's expensive to compute. we should have a version of getorelse that is lazy and accepts a function that returns that default value.

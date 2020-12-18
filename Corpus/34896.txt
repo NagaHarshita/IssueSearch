@@ -1,0 +1,1 @@
+ URL : "https://github.com/adrianpothuaud/selenium-page-objects-tests/issues/5" TITLE : create lbc test case BODY : - login -- should fail : bad credentials -- should succeed : good credentials

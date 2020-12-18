@@ -1,0 +1,1 @@
+ URL : "https://github.com/vattle/sqlboiler/issues/135" TITLE : mssql tests failing BODY : https://circleci.com/gh/vattle/sqlboiler/525 @nemec784 do you have any idea why this might be happening? i'm not sure how the tests pass for you and not for ci atm.

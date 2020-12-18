@@ -1,0 +1,1 @@
+ URL : "https://github.com/jrbourbeau/pycondor/issues/44" TITLE : add job monitoring utility BODY : <!-- thank you for submitting a new issue! --> description <!-- example: bug in pycondor.job build method --> i'd like to have some kind of dagman monitoring functionality &mdash; a progress bar would be a good start! <!-- thanks for contributing! -->

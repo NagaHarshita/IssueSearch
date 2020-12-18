@@ -1,0 +1,1 @@
+ URL : "https://github.com/braidchat/planning/issues/159" TITLE : fix signup issues BODY : sometimes signups don't work bad token , sometimes the user gets added but still has an error message; if they refresh, they get logged in, but the new user create isn't broadcast

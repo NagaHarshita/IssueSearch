@@ -1,0 +1,1 @@
+ URL : "https://github.com/stelligent/mu/issues/132" TITLE : distribute mu via homebrew BODY : create a target in makefile for generating and publishing a mu release as a homebrew bottle. update circleci to run the new makefile target for build from master

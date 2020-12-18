@@ -1,0 +1,1 @@
+ URL : "https://github.com/QGEP/QGEP/issues/365" TITLE : remove and rewrite views BODY : it would be very handy to have some scripts to drop and insert views. since many datamodel changes are affecting views and not tables directly.

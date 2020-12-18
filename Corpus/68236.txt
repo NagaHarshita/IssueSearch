@@ -1,0 +1,1 @@
+ URL : "https://github.com/SCIInstitute/ImplicitFunction/issues/1" TITLE : report failing numerics BODY : if the linear system fails to converge, the error should be propagated back to the caller seg3d at the moment and reported.

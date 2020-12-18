@@ -1,0 +1,1 @@
+ URL : "https://github.com/ivanarellano/sfml-pong/issues/17" TITLE : create a welcome screen BODY : - option: new game lan - message: waiting for player 2 to join - option: join a game lan - message: searching for open games - timeout: no open games found - option: credits - navigates to credits screen all messages will overlay the screen and partially shade the background.

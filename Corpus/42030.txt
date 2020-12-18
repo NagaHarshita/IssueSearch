@@ -1,0 +1,1 @@
+ URL : "https://github.com/jugatsu-infra/ansible-role-mongodb/issues/7" TITLE : add travis ci support BODY : add role testing in travis ci.

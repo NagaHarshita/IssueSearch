@@ -1,0 +1,1 @@
+ URL : "https://github.com/Leaflet/Leaflet/issues/5366" TITLE : zoomanim event firing BODY : the zoomanim event is not being fired after the map has loaded, and an area is being zoomed to using leaflet-control-boxzoom... even if an area is scroll-zoomed to, then boxzoomed, the zoomanim event is not fired for the boxzoom zoom.

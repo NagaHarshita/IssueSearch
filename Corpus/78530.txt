@@ -1,0 +1,1 @@
+ URL : "https://github.com/djc/couchdb-python/issues/312" TITLE : put multiple attachments BODY : i could't find any method which is an implementation of multiple_attachment https://wiki.apache.org/couchdb/http_document_api multiple_attachments . can it be added as a new feature?

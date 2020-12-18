@@ -1,0 +1,1 @@
+ URL : "https://github.com/holography/holograph/issues/50" TITLE : support for nav_level BODY : > nav_level: optional sets the level of section navigation desired. section sets it to show sub navigation in top level sections. all sets it to show sub navigation for all sections. all can be a bit much, you'll probably want section.

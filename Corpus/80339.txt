@@ -1,0 +1,2 @@
+ URL : "https://github.com/curationexperts/epigaea/issues/76" TITLE : title should be singular BODY : acceptance - the title attribute does not allow multiple values via importer, rails console, etc. .
+- metadata entry forms do not allow multiple titles to be entered via user interface

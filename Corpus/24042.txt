@@ -1,0 +1,1 @@
+ URL : "https://github.com/ccrama/Slide-iOS/issues/33" TITLE : save comment state BODY : keep comment state for each app instance, if comments are opened again show the old comment data

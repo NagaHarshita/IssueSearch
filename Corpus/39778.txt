@@ -1,0 +1,1 @@
+ URL : "https://github.com/ocaml-doc/odoc/issues/92" TITLE : stop using <details> BODY : which are currently used for includes. as @dbuenzli pointed out in the past, <details> are terrible to link into and to search a page. we should just avoid them and use js instead? :

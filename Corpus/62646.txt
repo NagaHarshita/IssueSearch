@@ -1,0 +1,1 @@
+ URL : "https://github.com/angelmart/APAW-ECP2-JoseAngelSanchez/issues/4" TITLE : corrección de errores. BODY : se ha comprobado que en la petición delete con companyid no encontrado se devuelve exception pero no exactamente companyidnotfoundexception. añadir test de http httprequesttest.java

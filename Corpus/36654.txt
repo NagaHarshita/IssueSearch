@@ -1,0 +1,1 @@
+ URL : "https://github.com/jenstornell/kirby-tricks/issues/1" TITLE : if plugin has loaded BODY : php if kirby ->plugin 'modules' { echo 'plugin has loaded'; } it checks if the plugin has loaded. be aware! if the plugin exists but has not been loaded it will force load it and return true if exists.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/cdubz/babybuddy/issues/27" TITLE : fix reset command test BODY : 8b98a60ad17d36cb0a8db793dc92b524418ef9a3 disabled the reset management command test because it fails for some reason after the django 2.0 upgrade. the regular command works fine. 🤷‍

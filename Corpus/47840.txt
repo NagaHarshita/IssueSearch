@@ -1,0 +1,1 @@
+ URL : "https://github.com/ground-context/client/issues/2" TITLE : python: type checking BODY : the python client should include type checks to make sure that strings and integers are passed in correctly where expected. if not, the error messages will not be very comprehensible.

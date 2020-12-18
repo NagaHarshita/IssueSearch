@@ -1,0 +1,1 @@
+ URL : "https://github.com/nodejs/help/issues/519" TITLE : promise.all with map BODY : hello, i tried today to run promise.all with a map since it is an iterable but the then is called before the promises are executed. node 6.9.2 before i create an issue i would like to ask if this is a known thing and i just failed to see that this feature is not jet implemented in 6.9.2

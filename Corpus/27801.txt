@@ -1,0 +1,13 @@
+ URL : "https://github.com/andybotting/xbmc-addon-abc-iview/issues/2100" TITLE : end-user bug report BODY : automatic bug report from end-user. environment plugin name: abc iview plugin id: plugin.video.abc_iview plugin version: 1.7.3 xbmc/kodi version: 15.2 git:02e7013 python version: 2.7.3 default, feb 29 2016, 20:19:48 gcc 4.9.3 operating system: linux2 linux 4.1.18 x86_64 ip address: 203.219.80.115 203-219-80-115.tpgi.com.au isp : tpg internet python path: /storage/.kodi/addons/plugin.video.abc_iview
+/storage/.kodi/addons/script.common.plugin.cache/lib
+/storage/.kodi/addons/script.module.beautifulsoup/lib
+/usr/lib/python27.zip
+/usr/lib/python2.7
+/usr/lib/python2.7/plat-linux2
+/usr/lib/python2.7/lib-tk
+/usr/lib/python2.7/lib-old
+/usr/lib/python2.7/lib-dynload
+/usr/lib/python2.7/site-packages
+/usr/lib/python2.7/site-packages/gtk-2.0
+/storage/.kodi/addons/plugin.video.abc_iview/resources/lib traceback traceback most recent call last : file /storage/.kodi/addons/plugin.video.abc_iview/resources/lib/categories.py , line 34, in make_category_list iview_config = comm.get_config file /storage/.kodi/addons/plugin.video.abc_iview/resources/lib/comm.py , line 87, in get_config iview_config = fetch_url config.config_url file /storage/.kodi/addons/plugin.video.abc_iview/resources/lib/comm.py , line 74, in fetch_url raise fail_exception
+urlerror: <urlopen error errno -2 name or service not known> full xbmc.log https://gist.github.com/48a691264afd73793dc2a5966841cf06

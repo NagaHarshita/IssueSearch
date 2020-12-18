@@ -1,0 +1,1 @@
+ URL : "https://github.com/bloomberg/bucklescript/issues/1370" TITLE : float physical equality BODY : on native comparing two identical floats is false: reason 0.1 === 0.1; - : bool = false but bs compiles reason let a = 0.1 === 0.1; to js var a = / true /1; is this behavior expected?

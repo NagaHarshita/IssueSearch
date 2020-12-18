@@ -1,0 +1,1 @@
+ URL : "https://github.com/HHSIDEAlab/poet/issues/13" TITLE : identify unique software BODY : how shall a unique piece of software and a unique endorsement be identified in the jwt payload contents? my instinct says this should be a combination of iss , sub , software_id . is this correct or is there a simpler way to do it? requesting review by @jmandel and @jricher

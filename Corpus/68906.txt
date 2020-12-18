@@ -1,0 +1,1 @@
+ URL : "https://github.com/maur1th/naxos/issues/54" TITLE : smilies and parenthesis BODY : if a smiley is at the end of a message between parenthesis, it is not well displayed because of the : smiley which is interpreted first. see: http://i.imgur.com/z7krfqg.png

@@ -1,0 +1,1 @@
+ URL : "https://github.com/dparks1134/STAMP/issues/24" TITLE : conversion of mothur files BODY : there are some reports that stamp is no longer able to convert the latest files produced by mothur. this may be due to a change in file format. there is also likely an issue with the silva taxonomy not always being strictly hierarchical.

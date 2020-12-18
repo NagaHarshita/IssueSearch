@@ -1,0 +1,1 @@
+ URL : "https://github.com/madzhuga/rails_workflow/issues/29" TITLE : remove pg dependency BODY : even though it is mentioned we can switch to mysql in the readme, the pg dependency still be listed in the gemspec so we still must install postgresql and pg gem. could you consider remove pg dependency?

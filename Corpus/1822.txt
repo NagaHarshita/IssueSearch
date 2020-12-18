@@ -1,0 +1,1 @@
+ URL : "https://github.com/abrantessouza/php2epl/issues/2" TITLE : how it works BODY : how is works when $host = $this->host; means if it is not for shared printer, it directly connected to computer. any help will be appreciated.

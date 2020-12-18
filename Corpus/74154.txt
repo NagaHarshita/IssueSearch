@@ -1,0 +1,1 @@
+ URL : "https://github.com/lucianodato/noise-repellent/issues/19" TITLE : dsp increases while idle BODY : there is some denormal or something that triggers more cpu consumption

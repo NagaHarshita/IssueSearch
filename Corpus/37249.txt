@@ -1,0 +1,1 @@
+ URL : "https://github.com/jambonrose/django-unleashed.com/issues/9" TITLE : lint for in markdown BODY : with jekyll, i need to use {% highlight %} in the markdown, not markdown's syntax. a linter to prevent my from making this mistake repeatedly would be great.

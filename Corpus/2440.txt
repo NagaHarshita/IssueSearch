@@ -1,0 +1,1 @@
+ URL : "https://github.com/Plsr/plsr.github.io/issues/1" TITLE : add meta tags BODY : the tags to be covered are: - title - description - facebook open graph - twitter cards for the two latter, probably consider this css-tricks article https://css-tricks.com/essential-meta-tags-social-media/ .

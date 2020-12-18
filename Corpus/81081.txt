@@ -1,0 +1,1 @@
+ URL : "https://github.com/inclusivin/webplatform/issues/16" TITLE : video and audio messages BODY : as a user, i want to be able to exchange video and or audio messages with my contacts. acceptance test: there should be an option to create a video/audio message that requests the user to record it and allow them to share it on the platform.

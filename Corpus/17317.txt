@@ -1,0 +1,1 @@
+ URL : "https://github.com/airbnb/react-dates/issues/282" TITLE : open to selection BODY : hey, great widget!!! when the daterangepicker opens, is there a way to open it on a selected range? even if it's in the past? for now, when i open it just opens to 'today' onwards and if there's a selection in the past it's not shown.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Conchylicultor/DeepQA/issues/158" TITLE : format of dataset BODY : i've a dataset that i'd want to train deepqa on. my only concern is the format of datatype. what does deepqa datasets look like? like is there any format?

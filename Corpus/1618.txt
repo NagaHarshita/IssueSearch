@@ -1,0 +1,1 @@
+ URL : "https://github.com/schibsted/strongbox/issues/36" TITLE : backup to s3 BODY : strongbox currently only supports backing up to a local file. we could consider integrating with s3 to make it easier to take snapshots.

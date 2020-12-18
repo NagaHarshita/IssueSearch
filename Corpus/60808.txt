@@ -1,0 +1,1 @@
+ URL : "https://github.com/mafintosh/hypervision/issues/17" TITLE : add input volume meters BODY : broadcaster should be able to see an input volume meter that indicates whether their output might be too loud or too quiet. include a clipping light.

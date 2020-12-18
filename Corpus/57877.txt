@@ -1,0 +1,1 @@
+ URL : "https://github.com/Vergo777/RankCompare/issues/7" TITLE : repeated item position BODY : if an item to be compared was compared on the previous comparison, make it stay on the same side of the ui between comparisons.

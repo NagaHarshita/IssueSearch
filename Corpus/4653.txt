@@ -1,0 +1,1 @@
+ URL : "https://github.com/qtumproject/qtum/issues/207" TITLE : failed on make BODY : if so, please list the steps to reproduce below: 1. ./autogen.sh 2. ./configure 3. make actual behaviour make 2 : no rule to make target 'cpp-ethereum/deps/lib/libsecp256k1.a', needed by 'libbitcoinconsensus.la'. stop. machine specs: - os: debian - ram: 32 gb

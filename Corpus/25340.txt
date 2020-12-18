@@ -1,0 +1,1 @@
+ URL : "https://github.com/Udopia/candy-kingdom/issues/16" TITLE : wrap candy solvers BODY : write abstractcandysolver interface and implement rsar, rsil and default solvers on top of that interface. implement pimpl class suitable for shared library interface.

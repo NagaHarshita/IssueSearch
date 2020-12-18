@@ -1,0 +1,1 @@
+ URL : "https://github.com/irazasyed/telegram-bot-sdk/issues/472" TITLE : curl error 7 BODY : hi i wanted to set webhook but igot error how can i solve this issue? 1/1 telegramsdkexception curl error 7: failed to connect to api.telegram.org port 443: connection refused see http://curl.haxx.se/libcurl/c/libcurl-errors.html

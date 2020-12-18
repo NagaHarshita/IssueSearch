@@ -1,0 +1,1 @@
+ URL : "https://github.com/nuxt/nuxt.js/issues/1669" TITLE : webpack hmr in production BODY : is it correct that webpack hmr is running in production? i tought it is only for development.

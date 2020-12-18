@@ -1,0 +1,1 @@
+ URL : "https://github.com/Redeclip6x/prj-rev-bwfs-dasmoto/issues/3" TITLE : css naming conventions BODY : it's convention to use a - rather than an _ when naming milt-word classes or ids. so: brushes_title{ background-color: mediumspringgreen; } should be: brushes-title{ background-color: mediumspringgreen; }

@@ -1,0 +1,1 @@
+ URL : "https://github.com/siegebell/vscoq/issues/129" TITLE : status bar issues BODY : does not update properly when switching between output windows and the document does not go away when a document is disposed should indicate if coqtop is not running.

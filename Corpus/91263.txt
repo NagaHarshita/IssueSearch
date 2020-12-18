@@ -1,0 +1,1 @@
+ URL : "https://github.com/brokkr/poca/issues/97" TITLE : test importerror catching BODY : 89fba28 switched the naming of the main module. this causes loading of any old pickle file to fail because the type poco is unrecognised. we catch this as importerrors but is it enough? create some old 0.9? instances and try updating them.

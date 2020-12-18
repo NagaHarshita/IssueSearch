@@ -1,0 +1,1 @@
+ URL : "https://github.com/moeiscool/Shinobi/issues/159" TITLE : syntax unexpected token > BODY : hello, today i installed it using the install/ubuntu.sh following the ubuntu easy way http://shinobi.video/docs/start and whenever there is nodemailer.sendmail d.mailoptions, error, info => syntax unexpected token > is produced.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/hackenspp/test/issues/295" TITLE : import issue : jp BODY : 2017-01-04 11:34:10<br>e_warning: array_map expects parameter 1 to be a valid callback, function 'convert' not found or invalid function name

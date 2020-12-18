@@ -1,0 +1,1 @@
+ URL : "https://github.com/uEssentials/uEssentials/issues/571" TITLE : bug and crash BODY : crash!!! syminit: symbol-searchpath: '.;c:\tcafiles\users\franks1\18214;c:\tcafiles\users\franks1\18214;c:\windows;c:\windows\system32;srv c:\websymbols http://msdl.microsoft.com/download/symbols;', symoptions: 530, username: 'tcagame' os-version: 6.3.9600 0x110-0x3

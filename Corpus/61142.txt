@@ -1,0 +1,1 @@
+ URL : "https://github.com/dmitrizzle/Analog.Cafe/issues/720" TITLE : adjust mobile edit menu BODY : - position fixed doesn't really work. it could still be a huge panel but underneath the text and still spread across the screen. - cancel quote and cancel title will also need some adjustments to look good.

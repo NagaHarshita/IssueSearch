@@ -1,0 +1,1 @@
+ URL : "https://github.com/mhkeller/qcew/issues/1" TITLE : this no longer works BODY : it appears that the bls has changed the urls for requests to its api. also, dsv is now called d3-dsv.

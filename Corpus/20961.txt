@@ -1,0 +1,1 @@
+ URL : "https://github.com/will127534/LoRa-concentrator/issues/5" TITLE : different gps chip BODY : i thought that lora gateway support normal gps with nema output, but it seems to support only ublox module, because it is using ublox's ubx protocol for time adjustment. so it might needs to change to ublox module max-7 series maybe in the future.

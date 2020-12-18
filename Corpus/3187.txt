@@ -1,0 +1,1 @@
+ URL : "https://github.com/peers/peerjs/issues/383" TITLE : long peer ids BODY : is there an easy way to get peers to support longer peer ids? right now, long ids silently break it. also, it would be nice if the docs mentioned the id length limits.

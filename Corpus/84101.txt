@@ -1,0 +1,1 @@
+ URL : "https://github.com/micheloosterhof/docker-cowrie/issues/8" TITLE : cowrie:dev manifest error BODY : hey there, there seems to be a manifest error when booting the stack: quick boot on play with docker to reproduce http://play-with-docker.com/?stack=https://raw.githubusercontent.com/micheloosterhof/docker-cowrie/master/docker-compose.yml&stack_name=cowriedocker

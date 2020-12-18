@@ -1,0 +1,1 @@
+ URL : "https://github.com/hewhowearspants/Cards-Against-Your-Sanity/issues/12" TITLE : render ready players BODY : when server emits list of ready players, render those names differently highlight or something when all players are ready, begin game, redirect to game component

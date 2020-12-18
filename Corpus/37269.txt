@@ -1,0 +1,1 @@
+ URL : "https://github.com/chengsoonong/digbeta/issues/112" TITLE : listviterbi == ilp ? BODY : given the same weight vector for ssvm, does the prediction by the list viterbi algorithm is the same as that of ilp assuming no ties ? write down the proof.

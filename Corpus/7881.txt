@@ -1,0 +1,1 @@
+ URL : "https://github.com/Trustroots/trustroots/issues/529" TITLE : last seen stats BODY : this could just be something super simple that runs once a day and calculates average last seen data and pushes it to stats. _how many users logged last day, week, month, year, ... never ,_ _other ideas?_

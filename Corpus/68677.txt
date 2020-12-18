@@ -1,0 +1,1 @@
+ URL : "https://github.com/p455w0rd/DankNull/issues/54" TITLE : server crash on startup BODY : the latest version causes a server crash during startup. it's getting a noclassdeffounderror exception looking for net.minecraft.client.entity.entityplayersp . here is the full crash log. https://gist.github.com/chimericdream/256b910e6587c6aeb67734f6f7cdcae6

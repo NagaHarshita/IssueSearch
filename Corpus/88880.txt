@@ -1,0 +1,1 @@
+ URL : "https://github.com/sagold/handlebars-webpack-plugin/issues/16" TITLE : pages from subdirectories BODY : good afternoon! can i generate pages from subdirectories from entry point with this plugin? i want to keep directory structure from entry and move it to output destination. thank you for your answer.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/SandboxElectronics/LoRaGoDOCK-Gateway/issues/1" TITLE : channel frequency and bw BODY : hello, i would like to know if this gateway can listen lora packets in a channel for any bw value 125khz, 250 khz, 500 khz . in a few words, can the bw be configured? also, except the gw is there any lorawan node by this company? thank you

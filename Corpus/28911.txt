@@ -1,0 +1,1 @@
+ URL : "https://github.com/slarti5191/splendid/issues/6" TITLE : implement travis ci BODY : for setting up the config file. https://docs.travis-ci.com/user/languages/go/ i can work on that. it doesn't look like i can enable it though when i log in to my account. it's only showing my dustingraham repos. might need you, @slarti5191 to log in and enable it when you get a chance.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/simplabs/ember-simple-auth/issues/1495" TITLE : uglify fails with 1.4.1 BODY : hi there, i'm getting this uglify error: error: unexpected token: punc . at the line: true && ember.warn ...arguments ; i guess that this spread operator should not be there. version 1.4.0 is fine.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/libretro/fmsx-libretro/issues/12" TITLE : error disk full at 40 BODY : this rom works fine in openmsx in retroarch fmsx it fails with disk full at 40 koikoi.rom.zip https://github.com/libretro/fmsx-libretro/files/1099883/koikoi.rom.zip

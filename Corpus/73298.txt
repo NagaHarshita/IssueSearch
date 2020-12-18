@@ -1,0 +1,1 @@
+ URL : "https://github.com/gugod/App-perlbrew/issues/558" TITLE : cpanm 2.0 menlo support? BODY : any plan to support cpanm-menlo 1.9, 2.0 ? it has features like static install which has not been backported to app::cpanminus 1.7x yet. it would be nice if perlbrew can work with it.

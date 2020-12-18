@@ -1,0 +1,1 @@
+ URL : "https://github.com/bme-db-lab/szglab5-backend/issues/6" TITLE : pilot seed with path BODY : cli/seed parancsnak lehessen adni path argumentet, és azzal az adattal seedelje fel a db-t

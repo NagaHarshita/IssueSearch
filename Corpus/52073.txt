@@ -1,0 +1,1 @@
+ URL : "https://github.com/Storj/libstorj/issues/194" TITLE : can't login on windows BODY : os: windows 10 c:\users\dani marion\desktop\storj-1.0.0-beta1\bin>storj register bridge username email : meijesibbel@hotmail.com bridge password: request failed with status code: 413 error: null

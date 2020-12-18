@@ -1,0 +1,1 @@
+ URL : "https://github.com/getredash/redash/issues/2183" TITLE : ui- filter headers mixed BODY : when using more than 2 multi-filters, the headers are being shown on the first 2 rows, and not attached to their boxes. ! image https://user-images.githubusercontent.com/29460916/34327369-25ee68ae-e8cb-11e7-9a07-6673b99977f8.png redash version: 3.0.0+b3134 browser/os: chrome

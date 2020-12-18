@@ -1,0 +1,1 @@
+ URL : "https://github.com/red/red/issues/2583" TITLE : wish reflect on datatype! BODY : it would be nice to have reflect working on datatype! so it would be possible to get all datatype fields, if it has any. something like: >> keys-of pair! x y this would allow things like auto-completion, help and runtime loops over fields, checks, etc.

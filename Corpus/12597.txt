@@ -1,0 +1,1 @@
+ URL : "https://github.com/divyenduz/w3z-universe/issues/49" TITLE : python 3 support BODY : the codebase must work across python 2 and python 3. if a diversion is needed, we should choose python 3 over python 2 as it is the future.

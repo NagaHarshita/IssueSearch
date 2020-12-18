@@ -1,0 +1,1 @@
+ URL : "https://github.com/google/haskell-indexer/issues/2" TITLE : ghc 8 support BODY : the ghc backend now supports ghc 7.10 ast. the code should be adapted so it keeps supporting that, as well the ghc 8 ast. note: while there, backwards support for the ghc 7.8 ast would be very easy, since there was only a slight change.

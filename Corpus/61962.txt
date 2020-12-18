@@ -1,0 +1,1 @@
+ URL : "https://github.com/gmostert/ng2-breadcrumb/issues/73" TITLE : can i change the style? BODY : hi, sorry for my bad english, can anyone help me with a tip for this? i have tried changing the class name .breadcrumb { background-color: red; } but it's not working... btw, i'm using angular 4, sass and ng2-breadcrumb 0.5.14

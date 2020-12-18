@@ -1,0 +1,1 @@
+ URL : "https://github.com/geosolutions-it/decat_geonode/issues/121" TITLE : map loading on clean app BODY : currently decat dss client needs a map already present on the system to startup whenever the user has no maps already assigned. we need decat dss client to be able to load a mocked up map configuration at first bootstrap, if no map has been saved yet.

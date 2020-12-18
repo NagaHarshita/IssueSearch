@@ -1,0 +1,1 @@
+ URL : "https://github.com/dhis2/api-tests/issues/14" TITLE : how to download data BODY : hi everyone, any clue in how to download data from a specific reporting period dataelemnt, categoryoptioncombo, attributeoptioncombo, orgunit, value using r or querying the browser ? thanks g

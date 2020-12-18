@@ -1,0 +1,1 @@
+ URL : "https://github.com/mikelucas-dynes/dummy/issues/119" TITLE : correct location codes BODY : as part of 8 we have identified that some locations still have an incorrect location code. fussion 5 have written some update scripts to fix this so it makes sense that we ask them to do this update prior to starting 8

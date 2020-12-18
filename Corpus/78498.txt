@@ -1,0 +1,1 @@
+ URL : "https://github.com/Altaxo/Altaxo/issues/11" TITLE : publish package to nuget BODY : hi i like this library if it possible to publish it to nuget? nuget.org? i am use altaxocore.dll. the project is not buildable with visual studio community 2017. best regards tino

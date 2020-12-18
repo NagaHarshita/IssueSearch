@@ -1,0 +1,1 @@
+ URL : "https://github.com/riscv/riscv-debug-spec/issues/45" TITLE : remove pre-exec bit BODY : pre-exec bit adds a lot of hw complexity without much benefit. let's remove it.

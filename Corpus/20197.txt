@@ -1,0 +1,1 @@
+ URL : "https://github.com/DanilZz/BuildBattle-minigame-pocketmine/issues/4" TITLE : build battle error BODY : fatal error: namespace declaration statement has to be the very first statement or after any declare call in the script in c:\users\lenovo\documents\pocketmine-mp\plugins\buildbattle-minigame-pocketmine-master\src\dan\bb.php on line 2

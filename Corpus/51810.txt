@@ -1,0 +1,1 @@
+ URL : "https://github.com/eseuteo/IntelligentSystems1/issues/7" TITLE : bloqueos del goal tile BODY : cuando un robot bloquea la tile objetivo, astar no genera el camino y por lo tanto tira nullpointerexception. posible solucion: antes de generar el mapa, poner la tile objetivo como true.

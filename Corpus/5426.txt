@@ -1,0 +1,1 @@
+ URL : "https://github.com/Steveice10/MCProtocolLib/issues/284" TITLE : packet 0/35 fv BODY : i have problem to create server, so i create server server is started but i can't connect to him, server disconnect me with error: packet 0/35 fv was larger than i expected, found 8 bytes extra whilst reading packet 35, my code: https://pastebin.com/efcdwvft

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Yomguithereal/baobab/issues/482" TITLE : how to remover a listener BODY : when i use cursor.on 'update',fun how to remover the listener. no cursor.release because has other listener

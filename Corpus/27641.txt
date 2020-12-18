@@ -1,0 +1,1 @@
+ URL : "https://github.com/CitizensDev/Citizens2/issues/1177" TITLE : doesnt work on 1.12 BODY : the .jar file is getting paused on startup because it says it doesn't work with 1.12. this is a bug.

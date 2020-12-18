@@ -1,0 +1,1 @@
+ URL : "https://github.com/PolyProg/vdi-image-setup/issues/2" TITLE : fix xrdp login window BODY : the login window layout leaves much to be desired right now. it's not a big deal because login is possible anyway, but it should at least look decent.

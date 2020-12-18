@@ -1,0 +1,1 @@
+ URL : "https://github.com/bpmn-io/bpmn-moddle/issues/45" TITLE : add 'meta' attribute BODY : this allows extending the meta-model at the top level.

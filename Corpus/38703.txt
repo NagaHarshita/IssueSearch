@@ -1,0 +1,1 @@
+ URL : "https://github.com/vigo/apm-bash-completion/issues/1" TITLE : push request to atom BODY : it seems atom still lacks this feature https://github.com/atom/atom/issues?utf8=%e2%9c%93&q=is%3aissue%20is%3aopen%20bash%20completion . before creating an issue to atom-core developers, did you consider creating a pull request to push this enhancements?

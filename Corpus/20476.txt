@@ -1,0 +1,1 @@
+ URL : "https://github.com/kodeklubben/codeclub-viewer/issues/400" TITLE : clean up lesson.js BODY : should get props from state, so we dont have to use this.gettitle and so on

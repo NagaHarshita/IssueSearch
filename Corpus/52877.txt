@@ -1,0 +1,1 @@
+ URL : "https://github.com/jakoblorz/postgres-driver/issues/11" TITLE : create simple examples BODY : add an example directory where simple use-cases of this module are presented. we all know that - seeing an example improves the learning-curve of a new module dramatically . so just think about examples and implement them :+1:

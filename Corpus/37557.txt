@@ -1,0 +1,1 @@
+ URL : "https://github.com/sonaric/Multiagent_system/issues/1" TITLE : message send problem BODY : problem in send message from agent to environment. change: message -> server , messge-> server , server ->message, beacause need thread sleep/

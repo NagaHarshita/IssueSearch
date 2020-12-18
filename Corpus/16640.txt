@@ -1,0 +1,1 @@
+ URL : "https://github.com/lmarty/Hackerboxes20/issues/4" TITLE : led based scoring BODY : implement seen lightbar counter. light up green leds for first 5 seen, yellow for next, red for next, blue for next, rainbow for next. as to visually display how many other badges you've come across at a glance. overlap the colors as you count up. make state persist across badge reboots

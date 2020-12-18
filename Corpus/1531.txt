@@ -1,0 +1,1 @@
+ URL : "https://github.com/AnemoneLabs/unmessage/issues/30" TITLE : add a logger BODY : it is currently not very simple to debug unmessage specially when using the cli and having a logger available would be a great improvement.

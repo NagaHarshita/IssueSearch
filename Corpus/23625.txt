@@ -1,0 +1,1 @@
+ URL : "https://github.com/hpi-epic/pyHANA/issues/2" TITLE : python 3.2 support BODY : we currently do not support python 3.2 because specifically this version has dropped support for the u'' unicode string literal. we have not found a suitable solution yet, so python 3.2 support is hereby postponed .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/omniumbusinesssolutions/b2b/issues/9" TITLE : setup sandbox/live server BODY : - spin up new elastic beanstalk instance on aws - configure server with required database system and framework dependencies - test configuration - test defined deployment workflow

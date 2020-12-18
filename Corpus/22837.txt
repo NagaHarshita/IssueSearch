@@ -1,0 +1,1 @@
+ URL : "https://github.com/Python1320/outfitter/issues/2" TITLE : model breaking bug BODY : if you are in a vehicle while changing models with the outfitter, a bug will delete the model from the cache without realizing it's missing, making the model impossible to load.

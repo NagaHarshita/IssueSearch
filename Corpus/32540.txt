@@ -1,0 +1,1 @@
+ URL : "https://github.com/XGProyect/XG-Proyect-v3.x.x/issues/176" TITLE : v3.1.0 register bug BODY : fatal error: class 'application\libraries\messagesoptions' not found in c:\xampp\htdocs\xgp3.1.0\application\libraries\functionslib.php on line 392

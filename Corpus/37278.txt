@@ -1,0 +1,1 @@
+ URL : "https://github.com/california-civic-data-coalition/django-calaccess-processed-data/issues/36" TITLE : load ocd party model BODY : maybe just another custom .load method on a partymanager that creates the few party objects we know we need.

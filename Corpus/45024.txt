@@ -1,0 +1,1 @@
+ URL : "https://github.com/doggydips/doggydips.co.uk/issues/123" TITLE : google maps api error BODY : error has popped up in maps section about and booking pages sorry! something went wrong. this page didn't load google maps correctly. see the javascript console for technical details. when i checked in the console google maps is complaining about no api key. there

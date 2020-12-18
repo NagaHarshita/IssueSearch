@@ -1,0 +1,1 @@
+ URL : "https://github.com/calebmer/postgraphql/issues/387" TITLE : how to model interfaces? BODY : is there a way to model interfaces https://medium.com/the-graphqlhub/graphql-tour-interfaces-and-unions-7dd5be35de0d .c4hzu9enw using postgraphql? i guess that this would require to map any metadata to a table which could be a problem.

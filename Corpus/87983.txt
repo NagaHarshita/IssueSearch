@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla/brackets/issues/683" TITLE : minify css files in dist/ BODY : our gruntfile should use less to minify all css files in dist/ , especially those in extension dirs. because we copy them over, we can do it in place and replace the existing unminified files.

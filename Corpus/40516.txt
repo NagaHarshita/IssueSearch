@@ -1,0 +1,1 @@
+ URL : "https://github.com/ice-services/moleculer/issues/93" TITLE : update amqp for 0.11 BODY : we need to update the amqp transporter to the new v2 protocol 86 . @nathan-schwartz i'm going to try it, but maybe i need your help as well :

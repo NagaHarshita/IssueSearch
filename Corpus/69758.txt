@@ -1,0 +1,1 @@
+ URL : "https://github.com/palantir/auth-tokens/issues/46" TITLE : try out netflix rewrite BODY : we should be able to auto-refactor people from tokens to tokens2: https://github.com/netflix-skunkworks/rewrite

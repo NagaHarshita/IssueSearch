@@ -1,0 +1,1 @@
+ URL : "https://github.com/oasp/oasp4j-ide/issues/123" TITLE : enable gh pages BODY : for the new oomph setup location we need to enable gh pages based on the /docs folder in the master branch. could somebody with access take care of that?

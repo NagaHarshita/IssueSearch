@@ -1,0 +1,1 @@
+ URL : "https://github.com/neomake/neomake/issues/1376" TITLE : improve gradle maker BODY : see https://github.com/neomake/neomake/issues/749 issuecomment-304444093. should also be moved to be a file mode maker probably - included in java.vim. /cc @wsdjeg

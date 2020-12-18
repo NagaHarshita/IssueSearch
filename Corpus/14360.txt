@@ -1,0 +1,1 @@
+ URL : "https://github.com/openbadges/badgecheck/issues/44" TITLE : add url validator BODY : py from badgecheck import tasks tasks.validation.primitivevaluevalidator tasks.validation.valuetypes.url http://example.com/1 should enforce parsability watch out for differences between py2/py3 in urllib libraries should enforce either http or https scheme

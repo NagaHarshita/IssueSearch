@@ -1,0 +1,1 @@
+ URL : "https://github.com/jwhitmore/AutoPutty/issues/27" TITLE : session control settings BODY : remember width of session control dock widget, or if it was visible/hidden. restore those settings on startup.

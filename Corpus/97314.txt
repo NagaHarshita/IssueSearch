@@ -1,0 +1,1 @@
+ URL : "https://github.com/gsabater/Steam-Backlog/issues/36" TITLE : get achievements on server BODY : parse int in achievement_block .block-title element

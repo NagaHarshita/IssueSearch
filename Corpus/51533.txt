@@ -1,0 +1,1 @@
+ URL : "https://github.com/MonkeyNights/podcast/issues/4" TITLE : arquitetura do projeto BODY : como construir a arquitetura do projeto xamarin. exemplo : - divisão das pastar models/services/viewmodels, etc. - separação em camadas: criar librarys para as camadas do projeto projeto.api, projeto.services, projeto.crosscutting abraço;

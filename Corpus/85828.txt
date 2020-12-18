@@ -1,0 +1,1 @@
+ URL : "https://github.com/i5ting/travis-cli/issues/21" TITLE : for the badges, check out BODY : https://github.com/bevry/badges as well as https://github.com/bevry/projectz which inserts badges into readme files with the <!-- badges --> tag and a badges package.json variable

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jeffdylansmith/BE_Capstone/issues/8" TITLE : export downloadable script BODY : given a user is looking at a project overview when a user clicks export project then a pdf download should begin of the script in the order that the scenes are in

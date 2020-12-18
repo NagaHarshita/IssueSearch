@@ -1,0 +1,1 @@
+ URL : "https://github.com/Hutchy68/pivot/issues/15" TITLE : rtl languages issues BODY : the skin won't work well with rtl languages. there is a need to make pieces of the code for navigation, aside, and page layout more modular with an early check on content language to build the layout for better rtl functionality.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/rathena/rathena/issues/1876" TITLE : pc_hit trigger bug BODY : pc_hit timer is being triggered even when just pointing the mouse over a character.

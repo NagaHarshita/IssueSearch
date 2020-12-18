@@ -1,0 +1,1 @@
+ URL : "https://github.com/dimich-g/webpackage/issues/33" TITLE : document node's use cases BODY : @bmeck, could you describe the use cases you're interested in for the packaging format, either in this issue or as a pr against the readme.md https://github.com/dimich-g/webpackage/blob/master/readme.md ?

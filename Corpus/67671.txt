@@ -1,0 +1,1 @@
+ URL : "https://github.com/neuro-ml/reskit/issues/4" TITLE : provide basic tutorials BODY : there are should be three tutorials: 1. on using core with standard sklearn transformers 2. on using custom transformers for brain-ml on graphs 3. combination of 1 and 2

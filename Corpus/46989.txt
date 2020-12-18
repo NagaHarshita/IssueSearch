@@ -1,0 +1,1 @@
+ URL : "https://github.com/linuxkit/linuxkit/issues/1792" TITLE : nginx stopped working BODY : turns out i broke symlink handling... fix incoming. @dave-tucker we really need a test for nginx. wondering if we should test whether it is working locally or remotely?

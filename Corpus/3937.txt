@@ -1,0 +1,9 @@
+ URL : "https://github.com/PennyDreadfulMTG/perf-reports/issues/787" TITLE : 500 error at / BODY : failed to initialize database in decksite reported on decksite by logged_out
+--------------------------------------------------------------------------------
+request method: get
+path: /?
+cookies: {}
+endpoint: home
+view args: {}
+person: logged_out
+user-agent: mozilla/5.0+ compatible; uptimerobot/2.0; http://www.uptimerobot.com/ referrer: https://pennydreadfulmagic.com

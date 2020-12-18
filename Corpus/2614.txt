@@ -1,0 +1,1 @@
+ URL : "https://github.com/DestinyItemManager/dim-i18n-bot/issues/1" TITLE : can't use hub BODY : the i18n-bot always fails because hub doesn't have github credentials. we should just push changes rather than making a pr.

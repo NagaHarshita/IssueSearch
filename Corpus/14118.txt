@@ -1,0 +1,1 @@
+ URL : "https://github.com/elastic-rs/elastic/issues/219" TITLE : add debug logging BODY : add some debug-level logging of raw request/response data so it's easier to diagnose issues. i think all this needs to get started is: - request url - response code and a correlation id so you can link a request to its response.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/HanEmile/SatelliteComputation/issues/1" TITLE : c++ parsing file BODY : no idea how to parse the downloaded file in c++. plan: reading the file char by char and writing it to an array.

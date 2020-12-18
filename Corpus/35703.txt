@@ -1,0 +1,1 @@
+ URL : "https://github.com/spacekookie/lockchain/issues/4" TITLE : expand the vault api BODY : right now the functionality is very limited - add search functions by certain parameters - add delete and selective remove functions - allow querying for specific data values in a record

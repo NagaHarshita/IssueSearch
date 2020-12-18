@@ -1,0 +1,1 @@
+ URL : "https://github.com/systers/powerup-android/issues/539" TITLE : reduce code size BODY : a lot of activities have redundant and repeatitive lines of code which make debugging hard. can i work on this issue ?

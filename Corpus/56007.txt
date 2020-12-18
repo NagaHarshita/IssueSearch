@@ -1,0 +1,1 @@
+ URL : "https://github.com/siggame/discordbot/issues/8" TITLE : make use of the config BODY : put values such as meeting time in the config and use config npm module to get the values

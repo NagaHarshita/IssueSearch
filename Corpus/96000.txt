@@ -1,0 +1,1 @@
+ URL : "https://github.com/alwsl/alwsl/issues/80" TITLE : downloading rootfs freezes BODY : there is no network activity for around 10 minutes on downloading rootfs stage.

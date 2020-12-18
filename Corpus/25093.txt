@@ -1,0 +1,1 @@
+ URL : "https://github.com/Nelson-numerical-software/nelson/issues/75" TITLE : use mkl on windows BODY : see https://software.intel.com/en-us/articles/free-mkl use mkl as blas, lapack, fftw wrapper

@@ -1,0 +1,1 @@
+ URL : "https://github.com/contao/contao-manager/issues/110" TITLE : php binary für mittwald BODY : leider ist es nicht möglich bei mittwald den contao manager beta 4 nicht zu installieren. es wird die php binary nicht gefunden und der pfad dazu nicht akzeptiert. egal welche php version genutzt wird.

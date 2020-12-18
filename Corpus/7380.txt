@@ -1,0 +1,1 @@
+ URL : "https://github.com/greyscale-io/greyscale_rails/issues/2" TITLE : fix live reload BODY : live_reload: true doesn't seem to do anything

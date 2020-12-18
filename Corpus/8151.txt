@@ -1,0 +1,1 @@
+ URL : "https://github.com/NextFaze/angular-rollbar/issues/6" TITLE : need unit tests BODY : the module itself is fairly simple but still needs tests. at the moment coveralls is lying, currently coverage is 0.

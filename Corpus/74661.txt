@@ -1,0 +1,1 @@
+ URL : "https://github.com/RoaringBitmap/RoaringBitmap/issues/190" TITLE : faster bulk next and add BODY : the go version of roaring is receiving faster bulk iterators and adds https://github.com/roaringbitmap/roaring/issues/123 .

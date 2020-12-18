@@ -1,0 +1,1 @@
+ URL : "https://github.com/kurt-patrick/android/issues/2" TITLE : click event fails BODY : have a button where click event fails randomly, user will need to validate success, on failure they wil need to click again

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Wisembly/vendor-mixpanel/issues/3" TITLE : remove jquery dep BODY : jquery is used to extend and deferred . - use es6

@@ -1,0 +1,1 @@
+ URL : "https://github.com/getsentry/raven-ruby/issues/746" TITLE : load/store state from file BODY : this is like storing 429 retry times, or that a dsn has been disabled, into a file and checking for that on startup.

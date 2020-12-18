@@ -1,0 +1,1 @@
+ URL : "https://github.com/fingerpich/jalali-moment/issues/3" TITLE : jalali as a flag BODY : when we want to use some other library that is used moment.js we have to change all function name and formats to jyear or 'jyyyy-jmm-jdd' but i think we could have a flag to indicate it should treated as a jalali date or gregorian date.

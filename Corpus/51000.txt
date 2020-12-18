@@ -1,0 +1,1 @@
+ URL : "https://github.com/ryanoasis/nerd-fonts/issues/227" TITLE : add ligatures to font. BODY : sorry for the noob question, is there a way to add ligatures to font? i'm tried to patch monaco with -c flag but not see any ligatures.

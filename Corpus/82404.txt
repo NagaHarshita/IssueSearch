@@ -1,0 +1,1 @@
+ URL : "https://github.com/tiramisusolutions/cookiecutter-ansible-role/issues/1" TITLE : add template for molecule BODY : if we stay with molecule we need to add that as option. something like, ask in the dialog and if yes, create boilerplate for molecule

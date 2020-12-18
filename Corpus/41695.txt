@@ -1,0 +1,1 @@
+ URL : "https://github.com/brian-team/brian2cuda/issues/80" TITLE : add consistency tests BODY : check out this cpp standalone openmp test https://github.com/brian-team/brian2/blob/15817a44b7f7095a24435947042e1fcb275c36f1/brian2/tests/test_cpp_standalone.py l95-l189 and adapt for cuda_standalone .

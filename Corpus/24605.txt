@@ -1,0 +1,1 @@
+ URL : "https://github.com/cran/hBayesDM/issues/1" TITLE : tab delimited data BODY : this is a very minor issue but you might want to consider noting in the help file that the .txt data is expecting a tab delimited file rather than comma or space . it took me a while to figure out that was causing errors for me.

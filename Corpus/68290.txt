@@ -1,0 +1,1 @@
+ URL : "https://github.com/ProjectResound/planning/issues/50" TITLE : research search feature BODY : we'll need a way to search/discover uploaded audio in resound. hopefully something free or open-source, easy to set up, and gives expected search results. ac: - we decided on what tech to use for search - there is a poc of it working, or it is built into resound store + manage

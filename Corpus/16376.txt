@@ -1,0 +1,16 @@
+ URL : "https://github.com/Zimmi48/bugzilla-test/issues/1071" TITLE : import <module> ? BODY : note: the issue was created automatically with bugzilla2github tool bugzilla bug id: 348
+date: 2003-10-13 14:14:53 +0200
+from: pierre.corbineau@lri.fr
+to: last updated: 2003-10-13 14:14:53 +0200 bugzilla comment id: 378
+date: 2003-10-13 14:14:53 +0200
+from: pierre.corbineau@lri.fr full_name: pierre corbineau
+version: 8.0alpha cvs os: linux
+submission from: pc8-126.lri.fr 129.175.8.126 there seem to be a bug in import. module type s.
+parameter empty: set.
+end s. module d m:s . import m. definition empty:set. bug: error: empty already exists definition empty:=nat. this latter one is ok shouldn't the former definition statement be accepted ? it works when i give another name bugzilla comment id: 380
+date: 2003-10-13 14:44:05 +0200
+from: pierre.corbineau@lri.fr hugo herbelin <herbelin@pauillac.inria.fr>
+> definition empty:set.
+> bug: error: empty already exists c'est ma faute, un bug de start_proof de ce matin. maintenant corrigé. hugo bugzilla comment id: 379
+date: 2007-07-04 17:03:29 +0200
+from: pierre.corbineau@lri.fr fixed

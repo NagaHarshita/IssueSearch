@@ -1,0 +1,1 @@
+ URL : "https://github.com/j1348/timelapse-web/issues/1" TITLE : add signup form BODY : in order to register a new user, we need to have a sign-up form with the following fields. - name - username - email - password

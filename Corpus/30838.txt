@@ -1,0 +1,1 @@
+ URL : "https://github.com/wyattjoh/rate-limit-redis/issues/5" TITLE : redis instance size BODY : hi, we're interested in using this software for our server but i'm not sure how bug the redis instance should be. do you maybe know how much memory is used for every request / ip? thanks

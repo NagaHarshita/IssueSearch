@@ -1,0 +1,1 @@
+ URL : "https://github.com/okTurtles/group-income-simple/issues/245" TITLE : fix missing foco font BODY : problem the console reports it cannot load foco, and that's because it's not where it should be, i.e. http://localhost:8000/simple/fonts/focobold.ttf fails to load because it's not in dist/simple/fonts/ . solution copy the font properly.

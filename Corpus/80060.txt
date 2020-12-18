@@ -1,0 +1,1 @@
+ URL : "https://github.com/killbill/killbill-admin-ui-standalone/issues/12" TITLE : switch to mariadb driver BODY : see gemfile https://github.com/killbill/killbill-admin-ui-standalone/blob/a17839680f7fca5a2a8224d83e7043e711118f31/gemfile l60 . this would allow for easy r/w failover on aurora.

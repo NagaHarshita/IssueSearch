@@ -1,0 +1,1 @@
+ URL : "https://github.com/litdev1/LitDev/issues/5" TITLE : request rsa support BODY : rsa or another public-key cryptography encryption support added to the library would be really helpful and possibly aid in the overall security of programs that are possible to be created using the library. separate question : which license is the entirety of this library licensed under?

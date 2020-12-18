@@ -1,0 +1,1 @@
+ URL : "https://github.com/cuberite/cuberite/issues/3750" TITLE : unsupported protocol 335 BODY : client version: 1.12 server os: linux when i will connect my own server after the latest update the client showes me that he cant connect to my server because the protocol 335 is unsupported and i should use one of these versions: 1.8,1.9.,1.10, 1.11

@@ -1,0 +1,1 @@
+ URL : "https://github.com/abaga129/Ddsp/issues/7" TITLE : gc used in unittest BODY : multiple modules use new in unittest blocks. should use mallocemplace!t instead to ensure that the code will work in a @nogc environment.

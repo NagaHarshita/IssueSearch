@@ -1,0 +1,1 @@
+ URL : "https://github.com/amirouche/socialite/issues/1" TITLE : fix pre-commit hook BODY : - the pre-commit hook should both lint the javascript and the python. - the pre-commit hook should run the unit tests with coverage

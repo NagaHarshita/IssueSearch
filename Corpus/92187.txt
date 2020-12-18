@@ -1,0 +1,1 @@
+ URL : "https://github.com/HKUST-Aerial-Robotics/VINS-Mobile/issues/68" TITLE : vins_pnp not in vins-mono BODY : could anyone please explain what the purpose of vins_pnp, in particular, why it is available in vins-mobile but not in vins-mono? thanks.

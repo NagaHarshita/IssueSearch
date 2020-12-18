@@ -1,0 +1,1 @@
+ URL : "https://github.com/CuBoulder/atlas/issues/328" TITLE : add support for pools BODY : context need to target the server set that we are deploying to.

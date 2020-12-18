@@ -1,0 +1,1 @@
+ URL : "https://github.com/ryuhhnn/stone-grid/issues/3" TITLE : make more unopinionated BODY : consider removing the 15px padding that is added by default for each column and rename .stone-grid to simply be .grid

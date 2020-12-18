@@ -1,0 +1,1 @@
+ URL : "https://github.com/rurban/safeclib/issues/25" TITLE : wcsfc_s: add reorder BODY : there can be decomposed char sequences which need to be reordered to be fully nfd and to be comparable to the same char sequence, which is already nfd.

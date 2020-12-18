@@ -1,0 +1,1 @@
+ URL : "https://github.com/mapbox/MapboxNavigation.swift/issues/63" TITLE : missing podfile file BODY : carthage installation is always a lack of mapboxgeocoder dependencies, can your provide cocoapods installation?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/codenameyau/trello-stocks/issues/2" TITLE : create web server BODY : right now i am testing heroku to see if it will run the updateboard job without a web server. if that doesn't work then i'll create a web server. report on what happens here.

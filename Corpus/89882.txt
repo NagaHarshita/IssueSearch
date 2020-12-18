@@ -1,0 +1,1 @@
+ URL : "https://github.com/OHDSI/Achilles/issues/213" TITLE : rendersql error on oracle BODY : running the pedsnet version 5 on oracle and i am getting the following error error in value 3l cond : no loop for break/next, jumping to top level in addition: warning message: in rendersql parameterizedsql 1 , ... : parameter 'vocab_database_schema' not found in sql

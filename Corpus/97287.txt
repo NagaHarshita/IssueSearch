@@ -1,0 +1,1 @@
+ URL : "https://github.com/shapesecurity/shift-parser-js/issues/352" TITLE : generate ast with comments BODY : when i parse the following code on the online parser http://shift-ast.org/parser.html i don't get any comments in the output: // hello world! / good morning / how can i add the comments to the ast?

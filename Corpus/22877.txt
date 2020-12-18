@@ -1,0 +1,1 @@
+ URL : "https://github.com/keijiro/Funnel/issues/9" TITLE : mouse follow issue BODY : hi, i'm using a 'follow mouse' script to attach a particle system to the position of the mouse along the screen. however, when i activate funnel, the mouse only moves limited from the left side to the center of the screen. any help? thank you very much!

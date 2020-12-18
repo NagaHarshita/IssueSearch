@@ -1,0 +1,1 @@
+ URL : "https://github.com/langpavel/node-pg-async/issues/108" TITLE : pg syntax in doc BODY : hi! in example you write: insert into bank_account account, amount values $1, $2 returns id but in pg syntax https://www.postgresql.org/docs/9.5/static/sql-insert.html yiu shoud use returning

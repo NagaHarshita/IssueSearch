@@ -1,0 +1,1 @@
+ URL : "https://github.com/ropenscilabs/cmipr/issues/11" TITLE : content of the inst folder BODY : this issue is part of this ropensci review https://github.com/ropensci/onboarding/issues/99 . i noticed the inst folder seems to contain redundant files, could it be deleted?

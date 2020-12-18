@@ -1,0 +1,1 @@
+ URL : "https://github.com/fwinkelbauer/Bumpy/issues/3" TITLE : improve console log BODY : currently bumpy only shows the file name, a line number and a version for each file. an additional regex capture group could be used to grap additional information which might be more meaningful than e.g. a line number

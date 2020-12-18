@@ -1,0 +1,1 @@
+ URL : "https://github.com/irods/irods_client_icommands/issues/20" TITLE : imeta qu extra output BODY : <pre> $ iput version.json $ imeta add -d version.json attribute value $ imeta qu -d attribute like value <b>xxxxx cmdtoken cmdix = </b> collection: /tempzone/home/rods dataobj: version.json </pre>

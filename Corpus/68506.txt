@@ -1,0 +1,1 @@
+ URL : "https://github.com/joonhocho/react-native-linkedin-sdk/issues/23" TITLE : sample app not working? BODY : running the sample app gives the following error: > { > errorcode : invalid_request , > errormessage : either bundle id or package name hash are invalid, unknown, malformed > } any idea?

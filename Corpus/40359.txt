@@ -1,0 +1,1 @@
+ URL : "https://github.com/olikraus/u8g2/issues/379" TITLE : turn off the display BODY : hi! is there a way/command to turn off the display? i'm using it on a nodemcu board and want to attach a button to turn the display on/off. thanks in advance.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/alumbo/jquery.parallax-scroll/issues/10" TITLE : different scrollable dom BODY : it would be awesome if it was possible to pass the scroll element to watch. my app should use this effect in a part that is not the whole viewport but a column. it would be cool to be able to specify this parent column.

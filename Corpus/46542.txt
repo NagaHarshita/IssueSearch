@@ -1,0 +1,1 @@
+ URL : "https://github.com/mtgred/netrunner/issues/2653" TITLE : meteor mining scoring BODY : the prompt to gain 7c on scoring meteor mining repeats itself and won't close. first time, i was able to click on it much later after both players /close-prompt-ed and make it resolve, but second time it kept looping.

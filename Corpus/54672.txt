@@ -1,0 +1,1 @@
+ URL : "https://github.com/jankammerath/iptvx/issues/45" TITLE : handle playback errors BODY : currently the error status is not handled properly and the loading indicator just keeps on going. there should be an error icon indicating an issue.

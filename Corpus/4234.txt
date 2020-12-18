@@ -1,0 +1,1 @@
+ URL : "https://github.com/asdil12/fff-monitoring/issues/55" TITLE : avg load graph BODY : hallo ich fände einen avg load graph nicht schlecht. ich hab aktuell einen router mit hoher auslastung und hohen load werten, da würde mir ein graph bei der diagnose sehr helfen. die daten werden in der json ja schon mitgeschickt, es müsste nur ein graph gebaut werden. gruß christian

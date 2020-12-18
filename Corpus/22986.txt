@@ -1,0 +1,6 @@
+ URL : "https://github.com/w3c/wai-policies-prototype/issues/283" TITLE : new entry for pada BODY : new entry for pada submitted by pada mailto:padatata187@gmail.com : ~~~yaml
+---
+country: en: pada manual enter other country names: updated: 2017-07-19
+updatemsg: related page:
+province: policies: - title: en: pada url: google.com updated: 10/10/2017 wcagver: wcag 2.0, wcag 2.0 derivate, wcag 1.0, enactdate: 10/10/2017 type: law, non-discrimination law, procurement law, procurement recommendation, mandatory policy, recommended policy, ministries: - title: en: pada url: en: webonly: true scope: standard: - title: en: desc: url: en: documents: - title: en: desc: url: en: ---
+~~~

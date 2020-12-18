@@ -1,0 +1,1 @@
+ URL : "https://github.com/deployphp/deployer/issues/1441" TITLE : new stage func proposal BODY : what about adding a new function for manipulating stages? php stage 'production', function { set 'deploy_path', '...' ; host 'domain.com' ->roles 'app' ; } ; php stage 'staging', function { set 'deploy_path', '...' ; inventory './inventory/staging.yml' ; } ;

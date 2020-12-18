@@ -1,0 +1,1 @@
+ URL : "https://github.com/wercker/step-copy-to-output/issues/1" TITLE : add include option BODY : if all files but a few should be excluded, it's easier to exclude all and then include the ones that should be kept. rsync supports this with the --include cli flag.

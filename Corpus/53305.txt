@@ -1,0 +1,1 @@
+ URL : "https://github.com/Xenira/Shashki/issues/7" TITLE : display opponent hover BODY : expected behavior it should be highlighted which field the opponent is hovering. current behavior not implemented possible solution broadcast hover event to clients.

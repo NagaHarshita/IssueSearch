@@ -1,0 +1,1 @@
+ URL : "https://github.com/knqyf263/pet/issues/38" TITLE : cd to a path BODY : i often go to a relativ deep path. so i added ------------------------------ description: go to common command: cd src/main/java/path/to/my/folder but when i run pet exec that command is just ignored. no error no change of directory. pet version pet version 0.2.1

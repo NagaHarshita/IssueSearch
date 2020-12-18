@@ -1,0 +1,1 @@
+ URL : "https://github.com/EnginyeriaSofwareUB/ES2017B1/issues/90" TITLE : menú de pausa en partida BODY : criterios de aceptación: - comprobar que al pulsar tecla esc se pausa el juego y muestra el menú - comprobar que funciona el botón continuar - comprobar que funciona el botón salir

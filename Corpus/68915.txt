@@ -1,0 +1,1 @@
+ URL : "https://github.com/benc-uk/microservices-demoapp/issues/4" TITLE : so many embedded styles BODY : sort the css out. move embedded styles to css files and work out what is happening with global vs component styles!

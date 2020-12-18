@@ -1,0 +1,1 @@
+ URL : "https://github.com/archagon/tasty-imitation-keyboard/issues/116" TITLE : allow full access is off BODY : hello. when i launch keyboard without allowing full access it crashes. the crash happens before the init method is called. please, help me find out how to solve this problem

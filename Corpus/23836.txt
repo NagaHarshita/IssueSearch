@@ -1,0 +1,1 @@
+ URL : "https://github.com/svgdotjs/svg.js/issues/592" TITLE : rename old v tags. BODY : rename all tags with a v prefix from the olden days. v0.1 - v1.0.0-rc.4.1 .

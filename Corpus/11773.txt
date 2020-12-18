@@ -1,0 +1,1 @@
+ URL : "https://github.com/broep/Dasmotos/issues/1" TITLE : keep lines short BODY : your lines are a bit long right now. try splitting this into new lines so it's easier to read on one screen without scrolling. convention is usually ~79 characters per line. https://github.com/broep/dasmotos/blob/master/index.html l32

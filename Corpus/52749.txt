@@ -1,0 +1,1 @@
+ URL : "https://github.com/etsy/phan/issues/605" TITLE : create a 0.9.1 release BODY : some bugs in handling nullable types were fixed, magic property support was added, additional inference rules were added, etc.

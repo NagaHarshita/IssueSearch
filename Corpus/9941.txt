@@ -1,0 +1,1 @@
+ URL : "https://github.com/spyder-ide/spyder-terminal/issues/64" TITLE : add server tests BODY : description of your problem what steps will reproduce the problem? 1. 2. 3. what is the expected output? what do you see instead? please provide any additional information below versions and main components terminal version: spyder version: python version: operating system:

@@ -1,0 +1,1 @@
+ URL : "https://github.com/overtrue/laravel-wechat/issues/202" TITLE : missing dot before default BODY : https://github.com/overtrue/laravel-wechat/blob/2bb6cc93b26a4157dfcea40bbce509e32f8cfdb9/src/serviceprovider.php l84 should be: php if empty config 'wechat.'.$name.'.default' {

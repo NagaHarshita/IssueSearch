@@ -1,0 +1,1 @@
+ URL : "https://github.com/pantsbuild/pants/issues/4805" TITLE : mirroring new s3 bucket BODY : we would like to host our own mirror of the new s3 bucket binaries.pantsbuild.org . currently, it is impossible to list the contents of this bucket via aws cli or the web interface .

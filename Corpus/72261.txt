@@ -1,0 +1,1 @@
+ URL : "https://github.com/JorgeAntrax/website/issues/13" TITLE : blockquote sin símbolos BODY : el símbolo de aparece siempre en los bloques de comentarios, y los hace dependientes de una tipografía en particular, si esta no estuviera se cargaría como un caracter molesto. se sugiere quitar el icono o permitir personalizarlo.

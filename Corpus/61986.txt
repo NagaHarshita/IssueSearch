@@ -1,0 +1,1 @@
+ URL : "https://github.com/IntelRealSense/realsense_samples_ros/issues/3" TITLE : can't build fatal error BODY : hello, i'm trying to run this on ros kinetic here is my issue: fatal error: realsense_ros_slam/reset.h: no such file or directory compilation terminated. i checked myself this file does not exist anywhere. please let me know if i am missing a step.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/nelqatib/mbed-vim/issues/10" TITLE : implement robust testing BODY : setup a test to extensively execute the plugin functions and test their correct behaviour. vimlint isn't sufficient.

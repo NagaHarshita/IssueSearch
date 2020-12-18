@@ -1,0 +1,1 @@
+ URL : "https://github.com/line/line-bot-faq/issues/27" TITLE : click tracking url ? BODY : does python line sdk have function of click tracking that allows developers to track how many times each link in their messages have been clicked on by their chat-bot users?

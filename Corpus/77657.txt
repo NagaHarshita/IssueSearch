@@ -1,0 +1,1 @@
+ URL : "https://github.com/amanb014/viewtube/issues/16" TITLE : non sequential playlists BODY : each playlist currently is sequentially played. there may be some videos that are supposed to be played non sequentially. these videos will not auto play videos. they will remember indexes that have already been played and mark them as played.

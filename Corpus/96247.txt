@@ -1,0 +1,1 @@
+ URL : "https://github.com/SC5/serverless-mocha-plugin/issues/63" TITLE : environment check required BODY : https://github.com/sc5/serverless-mocha-plugin/blob/1d521eb5c2549580840e54a20250678c16809df6/index.js l243 this doesn't work with windows filesystem.

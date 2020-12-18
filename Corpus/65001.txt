@@ -1,0 +1,1 @@
+ URL : "https://github.com/junyanz/CycleGAN/issues/7" TITLE : identity loss parameter BODY : is there a way to configure the identity loss weight via the options parameters? for instance, to set to 0.5 per some of the experiments in the paper? i see a flag for enabling/disabling identity mapping but nothing for setting the loss weight

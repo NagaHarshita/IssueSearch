@@ -1,0 +1,1 @@
+ URL : "https://github.com/ufobat/EANN/issues/16" TITLE : load and store from a file BODY : if you modifed your settings you should be able to save this settings to a file. of course you should be able to load such a file again. there should be a file that is automatically loaded with the latest settings you used.

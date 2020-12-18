@@ -1,0 +1,1 @@
+ URL : "https://github.com/xcat2/xcat-core/issues/3628" TITLE : fvt automate ib test BODY : what to do : offer a test solution, include hardware requirement. offer test case list, include detailed description and prerequisite. implement these test cases test these test cases in target environment

@@ -1,0 +1,1 @@
+ URL : "https://github.com/CameronSamuels/memerator/issues/27" TITLE : edit canvas top margin BODY : we can change the top margin of the canvas to 0px when the screen is on a phone so it uses less space. it will still look nice because the margin on a phone makes it look bad.

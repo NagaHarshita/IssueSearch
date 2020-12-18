@@ -1,0 +1,1 @@
+ URL : "https://github.com/RetroShare/RetroShare/issues/1056" TITLE : no package for debian 9 BODY : hello, when updated from debian 8 to debian 9, it's impossible to launch rs and update the debian package. http://download.opensuse.org/repositories/home:/asamk:/retroshare/ only gives debian 8 packages.

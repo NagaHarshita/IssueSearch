@@ -1,0 +1,1 @@
+ URL : "https://github.com/LIS/lis-test/issues/817" TITLE : putty md5sum location BODY : installputty checks for $filesum.hash -ne $sums x86/${util} , but the actual path in sha256sums.txt is w32, at least for me.

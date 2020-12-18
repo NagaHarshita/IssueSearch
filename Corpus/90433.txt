@@ -1,0 +1,1 @@
+ URL : "https://github.com/sharkdp/fd/issues/121" TITLE : shell completions out_dir BODY : setting out_dir doesn't seem to have any effect on where the completions files are created. am i doing something wrong?

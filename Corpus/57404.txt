@@ -1,0 +1,1 @@
+ URL : "https://github.com/BioSystemsGroup/bsg/issues/4" TITLE : proposed method rename BODY : method name bsg.util.collectionutils.counttype is unclear, as it does not actually count the number of types. instead, it counts the number of objects in the list of the given type. i propose renaming the method from counttype to countobjectsoftype .

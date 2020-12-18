@@ -1,0 +1,1 @@
+ URL : "https://github.com/modelica/Modelica/issues/60" TITLE : typo in dc machines BODY : reported by tbaeuml on 13 mar 2008 07:56 utc in the infolayer of dc_electricalexcited and dc_seriesexcited aramture inductance is written in the table of machine parameters. ---- migrated-from: https://trac.modelica.org/modelica/ticket/60

@@ -1,0 +1,1 @@
+ URL : "https://github.com/dperson/nginx/issues/10" TITLE : tag docker images BODY : if possible, it would be great to tag pushed images with a build number and keep a few of them around. right now i only see latest . if a breaking change is pushed out and we update, there's no easy way to rollback. https://hub.docker.com/r/dperson/nginx/tags/

@@ -1,0 +1,1 @@
+ URL : "https://github.com/timothycrosley/hug/issues/591" TITLE : output xlsm file BODY : i have a server with hug and in the same file i have a xlsm file, and i want to return a xlsm file when some request done..any idea how to do it?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/quintilesims/d.ims.io/issues/2" TITLE : add /repositiory endpoint BODY : get /repository - list all repos post /repository - create a new repo get /repository/:name - get info about a repo delete /repository/:name - delete a repo

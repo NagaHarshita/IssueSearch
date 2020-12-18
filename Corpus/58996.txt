@@ -1,0 +1,1 @@
+ URL : "https://github.com/Ericsson/CodeCompass/issues/172" TITLE : symbolic link handling BODY : when the project is stored in a directory which can be reached on several paths because of symbolic links then some functionalities of the tool behave badly labels, text search .

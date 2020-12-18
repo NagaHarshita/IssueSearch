@@ -1,0 +1,12 @@
+ URL : "https://github.com/OCA/knowledge/issues/147" TITLE : migration to version 11.0 BODY : todo https://github.com/oca/maintainer-tools/wiki/migration-to-version-11.0 modules to migrate - attachment_attach_non_editable
+- attachment_preview
+- attachments_to_filesystem
+- document_choose_directory
+- document_multiple_records
+- document_no_unique_filenames
+- document_page
+- document_page_approval
+- document_page_multi_company
+- document_reindex
+- document_url
+- knowledge

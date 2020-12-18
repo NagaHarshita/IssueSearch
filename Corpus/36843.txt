@@ -1,0 +1,1 @@
+ URL : "https://github.com/dennisjunior111/dataviz-RocketLeagueStats/issues/2" TITLE : include player table BODY : based on their statistics, players are plotted on the chart. to better identify and select certain groups of players, one could use a table to check/uncheck/sort players. would be put to the right of the scatterplot. required: multiple checkbox player selector/sorter

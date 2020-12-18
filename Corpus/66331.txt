@@ -1,0 +1,1 @@
+ URL : "https://github.com/hzdr/thinstation/issues/5" TITLE : missing dirs on install BODY : cp: target '/tftpboot/thinstation/conf/pkg/' is not a directory 'ts/build/boot-images/pxe/boot/' not created during regular install fix: mkdir -p ts/build/boot-images/pxe/boot/ fix: mkdir -p /tftpboot/thinstation/conf/pkg/ thx in advance

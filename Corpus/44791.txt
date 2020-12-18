@@ -1,0 +1,1 @@
+ URL : "https://github.com/newaetech/chipwhisperer/issues/66" TITLE : fix visascope modules BODY : they are not marked as plugin, so they are never loaded: https://forum.newae.com/viewtopic.php?f=7&p=1547 p1547

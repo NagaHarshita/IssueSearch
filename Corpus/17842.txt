@@ -1,0 +1,1 @@
+ URL : "https://github.com/aurelienne/gis4graph/issues/29" TITLE : retornar erro 412 BODY : quando pré-condições nos dados de entrada não forem atendidas, retornar erro 412 para o usuário com a descrição do erro.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/marvin-automator/marvin/issues/1" TITLE : fix path to mainjs file BODY : currently, /static/js/appication.js leads to a 404 error.

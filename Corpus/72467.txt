@@ -1,0 +1,1 @@
+ URL : "https://github.com/jwise/HoRNDIS/issues/73" TITLE : building on sierra fails BODY : i get the following error: 'iokit/usb/iousbbus.h' file not found are the deploy packages not being built on a machine running sierra or is there something i need to change/install?

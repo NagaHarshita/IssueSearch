@@ -1,0 +1,1 @@
+ URL : "https://github.com/lovingjo/Sort/issues/1" TITLE : insertion sort c++ BODY : ifndef sort_insertionsort_h define sort_insertionsort_h include <iostream> template<typename t> void insertionsort t arr , int l, int r { for int i=l+1; i<=r; i++ { t e = arr i ; int j; for j=i; j>l && arr j-1 >e; j-- arr j = arr j-1 ; arr j = e; } return; } endif //sort_insertionsort_h

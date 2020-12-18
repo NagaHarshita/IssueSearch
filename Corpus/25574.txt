@@ -1,0 +1,1 @@
+ URL : "https://github.com/sabotage-linux/netbsd-curses/issues/27" TITLE : 0.2.1 build failure BODY : >libcurses/slk.c: in function '__slk_set': libcurses/slk.c:488:10: error: implicit declaration of function 'wcwidth' -werror=implicit-function-declaration len += wcwidth wc ; last known successful build was 22acb33 so something between then and now may be the culprit.

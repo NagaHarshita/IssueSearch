@@ -1,0 +1,1 @@
+ URL : "https://github.com/phasenraum2010/btw17kandidaten/issues/101" TITLE : database schema evolution BODY : - add org.woehlke.btw17.kandidaten.oodm.model.parts.dimensionfacetten - add org.woehlke.btw17.kandidaten.oodm.model.parts.onlinestrategie to org.woehlke.btw17.kandidaten.oodm.model.kandidat

@@ -1,0 +1,1 @@
+ URL : "https://github.com/toby/serde-bencode/issues/5" TITLE : upgrade to serde 1.0 BODY : i'm trying to move away from bencode to serde-bencode due to the rustc-serialize deprecation. https://github.com/kpcyrd/cjdns-rs/issues/2 could you please consider upgrading to 1.0 : ?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jarv/cmdchallenge/issues/40" TITLE : print number sequence BODY : this seems to be a valid answer to the challenge print number sequence echo {1,2,3,4,5,6,7,8,9} {1,2,3,4,5,6,7,8,9}{0,1,2,3,4,5,6,7,8,9,0} 100

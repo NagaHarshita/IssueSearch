@@ -1,0 +1,1 @@
+ URL : "https://github.com/mitodl/salt-ops/issues/459" TITLE : allow re-runs in studio BODY : as a django staff user, i'd like to be able to re-run a course using the studio re-run function. we think this will create fewer issues than exporting and importing a course in order to run it again in another semester.

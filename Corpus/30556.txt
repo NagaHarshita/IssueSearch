@@ -1,0 +1,1 @@
+ URL : "https://github.com/thegreyd/openmrs-core/issues/6" TITLE : prevent stack trace BODY : from project 1 report don't display stack trace on wrong url or when an exception occurs in the web application

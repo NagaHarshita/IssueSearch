@@ -1,0 +1,1 @@
+ URL : "https://github.com/craftsmancoding/assetmanager/issues/83" TITLE : mysql strict mod BODY : assetmanager can not be installed with mysql strict mod enabled. in mysql 5.7 strict mod will be no possibility to disable it. any solution for that ?

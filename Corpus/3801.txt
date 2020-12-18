@@ -1,0 +1,1 @@
+ URL : "https://github.com/zone117x/node-cryptonote-pool/issues/242" TITLE : use this code BODY : use this code var limit = 10 for var i=0;i<=limit;i++ { function ind { settimeout function { console.log ind ; if ind === limit { console.log 'it was the last one' ; } }, 1000 + 3000 ind ; } i ; }

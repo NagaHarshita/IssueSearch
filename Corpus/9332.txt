@@ -1,0 +1,1 @@
+ URL : "https://github.com/ipfs-shipyard/peerpad-core/issues/1" TITLE : use latest y.js BODY : use latest y.js version currently @next, v13.0.0 , because it will enable us to create a custom db.

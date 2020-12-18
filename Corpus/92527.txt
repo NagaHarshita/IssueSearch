@@ -1,0 +1,1 @@
+ URL : "https://github.com/martindurant/work-plan/issues/2" TITLE : yarn: split out dask-yarn BODY : - make python package for dask-yarn within the knit repo - and create conda package for it which will just depend on knit and nothing more

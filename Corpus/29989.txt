@@ -1,0 +1,1 @@
+ URL : "https://github.com/chef/rs-chef-api/issues/11" TITLE : new to rust but.... BODY : is this client pretty complete? looking to re-write a go app we use into something more minimalist and rust is in my list as a language of choice. i am essentially looking for knife operations to retrieve nodes per environment. very simple stuff.

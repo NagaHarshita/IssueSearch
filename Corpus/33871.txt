@@ -1,0 +1,1 @@
+ URL : "https://github.com/ThemeFuse/Unyson/issues/2582" TITLE : avoid using sessions BODY : wordpress core doesn't use sessions, and some hosting providers do not enable this too, or enable with some restrictions. there is even a plugin for sessions: https://wordpress.org/plugins/wp-native-php-sessions/ we should remove sessions usage from unyson core.

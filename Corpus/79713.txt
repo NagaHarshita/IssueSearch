@@ -1,0 +1,1 @@
+ URL : "https://github.com/ymgaq/AQ/issues/38" TITLE : stack overflow exception BODY : thank you for publishing great go program! i was able to compile it using visual studio. however when i run the program i get a stack overflow exception. is there a solution for it?

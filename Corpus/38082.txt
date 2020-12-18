@@ -1,0 +1,1 @@
+ URL : "https://github.com/isleofcode/ember-cordova-installer/issues/1" TITLE : node 8 compatibility BODY : i find ^4.5 || 6. || 7. in package.json disallowing use under node 8. limited tests seems to indicate it works though.

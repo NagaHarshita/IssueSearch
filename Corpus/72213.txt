@@ -1,0 +1,1 @@
+ URL : "https://github.com/avr-rust/rust/issues/66" TITLE : best way to get started? BODY : hey, what would you guys suggest to get started with rust on an arduino uno? im thinking about how would one get to have rustc with target avr enabeled. if this is not yet possible, what are other options. what are the current issues to ne solved for this ? thanks in advance

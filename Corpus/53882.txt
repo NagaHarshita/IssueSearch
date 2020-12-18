@@ -1,0 +1,1 @@
+ URL : "https://github.com/JasonZzy0528/diff_three_way/issues/4" TITLE : export patch as string BODY : add new functions that can convert patch to text and convert text to patch

@@ -1,0 +1,1 @@
+ URL : "https://github.com/sorrell/SQLitePCL.raw.Functions/issues/6" TITLE : add tosqlitedate function BODY : it would be nice to create sqlite friendly dates from existing data, so tosqlitedate date function would be awesome.

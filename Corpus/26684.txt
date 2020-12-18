@@ -1,0 +1,1 @@
+ URL : "https://github.com/orbitdb/orbit-db/issues/288" TITLE : build step missing? BODY : i suspect i'm missing something from the build instructions. after opening the browser examples https://github.com/orbitdb/orbit-db browser-example i got a js error that lib/ipfs.js was missing. $ find . | ack ipfs.js ./test/utils/start-ipfs.js did i skip a step somewhere?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/KVSun/kvs-icons/issues/4" TITLE : use text in icons BODY : use text in icons instead of converting them to paths. this will limit font choices, but also reduce size pretty significantly.

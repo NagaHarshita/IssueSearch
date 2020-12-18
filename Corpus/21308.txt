@@ -1,0 +1,1 @@
+ URL : "https://github.com/caio-tenorio/ChatP2/issues/1" TITLE : exception nickname BODY : setar tamanho máximo para o nickname, e tratar o erro se for inválido exceder tamanho máximo, ser nulo, caracteres proibidos .

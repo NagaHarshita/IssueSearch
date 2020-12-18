@@ -1,0 +1,1 @@
+ URL : "https://github.com/robballou/project/issues/1" TITLE : add variables support BODY : add a way to define variables in project configuration: yaml variables: foo: thing build: dev: style: script use the variable to be thing/path script: $foo/path

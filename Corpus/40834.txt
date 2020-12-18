@@ -1,0 +1,1 @@
+ URL : "https://github.com/drbeco/githubin/issues/4" TITLE : verbose level 3 -vvv BODY : it should list all variables it should allow curl give back its report not grabbing it by pipe grep

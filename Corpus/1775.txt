@@ -1,0 +1,1 @@
+ URL : "https://github.com/DreamTheater2016/compiler/issues/1" TITLE : for loop bug BODY : the final section of the for loop could overwrite variables declared in the first part.

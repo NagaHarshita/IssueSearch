@@ -1,0 +1,1 @@
+ URL : "https://github.com/MCUdude/MightyCore/issues/59" TITLE : adding couple chips BODY : sorry to bother you, but would it be possible to add the support for atmega 16/32 u4 chips? the 32 one is the one arduino uses in its micro board, so there should be plenty of already existing data, but i cant find a barebones one for them.

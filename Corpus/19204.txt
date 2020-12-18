@@ -1,0 +1,1 @@
+ URL : "https://github.com/RiiConnect24/RC24-Bot/issues/53" TITLE : !patch not working BODY : the bot doesn't reply to uploaded mail files. it doesn't error out or smth, but just doesn't do anything, as seen below: ! image https://user-images.githubusercontent.com/32306794/32536074-fbc3e2da-c45c-11e7-9e47-e048dd29c11c.png

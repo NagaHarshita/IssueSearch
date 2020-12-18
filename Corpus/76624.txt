@@ -1,0 +1,1 @@
+ URL : "https://github.com/NativeScript/NativeScript/issues/4815" TITLE : list view load more item BODY : hi, i'm using the list view load more items feature. it gets triggered when ever new data is loaded. when the list is loaded initially and not even scrolled the loadmore event is fired.

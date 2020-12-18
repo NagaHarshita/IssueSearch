@@ -1,0 +1,1 @@
+ URL : "https://github.com/eps90/Fazah/issues/16" TITLE : add cl capabilities BODY : in order to not to manage resources that user is not permitted to, create an acl mechanism that allows to read/write resources projects. catalogues, messages that user is allowed to.

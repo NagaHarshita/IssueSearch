@@ -1,0 +1,1 @@
+ URL : "https://github.com/RUGSoftEng/Winter-Summer-School-iOS/issues/15" TITLE : forum login with firebase. BODY : logging into the forum necessitates using firebase libraries to handle the authentication.

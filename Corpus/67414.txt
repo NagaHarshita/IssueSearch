@@ -1,0 +1,1 @@
+ URL : "https://github.com/collective/collective.solr/issues/166" TITLE : plone 5.1 compatibility BODY : just to leave a note here: as the plip https://github.com/plone/products.cmfplone/issues/1343 got merged collective.solr, for plone 5.1 should use products.cmfcore rather than collective.indexing.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/vscode/issues/37395" TITLE : gulp spits out git errors BODY : ! image https://user-images.githubusercontent.com/22350/32270712-4f30982a-bef7-11e7-8d55-e7bc58e75d31.png just ignore git's output, don't inherit the parent's stdout.

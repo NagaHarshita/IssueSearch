@@ -1,0 +1,1 @@
+ URL : "https://github.com/antoiner77/caddy-ansible/issues/62" TITLE : write more tests BODY : we should write more tests. these should be compatible with travis and vagrant. maybe we could change test.yml to use include_role multiple times with different variables set. we could also add tasks that check the state at the end. how would we check idempotency? any ideas are welcome

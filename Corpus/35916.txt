@@ -1,0 +1,1 @@
+ URL : "https://github.com/michar71/Open-DSO-150/issues/12" TITLE : fix digital triggers BODY : allow triggering on raising/falling/changing edge on digital lines. not sure why it is not working should just be in interrupt but i seem to be unable to trigger that irq routine.

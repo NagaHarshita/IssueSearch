@@ -1,0 +1,1 @@
+ URL : "https://github.com/locnguyen/material-components-react/issues/1" TITLE : support mdc button BODY : see button demo https://material-components-web.appspot.com/button.html . for a first pr we need to support css only from the demo page. in a 2nd pr the component can be enhanced to use the ripple effect.

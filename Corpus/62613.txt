@@ -1,0 +1,1 @@
+ URL : "https://github.com/dotnet/roslyn/issues/19569" TITLE : convert string to func? BODY : this is more of a question than an issue, and is similar to these questions: http://stackoverflow.com/questions/10655761/convert-string-into-func how could one approach this today, with the current capabilities of roslyn?

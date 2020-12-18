@@ -1,0 +1,1 @@
+ URL : "https://github.com/jiggzson/nerdamer/issues/161" TITLE : acosh 1/23.12 throws BODY : sorta related to 157. this, instead of not evaluating, throws a fat exception to my head.

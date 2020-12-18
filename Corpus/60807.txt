@@ -1,0 +1,1 @@
+ URL : "https://github.com/primefaces/primefaces/issues/2562" TITLE : add input group feature BODY : text, icon, buttons and other content can be grouped next to an input by wrapping the addons and input inside .ui-inputgroup element. multiple addons can be used within the same group as well.

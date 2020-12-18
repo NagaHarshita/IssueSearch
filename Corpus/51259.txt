@@ -1,0 +1,1 @@
+ URL : "https://github.com/megoesrawr/LWCEntityLocking/issues/31" TITLE : add worldguard support BODY : would be awesome if admins could prevent players from locking chests in a certain region. right now i'm able to prevent them from using the command /lock in a region, but if they use that command outside of the region and then walk into it, they're still able to lock chests.

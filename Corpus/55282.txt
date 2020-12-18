@@ -1,0 +1,1 @@
+ URL : "https://github.com/jlmdegoede/MOOCworkbench/issues/58" TITLE : increase test coverage BODY : the following modules have no tests yet: - coverage_manager - docs_manager - marketplace - quality_manager - requirements_manager - user_manager

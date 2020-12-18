@@ -1,0 +1,1 @@
+ URL : "https://github.com/ak1394/react-native-login-example/issues/1" TITLE : server side code BODY : this example doesn't appear to work without some server side code. the oauth code is returned to a url, but that's the end of the story. can you provide any code, or info on what's required server side to get the code or access token back to the client?

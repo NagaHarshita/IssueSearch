@@ -1,0 +1,1 @@
+ URL : "https://github.com/BilalAM/osrp/issues/1" TITLE : command line output issue BODY : connect to and direct connection outputs are not correct due to a single static stringbuilder used in router.java have to correct this

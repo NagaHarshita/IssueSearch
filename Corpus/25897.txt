@@ -1,0 +1,1 @@
+ URL : "https://github.com/neuro-ml/edr-gp/issues/9" TITLE : add get_grad method BODY : it can be useful for visualization or other types of more detailed analysis

@@ -1,0 +1,1 @@
+ URL : "https://github.com/projectmesa/mesa/issues/426" TITLE : how to host visualization? BODY : hi, i was able to create a simulation and view it on a browser via importing a server.py and calling server.launch . however, i would like to host the fully functional simulation on the web and allow others to access it, perhaps via heroku? is there any way i can do that?

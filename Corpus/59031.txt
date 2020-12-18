@@ -1,0 +1,1 @@
+ URL : "https://github.com/jupyter/jupyter-alabaster-theme/issues/64" TITLE : tag releases on github BODY : whenever we make a release on pypi, conda, etc. for the python package, we should also tag the release on github so that if things are broken, code can be compared across versions easily.

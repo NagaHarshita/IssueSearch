@@ -1,0 +1,6 @@
+ URL : "https://github.com/gbif/portal-feedback/issues/338" TITLE : support blockquotes in md BODY : support blockquotes in md > @peterdesmet said blockquotes would be nice we should totally do that -----
+fbitem-67cbf865735ab20856e1e6649eab1c4073bc341e
+reported by: @timrobertson100
+system: chrome 59.0.3071 / mac os x 10.11.5
+referer: https://www.gbif.org/
+window size: width 1674 - height 939 api log http://elk.gbif.org:5601/app/kibana /discover/uat-varnish-403s?_g= refreshinterval: display:off,pause:!f,value:0 ,time: from:'2017-08-17t13:57:06.386z',mode:absolute,to:'2017-08-17t14:03:06.386z' &_a= columns:! request,response,clientip ,filters:! ,index:'prod-varnish- ',interval:auto,query: query_string: analyze_wildcard:!t,query:'response:%3e499%20and%20 request:%22%2f%2fapi.gbif.org%22 ' ,sort:! '@timestamp',desc &indexpattern=uat-varnish- &type=histogram site log http://elk.gbif.org:5601/app/kibana /discover/uat-varnish-403s?_g= refreshinterval: display:off,pause:!f,value:0 ,time: from:'2017-08-17t13:57:06.386z',mode:absolute,to:'2017-08-17t14:03:06.386z' &_a= columns:! request,response,clientip ,filters:! ,index:'prod-varnish- ',interval:auto,query: query_string: analyze_wildcard:!t,query:'response:%3e399%20and%20 request:%22%2f%2fdemo.gbif.org%22 ' ,sort:! '@timestamp',desc &indexpattern=uat-varnish- &type=histogram

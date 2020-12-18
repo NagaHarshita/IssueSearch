@@ -1,0 +1,1 @@
+ URL : "https://github.com/phetsims/axon/issues/157" TITLE : booleanproperty: clean up BODY : options are being verified/set in an odd manner. is_boolean function name is odd.

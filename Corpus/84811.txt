@@ -1,0 +1,1 @@
+ URL : "https://github.com/poldracklab/mriqc/issues/350" TITLE : documentation is outdated BODY : @ycleong points me to http://mriqc.readthedocs.io/en/latest/userguide.html, which is horribly outdated. needs to be updated with 0.9.0 final.

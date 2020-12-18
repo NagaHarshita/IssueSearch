@@ -1,0 +1,1 @@
+ URL : "https://github.com/criticalbh/material2-admin/issues/2" TITLE : readme.md is missing BODY : project is missing documentation on how to start, install, deploy and similar. this is angular-cli project, so basic guidelines such as cloning, dependency installation and build are enough.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/radsectors/sqlshim/issues/15" TITLE : unit tests wanted BODY : are you good at writing unit tests? write some tests for sqlshim and submit your pull request. currently we're using phpunit, but i'm 100% open to alternatives.

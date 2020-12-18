@@ -1,0 +1,1 @@
+ URL : "https://github.com/kevinsimper/hyper-load-balancer/issues/3" TITLE : make region configurable BODY : with hyper releasing an eu region https://blog.hyper.sh/announcing-eu-region.html the load balancer does not work anymore as it is querying all containers from the us-west region. would be great to make the region configurable.

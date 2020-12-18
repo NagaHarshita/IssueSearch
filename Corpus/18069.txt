@@ -1,0 +1,1 @@
+ URL : "https://github.com/WICG/web-share-target/issues/29" TITLE : share binary data BODY : is it possible to receive binary data e.g. image file using this api? if yes, how? or only text data is supported? e.g. user adds svgomg pwa https://jakearchibald.github.io/svgomg/ to the home screen using chrome on android and want to open .svg files using the installed webapk.

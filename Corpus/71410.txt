@@ -1,0 +1,1 @@
+ URL : "https://github.com/rust-fuzz/targets/issues/31" TITLE : add fuzz target for ring BODY : https://github.com/briansmith/ring there's potential for many fuzz targets here. those can be separate prs

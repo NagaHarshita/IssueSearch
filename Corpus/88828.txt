@@ -1,0 +1,1 @@
+ URL : "https://github.com/fluent/fluent-plugin-kafka/issues/151" TITLE : output to multiple topics BODY : can the topic key be a comma separated list of topics so that it produces to multiple topics?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mauricerenck/kirby-podcast/issues/2" TITLE : kirby cli integration BODY : hello, i'm getting an error when trying to install via kirby cli kirby plugin:install kirby-podcast runtimeexception the source directory could not be found it's not an issue , but it would be nice to have : thanks! irena.

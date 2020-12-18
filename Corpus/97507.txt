@@ -1,0 +1,1 @@
+ URL : "https://github.com/hsiaoyi0504/Assembly_Metrics_Toolkit/issues/2" TITLE : handle more kinds of input BODY : currently, i assume the input is only fasta file of scaffolds. it should handle more kinds of inputs, such as contigs file only, gff3 file only, even these three kinds of file simultaneously.

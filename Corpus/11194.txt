@@ -1,0 +1,1 @@
+ URL : "https://github.com/rfverbruggen/rachiopy/issues/6" TITLE : fix pypi package BODY : the package doesn't install from pypi because the setup.py has long_description=open 'readme.md' .read and readme.md is not included in the package.

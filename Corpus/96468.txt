@@ -1,0 +1,1 @@
+ URL : "https://github.com/dbushell/Pikaday/issues/641" TITLE : exceeding min and max date BODY : restrict the user from exceeding picking over one year. for example can pick any dates between 2010 to 2015 but is only enabled to pick a date within a year.

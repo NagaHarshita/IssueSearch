@@ -1,0 +1,1 @@
+ URL : "https://github.com/appimage-packages/kexi/issues/11" TITLE : invalid appimage builds BODY : kexi-git22042017-x86_64.appimage and in general all builds after kexi-git20170324-x86_64.appimage look broken. they are like 90m files and contain no db drivers, show no recent files, no icons.

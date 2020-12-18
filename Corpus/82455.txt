@@ -1,0 +1,1 @@
+ URL : "https://github.com/PaddlePaddle/Paddle/issues/5528" TITLE : add unit test for pr 5519 BODY : i agree with https://github.com/paddlepaddle/paddle/pull/5519 that we need api to load/save paddlepaddle matrices. just a reminder here that we need to add related tests.

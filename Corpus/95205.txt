@@ -1,0 +1,1 @@
+ URL : "https://github.com/FutureCitiesCatapult/TomboloDigitalConnector/issues/370" TITLE : create a release in github BODY : manually creating them is fine for now. in the future it would be good for ci to create rc s and push them back to github.

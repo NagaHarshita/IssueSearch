@@ -1,0 +1,1 @@
+ URL : "https://github.com/mkaply/cck2wizard/issues/59" TITLE : add new permissions BODY : add: camera : 1, screen : 1, microphone : 1, desktop-notification : 1 to permissions

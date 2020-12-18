@@ -1,0 +1,1 @@
+ URL : "https://github.com/LASAGNE-Open-Systems/LASAGNE-Core/issues/40" TITLE : missing /lib directory? BODY : as mentioned here lasagne-core/docs/html/documentation/linux_notes.html export path = $path; extracted path /lasagne-core/bin; extracted path /lasagne-core/lib export ld_library_path = $ld_library_path; extracted path /lasagne-core/lib

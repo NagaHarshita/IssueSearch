@@ -1,0 +1,1 @@
+ URL : "https://github.com/rsyslog/rsyslog/issues/2248" TITLE : imfile: refactoring code BODY : - add chkmalloc where needed strdup and so on . - preserve error code from lstndup and output in debug in calling function.

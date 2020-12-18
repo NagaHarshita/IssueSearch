@@ -1,0 +1,1 @@
+ URL : "https://github.com/m4rcelogyn/jovanna-lima-api/issues/6" TITLE : cadastro de usuário BODY : criar opção para que o usuário possa se cadastrar no sistema. ao realizar o cadastro, deverá ser gerado um link e enviado via email para o usuário. este link ativará sua conta e solicitará o cadastro de sua nova senha de acesso.

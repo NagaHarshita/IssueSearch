@@ -1,0 +1,1 @@
+ URL : "https://github.com/vccw-team/vccw/issues/284" TITLE : rename wordpress folder BODY : operating system: macos 10.13 vagrant version: 2 virtual box version: 5.2 hey, i'm wondering if it's possible to rename the 'wordpress' folder in the site.yml or vagrant file. i do apologize, i'm brand new to vagrant, so it's probably a simple stupid question!

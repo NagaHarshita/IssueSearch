@@ -1,0 +1,1 @@
+ URL : "https://github.com/titpetric/pendulum/issues/2" TITLE : images won't load BODY : when using ! https://scene-si.org/post/2017-09-02-parsing-strings-with-go/heading.jpg in the editor image is not loaded. problem probably is that you are doing request to: http://10.0.0.139:8080/contents//https://scene-si.org/post/2017-09-02-parsing-strings-with-go/heading.jpg ?

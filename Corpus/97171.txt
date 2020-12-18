@@ -1,0 +1,1 @@
+ URL : "https://github.com/brettdewoody/polyfill-nodelist-foreach/issues/2" TITLE : foreach for htmlcollection BODY : javascript typeof someelement.children // htmlcollection someelement.children.foreach / ... / ;

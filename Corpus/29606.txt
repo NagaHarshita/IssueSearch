@@ -1,0 +1,1 @@
+ URL : "https://github.com/singularityhub/singularityhub.github.io/issues/64" TITLE : maximum build time? BODY : hey @cclerget what do you think about enforcing a maximum build time? this will ensure that if something goes weird, there is a job in the queue to automatically kill a build maybe one day?

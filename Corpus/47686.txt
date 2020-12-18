@@ -1,0 +1,1 @@
+ URL : "https://github.com/ivanbruel/MarkdownKit/issues/19" TITLE : problem with carthage BODY : when i try to install markdownkit via carthage i get the following error: dependency markdownkit has no shared framework schemes

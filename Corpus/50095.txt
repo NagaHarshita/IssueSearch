@@ -1,0 +1,1 @@
+ URL : "https://github.com/The-Lounge/TheLounge/issues/14" TITLE : view category listing BODY : blocked until 7 is complete user should be able to view a listing of currently active categories - design according to mock up - only active categories should be listed, using the /api/category/ end point - when this is complete, login redirects from 13 should go here instead of home

@@ -1,0 +1,1 @@
+ URL : "https://github.com/reicheltp/dgraph-client/issues/4" TITLE : support delete mutations BODY : as of 0.7.6 dgraph supports a broader delete operation with s and s p see https://docs.dgraph.io/v0.7.6/query-language/ delete

@@ -1,0 +1,1 @@
+ URL : "https://github.com/gotthardp/rabbitmq-email/issues/28" TITLE : using it on windows BODY : hi, could anyone assist how to utilize rabbitmq-email on windows esp. on windows 10 64-bit & server 2012 ? i see makefile can be used only linux/unix environments. whether cygwin can be used to build the sources? regards, fayeeg

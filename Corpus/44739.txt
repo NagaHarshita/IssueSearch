@@ -1,0 +1,1 @@
+ URL : "https://github.com/RestComm/mediaserver/issues/492" TITLE : fix licensing headers BODY : there is headers that shows gpl, see https://github.com/restcomm/mediaserver/blob/master/client/jsr-309/driver/src/main/java/org/restcomm/fsm/fsm.java. licensing was always lgpl and not gpl even under jboss/redhat. also every file touched should be moved to agpl licensing

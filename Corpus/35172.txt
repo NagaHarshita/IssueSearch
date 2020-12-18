@@ -1,0 +1,1 @@
+ URL : "https://github.com/kaakaa/matterpoll-emoji/issues/92" TITLE : deployment on heroku BODY : can anyone tell me the listen config to deploy this on heroku? i tried 0.0.0.0:5000 but it says timeout bonding to port

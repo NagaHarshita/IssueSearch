@@ -1,0 +1,1 @@
+ URL : "https://github.com/leo-editor/leo-editor/issues/449" TITLE : fix rare @auto bugs BODY : - cancelling @auto write creates orphan nodes. - cloned @auto nodes duplicates section references.

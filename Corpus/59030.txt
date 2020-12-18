@@ -1,0 +1,1 @@
+ URL : "https://github.com/Sahadar/pubsub.js/issues/9" TITLE : tag missing for v1.5.1 BODY : version 1.5.1 doesn't get fetched with bower because the release isn't tagged. can you please add the tag? thanks! i was just about to report a broken context option in subscribeonce and then realised that you've already fixed it but bower had fetched the previous version.

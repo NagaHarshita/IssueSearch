@@ -1,0 +1,1 @@
+ URL : "https://github.com/meumobi/AMS.Connect/issues/21" TITLE : standardize the responses BODY : standardize the responses for services and errors the lumen framework already has classes for managing responses, we can use them to keep the same standard for all the responses data responses, error responses and general messages ref: https://lumen.laravel.com/docs/5.4/responses

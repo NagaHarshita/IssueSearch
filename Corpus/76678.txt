@@ -1,0 +1,1 @@
+ URL : "https://github.com/comicchisel/backend/issues/5" TITLE : login / registration api BODY : get /user/session — read current user data, or 401 post /user/session — login. create new session and get token. delete /user/session — logout. remove current token from db post /user — create new user. register put /user/confirmation — send confirm token and activate user

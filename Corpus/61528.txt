@@ -1,0 +1,1 @@
+ URL : "https://github.com/emfoundation/asset-manager/issues/155" TITLE : backup of the s3 bucket BODY : this could be done through aws services, or through our own scripts to create backups.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/freeman-lab/regional/issues/5" TITLE : add an include method BODY : should check whether a regional includes a point. cc @dganguli

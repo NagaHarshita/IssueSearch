@@ -1,0 +1,1 @@
+ URL : "https://github.com/westlicht/eurorack-sequencer-hardware/issues/4" TITLE : fix pj301cm footprint BODY : while the footprint is correct, the alignment to the frontpanel cutout is not.

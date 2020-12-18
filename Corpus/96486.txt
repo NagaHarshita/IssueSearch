@@ -1,0 +1,1 @@
+ URL : "https://github.com/lgarron/ugly-http-extension/issues/8" TITLE : exclude localhost, file:// BODY : is there a way to do this in manifest.json ? else, we have the same problem as 6.

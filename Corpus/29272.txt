@@ -1,0 +1,1 @@
+ URL : "https://github.com/cms-dev/cms/issues/716" TITLE : language code issue BODY : language code issue caused by e16ad23 previous dump doesn't work in newest version. and current dump doesn't work in old version even if db version is same . guess previous language code: cpp , java current language code: c++11 / g++ solution update db version & make updater.py is it right?

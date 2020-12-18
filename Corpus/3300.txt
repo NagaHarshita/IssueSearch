@@ -1,0 +1,1 @@
+ URL : "https://github.com/digris/odr-stream-router/issues/1" TITLE : no log output BODY : from last version odroute don't display anything on output. in previous version it's was usefull to parse log history when running by supervisor and identify switching from one source to an other.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/HelloZeroNet/ReactionGIFs/issues/1" TITLE : js/lib folder is absent BODY : as title says, there is no js/lib folder in this repository, but all scripts are included in all.js file. is it done intentionally?

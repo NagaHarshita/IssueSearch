@@ -1,0 +1,1 @@
+ URL : "https://github.com/ntop/nDPI/issues/419" TITLE : l7 apple detection BODY : on ntop flows, everything is associated with apple, e.g. application: skype.apple dropbox.apple http.apple ssl.apple dns.apple and... on ndpi_content_match.c.inc, is it really 17.0.0.0/8?

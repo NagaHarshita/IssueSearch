@@ -1,0 +1,5 @@
+ URL : "https://github.com/TheJerma45/VerticalSlice3D/issues/7" TITLE : code die niets doet BODY : je hebt feedback gekregen van jeffrindumas op: c
+﻿using system.collections;
+using system.collections.generic;
+using unityengine; public class pause : monobehaviour { public void pausegame { debug.log pause ; }
+} url: https://github.com/thejerma45/verticalslice3d/blob/master/assets/scripts/pause.cs feedback: code die niets doet http://www.studiozoetekauw.nl/codereview-in-het-onderwijs/ ' cr:{ sha : 121d1dc274c27def770dfe8e77da3391361161c8 , path : assets/scripts/pause.cs , reviewer : jeffrindumas }'

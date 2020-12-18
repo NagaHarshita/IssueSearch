@@ -1,0 +1,1 @@
+ URL : "https://github.com/Miramac/vscode-exec-node/issues/23" TITLE : wrap in console.log BODY : any way to optionally wrap a selected text in console.log ? often i just want to run a quick piece of js but i have to surround it with console.log in order to see any output.

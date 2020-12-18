@@ -1,0 +1,1 @@
+ URL : "https://github.com/lordcheezus/DnD/issues/4" TITLE : design base unit class BODY : need an abstract base unit superclass for inheritance chain.

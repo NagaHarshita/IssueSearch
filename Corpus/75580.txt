@@ -1,0 +1,1 @@
+ URL : "https://github.com/ur0/DotATranslator/issues/4" TITLE : how to find sig with ida BODY : hey how you find sig with ida, i tried cdota_sf_hud_chat and found references and can't find like what you declare inside dllmain.cpp

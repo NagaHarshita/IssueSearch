@@ -1,0 +1,2 @@
+ URL : "https://github.com/ahmedahamid/test/issues/86" TITLE : wiki url parsing problem BODY : check this out:
+http://www.codeplex.com/wiki/view.aspx?projectname=flamen&title=power this url tag is not well parsed url:my personal website|http://fatcat.ftj.agh.edu.pl/~paweljan/forum/index.php migrated codeplex work item details codeplex work item id: '1254' vote count: '0'

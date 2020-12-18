@@ -1,0 +1,1 @@
+ URL : "https://github.com/MDSplus/mdsplus/issues/1148" TITLE : more man pages needed BODY : it would be great if we included more man pages for things like: 1 all mdsplus applications 2 site-specific configuration 3 user callable library functions 4 tdi functions? 5 daq devices?

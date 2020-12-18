@@ -1,0 +1,11 @@
+ URL : "https://github.com/atatarchuk/CraftRepository/issues/72" TITLE : customize jira mapping BODY : <p>choose a custom field in jira for the following craft fields:</p>
+<ul>
+<li>version</li>
+<li>components</li>
+<li>initiatives</li>
+<li>goals</li>
+<li>value</li>
+<li>effort</li>
+<li>story&nbsp;points</li>
+<li>kano</li>
+</ul>

@@ -1,0 +1,6 @@
+ URL : "https://github.com/PennBBL/xcpEngine/issues/69" TITLE : antsr → oro.nifti BODY : - i am opening this issue to consider the feasibility of phasing out antsr in favour of an alternative nifti interface for r. one possibility is oro.nifti , which was previously used by angel garcia for his voxel package.
+- the motivations for dropping antsr are threefold.
+- first, antsr is not hosted on cran, and installation is consequently less straightforward than it is for most r packages.
+- second, antsr development is rapid, and backwards compatibility is not guaranteed. this has already become a major problem with collaborations -- a number of our funded collaborators are unable to use v0.5.x out of the box because antsr's matrix2timeseries function no longer accepts the same inputs that it did when the v0.5.x r utils were written.
+- third, antsr's ability to interface with nifti headers is not intuitive although i write from the perspective of a person biased by the world of spm . rather than assigning values to header fields, antsr often copies header information from other images.
+- to assess the feasibility of this change, the first step will be creating an inventory of utils that use antsr. _sent from my lge lg-tp260 using fasthub https://play.google.com/store/apps/details?id=com.fastaccess.github _

@@ -1,0 +1,1 @@
+ URL : "https://github.com/NOAA-GFDL/MOM6-examples/issues/153" TITLE : areacello should be masked BODY : for many cmip6 purposes, and for other purposes, it would be very useful to mask areacello.

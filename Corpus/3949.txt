@@ -1,0 +1,1 @@
+ URL : "https://github.com/babel/babel/issues/5172" TITLE : 7.0 setup yarn BODY : we dropped node 0.10/0.12 https://github.com/babel/babel/issues/4315 so we can use yarn now. - add yarn.lock - check travis logs build with yarn

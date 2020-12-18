@@ -1,0 +1,1 @@
+ URL : "https://github.com/conda-forge/conda-smithy/issues/558" TITLE : add a changelog BODY : hi, i couldn't find a changelog for conda-smithy while trying to see if the noarch feature has bee released yet conda-forge/conda-smithy 531 . or perhaps is there a changelog somewhere and i didn't find it?

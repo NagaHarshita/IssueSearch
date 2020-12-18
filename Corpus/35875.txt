@@ -1,0 +1,1 @@
+ URL : "https://github.com/meis/please/issues/13" TITLE : find tasks directory BODY : when executing $please something it will search for ./tasks . if that does not exists, it should look for ../tasks , ../../tasks ans successively until founds a valid directory or reaches / .

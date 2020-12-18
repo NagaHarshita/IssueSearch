@@ -1,0 +1,1 @@
+ URL : "https://github.com/NYU-DevOps-S17/Orders/issues/40" TITLE : fix bdd tests BODY : as a developer i need bdd testing so that tests can run before i deploy assumptions: bdd testing acceptance criteria: given i have the service running when i run 'behave' command then i should see all tests pass

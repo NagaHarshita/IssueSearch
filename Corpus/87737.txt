@@ -1,0 +1,1 @@
+ URL : "https://github.com/broadway/broadway/issues/341" TITLE : make phpunit a dependency BODY : currently it is required as a dev dependency, but when you use the test helpers testing/ and criteria objects in your projects you can run into phpunit version conflicts. this came to light when upgrading to phpunit 6. cc @broadway/broadway

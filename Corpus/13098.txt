@@ -1,0 +1,1 @@
+ URL : "https://github.com/softonic/hapi-softonic-load-balancing/issues/1" TITLE : support hapi v17 BODY : hapi recently released a new version v17, see the release notes which introduces many breaking changes. we should provide support for that version.

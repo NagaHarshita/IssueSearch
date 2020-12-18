@@ -1,0 +1,1 @@
+ URL : "https://github.com/Monte9/react-native-parallax-scrollview/issues/6" TITLE : remove header icon BODY : in my case, i don't need the header icons. i've tried to remove the lefticon and righticon from props, but it seems that this library have a default value if props not present

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ytechie/wordpress-to-markdown/issues/3" TITLE : file paths on os x systems BODY : on os x, and i suspect other nix based systems, one must replace the \\ with / in the script prior to running otherwise you end up with folder that have names that look like windows paths.

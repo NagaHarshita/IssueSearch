@@ -1,0 +1,1 @@
+ URL : "https://github.com/klubbdinmamma/klubbdinmamma.github.io/issues/5" TITLE : enable travis cron BODY : the cron job is configured at https://travis-ci.org/klubbdinmamma/klubbdinmamma.github.io/settings i think running weekly is enough

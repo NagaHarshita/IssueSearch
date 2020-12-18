@@ -1,0 +1,1 @@
+ URL : "https://github.com/americast/Cascade-Segnet-TF/issues/5" TITLE : fix bug in stuff class BODY : in stuff class, better accuracy is obtained when gradient for other classes are set to zero rather than removing the other classes altogether. this is probably due to a bug. in case it's not, can anyone explain this?

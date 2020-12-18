@@ -1,0 +1,1 @@
+ URL : "https://github.com/mjibson/go-dsp/issues/19" TITLE : fourier transform example? BODY : i would love an example of using the fourier transform utilities on one of the sample wav files. in fact, there are several algorithms here that could use a usage demonstration.

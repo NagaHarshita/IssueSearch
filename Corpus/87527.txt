@@ -1,0 +1,1 @@
+ URL : "https://github.com/StevenDXC/DxLoadingButton/issues/11" TITLE : loadingfailed not working BODY : if we call button.loadingfailed just after calling button.startloading the circular animation never stops, when i try with small delay before calling button.loadingfailed then it works perfectly.

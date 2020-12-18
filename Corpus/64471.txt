@@ -1,0 +1,1 @@
+ URL : "https://github.com/ccagrawal/sportsTools/issues/2" TITLE : getgamelogs not working BODY : getgamelogs is not working right now. something might be up with the api -- 'http://stats.nba.com/player/' does not load.

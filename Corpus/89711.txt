@@ -1,0 +1,1 @@
+ URL : "https://github.com/saveriomiroddi/geet/issues/28" TITLE : refactor repository proxy BODY : the proxy pattern used is possibly poor; investigate alternative designs.

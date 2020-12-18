@@ -1,0 +1,1 @@
+ URL : "https://github.com/AbertayHackers/BeEF-scripts/issues/2" TITLE : create install script BODY : we need ruby => 2.1.5 , ideally 2.3.0 according to beef https://github.com/beefproject/beef/wiki/installation , and git to clone down the repo. install done with bundle install . also need this for the before_install step for travisci.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/knpuniversity/oauth2-client-bundle/issues/65" TITLE : symfony 4 support BODY : is this compatible with symfony 4? if not, what work needs to be done to make it work? if yes, can it be added to composer.json so it will pass the compatiblity checks?

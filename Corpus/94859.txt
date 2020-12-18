@@ -1,0 +1,1 @@
+ URL : "https://github.com/coin-or/Dip/issues/5" TITLE : coin_has_cbc x dip_has_cbc BODY : hi, my suggestion is change preprocessor names coin_has_xxx xxx = cbc, symphony, ... by dip_has_xxx in decompmodel.cpp, as coin_has_cbc is already defined in other lib, and dip has its own solvers definitions dip_has_xxx . thanks, eduardo

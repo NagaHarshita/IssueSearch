@@ -1,0 +1,1 @@
+ URL : "https://github.com/jplana/python-etcd/issues/244" TITLE : will break with etcd 3.2 BODY : i just tried etcd 3.2rc1, and while it still has the v2 api as a fallback, the /v2/machines call has been removed https://github.com/coreos/etcd/commit/2bb33181b6c8fbe8109fc668a19ce4ab46c605ec . it's used in this library if reconnects are enabled.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ArnaudRinquin/atom-zentabs/issues/48" TITLE : tabs all closing BODY : latest atom update 1.22.0 ia32 appears to have added a bug where all of the sudden when opening a tab that puts me over my tab limit all the tabs close down except the one i opened. it may only happen when the file is opened from a find in files but i'm not sure yet on that.

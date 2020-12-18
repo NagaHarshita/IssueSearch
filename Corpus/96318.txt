@@ -1,0 +1,1 @@
+ URL : "https://github.com/docopt/docopt.cpp/issues/82" TITLE : error message not helpfull BODY : >phooey.exe -h docopt usage string could not be parsed mismatched ' ' message has no linenr, nor any text/tokens of line offending line. i will add the reproduction scenario as soon as i figure out what line it is, by binary search elimination.

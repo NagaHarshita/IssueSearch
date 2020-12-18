@@ -1,0 +1,1 @@
+ URL : "https://github.com/underscoreio/essential-scala/issues/44" TITLE : typo? 7.4.3 BODY : 7.4.3 take home points > if we call a method and do not explicitly supply an _explicit_ parameter, the compiler will search for an implicit value of the correct type and insert it as the parameter maybe explicit should be changed to implicit ?

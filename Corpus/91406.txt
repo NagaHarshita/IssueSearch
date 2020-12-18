@@ -1,0 +1,1 @@
+ URL : "https://github.com/nodejs/nodejs.org/issues/1328" TITLE : tiny typo in docker guide BODY : typo in https://nodejs.org/en/docs/guides/nodejs-docker-webapp/ please note that if you are using npm version 5 or later you will also want to copy package-lock.json, which is gernerated once you run npm install

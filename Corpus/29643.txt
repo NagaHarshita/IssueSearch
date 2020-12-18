@@ -1,0 +1,1 @@
+ URL : "https://github.com/callofduty4x/CoD4x_Server/issues/116" TITLE : menu file extractor BODY : extract textual menu definitions from the running server. purpose: reverseengineering existing menus.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/thingsboard/thingsboard/issues/390" TITLE : load page slow BODY : hi , it took me a few minutes to open the login page,i found that loading bundle.11b7a3a9ce84e6e82164.js was very slow and large 5.9m . it is not work that try to use <mate /> maker and httpservletresponse setting cache-control ^v^-------------oso-----------------v^v

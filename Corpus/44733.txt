@@ -1,0 +1,1 @@
+ URL : "https://github.com/ZeroK-RTS/Zero-K/issues/2502" TITLE : fix interface overlap BODY : click on integral menu and it will overlap core selector. click on core selector and it will overlap integral menu. what we need is some sort of bring-to-front blocking for cases such as these.

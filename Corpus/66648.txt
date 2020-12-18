@@ -1,0 +1,1 @@
+ URL : "https://github.com/osresearch/heads/issues/270" TITLE : nerf: support efi nvram BODY : currently the efi nvram file system will kernel panic if it tries to read the nvram via the efi runtime table since we don't install any handlers. we should implement at least a read-only, possibly read-write version that can access the nv.

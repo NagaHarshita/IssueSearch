@@ -1,0 +1,1 @@
+ URL : "https://github.com/cusu/accessibility-statement-generator/issues/1" TITLE : tooltips just show null BODY : currently hovering over a ? icon just gives the message null using chrome . the tooltips use an old and unsupported plugin.

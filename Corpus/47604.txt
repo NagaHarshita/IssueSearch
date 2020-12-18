@@ -1,0 +1,1 @@
+ URL : "https://github.com/mike-wendt/ubuntu-cleanup-images-headers/issues/1" TITLE : possible script issue BODY : reported instance where script broke grub, trying to get more information about kernels and logs to debug issue will try to replicate in a vm

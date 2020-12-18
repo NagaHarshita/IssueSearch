@@ -1,0 +1,1 @@
+ URL : "https://github.com/afsalashyana/Library-Assistant/issues/1" TITLE : files not found BODY : derby.jar , derbyclient.jar , jfoenix.jar files are used in the project but these files are not found in the project.

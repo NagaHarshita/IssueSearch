@@ -1,0 +1,1 @@
+ URL : "https://github.com/abe33/atom-bezier-curve-editor/issues/11" TITLE : open editor at value BODY : possibility to open bezier curve editor on keys values like: linear|ease|ease-in|ease-out|ease-in-out|step-start|step-end|steps int,start|end not only in cubic-bezier ;

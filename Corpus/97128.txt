@@ -1,0 +1,1 @@
+ URL : "https://github.com/typpo/call-congress/issues/3" TITLE : flesh out the git workflow BODY : it's unclear how contributions should happen when including multiple developers to work on this project. this pull request is a start at addressing that, using a feature branch workflow pointing at issues in the repository.

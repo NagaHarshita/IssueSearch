@@ -1,0 +1,1 @@
+ URL : "https://github.com/marcusbianchi/recipeservice/issues/1" TITLE : problema ao deletar fase BODY : fase relacionada a receita é deletada, porem continua relacionada a recita, a api de receita pede o corpo da fase para q possa ser deletada da receita e a mesma ja não existe mais pois foi deletada.

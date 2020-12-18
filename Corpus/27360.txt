@@ -1,0 +1,1 @@
+ URL : "https://github.com/gersonnascimento/LojaVirtual/issues/1" TITLE : criar tela de login BODY : conforme conversado será apenas uma tela de login, tanto para o vendedor como para o comprador, criar o model usuario, contento inicialmente nome, login, senha e perfil que pode ser um número inteiro para identificar se o mesmo é administrador de uma loja ou apenas comprador .

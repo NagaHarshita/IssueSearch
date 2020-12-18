@@ -1,0 +1,1 @@
+ URL : "https://github.com/expo/harvard-cs50-app/issues/16" TITLE : fix react warning BODY : warning: can only update a mounted or mounting component. this usually means you called setstate, replacestate, or forceupdate on an unmounted component. this is a no-op. please check the code for the videoplayer component.

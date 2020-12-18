@@ -1,0 +1,1 @@
+ URL : "https://github.com/juung/Relation-Network/issues/2" TITLE : 2 embedding matrices BODY : hey, why do you have a separate embedding matrix for the questions and contexts? why not just use the same embedding matrix for each?

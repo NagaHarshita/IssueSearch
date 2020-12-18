@@ -1,0 +1,1 @@
+ URL : "https://github.com/Mirantis/virtlet/issues/224" TITLE : support for calico BODY : as of now, calico doesn't work with virtlet because the routes can't be passed via dhcp. for this particular case we need to use an snat/dnat-based approach inspired by https://github.com/att-comdev/dockerfiles/tree/master/kvm-manager

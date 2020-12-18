@@ -1,0 +1,1 @@
+ URL : "https://github.com/mike-north/ember-cli-materialize/issues/634" TITLE : cannot start the project BODY : error occurs after ember install of the addon fatal error in ../deps/v8/src/api.cc, line 1253 check failed: !value_obj->isjsreceiver || value_obj->istemplateinfo . illegal instruction

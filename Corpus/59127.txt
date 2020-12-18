@@ -1,0 +1,1 @@
+ URL : "https://github.com/Automattic/gp-localci/issues/5" TITLE : tests currently broken BODY : lots of the recent additions depend on a working glotpress instance and additional wp core code

@@ -1,0 +1,1 @@
+ URL : "https://github.com/anjakammer/data2table/issues/12" TITLE : export data to .csv BODY : the user should be able to export the data as .csv http://php.net/manual/en/function.fputcsv.php

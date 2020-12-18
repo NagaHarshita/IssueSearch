@@ -1,0 +1,1 @@
+ URL : "https://github.com/kriskbx/gitlab-time-tracker/issues/26" TITLE : add list command BODY : the command lists a table of issues or merge requests without the need to open gitlab itself. caching the data locally makes it possible to use it even without an active internet connection.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/josemussa/alexa-connect-handlers/issues/4" TITLE : create ci with travis BODY : create release when merge to master. publish latest release. run lint and tests on pr. run lint, tests, build and release on merge to master.

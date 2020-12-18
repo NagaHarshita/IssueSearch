@@ -1,0 +1,1 @@
+ URL : "https://github.com/jpetrie/quip/issues/41" TITLE : fix word-wise selection. BODY : this word and next word should select the word and following whitespace. prior word should select the prior whitespace and the prior word. that is, if the document contains hello, world! and the selection's origin is on the r , b should select from 0 to the space before world.

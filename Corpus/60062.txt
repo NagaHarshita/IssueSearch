@@ -1,0 +1,1 @@
+ URL : "https://github.com/nuxt/nuxt.js/issues/349" TITLE : webpack proxy not work BODY : build: { extend config, ctx { if !ctx.isclient { config.devserver = { proxy: { '/api/ ': { target: 'https://127.0.0.1:8080/', secure: false } } } } } }

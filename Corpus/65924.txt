@@ -1,0 +1,1 @@
+ URL : "https://github.com/mapsam/find-my-orca/issues/4" TITLE : local dynamodb instance BODY : get the app running locally without relying on credentials or the internet.

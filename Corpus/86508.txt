@@ -1,0 +1,1 @@
+ URL : "https://github.com/Codeinwp/pirate_bootstrap/issues/11" TITLE : htaccess rule for uploads BODY : @preda-bogdan do we redirect the uploads requests to demo instead of the installed tenant ?

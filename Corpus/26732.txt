@@ -1,0 +1,1 @@
+ URL : "https://github.com/ben-manes/caffeine/issues/155" TITLE : caching large files BODY : hi guys! i'm sorry if opening an issues is not a proper way to ask questions. but would you please tell me can i use caffeine to cache large files? if yes, please let me know how caffeine handle the files or i have to implement the logic behind. thanks in advance!

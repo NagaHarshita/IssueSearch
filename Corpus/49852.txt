@@ -1,0 +1,5 @@
+ URL : "https://github.com/curationexperts/cypripedium/issues/1" TITLE : upgrade linux version BODY : looks like we're on ubuntu 16.10 right now, which is near end of life: welcome to ubuntu 16.10 gnu/linux 4.8.0-41-generic x86_64 documentation: https://help.ubuntu.com management: https://landscape.canonical.com support: https://ubuntu.com/advantage get cloud support with ubuntu advantage cloud guest: http://www.ubuntu.com/business/services/cloud 0 packages can be updated.
+0 updates are security updates. your ubuntu release is not supported anymore.
+for upgrade information, please visit:
+http://www.ubuntu.com/releaseendoflife new release '17.04' available.
+run 'do-release-upgrade' to upgrade to it.

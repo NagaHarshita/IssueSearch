@@ -1,0 +1,1 @@
+ URL : "https://github.com/jeffweiss/forcex/issues/19" TITLE : compile-time login issue BODY : following the directions but it seems that the compile-time connection does not allow an override to use test.salesforce.com. i cannot access the prod credentials. thoughts?

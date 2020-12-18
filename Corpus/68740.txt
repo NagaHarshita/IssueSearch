@@ -1,0 +1,1 @@
+ URL : "https://github.com/RaceFlightOne/RaceFlightOne/issues/189" TITLE : setup tramp hv to 600mw BODY : i try to set my tramp hv from lua and i can only set a range of power from 25mw to 400mw, i have also an option called unknown. my setup: revolt v2 - tramp hv connected on inverted tx4 - taranis plus and xsr updated

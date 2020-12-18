@@ -1,0 +1,1 @@
+ URL : "https://github.com/patternfly/patternfly-react-demo-app/issues/3" TITLE : add support for logout BODY : once the react bootstrap's navdropdown https://react-bootstrap.github.io/components.html navs-dropdown is implemented in pf-react 42 https://github.com/patternfly/patternfly-react/issues/42 , let's add a logout mechanism which clears the logout cookie via redux.

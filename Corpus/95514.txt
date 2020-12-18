@@ -1,0 +1,1 @@
+ URL : "https://github.com/openeventstack/pretalx/issues/118" TITLE : deal with very long events BODY : some events might span several days - display them in days, not in minutes in submission types - find a way to display them in the scheduling view - find a way to display them in the agenda view especially while scrolling

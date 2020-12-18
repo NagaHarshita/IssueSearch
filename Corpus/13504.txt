@@ -1,0 +1,1 @@
+ URL : "https://github.com/DagDigg/dagdigg.github.io/issues/3" TITLE : use es6 standard BODY : currently seems you're using an outdated version of js. please use at least es9 feature and port the changes

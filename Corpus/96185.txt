@@ -1,0 +1,1 @@
+ URL : "https://github.com/italia/cie-nis-python-sdk/issues/5" TITLE : enable this repo on travis BODY : two things to do: - enable this repo on travis https://travis-ci.org/italia/cie-nis-python-sdk ; - edit the related url on readme.md.

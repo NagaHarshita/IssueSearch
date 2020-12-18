@@ -1,0 +1,1 @@
+ URL : "https://github.com/czlee/tabbycat/issues/405" TITLE : update to jquery v3 BODY : there are a few incompatibilities to be fixed on the pages that rely on it. will need to bump to a newer bootstrap release also.

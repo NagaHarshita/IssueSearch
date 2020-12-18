@@ -1,0 +1,1 @@
+ URL : "https://github.com/ShawnLin013/NumberPicker/issues/34" TITLE : change minsdk to 15 BODY : since the places where api 16 calls are made, there is already check for if build.version.sdk_int >= build.version_codes.jelly_bean in the code, i think, minsdk should be 15 and not 16.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/kunalvarma05/dropbox-php-sdk/issues/81" TITLE : check if file exists. BODY : how can we check if a file exists in a dropbox location should getmetadata method be used or any other efficient way?

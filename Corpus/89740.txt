@@ -1,0 +1,2 @@
+ URL : "https://github.com/jmbredal/NAV/issues/1337" TITLE : regexp-like search syntax BODY : wishlist: i'd like to be able to limit search results by regexp-like syntax. ex.
+limiting the results by searching for ^88$ and not 88 .

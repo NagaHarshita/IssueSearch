@@ -1,0 +1,1 @@
+ URL : "https://github.com/haydencarlson/fortifyLicensingWebPanel/issues/28" TITLE : sign in jwt BODY : - show loading - check if user has jwt. if not show login - if they have a jwt send to server to verify user if good log them in

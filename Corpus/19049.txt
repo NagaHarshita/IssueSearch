@@ -1,0 +1,1 @@
+ URL : "https://github.com/ga-wdi-lessons/js-events-callbacks/issues/11" TITLE : what is an event? BODY : 1. an event is an action that can be understood by the program. 2. something the browser or user does. 3. onload, onclick, onmouseover

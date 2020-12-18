@@ -1,0 +1,1 @@
+ URL : "https://github.com/uvacw/inca/issues/167" TITLE : newspaper.py as fallback BODY : check out whether it makes sense to implement https://github.com/codelucas/newspaper/ as a generic scraper if we don't have a specific one.

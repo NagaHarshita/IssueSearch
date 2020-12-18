@@ -1,0 +1,1 @@
+ URL : "https://github.com/pts/pdfsizeopt/issues/67" TITLE : lossy jpeg compression BODY : hello, discovering this tool and seems quite promising! however, i would like to process a better compression on my pdf file and would like to apply some change of jpeg quality and/or resolution. any idea if this is achievable with pdfsizeopt? thanks

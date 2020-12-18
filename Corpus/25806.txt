@@ -1,0 +1,1 @@
+ URL : "https://github.com/thiagommedeiros/sptrans-promise/issues/6" TITLE : add browser support BODY : the sptrans api doesn't support cross-origin requests. therefore, a way to resolve that problem is to create a heroku service that will receive a request it will send to sptrans and it will receive the response data and then it will send it back to the browser.

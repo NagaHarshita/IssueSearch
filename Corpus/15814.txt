@@ -1,0 +1,1 @@
+ URL : "https://github.com/jhoerr/iga-tracker-web/issues/22" TITLE : flag 'dead' bills BODY : as a user i'd like some indication that a bill is dead so that i know i don't need to pay attention to it. i don't know if the api explicitly spells out whether a bill is still alive or not, so this may require a bit of inference.

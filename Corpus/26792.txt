@@ -1,0 +1,1 @@
+ URL : "https://github.com/GolosChain/golos/issues/330" TITLE : can't reserve asset BODY : trying to reserve asset with precision = 4 asset_reserve ,{ payer : b1acksun , amount_to_reserve : 100.0000 qwertyui , extensions : } throws an exception: 10 basic_exception: tion delta.decimals == precision: {} th_a account_object.cpp:23 adjust_balance

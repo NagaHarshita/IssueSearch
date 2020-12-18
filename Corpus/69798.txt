@@ -1,0 +1,1 @@
+ URL : "https://github.com/madskristensen/WebEssentials2015/issues/248" TITLE : typescript file nesting BODY : i found this when looking into getting my .js files to nest under my .ts files. https://github.com/madskristensen/filenesting/issues/15 it references web essentials, but i do not see anywhere to enable .ts nesting. my .min.js files are getting nested under the .js files.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mikepenz/FastAdapter/issues/329" TITLE : add item at runtime BODY : fast adapter seems really fast and intuitive. simple and clear example. but all examples use one time adapter initialization. do you have some examples where the adapters are fed from observers at some point in the timeline. any share of the design will also be helpful.

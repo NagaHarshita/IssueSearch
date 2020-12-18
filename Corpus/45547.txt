@@ -1,0 +1,1 @@
+ URL : "https://github.com/kidmaiauk/Bucky-Little-Dig/issues/6" TITLE : implement plant class BODY : has attributes plantid : long // sequence number which plant was plant first. plantname : string // specify plant. plantage : integer // specify plant lifespan. planthealth : integer // specify plant health for fruit quality. plantwater : integer // specify plant life bar.

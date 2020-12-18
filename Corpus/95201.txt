@@ -1,0 +1,1 @@
+ URL : "https://github.com/nolanlab/CODEX/issues/10" TITLE : create a new imagej plugin BODY : create a new imagej pluging that supports the ability to view multi-channels at the same time frame for a tiff file and also have the ability to specify a color for the channel. @nsamusik please include all the use cases and corner cases to be covered here.

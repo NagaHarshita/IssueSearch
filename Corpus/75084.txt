@@ -1,0 +1,1 @@
+ URL : "https://github.com/gatsbyjs/gatsby/issues/2816" TITLE : gatsby-image onload prop BODY : would it be possible to add an onload callback to gatsby-image, that is called when the full-size image has loaded? looking through the code, it seems like a quick pr considering that the internally used img already has that prop.

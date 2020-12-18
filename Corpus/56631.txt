@@ -1,0 +1,1 @@
+ URL : "https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation/issues/125" TITLE : no testing in training BODY : there is no testing branch in the generated prototxt file. is this the case or is this due to my mistake in the data preparation step in training?

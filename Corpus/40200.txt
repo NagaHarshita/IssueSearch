@@ -1,0 +1,1 @@
+ URL : "https://github.com/visual-management/core/issues/5" TITLE : theming & !important BODY : actually all plugin's css are scoped. so we must use the !important flag to override the plugin's style if we want to style it. how to fix ?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/yhisme/JavaZhiHuSpider/issues/2" TITLE : invalid cookie header BODY : 运行代码时，出现以下警告，请问应该怎么处理呢 警告: invalid cookie header: set-cookie: _xsrf=; domain=zhihu.com; expires=thu, 28 apr 2016 08:42:31 gmt; path=/ . invalid 'expires' attribute: thu, 28 apr 2016 08:42:31 gmt

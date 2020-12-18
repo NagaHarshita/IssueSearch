@@ -1,0 +1,1 @@
+ URL : "https://github.com/go-redis/redis/issues/536" TITLE : cluster script cache? BODY : when doing scriptload , it seems the clusterclient does not load the script to every node. then when i doing evalsha, i always get noscript no matching script. please use eval

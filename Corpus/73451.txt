@@ -1,0 +1,1 @@
+ URL : "https://github.com/DiamondDragon/StoryLine.Rest.Coverage/issues/6" TITLE : create integration tests BODY : integration test should run tool against different combinations of swagger, log files and input parameters and validate result expectations,

@@ -1,0 +1,1 @@
+ URL : "https://github.com/nmrML/nmrML/issues/166" TITLE : description of probe type BODY : example: <userparam name= probehead value= cid /> the vagilant parameter probe is free text, thus not more than a nickname. more and more precise information is provided by the parameters probetype e.g. liquids and probestyle e.g. cold for a cold probe or one for a onenmr probe .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mayagold/routemapp/issues/7" TITLE : crud - read: BODY : logged in user should - view all routes/posts not registered user - should view routes maybe posts too? we can discuss. view routes on same page view posts for that route on separate page, once clicked on the route?

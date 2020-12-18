@@ -1,0 +1,1 @@
+ URL : "https://github.com/ortexx/express-brute-store-sequelize/issues/3" TITLE : error in readme axample BODY : const brutestoreoptions = { tablename: 'expressbrute', // this is default name fields: { key: sequelize .integer }, <-- it is not integer but string modeloptions: { timestamps: false } // you can merge model options }

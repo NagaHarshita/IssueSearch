@@ -1,0 +1,1 @@
+ URL : "https://github.com/rubyforgood/rubyforgood.org/issues/129" TITLE : remove video button BODY : the register button on the initial page is confusing because it has an icon. that is generally used for videos, not for going to separate page. remove the > icon.

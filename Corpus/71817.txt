@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/PTVS/issues/2770" TITLE : allow arguments per file BODY : hi currently, i set arguments at the project level using the project settings window. however, different scripts in my project often need different arguments. i was wondering if there was a way to specify the arguments for each script file separately? thank you

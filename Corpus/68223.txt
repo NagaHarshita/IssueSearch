@@ -1,0 +1,1 @@
+ URL : "https://github.com/ZenPhoto20/ZenPhoto20/issues/567" TITLE : replace images with css BODY : in the administration panel there are images in background of gray color is useless and can replace it by css3. background : url images/admin-headerback.jpg

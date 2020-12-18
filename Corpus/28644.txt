@@ -1,0 +1,1 @@
+ URL : "https://github.com/nicehash/NiceHashMiner/issues/812" TITLE : hide mining windows BODY : noticed that xmr-stak-cpu does not hide when this option is selected in the settings. the other 3rd party apps seem to work ok with this function.

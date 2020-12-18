@@ -1,0 +1,1 @@
+ URL : "https://github.com/chubin/wttr.in/issues/135" TITLE : update geoip database? BODY : hello, it would be nice to update geoip database on server from time to time. fresh geolite2 database correctly shows my ip address in 89.179.112.0/20 as st. petersburg, whereas your service returns data for moscow. anyway, thanks for the great work.

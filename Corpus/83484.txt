@@ -1,0 +1,1 @@
+ URL : "https://github.com/webtorrent/webtorrent-cli/issues/49" TITLE : cant stream to chromecast BODY : when i try to stream to chromecast, i get: getaddrinfo enotfound e98e8263-c4ea-48f4-3c10-873dce91fc3e.local e98e8263-48f4-3c10-873dce91fc3e.local:8009, any solution? streaming from the desktop version works fine, but im working on a node app and i need the cli version

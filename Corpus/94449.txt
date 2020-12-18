@@ -1,0 +1,1 @@
+ URL : "https://github.com/LordGaav/proxmox-deploy/issues/16" TITLE : cannot detect ceph storage BODY : hi, i'm using ceph storage for create vm but the script cannot detect ceph storage storage to create disk on enter ? for a list of options local-lvm : ? please enter one of: local-lvm

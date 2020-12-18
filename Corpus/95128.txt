@@ -1,0 +1,1 @@
+ URL : "https://github.com/easylive1989/Kata/issues/5" TITLE : counting duplicates review BODY : 整體上沒什麼問題, 但用了不少foreach迴圈 建議可以嘗試使用linq語法的 groupby 與count 的方式來實作看看

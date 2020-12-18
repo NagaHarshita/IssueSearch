@@ -1,0 +1,1 @@
+ URL : "https://github.com/egoist/vuepack/issues/154" TITLE : hot reload is not working BODY : when i made an update on .vue file in components , there is no change detected on browser if refreshes manually too.an if i need to update i have to re run npm run dev

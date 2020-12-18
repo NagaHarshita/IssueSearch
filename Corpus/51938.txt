@@ -1,0 +1,1 @@
+ URL : "https://github.com/google/protobuf/issues/3373" TITLE : build fails on freebsd BODY : see the log here https://github.com/tensorflow/magenta/issues/779 - in the version bundled with the magenta project.

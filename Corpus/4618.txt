@@ -1,0 +1,1 @@
+ URL : "https://github.com/teramonagi/fitbitr/issues/28" TITLE : error in token BODY : when i tried to create a token using token <- oauth_token there was this error error in base64encode chartoraw paste0 key, : , secret : could not find function base64encode

@@ -1,0 +1,1 @@
+ URL : "https://github.com/BenchR267/Get-Schwifty/issues/6" TITLE : ability to inspect ast BODY : the ast is produced by the parser and is responsible for generating the javascript code. it would be cool to get an overview about the tree and maybe also about the javascript code to get faster feedback also about possible errors .

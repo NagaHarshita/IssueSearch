@@ -1,0 +1,1 @@
+ URL : "https://github.com/yjxiong/tsn-pytorch/issues/5" TITLE : tsn followed by rnn BODY : hi, would you plan to release the rnn version of tsn? like long term recurrent convolutioanl neural network by j donahue ? moreover, why torch.nn.dataparallel on non-zero gpus always raise errors? is there a smart way to fix this? thanks!

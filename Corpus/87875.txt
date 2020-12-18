@@ -1,0 +1,1 @@
+ URL : "https://github.com/smpallen99/ex_admin/issues/302" TITLE : member_action not working BODY : the docs say calling member_action will add a controller action, route and a link on the show page, but it doesn't seem to add anything to my show page. is there some specific section i need to add for that to work?

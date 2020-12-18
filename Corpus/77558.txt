@@ -1,0 +1,1 @@
+ URL : "https://github.com/karclouds/angular5-toaster/issues/3" TITLE : ng5 version requirements BODY : looks like angular 5 is going through patches really quickly. already on 5.05 today. im not sure how to best handle that since im kinda new to the entire npm workflow for dev. for the moment, i have simply locally modified the required minor version.

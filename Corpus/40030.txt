@@ -1,0 +1,1 @@
+ URL : "https://github.com/semantic-math/math-ast/issues/18" TITLE : systems of equations BODY : { type: system, args: equation1, equation2, ... } example: { type: system, args: { type: apply, op: 'eq', args: x + 2 = 1 }, { type: apply, op: 'eq', args: x = 1 } }

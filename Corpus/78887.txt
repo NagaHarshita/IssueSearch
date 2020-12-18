@@ -1,0 +1,1 @@
+ URL : "https://github.com/analizo-mes/analizo/issues/2" TITLE : remover clang do analizo BODY : - remover extratores - métricas de segurança que entraram junto com o clang - testes relacionados ao clang - varrer o código a procura de documentos e relatórios relacionados ao clang

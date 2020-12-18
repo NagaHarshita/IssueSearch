@@ -1,0 +1,1 @@
+ URL : "https://github.com/hackon/darter/issues/1" TITLE : checkout doesn't work BODY : in x01 you can only check out with a double value. this means that 1 is a busted value.

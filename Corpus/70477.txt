@@ -1,0 +1,1 @@
+ URL : "https://github.com/EncompassRest/EncompassRest/issues/58" TITLE : webhook serialize error BODY : create webhook no longer serializes correctly. reason is unsupported media type

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ColinEberhardt/cla-bot/issues/71" TITLE : migrate to async / await BODY : for better codez ... looks like this is supported in node 7.6, so no icky transpilers 🤖 are required.

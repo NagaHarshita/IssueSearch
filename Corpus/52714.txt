@@ -1,0 +1,1 @@
+ URL : "https://github.com/MatiBot/MBRateApp/issues/5" TITLE : crash on latest swift3 BODY : it crashes when touching on a star. terminating app due to uncaught exception 'nsinvalidargumentexception', reason: '- mbrateapp.mbrateusviewcontroller startoucheddown: : unrecognized selector sent to instance 0x7ff8ea05ec00'

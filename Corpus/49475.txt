@@ -1,0 +1,1 @@
+ URL : "https://github.com/facebookresearch/ParlAI/issues/338" TITLE : training with pytorch BODY : i am new to using pytorch - are there examples or guideline on how to do training for squad dataset just for a trial - i started it on my local mac box and am not sure when it is going to complete thanks

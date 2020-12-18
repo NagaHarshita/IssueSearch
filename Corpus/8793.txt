@@ -1,0 +1,1 @@
+ URL : "https://github.com/fgeller/kt/issues/68" TITLE : run with docker BODY : i've build minimal docker image to run kt - https://hub.docker.com/r/evpavel/kt/ could not find any info about docker images

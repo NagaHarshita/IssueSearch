@@ -1,0 +1,1 @@
+ URL : "https://github.com/baranidlo/bench/issues/17" TITLE : the map is too small BODY : starting from the default starting positions of the map, ships on the map are within 10 shipbases of range 3 of one another. that is to say that the rule of 11 in real life x-wing is actually the rule of 10 in squadron benchmark

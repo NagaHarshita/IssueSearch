@@ -1,0 +1,1 @@
+ URL : "https://github.com/skybrud/Skybrud.LinkPicker/issues/5" TITLE : problems with leblender BODY : hi bjerner, i use skybrud.linkpicker 1.1.1. if i add a linkpicker datatype to leblender and use it on a gridelement, it will not save the data on the save event.

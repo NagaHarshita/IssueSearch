@@ -1,0 +1,1 @@
+ URL : "https://github.com/qorelanguage/qore/issues/2204" TITLE : implement typedef support BODY : typedef would go a long way towards making long types easier to use

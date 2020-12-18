@@ -1,0 +1,1 @@
+ URL : "https://github.com/cornell-cup/cs-minibot/issues/49" TITLE : remove sendkv in gui BODY : in the end, we shouldn't be exposing users to sendkv. if anything, there should be some simple ui for seeing what pre-written scripts they can run. // if necessary, we can create a run gui in developer mode option which can add sendkv among other not user friendly things. ?

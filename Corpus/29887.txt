@@ -1,0 +1,4 @@
+ URL : "https://github.com/pilrhealth/pilrhealth-issues/issues/761" TITLE : name doesn't appear BODY : server: cloud.pilrhealth.com
+page: /project/brown_caas/emaots/saveapplication
+user: jmoon
+project: brown_caas replaced name for ema application . new name shows on main screen. but not on overflow screen.

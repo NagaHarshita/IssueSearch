@@ -1,0 +1,1 @@
+ URL : "https://github.com/gildata/redux-seeds/issues/4" TITLE : redux devtools extension BODY : redux devtools extension https://github.com/zalmoxisus/redux-devtools-extension usage jsx const store = createstore reducer, / preloadedstate, / + window.__redux_devtools_extension__ && window.__redux_devtools_extension__ ;

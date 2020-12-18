@@ -1,0 +1,1 @@
+ URL : "https://github.com/go-oauth2/oauth2/issues/51" TITLE : generate jwt access token BODY : hi, 这个项目很棒，多谢你的贡献。 我现在有一个问题是，我想把defaultmanager的accessgenerate替换成生成jwt的。而现在这部分的接口定义了只有generatebasic这个数据能参与token的生成，如果我想用到别的数据例如scope来参与生成jwt，这里没办法做到。 https://github.com/go-oauth2/oauth2/blob/master/generate.go l20 url 我想问一下，这有什么好的解决方法吗？或者代码中哪里有这方面的拓展？如果没有，后续是否考虑加入呢？ 谢谢

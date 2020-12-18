@@ -1,0 +1,1 @@
+ URL : "https://github.com/Techprimate/TPPDF/issues/44" TITLE : height of table as float BODY : is there any option for you to provide a public value to get the height of the table after filling it with the data array? i need it to calculate whether or not i need a new page to prevent page break within content. i'm using the develop branch to have the pdftable object.

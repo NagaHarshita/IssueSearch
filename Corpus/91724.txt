@@ -1,0 +1,1 @@
+ URL : "https://github.com/moment/moment/issues/3927" TITLE : unreachable code warnings BODY : description of the issue and steps to reproduce: using moment-with-locales.js, visual studio gives lots of 'unreachable code detected' warnings. visual studio 2017 + r ! image https://cloud.githubusercontent.com/assets/271656/25376463/313cf9c6-299c-11e7-990a-43027ed8b29c.png

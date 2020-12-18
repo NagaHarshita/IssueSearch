@@ -1,0 +1,1 @@
+ URL : "https://github.com/PaddlePaddle/Paddle/issues/5915" TITLE : lack floor op support BODY : when i write the math library, find we lack some math op floor, ceil, round .

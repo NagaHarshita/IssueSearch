@@ -1,0 +1,1 @@
+ URL : "https://github.com/18F/standup-slack-bot/issues/136" TITLE : migrate to redis 3.2 BODY : redis is upgraded on cloud.gov and 2.8 is deprecated. we need to make sure the bot will continue to work with that when redis 2.8 is turned off.

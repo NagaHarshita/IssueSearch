@@ -1,0 +1,1 @@
+ URL : "https://github.com/thibaud-rohmer/PhotoShow/issues/352" TITLE : add support for paging BODY : i have one gallery with more than 1000 photos, making photoshow quite slow to react on user interaction. maybe that adding a paging navigator would help with such large albums ?

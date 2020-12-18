@@ -1,0 +1,1 @@
+ URL : "https://github.com/FACN3/intercontinental/issues/21" TITLE : login.js under controllers BODY : what is req.body? u should not upload commented code to github console.logs should not be on github before you commit, make sure you use git diff <file-name> to see the changes you made in a file and then decide if its something you can commit

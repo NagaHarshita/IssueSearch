@@ -1,0 +1,1 @@
+ URL : "https://github.com/tootsuite/mastodon/issues/563" TITLE : backup codes for 2fa BODY : many 2fa-enabled apps offer backup codes, which allow you to login, e.g. if you lost your phone or yubikey and are not able to login via totp or any other 2fa mechanism. it would be great if mastodon supported backup codes for 2fa in the next versions :-

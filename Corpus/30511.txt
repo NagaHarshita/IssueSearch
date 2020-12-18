@@ -1,0 +1,1 @@
+ URL : "https://github.com/freeorion/freeorion/issues/1655" TITLE : popup windows blank BODY : while testing a pull request, a dialog popup was blank. i tried again with master by clicking the top-right x before an autosave completed, and got the same, see attached. ! blank_error https://user-images.githubusercontent.com/11386908/28996376-a748bc14-79ff-11e7-840f-add6faec4e0f.png

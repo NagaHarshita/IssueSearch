@@ -1,0 +1,1 @@
+ URL : "https://github.com/syndesisio/syndesis-rest/issues/452" TITLE : cannot add additional step BODY : when pussing + add another rule the following javascript exception occurs. this happens when creating a new filter step or editing an already existing filter step ! image https://user-images.githubusercontent.com/99080/28450858-49ceacf4-6dea-11e7-8676-c7e33f72215f.png

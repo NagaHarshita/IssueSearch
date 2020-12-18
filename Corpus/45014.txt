@@ -1,0 +1,1 @@
+ URL : "https://github.com/CartoDB/bigmetadata/issues/258" TITLE : go public with new do BODY : this is a final mark for deployment. currently it depends on the following issues: - cartodb/cartodb/issues/12648 - cartodb/cartodb-platform/issues/3547 we'll close this issue when it's released. @gregsundermann , you'll be notified when this is public.

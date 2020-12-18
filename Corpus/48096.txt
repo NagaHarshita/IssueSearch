@@ -1,0 +1,1 @@
+ URL : "https://github.com/butlernc/SoundsQ_Android/issues/15" TITLE : reloading owner error BODY : when the owner is being reloaded, it is still loading more copies of the song, make sure it's rewriting local data with data from the server.

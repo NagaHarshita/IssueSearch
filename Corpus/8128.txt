@@ -1,0 +1,1 @@
+ URL : "https://github.com/jmitchell/cpphs-blackbox/issues/1" TITLE : mvp: test cpphs BODY : currently the repo is a skeleton project that doesn't do anything with cpphs. see https://github.com/malcolmwallace/cpphs/issues/9 issuecomment-284516771 for the primary objectives.

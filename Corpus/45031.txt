@@ -1,0 +1,1 @@
+ URL : "https://github.com/dji-sdk/Onboard-SDK/issues/127" TITLE : gps coordinate offset BODY : the gps coordinate read from the sdk has a large offset about 7 km compared with the original point. how should i solve this problem? thanks a lot.

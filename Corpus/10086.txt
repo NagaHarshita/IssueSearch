@@ -1,0 +1,1 @@
+ URL : "https://github.com/NuGet/Home/issues/5687" TITLE : apex test design BODY : - design ui api - add a test to search and install a package from the ui using the install button

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Nerei/kinfu_remake/issues/27" TITLE : running demo error! BODY : device 0: nvs 315 1024mb, sm_21, 48 cores, driver/runtime ver.8.0/8.0 kinfu2 error: init failed: can't create any node of the requested type! ..\..\kinfu_remake-master\kfusion\src\capture.cpp:85 nvs 315's architecture is fermi. anyone knows how to fix it? thanks!

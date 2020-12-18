@@ -1,0 +1,1 @@
+ URL : "https://github.com/jodastephen/jpms-module-names/issues/5" TITLE : netty module names BODY : netty has provided in its latest release 4.1.18.final automatic module names for java 9 : https://github.com/netty/netty/commit/e8540c2b7a1243618002c857be5ba463984e1b76

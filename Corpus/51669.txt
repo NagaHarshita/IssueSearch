@@ -1,0 +1,1 @@
+ URL : "https://github.com/essepuntato/opencitations/issues/9" TITLE : backups and statistics BODY : in case the backup is running and the script statistics.sh is launched, this script must terminate without doing any action.

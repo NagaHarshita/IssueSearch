@@ -1,0 +1,1 @@
+ URL : "https://github.com/jyleong/voiceminder-server/issues/52" TITLE : client speech recognition BODY : when clients speaks, it should not be listening. when it is listening, it should not be speaking approach 1 : theading mutex lock on speaking boolean approach 2 : investigating use of observable pattern

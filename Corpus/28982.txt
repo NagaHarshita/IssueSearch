@@ -1,0 +1,1 @@
+ URL : "https://github.com/shaketbaby/directory-named-webpack-plugin/issues/14" TITLE : include and exclude BODY : i think this plugin needs include and exclude properties to options. what do you think?

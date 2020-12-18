@@ -1,0 +1,1 @@
+ URL : "https://github.com/pontikis/bash-cloud-backup/issues/79" TITLE : truncate long log lines BODY : recent exim4 version do not send messages with line width > 998

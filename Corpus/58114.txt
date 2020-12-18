@@ -1,0 +1,1 @@
+ URL : "https://github.com/bustle/shep/issues/284" TITLE : s3 bucket optimization BODY : if we create sha of the zip we could update code by parsing the codesha256 and convert it from base641 to hex and then create the key from that. this would be useful for config changes as it would avoid the need for downloading/uploading the code zip file.

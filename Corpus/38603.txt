@@ -1,0 +1,1 @@
+ URL : "https://github.com/MarlinFirmware/Marlin/issues/8689" TITLE : problem with lcd1602 BODY : hi everyone, i've a big problem during the configuration of marlin. i'm using a mks base_l v2.1 board, and i want add a minimal display 16x2 , but, i can't change the settings for width and height. because there are a lot of error during the compilation. any idea? thanks :

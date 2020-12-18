@@ -1,0 +1,1 @@
+ URL : "https://github.com/rchatham/PeerConnectivity/issues/4" TITLE : xcode 9 / 3.2 BODY : does this work for swift 3.2? i am using carthage and i get a: build failed task failed with exit code 65: thanks for any help

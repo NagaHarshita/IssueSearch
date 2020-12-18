@@ -1,0 +1,1 @@
+ URL : "https://github.com/ReactiveX/rxjs/issues/2668" TITLE : question about import rx BODY : when i write my code like this : import rx from 'rxjs/rx; console.log rx.observable.of '123' ; ' but i got an error : uncaught typeerror: cannot read property 'observable' of undefined

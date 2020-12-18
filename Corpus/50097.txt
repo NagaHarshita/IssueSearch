@@ -1,0 +1,1 @@
+ URL : "https://github.com/tbranyen/backbone.layoutmanager/issues/504" TITLE : view cleanup sequence BODY : hi, in backbone layout manager, _removeview function cleans first the its own view and then its nested views. shouldn't it clean first all the child view and then parent view? regards mahaveer

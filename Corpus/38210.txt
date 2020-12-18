@@ -1,0 +1,1 @@
+ URL : "https://github.com/rigor789/vue-scrollto/issues/27" TITLE : ondone not triggered BODY : ondone function not triggered if element already on the top of page no need to scroll .

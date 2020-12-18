@@ -1,0 +1,1 @@
+ URL : "https://github.com/westlicht/eurorack-sequencer-hardware/issues/2" TITLE : replace 0603 footprint BODY : 0603 footprints are really small, especially for hand-soldering. should be replaced with larger footprints for the diy version!

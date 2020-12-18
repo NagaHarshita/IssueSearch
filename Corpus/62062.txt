@@ -1,0 +1,1 @@
+ URL : "https://github.com/CrabDude/babel-node-debug/issues/23" TITLE : can't run on node 6.9.4 BODY : i run babel-node-debug and chrome browser pop up and foloowing, the debug page is not loaded. i proceed to http://127.0.0.1:8080/?port=5858 and a black pop shows 'websocket_closed' . does this work on node 6.9.4

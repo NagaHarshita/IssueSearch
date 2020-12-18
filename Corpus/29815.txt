@@ -1,0 +1,1 @@
+ URL : "https://github.com/Uptwinkles/api/issues/8" TITLE : move this to django BODY : we've about hit the limit for a system which doesn't store data to a database. soon we'll need to handle form submissions and potentially store the house code. moving to django is probably a good plan.

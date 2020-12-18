@@ -1,0 +1,5 @@
+ URL : "https://github.com/NSI-IT/SBR-MYIDEALM/issues/15" TITLE : add new restaurant BODY : as an admin user, i want to add new restaurant so that users can view more restaurant options. acceptance criteria verify that i am able to add following information -
+> restaurant name > contact number
+> email address
+> ambiance
+> style >> formal sit down - table service & waiter involved e.g. the keg, swiss chalet… >> casual dining - fast-food/ no table service e.g. mcdonald, tim hortons.. >> pickup/delivery >> self-serve > website optional verify that on click of save, all the data gets stored in database. verify that i am able to view the new restaurant created in view restaurant list.

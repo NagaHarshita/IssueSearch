@@ -1,0 +1,1 @@
+ URL : "https://github.com/ignism/nucleus-dark-ui/issues/114" TITLE : new github login modal BODY : hi, trying to use the new github integration package for atom, the login modal comes up blank. changing the theme fixes it.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/JohnstonCode/svn-scm/issues/10" TITLE : maxes all available cpus BODY : running on a vanilla vscode on macos sierra 10.12.6. looks like a large number of svn status processes are running in parallel.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/robincornelius/libedssharp/issues/86" TITLE : eds export comment section BODY : the canopen conformance test tool requires an section comment like this comments lines=1 line1=dummy to silence conformance tool if that section doesn't exists, testing fails with an error. should we place a dummy entry or can we use that for something useful?

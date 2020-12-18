@@ -1,0 +1,1 @@
+ URL : "https://github.com/krisprice1/prj-rev-bwfs-dasmoto/issues/1" TITLE : local vs relative BODY : https://github.com/krisprice1/prj-rev-bwfs-dasmoto/blob/14263ab933b0ce7bf90f9318070430b5b4b6ac9c/dasmatoart/index.html l4 this is trying to access your local c drive, which obviously won't work on the web. href= ./resources/css/style.css

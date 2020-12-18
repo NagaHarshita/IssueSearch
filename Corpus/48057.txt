@@ -1,0 +1,1 @@
+ URL : "https://github.com/RPCS3/rpcs3/issues/3947" TITLE : regressions with 3931 BODY : after 3931 was merged persona 5 now displays the following blue background when opening the map. ! image https://user-images.githubusercontent.com/15137035/34108913-e553f3c2-e451-11e7-88e8-8350cf053a04.png rpcs3.log.gz https://github.com/rpcs3/rpcs3/files/1568097/rpcs3.log.gz

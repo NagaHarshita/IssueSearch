@@ -1,0 +1,1 @@
+ URL : "https://github.com/timveil/hdp-vagrant-base/issues/1" TITLE : error mounting vboxsf BODY : hi, hope you dont mind me contacting you with an error. no probs if you busy. had this on windows vb5.1.28 with extensions installed mount -t vboxsf -o uid=1000,gid=1000 vagrant /vagrant the error output from the command was: mount: unknown filesystem type 'vboxsf'

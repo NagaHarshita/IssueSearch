@@ -1,0 +1,1 @@
+ URL : "https://github.com/99designs/aws-vault/issues/122" TITLE : force new session option BODY : it would be nice to have a force new session option. we need a guaranteed period of time where the session is valid. currently we set the session length larger than desired and set the --debug flag so we can watch for session endings.

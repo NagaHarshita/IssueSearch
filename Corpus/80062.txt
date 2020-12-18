@@ -1,0 +1,1 @@
+ URL : "https://github.com/GSA/DevSecOps-Infrastructure/issues/17" TITLE : switch to new vpc module BODY : the terraform module we were using for vpc’s is now listed as deprecated. the new repo is at this url: https://github.com/terraform-aws-modules/terraform-aws-vpc

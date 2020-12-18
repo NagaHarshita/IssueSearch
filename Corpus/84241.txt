@@ -1,0 +1,1 @@
+ URL : "https://github.com/jmMeessen/the-captains-shack/issues/2" TITLE : create historical backups BODY : currently the backup is only a copy of the current setup. it is each time overwritten. i should keep historical data glacier in case something very bad happens and i take time to figure it out. a dashboard would be neet too

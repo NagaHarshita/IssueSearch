@@ -1,0 +1,1 @@
+ URL : "https://github.com/beeplove/mongoose-find-one-or-create/issues/4" TITLE : support for promises BODY : would it be possible to have findoneorcreate return a promise of no callback is passed?

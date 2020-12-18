@@ -1,0 +1,1 @@
+ URL : "https://github.com/italia/spid-testenv-identityserver/issues/5" TITLE : tsl handshake problem BODY : _from @umbros on september 22, 2017 8:53_ tls handshake problem for localhost idp/sp _copied from original issue: italia/spid-testenv 7_

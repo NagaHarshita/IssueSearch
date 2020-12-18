@@ -1,0 +1,1 @@
+ URL : "https://github.com/margaret/python-datamuse/issues/1" TITLE : limited number of words BODY : in the main webpage, we can get a lot many words, i.e. more than 100 words related to a particular word but using this api we are getting very less number of words.

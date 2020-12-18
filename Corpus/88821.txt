@@ -1,0 +1,1 @@
+ URL : "https://github.com/gwforg/gwf/issues/175" TITLE : output logs to with pager BODY : it'd be very convenient if logs were output with a pager in the default case. if stdout is being piped somewhere, we of course shouldn't use a pager. also, there should be a --no-pager flag.

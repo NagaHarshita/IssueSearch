@@ -1,0 +1,1 @@
+ URL : "https://github.com/skx/dns-api.org/issues/9" TITLE : change docker base-image BODY : your dockerfile defines ytnobody/alpine-perl:latest https://hub.docker.com/r/ytnobody/alpine-perl/ as base-image. this image is not maintained since 2 years. use a basic alpine and install perl by yourself or use the tiny-tag ytnobody/alpine-perl:tiny , that is maintained 10 months ago.

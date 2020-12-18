@@ -1,0 +1,1 @@
+ URL : "https://github.com/pybel/pybel/issues/209" TITLE : biopax to bel BODY : check out the pathway commons rules for converting biopax to sif, and expand on this mapping. http://www.pathwaycommons.org/pc2/formats sif_relations

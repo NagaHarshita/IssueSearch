@@ -1,0 +1,1 @@
+ URL : "https://github.com/jaraco/keyring/issues/269" TITLE : kwallet as backend BODY : hallo, what's the correct way of setting kwallet as backend using keyring.set_keyring ? mebus

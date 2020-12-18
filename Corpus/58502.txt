@@ -1,0 +1,1 @@
+ URL : "https://github.com/EugenMayer/home-assistant-raspberry-zwave/issues/8" TITLE : small copy paste error BODY : in run.sh cd production/docker is what you want. if -d production/configuration ; then echo found production configuration, starting production cd example/docker else echo only found example configuration, starting example cd example/docker

@@ -1,0 +1,1 @@
+ URL : "https://github.com/john-chapman/GfxSampleFramework/issues/36" TITLE : shared opengl context BODY : see branch. - profiler broken need a profiler instance per context . - ordering issue with creating resources? using resources loaded in another context prior to sharing seems to fail.

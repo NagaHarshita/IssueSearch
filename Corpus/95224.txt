@@ -1,0 +1,1 @@
+ URL : "https://github.com/ty-a/TyRC/issues/1" TITLE : create basic reporting bot BODY : this project will be a bot that reads in a feed from one irc network, and will process the data and report it onto another network in an easy-to-view way.

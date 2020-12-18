@@ -1,0 +1,1 @@
+ URL : "https://github.com/Deletescape-Media/Lawnchair/issues/609" TITLE : icon change bug BODY : when app icon is changed from the drawer, it doesn't affect the shortcut on the desktop and vice versa. rebuilding icons and or restarting launcher doesn't correct it.

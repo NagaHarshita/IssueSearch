@@ -1,0 +1,1 @@
+ URL : "https://github.com/USGS-R/training-curriculum/issues/339" TITLE : improve ggplot2 lesson BODY : was a secondary plotting lesson, but now we use as the primary one. secondary axes guy is pushing on getting some critical ggplot2 issues fixed, and if they are we might want to redo this lesson.

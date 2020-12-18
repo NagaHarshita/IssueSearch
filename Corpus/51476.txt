@@ -1,0 +1,1 @@
+ URL : "https://github.com/codeformuenster/carparcsmuenster/issues/1" TITLE : api hat sich geändert BODY : mittlerweile läuft dieser scraper hinter der api: https://github.com/codeformuenster/parkleit-scraper besser wäre aber sowieso eine abfrage gegen elasticsearch. @kostja93 hast du lust hier nochmal dran zu schrauben?

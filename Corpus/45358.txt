@@ -1,0 +1,1 @@
+ URL : "https://github.com/kubernetes/kubernetes/issues/49716" TITLE : how to use watch apis BODY : how to implement watch api using okhttp and retrofit in java. do i have to use websockets for this to implement?

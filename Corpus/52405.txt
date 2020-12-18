@@ -1,0 +1,1 @@
+ URL : "https://github.com/Webiks/MapMip/issues/52" TITLE : click on marker events BODY : when the user will click on a marker: 1.the marker id will be exposed to api in cesium, leaflet, openlayers . for that each marker will have unique id. 2. an informative form will be represent for each marker.

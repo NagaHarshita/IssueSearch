@@ -1,0 +1,1 @@
+ URL : "https://github.com/Eartz/animatePaper.js/issues/5" TITLE : support animation loop BODY : could you please add basic support for looping animations? maybe add a new loop setting on the animation object that supports a true/false value for infinite / no loop default . also, a nice to have would also be to support numeric values for _x_ number of loops. thanks!

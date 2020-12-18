@@ -1,0 +1,1 @@
+ URL : "https://github.com/frappe/erpnext/issues/11671" TITLE : error in issue type BODY : in support issues issue type is mandatory, even after selecting issue type system throws a message to select issue type. refer gif attached. ! issue with issue type https://user-images.githubusercontent.com/20164097/33055649-d666fabe-cea6-11e7-9681-fb4bc5640d7f.gif

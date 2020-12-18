@@ -1,0 +1,1 @@
+ URL : "https://github.com/docker-library/wordpress/issues/209" TITLE : any fpm images is working BODY : hi i wish report any of php-fpm images is working out of the box docker run -p 80:80 wordpress:php7.1-fpm-alpine docker run -p 80:80 wordpress:php7.0-fpm all is

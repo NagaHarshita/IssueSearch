@@ -1,0 +1,1 @@
+ URL : "https://github.com/missive/functional-components-benchmark/issues/1" TITLE : react production build BODY : the benchmark results aren’t very meaningful if they aren’t run with react’s minified production build. see use the production build https://facebook.github.io/react/docs/optimizing-performance.html use-the-production-build .

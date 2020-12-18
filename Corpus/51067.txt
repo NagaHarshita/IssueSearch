@@ -1,0 +1,1 @@
+ URL : "https://github.com/blocknotes/activeadmin_selectize/issues/1" TITLE : add option for plugins BODY : currently, there's no easy way to setup plugins via data attributes. only can modify included init script. would be great to parse json from data-opt-plugins.

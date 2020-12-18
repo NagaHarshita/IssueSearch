@@ -1,0 +1,1 @@
+ URL : "https://github.com/sara-project/sara-project.github.io/issues/4" TITLE : add a new menu called demo BODY : add a demo menu with link to http://sara-project.herokuapp.com/ and it should open a new page when clicked target should be _blank

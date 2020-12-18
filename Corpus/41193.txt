@@ -1,0 +1,1 @@
+ URL : "https://github.com/astaxie/beego/issues/2458" TITLE : zero downtime deploy BODY : hello, how can i deploy my updates with zero downtime using beego? i found https://github.com/fvbock/endless repo but i need to make changes beego's listenandserve to use /fvblock/endless. does anyone know another way or did something like that?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/asiekierka/FoamFix/issues/89" TITLE : crash on breaking blocks BODY : when destroying a campfire von tan, the game crash, with the following error crashlog: https://pastebin.com/cys3k1sz

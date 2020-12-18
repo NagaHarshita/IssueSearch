@@ -1,0 +1,1 @@
+ URL : "https://github.com/rgcjonas/dhbw-ka-latex-template/issues/1" TITLE : make warnings go away BODY : the template uses serveral deprecated koma-script features. get rid of them.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/nicholashudson2/whiskey-wisdom/issues/40" TITLE : user control panel BODY : add user view, so super users can approve admins, admins can view other registered users, etc. include a displayname string, which we can append to the article view to show who posted.

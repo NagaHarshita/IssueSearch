@@ -1,0 +1,1 @@
+ URL : "https://github.com/duff2013/Snooze/issues/23" TITLE : maximum delay of timer BODY : duff, i am trying to set the timer to fire after 5 minutes 3e5 milliseconds but i am noticing that fires at maximum after 60 seconds. is this the limit? how can i set the module to wake up every 5 minutes? thx, iraklis

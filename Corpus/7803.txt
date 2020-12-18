@@ -1,0 +1,1 @@
+ URL : "https://github.com/bencripps/react-redux-grid/issues/190" TITLE : issue with ie11 BODY : i get the following error on ie 11. unable to get property '__reactinternalinstance$yzdkl2pqwp9r' of undefined or null reference. file: bundle.js, line: 15685, column: 4

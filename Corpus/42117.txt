@@ -1,0 +1,1 @@
+ URL : "https://github.com/MaxVMH/mijnscore/issues/5" TITLE : admin panel for users BODY : there should be an admin panel with the option to properly delete users, and something to replace /dev/clean_inactive_users.php

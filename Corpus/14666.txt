@@ -1,0 +1,1 @@
+ URL : "https://github.com/aarongustafson/jekyll-webmention_io/issues/28" TITLE : bring back the js BODY : - clean up the js for the new markup setup - add configuration option for where to dump the js file - add build task for minifying the javascript file - update documentation

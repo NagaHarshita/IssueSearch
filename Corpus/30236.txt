@@ -1,0 +1,1 @@
+ URL : "https://github.com/Fiware/specifications/issues/1" TITLE : open api spec files BODY : the repository is logical place to look for open api spec yaml spec files for all the fiware standardized apis. yet there's currently none. if the files are not collected here, then at least add to readme where the files are.

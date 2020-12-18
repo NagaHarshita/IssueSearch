@@ -1,0 +1,1 @@
+ URL : "https://github.com/tmcdonell/nvvm/issues/3" TITLE : ghci broken on windows BODY : the cuda package's setup.hs has some machinery that finds the right dll for the particular windows cuda installation in use. similar machinery would be necessary to use ghci with this package; just noting this here to point someone who needs this functionality in the right direction.

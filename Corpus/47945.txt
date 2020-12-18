@@ -1,0 +1,1 @@
+ URL : "https://github.com/travy/movie-scout/issues/58" TITLE : read more for reviews BODY : some of the reviews loaded from the server are very long. it would be useful if reviews of size n would then be followed by an ellipsis and a text which reads read more . after pressing the comment, the rest of the content will be rendered

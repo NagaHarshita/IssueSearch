@@ -1,0 +1,1 @@
+ URL : "https://github.com/vaadin/vaadin-material-theme/issues/10" TITLE : correct vaadin-grid id BODY : it should be material-grid . https://github.com/vaadin/vaadin-material-theme/blob/master/vaadin-grid.html l5 not sure it is can create problems later on -

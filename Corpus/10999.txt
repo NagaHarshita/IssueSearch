@@ -1,0 +1,1 @@
+ URL : "https://github.com/boundlessgeo/exchange/issues/437" TITLE : error upload shp BODY : finally the exchange is up and running. except import failed when importing shp data. i got this error gdal_error 4: /scratch/media_root/osgeo_importer_uploads/13/places_project3857.prj' not recognized as a supported file format.

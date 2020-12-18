@@ -1,0 +1,1 @@
+ URL : "https://github.com/ahtn/keyplus/issues/11" TITLE : add more documentation BODY : - how to bulild the code - how to use the host-software utilities - how the configuration file format works - basic overview of how split keyboard support works and limitations. - how to flash the nrf24lu1+ code on a unifying receiver - notes about using a unifying mouse

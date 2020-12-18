@@ -1,0 +1,1 @@
+ URL : "https://github.com/VenturaFranklin/ThetaTauAnnualReport/issues/76" TITLE : service event score BODY : typeerror: cannot read property 0 from undefined. line 611, file code thetataureports . stack: at code thetataureports :611 event_fields_set at score thetataureports :29 update_scores_event at code thetataureports :356 _onedit . while processing events.

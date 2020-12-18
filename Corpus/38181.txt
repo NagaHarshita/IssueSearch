@@ -1,0 +1,1 @@
+ URL : "https://github.com/Qminder/swift-api/issues/92" TITLE : object mapping tests BODY : catch object mapping inconsistencies e.g. ticket.created date with milliseconds was nil

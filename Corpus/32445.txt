@@ -1,0 +1,1 @@
+ URL : "https://github.com/the-virtual-brain/tvb-geodesic/issues/10" TITLE : use cython parallel BODY : speeding this up should be fairly easy with cython's support for openmp. it's worth trying and testing the results are identical.

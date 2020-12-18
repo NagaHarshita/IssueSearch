@@ -1,0 +1,1 @@
+ URL : "https://github.com/robconery/massive-js/issues/347" TITLE : finddoc with ors? BODY : can i use finddoc and use or's? i would like to do something like where a flag : false || flag: null , is this possible?

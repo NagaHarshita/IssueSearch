@@ -1,0 +1,1 @@
+ URL : "https://github.com/gregoil/rotest/issues/3" TITLE : excelhandler ut fails BODY : different os and/or different versions of xlwt causes the excel files to be not bit-exact with the expected one. the solution would be not to use bit-exact compare but to compare the content of the excel files

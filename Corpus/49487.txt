@@ -1,0 +1,1 @@
+ URL : "https://github.com/liuderchi/atom-i18n/issues/37" TITLE : translate 'about' tab BODY : by pr 34 we now have new section about tab which can be translated. file require translation: - def/my_locale/about.cson locales done up to now: - zh-tw , zh-cn 36 for more info please checkout contributing.md https://github.com/liuderchi/atom-i18n/blob/master/contributing.md

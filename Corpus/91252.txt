@@ -1,0 +1,4 @@
+ URL : "https://github.com/avalonmediasystem/avalon/issues/1542" TITLE : test batch ingest for ova BODY : description
+testing has been completed for the ova on every measure except batch ingest. phuong would like to use this as a special test to see if the average user trying avalon out via the ova can figure out where to put the files for ingest, and whether it works properly. done looks like
+batch ingest is tested for the 6.0 ova.
+- batch ingest confirmed working ingest sheets placed in the correct directory are automatically picked up and processed - instructions are written or updated for how to try out batch ingest via the ova.

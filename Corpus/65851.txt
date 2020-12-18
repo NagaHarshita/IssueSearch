@@ -1,0 +1,1 @@
+ URL : "https://github.com/tomchristie/apistar/issues/12" TITLE : linting + type checking BODY : - flake8 - isort - mypy

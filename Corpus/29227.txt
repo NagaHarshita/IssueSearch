@@ -1,0 +1,1 @@
+ URL : "https://github.com/nteract/nteract/issues/1417" TITLE : kernel fuzz testing BODY : we should put nteract through it's paces with a kernel that is not properly implemented or even one specifically designed to send weird data. the main goal would be to ensure that the notebook format is consistent and valid while also informative to the user.

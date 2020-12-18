@@ -1,0 +1,1 @@
+ URL : "https://github.com/hackumass/hackumass-ios/issues/1" TITLE : pod file missing!!!! BODY : cannot install pods if the podfile is not included in the project. see error below: <img width= 612 alt= screen shot 2017-04-16 at 10 47 12 am src= https://cloud.githubusercontent.com/assets/13333333/25071986/19550fee-2292-11e7-8b5b-b61bd255767d.png >

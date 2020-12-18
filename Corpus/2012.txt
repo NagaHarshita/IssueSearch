@@ -1,0 +1,1 @@
+ URL : "https://github.com/travis-ci/travis-ci/issues/7929" TITLE : osx -> macos BODY : this is related to https://github.com/travis-ci/travis-web osx is the old naming, macos is the old naming. for the web front end, all occurrences of osx should be replaced to macos.

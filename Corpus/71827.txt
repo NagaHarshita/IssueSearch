@@ -1,0 +1,1 @@
+ URL : "https://github.com/DefrostedTuna/scouter/issues/4" TITLE : allow for null manifests BODY : currently, the manifest creation requires at least one part number to be attached. allow for null entires so that wildcard manifests are able to be created.

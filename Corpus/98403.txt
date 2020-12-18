@@ -1,0 +1,1 @@
+ URL : "https://github.com/datacarpentry/shell-genomics/issues/66" TITLE : introduce file permissions BODY : in 03-working-with-files, we introduce the idea of making a backup copy of our raw data. this would be a good place to introduce file permissions and change permissions for these files to read only so that we can't accidentally overwrite our back up copies.

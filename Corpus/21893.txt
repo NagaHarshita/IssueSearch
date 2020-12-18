@@ -1,0 +1,1 @@
+ URL : "https://github.com/bjw49/citation-network-explorer/issues/13" TITLE : highlight node bug BODY : when a paper is clicked it shows all papers connected to the node i.e. forward and reverse citations irrespective of which viewing 'mode' you are in. therefore it will sometimes show nodes that are not connected by an edge on in the graph.

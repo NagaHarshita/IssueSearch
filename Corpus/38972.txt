@@ -1,0 +1,1 @@
+ URL : "https://github.com/bahmutov/bin-up/issues/4" TITLE : remove console usage BODY : console.error is being used here https://github.com/bahmutov/bin-up/blob/master/src/index.js l33 and in some other places. could we replace those with https://nodejs.org/api/util.html util_util_debuglog_section? thanks

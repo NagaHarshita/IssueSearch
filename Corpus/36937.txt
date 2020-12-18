@@ -1,0 +1,1 @@
+ URL : "https://github.com/SBRG/bigg_models/issues/275" TITLE : invalid link to kegg BODY : description of the issue the link > http://identifiers.org/kegg.compound/g00001 is invalid, it should be > http://identifiers.org/kegg.glycan/g00001 page http://bigg.ucsd.edu/universal/metabolites/naglc2p

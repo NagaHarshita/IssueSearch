@@ -1,0 +1,1 @@
+ URL : "https://github.com/MicrosoftDX/nether/issues/560" TITLE : top scores leaderboard BODY : in the nether ingest model, implement an output manager for top scores leaderboard; store top scores for player in cosmos db

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Intermodalics/tango_ros/issues/187" TITLE : state for connecting BODY : it is very hard to tell from the green / red status light whether it is trying to connect to tango or if it already failed - it is in both cases still red. it would be nice to have an intermediate connecting state yellow? spinning wheel?

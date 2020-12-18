@@ -1,0 +1,1 @@
+ URL : "https://github.com/valor-software/ng2-select/issues/887" TITLE : failed to compile BODY : after doing an npm install and npm start, here's what happened. i got this error message: error in error encountered resolving symbol values statically. ! image https://user-images.githubusercontent.com/2860498/30630403-14026300-9e13-11e7-9986-b36f23a28af8.png

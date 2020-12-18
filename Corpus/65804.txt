@@ -1,0 +1,1 @@
+ URL : "https://github.com/tim-lebedkov/npackd-cpp/issues/3" TITLE : libreoffice not updated BODY : my libreoffice version is 5.3.1.2. there's now version 5.3.2 but npackd doesn't realize there's a new version and shows me that there's nothing to update.

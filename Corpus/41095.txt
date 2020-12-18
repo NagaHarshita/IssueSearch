@@ -1,0 +1,1 @@
+ URL : "https://github.com/cyberark/ansible-role-conjur/issues/48" TITLE : work with http/https BODY : - get everything working in 3 options: - htttp - https without validating certs - https with validating certs at this point the role works that way but in the plugin & module we don;t have the ability to work with ssl without validating certs

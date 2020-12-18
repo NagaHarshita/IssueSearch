@@ -1,0 +1,1 @@
+ URL : "https://github.com/agraboso/redux-api-middleware/issues/129" TITLE : build with babel v6? BODY : any way we could upgrade this to build with babel v6? we've got a poc available on our fork: https://github.com/fabrictech/redux-api-middleware/tree/babel-v6. happy to submit a pr if this is something we could swing.

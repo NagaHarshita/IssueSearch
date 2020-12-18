@@ -1,0 +1,1 @@
+ URL : "https://github.com/khellang/Scrutor/issues/17" TITLE : fix the tooling version BODY : i will pr changing the version to the current lts long term support version 1.0.0-preview2-003156 even if starting from 1.0.0-preview2-003121 the build works, but we should remain updated to the latest lts if we want support.

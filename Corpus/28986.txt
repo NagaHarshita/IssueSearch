@@ -1,0 +1,1 @@
+ URL : "https://github.com/trellis-ldp/static-ldp/issues/4" TITLE : include vary header BODY : the ldp:container resources should include a vary: header for accept and prefer

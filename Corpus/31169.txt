@@ -1,0 +1,1 @@
+ URL : "https://github.com/slowli/exonum-types/issues/2" TITLE : sane error handling BODY : implement adequate error handing during parsing, so it is possible to find out what field exactly does not parse. also, make error messages more informative, too.

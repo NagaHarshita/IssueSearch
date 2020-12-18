@@ -1,0 +1,1 @@
+ URL : "https://github.com/letsencrypt/boulder/issues/2936" TITLE : move to proto3 BODY : one big advantage: it doesn't use pointers for everything, so it will be much easier to use.

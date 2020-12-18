@@ -1,0 +1,1 @@
+ URL : "https://github.com/ChristopherRabotin/smd/issues/126" TITLE : export thrusting angles BODY : the in-plane and out-of-plane angles should be able to be plotted when performing a suboptimal orbit target.

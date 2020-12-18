@@ -1,0 +1,1 @@
+ URL : "https://github.com/waterslideLTS/waterslide/issues/20" TITLE : request nats.io kids BODY : the nats.io brokered pub/sub framework has a c/c++ library available for use. would be nice to have nats_in and nats_out kids.

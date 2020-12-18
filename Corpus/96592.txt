@@ -1,0 +1,1 @@
+ URL : "https://github.com/webfolderio/cdp4j/issues/3" TITLE : factory.create return null BODY : in sessionfactory.java public session create { return create null ; } so it throws a java.lang.nullpointerexception every time

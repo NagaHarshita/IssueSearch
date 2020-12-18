@@ -1,0 +1,1 @@
+ URL : "https://github.com/rubysolo/dentaku/issues/112" TITLE : problem encountered with BODY : ruby calculator = dentaku::calculator.new calculator.add_function :alpha, :numeric, -> { 2 } calculator.add_function :beta, :numeric, -> { 2 x } calculator.evaluate max alpha , 1 => 2 calculator.evaluate max 1, alpha => parseerror! calculator.evaluate max alpha , beta 3 => 6

@@ -1,0 +1,1 @@
+ URL : "https://github.com/lambdamachine/golgang-port/issues/1" TITLE : common lambda parser BODY : parses source code according to common lambda https://github.com/lambdamachine/rfc/blob/common-lambda/common-lambda.md specification.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ReliablePlumbing/reliable-plumbing/issues/3" TITLE : internal user activation BODY : when creating a new user technician, supervisor, administrator, systemadmin there should be reason to activate the account via email. only new users outside the reliable network e.g. customers should require email activation.

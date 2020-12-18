@@ -1,0 +1,1 @@
+ URL : "https://github.com/FAC10/week3-facxmachine-api/issues/23" TITLE : get tmdb api calls working BODY : we need functions that query the tmdb api using the genre ids from the dom, gets an object of movies, then queries tmdb again for each movie to return the youtube trailer ids.

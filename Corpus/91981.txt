@@ -1,0 +1,1 @@
+ URL : "https://github.com/ibm-watson-data-lab/pixiedust_node/issues/12" TITLE : use nodejs vars in python BODY : today, i can use store to save nodejs vars for use in python cells, but i can't do the opposite. that is, i can't access python vars in %%node cells.

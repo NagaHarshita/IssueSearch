@@ -1,0 +1,6 @@
+ URL : "https://github.com/Streetwalrus/android_usb_msd/issues/16" TITLE : question disk formatting BODY : 1. briefly i don't understand, is it safe to use usb mountr. 2. software and hardware 1. smartphone i can't find information, can i use my smartphone for usb mountr usage. + ark benefit s401,
++ android 5.1.1,
++ microsd 8gb,
++ usb mountr 0.5 latest f-droid version at the moment . 2. pc + windows 10 enterprise ltsb en. 3. steps to reproduce i install usb mountr via f-droid → i restart smartphone → i open usb mountr → i provided root for usb mountr → i connect the smartphone to pc via usb → i press mount . now i see the window: > you need to format the disk in drive g: before you can use it. do you want to format it? ! format https://i.imgur.com/y6usohu.png my device manager: ! device manager https://i.imgur.com/mqppetw.png in impress ino my phone storage and microsd: ! impress ino https://i.imgur.com/akfxuin.png 4. questions 1. can i use usb mountr for my smartphone?
+1. if yes, do i have to format the drive g?
+1. if yes, could this lead to any consequences for my phone? yes, i understood, that i need to create backup data from my phone. but if i restore information, will this have any implications? thanks.

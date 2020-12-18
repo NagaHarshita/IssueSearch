@@ -1,0 +1,1 @@
+ URL : "https://github.com/dschnelldavis/angular2-json-schema-form/issues/27" TITLE : file upload widget? BODY : do this library support file upload widget? i have found https://github.com/dschnelldavis/angular2-json-schema-form/blob/master/src/playground/examples/rjsf-files.json this format. could not figure out how will it work.

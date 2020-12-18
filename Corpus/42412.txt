@@ -1,0 +1,1 @@
+ URL : "https://github.com/xabre/xamarin-bluetooth-le/issues/160" TITLE : bad connection status BODY : 1 connect to idevice. 2 here i perform some gatt write/read and bonding. 3 disconnect from the idevice. 4 wait for disconnect event. 5 idevice.state == connected. the consequence is that next connect to idevice is impossible.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jhlywa/chess.js/issues/165" TITLE : fen not loading BODY : i load fen through a method load, but on an output i receive default fen. var chess = new chess ; chess.load rnbqkbnr/pppppppp/8/8/4p3/8/pppp1ppp/rnbqkbnr b kqkq - ; console.log chess.fen ; // output -> rnbqkbnr/pppppppp/8/8/8/8/pppppppp/rnbqkbnr w kqkq - 0 1 what am i doing wrong?

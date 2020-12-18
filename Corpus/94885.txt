@@ -1,0 +1,1 @@
+ URL : "https://github.com/servo/gleam/issues/108" TITLE : combined gl + gles defines BODY : currently, as of 106, we mix together gl and gles specifications in order to generate the bindings having defines from both apis. it would be great to limit that union of specs to defines only and avoid generating the function signatures in ffi .

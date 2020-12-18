@@ -1,0 +1,1 @@
+ URL : "https://github.com/i3/i3status/issues/222" TITLE : reading small integers? BODY : working to build an i3status config for a messy kernel that uses small integers where the sysfs api should use integers 1000, so the division by 1000 floors the numbers to zero. is there any way to deal with this in i3status proper, or do i need to drop python / bash? thanks!

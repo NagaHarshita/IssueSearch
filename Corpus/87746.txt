@@ -1,0 +1,1 @@
+ URL : "https://github.com/CatalystCode/ibex-dashboard/issues/15" TITLE : make scorecards clickable BODY : error count -> dialog detail first view: - grouped by message text & type & count eg. http status code second view: - list of errors grouped by message type / count for selected group third view: - error details

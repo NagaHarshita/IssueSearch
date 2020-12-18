@@ -1,0 +1,1 @@
+ URL : "https://github.com/dougwurtele/chasing-spirits-ionic/issues/5" TITLE : add offline abilities BODY : if a request to the server fails then add it to a queue of pending server requests and reattempt to send them later. everything on the device that made the request should still work correctly.

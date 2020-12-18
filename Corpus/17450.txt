@@ -1,0 +1,1 @@
+ URL : "https://github.com/josuebrunel/yahoo-fantasy-sport/issues/51" TITLE : pip install fails BODY : pip install yahoo-fantasy-sport > could not find a version that satisfies the requirement yahoo-fantasy-sport from versions: no matching distribution found for yahoo-fantasy-sport running on python 2.7.13

@@ -1,0 +1,1 @@
+ URL : "https://github.com/joewalnes/websocketd/issues/258" TITLE : using binary data BODY : hi! could you give me a hint how to send/receive binary data? also: is it possible to mix binary/nonbinary requests? thanks yatekii

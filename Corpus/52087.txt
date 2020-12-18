@@ -1,0 +1,1 @@
+ URL : "https://github.com/aviggiano/redis-roaring/issues/37" TITLE : can't run configure.sh BODY : i'm just trying to check this out, but i can't successfully run configure.sh : link redis-server clang: error: no such file or directory: '../deps/hiredis/libhiredis.a' clang: error: no such file or directory: '../deps/lua/src/liblua.a'

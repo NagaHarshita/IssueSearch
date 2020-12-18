@@ -1,0 +1,2 @@
+ URL : "https://github.com/canonical-ols/build.snapcraft.io/issues/278" TITLE : acceptance / e2e tests BODY : selenium / webdriver tests running via browserstack covering the happy path, same as in my.ubuntu.com --- copied from trello card: https://trello.com/c/fja0ezvp/284-acceptance-e2e-tests
+labels:

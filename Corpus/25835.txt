@@ -1,0 +1,1 @@
+ URL : "https://github.com/shakesoda/tinyfx/issues/5" TITLE : add compute support BODY : compute is extremely useful for things like tiled forward shading, animation, etc es 3.1+

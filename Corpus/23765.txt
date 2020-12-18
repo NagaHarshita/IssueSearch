@@ -1,0 +1,1 @@
+ URL : "https://github.com/celery/celery/issues/3953" TITLE : reids command list BODY : could you please document the redis commands each celery service uses? this way people could partially secure their redis instances by removing unused commands. thanks

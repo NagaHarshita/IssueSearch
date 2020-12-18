@@ -1,0 +1,1 @@
+ URL : "https://github.com/idolesta16/racket-collision-detection/issues/2" TITLE : data definition for angles BODY : per recommendation of mike, we should consider making a data def for angles as a collection of points and associated information. an angle is define-struct angle center-point edge-point-1 edge-point-2

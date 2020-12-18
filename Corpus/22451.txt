@@ -1,0 +1,1 @@
+ URL : "https://github.com/squirrel3712/Projects/issues/31" TITLE : lesson 16. task 3. BODY : лучше использовать hashset. он будет работать быстрее. по условию задачи не сказано, что множества должны быть отсортированы.

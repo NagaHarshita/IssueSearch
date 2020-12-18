@@ -1,0 +1,1 @@
+ URL : "https://github.com/joostory/tistory-editor/issues/3" TITLE : 웹 이미지 drop 처리 BODY : 웹 이미지를 drop 했을 때는 url만 들어가게 되는데 이미지인 경우에는 이미지로 텍스트인 경우에는 텍스트로 넣으면 좋을 것 같다. paste 일때 url 에 따라 처리하는 것도 생각해봤는데 그 경우 진짜 url text를 붙여넣고 싶을때 불편해진다. 1. paste, drop 어떤 경우에? paste는 그대로 두고 drop인 경우만 특별하게 처리 2. 이미지인 경우 upload? 먼저 upload하지 않고 이미지로 넣은 후에 upload가 더 나아보인다면 upload로 전환

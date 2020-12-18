@@ -1,0 +1,1 @@
+ URL : "https://github.com/mrhooray/crc-rs/issues/11" TITLE : make lazy_static optional BODY : lazy_static requires a lot of things that are not always available on embedded systems.

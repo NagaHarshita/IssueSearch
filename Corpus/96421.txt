@@ -1,0 +1,1 @@
+ URL : "https://github.com/an3m0na/hadoop/issues/57" TITLE : establish cluster topology BODY : - send an email to cees about cluster topology - if email comes back negative, figure out how to fake inter-rack slow down

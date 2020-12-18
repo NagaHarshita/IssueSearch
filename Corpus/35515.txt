@@ -1,0 +1,1 @@
+ URL : "https://github.com/rtsho/rtest/issues/12" TITLE : ensemble of xgboosts BODY : first calculate the correlation between models to find the best ones least correlated to ensemble

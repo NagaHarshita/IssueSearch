@@ -1,0 +1,1 @@
+ URL : "https://github.com/fusionpbx/fusionpbx-install.sh/issues/76" TITLE : arm install now broken BODY : commit e76a036f70394489ae0b74b87de37407252d5cdb breaks installation on arm devices. currently, as far as i am aware, there are no debian jessie arm packages for php 7.

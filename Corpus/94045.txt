@@ -1,0 +1,1 @@
+ URL : "https://github.com/YaleDecisionNeuro/PsychTaskFramework/issues/54" TITLE : better default data folder BODY : currently, it's $ root /data . new: tasks/$ task /data ?

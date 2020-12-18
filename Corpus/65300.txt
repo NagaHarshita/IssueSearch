@@ -1,0 +1,1 @@
+ URL : "https://github.com/OCA/maintainer-quality-tools/issues/447" TITLE : incorrect build success BODY : this build should have failed, but passed: https://travis-ci.org/oca/project/jobs/237996931 l1107

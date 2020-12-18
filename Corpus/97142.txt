@@ -1,0 +1,1 @@
+ URL : "https://github.com/unikent/astro/issues/238" TITLE : focus after moving a block BODY : when you move a block focus currently stays on the position you're at, rather than the block. you'd expect to be able to follow the block you're moving. focus should stay on that block and the screen should scroll to where that block now is.

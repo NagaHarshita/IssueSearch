@@ -1,0 +1,1 @@
+ URL : "https://github.com/nextstrain/auspice/issues/299" TITLE : entropy gene annotation BODY : overlapping genes are an issue. our only example is sgp vs gp in ebola. will be worse with overlapping reading frames.

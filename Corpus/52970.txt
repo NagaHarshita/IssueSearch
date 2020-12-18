@@ -1,0 +1,1 @@
+ URL : "https://github.com/znc/znc/issues/1357" TITLE : custom ca for networks BODY : several networks use a custom ca for their servers e.g. hackint . i couldn't find a way how to specify this ca for a network in order to prevent fingerprint validation for every server from the pool. something like that would be very nice.

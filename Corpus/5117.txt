@@ -1,0 +1,1 @@
+ URL : "https://github.com/gorhill/uBlock/issues/2331" TITLE : lists wont add BODY : am on latest ublock beta. if i add any adguard lists to custom filters they dont add. example: https://adguard.com/en/filter-rules.html?id=2

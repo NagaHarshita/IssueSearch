@@ -1,0 +1,1 @@
+ URL : "https://github.com/CS2212Team10/CS2212Team10.github.io/issues/19" TITLE : logo top right corner BODY : users can go to the notehub homepage. - if the user hasn't signed in yet, it will take the user to the sign in/sign up page - if the user has already signed in, it will take the user to their account homepage.

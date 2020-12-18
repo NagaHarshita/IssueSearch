@@ -1,0 +1,1 @@
+ URL : "https://github.com/gitana/alpaca/issues/498" TITLE : array & collapse BODY : i have an array of groups where i like the first group to be shown open on a fresh form. setting collapse=false on its options does not do it. is it possible?

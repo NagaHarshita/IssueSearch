@@ -1,0 +1,1 @@
+ URL : "https://github.com/freeipa/freeipa-pr-ci/issues/27" TITLE : runner disk cleanup BODY : once a new template is generated and uploaded to vagrantcloud, there should be a default option to also revoke and older version from vagrant cloud and to delete it from all the runners via ansible. two versions per template should be kept. one current stable and one updated one.

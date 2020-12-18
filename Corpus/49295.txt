@@ -1,0 +1,1 @@
+ URL : "https://github.com/equalitie/ouinet/issues/4" TITLE : testing for staleness BODY : we need a function which takes a header of a response and outputs whether that response can still be shown to the user. this function shall be used in both, the client and the injector.

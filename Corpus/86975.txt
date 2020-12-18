@@ -1,0 +1,1 @@
+ URL : "https://github.com/organisciak/BookwormPython/issues/2" TITLE : insecure connection error BODY : error: insecurerequestwarning: unverified https request is being made. adding certificate verification is strongly advised. see: https://urllib3.readthedocs.io/en/latest/advanced-usage.html ssl-warnings insecurerequestwarning

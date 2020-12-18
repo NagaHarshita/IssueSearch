@@ -1,0 +1,1 @@
+ URL : "https://github.com/GunnJerkens/wp-boilerplate/issues/41" TITLE : gj maps can't find jquery BODY : because defer is added to jquery and gjmaps does not have it, we get errors. we just need to add gj-maps-main to the defer array.

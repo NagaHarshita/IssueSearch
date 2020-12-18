@@ -1,0 +1,1 @@
+ URL : "https://github.com/codemirror/CodeMirror/issues/4722" TITLE : mode auto detection BODY : i'm currently working on merging codemirror with prosemirror and i was wondering if there is any possible way to auto-detect the mode of pasted code so that i could auto highlight it on pasting? thanks.

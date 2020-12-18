@@ -1,0 +1,1 @@
+ URL : "https://github.com/ros/roscpp_core/issues/65" TITLE : assignment in operator== BODY : message_event.h contains the following equals operator: https://github.com/ros/roscpp_core/blob/3b362ac2369158faaaec9a5734bdd08cf341a2d9/roscpp_traits/include/ros/message_event.h l201-l205 which assigns the rhs message to the message_ member.

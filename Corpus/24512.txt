@@ -1,0 +1,1 @@
+ URL : "https://github.com/hagen1778/fasthttploader/issues/2" TITLE : support for http/2 BODY : this tool is one of the better golang based http perf tools. adding support to make http/2 requests would be useful.

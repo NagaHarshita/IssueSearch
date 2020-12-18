@@ -1,0 +1,1 @@
+ URL : "https://github.com/driegert/transfer/issues/2" TITLE : olstf should use a svd BODY : olstf cpp function currently uses t x x ^{-1} t x y . should switch over to using an svd instead. need to find that functionality in c++.

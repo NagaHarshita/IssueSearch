@@ -1,0 +1,1 @@
+ URL : "https://github.com/templatemonster/power-builder-integrator/issues/2" TITLE : disable on: mobile BODY : when i put disable on: phone and tablet for a certain section or row, how can i manage the max-width for phone or tablet media queries? it is not disabling the row correctly for my ipad mini in landscape mode. it only does it for portrait mode.

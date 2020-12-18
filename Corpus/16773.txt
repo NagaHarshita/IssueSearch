@@ -1,0 +1,1 @@
+ URL : "https://github.com/fletcheralaina/CS2340-Project-Management/issues/15" TITLE : m4- logout option BODY : an option should be provided in-app to allow a user to log out. after logging out, the application should default back to the initial welcome screen.

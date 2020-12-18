@@ -1,0 +1,1 @@
+ URL : "https://github.com/prolificinteractive/Caishen/issues/116" TITLE : validate card on pre-fill BODY : after pre-filling fields with cardio, didentercardinformation is not called. some actions are taken after a successful validation, such as enabling a submit button. how would i force textfield to validate and call the didentercardinformation delegate method?

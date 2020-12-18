@@ -1,0 +1,1 @@
+ URL : "https://github.com/turt2live/matrix-voyager-bot/issues/129" TITLE : target node 7.x and npm@5 BODY : update .travis.yml set up jenkins build for node 7.x on master set up jenkins build for node 7.x on develop

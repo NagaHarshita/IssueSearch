@@ -1,0 +1,2 @@
+ URL : "https://github.com/mozilla/fxa-content-server/issues/5576" TITLE : ios qr code scanning BODY : in order for device pairing to work, we need to figure out how we can scan qr codes with firefox on ios. identified options:
+- ios 11 might support webrtc does firefox? - qr code scanner in native camera ios 11 only - firefox has a native qr code scanner that works with ios 10 too. let's figure out the pros and cons and which one we would ideally like to use based on technical constraints.

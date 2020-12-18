@@ -1,0 +1,1 @@
+ URL : "https://github.com/mikejacobson/jquery-bootstrap-scrolling-tabs/issues/42" TITLE : html replaced not reused BODY : i have been trying to use your component with react and after a lot of messing around i was able to determine that this plugin does not use the orignal html rather duplicate it there for removing any events binded to it. is there any work around for it

@@ -1,0 +1,1 @@
+ URL : "https://github.com/arcosuc3m/grppi/issues/187" TITLE : remove all legacy tests BODY : they are no longer useful. new unit testing is the preferred testing method.

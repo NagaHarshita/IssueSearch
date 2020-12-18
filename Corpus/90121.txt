@@ -1,0 +1,1 @@
+ URL : "https://github.com/samuelreh/spotr/issues/4" TITLE : run ansible after startup BODY : after launching the instance, i generally ssh in and boot up my jupyter notebook, it would be great if we could just ansiblize this.

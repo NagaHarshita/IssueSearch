@@ -1,0 +1,1 @@
+ URL : "https://github.com/project-march/simulink-gait-generation/issues/1" TITLE : y position foot BODY : y position of the foot the distance between the foor and ground is not calculated correctly, this can only be done by also taking the other leg into account.

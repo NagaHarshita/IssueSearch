@@ -1,0 +1,1 @@
+ URL : "https://github.com/TechnionYP5777/SmartCity-Accessibility/issues/175" TITLE : change getlocation to void BODY : since we want getlocation to run in the background it should be void functoin that gets a getcallback function, if i am not mistaken. but the function is already in use in some parts of the code. how should we change it?

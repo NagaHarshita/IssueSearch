@@ -1,0 +1,1 @@
+ URL : "https://github.com/melvitax/DateHelper/issues/64" TITLE : no scheme for mac setup BODY : hi, i'm trying to build your library with carthage for mac not ios . unfortunately there is no scheme set up for mac . error: dependency datehelper has no shared framework schemes for any of the platforms: mac

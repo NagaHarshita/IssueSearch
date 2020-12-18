@@ -1,0 +1,1 @@
+ URL : "https://github.com/kanadeko/loli-safe/issues/2" TITLE : fix readme about apache BODY : change memory_limit to rlimitmem . syntax rlimitmem bytes , e.g. rlimitmem 100m

@@ -1,0 +1,1 @@
+ URL : "https://github.com/marmelab/admin-on-rest/issues/1273" TITLE : customroutes router props BODY : why is only the location router prop passed here? i think this leads to unexpected behaviour. i expected to have access to all three router props history and match as well https://github.com/marmelab/admin-on-rest/blob/9f4138a75ce23ffe17075abb50d5db4cb025d4e4/src/admin.js l88

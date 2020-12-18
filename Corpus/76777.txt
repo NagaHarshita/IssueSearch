@@ -1,0 +1,1 @@
+ URL : "https://github.com/lambdaclass/beam_prometheus_exporter/issues/2" TITLE : make basic auth optional BODY : if user/pass is not provided, skip basic auth.

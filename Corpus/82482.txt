@@ -1,0 +1,2 @@
+ URL : "https://github.com/StevenJHulshof/sdl_sdk/issues/9" TITLE : add world_tile_types enum BODY : dod:
+- all tile specfiiers are enum based, not texturebased

@@ -1,0 +1,7 @@
+ URL : "https://github.com/Shopkeepers/Shopkeepers/issues/254" TITLE : lore will not work BODY : migrated from: https://dev.bukkit.org/projects/shopkeepers/issues/249 originally posted by glasseater8576 aug 10, 2014 : what steps will reproduce the problem?
+1. create a item with a lore
+2. get the same item the lore is on, but do not put a lore on it
+3. when you put the item in put the item that doesnt have the lore under it you will still get the itemwhat is the expected output? what do you see instead?
+i want it so that you cannot trade unless the item as the exact name or lore! but what happens is you can still trade if the item is the same.what version of the product are you using?
+latest.do you have an error log of what happened?
+no.please provide any additional information below.

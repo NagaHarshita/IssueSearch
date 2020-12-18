@@ -1,0 +1,1 @@
+ URL : "https://github.com/mapbox/mapbox-gl-js/issues/5796" TITLE : dynamic clusterer icon BODY : hello, i was wondering if it's possible to set the cluster icon dynamically depending from the icons of the items underneath. in particular, i need to set the cluster icon to a specific one depending from the markers it includes.

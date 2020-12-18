@@ -1,0 +1,1 @@
+ URL : "https://github.com/AquariaOSE/Aquaria/issues/58" TITLE : get rid of action_menu BODY : get rid of action_menuleft & friends and replace with action_swimleft & friends. result: easier key setup, less keys to remember, less ui clutter, only one set of keys for ui and in-game navigation. why was this there to begin with...?

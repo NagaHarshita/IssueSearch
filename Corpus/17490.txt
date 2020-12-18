@@ -1,0 +1,1 @@
+ URL : "https://github.com/ashleymills/Reachability.swift/issues/211" TITLE : pod install error BODY : my podfile has pod 'reachabilityswift', :branch => 'develop' as mentioned in the document. when try to install it i got an error: ! unknown external source parameters for reachabilityswift : {:branch=> develop }

@@ -1,0 +1,1 @@
+ URL : "https://github.com/serbanghita/Mobile-Detect/issues/623" TITLE : new 3rd party module BODY : magento 2 mobile detect theme change https://github.com/eadesgin/magento2-mobiledetect an extension for magento 2 that will change the theme or redirect to a different url. also containing a helper to check for the device type.

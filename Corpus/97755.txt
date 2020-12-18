@@ -1,0 +1,1 @@
+ URL : "https://github.com/nodegit/nodegit/issues/1375" TITLE : how to get un push commit? BODY : i want to know how many of commis are not pushed to the repository, just like using git status . ! image https://user-images.githubusercontent.com/1415418/30510641-7a50bcb8-9afa-11e7-82d4-0d2e43905529.png

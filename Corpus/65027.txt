@@ -1,0 +1,1 @@
+ URL : "https://github.com/jcjimenez/VoTT-web/issues/7" TITLE : image annotation web ui BODY : definition of done: the user is able to annotate an image coming from the queue getnextimagetagtask using the web ui. this may just involve cannibalizing the web component s in the vott electron app.

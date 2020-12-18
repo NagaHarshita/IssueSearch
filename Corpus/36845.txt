@@ -1,0 +1,1 @@
+ URL : "https://github.com/DnDGen/TreasureGen/issues/55" TITLE : include weapon stats BODY : - make a new 'weapon' class that inherits from 'item' - include new properties: - damage string based on size - size - critical hit threat range - critical hit multiplier - damage type remove from attributes

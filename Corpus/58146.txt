@@ -1,0 +1,1 @@
+ URL : "https://github.com/nickjwilde/pyde/issues/1" TITLE : save settings for user BODY : as a user i want to have some settings saved for when i open the application again. examples include: use previously open top level folder as current directory use defined theme for styling. load recent projects/files

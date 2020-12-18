@@ -1,0 +1,1 @@
+ URL : "https://github.com/nunit/nunit.github.io/issues/25" TITLE : use gitter icon with link BODY : i just check font awesome 5 including pro and they still don't have a gitter icon. there is an svg gitter icon available on https://simpleicons.org/ though, we could probably use that.

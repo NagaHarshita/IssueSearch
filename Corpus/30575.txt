@@ -1,0 +1,1 @@
+ URL : "https://github.com/MoveOnOrg/eventroller/issues/7" TITLE : private sharing api BODY : based on an event_store.models.organization.api_key a similar endpoint to the public api should expose events that are from shared sources event_exim.models.org2orgshare -- this schema should be considered maleable based on usecases and coding needs that come up .

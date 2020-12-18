@@ -1,0 +1,1 @@
+ URL : "https://github.com/mantidproject/mslice/issues/180" TITLE : plot window interactivity BODY : make plot windows more interactive - e.g. clicking on axes labels or legends allows them text, fonts to be changed.

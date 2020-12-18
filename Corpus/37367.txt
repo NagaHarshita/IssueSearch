@@ -1,0 +1,1 @@
+ URL : "https://github.com/nukeviet/nukeviet/issues/2528" TITLE : lỗi module comment BODY : 1. khi xóa comment cha thì comment con không bị xóa tuy nhiên cũng không hiển thị luôn, cần cập nhật lại các comment con của nó thành comment có pid là pid của comment bị xóa 2. tìm các chỗ set_cookie, set_session trong module nếu có set = $module_name cần sửa thành $module_data

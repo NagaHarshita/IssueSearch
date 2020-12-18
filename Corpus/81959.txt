@@ -1,0 +1,1 @@
+ URL : "https://github.com/valhalla/valhalla/issues/261" TITLE : add a list of datasources BODY : 2016-03-08t16:14:36z @dnesbitt61 : originally created valhalla/mjolnir 414 create a markdown document listing data sources and licenses. link to this from valhalla-docs

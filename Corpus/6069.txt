@@ -1,0 +1,1 @@
+ URL : "https://github.com/stephen-bartell/api-my-seaweed/issues/8" TITLE : users and auth BODY : the api needs a concept of users. along with users comes the concept of authn and authz. plan the approach to add: 1. identity provider 2. authentication 3. authorization

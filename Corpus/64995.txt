@@ -1,0 +1,1 @@
+ URL : "https://github.com/arsha14/tumtumbackend/issues/2" TITLE : id field set to default BODY : the id field which is the foreign key is set to default and unable to change even on running http post

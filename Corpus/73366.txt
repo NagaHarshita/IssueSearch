@@ -1,0 +1,1 @@
+ URL : "https://github.com/julioppgca/CurrentSensorTester/issues/3" TITLE : create a ds18b20 module. BODY : by now, temperature read from ds18b20 is a complete mess but working . i device module drive should be implemented asap.

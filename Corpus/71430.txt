@@ -1,0 +1,1 @@
+ URL : "https://github.com/mrts/burp-suite-http-proxy-history-viewer/issues/7" TITLE : add history file loading BODY : - short-term : pass filename as command-line argument, pass this directly to deserialize and catch errors - long-term : add a button for loading the file that opens file picker dialog

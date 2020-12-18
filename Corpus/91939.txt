@@ -1,0 +1,1 @@
+ URL : "https://github.com/mh-cbon/emd/issues/5" TITLE : usage cli support piping? BODY : does the {{cli ... }} under usage section support piping? like all those in https://github.com/suntong/cascadia, like echo '<input type= radio name= sex value= f />' | tee /tmp/cascadia.xml | cascadia -i -o -c 'input name=sex value=m ' etc? thx.

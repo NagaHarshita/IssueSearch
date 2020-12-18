@@ -1,0 +1,1 @@
+ URL : "https://github.com/nrhubbar/kanplan-api/issues/26" TITLE : update index to connect BODY : the connections string in index.js needs to be pointed to our mongo instance

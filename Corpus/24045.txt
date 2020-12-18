@@ -1,0 +1,1 @@
+ URL : "https://github.com/programsam/lineart/issues/10" TITLE : save source object BODY : rather than export the canvas as an image file, allow the downloading of a json file or similar that can be loaded and messed with later. could also do an onboard database that allows you to show your favorites and edit them.

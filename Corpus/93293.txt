@@ -1,0 +1,1 @@
+ URL : "https://github.com/sul-dlss/libsys-webforms/issues/369" TITLE : add page for edi functions BODY : this section of libsys-webforms would include and might add more later view to the edi_error table for a time range. ability to exclude an invoice updates edi_invoice, edi_inv_line, edi_inv_piece tables ability to change a fund in edi_inv_line table

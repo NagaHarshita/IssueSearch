@@ -1,0 +1,1 @@
+ URL : "https://github.com/blakawk/gitlab-integration/issues/7" TITLE : reading null property BODY : ive updated to the latest version and im still getting errors; thanks for the speedy revision uncaught in promise typeerror: cannot read property 'getoriginurl' of null at gitlabintegration.handlerepository

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Tribe-Tip-Line/Tip-Line/issues/7" TITLE : initialize code base BODY : story/task details - create application structure - initialize a working code base using phonegap - install phonegap desktop app - test to see it works on everyones environment done done criteria everyone will have the application running locally on their environment.

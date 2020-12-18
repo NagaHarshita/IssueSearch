@@ -1,0 +1,1 @@
+ URL : "https://github.com/python-for-mobile-forensics/bulk-image-facial-recognition/issues/2" TITLE : sort by person BODY : it is possible for a set of photos to include a specific person. use the facial recognition comparison functions to sort the images by person or allow sort by person. the function exists, just add a way to call it when calling the script and sort.

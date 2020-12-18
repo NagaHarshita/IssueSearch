@@ -1,0 +1,2 @@
+ URL : "https://github.com/ISISComputingGroup/IBEX/issues/2532" TITLE : deploy: fix make docs BODY : make docs has been removed because it is stopping the build. add back in and fix it epics\isisdoc\make_manuals.bat . the reason it is failing is that the current python build script version of rst2pdf includes a full path link to where python was built and this is not where it was installed. repoduce 1. uncomment rst2pdf line
+1. in isisdoc run make_manuals.bat once done readd echo off

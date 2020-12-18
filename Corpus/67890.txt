@@ -1,0 +1,1 @@
+ URL : "https://github.com/CMRR-C2P/MB/issues/186" TITLE : r016 printing protocols BODY : hi all, i was trying to print my phase 1b protocol, and none of the cmrr sequences are printing to the protocol. were any strange compile flags tweaked in the latest release? they show up in the table of contents, but the individual sequence parameters don't show up . thanks! dan

@@ -1,0 +1,1 @@
+ URL : "https://github.com/iron-io/functions/issues/498" TITLE : deploy to digital ocean BODY : create a docker image that can easily deploy ironfunctions to digital ocean. eg: docker run ..... iron/fn-deploy digitalocean

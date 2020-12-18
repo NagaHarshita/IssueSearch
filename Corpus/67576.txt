@@ -1,0 +1,1 @@
+ URL : "https://github.com/JustinPraas/ING-UT/issues/1" TITLE : problem with depositing BODY : using the correct deposit command with the correct parameters returns an error, stating that the amount is not a valid amount, while it is. cases: 50.00 , 50 , and -50 are invalid

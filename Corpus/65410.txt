@@ -1,0 +1,1 @@
+ URL : "https://github.com/sympy/sympy/issues/13253" TITLE : integer division object BODY : right now we have >>> x//y floor x/y it would be better to return an integerdivision object. that way the code printers could print a more useful thing for them, especially for languages that have native integer division.

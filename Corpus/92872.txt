@@ -1,0 +1,1 @@
+ URL : "https://github.com/ParsePlatform/parse-server/issues/3517" TITLE : able to use mongodb 3.4.x? BODY : are we able to start using the latest mongodb seeing as parse.com is now closed? if i remember right, the only reason why the 3.0.x requirement was there in the first place was due to parse's servers only supporting that version. @flovilmart @acinader

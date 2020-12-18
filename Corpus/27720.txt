@@ -1,0 +1,1 @@
+ URL : "https://github.com/Signbank/NGT-signbank/issues/311" TITLE : ecv not accessible? BODY : elan files started complaining that the ecv is no longer accessible at http://signbank.science.ru.nl/static/ecv/ngt.ecv; if i open the url in a browser, it doesn't have the file.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ui/django-post_office/issues/188" TITLE : natural keys support BODY : hello. please, add natural keys https://docs.djangoproject.com/en/1.11/topics/serialization/ natural-keys support to your package. this simplify the work with fixtures. it's required for emailtemplate model.

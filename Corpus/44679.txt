@@ -1,0 +1,1 @@
+ URL : "https://github.com/mwarning/KadNode/issues/73" TITLE : fix argument handling BODY : some arguments depend on each other. e.g. --query-tld is used for --announce query-tld is set to null when --announce is invoked!

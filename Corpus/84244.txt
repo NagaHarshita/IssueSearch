@@ -1,0 +1,1 @@
+ URL : "https://github.com/nette/security/issues/20" TITLE : create interface for user BODY : - bug report? no - feature request? yes - version: 3.0 few times i wanted to use own user implementation, bt there is no simple way how to force nette to use it. i'd like to have iuser same way as iuserstorage to be able to use my own implementation in framework.

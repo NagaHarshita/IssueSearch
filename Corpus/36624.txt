@@ -1,0 +1,1 @@
+ URL : "https://github.com/guardianproject/tor-browser/issues/6" TITLE : icmp packets leaking BODY : > - i also see attempted outgoing packets related to the internet > group management protocol 1 and the simple service discovery > protocol 2 . these can be avoided by changing > browser.casting.enabled 3 to false. orplug 4 log:

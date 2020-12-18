@@ -1,0 +1,1 @@
+ URL : "https://github.com/hasankhan/sql-cli/issues/51" TITLE : feature: env variables BODY : it would be nice to be able to set login details via env variables e.g. export mssql_server=my.sql.server export mssql_port=1433 export mssql_user=username export mssql_pass=password ... etc ... thanks for the app its very helpful!

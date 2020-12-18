@@ -1,0 +1,1 @@
+ URL : "https://github.com/fsharp/FSharp.Data/issues/1096" TITLE : add cssselect to htmlnode BODY : if we move/add cssselect to htmldocument then we could enable better type inference when working with nodes in functions: fsharp node |> htmlnode.cssselect tr

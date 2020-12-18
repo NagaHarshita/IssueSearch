@@ -1,0 +1,1 @@
+ URL : "https://github.com/gameeapp/gamee-emulator/issues/5" TITLE : responsive iframe window BODY : using fullscreen controls game window will not be 640x640 on every device, therefore i propose to make the window of emulator responsible at least toggable between 640px 640px and 16:9 resolution .

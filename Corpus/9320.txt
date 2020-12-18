@@ -1,0 +1,1 @@
+ URL : "https://github.com/Duhemm/sbt-errors-summary/issues/8" TITLE : use bold colors BODY : with the default colour schemes for xterm, linux console, rxvt, the dark blue on black background is near unreadable. bold blue would be much better. red is similar but not as bad: ! image https://user-images.githubusercontent.com/202935/27810415-4d4a4474-609d-11e7-8081-173024604364.png

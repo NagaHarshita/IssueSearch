@@ -1,0 +1,1 @@
+ URL : "https://github.com/deepfakes/faceswap-model/issues/3" TITLE : enhance generated faces BODY : as spotted on https://www.reddit.com/r/deepfakes/comments/7m0irj/new_jenna_coleman_scenes_training_data/ , there's a nn that can enhance low res photos. maybe it could be useful someday https://github.com/alexjc/neural-enhance/blob/master/readme.rst

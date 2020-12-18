@@ -1,0 +1,1 @@
+ URL : "https://github.com/aimlabmu/aimlab-docs/issues/1" TITLE : internal link is broken. BODY : we need to figure the way to link to each page internally so that we can refer to our own docs without having to link to http or https. the broken link can be seen in setting up python environment page.

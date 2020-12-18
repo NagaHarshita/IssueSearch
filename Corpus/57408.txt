@@ -1,0 +1,1 @@
+ URL : "https://github.com/greenriver/boston-cas/issues/19" TITLE : provide a csv importer BODY : - there should be a means for uploading a csv of client data to populate projectclient. - there should also be a means for uploading csvs of vacancies, programs, sub-programs and sub-grantees.

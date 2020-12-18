@@ -1,0 +1,1 @@
+ URL : "https://github.com/DarkEnergySurvey/ugali/issues/31" TITLE : fix histogram binning BODY : we are currently inconsistently defining whether our histograms are defined with hist.shape == len xbins ,len ybins or hist.shape == len xbins -1,len ybins -1 . the second defines the bin value at the center of the bin and is the convention followed by numpy .

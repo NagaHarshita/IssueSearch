@@ -1,0 +1,1 @@
+ URL : "https://github.com/ethereum/cpp-ethereum/issues/3623" TITLE : it is a bug? BODY : in file libetherenum/blockchainsync.cpp function blockchainsync::requestblocks line 319 if start <= 1 m_havecommonheader = true; //reached genesis should be if start <=0 ? otherwise sync fail

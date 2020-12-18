@@ -1,0 +1,1 @@
+ URL : "https://github.com/gwallet/dock/issues/1" TITLE : automate un installation BODY : something like $ sudo make install will be fine. targets ? - macos bash + zsh + oh-my-zsh - ubuntu debian family - centos redhat family - ???

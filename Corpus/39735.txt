@@ -1,0 +1,1 @@
+ URL : "https://github.com/smartdevicelink/sdl_atf/issues/97" TITLE : stabilization of atf BODY : 1. endless cycles of test execution in case sdl forever sends expected by test rpc with delay < default. 2. sdl logs are not saved in testing reports.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ansible/ansibullbot/issues/810" TITLE : detect and label pep8 BODY : https://github.com/ansible/ansible/pull/32623/files changes to test/sanity/pep8/legacy-files.txt pep8 in the commit message / title / description / etc

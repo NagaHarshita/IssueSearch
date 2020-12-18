@@ -1,0 +1,1 @@
+ URL : "https://github.com/LaKing/ep_codepad/issues/12" TITLE : file inconsistence on push BODY : hitting the push button gave me a permanent file inconsistent with pad content -error. changing: if adat !== text.slice 0, -1 { to if adat !== text { in handlebuttonmessage.js seems to fix it for me. https://github.com/laking/ep_codepad/blob/master/handlebuttonmessage.js l108 url

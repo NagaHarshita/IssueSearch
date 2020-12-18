@@ -1,0 +1,1 @@
+ URL : "https://github.com/pixijs/pixi-sound/issues/12" TITLE : doesn't work on ios safari BODY : in devtools: error syntaxerror: cannot declare a parameter named 'panning' as it shadows the name of a strict mode function.

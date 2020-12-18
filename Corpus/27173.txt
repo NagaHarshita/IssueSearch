@@ -1,0 +1,1 @@
+ URL : "https://github.com/jhonny-me/pomodoro-clock/issues/1" TITLE : count down function BODY : two options: - set a timer, calls every second, minus 1s and update the ui - set a timer, calls every second, check time interval since start time

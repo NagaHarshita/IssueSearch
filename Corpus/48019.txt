@@ -1,0 +1,1 @@
+ URL : "https://github.com/BoardTools/QuickReply/issues/68" TITLE : ref tag and nicknames BODY : hi, i use last 2.0 version with phobb 3.2. ref tag works fine if username have color, like this is working: ref= ff6633 username /ref if username doesn't have any color ref username /ref doesn't works at all. any fix? thanks

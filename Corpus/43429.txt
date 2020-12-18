@@ -1,0 +1,1 @@
+ URL : "https://github.com/Xexanos/LibreCarSharing/issues/4" TITLE : create dashboard page BODY : the dashboard page should contain: - a calendar showing actual bookings mouseover for info, click for booking a car for the day - a timeline showing recent changes in the community

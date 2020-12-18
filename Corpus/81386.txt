@@ -1,0 +1,1 @@
+ URL : "https://github.com/Praqma/git-phlow/issues/37" TITLE : wrapup - git wrapper add BODY : create the git wrapper for git add the git add command should be able to: - git add --all

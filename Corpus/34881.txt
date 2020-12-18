@@ -1,0 +1,1 @@
+ URL : "https://github.com/Oxygem/canaryd/issues/24" TITLE : create event via ctl BODY : eg: sh canaryctl event $plugin $type $key $description eg: canaryctl event my-backups added /data backup for 2017-01-01 created

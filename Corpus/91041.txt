@@ -1,0 +1,1 @@
+ URL : "https://github.com/facebook/flow/issues/5443" TITLE : support pipeline operator BODY : the pipeline |> operator is a proposal which is currently in stage 1. it would be great if flow could support this proposal. i could imagine that this is not too hard because it's basically only syntactic sugar for function calls iirc. https://github.com/tc39/proposal-pipeline-operator

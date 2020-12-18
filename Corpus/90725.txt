@@ -1,0 +1,1 @@
+ URL : "https://github.com/piranna/wasmachine/issues/5" TITLE : stack access non-tos data BODY : allow to access directly to data not on the top of stack to earn cycles fetching it, and also allow to drop several frames at the same time. in both cases, just three of them would be just enought operator1 , operator2 and condition , for select instruction .

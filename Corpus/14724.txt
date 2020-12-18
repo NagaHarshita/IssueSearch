@@ -1,0 +1,1 @@
+ URL : "https://github.com/tada/pljava/issues/114" TITLE : bytea performance BODY : is there a way to return a byte array from java to postgresql without copying? would it be more performant to write the bytea into a temporary table, then read it from there?

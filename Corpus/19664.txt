@@ -1,0 +1,1 @@
+ URL : "https://github.com/AO-StreetArt/CrazyIvan/issues/43" TITLE : add region support BODY : support scenes grouped by region. add region field to scene object, getters, setters, etc add to to_json method and json constructor add check to ensure unique region-name combinations for any given scene.

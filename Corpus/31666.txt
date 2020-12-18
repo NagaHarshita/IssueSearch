@@ -1,0 +1,1 @@
+ URL : "https://github.com/civyshk/android-anuto/issues/1" TITLE : style theme spinner BODY : spinner to select theme in settings activity needs to be correctly themed. + items with black text and dark background original_theme + white text and dark background dark_theme

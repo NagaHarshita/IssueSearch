@@ -1,0 +1,1 @@
+ URL : "https://github.com/almin/almin/issues/306" TITLE : move url to new website BODY : we have moved to docusaurus 304 pacakges/almin/src refer to old url like https://almin.js.org/docs/warnings/usecase-is-already-released.html we should rewrite the url.

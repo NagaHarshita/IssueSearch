@@ -1,0 +1,1 @@
+ URL : "https://github.com/hrydgard/ppsspp/issues/9439" TITLE : convert jit to not jit BODY : is it possible to stop doing jit and create files that are already compiled and start using them with ppsspp. maybe i misunderstand something or don't comprehend the reason for jit, but that would be a neat feature that i assume would resolve ios problems with jit?

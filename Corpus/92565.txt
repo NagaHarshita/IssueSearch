@@ -1,0 +1,1 @@
+ URL : "https://github.com/17-1-SKKU-OSS/zeppelin/issues/4" TITLE : zeppelin installation 2.. BODY : npm 설치 -> yarn 설치 -> spark 설치 -> zeppelin 설치 이런 방법으로 진행하려고 하는데... yarn 설치에서 --global 로 하면 error나서 권한이 없다고 뜨네요..ㅜㅜ 그래서 일단은 --global 빼고 npm install yarn으로 해서 설치했습니다.

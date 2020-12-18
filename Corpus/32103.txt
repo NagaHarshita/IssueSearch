@@ -1,0 +1,1 @@
+ URL : "https://github.com/bazelbuild/bazel-blog/issues/2" TITLE : transition rss feed BODY : today, we have an rss feed at https://bazel.build/blog/feed.xml with the new blog, we will host it at https://blogbazel.build/feed.xml how can we make a smooth transition?

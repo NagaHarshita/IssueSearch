@@ -1,0 +1,1 @@
+ URL : "https://github.com/tomwerkheiser/mrmix/issues/5" TITLE : webpack check src BODY : check if src is directory and make entry an object with key of file name and value of path

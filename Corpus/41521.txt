@@ -1,0 +1,1 @@
+ URL : "https://github.com/m-labs/smoltcp/issues/109" TITLE : about example tcpdump BODY : <img width= 770 alt= image src= https://user-images.githubusercontent.com/717717/34400429-19be3dee-ebcc-11e7-9ce7-be9a113f6d07.png > why has checksum incorrect error ? this packet send by system, not me.

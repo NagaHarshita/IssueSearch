@@ -1,0 +1,1 @@
+ URL : "https://github.com/fnproject/fn/issues/548" TITLE : improve timeout message BODY : from: “timeout value is too large or small. 0 < timeout < max. async max: 3600 sync max: 120” to something like: timeout value is out of range. sync should be between 0 and 120, async should be between 0 and 3600.

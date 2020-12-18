@@ -1,0 +1,2 @@
+ URL : "https://github.com/tbeu/Modelica/issues/2076" TITLE : invalid si unit va BODY : reported by sjoelund& x2e;se on 4 oct 2016 11:56 utc siunits contains the following declaration: mo type apparentpower = real final quantity= power , final unit= va ; but the specification says:
+> modelica enforces the iso recommendation that each multiplication operator is explicitly written out in formal specifications. for example, modelica does not support nm for newtonmeter, but requires it to written as n.m . ---- migrated-from: https://trac.modelica.org/modelica/ticket/2076

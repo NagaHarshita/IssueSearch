@@ -1,0 +1,1 @@
+ URL : "https://github.com/bankkin/mirthconnect/issues/1" TITLE : using this image BODY : dear all: i have one problem, i have modified the docker-compose to be version 3, and can have replicas. i have next problem, i try to expose port 8080, but it's not appearing and localhost:8080 is refused. can you help me?

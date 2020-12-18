@@ -1,0 +1,1 @@
+ URL : "https://github.com/Harley-xk/MaLiang/issues/1" TITLE : deinit of canvas BODY : hi, i think the current content must be set to nil in deinit deinit { : if eaglcontext.current === context { // eaglcontext.setcurrent context eaglcontext.setcurrent nil } }

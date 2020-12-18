@@ -1,0 +1,1 @@
+ URL : "https://github.com/incace/NeuDark/issues/7" TITLE : stylish syntax theme BODY : the default syntax theme is being rebuilt to fit the neudark-stylus color flow. originally, only syntax themes with issues were going to be fixed, but a decision was made to create an alternate theme that users could select by default.

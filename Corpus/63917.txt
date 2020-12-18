@@ -1,0 +1,1 @@
+ URL : "https://github.com/square/picasso/issues/1586" TITLE : failed to decode stream BODY : i face this problem when i try to load jpeg images with 32 bit depth. i know jpeg files usually have 24 bit depth but the 32 bit ones can be loaded in regular browsers. however picasso cant handle this format.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/MISP/MISP/issues/2118" TITLE : password expiry policy BODY : allow the administrator to set a maximum number of days to use the password, after which, the user will have to change his password as if change_pw=1 .

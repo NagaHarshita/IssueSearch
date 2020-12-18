@@ -1,0 +1,1 @@
+ URL : "https://github.com/mochajs/mocha/issues/2909" TITLE : it.only run two test case BODY : js it.only 'send example', function { console.log 1 ; } ; it 'send example', function { console.log 2 ; } ; then i got output as below output 1 2

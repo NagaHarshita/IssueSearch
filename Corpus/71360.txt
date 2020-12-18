@@ -1,0 +1,1 @@
+ URL : "https://github.com/eBay/Design-Grid-Overlay/issues/63" TITLE : add delay to grid update BODY : when grid is on and i change gutters size by holding arrow up or down , grid toggles many times very fast and then disapears

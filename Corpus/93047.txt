@@ -1,0 +1,1 @@
+ URL : "https://github.com/openatv/enigma2/issues/618" TITLE : add channel numbers on epg BODY : could this be looked at https://github.com/openatv/enigma2/pull/546 it was working fine on openatv 5.3 but every time i update to atv 6.0 it makes my box go into boot loop as soon as i add the py files so im not sure whats happening thanks.

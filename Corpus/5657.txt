@@ -1,0 +1,1 @@
+ URL : "https://github.com/TomZoy/Project_Ruby-GCU-Y5-Hons/issues/1" TITLE : same key twice BODY : currently, if the same key is pressed twice with some delay inbetween , the app just adds the new duration to the existing one

@@ -1,0 +1,19 @@
+ URL : "https://github.com/pinpong/equalizer-issue-tracker/issues/326" TITLE : bass and surround BODY : bass and surround turn off when switching presets editing custom presets and turning off screen - device info:
+---
+<table>
+<tr><td>app version</td><td>1.3.7</td></tr>
+<tr><td>app version code</td><td>13700</td></tr>
+<tr><td>android build version</td><td>i9505xxshpl1</td></tr>
+<tr><td>android release version</td><td>5.0.1</td></tr>
+<tr><td>android sdk version</td><td>21</td></tr>
+<tr><td>android build id</td><td>lrx22c.i9505xxshpl1</td></tr>
+<tr><td>device brand</td><td>samsung</td></tr>
+<tr><td>device manufacturer</td><td>samsung</td></tr>
+<tr><td>device name</td><td>jflte</td></tr>
+<tr><td>device model</td><td>gt-i9505</td></tr>
+<tr><td>device product name</td><td>jfltexx</td></tr>
+<tr><td>device hardware name</td><td>qcom</td></tr>
+<tr><td>abis</td><td> armeabi-v7a, armeabi </td></tr>
+<tr><td>abis 32bit </td><td> armeabi-v7a, armeabi </td></tr>
+<tr><td>abis 64bit </td><td> </td></tr>
+</table>

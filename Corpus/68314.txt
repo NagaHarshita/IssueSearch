@@ -1,0 +1,1 @@
+ URL : "https://github.com/minexew/Shrine/issues/7" TITLE : restore iso9660 support BODY : support for reading and writing iso9660 has been removed from tos recently. there doesn't seem to be any good reason not to keep it in shrine, therefore we should bring it back.

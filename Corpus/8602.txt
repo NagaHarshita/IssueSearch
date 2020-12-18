@@ -1,0 +1,1 @@
+ URL : "https://github.com/JsonHunt/file-merge/issues/1" TITLE : problem with \r BODY : fyi after doing npm install file-merge -g and typing file-merge i get /usr/bin/env: «node\r»: ficheiro ou directoria inexistente it seems it has to do with some script and carriage return character \r

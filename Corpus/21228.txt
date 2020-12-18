@@ -1,0 +1,1 @@
+ URL : "https://github.com/mhinz/vim-signify/issues/231" TITLE : error in q: window BODY : steps: 1. q: 2. open a tmux split to force a vim resize 3. close the tmux split error occurs: error detected while processing function sy util refresh_windows: line 7: e11: invalid in command-line window; <cr> executes, ctrl-c quits: windo if exists 'b:sy' | call sy start | endif

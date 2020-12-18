@@ -1,0 +1,1 @@
+ URL : "https://github.com/bradleyayers/getdocs2ts/issues/2" TITLE : don't emit object type BODY : the tslint rules in definitelytyped prohibit object: ban-types don't use 'object' as a type. avoid using the object type. did you mean object ?

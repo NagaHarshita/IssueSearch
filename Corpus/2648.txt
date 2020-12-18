@@ -1,0 +1,1 @@
+ URL : "https://github.com/willkg/markus/issues/1" TITLE : clean up args BODY : go through and clean up the args to incr, gauge, timing, and histogram. they should take a stat and a value.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/naanal/dgp/issues/2" TITLE : vms internal ips changed BODY : following vms ip are changed. effect: cap project not working gb91 - 10.50.4.121 gb1supdt - 10.50.4.100 sa1supdt - 10.50.4.31 sa23 - 10.50.4.38 mpf3 - 10.50.4.28 pba12 - 10.50.4.67 cash2 - 10.50.4.62

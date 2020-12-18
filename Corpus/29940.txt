@@ -1,0 +1,1 @@
+ URL : "https://github.com/hexojs/site/issues/387" TITLE : netlify build error BODY : i just keep getting: invalid netlify.toml file: invalid publish directory: /public the site does build locally via npm install && npm run build can you see what might be wrong? https://github.com/solsenfinovertech/tractr-dev-guide/blob/master/netlify.toml

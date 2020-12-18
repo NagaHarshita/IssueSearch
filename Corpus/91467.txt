@@ -1,0 +1,1 @@
+ URL : "https://github.com/text-mask/text-mask/issues/608" TITLE : trailing underscore issue BODY : i used this module for phone mask. phonemask = ' ', / 1-9 /, /\d/, /\d/, ' ', ' ', /\d/, /\d/, /\d/, '-', /\d/, /\d/, /\d/, /\d/ ; but when i type phone input, trailing underscore appears. like this. 111 111-1111_

@@ -1,0 +1,1 @@
+ URL : "https://github.com/declension/squeeze-alexa/issues/24" TITLE : move to using pipenv BODY : pipenv https://docs.pipenv.org/ is great. works well, and will help install dev dependencies see also 21 potential issues tox compatibility may take a bit of hacking pip's requirement.txt is required by both deployment processes

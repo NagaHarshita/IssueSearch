@@ -1,0 +1,1 @@
+ URL : "https://github.com/fooplugins/FooTable/issues/705" TITLE : collapse table footer BODY : hi, i was wondering if it's possible to collapse rows in tfoot somehow. i use it as a total row for the sum of the data in tbody. also as i need sorting, i can't just move the total row to tbody. is this possible? regards, daniel

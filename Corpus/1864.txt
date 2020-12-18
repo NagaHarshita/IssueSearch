@@ -1,0 +1,1 @@
+ URL : "https://github.com/vonovak/react-native-simple-toast/issues/3" TITLE : issue on ios BODY : it seems that no matter what tricks i pull of i always get the error on ios: rcttoastandroid.short undefined. it seems that some other people also had this same problem but none of them shared any solutions for this. i'm hitting a wall here so all help would appreciated.

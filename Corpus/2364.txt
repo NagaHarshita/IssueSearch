@@ -1,0 +1,1 @@
+ URL : "https://github.com/ZeroZipZilch/fcc-simon-says/issues/2" TITLE : add a counter BODY : make a counter that shows which turn the player is on. also, make the counter show which cat press one is on. does that make sense? like, for example, i'm on turn 13, and i've pressed 4 cats. so the counter would show 4/ 13.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/leblancfg/autocrop/issues/6" TITLE : handle cli input BODY : handle cli input: $ autocrop -w width -h height -i input-folder -o output-folder --passport=<country> python stdlib's argparse https://docs.python.org/3/library/argparse.html

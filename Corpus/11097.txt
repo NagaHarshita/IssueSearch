@@ -1,0 +1,1 @@
+ URL : "https://github.com/skyllias/alomatia/issues/27" TITLE : filter once only BODY : it should be assured that filters are only applied once when a new one is selected, especially for the window icons.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/CMSCompOps/WmAgentScripts/issues/204" TITLE : default fractionpass = 1 BODY : we need to set the default fractionpass value to 1.0 so we don't make mistakes and forget to set it for reco campaigns.

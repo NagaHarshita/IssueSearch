@@ -1,0 +1,1 @@
+ URL : "https://github.com/realexpayments/rxp-remote-php/issues/15" TITLE : php syntax error in docs. BODY : hi guys, just noticed a little syntax error in the readme file. the example for 'verify stored card enrolled' - the send command at the bottom is not using php syntax. $response = client.send request ; should be: $response = $client->send request ;

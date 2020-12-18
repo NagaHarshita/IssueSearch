@@ -1,0 +1,1 @@
+ URL : "https://github.com/Bonanashelby/portfolio/issues/15" TITLE : order or articles BODY : make sure the articles are loading in the correct order that you want them to. the sort method in app.js is sorting them by most recent.

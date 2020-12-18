@@ -1,0 +1,1 @@
+ URL : "https://github.com/fgeorges/mlproj-core/issues/3" TITLE : can't change port BODY : i tried changing the port but i get this message: error: property differ but is frozen on abc: port any reason why this is not allowed?

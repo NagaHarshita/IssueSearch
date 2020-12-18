@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpenKMIP/PyKMIP/issues/277" TITLE : add add attribute BODY : as now the create/create_key_pair pie client interfaces only accept specific inputs, add attribute will be a pretty useful operation. i have seen some attempts to add add attribute in the pull request and they haven't been merged. not sure why. i will try to work on it if you do not oppose~

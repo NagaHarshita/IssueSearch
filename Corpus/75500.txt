@@ -1,0 +1,1 @@
+ URL : "https://github.com/untu/comedy/issues/13" TITLE : hot configuration change BODY : users should be able to change actor configuration in actors.json without application restart. the configuration should be applied on-the-fly.

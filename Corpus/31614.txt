@@ -1,0 +1,1 @@
+ URL : "https://github.com/jefking/FunctionLibrary/issues/11" TITLE : static site hosting BODY : template that deploys @anthonychu's www server; then pulls in a site off of a repo. that way you don't have to muddy site code with function hosting. :-

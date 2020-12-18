@@ -1,0 +1,1 @@
+ URL : "https://github.com/gnubee-git/GnuBee_Docs/issues/46" TITLE : updated debian images? BODY : hello, i've received an e-mail about the new firmware images, but they seem to include only librecmc and lede. any plans to update the debian image i'm aware that the debian image is simply a librecmc image that mounts the debian partition overlayed on root ? thanks

@@ -1,0 +1,1 @@
+ URL : "https://github.com/echocat/caddy-filter/issues/14" TITLE : fast cgi with set-cookie BODY : @blaubaer plugin caddy-filter when it used with fastcgi changes multiple set-cookie downstream headers into only one obviously the last from fast cgi server. it breaks all the world when we uses fast cgi

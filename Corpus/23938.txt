@@ -1,0 +1,1 @@
+ URL : "https://github.com/micro-os-plus/sifive-hifive1-board-xpack/issues/1" TITLE : rework boards xcdl BODY : - rename vendor -> supplier - use displayname for boards

@@ -1,0 +1,1 @@
+ URL : "https://github.com/japgolly/scalajs-react/issues/377" TITLE : rename callbackoption get BODY : going from callbackoption back to callbackto or callback isn't very nice .get.void = yuk . avoid .get because we're in a space where options live and option get is a big no-no.

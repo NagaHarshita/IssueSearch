@@ -1,0 +1,1 @@
+ URL : "https://github.com/youzan/zent/issues/243" TITLE : a wired bug in sweetalert BODY : version: 3.0.0 when i open a dialog, first of all i can't close the dialog by click outside the dialog. then if i press space keyword or enter keyword, the backgroundcolor becomes darker, and now i have to click the ok or cancel button the same number of times before.

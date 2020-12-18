@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpenSWE1R/openswe1r/issues/12" TITLE : add travis ci BODY : check code quality with clang-format and gcc compatibility on linux and mac

@@ -1,0 +1,1 @@
+ URL : "https://github.com/colinmollenhour/Cm_RedisSession/issues/114" TITLE : modman and /lib/ BODY : i could be doing something wrong here quite possible but it seems to me that when doing a fresh install of the latest version via modman, all the files from /lib/ are not included. is that correct?

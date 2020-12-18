@@ -1,0 +1,1 @@
+ URL : "https://github.com/davidfcarr/rsvpmaker-for-toastmasters/issues/12" TITLE : flesh out dues tracker BODY : need a way of maintaining a dues schedule within the system, viewing who has paid within each time period, and maybe generating an invoice that can be emailed. possibly also make it easy to remove unpaid members from the active members list.

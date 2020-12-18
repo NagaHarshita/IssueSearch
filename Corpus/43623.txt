@@ -1,0 +1,1 @@
+ URL : "https://github.com/go-gitea/gitea/issues/1199" TITLE : custom tabs in web ui BODY : it would be nice to be able to add custom tabs to the web ui, because then people can link to important places and have it fit in with the rest of the ui. there should be an option to have it be an iframe for integration , or a standard link.

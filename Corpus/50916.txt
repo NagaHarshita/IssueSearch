@@ -1,0 +1,1 @@
+ URL : "https://github.com/marghidanu/werk/issues/6" TITLE : add events to executor BODY : various events can be added to the executor to allow for additional interfacing with the execution of the flow.

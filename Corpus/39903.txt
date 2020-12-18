@@ -1,0 +1,1 @@
+ URL : "https://github.com/toymachiner62/hapi-authorization/issues/24" TITLE : support for hapi v17 BODY : this plugin needs changes to the register method to support hapi v17. https://github.com/hapijs/hapi/issues/3658

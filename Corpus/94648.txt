@@ -1,0 +1,1 @@
+ URL : "https://github.com/soyunlee882/JavaWidgetControl/issues/2" TITLE : change 위젯 in javaclass BODY : - textview 객제의 참조갑승ㄹ 반환 받아서 참조변수에 대입한다. - textview의 속성들을 변경해본다.

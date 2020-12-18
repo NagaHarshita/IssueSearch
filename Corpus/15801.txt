@@ -1,0 +1,1 @@
+ URL : "https://github.com/electronpass/electronpass-desktop/issues/42" TITLE : fix travis builds BODY : after the newly written encryption we are linking the libraries statically. travis builds have not been changed, so the builds that they produce are invalid.

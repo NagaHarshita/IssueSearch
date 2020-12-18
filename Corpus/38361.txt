@@ -1,0 +1,1 @@
+ URL : "https://github.com/kamranahmedse/jquery-toast-plugin/issues/35" TITLE : pause timer on hover BODY : is there a option to pause the timer on mouseover the toast? and continue timer when mouseleave? this is useful feature when you have some clickables options on toast and user needs to choose.

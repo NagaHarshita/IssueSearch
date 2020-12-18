@@ -1,0 +1,1 @@
+ URL : "https://github.com/termux/termux-float/issues/1" TITLE : paste into termux-float BODY : _from @wende on april 4, 2017 21:13_ you can paste into normal termux by long press. is there any functionality to paste to floating window termux? _copied from original issue: termux/termux-app 295_

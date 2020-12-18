@@ -1,0 +1,1 @@
+ URL : "https://github.com/zfcampus/zf-oauth2/issues/161" TITLE : oauth2 with mongodb BODY : > this module uses any pdo-suported database to manage the oauth2 what if someone wishes to use oauth2 with mongodb and any other database type? where can we find examples of creating and testing mongodb connection with oauth2? i could not find in apiagility some info on this.

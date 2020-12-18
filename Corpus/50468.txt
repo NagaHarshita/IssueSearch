@@ -1,0 +1,1 @@
+ URL : "https://github.com/Statyk7/log2console/issues/1" TITLE : .config files missing? BODY : it seems that two packages.config files log2console and test and one app.config file testnlog are missing in the repo.

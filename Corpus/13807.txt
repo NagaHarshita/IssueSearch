@@ -1,0 +1,1 @@
+ URL : "https://github.com/tmenier/AsyncPoco/issues/30" TITLE : .net core support BODY : it appears that the nuget package doesn't have .net core supported even when using the standard framework. i'd like to contribute to making this happen if possible, but is this simply a matter of adding the support in the nuspec, or is there possibly code changes needed as well?

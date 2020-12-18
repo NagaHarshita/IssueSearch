@@ -1,0 +1,1 @@
+ URL : "https://github.com/InfamousQ/brick_layout_manager/issues/11" TITLE : action verification popup BODY : app can have many situations where we need to verify the action requested by user. simple pop-up with yes/no options should be efficient for now. ideally the handling of verification input should be own separate logic that can be requested from different sections of app.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Blade2021/AssemblyAuto/issues/16" TITLE : manaul feed bug BODY : when engaging manual feed on new machine protection system mps , manual feed button is activating main cycle safety protocol. this should only happen on system operation not manual operation from operator.

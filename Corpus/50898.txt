@@ -1,0 +1,1 @@
+ URL : "https://github.com/boalang/ace/issues/2" TITLE : add docs to boa editor BODY : when a user hovers the mouse over a function or type, we can pop up a little javadoc-style box with the syntax and description of that function. similar to how eclipse works on methods/classes.

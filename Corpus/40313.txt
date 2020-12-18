@@ -1,0 +1,1 @@
+ URL : "https://github.com/loicmarie/hands-detection/issues/3" TITLE : training config file BODY : hello, may i know where i can find the faster_rcnn_resnet101_hands.config file? or we can just copy the basic parameter from the pet one in the sample? thanks in advance.

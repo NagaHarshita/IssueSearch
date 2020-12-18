@@ -1,0 +1,1 @@
+ URL : "https://github.com/martylamb/bookmartian/issues/61" TITLE : cache bookmark logo images BODY : i've run into a few cases where the random logo image i am pointing to on the web went away... would be nice if we either cached them on the server or offered an upload option.

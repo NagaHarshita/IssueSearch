@@ -1,0 +1,1 @@
+ URL : "https://github.com/fedora-modularity/conu/issues/60" TITLE : readme needs some love BODY : links in the readme don't work and some better usage overview in general would come in handy anyway. since we have http://conu.readthedocs.io/en/latest/, it should be linked from the readme as well.

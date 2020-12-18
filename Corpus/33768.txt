@@ -1,0 +1,1 @@
+ URL : "https://github.com/kalbasit/swm/issues/31" TITLE : app error is ignored BODY : steps to reproduce: 1 - swm tmux switch-client 2 - swm tmux kill-server expected vim was found, cannot exit server to avoid data loss actual no output

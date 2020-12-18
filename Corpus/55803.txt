@@ -1,0 +1,1 @@
+ URL : "https://github.com/treyhunner/django-simple-history/issues/336" TITLE : list of changed fields BODY : hi. thank you very much for your library. it is very useful. i am wondering if it is possible to get a list of fields and their values that changed between each history version. something like this: http://django-dirtyfields.readthedocs.io/en/develop/ verbose-mode

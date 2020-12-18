@@ -1,0 +1,1 @@
+ URL : "https://github.com/cddesire/cddesire.github.io/issues/70" TITLE : java 8 completablefuture BODY : java 8引入了 completablefuture<t> 以及它的接口 completionstage<t> 作为对 future<t> 的增强，它可以让你使用回调驱动的方式表达不同任务的信息流。 completablefuture 用来定义单个任务事件的计算。本文主要介绍其用法以及常见的工具方法。

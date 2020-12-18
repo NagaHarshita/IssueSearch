@@ -1,0 +1,1 @@
+ URL : "https://github.com/adarqui/redis-exec/issues/1" TITLE : how to build BODY : @adarqui hi i'm just trying to build my first go executable. how i can build redis-exec on my own linux ? i'm running alpine linux 3.5 inside an docker container. when i try to use your's release binary file i got this error message: sh: ./brooce: not found regards,

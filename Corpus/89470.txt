@@ -1,0 +1,1 @@
+ URL : "https://github.com/Emenda/klocwork-plugin/issues/5" TITLE : quality gateway reporting BODY : discuss: do we want a project/build action to report if & why the quality gateway fails. definitely need better reporting for the quality gateways

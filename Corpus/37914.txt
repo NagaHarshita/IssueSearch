@@ -1,0 +1,1 @@
+ URL : "https://github.com/everything2/everything2/issues/835" TITLE : new api: newwriteups BODY : we need to update the ajax code for the new writeups nodelet to use an api that is tested, understood, and stable.

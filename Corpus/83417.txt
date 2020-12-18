@@ -1,0 +1,1 @@
+ URL : "https://github.com/differui/rollup-plugin-sass/issues/31" TITLE : cannot compressed the css BODY : i used the configuration like this js sass { output: 'dist/app.css', options: { outputstyle: 'compressed', sourcemap: false, } } , but the dest file is not be compressed. how can i fixed it? thanks.

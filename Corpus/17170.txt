@@ -1,0 +1,1 @@
+ URL : "https://github.com/mageplaza/magento-2-smtp/issues/17" TITLE : no email received BODY : i installed and sent test email successfully received but i cant receive any order / update email, there is no exception error, the email log shows the order email sent success, please follow up. i'm using: g suite with less security setting , magento 2.1.9. thx.

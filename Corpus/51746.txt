@@ -1,0 +1,1 @@
+ URL : "https://github.com/irmen/Pyro4/issues/177" TITLE : better error messages? BODY : if my client uses a serializer that the nameserver doesn't accept eg. pickle by default , all i get is an error that nameserver not found. this was very difficult to debug. please consider more helpful error messages.

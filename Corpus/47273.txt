@@ -1,0 +1,1 @@
+ URL : "https://github.com/dashbase/dashbase-tools/issues/42" TITLE : optimize logtail main BODY : logtail's main is too large. should make it smaller

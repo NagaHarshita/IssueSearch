@@ -1,0 +1,1 @@
+ URL : "https://github.com/michaelss/inventory/issues/4" TITLE : add support for jboss as 7 BODY : create a connector to retrieve jboss as 7 apps. jmx will be used to achieve this.

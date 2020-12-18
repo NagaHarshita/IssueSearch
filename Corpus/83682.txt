@@ -1,0 +1,1 @@
+ URL : "https://github.com/RobTillaart/Arduino/issues/73" TITLE : choose between i2c lines? BODY : is there a way to specify which i2c to use? wire1 for example on a due?

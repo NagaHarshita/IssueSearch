@@ -1,0 +1,1 @@
+ URL : "https://github.com/wrengr/logfloat/issues/3" TITLE : product chokes on zero BODY : hs $ data.number.logfloat.product logfloat 0, logfloat 1 logfloat nan $ data.list.product logfloat 0, logfloat 1 logfloat 0.0

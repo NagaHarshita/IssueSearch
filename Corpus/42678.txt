@@ -1,0 +1,1 @@
+ URL : "https://github.com/zulip/zulip-mobile/issues/1471" TITLE : build artifacts on ci BODY : by continuously building artifacts, developers and enthusiasts can test and use the latest bleeding edge master version right away. which will make it easier to use each revisions of the application and give feedback. an example of this would be something like chromium canary.

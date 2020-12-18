@@ -1,0 +1,1 @@
+ URL : "https://github.com/JustDerek1/FRCCentralIssues/issues/39" TITLE : photo not appearing BODY : there is a bug where the photo does not appear. it attempts to load a photo from the current season, which is now 2017. there are no photos of 2017 robots. however, it would be nice if it would still load 2016 robot photos until 2017 robot photos are available.

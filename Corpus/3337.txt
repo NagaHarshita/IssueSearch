@@ -1,0 +1,1 @@
+ URL : "https://github.com/jasongin/nvs/issues/59" TITLE : nvs use error BODY : hi @jasongin i use nvs in windows, i have this error below: $ nvs.cmd use lts path += %localappdata% vs ode\6.11.0\x64 'c:\users\steven\appdata\local vs vs_tmp_1015611510.cmd' not inner command or executable command

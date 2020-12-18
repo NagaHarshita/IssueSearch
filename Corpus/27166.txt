@@ -1,0 +1,11 @@
+ URL : "https://github.com/Zimmi48/bugzilla-test/issues/2851" TITLE : coqmktop -top fails BODY : note: the issue was created automatically with bugzilla2github tool bugzilla bug id: 2851
+date: 2012-07-25 14:54:54 +0200
+from: beta ziliani &lt;<beta@mpi-sws.org>&gt;
+to: cc: @_letouzey, steph@glondu.net last updated: 2012-10-23 20:11:31 +0200 bugzilla comment id: 5315
+date: 2012-07-25 14:54:54 +0200
+from: beta ziliani &lt;<beta@mpi-sws.org>&gt; i can create a new coq toplevel with the usual coqmktop command without any issues. now, when i add the -top option, compilation breaks with the following message: $ ~/coq-8.4beta2/bin/coqmktop.byte -g -top -o coqtop src/run.cmo src/runtac.cmo file /tmp/coqmain4bdbf3.ml , line 15, characters 57-67:
+error: unbound module util i compiled coq 8.4beta2 with the options -debug and -local . bugzilla comment id: 5316
+date: 2012-07-25 15:26:54 +0200
+from: stephane glondu &lt;<steph@glondu.net>&gt; reading scripts/coqmktop.ml makes me think that this is specific to -local, but beta said otherwise on coq-club. i'm quite surprised that the problem did not show up before because it can be very easily reproduced with: $coqbin/coqmktop -g -top -o coqtop i get the same problem with v8.3, but not with v8.2. to be continued... bugzilla comment id: 5524
+date: 2012-10-23 20:11:31 +0200
+from: @_letouzey hi this issue should be fixed now in 8.3 commit 15925 , 8.4 commit 15927 and trunk commit 15926 . thanks for the report pierre l.

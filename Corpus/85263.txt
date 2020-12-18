@@ -1,0 +1,1 @@
+ URL : "https://github.com/toshiya/danger-plugin-wordcheck/issues/5" TITLE : error wit latest dangerjs BODY : version: 2.0.0-alpha.19 node:35924 unhandledpromiserejectionwarning: unhandled promise rejection rejection id: 2 : referenceerror: regeneratorruntime is not defined

@@ -1,0 +1,1 @@
+ URL : "https://github.com/MakeSchool-Tutorials/Peeved-Penguins-SpriteKit-Swift3-V2/issues/31" TITLE : 9. catapult physics BODY : after check the subsequent code connections in didmove to view: you should have these connections: the following lines should be in a code block.

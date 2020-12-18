@@ -1,0 +1,1 @@
+ URL : "https://github.com/prabirshrestha/async.vim/issues/13" TITLE : add rpc support BODY : i have been thinking of having rpc support for quite sometime. this would be provided by rpc.vim which depends on job.vim . it could then use stdin/stdout to communicate with the servers.

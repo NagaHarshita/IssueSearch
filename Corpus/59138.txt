@@ -1,0 +1,1 @@
+ URL : "https://github.com/dhowe/AdNauseam/issues/844" TITLE : text in whitelist page BODY : > the whitelist directives dictate on which web pages ublock origin should be disabled. one entry per line. invalid directives will be silently ignored and commented out. ublock origin should be replaced with adnauseam

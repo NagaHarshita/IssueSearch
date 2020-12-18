@@ -1,0 +1,1 @@
+ URL : "https://github.com/pauljherrera/Oanda-Forex-Trader/issues/17" TITLE : trader para gdax BODY : copiar la clase trader de la plataforma de gdax y adaptarla a la interfaz de la clase trader de oanda. tanto la clase oandatrader como gdaxtrader deben tener las mismas funcionalidades.

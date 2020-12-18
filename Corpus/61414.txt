@@ -1,0 +1,1 @@
+ URL : "https://github.com/tahuana/LHL_Project7_Final/issues/25" TITLE : assets for ratyrate gem BODY : - from your profile page, when selecting a project to view, the rating assets star images fail to appear on initial page load. - the assets properly render after manually re-loading page.

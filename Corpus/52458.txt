@@ -1,0 +1,1 @@
+ URL : "https://github.com/joosthub/pytorch-nlp-tutorial-sf2017/issues/6" TITLE : code to use nvidia gpu BODY : i was in the sf training. i have the slides, the environment, te data, but we don't have the code on how to use the examples if we have a gpu. how can i get them?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/xcjs/blur-monitor/issues/24" TITLE : error on mac BODY : error: eloop: too many symbolic links encountered, open '/blur-monitor/src/assets/img/app/apps/thunar.svg'

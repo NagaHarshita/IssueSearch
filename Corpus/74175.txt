@@ -1,0 +1,1 @@
+ URL : "https://github.com/Akryum/vue-meteor-tracker/issues/11" TITLE : dynamic $subscribe name? BODY : js props: 'subscribename' , meteor: { $subscribe: { this.subscribename { return ........; } }, tabledata { console.log posts.find {} .fetch ; }, },

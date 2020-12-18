@@ -1,0 +1,1 @@
+ URL : "https://github.com/coreos/docs/issues/1090" TITLE : missing coreos key BODY : couldn't file an issue under that project, but this overview https://github.com/coreos/container-linux-config-transpiler/blob/37f030b89bccbb0edcbb9a9429bcb73cee47755c/doc/configuration.md misses the coreos key.

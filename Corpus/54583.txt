@@ -1,0 +1,1 @@
+ URL : "https://github.com/bitpay/copay/issues/6111" TITLE : gpg verify warning ! ! BODY : gpg: good signature from copay visit copay.io <copay@bitpay.com> unknown gpg: warning: this key is not certified with a trusted signature! gpg: there is no indication that the signature belongs to the owner. primary key fingerprint: 9d17 e656 bb3b 6163 ae9d 7172 5cd6 00a6 1112 cfa1

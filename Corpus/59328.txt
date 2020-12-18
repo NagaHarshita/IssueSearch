@@ -1,0 +1,1 @@
+ URL : "https://github.com/vuetifyjs/nuxt/issues/3" TITLE : transitions don't work BODY : freshly installed template includes transition component before the <nuxt /> entry, yet there is no transition going on between routes.

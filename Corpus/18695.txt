@@ -1,0 +1,1 @@
+ URL : "https://github.com/karikera/vscode-nwjs-debug/issues/7" TITLE : unable to install BODY : using ubuntu 16.04, i try to run the command nwjs install but the app tries to download >get http://dl.nwjs.io/v0.23.0-beta1/nwjs-v0.23.0-beta1-undefined-x64.zip >undefined

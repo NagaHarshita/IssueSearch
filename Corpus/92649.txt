@@ -1,0 +1,1 @@
+ URL : "https://github.com/rakr/vim-one/issues/56" TITLE : -256color and gvim support BODY : support gvim easy -- how could this not be supported? support -256color term s harder because you have to configure palette

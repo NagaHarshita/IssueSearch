@@ -1,0 +1,1 @@
+ URL : "https://github.com/ekonor/hokeyapp/issues/1" TITLE : add arena logo BODY : 1. fix parser and load data about arenas including logos 2. save images in virtual folder 3. make api methods to get images or return image url right in arena list data

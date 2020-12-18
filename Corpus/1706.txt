@@ -1,0 +1,1 @@
+ URL : "https://github.com/terraform-providers/terraform-provider-aws/issues/1347" TITLE : dkim for ses BODY : terraform version terraform v0.10.0 expected behavior it doesn't look like the aws provider allows you to generate dkim settings for a domain. references - https://docs.aws.amazon.com/ses/latest/developerguide/easy-dkim.html

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Exeu/apai-io/issues/164" TITLE : question: catching errors BODY : i'm using apai-io and is working really well! but i wanted to catch some exceptions like: 1 the request to amazon failed - the request didn't finish - can we define a timeout? 2 amazon sent back an error any kind of error how can i handle these use cases using apai-io?

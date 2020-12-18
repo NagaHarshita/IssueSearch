@@ -1,0 +1,1 @@
+ URL : "https://github.com/palantir/atlasdb/issues/1965" TITLE : live reloading configs BODY : atlasdb, both client and timelock-server, should support live reloaded configs - this is, changes on configs after the service has started should be reflected on the behavior of the application.

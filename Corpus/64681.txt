@@ -1,0 +1,1 @@
+ URL : "https://github.com/jaredatch/Basic-User-Avatars/issues/25" TITLE : heading level incorrect BODY : wordpress have changed heading level hierarchy back in v4.4, so instead of: <h3><?php _e 'avatar', 'basic-user-avatars' ; ?></h3> it should be: <h2><?php _e 'avatar', 'basic-user-avatars' ; ?></h2>

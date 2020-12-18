@@ -1,0 +1,1 @@
+ URL : "https://github.com/sjohns09/envi_nav/issues/16" TITLE : code style checks BODY : make sure all code style checks are passing and fix any errors final code should not contain: compiler warnings when built cppcheck errors cpplint errors with score of 4 or 5 high confidence create a results directory with the following: cppcheck output cpplint output

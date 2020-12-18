@@ -1,0 +1,1 @@
+ URL : "https://github.com/u2uconsult/codeanalyzers/issues/9" TITLE : make member static BODY : the following code was defined as an instance member, changing it to static can improve the performance: c private void act { global<ilogger>.get .log act ; // global<ilogger> was a static type }

@@ -1,0 +1,1 @@
+ URL : "https://github.com/at15/snowbot/issues/10" TITLE : py handle import properly BODY : - currently, when on fedora, download.py is not working properly saying __main__.util is not found - it might also break on ubuntu since we have __init__.py now

@@ -1,0 +1,1 @@
+ URL : "https://github.com/togglz/togglz/issues/245" TITLE : junit 5 support BODY : new way to set featuretoggles during testing is needed since junit 5 does not support rules anymore, http://junit.org/junit5/docs/current/user-guide/ migrating-from-junit4

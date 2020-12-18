@@ -1,0 +1,1 @@
+ URL : "https://github.com/corcel/corcel/issues/356" TITLE : thumbnail images urls BODY : - corcel version: 1.1.5 - framework name & version: - php version: - database driver & version: description: is there a way to simply obtain the urls of the thumbnail images or a given post? steps to reproduce:

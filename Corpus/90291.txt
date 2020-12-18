@@ -1,0 +1,1 @@
+ URL : "https://github.com/rstudio/leaflet/issues/483" TITLE : selection.r not available BODY : it appears that addselect and removeselect are not options in the leaflet v1.1.0 package. is this intentional? if so, is there another tool that emulates the location-filter functions? thanks.

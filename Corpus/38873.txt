@@ -1,0 +1,1 @@
+ URL : "https://github.com/FlowFX/unkenmathe.de/issues/142" TITLE : redirect after login BODY : goes to http://localhost:8000/accounts/profile/ . should go some real place.

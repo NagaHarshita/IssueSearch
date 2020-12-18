@@ -1,0 +1,2 @@
+ URL : "https://github.com/sendgrid/python-http-client/issues/45" TITLE : add a .env_sample file BODY : our preference is that users have an environment file when using the sendgrid api, because it is less likely that someone would commit their credentials to github. please make a couple changes:
+- make a .env_sample file that contains: export sendgrid_api_key='' - make or add a .gitignore file and include .env - add instructions to the readme file about how to copy .env_sample to .env and add the api key

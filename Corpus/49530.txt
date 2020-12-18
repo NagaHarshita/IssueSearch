@@ -1,0 +1,1 @@
+ URL : "https://github.com/awayjs/core/issues/11" TITLE : tslib cannot be found BODY : typescript compilation yields the following error: lib/errors/abstractmethoderror.ts 7,34 : error ts2354: this syntax requires an imported helper but module 'tslib' cannot be found.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/3Blades/onpremise/issues/59" TITLE : optimize installer script BODY : add steps to further automate the installation process. specifically: - create virtual environment - install ansible

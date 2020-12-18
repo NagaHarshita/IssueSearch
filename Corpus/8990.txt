@@ -1,0 +1,1 @@
+ URL : "https://github.com/incuna/angular-bind-html-compile/issues/28" TITLE : submit to npmjs BODY : please submit your code to npmjs.org as angular-bind-html-compile simply do: mkdir angular-bind-html-compile cd angular-bind-html-compile npm init work your magic… npm publish i would do it but don't want to take credit for all of your work. 👍

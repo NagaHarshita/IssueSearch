@@ -1,0 +1,1 @@
+ URL : "https://github.com/Siilwyn/css-declaration-sorter/issues/36" TITLE : prefixed vendor rules BODY : would it be possible to keep prefixed vendor rules along with their non-prefixed siblings? currently they get moved to the top of the block.

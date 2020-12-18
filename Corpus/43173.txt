@@ -1,0 +1,1 @@
+ URL : "https://github.com/zrubinstein/sds192-mp2/issues/2" TITLE : combining data frames BODY : -we have run into issues when trying to join the two data frames, both the variable names and observations are different. -we are working now on matching all the titles of the columns in the candidates data frame -next up: inner_join

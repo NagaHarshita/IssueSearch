@@ -1,0 +1,1 @@
+ URL : "https://github.com/felipemanga/ProjectABE/issues/12" TITLE : blank screen on reset BODY : the reset button only works properly when there's a breakpoint on address 0 and you resume after it hits.

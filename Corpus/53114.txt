@@ -1,0 +1,1 @@
+ URL : "https://github.com/kiall/android-tvheadend/issues/226" TITLE : default audio language BODY : it's not possible to choose any default audio-language. you have to change it manually for each channel after each reboot.

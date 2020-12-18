@@ -1,0 +1,1 @@
+ URL : "https://github.com/mreinstein/alexa-verifier/issues/22" TITLE : support for cortana BODY : as part of the cortana's skills kit, developers can reuse code from their existing alexa skills. it'd be great if this library supported verification of cortana requests as well. the verification process is similar, so the core logic shouldn't change much.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/kbenoit/quanteda/issues/966" TITLE : multi-threading on server BODY : since the last version of quanteda 0.99, i have lost the multi-threading on server with a virtual environment on docker. 1 out of 24 thread . the multi-threading is working on my laptop.

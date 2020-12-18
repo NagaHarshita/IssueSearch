@@ -1,0 +1,1 @@
+ URL : "https://github.com/WeisswurstSystems/WWM-BB/issues/9" TITLE : endpunkt alle nutzer lesen BODY : endpunkt lautet /users bei get werden alle registrierten nutzer zurückgegeben.

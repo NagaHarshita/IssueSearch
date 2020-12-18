@@ -1,0 +1,1 @@
+ URL : "https://github.com/10up/wp-docker/issues/2" TITLE : multiple projects setup BODY : with laradock https://github.com/laradock/laradock you can setup a development environment for single or multiple projects as explained here https://github.com/laradock/laradock installation and i was wondering if your project could do the same.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/wenboyu2/yahoo-earnings-calendar/issues/7" TITLE : error control loop BODY : can you put in a loop so it delays and retries until a successful scrape whenever yahoo throws off an irrelevant error?

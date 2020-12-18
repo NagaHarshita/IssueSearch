@@ -1,0 +1,1 @@
+ URL : "https://github.com/peterolson/BigInteger.js/issues/99" TITLE : hextodec loss precise. BODY : const n = '0xa0dc65ffca799873cbea0ac274015b9526505daaaed385155425f7337704883'; console.log bigint n, 16 .tostring

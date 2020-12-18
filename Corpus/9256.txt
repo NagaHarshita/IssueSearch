@@ -1,0 +1,1 @@
+ URL : "https://github.com/gadelkareem/sails-dynamodb/issues/39" TITLE : unique not work BODY : i created an attribute = email: { type: email , required: true, unique: true } and when you run insert, it does not perform validation to single in the table.

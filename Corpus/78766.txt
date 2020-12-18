@@ -1,0 +1,1 @@
+ URL : "https://github.com/SChAth/ScAthiop/issues/272" TITLE : references not displayed BODY : in bnfet71, the references <ref target= chapter8 /> and <ref target= chapter19 /> are not displayed on the website xml <note>see for excerpts from this work <ref target= chapter8 /> and <ref target= chapter19 />.</note> http://betamasaheft.aai.uni-hamburg.de/manuscripts/bnfet71 p1_i7

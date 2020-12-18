@@ -1,0 +1,1 @@
+ URL : "https://github.com/mgula/secure-email/issues/4" TITLE : possible logic error BODY : https://github.com/mgula/secure-email/blob/164d276b4095ce6a23bd5d018b3631efe01375ee/mail.cpp l244 maybe meant sign instead of true?

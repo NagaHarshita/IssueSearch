@@ -1,0 +1,1 @@
+ URL : "https://github.com/PureCS/runesource/issues/2" TITLE : plugin system - review BODY : i think i'll remove groovy usage entirely, seems pointless.

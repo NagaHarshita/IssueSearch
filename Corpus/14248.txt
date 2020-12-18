@@ -1,0 +1,1 @@
+ URL : "https://github.com/SuperNETorg/Agama/issues/76" TITLE : add offline check BODY : to notify users that there's a connectivity issue. connection loss could lead to cache file corruption. not sure about komodod or iguana core. need to ask james for more details.

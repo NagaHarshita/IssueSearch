@@ -1,0 +1,1 @@
+ URL : "https://github.com/filearts/plunker_embed/issues/2" TITLE : embed plunkers are broken BODY : all < and are replaced by &lt; and &gt; in the html of every embed plunker. it breaks everything. you can see examples in the embed plunkers on the official documentation here: https://ggoodman.gitbooks.io/plunker/content/embed.html thanks!

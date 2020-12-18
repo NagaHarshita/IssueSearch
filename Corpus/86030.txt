@@ -1,0 +1,1 @@
+ URL : "https://github.com/SemsProject/MOST/issues/30" TITLE : getboundingclientrect bug BODY : after several diffs the graph can not be handled correctly. bug while getting position of an element ___ i came from the most website through the feedback button

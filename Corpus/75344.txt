@@ -1,0 +1,3 @@
+ URL : "https://github.com/kolekio/ko-api/issues/20" TITLE : hacer tareas programadas BODY : implementar tareas programadas con grunt para la ejecución del proyecto en dev, la idea es acortar procesos - x reload si se hace algún cambio en el codigo
+- x generación de dist para deployar
+- implementar hints para un buen código

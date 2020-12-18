@@ -1,0 +1,1 @@
+ URL : "https://github.com/luakit/luakit/issues/591" TITLE : copy hint links BODY : hello. qutebrowser and vimperator has such features as yank hint link . you open usual link highlighting mode, but instead of going to this link you location, you just copy the link itself. can this be implemented in luakit?

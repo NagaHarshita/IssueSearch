@@ -1,0 +1,1 @@
+ URL : "https://github.com/redpelicans/peep2/issues/75" TITLE : created at, updated at BODY : created almost nan years => check if createdat and updatedat is not nil !!! add ago at the end, like must display created almost 3 years ago remove large span between both

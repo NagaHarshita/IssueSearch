@@ -1,0 +1,18 @@
+ URL : "https://github.com/xbmc-catchuptv-au/issue-reports/issues/1343" TITLE : sbs user initiated report BODY : automatic bug report from end-user. environment add-on name: sbs on demand add-on id: plugin.video.sbs add-on version: 1.1.3 add-on url: ?action=sendreport kodi version: 17.4 python version: 2.7.14 default, sep 21 2017, 14:27:06 gcc 5.3.0 ip address: 194.132.121.5 hostname: n/a country: gb isp: as9009 m247 ltd operating system: linux2 linux 4.4.88 x86_64 python path: /home/art/.kodi/addons/plugin.video.sbs/resources/lib
+/home/art/.kodi/addons/plugin.video.sbs
+/home/art/.kodi/addons/script.common.plugin.cache/lib
+/home/art/.kodi/addons/script.module.aussieaddonscommon/lib
+/home/art/.kodi/addons/script.module.beautifulsoup4/lib
+/home/art/.kodi/addons/script.module.certifi/lib
+/home/art/.kodi/addons/script.module.chardet/lib
+/home/art/.kodi/addons/script.module.idna/lib
+/home/art/.kodi/addons/script.module.requests/lib
+/home/art/.kodi/addons/script.module.urllib3/lib
+/usr/lib64/python27.zip
+/usr/lib64/python2.7
+/usr/lib64/python2.7/plat-linux2
+/usr/lib64/python2.7/lib-tk
+/usr/lib64/python2.7/lib-old
+/usr/lib64/python2.7/lib-dynload
+/usr/lib64/python2.7/site-packages
+/usr/lib64/python2.7/site-packages/gtk-2.0 full log https://gist.github.com/b825b3926137579f0e59e2c093c4fb80

@@ -1,0 +1,1 @@
+ URL : "https://github.com/cBioPortal/cbioportal/issues/3307" TITLE : memory usage issue BODY : we noticed that the public portal is using a lot of memory and causing issues on our server. is it possible that the mybatis cache cause the problem?

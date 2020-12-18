@@ -1,0 +1,15 @@
+ URL : "https://github.com/phildkim86/CS_08_BASEBALL/issues/17" TITLE : user story 15 BODY : as a user, i want to be able to log in using my unique id and password so that i can plan my own trip and have different plans than other users. acceptance criteria:
+a login page should be displayed
+the id should be validated
+password should be validated
+a different window from administrator login should pop up when correct id and password are entered definition of done: when the program opens, there should be a login page. the user should be able to enter their id and password. if the id and password do not match, a new window will pop up including a warning that the id and password are not valid. if the id and password are valid, a new window should pop up, which is only for users. it should be different from the window that pops up when an administrator logs in. there should be options to be able to see the list of major leagues, national leagues and american leagues as well as check records, check costs and planning a trip. tasks:
+create login page
+validate the user id and password
+create message box if id and password are incorrect
+create new window which is only for user
+create options radio buttons for the user to click tests:
+check if the user login is a user or admin
+verify the user’s id
+verify the user’s password
+check if a message box is displayed if incorrect id and password are entered
+check if a new window opens, which is only for users

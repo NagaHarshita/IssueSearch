@@ -1,0 +1,1 @@
+ URL : "https://github.com/DSEF/DSEF/issues/16" TITLE : gnuplot5 not available BODY : i'm trying to generate graphs for janus locally and the code uses gnuplot5 which is not available for ubuntu 14.04 which is what dsef runs on.

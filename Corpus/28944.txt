@@ -1,0 +1,1 @@
+ URL : "https://github.com/ampproject/docs/issues/754" TITLE : improve faq section BODY : right now, there too many clicks to find things and items obscured away by generic categories. it would be more useful to see the faqs on one page, collapsed by section. essentially, have a left nav, and faqs in center; just like how docs section looks.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpenMake-Software/ReleaseEngineer/issues/185" TITLE : random doesn't work BODY : random function generates the same number over and over on each server on a multiple server deployment. 10 for one server, 50 on another in the example preaction script i tried on a component, for multiple deployments.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Radarr/Radarr/issues/822" TITLE : support renaming folders BODY : currently my movies are organized by name year , i would like to append the imdb id to the end. i made the change in the settings and new movies are seeing the change but when i do an organize only the movie files are being renamed, not the folders

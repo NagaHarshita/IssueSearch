@@ -1,0 +1,1 @@
+ URL : "https://github.com/creimers/graphene-auth-examples/issues/3" TITLE : superuser can not login ? BODY : hi, the apps work well with https://github.com/creimers/graphene-auth-examples-relay i tried to create superuser with python manage.py but it does not work. is there any special issues? thanks,

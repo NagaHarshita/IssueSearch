@@ -1,0 +1,1 @@
+ URL : "https://github.com/pedronauck/micro-router/issues/30" TITLE : support nested router BODY : want to have something like const api1 = router '/', someendpoint router 'api/v1', api1, 'api/v2', api2

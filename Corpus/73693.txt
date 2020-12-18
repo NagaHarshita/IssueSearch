@@ -1,0 +1,1 @@
+ URL : "https://github.com/Tigrov/yii2-pgsql/issues/3" TITLE : datetime в формах BODY : каким образом можно использовать обьект datetime в формах? <?= $form->field $model, 'from_date' ->widget \yii\jui\datepicker::classname , 'dateformat' => 'yyyy-mm-dd', ?>

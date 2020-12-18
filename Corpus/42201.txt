@@ -1,0 +1,1 @@
+ URL : "https://github.com/reportportal/reportportal/issues/231" TITLE : analysis doesn't work BODY : i set status for some set of tests please see screenshot run 20 , then i run tests again. click analysis for last run 21 but statuses are not provided ! screenshot_1 https://user-images.githubusercontent.com/5435251/30046823-2a2d3a96-9216-11e7-83f8-aafa91aa4f7f.png

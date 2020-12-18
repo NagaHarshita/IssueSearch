@@ -1,0 +1,1 @@
+ URL : "https://github.com/ant-design/ant-design/issues/4980" TITLE : affix onchange bug BODY : <affix onchange={this.onfilterfixedchange}> <div><checkbox onchange={...do something} /></div> </affix> the 'onchange' in checkbox propagates to affix.shouldn't rename 'onchange' in affix?

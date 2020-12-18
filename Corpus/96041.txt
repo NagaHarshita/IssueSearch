@@ -1,0 +1,1 @@
+ URL : "https://github.com/coding-blocks/content-downloader/issues/9" TITLE : duckduckgo api limitations BODY : @nikhilkumarsingh i was exploring duckduckgo api , and it turns out it is so limited :: https://duckduckgo.com/api i tried the query : python and it returned many results, while query python filetype:pdf , returned 0 results

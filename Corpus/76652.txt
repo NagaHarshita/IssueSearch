@@ -1,0 +1,1 @@
+ URL : "https://github.com/Rsl1122/Plan-PlayerAnalytics/issues/215" TITLE : local timezone in charts BODY : plan version: 3.6.0 server version: 1.12 database type: sqlite description: dates/times are displayed gmt. proposed solution: display dates/times in local or configured timezone.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/docker/dockercloud-agent/issues/41" TITLE : raspberry pi support BODY : hi, when do you plan support rpi ? $ curl -ls https://get.cloud.docker.com/ | sudo -h sh -s xxxx error: unsupported architecture: armv7l only x86_64 architectures are supported at this time learn more: https://docs.docker.com/docker-cloud/tutorials/byoh/

@@ -1,0 +1,1 @@
+ URL : "https://github.com/dashuto4ka/colmar-academy/issues/1" TITLE : viewport meta tag BODY : https://github.com/dashuto4ka/colmar-academy/blob/master/index.html l3-l10 remember to include the viewport meta tag to properly control your website's viewport width. html <meta name= viewport content= width=device-width, initial-scale=1.0 >

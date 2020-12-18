@@ -1,0 +1,1 @@
+ URL : "https://github.com/ammongit/rshell/issues/56" TITLE : fix job status printing BODY : right now the job status is printed asynchronously, so it may print in the middle of a line. we could utilize readline's prompt functionality to ensure it is only on a new line if needed. see also http://www.delorie.com/gnu/docs/readline/rlman_35.html

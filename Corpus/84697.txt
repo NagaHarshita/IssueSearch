@@ -1,0 +1,1 @@
+ URL : "https://github.com/bq/poeditor-android-gradle-plugin/issues/8" TITLE : disable tablet generation BODY : the xml parser throws some exceptions because of this tablet generation. mainly, when there are html strings

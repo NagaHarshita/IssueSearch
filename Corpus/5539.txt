@@ -1,0 +1,1 @@
+ URL : "https://github.com/TheRealCatherine/StageMechanic/issues/12" TITLE : push sidle bug BODY : turns out if you sidle to a block then push it without unsidling, it still thinks the block is there. whenever you press the grab button in catherine it makes you unsidle, seems like a reasonable fix. https://youtu.be/8vxzps57yfw

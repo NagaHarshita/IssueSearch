@@ -1,0 +1,1 @@
+ URL : "https://github.com/sean-public/skiplist-survey/issues/1" TITLE : comparison vs map BODY : hi, it would be useful to also include a map in the comparison, to understand at what point the skiplist provides faster inserts thanks

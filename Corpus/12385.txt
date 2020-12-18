@@ -1,0 +1,1 @@
+ URL : "https://github.com/winterland1989/magic-haskell/issues/33" TITLE : p142 monoid a->b BODY : 魔力haskell一书第p142页 instance monoid b => monoid a->b where mempty _ = mempty -- 1问 这里前后两个mempty各指谁?不会是同一个吧? -- 2问 这里针对 a->b 元素对应的mempty是多少，没有给出来，是id吗? mappend f g x = f x 'mappend' g x 这里比较好理解

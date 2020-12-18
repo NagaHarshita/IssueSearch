@@ -1,0 +1,1 @@
+ URL : "https://github.com/MarlinFirmware/Marlin/issues/6510" TITLE : ubl getting started guide BODY : here's my first pass at a getting started guide for ubl. feedback is encouraged details on the g26 & g29 commands will also be added to the wiki at the same time. ubl startup guide.zip https://github.com/marlinfirmware/marlin/files/966986/ubl.startup.guide.zip

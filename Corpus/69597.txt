@@ -1,0 +1,1 @@
+ URL : "https://github.com/senoadiw/docker-geonode-qgis/issues/1" TITLE : this repo is deprecated BODY : hi @senoadiw fyi we no longer maintain docker-geonode-qgis. rather, get it all at kartoza/geonode or even geonode/geonode master branch since all our geonode-qgis_server work is in sync there.

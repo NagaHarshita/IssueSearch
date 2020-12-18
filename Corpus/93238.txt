@@ -1,0 +1,1 @@
+ URL : "https://github.com/rh-messaging/cli-java/issues/9" TITLE : add message output as json BODY : please add new type of logging messages --log-msgs json .

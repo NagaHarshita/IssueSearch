@@ -1,0 +1,1 @@
+ URL : "https://github.com/stephsharp/MaterialTextField/issues/12" TITLE : ios 11 cropped text BODY : strange behaviour with textfield on ios 11 beta . text are cropped and placed three dots at the end of string. it is like that your autolayout is broken on newer version of ios

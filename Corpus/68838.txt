@@ -1,0 +1,1 @@
+ URL : "https://github.com/frenzymadness/fedora-python-tox/issues/7" TITLE : simplified travis build BODY : find a way how to build docker image only once before running tests.

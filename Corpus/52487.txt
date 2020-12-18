@@ -1,0 +1,1 @@
+ URL : "https://github.com/kriswallsmith/assetic/issues/844" TITLE : combine files in debug BODY : i have a particulate issue where i need assets to be combined in debug, but i need debug: '%kernel.debug%' because mimifier to work in prod but not in dev. how do i configure assetic to do that?

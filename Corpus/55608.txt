@@ -1,0 +1,1 @@
+ URL : "https://github.com/samuelcolvin/pydantic/issues/24" TITLE : json version of values BODY : way to get model.values which is jsonable - eg. calls values on submodules.

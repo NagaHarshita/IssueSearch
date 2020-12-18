@@ -1,0 +1,1 @@
+ URL : "https://github.com/denar90/mobile-friendly/issues/4" TITLE : provide a quiet option BODY : i'm wanting to parse the response and do my own thing with it, but at the moment i cannot, as even when returning json there are still calls to console.log and process.stdout.write. : i know i could override those functions, but it gets a bit messy to maintain .

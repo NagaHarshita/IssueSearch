@@ -1,0 +1,1 @@
+ URL : "https://github.com/NJACKWinterOfCode/IITP-Connect/issues/12" TITLE : add ide files to gitignore BODY : add the ide files to .gitignore file 1 rm -rf .idea 2 delete these in .gitignore /.idea/workspace.xml /.idea/libraries /.idea/misc.xml 3 add this to .gitignore .idea original issue here https://github.com/njack-iitp/iitp-connect/issues/44

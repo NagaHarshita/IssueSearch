@@ -1,0 +1,1 @@
+ URL : "https://github.com/USThing/USThing_Master/issues/174" TITLE : ios ems crash BODY : eventsdetailviewcontroller line 471 rundowncell.timelabel.text = simplifieddateformatter.string from: datetime! fatal error: unexpectedly found nil while unwrapping an optional value please also add the label ios or / and android for the issue

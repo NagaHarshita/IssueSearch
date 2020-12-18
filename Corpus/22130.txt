@@ -1,0 +1,1 @@
+ URL : "https://github.com/haxpor/basejit/issues/5" TITLE : improve npm script BODY : for following points add rimraf cleaning files in ./dist first before build add running build npm script first before executing http-and-watch

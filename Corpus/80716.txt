@@ -1,0 +1,1 @@
+ URL : "https://github.com/nus-mtp/steps-networking-module/issues/61" TITLE : update event information BODY : ensure that event information has: 1. name 2. description 3. picture 4. start date and end date 5. event layout

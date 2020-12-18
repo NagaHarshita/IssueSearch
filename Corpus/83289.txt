@@ -1,0 +1,1 @@
+ URL : "https://github.com/withquietintentions/NodeAutomaton1/issues/4" TITLE : can app.js have less code BODY : can we move most of the code in app.js to another page...seems like that would be healthier design

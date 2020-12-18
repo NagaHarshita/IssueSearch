@@ -1,0 +1,1 @@
+ URL : "https://github.com/speckleworks/SpeckleRhino/issues/41" TITLE : localhost vs. ip / debug BODY : load from localhost or from ip, and stop shuffling around the new chromiumwebbrowser @ http://localhost:9090/ ; vs. osx localhost

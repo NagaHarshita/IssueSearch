@@ -1,0 +1,1 @@
+ URL : "https://github.com/rs/SDWebImage/issues/1890" TITLE : memory size of memcache? BODY : i see that i can easily get the size of the diskspace, but i was wondering if i can do the same for the memcache? thanks!

@@ -1,0 +1,1 @@
+ URL : "https://github.com/dotnet/csharplang/issues/873" TITLE : is this a bug? BODY : c private int x; test public void foo { x = 16; x -= bar 4 ; console.writeline x ; //-> 12 } private int bar int y { x -= y; return y; }

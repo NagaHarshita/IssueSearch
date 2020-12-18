@@ -1,0 +1,1 @@
+ URL : "https://github.com/splashblot/dronedb/issues/42" TITLE : landing page enhancements BODY : remaining ideas from the original lp task: - enable https - add secrets to docker-compose.yml file - finalize instance to host - a/b test cta & tag lines

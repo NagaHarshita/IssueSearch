@@ -1,0 +1,1 @@
+ URL : "https://github.com/AndrewRublyov/leafs-lang/issues/3" TITLE : sugar for weak references BODY : example: var weakref = weak new someobject ; vs c 's: var weakref = new weakreference new someobject ; for ressuractable objects or long weak ref's same thing, but longweak instead of weak

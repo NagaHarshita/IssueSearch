@@ -1,0 +1,1 @@
+ URL : "https://github.com/LCA-ActivityBrowser/activity-browser/issues/85" TITLE : overall ui philosophy BODY : this is a big topic and has no single answer. the idea of this issue is to collect ideas for now. _original ui philosophy:_ - the original idea was that everything is only a maximum of two clicks away. - therefore the tabs and the vertical split view.

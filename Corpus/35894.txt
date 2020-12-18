@@ -1,0 +1,1 @@
+ URL : "https://github.com/tildetown/tilde-wiki/issues/8" TITLE : fix .git perm issues BODY : objects in the shared .git are ending up with the wrong perms. audit after git operations.

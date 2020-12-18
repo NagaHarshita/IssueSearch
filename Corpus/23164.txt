@@ -1,0 +1,1 @@
+ URL : "https://github.com/gurisko/cordova-plugin-accountkit/issues/21" TITLE : not working on ios BODY : plugin work perfectly on android but when i use it on ios, i stuck on sending code screen although i have received a sms, i cannot input my code

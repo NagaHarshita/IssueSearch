@@ -1,0 +1,1 @@
+ URL : "https://github.com/vinniefalco/Beast/issues/331" TITLE : doc server example BODY : in the doc and on github there is a clear example of how to connect as a client. adding a server example could be useful. reasoning: the first time i tried beast i got scared off and went with a more works out of the box solution.

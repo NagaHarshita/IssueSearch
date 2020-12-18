@@ -1,0 +1,1 @@
+ URL : "https://github.com/oilshell/oil/issues/10" TITLE : allow easy installation BODY : i attempted to try and create an arch linux pkgbuild for this project and realized that setup.py install only installs python libc, and not oil. could this be fixed?

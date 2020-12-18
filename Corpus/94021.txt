@@ -1,0 +1,1 @@
+ URL : "https://github.com/g2e/seizmo/issues/15" TITLE : bathymetric factors differ BODY : hi, garrett, the data in the table for p bathymetric excitations in bathy_micro_excite look like fig. 3c of gualtieri et al. 2014 but the values are much higher, a peak of ~3.2 vs a peak of 1.9. could you have a check?

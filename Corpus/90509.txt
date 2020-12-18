@@ -1,0 +1,1 @@
+ URL : "https://github.com/kvz/locutus/issues/321" TITLE : similar_text is very slow BODY : https://github.com/kvz/locutus/blob/master/src/php/strings/similar_text.js works very slow. to compare less than 100 pair of strings less than 20 chars each it takes minutes.

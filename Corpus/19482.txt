@@ -1,0 +1,1 @@
+ URL : "https://github.com/gessnerfl/fake-smtp-server/issues/2" TITLE : add data retention BODY : story i want to be able to configure the maximum number of emails stored in the database so that i can limit the total number of emails stored in the in-memory database

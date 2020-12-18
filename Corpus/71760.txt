@@ -1,0 +1,1 @@
+ URL : "https://github.com/jordandhaenens/projectPrint/issues/11" TITLE : admin can view inventory BODY : given: admin is logged in and is presented with navbar link to view inventory when: admin clicks inventory then: admin is presented with view showing the current quantity of each element in inventory

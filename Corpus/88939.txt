@@ -1,0 +1,1 @@
+ URL : "https://github.com/CPSC319-2017w1/coast.the-terminal/issues/137" TITLE : password field validation BODY : when creating a password, we should check that it has required conditions. upper case lower case numeric special character length of at least 8

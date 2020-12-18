@@ -1,0 +1,1 @@
+ URL : "https://github.com/chymz/ng2-ckeditor/issues/80" TITLE : bind with form control BODY : is it possible to bind editor with formcontrol object? is it possible to provide to the editor an observable object?

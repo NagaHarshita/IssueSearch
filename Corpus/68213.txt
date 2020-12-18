@@ -1,0 +1,1 @@
+ URL : "https://github.com/smbrar/testingbugimport/issues/225" TITLE : repairing buildings bug BODY : peasants can repair a building that is still being built to make its health go up faster but won’t make it complete faster

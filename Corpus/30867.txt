@@ -1,0 +1,1 @@
+ URL : "https://github.com/nyalex/shopify-generating-api-token-guide/issues/2" TITLE : refresh token issue BODY : hi, how can i get refresh token or access this app to offline mode like google oauth do . i am using this to integrate and post data every specific time, so for data my refresh token expires again and again. looking to hear you... thanks

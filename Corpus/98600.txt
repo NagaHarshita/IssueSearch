@@ -1,0 +1,1 @@
+ URL : "https://github.com/sideroad/four-seasons/issues/2" TITLE : it always shows scrollbar. BODY : the scrollbar shouldn't appear in this case: ! screen shot 2017-02-17 at 1 52 50 pm https://cloud.githubusercontent.com/assets/6179015/23054077/98328d3e-f518-11e6-919a-13c2370bfb44.png if using mac, we may not notice this issue. but it is easy to find at window or linux box.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/sippy/rtpproxy/issues/70" TITLE : cve-2017-14114 / rtpbleed BODY : https://cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-14114 was assigned for https://rtpbleed.com/, but i don't see any commits related to it, so not sure if that company who discovered it, actually reported it to you?

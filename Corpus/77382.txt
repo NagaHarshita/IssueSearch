@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/DirectXShaderCompiler/issues/882" TITLE : naming conflict for udiv BODY : 'udiv' is used for both llvm instruction and dxil opcode. we should rename dxil opcode probably to udivmode

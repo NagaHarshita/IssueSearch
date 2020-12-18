@@ -1,0 +1,1 @@
+ URL : "https://github.com/A-portfolio/HuashiApp/issues/9" TITLE : 更新 token 的问题 BODY : ! https://ws2.sinaimg.cn/large/006tnc79gy1fml672lm4fj30vs0oct9y.jpg 这段代码中有几个问题: 首先这个刷新 token 逻辑应该写在一个 interceptor里面，设定个最多尝试次数的值，直接帮用户后台刷新。 还有这边不应该为了调用 login 方法直接 new 一个 activity，可以把 login 方法写在 presenter 中。 最后用户的 sid，pwd 是已经存在于 app.suser对象中了，直接从内存中取比从文件中取要好一些。

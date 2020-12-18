@@ -1,0 +1,1 @@
+ URL : "https://github.com/skshetry/urlshortener/issues/4" TITLE : add more test to views. BODY : the tests doesnt cover the views, only the models and utils functions.

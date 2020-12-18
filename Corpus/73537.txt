@@ -1,0 +1,1 @@
+ URL : "https://github.com/nib-health-funds/cfn-batman/issues/4" TITLE : create versioned release BODY : include doco in readme on how we version this project using semver.

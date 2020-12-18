@@ -1,0 +1,1 @@
+ URL : "https://github.com/nabody/try_django_v1.11/issues/1" TITLE : form_valid and is_valid BODY : - the default implementation for form_valid simply redirects to the success_url - is_valid runs validation routines for all its fields - is_valid is exceuted before form_valid

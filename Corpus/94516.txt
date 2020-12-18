@@ -1,0 +1,1 @@
+ URL : "https://github.com/mhantke/h5writer/issues/3" TITLE : cannot write empty dataset BODY : it gives division by zero when calculating chunk size.

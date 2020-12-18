@@ -1,0 +1,1 @@
+ URL : "https://github.com/pavelmc/Yatuli/issues/1" TITLE : add a lock flag. BODY : from users comments: add a lock flag kind of yt.lock = true/false to avoid frequency movements while on tx, as it's so easy for the rf or simple voltage variations due to high current flows to affect the adc and frequency causing fm modulation.

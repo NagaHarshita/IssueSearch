@@ -1,0 +1,1 @@
+ URL : "https://github.com/MakeICT/MESSforMakers/issues/51" TITLE : document config options BODY : add section to readme indicating how to set up config file for local environment and database. config file will look like this to start: { database_settings : { username : , password : , host : , port : , database : , sslmode : }, logger_settings : { dump_request : } }

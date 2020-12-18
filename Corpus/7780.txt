@@ -1,0 +1,1 @@
+ URL : "https://github.com/report-uri/report-uri-bugs/issues/32" TITLE : ipv6 only hosts BODY : unable to scan v6 only hosts, could be an issue with the platform or code.

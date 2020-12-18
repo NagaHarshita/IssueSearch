@@ -1,0 +1,1 @@
+ URL : "https://github.com/pelagios/peripleo2/issues/151" TITLE : tei: index more metadata BODY : - check what options are available to put into the teiheader - extend recogito output to include these extra options - extend peripleo to properly parse and index them

@@ -1,0 +1,1 @@
+ URL : "https://github.com/City-of-Helsinki/varaamo/issues/620" TITLE : add new helsinki bootstrap BODY : - switch from less to sass - add the new helsinki bootstrap - make sure espoo styles still work

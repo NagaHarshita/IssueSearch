@@ -1,0 +1,1 @@
+ URL : "https://github.com/RobertZagorski/NetworkStats/issues/4" TITLE : for dual sim BODY : i can see you used getsubscriberid context, connectivitymanager.type_mobile for fetching out mobile data but for dual sim phones how can i categorise or differentiate that which subscriberid is being used ? is it for sim 1 or sim 2 !!

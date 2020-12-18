@@ -1,0 +1,1 @@
+ URL : "https://github.com/codecentric/cxf-spring-boot-starter/issues/22" TITLE : wsimport jvm arguments BODY : it looks like you are already passing in wsimpot jvm argument -djavax.xml.accessexternalschema=all . i also want to pass in -djavax.xml.accessexternaldtd=all . is this possible ?

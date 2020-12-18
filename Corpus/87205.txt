@@ -1,0 +1,1 @@
+ URL : "https://github.com/diegomura/react-pdf/issues/125" TITLE : it can not run in next.js BODY : it can not run in next.js error: fs net tls not installed. it also can not run in create-react-app : error: uncaught referenceerror: _regeneratorruntime is not defined i have used babel-polyfill

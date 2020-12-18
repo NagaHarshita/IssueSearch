@@ -1,0 +1,1 @@
+ URL : "https://github.com/williamsmj/stowsh/issues/11" TITLE : make better tests BODY : current tests which verify the two scenarios in the readme are performed by diffing the output of tree before and after stowsh. my code is bad and i feel bad. this should be better.

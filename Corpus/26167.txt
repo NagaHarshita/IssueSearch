@@ -1,0 +1,1 @@
+ URL : "https://github.com/YoshiyukiKato/gimmickry/issues/26" TITLE : add user identifier BODY : === user attributes process === identifier loader identifier -> attribute transformer {attributes} -> {attributes}

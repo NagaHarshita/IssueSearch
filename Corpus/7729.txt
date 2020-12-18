@@ -1,0 +1,1 @@
+ URL : "https://github.com/NiceThings/ShinShikaku/issues/94" TITLE : implement lives BODY : - user starts 2/ 3 to begin with - user can only progress until they run out of lives - at that point they restart from zero - needed: lottie animation for losing a life - lottie animation for losing the last life - design for lives/timer on level screen

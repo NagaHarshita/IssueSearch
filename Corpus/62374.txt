@@ -1,0 +1,1 @@
+ URL : "https://github.com/contiki-ng/contiki-ng/issues/144" TITLE : cleanup tools directory BODY : re-structure, make sure old tools and dead code is removed, enhance selected tools etc

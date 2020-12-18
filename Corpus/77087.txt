@@ -1,0 +1,1 @@
+ URL : "https://github.com/kishan042/FifthStreet/issues/12" TITLE : mobile search - exit cta BODY : the exit cta needs to allow to take the user back to the previous page. looking at using local storage to store a variable, so that the url used to send the user back to their previous page.

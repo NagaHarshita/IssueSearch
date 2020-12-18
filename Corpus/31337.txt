@@ -1,0 +1,9 @@
+ URL : "https://github.com/ServUO/ServUO/issues/1954" TITLE : server crash report BODY : server crash report
+=================== servuo version 0.5, build 6306.14839
+operating system: microsoft windows nt 6.1.7601 service pack 1
+.net framework: 4.0.30319.17929
+time: 2017/4/8 2:33:16
+mobiles: 28347
+items: 507864
+exception:
+system.indexoutofrangeexception: 索引超出了数组界限。 在 server.engines.bulkorders.rewardcalculator.computepoints largebod bod 在 server.engines.bulkorders.bulkordersystem.computepoints largebod bod, int32& points, double& banked 在 server.engines.bulkorders.largebodgump..ctor mobile from, largebod deed 在 server.engines.bulkorders.largebod.ondoubleclick mobile from 在 server.mobile.use item item 位置 c:\middangearduo\server\mobile.cs:行号 4475 在 server.engines.xmlspawner2.xmlattach.usereq netstate state, packetreader pvsrc 在 server.network.messagepump.handlereceive netstate ns 位置 c:\middangearduo\server\network\messagepump.cs:行号 303 在 server.network.messagepump.slice 位置 c:\middangearduo\server\network\messagepump.cs:行号 121 在 server.core.main string args 位置 c:\middangearduo\server\main.cs:行号 571 reported by: yayafan report thread: http://servuo.com/threads/server-crash-report.7024/

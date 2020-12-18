@@ -1,0 +1,1 @@
+ URL : "https://github.com/jonathanhawleypeters/magic-search/issues/20" TITLE : sets are unsupported BODY : considerations: 1. they need their own table like types and subtypes, joined upon query 2. they will allow us to support card art variations 3. when querying, they will likely act as a global filter

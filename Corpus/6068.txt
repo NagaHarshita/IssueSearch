@@ -1,0 +1,1 @@
+ URL : "https://github.com/SaveTheJungle/dsgb/issues/14" TITLE : user и lombok BODY : у user уже есть tostring, при этом на классе висит аннотация ломбока для генерации tostring. нужно выбрать какой-то один из способов и избавиться от другого.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/fwinkelbauer/Cake.Mug/issues/10" TITLE : make mstest task skipable BODY : prior to the latest bug fix the mstest task was skipable if no test dlls were found. this feature got lost and i'd like to re-add it

@@ -1,0 +1,1 @@
+ URL : "https://github.com/timoxley/tojson-loader/issues/1" TITLE : generating json file BODY : this loader just puts a json object into the bundle, but how to separate this? for example i have a file config.json.js, i want it to be compiled into config.json on the dist folder..

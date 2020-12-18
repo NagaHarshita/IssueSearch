@@ -1,0 +1,1 @@
+ URL : "https://github.com/hellowearemito/yii2-sentry/issues/10" TITLE : adding nonstatic tags BODY : its is allready possible to add tags that are not static? did not found a way. something like: 'client' => 'tags' => 'nonstatictag' => function { return $_session 'somesessionvalue' ?? 'default'; } , would be helpful.

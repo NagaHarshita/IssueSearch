@@ -1,0 +1,8 @@
+ URL : "https://github.com/angeloashmore/gatsby-source-prismic/issues/10" TITLE : seo & analytics BODY : - page titles are descriptive and seo friendly
+- all page titles are unique
+- meta data included and appropriate
+- h1s used for page titles and only one h1 per page
+- xml sitemap has been generated and added to root of website
+- robots.txt is generated and added to root of website
+- 301 redirects for existing website are prepared and in place
+- website can be accessed by search engines remove noindex, nofollow for pages - google analytics and relevant analytics/tracking tools installed

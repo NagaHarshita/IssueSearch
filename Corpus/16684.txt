@@ -1,0 +1,1 @@
+ URL : "https://github.com/qri-io/qri/issues/171" TITLE : lint repo package BODY : 148 errors from golint ./... | wc -l . should be 0.

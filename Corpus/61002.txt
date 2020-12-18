@@ -1,0 +1,1 @@
+ URL : "https://github.com/jonahgeorge/jaeger-client-php/issues/14" TITLE : add support for php 5.6 BODY : since php 5.6 will still get support in terms of security until dec 31 2018, i'd say it is a good idea to still support it. http://php.net/supported-versions.php

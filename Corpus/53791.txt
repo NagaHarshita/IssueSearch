@@ -1,0 +1,1 @@
+ URL : "https://github.com/TesseractTeam/Tesseract/issues/1234" TITLE : error? wtf hungerevent BODY : 13.06 19:39:47 server info /19:39:47 critical reflectionexception: class pocketmine\event\player\playerhungerchangeevent does not exist exception in /src/pocketmine/plugin/pluginmanager at line 734

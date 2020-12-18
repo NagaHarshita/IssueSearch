@@ -1,0 +1,1 @@
+ URL : "https://github.com/justinbois/fish-activity/issues/2" TITLE : possible bug with light BODY : check into only have nine hours of light when should be more. i think the bug is in the resampling off by one indexing .

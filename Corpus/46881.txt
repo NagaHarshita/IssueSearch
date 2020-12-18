@@ -1,0 +1,1 @@
+ URL : "https://github.com/adsabs/devtools/issues/1" TITLE : need test ingest data BODY : we need test data for the ingest pipeline. this should be a subset of the actual data and sufficient to create valid metrics data for some bibcodes.

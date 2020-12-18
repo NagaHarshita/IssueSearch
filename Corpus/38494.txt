@@ -1,0 +1,1 @@
+ URL : "https://github.com/moravianlibrary/iOSTiledViewer/issues/13" TITLE : podpora webp formatu BODY : nastaveni formatu webp u obrazu iiif vyvola v testovaci aplikaci chybovou hlasku. je to z toho duvodu, ze nativni prvky ios prozatim nedokazi zpracovat tento format. podporu je nutno naimplementovat dodatecne.

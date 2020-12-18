@@ -1,0 +1,1 @@
+ URL : "https://github.com/dfcreative/nogl/issues/2" TITLE : use in browser? BODY : hi @dfcreative, thank you for creating this. is there a version of this that can be used as a polyfill for browsers that are not supporting webgl? my usecase is trying to use https://github.com/gre/gl-react but with support for as many browsers as i can.

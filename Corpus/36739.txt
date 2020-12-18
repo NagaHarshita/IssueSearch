@@ -1,0 +1,1 @@
+ URL : "https://github.com/DennisFred/extremeSnake/issues/8" TITLE : implement game modes BODY : implement an enum to control which gamemode is currently active: - .basic no powerups, classical snake rules, basic food - .master no powerups, classical snake rules, faster acceleration, diverse food e.g. +2, +3 - .extreme powerups 2 , classical snake rules, diverse food

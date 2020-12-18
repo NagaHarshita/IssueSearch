@@ -1,0 +1,1 @@
+ URL : "https://github.com/HubSpot/vex/issues/246" TITLE : issue in the vex demo BODY : in the main demo: http://github.hubspot.com/vex/docs/welcome/ when trying to click alert , confirm , etc. in the third dialog box, they are not shown. they are hidden between all windows. that looks very strange.

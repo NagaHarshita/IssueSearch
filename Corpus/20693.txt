@@ -1,0 +1,1 @@
+ URL : "https://github.com/mitodl/micromasters/issues/3475" TITLE : create channel api BODY : _part of 3467_ when a staff member creates a channel based on a profile search query , the following actions should be taken: - create channel - create percolate query, similar 2704/pr 2728 - subscribe all users in query result - create users in open discussions as necessary

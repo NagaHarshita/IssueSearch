@@ -1,0 +1,1 @@
+ URL : "https://github.com/Wee-Projects/LinqExtensions/issues/2" TITLE : pipe method BODY : a method that performs an action then passes the value through to the next caller.

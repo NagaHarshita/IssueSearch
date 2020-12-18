@@ -1,0 +1,1 @@
+ URL : "https://github.com/cabol/ex_shards/issues/7" TITLE : spec suggests otherwise BODY : hi @cabol , https://github.com/cabol/ex_shards/blob/master/lib/ex_shards.ex l91 this line of spec seems to be wrong. in my test it seems to return value directly, not a tuple. i'm not sure what the intended behavior is. also, when would it ever be value ?

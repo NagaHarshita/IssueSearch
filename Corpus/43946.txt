@@ -1,0 +1,1 @@
+ URL : "https://github.com/kinvolk/kube-spawn/issues/172" TITLE : document new features BODY : - file binding/copying: https://github.com/kinvolk/kube-spawn/issues/148 - multiple cluster environment workflow https://github.com/kinvolk/kube-spawn/issues/147

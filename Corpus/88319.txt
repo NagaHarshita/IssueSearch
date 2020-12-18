@@ -1,0 +1,1 @@
+ URL : "https://github.com/kounkou/Staples/issues/6" TITLE : need to delete qquickview BODY : the qquickview created in staplesapplicationisn't deleted. this will definetely cause a memory problem.

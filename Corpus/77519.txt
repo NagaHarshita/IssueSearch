@@ -1,0 +1,1 @@
+ URL : "https://github.com/alm-tools/alm/issues/426" TITLE : new proplem after alm -i BODY : now it say right after alm -i >alm version: 2.30.0 dashboard: please open in chrome http://localhost:4444 tsconfig: error key: 'jsx' has an invalid value: none

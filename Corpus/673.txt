@@ -1,0 +1,1 @@
+ URL : "https://github.com/kokke/tiny-AES-c/issues/64" TITLE : ecb or cbc BODY : the readme says, > gcc size output when only ecb mode is ... but the command is arm-none-eabi-gcc -os -c aes.c -dcbc=0 is that a typo?

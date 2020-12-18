@@ -1,0 +1,1 @@
+ URL : "https://github.com/javiersantossanchez/secureBanking/issues/6" TITLE : add controls for bank name BODY : it's necesary add a textbox for allows user writes bank name. 1. create textbox on view. 2. update of bank information save process into json file to add the new bank name field. 3. update of bank information load process to add the new bank name field.

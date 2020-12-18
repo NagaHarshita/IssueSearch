@@ -1,0 +1,1 @@
+ URL : "https://github.com/channelcat/sanic/issues/336" TITLE : no url_for function BODY : is there will be url_for in sanic likes flask.url_for in the future? i think it's not a good idea to hard code the url when redirect in code and make url in template.

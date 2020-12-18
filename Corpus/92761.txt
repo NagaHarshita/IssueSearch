@@ -1,0 +1,1 @@
+ URL : "https://github.com/monofuel/badmars/issues/50" TITLE : 3d models - internal faces BODY : internal faces on models like the factory smoke stacks should be filled in with a black 'internal' material that does not reflect.

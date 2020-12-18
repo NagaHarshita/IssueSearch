@@ -1,0 +1,1 @@
+ URL : "https://github.com/qlixed/memwiper/issues/4" TITLE : add some performance test BODY : make a test that get some performance numbers to compare over the platforms and python releases.

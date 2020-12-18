@@ -1,0 +1,1 @@
+ URL : "https://github.com/dislick/ts-pwgen/issues/9" TITLE : add a --version option BODY : give the user an option to see the version they are using with a --version flag.

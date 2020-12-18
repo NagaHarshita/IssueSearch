@@ -1,0 +1,1 @@
+ URL : "https://github.com/crysislinux/chrome-react-perf/issues/12" TITLE : unable to get any data BODY : i'm using react 15.4.2 and i cannot get any data in the perf panel. i'm building with grunt, window.perf is available in the window, i hit start, and stop but no data is collected. any clue would be appreciated.

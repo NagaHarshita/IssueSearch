@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpenBCI/OpenBCI_GUI/issues/271" TITLE : add: board mode selection BODY : originally from 264 and @gerrievanzyl feature description: add one extra selection to the gui before start system to allow the user to set the board mode accel, timesync, marker, etc

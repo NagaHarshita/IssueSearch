@@ -1,0 +1,1 @@
+ URL : "https://github.com/survivejs/maintenance-book/issues/39" TITLE : references to lint-staged BODY : i notice that the code formatting chapter says lint-staged is discussed in the linting chapter then the linting chapter says it is discussed in the automation chapter.

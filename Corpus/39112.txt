@@ -1,0 +1,1 @@
+ URL : "https://github.com/codeabovelab/haven-platform/issues/35" TITLE : reset admin password BODY : i reup haven: 1. stop and rm haven container 2. stop and rm etcd0 container 3. delete data dirs 4. up etcd0 and haven conteiners but i canot login with admin/passwor what am i doing wrong?

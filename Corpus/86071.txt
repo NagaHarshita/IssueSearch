@@ -1,0 +1,1 @@
+ URL : "https://github.com/hazelcast/hazelcast-jet-code-samples/issues/12" TITLE : gitignore file incomplete BODY : it doesn't exclude .checkstyle files, so the repo contains more than it should.

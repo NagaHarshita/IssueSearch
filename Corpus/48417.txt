@@ -1,0 +1,1 @@
+ URL : "https://github.com/american-art/SAAM/issues/23" TITLE : saam: id is parasitic BODY : a nit-picking about urls: http://data.americanartcollaborative.org/saam/object/id/2 http://data.americanartcollaborative.org/saam/constituent/id/2 these sound like the data is about some ids. in fact the data is about objects, respectively constituents. remove /id from the url

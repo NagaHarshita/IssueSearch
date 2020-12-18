@@ -1,0 +1,1 @@
+ URL : "https://github.com/KHardern/VatsimSSO/issues/8" TITLE : class not found BODY : class 'vatsim\oauth\oauthserviceprovider' not found in laravel 5.3 how to add providers in config/app.php file.. kindly help me

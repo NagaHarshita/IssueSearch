@@ -1,0 +1,1 @@
+ URL : "https://github.com/influxdata/influxdata-docker/issues/180" TITLE : typo on docker.com BODY : hi guys, just found this typo. in the manually initializing the database section of https://hub.docker.com/_/influxdb/ the influxdb_admin_user env variable is passed twice, instead of the password. cheerio paul

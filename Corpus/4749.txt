@@ -1,0 +1,1 @@
+ URL : "https://github.com/NeuroDataDesign/orange-panda/issues/59" TITLE : for april 10th BODY : thursday commitments | status | task | deliverable | |:-------:|---------------|------------------| | | present the joint prob. and kurtosis electrodes in a more clear manner | @nkumarcc | | | benchmark the eeglab functions vs ours | @nkumarcc |

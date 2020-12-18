@@ -1,0 +1,1 @@
+ URL : "https://github.com/prabirshrestha/asyncomplete.vim/issues/43" TITLE : add support for clang? BODY : when using deoplete, i use deoplete-clang2 or deoplete-clang, will this plugin support clang sources?

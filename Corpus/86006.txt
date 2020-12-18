@@ -1,0 +1,6 @@
+ URL : "https://github.com/CreatorDev/embedded-squad-topics/issues/5" TITLE : get iot container working BODY : acceptance criteria:
+- openwrt creator v2 launched within a container on baikal
+- container is spun up from the controller command line
+- container coexists with audio master container
+- creator mage is hosted remotely so controller uses network to load the image
+- no manual setup is needed for demo purposes - image is supplied to community team for workshop bringup

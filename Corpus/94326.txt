@@ -1,0 +1,1 @@
+ URL : "https://github.com/blixit/jsonlikeql/issues/2" TITLE : call to real sql functions BODY : in the 1st design, i forgot to include sql functions calls. it will be added to the 2nd version.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/carlansley/swagger2-koa/issues/12" TITLE : how to prefix routes? BODY : is there a way to define a prefix for routes? eg i have everything under a /user route and all the items i define under that route would prefix with /user . also, multiple router / prefixes , eg /user , /posts ?

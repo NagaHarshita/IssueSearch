@@ -1,0 +1,1 @@
+ URL : "https://github.com/arduino/Arduino/issues/6924" TITLE : library manager add lcd03 BODY : lcd03 is an arduino library for i2c control of the lcd03 20x4 and 16x2 serial lcd modules from robot electronics. https://github.com/andatche/arduino-lcd03 thanks!

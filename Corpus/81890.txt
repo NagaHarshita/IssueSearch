@@ -1,0 +1,1 @@
+ URL : "https://github.com/jaxfire/Twitter-Velocity-Graph/issues/2" TITLE : access to individual bars BODY : cannot gain access tot he individual bar objects in the chart. have tried numerous ways of constructing the chart but still the bars arrays is undefined.

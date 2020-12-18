@@ -1,0 +1,1 @@
+ URL : "https://github.com/wso2/msf4j/issues/357" TITLE : support patch annotation. BODY : need to provide patch annotation from msf4j core. refer dev mail thread http verb patch support for msf4j

@@ -1,0 +1,1 @@
+ URL : "https://github.com/suggestgrid/suggestgrid-net/issues/3" TITLE : use nuget 4.3 BODY : nuget supports semver 2.0 version names since version 4.3. upgrading nuget would allow us to have rc tags of suggestgrid-net.

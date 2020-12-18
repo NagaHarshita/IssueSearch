@@ -1,0 +1,1 @@
+ URL : "https://github.com/Moeby/FlatsharePlanner/issues/45" TITLE : implement data classes BODY : create a class for each table in our model. __don't forget to include the ids!__ __for foreign keys: include attribute of class itself, not int__

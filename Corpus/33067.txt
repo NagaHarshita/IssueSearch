@@ -1,0 +1,1 @@
+ URL : "https://github.com/WALL-E/dive-in-kong/issues/4" TITLE : a critical code path BODY : location / { rewrite_by_lua_block { kong.rewrite } access_by_lua_block { kong.access } proxy_pass $upstream_scheme://kong_upstream$upstream_uri; header_filter_by_lua_block { kong.header_filter } body_filter_by_lua_block { kong.body_filter } log_by_lua_block { kong.log } }

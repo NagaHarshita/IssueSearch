@@ -1,0 +1,1 @@
+ URL : "https://github.com/sunjun-group/Ziyuan/issues/55" TITLE : l2t memory explosion issue BODY : hi @lylytran i am running the experiment and find that the program always consumes the memory to its limited size. in my case, it takes 40g of memory on the server. i am not sure which part leaks the memory. would you please have a look at it? thanks!

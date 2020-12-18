@@ -1,0 +1,1 @@
+ URL : "https://github.com/auth0/auth0.net/issues/156" TITLE : .net core 2.0 BODY : are there any plans to move these libraries from netcoreapp1.1 to netcoreapp2.0? when i build the client application against 2.0, i get strange errors with your libraries. have you planned a conversion, the libraries haven't received commits in a few months?

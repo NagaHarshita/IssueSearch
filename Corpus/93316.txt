@@ -1,0 +1,1 @@
+ URL : "https://github.com/argaen/aiocache/issues/330" TITLE : add protobuf serialization BODY : need some more research but this may be useful for grpc services although asyncio support for grpc seems is not there yet, other services sharing the same cache may benefit from that serialization

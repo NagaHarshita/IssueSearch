@@ -1,0 +1,1 @@
+ URL : "https://github.com/jens-maus/RaspberryMatic/issues/60" TITLE : unable to install addons BODY : hi, i'm unable to install any kind of addon. i tried: - webmatic - watchdog - hq-webui but after upload nothing happend. my system: raspberry pi 3 software-version:	2.25.15.20170114 rf: hm-mod-rpi-pcb kind regards, sören

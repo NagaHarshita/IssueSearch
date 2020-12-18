@@ -1,0 +1,1 @@
+ URL : "https://github.com/elucideye/drishti/issues/504" TITLE : helper for -framework BODY : use pseudo-package to apply -framework ... linker flags.

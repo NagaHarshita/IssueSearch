@@ -1,0 +1,1 @@
+ URL : "https://github.com/tiny-dnn/tiny-dnn/issues/737" TITLE : does this library dead? BODY : ...... cmake, build by vc, mnist example, train, the result: accuracy:19.7115% 41/208 1 2 3 4 5 1 41 52 50 49 16 2 0 0 0 0 0 3 0 0 0 0 0 4 0 0 0 0 0 5 0 0 0 0 0 i have not change any things, but the result is so bad, what is this example for doing?

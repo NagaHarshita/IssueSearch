@@ -1,0 +1,1 @@
+ URL : "https://github.com/CharlesStover/cspage/issues/4" TITLE : cache external favicons BODY : cache favicon to the local cache directory no matter what. this way, get_mime_type on an external link won't have to re-download the file each time and will instead just check the local copy.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/open-switch/ops-quagga/issues/5" TITLE : how cai i debug my ospf? BODY : recently,i've spent many days to transplant quagga into my switch,but when i run ospf , it hasn't any response and no 'hello' packet. it always fail in ospf_network_run_interface. have i losed somthing?

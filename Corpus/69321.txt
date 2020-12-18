@@ -1,0 +1,1 @@
+ URL : "https://github.com/JordanRickman/builder-js/issues/9" TITLE : support truthy booleans BODY : a parameter of boolean type can have the istruthy attribute, in which case its set... method checks the truthiness of its input - converting it to a true boolean but allowing arguments of any type.

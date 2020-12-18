@@ -1,0 +1,1 @@
+ URL : "https://github.com/juanibiapina/king/issues/6" TITLE : fix escape delay BODY : currently esc has a delay of 1 second. the environment variable escdelay can be used to overwrite this behavior in ncurses, but this should be set by the application itself.

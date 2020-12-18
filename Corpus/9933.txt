@@ -1,0 +1,1 @@
+ URL : "https://github.com/rbcunhadesign/simple-cms/issues/3" TITLE : add roles to cms BODY : add roles to cms. - admin can access any page and make modifications to any posts - editor can post/publish/delete own posts only - subscriber can view and comment on posts - non logged in users can share posts

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ScreamingUdder/kafka-EventMessage-visualisation-streamer/issues/14" TITLE : create heatmap object BODY : create a heatmap object with relevant utilities, in order to have static data available between processing batches

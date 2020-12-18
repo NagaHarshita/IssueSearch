@@ -1,0 +1,1 @@
+ URL : "https://github.com/ezekielchentnik/preact-pwa/issues/6" TITLE : usage without express? BODY : is it somehow possible to make a static build, using preact to string and then upload it to a server that doesn't run node?

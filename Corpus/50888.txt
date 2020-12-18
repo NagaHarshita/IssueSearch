@@ -1,0 +1,1 @@
+ URL : "https://github.com/thomaswilburn/Caret/issues/556" TITLE : add delete line hotkey BODY : keys.json does not have a delete line hotkey right now which is at least surprising since it is one of the most frequent operations when writing / editing code. please add it.

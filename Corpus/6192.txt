@@ -1,0 +1,1 @@
+ URL : "https://github.com/petervojtek/email-to-kindle-on-fridge/issues/1" TITLE : $image is empty BODY : hi, i'm trying to use this script but always the $image variable is empty in all times. the rest of the mail is read out correctly and the image is visible in the gmail web client do you know how to fix this?

@@ -1,0 +1,11 @@
+ URL : "https://github.com/NOAA-PMEL/Ferret/issues/911" TITLE : tax_jday skips a day BODY : reported by ansley b manke on 12 feb 2009 17:27 utc martin schmidt, 2/11/2009 here i change the example slightly, making the axis coordinates every 12 hours rather than every hour i need the julian day of a time axis for tsome calculation and discovered the function tax_jday. i tried define axis/t=1-dec-1998:31-jan-2001:12/unit=hours/t0=1-jan-1955/cal=gregorian tax
+define grid/t=tax tgrid
+let tdummy=0 t rjulianday = tax_jday t gt=tdummy gt=tgrid let ,tdummy list/t=27-feb-1999:02-mar-1999/prec=8 rjulianday ! the result is correct, days 58,59,60,61. !now look to somewhere else
+list/t=31-dec-1999:02-jan-2000/prec=8 rjulianday ! the result is correct also, days 365,1,2 ! now list the first time region again.
+list/t=27-feb-1999:02-mar-1999/prec=8 rjulianday not bad, ferret gives us one additional day, or depending on the point of view has stolen one day. 28-feb-1999 21:00 / 2158: 59.000000
+28-feb-1999 22:00 / 2159: 59.000000
+28-feb-1999 23:00 / 2160: 59.000000
+01-mar-1999 00:00 / 2161: 61.000000
+01-mar-1999 01:00 / 2162: 61.000000
+01-mar-1999 02:00 / 2163: 61.000000 seems, that touching 2000 marks the year as a leap year, which is not taken back returning to 1999.
+the first real y2k-bug i ever saw. :- migrated-from: http://dunkel.pmel.noaa.gov/trac/ferret/ticket/1639

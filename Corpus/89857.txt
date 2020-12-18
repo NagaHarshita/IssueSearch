@@ -1,0 +1,1 @@
+ URL : "https://github.com/IBM/ubiquity-k8s/issues/47" TITLE : removing vendor directory BODY : - remove vendor directory - add script to generate vendor - change .gitignore

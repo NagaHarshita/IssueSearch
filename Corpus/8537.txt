@@ -1,0 +1,1 @@
+ URL : "https://github.com/up1/soa_group7/issues/24" TITLE : permit some uri BODY : permit some uri that don't require jwt e.g. /posts/{id}, /users/{user_id}/posts .

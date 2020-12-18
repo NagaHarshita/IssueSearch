@@ -1,0 +1,1 @@
+ URL : "https://github.com/casadi/casadi/issues/1969" TITLE : bugs in switch codegen BODY : the switch codegen doesn't handle null arguments correctly.

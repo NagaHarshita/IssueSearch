@@ -1,0 +1,1 @@
+ URL : "https://github.com/auxiliumsec/docker_crits_services/issues/3" TITLE : pyew does not work BODY : when running the container the pyew service does not complete

@@ -1,0 +1,1 @@
+ URL : "https://github.com/sekainogenkai/faito/issues/1" TITLE : add loading screen BODY : the 3.7mb webpack bundle takes forever to download so should have a loading screen and maybe progress if possible hacked in.

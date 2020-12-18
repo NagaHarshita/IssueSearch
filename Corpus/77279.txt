@@ -1,0 +1,1 @@
+ URL : "https://github.com/otetard/ownpad/issues/28" TITLE : multi-sheet doesn't work BODY : hi, ownpad can not display the spreadsheets i created. i found internetshortcut is correct. however, = is encoded to %3d in the viewer.php. then ethercalc server is not able to recognize the name. i use owncloud 9.

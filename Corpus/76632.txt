@@ -1,0 +1,1 @@
+ URL : "https://github.com/alkukampela/curling/issues/60" TITLE : lisätään peleille ttl BODY : jokainen pelin tilanteen päivitys käytännössä pelin aloittaminen ja heiton jälkeinen kirjanpitotoimenpide kasvattaa pelin ttl:ää x min, aloitetaan vaikka arvolla 15 min.

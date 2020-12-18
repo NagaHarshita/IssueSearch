@@ -1,0 +1,1 @@
+ URL : "https://github.com/tcdent/php-restclient/issues/26" TITLE : repeat parameter key BODY : is it possible to post a repeatable parameter key like this? { repeatablekey : { bla : bla , bla : bla , }, repeatablekey : { bla : bla , bla : bla , }, repeatablekey : { bla : bla , bla : bla , } } regards, bas

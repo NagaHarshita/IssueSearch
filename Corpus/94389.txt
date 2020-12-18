@@ -1,0 +1,1 @@
+ URL : "https://github.com/Camelcade/Perl5-IDEA/issues/1437" TITLE : can't debug array or hash? BODY : when i debug the program , i need to know all elements of an array , but it show me a number? does the debugger only use scalar environment?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/inspirehep/inspire-next/issues/2418" TITLE : create rt api BODY : utility for rt to be used across all modules editor and holdingpen needed actions - get all tickets by recordid - close a ticket - get rt users - get queue names - create a ticket - update a ticket by ticket_id

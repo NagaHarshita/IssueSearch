@@ -1,0 +1,1 @@
+ URL : "https://github.com/dansiegel/Prism-Templates/issues/20" TITLE : i am unable to include uwp BODY : this is what i am using dotnet new prismforms -id com.dinkkiia.workandplay -n dinkkiia.workandplay --include-uwp true -fr netstandard2.0 -di unity -data azuremobileclient -barcode true

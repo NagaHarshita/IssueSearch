@@ -1,0 +1,1 @@
+ URL : "https://github.com/irina-tsedryk/JS/issues/6" TITLE : left menu from json BODY : 1 add json file with left menu description. menu should have next structure { title : about us , link : /about.html }, { title : managment , link : /managment.html }, ..... 2 add script to read this file and build menu from script.

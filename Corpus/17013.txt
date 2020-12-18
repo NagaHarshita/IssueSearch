@@ -1,0 +1,1 @@
+ URL : "https://github.com/goreliu/wsl-terminal/issues/29" TITLE : multi tab support BODY : i hope use multi tab in a window, instead of open many terminal with many window. i tried tmux, but failed.

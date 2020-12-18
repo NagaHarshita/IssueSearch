@@ -1,0 +1,1 @@
+ URL : "https://github.com/assemblee-virtuelle/wp-ldp/issues/79" TITLE : adapt the context protocol BODY : as every json-ld context file is available in both http and https, it should be ok to define the context file protocol we are targeting based on the current site protocol, in order to avoid mixed-content conflicts.

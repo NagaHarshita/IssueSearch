@@ -1,0 +1,1 @@
+ URL : "https://github.com/matthewbadeau/club/issues/6" TITLE : create admin/user roles BODY : create customizable roles to users created in 2. these are separate from the subscription levels in 4 for example: membership coordinator - has access to membership list & can sign up users manager - can suspend/cancel subscriptions for users

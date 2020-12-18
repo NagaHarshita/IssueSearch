@@ -1,0 +1,1 @@
+ URL : "https://github.com/geneontology/go-ontology/issues/13238" TITLE : typo - go:0120008 BODY : there's a superfluous space in the label of go:0120008: positive regulation of glutamatergic neuron differentiation should be: positive regulation of glutamatergic neuron differentiation

@@ -1,0 +1,1 @@
+ URL : "https://github.com/joda-project/joda-backend/issues/5" TITLE : add auth_key dumper tool BODY : dump auth_key to be used in joda .env .

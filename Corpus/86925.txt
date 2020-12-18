@@ -1,0 +1,1 @@
+ URL : "https://github.com/CreatorDev/LetMeCreateIoT/issues/27" TITLE : increase uart buffer size BODY : currently using ring buffer which is limited to 128 bytes, ideally we'd like this to be higher since clicks like lora can send messages which are over 200 bytes big.

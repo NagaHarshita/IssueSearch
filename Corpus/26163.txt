@@ -1,0 +1,1 @@
+ URL : "https://github.com/PHP-on-Couch/PHP-on-Couch/issues/44" TITLE : add update function BODY : add an update function that simplify updating does the fetch/put for you

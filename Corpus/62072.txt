@@ -1,0 +1,1 @@
+ URL : "https://github.com/StephenGrider/ReduxSimpleStarter/issues/89" TITLE : can't update in browser BODY : stupid question: am i supposed to be able to make a change in the index.js file and see that change reflected in the browser out of the box aka with no modifications to any of this code ?

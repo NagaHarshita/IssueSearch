@@ -1,0 +1,1 @@
+ URL : "https://github.com/tootsuite/mastodon/issues/1454" TITLE : api follow isn't working BODY : i'm trying to use the follow/unfollow functionality of the mastodon api, and i always get back a notfound status code. i'm using the route provided in the documentation get /api/v1/accounts/:id/follow , is the documentation still updated/valid for those operations?

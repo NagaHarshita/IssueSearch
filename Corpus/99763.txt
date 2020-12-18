@@ -1,0 +1,1 @@
+ URL : "https://github.com/elastic/beats/issues/3604" TITLE : new protocol: ssl envelope BODY : add protocol analyzer for parsing and analyzing the ssl envelope. information like protocol used und cipher suites can still be gathered. some information gathered can be added to flows. this is not about decrypting the payload!

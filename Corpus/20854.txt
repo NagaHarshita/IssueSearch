@@ -1,0 +1,1 @@
+ URL : "https://github.com/melovedownvotes/Phorsaken/issues/29" TITLE : database and cache BODY : use sqlite for database to save permanent data and theme worlds built. use lmdb for key/value and cache. setup database in own class for common operations and lmdb as a top level file but with common operations in engine.

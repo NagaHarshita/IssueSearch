@@ -1,0 +1,1 @@
+ URL : "https://github.com/chrisvfritz/vue-2.0-simple-routing-example/issues/8" TITLE : npm run dev throws error BODY : i run npm install now running npm run dev but i get an error tell the author that this fails on your system: npm err! webpack-dev-server --inline --hot

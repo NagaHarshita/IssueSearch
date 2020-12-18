@@ -1,0 +1,1 @@
+ URL : "https://github.com/googlegenomics/dsub/issues/64" TITLE : does this support gpu? BODY : i saw this article https://medium.com/google-cloud/jupyter-tensorflow-nvidia-gpu-docker-google-compute-engine-4a146f085f17 that run docker w/ gpu on gcp. is this possible for dsub and pipeline api?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/korfuri/django-prometheus/issues/53" TITLE : metrics not rendering BODY : django version 1.11.5 does not render metrics when hitting /metrics

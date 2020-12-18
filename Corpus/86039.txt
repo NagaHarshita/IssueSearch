@@ -1,0 +1,1 @@
+ URL : "https://github.com/tahseen0amin/TZSegmentedControl/issues/4" TITLE : getting error in swift4.0 BODY : could not cast value of type 'swift.string' 0x10d7786f8 to '__c.nsattributedstringkey' 0x1079d37d8 . 2017-11-16 11:32:43.282049+0530 app 3780:112378 could not cast value of type 'swift.string' 0x10d7786f8 to '__c.nsattributedstringkey' 0x1079d37d8 .

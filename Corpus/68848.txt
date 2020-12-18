@@ -1,0 +1,1 @@
+ URL : "https://github.com/mesmollar/bapi-p3-the-scoop/issues/1" TITLE : simplify: if conditions BODY : https://github.com/mesmollar/bapi-p3-the-scoop/blob/master/project%203%20submission/server.js l180-l183 this can be simplified, as you repeat some conditions multiple times.

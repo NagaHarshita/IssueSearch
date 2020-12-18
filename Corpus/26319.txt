@@ -1,0 +1,1 @@
+ URL : "https://github.com/dotnet/coreclr/issues/9946" TITLE : android: next steps BODY : with 9913 resolved, .net core on 64-bit android can now run a basic hello world app. i'm opening this issue to see what the next steps would be. that would include: - ci builds or at least standardized builds which can be used to create nuget packages - assigning a rid for android

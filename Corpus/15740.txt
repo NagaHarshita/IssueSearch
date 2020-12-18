@@ -1,0 +1,1 @@
+ URL : "https://github.com/nyscapes/nywalker/issues/13" TITLE : fix editing modal BODY : it seems like it blanks out the source and other data, making it clobber friendly if all you want to do is update the name.

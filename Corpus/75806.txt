@@ -1,0 +1,1 @@
+ URL : "https://github.com/lordfriend/Albireo/issues/78" TITLE : image fetch unsuccessful BODY : when add a new bangumi in admin, the image of bangumi is not fetched successfully. this results a serious error in home/on_air api which the cover_image property is null.

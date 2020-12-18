@@ -1,0 +1,1 @@
+ URL : "https://github.com/micmro/PerfCascade/issues/190" TITLE : ie/edge overlay broken BODY : ! ms edge bug https://cloud.githubusercontent.com/assets/1680390/24320139/7331c3de-10ec-11e7-8d5d-5912f6bc44a2.png the reason for this bug is ie and edge do not support css transforms on svg, but we can use the svg transform attribute instead. http://caniuse.com/ search=transform

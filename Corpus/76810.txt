@@ -1,0 +1,1 @@
+ URL : "https://github.com/cburgmer/cjklib/issues/11" TITLE : make it run with python3 BODY : it would be great if this library could work with python3, and, by extension, with a recent version of sqlalchemy.

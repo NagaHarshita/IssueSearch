@@ -1,0 +1,1 @@
+ URL : "https://github.com/Hederis/mammoth-verbose/issues/7" TITLE : delete zip upon completion BODY : the temp zip file isn't getting deleted when the script finishes.

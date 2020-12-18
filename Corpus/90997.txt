@@ -1,0 +1,1 @@
+ URL : "https://github.com/getgauge/gauge-vscode/issues/85" TITLE : support for ruby language BODY : expected behavior support features that currently works only on javascript. goto definition find step references generate implementation stub etc

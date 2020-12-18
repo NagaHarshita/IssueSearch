@@ -1,0 +1,1 @@
+ URL : "https://github.com/ansible/ansible/issues/32055" TITLE : consul_kv misnamed in BODY : typo: 'lookup: cartesian' should read 'lookup: consul_kv' https://github.com/ansible/ansible/blob/905d71d46a1028337b87c0b61115017688463976/lib/ansible/plugins/lookup/consul_kv.py l8

@@ -1,0 +1,1 @@
+ URL : "https://github.com/sonny-blaine/integrator/issues/88" TITLE : alterações nas entidades BODY : o que deve ser feito - adicionar descrição nos sources. - verificar índices das tabelas para garantir boa performance das buscas. - adicionar datas aos sources requests e aos destinations requests

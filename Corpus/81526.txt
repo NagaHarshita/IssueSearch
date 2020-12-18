@@ -1,0 +1,1 @@
+ URL : "https://github.com/WWAWing/WWAWing/issues/21" TITLE : ゼロ除算 wwa wing xe BODY : @hirarira @90c42a7 で追加されたユーザ変数の割り算を行う関数 「 setuservaldiv 」 マクロ $var_div には、ゼロ除算を行ってしまうことがあります。0で割った場合には代入先の変数に nan が代入されてしまうようです。 ユーザ変数は小数点代入を許可しない場合は「整数」とのことでしたので、 ご検討いただければと思います。 よろしくお願いします。

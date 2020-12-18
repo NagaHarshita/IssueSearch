@@ -1,0 +1,1 @@
+ URL : "https://github.com/thememachine/eleven/issues/68" TITLE : devel table issues page BODY : where url --- http://thunder.dd:8083/admin/config/development/devel test urls - drupal.org - morten.dk recreate issue --- screenshots ! image https://cloud.githubusercontent.com/assets/65756/26755614/eced84a2-4890-11e7-93f2-625968bc6401.png

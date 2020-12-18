@@ -1,0 +1,1 @@
+ URL : "https://github.com/emersion/gradualspan/issues/2" TITLE : write multiple dot files BODY : dot doesn't support rendering multiple graphs from the same dot file.

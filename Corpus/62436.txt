@@ -1,0 +1,1 @@
+ URL : "https://github.com/mini-kep/db/issues/19" TITLE : codecov not implemented BODY : travis call is simply pytest now, not creating .coverage file

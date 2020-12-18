@@ -1,0 +1,1 @@
+ URL : "https://github.com/mrdoob/three.js/issues/12949" TITLE : objloader doesn't work? BODY : i have included the three.js file in my html page, but i cannot seem to use objloader? i downloaded the master zip, and looked in the src folder but couldn't find it in there either?

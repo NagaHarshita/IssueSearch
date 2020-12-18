@@ -1,0 +1,1 @@
+ URL : "https://github.com/lucaskolstad/rBCM/issues/5" TITLE : test case submission BODY : https://pastebin.com/wubdgegy this fails because it does not currently check that parallel is false and that the length could be >1024. trivial to fix adding an if statement for both

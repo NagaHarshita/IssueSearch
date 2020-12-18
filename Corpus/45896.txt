@@ -1,0 +1,1 @@
+ URL : "https://github.com/juju/juju-gui/issues/3105" TITLE : issue adding ssh keys BODY : when using the deployment flow to add ssh keys it worked fine when i used huwshimi it added a key but then i added a second username hatched and it added a whole bunch of keys.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/brianbancroft/ttc-clustering/issues/5" TITLE : have explicit time column BODY : - mod migrations to take in sequelize.date - have each record place time - secondssincelast as date - integrate date into other routes

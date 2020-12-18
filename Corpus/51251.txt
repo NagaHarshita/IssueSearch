@@ -1,0 +1,1 @@
+ URL : "https://github.com/buggy/generator-shopify-react-app/issues/37" TITLE : add webpack css loader BODY : add the css loader https://github.com/webpack-contrib/css-loader for webpack. look at using import @shopify/polaris/styles.css ;

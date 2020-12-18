@@ -1,0 +1,1 @@
+ URL : "https://github.com/ZeroK-RTS/Zero-K/issues/1856" TITLE : merge player names BODY : make an api widget which detects commshare and returns merged names, i.e., an aquafrog generator. make widgets such as tooltip and awards use these names. the first name could be the squad leader. figure out a non-silly way to merge names.

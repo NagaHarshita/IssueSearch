@@ -1,0 +1,1 @@
+ URL : "https://github.com/agdsn/pycroft/issues/113" TITLE : display cache usage BODY : we should at least display if a user has opted-in for the cache, even better would be the possibility to toggle that as in the hausübersicht.

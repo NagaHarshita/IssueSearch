@@ -1,0 +1,1 @@
+ URL : "https://github.com/kuqadk3/Winrarer-Ransomware/issues/2" TITLE : global program files BODY : might want to use the global windows var for program files directory and not hard code it in main.cpp

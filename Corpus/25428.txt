@@ -1,0 +1,1 @@
+ URL : "https://github.com/codex-team/codex.editor/issues/231" TITLE : модуль saver BODY : - переписать на классы - отрефакторить - задокументировать код и улучшить работу методов - сохранение делать асинхронным, использовать метод utils.sequence

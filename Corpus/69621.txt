@@ -1,0 +1,1 @@
+ URL : "https://github.com/geosolutions-it/MapStore2/issues/2342" TITLE : tiles errors management BODY : we should improve the management of errors generated from tile loading. now the layer is disabled if all the tile loaded on screen throw an error but in some cases it doesn't mean that the layer is broken. e.g. when some zoom levels are disabled from server

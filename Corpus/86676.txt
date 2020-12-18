@@ -1,0 +1,1 @@
+ URL : "https://github.com/FriendsOfVictoire/WidgetVideoBundle/issues/2" TITLE : implement broadcaster api BODY : instead of using concatenation use broadcaster api to build iframe player

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ViDA-NYU/reproserver/issues/14" TITLE : dind is slow BODY : this might be because i'm running aufs on server.reprozip.org, which means the dind is using vfs. i should update the host docker to the latest release from docker-ce instead of running stable from kubernetes , and switch the storage driver to overlay2, so i can run dind using overlay2.

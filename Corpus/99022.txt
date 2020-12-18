@@ -1,0 +1,1 @@
+ URL : "https://github.com/TimothyLuke/GnomeSequencer-Enhanced/issues/352" TITLE : macro named pvp breaks gse BODY : similar to 322 if a macro is called pvp it will freeze the gse out of combat queue

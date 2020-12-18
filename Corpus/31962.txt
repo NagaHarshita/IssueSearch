@@ -1,0 +1,1 @@
+ URL : "https://github.com/artsy/positron/issues/1240" TITLE : text selection bugs BODY : reported by molly -- in edit text section sometimes style commands fail/glitch when selecting paragraphs with multiple overlapping inline styles.

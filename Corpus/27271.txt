@@ -1,0 +1,1 @@
+ URL : "https://github.com/brandonsoto/christmas-lights/issues/1" TITLE : create dynamic snow BODY : the snow function is in desperate need of a makeover. need to find a way to create dynamic snow that doesn't require a matrix refresh and that doesn't go over memory limits.

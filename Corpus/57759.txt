@@ -1,0 +1,1 @@
+ URL : "https://github.com/flyve-mdm/flyve-mdm-android-inventory/issues/38" TITLE : release from the ci/cd BODY : hi, @rafaelje these are features missed on the ci in the master branch push. - generate changelog - update the package.json - release description - merge back the develop branch please add these features asap. thanks.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/youyongsong/uam/issues/41" TITLE : uam source alias function BODY : use uam source alias can reduce the app name length. source alias should be written in uam configfile ~/.uam/uamrc . example: local default=true source_type=file source_dir=/home/manifests/ now uam install python equals uam install file::/home/manifests/python.yaml .

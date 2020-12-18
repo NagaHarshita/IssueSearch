@@ -1,0 +1,1 @@
+ URL : "https://github.com/jasonkuhrt/website/issues/1" TITLE : migrate to nextjs BODY : migrate to next for simpler codebase migrate to now to avoid lame lack of pdf support in surge link https://github.com/sintaxi/surge/issues/257 migrate to now to avoid issue with https link https://github.com/sintaxi/surge/issues/196 issuecomment-331945447

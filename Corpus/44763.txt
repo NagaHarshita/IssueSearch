@@ -1,0 +1,1 @@
+ URL : "https://github.com/abstractfactory/maya-capture/issues/81" TITLE : fix py linting errors BODY : vscode is warning on pep8 linting issues. nothing major, just some stray spaces and indentation errors. it would be good to fix them. will do a pr 🙂

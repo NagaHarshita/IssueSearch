@@ -1,0 +1,1 @@
+ URL : "https://github.com/playmer/JoshPlayer/issues/2" TITLE : display album art BODY : when we display album art, we look at all the images jpg, jpeg, png, whatever and we prefer images that begin with the name front .

@@ -1,0 +1,10 @@
+ URL : "https://github.com/PennyDreadfulMTG/Penny-Dreadful-Tools/issues/3427" TITLE : 500 error at /export/6435/ BODY : failed to execute insert into card layout values %s with 'normal' because of 1205, 'lock wait timeout exceeded; try restarting transaction' reported on decksite by logged_out
+--------------------------------------------------------------------------------
+request method: get
+path: /export/6435/?
+cookies: {'__cfduid': 'd4581ed7048c7d6144f5d97bf5388ec171512687579', '_ga': 'ga1.2.769151333.1512687588', '_gid': 'ga1.2.1421877913.1512687588', '_gat_gtag_ua_109131120_1': '1'}
+endpoint: export
+view args: {'deck_id': '6435'}
+person: logged_out
+user-agent: mozilla/5.0 windows nt 6.1; win64; x64 applewebkit/537.36 khtml, like gecko chrome/63.0.3239.84 safari/537.36
+referrer: https://pennydreadfulmagic.com/decks/6435/

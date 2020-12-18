@@ -1,0 +1,1 @@
+ URL : "https://github.com/slarse/pdfebc/issues/23" TITLE : refactor cli arguments BODY : remove redundant arguments, add new arguments, rename arguments. remove redundat arguments: - --nomakedir add new arguments: - --configstatus rename arguments: - -src/--sourcedir -> -in/--inputdir

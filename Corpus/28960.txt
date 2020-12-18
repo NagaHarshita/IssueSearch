@@ -1,0 +1,1 @@
+ URL : "https://github.com/Abhi2424shek/img_checker/issues/27" TITLE : improve rspec tests BODY : the rspec tests are only checking a part of the code and not the entire code, it must therefore check the entire code to see that all the functions are working very well.

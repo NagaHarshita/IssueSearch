@@ -1,0 +1,1 @@
+ URL : "https://github.com/movim/movim_home/issues/8" TITLE : www.movim.eu shows api BODY : http://www.movim.eu http, no s redirects to https://api.movim.eu, while https://www.movim.eu https, with s directly shows the same content as https://api.movim.eu unless there is a technical reason for this behaviour, it would be more user-friendly to have both redirect to https://movim.eu

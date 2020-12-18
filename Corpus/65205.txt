@@ -1,0 +1,1 @@
+ URL : "https://github.com/automata/autovj/issues/1" TITLE : improve command handler BODY : it will work better if listening to input changes and parsing the whole command each time.

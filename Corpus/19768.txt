@@ -1,0 +1,1 @@
+ URL : "https://github.com/toros-astro/imageredux/issues/20" TITLE : add version number BODY : i leave this here so i don't forget. __version__ = 1.0a1 btw the relevant python pep is this one https://www.python.org/dev/peps/pep-0440/ .

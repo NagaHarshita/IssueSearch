@@ -1,0 +1,1 @@
+ URL : "https://github.com/CIDR-Blocker/CIDR-Web-SRC/issues/1" TITLE : imports worker thread BODY : ability to assign a worker thread to parse process to make the page reactive, while not interfering with webpack's configuration and keep requests optimal.

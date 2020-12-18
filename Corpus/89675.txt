@@ -1,0 +1,1 @@
+ URL : "https://github.com/AltraMayor/gatekeeper/issues/76" TITLE : redirect dpdk log to file BODY : by default dpdk's logging system writes to the standard error device. since gatekeeper will run as a daemon, it would be more useful for all dpdk logs to be output to a file. this should remove the relevant xxx tags in lib/acl.c and if needed in main/main.c .

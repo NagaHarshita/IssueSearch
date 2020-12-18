@@ -1,0 +1,1 @@
+ URL : "https://github.com/2graphic/sinap-core/issues/5" TITLE : setup loading of plugins BODY : use a plugin.json file: { kind : formal langauges , dfa , description : implements loading and interpreting deterministic finite state automata , version : 1.0.0 , plugin-file : plugin.ts }

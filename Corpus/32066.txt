@@ -1,0 +1,1 @@
+ URL : "https://github.com/dominictarr/hypernav/issues/1" TITLE : todo: observe title BODY : so that it's possible for the title to be changed, use a mutation observer, as in hypertabs https://github.com/hyperhype/hypertabs/blob/master/tabs.js l88-l93

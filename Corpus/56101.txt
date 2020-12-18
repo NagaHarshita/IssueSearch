@@ -1,0 +1,1 @@
+ URL : "https://github.com/facebookresearch/fastText/issues/248" TITLE : memory usage of models BODY : i have a sample model trained with latest fasttext code, model.ftz is of size 388mb, when i load the model; memory usage is ~1.6gb. any idea on this?

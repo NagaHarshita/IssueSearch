@@ -1,0 +1,1 @@
+ URL : "https://github.com/severin-lemaignan/gazr/issues/15" TITLE : make install error BODY : hi severin: when i'm going to implement the make install steps, it keep telling me there is a error in show_head_pose.cpp file. the warning is as follows: error: ‘class headposeestimation’ has no member named ‘_debug’ imshow headpose , estimator._debug ; how can i solve this problem?

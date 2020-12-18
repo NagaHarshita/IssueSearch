@@ -1,0 +1,1 @@
+ URL : "https://github.com/Amber-MD/cmake-buildscripts/issues/76" TITLE : any way to prevent typos? BODY : e.g: i've been tracking down some errors and realize that i made a typos -dpython_executale=$home/miniconda3/bin/python

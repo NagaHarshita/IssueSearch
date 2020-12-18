@@ -1,0 +1,1 @@
+ URL : "https://github.com/Jasonette/JASONETTE-Android/issues/93" TITLE : $href action doesn't work BODY : it makes an error: android.view.viewrootimpl cannot be cast to android.view.view

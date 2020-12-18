@@ -1,0 +1,1 @@
+ URL : "https://github.com/VCVRack/Rack/issues/400" TITLE : save as default BODY : add an option to save as default, which will save the current rack in a default.vcv which, if detected will load on every file new.

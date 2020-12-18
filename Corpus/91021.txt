@@ -1,0 +1,1 @@
+ URL : "https://github.com/lucasjliu/task-scheduler/issues/1" TITLE : support kubernetes worker BODY : 1. in worker.py, decide the msg_queue to be persistent docker or im-memory kubernetes , and provide a common adt for both type of message queue. 2. rather than specifying by input, master finds out workers by receiving ping message from workers when they are created.

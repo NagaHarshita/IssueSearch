@@ -1,0 +1,1 @@
+ URL : "https://github.com/hbenl/vscode-firefox-debug/issues/27" TITLE : not showing exceptions BODY : debugger stops alright, but it just shows the current context as if the execution was interrupted by a breakpoint. the actual exception stays somwhere in the background ! https://dl.dropboxusercontent.com/u/105338698/sharex/2017-01/2017-01-19_02-50-42.png

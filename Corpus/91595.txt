@@ -1,0 +1,1 @@
+ URL : "https://github.com/aparcar/gsoc17-attended-sysupgrade/issues/33" TITLE : uhttpd-mod-ubus is needed BODY : trying freifunk-meshkit with luci via imagebuilder makes me need to install uhttpd-mod-ubus manually to get the attended-sysupgrade running. there was no error message ob webui about that or about problems

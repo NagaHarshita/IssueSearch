@@ -1,0 +1,1 @@
+ URL : "https://github.com/infinitered/gluegun/issues/209" TITLE : add typescript typings BODY : this would make me happy in the pants. we don't have to go full-on, just the basics. i suspect fs-jetpack is where things would get a bit suspect. they don't have typings . i'd be cool with using any for the parameters for now though. would be a great first step.

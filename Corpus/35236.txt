@@ -1,0 +1,1 @@
+ URL : "https://github.com/GwonHyeok/StickySwitch/issues/5" TITLE : direction use static BODY : i think you should use static variables instead of enum's this will take around 1,112 bytes public static enum things { thing_1, thing_2; }; or you can have two static int which will take 128 bytes. public static final int thing_1 = 1; public static final int thing_2 = 2;

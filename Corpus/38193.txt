@@ -1,0 +1,1 @@
+ URL : "https://github.com/billyvg/node-client/issues/5" TITLE : official npm package BODY : i noticed the official npm package https://npm.im/neovim/ points to this fork instead of neovim/node-client https://github.com/neovim/node-client , is this intended?

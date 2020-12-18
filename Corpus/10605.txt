@@ -1,0 +1,1 @@
+ URL : "https://github.com/shadowfacts/WaypointCompass/issues/1" TITLE : crash on startup BODY : mod version: 1.11-1.0.1 https://minecraft.curseforge.com/projects/waypoint-compass/files/2362868 crash report: crash-2017-02-19_15.57.24-client.txt https://gist.github.com/409cb099a4b8bd0cc48d864ab1f59b0e world should always be nullable in recipes.

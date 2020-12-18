@@ -1,0 +1,1 @@
+ URL : "https://github.com/urbanriskmap/cognicity-rem-v3/issues/5" TITLE : map legend doesn't work BODY : expected behavior: - clicking check box items in legend changes their visibility on the map current behavior: - no change on map

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jwilder/nginx-proxy/issues/831" TITLE : wordpress needs cookies. BODY : wordpress admin section is complaining that it needs cookies. has anyone needed to work around this?

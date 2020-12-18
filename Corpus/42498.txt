@@ -1,0 +1,1 @@
+ URL : "https://github.com/bigchaindb/js-driver-orm/issues/28" TITLE : bigchain db retrieval BODY : all the operations in orm can be done through only asset id. is there any option to retrieve data using string like in bigchain db driver?

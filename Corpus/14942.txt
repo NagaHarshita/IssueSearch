@@ -1,0 +1,1 @@
+ URL : "https://github.com/CollaborativeStudy/CS/issues/84" TITLE : clean up calendar BODY : - add padding to create event modal. - rename modal id from calendar to create-study-session-modal - move css from html page to stylesheet - change isafter to issameorafter - consolidate to ispast - implement eventdrop

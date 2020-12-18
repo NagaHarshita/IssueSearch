@@ -1,0 +1,1 @@
+ URL : "https://github.com/GISJohnECS/PoliCENSUS.github.io/issues/2" TITLE : shape file modifications BODY : -expand region further south of nueces county -clean geometries by cutting with water features -enhance styling -change outline width -create focus region border proportional symbols circles within precint/ blocks when zoomed in closely? test this

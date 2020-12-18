@@ -1,0 +1,1 @@
+ URL : "https://github.com/z3APA3A/3proxy/issues/188" TITLE : multi internal ip route BODY : my compute have 36 ips, 192.168.1.101-192.168.1.136 , i want to 3proxy start a proxy, listen this ip, which out as in ip, just like 192.168.1.103 in, out is 192.168.1.103 ,how 3proxy blinding multi ip? thank you

@@ -1,0 +1,1 @@
+ URL : "https://github.com/UnderGreen/ansible-prometheus-node-exporter/issues/8" TITLE : support sysvinit service BODY : actually the role support systemd & upstart service it's will be good if it's also support the old sysvinit

@@ -1,0 +1,1 @@
+ URL : "https://github.com/openwichita/public-meetings/issues/49" TITLE : clean out unused code BODY : there's quite a few files and chunks of code that aren't being utilized right now, most of which came from generator commands i believe. let's clean that all out so we have a nicer place to start improving / building from.

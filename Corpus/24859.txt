@@ -1,0 +1,1 @@
+ URL : "https://github.com/coaxial/dotfiles/issues/117" TITLE : turn histverify on BODY : if histexpand is set. this prevents unfortunate expansions... http://wiki.bash-hackers.org/internals/shell_options histverify

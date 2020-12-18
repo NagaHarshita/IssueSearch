@@ -1,0 +1,1 @@
+ URL : "https://github.com/ccztux/glsysbackup/issues/26" TITLE : add a cleanup function BODY : add a function to clean up installed packages and unencrypted backup file in case glsysbackup terminates abnormally.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ltolok/projectproject/issues/25" TITLE : lesson 14. regxp4 BODY : 1. можно просто string regex = \\w+ ; 2. переменная k может быть просто локальной. 3.воспользуйтесь форматированием строк.

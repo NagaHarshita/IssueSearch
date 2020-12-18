@@ -1,0 +1,1 @@
+ URL : "https://github.com/moul/gmaps-uservice/issues/1" TITLE : unable to run BODY : cmd/gmaps/main.go:48: cannot use s type google.golang.org/grpc .server as type github.com/moul/gmaps-uservice/vendor/google.golang.org/grpc .server in argument to gmapspb.registergmapsserviceserver

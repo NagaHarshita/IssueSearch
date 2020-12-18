@@ -1,0 +1,22 @@
+ URL : "https://github.com/OCA/account-analytic/issues/133" TITLE : migration to version 11.0 BODY : todo https://github.com/oca/maintainer-tools/wiki/migration-to-version-11.0 modules to migrate - account_analytic_distribution
+- account_analytic_distribution_required
+- account_analytic_line_list
+- account_analytic_no_lines
+- account_analytic_parent
+- account_analytic_required
+- account_asset_analytic
+- analytic_base_department
+- analytic_department
+- analytic_multicurrency
+- analytic_partner
+- analytic_partner_hr_timesheet
+- analytic_partner_hr_timesheet_invoice
+- analytic_secondaxis
+- analytic_secondaxis_multicurrency
+- analytic_secondaxis_project
+- analytic_secondaxis_timesheet
+- analytic_tag_dimension
+- procurement_analytic
+- product_analytic
+- purchase_procurement_analytic
+- sale_procurement_analytic

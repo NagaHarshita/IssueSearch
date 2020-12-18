@@ -1,0 +1,1 @@
+ URL : "https://github.com/lanets/scavengets/issues/3" TITLE : create challenge modules BODY : a challenge has: - a title - a description - a category - number of points - translations en/fr for points mentioned above an admin can: - create a challenge - edit the challenge - delete the challenge - a player/team can: -view the challenge

@@ -1,0 +1,1 @@
+ URL : "https://github.com/OnToology/OnToology/issues/263" TITLE : link to w3id uri BODY : when a name is reserved the name under the ontology in the repos view should have a hyperlink. in the following case the https://w3id.org/def/saref4bldg should point to that uri. saref4bldg : https://w3id.org/def/saref4bldg

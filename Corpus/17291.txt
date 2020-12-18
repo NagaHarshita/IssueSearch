@@ -1,0 +1,1 @@
+ URL : "https://github.com/Kmcolvin/prj-rev-bwfs-tea-cozy/issues/3" TITLE : offset the header BODY : add top padding to the .content div equal to the height of the header to offset the space covered by the header. this way your background image won't be cut off. https://github.com/kmcolvin/prj-rev-bwfs-tea-cozy/blob/master/tea-cozy/style.css l39

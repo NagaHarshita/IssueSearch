@@ -1,0 +1,6 @@
+ URL : "https://github.com/Zimmi48/bugzilla-test-2/issues/2460" TITLE : set timeout command BODY : note: the issue was created automatically with bugzilla2github tool original bug id: bz 2460
+date: 2010-12-17 15:50:50 +0100
+from: @ robbertkrebbers
+reported version: 8.5
+cc: @ herbelin, @ letouzey last updated: 2011-03-21 17:35:23 +0100 @ robbertkrebbers on 2010-12-17 15:50:50 +0100 currently the timeout command is only usable for specific occurrences of commands. however, that's quite useless because beforehand i don't know whether a tactic will loop. instead it would be more convenient to write something like set timeout int . now each command that follows will be interrupted after the specified time. @ herbelin on 2010-12-18 17:03:42 +0100 this is forwarded to bruno barras who is the author of timeout. even if adding new features to timeout would be useful, the most important thing to do though, for coqide users, is to restore the interrupt button. @ letouzey on 2011-03-17 22:53:46 +0100 hi robbert, i've slightly revised the patch we prepared last week, and added it
+to the trunk r13916 . i might also backport it to the 8.3 branch later. best, pierre letouzey @ letouzey on 2011-03-21 17:35:23 +0100 the option set default timeout <n> is now also in v8.3 branch r13923 . pl

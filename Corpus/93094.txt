@@ -1,0 +1,1 @@
+ URL : "https://github.com/btskinner/rscorecard/issues/5" TITLE : add debug option to sc_get BODY : add a debug == false option to sc_get that if true doesn't make api call but instead returns the url string query.

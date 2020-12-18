@@ -1,0 +1,1 @@
+ URL : "https://github.com/toddheslin/negative-keyword-generator/issues/2" TITLE : allow for cli use BODY : publish this to the npm registry as a cli tool, taking keywords.csv as an argument.

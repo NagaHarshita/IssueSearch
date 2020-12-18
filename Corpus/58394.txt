@@ -1,0 +1,1 @@
+ URL : "https://github.com/gunnihinn/evil-feed-reader/issues/17" TITLE : show dan luu blog link BODY : we don't print a link to dan luu's hugo blog https://danluu.com/atom.xml . we should. this is also not the first time hugo has annoyed me.

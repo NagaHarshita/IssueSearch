@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/Git-Credential-Manager-for-Windows/issues/490" TITLE : wget command not working BODY : in the, mintty 2.03 version i am getting issue in getting the chromedriver using the command wget64 -n http://chromedriver.storage.googleapis.com/$chrome_driver_version/chromedriver_win32.zip -p ~/chromedrivertest/

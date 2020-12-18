@@ -1,0 +1,1 @@
+ URL : "https://github.com/JiangLiNSCC/eHPC/issues/24" TITLE : 修订 client.py 工具 BODY : 目前的 client.py 是 用 main_test.py 文件。 有很多功能混乱，需整理修复 ： 整理错误处理 retjson 没正确处理， 导致了 get /file download api 的一些使用问题 分别提供 python2 和 python3 版本

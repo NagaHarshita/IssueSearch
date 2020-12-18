@@ -1,0 +1,1 @@
+ URL : "https://github.com/radareorg/cutter/issues/149" TITLE : hexdump is too wide BODY : the problem is that the dialog containing the hexdump widget doesnt permits to shrink it too much fix proposal: make the right panel toggleable or overlap the hexdump

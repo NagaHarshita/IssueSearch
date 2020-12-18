@@ -1,0 +1,1 @@
+ URL : "https://github.com/skeeto/enchive/issues/6" TITLE : being added to nixpkgs BODY : hi, i wanted to let you know that i'm asking for enchive to be added to the nixpkgs repository. nixpkgs is the pkg collection of the nix package manager. you can find the pull request here https://github.com/nixos/nixpkgs/pull/28713 thanks for this wonderful piece of software

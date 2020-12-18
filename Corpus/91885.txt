@@ -1,0 +1,1 @@
+ URL : "https://github.com/nhl/link-move/issues/121" TITLE : upgrade to cayenne 4.0.m5 BODY : m5 vote is underway https://lists.apache.org/thread.html/ef4ffa44e929e708a39895037f301988fc21fa625f31a54bb88d473f@%3cdev.cayenne.apache.org%3e . i am going to do a local upgrade to test for potential issues. will commit it once m5 is official.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/zeit/now-client/issues/63" TITLE : add team support BODY : currently, all api requests are on behalf of the personal account. it would be great to read currentteam from ~/.now.json and use the current team id for all requests.

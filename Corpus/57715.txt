@@ -1,0 +1,1 @@
+ URL : "https://github.com/danielmoraes/invoices-web-client/issues/5" TITLE : refactor redux actions BODY : follow these guidelines https://decembersoft.com/posts/a-simple-naming-convention-for-action-creators-in-redux-js/ .

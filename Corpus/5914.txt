@@ -1,0 +1,1 @@
+ URL : "https://github.com/OliverGengenbach/CapstoneProjectColmarAcademy/issues/1" TITLE : too many spans BODY : your using span too much, those should be div's. span is for wrapping inline text, not multiple elements, at most 1 element. https://github.com/olivergengenbach/capstoneprojectcolmaracademy/blob/master/colmaracademyindex.html l20-l27

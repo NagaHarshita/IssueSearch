@@ -1,0 +1,1 @@
+ URL : "https://github.com/Segs/Segs/issues/76" TITLE : implement /stuck command BODY : it might make sense to implement the /stuck command https://paragonwiki.com/wiki/stuck_ slash_command as the mapserver and collision detection come together. official server behavior was to move you a very small distance to a unobstructed location.

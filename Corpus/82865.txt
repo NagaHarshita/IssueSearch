@@ -1,0 +1,1 @@
+ URL : "https://github.com/PhaseFive/frontpage/issues/1" TITLE : automatic mailer for form BODY : automatic mailer for contact form add functionality to the contact form so that when the 'send message' button is pressed an automatic email is sent to contact@phase5.io. this must be done using a firebase function.

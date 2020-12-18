@@ -1,0 +1,1 @@
+ URL : "https://github.com/jystic/hadoop-tools/issues/27" TITLE : clock == 0.5. fixed? BODY : i vaguely recall there having been some issue with centos 6 that was causing us to rely on an old version of clock. but i don't remember exactly what it was. does this fix it? https://github.com/corsis/clock/pull/38

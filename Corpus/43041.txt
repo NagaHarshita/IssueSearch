@@ -1,0 +1,1 @@
+ URL : "https://github.com/alanwhite/dseweb/issues/4" TITLE : check for expired jwt BODY : catch this at the front end, rather than the back end, offer user ability to log back in and refresh on token expiry

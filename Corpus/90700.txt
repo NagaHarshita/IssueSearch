@@ -1,0 +1,1 @@
+ URL : "https://github.com/WillemRB/MusicServiceComparison/issues/1" TITLE : spotify now needs a token BODY : spotify doens't have an open api anymore. a token is needed to do requests. this currently breaks the site.

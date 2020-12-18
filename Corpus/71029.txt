@@ -1,0 +1,9 @@
+ URL : "https://github.com/PennyDreadfulMTG/perf-reports/issues/857" TITLE : 500 error at /robots.txt BODY : failed to initialize database in cards reported on decksite by logged_out
+--------------------------------------------------------------------------------
+request method: get
+path: /robots.txt?
+cookies: {}
+endpoint: none
+view args: none
+person: logged_out
+user-agent: mozilla/5.0 compatible; dotbot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com referrer: none

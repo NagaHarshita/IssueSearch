@@ -1,0 +1,1 @@
+ URL : "https://github.com/cloudwishlist/aws/issues/4" TITLE : vpc endpoints for sqs api BODY : currently january 2017 vpc endpoints are only supported for s3. this service should be expanded to support the sqs api endpoints sqs.us-east-1.amazonaws.com , sqs.ap-southeast-1.amazonaws.com , etc so that instances can query/introspect it without requiring full internet connectivity.

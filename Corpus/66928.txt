@@ -1,0 +1,1 @@
+ URL : "https://github.com/Pterodactyl/Panel/issues/497" TITLE : notification don't work BODY : i'm use mailtrap. php artisan pterodactyl:user success created user, but email not send

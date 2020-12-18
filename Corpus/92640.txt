@@ -1,0 +1,1 @@
+ URL : "https://github.com/webpack/webpack-dev-server/issues/882" TITLE : --host 0.0.0.0 not working BODY : i run the webpack-dev-server with params --host 0.0.0.0 , then visit the page through my ip, the page shows invalid host header . i look into the code, it seems the server.prototype.checkhost in file lib/server.js is wrong, it don't deal with the params of --host 0.0.0.0

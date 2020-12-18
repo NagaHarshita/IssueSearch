@@ -1,0 +1,1 @@
+ URL : "https://github.com/ornicar/lila/issues/3643" TITLE : peak rating in api BODY : it would be useful to be able to see players' highest ratings for each perftype in the /users api endpoint.

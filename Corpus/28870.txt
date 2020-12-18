@@ -1,0 +1,1 @@
+ URL : "https://github.com/jolane/generator-cornwell/issues/1" TITLE : image cdn workflow. BODY : - use cloundiary api to upload images to a folder. - upload on start and watch. - create index so we cans see image names?

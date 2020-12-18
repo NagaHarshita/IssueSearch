@@ -1,0 +1,1 @@
+ URL : "https://github.com/agritheory/dashmanager/issues/6" TITLE : validate sql button BODY : this allows the user to validate their sql query and return a sample rendering in a frappe.ui.dialog style dialog window. this should _not_ be viewable from the grid view.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/yeti-platform/yeti/issues/91" TITLE : bulk delete observables BODY : bulk delete observable if one associates all the observable with any entity e.g campaign , and the entity is deleted, how can one bulk delete all the observables?

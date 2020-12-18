@@ -1,0 +1,1 @@
+ URL : "https://github.com/jdiaz5513/capnp-ts/issues/29" TITLE : use gulp instead of make BODY : makefiles are hard to understand/write sorry, it's true , and they're unix only.

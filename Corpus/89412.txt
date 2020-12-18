@@ -1,0 +1,1 @@
+ URL : "https://github.com/cloudfoundry-incubator/uaa-cli/issues/4" TITLE : publish compiled binaries BODY : for example, as github release artifacts like https://github.com/cloudfoundry/cli or to s3 like https://github.com/cloudfoundry/bosh-cli.

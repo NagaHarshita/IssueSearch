@@ -1,0 +1,1 @@
+ URL : "https://github.com/CS2103JAN2017-F11-B1/main/issues/9" TITLE : update test cases BODY : make sure repo build successful in travis ci before v0.2 release.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/thewtex/tmux-mem-cpu-load/issues/50" TITLE : tpm returns 1 BODY : anyone else have the problem of tpm returning 1? it has no errors if i comment out 'thewtex/tmux-mem-cpu-load' any help would be appreciated... thanks

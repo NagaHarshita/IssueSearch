@@ -1,0 +1,1 @@
+ URL : "https://github.com/mhhoban/dukedoms-keep/issues/45" TITLE : end game mechanism BODY : - check at end of every turn how many decks are empty. - add game over boolean to polling updates - when three decks are empty, calculate winner and send who won through polling updates

@@ -1,0 +1,13 @@
+ URL : "https://github.com/xbmc-catchuptv-au/issue-reports/issues/1441" TITLE : sbs user initiated report BODY : automatic bug report from end-user. environment add-on name: sbs on demand add-on id: plugin.video.sbs add-on version: 1.1.3 add-on url: ?action=sendreport kodi version: 16.1 python version: 2.6.5 r265:79063, may 19 2016, 12:22:18 gcc 4.8 ip address: 96.45.3.175 hostname: h96-45-3-175-eidnet.org.3.45.96.in-addr.arpa country: ca isp: as2735 eastern irrigation district operating system: linux3 linux 3.14.29 armv8l python path: /storage/emulated/0/android/data/org.xbmc.kodi/files/.kodi/addons/plugin.video.sbs/resources/lib
+/storage/emulated/0/android/data/org.xbmc.kodi/files/.kodi/addons/plugin.video.sbs
+/storage/emulated/0/android/data/org.xbmc.kodi/files/.kodi/addons/script.common.plugin.cache/lib
+/storage/emulated/0/android/data/org.xbmc.kodi/files/.kodi/addons/script.module.aussieaddonscommon/lib
+/storage/emulated/0/android/data/org.xbmc.kodi/files/.kodi/addons/script.module.beautifulsoup4/lib
+/storage/emulated/0/android/data/org.xbmc.kodi/files/.kodi/addons/script.module.requests/lib
+/
+/data/app/org.xbmc.kodi-1/base.apk/assets/python2.6/lib/python26.zip
+/data/app/org.xbmc.kodi-1/base.apk/assets/python2.6/lib/python2.6
+/data/app/org.xbmc.kodi-1/base.apk/assets/python2.6/lib/python2.6/plat-linux3
+/data/app/org.xbmc.kodi-1/base.apk/assets/python2.6/lib/python2.6/lib-tk
+/data/app/org.xbmc.kodi-1/base.apk/assets/python2.6/lib/python2.6/lib-old
+/data/app/org.xbmc.kodi-1/base.apk/assets/python2.6/lib/python2.6/lib-dynload full log https://gist.github.com/e28e3466b8ac122e105e7f5cf2398f76

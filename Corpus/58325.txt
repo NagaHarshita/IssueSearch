@@ -1,0 +1,1 @@
+ URL : "https://github.com/grncdr/ts-react-loader/issues/2" TITLE : set up testing harness BODY : probably worth looking into what other webpack loaders do, but even just something that verifies the output of compiling an example output would be a good start.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/raintank/kubernetes-app/issues/23" TITLE : make all lists consistent BODY : in the following ways: - cards versus list eg. namespaces versus nodes - location of health icon/indicator eg. right align vs left align - clearer call to actions eg. dashboard, info, explore for each item in list, with clear 'default' action defined

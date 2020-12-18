@@ -1,0 +1,1 @@
+ URL : "https://github.com/antaresproject/antares-front-end/issues/19" TITLE : ui > scrollbar BODY : scrollbar should be used only in components, which don't have pagination. components like tables should not have scroll bar<br/> ! image https://cloud.githubusercontent.com/assets/25686951/26408178/649ca0a6-409d-11e7-9ada-dcc672981613.png

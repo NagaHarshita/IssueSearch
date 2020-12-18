@@ -1,0 +1,1 @@
+ URL : "https://github.com/BaseXdb/basex/issues/1515" TITLE : dba default directory BODY : it could be a good idea to move the dba settings file, and maybe also the default query folder, into the database directory. mailing list: https://www.mail-archive.com/basex-talk@mailman.uni-konstanz.de/msg10046.html

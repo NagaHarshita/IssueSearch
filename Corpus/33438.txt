@@ -1,0 +1,1 @@
+ URL : "https://github.com/ofek/hatch/issues/52" TITLE : add pipfile support? BODY : per https://github.com/ofek/hatch/issues/14: > closing this, as hatch itself will use pipfiles soon! is there a target date or version number for pipfile support?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ProgrammingLanguageLeader/film_explorer/issues/4" TITLE : get rid of main BODY : the purpose of a function in python is to be able to be importede in other modules. the if __name__ == '__main__' block contains the code that doesn't need to be imported. https://github.com/programminglanguageleader/film_explorer/blob/master/film_db.py l10

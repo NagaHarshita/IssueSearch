@@ -1,0 +1,1 @@
+ URL : "https://github.com/Appleman1234/safeandsound/issues/2" TITLE : file push functionality BODY : file push functionality initial use case is replacing the manual ssh copy which uses rm for the file deletion. should have option to support multiple push methods , have the option to use ssh passphrase from configuration value or not, have the option to preserve after push.

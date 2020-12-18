@@ -1,0 +1,1 @@
+ URL : "https://github.com/NicMcPhee/edsger/issues/25" TITLE : add project license BODY : the readme currently the license is to be announced , but project.clj says it is epl http://www.eclipse.org/legal/epl-v10.html . we should decide on a license and make sure we specify it consistently in readme , project.clj , and license .

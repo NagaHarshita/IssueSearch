@@ -1,0 +1,1 @@
+ URL : "https://github.com/Snipa22/nodejs-pool/issues/69" TITLE : add a notification center BODY : with a notification center, the user can choose to recive emails or just check them in the pool website. this will reduce the server cost and usage. the notification can be reward per block miner disconnected minner reconnected pool updates / admin messages errors ?

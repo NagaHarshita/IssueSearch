@@ -1,0 +1,1 @@
+ URL : "https://github.com/mrharicot/monodepth/issues/21" TITLE : obtain hd disparities BODY : is there a way of feeding say hd 1280x720 resolution images to the network and get disparities in hd format?

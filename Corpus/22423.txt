@@ -1,0 +1,1 @@
+ URL : "https://github.com/xhqiao89/hydroserver_test2/issues/94" TITLE : lasso select error BODY : <b>sreeder codeplex </b> <br />the lasso selection tool will work a few times and then will error out. it will also attempt to retain control of the plot screen when it should be released.

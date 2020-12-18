@@ -1,0 +1,1 @@
+ URL : "https://github.com/hackforla/website-redesign/issues/13" TITLE : ie 11 display issues BODY : some ahem government entities ahem are forced to use ie in their offices. it was brought to my attention that the page does not fail gracefully in ie 11. we should look into whether or not there is a simple fix.

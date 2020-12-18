@@ -1,0 +1,1 @@
+ URL : "https://github.com/graze/buffered-console/issues/2" TITLE : detect terminal resize BODY : when the terminal changes size a sigwinch message is sent to the application. handle this, and query stty/whatever to get the size of the terminal. - strip out the size from the terminal class in symfony. - have a refresh command to force a new size.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/simian-ci/simian-ci.github.io/issues/8" TITLE : implement page footer BODY : context ! simian-footer https://cloud.githubusercontent.com/assets/11748696/24378663/bf003eea-1311-11e7-96ed-7b2944cb9c83.png acceptance criteria - should stick to the bottom even if there is no content on the page

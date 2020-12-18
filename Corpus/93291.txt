@@ -1,0 +1,1 @@
+ URL : "https://github.com/shlomiassaf/webpack-dll-bundles-plugin/issues/14" TITLE : add own source code to dll BODY : hello, i need to add self source code contained in src/mymodule . to dll is it possible?

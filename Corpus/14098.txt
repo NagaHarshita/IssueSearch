@@ -1,0 +1,1 @@
+ URL : "https://github.com/ashwin153/schema/issues/11" TITLE : add code coverage BODY : lots of great tools out there, but might be challenging to integrate them with pants. the pants build repository is using coveralls 1 and the foursquare open source project is using codecov 2 . 1: https://coveralls.io/ 2: https://codecov.io/

@@ -1,0 +1,1 @@
+ URL : "https://github.com/AlfredDobradi/twitch-graph/issues/4" TITLE : neo4j user model BODY : although it currently is undecided what to use the information for, there's probably no harm in storing the data we get from twitch 1:1 :user { _id : , bio : , created_at : , display_name : , logo : , name : , type : , updated_at : }

@@ -1,0 +1,1 @@
+ URL : "https://github.com/gradle/gradle/issues/1463" TITLE : upgrade to zinc 0.3.13 BODY : currently we're on an older version of zinc. the new version seems to have some performance improvements https://github.com/typesafehub/zinc/issues/105 issuecomment-280553264 , so we should consider upgrading.

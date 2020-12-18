@@ -1,0 +1,1 @@
+ URL : "https://github.com/DelphinPETER/Dagoma-Settings-For-Cura/issues/4" TITLE : correction des profils BODY : suite info de jpg35 : dans les trois profiles c:\program files\cura 2.3\resources\quality\dagoma_discoeasy200 section values rajouter: material_diameter = 1.74 adhesion_type = skirt pour la jupe ou brim pour bordure

@@ -1,0 +1,1 @@
+ URL : "https://github.com/gemini-testing/html-reporter/issues/27" TITLE : chrome and %5с BODY : добрый день! не отображаются скриншоты в отчёте в браузере chrome: в url обратный слеш заменяется на %5c. ! html-report https://user-images.githubusercontent.com/16813236/33591985-83ac9f40-d9aa-11e7-8b7e-2109d54baaf9.jpg p.s.: корректно работает только в firefox.

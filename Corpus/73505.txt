@@ -1,0 +1,1 @@
+ URL : "https://github.com/knoldus/cc-GrabIT/issues/1" TITLE : create project structure BODY : - need to create multi-module structure - need to add the build.sbt file with basic dependencies

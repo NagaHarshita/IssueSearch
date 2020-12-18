@@ -1,0 +1,1 @@
+ URL : "https://github.com/nyarly/fish-bang-bang/issues/3" TITLE : vi insert mode bindings BODY : i am using fish_vi_keybindings and this plugin works only in default mode which is rarely used . can you add vi keybindings? these work: bind -m insert ! bind_bang bind -m insert '$' bind_dollar ps. sorry, i have no experience with github pull requests

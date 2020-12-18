@@ -1,0 +1,1 @@
+ URL : "https://github.com/PokemonTCG/pokemon-tcg-api/issues/52" TITLE : evolves from ruby sdk BODY : after getting data for some cards from the ruby sdk, i've noticed that there isn't an evolvesfrom evolves_from field. is this by design or is this something that is missing?

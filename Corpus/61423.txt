@@ -1,0 +1,1 @@
+ URL : "https://github.com/tristanheaven/gtkhash/issues/11" TITLE : associate to .md5 files BODY : the file managers integration would be complete if user could open a file such as mydistro.iso.md5 and gtkhash does the job to only report ok for found and verified files from that md5 list.

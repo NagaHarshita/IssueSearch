@@ -1,0 +1,1 @@
+ URL : "https://github.com/SubtitleEdit/subtitleedit/issues/2489" TITLE : arabic file encoding BODY : hey, could you change the default arabic encoding when importing a file with manual encoding to windows-1256? because i'm 100% that all arabic translators who doesn't use utf-8, uses windows-1256 and the other arabic encoding are used rarely if not at all. thanks. :

@@ -1,0 +1,1 @@
+ URL : "https://github.com/chainer/chainer/issues/3465" TITLE : return nan with cudnn BODY : when i run nstepgru with cudnn v6, all value becomes nan. if i do not use cudnn, it's just fine. the same problem exists with chainer 2.1.0 cupy 1.0.3 and 3.0.0rc cupy 2.0.0rc .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jbogard/NServiceBus.MessageRouting/issues/7" TITLE : switch to simplejson BODY : i guess it would be possible to switch to simple json and ditch the newtonsoft json dependency

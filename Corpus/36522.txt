@@ -1,0 +1,1 @@
+ URL : "https://github.com/intuit/karate/issues/213" TITLE : how to extend karate BODY : hi, i'd like to extend karate to add step-defs that do some common tasks so that they can be re-used. is there an recommended way to do this? e.g. using world or similar? alex

@@ -1,0 +1,1 @@
+ URL : "https://github.com/hbt/mouseless/issues/91" TITLE : add asserts for settings BODY : assert a settings name exists in official list to prevent cases where it is defined in local config but forgot to define it in the code 82

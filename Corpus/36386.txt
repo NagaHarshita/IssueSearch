@@ -1,0 +1,1 @@
+ URL : "https://github.com/disconnect3d/sensors-monitor/issues/12" TITLE : handling user input. BODY : collecting reading user input data, validating it and preparing requests in json .

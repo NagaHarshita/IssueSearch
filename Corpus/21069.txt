@@ -1,0 +1,1 @@
+ URL : "https://github.com/frc-862/valkyrie/issues/5" TITLE : downshift on coast BODY : when: - in high gear - below calibrated speed - below calibrated requested joystick power then: downshift

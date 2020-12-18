@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/vscode/issues/29705" TITLE : add a scratch pad feature BODY : a scratch pad is a temporary location or file which is not a part of the project but it is where scratch or dirty codes/files are placed. <!-- launch with code --disable-extensions to check. --> reproduces without extensions: yes/no

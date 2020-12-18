@@ -1,0 +1,1 @@
+ URL : "https://github.com/AndersCan/typed-option/issues/4" TITLE : add tostring and from BODY : option needs a tostring and from method. might also needs some other common methods to help with common tasks: reduce, find etc. perhaps a better approach may be to convert lists of options<a> to lists of a as soon as functions such as reduce and find become of interest on the list.

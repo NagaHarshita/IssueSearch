@@ -1,0 +1,1 @@
+ URL : "https://github.com/codeforscience/sciencefair/issues/139" TITLE : p2p peer review BODY : an issue to discuss implementation details of p2p peer review. i've documented some of my thoughts on what a p2p review process might look like see https://github.com/lukeburns/peer-review fwiw. my initial thoughts on implementation are to create a module in the hyper ecosystem t

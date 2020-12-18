@@ -1,0 +1,1 @@
+ URL : "https://github.com/test-group-qom/reseller/issues/15" TITLE : correction all of relation BODY : check all relation between database models. - add forbidden relation for mutual relation . - test in tinker

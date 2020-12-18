@@ -1,0 +1,1 @@
+ URL : "https://github.com/YaleDecisionNeuro/PsychTaskFramework/issues/43" TITLE : basic export script BODY : in the new system, data is saved differently. we should provide a system to cleanly export it, and optionally a system to re-make it into how the data used to look.

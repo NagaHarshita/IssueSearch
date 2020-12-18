@@ -1,0 +1,1 @@
+ URL : "https://github.com/EvictionLab/eviction-lab-etl/issues/61" TITLE : send email on completion? BODY : might be worthwhile, if this is going to be triggered by a lambda function, to send an email on completion or failure. not sure how this email would be configured though, but an environment variable is probably the easiest option

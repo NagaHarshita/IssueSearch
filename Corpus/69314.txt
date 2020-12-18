@@ -1,0 +1,1 @@
+ URL : "https://github.com/Percona-Lab/mongodb_consistent_backup/issues/60" TITLE : support ssl connections BODY : i don't see any way of connection to a mongodb instance via ssl, it should be added if not or documented if available.

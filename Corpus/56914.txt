@@ -1,0 +1,1 @@
+ URL : "https://github.com/MatthijsKok/TI2806-Contextproject/issues/46" TITLE : output to web of trust BODY : once you have verified that a public key belongs to a bank account, the app has to store that result in the web of trust. that way the user doesn’t have to repeat the verification process. the user will see this in the app as a list of public keys that are trusted.

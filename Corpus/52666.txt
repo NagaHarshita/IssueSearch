@@ -1,0 +1,1 @@
+ URL : "https://github.com/nuxt-community/auth-module/issues/22" TITLE : cookie expiration date BODY : why do you use last day for expiration date? https://github.com/nuxt-community/auth-module/blob/cf657a3cd879278468affc9a196fc79b8ab84117/lib/templates/auth.store.js l72

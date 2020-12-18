@@ -1,0 +1,1 @@
+ URL : "https://github.com/rapid7/le_node/issues/158" TITLE : support for winston v3 BODY : transport in broken since winston v3, could you update it ?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/qmlbook/qmlbook/issues/171" TITLE : typo: 400 instead of 4000 BODY : in code you have property int duration: 400 and in text you say each animation has a duration of 4000 milliseconds msecs so in code it should be 4000, instead of 400.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/adsabs/ADSPipelineMsg/issues/6" TITLE : simplify the bibrecord BODY : this is the structure of metadata https://github.com/adsabs/adsimportpipeline/blob/master/aip/libs/solr_updater.py l52

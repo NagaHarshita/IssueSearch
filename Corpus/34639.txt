@@ -1,0 +1,1 @@
+ URL : "https://github.com/arcticicestudio/nord-emacs/issues/10" TITLE : company mode support BODY : implement support for the company mode 📦 package. <img src= https://melpa.org/favicon.ico width=16 height=16/> company https://melpa.org/ /company 🌐 official website http://company-mode.github.io :octocat: repository https://github.com/company-mode/company-mode

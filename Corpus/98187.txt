@@ -1,0 +1,1 @@
+ URL : "https://github.com/Philhil/DHBW-MasterMind/issues/41" TITLE : improvement bei den popups BODY : popups, die nicht durch einen knopf aufgerufen werden können z.b. spiel gewonnen/verloren sollten nicht durch klicken außerhalb des popups weggedrückt werden können -> .setcancable false sollte aber wohl erst in entw_prototyp3?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/danse/exmargination/issues/1" TITLE : grep or filter BODY : $ exmargination-grep keyword < margin1.json > margin2.json

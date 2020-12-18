@@ -1,0 +1,1 @@
+ URL : "https://github.com/LuisBosquez/devops/issues/11" TITLE : improve containers section BODY : add more details on how this improves the deployment process in ci/cd. idea: include a diagram of the //build talk.

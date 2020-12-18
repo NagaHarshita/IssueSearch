@@ -1,0 +1,1 @@
+ URL : "https://github.com/nfriedly/express-rate-limit/issues/50" TITLE : run function on blobk ip BODY : i m using this package. when an ip address has reached the limitation, the system will show an error message that i ve set. but i need, when somebody has reached the limitation, a system run a function about that ip. how can i do that?

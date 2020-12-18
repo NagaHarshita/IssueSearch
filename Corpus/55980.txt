@@ -1,0 +1,1 @@
+ URL : "https://github.com/beingadityak/cnj-telegram-app/issues/2" TITLE : make it conversational BODY : this bot is currently very command-based. so there are 2 options: 1. try using postback buttons 2. use some ai library like wit.ai / api.ai

@@ -1,0 +1,1 @@
+ URL : "https://github.com/HeshamMegid/HMSegmentedControl/issues/259" TITLE : right to left orientation BODY : hi it seems like the component doesn't go from right to left if the language is hebrew or arabic. any solution for that ?

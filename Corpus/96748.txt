@@ -1,0 +1,1 @@
+ URL : "https://github.com/alerta/nagios-alerta/issues/13" TITLE : filter for hard state only BODY : is there a way to filter out soft state checks in alerta, so only hard states are shown? if not yet, this would be a great feature.

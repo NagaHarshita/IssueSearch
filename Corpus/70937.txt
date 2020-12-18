@@ -1,0 +1,1 @@
+ URL : "https://github.com/j-easy/easy-rules/issues/106" TITLE : 2 rules having same name BODY : if two rules are having same name. than the rule is ignored. i used annotations.

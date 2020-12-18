@@ -1,0 +1,1 @@
+ URL : "https://github.com/archilogic-com/aframe-gblock/issues/2" TITLE : breaks in a-frame 7.0 BODY : looks like this component doesn't work in a-frame 7.0 because of the new .gltf loader!

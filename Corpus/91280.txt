@@ -1,0 +1,1 @@
+ URL : "https://github.com/JuliaDiffEq/DiffEqParamEstim.jl/issues/12" TITLE : test with evolutionary.jl BODY : https://github.com/wildart/evolutionary.jl this is a set of evolutionary and genetic algorithms. it would be good to make sure we're compatible.

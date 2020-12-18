@@ -1,0 +1,1 @@
+ URL : "https://github.com/UMM-CSci/lab-2-client-server-design-ailaverne/issues/5" TITLE : describe pre-existing urls BODY : explain what happens when a user accesses each of the following urls: :question: the page users :question: the page api/users :question: the page api/users?age=25 :question: the page api/users/588935f5de613130e931ffd5

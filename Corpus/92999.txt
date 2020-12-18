@@ -1,0 +1,1 @@
+ URL : "https://github.com/reutnagar/plastic-tableware/issues/36" TITLE : add admin's view of orders BODY : - send orders data from server - view orders in admin's tables - views single order page - change order status in dropdown in admin and update db in server

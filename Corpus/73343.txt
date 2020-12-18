@@ -1,0 +1,29 @@
+ URL : "https://github.com/pinpong/equalizer-issue-tracker/issues/340" TITLE : crashing with new update BODY : sent by joshscottrogers@gmail.com mailto:joshscottrogers@gmail.com description:
+--- equalizer stops when changing songs in spotify and frequently crashes all together after recent update. was working perfectly before. device info:
+---
+<table>
+<tr><td>app version</td><td>2.0</td></tr>
+<tr><td>app version code</td><td>200001</td></tr>
+<tr><td>android build version</td><td>53</td></tr>
+<tr><td>android release version</td><td>7.1.1</td></tr>
+<tr><td>android sdk version</td><td>25</td></tr>
+<tr><td>android build id</td><td>oneplus a3000_28_170411</td></tr>
+<tr><td>device brand</td><td>oneplus</td></tr>
+<tr><td>device manufacturer</td><td>oneplus</td></tr>
+<tr><td>device name</td><td>oneplus3t</td></tr>
+<tr><td>device model</td><td>oneplus a3000</td></tr>
+<tr><td>device product name</td><td>oneplus3</td></tr>
+<tr><td>device hardware name</td><td>qcom</td></tr>
+<tr><td>abis</td><td> arm64-v8a, armeabi-v7a, armeabi </td></tr>
+<tr><td>abis 32bit </td><td> armeabi-v7a, armeabi </td></tr>
+<tr><td>abis 64bit </td><td> arm64-v8a </td></tr>
+</table> extra info:
+---
+<table>
+<tr><td>reverb uuid</td><td>1b78f587-6d1c-422e-8b84-0002a5d5c51b</td></tr>
+<tr><td>loudness enhancer warning read</td><td>no</td></tr>
+<tr><td>bass boost uuid</td><td>14804144-a5ee-4d24-aa88-0002a5d5c51b</td></tr>
+<tr><td>loudness enhancer uuid</td><td>fa415329-2034-4bea-b5dc-5b381c8d1e2c</td></tr>
+<tr><td>bands uuid</td><td>c8e70ecd-48ca-456e-8a4f-0002a5d5c51b</td></tr>
+<tr><td>virtualizer uuid</td><td>d3467faa-acc7-4d34-acaf-0002a5d5c51b</td></tr>
+</table>

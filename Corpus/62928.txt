@@ -1,0 +1,1 @@
+ URL : "https://github.com/clintonboys/trendy-scraper/issues/3" TITLE : csv not always accurate BODY : the 'donald trump' example works, but then i tried with 'desk pad' and it only came back with 49 rows and the volumes are whole numbers. the volumes should be less than 1.

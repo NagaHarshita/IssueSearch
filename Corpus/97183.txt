@@ -1,0 +1,1 @@
+ URL : "https://github.com/crystal-lang/crystal/issues/3915" TITLE : formatter: names tuple bug BODY : all this examples add extra spaces: crystal x = {bbbbbbb: 10, aaaaaa: 20} x = {haha: 10, a: 20} x = {a: 10, bbbbb: 20}

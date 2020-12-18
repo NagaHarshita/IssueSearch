@@ -1,0 +1,1 @@
+ URL : "https://github.com/Brutus5000/BiReUS/issues/13" TITLE : server file deduplication BODY : run over a specific version and compare for identical files to previous versions. duplicate files should be merged using hardlinks. make it an indipendent server command arg. no need to interfere with the actual patcher.

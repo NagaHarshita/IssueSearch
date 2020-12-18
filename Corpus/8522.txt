@@ -1,0 +1,1 @@
+ URL : "https://github.com/OPMDG/check_pgactivity/issues/127" TITLE : password in cli BODY : hello, every time i want to use this plugin i have to put the password even with a pgpass file. do you know if is it possible to add the password directly in the cli check_pgactivity with the database, user, ... ?

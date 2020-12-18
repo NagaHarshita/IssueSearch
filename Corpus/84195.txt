@@ -1,0 +1,1 @@
+ URL : "https://github.com/fernandohackbart/BikeRide/issues/4" TITLE : create and store clientid BODY : generate a client id uuid and store using shared preferences https://developer.android.com/reference/android/content/sharedpreferences.html

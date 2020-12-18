@@ -1,0 +1,1 @@
+ URL : "https://github.com/pjsier/reentry-resources-map/issues/4" TITLE : modal pop-up bug BODY : not sure the exact steps for reproducing, but sometimes when you click on one of the resources, the modal won't pop up, but the screen will be stuck in place as if it was.

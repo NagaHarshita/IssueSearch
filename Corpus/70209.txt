@@ -1,0 +1,1 @@
+ URL : "https://github.com/marcusklaas/lisp-parser/issues/1" TITLE : use library for parsing BODY : writing a parser from scratch has been fun, but using a parser combinator or parser generator may be more maintainable. try nom or lalrpop.

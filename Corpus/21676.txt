@@ -1,0 +1,1 @@
+ URL : "https://github.com/glowroot/glowroot/issues/195" TITLE : gauges not removed BODY : jmx gauges added through agent configuration are not deleted even if it's removed . it seems the config.json file is updated but gui continue to show the deleted gauge metrics. i'm using version 0.9.11

@@ -1,0 +1,1 @@
+ URL : "https://github.com/benknoble/Dotfiles/issues/55" TITLE : 'showbreak' not set BODY : 'showbreak' controls what is displayed at the beginnings of lines that are continuations due to wrapping. good values: vim set showbreak=»\ set showbreak==>\

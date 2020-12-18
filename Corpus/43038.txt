@@ -1,0 +1,1 @@
+ URL : "https://github.com/wekan/wekan-gogs/issues/2" TITLE : check database issues BODY : @andresmanelli had some issues gogs side if the database was sqlite or postgresql. with sqlite it is a matter of concurrency i think, and postgres had an open issue in gogs. with mariadb / mysql it worked fine. needs checking.

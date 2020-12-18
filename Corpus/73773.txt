@@ -1,0 +1,1 @@
+ URL : "https://github.com/codetoart/FolioReader-Android/issues/71" TITLE : deletes wrong highlight. BODY : steps to reproduce:: 1. select text and highlight it. 2. press back key. 3. again select text and highlight it. 4. delete first highlight by quick action menu. current result:: it deletes second highlight.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/rawtx/BitTX/issues/73" TITLE : it's a virus! BODY : gives a fake error upon launch, moves virus into %appdata%, adds registry entries to automatically launch the malicious files upon boot.

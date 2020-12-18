@@ -1,0 +1,1 @@
+ URL : "https://github.com/catamphetamine/input-format/issues/6" TITLE : doesn't apply style object BODY : i just tried this library with style props but apparently it doesn't matter what props you pass, it just consider its default value

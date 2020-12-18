@@ -1,0 +1,1 @@
+ URL : "https://github.com/elliotf/mocha-sinon/issues/13" TITLE : creating a fakeserver? BODY : i want to return a mock when my code calls /test get endpoint. is there any way?

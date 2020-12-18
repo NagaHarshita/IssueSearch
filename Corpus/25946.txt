@@ -1,0 +1,1 @@
+ URL : "https://github.com/dixeed/nodejs-seed/issues/7" TITLE : add logging feature BODY : actually we don't log anything. could use good https://github.com/hapijs/good .

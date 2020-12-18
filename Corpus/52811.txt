@@ -1,0 +1,1 @@
+ URL : "https://github.com/aspnet/Docs/issues/2920" TITLE : create custom 404 page BODY : create a 404.md file in the root folder of the docset, with links to home page, overview pages, etc.

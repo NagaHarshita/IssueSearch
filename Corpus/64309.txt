@@ -1,0 +1,1 @@
+ URL : "https://github.com/pytest-dev/plugincompat/issues/23" TITLE : freeze requirements txt BODY : freeze requirements to ensure the production slug matches the development environment. https://www.kennethreitz.org/essays/a-better-pip-workflow

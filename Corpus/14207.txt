@@ -1,0 +1,1 @@
+ URL : "https://github.com/swagger-api/swagger-codegen/issues/7093" TITLE : add maven wrapper BODY : i have a suggestion.. you could put the maven wrapper into the git repo.. so a user without maven can run it without installing maven .. and there are no version problems.. https://github.com/takari/maven-wrapper

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Mixd/wp-deploy/issues/144" TITLE : .wpignore what does it do? BODY : i cannot find any reference in the deployment scripts to .wpignore and the items listed in it are not excluded from my deployments. any more info on the use of this file?

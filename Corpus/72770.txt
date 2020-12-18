@@ -1,0 +1,1 @@
+ URL : "https://github.com/JaCraig/Koios/issues/2" TITLE : change can read function BODY : basically make it do a basic check of the header and if true, do more in depth check.

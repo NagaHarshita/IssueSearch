@@ -1,0 +1,1 @@
+ URL : "https://github.com/TresAmigosSD/SMV/issues/678" TITLE : no test for smvpivotsum BODY : doesn't seem like we have a test for the function on the python side. additionally, the docstring https://github.com/tresamigossd/smv/blob/10d816257c2b7f35d2eb0d04817c9c5450209299/src/main/python/smv/helpers.py l111 might need some updating

@@ -1,0 +1,1 @@
+ URL : "https://github.com/shreepads/tcketbot/issues/3" TITLE : provide user help BODY : provide the user with help on how to use the bot when it is first started, when explicitly asked for help or on an error. need to setup and handle the help intent and error messages correctly.

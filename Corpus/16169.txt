@@ -1,0 +1,1 @@
+ URL : "https://github.com/cesanta/mjs/issues/5" TITLE : how to spilt file BODY : this is a great project , i want deep learn this code ,but very few lines of code,how to split header file and source file into some single file. i hope to have nothing to do with the platform, like lua, do not rely too much on the library.

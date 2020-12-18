@@ -1,0 +1,1 @@
+ URL : "https://github.com/felixnorden/moppepojkar/issues/44" TITLE : unclear zbar values BODY : created three test images for qrcode reader. when a qr code is present, the returned location is always the same. i.e 'testqr1.jpg' and testqr2.jpg gives the same results.

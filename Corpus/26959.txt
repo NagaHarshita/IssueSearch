@@ -1,0 +1,1 @@
+ URL : "https://github.com/elixirscript/elixirscript/issues/391" TITLE : check if in a guard BODY : when starting to compile a guard, update state to denote compilation is in a guard. this will do nothing right now, but comes in handy when starting to support processes

@@ -1,0 +1,4 @@
+ URL : "https://github.com/mnigbur/homeassistant-config/issues/8" TITLE : cleanup ha default view BODY : - check every group is used in it's on view
+- create system view
+- sort views
+- move remaining sensors

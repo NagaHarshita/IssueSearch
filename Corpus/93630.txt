@@ -1,0 +1,1 @@
+ URL : "https://github.com/retz/retz/issues/128" TITLE : allow fractional cpu usage BODY : for small jobs that only consume very few resources it may be desirable to specify a fractional number of cpu resources e.g. 0.2 . mesos already supports this, so maybe only changing the type of cpu parameters from int to float may be sufficient...?

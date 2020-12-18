@@ -1,0 +1,1 @@
+ URL : "https://github.com/JGCRI/gcamdata/issues/809" TITLE : computing passthrough sums BODY : this is done in at least two separate places - l254.transportation_ucd and l254.transportation_usa ; can it be abstracted to a function? see discussion in 726 .

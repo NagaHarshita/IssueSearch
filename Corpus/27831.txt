@@ -1,0 +1,12 @@
+ URL : "https://github.com/xbmc-catchuptv-au/plugin.video.sbs/issues/766" TITLE : end-user bug report BODY : automatic bug report from end-user. environment plugin name: sbs on demand plugin id: plugin.video.sbs plugin version: 1.1.0 xbmc/kodi version: 15.2 git:02e7013 python version: 2.7.3 default, feb 29 2016, 20:19:48 gcc 4.9.3 operating system: linux2 linux 4.1.18 x86_64 ip address: 27.99.6.43 . isp : optus python path: /storage/.kodi/addons/plugin.video.sbs
+/storage/.kodi/addons/script.common.plugin.cache/lib
+/storage/.kodi/addons/script.module.beautifulsoup/lib
+/usr/lib/python27.zip
+/usr/lib/python2.7
+/usr/lib/python2.7/plat-linux2
+/usr/lib/python2.7/lib-tk
+/usr/lib/python2.7/lib-old
+/usr/lib/python2.7/lib-dynload
+/usr/lib/python2.7/site-packages
+/usr/lib/python2.7/site-packages/gtk-2.0
+/storage/.kodi/addons/plugin.video.sbs/resources/lib traceback traceback most recent call last : file /storage/.kodi/addons/plugin.video.sbs/resources/lib/play.py , line 43, in play stream_url = comm.get_stream p.id file /storage/.kodi/addons/plugin.video.sbs/resources/lib/comm.py , line 277, in get_stream resp = fetch_protected_url config.stream_url % program_id file /storage/.kodi/addons/plugin.video.sbs/resources/lib/comm.py , line 107, in fetch_protected_url token = fetch_cache_token file /storage/.kodi/addons/plugin.video.sbs/resources/lib/comm.py , line 102, in fetch_cache_token return cache.cachefunction fetch_auth_token file /storage/.kodi/addons/script.common.plugin.cache/lib/storageserver.py , line 570, in cachefunction ret_val = funct args file /storage/.kodi/addons/plugin.video.sbs/resources/lib/comm.py , line 96, in fetch_auth_token raise exception 'failed to fetch sbs streaming token: %s' % e exception: failed to fetch sbs streaming token: http error 504: gateway time-out full log https://gist.github.com/a8502cf595bafa6aaa5b64dc29417815

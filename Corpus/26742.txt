@@ -1,0 +1,1 @@
+ URL : "https://github.com/tesark/msg91-php/issues/1" TITLE : callback url in sms BODY : msg91 supports callback url field such that we will get to know the status of the sms whether its sent or failed?

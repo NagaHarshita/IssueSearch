@@ -1,0 +1,1 @@
+ URL : "https://github.com/ADVRHumanoids/XCM/issues/34" TITLE : error compiling xcm BODY : starting from a clear build i had to add the following in the package.xml to make xcm compile: <build_depend>message_generation</build_depend>

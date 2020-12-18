@@ -1,0 +1,1 @@
+ URL : "https://github.com/actframework/act-devops-toolkit/issues/2" TITLE : support for act watchdog BODY : there should be a server script that can determine if the act application is up and running. if it's not running it should then restart the service based on the debian service installer script

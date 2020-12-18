@@ -1,0 +1,1 @@
+ URL : "https://github.com/openastroproject/openastro/issues/205" TITLE : can't handle sgrbg10 BODY : i've succeeded in getting the ps3eye cam to output raw10 instead of raw8. confirmed with usbmon that the frames are the right size 640x480 1.2 . maybe a bit niche, but will see how far i get.

@@ -1,0 +1,2 @@
+ URL : "https://github.com/rsmontero/redmine_test/issues/67" TITLE : improve scheduler feedback BODY : --- author name: ruben s. montero @rsmontero original redmine issue: 2073, https://dev.opennebula.org/issues/2073
+original date: 2013-05-22 --- this is for: sunstone and cli should make more clear that the scheduler cannot be scheduled error message should be as clear as possible the scheduler will record the number of tries and fail the vm after a given number

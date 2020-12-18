@@ -1,0 +1,1 @@
+ URL : "https://github.com/rg3/youtube-dl/issues/13989" TITLE : how to use the --proxy? BODY : how do i use the proxy ? i have the ip for the proxy i want i to use, but dont now how it works? i have try youtube-dl --all-subs -proxy:89.236.17.106 url youtube-dl --all-subs -proxy 89.236.17.106 url

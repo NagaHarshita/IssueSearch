@@ -1,0 +1,1 @@
+ URL : "https://github.com/JPDSousa/mongo-obj-framework/issues/70" TITLE : upgrade update api BODY : upgrade update api with the current mongodb update operators https://docs.mongodb.com/manual/reference/operator/update/ .

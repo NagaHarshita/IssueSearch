@@ -1,0 +1,16 @@
+ URL : "https://github.com/xbmc-catchuptv-au/issue-reports/issues/847" TITLE : plus7 keyerror: bcid BODY : automatic bug report from end-user. environment add-on name: plus7 add-on id: plugin.video.plus7 add-on version: 3.3.1 kodi version: 16.1 python version: 2.6.5 r265:79063, apr 24 2016, 10:31:19 gcc 4.8 operating system: linux3 linux 3.14.29 armv8l ip address: 139.168.209.106 cpe-139-168-209-106.lns1.way.bigpond.net.au isp: telstra internet kodi url: ?program_id=37322850 python path: /storage/emulated/0/android/data/org.xbmc.kodi/files/.kodi/addons/plugin.video.plus7/resources/lib
+/storage/emulated/0/android/data/org.xbmc.kodi/files/.kodi/addons/plugin.video.plus7
+/storage/emulated/0/android/data/org.xbmc.kodi/files/.kodi/addons/script.module.aussieaddonscommon/lib
+/storage/emulated/0/android/data/org.xbmc.kodi/files/.kodi/addons/script.module.beautifulsoup4/lib
+/storage/emulated/0/android/data/org.xbmc.kodi/files/.kodi/addons/script.module.drmhelper/lib
+/storage/emulated/0/android/data/org.xbmc.kodi/files/.kodi/addons/script.module.issuereporter/lib
+/storage/emulated/0/android/data/org.xbmc.kodi/files/.kodi/addons/script.module.pycaption/lib
+/storage/emulated/0/android/data/org.xbmc.kodi/files/.kodi/addons/script.module.requests/lib
+/
+/data/app/org.xbmc.kodi-1/base.apk/assets/python2.6/lib/python26.zip
+/data/app/org.xbmc.kodi-1/base.apk/assets/python2.6/lib/python2.6
+/data/app/org.xbmc.kodi-1/base.apk/assets/python2.6/lib/python2.6/plat-linux3
+/data/app/org.xbmc.kodi-1/base.apk/assets/python2.6/lib/python2.6/lib-tk
+/data/app/org.xbmc.kodi-1/base.apk/assets/python2.6/lib/python2.6/lib-old
+/data/app/org.xbmc.kodi-1/base.apk/assets/python2.6/lib/python2.6/lib-dynload traceback traceback most recent call last : file /storage/emulated/0/android/data/org.xbmc.kodi/files/.kodi/addons/plugin.video.plus7/resources/lib/play.py , line 22, in play params 'bcid' ,
+keyerror: 'bcid' full log https://gist.github.com/5cc11006f6f87385d036c0519a2bcb06

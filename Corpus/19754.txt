@@ -1,0 +1,1 @@
+ URL : "https://github.com/dotBunny/JARVIS.NET/issues/11" TITLE : add twitch support BODY : add authorization process, allowing for polling/replaying of chat, viewers, whom the viewer list. periodic messages

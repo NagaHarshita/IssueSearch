@@ -1,0 +1,7 @@
+ URL : "https://github.com/zine-app/zineClient/issues/22" TITLE : post an image BODY : - post image
+- images displays in home page
+- displayed in reverse chronological order
+- shows author
+- shows zine
+- shows title
+show description

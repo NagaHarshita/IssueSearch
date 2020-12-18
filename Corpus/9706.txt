@@ -1,0 +1,1 @@
+ URL : "https://github.com/FWDekker/intellij-randomness/issues/15" TITLE : add action group BODY : an action group should be available that contains all actions this plugin provides. this action group should be bound to a keyboard shortcut, and activating this shortcut will list all the actions. the user can then select the desired action.

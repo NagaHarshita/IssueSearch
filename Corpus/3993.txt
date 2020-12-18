@@ -1,0 +1,1 @@
+ URL : "https://github.com/geospatialem/esri-maps/issues/4" TITLE : add a side div BODY : add a side div that tells the user: to click the map to get coordinates once clicked, the user can email the coordinates from the popup dialog

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Parsely/parsely-android/issues/14" TITLE : get app name BODY : https://github.com/parsely/parsely-android/blob/71d6f1ecb22416ee39b6b65322d9dc8a6262fd47/parsely/parselyandroid/parselytracker.java l320 why do not use context.getpackagemanager .getapplicationlabel context.getapplicationinfo in an application resource name app_name is not mandatory

@@ -1,0 +1,1 @@
+ URL : "https://github.com/rafaelklaessen/keep-clone/issues/42" TITLE : better alert system BODY : i was thinking of toasts/snackbars instead of javascript's builtin alert function.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Girbons/go-coolingfan/issues/2" TITLE : handle the gpio status BODY : when an endpoint is called we can handle the status

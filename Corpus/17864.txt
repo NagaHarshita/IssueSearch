@@ -1,0 +1,1 @@
+ URL : "https://github.com/davidschaeffer2/casper/issues/11" TITLE : rewrite music cog BODY : the code is ugly, the way i'm handling server queues is ugly, and i can make it better. we'll rewrite the cog to streamline the code, the server queues, and ensure better data is being given to the users.

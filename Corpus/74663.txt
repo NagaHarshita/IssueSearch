@@ -1,0 +1,1 @@
+ URL : "https://github.com/aio-libs/aiohttp/issues/1827" TITLE : faster websocket masking BODY : long story short i recently came up with a way of doing websocket masking that is faster than the current implementation. please see https://www.willmcgugan.com/blog/tech/post/speeding-up-websockets-60x/ . i'd be happy to create a pr, if you think it would be worth updating.

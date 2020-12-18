@@ -1,0 +1,1 @@
+ URL : "https://github.com/AntoineMary/docker-softether-vpn-server/issues/4" TITLE : new softether release BODY : there's a new softether release out, so this container needs to be rebuilt. in addition to that, there's a new repo, softethervpn_stable, which should just be able to be cloned from every time for a stable release.

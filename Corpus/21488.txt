@@ -1,0 +1,1 @@
+ URL : "https://github.com/carbon-intensity/GridForecast/issues/1" TITLE : fix config loading BODY : currently config loading doesn't seem to work everything is undefined , and i have to hardcode the configuration in on my local machine. need to fix that.

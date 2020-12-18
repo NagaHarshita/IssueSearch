@@ -1,0 +1,1 @@
+ URL : "https://github.com/senid231/ip_net_active_record_type/issues/3" TITLE : inherit from inet type BODY : activerecord postgresql connection adapter has type inet we should inherit from it also add to readme and tests situation when we have array of inet

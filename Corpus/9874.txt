@@ -1,0 +1,1 @@
+ URL : "https://github.com/hexacta/fame/issues/3" TITLE : add more leagues BODY : la liga and le championnat models are already created. we should create the dockerfiles, add them to the docker-compose file, and add the json files.

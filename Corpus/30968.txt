@@ -1,0 +1,1 @@
+ URL : "https://github.com/sveetch/sveetoy-cli/issues/3" TITLE : rename to 'sveetoy' BODY : it should be renamed like 'sveetoy' since it will possibly not contains only commandline but python modules too.

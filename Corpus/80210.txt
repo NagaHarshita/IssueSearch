@@ -1,0 +1,1 @@
+ URL : "https://github.com/rivermont/spidy/issues/58" TITLE : tests for multithreading BODY : feature description it would be great to have a check in tests.py for the multithreading and queue. checklist - x this feature does not already exist. - x this feature has not been requested before.

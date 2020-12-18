@@ -1,0 +1,1 @@
+ URL : "https://github.com/ably/ably-ios/issues/594" TITLE : push: uncaught exception BODY : customer edgar reported this issue terminating app due to uncaught exception 'nsinternalinconsistencyexception', reason: '- .../pods/ably/source/artpushactivationstate.m:38 - artpushactivationstate transition: should always be overriden.'

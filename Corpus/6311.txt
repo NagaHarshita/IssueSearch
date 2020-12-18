@@ -1,0 +1,1 @@
+ URL : "https://github.com/zhuowei/RaspberryJuice/issues/63" TITLE : add /py command BODY : the raspberry jam mod https://github.com/arpruss/raspberryjammod - which is no longer being maintained - had a very useful /py command that lets you execute python scripts in a certain directory directly from within minecraft. feature request: add this command to raspberry juice!

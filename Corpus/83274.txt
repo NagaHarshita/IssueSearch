@@ -1,0 +1,1 @@
+ URL : "https://github.com/node-ffi/node-ffi/issues/360" TITLE : callback from gio channel BODY : i've implemented callback function on js as tutorial. and that callback function is called when gio event socket happened. but, it can't receive gio event from socket. maybe there is no g_main_loop .... could i get some helpful tutorial for js + gio g_io_add_watch ?

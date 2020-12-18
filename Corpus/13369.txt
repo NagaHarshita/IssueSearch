@@ -1,0 +1,1 @@
+ URL : "https://github.com/ntop/ntopng/issues/1082" TITLE : typo in the help BODY : ntopng --help ... --disable-login|-l <mode> | disable user login authentication: | 0 - disable login only for localhost | 1 - disable login only for all hosts ... i think that 1 - disable login only for all hosts should be 1 - disable login for all hosts .

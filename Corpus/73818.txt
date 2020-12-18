@@ -1,0 +1,1 @@
+ URL : "https://github.com/hadley/purrr/issues/299" TITLE : description not complete BODY : hi hadley if i use knitr::write_bib with purrr loaded, i get the following warning: no date field in description file of package purrr could not determine year for purrr from package description file nothing serious. cheers and thanks for the great work you do. renger

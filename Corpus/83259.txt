@@ -1,0 +1,5 @@
+ URL : "https://github.com/lensfun/lensfun/issues/177" TITLE : calibration upload 2c5bc3 BODY : calibration images were uploaded to the directory that starts with “ 2c5bc3_ ”. please read the workflow description https://github.com/lensfun/lensfun/blob/master/tools/calibration_webserver/workflow.rst for further instructions about the calibration. additional comments by the uploader: > hi,
+> > vignetting correction seems to be the only thing missing for this lens canon ef-s 24mm pancake , and that's a shame because it's really bad at big apertures.
+> i took a few shots of a white ceiling through 2 sheets of paper and attached here. couldn't get calibrate.py to work i think because i didn't do the distortion shots . i'll keep trying but in the meantime here are my files. hope they're uniform enough to be useful.
+> > cheers,
+> > tim b

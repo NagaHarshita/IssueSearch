@@ -1,0 +1,1 @@
+ URL : "https://github.com/floydhub/floyd-cli/issues/15" TITLE : command does net exist BODY : i've installed floyd-cli on ubuntu 17.04 using pypi-installer python3.5 but when i type command, terminal says command does not exist how can i solve this problem?

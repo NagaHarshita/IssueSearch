@@ -1,0 +1,1 @@
+ URL : "https://github.com/Crazymax11/badger/issues/8" TITLE : extract api package BODY : all api endpoint should be part of the server all render endpoints should be part of the app also need to rewrite all api references in code

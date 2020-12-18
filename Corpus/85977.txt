@@ -1,0 +1,1 @@
+ URL : "https://github.com/jspenguin2017/uBlockProtector/issues/362" TITLE : generic noadblock defuser BODY : a cloudflare app, noadblock caught my attention, it is trivial to make it generic, we have a dom watcher anyway, 2 more checks won't change the performance. https://noadblock.net/ https://www.cloudflare.com/apps/noadblock

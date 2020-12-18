@@ -1,0 +1,1 @@
+ URL : "https://github.com/letsencrypt/boulder/issues/2768" TITLE : reuse pending authz BODY : if a client requests an authz for an identifier that already has a pending authz on that account, we should present the existing, pending authz. this should reduce the likelihood of hitting the pending authz rate limit.

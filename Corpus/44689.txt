@@ -1,0 +1,1 @@
+ URL : "https://github.com/NUbots/NUsight2/issues/6" TITLE : fix canvas autosizing BODY : currently when making the browser window small in the localisation window, the canvas does not shrink down to size.

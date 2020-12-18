@@ -1,0 +1,1 @@
+ URL : "https://github.com/GingerCode/GingerCode/issues/12" TITLE : error con por cada foreach BODY : en gingercode: gingercode @datos = hola! , desde , ginger code por cada @dato en @datos mostrar dato actual: + @dato resultado en javascript: javascript var datos = hola! , desde , ginger code ; por cada dato en datos console.log dato actual: + dato ; }

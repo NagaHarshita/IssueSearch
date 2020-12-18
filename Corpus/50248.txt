@@ -1,0 +1,1 @@
+ URL : "https://github.com/biolab/orange3-associate/issues/11" TITLE : widgets need updating BODY : both widgets need updating due to changes in orange. fix error and warning to classes, check qvariant and setting up anyqt. all warnings found in the console when using the widgets.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/franko/luajit-lang-toolkit/issues/37" TITLE : tk_dots undefined BODY : is it just me or tk_dots is not defined in lexer.lua ? cheers :heart:

@@ -1,0 +1,1 @@
+ URL : "https://github.com/dxtera/dlkit_builders/issues/3" TITLE : config for reserved words BODY : make reserved word checks a configurable thing. for instance logging is ok in java but we use logging_ in python

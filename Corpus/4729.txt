@@ -1,0 +1,1 @@
+ URL : "https://github.com/lastmjs/guesswork/issues/20" TITLE : fix this error BODY : node:12158 maxlistenersexceededwarning: possible eventemitter memory leak detected. 11 exit listeners added. use emitter.setmaxlisteners to increase limit

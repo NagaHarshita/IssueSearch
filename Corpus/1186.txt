@@ -1,0 +1,1 @@
+ URL : "https://github.com/8noobs/8-Noobs-Bot/issues/1" TITLE : if por when BODY : seria posible el cambio? sito el ejemplo, para responder: if message.new_chat_member.class != nil.class por when message.new_chat_member.class != nil.class y entonces que pasa con when telegram::bot::types::message , estaria de mas? o tiene otra funciones?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/OWASP/owasp-summits/issues/1626" TITLE : setup hugo for 2018 BODY : we are going to switch our site from jekyll to hugo https://gohugo.io . the steps that we need to do are: - freeze master branch - create 'hugo' branch - choose templating base - migrate templates - setup build pipeline - generate our first version

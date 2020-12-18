@@ -1,0 +1,1 @@
+ URL : "https://github.com/klesun/deep-assoc-completion/issues/24" TITLE : declaration in file phpdoc BODY : should this work? php <?php / mytemplate.html.php @var array $arr = 'key' => 'val' @var array $options = mymoduleoptions::get / ?> <b>html here</b> <?php echo $options 'key' ; ?> if it is not yet implemented, it would be nice :

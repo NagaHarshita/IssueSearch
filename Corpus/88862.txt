@@ -1,0 +1,1 @@
+ URL : "https://github.com/xevious78/LIFX-OSX/issues/1" TITLE : packaged release version? BODY : xcode 9 doesn't support old versions of swift and i don't really want to have to download xcode 7 again. do you have an old copy of the app that you could compress and upload? i can resign the app as necessary.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/heroku-examples/go-queue-example/issues/1" TITLE : redis instead of postgres BODY : hi! i am new to go and i was wondering if there is a way to use this with redis instead of postgres. thank you very much

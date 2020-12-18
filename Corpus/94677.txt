@@ -1,0 +1,1 @@
+ URL : "https://github.com/willshersystems/ansible-sshd/issues/52" TITLE : check config before reload BODY : sshd -t should be running before a reload is attempted and fail on warnings and errors. while sshd -t is being called it didn't pick up on the problem in 51

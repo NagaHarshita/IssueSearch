@@ -1,0 +1,1 @@
+ URL : "https://github.com/frxnz/exemplar-cli/issues/1" TITLE : handle deleted views BODY : when running exemplar serve deleting a view should remove the corresponding html files from the output directory.

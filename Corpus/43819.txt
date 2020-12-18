@@ -1,0 +1,1 @@
+ URL : "https://github.com/expo/expo/issues/424" TITLE : detox example project BODY : detox https://github.com/wix/detox is a neat gray box testing library that is useful for end to end acceptance testing. we should have an example project that shows how to integrate with it.

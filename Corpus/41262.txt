@@ -1,0 +1,1 @@
+ URL : "https://github.com/pluginkollektiv/cachify/issues/76" TITLE : $is_nginx not defined BODY : https://github.com/pluginkollektiv/cachify/blob/master/inc/cachify.class.php l1750 we need to do a global $is_nginx here.

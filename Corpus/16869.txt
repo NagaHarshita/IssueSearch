@@ -1,0 +1,1 @@
+ URL : "https://github.com/uxmstudio/UXMPDFKit/issues/52" TITLE : memory issue !!!! BODY : the memory keeps on increasing when there is a bigger pdf file and we highlight the text and eventually crashes the application.

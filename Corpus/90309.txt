@@ -1,0 +1,1 @@
+ URL : "https://github.com/primitive-apps/Primitive-Android/issues/5" TITLE : send hd image from camera BODY : right now, we are running into limitations where we can only send scaled-down images from the camera across to the preview activity, which decreases the quality of the overall image. we need to find a way to send over the uri/path instead of the image itself.

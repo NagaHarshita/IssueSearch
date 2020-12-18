@@ -1,0 +1,1 @@
+ URL : "https://github.com/vector-im/riot-web/issues/2903" TITLE : permalinks only work once BODY : if i jump to a specific message in a channel, then i click the down arrow to return to the bottom of the page, then click the link again, riot doesn't scroll up to the message again

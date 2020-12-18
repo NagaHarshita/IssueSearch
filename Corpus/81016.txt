@@ -1,0 +1,1 @@
+ URL : "https://github.com/postcss/postcss/issues/1039" TITLE : v6 nest does not perform BODY : .phone { img { display: block; } } results => ! image https://user-images.githubusercontent.com/456516/27119084-f7da9714-5110-11e7-8dac-ce802ff1a311.png

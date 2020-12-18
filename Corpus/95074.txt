@@ -1,0 +1,1 @@
+ URL : "https://github.com/sogehige/sogeBot/issues/398" TITLE : cooldowns for gamble games BODY : duel, fight me, and others in future after gamble end it can got cooldown for use ___ user1: !duel 5 user2: !duel 5 >>> 5 mins later bot: congtatz, user2, u won 10 points win chance 50% user3: !duel 5 bot: sry, user3, u cant start duel 10 more minutes ____ and so for all gabmle

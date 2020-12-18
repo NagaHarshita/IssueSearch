@@ -1,0 +1,1 @@
+ URL : "https://github.com/FirehousePro/FirehousePro/issues/1" TITLE : tenant / firehouse mgmt BODY : add the ability to setup new tenants. need to capture some basic information about the firehouse. we should be able to add users to tenants. for now there will be no self registration.

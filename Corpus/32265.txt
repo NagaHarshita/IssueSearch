@@ -1,0 +1,1 @@
+ URL : "https://github.com/KaiKikuchi/BetterChunkLoader/issues/27" TITLE : unloaded entities ? BODY : hello, on a moded server i have items that need to be dropped so that they get better, but the chunkloaders do not load them as soon as you leave the chunk or disconnect it either with a chunkloader online or offline chunkloader . is it normal ? items : seeds froms ae2

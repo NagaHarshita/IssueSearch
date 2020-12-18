@@ -1,0 +1,1 @@
+ URL : "https://github.com/sensu-plugins/community/issues/67" TITLE : create new repo BODY : create new repo i have a new plugin that i would like a repo for sensu-plugins-splunk-hec this plugin is different from the current plugin that only supports splunkstorm. this plugin supports splunk cloud and splunk on prem

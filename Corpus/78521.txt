@@ -1,0 +1,1 @@
+ URL : "https://github.com/alsatian-test/alsatian/issues/291" TITLE : push es6-promise typings BODY : now we're using native promises builds are failing if targeting es5 or below. simply add some typings so they can understand stuff :

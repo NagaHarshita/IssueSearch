@@ -1,0 +1,1 @@
+ URL : "https://github.com/bolt/docs/issues/645" TITLE : add 'asset' and 'path' BODY : paths is being deprecated, per @carsonf asset and path need to be documented in the cheatsheet see his pr here: https://github.com/bolt/bolt/pull/5836

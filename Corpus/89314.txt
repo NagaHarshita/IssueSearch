@@ -1,0 +1,1 @@
+ URL : "https://github.com/rdfio/RDFIO/issues/40" TITLE : problems using postgresql BODY : i got a report from a user that setting up the arc2 tables when using postgresql does not work. i'm looking into replicating the problem.

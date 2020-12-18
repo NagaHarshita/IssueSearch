@@ -1,0 +1,1 @@
+ URL : "https://github.com/irontec/ivozprovider/issues/283" TITLE : musiconhold for dial app BODY : asterisk is able to play musiconhold and to choose which musiconhold class is used while waiting for somebody to answer a call. should be nice to implement it, for example in ivr custom, after pressing 1 , while ringing to alice. thanks

@@ -1,0 +1,1 @@
+ URL : "https://github.com/nathan-hoad/python-icap/issues/5" TITLE : criteria not working BODY : hello, this criteria not working @handler methodcriteria 'post' & contenttypecriteria 'application/x-www-form-urlencoded' | contenttypecriteria 'multipart/form-data' | contenttypecriteria 'application/octet-stream' , raw=true why? thank you

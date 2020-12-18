@@ -1,0 +1,1 @@
+ URL : "https://github.com/nextgis/android_gisapp/issues/556" TITLE : wms layer display BODY : when i try to display a wms layer in nextgis mobile it downloads the tiles ok but will not display the maps. config is set correctly in web app and wms url displays in qgis but not on mobile.

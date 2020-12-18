@@ -1,0 +1,1 @@
+ URL : "https://github.com/cmu-db/peloton/issues/538" TITLE : test travis fast fail for BODY : can someone modify .travis.yml to have it fail right away when source_validator.py fails? we still want to run all the other builds and tests though to the very end even if they fail. https://blog.travis-ci.com/2013-11-27-fast-finishing-builds/

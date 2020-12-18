@@ -1,0 +1,1 @@
+ URL : "https://github.com/ikagami/GclcdWebsite/issues/2" TITLE : ut depend on the real db BODY : use h2 db may resolve the matter <!-- https://mvnrepository.com/artifact/com.h2database/h2 --> <dependency> <groupid>com.h2database</groupid> <artifactid>h2</artifactid> <version>1.4.196</version> <scope>test</scope> </dependency>

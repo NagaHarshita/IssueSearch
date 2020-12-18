@@ -1,0 +1,1 @@
+ URL : "https://github.com/iamfrancisalbert/organizer/issues/1" TITLE : form submitting twice BODY : when submitting a form, a user can accidentally double-click on the submit button. this then lead too redundancy of data

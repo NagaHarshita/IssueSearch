@@ -1,0 +1,1 @@
+ URL : "https://github.com/mosheG770/GithubZoomableReference/issues/4" TITLE : state load as minimized BODY : when save state while the reference window minimized, it's save them without size. solution is to show the windows before making states.

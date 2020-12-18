@@ -1,0 +1,1 @@
+ URL : "https://github.com/wearpants/syllascrape/issues/4" TITLE : only follow http s links BODY : right now we're spawning off requests to all links, including mailto: s and javascript: s, which result in notsupported exceptions. let's filter these out, just to keep the logs clean and get rid of the overhead of running these requests.

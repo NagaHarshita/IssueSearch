@@ -1,0 +1,1 @@
+ URL : "https://github.com/codalab/codalab-competitions/issues/1977" TITLE : cannot delete competition BODY : testing staging server http://13.82.145.119/. tried to delete several competitions, including: 43 and 46. delete does not work.

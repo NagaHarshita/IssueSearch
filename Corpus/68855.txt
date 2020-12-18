@@ -1,0 +1,4 @@
+ URL : "https://github.com/mineral-ui/mineral-ui/issues/167" TITLE : site accessibility page BODY : as a developer of the modern web, i am concerned about providing an accessible experience for all my users. i would like to know that mineral-ui will fill by need to reach out to netizens with impairments. ac
+- have a page describing accessibility guidelines
+- the same page will describe how/where we've implemented a11y in mineral-ui
+- if an individual component implements a11y, we provide instructions in the usage section - for example: icon component needs to have its parents set up with a11y depending on how it's implemented. this is detailed in the usage section

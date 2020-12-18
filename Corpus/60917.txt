@@ -1,0 +1,1 @@
+ URL : "https://github.com/scanner-research/esper/issues/24" TITLE : add python type checker BODY : backend is turning into spaghetti. should add some type checking if possible.

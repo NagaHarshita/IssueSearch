@@ -1,0 +1,1 @@
+ URL : "https://github.com/jackocnr/intl-tel-input/issues/586" TITLE : uneditable dial code ? BODY : hi, love this plugin works great, good work. i like to know how to make the dial code uneditable after inserted when is set like below. // if there is just a dial code in the input: remove it on blur, and re-add it on focus autohidedialcode: true, thanks; pepe643

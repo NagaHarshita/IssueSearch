@@ -1,0 +1,1 @@
+ URL : "https://github.com/DEIB-GECO/GMQL-WEB/issues/19" TITLE : killed job message BODY : when a job is killed, show “exec_stopped” instead of “exec_failed”

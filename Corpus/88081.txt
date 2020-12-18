@@ -1,0 +1,1 @@
+ URL : "https://github.com/StargateMC/Project/issues/18" TITLE : mmocore protection bypass BODY : mmocore location protection doesnt presently protect against ic2 events. priority on the event listeners needs to be investigated.

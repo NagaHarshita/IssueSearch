@@ -1,0 +1,1 @@
+ URL : "https://github.com/ewels/MultiQC/issues/417" TITLE : module request: bamqc BODY : bamqc not to be confused with _qualimap bamqc_ . https://github.com/s-andrews/bamqc output format should be pretty similar to fastqc.

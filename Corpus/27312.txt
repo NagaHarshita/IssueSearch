@@ -1,0 +1,1 @@
+ URL : "https://github.com/Ludicrous-Ducks/bangazon_AngularJS/issues/25" TITLE : create product ctrl BODY : expected behavior this page will be called from the create product form to save the product that's been created actual behavior create a productctrl steps to take create a function to save new product in the product list in the product ctrl

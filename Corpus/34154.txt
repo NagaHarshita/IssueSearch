@@ -1,0 +1,1 @@
+ URL : "https://github.com/spring-cloud/spring-cloud-contract/issues/277" TITLE : bump camel to 2.18.3 BODY : without this master fails to be built

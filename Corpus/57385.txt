@@ -1,0 +1,1 @@
+ URL : "https://github.com/ondrejkajinek/pyGrim/issues/9" TITLE : prolong session cookie BODY : session cookie is sent to user only when it is created! it should be re-sent on every response.

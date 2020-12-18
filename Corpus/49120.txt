@@ -1,0 +1,1 @@
+ URL : "https://github.com/sansible/prometheus_server/issues/3" TITLE : support rhel / centos BODY : are there plans to make this role support yum / rpm based systems?

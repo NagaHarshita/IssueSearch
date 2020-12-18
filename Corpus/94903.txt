@@ -1,0 +1,1 @@
+ URL : "https://github.com/johnsylvain/pagine/issues/2" TITLE : commenting with jsdoc spec BODY : the main pagine class ./src/index.js needs to be better commented using the jsdoc specification. refer to http://usejsdoc.org/howto-es2015-classes.html for the es6 class jsdoc specs.

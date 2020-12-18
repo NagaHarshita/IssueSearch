@@ -1,0 +1,1 @@
+ URL : "https://github.com/kipcole9/cldr/issues/23" TITLE : genstage/flow in mix.exs BODY : can we limit the usage of genstage/flow to only a certain mix env or maybe make it runtime: false? from what i can tell it's not going to be used in compiled production code.

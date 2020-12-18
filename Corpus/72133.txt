@@ -1,0 +1,1 @@
+ URL : "https://github.com/babel/babel-brunch/issues/57" TITLE : babel polyfill included? BODY : hello, is this package https://github.com/babel/babel/tree/master/packages/babel-polyfill also included? also, is that possible to also include babel-object-rest-spread?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/SocialiteProviders/Generators/issues/9" TITLE : how to use BODY : when i run php artisan make:socialite test --spec=oauth2 --author=yourname --email=your@name.com i dont find any providers have generate in socialiteproviders/manager

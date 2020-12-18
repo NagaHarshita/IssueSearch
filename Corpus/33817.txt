@@ -1,0 +1,1 @@
+ URL : "https://github.com/liuruoze/EasyPR/issues/236" TITLE : assert reader failed BODY : my program build is ok，but execution failed and give me a message “assertion failed: reader, file ..\src\util\kv.cpp, line 11” please tell us about your environment: system: windows 10 compiler version/ide: vs2013 opencv version: 3.1

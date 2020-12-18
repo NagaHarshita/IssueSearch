@@ -1,0 +1,1 @@
+ URL : "https://github.com/ExchangeCalendar/exchangecalendar/issues/36" TITLE : wrong file permissions BODY : a number of non-executable files in the source tree dtd files, xml files, properties files are incorrectly marked as executable. the file permissions should be changed.

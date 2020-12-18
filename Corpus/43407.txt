@@ -1,0 +1,1 @@
+ URL : "https://github.com/nomad/shenzhen/issues/341" TITLE : create a new version? BODY : hi! can you create a new version of the gem? we're using a specific commit ref version at the moment to use the gem with faraday 0.9 https://github.com/nomad/shenzhen/pull/296 . i understand that this project is not really active anymore but maybe other people need this, too. thanks! ☺️

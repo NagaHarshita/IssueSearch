@@ -1,0 +1,10 @@
+ URL : "https://github.com/andybotting/xbmc-addon-plus7/issues/1882" TITLE : end-user bug report BODY : automatic bug report from end-user. environment plugin name: plus7 plugin id: plugin.video.plus7 plugin version: 3.1.1 xbmc version: 16.1 git:2016-04-24-c327c53 python version: 2.6.5 r265:79063, apr 24 2016, 10:31:19 gcc 4.8 operating system: linux3 linux localhost 3.14.29 1 smp preempt sat jul 2 15:00:34 cst 2016 aarch64 ip address: 124.182.169.178 bigpond.bigpond isp : telstra internet python path: /storage/emulated/0/android/data/org.xbmc.kodi/files/.kodi/addons/plugin.video.plus7
+/storage/emulated/0/android/data/org.xbmc.kodi/files/.kodi/addons/script.module.simplejson/lib
+/
+/data/app/kodi-16.1-jarvis-armeabi-v7a.apk/assets/python2.6/lib/python26.zip
+/data/app/kodi-16.1-jarvis-armeabi-v7a.apk/assets/python2.6/lib/python2.6
+/data/app/kodi-16.1-jarvis-armeabi-v7a.apk/assets/python2.6/lib/python2.6/plat-linux3
+/data/app/kodi-16.1-jarvis-armeabi-v7a.apk/assets/python2.6/lib/python2.6/lib-tk
+/data/app/kodi-16.1-jarvis-armeabi-v7a.apk/assets/python2.6/lib/python2.6/lib-old
+/data/app/kodi-16.1-jarvis-armeabi-v7a.apk/assets/python2.6/lib/python2.6/lib-dynload
+/storage/emulated/0/android/data/org.xbmc.kodi/files/.kodi/addons/plugin.video.plus7/resources/lib traceback traceback most recent call last : file /storage/emulated/0/android/data/org.xbmc.kodi/files/.kodi/addons/plugin.video.plus7/resources/lib/series.py , line 31, in make_series_list series_list = comm.get_index file /storage/emulated/0/android/data/org.xbmc.kodi/files/.kodi/addons/plugin.video.plus7/resources/lib/comm.py , line 77, in get_index series_data = json_data 'query' 'results' 'json' 'show_data' typeerror: 'nonetype' object is unsubscriptable

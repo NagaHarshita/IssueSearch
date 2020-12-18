@@ -1,0 +1,1 @@
+ URL : "https://github.com/ConciseCSS/preprocessor/issues/5" TITLE : add type scale values BODY : we should be able to define font sizes using values from a type scale: css font-size: 1; a unitless value would be used.

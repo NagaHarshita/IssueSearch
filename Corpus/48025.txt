@@ -1,0 +1,1 @@
+ URL : "https://github.com/curiousinternals/asw.utilities/issues/10" TITLE : refactor config files BODY : the config files could be organised better and made easier to customize: - separate keybindings from everything else use alias command to name functionality - put everything under a namespace i own, except user keybindings - add user-configurable init files

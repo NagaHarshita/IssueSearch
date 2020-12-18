@@ -1,0 +1,1 @@
+ URL : "https://github.com/scalableminds/time-tracker/issues/93" TITLE : remove libssl quickfix BODY : the quickfix in the dockerfile https://github.com/scalableminds/time-tracker/pull/92/commits/42df54cf2b2827ddf2115d9b13ed32ead45c170a should be undone, as soon as the dependencies of mongodb and libssl are compatible.

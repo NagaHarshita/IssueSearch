@@ -1,0 +1,1 @@
+ URL : "https://github.com/cephalization/portfolio-v2/issues/4" TITLE : add 'jobs' section BODY : add a new jobs 'element' to maincomponent. build basic structure using the item-view. make sure it is fully responsive and visually accommodating of many jobs. also make it collapsible or horizontally scroll-able for mobile's sake.

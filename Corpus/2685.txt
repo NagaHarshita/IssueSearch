@@ -1,0 +1,1 @@
+ URL : "https://github.com/dchester/jsonpath/issues/65" TITLE : create a cli? BODY : how about a command line tool for extracting data via jsonpath? it could be similar to: https://stedolan.github.io/jq/

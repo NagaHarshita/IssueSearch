@@ -1,0 +1,1 @@
+ URL : "https://github.com/Shuttle/Shuttle.Recall/issues/5" TITLE : add projection status BODY : when a projection fails to process an event it should be stopped and the status changed along with an error message. the projection can then be re-started after a fix has been applied.

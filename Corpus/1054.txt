@@ -1,0 +1,1 @@
+ URL : "https://github.com/alxkhr/react-d3-travel-blog/issues/2" TITLE : font in svg BODY : don't use a font with letter-spacing in the world svg, because firefox still has not implemented this feature https://bugzilla.mozilla.org/show_bug.cgi?id=371787 for 10 years now .

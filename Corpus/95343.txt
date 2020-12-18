@@ -1,0 +1,1 @@
+ URL : "https://github.com/flopezag/fiware-user-creation/issues/12" TITLE : crontab does not installed BODY : during the installation of the playbook, it seems that the crontab section did not write correctly.

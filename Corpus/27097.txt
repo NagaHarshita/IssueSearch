@@ -1,0 +1,1 @@
+ URL : "https://github.com/Yggdroot/LeaderF/issues/63" TITLE : compare with neovim BODY : macos下，brew安装了neovim0.2.0，想使用c extension，按照提示操作，无法完成。 我用的是 vim-plug，在init.vim中添加了 plug 'yggdroot/leaderf', { 'do': './install.sh' }之后，又pluginstall，提示都成功完成了， 但是echo g:lf_fuzzymatch_c，还是出错： e121: undefined variable: g:lf_fuzzymatch_c e15: invalid expression: g:lf_fuzzymatch_c

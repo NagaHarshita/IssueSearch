@@ -1,0 +1,1 @@
+ URL : "https://github.com/manishsbhoopalam/SimpleDB/issues/21" TITLE : implement page eviction BODY : fill in the flushpage method and additional helper methods to implement page eviction in: src/simpledb/bufferpool.java objective: at this point, your code should pass the evictiontest system test.

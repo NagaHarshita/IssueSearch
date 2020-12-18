@@ -1,0 +1,1 @@
+ URL : "https://github.com/lextm/sharpsnmppro-sample/issues/14" TITLE : added new namespaces BODY : two new namespaces should be added. .registry would contain all object tree and registry related classes. .validation would contain all error reporting and validation related bits.

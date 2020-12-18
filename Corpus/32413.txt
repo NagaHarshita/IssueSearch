@@ -1,0 +1,1 @@
+ URL : "https://github.com/newfs/gobotany-app/issues/675" TITLE : upgrade to python 3 BODY : the research done in issue 642 found that most modules should support python 3, thereby eventually allowing updating to django 2.0. this issue is for upgrading the project to python 3.0 and ensuring it runs on it both in production and in local development environments.

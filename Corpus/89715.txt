@@ -1,0 +1,1 @@
+ URL : "https://github.com/dial-once/node-service-geoip/issues/5" TITLE : refactor to be up to date BODY : makefile, es6, eslint, .editorconfig, mocha, do the whole shebang per node-sample-microservice

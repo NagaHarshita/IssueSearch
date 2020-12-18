@@ -1,0 +1,1 @@
+ URL : "https://github.com/NZLWally/TeaCozy/issues/2" TITLE : multiple css selectors BODY : good job specifying shared properties for multiple elements using these comma-separated selectors! https://github.com/nzlwally/teacozy/blob/master/resources/css/style.css l15-l17

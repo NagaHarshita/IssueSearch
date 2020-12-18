@@ -1,0 +1,1 @@
+ URL : "https://github.com/demanasta/coulomb2gmt/issues/6" TITLE : print fault name BODY : add option to plot fault name in the map read fault name from input file print parameters on default param file

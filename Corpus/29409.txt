@@ -1,0 +1,1 @@
+ URL : "https://github.com/spaceninja/date-list/issues/1" TITLE : load data from json BODY : right now, all the dates are just sitting in an array in datelist.js. instead, they should live in a json file that gets passed into datelist.js

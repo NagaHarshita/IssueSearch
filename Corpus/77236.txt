@@ -1,0 +1,1 @@
+ URL : "https://github.com/bradallred/gemrb/issues/90" TITLE : move cursor not updating BODY : click somewhere for the actor to move and the cursor changes to the hand pointer instead of staying the move one.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/myfreeweb/httpotion/issues/102" TITLE : example doesn't work BODY : iex 2 > httpotion.get httpbin.org/get argumenterror argument error stdlib :ets.lookup :ibrowse_lb, {'httpbin.org', 80} /users/jcoyne/workspace/phoenix_recipe/deps/ibrowse/src/ibrowse.erl:328: :ibrowse.send_req/6 lib/httpotion.ex:355: httpotion.request/3

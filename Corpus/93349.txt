@@ -1,0 +1,1 @@
+ URL : "https://github.com/William-Lake/TimeTracker/issues/37" TITLE : add save as... menu option BODY : once the user saves the workday file once, they no longer have the chance to rename the file on save. provide a save as... file menu option, and give it the keyboard shortcut ctrl + shift + s

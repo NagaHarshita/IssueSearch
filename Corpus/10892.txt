@@ -1,0 +1,1 @@
+ URL : "https://github.com/twilio/video-quickstart-android/issues/65" TITLE : echo on nexus 6p BODY : there is a lot of echo for calls that are performed with nexus 6p. we appear to have encountered the following known webrtc issue. https://groups.google.com/forum/?utm_medium=email&utm_source=footer !msg/discuss-webrtc/jqtioixxqjs/umb_qejlbwaj

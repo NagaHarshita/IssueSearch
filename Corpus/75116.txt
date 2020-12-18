@@ -1,0 +1,1 @@
+ URL : "https://github.com/HackGT/registration/issues/169" TITLE : generate uuids for users BODY : we should generate a uuid for every user to support integration with other hackgt services. this should be done retroactively.

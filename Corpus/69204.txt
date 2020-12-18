@@ -1,0 +1,1 @@
+ URL : "https://github.com/AndroidTamer/Tools_Repository/issues/192" TITLE : super tool working fine BODY : download the binary https://github.com/superandroidanalyzer/super/releases dpkg -i .deb file super -h , should make the tool work in same path

@@ -1,0 +1,1 @@
+ URL : "https://github.com/RMerl/asuswrt-merlin/issues/1262" TITLE : qos port utilization BODY : hello i am using an asus rt-ac66u. i noticed in tomato i could view complete tables for qos. the ip, the port, the classification. why can't i do that with merlin? i don't know if the ports i am qos-ing are actually working because there are no charts . thanks in advance

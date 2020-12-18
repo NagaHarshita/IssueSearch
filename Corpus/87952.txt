@@ -1,0 +1,1 @@
+ URL : "https://github.com/bluzphp/module-auth/issues/1" TITLE : migrate to skeleton 7.2.0 BODY : скелетон bluzphp/skeleton с версии 7.2.0 переехал с phpunit на codeception

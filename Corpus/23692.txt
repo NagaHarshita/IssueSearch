@@ -1,0 +1,1 @@
+ URL : "https://github.com/white-gecko/jekyll-rdf/issues/38" TITLE : rdf qname handling BODY : in rdf_property.rb the method rdf_resolve_prefix should return errors in the case, that rdf_prefixes is not defined and in the case, that there is no prefix defined. further also the predicate should be checked if it is a valid qname.

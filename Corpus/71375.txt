@@ -1,0 +1,1 @@
+ URL : "https://github.com/department-of-veterans-affairs/ruby-bgs/issues/22" TITLE : add endpoint clear an ep BODY : this would allow us to build re-usable integration tests for dispatch. which is pretty important.

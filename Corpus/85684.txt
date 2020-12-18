@@ -1,0 +1,1 @@
+ URL : "https://github.com/ChelsiAlise/workingdogdatadash/issues/107" TITLE : fix custom graphs overlap BODY : custom graphs overlap when multiple are added at least over the remove button . this is probably a small css fix. additionally, we should probably document the remove button in the help tab.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/cibuilds/base/issues/2" TITLE : use alpine v3.7 BODY : switched to the edge alpine tag in 1 due to a downstream package need moreutils . this package should be available in alpine 3.7. switch back to a normal, named tag once it's released.

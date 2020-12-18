@@ -1,0 +1,1 @@
+ URL : "https://github.com/leohentschker/village-reach/issues/9" TITLE : make a python package BODY : it would be great if we could have them pip install what we made! '''http://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/creation.html setup-py-description'''

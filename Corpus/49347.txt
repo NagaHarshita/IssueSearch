@@ -1,0 +1,1 @@
+ URL : "https://github.com/carpedm20/DCGAN-tensorflow/issues/179" TITLE : the model is unstable BODY : after training my own dataset, the model began to become unstable. the effect after visualization as shown:the output of d and d_ begins collapse after the 8 epochs. excuse me, what is the cause of this?

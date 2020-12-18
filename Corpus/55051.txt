@@ -1,0 +1,1 @@
+ URL : "https://github.com/hemagso/lobsang/issues/2" TITLE : image filename casting BODY : image filename function throws an error if cod_setor, cod_coord or heading is a floting number.

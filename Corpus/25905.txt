@@ -1,0 +1,1 @@
+ URL : "https://github.com/quantmind/d3-view/issues/8" TITLE : add handlebar tests BODY : d3-view can render templates with handlebar. we need tests for it

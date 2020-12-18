@@ -1,0 +1,1 @@
+ URL : "https://github.com/jrevels/RealInterface.jl/issues/4" TITLE : add :rem to binary_math BODY : this is motivated by a desire to add a corresponding diff rule in diffbase.jl . i can generate a pr if desired.

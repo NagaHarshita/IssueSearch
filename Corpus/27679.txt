@@ -1,0 +1,1 @@
+ URL : "https://github.com/Stephan-S/AutoDrive/issues/23" TITLE : draw method on null BODY : error: running lua method 'draw'. c:/users/dan92/documents/my games/farmingsimulator2017/mods/fs17_autodrive/autodrive.lua:3188: attempt to index a nil value

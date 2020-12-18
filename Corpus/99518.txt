@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/pxt/issues/1485" TITLE : monaco editor resize issue BODY : sometimes when the monaco editor is resizing it messes up and ends up below the screen.

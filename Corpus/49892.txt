@@ -1,0 +1,1 @@
+ URL : "https://github.com/tobias/github-rss/issues/2" TITLE : url for private feeds BODY : it seems that the private feed syntax used on the documentation, _?login=<login>&token=<token>_ does not work anymore. do you know how to correct it ?

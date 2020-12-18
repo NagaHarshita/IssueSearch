@@ -1,0 +1,1 @@
+ URL : "https://github.com/joshuarubin/zb/issues/10" TITLE : support go build -o flag BODY : it's is beneficial to build only the requested package / main program eg by explicitly pointing to the package we want to build using full name or . and decide where to place the binary. this is especially useful in projects with lot of binaries.

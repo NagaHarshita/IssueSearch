@@ -1,0 +1,1 @@
+ URL : "https://github.com/RestyaPlatform/board/issues/1188" TITLE : logout goes to blank page BODY : greetings, after a while i see the page flip to https://servername/ /users/logout, but the page is blank. if i try and reload, even with a ctrl+r in chrome, it brings me back to the above url and a blank page

@@ -1,0 +1,1 @@
+ URL : "https://github.com/polta/MolecularDynamics/issues/2" TITLE : fix nan problem BODY : implementation of the lone pair energy, over and under coordination are completed. however, some of the variables inside these functions are displaying nan . needs to fix!

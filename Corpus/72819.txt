@@ -1,0 +1,1 @@
+ URL : "https://github.com/fastai/courses/issues/149" TITLE : change to files.fast.ai. BODY : change fpath = get_file 'imagenet_class_index.json', 'http://www.platform.ai/models/imagenet_class_index.json', cache_subdir='models' to fpath = get_file 'imagenet_class_index.json', 'http://files.fast.ai/models/imagenet_class_index.json', cache_subdir='models'

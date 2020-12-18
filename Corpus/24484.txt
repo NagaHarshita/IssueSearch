@@ -1,0 +1,1 @@
+ URL : "https://github.com/micnews/react-jw-player/issues/46" TITLE : support 'vast' ads BODY : looks like the advertisement settings under the implementation are hard-coded to support only google, yet docs say we can use callback to provide a vast tag url . we need the client to be 'vast' for that to work.

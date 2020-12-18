@@ -1,0 +1,1 @@
+ URL : "https://github.com/renderedtext/logman/issues/4" TITLE : multiple loggers support BODY : @shiroyasha do you have in mind to support multiple loggers? similar thing we have with multi_logger gem.

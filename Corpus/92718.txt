@@ -1,0 +1,1 @@
+ URL : "https://github.com/mattharrison/IllustratedPy3/issues/76" TITLE : 15.3 opportunity to use += BODY : just curious why you used result = result + item instead. it seems like a good time to at least add a note after the example to tell the reader that += could be used to shorten the summation line, or you could just use result += item and then explain it with a note.

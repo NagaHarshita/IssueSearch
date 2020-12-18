@@ -1,0 +1,1 @@
+ URL : "https://github.com/GateNLP/gate-top/issues/7" TITLE : more details in pom.xml BODY : the pom.xml for each plugin should provide a proper name and description

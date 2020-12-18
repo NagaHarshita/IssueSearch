@@ -1,0 +1,1 @@
+ URL : "https://github.com/aldryn/aldryn-boilerplates/issues/23" TITLE : no one to maintain it? BODY : ？？？it has a bug. in --------------------------/aldryn_boilerplates/template_loaders.py , line 43, in _populate_cache. conflicts with appconfig.

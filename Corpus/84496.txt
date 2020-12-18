@@ -1,0 +1,1 @@
+ URL : "https://github.com/ga-wdi-boston/rails-api-template/issues/55" TITLE : database.yml linter issue BODY : config/database.yml is blowing up the linter on the top line. possible use of literal in void context

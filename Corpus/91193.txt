@@ -1,0 +1,1 @@
+ URL : "https://github.com/BoostIO/Boostnote/issues/982" TITLE : taglist cannot be scroll. BODY : <img width= 1679 alt= 2017-10-15 23 09 29 src= https://user-images.githubusercontent.com/14838850/31585524-20aaefd8-b1fe-11e7-868d-e3545421628e.png > i assumed that we can scroll when my tag list exceeds the display size, but actually we cannot scroll it.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/spatie/pdf-to-image/issues/26" TITLE : class 'imagick' not found BODY : when i try to convert a file shows message class 'imagick' is not found, try installing the class imagick and added extension on my php but the message persists. any idea why that happens, i would appreciate some help

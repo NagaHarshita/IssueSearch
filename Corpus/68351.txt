@@ -1,0 +1,1 @@
+ URL : "https://github.com/AlexanderFalk/hackernews_backend/issues/43" TITLE : reverse /latest search. BODY : make mongodb grab the last item inserted, without iterating through all the data.

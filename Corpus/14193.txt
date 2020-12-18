@@ -1,0 +1,1 @@
+ URL : "https://github.com/Mindsers/configfile/issues/19" TITLE : add linting tests BODY : the project is not linted today. we need to use a static analyser like eslint http://eslint.org to ensure that the code respect quality standards.

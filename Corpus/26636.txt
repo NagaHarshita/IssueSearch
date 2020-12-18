@@ -1,0 +1,1 @@
+ URL : "https://github.com/iotaledger/iota.lib.go/issues/4" TITLE : bug in bytestotrits BODY : shouldn't there be t i = -t i ? https://github.com/iotaledger/iota.lib.go/blob/ca0a7f228c2681bc58d9c7b11154732098073799/trinary.go l289

@@ -1,0 +1,1 @@
+ URL : "https://github.com/TheGnarCo/gnareact/issues/1" TITLE : add redux entity config BODY : todo: - create package for redux entity config - add redux entity config package reference: kolide repo https://github.com/thegnarco/kolide-ose/tree/master/frontend/redux/nodes/entities/base

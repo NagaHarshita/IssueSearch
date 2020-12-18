@@ -1,0 +1,1 @@
+ URL : "https://github.com/World-wd/Peeper/issues/41" TITLE : users to mention menu BODY : when user uses the @ , a list with follows/followers+search bar will appear. this will remove the need to use a : after mentions. this can differentiate a user mention from a typed id/email, for example.

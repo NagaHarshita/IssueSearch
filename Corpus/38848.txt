@@ -1,0 +1,1 @@
+ URL : "https://github.com/neighthan/gpu_utils/issues/5" TITLE : real gpu information BODY : replace the dummy gpu data with real output from nvidia-smi . parse this into the format expected by the frontend.

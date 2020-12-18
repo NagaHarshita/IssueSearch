@@ -1,0 +1,1 @@
+ URL : "https://github.com/coreos/jetcd/issues/85" TITLE : test kv api BODY : - put - get - delete - transaction - compact

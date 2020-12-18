@@ -1,0 +1,1 @@
+ URL : "https://github.com/LouisIV/Magic/issues/1" TITLE : create module framework BODY : create a base class for modules. this class should be inherited by all modules so that any changes to this base class can be received by all the modules.

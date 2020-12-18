@@ -1,0 +1,1 @@
+ URL : "https://github.com/ZeroSide-Project/zeroside/issues/3" TITLE : add folder support BODY : this is a high priority feature, since 1.0, we need to implement folder support in both directory public + private _warning: this feature may include api changes_

@@ -1,0 +1,1 @@
+ URL : "https://github.com/haghish/markdoc/issues/23" TITLE : update to pandoc 2.0 BODY : --reference-docx is no longer supported this message is issued by pandoc : --smart/-s has been removed. use +smart or -smart extension instead. for example: pandoc -f markdown+smart -t markdown-smart.

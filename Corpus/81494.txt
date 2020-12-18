@@ -1,0 +1,1 @@
+ URL : "https://github.com/zcash/zcash/issues/2400" TITLE : zcash-dbg- .deb packages BODY : when publishing .deb packages for zcash, also publish corresponding -dbg packages containing debug symbols, for debugging and profiling. for example, zcash-1.0.8-1-amd64.deb should be accompanied by zcash-dbg-1.0.8-1-amd64.deb . see https://wiki.debian.org/debugpackage .

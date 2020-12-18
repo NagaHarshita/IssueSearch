@@ -1,0 +1,1 @@
+ URL : "https://github.com/vicper-4/D0021E/issues/24" TITLE : refactor move event BODY : refactor move event into disconnect and connect to allow delay between the two and better simulate a real situation.

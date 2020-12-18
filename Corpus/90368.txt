@@ -1,0 +1,1 @@
+ URL : "https://github.com/greenbone/gsa/issues/25" TITLE : set defaults for gmp apis BODY : currently in the gmp apis it's not clear which parameters are mandatory any optional. therefore we should set sane defaults as much as possible. e.g. gmp.xyz.save {abc = 'mydefault'}

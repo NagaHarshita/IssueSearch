@@ -1,0 +1,1 @@
+ URL : "https://github.com/codekoala/go-aws-lanes/issues/17" TITLE : customize table output BODY : the list / ls command should support customized table output. - include specific columns - hide specific columns - reorder columns - hide the table entirely

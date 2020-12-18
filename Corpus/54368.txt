@@ -1,0 +1,1 @@
+ URL : "https://github.com/untoreh/pine/issues/3" TITLE : friggin monitor builds BODY : got to monitor builds so that rolling versions don't fall off - doing catchups of many versions is not really nice because we use a fixed image size, which means a big diff usually requires too much space in the ostree repo, for ovz it should be fine though

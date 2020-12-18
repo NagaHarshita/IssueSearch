@@ -1,0 +1,1 @@
+ URL : "https://github.com/moko365/android-best-practice-training/issues/1" TITLE : 編譯 aosp 4.0.3_r1 BODY : 編譯環境 ubuntu 16.04 oracle jdk 6 sudo apt-get install python-software-properties sudo add-apt-repository ppa:webupd8team/java sudo apt-get update sudo apt-get install oracle-java6-installer sudo update-alternatives --config java 下載

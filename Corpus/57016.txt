@@ -1,0 +1,1 @@
+ URL : "https://github.com/Payum/Payum/issues/653" TITLE : paypal payouts support BODY : does this bundle support paypal payouts https://developer.paypal.com/docs/api/payments.payouts-batch/ ? i saw some paypal rest api examples https://github.com/payum/payum/blob/master/docs/paypal/rest/get-it-started.md but i haven't seen payouts one.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/sonyccd/crop_row_follow/issues/2" TITLE : rospy and the magic mouse BODY : if i run my ros python code with ros my mouse turns into a cross that is trying to draw a selection box. the code hangs. after it stops i am left with files in the directory i ran the code at having the name of each library i imported.

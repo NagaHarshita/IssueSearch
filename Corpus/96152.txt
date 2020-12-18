@@ -1,0 +1,1 @@
+ URL : "https://github.com/gophish/gophish/issues/639" TITLE : emails headers in campaign BODY : when you input any x-custom-headers in a sending profile, the header works with a send test email . however, when you go to send an email with the same sending profile in a campaign, it ignores the custom header.

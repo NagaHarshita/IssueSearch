@@ -1,0 +1,1 @@
+ URL : "https://github.com/FReBOmusic/FReBO/issues/31" TITLE : from map screen BODY : in the event that the user selects the list-map toggle button from the map screen. expected response : the list screen should be displayed to the user.

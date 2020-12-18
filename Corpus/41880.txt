@@ -1,0 +1,1 @@
+ URL : "https://github.com/Automattic/vip-cli/issues/117" TITLE : add output formatting BODY : commands that return data from the api should offer --format and --fields flags similar to wp-api.

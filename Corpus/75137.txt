@@ -1,0 +1,1 @@
+ URL : "https://github.com/cszn/DnCNN/issues/20" TITLE : get back the clean image BODY : hi, is that possible to change the demo test model in trainingcodes to get back the clean image instead of the residual image? or need to re-initialize the model and train the model again? thanks!

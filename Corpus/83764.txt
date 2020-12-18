@@ -1,0 +1,1 @@
+ URL : "https://github.com/TechnionYP5777/SmartCity-Accessibility/issues/280" TITLE : client side comlex search BODY : the user should be able to ask for a complex search. you should create a page where the user can select the parameters of the complex search and send a request to the server.

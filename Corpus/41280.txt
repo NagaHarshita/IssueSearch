@@ -1,0 +1,1 @@
+ URL : "https://github.com/usa6463/IntelligentDrumBeat/issues/3" TITLE : .gp 파일 파싱 툴 BODY : .gp 파일을 파싱하여 time series가 index이고 값이 scale인 1차원 배열을 만들어야 함. gp parser + 추가기능 직접 작성하여 완성해야 할듯.

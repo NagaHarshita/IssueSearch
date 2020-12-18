@@ -1,0 +1,1 @@
+ URL : "https://github.com/marein/php-gambling-website/issues/8" TITLE : implement csrf protection BODY : __problem description__ since we use cookie based authentication, this application is vulnerable to csrf.

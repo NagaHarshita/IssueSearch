@@ -1,0 +1,1 @@
+ URL : "https://github.com/bramstein/homebrew-webfonttools/issues/14" TITLE : sfnt2woff formula broken BODY : this appears to be because the site is down: http://people.mozilla.com/~jkew/woff/ possible this is an issue on my end, so you should double check

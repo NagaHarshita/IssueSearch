@@ -1,0 +1,1 @@
+ URL : "https://github.com/popcodeorg/popcode/issues/838" TITLE : clean up notification ui BODY : notifications don’t currently look great: ! image https://cloud.githubusercontent.com/assets/14214/26529557/d5722108-438f-11e7-84cc-e81ac5600450.png worst part is the misaligned close box, but could probably generally look a little fresher.

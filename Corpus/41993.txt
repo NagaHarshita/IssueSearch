@@ -1,0 +1,1 @@
+ URL : "https://github.com/zyxar/Sublime-CMakeLists/issues/17" TITLE : add tags and messages BODY : you may want to add a tag system https://packagecontrol.io/docs/submitting_a_package and also some messages for the users https://packagecontrol.io/docs/messaging as that's required by package control nowadays.

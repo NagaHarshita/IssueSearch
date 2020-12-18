@@ -1,0 +1,1 @@
+ URL : "https://github.com/openhab/openhab.android/issues/459" TITLE : image in sitemap BODY : image in sitemap not always shown and when it does it is slow and doesn't usually refresh when accessing with chrome on android its fine image label= livingcam url= http://172.16.10.106/zm/cgi-bin/nph-zms?mode=single&monitor=2&scale=50&user=xxxx&pass=xxx refresh=500

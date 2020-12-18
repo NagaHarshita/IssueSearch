@@ -1,0 +1,1 @@
+ URL : "https://github.com/cnnlabs/cnn-messaging/issues/19" TITLE : install issue on npm 5.3 BODY : these is a known issue in npm 5.3 that prevents this from installing correctly. npm install -g npm@5.4 fixes this. leaving this here for sanity.

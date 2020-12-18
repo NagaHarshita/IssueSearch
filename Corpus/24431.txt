@@ -1,0 +1,1 @@
+ URL : "https://github.com/kennethreitz/crayons/issues/7" TITLE : str.join is broken BODY : python import crayons s1 = this s2 = crayons.red breaks s1.join s2 >>> typeerror: sequence item 0: expected str instance, coloredstring found

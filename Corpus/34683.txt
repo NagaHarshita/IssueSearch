@@ -1,0 +1,1 @@
+ URL : "https://github.com/sethwalsh/MonitoringClient3/issues/7" TITLE : config client reload BODY : determine if needed an efficient way to reload the client if any server changed settings require it.

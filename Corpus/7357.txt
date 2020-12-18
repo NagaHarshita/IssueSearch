@@ -1,0 +1,1 @@
+ URL : "https://github.com/ioos/notebooks_demos/issues/216" TITLE : fix ci failures BODY : - figure out missing data 214 - x fix python 3 syntax 211 - x use iris with matplotlib 2 https://github.com/conda-forge/iris-feedstock/pull/22 and the 1-dim label patch https://github.com/scitools/iris/pull/2360 - x update code to latest folium 215

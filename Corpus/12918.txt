@@ -1,0 +1,1 @@
+ URL : "https://github.com/Cadasta/ZipStream/issues/10" TITLE : simplify fileobj BODY : having base , path , and dest feels not intuitive and a bit awkward. recommend switching to a simpler url and dest object: js { url : s3://mybucket/a/nested/key.jpg , dest : output/path.jpg }

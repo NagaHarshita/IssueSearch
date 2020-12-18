@@ -1,0 +1,1 @@
+ URL : "https://github.com/r4dx/sentinel-hill/issues/25" TITLE : move to visual studio BODY : justification: new version of vs supports custom compilers which potentially makes it possible to connect it to pio and have all the cool features of vs definition of done: 1. i can build, deploy and test project via vs

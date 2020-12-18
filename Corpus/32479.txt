@@ -1,0 +1,1 @@
+ URL : "https://github.com/elementary/switchboard-plug-useraccounts/issues/11" TITLE : use toasts for undo BODY : use the new granite toasts widget for the undo pattern like audience launchpad details: lp1652169 https://bugs.launchpad.net/bugs/1652169 daniel fore - 2016-12-22 21:57:08 +0000

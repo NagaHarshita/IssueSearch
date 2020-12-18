@@ -1,0 +1,1 @@
+ URL : "https://github.com/indigo-dc/tts/issues/346" TITLE : sessions max lifetime BODY : add a setting to have a maximum length of a lifetime, to ensure that sessions get killed even if frequently used, this forced a re-login after the given amount of time

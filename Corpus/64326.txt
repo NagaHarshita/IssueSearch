@@ -1,0 +1,1 @@
+ URL : "https://github.com/xamarin/urho/issues/191" TITLE : frustum struct is empty BODY : the camera class has some methods that return a frustum, but frustum in the c bindings is just an empty struct.

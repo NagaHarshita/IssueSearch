@@ -1,0 +1,1 @@
+ URL : "https://github.com/TitouanVanBelle/XCUITestHTMLReport/issues/14" TITLE : support jpeg attachments BODY : xcode 9 beta 4 uses now the jpeg format for screenshots. > screenshots captured automatically during ui testing are saved as images in the jpg format instead of png. 32719585

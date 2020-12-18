@@ -1,0 +1,1 @@
+ URL : "https://github.com/btc-ag/redg/issues/1" TITLE : release on maven central BODY : redg has to be released on maven central to be of any real use. todo - x get access to com.btc-ag on ossrh - add necessary metadata to poms - automatically supply javadoc and sources with every maven build - prepare gpg signing - publish to oss.sonatype.org - release on central

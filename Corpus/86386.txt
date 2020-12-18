@@ -1,0 +1,1 @@
+ URL : "https://github.com/kasp3r/link-preview/issues/14" TITLE : how to avoid blocked port BODY : hi, is the plugin validating the blocked ports? for example, www.dinamalar.com is working, suppose if the user enters https://dinamalar.com then it will crash as the port 443 is not open on that website. how to fix this issue?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla-services/pageshot/issues/2306" TITLE : implement shooting page BODY : in order to implement we need the following: - ux spec with measurements, colors etc - svg image assets

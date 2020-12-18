@@ -1,0 +1,1 @@
+ URL : "https://github.com/ubnt-intrepid/finchers/issues/7" TITLE : add helper macros BODY : rust struct name { ... } impl fromstr for name { ... } fn endpoint -> impl endpoint<item = name, u32 > + 'static { get! /foo/bar/<name>/<u32>/ }

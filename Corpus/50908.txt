@@ -1,0 +1,1 @@
+ URL : "https://github.com/jsoendermann/mouette/issues/3" TITLE : add enforce-enums rule BODY : this is a fuzzy rule that should try to figure out if there are abnormal values in a column that looks like an enum

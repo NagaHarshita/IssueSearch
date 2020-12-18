@@ -1,0 +1,2 @@
+ URL : "https://github.com/nim-lang/needed-libraries/issues/52" TITLE : steamsdk from valve BODY : i like the libs, but i wish there was a wrapper for the steamsdk from valve.
+the only thing that i’ve been missing so far as a good orm for working with relational data in an object oriented manner. i always want to help improve the mongodb driver. from nim community survey 2017

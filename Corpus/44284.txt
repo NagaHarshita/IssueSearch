@@ -1,0 +1,1 @@
+ URL : "https://github.com/thomasjlee/jetoj/issues/5" TITLE : error on events index BODY : nomethoderror in events index showing .../jetoj/app/views/events/index.html.erb where line 13 raised: undefined method ' for nil:nilclass

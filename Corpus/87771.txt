@@ -1,0 +1,1 @@
+ URL : "https://github.com/Debian/debiman/issues/58" TITLE : man git rebase equivalent BODY : man at least as i have it here on fedora is able to find two-word-named manpages, e.g., man git rebase works. it doesn't for m.d.o. where i have to use git-rebase instead.

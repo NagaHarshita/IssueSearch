@@ -1,0 +1,1 @@
+ URL : "https://github.com/floere/phony/issues/377" TITLE : cayman islands support BODY : to my understanding, the cayman islands have a country code of 1-345—but this is virtually indistinguishable from the us area code 1 345 xxx-xxxx. how would i go about adding support for ky to phony?

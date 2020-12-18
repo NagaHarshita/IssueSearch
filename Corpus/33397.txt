@@ -1,0 +1,4 @@
+ URL : "https://github.com/JaspervRijbroek/aurora-launcher/issues/1" TITLE : add morrighan option BODY : an option is to be added so the user can specify to use morrighan if found. - add choice to interface
+- send option to python.
+- check for morrighan.exe in python
+- add exception of the file wasn't found or option was set to false.

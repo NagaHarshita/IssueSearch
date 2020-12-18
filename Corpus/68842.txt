@@ -1,0 +1,1 @@
+ URL : "https://github.com/bokeh/bokeh/issues/6557" TITLE : simplify bokehjs' build BODY : this is needed to make it behave in the js/npm ecosystem.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/andapopovici/tetris-pygame/issues/3" TITLE : create basic game screen BODY : with 3 basic components that don't do anything for now - game board - score - next shape s

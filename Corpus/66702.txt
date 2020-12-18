@@ -1,0 +1,1 @@
+ URL : "https://github.com/dreid3/York-Engineering-Society-Website-2.0/issues/34" TITLE : new letters month field BODY : change the string month field in the newsletter class to the java calendar.

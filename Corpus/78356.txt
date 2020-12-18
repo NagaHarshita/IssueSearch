@@ -1,0 +1,1 @@
+ URL : "https://github.com/YasuakiHonda/Maxima-on-Android/issues/15" TITLE : problem solve by newton1 BODY : load newton1 ; log10 x := log x /log 10 ; newton 1/sqrt x + 2 log10 2.51/ 117030 sqrt x , x, 5, 0.001 ; does not works! find bug in 1/sqrt x

@@ -1,0 +1,1 @@
+ URL : "https://github.com/dcr30/vscode-lualinter/issues/4" TITLE : can't get it to work BODY : hello, so, i've compiled lua, added the folder where luac.exe is located to path and still can't get the linter to work. if i just open a cmd from windows and do luac -p <file> it works, so the compiling was done properly. can you help me out? :

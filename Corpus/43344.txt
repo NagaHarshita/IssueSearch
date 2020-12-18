@@ -1,0 +1,1 @@
+ URL : "https://github.com/ghi-electronics/TinyCLR-Ports/issues/68" TITLE : couldn't add more spi BODY : can not add more spi on nucleo i make example with g80 could add without problem but nucleo-f411re fail compile i belive it was problem probably need to use stm32f411xe instead stm32f401xe

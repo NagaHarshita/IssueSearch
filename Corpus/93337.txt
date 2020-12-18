@@ -1,0 +1,1 @@
+ URL : "https://github.com/devsummit/app/issues/5" TITLE : add register functionality BODY : given user click on the register button in register screen: - user should send the following payload to /auth/register { first_name: 'somename', last_name: 'somelastname', email: 'someemail', username: 'someusername', password: 'somepass', role: 'role ' } role is as stated in 3

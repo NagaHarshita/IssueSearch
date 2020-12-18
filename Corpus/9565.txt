@@ -1,0 +1,1 @@
+ URL : "https://github.com/OSC/ood-documentation/issues/9" TITLE : 11. ldap support BODY : the ldap uri for osc does not work correctly. updating to: - 'authldapurl ldap://cts06.osc.edu/ou=people,ou=hpc,o=osc?uid ' fixed the issue.

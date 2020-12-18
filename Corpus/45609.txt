@@ -1,0 +1,1 @@
+ URL : "https://github.com/pymc-devs/pymc3/issues/2132" TITLE : improve doc structure BODY : two projects that might be generally useful: - add sphinx gallery https://sphinx-gallery.readthedocs.io/en/latest/ to the docs - versioned docs see, for example, http://elasticsearch-py.readthedocs.io/en/master/ , which i think was brought up in 2126.

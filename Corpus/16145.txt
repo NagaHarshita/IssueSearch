@@ -1,0 +1,1 @@
+ URL : "https://github.com/chingor13/json_api_client/issues/257" TITLE : how to basic auth BODY : hi! my json api client need to do basic authentication. i have the username and password. how can i include them. support the credentials are username: my_user password: secret url: http://api.example.com thanks in advance krazedkrish

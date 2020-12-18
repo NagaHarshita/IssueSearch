@@ -1,0 +1,1 @@
+ URL : "https://github.com/MakerBox-NZ/Pygame_George/issues/14" TITLE : type vs key BODY : if event.type == pygame.k_up or event.key == ord 'w' : player.jump platform_list should be if event.key == pygame.k_up or event.key == ord 'w' : player.jump platform_list

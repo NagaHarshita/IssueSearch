@@ -1,0 +1,1 @@
+ URL : "https://github.com/HarryEMartland/werewolves/issues/5" TITLE : vote bar charts BODY : the votes should be represented as bar charts bootstrap progress bars . the player with the most votes bar should be red. if there are any draws in votes all bars which are highest should be in yellow. all other bars should be blue the number of votes should be in the bar

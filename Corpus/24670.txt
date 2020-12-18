@@ -1,0 +1,1 @@
+ URL : "https://github.com/michaeldito/Cut-Cut-Cut-Act/issues/16" TITLE : temporary tax cuts BODY : in the senate bill, the individual tax cuts go away after a certain number of years. add all the necessary code so that we can show users what their tax bill would be in year x when the tax cuts go away.

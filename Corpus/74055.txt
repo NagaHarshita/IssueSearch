@@ -1,0 +1,1 @@
+ URL : "https://github.com/qaap/rpc-websockets/issues/20" TITLE : does it work on windows? BODY : i paste the example as you have it on your readme.md and run it and the only output is 'feedupdated'

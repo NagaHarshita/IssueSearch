@@ -1,0 +1,1 @@
+ URL : "https://github.com/PennyDreadfulMTG/Penny-Dreadful-Tools/issues/3396" TITLE : 500 error at /api/gitpull BODY : errno 12 cannot allocate memory reported on decksite by logged_out

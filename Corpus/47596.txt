@@ -1,0 +1,1 @@
+ URL : "https://github.com/JFK422/Axon/issues/1" TITLE : possible bug on login BODY : i haven't investigated this so far, but i think there is a bug on the login, because it requires an item to be present in the database in order to check if the key given is usable. require random encrypted item to be created on startup and then filtered out in the list view.

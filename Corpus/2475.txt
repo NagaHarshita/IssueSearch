@@ -1,0 +1,1 @@
+ URL : "https://github.com/damien-carcel/app-skeleton/issues/2" TITLE : add stylelint BODY : currently, only javascript is linted, but css/less needs to be too. - add stylelint package - configure it

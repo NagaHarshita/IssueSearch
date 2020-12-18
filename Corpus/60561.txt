@@ -1,0 +1,1 @@
+ URL : "https://github.com/rstudio/rstudioapi/issues/30" TITLE : access file-save dialog BODY : this may be the same as 27 in my case, i would like access to a file-save dialog for a shiny-gadget addin.

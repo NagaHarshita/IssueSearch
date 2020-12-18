@@ -1,0 +1,1 @@
+ URL : "https://github.com/minemidnight/oxyl/issues/36" TITLE : oxyl dog does not work BODY : the oxyl dog command fails on my server with the error message typeerror: cannot read property 'symbol symbol.iterator ' of undefined at process /home/dbots/oxyl/src/bot/commands/default/dog.js:10:2 at <anonymous>

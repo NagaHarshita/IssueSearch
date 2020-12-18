@@ -1,0 +1,1 @@
+ URL : "https://github.com/acidvegas/spaggiari/issues/2" TITLE : list index out of range BODY : hi, bot seems really nice ! i'm having an issue when running it; when i send on irc the following message : @range b 192.168 the bot crashes and in the terminal i get : 01:52:12 | ! - unexpected error occured. list index out of range

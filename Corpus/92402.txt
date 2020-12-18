@@ -1,0 +1,1 @@
+ URL : "https://github.com/jborg/attic/issues/392" TITLE : windows standalone binary BODY : dear jonas, could you be so kind to generate .exe for the rest of us who use windows w/o python? i’m told that py2exe 1 might help you to achieve that. 1 : http://py2exe.org/

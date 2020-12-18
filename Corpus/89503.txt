@@ -1,0 +1,1 @@
+ URL : "https://github.com/twilio/stashboard/issues/80" TITLE : question about installing BODY : open the sdk, choose file > add existing application... and select the stashboard folder inside the cloned repository what do you mean sdk? google cloud sdk? it's only bash basically, explain?

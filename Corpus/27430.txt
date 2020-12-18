@@ -1,0 +1,1 @@
+ URL : "https://github.com/shawn25n92/SQLBrowser/issues/1" TITLE : data source manager BODY : build a class datasourcemanager that will handle all data source connections and sql code execution phase 1 ensure connectivity to sql server based on user entered credentials

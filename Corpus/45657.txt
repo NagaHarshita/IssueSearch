@@ -1,0 +1,1 @@
+ URL : "https://github.com/sprjr/react-access/issues/17" TITLE : improve travis matrix BODY : per https://github.com/sprjr/react-access/pull/16 discussion_r112084026 we might want to use a main_run variable or something for enhancing this behavior.

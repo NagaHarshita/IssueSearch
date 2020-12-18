@@ -1,0 +1,1 @@
+ URL : "https://github.com/ibis-project/ibis/issues/1175" TITLE : parquet back end BODY : once 1167 is in, this should be straightforward we should directly depends on pyarrow . docs are here https://arrow.apache.org/docs/python/parquet.html . this will nicely support projection and predicate pushdown.

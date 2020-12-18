@@ -1,0 +1,1 @@
+ URL : "https://github.com/jantimon/html-webpack-plugin/issues/699" TITLE : add support for webpack 3 BODY : webpack 3.0-rc was released and this plugin currently doesn't support it. i haven't tested it yet, so it might be just a question of updating the peerdependency.

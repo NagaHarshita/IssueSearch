@@ -1,0 +1,1 @@
+ URL : "https://github.com/dowjones/react-cellblock/issues/17" TITLE : static build for gh-pages BODY : in the upgrade for version 3.0, the static build for the examples broke. so that needs to be fixed. it would also be good to create a script for updating gh-pages

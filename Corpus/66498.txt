@@ -1,0 +1,1 @@
+ URL : "https://github.com/NCAR/ParallelIO/issues/925" TITLE : mpi-serial build broken BODY : undefined reference to mpi_type_create_hvector' i thought that there was a workaround in the code for this, did it get removed? http://my.cdash.org/buildsummary.php?buildid=1157043

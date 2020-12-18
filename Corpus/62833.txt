@@ -1,0 +1,1 @@
+ URL : "https://github.com/leeks-and-dragons/leeks-and-dragons/issues/31" TITLE : create own map renderer BODY : create own map renderer, because libgdx tiledmaprenderer doesnt allow to set other position.

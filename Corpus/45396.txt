@@ -1,0 +1,1 @@
+ URL : "https://github.com/jmurrayufo/ZooBot/issues/5" TITLE : humidity values spike BODY : humidity sensors sometimes spike 16% -> 80% in seconds . detect these spikes and avoid them.

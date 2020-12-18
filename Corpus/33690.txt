@@ -1,0 +1,1 @@
+ URL : "https://github.com/austinhuang0131/discord-ban-list-node/issues/3" TITLE : always returns false BODY : i copied an id from https://bans.discordlist.net/ and checked if it was indeed banned using dbl 1234567890 .then isbanned => { console.log isbanned ; } .catch console.log ; isbanned returned false.

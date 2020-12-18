@@ -1,0 +1,1 @@
+ URL : "https://github.com/railsware/upterm/issues/1058" TITLE : search in .bash_history BODY : it would be nice to have some way of searching through the .bash_history file, because sometimes autocomplete doesn't show it in history if it starts the same as a lot of other commands, sudo , for example . or a way to configure how many history autocompletions are shown

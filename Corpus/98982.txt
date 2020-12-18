@@ -1,0 +1,1 @@
+ URL : "https://github.com/gbrod94/prj-rev-bwfs-dasmoto/issues/3" TITLE : look into using <div> tags BODY : <div> tags will help in organizing your code. familiarize yourself with how to use them so that as you work on more complex projects your code will be easier to maintain. div tags https://developer.mozilla.org/en-us/docs/web/html/element/div

@@ -1,0 +1,1 @@
+ URL : "https://github.com/LourensVeen/simple-cwl-xenon-service/issues/5" TITLE : make integration test BODY : there should be an integration test that has a client, the service, and a slurm instance all in separate containers, and running an integration test together.

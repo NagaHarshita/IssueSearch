@@ -1,0 +1,1 @@
+ URL : "https://github.com/mattferris/fwkit/issues/5" TITLE : add backup-server role BODY : enable services: remote dns, ntp, http, ssh; local ssh, ntp

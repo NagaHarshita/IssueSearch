@@ -1,0 +1,1 @@
+ URL : "https://github.com/Edurate/edurate/issues/50" TITLE : address pep8 errors BODY : there are linting errors throughout the code base. these should be addressed.

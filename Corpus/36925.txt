@@ -1,0 +1,6 @@
+ URL : "https://github.com/Alecaddd/sequeler/issues/17" TITLE : invalid appdata file BODY : appcenter dashboard ran appstreamcli validate on your project's .appdata.xml file and
+received the following errors: e - com.github.alecaddd.sequeler.appdata.xml:~ could not parse xml data. validation failed: errors: 1 --- for more information, see:
+- the appstream quickstart guide https://www.freedesktop.org/software/appstream/docs/chap-quickstart.html - the appstream metadata specification https://www.freedesktop.org/software/appstream/docs/chap-metadata.html if you need help with this issue please stop by the gitter https://gitter.im/elementary/houston channel. affects : v0.1.1 release https://github.com/alecaddd/sequeler/releases/tag/v0.1.1 <!--
+pipe: appdata
+pipe time: wed oct 04 2017 19:23:03 gmt+0000 utc houston version: 0.4.1 aab6e42bcbca7ab2eb14395eda24c9da16609cee houston env: production
+-->

@@ -1,0 +1,1 @@
+ URL : "https://github.com/fastify/fastify-register-timeout/issues/4" TITLE : plugin name convention? BODY : what is plugin.name https://github.com/fastify/fastify-register-timeout/blob/master/index.js l19 ? this should be documented in the readme.

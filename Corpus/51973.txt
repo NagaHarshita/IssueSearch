@@ -1,0 +1,1 @@
+ URL : "https://github.com/dave-irvine/packbits/issues/1" TITLE : bytestohex is missing? BODY : hi, i'm using the packbits module currently and found that bytestohex didn't define in encode.js , is there really missing or just misunderstanding?

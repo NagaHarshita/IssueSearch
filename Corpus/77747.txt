@@ -1,0 +1,1 @@
+ URL : "https://github.com/fukamachi/jsonrpc/issues/10" TITLE : notify from other thread BODY : for example jsonrpc:expose server method lambda params bt:make-thread lambda jsonrpc:notify-async server window/logmessage ... nil in this case connection is unbound in jsonrpc/class:notify-async

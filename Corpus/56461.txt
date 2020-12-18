@@ -1,0 +1,1 @@
+ URL : "https://github.com/egnha/valaddin/issues/17" TITLE : negate a check formula BODY : define a generic operator isnt which negates check formulae and localized check makers. should take into account that the predicate may be expressed as a lambda function.

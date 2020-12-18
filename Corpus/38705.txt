@@ -1,0 +1,1 @@
+ URL : "https://github.com/585-software/rocdev/issues/59" TITLE : put dns in terraform BODY : feature description configure dns with terraform. arguments for the feature currently, rebuilding a server means i have to manually update dns. this is unacceptable.

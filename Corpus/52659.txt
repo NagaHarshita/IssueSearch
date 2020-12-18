@@ -1,0 +1,1 @@
+ URL : "https://github.com/dnajs/dna.js/issues/46" TITLE : convert spec.js to es6 BODY : convert <a href= https://github.com/dnajs/dna.js/blob/master/spec.js >spec.js</a> to es6. -- var to let or const as appropriate -- require to import

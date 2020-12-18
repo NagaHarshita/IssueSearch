@@ -1,0 +1,1 @@
+ URL : "https://github.com/devsoulwolf/MaterialRadioGroup/issues/8" TITLE : it doesn't work BODY : error:could not get unknown property 'bintray_user' for object of type com.jfrog.bintray.gradle.bintrayextension. thanks

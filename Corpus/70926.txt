@@ -1,0 +1,1 @@
+ URL : "https://github.com/CUBRID/cubrid-odbc/issues/6" TITLE : 10.1 cubrid-odbc release BODY : 1. objective - to make cubrid-odbc driver conform to upcoming cubrid 10.1 release. 2. related works - x fix memory corruption in unicode version - x modify unittest for cubrid 10.1 release 3. expected release date - june 30, 2017

@@ -1,0 +1,1 @@
+ URL : "https://github.com/austinmiller/augustmc/issues/16" TITLE : make autologging an option BODY : right now, aug automatically logs, which is not desirable. it should be an opt-in options.

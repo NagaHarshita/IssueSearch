@@ -1,0 +1,1 @@
+ URL : "https://github.com/nfode/TOSCAna/issues/10" TITLE : setup our build tools BODY : if we start to develop we need our build tools ready. it might be harder to setup maven and travis for a repo with different subfolders. so somone should look into this.

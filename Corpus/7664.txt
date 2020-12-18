@@ -1,0 +1,1 @@
+ URL : "https://github.com/ballerinalang/ballerina/issues/3769" TITLE : http pipelining BODY : at the moment http pipelining is not supported. we need to support this on persistent connections.

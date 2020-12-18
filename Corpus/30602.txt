@@ -1,0 +1,13 @@
+ URL : "https://github.com/Zimmi48/bugzilla-test/issues/5711" TITLE : probleme de nommage BODY : note: the issue was created automatically with bugzilla2github tool bugzilla bug id: 24
+date: 2001-05-31 17:21:35 +0200
+from: @ letouzey
+to: last updated: 2001-05-31 17:21:35 +0200 bugzilla comment id: 590
+date: 2001-05-31 17:21:35 +0200
+from: @ letouzey full_name: pierre letouzey
+version: v7
+os: submission from: ppc8-117.lri.fr 129.175.8.117 je suis tombé sur le malaise suivant en passant la contrib utrecht/abp j'ai simplifié l'exemple de abp-defs.v definition h:= x:nat x.
+lemma toto: n:nat le o n -> le o h n .
+intros. 1 subgoal n : nat h : le o n ============================ le o h n unfold h. error: h does not denote an evaluable constant parce qu'evidement h pour lui est l'hypothèse interne.
+et malgré ca, un print h à l'interieur de la preuve donne le terme externe. bizarre, vous avez dit bizarre ? dernier point, la v6.3 faisait bien le renommage h => h0 pour l'hyp interne. bugzilla comment id: 591
+date: 2007-07-04 17:02:50 +0200
+from: @ letouzey fixed.

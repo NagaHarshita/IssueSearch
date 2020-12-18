@@ -1,0 +1,1 @@
+ URL : "https://github.com/ProteinsWebTeam/taxonomy-visualisation/issues/1" TITLE : prune parts of the tree BODY : add ability through an option to prune parts of the tree if there is branching on this part. make it visible somehow, and toggle on click or on focus.

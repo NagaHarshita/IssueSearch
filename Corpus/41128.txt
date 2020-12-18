@@ -1,0 +1,1 @@
+ URL : "https://github.com/tdewaha/arduino-pocsag/issues/2" TITLE : wrong address decode BODY : when receiving a pocsag message with the address 1245780, the wrong address 1245776 is decoded. the difference between the real address and the decoded address is between 0...4. and some addresses are correct decoded e.g. 1245793 .

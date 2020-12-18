@@ -1,0 +1,8 @@
+ URL : "https://github.com/Zimmi48/bugzilla-test-2/issues/1504" TITLE : broken ftp links BODY : note: the issue was created automatically with bugzilla2github tool original bug id: bz 519
+date: 2004-03-01 11:54:32 +0100
+from: joseph.ruskiewicz@inf.ethz.ch
+reported version: 8.1 last updated: 2004-03-01 11:54:32 +0100 joseph.ruskiewicz@inf.ethz.ch on 2004-03-01 11:54:32 +0100 full_name: joseph n. ruskiewicz
+version: all
+os: gentoo
+submission from: se-pc16.inf.ethz.ch 129.132.19.51 the soft links in the ftp server for coq are all broken. it appears that
+inria/projects/logical is not around. thank you again for the great work. joseph joseph.ruskiewicz@inf.ethz.ch on 2007-07-04 17:03:34 +0200 ftp server of inria is down from times to times...

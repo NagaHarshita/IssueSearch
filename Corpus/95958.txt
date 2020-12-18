@@ -1,0 +1,1 @@
+ URL : "https://github.com/kaushalmodi/ox-hugo/issues/110" TITLE : don't double escape at bol BODY : this is probably a bug in ox-md. once it's fixed here, patch the same upstream in org.

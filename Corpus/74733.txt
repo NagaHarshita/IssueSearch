@@ -1,0 +1,1 @@
+ URL : "https://github.com/circleci/circleci-docs/issues/622" TITLE : feed needs to be updated BODY : the rss feed needs to be updated to support the new site architecture of having sections, and all the new docs.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/brotherlogic/records/issues/64" TITLE : fix the spend calculation BODY : seems to be returning 0 all the time - add some debugging to check on this

@@ -1,0 +1,1 @@
+ URL : "https://github.com/sebinsua/graphviz-config-template/issues/3" TITLE : tasks before release BODY : - restructure. - rewrite tests. - refactor until code is clean - add more debugs and docs. - pull errors to edges. - i want to clean the attributes of dot only stuff before sending them to neo4j. learn meaning of each of these, just in case some are relevant.

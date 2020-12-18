@@ -1,0 +1,1 @@
+ URL : "https://github.com/HerringtonDarkholme/typescript-repl/issues/21" TITLE : last return value BODY : in tsun repl, is there a shortcut to access the last return value? like '_' in the node repl?

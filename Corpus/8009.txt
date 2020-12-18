@@ -1,0 +1,1 @@
+ URL : "https://github.com/ODiogoSilva/report-nf/issues/1" TITLE : main data table BODY : - sample name - reads - bp - expected coverage with threshold - % trimmed - expected coverage 2 with threshold - spades - contigs - assembled bp - pilon - contigs - assembled bp

@@ -1,0 +1,1 @@
+ URL : "https://github.com/rgraciano/echo-sonos/issues/113" TITLE : help - newbie BODY : hi - i have created the skill and also got so far down the road with aws lambada setup. when i test it i get error: { errormessage : handler 'handler' missing on module 'index' } also i cant see where i am supposed to upload the src.zip file to

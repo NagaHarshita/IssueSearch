@@ -1,0 +1,1 @@
+ URL : "https://github.com/kantoks/skrupel/issues/65" TITLE : php 7 compatibility BODY : since the database connectivity changed in php 7, a redesign is needed to make skrupel work on this php version. this issue exists just for planning purposes

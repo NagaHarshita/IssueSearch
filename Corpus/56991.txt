@@ -1,0 +1,1 @@
+ URL : "https://github.com/unicef/un-partner-portal/issues/395" TITLE : partner users list api BODY : please create read-only listapiview for each partner's members. /api/partners/id/members/

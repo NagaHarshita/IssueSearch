@@ -1,0 +1,1 @@
+ URL : "https://github.com/ContinuumIO/anaconda-recipes/issues/112" TITLE : django update version BODY : django is now at version 1.11.2 while the version on anaconda is 1.10.5. is it possible to have an updated version?

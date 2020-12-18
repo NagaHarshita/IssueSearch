@@ -1,0 +1,1 @@
+ URL : "https://github.com/arrayfire/arrayfire/issues/1901" TITLE : gfor example matmul failed BODY : the code in example for gfor http://arrayfire.org/docs/page_gfor.htm most bottom fails. // before gfor seq k, 400 { array b = a span,k ; c span,span,k = matmulnt b b ; // outer product expansion runs out of memory } error message: matmul can not be used in batch mode

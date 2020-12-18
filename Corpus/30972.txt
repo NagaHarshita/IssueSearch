@@ -1,0 +1,1 @@
+ URL : "https://github.com/zulaica/atmosphere/issues/10" TITLE : rename yarn options BODY : ! some options have been renamed https://gist.github.com/rich-harris/d472c50732dab03efeb37472b08a3f32 options.entry is now options.input options.sourcemap is now options.sourcemap options.dest is now options.output.file options.format is now options.output.format

@@ -1,0 +1,1 @@
+ URL : "https://github.com/thijsgerrit/agario/issues/3" TITLE : camera moves with player BODY : the player should be in the center of the screen at all times, so the environment needs to be drawn accordingly

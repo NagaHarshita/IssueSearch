@@ -1,0 +1,1 @@
+ URL : "https://github.com/gbradburd/conStruct/issues/1" TITLE : r installation failed BODY : when following your readme instructions to install construct using install_github on r 3.2.4 , i got the following error: error: does not appear to be an r package no description .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Epicalsoft/reach-sdk-netstandard/issues/3" TITLE : get incident detail BODY : implement a method to get the detail of a recent incident using the reach api at https://reachsosapis.azurewebsites.net/

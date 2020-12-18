@@ -1,0 +1,1 @@
+ URL : "https://github.com/mattlewis92/angular-draggable-droppable/issues/21" TITLE : click event begins drag BODY : just clicking left or right on an element with mwldraggable directive triggers dragbegin event.

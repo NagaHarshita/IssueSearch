@@ -1,0 +1,1 @@
+ URL : "https://github.com/MasterQ32/VersaTile/issues/8" TITLE : cannot select tile BODY : i current build from master ubuntu 16.04.2 lts 64-bit qt creator 4.3.1 qt 5.9.1 64bit gcc the tile in the red rectangle cannot be selected only larger groups around it. ! cannot_select https://user-images.githubusercontent.com/719279/28427418-6e6b79e4-6d76-11e7-933e-c216e16dd2a6.png

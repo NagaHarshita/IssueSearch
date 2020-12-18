@@ -1,0 +1,1 @@
+ URL : "https://github.com/lampepfl/dotty/issues/3363" TITLE : is dotty ready for 2.12? BODY : the announce of 0.4.0-rc1 write scala 2.12 has supported http://dotty.epfl.ch/blog/2017/10/16/fourth-dotty-milestone-release.html scala-212-support-2827 but the homepage said dotty currently interops with libraries compiled with scala 2.11 - but not 2.12 . is there some limit for 2.12?

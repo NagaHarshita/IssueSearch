@@ -1,0 +1,1 @@
+ URL : "https://github.com/enyo/dropzone/issues/1482" TITLE : 2gb limit and no chunking BODY : so dropzone seems good, however i've moved from fineuploader to use this, and it appears there is no chunk support, so we have a 2gb upload limit? this is a total show-stopper as we upload movies and video content almost always over 2gb. raw files, 4k videos etc... why no chunk support?

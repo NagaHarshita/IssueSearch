@@ -1,0 +1,1 @@
+ URL : "https://github.com/FNTD/R-package/issues/71" TITLE : remove first slice bug BODY : if this option is used there is an indexing error coming from the spherical aberration correction.

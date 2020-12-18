@@ -1,0 +1,1 @@
+ URL : "https://github.com/CityofToronto/bdit_data-sources/issues/36" TITLE : grok bluetooth classes BODY : documentation: https://www.bluetooth.com/specifications/assigned-numbers/baseband classes present in data: {1,2,80,81,82,87,96,97,98,99,103}

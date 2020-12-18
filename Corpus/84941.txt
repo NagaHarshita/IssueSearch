@@ -1,0 +1,1 @@
+ URL : "https://github.com/asaladino/dev-docker/issues/9" TITLE : drupal settings.php check BODY : need to add a check to copysettings in acquit and pantheon for the following: 1. is this a drupal 7 site? 2. does settings.php already have an include settings.local.php file? this will prevent duplicate includes from being added whenever exec: _settings task is run.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/PlasmaPy/SpectroscoPy/issues/9" TITLE : henke filters query tool BODY : add a tool under diagnostics for querying henke cold filter transmission values http://henke.lbl.gov/optical_constants/filter2.html . start with solids, then later add gases.

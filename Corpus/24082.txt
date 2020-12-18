@@ -1,0 +1,1 @@
+ URL : "https://github.com/3DprintFIT/octoprint-ios-client/issues/6" TITLE : sd card management BODY : implement api/printer/sd api http://docs.octoprint.org/en/1.2.15/api/printer.html issue-an-sd-command . this will add support to manage init/refresh/release sd card. the app also have to implement tracking of current card status.

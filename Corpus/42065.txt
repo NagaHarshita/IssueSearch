@@ -1,0 +1,1 @@
+ URL : "https://github.com/scala/collection-strawman/issues/221" TITLE : add zipwith operation BODY : it’s a generalization of zip , its signature would be the following: ~~~ scala trait iterableops a, cc _ , c { def zipwith b, r that: iterable b f: a, b => r : cc r } ~~~ semantically speaking, xs zip ys map f is equivalent to xs.zipwith ys f .

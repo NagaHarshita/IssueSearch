@@ -1,0 +1,1 @@
+ URL : "https://github.com/52inc/Pulley/issues/91" TITLE : not dismissing from memory BODY : when i dismiss the pulleycontroller from the view then the content view controller is still in memory and when i present pulleycontroller, the older instance is still running of the content view controller.

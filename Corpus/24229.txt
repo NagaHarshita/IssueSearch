@@ -1,0 +1,1 @@
+ URL : "https://github.com/NiciDieNase/chaosflix/issues/9" TITLE : show related items BODY : show related items in detailsview and playbackoverlay use relatedtalks from metadata and random talks from other tracks for recordings and other rooms for livestreams.

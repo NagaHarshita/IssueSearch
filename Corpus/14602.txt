@@ -1,0 +1,1 @@
+ URL : "https://github.com/tngTUDOR/xlsx-to-json/issues/1" TITLE : beautify the dump BODY : current one line holds the full data expected default behaviour will now be to dump using indent=4 , add cli option to _not indent_

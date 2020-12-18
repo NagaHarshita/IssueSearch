@@ -1,0 +1,1 @@
+ URL : "https://github.com/arangodb-helper/ArangoDBStarter/issues/40" TITLE : ssl for own http api BODY : the starter currently exposes an api over http. it should be possible to expose this api over https.

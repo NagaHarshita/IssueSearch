@@ -1,0 +1,1 @@
+ URL : "https://github.com/bitpay/copay/issues/6834" TITLE : copay app not receiving BODY : transaction d97589ab36c20c64d07cccbbbf7f32832fc2a8aa341ad56f82d30d9fa81d21a1 is confirmed, but nothing is received in the app.

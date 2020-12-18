@@ -1,0 +1,1 @@
+ URL : "https://github.com/openstenoproject/plover/issues/729" TITLE : convert readme back to rst BODY : use readme.rst, for sdist and display on pypi. relative links must be replaced with absolute ones.

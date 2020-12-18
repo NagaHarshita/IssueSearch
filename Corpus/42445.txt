@@ -1,0 +1,1 @@
+ URL : "https://github.com/ancarda/ionic/issues/6" TITLE : basic workable web ui BODY : the official web ui should lock the text box at the bottom of the page and display the log with a scrollbar, or delete older messages. it shouldn't jump around like it does today.

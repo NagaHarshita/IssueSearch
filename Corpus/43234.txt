@@ -1,0 +1,1 @@
+ URL : "https://github.com/timdavish/MatchThree/issues/6" TITLE : component: level info BODY : refactor all level specific data id, move count, score goals, scores to a separate component: levelinfo

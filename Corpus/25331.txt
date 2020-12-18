@@ -1,0 +1,1 @@
+ URL : "https://github.com/altimetrik-onboarding-uy/acallero/issues/7" TITLE : work item end date BODY : as a user i want that the work items to automatically set their end date to the current date whenever the status change to done, so i can know when a task ends.

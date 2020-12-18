@@ -1,0 +1,1 @@
+ URL : "https://github.com/Plethora777/mcpe_viz/issues/42" TITLE : crash in 1.2 worlds BODY : a few worlds modified by the mcpe win 10 1.2.7.0 beta are causing mcpe_viz to crash after starting the leveldb parse. here is my smallest repro: §3skyblock §2challenge.mcworld.zip https://github.com/plethora777/mcpe_viz/files/1202837/3skyblock.2challenge.mcworld.zip

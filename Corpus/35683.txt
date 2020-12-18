@@ -1,0 +1,1 @@
+ URL : "https://github.com/argaen/aiocache/issues/127" TITLE : examples not updated BODY : the example posted in sanic github https://github.com/channelcat/sanic/blob/master/examples/cache_example.py , doent work because of the cache and main sanic are in different loops: got future <future pending> attached to a different loop

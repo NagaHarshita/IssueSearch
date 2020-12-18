@@ -1,0 +1,1 @@
+ URL : "https://github.com/YinquanHao/Snux/issues/1" TITLE : malloc naive issue BODY : current malloc algorithm is really navie. it would malloc a whole page even we just use one byte. the limit for heap is 160pgs, which means we can only malloc 160 times without free.

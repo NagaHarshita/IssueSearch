@@ -1,0 +1,1 @@
+ URL : "https://github.com/sqlectron/sqlectron-gui/issues/292" TITLE : encoding too long. BODY : when connecting to my server getting the error: encoding too long. i am guessing it is my mysql user password as i am using ssh tunnel, the password is well over 80 chars.

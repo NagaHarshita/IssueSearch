@@ -1,0 +1,1 @@
+ URL : "https://github.com/rijkvanzanten/minor-wafs/issues/4" TITLE : use of !important BODY : .hidden { display: none !important; } why do you use !important here?

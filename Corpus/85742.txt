@@ -1,0 +1,1 @@
+ URL : "https://github.com/bksides/SimpleEngine/issues/6" TITLE : fix segfault at ogre exit BODY : thread 1 ballbounce received signal sigsegv, segmentation fault. 0x00007ffff79c825c in ogre::scenemanager::clearscene this=0x7fffe70fb8d8 at /home/brandon/repos/ogre/ogremain/src/ogrescenemanager.cpp:798 798 ogre_delete i->second;

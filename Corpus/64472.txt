@@ -1,0 +1,1 @@
+ URL : "https://github.com/GeliClub/FantasyCivics/issues/20" TITLE : getmatch and past games BODY : getmatch does not include the edge dates of the week when creating a new league within the span of a week. database.lock_rosters_after prevents editing on games that start in the past

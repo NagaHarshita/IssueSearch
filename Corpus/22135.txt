@@ -1,0 +1,1 @@
+ URL : "https://github.com/eduvpn/python-eduvpn-client/issues/45" TITLE : improve test suite BODY : test suite is a bit flaky now, so we need to disable the tests during package building for now. both for rpm and debian.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/vatlab/SOS/issues/658" TITLE : support for sas kernel. BODY : the biostat guys use sas and r as two primary languages and sometimes need to mingle them. sas has an official jupyter kernel https://github.com/sassoftware/sas_kernel so we should probably add sas support soon.

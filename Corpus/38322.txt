@@ -1,0 +1,1 @@
+ URL : "https://github.com/BeABetterHumanBeing/svg_art/issues/4" TITLE : parameterize the eye BODY : make a function that returns a full-formed eye object that can be thrown into the art. variables that should be changed are size, iris color, location. maybe also some behavioral quirks, like the proportion of time it spends resting or wide open.

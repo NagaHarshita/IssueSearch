@@ -1,0 +1,1 @@
+ URL : "https://github.com/andrhamm/gitrdone/issues/5" TITLE : add support for todo lists BODY : add ability to specify a todo item, and a command to see the list of completed as well as uncompleted items. use slack buttons to allow user to mark them as complete or not complete.

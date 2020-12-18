@@ -1,0 +1,1 @@
+ URL : "https://github.com/TerrorJack/ghc-kit/issues/13" TITLE : make use of cabal data dir BODY : and then we can perform testing on sdist tarballs.

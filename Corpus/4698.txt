@@ -1,0 +1,1 @@
+ URL : "https://github.com/openva/rs-machine/issues/25" TITLE : fix deploy log BODY : each deployment is supposed to be updating a filesystem-based deploy log. it's not. figure out why.

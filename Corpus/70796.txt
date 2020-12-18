@@ -1,0 +1,1 @@
+ URL : "https://github.com/hizzgdev/jsmind/issues/110" TITLE : ¿ 怎么添加链接 ? BODY : 我想要当在node 上面点击， 可以带到另外页面。 比如: var mind = { data : { id : root , isroot :true, topic : <a href = 'http://www.google.com'>google</a> } };

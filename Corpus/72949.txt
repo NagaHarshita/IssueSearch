@@ -1,0 +1,1 @@
+ URL : "https://github.com/log2timeline/plaso/issues/1318" TITLE : clean up parser mediator BODY : from: https://github.com/log2timeline/plaso/issues/771 to do after event data switch - move setting storage writer in parser mediator to setstoragewriter instead of passing via init - parser mediator deprecate the need for addeventattribute and removeeventattribute

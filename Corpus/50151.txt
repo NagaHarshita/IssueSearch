@@ -1,0 +1,1 @@
+ URL : "https://github.com/UrbanCCD-UChicago/plenario/issues/312" TITLE : weak datetime parsing BODY : we currently accept query params like some_dt=2014-1-1 as being valid date time strings. this is weak parsing, and due to the tests being littered with these things it's difficult to upgrade our version on marshmallow.

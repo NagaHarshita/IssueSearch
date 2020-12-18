@@ -1,0 +1,1 @@
+ URL : "https://github.com/GarwelGarwel/KerbalHealth/issues/22" TITLE : better mks support BODY : 1. medibay has effect only when active and has medics/scientists 1. habs have different effects depending on configuration 1. inflatable parts have no effect until deployed 1. maybe different specialties have different health de buffs

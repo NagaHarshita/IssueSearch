@@ -1,0 +1,1 @@
+ URL : "https://github.com/TrySound/inferno-datagrid/issues/20" TITLE : fix uppercased filters BODY : call tolowercase on filters too and improve performance by comparing strings before indexof . https://github.com/trysound/inferno-datagrid/blob/master/src/utils/transform.js /cc @friedbizkvit

@@ -1,0 +1,1 @@
+ URL : "https://github.com/sparkfun/Low_Current_Sensor_Breakout-ACS712/issues/1" TITLE : product schematic typo BODY : in the schematic for the acs712 breakout pdf on product page it says to remove c1 for full 80khz bandwidth. i think this is incorrect and should be changed to say remove c5. that capacitor c5 is on the bandwidth-limiting filter pin of the acs712.

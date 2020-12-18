@@ -1,0 +1,1 @@
+ URL : "https://github.com/iro-cp/FCRN-DepthPrediction/issues/25" TITLE : max depth and depth format BODY : hello. i was just wondering what the maximum depth your model can reliably predict is. also is your depth format linear or log scale? thanks

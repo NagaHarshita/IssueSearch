@@ -1,0 +1,1 @@
+ URL : "https://github.com/apoterenko/ngx-dynamic-template/issues/54" TITLE : how to use routerlink ? BODY : how to use angular directive routerlink ? ts file: html= '<a routerlink= comp1 >link to component1</a>'; html: <ng-template dynamic-template template = html > </ng-template>

@@ -1,0 +1,1 @@
+ URL : "https://github.com/M4thG33k/TombManyGraves/issues/50" TITLE : grave deletes if 256+ BODY : if you die at a y level of 256+ your grave will be deleted and typed in chat: no suitable place for grave.

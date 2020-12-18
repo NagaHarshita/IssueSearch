@@ -1,0 +1,1 @@
+ URL : "https://github.com/apache/incubator-mxnet/issues/9253" TITLE : numpy diag in mxnet BODY : borrow from https://discuss.gluon.ai/t/topic/3846. we can consider to implement it in the future. https://docs.scipy.org/doc/numpy-1.13.0/reference/generated/numpy.diag.html

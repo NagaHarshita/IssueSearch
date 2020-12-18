@@ -1,0 +1,1 @@
+ URL : "https://github.com/gentics/mesh/issues/92" TITLE : two factor authentication BODY : add support for two factor authentication. check whether keycloak could be used to implement this.

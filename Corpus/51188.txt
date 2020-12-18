@@ -1,0 +1,1 @@
+ URL : "https://github.com/xaptum/ecdaa/issues/29" TITLE : add support for tpm2.0 BODY : replace calls to schnorr_sign , etc with the appropriate calls into a tpm2.0 i.e. tpm_sign , etc. , and allow users to choose software vs. tpm versions at runtime.

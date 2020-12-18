@@ -1,0 +1,1 @@
+ URL : "https://github.com/docker/docker.github.io/issues/2754" TITLE : document service rollback BODY : problem description document service rollback feature https://github.com/docker/docker/pull/31108 project version s affected this feature is in 17.04.x and will be stable with 17.06.

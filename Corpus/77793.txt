@@ -1,0 +1,1 @@
+ URL : "https://github.com/phi-el/KeePassPasswordChanger/issues/17" TITLE : number of xpath elements BODY : the number of elements in the find elements method sometimes find 2 elements instead of 1, although the script returns the correct value in chrome

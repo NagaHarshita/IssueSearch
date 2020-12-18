@@ -1,0 +1,1 @@
+ URL : "https://github.com/hoodiehq/hoodie-store-client/issues/162" TITLE : performance impact of 154 BODY : the way we resolve .put and .bulkdocs now since 154 has a very high performance impact unfortunately: https://jsperf.com/awftawftawftawftawftawft/1 i’m not sure if that’s a problem yet and maybe we find ways to make this faster, i just want to leave it here

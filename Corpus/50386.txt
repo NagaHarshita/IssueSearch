@@ -1,0 +1,1 @@
+ URL : "https://github.com/Prajithp/mojo-terminal/issues/1" TITLE : xterm directory empty BODY : if you can't include the xterm files, document in readme how to do. $ git clone git@github.com:sourcelair/xterm.js.git $ cp -a xterm.js/dist/ mojo-terminal/public $ cp xterm.js/demo/style.css mojo-terminal/public love that you made this mojolicious project, btw! it's fantastic!!

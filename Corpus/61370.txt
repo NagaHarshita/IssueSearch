@@ -1,0 +1,1 @@
+ URL : "https://github.com/google/grumpy/issues/295" TITLE : applying ast optimizer. BODY : this was very fun project for me while i was researching for peep-hole optimization for cpython. anyway cpyhon project has long-term plan to applying ast optimizer in their interpreter. i think that we could apply this one for our project. https://pypi.python.org/pypi/astoptimizer

@@ -1,0 +1,1 @@
+ URL : "https://github.com/alibaba/druid/issues/1695" TITLE : pagerutils mysql bug BODY : sql如果是select ht. from t_books ht , count 会转成select count ht. from t_books ht ,这个sql会报错，请看看如何修改

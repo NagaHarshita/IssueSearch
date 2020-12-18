@@ -1,0 +1,1 @@
+ URL : "https://github.com/udacity/aind-issue-reports/issues/139" TITLE : lesson 6, quiz 20 BODY : in correct answer popup yes, the minimax algorithm will need to visit approximately bd nodes to find an optimal move. instead of bd should be b^d

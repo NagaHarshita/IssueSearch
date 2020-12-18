@@ -1,0 +1,1 @@
+ URL : "https://github.com/amonapp/amon/issues/176" TITLE : email alerts timezone BODY : hi @martinrusev email alerts display alert detail period in utc time zone, although user time zone preference is configured with local time zone . is there a way to manually setup time zone for amon server ?

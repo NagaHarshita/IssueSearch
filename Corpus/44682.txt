@@ -1,0 +1,1 @@
+ URL : "https://github.com/diasbruno/changelogtools/issues/4" TITLE : fix between versions. BODY : when ask to display changelog between 2 versions, it's showing the log of both versions. it should print the first one only.

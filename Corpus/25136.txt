@@ -1,0 +1,1 @@
+ URL : "https://github.com/kundk-ckret/homebridge-lightify-api/issues/7" TITLE : username vs. email BODY : when i tried to use my lightify username in the username field, i got an invalid credentials -error. using the email address instead solved the problem. either the documentation or, even better, the name of the parameter should be changed to avoid this confusion.

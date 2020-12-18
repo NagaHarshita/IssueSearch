@@ -1,0 +1,1 @@
+ URL : "https://github.com/BLaurenB/techtime/issues/64" TITLE : story 14: retired items BODY : as a user if i visit an item page and that item has been retired then i should still be able to access the item page and i should not be able to add the item to their cart and i should see in place of the “add to cart” button or link - “item retired”

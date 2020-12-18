@@ -1,0 +1,1 @@
+ URL : "https://github.com/ChurchCRM/CRM/issues/2546" TITLE : sms for data verification BODY : nexmo has both sms and voice apis. investigate using the apis for verifying person / family data. could have an interactive ivr system that asks people to confirm data.

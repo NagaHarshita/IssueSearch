@@ -1,0 +1,1 @@
+ URL : "https://github.com/mapbox/mapbox-gl-directions/issues/140" TITLE : double click for zoom BODY : when i am doing a double click on the map, the api accepts it as two clicks and displays a route. maybe it is better to use double click for zoom in.

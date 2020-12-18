@@ -1,0 +1,1 @@
+ URL : "https://github.com/TheShadyBunch/clean-water-mapping/issues/3" TITLE : m2 - resource file BODY : download the m2 resource file, unzip it, import the unzipped files as a new project named m2 to the git repository

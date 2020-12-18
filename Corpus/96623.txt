@@ -1,0 +1,1 @@
+ URL : "https://github.com/samueldibella/book-scraper/issues/1" TITLE : false missing isbn results BODY : usually happens with multiple isbns in a row, so there's something wrong with the method or just running many queries consecutively. could be resolved by finding what's wrong with the method, or by accounting for multiple tests on an isbn before deciding it has no metadata.

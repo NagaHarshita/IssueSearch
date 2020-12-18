@@ -1,0 +1,1 @@
+ URL : "https://github.com/Jardinero/stylelint-plugin/issues/7" TITLE : not work in mac os BODY : could not create stylelint process.: cannot run program stylelint.cmd in directory /users/user/projects/projectname : error=2, no such file or directory macos sierra

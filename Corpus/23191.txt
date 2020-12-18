@@ -1,0 +1,1 @@
+ URL : "https://github.com/jhs/erlang.js/issues/2" TITLE : npm is not updated BODY : the current latest version on npm is 1.0.0, which is bug on the typeof vs lib/typeof , that is fixed on this repo but updated on npm yet

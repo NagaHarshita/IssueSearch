@@ -1,0 +1,1 @@
+ URL : "https://github.com/OlegKlimenko/Plamber/issues/130" TITLE : add ability to share book BODY : if a user is reading a book and want to share it, he is going to copy-paste the current url he is reading. but this url will not work for users who are not reading this book. so the idea is: when somebody goes to read-book url, if 500 error is coming, redirect to book url

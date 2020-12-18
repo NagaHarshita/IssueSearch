@@ -1,0 +1,1 @@
+ URL : "https://github.com/ros/ros_comm/issues/995" TITLE : passing sigstop / sigcont BODY : currently roslaunch passes the sigint signal through to the child processes, but does not pass any of the other signals through. ideally i would have been able to send a sigstop command to roslaunch, and pause all the subprocesses as well, and then continue all of them with a sigcont.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/molecuel/core/issues/23" TITLE : add publish via npm BODY : automatically publish if the local version is higher than the remote version.

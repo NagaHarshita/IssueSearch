@@ -1,0 +1,1 @@
+ URL : "https://github.com/konstantinstadler/country_converter/issues/19" TITLE : ignore ipython checkpoints BODY : maybe you could add .ipynb_checkpoints to your .gitignore ? i think this is just storing the manually saved versions.

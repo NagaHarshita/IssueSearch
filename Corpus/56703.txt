@@ -1,0 +1,1 @@
+ URL : "https://github.com/wso2/product-sp/issues/163" TITLE : not working on windows BODY : description: not working on windows, carbon_home environment variable is not set correctly. suggested labels: sp, severity/major, type/bug affected product version: alpha2 os, db, other environment details and versions: windows

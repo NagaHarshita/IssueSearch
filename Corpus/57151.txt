@@ -1,0 +1,1 @@
+ URL : "https://github.com/MITLibraries/wp-multisearch-widget/issues/20" TITLE : plugin appearing twice BODY : there's a file comment in class-multisearch-widget.php that is causing the plugin to appear twice in the site listing.

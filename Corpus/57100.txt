@@ -1,0 +1,1 @@
+ URL : "https://github.com/gradiuscypher/BaaS/issues/3" TITLE : planning - persistence BODY : how do we persist data? considerations: - what do we want to store? what's useful information to store? - do we persist each plugin individually or try to mix information where appropriate? - maintain a map of data

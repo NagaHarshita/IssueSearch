@@ -1,0 +1,1 @@
+ URL : "https://github.com/koraykv/unsup/issues/42" TITLE : installation issue - osx BODY : tried: luarocks install unsup got this error. error: no results matching query were found.

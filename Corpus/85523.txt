@@ -1,0 +1,1 @@
+ URL : "https://github.com/oogway/terraform-provider-papertrail/issues/2" TITLE : feature request: user api BODY : hi! i was very happy to find this provider. thanks for making it. i'm wondering if you can advise on how i might go about adding the users api? could i mostly copy the patterns from, say, groups? best, alex

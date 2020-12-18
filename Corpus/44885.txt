@@ -1,0 +1,1 @@
+ URL : "https://github.com/Intelehealth/intelehealth-ui/issues/1" TITLE : further code clean up BODY : 1. omod/../main/compass 2. omod/../main/resources 3. omod/../main/template 4. omod/../test what we don't know: 1. omod/main/java/.../intelehealth/helper/simplepatientpagecontroller.java

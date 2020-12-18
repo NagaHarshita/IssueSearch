@@ -1,0 +1,1 @@
+ URL : "https://github.com/Secumfex/VRVRVive/issues/26" TITLE : image quality / error BODY : - compute squared error of two images - copy to client memory & compute average - compute ddsim - copy to client memory & compute average

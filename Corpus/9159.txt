@@ -1,0 +1,1 @@
+ URL : "https://github.com/cherow/cherow/issues/62" TITLE : todos for later BODY : things needing finished: - fix non-failing early errors commented out in the test262 parser tests - fix the last non-failing test262 tests block scope and regexp related - finish block scoping need to think performance - reduce code size - cleanup

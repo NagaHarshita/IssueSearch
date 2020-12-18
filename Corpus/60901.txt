@@ -1,0 +1,1 @@
+ URL : "https://github.com/BudPrager/nerd-night/issues/24" TITLE : add players to campaign BODY : create the ability to add campaignplayers to campaigns possibly only on edit to begin with due to complexity of how to do it in mvc for a non created campaign .

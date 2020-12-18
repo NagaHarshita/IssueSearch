@@ -1,0 +1,1 @@
+ URL : "https://github.com/dadi/publish/issues/358" TITLE : introduce @dadi / cdn BODY : - add credentials to config - load from cdn if credentials exist

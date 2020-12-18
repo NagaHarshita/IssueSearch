@@ -1,0 +1,1 @@
+ URL : "https://github.com/SChAth/ScAthiop/issues/517" TITLE : space before colon BODY : in the visualization of <layoutdesc> <layout columns= 2 writtenlines= 20 /> , there is a space before the colons: number of columns : 2 number of lines : 20 i believe that there should be none here, as is the case elsewhere

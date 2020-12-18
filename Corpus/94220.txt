@@ -1,0 +1,1 @@
+ URL : "https://github.com/anoutsider/advanced-logistics-system/issues/41" TITLE : bug when searching for ' ' BODY : the game crashes with this message: error while running event on_tick id 0 __advanced-logistics-system__/gui/items.lua:52: malformed pattern missing ' ' when searching for i think you forgot to filter characters.

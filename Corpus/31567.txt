@@ -1,0 +1,1 @@
+ URL : "https://github.com/mmorga/archi-tools-rb/issues/19" TITLE : split model feature BODY : add split file feature to permit the extraction just enough to have an independent model containing: the content of one or more diagrams a particular set of elements and their shared relationships

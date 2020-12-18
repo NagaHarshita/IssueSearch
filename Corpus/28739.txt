@@ -1,0 +1,1 @@
+ URL : "https://github.com/kernelci/kernelci-docker/issues/1" TITLE : how to run the app? BODY : hi , team we are trying to set up kernelci locally. now we have built all the docker images separately, but don't know how to run them. is there any document about this? thank you in advance!

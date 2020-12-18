@@ -1,0 +1,1 @@
+ URL : "https://github.com/perl6/perl6.org/issues/80" TITLE : bots section is outdated BODY : https://perl6.org/community/irc for example, it mentions hugme , but there is no such bot. all bots are listed here: https://github.com/perl6/doc/issues/711 issuecomment-235414744

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jteppinette/django-api-seed/issues/10" TITLE : root api url BODY : the /api url endpoint should be moved to the root. this will allow easier access from cors clients or nginx upstreaming.

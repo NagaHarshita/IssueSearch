@@ -1,0 +1,1 @@
+ URL : "https://github.com/goern/mattermost-openshift/issues/32" TITLE : duplicated mapping key BODY : > failed to process the resource. > duplicated mapping key at line 85, column 27: > name: mattermost getting this error in the openshift yaml import gui . in line 57 the name is already set. > name: ${application_name} same for the port.

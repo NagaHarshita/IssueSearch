@@ -1,0 +1,1 @@
+ URL : "https://github.com/vuejs/vuejs.org/issues/1338" TITLE : why vue video not loading BODY : ! image https://user-images.githubusercontent.com/4033249/34243728-03f01686-e5d7-11e7-9023-bf4384863466.png clicking the button starts playing the video, but nothing is being shown on screen. this is happening for at least chrome, ff and safari.

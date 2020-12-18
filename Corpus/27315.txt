@@ -1,0 +1,1 @@
+ URL : "https://github.com/HealthConnectLink/HCL-FRONTEND/issues/5" TITLE : create profile page BODY : - app should have a profile page at /profile/{id} - page should retrieve profile details from /api/profile/{id} - profile should show details about the agency

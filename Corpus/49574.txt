@@ -1,0 +1,1 @@
+ URL : "https://github.com/mattboldt/typed.js/issues/238" TITLE : typespeed not working BODY : typespeed:0 and typespeed:5 are exactly typing at the same speed. what am i missing? is this a bug? same with the startdelay and backspeed .

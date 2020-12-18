@@ -1,0 +1,1 @@
+ URL : "https://github.com/austin-----/code-gnu-global/issues/35" TITLE : multi root not supported? BODY : if i have just one root folder in a workspace, all is good. but when i add a second or more root folder, the symbols from the new root folders are not found.

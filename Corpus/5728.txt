@@ -1,0 +1,1 @@
+ URL : "https://github.com/softleader/softleader-mixia-portal/issues/6" TITLE : single sign on BODY : user 在 portal 登入後, 轉址到任一 app 應不用再次輸入 user 的帳號密碼即可登入 如果在為登入的情況下, 直接輸入 app 的 url, 應要轉回 portal 的 login 頁面

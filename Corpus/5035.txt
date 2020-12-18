@@ -1,0 +1,1 @@
+ URL : "https://github.com/Mario-Lopez/newtetris/issues/9" TITLE : java 8 support BODY : updated gradle build to target building with java 8 to see how well it goes. try to ensure the performance is okay while the game is playing i.e. less than 5% cpu usage .

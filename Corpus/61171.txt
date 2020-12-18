@@ -1,0 +1,1 @@
+ URL : "https://github.com/magnussolution/magnusbilling6/issues/134" TITLE : agents can't view plans BODY : when a new agent go to rates/plans and create a new plan, it does not appear in the list. in tariffs, instead, one line appears correctly for each prefix, as per plan applied to the reseller.

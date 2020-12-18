@@ -1,0 +1,1 @@
+ URL : "https://github.com/projectcalico/bundle-openstack-calico/issues/1" TITLE : doc refers to mitaka BODY : the doc talks about mitaka whereas the file name refers to newton. should be consistent.

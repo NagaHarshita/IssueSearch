@@ -1,0 +1,1 @@
+ URL : "https://github.com/akabekobeko/examples-electron/issues/113" TITLE : support an inspector BODY : supports --inspect added with electron v 1.7.2. specify options in debug execution of main process.

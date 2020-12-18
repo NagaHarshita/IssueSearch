@@ -1,0 +1,1 @@
+ URL : "https://github.com/p0deje/vagrant-vultr/issues/11" TITLE : add the 'label' parameter. BODY : it would be nice to be able to specify a vultr label for a server when creating it using vagrant up .

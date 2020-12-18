@@ -1,0 +1,1 @@
+ URL : "https://github.com/OAI/OpenAPI-Specification/issues/1086" TITLE : parameters with contents BODY : a parameter today has either a content or a regular type. @darrelmiller suggested we should not allow for more than one media type for parameters. @earth2marsh asks if there are examples of this @fehguy and @darrelmiller - please discuss

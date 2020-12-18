@@ -1,0 +1,1 @@
+ URL : "https://github.com/FancyCoder0/INFOX/issues/28" TITLE : deploy through docker BODY : create separate containers for crawler, database, and web servers for easy distributed deployment

@@ -1,0 +1,1 @@
+ URL : "https://github.com/vinhui/Domo/issues/1" TITLE : un loading order BODY : it might be a nice thing to have a field in the package manifest where you can control in what order the onenable and ondisable get called. using file names instead of class names might be better since the class name might be defined multiple times but that's not possible for file names.

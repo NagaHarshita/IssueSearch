@@ -1,0 +1,1 @@
+ URL : "https://github.com/coatless/rgen/issues/4" TITLE : improve readme & add news BODY : readme is a bit vague... use: - package intro - supported distributions - installation instructions - using the package - standalone example - packaging example need to also add in a news file to track changes / allow for release posts.

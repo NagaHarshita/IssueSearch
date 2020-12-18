@@ -1,0 +1,1 @@
+ URL : "https://github.com/steemit/steem/issues/1004" TITLE : bump version to 0.18.2 BODY : 0.18.2 will contain the api fix to return pending payouts and reps properly. we are not bumping the dockerfile env_version because there is no need for a new shared memory file.

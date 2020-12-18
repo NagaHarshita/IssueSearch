@@ -1,0 +1,1 @@
+ URL : "https://github.com/Icinga/icingaweb2-module-graphite/issues/31" TITLE : move graphite navigation BODY : move the navigation point graphite from history to top-level.

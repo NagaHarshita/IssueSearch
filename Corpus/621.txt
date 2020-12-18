@@ -1,0 +1,1 @@
+ URL : "https://github.com/rancher/rancher/issues/10561" TITLE : add a host BODY : describe your issue here i could not add a host successfully. --- | useful | info | | :-- | :-- | |versions|rancher v1.6.12 cattle: v0.183.30 ui: v1.6.30 | |access| disabled | |orchestration| cattle | |route| stacks.index |

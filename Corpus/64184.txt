@@ -1,0 +1,1 @@
+ URL : "https://github.com/Jped94/flite/issues/4" TITLE : fix the url for flights BODY : url needs to be changed from date callsign cid to cid date callsign. make sure there's no better way of doing this that reduces ambiguity

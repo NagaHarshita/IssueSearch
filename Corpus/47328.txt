@@ -1,0 +1,1 @@
+ URL : "https://github.com/lonelyjoeparker/qmul-genome-convergence-pipeline/issues/56" TITLE : overlay context plots BODY : fork issue from 52 - ability to overlay multiple traces in the context browser plotting window. bumped from 0.9 release as not enough time.

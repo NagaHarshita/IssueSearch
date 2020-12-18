@@ -1,0 +1,1 @@
+ URL : "https://github.com/dgaiero/plusDollarScraper/issues/2" TITLE : show configuration data BODY : configuration data is not shown. therefore, the program overwrites the data in the config.ini document. it should populate the config window with this data.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/cossacklabs/themis/issues/214" TITLE : compile issue on osx BODY : i am using themis in android, and i followed the instructions here https://github.com/cossacklabs/themis/wiki/building-and-installing , i get this result when i type make install : > src/soter/openssl/soter_engine.h:21:10: fatal error: 'openssl/evp.h' file not found

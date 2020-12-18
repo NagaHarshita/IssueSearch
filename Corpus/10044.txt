@@ -1,0 +1,1 @@
+ URL : "https://github.com/sdcc-i-coop-portal/zoom105/issues/83" TITLE : all dbconnection BODY : - connection.close - callablestatement.close - connection = null; - callablestatement = null;

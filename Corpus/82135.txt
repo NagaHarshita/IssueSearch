@@ -1,0 +1,1 @@
+ URL : "https://github.com/ASofterSpace/UniversalConverter/issues/4" TITLE : add hex and oct to binary BODY : the binary converter should be a more generic different-base-converter find a good name! that can convert decimal integers to binary, octal or hexadecimal or ideally even to a user-specified base!

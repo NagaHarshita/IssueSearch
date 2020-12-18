@@ -1,0 +1,1 @@
+ URL : "https://github.com/s3tools/s3cmd/issues/916" TITLE : ls didn't print anything BODY : sorry to trouble you,when i use the s3cmd which i download from git,the ls command didn't show anything ,is there a configuration i have ignored?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/okvpn/migration-bundle/issues/3" TITLE : future of this split BODY : hi guys, i really like the idea of subtree splitting oro migrations and remove dependencies. it is a great bundle. but, what i am concerned about is: what is the future of this fork? are you going to pull from oro? make changes yourself? or leave it, as it is? regards dominik

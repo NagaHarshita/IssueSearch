@@ -1,0 +1,1 @@
+ URL : "https://github.com/ember-fastboot/fastboot-app-server/issues/65" TITLE : option for cluster BODY : can clustering be made optional? azure app service for example, does not support node cluster.

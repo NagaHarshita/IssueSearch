@@ -1,0 +1,1 @@
+ URL : "https://github.com/googlei18n/fontmake/issues/305" TITLE : autohinting cff fonts BODY : can you clarify somewhere in the docs whether fontmake autohints otf/cff fonts? there is a --autohint option which uses ttfautohint , that is only ttfs are hinted. is it possible to get the otf/cff autohinted too or one needs to have afdko installed to get their autohint tool?

@@ -1,0 +1,4 @@
+ URL : "https://github.com/meyerhoferc/job_tracker/issues/9" TITLE : user can edit a category BODY : as a user
+when i go to /categories
+and i click edit i am taken to a form
+and i can edit a category

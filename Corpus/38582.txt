@@ -1,0 +1,1 @@
+ URL : "https://github.com/v1tal3/netconfig/issues/7" TITLE : privileged exec mode BODY : is there a way to insert my enable secret? i can only run commands at user exec mode. switch>show run ^ % invalid input detected at '^' marker. switch>

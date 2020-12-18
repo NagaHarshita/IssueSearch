@@ -1,0 +1,1 @@
+ URL : "https://github.com/hehefan/Unsupervised-Person-Re-identification-Clustering-and-Fine-tuning/issues/2" TITLE : parser for cuhk dataset BODY : hello! where can we find a parser for cuhk dataset which was used in your implementation and is giving output in format pointed in corresponding .list files such as 0001_c1_f02.jpg 0 . thak you in advance.

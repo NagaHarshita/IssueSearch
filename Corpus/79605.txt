@@ -1,0 +1,1 @@
+ URL : "https://github.com/entria/react-native-fontawesome/issues/16" TITLE : some icons not dispaying BODY : most icons are not displaying e.g <text style={{margin: 10, fontsize: 45, textalign: 'center'}}><fontawesome>{icons.chevroncircleleft}</fontawesome></text>

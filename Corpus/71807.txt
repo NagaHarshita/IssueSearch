@@ -1,0 +1,1 @@
+ URL : "https://github.com/Activiti/Activiti/issues/1505" TITLE : align repository tooling BODY : ensure that all the repositories has the following tools configured: - travis ci - codecov - codacy

@@ -1,0 +1,1 @@
+ URL : "https://github.com/InfraBox/infrabox/issues/22" TITLE : submit job with --job BODY : it's more intuitive to submit the job with --job=value instead of --job-name=value

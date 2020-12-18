@@ -1,0 +1,1 @@
+ URL : "https://github.com/guardian/frontend/issues/16501" TITLE : es6 on frontend BODY : container issue for remaining blockers on converting js: - lint against default export

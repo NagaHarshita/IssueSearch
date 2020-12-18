@@ -1,0 +1,1 @@
+ URL : "https://github.com/watson-developer-cloud/react-components/issues/57" TITLE : readme not updated BODY : the readme says to include the dist/ content, but the folder is empty. please update the readme on hoe to include css and js for the features.

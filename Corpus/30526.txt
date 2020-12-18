@@ -1,0 +1,1 @@
+ URL : "https://github.com/stratisproject/StratisBitcoinFullNode/issues/803" TITLE : pos reorg can crash BODY : in case of long reorg, this line can crash when getblock returns null staketx.hashblock = this.chain.getblock int set.height .hashblock;

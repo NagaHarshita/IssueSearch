@@ -1,0 +1,1 @@
+ URL : "https://github.com/DiscordDungeons/Bugs/issues/322" TITLE : party healing is broken BODY : when it is not your turn, if you try to heal, it will tell you that it is not your turn. when you try to do it afterwards when it is your turn it will sat that you are at full health. it heals you regardless of it telling you its not your turn.

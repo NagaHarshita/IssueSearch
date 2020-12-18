@@ -1,0 +1,1 @@
+ URL : "https://github.com/ProgTools2017HeatGroup/2D-Heat-Convection-by-FDM/issues/16" TITLE : lacking a working example BODY : when i run the main program with the provided input file no log is generated. one cannot tell if the program is running successfully at this point.

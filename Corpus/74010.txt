@@ -1,0 +1,1 @@
+ URL : "https://github.com/GoogleChrome/puppeteer/issues/1231" TITLE : docs: document page.once BODY : https://github.com/googlechrome/puppeteer/issues/1228 issuecomment-340869335 has a nice snippet that uses page.once but i'm not seeing that in the api docs.

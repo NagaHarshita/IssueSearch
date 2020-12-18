@@ -1,0 +1,1 @@
+ URL : "https://github.com/randym/axlsx/issues/530" TITLE : merge cell on dynamic data BODY : sheet.add_row first cell , second cell how to merge cell directly on this row? because i have dynamic data, it's impossible to know the specific cell number for this row..

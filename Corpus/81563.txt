@@ -1,0 +1,1 @@
+ URL : "https://github.com/psu-stewardship/guides/issues/2" TITLE : %i with arrays of symbols BODY : ruby :one, :two, :three gets changed to ruby %i one, two, three i don't think we like this. @cam156

@@ -1,0 +1,1 @@
+ URL : "https://github.com/onlime/sendmail-wrapper/issues/5" TITLE : compatible with php7 BODY : this script is compatible with php7.0, i want to use on debian stretch and with mariadb? when i tried to import database schema i receive the next error: error 1101 42000 at line 34: blob/text column 'to_addr' can't have a default value

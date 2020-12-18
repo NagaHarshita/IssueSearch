@@ -1,0 +1,1 @@
+ URL : "https://github.com/JuliaDocs/Documenter.jl/issues/448" TITLE : doctest apply fix flag BODY : e.g. an official api that accomplishes the same thing as @vtjnash's patch from https://github.com/julialang/julia/pull/20417 in a way you could request with a flag

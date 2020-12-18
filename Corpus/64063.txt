@@ -1,0 +1,1 @@
+ URL : "https://github.com/michaelbromley/angularUtils/issues/434" TITLE : filtering with checkbox BODY : i'm using the directive to a search page i'm having thus, in order to filter i need to use checkboxes, is it possible to perform such filtering using checkboxes ?

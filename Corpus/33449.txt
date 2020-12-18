@@ -1,0 +1,1 @@
+ URL : "https://github.com/codeforgoodconf/black_holes_frontend/issues/6" TITLE : add pre-commit hooks BODY : add pre-commit hooks to the git repo so that when a user pushes their changes to master, it will be rejected maybe? if the tests do not pass. - run all unit tests - run flake8 - examine code coverage

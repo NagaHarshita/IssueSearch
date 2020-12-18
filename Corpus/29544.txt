@@ -1,0 +1,5 @@
+ URL : "https://github.com/deepstreamIO/deepstream.io-client-cpp/issues/104" TITLE : make login non sync BODY : when i call login then i expect to see the states change through awaiting_authentication
+authenticating
+open then calling the callback with true and client data deepstream type awaiting_authentication
+authenticating
+awaiting_authentication then calling the callback with false and error object deepstream type

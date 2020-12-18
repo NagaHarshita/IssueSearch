@@ -1,0 +1,1 @@
+ URL : "https://github.com/cal-roboops/F2017_Decal/issues/4" TITLE : terrain safety function BODY : for a given location and environment mesh, determine which drive heading angles are safe. perhaps all paths better than a risk threshold?

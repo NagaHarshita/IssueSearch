@@ -1,0 +1,1 @@
+ URL : "https://github.com/bemasher/rtlamr/issues/81" TITLE : log file flag not working BODY : the -logfile flag is not being accepted throws a error : flag provided but not defined: -logfile thanks

@@ -1,0 +1,1 @@
+ URL : "https://github.com/rusoto/rusoto/issues/732" TITLE : s3: ceph compatibility BODY : it'd sure be nice if our s3 client worked with ceph http://ceph.com/ . it's like s3 but doesn't require use of aws. automated testing of this compatibility would be excellent.

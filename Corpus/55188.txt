@@ -1,0 +1,1 @@
+ URL : "https://github.com/dzbo/yata-fetch/issues/1" TITLE : improve file comparing BODY : currently files are compared by their size. i’s not efficient as same file sizes may contain changes like replacing one character with another. possible solution to use file diff https://www.npmjs.com/package/diff

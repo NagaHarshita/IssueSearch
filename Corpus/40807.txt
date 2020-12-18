@@ -1,0 +1,1 @@
+ URL : "https://github.com/OWitney/UntitledGame/issues/2" TITLE : v1.11 off screen bug BODY : - attempting to leave the screen causes the animate to move partially outside of the screen before being moved back into the screen. repeatable tests possible.

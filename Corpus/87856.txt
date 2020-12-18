@@ -1,0 +1,2 @@
+ URL : "https://github.com/buildbot/buildbot/issues/2965" TITLE : md_base unit tests broken BODY : this ticket is a migrated trac ticket 3399 http://trac.buildbot.net/ticket/3399 people contributed to the original ticket: @tardyp
+ticket created on: jan 01 2016 ticket last modified on: jan 01 2016 --- md_base unit tests needs to be written to use the dataservice.when model, and not http_backend ng-mock. ---

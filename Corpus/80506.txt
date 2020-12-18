@@ -1,0 +1,1 @@
+ URL : "https://github.com/fuse-box/fuse-box/issues/146" TITLE : typescript type checking BODY : currently, fusebox does not do type checking. for known reasons - speed and caching involved. what could be done is a daemon, that runs in the background and reports errors. what do you think?

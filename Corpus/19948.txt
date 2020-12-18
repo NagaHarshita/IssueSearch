@@ -1,0 +1,1 @@
+ URL : "https://github.com/typelevel/frameless/issues/189" TITLE : array char encoder BODY : it should be fixed in spark 2.2.1/2.3.0, see 177

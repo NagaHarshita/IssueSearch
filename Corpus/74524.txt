@@ -1,0 +1,1 @@
+ URL : "https://github.com/gmag11/NtpClient/issues/20" TITLE : event is never triggered BODY : ontimesync event is never triggered after an error or successful sync.

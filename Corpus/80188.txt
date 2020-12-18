@@ -1,0 +1,1 @@
+ URL : "https://github.com/cpeikert/Lol/issues/29" TITLE : test suite fails on i686 BODY : citing from http://hydra.nixos.org/build/49722958/nixlog/1/raw: ~~~~ running tests running 1 test suites... test suite test-lol-cpp: running... test suite test-lol-cpp: fail test suite logged to: dist/test/lol-cpp-0.0.0.3-test-lol-cpp.log 0 of 1 test suites 0 of 1 test cases passed. ~~~~

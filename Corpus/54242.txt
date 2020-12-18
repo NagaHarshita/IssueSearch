@@ -1,0 +1,1 @@
+ URL : "https://github.com/Chainsawkitten/HymnToBeauty/issues/142" TITLE : fix renaming resources BODY : renaming resources will not move the resource file, meaning it won't be found when used.

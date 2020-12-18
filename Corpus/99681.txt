@@ -1,0 +1,1 @@
+ URL : "https://github.com/hazelcast/hazelcast/issues/11385" TITLE : near cache leak on destroy BODY : the near cache for icache clients leaks its repairinghandler in os and ee. this also affects 3.8.x.

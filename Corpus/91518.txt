@@ -1,0 +1,1 @@
+ URL : "https://github.com/mapbox/mapbox-navigation-ios/issues/229" TITLE : truncating multiple lines BODY : ! simulator screen shot may 16 2017 10 00 14 am https://cloud.githubusercontent.com/assets/1058624/26118370/7e2a5a34-3a1e-11e7-9181-fc6d43aa6831.png this should probably read: > alves drive or > alves > drive /cc @frederoni @1ec5

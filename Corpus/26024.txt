@@ -1,0 +1,1 @@
+ URL : "https://github.com/Gregor812/C-wrapper-for-Win32API-serial-port/issues/1" TITLE : add overlapped mode BODY : add async writing and reading port with file_flag_overlapped mode

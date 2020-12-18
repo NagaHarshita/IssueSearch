@@ -1,0 +1,1 @@
+ URL : "https://github.com/usnistgov/CloudSecurityRubiksCube/issues/1" TITLE : stop using wpf BODY : wpf uses components that are not fips-140 approved or allowed. all wpf classes need to be replaced with winforms classes.

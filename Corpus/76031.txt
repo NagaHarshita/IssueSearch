@@ -1,0 +1,1 @@
+ URL : "https://github.com/vscode-icons/vscode-icons/issues/1336" TITLE : improves github template BODY : the github template is not good enough so i want to improve it. after reading atom's template, i had edited contributing , issue template and pull request template adapt to these templates. moved from https://github.com/vscode-icons/vscode-icons/pull/1335.

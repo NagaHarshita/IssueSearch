@@ -1,0 +1,1 @@
+ URL : "https://github.com/0xd4d/dnSpy/issues/680" TITLE : size of saved executable BODY : what are the reasons that a saved executable size is bigger than the original? missing optimization? debug info included? i tried some checkboxes strip debug symboles etc. but they do not seems to influence anything other than settings some flags.

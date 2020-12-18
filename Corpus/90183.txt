@@ -1,0 +1,1 @@
+ URL : "https://github.com/hbc/bcbioRnaseq/issues/3" TITLE : save_data is not exported BODY : in the report, starting from scratch enviroment, save_data is used but is not loaded from anywhere. so, or we re-export or we load basejump . same happens with %>% in chunk dds , it wasn't found and i had to load dplyr .

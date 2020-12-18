@@ -1,0 +1,1 @@
+ URL : "https://github.com/thebritican/goat/issues/24" TITLE : final release checklist BODY : - properly imports & exports images from zendesk editor app location - add icons for new spotlight shapes - qa while writing tests - have a large edit mode with a new zendesk app location - write comments, documentation

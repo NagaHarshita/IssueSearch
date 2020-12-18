@@ -1,0 +1,1 @@
+ URL : "https://github.com/wtimme/surveillance-map/issues/2" TITLE : add/edit form view BODY : > as a user, i want to be able to enter data on a camera into a form. tasks - add camera model that the form represents - research form framework - create form - enable form population using the model

@@ -1,0 +1,1 @@
+ URL : "https://github.com/zachleat/idea-book/issues/8" TITLE : project timelapse tool BODY : while working on a project, this tool runs every time the build runs and uses a headless browser to take a screenshot of the project. these screenshots are then stitched together to show the project’s visual progression.

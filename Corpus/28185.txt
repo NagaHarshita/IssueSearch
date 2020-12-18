@@ -1,0 +1,1 @@
+ URL : "https://github.com/Naville/LLVMAntiClassDump/issues/1" TITLE : finish core rewrite BODY : this project is currently on the path of adding support for props and ivars as well as handling the class itself, if you need something to play with, switch to 1079c6d3f3acebe315bd7d0e458dfd05fe807e4a

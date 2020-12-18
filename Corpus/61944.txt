@@ -1,0 +1,1 @@
+ URL : "https://github.com/bugagashenkj/cryptography/issues/7" TITLE : callback on stream ends BODY : callback should return control to high-level function after stream ends/drain, see readable/writable events. https://github.com/bugagashenkj/cryptography/blob/00bec7fd4946ec8f9a18ba22019864f14ed56bcc/lib/file-crypt.js l107

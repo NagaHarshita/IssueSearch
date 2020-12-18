@@ -1,0 +1,1 @@
+ URL : "https://github.com/jamcnaughton/SynergyMesh/issues/15" TITLE : todo network flick BODY : similar to flick behaviour but uses interface positions and dimensions to work out if it would intersect with a remote client on bounce - if so then don't bounce and transfer the item when off screen to the remote client.

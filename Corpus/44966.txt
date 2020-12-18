@@ -1,0 +1,1 @@
+ URL : "https://github.com/TileDB-Inc/TileDB/issues/59" TITLE : get rid of workspaces BODY : they kind of seem redundant, since their functionality are the same as groups.

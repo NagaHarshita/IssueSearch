@@ -1,0 +1,1 @@
+ URL : "https://github.com/Asraf-Uddin-Ahmed/jquery.mycart/issues/11" TITLE : remain cart state BODY : i try to keep cart state on demo page reload. as you say in readme i deleted cartitems field in index.html , but this didn't help me. then i also deleted in jquery.mycart.js > 25: cartitems: , and all works fine for me now. did i do it right?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jupyterlab/jupyterlab/issues/3502" TITLE : improved button design BODY : right now we have a range of different buttons styles. also, our button style is a bit subtle, especially in the dark theme. before the beta, i am going to update the styles.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/futurice/PythonInBrowser/issues/12" TITLE : saving and loading code BODY : would require authentication. simple version would be to send the contents of the editor by email. note: see git history for an earlier implementation without any auhtentication

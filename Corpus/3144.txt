@@ -1,0 +1,1 @@
+ URL : "https://github.com/magento/magento2/issues/9122" TITLE : just use json BODY : i have a suggestion, i think that the next version of magento 2.0 should just provide json data and a blank page without html/css.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/lisamai/emojiporter/issues/2" TITLE : switch to using v4 api BODY : all v3 endpoints will be deprecated on january 16th, 2018 as per https://api.mattermost.com/

@@ -1,0 +1,1 @@
+ URL : "https://github.com/davsclaus/camel-idea-plugin/issues/98" TITLE : camel route debugger BODY : this is maybe a bit more hardcore to implement. but would be nice if we can add breakpoints in the route dsl, and then have idea step through the route in debug mode.

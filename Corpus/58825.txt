@@ -1,0 +1,1 @@
+ URL : "https://github.com/Openarl/PathOfBuilding/issues/567" TITLE : summon skeleton caster BODY : there is a bug in calcualting the skeleton caster damage from summon skeleton threshold jewel , when you swtich from gem level 19 to 20 the dps triple

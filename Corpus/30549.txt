@@ -1,0 +1,1 @@
+ URL : "https://github.com/switchonproject/cids-custom-switchon-server/issues/63" TITLE : prepare relase v4.0 BODY : prepare relase v4.0. . resolve release dependencies to - https://github.com/cismet/cids-server/issues/193 - https://github.com/cismet/cids-server-rest-types/issues/15 - https://github.com/cismet/cismet-commons/issues/59

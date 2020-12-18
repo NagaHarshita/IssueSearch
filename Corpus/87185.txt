@@ -1,0 +1,1 @@
+ URL : "https://github.com/udacity/course-ud303/issues/1" TITLE : issue with testing server BODY : there is an issue when running lesson-2/3_messageboardpartone/test.py, caused by a with-statement. it is expecting an object with '__exit__' and '__enter__' methods, but doesn't get any.

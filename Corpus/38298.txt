@@ -1,0 +1,1 @@
+ URL : "https://github.com/Entware-ng/Entware-ng/issues/624" TITLE : package request: mmv BODY : mmv is multiple move and allows to mass move, copy or rename files. examples: https://wiki.ubuntuusers.de/mmv/ source code is available with gpl: https://packages.qa.debian.org/m/mmv.html platform: i would love to see this package for qnap 64bit intel.

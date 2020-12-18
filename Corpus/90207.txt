@@ -1,0 +1,1 @@
+ URL : "https://github.com/18F/18f-cli/issues/32" TITLE : scaffold for linter setup BODY : e.g. eslint, rubocop, flake8 this will require a lot of buy in from those language groups

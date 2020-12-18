@@ -1,0 +1,1 @@
+ URL : "https://github.com/jakehanson/ISING/issues/2" TITLE : flag for time_series.txt BODY : for long time series and other situations it may not be desirable to have the spin matrix output at each time step. adding this flag will make it so the spin matrix output is completely optional.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/varosifak/application/issues/2" TITLE : döntésre váró fák BODY : jelenleg a döntésre váró fák menüpont nem üzemel még. ebben a menüben lehet kilistáztatni, hogy melyik fák várnak arra, hogy egy tutor meghatározza a faját. természetesen, ha nincs a listában fa, azt is jelezni kell a felhasználó felé.

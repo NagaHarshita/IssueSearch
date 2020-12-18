@@ -1,0 +1,15 @@
+ URL : "https://github.com/dennisBBOrg/2048-objC/issues/42" TITLE : this crashes the app BODY : feedback from dennis github1@buddybuild.com : this crashes the app ! screenshot https://s3-us-west-2.amazonaws.com/buddybuild-screenshots/595d27017025680001ae5f95/595d2914b047e500017e76db/34d1fa5c-1e54-4178-a6d2-16d460e625aa.jpg | item | value |
+| --- | --- |
+| created | wed jul 05 2017 18:34:24 gmt+0000 utc |
+| cfbundleshortversion | 1.1 |
+| cfbundleversion | 4 |
+| app uptime | 4.808036 |
+| build | 2 |
+| device type | iphone 7 plus |
+| device name | dennis pilarinos’s iphone |
+| screen size | 320 |
+| screen size | 320px by 568px |
+| battery | 89% unplugged |
+| memory free | 141 mb / 2142 mb |
+| disk free | 70153 mb / 122060 mb |
+| network ip | 192.168.1.163 | link to buddybuild feedback from build 2 https://dashboard.buddybuild.com/apps/595d27017025680001ae5f95/feedback?fid=595d3130150c740001040920&bnum=2

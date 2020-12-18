@@ -1,0 +1,1 @@
+ URL : "https://github.com/OctoAwesome/engenious/issues/22" TITLE : crash on file delete BODY : the contenttool crashes when an included file can't be found / is deleted

@@ -1,0 +1,1 @@
+ URL : "https://github.com/vkoves/Transit-Network/issues/19" TITLE : fix duplicate stops BODY : on the yellow line, duplicate stops appear due to them being marked with different gps coordinates. figure out a better algorithm to create stop links and mark duplicates.

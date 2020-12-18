@@ -1,0 +1,1 @@
+ URL : "https://github.com/software-engineering-amsterdam/ST2017_WG_6/issues/6" TITLE : lab 4 :ex 7 BODY : quickcheck propdecomp quickcheck propsubset must be become quickcheck \x->propdecomp x && propsubset x both properties must be valid simultaneously at the same relation good =8

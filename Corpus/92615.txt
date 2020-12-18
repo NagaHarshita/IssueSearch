@@ -1,0 +1,1 @@
+ URL : "https://github.com/itchio/itch-compatibility-watchlist/issues/1007" TITLE : 🐧 scanline ↔ v23.4.1 BODY : :rotating_light: game scanline https://rxi.itch.io/scanline is broken for me. :book: here's the complete debug log https://gist.github.com/b2c692bd10c0dd751dec558601725288 . :running: any additional details can go here!

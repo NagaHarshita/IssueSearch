@@ -1,0 +1,1 @@
+ URL : "https://github.com/PRDog/prdog/issues/21" TITLE : improve testing process BODY : right now one needs to set up a slack and github environment, set up webhooks, etc. it's quite cumbersome. find a better way to do this.

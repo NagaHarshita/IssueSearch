@@ -1,0 +1,1 @@
+ URL : "https://github.com/Ravaelles/Atlantis/issues/9" TITLE : unidentifiable log output BODY : sometimes the console outputs single digit numbers, which are hard to track down in code.

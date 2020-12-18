@@ -1,0 +1,1 @@
+ URL : "https://github.com/johnrengelman/shadow/issues/355" TITLE : how to ion BODY : please check the user guide http://imperceptiblethoughts.com/shadow before submitting how do i do 'x'? questions! shadow version gradle version expected behavior actual behavior gradle build script s content of shadow jar jar tf <jar file> - post link to gist if too long

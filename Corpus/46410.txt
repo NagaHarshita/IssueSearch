@@ -1,0 +1,1 @@
+ URL : "https://github.com/xybu/onedrived-dev/issues/3" TITLE : make use of copy api. BODY : ... maybe if a file is close_write ed or moved_to , check if there is a file in the remote repo based on db record that has the same hash as that of the new file, and if remote item agrees, use copy api?

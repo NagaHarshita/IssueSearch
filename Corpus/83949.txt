@@ -1,0 +1,1 @@
+ URL : "https://github.com/MITLibraries/solenoid/issues/41" TITLE : configure email on heroku BODY : - set up stmp credentials - turn it on - create a thing where you are the liaison and try to send email

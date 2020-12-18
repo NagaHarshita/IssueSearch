@@ -1,0 +1,1 @@
+ URL : "https://github.com/openhab/openhab.windows/issues/89" TITLE : add webview widget BODY : { widgetid : 0203_1_0_1_2 , type : webview , label : , icon : webview , mappings : , height : 8, url : http://heise-online.mobi/ , widgets : }

@@ -1,0 +1,1 @@
+ URL : "https://github.com/primefaces/primereact/issues/204" TITLE : add appendto to dialog BODY : use portal api to make where the dialog should be mounted configurable.

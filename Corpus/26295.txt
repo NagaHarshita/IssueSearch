@@ -1,0 +1,1 @@
+ URL : "https://github.com/sebastianfeldmann/phpbu/issues/92" TITLE : amazon s3 lifecycle BODY : this is about the deleting backups after x days/months remotley on amazon s3 . https://docs.aws.amazon.com/amazons3/latest/dev/lifecycle-expire-general-considerations.html sebastian, any ideas how to implement it?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/f4exb/sdrdaemon/issues/12" TITLE : problem with hackrf rx BODY : there is a saturation problem as soon as the extamp is engaged and/or lgain is set to 24 db or above. the output is completely saturated in presence of rather strong signals although when connected directly to the host with a sdr software such as sdrangel this works perfectly.

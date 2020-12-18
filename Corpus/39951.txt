@@ -1,0 +1,1 @@
+ URL : "https://github.com/egnyte/ax/issues/14" TITLE : support more filters BODY : ! image https://user-images.githubusercontent.com/59073/31220358-79460d76-a9c0-11e7-90b4-5bdd834a86a4.png currently ax only supports = and != would also support: exists does not exist is one of is not one of via @romanlevin

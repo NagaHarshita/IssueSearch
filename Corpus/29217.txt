@@ -1,0 +1,1 @@
+ URL : "https://github.com/datacol-io/datacol/issues/24" TITLE : k8s cluster version BODY : support passing the kubernetes cluster version. gcloud container get-server-config --zone us-central1-a

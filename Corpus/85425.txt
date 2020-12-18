@@ -1,0 +1,1 @@
+ URL : "https://github.com/gitterHQ/irc-bridge/issues/92" TITLE : extreme lag of 30 seconds BODY : i keep having a lag of more than 30 seconds until at some point it disconnects from gitter and reconnects.. using hexchat on ubuntu 16.04 is anyone else facing this issue ?

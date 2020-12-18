@@ -1,0 +1,1 @@
+ URL : "https://github.com/rust-fuzz/targets/issues/37" TITLE : add fuzz target for regex BODY : https://crates.io/crates/regex has been fuzzed with afl before, also cf. https://github.com/rust-lang/regex/issues/203

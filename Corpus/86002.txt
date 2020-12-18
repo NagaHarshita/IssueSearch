@@ -1,0 +1,1 @@
+ URL : "https://github.com/RomelTorres/alpha_vantage/issues/25" TITLE : get currency for a symbol BODY : is it possible to retrieve the underlying currency a symbol is traded in ? e.g aapl => $

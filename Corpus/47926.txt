@@ -1,0 +1,1 @@
+ URL : "https://github.com/front-end-styleguide/core/issues/16" TITLE : re-add icon toolchain BODY : re-integrate icon toolchain from styleguide v3 but with more options: copy loose files create svg sprite create icon font inline with nunjucks function

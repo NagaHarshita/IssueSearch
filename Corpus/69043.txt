@@ -1,0 +1,1 @@
+ URL : "https://github.com/phdata/sdc-api-tool/issues/2" TITLE : standardize flag format BODY : using the long flag format --command-here all lowercase and dashes separating words

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Kerl1310/MovieNight/issues/1" TITLE : copy data dump from imdb BODY : imdb makes daily data dumps to an aws s3 bucket which we should aim to pull, at least monthly.

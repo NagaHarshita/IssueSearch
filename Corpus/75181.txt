@@ -1,0 +1,1 @@
+ URL : "https://github.com/antriver/auto-git-pull/issues/3" TITLE : getting exception code 1 BODY : 2017-08-01 16:21:10 local.error: exception: deploy script exited with code 1 in /var/www/mywebsite/site/vendor/tmd/auto-git-pull/src/deployer.php:298 stack trace: 0 /var/www/mywebsite/site/app/http/routes.php 143 : tmd\autogitpull\deployer->deploy

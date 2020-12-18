@@ -1,0 +1,1 @@
+ URL : "https://github.com/ApoorvSaxena/lozad.js/issues/24" TITLE : add a editorconfig BODY : add editorconfig http://editorconfig.org/ to keep a consistent coding style in the project. see my personal editorconfig https://gist.github.com/thiamsantos/2cb85da16ce25134433838ad8598c5d9 as example.

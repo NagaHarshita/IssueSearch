@@ -1,0 +1,1 @@
+ URL : "https://github.com/every-sushi/UserDialog/issues/3" TITLE : event programming 2 BODY : - dialog positivebutton 을 클ㄹ릭했을 때 액티비티의 textview에 다이얼로그에서 입력한 값을 설정한다. - dialog negativebutton을 클릭햇을 때 toast가 보여지게 설정한다.

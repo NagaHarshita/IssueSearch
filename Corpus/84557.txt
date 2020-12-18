@@ -1,0 +1,1 @@
+ URL : "https://github.com/damien-carcel/app-skeleton/issues/15" TITLE : define a testing strategy BODY : what tools to use for front-end? - unit test - integration tests - acceptance tests - system tests is this pattern coming from full stack app relevant for full front app?

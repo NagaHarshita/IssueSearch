@@ -1,0 +1,1 @@
+ URL : "https://github.com/ddmills/erebus/issues/14" TITLE : handle task failures BODY : a task can fail for any reason. the task's processor should dictate when it fails. for example, a colonist cannot mine a mountain if he cannot reach it

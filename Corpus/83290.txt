@@ -1,0 +1,1 @@
+ URL : "https://github.com/sfackler/rust-openssl/issues/546" TITLE : can i access ssl_session? BODY : is it possible to somehow access ssl_session https://www.openssl.org/docs/man1.0.1/ssl/ssl.html through this crate? i need to access the session key at some point. is this currently possible?

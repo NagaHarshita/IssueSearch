@@ -1,0 +1,1 @@
+ URL : "https://github.com/monarch-initiative/owlsim-v3/issues/55" TITLE : align with drseb code BODY : 1. rename classes and matcher labels, e.g. naivebayesfixedweighttwostateprofilematcher --> bernoulli naive bayes 2. check grid values ideally this could be split into a yaml file 3. verify behavior is the same for propagating down errors past the leaf error 'blanket' cc @drseb

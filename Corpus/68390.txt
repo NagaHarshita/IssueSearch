@@ -1,0 +1,1 @@
+ URL : "https://github.com/Johnson468/VoidCrypt/issues/10" TITLE : rewrite shred algorithm BODY : rewrite the shred algorithm using c to make it faster, shred on a memory address level, and be more secure.

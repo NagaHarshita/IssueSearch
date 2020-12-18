@@ -1,0 +1,1 @@
+ URL : "https://github.com/lukaswhite/no-follow-links/issues/1" TITLE : does this program work? BODY : composer cannot find the package. invalidargumentexception could not find package lukaswhite/no-follow-links at any version for your minimum-stability stable . check the package spelling or your minimum -stability

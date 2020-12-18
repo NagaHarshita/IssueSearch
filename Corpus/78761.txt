@@ -1,0 +1,1 @@
+ URL : "https://github.com/davidhellmann/generator-dhBoilerplate/issues/38" TITLE : refactoring module names BODY : _button.style.scss > _style.scss _button.scripts.js > main.js _button.template.html > _template.html

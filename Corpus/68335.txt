@@ -1,0 +1,1 @@
+ URL : "https://github.com/bramp/ffmpeg-cli-wrapper/issues/118" TITLE : retrieve ffmpeg process BODY : hi there. is there a way to retrieve the ffmpeg process object? i would very much like to control it. thanks!

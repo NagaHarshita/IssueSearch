@@ -1,0 +1,1 @@
+ URL : "https://github.com/KVHEM/SUCHO/issues/10" TITLE : data k r baliku BODY : - udelat poradek v projekcich v used_data/geo napr. reky maji mercador, jezera wgs apod. - nejlepe asi oddelit data pro analyzu geo od dat pro vizualizaci webapp_geo - udelat funkce pro nacitani dennich bilanu, pripadne dennich meteo vstupu ve forme read_bil upov resp. read_meteo upov

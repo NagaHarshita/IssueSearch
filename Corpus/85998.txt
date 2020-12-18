@@ -1,0 +1,1 @@
+ URL : "https://github.com/davidsowerby/gitplus/issues/131" TITLE : get all projects for user BODY : return a list of all projects for a specified user - config should contain the user name, then: gitplus.remote.allprojects

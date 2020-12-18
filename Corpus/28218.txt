@@ -1,0 +1,1 @@
+ URL : "https://github.com/crocodic-studio/crudbooster/issues/866" TITLE : fix command install BODY : in laravel 5.5 command vendor comes with options that the user has to answer. then replace callsilent with only call src: vendor/crocodicstudio/crudbooster/src/commands/crudboosterinstallationcommand.php

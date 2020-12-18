@@ -1,0 +1,1 @@
+ URL : "https://github.com/FH-Potsdam/is-the-lab-open/issues/12" TITLE : move from forever to pm2 BODY : the deployment moved to pm2, the docs need an update

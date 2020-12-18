@@ -1,0 +1,1 @@
+ URL : "https://github.com/cloudconvert/cloudconvert-node/issues/22" TITLE : allow passing in mimetype BODY : instead of having to maintain a list of short types internally, inputformat and outputformat should accept a mimetype.

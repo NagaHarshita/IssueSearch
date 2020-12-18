@@ -1,0 +1,1 @@
+ URL : "https://github.com/haisum/recaptcha/issues/10" TITLE : is this thread-safe? BODY : if another request comes between re.verify and re.lasterror in the current context, how can we make sure the last error makes sense? instead, can we simplify the verify api by returning both success and error?

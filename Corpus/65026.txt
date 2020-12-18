@@ -1,0 +1,1 @@
+ URL : "https://github.com/renpy/renpy/issues/1257" TITLE : im_matrix documentation BODY : double , no division > these operations are invoked using the standard mathematical operators \ , \ , +, and -, respectively . if two im.matrix objects are multiplied, matrix multiplication is performed, otherwise scalar multiplication is used.

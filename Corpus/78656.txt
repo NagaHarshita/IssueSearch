@@ -1,0 +1,1 @@
+ URL : "https://github.com/fubhy/graphql-drupal/issues/87" TITLE : raw field data formatter BODY : add a special field formatter that exposes raw field data in graphql. we will require type and field derivers that generate types for all configured field types.

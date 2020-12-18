@@ -1,0 +1,1 @@
+ URL : "https://github.com/bespoken/dashboard/issues/235" TITLE : add source settings page BODY : we will need a settings page to keep information needed for setup and general settings about the source. the delete button will head over here, as well as the secret key and source id.

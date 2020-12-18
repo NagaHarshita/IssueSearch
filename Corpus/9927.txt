@@ -1,0 +1,1 @@
+ URL : "https://github.com/gjrdiesel/laravel-heroku-base-boilerplate/issues/3" TITLE : add redis parser BODY : if getenv 'redis_url' { $url = parse_url getenv 'redis_url' ; putenv 'redis_host='.$url 'host' ; putenv 'redis_port='.$url 'port' ; putenv 'redis_password='.$url 'pass' ; }

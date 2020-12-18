@@ -1,0 +1,1 @@
+ URL : "https://github.com/volkanceylan/Serenity/issues/1934" TITLE : condition formating image BODY : is it possible in condition formating when value is 0 to display an image instead of changing colour? i applied class .zero-price .col-unit-price{ background-image:url ~\app_data\oos.jpg ; } but didn't work. is it possible to display image in grid?

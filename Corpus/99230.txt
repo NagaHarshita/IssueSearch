@@ -1,0 +1,1 @@
+ URL : "https://github.com/linnovate/mean/issues/1735" TITLE : mean postinstall in docker BODY : hi. add pls --allow-root option to mean postinstall command. because docker run each command as root user and if we're using docker we can't to use mean postinstall in container.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/SickGear/SickGear/issues/937" TITLE : marking torrents as failed BODY : suddently sg is renaming all failed with .failed yet i'm able to load those same .fail torrents into rtorrent and they download without issue. zero logging information about why nor does it even log that the rename occurred. why ?

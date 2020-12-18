@@ -1,0 +1,1 @@
+ URL : "https://github.com/socallinuxexpo/SCALE_network_public/issues/27" TITLE : ap pull config down BODY : looking into the aps pulling down new config changes from server on a cronjob and check config on server to see it has changed.

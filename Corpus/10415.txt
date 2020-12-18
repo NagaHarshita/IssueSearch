@@ -1,0 +1,1 @@
+ URL : "https://github.com/cmccarthy15/GraceShopper/issues/7" TITLE : cart items model BODY : cart items model has... - productid foreign key - quantity int - cart id foreign key belongsto productid and cartid

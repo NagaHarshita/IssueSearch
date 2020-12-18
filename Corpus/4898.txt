@@ -1,0 +1,1 @@
+ URL : "https://github.com/roswell/roswell/issues/280" TITLE : how to update? BODY : this is probably a stupid question, but how does one update an installed system? ros update tells me no update function and i can't figure out how to get roswell to recognize the install.force option i've tried --install.force , --install.force=t , and install.force=t and all are ignored. .

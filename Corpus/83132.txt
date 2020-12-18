@@ -1,0 +1,1 @@
+ URL : "https://github.com/schwa/punic/issues/66" TITLE : bug redefinding framework BODY : a framework with custom .modulemap file when build a framework inside b and c with punic , some time will get error in project, redefinding in multiple path in project b / c

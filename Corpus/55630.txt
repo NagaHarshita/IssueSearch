@@ -1,0 +1,1 @@
+ URL : "https://github.com/rwth-afu/UniPagerLED/issues/3" TITLE : kein polling notwendig BODY : laut @7h0ma5 ist kein polling des websockets notwendig. wenn sich änderungen ergeben, werden diese automatisch mitgeteilt.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/TechEmpower/FrameworkBenchmarks/issues/2740" TITLE : add --mode dev to tfb BODY : -m {benchmark,verify}, --mode {benchmark,verify} verify mode will only start up the tests, curl the urls and shutdown default: benchmark the dev mode will be like the verify, but without shutdown. so will be easier to debug problems

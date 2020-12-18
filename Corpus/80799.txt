@@ -1,0 +1,1 @@
+ URL : "https://github.com/moonlight-labs/aor-jsonapi-client/issues/4" TITLE : updates on restclient.js BODY : hi, i've done some changes on restclient.js to transform resources and relations. https://github.com/zhomart/aor-jsonapi-client/blob/master/changelog.md i use it on my own projects, works well. if it looks ok to you, i can create pr.

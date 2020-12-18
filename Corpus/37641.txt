@@ -1,0 +1,1 @@
+ URL : "https://github.com/iliujianhui/SQLAudit/issues/3" TITLE : miss clustered index BODY : the primary key should add clustered property

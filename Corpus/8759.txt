@@ -1,0 +1,1 @@
+ URL : "https://github.com/marcusklaas/yapm-client/issues/50" TITLE : rewrite in elm? BODY : could be fun. this would introduce a few external dependencies though.. how'd the build process work? things to think about. https://guide.elm-lang.org/

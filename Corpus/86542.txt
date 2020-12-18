@@ -1,0 +1,1 @@
+ URL : "https://github.com/ntopia/icpc-teamnote/issues/9" TITLE : hungarian algorithm usage BODY : 내용에 코멘트 달아주세요 1. mat는 1 based로 채우는건가 0 based로 채우는건가? 2. matched에 뭐가 들어가나? 3. 최댓값을 리턴하는가 최솟값을 리턴하는가?

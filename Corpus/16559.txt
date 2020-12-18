@@ -1,0 +1,1 @@
+ URL : "https://github.com/vatesfr/xo-web/issues/2419" TITLE : job level timeout BODY : per-vm timeout is already implemented but job-level timeout has been requested multiple times, we should probably implement that. see 1956.

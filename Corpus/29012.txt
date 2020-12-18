@@ -1,0 +1,1 @@
+ URL : "https://github.com/project-march/somanet-ethercat-drive/issues/7" TITLE : init somanet tuning BODY : last several times i did not have to use ready to start to get the somanet going. so something goes wrong with initializing the code. used somanettuning.slx in assembly_joint_test branch.

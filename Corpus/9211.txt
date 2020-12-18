@@ -1,0 +1,1 @@
+ URL : "https://github.com/PartyM/partym.org/issues/1" TITLE : typo in formula BODY : trate = istart + ... should be trate = rmin + ... . > ! linear interpolation https://wikimedia.org/api/rest_v1/media/math/render/svg/8cd1838ecabafa019029fe20e05265378d042e16 https://en.wikipedia.org/wiki/linear_interpolation linear_interpolation_between_two_known_points

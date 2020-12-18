@@ -1,0 +1,1 @@
+ URL : "https://github.com/alduxvm/pyMultiWii/issues/19" TITLE : error with sendcmd BODY : it seems like the ord get a int instead of a character that’s what cause the error in my case any suggestions to fix this problem?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/yasinishyn/desktop-capture/issues/2" TITLE : move app to tray BODY : app main interface should be in tray. ! screenshot 2017-01-23 07 42 11 https://cloud.githubusercontent.com/assets/2759317/22192780/79689a20-e13f-11e6-9562-530af7398ef4.png investigate if something similar can be done for: linux, windows.

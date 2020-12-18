@@ -1,0 +1,1 @@
+ URL : "https://github.com/NAVCoin/navcoin-core/issues/90" TITLE : import wallet button BODY : under _file_ the user can _backup wallet_. it would be nice if there was a button _import wallet_. this would warn the user of the effect, ask the user to make a backup first, select wallet to import, close wallet, and restart wallet with the imported wallet.

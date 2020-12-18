@@ -1,0 +1,1 @@
+ URL : "https://github.com/aspnet/JsonPatch/issues/98" TITLE : // root path BODY : i am getting a path string to be generated from an expression to the root object to be: // that is, x => x is turning into '//' when it should just be '/'. when applying the apply function s it seems to be happy with double slash, but i don't think this should be the case.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/31i73/atom-dbg/issues/16" TITLE : issue using gdb BODY : when i attempted to debug a .py i got the following error message: 'gdb' is not recognized as an internal or external command, operable program or batch file i have the full 3 package set, running it on windows.

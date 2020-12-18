@@ -1,0 +1,1 @@
+ URL : "https://github.com/gorilla/csrf/issues/69" TITLE : forced errors dependency BODY : hello, i noticed that gorilla/csrf is using github.com/pkg/errors which while i believe it is an excellent package, it forces an unnecessary dependency on projects that want to use gorilla/csrf without pkg/errors . are there any plans to remove this dependency? thanks

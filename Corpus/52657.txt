@@ -1,0 +1,1 @@
+ URL : "https://github.com/dguest/ttree2hdf5/issues/6" TITLE : convert multiple trees BODY : right now we don't allow the input file to have multiple trees, but it should be trivial to support this.

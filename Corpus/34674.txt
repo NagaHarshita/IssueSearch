@@ -1,0 +1,1 @@
+ URL : "https://github.com/balint-horvath/activecampaign-php/issues/1" TITLE : composer not working BODY : hi, the project cannot be installed with composer, i cannot find in packagist either the error: could not find package balint-horvath/activecampaign-php at any version for your minimum-stability stable . check the package spelling or your minimum-stability

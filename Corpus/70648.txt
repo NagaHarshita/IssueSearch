@@ -1,0 +1,1 @@
+ URL : "https://github.com/WordPress-Thinstall/working-files/issues/1" TITLE : wp-hook script problems BODY : wp-hook script needs to call mysql less using batches instead of single instructions

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ucd-cws/wq-heatplot/issues/1" TITLE : devtools w/ dependencies BODY : r's devtool can have issues https://github.com/hadley/devtools/issues/1298 when loading supporting dependencies of the packages required. install ggplot2 prior to loading package.

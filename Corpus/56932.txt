@@ -1,0 +1,1 @@
+ URL : "https://github.com/SynoCommunity/spksrc/issues/2752" TITLE : package request expect BODY : name: expect description: interaction automation tool website: http://expect.sourceforge.net/ software documentation: build/installation documentation: source code: license: 17 usc 105 public domain

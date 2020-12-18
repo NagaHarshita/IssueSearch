@@ -1,0 +1,1 @@
+ URL : "https://github.com/explosion/spacy-dev-resources/issues/14" TITLE : had to install differently BODY : i used the following command to install: bash jupyter nbextension install https://raw.githubusercontent.com/explosion/spacy-dev-resources/master/jupyter-displacy/displacy.js

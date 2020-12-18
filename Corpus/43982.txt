@@ -1,0 +1,1 @@
+ URL : "https://github.com/tojocky/node-printer/issues/192" TITLE : dom print form window BODY : hi ! my os is windows, how to use 'node-printer' in html ? printer.printdirect {data: dom.getelementbyid 'printpage' , printer: 'npi145676 hp laserjet m1536dnf mfp 副本 1 ' , type: dom , success:function { console.log ok ; } , error:function err {console.log err ;} } ;

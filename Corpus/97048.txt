@@ -1,0 +1,1 @@
+ URL : "https://github.com/leo-unglaub/contao-open-layers/issues/3" TITLE : fix extension for contao 3 BODY : this extension needs to be updated for contao 3. this includes adding a composer.json and a src folder .

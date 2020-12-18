@@ -1,0 +1,6 @@
+ URL : "https://github.com/Praqma/maturity-model/issues/69" TITLE : revise api protocol BODY : send form answer back to server
+get/post/put
+/form/<formid> get form data:
+/<formid>
+e.g. - /maturity-model
+- /maturity-ops

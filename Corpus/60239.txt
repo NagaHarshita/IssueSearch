@@ -1,0 +1,1 @@
+ URL : "https://github.com/feathersjs/feathers-docs/issues/394" TITLE : wrong pagination links BODY : several database docs link to a wrong pagination link such as mongoose https://docs.feathersjs.com/databases/mongoose.html and nedb https://docs.feathersjs.com/databases/nedb.html . i'll make a pr to fix this issue.

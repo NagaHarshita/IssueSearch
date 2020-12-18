@@ -1,0 +1,1 @@
+ URL : "https://github.com/nunux-keeper/keeper-core-api/issues/5" TITLE : improve document model BODY : add: - revision number in order to manage sync - ttl in order to manage temporary document

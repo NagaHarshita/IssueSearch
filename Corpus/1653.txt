@@ -1,0 +1,1 @@
+ URL : "https://github.com/RajanFernandez/Warmshowers/issues/4" TITLE : can't log in BODY : when logging in, i get incorrect username or password . my password is 16 characters long, and contains characters like \, &, , % and ?. maybe they're not getting escaped properly?

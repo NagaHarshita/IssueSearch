@@ -1,0 +1,1 @@
+ URL : "https://github.com/blackwind/reload-plus/issues/11" TITLE : port to webextensions? BODY : currently add-on is legacy, and will stop working from ff57+ not really pushing, because so many add-ons won't survive i won't be going to 57. but it's not mentioned, and it's not mentioned in the add-on store - might as well create the issue.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/linuxdeepin/dtksettings/issues/1" TITLE : missing build dependencies BODY : missing build dependencies made it impossible to build a deb package from current source. qt5-qmake qtbase5-dev p.s.: a spelling error in debian/control : powerfull -> powerful.

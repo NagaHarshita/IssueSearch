@@ -1,0 +1,1 @@
+ URL : "https://github.com/clulab/processors/issues/158" TITLE : new travis images BODY : we are currently using the old travis images by including group: deprecated-2017q2 in .travis.yml , but these will only be available until september 1st, 2017, so we need to replace them. see https://blog.travis-ci.com/2017-06-21-trusty-updates-2017-q2-launch

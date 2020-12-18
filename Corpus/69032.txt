@@ -1,0 +1,1 @@
+ URL : "https://github.com/pcote/twitterapp/issues/1" TITLE : ssl certificate problem BODY : newcomer gets a warning about the site being unsafe because the certificate is a self-signed open-ssl certificate. needs a more sensible dv cert. let's encrypt perhaps?

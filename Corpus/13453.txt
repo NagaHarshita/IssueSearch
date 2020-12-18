@@ -1,0 +1,1 @@
+ URL : "https://github.com/nexe/nexe/issues/409" TITLE : update to es2017 BODY : it would be nice to be able to use es2017 in compilation. i got an acorn error when trying to use feature enabled by node 8. i searched acorn and there is an option to enable es2017. is it possible to send the option from nexe to acorn? if yes, how? if now, i make it a feature request. thank you

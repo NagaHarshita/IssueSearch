@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla/pulse/issues/98" TITLE : add an updateurl BODY : i think just adding this to install.rdf will fix you up: <em:updateurl>https://testpilot.firefox.com/files/pulse@mozilla.com/updates.json</em:updateurl>

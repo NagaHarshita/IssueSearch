@@ -1,0 +1,1 @@
+ URL : "https://github.com/lumail/lumail/issues/313" TITLE : unused linked libraries BODY : lumail w: unused shared library '/usr/lib/libdl.so.2' by file 'usr/bin/lumail2' lumail w: unused shared library '/usr/lib/libgio-2.0.so.0' by file 'usr/bin/lumail2'

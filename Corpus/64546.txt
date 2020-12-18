@@ -1,0 +1,1 @@
+ URL : "https://github.com/jasoncoon/esp8266-fastled-webserver/issues/49" TITLE : got following error now BODY : c:\users\matzeb\appdata\local\temp\arduino_build_722479\sketch\commands.h:181:3: error: 'results' was not declared in this scope results.value = 0;

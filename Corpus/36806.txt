@@ -1,0 +1,1 @@
+ URL : "https://github.com/usgs/earthquake-hazard-tool/issues/236" TITLE : improve data loading BODY : data loading is currently quite slow for static data sets. this can probably be improved using: https://github.com/brianc/node-pg-copy-streams anything to speed this up would be nice.

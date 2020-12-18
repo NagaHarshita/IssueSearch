@@ -1,0 +1,1 @@
+ URL : "https://github.com/codefordurham/school-navigator/issues/421" TITLE : add top margin to pages BODY : some content at the of school profile page and about page is hidden behind the navbar. this probably happened when we redesigned the hero. some top margin must be added to the content area of the page.

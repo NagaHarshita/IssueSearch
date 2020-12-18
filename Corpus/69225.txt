@@ -1,0 +1,1 @@
+ URL : "https://github.com/eclipsesource/tabris-js-cli/issues/17" TITLE : support cordova prepare BODY : cordova prepare can be useful if you need a native project that can be opened in a ide or built with native tools. we may or may not need this for building windows store apps. we should support this as tabris prepare just like we support cordova run and cordova build .

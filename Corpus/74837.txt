@@ -1,0 +1,1 @@
+ URL : "https://github.com/VividCortex/gohistogram/issues/23" TITLE : fix circleci integration BODY : circleci doesn't have a checkout key for this project. @gkristic, would you add one? https://circleci.com/gh/vividcortex/gohistogram/edit checkout

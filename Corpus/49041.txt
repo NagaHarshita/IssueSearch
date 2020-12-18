@@ -1,0 +1,1 @@
+ URL : "https://github.com/7bridges-eu/clj-odbp/issues/15" TITLE : support embedded mode BODY : orientdb.com/orientdb-embedded/ https://orientdb.com/docs/last/embedded-server.html not sure what it means with regards to serialization. but it would help with experiments/tests and simplify deployments

@@ -1,0 +1,1 @@
+ URL : "https://github.com/backup-manager/symfony/issues/3" TITLE : release new version BODY : hi, i would like to use this bundle with symfony 3.2 - but version 1.0 only supports symfony 2.x. since it's a bad practice to relay on dev-master, can you please tag a version 1.1? thanks!

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Vulcanostrol/MowerSimulator/issues/40" TITLE : new map layout BODY : - add fences on left and right - add house / fences on the top - add road on the bottom - make truck drive over player when on the road for too long - make plants spawn outside the yard

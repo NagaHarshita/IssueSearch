@@ -1,0 +1,1 @@
+ URL : "https://github.com/danielkucera/ZidoStreamer/issues/5" TITLE : filedescriptor on nougat BODY : i ve searched a little.. and i am reading on different posts that filedescriptor with non seekable data dont work on nougat.. so my main question is is this possible to work on nougat ?

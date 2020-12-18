@@ -1,0 +1,1 @@
+ URL : "https://github.com/gdsestimating/dxf-parser/issues/17" TITLE : normalize group transforms BODY : first of all, thank you for an amazing work! i'm just curious, is it possible to add normalize function into the library, to unwind... to apply all block transforms to the endpoints and shapes? thanks again

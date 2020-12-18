@@ -1,0 +1,1 @@
+ URL : "https://github.com/bradens/atom-pipe/issues/22" TITLE : object.add is deprecated. BODY : are you trying to listen for the 'core:cancel core:close' atom command with jquery::on ? jquery::trigger can no longer be used to listen for atom commands. please use atom.commands.add instead. see the docs at https://atom.io/docs/api/latest/commandregistry

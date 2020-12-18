@@ -1,0 +1,1 @@
+ URL : "https://github.com/Bloblblobl/Command-Handler/issues/1" TITLE : add error handling BODY : let the user pass a tuple of exception objects that the command handler will catch so that command handler won't crash from bad inputs

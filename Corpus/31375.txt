@@ -1,0 +1,1 @@
+ URL : "https://github.com/sumatrapdfreader/sumatrapdf/issues/907" TITLE : settings file error BODY : when put the portable sumatra into program files directory windows with settings file, the sumatra can't read the password in settings file. it will require the user to input the password.

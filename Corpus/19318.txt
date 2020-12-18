@@ -1,0 +1,1 @@
+ URL : "https://github.com/dlmanning/gulp-sass/issues/592" TITLE : @import .scss file BODY : new version 3.1.0 not correct import .scss file in construction: .nestly{ @import main.scss ; } but version 2.3.2 do it perfect!

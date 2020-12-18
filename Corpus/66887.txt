@@ -1,0 +1,1 @@
+ URL : "https://github.com/Nyr/openvpn-install/issues/345" TITLE : not issue, but question BODY : is there anyway you can show me how i can edit this or the openvpn.conf to make the samba files be seen from all clients on the vpn as if they were in a lan

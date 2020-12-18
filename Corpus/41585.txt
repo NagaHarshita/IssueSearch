@@ -1,0 +1,1 @@
+ URL : "https://github.com/breckinridge22/optrak/issues/3" TITLE : add a .gitignore file BODY : exclude migrations and __pycache__ directories and all other binary files.

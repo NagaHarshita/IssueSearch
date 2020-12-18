@@ -1,0 +1,1 @@
+ URL : "https://github.com/OptimalDesignLab/PDESolver.jl/issues/98" TITLE : boundary condition ranges BODY : this is really a mesh thing, but the code for the boundary conditions would look so much neater if mesh.bndry_offsets became mesh.bndry_ranges which store unitrange objects that describe which boundary object have each boundary condition.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ioam/holoviews/issues/2176" TITLE : dask array interface BODY : similarly to how there is an arrayinterface and a xarrayinterface , would be nice if there was an interface for using dask arrays directly.

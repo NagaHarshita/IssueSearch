@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla-services/syncserver/issues/94" TITLE : http error 500 BODY : http error 500 while getting https://github.com/mozilla-services/tokenserver/archive/1.2.27.zip cause: commit https://github.com/mozilla-services/syncserver/commit/4f4787eadf729be5dd92d27b25c4317784ce00a7

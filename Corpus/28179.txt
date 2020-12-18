@@ -1,0 +1,1 @@
+ URL : "https://github.com/chocoteam/choco-solver/issues/511" TITLE : find next solution? BODY : hi, for my thesis i'm using the choco solver to perform graph coloring. however just finding a correct graph coloring isn't enough. therefor i was wondering if it was possible to get a result, check if it's ok, if not get a next result, etc... thanks in advance! nicholas

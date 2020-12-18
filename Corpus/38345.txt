@@ -1,0 +1,1 @@
+ URL : "https://github.com/feathersjs/feathers-authentication/issues/505" TITLE : passport log failure BODY : currently, i am getting 500 errors when doing oauth2 login with google. that's fine, but i cannot tell what the error is! there is no logs or errors being flashed. haven't done anything custom other than the generator.

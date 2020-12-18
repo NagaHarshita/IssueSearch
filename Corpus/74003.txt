@@ -1,0 +1,1 @@
+ URL : "https://github.com/pydanny/cookiecutter-django/issues/1228" TITLE : docker support for grunt BODY : given use_docker == y , js_task_runner == grunt , grunt must be run through node service introduced in 1205 similar to gulp same static asset bundle paths etc. .

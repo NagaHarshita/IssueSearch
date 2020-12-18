@@ -1,0 +1,1 @@
+ URL : "https://github.com/lcabrini/jfm/issues/8" TITLE : build: create jar target BODY : the ant build script should have a target to create a jar file.

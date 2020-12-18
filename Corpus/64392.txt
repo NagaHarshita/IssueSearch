@@ -1,0 +1,1 @@
+ URL : "https://github.com/JustArchi/ArchiSteamFarm/issues/495" TITLE : general config for bots BODY : in the change of the general config for bots makes changes in all json here is an example of lootabletypes lootabletypes : 1, 5, 7, 1, 5, 7, 1, 5, 7, 1, 5, 7, 1, 5, 7, 1, 5, 7, 1, 5, 7 , to fix this, you need to go over all json

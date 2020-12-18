@@ -1,0 +1,1 @@
+ URL : "https://github.com/sdwfrost/Gillespie.jl/issues/12" TITLE : fix non-thinned jensen BODY : the non-thinned version of jensen doesn't appear to be working properly

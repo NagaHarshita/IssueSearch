@@ -1,0 +1,1 @@
+ URL : "https://github.com/DzikuVx/QuadMeUp_Crossbow/issues/24" TITLE : s.bus input for tx module BODY : opentx/opentx 5225 implemented s.bus output on ppm pin. add s.bus instead of ppm for better performance

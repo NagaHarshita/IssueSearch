@@ -1,0 +1,1 @@
+ URL : "https://github.com/solaini/CCCapstone/issues/2" TITLE : add a favicon BODY : if you add a favicon in head <link rel= icon href= favicon.png type= image/x-icon > it will appear in browser tab instructions are in the managing assets article in week 7 . you can use http://www.favicon-generator.org/ https://github.com/solaini/cccapstone/blob/master/index.html l3

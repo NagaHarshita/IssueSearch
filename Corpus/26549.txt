@@ -1,0 +1,2 @@
+ URL : "https://github.com/rick-monster/aleph/issues/49" TITLE : blackfin audio fifo BODY : <a href= https://github.com/catfact ><img src= https://avatars0.githubusercontent.com/u/94855?v=3 align= left width= 96 height= 96 hspace= 10 ></img></a> issue by catfact https://github.com/catfact _sunday oct 27, 2013 at 21:38 gmt_
+_originally opened as https://github.com/monome/aleph/issues/69_ ---- should implement optional audio buffering.

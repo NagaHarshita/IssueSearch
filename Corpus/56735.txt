@@ -1,0 +1,1 @@
+ URL : "https://github.com/marcbruederlin/particles.js/issues/6" TITLE : npm import not working BODY : doesn't seem to work when required or imported. seems like module.exports is missing and its relying on global variables instead?

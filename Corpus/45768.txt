@@ -1,0 +1,1 @@
+ URL : "https://github.com/JReinhold/google-inbox-to-trello/issues/3" TITLE : integrate with trello BODY : - get app api key - authenticate with trello - from settings or on button press? - add card to first list of some hardcoded board - add link to mail as attachment on card - add mail subject as card title

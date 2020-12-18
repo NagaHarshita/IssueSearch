@@ -1,0 +1,1 @@
+ URL : "https://github.com/SavelyAB/Savely-Web/issues/2" TITLE : create a user system BODY : the user system needs to handle users in two ways, as a child and as a parent and those can be paired to each other. - a child can create a account - a parent can create a account - a parent can connect a child and vice versa - a user can then log in

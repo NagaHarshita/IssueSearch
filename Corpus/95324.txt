@@ -1,0 +1,1 @@
+ URL : "https://github.com/FACN3/kiss_principle/issues/3" TITLE : creating the user database BODY : the user database columns: id, serial primary key user_name, varchar 20 password, varcghar 20 creation_time, timestamp, age integer, gender varchar 1

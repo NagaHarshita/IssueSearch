@@ -1,0 +1,1 @@
+ URL : "https://github.com/hxmowang/leetcode_zijie/issues/2" TITLE : 121 bp buy and sell BODY : class solution { public: int maxprofit vector<int>& prices { int i; int n; n = prices.size ; int d 100000 ; d 0 =0; int minnum; minnum=500000; for i = 1; i < n; i++ { minnum=min prices i-1 ,minnum ; d i = max d i - 1 , prices i -minnum ; } return d n-1 ; } }; 注意数组的大小，以及时间的限制

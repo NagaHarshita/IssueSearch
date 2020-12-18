@@ -1,0 +1,1 @@
+ URL : "https://github.com/anvaka/VivaGraphJS/issues/207" TITLE : custom renderer engine? BODY : is it possible/trivial to add a new rendering engine without a recompile? i'm kind of stuck as to what methods the renderer is expected to have as there's no base class that i can see.

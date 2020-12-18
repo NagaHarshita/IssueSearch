@@ -1,0 +1,1 @@
+ URL : "https://github.com/timbru31/docker-node-chrome/issues/1" TITLE : chromium v60 @alpine BODY : blocked, since chromium v60 is not yet available in edge branch: https://pkgs.alpinelinux.org/package/edge/community/x86_64/chromium

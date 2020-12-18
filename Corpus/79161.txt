@@ -1,0 +1,1 @@
+ URL : "https://github.com/ffaerber/appsample/issues/5" TITLE : run test on ci in docker BODY : the tests should run on ci with docker-compose.

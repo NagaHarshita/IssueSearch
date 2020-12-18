@@ -1,0 +1,1 @@
+ URL : "https://github.com/ngrx/effects/issues/141" TITLE : exception occur handle? BODY : how to handle error perfect? currently in effect loop only success result handle correctly. but if an error occur, the rx effect loop will exit

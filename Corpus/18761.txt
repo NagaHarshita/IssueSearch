@@ -1,0 +1,1 @@
+ URL : "https://github.com/swagger-api/swagger-codegen/issues/4782" TITLE : update test cases BODY : description for https://github.com/swagger-api/swagger-codegen/pull/4695 issuecomment-279343238 to cover the issue moving forward. swagger-codegen version latest master

@@ -1,0 +1,1 @@
+ URL : "https://github.com/php-slang/php-slang/issues/35" TITLE : extend ci pipeline BODY : make sure that travis gives +1 only when following tests are positive: - php-cs-fixer - psalm - php mess detector - php code sniffer also move tests to a separate verification script so it's easy to tests commits on a local environment.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/cptx032/ael/issues/16" TITLE : create for command BODY : bash foreach @item in a b c { trace @item. }.

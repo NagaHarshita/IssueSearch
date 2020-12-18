@@ -1,0 +1,1 @@
+ URL : "https://github.com/perl6/doc/issues/1516" TITLE : document utf8 type BODY : perl6 say utf8; output: « utf8 ␤»

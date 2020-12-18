@@ -1,0 +1,1 @@
+ URL : "https://github.com/RPCS3/rpcs3/issues/3512" TITLE : disgaea 4 ppu error BODY : f {ppu 0x100000a thread fios mediathread 9 0x02b441cc } class std::runtime_error thrown: verification failed e=0x70 : file::write in file c:\rpcs3\utilities\file.cpp:886

@@ -1,0 +1,1 @@
+ URL : "https://github.com/theoephraim/node-pg-migrate/issues/96" TITLE : support role operations BODY : it'd be useful to support role operations e.g. creating roles . is there any interest in this?

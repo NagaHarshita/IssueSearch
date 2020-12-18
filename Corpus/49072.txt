@@ -1,0 +1,1 @@
+ URL : "https://github.com/rm-hull/luma.core/issues/115" TITLE : support for linux i2c BODY : hi, i have an ssd1306 oled connected to my thinkpad via i2c and would like to use luma to access it. however, it seems that it needs rpi.gpio which obviously makes little sense in my case. is there a way to use the standard i2c kernel module instead?

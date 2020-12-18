@@ -1,0 +1,1 @@
+ URL : "https://github.com/ShivamSarodia/ShivyC/issues/39" TITLE : static variable in for BODY : the following code violates 6.8.5.3, but is accepted by shivyc: int main { for static int i = 0; i < 10; i++ {} }

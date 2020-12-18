@@ -1,0 +1,1 @@
+ URL : "https://github.com/wp-cli/language-command/issues/8" TITLE : examples are outdated BODY : the example for this command need to be updated. example code still uses wp core language , while the command has changed to become wp language core .

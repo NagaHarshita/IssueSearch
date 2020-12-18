@@ -1,0 +1,1 @@
+ URL : "https://github.com/ivanpopelyshev/shumway/issues/1" TITLE : tests are failing 29.12 BODY : private server, unix: - master 1405 - fix-code-typos 1404 - original shumway 1404 travis: - 1393. how is this possible? which tests are failing on my server and which one did i break with my shumway rewrite?

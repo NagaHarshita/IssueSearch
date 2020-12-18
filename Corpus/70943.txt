@@ -1,0 +1,1 @@
+ URL : "https://github.com/gr2m/moment-parseformat/issues/70" TITLE : 2015 02 03 → yyyy dd d BODY : moment.parseformat '2015 02 03' parsed to yyyy dd d , i expected: yyyy mm dd

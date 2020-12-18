@@ -1,0 +1,1 @@
+ URL : "https://github.com/openremote/openremote/issues/50" TITLE : rules engine log BODY : each rulesengine should have a custom log facade so users can log stuff on rules rhs. ideally the manager ui would show this output on the rules engine screen.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/liam2/larray/issues/25" TITLE : split unit tests BODY : at a minimum, move axis, axiscollection and lgroup tests out of test_la.py

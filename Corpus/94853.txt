@@ -1,0 +1,1 @@
+ URL : "https://github.com/flix/flix/issues/459" TITLE : codegen tostring of tuples BODY : the tostring of tuples should simple be elm1, ...m elmn . e.g. you could have 42, 21 which should print as 42, 21 .

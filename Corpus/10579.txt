@@ -1,0 +1,1 @@
+ URL : "https://github.com/dmsl/anyplace/issues/178" TITLE : couchbase ce 5.0 BODY : hi, we get problem while we try to connect couchbase ce 5.0. is there any change for couchbase ce 5.0 version. config; couchbase.hostname= http://localhost couchbase.port=8091 couchbase.bucket= anyplace couchbase.username= user couchbase.password= passs

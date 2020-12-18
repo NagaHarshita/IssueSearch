@@ -1,0 +1,1 @@
+ URL : "https://github.com/v00/scratch/issues/9" TITLE : setup verify phase BODY : run any checks on results of integration tests to ensure quality criteria are met with mvnw verify command.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Bashnet/Tea-Cozy/issues/4" TITLE : subtlety - article usage BODY : woops, instead of article https://www.w3schools.com/tags/tag_article.asp i think the main tag https://developer.mozilla.org/en-us/docs/web/html/element/main would be more appropriate to surround the entirety of the main content on the page.

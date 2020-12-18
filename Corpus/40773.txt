@@ -1,0 +1,1 @@
+ URL : "https://github.com/cschoede/control-tower-api/issues/2" TITLE : users: confirm email BODY : requirement users should not be able to access their account without first confirming their email address

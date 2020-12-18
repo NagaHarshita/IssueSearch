@@ -1,0 +1,1 @@
+ URL : "https://github.com/evanchooly/javabot/issues/191" TITLE : delete the googleoperation BODY : there is no need for it; it can be implemented as a factoid just as ~g is. remove googleoperation, then add factoid: ~google $+ is <reply>http://letmegooglethatforyou.com?q=$+ i checked; lmgtfy does not support https.

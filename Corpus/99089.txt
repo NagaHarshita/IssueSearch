@@ -1,0 +1,1 @@
+ URL : "https://github.com/InseeFr/Pogues-Back-Office/issues/34" TITLE : make httpclient injectable BODY : currently apache httpclient is not povided through di, which makes barelly impossible to test any service depending on it for instance stromaeserviceimpl

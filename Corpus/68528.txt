@@ -1,0 +1,1 @@
+ URL : "https://github.com/esterbergstrom/prog16-banking/issues/1" TITLE : save feature is missing BODY : bankfileservice is missing a method that saves an instance of bankdata to a parameter path.

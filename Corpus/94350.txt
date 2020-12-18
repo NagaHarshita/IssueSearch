@@ -1,0 +1,1 @@
+ URL : "https://github.com/jonathanslenders/pyvim/issues/95" TITLE : can not exit :help windows BODY : open pyvim . then type :help to open help window type :q command to exit :help , but not working .

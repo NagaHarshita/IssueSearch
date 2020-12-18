@@ -1,0 +1,1 @@
+ URL : "https://github.com/AtomLinter/linter-flake8/issues/328" TITLE : e901 py36 f-strings BODY : fstrings introduced in python 3.6 get whacked with e901s: fruit = 'apple' print f'i ate this here {fruit}.'

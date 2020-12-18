@@ -1,0 +1,1 @@
+ URL : "https://github.com/cloudogu/ecosystem/issues/242" TITLE : fix postfix startup script BODY : remove >>/var/log/postfix.log 2>&1 from the last line of the startup.sh of postfix to let all log data be written to stdout. this will make sure that all log data ends up in the hosts postfix.log and does not stay inside the container.

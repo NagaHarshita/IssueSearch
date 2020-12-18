@@ -1,0 +1,1 @@
+ URL : "https://github.com/gaearon/redux-devtools/issues/371" TITLE : window is not defined BODY : file: redux-devtools/examples/counter/src/store/configurestore.dev.js const enhancer = compose applymiddleware thunk , devtools.instrument , persiststate window.location.href.match / ?& debug_session= ^& + \b/ ; window is not defined it's stupid for server-side rendering app!

@@ -1,0 +1,1 @@
+ URL : "https://github.com/izaya0/ProjektTIN/issues/36" TITLE : accept game progress BODY : game needs to accept game progress provided on stdin changing internal state accordingly.

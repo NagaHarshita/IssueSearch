@@ -1,0 +1,1 @@
+ URL : "https://github.com/bioconda/bioconda-recipes/issues/6034" TITLE : pinning to conda_zlib BODY : @bgruening zlib in most recipes is not pinned to conda_zlib. should it be? should there also be conda_bzip2?

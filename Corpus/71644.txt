@@ -1,0 +1,1 @@
+ URL : "https://github.com/alexreisner/geocoder/issues/1248" TITLE : add support for dynamoid BODY : i was wondering if it would be possible to add support for dynamoid https://github.com/dynamoid/dynamoid . it's heavily inspired by mongoid, and i'd really like to be able to use geocoder in combination with it in my projects.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mikeryan/PyBT/issues/4" TITLE : control handle values BODY : hi, another question that i have about the gatt db is whether or not the handle values can be assigned manually. for device cloning purposes, this could be advantageous. bleno does not support this, but i suspect that pybt would. thanks, and have a great day. jennj

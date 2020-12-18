@@ -1,0 +1,1 @@
+ URL : "https://github.com/cocos2d/cocos2d-x-samples/issues/53" TITLE : xcode 8 build error BODY : _ctframesettercreatewithattributedstring , referenced from: _ctframesettersuggestframesizewithconstraints , referenced from: clang: error: linker command failed with exit code 1 use -v to see invocation

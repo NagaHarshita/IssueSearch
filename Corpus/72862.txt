@@ -1,0 +1,1 @@
+ URL : "https://github.com/jrean/laravel-user-verification/issues/146" TITLE : check mail has been sent BODY : hey, i just wonder how can i check if the mail has been successfully sent in order to display the associated message success or error. thanks

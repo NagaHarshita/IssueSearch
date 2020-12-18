@@ -1,0 +1,1 @@
+ URL : "https://github.com/stefanocudini/leaflet-search/issues/173" TITLE : customizing the search BODY : when selecting a feature in the search bar, is it possible for the result in my case a polygon to be highlighted and zoomed to, rather than the red circle that indicates the location on the map? for my application i am using the qgis2web plugin.

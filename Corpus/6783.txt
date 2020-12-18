@@ -1,0 +1,1 @@
+ URL : "https://github.com/benrlodge/react-simplemde-editor/issues/44" TITLE : can i autosave? BODY : hi! i'm trying to enable autosave, but it doesn't work. as the form loads, i am setting it's value from the state, so it seems to clear all the text simplemde has saved. is there a workaround for this?

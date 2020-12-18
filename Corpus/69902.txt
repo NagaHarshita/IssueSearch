@@ -1,0 +1,1 @@
+ URL : "https://github.com/andywer/ava-ts/issues/5" TITLE : unexpected token import BODY : i've made a simple test like your example and i've this error: function exports, require, module, __filename, __dirname { import test from 'ava'; ^^^^^^ syntaxerror: unexpected token import the test: import test from 'ava'; test 'one plus two equals three', t => { t.is 1 + 2, 3 ; } ;

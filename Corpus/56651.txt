@@ -1,0 +1,1 @@
+ URL : "https://github.com/vadis365/Mob-Grinding-Utils/issues/35" TITLE : non-vanilla spawn eggs BODY : the spawn egg mechanic only works for vanilla spawn eggs. i think it has to do with this in chickenfuseevent.java: if entitylist.entity_eggs.containskey name { if the logic could be tweaked to allow any modded spawn eggs, that would be awesome.

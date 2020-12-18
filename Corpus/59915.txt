@@ -1,0 +1,1 @@
+ URL : "https://github.com/Greenstand/treetracker-android/issues/6" TITLE : variable naming issues BODY : review the code and rectify variable naming issues, which appear to be the result of copy/pasting code without modifying variable names for context.

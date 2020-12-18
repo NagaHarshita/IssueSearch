@@ -1,0 +1,1 @@
+ URL : "https://github.com/obriencole11/fossil/issues/26" TITLE : add a simple ik component BODY : basically an fk component with a basic component attached. this way the fk component looks at the basic component, but the basic component doesn't drive anything. maybe this could also be an aim component?

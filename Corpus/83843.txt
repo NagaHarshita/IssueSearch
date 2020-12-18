@@ -1,0 +1,1 @@
+ URL : "https://github.com/ControlSystemStudio/cs-studio/issues/2350" TITLE : combo control write value BODY : hello, we can’t set a pv value using combo in css 4.5, we have tried with the boy example choicewidgets.opi and it does not seems to work either. we have no issue with css 4.1 , did anything changed? best

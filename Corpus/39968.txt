@@ -1,0 +1,1 @@
+ URL : "https://github.com/ubports/telegram-app/issues/64" TITLE : support pinned chats BODY : in telegram you can pin 5 chats, these can be one on one, or group chats, this makes sure they stay at the top of the list at all points, this isnt available on telegram on ubuntu.

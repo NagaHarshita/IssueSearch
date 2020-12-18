@@ -1,0 +1,1 @@
+ URL : "https://github.com/jemalloc/jemalloc/issues/533" TITLE : .h file refactoring BODY : the current jemalloc_h_types / jemalloc_h_structs / jemalloc_h_externs / jemalloc_h_inlines framework for include files is unidiomatic and makes the dependency graph cyclic. we want to have a principled way to split everything up.

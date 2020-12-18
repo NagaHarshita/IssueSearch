@@ -1,0 +1,1 @@
+ URL : "https://github.com/bwmarrin/discordgo/issues/324" TITLE : error installing in macos BODY : after a go get i get the following error: ┗ go get github.com/bwmarrin/discordgo github.com/gorilla/websocket workspace/go/src/github.com/gorilla/websocket/client_clone.go:15: cfg.clone undefined type tls.config has no field or method clone

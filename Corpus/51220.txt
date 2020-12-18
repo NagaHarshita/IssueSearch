@@ -1,0 +1,1 @@
+ URL : "https://github.com/contao/contao-manager/issues/60" TITLE : add translation for ui BODY : the ui is currently hardcoded in english, it should obviously be translatable.

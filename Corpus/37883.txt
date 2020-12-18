@@ -1,0 +1,1 @@
+ URL : "https://github.com/raghav-kapoor/VC-Rocketry/issues/6" TITLE : need major clean-ups BODY : too many repeated files/code. code sections used by multiple files should exist as a separate file for import. keeping different versions of a same file should make use of different branches. eg uncertain changes should not go in master branch, only merge it after it's stable.

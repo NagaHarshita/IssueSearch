@@ -1,0 +1,1 @@
+ URL : "https://github.com/silshack/summer2017/issues/318" TITLE : nura's drawing app header BODY : @nurahill this isn't displaying correctly: https://silshack.github.io/summer2017/nura-turtle-drawing-app.html seems like the header was copied and pasted from a diff so it's got a bunch of + s in front of it.

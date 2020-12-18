@@ -1,0 +1,1 @@
+ URL : "https://github.com/CIRCL/pcapdj/issues/3" TITLE : add bpf filter support BODY : add a command line for specifying a bpf filter. hence a stack of pcap files can be processed and the matched packets can either put to fifo buffer or to zmq socket.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/aforren1/toon/issues/9" TITLE : order of events BODY : 1. interface to hand incl. reading on another thread/process 2. visual display of force in 3d space 3. control flow e.g. start acquiring data on space press 4. data format trial-by-trial & hdf5

@@ -1,0 +1,1 @@
+ URL : "https://github.com/opendime/chrome-opendime-extension/issues/2" TITLE : litecoin support todo list BODY : - doesn't check signature correctly for litecoin - says making bitcoin_ address when generating key - should highlight that it's a litcoin opendime add their logo image somwhere?

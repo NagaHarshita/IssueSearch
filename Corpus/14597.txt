@@ -1,0 +1,1 @@
+ URL : "https://github.com/Eniac-Xie/faster-rcnn-resnet/issues/12" TITLE : batch norm layers BODY : i don't find any difference in batchnorm layer between microsoft's caffe and official caffe. how does the microsoft's caffe reduces the memory usage? best!

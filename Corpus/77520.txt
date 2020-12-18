@@ -1,0 +1,1 @@
+ URL : "https://github.com/uclmr/jack/issues/311" TITLE : new pytest dependencies? BODY : i have been running into problems with pytest because it now depends on pytest-xdist and pytest-cov . however, these are not in the dependencies? somehow this works on wercker though. am i missing something?

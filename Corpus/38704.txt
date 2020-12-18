@@ -1,0 +1,1 @@
+ URL : "https://github.com/jonathantneal/preloadfill/issues/1" TITLE : push to npm registry BODY : any plans on pushing this module to npm registry in current state, maybe with some dist-tag? i know it’s in alpha , but even in current state it can be usable.

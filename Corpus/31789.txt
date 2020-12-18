@@ -1,0 +1,1 @@
+ URL : "https://github.com/sys1yagi/mastodon4j/issues/33" TITLE : support link header BODY : i think link header processing is unnecessary. so the priority is low.

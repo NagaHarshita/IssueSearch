@@ -1,0 +1,1 @@
+ URL : "https://github.com/Group7A/health-tracker/issues/163" TITLE : images on search page BODY : the image api gets overloaded if called to retrieve 4 images on the search page. needs to be fixed.

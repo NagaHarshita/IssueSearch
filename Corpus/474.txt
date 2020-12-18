@@ -1,0 +1,1 @@
+ URL : "https://github.com/bloomberg/bucklescript/issues/1099" TITLE : nil vs 0 BODY : i see that in some examples nil is treated as undefined in function inputs while it is returned as 0 as a function output. just looks strange to me. i would expect nil to be void 0 . could you please clarify your idea?

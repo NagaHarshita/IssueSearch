@@ -1,0 +1,1 @@
+ URL : "https://github.com/sourdoughdetzel/fantasy-baseball/issues/19" TITLE : setup alerting framework BODY : changes to process, bids, nominations should all store private variables and check when an observable fires to see what has changed and fire off an event to other subscribers

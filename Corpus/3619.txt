@@ -1,0 +1,1 @@
+ URL : "https://github.com/wyze/babel-plugin-transform-react-stateless-component-name/issues/8" TITLE : some odd bugs BODY : i don't have time at the moment to make a repro, but i saw some weird instances of displayname being added to a named export that was not even a function.

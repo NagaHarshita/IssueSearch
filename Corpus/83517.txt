@@ -1,0 +1,1 @@
+ URL : "https://github.com/VSCodeVim/Vim/issues/1716" TITLE : cc doesn't copy linewise. BODY : start: foo |bar fun keyspressed: 'cc<esc>jp' desired end: foo fun |bar what we currently do foo f|barfun

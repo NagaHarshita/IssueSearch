@@ -1,0 +1,1 @@
+ URL : "https://github.com/krzysztofzablocki/Sourcery/issues/402" TITLE : add isfinal to type BODY : especially for generating mock subclasses it is very important if the type is final because then it's not possible . i don't see a possibility do determine this from the type type, so i would like to suggest adding it.

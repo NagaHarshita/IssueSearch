@@ -1,0 +1,1 @@
+ URL : "https://github.com/jeremiah/spdxl/issues/8" TITLE : invalid top directory BODY : when running a new install of spdxl.pl, like this; > $ perl spdxl.pl . i get this error; > invalid top directory at /usr/share/perl/5.22/file/find.pm line 129. i think this means i have to pass an argument to spdxl. this ought to be documented.

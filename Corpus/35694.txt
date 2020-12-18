@@ -1,0 +1,1 @@
+ URL : "https://github.com/Mooophy/Cpp-Primer/issues/611" TITLE : exercise 2.31 answer BODY : i think r1 = v2; should be illegal since r1 is an ordinary reference while v2 is a const int.

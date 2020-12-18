@@ -1,0 +1,1 @@
+ URL : "https://github.com/RaRe-Technologies/bounter/issues/4" TITLE : optimize min count sketch BODY : - profile the existing implementation at line level - identify hotspots and higher-level usage patterns that will benefit from low-level optimization loops, sequence updates - optimize hotspots in c via cython - update setup.py to use a compiled extension

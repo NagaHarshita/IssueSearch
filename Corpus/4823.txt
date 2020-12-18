@@ -1,0 +1,1 @@
+ URL : "https://github.com/jaretburkett/RF24-STM/issues/1" TITLE : hardware spi 2 BODY : this is a question, i just want to know how can setup the library to use the hardware spi 2 on stm32f103c devices, is that possible? i'am a newbie on stm32duino world. but i have some experiences with arduino on atmel and esp devices. best regards.

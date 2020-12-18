@@ -1,0 +1,1 @@
+ URL : "https://github.com/nextcloud/docker/issues/168" TITLE : excessive number of layers BODY : i would suggest a rewrite or cleanup of dockerfiles in order to reduce the number of layers in these images.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Acellera/htmd/issues/330" TITLE : make tests faster BODY : using pytest? @stefdoerr comment smaller and more complete data tests use coverage testing

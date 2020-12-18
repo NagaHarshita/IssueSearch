@@ -1,0 +1,1 @@
+ URL : "https://github.com/TheWebMonks/demo-2d3d/issues/3" TITLE : add s3 support BODY : - upload results to an s3 bucket - use images from s3 as source

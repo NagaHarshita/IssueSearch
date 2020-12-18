@@ -1,0 +1,1 @@
+ URL : "https://github.com/steveorsino/Java-II-Project/issues/1" TITLE : fix input validations BODY : need to change process for invalid data alert displays twice and handle incorrect datatype entries.

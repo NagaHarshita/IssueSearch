@@ -1,0 +1,1 @@
+ URL : "https://github.com/subutai-io/liquid-router/issues/31" TITLE : lr v2.0 block diagram BODY : block diagram with separation of ps & pl and interface which will be used between zynq and ic's.

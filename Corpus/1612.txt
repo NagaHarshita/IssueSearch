@@ -1,0 +1,1 @@
+ URL : "https://github.com/da2k/curso-javascript-ninja/issues/2225" TITLE : aula de ajax BODY : bom dia @fdaciuk , qdo tento fazer uma requisição ajax para um arquivo aparece um erro cross origin request are only supported for protocol schemes: http,data, chrome, chrome-extensions , https. não estou usando nenhum servidor. <!-- não apague daqui pra baixo! --> @fdaciuk

@@ -1,0 +1,1 @@
+ URL : "https://github.com/dhabyx/plasma-simpleMonitor/issues/27" TITLE : support gpu data BODY : the plasmoid is awesome, but gpu temperature would make it more complete. this is mentioned in 9, too. for proprietary nvidia drivers the nvidia-smi command can provide all kinds of information. unfortunately i haven't been able to add the nvidia sensors to the sensors output.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/quxios/QMovement/issues/1" TITLE : colliders in open zones BODY : somehow colliders are being created on open zones, please see below example. i even tried to change the inner closed tiles to open, but the end result is the same. ! prive https://user-images.githubusercontent.com/758487/28264141-80f77442-6ae1-11e7-8dc8-3275b1379e58.png

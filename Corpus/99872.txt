@@ -1,0 +1,1 @@
+ URL : "https://github.com/Bilibili/ijkplayer/issues/3241" TITLE : no such file libavfilter.a BODY : e:\git\video\ijkplayer\android\contrib\build\ffmpeg-armv7a\toolchain\bin\arm-linux-androideabi-ranlib.exe: '/e/git/video/ijkplayer/android/contrib/build/ffmpeg-armv7a/output/lib/libavfilter.a': no such file make: library.mak:95: install-libavfilter-static error 1

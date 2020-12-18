@@ -1,0 +1,1 @@
+ URL : "https://github.com/unitycoder/BulletPatternEditorUnity/issues/5" TITLE : a suggestion for namespace BODY : move every class from the plugin to a namespace like bulletpattern may be better for managing.

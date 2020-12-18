@@ -1,0 +1,1 @@
+ URL : "https://github.com/flipxfx/sVim/issues/48" TITLE : mapping to z does not work BODY : for example if i had this line in the svimrc map z gotoinput , it does not work. only if i press z two times, will it work.

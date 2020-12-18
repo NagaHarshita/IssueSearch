@@ -1,0 +1,1 @@
+ URL : "https://github.com/WallPanel-Project/wallpanel-android/issues/34" TITLE : new sensor: db meter BODY : might be useful to add a decibel meter sensor that gets reported back to ha. the ionic project has a plugin for it not sure if any of the reference code is useful or not : https://ionicframework.com/docs/native/db-meter/

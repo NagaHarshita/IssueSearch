@@ -1,0 +1,1 @@
+ URL : "https://github.com/knowmetools/tutorials-web/issues/11" TITLE : pull data from api BODY : the actual app should pull data from an api instead of having hardcoded values. this is blocked for now until we have the api running.

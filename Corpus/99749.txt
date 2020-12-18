@@ -1,0 +1,1 @@
+ URL : "https://github.com/gregsdennis/Manatee.Trello/issues/81" TITLE : new fields for attachments BODY : see api https://developers.trello.com/advanced-reference/card get-1-cards-card-id-or-shortlink-attachments . missing the following: - edgecolor

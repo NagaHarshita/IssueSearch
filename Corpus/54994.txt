@@ -1,0 +1,1 @@
+ URL : "https://github.com/rehive/service-ico/issues/8" TITLE : ico add and edit issue BODY : /api/admin/icos/<id>/ should accept blank values for exchange_provider

@@ -1,0 +1,1 @@
+ URL : "https://github.com/dask/dask-ec2/issues/72" TITLE : option to stop instances? BODY : destroy terminates the instances: is there an option to stop them and then restart from them? it can save money and time : .

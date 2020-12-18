@@ -1,0 +1,1 @@
+ URL : "https://github.com/davelively14/flatfoot/issues/47" TITLE : fix dashboard error BODY : if user is on the dashboard and then clicks on the dashboard link in the header , the user will receive this error: receive: spade:11 phx_close 1 object {} application.js:18297 channel: close spade:11 1 undefined clicking on dashboard when on the dashboard should not do anything.

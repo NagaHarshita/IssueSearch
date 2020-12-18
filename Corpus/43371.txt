@@ -1,0 +1,1 @@
+ URL : "https://github.com/SwiftArchitect/TGPControls/issues/25" TITLE : crashes on send event BODY : func sendactionsforcontrolevents { // automatic uicontroleventvaluechanged notification if let tickslistener = tickslistener { tickslistener.tgpvaluechanged value: uint value <<======exc_badness } } value was -1.0 ?

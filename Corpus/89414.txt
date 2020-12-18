@@ -1,0 +1,1 @@
+ URL : "https://github.com/FontoXML/fontoxpath/issues/1" TITLE : publish fontoxpath to npm BODY : we are making a better xpath test page, which is the only thing blocking a nice npm release. we should use a pre-publish hook to build / minify the engine, and remove it from the repository.

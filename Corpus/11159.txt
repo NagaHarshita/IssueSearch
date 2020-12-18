@@ -1,0 +1,1 @@
+ URL : "https://github.com/calband/calchart-redesign/issues/184" TITLE : fix download pdf BODY : style sheets aren't being loaded, probably due to different origin document.stylesheets 0 .rules // null on prod, list in local

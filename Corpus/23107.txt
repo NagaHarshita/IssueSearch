@@ -1,0 +1,1 @@
+ URL : "https://github.com/mCodex/react-native-sensitive-info/issues/55" TITLE : no touch id prompt BODY : i am not getting a touch id prompt to scan my finger on ios when retrieving a value stored using the touchid: true option. any idea why that may be occurring? i am seeing the same behavior on the example app as well.

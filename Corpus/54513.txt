@@ -1,0 +1,1 @@
+ URL : "https://github.com/reflex-frp/reflex/issues/84" TITLE : ghcjs base 4.9 support BODY : hi i've installed the current stable haskell platform and built ghcjs. this used v4.9 of the base libraries, which is not supported by reflex. are there any plans to support this in the near future? cheers gautham

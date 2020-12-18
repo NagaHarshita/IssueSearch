@@ -1,0 +1,1 @@
+ URL : "https://github.com/malucooo/Otxserver-New/issues/97" TITLE : broadcast not work? BODY : estoy probando unos eventos en el servidor y mira que el broadcast message no aparece enmedio de la pantalla de color rojo game.broadcastmessage mensaje solo aparece en el server log. alguna solución? o es debido al cliente? o por error o compatibilidad lo quitaron de los sources?

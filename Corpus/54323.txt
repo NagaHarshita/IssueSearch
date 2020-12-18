@@ -1,0 +1,1 @@
+ URL : "https://github.com/endlessdev/rankr/issues/4" TITLE : for the first release! BODY : - write crawler using sequelize - use travisci - beautifulize readme.md - deploy to npm

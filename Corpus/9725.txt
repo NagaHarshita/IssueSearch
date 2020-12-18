@@ -1,0 +1,1 @@
+ URL : "https://github.com/owncloud/guests/issues/24" TITLE : add build script BODY : like a makefile where make dist builds the app into build/guests/ and strips all unwanted files. see https://github.com/owncloud/customgroups/blob/master/makefile for an example, it has sub-rules-files. i hope to make this reusable for apps eventually.

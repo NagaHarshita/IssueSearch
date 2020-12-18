@@ -1,0 +1,1 @@
+ URL : "https://github.com/portkey-cloud/aws-clj-sdk/issues/12" TITLE : fork and shade aws-sig4 BODY : to extend it to works on s3 and cut deps depth, it should also help for 1 cljs support

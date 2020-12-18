@@ -1,0 +1,1 @@
+ URL : "https://github.com/ConstanceMorel/Tarot_Learner/issues/3" TITLE : order card when returned BODY : si possible, lors de la requête /hand/:id, il faudrait que les cartes retournées soient hiérarchisées par couleurs.

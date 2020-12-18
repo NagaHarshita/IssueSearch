@@ -1,0 +1,1 @@
+ URL : "https://github.com/blent/beagle/issues/39" TITLE : switch to context package BODY : since there is no requirement to support older versions of go, let's switch from golang.org/x/net/context to native context package.

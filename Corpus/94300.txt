@@ -1,0 +1,1 @@
+ URL : "https://github.com/TryGhost/gscan/issues/37" TITLE : bypass escaping handlebars BODY : any field has the possibility of opening an xss if the theme bypasses escaping. reference: http://stackoverflow.com/questions/27926605/handlebars-triple-stash-to-avoid-escaping-html-entities suggested by @sebgie

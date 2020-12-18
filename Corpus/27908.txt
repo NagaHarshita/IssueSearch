@@ -1,0 +1,1 @@
+ URL : "https://github.com/CartoDB/cartodb/issues/12881" TITLE : error in embed maps BODY : some embed maps are not visible. example: https://matallo.carto.com/builder/b1acfcd2-f8d0-11e3-aa4e-0e230854a1cb/embed console error: ! captura de pantalla 2017-09-28 a las 16 29 56 https://user-images.githubusercontent.com/3824953/30972486-efa643ce-a46a-11e7-9bbc-42baedc30362.png

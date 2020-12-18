@@ -1,0 +1,1 @@
+ URL : "https://github.com/robertklep/node-kaku-rpi/issues/2" TITLE : unable to load driver BODY : when i use the example code i get the following error: ..../rpio/lib/rpio.js:326 throw invalid pin ; ^ invalid pin what am i doing wrong??

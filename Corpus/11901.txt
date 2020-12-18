@@ -1,0 +1,1 @@
+ URL : "https://github.com/a-h/jwtproxy/issues/3" TITLE : logs lack detail BODY : would like to log: whether the request was successfully authenticated using jwt and the issuer which was used http response code, size and other data from the remote endpoint time taken for the remote endpoint

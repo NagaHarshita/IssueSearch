@@ -1,0 +1,1 @@
+ URL : "https://github.com/fossasia/susi_skill_cms/issues/318" TITLE : handle empty skills BODY : actual behaviour currently, the categories with no skills shows a blank page expected behaviour we should display a message regarding this situation would you like to work on the issue? yes

@@ -1,0 +1,1 @@
+ URL : "https://github.com/trilinos/ForTrilinos/issues/177" TITLE : prefix enum names BODY : otherwise will certainly lead to conflicts. @sethrj sorry, only realized this point now. but we need a quick fix. could we prefix the enums automatically? ideally, i'd like to prefix them with something that depends on the module they are in.

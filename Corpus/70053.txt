@@ -1,0 +1,1 @@
+ URL : "https://github.com/Codeception/robo-paracept/issues/34" TITLE : update robo requirement BODY : package codegyre/robo is abandoned, you should avoid using it. use consolidation/robo instead. https://packagist.org/packages/codegyre/robo

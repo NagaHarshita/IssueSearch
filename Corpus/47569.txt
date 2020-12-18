@@ -1,0 +1,6 @@
+ URL : "https://github.com/nicktu12/swapi-box/issues/9" TITLE : populate people cards BODY : when a user clicks on people, the page is populated with cards with data for each person. the cards should have:
+name
+homeworld
+species
+population of homeworld
+a button to “favorite” the person

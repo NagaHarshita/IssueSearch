@@ -1,0 +1,1 @@
+ URL : "https://github.com/JumpPad-Studios/Summative-Game-Connect-Four-ICS3U/issues/6" TITLE : full column bug BODY : when a column on the board is full, and a player still wants to place a chip their, it wont deny them and have them re-enter a column number.

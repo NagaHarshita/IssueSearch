@@ -1,0 +1,1 @@
+ URL : "https://github.com/Robpol86/Flask-Celery-Helper/issues/19" TITLE : support for amqpbackend? BODY : i am new to celery and rabbitmq but would it be hard to implement a lockmanager for amqp?

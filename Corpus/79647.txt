@@ -1,0 +1,1 @@
+ URL : "https://github.com/ViacomInc/roku_builder/issues/9" TITLE : source options in readme BODY : modify the readme to better explain the source options. especially when it comes to script staging vs git staging.

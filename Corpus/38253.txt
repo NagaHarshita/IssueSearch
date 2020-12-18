@@ -1,0 +1,1 @@
+ URL : "https://github.com/SlapperAutoMapper/Slapper.AutoMapper/issues/51" TITLE : oracle aliases limit BODY : oracle has limits to alias name. this limit is 30 characters. is possible to add support short name to alias? for example: mytable_items_msnt_id mytable_items_msnt_name during the mapping replace mytable_items_msnt_ to mytable_items_unitofmeasurement.

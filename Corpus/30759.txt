@@ -1,0 +1,1 @@
+ URL : "https://github.com/Nek5000/NekDoc/issues/63" TITLE : quickstart has typo BODY : cp -r ../examples/eddy . and anywhere should have examples replaced by short_tests

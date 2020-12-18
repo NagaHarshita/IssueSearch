@@ -1,0 +1,1 @@
+ URL : "https://github.com/wordpress-mobile/WordPress-FluxC-Android/issues/638" TITLE : update plugin mocked test BODY : as discussed here https://github.com/wordpress-mobile/wordpress-fluxc-android/pull/631 issuecomment-348043419 we need a mocked test for the update plugin feature.

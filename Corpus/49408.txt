@@ -1,0 +1,1 @@
+ URL : "https://github.com/zagortenay333/timepp__gnome/issues/13" TITLE : time tracker accuracy BODY : hello. how does the time tracker work when dealing with values below 1min: when i start tracking for a task and stop the tracking after 45s econds, does the tracker still count those 45 seconds? thank you!

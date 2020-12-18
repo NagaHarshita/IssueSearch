@@ -1,0 +1,1 @@
+ URL : "https://github.com/typicode/json-server/issues/546" TITLE : yaml version of the db. BODY : please add support for a yaml version of the db, e.g. when started with: sh json-server --watch db.yml to persist the data of the db in a yaml file instead of json. thank you.

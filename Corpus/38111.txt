@@ -1,0 +1,1 @@
+ URL : "https://github.com/jamiebicknell/Toggle-Switch/issues/8" TITLE : not ie6-8 compatible BODY : i tested your github demo at http://jamiebicknell.github.io/toggle-switch/ on internet explorer 6, 7 and 8 and the toggle switch doesn't work for all 3. the readme states it as ie6+ compatibility.

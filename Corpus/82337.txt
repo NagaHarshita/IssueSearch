@@ -1,0 +1,1 @@
+ URL : "https://github.com/IBMStreams/streamsx.kafka/issues/43" TITLE : add standard message type BODY : from https://github.com/ibmstreams/streamsx.messagehub/issues/15: > the operators default to looking for a schema with key and message, it would be good to have such a type ready to use in this and the kafka toolkit.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/whosonfirst/go-whosonfirst-api/issues/10" TITLE : remove tts writer BODY : this shouldn't be part of core and causes the entirety of the aws go libraries to be vendored.

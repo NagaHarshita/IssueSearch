@@ -1,0 +1,1 @@
+ URL : "https://github.com/jseadragon/vim-dotfiles/issues/1" TITLE : add gtk tools BODY : add the following to the system setup: - sudo apt-get install lxappearance add to gitconfig merge tool = mymeld conflictstyle = diff3 mergetool mymeld cmd = meld $local $merged $remote

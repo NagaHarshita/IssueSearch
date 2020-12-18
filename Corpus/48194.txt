@@ -1,0 +1,1 @@
+ URL : "https://github.com/DDMAL/Pixel.js/issues/95" TITLE : repaint on layer swap BODY : when swapping layers, the painted elements need to be redrawn right away. now, they are only repainted on scroll or other action by the user.

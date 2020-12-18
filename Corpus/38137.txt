@@ -1,0 +1,1 @@
+ URL : "https://github.com/evgenyneu/UnderKeyboard/issues/9" TITLE : not working properly BODY : xcode 9 swift 4 after setting the constraint to the bottom button in the view when clicking on a text field it just moves the button up and doesn't move the uiview at all

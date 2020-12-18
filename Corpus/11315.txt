@@ -1,0 +1,1 @@
+ URL : "https://github.com/silkimen/cordova-plugin-advanced-http/issues/33" TITLE : get response url BODY : i have a specific scenario where the api i'm calling redirects me to a different success/failure url both with status 200 😭 . it doesn't look like the httpresponse object contains the url. i'm wondering if it's possible to get this added to the library?

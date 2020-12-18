@@ -1,0 +1,1 @@
+ URL : "https://github.com/StrangeLoopGames/EcoIssues/issues/2306" TITLE : tree occupancy broken BODY : seems to be a problem largely in migration? in my testing i found the new worlds have root occupancy, but not trunk. the opposite is true for migrated worlds.

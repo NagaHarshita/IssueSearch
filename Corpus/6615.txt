@@ -1,0 +1,1 @@
+ URL : "https://github.com/Blogcat/Android-ExpandableTextView/issues/17" TITLE : android 8 issue BODY : it doesn't work anymore on android 8 oreo . textview is auto expanded and it's not possible to collapse it. tested on nexus 6p device.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jaames/iro.js/issues/10" TITLE : disable brightness bar BODY : hi, let me say this first, this is one of the best color picker wheel implementations out there! simple to easy, low friction api and very well designed! i just had a question, is there a way for me to disable the brightness bar? or a way to pass in a init option? thanks!

@@ -1,0 +1,1 @@
+ URL : "https://github.com/matrix-org/matrix-js-sdk/issues/387" TITLE : sender is redacted BODY : when an event is redacted, the sender of the event is stripped out when it should in-fact be kept. sender should be added to _redact_keep_key_map in client.js.

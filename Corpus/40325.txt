@@ -1,0 +1,1 @@
+ URL : "https://github.com/conda-forge/eccodes-feedstock/issues/27" TITLE : travis build braking BODY : the last build of the master-branch failed after merging the pr 25 due to running overtime. restarted in the hope it will make it this time. see https://travis-ci.org/conda-forge/eccodes-feedstock/branches

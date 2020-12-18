@@ -1,0 +1,1 @@
+ URL : "https://github.com/flystack/misty/issues/59" TITLE : rbac policies are missing BODY : misty is missing rbac policies described in the api documentation: https://developer.openstack.org/api-ref/networking/v2/ list-rbac-policies

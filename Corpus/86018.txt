@@ -1,0 +1,1 @@
+ URL : "https://github.com/atarijookie/ce-atari/issues/165" TITLE : get rid of the update app BODY : we have the debian package manager so why on earth are we not using it? jookie could easily setup a repository and the ce_main would just call... apt-get update && apt-get upgrade. not to mention you can't roll back and all sorts of crazy stuff.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/tetsuwo/website-blocker-chrome.ext/issues/93" TITLE : fails to close webpages BODY : blocked websites aren't closed or blocked when ran in the background. example: pop-ups that open a page in the background and redirect you to stuff

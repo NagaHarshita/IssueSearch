@@ -1,0 +1,1 @@
+ URL : "https://github.com/streamproc/MediaStreamRecorder/issues/148" TITLE : issue with time BODY : hii sir, we have a issue regarding time while playing recorded audio for the first time the duration of the audio is shown as nan:nan / infinity:nan and after half of the original time the duration will be show in original, and this issue only be in chrome.

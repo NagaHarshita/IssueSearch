@@ -1,0 +1,1 @@
+ URL : "https://github.com/zalando/zappr/issues/500" TITLE : labels bug without config BODY : when there is no config for the labels check, zappr does nothing, which causes prs to hang in waiting for status state. it should instead mark the commit as green. relevant line: https://github.com/zalando/zappr/blob/master/server/checks/pullrequestlabels.js l54

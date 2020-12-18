@@ -1,0 +1,1 @@
+ URL : "https://github.com/aaronbiller/opensourceyear/issues/6" TITLE : fix admin button BODY : the admin button on the sidebar for superusers just appends /admin to the current base url. this works fine from the home page, but on the posts page it attempts to navigate to /posts/admin which of course doesn't work. a page that redirects to the admin page should work fine for this.

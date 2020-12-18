@@ -1,0 +1,1 @@
+ URL : "https://github.com/joshdholtz/fastlane-plugin-s3/issues/44" TITLE : unable to download app BODY : i get an error alert saying: > unable to download app > appname could not be downloaded at this time. after the loading indicator on the app icon reaches 100%.

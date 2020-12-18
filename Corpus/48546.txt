@@ -1,0 +1,1 @@
+ URL : "https://github.com/eugeneloza/decoherence/issues/45" TITLE : send and catch events BODY : interface: - event displayer interface element - event types - send event - listen to events - attach sound to events - pause on events game: - send events at game situations

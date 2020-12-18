@@ -1,0 +1,1 @@
+ URL : "https://github.com/michaelpb/omnic/issues/13" TITLE : redis based queue BODY : - allow swapping out asyncio's gimmick-y queuing for a custom-made redis-based async queue should be easy e.g. using: aioredis package

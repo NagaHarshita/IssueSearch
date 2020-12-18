@@ -1,0 +1,1 @@
+ URL : "https://github.com/EscapeRush/Entrance_Room/issues/5" TITLE : externalize user config BODY : get video filenames and length from config file instead of inside the program

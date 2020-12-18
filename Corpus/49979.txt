@@ -1,0 +1,1 @@
+ URL : "https://github.com/twosigma/beakerx/issues/5661" TITLE : user dir in classpath BODY : we should put ~/.jupyter/custom/jars or something into classpath too, to make it easy for users to add jars.

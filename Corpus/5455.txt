@@ -1,0 +1,1 @@
+ URL : "https://github.com/rubenv/docker-ttrss-plugins/issues/2" TITLE : php7 & volumes BODY : hey, thanks for your docker container! do you plan to upgrade to php7? and is there an option to make the plugins and themes path availible as a volume? thx!

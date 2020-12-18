@@ -1,0 +1,1 @@
+ URL : "https://github.com/jsdelivr/jsdelivr/issues/18028" TITLE : force lib update BODY : how can i force a purge or otherwise update a lib to the newest version? in particular, axios is @0.16.1 when 0.16.2 is the current version as of two months ago.

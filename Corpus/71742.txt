@@ -1,0 +1,1 @@
+ URL : "https://github.com/eTzmNcbkrng/SavedInstances/issues/16" TITLE : adding writhing essences BODY : writhing essences are now a currency, to add to this addon add this line 103 in savedinstances.lua 1501,-- writhing essence it should then show in the options credit goes to post from zulinia from curse.com

@@ -1,0 +1,1 @@
+ URL : "https://github.com/AbsInt/CompCert/issues/193" TITLE : coq 8.6.1 support BODY : please support coq 8.6.1. currently, compcert does not compile under 8.6.1 as it fails version check in configure script.

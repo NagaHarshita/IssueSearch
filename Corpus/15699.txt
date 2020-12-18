@@ -1,0 +1,1 @@
+ URL : "https://github.com/VadimDez/ngx-filter-pipe/issues/48" TITLE : filtered set size BODY : great solution, works effectively. however, is there a way to get a handle on the filtered set? like getting the size of filtered items, or any other property?

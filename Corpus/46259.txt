@@ -1,0 +1,1 @@
+ URL : "https://github.com/Galooshi/import-js/issues/470" TITLE : logpath: no such file BODY : cat $ importjs logpath cat: /var/folders/jg/tczxx4hs5_32s1z2mw02b94r0000gn/t/importjs.log: no such file or directory os x with importjs 2.8.0

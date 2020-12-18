@@ -1,0 +1,1 @@
+ URL : "https://github.com/moosemog/bwa-u3-jammming-prj/issues/3" TITLE : great! helper functions BODY : https://github.com/moosemog/bwa-u3-jammming-prj/blob/master/src/components/app/app.js l32-l68 your helper functions in the app component, which you then pass down through the others, are well implemented. good job!

@@ -1,0 +1,1 @@
+ URL : "https://github.com/oysttyer/oysttyer/issues/123" TITLE : using synch hangs 2.9.0 BODY : this is a regression from 2.8.0. if using synch , you'll never get beyond the loading screen.

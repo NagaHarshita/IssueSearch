@@ -1,0 +1,1 @@
+ URL : "https://github.com/shuttle1987/latex_quiz_generator/issues/3" TITLE : parse existing file BODY : currently this package only offers an interface via python. being able to parse an existing file would make this more accessible to people who have no python development background.

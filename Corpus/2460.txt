@@ -1,0 +1,1 @@
+ URL : "https://github.com/ashwin153/caustic/issues/42" TITLE : add none type BODY : the caustic-syntax package is desperately in need of a none type. there is currently no way to distinguish between no value and the empty string.

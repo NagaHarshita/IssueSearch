@@ -1,0 +1,1 @@
+ URL : "https://github.com/kriswiner/BMX-055/issues/4" TITLE : error in the sensitivity BODY : hi, i used the bmx055 and set the gscale to 2000 dps. but when i integrate the rate at 50 hz i get always a doubled error with the sensitivity you stated. from my opinion somehow the sensitivity is only the half. did you check the sensitivity?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/maparent/virtuoso-python/issues/9" TITLE : no support for python 3? BODY : file /opt/rh/rh-python35/root/usr/lib/python3.5/site-packages/virtuoso-0.12.6-py3.5.egg/virtuoso/vstore.py , line 368 except exception, e: ^ syntaxerror: invalid syntax

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jadore801120/attention-is-all-you-need-pytorch/issues/24" TITLE : batch size limitation BODY : hi i was wondering why the maximum batch size is ~100 using a gpu with ~11gb of ram whereas in tensor2tensor the maximum batch size there is 1024?

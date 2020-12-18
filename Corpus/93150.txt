@@ -1,0 +1,1 @@
+ URL : "https://github.com/yuki/Musa/issues/12" TITLE : add gestures in playerview BODY : add gestures for: - go to next song swift right - go to previous song swift left - minimize the player swift down try the option swift up to show a new little view for add rating, like , dislike , or make musa

@@ -1,0 +1,1 @@
+ URL : "https://github.com/skpm/sketch-dev-tools/issues/15" TITLE : add a preference panel BODY : we should add a small ⚙️ icon on the topbar to open a preference panel. things we could put inside: - 13 - window always on top or not - dark theme 🤘 - and probably a lot more

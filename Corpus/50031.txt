@@ -1,0 +1,1 @@
+ URL : "https://github.com/alanning/meteor-roles/issues/223" TITLE : v2.0 addrolestoparent BODY : in some cases addrolestoparent does not add new roles to existing users. i think it's an issue with _usersinrolequery but can't find the pattern right now. will update if i find something

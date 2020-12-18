@@ -1,0 +1,1 @@
+ URL : "https://github.com/jhitchcock/raml2wiki/issues/28" TITLE : add support for raml v1.0 BODY : when run against raml v1.0 the following error occurs: error parsing: version validation unsupported raml version: ' %raml 1.0' in api.raml , line 1, column 1: %raml 1.0 ^

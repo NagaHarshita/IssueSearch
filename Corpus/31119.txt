@@ -1,0 +1,1 @@
+ URL : "https://github.com/Samffy/recurrence/issues/3" TITLE : rrule support count BODY : the until or count rule parts are optional , but they must not occur in the same 'recur'. value : integer - manage attribute in recurrence - add support in recurrence::createrecurrencefromrrule - add unit tests see rfc : https://tools.ietf.org/html/rfc5545 page-37

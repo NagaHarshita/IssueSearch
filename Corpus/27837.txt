@@ -1,0 +1,10 @@
+ URL : "https://github.com/andybotting/xbmc-addon-plus7/issues/1796" TITLE : end-user bug report BODY : automatic bug report from end-user. environment plugin name: plus7 plugin id: plugin.video.plus7 plugin version: 3.1.1 xbmc version: 17.0 git:20170201-a10c504 python version: 2.7.12 default, feb 1 2017, 19:11:26 gcc 4.9.x 20150123 prerelease operating system: linux2 linux localhost 3.0.31+ 3 smp preempt thu dec 29 02:09:34 utc 2016 armv7l ip address: 80.6.248.19 cpc107049-rdng27-2-0-cust18.15-3.cable.virginm.net isp : virgin media python path: /storage/emulated/0/android/data/org.xbmc.kodi/files/.kodi/addons/plugin.video.plus7
+/storage/emulated/0/android/data/org.xbmc.kodi/files/.kodi/addons/script.module.simplejson/lib
+/
+/data/app/org.xbmc.kodi-1/base.apk/assets/python2.7/lib/python27.zip
+/data/app/org.xbmc.kodi-1/base.apk/assets/python2.7/lib/python2.7
+/data/app/org.xbmc.kodi-1/base.apk/assets/python2.7/lib/python2.7/plat-linux2
+/data/app/org.xbmc.kodi-1/base.apk/assets/python2.7/lib/python2.7/lib-tk
+/data/app/org.xbmc.kodi-1/base.apk/assets/python2.7/lib/python2.7/lib-old
+/data/app/org.xbmc.kodi-1/base.apk/assets/python2.7/lib/python2.7/lib-dynload
+/storage/emulated/0/android/data/org.xbmc.kodi/files/.kodi/addons/plugin.video.plus7/resources/lib traceback traceback most recent call last : file /storage/emulated/0/android/data/org.xbmc.kodi/files/.kodi/addons/plugin.video.plus7/resources/lib/series.py , line 31, in make_series_list series_list = comm.get_index file /storage/emulated/0/android/data/org.xbmc.kodi/files/.kodi/addons/plugin.video.plus7/resources/lib/comm.py , line 77, in get_index series_data = json_data 'query' 'results' 'json' 'show_data' typeerror: 'nonetype' object has no attribute '__getitem__'

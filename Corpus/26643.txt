@@ -1,0 +1,1 @@
+ URL : "https://github.com/okyayaykut/sms/issues/1" TITLE : bug in sms.php file BODY : on sms.php file please change $send_xml to only '$xml' or just rename parameter of sendrequest method to $send_xml . beside this problem seems to work perfectly.

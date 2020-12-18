@@ -1,0 +1,1 @@
+ URL : "https://github.com/macmillanpublishers/bookmaker/issues/175" TITLE : ss delete lists.js BODY : this file will no longer be necessary when we roll out the new htmlmaker_js conversions: https://github.com/macmillanpublishers/bookmaker/blob/master/core/htmlmaker/lists.js

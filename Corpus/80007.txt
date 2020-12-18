@@ -1,0 +1,1 @@
+ URL : "https://github.com/Jarzon/PrimUtilities/issues/6" TITLE : support repeating inputs BODY : be able to verify the values of the list of inputs instead of just one. should add a method to set all the forms to multiple using a propriety. then we need to be able to tell what's the id of the existing row.

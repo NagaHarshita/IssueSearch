@@ -1,0 +1,1 @@
+ URL : "https://github.com/jwir3/minuteman/issues/1" TITLE : add minutes data structure BODY : we need a minutes data structure, from which everything else will be built. we will also need to make sure to put in some testing functionality, as well.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/HotswapProjects/HotswapAgent/issues/203" TITLE : issue with symlink BODY : hotswapagent does not notice .class changes if the file in inside a symlink directory.

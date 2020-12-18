@@ -1,0 +1,1 @@
+ URL : "https://github.com/vmware/clarity/issues/365" TITLE : grow feature request BODY : select one ... check one with x bug x feature request enhancement expected behavior add a new component for displaying floating messages. this can be seen in primeng at http://www.primefaces.org/primeng/ /growl

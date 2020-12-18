@@ -1,0 +1,1 @@
+ URL : "https://github.com/mark1ad/beer-rater-frontend/issues/2" TITLE : handle multiple breweries BODY : for collaboration beers there will be multiple breweries. api needs to include all breweries in results. beerinfo component needs to display all breweries.

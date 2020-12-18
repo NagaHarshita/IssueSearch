@@ -1,0 +1,1 @@
+ URL : "https://github.com/tuarua/WebViewANE/issues/29" TITLE : default platform | android BODY : please enable the default platform option at ane, to make applications runnable from simulator. i see u disabled at _extension_mobile.xml_ for now... also some codes would be needed at the build script, at _build_mobile.sh_ and at .swc to have it... thanks!

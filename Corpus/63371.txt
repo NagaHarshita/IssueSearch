@@ -1,0 +1,1 @@
+ URL : "https://github.com/lwakefield/zay/issues/1" TITLE : doesn't notify children BODY : if listening on profiles/${prop.id}.name and profiles/${props.id} is mutated, then the child will not be notified.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/rythmengine/rythmengine/issues/359" TITLE : format null value handling BODY : @{ double d1=2.0; double d2=null; } @d1.format @d2.format it is nice that d2.format does not throw a null value exception. displaying 0 is not what i'd expect. i'd prefer to be able to set the nullvalue equivalent e.g. use - or as the string that should be displayed.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/TypeScript-React-Starter/issues/9" TITLE : readme is confusing BODY : i'm confused. is this repo the result of using create-react-app with the react-scripts-ts script? or should you use cra and the react-script-ts script on top of this repo? please advise.

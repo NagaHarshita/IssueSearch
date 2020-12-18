@@ -1,0 +1,1 @@
+ URL : "https://github.com/NBISweden/LocalEGA/issues/36" TITLE : consolidate the logs BODY : ... including errors. pass the debug level in the config file

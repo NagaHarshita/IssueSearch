@@ -1,0 +1,1 @@
+ URL : "https://github.com/dsparrow27/mayaPlugins/issues/2" TITLE : int to float conversions BODY : mostly just a reminder to myself to fix some of the nodes which are converting types at compile time instead of doing it up front myself cause im an idiot. just gotta find time

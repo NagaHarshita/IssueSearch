@@ -1,0 +1,1 @@
+ URL : "https://github.com/snac-cooperative/snac/issues/9" TITLE : update id validator BODY : in gitlab by @deternitydx on feb 2, 2016, 17:07 once the database api is finalized and place/placeentry is sorted, update the id validator to correctly validate.

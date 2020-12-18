@@ -1,0 +1,1 @@
+ URL : "https://github.com/bootstrap-vue/bootstrap-vue/issues/1299" TITLE : formatter for b-select BODY : i use numerical keys object for :options of <b-select> , but it turns into string value when i change the selected option, so can you add formatter for it? and how about to add formatter for all input components?

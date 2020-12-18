@@ -1,0 +1,1 @@
+ URL : "https://github.com/postmarketOS/osk-sdl/issues/36" TITLE : letter alignment on keys BODY : letter size and positioning should be scaled dynamically based on screen size. they seem to be center-aligned horizontally, but are aligned to the top of the key vertically. on large screens, this will result in awkwardly spaced, difficult to read letters.

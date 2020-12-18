@@ -1,0 +1,1 @@
+ URL : "https://github.com/openSUSE/open-build-service/issues/3883" TITLE : delete groups via webui BODY : issue/feature description ==================== i'd like to see an option as an admin to delete groups. expected result ============ groups are deletable via ui.

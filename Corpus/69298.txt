@@ -1,0 +1,1 @@
+ URL : "https://github.com/node-modules/should2assert/issues/4" TITLE : support more should api BODY : - a.should.have.property opt - a.should.be.true - a.should.length 3

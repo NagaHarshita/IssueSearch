@@ -1,0 +1,1 @@
+ URL : "https://github.com/h3imdall/ftp-remote-edit/issues/58" TITLE : image view doesn't work BODY : hi! atom has image view package by default. but it doesn't work if i try to watch images from remote server via sftp. please, could you fix it? best regards, alex.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Roll20/roll20-character-sheets/issues/2339" TITLE : swn: combat section BODY : - rename common rolls section to combat - move weapons from gear to combat - remove basic melee attack button - remove basic ranged attack button

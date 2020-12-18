@@ -1,0 +1,9 @@
+ URL : "https://github.com/OCA/geospatial/issues/156" TITLE : migration to version 11.0 BODY : todo https://github.com/oca/maintainer-tools/wiki/migration-to-version-11.0 modules to migrate - base_geoengine
+- base_geoengine_demo
+- geoengine_base_geolocalize
+- geoengine_geoname_geocoder
+- geoengine_maplausanne
+- geoengine_partner
+- geoengine_project
+- geoengine_sale
+- geoengine_swisstopo

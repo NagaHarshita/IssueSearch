@@ -1,0 +1,1 @@
+ URL : "https://github.com/vunb/vntk/issues/28" TITLE : load custom model BODY : please open vntk to have ability load custom model for word_sent, chunking, ner. for example: js var tagger = new vntk.ner model_filename ; tagger.tag 'text input' ;

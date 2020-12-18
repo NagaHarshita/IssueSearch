@@ -1,0 +1,1 @@
+ URL : "https://github.com/adafruit/Adafruit_SSD1306/issues/101" TITLE : problem on code BODY : i had verify the code of adafruit ssd1306 128 64 i2c. i got a compiling error > height incorrected,please fix adafruit_ssd1306.h! . then i check the adafruit h file,everything is good.i don't know how to fix it. help me to fix it quickly.

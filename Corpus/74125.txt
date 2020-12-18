@@ -1,0 +1,1 @@
+ URL : "https://github.com/keboola/s3-extractor/issues/6" TITLE : downloaded files counter BODY : show message about total number downloaded files, good to know when the number is 0

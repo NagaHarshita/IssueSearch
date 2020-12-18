@@ -1,0 +1,1 @@
+ URL : "https://github.com/gnithin/flow-test/issues/1" TITLE : support for swift BODY : test this out for swift. it should not cause too many pain-points since xctestcase is used similarly 🤞 . this would involve building and testing this for various swift versions

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jkarlin/pause-frame/issues/1" TITLE : avoid boolean arguments BODY : see https://ariya.io/2011/08/hall-of-api-shame-boolean-trap instead use a dictionary, so pause { withui: true } or something.

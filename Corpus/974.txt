@@ -1,0 +1,1 @@
+ URL : "https://github.com/whiskyechobravo/image_process/issues/14" TITLE : bug in crop BODY : in image_process.py line 65, left comes in front of top return i.crop int t , int l , int r , int b should be instead return i.crop int l , int t , int r , int b

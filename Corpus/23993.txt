@@ -1,0 +1,1 @@
+ URL : "https://github.com/vairad/zcu-os/issues/36" TITLE : run shell in shell BODY : i assume that add shell to set of possible commands is enough to solve this bug.

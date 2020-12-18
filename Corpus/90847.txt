@@ -1,0 +1,1 @@
+ URL : "https://github.com/Hagsten/Talkify/issues/15" TITLE : style tag in package.json BODY : hello, please, can you add the style field in package.json? i'm use the gulp-style-npm-files to find css files in node_modules projects. example: main : dist/talkify.js , style : dist/styles/ .css , scripts : { .... best regards

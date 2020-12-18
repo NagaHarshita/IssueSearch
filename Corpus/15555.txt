@@ -1,0 +1,1 @@
+ URL : "https://github.com/matthewearl/deep-anpr/issues/43" TITLE : error in train.py BODY : there is an error in train.py script error is: file train.py , line 66, in read_data code = fname.split / 1 9:16 indexerror: list index out of range

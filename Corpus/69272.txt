@@ -1,0 +1,1 @@
+ URL : "https://github.com/laravel/framework/issues/17745" TITLE : support for phpunit 6.0 BODY : - laravel version: 5.3. - php version: 7.0 - database driver & version: description: a new phpunit version is released and has some changes that has to be updated in laravel. for example https://github.com/sebastianbergmann/phpunit/commit/ba2241e6e0a634dc333b6e1d2fd6d0e8c16c2f57

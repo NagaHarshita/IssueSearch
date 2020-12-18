@@ -1,0 +1,1 @@
+ URL : "https://github.com/votemike/money/issues/4" TITLE : upgrade to php 7.0 BODY : php 5.6 ended active support on 19 jan 2017. upgrade code and minimum php version to php 7.0 and tag the release as a breaking change. update readme on how to use this library with php 5.6

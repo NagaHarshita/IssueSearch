@@ -1,0 +1,1 @@
+ URL : "https://github.com/ankane/searchkick/issues/888" TITLE : turn off async for tests BODY : we run into many issues with async reindexing not completing before some assertions are called. rather than wrapping blocks with perform_enqueued_jobs , it would be nice to be able to turn off async reindexing for the test suite.

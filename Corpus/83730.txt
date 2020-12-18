@@ -1,0 +1,1 @@
+ URL : "https://github.com/shareonbazaar/bazaar-react/issues/8" TITLE : clean up actions/reducers BODY : i think we can define the actions in just one file and import all at once into reducers

@@ -1,0 +1,1 @@
+ URL : "https://github.com/lcdsantos/jQuery-Selectric/issues/197" TITLE : force render options box BODY : i see an option that allows the options box to render above. is there a way to disable this rendering and only allow it to render below even if it is outside of the visible window scope?

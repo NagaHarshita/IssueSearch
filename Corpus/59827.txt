@@ -1,0 +1,1 @@
+ URL : "https://github.com/Prisma/prisma-backend/issues/81" TITLE : user access management BODY : currently any user can request stuff for any patient. only allow requests to patients a user is connected to.

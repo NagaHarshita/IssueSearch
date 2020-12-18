@@ -1,0 +1,1 @@
+ URL : "https://github.com/MiniProfiler/rack-mini-profiler/issues/300" TITLE : mini profiler disappears BODY : it seems to disappear after an ajax request goes through. here's a video of it happening: https://streamable.com/18dbt

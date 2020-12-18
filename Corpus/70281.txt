@@ -1,0 +1,1 @@
+ URL : "https://github.com/andiexer/EagleEye-ScriptLogPlatform/issues/17" TITLE : userinterface angular 2 BODY : the following features should be added to the existing poshlog ui: - display if there are no entries in the lists - add a spinner on every page, which connects to the gateway

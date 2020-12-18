@@ -1,0 +1,1 @@
+ URL : "https://github.com/mcanevet/rspec-puppet-facts/issues/46" TITLE : modern facts not populated BODY : in the parlance of facter 3.6 docs and as far as i can see, this gem only populates legacy facts, but not modern facts. are you planing to add support for modern facts? pr welcome?

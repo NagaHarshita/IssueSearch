@@ -1,0 +1,1 @@
+ URL : "https://github.com/knockout/tko/issues/50" TITLE : any other forward-ports BODY : @mbest / @knockout/core / @knockout/extended does anyone see anything committed to knockout 3.x line that's not been forward-ported? 1. after-render / childrencomplete 2. foreach update knockout/knockout 2324 3. any other plugins e.g. your switch/case plugin

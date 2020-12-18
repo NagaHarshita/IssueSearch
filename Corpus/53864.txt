@@ -1,0 +1,1 @@
+ URL : "https://github.com/mattes/migrate/issues/182" TITLE : exit 1 when no changes BODY : when there are no changes, migrate returns with exit code 1. is this intended? i don't necessarily see it as an error.

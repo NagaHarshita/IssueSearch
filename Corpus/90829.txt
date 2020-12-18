@@ -1,0 +1,1 @@
+ URL : "https://github.com/diwuwudi/prj-rev-bwfs-dasmoto/issues/1" TITLE : strong is bold by default BODY : https://www.w3schools.com/tags/tag_strong.asp strong works but we are looking for is span. it is a generic inline element for these situations. it is just like strong but it has no default css attached.

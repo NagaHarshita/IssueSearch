@@ -1,0 +1,1 @@
+ URL : "https://github.com/morrisjs/morris.js/issues/720" TITLE : wrong version number BODY : the current version is 0.5.1 but in both morris.js and morris.min.js i see.. / @license morris.js v0.5.0 copyright 2014 olly smith all rights reserved. licensed under the bsd-2-clause license. /

@@ -1,0 +1,1 @@
+ URL : "https://github.com/doches/generator-dropwizard-gradle/issues/1" TITLE : error running task distzip BODY : installation went smooth. but got this same error on both windows and linux could not determine the dependencies of task ':awesome-distribution:distzip'. task with path ':awesome-app:gulp_publish' not found in project ':awesome-distribution'.

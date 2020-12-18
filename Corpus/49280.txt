@@ -1,0 +1,1 @@
+ URL : "https://github.com/McBrez/BakkArbeit/issues/2" TITLE : test serial interface BODY : write some verilog logic, which generates an output, so the serial interface can be tested.

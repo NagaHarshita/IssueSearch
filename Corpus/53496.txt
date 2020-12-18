@@ -1,0 +1,1 @@
+ URL : "https://github.com/UNIZAR-30249-2017-CampusManager/CampusManagerWebapp/issues/15" TITLE : duplicado icono layers BODY : al cambiar de planta en las secciones permitidas edificio ada byron, betancourt y torres quevedo , aparece el icono de las layers capas duplicado cuando se carga la nueva capa, manteniendo únicamente en el primer icono la capa de la planta 0.

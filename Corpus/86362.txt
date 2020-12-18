@@ -1,0 +1,1 @@
+ URL : "https://github.com/tathougies/beam/issues/64" TITLE : how do i use insertfrom ? BODY : i'm trying to figure out how to build a query in the from part of the insert that will properly match the column names of the table. i have not been successful.

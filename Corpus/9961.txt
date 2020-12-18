@@ -1,0 +1,1 @@
+ URL : "https://github.com/Alma-media/go-config/issues/8" TITLE : add tag required BODY : add required tag in order to throw an error if default value is empty and no other value is provided. go type config struct { appid string required address string default: localhost:8080 }

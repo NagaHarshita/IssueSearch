@@ -1,0 +1,1 @@
+ URL : "https://github.com/pradel/react-responsive-modal/issues/12" TITLE : add react 16 support BODY : depends on react-transition-group react 16 support related: reactjs/react-transition-group 151 https://github.com/reactjs/react-transition-group/issues/151

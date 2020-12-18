@@ -1,0 +1,1 @@
+ URL : "https://github.com/johnatandante/MedievalicaDemo/issues/1" TITLE : set up game object class BODY : set up the main game object class. class will handle - connection between clients - authenticcations - client comunications - game quests

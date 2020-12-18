@@ -1,0 +1,1 @@
+ URL : "https://github.com/typelead/eta/issues/273" TITLE : make builds isolated BODY : running stack test eta uses the global eta & etlas installation to perform the test meaning that you cannot have multiple copies of the eta source tree and not be able to test them very important for eta development . this is just a matter of sending the right paths to all the build tools.

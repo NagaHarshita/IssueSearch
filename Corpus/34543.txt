@@ -1,0 +1,1 @@
+ URL : "https://github.com/arkon/ng-sidebar/issues/115" TITLE : cli version demo app BODY : for demo app, can you provide a cli version? in package.json, use ng-sidebar : ^6.0.1 instead of ng-sidebar : file:../ ,

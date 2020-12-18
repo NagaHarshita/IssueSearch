@@ -1,0 +1,1 @@
+ URL : "https://github.com/ESEGroup/IssuesAuthenticatorCascavel/issues/58" TITLE : código http incorreto BODY : ao enviar dados nulos aos serviços atualizarpreferencias, registrarsaida e registrarentrada, o sistema está retornando um erro de código 500, quando o mais adequado seria o erro 401.

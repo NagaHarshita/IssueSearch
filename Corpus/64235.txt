@@ -1,0 +1,4 @@
+ URL : "https://github.com/department-of-veterans-affairs/vets-website/issues/5490" TITLE : font size change needed BODY : on veterans pensions rates page
+https://github.com/department-of-veterans-affairs/vets-website/blob/content/wip/pensions/content/pages/pensions/rates.md text following bolded heading find your maximum annual pension rate mapr amount should be smaller font: date of cost-of-living increase: 12-01-2016
+increase factor:  .3%
+standard medicare deduction: actual amount will be determined by ssa based on individual income. unable to designate this issue with sitewide label...

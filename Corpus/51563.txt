@@ -1,0 +1,1 @@
+ URL : "https://github.com/jojoldu/translator/issues/2" TITLE : async 이벤트 지원 BODY : 현재는 코드가 모두 sync형태라 번역되는 동안 ide가 멈추는데, async + 이벤트방식으로 변경하여 번역하는동안 ide가 안멈추도록 변경

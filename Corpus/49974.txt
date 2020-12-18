@@ -1,0 +1,1 @@
+ URL : "https://github.com/tlerma83/Video-Asp.Net-MVC/issues/11" TITLE : user can edit profile BODY : given user is authenticated and has selected to edit profile user will be redirected to edit profile view where user can edit first and last name then save changes. user is redirected back to profile once save is selected

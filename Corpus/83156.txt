@@ -1,0 +1,1 @@
+ URL : "https://github.com/kylebarron/language-stata/issues/36" TITLE : bugs with extended macros BODY : local line : subinstr local line //null local line : subinstr local line . _ , all //avoid . in name local name : di macval line ' ' ! image https://user-images.githubusercontent.com/15164633/32282226-6e906088-bef7-11e7-9ec1-12172188ebfd.png

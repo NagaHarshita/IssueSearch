@@ -1,0 +1,1 @@
+ URL : "https://github.com/kaorun343/vue-youtube-embed/issues/26" TITLE : using with nuxtjs ssr BODY : i have problems with rendering player in the page. it's rendering the player one time but when i refresh the page it will not render, just remaining a div with id <div id= youtube-player-18 ></div> like this.

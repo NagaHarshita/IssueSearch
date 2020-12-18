@@ -1,0 +1,1 @@
+ URL : "https://github.com/hazelgrove/hazel/issues/28" TITLE : hard-coded left injection BODY : https://github.com/hazelgrove/hazel/blob/a04ae650aa5f0a7399091a0f03b296c9469fb9c2/src/semantics.v l802 seems like there's a bug where injection construction always creates a left injection, even when the user asks for a right injection.

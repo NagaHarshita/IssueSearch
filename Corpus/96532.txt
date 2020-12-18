@@ -1,0 +1,1 @@
+ URL : "https://github.com/watson-developer-cloud/botkit-middleware/issues/92" TITLE : export promisified methods BODY : this middleware uses bluebird promisify functionality internally, but if i want to use promises in my bot code, i have to promisify it again. would it be ok to export promisified methods?

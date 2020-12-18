@@ -1,0 +1,1 @@
+ URL : "https://github.com/gilbarbara/codeclimate-stylelint/issues/9" TITLE : suit css support? BODY : we've been using suit css https://suitcss.github.io/ and would like it available as part of our code climate analysis. would it be possible to get their stylelint config https://github.com/suitcss/stylelint-config-suitcss in this engine?

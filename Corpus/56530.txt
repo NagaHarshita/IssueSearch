@@ -1,0 +1,1 @@
+ URL : "https://github.com/kgish/toolbox-app/issues/1" TITLE : new user email invites BODY : when a new user account is created, it should be possible to send an email invitation as opposed to devise registration . see devise_invitable https://github.com/scambra/devise_invitable .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/brion/ohgeevee/issues/3" TITLE : don't autoplay on desktop BODY : not sure how to prevent autoplay on desktop; easiest may be to just use a placeholder image as the 'movie' texture until switching to a video via the control bar.

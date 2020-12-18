@@ -1,0 +1,1 @@
+ URL : "https://github.com/mhuebert/maria/issues/93" TITLE : prosemirror links broken BODY : for some reason, links are serializing wrong: <img width= 565 alt= screen shot 2017-09-11 at 12 30 54 am src= https://user-images.githubusercontent.com/165223/30253587-85d18cf0-9688-11e7-886f-2c65d646bdba.png >

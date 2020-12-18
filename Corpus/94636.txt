@@ -1,0 +1,1 @@
+ URL : "https://github.com/GENI-NSF/geni-tools/issues/915" TITLE : change spelling of expired BODY : the clearinghouse fixed a bug with the spelling of expired see geni-nsf/geni-ch 537 . use the new project_expired or slice_expired as appropriate . see also geni-nsf/geni-portal 1809

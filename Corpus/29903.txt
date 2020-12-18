@@ -1,0 +1,1 @@
+ URL : "https://github.com/nccshecodes/treatout-digital-styleguide/issues/16" TITLE : navbar link anchors BODY : primary top nav bar styling forces !important; on the panel button.this shouldn't be necessary if bem is being applied correctly on build of navigation panel. nav link anchors should not override panel button anchor.

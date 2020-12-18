@@ -1,0 +1,1 @@
+ URL : "https://github.com/monitoringartist/zabbix-docker-monitoring/issues/71" TITLE : docker swarm mode BODY : @jangaraj, this container works fine in docker swarm mode? i was wondering this because docker swarm mode doesn't have privileged flag anymore. how could i deploy it to access docker metrics? by mounting /var/run/docker.sock?

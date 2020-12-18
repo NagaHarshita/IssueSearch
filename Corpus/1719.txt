@@ -1,0 +1,1 @@
+ URL : "https://github.com/jordanbancino/vb-Clipboard_Manager/issues/1" TITLE : dump to file BODY : dump to file not yet operational. well, sort of. it writes to file character by character, so the write method must be reworked.

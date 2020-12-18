@@ -1,0 +1,1 @@
+ URL : "https://github.com/philackm/Scrollable-GraphView/issues/80" TITLE : how to update the graph? BODY : how to update the graph with differents datasource. for example: the first time i received 3 points to draw, then in the same screen i tap a button to request again but now i received 10 points to draw. how is possible in the same screen reload the graph data?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/circleci/tentacles/issues/4" TITLE : github graphql endpoint BODY : right now, the graphql api for github is only early-access. but that doesn't mean we can't start thinking about implementations and spiking them out. https://developer.github.com/early-access/graphql/

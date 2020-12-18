@@ -1,0 +1,1 @@
+ URL : "https://github.com/radiantdawn/chattery-chat/issues/1" TITLE : make basic functional chat BODY : checklist: create mockup. create bootstrap based layout. create basic python web interface to serve the layout. create rest api for room crud and message send/list in room. user = ip. write js for message sending add websocket message delivery add js for message receiving

@@ -1,0 +1,1 @@
+ URL : "https://github.com/marrus-sh/mastodon-go/issues/55" TITLE : use id s BODY : because each column is guaranteed to be unique, we can actually use id s for most things by just continuing to pass the current component position down. this is much better than using class names in selectors in the vast majority of cases, and enables some other things as well.

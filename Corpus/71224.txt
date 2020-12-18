@@ -1,0 +1,1 @@
+ URL : "https://github.com/ceptem/micro_static-websites/issues/2" TITLE : add a configuration file BODY : a simple environment file to be sourced by do script. it would set defaults for variables like name, version, etc. defaults in script should be changed to innocuous values like: no-name-defined , no-version-defined , etc.

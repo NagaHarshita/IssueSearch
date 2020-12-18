@@ -1,0 +1,1 @@
+ URL : "https://github.com/urish/angular2-moment/issues/169" TITLE : short month available? BODY : is it possible to display an abbreviated version of the month without the year? for example: sep 9 i'm using amdateformat: 'll' for now, which includes the year. was trying to figure out if there is a way to just get the abbreviated month. thanks

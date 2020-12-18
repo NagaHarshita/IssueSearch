@@ -1,0 +1,1 @@
+ URL : "https://github.com/bmitch/churn-php/issues/128" TITLE : enable pds compliance BODY : enable pds http://php-pds.com compliance by moving churn into a dedicated bin directory.

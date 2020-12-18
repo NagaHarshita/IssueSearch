@@ -1,0 +1,1 @@
+ URL : "https://github.com/ecederstrand/exchangelib/issues/226" TITLE : audit timeout arguments BODY : post_ratelimited could just always use protocol.timeout . no need for a custom timeout value there.

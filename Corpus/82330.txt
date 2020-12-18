@@ -1,0 +1,1 @@
+ URL : "https://github.com/kraflab/dsda-r/issues/11" TITLE : add source port filtering BODY : there should be a filter selector for stages of compatibility. minimally, vanilla exe -> vanilla compatible source ports -> incompatible source ports.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/maksha/react-native-webhtmlview/issues/2" TITLE : image not showing BODY : i am trying to display an image, but it only shows the alt text. i checked the html, by alert the content, and it shows the image correctly. so i am not sure why it is not showing.

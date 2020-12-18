@@ -1,0 +1,1 @@
+ URL : "https://github.com/Pterodactyl/Panel/issues/512" TITLE : issue with sqlite BODY : so its giving me this error in console: https://hastebin.com/gijoyovasi.pas not sure what to do, i think it needs xerial sqlite driver. its on version v3.8.12

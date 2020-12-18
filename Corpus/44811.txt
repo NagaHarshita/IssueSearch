@@ -1,0 +1,6 @@
+ URL : "https://github.com/ueokande/vim-vixen/issues/103" TITLE : flickering like issue BODY : i'm opening this issue because: - x i'll report a bug
+- i'll propose a new feature description every minute or so, each tab becomes black for few milliseconds. what can i do to help debugging? failure information for bugs steps to reproduce please provide detailed steps for reproducing the issue. 1. step 1
+2. step 2
+3. you get it... system configuration - operating system:
+- firefox version:
+- vim-vixen version: console logs any relevant log in developer tools:

@@ -1,0 +1,1 @@
+ URL : "https://github.com/PascalLite/wallet/issues/2" TITLE : wallet does not quit BODY : installed the 1.4.8 wallet on windows 10. let it run for a couple hours. tried to shut down the app, but it won't close - not responding . i had to force-close it eventually. re-launched it and now seems to work fine.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/magnubac/ca-project/issues/6" TITLE : build docker image BODY : build docker image from the dockerfile and push it to docker hub.

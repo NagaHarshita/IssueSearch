@@ -1,0 +1,1 @@
+ URL : "https://github.com/Georgy2807/f1-3-c2p1-colmar-academy/issues/1" TITLE : error. absolute path BODY : https://github.com/georgy2807/f1-3-c2p1-colmar-academy/blob/master/colmar-academy/index.html l18 you're using an absolute path here, you should usually only utilize relative paths in development. http://www.coffeecup.com/help/articles/absolute-vs-relative-pathslinks/

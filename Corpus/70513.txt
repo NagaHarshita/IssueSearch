@@ -1,0 +1,1 @@
+ URL : "https://github.com/staltz/comver/issues/2" TITLE : what about pre-release? BODY : when i am still working on my code, it should be 0.x, however pre-release apis tend to change a lot, so what is the best way to communicate pre-release versions? in semver, i dropped the patch-version and used minor as major and patch as minor, changing a x.y.z to 0.x.y

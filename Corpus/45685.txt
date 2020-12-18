@@ -1,0 +1,1 @@
+ URL : "https://github.com/AtomLinter/linter-pylama/issues/83" TITLE : including mypy linter BODY : i realize that mypy is not part of pylama but neither is isort so i thought i would ask - any chance of including this linter as an option? quite useful!

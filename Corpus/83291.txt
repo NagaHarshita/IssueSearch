@@ -1,0 +1,1 @@
+ URL : "https://github.com/ritwickdey/vscode-live-server/issues/52" TITLE : can i do a url rewriting? BODY : hi i am using this plugin and it has saved me a lot of troubles. thanks. i want to know if there is a way to do a url rewriting so that my app can always be run through the index.html like .htaccess in apache server

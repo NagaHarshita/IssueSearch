@@ -1,0 +1,1 @@
+ URL : "https://github.com/SecUSo/privacy-friendly-weather/issues/48" TITLE : http -> https ? BODY : when using net monitor https://f-droid.org/packages/org.secuso.privacyfriendlynetmonitor/ it shows an unencrypted http connection for privacy-freiandly-weather installed over f-droid. why not https for a privacy-friendly app i'm not into app programming ?

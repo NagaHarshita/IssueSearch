@@ -1,0 +1,1 @@
+ URL : "https://github.com/jashkenas/coffeescript/issues/4614" TITLE : cli: support both versions BODY : i created a wrapper to be able to compile coffee files in v1 and v2 within the same project. coffee-cli https://github.com/paulpflug/coffee-cli i think such functionality would be great in core.. what do you think?

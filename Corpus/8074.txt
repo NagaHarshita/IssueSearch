@@ -1,0 +1,1 @@
+ URL : "https://github.com/kangax/html-minifier/issues/867" TITLE : minify ejs file BODY : i am trying to minified ejs file but i am receiving html parse error. a file contains <% if inlineedit { %> this kind of code and i think due to this it is throwing an error. please help me to resolve

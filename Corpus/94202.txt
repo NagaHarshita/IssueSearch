@@ -1,0 +1,1 @@
+ URL : "https://github.com/shinhong/HGU-OSS17/issues/2" TITLE : bug file description leaks BODY : i found that read_conflict does not close a file opened https://github.com/shinhong/hgu-oss17/blob/master/labmate/labmate.c l75 @shinhong

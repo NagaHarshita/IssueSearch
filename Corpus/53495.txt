@@ -1,0 +1,1 @@
+ URL : "https://github.com/mcMMO-Dev/mcMMO/issues/3324" TITLE : dupe bug on break ores BODY : hi, we can dupe ores placing the ore blocks under stairs or some half blocks and then breaking with silk touch. the amount of ores dropped increase depending of mcmmo level. using the latest build of mcmmo, and tested on 1.12.1 and 1.12.2.

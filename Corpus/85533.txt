@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla/dinobuildr/issues/56" TITLE : feature: handle redirects BODY : we need to handle redirects we get in the response headers in our downloader.

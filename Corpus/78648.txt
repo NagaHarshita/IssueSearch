@@ -1,0 +1,4 @@
+ URL : "https://github.com/sul-dlss/preservation_core_catalog/issues/68" TITLE : rake task to fire off 67 BODY : allows us to:
+- seed the prod db
+- run it from cron
+... - actually run the task on storage_root - if errors, write separate tickets

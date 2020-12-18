@@ -1,0 +1,1 @@
+ URL : "https://github.com/benjaminws/stomp-js/issues/47" TITLE : cannot find module tls BODY : the below is the error code: stomp.js:25 uncaught error: cannot find module tls at webpackmissingmodule stomp.js:25 at eval stomp.js:25 at object.<anonymous> bundle.js:2614 at __webpack_require__ bundle.js:677 at fn bundle.js:88 at new requiecomponent requirecomponent.js:103 at eval

@@ -1,0 +1,1 @@
+ URL : "https://github.com/n1trux/hestia/issues/8" TITLE : create centos/rhel package BODY : … as discussed in 2 we should create rpm packages so one could just download vesta from the releases page and install it. see also: 5.

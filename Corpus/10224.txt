@@ -1,0 +1,1 @@
+ URL : "https://github.com/krs-world/bridges-cxx/issues/50" TITLE : bridges call api BODY : need to fix the java version so that the bridges initialization is independent of generic parameters, similar to the c++ version, which is much cleaner and less confusing.

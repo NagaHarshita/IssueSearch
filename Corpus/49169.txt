@@ -1,0 +1,1 @@
+ URL : "https://github.com/stripe/goforit/issues/8" TITLE : switch to crypto/rand BODY : since we're not using fixed seeds in tests, there's no reason no use math/rand : https://github.com/stripe/goforit/pull/7

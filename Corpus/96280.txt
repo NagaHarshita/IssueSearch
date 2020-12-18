@@ -1,0 +1,1 @@
+ URL : "https://github.com/nstone8/Rasylum/issues/4" TITLE : error during loadpresorted BODY : i just got this error when running loadpresorted - error in strsplit attr wavedata, note , \\r : non-character argument this is a line of code in loadibw, so it might be a problem with one of the ibw files itself? a wave file with a note that is formatted differently?

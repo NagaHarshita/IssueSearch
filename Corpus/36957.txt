@@ -1,0 +1,1 @@
+ URL : "https://github.com/MoonshineSG/OctoPrint-Mobile/issues/53" TITLE : ios 11 beta 15a5327g BODY : camera viewing has stopped working on ios 11. looks like something in the video libraries has changed. it very quickly flickers, yet it works on the web interface well and worked right before the upgrade.

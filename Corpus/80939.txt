@@ -1,0 +1,1 @@
+ URL : "https://github.com/hoshikitsunoda/driving-game/issues/4" TITLE : user can turn their car. BODY : motivation user can turn their car with arrow keys. implementation - add turn method inside the class of car to change the direction. - add eventlistener to arrow keys and assign turn method. - add, commit and push.

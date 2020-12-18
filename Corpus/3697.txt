@@ -1,0 +1,1 @@
+ URL : "https://github.com/Rhilip/Pt-Autoseed/issues/5" TITLE : the todo list BODY : - automatically generated screenshot time - fix get mediainfo error when group is fleet - use upsert instead when update torrent's list to database

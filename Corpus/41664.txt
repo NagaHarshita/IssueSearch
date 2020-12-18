@@ -1,0 +1,1 @@
+ URL : "https://github.com/jtpereyda/boofuzz/issues/110" TITLE : add blns fuzz strings BODY : https://github.com/minimaxir/big-list-of-naughty-strings consider: is there a way to include dependencies like this without hard-coding them in?

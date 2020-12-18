@@ -1,0 +1,1 @@
+ URL : "https://github.com/qbittorrent/qBittorrent/issues/7834" TITLE : wishlist rss web ui BODY : i run qbitorrent as a service and need to stop the service and start in desktop mode every time i want to add or remove a rss rule. it would be super if the rss ui would be ported into the web ui

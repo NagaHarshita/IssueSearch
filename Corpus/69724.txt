@@ -1,0 +1,1 @@
+ URL : "https://github.com/codehaiku/subway-2.0/issues/16" TITLE : translations not loaded BODY : hi, translation files are not loaded because file name doesn't begin with plugin slug. translation flies must be prefixed with subway- to be loaded by load_plugin_textdomain .

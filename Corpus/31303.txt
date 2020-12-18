@@ -1,0 +1,1 @@
+ URL : "https://github.com/ManatiCR/generator-mdsk/issues/50" TITLE : selenium in wercker BODY : fix chrome version fix chromedriver version fix selenium version ensure it works on generated project fix for d7 and d8

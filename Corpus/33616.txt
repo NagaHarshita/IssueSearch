@@ -1,0 +1,1 @@
+ URL : "https://github.com/KratosMultiphysics/Kratos/issues/234" TITLE : adjoint tests failed BODY : tests worked in branch at commit 0f35d7b88525fa692197a14ca88d083ad8823688 but fail after merged with master in 791b964cdcaffa8176fb3161b695b431e4f784cb

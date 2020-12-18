@@ -1,0 +1,1 @@
+ URL : "https://github.com/mapbox/mapbox-gl-native/issues/8564" TITLE : add more node test BODY : all assets fail to load assets timeout release map before assets load doing all of these but at scale inside a large loop. ideally, we could also monitor memory to make sure everything is released once the map is destroyed/released. /cc @tmpsantos

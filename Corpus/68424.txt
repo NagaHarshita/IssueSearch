@@ -1,0 +1,1 @@
+ URL : "https://github.com/mirrorjs/user-dashboard-example/issues/1" TITLE : router 4.x 问题请教 BODY : 在有匹配通用组件模块之后, 例如 path= / component={common} // 头部, 底部模块 没有匹配的路由 例: path= /test 没有定义 怎么匹配 404 的路由组件

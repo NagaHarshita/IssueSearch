@@ -1,0 +1,7 @@
+ URL : "https://github.com/NeoVintageous/NeoVintageous/issues/24" TITLE : '+' register on linux BODY : <a href= https://github.com/edubkendo ><img src= https://avatars3.githubusercontent.com/u/1395968?v=3 align= left width= 96 height= 96 hspace= 10 ></img></a> issue by edubkendo https://github.com/edubkendo _sunday sep 08, 2013 at 18:30 gmt_
+_originally opened as https://github.com/guillermooo/vintageous/issues/360_ ---- as i mentioned in 266 : > so, on x11 systems linux, essentially \ should yank to whats called the
+> selection, which can be pasted via a middle click, or shift + insert if you
+> are in the terminal. + should yank to the clipboard, which is the typical
+> ctrl-c, ctrl-v clipboard. it would be really awesome if this worked, as it
+> would make it much easier for working with multiple applications to be able
+> to easily select where the text was yanked. thanks. that's pretty much sums it. in that issue, @guillermooo had mentioned that he did not think linux semantics were correct. i can verify that, as of now, on my ubuntu 12.04 machine, they are not. if i select some text, in visual mode, and then type +y , in vim that makes it available for pasting with p , as it would any yank, and it also places it onto the system clipboard. i can then go to other open applications and paste it into any text input areas with ctrl+v . in st3, with vintageous, the same action results in neither. instead, it seems to simply exit visual mode, swallowing the yank into oblivion

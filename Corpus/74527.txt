@@ -1,0 +1,1 @@
+ URL : "https://github.com/forelise25/AudioTest/issues/3" TITLE : event programming switch BODY : - 스윗치 위젯을 클릭했을 때 스위치가 on으로 선택된 상태이면 음악이 재생되게 - 스윗치위젯을 클릭했을 때 스윗치가 off로 선택된 상태이면 음악이 일시정지 되게 -

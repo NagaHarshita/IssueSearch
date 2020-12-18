@@ -1,0 +1,1 @@
+ URL : "https://github.com/fragaria/angular-daterangepicker/issues/263" TITLE : how to solve this problem? BODY : hi. i've a question. there are four pages that be connected to each other and there are date-range-pickers on each pages. when i change the period of it on first page, how can i do to show the same periods on other pages?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/yun-liu/rcf/issues/1" TITLE : about test stage BODY : in the train_val.prototxt, i find there is not real online testing, and i want to know when to stop training, just by loss? if so, i think it is hard to identify.

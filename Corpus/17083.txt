@@ -1,0 +1,1 @@
+ URL : "https://github.com/MFlisar/EverywhereLauncher/issues/43" TITLE : new color setting BODY : colors can be defined in following ways: extract main from background + custom alpha manual color + alpha dependency to another color

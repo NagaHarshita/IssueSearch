@@ -1,0 +1,1 @@
+ URL : "https://github.com/BlackSourceLabs/BlackNectar-Service/issues/74" TITLE : define the ebt balance api BODY : requirement define what the urls are for the view balance feature why we need a clear rest interface that is easy to use, robust, and consistent. by thinking ahead, we can anticipate variations across state lines.

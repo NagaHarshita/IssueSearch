@@ -1,0 +1,1 @@
+ URL : "https://github.com/dune-community/dune-xt-functions/issues/17" TITLE : replace random ellipsoids BODY : the current implementation isn't working well. i suggest replacing it with an ready made porous field generator from openpnm. this could also be an opportunity to look into python embedding via pybind11.

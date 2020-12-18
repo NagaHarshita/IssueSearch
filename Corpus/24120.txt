@@ -1,0 +1,1 @@
+ URL : "https://github.com/anodyne/aurora/issues/13" TITLE : send email to user BODY : pop up a modal with the user, a subject, and a message body. this is a poor man's private messaging system, but i think it's really all we'll be able to do before we get into the full message center.

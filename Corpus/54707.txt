@@ -1,0 +1,1 @@
+ URL : "https://github.com/dborth/wiimc/issues/3" TITLE : help please.total newb BODY : i am try to compile my own modded version of wiimc,, and have hit a wall..,, how can i get m_config_set_option mconfig, speed , 1.5 ; & m_config_set_option mconfig, af , scaletempo passed on to mplayer,, for it will not compile.

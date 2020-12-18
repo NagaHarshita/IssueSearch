@@ -1,0 +1,1 @@
+ URL : "https://github.com/MediaBrowser/plugin.video.emby/issues/104" TITLE : unable to disable BODY : when trying to disable the plugin 2.3.55, installed on an up-to-date osmc on pi 3, kodi becomes unresponsive.

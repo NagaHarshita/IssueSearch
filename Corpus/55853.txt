@@ -1,0 +1,1 @@
+ URL : "https://github.com/Azure/azure-dockerdatacenter/issues/2" TITLE : location invalid issue BODY : when trying to deploy the template through the portal it shows location invalid for all locations. ! image https://cloud.githubusercontent.com/assets/3488643/23190760/7c35c994-f85f-11e6-86c4-bfa45f402dfc.png

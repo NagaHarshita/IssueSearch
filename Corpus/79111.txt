@@ -1,0 +1,1 @@
+ URL : "https://github.com/cmip6dr/Request/issues/21" TITLE : rfmip: update objectives BODY : the rfmip objectives have changed modestly: rfmipamip and rfmiphistorical are now gathered under rfmip-spaer with the description that’s currently under rfmiphistorical.

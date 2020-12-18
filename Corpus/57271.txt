@@ -1,0 +1,1 @@
+ URL : "https://github.com/LyzandeR/tableHTML/issues/13" TITLE : print html to consolte BODY : write_tablehtml writes html to a file. it might be a nice feature to set the default file to an empty string i.e. which would make cat print to the default output connection, i.e. the console.

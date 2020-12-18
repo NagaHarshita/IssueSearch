@@ -1,0 +1,1 @@
+ URL : "https://github.com/AbcAeffchen/doxygen-php-filters/issues/5" TITLE : filters with codedocs.xyz BODY : is it possible to use filters with codedocs.xyz for doc-ci ? i tried to configure it in the .codedocs file : input_filter = path/to/filter.php but there are no results with traits.php

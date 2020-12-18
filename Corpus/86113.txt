@@ -1,0 +1,1 @@
+ URL : "https://github.com/fezrestia/pokego-map-overlay/issues/2" TITLE : gps not worked on webview BODY : p-go search displays gps disabled message. permissions are granted well on android settings. so this is related to implementation around webview.

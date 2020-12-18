@@ -1,0 +1,1 @@
+ URL : "https://github.com/Planteome/plant-environment-ontology/issues/95" TITLE : change id space to peco BODY : register peco on obo change this repo to use peco ids use same numbers add alt_ids peco->eo create a legacy file for original eo work with external groups to migrate approved by @jaiswalp

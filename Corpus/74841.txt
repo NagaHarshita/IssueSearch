@@ -1,0 +1,1 @@
+ URL : "https://github.com/Stansbridge/untangled-2017/issues/12" TITLE : fix controller input bug BODY : refactor player movement to change the direction the player is facing to unify keydown movement with joypad movement

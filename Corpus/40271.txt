@@ -1,0 +1,1 @@
+ URL : "https://github.com/UMM-CSci-3601-F17/lab-2-client-server-architecture-with-java-spark-paulethan/issues/9" TITLE : todo category filter BODY : users should be able to filter the list of to-dos by their categories, like this: api/todos?category=groceries

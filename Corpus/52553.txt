@@ -1,0 +1,1 @@
+ URL : "https://github.com/thomaslule/noisebox/issues/9" TITLE : components and effects BODY : - bind oscillator type on button - set oscillator phase in page - bind lfo type on button - component amplitudeenvelope triggerattack / triggerrelease bindable

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ubiquitousidea/preppy/issues/4" TITLE : clarify method names BODY : rename methods that make twitter.api calls to make more readable https://github.com/ubiquitousidea/preppy/blob/341e582c240932e77d49bee8b3b9fbf8c8cd4aa2/preppy/prep.py l124

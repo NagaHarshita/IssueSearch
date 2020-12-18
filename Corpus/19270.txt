@@ -1,0 +1,1 @@
+ URL : "https://github.com/ftrias/TeensyThreads/issues/1" TITLE : 3.6 fails on tests BODY : on a 3.6 get error while setting serial port parameters: 115,200 n 8 1 everytime the sketch tries to print to teensymonitor. running 1.8.0 on windows 10. oddly enough the print example works on the 3.6.

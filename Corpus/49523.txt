@@ -1,0 +1,1 @@
+ URL : "https://github.com/leegao/see.lua/issues/6" TITLE : truncate long strings BODY : currently, long strings and outputs will make the output more or less unreadable. since this is just an introspection library, it makes sense to truncate long strings to make the output more readable.

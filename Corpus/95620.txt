@@ -1,0 +1,1 @@
+ URL : "https://github.com/nss-evening-cohort-06/pinterest-cereal-killers/issues/10" TITLE : deploy project to firebase BODY : https://firebase.google.com/docs/hosting/deploying the first time you use firebase deploy on your machine: npm install -g firebase-tools the first time you deploy a specific project: firebase login firebase init

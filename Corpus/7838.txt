@@ -1,0 +1,1 @@
+ URL : "https://github.com/zurb/foundation-sites/issues/10087" TITLE : jquery >= 3.0.0 BODY : there is various security issues with the current jquery version 2.2.4 any reason not been updated? could we have a release to update this dependency? thank you https://nodesecurity.io/advisories/328

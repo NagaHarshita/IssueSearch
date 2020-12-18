@@ -1,0 +1,1 @@
+ URL : "https://github.com/LabZoneSK/stop-loss-bot/issues/6" TITLE : dynamic update of target BODY : if enabled, bot should automatically update sell targets based on configured % of loss.

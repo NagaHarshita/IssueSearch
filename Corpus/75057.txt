@@ -1,0 +1,1 @@
+ URL : "https://github.com/livecodingyoutube/livecodingyoutube.github.io/issues/4" TITLE : function - replace video BODY : replacevideo index list, id replace videos with new youtube id. e.g. replacevideo 0,2,4 , fgbhqbmpwh8 will replace the current video at 0,2, and 4 with the youtube video with the specified id.

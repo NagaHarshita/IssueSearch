@@ -1,0 +1,1 @@
+ URL : "https://github.com/lakusha/CooperativeEditor/issues/50" TITLE : optimize file sending BODY : try to send it by diff chunks.

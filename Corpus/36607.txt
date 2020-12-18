@@ -1,0 +1,1 @@
+ URL : "https://github.com/chrmarti/testissues/issues/5348" TITLE : i can't keep in dock BODY : - vscode version: code - insiders 1.17.0-insider 128a4e3640c5375f7b0bc1cfd37f626481b1386f, 2017-09-12t05:10:59.101z - os version: darwin x64 16.7.0 - extensions: none --- steps to reproduce: 1. i select option keep in dock 2.rebot mac, it's show ? in dock

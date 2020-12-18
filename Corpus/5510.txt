@@ -1,0 +1,1 @@
+ URL : "https://github.com/649/BroadPWN/issues/1" TITLE : problem to run BODY : cp: impossibile eseguire stat di 'hostapd-hotspot-template.conf': file o directory non esistente ./startit.sh: riga 5: hostapd-2.6/hostapd/hostapd: file o directory non esistente this problem?

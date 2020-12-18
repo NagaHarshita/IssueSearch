@@ -1,0 +1,1 @@
+ URL : "https://github.com/UCSB-CS56-Projects/cs56-games-hangman/issues/68" TITLE : improve select color ui BODY : for changing colors, add a color picker panel so that you can select colors by clicking. something like this: ! download https://user-images.githubusercontent.com/3688287/31044579-e2a12f1e-a586-11e7-827b-415115cb651a.jpeg 450 points add hsv color space. 50 points

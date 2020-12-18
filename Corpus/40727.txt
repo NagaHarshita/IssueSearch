@@ -1,0 +1,1 @@
+ URL : "https://github.com/programble/inth-oauth2/issues/17" TITLE : use serde internally BODY : now that serde is 1.0 and custom derive works on stable, switch to using serde internally. also make serde support for public structures default, moving rustc_serialize support to an optional feature.

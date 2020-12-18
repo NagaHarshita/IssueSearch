@@ -1,0 +1,1 @@
+ URL : "https://github.com/shakacode/sass-resources-loader/issues/32" TITLE : import error in sass BODY : i have been learning sass for the past 3 weeks. all of a sudden it cant find the _variables.scss file and its been in a folder called partials since i started learning this. error: file to import not found or unreadable: partials/variables.

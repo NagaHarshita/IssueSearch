@@ -1,0 +1,1 @@
+ URL : "https://github.com/p2pu/learning-circles/issues/23" TITLE : fix failing test BODY : use docker image to run tests on travisci

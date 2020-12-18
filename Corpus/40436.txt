@@ -1,0 +1,1 @@
+ URL : "https://github.com/amaccann/drag-select/issues/4" TITLE : ui destination lines BODY : acceptance criteria for any selected unit _and_ a destination waypoint s is selected, show in the ui a line between the unit and destination.

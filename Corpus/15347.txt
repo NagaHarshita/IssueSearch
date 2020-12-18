@@ -1,0 +1,1 @@
+ URL : "https://github.com/salgieri/StorJ-Telegraf-Plugin/issues/2" TITLE : delta contains ms BODY : it looks like the delta value being returned by storj now has ms appended to it. i added this code to fix my reporting issues after the let delta line: delta = delta.replace 'ms',''

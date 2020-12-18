@@ -1,0 +1,1 @@
+ URL : "https://github.com/SatelliteApplicationsCatapult/tribble/issues/6" TITLE : clean up experiments BODY : there are a couple of test classes left in tribblecore that should be cleaned up.

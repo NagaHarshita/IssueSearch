@@ -1,0 +1,1 @@
+ URL : "https://github.com/tagetik/tagetik-2017-spreadsheet/issues/2" TITLE : blank for 0 values BODY : if on excel we deselect the option “show a zero in cells that have zero value”, the web report still shows all those cells with zero instead of blank tag-82

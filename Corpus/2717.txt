@@ -1,0 +1,1 @@
+ URL : "https://github.com/OhmGeek/aidans-jcr/issues/20" TITLE : debug = false BODY : make sure debug = false is set before the site goes live. also, change keys and put them in env variables for production

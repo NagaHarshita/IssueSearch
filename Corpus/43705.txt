@@ -1,0 +1,1 @@
+ URL : "https://github.com/mashruravi/gh-profile-search/issues/1" TITLE : debounce search input BODY : api call being made on 'keyup' event in search bar. debounce to reduce the number of api calls made.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/openshift-evangelists/wordpress-quickstart/issues/2" TITLE : readyness probe fails BODY : i havent dug deeper into the why, but with the readyness probe enabled i was not able to deploy the app container db worked fine then i removed the readyness probe and deployment went through

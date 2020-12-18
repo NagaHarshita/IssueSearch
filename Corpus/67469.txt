@@ -1,0 +1,1 @@
+ URL : "https://github.com/5zig/The-5zig-API/issues/5" TITLE : possible keybiding typo BODY : https://github.com/5zig/the-5zig-api/blob/master/src/eu/the5zig/mod/modapi.java l116 i think the name of the method should be registerkeybinding . at the moment it has been spelt biding instead of binding . also, what's the category parameter's purpose? can i put any string there?

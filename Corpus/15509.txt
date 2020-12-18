@@ -1,0 +1,1 @@
+ URL : "https://github.com/wez3/volkswagen-carnet-client/issues/6" TITLE : endpoint to trips BODY : hi guys - great work. any change of finding the endpoints for the trips history and current battery level? i a range is provides somewhere in storedvehicledata, but that's the calculated range. don't the car store percentage of battery to draw the battery-graph in the app

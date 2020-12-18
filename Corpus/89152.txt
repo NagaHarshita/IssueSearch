@@ -1,0 +1,1 @@
+ URL : "https://github.com/thomasjbradley/markbot/issues/101" TITLE : port finder & screenshots BODY : when the port isn’t the default port of 8000 the screenshots don’t work. it seems that the screenshots & functionality tests don’t register the new port number when calling to the server.

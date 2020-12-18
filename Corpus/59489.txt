@@ -1,0 +1,1 @@
+ URL : "https://github.com/bjrke/JSR305CheckstylePlugin/issues/21" TITLE : unable to use gradle 4 BODY : for some unknown reasons the test are failing when upgrading the gradle wrapper tested 4.1 and 4.4 execute ./gradlew wrapper --gradle-version 4.4 twice

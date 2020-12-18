@@ -1,0 +1,1 @@
+ URL : "https://github.com/ds300/patch-package/issues/10" TITLE : not detecting shrinkwrap BODY : i'm receiving an error that it's not finding package-lock.json or yarn.lock however i am using shrinkwrap. any suggestions?

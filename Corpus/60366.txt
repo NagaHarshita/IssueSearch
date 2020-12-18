@@ -1,0 +1,1 @@
+ URL : "https://github.com/CoralineAda/alice/issues/55" TITLE : !bio strips punctuation BODY : specifically i noticed . and ! . .. did get transformed to . however so it's not total erasure. not stripped: : , … , , ¯\_ ツ _/¯

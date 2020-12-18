@@ -1,0 +1,1 @@
+ URL : "https://github.com/jimmynotjim/scrollNav/issues/77" TITLE : add onscrolled callback BODY : scrollnav is great but there's on major feature missing - the url is not updated after scroll. i wanted to implement it manually, but there's no callback fired after scroll, so i'm unable to update the url manually.

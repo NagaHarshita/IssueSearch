@@ -1,0 +1,1 @@
+ URL : "https://github.com/taniman/proxy-bot/issues/91" TITLE : monitor add page title BODY : the page title <title> is currently not set. not a big issue after all but especially when running and monitoring multiple bots in tabs a page title could help distinct one from the other. making this a config variable would be great. probably something like bot.title?

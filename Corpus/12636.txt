@@ -1,0 +1,1 @@
+ URL : "https://github.com/char-fish-after-lunch/cat-pad-toolchain/issues/5" TITLE : raw data support BODY : the problem is that sometimes we need to embed some raw data into our programmes. the data type can be - integers - ascii characters strings

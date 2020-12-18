@@ -1,0 +1,1 @@
+ URL : "https://github.com/bitcoinz-pod/bitcoinz/issues/30" TITLE : docker build fails BODY : ! image https://user-images.githubusercontent.com/461084/34456898-51686224-ed89-11e7-805b-4413f6553bd8.png how is curl missing from base image?

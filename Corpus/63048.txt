@@ -1,0 +1,1 @@
+ URL : "https://github.com/AddRobots/addrobots_mcu/issues/5" TITLE : debug usb in mcuxpresso BODY : the mcuxpress usb peripheral code is not reliable when you attach an android device. this is probably mostly due to porting to the new ide and new usb-hs handler code

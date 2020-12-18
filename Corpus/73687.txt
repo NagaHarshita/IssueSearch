@@ -1,0 +1,1 @@
+ URL : "https://github.com/brunofacca/zen-rails-base-app/issues/1" TITLE : date getdate starts at 1 BODY : https://github.com/brunofacca/zen-rails-base-app/blob/0cc891173d53e18dca16378adabdb042e7541e4e/app/assets/javascripts/zen-utils.js l47 javascript d = new date >> tue aug 29 2017 16:31:22 gmt+0200 cest d.getdate >> 29 you are correct about month, though.

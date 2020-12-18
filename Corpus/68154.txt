@@ -1,0 +1,1 @@
+ URL : "https://github.com/mysociety/theyworkforyou/issues/1245" TITLE : remove old static pages BODY : template like www/includes/easyparliament/templates/html/static/getinvolved.php are still in the codebase but don't seem to be used anymore. we should confirm that and remove them.

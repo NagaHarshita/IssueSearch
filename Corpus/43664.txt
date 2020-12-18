@@ -1,0 +1,1 @@
+ URL : "https://github.com/US-CBP/GTAS/issues/520" TITLE : data retention policy BODY : countries may have data retention policies that only allow apis/pnr records for x number of years. the length of acceptable retention may increase if there's a hit/case associated with it. <!--- @huboard:{ order :0.15031176535837182, milestone_order :0.3005934713696067} -->

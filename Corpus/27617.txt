@@ -1,0 +1,1 @@
+ URL : "https://github.com/chigraph/precompiled-kf5-linux/issues/2" TITLE : document how to use BODY : sorry if this is a very basic question, but how do you use this? are there some environment variables that need to be set for the build toolchain to pick these up?

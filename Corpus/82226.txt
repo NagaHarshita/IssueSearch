@@ -1,0 +1,1 @@
+ URL : "https://github.com/jooskim/vic/issues/26" TITLE : add new integration tests BODY : details: for the new vch create code we need to write additional integration tests. acceptance criteria: verify we can run integration tests against our new code.

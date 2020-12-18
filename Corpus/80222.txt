@@ -1,0 +1,1 @@
+ URL : "https://github.com/tianzhi0549/CTPN/issues/68" TITLE : text image to ascii text BODY : is there a dnn model that i can use to feed the bounded box containing extracted-text image and get the equivalent ascii text?

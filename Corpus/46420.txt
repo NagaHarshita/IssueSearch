@@ -1,0 +1,1 @@
+ URL : "https://github.com/cloudyr/aws.s3/issues/137" TITLE : making objects public BODY : while uploading the objects in the bucket in s3 i want to mark it for public access . could not find any options in the put_object method. opening this ticket for this.

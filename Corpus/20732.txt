@@ -1,0 +1,1 @@
+ URL : "https://github.com/getavalon/core/issues/215" TITLE : create new project BODY : goal ability to create a project from scratch. motivation this is the only thing keeping mindbender from using this as a replacement to the command-line interface. bash $ cd my/project $ python -m avalon.inventory --init

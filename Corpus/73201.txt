@@ -1,0 +1,1 @@
+ URL : "https://github.com/PistonDevelopers/image/issues/696" TITLE : constructors for rgb<t>? BODY : it seems that we could only construct a rgb<t> object by rust rgb<f32> { data: 1.0, 1.0, 1.0 } this is truly leaky abstraction, and annoying. also, access r, g, b by index is ... annoying, too.

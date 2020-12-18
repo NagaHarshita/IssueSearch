@@ -1,0 +1,1 @@
+ URL : "https://github.com/ServiceInnovationLab/ServiceRegistrationPipeline/issues/8" TITLE : decrypt incoming data BODY : msd supply data that is gpg encrypted. it needs to be decrypted using dia key before it can be read.

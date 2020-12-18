@@ -1,0 +1,1 @@
+ URL : "https://github.com/Orange-Management/jsOMS/issues/29" TITLE : generalui create BODY : create general ui behavior class. some general behavior that is not related to tables, forms etc. should be handled in this class. e.g. data-href object from issue 28.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/tabone/jsonapi2raml/issues/12" TITLE : rename error document BODY : currently the error document raml type is named error object . this should be renamed to something more appropriate.

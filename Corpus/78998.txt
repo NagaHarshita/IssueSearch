@@ -1,0 +1,1 @@
+ URL : "https://github.com/python/core-workflow/issues/41" TITLE : require appveyor to pass BODY : not sure if we consider it stable enough, but it would be nice to have as a goal to make https://ci.appveyor.com/project/python/cpython be required just like we do for travis. @zware do you think this is ready to be flipped on? and is it fast enough?

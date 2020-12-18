@@ -1,0 +1,1 @@
+ URL : "https://github.com/georgestephanis/two-factor/issues/155" TITLE : time-limit email codes BODY : email code are currently only invalidated if you type it in wrong. instead, they should probably be invalidated after some time limit maybe 60 seconds .

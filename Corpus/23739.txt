@@ -1,0 +1,1 @@
+ URL : "https://github.com/lbeder/health-monitor-rails/issues/30" TITLE : redis memory usage BODY : also would be nice to have quick review of redis memory usage and alert if it increase more that configured values 1gb in my current case can i contribute this ?

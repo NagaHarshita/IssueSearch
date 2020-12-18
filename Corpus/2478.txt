@@ -1,0 +1,1 @@
+ URL : "https://github.com/rsangole/tidyrabbit/issues/9" TITLE : add tests for BODY : check that data frames, tibbles and matrices are correctly put into the nested data frame, verify that parts operate together

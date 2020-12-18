@@ -1,0 +1,1 @@
+ URL : "https://github.com/cosmos/gaia/issues/59" TITLE : integration with keybase BODY : i think the website option which keybase provides should be sufficient if we open a rest api to query the keybase signature

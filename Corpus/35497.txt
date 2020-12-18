@@ -1,0 +1,1 @@
+ URL : "https://github.com/LordGolias/antistasi/issues/135" TITLE : empty resupply crate BODY : version: develop https://github.com/lordgolias/antistasi/commit/8c0ea9bdacffc86ebd00146e22bf80d16e31a147 mod: cba, tfar multiplayer dedicated server side: tested both vs east and vs west called in esupply t = crate was empty

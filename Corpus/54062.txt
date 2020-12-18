@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpenGenus/cosmos/issues/652" TITLE : fermats little theorem BODY : using fermat's little theorem compute a^b %m where 1<=a,b<10^100000

@@ -1,0 +1,1 @@
+ URL : "https://github.com/stockpile-co/api/issues/252" TITLE : fix rental date validation BODY : on insert, the validation should check only against other items with the same barcode. on update, the validation should compare against items with the same barcode but not the current rental.

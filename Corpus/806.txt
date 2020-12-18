@@ -1,0 +1,1 @@
+ URL : "https://github.com/Udanite/FEND-Reviewer-Library-ZH_CN/issues/31" TITLE : p8 js done BODY : 当你在函数中设置 done 为参数时，jasmine 将不会运行其余的代码直到你调用 done 。 所以当你调用异步函数时 通常在 beforeeach 里 ，它需要一些时间来完成任务，因此这是一个很好的工具去推迟执行剩余的测试。因为这个函数不包含任何的异步请求，我们可以直接将参数与调用 done 移除。

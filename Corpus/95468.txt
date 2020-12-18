@@ -1,0 +1,1 @@
+ URL : "https://github.com/jooby-project/jooby/issues/705" TITLE : database reload with 1.1.0 BODY : hi, with 1.0.3 the class reload works perfectly. however, in 1.1.0, with the combination hibernate + postgresql an error is occuring when reloading, as soon as i modify a class. i've switched back to 1.0.3. regards.

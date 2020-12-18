@@ -1,0 +1,1 @@
+ URL : "https://github.com/kemalyst/granite-orm/issues/37" TITLE : granite_orm vs granite-orm BODY : i noticed that we have underscore for the name and then dash for the github repository. i think it would be better to have some consistency here to make it easier to configure.

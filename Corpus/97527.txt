@@ -1,0 +1,1 @@
+ URL : "https://github.com/NYPL-discovery/discovery-front-end/issues/422" TITLE : hardcode delivery location BODY : may not be part of a bib's/item's data so will be hardcoded for now until we actually get it from somewhere most likely a different endpoint . will be either dropdown or table layout.

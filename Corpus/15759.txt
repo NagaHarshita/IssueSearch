@@ -1,0 +1,1 @@
+ URL : "https://github.com/stndrs/catalyse/issues/5" TITLE : fix invalid login BODY : - redirect to login view if login fails - display alert when login fails - clear token on invalid login

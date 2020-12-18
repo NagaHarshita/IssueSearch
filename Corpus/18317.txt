@@ -1,0 +1,1 @@
+ URL : "https://github.com/crystal-lang/crystal-db/issues/66" TITLE : support for mssql BODY : hi, currently, mssql is available on linux and is pretty easy to use via docker https://hub.docker.com/r/microsoft/mssql-server-linux/ . i found nothing related to how connect crystal to microsoft sql server. is possible to create an adapter for mssql?

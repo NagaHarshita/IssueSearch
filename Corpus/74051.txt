@@ -1,0 +1,1 @@
+ URL : "https://github.com/euvl/vue-js-modal/issues/64" TITLE : does it support nesting? BODY : hi, can i open a modal over another open modal? e.g. is it possible to open editor in a modal & a dialog prompting to save changes over the editor?

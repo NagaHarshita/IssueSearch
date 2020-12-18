@@ -1,0 +1,1 @@
+ URL : "https://github.com/BCLab-UNM/SwarmBaseCode-ROS/issues/26" TITLE : rover startup scripts BODY : please create scripts that allow rovers to be loaded with the code the user selects and the ros nodes started without the user having to manually ssh to the rovers. this script should handle multiple rovers.

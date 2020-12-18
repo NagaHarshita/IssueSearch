@@ -1,0 +1,1 @@
+ URL : "https://github.com/zzzhan/js-shortid/issues/2" TITLE : the shortid.uuid length BODY : i read the readme: quick style https://github.com/zzzhan/js-shortid quick-style > //default option {salts:4,interval:1} > console.log shortid.uuid ; the length of shortid.uuid is 14 bits, is there just add 4 salts? what about the timestamp length? isn't settled?

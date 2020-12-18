@@ -1,0 +1,1 @@
+ URL : "https://github.com/Velhotes/Vinyl/issues/76" TITLE : refresh vinyl tracks BODY : calling turntable.datatask ... repeatedly uses the disk cache rather than calling from the network i'm assuming, otherwise that'd defeat the purpose 😆 . is there any way to purge/force refresh a track ?

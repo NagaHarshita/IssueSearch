@@ -1,0 +1,1 @@
+ URL : "https://github.com/chrisalbon/notes_on_data_science_machine_learning_and_artificial_intelligence/issues/88" TITLE : accuracy equation error BODY : i think the equation of accuracy have a error on page https://chrisalbon.com/machine-learning/precision_recall_and_f1_scores.html. the equation should be accuracy = tp + tn / tp + fn + tn + fp

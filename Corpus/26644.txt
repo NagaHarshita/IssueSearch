@@ -1,0 +1,1 @@
+ URL : "https://github.com/gm-spacagna/sparkz/issues/8" TITLE : bug in statscounter BODY : hi gianmario, the stats counter has a bug when computing the variance. var x = 1/n sum i=1:n x_i - miu ^2 = 1/n sum i=1:n xi^2 - 2 xi miu - miu^2 = = 1/n sumofsquares x - 2 miu / n sum x + miu^2. in your implementation you are missing the term 2 miu sum x .

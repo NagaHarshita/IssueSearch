@@ -1,0 +1,1 @@
+ URL : "https://github.com/pytest-dev/pluggy/issues/81" TITLE : port to modern inspect BODY : for func signature inspection in py3 we're supposed to use the new inspect.signature . an example of how to provide dual support for py2/3 can be found here https://github.com/pymc-devs/pymc/pull/76/files .

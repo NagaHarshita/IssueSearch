@@ -1,0 +1,1 @@
+ URL : "https://github.com/codefoxes/firebase-admin/issues/32" TITLE : cannot add numeric values BODY : when i set a numeric value for a key it is always set as string.

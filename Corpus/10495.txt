@@ -1,0 +1,1 @@
+ URL : "https://github.com/ianwremmel/boilerize/issues/19" TITLE : clean up prompts BODY : - add @prompt decorator - ensure passwords never go into the config object - automate storing passwords as secrets - add an @cache decorator which stores the result of a function in secrets ?

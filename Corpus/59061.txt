@@ -1,0 +1,1 @@
+ URL : "https://github.com/ISUWeb/it-clubs/issues/6" TITLE : template for club info BODY : develop a template for a page that will contain information about a club. this has not been designed, so whoever takes this issue has creative liberty. but do meet the criteria below. criteria: must be under _layouts markdown files under _posts can use this layout

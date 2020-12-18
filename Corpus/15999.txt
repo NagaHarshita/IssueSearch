@@ -1,0 +1,1 @@
+ URL : "https://github.com/SandroCourses/TeaCozy/issues/4" TITLE : good body styling BODY : good catch on setting the body margin to 0. later in the course we will learn about reset.css which will handle stuff like this for us. also good use of inheritance for font-family and size. https://github.com/sandrocourses/teacozy/blob/master/resources/css/style.css l1-l8

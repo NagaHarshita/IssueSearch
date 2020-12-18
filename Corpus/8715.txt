@@ -1,0 +1,1 @@
+ URL : "https://github.com/wcjohnson/lightscript/issues/36" TITLE : remove pipecall BODY : nobody seems to be a strong advocate for this feature including me and no really interesting use cases have been presented, so it's probably not worthwhile maintaining the syntax.

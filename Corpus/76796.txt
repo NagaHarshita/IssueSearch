@@ -1,0 +1,1 @@
+ URL : "https://github.com/Stark-Mountain/meetup-facebook-bot/issues/96" TITLE : make event creation form BODY : requirements: 1 use bootstrap. 2 sanitize the input. 3 make it easy to add and remove the fields. the fields are the following: - event name. - a field for each talk name. - a field for each talk description. - a field for each talk speaker's email address.

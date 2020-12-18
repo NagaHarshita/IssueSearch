@@ -1,0 +1,1 @@
+ URL : "https://github.com/fribibb/DTOstrap/issues/19" TITLE : improve dashboard i links BODY : use icon without circle and then use border to recreate a more even outline, regardless of screen dpi. also show that it can be changed by changing one to a question mark. mix with font awesome icons, to show it will work with either glyphicons, fa or any other font icon.

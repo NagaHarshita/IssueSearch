@@ -1,0 +1,1 @@
+ URL : "https://github.com/NewForester/apl-py/issues/41" TITLE : add without dyadic ~ BODY : monadic ~ was implemented in the scalar calculator. dyadic ~ removes items from a vector. unlike dyadic ~ it always returns a vector, even in the degenerate case that both operands are scalars. note that apl 2 2 2 2 ~ 2 returns ⍬, an empty vector, not 2 2 2.

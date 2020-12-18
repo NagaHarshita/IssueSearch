@@ -1,0 +1,1 @@
+ URL : "https://github.com/mariusz-ba/SQLiteEditor/issues/1" TITLE : editing table structure BODY : editing tables structure makes bugs in some cases especially while renaming column.

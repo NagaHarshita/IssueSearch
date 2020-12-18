@@ -1,0 +1,1 @@
+ URL : "https://github.com/claroline/Distribution/issues/2814" TITLE : duplication de questions BODY : a la sauvegarde erreur 500 : integrity constraint violation: 1062 duplicate entry '57721c6c-cdd3-4299-8285-ea9d3c119bc8' il faut probablement regénérer des uid différents pour chaque questions dupliquées

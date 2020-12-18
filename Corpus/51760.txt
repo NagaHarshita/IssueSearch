@@ -1,0 +1,1 @@
+ URL : "https://github.com/pllk/cphb/issues/21" TITLE : bfs algorithm page 118 BODY : z s = 1; e x = 0; q.push x ; while !q.empty { int s = q.front ; q.pop ; // process node s for auto u : v s { if z u continue; z u = 1; e u = e s +1; q.push u ; } } the bfs code on page 118 uses wrong variable - z s = 1; should be changed to z x = 1;

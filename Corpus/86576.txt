@@ -1,0 +1,1 @@
+ URL : "https://github.com/oracle/node-oracledb/issues/596" TITLE : i want to login as sysdba BODY : could you tell me the way to login to the database as sysdba, i needed to monitor something thanks for your kind support error: ora-28009: connection as sys should be as sysdba or sysoper node version: v6.9.4

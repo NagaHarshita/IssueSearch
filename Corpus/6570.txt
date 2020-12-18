@@ -1,0 +1,1 @@
+ URL : "https://github.com/stormmore/snap-etckeeper/issues/4" TITLE : add vcs clients BODY : it might make sense to add the different supported vcs clients to the snap and expose the commands. this would make the snap an all in one solution for putting /etc under supported vcs.

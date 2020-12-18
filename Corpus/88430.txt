@@ -1,0 +1,1 @@
+ URL : "https://github.com/jtwig/jtwig/issues/331" TITLE : no autoescape by default? BODY : is it possible that jtwig does not autoescape by default? the way autoescape in twig works is that it detects the desired escape method by the template file name.

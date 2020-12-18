@@ -1,0 +1,1 @@
+ URL : "https://github.com/fabianlipp/luatodonotes/issues/3" TITLE : release v0.4 on ctan BODY : it has apparently been a long time since this repository has been updated so i guess the 0.4 version is stable, but the version on ctan is still 0.3, which apparently lacks some bug fixes. could you release v0.4 on ctan ?

@@ -1,0 +1,5 @@
+ URL : "https://github.com/grace-shopper/icecream/issues/12" TITLE : add admin functionality BODY : backend routes: - removeproductbyid
+- updateproductname
+- updateproductprice frontend: - display icons for admin functionality when logged in as an admin
+- hide icons for regular users/guests
+- re-render page to show admin changes

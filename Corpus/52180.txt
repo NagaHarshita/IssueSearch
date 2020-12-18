@@ -1,0 +1,1 @@
+ URL : "https://github.com/c0z3n/pySimpleDMX/issues/15" TITLE : cant specify channel 1 BODY : it appears this part of the code throws an error while trying to set channel 1: if not 1 <= chan-1 <= dmx_size: channel 2 is mapping to channel 1 though when send to the fixture... confusing

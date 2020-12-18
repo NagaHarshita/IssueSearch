@@ -1,0 +1,1 @@
+ URL : "https://github.com/CINPLA/exdir/issues/26" TITLE : allow disabling quantities BODY : we still want to enforce quantities by default, but it might be beneficial to provide an option to disable it for users without quantities installed or who wish not to use the automatic conversion.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/epost/purescript-node-postgres/issues/17" TITLE : needs aff 4.0 version BODY : i'll try to look into this myself too, just needs to be some time to have this library updated and put it into a aff 4.0-compatible package set

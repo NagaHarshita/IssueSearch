@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla/network/issues/237" TITLE : fix white news glyphs BODY : @gvn reports some glyphs are white, which makes them invisible. gray works well. @sabrinang – ok to assign to you? how would you and @taisdesouzalessa estimate this? i wrote down my vote.

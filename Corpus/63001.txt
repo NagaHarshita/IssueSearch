@@ -1,0 +1,1 @@
+ URL : "https://github.com/NCAR/VAPOR/issues/100" TITLE : data range not readable BODY : follow steps described in issue 73 , the data range becomes not readable on ubuntu. see screenshot. ! screenshot from 2017-10-17 14-42-21 https://user-images.githubusercontent.com/814885/31688791-abf71074-b34a-11e7-8e19-b6768c25bb92.png

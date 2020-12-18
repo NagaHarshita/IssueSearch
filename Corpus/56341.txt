@@ -1,0 +1,1 @@
+ URL : "https://github.com/Stefan-Endres/shgo/issues/11" TITLE : move testing to pytest BODY : pytest is superior to unittest in almost every way. scipy is also moving their test suite to pytest in the 1.0.0 release https://github.com/scipy/scipy/releases/

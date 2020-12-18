@@ -1,0 +1,1 @@
+ URL : "https://github.com/nottombrown/rl-teacher/issues/32" TITLE : gsutil mb error BODY : gsutil mb $rl_teacher_gcs_bucket no command was given. choose one of -b, -d, -e, or -r to do something. try /usr/bin/gsutil --help' for more information.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/typeorm/typeorm/issues/1329" TITLE : where value in BODY : how is possible to use values different than primary keys with in clause ? const values= 1,2,3 ; repository.createquerybuilder 'entity' .andwhere => entity.otherfield in :values , {values}

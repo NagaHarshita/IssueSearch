@@ -1,0 +1,1 @@
+ URL : "https://github.com/uber-node/idl/issues/73" TITLE : move to github.com/yarpc BODY : i'd like to move this repo closer to the projects that it serves. namely, i'd like to move it to github.com/yarpc/idl. that will increase the visibility for the people that own this very actively used project. afaict, this won't affect users, with how npm operates.

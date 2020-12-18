@@ -1,0 +1,1 @@
+ URL : "https://github.com/portsoc/ws_ajax/issues/1" TITLE : add ajax tests BODY : add all xhr tests the code is in ws_canvas/5f96d3e89c5804c9872448c552737f5f574f3aa9 and repurpose for use as fetch.

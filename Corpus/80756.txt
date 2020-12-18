@@ -1,0 +1,1 @@
+ URL : "https://github.com/poldracklab/cogat/issues/3" TITLE : update software versions BODY : specifically django is at 1.9. look into automating version upgrades.

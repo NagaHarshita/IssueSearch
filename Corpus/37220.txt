@@ -1,0 +1,1 @@
+ URL : "https://github.com/godmodelabs/flora-sql-parser/issues/2" TITLE : like and is not null BODY : it will throw error when i use like and is not null at the same time. example: select from tab where username like '%something%' and img is not null throw error: syntaxerror: expected a-za-z0-9_: or a-za-z0-9_ but found.

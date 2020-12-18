@@ -1,0 +1,1 @@
+ URL : "https://github.com/chrippa/ds4drv/issues/124" TITLE : clean exit on sigint? BODY : hi guys, love the work you've done with this - works perfectly on my ubuntu machine! would you guys be interested in a pr that exited cleanly i.e, without a stack trace on a sigint in an active terminal? cheers!

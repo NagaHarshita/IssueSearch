@@ -1,0 +1,1 @@
+ URL : "https://github.com/xdevnull/IRCBot/issues/2" TITLE : replace daemon directory BODY : ide's removes bin to produces new compiled source which cause daemon.sh / deploy.sh to be removed from bin dir.

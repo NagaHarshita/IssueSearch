@@ -1,0 +1,1 @@
+ URL : "https://github.com/nodejs/citgm/issues/396" TITLE : run citgm on aix BODY : node version : v6.x and up platform : aix now that we have the ramdisk set up on the aix test machines see https://github.com/nodejs/build/issues/661 , we should add aix to the smoker ci runs.

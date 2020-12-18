@@ -1,0 +1,1 @@
+ URL : "https://github.com/Xclo/cf-test-harness/issues/1" TITLE : add test for redis service BODY : create a spring boot app using redis service from the marketplace. the pipeline should be able to deploy the app, create a service, bind to the service

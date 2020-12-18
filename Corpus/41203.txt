@@ -1,0 +1,1 @@
+ URL : "https://github.com/thampe/ZurbInkBundle/issues/22" TITLE : zurbinkbundle + scss BODY : any suggestions on how to customise foundation.css with custom color variables? i was trying to use and extend the original scss to generate the style on the fly maybe with ascetic but seems to be a little tricky since they are not included in your repo. thanks! ;-

@@ -1,0 +1,1 @@
+ URL : "https://github.com/eduardinni/bootlint-online/issues/23" TITLE : direct input causes oops BODY : oops! there is a problem with the api, please check again later. when i use: http://www.bootlint.com/ with the direct input try to take the source from: http://dinnerbooking.com/dk/da-dk/gc5/gavekort-kob and use the source as input

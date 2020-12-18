@@ -1,0 +1,1 @@
+ URL : "https://github.com/Valhalla-Gaming/Tracker/issues/8804" TITLE : mage flurry BODY : describe the issue you're having : flurry doesn't deal damage on world bosses and probably all the other bosses with the immune flag explain how you expect it work : it should deal damage steps to reproduce the problem : 1. flurry 2. immune 3. no damage links to wowhead, youtube, etc :

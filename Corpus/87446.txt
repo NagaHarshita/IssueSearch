@@ -1,0 +1,1 @@
+ URL : "https://github.com/leomartire/MiniNBody/issues/1" TITLE : limitation to 9000 bodies BODY : compiler somehow grumbles when the number of particles to be allocated is greater than 9000. see the constant max_nbody mininbody.c:37 in current commit .

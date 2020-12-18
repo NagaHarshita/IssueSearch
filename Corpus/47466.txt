@@ -1,0 +1,1 @@
+ URL : "https://github.com/Automattic/jetpack/issues/6106" TITLE : php 7.1 compatibility BODY : synopsis: as php 7.1 becomes more and more popular, we should make sure jetpack is fully compatible. responsible: tbd complete: 0% difficulty: 10 last updated: january 16, 2017 by @jeherve

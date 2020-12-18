@@ -1,0 +1,1 @@
+ URL : "https://github.com/sergliashenko/ParserUpWork/issues/9" TITLE : extract sign up date BODY : implement a function which takes job description in json format and outputs customer's sign up date. write a unit test for it. python from datetime import datetime def get_signup_date job_desc: dict -> datetime: pass

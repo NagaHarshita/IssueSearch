@@ -1,0 +1,1 @@
+ URL : "https://github.com/mlaa/hc-member-profiles/issues/9" TITLE : improve test coverage BODY : phpunit tests should cover all core functionality including custom field types.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/farin99/angular2-virtual-select/issues/9" TITLE : systemjs error not found BODY : hi! i'm getting a systemjs error. how should i add angular2-virtual-select in the systemjs file? error: xhr error 404 not found loading http://localhost:3000/angular2-virtual-select

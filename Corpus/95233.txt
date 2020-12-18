@@ -1,0 +1,1 @@
+ URL : "https://github.com/dask/dask-glm/issues/33" TITLE : create conda-forge package BODY : for running dask-glm internal enterprise environment, i run into scenarios where a conda-forge package is much easier to mirror internally than straight from the git external repo.

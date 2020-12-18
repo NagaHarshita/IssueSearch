@@ -1,0 +1,1 @@
+ URL : "https://github.com/ColinFay/aside/issues/1" TITLE : check for search path BODY : as discussed on a recent twitter exchange https://twitter.com/carroll_jono/status/921986372109344768 , {aside} should keep the search path the same as the current r session.

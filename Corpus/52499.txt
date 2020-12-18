@@ -1,0 +1,1 @@
+ URL : "https://github.com/phischu/fragnix/issues/128" TITLE : command line interface BODY : we want to add different commands like init , publish , fetch . the current behavior would be under build . those commands will talk to a hard-coded server. we better implement this server first.

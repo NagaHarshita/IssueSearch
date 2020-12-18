@@ -1,0 +1,1 @@
+ URL : "https://github.com/alelazar/galcon/issues/47" TITLE : clean up old ais BODY : many of them seem to be unfinished or broken. test that previous refactors were done fully. test that they all have the proper constructor/handler setup. test that they meet minimum viability.

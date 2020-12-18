@@ -1,0 +1,1 @@
+ URL : "https://github.com/deemedadream/coms4156_jumpstart/issues/3" TITLE : division by zero bug. BODY : division by zero error if the teacher/view_class page is rendered immediately for a course after it is created and no sessions have been opened.

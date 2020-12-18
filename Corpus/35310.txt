@@ -1,0 +1,1 @@
+ URL : "https://github.com/ear/phabricator-feed/issues/3" TITLE : dockerify the server BODY : right now docker-compose up brings up only the postgres instance. it needs to create a container for phabricator-feed serve as well.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/thellimist/EZAlertController/issues/27" TITLE : use optionals for message BODY : what do you think about using optionals in message? it could look like so: > @discardableresult open class func alert _ title: string, message: string? -> uialertcontroller { return alert title, message: message ?? , acceptmessage: ok , acceptblock: { // do nothing } }

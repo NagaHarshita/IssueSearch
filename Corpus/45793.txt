@@ -1,0 +1,1 @@
+ URL : "https://github.com/kimmobrunfeldt/url-to-pdf-api/issues/1" TITLE : internal server error BODY : some requests to the demo heroku app return: js { status: 500, statustext: internal server error , messages: internal server error }

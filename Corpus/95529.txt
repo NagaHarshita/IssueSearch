@@ -1,0 +1,1 @@
+ URL : "https://github.com/srxzr/UOIS/issues/28" TITLE : decide on application name BODY : application name should be changed in following places: - application title in menubar - the client splash view - the home view's title - the locally generated root certificate - the domain names yaler.co and all subdomains - the email account on zoho.com - docker account

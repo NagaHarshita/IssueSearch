@@ -1,0 +1,1 @@
+ URL : "https://github.com/mdklatt/ansible-xenserver-module/issues/1" TITLE : configure vms to autostart BODY : the xen module should have functionality to configure a new/existing vm to autostart https://support.citrix.com/article/ctx133910 .

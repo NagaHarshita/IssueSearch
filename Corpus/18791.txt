@@ -1,0 +1,1 @@
+ URL : "https://github.com/MonsantoCo/etcd-aws-cluster/issues/35" TITLE : update to use 3.6 BODY : i started to test using the tool to bootstrap against etcd3 cluster with v2 mode. noticed the alpine version is still 3.4. would you consider to upgrade to gliderlabs/alpine:3.6?

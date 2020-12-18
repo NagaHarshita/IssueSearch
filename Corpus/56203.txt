@@ -1,0 +1,1 @@
+ URL : "https://github.com/rdesktop/rdesktop/issues/194" TITLE : missing configure file BODY : i cloned the rdesktop repo and there isn't a configure file to compile it... your readme.md states to run configure to create the makefile

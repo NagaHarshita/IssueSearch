@@ -1,0 +1,1 @@
+ URL : "https://github.com/mariosangiorgio/vscode-ledger/issues/7" TITLE : cannot read journal file BODY : every time i open a .ledger file i get an error: cannot read journal file /c%3a/path/to/ledger/file.ledger this is running 1.08 on vscode 1.13.1 on windows 10.

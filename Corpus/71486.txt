@@ -1,0 +1,1 @@
+ URL : "https://github.com/GlenCFL/DefinitelyTyped/issues/7" TITLE : add missing syntax tests BODY : there are -- see comments within atom-tests.ts which reference a class. each of these classes should be fully tested within the submodule, but some are missing.

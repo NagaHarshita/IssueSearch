@@ -1,0 +1,1 @@
+ URL : "https://github.com/tarantool/tarantool/issues/2178" TITLE : remove vacuum statement. BODY : subj. > don't allow the statement. i don't see what it would do. perhaps i'm asking for the equivalent of the sqlite compile-time option sql_omit_vacuum.

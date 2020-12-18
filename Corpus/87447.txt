@@ -1,0 +1,1 @@
+ URL : "https://github.com/LoneGazebo/Community-Patch-DLL/issues/3517" TITLE : limited follower beliefs? BODY : when choosing a religion the first to found it seems there is a cap of beliefs in the lua. so certain beliefs cant be seen and picked until other religions are founded. however byzantine ua does not have this cap in their bonus belief.

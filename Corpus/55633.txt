@@ -1,0 +1,1 @@
+ URL : "https://github.com/ihhub/multicuda/issues/2" TITLE : kernel launch function BODY : cuda driver api contains function to make direct calls of kernel functions. a function-wrapper with auto-calculated parameters and error checking would simplify a writing of the code for developers.

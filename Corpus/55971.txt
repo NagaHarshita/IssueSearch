@@ -1,0 +1,1 @@
+ URL : "https://github.com/mapnik/mapnik/issues/3613" TITLE : make fails on centos 7 BODY : configure looks good but make stops shortly after it started: http://pastebin.com/wvest6fs any ideas?

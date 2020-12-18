@@ -1,0 +1,1 @@
+ URL : "https://github.com/gorkem/java-language-server/issues/127" TITLE : migrate to buildship 2.0 BODY : see https://blog.gradle.org/announcing-buildship-2.0 i have yet to check whether this will require code changes or not.

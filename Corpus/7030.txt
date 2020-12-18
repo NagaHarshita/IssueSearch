@@ -1,0 +1,1 @@
+ URL : "https://github.com/paddatrapper/CaseTracker/issues/57" TITLE : create mysql db BODY : create db in mysql for tests, etc to reach. allows travis to pass

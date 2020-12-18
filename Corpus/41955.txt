@@ -1,0 +1,1 @@
+ URL : "https://github.com/wcpines/dotfiles/issues/6" TITLE : add steps to setup.sh BODY : - add bash_profile to source bashrc - restart computer - continue when brew/bundle install fails

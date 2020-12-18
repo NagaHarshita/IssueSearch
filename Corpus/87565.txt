@@ -1,0 +1,1 @@
+ URL : "https://github.com/project-lighthouse/camera-app.ios/issues/6" TITLE : logging mechanism for c++ BODY : currently, our logging in c++ world is fprintf stderr, ... . we should find something better. either add logging in feedback or use a library.

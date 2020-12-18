@@ -1,0 +1,1 @@
+ URL : "https://github.com/johannesjo/super-productivity/issues/3" TITLE : wont start in windows env BODY : npm start doesnt work in windows dos prompt. if you remove node_env=dev from package.json it loads fine

@@ -1,0 +1,1 @@
+ URL : "https://github.com/novucs/factions-top/issues/25" TITLE : f top bug BODY : when any block is blown up and replaced in land, it doesn't remove the block from the f top value and just keeps adding onto it. https://youtu.be/cr3qiswpjdg

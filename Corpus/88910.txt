@@ -1,0 +1,1 @@
+ URL : "https://github.com/Acellera/htmd/issues/445" TITLE : parametrize broken in osx BODY : /users/toni/anaconda3/bin/match-typer: line 10: /../share/match//scripts/match.pl: no such file or directory unfortunately due to different readlink  behavior in match-typer f=$ dirname $ readlink -f $0 looking for a cross-platform alternative.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Z-WavePublic/libzwaveip/issues/7" TITLE : reference client crash BODY : passing a non existing command class to the reference client results in a segmentation fault: zip send switch binary fd04d3480700 command_class_something test segmentation fault

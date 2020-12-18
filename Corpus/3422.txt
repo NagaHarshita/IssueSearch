@@ -1,0 +1,1 @@
+ URL : "https://github.com/selbil/mail-queue/issues/1" TITLE : php 7 support BODY : hi, as per php 7 requirements, short tags <? is removed. ensure this package is compatible with php 7.

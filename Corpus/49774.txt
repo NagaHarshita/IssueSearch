@@ -1,0 +1,5 @@
+ URL : "https://github.com/poolebu/nhgSalesPortal_alpha_1/issues/8" TITLE : update new repository BODY : - check model and see if it works
+- add collaborators
+- update the readme with the alpha on
+- configure production database
+- test on server

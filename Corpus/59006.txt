@@ -1,0 +1,1 @@
+ URL : "https://github.com/renmengye/revnet-public/issues/2" TITLE : syntax error on ubuntu BODY : i am getting the following error on running setup.sh on ubuntu ./setup.sh: line 26: syntax error near unexpected token fi' seems related to this https://stackoverflow.com/questions/20586785/syntax-error-near-unexpected-token-fi issue

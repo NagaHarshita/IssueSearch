@@ -1,0 +1,1 @@
+ URL : "https://github.com/MoOx/pjax/issues/89" TITLE : having to include require BODY : hi, when trying to use switches i have to include the require library in my html. i then get constant file issues in node_modules. uncaught error: module name events/on.js has not been loaded yet for context: _. use require just trying to add animation to the example in bower

@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpenCubicChunks/CubicChunks/issues/218" TITLE : cubicchunks crash with ic2 BODY : with only ic2 and cubicchunks installed, i cannot even create a new world. it just crashes. if a create a world without ic2 and enter the world with ic2, i see flying blocks everywhere. when i enter the world the second time, it crashes.

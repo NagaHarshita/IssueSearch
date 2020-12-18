@@ -1,0 +1,1 @@
+ URL : "https://github.com/fusionpbx/fusionpbx/issues/2424" TITLE : algo 8180 provisionig BODY : algo is looking for the following files algom{$mac}.conf algop8180.conf in .htaccess there are no rewrites for .conf files. nor algo and cusing it not to generate setting files. please let me know if this can be fixed. thank you

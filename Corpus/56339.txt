@@ -1,0 +1,1 @@
+ URL : "https://github.com/FooDeas/raspberrypi-ua-netinst/issues/100" TITLE : move retries to config BODY : there's a couple of retries that are harcoded, let's move them to a config and enforce a default when not supplied in a config.

@@ -1,0 +1,11 @@
+ URL : "https://github.com/andybotting/xbmc-addon-afl-video/issues/504" TITLE : end-user bug report BODY : automatic bug report from end-user. environment plugin name: afl video plugin id: plugin.video.afl-video plugin version: 1.6.4 xbmc/kodi version: 16.1 git:c327c53 python version: 2.7.12 default, dec 17 2016, 21:54:28 gcc 5.3.0 operating system: linux2 linux 3.14.29 aarch64 ip address: 180.216.189.112 isp : vividwireless python path: /storage/.kodi/addons/plugin.video.afl-video
+/storage/.kodi/addons/script.module.beautifulsoup/lib
+/usr/lib/python27.zip
+/usr/lib/python2.7
+/usr/lib/python2.7/plat-linux2
+/usr/lib/python2.7/lib-tk
+/usr/lib/python2.7/lib-old
+/usr/lib/python2.7/lib-dynload
+/usr/lib/python2.7/site-packages
+/usr/lib/python2.7/site-packages/gtk-2.0
+/storage/.kodi/addons/plugin.video.afl-video/resources/lib traceback traceback most recent call last : file /storage/.kodi/addons/plugin.video.afl-video/resources/lib/videos.py , line 34, in make_list videos = comm.get_videos category file /storage/.kodi/addons/plugin.video.afl-video/resources/lib/comm.py , line 191, in get_videos video = parse_json_live video_asset file /storage/.kodi/addons/plugin.video.afl-video/resources/lib/comm.py , line 114, in parse_json_live video.title = ' color green live now /color {0}'.format video_data.get 'title' unicodeencodeerror: 'ascii' codec can't encode character u'\u2013' in position 12: ordinal not in range 128 full log https://gist.github.com/c6ca8c1a7b7ed8dd632667fadf9dd79a

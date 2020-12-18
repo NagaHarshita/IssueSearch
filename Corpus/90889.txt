@@ -1,0 +1,1 @@
+ URL : "https://github.com/jbweston/nord/issues/24" TITLE : sudo credentials time out BODY : notice that if we kill nord some time after the initial startup, sudo complains that it needs a password. we have the maintain_sudo context manager that is meant to take care of this, but clearly it is not working correctly.

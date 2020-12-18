@@ -1,0 +1,1 @@
+ URL : "https://github.com/morissette/eventify/issues/34" TITLE : add retain support BODY : events retain supports and retreival from broker should be implemented and supported in configuration. relevant docs: https://autobahn.readthedocs.io/en/latest/reference/autobahn.wamp.html module-autobahn.wamp.types subscribeoptions

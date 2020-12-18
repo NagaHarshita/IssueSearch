@@ -1,0 +1,1 @@
+ URL : "https://github.com/electron/spectron/issues/203" TITLE : sync webdriverio commands BODY : webdriverio allows using synchronous testing instead of asynchronous way. is it able to create sync webdriverio testing through spectron?

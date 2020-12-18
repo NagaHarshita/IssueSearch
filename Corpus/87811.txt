@@ -1,0 +1,1 @@
+ URL : "https://github.com/jacksingleton/hacker-slides/issues/48" TITLE : markdown slide attributes BODY : although the element attribute works nicely the slide attribute via markdown at the beginning of a slide doesn't seem to work: <!-- .slide: data-background= ffffff --> or am i getting this wrong?

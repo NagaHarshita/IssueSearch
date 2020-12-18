@@ -1,0 +1,1 @@
+ URL : "https://github.com/bmcdavid/DotNetStarter/issues/6" TITLE : easier assembly filtering BODY : create an assembly attribute that can be used to simplify if an assemblies types should be scanned.

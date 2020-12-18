@@ -1,0 +1,1 @@
+ URL : "https://github.com/Nillerr/Amplified.CSharp/issues/13" TITLE : document match methods BODY : every method, property and extension method of the library should be properly documented with xmldoc comments. the match methods takes priority due to lack of documentation, and the fact that they are the building block of every other extension method.

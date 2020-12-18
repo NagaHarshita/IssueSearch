@@ -1,0 +1,1 @@
+ URL : "https://github.com/lanceman2/quickplot/issues/2" TITLE : fix compiler warnings BODY : gtk+ 3 keeps changing and deprecating more and more things. what a pain. gcc flag -wdeprecated-declarations turns on these warnings. run configure with cflags= -wall -werror to stop the build at the warnings.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/gchq/gaffer-tools/issues/286" TITLE : named operation dialog BODY : when you click the information button on an operation, you get either a new window or new tab open with the json. it would be better if a dialog box came up with information about the operation.

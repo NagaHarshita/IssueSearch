@@ -1,0 +1,1 @@
+ URL : "https://github.com/danjonpeterson/dti_preproc/issues/4" TITLE : bv?? s filename mismatch BODY : concatenate_diffusion.sh generates files with the name _bvec.txt , but rearrange_diffusion.sh generates files with the name _bvecs.txt . all the outputs should be consistent in whether they output bval/bvec or bvals/bvecs.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/amio/hyper-blink/issues/8" TITLE : doesn't work in hyper v2 BODY : hyper-blink no longer works in hyper v2, however neither does cursorblink: 'true'. for reference, i've mentioned it here: https://github.com/zeit/hyper/issues/2248

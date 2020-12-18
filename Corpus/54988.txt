@@ -1,0 +1,1 @@
+ URL : "https://github.com/tjhunter/karps/issues/8" TITLE : i/o currently disabled BODY : reading and writing dataframes is currently disabled, reenable it.

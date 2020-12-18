@@ -1,0 +1,1 @@
+ URL : "https://github.com/absortium/poloniex-api/issues/7" TITLE : refactor fix for 4 BODY : it might make more sense to refactor, and pass in the whole wamp event to the handler, and let each handler deal with the message fields themselves.

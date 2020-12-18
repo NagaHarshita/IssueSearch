@@ -1,0 +1,1 @@
+ URL : "https://github.com/CodingLiterature/CodingLiterature.github.io/issues/65" TITLE : multiple alias for my user BODY : it has been observed in the commits page of the repo, that some commits are from user salgotrav and other from vishal. these are eventually a single user, and should be shown as single alias.

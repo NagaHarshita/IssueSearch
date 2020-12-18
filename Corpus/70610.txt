@@ -1,0 +1,1 @@
+ URL : "https://github.com/graham73may/bolt-conditional-fields/issues/4" TITLE : wip multiple conditions BODY : accept multiple conditions to hide/show a field. example config: condition: field: field_one operator: '=' show: true value: 'page' , 'this', 'that' , field: field_two operator: '=' show: true value: 'page' , 'this', 'that'

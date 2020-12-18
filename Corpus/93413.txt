@@ -1,0 +1,1 @@
+ URL : "https://github.com/supercollider/supercollider/issues/2848" TITLE : add support for pulseaudio BODY : pulseaudio is default in many/most linux distros now. for use cases that don't require jack, it would be nice to be able to just start supercollider without having to deal with jackd setup possibly challenging for some users .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ArtskydJ/spell-check-cli/issues/5" TITLE : line endings are messed up BODY : hi - windows line endings are useless. can you please remove them via git https://coderwall.com/p/dzdw_a/converting-line-endings-from-dos-carriage-returns-to-unix-line-feeds-using-git ?

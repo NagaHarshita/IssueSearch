@@ -1,0 +1,1 @@
+ URL : "https://github.com/nesbox/tic.computer/issues/81" TITLE : trim api func BODY : trim x,y,with,height - limits drawing area to _x,y,width,height_. called with no arguments trim - allow drawing everywhere on screen. from:https://itch.io/t/71209/ui-library-ticuare-and-request-for-trim-function

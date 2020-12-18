@@ -1,0 +1,1 @@
+ URL : "https://github.com/parnold-x/nasc/issues/80" TITLE : support hidpi screens BODY : it seems hidpi support doesn't work well in nasc. running normally window decorator is fine but text is small, running gdk_scale=2 nasc makes text normal but makes window decoration very large. other gtk applications are scaled fine.

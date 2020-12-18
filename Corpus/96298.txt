@@ -1,0 +1,1 @@
+ URL : "https://github.com/krzysieksr/KS_Traffic_Analyzer/issues/2" TITLE : error in counting vehicles BODY : when two vehicles passes at the same time on counting line,the counter count it as a one vehicle. what is solution of this problem how can i improve this code .plz review

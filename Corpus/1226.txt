@@ -1,0 +1,1 @@
+ URL : "https://github.com/anton-johansson/elasticsearch-shell/issues/4" TITLE : log to file BODY : we should have proper logging, to disk. we should probably use log4j2. if we want to include springs log, we need to route commons-logging to log4j2 see 1 .

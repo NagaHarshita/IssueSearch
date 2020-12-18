@@ -1,0 +1,1 @@
+ URL : "https://github.com/QCoDeS/Qcodes/issues/658" TITLE : qdac driver crashes BODY : the qdac firmware crashes sporadically if you send it visa commands too quickly. relayed by alan; david sabonis can demonstrate and provide more specifics. dave wecker has run into this in igor; the only solution he came up with is to add a delay to the driver.

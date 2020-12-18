@@ -1,0 +1,1 @@
+ URL : "https://github.com/vim-awesome/vim-awesome/issues/347" TITLE : bash-support is failing BODY : hi , the bash-support install guide is fail when you use vim-plug

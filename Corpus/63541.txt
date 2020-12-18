@@ -1,0 +1,1 @@
+ URL : "https://github.com/vanilla/vanilla/issues/5435" TITLE : email logo broken image BODY : if user adds a custom image logo to outgoing emails, the image will not show in the inbox. instead it will show a broken image link. if i go directly to the community it seems the image file is there, but on refreshing the link, the image link is not reachable.

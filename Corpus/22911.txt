@@ -1,0 +1,1 @@
+ URL : "https://github.com/jadamburke/gs-code/issues/35" TITLE : mustache maya 2016 BODY : version up save on assets with the hypershade open throws an error, its being caused by mustache trying to use the last active 3dport for making thumbnail, problem is that the new hypershade is often the last active 3d port and it freaks out if you touch it with scripts

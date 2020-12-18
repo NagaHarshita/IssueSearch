@@ -1,0 +1,1 @@
+ URL : "https://github.com/ODM2/ODM2StreamingDataLoader/issues/68" TITLE : create new method fails BODY : i'm trying to create a new method on the create new action form. i click on the + button and add the information for the method, but nothing happens. the method should be populate in the list and should be automatically selected.

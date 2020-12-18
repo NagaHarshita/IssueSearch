@@ -1,0 +1,1 @@
+ URL : "https://github.com/aliceinwire/elivepatch-server/issues/13" TITLE : add ssl support BODY : currently the patch blob is transferred in clear which is vulnerable to mitm attacks and is a security issue.

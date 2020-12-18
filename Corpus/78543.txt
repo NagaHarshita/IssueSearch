@@ -1,0 +1,1 @@
+ URL : "https://github.com/carpedm20/visual-analogy-tensorflow/issues/3" TITLE : python 3.x compatibility BODY : hi, i've run your code on python 3.6; however; it showed the error len of unsized object numpy somewhere in loader.py in python 2.x, it works well except that show apis are replaced in the newer version of tensorflow - i have a plan to update the code .

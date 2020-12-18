@@ -1,0 +1,1 @@
+ URL : "https://github.com/docker-library/php/issues/436" TITLE : a bug have to fix BODY : image php:fpm-alpine dockerfile like below apk add --no-cache --virtual .build-deps \ $phpize_deps \ ... apk del .build-deps cause unable to extension ,because delete $phpize_deps https://github.com/docker-library/php/blob/76a1c5ca161f1ed6aafb2c2d26f83ec17360bc68/7.1/fpm/alpine/dockerfile

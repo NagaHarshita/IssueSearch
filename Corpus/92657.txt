@@ -1,0 +1,1 @@
+ URL : "https://github.com/dotnet/BenchmarkDotNet/issues/461" TITLE : .net framework 4.7 support BODY : now default framework for benchmarkdotnet is net46 . since we generate benchmark source code with the help of csprojnet46toolchain , $tfm$ is always net46 . so, it's impossible to run benchmarks from a net47 project.

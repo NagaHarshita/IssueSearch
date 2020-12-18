@@ -1,0 +1,1 @@
+ URL : "https://github.com/aidanholm/luakit/issues/379" TITLE : menu widget row filtering BODY : manually searching through menus for particular entries closed tabs, stylesheets, etc. is arduous. being able to filter rows temporarily would be very useful.

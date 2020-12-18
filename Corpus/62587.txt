@@ -1,0 +1,1 @@
+ URL : "https://github.com/weiboad/kafka-php/issues/123" TITLE : consumer message repeat BODY : 1. current consumer callback process time more than session timeout 2. after rejoin group consumer offset is invalid

@@ -1,0 +1,1 @@
+ URL : "https://github.com/sivaadde/custom_dhis2_tracker/issues/4" TITLE : create knowledge check BODY : 1. create 18 data elements with the required options 2. create 72 category options 3. match the category options with the appropriate data elements. 4. should be able to generate score. 5. create an appropriate program with these questions made available after training.

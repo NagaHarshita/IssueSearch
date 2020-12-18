@@ -1,0 +1,1 @@
+ URL : "https://github.com/AnandMuley/Grocero/issues/3" TITLE : rendering master list BODY : - user should be shown the contents of the master list if master list is already created for the user - user should be given an option to create a new master list if none exists

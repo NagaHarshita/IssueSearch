@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/vscode/issues/29311" TITLE : select all stays fixed BODY : - vscode version: 1.13 - os version: in some situations when i select all the text ctrl+a it is still selected even after i lefth-click the text: ! ezgif com-video-to-gif 1 https://user-images.githubusercontent.com/22749175/27478065-9a756162-580e-11e7-8e29-d2983d6486fb.gif

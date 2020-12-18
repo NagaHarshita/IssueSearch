@@ -1,0 +1,1 @@
+ URL : "https://github.com/Manabu-GT/ExpandableTextView/issues/50" TITLE : a lot /n in text BODY : when user input a lot /n , like string msg = aaaaaa settext msg, @nonnull sparsebooleanarray collapsedstatus, int position it will not work well

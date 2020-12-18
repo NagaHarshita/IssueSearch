@@ -1,0 +1,1 @@
+ URL : "https://github.com/cybernetics-conference/cybersym/issues/14" TITLE : get /pp route BODY : should return the latest pp state as json, as read from the pp state db , in the same format as 12

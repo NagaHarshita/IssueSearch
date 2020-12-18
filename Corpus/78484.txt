@@ -1,0 +1,1 @@
+ URL : "https://github.com/prefapp/planos/issues/8" TITLE : proxy-ssl depende de app BODY : en todos os planos de stacks o proxy-ssl e o non ssl o arranque do proxy depende de que previamente arrancara o container de app, polo que hai que agregarlles un depends_on

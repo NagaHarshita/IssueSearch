@@ -1,0 +1,1 @@
+ URL : "https://github.com/AmmyUI/AmmyUI/issues/2" TITLE : color value indicators BODY : we should parse color values like 0000ff and display corresponding color block nearby. ! color-values https://cloud.githubusercontent.com/assets/592624/21645852/6c1078c2-d29c-11e6-8430-d3248ca4f595.png

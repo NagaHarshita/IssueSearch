@@ -1,0 +1,1 @@
+ URL : "https://github.com/vatlab/SoS/issues/785" TITLE : multiple %run magics BODY : %run --par 1 %run --par 2 %run --par 3 only the first one is executed if i observed correctly .

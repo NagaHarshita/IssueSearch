@@ -1,0 +1,1 @@
+ URL : "https://github.com/Diewa/Task_Scheduling/issues/4" TITLE : task_4 change task id BODY : now task have two tipes of id : - number in list with tasks - number which describes task in graph / file with tasks tasks should have only one type of id - from file. every method based on gettaskid should use id defined in file.

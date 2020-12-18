@@ -1,0 +1,1 @@
+ URL : "https://github.com/daveismyname/loginregister/issues/21" TITLE : activation mail resend BODY : what if user didn't receive activation email, it doesn't have option to resend it. if it doesn't have it, than user can't login nor use same email for registration. so must be a way to resend activaction e-mail to registered account.

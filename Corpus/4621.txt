@@ -1,0 +1,1 @@
+ URL : "https://github.com/defold/extension-admob/issues/3" TITLE : error on build BODY : on linux, when trying to build-and-launch for dmengine on android, i get this error message: build server output: unsupported platform x86_64-linux	ext.manifest	/testadmob/content/admob	unknown	problem

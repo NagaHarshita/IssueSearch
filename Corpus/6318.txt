@@ -1,0 +1,1 @@
+ URL : "https://github.com/astutebits/cue/issues/29" TITLE : add a changelog BODY : use the format described in keep a changelog http://keepachangelog.com/en/0.3.0/ . document the existence of the changelog in the readme mention the use of the particular format .

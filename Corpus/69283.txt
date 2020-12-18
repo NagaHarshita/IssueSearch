@@ -1,0 +1,1 @@
+ URL : "https://github.com/bilal-fazlani/CommandDotNet/issues/7" TITLE : support for validations BODY : add support for - type validations - error messages on validation failures - appropriate return codes

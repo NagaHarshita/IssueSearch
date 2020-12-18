@@ -1,0 +1,1 @@
+ URL : "https://github.com/praelatus/praelatus/issues/153" TITLE : stylize django admin BODY : we need to make the admin screens feel like part of the project. we may need to rewrite these templates completely. investigation work is required to determine best path forward.

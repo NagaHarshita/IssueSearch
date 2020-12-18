@@ -1,0 +1,1 @@
+ URL : "https://github.com/AsaAyers/js-hyperclick/issues/51" TITLE : does this work with osx? BODY : i am trying this in atom 1.12.9, in osx it doesn't seem to work? ctrl+click, alt option +click, alt+mouse-over etc do nothing? i have typescript plugin disabled also. what am i missing?

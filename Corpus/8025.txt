@@ -1,0 +1,1 @@
+ URL : "https://github.com/YannCaron/VisualSource/issues/1" TITLE : manage chain of BODY : choose between : args = new snappane ; getchildren .add args ; args.setlayoutx 100 ; args.setlayouty 0 ; block = new snappane ; getchildren .add block ; block.setlayoutx 0 ; block.setlayouty 100 ;

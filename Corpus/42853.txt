@@ -1,0 +1,1 @@
+ URL : "https://github.com/odiseoteam/SyliusVendorPlugin/issues/4" TITLE : can't update database BODY : while updating the database php bin/console doctrine:schema:update i get this error > the table with name 'app_dev.sylius_product_channels' already exists.

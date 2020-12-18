@@ -1,0 +1,1 @@
+ URL : "https://github.com/michal2409/Reversi/issues/13" TITLE : albo tab albo spacje BODY : do zagnieżdźania używaj zawsze tego samego a nie w jednym miejscach tab a w innych spacji, bo kod będzie źle sformatowany np. końcówka funkcji wykonaj_naj_ruch .

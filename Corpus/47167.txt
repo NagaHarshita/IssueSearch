@@ -1,0 +1,1 @@
+ URL : "https://github.com/LilyPad/Bukkit-Connect/issues/39" TITLE : npe while getting api BODY : since upgrading to the latest version of golilypad and bukkit-connect i'm getting a nullpointerexception here java connect connect = getserver .getservicesmanager .getregistration connect.class .getprovider ;

@@ -1,0 +1,1 @@
+ URL : "https://github.com/irontec/sngrep/issues/197" TITLE : issue on window resize. BODY : as ncurses support terminal window resize, i was wondering if is possible to redraw the current status window when this happens.

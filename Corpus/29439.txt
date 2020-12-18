@@ -1,0 +1,1 @@
+ URL : "https://github.com/genofire/hs_master-kss-monolith/issues/4" TITLE : log sql with prefix BODY : there are maybe two connections. if both are in use, the log of both could not different https://github.com/genofire/hs_master-kss-monolith/blob/ff299c42a71e7561b6238f7bf3b7bdd14df0fb0e/lib/database/main.go l27

@@ -1,0 +1,1 @@
+ URL : "https://github.com/xivdb/tooltips/issues/19" TITLE : callback in case of errors BODY : would it be possible to have a callback in case of tooltip errors, kinda like how the callback event_tooltipsloaded? it currently does have console logging there, so it could, instead or in addition, do execute a callback function at that spot.

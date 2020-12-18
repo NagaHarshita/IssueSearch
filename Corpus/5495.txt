@@ -1,0 +1,1 @@
+ URL : "https://github.com/Bodmer/TFT_eSPI/issues/41" TITLE : porting to lua BODY : this library is beyond fast and good. could you see any future for porting it to lua firmware? lua has very nice features to be honest, much more than linear arduino programming, the only thing is missing is a very good tft library like this. ucg is terribly slow.

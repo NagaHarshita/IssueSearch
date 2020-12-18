@@ -1,0 +1,1 @@
+ URL : "https://github.com/rswestmoreland/graylog-delimited-file-output-plugin/issues/1" TITLE : req file permission BODY : can you change file permission form 600 to 644 or add function to select permission in graylog thank you

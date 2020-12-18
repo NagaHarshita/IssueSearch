@@ -1,0 +1,1 @@
+ URL : "https://github.com/SFUSatClub/eps-hardware/issues/2" TITLE : cubesat side panel naming BODY : there are 4 solar battery charger schematics mppt_ each numbered as 1,2,3,4. this name should be changed so that they are more descriptive of cubesat side. something like port, starboard, topside, bottomside?

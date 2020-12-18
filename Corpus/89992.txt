@@ -1,0 +1,1 @@
+ URL : "https://github.com/xcyan/nips16_PTN/issues/2" TITLE : results don't match paper BODY : hi, i downloaded the pretrained models and after running run ./eval_models.sh and got these numbers cnn-vol iou = 0.500177	ptn-comb iou = 0.509016	ptn-proj iou = 0.503761 they are not far off, but still don't correspond to the paper numbers, any idea why i am getting different results?

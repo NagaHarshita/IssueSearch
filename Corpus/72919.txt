@@ -1,0 +1,1 @@
+ URL : "https://github.com/khadas/android_manifest/issues/1" TITLE : clang linker error patch BODY : this source does't seem to have the following patch applied patch https://android-review.googlesource.com/ /c/223100/1/core/clang/host_x86_common.mk which causes it to give the following errors error https://paste.ubuntu.com/24070475/ kindly concider updating the source

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ronzeiller/kbox-firmware-teensy36/issues/7" TITLE : nmea input failure BODY : nmea datas coming from garmin gps are not forwarded at all. nmea sentence gpgga from timo´s nmea simulator is discarding incomplete sentence

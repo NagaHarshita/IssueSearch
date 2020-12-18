@@ -1,0 +1,1 @@
+ URL : "https://github.com/adamsdenniskariuki/Adams-Kariuki-Dojo-Project/issues/2" TITLE : update gitignore file BODY : i do not right away understand why .ds_stire and __pycache__ folders exist in the repository, what value do they add to the code and why are they not ignored

@@ -1,0 +1,1 @@
+ URL : "https://github.com/peachpiecompiler/peachpie/issues/99" TITLE : keys in list are ignored BODY : php <?php list a => $a, b => $b = b => 1, a => 2 ; var_dump $a, $b ;

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ducksboard/gridster.js/issues/592" TITLE : resize doesn't worked BODY : i want to resize the grids like this: resize: { enabled: true, max_size: 8, 8 , min_size: 1, 1 } but resize doesn't worked and even the image of resize disappeared. does anyone have any idea what can i do to make the grids resizable ? thanks!

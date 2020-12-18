@@ -1,0 +1,1 @@
+ URL : "https://github.com/rajatjain1997/Content-Rectifier-II/issues/32" TITLE : do input checking on bot BODY : - check if the email entered while logging in is valid - check if the child-name entered is present in the array - check if the password are 6 characters

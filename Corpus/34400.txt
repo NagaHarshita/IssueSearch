@@ -1,0 +1,1 @@
+ URL : "https://github.com/everypolitician/everypolitician-data/issues/25359" TITLE : chad: scraper broken BODY : https://morph.io/tmtmtmtm/chad-national-assembly is currently failing with /app/vendor/ruby-2.0.0/lib/ruby/2.0.0/open-uri.rb:353:in open_http': 503 service temporarily unavailable openuri::httperror

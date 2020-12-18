@@ -1,0 +1,1 @@
+ URL : "https://github.com/infinum/mobx-jsonapi-store/issues/49" TITLE : throw on network errors BODY : current behaviour on network errors: resolve with the response object that has the error property set. better behaviour: reject with the response object that has the error property set. it's a small change, but it's a breaking one.

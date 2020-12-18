@@ -1,0 +1,1 @@
+ URL : "https://github.com/joke2k/django-environ/issues/116" TITLE : django 1.11 lts support BODY : mainstream support for django 1.10 ends this month. django-environ official support for 1.11 will help enable django cookiecutter to officially support 1.11 as well. https://github.com/pydanny/cookiecutter-django/issues/1111

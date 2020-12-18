@@ -1,0 +1,1 @@
+ URL : "https://github.com/biosustain/optlang/issues/70" TITLE : swap sympy with symengine BODY : it seems like symengine can be installed quite easily with conda now.

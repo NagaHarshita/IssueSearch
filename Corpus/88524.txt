@@ -1,0 +1,1 @@
+ URL : "https://github.com/thyn/haproxy-api/issues/1" TITLE : not .netcore friendly yet BODY : before i start drudging through a rewrite to make this play nice with .net core with an intention of using in aws lambda, i just wanted to make sure this isn't something that was already underway. did you have any intention or have you potentially started doing this?

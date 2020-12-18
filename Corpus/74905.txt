@@ -1,0 +1,1 @@
+ URL : "https://github.com/skellock/electron-starter/issues/55" TITLE : fix source maps in tests BODY : they don't seem to be picking up the ts code. just the js code. which is really distracting when seeing the async -based callstacks.

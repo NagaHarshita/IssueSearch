@@ -1,0 +1,1 @@
+ URL : "https://github.com/SilverDecisions/SilverDecisions/issues/138" TITLE : colon hangs sd BODY : the following variable definition wiek=random 1:10 hangs sd. @mwasiluk apart from fixing it i am curious why : .

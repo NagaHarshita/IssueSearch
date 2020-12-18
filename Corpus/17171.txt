@@ -1,0 +1,1 @@
+ URL : "https://github.com/shinmai/kartarc/issues/3" TITLE : no error handling BODY : catch exceptions when files are missing, datafiles are malformed, etc.

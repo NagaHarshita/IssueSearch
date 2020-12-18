@@ -1,0 +1,1 @@
+ URL : "https://github.com/cycomachead/lambda-evaluator/issues/17" TITLE : condense repeat errors BODY : if errors are the same, we should try to condense them in a simplified way.

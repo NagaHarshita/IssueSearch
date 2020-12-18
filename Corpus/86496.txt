@@ -1,0 +1,1 @@
+ URL : "https://github.com/davetimmins/esri-loader-react/issues/1" TITLE : how to use with electron? BODY : my project wants to use react+electron+webpack, but when i run the project,it has error that 'path must be a string', i think it has some conflict between node's require and amd's require. can it successfully in electron?

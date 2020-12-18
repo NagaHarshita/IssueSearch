@@ -1,0 +1,1 @@
+ URL : "https://github.com/bodil/pulp/issues/261" TITLE : add a --silent option BODY : hello, would it be possible to add a --silent option to pulp build and pulp run commands so we see only our application output ?

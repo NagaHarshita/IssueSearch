@@ -1,0 +1,1 @@
+ URL : "https://github.com/marcbachmann/node-html-pdf/issues/280" TITLE : add tm special character BODY : i want to add tm trademark symbol to pdf. i tried these codes - &trade; / alt+0153 . in html it shows correctly. but when it generate the pdf, it is not working. it shows a ? mark.

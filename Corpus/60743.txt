@@ -1,0 +1,1 @@
+ URL : "https://github.com/ket4yii/docker-php-censor/issues/1" TITLE : add docker-compose file BODY : docker compose file with mariadb, beanstalkd, nginx, phpcensor and workers to start it easily.

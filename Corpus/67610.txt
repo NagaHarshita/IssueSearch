@@ -1,0 +1,1 @@
+ URL : "https://github.com/asterite/rufo/issues/73" TITLE : proc { | w, x, y , z| } BODY : ruby proc { | w, x, y , z| } expected token on_rparen, not on_comma at 1, 14 , :on_comma, ,

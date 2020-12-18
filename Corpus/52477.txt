@@ -1,0 +1,1 @@
+ URL : "https://github.com/leoschwarz/jpeg2000-rust/issues/1" TITLE : color profile handling BODY : some conversions like cmyk → rgba will probably require color profiles. maybe the following crate could be used here: https://github.com/pornel/rust-lcms2

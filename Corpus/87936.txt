@@ -1,0 +1,1 @@
+ URL : "https://github.com/jwilsson/spotify-web-api-php/issues/70" TITLE : method for audio analysis BODY : would be great to have a method for audio analysis - https://developer.spotify.com/web-api/console/get-audio-analysis-track. i've already implemented this in my local copy. let me know if it fits the scope. cheers. craig

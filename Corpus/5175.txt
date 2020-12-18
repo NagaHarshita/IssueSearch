@@ -1,0 +1,1 @@
+ URL : "https://github.com/ChristianNguyendinh/cs-upper-level-registration-stats/issues/5" TITLE : make front end BODY : - d3 graph prolly wont need react, can just use d3 transitions - home page - search page - viewing data page - about page

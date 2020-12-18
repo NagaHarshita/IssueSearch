@@ -1,0 +1,1 @@
+ URL : "https://github.com/oskarjakiela/trello-web-clipper/issues/7" TITLE : add multiprocess support BODY : this addon no longer works in nightly 56, please add e10s support :

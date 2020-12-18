@@ -1,0 +1,1 @@
+ URL : "https://github.com/mbullington/yellowstone/issues/10" TITLE : h264 tcp decoder BODY : in addition to improve the library we could develop a h264 video decoder from rtp-packages. this method of deccoding from rtp-packages is very commom in ip-cameras and is very difficult to find a solution for nodejs imposible

@@ -1,0 +1,1 @@
+ URL : "https://github.com/piwik/piwik/issues/11313" TITLE : bug with and key word BODY : hello, if you have word and in action like that piwik.php?action_name=test%20and%20foobar test and foobar is title of your web page in html title tag you will get a acces denied to piwik.php file and no track for your page or website !!!! debug with console browser in firefox

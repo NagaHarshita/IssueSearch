@@ -1,0 +1,1 @@
+ URL : "https://github.com/jaruesink/buckets2/issues/13" TITLE : issue with getting configs BODY : running yarn test_server errors within server trying to get a config setting.

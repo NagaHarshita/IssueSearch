@@ -1,0 +1,1 @@
+ URL : "https://github.com/asyncapi/asyncapi/issues/23" TITLE : python 2.7 code generator BODY : in many enterprise environments there are restrictions on what agents can be written in… sometimes node.js isn't allowed.

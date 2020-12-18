@@ -1,0 +1,1 @@
+ URL : "https://github.com/frictionlessdata/specs/issues/379" TITLE : hash should be an object BODY : we currently support a special prefixing on the hash to declare hashing algorithms the are not md5. however, we are moving away from this type of overloading in most all places in the spec. so, i suggest: hash : { type : md5 , value : {hash} }

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jwzabrenski/recall-search/issues/2" TITLE : make cpscclient singleton BODY : - make instance of client static - check and handle if null instance reference http://stackoverflow.com/questions/41672427/how-to-make-a-singleton-for-retrofit-2

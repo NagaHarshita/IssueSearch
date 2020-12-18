@@ -1,0 +1,1 @@
+ URL : "https://github.com/gagern/node-libtidy/issues/21" TITLE : prepare for libtidy 5.6 BODY : @gagern hello there. libtidy is targeting next 5.6 release to late november, so i made a branch https://github.com/gagern/node-libtidy/compare/master...jokester:towards-libtidy-5.6 in case we want to follow up. will add more commits if i found necessary.

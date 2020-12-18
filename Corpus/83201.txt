@@ -1,0 +1,1 @@
+ URL : "https://github.com/HeapsIO/heaps/issues/255" TITLE : building app for hashlink BODY : error: file src/generators/genhl.ml , line 557, characters 30-36: assertion failed hl.hxml: -hl out/main.hl -cp src -lib hlsdl -lib heaps -main game.main -d windowsize=1024x768 any ideas?

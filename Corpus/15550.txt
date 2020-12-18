@@ -1,0 +1,9 @@
+ URL : "https://github.com/Zimmi48/bugzilla-test-2/issues/1140" TITLE : error in makefile BODY : note: the issue was created automatically with bugzilla2github tool original bug id: bz 1140
+date: 2006-04-14 16:57:39 +0200
+from: virgile.prevosto@m4x.org
+reported version: 8.1 last updated: 2006-04-14 16:57:39 +0200 virgile.prevosto@m4x.org on 2006-04-14 16:57:39 +0200 full_name: virgile prevosto
+version: 8.0pl3
+os: linux debian etch submission from: dhcp-rocq-36.inria.fr 128.93.62.36 i'm trying to compile coq with profiling enabled ./configure -profile . apparently, the bin/parse$ exe target of the makefile line 675 provides the
+wrong option to ocamlc optflags instead of byteflags . with this change,
+everything compiles fine.
+-- virgile. virgile.prevosto@m4x.org on 2007-07-04 17:04:08 +0200 corrigé r8646

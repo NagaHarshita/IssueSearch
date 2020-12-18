@@ -1,0 +1,1 @@
+ URL : "https://github.com/mpolednik/script.kodi.hue.ambilight/issues/87" TITLE : 4k hdr movies don't work BODY : we have to turn off hardware acceleration surface in order to use ambilight on videos, but without this option, 4k hdr movie don't work. can i hope a fix soon? thaaaaaaaaaaanks :

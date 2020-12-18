@@ -1,0 +1,1 @@
+ URL : "https://github.com/good-idea/react-svg-components-generator/issues/1" TITLE : config: filename extension BODY : add config option for suffix. e.g.: componentsgenerator { svgsrcdir: path.join __dirname, '../svg' , componentdestdir: path.join __dirname, '../src/components/icons/' , filenameextension: '.web.js' } filenameextension: '.jsx' converts icon.svg to icon.jsx

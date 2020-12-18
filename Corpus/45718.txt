@@ -1,0 +1,1 @@
+ URL : "https://github.com/hazelcast/hazelcast-simulator/issues/1518" TITLE : init.sh not triggered BODY : when ec2 nodes are started, the init.sh isn't loaded. one of the loose ends after dropping jclouds

@@ -1,0 +1,1 @@
+ URL : "https://github.com/regular/html-terminal/issues/12" TITLE : tmux steals apc BODY : tmux interprets the apc sequence and uses its payload for the title in the tmux bar. we need to find another magic sequence.

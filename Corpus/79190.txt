@@ -1,0 +1,1 @@
+ URL : "https://github.com/jsdom/whatwg-url/issues/108" TITLE : safari can't load url.js BODY : safari in macos high sierra and ios 11.02 13604.1.38.1.6 fails. issue is webkit, but workaround needs to be applied to webidl2js and a new version of whatwg-url built . see https://github.com/jsdom/webidl2js/issues/78.

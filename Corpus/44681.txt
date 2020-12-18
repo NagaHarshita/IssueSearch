@@ -1,0 +1,1 @@
+ URL : "https://github.com/ProgramFOX/Chess.NET/issues/10" TITLE : fix automated testing BODY : it broke after the update to .net standard.

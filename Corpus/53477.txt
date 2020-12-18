@@ -1,0 +1,1 @@
+ URL : "https://github.com/rails/rails-perftest/issues/41" TITLE : drop ruby 1.9 support? BODY : new rails-perftest travis builds for ruby 1.9 are failing due to dependencies that have dropped ruby 1.9 support. ruby 1.9 was eoled in feb of 2015. https://www.ruby-lang.org/en/news/2014/01/10/ruby-1-9-3-will-end-on-2015/ should rails-perftest drop ruby 1.9 support?

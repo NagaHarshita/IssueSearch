@@ -1,0 +1,1 @@
+ URL : "https://github.com/igagis/morda/issues/109" TITLE : rewise table container BODY : consider adding its own layout parameters and get rid of layout parameters substitution. image keepaspectratio currently does not work in table for some reason.

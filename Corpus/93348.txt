@@ -1,0 +1,1 @@
+ URL : "https://github.com/rhtconsulting/ansible-redhat_satellite6/issues/3" TITLE : add satellite_storage role BODY : need a role for configuring storage on a satellite server or capsule

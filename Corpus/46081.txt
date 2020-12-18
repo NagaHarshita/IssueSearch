@@ -1,0 +1,1 @@
+ URL : "https://github.com/mrmin123/kancolle-auto/issues/293" TITLE : lbas assignment hangs BODY : i've been encountering it today and behavior was confirmed by @tigurand and @waicool20 in 274 most likely a timer issue.

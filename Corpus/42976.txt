@@ -1,0 +1,1 @@
+ URL : "https://github.com/ladybug-tools/honeybee-server/issues/1" TITLE : change license to gpl BODY : this project cannot be mit as it's using honeybee's source code which is gpl.

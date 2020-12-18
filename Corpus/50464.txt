@@ -1,0 +1,1 @@
+ URL : "https://github.com/mikedanese/gazel/issues/23" TITLE : --root causing trouble BODY : bash $ go get -u gopkg.in/mikedanese/gazel.v10/gazel $ gazel $ gazel --root . $ gazel --root ${pwd} wrote /home/me/go/src/foo/bar/build wrote foo/bar/build

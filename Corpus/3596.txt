@@ -1,0 +1,1 @@
+ URL : "https://github.com/ZooeyMiller/phoenix-elixir-todos/issues/15" TITLE : set up travis BODY : we want to use travis for ci, but this is our first phoenix project! :open_mouth: gotta work out how to set it all up.

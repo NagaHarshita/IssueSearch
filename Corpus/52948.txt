@@ -1,0 +1,1 @@
+ URL : "https://github.com/brownieboy/react-bootstrap-slider/issues/22" TITLE : css missing from dist/ BODY : hi, not sure how it's suppose to work, but the docs mention bootstrap-slider/dist/css/bootstrap-slider.min.css which doesn't exist if i install it from npm.

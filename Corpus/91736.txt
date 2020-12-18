@@ -1,0 +1,1 @@
+ URL : "https://github.com/valentiniliescu/RegexWB/issues/1" TITLE : untested code in the view BODY : there is a lot of untested code in the view form1.cs . the view should be dumb, the existing functionality should be moved in a view-model of the mvvm/presentation model pattern and unit tested.

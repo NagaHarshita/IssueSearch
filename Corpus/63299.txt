@@ -1,0 +1,1 @@
+ URL : "https://github.com/mhulse/slimple/issues/7" TITLE : doc: cache folder perms BODY : make note of cache directory for templates dir. it may need write perms on your server.

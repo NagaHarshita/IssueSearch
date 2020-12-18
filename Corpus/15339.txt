@@ -1,0 +1,1 @@
+ URL : "https://github.com/returncode13/Scar/issues/42" TITLE : delete node links BODY : it should be possible to delete a link between nodes. no we can’t just delete a node, we may already have done significant work with it.

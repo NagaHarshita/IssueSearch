@@ -1,0 +1,1 @@
+ URL : "https://github.com/jplhomer/laravel-realtime-chat-demo/issues/1" TITLE : migrate not working BODY : when i migrate the database it gives error sqlstate 42000 : syntax error or access violation: 1071 specified key was too long; max key length is 767 bytes

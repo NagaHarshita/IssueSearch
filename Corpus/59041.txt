@@ -1,0 +1,4 @@
+ URL : "https://github.com/a-kolomiets/CraftProduct/issues/194" TITLE : talk right panel logic BODY : - talk panel is available from all sections of the app
+- show all items with auto loading scroller
+- show unread and read status per message
+- show messages from new to old, regardless of the items they belong to

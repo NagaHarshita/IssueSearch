@@ -1,0 +1,1 @@
+ URL : "https://github.com/nydailynews/custom-404/issues/7" TITLE : deploy to prod BODY : by this point we'll know where the files go, you'll need to either symlink ln -s file path-to-where-it-goes or figure out another way of getting the 404 page from its repo to the place it needs to be.

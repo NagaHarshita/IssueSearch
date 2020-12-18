@@ -1,0 +1,1 @@
+ URL : "https://github.com/sameersbn/docker-redmine/issues/252" TITLE : create issues from email. BODY : how can i change option for unknown-user? in documentation is written that i need to change this option unknown_user= ignore|accept|create but i cant find it.

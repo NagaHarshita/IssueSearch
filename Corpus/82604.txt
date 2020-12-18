@@ -1,0 +1,1 @@
+ URL : "https://github.com/rancher/rancher/issues/7544" TITLE : allow export of audit log BODY : i use splunk heavily, it would be nice to be able to have rancher send the audit logs to an http receiver or write them to a file so it can be consumed by splunk.

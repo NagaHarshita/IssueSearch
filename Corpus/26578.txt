@@ -1,0 +1,1 @@
+ URL : "https://github.com/dwpark1112/playframework/issues/4" TITLE : bound off the walls BODY : simple collision detection canvas 내를 벗어나면 좌표값을 변경해주어서 canvas 바운더리 내에서 공이 튕기도록 구현

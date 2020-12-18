@@ -1,0 +1,1 @@
+ URL : "https://github.com/dpc/rdedup/issues/121" TITLE : implement blake2 BODY : some clever people are using it, and it seems to be fast, so why not? https://blake2.net/ https://crates.io/crates/blake2

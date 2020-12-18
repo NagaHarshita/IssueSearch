@@ -1,0 +1,1 @@
+ URL : "https://github.com/iaslab-unipd/rgbd_calibration/issues/8" TITLE : run without kinect BODY : hi, i am working with your calibration on intel realsense camera. i am wondering if the program work independently with collected data. also, is there a more detailed install/run instruction to follow?

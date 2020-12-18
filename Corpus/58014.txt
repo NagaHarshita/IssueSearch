@@ -1,0 +1,1 @@
+ URL : "https://github.com/sylvinus/sketchfiddle/issues/1" TITLE : review iframe security BODY : cookies are already httponly, but what other issues can we have by hosting arbitrary js ?

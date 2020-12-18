@@ -1,0 +1,1 @@
+ URL : "https://github.com/elliotchance/c2go/issues/121" TITLE : maintain comments in go BODY : all of the comments are currently discarded when generating the go output. this might be useful: https://stackoverflow.com/questions/25275212/how-to-extract-comments-and-match-to-declaration-with-recursiveastvisitor-in-lib

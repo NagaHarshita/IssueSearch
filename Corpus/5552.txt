@@ -1,0 +1,1 @@
+ URL : "https://github.com/michaelcheers/TypescriptToCS2/issues/2" TITLE : q: how to use? BODY : hi, i have converted a typescript file with your tool. it produces something like: system.double this system.double index { template {this} {index} get; template {this} {index} set; } but i don't understand what to do next with this code? thx, sven

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ludovic-gonthier/snowshoe/issues/54" TITLE : feature: filter by topic BODY : instead of filtering by team, it would be useful to allow filtering by topics. i don't think it would be useful to to both, so it could be a switch. filtering by team can be a hassle if the organization doesn't use it to group projects, but people.

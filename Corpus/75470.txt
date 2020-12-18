@@ -1,0 +1,1 @@
+ URL : "https://github.com/velvetreactor/postapocalypse/issues/40" TITLE : hold rows in redux state BODY : right now, rows returned from the server are being held in the rows component state they must be held in redux state because other components need information that they hold

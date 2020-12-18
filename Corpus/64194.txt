@@ -1,0 +1,1 @@
+ URL : "https://github.com/drdoctr/doctr/issues/213" TITLE : flag to do a force push BODY : someone might want it, e.g., if there is a worry that the docs could blow up the repo size. shouldn't be the default, though, because there are nice advantages to having the history like you can easily revert commits to gh-pages . i probably won't implement it, but i'll accept a pr for it.

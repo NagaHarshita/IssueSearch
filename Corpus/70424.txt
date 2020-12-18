@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/vscode-vsce/issues/222" TITLE : vsce show prints __tags BODY : repo 1. run vsce show cristianrengifo.informix4gl bug the following tags are printed: __ext_4gl, __ext_per, 4gl, informix, informix 4gl i don't know where these double underscore tags are coming from. here's the package.json on the marketplace:

@@ -1,0 +1,1 @@
+ URL : "https://github.com/luoyt/issues/issues/16" TITLE : php ajax 跨域问题 BODY : ajax跨域请求 header access-control-allow-origin: header access-control-allow-headers:origin, x-requested-with, content-type, accept,user_id,token header access-control-allow-methods:head, get, post, delete, put, options

@@ -1,0 +1,1 @@
+ URL : "https://github.com/01org/clDNN/issues/8" TITLE : many disabled tests BODY : i am using the following variables to enable some tests: -dcldnn__run_tests:bool=on -dcldnn__include_tests:bool=on about 125 tests pass, but there is a warning that more than 1000 tests have been disabled. what is the reason?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/w3c/webrtc-pc/issues/1312" TITLE : clarify ' trusted origins' BODY : from https://lists.w3.org/archives/public/public-webrtc/2016sep/0071.html what is a trusted origins”. this note needs to be updated occurs in fingerprinting mitigation text for getdefaulticeservers. assigning to @dontcallmedom .

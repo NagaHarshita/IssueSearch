@@ -1,0 +1,1 @@
+ URL : "https://github.com/M-Zuber/npm-watch/issues/51" TITLE : quiet nodemon BODY : it is possible to hide taskname prefix with quiet: true . is it possible to hide rows with nodemon ?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/CartoDB/cartodb/issues/11652" TITLE : improve loaders visibility BODY : improve the visibility of the loader mainly when is over the map. related - https://github.com/cartodb/design/issues/601 2px height -> notification and widget loader. 3px height -> map loader. framer - https://framer.cloud/pvdcy/

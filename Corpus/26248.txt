@@ -1,0 +1,1 @@
+ URL : "https://github.com/uTeach/uteach-android/issues/6" TITLE : agregar leak canary BODY : agregar leak canary y strict mode para chequear que no la este bardeando con ningun observer/observable

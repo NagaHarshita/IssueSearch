@@ -1,0 +1,1 @@
+ URL : "https://github.com/Limpan/bytardag/issues/18" TITLE : duplicate seller ids BODY : seller ids are not generated in an atomic fashion.

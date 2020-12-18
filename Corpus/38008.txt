@@ -1,0 +1,1 @@
+ URL : "https://github.com/mpv-player/mpv/issues/4960" TITLE : no config file found BODY : mpv 0.27 macos 10.12.6 everytime i press cmd-, i get a message saying no config file found .... is this normal? are there no gui preferences?

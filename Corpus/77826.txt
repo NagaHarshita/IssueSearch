@@ -1,0 +1,1 @@
+ URL : "https://github.com/cadeyrn/bookmarks-organizer/issues/15" TITLE : offset and limit support BODY : investigate if it's possible and a good idea to implement options for offset and limit. for example: check 200 bookmarks, starting from bookmark 420.

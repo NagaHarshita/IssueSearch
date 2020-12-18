@@ -1,0 +1,1 @@
+ URL : "https://github.com/kovidgoyal/kitty/issues/125" TITLE : copy text on select BODY : hello, first of all, thank you for kitty and especially for focusing on performance. does kitty have some sort of a plugin system? i've come to rely on copy text upon selection feature found in some terminals. would it be possible to implement something like that in kitty ?

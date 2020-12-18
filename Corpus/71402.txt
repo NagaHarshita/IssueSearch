@@ -1,0 +1,1 @@
+ URL : "https://github.com/RestComm/Restcomm-Connect/issues/2545" TITLE : add forking to p2p calls BODY : rc uses only first found sip registration for further call processing: https://github.com/restcomm/restcomm-connect/blob/dd095d8563be171575cf9b8ba998af0b40c13d0d/restcomm/restcomm.telephony.api/src/main/java/org/restcomm/connect/telephony/api/util/b2buahelper.java l106

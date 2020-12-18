@@ -1,0 +1,1 @@
+ URL : "https://github.com/major/MySQLTuner-perl/issues/336" TITLE : no ndb engine analysis BODY : my engine is ndbcluster, why there is no ndbcluster metrics, hope add it ! image https://user-images.githubusercontent.com/16321067/28148884-1408cf66-67bc-11e7-910b-f3b0fd825e1a.png

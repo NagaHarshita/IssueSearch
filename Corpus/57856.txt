@@ -1,0 +1,1 @@
+ URL : "https://github.com/spring-projects/spring-shell/issues/184" TITLE : rename main @qualifier BODY : having @bean @qualifier main public resulthandler<?> mainresulthandler { return new typehierarchyresulthandler ; } i think main is a little too common name to be used in autowiring. maybe just create mainresulthandler as a global static variable and then use that.

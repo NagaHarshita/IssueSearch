@@ -1,0 +1,1 @@
+ URL : "https://github.com/thumbsupapp/thumbsupapp/issues/54" TITLE : use graphql to fetch data BODY : right now tua uses rest api to access the repo data, but the data format isn't consistent i.e. pr list doesn't have merged field on a pr while pr get has it. another example is a pr in the form of an issue which doesn't have pr-specific fields.

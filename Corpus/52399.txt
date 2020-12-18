@@ -1,0 +1,1 @@
+ URL : "https://github.com/prettier/prettier/issues/2544" TITLE : cli not doing anything BODY : having prettier as a command in package.json > prettier : prettier --single-quote --write 'src/ / .scss' running command doesn't do anything, no errors given prettier is installed as dev dependency today node 6.x lts version.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/GreaterMKEMeetup/slack-integrations-api/issues/13" TITLE : attachment - fields BODY : see fields section https://api.slack.com/docs/message-attachments fields : { title : priority , value : high , short : false }

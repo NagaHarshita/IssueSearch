@@ -1,0 +1,1 @@
+ URL : "https://github.com/willdzeng/zed_cpu_ros/issues/6" TITLE : change frame rate BODY : hi. i am trying to change the frame rate, but i always get the error vidioc_querymenu: invalid argument is there any restriction about going over 30 fps even for wvga? because i had no problems lowering the fps, but i cannot go over 30. thanks!

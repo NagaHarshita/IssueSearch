@@ -1,0 +1,1 @@
+ URL : "https://github.com/wrdsb/wordpress-theme-stswr/issues/40" TITLE : alter .register code BODY : div.register { background-color: ffa700; } div.register:hover { -webkit-box-shadow: -5px -5px -20px 7px rgba 122,193,67,1 ; -moz-box-shadow: -5px -5px -20px 7px rgba 122,193,67,1 ; box-shadow: -5px -5px -20px 7px rgba 122,193,67,1 ; }

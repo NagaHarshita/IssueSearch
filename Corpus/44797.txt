@@ -1,0 +1,1 @@
+ URL : "https://github.com/usgs/landslides-post-wildfire-debris-flow/issues/73" TITLE : fix xss vulnerability BODY : objectid should be sanitized before it is output, otherwise a malicious user can execute arbitrary javascript: https://github.com/usgs/landslides-post-wildfire-debris-flow/blob/master/src/htdocs/detail.php l18

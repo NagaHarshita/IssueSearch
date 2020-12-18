@@ -1,0 +1,1 @@
+ URL : "https://github.com/parsingdata/metal/issues/140" TITLE : use default methods BODY : specifically for the parseitem methods such as isgraph , etc.

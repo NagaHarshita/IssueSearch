@@ -1,0 +1,1 @@
+ URL : "https://github.com/Anviking/Decodable/issues/150" TITLE : xcode 9 build warnings BODY : there are a few warnings when building in xcode 9 to do with void vs. when passing in functions as arguments. this should be fixed by pr 149

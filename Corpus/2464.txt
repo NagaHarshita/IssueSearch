@@ -1,0 +1,1 @@
+ URL : "https://github.com/python/devguide/issues/172" TITLE : add pdf build BODY : we currently have an html zip that is downloadable from readthedocs. it would be helpful to also build and offer a pdf for download. possibly epub too.

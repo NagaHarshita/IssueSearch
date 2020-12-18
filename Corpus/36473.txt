@@ -1,0 +1,1 @@
+ URL : "https://github.com/stuartalexwhitehead/api.stuart.is/issues/7" TITLE : hook up coveralls.io BODY : coverage reports are created for every test run. they should be hooked up to coveralls to expose test coverage, not just on ci logs.

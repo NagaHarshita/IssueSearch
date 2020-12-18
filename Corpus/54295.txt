@@ -1,0 +1,1 @@
+ URL : "https://github.com/peterolson/BigInteger.js/issues/117" TITLE : flow type definitions? BODY : i see there are typescript definitions for this module, but no flow type definitions. would it be possible to add some? they should be extremely similar to the typescript ones. if there is interest but no time i can try to do it myself, but i am new to all of this.

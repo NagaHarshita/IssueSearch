@@ -1,0 +1,1 @@
+ URL : "https://github.com/evgenyrodionov/redux-logger/issues/253" TITLE : disable diff colours BODY : hey, looking at the diff code, it doesnt seem possible to disable the styling of the diffs in the same way that you can with the other things that are logged. are you planning on implementing this in a future release?

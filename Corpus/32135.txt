@@ -1,0 +1,1 @@
+ URL : "https://github.com/outbrain/Leonardo/issues/153" TITLE : try to remove synon BODY : causes issues: 1 webpack cant easily import leonardojs

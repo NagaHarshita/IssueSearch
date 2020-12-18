@@ -1,0 +1,1 @@
+ URL : "https://github.com/craftcms/store-hours/issues/15" TITLE : feature request isopen BODY : would be great to have a isopen filter we could test against... right now i'm doing this: {{ location.hours now|date 'w' .open < now and location.hours now|date 'w' .close > now ? 'open now' : 'closed' }} which works but really messes up my template ;

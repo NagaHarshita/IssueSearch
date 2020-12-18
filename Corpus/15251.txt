@@ -1,0 +1,1 @@
+ URL : "https://github.com/Mursaat/AnimatedGradientTextView/issues/3" TITLE : customize max fps BODY : allow the user to customize the max fps of the gradient text including reducing the fps. currently, the fps is set to 60 which demands massive cpu usage. reducing the fps to 30 or 24 could cut the cpu usage by half.

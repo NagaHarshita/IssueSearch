@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/AirSim/issues/442" TITLE : error in droneshell BODY : when i use the computer vision mode and typing the requestcontrol in droneshell cmd , the airsim will hit breakpoint. the breakpoint message shown remotecontrol switch position disallows api control

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Fizzadar/Kanmail/issues/2" TITLE : thread display tweaks BODY : + move date to right + show folder each message is from + don't list _all_ recipients if many by default + hide, not remove, quotes + capture osx mail quotes on . wrote: + show cc/bcc/etc information + auto scroll to latest message on open/load

@@ -1,0 +1,1 @@
+ URL : "https://github.com/dhilt/dharmadict/issues/21" TITLE : api remove term BODY : нужен новый метод на сервере delete /api/terms/:id только админ может им пользоваться. он вызывает removebyid на контроллере terms. к нему нужна deletetermspec. там, помимо проверок, должно производиться удаление всех тестовых терминов. спека вызывается предпоследней в списке mocha.opts .

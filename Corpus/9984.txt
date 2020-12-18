@@ -1,0 +1,1 @@
+ URL : "https://github.com/dspautz/OpenSML/issues/2" TITLE : add unit lookup? BODY : hey, thought further on possible additions to the library. what do you think on a unit lookup - means a mapping table from unit number to the real unit like kwh or such. plus the relevant supporting functions in the relevant classes. would you see that as a part of your library? ingo f

@@ -1,0 +1,1 @@
+ URL : "https://github.com/erquhart/bilt/issues/3" TITLE : skip inline scripts BODY : inline scripts probably cause an error right now. they should be skipped.

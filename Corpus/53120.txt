@@ -1,0 +1,1 @@
+ URL : "https://github.com/bedita/bedita/issues/1379" TITLE : default property types BODY : - define core property_types to be inserted via migrations like: string , int , float , bool , date - implement correct type association for static properties

@@ -1,0 +1,1 @@
+ URL : "https://github.com/spencergibb/spring-cloud-gateway/issues/10" TITLE : add more filters BODY : - x add request header - x add response header - set request header - set response header

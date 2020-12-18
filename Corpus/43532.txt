@@ -1,0 +1,1 @@
+ URL : "https://github.com/Arcada-Devops-2017/auth/issues/1" TITLE : create users database BODY : database auth tables: users, tokens |------------------------------------------------------------| id : auto increment username : email fname lname passwd: hash encrypted |------------------------------------------------------------| token: random string

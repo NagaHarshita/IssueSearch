@@ -1,0 +1,1 @@
+ URL : "https://github.com/ricardomv/snapper-gui/issues/26" TITLE : sort by date BODY : for some reason i'm unable to sort by date, the seems to be no click-event when hitting the date header. all other headers , user, description can be sorted by without problem. version: 0.1.r4.gceb2443-1 arch/manjaro linux

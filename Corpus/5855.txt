@@ -1,0 +1,1 @@
+ URL : "https://github.com/Image-Py/imagepy/issues/12" TITLE : testing and ci BODY : would be good to have some unit tests and regression tests. also would be good to setup ci. probably travis ci for linux would be a good start. happy to provide more pointers if needed.

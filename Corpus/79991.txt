@@ -1,0 +1,1 @@
+ URL : "https://github.com/ruimarinho/bitcoin-core/issues/40" TITLE : support multiple wallets BODY : reference: https://github.com/bitcoin/bitcoin/blob/master/doc/release-notes/release-notes-0.15.0.md multi-wallet-support we should enable support for multiple wallets.

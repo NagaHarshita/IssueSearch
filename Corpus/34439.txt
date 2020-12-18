@@ -1,0 +1,1 @@
+ URL : "https://github.com/GilHyeon/SimpleBlog/issues/1" TITLE : change to springboot BODY : 프로젝트 구조를 스프링부트로 바꾸는게 좋을 것 같다. 같이 진행할 사항 - front-end 라이브러리를 메이븐에 통합. - 스프링 시큐리티 적용 - thymeleaf 적용

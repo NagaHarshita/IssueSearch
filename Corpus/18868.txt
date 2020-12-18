@@ -1,0 +1,1 @@
+ URL : "https://github.com/redox-os/ralloc/issues/57" TITLE : use mmap over brk BODY : use mmap over brk for the memory allocation from the system. advantages: allows us to return allocated memory more freely to the system sbrk/brk is deprecated on macos a wrapper/shim/polyfill would allow us to use this on brk-only systems ? disadvantages: ? 41

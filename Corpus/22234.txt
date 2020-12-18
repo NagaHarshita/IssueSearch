@@ -1,0 +1,1 @@
+ URL : "https://github.com/PainterQubits/Devices.jl/issues/31" TITLE : introduce render ? BODY : it would be nice to be able to use render methods without introducing a cell, just to get the raw polygons. perhaps something like r = rectangle 10µm, 10µm plgs = render r, rectangles.rounded 2µm

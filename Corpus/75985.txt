@@ -1,0 +1,1 @@
+ URL : "https://github.com/AdamNEvans/colorSortingEA/issues/2" TITLE : improve fitness function BODY : improve the fitness function to take into more color spaces than just rgb

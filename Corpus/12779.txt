@@ -1,0 +1,1 @@
+ URL : "https://github.com/statgen/pheweb/issues/66" TITLE : rsids, no chr:bp BODY : for association results with rsid only, add a script to map the variants to chr:bp b37 .

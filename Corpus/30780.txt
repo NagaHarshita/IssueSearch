@@ -1,0 +1,1 @@
+ URL : "https://github.com/jeremybrooks/SuprSetr/issues/7" TITLE : random order issues BODY : random order for limited size sets is not very random, because the set is sized before it is shuffled. ensure that shuffle happens before sizing the set.

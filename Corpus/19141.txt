@@ -1,0 +1,1 @@
+ URL : "https://github.com/dokeeffe/cloud-rain-monitor/issues/5" TITLE : wrong time logged BODY : noticed that the time stamp isn't being recorded correctly. root@heidenrod-obs:/home/cloud_rain date tue aug 22 21:01:20 cest 2017 http: { readingtimestamp : 2017-08-22 19:00:26 , outsidetemp : 16.99, skytemp : 4.71, rain : false}

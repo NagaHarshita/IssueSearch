@@ -1,0 +1,1 @@
+ URL : "https://github.com/speckleworks/SpeckleCore/issues/13" TITLE : query strings get escaped BODY : resulting in no returns as the server fails to parse them properly.

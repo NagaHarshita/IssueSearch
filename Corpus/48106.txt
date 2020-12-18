@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpenC2-org/OrchID/issues/3" TITLE : removal of .pyc files BODY : small suggestion: remove the bytecode with find . -name \ .pyc -delete and then set .pyc in a .gitignore file so the build artefacts are not checked in.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/aleivag/pegparsing/issues/6" TITLE : fix weird thing BODY : on pegparsing/tests/test_real_world/test_group_deps.py this does not work https://github.com/aleivag/pegparsing/blob/fa82076a7918fa6f52c514b9850f0fc521cc6a4d/tests/test_real_world/test_group_deps.py l13-l16

@@ -1,0 +1,1 @@
+ URL : "https://github.com/stefanprodan/AspNetCoreRateLimit/issues/20" TITLE : read x-rate headers BODY : hi, is there any option to read x-rate-limit , x-rate-limit-remaining, x-reset-limit-reset fields from httpcontext response headers ?

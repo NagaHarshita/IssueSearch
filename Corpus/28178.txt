@@ -1,0 +1,1 @@
+ URL : "https://github.com/jdberry/tag/issues/29" TITLE : find invisible tags BODY : according to the readme: the --all, --enter, and --recursive options apply to --add, --remove, --set, --match, and --list i need to --find invisible tags. is there a workaround for this?

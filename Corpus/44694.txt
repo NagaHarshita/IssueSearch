@@ -1,0 +1,1 @@
+ URL : "https://github.com/alexcrichton/toml-rs/issues/139" TITLE : fix clippy complaints BODY : i tried running cargo clippy against the serde-upgrade branch and it flags 33 things.

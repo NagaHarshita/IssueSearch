@@ -1,0 +1,1 @@
+ URL : "https://github.com/material-motion/material-motion-swift/issues/58" TITLE : add operator debugbreak BODY : debugbreak { value in print value // <- breakpoint here }

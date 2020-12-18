@@ -1,0 +1,1 @@
+ URL : "https://github.com/kosen13s/tiny/issues/23" TITLE : infomation from syntaxtree BODY : now, syntaxtree discards the information of token kind e.g. literal . semantics parsing will use it.

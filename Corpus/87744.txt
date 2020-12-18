@@ -1,0 +1,1 @@
+ URL : "https://github.com/jouni-kantola/razor-partial-views-webpack-plugin/issues/5" TITLE : make rules config lighter BODY : currently quite a lot of configuration can be done when using templated-assets-webpack-plugin . make this lighter, rather reference the base plugin in the readme, for more advanced configurations.

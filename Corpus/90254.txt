@@ -1,0 +1,2 @@
+ URL : "https://github.com/andreoliwa/python-dontforget/issues/91" TITLE : search command for chores BODY : - /search command in 2 steps, like the /add command
+- single argument: the search term to be used with like - review the existing method to search similar chores

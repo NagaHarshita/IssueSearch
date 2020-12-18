@@ -1,0 +1,1 @@
+ URL : "https://github.com/facebook/MemNN/issues/4" TITLE : running the model BODY : would it be possible to provide some more details about how to train/run the model and what output to expect? for example what will running the script th online_simulate.lua params produce and how long should it run for?

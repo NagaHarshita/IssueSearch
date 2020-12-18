@@ -1,0 +1,1 @@
+ URL : "https://github.com/spring-cloud-samples/spring-cloud-contract-samples/issues/22" TITLE : acknowledgment to producer BODY : is there a way to notify producer that the contract has failed for some of his consumers for some reason some this which cannot be modified from consumer side main idea is to know all client failure reasons to initiate a discussion

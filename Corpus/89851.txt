@@ -1,0 +1,1 @@
+ URL : "https://github.com/vnebelung/ProDisFuzz-Main/issues/44" TITLE : remove unnecessary thread BODY : remove thread in model used to update the gui.

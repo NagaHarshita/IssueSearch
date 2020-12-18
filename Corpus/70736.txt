@@ -1,0 +1,1 @@
+ URL : "https://github.com/GalliumOS/galliumos-distro/issues/341" TITLE : xfs filesystem support? BODY : the latest galliumos 2.0 seems to be missing the xfs filesystem support. it's supported in most other popular linuxes, including ubuntu, so the omission here seems like a bug. would it be possible to include the xfs module in the future config_xfs_fs=m ?

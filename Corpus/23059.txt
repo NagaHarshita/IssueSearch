@@ -1,0 +1,1 @@
+ URL : "https://github.com/gramk/chrome-hls/issues/3" TITLE : no captions button BODY : when playing subtitled hls streams with 0.7.3 first hlsjs supporting them , only streams with forced=yes in their manifest will show captions. any available non-forced subtitles for other languages cannot be selected by using a captions button in the control bar.

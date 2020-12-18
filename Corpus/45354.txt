@@ -1,0 +1,1 @@
+ URL : "https://github.com/davidedc/Algebrite/issues/52" TITLE : how to use printlatex BODY : hey i am using this library included from src not with node js or anything. i am trying to figure out how to use the method printlatex but as here i alwayse get nil : console.log algebrite.printlatex 'a+b=c' .tostring ; how to use this function? best markus

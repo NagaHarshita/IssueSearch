@@ -1,0 +1,1 @@
+ URL : "https://github.com/Mister4Eyes/RandomTF2Loadout/issues/10" TITLE : add a change class thing. BODY : i have no clue how this would happen but add some sort of thing where you can lock the randomized load out to one class. tools available. post a changeclass varible. it takes a number 0-9 0-8 represents scout to spy respectivly, 9 is random. 9 is default.

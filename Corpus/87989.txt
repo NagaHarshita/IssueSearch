@@ -1,0 +1,1 @@
+ URL : "https://github.com/behcets-tracker/tracker-web/issues/2" TITLE : minimum feature: symptoms BODY : - create symptoms routes /symptoms , /symptoms/:id , /symptoms/:id/edit , /symptoms/new - creating a symptom has these inputs: - description - name: - question can be many - ability to delete a symptom - ability to edit a symptom - ability to see a symptoms details

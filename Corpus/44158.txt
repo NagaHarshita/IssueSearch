@@ -1,0 +1,1 @@
+ URL : "https://github.com/litecoin-project/p2sh-convert/issues/4" TITLE : empty example address BODY : hello, can you please delete the example address, or at least make some option without it? we are linking this convertor in trezor web wallet and our customers are sending funds there by mistake.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/madebyatomicrobot/android-starter-project/issues/46" TITLE : cleanup proguard rules BODY : there are some of these that i think we can back off on to get to a simpler configuration.

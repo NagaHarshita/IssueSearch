@@ -1,0 +1,1 @@
+ URL : "https://github.com/teknologkoren/Strequelistan/issues/8" TITLE : fix timezone support BODY : _from @alge on february 17, 2017 17:36_ to fix the runtime warnings of using native timestamps while timezone support is enabled _copied from original issue: alge/strecklista 63_

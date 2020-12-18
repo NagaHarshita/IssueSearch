@@ -1,0 +1,1 @@
+ URL : "https://github.com/wix/wix-react-components/issues/12" TITLE : birth date picker BODY : tsx <birthdatepicker value={this.mybirthday} onchange={value => this.mybirthday = value} mindate={new date '1.1.1917' } maxdate={new date }/>

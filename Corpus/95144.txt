@@ -1,0 +1,1 @@
+ URL : "https://github.com/Creepsky/creepMiner/issues/221" TITLE : cpuinstructionset in arm64 BODY : hi, i compile it with -dno_gpu=on -dminimal_build=on.. i'm running in arm64 system, with config: processortype : cpu cpuinstructionset : sse2 , i see it no issue.. do i configure right or wrong ?

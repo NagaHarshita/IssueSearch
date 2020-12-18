@@ -1,0 +1,1 @@
+ URL : "https://github.com/IBMDataScience/DSx-Desktop/issues/48" TITLE : dockerfile for dsx? BODY : would it be possible to publish your dockerfile for this environment to docker hub? i think others could definitely benefit from this, so that we could see what the script is doing, and have an easier time trying to debug what is happening. thanks.

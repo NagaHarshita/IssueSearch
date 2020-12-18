@@ -1,0 +1,1 @@
+ URL : "https://github.com/bkaradzic/bx/issues/134" TITLE : ios build error BODY : there is a minor build error in the latest bx in mutex.h you forget to add bx_platform_ios to the posix thread include at line 16: if bx_platform_nacl || bx_platform_linux || bx_platform_android || bx_platform_osx || bx_platform_ios

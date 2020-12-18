@@ -1,0 +1,10 @@
+ URL : "https://github.com/Zimmi48/bugzilla-test-2/issues/1134" TITLE : pb de noms ... BODY : note: the issue was created automatically with bugzilla2github tool original bug id: bz 39
+date: 2001-06-27 16:08:27 +0200
+from: clement.renard@inria.fr
+reported version: 8.1 last updated: 2001-06-27 16:08:27 +0200 clement.renard@inria.fr on 2001-06-27 16:08:27 +0200 full_name: clement renard
+version: 7.0 cvs os: linux
+submission from: oto.inria.fr 192.93.2.2 submitted by: clrenard un probleme entre noms longs et noms courts qui va peut-etre etre
+obsolete bientot mais je sais pas d'ou ca vient. section li. variable a:set. inductive liste : set :=
+| vide : liste
+| c : a -> liste -> liste. inductive e : a -> liste -> prop := | ec : x:a l:liste e x c x l | ee : x,y:a l:liste e x l -> e x c y l . definition same := l,m:liste x:a e x l <-> e x m . end li. coq < lemma t1 : a:set l,m: scratch.li.liste a scratch.li.same a l m -> scratch.li.same a m l .
+anomaly: search error. please report. coq < check scratch.li.liste. a:set scratch.li.liste a : set->set coq < check scratch.li.same. a:set scratch.li.same a : set-> scratch.li.liste a -> scratch.li.liste a ->prop clement.renard@inria.fr on 2007-07-04 17:02:53 +0200 le problème n'existe plus, l'intérieur des sections est redevenu invisible.

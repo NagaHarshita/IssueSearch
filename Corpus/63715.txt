@@ -1,0 +1,1 @@
+ URL : "https://github.com/caffeinalab/ti.goosh/issues/66" TITLE : error parsing data json BODY : i'm using fcm to send the push notification. with my app open i see this error: e/ti.goosh.intentservice: error parsing data json: cannot cast com.google.gson.jsonarray to com.google.gson.jsonobject any ideas why i would be getting this?

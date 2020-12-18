@@ -1,0 +1,1 @@
+ URL : "https://github.com/googlefonts/fontbakery/issues/1591" TITLE : cmap drop specific tables BODY : in the command: fontbakery-fix-cmap.py currently only drops the tables the tables listed as platformid: 3 are we able to add options to drop specific tables e.g. platformid: 0 ? these are superfluous tables which in some instances e.g. android that aren't needed.

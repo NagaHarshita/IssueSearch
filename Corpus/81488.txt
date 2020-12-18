@@ -1,0 +1,1 @@
+ URL : "https://github.com/maggo/gdq-schedule/issues/1" TITLE : yql is no longer working BODY : yahoo disabled the html table so the initial call and resolve don't work anymore. todo: update to htmlstring and parse the resulting html manually

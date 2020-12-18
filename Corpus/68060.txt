@@ -1,0 +1,1 @@
+ URL : "https://github.com/highperformancecoder/minsky/issues/58" TITLE : reimplement wire spline BODY : currently depends on an undocumented tk library call.

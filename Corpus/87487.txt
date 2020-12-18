@@ -1,0 +1,1 @@
+ URL : "https://github.com/rickparrish/Usurper/issues/9" TITLE : linux version maintenance BODY : maintenance does not appear to run properly on linux. root@nanopi-neo2:/mystic/doors/usurper ./usurper /hmaint linux detected maintenance not able to run! players are reported online. have i missed a config? thanks.

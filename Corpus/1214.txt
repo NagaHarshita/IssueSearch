@@ -1,0 +1,1 @@
+ URL : "https://github.com/Codebrahma/State-manager/issues/1" TITLE : level 1 api BODY : 1. creating a store with getstate which returns the current state. 2. creating a combinereducer function which combines nested reducer functions.

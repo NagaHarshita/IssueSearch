@@ -1,0 +1,1 @@
+ URL : "https://github.com/BradJonesLLC/docker-haproxy-letsencrypt/issues/8" TITLE : auto-renewal does not work BODY : it seems like the auto-renewal doesn't work. i've got an email from letsencrypt to renew my current domains.

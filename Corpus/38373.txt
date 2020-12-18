@@ -1,0 +1,1 @@
+ URL : "https://github.com/omz/Pythonista-Issues/issues/359" TITLE : pep8 max line length BODY : default pep8 max line length is 79. this value is kinda weird, ... i usually enforce myself to use 120. and i can imagine that iphone users would like to have it shorter for example. would be nice if i can say somehow that i want 120 instead of 79.

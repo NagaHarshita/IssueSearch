@@ -1,0 +1,6 @@
+ URL : "https://github.com/graceshopurr/grace-shopurr/issues/43" TITLE : set up /api/users BODY : /users - shows all users
+/users/new - creates a users
+/users/:id - shows a particular users
+/users/:id/update - updates a users
+/users/:id/delete - deletes a users
+/users/:id/addreview ? cats can review users?

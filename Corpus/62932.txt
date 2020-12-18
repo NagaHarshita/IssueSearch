@@ -1,0 +1,1 @@
+ URL : "https://github.com/CenterForDigitalHumanities/TPEN28/issues/422" TITLE : ctrl + alt and move img BODY : when you do this and move the image around, release ctrl + alt does not always reset the image to the proper position. this causes the page to seem like it has frozen or broke.

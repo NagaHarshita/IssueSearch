@@ -1,0 +1,1 @@
+ URL : "https://github.com/Borosarus/prj-rev-bwfs-dasmoto/issues/1" TITLE : minor error. amp code BODY : https://github.com/borosarus/prj-rev-bwfs-dasmoto/blob/master/unit%202%20dasmoto/indexdasmoto.html l5 & is a special character in html, check here. http://rabbit.eng.miami.edu/info/htmlchars.html

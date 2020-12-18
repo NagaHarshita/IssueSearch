@@ -1,0 +1,1 @@
+ URL : "https://github.com/staplesad/flask_bookclub/issues/5" TITLE : review score appearance BODY : want to change the review score x/5 so it appears as stars. i.e. 2/5 = two filled in starts 3 blank stars etc. could also change the input but that could be done separately.

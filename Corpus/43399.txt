@@ -1,0 +1,1 @@
+ URL : "https://github.com/nteract/nteract.io/issues/2" TITLE : create a kernels page BODY : on a /kernels page, list out kernels we support well: ipython ijavascript ijulia irkernel i'm imagining a toggle to go between languages. i'll make a mockup later on.

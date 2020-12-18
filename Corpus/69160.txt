@@ -1,0 +1,1 @@
+ URL : "https://github.com/quinot/ansible-plugin-lookup_ldap/issues/11" TITLE : submit to ansible core? BODY : i would really love to see these plugins as part of core ansible. any chance you would be willing to submit? i'd be willing to do the legwork if you just didn't want to deal with the work and approve submission of it.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/rust-lang-nursery/rand/issues/170" TITLE : add poisson distribution BODY : the gamma distribution is there, but not the poisson distribution. since gamma is a conjugate prior to poisson, it would be useful to have the poisson distribution available as well.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/penicolas/gapcheck/issues/4" TITLE : add --fix option BODY : add a new option: - --fix for join tracks with gap.

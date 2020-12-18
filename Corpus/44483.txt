@@ -1,0 +1,1 @@
+ URL : "https://github.com/sprewell20051116/JavascriptCourse/issues/13" TITLE : export default 用法 BODY : 看完影片,還是不懂export default 是啥 找了資料 http://es6.ruanyifeng.com/?search=import&x=0&y=0 docs/module export-default-%e5%91%bd%e4%bb%a4 這篇很清楚 簡單說就是預設的export ,當你import的時候,不用輸入名稱,就會自動選擇他,還可以任意命名

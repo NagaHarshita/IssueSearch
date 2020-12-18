@@ -1,0 +1,1 @@
+ URL : "https://github.com/magento/magento2/issues/10964" TITLE : support for php-pm ? BODY : hello magento team as you can see there is a huge performance boost with newly php-pm package that is a good replace for regular php-fpm does magento2 supports php-pm or what might happens if we use it on production https://github.com/php-pm/php-pm

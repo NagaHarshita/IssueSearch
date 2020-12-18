@@ -1,0 +1,1 @@
+ URL : "https://github.com/ZumoCommunity/Blog-API/issues/1" TITLE : introduce blog api BODY : swagger in mandatory. crud methods for blog posts implemented using odata. use content-api for storing blog post text. blog post consists of: - id - title - text - date published - list of tags

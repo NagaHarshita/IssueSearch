@@ -1,0 +1,1 @@
+ URL : "https://github.com/FAC-11/the-ticket-bank/issues/33" TITLE : update .gitignore file BODY : include exceptions for ds store and env files

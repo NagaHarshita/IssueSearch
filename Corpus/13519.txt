@@ -1,0 +1,1 @@
+ URL : "https://github.com/forest-lang/core/issues/1" TITLE : use safe package BODY : https://github.com/forest-lang/core/blob/master/app/main.hs l8 this function is provided by https://www.stackage.org/package/safe

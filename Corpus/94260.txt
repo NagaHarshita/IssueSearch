@@ -1,0 +1,1 @@
+ URL : "https://github.com/lmj0011/lmj0011/issues/1" TITLE : build script for all repos BODY : make build script in the base of this project that calls the build script of all repo in the child dirs

@@ -1,0 +1,1 @@
+ URL : "https://github.com/securingsincity/react-ace/issues/203" TITLE : creating a split editor BODY : is there a way to split the editor horizontally/vertically? i've tried importing 'brace/ext/split', but the split api does not seem to be available. a clone of the kitchen sink demo for react-ace would be very helpful with this problem,

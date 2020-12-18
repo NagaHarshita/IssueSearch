@@ -1,0 +1,1 @@
+ URL : "https://github.com/justinbuhrmann1997/SQLiteInsert/issues/1" TITLE : crash on blank forms BODY : application will crash while trying to submit a new user if the fields are blank

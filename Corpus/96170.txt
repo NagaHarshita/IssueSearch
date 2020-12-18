@@ -1,0 +1,1 @@
+ URL : "https://github.com/alphamu/PinEntryEditText/issues/16" TITLE : empty mask makes app hang! BODY : if i set pincharactermask= , app hangs, but if i remove attribute, it works fine! i think there is a problem when you get attribute value, you must check if value is empty, set mmask to null not empty. or you may apply empty=null in all places

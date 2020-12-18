@@ -1,0 +1,9 @@
+ URL : "https://github.com/pulibrary/lae-blacklight/issues/178" TITLE : error when title is blank BODY : f, 2017-10-23t19:20:59.099672 40365 fatal -- : actionview::template::error undefined method ' for nil:nilclass :
+f, 2017-10-23t19:20:59.099839 40365 fatal -- : 7: <%= render_square_thumbnail doc %> 8: </div> 9: <div class= card-header > 10: <%= render_doc_title doc %> 11: </div> 12: <div class= card-stats > 13: <%= render_brief_doc_metadata doc %>
+f, 2017-10-23t19:20:59.099882 40365 fatal -- :
+f, 2017-10-23t19:20:59.099924 40365 fatal -- : app/helpers/application_helper.rb:108:in render_doc_title'
+app/views/pages/_recent_documents.html.erb:10:in block 2 levels in _app_views_pages__recent_documents_html_erb__855815331909512957_53351340'
+app/views/pages/_recent_documents.html.erb:5:in block in _app_views_pages__recent_documents_html_erb__855815331909512957_53351340'
+app/views/pages/_recent_documents.html.erb:3:in each'
+app/views/pages/_recent_documents.html.erb:3:in _app_views_pages__recent_documents_html_erb__855815331909512957_53351340'
+app/views/pages/index.html.erb:23:in _app_views_pages_index_html_erb__4357843570987510361_24384040'

@@ -1,0 +1,1 @@
+ URL : "https://github.com/triniwiz/nativescript-youtubeplayer/issues/1" TITLE : webpack aot build BODY : i am unable to build the app with webpack aot while having com.github.triniwiz.youtubeplayeractivity in my manifest file.

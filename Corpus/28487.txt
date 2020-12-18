@@ -1,0 +1,1 @@
+ URL : "https://github.com/leftmike/foment/issues/22" TITLE : global library path BODY : should foment have a global library path? for example, if i say import srfi 28 i would like foment to search /usr/local/share/foment/srfi , or something similar to that.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ballerinalang/ballerina/issues/4170" TITLE : implement locking api BODY : $subject. this is required when concurrent access from multiple workers is required for shared data.

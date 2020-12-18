@@ -1,0 +1,1 @@
+ URL : "https://github.com/dakk/letchain/issues/38" TITLE : header sync status BODY : if last n received headers messages are empty, assume that the node is in sync

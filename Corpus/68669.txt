@@ -1,0 +1,1 @@
+ URL : "https://github.com/wreed4/economy/issues/3" TITLE : sequence diagram needed BODY : we need to spec out how the different components communicate, especially across the network marketclient and marketserver .

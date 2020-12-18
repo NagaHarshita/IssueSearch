@@ -1,0 +1,1 @@
+ URL : "https://github.com/GoogleCloudPlatform/google-cloud-intellij/issues/1440" TITLE : test plugin offline BODY : test that everything that should work offline does. test that everything that shouldn't work offline login, deploy, cdb, csr , show reasonable error messages.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/nodemcu/nodemcu-devkit-v1.0/issues/28" TITLE : a0 adc limit input? BODY : what are the limits of the voltage a0? usual esp-12x up to 1v, you use a resistive divider at the input. can i measure li-ion battery voltage?

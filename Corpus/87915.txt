@@ -1,0 +1,1 @@
+ URL : "https://github.com/haffonist/igamt/issues/1169" TITLE : message structure display BODY : there is no need to display columns that never apply at the message structure level. it just creates clutter and confusion. remove such columns. ! image https://cloud.githubusercontent.com/assets/14874904/22468152/5503c536-e795-11e6-86d1-2304981bc081.png

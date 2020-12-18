@@ -1,0 +1,1 @@
+ URL : "https://github.com/jaredlunde/flight-path/issues/1" TITLE : misleading project name BODY : the unfortunate choice of flight-path as a npm package name actually precludes the publication of an npm package flight-path pacakge that computes a ballistic trajectory. not sure what xmlhttpwrapper has to do with a flight path?

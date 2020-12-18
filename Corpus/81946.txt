@@ -1,0 +1,1 @@
+ URL : "https://github.com/ensime/ensime-sublime/issues/134" TITLE : add a command hide errors BODY : can we have a command e.g. ensime_hide_errors that we can bind to a shortcut to hide the errors shown by ensime_show_errors ? now while it's convenient to show errors, we need to move the mouse and click on the x to hide the error bubbles.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/supergiant/supergiant/issues/346" TITLE : 500 exposed via ui BODY : message : unique constraint failed: kubes.name for ui/kubes create

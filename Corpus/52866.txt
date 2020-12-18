@@ -1,0 +1,1 @@
+ URL : "https://github.com/costaivo/AdManagerAPI-NodeJS/issues/7" TITLE : create publication api BODY : 1. it contain the main columns required for publication. refer sql table publication for all the common columns. 2. add related tables for classifieds module.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/op/go-logging/issues/116" TITLE : log level none BODY : hello it would be very helpful if we can also have a none level, by which we can silence the logger completely. or is there already a way to do this?

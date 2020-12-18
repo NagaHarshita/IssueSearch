@@ -1,0 +1,1 @@
+ URL : "https://github.com/getgrav/grav-plugin-simplesearch/issues/109" TITLE : no search results BODY : i have installed simplesearch on a clean new grav installation and have created a yaml configuration file. the search page appears, but there are no search results. it seems as if the index is empty. any ideas on how to fix this?

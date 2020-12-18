@@ -1,0 +1,1 @@
+ URL : "https://github.com/roboconf/roboconf-dockerfile/issues/11" TITLE : switch to alpine os? BODY : our current images are 200 mb big. besides, the java image we used as our basis was deprecated https://hub.docker.com/_/java/ . switching to the 7-alpine image from openjdk would almost divide the size of our images by 2. see https://hub.docker.com/r/library/openjdk/tags/

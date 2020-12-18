@@ -1,0 +1,1 @@
+ URL : "https://github.com/samwit/Beginners-Day/issues/1" TITLE : for windows user BODY : replace !cat ~/.keras/keras.json with python from os.path import expanduser with open expanduser '~/.keras/keras.json' , 'r' as f: print f.read output { floatx : float32 , image_dim_ordering : tf , epsilon : 1e-07, backend : tensorflow } > print expanduser '~' c:\users\xxxxx

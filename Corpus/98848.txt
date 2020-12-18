@@ -1,0 +1,1 @@
+ URL : "https://github.com/sg-s/srinivas.gs_mtools/issues/48" TITLE : linefind is pretty useless BODY : it should also search for substrings within each line -- that's what the real use case is

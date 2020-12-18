@@ -1,0 +1,1 @@
+ URL : "https://github.com/airbnb/lottie-ios/issues/184" TITLE : the animation is delayed BODY : hi all, have you ever faced this problem, i started the animation immediately after use clicked a button, but the animation was delayed. see the attached file: ! lottie-bug https://cloud.githubusercontent.com/assets/1250207/24180668/4290248e-0ef1-11e7-8bc9-7cd4e51b5224.gif

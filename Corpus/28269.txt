@@ -1,0 +1,1 @@
+ URL : "https://github.com/bitshifters/teletextr/issues/32" TITLE : fix rotozoom glitch BODY : suspect this is the music interrupt switching in a shadow ram bank during raster. however, shouldnt be the case cos it only switches the bank that is paged to ram rather than the bank that is paged to 6845.... needs investigation

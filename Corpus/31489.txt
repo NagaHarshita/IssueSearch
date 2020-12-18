@@ -1,0 +1,1 @@
+ URL : "https://github.com/maxogden/websocket-stream/issues/119" TITLE : slightly cooler api BODY : how about allowing the handler to be checked for a return stream value? js var wss = websocket.createserver { server: somehttpserver }, => fs.createreadstream 'bigdata.json'

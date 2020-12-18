@@ -1,0 +1,1 @@
+ URL : "https://github.com/fullstackreact/react-native-oauth/issues/154" TITLE : handler for cancellation BODY : is there any way to be notified that user cancelled the authentication eg. by clicking back key on android or done on ios ? so far i haven't found any way to be notified about this, the promise simply doesn't execute neither .then, neither .error. what am i missing?

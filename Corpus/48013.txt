@@ -1,0 +1,1 @@
+ URL : "https://github.com/SFUSatClub/CubeSat-Radio/issues/28" TITLE : reduce text thickness BODY : reduce the text thickness on the silkscreen, not the component reference but the other miscellaneous labels. currently the thickness makes the text blotchy.

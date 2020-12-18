@@ -1,0 +1,1 @@
+ URL : "https://github.com/NationalSecurityAgency/qgis-latlontools-plugin/issues/2" TITLE : qgis 2.14, buitinerror BODY : hi, trying to install the plugin in qgis 2.14.1 here, i get the following error: ! builtinerror https://cloud.githubusercontent.com/assets/731673/24760207/4623114e-1ae8-11e7-9016-3ae48d5383f5.png will try on other systems/versions too

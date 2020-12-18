@@ -1,0 +1,1 @@
+ URL : "https://github.com/ThrowTheSwitch/Ceedling/issues/193" TITLE : bullseye not working again BODY : method build_command_line in tool_executor.rb is called without extra_params .

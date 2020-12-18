@@ -1,0 +1,1 @@
+ URL : "https://github.com/duncan-r/SHIP/issues/16" TITLE : update super calls BODY : the majority of super class calls use the old style classname.method self, args, kwargs format. these need updating to super classname, self .method args, kwargs note that super .method args, kwargs can't be used because we need to maintain v2.7 compatibility.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/enove/Thriver/issues/202" TITLE : map lat & long BODY : we have one provider whose longitude is beyond the allowed degree for the map.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/AndreaCensi/mcdp/issues/130" TITLE : simplify a a to a^2 BODY : simplify a a in mcdp { variable a, c dimensionless c >= a a + nat:1 a >= square c }

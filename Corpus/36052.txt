@@ -1,0 +1,1 @@
+ URL : "https://github.com/surveyjs/editor/issues/61" TITLE : form submit on enter BODY : in all text-based questions, if you hit enter while the field is in focus it will cause a form submit causing the page to reload. survey.js needs to catch this event, preventdefault , and instead fire a page next .

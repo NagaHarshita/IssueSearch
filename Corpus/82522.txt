@@ -1,0 +1,1 @@
+ URL : "https://github.com/orijtech/coinbase/issues/16" TITLE : addresses: implement list BODY : a method to list addresses for an account.

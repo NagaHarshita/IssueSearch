@@ -1,0 +1,1 @@
+ URL : "https://github.com/nvaccess/nvda/issues/6714" TITLE : fix me please! BODY : compounddocuments.py ln 146: field table-id = 1 fixme what's the fixme about? i'm probably gonna need this for libre table nav.

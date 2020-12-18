@@ -1,0 +1,1 @@
+ URL : "https://github.com/KumarRobotics/velodyne_puck/issues/5" TITLE : scan 1 data is missing BODY : in velodynepucksweep.msg the 0th scan is at the bottom velodynepuckscan 16 scans if you read messages from bottom. the second last msg points array is empty. which if 0th scan at bottom as mentioned is true then that will make it scan 1 for the laser pointing at 1 degree.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Sitback/presto-project/issues/4" TITLE : add docker support BODY : include our dockerfile and docker-composer.yml with tweaks - remove the hostbox entry . also include config/docker

@@ -1,0 +1,1 @@
+ URL : "https://github.com/cnr-isti-vclab/meshlab/issues/257" TITLE : export to .u3d BODY : hi, i'm having an issue when i try to export in .u3d even if i have installed plugins u3d_osx and u3d_w32. when i export in .u3d meshlab is bugging and doesn't answer anymore. thx for help

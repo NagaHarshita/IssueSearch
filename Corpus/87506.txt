@@ -1,0 +1,1 @@
+ URL : "https://github.com/cloudfoundry/statsd-injector/issues/2" TITLE : listens on all interfaces BODY : the code doesn't limit the interfaces it listens on which is potentially a security issue.

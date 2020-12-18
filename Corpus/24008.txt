@@ -1,0 +1,1 @@
+ URL : "https://github.com/fgpv-vpgf/fgpv-vpgf/issues/1852" TITLE : rv logger bugs out BODY : all logger commands print nonsense: ! https://i.imgur.com/r8okyjy.png some show an error stack: ! https://i.imgur.com/yvotulw.png tracing back leads here: ! https://i.imgur.com/bfcousi.png

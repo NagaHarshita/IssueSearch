@@ -1,0 +1,1 @@
+ URL : "https://github.com/yebai/Turing.jl/issues/144" TITLE : readme.md not updated BODY : readme.md uses @sample but the correct function seems to be sample .

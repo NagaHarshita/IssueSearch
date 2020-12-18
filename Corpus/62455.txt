@@ -1,0 +1,1 @@
+ URL : "https://github.com/trendwerk/sphynx/issues/776" TITLE : color variable notation BODY : https://github.com/trendwerk/sphynx/blob/master/assets/styles/abstracts/variables/_colors.scss l7 we use names like dark-grey and medium-grey . i propose to change this to grey-dark , grey-medium etc for readability.

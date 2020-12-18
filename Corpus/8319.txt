@@ -1,0 +1,1 @@
+ URL : "https://github.com/passy/angular-masonry/issues/188" TITLE : new release npm BODY : hi, it's possible to release a new version that's contains latest updates ? for example entrypoint support with web bundler : https://github.com/passy/angular-masonry/pull/185 thanks !

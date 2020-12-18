@@ -1,0 +1,1 @@
+ URL : "https://github.com/spotify/snakebite/issues/227" TITLE : how to write to hdfs BODY : clients offers a lot of apis about read from hdfs, but none of how to write a file to hdfs, for example write from a variable to hdfs , or write from a csv file to hdfs.

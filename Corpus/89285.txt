@@ -1,0 +1,1 @@
+ URL : "https://github.com/2amigos/yii2-app-usuario-template/issues/2" TITLE : problem with installation BODY : started to follow your installation guide and few minutes after composer create-project i see: composer\repository\invalidrepositoryexception no valid bower.json was found in any branch or tag of https://github.com/twbs/bootstrap.git, could not load a package from it.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Bioconductor/AnnotationFilters/issues/10" TITLE : new package name? BODY : i know it's been only a few days, but... how about annotationfilter so that it's named after the primary class? i'd also rename the repository which would break clones i think, but there's probably some git magic for that .

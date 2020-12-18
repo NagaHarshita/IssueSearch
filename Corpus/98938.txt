@@ -1,0 +1,1 @@
+ URL : "https://github.com/redteamsecurity/PlugBot-Plug/issues/10" TITLE : localhost/pb does not work BODY : hi, my problem is that i can't open localhost/pb and a tried it with using my ip address, same problem: not found the requested url /pb was not found on this server. apache/2.4.10 raspbian server at myipaddress port 80 please help me as soon as possible :

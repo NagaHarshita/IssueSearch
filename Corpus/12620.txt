@@ -1,0 +1,1 @@
+ URL : "https://github.com/BitBotFactory/poloniexlendingbot/issues/580" TITLE : question to xday BODY : hello, i would like to increase the max. lending days to 30 on bitfinex, when we have a very good rate like >= 0.1. is this already possible with xdays or should i look for a new pr? cheers thomas

@@ -1,0 +1,1 @@
+ URL : "https://github.com/taligen/taliwodo/issues/16" TITLE : add a column BODY : if i accidentially click the wrong row, i cannot undo it that's the way html radio buttons works . so i'd like another column, selected by default, which is not done . the current column titled not done should become something like skipped .

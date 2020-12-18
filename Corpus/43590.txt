@@ -1,0 +1,1 @@
+ URL : "https://github.com/w3c/csswg-drafts/issues/1168" TITLE : css-ui-4 broken links BODY : in css-ui-4 § 7.1 https://github.com/w3c/csswg-drafts/blob/398aebd5332686d917ba1d1359934631264a49ad/css-ui-4/overview.bs l922-l926 , the editing host and mutable links are broken.

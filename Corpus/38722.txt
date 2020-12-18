@@ -1,0 +1,1 @@
+ URL : "https://github.com/blockstack/blockstack-cli/issues/195" TITLE : python version issue BODY : received following error running blockstack after installation at ubuntu via pip/pip3: $ blockstack file /usr/local/bin/blockstack , line 58 print result 'result' ^ syntaxerror: missing parentheses in call to 'print'

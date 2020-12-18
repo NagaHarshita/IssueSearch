@@ -1,0 +1,1 @@
+ URL : "https://github.com/lnls-fac/va/issues/62" TITLE : strange lifetime behavior BODY : in the first time executing vaca, after injection of low current, the lifetime do not update, it stays in a value corresponding to null current. it happened twice with me.

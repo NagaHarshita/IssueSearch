@@ -1,0 +1,1 @@
+ URL : "https://github.com/moar55/se-project-testing/issues/14" TITLE : receiving email 7 BODY : 1- severity medium 2- reported by syrine hamza 3- when i click forgot password it sends a link on the email and when clicking the link it says the reset id isn't valid 4- click forgot password on the student section

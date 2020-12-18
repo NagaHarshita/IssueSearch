@@ -1,0 +1,1 @@
+ URL : "https://github.com/ampproject/amphtml/issues/10212" TITLE : preconnecting for amp-img BODY : when working on tilt-to-zoom i noticed that amp-img doesn't pre-connect to the source url which may cause some slowdown. will be fixed by 10142

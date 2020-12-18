@@ -1,0 +1,1 @@
+ URL : "https://github.com/publiclab/image-sequencer/issues/13" TITLE : colorbar acts awry BODY : when a colorbar module is applied, it makes the entire page html slow. also after adding a colorbar module, results of adding other modules is undesirable. should we implement a better alternative?

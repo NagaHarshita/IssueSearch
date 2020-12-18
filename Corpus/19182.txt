@@ -1,0 +1,1 @@
+ URL : "https://github.com/weareopensource/storytelling/issues/223" TITLE : { display} ui bug BODY : - line chart doesn't in center - if there are 2 line chart, and first line chart is in left/right layout, then the sencond line chart can't display the whole line because of the defs - in left/right layout, text doesn't in center

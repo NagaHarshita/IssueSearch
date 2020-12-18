@@ -1,0 +1,1 @@
+ URL : "https://github.com/maxmind/GeoIP2-perl/issues/47" TITLE : is there a ppa version ? BODY : hello, i use perl binding to read mmdb files. it will be awesome if i could test my perl scripts using https://travis-ci.com. is there any ubuntu package available on maxmind ppa ? regards,

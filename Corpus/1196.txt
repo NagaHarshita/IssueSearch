@@ -1,0 +1,1 @@
+ URL : "https://github.com/os-js/OS.js/issues/597" TITLE : it is crash BODY : an error occured while trying to launch: applicationarduinosettings > application 'applicationarduinosettings' preloading failed: /packages/target/arduinosettings/combined.js?61940

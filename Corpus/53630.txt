@@ -1,0 +1,1 @@
+ URL : "https://github.com/unenglishable/naegi/issues/18" TITLE : enforce tree ownership BODY : create trees only with user auth token or something fetch only trees that belong to the logged in user depends on 16 somewhat

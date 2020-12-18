@@ -1,0 +1,1 @@
+ URL : "https://github.com/bigdinotech/Arduino101Power/issues/2" TITLE : location of library BODY : seems these files want to live under c:\users\xxxx\appdata\local\arduino15\packages\intel\hardware\arc32\1.0.7\cores\arduino ? if you try to install it as a library the dccm/dccm_alloc.h file is not found.

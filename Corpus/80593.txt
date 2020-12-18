@@ -1,0 +1,1 @@
+ URL : "https://github.com/ipedrazas/drone-helm/issues/13" TITLE : unable to turn off debug BODY : i've tried not setting debug at all in the drone.yml, i've tried setting debug: false and i've tried debug: null . every time the plugin runs it echo's all the environment vars and i'm not sure how to turn that off. please help!

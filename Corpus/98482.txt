@@ -1,0 +1,1 @@
+ URL : "https://github.com/GeekyAnts/NativeBase/issues/438" TITLE : iosheader props bug picker BODY : hey ! i'm using the lastest version of nativebase and when i set a iosheader on picker component, nothing append ! there is always pick one :/ ! do you have an idea? thank you!

@@ -1,0 +1,1 @@
+ URL : "https://github.com/himynameisdave/component-plz/issues/5" TITLE : add pre-15.5 option BODY : will pull proptypes from the global react object instead of the prop-types package. see react's 15.5 release notes for more info: https://facebook.github.io/react/blog/2017/04/07/react-v15.5.0.html

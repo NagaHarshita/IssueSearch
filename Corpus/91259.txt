@@ -1,0 +1,1 @@
+ URL : "https://github.com/centromere/pipes-cacophony/issues/3" TITLE : test failure due to hlint BODY : found on stackage nightly. log below: src/pipes/noise.hs:1:1: warning: unused language pragma found: {- language overloadedstrings -} why not remove it. 1 hint

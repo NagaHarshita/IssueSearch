@@ -1,0 +1,1 @@
+ URL : "https://github.com/nosami/XSVim/issues/62" TITLE : c2w doesn't change 2 words BODY : .. it only changes one, and the cursor ends up being in the wrong state block for insert mode

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Amebis/eduVPN/issues/51" TITLE : oauth client id BODY : the current client_id is org.eduvpn.app . please start using org.eduvpn.app.windows . everything else related to oauth stays the same.

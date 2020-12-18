@@ -1,0 +1,1 @@
+ URL : "https://github.com/parched/gcc-asm-rs/issues/2" TITLE : support m constraint BODY : gcc m constraint needs conversion to an indirect constraint for llvm.

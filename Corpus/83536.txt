@@ -1,0 +1,1 @@
+ URL : "https://github.com/YetOpen/certbot-zimbra/issues/12" TITLE : certbot package is needed BODY : i have installed into centos7 zimbra 8.7.+ with success, well done. only one issue: my box was lacking certbot yum install certbot -y is needed

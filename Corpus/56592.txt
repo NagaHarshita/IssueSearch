@@ -1,0 +1,1 @@
+ URL : "https://github.com/fr3ts0n/AndrOBD/issues/34" TITLE : no log files generated BODY : unfortunately androbd does not generate any log files on new installations. since the log path does not exist, the log files do not get created.

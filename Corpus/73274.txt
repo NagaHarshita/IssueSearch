@@ -1,0 +1,1 @@
+ URL : "https://github.com/scottjulian/C4.5/issues/2" TITLE : correctness of algorithm BODY : i think this source code is giving same answers or final outputs for any data set given.this made me suspect correctness of algorithm.please once again verify and correct it if anything is wrong and sorry if i am wrong.

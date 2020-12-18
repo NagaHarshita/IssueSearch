@@ -1,0 +1,1 @@
+ URL : "https://github.com/numbbo/coco/issues/1510" TITLE : get rid of rungeneric2.py BODY : i have in mind that all functionality of rungeneric2.py has been moved to rungeneric.py or rungenericmany.py and can thus be removed itself. is this correct?

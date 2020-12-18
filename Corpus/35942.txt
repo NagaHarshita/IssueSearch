@@ -1,0 +1,1 @@
+ URL : "https://github.com/kumpul/kumpul-website-jekyll/issues/12" TITLE : fix multi day events BODY : events that span over multiple days are not displaying the date span in header and info box. example: https://www.kumpul.co/events/bali-service-jam-2017-170218/ this event should show feb 18-19

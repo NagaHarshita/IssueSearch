@@ -1,0 +1,1 @@
+ URL : "https://github.com/bitcoinjs/bs58check/issues/10" TITLE : custom checksum function? BODY : thoughts about custom checksum function as optional argument? for example decred uses double blake256 instead double sha256

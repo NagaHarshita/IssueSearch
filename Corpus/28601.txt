@@ -1,0 +1,1 @@
+ URL : "https://github.com/rash-framework/raje-app/issues/40" TITLE : heading in sections BODY : it seems that one i create a subsection, the header stored will be h2, h3, etc., instead of h1.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/caiqi/fddb-evaluate/issues/1" TITLE : prob->r i j = r i j ; BODY : it have an error when i ran the code of hungarian.cpp,it displayed that i cannot visit the prob->r i j something wrong with the pointer to visit about the method? @caiqi thank you!

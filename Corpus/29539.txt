@@ -1,0 +1,1 @@
+ URL : "https://github.com/oskarrough/kw-video/issues/1" TITLE : make it easy to use BODY : right now you have to get xtag, include the script and styles yourself - as it's not on npm - so it's a hassle. let's make it easy to use. - npm - cdn - update readme

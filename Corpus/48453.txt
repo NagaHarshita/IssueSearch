@@ -1,0 +1,1 @@
+ URL : "https://github.com/Verizon/delorean/issues/4" TITLE : scalaz-7.0.x support? BODY : the readme notes: for scalaz-7.1.x : sbt librarydependencies += io.verizon.delorean %% core % 1.2.40-scalaz-7.1 for scalaz-7.2.x : sbt librarydependencies += io.verizon.delorean %% core % 1.2.40-scalaz-7.2 is scalaz-7.0.x not supported then? thanks, kevin

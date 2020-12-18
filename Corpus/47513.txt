@@ -1,0 +1,1 @@
+ URL : "https://github.com/mcekovic/tennis-crystal-ball/issues/146" TITLE : player profile tweaks BODY : - 2 decimal precision for winning pcts and h2h pct - last tournament played for active players - number of seasons on tour seasons with matches played

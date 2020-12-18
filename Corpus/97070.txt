@@ -1,0 +1,1 @@
+ URL : "https://github.com/qiime2/workshop-playbooks/issues/3" TITLE : fix letsencrypt directives BODY : - don't provision a new cert if one already exists - backup existing certs ported from https://github.com/qiime2/vm-playbooks/issues/7

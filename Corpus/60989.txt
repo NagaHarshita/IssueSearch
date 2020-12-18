@@ -1,0 +1,1 @@
+ URL : "https://github.com/Jam3/devtool/issues/118" TITLE : add support async/await BODY : hi, currently devtool doesn't support for async/await already available in latest chromium and nodejs. i'm creating this ticket to track the status of this feature. :rocket:

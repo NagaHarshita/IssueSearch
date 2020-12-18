@@ -1,0 +1,1 @@
+ URL : "https://github.com/Mr-Berry/2D_Unity_Project/issues/13" TITLE : in_game inventory system BODY : - player needs to create this on start. - needs to create 5 ability blocks prefab . - needs to initialize lists to get players abilities from playerprefs. - needs to control position and type of said blocks. - needs to keep track of used abilities and resize lists accordingly.

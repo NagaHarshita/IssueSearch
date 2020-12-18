@@ -1,0 +1,1 @@
+ URL : "https://github.com/Git-Lit/git-lit/issues/57" TITLE : escape liquid characters BODY : in addition to markdown characters, we need to escape liquid characters like {% %} , since they throw off the build process. github sends a notification about build failures, and the error is something like: the tag {% on line 33053 in index.md was not properly closed with %} .

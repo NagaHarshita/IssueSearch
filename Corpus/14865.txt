@@ -1,0 +1,1 @@
+ URL : "https://github.com/AsynkronIT/protoactor-go/issues/193" TITLE : change output log BODY : hi! is it possibile to redirect the output of actor logging to stderr or to a file? something like log.setoutput iow . the problem: using a tui i.e.: https://github.com/jroimartin/gocui i cannot redirect or capture the output of the actor log.

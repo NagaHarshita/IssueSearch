@@ -1,0 +1,1 @@
+ URL : "https://github.com/elastic/go-libaudit/issues/2" TITLE : create a stress test BODY : there should be a stress test framework to find the limits of the library with and without the parser in the loop.

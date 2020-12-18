@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla/thimble.mozilla.org/issues/1618" TITLE : extend thimble's dev tools BODY : currently we provide an editor and preview window. it's also possible for us to add other interesting tools, for example: http://darsa.in/fpsmeter/. part of this but is issue is researching what's out there, and what might be cool to include.

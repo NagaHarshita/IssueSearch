@@ -1,0 +1,1 @@
+ URL : "https://github.com/summernote/angular-summernote/issues/184" TITLE : model value change bug BODY : if the model value change empty from not-empty, the content area will not change.

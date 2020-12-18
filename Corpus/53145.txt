@@ -1,0 +1,1 @@
+ URL : "https://github.com/kjminn/DBEx/issues/7" TITLE : delete button handling BODY : - 레이아웃에 삭제 버튼 추가 - 삭제 버튼을 클릭했을 때 그룹명으로 입력된 행 전체가 삭제되게 한다.

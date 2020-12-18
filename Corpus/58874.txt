@@ -1,0 +1,1 @@
+ URL : "https://github.com/tngan/samlify/issues/155" TITLE : support for forceauthn BODY : hello curious if the library currently support setting forceauthn to make the idp authenticate on every request. could you point me in the direction if we needed to implement this feature? thanks, g

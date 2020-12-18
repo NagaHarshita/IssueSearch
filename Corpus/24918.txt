@@ -1,0 +1,1 @@
+ URL : "https://github.com/naptha/tesseract.js/issues/134" TITLE : unexpected token < BODY : with version 1.0.10 when using the simple example of the documentation i got: uncaught syntaxerror: unexpected token < at blob:http://localhost:3000/49b8248d-3fa6-4529-a4bc-532adde1c6cc:1 anonymous @ blob:http://localhost:3000/49b8248d-3fa6-4529-a4bc-532adde1c6cc:1

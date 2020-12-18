@@ -1,0 +1,1 @@
+ URL : "https://github.com/canjs/can-dom-data-state/issues/8" TITLE : clarify api contract BODY : we need to fix the api and update can-util to handle these changes - get will have no side-effect if the store does not yet exist - set will return the store

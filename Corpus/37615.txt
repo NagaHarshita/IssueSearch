@@ -1,0 +1,1 @@
+ URL : "https://github.com/luisgurmendez/AiBattle/issues/1" TITLE : min change direction BODY : the tank.changedirection function sometimes doesnt rotate in the minimum angle! for example if tank.direction = math.pi/4 and it executes tank.changedirection 2 math.pi - math.pi/10 , it will make rotation clockwise insted of anti-clockwise that is a shorter rotation

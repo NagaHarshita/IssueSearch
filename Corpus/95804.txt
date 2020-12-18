@@ -1,0 +1,1 @@
+ URL : "https://github.com/andyearnshaw/rollup-plugin-bundle-worker/issues/9" TITLE : do not handle dependencies BODY : ! image https://user-images.githubusercontent.com/6869168/31594434-78c848cc-b1fa-11e7-9447-82df72bffa1d.png in worker js，rollup-plugin-bundle-worker not handle import .can you help me?

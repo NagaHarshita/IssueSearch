@@ -1,0 +1,1 @@
+ URL : "https://github.com/Silentscripter/laravel-prestashop-webservice/issues/10" TITLE : json output format BODY : how can i receive response as json format? i tried this code but no luck, still receiving as xml php $options = 'resource' => 'products', 'output_format' => 'json' ; $products = prestashop::get $options ; return var_dump $products ;

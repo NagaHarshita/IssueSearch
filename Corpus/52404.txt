@@ -1,0 +1,1 @@
+ URL : "https://github.com/dolce/iziModal/issues/71" TITLE : click events dont fire BODY : i can t use js datepicker on input inside the modal. i think izimodal blocks all click events inside. how can i fix this?

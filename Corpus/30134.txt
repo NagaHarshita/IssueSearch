@@ -1,0 +1,1 @@
+ URL : "https://github.com/willyraedy/Better-World-Shopper-Extension/issues/9" TITLE : not tab independent BODY : current company object is shared among all tabs. means if you load delta and then load aa later on a different tab, it will think you're on aa on the delta tab.

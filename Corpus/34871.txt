@@ -1,0 +1,1 @@
+ URL : "https://github.com/Keuthonymous/PersonnelManagmentSystem/issues/16" TITLE : create class for job BODY : key int id string title string description icollection<applicationuser> applicants

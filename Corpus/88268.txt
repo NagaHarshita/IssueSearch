@@ -1,0 +1,1 @@
+ URL : "https://github.com/literat/gamee-mission/issues/8" TITLE : málo známek php 7.0/7.1 BODY : •	příliš málo známek php 7.0/7.1 chybějící strict_types declaration, chybějící return type declarations - ať už skalární nebo objektové, apod

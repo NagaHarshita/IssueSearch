@@ -1,0 +1,1 @@
+ URL : "https://github.com/jeancharles-roger/matrixstudio/issues/22" TITLE : add an export java button BODY : a button to export in java all the project should be done generates 3 files : 1 the host.java code host ocl + matrices init + scheduler + simple matrix viewer the current 3d viewer? 2 the ocl.c code libs + kernels 3 compilation and execution commands in run.txt

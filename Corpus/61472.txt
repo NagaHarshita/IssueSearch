@@ -1,0 +1,1 @@
+ URL : "https://github.com/Giveth/milestonetracker-ui/issues/44" TITLE : autofill where possilbe BODY : currenlty chrome autofill is not working for all input fields. test and fix so chrome easilz auto fills previously filled input fields.

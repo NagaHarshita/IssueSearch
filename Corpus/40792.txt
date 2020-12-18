@@ -1,0 +1,1 @@
+ URL : "https://github.com/cslarsen/wpm/issues/15" TITLE : utf-8 input problems BODY : in general, utf-8 characters not only do not work properly, hitting one involuntarily will give a warning, obscuring the text. need to fix that across python 2 and 3.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Keypirinha/Keypirinha/issues/203" TITLE : configure url package? BODY : i am trying to configure the url package but the original .ini file doesn't tell you anything about setting it up. can someone give me a quick example for cvs http://www.cvs.com thanks in advance, matt

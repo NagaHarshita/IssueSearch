@@ -1,0 +1,1 @@
+ URL : "https://github.com/pycom/pymakr-atom/issues/32" TITLE : sync to pysense BODY : for me, syncing to the pysense device /dev/ttyacm0 does not seem to work. syncing to the expansion board /dev/ttyusb0 works though. is this a bug or a limitation of the pysense?

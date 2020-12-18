@@ -1,0 +1,1 @@
+ URL : "https://github.com/curiousdannii/hugo/issues/2" TITLE : undo size improvements BODY : first, the default should probably be bumped from 256 to 1024, if not even higher. second, allow the size to be specified at runtime as git does.

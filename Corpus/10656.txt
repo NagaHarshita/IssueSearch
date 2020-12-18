@@ -1,0 +1,1 @@
+ URL : "https://github.com/k-next/ui/issues/38" TITLE : create page view BODY : instead of showing the dialog in order to create a new page, i was thinking about moving directly to the page view, where the user would then be able to select a template, enter the title and change the url similar to existing pages.

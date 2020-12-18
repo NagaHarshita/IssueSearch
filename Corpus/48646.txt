@@ -1,0 +1,1 @@
+ URL : "https://github.com/MatrixSolutions/FSharp.Data.JsonValidation/issues/14" TITLE : shave down fake build BODY : the project scaffolding provides a lot of nice build tasks, many of which this project doesn't use.

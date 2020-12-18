@@ -1,0 +1,1 @@
+ URL : "https://github.com/internetee/registry/issues/490" TITLE : registrar portal renew BODY : in registrar portal if you want to renew domain, you have to fill out field curexpdate, that field should be autofilled with domains current expdate. or other option would be to hide that field from user and fetch that data in background.

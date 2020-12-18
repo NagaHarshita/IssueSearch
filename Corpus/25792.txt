@@ -1,0 +1,1 @@
+ URL : "https://github.com/cmcqueen/compression-lzs-style/issues/3" TITLE : add autotools build BODY : for the c code, add an autotools build process. it should build a library and unit tests, and run the unit tests via make check .

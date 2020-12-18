@@ -1,0 +1,1 @@
+ URL : "https://github.com/mccxj/mccxj.github.io/issues/9" TITLE : tidb index too large BODY : func checktoolongindex index model.cistr error { if len index.l > mysql.maxindexidentifierlen { return errtoolongident.gen too long index %s , index } return nil } if err = checktoolongindex indexname ; err != nil { return errors.trace err }

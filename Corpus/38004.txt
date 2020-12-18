@@ -1,0 +1,1 @@
+ URL : "https://github.com/maxim-kukushkin/PhotoGallery/issues/2" TITLE : no cleanup mechanism BODY : there's no mechanism to remove the paths that don't exist on the file system anymore. i.e., if a directory is removed or renamed, it will cause a set of orphaned records in the database

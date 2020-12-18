@@ -1,0 +1,1 @@
+ URL : "https://github.com/fruxo/turbobadger/issues/122" TITLE : missing tbmover factory BODY : adding this to tb_widgets_reader.cpp would be cool - i'm currently doing it manually on my side. but having this usable from the ui scripts would be great. tb_widget_factory tbmover, tbvalue::type_null, widget_z_top {}

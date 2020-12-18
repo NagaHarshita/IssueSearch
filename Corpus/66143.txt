@@ -1,0 +1,1 @@
+ URL : "https://github.com/csugda/vega/issues/139" TITLE : map gen code is too big BODY : map gen code is getting far too big for its breeches. need to start splitting it out into sub-classes. for instance, sector needs to be its own class to be able to more easily interact between sectors. biome should be similar to sector, perhaps inherited from a common interface, etc.

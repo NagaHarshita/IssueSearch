@@ -1,0 +1,1 @@
+ URL : "https://github.com/EVEprosper/ProsperAPI/issues/2" TITLE : plex split compatability BODY : plex 29668 is splitting on may 9th database will need to backfill the split, and handle the type conversion across split-date. expected behavior typeid=29668 : newplex 500 typeid=tbd : oldplex / 500

@@ -1,0 +1,1 @@
+ URL : "https://github.com/lensfun/lensfun/issues/175" TITLE : calibration upload e73e6b BODY : calibration images were uploaded to the directory that starts with “ e73e6b_ ”. please read the workflow description https://github.com/lensfun/lensfun/blob/master/tools/calibration_webserver/workflow.rst for further instructions about the calibration.

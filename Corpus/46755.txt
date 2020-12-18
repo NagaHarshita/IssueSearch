@@ -1,0 +1,1 @@
+ URL : "https://github.com/Keroberos/sam/issues/82" TITLE : more stuff to address BODY : - an invoice can be reissued and could be reissued after the transaction has been made and will result in issue when reconciling the invoice.

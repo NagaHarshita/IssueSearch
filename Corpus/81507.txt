@@ -1,0 +1,1 @@
+ URL : "https://github.com/GIScience/OSM-realtime-update/issues/12" TITLE : zoom to selected feature BODY : when selecting a feature in the table, the map should choose an appropriate zoom level.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/nyu-cds/dov205_assignment3/issues/3" TITLE : two double for loops BODY : there are two double for loops in advance and report_energy functions, which makes a total four loops. there might be some other ways to decrease the number of for loops.

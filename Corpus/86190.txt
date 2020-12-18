@@ -1,0 +1,1 @@
+ URL : "https://github.com/McTwist/Support_EventScript/issues/8" TITLE : handle newlines correctly BODY : add so newlines is created correctly depending on the platform.

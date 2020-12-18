@@ -1,0 +1,1 @@
+ URL : "https://github.com/stfalcon-studio/FrescoImageViewer/issues/35" TITLE : event dialog cancel? BODY : when i press keyboard back in device, dialog not run dismiss , it just run cancel ==> not call listener dismiss. can you fix it? thank you!

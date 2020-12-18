@@ -1,0 +1,1 @@
+ URL : "https://github.com/kolber/audiojs/issues/239" TITLE : using with bootstrap BODY : hi. i tried this library on ie9 emulated on a page which uses bootstrap and this happened: https://s26.postimg.org/755e6beax/audiojs_margin_with_bootstrap.png the right margin does change as well, but is of course less noticible. is there any way to avoid this effect?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/cklmercer/vue-stash/issues/12" TITLE : call an api from store BODY : hi, is it possible to make an api call from store? i would like to call an endpoint when the store is created. my store.js export default { user: { name: null } }

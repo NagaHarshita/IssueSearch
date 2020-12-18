@@ -1,0 +1,1 @@
+ URL : "https://github.com/kubernetes/cluster-registry/issues/10" TITLE : write a design document BODY : now that the cluster registry prototype is done, we should write a design based on this knowledge and circulate it more broadly.

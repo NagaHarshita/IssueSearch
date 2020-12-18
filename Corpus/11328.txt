@@ -1,0 +1,1 @@
+ URL : "https://github.com/tobbebex/GPipe-Core/issues/52" TITLE : ghc 8.2 support? BODY : i tried changing the version bounds in the cabal file, but i couldn't get gpipe to compile with ghc 8.2. is this a known issue?

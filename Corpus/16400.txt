@@ -1,0 +1,1 @@
+ URL : "https://github.com/nengo/nengo_spa/issues/75" TITLE : improve ast tests BODY : the ast tests could be improved by splitting them up into smaller tests.

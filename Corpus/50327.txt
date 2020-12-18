@@ -1,0 +1,1 @@
+ URL : "https://github.com/bither/bither-android/issues/22" TITLE : wrong account balance BODY : bither shows the wrong account balance. i tried to reload transactions data but it still shows an other balance than i see at blockchain.info

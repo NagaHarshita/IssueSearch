@@ -1,0 +1,1 @@
+ URL : "https://github.com/WebDevStudios/WDS-Components-Library/issues/1" TITLE : add acf-json load path BODY : in order for acf to find existing metaboxes, we need to tell acf to look in the plugin.

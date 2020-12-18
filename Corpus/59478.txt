@@ -1,0 +1,1 @@
+ URL : "https://github.com/GoogleCloudPlatform/cloud-trace-java/issues/84" TITLE : unable to run on jdk 7 BODY : in tracegrpcapiservice constructor, it explicitly use javatimestampfactory which uses java.time.instant which is introduced since jdk8 and there is no easy way to replace it with jodatimestampfactory.

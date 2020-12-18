@@ -1,0 +1,1 @@
+ URL : "https://github.com/nteract/snakestagram/issues/6" TITLE : where to store assets BODY : we need a host to which all the build systems can upload. we could also store files on github if we go for creating releases with assets https://developer.github.com/v3/repos/releases/ upload-a-release-asset . any experience on this?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/apex/up/issues/381" TITLE : tests exhausting fds BODY : tests could clean up after themselves a bit better, right now it's easy for all the node sub-procs to exhaust your fds. for now: ps aux | grep 'node app.js' | awk '{ print $2 }' | xargs kill

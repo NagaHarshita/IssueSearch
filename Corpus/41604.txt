@@ -1,0 +1,1 @@
+ URL : "https://github.com/McTwist/AddOnPacker/issues/1" TITLE : add a name validation BODY : a suggestion is to add a name validation. this means that whenever a name for an archive is incorrect, it will either prompt the user for a change, or just output and ignore it.

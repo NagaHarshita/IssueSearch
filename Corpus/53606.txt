@@ -1,0 +1,1 @@
+ URL : "https://github.com/alexmdodge/personal-site/issues/18" TITLE : enable proper security BODY : investigate mozilla observatory and enable the proper headers, as well as a csp for the site

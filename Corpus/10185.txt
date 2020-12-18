@@ -1,0 +1,1 @@
+ URL : "https://github.com/drytoastman/scorekeeperfrontend/issues/8" TITLE : better tray menu BODY : or maybe switch to something else. the tray menu is stuck on java awt land and swing development is basically doa at oracle. it would be nice to have full control over the menu in terms of item icons, etc but not sure how platform independent that would be.

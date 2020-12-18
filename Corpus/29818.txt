@@ -1,0 +1,1 @@
+ URL : "https://github.com/MrSmoke/Lastfm-Scrobbler/issues/3" TITLE : move to oauth login BODY : the login login method makes me nervous not using oauth plus it seems the method auth.getmobilesession no longer works and returns the following error: json { error :4, message : authentication failed - you do not have permissions to access the service }

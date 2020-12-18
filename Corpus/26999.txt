@@ -1,0 +1,1 @@
+ URL : "https://github.com/efrecon/machinery/issues/32" TITLE : clean before reinit BODY : add a clean option to reunite, an option that would act little similar to the new prune mechanisms but on the images and containers that are declared for the particular machine.

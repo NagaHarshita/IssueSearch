@@ -1,0 +1,1 @@
+ URL : "https://github.com/traitecoevo/rrqueue/issues/26" TITLE : user defined function? BODY : can i define my function like this: myfun<-function {} task <- con$enqueue myfun if not, could rrqueue support it in the near future? it really help.

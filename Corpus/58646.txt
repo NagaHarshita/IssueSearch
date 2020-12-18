@@ -1,0 +1,1 @@
+ URL : "https://github.com/melezhik/sparky-docker/issues/3" TITLE : ssh: command not found BODY : здравствуйте. давайте в докер добавим пакет openssh, раз sparrowdo использует ssh. apk add openssh

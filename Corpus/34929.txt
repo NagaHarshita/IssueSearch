@@ -1,0 +1,1 @@
+ URL : "https://github.com/dlurton/lwnn/issues/10" TITLE : create release build BODY : add facility for doing a completely optimized build of our dependencies and of lwnn itself. probably requires https://github.com/dlurton/lwnn/issues/3 to be completed first, and may resolve https://github.com/dlurton/lwnn/issues/1.

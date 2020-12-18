@@ -1,0 +1,1 @@
+ URL : "https://github.com/ysmood/yaku/issues/54" TITLE : implement promise.try ? BODY : i'm sure you know, but it's a proposal http://2ality.com/2017/08/promise-try.html and is already integrated in other promise libs ex. bluebird would be nice to have!

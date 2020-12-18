@@ -1,0 +1,1 @@
+ URL : "https://github.com/jaraco/rwt/issues/16" TITLE : stdin not piped BODY : when piping input to a rwt-launched process, the stdin is not piped so any content piped is lost at the rwt invocation.

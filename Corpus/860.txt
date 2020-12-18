@@ -1,0 +1,1 @@
+ URL : "https://github.com/CSM-Offenburg/cantera/issues/1" TITLE : to do list BODY : 1. get intercalation class working in cantera 2.3 with idealsolidsolution as base class 2. rename as idealsolidsolutoin_tabulatedthermo . 3. enable cti writer functionality in ctml_writer.py 4. create test suite function. 5. create example problem s - graphite? ceria?

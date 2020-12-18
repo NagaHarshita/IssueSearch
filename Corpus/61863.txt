@@ -1,0 +1,12 @@
+ URL : "https://github.com/jecelyin/920-text-editor-v2/issues/872" TITLE : bugreport unknown color BODY : pantek memory: 325 mb / 1384 mb
+logcat error: exception ========================== package: com.jecelyin.editor.v2
+version code: 26
+version name: v2.17.2.13
+android: 6.0.1
+android build: mmb29k.a520fxxu1aqba
+manufacturer: samsung
+model: sm-a520f
+thread: main-1
+crashreporter key: a66d82b4-743a-5efa-9dc9-29772a93396036dda549
+start date: sat apr 08 23:37:24 gmt+07:00 2017
+date: sat apr 08 23:37:27 gmt+07:00 2017 java.lang.illegalargumentexception: unknown color at android.graphics.color.parsecolor color.java at com.azeesoft.lib.colorpicker.colorpickerdialog.getlastcolor colorpickerdialog.java:508 at com.azeesoft.lib.colorpicker.colorpickerdialog.init colorpickerdialog.java:166 at com.azeesoft.lib.colorpicker.colorpickerdialog.<init> colorpickerdialog.java:89 at com.azeesoft.lib.colorpicker.colorpickerdialog.createcolorpickerdialog colorpickerdialog.java:139 at com.jecelyin.editor.v2.ui.mainactivity.onmenuclick mainactivity.java:513 at com.jecelyin.editor.v2.ui.mainactivity.onmenuitemclick mainactivity.java:427 at com.jecelyin.editor.v2.adapter.mainmenuadapter$1.onclick mainmenuadapter.java:95 at android.view.view.performclick view.java at android.view.view$performclick.run view.java at android.os.handler.handlecallback handler.java at android.os.handler.dispatchmessage handler.java at android.os.looper.loop looper.java at android.app.activitythread.main activitythread.java at java.lang.reflect.method.invoke native method at com.android.internal.os.zygoteinit$methodandargscaller.run zygoteinit.java at com.android.internal.os.zygoteinit.main zygoteinit.java

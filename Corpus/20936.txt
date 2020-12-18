@@ -1,0 +1,1 @@
+ URL : "https://github.com/bluesuncorp/wash/issues/2" TITLE : dev.sh and codegen BODY : at the moment it does not watch for changes and then codegen ? for example new assets etc. this might be interesting for you.. https://github.com/tockins/realize it can watch and codegen etc. i am planning to try to match it up with some of your stuff. what do you think ?

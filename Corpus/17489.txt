@@ -1,0 +1,1 @@
+ URL : "https://github.com/snobu/php-imagick-webapps/issues/4" TITLE : png does not work BODY : i use imagemagick-6.9.8-3-q16-x86-dll and when i try to use the png format, i get the following error unabletoloadmodule d:\home\site\imagick\coders\im_mod_rl_png_.dll': the specified procedure could not be found. @ error/module.c/openmodule/1282

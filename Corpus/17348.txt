@@ -1,0 +1,1 @@
+ URL : "https://github.com/nchnsn/othello/issues/11" TITLE : outline clear mvc BODY : restructure the game so that there's seperate files/clearly defined model, model, view, controller.

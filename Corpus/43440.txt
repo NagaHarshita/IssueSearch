@@ -1,0 +1,1 @@
+ URL : "https://github.com/tz0/game/issues/84" TITLE : create electrical box BODY : this will be similar to the exit door entity, except will cause a different event to fire lethal - necessary function in entityfactory - add the electrical box to the level reading code - create a new spark particle system

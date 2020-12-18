@@ -1,0 +1,1 @@
+ URL : "https://github.com/facebook/react/issues/10857" TITLE : tostring on classname? BODY : did react used to call .tostring on non string objects it would receive? a few packages are not working anymore and as far as i can tell this is likely the reason. specifically anything using bem-cn or similar. might be something to add to docs as a breaking change.

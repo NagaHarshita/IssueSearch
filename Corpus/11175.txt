@@ -1,0 +1,1 @@
+ URL : "https://github.com/anasabau/FlightManager/issues/1" TITLE : fix jpa entities BODY : tables will not be created or populated by jpa.

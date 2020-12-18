@@ -1,0 +1,1 @@
+ URL : "https://github.com/HFIProgramming/NoticeBoardwith5.3/issues/16" TITLE : error log needed BODY : unexpected situations happened all the time, so we need to add a monolog and maybe exception handler for our application. @yhylord also, the /error/custom seems has some kind of issue, could @wsjnohyeah @yhylord check the manual. _i have no idea either xd_

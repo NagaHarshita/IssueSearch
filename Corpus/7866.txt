@@ -1,0 +1,1 @@
+ URL : "https://github.com/team-worm/spice/issues/65" TITLE : kill process ui BODY : - add docs for kill process endpoint - kill process, auto-reattach ui flow

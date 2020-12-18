@@ -1,0 +1,1 @@
+ URL : "https://github.com/codenameone/CodenameOne/issues/2121" TITLE : native scrolling container BODY : the scrolling behaviour of codename one components is not anywhere near as good as the native rubberband scrolling behaviour in ios. i wish there was a native scrolling container.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/BlitZz96/Twitch-brb/issues/1" TITLE : images and names BODY : so, you can change your name on twitch now. i believe the best idea to pull info on a user/chatters is using their id, and pull their names from that. i saw your //image? comment and found out images are called logos in the twich api. : https://dev.twitch.tv/docs/v5/reference/users/ get-user

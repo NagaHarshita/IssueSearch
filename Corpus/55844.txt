@@ -1,0 +1,1 @@
+ URL : "https://github.com/dotnet/csharplang/issues/850" TITLE : local extension method BODY : since we have local function. why shouldn't we take the local extension method ？ it like where we use |> in f : int foo int value { int add10 this int x => x + 10; int sub3 this int x => x - 3; return value .add10 .sub3 ; }

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ksclarke/jiiify-presentation/issues/5" TITLE : link java.lang javadocs BODY : the java.lang javadocs aren't currently being linked. fix that. http://projects.freelibrary.info/jiiify-presentation/javadocs.html

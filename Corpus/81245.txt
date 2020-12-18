@@ -1,0 +1,1 @@
+ URL : "https://github.com/bodhi-space/fluent-plugin-multiline-extended/issues/1" TITLE : what does 'splitter' do? BODY : i wonder, why the extendedmultilineparser class does not implement parse method, but splitter ? https://github.com/bodhi-space/fluent-plugin-multiline-extended/blob/master/lib/fluent/plugin/parser_multiline_extended.rb l23

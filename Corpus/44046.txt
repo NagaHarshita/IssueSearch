@@ -1,0 +1,1 @@
+ URL : "https://github.com/nvbn/thefuck/issues/685" TITLE : drop python 2 support BODY : python 2 support makes code more complicated and slow downs development. and as python 3 already exists almost nine years, it seems like there's no reason to support python 2 nowadays.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/PlasmaPower/ghcl/issues/2" TITLE : mock http apis BODY : i'm not sure what the best way to go about this is, but we should figure out a way to test the code for e.g. forking a repo.

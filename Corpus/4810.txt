@@ -1,0 +1,1 @@
+ URL : "https://github.com/InFact-coop/YiMovi/issues/121" TITLE : grey on yellow BODY : currently really hard to read the gray text on the yellow background, e.g. here: /genres/cartoon this becomes even worse when we change the names of the film titles currently class .light-silver, which is not part of the original color scheme to .light-gray

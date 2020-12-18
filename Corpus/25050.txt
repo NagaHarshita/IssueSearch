@@ -1,0 +1,1 @@
+ URL : "https://github.com/K15t/gulp-viewport/issues/5" TITLE : upload kills theme BODY : uploading anything else than the .vm files in the base folder kills the theme. it is still in the list of viewport themes, but when i try to edit it, i get an error saying could not load theme .

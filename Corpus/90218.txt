@@ -1,0 +1,1 @@
+ URL : "https://github.com/openml/OpenML/issues/513" TITLE : scimark benchmark results BODY : would be nice to automatically allow for scimark benchmark results to be uploaded with cpu information, to also form an extra data set that could be queried as discussed in rg big data meeting.

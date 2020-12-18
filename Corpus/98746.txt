@@ -1,0 +1,1 @@
+ URL : "https://github.com/JuliaApproximation/SingularIntegralEquations.jl/issues/103" TITLE : laguerre cauchy transforms BODY : julia x = fun 0 .. 20.0 α = 0.1 cauchy x^α exp -x , 2.0+im

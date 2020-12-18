@@ -1,0 +1,1 @@
+ URL : "https://github.com/JulNadeauCA/libagar/issues/1" TITLE : fdclose isn't portable BODY : core/data_source.h and core/web_auth.c both have calls to fdclose, which don't exist on some systems, so the linking phase will fail in those systems

@@ -1,0 +1,1 @@
+ URL : "https://github.com/bensku/Skript/issues/775" TITLE : error removing variable BODY : if user add a variable before server abnormaly shut down, server has that variable but if user delete the variable before server abnormaly shut down, server doesn't deleted that variable

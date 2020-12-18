@@ -1,0 +1,1 @@
+ URL : "https://github.com/rimusz/glusterfs-gce/issues/10" TITLE : just a quick question BODY : is there any reason i should use persistent-ssd over local-ssd if i am planning on replicating the data across 3 nodes in prod?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/opendevshop/devshop/issues/241" TITLE : do a general code cleanup. BODY : there are empty and unused files in these repos. let's try and remove some of them before this release.

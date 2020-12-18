@@ -1,0 +1,1 @@
+ URL : "https://github.com/riastrad/newSeer/issues/2" TITLE : dum.py first pass BODY : script needs to be written to iterate over all clean .csv files and load each instance i.e. an article title and associated data into a local database.

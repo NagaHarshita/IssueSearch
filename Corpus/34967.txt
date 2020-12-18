@@ -1,0 +1,1 @@
+ URL : "https://github.com/alexsanchez728/SWRPG-NPC-generator-and-tracker/issues/43" TITLE : create: empty fields BODY : as a developer: if the user leaves any fields that aren't required empty, replace the 'undefined' with 'none' or 0, whatever is necessary to make the battle page look cleaner

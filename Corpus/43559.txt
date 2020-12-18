@@ -1,0 +1,1 @@
+ URL : "https://github.com/ashton/ludo-api/issues/1" TITLE : criação de partidas BODY : a api deve permitir a criação do recurso de partidas, onde serão informados os seguintes dados: - data da partida - endereço da partida - usuário organizador - número máximo de jogadores opcional

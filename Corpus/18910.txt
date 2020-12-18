@@ -1,0 +1,1 @@
+ URL : "https://github.com/signdict/website/issues/43" TITLE : user profile edit BODY : every user should be able to edit her/his profile with name, biography and change password. the password change should only work if both the password and the confirmation are the same.if no password is filled out in the fields, that just will be ignored.

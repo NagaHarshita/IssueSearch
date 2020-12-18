@@ -1,0 +1,1 @@
+ URL : "https://github.com/cyverse-computational-training/20170225/issues/1" TITLE : save commands to file BODY : use this command export histtimeformat= %t export prompt_command= history 1 >> ~/dropbox/public/history.txt then share your dropbox link in the etherpad

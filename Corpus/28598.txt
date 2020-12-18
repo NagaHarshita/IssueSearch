@@ -1,0 +1,1 @@
+ URL : "https://github.com/mikron-ia/rpg-hub/issues/274" TITLE : header style rework BODY : most descriptions rely on headers to structure view; currently, the sole difference between headers is font size - hardly enough. consider either different font for headers of h3 and below, or separate header styling for description headers altogether

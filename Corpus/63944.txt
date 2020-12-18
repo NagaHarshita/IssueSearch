@@ -1,0 +1,1 @@
+ URL : "https://github.com/UM-USElab/gradecraft-development/issues/3472" TITLE : fatal errors on rubrics BODY : as an instructor, i want to be to mark a particular level of a rubric as a fatal error - if a student is awarded this level, they earn zero points for the rubric, no matter what everything else is assessed as.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/pavel-kazhavets/AlertmanagerRocketChat/issues/1" TITLE : messages not formated BODY : i used the provided js script as this and the sent messages are not formated: ! screenshot-2017-6-7 rus chat 1 https://user-images.githubusercontent.com/1955673/26868204-726fe2e4-4b68-11e7-9b8e-b3e08f44574d.png is there some configuration from rocketchat side to do?

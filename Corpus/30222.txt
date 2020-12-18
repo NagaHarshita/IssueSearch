@@ -1,0 +1,1 @@
+ URL : "https://github.com/bokuweb/react-rnd/issues/131" TITLE : onclick not working BODY : i am not sure if this is a bug or a feature request, but onclick doesnt work. overview of the problem <!-- i'm using react-rnd 5.0.8 --> description if onclick is set, the event doesnt fire at all.

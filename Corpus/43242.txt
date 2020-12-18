@@ -1,0 +1,1 @@
+ URL : "https://github.com/torrvision/siamfc-tf/issues/14" TITLE : confidence of tracker BODY : does the output tensor values represent confidence in any way? or is there anyway to get a confidence value per frame? thanks

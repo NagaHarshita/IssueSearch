@@ -1,0 +1,1 @@
+ URL : "https://github.com/w3ctag/webarch/issues/9" TITLE : tls and security BODY : we need an architectural view on the properties that tls provides and its end-to-end nature. likely needs to incorporate: https://www.w3.org/2001/tag/doc/web-https https://www.w3.org/2001/tag/doc/encryption-finding/

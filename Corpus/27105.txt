@@ -1,0 +1,1 @@
+ URL : "https://github.com/kvic-z/pixelserv-tls/issues/1" TITLE : compiling in ubuntu BODY : what do i have to change to get it to compile on ubuntu 16? currently i'm using nginx serving a 1px gif, but it doesn't work for tls connections.

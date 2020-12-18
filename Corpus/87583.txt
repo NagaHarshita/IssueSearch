@@ -1,0 +1,1 @@
+ URL : "https://github.com/saltstack-formulas/mongodb-formula/issues/47" TITLE : logrotate issue on centos BODY : the logrotate does not work properly on centos as the lock file is not stored in /var/lib/mongodb/mongod.lock but in /var/lib/mongo/mongod.lock.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/elifoster/String-Utility-Ruby/issues/5" TITLE : file naming standards BODY : lib/utils.rb should be moved into lib/string-utility.rb lib/string-utility.rb should be renamed to lib/string_utility.rb these are breaking changes.

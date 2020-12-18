@@ -1,0 +1,1 @@
+ URL : "https://github.com/invu/movieo/issues/16" TITLE : building the project BODY : hi, i cannot build the solution because the projects chrenelib and cbuttonlib are referenced but not in the git repo. where can i get them?

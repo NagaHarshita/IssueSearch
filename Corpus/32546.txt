@@ -1,0 +1,1 @@
+ URL : "https://github.com/scalameta/scalameta/issues/670" TITLE : val annotation lost BODY : https://github.com/scalameta/paradise/issues/115 syntactic @foo val foo = 2

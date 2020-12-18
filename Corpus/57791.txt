@@ -1,0 +1,1 @@
+ URL : "https://github.com/activeadmin/activeadmin/issues/5272" TITLE : remove comments routes BODY : expected behavior what do you think should happen? when removing admin comments migration and disabling comments routes should be removed as well actual behavior what actually happens? when running rake routes admin_comments routes are showing up

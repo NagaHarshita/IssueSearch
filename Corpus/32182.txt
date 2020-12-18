@@ -1,0 +1,1 @@
+ URL : "https://github.com/dwyl/learn-elm-architecture-in-javascript/issues/32" TITLE : typo in section 5.3 BODY : in section 5.3 there is a typo switch is written as swicth . happy to make a quick pr to fix this, but don't have rights on this repo.

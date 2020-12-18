@@ -1,0 +1,1 @@
+ URL : "https://github.com/kerk12/HacktoberfestChecker-cli/issues/2" TITLE : basic exception handling. BODY : basic exception handling needs to be added to various places inside the script. more specifically: - import checking what if the library isn't installed . - input checking empty values, whatever else... . - any other exception not handled properly.

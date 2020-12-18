@@ -1,0 +1,1 @@
+ URL : "https://github.com/streamlink/streamlink/issues/843" TITLE : fix for bigo.tv plugin BODY : in line 50, the plugin works better like this. _url_re = re.compile r https?:// ?:www\. ? bigo\.tv/\w+|bigoweb\.co/show/\w+ this change allows user names mixed with letters and numbers.

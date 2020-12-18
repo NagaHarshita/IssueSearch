@@ -1,0 +1,1 @@
+ URL : "https://github.com/mmistakes/made-mistakes-jekyll/issues/522" TITLE : fix travis ci build error BODY : build times out after deploy. kill background process for ssh-agent ssh-agent -k reference: https://github.com/travis-ci/travis-ci/issues/8082 issuecomment-315151953

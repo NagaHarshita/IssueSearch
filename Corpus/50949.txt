@@ -1,0 +1,1 @@
+ URL : "https://github.com/fabric8-services/fabric8-notification/issues/24" TITLE : add gracefull shutdown BODY : avoid the process being killed during rolling update before emails for currently received requests are scheduled.

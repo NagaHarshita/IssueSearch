@@ -1,0 +1,1 @@
+ URL : "https://github.com/tomaswolf/gerrit-gitblit-plugin/issues/29" TITLE : support for gerrit 2.14 BODY : any plan to update the plugin for 2.14? the official plugin seems to have issues with raw links which always worked on older gerrit with your plugin.

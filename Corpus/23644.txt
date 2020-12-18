@@ -1,0 +1,1 @@
+ URL : "https://github.com/188080501/JQNetwork/issues/21" TITLE : qt 切换到 epoll BODY : 不是说 select 或者 poll 模型慢嘛，可以切换到 epoll ，这里找到一个库 qeventdispatcher_epoll https://github.com/connectedtable/qeventdispatcher_epoll ，希望有空可以测试一下这个。看看性能能否提升。-

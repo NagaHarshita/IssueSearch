@@ -1,0 +1,1 @@
+ URL : "https://github.com/styleguidist/brand/issues/1" TITLE : svg is incorrect BODY : png: ! https://github.com/styleguidist/brand/raw/master/rs-logo.png svg: ! https://cdn.rawgit.com/styleguidist/brand/master/rs-logo.svg probably because of svgo. also there are lots of things in the svg files even after compression.

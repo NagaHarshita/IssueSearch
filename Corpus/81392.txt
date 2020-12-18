@@ -1,0 +1,1 @@
+ URL : "https://github.com/shwenzhang/AndResGuard/issues/209" TITLE : write custom gradle task BODY : hi. i have two flavors like resguardonerelease, resguardtworelease , i want to write some gradle task to run both in sequence. but any attempt to defeat. how can i do something like this?

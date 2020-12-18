@@ -1,0 +1,1 @@
+ URL : "https://github.com/ngryman/speedracer/issues/3" TITLE : missing ms module BODY : just found this gem via npm- tried installing and running but it seems like ms is missing from package.json

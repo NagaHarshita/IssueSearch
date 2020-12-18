@@ -1,0 +1,1 @@
+ URL : "https://github.com/AspNetMonsters/monster-sponsorship/issues/1" TITLE : add support for usd BODY : currently hard coded to cad. a query parameter ?currency=usd should be sufficient for our needs.

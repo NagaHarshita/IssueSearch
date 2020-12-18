@@ -1,0 +1,1 @@
+ URL : "https://github.com/furzeface/framewerk/issues/3" TITLE : travis ci build BODY : project version: eg: _v1.0.0_ issue type: - x feature suggestion get a working travis build using the example config.

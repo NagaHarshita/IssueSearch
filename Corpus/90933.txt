@@ -1,0 +1,1 @@
+ URL : "https://github.com/retext-project/retext/issues/253" TITLE : support commonmark syntax BODY : currently retext gives the option to use markdown, textile and restructured text. it would be great to be compliant with commonmark which is a kind of standardized version of markdown

@@ -1,0 +1,1 @@
+ URL : "https://github.com/waltsims/dotfiles/issues/2" TITLE : update install strategy BODY : i have two ideas for this: - either the create a link to the files in .dotfiles - or append the current config files with a source command to my dot files

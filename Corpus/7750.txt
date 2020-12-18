@@ -1,0 +1,1 @@
+ URL : "https://github.com/violant/PBC-tasks/issues/2" TITLE : incorrect vm ip BODY : the ip has to be 192.168.33.10 . please update. https://github.com/violant/pbc-tasks/blob/af9afcdc777dff0010da0122cc8422c104f765fb/vagrantfile l35

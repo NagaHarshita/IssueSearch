@@ -1,0 +1,1 @@
+ URL : "https://github.com/watson-developer-cloud/car-dashboard/issues/53" TITLE : resource not found BODY : when the payload is posted in endpoint /api/message: { input :{ text : hi }} the follow response is returned 500 internal server error : { code :500, error : resource not found }

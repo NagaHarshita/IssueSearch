@@ -1,0 +1,1 @@
+ URL : "https://github.com/seaiin/shoot-that-pizza/issues/3" TITLE : bug typing same alphabet BODY : ! image https://user-images.githubusercontent.com/15122086/34463772-38860160-ee99-11e7-8669-e5ca890ea361.png it should clear letter when player type wrong. in this case, player type same alphabet.

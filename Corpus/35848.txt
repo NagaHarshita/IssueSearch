@@ -1,0 +1,1 @@
+ URL : "https://github.com/kode54/BASSMIDI-Driver/issues/12" TITLE : files path problems. BODY : so i found out that if i add a soundfont in configure bassmidi driver and save the list and i move the soundfont somewhere else the configure bassmidi driver won't open after but if i put the soundfont where it should be it works again.

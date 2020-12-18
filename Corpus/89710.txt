@@ -1,0 +1,1 @@
+ URL : "https://github.com/cjdev/visual-stack/issues/45" TITLE : refactor redux actions.js BODY : the action/reducer file has gotten convoluted and should be broken out.

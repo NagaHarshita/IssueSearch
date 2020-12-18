@@ -1,0 +1,1 @@
+ URL : "https://github.com/Mendeley/mendeleykit/issues/64" TITLE : authorization in mendeley BODY : hello. is there a way to make api requests without authorization on the new device? is it always necessary to show the user login window? i registered and received my application clientid, clientsecret and clientredirect

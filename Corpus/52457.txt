@@ -1,0 +1,1 @@
+ URL : "https://github.com/AutoSponge/set-state/issues/3" TITLE : code the documentation BODY : i would prefer to have all methods carry their own jsdoc comments and use a parser to execute the examples as part of the test suite. so far, i can only find this functionality for mocha. i'm not switching out tape for mocha, so this may have to be invented.

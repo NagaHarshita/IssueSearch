@@ -1,0 +1,1 @@
+ URL : "https://github.com/udacity/reactnd-UdaciFitness-complete/issues/5" TITLE : typo in /utils/helpers.js BODY : <pre> tomorrow.setmintutes 0 notifications.schedulelocalnotificationasync </pre>

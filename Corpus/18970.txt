@@ -1,0 +1,1 @@
+ URL : "https://github.com/limecrayon/craigslist-gigs/issues/2" TITLE : version is in dev BODY : lots of changes happen too quickly to follow, append dev to version in setup.py. not sure how to make history clearer, going to try committing more.

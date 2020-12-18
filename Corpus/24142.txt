@@ -1,0 +1,1 @@
+ URL : "https://github.com/leikir/devise-token-auth-omniauth-example/issues/1" TITLE : session is not set BODY : hi guys, it would be great if you would complete this example. i am stuck setting sessions after the user is logged in via the oauth. https://github.com/lynndylanhurley/devise_token_auth/issues/1007

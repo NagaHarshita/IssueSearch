@@ -1,0 +1,1 @@
+ URL : "https://github.com/Bribberish/auto-form/issues/12" TITLE : prices not counting BODY : if the page is reloaded some browsers 'helpfully' keep the boxes checked, this means we need do a inital load of the prices and check if any are already checked and put that on the score.

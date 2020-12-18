@@ -1,0 +1,1 @@
+ URL : "https://github.com/UnigramDev/Unigram/issues/247" TITLE : message forwarding bug BODY : if you be in a group or a private profile then navigate to another channel using id and try to forward a message from it app will go back to the page you were in and doesn't show a contact picker .

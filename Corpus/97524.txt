@@ -1,0 +1,1 @@
+ URL : "https://github.com/bubkoo/ascii-progress/issues/20" TITLE : hangs when there is no tty BODY : if there is no tty, i.e. !process.stdout.istty , this hangs. it might be wise to do nothing if there is no tty.

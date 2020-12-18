@@ -1,0 +1,1 @@
+ URL : "https://github.com/r888888888/ccs/issues/1" TITLE : make sample counts dynamic BODY : it's currently hardcoded to 40k/10k validation/test splits in characters.py

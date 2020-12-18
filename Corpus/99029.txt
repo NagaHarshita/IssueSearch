@@ -1,0 +1,4 @@
+ URL : "https://github.com/katgnichols/test_sean/issues/7" TITLE : magithub can write issues! BODY : and, thanks to markdown-mode and its derived gfm-mode , we can easily show
+- structured
+- text
+and elisp lots of other cool stuff

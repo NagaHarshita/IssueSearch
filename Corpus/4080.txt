@@ -1,0 +1,1 @@
+ URL : "https://github.com/kdabir/has/issues/17" TITLE : add more tools BODY : this is an umbrella issue to support more tools from various languages ecosystems like python, clojure, scala, php and others. following commands need to be supported. more can be added/suggested: - clojure, lein - scala, sbt - php

@@ -1,0 +1,1 @@
+ URL : "https://github.com/js-data/js-data/issues/486" TITLE : non resource endpoints? BODY : how to create non resource endpoints. for example the dashboard of an application which might need a collection of data in a single request. how do i create an endpoint request for /dashboard ? i hope i am making sense.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/pinqy520/mobx-persist/issues/7" TITLE : class actions workaround BODY : hello, can u pls explain, how can i execute actions from my obsevable on a valueview, created from that observable.

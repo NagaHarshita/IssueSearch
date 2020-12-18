@@ -1,0 +1,1 @@
+ URL : "https://github.com/ArjanKranenburg/virtual-devices/issues/3" TITLE : mutual exclusive modes BODY : currently the mode devices are acting the same way as virtual devices... but i would guess they are mutually exclusive; if one mode is selected, all others will be cancelled switched off . is it possible to add this to this app?

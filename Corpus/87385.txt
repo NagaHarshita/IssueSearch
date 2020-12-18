@@ -1,0 +1,1 @@
+ URL : "https://github.com/d3vnu1l/ps-040/issues/1" TITLE : lcd driver is not working BODY : max7219 spi is set on on spi module 3. it gets called in 'readpots' function of utilities.c, however is not working properly. output seems correct on oscilloscope

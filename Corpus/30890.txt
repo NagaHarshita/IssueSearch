@@ -1,0 +1,1 @@
+ URL : "https://github.com/haskell/primitive/issues/52" TITLE : release new version BODY : i'd be great if there was a version of primitive released on hackage that supported the upcoming ghc 8.2.1. testing ghc 8.2.1 today is harder than it has to be, since trying to install packages fails on primitive .

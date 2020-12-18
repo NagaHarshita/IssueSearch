@@ -1,0 +1,1 @@
+ URL : "https://github.com/patmigliaccio/tnl/issues/3" TITLE : add spa flag support BODY : serve single page applications if an --spa flag is included

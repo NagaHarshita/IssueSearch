@@ -1,0 +1,1 @@
+ URL : "https://github.com/tdewolff/minify/issues/143" TITLE : minifying rgba in css BODY : i like my things to be minified, but i don't link minify removing the background-color transparency of an element background-color: rgba 0,0,0,0.5 ; turns to background-color: 000 which are not identical.

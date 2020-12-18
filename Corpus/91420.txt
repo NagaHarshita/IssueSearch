@@ -1,0 +1,1 @@
+ URL : "https://github.com/ros-simulation/gazebo_ros_demos/issues/19" TITLE : todo remove master branch BODY : i've just switched to indigo-devel and kinetic-devel branches, will delete master branch once prs are merged

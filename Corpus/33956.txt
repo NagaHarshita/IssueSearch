@@ -1,0 +1,1 @@
+ URL : "https://github.com/chili-epfl/FROG/issues/693" TITLE : better list matching BODY : use this library for search in graph editor sidebar, and other places where you type to filter. https://github.com/kentcdodds/match-sorter

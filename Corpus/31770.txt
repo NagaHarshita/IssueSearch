@@ -1,0 +1,1 @@
+ URL : "https://github.com/justcoding121/Titanium-Web-Proxy/issues/178" TITLE : support for timers? BODY : hi. i am looking into profiling the performance of some ajax http requests. does this library support timers in a similar fashion to http://fiddler.wikidot.com/timers?

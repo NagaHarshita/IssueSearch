@@ -1,0 +1,1 @@
+ URL : "https://github.com/sanchewy/BattleshipWebServer/issues/6" TITLE : hanging fire request BODY : weird phantom issue with windows machines. fire request hangs while the view of opponent_board.html or own_board.html is open in browser. i didn't have the issue on my mac, but i suspect it has something to do with closing / flushing the request buffer.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla/telemetry-analysis-service/issues/360" TITLE : failure email not sent BODY : daily-export-of-previous-day-oom-crash-data-v1-to-s3 has been failing every day. the failure email was not sent on 2017-03-31.

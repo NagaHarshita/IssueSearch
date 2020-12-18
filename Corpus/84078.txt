@@ -1,0 +1,1 @@
+ URL : "https://github.com/vuejs/vue-syntax-highlight/issues/90" TITLE : could include jsx syntax? BODY : i know now i can enable jsx highlighting with package of babel, but in sublime text, i must ignore default js package first to make that work, that means i will lose all features such as auto complete provided by default js package.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/UCSB-CS56-Projects/cs56-games-treasure-hunter/issues/61" TITLE : adding a game loop BODY : the code should be refactored to contain a game loop to iterate over the state of the game and update it. this is crucial since it helps with fixing issues such as laggy input, adding a timer, and adding enemies.

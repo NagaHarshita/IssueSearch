@@ -1,0 +1,1 @@
+ URL : "https://github.com/MikeSaprykin/elm-snake-game/issues/11" TITLE : add leaderboard page BODY : add leader board page that will be fetching the ratings from node.js server and display the data

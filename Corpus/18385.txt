@@ -1,0 +1,1 @@
+ URL : "https://github.com/dart-lang/mono_repo/issues/21" TITLE : sync common files BODY : when working with multiple packages its a pain to keep files in sync. for example you often want the same analysis_options.yaml across packages. it would be great to have a consistent way of doing this.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Caleydo/mothertable/issues/17" TITLE : filter when data is added BODY : assume there is already some kind of filters active. now if the user adds the new attribute, the new attribute data will be filtered based on the current filtering criteria.

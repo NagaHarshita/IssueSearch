@@ -1,0 +1,1 @@
+ URL : "https://github.com/hylang/hy/issues/1462" TITLE : add rob day to core BODY : @rkday has so far contributed 5 prs https://github.com/hylang/hy/pulls?q=is%3apr+author%3arkday and is unusually fearless about editing compiler.py, the biggest and most intimidating part of hy. what does @hylang/core say?

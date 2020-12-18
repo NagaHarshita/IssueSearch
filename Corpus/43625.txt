@@ -1,0 +1,1 @@
+ URL : "https://github.com/pylover/sqlalchemy-media/issues/67" TITLE : custom thumbnail type BODY : use __thumbnail_type__ of image when generate thumbnail.

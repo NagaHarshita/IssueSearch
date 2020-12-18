@@ -1,0 +1,1 @@
+ URL : "https://github.com/reverland/blog-next/issues/6" TITLE : permalinks marker in post BODY : post 的url，在 https://jekyllrb.com/docs/permalinks/ 中介绍，可以自定义url。 于是我试了一下： ! image https://cloud.githubusercontent.com/assets/3538629/23510479/c7fb8166-ff94-11e6-9a50-7fe181fd37d7.png 发现不支持这个配置？

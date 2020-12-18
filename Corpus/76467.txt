@@ -1,0 +1,1 @@
+ URL : "https://github.com/Bogdro/Stickman-Adventures/issues/4" TITLE : kończenie gry po upadku BODY : należy zakodować kończenie gry game over po upadku gracza z podłoża. można przekierować scenę z powrotem na scenę menu id=0 .

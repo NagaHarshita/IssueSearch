@@ -1,0 +1,1 @@
+ URL : "https://github.com/webcomponents/shadydom/issues/191" TITLE : source maps unavailable? BODY : the sourcemaps for the code seem to be missing or not mapped properly. we are debugging some oddities likely within our build but it would help if these functioned. thanks!

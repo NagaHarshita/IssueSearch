@@ -1,0 +1,1 @@
+ URL : "https://github.com/conda-forge/libcxx-feedstock/issues/9" TITLE : test building c++ program BODY : would be good if a simple test c++ program were run in the build stage.

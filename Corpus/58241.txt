@@ -1,0 +1,1 @@
+ URL : "https://github.com/purcell/diredfl/issues/3" TITLE : see also dired-rainbow BODY : i've written a somewhat similar package https://github.com/fuco1/dired-hacks dired-rainbow maybe we could somehow combine things together? though you seem to provide a bit orthogonal functionality, i'm more about fontifying file names based on rules, but i can see some overlap.

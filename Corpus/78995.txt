@@ -1,0 +1,1 @@
+ URL : "https://github.com/thtrieu/darkflow/issues/329" TITLE : request: suppress output BODY : feature request. a flag that can be passed through tfnet options dictionary to suppress output to console. looking to use this in an application that doesnt fill up the console with darkflow/darknet stuff! thanks

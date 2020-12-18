@@ -1,0 +1,1 @@
+ URL : "https://github.com/running-coder/jquery-form-validation/issues/34" TITLE : validating hidden fields BODY : hi, i am using jquery nice select plugin for my select box. it hides the real select box and creates another with <ul> and <li>. i am applying validation on hidden select box. and it's not working.

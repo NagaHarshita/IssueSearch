@@ -1,0 +1,1 @@
+ URL : "https://github.com/azu/immutable-array-prototype/issues/20" TITLE : copywithin with array-like BODY : currently, following behavior. js import { copywithin } from @immutable-array/copywithin ; const arraylike = { length: 5, 3: 1 }; let actual = copywithin arraylike, 0, 3 ; assert.deepstrictequal actual, 1, , , 1, ; is this no problem?

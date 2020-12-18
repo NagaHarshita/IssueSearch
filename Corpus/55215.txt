@@ -1,0 +1,1 @@
+ URL : "https://github.com/Toxantron/scrumonline/issues/48" TITLE : improve server queries BODY : the dynamic polling that fixed 47 is only a temporary solution to buy some time. we need to improve server performance to scale to even more clients.

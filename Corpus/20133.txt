@@ -1,0 +1,1 @@
+ URL : "https://github.com/openshift/ansible-service-broker/issues/499" TITLE : break up broker.go BODY : broker/broker.go is starting to become monolithic, pushing 1300 lines. i would suggest we start to break things up by method, i.e. {provision, bind, update}_handler.go etc.

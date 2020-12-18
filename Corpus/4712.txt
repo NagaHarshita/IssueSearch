@@ -1,0 +1,1 @@
+ URL : "https://github.com/hellowin/kanca/issues/96" TITLE : fix line chart BODY : to dos: - rename posts time series to linechart component - use flow enum for chart props instead of strings

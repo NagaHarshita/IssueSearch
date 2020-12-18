@@ -1,0 +1,1 @@
+ URL : "https://github.com/ESGF/esgf-docker/issues/29" TITLE : esgf docker test suite BODY : create a test suite with generic framework, simple enough so as to the esgf developers be able to write tests.

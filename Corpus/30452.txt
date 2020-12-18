@@ -1,0 +1,1 @@
+ URL : "https://github.com/NiekSchoone/Proef_Space_Shooter/issues/17" TITLE : plasma bullet owner BODY : plasma bullets are made in an object pool and given a texture. but the enemy units need to shoot bullets with a different texture.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/WhitmanSWDesignSpring2017/Heisenbug/issues/29" TITLE : cut & immediate paste BODY : if you cut and then immediately paste, you should end up with the same thing as before you cut, except that there are now two new actions to be undone/redone.

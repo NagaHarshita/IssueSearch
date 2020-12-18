@@ -1,0 +1,1 @@
+ URL : "https://github.com/ASoft-se/Gentoo-HAI/issues/10" TITLE : makeopts=-j. are ignored BODY : https://github.com/asoft-se/gentoo-hai/blob/master/install.sh l234 here and at the next lines l244, l252, ... fresh-set

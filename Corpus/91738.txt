@@ -1,0 +1,1 @@
+ URL : "https://github.com/CleverRaven/Cataclysm-DDA/issues/22038" TITLE : untranslated monster name BODY : https://github.com/cleverraven/cataclysm-dda/blob/44963bc2bad26132b91d299350c4a1986a9f2a73/src/mission_start.cpp l291 this little guy here is untranslated. will changing it to _ little guy solve the issue?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/nathangoulding/grpcli/issues/6" TITLE : support for include paths BODY : using something like this fails: import google/protobuf/timestamp.proto ; it would be great to have some way of passing include paths

@@ -1,0 +1,1 @@
+ URL : "https://github.com/nsk-mironov/smuggler/issues/28" TITLE : doesn't work anymore? BODY : hey, this seems like an awesome library, for some reason i can't get it to work. i followed your installation guide and wrote everything in gradle, but when extending autoparcelable the compiler require a creator and it's not working.. am i doing something wrong / missing something?

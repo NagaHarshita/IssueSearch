@@ -1,0 +1,1 @@
+ URL : "https://github.com/APISENSE/android-network-measures/issues/7" TITLE : tokenize on null BODY : after downloading and trying to import as module it gives and error cannot invoke method tokenize on null object. in gradle

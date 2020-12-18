@@ -1,0 +1,1 @@
+ URL : "https://github.com/scorelab/OpenDF/issues/55" TITLE : optimize the dockerfile BODY : should follow the best practices like chaining commands, etc to achieve optimize layers and sizes of the docker image.

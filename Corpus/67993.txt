@@ -1,0 +1,3 @@
+ URL : "https://github.com/rasa-silva/ZenHub/issues/19" TITLE : redesign commit details BODY : - less margins
+- no sha
+- maybe set repo name on support toolbar

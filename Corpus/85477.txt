@@ -1,0 +1,1 @@
+ URL : "https://github.com/MartinezAntonio/booking/issues/2" TITLE : fallo de seguridad paypal BODY : el formulario de paypal es modificable on the fly . - encriptarlo o hacer una verificacion con el ipn

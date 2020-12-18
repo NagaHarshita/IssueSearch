@@ -1,0 +1,1 @@
+ URL : "https://github.com/01org/tpm2.0-tools/issues/260" TITLE : optarg - stop copying BODY : stop copying optarg and just store the pointer for later usage. see https://www.gnu.org/software/libc/manual/html_node/using-getopt.html for more info.

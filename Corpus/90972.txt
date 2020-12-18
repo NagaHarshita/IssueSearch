@@ -1,0 +1,1 @@
+ URL : "https://github.com/gorangajic/react-icons/issues/123" TITLE : support for fontawesome 5 BODY : hi, the fontawesome 5 has been released and the default download contains raw svg files too, so i think automating it would be easy. what do you think about adding support for it?

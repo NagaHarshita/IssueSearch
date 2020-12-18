@@ -1,0 +1,1 @@
+ URL : "https://github.com/blackmaz/saltstack_test/issues/16" TITLE : 배포용 파일 서버 BODY : application source와 초기 data 배포용 파일서버 구성 필요 - 사용자 별로 계정 분리 필요 - 접근제어가 가능 - 접근이 원활해야 함 - 중간에 인증페이지, http redirect 없이 다운로드가 가능해야 함 wget, curl 등 이용

@@ -1,0 +1,1 @@
+ URL : "https://github.com/toursprung/iOS-Screenshot-Automator/issues/8" TITLE : does not work in xcode 9 BODY : the springboard.app isn't in the coreservices folder any more. any idea how to do this in xcode 9? thanks!

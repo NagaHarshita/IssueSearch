@@ -1,0 +1,1 @@
+ URL : "https://github.com/CityOfZion/neo-python/issues/59" TITLE : max recursion depth issue BODY : could not check message data maximum recursion depth exceeded while calling a python object seems like a race condition that happens when a node has been running for some time. this bug has a _10 neo_ bounty to anyone who resolves it!

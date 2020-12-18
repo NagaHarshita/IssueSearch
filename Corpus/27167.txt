@@ -1,0 +1,1 @@
+ URL : "https://github.com/raysan5/raylib/issues/404" TITLE : core timing support BODY : hi, for framerate-independent animations it would be great to have support for timing stuff get current time in ms or something like that . there are already support-routines in core, but they're not exposed to the user.

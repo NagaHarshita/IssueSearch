@@ -1,0 +1,1 @@
+ URL : "https://github.com/consolidation/Robo/issues/648" TITLE : symfony 4 support BODY : some other projects support symfony 4 already, but robo pins some symfony components down to 3. . please implement support for symfony 4.

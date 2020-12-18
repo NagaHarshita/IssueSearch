@@ -1,0 +1,1 @@
+ URL : "https://github.com/sikthehedgehog/Echo/issues/12" TITLE : add mono/stereo setting BODY : include a command that tells echo whether to allow panning or to force fm channels to be always centered.

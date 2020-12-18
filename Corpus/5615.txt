@@ -1,0 +1,1 @@
+ URL : "https://github.com/thiagoperes/IDMPhotoBrowser/issues/261" TITLE : report a crash BODY : when the photo's array that delivered to the idmphotobrowser is nil or 0, it will be crash. it looks like that the function - id<idmphoto> photoatindex: nsuinteger index couldn't consider the situation.

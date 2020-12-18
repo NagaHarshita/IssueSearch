@@ -1,0 +1,1 @@
+ URL : "https://github.com/swagger-api/swagger-ui/issues/2765" TITLE : where is the lang dir? BODY : for localization, the lang in 'dist' directory is missing. 3.0.2

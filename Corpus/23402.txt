@@ -1,0 +1,1 @@
+ URL : "https://github.com/nozavroni/collections/issues/57" TITLE : php7 build failing BODY : the build for php7 is failling. something to do with collection sort order.

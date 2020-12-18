@@ -1,0 +1,1 @@
+ URL : "https://github.com/cggh/scikit-allel/issues/144" TITLE : joint_sfs resize warning BODY : allel/stats/sf.py:212: visibledeprecationwarning: using a non-integer number instead of an integer will result in an error in the future s.resize n, m

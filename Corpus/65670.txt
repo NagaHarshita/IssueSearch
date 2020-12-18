@@ -1,0 +1,1 @@
+ URL : "https://github.com/AuthorizeNet/sample-code-php/issues/95" TITLE : juggle payment profiles BODY : hi, is there a function or way to move a payment profile from one customer profile to another? there are times we erroneously create multiple profiles for the same customer.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/lh-forcas/app/issues/2" TITLE : create project structure BODY : - create react native project via expo - create react project via react-cli - create shared library in a separate folder and share it into the projects via symlinks the source files

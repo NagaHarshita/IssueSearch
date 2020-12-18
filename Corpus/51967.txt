@@ -1,0 +1,1 @@
+ URL : "https://github.com/NachoMD/prj-rev-bwfs-dasmoto/issues/3" TITLE : bundling css selectors BODY : a better way to go about adding font family helvetica along with a backup font is to grab multiple selectors and bundle them with the font-family property. ex: h1, h2, h3, p { font-family: helvetica , sans-serif; }

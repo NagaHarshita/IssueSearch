@@ -1,0 +1,1 @@
+ URL : "https://github.com/Autodesk/composr/issues/3" TITLE : webpack build fails BODY : error: cannot resolve module 'react/lib/eventpluginhub' related issue thread https://github.com/prescottprue/generator-react-firebase/issues/24

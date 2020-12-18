@@ -1,0 +1,1 @@
+ URL : "https://github.com/Yelp/elastalert/issues/1000" TITLE : email alert setup? BODY : i setup email info in my config.yaml file. however, each rule requires an alert, and i want to use an email alert. how can i make each rule use the email setup in the config.yaml file?

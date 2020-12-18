@@ -1,0 +1,1 @@
+ URL : "https://github.com/JeffreyWay/laravel-mix/issues/84" TITLE : extract nested dependecies BODY : what are the limitations for mix.extract ? jquery and vue seem to get extracted, but laravel-echo or pusher-js for example do not when using import or require

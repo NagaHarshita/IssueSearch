@@ -1,0 +1,1 @@
+ URL : "https://github.com/pywinauto/pywinauto/issues/312" TITLE : use logging properly BODY : the problem is described in the stackoverflow question http://stackoverflow.com/questions/41170360/importing-pywinauto-causes-debug-messages-to-appear-twice . we also observed this problem at work where we use pywinauto for handling confirmation dialogs.

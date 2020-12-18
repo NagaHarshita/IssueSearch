@@ -1,0 +1,1 @@
+ URL : "https://github.com/alphatechnologies/trutemp-ui-press/issues/26" TITLE : export log data to usb BODY : need a method, maybe through hamburger button to export a test run. this will be a web api call, which has not been created yet.

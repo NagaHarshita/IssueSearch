@@ -1,0 +1,1 @@
+ URL : "https://github.com/smartdigits/logo/issues/1" TITLE : log message format BODY : msg should print spaces between parameters: go logo.info a , b , c should print a b c instead of abc

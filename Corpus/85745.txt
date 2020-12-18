@@ -1,0 +1,1 @@
+ URL : "https://github.com/STScI-JWST/jwst/issues/1382" TITLE : fix sphinx build warnings BODY : i couldn't get travis to fail when sphinx build warnings are detected in 1377 without basically porting over part of astropy-helpers , which i don't want to do. however, in that process, i see hundreds of warnings when documentation is built. these warnings should be fixed.

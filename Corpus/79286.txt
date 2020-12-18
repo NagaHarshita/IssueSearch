@@ -1,0 +1,1 @@
+ URL : "https://github.com/OtakuSenpai/TsukiBot/issues/5" TITLE : seg fault in ping plugin BODY : the ping plugin segfaults in tsukiirc.cpp. fix it.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/k0shk0sh/FastHub/issues/254" TITLE : collapse empty directories BODY : if there are a bunch of nested empty directories e.g. java packages can they be displayed as directory1/directory2/directory3 instead of having to click through each one?

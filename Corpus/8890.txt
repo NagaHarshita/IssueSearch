@@ -1,0 +1,1 @@
+ URL : "https://github.com/redux-saga/redux-saga/issues/1067" TITLE : setup travis ci BODY : it would be nice if travis-ci was setup so that tests could be run for every pull request automatically.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/TrueFurby/go-callvis/issues/11" TITLE : mac 10.3 make failed BODY : cd github.com/truefurby/go-callvis/ && make go get github.com/golang/dep/cmd/dep dep ensure -update make: dep: no such file or directory make: dep error 1

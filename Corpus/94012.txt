@@ -1,0 +1,1 @@
+ URL : "https://github.com/yandexdataschool/AgentNet/issues/91" TITLE : baseresolver returns int64 BODY : subj. it just happens. formally it isn't a bug, but it would be more convenient to return int32 for recurrence

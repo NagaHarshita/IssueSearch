@@ -1,0 +1,1 @@
+ URL : "https://github.com/ironcodestudio/ironcode-git-enhancements/issues/51" TITLE : add git unstage mapping BODY : git config --global alias.unstage 'reset --' see http://andrewberls.com/blog/post/git-tricks-unstaging-files

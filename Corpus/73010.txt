@@ -1,0 +1,1 @@
+ URL : "https://github.com/sgarciav/playground/issues/1" TITLE : cmake to build src files BODY : use cmake to build source code into obj/ directory - which should not be included in the repository.

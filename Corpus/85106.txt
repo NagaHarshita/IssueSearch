@@ -1,0 +1,1 @@
+ URL : "https://github.com/mit-nlp/MITIE/issues/84" TITLE : entity detection for date BODY : currently the model which ships with mitie does not detect time periods/date s . is this expected or did i miss something really basic time /date seems like a basic entity which the default model should include..no?

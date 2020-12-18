@@ -1,0 +1,1 @@
+ URL : "https://github.com/faiface/pixel/issues/25" TITLE : mixing 2d and 3d BODY : i write an opengl 3d renderer. it's very basic test code. i am curious if i can use compositor to bring the opengl output into your compositor to have a hud ?

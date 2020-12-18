@@ -1,0 +1,1 @@
+ URL : "https://github.com/Unity-Technologies/GenericFrameRecorder/issues/55" TITLE : scale time bug BODY : what happened? when i use scale time function, the output records will stop. is it reproduceable? all the time. released package version / tag? v0.2 unity version, operating system, target platform standalone windows, mac, ios, ps4... ? unity 2017.2of3.personal.standalone

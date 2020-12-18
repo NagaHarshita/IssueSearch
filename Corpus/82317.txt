@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpenGenus/cosmos/issues/96" TITLE : add sieve of eratosthenes BODY : add the code for the sieve of eratosthenes algorithm. the code should be placed under /code/mathematical-algorithms/sieve_of_eratosthenes.

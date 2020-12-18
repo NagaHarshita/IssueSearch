@@ -1,0 +1,1 @@
+ URL : "https://github.com/Alex-the-666/Ice_and_Fire/issues/256" TITLE : mc 1.11.2 - 1.1.0 BODY : when placing any of the dragon armors on the mc vanilla armor stands, the armor 'breathes'. this also causes fps to tank for lower end clients. when removing the armor fps goes up by almost 10 fps per one armor object removed for some clients.

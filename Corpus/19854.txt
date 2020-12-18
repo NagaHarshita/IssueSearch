@@ -1,0 +1,1 @@
+ URL : "https://github.com/cloudinary/cloudinary_angular/issues/82" TITLE : alt and title tags BODY : how do you add these? tried adding it to the cl-image tag but gives an error of > can't bind to 'alt' since it isn't a known property of 'cl-image'

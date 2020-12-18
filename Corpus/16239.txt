@@ -1,0 +1,1 @@
+ URL : "https://github.com/emojirank/web/issues/24" TITLE : idea: glyph score BODY : glyph score is calculated as: likes - hates / likes + hates does this work? purpose of this score is to give a score for glyphs across emojis.

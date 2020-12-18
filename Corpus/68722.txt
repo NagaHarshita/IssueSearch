@@ -1,0 +1,1 @@
+ URL : "https://github.com/davidkpiano/react-redux-form/issues/1033" TITLE : seterrors does not work BODY : the problem it doesn't set specified error to the model steps to reproduce see code pen expected behavior it can set errors actual behavior it doesn't set errors reproducible code example https://codepen.io/zzhjerrygit/pen/gxqjgr?editors=0011

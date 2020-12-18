@@ -1,0 +1,1 @@
+ URL : "https://github.com/cjoudrey/graphql-schema-linter/issues/23" TITLE : add --fix option BODY : some rules could be fixed by the linter for example enum-values-sorted-alphabetically . it might be interesting to include a --fix option which would automatically resolve errors that can be fixed.

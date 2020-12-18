@@ -1,0 +1,1 @@
+ URL : "https://github.com/ImageStyle/ImStyle/issues/19" TITLE : source file pruning BODY : pr 16 moved the functionality of the photolib view and settings view to the main view. we should remove these files. the pageviewcontroller is also no longer needed because the app does not support multiple pages.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/GetmeUK/ContentTools/issues/383" TITLE : how can i trigger a tool? BODY : i'm trying to do something like this with jquery: when i click on element that i've created in dom page trigger video option. $ ' selector'. click function { $ 'div.ct-tool--video' .click ; } ; but it doesn't work. is there other way to trigger an option? many thanks,

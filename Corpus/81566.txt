@@ -1,0 +1,1 @@
+ URL : "https://github.com/eslint/eslint/issues/9675" TITLE : 'fragment' is not defined BODY : package.json babel-core : ^6.26.0 , babel-preset-react : ^6.24.1 , eslint : 4.12.1 , babel-eslint : ,

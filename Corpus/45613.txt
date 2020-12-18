@@ -1,0 +1,1 @@
+ URL : "https://github.com/our-city-app/oca-backend/issues/654" TITLE : improve error logging BODY : to prevent the error logger on the web from spamming requests, store all different errors on the client in memory when they occur, and once every 5? seconds we send those errors to the server, without any duplicates

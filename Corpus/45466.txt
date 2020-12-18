@@ -1,0 +1,1 @@
+ URL : "https://github.com/vanhuyz/CycleGAN-TensorFlow/issues/24" TITLE : identity mapping loss BODY : hi, thank you for sharing this implementation. do you plan on adding support for the identity mapping loss as described in the original paper? thanks

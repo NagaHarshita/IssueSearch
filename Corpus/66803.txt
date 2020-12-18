@@ -1,0 +1,1 @@
+ URL : "https://github.com/arboshiki/lobipanel/issues/38" TITLE : no method named destroy BODY : well, i'm using bootstrap4 in my application, but if i use lobipanel with bootstrap4 it gives a resizable error. and you know what it could be?

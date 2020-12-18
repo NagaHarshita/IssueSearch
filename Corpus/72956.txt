@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpenAADL/ocarina/issues/111" TITLE : clean-up duplicated code BODY : ocarina backend code has multiple occurrences of duplicated code, e.g. when iterating on subcomponents, features, etc. that should be removed

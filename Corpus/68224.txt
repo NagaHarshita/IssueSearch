@@ -1,0 +1,1 @@
+ URL : "https://github.com/transceptor-technology/libcleri/issues/5" TITLE : replace pcre with pcre2 BODY : libcleri is using pcre3 and should switch to the new pcre2 library.

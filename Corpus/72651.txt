@@ -1,0 +1,1 @@
+ URL : "https://github.com/rickbergfalk/sqlpad/issues/173" TITLE : cannot connect to presto BODY : when i create new connection using presto database driver, there is no password field in the form??? so the connection always cannot pass the test. anyone can give me a demo that how to configure presto connection?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/srstevenson/xdg/issues/2" TITLE : purpose of _getenv BODY : hi, just a question: is there a specific reason to implement an own _getenv instead of directly using os.getenv ? i cannot find any and i'm wondering whether i miss something obvious. thx, achim.

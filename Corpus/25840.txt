@@ -1,0 +1,1 @@
+ URL : "https://github.com/aktos-io/scada.js/issues/86" TITLE : add cordova support BODY : description: to provide native-like application support, add cordova build scripts to scadajs

@@ -1,0 +1,1 @@
+ URL : "https://github.com/kartoza/cadasta-qgis-plugin/issues/77" TITLE : contact table remove BODY : problem when we remove a contact from the middle or beginning of the contact table, an error occurs. proposed solution fix bug and write tests to catch this error when removing an entry from the top, bottom and middle of the list.

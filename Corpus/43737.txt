@@ -1,0 +1,1 @@
+ URL : "https://github.com/lewismj/tiki/issues/4" TITLE : define weighted edge. BODY : rather than define weighted edges as labelled edges with a label of double, define them separately. so label can be applied to edge or weighted edge.

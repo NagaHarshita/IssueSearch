@@ -1,0 +1,1 @@
+ URL : "https://github.com/mapeveri/django-musette/issues/121" TITLE : version number 0.2.5 BODY : where i can find version 0.2.5 ? since your release number is 0.1 python manage.py migrate if your super-admin user not contain the record in profile model. execute this command: python manage.py create_profile_superadmin new in version 0.2.5

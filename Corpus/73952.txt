@@ -1,0 +1,1 @@
+ URL : "https://github.com/haskell/hackage-server/issues/574" TITLE : display readme.org files BODY : see an example readme.org https://github.com/barischj/threepenny-gui-flexbox/blob/master/readme.org and the related hackage page http://hackage.haskell.org/package/threepenny-gui-flexbox . it could even be displayed raw.

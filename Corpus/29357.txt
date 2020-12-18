@@ -1,0 +1,6 @@
+ URL : "https://github.com/rnystrom/GitHawk/issues/1287" TITLE : limit image heights BODY : screenshots are too tall <details>
+<summary>bug report dump auto-generated </summary>
+<pre>
+version 1.17.0 see build phase device: iphone x ios 11.2 testflight: false
+</pre>
+</details>

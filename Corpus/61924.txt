@@ -1,0 +1,3 @@
+ URL : "https://github.com/udacity/robotics-beta-test-issues/issues/711" TITLE : c++ rover - minor typos BODY : in the rover lesson:
+break --> brake in the c++ code:
+recieved --> received

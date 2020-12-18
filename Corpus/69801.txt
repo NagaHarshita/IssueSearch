@@ -1,0 +1,1 @@
+ URL : "https://github.com/Wikiki/bulma-extensions/issues/10" TITLE : typo in extensions.sass BODY : typo in _extensions.sass_ @import bulma-iconpciker/iconpicker.sass should be @import bulma-iconpicker/iconpicker.sass

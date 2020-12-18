@@ -1,0 +1,1 @@
+ URL : "https://github.com/Screenly/screenly-ose/issues/619" TITLE : screenly over wifi issues BODY : running screenly from my schools open wifi network it returns the message no active network connection found but when i open the terminal and run the hostname -i command it shows that i have a valid ip address. i am able to ping other websites as well. any help or suggestions?

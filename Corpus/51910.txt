@@ -1,0 +1,1 @@
+ URL : "https://github.com/s1lentq/ReGameDLL_CS/issues/237" TITLE : bug round end c4 plant BODY : when the bomb is planted and the anti terrorists kill all the terrorists the round ends without having defused the bomb and the anti terrorists win. rehlds 3.3.0.618 regamedll 5.3.0.276 reapi 5.2.0.143

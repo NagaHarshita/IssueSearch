@@ -1,0 +1,1 @@
+ URL : "https://github.com/chop-dbhi/ehb-service/issues/12" TITLE : admin search feature BODY : make search functions in the admin usable. currently the issue is due to encryption and django fn modeladmin.search_fields allows an admin search query to be overridden. once app is upgraded to django 1.7. this can be fixed.

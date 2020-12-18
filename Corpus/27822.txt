@@ -1,0 +1,13 @@
+ URL : "https://github.com/xbmc-catchuptv-au/plugin.video.sbs/issues/897" TITLE : end-user bug report BODY : automatic bug report from end-user. environment plugin name: sbs on demand plugin id: plugin.video.sbs plugin version: 1.1.0 xbmc/kodi version: 16.1 git:c327c53 python version: 2.7.11 default, jun 22 2016, 17:52:25 gcc 5.3.0 operating system: linux2 linux 4.4.13 armv7l ip address: 123.243.22.146 123-243-22-146.static.tpgi.com.au isp : tpg internet python path: /storage/.kodi/addons/plugin.video.sbs
+/storage/.kodi/addons/script.common.plugin.cache/lib
+/storage/.kodi/addons/script.module.beautifulsoup/lib
+/usr/lib/python27.zip
+/usr/lib/python2.7
+/usr/lib/python2.7/plat-linux2
+/usr/lib/python2.7/lib-tk
+/usr/lib/python2.7/lib-old
+/usr/lib/python2.7/lib-dynload
+/usr/lib/python2.7/site-packages
+/usr/lib/python2.7/site-packages/gtk-2.0
+/storage/.kodi/addons/plugin.video.sbs/resources/lib traceback traceback most recent call last : file /storage/.kodi/addons/plugin.video.sbs/resources/lib/entries.py , line 30, in make_entries_list programs = comm.get_entries params 'entries_url' file /storage/.kodi/addons/plugin.video.sbs/resources/lib/comm.py , line 263, in get_entries resp = fetch_cache_url url file /storage/.kodi/addons/plugin.video.sbs/resources/lib/comm.py , line 83, in fetch_cache_url return cache.cachefunction fetch_url, url file /storage/.kodi/addons/script.common.plugin.cache/lib/storageserver.py , line 570, in cachefunction ret_val = funct args file /storage/.kodi/addons/plugin.video.sbs/resources/lib/comm.py , line 77, in fetch_url raise fail_exception
+timeout: timed out full log https://gist.github.com/2df82b4f3fa27f949dfaf35b122e8d7c

@@ -1,0 +1,1 @@
+ URL : "https://github.com/labstack/labstack-node/issues/1" TITLE : recaptcha not displaying BODY : please do check the sign-up page because the recaptcha is not displaying in the signup form to validate the user. i tested this in the latest chrome and firefox browser even when javascript is enabled but the recaptcha is not showing.

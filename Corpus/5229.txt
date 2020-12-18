@@ -1,0 +1,1 @@
+ URL : "https://github.com/ghostseven/LEUBNT/issues/1" TITLE : mkdir needs -p BODY : line 27 includes mkdir /config/lighttpd/conf-enabled if the directory /config/lighthttpd does not exist, it is not possible to create /config/lighttpd/conf-enabled without -p

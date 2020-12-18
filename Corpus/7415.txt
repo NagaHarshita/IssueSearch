@@ -1,0 +1,1 @@
+ URL : "https://github.com/tallerify/admin-panel-ui/issues/15" TITLE : fix users table BODY : right now it does not render the checkbox when the elements are rendered dynamically.

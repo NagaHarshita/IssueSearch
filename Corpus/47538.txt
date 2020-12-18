@@ -1,0 +1,1 @@
+ URL : "https://github.com/Steppschuh/Sensor-Data-Logger/issues/2" TITLE : please write comments BODY : firstly, i appreciate that you made this app! i wanna take some sensor values and write out them to any files. and i start to develop the part of file writer, but you leave few comments. so, i couldn't read your code well. sorry. please write comments to some classes.

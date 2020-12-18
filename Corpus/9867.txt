@@ -1,0 +1,1 @@
+ URL : "https://github.com/Kalelzar/SwingGuiWrapperThingy/issues/3" TITLE : add menu support BODY : implement the bare-bones of menus. also add some commonly used menu types such as context menus, menu bars and so on and so forth. might want to implement them as a complexcomponent.

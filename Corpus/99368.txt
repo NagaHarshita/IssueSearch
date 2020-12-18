@@ -1,0 +1,1 @@
+ URL : "https://github.com/usgs/earthquake-design-ws/issues/54" TITLE : missing crs and cr1 values BODY : should probably include these in the generated output. for now they can be obtained by dividing: crs = ssrt / ssuh; cr1 = s1rt / s1uh;

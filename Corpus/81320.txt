@@ -1,0 +1,1 @@
+ URL : "https://github.com/McJty/ModTutorials/issues/30" TITLE : wiki code isn't the same BODY : see here: https://wiki.mcjty.eu/modding/index.php/basic_mod-1.12 https://github.com/mcjty/modtutorials/blob/1.12/src/main/java/mcjty/modtut/modtut.java the annotation refers to something that you wanted to be modversion

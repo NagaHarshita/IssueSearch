@@ -1,0 +1,1 @@
+ URL : "https://github.com/MichMich/MagicMirror/issues/1018" TITLE : black screen issue BODY : hello, after the setup of config.js and installation of npm and node, i succeed to launch the app but the screen is all black, and same for the index.html

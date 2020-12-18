@@ -1,0 +1,1 @@
+ URL : "https://github.com/cyrusimap/cyrus-imapd/issues/1847" TITLE : make jmap depend on xapian BODY : quoth @rsto: > the whole snippet codepath is failing without xapian as a search backend. > i don’t see a reasonable way to backport what’s missing for jmap in squat. we should just make xapian a required dependency for jmap, anything else is prone to break sooner or later.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/benawad/react-menu-monkey-client/issues/6" TITLE : redirect on api error BODY : hi! when receiving an error from the api, like when the login is rejected, you just return {}, which isn't very helpfull. how would you do it so that one could display an error to the client and rerender the form? cheers, kai

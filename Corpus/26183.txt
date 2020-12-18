@@ -1,0 +1,1 @@
+ URL : "https://github.com/glassechidna/pstore/issues/4" TITLE : add windows support BODY : syscall.exec returns ewindows on windows. do it another way. will need to ask windows gurus about special considerations re: signals, message pumps, etc.

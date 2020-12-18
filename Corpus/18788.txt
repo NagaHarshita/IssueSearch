@@ -1,0 +1,1 @@
+ URL : "https://github.com/Bouke/My-Home/issues/1" TITLE : update to swift 4 BODY : hello bouke, could you update package manifest to tools version 4.0? cant let buidl and run the whole hap package in xcode 9 w/swift4. thank you very much

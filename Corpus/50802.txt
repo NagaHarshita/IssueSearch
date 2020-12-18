@@ -1,0 +1,1 @@
+ URL : "https://github.com/qutebrowser/qutebrowser/issues/3265" TITLE : add an :uptime command BODY : when debugging 1476 or other time related issues it would be very helpful to have an :uptime command which prints how long the current instance has been alive similar to m-x emacs-uptime .

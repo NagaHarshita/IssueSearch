@@ -1,0 +1,1 @@
+ URL : "https://github.com/dsmorozov/qputty-qt5/issues/2" TITLE : build windows and mac BODY : hi, i've made some modification to run it on mac os sierra and windows 10 32-bit. in mac it seems to work fine. in windows ssh session blocks waiting something are you interested to help me in fixing windows connection issue?

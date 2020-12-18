@@ -1,0 +1,1 @@
+ URL : "https://github.com/yebai/Turing.jl/issues/135" TITLE : depreciate void in observe BODY : the following line uses a void type to handle cases where sampler is null https://github.com/yebai/turing.jl/blob/master/src/samplers/hmc.jl l141 it is better to have a more principled mechanism to handle such cases.

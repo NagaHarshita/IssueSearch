@@ -1,0 +1,1 @@
+ URL : "https://github.com/Abantech/Efficio/issues/67" TITLE : create handexited event BODY : create an event when a hand was in the previous frame, but not in the next frame

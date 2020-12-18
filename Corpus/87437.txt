@@ -1,0 +1,1 @@
+ URL : "https://github.com/ondreian/norn.rb/issues/14" TITLE : lich compatibility module BODY : we need to detect that the user is launching a .lic script and shim in all the missing api calls as best as possible. some of these will be impossible to get 100% correct, but good enough for reliability should be a goal.

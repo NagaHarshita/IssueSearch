@@ -1,0 +1,1 @@
+ URL : "https://github.com/kwonald/munchkit/issues/33" TITLE : notification for actions BODY : a modal or notification message that appears and disappears after a certain time should be shown after certain actions are completed. ie. adding/removing/editing a munchkid, editing profile, updating orders, cancelling/suspending orders. estimated time: 5 hours

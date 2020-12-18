@@ -1,0 +1,1 @@
+ URL : "https://github.com/Gallopsled/pwntools/issues/915" TITLE : release bus number is 1 BODY : currently, @idolf cuts our releases each time, and has some scripts to help him do it in a consistent fashion. it'd be useful if these scripts could be checked into source control, so that if he gets hit by a bus, we can still do releases in a similar fashion.

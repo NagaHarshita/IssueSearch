@@ -1,0 +1,1 @@
+ URL : "https://github.com/intersystems-ru/webterminal/issues/84" TITLE : additional escape sequence BODY : escape sequence <esc> m not working, should be equivalent to <esc> 0m

@@ -1,0 +1,1 @@
+ URL : "https://github.com/AnalyticalGraphicsInc/cesium/issues/6009" TITLE : geojson memory release BODY : ! image https://user-images.githubusercontent.com/31023652/33370351-3c4f4cc8-d532-11e7-821e-31c048a18514.png ! image https://user-images.githubusercontent.com/31023652/33370362-43336e66-d532-11e7-9ead-384830f5a6c6.png meomery not release

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Shippable/admiral/issues/779" TITLE : 8536.1 start admiral BODY : - https://github.com/shippable/pm/issues/8536 - start db, secrets and admiral container in the restart subcommand handler script

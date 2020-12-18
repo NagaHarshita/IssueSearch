@@ -1,0 +1,1 @@
+ URL : "https://github.com/CovertJaguar/Railcraft/issues/1153" TITLE : bugs with trades BODY : https://github.com/covertjaguar/railcraft/blob/mc-1.10.2/src/main/java/mods/railcraft/common/worldgen/villagertrades.java l52-l61 currently the locomotive and the track kit trade does not work as intended. it does not show up in the trades.

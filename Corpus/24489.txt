@@ -1,0 +1,1 @@
+ URL : "https://github.com/Azure/azure-service-bus-java/issues/98" TITLE : support amqp value BODY : with servicebus 1.0 client, one can only send message with amqp data which limits the interop with other amqp clients. other amqp sections should be supported for main scenarios like. - string/text messages - common amqp primitive types may be a subset .

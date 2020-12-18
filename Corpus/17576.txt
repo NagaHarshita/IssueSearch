@@ -1,0 +1,1 @@
+ URL : "https://github.com/dwmkerr/wait-port/issues/1" TITLE : publish to debian BODY : it would be great to package the project up using pkg , then propose to publish to debian. see: https://askubuntu.com/questions/16446/how-to-get-my-software-into-ubuntu

@@ -1,0 +1,1 @@
+ URL : "https://github.com/uniVocity/univocity-parsers/issues/176" TITLE : regression after update BODY : hi team, in my project i use velocity parser. i have 46 tests which runs in 6.6 seconds with 2.4.1. after upgrade to 2.5.0 the tests run in 22.7 seconds. regards giuseppe

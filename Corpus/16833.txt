@@ -1,0 +1,1 @@
+ URL : "https://github.com/cthill/realtime-tournament/issues/38" TITLE : manual start mode BODY : generate access code and tournament run but do not start until the admin makes an api call

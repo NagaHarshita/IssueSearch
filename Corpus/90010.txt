@@ -1,0 +1,1 @@
+ URL : "https://github.com/debiancn/galternatives/issues/11" TITLE : review i18n/l10n workflow BODY : we need to sort out the i18n/l10n workflow. .glade files contains some strings that need translation. perhaps we need xgettext ? .py module needs translation. we should write some scripts / makefile targets / update current scripts to make sure things go on smoothly.

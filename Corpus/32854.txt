@@ -1,0 +1,13 @@
+ URL : "https://github.com/andybotting/xbmc-addon-afl-video/issues/786" TITLE : xbmcbot - exception BODY : automatic bug report from end-user. environment add-on name: afl video add-on id: plugin.video.afl-video add-on version: 1.7.3 kodi version: 17.0 git:20170201-a10c504 python version: 2.7.11 default, jan 16 2016, 16:21:17 msc v.1900 32 bit intel operating system: win32 ip address: 110.32.98.156 d110-32-98-156.meb801.vic.optusnet.com.au isp: optus kodi url: ?genre=sport&thumbnail=http%3a%2f%2fs.afl.com.au%2fstaticfile%2fafl+tenant%2fafl%2ffiles%2fimages%2fafl-tv.jpg&ooyalaid=1ynge5ddoytdukykqsetysvmgup-rvs1&description=afl.tv&title=%5bcolor+green%5d%5blive+now%5d%5b%2fcolor%5d+afl.tv python path: c:\users\marco\appdata\roaming\kodi\addons\plugin.video.afl-video
+c:\users\marco\appdata\roaming\kodi\addons\script.module.beautifulsoup4\lib
+c:\users\marco\appdata\roaming\kodi\addons\script.module.requests\lib
+c:\program files x86 \kodi\system\python\dlls
+c:\program files x86 \kodi\system\python\lib
+c:\program files x86 \kodi\python27.zip
+c:\program files x86 \kodi\system\python\lib\plat-win
+c:\program files x86 \kodi\system\python\lib\lib-tk
+c:\program files x86 \kodi
+c:\program files x86 \kodi\system\python
+c:\program files x86 \kodi\system\python\lib\site-packages
+c:\users\marco\appdata\roaming\kodi\addons\plugin.video.afl-video\resources\lib traceback traceback most recent call last : file c:\users\marco\appdata\roaming\kodi\addons\plugin.video.afl-video\resources\lib\play.py , line 42, in play 'afl' file c:\users\marco\appdata\roaming\kodi\addons\plugin.video.afl-video\resources\lib\ooyalahelper.py , line 178, in get_m3u8_playlist embed_token = get_afl_embed_token login_token, video_id file c:\users\marco\appdata\roaming\kodi\addons\plugin.video.afl-video\resources\lib\ooyalahelper.py , line 113, in get_afl_embed_token raise e
+exception full log https://gist.github.com/ec96fe1fcf378718112d7233665d5d10

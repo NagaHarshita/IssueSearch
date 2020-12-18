@@ -1,0 +1,1 @@
+ URL : "https://github.com/json-schema-faker/json-schema-faker/issues/241" TITLE : no quotes in the response BODY : i am using jsf schema function and the response is like this {abc:'value'} i need something like this { abc : value }

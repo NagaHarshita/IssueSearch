@@ -1,0 +1,1 @@
+ URL : "https://github.com/linuxmint/mintinstall/issues/145" TITLE : crash report by mintreport BODY : sometimes mintinstall crashes. seems to happen randomly i couldn't find any steps to reproduce yet . here's the pastebin from mintreport https://gist.github.com/anonymous/8a40d56ce2f9734593251d3b3bf7475a

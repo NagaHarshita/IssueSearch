@@ -1,0 +1,1 @@
+ URL : "https://github.com/upstox/upstox-nodejs/issues/4" TITLE : better naming conventions BODY : hi, everything is a resource for instance order, holding, user. and api could have been simplify to: order.create order.list order.get holding.get user.get holding.get easy to remember, and quite a standard. example: https://github.com/monei/shopify-api-node hope this will help

@@ -1,0 +1,1 @@
+ URL : "https://github.com/JonnyWong16/plexpy/issues/1017" TITLE : css in email notifications BODY : do not send mail with css inside, probably due to the handling of variables {var}

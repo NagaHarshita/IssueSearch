@@ -1,0 +1,1 @@
+ URL : "https://github.com/majames/react-audio-vis/issues/5" TITLE : remove dist from git BODY : i think we should ignore the dist folder from git and just have it published on npm?

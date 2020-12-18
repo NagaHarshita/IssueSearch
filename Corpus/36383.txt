@@ -1,0 +1,1 @@
+ URL : "https://github.com/ccrama/Slide/issues/2559" TITLE : handling nsfw images BODY : slide version:5.6.2 android version:7.0 nsfw images appear in shadowbox mode while they are hidden in the regular subreddit view. can you add an option to also hide these images in shadowbox mode. thank you.

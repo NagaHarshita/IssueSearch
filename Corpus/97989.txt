@@ -1,0 +1,1 @@
+ URL : "https://github.com/nicolasblackburn/xmml/issues/4" TITLE : implement a pulse function BODY : implement a function val pulse: float -> float -> float -> float .

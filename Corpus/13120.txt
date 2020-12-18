@@ -1,0 +1,1 @@
+ URL : "https://github.com/walleth/walleth/issues/136" TITLE : sweep bug . vs , BODY : from play comment: > setting max by pressing the infinity button doesn't work. this is probably because where i'm from we use comma instead of period, values such as 0,1 aren't valid while 0.1 is. seems something is not locale-aware there

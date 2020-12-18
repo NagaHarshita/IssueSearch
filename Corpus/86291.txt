@@ -1,0 +1,1 @@
+ URL : "https://github.com/westnordost/StreetComplete/issues/252" TITLE : highway = road refinement BODY : highway=road is used for unknown classification for example while tracing from airial images. so a quest defining the real type would be very helpful.

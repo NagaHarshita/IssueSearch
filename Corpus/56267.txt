@@ -1,0 +1,1 @@
+ URL : "https://github.com/HadrienG/InSilicoSeq/issues/38" TITLE : model and mode options BODY : if the mode error model is basic, it might be good to put a warning saying that any specified model will be ignored

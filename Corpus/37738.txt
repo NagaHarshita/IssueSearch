@@ -1,0 +1,1 @@
+ URL : "https://github.com/zorexsalvo/issue-tracking-system/issues/9" TITLE : modify the dashboard BODY : should display statistics of: remarks/decision - sleep - dead - closed priority - low - normal - high note: box form dashboard additional: redirect to tables page when the box dashboard is clicked

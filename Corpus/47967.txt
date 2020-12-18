@@ -1,0 +1,1 @@
+ URL : "https://github.com/ziprandom/graphql-crystal/issues/7" TITLE : ready for production? BODY : hey, i'm wondering if it can be used in production and if it's faster than the go version 1f9vowf8vvfcchondatzaxgt5h4gj9mo35 also, if the parser is x50 times slower, why isn't changed with the c bindings to libgraphqlparser??

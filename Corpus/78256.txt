@@ -1,0 +1,1 @@
+ URL : "https://github.com/taniman/profit-trailer/issues/472" TITLE : possible buy log is at 0 BODY : i just recently made a couple changes to the files and now notice that my possible buy log is at 0. the bot is still trading for profit on the coins that it had already purchased, but doesn't look to be buying anything more.

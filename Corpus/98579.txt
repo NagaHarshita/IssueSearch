@@ -1,0 +1,1 @@
+ URL : "https://github.com/InQBarna/TableFixHeaders/issues/122" TITLE : issue with ui thread block BODY : when i add around 400+ rows the main ui thread was blocked while the cell's are being binding. can anyone have any solution for it?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/pnalexander/refab_v2/issues/30" TITLE : account settings redirect BODY : update account_settings page to use new and proper redirect_invalid_user function. this page currently does not work.

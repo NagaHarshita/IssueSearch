@@ -1,0 +1,1 @@
+ URL : "https://github.com/Suprnovae/cockpit-app-abctotaal/issues/12" TITLE : migrate from npm to yarn BODY : provide a yarn.lock to simplify env parity between devs.

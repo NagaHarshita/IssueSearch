@@ -1,0 +1,4 @@
+ URL : "https://github.com/pilrhealth/pilrhealth-issues/issues/753" TITLE : import dataset from json BODY : server: qa.pilrhealth.com
+page: /project/losgatosdemo/project/components
+user: eruud
+project: losgatosdemo we allow importing a json to build file, variable etc settings but not datasets. would like to import dataset schemas from json.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/keboola/storage-api-php-client/issues/134" TITLE : impossible to delete state BODY : https://github.com/keboola/storage-api-php-client/blob/master/src/keboola/storageapi/components.php l60 if state is empty, it will not be set at all.

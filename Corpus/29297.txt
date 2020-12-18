@@ -1,0 +1,4 @@
+ URL : "https://github.com/devtools-html/devtools-core/issues/334" TITLE : launchpad fix menus BODY : looks like the latest patch to menus broke menus in the launchpad. i'll try and get a fix in along with a unit test to prevent future regressions. screenshots
+|before|after|
+|---|--|
+|<img src='https://shipusercontent.com/6739e1f4f782ddc226bc583edef68e72/screen%20shot%202017-04-14%20at%203.07.29%20pm.png' title='screen shot 2017-04-14 at 3.07.29 pm.png' width=313>|<img src='https://shipusercontent.com/bd760850d92c827aa1cbd777a38e73ac/screen%20shot%202017-04-14%20at%203.07.26%20pm.png' title='screen shot 2017-04-14 at 3.07.26 pm.png' width=479>|

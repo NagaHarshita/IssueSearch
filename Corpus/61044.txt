@@ -1,0 +1,1 @@
+ URL : "https://github.com/JsonSchema-JavaUI/sf-java-ui/issues/14" TITLE : add the password layout BODY : description add the password layout modifications 1. add new @password annotation with appropriate fields 2. implement the passwordgenerator 3. improve the demo app to support the password layout expected behavior: support the password layout

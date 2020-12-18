@@ -1,0 +1,1 @@
+ URL : "https://github.com/jdenen/mastodon.el/issues/91" TITLE : support favorites list BODY : support actions against the get /api/v1/favourites https://github.com/tootsuite/documentation/blob/master/using-the-api/api.md favourites endpoint would be nifty.

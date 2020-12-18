@@ -1,0 +1,1 @@
+ URL : "https://github.com/theyworkforyou/shineyoureye-sinatra/issues/129" TITLE : ensure slugs are unique BODY : think of a way to check that a slug doesn't already exist, as this is needed both to have unique urls for person pages and to have something unique to search persons by, since we are not using the ids anymore.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/google/blockly/issues/983" TITLE : markup in tooltip BODY : hi guys! is it possible to pass a html string to the settooltip function? i'd like to show formatted text in the tooltip, but the html tags are printed as plain text.

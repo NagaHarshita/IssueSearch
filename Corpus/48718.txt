@@ -1,0 +1,1 @@
+ URL : "https://github.com/itchio/capsule/issues/3" TITLE : simple muxing example BODY : muxing is broken in master right now, here's an example derived from ffmpeg's example repository stripped audio / made it look more like what capsule does : https://gist.github.com/fasterthanlime/880de3be2de395f33b391b0e630bce61

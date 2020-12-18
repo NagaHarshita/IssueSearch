@@ -1,0 +1,1 @@
+ URL : "https://github.com/Dons35/colmar/issues/3" TITLE : html and sign BODY : use the html & sign instead of just &, which is &amp; https://github.com/dons35/colmar/blob/master/index.html l105-lundefined

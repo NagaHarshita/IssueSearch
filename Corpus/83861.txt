@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla-neutrino/neutrino-dev/issues/150" TITLE : comment utility functions BODY : looking at our functional code can be a little daunting. should go back and add comments to them so their usage and flow is clearer.

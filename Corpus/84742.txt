@@ -1,0 +1,1 @@
+ URL : "https://github.com/fengyuanchen/datepicker/issues/107" TITLE : do not bundle with jquery BODY : the minified version should not be bundled with jquery as this would overwrite previous plugins and remove them from the $/jquery namespace.

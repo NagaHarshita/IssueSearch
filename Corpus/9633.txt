@@ -1,0 +1,1 @@
+ URL : "https://github.com/alanzanattadev/redux-request-state/issues/1" TITLE : a typo in readme BODY : there is the following typo in readme.md : > the payload is copied in params attribut of dispatched actions's payload

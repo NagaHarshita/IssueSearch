@@ -1,0 +1,1 @@
+ URL : "https://github.com/zoo1/autocomplete-cfml/issues/6" TITLE : add option for cf2016 BODY : currently all autocompletions are based on cf11, it would be nice to have the option to select cf 2016 and have the appropriate autocompletions.

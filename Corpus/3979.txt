@@ -1,0 +1,1 @@
+ URL : "https://github.com/flutter/flutter/issues/7359" TITLE : add a 404 page BODY : the current 404 page is a firebase page not found with directions for the host to replace it. adding a 404.html page to the root would make it friendlier and give users a link back to an index usable page.

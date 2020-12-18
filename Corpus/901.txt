@@ -1,0 +1,1 @@
+ URL : "https://github.com/vuejs/vue/issues/7035" TITLE : a quick ask BODY : ! tim 20171110173218 https://user-images.githubusercontent.com/18300790/32651799-22fb10e4-c63d-11e7-9b15-8e83d34b049e.png sry, but how is this gonna happen? i just add a global mixin with a data =>{ page_number : 1}.

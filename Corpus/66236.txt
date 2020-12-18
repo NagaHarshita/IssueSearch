@@ -1,0 +1,1 @@
+ URL : "https://github.com/Keats/tera/issues/124" TITLE : merge 2 context structs BODY : for me it would be very useful, to be able to merge 2 context structs, where already defined values get overwritten. if there is any interest in this feature i would like to implement this feature.

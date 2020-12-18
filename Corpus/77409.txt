@@ -1,0 +1,1 @@
+ URL : "https://github.com/openlcb/OpenLCB_Java/issues/106" TITLE : need a test file for fdi BODY : i am in the process of creating new tests, and i need a test xml file i can use with the org.openlcb.implementations.throttle.fdiparser class. does anyone have one we can use?

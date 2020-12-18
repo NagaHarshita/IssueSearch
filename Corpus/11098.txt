@@ -1,0 +1,1 @@
+ URL : "https://github.com/Nexela/PickerTweaks/issues/1" TITLE : filter_bg is nil BODY : seems that filter_bg in small_fixes.lua https://github.com/nexela/pickertweaks/blob/master/prototypes/small-fixes.lua l176 is a nil value.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/docbleach/DocBleach/issues/8" TITLE : handle unzipped payloads BODY : if submitted doc is zipped .zip? maybe you could unzip it, bleach every document inside it, re zip all the doc in an archive that will be send back to the client

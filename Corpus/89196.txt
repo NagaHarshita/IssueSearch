@@ -1,0 +1,1 @@
+ URL : "https://github.com/g21589/PPTX2HTML/issues/5" TITLE : pptx themes not supported BODY : any theme of powerpoit is not supported in pptx2html, whenever i use a theme, for example with a blue background, it is not showed at all in the html, the resulting html has always a normal white background.

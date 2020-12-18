@@ -1,0 +1,1 @@
+ URL : "https://github.com/iulyanp/elixir-mix-bundle/issues/2" TITLE : could not find package BODY : invalidargumentexception could not find package iulyanp/elixir-mix-bundle at any version matching yo ur php version 5.5.9.0 when running composer require iulyanp/elixir-mix-bundle at the root of my symfony3 project. any ideas? not available for php 5.5 or for symfony3? thanks

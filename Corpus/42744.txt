@@ -1,0 +1,1 @@
+ URL : "https://github.com/CactusDev/CactusBot/issues/185" TITLE : caching of all events BODY : currently, only followers are cached. we need to cache all other events, as well. we can cache in the spamhandler class itself. no need for an external json file. the main thing we need to protect against is rapid-fire notifications for button spamming.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/swift-lang/swift-t/issues/116" TITLE : doc: app retries BODY : supported by turbine_app_retries. feature may be currently broken. thanks to @zo0z for reporting.

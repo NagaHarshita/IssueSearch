@@ -1,0 +1,1 @@
+ URL : "https://github.com/cerner/terra-core/issues/156" TITLE : jest tests, improve speed BODY : currently, we are running jest tests one package at a time. https://github.com/cerner/terra-core/blob/master/package.json l50 instead, we should update the script to run jest tests for the entire repo all at once.

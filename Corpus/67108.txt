@@ -1,0 +1,1 @@
+ URL : "https://github.com/PHOENIX-MEDIA/Magento-WorldPay/issues/20" TITLE : order set to processing BODY : i have problem where orders are set to processing even though a payment wasn't completed. i believe it is this extension that is causing the problem because on disabling it for the past 24hrs i do not have the problem anymore.

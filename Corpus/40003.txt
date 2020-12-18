@@ -1,0 +1,1 @@
+ URL : "https://github.com/slarse/pdfebc-core/issues/15" TITLE : switch to aiosmtplib BODY : smtplib blocks when sending emails. very annoying.

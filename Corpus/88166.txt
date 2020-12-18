@@ -1,0 +1,1 @@
+ URL : "https://github.com/AltimitSystems/mv-plugins/issues/1" TITLE : mouse/touch input missing BODY : mouse/touch based input does not move the player as expected and tapping on an event does not trigger its interaction.

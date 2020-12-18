@@ -1,0 +1,1 @@
+ URL : "https://github.com/LCN-Dev/GoogleBot/issues/164" TITLE : server bots dysfunctional BODY : brief description of the issue: the server bots don't get any speech and hang-up. what happened?: the bots don't connect to the proper socket to get speech. what _should_ have happened?: the bots should work and get speech. steps to reproduce: 1 run a server bot. 2 watch it not work.

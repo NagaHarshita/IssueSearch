@@ -1,0 +1,1 @@
+ URL : "https://github.com/igvteam/juicebox.js/issues/68" TITLE : aiden lab site BODY : per erez's request, we've also set up on the main site: http://aidenlab.org/juicebox-on-the-web/ lmk if the wording needs to be updated. also, does someone have an idea why the top x-axis covers some of the panels? is it because of some bootstrap conflict?

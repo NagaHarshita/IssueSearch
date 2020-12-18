@@ -1,0 +1,1 @@
+ URL : "https://github.com/druid-io/druid/issues/4117" TITLE : not using historical node BODY : maybe historical node is useless to me，and i just want search result in 1 hour。 so，how to configure to not use historical node ？ ps：i use tranquilty kafka to ingest msg thanks

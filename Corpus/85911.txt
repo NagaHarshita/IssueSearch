@@ -1,0 +1,1 @@
+ URL : "https://github.com/nicolaskruchten/pivottable/issues/737" TITLE : fusion charts integration BODY : hi, i would like to show pivot data using fusion charts. i see there is no built-in renderer, so is there a possibility to get the object or array of objects after pivot is loaded e.g. to be called in onrefresh which contains all rows data?

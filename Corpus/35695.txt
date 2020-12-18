@@ -1,0 +1,1 @@
+ URL : "https://github.com/luberda-molinet/FFImageLoading/issues/520" TITLE : exif rotation on ios BODY : hello, i have encountered an error when displaying a rotated image in ios. i know there is an issue with the same error in android and that is already fixed. https://github.com/luberda-molinet/ffimageloading/issues/442 i am using version 2.2.9 of the library.

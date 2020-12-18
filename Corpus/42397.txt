@@ -1,0 +1,1 @@
+ URL : "https://github.com/KAIST-IS521/TeamFive/issues/4" TITLE : back board shows list BODY : 전체 글 목록을 /bbs/ 에 보여주기. 최소한의 template만 이용하여 구현.

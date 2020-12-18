@@ -1,0 +1,1 @@
+ URL : "https://github.com/davejoyce/versioned-ids/issues/12" TITLE : improve test code coverage BODY : code coverage reported by codecov.io https://codecov.io/gh/davejoyce/versioned-ids/branch/develop is at 83%. increase as close as possible to 100%.

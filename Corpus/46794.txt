@@ -1,0 +1,1 @@
+ URL : "https://github.com/akka/alpakka/issues/337" TITLE : mqtt retained message BODY : i'm trying to send retained messages to broker but i can't find a way to set retained flag for a regular message. will class contains this option, but i can't see it for mqttmessage. is there a way to accomplish this? thank you :

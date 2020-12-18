@@ -1,0 +1,1 @@
+ URL : "https://github.com/pauljamescleary/scala-pet-store/issues/40" TITLE : tut up some docs! BODY : waiting until i have flushed out the remaining features. namely: 1. finish the endpoints i.e. stop being lazy 2. work on the domain 3. would be nice to have a scalajs front-end start a tut microsite and doc this jawn up!

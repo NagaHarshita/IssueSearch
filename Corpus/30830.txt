@@ -1,0 +1,1 @@
+ URL : "https://github.com/VUnit/vunit/issues/282" TITLE : recursive file path BODY : hi is there a way to add files recursively from a starting directory? i'm not experienced with python, so maybe that works by replacing join with something? thanks and best regards, emanuel

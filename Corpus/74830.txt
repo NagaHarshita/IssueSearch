@@ -1,0 +1,1 @@
+ URL : "https://github.com/futurice/schedule/issues/16" TITLE : fix all tests for travis BODY : currently tests work locally, but not entirely in travis ci: 1 ok : recent a_credentials_file bundled with client_secrets.json using travis cli encrypt-file 2 broken: futuchedule/test_live.py tests.

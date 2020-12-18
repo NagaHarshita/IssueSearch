@@ -1,0 +1,1 @@
+ URL : "https://github.com/mahdialharbi/ser316labcr/issues/9" TITLE : 8 code style BODY : masantac 8 found that there is a coding standard violation that exists in the project. masantac found issues in the file mainframe.java that the code should be consistently stylistic. category cg.

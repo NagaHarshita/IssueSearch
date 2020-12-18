@@ -1,0 +1,1 @@
+ URL : "https://github.com/metasfresh/metasfresh-webui/issues/116" TITLE : qty 0 in purchase order BODY : go to purchase order window, create a new one and use batch entry to add a new product: add product p0001 with hu01 and set a quantity >0 => in the line the qty is set to 0. nok

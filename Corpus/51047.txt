@@ -1,0 +1,1 @@
+ URL : "https://github.com/claeis/ilivalidator/issues/82" TITLE : add ne option --models BODY : allow the user to explicitly set the model. multiple model names might be set by separating them by a semicolon. also add a field in ui.

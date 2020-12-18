@@ -1,0 +1,8 @@
+ URL : "https://github.com/Zimmi48/bugzilla-test-2/issues/1290" TITLE : vm value extraction error BODY : note: the issue was created automatically with bugzilla2github tool original bug id: bz 1290
+date: 2006-11-28 15:42:03 +0100
+from: @ ggonthier
+reported version: 8.1 last updated: 2006-11-28 15:42:03 +0100 @ ggonthier on 2006-11-28 15:42:03 +0100 full_name: georges gonthier
+version: v8.1 gamma
+os: windows
+submission from: tide73.microsoft.com 213.199.128.148 definition foo := exist eq 0 0 refl_equal 0 .
+eval vm_compute in foo. = exist eq 0 0 refl_equal 0 0 : sig eq 0 ^ !!! definition fubar := eval vm_compute in foo. error: illegal application non-functional construction : the expression refl_equal of type forall a : type x : a , x = x cannot be applied to the terms nat : set 0 : nat 0 : nat @ ggonthier on 2007-07-04 17:04:24 +0200 corrigé r9406

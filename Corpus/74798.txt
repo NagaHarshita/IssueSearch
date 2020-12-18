@@ -1,0 +1,1 @@
+ URL : "https://github.com/nuodb/interactive-demo/issues/60" TITLE : find localhost stats url BODY : a second ajax call is adding localhost to the stats api call. this 404's and causes false-negative error messages in the header.

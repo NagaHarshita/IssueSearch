@@ -1,0 +1,19 @@
+ URL : "https://github.com/pinpong/equalizer-issue-tracker/issues/228" TITLE : status bar notification BODY : statis bar notification always present even after unchecked - device info:
+---
+<table>
+<tr><td>app version</td><td>1.3.7</td></tr>
+<tr><td>app version code</td><td>13700</td></tr>
+<tr><td>android build version</td><td>a700fdxxu1bojd</td></tr>
+<tr><td>android release version</td><td>5.0.2</td></tr>
+<tr><td>android sdk version</td><td>21</td></tr>
+<tr><td>android build id</td><td>lrx22g.a700fdxxu1bojd</td></tr>
+<tr><td>device brand</td><td>samsung</td></tr>
+<tr><td>device manufacturer</td><td>samsung</td></tr>
+<tr><td>device name</td><td>a7lte</td></tr>
+<tr><td>device model</td><td>sm-a700fd</td></tr>
+<tr><td>device product name</td><td>a7ltexx</td></tr>
+<tr><td>device hardware name</td><td>qcom</td></tr>
+<tr><td>abis</td><td> armeabi-v7a, armeabi </td></tr>
+<tr><td>abis 32bit </td><td> armeabi-v7a, armeabi </td></tr>
+<tr><td>abis 64bit </td><td> </td></tr>
+</table> sent by winstonyao@gmail.com mailto:winstonyao@gmail.com

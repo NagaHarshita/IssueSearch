@@ -1,0 +1,1 @@
+ URL : "https://github.com/spiritix/lada-cache/issues/53" TITLE : caching logged in user BODY : would it be possible to use lada to cache the logged in user to avoid reading the database on every request? as lada doesn't support it out of the box, i am using this plugin https://github.com/hobbiot/cacheable-auth-user but i was wondering if i can use lada for this as well.

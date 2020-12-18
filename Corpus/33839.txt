@@ -1,0 +1,1 @@
+ URL : "https://github.com/Xaymar/obs-stream-effects/issues/7" TITLE : audio ducking filter BODY : this filter would allow you to duck the audio levels of a channel when another channel is louder than a minimum db number. may also support physical device ducking for virtual audio cable or similar.

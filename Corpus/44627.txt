@@ -1,0 +1,1 @@
+ URL : "https://github.com/lifeforms/irssi-smartfilter/issues/13" TITLE : filter netsplit quits BODY : hi, right now netsplit quits are still displayed with irssi-smartfilter. it would be great if there were an option to hide them as well. daniel

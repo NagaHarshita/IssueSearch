@@ -1,0 +1,1 @@
+ URL : "https://github.com/Praqma/configuration-as-code-plugin/issues/62" TITLE : story: end user feedback BODY : reporting to end-user needs to be improved. for example when yaml isn't valid or can't be used somehow in jenkins configuration detect the user is trying to configure something, and that it doesn't work. point to examples.

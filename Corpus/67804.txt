@@ -1,0 +1,1 @@
+ URL : "https://github.com/pybites/challenges/issues/175" TITLE : python queues solutions BODY : build a chanlenge on the light of this medium post https://medium.com/@ssola/playing-with-twitter-streaming-api-b1f8912e50b0 - with producing and consuming from queues. could be fun taking the example of twitter streaming api and rabbitmq like the post mentions.

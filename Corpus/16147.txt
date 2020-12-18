@@ -1,0 +1,1 @@
+ URL : "https://github.com/mrprompt/deploybot-cli/issues/6" TITLE : how to configure? BODY : hey! this may be a bit stupid question, but how do i configure this client? ie, where to put deploybot credentials so that app knows to use them? i have installed this via pip and i just can' figure out where to put credentials to be able to use this client. cheers, janne

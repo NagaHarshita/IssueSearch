@@ -1,0 +1,1 @@
+ URL : "https://github.com/metasfresh/metasfresh/issues/1322" TITLE : forecast window in webui BODY : is this a bug or feature request? feature request what is the current behavior? currently, the window for material forecast is not included in webui what is the expected or desired behavior? create an initial layout definition of forecast window in webui.

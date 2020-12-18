@@ -1,0 +1,1 @@
+ URL : "https://github.com/daijifeng001/MNC/issues/39" TITLE : cannot download caffemodel BODY : as the onedrive is not accessable , './data/scripts/fetch_mnc_model.sh' and'./data/scripts/fetch_imagenet_models.sh' cannot download the caffemodel. is there other way to download them?

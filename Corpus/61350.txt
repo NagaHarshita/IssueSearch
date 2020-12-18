@@ -1,0 +1,19 @@
+ URL : "https://github.com/pinpong/equalizer-issue-tracker/issues/249" TITLE : app constantly crashing BODY : whenever i turn on the equalizer the app will crash. it's been happening nonstop. - device info:
+---
+<table>
+<tr><td>app version</td><td>1.3.7</td></tr>
+<tr><td>app version code</td><td>13700</td></tr>
+<tr><td>android build version</td><td>n920tuvs4dqa2</td></tr>
+<tr><td>android release version</td><td>6.0.1</td></tr>
+<tr><td>android sdk version</td><td>23</td></tr>
+<tr><td>android build id</td><td>mmb29k.n920tuvs4dqa2</td></tr>
+<tr><td>device brand</td><td>samsung</td></tr>
+<tr><td>device manufacturer</td><td>samsung</td></tr>
+<tr><td>device name</td><td>nobleltetmo</td></tr>
+<tr><td>device model</td><td>sm-n920t</td></tr>
+<tr><td>device product name</td><td>nobleltetmo</td></tr>
+<tr><td>device hardware name</td><td>samsungexynos7420</td></tr>
+<tr><td>abis</td><td> arm64-v8a, armeabi-v7a, armeabi </td></tr>
+<tr><td>abis 32bit </td><td> armeabi-v7a, armeabi </td></tr>
+<tr><td>abis 64bit </td><td> arm64-v8a </td></tr>
+</table> sent by christianlivingston2010@gmail.com mailto:christianlivingston2010@gmail.com

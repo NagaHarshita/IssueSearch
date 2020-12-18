@@ -1,0 +1,1 @@
+ URL : "https://github.com/NuGet/Home/issues/5950" TITLE : endtoend test timeouts BODY : the netcore/netstandard end-to-end tests sometimes timeout on project creation/initial restore. we can solve this in a couple of ways. - write a task that would run an initial restore so subsequent restores are faster. - add a fallback folder and add the needed packages there.

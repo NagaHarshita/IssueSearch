@@ -1,0 +1,1 @@
+ URL : "https://github.com/jordanspooner/ic-first-year-notes/issues/8" TITLE : validity cf pull request BODY : $a_{1},a_{2},\dots,a_{n}\vdash b$ should be called argument as a valid formula is just $\vdash a$ for eg right? cf paragraph validity therefore in the definition of soundness and completeness, they could deserve to be changed

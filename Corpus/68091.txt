@@ -1,0 +1,1 @@
+ URL : "https://github.com/timbuchwaldt/exmqttc/issues/4" TITLE : releasing 0.4.1 to hex? BODY : hello @timbuchwaldt would it be possible to release 0.4.1 to hex? it looks like the latest is 0.4.0 and there are some fixes to the callback setup in 0.4.1 that would be useful for us. thanks for your efforts!

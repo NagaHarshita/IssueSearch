@@ -1,0 +1,1 @@
+ URL : "https://github.com/gradle/gradle-all/issues/1" TITLE : cannot build master BODY : tried to build but got this error: included build 'gradle' must have a 'settings.gradle' file. debug logs below.

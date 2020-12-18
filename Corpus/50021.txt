@@ -1,0 +1,1 @@
+ URL : "https://github.com/stepancheg/grpc-rust/issues/69" TITLE : using with websockets BODY : i plan to use this library from js in a web app. is it possible to use this over websockets, like this? https://github.com/tmc/grpc-websocket-proxy https://github.com/grpc/grpc-experiments/issues/159

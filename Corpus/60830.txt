@@ -1,0 +1,1 @@
+ URL : "https://github.com/rabbitmq/rabbitmq-cli/issues/165" TITLE : add list limits command BODY : it would be useful to have a command to get the list limits something like: rabbitmqctl list_limits

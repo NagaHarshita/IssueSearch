@@ -1,0 +1,1 @@
+ URL : "https://github.com/bemeurer/beautysh/issues/2" TITLE : elif has wrong indentation BODY : if you have something like: !/bin/bash if -f testfile1 ; then echo 1 elif -f testfile2 ; then echo 2 else echo 3 fi the result is: !/bin/bash if -f testfile1 ; then echo 1 elif -f testfile2 ; then echo 2 else echo 3 fi so it seems elif is not handled correctly.

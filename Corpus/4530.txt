@@ -1,0 +1,1 @@
+ URL : "https://github.com/dzt/captcha-harvester/issues/4" TITLE : dns host files BODY : when changing the host address to 127.0.0.1 use 127.0.1.1 because this will stop interferences and trust me you don't want to do that

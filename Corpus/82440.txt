@@ -1,0 +1,1 @@
+ URL : "https://github.com/NyaaPantsu/nyaa/issues/1346" TITLE : add translation changelog BODY : for the coming content i recommend creating a textfile in the translations folder where the devs write changes to the en-us file and on which line the strings were added. you cant always look through the last 30 pull requests to see what exactly changed.

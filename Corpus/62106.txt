@@ -1,0 +1,1 @@
+ URL : "https://github.com/leafo/magick/issues/54" TITLE : cannot get filter list? BODY : failed to load filter list, can't resize maybe because of my imagemagick path? it's installed via homebrew

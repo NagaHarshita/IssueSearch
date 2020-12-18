@@ -1,0 +1,1 @@
+ URL : "https://github.com/pjsier/reentry-resources-map/issues/15" TITLE : make list sortable BODY : when you're looking at the list view, things just kinda show up the way they show up. let's come up with a sane default sort. some ideas from the session: - distance from location put into the location box - alpha by name - sort by category type

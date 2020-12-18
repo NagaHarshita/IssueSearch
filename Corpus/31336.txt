@@ -1,0 +1,10 @@
+ URL : "https://github.com/ServUO/ServUO/issues/2230" TITLE : server crash report BODY : i run the server with siege model, and meet this crush: server crash report
+=================== servuo version 0.5, build 6378.18719
+operating system: microsoft windows nt 6.0.6002 service pack 2
+.net framework: 4.0.30319.34209
+time: 2017/6/20 14:04:30
+mobiles: 3182
+items: 109443
+exception:
+system.nullreferenceexception: 未将对象引用设置到对象的实例。 在 server.siege.vendorcansell type t 在 server.mobiles.basevendor.vendorbuy mobile from 在 server.network.packethandlers.contextmenuresponse netstate state, packetreader pvsrc 位置 d:\servuo-master20170617\servuo-master\server\network\packethandlers.cs:行号 2159 在 server.network.packethandlers.extendedcommand netstate state, packetreader pvsrc 位置 d:\servuo-master20170617\servuo-master\server\network\packethandlers.cs:行号 1823 在 server.network.messagepump.handlereceive netstate ns 位置 d:\servuo-master20170617\servuo-master\server\network\messagepump.cs:行号 303 在 server.network.messagepump.slice 位置 d:\servuo-master20170617\servuo-master\server\network\messagepump.cs:行号 121 在 server.core.main string args 位置 d:\servuo-master20170617\servuo-master\server\main.cs:行号 587 clients:
+- count: 8 reported by: yayafan report thread: http://servuo.com/threads/server-crash-report.7518/

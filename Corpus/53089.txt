@@ -1,0 +1,1 @@
+ URL : "https://github.com/LiquidPlayer/LiquidCore/issues/13" TITLE : debug logging from js? BODY : is there an existing of planned interface to pass logging information from javascript back to the android log so we can see it in logcat? its difficult to trace errors that cross the javascript/java divide without some sort of shared logging.

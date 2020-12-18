@@ -1,0 +1,1 @@
+ URL : "https://github.com/artsy/positron/issues/1054" TITLE : tagging admin v2 BODY : not to be worked on yet - edit tag name - delete tag both of these actions should kick off a bulk edit job that propagates changes to articles that have that tag

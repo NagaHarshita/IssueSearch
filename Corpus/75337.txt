@@ -1,0 +1,1 @@
+ URL : "https://github.com/chillkauboy/GutCheck/issues/1" TITLE : gutter markers get moved BODY : 1 on adding / deleting lines or converting from tabs to spaces, the markers get moved. markers need to have text points updated. 2 hovering over the line number where the marker used to be still creates a popup, probably because the checkstyle_info dict and markers aren't connected.

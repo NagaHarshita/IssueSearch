@@ -1,0 +1,1 @@
+ URL : "https://github.com/bashkarev/clickhouse/issues/2" TITLE : impossible to set database BODY : consider to add 'database' property to connection or improve dsn syntax similar to regular connections mysql for example : 'dsn' => 'tcp://localhost:8823;dbname=test'

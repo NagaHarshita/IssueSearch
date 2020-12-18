@@ -1,0 +1,1 @@
+ URL : "https://github.com/nagisa/rust_libloading/issues/21" TITLE : publish a new version BODY : i need this to update target_build_utils in servo to not build serde 0.8 anymore.

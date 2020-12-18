@@ -1,0 +1,1 @@
+ URL : "https://github.com/impomales/Voting_App/issues/1" TITLE : new poll form BODY : form validation for empty fields not handled; yields an error

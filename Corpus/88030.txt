@@ -1,0 +1,1 @@
+ URL : "https://github.com/altosaar/food2vec/issues/1" TITLE : missing file, static path BODY : hi there, first off, nice demo and code. but in the preprocess_kaggle_data.py file your loading in vocab.txt and this is not on kaggle nor in your repository.

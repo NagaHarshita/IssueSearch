@@ -1,0 +1,1 @@
+ URL : "https://github.com/mojohaus/animal-sniffer/issues/46" TITLE : dead link in usage page BODY : the usage page http://www.mojohaus.org/animal-sniffer/animal-sniffer-maven-plugin/usage.html contains a dead link labelled: animal scents subproject , linking to http://mojo.codehaus.org/signatures

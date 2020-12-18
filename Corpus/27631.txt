@@ -1,0 +1,1 @@
+ URL : "https://github.com/tekezo/Karabiner-Elements/issues/638" TITLE : doesn't work at all BODY : using sierra 10.12.3. tried mapping l_option to l_command and l_command to l_option. keyboard function doesn't change at all. event viewer shows l_option still firing opt and l_command still firing cmd. any suggestions about how to make this work?

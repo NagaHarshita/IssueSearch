@@ -1,0 +1,1 @@
+ URL : "https://github.com/pierwill/unsettling-narratives/issues/3" TITLE : make permalinks permanent BODY : the permalink function right now relies on a numerical index of a list that can easily change as data is added. consider other options, like a unique id row.

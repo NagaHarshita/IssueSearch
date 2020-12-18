@@ -1,0 +1,1 @@
+ URL : "https://github.com/kemitix/outputcapture/issues/16" TITLE : stream based api BODY : java final captureoutput captureoutput = new captureoutput ; list<string> lines = captureoutput.of -> {...} .stream .filter capturedoutputfilter::out .map capturedoutputline::get .collect collectors.tolist ;

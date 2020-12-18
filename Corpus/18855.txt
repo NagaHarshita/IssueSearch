@@ -1,0 +1,1 @@
+ URL : "https://github.com/mvdan/goreduce/issues/4" TITLE : use code coverage BODY : we can delete lots of code by simply seeing what code wasn't run to reproduce the issue. for example, produce a coverage file and parse it with https://godoc.org/golang.org/x/tools/cover. this will likely be useful at the start, perhaps even after every change.

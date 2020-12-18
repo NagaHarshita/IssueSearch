@@ -1,0 +1,1 @@
+ URL : "https://github.com/anotherdayattheraces/level-4-project/issues/6" TITLE : speed up dictionary BODY : at the moment the dictionary is inefficient and slow to search, it needs to be sped up, sorting it alphabetically would be a good place to start.

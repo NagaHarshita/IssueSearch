@@ -1,0 +1,1 @@
+ URL : "https://github.com/t-sauer/vscode-babel-repl/issues/1" TITLE : babel repl doesnt work BODY : im using vs code 1.9.1, i installed the babel repl, open the pallet commmand, search for babel, press enter but nothing happens.

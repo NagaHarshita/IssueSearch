@@ -1,0 +1,1 @@
+ URL : "https://github.com/sb2nov/mac-setup/issues/148" TITLE : mysql section is missing BODY : it looks like it went missing in this commit https://github.com/sb2nov/mac-setup/commit/48a98c2822589ddd07e7383f71089a88533c0f78 . is there a reason why it went missing? not sure if i understand the latest commit messages.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/pybel/pybel/issues/94" TITLE : better warning storage BODY : maintain a list of all the warnings during parse-time

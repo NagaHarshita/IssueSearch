@@ -1,0 +1,1 @@
+ URL : "https://github.com/nodejs-tw/ama/issues/24" TITLE : node.js 使用 c 問題 BODY : 大家好，我目前運用unity c 做了一些簡單的對打邏輯，接下來想要運用node.js去製作一樣的戰鬥邏輯來判斷目前的戰鬥情況 目前我的想法是 1.在node.js中使用c 的class 不知道怎麼讓node.js去使用c dll 2.使用js自己重寫一個一樣的邏輯 擔心戰鬥邏輯的結果會跟原邏輯不一致 想請問一下要從哪個方向下手會比較好呢? ps. 戰鬥類似部落衝突卡牌推出之後自己運算戰鬥

@@ -1,0 +1,1 @@
+ URL : "https://github.com/googleads/videojs-ima/issues/358" TITLE : disable flash ads BODY : hi, we want to disable flash ads. i found that there's an interface to disable it in the ima sdk documentation, but how do i invoke that interface from this plugin?

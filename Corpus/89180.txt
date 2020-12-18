@@ -1,0 +1,1 @@
+ URL : "https://github.com/blacksonic/ngx-webpack/issues/2" TITLE : post install config issue BODY : when starting a project, the webpack.config.js get initialized with: let webpackconfig = require './' .webpack { instead of: let webpackconfig = require 'ngx-webpack' .webpack { as mentioned in the readme, everything works as expected after that adjustment

@@ -1,0 +1,1 @@
+ URL : "https://github.com/PRIArobotics/Hedgehog/issues/3" TITLE : add camera support BODY : support some sort of computer vision with standard usb webcams. this includes either a pure client-side wrapper for basic opencv apis, or a client/server version to allow remote camera inputs; and integration into the blockly ide.

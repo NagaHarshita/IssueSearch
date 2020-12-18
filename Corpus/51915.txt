@@ -1,0 +1,1 @@
+ URL : "https://github.com/twosigma/flint/issues/12" TITLE : bug with com.fasterxml BODY : hi, i've downloaded and built flint with sbt. i've then copy and paste the .jar from the target folder into spark/jars but this create a conflit with com.fasterxml do you know why ? thks,

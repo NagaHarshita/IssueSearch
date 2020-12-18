@@ -1,0 +1,1 @@
+ URL : "https://github.com/asyncapi/asyncapi/issues/39" TITLE : we should support kafka BODY : kafka uses its own protocol and it should be pretty easy to support it.

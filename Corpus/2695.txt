@@ -1,0 +1,1 @@
+ URL : "https://github.com/voxable-labs/hg/issues/4" TITLE : create hg cli BODY : we need a cli for handling things like project initialization and generators. since there's already a command line tool hg the mercurial cli , we'll call this hgc , and include instructions for aliasing this to hg for folks that don't use mercurial.

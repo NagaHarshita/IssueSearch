@@ -1,0 +1,1 @@
+ URL : "https://github.com/agnantis/hsReasoner/issues/8" TITLE : fix testing framework BODY : updating the project to use stack, broke test dependencies and i cannot execute the tests. i need to check what are the current testing tools and update the project respectively

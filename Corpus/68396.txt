@@ -1,0 +1,1 @@
+ URL : "https://github.com/OctoPrint/OctoPrint-FirmwareUpdater/issues/7" TITLE : rfe: post-update g-code BODY : normally there is a need to run small g-code snippet right after update this request if to provide extra editable area in ui for such g-code

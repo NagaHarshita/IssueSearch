@@ -1,0 +1,1 @@
+ URL : "https://github.com/clough42/node-red-contrib-excursion/issues/1" TITLE : request for 2 outputs BODY : i was wondering if it would be possible to have 2 outputs, one for top value and another for low value. my use case is alerting, i set custom names on the slack alerts to say if its high or low. i currently use a switch to do this, i like your node though.

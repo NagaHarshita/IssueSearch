@@ -1,0 +1,1 @@
+ URL : "https://github.com/trk/FieldtypeFontIconPicker/issues/5" TITLE : css pulled from http BODY : this should be served from https instead of http - doesn't work when admin is served from https: https://github.com/trk/fieldtypefonticonpicker/blob/master/icons/ionicons.php l6

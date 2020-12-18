@@ -1,0 +1,1 @@
+ URL : "https://github.com/engintron/engintron/issues/716" TITLE : intermittent 502 errors BODY : hi there, we are running a dedicated server with a few hundred sites so nothing huge. there's plenty of resource, ram and cpu. still though, customers report an occasional 502 error. how can we prevent this from happening?

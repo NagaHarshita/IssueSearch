@@ -1,0 +1,1 @@
+ URL : "https://github.com/NewLunarFire/pointsgenie/issues/1" TITLE : add ci with travis BODY : we have all the tooling set up build, tests, etc. for the website. what i would like to have is some automatic ci with travis. optionally, add a badge in the readme and prevent prs from being merged if ci fails.

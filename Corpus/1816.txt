@@ -1,0 +1,1 @@
+ URL : "https://github.com/bioinform/somaticseq/issues/43" TITLE : hg19 and b37 BODY : can i train a model using all the b17 files and then predict somatic variants using hg19 files? same question about the opposite way? thanks,

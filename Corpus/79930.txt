@@ -1,0 +1,1 @@
+ URL : "https://github.com/tannerlinsley/react-table/issues/57" TITLE : support for fixed header BODY : are there any plans to support a fixed header like fixed-data-table http://facebook.github.io/fixed-data-table/example-object-data.html does?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/SeanTAllen/pony-msgpack/issues/12" TITLE : add usage instructions BODY : examples on how to use as part of top level messagepack package documentation. particular emphasis should be placed on using map and array correctly.

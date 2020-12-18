@@ -1,0 +1,1 @@
+ URL : "https://github.com/Yakindu/statecharts/issues/1203" TITLE : add root property page BODY : as pendant to yakindurootpreferencepage there should be a root property page. a property page can be registered e.g. for the project 'properties' context menu item.

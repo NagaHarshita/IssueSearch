@@ -1,0 +1,1 @@
+ URL : "https://github.com/bzurkow/3D_Tron_Ben/issues/30" TITLE : create player on enter BODY : right now we are creating six players when the game loads and assigning users to the list of 6 possible players... we should change this so that we only create a number of players according to the amount of users that have joined.

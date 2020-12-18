@@ -1,0 +1,6 @@
+ URL : "https://github.com/noinarisak/matchplay/issues/1" TITLE : design data model BODY : design data model for matches/events:
+- users
+- groups
+- security
+- courts
+- schedule

@@ -1,0 +1,1 @@
+ URL : "https://github.com/RepRapMorgan/lilian/issues/2" TITLE : missing module files BODY : when trying to generate part 4 you get a warning saying warning: ignoring unknown module 'polyhole2' i checked different versions of mcad and wasn't able to find one that had a polyhole.scad with a polyhole2 module in it. i don't know how or if this effects the part.

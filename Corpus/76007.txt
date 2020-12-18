@@ -1,0 +1,1 @@
+ URL : "https://github.com/OneOfOne/genx/issues/5" TITLE : improve name replacement BODY : example: func removeme {} func removeme2 {} with genx -fn removeme turns into : func 2 {}

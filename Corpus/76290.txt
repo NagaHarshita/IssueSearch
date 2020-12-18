@@ -1,0 +1,1 @@
+ URL : "https://github.com/luin/ioredis/issues/450" TITLE : is it async to get keys? BODY : i have a redis database with 11 million rows. in my server, i want to load this data into memory. would this be a blocking operation?

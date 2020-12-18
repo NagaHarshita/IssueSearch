@@ -1,0 +1,1 @@
+ URL : "https://github.com/electric-cloud/EC-Datical/issues/4" TITLE : add support for linux BODY : the step relies on calling hammer.bat modify to test for agent os to call hammer.bat on windows or hammer on linux

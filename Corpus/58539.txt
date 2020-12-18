@@ -1,0 +1,1 @@
+ URL : "https://github.com/abergmeier/sublime-bazel-compile-commands/issues/1" TITLE : solve compile commands BODY : for the compile_commands.json to be generated in sublime, i would like to solve this once and for all. first for that i started a document: https://docs.google.com/document/d/1qkt7sxs9dzqspni-qzajocozmaad1cjvs7jv-x_0of0/edit?usp=sharing

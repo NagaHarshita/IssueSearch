@@ -1,0 +1,1 @@
+ URL : "https://github.com/openfoodfacts/openfoodfacts-server/issues/953" TITLE : remove old bower files BODY : as package management for ui packages was moved to yarn in 923, .bowerrc and bower.json could be useless. figure out if they can be removed.

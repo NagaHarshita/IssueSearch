@@ -1,0 +1,1 @@
+ URL : "https://github.com/numpy/numpy/issues/8763" TITLE : dep: deprecate np.poly1d BODY : is this a sensible thing to do? right now, the docs for np.poly1d do not contain any mention of its successor np.polynomial.polynomial

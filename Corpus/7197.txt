@@ -1,0 +1,1 @@
+ URL : "https://github.com/Leinvedan/FactionWars/issues/1" TITLE : empty save name BODY : if the input name of the save file is empty, the readerwriter creates the save file in the saves directory instead of creating his own folder and putting the save file inside.

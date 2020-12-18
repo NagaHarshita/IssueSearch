@@ -1,0 +1,1 @@
+ URL : "https://github.com/roys/java-hdl-webserver/issues/4" TITLE : issue with button control BODY : hi! i'm trying to connect java-hdl-webserver to my hdl devices and dimmers works well, but button control doesn't work properly. i can set only first button on each 6 keys multifunction panel . also i'm interested in getting data from sensors, is it possible?

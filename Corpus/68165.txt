@@ -1,0 +1,1 @@
+ URL : "https://github.com/asmjmisc/apathy/issues/11" TITLE : remove stale pid files. BODY : currently, when the running process exits, the pid file is not removed. in the case of a controlled termination, it should be removed.

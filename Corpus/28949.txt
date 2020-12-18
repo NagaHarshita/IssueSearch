@@ -1,0 +1,1 @@
+ URL : "https://github.com/GNS3/gns3-gui/issues/1999" TITLE : improve inline help BODY : tooltip are easy to be missed. we should add a '?' button when we have something important to tell users about a particular option.

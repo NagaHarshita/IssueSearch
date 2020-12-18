@@ -1,0 +1,1 @@
+ URL : "https://github.com/RobotLocomotion/drake/issues/5491" TITLE : rename xm to xa BODY : the stuff we used to call modal state is now abstract state, but the legacy of modal lives on in a bunch of variable names.

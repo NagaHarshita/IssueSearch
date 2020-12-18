@@ -1,0 +1,1 @@
+ URL : "https://github.com/pixelsoccupied/345_California/issues/97" TITLE : checkturn showmsg logic BODY : when the turn changes to the next player, message says 'here are new cards picked' by the player who just ended turn but instead shows the cards of the player who is about to start a new turn

@@ -1,0 +1,1 @@
+ URL : "https://github.com/rancher/rancher/issues/10404" TITLE : pipeline ui does not load BODY : rancher versions: version - v1.6.10 steps to reproduce: 1. click on launch pipeline ui results: page doesn't load ! image https://user-images.githubusercontent.com/11514927/33282410-d10e592c-d365-11e7-946c-443134fca287.png

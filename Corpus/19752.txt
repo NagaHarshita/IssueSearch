@@ -1,0 +1,1 @@
+ URL : "https://github.com/afollestad/ason/issues/17" TITLE : add try annotation BODY : it would be nice to have an annotation that says if the field is parseable then parse it, but if not skip it.

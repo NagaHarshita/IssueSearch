@@ -1,0 +1,1 @@
+ URL : "https://github.com/CShulby/plugin_htklabel/issues/28" TITLE : no changes in context BODY : if the user makes no changes in the context, leave as is, other wise delete it.

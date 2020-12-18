@@ -1,0 +1,1 @@
+ URL : "https://github.com/SimonDegraeve/hapi-webpack-plugin/issues/16" TITLE : use with handlebars BODY : is it possible to use this with hapi views and handlebars? my files seem to be served to the browser as expected but all of my template strings {{example}} are ignored/not expanded. let me know if there is any other info i can provide. thanks in advance for any help!

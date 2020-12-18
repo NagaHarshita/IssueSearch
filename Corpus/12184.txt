@@ -1,0 +1,1 @@
+ URL : "https://github.com/ClaraMarquardt/ehR/issues/6" TITLE : new clustered se BODY : - include function that generates clustered standard errors for a mean currently only implemented for a proportion

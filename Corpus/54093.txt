@@ -1,0 +1,1 @@
+ URL : "https://github.com/sdfgeoff/playcanvas-blender-tools/issues/5" TITLE : file size optimization BODY : smooth shaded, identical-uv vertices only need to be stored once.

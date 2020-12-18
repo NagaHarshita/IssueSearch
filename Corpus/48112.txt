@@ -1,0 +1,1 @@
+ URL : "https://github.com/haxorof/ansible-role-hashicorp-tools/issues/6" TITLE : remove default states BODY : currently default state of the tools are defined as absent which can cause unintended changes. these default values must be removed so if tool is not defined in the playbook nothing shall happen.

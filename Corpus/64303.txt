@@ -1,0 +1,1 @@
+ URL : "https://github.com/at15/snowbot/issues/13" TITLE : framework tf opennmt-tf BODY : https://github.com/opennmt/opennmt-tf - x install, just clone it - investigate data, it can build vocab from text file, and put special symbol in vocab, the toy data should took 83 h to train 1000000 ? steps, one step cost 0.3s

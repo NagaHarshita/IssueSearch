@@ -1,0 +1,1 @@
+ URL : "https://github.com/openlayers/openlayers/issues/7540" TITLE : incorrect import in 4.6.0 BODY : module not found: can't resolve '../../layer/vectorrendertype.js' in node_modules/ol/renderer/canvas'

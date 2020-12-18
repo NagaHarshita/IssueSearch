@@ -1,0 +1,1 @@
+ URL : "https://github.com/hharnisc/hypercwd/issues/13" TITLE : action fires too often? BODY : i was playing with the redux devtools when i noticed that session_set_cwd fires waaaay too often? maybe worth doing a comparison before dispatching? ! image https://cloud.githubusercontent.com/assets/13041/21753155/63a08ebe-d59b-11e6-8b7a-c0da0c186a86.png

@@ -1,0 +1,1 @@
+ URL : "https://github.com/adafruit/Adafruit_Trellis_Library/issues/15" TITLE : why the delay of 30ms? BODY : in the trellistest sketch, there's this line: delay 30 ; // 30ms delay is required, dont remove me! can anyone explain why it's required? i'm asking because in my application i won't be able to wait 30ms.

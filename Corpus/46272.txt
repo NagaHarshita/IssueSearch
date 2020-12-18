@@ -1,0 +1,1 @@
+ URL : "https://github.com/eneim/toro/issues/224" TITLE : loop video in toro v3 BODY : how can i make the video play again once it is finished? is available some function like @override public target getnexttarget {      return target.this_player;    }   available in version 2.3.0? i'm using simpleexoplayerviewholder.java

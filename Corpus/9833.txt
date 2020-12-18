@@ -1,0 +1,1 @@
+ URL : "https://github.com/aliceklipper/simplest/issues/14" TITLE : add l10n support BODY : is there some solution for localizing react applications? e.g. abstract class localizable with useful methods, event handlers etc.

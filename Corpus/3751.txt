@@ -1,0 +1,1 @@
+ URL : "https://github.com/SMPTE-TC/ST-2067-x-IMF/issues/8" TITLE : typo at 5.4.5 BODY : i think there is a minor mistype in 5.4.5 image resources: ============================ the mimemediatype of each ancillary resource containing a font resource shall be image/png . ============================

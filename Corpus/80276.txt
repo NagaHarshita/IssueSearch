@@ -1,0 +1,1 @@
+ URL : "https://github.com/LokiTechnologies/EqualAreaCartogram/issues/11" TITLE : there are no unit tests. BODY : unit tests for both py2 and py3 should be created to ensure that errors do not go unnoticed.

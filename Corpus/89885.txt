@@ -1,0 +1,1 @@
+ URL : "https://github.com/Lone-Coder/letsencrypt-win-simple/issues/468" TITLE : renew is not unattended ? BODY : i've tried to schedule the renewal, but the scheduled task hangs because the renewal is waiting for pressing enter to finish. ! image https://user-images.githubusercontent.com/1872158/27729487-5bb3c6d0-5d86-11e7-847a-3b3c5e5ecb0e.png any ideas on this?

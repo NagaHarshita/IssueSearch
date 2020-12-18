@@ -1,0 +1,1 @@
+ URL : "https://github.com/fragworks/frag/issues/10" TITLE : spritebatch disposal code BODY : need to write code to properly dispose of spritebatch instances.

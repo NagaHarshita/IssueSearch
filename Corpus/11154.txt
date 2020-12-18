@@ -1,0 +1,1 @@
+ URL : "https://github.com/FreeElephants/rest-daemon/issues/17" TITLE : fix cors headers BODY : send access-control-allow-headers and access-control-allow-methods with response when access-control-request-headers and access-control-request-method are presents.

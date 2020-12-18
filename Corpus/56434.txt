@@ -1,0 +1,1 @@
+ URL : "https://github.com/vision1983/nfw/issues/7" TITLE : need for http redirect BODY : we require nfw to be able to send http redirects, like 301/302/303/307/308

@@ -1,0 +1,1 @@
+ URL : "https://github.com/byuitechops/english-connect/issues/2" TITLE : progress bar calculation BODY : the progress bars need to be populated with data. the functions exist now, but the info they are pulling from needs to be updated at run time.

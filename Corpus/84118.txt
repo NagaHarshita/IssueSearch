@@ -1,0 +1,1 @@
+ URL : "https://github.com/SaplingStudios/EMA/issues/10" TITLE : crash on entering nothing BODY : when you just press enter, giving no text, the compiler crashes. almost convenient, but not an intended feature.

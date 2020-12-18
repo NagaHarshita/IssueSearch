@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/vscode/issues/26548" TITLE : directory is not deleted BODY : <!-- do you have a question? please ask it on http://stackoverflow.com/questions/tagged/vscode --> - vscode version: 1.12.1 - os version: win7 steps to reproduce: 1. delete directory 2. refresh 3. directory still exists http://pl.tinypic.com/r/167mepx/9

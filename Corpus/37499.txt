@@ -1,0 +1,1 @@
+ URL : "https://github.com/eclarke/dsk-rs/issues/1" TITLE : max k-mer size <= 32 BODY : rust's default large unsigned integer type, usize , can only support a k-mer size up to 32. maybe use num crate?

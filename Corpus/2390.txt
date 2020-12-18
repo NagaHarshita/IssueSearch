@@ -1,0 +1,1 @@
+ URL : "https://github.com/ngbinh/gradle-scalastyle-plugin/issues/27" TITLE : add a license BODY : currently we cannot use this within our enterprise because there is no license specified - please consider adding a specific open source license to clarify the terms of reuse

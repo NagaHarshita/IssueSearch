@@ -1,0 +1,1 @@
+ URL : "https://github.com/akosborn/umspreadsheet_server/issues/12" TITLE : sign up error BODY : if email already exists, email field is persisted and hidden within form.

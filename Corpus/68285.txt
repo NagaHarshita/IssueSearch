@@ -1,0 +1,1 @@
+ URL : "https://github.com/EPCCed/exaflow-exags-upc/issues/8" TITLE : requires gupc > 4.8.0.1 BODY : gupc v4.8.0.1 doesn't include upc_types.h which we use in a few places. we should catch this via a configure / automake warning.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/SUSE/Portus/issues/1412" TITLE : expand the rest api BODY : - documentation and implementation of a final v1 of the api. - should we have different scopes for the api ? e.g. so not only admin users could access the api .

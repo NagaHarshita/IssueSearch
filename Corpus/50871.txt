@@ -1,0 +1,1 @@
+ URL : "https://github.com/drone/drone-cli/issues/37" TITLE : add contributing guide BODY : we should add a contributing guide that includes a style guideline for adding or implementing new commands. naming conventions, output conventions, common flags, etc

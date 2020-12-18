@@ -1,0 +1,1 @@
+ URL : "https://github.com/unshiftio/querystringify/issues/7" TITLE : does not decode plus signs BODY : this test fails: js describe ' parse', function { it 'will decode plus signs', function { var obj = qs.parse 'foo+bar=baz+qux' ; assume obj .is.a 'object' ; assume obj foo bar .equals 'baz qux' ; } ; } ;

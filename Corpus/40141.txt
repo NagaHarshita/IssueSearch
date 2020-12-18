@@ -1,0 +1,1 @@
+ URL : "https://github.com/hajimehoshi/ebiten/issues/300" TITLE : test with go 1.8 rc1 BODY : https://golang.org/dl/ go1.8rc1 now we can test it by go get :-

@@ -1,0 +1,1 @@
+ URL : "https://github.com/sampoll/rhdf5client/issues/6" TITLE : need a vignettes folder BODY : i don't understand how the repo got this way. inst/doc imho should not be present unless the vignette needs nonstandard production. vignettes/rhdf5client.rmd is all that should be present to have a buildable vignette

@@ -1,0 +1,1 @@
+ URL : "https://github.com/pingthepeople/ptp-web/issues/56" TITLE : unbreak the url BODY : url history should be pushed as a user navigates bill lists, so that back/forward functionality is not broken when searching/filtering/paginating

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ConsensusBot/gitter-gimp/issues/4" TITLE : fix styling in top nav BODY : the site logo on the far left hand side of the top nav bar is missing styles. should be styled to match the links on the right hand side.

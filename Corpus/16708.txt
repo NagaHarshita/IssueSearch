@@ -1,0 +1,1 @@
+ URL : "https://github.com/cocolocomoco21/ULCRS/issues/25" TITLE : load session page BODY : implement “load session” with html, js, and css. allow the user to choose one session file to load. once a file has been selected, notify the backend to open the file.

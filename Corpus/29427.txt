@@ -1,0 +1,1 @@
+ URL : "https://github.com/BenBrostoff/draft-kings-fun/issues/46" TITLE : lock and vs_avg use BODY : if i set my vs_avg to a certain number and then i lock a player who is outside of that vs_avg, the player does not lock. can the locking feature happen outside of the vs_avg constraint? thanks!

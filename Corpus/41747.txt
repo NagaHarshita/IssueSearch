@@ -1,0 +1,1 @@
+ URL : "https://github.com/TruputiGalvotas/task/issues/84" TITLE : add formating of task BODY : replace stdout with something that spits a pretty formatted task in a string or &str

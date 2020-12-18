@@ -1,0 +1,1 @@
+ URL : "https://github.com/CorpGlory/csv2influx/issues/8" TITLE : time shift to config BODY : in csv file you might get something like date of stop, .... 09/24/2013 17:11:00, .... and i have no clue in which timezone is it. i would add timestamp : { name : date of stop , timezone : utc-5 , ... }

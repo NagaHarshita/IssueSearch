@@ -1,0 +1,1 @@
+ URL : "https://github.com/sifive/openocd/issues/25" TITLE : v13 read memory is slow BODY : for v11 and for v13 write_memory has been optimized for fast jtag over usb access. we should do the same thing for read_memory

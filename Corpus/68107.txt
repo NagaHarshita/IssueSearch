@@ -1,0 +1,1 @@
+ URL : "https://github.com/prerender/prerender/issues/416" TITLE : remove all cached pages BODY : i want to remove all the cached pages. the only option for me right now is remove in batches of 200. as i've got ~20k cached pages, this is quite a pain.

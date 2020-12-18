@@ -1,0 +1,1 @@
+ URL : "https://github.com/liabru/matter-js/issues/349" TITLE : move chamfer to plugin BODY : move chamfer functionality to a separate plugin, since it is not a core part of the library. this will also mean it can be used with body.create .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/logv/sybil/issues/15" TITLE : add results pruning BODY : in order to speed up queries, each block's result needs to be properly pruned before merging into our master result list when doing high cardinality queries. for example: if someone queries top 100 time series by count, we don't need all 10,000 time series when merging.

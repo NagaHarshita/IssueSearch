@@ -1,0 +1,1 @@
+ URL : "https://github.com/line/line-bot-sdk-java/issues/84" TITLE : support multicast api BODY : line messaging api supports multicast api. line-bot-sdk-java should support this api.

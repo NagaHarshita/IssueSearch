@@ -1,0 +1,1 @@
+ URL : "https://github.com/andreacaldera/templates/issues/2" TITLE : root selectors / reducers BODY : - create root selectors / reducers - store to have namespace as root elements and modules to use that to access data

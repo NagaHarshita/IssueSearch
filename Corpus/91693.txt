@@ -1,0 +1,1 @@
+ URL : "https://github.com/alexbw/conda-lua-recipes/issues/12" TITLE : uninstall lua-torch fails BODY : conda uninstall lua-torch warning conda.core.link:run_script 518 : pre-unlink script failed for package alexbw::lua-torch-7.0.3-lua5.3_0 consider notifying the package maintainer

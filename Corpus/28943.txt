@@ -1,0 +1,1 @@
+ URL : "https://github.com/nlesc-sherlock/emma/issues/70" TITLE : improve emma readme BODY : line export path=$path:/mnt/c/windows/system32/ > add more explanation: when will this be needed line vim env_linux.sh > add more explanation: what needs to be edited line ssh-keygen -f ${host_name}.key > add that ${host_name} may need to be manually filled

@@ -1,0 +1,1 @@
+ URL : "https://github.com/arc-ts/ansible-role-apt/issues/1" TITLE : add apt source management BODY : manage main sourceslist manage additional repos in sources.list.d add directive to manage repos before or after installing of transports.

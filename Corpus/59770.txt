@@ -1,0 +1,1 @@
+ URL : "https://github.com/rwieruch/the-road-to-learn-react/issues/29" TITLE : use let instead of var BODY : since you compare es5 and es6 what about replace var to let example : https://github.com/rwieruch/the-road-to-learn-react/blob/master/manuscript/chapter3.txt l73

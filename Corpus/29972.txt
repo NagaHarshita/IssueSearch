@@ -1,0 +1,1 @@
+ URL : "https://github.com/Learn-by-doing/crypto-terminal/issues/41" TITLE : new payment history BODY : add new fields for monero in the payment history: - payment id created by our app - current height - confirmation height

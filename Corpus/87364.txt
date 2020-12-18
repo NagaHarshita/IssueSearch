@@ -1,0 +1,1 @@
+ URL : "https://github.com/osulp/dspace2hydra/issues/92" TITLE : large file upload timeout BODY : set a longer timeout for large file uploading to the hydra server through mechanize, 60s isn't long enough.

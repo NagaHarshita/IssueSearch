@@ -1,0 +1,1 @@
+ URL : "https://github.com/blackducksoftware/hub-detect/issues/66" TITLE : collect nodejs version BODY : you can specify the nodejs version in the package.json file using the engine property. could be useful to collect that also as a dependency, so we could also detect security issues for nodejs.

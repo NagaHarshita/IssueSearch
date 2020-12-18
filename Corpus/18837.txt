@@ -1,0 +1,1 @@
+ URL : "https://github.com/libremesh/librerouter-testing/issues/9" TITLE : usb led operation BODY : this led does not light at any time, including initial power up when all other leds are lit for a short time. the usb led is driven from gpio20 and is lit when gpio20 line is pulled low by the gpio test script.

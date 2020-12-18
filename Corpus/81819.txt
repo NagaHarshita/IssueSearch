@@ -1,0 +1,1 @@
+ URL : "https://github.com/square/retrofit/issues/2235" TITLE : @body converter problem ? BODY : i use @body companysearchbean bean, the paramter is : { isrecommend :0, sortnumber :0, limitid :0, size :10, usercode : 2b213b2d-c848-4467-8c98-bcac2d068d91 , which :1} how to convert to parameter usercode=2b213b2d-c848-4467-8c98-bcac2d068d91&isrecommend=1.1

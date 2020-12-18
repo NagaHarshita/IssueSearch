@@ -1,0 +1,1 @@
+ URL : "https://github.com/damianopetrungaro/clean-architecture/issues/7" TITLE : refactoring for 0.3 BODY : - remove the interface suffix - improve collection with withadded method - refactor with / without apis

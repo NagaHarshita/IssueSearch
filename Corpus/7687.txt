@@ -1,0 +1,1 @@
+ URL : "https://github.com/6pac/SlickGrid/issues/176" TITLE : i18n via config BODY : suggestion: it would be nice to have all labels that are actually hardcoded in application ex. 'force fit columns', 'synchronous resize', 'page n of n', 'items per page', 'n-n of n items' configurables via configuration object.

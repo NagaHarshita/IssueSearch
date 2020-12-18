@@ -1,0 +1,1 @@
+ URL : "https://github.com/richardforth/apache2buddy/issues/211" TITLE : detect webmin / virtualmin BODY : /usr/sbin/virtualmin info | grep min version virtualmin version: 5.99.gpl webmin version: 1.850

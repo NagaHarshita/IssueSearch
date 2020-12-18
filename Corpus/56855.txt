@@ -1,0 +1,1 @@
+ URL : "https://github.com/apex/up/issues/40" TITLE : optimize reverse proxy BODY : do some profiling and get the latency as low as possible, possible replace go's reverse proxy with https://github.com/valyala/fasthttp

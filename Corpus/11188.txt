@@ -1,0 +1,1 @@
+ URL : "https://github.com/dayne/sage-cookbook/issues/1" TITLE : fix nodejs on pi BODY : test either the source install long and boring likely or the armv7 binary install.

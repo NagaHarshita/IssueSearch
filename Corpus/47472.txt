@@ -1,0 +1,1 @@
+ URL : "https://github.com/termux/termux-packages/issues/1095" TITLE : php iconv not working BODY : seems iconv is not working on php, try: <?php iconv '' , '//ignore', '' ?> is this because libiconv is replaced by libandroid-support?

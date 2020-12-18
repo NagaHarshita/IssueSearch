@@ -1,0 +1,1 @@
+ URL : "https://github.com/Arachni/arachni/issues/903" TITLE : 127.0.0.1 ip disclosure BODY : on a scan, arachni opens a private ip address disclosure issue because it finds 127.0.0.1 in a file. i wouldn't consider it important because every computer has 127.0.0.1 . same for ::1 . i'm on arachni 1.5.1.

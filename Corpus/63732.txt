@@ -1,0 +1,1 @@
+ URL : "https://github.com/expo/expo/issues/537" TITLE : error when logging this BODY : when trying to log this expo seems to run in an infinite loop. any idea what is causing the problem? for example: js shouldcomponentupdate nextprops { console.log 'this', this ; return true; }

@@ -1,0 +1,1 @@
+ URL : "https://github.com/rickiepark/awesome-pytorch/issues/1" TITLE : add mobilenet please BODY : pytorch-mobilenet https://github.com/marvis/pytorch-mobilenet : pytorch mobilenet implementation of mobilenets: efficient convolutional neural networks for mobile vision applications , 1704.04861 https://arxiv.org/abs/1704.04861

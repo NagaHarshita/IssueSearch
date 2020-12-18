@@ -1,0 +1,1 @@
+ URL : "https://github.com/shizzard/marvin/issues/11" TITLE : guilds warmup procedure BODY : every guild bot is connected to should be warmed up, including: - members list - text channels list - voice channels list - categories newer feature at the moment - emoji list - role list this issue seems better to be decomposed.

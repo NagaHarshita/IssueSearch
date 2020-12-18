@@ -1,0 +1,1 @@
+ URL : "https://github.com/torch/nngraph/issues/144" TITLE : how nngraph works? BODY : i implemented two equal networks. the first one uses only nn modules, the second one uses nngraph. i compared performance and i found that nngraph implementation works in two times lower. why?

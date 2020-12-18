@@ -1,0 +1,1 @@
+ URL : "https://github.com/gcanti/babel-plugin-tcomb/issues/168" TITLE : add meta object for class? BODY : from: import t from 'tcomb'; class a { static f x: t.string { return x; } } to: import t from 'tcomb'; class a { static f x { _assert x, t.string, 'x' ; return x; } } a.meta= t.struct { f:t.func t.string,t.any } .meta;

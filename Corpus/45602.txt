@@ -1,0 +1,1 @@
+ URL : "https://github.com/eps90/pull-request-notifier/issues/33" TITLE : improve code coverage BODY : because of compilation layers ts -> webpack some of the lines are covered incorrectly. it's worth to find a way to do it properly and configure build process.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/adunkman/node-trello/issues/41" TITLE : receive generate token BODY : is there any function to receive a token through node-trello library instead of getting a token from trello.com site? i would love to see an explanation in readme on how to use the function. thanks

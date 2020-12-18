@@ -1,0 +1,1 @@
+ URL : "https://github.com/zmxv/react-native-sound/issues/156" TITLE : permission to record BODY : when i refuse to give the permission to record ， the _checkpermission promise always return true， how can i get user refuse action？

@@ -1,0 +1,1 @@
+ URL : "https://github.com/migae/boot-gae/issues/11" TITLE : make filters optional BODY : the build task runs gae/filters, which will barf if filters.edn is not found. since filters are optional, this needs to be fixed.

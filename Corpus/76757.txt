@@ -1,0 +1,1 @@
+ URL : "https://github.com/stefuhnee/moments/issues/6" TITLE : maintain logged in state BODY : if user is logged into firebase auth, maintain that state within the app to show galleries on page load.

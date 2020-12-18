@@ -1,0 +1,1 @@
+ URL : "https://github.com/ibogicevic/timeslice-chronometer/issues/3" TITLE : pressing key stops timer BODY : expected behaviour: pressing key does not stop counter. can be reproduced by long pressing a key.

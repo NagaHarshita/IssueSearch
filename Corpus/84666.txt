@@ -1,0 +1,1 @@
+ URL : "https://github.com/openstenoproject/plover/issues/716" TITLE : dictionaries in the cloud BODY : classification: enhancement reproducibility: n/a summary we should have a built-in ability to read and write cloud dictionaries-- in particular, google drive, dropbox, and webdav. in this case, the present local dictionaries will effectively become cached copies.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/bme-db-lab/szglab5-backend/issues/75" TITLE : evaluator a laborhoz BODY : amikor lekerdezek a /deliverables vagy /events vegpontra, a deliverables-en nincs rajta a kapcsolat a corrector fele, igy nem tudom az include-old adatot megszerezni. kerlek rakd hozza a relationships-hez a corrector kapcsolatot is.

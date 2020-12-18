@@ -1,0 +1,1 @@
+ URL : "https://github.com/gijzelaerr/pymonetdb/issues/29" TITLE : don't use nose anymore BODY : seems to be unmaintained, switch to py.test

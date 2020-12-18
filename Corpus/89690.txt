@@ -1,0 +1,1 @@
+ URL : "https://github.com/ufal/neuralmonkey/issues/551" TITLE : reduce_sum za reduce_mean BODY : v rnn decoderu na radku 321 je reduce_mean, bavili jsme se o tom v dansku, ze by tam mohl byt reduce_sum a tak jsem to otestoval a chovalo se to temer stejne vysledny rozdil byl v setinach bleu . navrhoval bych tedy zamenit tuto funkci, co myslite?

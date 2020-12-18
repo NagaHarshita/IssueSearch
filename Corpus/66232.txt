@@ -1,0 +1,1 @@
+ URL : "https://github.com/escueladigital/EDgrid/issues/54" TITLE : menunav problema bottom BODY : buenas, al poner el: > .main-nav{ > @include ednav bottom,$size-menu ; en moviles de 5,5 se ve el primer item sin abrir el menu, esto es un bug?

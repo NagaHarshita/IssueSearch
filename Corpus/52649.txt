@@ -1,0 +1,1 @@
+ URL : "https://github.com/MetaCDN/videojs-vr/issues/26" TITLE : controls in controlbar BODY : if i see it right in this fork the controls are not inside of the controlbar like in upstream. why has this been changed?

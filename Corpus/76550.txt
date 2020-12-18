@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpenCraft/AnimatedExpandableEditText/issues/4" TITLE : library fails to resolve BODY : gradle cannot find com.github.opencraft:animatedexpandableedittext:-snapshot. problem occurs when trying to use in other apps and in the sample project as well.

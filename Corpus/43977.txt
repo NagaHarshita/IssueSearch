@@ -1,0 +1,1 @@
+ URL : "https://github.com/pavelkouril/unity-lowpoly-shader/issues/4" TITLE : doesn't work with fog BODY : ! capture https://cloud.githubusercontent.com/assets/12211502/24416675/9bc9eac8-13b3-11e7-90ed-390ff69c8c45.png you can see the terrain and the tree on the left completely ignore unity fog.

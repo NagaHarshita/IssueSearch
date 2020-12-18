@@ -1,0 +1,1 @@
+ URL : "https://github.com/badges/shields/issues/988" TITLE : go report badge BODY : go report https://github.com/gojp/goreportcard only provides rounded corners badge and i want flat-square :grinning: but go report does not expose any api. can you confirm @hermanschaaf ?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Foxhound31/RogaineHelper/issues/8" TITLE : screen - main screen BODY : create application main screen to show/edit routes. possible actions: - hide/show several checkpoints - set/remove obstacles - set/remove preferable ways - rebuild route button - show info: distance length, score, approximate time

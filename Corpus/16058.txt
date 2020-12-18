@@ -1,0 +1,1 @@
+ URL : "https://github.com/courajs/mkchoice/issues/3" TITLE : handle no options BODY : right now it still renders prompt when no options are given, and when you select it send undefined to stdout

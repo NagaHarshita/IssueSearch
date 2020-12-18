@@ -1,0 +1,1 @@
+ URL : "https://github.com/stefan-niedermann/nextcloud-notes/issues/271" TITLE : unable to delete notes BODY : hi, using nextcloud 12.0.2 with notes 2.3.1 i have 17 new notes that i can not delete. tried to delete from app, from browser, from fileserver, from database mariadb but thea are still reappearing. any idea where can be tge problem? thx.

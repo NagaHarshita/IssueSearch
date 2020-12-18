@@ -1,0 +1,1 @@
+ URL : "https://github.com/horba/IntelliGram-D/issues/7" TITLE : backend - authcontroller BODY : разработать authcontroller с методами login и register которые пока отвечают пустым ответом и могут вызываться из фронтенда

@@ -1,0 +1,1 @@
+ URL : "https://github.com/tmatilai/vagrant-proxyconf/issues/165" TITLE : enable proxy for yarn BODY : it would be nice if the plugin also set the necessary proxy configuration for yarn , just like npm . yarn config set http-proxy $http_proxy yarn config set https-proxy $https_proxy

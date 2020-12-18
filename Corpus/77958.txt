@@ -1,0 +1,1 @@
+ URL : "https://github.com/luckyframework/web/issues/216" TITLE : outputting html in specs BODY : outputting html in specs could be really helpful to see why the assertion is failed and what's the difference at a glance. so there questions to answer. - where should we put the hook? - what output should look like?

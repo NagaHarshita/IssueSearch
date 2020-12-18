@@ -1,0 +1,1 @@
+ URL : "https://github.com/PureDarwin/xnubuild/issues/1" TITLE : pd-devs.org ssl issue BODY : it looks like pd-devs.org's certificate cn only include ww.pd-devs.org. if curl attempt to fetch https://pd-devs.org , it will raise a ssl error. curl: 51 ssl: no alternative certificate subject name matches target host name 'pd-devs.org'

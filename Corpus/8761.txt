@@ -1,0 +1,1 @@
+ URL : "https://github.com/exaexa/codecrypt/issues/28" TITLE : rewrite in rust BODY : it's hard to write safe c/c++. for a cryptography library, safety is paramount; using a language that will happily leak memory without as much as blinking an eye in protest isn't a very good way to ensure safety. https://alexgaynor.net/2017/nov/20/a-vulnerability-by-any-other-name/

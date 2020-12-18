@@ -1,0 +1,1 @@
+ URL : "https://github.com/twoscoops/two-scoops-of-django-1.11/issues/33" TITLE : wrong filename reference BODY : location: section 30.2.4 multiple requirements files in multiple environments, 2nd paragraph it says: described in staging.txt instead of staging.txt , but it should be: described in staging.txt instead of requirements.txt

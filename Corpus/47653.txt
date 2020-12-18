@@ -1,0 +1,1 @@
+ URL : "https://github.com/spacebro/spacebro/issues/21" TITLE : prevent colision name BODY : find a solution to inform the client that the name has been taken and the new name is something like myname-${number}

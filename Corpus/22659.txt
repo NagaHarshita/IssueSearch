@@ -1,0 +1,1 @@
+ URL : "https://github.com/dmerejkowsky/pycp/issues/21" TITLE : man pages are gone BODY : installed binaries crash with pkg_resources.distributionnotfound when called during packaging. probably best to write a real doc in sphinx and let sphinx generate the man pages instead.

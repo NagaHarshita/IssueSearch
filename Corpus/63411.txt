@@ -1,0 +1,1 @@
+ URL : "https://github.com/aria2/aria2/issues/1019" TITLE : download files in a row BODY : hi all, is it possible to configure area2 in a way that it downloads all files from the same server in a row? this means it downloads one file until it is finished and then starts the next one. thanks guys.

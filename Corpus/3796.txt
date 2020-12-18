@@ -1,0 +1,1 @@
+ URL : "https://github.com/Storyyeller/Krakatau/issues/121" TITLE : use of import BODY : instead of using fully qualified names, you should use imports to make the code more readable. only use full names if an import with the same short! name already exists.

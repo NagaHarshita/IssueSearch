@@ -1,0 +1,1 @@
+ URL : "https://github.com/appium/appium/issues/8712" TITLE : receiving error code 65 BODY : the problem tried installing most of the required dependencies however i am still receiving an error 65. environment appium version 1.0.2-beta.2 mac 10.12.5 iphone 5s | 10.3 real device appium cli link to appium logs https://gist.github.com/karbon62/f5e156b1d142c8a4d01e2a4edb0b5edf

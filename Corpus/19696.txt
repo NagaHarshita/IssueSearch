@@ -1,0 +1,1 @@
+ URL : "https://github.com/move4mobile/move4mobile.github.io/issues/10" TITLE : add service worker BODY : after 8 has been done, we should be able to add a service worker to this blog, so people can read it in places with a spotty internet connection. we might also be able to send notifications for new posts.

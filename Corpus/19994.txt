@@ -1,0 +1,1 @@
+ URL : "https://github.com/boratuncer/vobalgo/issues/178" TITLE : avihl toplu test 2 BODY : öncelikle avihl algoritmamızdaki standart sapmayı 2 ile çarpıp tekrar bir toplu test yapabilir miyiz? maxstddev x + 2 minstddev x - 2 şeklinde.

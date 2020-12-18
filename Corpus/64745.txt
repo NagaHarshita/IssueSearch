@@ -1,0 +1,1 @@
+ URL : "https://github.com/AzureCAT-GSI/DevCamp/issues/158" TITLE : hol 6, ex 2, step 16-20 BODY : just a little report about a change in a lab step. lab: https://github.com/azurecat-gsi/devcamp/tree/master/hol/dotnet/06-appinsights exercise 2: add server and client side sdk's steps 16-20 are no longer necessary as the azure portal already collects browser page load data.

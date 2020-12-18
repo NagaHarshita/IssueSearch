@@ -1,0 +1,1 @@
+ URL : "https://github.com/Dateranoth/ConanExilesServerUtility/issues/21" TITLE : server update not working BODY : rss title changed again. i'm going to have to change the way i parse the header or just switch to using steam. would be ultimately more accurate, instead of relying on an rss feed title to be correct.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/dfm/george/issues/53" TITLE : stable version install BODY : i have tried downloading the stable version using pip install george and it completes the install and says successfully installed george-0.2.1 but i cannot find where the package was downloaded to. i am on a mac and was in my home directory when i ran the install line.

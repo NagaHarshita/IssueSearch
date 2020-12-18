@@ -1,0 +1,1 @@
+ URL : "https://github.com/Khan/KaTeX/issues/613" TITLE : 0.7.0 no dist folder BODY : when pulling in katex 0.7.0 via bower, i don't get a dist-folder but only a bower.json file in the bower_components/katex/ folder. even when i remove it and pull it in as a sub dependency of angular-katex it is the same result. why could that be?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mistic100/Photo-Sphere-Viewer/issues/141" TITLE : max zoom error BODY : 1 open example http://photo-sphere-viewer.js.org/ 2 set max zoom 3 click zoom in many times in result - i can not zoom out.

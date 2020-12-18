@@ -1,0 +1,1 @@
+ URL : "https://github.com/ChaiScript/ChaiScript/issues/342" TITLE : no bitwise operator BODY : compiler used: gcc operating system: fedora 25 architecture arm/x86/32bit/64bit/etc : all expected behavior there to be one actual behavior there was none minimal example to reproduce behavior try to use the bitwise operator, it is not there

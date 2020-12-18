@@ -1,0 +1,1 @@
+ URL : "https://github.com/rogerclarkmelbourne/Arduino_STM32/issues/343" TITLE : delete tools/win/cyg .dll BODY : i think none of the executables in tools/win actually depend on the cygwin dlls, and if they are deleted then there is no need to include a license for them, which is nice.

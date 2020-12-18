@@ -1,0 +1,1 @@
+ URL : "https://github.com/kroitor/ccxt/issues/203" TITLE : nonce on poloniex BODY : i testing follow line: print poloniex.fetch_order 'btc/usd' and poloniex always return me: { error : nonce must be greater than 1505453523869. you provided 1505455845. }

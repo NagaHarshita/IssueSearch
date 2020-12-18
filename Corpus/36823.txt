@@ -1,0 +1,1 @@
+ URL : "https://github.com/louis-ev/kirby-tracking/issues/6" TITLE : improve time logging BODY : - log server's date and time for pagenames - log client's time on the page - log time this first event in event_time

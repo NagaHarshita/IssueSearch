@@ -1,0 +1,1 @@
+ URL : "https://github.com/kubernetes-incubator/cri-containerd/issues/288" TITLE : integrate with kops BODY : kops https://github.com/kubernetes/kops is potentially going to replace kube-up.sh in the long run. we should follow their progress, and investigate how to integrate with it.

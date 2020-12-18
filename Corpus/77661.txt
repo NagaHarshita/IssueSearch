@@ -1,0 +1,1 @@
+ URL : "https://github.com/jamescummings/SRO-ODD/issues/9" TITLE : normalize register notes BODY : we have some register notes marked up as <note resp=‘register’> and some as <note type=editorial resp= ’register’> or thereabouts . it might make sense to convert all of these to <note resp=‘register’> i will normalize all to <note resp= register > .

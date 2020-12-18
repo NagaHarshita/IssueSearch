@@ -1,0 +1,1 @@
+ URL : "https://github.com/lookitsatravis/listify/issues/24" TITLE : broken in laravel 5.4.36 ? BODY : this package seems to be broken in laravel 5.4.36. it worked fine with 5.4 from this spring . instead of updating the position column it creates a new item row altogether.

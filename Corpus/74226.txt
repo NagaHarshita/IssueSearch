@@ -1,0 +1,1 @@
+ URL : "https://github.com/vbence86/fivenations/issues/282" TITLE : effect_range not working BODY : steps set effect range for 130 mm gun to 1000 expected all enemy ships suffer damage actual not working, only one unit suffers damage

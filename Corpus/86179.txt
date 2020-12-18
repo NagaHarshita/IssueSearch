@@ -1,0 +1,1 @@
+ URL : "https://github.com/cyclone-project/xpra-electron-client/issues/1" TITLE : handle broken connections BODY : if a connection to xpra or ssh setup cannot be done, an error should be shown. at the moment, nothing is told to the user and keeps on running in the background.

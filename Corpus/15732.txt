@@ -1,0 +1,1 @@
+ URL : "https://github.com/fathomlondon/fathomlondon.github.io/issues/88" TITLE : fix carousel jump BODY : at the bottom of the about page there is a testimonials carousel. currently when you change items it jumps because the testimonials have different length text. could you look into finding a decent solution for this?

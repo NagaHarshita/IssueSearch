@@ -1,0 +1,1 @@
+ URL : "https://github.com/Azuritul/AZDropdownMenu/issues/34" TITLE : menuview not scrollable BODY : i cant make the menuview scrollable even after modifying the azdropdownmenu config file. menuview.isscrollenabled = true

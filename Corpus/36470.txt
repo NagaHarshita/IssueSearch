@@ -1,0 +1,1 @@
+ URL : "https://github.com/guerrerocarlos/CacheP2P/issues/24" TITLE : homepage of cachep2p BODY : hi, i am a member of cdnjs, to add the library correctly, i want to confirm that whether the url https://cachep2p.com presented in homepage and author/url in package.json is not working anymore? should it just be http://cachep2p.com which is not https ? thank you!

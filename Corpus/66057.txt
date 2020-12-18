@@ -1,0 +1,1 @@
+ URL : "https://github.com/yebai/Turing.jl/issues/288" TITLE : make better use of view BODY : arr 2:3 actually makes a copy of subset of array but view arr, 2:3 refer to the same memory. this is clear in the current varinfo - should make sure it is leveraged.

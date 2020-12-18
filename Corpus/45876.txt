@@ -1,0 +1,1 @@
+ URL : "https://github.com/vp/php-plantuml-di/issues/1" TITLE : is this project dead? BODY : composer require vp/php-plantuml-di invalidargumentexception could not find package vp/php-plantuml-di at any version for your minimum-stability stable . check the package spelling or your minimum-stability is there alternatives?

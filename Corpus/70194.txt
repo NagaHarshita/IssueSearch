@@ -1,0 +1,1 @@
+ URL : "https://github.com/AdamZink/color-conquest/issues/4" TITLE : use color in grid cells BODY : derive the color using the grid cell's number of units, hue, and experience

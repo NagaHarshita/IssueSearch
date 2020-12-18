@@ -1,0 +1,1 @@
+ URL : "https://github.com/Suprnovae/cockpit-app-abctotaal/issues/11" TITLE : fix static typing issues BODY : upon running flow --show-all-errors a list of typing failures are presented that need to be fixed. many of the errors stem from dependencies which are probably to be updated in order to eliminate said typing errors.

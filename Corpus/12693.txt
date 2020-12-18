@@ -1,0 +1,1 @@
+ URL : "https://github.com/nodes-vapor/jwt-keychain/issues/8" TITLE : regenerate vs me BODY : what is the big different right now? consider not having generate if me is doing the same

@@ -1,0 +1,1 @@
+ URL : "https://github.com/gitbucket-plugins/gitbucket-announce-plugin/issues/15" TITLE : update to gitbucket 4.17 BODY : - use new mailer api which is introduced in gitbucket 4.17.0 - separate database access as a service

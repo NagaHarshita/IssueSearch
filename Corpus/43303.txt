@@ -1,0 +1,1 @@
+ URL : "https://github.com/erosson/swarm-numberformat/issues/3" TITLE : control over rounding BODY : a rounding: ceil|floor|round option. i want to ceil prices, but floor the user's bank, so it never looks like they have enough money when they actually don't. this came up a few times in swarmsim.

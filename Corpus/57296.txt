@@ -1,0 +1,1 @@
+ URL : "https://github.com/google/lovefield/issues/228" TITLE : problem inserting data BODY : i got a problem while inserting data to indexeddb using lovefield. sometimes, the data was not inserted, but after i delete the database and recreate, it was inserted successfully. has anyone experience the same problem? thanks

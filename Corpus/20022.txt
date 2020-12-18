@@ -1,0 +1,1 @@
+ URL : "https://github.com/wazuh/docker-ossec-elk/issues/9" TITLE : bad dockerhub link BODY : in the readme, you give the location of the image on docker hub as: https://hub.docker.com/r/wazuh/docker-ossec-elk/ but it's really: https://hub.docker.com/r/wazuh/ossec-elk/

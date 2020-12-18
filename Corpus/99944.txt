@@ -1,0 +1,1 @@
+ URL : "https://github.com/BLavery/LIBtft144/issues/6" TITLE : not fast enough for video. BODY : the drawbmp isnt fast enough to play back video. is there any other way to play a video through the display? i'm trying to use the screen as a viewfinder for the rpi camera, and the bmpdraw just isnt fast enough for that.

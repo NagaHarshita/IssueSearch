@@ -1,0 +1,1 @@
+ URL : "https://github.com/mrako/wait-for/issues/6" TITLE : no output on success case BODY : the -quiet option suppresses some errors. i suggest adding this about line 30: if $quiet -ne 1 ; then echo operation succeeded on try $i ; fi thanks for the script.

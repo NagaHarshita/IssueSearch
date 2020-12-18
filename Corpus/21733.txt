@@ -1,0 +1,1 @@
+ URL : "https://github.com/grails-plugins/grails-angular2-scaffolding/issues/2" TITLE : geturi always null BODY : string uri = geturi module is getting always null.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/spring-projects/spring-social/issues/223" TITLE : need connect filter BODY : connect/{providerid} doesn't work by default in spring + jsf application, where as auth/{providerid} does. so a filter is needed to mimic the same functionality for connect scenarios.

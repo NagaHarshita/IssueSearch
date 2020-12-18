@@ -1,0 +1,2 @@
+ URL : "https://github.com/braidchat/meta/issues/636" TITLE : add keyboard shortcuts BODY : tab move to next conversation reply shift tab move to previous conversation reply tab + number jump to the reply of the nth conversation tab + n jump to compose new tab + backspace close current conversation tab + left arrow jump to previous convo reply tab + right arrow jump to next convo reply + show hints at bottom somewhere + tab onkeydown, show hints, like in dropbox mail thing
+http://i.stack.imgur.com/j6bih.png only trigger actual event onkeyup

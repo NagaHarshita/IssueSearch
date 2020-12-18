@@ -1,0 +1,1 @@
+ URL : "https://github.com/PixelVision8/GameCreator/issues/506" TITLE : mouse cursor offset BODY : not sure what to name the title, but the idea is: i can't reach the 0,0 pixel of the screen, but i can reach the screenwidth+1,screenheight+1 pixel :stuck_out_tongue:

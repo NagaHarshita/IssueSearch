@@ -1,0 +1,1 @@
+ URL : "https://github.com/vapor/vapor/issues/1070" TITLE : debug client requests BODY : add a way to enable debug logging similar to fluent's query logging for debugging http client requests.

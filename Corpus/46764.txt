@@ -1,0 +1,1 @@
+ URL : "https://github.com/supertuxkart/stk-code/issues/3074" TITLE : mouse as a gamemaster BODY : if you select 'multiplayer' using a mouse, after selecting the karts none of the players can actually select difficulty, map and the game mode because it says that only the game master may act at this point.

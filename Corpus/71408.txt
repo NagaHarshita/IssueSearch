@@ -1,0 +1,1 @@
+ URL : "https://github.com/clj-time/clj-time/issues/230" TITLE : add from-epoch to coerce BODY : defn from-epoch e -> e 1000 from-long

@@ -1,0 +1,1 @@
+ URL : "https://github.com/vuejs-templates/webpack/issues/536" TITLE : webpack alias 'vue' BODY : 'vue': 'vue/dist/vue.js' or 'vue$': 'vue/dist/vue.common.js' which one is right？

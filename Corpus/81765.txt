@@ -1,0 +1,4 @@
+ URL : "https://github.com/hihi-2017/hihi-2017/issues/2740" TITLE : 6.5 technical blog ~ 1 hr BODY : 6.5 technical blog ~ 1 hr - start your toggl timer. write blog post - create a username.github.io/blogs/t6-js-language.html file. explain to a non-tech friend - in the javascript language, describe all the use cases for each of: - parentheses - e.g. '1. execute a function var result = dosomething ' - brackets - braces {} - single quotes '' - double quotes link your blog to the main page - on your index home page, create a link to your technical blog post.
+- stage and commit with meaningful commit message.
+- push to github to make it live!
+- paste a link to your live blog in the waffle ticket comments below. share it! - on your cohort-specifc slack channel, share the link to your home page using the hashtag techblog sprintnum , for example techblog5.

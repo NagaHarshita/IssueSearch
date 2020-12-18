@@ -1,0 +1,1 @@
+ URL : "https://github.com/Parabot/Parabot/issues/227" TITLE : custom server provider BODY : the current idea is to first load the server provider for the specific server and then load the default server provider. then the specific server provider only has the adjusted classes, so we won't need to update each provider everytime we update the default provider.

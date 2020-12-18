@@ -1,0 +1,1 @@
+ URL : "https://github.com/aziobrow/little_shop_of_tiny_animals/issues/21" TITLE : admin user dashboard BODY : as a logged in admin when i visit “/admin/dashboard” i will see a heading on the page that says “admin dashboard” as a registered user when i visit “/admin/dashboard” i get a 404 as an unregistered user when i visit “/admin/dashboard” i get a 404

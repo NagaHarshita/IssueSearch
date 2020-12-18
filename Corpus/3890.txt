@@ -1,0 +1,1 @@
+ URL : "https://github.com/3drepo/3drepo.io/issues/326" TITLE : 1.10 bug fixes BODY : - revision tag and desc are not passed to api when trying to create and upload project at once - mongoimport use replicset style connection string

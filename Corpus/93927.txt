@@ -1,0 +1,1 @@
+ URL : "https://github.com/shortbloke/home_assistant_config/issues/11" TITLE : automated loft fan control BODY : install new sonoff switch for fan that draws air from outside and blows it on to the front of the microserver. add automation scripts to trigger based on ambient loft temp and/or hpilo measurements.

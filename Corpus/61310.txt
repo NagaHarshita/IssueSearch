@@ -1,0 +1,1 @@
+ URL : "https://github.com/mtanda/grafana-google-calendar-datasource/issues/7" TITLE : annotation query failed BODY : i followed the steps and added an annotation to the calendar faforever.com_cpellm2p2sdfr8dfmnmgs1davk@group.calendar.google.com . upon clicking save , i get cannot read property 'length' of undefined . grafana v4.5.1 plugin v1.0.2

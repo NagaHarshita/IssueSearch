@@ -1,0 +1,1 @@
+ URL : "https://github.com/vector-im/riot-android/issues/1182" TITLE : invalid call status BODY : reported by @lime_:matrix.org during a call, it never goes from connecting to connected even though the audio call completes without issue https://riot.im/bugreports/listing/2017-04-22/020639/details.log.gz

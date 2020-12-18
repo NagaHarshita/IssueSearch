@@ -1,0 +1,1 @@
+ URL : "https://github.com/YitengD/Multicellularity/issues/1" TITLE : resizing gui window BODY : resizing the gui window does not appropriately resize the lattice. the cells can become distorted and ugly. fix graph proportions. ! screenshot https://github.com/yitengd/multicellularity/blob/master/issue%20screenshots/gui_resize.png

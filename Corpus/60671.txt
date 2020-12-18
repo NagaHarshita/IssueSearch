@@ -1,0 +1,1 @@
+ URL : "https://github.com/azjkjensen/My-Library/issues/2" TITLE : add authorization check BODY : when the app first loads, we need to check if the user already has a token, verify that token, and then redirect as necessary. see the onenter function of https://medium.com/the-many/adding-login-and-authentication-sections-to-your-react-or-react-native-app-7767fd251bd1

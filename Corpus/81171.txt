@@ -1,0 +1,1 @@
+ URL : "https://github.com/onnx/onnx/issues/344" TITLE : warnings in the checker? BODY : do we have a mechanism for emitting warnings in the checker? places where you don't want to fail hard, but something might be fishy so you want to let the user know.

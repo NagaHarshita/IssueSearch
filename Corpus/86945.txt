@@ -1,0 +1,1 @@
+ URL : "https://github.com/RocketChat/Rocket.Chat/issues/6847" TITLE : info menu doesn't show up BODY : when you click on the name of a user in a channel, the info menu on the right doesn't show up. rocket.chat version: 0.55.1 running instances: 1 node version: v4.8.1

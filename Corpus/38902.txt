@@ -1,0 +1,1 @@
+ URL : "https://github.com/Aigachu/discord-maidens/issues/26" TITLE : refactor paintjob.js BODY : some major refactoring can be done in this command to make it a little easier to understand. setcolor can be refactored. data is used too often in functions where you should be using guild , member , etc.

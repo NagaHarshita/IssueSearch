@@ -1,0 +1,1 @@
+ URL : "https://github.com/ThemeFuse/Unyson/issues/2469" TITLE : cannot create backup BODY : hi guys, in one of my client sites i just cannot create a backup to export, it just fails constantly. is there another way i can copy the database? i've pulled a copy of the database and imported it locally but it just breaks the pagebuilder. https://ibb.co/djrxfa thank you

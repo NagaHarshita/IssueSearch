@@ -1,0 +1,1 @@
+ URL : "https://github.com/Y-Lab/Y-System/issues/116" TITLE : add async support BODY : first steps with celery http://docs.celeryproject.org/en/latest/getting-started/first-steps-with-celery.html celery based background tasks http://flask.pocoo.org/docs/0.12/patterns/celery/

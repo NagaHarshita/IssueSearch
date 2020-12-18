@@ -1,0 +1,1 @@
+ URL : "https://github.com/adventurerscodex/adventurerscodex/issues/1541" TITLE : import only min.css BODY : module s effected none expected proposed behavior we could save some space by including min.css instead of the dev files. from digging in the build here's the files that could be easily changed. - bootstrap.css - jquery-ui.css - select2.css

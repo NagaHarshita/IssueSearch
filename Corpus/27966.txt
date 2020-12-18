@@ -1,0 +1,1 @@
+ URL : "https://github.com/PredictiveEcology/SpaDES.tools/issues/3" TITLE : errors in 'spread2' BODY : @eliotmcintire, recent r cmd check failures on all platforms: r 1. error: spread2 tests @test-spread2.r 24 2. error: spread2 tests -- asymmetry @test-spread2.r 629 3. error: spread2 returnfrom @test-spread2.r 845 4. error: spread2 tests @test-spread2.r 875

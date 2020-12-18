@@ -1,0 +1,1 @@
+ URL : "https://github.com/alchemyst/Skogestad-Python/issues/285" TITLE : add a tf.lsim method BODY : we currently have a tf.step method to handle step responses, but we should probably also add tf.lsim which would work similarly to scipy.signal.lsim .

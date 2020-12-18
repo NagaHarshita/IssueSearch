@@ -1,0 +1,1 @@
+ URL : "https://github.com/enorno18/f1-3-c2p1-colmar-academy/issues/2" TITLE : side scroll issue BODY : this padding is causing that side scroll issue on desktop. you have to be careful with padding, margin, and even border when using width: 100%; https://github.com/enorno18/f1-3-c2p1-colmar-academy/blob/master/capstone/css/style.css l389

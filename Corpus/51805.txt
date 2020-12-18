@@ -1,0 +1,1 @@
+ URL : "https://github.com/kholonet/phpfw/issues/2" TITLE : blog engine: installer BODY : an installer is required to easy the setup of the blog engine. - creates required directories if not yet present - creates all database tables, and fills provided user information - write down the configuration in a config file.

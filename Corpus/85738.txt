@@ -1,0 +1,1 @@
+ URL : "https://github.com/Legosteen11/FeedForReddit/issues/1" TITLE : fix running out of memory BODY : the application is constantly using more memory, which will eventually make it crash because of java.lang.outofmemoryerror: java heap space full exception: https://gist.github.com/legosteen11/422f90a10e711f8fc4df721927b77078

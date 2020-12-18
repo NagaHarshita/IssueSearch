@@ -1,0 +1,1 @@
+ URL : "https://github.com/Hilscher/node-red-contrib-s7comm/issues/2" TITLE : error status incorrect BODY : i got it working easily so kudos to you but the payload.error is 0 even though i disconnected the plc. it becomes -1 only if i put non-existent address.

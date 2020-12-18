@@ -1,0 +1,1 @@
+ URL : "https://github.com/googleapis/gax-python/issues/208" TITLE : archive this repository BODY : @jonparrott since we have done a release-the-world, i _think_ no current versions should depend on gax anymore. github now has an archive feature that will mark this repo read-only. should i update the readme to point to api_core and then do that?

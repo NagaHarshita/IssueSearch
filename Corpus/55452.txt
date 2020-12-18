@@ -1,0 +1,1 @@
+ URL : "https://github.com/cpw/ironchest/issues/88" TITLE : iron chests protection BODY : not sure if this is an issue with iron chests or sponge. if block instanceof blockcontainer { cancelevent event, event.getentityplayer ; return; } i use this to cancel the event of opening chests to protect them in our mod. doesn't seem to work with ironchests though.

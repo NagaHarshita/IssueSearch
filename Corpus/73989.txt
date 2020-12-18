@@ -1,0 +1,1 @@
+ URL : "https://github.com/fish-shell/fish-shell/issues/4225" TITLE : doc misspelling: a -> an BODY : https://github.com/fish-shell/fish-shell/blob/master/doc_src/design.hdr l71 >how to make a intuitive and powerful program change a to an .

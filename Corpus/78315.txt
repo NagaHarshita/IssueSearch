@@ -1,0 +1,1 @@
+ URL : "https://github.com/edobb/quote-book/issues/4" TITLE : prevent duplicate quotes BODY : duplicate quotes should not be allowed in the database. this function should work by searching for matches to the quote and not the author. duplicate quotes with different authors should not be allowed.

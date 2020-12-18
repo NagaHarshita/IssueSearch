@@ -1,0 +1,5 @@
+ URL : "https://github.com/spences10/archer-twitter-bot/issues/4" TITLE : extra semicolon. semi BODY : codacy https://www.codacy.com/app/spences10/archer-twitter-bot/commit?cid=92844788 detected an issue: message: extra semicolon. semi occurred on:
++ commit : 17a6f8a0ed7416adf249527916b6b67ed3ea6806
++ file : src/test.js https://github.com/spences10/archer-twitter-bot/blob/17a6f8a0ed7416adf249527916b6b67ed3ea6806/src/test.js + linenum : 8 https://github.com/spences10/archer-twitter-bot/blob/17a6f8a0ed7416adf249527916b6b67ed3ea6806/src/test.js l8 + code : phrasing = require './helpers/phrasing' ; currently on:
++ commit : 96cae3fe200e6e4a4bc202fbe2f35977fcd3e75a
++ file : src/test.js https://github.com/spences10/archer-twitter-bot/blob/96cae3fe200e6e4a4bc202fbe2f35977fcd3e75a/src/test.js + linenum : 8 https://github.com/spences10/archer-twitter-bot/blob/96cae3fe200e6e4a4bc202fbe2f35977fcd3e75a/src/test.js l8

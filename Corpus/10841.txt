@@ -1,0 +1,1 @@
+ URL : "https://github.com/nerves-project/nerves_system_qemu_arm/issues/17" TITLE : document is old? BODY : hello. i try readmy.md. but not working some mix tasks. 1 mix firmware.image task need additional arguments. ex mix firmware.image my_image.img 2 mix nerves.gen.qemu_script task i couldn't run this task. are there new documents?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/QingdaoU/OnlineJudge/issues/115" TITLE : a bug about editor BODY : 编辑器会自动屏蔽 ”\\“ 比如这是一个矩阵的公式 $$ \begin{bmatrix}1 & 2 & 3\\ 4 & 5 & 6\\ 7 & 8 & 9\end{bmatrix} $$ 发表之后就变成了 $$ \begin{bmatrix}1 & 2 & 3\ 4 & 5 & 6\ 7 & 8 & 9\end{bmatrix} $$ 里面的双斜杠都变成了单斜杠，导致无法正常显示矩阵

@@ -1,0 +1,1 @@
+ URL : "https://github.com/StarcounterPrefabs/Images/issues/69" TITLE : remove unused files BODY : some files are not included into project but still exists in the repo. i think that we don't need them anymore. some examples: - conceptillustrationpage.json.cs - previewpage.json etc. easy to discover using visual studio cc @aloscha

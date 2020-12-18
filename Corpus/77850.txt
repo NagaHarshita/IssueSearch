@@ -1,0 +1,1 @@
+ URL : "https://github.com/voxbone-workshop/webrtc-js/issues/62" TITLE : one-way media on firefox BODY : user media is not available to the called end on firefox, only incoming. i tested on firefox 51.0.1 64-bit on mac sierra, a customer also reported this issue.

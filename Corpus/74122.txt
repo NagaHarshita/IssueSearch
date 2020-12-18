@@ -1,0 +1,1 @@
+ URL : "https://github.com/ColCarroll/skample/issues/2" TITLE : download link is broken? BODY : on chrome 61.0.3163.100, clicking the download link doesn't work. it looks like it tries to link to blob:https://colcarroll.github.io/d9488d75-76ff-4955-beea-062e3984c10e or something similar , which works if the word blob is removed from the start!

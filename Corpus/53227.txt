@@ -1,0 +1,1 @@
+ URL : "https://github.com/ppenna/nanvix/issues/129" TITLE : detection of deadlocks BODY : detection of deadlock is needed for semaphores. note : i can do this when i'm done with what i'm working on now.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/GluuFederation/uma-rs/issues/2" TITLE : and support of scopes BODY : conditions : { httpmethods : get , operator : or , scopes : http://photoz.example.com/dev/actions/view }

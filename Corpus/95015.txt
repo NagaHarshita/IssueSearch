@@ -1,0 +1,1 @@
+ URL : "https://github.com/sneas/ionic-native-http-connection-backend/issues/17" TITLE : consider using native/http BODY : since ionic's native/http has switched to https://github.com/silkimen/cordova-plugin-advanced-http there is no need in usage of less advanced sneas/cordova-http2 . issues to be solved: 9, 15, 16

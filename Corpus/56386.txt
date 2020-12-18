@@ -1,0 +1,1 @@
+ URL : "https://github.com/naptha/tesseract.js/issues/172" TITLE : multiple training data BODY : not able to add multiple language .trainingdata in tesseract.recognize function? any solution?

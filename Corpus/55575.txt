@@ -1,0 +1,1 @@
+ URL : "https://github.com/smueller18/avro-builder/issues/3" TITLE : jit package versioning BODY : could you update the minor versions in jit pack to keep them in sync with the latest builds? e.g. current 0.4 is from june 1, but the latest build master-0.4-g014927c-8 from june 19.

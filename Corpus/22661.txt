@@ -1,0 +1,1 @@
+ URL : "https://github.com/SFTtech/kevin/issues/15" TITLE : mandy web frontend BODY : kevin needs an interactive web frontent. ideally, it would be served statically as a single-page-thingy, and communicates with the kevin service via websockets.

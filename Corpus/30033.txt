@@ -1,0 +1,1 @@
+ URL : "https://github.com/funilrys/funceble/issues/34" TITLE : no date .ie domains BODY : problem there's a whois server registered to the iana route database zone https://www.iana.org/domains/root/db for all .ie domains. but the script can't get the date of expiration. conclusion that make all .ie domains fails with whois.

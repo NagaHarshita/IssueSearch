@@ -1,0 +1,1 @@
+ URL : "https://github.com/pynamodb/PynamoDB/issues/259" TITLE : time to live ttl support? BODY : would be cool if we could set time to live ttl in the meta options: https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/ttl.html

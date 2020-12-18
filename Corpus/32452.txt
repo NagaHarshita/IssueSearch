@@ -1,0 +1,1 @@
+ URL : "https://github.com/pirumpi/sftp-upload/issues/10" TITLE : use in react native BODY : hi how can i use thi in react native?? i get this error bundling failed: unable to resolve module fs from d:\\react-native\\taav\ ode_modules\\sftp-upload\\lib\\sftp-upload.js :

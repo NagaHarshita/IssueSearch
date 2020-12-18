@@ -1,0 +1,1 @@
+ URL : "https://github.com/notnoop/java-apns/issues/338" TITLE : java-apns with thread BODY : i need to send push notification to ios devices, my target is to send a notification to 1 million subscribers during 3 minutes. what is the best solution to achieve my goal, if can anyone give me a sample of how this can be done. thanks

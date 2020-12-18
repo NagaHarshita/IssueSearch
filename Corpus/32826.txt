@@ -1,0 +1,1 @@
+ URL : "https://github.com/tspivey/yugioh-game/issues/96" TITLE : wrong goto grouping BODY : since deck sorting is in, the goto command seems to use the old card grouping and therefore addresses the wrong cards by index. when typing g26 for example, it won't go to the card addressed by 26 list , but to some other card instead.

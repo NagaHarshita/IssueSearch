@@ -1,0 +1,1 @@
+ URL : "https://github.com/JayDDee/cpuminer-opt/issues/28" TITLE : windows: ten threads max BODY : try as i might, i've not been able to get cpuminer-opt to compile successfully in either msys or msys2. i was hoping that i could recompile and get past the ten thread limit that is part of the windows binary linux has no limitation .

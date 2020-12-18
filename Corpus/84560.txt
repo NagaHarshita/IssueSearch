@@ -1,0 +1,1 @@
+ URL : "https://github.com/augustoccesar/QueryBuilder/issues/10" TITLE : define limit to the query BODY : selectbuilder should contain a method to limit the result size java new selectbuilder .limit 10 // limit the query results to 10

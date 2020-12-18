@@ -1,0 +1,1 @@
+ URL : "https://github.com/ArchKudo/superlists/issues/1" TITLE : fixes to implement BODY : - use cdn for bootstrap / jquery - fix google login - add travis ci and codecov - improve ui

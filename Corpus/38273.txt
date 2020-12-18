@@ -1,0 +1,3 @@
+ URL : "https://github.com/QualiSystems/OpenStack-Shell/issues/134" TITLE : out of range vlan ip BODY : 1 set in rm range id of vlan auto to 100-101
+2 have an env with 3 un - deployed apps connected to auto vlan.
+3 setup. bir: app deploy shell be success and 2 of the vlan shell be connected successfully to the vm. an error shell be obtained from the third one. actually: all connections failed. status live is grey even the vm is up in openstack portal.

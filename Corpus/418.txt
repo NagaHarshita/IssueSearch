@@ -1,0 +1,1 @@
+ URL : "https://github.com/kawnayeen/AndroidUtil/issues/2" TITLE : issue 1 BODY : issue: error:module 'com.github.kawnayeen:androidutil:0.1.2' depends on one or more android libraries but is a jar issue generated when importing library

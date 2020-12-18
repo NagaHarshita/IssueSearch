@@ -1,0 +1,1 @@
+ URL : "https://github.com/finnhodgkin/phoenix-auth-github/issues/3" TITLE : spike on plugs/phoenix BODY : we need to spike on how plugs work in phoenix as we need to redirect to github as part of the oauth flow.

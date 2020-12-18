@@ -1,0 +1,1 @@
+ URL : "https://github.com/asciinema/asciinema-player/issues/63" TITLE : asciinema-player for react BODY : hi all, does anyone know how to embed asciinema-player into a react component? currently i cannot set src path correctly. thanks in advance.

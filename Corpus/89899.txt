@@ -1,0 +1,1 @@
+ URL : "https://github.com/lwm/tasty-discover/issues/75" TITLE : replace integration tests BODY : it's kinda a pain to make a seperate test suite just for every configuration option. along with https://github.com/lwm/tasty-discover/issues/70, it would be nice to get rid of the integration tests altogether and stuff everything into the regular unit tests.

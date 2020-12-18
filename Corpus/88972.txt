@@ -1,0 +1,1 @@
+ URL : "https://github.com/fancyapps/fancybox/issues/1542" TITLE : pdfs not scrolling on ios BODY : when attempting to iframe a website on ios, it works fine, but when attempting to open a pdf with multiple pages it doesn't seem to access the secondary pages.

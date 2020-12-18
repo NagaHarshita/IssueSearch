@@ -1,0 +1,1 @@
+ URL : "https://github.com/mixer/interactive-unity-plugin/issues/31" TITLE : allow channel scopes BODY : a few developer have asked to be able to use the sdk to make channel queries. in the interim, it would be useful to expose a way to get the channel scopes and token so they can make channel queries. this issue will track adding that to the sdk.

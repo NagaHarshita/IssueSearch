@@ -1,0 +1,1 @@
+ URL : "https://github.com/fastify/fastify-benchmarks/issues/16" TITLE : is node v6.11.3 supported? BODY : i tried to run benchmark on node-v6.11.3, and it seems that it needs async to work properly. $ node -v v6.11.3 $ npm -v 3.10.10 $ benchmark /usr/local/lib/node_modules/fastify-benchmarks/lib/bench.js:7 const dobench = async handler => { ^ syntaxerror: unexpected token

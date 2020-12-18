@@ -1,0 +1,1 @@
+ URL : "https://github.com/Kepplinger/fit-anmeldesystem-client/issues/15" TITLE : standwahl modal einfügen BODY : beim drücken des _ standwahl-buttons _ soll sich ein _ modal _ siehe bootstrap modals https://getbootstrap.com/docs/4.0/components/modal/ geöffnet werden. dieses modal soll in einem eigenen _ component _ ausgelagert werden. _ locationpickercomponent _

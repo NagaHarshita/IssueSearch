@@ -1,0 +1,1 @@
+ URL : "https://github.com/dikmanm/Doc/issues/1" TITLE : ssh key setup BODY : $ ssh-keygen -t rsa -b 2048

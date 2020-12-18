@@ -1,0 +1,1 @@
+ URL : "https://github.com/matryer/vice/issues/37" TITLE : some code deficiencies BODY : hi, i took the liberty of running staticcheck against your project, and it found some issues that are worth fixing, as they're impacting actual use of the project. you can find the report at https://staticcheck.io/reports/1ea3a018e05190d7fcfd03a9b08ae55feba0d024.html

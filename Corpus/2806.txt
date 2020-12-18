@@ -1,0 +1,1 @@
+ URL : "https://github.com/adafruit/Adafruit_CircuitPython_DotStar/issues/2" TITLE : error in show BODY : shouldn't line 207 be: buf = bytearray self.n bpp + 8 if i set brightness to <.99 then this fails because n is not defined.

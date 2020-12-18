@@ -1,0 +1,1 @@
+ URL : "https://github.com/Praqma/pretested-integration-plugin/issues/80" TITLE : test with core 2.73.1 BODY : i would like to validate our plugin with scripted pipeline works with lts jenkins core 2.73.1 - basically try our example on the version of a running jenkins instance.

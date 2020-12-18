@@ -1,0 +1,1 @@
+ URL : "https://github.com/blubin/JOpt/issues/5" TITLE : add gurobi support BODY : write a mip solver for the gurobi api

@@ -1,0 +1,1 @@
+ URL : "https://github.com/clay/amphora/issues/466" TITLE : component can 404 a page BODY : go here: http://nymag.com/daily/intelligencer/?start=90000 there aren't 90k di articles yet the page renders when it should 404. proposal: amphora hook passed in the locals object which allows a component to trigger the page to 404 or any error code....?

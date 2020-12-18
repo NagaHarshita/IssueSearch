@@ -1,0 +1,1 @@
+ URL : "https://github.com/mapbox/mapbox-navigation-android/issues/75" TITLE : move to circleci BODY : following in the footsteps of the map sdk, we should switch ci to use circleci instead of bitrise

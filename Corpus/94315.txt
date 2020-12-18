@@ -1,0 +1,1 @@
+ URL : "https://github.com/wa0x6e/Cake-Resque/issues/107" TITLE : cake rescue for cakephp 3? BODY : hi, i tried to install this awesome plugin in cakephp 3.3 with composer : composer require kamisama/cake-resque and manually none of them worked then i found on stack and on cakeresque issues that this is just for cakephp 2. do u intend to upgrade it to cake 3.+ ?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/bytedeco/javacpp/issues/163" TITLE : how to play this? BODY : my god...this is simply at mumbo-jumbo. examples are too few, too few documents. no jnilegacylibrary in java.library.path , and how to solve this?

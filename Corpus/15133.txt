@@ -1,0 +1,1 @@
+ URL : "https://github.com/johnhforrest/platform-tutorial/issues/68" TITLE : create debug mode BODY : - activate all player abilities - show player abilities unlocked in pause menu currently crashes - make this mode easily toggle-able before compilation time

@@ -1,0 +1,1 @@
+ URL : "https://github.com/matloff/partools/issues/11" TITLE : object oriented code? BODY : base r methods such as aggregate, split, mean, have corresponding functions distribagg, distribsplit, distribmeans, distribgetrows in partools. it might be nice to have a distributed object, like a distributed data frame, and write the partools versions as methods. thoughts?

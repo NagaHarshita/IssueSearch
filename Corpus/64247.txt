@@ -1,0 +1,1 @@
+ URL : "https://github.com/vivint-smarthome/ceph-on-mesos/issues/16" TITLE : forbidden when download BODY : my ceph on dc/os try to reach this : https://dl.bintray.com/vivint-smarthome/ceph-on-mesos/ceph-on-mesos-0.2.11.tgz but it returns 404 forbidden i try browse it manually via browser and still got same response. is it need some credentials ?

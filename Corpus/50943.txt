@@ -1,0 +1,1 @@
+ URL : "https://github.com/ninrod/logbook/issues/4" TITLE : add git describe trick BODY : git describe --abbrev=40 --all --dirty --long --always

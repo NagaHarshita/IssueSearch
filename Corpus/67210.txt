@@ -1,0 +1,1 @@
+ URL : "https://github.com/fastfedora/google-docs/issues/36" TITLE : parsedata_ function bug BODY : line 286 should be: if i >= 0 && data state.rowindex it drops the first entry when it puts the response to the spreadsheet.

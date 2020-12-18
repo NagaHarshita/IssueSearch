@@ -1,0 +1,1 @@
+ URL : "https://github.com/henrikdahl/hyper-statusline/issues/42" TITLE : update cwd on cd BODY : looks like it only updates on session based events. i'd expect the cwd to update on changing directories as well.

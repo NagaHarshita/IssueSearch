@@ -1,0 +1,1 @@
+ URL : "https://github.com/GraphiteSoft/NTOS/issues/9" TITLE : build a page allocator BODY : type - feature idea component memory manager configuration no special configuration needed summary build a virtual page frame allocator for both the kernel and eventual user-mode applications

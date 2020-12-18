@@ -1,0 +1,1 @@
+ URL : "https://github.com/liuderchi/atom-i18n/issues/30" TITLE : translate into french BODY : files require translation: - def/fr/context.cson - def/fr/menu_darwin.cson - def/fr/menu_linux.cson - def/fr/menu_win32.cson - def/fr/settings.cson for more info please checkout contributing.md https://github.com/liuderchi/atom-i18n/blob/master/contributing.md

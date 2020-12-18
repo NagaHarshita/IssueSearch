@@ -1,0 +1,1 @@
+ URL : "https://github.com/sendgrid/sendgrid-nodejs/issues/612" TITLE : how to enable sandbox BODY : issue summary how to enable sandbox mode, using only @sendgrid/mail technical details: @sendgrid/mail: 6.1.4 node.js version: 8.9.0

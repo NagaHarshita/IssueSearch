@@ -1,0 +1,1 @@
+ URL : "https://github.com/LightningAir/wacky-webapp/issues/19" TITLE : info service controller BODY : this is to be a restish service controller, returning our model data in json format, on demand. the fleet subcontroller, accessible as /info/fleet , shall return the data content of our fleet model. the flights subcontroller shall do the same for our flights model.

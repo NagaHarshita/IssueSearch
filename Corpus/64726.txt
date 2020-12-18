@@ -1,0 +1,1 @@
+ URL : "https://github.com/react-native-community/react-native-text-input-mask/issues/24" TITLE : higher order component? BODY : hi there, is it possible to use this as a higher order component? i am using this <textfield> component - https://github.com/n4kz/react-native-material-textfield and need to mask them. is it possible to field component, with your masker?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Udanite/FEND-Reviewer-Library-ZH_CN/issues/11" TITLE : p1 html time BODY : 我们在这里使用语义标签: <time> 如何? 示例: <p>the concert starts at <time>20:00</time>.</p> 引用: time https://developer.mozilla.org/en-us/docs/web/html/element/time

@@ -1,0 +1,1 @@
+ URL : "https://github.com/xonsh/xonsh/issues/2572" TITLE : source updates __name__ BODY : when source is used, the global context's __name__ is updated from __main__ to the filename that was sourced.

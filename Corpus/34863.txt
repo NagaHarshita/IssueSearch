@@ -1,0 +1,1 @@
+ URL : "https://github.com/ekalinak/redmine-home/issues/7" TITLE : create better loader BODY : when loader refreshing page appear on dashboard, whole page moves a little. implement new type of loader _ maybe absolute positioning, maybe different location of loader _ for better user experience.

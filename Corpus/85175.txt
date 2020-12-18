@@ -1,0 +1,1 @@
+ URL : "https://github.com/FrDH/jQuery.mmenu/issues/807" TITLE : error in example on site? BODY : http://mmenu.frebsite.nl/examples.html when i copy this example in a text editor, load the file in a browser, there is no menu button to click. what am i missing? i've changed the code to: <a href= menu >demo</a> so i can at least click on an element to trigger the menu to show.

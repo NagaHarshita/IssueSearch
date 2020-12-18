@@ -1,0 +1,1 @@
+ URL : "https://github.com/stephenslab/dsc2/issues/63" TITLE : add a --distribute switch BODY : this switch will check for all files necessary for shinydsc to work dsc has to be executed and annotated , and prepare a tarball so that one can distribute it as is, or to shinydsc.

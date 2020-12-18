@@ -1,0 +1,1 @@
+ URL : "https://github.com/ASJvine/vod-platform/issues/36" TITLE : add ssl to production app BODY : according to heroku https://devcenter.heroku.com/articles/ssl , we get this for free when we get a paid dyno, which we should get anyway for the production app

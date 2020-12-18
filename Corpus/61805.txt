@@ -1,0 +1,1 @@
+ URL : "https://github.com/oSoc17/code9000/issues/285" TITLE : browser issue: svg bert BODY : - in browsers on desktop safari & chrome svg is not correctly displayed. - in browser on mobile chrome svg is displayed correctly. => must work on both devices

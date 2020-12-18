@@ -1,0 +1,1 @@
+ URL : "https://github.com/Neovici/cosmoz-omnitable-treenode-column/issues/7" TITLE : search on clear BODY : when selection is cleared, no suggestions appear. user needs to blur the input and re-focus it, which should not be needed. reported on behalf of @simonthunborg of @neovici/uiux

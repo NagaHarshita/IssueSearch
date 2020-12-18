@@ -1,0 +1,1 @@
+ URL : "https://github.com/lutowolk/transformo/issues/4" TITLE : go to ava test framework BODY : at now we usage karma as test runner, and mocha as test framework, ava more comfortable for usage and has babel support.

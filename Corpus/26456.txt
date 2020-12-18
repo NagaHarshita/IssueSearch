@@ -1,0 +1,1 @@
+ URL : "https://github.com/docker/labs/issues/238" TITLE : aws policy creation BODY : the aws failed for some reason because of the maximum policy length. the happens when creating a custom policy manually in aws. error message: an error occurred: cannot exceed quota for policysize: 5120

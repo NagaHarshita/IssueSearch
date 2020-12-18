@@ -1,0 +1,1 @@
+ URL : "https://github.com/vatlab/SOS/issues/699" TITLE : %preview -r host BODY : with the updated remote execution feature, it becomes a bit difficult to preview results on remote host. we should add an option -r host to allow previewing files on remote host.

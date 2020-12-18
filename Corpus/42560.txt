@@ -1,0 +1,1 @@
+ URL : "https://github.com/hawtio/hawtio-core/issues/15" TITLE : bower support dropped BODY : i'm not certain when bower support was dropped, but we still use bower in the openshift web console & can't pull updated versions. ideally this would have been noted in release notes w/a timetable to move to npm/yarn. possible to get a bower.json file back?

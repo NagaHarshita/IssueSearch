@@ -1,0 +1,1 @@
+ URL : "https://github.com/allansachsambia/TheBookOfTheDead/issues/16" TITLE : hill shim obstacles BODY : for those areas where there is a 'hill' i need to create hillshim obstacles that prop the player up if they are hitting a key in the direction of the higher platform when standing on said obstacle type.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/wlisrausr/t-rex-finder-backend/issues/1" TITLE : expose api for mobile BODY : prepare all of these apis: - atm list api/v1/atms - coffee shop list api/v1/coffee_shops - hospital list api/v1/hospitals - gas station list api/v1/gas_stations

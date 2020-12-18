@@ -1,0 +1,1 @@
+ URL : "https://github.com/broadinstitute/firecloud_developer_toolkit/issues/41" TITLE : install - open ssh server BODY : sudo apt install openssh-server; cp ~/sshd_config /etc/ssh/sshd_config; sudo systemctl restart sshd.service

@@ -1,0 +1,1 @@
+ URL : "https://github.com/craftcms/cms/issues/1344" TITLE : mail settings as config BODY : not all environments use the same config setting for email. would be great to have the ability to set these as environment variables.

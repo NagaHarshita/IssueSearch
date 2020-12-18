@@ -1,0 +1,1 @@
+ URL : "https://github.com/Re-Dream/addons/issues/48" TITLE : discord <-> game relay BODY : we use a free crappy one right now, it should use luasocket from metastruct gbins or danielga's gmod_luasocket https://github.com/danielga/gmod_luasocket/ .

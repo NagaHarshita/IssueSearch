@@ -1,0 +1,1 @@
+ URL : "https://github.com/petervmeijgaard/vue-2-boilerplate/issues/49" TITLE : how to use the mixin ? BODY : hi sir.. i try to write a mixin inside a module and try to get it as import { mixin } from '@/store/modules/account'; this doest work but this one import { mixin } from '@/store/modules/account/mixin'; am i doing it right ? thanks

@@ -1,0 +1,1 @@
+ URL : "https://github.com/wtg/shuttletracker/issues/115" TITLE : clarify overlapping routes BODY : right now, when routes overlap, one just gets drawn over the others. we should either display them side-by-side or as a striped line with component colors of the overlapping routes so that it's clear that multiple routes are in the same location.

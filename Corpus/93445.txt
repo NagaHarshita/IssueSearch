@@ -1,0 +1,1 @@
+ URL : "https://github.com/cdriehuys/team-manager-api/issues/6" TITLE : add team member serializer BODY : the team member serializer should contain the team member's type and name.

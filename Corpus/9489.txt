@@ -1,0 +1,1 @@
+ URL : "https://github.com/nrbrook/MakeXcodePluginsWork/issues/7" TITLE : xcode 9 support BODY : i'm trying to use the xcode 9 beta 3 and it doesn't seem to work. i run the script like i usually do for xcode 8 but the plugins are not loaded.

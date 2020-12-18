@@ -1,0 +1,1 @@
+ URL : "https://github.com/mabeijianxi/small-video-record/issues/118" TITLE : x86 arch not compiling BODY : i added abifilter x86 and find it doesn't compile, did you try this ?

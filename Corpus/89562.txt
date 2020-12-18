@@ -1,0 +1,1 @@
+ URL : "https://github.com/QuaintShanty/JavaSearchEngine/issues/9" TITLE : radio buttons implemented BODY : a set of three radio buttons for the and, or, and phrase search types should be drawn inside of the window. clicking one should uncheck the others and should change a variable associated with an enum containing the 3 search types.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/rafspiny/enlightenment-live/issues/37" TITLE : efl should have a vlc flag BODY : the evas engine should be able to use vlc as well. in this way the ebuild for rage can rely on efl to being built with gstreamer/xine/vlc support.

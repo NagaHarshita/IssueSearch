@@ -1,0 +1,1 @@
+ URL : "https://github.com/edabg/jsprintsetup/issues/46" TITLE : error in firefox 50 BODY : i have this error when i want to print a base64 pdf within an iframe: ns_error_xpc_security_manager_veto: security manager vetoed action arg 0 jsprintsetup.printwindow

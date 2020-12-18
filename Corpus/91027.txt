@@ -1,0 +1,1 @@
+ URL : "https://github.com/eshaham/israeli-bank-scrapers/issues/15" TITLE : support multiple accounts BODY : in case a scraper can return more than one account from the same bank / credit card web sites, it should be able to return them.

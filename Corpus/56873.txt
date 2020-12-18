@@ -1,0 +1,1 @@
+ URL : "https://github.com/FrostyX/tracer/issues/87" TITLE : oracle linux 7 support BODY : tracer.resources.exceptions.unsupporteddistribution: you are running unsupported linux distribution please visit https://github.com/frostyx/tracer/issues and create new issue called 'unknown or unsupported linux distribution: ol v0.6.12 ' if there isn't such.

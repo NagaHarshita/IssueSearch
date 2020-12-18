@@ -1,0 +1,1 @@
+ URL : "https://github.com/iiab/iiab/issues/69" TITLE : local_tz can be left unset BODY : the variable local_tz can be blank if tz has not been exported to the environment first.

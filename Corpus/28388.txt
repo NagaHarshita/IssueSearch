@@ -1,0 +1,1 @@
+ URL : "https://github.com/eXpl0it3r/SmallGameEngine/issues/5" TITLE : function call order BODY : link: https://github.com/expl0it3r/smallgameengine/blob/master/src/application.cpp l5 this function should be called after window created. <pre> m_window.setframeratelimit 30 ; </pre>

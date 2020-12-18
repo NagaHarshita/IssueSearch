@@ -1,0 +1,1 @@
+ URL : "https://github.com/tokejepsen/conda-git-deployment/issues/23" TITLE : document execution order. BODY : goal to document what is happening when the user executes startup . motivation this is an effort to demystify what is happening behind the scenes, and hopefully give users a greater understanding of conda-git-deployment.

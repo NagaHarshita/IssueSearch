@@ -1,0 +1,1 @@
+ URL : "https://github.com/jefferyshivers/docstrip/issues/2" TITLE : simplify block delimiters BODY : or rather, make more elegant because ///m <-- this bleh //m/ <-- and this ... doesn't look so good. maybe something more like: /. javascript stuff ./ ... and ... /m markdown stuff m/ ... and ... /- hidden/erased by all -/

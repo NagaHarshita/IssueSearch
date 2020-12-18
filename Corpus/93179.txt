@@ -1,0 +1,1 @@
+ URL : "https://github.com/MISP/MISP/issues/2048" TITLE : add impfuzzy on attributes BODY : i'm adding in misp-objects impfuzzy in the pe object but the attribute doesn't exist

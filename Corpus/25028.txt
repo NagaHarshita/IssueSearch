@@ -1,0 +1,1 @@
+ URL : "https://github.com/harvard-lil/perma-payments/issues/22" TITLE : updates for travis BODY : run with at least python 3.4 since that's what we're using in prod . see if we can use the trusty env, instead of precise

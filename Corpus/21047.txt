@@ -1,0 +1,8 @@
+ URL : "https://github.com/Nacessed/craftio-test/issues/9" TITLE : dog walker summary BODY : click on the row will open a dog walker details page including: 1. picture
+2. serving area
+3. price
+4. tagline
+5. personal summary
+6. reviews
+7. booking button
+8. back button

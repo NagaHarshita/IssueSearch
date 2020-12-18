@@ -1,0 +1,1 @@
+ URL : "https://github.com/dnbmth/dnbmth.github.io/issues/2" TITLE : add community members page BODY : so we can give publicity to our members. add via a json file then render with jykell: { name : stuart blackler , twitter : im5tu , github : im5tu , website : im5tu }

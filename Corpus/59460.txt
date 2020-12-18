@@ -1,0 +1,1 @@
+ URL : "https://github.com/telegramdesktop/tdesktop/issues/4228" TITLE : unable to create group BODY : steps to reproduce 1. create group 2. choose name 3. select 2 mates expected behaviour new group is created actual behaviour nothing happens. stderr is empty configuration operating system: ubuntu 16.04 version of telegram desktop: 1.2.1

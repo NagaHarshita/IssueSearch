@@ -1,0 +1,1 @@
+ URL : "https://github.com/plasma-umass/Stopify/issues/21" TITLE : re-implement builtin hofs BODY : add more here as we encounter them. string --- - replace array --- - every - filter - find - findindex - foreach - map - reduce - reduceright - sort

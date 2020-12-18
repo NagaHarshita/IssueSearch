@@ -1,0 +1,1 @@
+ URL : "https://github.com/noto-platform/unamed-event-app/issues/36" TITLE : limit map bounds BODY : users should only be able to view nearby events. help them out by limiting how far away from their physical location they can scroll the map. https://github.com/alex3165/react-mapbox-gl/blob/master/docs/api.md

@@ -1,0 +1,1 @@
+ URL : "https://github.com/SirCmpwn/ChatSharp/issues/74" TITLE : eats a lot of cpu BODY : hi, i'm using the sample code in the readme file and i noticed that it consumes up to 30% of cpu usage on my desktop pc and more than 60% on my laptop. is there a way to fix this? i don't need the program to always listen for a message, every 10 seconds are good enough. thanks

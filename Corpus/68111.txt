@@ -1,0 +1,1 @@
+ URL : "https://github.com/victoriarobotics/victoria_platform/issues/26" TITLE : remove bumper stop code BODY : stopping the robot due to the bumper being pressed should be controlled from the higher level ros modules, not the teensy code.

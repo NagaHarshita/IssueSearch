@@ -1,0 +1,1 @@
+ URL : "https://github.com/ericbbraga/PopularMovies/issues/4" TITLE : load images from moviedb BODY : the moviedb api provides the images posters from movies those will be used on application. the reference can be found here https://developers.themoviedb.org/3/configuration/get-api-configuration

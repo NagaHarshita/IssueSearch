@@ -1,0 +1,1 @@
+ URL : "https://github.com/ProjectTwentyFive/task-sourcing/issues/45" TITLE : unable to create new task BODY : error: sqlstate 42p01 : undefined table: 7 error: relation generic_tasks does not exist line 1: select from generic_tasks ^ sql: select from generic_tasks this is on master

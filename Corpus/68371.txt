@@ -1,0 +1,1 @@
+ URL : "https://github.com/AuburnSounds/Dplug/issues/205" TITLE : review usage of strncpy BODY : it doesn't add a terminal zero if the source's length is larger or equal to the buffer's length snprintf is ok though

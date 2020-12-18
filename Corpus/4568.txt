@@ -1,0 +1,1 @@
+ URL : "https://github.com/suitcss/preprocessor/issues/75" TITLE : drop node 0.12 BODY : it'd be good to use argon 4.0 as the new minimum. will allow some es6 features to be used. stylelint has already dropped it and postcss is due to in the next version https://twitter.com/postcss/status/833285057762697216 .

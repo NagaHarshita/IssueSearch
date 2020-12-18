@@ -1,0 +1,1 @@
+ URL : "https://github.com/hawtio/hawtio-core-dts/issues/2" TITLE : switch to @types/node BODY : i think it's good idea to switch most of d.ts to @types/node to keep track of updates of those type defs. https://github.com/definitelytyped/definitelytyped and probably we can contribute jolokia.d.ts to @types/node ?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/capitalone/BankAccountStarter-API-reference-app/issues/7" TITLE : not working on sandbox BODY : the version of the api in the reference app does not seem to work with the version of the api readily available on sandbox. running this app against api-sandbox results in an error.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/adamjgrant/kickstart/issues/197" TITLE : error compiling theme BODY : i am getting this error: error: cannot find module 'require-dir' any ideas? i am new to node and npm. thanks, everardo

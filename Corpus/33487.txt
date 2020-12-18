@@ -1,0 +1,1 @@
+ URL : "https://github.com/ttu/dotnet-fake-json-server/issues/9" TITLE : add response caching BODY : add caching. with response caching middleware or with custom middleware https://docs.microsoft.com/en-us/aspnet/core/performance/caching/middleware?tabs=aspnetcore2x bransch: https://github.com/ttu/dotnet-fake-json-server/tree/add-response-caching

@@ -1,0 +1,1 @@
+ URL : "https://github.com/cereebro/cereebro/issues/83" TITLE : improve graph ui BODY : it will be great to have facility to : - chose to display the name of components - provide a solution to have different color for each component type red for database, yellow for rabbitmq, green for springboot app, ... for exemples - provide a full screen graph thanks

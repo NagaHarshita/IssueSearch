@@ -1,0 +1,1 @@
+ URL : "https://github.com/vysheng/tg/issues/1356" TITLE : reply in lua BODY : hi, i want to reply to some messages in using lua script. it looks like there is no function to do this in lua. are there any forks of this having the function? thanks

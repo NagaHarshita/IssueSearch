@@ -1,0 +1,1 @@
+ URL : "https://github.com/restify/errors/issues/82" TITLE : unclear usage of next err BODY : documentation isn't clear when to use return next err ; vs using just next err ; for instance, everywhere it uses return except in the section checking error types

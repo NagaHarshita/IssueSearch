@@ -1,0 +1,1 @@
+ URL : "https://github.com/soumith/imagenet-multiGPU.torch/issues/99" TITLE : testing extremely slow BODY : i have about 10,00,000 t7 files as training data and 3,00,000 t7 files as validation. i am pretty impressed with the training speed however the testing seems extremely slow. could some tell what is the bottle neck. dimension the each t7 size is 4 channels 33 w x33 h .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/aaronduino/asciidots/issues/50" TITLE : refactor char inheritance BODY : python's isinstance should be used instead of inherited checks like iswarp

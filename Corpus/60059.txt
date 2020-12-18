@@ -1,0 +1,1 @@
+ URL : "https://github.com/ericclemmons/unique-selector/issues/19" TITLE : webpack config missing BODY : in package.json there's a build task that calls into webpack. webpack isn't a dependency and there's no webpack config. without this build task, there's no easy way to use this.

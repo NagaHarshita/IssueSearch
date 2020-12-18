@@ -1,0 +1,1 @@
+ URL : "https://github.com/joebartels/ember-cli-deploy-sh/issues/4" TITLE : support configurable fail BODY : default behavior is that non-zero exit codes fail and abort the deploy pipeline. this behavior should be configurable as it may not be desired that the entire deploy fails when a shell script returns non-zero exit code

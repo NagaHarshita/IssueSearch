@@ -1,0 +1,1 @@
+ URL : "https://github.com/googlevr/webvr-ui/issues/4" TITLE : package.json main file BODY : @hapticdata should we instead of pointing at the src/index.js in package.json point to buid/webvrui.js ? seems like many other libraries does that three & polyfill at least , allowing to use require in es5 environment.

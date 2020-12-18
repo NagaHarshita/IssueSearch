@@ -1,0 +1,1 @@
+ URL : "https://github.com/jhurray/JHChainableAnimations/issues/29" TITLE : stop support for ios 8/7? BODY : the minimum deployment target is ios9 which is declare in jhchainableanimations.podspec file: s.ios.deployment_target = '9.0'

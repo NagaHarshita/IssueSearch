@@ -1,0 +1,1 @@
+ URL : "https://github.com/YunoHost-Apps/jenkins_ynh/issues/9" TITLE : not working on arm BODY : hi i tried to install jenkins on a raspberry pi and the installation fail the log https://paste.yunohost.org/ilozezogax.diff

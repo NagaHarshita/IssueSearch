@@ -1,0 +1,1 @@
+ URL : "https://github.com/openfl/lime/issues/946" TITLE : typo in arraybufferview BODY : here: https://github.com/openfl/lime/blob/44612073172d0f8e85f4779a3c823bc6f1307782/lime/utils/arraybufferview.hx l167 should be an assignment i guess.

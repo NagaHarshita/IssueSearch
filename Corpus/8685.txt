@@ -1,0 +1,1 @@
+ URL : "https://github.com/pabloriutort/DRAM-Simulator/issues/4" TITLE : read specs file BODY : use yaml library for python to read .yml file to specify the specs of a dram memory. example: dram: capacity: 1 chips: number: 8 banks: 1 rows: 1 columns: 1 capacity: 524 times: rp: 1 rcd: 1 cl: 1

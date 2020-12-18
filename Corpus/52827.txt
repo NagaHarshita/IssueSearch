@@ -1,0 +1,1 @@
+ URL : "https://github.com/liming/hellosleep-weapp/issues/2" TITLE : create evaluation form BODY : 评估表格 状态 1. 当用户创建评估，展示新的表格 2. 当用户重新评估，表格内有历史选择 范本 http://www.hellosleep.net/evaluation/new 要求 1. 问卷的内容动态加载 2. 问卷的数据易于修改和升级 3. 一个页面可以支持多个问题，也可以是单一问题 4. 用户可以选择上一页和下一页

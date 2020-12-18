@@ -1,0 +1,1 @@
+ URL : "https://github.com/niclabs/adkintunmobile-androidclient/issues/166" TITLE : mantener servicios activos BODY : en algunos dispositivos los servicios de monitoreo no permanecen siempre activos, lo que produce que hayan períodos a veces días completos en caso de no abrir la aplicación en los cuales no haya información de mediciones.

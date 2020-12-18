@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla/telemetry-analysis-service/issues/365" TITLE : support ldap for ssh keys BODY : the keys app currently supports uploading ssh keys, but for security reasons we should also support the ssh keys support via ldap

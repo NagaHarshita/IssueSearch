@@ -1,0 +1,1 @@
+ URL : "https://github.com/bpampuch/pdfmake/issues/1129" TITLE : table width error BODY : var dd = { content: { table: { widths: ' ','100' , body: '','' } } } whenever i try to put widths as ' ','100' , it is not coming. can someone please help me out

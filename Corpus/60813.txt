@@ -1,0 +1,1 @@
+ URL : "https://github.com/chrmarti/testissues/issues/1790" TITLE : add it to windows store BODY : - vscode version: code 1.14.0 b8cd5b9556d8b70ea560d35b903422363f6c5c40, 2017-07-10t18:36:31.751z - os version: windows_nt ia32 10.0.15063 - extensions: none --- just add it to the windows store, it would be easier to install and update it. steps to reproduce: 1. 2.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/daniv/SFNG/issues/15" TITLE : error reports not created BODY : the error reports are not created on the project folder, while project errors folder does not exists yet. an errors folder should be created on the root level to redirect exception reports until the project error folder is being created

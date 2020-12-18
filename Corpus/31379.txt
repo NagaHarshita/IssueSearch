@@ -1,0 +1,1 @@
+ URL : "https://github.com/FACN1/pod/issues/25" TITLE : setup code coverage BODY : - install istanbul after tape is working

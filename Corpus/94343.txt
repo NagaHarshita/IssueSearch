@@ -1,0 +1,1 @@
+ URL : "https://github.com/nuxt/nuxt.js/issues/246" TITLE : can i use nuxt.js with koa BODY : when i use app.use nuxt.render , it throws an error says app.use requires a generator function are there any other ways to use nuxt.js with koa?

@@ -1,0 +1,2 @@
+ URL : "https://github.com/costabatista/JFilterCode/issues/18" TITLE : add new stemming method BODY : new feature it'a needed a method to stem english words resultant of all filter process. it'll be apply after filtering an before quantile removal process. preparing - studying process
+- development of this method

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ISISComputingGroup/IBEX/issues/2061" TITLE : improve galil simulator BODY : currently it just simulates the main motor behaviour, extend to cover the galil specific controller pvs

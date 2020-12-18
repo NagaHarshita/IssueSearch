@@ -1,0 +1,1 @@
+ URL : "https://github.com/pesterhazy/unravel/issues/14" TITLE : better symbol regex BODY : symbols for the auto-doc feature are not recognized correctly. find a better regex for symbols cljs.tools.reader?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/nextcloud/external/issues/12" TITLE : show internal site BODY : hi, i wanted to ask if it would be possible that the nextcloud server itself loads the site contents. at the moment i am able to embed for example my local openhab server in the frame and visit it if i am also in the lan. it would be awesome when this would work from anywhere. greets

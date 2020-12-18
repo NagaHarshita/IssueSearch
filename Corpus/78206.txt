@@ -1,0 +1,1 @@
+ URL : "https://github.com/apollographql/apollo-android/issues/190" TITLE : plugin errors on windows BODY : there are some errors with running node on windows, this might be an issue with gradle-node or apollo-plugin. most likely the former. opening this issue to investigate.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/coburnw/pm2800-ivi/issues/1" TITLE : add various models BODY : there are roughly 18 possible configurations of this power supply. investigate programmatically defining the configuration from the device id. otherwise generate and upload the 18 different files.

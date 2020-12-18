@@ -1,0 +1,1 @@
+ URL : "https://github.com/lefthandsimon/jammming/issues/2" TITLE : getting access token BODY : no need to use spotify.getaccesstoken ; in the constructor of app.js. that is already done in spotify.js which had been imported.

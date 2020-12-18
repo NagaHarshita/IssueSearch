@@ -1,0 +1,1 @@
+ URL : "https://github.com/Cedev/tree-concern/issues/7" TITLE : filter descendant search BODY : as a tree-concern user, i'd like to be able to filter which nodes are expanded in :each , :descendants , :post_order , :breadth_first , etc.

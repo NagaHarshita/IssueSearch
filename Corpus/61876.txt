@@ -1,0 +1,1 @@
+ URL : "https://github.com/aspnet/SignalR/issues/280" TITLE : build failure on ubuntu BODY : /signalr/client-ts/microsoft.aspnetcore.signalr.test.server/microsoft.aspnetcore.signalr.test.server.csproj 27,7 : error msb3030: could not copy the file /signalr/client-ts/microsoft.aspnetcore.signalr.test.server/../dist/browser/signalr-client.js because it was not found.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/rolfisub/word-search/issues/5" TITLE : detect end game BODY : when the game ends it should display the score of the player and also save it. it should also prompt the player if he wants to play another round.

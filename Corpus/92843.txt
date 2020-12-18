@@ -1,0 +1,1 @@
+ URL : "https://github.com/divis1969/android_device_meizu_meilan2/issues/113" TITLE : a problem on meizupshelper BODY : tried to use it on meizu m2note running los14.1 but cannot make it autorun at boot. also tried to add meizupshelper.rc but did not work. thx!

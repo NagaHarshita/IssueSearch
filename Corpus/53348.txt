@@ -1,0 +1,1 @@
+ URL : "https://github.com/TorchCraft/TorchCraft/issues/183" TITLE : dockerfile build error BODY : hello, i found a single quote is missing in the dockerfile at no-cuda line 74 https://github.com/torchcraft/torchcraft/blob/master/docker/no-cuda/dockerfile l74 . and it seems not complete to me. thanks

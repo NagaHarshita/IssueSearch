@@ -1,0 +1,1 @@
+ URL : "https://github.com/cityofaustin/joplin/issues/39" TITLE : service / contact model BODY : each service model should have a contacts property containing an array of contact models. contact model should have 1 name/business/dept 2 email 3 phone, 4 address street, city, state, country 5 hours for each day of the week

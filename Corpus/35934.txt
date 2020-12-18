@@ -1,0 +1,1 @@
+ URL : "https://github.com/teamrsm/analytic-spraydown/issues/66" TITLE : fix last access time BODY : currently, last access time is updating every time a user accesses database. this prevents updating if logging in more than once per cache invalidate interval. it should update only after fetching data from mountain project.

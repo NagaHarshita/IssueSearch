@@ -1,0 +1,1 @@
+ URL : "https://github.com/darkbenonator/assignment1/issues/6" TITLE : move the crud BODY : move the crud from the controller to the model. this will allow for multiple controller to use these functions and have the correct usage of mvc.

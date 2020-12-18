@@ -1,0 +1,1 @@
+ URL : "https://github.com/iqbalansari/emacs-emojify/issues/30" TITLE : not working in org-mode. BODY : on emacs 25.2.1, running on arch linux x86_64, i can't get emojis to display in org-mode. emojify works fine in message mode and lisp interaction scratch . listing the emojis also displays them. in org-mode, however, i'm only getting the unicode character.

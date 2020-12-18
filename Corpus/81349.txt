@@ -1,0 +1,1 @@
+ URL : "https://github.com/rapid7/metasploit-framework/issues/9042" TITLE : wlan_geolocate api error BODY : screenshoot: http://i.imgur.com/u4s0qao.png msf: framework: 4.16.9-dev console : 4.16.9-dev payload: android/meterpreter/reverse_tcp os: kali linux 2017.02

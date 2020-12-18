@@ -1,0 +1,1 @@
+ URL : "https://github.com/krnlx/ccminer-xevan/issues/1" TITLE : error on cuda path BODY : hi, in configure.sh , you have hardcoded the path of cuda to version 7.5 instead of leaving it to current version. should be changed to : cuda_cflags= -o3 -lineno -xcompiler -wall -d_force_inlines ./configure cxxflags= -o3 $extracflags --with-cuda=/usr/local/cuda --with-nvml=libnvidia-ml.so

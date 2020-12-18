@@ -1,0 +1,1 @@
+ URL : "https://github.com/opsdroid/opsdroid-desktop/issues/6" TITLE : build linux x64/32 binary BODY : build a linux x64/32 binary on release. probably using travis.

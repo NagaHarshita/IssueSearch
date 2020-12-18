@@ -1,0 +1,1 @@
+ URL : "https://github.com/Elektropioneer/Pixy-2k18/issues/3" TITLE : what if not 3? BODY : https://github.com/elektropioneer/pixy-2k18/blob/87e5c654a97dd212b6595ded4a4d940e28f384fa/main.ino l61 what is the tactic if it detects more than 3? robot rotates, moves, change some parameter?

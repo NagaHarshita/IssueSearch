@@ -1,0 +1,1 @@
+ URL : "https://github.com/Varenthein/sofacms/issues/3" TITLE : weird tags bugs BODY : if you add number tag at first e.g 55 , you can't delete it. you have to add some string tag and then, you can remove both.

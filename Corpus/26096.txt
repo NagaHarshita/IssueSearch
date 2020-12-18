@@ -1,0 +1,1 @@
+ URL : "https://github.com/pdhoopr/patrick-hooper/issues/63" TITLE : add sitemap support BODY : jekyll had a great sitemap plugin, but jekyll's going away. a metalsmith plugin for automatically generating a sitemap would be 💯 .

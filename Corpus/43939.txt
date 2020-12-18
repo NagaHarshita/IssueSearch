@@ -1,0 +1,1 @@
+ URL : "https://github.com/owncloud/documentation/issues/3032" TITLE : document add new user BODY : when a new user is created, and is added to an existing group, it is necessary to remove the group shares and recreate them. otherwise the new user is not able to read the files shared in the group. this procedure must be documented.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/stratis-storage/stratis-docs/issues/19" TITLE : create dbus api reference BODY : document the dbus api, since it is not in the design doc any more.

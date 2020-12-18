@@ -1,0 +1,1 @@
+ URL : "https://github.com/elementzonline/SIM800_MQTT/issues/14" TITLE : secure mqtt pub? BODY : hi, thank you very much for your great work. it works really good for me. do you have plan to secure the communication between the arduino and the mqtt server with tls? best regards holger koch

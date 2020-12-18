@@ -1,0 +1,1 @@
+ URL : "https://github.com/Emotionally-Woken/temphawaiianshirtdepot/issues/89" TITLE : fix new product quantity BODY : for bugs, please include the following: an admin adding a new product should be able to specify quantity. items with quantity 0 will break parts of the site, ie cart, if they're rendered there.

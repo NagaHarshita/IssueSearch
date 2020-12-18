@@ -1,0 +1,1 @@
+ URL : "https://github.com/interledgerjs/ilp-kit/issues/353" TITLE : clean up branch names BODY : right now it may be confusing to a new user coming in from the open source community as there are branches named master latest release lets consolidate and agree on 1 branch that should be the tip.

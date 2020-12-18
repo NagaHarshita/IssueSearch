@@ -1,0 +1,1 @@
+ URL : "https://github.com/palantir/blueprint/issues/606" TITLE : mixin for tags BODY : i'd love to be able to use other blueprint colors for tags via an easy mixin instead of manually changing the variables. 😄

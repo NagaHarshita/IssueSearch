@@ -1,0 +1,1 @@
+ URL : "https://github.com/TUK-EIT/exam-eit-latex/issues/6" TITLE : port to style-eit-latex BODY : as with report-eit-latex, use the eit style package as a submodule

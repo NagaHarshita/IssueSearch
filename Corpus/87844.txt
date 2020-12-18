@@ -1,0 +1,1 @@
+ URL : "https://github.com/romainmenke/simple-guetzli/issues/2" TITLE : max concurrent procs flag BODY : add a flag to limit the number of concurrent guetzli processes

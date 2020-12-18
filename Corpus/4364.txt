@@ -1,0 +1,1 @@
+ URL : "https://github.com/wushilian/STN_CNN_LSTM_CTC_TensorFlow/issues/1" TITLE : case using stn BODY : if stn is used, it does not converge. is there a good tip to converge? and have you tried evaluating iiit5k dataset using the original crnn without using stn? i implemented it with tf, but it did not perform like the paper.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/lybros/Appa/issues/44" TITLE : app crash : colorizing BODY : the app crashes if we are retrieving colors from the image, which is not in the root of images_location directory, but elsewhere we're loosing some parts of the file when concatenating images_location and image_name must be fixed.

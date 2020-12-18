@@ -1,0 +1,1 @@
+ URL : "https://github.com/metamug/mtg-jquery-datatable-plugin/issues/1" TITLE : mapping keys to columns BODY : the keys inside the received json map should be configured with columns. @ancode4

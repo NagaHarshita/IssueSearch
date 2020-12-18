@@ -1,0 +1,1 @@
+ URL : "https://github.com/flat-code/avalanche/issues/2" TITLE : white flash on page load. BODY : the app has a white flash between page loads. possible fix is converting to onepage.

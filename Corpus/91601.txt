@@ -1,0 +1,1 @@
+ URL : "https://github.com/msylvestre/logbook/issues/56" TITLE : ui integrate md5 in ionic BODY : i don't do md5 when creating a user from the ui.... i do it in the api only

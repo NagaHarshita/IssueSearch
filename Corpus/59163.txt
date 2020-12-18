@@ -1,0 +1,1 @@
+ URL : "https://github.com/MIT-LCP/mimic-code/issues/188" TITLE : the diagnosis sequence BODY : since the column seq_num in table diagnoses_icd provides the order in which the icd diagnoses relate to the patient and icd diagnoses are ordered by priority. does that mean the first icd diagnose was the chief diagnose of the patient, and the others were the second diagnoses?

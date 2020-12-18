@@ -1,0 +1,1 @@
+ URL : "https://github.com/prontotools/pronto-praise/issues/2" TITLE : add new praise BODY : as a team member, i want to write a praise to someone then see it on the homepage, so that whom i praise to can read it. exit criteria be able to add a new praise. when a new praise is added, it should redirect to the homepage.

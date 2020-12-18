@@ -1,0 +1,1 @@
+ URL : "https://github.com/BaelorSwift/api/issues/20" TITLE : remove soft deletes BODY : causing issues with unique_index 's. and i really don't need soft deletes for this.

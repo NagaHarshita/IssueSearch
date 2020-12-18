@@ -1,0 +1,1 @@
+ URL : "https://github.com/HKUST-VISLab/vismooc-front-end/issues/21" TITLE : upgrade js to ts, tsx BODY : 1. upgrade to ts, remove babel 2. upgrade to tsx, remove template

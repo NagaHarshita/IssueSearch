@@ -1,0 +1,1 @@
+ URL : "https://github.com/facebook/flow/issues/4981" TITLE : type refinement dont work BODY : / @flow / function candivide x: number | null : bool { if x === null { return false; } return true } function divide x: number | null : number | null { if !candivide x { return null; } return 10 / x; } return 10 / x; ^ null. the operand of an arithmetic operation must be a number.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/farookkhan/Future-Fresh/issues/1" TITLE : project boiler plate BODY : - npm init - npm packages - webpack, webpack-dev-server - babel-cli, babel-core , babel-loader, babel-preset-es2015 - config webpack - config babel - .gitignore - npm scripts

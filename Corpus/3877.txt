@@ -1,0 +1,1 @@
+ URL : "https://github.com/greybax/cyrillic-to-translit-js/issues/16" TITLE : 'x' is not 'x' BODY : cyrillic x is not really cyrillic, is is english x https://github.com/greybax/cyrillic-to-translit-js/blob/5ff90062893e20774fb3efc25a3756d40f5c73e0/cyrillictotranslit.js l31 after translit you will get ar\321\205angelskaya-oblast

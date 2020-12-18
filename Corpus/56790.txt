@@ -1,0 +1,1 @@
+ URL : "https://github.com/NextThought/nti.externalization/issues/49" TITLE : on before update event BODY : jason, could we have a zope event to notify when an object is about to be updated. e.g iwillupdateobjet or ionbeforeobjectupdate . this may be done in the update_from_external_object function. i could open a pr if you want me to thanks carlos

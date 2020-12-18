@@ -1,0 +1,1 @@
+ URL : "https://github.com/matthewwithanm/react-inlinesvg/issues/63" TITLE : load svg without wrapper BODY : hello, is there a possibility to load a svg without a wrapper around it? because the wrapper gets classes injected that are messing up my css classes that are injected: isvg loaded

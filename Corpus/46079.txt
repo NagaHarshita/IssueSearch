@@ -1,0 +1,1 @@
+ URL : "https://github.com/MachoThemes/newsmag-lite/issues/277" TITLE : lazyload effect issue BODY : if lazyload is turned on and the images have similar names: exemplu-1.jpg, exemplu-2.jpg, etc, it replaces all the images in the post with the featured one exemplu.jpg

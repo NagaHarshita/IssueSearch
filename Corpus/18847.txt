@@ -1,0 +1,1 @@
+ URL : "https://github.com/googlei18n/glyphsLib/issues/280" TITLE : use axes property BODY : there is a custom parameter axes . it contains axis names and tags. it is required for variable font export and does limit the available coordinate fields in the master and instance settings.

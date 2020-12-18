@@ -1,0 +1,1 @@
+ URL : "https://github.com/naver/billboard.js/issues/62" TITLE : reinforce test coverage BODY : description <!-- detailed description of the issue --> test coverage remains at 73%, it should be cover at least 80%+. it needs add more test cases to increase.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpenSRP/opensrp-client-core/issues/26" TITLE : update sync tables BODY : related to https://github.com/opensrp/opensrp-client-path/issues/125 update sync tables - add a validate status column - add indexes for the search columns

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Behat/Behat/issues/984" TITLE : handle php fatal error BODY : it would be great to catch all exceptions not only searchexception to have to know what feature was failed, especially when progress formarter is used

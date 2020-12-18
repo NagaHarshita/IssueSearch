@@ -1,0 +1,1 @@
+ URL : "https://github.com/mauron85/react-native-background-geolocation/issues/78" TITLE : without google service BODY : would it work without google service? like in the asia china, behind the great wall which blocks the google services, could this library work in that environment? thanks in advance.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/FreeRADIUS/freeradius-server/issues/2049" TITLE : valuepair.c is missing BODY : valuepair.c missing defect/feature description how to reproduce issue in libradius.h there are protoypes of function present in valuepair.c file. this file is not presen in any folder in 3.x branch

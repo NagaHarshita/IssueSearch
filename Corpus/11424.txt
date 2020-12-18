@@ -1,0 +1,1 @@
+ URL : "https://github.com/Pysearch/Pysearch1.0/issues/5" TITLE : harvesting a url BODY : we need to create a function or functions that take a url as argument and returns the most important words to the database.

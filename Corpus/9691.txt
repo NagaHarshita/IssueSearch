@@ -1,0 +1,1 @@
+ URL : "https://github.com/maturban/archivenow/issues/6" TITLE : add a dockerfile BODY : in order to deploy it on our server, please add a dockerfile in it and also add a corresponding image in dockerhub.

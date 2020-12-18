@@ -1,0 +1,1 @@
+ URL : "https://github.com/erickok/transdroid-search/issues/54" TITLE : allow custom piratebay url BODY : not an issue but a request. add an entry in settings to enter a different url for thepiratebay i can see its hardcoded in the tbp adapter private static final string domain = https://theproxypirate.pw ; possible to have this read from the new setting instead

@@ -1,0 +1,1 @@
+ URL : "https://github.com/dmikhaylenko/reactive/issues/4" TITLE : unit testing enviroment BODY : - install karma test launcher and typings for jasmine framework. - configure karma to launch in the chrome browser. - configure karma to generate reports in the html format. - add typescript processor and amd modular system to the karma.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/cztomczak/cefpython/issues/385" TITLE : how to get request context BODY : how to get request context i want to change cache_path of a browser instance but i have no idea how to cefrequestcontext object thanks

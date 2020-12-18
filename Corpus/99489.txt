@@ -1,0 +1,1 @@
+ URL : "https://github.com/mockery/mockery/issues/767" TITLE : mockery won't throw errors BODY : php // ask mockery to throw an error: \mockery::mock foo::class ->shouldreceive 'bar' ->andthrow \error::class ->once ->getmock , // it doesn't bother. new foo ->bar ; if error::class is substituted for exception::class , this works as expected, but mockery won't throw error s.

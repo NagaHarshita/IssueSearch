@@ -1,0 +1,1 @@
+ URL : "https://github.com/rentpath/planning-poker/issues/1" TITLE : add observer role BODY : it would be nice to allow people to see the planning poker sessions without having to vote. these observers should not be allowed to vote, and all cards will reveal their estimates when all non-observer players have estimated.

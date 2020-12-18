@@ -1,0 +1,1 @@
+ URL : "https://github.com/Work-In-Progress-DevMtn/Work-In-Progress/issues/40" TITLE : cannot delete user BODY : admin cannot delete a user if he/she has 'favorited' anything... it violates foreign keys. we either need to get rid of the foreign key constraint s or figure out a way to hit the endpoint multiple times on the same click and run multiple 'deletes' on different tables.

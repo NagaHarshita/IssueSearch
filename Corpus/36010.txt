@@ -1,0 +1,1 @@
+ URL : "https://github.com/rse/graphql-tools-types/issues/2" TITLE : float and int values BODY : in the function __parsevalue is done a parsefloat parseint , but e.g if the value is 1,6 everything after the comma ist lost and then 1 is a valid value -> but 1,6 at all should not be valid

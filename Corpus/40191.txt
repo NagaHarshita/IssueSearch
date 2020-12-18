@@ -1,0 +1,1 @@
+ URL : "https://github.com/mraad/dbscan-spark/issues/1" TITLE : the point dimension? BODY : hello ,the implementation only support clustering the points with two dimensions ?

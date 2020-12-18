@@ -1,0 +1,1 @@
+ URL : "https://github.com/JetBrains/gradle-intellij-plugin/issues/183" TITLE : cannot run my plugin BODY : i got this: warn: can't load plugindescriptor name='...', classpath='...' : since build 2016.3 does not match ic-163.7743.44 i've tried several values in <idea-plugin><idea-version since-build> and nothing... please help!

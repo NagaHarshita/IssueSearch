@@ -1,0 +1,1 @@
+ URL : "https://github.com/basvandorst/StravaPHP/issues/23" TITLE : uploading gpx file BODY : actual_file = realpath 'giro_mattutino.gpx' ; $file ='@'.$actual_file; $client->uploadactivity $file, 'ride', 'morning ride', 'a test', 0, 1, 'gpx' ; i'm using this code to upload the file but it doesn't seem to work.. any help?

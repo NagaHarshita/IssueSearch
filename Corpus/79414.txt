@@ -1,0 +1,1 @@
+ URL : "https://github.com/snayrouz/cetchup/issues/11" TITLE : setup card comment model BODY : integer card_id , null: false integer user_id , null: false datetime created_at datetime updated_at

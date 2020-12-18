@@ -1,0 +1,1 @@
+ URL : "https://github.com/qbittorrent/qBittorrent/issues/6563" TITLE : speed limits do not work BODY : 3.3.11, windows 10 1607 speed limits do not work. it always shakes at maximum speed. program settings by default. on version 3.3.10 everything is fine. what is the problem?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/EBGreen684/Compare-ADGroupMembership/issues/1" TITLE : export to csv? BODY : hi, should removing the username part from the script just give the output of machine names? and adding | export-csv at the end gives the csv file? thanks, vamshi.

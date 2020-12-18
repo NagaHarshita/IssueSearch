@@ -1,0 +1,1 @@
+ URL : "https://github.com/mjackson/value-equal/issues/3" TITLE : add licence file BODY : hi, can you please add a licence file to the project? also, am i correct assuming the project is under mit licence just the file is missing? package.json indicates mit, that's why i think so

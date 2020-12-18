@@ -1,0 +1,1 @@
+ URL : "https://github.com/casmlab/get-nytimes-articles/issues/8" TITLE : retry calls that failed BODY : api still returns the occasional 403, 429 or 504 error. need to capture a single list of pages that failed, check if they eventually worked 429 fix in 5 has a wait + retry feature , and retry if they didn't.

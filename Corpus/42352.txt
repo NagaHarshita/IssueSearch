@@ -1,0 +1,1 @@
+ URL : "https://github.com/dschoorisse/videopaal/issues/3" TITLE : auto archive bookings BODY : after a given time bookings should be archived, the corresponding .zip file on the webserver should be deleted.

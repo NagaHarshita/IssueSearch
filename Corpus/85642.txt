@@ -1,0 +1,1 @@
+ URL : "https://github.com/Pat-Laugh/WebssonProjects/issues/25" TITLE : first letter cap keywords BODY : add first letter cap keywords. for instance, true . also, add the keyword none and none . this is to make it consistent with python built-in variables or whatever they are . it's nice because none can be shortened to 'n', which is what nil and null use!

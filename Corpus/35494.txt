@@ -1,0 +1,1 @@
+ URL : "https://github.com/husniadil/gsm/issues/1" TITLE : empty key-value pair BODY : notice that in the json output, under tests , there's an empty key-value pair. <img width= 547 alt= screen shot 2017-04-22 at 11 00 22 src= https://cloud.githubusercontent.com/assets/10581130/25301220/0cde4e3e-274b-11e7-9d17-aa65b7958570.png >

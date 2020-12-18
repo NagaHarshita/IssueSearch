@@ -1,0 +1,1 @@
+ URL : "https://github.com/FriendsOfApi/billogram-v2-api-php-lib/issues/4" TITLE : improve error handling BODY : we should throw exceptions for 4xx and 5xx responses. the exceptions messages need to be clear and contain the reasons from the api.

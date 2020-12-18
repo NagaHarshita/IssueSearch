@@ -1,0 +1,1 @@
+ URL : "https://github.com/creativcoder/templar/issues/1" TITLE : add call blocks BODY : to be able to do things like python {{ call len 'something' }}

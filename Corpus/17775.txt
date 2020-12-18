@@ -1,0 +1,1 @@
+ URL : "https://github.com/Southclaws/SIF/issues/25" TITLE : reorganise for ci BODY : repo should be updated as a sampctl pawn package with a pawn.json file. unit tests should be run via sampctl and travisci can be set up to run unit tests.

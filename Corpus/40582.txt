@@ -1,0 +1,1 @@
+ URL : "https://github.com/markcdb/RealmManager/issues/1" TITLE : update realm version BODY : hi, can you please support the latest version of realmswift? please see my terminal logs. - realmswift required by podfile - realmswift = 3.0.2 required by podfile.lock - realmswift ~> 2.6.2 required by realmmanager 1.0.7 thank you!

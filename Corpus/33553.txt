@@ -1,0 +1,1 @@
+ URL : "https://github.com/kumuluz/kumuluzee-samples/issues/6" TITLE : add testing examples BODY : the examples here look all great. however, one thing i have missed on first sight from all the examples and the website: testing/junit. is there already something in place? with the deltaspike cdi test runner and the weld integration, that should be a fairly simple thing to achieve?

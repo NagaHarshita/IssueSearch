@@ -1,0 +1,1 @@
+ URL : "https://github.com/alyldas/Markov/issues/6" TITLE : check for an infinite loop BODY : the presence of an infinite loop in the rule is not checked for all conditions. e.g. a -> aa isn't perceived as an infinite loop. similar problems: 3 4

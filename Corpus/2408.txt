@@ -1,0 +1,1 @@
+ URL : "https://github.com/vlad-ignatov/react-numeric-input/issues/57" TITLE : add e2e tests BODY : they are able to test some complex event driven sequences much better.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/timgrossmann/InstaPy/issues/33" TITLE : invalid page log BODY : i have the following log message: invalid page: message: no such element: unable to locate element: { method : xpath , selector : //article/div 2 /div 1 /ul 1 /li 1 } every time a page is loaded. i have a small screen, maybe the phone version of the page is loaded? any idea?

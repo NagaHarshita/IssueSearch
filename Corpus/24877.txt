@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpenAADL/ocarina-build/issues/23" TITLE : typo in --run-test BODY : the --run-test flag is not working

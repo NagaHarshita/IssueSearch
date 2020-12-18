@@ -1,0 +1,1 @@
+ URL : "https://github.com/jsheridanwells/local-weather-api/issues/3" TITLE : validate zip code input BODY : given a user has entered in some text into the zip code field<br/> when the user presses the enter key<br/> or the user clicks the submit button<br/> then the value should be validated as a zip code 5 digit number

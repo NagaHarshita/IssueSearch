@@ -1,0 +1,1 @@
+ URL : "https://github.com/eapowertools/qmcu-appobject-approver/issues/11" TITLE : table update delay BODY : there is a delay of the display after changing. after approving a sheet, it shows not published in qmcu, in the real qmc and in the hub you see that it actually was published. after logout / login = new session, qmcu shows the real values.

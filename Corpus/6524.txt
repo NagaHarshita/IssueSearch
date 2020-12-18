@@ -1,0 +1,1 @@
+ URL : "https://github.com/aatarasoff/spring-cloud-marathon/issues/7" TITLE : add sse support BODY : try to fetch events and update ribbon servers and health checks in realtime https://mesosphere.github.io/marathon/docs/rest-api.html get-v2-events

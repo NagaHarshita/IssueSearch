@@ -1,0 +1,1 @@
+ URL : "https://github.com/golang/tour/issues/343" TITLE : tour: undefined: math.pi BODY : context: https://tour.golang.org/basics/3 math.pi should be math.pi

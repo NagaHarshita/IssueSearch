@@ -1,0 +1,1 @@
+ URL : "https://github.com/gerrymandr/ap-demo/issues/9" TITLE : expand seed areas BODY : implement some algorithm to expand the districts out from what has been assigned. mcmc ? a deterministic algorithm?

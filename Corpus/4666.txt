@@ -1,0 +1,1 @@
+ URL : "https://github.com/ptlergo/musicem-app/issues/16" TITLE : feed item page BODY : upon clicking 'more' takes user to a new page where the full content is viewable. anticipate issues with the page viewed as a modal, and grabbing all the page content with the media player.

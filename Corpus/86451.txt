@@ -1,0 +1,1 @@
+ URL : "https://github.com/aareitio/NYC_risk/issues/4" TITLE : how to read our data file BODY : example from session 1 data let's read some data. {r} projectdata <- read.csv data/boats.csv , header = true, sep= ; correlation_columns <- 3:6

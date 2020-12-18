@@ -1,0 +1,1 @@
+ URL : "https://github.com/Clabfabs/cg-lab-project/issues/1" TITLE : clean up models BODY : shell as example: obj, mtl, texture, frag, vert delete old models, find new models put them through meshlab, simplify them, make them appear

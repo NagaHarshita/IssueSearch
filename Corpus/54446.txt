@@ -1,0 +1,1 @@
+ URL : "https://github.com/derhuerst/eschen-bot/issues/1" TITLE : generate calendar file BODY : generate an .ics file https://en.wikipedia.org/wiki/icalendar and send it to people so they can add their eschenbräu visit to their calendar.

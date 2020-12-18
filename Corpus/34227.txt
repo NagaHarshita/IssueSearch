@@ -1,0 +1,1 @@
+ URL : "https://github.com/rwightman/tensorflow-litterbox/issues/8" TITLE : can not run the code BODY : @rwightman , i am so appreciated with your great job. i try to run imagenet_train.py, but it does not run correctly. i do not know how to place the data. i have no idea of what type of data, and the architecture of data.

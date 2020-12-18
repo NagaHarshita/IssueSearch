@@ -1,0 +1,1 @@
+ URL : "https://github.com/processone/ejabberd/issues/1450" TITLE : docker image outdated BODY : the docker image at https://hub.docker.com/r/ejabberd/ecs/ is still at 16.12-beta1.

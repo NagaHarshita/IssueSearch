@@ -1,0 +1,1 @@
+ URL : "https://github.com/Dragontek/octobercms/issues/5" TITLE : can we add a cron option? BODY : dear, thanks for the image. after i read the fpm dockerfile, i can't find the cron parts. so would you please add a option which control the container will run the cron job or not?

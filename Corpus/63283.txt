@@ -1,0 +1,1 @@
+ URL : "https://github.com/Alexey-T/CudaText/issues/865" TITLE : dlg_prop_get and resize BODY : наблюдаю, - есть форма над dlg_proc - у нее resize=false - перед dlg_free беру у нее dlg_prop_get - получаю не актуальные x,y что мешает? они нужны, чтобы восстанавливать позицию формы. для формы с resize=true получаю правильные x,y - позиция восстанавливается.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/loleg/dribdat/issues/77" TITLE : update to flaskform BODY : warnings in console: /srv/soda/dribdat/dribdat/public/views.py:97: flaskwtfdeprecationwarning: flask_wtf.form has been renamed to flaskform and will be removed in 1.0. form = projectform obj=project, next=request.args.get 'next'

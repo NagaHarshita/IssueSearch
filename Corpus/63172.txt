@@ -1,0 +1,1 @@
+ URL : "https://github.com/neurodata/ndmg/issues/138" TITLE : desikan atlas confusion BODY : we have several files at several scales/resolutions for the desikan atlas. some appear to be different from others, and less-goodly. this is bad. dod: get to the bottom of it and have a single desikan atlas which i then propagate across all scales.

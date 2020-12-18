@@ -1,0 +1,1 @@
+ URL : "https://github.com/tarantool/tarantool/issues/2793" TITLE : sql: concurrent ddl2 BODY : concurrent ddl is not working properly. here is example of failing test: ec0ca83f83318df906afdf9f1c85e3d0ba83267e : test/sql-tap/gh-2723-concurrency.test.lua blocked, because tarantool have to transactional ddl itself. 600 2783 1871

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Cobliteam/cassandra-migrate/issues/14" TITLE : add integration tests BODY : there are some end-to-end tests in private cobliteam projects, but they should also be present here.

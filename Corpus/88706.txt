@@ -1,0 +1,1 @@
+ URL : "https://github.com/neutrinolabs/xrdp/issues/856" TITLE : one error: log_daemon_msg BODY : when i try to start xrdp with sudo service xrdp start i get an error reading /etc/init.d/xrdp: line 76: log_daemon_msg: command not found line 76 reads: log_daemon_msg starting $desc any suggestions would be appreciated! thanks. i'm on an aws centos 6

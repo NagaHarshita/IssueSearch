@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla/webxr-polyfill/issues/34" TITLE : demo description overlay BODY : each demo should have a div overlay with a description of what the demo does. when the user taps on the div it should disappear.

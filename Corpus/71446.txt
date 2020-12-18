@@ -1,0 +1,1 @@
+ URL : "https://github.com/itko/datector/issues/1" TITLE : add javascript injection BODY : in order to modify the html of the webpages we are on, we need to inject javascript. see here: 1 https://blog.lateral.io/2016/04/create-chrome-extension-modify-websites-html-css/ 2 http://tech-blog.tomchambers.me/2016/01/13/how-to-write-a-simple-page-rewriting-chrome-extension/

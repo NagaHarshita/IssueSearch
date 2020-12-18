@@ -1,0 +1,1 @@
+ URL : "https://github.com/tmccombs/dopen/issues/1" TITLE : publish to crates.io BODY : to make this easy for people to install via cargo install it would be great if you could publish a release to crates.io http://doc.crates.io/crates-io.html .

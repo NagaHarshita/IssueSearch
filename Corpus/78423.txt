@@ -1,0 +1,1 @@
+ URL : "https://github.com/c-base/c-harp/issues/5" TITLE : processing core software BODY : should: handle polyphonic evaluation of adcs or digital photosensor lines be able to generate a simple sine wave for each played tone be capable of outputting midi

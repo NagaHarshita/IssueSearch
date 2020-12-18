@@ -1,0 +1,1 @@
+ URL : "https://github.com/lepetit80/my-sts-project/issues/2" TITLE : httpie test failed BODY : - http post http://localhost:8888/api/users email=mail@mail.com birthdate=2017-11-03 tastes:=' httpie , pies '

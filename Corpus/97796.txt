@@ -1,0 +1,1 @@
+ URL : "https://github.com/termux/termux-app/issues/504" TITLE : how to set ld_library_path BODY : i need to use dalvikvm in /data/data/com.termux/files/usr/bin to run java code。how to set the ld_library_path when i need to load the /system/lib。thanks

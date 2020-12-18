@@ -1,0 +1,1 @@
+ URL : "https://github.com/rock-learning/bolero/issues/36" TITLE : finish release script BODY : - env.sh should only contain paths based on $autoproj_current_root https://github.com/rock-simulation/pybob/blob/master/environment.py l87 . this should be set the first time you run env.sh.

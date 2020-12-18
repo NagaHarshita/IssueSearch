@@ -1,0 +1,1 @@
+ URL : "https://github.com/geb/issues/issues/503" TITLE : remove fileinput getfile BODY : the values returned from file inputs by various browsers include dummy paths for security reasons to prevent sniffing out directory structure on the host. this makes the value of fileinput getfile questionable.

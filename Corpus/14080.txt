@@ -1,0 +1,1 @@
+ URL : "https://github.com/fwenzel/copy-shorturl/issues/71" TITLE : add bitly support BODY : bitly needs an api token, we can probably accommodate that. we support it for google already.

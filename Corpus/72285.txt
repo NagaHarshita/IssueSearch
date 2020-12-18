@@ -1,0 +1,1 @@
+ URL : "https://github.com/ruby-grape/grape/issues/1577" TITLE : boolean validation fails BODY : params do requires model_name do requires :params1, type: boolean,allow_blank: false, desc: params1 ,values: true end end when this api is called with params1 value as false should return an exception. but grape doesn't returns exception and the api is successfully executed.

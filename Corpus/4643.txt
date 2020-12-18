@@ -1,0 +1,1 @@
+ URL : "https://github.com/jonsey247/Lowbar/issues/8" TITLE : every and some BODY : - no tests for arguments passed to predicate use spies - no tests for objects - no tests for what happens if predicate is not passed

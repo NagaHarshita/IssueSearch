@@ -1,0 +1,1 @@
+ URL : "https://github.com/uber-go/config/issues/10" TITLE : glide.yaml is incorrect BODY : glide.yaml has the wrong package name still says that it's the top-level fx project , and it should be pinned to the v2 branch of github.com/go-validate/validate .

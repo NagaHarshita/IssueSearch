@@ -1,0 +1,1 @@
+ URL : "https://github.com/nozzle/react-static/issues/206" TITLE : how to do url params? BODY : looking at react-router docs, it seems you do path = /order/:id ~ but it try this and can't seem to get it to route to my order component. is this possible with react static?

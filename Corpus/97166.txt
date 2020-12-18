@@ -1,0 +1,1 @@
+ URL : "https://github.com/joffrey-bion/checkstyle-config/issues/2" TITLE : forbid @author javadoc tag BODY : this @author tag needs to be maintained and often becomes a lie. we should rely on git or the vcs in general to track the author of the code. it is better on many aspects for this job.

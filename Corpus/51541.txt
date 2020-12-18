@@ -1,0 +1,1 @@
+ URL : "https://github.com/mzuther/K-Meter/issues/16" TITLE : asio channel disabling BODY : is it possible to disable channels in asio? i can only change the checkboxes for example, choosing output between ch 1-2 or ch 3-4 , but it can not be disabled for a specific channel. in the case i want only get input and no output .

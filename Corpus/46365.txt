@@ -1,0 +1,1 @@
+ URL : "https://github.com/elm-lang/core/issues/851" TITLE : make date comparable? BODY : it would be nice to be able to compare dates, eg. date.fromtime 100000000 < date.fromtime 2000000000000 but currently date isn't a comparable type, making it a bit complicated to do things like having dates as dict keys or sorting dates.

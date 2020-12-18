@@ -1,0 +1,1 @@
+ URL : "https://github.com/Travix-International/frint/issues/215" TITLE : frint-cli: windows support BODY : as noticed by @markvincze, it doesn't work well with frint init in windows.

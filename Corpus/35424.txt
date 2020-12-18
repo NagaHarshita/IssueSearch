@@ -1,0 +1,1 @@
+ URL : "https://github.com/behalf-oss/behave2cucumber/issues/4" TITLE : duration is long now BODY : hi, cucumber test report builder there was an error generating the reports: com.google.gson.jsonsyntaxexception: java.lang.numberformatexception: expected a long but was 0.00011706352233886719 i think cucumber changed their mind about the duration type best regards

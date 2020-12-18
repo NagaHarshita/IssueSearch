@@ -1,0 +1,1 @@
+ URL : "https://github.com/mechpanos/capskeeper/issues/1" TITLE : error installing pyautogui BODY : when installing pyautogui, there is an error and the module is not installed: > importerror: no module named xlib.display

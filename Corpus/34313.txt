@@ -1,0 +1,1 @@
+ URL : "https://github.com/AxioDL/urde/issues/25" TITLE : cannot compile urde. BODY : i try to compile urde. this is the compile log. log.txt https://github.com/axiodl/urde/files/1378606/log.txt cmake: 3.9.3 lmms: 5.0.0 python: 3.6.2

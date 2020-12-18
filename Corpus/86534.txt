@@ -1,0 +1,1 @@
+ URL : "https://github.com/jmbergmann/yogi/issues/7" TITLE : hub does not exit cleanly BODY : strg+c sometimes causes the application to crash. it should do a clean exit instead.

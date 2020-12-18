@@ -1,0 +1,1 @@
+ URL : "https://github.com/facundojmaero/FinalConcurrente/issues/1" TITLE : leer tiempo desde archivo BODY : leer tiempo de cada transicion alfa y beta desde un archivo en lugar de hardcodearlo. ver como lo formatea tina, sino crear convencion propia de archivo y parsearlo.

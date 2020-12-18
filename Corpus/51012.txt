@@ -1,0 +1,1 @@
+ URL : "https://github.com/libratbag/libratbag/issues/271" TITLE : add macro capabilities BODY : add capabilities so a client can detect which macros can be configured on the device. this becomes important when we remove keymapping support to handle that transparently.

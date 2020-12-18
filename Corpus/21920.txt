@@ -1,0 +1,1 @@
+ URL : "https://github.com/amoussard/sftp-deployment/issues/139" TITLE : how can i use sudo BODY : i want sync to a folder which belongs to user 'root', but i have to login as another user. how can i sync files with sudo?

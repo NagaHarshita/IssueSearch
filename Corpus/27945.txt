@@ -1,0 +1,1 @@
+ URL : "https://github.com/koka-lang/madoko/issues/2" TITLE : error rendering pdf BODY : hiya, i'm not sure how this has happened, but this message is being returned from the server: rendering pdf failed: error: c:/texlive/2015/texmf-dist/tex/latex/mdwtools/footnote.sty:170: ! undefined control sequence. l.170 \expandafter\@tempa\@makefntext \@@\@@@ any thoughts?

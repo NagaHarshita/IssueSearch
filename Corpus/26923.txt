@@ -1,0 +1,1 @@
+ URL : "https://github.com/diaspora/diaspora/issues/7665" TITLE : change pod hostname BODY : is there a oportunety to change the hostname / dns-name of a pod corectly? or is the only way to setup a new on and migrate the acounts ? and if you have no time to run the old one for migratin time?

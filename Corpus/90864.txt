@@ -1,0 +1,1 @@
+ URL : "https://github.com/Sensibility/Chat-server/issues/4" TITLE : subproc/thread voip relay BODY : just like text messages, voice packets should be sent in parallel, or the last person to connect to the server will experience tremendous lag.

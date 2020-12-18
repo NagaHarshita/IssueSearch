@@ -1,0 +1,1 @@
+ URL : "https://github.com/datahq/frontend/issues/92" TITLE : showcase per view urls BODY : in progress without any options it is just a showcase page showing the view exact details tbc html option would be for raw iframe embedding /{owner}/{dataset}/v/{view-name-or-index} .png|.html|.svg

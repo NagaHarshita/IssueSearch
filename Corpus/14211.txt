@@ -1,0 +1,1 @@
+ URL : "https://github.com/squeemishly/quantified-self/issues/27" TITLE : add meal to diary BODY : when i click one of the meal buttons under the add selected to header, i should see any checked foods appear in the meal table for the clicked meal.

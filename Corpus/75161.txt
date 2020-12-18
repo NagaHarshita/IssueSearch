@@ -1,0 +1,1 @@
+ URL : "https://github.com/atomist/automation-client-ts/issues/121" TITLE : get rid of localorremote BODY : no longer required as we can pass in the relevant functions to edit and generate functions

@@ -1,0 +1,1 @@
+ URL : "https://github.com/RxNT/react-jsonschema-form-manager/issues/22" TITLE : make managers observable BODY : it's useful to be able to track current state of save, update process outside of the manager. so we should have some kind of external tracking for this.

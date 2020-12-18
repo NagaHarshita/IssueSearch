@@ -1,0 +1,1 @@
+ URL : "https://github.com/Collaborne/kubernetes-aws-resource-service/issues/3" TITLE : manage cloudwatch alarms BODY : this should be fairly similar to the sqs resources, except that we might want to allow to use symbolic names of k8s sns topic/sqs queue resources for the alarm actions references.

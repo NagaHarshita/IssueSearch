@@ -1,0 +1,1 @@
+ URL : "https://github.com/pedoe/Nodejs_Practice/issues/4" TITLE : cache id selector BODY : var page_link = $ '.page_link' ;

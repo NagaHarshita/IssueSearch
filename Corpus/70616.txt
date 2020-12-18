@@ -1,0 +1,1 @@
+ URL : "https://github.com/weewx/weewx/issues/242" TITLE : wmr200 pressure reading BODY : just trying to figure out what setting i am missing for getting wunderground to show my pressure reading. it is using the sensor that came with the station. works fine in windows so i know the sensor works just not getting an output to wunderground.

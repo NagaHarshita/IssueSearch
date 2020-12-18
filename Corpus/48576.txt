@@ -1,0 +1,1 @@
+ URL : "https://github.com/LoicMahieu/react-styled-flexboxgrid/issues/59" TITLE : server side rendering BODY : is it possible to do server side rendering? i've tried using the methods documented here https://www.styled-components.com/docs/advanced server-side-rendering , but the returned elements are empty.

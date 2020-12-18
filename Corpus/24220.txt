@@ -1,0 +1,1 @@
+ URL : "https://github.com/tarbell-project/tarbell/issues/452" TITLE : show build process BODY : building a big site can be slooooow i know because i keep building them . would be nice to see what's happening. here's how to do it with click: http://click.pocoo.org/5/utils/ showing-progress-bars

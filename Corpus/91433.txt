@@ -1,0 +1,1 @@
+ URL : "https://github.com/graphhopper/graphhopper/issues/940" TITLE : too many property objects BODY : the current state is a bit confusing. we have algorithmoptions, pmap map<string, string> , hintsmap extends pmap and configmap map<string, object> . maybe we can merge pmap and configmap somehow and also algorithmoptions with hintsmap?

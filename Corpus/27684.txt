@@ -1,0 +1,1 @@
+ URL : "https://github.com/easymock/easymock/issues/192" TITLE : drop java 5 support BODY : java 5 being quite old now and everything around now supporting it anymore including java 9, i think we can now consider dropping it.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ueberauth/guardian/issues/308" TITLE : v1 - load resource plug BODY : the load resource plug needs to be moved over to be compatible with v1. ideally the load resource plug would take an option that allowed it to also provide the functionality of the ensure resource plug if required. the options that need to be handled are: key

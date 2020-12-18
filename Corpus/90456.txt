@@ -1,0 +1,1 @@
+ URL : "https://github.com/drtshock/Essentials/issues/1163" TITLE : shout format placeholders BODY : add prefix, suffix and name placeholders to shoutformat message. it's impossible to customize shout messages, if u use prefixes and suffixes from essentialschat .

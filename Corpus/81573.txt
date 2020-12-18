@@ -1,0 +1,1 @@
+ URL : "https://github.com/danielstjules/jsinspect/issues/48" TITLE : --no-diff for 2 instances BODY : in the default reporter when there are 2 instances of a match and the --no-diff flag is on, you can't see where the problem is. occurrences are not listed.

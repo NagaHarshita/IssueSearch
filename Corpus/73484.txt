@@ -1,0 +1,1 @@
+ URL : "https://github.com/php-censor/php-censor/issues/123" TITLE : create pagination helper BODY : create pagination helper instead of this code https://github.com/php-censor/php-censor/blob/master/src/phpcensor/view/project/view.phtml l120 . related issue 85.

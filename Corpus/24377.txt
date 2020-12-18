@@ -1,0 +1,1 @@
+ URL : "https://github.com/24eme/monactivite/issues/1" TITLE : sqlite par défaut BODY : afin de faciliter la découverte du logiciel, il serait plus intéressant que par défaut, il soit configuré pour fonctionner avec sqlite. il faudrait donc : - ajouter la dépendance dans composer - preconfigurer le parameter.yml et config.yml pour sqlite au lieu de mysql

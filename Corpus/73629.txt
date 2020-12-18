@@ -1,0 +1,1 @@
+ URL : "https://github.com/SublimeLinter/SublimeLinter3/issues/574" TITLE : custom paths not working BODY : i have linuxbrew on ubuntu 17, i installed python, rbenv and node with brew, when i try to use css, js python linters, the path of my installations aren't located, but when i open the settings file and save, automatically load the linter plugins

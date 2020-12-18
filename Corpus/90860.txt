@@ -1,0 +1,1 @@
+ URL : "https://github.com/wurstmeister/kafka-docker/issues/152" TITLE : submit as official image? BODY : this kafka image seems to be the most popular and full-featured one available. i think it would make a great official image! 😄 refs: https://github.com/docker-library/official-images https://docs.docker.com/docker-hub/official_repos/

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Unchapped/FancyDelay/issues/1" TITLE : fix overflow bug in ready BODY : fix issue identified in this forum post: http://forum.arduino.cc/index.php?topic=467148.0 possibly subtract now from next and cast to a signed integer, comparing to 0, so the math handles overflows elegantly.

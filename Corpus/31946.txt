@@ -1,0 +1,1 @@
+ URL : "https://github.com/rstats-db/DBItest/issues/116" TITLE : test schema support BODY : - add tweak extra.schema = list - these schemas at least must be returned by dblistschemas - creating identifiers in this schema is tested - writing and reading to/from these schemas, as well as listing tables, is tested

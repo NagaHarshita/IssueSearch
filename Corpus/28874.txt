@@ -1,0 +1,1 @@
+ URL : "https://github.com/gliffy/canvas2svg/issues/63" TITLE : image opacity + fix BODY : image opacity can be easily supported by adding the last line here: } else if image.nodename === canvas || image.nodename === img { //canvas or image svgimage = this.__createelement image ; svgimage.setattribute opacity , this.globalalpha || 1 ;

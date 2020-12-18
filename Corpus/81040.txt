@@ -1,0 +1,1 @@
+ URL : "https://github.com/twbs/bootstrap/issues/23411" TITLE : variable changes in beta BODY : i can see that many vairables has different names. ex there is no: $btn-info-color , $btn-info-border , $cursor-disabled , $input-padding-x , $input-bg-disabled , $input-border-focus whre can i find new variable names?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/chauncy-crib/tagprobot/issues/128" TITLE : sanitize gettarget BODY : it needs some documentation inside the function and unit tests. i'm not sure i'm convinced it is doing what we think it is doing.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/vmware/harbor/issues/1624" TITLE : refactor prepare script BODY : it's too long and not flexible enough, may need to refactor it

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/CNTK/issues/2293" TITLE : yolo model support? BODY : i came across https://github.com/pjreddie/darknet/wiki/yolo:-real-time-object-detection and it looks quite good; is there any chance that cntk will get support for this approach?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/stafyniaksacha/is-realy-primitive/issues/10" TITLE : missing es6 symbols BODY : bug description version: 1.0.0 symbols are not supported by this library step to reproduce javascript const isprimitive = require 'is-really-primitive' const mysymbol = symbol 'foo' isprimitive mysymbol // false but should be true

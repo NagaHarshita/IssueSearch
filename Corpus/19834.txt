@@ -1,0 +1,1 @@
+ URL : "https://github.com/jippi/hashi-ui/issues/354" TITLE : alb for websockets BODY : aws's new-ish application load balancer supports websockets, so a tcp listener on an elb is no longer necessary.

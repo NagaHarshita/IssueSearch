@@ -1,0 +1,1 @@
+ URL : "https://github.com/hamoid/video_export_processing/issues/45" TITLE : setffmpegpath method BODY : hi. i am developing a program and would like to include ffmpeg with it, so that the user doesn't have to choose the ffmpeg path manually. i have already posted this suggestion on the forum thread, but it seems like it never got implemented.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/zentrick/iab-vast-parser/issues/33" TITLE : support for vast 1.0? BODY : do we want to add support for vast 1.0 or not? the current codebase fails on parsing the iab vast 1.0 demo documents.

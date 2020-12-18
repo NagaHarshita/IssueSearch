@@ -1,0 +1,1 @@
+ URL : "https://github.com/jens-meiss/blog/issues/50" TITLE : cleanup package path BODY : package prefix like maven projects: com.github.jens-meiss.blog.api. com.github.jens-meiss.blog.client. com.github.jens-meiss.blog.server. <!--- @huboard:{ order :6.990906366816274, milestone_order :6.991605457452955} -->

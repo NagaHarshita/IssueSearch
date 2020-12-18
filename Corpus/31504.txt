@@ -1,0 +1,1 @@
+ URL : "https://github.com/E2OpenPlugins/e2openplugin-OpenWebif/issues/566" TITLE : small settings flaw BODY : enable http auth then disable https auth then disable https -> you will see the problem

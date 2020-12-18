@@ -1,0 +1,1 @@
+ URL : "https://github.com/han41858/Angular-Development-with-TypeScript/issues/12" TITLE : 소스 코드 질문? BODY : p.377 코드 7.15 ts ... }, {}, equalvalidator } ; }, equalvalidator formgroup 생성자의 두번째 인자에 유효성 검사기를 넣고, 세번째에 비동기 유효성 검사기를 넣는다고 설명이 있는데요. 두번째 인자로 equalvalidator가 들어가야 하는 것이 아닌가요?

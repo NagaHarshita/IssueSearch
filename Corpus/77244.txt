@@ -1,0 +1,1 @@
+ URL : "https://github.com/Raindeer44/jmthornton/issues/79" TITLE : move render-blocking css BODY : 76 may help with this. would be good to pull navigation and landing css to the top, and defer the rest.

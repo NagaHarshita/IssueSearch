@@ -1,0 +1,1 @@
+ URL : "https://github.com/StevenHickson/PiAUISuite/issues/86" TITLE : no audio from voicecommand BODY : hi i have one raspberry pizero with an usb card for audio. into jessie its all ok and everything work fine but when i start to configure voicecommand no audio in and no audio out ... anyone can help me?

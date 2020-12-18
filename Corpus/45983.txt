@@ -1,0 +1,1 @@
+ URL : "https://github.com/go-ozzo/ozzo-routing/issues/36" TITLE : json default charset? BODY : hi! how to set default charset utf-8 for json writer? by default i see: http/1.1 200 ok content-type: application/json date: tue, 16 may 2017 16:55:58 gmt transfer-encoding: chunked

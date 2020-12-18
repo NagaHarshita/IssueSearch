@@ -1,0 +1,1 @@
+ URL : "https://github.com/tweekmonster/braceless.vim/issues/37" TITLE : g doesn't work? BODY : the binding of g http://vimdoc.sourceforge.net/htmldoc/tagsrch.html g to :tselect doesn't seem to work after installing this plugin? is this expected? i'd love to have both since i use tags quite often.

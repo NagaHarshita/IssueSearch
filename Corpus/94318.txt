@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpusCapita/invoice/issues/176" TITLE : calculate match percentage BODY : very simple calculation for match%. make some logic/algorithm to calculcate this value. old oci might give some example how to calculate this. compare value to these columns: - productid weight 50% - totalnetprice weight 50%

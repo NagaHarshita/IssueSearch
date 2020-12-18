@@ -1,0 +1,1 @@
+ URL : "https://github.com/DecentralVan/dctrl-admin/issues/19" TITLE : bounty history page BODY : want to display who claimed when and for how much. /src/components/bounty is set up for this. need to design the ui on the bounties and the routing.

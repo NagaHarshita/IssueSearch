@@ -1,0 +1,1 @@
+ URL : "https://github.com/skroutz/rafka/issues/22" TITLE : memory leak in consumer BODY : it seems that resident memory grows a lot when consuming in a tight loop. needs investigation.

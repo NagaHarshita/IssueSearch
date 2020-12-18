@@ -1,0 +1,1 @@
+ URL : "https://github.com/facebook/infer/issues/604" TITLE : function specs missing BODY : hi, in the spec folder, there are no specs for some functions in the source file. is it possible to troubleshoot why it happens? thanks, shaobo

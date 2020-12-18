@@ -1,0 +1,1 @@
+ URL : "https://github.com/berezovskyi/oslc4net/issues/7" TITLE : sample not complie BODY : <b>cayrong codeplex </b> <br />hi, i download the sample using github but i can't compile it, the nuget keep failing to retrieve missing packages. i''ve tried to compile it using vs 2010 amp 2012 none works. thanks

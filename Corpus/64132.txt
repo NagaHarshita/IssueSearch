@@ -1,0 +1,1 @@
+ URL : "https://github.com/ofi-cray/libfabric-cray/issues/1173" TITLE : fix fabric direct build BODY : some prototypes in gnix headers don't match the direct header prototypes.

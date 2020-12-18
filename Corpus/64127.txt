@@ -1,0 +1,1 @@
+ URL : "https://github.com/cfpb/hmda-platform-ui/issues/914" TITLE : fix edits nav highlight BODY : currently, tabbing to /clicking on one of the link items doesn't surround it fully with the highlight.

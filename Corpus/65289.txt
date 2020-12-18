@@ -1,0 +1,1 @@
+ URL : "https://github.com/andrewmile/FMLaravel/issues/12" TITLE : incompatible with php 7 BODY : php 7 doesn't like the class filemaker with a function named filemaker. kolotic/filemaker-api is namespaced and php 7 ready. i suggest dumping your api in favor if it.

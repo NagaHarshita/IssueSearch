@@ -1,0 +1,1 @@
+ URL : "https://github.com/restic/restic/issues/787" TITLE : -q has no effect on forget BODY : output of restic version restic 0.4.0 compiled with go1.7.5 on linux/amd64 expected behavior no output actual behavior same output as without -q steps to reproduce the behavior 1. run forget your forget-policy -q on your repo

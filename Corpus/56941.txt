@@ -1,0 +1,1 @@
+ URL : "https://github.com/PineappleStudios/Super-Pong/issues/13" TITLE : paddle feedback on hit BODY : each time the ball hits a paddle, the paddle should flare up with a sprite, giving visual and audio feedback that the ball was hit.

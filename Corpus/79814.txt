@@ -1,0 +1,1 @@
+ URL : "https://github.com/neptunejs/react-mf/issues/2" TITLE : stylesheet is not loaded BODY : we should be able to render molecules like so4 -- where the 4 is just under the 2-. the stylesheet is there but appears not to be loaded.

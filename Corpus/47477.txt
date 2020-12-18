@@ -1,0 +1,1 @@
+ URL : "https://github.com/AceXintense/PHPCast/issues/23" TITLE : phpcast: user system. BODY : create a user system for phpcast where when someone signs in it downloads all of there requested songs to the drive. when the user signs out the drive should clear.

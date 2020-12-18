@@ -1,0 +1,1 @@
+ URL : "https://github.com/matthewwall/weewx-meteotemplate/issues/4" TITLE : barometer not working BODY : my pressure info isn't being sent from weewx to meteotemplate. all other data seems to be working fine. i am using an acurite station. site is auroraweather.net

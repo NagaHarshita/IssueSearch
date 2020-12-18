@@ -1,0 +1,1 @@
+ URL : "https://github.com/nrc/rls-analysis/issues/87" TITLE : doc links for primitives BODY : need to be primitive rather than type . cc https://github.com/nrc/rls-analysis/pull/85 can probably be hacked fairly easily by hard-coding a list of primitives.

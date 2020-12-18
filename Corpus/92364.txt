@@ -1,0 +1,1 @@
+ URL : "https://github.com/umts/st-pax/issues/23" TITLE : why do users need emails? BODY : i don't see them used anywhere. since users missing them are invalid from access, may as well remove the attribute and validation if we don't need it for anything.

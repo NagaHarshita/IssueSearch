@@ -1,0 +1,1 @@
+ URL : "https://github.com/seisatsu/Driftwood/issues/183" TITLE : generic keybind names BODY : split from 156. currently all keybind names start with sdlk , which is extraneous and glues us to one platform. we should make a translation table with simpler names.

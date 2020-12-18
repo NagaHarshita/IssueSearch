@@ -1,0 +1,1 @@
+ URL : "https://github.com/BoilerMake/frontend/issues/53" TITLE : no ie11 compatibility BODY : ie11 errors out with: object doesn't support property or method 'includes'

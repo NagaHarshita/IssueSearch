@@ -1,0 +1,1 @@
+ URL : "https://github.com/alliance-pcsg/primo-explore-report-problem/issues/9" TITLE : refactor as component BODY : need to make this thing its own component so it can be used in e.g. the central package.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ergonomica/ergonomica/issues/102" TITLE : add tail-call optimization BODY : add tail-call optimization for ergonomica functions. since the language is purely functional, it's important that the language be capable of larger structures.

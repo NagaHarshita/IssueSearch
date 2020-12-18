@@ -1,0 +1,1 @@
+ URL : "https://github.com/jmalloc/grit/issues/36" TITLE : add create command. BODY : accepts the same parameters as 'clone' but inits a new empty repo and sets up the remote. perhaps later it could create the repo through gh/bitbucket apis, but the hub command can do this anyway for gh obviously .

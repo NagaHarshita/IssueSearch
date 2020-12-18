@@ -1,0 +1,1 @@
+ URL : "https://github.com/choria-io/go-choria/issues/81" TITLE : keep stats and expose BODY : keep stats using the https://github.com/rcrowley/go-metrics library: adapters federation brokers network server expose those via the expvar method for now, later we'll do graphite, prometheus etc

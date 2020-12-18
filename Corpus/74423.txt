@@ -1,0 +1,1 @@
+ URL : "https://github.com/posva/vim-vue/issues/56" TITLE : error opening .vue files BODY : i am not using typescript but receive this error when opening any .vue file error detected while processing ~/.config/nvim/plugged/vim-vue/syntax/vue.vim: line 53: e484: can't open file syntax/typescript.vim

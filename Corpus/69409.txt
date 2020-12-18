@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/vscode/issues/35025" TITLE : tasks: support snippets BODY : refs: 34953 1. open tasks.json and trigger inteli-sense inside the tasks array 2. notice there are no suggestions, imho snippets would make this editing experience nicer

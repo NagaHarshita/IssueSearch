@@ -1,0 +1,1 @@
+ URL : "https://github.com/sonata-nfv/son-tests/issues/234" TITLE : deploy 1 vnf 1 pop BODY : create a job that deploy 1 vnf in 1 pop using openstack and test the service.

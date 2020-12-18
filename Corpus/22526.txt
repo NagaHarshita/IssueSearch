@@ -1,0 +1,1 @@
+ URL : "https://github.com/ImageStyle/ImStyle/issues/37" TITLE : load image scaling BODY : it looks like images loaded from the photo library are being stretched vertically. it's great looking skinnier, but i think we should try to display the images as close as possible to the original image.

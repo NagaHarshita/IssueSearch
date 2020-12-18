@@ -1,0 +1,18 @@
+ URL : "https://github.com/Zimmi48/bugzilla-test-2/issues/1657" TITLE : priorité des casts BODY : note: the issue was created automatically with bugzilla2github tool original bug id: bz 99
+date: 2001-11-21 11:26:18 +0100
+from: eduardo.gimenez@trusted-logic.fr
+reported version: 8.1 last updated: 2001-11-21 11:26:18 +0100 eduardo.gimenez@trusted-logic.fr on 2001-11-21 11:26:18 +0100 full_name: version: cvs version 16/11:2001
+os: submission from: mailhost.trusted-logic.fr 194.250.150.5 dans la v7 il faut toujours encercler les casts avec des parenthèses
+dans les branches d'un cases. exemple: ===========================================
+parameter a1,a2,f,b,c : set.
+parameter f1 : f -> a1 -> b.
+parameter f2 : f -> a2 -> c.
+parameter h : b -> c.
+coercion h : b >-> c.
+inductive t : set := c1 : a1 -> t | c2 : a2 -> t. definition f frm0:f; bcode:t : c :=
+cases bcode of
+| c1 bcode => f1 frm0 bcode ::c
+| c2 bcode => f2 frm0 bcode ::c
+end.
+syntax error: 'end' expected after ne_eqn_list in constr.constr1 ================================================= eduardo.gimenez@trusted-logic.fr on 2007-07-04 17:03:04 +0200 que faut-il penser de ce changement de la v7 par rapport à la v6.3.1 ?
+fixed

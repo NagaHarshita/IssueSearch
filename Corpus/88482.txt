@@ -1,0 +1,1 @@
+ URL : "https://github.com/RoboCup-Humanoid-TC/GameController/issues/65" TITLE : no second half in drop-in BODY : drop-in games do not allow for a second half, but they should. same procedure as in normal games two half times with 5 minutes in between . this is a severe bug.

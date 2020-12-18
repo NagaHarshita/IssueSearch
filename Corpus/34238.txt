@@ -1,0 +1,1 @@
+ URL : "https://github.com/HotKeyIt/ahkdll/issues/11" TITLE : can't build properly BODY : hi, i can't build self-contained file with the new version of your codes it prompts an error msg from postbuild.ahk 'regexclass' could you check this issue?

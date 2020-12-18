@@ -1,0 +1,1 @@
+ URL : "https://github.com/cosmocode/dokuwiki-plugin-prosemirror/issues/9" TITLE : how to handle sublists BODY : todo - how to create sublists see also 8 - these have to close the current paragraph and then add themselves - how to create sublists with a keymap space in dokuwiki - how to convert on list-type to another - dokument what has been learned on dokuwiki

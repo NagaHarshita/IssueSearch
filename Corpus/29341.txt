@@ -1,0 +1,1 @@
+ URL : "https://github.com/erikd/libsndfile/issues/347" TITLE : libsndfile for .net BODY : i'm about to finish a wrapper for .net, i've implemented everything but opening a file descriptor since it crashes no matter what i try. do you happen by chance to have some test files i can throw at it ? i am looking for files containing these special chunks : rf64, cart and so on thanks !

@@ -1,0 +1,1 @@
+ URL : "https://github.com/AdguardTeam/AdguardAssistant/issues/3" TITLE : change the project layout BODY : src - userscript code gruntfile , compile tasks and such -- move to the root.

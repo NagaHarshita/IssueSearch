@@ -1,0 +1,1 @@
+ URL : "https://github.com/bearpaw/pytorch-pose/issues/20" TITLE : cocoscale not defined BODY : when i am running gen_coco.m. i got the cocoscale not find error. it seems not in the official coco matlab api. where can i find it?

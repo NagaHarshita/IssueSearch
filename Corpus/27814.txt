@@ -1,0 +1,14 @@
+ URL : "https://github.com/andybotting/xbmc-addon-abc-iview/issues/2662" TITLE : end-user bug report BODY : automatic bug report from end-user. environment plugin name: abc iview plugin id: plugin.video.abc_iview plugin version: 1.8.0 xbmc/kodi version: 14.2 git:7cc53a9 python version: 2.7.3 default, jun 26 2015, 03:22:54 gcc 4.9.2 operating system: linux2 linux 3.10.80 armv7l ip address: 101.166.130.188 isp : telstra internet python path: /storage/.kodi/addons/plugin.video.abc_iview
+/storage/.kodi/addons/script.common.plugin.cache/lib
+/storage/.kodi/addons/script.module.beautifulsoup/lib
+/storage/.kodi/addons/script.module.requests/lib
+/usr/lib/python27.zip
+/usr/lib/python2.7
+/usr/lib/python2.7/plat-linux2
+/usr/lib/python2.7/lib-tk
+/usr/lib/python2.7/lib-old
+/usr/lib/python2.7/lib-dynload
+/usr/lib/python2.7/site-packages
+/usr/lib/python2.7/site-packages/pil
+/usr/lib/python2.7/site-packages/gtk-2.0
+/storage/.kodi/addons/plugin.video.abc_iview/resources/lib traceback traceback most recent call last : file /storage/.kodi/addons/plugin.video.abc_iview/resources/lib/play.py , line 45, in play p.parse_xbmc_url url file /storage/.kodi/addons/plugin.video.abc_iview/resources/lib/classes.py , line 358, in parse_xbmc_url timestamp = time.mktime time.strptime d 'date' , '%y-%m-%d %h:%m:%s' importerror: failed to import _strptime because the import lockis held by another thread. full xbmc.log https://gist.github.com/02aaf36f59ad8a859869081f1d88c4d8

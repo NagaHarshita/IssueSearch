@@ -1,0 +1,1 @@
+ URL : "https://github.com/nina-roth/Minesweeper/issues/3" TITLE : main window layout BODY : the size of the grid cells and the size of the main window are currently coupled in a not very straightforward way, leading to 1 spurious white-space or 2 the window overlapping the grid cells both can be fixed by manually resizing in each case, but it's ugly :

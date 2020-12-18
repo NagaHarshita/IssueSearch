@@ -1,0 +1,1 @@
+ URL : "https://github.com/satyan/sugar/issues/716" TITLE : get path to sqlite file BODY : i am looking to sync my sugar orm sqlite file to dropbox. to do this i need to get the path to the sqlite file. is this possible?

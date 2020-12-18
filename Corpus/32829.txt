@@ -1,0 +1,1 @@
+ URL : "https://github.com/madoublet/respond/issues/491" TITLE : wrong link og:image BODY : when i try to post an article sur facebook, it doesn't show the picture. if i look into the html code, there is the relative path of the picture. in my opinion facebook can not read the relative url, it need the whole path, www.mysite.de/img/pic1.jpg . thanks for a fix.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/arunpersaud/e-Doko/issues/56" TITLE : cron jobs config option BODY : add an option to the config file if cron jobs are used or not... this should enable/disable for example the digest option in the pref-menu original creation date in redmine: 2010-03-01 07:39:05 by arun persaud

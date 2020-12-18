@@ -1,0 +1,1 @@
+ URL : "https://github.com/gfx-rs/genmesh/issues/47" TITLE : hard normals option BODY : i need the smoothing to be configurable by a flag. currently, normals of cylinder and sphere are smoothed.

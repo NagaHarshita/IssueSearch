@@ -1,0 +1,1 @@
+ URL : "https://github.com/edmundnoble/cats-mtl/issues/8" TITLE : missing syntax classes BODY : the following is a list of type classes with unimplemented or mostly unimplemented syntax files: - applicativehandle no file - functortell missing utility methods - functorlisten missing new utility methods - monadlift no file

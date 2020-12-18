@@ -1,0 +1,1 @@
+ URL : "https://github.com/uc-cfss/Discussion/issues/44" TITLE : question about multidplyr BODY : dear all: i try to install the package: multidplyr, in my computer. however, it shows that it's not available for r version 3.4.0. how to deal with this problem? thanks, arthur

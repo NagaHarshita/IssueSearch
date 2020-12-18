@@ -1,0 +1,1 @@
+ URL : "https://github.com/tidyverse/ggplot2/issues/2362" TITLE : reprex link outdated BODY : the issue template links to https://github.com/jennybc/reprex what-is-a-reprex, but it should be https://github.com/tidyverse/reprex reprex i think .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mapd/mapd-core/issues/140" TITLE : upgrade llvm to 5.0 BODY : ideally this would be ifdef'd to also work with prior releases 3.9 and 4.0, enabling extended field testing with 5.0.

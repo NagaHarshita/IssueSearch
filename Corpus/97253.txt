@@ -1,0 +1,1 @@
+ URL : "https://github.com/zenoamaro/react-quill/issues/181" TITLE : future react compatibility BODY : opening this issue to discuss the changes coming in react 16: - createclass will be moved to a separate module. we'll have to add it is a dependency if we want to keep using the mixin approach. related: - https://facebook.github.io/react/blog/2017/04/07/react-v15.5.0.html

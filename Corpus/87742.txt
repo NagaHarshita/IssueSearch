@@ -1,0 +1,1 @@
+ URL : "https://github.com/PantherHackers/PantherBot/issues/41" TITLE : make pugbomb cache images BODY : pugbomb should cache images and thus avoid making a call reddit api each time it is called

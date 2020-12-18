@@ -1,0 +1,1 @@
+ URL : "https://github.com/fralx/LimeReport/issues/67" TITLE : build without zint BODY : is there supposed to be a way to build without zint? at the top of common.pri: config += zint which means there's really no way to leave it out without editing limereport's qmake files.

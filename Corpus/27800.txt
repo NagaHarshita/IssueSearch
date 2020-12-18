@@ -1,0 +1,14 @@
+ URL : "https://github.com/xbmc-catchuptv-au/plugin.video.sbs/issues/997" TITLE : end-user bug report BODY : automatic bug report from end-user. environment plugin name: sbs on demand plugin id: plugin.video.sbs plugin version: 1.1.0 xbmc/kodi version: 17.1 python version: 2.7.9 default, aug 13 2016, 18:15:29 gcc 4.9.2 operating system: linux2 linux 4.4.27-9-osmc armv7l ip address: 49.191.147.165 d49-191-147-165.mas2.nsw.optusnet.com.au isp : optus python path: /home/osmc/.kodi/addons/plugin.video.sbs
+/home/osmc/.kodi/addons/script.common.plugin.cache/lib
+/home/osmc/.kodi/addons/script.module.beautifulsoup/lib
+/usr/lib/python2.7
+/usr/lib/python2.7/plat-arm-linux-gnueabihf
+/usr/lib/python2.7/lib-tk
+/usr/lib/python2.7/lib-old
+/usr/lib/python2.7/lib-dynload
+/usr/local/lib/python2.7/dist-packages
+/usr/lib/python2.7/dist-packages
+/usr/lib/python2.7/dist-packages/pilcompat
+/usr/lib/python2.7/dist-packages/gtk-2.0
+/home/osmc/.kodi/addons/plugin.video.sbs/resources/lib traceback traceback most recent call last : file /home/osmc/.kodi/addons/plugin.video.sbs/resources/lib/play.py , line 43, in play stream_url = comm.get_stream p.id file /home/osmc/.kodi/addons/plugin.video.sbs/resources/lib/comm.py , line 277, in get_stream resp = fetch_protected_url config.stream_url % program_id file /home/osmc/.kodi/addons/plugin.video.sbs/resources/lib/comm.py , line 110, in fetch_protected_url return fetch_url url, headers file /home/osmc/.kodi/addons/plugin.video.sbs/resources/lib/comm.py , line 77, in fetch_url raise fail_exception
+urlerror: <urlopen error timed out> full log https://gist.github.com/dda145200be02858dacbb26a95e4eb7b

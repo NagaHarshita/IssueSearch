@@ -1,0 +1,1 @@
+ URL : "https://github.com/floscha/pewdieplot/issues/5" TITLE : general legend function BODY : right now every graph implementation has its on _legends _ function. instead the graph class should have a general function that works for all sub types.

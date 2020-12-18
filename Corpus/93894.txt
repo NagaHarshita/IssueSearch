@@ -1,0 +1,1 @@
+ URL : "https://github.com/thorfour/stocktopus/issues/11" TITLE : authtopus redirect for gcp BODY : the 302 response sent from authtopus.js for gcp doesn't actually cause a redirect to happen. need to figure out how to get the redirect to happen on gcp

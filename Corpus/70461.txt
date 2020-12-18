@@ -1,0 +1,1 @@
+ URL : "https://github.com/timbroadwater/uxbiases/issues/3" TITLE : we need a simple router BODY : we need a simple router, which we can optionally roll without a framework, that renders json that corresponds in some way with the url. for instance, with id or slug.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/QupZilla/qupzilla/issues/2204" TITLE : audio html5 issue BODY : while using vk.com on w 8.1 website doesnt allow to play html5 video/audio content, telling me it need a flash player, tho any other browser play it no problems without it. youtube works just fine, somehow. tried to change user-agent, cleared cashe/cookies, didnt helped

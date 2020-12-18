@@ -1,0 +1,1 @@
+ URL : "https://github.com/WheelBarrow2/maximizeOrOpen/issues/1" TITLE : list out of range BODY : sometimes the script tries to index an item that is not in the range of the list given by wmctrl. cause not found yet, happens rarely. restart of x-server solves the problem

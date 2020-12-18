@@ -1,0 +1,1 @@
+ URL : "https://github.com/JasonPap/Reused-Bitcoin-Numbers/issues/1" TITLE : problems with substing BODY : using ms sql 2016; completed all steps with adding inputscriptid etc., i am having problems with all the; when substring inputscript,4,2 = 0x0214 then substring inputscript,6,20 error for each one; getting invalid column name 'inputscript'

@@ -1,0 +1,1 @@
+ URL : "https://github.com/qinezh/vscode-gitlink/issues/6" TITLE : shorten the url BODY : as you can guess, the url with position can be very long. integrate any shorten url service into the pop up after copy could be a good solution. some well know shorten url service: - http://aka.ms/ - https://goo.gl/ - http://tinyurl.com/

@@ -1,0 +1,1 @@
+ URL : "https://github.com/AKERKits/docs/issues/2" TITLE : clean up .travis.yml BODY : hi! it's great that you're using the particle docs tooling for your project. isn't open source great? could you please remove the slack integration from https://github.com/akerkits/docs/blob/master/.travis.yml l26 because we're seeing your travis build status in the particle slack channel :

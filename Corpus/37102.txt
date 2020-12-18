@@ -1,0 +1,1 @@
+ URL : "https://github.com/Sutto/rocket_pants/issues/148" TITLE : kaminari 1.0 support BODY : hi. a new version of kaminari was released recently and looks like something is broken now. pagination section is missing, kaminari_spec.rb fails now.

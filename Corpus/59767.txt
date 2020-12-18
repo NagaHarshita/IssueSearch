@@ -1,0 +1,1 @@
+ URL : "https://github.com/tmcdonell/lulesh-accelerate/issues/1" TITLE : use indirection arrays BODY : the current implementation makes use of accelerate's multidimensional arrays in order to directly index neighbouring elements, but we should instead use indirection arrays to define the mesh relationship.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/google/jsonnet/issues/377" TITLE : floating point indexes BODY : the interpreter rounds it down instead of throwing an error. example 1: abcd 3/4 result: a example 2: 1, 2, 3 2.5 result: 3 the specification i.e. array-index rule suggests that was unintended.

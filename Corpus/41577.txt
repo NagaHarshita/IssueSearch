@@ -1,0 +1,1 @@
+ URL : "https://github.com/ATotalGit/GrimoireOfGaia/issues/20" TITLE : add 'reference stone' BODY : add an item which, when right clicked on a mob, causes the item to store a reference to that mob. this would then be used for linking a mob to a given smoke signal or for the resurrection ritual.

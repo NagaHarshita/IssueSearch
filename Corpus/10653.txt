@@ -1,0 +1,1 @@
+ URL : "https://github.com/contentful-labs/contentful-go/issues/15" TITLE : create new entry BODY : hi, guys! please, let me know a way how to create a new entry for exists content type, please. i went through source code but i can't find anything to do that.

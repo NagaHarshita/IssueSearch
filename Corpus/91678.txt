@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla/experimenter/issues/126" TITLE : undo nginx static hosting BODY : this makes rapid development of css very time consuming to constnatly have to recollect static assets, let's undo this one.

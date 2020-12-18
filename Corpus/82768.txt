@@ -1,0 +1,1 @@
+ URL : "https://github.com/0x00-0x00/lock/issues/14" TITLE : arguments for the program BODY : this issue is to track about the arguments available to the program -o data output source -i data input source -k key file path -v shows header

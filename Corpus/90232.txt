@@ -1,0 +1,1 @@
+ URL : "https://github.com/dklollol/Olsen-Framework-Arma-3/issues/137" TITLE : scripterror in start_text BODY : only for dedicated server. simple if !isdedicated will fix it.

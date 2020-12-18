@@ -1,0 +1,1 @@
+ URL : "https://github.com/treyhunner/django-simple-history/issues/294" TITLE : link to crate.io is gone BODY : the link to crate.io, in the installation section of the documentation, is gone 410 . in fact, the https://crate.io/packages/ url is completely gone, and it appears crate.io doesn't support python packages anymore .

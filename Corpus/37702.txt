@@ -1,0 +1,1 @@
+ URL : "https://github.com/NYTimes/Store/issues/150" TITLE : mo no op mo problems BODY : 149 raises another interesting issue. if the mem cache is less than a minute the in flight denouncer also needs to be adjusted. secondly the no op persister needs to be migrated to use a guava cache which has same policy as mem cache.

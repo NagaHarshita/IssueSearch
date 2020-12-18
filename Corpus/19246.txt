@@ -1,0 +1,1 @@
+ URL : "https://github.com/jancajthaml/datadog-mock/issues/8" TITLE : 100% test coverage BODY : add test coverage for project, make it 100%. add rule for coveralls to fail build when test coverage is under 80%

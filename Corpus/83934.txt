@@ -1,0 +1,1 @@
+ URL : "https://github.com/cblomart/vsphere-graphite/issues/23" TITLE : config file for diskinfos BODY : allow to manage disk infos via config file eventually also see to extra tags so they could be skipped when not used i.e. no metadata in time serie database

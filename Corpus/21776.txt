@@ -1,0 +1,1 @@
+ URL : "https://github.com/ParabolInc/action/issues/1037" TITLE : google login bug ? BODY : issue - bug when becoming a first-time user, google login option flashes the welcome screen again before placing user in their dashboard, which is confusing depending on user's internet speed--”am i in yet?”

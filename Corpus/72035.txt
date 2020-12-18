@@ -1,0 +1,1 @@
+ URL : "https://github.com/RestComm/mediaserver/issues/586" TITLE : asynchronous rtcp module BODY : create an rtcp module that is asynchronous, non-blocking and deals with concurrency in consistent manner.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/procinger/Magento-WSO2-SAML/issues/2" TITLE : 404 in admin panel BODY : hello, after installation in magento, the module ws02 identity server is availiable in system -> configuration. but after clicking on saml settings there is a 404 page not found any recommendations to fix that problem?

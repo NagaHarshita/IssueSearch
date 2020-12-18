@@ -1,0 +1,1 @@
+ URL : "https://github.com/Codeinwp/themeisle-companion/issues/97" TITLE : move obfx in a new tab BODY : @selul in the next release we can move obfx in a new menu item with template directory as sub-page + maybe a welcome page as well etc. template directory should as well be enabled by default

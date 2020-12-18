@@ -1,0 +1,1 @@
+ URL : "https://github.com/reanahub/reana-cluster/issues/1" TITLE : docs: initial release BODY : similarly to reanahub/reana 6, enhance package structure to introduce: - add initial documentation structure, with license authors, etc - add initial travis ci configuration with docker build

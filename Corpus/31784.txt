@@ -1,0 +1,1 @@
+ URL : "https://github.com/square/javapoet/issues/572" TITLE : support java blocks BODY : to constrain scopes etc. e.g. java void abc { { boolean foo = true; } { boolean foo = false; } }

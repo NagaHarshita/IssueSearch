@@ -1,0 +1,1 @@
+ URL : "https://github.com/ByteInternet/hypernode-vagrant/issues/137" TITLE : reduce grub timeout BODY : starting the vagrant box takes some time of which the gnu grub bootloader amounts to 30 seconds. the waiting time could be reduced significantly by reducing the timeout.

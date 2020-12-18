@@ -1,0 +1,1 @@
+ URL : "https://github.com/vernons123/prj-rev-bwfs-dasmoto/issues/4" TITLE : important - inline styling BODY : https://github.com/vernons123/prj-rev-bwfs-dasmoto/blob/master/dosmoto/index.html l16 try to keep all of your styling in one place in the css file. this will make it easier to keep track of everything

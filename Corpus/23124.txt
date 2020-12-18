@@ -1,0 +1,1 @@
+ URL : "https://github.com/NodeOS/NodeOS/issues/343" TITLE : nodeos npm account BODY : can we have the nodeos user on npm converted over to a organization? npm recently just made orgs free and packages don't have to be managed by personal accounts. https://www.npmjs.com/~nodeos https://www.npmjs.com/features https://www.npmjs.com/docs/orgs/migrating-a-user-account.html

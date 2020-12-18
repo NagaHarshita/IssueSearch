@@ -1,0 +1,1 @@
+ URL : "https://github.com/opentable/otj-pg-embedded/issues/52" TITLE : where to get pull 31? BODY : i was hoping to be able to make use of the improvement in https://github.com/opentable/otj-pg-embedded/pull/31, but i couldn't find a release in maven with that fix in it. can someone point me to the right place? thanks!

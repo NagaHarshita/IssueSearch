@@ -1,0 +1,1 @@
+ URL : "https://github.com/doggydips/doggydips.co.uk/issues/119" TITLE : travis builds times BODY : speed up travis - git clone depth = 2 to minimise - jekyll build excludes to add scripts and node_modules into the excluded build - they should not appear in _site

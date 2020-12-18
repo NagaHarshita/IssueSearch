@@ -1,0 +1,1 @@
+ URL : "https://github.com/entirc/kanban-board/issues/20" TITLE : exibir atividades do card BODY : esta issue depende da issue 18. podemos uma seção activity para exibir uma lista de todas as alterações feitas num card igual ao trello . substituir seção de comentários criada na issue 18 com essa lista. os comentários serão parte da seção activity .

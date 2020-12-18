@@ -1,0 +1,1 @@
+ URL : "https://github.com/lpil/exfmt/issues/23" TITLE : --stdin flag for cli BODY : extend the current command line offering with a --stdin flag. when this flag is given read the input source code from stdin, format it, and print the outputted style to stdout. this is intended to be used with editor integrations such as https://github.com/sbdchd/neoformat :

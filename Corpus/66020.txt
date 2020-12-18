@@ -1,0 +1,1 @@
+ URL : "https://github.com/bvicinay/peter-pettigrews/issues/8" TITLE : m4 logout and canceling BODY : add functionality to cancel logins. add back button or other way to back out of login. once in the application there needs to be a way to logout. this should bring the user back to the welcome / opening page.

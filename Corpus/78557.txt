@@ -1,0 +1,1 @@
+ URL : "https://github.com/MozillaFoundation/Advocacy/issues/820" TITLE : qa: form error treatment BODY : error message currently reads please_complete , and isn't visually related to the relevant field. @beccaklam to determine appropriate treatment

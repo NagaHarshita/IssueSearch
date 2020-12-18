@@ -1,0 +1,1 @@
+ URL : "https://github.com/t2ym/thin-hook/issues/109" TITLE : hook 'in' operator for acl BODY : hook in operator for acl javascript 'p' in o; __hook__ 'in', o, 'p' , 'context' ; // hooked

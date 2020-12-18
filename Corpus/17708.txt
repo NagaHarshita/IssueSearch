@@ -1,0 +1,1 @@
+ URL : "https://github.com/mikepan/GameEngineBook/issues/14" TITLE : refresh chapter 7 BODY : things to do includes: - format to proper markdown - update content to reflect newest blender - rewrite, add or remove content as needed. - don't worry too much about image layout for now, the plan is to use jekyll to render a nicely formatted version for viewing

@@ -1,0 +1,1 @@
+ URL : "https://github.com/gocd-contrib/docker-swarm-elastic-agents/issues/42" TITLE : option to map volumes BODY : i need to map /var/run/docker.sock into agent container. your agents probably do not execute docker commands?

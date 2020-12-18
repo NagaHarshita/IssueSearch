@@ -1,0 +1,1 @@
+ URL : "https://github.com/aureolacodes/drupal-kitchen-sink/issues/2" TITLE : add custom template BODY : kitchen sink should override the used page template to remove any unwanted parts except for the raw content. either we can add an example page-kitchen-sink.tpl.twig or we can override the template used entirely.

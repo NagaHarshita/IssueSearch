@@ -1,0 +1,1 @@
+ URL : "https://github.com/stan-dev/math/issues/568" TITLE : test and doc fwd/core BODY : summary: create the rest of the tests and docs for operations defined in fwd/core and maybe more . description: we need test and doc. current version: v2.16.0

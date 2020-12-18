@@ -1,0 +1,1 @@
+ URL : "https://github.com/pughpugh/react-countdown-clock/issues/23" TITLE : centering the clock BODY : hello, i have a question/ issue about the clock not being able to center correctly due to what seems the absolute positioning of the second <canvas?> element. is there any clear way to fix this or adjust to what i need? thank you.

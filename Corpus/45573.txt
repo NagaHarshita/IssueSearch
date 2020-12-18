@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/TypeScript/issues/14354" TITLE : import support alias? BODY : i write code like this: ! image https://cloud.githubusercontent.com/assets/5728399/23394992/22eff4c8-fdc7-11e6-8995-5bcdeb92e7b7.png i want to code like this: ts import db from '! src/common/db/db'; import config from '! src/common/config/config';

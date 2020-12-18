@@ -1,0 +1,1 @@
+ URL : "https://github.com/arenarium/battleground/issues/106" TITLE : reset in game runner BODY : why is self.game_engine.reset commented out in game_runner.py?

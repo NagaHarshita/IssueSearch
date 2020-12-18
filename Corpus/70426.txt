@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/vscode/issues/24295" TITLE : vue syntax highlighting BODY : test tour 23385 declaring the vue language and having basic syntax highlighting would make this look much better out-of-the-box.

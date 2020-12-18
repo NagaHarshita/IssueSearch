@@ -1,0 +1,1 @@
+ URL : "https://github.com/yigit/android-priority-jobqueue/issues/401" TITLE : android oreo 8.0 support ? BODY : is this library supporting new behavior changes about background execution limits in android 8.0 oreo ? and can be integrated with jobscheduler well in android 8.0 ?

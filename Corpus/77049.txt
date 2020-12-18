@@ -1,0 +1,1 @@
+ URL : "https://github.com/ArionMiles/Zooqle-qBittorrent-Plugin/issues/4" TITLE : missing else if not gzip BODY : if dat :2 == '\037\213': data is gzip encoded, decode it compressedstream = stringio.stringio dat gzipper = gzip.gzipfile fileobj=compressedstream extracted_data = gzipper.read dat = extracted_data return dat return dat ------ new line

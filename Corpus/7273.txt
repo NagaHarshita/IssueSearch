@@ -1,0 +1,1 @@
+ URL : "https://github.com/cpmpercussion/microjam/issues/26" TITLE : export to video BODY : for integration with messages/social media, it would be good to have a way to export to video - not sure where to start with this. would at least require a few classes to handle gathering together the performances in a string of replies, rendering frames and adding in audio.

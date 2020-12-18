@@ -1,0 +1,1 @@
+ URL : "https://github.com/nandomaciel/matrix/issues/3" TITLE : falha de segmentação BODY : verificar o que leva a falha de segmentação na função void matrizes int argc, char argv ;

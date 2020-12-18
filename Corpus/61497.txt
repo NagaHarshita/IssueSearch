@@ -1,0 +1,1 @@
+ URL : "https://github.com/go-gitea/gitea/issues/1315" TITLE : autosave in text editor BODY : it would be useful if the web based text editor automatically saved the contents of the file until it is out of date or is commited or canceled. this feature would protect users from accidental refreshes or browser crashes,

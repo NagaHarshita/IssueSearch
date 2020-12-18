@@ -1,0 +1,1 @@
+ URL : "https://github.com/jawish/jquery.gdocviewer/issues/1" TITLE : mime type for tiff? BODY : when i try this with a tiff it just directs the browser to download. not sure if this is due to mime type, or something else. any suggestions on how to make this work with tif?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mezz64/pyHik/issues/3" TITLE : using lts nvr with pyhik BODY : i'm running ha 0.39.3. lts hikvision cmip3022w ip camera - working great. lts hikvision ltn8716t-ht nvr errors with 'problem finding attribute: list index out of range' error.

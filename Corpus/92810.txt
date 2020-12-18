@@ -1,0 +1,1 @@
+ URL : "https://github.com/ceylon/ceylon/issues/7062" TITLE : <replace> in overrides.xml BODY : in this overrides file https://github.com/diegocoronel/ceylon-jboss-swarm/blob/master/ceylon-wildfly-swarm-jaxrs/overrides.xml i believe i should be able to use the commented-out <replace> instead of the <remove> / <add> combination. would you take a look please @fromage?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/purescript/pursuit/issues/340" TITLE : sort by update date BODY : it would be great to be able to sort the packages on pursuit by their most recent update date. this way we can easily see which packages are the most actively maintained without having to view each package individually.

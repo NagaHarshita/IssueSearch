@@ -1,0 +1,1 @@
+ URL : "https://github.com/RichardWarburton/honest-profiler/issues/185" TITLE : add method signatures BODY : it would be nice if the agent was able to report method signature info as well. in the new ui it would be trivial to add aggregation options taking that into account, which is more user-friendly than line numbers.

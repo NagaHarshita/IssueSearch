@@ -1,0 +1,1 @@
+ URL : "https://github.com/ptaranti/coppeCosenzaR/issues/1" TITLE : error in agregation matrix BODY : error in: aggregation-matrix-default.r , line 97 return 0 inexistent change to: return na inexistent according cosenza at all 2015

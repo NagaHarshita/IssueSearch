@@ -1,0 +1,1 @@
+ URL : "https://github.com/ivargrimstad/snoopee/issues/4" TITLE : high cpu load BODY : when deploying the snoopee-service on a payara-full along with the other services the cpu load of the jvm rises to 80%. this happens on a windows 10 and a debian 8 machine, both running java 8.

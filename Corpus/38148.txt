@@ -1,0 +1,1 @@
+ URL : "https://github.com/mountainraptor/bits-key-manager/issues/11" TITLE : notify user on error BODY : most errors are in browser console, send to notification center.

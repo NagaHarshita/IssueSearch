@@ -1,0 +1,1 @@
+ URL : "https://github.com/b3dgs/lionengine/issues/370" TITLE : add icon to setup BODY : currently, setup handle surface, but not icon, even it is provided by the surfaceconfig .

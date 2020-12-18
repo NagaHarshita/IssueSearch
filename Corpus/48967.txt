@@ -1,0 +1,1 @@
+ URL : "https://github.com/tasti/react-linkify/issues/41" TITLE : string not recognized BODY : the following string itunes:bit.ly/oaktsq does not get linkified weheras itunes: bit.ly/oaktsq does. it's a bit ambiguous of course, but do you suggest any option to support it?

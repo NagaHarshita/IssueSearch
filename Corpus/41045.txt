@@ -1,0 +1,1 @@
+ URL : "https://github.com/justiniso/polling/issues/9" TITLE : why import requests? BODY : i am new here, but it seems weird to install something called polling and then all your docs say to import requests . why does this work and is there anything wrong with this implementation?

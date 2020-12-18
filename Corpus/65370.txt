@@ -1,0 +1,1 @@
+ URL : "https://github.com/booksbyus/zguide/issues/687" TITLE : inproc usage speciality BODY : the guide emphasizes that inproc sockets must first be bound and then get connected. reading the changelog, this does not seem to apply any more since zeromq 4.0 rc1 2013 .

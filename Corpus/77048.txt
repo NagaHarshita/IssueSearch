@@ -1,0 +1,1 @@
+ URL : "https://github.com/joseluis/katex_js.dart/issues/2" TITLE : missing dart:html import BODY : it is necessary to import dart:html

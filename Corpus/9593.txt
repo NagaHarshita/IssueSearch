@@ -1,0 +1,1 @@
+ URL : "https://github.com/conda-forge/sanic-feedstock/issues/1" TITLE : 3.6 build failed BODY : you should go to https://circleci.com/gh/conda-forge/sanic-feedstock/2 and hit rebuild at the top-right to try it again. i don't have permissions to do that.

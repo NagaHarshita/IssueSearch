@@ -1,0 +1,1 @@
+ URL : "https://github.com/jakeande/techjobs-console-java/issues/1" TITLE : github issue 3 BODY : in printjobs : 1 clean up the comments, 2 make sure that when there are no results the message to the user says that. also, it looks like some of the comments in jobdata aren't adding anything to readability or are misplaced.

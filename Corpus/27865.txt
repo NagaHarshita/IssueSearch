@@ -1,0 +1,1 @@
+ URL : "https://github.com/danielwertheim/Ensure.That/issues/38" TITLE : ensure.that .value? BODY : was .value removed due to some .net standard limitation? any plans to bring it back i.e. net std 2.0 ? it's a bummer this doesn't appear to work anymore as it was handy: _logger = ensure.that logger, nameof logger .isnotnull .value;

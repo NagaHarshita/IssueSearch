@@ -1,0 +1,1 @@
+ URL : "https://github.com/umap-project/umap/issues/532" TITLE : 502 bad gateway error BODY : http://umap.openstreetmap.fr/ umap sites are returning a 502 error. we are working on a community mapping project that relies desperately on our umap being up and running tomorrow morning. can this be addressed? many thanks, chris

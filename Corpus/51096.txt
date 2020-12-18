@@ -1,0 +1,1 @@
+ URL : "https://github.com/opencontainers/go-digest/issues/16" TITLE : add pullapprove config BODY : we should adopt the pullapprove config shared by other oci projects

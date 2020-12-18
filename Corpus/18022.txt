@@ -1,0 +1,1 @@
+ URL : "https://github.com/wxmaper/PQEngine/issues/2" TITLE : set property text BODY : если объектам имеющим свойство text задавать значение как qstring то свойство имеет значение пустой строки. пример: $qstring = new qstring 'test' ; $label = new qlabel ; $label->text = $qstring; то же самое происходит при передаче qvariant и qbytearray

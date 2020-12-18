@@ -1,0 +1,1 @@
+ URL : "https://github.com/Malow/NQLauncher/issues/3" TITLE : dx version button BODY : this could be as simple as a radio button with the dx options that you can normally launch civ with. is there a way to poll those from the civ launcher itself to build this list? if not, we can just hard code them.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Dubblar/prj-rev-bwfs-dasmoto/issues/3" TITLE : simplify. line lengths BODY : https://github.com/dubblar/prj-rev-bwfs-dasmoto/blob/master/dasmoto/index.html l13 try to keep line lengths to less than 80 characters

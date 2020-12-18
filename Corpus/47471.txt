@@ -1,0 +1,1 @@
+ URL : "https://github.com/Glavin001/atom-beautify/issues/1642" TITLE : php cs fixer comments BODY : description the results of beautification are not what i expect. seems like any comment line causes indention problems. like the beautifier stops indenting after a comment.

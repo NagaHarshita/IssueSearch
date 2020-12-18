@@ -1,0 +1,1 @@
+ URL : "https://github.com/JosephusPaye/Keen-UI/issues/256" TITLE : uibutton ripple problem BODY : when click on button itself ripple works great but when click on button text the ripple starts from unexpected position.

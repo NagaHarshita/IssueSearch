@@ -1,0 +1,1 @@
+ URL : "https://github.com/RemoteDebug/remotedebug-ios-webkit-adapter/issues/46" TITLE : working with simulator? BODY : hi! i wonder if it works with simulator? i've tried with ios 10 simulator and i see an empty list browsing to /json endpoint.

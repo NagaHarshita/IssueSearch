@@ -1,0 +1,12 @@
+ URL : "https://github.com/andybotting/xbmc-addon-afl-video/issues/425" TITLE : end-user bug report BODY : automatic bug report from end-user. environment plugin name: afl video plugin id: plugin.video.afl-video plugin version: 1.6.4 xbmc/kodi version: 17.1-rc1 python version: 2.7.9 default, aug 13 2016, 18:15:29 gcc 4.9.2 operating system: linux2 linux 4.4.27-7-osmc armv7l ip address: 14.203.1.5 14-203-1-5.static.tpgi.com.au isp : tpg internet python path: /home/osmc/.kodi/addons/plugin.video.afl-video
+/home/osmc/.kodi/addons/script.module.beautifulsoup/lib
+/usr/lib/python2.7
+/usr/lib/python2.7/plat-arm-linux-gnueabihf
+/usr/lib/python2.7/lib-tk
+/usr/lib/python2.7/lib-old
+/usr/lib/python2.7/lib-dynload
+/usr/local/lib/python2.7/dist-packages
+/usr/lib/python2.7/dist-packages
+/usr/lib/python2.7/dist-packages/pilcompat
+/usr/lib/python2.7/dist-packages/gtk-2.0
+/home/osmc/.kodi/addons/plugin.video.afl-video/resources/lib traceback traceback most recent call last : file /home/osmc/.kodi/addons/plugin.video.afl-video/resources/lib/videos.py , line 34, in make_list videos = comm.get_videos category file /home/osmc/.kodi/addons/plugin.video.afl-video/resources/lib/comm.py , line 191, in get_videos video = parse_json_live video_asset file /home/osmc/.kodi/addons/plugin.video.afl-video/resources/lib/comm.py , line 114, in parse_json_live video.title = ' color green live now /color {0}'.format video_data.get 'title' unicodeencodeerror: 'ascii' codec can't encode character u'\u2013' in position 12: ordinal not in range 128 full log https://gist.github.com/ca26c9913c4c957730cb44edb948fba6

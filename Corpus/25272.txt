@@ -1,0 +1,1 @@
+ URL : "https://github.com/modjke/hxmlinstall/issues/1" TITLE : what does this do? BODY : i found your lib via twitter. what does it solve? are you aware you can do -lib awesomelib:git:https://github.com/user/repo.git 12345 in hxml to set a dependency from github?

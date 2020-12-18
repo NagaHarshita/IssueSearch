@@ -1,0 +1,1 @@
+ URL : "https://github.com/stephencelis/SQLite.swift/issues/639" TITLE : not null constraint BODY : hey, how can i generate the not null constraint for columns that are not using primary key or unique as constraint? thanks. stavros

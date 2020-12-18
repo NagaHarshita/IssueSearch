@@ -1,0 +1,1 @@
+ URL : "https://github.com/twosigma/beakerx/issues/5099" TITLE : send all of metadata? BODY : https://github.com/twosigma/beakerx/blob/master/beakerx/js/src/extension.js l158 why not send the whole metadata up?

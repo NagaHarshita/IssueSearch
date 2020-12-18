@@ -1,0 +1,1 @@
+ URL : "https://github.com/ResolveWang/weibospider/issues/47" TITLE : maybe a bug BODY : 在借用你的代码的时候，发现了一个问题 in page_parse/home.py def get_weibo_list html : ... weibo_datas.append wb_data 140行 ... wb_data是一个dict，python的按引用传递会把wb_data的地址append进去，循环修改wb_data以后会在整个数组中存的都是最后一条微博的复制内容 但是我并没有用过这个库，并不知道在你这会不会也出现这个bug 我的修改方法是 weibo_datas.append dict wb_data

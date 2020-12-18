@@ -1,0 +1,1 @@
+ URL : "https://github.com/hypertidy/tidync/issues/52" TITLE : dim-order is now out BODY : the dim order used to be static somehow, but it's messed up in branch single-type only affect tbl_cube atm but needs review

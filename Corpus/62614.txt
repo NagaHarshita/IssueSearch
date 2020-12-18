@@ -1,0 +1,1 @@
+ URL : "https://github.com/BRGM/gml_application_schema_toolbox/issues/41" TITLE : convert tab: geopackage BODY : allow to convert to geopackage format. known drawbacks: - only support one geometry - does not support array

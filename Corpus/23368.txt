@@ -1,0 +1,1 @@
+ URL : "https://github.com/MaGMML2-engine/bugs/issues/55" TITLE : pause menu crashes BODY : when you have tons of weapons disabled at the same time, pressing up and right at the same time in the pause menu ... will make the game crash.

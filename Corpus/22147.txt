@@ -1,0 +1,1 @@
+ URL : "https://github.com/ArnaudWeyts/vouddit/issues/41" TITLE : improve the search BODY : seems like the reddit api subreddit search is pretty ineffective at what it does. would be better the keep our own curated list of subreddits and our own search or algolia? .

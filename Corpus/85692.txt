@@ -1,0 +1,1 @@
+ URL : "https://github.com/VirrageS/chirp/issues/197" TITLE : fix following in frontend BODY : 1. when after search, we get user and its tweet then there is problem when clicking following button because it does not propagate. 2. after clicking following button on tweet it disappears instead of changing to unfollow button.

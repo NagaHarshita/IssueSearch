@@ -1,0 +1,1 @@
+ URL : "https://github.com/sphereio/sphere-node-cli/issues/66" TITLE : bump product-import module BODY : description bump product-import module so it uses latest fix https://github.com/sphereio/sphere-product-import/pull/108

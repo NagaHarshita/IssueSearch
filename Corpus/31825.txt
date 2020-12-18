@@ -1,0 +1,1 @@
+ URL : "https://github.com/digiaonline/react-boilerplate/issues/63" TITLE : swap redux for mobx BODY : let's try to swap out redux for mobx, because mobx is much easier to get started with and it comes with much less boilerplate as well.

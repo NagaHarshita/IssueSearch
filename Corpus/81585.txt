@@ -1,0 +1,1 @@
+ URL : "https://github.com/dlemstra/Magick.NET/issues/83" TITLE : .extent doesn't set color BODY : hi, i'm trying to extent image with color, but color is always white no matter what i do. image.extent 300, 200, gravity.northwest, new magickcolor 0, 255, 0 ;

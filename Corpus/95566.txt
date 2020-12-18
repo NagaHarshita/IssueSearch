@@ -1,0 +1,1 @@
+ URL : "https://github.com/wallabag/ios-app/issues/93" TITLE : defer notification request BODY : on first launch, app request the notification authorization. defer request after initialization

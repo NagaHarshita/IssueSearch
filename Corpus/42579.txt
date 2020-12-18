@@ -1,0 +1,1 @@
+ URL : "https://github.com/jdogresorg/FreeWallet/issues/12" TITLE : broadcast tx failover BODY : update freewallet to handle failing transaction broadcasts by trying a different api. preference order - https://xchain.io/api/send_tx - https://btc.blockr.io/api/v1/tx/push - https://chain.so/api/v2/send_tx/{network}

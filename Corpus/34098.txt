@@ -1,0 +1,1 @@
+ URL : "https://github.com/dejangvozdenac/crossword/issues/1" TITLE : bug with /new_puzzle BODY : if you try to get a new_puzzle from the regular puzzle screen via a button you don't add the room to the url so the server crashes.

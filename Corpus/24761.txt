@@ -1,0 +1,1 @@
+ URL : "https://github.com/ExoCTK/AWESim_SOSS/issues/3" TITLE : tidy up structsoss BODY : create dedicated module with necessary files to generate trace polynomial, distance maps, etc.

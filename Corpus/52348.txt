@@ -1,0 +1,1 @@
+ URL : "https://github.com/wbuchwalter/circleci-ethereum/issues/1" TITLE : circle ci test summary BODY : cicle ci provide the so called test summary. it expects the test results to be in junit xml format and in folder $circle_test_reports . have you invesitigated/considered adding mocha options so that the report ends up in the right place?

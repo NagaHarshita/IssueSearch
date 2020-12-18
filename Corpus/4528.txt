@@ -1,0 +1,1 @@
+ URL : "https://github.com/TalkBank/shiny-vagrant/issues/1" TITLE : disk too small BODY : the default vm disk size is too small and results in vagrant failure. why was the increase using config.disksize.size = '50gb' commented out?

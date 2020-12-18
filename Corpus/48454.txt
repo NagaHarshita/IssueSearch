@@ -1,0 +1,1 @@
+ URL : "https://github.com/gree/pure2d/issues/20" TITLE : scalemode for sprites BODY : hi, @longngo78 seems you are the only one who maintains this engine in a fork, but anyway : my question is: is there any possibility to set a scale mode to a sprite? same as spritekit provides: aspectfit, aspectfill, resize, etc.

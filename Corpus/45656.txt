@@ -1,0 +1,1 @@
+ URL : "https://github.com/dannypsnl/rocket/issues/8" TITLE : improve the coveralls BODY : now is 53%, and i hadn't test http, panic part. target is 80%, temporary.

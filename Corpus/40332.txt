@@ -1,0 +1,1 @@
+ URL : "https://github.com/deepchem/deepchem/issues/476" TITLE : travis is timing out BODY : https://travis-ci.org/deepchem/deepchem/jobs/211983666 did we add a lot of tests? which tests are taking the longest? for longer running tests we might want to switch over to jenkins.

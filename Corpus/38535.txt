@@ -1,0 +1,1 @@
+ URL : "https://github.com/ring-clojure/ring-mock/issues/21" TITLE : post form-params bug BODY : :content-type application/x-www-form-urlencoded , must in :headers { cookie ring-session=testuser content-type application/x-www-form-urlencoded; charset=utf-8 }

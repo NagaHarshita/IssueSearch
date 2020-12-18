@@ -1,0 +1,1 @@
+ URL : "https://github.com/wellcometrust/platform-api/issues/125" TITLE : read mets files from s3 BODY : goobi will push mets files to s3. we should think about writing a generic s3 adapter, as i can see that being useful for other sources.

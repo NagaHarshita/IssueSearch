@@ -1,0 +1,1 @@
+ URL : "https://github.com/istanbuljs/istanbul-api/issues/22" TITLE : question about coverage BODY : hi. i wrote project with typescript and tests with jasmine. now i try to know coverage, but istanbul doesn't do this properly. i have a question, how istanbul know about specs and is it possible to cover many files at once?

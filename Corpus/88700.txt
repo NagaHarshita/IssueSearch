@@ -1,0 +1,1 @@
+ URL : "https://github.com/devmark/ngx-slick/issues/5" TITLE : on click go to that slide BODY : can you please help me out i need so that on click of an slide the slideshow go to that slide . is there any event in which on click of the slide i get the slide index and use the slide goto event

@@ -1,0 +1,1 @@
+ URL : "https://github.com/pvutov/WargameModManager/issues/2" TITLE : bulletproof update file BODY : the update file should generate more informative error messages when faulty. especially the releaserepo line. this is to help mod makers trying to figure out how to set up their mods.

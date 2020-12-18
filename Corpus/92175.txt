@@ -1,0 +1,1 @@
+ URL : "https://github.com/unity3d-jp/AssetGraph/issues/24" TITLE : view build progress state BODY : there are just a log file to check state of running build. i think it's cool if there are an integrated build progress view for current assetbundlegraph node. is there any plan to check progress in assetbundlegraph node window?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/objective-php/router/issues/4" TITLE : how to get $_server values BODY : similar to this issue: https://github.com/objective-php/router/issues/3. as mathieu hecker asked us in a pr is there a way to get $_server values just like for the post ? post example: $this->getparams ->frompost . thanks to you regards.

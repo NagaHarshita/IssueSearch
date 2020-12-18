@@ -1,0 +1,1 @@
+ URL : "https://github.com/concrete5-community-store/community_store/issues/173" TITLE : items with multiple sizes BODY : hi, has anything been done to handle items with different sizes? selling the same t-shirt for instance being available in s - m- l - xl, for inventory control each should have it's own sku? and sizes selectable from the product page?

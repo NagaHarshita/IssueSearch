@@ -1,0 +1,1 @@
+ URL : "https://github.com/Neovici/cosmoz-treenode-navigator/issues/2" TITLE : focus search field BODY : when the cosmoz-treenode-button-view is used, the resulting cosmoz-treenode-selector should focus the search-field so the user can search immediately.

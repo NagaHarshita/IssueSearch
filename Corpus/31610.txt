@@ -1,0 +1,1 @@
+ URL : "https://github.com/ZingWorkshop/Studio/issues/193" TITLE : state animation bug BODY : put ishtar into portrait. make sure your first character is selected. then tap the vault emblem at the top to jump to the vault. character.emblem at the top will show the underline as if it is still in @currentcharacter even though it is not

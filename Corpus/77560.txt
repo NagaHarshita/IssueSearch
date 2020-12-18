@@ -1,0 +1,1 @@
+ URL : "https://github.com/semihalf-berestovskyy-andriy/test-ofp/issues/16" TITLE : nginx proxy mode problem BODY : hi, i used nginx_ofp for proxy mode ,but it doesn't work. i find that nginx_ofp and upstream has not establishment . upstream response syn+ack but ofp didn't process it ,i don't no why ,please help me,thanks

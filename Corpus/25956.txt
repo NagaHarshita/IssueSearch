@@ -1,0 +1,1 @@
+ URL : "https://github.com/mattberjon/simple-perfect/issues/1" TITLE : add mathjax support BODY : in order to be able to display equations into the webpage, the use of the mathjax lib will be useful. i'm not sure yet wheather to use the cdn or use it locally. for security reasons, host it locally would be better but mathjax is quite a heavy library.

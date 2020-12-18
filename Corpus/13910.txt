@@ -1,0 +1,1 @@
+ URL : "https://github.com/aplinxy9plin/preaktum/issues/9" TITLE : 9 create a basket BODY : <h1>create a basket</h1> <ul> <li>create array <b>products</b></li> <li>view this array in some table view</li> <li>alert with 2 buttons: buy or cancel</li> <li>alert with title: <b>name, price</b> </li> </ul>

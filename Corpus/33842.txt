@@ -1,0 +1,1 @@
+ URL : "https://github.com/javalite/activeweb/issues/331" TITLE : auth0 native support BODY : add auth0 jwt token authentication feature for 0 session in server side

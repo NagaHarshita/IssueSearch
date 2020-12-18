@@ -1,0 +1,1 @@
+ URL : "https://github.com/aschampion/schemer/issues/7" TITLE : publish crate from travis BODY : tagged commits to master on stable rust should deploy a gh release and publish to crates.io. example travis config: https://github.com/nemo157/roaring-rs/blob/master/.travis.yml

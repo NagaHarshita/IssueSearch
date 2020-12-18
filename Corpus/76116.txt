@@ -1,0 +1,1 @@
+ URL : "https://github.com/crucialfelix/supercolliderjs/issues/27" TITLE : inf creates invalid json BODY : sc.interpret inf ; -> uncaught syntaxerror: unexpected token i in json at position 0

@@ -1,0 +1,1 @@
+ URL : "https://github.com/XceedBoucherS/TestImport5/issues/116" TITLE : bug: childwindow focus BODY : <b>waynebloss codeplex </b> <br />if you show a childwindow and then set focus to one of it's contained elements, the focus rectangle appears. when the childwindow is moved by dragging it's title bar, the focus rectangle does not move with the rest of the content.

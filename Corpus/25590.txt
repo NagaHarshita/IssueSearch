@@ -1,0 +1,1 @@
+ URL : "https://github.com/kz26/mailproxy/issues/1" TITLE : 100% cpu on centos7 BODY : i am running this on a centos 7 box with python 3.5 and i see 100% cpu usage - though the relay works perfectly. do you have any idea why?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/kylecordes/cycle-example-1/issues/5" TITLE : consider cycle redux BODY : at some risk of adding too much complexity for an example application, pick up cycle redux support: https://github.com/cyclejs-community/redux-cycles ... and use it in a feature of this example.

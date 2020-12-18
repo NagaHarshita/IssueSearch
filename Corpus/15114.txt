@@ -1,0 +1,1 @@
+ URL : "https://github.com/llpesce/EMEWS_SAVI/issues/7" TITLE : create a run file BODY : currently the size of the run width and so on are in the config file and the input file is in the swift main run script. i want both moved into a run file because i expect multiple runs to be made on the same config and system.

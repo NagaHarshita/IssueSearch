@@ -1,0 +1,1 @@
+ URL : "https://github.com/ratal/mdfreader/issues/66" TITLE : suport for.mf4 files BODY : would it be feasible to add support to read .mf4 files to do a conversion to pandas dataframes?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/chris-ali/j6dof-flight-sim/issues/39" TITLE : split the monolith BODY : to allow the simulation to be integrated into other various engines and applications jmonkeyengine, udp, etc , split project into multiple jars that can easily be substituted later as the project evolves and takes different directions

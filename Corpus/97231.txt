@@ -1,0 +1,1 @@
+ URL : "https://github.com/isotropy/isotropy-planning/issues/38" TITLE : fs-analyzer: delete a file BODY : delete a file javascript async function deletefile { fs = fs.filter file => ! file.dir === documents && file.filename === report.txt }

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Geboto/bot-platform/issues/63" TITLE : update agent intents data BODY : button to that pulls data from api.ai and stores intent name and id json in db

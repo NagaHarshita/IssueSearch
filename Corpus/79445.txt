@@ -1,0 +1,1 @@
+ URL : "https://github.com/SungardAS/lambda-formation/issues/13" TITLE : sharing custom resources BODY : custom resources should be shareable/reusable via npm, e.g. npm install --save lambda-formation-route53-hostedzone .

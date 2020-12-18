@@ -1,0 +1,1 @@
+ URL : "https://github.com/n0stack/n0library/issues/7" TITLE : log rotating support BODY : when we use logger library, we may need a way to rotate log. and it's handler like a sighup is needed.

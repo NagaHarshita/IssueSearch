@@ -1,0 +1,1 @@
+ URL : "https://github.com/africanmathsinitiative/R-Instat/issues/3433" TITLE : import .dat files BODY : currently cannot import .dat files as not supported by rio . if rio do not add this before 0.9 from my suggestion then we should do this ourselves using data.table::fread .

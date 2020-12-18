@@ -1,0 +1,1 @@
+ URL : "https://github.com/SimpleMachines/SMF2.1/issues/4205" TITLE : ssi subs-db-mysql.php BODY : subs-db-mysql.php file has a utf8 problem on db connection created in ssi.php row 384 subs-db-mysql.php $connection->set_charset utf8 ;

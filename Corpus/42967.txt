@@ -1,0 +1,1 @@
+ URL : "https://github.com/joommf/discretisedfield/issues/30" TITLE : change field __repr__ BODY : if representation is not a real python code that can be copy/pasted , it should be in <> brackets.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/sparkle-project/Sparkle/issues/1075" TITLE : debugging update issues? BODY : while testing it in sandbox mode with the sandbox branch i'm seeing the following error come up after 'extracting..' update error! an error occurred while running the updater. please try again later. any idea where i can hunt this down?

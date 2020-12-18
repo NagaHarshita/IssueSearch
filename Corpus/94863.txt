@@ -1,0 +1,1 @@
+ URL : "https://github.com/kaliber5/ember-bootstrap/issues/247" TITLE : collapsedsize not working? BODY : i'm having trouble with the collapse component. it is only applying 'collapsedsize' during the collapsing transition, not collapse or collapse in. so the size is only being applied while the 'collapsing' class is on the element.

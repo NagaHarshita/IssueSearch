@@ -1,0 +1,1 @@
+ URL : "https://github.com/Adventurey-Things/Adventure-Bot/issues/13" TITLE : ~teleport command BODY : ~teleport <location name> should force user in the database to <location name> only allowed if they have the adventure creator role. should ignore everything to do with modules.

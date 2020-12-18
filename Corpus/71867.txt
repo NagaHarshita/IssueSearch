@@ -1,0 +1,1 @@
+ URL : "https://github.com/gimli-org/gimli/issues/115" TITLE : alternative ert schemes? BODY : hi guys, are there any other options for the ert.createertdata schemes at this point in time? i can make sequences using other softwares e.g. electre2 and try to integrate them somehow, but i thought you might have a better idea or implementation already existing.

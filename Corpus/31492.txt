@@ -1,0 +1,1 @@
+ URL : "https://github.com/dimi-be/gnirash/issues/2" TITLE : slow download speed BODY : when downloading a large file on my vps the download goes really slow <1 mb/s. this might be related to my server being limited to 50 iops. reading bigger chuncks might speed things up.

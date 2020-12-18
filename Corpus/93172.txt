@@ -1,0 +1,1 @@
+ URL : "https://github.com/feroxide/feroxide/issues/12" TITLE : add hydration to molecules BODY : at this point, strings such as cuso4.5h2o will error. it would be nice if molecules could contain water molecules.

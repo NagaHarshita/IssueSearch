@@ -1,0 +1,1 @@
+ URL : "https://github.com/digitalinfinity/generator-napi-module/issues/1" TITLE : build failure on windows BODY : moving over to here so as not to spam the n-api repo. i'm getting a build failure on windows with the following logs. any ideas? https://gist.github.com/mateodelnorte/821335aeb1d4e6a4dfdb594f0386dc97

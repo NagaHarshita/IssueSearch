@@ -1,0 +1,1 @@
+ URL : "https://github.com/thecotne/foo/issues/2" TITLE : things to add BODY : - script to add ~/.ssh/id_rsa.pub in ~/.ssh/authorized_keys on server - script to install rsub https://github.com/aurora/rmate/tree/57b607eb88d9d3d766a2855fd80b1b0148550611 on server

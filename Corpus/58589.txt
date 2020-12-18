@@ -1,0 +1,1 @@
+ URL : "https://github.com/explosion/spaCy/issues/1369" TITLE : spacy v2.0.0a14 commit BODY : i'm trying to figure out how to get the specific point in git repository history which version 2.0.0a14 was generated from. it's supposed to be a tag, but it's not. is there any way to discover which commit was?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/tdunning/t-digest/issues/95" TITLE : the t in t-digest BODY : not an issue, just a question about terminology: as i understand it, a t-digest is a data structure motivated by that of a q-digest, where the q stands for quantile. what does the t in t-digest stand for?

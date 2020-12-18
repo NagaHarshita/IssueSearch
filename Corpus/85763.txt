@@ -1,0 +1,1 @@
+ URL : "https://github.com/iZaL/insta-snap/issues/4" TITLE : fix user favorites schema BODY : after upgrading to normalizr v3, user favorites schema is broken. fix should be easy and also as this is just a test project, i leave it as an exercise if anybody can send a pr with a fix :

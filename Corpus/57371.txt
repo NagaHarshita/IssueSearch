@@ -1,0 +1,1 @@
+ URL : "https://github.com/WeAreFairphone/android_packages_apps_MyContactsWidget/issues/1" TITLE : proguard files missing BODY : proguardfiles getdefaultproguardfile 'proguard-android.txt' , 'proguard-rules.txt' specifies files with he proguard settings, butt those are not present in this repo. simply touching them solves the error while not being the intended use.. .

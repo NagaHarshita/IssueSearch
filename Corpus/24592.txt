@@ -1,0 +1,1 @@
+ URL : "https://github.com/frappe/bench_manager/issues/37" TITLE : sync feature addon BODY : whenever you go to bench settings page, run sync . also store the last sync timestamp. when you go to bench settings page again, check if sync was run in the last 10 minutes, if not run sync else dont

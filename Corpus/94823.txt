@@ -1,0 +1,1 @@
+ URL : "https://github.com/anichols28/prj-rev-bwfs-dasmoto/issues/3" TITLE : closing body and html tags BODY : subtlety for errors ! make sure you close your <body> and <html> elements after your last closing </div> tag. https://github.com/anichols28/prj-rev-bwfs-dasmoto/blob/master/dasmoto's%20arts%20%26%20crafts/index.html l29

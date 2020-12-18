@@ -1,0 +1,1 @@
+ URL : "https://github.com/tzapu/WiFiManager/issues/332" TITLE : adding js in config portal BODY : hi does anyone have a example or inserting custom javascript in the on demand config portal ? i want to pull some external variables in from a external source json and then display it in a select drop down box on the config portal for the user to select .. any suggestions ?

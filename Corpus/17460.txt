@@ -1,0 +1,1 @@
+ URL : "https://github.com/clab/dynet/issues/1144" TITLE : plain c bindings? BODY : it might be nice to have plain-c bindings for dynet. this is not trivial to do because dynet uses c++ style quite heavily, but for creating things like interfaces to other languages, this might be useful. see: https://github.com/chantera/dynet-rs/issues/1

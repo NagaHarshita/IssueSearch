@@ -1,0 +1,1 @@
+ URL : "https://github.com/pybee/podium/issues/11" TITLE : cannot install on ubuntu BODY : i tried to install podium via pip install podium in a python3 virtual environment when pip installing i get collecting podium could not find a version that satisfies the requirement podium from versions: no matching distribution found for podium i am going to try installing from source code

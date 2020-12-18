@@ -1,0 +1,1 @@
+ URL : "https://github.com/joeypedicini92/gardenMarket_app/issues/14" TITLE : setup remaining apis BODY : currently only gardens endpoint is hooked up to firebase, everything else is mock data. setup the rest of the endpoints to use the api instead of the mock. use the mock data as examples of what data should be stored, but also feel free to add/remove data as necessary

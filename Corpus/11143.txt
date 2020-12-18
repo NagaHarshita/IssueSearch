@@ -1,0 +1,1 @@
+ URL : "https://github.com/hollerith/testBob/issues/14" TITLE : fix buggy select BODY : select is selected but next not working due to session var

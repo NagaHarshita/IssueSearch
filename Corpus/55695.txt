@@ -1,0 +1,1 @@
+ URL : "https://github.com/LI3DS/lopocs/issues/4" TITLE : lazperf python support BODY : a note that i have implemented some lazperf python support that you guys might find useful. https://github.com/hobu/laz-perf/tree/master/python it is not supporting laz at the moment, but that is something i hope to do in the near future.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ksunden/h5shell/issues/9" TITLE : external shell commands BODY : support for running arbitrary commands in the outer shell note: this would introduce security concerns if somebody had an an hdf5 file and used sudo to get write permission for

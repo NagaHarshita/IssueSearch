@@ -1,0 +1,1 @@
+ URL : "https://github.com/ShimShtein/detective/issues/3" TITLE : add a rake task interface. BODY : - i want to clone repos with cops and then run them against a directory containing my sources.

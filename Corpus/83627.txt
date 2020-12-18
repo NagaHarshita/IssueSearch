@@ -1,0 +1,1 @@
+ URL : "https://github.com/lukepolo/laracart/issues/216" TITLE : charge vat if in vat zone BODY : i was just wondering if it would be possible to only charge vat if the customer is in a vat zone? e.g if they live in england they get charged vat. but if they live in america, they do not? i would imagine i would have to write some sort of helper for this?

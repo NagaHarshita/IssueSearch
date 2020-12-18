@@ -1,0 +1,1 @@
+ URL : "https://github.com/UCSB-CS56-Projects/cs56-utilities-calculator/issues/53" TITLE : add a cursor BODY : insert a cursor in the input box to allow users to edit their input. will probably require some sort of timer, and a lot of redesigning of the current code to handle changes anywhere in the input 300xp

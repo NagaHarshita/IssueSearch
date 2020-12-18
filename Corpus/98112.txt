@@ -1,0 +1,1 @@
+ URL : "https://github.com/errantbot/hodl/issues/7" TITLE : improve argparse user help BODY : argparse's full suite of help features should be used to provide the most complete user guide within the command line application.

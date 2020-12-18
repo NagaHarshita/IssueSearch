@@ -1,0 +1,1 @@
+ URL : "https://github.com/fyu/dilation/issues/27" TITLE : mean iou kitti dataset BODY : hello, when i evaluate the mean iou on the test set of the kitti dataset http://adas.cvc.uab.es/s2uad/?page_id=11, i get lower numbers than the one mentioned in the paper. i am using the the dilation7 model. what could be the reason? is there any mean iou code which is available?

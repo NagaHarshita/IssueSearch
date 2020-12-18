@@ -1,0 +1,1 @@
+ URL : "https://github.com/Theknickerbocker/UB_Grader/issues/139" TITLE : course creation field wipe BODY : on successful creation of a course the fields of the form should be wiped.

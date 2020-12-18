@@ -1,0 +1,1 @@
+ URL : "https://github.com/fathomssen/redtimer/issues/107" TITLE : merge code duplications BODY : merge code duplications, e.g. the load methods in the issue creator and the issue selector.

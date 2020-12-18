@@ -1,0 +1,1 @@
+ URL : "https://github.com/aui/artDialog/issues/306" TITLE : webpack 打包出错 BODY : package 默认webpack 就2.0+ ，实际上2.0+无法打包，直接报错，换成2.0以下可以。 用webpack 1.0 构建的 dist 下面的文件，跟git 上面的构建的不一样，无法运行。

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ovr/phpsa/issues/302" TITLE : remove git blame option BODY : i suggest we: - remove the blame functionality completely in checkcommand and config file - or remove at least the blame command option since you can specify it in the config file

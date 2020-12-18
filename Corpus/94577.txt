@@ -1,0 +1,1 @@
+ URL : "https://github.com/metaeducation/ren-c/issues/362" TITLE : chain + return => shutdown BODY : f1: func x return x ;; <= without 'return all ok f2: func x x f3: chain :f1 :f2 print f3 1 dirty shutdown instead of printing 1

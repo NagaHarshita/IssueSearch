@@ -1,0 +1,1 @@
+ URL : "https://github.com/sarahdayan/lamp-mvc/issues/1" TITLE : svg render issue BODY : ! lamp https://user-images.githubusercontent.com/7779810/28628508-1e866f98-7225-11e7-818b-9d5a0324a0c2.png there is an issue with the svg, as you can see the shaded part is not aligned with the top of the lamp. this screenshot is from the latest osx sierra, running safari.

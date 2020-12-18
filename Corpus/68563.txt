@@ -1,0 +1,1 @@
+ URL : "https://github.com/ESQG/library-multisearch/issues/1" TITLE : scraping format parsing BODY : titles with parentheses in them, i.e. queer in justice , get read as formats from the library catalog. probably use regular expression with - to fix.

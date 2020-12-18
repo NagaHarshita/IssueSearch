@@ -1,0 +1,1 @@
+ URL : "https://github.com/integer32llc/rust-playground/issues/241" TITLE : include rust logo BODY : turns out that ponylang is using the same frontend for their playground https://playground.pony-lang.org , so having a way of disambiguating the two via a logo would be useful. perhaps in the top right corner?

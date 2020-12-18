@@ -1,0 +1,1 @@
+ URL : "https://github.com/dkdon820/WhiteHouseFarm/issues/15" TITLE : production screen details BODY : all production screens are in german. we need to edit a texture file usually called terminal... it should be easy to fix, just use a copy/paste of the rest of the screen texture to blend over it and replace with english wording

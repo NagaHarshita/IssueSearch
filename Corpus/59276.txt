@@ -1,0 +1,1 @@
+ URL : "https://github.com/harelba/q/issues/146" TITLE : too many columns error BODY : hi, is there a limit to the number of columns. this file had columns uptil n $ q select from .\extractor\xxx.csv warning: file already exists but should not: c:\users\pstep\appdata\local\temp\_mei10122\include\pyconfig.h query error: too many columns on temp_table_10001

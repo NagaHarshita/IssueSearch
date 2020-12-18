@@ -1,0 +1,1 @@
+ URL : "https://github.com/hjdivad/dotfiles/issues/8" TITLE : git commit messages BODY : see https://github.com/mhinz/neovim-remote use-case unsure what the right pattern for finishing the message and returning to the terminal is; also unsure exactly what nvr --wait waits for. i likely want to change the editor to split

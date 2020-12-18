@@ -1,0 +1,1 @@
+ URL : "https://github.com/penrose/penrose/issues/20" TITLE : add computation in style BODY : fix ad-hoc typechecking in applycomputation remove queryconfig placeholders: pattern-match on computation anywhere in style, look up vars in function params currently they are passed as-is to runtime

@@ -1,0 +1,1 @@
+ URL : "https://github.com/kismetwireless/kismet/issues/13" TITLE : fails on make BODY : my ./configure said everything was fine but when i'm compiling the newest version of this repository i get this error: <img width= 598 alt= screen shot 2017-10-25 at 20 10 02 src= https://user-images.githubusercontent.com/17125876/32015155-87ce42ae-b9c0-11e7-9cd7-5b1e30f21218.png >

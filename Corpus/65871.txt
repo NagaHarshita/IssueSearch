@@ -1,0 +1,1 @@
+ URL : "https://github.com/Tuxemon/Tuxemon/issues/316" TITLE : list index out of range BODY : i have 12 act events, and it gives an indexerror: list index out of range for every event beyond nine. is this a problem with tiled? or tuxemon?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/anubhavmalik/MyApplication/issues/1" TITLE : error in adapter class BODY : the application runs the first time but as soon as the user clicks save button the application crashes, next time when you open the application, it crashes on startup. the custom adapter class shows a null pointer reference while setting the date in text-view.

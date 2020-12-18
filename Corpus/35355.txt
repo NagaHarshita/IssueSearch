@@ -1,0 +1,1 @@
+ URL : "https://github.com/10up/wp-local-docker/issues/49" TITLE : don't call it ssh.sh BODY : the script bin/ssh.sh https://github.com/dwnload/wp-docker-bedrock/blob/master/bin/ssh.sh doesn't open an ssh session, therefor calling it ssh.sh is is misnomer. why not avoid confusing people and call it __shell.sh__ or something to that degree?

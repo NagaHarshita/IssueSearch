@@ -1,0 +1,1 @@
+ URL : "https://github.com/silentmatt/expr-eval/issues/124" TITLE : add normal operations BODY : will be perfect to add basic js operations || && currently has and and or operator, but still can add theses to be compatible with js expression

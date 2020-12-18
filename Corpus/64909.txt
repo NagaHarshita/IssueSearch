@@ -1,0 +1,1 @@
+ URL : "https://github.com/Freeyourgadget/Gadgetbridge/issues/539" TITLE : hplus: time sync broken BODY : pr 532 breaks time sync. after reset device always show 8:20 am. time synchronization does not work. i just wanted to test the alarm clock ... @jpbarraca

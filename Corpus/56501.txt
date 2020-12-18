@@ -1,0 +1,1 @@
+ URL : "https://github.com/lbusett/sprawl/issues/22" TITLE : new function plot_vect BODY : quick function to plot sf objects. for complex graphs, the refer to package tmap .

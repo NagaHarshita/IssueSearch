@@ -1,0 +1,1 @@
+ URL : "https://github.com/me-box/databox/issues/120" TITLE : databox dashboard ui BODY : on the app install page, when the list of sensors to choose from is larger than two, all other options are truncated in the dropdown and cannot be clicked at least when running on chrome on mac .

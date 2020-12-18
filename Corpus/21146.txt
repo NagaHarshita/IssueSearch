@@ -1,0 +1,1 @@
+ URL : "https://github.com/dib-lab/sourmash/issues/283" TITLE : emit during stream BODY : is there a way when streaming sequences into sourmash to every now and then emit the signature, while the overall process continues? like peeking at the result.

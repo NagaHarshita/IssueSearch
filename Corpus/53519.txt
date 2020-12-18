@@ -1,0 +1,1 @@
+ URL : "https://github.com/mobingi/mobingi-cli/issues/56" TITLE : dynamic display tables BODY : if a column is empty, don't display it minimize horizontal space .

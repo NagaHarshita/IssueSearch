@@ -1,0 +1,1 @@
+ URL : "https://github.com/astorm/pestle/issues/294" TITLE : create child class command BODY : that looks back in the object chain for a __construct method and includes it with a parent call.

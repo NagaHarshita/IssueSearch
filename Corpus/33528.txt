@@ -1,0 +1,1 @@
+ URL : "https://github.com/yhirose/cpp-httplib/issues/11" TITLE : add support for gzip BODY : it would be nice to have optional support for gzip.

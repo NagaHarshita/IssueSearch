@@ -1,0 +1,1 @@
+ URL : "https://github.com/o2r-project/containerit/issues/97" TITLE : add demo for plumber BODY : ideally this should automatically create expose instructions and the required cmd / entrypoint , and work nicely with the image trestletech/plumber . see 96 and 78

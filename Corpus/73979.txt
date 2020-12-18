@@ -1,0 +1,1 @@
+ URL : "https://github.com/pjreddie/darknet/issues/321" TITLE : do not support cuda 8.0? BODY : compile the code under the env of cuda 8.0 and cudnn 6.0, while get the link error: /usr/bin/ld: cannot find -lcuda . the path of cuda 8.0 had already been list on the makefile. the same makefile can work under the env of cuda 7.5 and cudnn 5.1.

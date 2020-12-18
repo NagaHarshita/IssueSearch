@@ -1,0 +1,1 @@
+ URL : "https://github.com/dickschoeller/gedbrowser/issues/135" TITLE : improve key manager BODY : only lookup map key once make it be a bean

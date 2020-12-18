@@ -1,0 +1,1 @@
+ URL : "https://github.com/devlint/gridlex/issues/62" TITLE : nested grids do not work BODY : you can see this on the project home page, the nested grid example there does not work. i think due to line 193 of gridlex.scss where it sets every child of grid that isn't set to 0 to display block i think , but the nested grid wants to be display flex.

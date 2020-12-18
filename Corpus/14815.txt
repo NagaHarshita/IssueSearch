@@ -1,0 +1,1 @@
+ URL : "https://github.com/KoRiGaN/Vue2Leaflet/issues/114" TITLE : cant run examples BODY : cannot run examples. steps to reproduce bash clone the repo git clone https://github.com/korigan/vue2leaflet.git go to examples folder cd vue2leaflet/examples/ install dependencies npm install run examples npm run dev details bash node --version v9.3.0 npm --version 5.6.0

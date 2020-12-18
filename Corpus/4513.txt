@@ -1,0 +1,1 @@
+ URL : "https://github.com/Miserlou/Zappa/issues/805" TITLE : deploy at root BODY : is it possible to deploy at / as opposed to under a namespace eg, /dev . i've tried specifying in my zappa_settings.json without luck. this is a really amazing library, btw. i wouldn't be able to use lambda without it - thanks!

@@ -1,0 +1,1 @@
+ URL : "https://github.com/thomasp85/shinyFiles/issues/59" TITLE : select by pattern BODY : hi, please, it is possible to filter by file extension, but would it also be able to filter by pattern in the file name? example: if my folder had: file_input.rda , file_output.rda , file.pdf . and we want only files with input pattern in the name. thanks!

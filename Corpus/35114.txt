@@ -1,0 +1,1 @@
+ URL : "https://github.com/omatt/PG-Tracker-App/issues/3" TITLE : deep link auth issue BODY : fix authentication upon opening a firebase dynamic link. works fine when the user is already logged in, but when there's no user authenticated on the app, the deep link data gets lost and needs to click on the fdl again.

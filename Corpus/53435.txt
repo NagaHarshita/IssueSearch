@@ -1,0 +1,1 @@
+ URL : "https://github.com/wangdahoo/vue-scroller/issues/157" TITLE : done is not a function BODY : vue 项目，按照官方示例引入 refresh1 done { settimeout => { this.getdata1 done }, 1500 } 使用过程报错： uncaught typeerror: done is not a function 这是因为什么呢？有遇到过相同情况的吗？

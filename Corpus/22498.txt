@@ -1,0 +1,1 @@
+ URL : "https://github.com/opensanca/opensanca_jobs/issues/2" TITLE : list all vacancies BODY : as a job seeker user, i want to be able to list all vacancies on the platform so i can apply to the position. - make a page that will list all vacancies ordered by the oldest to the newest. show something like: sent date - company name - job position in the listing row.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/msgpack/msgpack/issues/230" TITLE : msgpack big endian? BODY : not really an issue per se, but i'm writing a small encoder/decoder and i must say, it's a pain having to tansform all my in-memory representations of ints, floats from little-endian to big-endian.

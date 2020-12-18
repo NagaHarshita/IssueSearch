@@ -1,0 +1,1 @@
+ URL : "https://github.com/NEU-Libraries/cerberus/issues/1123" TITLE : transfer set ownership BODY : allow users to request the ownership of a set be transferred to another drs user. the current set owner should be able to select a new owner from a list of drs users full names, no nuid . the request triggers an email to the admin user s who can approve the request.

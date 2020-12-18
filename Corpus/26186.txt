@@ -1,0 +1,1 @@
+ URL : "https://github.com/python-trio/trustme/issues/11" TITLE : add windows testing BODY : sigh. but between the weird tempfile issues and 10, it's clearly necessary.

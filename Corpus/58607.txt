@@ -1,0 +1,1 @@
+ URL : "https://github.com/LuminanceHDR/LuminanceHDR/issues/92" TITLE : speedup for reinhard05 BODY : i created a new branch https://github.com/heckflosse/luminancehdr/tree/reinhard05_speedup in my fork with a speedup for reinhard05 i used a 36 mpixel file for my tests. here are the timings: before after reinhard05 23200 ms 550 ms

@@ -1,0 +1,1 @@
+ URL : "https://github.com/UCSB-CS56-Projects/cs56-games-pokemon-map/issues/68" TITLE : add arrow keys function BODY : add functionality of arrow keys so the character moves not only when pressing wasd keys, but also up down left right arrows.

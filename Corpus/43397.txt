@@ -1,0 +1,1 @@
+ URL : "https://github.com/Nerdenator/tagging_tracker/issues/6" TITLE : create a docker swarm BODY : to use docker secrets, we need to do a docker swarm: https://docs.docker.com/engine/swarm/

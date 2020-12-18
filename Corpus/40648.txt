@@ -1,0 +1,1 @@
+ URL : "https://github.com/dtu-compute/dtu-enote-mongodb/issues/3" TITLE : upgrade to fedora 25 BODY : i had to roll back the move to fedora 24 commit 5318d9109eb53135cc4a2af207d0109a01a151eb ; it'll evidently take a lot more testing to find the edge cases i only found the issue below by starting from scratch .

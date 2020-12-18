@@ -1,0 +1,1 @@
+ URL : "https://github.com/MohammedSheikh/BankingWebsite/issues/33" TITLE : 'my details' page fields BODY : -the fields that user can edit should be validated -mask password -address lookup from online source -password encryption -security questions should match database -international dialling code

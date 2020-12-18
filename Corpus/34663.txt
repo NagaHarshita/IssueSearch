@@ -1,0 +1,1 @@
+ URL : "https://github.com/boblemarin/jQuery.eraser/issues/20" TITLE : complete not firing. BODY : if the width or the height or the brush is greater than the width or height of the image complete cb does not fire.

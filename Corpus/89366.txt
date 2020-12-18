@@ -1,0 +1,1 @@
+ URL : "https://github.com/rongierlach/gatsby-source-buttercms/issues/1" TITLE : properly fetch blog posts BODY : right now the plugin just grabs the first 10 blog posts, realistically this should utilize the buttercms endpoint's actual query params.

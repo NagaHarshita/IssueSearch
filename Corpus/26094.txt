@@ -1,0 +1,1 @@
+ URL : "https://github.com/mirkos-vf/vcs/issues/2" TITLE : add signal handlers BODY : provide recovery oportunities if interrupted in the middle of an operation, or prevent certain interrupts from occuring when doing sensitive operations

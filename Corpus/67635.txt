@@ -1,0 +1,1 @@
+ URL : "https://github.com/map-egypt/admin/issues/83" TITLE : project locations - api BODY : right now the when you have a governorate and district, the data isn't being matched up on the front-end. it comes out as all of the govenorates and then all of the districts. e.g. cairo, cairo, garden district, pyramids. where it should be: garden district, cairo pyramids, cairo

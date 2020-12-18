@@ -1,0 +1,1 @@
+ URL : "https://github.com/area1707/grace-shopper/issues/29" TITLE : data validations - users BODY : users must have a valid email address users email must be unique implementation: create sequelize schema whose email key requires unique and whose data type verifies that it is an email address ? how do we confirm that an email address is valid?

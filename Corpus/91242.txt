@@ -1,0 +1,12 @@
+ URL : "https://github.com/xbmc-catchuptv-au/issue-reports/issues/1243" TITLE : ten user initiated report BODY : automatic bug report from end-user. environment add-on name: tenplay add-on id: plugin.video.catchuptv.au.ten add-on version: 1.0.0 add-on url: ?action=sendreport kodi version: 16.1 python version: 2.6.5 r265:79063, apr 24 2016, 10:31:19 gcc 4.8 ip address: 101.127.88.80 hostname: n/a country: sg isp: as55430 starhub internet, singapore operating system: linux3 linux 3.10.0 armv7l python path: /mnt/internal_sd/android/data/org.xbmc.kodi/files/.kodi/addons/plugin.video.catchuptv.au.ten
+/mnt/internal_sd/android/data/org.xbmc.kodi/files/.kodi/addons/script.module.aussieaddonscommon/lib
+/mnt/internal_sd/android/data/org.xbmc.kodi/files/.kodi/addons/script.module.issuereporter/lib
+/mnt/internal_sd/android/data/org.xbmc.kodi/files/.kodi/addons/script.module.requests/lib
+/
+/data/app/org.xbmc.kodi-1.apk/assets/python2.6/lib/python26.zip
+/data/app/org.xbmc.kodi-1.apk/assets/python2.6/lib/python2.6
+/data/app/org.xbmc.kodi-1.apk/assets/python2.6/lib/python2.6/plat-linux3
+/data/app/org.xbmc.kodi-1.apk/assets/python2.6/lib/python2.6/lib-tk
+/data/app/org.xbmc.kodi-1.apk/assets/python2.6/lib/python2.6/lib-old
+/data/app/org.xbmc.kodi-1.apk/assets/python2.6/lib/python2.6/lib-dynload
+/mnt/internal_sd/android/data/org.xbmc.kodi/files/.kodi/addons/plugin.video.catchuptv.au.ten/resources/lib full log https://gist.github.com/0c60ee6fbcb5ee6a203822aa910b9966

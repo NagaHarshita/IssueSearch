@@ -1,0 +1,1 @@
+ URL : "https://github.com/louisdh/lioness/issues/5" TITLE : powers order bug BODY : currently, 3^3^3 evaluates to 19683 . this is achieved because the powers are executed from left to right: 3^3^3 => 3^3 ^3 => 27^3 => 19.683 the correct behavior is to execute powers from right to left: 3^3^3 => 3^ 3^3 => 3^27 => 7.625.597.484.987

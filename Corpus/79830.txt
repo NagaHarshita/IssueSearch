@@ -1,0 +1,1 @@
+ URL : "https://github.com/IdiosApps/Graded-Reader-Builder/issues/8" TITLE : subscript vs superscript BODY : for some reason, superscript characters are placed halfway between adjacent characters. on the other hand, subscript characters are much closer towards the character on the left. should be able to style this with tex, but for now just keeping subscripts for simplicity.

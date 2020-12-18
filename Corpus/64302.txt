@@ -1,0 +1,1 @@
+ URL : "https://github.com/CS383Team2/Goofy_Lights_Editor/issues/3" TITLE : framelist delete node x BODY : 'deletenode int position ' we can either write a new method or change the functionality of existing deletenode

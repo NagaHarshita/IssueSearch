@@ -1,0 +1,1 @@
+ URL : "https://github.com/sphinx-gallery/sphinx-gallery/issues/261" TITLE : support tagging examples BODY : it would be nice to be able to have some kind of categories that examples in multiple sections could be assigned to i.e. all these examples use one subpackage . sunpy/sunpy 2164

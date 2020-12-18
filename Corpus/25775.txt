@@ -1,0 +1,1 @@
+ URL : "https://github.com/aMarcireau/origami/issues/27" TITLE : add an existing doi BODY : adding a suggested, existing doi should promote it to in collection and trigger requests. so far, it only promotes it. check if the behavior is as expected with bibtex imports.

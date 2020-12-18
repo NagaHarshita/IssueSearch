@@ -1,0 +1,1 @@
+ URL : "https://github.com/Raouf16/teach_spreadsheets/issues/23" TITLE : fix bug on adding prefence BODY : the bug was fixed in the preferencecontroler class and preference class checking if the parametres wasn t null or empty

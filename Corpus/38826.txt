@@ -1,0 +1,1 @@
+ URL : "https://github.com/own-pt/cl-conllu/issues/23" TITLE : read palavras output BODY : in the https://github.com/own-pt/cl-conllu/blob/master/read-write.lisp we need a function to read the palavras output like https://github.com/cpdoc/dhbb/blob/master/pal/100.dep to conll-u format.

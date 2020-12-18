@@ -1,0 +1,1 @@
+ URL : "https://github.com/studioml/studio/issues/165" TITLE : projects vs run group BODY : currently project is more of a run group : group together bunch of results from the same model with different parameters. projects are more of an organizational thing, where you can have set of people working on it, dataset or few associated with it and many individual or sets of runs.

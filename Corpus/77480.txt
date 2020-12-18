@@ -1,0 +1,1 @@
+ URL : "https://github.com/audiocogs/aurora.js/issues/195" TITLE : new bug , but i cant fix BODY : player sing the song. then when i want in the same page i stop the player and i create a new player. then file file is reloaded.... all seams works correctly... but the variable player.buffered now is 300

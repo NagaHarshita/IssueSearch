@@ -1,0 +1,1 @@
+ URL : "https://github.com/andryyy/mailcow-dockerized/issues/122" TITLE : iptables and docker BODY : hi everybody, across mailcow-dockerized is it the first contact with docker. i use an iptables for my vserver i do open the ports for apache-proxy and mailcow. but when i activate the iptables then is the communication under port 8080, 8443 and 4190 disturbed regards jm3west

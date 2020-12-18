@@ -1,0 +1,1 @@
+ URL : "https://github.com/ulrikstrid/bs-next/issues/5" TITLE : missing error api BODY : next.js includes additional api related to the error handling page https://github.com/zeit/next.js/tree/4.3.0-canary.1 reusing-the-built-in-error-page . there is currently no binding present for it. - error

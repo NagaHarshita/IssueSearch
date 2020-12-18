@@ -1,0 +1,1 @@
+ URL : "https://github.com/openhome/ohTopology/issues/5" TITLE : disable building tests BODY : it would be great to have a configuration option to disable the building and installation of the tests.

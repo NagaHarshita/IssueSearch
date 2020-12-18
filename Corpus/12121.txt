@@ -1,0 +1,1 @@
+ URL : "https://github.com/multipath-tcp/mptcp/issues/189" TITLE : mptcp socket api BODY : hi, is the enhanced socket api of benjamin hesmans integrated into the mptcp-kernel? if yes, which version? if no, where can i find the api to install? thank you in advance feri

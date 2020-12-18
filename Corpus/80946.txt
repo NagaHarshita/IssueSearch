@@ -1,0 +1,1 @@
+ URL : "https://github.com/Railec/StirlingEngine/issues/16" TITLE : user interface abstracts BODY : there should be a set of abstracts that can provide the basic functionalities for a user interface system. this is something that was already partly done in a different project of ours, perhaps there is something in there that can be copied.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla/testpilot/issues/2376" TITLE : add selenium ui tests BODY : @krupa @pdehaan starting this issue to keep track of my work. i am adding a few ui tests as well as checking to make sure the test pilot addon installs correctly.

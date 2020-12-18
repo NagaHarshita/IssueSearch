@@ -1,0 +1,1 @@
+ URL : "https://github.com/uestla/YetORM/issues/18" TITLE : @inject v modelu BODY : snažím se využít model pro inteligentnější získávání informací. to bohužel zahrnuje potřebu načíst cizí třídu - repozitář. ten se snažím načíst přes zápis @inject . jenže jak yetorm neprochází nette, tak k načtení závislosti nedojde. nějaké nápady jak jinak inteligentně nahrát závislost do modelu?

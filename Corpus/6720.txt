@@ -1,0 +1,1 @@
+ URL : "https://github.com/sayanee/angularjs-pdf/issues/164" TITLE : bower not found BODY : hi! in the 1.4.0 version , the postinstall script throw the folowing error: sh: 1: bower: not found failed at the angular-pdf@1.4.0 postinstall script 'bower install'.

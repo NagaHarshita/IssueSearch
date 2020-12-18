@@ -1,0 +1,1 @@
+ URL : "https://github.com/4refr0nt/iot-manager-demo/issues/19" TITLE : iot manager and ios 11 BODY : can you confirm if iot manager works with ios 11 on iphone. i have just upgraded my iphone to ios 11 and it now will not connect to the broker cloudmqtt using mqtt websockets . thanks, murray

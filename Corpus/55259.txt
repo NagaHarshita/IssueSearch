@@ -1,0 +1,1 @@
+ URL : "https://github.com/JayBizzle/Crawler-Detect/issues/204" TITLE : incorrect agent result BODY : null or an empty string are 2 user agent cases for bad bots. nice to handle them too

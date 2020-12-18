@@ -1,0 +1,1 @@
+ URL : "https://github.com/ASE-Group1-1/Group1-1-AttendanceTrackingSystem/issues/14" TITLE : generate attendance tokens BODY : extend the registration routine to generate and store all 13 weekly attendance tokens for each student. we will create the attendance tokens when the user joins a group.

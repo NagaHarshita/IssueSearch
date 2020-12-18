@@ -1,0 +1,1 @@
+ URL : "https://github.com/markcell/jquery-tabledit/issues/54" TITLE : link inside a td ? BODY : how could i possible place a <a href= > or a link inside a td element? it always seems to filter out any html tags. maybe there's just something i'm missing here? thanks!

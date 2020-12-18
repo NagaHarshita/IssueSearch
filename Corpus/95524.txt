@@ -1,0 +1,1 @@
+ URL : "https://github.com/chucklefish/rlua/issues/52" TITLE : debug library not included BODY : hey there, the awesome library makes great use of the debug functionality of lua, but it's not included in these bindings. i could make it myself, but i just wanted to double check to see why it's not included.

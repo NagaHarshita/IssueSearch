@@ -1,0 +1,1 @@
+ URL : "https://github.com/APIs-guru/openapi-directory/issues/210" TITLE : add lyft api BODY : format : openapi fka swagger 2.0 official : yes url : https://api.lyft.com/v1/spec ! name : lyft source: https://medium.com/lyft-developer-platform/using-open-api-specification-to-put-lyft-sdk-support-in-the-fast-lane-7b623218e4ee

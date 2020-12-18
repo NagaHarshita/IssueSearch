@@ -1,0 +1,1 @@
+ URL : "https://github.com/ngageoint/hootenanny/issues/1999" TITLE : docker build of hoot core BODY : add a docker file and build script to make a very limited hoot core only docker image. notes: this is tagged as translation since the docker image is going to be used for metadata translations this build does not use vagrant this build does not include postgresql or a ui.

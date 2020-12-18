@@ -1,0 +1,1 @@
+ URL : "https://github.com/ncrmro/reango/issues/43" TITLE : clean up routes BODY : the routes file should correctly pull in a single routes file per app. each routes file should then correctly list each sub route as a child route and do any code splitting afterwords.

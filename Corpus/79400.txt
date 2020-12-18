@@ -1,0 +1,1 @@
+ URL : "https://github.com/jaxio/pack-backend-jpa/issues/5" TITLE : setting up my own dev db BODY : hi am trying to setup my own dev db for test cases how can i configure it in applicationcontext-test.p.vm.xml because there only you guys have config for some h2 dump file

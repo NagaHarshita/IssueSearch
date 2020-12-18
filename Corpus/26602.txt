@@ -1,0 +1,1 @@
+ URL : "https://github.com/JeffersonLab/hallc_replay/issues/231" TITLE : broken config files BODY : the directory restructuring of 230 requires that all the files in config be updated to point to the corresponding macro s now residing in the utilities util directory.

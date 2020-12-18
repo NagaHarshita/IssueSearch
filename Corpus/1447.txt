@@ -1,0 +1,1 @@
+ URL : "https://github.com/CreativeMachinesLab/softbotEscape/issues/2" TITLE : why it-> ?? BODY : in the file base/hyperneat/hyperneat/hypercube_neat/src/experiments/hcube_softbotsexperiment.cpp for auto it = neightborhood.begin ; it != neightborhood.end ; i++ { it->?? }

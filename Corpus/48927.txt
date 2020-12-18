@@ -1,0 +1,1 @@
+ URL : "https://github.com/bjakja/Kainote/issues/26" TITLE : statusbar croping bug BODY : when text is too long it's draw to line, no ... , on the right bitmap text i under bitmap. it looks really bad.

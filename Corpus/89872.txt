@@ -1,0 +1,1 @@
+ URL : "https://github.com/sonarwhal/sonarwhal/issues/655" TITLE : rename sonar to sonarwhal BODY : there are quick a few references and code that we should rename e.g.: things like sonarconfig .

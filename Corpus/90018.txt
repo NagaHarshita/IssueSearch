@@ -1,0 +1,1 @@
+ URL : "https://github.com/lparchaeology/ark2/issues/81" TITLE : review time zone handling BODY : check that time zone handling is being done right. backend should do everything in utc, front-end should respond to browser time zone.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/pouchdb-community/pouchdb-load/issues/60" TITLE : expected load times BODY : what sort of load time should i be expecting for a 28mb dump file 51k docs using the pouchdb-load plugin? many thanks, sam

@@ -1,0 +1,1 @@
+ URL : "https://github.com/flyve-mdm/flyve-mdm-glpi-plugin/issues/149" TITLE : broken package parser BODY : since the work done for orion, the package parser is broken. the path to the file is no longer parsed correctly.

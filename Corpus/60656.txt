@@ -1,0 +1,1 @@
+ URL : "https://github.com/khaledhassan/HAS/issues/22" TITLE : add alert functionality BODY : add support for sending alerts. this was part of our proposal but not addressed until now send messages via twilio sms? - high temperature alarm - figure out how to demo - motion detected when system set to away see 21

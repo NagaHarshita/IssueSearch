@@ -1,0 +1,1 @@
+ URL : "https://github.com/Alanaktion/phproject/issues/326" TITLE : fix travis builds BODY : travis builds have been broken for a long time now, between hhvm being deprecated on precise and me never quite finishing the update to trusty. i need to fix the integration in the v1.6-dev and v2-dev branches.

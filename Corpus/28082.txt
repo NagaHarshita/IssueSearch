@@ -1,0 +1,1 @@
+ URL : "https://github.com/Gytaco/DynaWorks/issues/9" TITLE : failed to open file BODY : had this script working fine a couple months ago and now the opennavisfile.openfile node cant open the file. ! image https://cloud.githubusercontent.com/assets/28562505/25847328/96030014-34ad-11e7-93c4-07f10c8fb8ed.png any ideas why?

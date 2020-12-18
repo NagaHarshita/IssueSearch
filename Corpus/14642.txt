@@ -1,0 +1,1 @@
+ URL : "https://github.com/FDPA/fdpa/issues/41" TITLE : body matrix macro BODY : the body matrix is what will be used for content of most content pages. the macro is defined here http://107.170.57.118/admin/settings/fields/edit/8 . typical content page looks like this: ! image https://cloud.githubusercontent.com/assets/779882/25595318/512a59b8-2e92-11e7-8c7c-90bef0750e42.png

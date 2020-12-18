@@ -1,0 +1,1 @@
+ URL : "https://github.com/fossasia/meilix-systemlock/issues/9" TITLE : add travis build commands BODY : the travis file is nearly empty and there is no build info. please help to get travis run.

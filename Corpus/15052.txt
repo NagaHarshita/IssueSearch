@@ -1,0 +1,1 @@
+ URL : "https://github.com/IBM-Bluemix/gp-deliverypipeline/issues/34" TITLE : copy all dotfiles BODY : dotfiles were missed such as .travis.yml when archiving artifacts include them //cc @jgarcows

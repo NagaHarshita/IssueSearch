@@ -1,0 +1,1 @@
+ URL : "https://github.com/Pita/ueberDB/issues/98" TITLE : postgres now work BODY : just update pg module to the last for nodejs over 6.1.x

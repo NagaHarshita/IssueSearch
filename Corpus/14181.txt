@@ -1,0 +1,1 @@
+ URL : "https://github.com/winpython/winpython/issues/545" TITLE : add json_tricks ? BODY : would you consider adding json_tricks ? https://pypi.python.org/pypi/json_tricks it provides various functionalities to json. especially enabling numpy arrays with json is very useful. i frequently use it to serialize mixed objects in human readable format.

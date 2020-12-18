@@ -1,0 +1,1 @@
+ URL : "https://github.com/UPC/ravada/issues/465" TITLE : show the internal ip BODY : some environments require to know the internal ip of a virtual machine. - show it on machine settings - add a link to machine settings in the view machine page after start the domain

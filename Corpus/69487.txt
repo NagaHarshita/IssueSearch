@@ -1,0 +1,1 @@
+ URL : "https://github.com/yse/easy_profiler/issues/38" TITLE : test std::chrono timers BODY : run tests using std::chrono timers for _gcc 5_, _gcc 6_ and _msvc2015_ builds to calculate block cost using c++11 standard timers on modern compilers. for _gcc 4_ and _msvc2013_ it was very high cost: ~0.6-0.8 us per block.

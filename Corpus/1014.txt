@@ -1,0 +1,1 @@
+ URL : "https://github.com/redbear/nRF5x/issues/16" TITLE : dfu and nvm BODY : when do you expect to support dfu en the build-in nvm. i'm near the release of our new product using the ble nano 2. but without dfu or nvm we can't release. rudi

@@ -1,0 +1,1 @@
+ URL : "https://github.com/YaleDecisionNeuro/PsychTaskFramework/issues/81" TITLE : create a shared drawref BODY : main inspiration: lib/draw/drawlotto . this is another source of dry violations. most of the logic is similar; any differences that cannot be settled through settings can be settled by a wrapper function around the main logic.

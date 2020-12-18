@@ -1,0 +1,1 @@
+ URL : "https://github.com/remyla/damas-core/issues/168" TITLE : cli: stream as filename BODY : the damas command could accept a stream as a list of path to files in order to perform commands like that cat filestoadd.txt | damas add

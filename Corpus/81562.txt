@@ -1,0 +1,1 @@
+ URL : "https://github.com/fifafu/BetterTouchTool/issues/498" TITLE : %@ insert no longer works BODY : macbook, el capitan, magic trackpad. after the latest update, the %@ replace field for urls doesn't work anymore. it pastes an actual %@ instead of the clipboard contents. btw, is there a way to downgrade to the previous version?

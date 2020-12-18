@@ -1,0 +1,1 @@
+ URL : "https://github.com/msenin94/mk-post-deployment-checks/issues/77" TITLE : magic numbers removal BODY : hi all, we need to avoid magic numbers in our code and move then into configs. what is it - http://stackoverflow.com/questions/47882/what-is-a-magic-number-and-why-is-it-bad

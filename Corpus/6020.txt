@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/Cognitive-LUIS-Python/issues/13" TITLE : upload to pypi BODY : hi, i'm heavily using this nice package for integrating our robotic framework and would like to make it easy on installation process. is there any plan to register this python package to pypi repository like other awesome python packages? thank you very much in advance!

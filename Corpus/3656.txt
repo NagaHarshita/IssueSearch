@@ -1,0 +1,1 @@
+ URL : "https://github.com/cow-co/Cassowary/issues/1" TITLE : switch to c++ BODY : just pop existing code into an emulator class, and make a new class for gamemachine , using sfml for audio, input and initialisation and such loading files etc and graphics

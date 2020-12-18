@@ -1,0 +1,1 @@
+ URL : "https://github.com/DeathByKorea/BrokeProtocol/issues/116" TITLE : server process hang BODY : server will get removed from server list and you will not be able to connect to it, and the server process will remain and not close. happens on linux and windows based servers. it seems to happen randomly, i've had it happen when server ran for 12hr+ or even less than 3hrs.

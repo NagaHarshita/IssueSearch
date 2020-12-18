@@ -1,0 +1,1 @@
+ URL : "https://github.com/republic-of-almost/mono/issues/1" TITLE : nil move data out of graph BODY : decouple data out of the graph. move the data types to be standalone, allows for better per data type optimizations and also makes the graph cleaner.

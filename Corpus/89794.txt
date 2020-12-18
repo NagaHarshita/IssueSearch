@@ -1,0 +1,1 @@
+ URL : "https://github.com/intel-hpdd/intel-manager-for-lustre/issues/383" TITLE : remove concept of bundles BODY : now that everything comes from external repositories and once the final packages to be moved copr 382 is complete, we can retire the concept of bundles/repos.

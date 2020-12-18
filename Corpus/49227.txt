@@ -1,0 +1,1 @@
+ URL : "https://github.com/2JLTK/starter-todo/issues/19" TITLE : task item maintenance BODY : link for task description: tasks http://comp4711.jlparry.com/display/tutorial/ci-todo12 - a. task validation rules - b. add mtce::add - c. add mtce::edit - d. show todo item being worked with - e. handle form submission - f. handle cancelling - g. handle deletion

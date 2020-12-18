@@ -1,0 +1,2 @@
+ URL : "https://github.com/royalgiant/dancingnomads/issues/9" TITLE : get api: /search BODY : free to use without account. get with parameters at /search. error: - 500. there was an error with your search. please try again. success:
+- 200. return array of matching results.

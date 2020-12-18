@@ -1,0 +1,1 @@
+ URL : "https://github.com/Dogfalo/materialize/issues/5141" TITLE : enable strict mode BODY : bundling materialize-css with other libraries inside a 'use strict' javascript environment has caused several issues 5092, 5140, more ? . the entire code should be written with 'use strict'.

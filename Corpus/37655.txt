@@ -1,0 +1,1 @@
+ URL : "https://github.com/LuckyFellow/dovecot-libsodium-plugin/issues/4" TITLE : missing header files BODY : when i try to compile the source it seems that the needed header files are missing, like lib.h. i would be glad if @luckyfellow could help with this issue.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/NewEdenMC/Perks/issues/11" TITLE : hook into buycraft BODY : on proxy layer hook into buycraft and support associating a perk with a package in buycraft so when package is purchased or expires perk can be given or removed

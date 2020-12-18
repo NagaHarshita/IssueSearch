@@ -1,0 +1,1 @@
+ URL : "https://github.com/dtl-umtb/memo_app/issues/11" TITLE : xaml.cs is too complex BODY : currently our any xaml.cs is too complex. i think that messenger pattern solve this problem. please apply the pattern to this project.

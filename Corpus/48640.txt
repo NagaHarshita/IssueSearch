@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/pxt-adafruit/issues/243" TITLE : share in offline mode BODY : the error that is displayed when you try to publish in offline mode is behind the screen, so you can't see it, and clicking again just makes it spin. should make the error popup more discoverable.

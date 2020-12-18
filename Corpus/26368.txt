@@ -1,0 +1,1 @@
+ URL : "https://github.com/Tiliq/autodiscover.xml/issues/2" TITLE : apple mail/ios mail BODY : has anyone been able to successfully get apple to query your server? i've tried everything to figure this out. i have the dns set up as best i can tell but never see a dns query against my servers or a request from apache for the config.

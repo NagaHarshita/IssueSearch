@@ -1,0 +1,1 @@
+ URL : "https://github.com/ciarams87/PyU4V/issues/11" TITLE : setup.py with error BODY : line 11 needs to be packages= 'pyu4v', 'pyu4v.utils' , to include utils aswell.

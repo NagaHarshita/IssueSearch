@@ -1,0 +1,1 @@
+ URL : "https://github.com/WebDevStudios/plugin-admin-notes/issues/26" TITLE : i18n all text strings BODY : update all text strings in the plugin to be i18n compatible so the plugin can be translated. for example, the aria-label and title tags for the two icons, and the add note button text.

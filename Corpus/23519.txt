@@ -1,0 +1,1 @@
+ URL : "https://github.com/teramotodaiki/h4p/issues/370" TITLE : preview scale size BODY : bug editorpane のオープンと同時に mount された場合、 scale が 0 になる（アニメーションの影響） そもそも可変でないなら scale する必要があまりない

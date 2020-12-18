@@ -1,0 +1,1 @@
+ URL : "https://github.com/mapbox/mapbox-gl-native/issues/10356" TITLE : node bindings for node v8 BODY : hello. here is a node v8 lts released. are you going to add bindings for this version, any eta? thanks.

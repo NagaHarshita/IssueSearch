@@ -1,0 +1,1 @@
+ URL : "https://github.com/deen13/IPLary/issues/7" TITLE : create image dynamically BODY : it would be a nice way to set the dpi in the metadata of a bufferedimage object instead of loading differently resolved images into the jvm

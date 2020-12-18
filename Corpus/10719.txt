@@ -1,0 +1,1 @@
+ URL : "https://github.com/csonuryilmaz/heybot/issues/76" TITLE : datetime - local BODY : operation begin end logged timestamps are one hour back from local datetime: == review - 2017-11-24 08:29:29 == end - 2017-11-24 08:29:58 it should be same as system local datetime. computer local datetime is correct. debian8

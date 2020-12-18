@@ -1,0 +1,1 @@
+ URL : "https://github.com/eecs394-s17/MyVillage/issues/19" TITLE : useless code in tabs.ts BODY : navtoschedule is never called and is confusing because it implies the menu is implemented in tabspage when it is actually handled in the apps directory

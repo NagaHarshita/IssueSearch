@@ -1,0 +1,1 @@
+ URL : "https://github.com/chreul/LAREX/issues/20" TITLE : add tif support BODY : the webapp currently only supports image types common to webapplications. tif is not supported. this should be changed given the importance of the tif format in digitization workflows.

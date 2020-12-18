@@ -1,0 +1,1 @@
+ URL : "https://github.com/kentmoreland/jobster/issues/20" TITLE : client-side error handling BODY : errors on user login sends back an alert message instead of properly displaying a client side error

@@ -1,0 +1,1 @@
+ URL : "https://github.com/PotatoPowered/phone-helper/issues/2" TITLE : fix travis ci BODY : much of the travis testing that was used in this is not longer working. pull some of the changes other working projects in and update all of the unit testing to work properly.

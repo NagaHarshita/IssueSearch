@@ -1,0 +1,1 @@
+ URL : "https://github.com/bartongroup/RATS/issues/17" TITLE : use of g-test BODY : - explore the effect of using a single g-test of independence instead of two g-tests of goodness of fit. - explore usefulness of g-test's additive property with regards to replicates. is there information there that would be useful to share?

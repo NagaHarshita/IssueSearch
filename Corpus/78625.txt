@@ -1,0 +1,1 @@
+ URL : "https://github.com/migeed-z/retic_performance/issues/29" TITLE : quick way to strip types BODY : write a script to remove all types from a benchmark. this should run quickly --- and should not generate all configurations.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/CSC-IT-Center-for-Science/iow-termed-ui/issues/1" TITLE : add property metadata BODY : add type, cardinality and embed to https://github.com/thlfi/termed-api/blob/master/src/main/resources/default/properties.json

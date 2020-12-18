@@ -1,0 +1,1 @@
+ URL : "https://github.com/gaiusjaugustus/intro-r-20170825/issues/10" TITLE : lesson 4: plotting mistake BODY : the x and y in the boxplot function in base r is switched.

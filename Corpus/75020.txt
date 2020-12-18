@@ -1,0 +1,1 @@
+ URL : "https://github.com/ultrabug/py3status/issues/789" TITLE : frame eats the separator BODY : frame eats everything including the separator if... the reason is unknown. outside frame ─────────────────────────────────────── inside frame ! screenshot_2017-03-05_11-44-36 https://cloud.githubusercontent.com/assets/852504/23589772/383e48a4-0199-11e7-839b-f28b67469ff6.png

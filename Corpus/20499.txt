@@ -1,0 +1,1 @@
+ URL : "https://github.com/danielpsf/simple-websocket-server-java/issues/1" TITLE : client getting 404 BODY : url is not being properly exposed so the client webpage is getting 404 while trying to connect.

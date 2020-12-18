@@ -1,0 +1,1 @@
+ URL : "https://github.com/TheSavior/ESLint-Formatter/issues/58" TITLE : specific rules for --fix BODY : is there a way to disable autofix of the 'no-debugger' rule without completely disabling the rule? https://github.com/eslint/eslint/issues/8695

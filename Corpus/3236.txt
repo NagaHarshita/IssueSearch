@@ -1,0 +1,1 @@
+ URL : "https://github.com/FabriceCastel/gvcci/issues/9" TITLE : moar bugs! :d BODY : there's a spelling error when you echo the colour codes to the terminal. you spelt background wrong - it says backgorund ;p also it seems like extract.py doesn't output the template i use anymore. unless you changed the command and i didn't notice.... have a good day! :d

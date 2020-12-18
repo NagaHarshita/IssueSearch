@@ -1,0 +1,1 @@
+ URL : "https://github.com/polkadot-js/dev/issues/53" TITLE : ci does not fail for flow BODY : at least in this case on client - https://travis-ci.org/polkadot-js/client/builds/317652810 l508 local issues, ci didn't fail

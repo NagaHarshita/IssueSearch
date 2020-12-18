@@ -1,0 +1,1 @@
+ URL : "https://github.com/lengstrom/fast-style-transfer/issues/80" TITLE : multiple gpu support BODY : i'm running this on a google cloud machine with 8 gpus. i can see tensorflow detect all the gpus, however training takes just as long as it would on a 1 gpu machine. is there something specific that needs to be done to make this utilize all gpus?

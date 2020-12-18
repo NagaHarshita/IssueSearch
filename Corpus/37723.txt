@@ -1,0 +1,1 @@
+ URL : "https://github.com/codyborders/abandoned_camel_coffee_mercantile/issues/63" TITLE : model spec: category BODY : it looks like we need validations for presence and uniqueness of name, relationships, and a test for the slug method.

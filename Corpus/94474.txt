@@ -1,0 +1,1 @@
+ URL : "https://github.com/callodacity/xi-electron/issues/5" TITLE : cannot get plugins to work BODY : i haven't figured out exactly how plugins are meant to work with the core, so we don't have syntax highlighting/other things as of yet. at some stage we need to take a look at how xi-editor looks for plugins and starts them.

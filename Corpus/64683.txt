@@ -1,0 +1,1 @@
+ URL : "https://github.com/nabla-c0d3/sslyze/issues/202" TITLE : heartbleed not detected BODY : seems that the heartbleed plugin does not detect a heartbleed vuln. correctly. example site: ascn.papasg.com ! image https://cloud.githubusercontent.com/assets/1785416/24493639/c9cd04c8-152f-11e7-9ef8-8d4b51da10fe.png

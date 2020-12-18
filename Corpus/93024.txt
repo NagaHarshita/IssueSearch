@@ -1,0 +1,1 @@
+ URL : "https://github.com/davazp/graphql-mode/issues/11" TITLE : add authentication support BODY : 1. check to see if graphql server require authentication. if so... 1. ask query sender for username and password, which need to encrypted. 1. send over to graphql server, get the response 1. save the token for future query.

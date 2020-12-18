@@ -1,0 +1,1 @@
+ URL : "https://github.com/jumbocodefall2017/NorthShoreCDC/issues/91" TITLE : add google maps api key BODY : when we built the android app into an apk the map is not displaying because we don't have a google api key. https://docs.expo.io/versions/latest/sdk/map-view.html

@@ -1,0 +1,1 @@
+ URL : "https://github.com/omeka/Omeka/issues/830" TITLE : remove omeka-json output BODY : it's kind of a mess, especially relative to the less crummy json that's output in the api. plus, it creates a stealth dependency on the xsl extension, and it's super slow.

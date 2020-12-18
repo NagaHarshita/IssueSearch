@@ -1,0 +1,1 @@
+ URL : "https://github.com/wojtekmaj/react-calendar/issues/17" TITLE : weeknumber '11' glitches BODY : hi wojtekmaj i noticed an issue with the weeknumbers. if you navigate to march 2015, 11 appears twice. if you navigate forward or backward by a month, a duplicate 11 gets pinned for each time you do that. the same thing happens on march 2009. thanks for looking into it!

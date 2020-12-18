@@ -1,0 +1,1 @@
+ URL : "https://github.com/NephologyFJ/nephology/issues/54" TITLE : secure api keys BODY : related to 24 25 and 15 maybe? . private keys/passwords/secret strings should not be exposed to the outside. we need a way to use them without keeping them on the repository. @victorhrsilva can you confirm if the above also applies to issue 15 ?

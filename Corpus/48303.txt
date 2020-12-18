@@ -1,0 +1,1 @@
+ URL : "https://github.com/koding/tunnel/issues/46" TITLE : reverse connect proxy BODY : help please implement this: server 1 1.1.1.1 incoming ports are closed server 2 2.2.2.2 all ports are open http tunnel 1.1.1.1 => 2.2.2.2 connection initializes server 1 on server 2.2.2.2 socks5/http proxy server with outgoing ip 1.1.1.1

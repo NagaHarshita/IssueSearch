@@ -1,0 +1,1 @@
+ URL : "https://github.com/yahoo/intl-messageformat/issues/174" TITLE : es6 module for browser BODY : can you provide an export format such that browsers like chrome which now support es6 modules natively can take advantage of them with a modular import? your source files do not work at least due to lacking the .js extension . thanks!

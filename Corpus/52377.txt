@@ -1,0 +1,1 @@
+ URL : "https://github.com/wagtail/bakerydemo/issues/30" TITLE : clean up db migrations BODY : just before release, let's squash all migrations one more time for a clean start, esp since we have many auto-named migration files.

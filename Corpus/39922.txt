@@ -1,0 +1,1 @@
+ URL : "https://github.com/UCSD-ANF/puppet-antelope/issues/5" TITLE : support for puppet 4 BODY : this module needs to be made compatible with puppet 4. various fixups are required due to language changes, including replacing all empty string checks with undef. the puppet-lint checker doesn't really get all of these, just variable assignments.

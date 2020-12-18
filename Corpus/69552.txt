@@ -1,0 +1,1 @@
+ URL : "https://github.com/google/gson/issues/1097" TITLE : the default don't work! BODY : when i deserialize json without the “code”， it give “0” not the default value 1 ! http://ww1.sinaimg.cn/large/874a93b1gy1fgblqk8ivkj20nt0cxjs0.jpg

@@ -1,0 +1,1 @@
+ URL : "https://github.com/dauxio/daux.io/issues/5" TITLE : change php docker image BODY : it would be great to reduce image size and get rid off so many vulnerabilities from php:7 by using an alpine base image

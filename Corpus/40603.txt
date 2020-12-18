@@ -1,0 +1,1 @@
+ URL : "https://github.com/mellinoe/ImGui.NET/issues/19" TITLE : update to imgui 1.50 BODY : there isn't a ton of stuff that needs to be done. i have a branch with it done here: https://github.com/mellinoe/imgui.net/tree/1.50

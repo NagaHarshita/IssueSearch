@@ -1,0 +1,1 @@
+ URL : "https://github.com/smx-smx/vala/issues/3" TITLE : rework the test runner BODY : might switch for a cmake based test runner instead

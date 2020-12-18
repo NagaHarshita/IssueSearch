@@ -1,0 +1,1 @@
+ URL : "https://github.com/instagrambot/instabot/issues/160" TITLE : bot.login - request BODY : i've mentioned this before but maybe i'm missing something. bot.login does not seem to accept any parameter which means that when i run the bot via cron it fails as i'm expected to pass in the account 1 for existing account, 0 for new one etc. any way to pass that as a parameter?

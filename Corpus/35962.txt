@@ -1,0 +1,1 @@
+ URL : "https://github.com/Kwpolska/pkgbuilder/issues/53" TITLE : fix rpc requests pls BODY : it seems doing one request on about 500 packages at once will make this project fail. to fix it, would be too split up the rpc calls into a more manageable amount

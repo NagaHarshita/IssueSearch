@@ -1,0 +1,1 @@
+ URL : "https://github.com/bbusschots-mu/validateParams.js/issues/1" TITLE : add defaultwheninvalid ppo BODY : add a per-parameter option to define a default to be used when the value is invalid.

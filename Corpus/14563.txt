@@ -1,0 +1,1 @@
+ URL : "https://github.com/AFCStudio/BCRYExporter/issues/137" TITLE : backup info tuple BODY : store backup information in tuple for bmesh functions used by _export_library_geometries .

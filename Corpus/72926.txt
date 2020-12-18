@@ -1,0 +1,1 @@
+ URL : "https://github.com/anthonykulis/automobile/issues/65" TITLE : class does not match uml BODY : https://github.com/anthonykulis/automobile/blob/master/edu/jalc/automobile/onlinebuilder/components/suspension/sport/sportraised.java l16 takes generic shocks and springs, has no wheels for @nickanson @willbkeller @wolfencode3000

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ELENA-LANG/elena-lang/issues/355" TITLE : multimethods : $nil BODY : passing $nil to the multi-method breaks the code, e.g. myclass { set x intnumber n set x literalvalue s } program = var o := myclass new. o x := 2. o x := s . o x := $nil. // breaks the code .

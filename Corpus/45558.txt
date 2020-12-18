@@ -1,0 +1,1 @@
+ URL : "https://github.com/renyuneyun/Easer/issues/46" TITLE : implement timer event BODY : i'd like to make a keepalive for a bluetooth device, therefore i need something to trigger after an event, that will countdown, then trigger another event, or a profile. maybe there's a cmd line that would do it, then send a broadcast?

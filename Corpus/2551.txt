@@ -1,0 +1,1 @@
+ URL : "https://github.com/F1LT3R/axel/issues/3" TITLE : axel over ssh BODY : is it possible to specify input and output process streams so as to use axel over an ssh server e.g. ssh2 ?

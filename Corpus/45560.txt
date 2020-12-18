@@ -1,0 +1,1 @@
+ URL : "https://github.com/aetrion/erl-dns/issues/64" TITLE : implement uri rr type BODY : https://tools.ietf.org/html/rfc7553 useful for resolving a hostname to an alternate uri. hopefully someday browser vendors will support this for url redirection.

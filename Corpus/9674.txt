@@ -1,0 +1,1 @@
+ URL : "https://github.com/Hacker0x01/react-datepicker/issues/1165" TITLE : add 'id' as prop BODY : would be nice to have a feature where you can pass the id as well to the calendar input, so in the case where you have a <label for= abc >aaa</label> it can focus on the date picker input.

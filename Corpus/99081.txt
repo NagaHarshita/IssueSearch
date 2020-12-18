@@ -1,0 +1,1 @@
+ URL : "https://github.com/mstuart1/field/issues/13" TITLE : make fish rate more robust BODY : compare avg_time among year with each column as a year visualize? if there is no big difference or trend, avg all years together and use this time to calculate for more sites than are currently in the table. get the observations column to sum up

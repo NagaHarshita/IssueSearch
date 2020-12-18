@@ -1,0 +1,1 @@
+ URL : "https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator/issues/102" TITLE : history size constraints BODY : hi! can you just increase the constraint for the history size, from 50 to, let's say, 100? sometimes 50 is just not enough for me, and i had to change this constraint locally in your scripts. thanks. :

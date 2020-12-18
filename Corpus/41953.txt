@@ -1,0 +1,1 @@
+ URL : "https://github.com/sebastianfeldmann/phpbu/issues/79" TITLE : add static type hints BODY : make use of php7 static type hints

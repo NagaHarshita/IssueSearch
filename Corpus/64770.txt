@@ -1,0 +1,1 @@
+ URL : "https://github.com/Turfjs/turf/issues/660" TITLE : how accurate is buffer? BODY : please see attached screen shot of a buffer created around a polygon. it appears that the north and south extents are further away than they should be. ! buffer https://cloud.githubusercontent.com/assets/13222323/24910782/c2d1e5b8-1ec0-11e7-9edd-4ff399934d51.png

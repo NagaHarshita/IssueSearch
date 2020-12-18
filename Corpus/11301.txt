@@ -1,0 +1,1 @@
+ URL : "https://github.com/ONCdb/ONCdb/issues/8" TITLE : generate db file BODY : use andrea's source list to populate the sources and photometry tables. make sure the photometry bands are renamed to match svo_filters . add ra and dec columns to the photometry table.

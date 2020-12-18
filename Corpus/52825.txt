@@ -1,0 +1,1 @@
+ URL : "https://github.com/emm035/reci-p/issues/8" TITLE : create editor activity BODY : the editor needs to be able to: - create recipes - view recipes open with editing disabled - edit existing recipes the easiest way to do this is for the editor to receive a recipe's id through an intent, and then query all the information from firebase at that time

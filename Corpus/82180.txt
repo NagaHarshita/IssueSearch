@@ -1,0 +1,1 @@
+ URL : "https://github.com/tideland/goaudit/issues/3" TITLE : add logfailf to assertion BODY : opposite to the standard logging the logfailf collects the logged output and only prints it in case of a failing test.

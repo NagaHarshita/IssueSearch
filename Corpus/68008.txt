@@ -1,0 +1,1 @@
+ URL : "https://github.com/gildata/RAIO/issues/7" TITLE : redux & immutable state BODY : redux > object.assign target, ...sources ; jsx // no need full hand copy, es6 object.assign object.assign target, ...sources ; // good: new copy object.assign {}, state, {role: 'root'} ; // bad: mutating object.assign {state, {role: 'root'} ;

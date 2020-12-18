@@ -1,0 +1,1 @@
+ URL : "https://github.com/crystal-lang/crystal/issues/4155" TITLE : rand and divide BODY : is the following expected? rand 3 / 3 ok rand 3 / 3 ok rand 3 /3 syntax error in eval:3: unexpected token: delimiter_start rand 3 /3 syntax error in eval:3: unexpected token: delimiter_start

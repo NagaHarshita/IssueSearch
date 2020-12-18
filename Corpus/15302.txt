@@ -1,0 +1,1 @@
+ URL : "https://github.com/joshcummingsdesign/grizzly-wp/issues/192" TITLE : db search replace BODY : need to use the --all-tables option with wp search-replace to catch plugins like redirection. if you are sharing a database, you can change the prefix for multiple sites and use the --all-tables-with-prefix option.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/src-d/rovers/issues/162" TITLE : new provider: gitiles BODY : gitiles https://gerrit.googlesource.com/gitiles/ is a git web interface, written in java. some big projects like https://android.googlesource.com/ and use it, so it would be nice to be able to add them to the pipeline by adding a gitlies provide to rovers.

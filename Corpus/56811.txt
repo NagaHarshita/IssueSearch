@@ -1,0 +1,1 @@
+ URL : "https://github.com/bleenco/ngx-uploader/issues/399" TITLE : only upload excel file BODY : ! image https://user-images.githubusercontent.com/16699173/33710247-ec9517d6-db7a-11e7-9a76-696cde333628.png how can i init this 'allowedcontenttypes' arr to restrict only upload excel file ?

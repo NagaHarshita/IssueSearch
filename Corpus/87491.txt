@@ -1,0 +1,2 @@
+ URL : "https://github.com/Longri/cachebox3.0/issues/105" TITLE : list item click detection BODY : handle with click on whole rectangle!
+at the moment it will detect only with click on child

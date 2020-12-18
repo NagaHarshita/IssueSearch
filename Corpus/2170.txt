@@ -1,0 +1,1 @@
+ URL : "https://github.com/ankane/dexter/issues/1" TITLE : todo / ideas BODY : - multi-column indexes - advisory locks if multiple instances are running use case: processing logs for primary and multiple replicas - apt install dexter - determine write-heavy tables automatically - notifications when indexes found email & slack

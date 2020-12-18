@@ -1,0 +1,1 @@
+ URL : "https://github.com/staffano/meta-crosstools/issues/2" TITLE : merge sysroot and prefix BODY : no use in having a separate sysroot. it also simplifies the image-handling.

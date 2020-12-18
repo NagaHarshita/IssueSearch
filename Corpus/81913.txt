@@ -1,0 +1,1 @@
+ URL : "https://github.com/GoldenSoftwareLtd/gedemin/issues/3914" TITLE : action для speedbutton BODY : по клику не заходит в action, привязанный к speedbutton. тот же action на bitbtn отлично работает. что делаю не так?

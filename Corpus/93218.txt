@@ -1,0 +1,1 @@
+ URL : "https://github.com/leezer3/OpenBVE/issues/198" TITLE : add loading screen spinner BODY : https://github.com/leezer3/openbve/pull/197 this adds obj files to those able to be loaded by the sim. parsing a large file may take ~30s, hence we need a visual indicator 'spinner' to show that the loading process has not frozen.

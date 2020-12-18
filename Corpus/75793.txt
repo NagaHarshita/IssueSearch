@@ -1,0 +1,1 @@
+ URL : "https://github.com/weaveworks/flux/issues/459" TITLE : ignore kubernetes addons BODY : see: https://github.com/kubernetes/kubernetes/blob/master/cluster/addons/readme.md > each add-on must specify the following label: kubernetes.io/cluster-service: true . we should just ignore them because they can't be changed via the api, only by modifying files on the server.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/badoualy/stepper-indicator/issues/43" TITLE : compile time error BODY : hi, badoualy, i am trying to add this library to my project but it's failed to compile using this // for viewpager indicator compile 'com.github.badoualy:stepper-indicator:1.0.7' tried restart studio, invalidate catche. tried another two machine pls help me out from this problem

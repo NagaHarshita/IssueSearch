@@ -1,0 +1,1 @@
+ URL : "https://github.com/heikkilevanto/beertracker/issues/43" TITLE : better default location BODY : when copying a beer, i often get a wrong location. here is a better logic: - if we have a previous entry from the same day, copy the location from there - if not, use the location of the entry we just copied.

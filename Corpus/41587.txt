@@ -1,0 +1,1 @@
+ URL : "https://github.com/clong/DetectionLab/issues/26" TITLE : add a build.sh script BODY : add a shell script that automates and validates the entire build process step-by-step.

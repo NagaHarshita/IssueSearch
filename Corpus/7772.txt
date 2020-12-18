@@ -1,0 +1,1 @@
+ URL : "https://github.com/LeEnno/stickyHeaders/issues/5" TITLE : ios fling issue BODY : on ios, if user scroll view with a fling gesture, the header won't stick until scroll stops. how to achieve the effect that the header would sticky right on the header scroll to top, no matter it's in a fling? fling: quick scroll on ios

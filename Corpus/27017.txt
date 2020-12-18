@@ -1,0 +1,1 @@
+ URL : "https://github.com/douwevos/natpad/issues/4" TITLE : clean up xml editor BODY : clean up the current version of the xml editor. this includes: removing the initial outline-viewer. better looking color palette

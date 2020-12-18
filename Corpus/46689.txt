@@ -1,0 +1,1 @@
+ URL : "https://github.com/ThreatResponse/threatresponse_web/issues/4" TITLE : models import missing BODY : when trying to run threatresponse_web/main.py , looks like a few files are looking for from threatresponse import models , which doesn't exist. i didn't find that file in any commits so it either wasn't committed or a legacy import?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/gyoungeunbae/OnTheWay/issues/85" TITLE : 버그 메인뷰 BODY : 메인뷰의 걸음수 체크해서 색상변화를 주는 이미뷰 원 에서 걸음수가 9500인데 초록색으로 표시됨 -> 애플워치의 걸음수와 같이 계산되어 문제 생김

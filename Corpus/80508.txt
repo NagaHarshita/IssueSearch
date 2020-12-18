@@ -1,0 +1,1 @@
+ URL : "https://github.com/aldeed/node-simple-schema/issues/102" TITLE : typing for simple schema BODY : i am using meteor with angular 2 and typescript. for now, i could not file typing for simple schema. could you please define typing for this package. thank you very much.

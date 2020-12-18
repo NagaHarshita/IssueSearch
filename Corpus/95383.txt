@@ -1,0 +1,1 @@
+ URL : "https://github.com/handsontable/handsontable/issues/4142" TITLE : custom border on fixed row BODY : bottom border on fixed row is overlapping making the border thicker and while horizontal scrolling the border is moving independently. demo http://jsfiddle.net/hn7ae6vs/1/

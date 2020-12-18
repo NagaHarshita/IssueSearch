@@ -1,0 +1,1 @@
+ URL : "https://github.com/XhmikosR/find-unused-sass-variables/issues/1" TITLE : add an api BODY : maybe we should be able to do that in nodejs scripts : javascript const findunusedsassvar = require 'find-unused-sass-variables' const folders = const unused = findunusedsassvar.find folders

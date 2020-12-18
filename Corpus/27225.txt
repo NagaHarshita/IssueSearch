@@ -1,0 +1,1 @@
+ URL : "https://github.com/jostbr/MazeGenerator/issues/16" TITLE : create a dev branch BODY : it might be a good idea to create a new branch, development that we can push up to master when we know that it's fully stable. this would reduce the risk of a user running across a botched auto merge or bug.

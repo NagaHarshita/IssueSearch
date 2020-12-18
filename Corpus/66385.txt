@@ -1,0 +1,1 @@
+ URL : "https://github.com/akvo/akvo-web/issues/1230" TITLE : mobile device font size BODY : smaller font is required for first row main image, ensure that breakpoints are for narrow screen only.

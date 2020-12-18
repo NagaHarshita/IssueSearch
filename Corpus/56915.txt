@@ -1,0 +1,1 @@
+ URL : "https://github.com/kaz-yos/tableone/issues/24" TITLE : output with r markdown BODY : hi, thank you very much such a great package, it is very handy, i am trying to output the result from createtableone to doc file, but neither r markdown not html works, and copy/paste from the console will mixed up the format. how do you output the table to other document?

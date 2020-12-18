@@ -1,0 +1,1 @@
+ URL : "https://github.com/heavywatal/practice-py/issues/14" TITLE : add fitness and selection BODY : - 個体クラスに適応度を持たせる - 将来的には、遺伝子型に依存して適応度を決めるように書くかもしれないが、今回はとりあえず初期化関数の引数で渡す - その引数を省略した場合のデフォルト値が1.0になるようにする - 適応度に応じて次世代に残る確率が変化するように wright-fisher と moran のステップを変更する - 全個体のうち半分が適応度1.0、残りが1.5みたいな集団を作り、固定の様子を観察してみる

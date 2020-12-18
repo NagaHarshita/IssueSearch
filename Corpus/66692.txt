@@ -1,0 +1,1 @@
+ URL : "https://github.com/fyhao/tns-webform-client/issues/63" TITLE : new form ui element map BODY : new form ui element map default google map. option to change different map. option to include lat and lng. option to request current user location. once ui requested current user location, automatically set into context vars pool, as lat and lng

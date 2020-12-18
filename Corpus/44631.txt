@@ -1,0 +1,1 @@
+ URL : "https://github.com/aspnet/EntityFrameworkCore/issues/9728" TITLE : filtering by datetime BODY : is supported in ef core 2.0? i cannot find any information about this.

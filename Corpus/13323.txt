@@ -1,0 +1,1 @@
+ URL : "https://github.com/matterport/Mask_RCNN/issues/115" TITLE : training is slow BODY : hi @waleedka , when i am training the model with 8 gpus in a single machine, as the training procedure goes, the speed slows down. any suggestions to improve my situation? how long does it take you to finish the training process with p100? many thanks.

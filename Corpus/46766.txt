@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla/experimenter/issues/258" TITLE : move admin to /admin/ BODY : let's move admin out of the root path and use the new landing pages as the root path.

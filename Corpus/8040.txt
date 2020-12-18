@@ -1,0 +1,1 @@
+ URL : "https://github.com/sixhop/AutoMySQLBackup/issues/1" TITLE : md5sum failed : BODY : attempted to run installer after cloning ssh repo, received an md5sum failed : message for each file in the check. worked around the issue by regenerating the md5sums of each file in the check not ideal and replacing them in the install.sh file. running centos 6.8 final .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/FriendsOfPHP/PHP-CS-Fixer/issues/3316" TITLE : bug in phpdoc_trim fixer BODY : php 7.1.12; php cs fixer 2.9.0 the fixstart method in the phpdoctrimfixer may return null if it couldn't match, which ends up crashing everything. will submit a reproducible test case later today.

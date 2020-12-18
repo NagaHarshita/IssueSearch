@@ -1,0 +1,1 @@
+ URL : "https://github.com/tanema/light_world.lua/issues/34" TITLE : body:isinshadow method BODY : returns true/false depending on whether the body is in shadow.

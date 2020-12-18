@@ -1,0 +1,1 @@
+ URL : "https://github.com/hansihe/rustler/issues/111" TITLE : how to use dirty nifs BODY : is there a way to pass dirty nifs flags when exporting the functions?

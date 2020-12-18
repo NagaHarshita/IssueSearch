@@ -1,0 +1,1 @@
+ URL : "https://github.com/Ginko-X/Streaming_NESL/issues/1" TITLE : bug fix and optimization BODY : 1. add keyword using in comprehension expressions 2. implement append function for svcode 3. svcode instruction optimizations

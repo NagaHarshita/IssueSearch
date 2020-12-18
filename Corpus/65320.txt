@@ -1,0 +1,1 @@
+ URL : "https://github.com/hathitrust/datasets/issues/10" TITLE : incremental rsync files BODY : produce a list of items that have been updated each week for an incremental rsync. collaborate with marie to make sure this is getting generated.

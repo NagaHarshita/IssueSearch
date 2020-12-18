@@ -1,0 +1,1 @@
+ URL : "https://github.com/spale75/piranha/issues/2" TITLE : create proper makefiles BODY : clean.sh and compile.sh should be replaced by a configure and a proper makefile.

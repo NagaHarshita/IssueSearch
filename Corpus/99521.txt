@@ -1,0 +1,1 @@
+ URL : "https://github.com/CommonGarden/Grow-IoT/issues/385" TITLE : mongo high cpu utilization BODY : when running grow-iot meteor on my macos machine, process mongod always consumes 99% cpu pls advise!

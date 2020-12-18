@@ -1,0 +1,1 @@
+ URL : "https://github.com/seal789ie/react-owl-carousel/issues/16" TITLE : get current slide number BODY : is there a way to get the currently shown slide? i want each slide to navigate to a unique page when clicked on, which means i will need to know which slide is currently focused.

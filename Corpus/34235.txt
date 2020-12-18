@@ -1,0 +1,1 @@
+ URL : "https://github.com/SodiumFRP/sodium-swift/issues/2" TITLE : can't build examples BODY : xcode chokes on some cocoapods-related issues that would likely bee resolve by a fix for 1.

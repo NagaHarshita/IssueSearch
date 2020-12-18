@@ -1,0 +1,1 @@
+ URL : "https://github.com/EnvironmentOntology/envo/issues/485" TITLE : foam and other colloids BODY : once https://github.com/pato-ontology/pato/issues/91 and 484 are resolved, we can axiomatise foam and related classes to allow inference-populated defined classes.

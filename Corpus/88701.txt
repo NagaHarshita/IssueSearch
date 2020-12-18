@@ -1,0 +1,1 @@
+ URL : "https://github.com/gocd-contrib/gocd-build-status-notifier/issues/27" TITLE : on merge return pr number BODY : is there a possiblity to return the pull request number, as an environment variable? i can't find a way to get the pull request number with just the commit hash. during a pull request the pr number is present.

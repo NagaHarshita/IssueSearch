@@ -1,0 +1,1 @@
+ URL : "https://github.com/zazukoians/trifid-renderer-simple/issues/1" TITLE : ordering of indexes BODY : currently a directory -index via containergraphquery is sorted by uri. if i specify a label like schema:name or rdfs:label or alike i would like to have it sorted by that string instead.

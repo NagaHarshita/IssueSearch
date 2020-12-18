@@ -1,0 +1,1 @@
+ URL : "https://github.com/kbs1/mpdf-5.7-php7/issues/1" TITLE : image printing with var: BODY : there is a small error in version 5.7.4 function _getimage .... i found it when updating from 5.7.1 to be able to run php7 line 9932: $data = $this->$v 1 it should be: $data = $this->{$v 1 }; regards, henk

@@ -1,0 +1,1 @@
+ URL : "https://github.com/J2Kbr/TitanTwo/issues/61" TITLE : titan two device api. BODY : this is a feature request for an api for software development. similar to t1 device api, the api would allows programmers to develop plugins and applications to interact directly with the titan two device. ideally this api would provide a 64bit dll.

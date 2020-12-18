@@ -1,0 +1,1 @@
+ URL : "https://github.com/arendst/Sonoff-Tasmota/issues/1257" TITLE : web admin password twice BODY : typically, systems require a user to enter a password twice to ensure they match. if the user mis-types it, they may be locked out if they can't guess the typo, and i would assume they would have to re-flash their device. two of mine are mounted in hard to reach places.

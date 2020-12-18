@@ -1,0 +1,1 @@
+ URL : "https://github.com/irufus/gdax-java/issues/31" TITLE : can i just get a jar? BODY : i just want the jar. ./gradlew jar does not work. i dont want to run this in spring boot. just standalone java application.

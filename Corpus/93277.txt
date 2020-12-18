@@ -1,0 +1,1 @@
+ URL : "https://github.com/tht/ale_axp209/issues/1" TITLE : add observer functionality BODY : processes should be able to register for power state changes.

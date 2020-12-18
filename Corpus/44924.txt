@@ -1,0 +1,1 @@
+ URL : "https://github.com/m0a/typescript-fsa-redux-observable/issues/2" TITLE : generated code is es6 BODY : could you please ship es5 code in the dist folder ? the es6 can cause problems with browser, uglifyjs and various other tools. it should be enough to change target in tsconfig.json to es3 or es5.

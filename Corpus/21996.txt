@@ -1,0 +1,1 @@
+ URL : "https://github.com/nss-day-cohort-20/group-project-movie-history-gitflix/issues/40" TITLE : html: container id BODY : create a container and give it a unique id so that each movie can be displayed dynamically within the container within the body

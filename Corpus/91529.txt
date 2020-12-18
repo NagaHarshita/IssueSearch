@@ -1,0 +1,1 @@
+ URL : "https://github.com/broadinstitute/inferCNV/issues/6" TITLE : tumor cells no clustering BODY : dear authors, may i know if there is an option to suppress the clustering of cells by the cnv profile in the heatmap? or pass a predefined dendrogram to the heatmap?

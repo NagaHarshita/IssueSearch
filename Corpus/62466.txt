@@ -1,0 +1,1 @@
+ URL : "https://github.com/xTVaser/sr_discord_bot/issues/25" TITLE : command - add resources BODY : add json field to game, so it can be easily deleted at the same time. !addresource game name <link>

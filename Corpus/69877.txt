@@ -1,0 +1,1 @@
+ URL : "https://github.com/jendrikseipp/pogo/issues/32" TITLE : unable to read id3 tags BODY : pogo is unable to read id3 tags for my mp3s. at first i thought it was only for music located in external media, so i moved some music to my internal drive. id3 tags still not being read. running ubuntu 10.10

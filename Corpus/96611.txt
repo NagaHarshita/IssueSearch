@@ -1,0 +1,1 @@
+ URL : "https://github.com/akoumjian/datefinder/issues/50" TITLE : fails on a specific string BODY : in 13 : def fd s : ...: for match in datefinder.find_dates s : ...: print match ...: in 31 : b out 31 : '37.47.96.153 - - 09/jun/2017:00:00:47 +0200 get /style/common/img/icons/friendmsg.png http/1.1 304 -' in 32 : fd b 0304-06-23 00:00:00

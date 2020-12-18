@@ -1,0 +1,1 @@
+ URL : "https://github.com/FRRouting/gentoo-overlay/issues/5" TITLE : rethink ci's scope BODY : it's taking well over 4h now for a pr. this is inefficient. i suggest moving the ci to the basics, being x86 hardened and amd64 hardened-nomultilib. if it compiles fine there, it should compile fine on the normal stage3 as well.

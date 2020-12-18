@@ -1,0 +1,1 @@
+ URL : "https://github.com/TechnionYP5777/IntelliJ-Spartanizer/issues/72" TITLE : move unless tests BODY : @michalcohen , please move the tests you wrote for unless nano to the package below the one it is in right now tippers instead of plugin.tippers , and change it to work with tippertest class update it if you need/want .

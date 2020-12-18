@@ -1,0 +1,1 @@
+ URL : "https://github.com/php-enqueue/enqueue-dev/issues/128" TITLE : amqp lib support BODY : i am going to use enqueue in our next project but i cannot use amqp extension. are you planning to support phpamqplib?

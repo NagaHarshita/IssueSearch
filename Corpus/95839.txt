@@ -1,0 +1,1 @@
+ URL : "https://github.com/kununu/nukleus/issues/50" TITLE : docs remove bootstrap-sass BODY : we export everything we need from bootstrap from main.scss , so we do not need this dependency in the docs.

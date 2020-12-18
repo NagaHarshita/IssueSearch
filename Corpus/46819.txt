@@ -1,0 +1,1 @@
+ URL : "https://github.com/wrouesnel/postgres_exporter/issues/50" TITLE : multiple data sources BODY : hi all, would be possible to have multiple data_source ?? we would use the exporter for a microservices architecture with various postgres data bases. thanks

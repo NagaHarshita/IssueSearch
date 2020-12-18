@@ -1,0 +1,1 @@
+ URL : "https://github.com/mekalz/volcano/issues/1" TITLE : multiple instances support BODY : run multiple instances with different configuration files. start and stop some instance according to the configuration file path.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/u01jmg3/ics-parser/issues/118" TITLE : cleandata convert problem BODY : hello, cleandata function not working with word pažiūrėti , it's return pažiūr�--ti $cleaneddata = str_replace array chr 145 , chr 146 , chr 147 , chr 148 , chr 150 , chr 151 , chr 133 , chr 194 , $replacementchars, $cleaneddata ;

@@ -1,0 +1,1 @@
+ URL : "https://github.com/poanetwork/poa-dapps-validators/issues/19" TITLE : fix hard code moc metadata BODY : problem: moc metadata is not showing in dapp solution: hardcode moc metadata

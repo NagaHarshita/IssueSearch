@@ -1,0 +1,1 @@
+ URL : "https://github.com/hallahan/LeafletPlayback/issues/52" TITLE : rotate without animation BODY : is there a way to enable iconangle without a rotation transition? because it give me a weird rotation animation like a compass. i need to do rotation without the transition animation.

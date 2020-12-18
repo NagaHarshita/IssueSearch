@@ -1,0 +1,1 @@
+ URL : "https://github.com/vmware/vic/issues/4241" TITLE : implement docker run --rm BODY : it's a really useful feature, particularly when it comes to running a container to modify a volume and you then want it subsequently detached to be used by a different container. should be relatively simple - just a question of chaining a delete call following container shutdown?

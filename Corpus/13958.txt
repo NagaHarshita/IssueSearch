@@ -1,0 +1,1 @@
+ URL : "https://github.com/iammert/StatusView/issues/4" TITLE : about the display BODY : if statusview for the a interface, i send eventbus from the b interface to the a interface, call statusview.setstatus to change the statusview status, if i changed the three states, when back to the a interface, stateview will have a stuck there will not disappear. how do i fix this bug?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/portux/NAJU-Adebar/issues/23" TITLE : logout does not work BODY : currently upon pressing the logout button nothing happens. apparently the form to perform the logout itself is not being placed in the html page.

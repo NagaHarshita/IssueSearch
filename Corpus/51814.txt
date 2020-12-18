@@ -1,0 +1,1 @@
+ URL : "https://github.com/severndb/sevenrules/issues/9" TITLE : body of all whitespace BODY : situation a valid subject precedes a blank line correctly separating subject from body. the body consists purely of whitespace.

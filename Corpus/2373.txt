@@ -1,0 +1,1 @@
+ URL : "https://github.com/lowjoel/message_bus-client/issues/7" TITLE : add a license BODY : this project cant be used because it is not released under any license. it needs a license and mention in: license file in the root of the repository spec.license in the gemspec optionally the readme

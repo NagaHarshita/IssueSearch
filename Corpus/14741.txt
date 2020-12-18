@@ -1,0 +1,1 @@
+ URL : "https://github.com/kntzn/compiler/issues/3" TITLE : call function bug BODY : call jumps to the middle of the line

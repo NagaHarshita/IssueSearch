@@ -1,0 +1,1 @@
+ URL : "https://github.com/reactjs/redux/issues/2565" TITLE : is this change ok? BODY : https://github.com/reactjs/redux/blob/f267dd02d19c2ede88e37b8a73cc0b0b63413be2/src/applymiddleware.js l25-l28 below is ok? javascript const middlewareapi = { getstate: store.getstate, dispatch }

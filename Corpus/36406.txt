@@ -1,0 +1,1 @@
+ URL : "https://github.com/mikeperalta1/loki-render/issues/4" TITLE : headless master mode BODY : master should eventually have the ability to run via command line only, without a gui, so it can be run on headless servers. this would first require a client 2 mode.

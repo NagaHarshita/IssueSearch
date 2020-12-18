@@ -1,0 +1,1 @@
+ URL : "https://github.com/richardroy/abitbetter/issues/27" TITLE : convert to typescript BODY : change the app to typescript, no need for new types yet keep it simple, set to preset, just get tsconfig working

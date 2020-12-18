@@ -1,0 +1,1 @@
+ URL : "https://github.com/openstates/openstates/issues/1676" TITLE : az: bill status updates BODY : state: az reported via contact@ email we aren't showing any az bills as passed this session, i think we're grabbing the actions but not categorizing them. so most likely az actions could use a look- https://openstates.org/az/bills/53rd-1st-regular/hb2262/ for example

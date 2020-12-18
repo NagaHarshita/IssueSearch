@@ -1,0 +1,1 @@
+ URL : "https://github.com/codecentric/beats/issues/4" TITLE : support bulk upload BODY : currently events are uploaded individually. also look at the mode stuff from beats

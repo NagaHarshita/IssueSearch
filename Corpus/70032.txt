@@ -1,0 +1,1 @@
+ URL : "https://github.com/cribbstechnologies/ha_config/issues/4" TITLE : update mqtt sensor node BODY : modify mqtt sensor node sketch to sample based on frequency rather than checking against a threshold in a loop; this should stabilize the graphs in grafana and eliminate dead spots

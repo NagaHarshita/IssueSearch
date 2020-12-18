@@ -1,0 +1,1 @@
+ URL : "https://github.com/tiny-dnn/tiny-dnn/issues/576" TITLE : compare with intel caffe BODY : is there any result for comparing tiny-dnn with intel optimized version caffe on xeon cpus?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/czim/laravel-paperclip/issues/2" TITLE : how i can change filename? BODY : i want use a hash or maybe model slug for file name. how i can change filename of uploaded file? in config i use: 'base-path' => ':class_name/:attribute',

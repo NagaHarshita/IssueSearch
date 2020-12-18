@@ -1,0 +1,1 @@
+ URL : "https://github.com/DevShaft/Backup-TA/issues/17" TITLE : su and root failed BODY : when trying to backup an xperia z2 d6503 i got this error waiting for usb debugging...ok pushing backup ta tools...ok checking for su binary...failed requesting root permissions...failed i executed with administrator rights.

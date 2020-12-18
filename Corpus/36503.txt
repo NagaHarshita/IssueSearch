@@ -1,0 +1,1 @@
+ URL : "https://github.com/pixijs/pixi-spine/issues/153" TITLE : how to adjust scale? BODY : i finally got different resolution of textures/atlases to load, but it didn't affect the scale of the animation. now the images are just fuzzy : - anybody know how to set the scale of your spine animation when or before loading into pixi?

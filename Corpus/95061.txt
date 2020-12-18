@@ -1,0 +1,1 @@
+ URL : "https://github.com/os3llc/phss/issues/8" TITLE : convert rest api to lambda BODY : rest api needs to be written in python so that it can be exposed via lambda. this means: - write python functions that communicate with postgresql - import code into lambda - create rest endpoints for python functions

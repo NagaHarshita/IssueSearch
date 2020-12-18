@@ -1,0 +1,1 @@
+ URL : "https://github.com/kel85uk/ewoms/issues/9" TITLE : connection aquifer to grid BODY : connect aquifer to the grid only if - the face is on the outside of the reservoir, or - the face adjoins an inactive cell.

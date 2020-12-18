@@ -1,0 +1,1 @@
+ URL : "https://github.com/kimjmin/esbook/issues/8" TITLE : 6. 검색 동작 구조 BODY : - page 매기기 - 검색 페이즈 - 검색 타입 - query_then_fetch - dfs_query_then_fetch - 세그먼트 segments - 세그먼트 개요 - 세그먼트 병합 – segment merge - query cash - query cash 동작 개요 - bitsets

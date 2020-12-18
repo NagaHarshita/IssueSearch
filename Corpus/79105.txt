@@ -1,0 +1,1 @@
+ URL : "https://github.com/pallets/flask/issues/2286" TITLE : rewrite the testing docs BODY : the testing docs still talk about unittest. we need to update these with modern patterns using pytest and fixtures.

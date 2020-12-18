@@ -1,0 +1,1 @@
+ URL : "https://github.com/Zoetermeer/latro/issues/57" TITLE : allow namespace aliasing BODY : allow substituting a user-defined name for a fully-qualified module path, as in haskell: import core::list as l main _ = println l::length 1, 2

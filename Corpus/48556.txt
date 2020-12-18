@@ -1,0 +1,1 @@
+ URL : "https://github.com/ap8322/scala-sandbox/issues/2" TITLE : separate each project BODY : 課題 すべてのファイルがsrc内にある為､毎回全部コンパイルが走るので非効率｡ あるべき姿 - プロジェクト毎にsbtを分離する｡ - rootディレクトリにあるsbtは全てのプロジェクトをコンパイルするタスクを追加したい｡

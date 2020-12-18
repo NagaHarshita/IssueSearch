@@ -1,0 +1,1 @@
+ URL : "https://github.com/HdrHistogram/HdrHistogram.NET/issues/62" TITLE : auto release on tag BODY : https://www.appveyor.com/docs/deployment/github/ when we tag the repo, it would be nice if a release was just created repo tagged github release created nuget package added to the release package published to nuget.org

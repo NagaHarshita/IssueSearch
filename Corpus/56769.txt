@@ -1,0 +1,1 @@
+ URL : "https://github.com/hiddentao/ethereum-blocks/issues/1" TITLE : occasional block skips BODY : thanks for writing this code, we're really happy with it. sometimes the callback our code has on etheruem-blocks is called for block x, then for block x + 2, never calling with x + 1, even in the future. do you have any idea why this might be happening?

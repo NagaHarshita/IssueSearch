@@ -1,0 +1,1 @@
+ URL : "https://github.com/maccoda/kris_kringle/issues/3" TITLE : single file dump BODY : currently have no way to check all of the allocations at once. this is probably useful just to ensure it has worked correctly.

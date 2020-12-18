@@ -1,0 +1,1 @@
+ URL : "https://github.com/hashicorp/terraform/issues/16820" TITLE : build map from list ? BODY : hi, currently, the map interpolator seems to support only an even number of arguments of type string . e.g. map foo , bar , bar , baz is there a way to make it work with a list of those argument instead ? map foo , bar , bar , baz

@@ -1,0 +1,1 @@
+ URL : "https://github.com/pioneers/PieCentral/issues/102" TITLE : dawn console output BODY : dawn needs to modify its runtime api communication to be able to allow for console output to be displayed. could try to differentiate errors from non-error through color scheme. could try to keep logs of console output for remote debugging.

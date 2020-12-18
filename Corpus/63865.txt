@@ -1,0 +1,1 @@
+ URL : "https://github.com/davidedc/Algebrite/issues/49" TITLE : expression too complex. BODY : hi davide, there is some problem below: a=require 'algebrite' ; s = 3x/ x^2+2 - 2/ x-1 - 4 ; a.denominator s // works. s = 2x-5 3x-3 x+4 / x^2-5 + x-5 2x-3 2x+5 / x^2+3x-2 + 2x - 3 ; a.denominator s // doesn't work.

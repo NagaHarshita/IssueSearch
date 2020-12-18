@@ -1,0 +1,1 @@
+ URL : "https://github.com/Shraeyas/CodeChef-Attendance/issues/5" TITLE : 503 on codechef BODY : an error message needs to be shown in case codechef returns a 503 error. at present the tool will show as absent in every contest.

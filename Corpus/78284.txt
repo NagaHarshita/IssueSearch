@@ -1,0 +1,1 @@
+ URL : "https://github.com/EightMedia/design-manual/issues/70" TITLE : precompile sidebar items BODY : this is done through js clientside, but should be prerendered. the markdown lexer can be used on all pages, not just the components page, to generate the sidebar. the template logic could move to pug and we can drop mustache as a dependency.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ThemeFuse/Unyson/issues/3002" TITLE : form submission loader BODY : is it possible to have a loader after submitting a form? its not user friendly that it just wait for the page to reload. if the request is slow then the user has no idea if the form was submitted or not. thank you

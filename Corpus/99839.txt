@@ -1,0 +1,1 @@
+ URL : "https://github.com/ErikMinekus/sm-ripext/issues/1" TITLE : no libvstdlib_srv.so file. BODY : sm unable to load extension rip.ext : libvstdlib_srv.so: cannot open shared object file: no such file or directory. i couldn't find libvstdlib_srv.so but i found libvstdlib_s.so.

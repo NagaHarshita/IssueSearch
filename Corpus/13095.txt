@@ -1,0 +1,1 @@
+ URL : "https://github.com/stig/json-framework/issues/249" TITLE : support for tvos BODY : i'm writing an app for tvos and i would like to use your library but it is not declared to be compatible with tvos in the podspec. is it compatible ? thanks

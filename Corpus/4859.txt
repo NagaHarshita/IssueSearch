@@ -1,0 +1,1 @@
+ URL : "https://github.com/clappr/clappr/issues/1531" TITLE : hls link error BODY : i'm trying to load m3u8 stream, doesnt work. http://telekomtv.ro.edgesuite.net/shls/live$moozdancehd/6.m3u8/level 545259 ?start=live&end=end any ideea why?

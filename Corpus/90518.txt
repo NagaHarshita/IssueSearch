@@ -1,0 +1,1 @@
+ URL : "https://github.com/Sygmei/ViliData/issues/5" TITLE : simplify removenode usage BODY : should free memory per default and nodetype doesn't have to be specified.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/whxaxes/gulp-tobase64/issues/2" TITLE : it is a bug? BODY : my code: gulp.task 'img64', function { return gulp.src 'dist/html/ .html' .pipe img64 { limit: '8kb' } .pipe gulp.dest paths.pug.dest } gulp.js: 4.0 result: the src attribute of all img are the same, and the path of link is also broken

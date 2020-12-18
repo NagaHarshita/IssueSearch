@@ -1,0 +1,1 @@
+ URL : "https://github.com/TobitSoftware/Chayns-BackendApi-Helper/issues/9" TITLE : fix ci build BODY : the ci build fails by an error in the nuspec file. the build log says: > element 'http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd:description' cannot appear more than once if content model type is all . this validation error occurred in a 'description' element.

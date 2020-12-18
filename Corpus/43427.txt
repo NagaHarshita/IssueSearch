@@ -1,0 +1,1 @@
+ URL : "https://github.com/GP-Landscaping/GP-Landscaping/issues/13" TITLE : create components all BODY : main.js include: -form - form for creating jobs. includes job type, client name, client address, materials, employees, client/job notes textarea -invoice - job type, materials needed, bid price -notes --if we decide to make notes a separate component

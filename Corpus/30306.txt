@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpenGene/AfterQC/issues/26" TITLE : output gzipped data BODY : if the input is gzipped data, the output should be automatically gzipped. otherwise users would encounter large files

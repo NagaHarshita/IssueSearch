@@ -1,0 +1,1 @@
+ URL : "https://github.com/ant-design/babel-plugin-import/issues/118" TITLE : hoc is not supported. BODY : javascript import react from 'react' import { input } from 'antd' const hoc = wrappedcomponent => => <wrappedcomponent /> hoc input //-> got uncaught referenceerror: input is not defined

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Programmeringskursen/pytonhalan_pauline/issues/1" TITLE : skapa ett spelar-objekt BODY : skapa ett nytt spelar-objekt här: https://github.com/programmeringskursen/pytonhalan_pauline/blob/master/karta1.py l4 överst i filen skriver du: import spelare och inuti __init__ skriver du tex. self.hero = spelare.hero raw_input what is your name? , 5, 5, 20

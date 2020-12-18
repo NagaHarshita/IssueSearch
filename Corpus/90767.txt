@@ -1,0 +1,1 @@
+ URL : "https://github.com/Owen045/UdacityProjects/issues/4" TITLE : stay away from ids in css BODY : unless you have a super good reason don't use ids for css reasons. a big point of css is that you can keep reusing the styles you create again and again. ids should be unique to one element on a page so they take away from this benefit.

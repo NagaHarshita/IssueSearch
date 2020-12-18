@@ -1,0 +1,1 @@
+ URL : "https://github.com/dedis/cothority/issues/875" TITLE : clean up directories BODY : make sure all directories follow the latest cothority-template : - have the api in the directory-name - app, service and protocols are in subdirectories

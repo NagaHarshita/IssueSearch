@@ -1,0 +1,1 @@
+ URL : "https://github.com/mickhansen/graphql-sequelize/issues/457" TITLE : postgres range datatype BODY : is there any way to define this sequelize field type in graphql? type: datatype.range datatype.integer ,

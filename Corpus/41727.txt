@@ -1,0 +1,1 @@
+ URL : "https://github.com/piotr-gawlowski/ng-webpack-seed/issues/12" TITLE : add environment files BODY : we need environment files, so we can add properties like - endpoint s - debug flags

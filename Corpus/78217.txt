@@ -1,0 +1,1 @@
+ URL : "https://github.com/Unitech/pm2/issues/2670" TITLE : pm2 serve <path> -p 8000 BODY : serve <path> folder via http node.js server on desired port. it needs to embed a simple standalone http server with full mime type support

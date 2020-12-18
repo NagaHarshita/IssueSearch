@@ -1,0 +1,1 @@
+ URL : "https://github.com/sphereio/sphere-product-type-export/issues/17" TITLE : support product type keys BODY : description please provide support for product type keys https://dev.commercetools.com/http-api-projects-producttypes.html set-key in the product type export, so that we are not dependent from the uuid of the database

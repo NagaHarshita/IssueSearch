@@ -1,0 +1,1 @@
+ URL : "https://github.com/RevatureBAM/BAMPhoenix/issues/496" TITLE : finish splunk integration BODY : the log4j appender for splunk has already been added to the log4j2.xml file. it will need a new token and url if continuing to use splunk cloud. log files still need to be converted into json before sending. consult wiki page on logging.

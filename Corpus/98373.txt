@@ -1,0 +1,1 @@
+ URL : "https://github.com/255BITS/hypr/issues/43" TITLE : integration test framework BODY : problem: we want to make sure that different images load correctly or display the right error message. proposed solution: a test that loads all images from a directory. for each image detect face, run through generator, output image to disk. if exception occurs throw error.

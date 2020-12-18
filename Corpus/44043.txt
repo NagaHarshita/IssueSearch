@@ -1,0 +1,1 @@
+ URL : "https://github.com/edgardmessias/browsernotification/issues/16" TITLE : drop deprecated usage BODY : plugin uses dropdown::showinteger method that is deprecated. see https://github.com/glpi-project/glpi/issues/2399

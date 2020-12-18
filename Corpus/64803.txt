@@ -1,0 +1,1 @@
+ URL : "https://github.com/dret/webdata/issues/3" TITLE : how to add license info BODY : license info can be added by using the license link relation. however, the question then remains how licenses are identified. is there a popular/accepted list of license identifiers?

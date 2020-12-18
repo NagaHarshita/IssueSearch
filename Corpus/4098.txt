@@ -1,0 +1,1 @@
+ URL : "https://github.com/sashkab/homebrew-python/issues/1" TITLE : add python 2.7 BODY : since we already mirror current python3 package, why not mirror python 2.7 here too?

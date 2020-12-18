@@ -1,0 +1,1 @@
+ URL : "https://github.com/mikaelbr/vscodemod/issues/4" TITLE : add ability to do dry-runs BODY : would be great to have something like a preview of the transformation before you actually do it. for instance as a popup similar to the find all references preview. this would be handy in cases where you run large modifications.

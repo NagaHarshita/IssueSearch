@@ -1,0 +1,1 @@
+ URL : "https://github.com/shadySource/shadysource.github.io/issues/1" TITLE : make labels 0-indexed BODY : don not use labels 0 to store a string about the number of labels. change it to a separate variable like numlables

@@ -1,0 +1,1 @@
+ URL : "https://github.com/leozide/leocad/issues/40" TITLE : fix z far plane BODY : either by using an infinite perspective matrix, auto calculating or increasing the default.

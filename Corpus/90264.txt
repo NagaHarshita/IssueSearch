@@ -1,0 +1,1 @@
+ URL : "https://github.com/aditya7iyengar/rummage_ecto/issues/48" TITLE : search on optional column BODY : hello, i am wondering does search options generate on_where queries? i am trying to search name of city, state, and country in one single search box, i am wondering if out of box rummage hook provides a way to do this. thank you!

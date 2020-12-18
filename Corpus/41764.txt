@@ -1,0 +1,1 @@
+ URL : "https://github.com/spell-music/data-fix/issues/7" TITLE : add hashable instance BODY : it would be nice to have a hashable instance for fix . it could be defined with hashable1 http://hackage.haskell.org/package/hashable-1.2.6.0/docs/data-hashable-lifted.html . i would pr this if you would take it.

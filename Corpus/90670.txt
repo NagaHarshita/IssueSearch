@@ -1,0 +1,1 @@
+ URL : "https://github.com/GeoDaCenter/geoda/issues/1275" TITLE : spectral clustering crash BODY : windows 8 1.12.1.33 froze when attempting to run spectral clustering. i submitted a crash report so that should be showing up in a few minutes. ! image https://user-images.githubusercontent.com/22801047/32358537-e9c38d3e-c014-11e7-8356-a2d407fdaf1b.png

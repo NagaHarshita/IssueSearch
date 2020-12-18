@@ -1,0 +1,1 @@
+ URL : "https://github.com/ObsidianRock/remap/issues/35" TITLE : create pdf issue BODY : {% for comment in pro.comments.all | sort reverse=true, attribute='date_reported' %} return sorted value, key=sort_func, reverse=reverse typeerror: unorderable types: datetime.date < nonetype

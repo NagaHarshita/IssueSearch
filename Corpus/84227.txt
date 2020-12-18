@@ -1,0 +1,1 @@
+ URL : "https://github.com/NickNaso/ghostscript4js/issues/8" TITLE : create executesync method BODY : create the executesync method that have the responsability to parse and execute the ghostscript command. javascript function executesync ghostscriptcommand {} it's necessary to implement the javascript and c++ binding for the method. use nan:throwerror to dispatch errors.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/kevinokerlund/print-job/issues/19" TITLE : support printing pdfs BODY : you can print a pdf file by adding an iframe to the page, and then calling .print on the iframe window.

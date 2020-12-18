@@ -1,0 +1,1 @@
+ URL : "https://github.com/yu4u/age-gender-estimation/issues/9" TITLE : using theano as backend BODY : i have used tensorflow but the output is too laggy even after reducing the depth. so how do we use theano to optimize the performance?

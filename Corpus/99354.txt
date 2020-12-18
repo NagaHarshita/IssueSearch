@@ -1,0 +1,1 @@
+ URL : "https://github.com/zeromq/libzmq/issues/2687" TITLE : missed a heatbeat on macos BODY : https://travis-ci.org/zeromq/libzmq/jobs/265063746 fail: tests/test_heartbeats =========================== assertion failed: rc == -1 , function test_heartbeat_notimeout, file ../../tests/test_heartbeats.cpp, line 317. fail tests/test_heartbeats exit status: 134

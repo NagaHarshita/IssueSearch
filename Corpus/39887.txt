@@ -1,0 +1,1 @@
+ URL : "https://github.com/matehat/Objective-LevelDB/issues/39" TITLE : support for carthage BODY : will there be an option to install this via carthage? cocoapods is super easy, but id much prefer to just drop a framework into my project, and cartage makes this super easy.

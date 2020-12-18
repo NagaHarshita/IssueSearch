@@ -1,0 +1,1 @@
+ URL : "https://github.com/sbt/sbt-scalariform/issues/68" TITLE : format only one file BODY : we have a command in sbt-ensime that probably makes more sense here. would you like to copy this command? https://github.com/ensime/ensime-sbt/blob/2.0/src/main/scala/ensimeextrasplugin.scala l229-l248

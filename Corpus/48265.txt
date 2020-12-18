@@ -1,0 +1,1 @@
+ URL : "https://github.com/SynapseProject/synapse.server.net/issues/25" TITLE : resolve http referrer BODY : when launching plans using controller cli, http referrer is detected as localhost:{webapiport}. need a way to either specify who am i config entry to redirect back to here or better way to detect running from url load-balancer url or machine name .

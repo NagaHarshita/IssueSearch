@@ -1,0 +1,1 @@
+ URL : "https://github.com/gtk-rs/gtk/issues/586" TITLE : create bindings for gdl BODY : gtk is still lacking a the ability to create dockable toolbars and dialogs. https://developer.gnome.org/gdl/3.22/

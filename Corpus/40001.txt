@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpenZWave/open-zwave/issues/1321" TITLE : switch multilevel v4 BODY : we are at version 3, version 4 adds a target value option in the report. it would be nice to update to this and incorporate into the value::verifyrefreshedvalue code

@@ -1,0 +1,8 @@
+ URL : "https://github.com/franksaxer/3v-forhair_webpage/issues/19" TITLE : js device detection BODY : context
+the webpage differ between two types of devices: desktop and mobile. this is handled by the _include media_ package for _sass_. it define different styles for both device types, hide complete elements or display them where else. this includes functionality linked to these components. functions are working for both types but only really effects the active one. <br>
+but in some cases it is necessary to know the device type in a _javascript_ function, cause this hide and differ by _sass_ does not apply. the advertisement banner 5 implement such a feature, by exploit some effects happen due to the device type and the applied style. unfortunately it has its weaknesses and is not usable in general overall components <br>
+at least it is requested, that the device type determination by _include media_ and the _vue_ component are conform. it would be possible to use other 3rd party packages, but they would not provide this requirement.<br>
+in practice it is the idea to define a special value in a _sass_ sheet, that is different for both device types. an additional _javascript_ function catch this tag and evaluate the chosen value. using this hack , it should be possible for each component to call this function and get the type in return.<br>
+it is not the fine way, but it should work reliable. taks
+- define an enumeration for the device types.
+- create a _sass_ sheet, that set the device specific values. - add this sheet in any way to be compiled. - implement a class that provide the 'find-and-evaluate' functionality. - replace the so far used approach from the advertisement banner 5

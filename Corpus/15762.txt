@@ -1,0 +1,1 @@
+ URL : "https://github.com/petdance/ack3/issues/15" TITLE : fix line counting BODY : ack 2 has a number of bugs related to line counting. https://github.com/petdance/ack2/issues/571 https://github.com/petdance/ack2/issues/563 fix them.

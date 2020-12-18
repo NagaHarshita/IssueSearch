@@ -1,0 +1,1 @@
+ URL : "https://github.com/bluecadet/ivc-web/issues/2" TITLE : create attraction ct BODY : create ct attraction fields: - featured image - field_image - media entity reference hold on this for now - tagline - field_wall_tagline - short text - summary - field_wall_summary - long text with wysiwyg - web category - field_category - taxonomy reference web category

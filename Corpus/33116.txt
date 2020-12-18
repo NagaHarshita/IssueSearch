@@ -1,0 +1,1 @@
+ URL : "https://github.com/auth0/Lock.Android/issues/442" TITLE : access token is null BODY : after a user is successfully authenticated, i try to access my refresh token using credentials.refreshtoken but it is null, whereas acess token is enabled in my grant types.

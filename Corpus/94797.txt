@@ -1,0 +1,1 @@
+ URL : "https://github.com/cockroachdb/docs/issues/1179" TITLE : cli: add debug zip command BODY : pr: https://github.com/cockroachdb/cockroach/pull/14033 to document once we cover the debug command.

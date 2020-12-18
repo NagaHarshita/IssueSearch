@@ -1,0 +1,1 @@
+ URL : "https://github.com/nextstrain/auspice/issues/238" TITLE : map bounds not quite right BODY : on master , i'm getting transition lines for zika that go right to the border of the map, but look like they stop before they should: <img width= 1087 alt= map-bounds src= https://cloud.githubusercontent.com/assets/1176109/23388596/128cf482-fd31-11e6-8cdb-d3daa62edb34.png >

@@ -1,0 +1,1 @@
+ URL : "https://github.com/janpaepke/ScrollMagic/issues/668" TITLE : scrollmagic + iframe BODY : can this be used to animate elements that are inside of an iframe? i believe i will have to use some postmessaging but i'm wondering if its technically possible and if anyone has any examples they can share. great tool! thank you!

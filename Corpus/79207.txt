@@ -1,0 +1,1 @@
+ URL : "https://github.com/jacko11031/PersonalEngine/issues/1" TITLE : sat only allowes for oob BODY : currently the engine only supports the hitbox class. sat needs to be refactored to accepts any type of convex shape.

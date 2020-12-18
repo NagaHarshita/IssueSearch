@@ -1,0 +1,1 @@
+ URL : "https://github.com/bmeg/arachne/issues/19" TITLE : make aql.py installable BODY : i'd like to have super easy access to client libraries and utils. perhaps pip install aql ? or, alternatively, wait until the sync with ophion and rely on that client instead?

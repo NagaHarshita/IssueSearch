@@ -1,0 +1,1 @@
+ URL : "https://github.com/offa/stm32-eth/issues/41" TITLE : ss pin is hardcoded BODY : ss pin is hardcoded. unlike the mosi, miso and clk it's not configured through thi spi config.

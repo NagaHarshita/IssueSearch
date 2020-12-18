@@ -1,0 +1,1 @@
+ URL : "https://github.com/lk-geimfari/mimesis/issues/305" TITLE : readme in pypi BODY : https://pypi.python.org/pypi/mimesis/1.0.1 formatting was missed. there are just raw rst . seems like we have some invalid structure in the file pypi_readme.rst.

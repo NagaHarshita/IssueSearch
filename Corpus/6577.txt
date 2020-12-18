@@ -1,0 +1,1 @@
+ URL : "https://github.com/nodejs/installer/issues/43" TITLE : add window menu BODY : the app currently doesn't have a window menu. you might see one when you run the app in developer mode, but said window menu will no longer be there once you compile the application that's a feature implemented by the electron command .

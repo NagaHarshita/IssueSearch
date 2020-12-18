@@ -1,0 +1,1 @@
+ URL : "https://github.com/simh/simh/issues/382" TITLE : testing deuna on pdp-10 BODY : david hittner requested testing deuna with pdp-10. i'm willing to help. how is the denua control registers accessed from a ks10? memory mapped registers? i/o instructions? i'll be examining the pdp11_xu.c file, but some assistance might speed up the process.

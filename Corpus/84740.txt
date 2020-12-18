@@ -1,0 +1,1 @@
+ URL : "https://github.com/CrossRef/event-data-percolator/issues/65" TITLE : dns timeout should be set BODY : per crossref/event-data-common 9 dns must be set a bit lower or we get dns errors accessing, e.g. s3. bump to new event-data-common 0.1.37 .

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ThatOdieGuy/downspout/issues/29" TITLE : add base url option BODY : this is just a string that gets appended to any relative urls, for reverse proxy support. see: sonarr, radarr.

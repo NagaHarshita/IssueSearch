@@ -1,0 +1,1 @@
+ URL : "https://github.com/VitaliiBlagodir/cordova-plugin-datepicker/issues/255" TITLE : date picker close event BODY : date picker is open and user leaves app idle, on session time out app logged out, but still i am seeing date picker on login page. is there any event to close date picker?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/DeflatedPickle/Colony/issues/3" TITLE : menu command delete error BODY : after showing and hiding the menu a couple times, it will start to error when trying to show the menu. this is because of a problem that happens when deleting the current menu items.

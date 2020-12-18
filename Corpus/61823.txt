@@ -1,0 +1,1 @@
+ URL : "https://github.com/slimkit/plus-component-feed/issues/4" TITLE : bug for following feeds BODY : v2版本 获取我关注的动态中 feedcontroller.php 第 229行中 $feed->user_id == $user 中， $user应该为该为 $user->id @medz

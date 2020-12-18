@@ -1,0 +1,1 @@
+ URL : "https://github.com/nuxt/nuxt.js/issues/782" TITLE : set title dynamically BODY : as we always see, notifications can be show in title, so when i get the unread notifications count form api, i want to show this count in title , like: 2 page title but the nuxt title is configured, i didn't find the proper way to set it dynamically. how can i resolve this?

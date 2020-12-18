@@ -1,0 +1,1 @@
+ URL : "https://github.com/bitnami/cabin/issues/38" TITLE : delete action for charts BODY : _from @sebgoa on july 12, 2016 10:43_ we should be able to delete a deployed chart _copied from original issue: skippbox/cabin-sw 23_

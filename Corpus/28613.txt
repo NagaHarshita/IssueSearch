@@ -1,0 +1,1 @@
+ URL : "https://github.com/EhsanKia/TwitchPlayerPlus/issues/15" TITLE : help for new layout BODY : in line: playerservice = app.__container__.lookup 'service:persistent-player' ; console return uncaught referenceerror: app is not defined is it change name or something else?

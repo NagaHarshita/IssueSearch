@@ -1,0 +1,1 @@
+ URL : "https://github.com/kylebarron/language-stata/issues/78" TITLE : more error warnings BODY : - can there ever be something like \w\ .+\ before the comma? - can i alert for option\ \ \s option\ \ where i've forgotten /// at the end of a line?

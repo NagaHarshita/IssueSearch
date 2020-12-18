@@ -1,0 +1,1 @@
+ URL : "https://github.com/edenlabllc/ehealth.api/issues/986" TITLE : otp sms delivery metrics BODY : we should have a metrics for sms delivery process succesful/unsuccessful sms submissions stats undelivered sms sms delivery latency cc: @warehousman @lymychp

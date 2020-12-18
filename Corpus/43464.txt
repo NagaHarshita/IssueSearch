@@ -1,0 +1,2 @@
+ URL : "https://github.com/praqma-training/gitkatas/issues/56" TITLE : create learning paths BODY : we should have different learning paths through the gitkatas. a noob could start with basic-staging -> basic-branching -> something something while we could also have a superuser path that does more advanced stuff
+an admin path could also be useful

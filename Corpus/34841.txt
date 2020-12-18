@@ -1,0 +1,1 @@
+ URL : "https://github.com/rickyphewitt/embyClientJava/issues/2" TITLE : create a release jar BODY : publish a release jar to maven repo would be nice to publish each time a new commit was added to master automatically

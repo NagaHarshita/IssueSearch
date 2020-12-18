@@ -1,0 +1,1 @@
+ URL : "https://github.com/json5/json5-dotnet/issues/3" TITLE : downgrade to .net 4.0 BODY : the project does not expose any modern .net 4.x features so it is suggested to downgrade it to 4.0 at least to 4.5 as it limits range of projects where it can be used. this is especially important for 2 issue.

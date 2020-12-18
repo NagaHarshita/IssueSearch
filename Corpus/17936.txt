@@ -1,0 +1,1 @@
+ URL : "https://github.com/rgrig/barista/issues/26" TITLE : save line numbers BODY : the function coder.encode_attr_line_number_table has a dummy implementation and a todo note on it. we need to implement something sensible. why? i think this happens: infer detects errors in the bytecode instrumented by topl but does not print anything because it has no line numbers.

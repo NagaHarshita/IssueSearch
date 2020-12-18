@@ -1,0 +1,1 @@
+ URL : "https://github.com/JuliaPolyhedra/CutPruners.jl/issues/11" TITLE : add exact cuts pruning BODY : test which cuts are dominated with a lp problem. the advantage of this test is that it is exact and does not remove non-dominated cuts. the discussion is open to state whether to use polyhedra.jl or jump plus a given lp solver

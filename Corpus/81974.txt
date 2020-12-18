@@ -1,0 +1,1 @@
+ URL : "https://github.com/gnosis/abi-kotlin/issues/2" TITLE : add abi project to travis BODY : we want tests to be run automatically for each commit we want to deploy releases to github when we create an tag

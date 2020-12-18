@@ -1,0 +1,1 @@
+ URL : "https://github.com/zhengweikeng/blog-server/issues/1" TITLE : token in config BODY : hi, you have a security token in your config file. i dont know if it is a real one otherwise people can take over your account. greets,

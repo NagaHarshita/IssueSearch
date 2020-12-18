@@ -1,0 +1,1 @@
+ URL : "https://github.com/python/mypy/issues/3126" TITLE : __eq__ does not type check BODY : based on 3111 this fails type check: class c: def __eq__ self, o: int -> bool: return true message is: argument 1 of __eq__ incompatible with supertype object

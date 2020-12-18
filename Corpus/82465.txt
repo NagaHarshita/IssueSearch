@@ -1,0 +1,1 @@
+ URL : "https://github.com/synthein/synthein/issues/118" TITLE : add velocity to particles BODY : particles should be able to start with a velocity. for example, the part destroyed particle should have the same velocity of the part that it came from that was just destroyed.

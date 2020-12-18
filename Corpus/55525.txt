@@ -1,0 +1,1 @@
+ URL : "https://github.com/aalmiray/livereload-gradle-plugin/issues/3" TITLE : it doesn't work for me BODY : the live reload server is active for my project and i can read documents inside my brower but no live reloading. have i forget something ?

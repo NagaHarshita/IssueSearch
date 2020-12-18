@@ -1,0 +1,1 @@
+ URL : "https://github.com/BigMcLargeHuge/opensources/issues/9" TITLE : typos in files BODY : howdy. look what i found bb4sp.com : { type : conpiracy , }, perhaps would be good to have a script sanitizing the json/csv files: sorting lines, finding typos. if the files are sorted, then merge conflicts will be less. cheers.

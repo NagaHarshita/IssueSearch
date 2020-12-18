@@ -1,0 +1,1 @@
+ URL : "https://github.com/preboot/angular2-webpack/issues/276" TITLE : e2e using typescript BODY : how can the configuration be changed to support .e2e-spec.ts files? all e2e tests are js not ts. thanks.

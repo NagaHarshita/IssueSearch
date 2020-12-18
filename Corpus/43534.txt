@@ -1,0 +1,1 @@
+ URL : "https://github.com/RocketChat/Rocket.Chat/issues/5461" TITLE : create ux style guide BODY : use http://semantic-ui.com as starting point. - typography - form elements - data tables - buttons - colors icons list: fontello.zip https://github.com/rocketchat/rocket.chat/files/690581/fontello.zip show it applied on the general channels and its room panels.

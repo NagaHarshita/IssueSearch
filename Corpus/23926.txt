@@ -1,0 +1,30 @@
+ URL : "https://github.com/pinpong/equalizer-issue-tracker/issues/511" TITLE : reverb not working BODY : sent by fanniepro@gmail.com mailto:fanniepro@gmail.com description:
+--- the reverb is not working, when i enable it the sound is low you can even hear the music device info:
+---
+<table>
+<tr><td>app version</td><td>2.0.3</td></tr>
+<tr><td>app version code</td><td>203002</td></tr>
+<tr><td>android build version</td><td>00ww_2_15a</td></tr>
+<tr><td>android release version</td><td>7.1.1</td></tr>
+<tr><td>android sdk version</td><td>25</td></tr>
+<tr><td>android build id</td><td>00ww_2_15a</td></tr>
+<tr><td>device brand</td><td>nokia</td></tr>
+<tr><td>device manufacturer</td><td>hmd global</td></tr>
+<tr><td>device name</td><td>ne1</td></tr>
+<tr><td>device model</td><td>ta-1020</td></tr>
+<tr><td>device product name</td><td>ta-1020_00ww</td></tr>
+<tr><td>device hardware name</td><td>mt6735</td></tr>
+<tr><td>abis</td><td> arm64-v8a, armeabi-v7a, armeabi </td></tr>
+<tr><td>abis 32bit </td><td> armeabi-v7a, armeabi </td></tr>
+<tr><td>abis 64bit </td><td> arm64-v8a </td></tr>
+</table> extra info:
+---
+<table>
+<tr><td>connected audio devices</td><td></td></tr>
+<tr><td>reverb uuid</td><td>f29a1400-a3bb-11df-8ddc-0002a5d5c51b</td></tr>
+<tr><td>loudness enhancer warning read</td><td>no</td></tr>
+<tr><td>bass boost uuid</td><td>8631f300-72e2-11df-b57e-0002a5d5c51b</td></tr>
+<tr><td>loudness enhancer uuid</td><td>fa415329-2034-4bea-b5dc-5b381c8d1e2c</td></tr>
+<tr><td>bands uuid</td><td>ce772f20-847d-11df-bb17-0002a5d5c51b</td></tr>
+<tr><td>virtualizer uuid</td><td>1d4033c0-8557-11df-9f2d-0002a5d5c51b</td></tr>
+</table>

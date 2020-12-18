@@ -1,0 +1,1 @@
+ URL : "https://github.com/koekeishiya/khd/issues/51" TITLE : how to run a sudo command? BODY : for example, i would like khd to run sudo networksetup -setsocksfirewallproxystate wi-fi off when i press a hot key. will this be possible?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/alogic0/lucid-from-html/issues/3" TITLE : no support for svg tag BODY : to resolve consider use lucid-svg https://hackage.haskell.org/package/lucid-svg .

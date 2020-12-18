@@ -1,0 +1,1 @@
+ URL : "https://github.com/khegazy/Bitcoin/issues/1" TITLE : process data for network BODY : take data from getdata and feed into network in rnn

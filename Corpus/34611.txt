@@ -1,0 +1,1 @@
+ URL : "https://github.com/FACN1/week1-Khan-ElBash/issues/20" TITLE : comma in class names BODY : addition to issue 18 - comma seems to be used as a separate class, but the comma is unreferenced, and doesn't seem to work as a class name. space works to separate classes . https://github.com/facn1/week1-khan-elbash/blob/master/index.html l37

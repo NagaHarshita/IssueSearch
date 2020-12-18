@@ -1,0 +1,1 @@
+ URL : "https://github.com/stfhan/jsonc/issues/1" TITLE : stop abusing bison BODY : the comments-on-either-side feature is currently implemented via bison grammar abuse; an unbalanced shift/reduce set of members is generated. those rules could be either re-written to be cleaner, either removed completely; the feature then can be implemented on the flattening stage.

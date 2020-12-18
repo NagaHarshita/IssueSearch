@@ -1,0 +1,1 @@
+ URL : "https://github.com/tford9/Grad-OS/issues/1" TITLE : missing clean extentions BODY : .gch, and several other extensions in the .gitignore should be cleaned when make clean is run.

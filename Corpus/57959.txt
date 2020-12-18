@@ -1,0 +1,1 @@
+ URL : "https://github.com/rehive/bitcore-insight-helm-chart/issues/2" TITLE : reskin to rehive theme BODY : i created a new fork of the front-end a while back and skinned it to match rehive colours etc. it can be found here: https://github.com/connormac/insight/tree/rehive-skin. we need to use this as the service dependency instead of the default trezor skin.

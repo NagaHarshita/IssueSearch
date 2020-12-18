@@ -1,0 +1,1 @@
+ URL : "https://github.com/sparksuite/simplemde-markdown-editor/issues/601" TITLE : numbered list from data BODY : when making a list of items un-ordered list not a list anymore then making them a numbered list the numbers all show 1. 1. 1. although the preview correctly shows 1. 2. 3. tested on https://simplemde.com/

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mikeaboody/phishing-research/issues/111" TITLE : crash - file name too long BODY : ran into this error: traceback most recent call last : os.makedirs sender_dir oserror: errno 36 file name too long: 'broscripts/output/...' we should limit filenames in the directory structure to some fixed size.

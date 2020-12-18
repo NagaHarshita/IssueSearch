@@ -1,0 +1,1 @@
+ URL : "https://github.com/shime/livedown/issues/37" TITLE : bootstrap call from emacs BODY : livedown is working well from my emacs client, but this kind of code doesn't render: <div class= alert alert-warning > you can use an alert to highlight something you want to stand out. </div> any way to get bootstrap elements rendered?

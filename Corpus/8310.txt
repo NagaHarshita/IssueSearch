@@ -1,0 +1,1 @@
+ URL : "https://github.com/DockYard/eslint-plugin-ember-suave/issues/54" TITLE : new modules api BODY : hi! guys, do we plan to do something like this https://github.com/ember-cli/eslint-plugin-ember/issues/86 ? as the new version of ember recommends this import syntax, i think it makes sense... even if it is not activated on the default configuration thanks

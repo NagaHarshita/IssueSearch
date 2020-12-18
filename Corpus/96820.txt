@@ -1,0 +1,1 @@
+ URL : "https://github.com/ikolesov/CarreraSlice/issues/10" TITLE : fix build error on windows BODY : d:\d\n\s-1-e-b\carreraslice\src\sfm_local_chanvese\src\lsops3c.cpp 294 : error c2039: 'max' : is not a member of 'std' d:\d\n\s-1-e-b\carreraslice-build\src\sfm_local_chanvese\sfm_local_chanvese.vcxproj

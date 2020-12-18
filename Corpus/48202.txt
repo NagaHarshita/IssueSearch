@@ -1,0 +1,1 @@
+ URL : "https://github.com/kittoframework/kitto/issues/105" TITLE : replace npm with yarn BODY : let's switch to yarn. it'll make dependency installation faster and deterministic.

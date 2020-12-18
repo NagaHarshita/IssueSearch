@@ -1,0 +1,1 @@
+ URL : "https://github.com/SentiSocial/sentisocial-frontend/issues/5" TITLE : react component testing BODY : write units tests for the following components using react's testing utilities https://facebook.github.io/react/docs/test-utils.html . npm install --save-dev mocha npm install --save-dev react-addons-test-utils - card - articlecard - tweetcard - ghostcard - cardlayout

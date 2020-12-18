@@ -1,0 +1,1 @@
+ URL : "https://github.com/Azure/WALinuxAgent/issues/741" TITLE : protocolerror not caught BODY : httperror is thrown as a protocolerror in metadata.py report_event . this should be caught to prevent unhandled exceptions.

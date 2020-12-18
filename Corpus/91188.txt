@@ -1,0 +1,1 @@
+ URL : "https://github.com/sgsinclair/Voyant/issues/353" TITLE : tag curation still broken BODY : it seems that tag curation mode still isn't saving. when you upload a text you can go into curation mode and see your modifications when you revert to default mode but if you use the export function the changes are lost.

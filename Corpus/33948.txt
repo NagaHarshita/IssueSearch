@@ -1,0 +1,1 @@
+ URL : "https://github.com/WsdlToPhp/PackageGenerator/issues/83" TITLE : better debug support BODY : its failing with this error and it very difficult to track this down invalidargumentexception name 0 is invalid, please provide a valid name

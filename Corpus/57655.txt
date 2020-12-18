@@ -1,0 +1,1 @@
+ URL : "https://github.com/openrightsgroup/blocked-org-uk/issues/117" TITLE : recently reported page BODY : this page can list all blocked reports in reported-date order, with the same kind of pagination as on other pages. pagination should be modified to use » for “last page of results” and a single arrow for “next result”.

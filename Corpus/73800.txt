@@ -1,0 +1,1 @@
+ URL : "https://github.com/Husterknupp/jubilant-todo-tribble/issues/26" TITLE : deploy the app somewhere BODY : should have - permanent internet and cpu access - access to gitlab and jira out of scope: easy deployment process. building on whatever server and restarting should suffice for the start.

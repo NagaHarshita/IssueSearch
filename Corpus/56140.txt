@@ -1,0 +1,1 @@
+ URL : "https://github.com/nextcloud/web-installer/issues/12" TITLE : method not implemented BODY : hi, can't find any answer on the web so i post here. i have this error method not implemented get to /nextcloud/setup-nextcloud.php not supported. when i access https://www.domain.fr/nextcloud/setup-nextcloud.php thank's for help.

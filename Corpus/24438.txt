@@ -1,0 +1,1 @@
+ URL : "https://github.com/jmank88/ubjson/issues/2" TITLE : struct tag support BODY : support basic json struct tags, and any relevant options e.g. omitempty . consider an option for alternate type encoding e.g. tag a byte with 'c', rather than use a char type . keep an eye on the benchmarks - consider caching struct type info on the first run fields, tags, counts, etc .

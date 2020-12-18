@@ -1,0 +1,1 @@
+ URL : "https://github.com/uhlryk/mymedia/issues/9" TITLE : show file with order BODY : when no filters selected: 1. new files without tags 2. new files with tags 3. files without tags 4. tags files when filters selected: 1. new files with correct tags 2. files with correct tags

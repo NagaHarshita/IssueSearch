@@ -1,0 +1,1 @@
+ URL : "https://github.com/KhronosGroup/glslang/issues/765" TITLE : doc.h include guards BODY : i'm using doc.h in some toy programs, would be easier to use it if doc.h had include guards. was wondering if there was a design decision for it to not have it?

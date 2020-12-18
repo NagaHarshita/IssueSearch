@@ -1,0 +1,1 @@
+ URL : "https://github.com/tlake/django-dungeonbot/issues/1" TITLE : create '/roll/' endpoint BODY : get /roll/ - returns a sample roll to try get /roll/{roll_str}/ - calculate the roll s specified in the uri

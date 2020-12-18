@@ -1,0 +1,1 @@
+ URL : "https://github.com/ga-wdi-exercises/project4/issues/525" TITLE : issue loading my assets BODY : i'm getting two 404 errors when attempting to connect my index.js and style.css in my index.html page. i have tried changing my public folder to use assets as a static folder but that doesn't seem to be working

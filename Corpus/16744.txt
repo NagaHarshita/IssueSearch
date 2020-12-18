@@ -1,0 +1,1 @@
+ URL : "https://github.com/aebrahim/pidgin-wincred/issues/5" TITLE : logs out of steam BODY : i use the steam mobile https://github.com/eionrobb/pidgin-opensteamworks/tree/master/steam-mobile third party plugin but with wincred enabled, it logs me off and asks for the password even when it's set to be saved. it defeats the purpose of the plugin.

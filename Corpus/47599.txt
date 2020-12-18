@@ -1,0 +1,1 @@
+ URL : "https://github.com/jb55/async-each-series/issues/7" TITLE : possible memory leak? BODY : what happen if you istantiate multiple each calls but not all of your arr elem would cause to call a next callback?

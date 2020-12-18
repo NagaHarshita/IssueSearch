@@ -1,0 +1,1 @@
+ URL : "https://github.com/projectcalico/calicoctl/issues/1441" TITLE : expand calico.cfg support BODY : this is a request to expand support for /etc/calico/calicoctl.cfg to other components, namely calico/node and calico-cni. @caseydavenport @robbrockbank

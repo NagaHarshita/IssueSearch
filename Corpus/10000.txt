@@ -1,0 +1,1 @@
+ URL : "https://github.com/innovate-technologies/ITDNS/issues/1" TITLE : add v3 dualstack BODY : we should add etcdv3 since we're porting our infrastructure to use it. since this is a gradual move we should keep v2 in the maintime. the refactor with the new lookup.client did prepare for this. the v3 client should always override the v2 cached keys!

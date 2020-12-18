@@ -1,0 +1,1 @@
+ URL : "https://github.com/rancher/os/issues/2028" TITLE : can't start zfs BODY : rancheros version: ros os version v1.0.4-rc1 where are you running rancheros? docker-machine, aws, gce, baremetal, etc. aws steps: 1. try to start up zfs results: zfs doesn't start up. getting an error in logs zfs_1 | configure: error: cannot find uts_release definition.

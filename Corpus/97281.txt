@@ -1,0 +1,1 @@
+ URL : "https://github.com/TheAlgorithms/Java/issues/65" TITLE : generalize using generics. BODY : enhancement description many of the algorithms, namely sorting, searching and the data structures, are using primitive types for the implementation of the algorithms. this could be generalized to any comparable type using generics.

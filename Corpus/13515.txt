@@ -1,0 +1,1 @@
+ URL : "https://github.com/beth9watson/scribble-store-engine/issues/3" TITLE : use only fog-aws BODY : had problems initially configuring carrierwave using fog-aws. this could be a known issue. try again, and investigate further.

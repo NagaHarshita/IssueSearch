@@ -1,0 +1,1 @@
+ URL : "https://github.com/radiotail/eluna/issues/7" TITLE : coredump in sample BODY : ! image https://cloud.githubusercontent.com/assets/5893699/21580869/0a2e90be-d051-11e6-93e6-c2b083ff8cca.png multi_threads will coredump.

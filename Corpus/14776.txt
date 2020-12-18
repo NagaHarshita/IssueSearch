@@ -1,0 +1,1 @@
+ URL : "https://github.com/freeCodeCamp/study-group-directory/issues/21" TITLE : can't load cities BODY : i just dropped by to look for some study groups and noticed that no city information was being displayed. looks like the campsites2.json file was replaced, but main.js is still trying to reference campsites2.json.

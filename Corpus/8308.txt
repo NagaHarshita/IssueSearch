@@ -1,0 +1,1 @@
+ URL : "https://github.com/magnumripper/JohnTheRipper/issues/2612" TITLE : new memory leak BODY : detected by mem_dbg on a --test run; on clang and gcc. testing: money, microsoft money 2002 to money plus md5/sha1 32/64 ... 2xomp pass mem leak: 512 bytes, alloc_num 19860, file money_fmt_plug.c, line 96

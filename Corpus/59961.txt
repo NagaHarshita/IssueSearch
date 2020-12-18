@@ -1,0 +1,1 @@
+ URL : "https://github.com/viromedia/viro/issues/5" TITLE : video .mp4 didn't play BODY : hi, i have insert a 360 video with .mp4 extension. i can see the video but she didn't play. frozen is there any things to do to autoplay ? here is my code : <viro360video source={require ./res/1.mp4 } loop={true} paused={false} volume={1.0} timeinseconds={60} /> thanks for your help. michael

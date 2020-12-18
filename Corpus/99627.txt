@@ -1,0 +1,1 @@
+ URL : "https://github.com/mscdex/ssh2/issues/616" TITLE : multiple ssh2 connections? BODY : does this package support multiple ssh connections? i get the impression it should as you create a new ssh connection from the ssh constructor?

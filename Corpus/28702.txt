@@ -1,0 +1,1 @@
+ URL : "https://github.com/docker/docker-py/issues/1443" TITLE : how get image size? BODY : reference doc https://docker-py.readthedocs.io/en/stable/images.html , class image has no size. how get image size

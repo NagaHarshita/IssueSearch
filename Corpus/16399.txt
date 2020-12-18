@@ -1,0 +1,1 @@
+ URL : "https://github.com/MastodonC/kixi.lapita/issues/1" TITLE : improve 'info' fn BODY : make the 'info' fn return a pprint make the 'info' fn return the type of values for each column

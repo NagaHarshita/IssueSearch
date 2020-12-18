@@ -1,0 +1,1 @@
+ URL : "https://github.com/neutronX/django-markdownx/issues/95" TITLE : error with django 2.0 BODY : when running django 2.0, i get an argument to reversed must be a sequence when i include {{ form.media }} for a markdownx enabled model form.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/kytos/kytos-utils/issues/101" TITLE : add clean command BODY : kytos could have a clean command, used to remove all napps and reset all config files.

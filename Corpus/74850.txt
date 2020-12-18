@@ -1,0 +1,1 @@
+ URL : "https://github.com/chartbeat-labs/chartbeat-ios-sdk/issues/2" TITLE : fix deprecation warnings BODY : compilation shows multiple deprecation warnings : 'mpmovieplayercontroller' is deprecated: first deprecated in ios 9.0 - mediaplayertracker initwithmediaplayer: mpmovieplayercontroller moviecontroller_ title: nsstring title_ thumbnail: nsstring thumbnail_

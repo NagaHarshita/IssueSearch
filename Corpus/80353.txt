@@ -1,0 +1,1 @@
+ URL : "https://github.com/derUli/ulicms-pkg/issues/141" TITLE : todolist modul erstellen BODY : neues modul erstellen: todo list id / int title / text user_id / id, fremdschlüssel checked / boolean default = false

@@ -1,0 +1,1 @@
+ URL : "https://github.com/auth0-samples/auth0-python-api-samples/issues/18" TITLE : add license to examples BODY : there is no license provided with these examples, so it's unclear if a user can grab the source as a starting point. a permissive license should be applied to these repositories if that is the intention.

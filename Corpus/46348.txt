@@ -1,0 +1,1 @@
+ URL : "https://github.com/defactodesign/adminfirewall/issues/2" TITLE : maintain a changelog? BODY : maybe out of scope for this module but could be interesting to maintain a log of changes to the firewall. ee kind of already does this with admin actions logging, but in my experience those can be difficult to grok, so a dedicated changelog could be better

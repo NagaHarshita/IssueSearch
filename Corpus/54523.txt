@@ -1,0 +1,1 @@
+ URL : "https://github.com/AVGP/TEST-ISSUE-MIGRATION/issues/213" TITLE : give doors a threshold BODY : original issue: https://task.archilogic.com/issues/9479 to enable use of the fitfloors script we want doors to have a threshold if y &gt; 0

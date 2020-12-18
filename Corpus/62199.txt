@@ -1,0 +1,1 @@
+ URL : "https://github.com/LucaT1/servicer/issues/1" TITLE : change isolation system BODY : complexify and fill in the script's context to replicate a real nodejs environment, keeping the support for a custom require function

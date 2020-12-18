@@ -1,0 +1,1 @@
+ URL : "https://github.com/freshdesk/magento_extension/issues/3" TITLE : notice: undefined index BODY : i'm receiving the same error several times by freshdesk in system.log from magento. 2017-01-23t15:07:12+00:00 err 3 : notice: undefined index: section in /xxxx/xxxx/xxxx/xxxx/includes/src/mageplace_freshdesk_model_freshdesk_fields.php on line 98

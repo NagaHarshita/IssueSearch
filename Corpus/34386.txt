@@ -1,0 +1,1 @@
+ URL : "https://github.com/rkokkelk/todo.txt-ext/issues/34" TITLE : category not working BODY : hi, each time i add a category, it correctly writes the +category in the file. however, each time the calendar synchronizes i suppose that it then read the file , the +category is not properly considered as a category but is written in extenso in the title of the task.

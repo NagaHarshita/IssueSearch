@@ -1,0 +1,1 @@
+ URL : "https://github.com/lambdaclass/holiday_ping_ui/issues/19" TITLE : remove clj/cljs folders BODY : just have .cljs files under src/

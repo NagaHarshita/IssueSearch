@@ -1,0 +1,1 @@
+ URL : "https://github.com/jupeter/clean-code-php/issues/11" TITLE : wrong class declaration BODY : there is a class in your code with: php menuconfig { ... } you should remove

@@ -1,0 +1,1 @@
+ URL : "https://github.com/phoenix-china/bucklescript-phx/issues/2" TITLE : add support for transport BODY : add support for transport parameter to use client with node js. let socket = new socket ${this.endpoint}/socket , {transport: w3cwebsocket, params: mytoken }

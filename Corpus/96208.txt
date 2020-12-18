@@ -1,0 +1,1 @@
+ URL : "https://github.com/QISKit/qiskit-sdk-py/issues/100" TITLE : enhance contributing guide BODY : the contributing guide should include examples and a better description of the workflow expected from contributions. our branch model, release cycle, etc.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/axelclark/ex338/issues/363" TITLE : compiler warnings 20171125 BODY : remote: warning: unused alias fantasyplayer remote: lib/ex338/fantasy_player.ex:6 remote: remote: warning: unused alias repo remote: lib/ex338/fantasy_player.ex:6

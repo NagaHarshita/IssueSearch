@@ -1,0 +1,1 @@
+ URL : "https://github.com/lbarman/vaultage/issues/125" TITLE : speed up integration-test BODY : instead of waiting 20 secs for the server to boot, poll the server log with a timeout and proceed once the expected output line is found or else crash.

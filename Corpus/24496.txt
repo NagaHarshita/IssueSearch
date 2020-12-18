@@ -1,0 +1,1 @@
+ URL : "https://github.com/insanelydeepak/Patched-AppleHDA-for-Mac-OS-Sierra-10.12/issues/4" TITLE : support for alc299 BODY : need support for 0x10ec0299 codec: realtek generic address: 0 afg function id: 0x1 unsol 1 vendor id: 0x10ec0299

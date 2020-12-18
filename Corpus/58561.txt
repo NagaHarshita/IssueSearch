@@ -1,0 +1,1 @@
+ URL : "https://github.com/arendst/Sonoff-Tasmota/issues/795" TITLE : sonoff sc not accurate BODY : hello, i´m testing tasmota with sonoff sc, but the returned info are very inacurate !! using a thermo-hygrometer very accurate temp: 24.2 c hum: 37% on the sonoff sc: sonoff sc module temperature	29.0°c humidity	12.0%

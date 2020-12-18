@@ -1,0 +1,1 @@
+ URL : "https://github.com/FTL13/FTL13/issues/488" TITLE : glowcaps can grow in space BODY : problem description : glowcaps grow into space what did you expect to happen : pretty sure they shouldn't do that steps to reproduce the problem : grow glowcaps, wait for them to grow, boom, in space

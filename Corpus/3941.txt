@@ -1,0 +1,9 @@
+ URL : "https://github.com/PennyDreadfulMTG/perf-reports/issues/526" TITLE : 500 error at / BODY : failed to execute select d.id, d.name as original_name, d.created_date, d.updated_date, d.wins, d.losses, d.draws, d.finish, d.archetype_id, d.url as source_url, d.competition_id, c.name as competition_name, c.end_date as competition_end_date, ct.name as competition_type_name, d.identifier, lower ifnull ifnull ifnull p.name, p.mtgo_username , p.mtggoldfish_username , p.tappedout_username as person, p.id as person_id, d.created_date as date , d.decklist_hash, d.retired, s.name as source_name, ifnull a.name, '' as archetype_name, cache.normalized_name as name, cache.colors, cache.colored_symbols, cache.legal_formats from deck as d left join person as p on d.person_id = p.id left join competition as c on d.competition_id = c.id left join source as s on d.source_id = s.id left join archetype as a on d.archetype_id = a.id left join deck as opp on opp.id in select deck_id from deck_match where deck_id <> d.id and match_id in select match_id from deck_match where deck_id = d.id left join competition_type as ct on ct.id = c.competition_type_id left join deck_cache as cache on d.id = cache.deck_id where 1 = 1 group by d.id order by d.created_date desc, ifnull d.finish, 9999999999 limit 500 with because of 1030, 'got error 28 from storage engine' reported on decksite by logged_out
+--------------------------------------------------------------------------------
+request method: get
+path: /?
+cookies: {}
+endpoint: home
+view args: {}
+person: logged_out
+user-agent: mozilla/5.0+ compatible; uptimerobot/2.0; http://www.uptimerobot.com/ referrer: https://pennydreadfulmagic.com

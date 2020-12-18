@@ -1,0 +1,1 @@
+ URL : "https://github.com/liuderchi/atom-i18n/issues/71" TITLE : translate into polish BODY : files required translation: - def/pl/about.cson - def/pl/context.cson - def/pl/menu_darwin.cson - def/pl/menu_linux.cson - def/pl/menu_win32.cson - def/pl/settings.cson for more info please checkout contributing.md https://github.com/liuderchi/atom-i18n/blob/master/contributing.md

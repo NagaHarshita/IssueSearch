@@ -1,0 +1,1 @@
+ URL : "https://github.com/ritwik12/Virtual-Assistant/issues/12" TITLE : text to speech BODY : right now we are using gnustep speech engine for text to speech. but it is not that good and we can use something better like espeak or festival. suggestions are welcomed.

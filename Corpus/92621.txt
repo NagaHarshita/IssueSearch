@@ -1,0 +1,1 @@
+ URL : "https://github.com/RyoshiKayo/Discord-Shell/issues/2" TITLE : !setguild not switch guild BODY : - !switchguild guildname command doesn't properly switch guilds. - channels aren't loading on switch.

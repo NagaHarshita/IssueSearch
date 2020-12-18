@@ -1,0 +1,1 @@
+ URL : "https://github.com/johnso4/PhishingClassification/issues/8" TITLE : function - compute loocv BODY : compute leave-one-out cross validation given appropriate parameters. this should work for both training and test sets. this may also call the rss, mse, and rsquared functions or return these values, i'm not sure. i'm leaning towards returning them.

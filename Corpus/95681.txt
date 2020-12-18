@@ -1,0 +1,1 @@
+ URL : "https://github.com/GamsTourney/glory/issues/5" TITLE : development add .env files BODY : overview need environment setup for glory so we can change connection settings easily.

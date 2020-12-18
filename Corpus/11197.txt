@@ -1,0 +1,1 @@
+ URL : "https://github.com/Nekres/Java-Command-Line/issues/1" TITLE : fix remote mode. BODY : when one of the clients breaks a connection, another clients can't write anymore.

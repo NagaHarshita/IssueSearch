@@ -1,0 +1,1 @@
+ URL : "https://github.com/Lange/node-elgato-stream-deck/issues/5" TITLE : fix travis builds BODY : for some reason, sharp https://www.npmjs.com/package/sharp isn't compiling on travis, and this is causing builds to fail. link to failed build log: https://travis-ci.org/lange/node-elgato-stream-deck/builds/233686568

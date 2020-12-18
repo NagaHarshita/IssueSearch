@@ -1,0 +1,1 @@
+ URL : "https://github.com/jgarcial/inis_to_marc/issues/11" TITLE : marc tags for identifiers BODY : sici , bici and pii appear in the xml definition but we don't know the marc tag yet

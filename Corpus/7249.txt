@@ -1,0 +1,1 @@
+ URL : "https://github.com/washo4evr/Socket.io-v1.x-Library/issues/49" TITLE : esp32 + lan8720 BODY : hello this stack do timeout over lan. to fix it, need to: replace: analogread 0 to: analogread 'a0'

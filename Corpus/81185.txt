@@ -1,0 +1,1 @@
+ URL : "https://github.com/xenopiece/Dark-Souls-Dank-Random-Weapon-mod/issues/1" TITLE : weapons can't get to +10 BODY : with rand % 10 , you can only get upgrades from 0 to 9. it needs to be rand % 11 to allow +10. i could be overlooking something, but from what i can tell, you can't get +10. i'm not sure if it's intentional or not, i just figured i'd point it out.

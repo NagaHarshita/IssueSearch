@@ -1,0 +1,1 @@
+ URL : "https://github.com/rangle/angular-ssr/issues/83" TITLE : examples are not working BODY : ng-render on cli fails and says couldn't fine ./app.module

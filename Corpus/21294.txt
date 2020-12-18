@@ -1,0 +1,1 @@
+ URL : "https://github.com/loogart/Project-Mountain/issues/1" TITLE : event sign up page BODY : - update sign in to secondary box username + password - remove dao-specific sign in let the the logic take care of determining the user type signing in https://loogart.github.io/project-mountain/event.html

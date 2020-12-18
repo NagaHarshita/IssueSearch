@@ -1,0 +1,1 @@
+ URL : "https://github.com/SmartLearning/smart-learning/issues/38" TITLE : js class to list courses BODY : the service method lists all available courses and returns a simple array: {text:'course one', id:'xhsersdfg234f'}

@@ -1,0 +1,1 @@
+ URL : "https://github.com/EightMedia/design-manual/issues/62" TITLE : prerender components page BODY : the javascript to generate the iframes and tables of contents take quite some time to execute. it would be a couple of times faster if the components came pre-baked in the components.html file.

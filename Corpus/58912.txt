@@ -1,0 +1,1 @@
+ URL : "https://github.com/CrowdHailer/Ace/issues/21" TITLE : support graceful close BODY : useful for blue green deploys, using docker/whatever - https://github.com/fishcakez/acceptor_pool/tree/master/examples/telnet_echo - https://github.com/phoenixframework/phoenix/pull/1925

@@ -1,0 +1,1 @@
+ URL : "https://github.com/liyatang/markdown-it-react-loader/issues/1" TITLE : table cant show correctly BODY : cant show table.. write: header1 | header2 ------- | ------- cell1 | cell2 show: header1 | header2 ------- | ------- cell1 | cell2 how to play...?

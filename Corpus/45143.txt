@@ -1,0 +1,1 @@
+ URL : "https://github.com/rockchip-linux/mpp/issues/5" TITLE : hardware based scaler BODY : hi i wonder if a hardware based scaler is available in mpp. my use case is to decode a hd stream and then run some analysis on down scaled raw frame. i see that there is an abandoned ffmpeg repo here. did it use hardware resizer in any way? thnx

@@ -1,0 +1,1 @@
+ URL : "https://github.com/hash-bang/Conkie/issues/5" TITLE : on demand instruction BODY : add support for « on demand » instructions, for exemple to execute custom command once.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/flauc/angular2-generator/issues/2" TITLE : behind the proxy BODY : hi , how we can add proxy if we are working behind the corporate firewall ? tried : i put the proxy in .npmrc file . still, it is not getting resolve.

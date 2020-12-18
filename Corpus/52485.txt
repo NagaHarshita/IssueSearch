@@ -1,0 +1,1 @@
+ URL : "https://github.com/WGBH/openvault3_deploy/issues/67" TITLE : combat jetty log bloat BODY : add the following to the deployment script to combat jetty log bloat: /bin/rm -f /var/www/aapb/shared/jetty/jettywrapper.log && ln -s /dev/null /var/www/aapb/shared/jetty/jettywrapper.log

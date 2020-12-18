@@ -1,0 +1,1 @@
+ URL : "https://github.com/damaera/react-acrylic/issues/1" TITLE : sandbox not working BODY : i'm getting an error on the sandbox latest safari on a mac : https://6xp9vyjj23.codesandbox.io unable to access image data: error: unable to access local image data: securityerror dom exception 18 : the operation is insecure.

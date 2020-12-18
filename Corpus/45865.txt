@@ -1,0 +1,1 @@
+ URL : "https://github.com/samsung-cnct/k2cli/issues/52" TITLE : is k2cli docs needed? BODY : i mean, i don't know what i was expecting, but it was a bit surprising when i ran k2cli docs and it spewed markdown files all over my cwd this seems like something that should be part of the build process, not the tool itself?

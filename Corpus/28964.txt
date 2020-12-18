@@ -1,0 +1,1 @@
+ URL : "https://github.com/pladaria/realgamer/issues/3" TITLE : improve sql schemas BODY : sql files are located in ./schemas create indexes, etc think a way of having multiple alternate fields see current schemas , for example: - alternative names - multiple publishers - etc

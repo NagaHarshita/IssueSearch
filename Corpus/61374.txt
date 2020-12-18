@@ -1,0 +1,1 @@
+ URL : "https://github.com/GuildCrafts/interview-app/issues/115" TITLE : approval page edit form BODY : currently, when the question button editing questions on the approval page will bring up a modal that contains the new question form. the edit form should not be within a modal. the edit form should populate with question data when question button is clicked.

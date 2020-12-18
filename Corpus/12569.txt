@@ -1,0 +1,1 @@
+ URL : "https://github.com/ByteInternet/hypernode-vagrant/issues/166" TITLE : pub and symlink? BODY : is the pub folder needed ! image https://user-images.githubusercontent.com/633730/28416872-0f0635ea-6d56-11e7-9594-dd18e17348b2.png and how does symlink working for the box? can i symlink a folder into the /data/web folder?

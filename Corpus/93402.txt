@@ -1,0 +1,1 @@
+ URL : "https://github.com/horaklukas/insights-collector/issues/4" TITLE : add support for https page BODY : loading https websites isn't supported now. json with websites contains address without protocol, and completing address is inside code, where _http_ is always prepended.

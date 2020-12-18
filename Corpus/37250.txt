@@ -1,0 +1,1 @@
+ URL : "https://github.com/datahq/datahub-cli/issues/100" TITLE : lint the application BODY : we need to follow certain styling standards. we can use xo or/and standard libs for this xo - https://github.com/sindresorhus/xo standard - https://github.com/standard/standard acceptance criteria code is under lint tasks compare two above and decide which one to use set up config

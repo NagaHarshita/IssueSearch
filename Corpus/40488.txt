@@ -1,0 +1,1 @@
+ URL : "https://github.com/gingerBill/Odin/issues/131" TITLE : union printing issue BODY : line 941 of _preload.odin needs to have tag <= 0 instead of tag < 0 or else nil unions crash printing procs. actually, there should probably be a case to print <nil> instead.

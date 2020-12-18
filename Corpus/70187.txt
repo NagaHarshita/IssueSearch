@@ -1,0 +1,1 @@
+ URL : "https://github.com/leo-editor/leo-editor/issues/612" TITLE : use cff to gather nodes BODY : the cff command aka clone-find-flattened prompts for a search pattern, then clones all matching nodes so they are the children of a new last top-level node. this is a great way to study code. tags: commands, power user, scripting, study.

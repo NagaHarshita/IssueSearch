@@ -1,0 +1,1 @@
+ URL : "https://github.com/blockstreet/interface/issues/7" TITLE : mobile menu auto-close BODY : upon clicking a link on the mobile slide-out menu, it should close itself and display the content the user is seeking to navigate to.

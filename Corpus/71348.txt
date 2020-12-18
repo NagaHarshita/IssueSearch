@@ -1,0 +1,1 @@
+ URL : "https://github.com/appbaseio/dejavu/issues/59" TITLE : add data button behavior BODY : - styling: add data should be positioned more towards the center. - bug: types don't always show up immediately when using add data to add new data.

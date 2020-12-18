@@ -1,0 +1,1 @@
+ URL : "https://github.com/jenniferlu717/Bracken/issues/19" TITLE : dependencies of bracken BODY : could you extend the readme with a section installation that includes the perl and python modules required for running bracken? for best usability, you could provide bracken as a bioconda https://bioconda.github.io/index.html package. thank you!

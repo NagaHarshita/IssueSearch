@@ -1,0 +1,1 @@
+ URL : "https://github.com/aaronduino/asciidots/issues/7" TITLE : can't run example program BODY : hi, i'm getting a import error when trying to run python __main__.py ./samples/counter.fry traceback most recent call last : file __main__.py , line 5, in <module> import click modulenotfounderror: no module named 'click' am i doing something wrong? do i need to setup a venv?

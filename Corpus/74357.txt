@@ -1,0 +1,1 @@
+ URL : "https://github.com/EvgeniyRRU/yii2-slick/issues/13" TITLE : error after update 1.0.2 BODY : slick.php, line 109: $view->registerjs new jsexpression $ ' .$this->id. ' .on ' $key ', $value ; , $this->jsposition ; correct: $view->registerjs new jsexpression $ ' .$this->id. ' .on ' .$key. ', .$value. ; , $this->jsposition ;

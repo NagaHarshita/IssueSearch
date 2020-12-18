@@ -1,0 +1,1 @@
+ URL : "https://github.com/Shahor/dingdingdong/issues/5" TITLE : add support for commands BODY : tool https://www.npmjs.com/package/commander right now i'm thinking: -d, --done command args : send notification when command is done running -s, --send text : send text directly to the configured connectors

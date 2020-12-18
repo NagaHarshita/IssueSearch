@@ -1,0 +1,1 @@
+ URL : "https://github.com/dstcontrols/osisoftpy/issues/12" TITLE : implement update function BODY : finish put function, implement functions that call it: internal.put : https://github.com/dstcontrols/osisoftpy/blob/master/src/osisoftpy/internal.py l63 point.point.update_attribute : https://github.com/dstcontrols/osisoftpy/blob/master/src/osisoftpy/point.py l78

@@ -1,0 +1,1 @@
+ URL : "https://github.com/aa65535/openwrt-autossh/issues/3" TITLE : config_foreach not work BODY : i notice the service support config_foreach,but seems not work.i add two autossh config,but only the first one works,and the other one doesn't start

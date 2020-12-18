@@ -1,0 +1,1 @@
+ URL : "https://github.com/oehf/ipf/issues/135" TITLE : followup to 123 BODY : better separation of concerns, better encapsulation, better naming, and less boilerplate code would help to increase understandabilitly and maintainability.

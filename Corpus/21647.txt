@@ -1,0 +1,1 @@
+ URL : "https://github.com/vbauer/manet/issues/76" TITLE : fudge vh css units BODY : for sites that use vh units in css: eg ! hungry house https://manet.herokuapp.com/?url=https%3a%2f%2fhungryhouse.co.uk%2f&selectorcrop=false they take up the whole view of the page. fudge it to be about 1/3rd of the total height

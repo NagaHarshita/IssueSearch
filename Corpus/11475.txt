@@ -1,0 +1,1 @@
+ URL : "https://github.com/dmfs/jems/issues/71" TITLE : hex charsequence BODY : in order to get the hexadecimal representation of an array of bytes, i want a class hex implements charsequence which i can use like so. java charsequence hex = new hex bytearray ; in addition it can be useful to have a class hex implements single<charsequence> adapter to single<byte > .

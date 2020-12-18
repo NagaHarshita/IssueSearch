@@ -1,0 +1,1 @@
+ URL : "https://github.com/verasztol/MultiMinesweeper-Client/issues/7" TITLE : flag counter bug BODY : if a flag is placed to the wrong place and the filed is clicked the field counter stay still, but the wrong flag is removed may bug, may not hang on the game rules

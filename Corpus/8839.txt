@@ -1,0 +1,1 @@
+ URL : "https://github.com/pluf/core/issues/51" TITLE : sdp link failed BODY : after update from mahdi link creation failed: error message { code : 4000, status : 400, link : null, message : incorrect datetime value: '' for column 'expiry' at row 1 , data : null } and the url is: http://localhost:8081/api/sdp/asset/1/link

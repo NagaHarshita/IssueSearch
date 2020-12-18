@@ -1,0 +1,1 @@
+ URL : "https://github.com/ghabault/vehiclesmonitoring/issues/4" TITLE : lost packet management BODY : store latest sent packet number if latest response to do not correspond to latest packet number add diff lates_pkt_number, latest_res_number to lost_pkt_number

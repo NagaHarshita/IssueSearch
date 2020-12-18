@@ -1,0 +1,1 @@
+ URL : "https://github.com/learn-co-curriculum/javascript-hand-written-templates/issues/9" TITLE : test for readme lab issue BODY : it 'runs', => { expect true .to.be.true } typeerror: cannot read property 'be' of undefined at context.it test/index-test.js:16:20

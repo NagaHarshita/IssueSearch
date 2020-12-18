@@ -1,0 +1,1 @@
+ URL : "https://github.com/sbtqa/api-factory/issues/30" TITLE : add supporting urlparam BODY : in some get requests we have variable params in url, best sample is search request. add new annotation and support it in code

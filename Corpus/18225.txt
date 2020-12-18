@@ -1,0 +1,1 @@
+ URL : "https://github.com/archzfs/archzfs/issues/135" TITLE : status in readme? BODY : a bit of a meta comment, but it would likely cut down on some of the reported issues in this repo if the readme were to have some table showing the status of the current builds, as well as a suggesting to run the -git builds if you're wanting to move quickly.

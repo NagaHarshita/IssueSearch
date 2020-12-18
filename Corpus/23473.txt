@@ -1,0 +1,1 @@
+ URL : "https://github.com/janraasch/tab-ahead/issues/80" TITLE : popup too far left BODY : the search popup is left-justified below the icon in chrome's extension row making it fall off the left-side of the screen in many cases. should float to be visible always. workaround is to move the icon to the middle of course but i use tab ahead very often, so i prefer it on the left.

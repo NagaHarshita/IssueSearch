@@ -1,0 +1,1 @@
+ URL : "https://github.com/katiekoschland/my_weather_app/issues/3" TITLE : host on heroku BODY : if you haven't already, it'd be a good exercise to host this app on heroku, and make it deploy automatically on every push to master.

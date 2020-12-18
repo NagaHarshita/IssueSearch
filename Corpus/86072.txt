@@ -1,0 +1,1 @@
+ URL : "https://github.com/MatthiasHu/seekers/issues/22" TITLE : give a unique id to goals BODY : add unique ids to goals in order to simplify determining whether a goal has been replaced by a new one or not.

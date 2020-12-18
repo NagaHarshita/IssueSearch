@@ -1,0 +1,1 @@
+ URL : "https://github.com/akveo/ng2-smart-table/issues/463" TITLE : disable any particular row BODY : hello, i want to disable some rows in my table based on some conditions in the data, is there any possible way to do it. like disabling the total row and not giving the actions option. thanks in advance

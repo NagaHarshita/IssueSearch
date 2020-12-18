@@ -1,0 +1,1 @@
+ URL : "https://github.com/Wirecloud/map-viewer-widget/issues/4" TITLE : map not displaying BODY : hi, i try to display map-viewer but i had this message in util.js : google maps api warning: noapikeys https://developers.google.com/maps/documentation/javascript/error-messages no-api-keys it's possible to use openstreetmap ? thanks,

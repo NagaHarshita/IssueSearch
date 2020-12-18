@@ -1,0 +1,1 @@
+ URL : "https://github.com/sparkalow/angular-count-to/issues/29" TITLE : this need to be change BODY : from this code : inject the count-to directive in your app. var myapp = angular.module 'myapp', 'count-to' ; to this code: inject the countto directive in your app. var myapp = angular.module 'myapp', 'countto' ;

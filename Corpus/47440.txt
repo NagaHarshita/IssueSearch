@@ -1,0 +1,1 @@
+ URL : "https://github.com/reswitched/pegaswitch/issues/29" TITLE : pegaswitch dns server BODY : it seems as though the switch can't connect to the dns server pegaswitch makes, or the program doesn't set one up in the first place. i'm running ubuntu, followed all the instructions. the terminal gives no errors, but the console doesn't connect to the dns i set up in the settings.

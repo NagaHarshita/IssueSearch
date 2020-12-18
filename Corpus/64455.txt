@@ -1,0 +1,1 @@
+ URL : "https://github.com/tryashtar/music-songularity/issues/28" TITLE : get rid of getextension BODY : it's literally pointless since getpath exists.

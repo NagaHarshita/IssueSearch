@@ -1,0 +1,1 @@
+ URL : "https://github.com/mawww/kakoune/issues/1294" TITLE : add :restart command BODY : like i3-msg restart restarting i3 in-place to restart in-place when updating kakoune. restarting i3 in-place : https://i3wm.org/docs/userguide.html _restarting_i3_inplace

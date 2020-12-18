@@ -1,0 +1,1 @@
+ URL : "https://github.com/steveukx/git-js/issues/186" TITLE : git config --get BODY : hi, i would like to know who will be credit for the commit with a git config --get user.name and git config --get user.email it was not directly possible in 2015 : https://github.com/steveukx/git-js/issues/62 is-it now ?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/CurtisRose/RTSBuilder/issues/8" TITLE : create resource manager BODY : resource manager should be static, will exist in the game manager but handle it's own functionality.

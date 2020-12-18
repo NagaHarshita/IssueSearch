@@ -1,0 +1,1 @@
+ URL : "https://github.com/Codeinwp/zerif-lite/issues/520" TITLE : hide testimonials section BODY : when the companion plugin is not installed and the section is empty only default values we should hide it. right now there are too many empty sections by default, without widgets

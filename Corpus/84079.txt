@@ -1,0 +1,1 @@
+ URL : "https://github.com/freshmindpl/wyszukiwarkaregon/issues/9" TITLE : could not connect to host BODY : get an error there was an error: exception 'soapfault' with message 'could not connect to host' in ../gusclient/vendor/freshmindpl/wyszukiwarkaregon/src/transport.php:42 . resolved with update to 7.1.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/nmaier/repagination/issues/20" TITLE : broken since ff55 BODY : repagination stopped working with >=ff55. menu items are still there but nothing happens when starting it. it would be really nice to have this fixed before that 57 armageddon fully starts, so i hope you still find some time :

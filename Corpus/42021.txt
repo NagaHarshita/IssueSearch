@@ -1,0 +1,1 @@
+ URL : "https://github.com/MNicole1/BST-CountWords/issues/13" TITLE : add toarray functions BODY : add functions allowing to return an array of nodedata of all the keys in the tree with an in order traversal. could be used to populate a heap to get words in order of most to least or vise-versa common.

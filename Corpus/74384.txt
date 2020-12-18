@@ -1,0 +1,1 @@
+ URL : "https://github.com/nim-lang/nimble/issues/304" TITLE : error in parsing version BODY : with latest nimble, i cannot run any task in linalg https://github.com/unicredit/linear-algebra . the file used to be parseable before, and as far as i can tell there is nothing wrong in the version numbers there

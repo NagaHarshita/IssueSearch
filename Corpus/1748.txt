@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/CNTK/issues/2037" TITLE : faster r cnn BODY : will there be support for faster r cnn in the official repo soon - or is it safe to use the tools here: https://github.com/microsoft/cntk/tree/master/examples/image/detection/utils ? in my case for object detection with faster r cnn intead of selective search roi finding

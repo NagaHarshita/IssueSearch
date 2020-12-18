@@ -1,0 +1,1 @@
+ URL : "https://github.com/elijah/chef-prometheus/issues/87" TITLE : bluepill version conflict BODY : would it be possible to either remove, increment beyond 2.3, or suggest the bluepill version in metadata? this causes conflicts with a number of other third-party cookbooks which are using bluepill 2.4+. thanks, jason

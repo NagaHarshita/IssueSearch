@@ -1,0 +1,1 @@
+ URL : "https://github.com/Gawdl3y/discord.js-commando/issues/32" TITLE : more deprecation on master BODY : evaluatedpermissions haspermission is deprecated, use permissions has instead

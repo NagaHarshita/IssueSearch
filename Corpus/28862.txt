@@ -1,0 +1,1 @@
+ URL : "https://github.com/NamelessMC/Nameless/issues/863" TITLE : ignore case in urls BODY : redirect urls to lower case to fix 404 errors e.g. /vote -> /vote or change the router code so it ignores case

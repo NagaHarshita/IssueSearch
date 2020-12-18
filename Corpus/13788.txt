@@ -1,0 +1,1 @@
+ URL : "https://github.com/denysdovhan/spaceship-zsh-theme/issues/74" TITLE : 🐘 php support BODY : show php version for specific projects. version managers: phpbrew https://github.com/phpbrew/phpbrew php-version https://github.com/wilmoore/php-version phpenv https://github.com/phpenv/phpenv

@@ -1,0 +1,1 @@
+ URL : "https://github.com/editor-rs/vscode-rust/issues/237" TITLE : complete patterns in match BODY : let we have rust enum foo { one, two, three, } and foo: foo . then rust match foo { thr } should be completed to rust match foo { three }

@@ -1,0 +1,1 @@
+ URL : "https://github.com/SickRage/SickRage/issues/3111" TITLE : rename without moving BODY : i'd like to request the ability to rename videos in-place without moving/copying/etc. i have a secondary post-processing script that moves it where i like afterward, so it seems like of silly for sr to move just to move it again.

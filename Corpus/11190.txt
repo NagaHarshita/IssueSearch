@@ -1,0 +1,1 @@
+ URL : "https://github.com/ryanisaacg/libdgt/issues/30" TITLE : fix obtuse names BODY : many names of functions in the codebase make sense to me or someone who uses libraries like libgdx that inspired libdgt, but many be more difficult for a first-time user.

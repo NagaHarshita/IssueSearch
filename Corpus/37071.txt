@@ -1,0 +1,5 @@
+ URL : "https://github.com/johnfg10/Expedit_Public/issues/20" TITLE : johnfg10s bug report BODY : use managementfactory.getruntimemxbean .getstarttime for start time and uptime based commands to improve overall acuracy or for that matter stop being silly and user the built in method aka managementfactory.getruntimemxbean .getuptime which shows the uptime since the vms startup
+additional information:
+guild id: 299877329604313090
+channel id: 317315385122750466
+user id:200989665304641536

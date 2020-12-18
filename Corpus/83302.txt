@@ -1,0 +1,1 @@
+ URL : "https://github.com/WildernessLabs/Netduino_SDK/issues/8" TITLE : can not compile netduino2 BODY : missing !!! wininet.h !!! on sdk

@@ -1,0 +1,1 @@
+ URL : "https://github.com/dries007/curseMeta/issues/3" TITLE : invalid author url BODY : i noticed that the user profile has the aspx extension appended when it shouldn't. this is easy to fix on the receiving end, but still a bit weird. authors : { name : nuclearhex , url : https://mods.curse.com/members/nuclearhex.aspx } ,

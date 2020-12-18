@@ -1,0 +1,1 @@
+ URL : "https://github.com/acic2015/findr/issues/11" TITLE : specify job resources BODY : allowing job resources to be specified will allow for a single worker to tackle multiple jobs simultaneously, reducing effort of starting up workers.

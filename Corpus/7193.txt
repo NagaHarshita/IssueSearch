@@ -1,0 +1,1 @@
+ URL : "https://github.com/HalilCan/pomodoro-boxes/issues/8" TITLE : empty box value BODY : empty box values return nan, should default to 0.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/belbio/bel_api/issues/4" TITLE : add py.test skeleton BODY : add basics to get started using py.test for bel_api code testing - both unit tests and functional/api tests

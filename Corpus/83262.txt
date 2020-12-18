@@ -1,0 +1,7 @@
+ URL : "https://github.com/lensfun/lensfun/issues/232" TITLE : calibration upload 7aeac0 BODY : calibration images were uploaded to the directory that starts with “ 7aeac0_ ”. please read the workflow description https://github.com/lensfun/lensfun/blob/master/tools/calibration_webserver/workflow.rst for further instructions about the calibration. additional comments by the uploader: > hi torsten. i hope you're still doing this.
+> > i see that you don't have the rokinon 16mm f/2.0 ed as umc cs wide angle lens on the lensfun list nikon mount, if that matters .
+> > in the zipped folder, there are a few files:
+> > dsc_0543 to dsc_0546 have the long, straight lines you want.
+> > dsc_0547 and dsc_0548 have the contrast i hope you want for the chromatic-aberration fix.
+> > thanks for doing this.
+> > mike

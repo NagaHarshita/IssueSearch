@@ -1,0 +1,1 @@
+ URL : "https://github.com/alongubkin/phonertc/issues/233" TITLE : error in code for browser BODY : var candidate = new rtcicecandidate { sdpmlineindex: message.label, candidate: message.candidate } ; should be changed into var candidate = new icecandidate { sdpmlineindex: message.label, candidate: message.candidate } ; there is no object called rtcicecandidate

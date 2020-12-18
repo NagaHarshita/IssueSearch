@@ -1,0 +1,1 @@
+ URL : "https://github.com/KrauseFx/xcode-install/issues/237" TITLE : no older version available BODY : i just did xcversion update and now xcversion list returns only 9 instead of full list of available xcodes. same problem on different computers, different accounts etc. i use latest version 2.2.1 . any idea how to fix that? 🤔

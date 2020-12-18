@@ -1,0 +1,1 @@
+ URL : "https://github.com/lucasmotta/sass-module-importer/issues/31" TITLE : use --importer example BODY : anyone have an idea of how to use sass-module-importer on the command line? node-sass src/style.scss dest/style.css --importer

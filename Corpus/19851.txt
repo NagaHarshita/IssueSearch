@@ -1,0 +1,1 @@
+ URL : "https://github.com/zuntrax/schedule-ng/issues/19" TITLE : allow opening urls BODY : quite often, input data is available via http. extend util.read_file to detect urls and download them automatically.

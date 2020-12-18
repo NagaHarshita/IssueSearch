@@ -1,0 +1,1 @@
+ URL : "https://github.com/prusa3d/PrusaControl/issues/23" TITLE : crashes on kubuntu 17.04 BODY : starts ok, but crashes after selecting anything from the menu cannot mix incompatible qt library version 0x40807 with this library version 0x40806 aborted core dumped

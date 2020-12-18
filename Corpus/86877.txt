@@ -1,0 +1,1 @@
+ URL : "https://github.com/acm-uiuc/arbor/issues/8" TITLE : include a build toolchain BODY : building is a simple script now in groot, might make sense to figure out some sort of toolchain to manage building arbor apps

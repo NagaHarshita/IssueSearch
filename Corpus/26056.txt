@@ -1,0 +1,1 @@
+ URL : "https://github.com/garyburd/redigo/issues/275" TITLE : add publish wrapper BODY : i noticed there are nice wrappers for receive , but it seems like you can't use publish without calling do directly?

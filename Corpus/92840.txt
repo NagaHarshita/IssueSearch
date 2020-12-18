@@ -1,0 +1,1 @@
+ URL : "https://github.com/lydell/spacefn-win/issues/5" TITLE : a more simple ahk solution BODY : you can map x to y when holding space by space & x::send {y} . and add space::space to make space bar works alone.

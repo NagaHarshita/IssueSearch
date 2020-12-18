@@ -1,0 +1,1 @@
+ URL : "https://github.com/danleedham/UK-Parliamentary-Stacker/issues/62" TITLE : auto progress questions BODY : use live logs to progress to the next question. the logs will show q1. etc. when qn. is logged, have qn+1 loaded within oral questions. make it happen as an option that can be turned off incase it goes haywire.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/bscott/rancher-wrangler/issues/3" TITLE : improve error handling BODY : add error handling for things like adding hosts and if a host can't be reached

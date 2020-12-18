@@ -1,0 +1,1 @@
+ URL : "https://github.com/dotmailer/dotmailer-magento2-extension/issues/490" TITLE : prefix installed tables BODY : please prefix the tables you create with 'dotmailer_' in future version.

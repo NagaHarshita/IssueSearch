@@ -1,0 +1,12 @@
+ URL : "https://github.com/concourse/concourse/issues/1259" TITLE : updates to the navigation BODY : updates to the navigation to address multiple issues. 1207, 169, 1118, 1117, 125, 1137 issues raised from users: current pipeline displayed in the ui showing the name of the current pipeline.
+recenter the pipeline view > reset button on the pipeline view to resize the pipeline back to it's default setting
+ability to toggle legend on/off supporting issues/evidence can't see what pipeline i'm currently looking at in the ui 1207 concourse/concourse 169 relates to giant pipelines and being able to pan around more efficiently
+option to make pipeline drawer expanded by default 1118
+description in pipeline web page 1117
+feature request: toggle legend on/off 125
+proposal: font resizing 1258
+logs get weird at different browser sizes 1137 proposal bottom nav bar contains: breadcrumbs : team and name of the current pipeline settings > show hide - legend, re-center pipeline, font size about > description of the pipeline with links to github and documentation
+share > tbd - url link to share out top nav bar
+hamburger and home icon replaced with concourse icon
+behaviour:
+open and closes the pipeline drawer

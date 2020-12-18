@@ -1,0 +1,1 @@
+ URL : "https://github.com/WEEE-Open/WEEEbsite/issues/1" TITLE : super little building bug BODY : add an empty output folder in the repo to not waste time on stupid errors while building

@@ -1,0 +1,1 @@
+ URL : "https://github.com/cortner/TightBinding.jl/issues/9" TITLE : fermicontour and pexsi BODY : rewrite the pexsi calculator so that the fermicontour gets stored instead of its parameters. implement also zero-t contour automatic choice and calibration depending on the potential used in the tb model

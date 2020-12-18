@@ -1,0 +1,1 @@
+ URL : "https://github.com/open-io/oio-swift/issues/59" TITLE : support the x-trans-id BODY : use the swift x-trans-id to trace requests in oio-sds

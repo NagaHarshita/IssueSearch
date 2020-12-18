@@ -1,0 +1,1 @@
+ URL : "https://github.com/Apidcloud/TypeScript-Experiments/issues/11" TITLE : add pre-commit git hooks BODY : use husky pre commit or pre push hooks

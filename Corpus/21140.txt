@@ -1,0 +1,1 @@
+ URL : "https://github.com/TerryCavanagh/haxegon/issues/131" TITLE : embed default font BODY : swap out verdana for default, which looks better. have it embedded so that it works without needing to include it in the project.

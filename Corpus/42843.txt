@@ -1,0 +1,1 @@
+ URL : "https://github.com/lhc70000/iina/issues/1222" TITLE : can't run pod install BODY : when run pod install analyzing dependencies pre-downloading: grmustache.swift from https://github.com/saagarjha/grmustache.swift.git , commit efe20d10edc7af2ab9d60a42e94e1142cdef6535 ! error installing grmustache.swift ! failed to download 'grmustache.swift'

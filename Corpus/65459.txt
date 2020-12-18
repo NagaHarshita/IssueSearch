@@ -1,0 +1,1 @@
+ URL : "https://github.com/jbossdemocentral/coolstore-microservice/issues/87" TITLE : introduce zipkin server BODY : it would be nice to use this example to also demo distributed tracing. we have support here via camel-zipkin with fis

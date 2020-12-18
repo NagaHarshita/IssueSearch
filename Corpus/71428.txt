@@ -1,0 +1,1 @@
+ URL : "https://github.com/manywho/sdk-java/issues/27" TITLE : add health check support BODY : we should add support for a health check handler , which will return a 200 on success, as this will be super helpful for load balancer availability checking. if no handler is specified by the service, we can just straight up return 200 as a default.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/langurmonkey/gaiasky/issues/152" TITLE : add oort cloud BODY : now that we have the generic particlegroup handler allowing us to render large groups of non-focusable particles, we can easily add the oort cloud with a more or less accurate particle generator.

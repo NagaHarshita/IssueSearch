@@ -1,0 +1,1 @@
+ URL : "https://github.com/moduspwnens/boa-chat/issues/31" TITLE : convert to python 3! BODY : now that aws lambda supports python 3, this project should utilize it to avoid python 2's expiration date.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/JamieWohletz/marbles/issues/6" TITLE : need easier route config BODY : it's kind of awkward and difficult to have to specify the route config as an adjacency list. would be nice to have an easier, more concise way of specifying the routes, like as a tree or something.

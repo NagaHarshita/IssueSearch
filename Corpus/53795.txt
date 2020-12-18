@@ -1,0 +1,1 @@
+ URL : "https://github.com/sipcapture/captagent/issues/122" TITLE : erspan feature enable? BODY : hey, the code looks like there is conditional support for erspan now. can someone help me in setting up the captagent to be able to parse erspan traffic? i am not able to find any documentation to enable erspan. thanks.

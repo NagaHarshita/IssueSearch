@@ -1,0 +1,1 @@
+ URL : "https://github.com/picotorrent/picotorrent/issues/503" TITLE : remember column ordering BODY : column ordering is messed up after every restart of the application.

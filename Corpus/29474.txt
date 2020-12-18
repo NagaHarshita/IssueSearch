@@ -1,0 +1,1 @@
+ URL : "https://github.com/phreeza/tensorflow-vrnn/issues/4" TITLE : loss function doubt BODY : is dec_rho replaced by the value of dec_sigma when calculating lossfunc = get_lossfunc ... for a specific reason or it is just a bug?

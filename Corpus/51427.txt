@@ -1,0 +1,1 @@
+ URL : "https://github.com/RafiKueng/paper_models_of_candidates/issues/29" TITLE : am: optimising figures BODY : e.g. fig 5 y-axis is the same for all. so you can remove the gaps in between the panels so that the actual curves will appear bigger. repeating axes names like image radius is redundant, removing these will give more space to see the content.

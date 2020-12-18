@@ -1,0 +1,1 @@
+ URL : "https://github.com/amdegroot/ssd.pytorch/issues/2" TITLE : error when run test.py BODY : hi, there is a problem hope you can help me, thank you. file /home/hd/ssd.pytorch/data/voc.py , line 222 gts.append label, int bb.text - 1 for bb in bbox ^ syntaxerror: invalid syntax this error occur when i run the test.py. thank you again. ^ under the

@@ -1,0 +1,1 @@
+ URL : "https://github.com/dwsteele/postgres/issues/9" TITLE : why exit on error >= 128 BODY : pg will exit hard if it receives and error code >= 128 during recovery.

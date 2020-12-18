@@ -1,0 +1,1 @@
+ URL : "https://github.com/pxlpowered/opm/issues/13" TITLE : remove appveyor support BODY : opm will not provide windows support. instead a libore will be provided that someone else can use.

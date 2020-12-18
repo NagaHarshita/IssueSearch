@@ -1,0 +1,1 @@
+ URL : "https://github.com/minio/doctor/issues/350" TITLE : sso and authentication BODY : great work on the project. i am considering to use this for one portal. 1. is there a way we can do authenticaiton? 2. is there a way we can introduce sso / saml functions? end use : user needs to login to see documents. it can be standalone auth or sso auth.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mseemann/angular-mdl-a4-angular-cli/issues/3" TITLE : template parse error BODY : hi, i am getting the following template error even though i imported _ mdltextfieldmodule _ to app.module.ts if 'mdl-textfield' is an angular component and it has 'ngmodel' input, then verify that it is part of this module.

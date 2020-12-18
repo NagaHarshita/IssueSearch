@@ -1,0 +1,1 @@
+ URL : "https://github.com/vapor/vapor/issues/1056" TITLE : remove version command BODY : the toolbox detects vapor's tagged version more reliably using spm. this command should be removed from vapor.

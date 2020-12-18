@@ -1,0 +1,1 @@
+ URL : "https://github.com/ControlSystemStudio/cs-studio/issues/2199" TITLE : catch zero-length pvs BODY : vtype.pv should throw exception for zero-length pv name requests because they might crash the ca gateway, http://www.aps.anl.gov/epics/tech-talk/2017/msg00714.php

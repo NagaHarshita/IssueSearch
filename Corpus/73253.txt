@@ -1,0 +1,1 @@
+ URL : "https://github.com/wordpress-mobile/AztecEditor-Android/issues/426" TITLE : copy/pasting loses style BODY : the style of text is not preserved when copy/pasting. some elements get corrupted, like uknown html. 1. copy the demo text 2. delete the text 3. past the text 4. notice the headings, lists, quotes, preformatted text, unknown html are all gone

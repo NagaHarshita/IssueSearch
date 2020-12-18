@@ -1,0 +1,1 @@
+ URL : "https://github.com/aknobloch/qt-plex/issues/2" TITLE : classes need destructors BODY : none of the current classes are properly managing memory. they need to have proper destructor to deallocate memory from the heap.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/meetfranz/recipe-mysms/issues/1" TITLE : google auth broken? BODY : i've recently started using both franz and mysms - i am experiencing a lot of problems with this service and google auth. the two factor validation apparently never returns with anything valid and is forever stuck in an one moment please loop

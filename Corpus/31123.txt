@@ -1,0 +1,1 @@
+ URL : "https://github.com/LukeMadhanga/PHPDocumentParser/issues/3" TITLE : rtf leaves metadata BODY : decoding an rtf leaves the metadata at the top. my output from a small file with the text rtf saved as rtf is the following: normal; heading; text body; list; caption; index; rtf

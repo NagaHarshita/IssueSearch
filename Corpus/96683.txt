@@ -1,0 +1,1 @@
+ URL : "https://github.com/nodemcu/nodemcu-devkit-v1.0/issues/23" TITLE : feature usb headers/inputs BODY : usb header breakout support, d+ d- inputs for usb etc. even if they were 2mm pitch holes or pads.

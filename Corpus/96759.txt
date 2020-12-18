@@ -1,0 +1,1 @@
+ URL : "https://github.com/pixeline/bugs/issues/74" TITLE : filtering project's issues BODY : get an error when we try filtering project's issues. > unhandled exception > message: > error rendering view: project/index/issues > undefined index: tag_id > location: > /home/patrick/documents/modem/tickets/app/application/views/project/index/issues.php on line 85

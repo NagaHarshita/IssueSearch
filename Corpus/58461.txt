@@ -1,0 +1,1 @@
+ URL : "https://github.com/NLPchina/elasticsearch-sql/issues/382" TITLE : site standalone 报错 BODY : 我用 5.1.2 的 _site 替换到 5.0.1 的 standalone/_site 部分，然后不管是直接用浏览器打开 index.html 还是用 node 来运行 server，都无法执行查询。 用浏览器直接打开 index.html ，报错： error: error occured! response is not avalible. 用 node.js 运行，报错： error: cannot post /_sql 所以已经创建了，直接在 9200 上查询没问题

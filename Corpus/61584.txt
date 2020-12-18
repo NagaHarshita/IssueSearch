@@ -1,0 +1,1 @@
+ URL : "https://github.com/milaendo/Grumble/issues/15" TITLE : be able to login/logout BODY : 1. first, i will hash the passwords when a user registers 2. i will, create a login page component 3. implement mike's heroku-auth template

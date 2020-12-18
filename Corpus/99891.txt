@@ -1,0 +1,1 @@
+ URL : "https://github.com/lcarli/NodeRedIoTHub/issues/8" TITLE : node.log is not a function BODY : typeerror: node.log is not a function thrown when running the example from readme.txt

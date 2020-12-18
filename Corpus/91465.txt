@@ -1,0 +1,1 @@
+ URL : "https://github.com/danwilson/google-analytics-plugin/issues/465" TITLE : trackevent is not working BODY : i am not able to see trackevent stats update on google analytics dashboard. while trackview is working fine. i checked the log when i hit trackview i can see the hit in the logs but in case of trackevent nothing shows up. regards saad ali

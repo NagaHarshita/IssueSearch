@@ -1,0 +1,1 @@
+ URL : "https://github.com/PaddlerApp/paddler-ios/issues/34" TITLE : add loading indicators BODY : we should add loading screens and indicators for the following scenarios: logging in loading matches loading leaderboard loading profile loading contacts

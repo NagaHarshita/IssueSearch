@@ -1,0 +1,1 @@
+ URL : "https://github.com/pyload/pyload/issues/2976" TITLE : alldebrid plugin broken BODY : hello, all debrid plugin seems to be broken i receiving warning | hoster alldebridcom 37 : alldebridcom \| plugin may be unstable error | pycurl error 23: failed writing body 0 != 16384 am i the only one? regards,

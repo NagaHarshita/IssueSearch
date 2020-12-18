@@ -1,0 +1,1 @@
+ URL : "https://github.com/rmoscowitz/houston-elibrary-portal/issues/11" TITLE : add availability features BODY : i think since this is something that changes a lot, it make sense for the backend to act as a proxy to the overdrive api

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla-services/pageshot/issues/2226" TITLE : copy-on-save isn't working BODY : there's an attempt to copy in background/clipboard.js, and it doesn't give an error, but it also doesn't copy the link.

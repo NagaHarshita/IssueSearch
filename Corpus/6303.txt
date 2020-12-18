@@ -1,0 +1,1 @@
+ URL : "https://github.com/UnityDevelopment/AdventureGameCreator/issues/1" TITLE : action : search BODY : if a location is searchable but has no items, nothing is displayed to the player and the option to search remains. ideally, the player would be presented with a message which states you search found nothing of use. and then disabled the search action.

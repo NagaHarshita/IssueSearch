@@ -1,0 +1,1 @@
+ URL : "https://github.com/sunpy/sunpy/issues/2303" TITLE : map save needs a test BODY : the save method for map needs a test. it doesn't have one. i suggest using the hash approach we use for testing our plotting code. what do you think? the same approach will also be useful in creating a save test for mapcube - see 2301.

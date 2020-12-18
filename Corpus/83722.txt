@@ -1,0 +1,1 @@
+ URL : "https://github.com/slowprog/CopyFile/issues/6" TITLE : class is not autoloadable BODY : hello, i found an issue while using: composer install --no-dev that is causing: class slowprog\copyfile\scripthandler is not autoloadable, can not call post-install-cmd script

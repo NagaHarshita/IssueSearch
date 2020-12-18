@@ -1,0 +1,1 @@
+ URL : "https://github.com/triggercode/mamp-cli/issues/8" TITLE : feature request: nginx BODY : shalom! i see mamp-cli does nothing on my computer. say its started but its not functional. maybe because its nginx by default? environment | version ------------ | ------------- os | osx node | 9.2.0 npm | 5.6.0 mamp | 4.2 using nginx mysql | 5.6.35 php | 7.1.7

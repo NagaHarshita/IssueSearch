@@ -1,0 +1,1 @@
+ URL : "https://github.com/z64/ccr/issues/1" TITLE : fix markdown links BODY : in ccr user , masked links in events have a double // in the path, i.e. https://osu.ppy.sh//b/717439?m=2 this doesn't actually break anything the link still works , but it should be fixed.

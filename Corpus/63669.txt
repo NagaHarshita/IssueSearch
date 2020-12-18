@@ -1,0 +1,1 @@
+ URL : "https://github.com/uboslinux/ubos-packages/issues/17" TITLE : error in /uenv-sata.txt BODY : bootargs=console=ttymv0,115200 earlycon=ar3700_uart,0xd0012000 root=/dev/sdb2 rw rootwait but that makes no sense, as we do not have a /dev/sdb. it should be: bootargs=console=ttymv0,115200 earlycon=ar3700_uart,0xd0012000 root=/dev/sda2 rw rootwait

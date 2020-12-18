@@ -1,0 +1,1 @@
+ URL : "https://github.com/CongWeilin/mtcnn-caffe/issues/35" TITLE : caffe_img = img.copy -128 BODY : hello, in gen_12net_hard_example.py, image pre-process is caffe_img = img.copy -128 ,,,but during the train time, in gen_net_imdb.py, we do as im = im - 127.5 /127.5 ,which the right one ?

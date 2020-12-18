@@ -1,0 +1,1 @@
+ URL : "https://github.com/ros2/rviz/issues/37" TITLE : general integration tests BODY : create product tests or integration tests for nightly jobs to check whether display types work correctly - compare display - potentially use ogre tests have smoke tests for the different systems

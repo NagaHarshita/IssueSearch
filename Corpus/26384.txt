@@ -1,0 +1,1 @@
+ URL : "https://github.com/flitbit/diff/issues/121" TITLE : array order problem BODY : i have a json array. for example arr= 1 , 2 , 3 , 4 after deleting 3 , the array looks like arr= 1 , 2 , 4 then differences are that 3rd element is edited and 4th element is deleted. it doesn't work. how to avoid from this situation?

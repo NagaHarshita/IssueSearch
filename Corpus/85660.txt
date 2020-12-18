@@ -1,0 +1,1 @@
+ URL : "https://github.com/mapzen/on-the-road_ios/issues/20" TITLE : fix circleci build issues BODY : need to add a circle.yml and override some of the default circle settings to get this working again. https://circleci.com/gh/mapzen/on-the-road_ios

@@ -1,0 +1,1 @@
+ URL : "https://github.com/helixbass/coffeescript-jsxy/issues/1" TITLE : self-closing tag syntax BODY : allow haml-style self-closing tag syntax eg %hr

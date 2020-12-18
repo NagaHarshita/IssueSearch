@@ -1,0 +1,1 @@
+ URL : "https://github.com/mikey179/vfsStream/issues/143" TITLE : drop support for php < 7.0 BODY : currently vfsstream supports all php versions down to 5.3.0. in order to move forward, support for all 5.x versions should be dropped.

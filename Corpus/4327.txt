@@ -1,0 +1,1 @@
+ URL : "https://github.com/anthill/open-moulinette/issues/48" TITLE : caf 2015 files BODY : there are 2015 files in caf website. - add this files in makefile to download it. - check cleaning process in .py files - update documentation

@@ -1,0 +1,1 @@
+ URL : "https://github.com/wwivbbs/wwiv/issues/1021" TITLE : add version info to wwivd BODY : it would be nice to have the wwivd startup include writing the version of wwivd to the logs and i'd also like to see a -v option added so you can quickly verify what version of wwivd is in use.

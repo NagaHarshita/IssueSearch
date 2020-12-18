@@ -1,0 +1,1 @@
+ URL : "https://github.com/adlerweb/CAN_BUS_Shield/issues/1" TITLE : 10mhz crystal support BODY : according to https://github.com/andreasberg/can_bus_shield there are also boards using a 10mhz crystal. shouldn't be hard to add.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/avgorny/-AI-RecognizingLicensePlate/issues/1" TITLE : problem z cięciem siatki BODY : w metodzie createpointstable klasy platenoocr jest problem zwiazany z wyznaczaniem zbyt wielu wierszy siatki. robi się 5x8 albo 6x5. powoduje to błedy takie jak z=7 itp. ogranijcie to prosze =d

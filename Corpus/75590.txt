@@ -1,0 +1,1 @@
+ URL : "https://github.com/LevPasha/Instagram-API-python/issues/264" TITLE : how to get more usertags BODY : hi, i'm using getusertags usernameid which dos not have a 'maxid' arg in it. but it only returns 20 results. is there anyway to get all the tags? thank you!

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jhoutman/npm-package-scaffolding/issues/1" TITLE : scaffold a component BODY : sharing components might just add some more complexity than just copy and paste them into a separate repo. there are some tools for this; one might want to look at this: https://github.com/udiliainc/create-react-library

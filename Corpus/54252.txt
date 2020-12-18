@@ -1,0 +1,1 @@
+ URL : "https://github.com/Magdain/EmCaptions/issues/46" TITLE : fix text expansion bug BODY : if you type part of a text expansion keyword, move the caret position with your mouse, then type the remaining keyword and press space, it still counts it as matching a keyword when it should not.

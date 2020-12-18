@@ -1,0 +1,1 @@
+ URL : "https://github.com/xHeliotrope/redcap-wdc/issues/1" TITLE : not pulling data BODY : when i enter my redcap site and my api token, it doesn't pull data, or do anything, for that matter. a previous version from a couple months ago would run forever, but not pull any data.

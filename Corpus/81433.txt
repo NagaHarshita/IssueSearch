@@ -1,0 +1,1 @@
+ URL : "https://github.com/udacity/dlnd-issue-reports/issues/380" TITLE : wrong index in 2nn/l1/23 BODY : during the calculation of the partial derivate of e according to w_j, the index turns from j to i at the end. it should remain j .

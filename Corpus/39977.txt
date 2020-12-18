@@ -1,0 +1,1 @@
+ URL : "https://github.com/fleet-data/fleet-source-jdbc/issues/1" TITLE : support ssh settings BODY : this integration should support connecting to the target database using ssh settings host, username, password, and port .

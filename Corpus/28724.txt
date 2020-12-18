@@ -1,0 +1,1 @@
+ URL : "https://github.com/silvanmelchior/RPi_Cam_Web_Interface/issues/373" TITLE : how to get version? BODY : how to get the version without running any code, seeing effects. a lot of repo's use releases, so i can issue a git command to get the release, or checkout a specific release. it's kinda necessary for works i've mentioned in 333.

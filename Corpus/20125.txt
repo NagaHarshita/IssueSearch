@@ -1,0 +1,1 @@
+ URL : "https://github.com/rohitgirdhar/AttentionalPoolingAction/issues/10" TITLE : bottom up saliency BODY : so, the algorithm seems to replace the average pooling with a weighted pooling using bottom up saliency as the weight?

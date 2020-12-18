@@ -1,0 +1,1 @@
+ URL : "https://github.com/svenluijten/artisan-view/issues/28" TITLE : add default configuration BODY : i want to apply some options to all the views i create unless i say the opposite, like extending a certain layout or having certain elements. this could be archieved by adding a config file.

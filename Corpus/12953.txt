@@ -1,0 +1,1 @@
+ URL : "https://github.com/strongloop/strong-soap/issues/97" TITLE : soap post to url BODY : hi , please advise how can i make a direct post to the below url - https://secure.paygate.co.za/payhost/process.trans with soap xml data - because currently the method required a wsdl url . thanks

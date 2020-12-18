@@ -1,0 +1,1 @@
+ URL : "https://github.com/mssun/passforios/issues/122" TITLE : brute force passcode BODY : attackers can brute force the passcode, which is only 4 digits.

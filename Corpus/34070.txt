@@ -1,0 +1,1 @@
+ URL : "https://github.com/agiliq/django-graphos/issues/90" TITLE : bug in documentation BODY : in the chapter overview of plot generation you should mention to add 'graphos' to the installed_apps in settings.py

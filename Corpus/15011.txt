@@ -1,0 +1,1 @@
+ URL : "https://github.com/argos-ci/argos/issues/319" TITLE : comment on github BODY : as a user, i can enable a comment on pull-requests on github. motivation so we don't even have to go to argos-ci for the simple cases. detail raised by @neoziro in the past after seen the codcov integration. also raised by @vvo.

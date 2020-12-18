@@ -1,0 +1,1 @@
+ URL : "https://github.com/pangeo-data/pangeo/issues/39" TITLE : we need a data catalog BODY : at this point we have multiple datasets on multiple different systems. it would be great to have some kind of catalog interface to avoid having to manually change the path names every time. for example. python from pangeo import catalog ds = xr.open_mfdataset catalog.dataset 'cm2.6'

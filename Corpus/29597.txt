@@ -1,0 +1,1 @@
+ URL : "https://github.com/mikecrittenden/chrome-shortkeys/issues/72" TITLE : match scroll events BODY : is there any way to match scroll or mousewheel events, e.g. ctrl-scroll, which by default zooms the page?

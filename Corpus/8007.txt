@@ -1,0 +1,1 @@
+ URL : "https://github.com/modoboa/modoboa-webmail/issues/91" TITLE : mail image view BODY : if another user send a mail with an image not as attachment in the body, and you try to open it in the webmail inbox, it is not showed, already set in the options from text to html but still the same. in the mailclient it is shown.

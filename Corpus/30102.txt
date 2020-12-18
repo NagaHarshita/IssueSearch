@@ -1,0 +1,1 @@
+ URL : "https://github.com/bachtn/graphene/issues/3" TITLE : normalize the graph BODY : the graph structure needs to be normalized to be standard over all the classes. nodes need to be acknowledged by id and have several attributes: url/domain in the domain graph the edges need to be weighted.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/MN-Script-Team/DHS-PRISM-Scripts/issues/791" TITLE : send f0104 dord memo BODY : missing check_for_prism false , so users can time out and lose their work.

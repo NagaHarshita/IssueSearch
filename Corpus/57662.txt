@@ -1,0 +1,1 @@
+ URL : "https://github.com/djp952/pvr.hdhomerundvr/issues/17" TITLE : recorded show progress BODY : is it possible to synchronize recorded show viewing progress across multiple playback devices? i use mysql to centralize kodi's libraries and viewing progress of library content. it would be great to have the same for recorded content as well.

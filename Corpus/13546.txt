@@ -1,0 +1,1 @@
+ URL : "https://github.com/netjson/netjsongraph.js/issues/46" TITLE : using web worker BODY : put plenty of calculation into web worker. for example, put static layout calculation 44 into it https://developer.mozilla.org/en-us/docs/web/api/web_workers_api/using_web_workers

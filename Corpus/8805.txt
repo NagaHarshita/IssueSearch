@@ -1,0 +1,1 @@
+ URL : "https://github.com/nsriv/Tweaks/issues/1" TITLE : same key toggle BODY : not yet a true toggle, rewrite script with a loop so one key combo does both. see comments in script for link to an example that has this functionality.

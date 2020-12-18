@@ -1,0 +1,7 @@
+ URL : "https://github.com/eripoche/test-basecamp/issues/22" TITLE : todo rich text BODY : bold _italic_
+~~strike~~ link https://dfghjkl.com color 【 highlighted faf785 】background color【 end highlighted 】 title
+> quote
+> quote2
+- - -
+code code2 bullet1 bullet2 1. number1
+1. number2 attchement: get-pip.py https://3.basecamp.com/3812619/blobs/c7360a20-b471-11e7-961c-a0369f6beabe/download/get-pip.py end.

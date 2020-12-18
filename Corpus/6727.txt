@@ -1,0 +1,1 @@
+ URL : "https://github.com/mesosphere/marathon/issues/5188" TITLE : broken pod docs BODY : the official mesos pod docs is broken: https://mesosphere.github.io/marathon/docs/pods.html

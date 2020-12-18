@@ -1,0 +1,1 @@
+ URL : "https://github.com/Festify/cordova-spotify-oauth/issues/2" TITLE : universal links support BODY : ...is easy to implement and doesn‘t require much more config from the plugin side than custom protocols, as far as i remember. just gotta get around to implementing that.

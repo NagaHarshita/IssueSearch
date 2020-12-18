@@ -1,0 +1,1 @@
+ URL : "https://github.com/senior7515/smf/issues/47" TITLE : add http server BODY : the http server is for metrics similar to google /varz or .. any modern db... aka kudu. easy to see latency metrics of the rpc's as well as logs and ... all the seastar engine metrics.

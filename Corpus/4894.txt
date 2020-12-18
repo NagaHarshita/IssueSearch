@@ -1,0 +1,1 @@
+ URL : "https://github.com/ywcui1990/TrafficPrediction/issues/1" TITLE : how to predict BODY : i find in run.py the input is related to output, but how to predict without input we do not know the traffic volume in the future, so we will not have input

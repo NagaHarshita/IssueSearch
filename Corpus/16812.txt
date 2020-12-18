@@ -1,0 +1,1 @@
+ URL : "https://github.com/DIRACGrid/DIRAC/issues/3260" TITLE : make rss vo-aware BODY : make rss to store the status in a vo-aware dependent. this won't be an easy one.

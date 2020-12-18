@@ -1,0 +1,1 @@
+ URL : "https://github.com/ethereum/browser-solidity/issues/954" TITLE : can't use at address field BODY : there is no way to select the contract name to use the at address field, always showed message contract compilation failed. please check the compile tab for more information. , but compilation succeed

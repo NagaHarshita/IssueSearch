@@ -1,0 +1,1 @@
+ URL : "https://github.com/safetymonkey/asq/issues/19" TITLE : users page visible to all BODY : users page is visible to non-logged in users. permissions may be appropriately limited/broken. haven't tested.

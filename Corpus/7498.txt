@@ -1,0 +1,1 @@
+ URL : "https://github.com/domoritz/leaflet-maskcanvas/issues/26" TITLE : geojson stuff ? BODY : how about a release accepting any geojson data ? appart from the quadtree stuff, it would be very great, since no viable libraries can be found to display a simple mask overlay the only trick is to invert a polygon, and set it on a top pane

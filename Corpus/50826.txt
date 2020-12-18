@@ -1,0 +1,1 @@
+ URL : "https://github.com/kendaleiv/express-openid-connect-secured-jekyll/issues/9" TITLE : add bearer token cache BODY : allow for caching of bearer tokens to reduce calls to process.env.token_validation_url .

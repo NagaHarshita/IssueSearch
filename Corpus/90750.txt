@@ -1,0 +1,1 @@
+ URL : "https://github.com/BrianMacIntosh/alexa-skill-test-framework/issues/4" TITLE : state seems to be ignored BODY : forgive me if i'm wrong, but i don't see a way to deal with different states. i'm talking about this: alexa.createstatehandler states.ready, { // handlers here }

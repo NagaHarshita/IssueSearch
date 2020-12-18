@@ -1,0 +1,1 @@
+ URL : "https://github.com/cfinst/cfinst.github.io/issues/283" TITLE : line breaks in tour stops BODY : there's no wrapping or line breaks, so sometimes we end up with awkwardly wide tour stops. for example, this one could be broken into two lines: ! image https://user-images.githubusercontent.com/68416/28306984-fb5acaa8-6bbe-11e7-9dfb-8f18c1575236.png

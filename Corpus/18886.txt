@@ -1,0 +1,1 @@
+ URL : "https://github.com/primeval-io/bnd-dsap-plugin/issues/2" TITLE : use travis for ci BODY : automatically deploy plugin to sonatype snapshots.

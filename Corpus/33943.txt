@@ -1,0 +1,1 @@
+ URL : "https://github.com/ChShersh/haskell-course-assistant/issues/2" TITLE : better cli interface BODY : optparse-applicative should be used for better cli interface. autocompletion would be also good.

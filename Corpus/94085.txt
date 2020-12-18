@@ -1,0 +1,1 @@
+ URL : "https://github.com/zignd/HTML-CSS-Class-Completion/issues/83" TITLE : blade.php is not supported BODY : in laravel projects blade.php files is not supported. i.e there is no autocomplete list of css classes. version: 1.9.0, vscode 1.15.1, ubuntu linux 16.04, laravel 5.4 project.

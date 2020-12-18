@@ -1,0 +1,1 @@
+ URL : "https://github.com/martinrybak/SQLClient/issues/44" TITLE : get inserted key value BODY : i don't see how to retrieve the key when a table has a generated key.

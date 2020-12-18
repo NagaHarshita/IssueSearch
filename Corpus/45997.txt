@@ -1,0 +1,1 @@
+ URL : "https://github.com/lcobucci/jwt/issues/181" TITLE : jwt builder not found BODY : i install from composer and i found this error fatal error: class 'lcobucci\jwt\builder' not found how i solve this problem thanks.

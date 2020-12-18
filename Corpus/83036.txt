@@ -1,0 +1,1 @@
+ URL : "https://github.com/openbmc/openbmc-test-automation/issues/803" TITLE : boot progress sensors xyz BODY : executing: get /org/openbmc/sensors/host/bootprogress /org/openbmc/sensors/host/bootprogress { error : 0, units : , value : off } this would be shipped out to xyz using https://github.com/openbmc/openbmc/issues/1608

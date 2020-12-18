@@ -1,0 +1,1 @@
+ URL : "https://github.com/fastlane/fastlane/issues/8839" TITLE : deliver upload broken BODY : i am getting the below error when uploading build through deliver. ! the request could not be completed because: phone number cannot be longer than 20 bytes there are one or more errors on the page. 0m

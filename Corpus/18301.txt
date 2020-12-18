@@ -1,0 +1,1 @@
+ URL : "https://github.com/MultiPoolMiner/MultiPoolMiner/issues/884" TITLE : support for 13gpu BODY : hi, i'm running 13 nvidia and mainly do equihash,groestl,lyra2re2,lyra2z,neoscrypt algo's. will multiminer work with all 13 gpu? thanks for the help

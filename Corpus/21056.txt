@@ -1,0 +1,1 @@
+ URL : "https://github.com/philipphecht/react-native-doc-viewer/issues/9" TITLE : dont show document BODY : when i try to view the document from the internet, the url is displayed in console but does not load the document on screen and this message also appears in console data nil when i use with image base 62 it works great

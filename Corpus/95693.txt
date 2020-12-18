@@ -1,0 +1,1 @@
+ URL : "https://github.com/codingchili/flashcards-webapp/issues/43" TITLE : dialogs are not scrollable BODY : always wrap dialog content in a scrollable to prevent the case when dialog content is outside of the screen.

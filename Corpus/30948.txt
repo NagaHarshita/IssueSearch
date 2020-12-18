@@ -1,0 +1,1 @@
+ URL : "https://github.com/CPSB/Internal-mixin-framework/issues/5" TITLE : remove test folder. BODY : de test folder is now included in github. we need to delete this and set it to .gitignore

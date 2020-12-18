@@ -1,0 +1,1 @@
+ URL : "https://github.com/biopython/biopython/issues/1090" TITLE : missing module in pdblist BODY : there is a missing module in the pdblist which is used to write a warning to stderr using the module sys , which is not imported line 105 . i'm forked the project and corrected the file.

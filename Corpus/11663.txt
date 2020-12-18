@@ -1,0 +1,16 @@
+ URL : "https://github.com/plierop/Applicatie-Graph/issues/39" TITLE : inzoomen op data BODY : in de ruimte tabel moet je kunnen inzoomen op verdelers en ruimtes.
+voor verdelers moet er een datasheet weergegeven worden met alle componenten van die node.
+ook moet er een knop zijn waarmee je alle relaties van deze verdeler kunt laten weergeven in een tabel.
+voor ruimtes moet je alle data van deze ruimte kunnen inzien. bestand: graphajax.js
+functies:
+var activezoom; -> in deze variable staat de actieve ruimte of verdeler opgeslagen.
+getquery en filterquerybuilder queries:
+singleruimte: laat de data van een enkele ruimte zien. dit krijg je als je op een ruimte inzoomt.
+verdeler: overzicht van alle data die in een verdeler node zit.
+verdelerruimtes: alle ruimtes die aan een gekozen verdeler verbonden zijn.
+getsingleruimte -> laad de data van een enkele ruimte
+getverdeler -> laad alle data van een verdeler
+getverdelerruimtes -> laad alle ruimtes die aan een verdeler gekoppeld zijn.
+verdelerrenderer -> maak een link in handsontable om in te zoomen op eenverdeler
+ruimterenderer -> maak een link in handsontable on in te zoomen op een ruimte
+builddatasheet -> maak een datasheet met alle data die in een verdeler zit.

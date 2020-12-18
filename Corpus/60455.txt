@@ -1,0 +1,1 @@
+ URL : "https://github.com/ReactiveX/RxJava/issues/5372" TITLE : 2.x doifempty for maybe BODY : hi, i wanted to simply log something when a maybe is empty. i could not find a proper side-effect method like doifempty action . am i missing something or this by purpose?

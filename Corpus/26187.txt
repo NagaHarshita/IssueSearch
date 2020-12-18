@@ -1,0 +1,1 @@
+ URL : "https://github.com/odow/NEOS.jl/issues/23" TITLE : add xml-rpc methods BODY : some xml-rpc routines have been added since i first wrapped them see https://neos-guide.org/content/neos-api neos_api . - authenticatedsubmitjob xmlstring, username, password - validatesolverxml xmlstring

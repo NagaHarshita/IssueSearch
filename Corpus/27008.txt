@@ -1,0 +1,1 @@
+ URL : "https://github.com/johnvandeweghe/LunixREST/issues/37" TITLE : clean up httpserver BODY : the idea here is that http server depends on a server, and should only catch server errors. further extensions of httpserver should be created to catch all that it does now. this will probably require a major version update, as it changes the behavior of httpserver.

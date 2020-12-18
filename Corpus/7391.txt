@@ -1,0 +1,1 @@
+ URL : "https://github.com/hazelcast/hazelcast-simulator/issues/1548" TITLE : fix page in/out BODY : refs.append serieshandle dstat , page_in , page in , todo , self.__load_dstat, args= 15 refs.append serieshandle dstat , page_out , page out , todo , self.__load_dstat, args= 16

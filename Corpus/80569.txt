@@ -1,0 +1,1 @@
+ URL : "https://github.com/Jukkorsis/Hadrian/issues/19" TITLE : unable to delete service BODY : - select a service - click the burger menu next to the service name - in the delete service dialog, enter a reason next to to reason - click delete service nothing happens. i would expect the service to be deleted and the dialog to close.

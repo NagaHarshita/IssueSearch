@@ -1,0 +1,1 @@
+ URL : "https://github.com/cloudinary/cloudinary_js/issues/132" TITLE : jquery free upload example BODY : i am looking for a sane jquery free upload example that can ideally have multiple uploads. icing on the cake would be somehow showing how to isolate uploads between users and build up a gallery for a particular user.

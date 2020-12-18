@@ -1,0 +1,1 @@
+ URL : "https://github.com/GiocomoLab/ln-model-of-mec-neurons/issues/1" TITLE : 🐛 in fit_all_ln_models BODY : tried running run_me , got an error, looks like samplerate is undefined <img width= 717 alt= screen shot 2017-03-20 at 11 10 47 am src= https://cloud.githubusercontent.com/assets/904854/24114549/e4ffdccc-0d5d-11e7-9528-02630514cefd.png >

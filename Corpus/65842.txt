@@ -1,0 +1,1 @@
+ URL : "https://github.com/buildit/storybook-addon-versions/issues/4" TITLE : link to versions in dev BODY : would be good to be able to navigate to deployed versions even when in local dev mode. however, how do we get back to local?

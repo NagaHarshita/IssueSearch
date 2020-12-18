@@ -1,0 +1,1 @@
+ URL : "https://github.com/ipfs/go-ipld-cbor/issues/29" TITLE : migrate to new cbor lib BODY : we should use https://github.com/polydawn/refmt, it was designed with a lot of our usecases in mind

@@ -1,0 +1,20 @@
+ URL : "https://github.com/gratipay/inside.gratipay.com/issues/1202" TITLE : run gratipay 282 BODY : &larr; payday 281 https://github.com/gratipay/inside.gratipay.com/issues/1200 --- runbook http://inside.gratipay.com/howto/run-payday checklist - x review accounts http://inside.gratipay.com/howto/review-accounts - x new givers https://gratipay.com/dashboard/ - x 1.0 payout applications https://gratipay.com/dashboard/1.0-payouts - x trigger backup
+- x run payday script
+- x commit payday logs
+- x run masspay http://inside.gratipay.com/howto/run-masspay - db query to update broken paypal fees - generate paypal inputs - verify there is no fee mismatch - submit masspay on paypal - post back masspay
+- x commit masspay logs
+- x shuffle escrow
+- x review decline rate rotation | month | pilot | copilot |
+| :-- | :-- | :-- |
+| october | @rohitpaulk :airplane: | @whit537 |
+| november | clone1018 | rohitpaulk |
+| december | whit537 | clone1018 |
+| january | rohitpaulk | whit537 |
+| february | clone1018 | rohitpaulk |
+| march | whit537 | clone1018 |
+| april | rohitpaulk | whit537 |
+| may | clone1018 | rohitpaulk |
+| june | whit537| clone1018 |
+| july | rohitpaulk | whit537 |
+| august | clone1018 | rohitpaulk |
+| september | whit537 | clone1018 |

@@ -1,0 +1,1 @@
+ URL : "https://github.com/joshmarinacci/node-pureimage/issues/31" TITLE : textalign not setting BODY : i'd like to be able to center the text in the image, however, the ctx.textalign= center seems to be ignored. image renders, everything seems as it should be, the only issue is with the alignment. ideas?

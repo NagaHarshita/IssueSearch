@@ -1,0 +1,1 @@
+ URL : "https://github.com/danielstjules/toragent/issues/6" TITLE : sighup ip change BODY : if you need to change ip address, this can be even faster on linux. service tor reload

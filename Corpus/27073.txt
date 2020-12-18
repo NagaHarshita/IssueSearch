@@ -1,0 +1,1 @@
+ URL : "https://github.com/NathanaelA/fluentreports/issues/61" TITLE : column size 5 chars BODY : any width < 10 for .band related operation fails . i looked in fluentreports.js modified the items i thought would allow for a smaller char cell but no luck. thanks

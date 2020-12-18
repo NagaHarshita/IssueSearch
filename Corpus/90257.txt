@@ -1,0 +1,1 @@
+ URL : "https://github.com/jbloemendal/angular-jukebox/issues/8" TITLE : search for 'janis joplin' BODY : the autosuggest result diminishes when searching for artists consisting of two words e. g.: 'janis joplin'. searching for 'janis' autosuggests 'janis joplin', searching for 'janis j' doesn't suggest 'janis joplin'.

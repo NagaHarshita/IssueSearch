@@ -1,0 +1,1 @@
+ URL : "https://github.com/matthijs2704/vapor-apns/issues/33" TITLE : crash in string+apns.swift BODY : line 44 try newtext.write tofile: self, atomically: false, encoding: .utf8 this happens if the user running the swift executable doesnt have privileges to write to the file.

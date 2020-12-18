@@ -1,0 +1,1 @@
+ URL : "https://github.com/rightscale/policies/issues/42" TITLE : add tag value validation BODY : policy name tag checker issue type feature request scenario: validate tag values across multiple tags. possible validations include: a list or a regex string

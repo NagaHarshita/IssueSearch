@@ -1,0 +1,1 @@
+ URL : "https://github.com/tommarshall/git-good-commit/issues/21" TITLE : implement semantic commits BODY : support for semantic commits seems to be easy to implement. see https://seesparkbox.com/foundry/semantic_commit_messages

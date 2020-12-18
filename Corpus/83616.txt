@@ -1,0 +1,1 @@
+ URL : "https://github.com/NiordOrg/niord-proxy/issues/19" TITLE : changes to area filtering BODY : it should be possible to configure niord-proxy with a list of root areas that always displayed, even if there are no published messages for these areas. also, perform subarea filtering in the browser.

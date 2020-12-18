@@ -1,0 +1,1 @@
+ URL : "https://github.com/pymedusa/Medusa/issues/3358" TITLE : reverse proxy and https BODY : hi, i use a vm for reverse proxy with nginx. i install https on it with my certificates. medusa is in their own vm. since i activate https i can access to medusa. how can use https and reverse proxy with medusa?

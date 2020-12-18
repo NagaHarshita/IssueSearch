@@ -1,0 +1,1 @@
+ URL : "https://github.com/chriso/validator.js/issues/651" TITLE : currency validator rule BODY : iscurrency is only accept two digits after decimal_separator. for example, 100.50 is valid, but 100.5 is not valid. i think this rule do not force one digit or two digits after decimal_separator.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/bitpay/copay/issues/5682" TITLE : route params not needed BODY : these route params are not needed; the controller does not digest them. https://github.com/bitpay/copay/blob/master/src/js/routes.js l1059 https://github.com/bitpay/copay/blob/master/src/js/routes.js l1060

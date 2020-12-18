@@ -1,0 +1,1 @@
+ URL : "https://github.com/aimeos/aimeos-laravel/issues/150" TITLE : composer update failed BODY : failed to clone https://github.com/aimeos/php-coveralls, git was not found, check that it is installed and in your path env. ! image https://user-images.githubusercontent.com/23514820/30237131-96e53c5a-9555-11e7-85c4-7d4e64e3aca2.png

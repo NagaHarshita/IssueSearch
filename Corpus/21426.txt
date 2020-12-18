@@ -1,0 +1,1 @@
+ URL : "https://github.com/phanan/koel/issues/693" TITLE : file content error BODY : file_get_contents c:\xampp_7\htdocs ews_site\music\public/mix-manifest.json : failed to open stream: no such file or directory view: c:\xampp_7\htdocs ews_site\music\resources\views\index.blade.php

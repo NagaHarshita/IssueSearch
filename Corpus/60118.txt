@@ -1,0 +1,1 @@
+ URL : "https://github.com/containernetworking/cni/issues/392" TITLE : where is the template? BODY : the readme.md states there is a template for making a new cni plugin, but does not state where in the repository the template is. the repository is large enough now that we should just link to the template.

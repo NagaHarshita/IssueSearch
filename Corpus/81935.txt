@@ -1,0 +1,1 @@
+ URL : "https://github.com/alisw/AliRoot/issues/299" TITLE : add -std=c++11 by default BODY : by default after running cmake and trying to build the project, the build stops requiring c++11 support from the compiler. since it's required anyway, something like -std=c++11 can be added to cmakelists by default.

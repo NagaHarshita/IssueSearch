@@ -1,0 +1,1 @@
+ URL : "https://github.com/terraref/documentation/issues/158" TITLE : viewing netcdf files BODY : panoply sh ssh -y yourname@roger-login.ncsa.illinois.edu module purge; module load java/1.8.0_131 panoply/4.8.1 export java_opts= -xms512m -xmx2048m $panoply_home/panoply.sh ncview sh ncview path/to/file.nc workbench / r thredds

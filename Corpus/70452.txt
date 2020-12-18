@@ -1,0 +1,1 @@
+ URL : "https://github.com/jodersky/flow/issues/40" TITLE : watching events on port BODY : how can i implement a watch for specific events on a port? for example i want to get a message if the cts line has changed state.

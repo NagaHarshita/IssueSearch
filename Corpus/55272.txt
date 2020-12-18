@@ -1,0 +1,1 @@
+ URL : "https://github.com/omaciel/pytest-fauxfactory/issues/10" TITLE : increase code coverage BODY : shell coverage report -m name stmts miss cover missing ----------------------------------------------------- pytest_fauxfactory.py 68 2 97% 24, 39

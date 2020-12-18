@@ -1,0 +1,1 @@
+ URL : "https://github.com/teknologkoren/Strequelistan/issues/5" TITLE : delete unused images BODY : _from @alge on december 5, 2016 14:40_ use this: https://github.com/un1t/django-cleanup to prevent clogging with old unused images _copied from original issue: alge/strecklista 18_

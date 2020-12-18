@@ -1,0 +1,1 @@
+ URL : "https://github.com/nfc-tools/libnfc/issues/427" TITLE : libnfc command on kali BODY : nfc-list show all the device that connected witch more command are usefull? i want the command that i can type on terminal to read data from card

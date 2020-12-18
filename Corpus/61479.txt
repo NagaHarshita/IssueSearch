@@ -1,0 +1,1 @@
+ URL : "https://github.com/alexsb-software/AvailablilityApp/issues/2" TITLE : automate shift creation BODY : an event might have a consecutive number of shifts that have the same duration in time, this should be easily generated using a for loop

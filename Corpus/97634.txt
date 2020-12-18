@@ -1,0 +1,1 @@
+ URL : "https://github.com/primefaces/ultima-ng/issues/30" TITLE : horizontal menu stays open BODY : if a submenu is clicked, horizontal menu overlay should close as well.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/AOSC-Dev/aosc-os-abbs/issues/915" TITLE : blender: rebuild needed BODY : lmy441900@junde-dell-vostro ~ $ blender blender: error while loading shared libraries: libopencv_videoio.so.3.1: cannot open shared object file: no such file or directory

@@ -1,0 +1,1 @@
+ URL : "https://github.com/tnir/mysqlclient/issues/16" TITLE : use alpine 3.6 BODY : add alpine 3.6-based builds maintaining to use alpine 3.4 default alpine version of python:alpine

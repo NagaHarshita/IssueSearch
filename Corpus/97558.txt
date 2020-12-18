@@ -1,0 +1,1 @@
+ URL : "https://github.com/cmap/morpheus.js/issues/9" TITLE : heatmap grid not removable BODY : hi, i am using morpheus to visualize a gene expression heatmap. the heatmap cell grid are not removed even though i unchecked the 'show grid' under option->display. is there a way to remove cell box grid completely?

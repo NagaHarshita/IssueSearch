@@ -1,0 +1,1 @@
+ URL : "https://github.com/EnMasseProject/amqp-kafka-bridge/issues/74" TITLE : adding tls support BODY : adding tls support for both working in server and client modes. it's related to use the bridge within enmasse as described by enmasseproject/enmasse 143

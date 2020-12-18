@@ -1,0 +1,1 @@
+ URL : "https://github.com/caskroom/homebrew-cask/issues/31129" TITLE : add --language to man page BODY : the man page is missing --language info.

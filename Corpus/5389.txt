@@ -1,0 +1,1 @@
+ URL : "https://github.com/zhangxiangxiao/Crepe/issues/25" TITLE : number of eras BODY : i'm trying to reproduce the experiments in the crepe paper. one detail i can't seem to find is how many eras the model was trained on each of the datasets -- could you please let me know what the number of eras you used was?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/tekezo/Karabiner-Elements/issues/766" TITLE : no key event BODY : macos 10.12.5 i clone code and build it yesterday. it can work when i install it, but after i login again from login windows. there is no key event for all keys. noting happened when i touch the key.

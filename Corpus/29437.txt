@@ -1,0 +1,1 @@
+ URL : "https://github.com/shoppingflux/shoppingfluxexport/issues/271" TITLE : log rotation broken BODY : expected behaviour log files should be rotating avec 24h actual behaviour the log files are no longer rotating. probably an issue with function rotatelogfile steps to reproduce the behaviour call log function to add a new log message after 24 hours.

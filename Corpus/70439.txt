@@ -1,0 +1,1 @@
+ URL : "https://github.com/Unity-Technologies/NavMeshComponents/issues/42" TITLE : warning with 2017.1.1p1 BODY : assets/navmeshcomponents/editor/navmeshmodifiervolumeeditor.cs 21,42 : warning cs0618: unityeditor.imgui.controls.boxboundshandle.boxboundshandle int ' is obsolete: use parameterless constructor instead.'

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mixtur/webpack-spritesmith/issues/44" TITLE : watch the files BODY : can i set watch the my images for restart build sprite and scss? example i add new img or delete and i rename img files

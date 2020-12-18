@@ -1,0 +1,1 @@
+ URL : "https://github.com/hteso/iaito/issues/163" TITLE : crash scrolling in hexdump BODY : i was looking at hexdump view and tried to scroll down when iaito started spamming debug output: end is coming and everything became unresponsive until i ctrl-c killed the program. https://gist.github.com/wyrex/7ee93ecf2f3323ac165a2af72b22104f

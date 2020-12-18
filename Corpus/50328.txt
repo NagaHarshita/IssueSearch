@@ -1,0 +1,1 @@
+ URL : "https://github.com/TbLtzk/Centaurus/issues/83" TITLE : wrong account reserve BODY : the account reserve is currently calculated incorrectly. the reserve per item is set to 5 xlm, but the correct calculation must add 10 xlm per item.

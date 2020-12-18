@@ -1,0 +1,1 @@
+ URL : "https://github.com/StataBS/indikatoren/issues/389" TITLE : export data for excel BODY : revisit exporting to xls file, othewise export file so that it can be pasted into excel or opened in excel so that columns are auto-arranged.

@@ -1,0 +1,5 @@
+ URL : "https://github.com/myint/pyflakes-test-again/issues/35" TITLE : detect type hints: pep484 BODY : hi, thanks for this really great tool!
+one issues i stumbled upon was that type hints seem to be ignored / not detected.
+for example, we have an import at the top of a file: from typing import list and then later in an __init__ function something like this: self.scripts = type: list script.script now running pyflakes through flake8 gives me this error: foo.py:4:1: f401 'list' imported but unused pep484 defines this kind of type comments.
+is there an option to enable type hint detection?
+or can we have that as feature request? i guess i'm fine with type comments only for the time being, but of course a fully pep484 compliant solution would be greatly appreciated : thanks!

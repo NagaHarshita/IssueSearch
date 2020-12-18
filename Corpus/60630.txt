@@ -1,0 +1,1 @@
+ URL : "https://github.com/pruje/libbash.sh/issues/47" TITLE : add a new trim function BODY : add a lb_trim function to trim a variable

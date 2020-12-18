@@ -1,0 +1,1 @@
+ URL : "https://github.com/ipjohnson/DotNet.DependencyInjectionBenchmarks/issues/5" TITLE : add generic benchmarks BODY : this should be a category with a couple benchmarks simple int simple reference complex generic with clause

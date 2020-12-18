@@ -1,0 +1,1 @@
+ URL : "https://github.com/quicklisp/quicklisp-projects/issues/1264" TITLE : please add jsonrpc BODY : 'jsonrpc' is a json-rpc 2.0 http://jsonrpc.org server/client implementation. https://github.com/fukamachi/jsonrpc

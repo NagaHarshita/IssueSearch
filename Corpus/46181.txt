@@ -1,0 +1,1 @@
+ URL : "https://github.com/mathhulk/ab-web-addon/issues/11" TITLE : list required modules BODY : it would be a good idea in the setup section of the readme to list the required php modules. not everyone has all of these modules installed by default.

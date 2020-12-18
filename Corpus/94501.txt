@@ -1,0 +1,1 @@
+ URL : "https://github.com/ufal/udpipe/issues/56" TITLE : cannot start udpipe_server BODY : ./udpipe_server 8080 /root/udpipe-ud-2.0-170801/spanish-ud-2.0-170801.udpipe cannot load specified models! there are any default directory to models?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/legumeinfo/tripal_phylotree/issues/23" TITLE : doc about loading data? BODY : hi, i'd like to use this module, but i have trouble understanding how to load data into chado. is this done by the module where? or does it need to be done from command line how? ? any help would be greatly appreciated!

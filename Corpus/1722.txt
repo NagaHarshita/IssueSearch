@@ -1,0 +1,1 @@
+ URL : "https://github.com/rich-iannone/DiagrammeR/issues/250" TITLE : edge width ? BODY : hoe can i link the edge width to the value of a variable? create_edges doesn't seem to have any option for that.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/kpipes/kpipes/issues/1" TITLE : 0.0.1 release roadmap BODY : demo - create android demo application. application should send gps position every 5 seconds and listen for location notifications. - create demo testbed functions - create next geofunction community - add travis ci icon to a main page --- next release demo functions community

@@ -1,0 +1,1 @@
+ URL : "https://github.com/bat/bat/issues/198" TITLE : support root 6.08.02 BODY : there are problems with the dictionary generation for the current root version. we need to fix this immediately

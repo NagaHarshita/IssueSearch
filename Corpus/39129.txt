@@ -1,0 +1,1 @@
+ URL : "https://github.com/jpulec/purgatory/issues/7" TITLE : respect status hooks BODY : there should be some way to configure deployments to respect status hooks, like ci, etc.

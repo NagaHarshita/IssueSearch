@@ -1,0 +1,1 @@
+ URL : "https://github.com/pat-laugh/websson-libraries/issues/86" TITLE : fix memory leaks BODY : the leaks are due to namespaces somehow. perhaps there's some kind of circular ownership that make it so shared pointers are not freed.

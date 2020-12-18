@@ -1,0 +1,1 @@
+ URL : "https://github.com/wordpress-mobile/WordPress-Aztec-iOS/issues/277" TITLE : extra lines on lists BODY : regular lists no nested list items on ios has extra blank items between each line: ! screen-shot-2017-02-15-at-12-27-02-pm https://cloud.githubusercontent.com/assets/651601/22978684/9e28145e-f38b-11e6-8559-2812525da7fa.png

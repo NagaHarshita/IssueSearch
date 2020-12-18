@@ -1,0 +1,1 @@
+ URL : "https://github.com/prodexity/ruby_vsts/issues/1" TITLE : add basic support for git BODY : vsts git api documentation is here https://www.visualstudio.com/en-us/docs/integrate/api/git/overview . for basic functionality, support for the following is required: - blobs - commits - diffs - items - items - pushes - repositories - trees

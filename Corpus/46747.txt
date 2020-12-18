@@ -1,0 +1,1 @@
+ URL : "https://github.com/AdguardTeam/AdguardDNS/issues/148" TITLE : more optional filters BODY : it'd be great to have for example fakenews and gambling as an option for devices where hosts overrides aren't allowed - hosts files are here: https://github.com/stevenblack/hosts

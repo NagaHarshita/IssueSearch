@@ -1,0 +1,1 @@
+ URL : "https://github.com/sveltejs/svelte/issues/662" TITLE : each-else causes error BODY : regression in 1.23.0: html {{ each as thing}} <p>{{thing}}</p> {{else}} <p>no things</p> {{/each}} causes this error: > failed to execute 'insertbefore' on 'node': parameter 1 is not of type 'node'.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/gavv/httpexpect/issues/47" TITLE : please use semver tagging BODY : see: http://semver.org/ helps a lot when using go package management tools like https://github.com/golang/dep thanks

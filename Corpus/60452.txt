@@ -1,0 +1,1 @@
+ URL : "https://github.com/ksvc/KSYLive_Android/issues/77" TITLE : 2.6.2 rtmp seekto error BODY : i faced the following error when i try to do several seekto action with rtmp url w/ksymediaplayer: sdl_voutandroid_releasebufferproxy_l: 0 ???????? proxy 0: vout: 29 idx: -1 render: false fake: no e/com.ksyun.media.player.ksymediaplayer: error -1004,0 please advice.

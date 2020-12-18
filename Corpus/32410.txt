@@ -1,0 +1,1 @@
+ URL : "https://github.com/SC5/serverless-jest-plugin/issues/13" TITLE : upgrade to jest v21 BODY : this will be a little work because the jest cli was re-written with v21 which just recently came out. the runcli options appear to have been changed and there is little documentation that i can see.

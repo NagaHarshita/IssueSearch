@@ -1,0 +1,1 @@
+ URL : "https://github.com/alexdevero/Devero-framework/issues/2" TITLE : add new packages BODY : install rimraf, gulp-babel, cssnano, babel-preset-latest, babel-register, gulp-connect, gulp-eslint, gulp-htmlhint, gulp-livereload, gulp-plumber, gulp-postcss, gulp-sass-lint, gulp-sequence, postcss-cssnext, require-dir.

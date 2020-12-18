@@ -1,0 +1,1 @@
+ URL : "https://github.com/sfu-cl-lab/FactorBase/issues/36" TITLE : clean up buildct BODY : 1. use only one db for learning, e.g. _bn, put ct tables there. 2. in runbb 1. run setup script with setup_db connection. 2. run transfer script with setup_bn connection. 3. call ctgenerator.

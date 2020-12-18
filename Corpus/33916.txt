@@ -1,0 +1,1 @@
+ URL : "https://github.com/kjdev/apache-mod-brotli/issues/15" TITLE : basism in autogen.sh BODY : https://github.com/kjdev/apache-mod-brotli/blob/master/autogen.sh l10 please set bash or use another command.

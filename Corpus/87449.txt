@@ -1,0 +1,1 @@
+ URL : "https://github.com/MaxNoe/python-plotting/issues/2" TITLE : line 80: division by zero BODY : in line 80, there's a 1/3 which python evaluates as 0. it should be 1/3. .

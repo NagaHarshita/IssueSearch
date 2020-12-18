@@ -1,0 +1,1 @@
+ URL : "https://github.com/DataTables/DataTables/issues/944" TITLE : exporting .xls file BODY : hello, we just tried export to excel feature and its working fine with filename.xlsx but is there any way that we can make it filename.xls

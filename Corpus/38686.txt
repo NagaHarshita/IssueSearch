@@ -1,0 +1,1 @@
+ URL : "https://github.com/emqtt/emqttd/issues/1346" TITLE : publish payload size BODY : environment - os: ubuntu - erlang/otp: - emq: 2.2 description i use emqtt publish to transfer picture, but when the picture's size more than 48kb, the picture will transfer failed because of errno 104 connection reset by peer , i don't know why。thanks

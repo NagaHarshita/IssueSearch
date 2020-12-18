@@ -1,0 +1,1 @@
+ URL : "https://github.com/wix/react-native-interactable/issues/75" TITLE : snap points with easing? BODY : can i replace the springy behaviour of snap points with some easing function? with the current api it's next to impossible to implement a proper bottom sheet behavior or even a drawer. everything just moves around too much.

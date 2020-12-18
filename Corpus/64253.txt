@@ -1,0 +1,1 @@
+ URL : "https://github.com/tlaverdure/laravel-echo-server/issues/164" TITLE : forge recipe available? BODY : i'm thinking of replacing my pusher setup with echo on my forge sites. but the discussions about ssl certificate renewals and the initial config make installing it on forge seem hacky. does anyone have a forge recipe available to set this up properly?

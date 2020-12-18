@@ -1,0 +1,1 @@
+ URL : "https://github.com/westnordost/StreetComplete/issues/399" TITLE : quest for maxheight BODY : mentioned in 38. if a highway=primary|secondary|tertiary|residential|unclassified|road and tunnel=yes doesnt have a value for maxheight ask what is the maximum height for this road?

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mitreid-connect/OpenID-Connect-Java-Spring-Server/issues/1181" TITLE : mobile apps support BODY : is this library suitable to support oauth2 flow for mobile apps as the client secret is not confidential in mobile apps. will this able to work well with apps use appauth-android library https://github.com/openid/appauth-android

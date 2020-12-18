@@ -1,0 +1,1 @@
+ URL : "https://github.com/dapplo/Dapplo.Confluence/issues/17" TITLE : add support for labels BODY : would it be possible to add support for labels? looks like it's part of the metadata for a page: https://docs.atlassian.com/confluence/rest/latest/ content/{id}/label-addlabels

@@ -1,0 +1,1 @@
+ URL : "https://github.com/koreader/koreader/issues/3491" TITLE : page stuck in pdf BODY : koreader version: 2538189473241ecab9013ffcd48fb469fdf20561 device: kobo h2o issue trying to get past page 63 by going to next or previous page doesn't work. going straight to p. 62 or 64 does. http://gallica.bnf.fr/ark:/12148/bpt6k76171n i haven't investigated atm.

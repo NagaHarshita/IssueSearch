@@ -1,0 +1,1 @@
+ URL : "https://github.com/thorrak/fermentrack/issues/154" TITLE : celery_beat crash loop BODY : celery_beat is constantly restarted, i think the bug is here: https://github.com/thorrak/fermentrack/blob/master/circus.ini l76 args = celery -a fermentrack_django.celery beat -l warn -s django -q to: args = -a fermentrack_django.celery beat -l warn -s django -q

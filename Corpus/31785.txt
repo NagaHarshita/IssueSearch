@@ -1,0 +1,1 @@
+ URL : "https://github.com/yahoo/kafka-manager/issues/344" TITLE : support kafka 0.10+ BODY : test basic features against a kafka v0.10.1.0 cluster accept a list of broker nodes, and read data from them rather than zk nodes

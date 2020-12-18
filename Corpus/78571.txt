@@ -1,0 +1,1 @@
+ URL : "https://github.com/FireFly-WoW/FireFly-IssueTracker/issues/153" TITLE : quest the fargodeep mine BODY : quest: the fargodeep mine completable but quest log is missing exploration objective, similar to https://github.com/firefly-wow/firefly-issuetracker/issues/151. maybe? update quest_template set areadescription = scout through the fargodeep mine where id = 62;

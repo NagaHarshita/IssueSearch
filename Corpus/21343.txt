@@ -1,0 +1,1 @@
+ URL : "https://github.com/ajylee/call_map/issues/1" TITLE : extract call graph BODY : hi, i really like your tool, i was wondering if it is possible to dump the call graph into a file as well as showing it in the qt visualiser?

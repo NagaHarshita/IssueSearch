@@ -1,0 +1,6 @@
+ URL : "https://github.com/mcm-ham/dragsort/issues/4" TITLE : mozilla firefox issue BODY : i am using jquery list dragsort program and one of the layer of my program contain google chart.
+ 
+it lost google chart display when we drag google chart layer form one position to another in mozilla firefox browser only.
+ 
+ 
+pleaes help me... this work item was migrated from codeplex codeplex work item id: '28446' vote count: '1'

@@ -1,0 +1,1 @@
+ URL : "https://github.com/erusev/parsedown/issues/532" TITLE : parsedown on babelmark2 BODY : the parsedown dingus used by babelmark2 https://johnmacfarlane.net/babelmark2/ appears to be down. i'm not sure who's handling its maintenance, is it the right place to ask?

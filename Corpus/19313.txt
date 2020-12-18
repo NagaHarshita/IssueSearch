@@ -1,0 +1,1 @@
+ URL : "https://github.com/olikraus/u8g2/issues/295" TITLE : 96x16 oled support BODY : i have a 96x16 oled mounted on an adafruit feather. hello world runs with scaling issues, oled is set as ssd128x32. support for this appreciated.

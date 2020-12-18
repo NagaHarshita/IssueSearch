@@ -1,0 +1,1 @@
+ URL : "https://github.com/googlesamples/android-ndk/issues/444" TITLE : port samples to kotline BODY : port a few samples to kotline https://kotlinlang.org/ : - teapot - hello-jni - hello-libs the planned time is probably next quarter q1'18

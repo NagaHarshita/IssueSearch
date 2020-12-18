@@ -1,0 +1,1 @@
+ URL : "https://github.com/freeCodeCampDelhi/freeCodeCampDelhi.github.io/issues/4" TITLE : fix security issues BODY : sqlite database should not be present in the repo. i added .gitgnore still it's there.

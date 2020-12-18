@@ -1,0 +1,1 @@
+ URL : "https://github.com/slgobinath/libreoffice-code-highlighter/issues/15" TITLE : autoupdate on text change BODY : currently when i change the text and want correct syntax highlighting again, i need to re-highlight the code again. it would be nice if you could include an auto-update mode maybe just as a setting .

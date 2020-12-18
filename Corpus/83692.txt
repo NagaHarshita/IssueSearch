@@ -1,0 +1,1 @@
+ URL : "https://github.com/sockjs/sockjs-client/issues/387" TITLE : chrome console show error BODY : uncaught error: incompatibile sockjs! main site uses: 1.1.4 , the iframe: 1.0.1 . issue on google chrome and connection is lost by using sockjs client with stomp

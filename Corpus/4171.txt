@@ -1,0 +1,1 @@
+ URL : "https://github.com/openemr/openemr/issues/488" TITLE : adodb + php7.1 BODY : openemr v5_0_0 tag needs to be adodb-php 7 compliant. so, i have to update adodb to adodb/adodb-php : 5.20.9 in composer.json. please check this to update!

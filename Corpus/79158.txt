@@ -1,0 +1,1 @@
+ URL : "https://github.com/phillymesh/cjdns-optimizations/issues/4" TITLE : run iperf3 reverse tests BODY : existing throughput results should also include iperf3 -r tests.

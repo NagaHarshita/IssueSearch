@@ -1,0 +1,1 @@
+ URL : "https://github.com/skuda/ZoneMinder-Viewer/issues/2" TITLE : build on windows BODY : using cmake and visual studio 2013 configure and genereate done! opened project in visual studio but when build it: 2 same error: 2>cl : command line error d8021: invalid numeric argument '/wno-variadic-macros' please guide me

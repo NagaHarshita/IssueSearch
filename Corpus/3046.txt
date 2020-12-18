@@ -1,0 +1,1 @@
+ URL : "https://github.com/justinmk/vim-dirvish/issues/95" TITLE : how to remap? BODY : vim autocmd filetype dirvish nmap <buffer>, <plug> dirvish_arg autocmd filetype dirvish xmap <buffer>, <plug> dirvish_arg this doesnt work https://github.com/justinmk/vim-dirvish/blob/master/ftplugin/dirvish.vim l6-l9

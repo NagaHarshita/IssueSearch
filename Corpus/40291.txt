@@ -1,0 +1,1 @@
+ URL : "https://github.com/go-gitea/gitea/issues/2277" TITLE : total count of repos BODY : i need total count of repos to fix dashboard ui. gitea returns api/v1/repos/search only array of repos but i do not know if there are more. i think we should add total or something like this to api.searchresults code.gitea.io/sdk/gitea .

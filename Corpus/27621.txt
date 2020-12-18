@@ -1,0 +1,1 @@
+ URL : "https://github.com/VisualBean/VSTSTools/issues/3" TITLE : does fail on errors BODY : if i don't have security configured correctly for build service account, i can see in the logs that the error occurred, but the task completes with a success.

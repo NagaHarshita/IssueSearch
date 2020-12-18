@@ -1,0 +1,1 @@
+ URL : "https://github.com/minetest/minetest/issues/5794" TITLE : zoom isn't working BODY : i have zoom set to z , but when i press it, nothing happens. i tried setting zoom to a different key c and it still doesn't work. i looked in debug.txt , but i don't see any related errors. minetest 0.4.15-dev-39f4a2f-dirty macos 10.12.5

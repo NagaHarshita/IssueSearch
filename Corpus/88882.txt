@@ -1,0 +1,1 @@
+ URL : "https://github.com/TACS-1c2017-G1/TACS-1c2017-G1/issues/39" TITLE : paginado en las busquedas BODY : @facundo91 en el buscador hay que soportar paginado, acordate que lo vimos el martes pasado en clase, la respuesta de tmdb viene paginada. deberías soportar desde el back que te pueda pasar desde el front, el tamaño de pagina y el numero de pagina.

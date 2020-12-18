@@ -1,0 +1,4 @@
+ URL : "https://github.com/jisenber/DEVolunteer/issues/7" TITLE : developer list view BODY : system will provide a developer list view. list view will have: - image
+- name
+- services offered
+- languages known maybe - view button selection of the view button will display the corresponding developer's detail view.

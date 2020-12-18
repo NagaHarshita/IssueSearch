@@ -1,0 +1,6 @@
+ URL : "https://github.com/rnystrom/GitHawk/issues/989" TITLE : notifications not working BODY : i make the notifications on and it didn’t push notifications to the mobile such as fb/twitter <details>
+<summary>bug report dump auto-generated </summary>
+<pre>
+version 1.12.1 1185 device: iphone 8 plus ios 11.1.2 testflight: true
+</pre>
+</details>

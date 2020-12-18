@@ -1,0 +1,1 @@
+ URL : "https://github.com/NodeRedis/node_redis/issues/1285" TITLE : publish buffer data BODY : version: v2.8 platform: windows well, it is a string char missing var buf = new buffer 0x08, 0x90, 0x4e ; redis.publish ch ,buf ; // the buf will tostring convert so, when i receive subscribe message var bufrcv = new buffer message,'ascii' the bufrcv is <buffer 08 fd 4e>

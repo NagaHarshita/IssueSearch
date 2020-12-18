@@ -1,0 +1,1 @@
+ URL : "https://github.com/ga-wdi-boston/full-stack-project/issues/922" TITLE : join tables with rails BODY : how do you join tables with rails? i have my has_many/belongs_to statements as well as an addpeopletocars statement with the foreign key. i looked in the one-to-many repo but there is no join table section.

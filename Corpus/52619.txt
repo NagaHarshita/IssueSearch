@@ -1,0 +1,1 @@
+ URL : "https://github.com/sparticle999/Minergy/issues/22" TITLE : consider using helpers BODY : this css framework uses html attributes instead of bloating css: http://helpers.araujo.cc/ if you guys wave in favour of this solution in detriment of the all loking the same bootstrap, i'm willing to start the hard work.

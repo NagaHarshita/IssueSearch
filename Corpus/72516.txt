@@ -1,0 +1,1 @@
+ URL : "https://github.com/mattlewis92/angular-confirmation-popover/issues/53" TITLE : call function on confirm BODY : is it possible to call a function instead of setting an expression ? confirm = runfunction instead of confirm = confirmvariable = true

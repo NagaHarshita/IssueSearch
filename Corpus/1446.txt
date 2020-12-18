@@ -1,0 +1,1 @@
+ URL : "https://github.com/tkuanlun350/Tensorflow-SegNet/issues/19" TITLE : what is iu? BODY : in model.py what is this line doing exactly? iu = np.diag hist / hist.sum 1 + hist.sum 0 - np.diag hist

@@ -1,0 +1,1 @@
+ URL : "https://github.com/swiety85/angular2gridster/issues/104" TITLE : disable initial animation BODY : is there a way to disable the small initial animation ? the animation is weird and laggy when using lots of items and heavy components inside.

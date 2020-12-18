@@ -1,0 +1,1 @@
+ URL : "https://github.com/roundcube/elastic/issues/63" TITLE : bad icon for spellcheck BODY : the current icon for spellchecking in the composer is a magic wand. it somewhat works in english: magic wand -> spell check but it completely breaks in german: zauberstab -> rechtschreibprüfung it is very likely that it will break in other languages as well.

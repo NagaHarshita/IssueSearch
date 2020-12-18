@@ -1,0 +1,1 @@
+ URL : "https://github.com/EFForg/action-center-platform/issues/331" TITLE : add bounce handling BODY : if we receive a bounce notification for an address, we should not attempt to deliver further confirmation/thank-you emails.

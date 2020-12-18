@@ -1,0 +1,1 @@
+ URL : "https://github.com/standardhealth/shr_spec/issues/55" TITLE : birth sex value set BODY : reported by juhan sonin: on http://standardhealthrecord.org/shr/demographics/ birthsex, the hl7 link is toast http://hl7.org/fhir/us/core/valueset/us-core-birthsex . 2nd note: what's the birth sex strategy, ie f/m/other or 5 or 7 choices non-sex, etc ?

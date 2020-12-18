@@ -1,0 +1,1 @@
+ URL : "https://github.com/coreos/etcd-operator/issues/1611" TITLE : doc: restore operator BODY : plan: - add readme - add basic test

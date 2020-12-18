@@ -1,0 +1,1 @@
+ URL : "https://github.com/evilsocket/dnssearch/issues/3" TITLE : issue in document. BODY : hey, i just found little issue with documentation. you have written. go get github.com/evilsocket/dnssearch cd dirsearch go build -o dnssearch main.go url here cd dirsearch should be changed to cd dnssearch

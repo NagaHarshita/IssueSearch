@@ -1,0 +1,1 @@
+ URL : "https://github.com/FriskByBergen/python-friskby-controlpanel/issues/6" TITLE : drop js if it isn't used BODY : there's a js file in there that isn't used which causes the journal to get populated

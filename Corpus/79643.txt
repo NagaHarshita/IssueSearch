@@ -1,0 +1,1 @@
+ URL : "https://github.com/gameblabla/evilaustralians/issues/1" TITLE : source code line endings BODY : some source files in wrapper folder have incorrect line endindgs ^m . you can set core.autocrlf=true in file .gitconfig to make git convert line endings correctly.

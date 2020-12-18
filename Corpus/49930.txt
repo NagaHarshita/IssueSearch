@@ -1,0 +1,1 @@
+ URL : "https://github.com/happy-barney/perl-Context-Singleton/issues/3" TITLE : use constraints moose BODY : contrive isa keyword, acts like moose if moose is loaded

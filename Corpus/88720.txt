@@ -1,0 +1,1 @@
+ URL : "https://github.com/Shougo/neocomplete.vim/issues/587" TITLE : open completion on demand BODY : is there a way to open the completion popup/menu using a defined hotkey ex <c-space> instead of the default behaviour where it appears as i type?

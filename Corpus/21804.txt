@@ -1,0 +1,1 @@
+ URL : "https://github.com/diegonetto/generator-ionic/issues/278" TITLE : grunt doesn't work BODY : hi, when i try to run grunt, i always get the same message: loading grunt-karma.js tasks...error >> typeerror: cannot read property 'prototype' of undefined warning: task karma:continuous not found. use --force to continue.

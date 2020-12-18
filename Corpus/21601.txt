@@ -1,0 +1,1 @@
+ URL : "https://github.com/Real-Serious-Games/C-Sharp-Promise/issues/43" TITLE : for xamarin forms? BODY : hi, i am trying to use your library in a xamarin forms application but it does not allow me to add it to a pcl project. there is no way to use it in this environment? thank you

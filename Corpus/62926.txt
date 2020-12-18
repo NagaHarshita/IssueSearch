@@ -1,0 +1,1 @@
+ URL : "https://github.com/fex-team/fis/issues/811" TITLE : css, js 文件未压缩 BODY : 配置 已经安装clean-css 和 clean-css模块 fis.match ' .js', { optimizer: fis.plugin 'uglify-js' } ; fis.match ' .css', { optimizer: fis.plugin 'clean-css' } ; 运行命令fis3 release 后产生的css和js文件和开发环境的文件大小和内容格式一模一样。 请问一下这是什么原因？

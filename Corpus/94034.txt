@@ -1,0 +1,1 @@
+ URL : "https://github.com/QMCPACK/qmcpack/issues/296" TITLE : benchmark member functions BODY : some of our classes have benchmark functions. are these useful or should they be stripped?

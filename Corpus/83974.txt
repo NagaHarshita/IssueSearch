@@ -1,0 +1,4 @@
+ URL : "https://github.com/QualiSystems/OpenStack-Shell/issues/150" TITLE : connectivity without vlan BODY : str:
+1 have an env with 2 un deployed apps connected cvc requested 2 setup bir:
+the setup shall be succeeded with 2 deployed apps connected.
+actually: its failed with error: cloudshell.api.common_cloudshell_api.cloudshellapierror: cloudshell api error 100: failed to create network with vlan id 5:raised exception type 'exceptions.indexerror' list index out of range. failed to create network with vlan id 5:raised exception type 'exceptions.indexerror' list index out of range

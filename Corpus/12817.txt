@@ -1,0 +1,1 @@
+ URL : "https://github.com/leozide/leocad/issues/154" TITLE : save image crash BODY : trying to save an image crashes leocad, no output file is generated. aa settings at 8x - steps to reproduce: open mpd go to sae image set width/height to 3000px select save dir. save >> crash

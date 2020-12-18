@@ -1,0 +1,1 @@
+ URL : "https://github.com/ericdc1/Dapper.SimpleCRUD/issues/123" TITLE : enums as strings? BODY : we like to save our enums as strings so they are easily identified when looking directly at the data. is it possible to save enums as strings with simplecrud? it seems to be saving them as their numeric value.

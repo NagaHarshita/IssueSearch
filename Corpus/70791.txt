@@ -1,0 +1,1 @@
+ URL : "https://github.com/hnakamur/direnv-ansible_role/issues/1" TITLE : zsh_rc_dir is undefined BODY : hi @hnakamur! there's no defaults/main.yml with default vars. how you use this role?

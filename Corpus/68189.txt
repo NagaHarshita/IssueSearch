@@ -1,0 +1,1 @@
+ URL : "https://github.com/everything2/everything2/issues/434" TITLE : rename testshowmessages BODY : testshowmessages is actually used in production in the messages nodelet. we should rename it to make it clear that it is the case.

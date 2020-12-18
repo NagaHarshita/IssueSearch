@@ -1,0 +1,1 @@
+ URL : "https://github.com/Schallaven/kittykernel/issues/1" TITLE : ./install doesn't work BODY : it looks to be more of an uninstall file with all the sudo rm -r commands

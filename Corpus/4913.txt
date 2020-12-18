@@ -1,0 +1,1 @@
+ URL : "https://github.com/NishanthShankar/react-native-android-statusbar/issues/19" TITLE : how to use it? BODY : hi, nishanthshankar after install and react-native run-android, i got undefined is not an object a.showstatusbar . statusbarandroid.showstatusbar ; statusbarandroid.sethexcolor ' 303f9f' ; where should i place this code? tks!

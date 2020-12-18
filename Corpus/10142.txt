@@ -1,0 +1,1 @@
+ URL : "https://github.com/MG-RAST/AWE/issues/482" TITLE : awe monitor auth BODY : awe monitor needs to support more than mg-rast auth. ideally token retrieval is done by awe server and the awe monitor only talks to awe server.

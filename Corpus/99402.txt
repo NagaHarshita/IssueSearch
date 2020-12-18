@@ -1,0 +1,1 @@
+ URL : "https://github.com/RRUZ/vcl-styles-utils/issues/215" TITLE : missing unit vcl.sysstyles BODY : hi, i'm using delphi xe4 and just cloned the latest code. i can not compile my app now and getting the following error: dcc32 fatal error vcl.styles.utils.screentips.pas 57 : f1026 file not found: 'vcl.sysstyles.dcu' where do i get this unit? thanks!

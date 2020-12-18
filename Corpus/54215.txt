@@ -1,0 +1,1 @@
+ URL : "https://github.com/pschfr/watchlist/issues/8" TITLE : fix incorrect ordering BODY : for some reason, '300' and '1408' come before anything else in the list. the loop should just go in order it is added, and it does, with those first for some reason. is this a jade/pug bug, node bug, or a bug in my code?

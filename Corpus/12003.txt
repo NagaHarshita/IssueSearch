@@ -1,0 +1,1 @@
+ URL : "https://github.com/enonic/xp/issues/5912" TITLE : memory grid v1.0 BODY : we need a distributed grid to support state across cluster nodes. distributed web-session cluster-wide cache distributed job-execution distributed locking

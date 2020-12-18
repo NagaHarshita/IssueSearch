@@ -1,0 +1,1 @@
+ URL : "https://github.com/Prasad108/TutesMessanger/issues/34" TITLE : mutliple select from table BODY : 1. it should have check boxes for each row 2. background color should get changed 3. select all should work 4. after filter - select all should be displayed as select filtered - it should select only filtered items -

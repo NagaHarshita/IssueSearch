@@ -1,0 +1,1 @@
+ URL : "https://github.com/mapbox/vtzero/issues/20" TITLE : getopt library on windows BODY : building/testing of some of the examples is disabled on windows because of the missing getopt library. we should figure something out here. see also https://github.com/mapbox/protozero/issues/84.

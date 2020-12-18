@@ -1,0 +1,1 @@
+ URL : "https://github.com/MVC-Datasets/MVC/issues/1" TITLE : use of open data format BODY : hi there, have you considered using some open format such as zipped csv or zipped json , or hdf instead of mat files. not everyone have access to matlab and loading by 3rd-party tools can be difficult.

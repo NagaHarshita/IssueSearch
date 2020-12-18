@@ -1,0 +1,1 @@
+ URL : "https://github.com/bulletproofnetworks/roust/issues/31" TITLE : ownership of roust BODY : hey all, bpf no longer use rt, for that reason we are looking to transfer the ownership of this repository out of bulletproof. any takers? @auxesis @aussielunix @erdgeist @glasnt @hggh @mazebuhu

@@ -1,0 +1,1 @@
+ URL : "https://github.com/TommyB123/redcountyrp-bugs/issues/152" TITLE : /setspawnpoint name length BODY : when you set the name of a faction's spawn point up to 39 characters, the confirmation message shows that whole name, as well as '/changespawn 2'. however, when the server gets restarted, the name of the spawn point cuts down to 31 characters.

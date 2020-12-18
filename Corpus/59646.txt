@@ -1,0 +1,1 @@
+ URL : "https://github.com/Wyamio/Wyam/issues/473" TITLE : update to roslyn 2.0.0 BODY : it's now rtm, so we should update asap. biggest benefit is c 7 support in configuration files. will also allow processing newer csproj and .net core projects in docs recipe those will probably fail at the moment .

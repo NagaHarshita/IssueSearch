@@ -1,0 +1,1 @@
+ URL : "https://github.com/publiclab/plots2/issues/1191" TITLE : add code coverage to plots BODY : its time that we did some analytics on our code. add code coverage and test coverage to plots2. trying in two different services - codeclimate https://codeclimate.com and coveralls http://coveralls.io/

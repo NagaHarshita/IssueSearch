@@ -1,0 +1,1 @@
+ URL : "https://github.com/yuki/myVault/issues/42" TITLE : improve the tree search BODY : when search a secret, there's an option to get the results as seen in http://jonmiles.github.io/bootstrap-treeview/ there must be shown on the main part of the web when the searchcomplete event rises. this will help in the secret search.

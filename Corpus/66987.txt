@@ -1,0 +1,1 @@
+ URL : "https://github.com/DavidKarlas/Krofiler/issues/5" TITLE : object memory retention BODY : when looking at an object list or a heapshot comparison, show how much memory is being held alive/reclaimed by each object

@@ -1,0 +1,1 @@
+ URL : "https://github.com/AtomLinter/linter-phpcs/issues/302" TITLE : error running phpcs error BODY : linter error running phpcs error: failed to spawn command phpcs . make sure phpcs is installed and on your path at /users/lgdeloss/.atom/packages/linter-phpcs/node_modules/atom-linter/lib/helpers.js:130:24 at process._tickcallback internal/process/next_tick.js:103:7

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ggeorgovassilis/spring-rest-invoker/issues/20" TITLE : please support java 6 BODY : based on the code i cannot find any compelling reason why the project is targeting java 8 and not java 6 as the spring framework itself does. simply by replacing the few <> diamond operators it compiles on java 6. great project btw.

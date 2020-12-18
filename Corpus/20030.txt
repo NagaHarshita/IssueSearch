@@ -1,0 +1,1 @@
+ URL : "https://github.com/mncookiesstudios/breakout42/issues/12" TITLE : ball rebound angle BODY : the rebound angle should ultimately be dependant on where the ball hits the paddle relative to the paddle's centre.

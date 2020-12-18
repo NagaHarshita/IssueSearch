@@ -1,0 +1,1 @@
+ URL : "https://github.com/smartupio/aws-vpn-mikrotik/issues/7" TITLE : why 8m instead of 8h? BODY : https://github.com/smartupio/aws-vpn-mikrotik/blob/b37abd53bdf94f54289007090a8a4ae6943d6405/static-router-config l105 why this value is set to 8m there is no reference to 8m 480s in the amazon documentation. it should be 8h 28800s ?

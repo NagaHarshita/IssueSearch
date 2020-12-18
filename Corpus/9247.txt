@@ -1,0 +1,1 @@
+ URL : "https://github.com/LeonardoCardoso/SwiftLinkPreview/issues/61" TITLE : unable to parse BODY : https://goo.gl/maps/8cu9dtwedbn is a shared link from google maps. in most of the cases we getting error code=256 the file “8cu9dtwedbn” couldn’t be opened. . and if it successful then also we are unable to get image.

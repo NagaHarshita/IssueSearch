@@ -1,0 +1,1 @@
+ URL : "https://github.com/teamrice/lab9-server/issues/12" TITLE : xml model - store BODY : store is unchanged, saving the xml data as csv. continued proper function: the rewritten csv data then blows up when trying to load it as xml.

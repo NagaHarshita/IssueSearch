@@ -1,0 +1,1 @@
+ URL : "https://github.com/elpaisa/erlangelk/issues/1" TITLE : use a custom http client BODY : httpc can be a bottleneck under high loads. it would be cool if one can use a custom http client adapter. wdyt?

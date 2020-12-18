@@ -1,0 +1,1 @@
+ URL : "https://github.com/Test-More/Test2-Harness/issues/28" TITLE : request: --timer option BODY : i sometimes use prove's --timer option to print elapsed time after each tests. it is useful. i hope yath has that option too.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/marinator86/bbm/issues/3" TITLE : implement repository api BODY : implement the target api according to the supplied yaml. we need management functions to control repositories.

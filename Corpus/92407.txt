@@ -1,0 +1,1 @@
+ URL : "https://github.com/met-office-lab/weather-bot/issues/95" TITLE : wipe profiles on redeploy BODY : implement means of wiping the state of all users conversations on redeploy

@@ -1,0 +1,1 @@
+ URL : "https://github.com/jbelmont/containerized-golang-and-vuejs/issues/1" TITLE : test the container BODY : @nzmoore do you want to give this a try now. you should be able to do: npm run build npm run dev if the container runs successfully you should be able to go to: localhost:8080

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mspnp/template-building-blocks/issues/330" TITLE : python vs node BODY : as much as i appreciate the ease of use of azbb, i have to ask for a python equivalent -- many organisations simply refuse to use node as part of their sysadmin toolchains, given its brittleness and lack of fit with python-based tooling and libraries.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/kubernetes-incubator/external-dns/issues/43" TITLE : add a dry-run flag BODY : very useful for the dns provider side. just display what would have been done. this is not intended to replace the fake dns provider but rather to run a provider safely.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/biocore/gneiss/issues/106" TITLE : finalize model file format BODY : there are some issues with using pickle to represent model objects. https://bugs.python.org/issue24658 we'll want to think about some alternative file formats to store all of the necessary information.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/JRakNet/JRakNet/issues/61" TITLE : extremely high cpu usage BODY : server startthreaded seems to take up the whole core it's running on, not sure if this is intended but not good regardless.

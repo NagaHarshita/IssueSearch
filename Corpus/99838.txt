@@ -1,0 +1,1 @@
+ URL : "https://github.com/tedb-org/teDB/issues/13" TITLE : no key of undefined found. BODY : issue with updating an indexed key that is set to . users should not set indices to null if the item is empty. instead they should set the index to ''. > having a key that is null means the tree is empty in the eyes of tedb.

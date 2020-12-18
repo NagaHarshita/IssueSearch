@@ -1,0 +1,1 @@
+ URL : "https://github.com/counsyl/hgvs/issues/36" TITLE : add nc_allele parse BODY : awesome work! thanks! there are some variants which have no mrna or cdna hgvs, eg. rs716274，nc_000011.9:g.103418158a>g nc_allele is empty and not being processed now.

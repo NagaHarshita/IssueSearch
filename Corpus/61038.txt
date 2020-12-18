@@ -1,0 +1,1 @@
+ URL : "https://github.com/jaypipes/gsr/issues/2" TITLE : add tests for tls setup BODY : need to test the tls mode and configuration options. use a self-signed cert for basic tests.

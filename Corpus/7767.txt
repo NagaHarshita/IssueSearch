@@ -1,0 +1,1 @@
+ URL : "https://github.com/tanguyantoine/react-native-music-control/issues/99" TITLE : ios 11 support? BODY : does this work on ios 11 please? i've tried the example, can get it to work but control centre details are not updated. thanks. 1. sample code provide repo url or sample code n/a 2. platform ? - x ios - android 3. device - x simulator - x real device

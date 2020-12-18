@@ -1,0 +1,1 @@
+ URL : "https://github.com/bakkiaraj/DownloadInTamil/issues/4" TITLE : optimize for speed BODY : remove javascript parsing from browser object because its slow and at this moment its not needed for intamil.in site reuse the browser object than creating new browser every time to reduce cpu and memory

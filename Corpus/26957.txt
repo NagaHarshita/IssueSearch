@@ -1,0 +1,1 @@
+ URL : "https://github.com/mobeets/mpm/issues/21" TITLE : check for install.m BODY : after installation, check for and run any included installation file, e.g., one called install.m . see 20 should we check for a specifically named install file, such as mpminstall.m ? depends what sorts of things would be done inside an install script.

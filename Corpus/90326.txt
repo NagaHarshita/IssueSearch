@@ -1,0 +1,1 @@
+ URL : "https://github.com/mcmonkey4eva/Sentinel/issues/211" TITLE : sentinel maximum health ? BODY : i don't know how to change the maximum health a sentinel can have. the maximum is actually 2000 and i have uped the maximum health on my spigot.yml to 9999 but a the maximum of a sentinel still at 2000... how can i change it ?

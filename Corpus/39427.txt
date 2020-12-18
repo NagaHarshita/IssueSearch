@@ -1,0 +1,1 @@
+ URL : "https://github.com/marmelab/comfygure/issues/117" TITLE : set and get one keys BODY : actually, we have comfy setall your-env , it would be nice to have something like that: comfy set your-env your-key your-value comfy get your_env your-key do not forget to take into account the case where you-key is object, array or simple value

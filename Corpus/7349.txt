@@ -1,0 +1,1 @@
+ URL : "https://github.com/jiscdev/data-explorer/issues/192" TITLE : fix back button BODY : back button behaviour is inconsistent -- new breadcrumbs allow for a stack of previous locations and so back button behaviour can be improved.

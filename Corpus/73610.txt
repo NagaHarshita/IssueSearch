@@ -1,0 +1,1 @@
+ URL : "https://github.com/trealla-lang/trealla/issues/184" TITLE : current_op/3 bug on repl BODY : current_op/3 do not echo correctly in repl: !/bin/sh tpl -q <<eof current_op p, t, ':-' . eof output: % sh foo.sh p: xfx t: t true.

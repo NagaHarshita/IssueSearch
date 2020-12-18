@@ -1,0 +1,1 @@
+ URL : "https://github.com/ashleysommer/sanic-cors/issues/9" TITLE : it does not work BODY : i tried to implement sanic-cors but it does not work. i got a 405 method not allowed status options . here is my implementation python some code cors app @app.delete '/api/auth' @auth.login_required async def auth_logout request : auth.logout_user request return json none, status=ok

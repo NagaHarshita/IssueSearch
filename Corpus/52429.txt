@@ -1,0 +1,1 @@
+ URL : "https://github.com/zeromq/zproject/issues/938" TITLE : cmake release and test BODY : cmake by default define ndebug with using release or relwithdebinfo which is not working well with tests.

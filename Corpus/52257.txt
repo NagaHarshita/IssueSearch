@@ -1,0 +1,1 @@
+ URL : "https://github.com/electerious/basicLightbox/issues/9" TITLE : change npm main to src BODY : hi agin @electerious, i'm apparently the only one here making issues living haha 😄 ! i would just ask if it's possible to change the packages.json main entry to point to src/script/main.js . it's better to have non minified filed as source when building. thank you so much.

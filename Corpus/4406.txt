@@ -1,0 +1,1 @@
+ URL : "https://github.com/CI-WATER/gsshapy/issues/8" TITLE : cmt file issue BODY : copy cmt file to execute/result directory, change file paths for index maps to point to parent folder.

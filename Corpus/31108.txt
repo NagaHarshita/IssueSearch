@@ -1,0 +1,1 @@
+ URL : "https://github.com/ChristophBerg/postgresql-unit/issues/11" TITLE : rounding unit value BODY : hi chris, again, kudos for the extension! is there a method to round the value returned from a query? for example: select '25 m'::unit @ 'ft' result: 82.0209973753281 ft i'd like to be able return, for example, 82.0. thanks in advance!

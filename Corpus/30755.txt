@@ -1,0 +1,1 @@
+ URL : "https://github.com/gatewayapps/kamino/issues/51" TITLE : quick clone feature BODY : alter the clone button to be a split button in which the left side of the button will clone the issue to the last used repo and the right side of the button will be the usual drop down

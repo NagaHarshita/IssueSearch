@@ -1,0 +1,1 @@
+ URL : "https://github.com/dsoulayrol/android-sholi/issues/27" TITLE : crash on import BODY : first: thanks for the nice app. i had some trouble importing, and the issue is caused by having an item in the list twice, that is not yet in the shopping list. trying to import e.g. -abc -abc fails if abc is not yet in the list.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/bsusta/lanhelpdesk-nasadenie/issues/48" TITLE : task list s company BODY : ked poslem z filtra request na zoznam taskov s nejakou company, tak sa mi vratia aj tasky, ktore nemaju ziadnu company. teraz pozeram, ze je tam iny problem: ked posielam requestera aj company na zoznam taskov, tak sa asi ignoruje company

@@ -1,0 +1,1 @@
+ URL : "https://github.com/SpidChain/spidchain-btcr/issues/9" TITLE : implement an spv node BODY : using bcoin.js. this way we can remove the calls to blockexplorers to get balance, send raw transactions.

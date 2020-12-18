@@ -1,0 +1,1 @@
+ URL : "https://github.com/jacentio/beam/issues/8" TITLE : add etcd driver tests BODY : tests to cover the passing of service objects and successful processing to an etcd cluster

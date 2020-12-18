@@ -1,0 +1,1 @@
+ URL : "https://github.com/genome-nexus/genome-nexus/issues/66" TITLE : set up ssl certificate BODY : currently genomenexus.org is only served over http, we would like to serve over https

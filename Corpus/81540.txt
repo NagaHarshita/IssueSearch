@@ -1,0 +1,1 @@
+ URL : "https://github.com/cytle/wechat_web_devtools/issues/49" TITLE : 运行 ./bin/wxdt 出错 BODY : ./nw: error while loading shared libraries: libnw.so: cannot open shared object file: no such file or directory

@@ -1,0 +1,1 @@
+ URL : "https://github.com/YaleDecisionNeuro/PsychTaskFramework/issues/124" TITLE : fix lotto positioning BODY : the 115/ 122 hotfix introduced some issues in lottery value display -- see clipping in sodm and especially hlff. to close this issue, we need to: - fix the positioning, - record the correct display in an rf test 63 in order to prevent the regression from recurring.

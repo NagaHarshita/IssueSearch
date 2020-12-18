@@ -1,0 +1,1 @@
+ URL : "https://github.com/PufferPanel/PufferPanel/issues/798" TITLE : proxy token refresh issue BODY : the proxy token refresh does not function due to it using the hash of the credentials to validate. discord chat for a refresh: https://pastebin.com/0x1vcdwn

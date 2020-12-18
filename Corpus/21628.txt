@@ -1,0 +1,1 @@
+ URL : "https://github.com/RadeonOpenCompute/ROCm/issues/289" TITLE : fp16 support issue BODY : my question is whether rx580 support opencl fp16 computation cl_khr_fp16 ? can anyone provide fp16 information about rx580, i cann't find accurate information about this.

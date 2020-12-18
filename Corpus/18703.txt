@@ -1,0 +1,1 @@
+ URL : "https://github.com/akamai/cli/issues/21" TITLE : uninstall command BODY : it would be useful to have a command to remove plugins: akamai uninstall foo

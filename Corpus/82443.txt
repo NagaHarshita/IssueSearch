@@ -1,0 +1,1 @@
+ URL : "https://github.com/djstein/vue-django-webpack/issues/2" TITLE : add travis ci integration BODY : create tests for travis to ensure build is working https://travis-ci.org/

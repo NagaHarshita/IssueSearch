@@ -1,0 +1,1 @@
+ URL : "https://github.com/kee-org/browser-addon/issues/118" TITLE : autofilling wrong field BODY : kee is autofilling the add to list field in trello which is not used for login. here's the html of the field <input class= list-name-input name= name placeholder= add a list… autocomplete= off dir= auto maxlength= 512 style= cursor: pointer; type= text >

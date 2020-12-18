@@ -1,0 +1,1 @@
+ URL : "https://github.com/kenkris/myapi/issues/10" TITLE : return http code BODY : set the htts status code in the header in the appv1 before echo - 200 - ok - 404 - resource not found. -- put details in message ex. ---no person with id 666 ---url not found

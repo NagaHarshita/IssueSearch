@@ -1,0 +1,1 @@
+ URL : "https://github.com/surfacepatterns/midisnoop/issues/7" TITLE : update to qt5 BODY : hi, there is ongoing process in debian - removing qt4 from debian archive is there any chance get midisnoop build against qt5? https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=875047 best regards mira

@@ -1,0 +1,1 @@
+ URL : "https://github.com/coding-blocks/hiring-blocks/issues/10" TITLE : create user endpoint BODY : - /users only for admins - /users/:id only for admins - /users/me returns current user details, for any any user via bearer token

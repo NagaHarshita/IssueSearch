@@ -1,0 +1,1 @@
+ URL : "https://github.com/Caleydo/lineage/issues/121" TITLE : poi selection broken BODY : always for numerical, sometimes for switching between categorical too: ! image https://cloud.githubusercontent.com/assets/2039375/24382670/0d0b822c-1315-11e7-9116-f993fa612fe2.png to reproduce, try to set poi based on generation.

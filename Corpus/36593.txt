@@ -1,0 +1,1 @@
+ URL : "https://github.com/BlupoV2/RBLX-ColorPane/issues/9" TITLE : hue complement modes BODY : the setting is already implemented into colorpane, but nothing uses it yet. complement modes would let you see colors that complement others. this would be used by inputs and pickers that use hue to represent colors.

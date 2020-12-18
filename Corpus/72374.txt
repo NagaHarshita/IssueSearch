@@ -1,0 +1,1 @@
+ URL : "https://github.com/andreasvc/roaringbitmap/issues/24" TITLE : bug in difference_update BODY : new elements appear in bitmap after calling difference_update : in 1 : from roaringbitmap import roaringbitmap in 2 : r = roaringbitmap range 131071 in 3 : r.pop out 3 : 131070 in 4 : r.pop out 4 : 131069 in 5 : r.difference_update roaringbitmap 130752 in 6 : r.pop out 6 : 131070

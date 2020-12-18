@@ -1,0 +1,1 @@
+ URL : "https://github.com/8select/strulo/issues/21" TITLE : fix failing prepush hook BODY : prepush hook currently fails when the coverage did not change as no new badge to commit can be found.

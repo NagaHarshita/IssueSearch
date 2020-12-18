@@ -1,0 +1,1 @@
+ URL : "https://github.com/CuBoulder/atlas/issues/92" TITLE : cron is running a lot BODY : change celerybeat frequency down to non-dev levels

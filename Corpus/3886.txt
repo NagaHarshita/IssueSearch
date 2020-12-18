@@ -1,0 +1,1 @@
+ URL : "https://github.com/ingadhoc/odoo-etl/issues/12" TITLE : 0 openerp slow BODY : hi every time i save or navigate in openerp it takes about 15sec to load as an example please see : http://imgur.com/a/t1geu i have odoo version 7.0-20130226-002110 i'm using local network with synology thanks in advance

@@ -1,0 +1,1 @@
+ URL : "https://github.com/z-song/laravel-admin/issues/406" TITLE : help api referencing BODY : hi, you are always referencing to api inside code, e.g. https://github.com/mp43819/laravel-admin/blob/master/docs/en/model-form.md for select field function. do you expose this api with custom methods or just json response? could you be so kind and elaborate?

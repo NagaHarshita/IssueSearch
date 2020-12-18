@@ -1,0 +1,1 @@
+ URL : "https://github.com/coderaiser/node-mollify/issues/3" TITLE : 2.0.0 is broken BODY : in mollify ... - it looks like req should've been renamed request - name is defined as const twice - options.is doesn't seem to get used

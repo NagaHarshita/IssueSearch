@@ -1,0 +1,1 @@
+ URL : "https://github.com/mpay24/mpay24-php/issues/28" TITLE : php 7.2 support BODY : our project is going to use php 7.1 suppored till 2019 and as soon as php 7.2 is released, we will update. so we need the php 7.2 support if want to go with mpay24. as you already mentioned in the code mcrypt_functions will be removed.

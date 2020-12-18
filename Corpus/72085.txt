@@ -1,0 +1,1 @@
+ URL : "https://github.com/ustwo/baseviewcontroller-swift/issues/14" TITLE : automate release process BODY : description automate the release process. details automate releasing a new version of the framework using fastlane. this could include, but not limited to: - version bump - git tag - update documentation - podspec update & release

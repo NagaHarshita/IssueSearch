@@ -1,0 +1,1 @@
+ URL : "https://github.com/Laravel-Backpack/CRUD/issues/552" TITLE : 3.2.7 issues ? BODY : i just upgrade to 3.2.7 and i have this error: undefined variable: action view: /home/ubuntu/workspace/vendor/backpack/crud/src/resources/views/form_content.blade.php

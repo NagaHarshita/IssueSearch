@@ -1,0 +1,1 @@
+ URL : "https://github.com/mauriziotallarico/mldonkey-telegram-notifier/issues/1" TITLE : migliorare il messaggio BODY : posso creare un template html per rendere la notifica più bella da vedere. ovviamente prima devo recupearer il filename da mldonkey e poi passarlo al template.

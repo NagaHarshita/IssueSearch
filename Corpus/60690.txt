@@ -1,0 +1,1 @@
+ URL : "https://github.com/kamilsk/shared/issues/151" TITLE : add business collection BODY : review all starred repos and put them to collection. extend yaml format: - add tags - add subcategories - add flags: reviewed, used, etc.

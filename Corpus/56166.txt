@@ -1,0 +1,1 @@
+ URL : "https://github.com/Nukkit/Nukkit/issues/1805" TITLE : minecraft client crash BODY : issue description if you join a server and timeout and try to reconnect your minecraft pe crashes tested with windows10 edition steps to reproduce the issue 1. join the server 2. close your minecraft windows 10 edition 3. try to reconnect

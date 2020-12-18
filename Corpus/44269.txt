@@ -1,0 +1,1 @@
+ URL : "https://github.com/CRYTEK/CRYENGINE/issues/288" TITLE : error in waf building BODY : it says cryschematyc stdenv no wscript in it, but there is no such folder

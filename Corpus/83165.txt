@@ -1,0 +1,1 @@
+ URL : "https://github.com/RoboJackets/apiary/issues/28" TITLE : build apiary landing page BODY : this should be a blade template that is only invoked for non-members. it should feature a short introduction as to what the tool is and feature a large login button.

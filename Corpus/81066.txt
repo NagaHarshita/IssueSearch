@@ -1,0 +1,1 @@
+ URL : "https://github.com/status-im/status-go/issues/188" TITLE : version 0.9.8: checklist BODY : major items expected in the release: - ability to define a json-rpc server for network switching for eth protocol, with a default that uses infura - switch to go-ethereum hd wallets - think about how to integrate our double-ratchet implementation into whisper

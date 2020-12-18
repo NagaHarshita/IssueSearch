@@ -1,0 +1,1 @@
+ URL : "https://github.com/MaxMontoro/Event-Horizon/issues/14" TITLE : show event description BODY : - if the event has a description, and - there is enough space to display at least part of it with ellipsis at the end if there is not enough space: ... , then show description.

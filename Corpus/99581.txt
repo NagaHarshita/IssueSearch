@@ -1,0 +1,1 @@
+ URL : "https://github.com/j-bennet/wharfee/issues/155" TITLE : move to new command syntax BODY : 🏷 enhancement for example: wharfee supports run instead of container run see https://forums.docker.com/t/docker-run-and-docker-container-run/30526

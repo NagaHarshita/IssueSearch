@@ -1,0 +1,1 @@
+ URL : "https://github.com/SqliteModernCpp/sqlite_modern_cpp/issues/140" TITLE : can i use update command? BODY : hi does this wrapper have the update command? i need to make a query to update specific rows in my table, can i do that? if so, how? thanks!

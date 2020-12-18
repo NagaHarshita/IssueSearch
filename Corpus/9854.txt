@@ -1,0 +1,1 @@
+ URL : "https://github.com/Apidcloud/TypeScript-Experiments/issues/10" TITLE : add linting tool BODY : add a linting tool to run before every commit, such as tslint default.

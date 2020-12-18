@@ -1,0 +1,1 @@
+ URL : "https://github.com/GoogleCloudPlatform/google-cloud-node/issues/2659" TITLE : bigquery: set user-agent BODY : hi, i'm trying to override the user-agent used by biquery. i browsed the code but i don't see any obvious way to do it. could you walk me or is it something which would needs to be implemented ? regards

@@ -1,0 +1,1 @@
+ URL : "https://github.com/titaniumbones/hh-wordpress-env/issues/5" TITLE : add php tests BODY : _from @titaniumbones on november 11, 2017 7:51_ need to add phpunit to the docker image, and at least some php tests to the theme. _copied from original issue: titaniumbones/wordpress-starter 14_

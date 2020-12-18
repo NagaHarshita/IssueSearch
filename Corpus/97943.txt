@@ -1,0 +1,1 @@
+ URL : "https://github.com/rwjblue/ember-cli-template-lint/issues/281" TITLE : ignore option doesn't work BODY : specifying the ignore option in .template-lintrc.js has no effect. is this not supported by this addon? i found this unanswered query as well: https://discuss.emberjs.com/t/disable-template-linting-of-dummy-app/12873

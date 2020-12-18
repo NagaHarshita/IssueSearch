@@ -1,0 +1,1 @@
+ URL : "https://github.com/capitalone/cloud-custodian/issues/1794" TITLE : typo in sentry readme.md BODY : c7n_sentry/readme.md https://github.com/capitalone/cloud-custodian/blob/master/tools/c7n_sentry/readme.md json example reads 'must by non-empty' rather than 'must be non-empty'.

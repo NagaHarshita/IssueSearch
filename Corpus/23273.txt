@@ -1,0 +1,1 @@
+ URL : "https://github.com/nodejs/LTS/issues/207" TITLE : openssl + node 8.x BODY : @shigeki @mhdawson i wanted to clarify reasoning for not moving to 1.1.x in carbon i believe the biggest reason was lack of fips support https://wiki.openssl.org/index.php/fips_module_3.0 just wanted to make sure we are on the same page

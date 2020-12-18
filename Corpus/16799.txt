@@ -1,0 +1,1 @@
+ URL : "https://github.com/note/xml-lens/issues/8" TITLE : make ast complete BODY : entity references, pcdata among the others are missing.

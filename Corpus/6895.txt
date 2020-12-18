@@ -1,0 +1,2 @@
+ URL : "https://github.com/micul01/javascriptix/issues/65" TITLE : check for alias BODY : the first word of each simple command, if unquoted, is checked to see if it has an alias.
+if so, that word is replaced by the text of the alias.

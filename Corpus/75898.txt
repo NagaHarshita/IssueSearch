@@ -1,0 +1,1 @@
+ URL : "https://github.com/JaspervRijbroek/aurora/issues/55" TITLE : implement new debug tool BODY : the current debug logger is not good enough. i will exchange this one for the debug package. - add debug to the package.json - move from log.log to debug - register debug on the global namespace

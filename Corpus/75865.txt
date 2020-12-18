@@ -1,0 +1,1 @@
+ URL : "https://github.com/fitzgen/inlinable_string/issues/10" TITLE : implement a proper debug BODY : right now debug prints a bunch of character codes, which is not what we expect from a string.

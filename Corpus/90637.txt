@@ -1,0 +1,1 @@
+ URL : "https://github.com/richardwaynefedorajr/DesignPatternsCpp/issues/25" TITLE : source level optimization BODY : figure out if there is a better way to manage singleton memory, and if destructor needs to explicitly delete instance make sure public/private is correct, find places to use static, virtual, etc.

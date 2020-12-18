@@ -1,0 +1,1 @@
+ URL : "https://github.com/hmrc/self-assessment-api/issues/537" TITLE : sa - serviceunavailable BODY : hi, on hitting the base url --> https://test-api.service.hmrc.gov.uk for adding a self-employment business /self-assessment/ni/{nino}/self-employments api method is returning the following response. serviceunavailable is there any maintenance or downtime?

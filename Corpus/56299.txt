@@ -1,0 +1,1 @@
+ URL : "https://github.com/christopherdro/react-native-calendar/issues/129" TITLE : monthnames not working BODY : monthnames={custommonthnames} is not working after last commits.

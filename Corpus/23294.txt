@@ -1,0 +1,1 @@
+ URL : "https://github.com/CtrlGames/Wake/issues/3" TITLE : organize inc pools BODY : we currently have only a basic list of resources in the incremental-pools tag. we should have a way to organize them as needed. this should be flexible enough that we can add additional groupings easily as needed.

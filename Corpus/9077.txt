@@ -1,0 +1,5 @@
+ URL : "https://github.com/jascam/AnotherMigrateTest/issues/19" TITLE : task 9: masking BODY : masking support is currently not complete due to limitations in the wpf masking implementations.
+ 
+test unit samples:
+masking-mask-04-f.svg
+masking-mask-01-b.svg this work item was migrated from codeplex codeplex work item id: '415' vote count: '1'

@@ -1,0 +1,1 @@
+ URL : "https://github.com/MemeDistributionCo/MDCBot/issues/26" TITLE : timeout vote command BODY : proposed usage: --timeout @user need 68% or more of the online users not bots to also --timeout @user timeout vote session concludes after 30 seconds if user is sent to timeout, they can roll for >= 15 or wait 5 minutes after a user escapes they are given 24h cooldown

@@ -1,0 +1,1 @@
+ URL : "https://github.com/kenny-designs/mozartDiceGame/issues/9" TITLE : failure loading audio BODY : in the master branch, the app fails to load the midi files. running locally this is no issue but through the deployed version it is. fix immediately!

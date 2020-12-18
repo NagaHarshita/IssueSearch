@@ -1,0 +1,1 @@
+ URL : "https://github.com/PixelVision8/GameCreator/issues/552" TITLE : word wrap bug BODY : when a really long word is on a line and gets cut off, the word starts on the next line. it should stay on the same line then be split at the end of the line. ! image https://user-images.githubusercontent.com/24598054/34252606-5c527248-e612-11e7-9b69-fa0303352f20.png

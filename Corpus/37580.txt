@@ -1,0 +1,1 @@
+ URL : "https://github.com/AuburnSounds/Dplug/issues/198" TITLE : midi input in bitwig BODY : customer report graillon not responding to midi input in bitwig, which has been reproduced. action: see if simple-mono-synth is also affected it should .

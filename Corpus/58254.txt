@@ -1,0 +1,1 @@
+ URL : "https://github.com/benkeen/country-region-selector/issues/45" TITLE : select 2 compatibility BODY : hi, im trying to make this work with select2 jquery plugin, all options get loaded and i even can search, the problem is that the region field doesnt update when changing the option, could you give me some advice? thanks!

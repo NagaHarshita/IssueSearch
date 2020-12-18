@@ -1,0 +1,1 @@
+ URL : "https://github.com/moar-things/moar-profile-viewer/issues/3" TITLE : add call stacks / graphs BODY : currently there's no where in the viewer that displays call stacks or graphs. probably want to add something. my current thought is to render a graph with viz.js graphviz for javascript as an alternate view in the bottom right pane.

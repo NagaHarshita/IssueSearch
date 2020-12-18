@@ -1,0 +1,1 @@
+ URL : "https://github.com/eqdata/service-chatbots/issues/1" TITLE : change slack bot library BODY : existing slack bot library has some bugs. migrate to https://github.com/gilbertw1/slack-scala-client

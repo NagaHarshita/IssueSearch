@@ -1,0 +1,1 @@
+ URL : "https://github.com/status-im/status-react/issues/1709" TITLE : chat module refactoring BODY : refactor chat module so the logic is cleaner and easier to follow, user atomic events instead of long event chains and cut down code-redundancy. build atop of 1671

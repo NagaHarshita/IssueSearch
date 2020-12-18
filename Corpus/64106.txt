@@ -1,0 +1,1 @@
+ URL : "https://github.com/cmawhorter/betty/issues/12" TITLE : first-class vpc support BODY : adding vpc to lambda is trivial and nearly a requirement for enterprise. no reason not to do it.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/codesling/codesling.io/issues/64" TITLE : add line wrapping support BODY : currently, the line scrolls horizontally if too long. let's change code mirror to line-wrap.

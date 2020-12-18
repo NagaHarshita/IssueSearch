@@ -1,0 +1,1 @@
+ URL : "https://github.com/AxelTLarsson/listan/issues/30" TITLE : improve offline detection BODY : safari on os x goes offline quite easily unfortunately. wifi bad maybe idk, but chrome on same computer works fine . same for ff on my desktop which is disconcerting. what's worse is that applying actions does not trigger sync it would seem.

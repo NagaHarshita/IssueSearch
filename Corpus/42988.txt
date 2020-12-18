@@ -1,0 +1,1 @@
+ URL : "https://github.com/litil/vcp-app/issues/22" TITLE : change playlist fails BODY : for now, there is missing data returned by the server. the title field is missing for most of the playlists. check if it's still true. if it is fixed, try to reproduce the issue.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ncProjectRoot/nc-crm/issues/17" TITLE : db generation script BODY : - реалізувати sql скріпт на основі er діаграми, який створюватиме базу даних - налаштувати можливість автоматичного створення бази даних при старті проекту

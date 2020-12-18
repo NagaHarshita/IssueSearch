@@ -1,0 +1,1 @@
+ URL : "https://github.com/MarcoPon/SeqBox/issues/5" TITLE : sha256 is slow BODY : jfyi: sha256 < sha512 -256 < blake2b for 64bit cpus.

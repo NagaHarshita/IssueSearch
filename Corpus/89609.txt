@@ -1,0 +1,1 @@
+ URL : "https://github.com/dib-lab/kevlar/issues/177" TITLE : re-visit missing variants BODY : kevlar has excellent sensitivity, and improving specificity is the goal of our current work on likelihood modeling. but kevlar is still missing some true variants in the ssc trio, and this warrants some additional attention.

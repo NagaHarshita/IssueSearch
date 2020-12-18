@@ -1,0 +1,1 @@
+ URL : "https://github.com/ArcticaProject/nx-libs/issues/379" TITLE : switch to calloc BODY : we now have my places where memset is called after malloc. we should switch to calloc. interestingly calloc is far more than just a convenience function, see https://vorpus.org/blog/why-does-calloc-exist/

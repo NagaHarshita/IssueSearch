@@ -1,0 +1,1 @@
+ URL : "https://github.com/nim-lang/website/issues/58" TITLE : fix nimble logo BODY : i not sure to create a pull request so i'm created an issue. there are a small gaps between polygons, but with my perfectionism and budget monitor they are very notable: ! https://transfer.sh/oy9sh/nimbleg.svg i tried to fix it. here's what i got: ! https://transfer.sh/nh7tz/nimble.svg

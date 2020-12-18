@@ -1,0 +1,1 @@
+ URL : "https://github.com/failys/cairis/issues/68" TITLE : details behind risk scores BODY : in the cairis gui, it's possible to see the details behind a particular risk's score. this can be useful if a risk has an unexpectedly high or low score. these details are accessible via the api, so it's just a case of making sure these are displayed in the web app.

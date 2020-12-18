@@ -1,0 +1,1 @@
+ URL : "https://github.com/gaojiuli/toapi/issues/9" TITLE : html permanent storage. BODY : the aim is that our api server do not affect the source site. - save results into files. - file's name is hash path - file's content is html - update strategy? what should be updated, what should be permanent storaged?

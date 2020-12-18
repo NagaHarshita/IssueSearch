@@ -1,0 +1,1 @@
+ URL : "https://github.com/kristw/vega-desktop/issues/1" TITLE : use schema parser BODY : https://github.com/vega/schema/tree/parser is a parser for vega schema urls. it is safer than using index of in https://github.com/kristw/vega-desktop/blob/master/viewer/helper.js l21

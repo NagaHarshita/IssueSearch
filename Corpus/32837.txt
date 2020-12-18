@@ -1,0 +1,1 @@
+ URL : "https://github.com/martini97/services-healthcheck/issues/13" TITLE : wrong ping response BODY : when the service doesn't return a status, ping will return that the service is ok

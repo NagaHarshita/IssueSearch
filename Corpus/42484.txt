@@ -1,0 +1,1 @@
+ URL : "https://github.com/danigro77/NWKendo/issues/11" TITLE : better error messages BODY : currently the forms don't give accurate and constant feedback about saves. desired behavior: the user understands what went wrong and that it was successful or not

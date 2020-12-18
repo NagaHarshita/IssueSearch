@@ -1,0 +1,1 @@
+ URL : "https://github.com/CoenraadS/BracketPair/issues/41" TITLE : add sql support done BODY : i have added contextual parsing support for sql specifically mssql . see pr.

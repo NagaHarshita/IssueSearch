@@ -1,0 +1,1 @@
+ URL : "https://github.com/marcus1487/nanoraw/issues/40" TITLE : add heterologous test BODY : new subcommand to identify regions with heterozygous bases. should be some type of multimodal versus unimodal test. will also have to filter out off-by-one regions, maybe by offset testing.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/nexus7420/management/issues/39" TITLE : camera stops working BODY : camera and flash randomly stop working. opening camera app subsequently shows a black screen, followed by the app silently closing. a reboot is required to fix the issue. happens both with and without using the htc camera app linked in the xda post. device: sm-g925i build: 2017/04/08

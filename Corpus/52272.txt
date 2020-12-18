@@ -1,0 +1,1 @@
+ URL : "https://github.com/brainstormforce/simple-stripe-payments/issues/3" TITLE : change the prefix used BODY : current prefix stripe_ is not very unique, change that to be ssp_ or something more unique.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/mrlesmithjr/ansible-vsphere-management/issues/61" TITLE : implement docker swarm BODY : implement docker swarm for container services. along with this we will implement elk as a deployed docker swarm service. eventually the ability to deploy k8s, rancher or docker swarm will be available. rancher is 56

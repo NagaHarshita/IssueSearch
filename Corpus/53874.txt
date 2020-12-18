@@ -1,0 +1,1 @@
+ URL : "https://github.com/haffonist/igamt/issues/2523" TITLE : export - configuration BODY : not sure what does the duplicate obx datatype value when no flavor has been selected do. i did not provide a flavor in one of my co-constraints and i get the same results when this box is checked, in both cases the column is greyed out.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/pylover/nanohttp/issues/35" TITLE : stack nested contexts BODY : assume two contexts are nested within the same thread. python from nanohttp.contexts import context, context with context as ctx1: with context as ctx2: context 'blahblah' = 'something'

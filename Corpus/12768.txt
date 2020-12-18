@@ -1,0 +1,1 @@
+ URL : "https://github.com/catworking/catshop/issues/1" TITLE : roadmap for 2017 BODY : - x drupal commerce 2.x 集成 - x 添加示例产品数据 - x 集成search_api模块，实现产品搜索功能 - 创建pc端主题 - 集成支付宝和微信支付网关

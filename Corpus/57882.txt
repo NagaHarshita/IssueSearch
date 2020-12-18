@@ -1,0 +1,1 @@
+ URL : "https://github.com/AO-StreetArt/CLyman/issues/79" TITLE : replace eigen with glm BODY : replace eigen with glm: update transformation class update obj3 class update obj3_list class update other code using obj3 and list update api documentation what kind of rotations we recieve update dependency and build scripts update licenses

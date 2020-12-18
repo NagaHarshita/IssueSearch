@@ -1,0 +1,1 @@
+ URL : "https://github.com/neteoc/neteoc-desktop/issues/12" TITLE : switchable map types BODY : add a way for the user to be able to switch between osm and satellite view. ui should support more than two, eventually able to support topos and other maps.

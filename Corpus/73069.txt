@@ -1,0 +1,1 @@
+ URL : "https://github.com/facebook/reason/issues/1687" TITLE : comment parsing failure. BODY : this is really strange. since v3, docblock comment parsing fails and non-docblock comment parsing succeeds! reason this.fails / / ~w=x ~h=y hi , bye this.succeeds / / ~w=x ~h=y hi , bye cc @let-def - what changed with how we parse docblock comments?

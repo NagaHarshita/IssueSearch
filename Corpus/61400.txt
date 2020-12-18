@@ -1,0 +1,1 @@
+ URL : "https://github.com/ArmaAchilles/AresModAchillesExpansion/issues/200" TITLE : arsenal modules rewrite BODY : there are a bunch of concerns with the old ares arsenal modules. tasks to address: - low performance - creating achilles dependencies - not adding wanted items 196

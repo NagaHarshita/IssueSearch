@@ -1,0 +1,1 @@
+ URL : "https://github.com/sofacoustics/SOFAlizer-for-Unity/issues/3" TITLE : mysofa.h file missing BODY : in the current sofalizer for unity releases 1.0.0 and 1.0.1 the following error occurs: „datei include kann nicht geöffnet werden „mysofa.h“: no such file or directory“. we missed adding the mysofa.h file from the libmysofa libary. bug will be fixed in the next release.

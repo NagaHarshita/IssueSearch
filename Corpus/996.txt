@@ -1,0 +1,1 @@
+ URL : "https://github.com/andrewda/frc-rankings/issues/3" TITLE : clean it up BODY : should probably convert it all to python or at least use node v7's async and await .

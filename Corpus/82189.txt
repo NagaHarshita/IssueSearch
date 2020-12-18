@@ -1,0 +1,1 @@
+ URL : "https://github.com/tumluliu/air.js/issues/1" TITLE : add mapbox directions api BODY : add the block of mapbox directions api for bicycling. no submit button this time. just a checkbox because no extra options available in the mb directions api for bicycling to control whether the cycling path should be displayed or not.

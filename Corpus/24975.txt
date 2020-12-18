@@ -1,0 +1,1 @@
+ URL : "https://github.com/idaholab/moose/issues/9074" TITLE : update mathjax url BODY : description of the enhancement or error report old cdn is retired. rationale for the enhancement or information for reproducing the error mathjax is broken in the docs right now. no equations! identified impact make equations great again

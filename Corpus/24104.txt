@@ -1,0 +1,1 @@
+ URL : "https://github.com/simonkrol/TheLoneTumbler/issues/3" TITLE : seeded plants quad BODY : similar to 2, far away seeds can be represented by a billboarded quad since they will no longer require any collisions.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/portworx/lcfs/issues/21" TITLE : block cache sizing BODY : layers in an image and all containers running on top of those, share a common block page cache. size that based on the amount of data stored in all of those.

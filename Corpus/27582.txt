@@ -1,0 +1,1 @@
+ URL : "https://github.com/e1601515/Blockchain-Logistics-Tracker/issues/5" TITLE : dividing to modules BODY : server.js is growing too large for maintenance if isn't already . blockchain web3 , db, crypting and packet info should all have their own module. this is maybe a prototype 2 feature.

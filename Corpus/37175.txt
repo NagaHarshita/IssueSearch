@@ -1,0 +1,1 @@
+ URL : "https://github.com/Leaflet/Leaflet.Editable/issues/130" TITLE : leaflet 1.1.0 compat BODY : - l.polyline._flat replaced by l.lineutil._flat

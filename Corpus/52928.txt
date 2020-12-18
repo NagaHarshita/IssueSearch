@@ -1,0 +1,1 @@
+ URL : "https://github.com/RodrigoLeonBr/custos/issues/7" TITLE : criar tabela itemcusto BODY : criar tabela item custo iditemcusto char 3 pk id_grupoitemcusto char 3 fk iddescitemcusto varchar 30

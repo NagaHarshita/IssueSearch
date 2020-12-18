@@ -1,0 +1,1 @@
+ URL : "https://github.com/Strider-CD/strider-docker-runner/issues/45" TITLE : release a new version BODY : hi all, there are a lot of commits done by @oliversalzburg but since there is not a new release they are not being updated on strider in production. i know how to launch a new release but not sure if do it or it's better @knownasilya or @oliversalzburg to do so.

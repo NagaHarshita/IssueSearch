@@ -1,0 +1,1 @@
+ URL : "https://github.com/python-pillow/Pillow/issues/2812" TITLE : nose is deprecated BODY : http://nose.readthedocs.io/en/latest/index.html nose is deprecated, and it has a couple of failure modes that are kind of annoying. we should look at possible replacements that handle our needs: parallel execution coverage unittest2 based

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Openarl/PathOfBuilding/issues/440" TITLE : bug drillneck crash BODY : ! image https://user-images.githubusercontent.com/25852794/27876990-5708bc6c-61b9-11e7-996f-653be63b4dca.png builds with a pre 3.0 drillneck will crash upon hovering over the new drillneck when trying to select it.

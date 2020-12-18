@@ -1,0 +1,1 @@
+ URL : "https://github.com/kozintsev/kubos-research/issues/1" TITLE : open/save step problem BODY : after switching to a new kernel, the algorithm for opening saving the step-file

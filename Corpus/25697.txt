@@ -1,0 +1,1 @@
+ URL : "https://github.com/OP-TEE/optee_os/issues/1487" TITLE : about shared memory BODY : on the issue of shared memory, can not share a piece of memory, many times through the teec_invokecommand on this piece of memory to read and write operations. this will report teec_error_target_dead. how can i solve and look forward to your reply.

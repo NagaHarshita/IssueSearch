@@ -1,0 +1,2 @@
+ URL : "https://github.com/openfab-lab/boombox/issues/3" TITLE : git web site BODY : dorian m'a montré qu'il était facile de créer le site direct via une branche d'un repo pas besoin de grav ou de jeckyl sauf pour gestion plus poussée.
+faudrait tester qque part, tester avec boombox et en faire un tutoriel

@@ -1,0 +1,1 @@
+ URL : "https://github.com/arcticicestudio/nord-atom-ui/issues/55" TITLE : font size for tree view BODY : thanks for great theme! how i can change font size for .tree_view via style.less ? i have tried to set font-size like this, but didn't help .tree-view { font-size: 13px; }

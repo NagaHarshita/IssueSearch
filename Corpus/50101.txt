@@ -1,0 +1,1 @@
+ URL : "https://github.com/Guardians-Galaxy/Jot/issues/21" TITLE : view reminders screen BODY : - pull all reminders from firebase that are attached to notes and display - display reminders with a name, date/time and a place if given - clicking reminder item opens note for editing

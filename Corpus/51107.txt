@@ -1,0 +1,1 @@
+ URL : "https://github.com/anthillsolutions/locations/issues/7" TITLE : add remove by latitude BODY : we would like to have the following action: $ action=delete latitude=42.04 npm start it will find all documents with a latitude of 42.04 and delete them. it is a combination of find and flsuh.

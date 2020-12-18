@@ -1,0 +1,1 @@
+ URL : "https://github.com/tiagoheliob/vehicle-sales/issues/35" TITLE : expose vehicle data BODY : create field on root query to expose the vehicle data.

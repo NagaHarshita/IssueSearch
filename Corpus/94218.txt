@@ -1,0 +1,1 @@
+ URL : "https://github.com/cslarsen/wpm/issues/12" TITLE : bug when downsizing window BODY : for some quotes, when you keep downsizing, it will throw an error. better to just print inside the display that sorry, the window is too small!

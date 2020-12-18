@@ -1,0 +1,1 @@
+ URL : "https://github.com/Volst/create-react-app/issues/3" TITLE : add prettier script BODY : like kent c. dodds's react-scripts, a prettier script should be provided so it isn't necessary to reconfigure all the time.

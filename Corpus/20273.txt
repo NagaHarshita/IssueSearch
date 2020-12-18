@@ -1,0 +1,1 @@
+ URL : "https://github.com/f4exb/sdrangel/issues/79" TITLE : can't enable audio BODY : i seem not to be able to enable the audio in preferences->audio. i'm using sdrangel compiled from source and up-to-date with the latest master branch.

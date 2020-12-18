@@ -1,0 +1,1 @@
+ URL : "https://github.com/MarsBased/marsman/issues/31" TITLE : enable middleman-email v4 BODY : we need to update the gemfile to include the middleman-email gem.

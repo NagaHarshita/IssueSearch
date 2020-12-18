@@ -1,0 +1,1 @@
+ URL : "https://github.com/iambrandonn/eslint-plugin-contains/issues/1" TITLE : change text finder BODY : please change <code> if filecontent.indexof options.tofind > 0 { </code> by <code> if filecontent.indexof options.tofind !== -1 { </code>

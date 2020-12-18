@@ -1,0 +1,1 @@
+ URL : "https://github.com/opentargets/webapp/issues/190" TITLE : enable eslint rules BODY : there are several linting rules disabled in .eslintrc.js , which would have significantly slowed work on the branch refactor-structure and were deemed non-essential. it would be nice to re-enable these and fix any issues, when there is a spare moment.

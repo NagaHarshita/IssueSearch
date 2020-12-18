@@ -1,0 +1,1 @@
+ URL : "https://github.com/thatplugincompany/login-designer/issues/4" TITLE : logo spacing issue BODY : when you remove a logo, then bottom spacing setting does not actually do anything, until you refresh once again.

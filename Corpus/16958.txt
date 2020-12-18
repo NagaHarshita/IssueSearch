@@ -1,0 +1,1 @@
+ URL : "https://github.com/hirshagarwal/Sophos/issues/11" TITLE : model return self BODY : the model.add method should return the model so that add statements can be chained together.

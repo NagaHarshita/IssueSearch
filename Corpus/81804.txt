@@ -1,0 +1,4 @@
+ URL : "https://github.com/kea-2017/kea-2017/issues/1759" TITLE : 8.3 technical blog ~ 1 hr BODY : 8.3 technical blog ~ 1 hr - start your toggl timer. write blog post - create a username.github.io/blogs/t6-scope.html file. explain to a non-tech friend - what 'scope' is, and how it works in javascript. link your blog to the main page - on your index home page, create a link to your technical blog post.
+- stage and commit with meaningful commit message.
+- push to github to make it live!
+- paste a link to your live blog in the waffle ticket comments below. share it! - on your cohort-specifc slack channel, share the link to your home page using the hashtag techblog sprintnum , for example techblog5.

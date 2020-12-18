@@ -1,0 +1,1 @@
+ URL : "https://github.com/perl6/doc/issues/1259" TITLE : <same> is not documented BODY : at least i couldn't find it with search. say ‘aabbbc’.comb /. <same>. / output: « aa bbb c ␤» 20:14:35 <alexdaniel> huh, <same> ? 20:15:47 <timtoady> it's a 0-width assertion about its surrounding chars

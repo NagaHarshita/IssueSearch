@@ -1,0 +1,1 @@
+ URL : "https://github.com/djfun/audio-visualizer-python/issues/33" TITLE : update to qt5 BODY : last thing that needs to be done before packaging is an update to qt5.8. work on this is currently underway in the feature-newgui-qt5 branch

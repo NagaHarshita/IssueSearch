@@ -1,0 +1,1 @@
+ URL : "https://github.com/Whos-Hungry/dashboard-app/issues/74" TITLE : change email and password BODY : on the about page, create a change password form, where you confirm your old password and enter a new one. also, on the about page, create a change email form, where you confirm your old email, enter your password, and enter a new email.

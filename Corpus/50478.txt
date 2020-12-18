@@ -1,0 +1,1 @@
+ URL : "https://github.com/scott-mcdonald/JsonApiFramework/issues/35" TITLE : .net standard support? BODY : error: one or more packages are incompatible with .netstandard,version=v1.4. adding it to a class library -type solution. it's compatible with .net core, so i assume standard support should be very easy?

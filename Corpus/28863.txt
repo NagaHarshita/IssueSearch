@@ -1,0 +1,1 @@
+ URL : "https://github.com/apex/up/issues/33" TITLE : ignore file support BODY : might make sense to source from .gitignore as well, but by default we should at very least ignore dotfiles, and support .upignore.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/catmaid/CATMAID/issues/1528" TITLE : skeleton import button BODY : skeleton import currently from swc only is only api only. presumably this button should either go in the neuron navigator or just be a small widget accessible through the open widget dialog.

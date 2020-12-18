@@ -1,0 +1,1 @@
+ URL : "https://github.com/tzapu/WiFiManager/issues/422" TITLE : add micro framework css/js BODY : add ultra small css and js framework for basic unified styling and ajax view support make compile optional or an extension, so as so keep core as small as possible still.

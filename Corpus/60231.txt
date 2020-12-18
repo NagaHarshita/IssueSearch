@@ -1,0 +1,1 @@
+ URL : "https://github.com/mimmi20/BrowserDetector/issues/81" TITLE : wrong device detection BODY : ua: mozilla/5.0 linux; u; android 4.2.2; de-de; vodafone smart tab iii 10 build/s6000_a422_000_027_130814_vf applewebkit/534.30 khtml, like gecko version/4.0 mobile safari/534.30 detected as: cubot one should be: lenovo smart tab iii 10

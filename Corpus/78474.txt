@@ -1,0 +1,1 @@
+ URL : "https://github.com/unfetter-discover/unfetter/issues/264" TITLE : provide a data load page BODY : there should be a page that will allow uploading of new stix data either from a url or from a local file, or a file on the local file system of the user. reduce the friction of adding new capabilities.

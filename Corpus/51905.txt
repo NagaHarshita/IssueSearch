@@ -1,0 +1,1 @@
+ URL : "https://github.com/gisce/orakWlum-frontend/issues/274" TITLE : bug refreshing element BODY : elements changes are not reflected to the current rendered element. it implies that, any change over an element, ie - reprocessing - refreshing - new modifications - ... are not auto-updated. review it and provide a fix

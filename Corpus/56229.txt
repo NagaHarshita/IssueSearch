@@ -1,0 +1,1 @@
+ URL : "https://github.com/jupyterlab/jupyterlab-demo/issues/33" TITLE : missing some datafiles BODY : i tried to get the demos working for a presentation this morning. even after using invoke to install the data files, the files could not be found. are some of the datafiles missing? or is it a path issue on my part?

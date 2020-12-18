@@ -1,0 +1,1 @@
+ URL : "https://github.com/OpenTSDB/opentsdb/issues/1046" TITLE : randomize tagv creation BODY : is there a particular reason tagvs don't have a config option to randomize uid assignment like metrics do? https://github.com/opentsdb/opentsdb/blob/master/src/core/tsdb.java l213

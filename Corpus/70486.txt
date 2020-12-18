@@ -1,0 +1,1 @@
+ URL : "https://github.com/timscott/react-devise-sample/issues/1" TITLE : webpack config missing? BODY : hello, from the readme: this project setup uses webpack for handling all assets. --- where is the project's webpack config file? i'm looking to add css-loader to the sample app but don't see where in the sample app the webpack config exists. thanks

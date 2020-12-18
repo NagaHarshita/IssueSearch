@@ -1,0 +1,1 @@
+ URL : "https://github.com/SatelliteQE/robottelo/issues/4854" TITLE : 6.3 errata tests BODY : many errata tests rely on rhst6.2 errata ids but the sat-6.3 use rhst6.3 where there is no errata for the moment. these tests need refactoring for example tests.foreman.ui.test_errata::erratatestcase.

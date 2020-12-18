@@ -1,0 +1,1 @@
+ URL : "https://github.com/lenskit/lenskit.github.io/issues/16" TITLE : document adding parameters BODY : document the need to write files like biasdamping.java when creating parameters for algorithms.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/hpi-swt2/wimi-portal/issues/588" TITLE : duplicate login prompt BODY : when visiting pages while not being logged in, users are redirected to the login page. this shows the prompt to login twice. ! image https://user-images.githubusercontent.com/1652117/26884685-a5a46080-4ba0-11e7-96c5-12e7be6c1d83.png

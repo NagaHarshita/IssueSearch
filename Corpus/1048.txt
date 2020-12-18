@@ -1,0 +1,1 @@
+ URL : "https://github.com/mozilla/fxa-profile-server/issues/287" TITLE : fix nsp 534 BODY : ref: debug 2.2.0 >= 2.6.9 < 3.0.0 || >= 3.1.0 fxa-profile-server@1.96.0 > gm@1.22.0 > debug@2.2.0 https://nodesecurity.io/advisories/534 tried to update modules but tests failing: https://github.com/mozilla/fxa-profile-server/pull/285 discussion_r142488476

@@ -1,0 +1,1 @@
+ URL : "https://github.com/AgileDataScienceUB/ADS1/issues/10" TITLE : adapt tasks of sprint 1 5 BODY : user story: 1-5 5 hours adapt queries of the sprint 1 to mongo db. ca: - filters work well. - users can edit their profile

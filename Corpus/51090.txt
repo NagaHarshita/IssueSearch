@@ -1,0 +1,1 @@
+ URL : "https://github.com/perry-mitchell/webdav-client/issues/27" TITLE : add proper test server BODY : using webdav-server https://www.npmjs.com/package/webdav-server , create a proper server for detailed integration testing.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/Valansch/RedMew/issues/89" TITLE : onmined desync bug BODY : investigate why on entity mined and player deaths cause desyncs. frequently requires 3 players on the server, and is a bit of a heisenbug.

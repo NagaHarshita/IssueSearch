@@ -1,0 +1,1 @@
+ URL : "https://github.com/CommerceDataService/census-wrapper/issues/35" TITLE : documentation cleanup zip BODY : geographic elements like zipcode aren't named in an obvious way. zip code tabulation area is an unwieldy way to reference zipcode.

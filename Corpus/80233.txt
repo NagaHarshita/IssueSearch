@@ -1,0 +1,1 @@
+ URL : "https://github.com/kstf/plump-store-postgres/issues/6" TITLE : the $get query is spendy BODY : we should probably do all the work of dynamically building the $get query string once and stash it on the constructor for the model at load time when the file is first required and then just call it a lot, instead of going nuts each time, since most models only get a $get once.

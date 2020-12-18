@@ -1,0 +1,1 @@
+ URL : "https://github.com/GrandComicsDatabase/gcd-django/issues/311" TITLE : use nicer date selectors BODY : on several pages we have barebone date-selectors, there should be nicer things around. although we need more hmm, less than pure date-selectors, namely year-month or year-week selectors.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/AgriVision/pisstv/issues/2" TITLE : no output on pi zero BODY : am trying to use this on my pi zero and it appears to run fine, however, there is no audio output at all. it does not seem to matter what frequency i use.

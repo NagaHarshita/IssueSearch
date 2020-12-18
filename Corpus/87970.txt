@@ -1,0 +1,23 @@
+ URL : "https://github.com/OCA/bank-statement-reconcile/issues/186" TITLE : migration to version 11.0 BODY : todo https://github.com/oca/maintainer-tools/wiki/migration-to-version-11.0 modules to migrate - account_bank_statement_period_from_line_date
+- account_invoice_reference
+- account_mass_reconcile
+- account_mass_reconcile_ref_deep_search
+- account_mass_reconcile_transaction_ref
+- account_move_bankaccount_import
+- account_move_base_import
+- account_move_so_import
+- account_move_transactionid_import
+- account_operation_rule
+- account_payment_transaction_id
+- account_reconcile_payment_order
+- account_statement_cancel_line
+- account_statement_completion_label
+- account_statement_completion_voucher
+- account_statement_ext
+- account_statement_ext_point_of_sale
+- account_statement_ext_voucher
+- account_statement_no_invoice_import
+- account_statement_one_move
+- account_statement_operation_multicompany
+- account_statement_regex_account_completion
+- base_transaction_id

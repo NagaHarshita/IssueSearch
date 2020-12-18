@@ -1,0 +1,1 @@
+ URL : "https://github.com/miquella/vaulted/issues/85" TITLE : on a mac use the keychain BODY : i'm not sure where vaulted is storing data, but i would much rather vaulted store this data in the mac keychain.

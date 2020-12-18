@@ -1,0 +1,1 @@
+ URL : "https://github.com/hamburml/docker-flow-letsencrypt/issues/25" TITLE : use certbot docker image BODY : hi, maybe it's a good idea to use certbot docker image https://hub.docker.com/r/certbot/certbot/ instead of curl certbot-auto package while build? thanks

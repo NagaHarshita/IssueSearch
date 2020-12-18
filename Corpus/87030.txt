@@ -1,0 +1,1 @@
+ URL : "https://github.com/dragonfly-science/seabird-risk-assessment/issues/11" TITLE : integrating the stan code BODY : we will integrate @otthii 's stan code so that it runs on the same data as was used for the jags model, and so we can can compare the results of the two approaches.

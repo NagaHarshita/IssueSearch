@@ -1,0 +1,1 @@
+ URL : "https://github.com/slesulvy/React-Native-Issue/issues/1" TITLE : run-android unrecognized. BODY : when we try to run : > react-native run-android error: it show the error below : command run-android unrecognized. make sure that you have run npm install and that you are inside a react-nativ e project. ========= solution : -delete node_modules folder -run > yarn install

@@ -1,0 +1,1 @@
+ URL : "https://github.com/2amigos/yii2-arrayquery-component/issues/4" TITLE : support phpunit 5 BODY : haven't tried it, but should also run on v5 https://github.com/2amigos/yii2-arrayquery-component/blob/master/composer.json l32

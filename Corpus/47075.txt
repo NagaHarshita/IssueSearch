@@ -1,0 +1,1 @@
+ URL : "https://github.com/bilo-io/bilo-cli/issues/1" TITLE : nodejs not installed? BODY : would be cool if it'd check if dependencies such as node.js are installed and if not, download and install it.

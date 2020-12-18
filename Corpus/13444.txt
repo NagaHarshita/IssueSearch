@@ -1,0 +1,1 @@
+ URL : "https://github.com/x-team/unleash-styles/issues/3" TITLE : update repo docs BODY : please add: - local dev instructions - how to contribute - how to use react-styleguidist - how to install in other project npm, yarn

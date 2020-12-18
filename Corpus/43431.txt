@@ -1,0 +1,1 @@
+ URL : "https://github.com/rwich/CPW212-UserRegistration/issues/3" TITLE : create database class BODY : also add getconnection , adduser , and getallusers methods. i will write the remaining methods.

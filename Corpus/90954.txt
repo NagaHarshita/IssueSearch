@@ -1,0 +1,1 @@
+ URL : "https://github.com/astaerk/AutoRegistration/issues/4" TITLE : support for .net standard BODY : unity in version 5 brings support for .net standard 1.0, .net 4.0, 4.5 and 4.7. autoregistration should support the same frameworks.

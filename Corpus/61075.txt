@@ -1,0 +1,1 @@
+ URL : "https://github.com/72Fest/72Server/issues/3" TITLE : add url rewrite for elb BODY : the elb will access the app with the base url /cms which needs to be removed if present.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/elmarti/corertc/issues/7" TITLE : add init parameters BODY : in order to make the configuration process more abstract and accessible for laymen, there should be a goal driven configuration system which allows users to specify what level/nature of security they want and then programatically configure it for them.

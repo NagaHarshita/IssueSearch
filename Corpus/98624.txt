@@ -1,0 +1,1 @@
+ URL : "https://github.com/Elyssaen/endless-sky/issues/18" TITLE : jamminghaywire – rewrite BODY : after some playtesting, i think a slightly different implementation is called for. most importantly, it's probably best if a jammer requires a specific new attribute to be able to send missiles haywire. this way, existing content would be completely unchanged.

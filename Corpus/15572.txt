@@ -1,0 +1,1 @@
+ URL : "https://github.com/gnestor/react-native-statusbar-alert/issues/4" TITLE : error using pulse BODY : got this error when i tried to use pulse and pressed on it: style property 'backgroundcolor' is not supported by native animated module is this library still being maintained @gnestor ?

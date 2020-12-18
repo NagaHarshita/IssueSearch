@@ -1,0 +1,1 @@
+ URL : "https://github.com/bvanderlaan/jsdoc-route-plugin/issues/3" TITLE : shorten route param names BODY : if possible i haven't looked into the technical restraints it would be nice if we could use query , header , param instead of queryparam , headerparam , routeparam .

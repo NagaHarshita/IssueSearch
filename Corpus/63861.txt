@@ -1,0 +1,1 @@
+ URL : "https://github.com/xephonhq/xephon-k/issues/28" TITLE : expose internal metrics BODY : we need to expose some metrics like memory usage, counters for monitoring and benchmarks todo golang - gc - heap? meta store - number of indexes - longest postings ref - https://github.com/google/gops

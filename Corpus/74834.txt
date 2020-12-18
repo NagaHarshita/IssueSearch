@@ -1,0 +1,1 @@
+ URL : "https://github.com/vophuonglinh/fall17-225-cloud/issues/28" TITLE : fix bug: tile generation BODY : if the player stays in cloud, the game doesn't generate tiles.

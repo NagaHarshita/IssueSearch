@@ -1,0 +1,1 @@
+ URL : "https://github.com/ubports/dialer-app/issues/12" TITLE : incoming call controls BODY : implement incoming call controls: - block all calls - block unknown numbers - block calls from numbers not in contacts - block individual numbers - forward certain calls to certain numbers these should be done silently with no interruptions.

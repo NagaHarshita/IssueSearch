@@ -1,0 +1,1 @@
+ URL : "https://github.com/mailchimp/mc-magento2/issues/97" TITLE : store is always syncing BODY : the value on the module configuration page is always in is syncing even if the module has already sync all the data.

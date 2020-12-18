@@ -1,0 +1,1 @@
+ URL : "https://github.com/duhow/Domain-Admin/issues/5" TITLE : dominios: ver servicios BODY : - ver si el dominio ofrece servicios web, ftp, ssh e indicar. - si tiene servicio web, ver si aplica redirect y vincular/asociar al dominio destino si está registrado.

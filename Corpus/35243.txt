@@ -1,0 +1,1 @@
+ URL : "https://github.com/arendst/Sonoff-Tasmota/issues/699" TITLE : disable relay option BODY : in some cases i don't want to use the internal relay because of soft switching. relaystate | 0 / off | disable use of relay

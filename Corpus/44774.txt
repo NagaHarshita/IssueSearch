@@ -1,0 +1,1 @@
+ URL : "https://github.com/guywarburg/Timer/issues/7" TITLE : fix slidenum counting BODY : currently, on each click slidenum is incremented or decremented. need to think of better solution.

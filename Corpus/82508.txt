@@ -1,0 +1,1 @@
+ URL : "https://github.com/openlayers/openlayers/issues/6440" TITLE : addition of ol.format.ogc BODY : the documentation is an example, which generates xml for getfeature request. http://openlayers.org/en/v3.20.1/apidoc/ol.format.filter.html separate ogc writer for use in wms filter will be implemented if?

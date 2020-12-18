@@ -1,0 +1,1 @@
+ URL : "https://github.com/GlobalFishingWatch/pipe-segment/issues/28" TITLE : handle noise segments BODY : connects https://github.com/skytruth/gpsdio-segment/issues/48 detect noise segments when they are emitted from gpsdio-segment and do not preserve the segment state. also add 'noise' to the segment id

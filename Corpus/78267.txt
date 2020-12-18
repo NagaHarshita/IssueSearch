@@ -1,0 +1,1 @@
+ URL : "https://github.com/sebsauvage/Shaarli/issues/240" TITLE : post to shaarli vi ifttt BODY : i would like be able to post to shaarli via ifttt's webhooks https://ifttt.com/maker_webhooks to forward to my server to make the signed api request. can this be implemented easily? please be kind as i'm new at this.

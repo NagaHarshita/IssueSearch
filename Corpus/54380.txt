@@ -1,0 +1,1 @@
+ URL : "https://github.com/adafruit/circuitpython/issues/287" TITLE : frozen modules for cpx BODY : need to include adafruit_thermistor, adafruit_lisd3h and adafruit_bus_device in the circuit playground express frozen modules. the lis3dh library starts to cause memory allocation issues when imported, and @dhalbert suggested integrating it to resolve this issue.

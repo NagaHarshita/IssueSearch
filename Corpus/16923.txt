@@ -1,0 +1,1 @@
+ URL : "https://github.com/Microsoft/Docker.DotNet/issues/272" TITLE : missing code sign BODY : csc : warning cs8002: referenced assembly 'docker.dotnet, version=2.124.0.0, culture=neutral, publickeytoken=null' does not have a strong name.

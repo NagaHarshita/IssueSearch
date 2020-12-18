@@ -1,0 +1,1 @@
+ URL : "https://github.com/aharonmanne/OpenApp/issues/8" TITLE : choose phone app BODY : on first call, user may see dialog requesting choice of app, with option to make it default. is it possible to choose a default app automatically? should the user choose the app at config time?

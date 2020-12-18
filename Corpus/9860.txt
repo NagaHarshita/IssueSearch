@@ -1,0 +1,1 @@
+ URL : "https://github.com/spf13/cast/issues/55" TITLE : add map of int64 BODY : could you please add tomapint = map string int tomapint64 = map string int64 thank you!

@@ -1,0 +1,1 @@
+ URL : "https://github.com/PhirePhly/aprx/issues/50" TITLE : d-prs does not work BODY : when running in d-prs mode, the only messages loggeg in dprs.log are still aprs-messages, but in an unreadable format. does d-prs logging require a d-star handset to be connected with a datacable, or is it just broken?

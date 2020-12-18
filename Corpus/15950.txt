@@ -1,0 +1,1 @@
+ URL : "https://github.com/NativeScript/nativescript-intl/issues/14" TITLE : get timezone name BODY : hi, it would be possible implement the javascript method intl.datetimeformat .resolvedoptions .timezone ? i need it to get the timezone name. or is there other way or workaround in nativescript to get the timezone name? thanks in advance.

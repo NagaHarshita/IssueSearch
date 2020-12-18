@@ -1,0 +1,1 @@
+ URL : "https://github.com/elastacloud/parquet-dotnet/issues/80" TITLE : writer - append to file BODY : appending can be done by stripping out file footer, adding a new row group and rewriting the footer back. useful for batch scenarios with limited amount of ram.

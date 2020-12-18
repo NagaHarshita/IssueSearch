@@ -1,0 +1,1 @@
+ URL : "https://github.com/dmarkow/ecto_ranked/issues/2" TITLE : position: 1 fails BODY : if i throw in a position: 1 update_index_from_position throws an error invalid position i'f fixed it by doing a cast |> string.to_integer

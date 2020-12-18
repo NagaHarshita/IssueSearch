@@ -1,0 +1,1 @@
+ URL : "https://github.com/ajaxorg/ace-builds/issues/105" TITLE : soft wrap free to off bug BODY : if soft wrap free default and change option soft wrap off then displayed inactive horizontal scrollbar.

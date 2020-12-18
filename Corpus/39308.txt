@@ -1,0 +1,1 @@
+ URL : "https://github.com/erochest/geobl-ingest/issues/11" TITLE : scenario: list users BODY : scenario: list users given i want to know who is allowed to upload data when i visit the user management page then i can see a list of users.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ESGF/esgf-installer/issues/225" TITLE : esgcet / thredds detection BODY : properly detect the esg-publisher esgcet version conda info or pip freeze should work not how to detect the correct thredds version unless we manage internally and try to keep consistent might be better for next-gen installer

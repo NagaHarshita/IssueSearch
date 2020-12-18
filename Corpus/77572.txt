@@ -1,0 +1,1 @@
+ URL : "https://github.com/marcoapintoo/nim-pythonize/issues/2" TITLE : nimble file needs update BODY : nimble install pythonize --verbose reading official package list downloading https://github.com/marcoapintoo/nim-pythonize.git using git error: the .nimble file name must match name specified inside /tmp/nimble_27314/githubcom_marcoapintoonimpythonizegit/pythonize.nimble

@@ -1,0 +1,1 @@
+ URL : "https://github.com/vitalidze/traccar-web/issues/1105" TITLE : system going down BODY : hello, when i try to generate a report more than 7 days, traccar system going offline. then i can't login to system until restart traccar service.. please help. thanks.

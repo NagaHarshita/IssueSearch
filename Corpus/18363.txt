@@ -1,0 +1,1 @@
+ URL : "https://github.com/SwiftGen/templates/issues/63" TITLE : swift 4 templates BODY : as mentioned in https://github.com/swiftgen/swiftgen/issues/312 by @csnu17, there apparently are some issues with the current templates on swift 4. we should fix these errors, and if possible, use new language features to simplify the templates where needed.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/ToroCraft/Minecoprocessors/issues/9" TITLE : faster processor speed BODY : the 10hz processor speed adds a lot of delay to many uses for this mod. would it be possible to allow multiple instructions to be executed per redstone tick?

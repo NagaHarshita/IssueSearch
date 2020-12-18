@@ -1,0 +1,1 @@
+ URL : "https://github.com/sochix/TLSharp/issues/396" TITLE : change channel link BODY : how to change channel link via your library? i guess i can make it via tl.channels.tlrequestupdateusername but there is i need pass absinputchannel and it's simply empty interface.

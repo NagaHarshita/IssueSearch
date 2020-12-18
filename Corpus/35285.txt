@@ -1,0 +1,5 @@
+ URL : "https://github.com/MWallin/Hydra-API/issues/13" TITLE : do graceful shutdown BODY : handle shutdown of node gracefully
+https://blog.risingstack.com/graceful-shutdown-node-js-kubernetes/
+https://joseoncode.com/2014/07/21/graceful-shutdown-in-node-dot-js/
+http://glynnbird.tumblr.com/post/54739664725/graceful-server-shutdown-with-nodejs-and-express/amp also db
+https://dev.to/albertofdzm/mongoose-mongodb-and-express-596

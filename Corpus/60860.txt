@@ -1,0 +1,1 @@
+ URL : "https://github.com/CityOfBoston/311/issues/478" TITLE : add more search results BODY : the searchbox api is returning 10 results by default. we should at least double that.

@@ -1,0 +1,1 @@
+ URL : "https://github.com/JazzType/refactored-happiness/issues/3" TITLE : pot money update issues. BODY : pot money does not update across player turns, remaining static at $0. client-server synch is currently broken.

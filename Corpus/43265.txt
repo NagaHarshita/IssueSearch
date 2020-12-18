@@ -1,0 +1,1 @@
+ URL : "https://github.com/serilog/serilog-sinks-elasticsearch/issues/84" TITLE : connection error logs BODY : i'm having trouble getting this to connect to my elastic search over https. the certificate is installed correctly however i'm wondering if there is a certificate chain error. how can i view the responses of this sink's failed connection attempts?
