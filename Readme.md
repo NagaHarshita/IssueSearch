@@ -1,6 +1,6 @@
 Implemented a cosine similarity ranking for the github issues document collection(100k docs).
 
-github link - https://github.com/NagaHarshita/IRProject
+github link - https://github.com/NagaHarshita/IssueSearch
 
 ## Overview
 The code performs the following functions for document retrieval on the GitHub issues documents collection. 
